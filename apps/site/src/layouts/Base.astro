@@ -1,0 +1,234 @@
+---
+import { getImage } from 'astro:assets'
+import appIcon from '../../../app/assets/icon.png'
+import navLibrary from '../../../app/assets/nav-icons/source/library.png'
+import navSearch from '../../../app/assets/nav-icons/source/search.png'
+import navToday from '../../../app/assets/nav-icons/source/today.png'
+import navPray from '../../../app/assets/nav-icons/source/you.png'
+import navSaints from '../../../app/assets/nav-icons/source/explore.png'
+import marker from '../../../app/assets/textures/horizontal_marker.png'
+import { htmlLang, type Locale, locales } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+import { themeCss } from '~/lib/theme'
+import { href, type Section } from '~/routes'
+import '~/styles/global.css'
+
+interface Props {
+  locale: Locale
+  title: string
+  description?: string
+  /** This page's path in each locale it exists in. */
+  alternates: Partial<Record<Locale, string>>
+  /** Where search engines should credit the page, when it is not this URL. */
+  canonical?: string
+  section?: Section | 'home'
+  image?: string
+  ogType?: 'website' | 'article' | 'book'
+  jsonLd?: unknown
+  noindex?: boolean
+}
+
+const {
+  locale,
+  title,
+  description,
+  alternates,
+  canonical,
+  section,
+  image,
+  ogType = 'website',
+  jsonLd,
+  noindex,
+} = Astro.props
+const s = siteStrings(locale)
+const site = Astro.site ?? new URL('https://ember.dpgu.me')
+const abs = (path: string) => new URL(path, site).href
+
+const self = alternates[locale] ?? Astro.url.pathname
+const other = locales.find((l) => l !== locale) as Locale
+const otherHref = alternates[other] ?? href.home(other)
+const fullTitle = section === 'home' ? `${s('siteName')} — ${s('tagline')}` : `${title} · ${s('siteName')}`
+const metaDescription = description ?? s('description')
+
+const icon = await getImage({ src: appIcon, width: 96, format: 'webp' })
+const touchIcon = await getImage({ src: appIcon, width: 180, format: 'png' })
+const ogImage = image ?? (await getImage({ src: appIcon, width: 512, format: 'png' })).src
+const rule = await getImage({ src: marker, width: 560, format: 'webp' })
+const tabIcon = (src: ImageMetadata) => getImage({ src, height: 90, format: 'webp' })
+
+const nav: { key: Section | 'home'; label: string; to: string }[] = [
+  { key: 'home', label: s('navToday'), to: href.home(locale) },
+  { key: 'prayers', label: s('navPrayers'), to: href.section(locale, 'prayers') },
+  { key: 'mass', label: s('navMass'), to: href.mass(locale) },
+  { key: 'office', label: s('navOffice'), to: href.office(locale) },
+  { key: 'bible', label: s('navBible'), to: href.section(locale, 'bible') },
+  { key: 'library', label: s('navLibrary'), to: href.section(locale, 'library') },
+  { key: 'saints', label: s('navSaints'), to: href.section(locale, 'saints') },
+  { key: 'calendar', label: s('navCalendar'), to: href.section(locale, 'calendar') },
+  { key: 'massTimes', label: s('navMassTimes'), to: href.section(locale, 'massTimes') },
+]
+
+// Sections without a link of their own light the nearest one.
+const navKey: Partial<Record<Section | 'home', Section | 'home'>> = {
+  latinMass: 'mass',
+  books: 'library',
+  collections: 'library',
+  readings: 'library',
+  voices: 'library',
+  plans: 'prayers',
+}
+const active = section ? (navKey[section] ?? section) : undefined
+
+const tabs = [
+  { key: 'home', label: s('navToday'), to: href.home(locale), icon: await tabIcon(navToday) },
+  { key: 'prayers', label: s('tabPray'), to: href.section(locale, 'prayers'), icon: await tabIcon(navPray) },
+  { key: 'library', label: s('navLibrary'), to: href.section(locale, 'library'), icon: await tabIcon(navLibrary) },
+  { key: 'saints', label: s('navSaints'), to: href.section(locale, 'saints'), icon: await tabIcon(navSaints) },
+  { key: 'search', label: s('search'), to: href.section(locale, 'search'), icon: await tabIcon(navSearch) },
+]
+const tabKey: Partial<Record<Section | 'home', string>> = {
+  mass: 'prayers',
+  latinMass: 'prayers',
+  office: 'prayers',
+  plans: 'prayers',
+  bible: 'library',
+  books: 'library',
+  collections: 'library',
+  readings: 'library',
+  voices: 'library',
+  calendar: 'saints',
+}
+const activeTab = section ? (tabKey[section] ?? section) : undefined
+
+// Before first paint: the reader's theme, Latin and text-size choices.
+const boot = `(function(){try{var d=document.documentElement,s=localStorage;var t=s.getItem('ember-theme');if(t)d.dataset.theme=t;if(s.getItem('ember-latin')==='on')d.dataset.latin='on';var z=s.getItem('ember-size');if(z)d.style.setProperty('--reading-size',z+'px')}catch(e){}})()`
+---
+
+<!doctype html>
+<html lang={htmlLang[locale]}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={metaDescription} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <link rel="canonical" href={abs(canonical ?? self)} />
+    {
+      Object.keys(alternates).length > 1 &&
+        locales
+          .filter((l) => alternates[l])
+          .map((l) => <link rel="alternate" hreflang={htmlLang[l]} href={abs(alternates[l] as string)} />)
+    }
+    {alternates['en-US'] && Object.keys(alternates).length > 1 && (
+      <link rel="alternate" hreflang="x-default" href={abs(alternates['en-US'])} />
+    )}
+    <meta property="og:site_name" content={s('siteName')} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={section === 'home' ? fullTitle : title} />
+    <meta property="og:description" content={metaDescription} />
+    <meta property="og:url" content={abs(self)} />
+    <meta property="og:image" content={abs(ogImage)} />
+    <meta property="og:locale" content={locale.replace('-', '_')} />
+    <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+    <meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0E0D0C" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href={icon.src} type="image/webp" />
+    <link rel="apple-touch-icon" href={touchIcon.src} />
+    <style is:inline set:html={themeCss}></style>
+    <script is:inline set:html={boot}></script>
+    {jsonLd && <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+  </head>
+  <body>
+    <div class="shell">
+      <a class="sr-only" href="#main">{s('skip')}</a>
+      <header class="site-header">
+        <div class="wide bar">
+          <a class="wordmark" href={href.home(locale)} aria-label={s('siteName')}>
+            <img src={icon.src} alt="" width="30" height="30" />
+            <span>Ember</span>
+          </a>
+          <nav class="site-nav" aria-label={s('siteName')}>
+            {nav.map((n) => (
+              <a href={n.to} aria-current={active === n.key ? 'page' : undefined}>{n.label}</a>
+            ))}
+          </nav>
+          <div class="header-tools">
+            <a class="tool" href={href.section(locale, 'search')} aria-label={s('search')}>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+            </a>
+            <a class="tool" href={otherHref} hreflang={htmlLang[other]} aria-label={s('otherLanguageLabel')}>
+              {other === 'pt-BR' ? 'PT' : 'EN'}
+            </a>
+            <button class="tool theme-toggle" type="button" data-theme-toggle aria-label={s('theme')}>
+              <svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4" /><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4" /></svg>
+              <svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z" /></svg>
+            </button>
+          </div>
+        </div>
+      </header>
+
+      <main id="main">
+        <slot />
+      </main>
+
+      <footer class="site-footer">
+        <div class="wide">
+          <div class="ornament" aria-hidden="true"><img src={rule.src} alt="" width="280" height="71" loading="lazy" /></div>
+          <div class="cols">
+            <div>
+              <h2>{s('footPray')}</h2>
+              <ul>
+                <li><a href={href.section(locale, 'prayers')}>{s('navPrayers')}</a></li>
+                <li><a href={href.prayer(locale, 'rosary')}>{locale === 'pt-BR' ? 'Santo Rosário' : 'Holy Rosary'}</a></li>
+                <li><a href={href.section(locale, 'plans')}>{locale === 'pt-BR' ? 'Planos de vida' : 'Plans of life'}</a></li>
+                <li><a href={href.section(locale, 'massTimes')}>{s('navMassTimes')}</a></li>
+              </ul>
+            </div>
+            <div>
+              <h2>{s('footLiturgy')}</h2>
+              <ul>
+                <li><a href={href.mass(locale)}>{locale === 'pt-BR' ? 'Missa do dia' : 'Mass of the day'}</a></li>
+                <li><a href={href.latinMass(locale)}>{locale === 'pt-BR' ? 'Missa tridentina' : 'Traditional Latin Mass'}</a></li>
+                <li><a href={href.office(locale)}>{locale === 'pt-BR' ? 'Ofício Divino' : 'Divine Office'}</a></li>
+                <li><a href={href.section(locale, 'calendar')}>{s('navCalendar')}</a></li>
+              </ul>
+            </div>
+            <div>
+              <h2>{s('footRead')}</h2>
+              <ul>
+                <li><a href={href.section(locale, 'bible')}>{s('navBible')}</a></li>
+                <li><a href={href.section(locale, 'books')}>{locale === 'pt-BR' ? 'Livros' : 'Books'}</a></li>
+                <li><a href={href.section(locale, 'collections')}>{locale === 'pt-BR' ? 'Coleções' : 'Collections'}</a></li>
+                <li><a href={href.section(locale, 'saints')}>{s('navSaints')}</a></li>
+              </ul>
+            </div>
+            <div>
+              <h2>{s('footEmber')}</h2>
+              <ul>
+                <li><a href={href.section(locale, 'about')}>{s('about')}</a></li>
+                <li><a href={href.section(locale, 'privacy')}>{s('privacy')}</a></li>
+                <li><a href="https://github.com/gustavo-depaula/ember" rel="noopener">{s('source')}</a></li>
+                <li><a href={otherHref} hreflang={htmlLang[other]}>{s('otherLanguage')}</a></li>
+              </ul>
+            </div>
+          </div>
+          <p class="fine">{s('footFine')}</p>
+          <p class="fine" style="margin-top:12px;font-style:italic">{s('amdg')}</p>
+        </div>
+      </footer>
+    </div>
+
+    <nav class="tabbar" aria-label={s('siteName')}>
+      {tabs.map((tab) => (
+        <a href={tab.to} aria-current={activeTab === tab.key ? 'page' : undefined}>
+          <img src={tab.icon.src} alt="" width="30" height="30" />
+          <span>{tab.label}</span>
+        </a>
+      ))}
+    </nav>
+
+    <script>
+      import '~/scripts/chrome'
+    </script>
+  </body>
+</html>

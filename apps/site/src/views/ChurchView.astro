@@ -1,0 +1,59 @@
+---
+import enUS from '@/lib/i18n/locales/en-US'
+import ptBR from '@/lib/i18n/locales/pt-BR'
+import Base from '~/layouts/Base.astro'
+import type { Locale } from '~/lib/locale'
+import { fetchChurch, slug } from '~/lib/massTimes/data'
+import { makeT } from '~/lib/massTimes/t'
+import { churchHtml } from '~/lib/massTimes/view'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  id: string
+}
+
+const { locale, alternates, id } = Astro.props
+const t = makeT('massTimes', (locale === 'pt-BR' ? ptBR : enUS).massTimes)
+const pt = locale === 'pt-BR'
+const church = await fetchChurch(id)
+const name = church.longName ?? church.name
+const where = [church.city, church.region].filter(Boolean).join(', ')
+const html = churchHtml(church, { t, locale, churchHref: (other) => href.church(locale, other) })
+const description = pt
+  ? `Horários de Missa, confissão e adoração: ${name}${where ? `, ${where}` : ''}.`
+  : `Mass, confession and adoration times at ${name}${where ? `, ${where}` : ''}.`
+---
+
+<Base
+  locale={locale}
+  title={`${name}${where ? ` — ${where}` : ''}: ${pt ? 'horários de Missa' : 'Mass times'}`}
+  description={description}
+  alternates={alternates}
+  section="massTimes"
+  jsonLd={{
+    '@context': 'https://schema.org',
+    '@type': 'CatholicChurch',
+    name,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: church.address ?? undefined,
+      addressLocality: church.city ?? undefined,
+      addressRegion: church.region ?? undefined,
+      postalCode: church.postalCode ?? undefined,
+      addressCountry: church.countryCode ?? undefined,
+    },
+    geo: { '@type': 'GeoCoordinates', latitude: church.lat, longitude: church.lng },
+    telephone: church.phoneE164 ?? undefined,
+  }}
+>
+  <div class="column" style="padding-top:24px">
+    <p style="padding-bottom:16px">
+      <a class="go" href={church.countryCode && church.region ? href.massTimesPlace(locale, church.countryCode.toLowerCase(), slug(church.region)) : href.section(locale, 'massTimes')}>
+        ← {church.region ?? t('massTimes.title')}
+      </a>
+    </p>
+    <article set:html={html} />
+  </div>
+</Base>

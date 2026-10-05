@@ -1,0 +1,55 @@
+---
+import type { TocItem } from '~/lib/books'
+import type { Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+
+interface Props {
+  items: TocItem[]
+  locale: Locale
+  /** Open the first level, so a short book shows its chapters at once. */
+  open?: boolean
+}
+
+const { items, locale, open } = Astro.props
+const s = siteStrings(locale)
+---
+
+<ul class="toc-list">
+  {
+    items.map((item) =>
+      item.children.length > 0 ? (
+        <li>
+          <details open={open}>
+            <summary class="row">
+              <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+              <span class="grow row-title">{item.title}</span>
+              <span class="t-kicker">{s('chapters', { count: item.leaves })}</span>
+            </summary>
+            <div class="toc-children">
+              {item.href && (
+                <a class="row" href={item.href}>
+                  <span class="grow row-title">{item.title}</span>
+                  <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+                </a>
+              )}
+              <Astro.self items={item.children} locale={locale} />
+            </div>
+          </details>
+        </li>
+      ) : item.href ? (
+        <li>
+          <a class="row" href={item.href}>
+            <span class="grow row-title">{item.title}</span>
+            {item.leaves > 0 && <span class="t-kicker">{s('chapters', { count: item.leaves })}</span>}
+            {item.range && <span class="t-annotation">{item.range}</span>}
+            <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+          </a>
+        </li>
+      ) : (
+        <li>
+          <span class="row muted"><span class="grow row-title">{item.title}</span></span>
+        </li>
+      ),
+    )
+  }
+</ul>

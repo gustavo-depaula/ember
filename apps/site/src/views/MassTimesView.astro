@@ -1,0 +1,131 @@
+---
+import enUS from '@/lib/i18n/locales/en-US'
+import ptBR from '@/lib/i18n/locales/pt-BR'
+import PageFlourish from '~/components/PageFlourish.astro'
+import Base from '~/layouts/Base.astro'
+import type { Locale } from '~/lib/locale'
+import { massTimesApi, places } from '~/lib/massTimes/data'
+import { makeT } from '~/lib/massTimes/t'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  /** The church page: one shell, filled in the browser from `?id=`. */
+  church?: boolean
+}
+
+const { locale, alternates, church } = Astro.props
+const strings = (locale === 'pt-BR' ? ptBR : enUS).massTimes
+const t = makeT('massTimes', strings)
+const pt = locale === 'pt-BR'
+const listed = church ? [] : await places()
+const [first, second] = t('massTimes.cardTitle').split('\n')
+const description = pt
+  ? 'Encontre horários de Missa, confissão e adoração nas igrejas perto de você. Busque uma igreja pelo nome ou use a sua localização.'
+  : 'Find Mass, confession and adoration times at Catholic churches near you. Search a church by name or use your location.'
+---
+
+<Base
+  locale={locale}
+  title={pt ? 'Horários de Missa perto de você' : 'Mass times near you'}
+  description={description}
+  alternates={alternates}
+  section="massTimes"
+  noindex={church}
+>
+  {!church && <PageFlourish art="search" />}
+  <div
+    class="column finder"
+    data-mass-times
+    data-api={massTimesApi}
+    data-locale={locale}
+    data-church-base={href.massTimesPlace(locale, pt ? 'igreja' : 'church')}
+  >
+    {church ? (
+      <>
+        <p class="back"><a class="go" href={href.section(locale, 'massTimes')}>← {t('massTimes.title')}</a></p>
+        <article data-church><p class="mt-none">…</p></article>
+      </>
+    ) : (
+      <>
+        <header class="page-head">
+          <h1 class="t-screen">{first} {second}</h1>
+          <p class="lede">{description}</p>
+        </header>
+
+        <div class="stack-md">
+          <label class="search-field">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+            <input type="search" placeholder={t('massTimes.searchPlaceholder')} aria-label={t('massTimes.searchPlaceholder')} autocomplete="off" />
+          </label>
+          <div class="chips">
+            <button type="button" data-kind="mass" aria-pressed="true">{t('massTimes.kind.mass')}</button>
+            <button type="button" data-kind="confession" aria-pressed="false">{t('massTimes.kind.confession')}</button>
+            <button type="button" data-kind="adoration" aria-pressed="false">{t('massTimes.kind.adoration')}</button>
+            <button type="button" class="locate" data-locate>{t('massTimes.useMyLocation')}</button>
+          </div>
+        </div>
+
+        <p class="t-caption status" data-status aria-live="polite">{t('massTimes.searchHint')}</p>
+        <ul class="rows" data-results></ul>
+
+        {listed.length > 0 && (
+          <section class="stack-sm places">
+            <h2 class="t-label">{pt ? 'Por região' : 'By region'}</h2>
+            <ul class="rows">
+              {listed.map((place) => (
+                <li>
+                  <a class="row" href={href.massTimesPlace(locale, place.country, place.slug)}>
+                    <span class="grow row-title">{place.region}</span>
+                    <span class="t-annotation">{place.churches.length}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <section class="prose about">
+          <p>
+            {pt
+              ? 'Os horários vêm das próprias paróquias e são conferidos por quem as frequenta. A cobertura começou por São Paulo e está crescendo. No aplicativo Ember, as igrejas aparecem no mapa, você salva as suas paróquias e ajuda a manter os horários corretos.'
+              : 'Times come from the parishes themselves and are checked by the people who attend them. Coverage began with São Paulo and is growing. In the Ember app the churches are on a map, you can save your parishes, and you can help keep the times right.'}
+          </p>
+        </section>
+      </>
+    )}
+  </div>
+  <script type="application/json" id="mass-times-strings" set:html={JSON.stringify(strings)} />
+</Base>
+
+<style>
+  .finder {
+    padding-bottom: var(--space-xl);
+  }
+  .status {
+    padding-block: var(--space-md) var(--space-sm);
+    min-height: 2em;
+  }
+  .chips .locate {
+    margin-left: auto;
+    background: transparent;
+    color: var(--gold-ink);
+  }
+  .places,
+  .about {
+    padding-top: var(--space-xl);
+  }
+  .about {
+    font-size: 18px;
+    line-height: 27px;
+    color: var(--color-secondary);
+  }
+  .back {
+    padding-block: var(--space-lg) var(--space-md);
+  }
+</style>
+
+<script>
+  import '~/scripts/mass-times'
+</script>

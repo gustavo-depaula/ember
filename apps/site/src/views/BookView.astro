@@ -1,0 +1,113 @@
+---
+import { bookCoverFormat } from '@/features/covers/coverFor'
+import { toneForKey } from '@/features/explore/bgColor'
+import Cover from '~/components/Cover.astro'
+import TocList from '~/components/TocList.astro'
+import Base from '~/layouts/Base.astro'
+import { loadBookPage } from '~/lib/books'
+import { plainExcerpt } from '~/lib/html'
+import { htmlLang, type Locale, translator } from '~/lib/locale'
+import { proseHtml } from '~/lib/markdown'
+import { siteStrings } from '~/lib/strings'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  canonical?: string
+  id: string
+}
+
+const { locale, alternates, canonical, id } = Astro.props
+const s = siteStrings(locale)
+const t = translator(locale)
+const book = await loadBookPage(id, locale)
+if (!book) throw new Error(`No book ${id}`)
+
+const tone = toneForKey(id)
+const pt = locale === 'pt-BR'
+const languageNames: Record<string, string> = pt
+  ? { 'en-US': 'inglês', 'pt-BR': 'português', la: 'latim', it: 'italiano', 'fr-FR': 'francês' }
+  : { 'en-US': 'English', 'pt-BR': 'Portuguese', la: 'Latin', it: 'Italian', 'fr-FR': 'French' }
+const foreign = book.lang !== locale
+const description = plainExcerpt(
+  book.description ??
+    (pt
+      ? `${book.title}${book.author ? `, de ${book.author}` : ''}. Leia online, gratuitamente, capítulo a capítulo.`
+      : `${book.title}${book.author ? `, by ${book.author}` : ''}. Read it online, free, chapter by chapter.`),
+)
+const shortToc = book.toc.reduce((n, item) => n + 1 + item.children.length, 0) <= 60
+---
+
+<Base
+  locale={locale}
+  title={book.author ? `${book.title} — ${book.author}` : book.title}
+  description={description}
+  alternates={alternates}
+  canonical={canonical}
+  noindex={!!canonical}
+  section="books"
+  ogType="book"
+  jsonLd={{
+    '@context': 'https://schema.org',
+    '@type': 'Book',
+    name: book.title,
+    author: book.author && { '@type': 'Person', name: book.author },
+    inLanguage: book.langs,
+    datePublished: book.composed,
+    isAccessibleForFree: true,
+    description,
+  }}
+>
+  <header class="hero" style={`--from:${tone.from};--to:${tone.to}`}>
+    <div class="hero-cover">
+      <Cover cover={{ kind: 'book', format: bookCoverFormat(book.cover), author: book.author }} id={id} title={book.title} locale={locale} />
+    </div>
+    <h1>{book.title}</h1>
+    {book.author && <p class="byline">{book.author}</p>}
+    {book.firstChapter && <a class="cta" href={book.firstChapter}>{t('book.startReading', { defaultValue: pt ? 'Começar a ler' : 'Start reading' })}</a>}
+  </header>
+
+  <div class="column stack body">
+    <p class="t-kicker center">
+      {[book.composed, book.langs.map((l) => languageNames[l] ?? l).join(' · '), s('chapters', { count: book.chapterCount })]
+        .filter(Boolean)
+        .join('  ·  ')}
+    </p>
+    {foreign && (
+      <p class="t-caption center">
+        {pt
+          ? `Este livro está em ${languageNames[book.lang] ?? book.lang}.`
+          : `This book is in ${languageNames[book.lang] ?? book.lang}.`}
+      </p>
+    )}
+    {book.description && <div class="prose" set:html={proseHtml(book.description)} />}
+
+    <section class="stack-sm">
+      <div class="section-head"><h2 class="t-section">{s('contents')}</h2></div>
+      <nav class="toc" aria-label={s('contents')} lang={htmlLang[book.lang as Locale] ?? book.lang}>
+        <TocList items={book.toc} locale={locale} open={shortToc} />
+      </nav>
+    </section>
+
+    {book.sources.length > 0 && (
+      <p class="t-annotation">
+        {pt ? 'Fonte: ' : 'Source: '}
+        {book.sources.map((source, i) => (
+          <>
+            {i > 0 && ' · '}
+            {source.url ? <a class="xref" href={source.url} rel="noopener nofollow">{source.description ?? source.url}</a> : source.description}
+          </>
+        ))}
+      </p>
+    )}
+  </div>
+</Base>
+
+<style>
+  .hero-cover {
+    width: clamp(110px, 22vw, 170px);
+  }
+  .body {
+    padding-top: 52px;
+  }
+</style>

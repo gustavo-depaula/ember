@@ -1,0 +1,167 @@
+---
+import ReaderTools from '~/components/ReaderTools.astro'
+import Base from '~/layouts/Base.astro'
+import { loadBibleChapter } from '~/lib/bible'
+import { plainExcerpt } from '~/lib/html'
+import type { Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  book: string
+  chapter: number
+}
+
+const { locale, alternates, book: slug, chapter } = Astro.props
+const s = siteStrings(locale)
+const page = await loadBibleChapter(slug, chapter, locale)
+const isPsalm = slug === 'psalms'
+const heading = isPsalm ? `Psalm ${chapter}` : `${page.book.title} ${chapter}`
+const description = plainExcerpt(
+  `${page.summary ? `${page.summary} ` : ''}${page.verses
+    .slice(0, 3)
+    .map((v) => v.text)
+    .join(' ')}`,
+)
+const label = (ref: { book: { id: string; title: string }; chapter: number }) =>
+  ref.book.id === 'psalms' ? `Psalm ${ref.chapter}` : `${ref.book.title} ${ref.chapter}`
+---
+
+<Base
+  locale={locale}
+  title={`${heading} — Douay-Rheims Bible`}
+  description={description}
+  alternates={alternates}
+  section="bible"
+  ogType="article"
+  jsonLd={{
+    '@context': 'https://schema.org',
+    '@type': 'Chapter',
+    name: heading,
+    position: chapter,
+    inLanguage: 'en',
+    isAccessibleForFree: true,
+    isPartOf: { '@type': 'Book', name: `${page.book.title} (Douay-Rheims Bible)` },
+  }}
+>
+  <article class="column">
+    <header class="chapter-head">
+      <p class="book"><a href={href.bibleBook(locale, slug)}>{page.book.title}</a></p>
+      <h1>{isPsalm ? `Psalm ${chapter}` : `Chapter ${chapter}`}</h1>
+      {page.summary && <p class="t-rubric summary">{page.summary}</p>}
+      <ReaderTools locale={locale} />
+    </header>
+
+    <div class="scripture">
+      {page.verses.map((v) => (
+        <p id={`v${v.verse}`}>
+          <a class="vn" href={`#v${v.verse}`} aria-label={`${heading}:${v.verse}`}>{v.verse}</a>
+          {v.text}
+        </p>
+      ))}
+    </div>
+
+    <nav class="pager" aria-label={page.book.title}>
+      {page.previous && (
+        <a class="prev" href={href.bibleChapter(locale, page.previous.book.id, page.previous.chapter)} rel="prev">
+          <span class="t-kicker">← {s('previous')}</span>
+          <span class="pager-title">{label(page.previous)}</span>
+        </a>
+      )}
+      {page.next && (
+        <a class="next" href={href.bibleChapter(locale, page.next.book.id, page.next.chapter)} rel="next">
+          <span class="t-kicker">{s('next')} →</span>
+          <span class="pager-title">{label(page.next)}</span>
+        </a>
+      )}
+    </nav>
+
+    <nav class="chapter-list" aria-label={page.book.title}>
+      {Array.from({ length: page.book.chapters }, (_, i) => i + 1).map((n) => (
+        <a href={href.bibleChapter(locale, slug, n)} aria-current={n === chapter ? 'page' : undefined}>{n}</a>
+      ))}
+    </nav>
+  </article>
+</Base>
+
+<style>
+  .chapter-head {
+    padding-top: var(--space-xl);
+    text-align: center;
+  }
+  .book {
+    font-family: var(--font-heading);
+    font-size: 26px;
+    line-height: 32px;
+    color: var(--color-secondary);
+  }
+  .book a:hover {
+    color: var(--gold-ink);
+  }
+  h1 {
+    font-family: var(--font-heading);
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 28px;
+    color: var(--color-secondary);
+  }
+  .summary {
+    padding-top: var(--space-md);
+    max-width: 30em;
+    margin-inline: auto;
+  }
+  .scripture {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    padding-block: var(--space-lg);
+    font-size: var(--reading-size);
+    line-height: var(--reading-leading);
+  }
+  .scripture p {
+    text-align: justify;
+    hyphens: auto;
+    hyphenate-limit-chars: 6 3 3;
+    scroll-margin-top: 96px;
+  }
+  .scripture p:target {
+    background: color-mix(in srgb, var(--accent) 16%, transparent);
+    box-shadow: 0 0 0 6px color-mix(in srgb, var(--accent) 16%, transparent);
+    border-radius: 2px;
+  }
+  .vn {
+    font-size: 0.55em;
+    font-weight: 600;
+    color: var(--color-secondary);
+    margin-right: 0.7em;
+    font-variant-numeric: lining-nums;
+    vertical-align: 0.5em;
+  }
+  .chapter-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2px;
+    padding-bottom: var(--space-lg);
+  }
+  .chapter-list a {
+    min-width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-heading);
+    font-size: 15px;
+    color: var(--color-secondary);
+    font-variant-numeric: lining-nums;
+  }
+  .chapter-list a:hover {
+    color: var(--color);
+  }
+  .chapter-list a[aria-current='page'] {
+    color: var(--gold-ink);
+    font-weight: 700;
+  }
+</style>

@@ -1,0 +1,168 @@
+---
+import Primitives from '~/components/Primitives.astro'
+import ReaderTools from '~/components/ReaderTools.astro'
+import Base from '~/layouts/Base.astro'
+import { plainExcerpt } from '~/lib/html'
+import { type Locale, translator } from '~/lib/locale'
+import { loadPrayerPage } from '~/lib/prayers'
+import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  canonical?: string
+  id: string
+  day?: number
+}
+
+const { locale, alternates, canonical, id, day } = Astro.props
+const s = siteStrings(locale)
+const t = translator(locale)
+const page = await loadPrayerPage(id, locale, day === undefined ? undefined : day - 1)
+if (!page) throw new Error(`No practice ${id}`)
+
+const dayEntry = day ? page.days[(day - 1) % Math.max(1, page.days.length)] : undefined
+const dayLabel = day ? s('day', { n: day }) : undefined
+const title = dayLabel ? `${page.name} — ${dayLabel}` : page.name
+const description = plainExcerpt(
+  dayEntry?.excerpt ?? page.description ?? page.subtitle ?? page.history ?? page.name,
+)
+const about = [
+  { title: s('aboutThisPrayer'), body: page.description },
+  { title: s('history'), body: page.history },
+  { title: s('howToPray'), body: page.howToPray },
+].filter((section) => section.body)
+---
+
+<Base
+  locale={locale}
+  title={title}
+  description={description}
+  alternates={alternates}
+  canonical={canonical}
+  noindex={!!canonical}
+  section="prayers"
+  ogType="article"
+  image={page.art}
+  jsonLd={{
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: title,
+    description,
+    inLanguage: locale,
+    isAccessibleForFree: true,
+    publisher: { '@type': 'Organization', name: 'Ember' },
+  }}
+>
+  <article class="column">
+    <header class="title-page">
+      <div class="cross-rule" aria-hidden="true">✠</div>
+      <h1>{page.name}</h1>
+      {page.formLabel && <p class="variant">{page.formLabel}</p>}
+      {dayLabel && <p class="variant">{dayLabel}</p>}
+      {page.subtitle && !dayLabel && <p class="date">{page.subtitle}</p>}
+      <ReaderTools locale={locale} latin={page.hasLatin} minutes={page.minutes} />
+    </header>
+
+    {
+      page.dayCount > 0 && (
+        <nav class="days" aria-label={s('days')}>
+          <a href={href.prayer(locale, id)} aria-current={day ? undefined : 'page'}>
+            {t('common.all', { defaultValue: locale === 'pt-BR' ? 'Hoje' : 'Today' })}
+          </a>
+          {Array.from({ length: page.dayCount }, (_, i) => (
+            <a href={href.prayerDay(locale, id, i + 1)} aria-current={day === i + 1 ? 'page' : undefined}>
+              {i + 1}
+            </a>
+          ))}
+        </nav>
+      )
+    }
+
+    {
+      page.forms.length > 1 && (
+        <nav class="facets forms" aria-label={s('forms')}>
+          {page.forms.map((form) => (
+            <a href={href.prayer(locale, form.id)} aria-current={form.current ? 'page' : undefined} title={form.description}>
+              {form.label}
+            </a>
+          ))}
+        </nav>
+      )
+    }
+
+    <div class="flow">
+      <Primitives items={page.primitives} locale={locale} />
+    </div>
+
+    {
+      (about.length > 0 || page.collections.length > 0) && (
+        <footer class="after stack">
+          <div class="cross-rule" aria-hidden="true">✠</div>
+          {about.map((section) => (
+            <section class="stack-sm">
+              <h2 class="t-label">{section.title}</h2>
+              <div class="prose">
+                {(section.body as string).split(/\n{2,}/).map((paragraph) => <p>{paragraph}</p>)}
+              </div>
+            </section>
+          ))}
+          {page.source && <p class="t-annotation">{page.source}</p>}
+          {page.collections.length > 0 && (
+            <section class="stack-sm">
+              <h2 class="t-label">{s('foundIn')}</h2>
+              <ul class="rows">
+                {page.collections.map((collection) => (
+                  <li>
+                    <a class="row" href={href.collection(locale, collection.id)}>
+                      <span class="grow row-title">{collection.name}</span>
+                      <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+        </footer>
+      )
+    }
+  </article>
+</Base>
+
+<style>
+  .days {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4px 6px;
+    padding-top: var(--space-md);
+  }
+  .days a {
+    min-width: 40px;
+    height: 40px;
+    padding-inline: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-heading);
+    font-size: 14px;
+    letter-spacing: 0.6px;
+    color: var(--color-secondary);
+    border-bottom: 1.5px solid transparent;
+  }
+  .days a:hover {
+    color: var(--color);
+  }
+  .days a[aria-current='page'] {
+    color: var(--gold-ink);
+    border-bottom-color: var(--accent);
+  }
+  .forms {
+    justify-content: center;
+    padding-top: var(--space-md);
+  }
+  .after {
+    padding-top: var(--space-lg);
+  }
+</style>

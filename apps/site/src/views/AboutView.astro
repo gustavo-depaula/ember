@@ -1,0 +1,62 @@
+---
+import { getImage } from 'astro:assets'
+import appIcon from '../../../app/assets/icon.png'
+import Base from '~/layouts/Base.astro'
+import { listingHtml, policyHtml } from '~/lib/about'
+import type { Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  /** The privacy policy instead of the app's description. */
+  privacy?: boolean
+}
+
+const { locale, alternates, privacy } = Astro.props
+const s = siteStrings(locale)
+const pt = locale === 'pt-BR'
+const icon = await getImage({ src: appIcon, width: 192, format: 'webp' })
+
+const title = privacy ? (pt ? 'Política de privacidade' : 'Privacy policy') : s('about')
+const webNote = pt
+  ? 'Este site não usa cookies nem ferramentas de análise. Ele guarda no seu navegador apenas as suas preferências de leitura (tema, tamanho do texto, latim). A busca de horários de Missa consulta o serviço do Ember com o que você digita ou, se você permitir, com a sua localização.'
+  : 'This website uses no cookies and no analytics. It keeps only your reading preferences (theme, text size, Latin) in your browser. Searching Mass times queries Ember’s service with what you type or, if you allow it, your location.'
+---
+
+<Base locale={locale} title={title} alternates={alternates} section={privacy ? 'privacy' : 'about'}>
+  <article class="column">
+    <header class="title-page">
+      <div class="cross-rule" aria-hidden="true">✠</div>
+      {!privacy && <img class="icon" src={icon.src} alt="" width="96" height="96" />}
+      <h1 style={privacy ? undefined : 'padding-top:16px'}>{privacy ? title : 'Ember'}</h1>
+      {!privacy && <p class="variant">{s('tagline')}</p>}
+    </header>
+    <div class="prose page">
+      {privacy && <p>{webNote}</p>}
+      <Fragment set:html={privacy ? policyHtml(locale) : listingHtml(locale)} />
+      {!privacy && <p class="amdg"><em>Ad maiorem Dei gloriam.</em></p>}
+    </div>
+  </article>
+</Base>
+
+<style>
+  .icon {
+    width: 96px;
+    height: 96px;
+    margin: 32px auto 0;
+    border-radius: 22px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+  }
+  .page {
+    padding-top: var(--space-xl);
+  }
+  .page :global(.meta) {
+    font-size: 16px;
+    color: var(--color-secondary);
+  }
+  .amdg {
+    text-align: center !important;
+    padding-top: var(--space-lg);
+  }
+</style>

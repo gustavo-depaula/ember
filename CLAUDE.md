@@ -7,7 +7,7 @@ Personal project with a single user, so schema changes are made in place: add a 
 ## Layout
 
 pnpm workspaces + turborepo:
-- `apps/app/` — Expo app · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — GitHub Pages landing page · `apps/workshop/` — content preview
+- `apps/app/` — Expo app · `apps/site/` — public read-only website (Astro, static) · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — GitHub Pages landing page · `apps/workshop/` — content preview
 - `packages/` — shared libraries; `content/` — source of truth for the corpus, one flat dir per kind
 - `research/` — long-running investigations (method + dataset, not app code). Deliberately unstructured: let structure emerge from the work there
 - `docs/` — a few references (content authoring, licensing, design). `docs/plans/` holds designs for unbuilt features; read one only when working on that feature
@@ -20,6 +20,7 @@ pnpm workspaces + turborepo:
 - Author structured content as flow DSL in the data; renderers stay free of text-parsing heuristics, because cues like `Cantors:`/`Refrão:` differ per language.
 - Each liturgical form has one calendar authority driving both its Mass and every display surface: `resolveOfDay` (`@ember/mass`) for the OF, the Divinum Officium engine's `resolveDay` for the EF. Build new calendar features on those, so the Mass and the calendar can never disagree.
 - **Third-party copyrighted text (CCC from vatican.va, Escrivá, Lírio Católico, …) never enters `content/`, the corpus, or any CI-built artifact.** It is fetched at runtime by a source in `apps/app/src/sources/` and cached on-device only. Licensing per source: `docs/content/content-sources.md`.
+- **The website is another platform target of the content layer.** `apps/site` imports the app's own resolver, preprocessor, sources and feature logic from `apps/app/src`, and swaps the device-bound modules (blob store, Hearth fetch, SQLite, i18n detection, the source registry) for Node ones listed in `apps/site/seam.mjs`. Logic the site should share lives in a plain `.ts` module beside the hook or component that uses it; a new React Native or Expo import in such a module breaks the site build.
 - `content/do/` is the Divinum Officium repo as a git submodule — read-only. A new clone or worktree needs `git submodule update --init --depth 1 content/do` before `build:corpus`.
 
 ## Commands
@@ -31,6 +32,7 @@ pnpm test                   # all workspace tests (from apps/app/: app tests onl
 pnpm build:corpus           # content/ → _site/hearth/v2 (app tests need this)
 pnpm hearth                 # build + serve the corpus on :4100 for the dev app
 pnpm validate-flows         # validate practice flow JSON
+pnpm --filter @ember/site dev    # website on :4321 (needs build:corpus); `build` + `preview` for the static site
 pnpm biome check --write .  # format + lint
 ```
 

@@ -1,0 +1,54 @@
+---
+import type { CelebrationView } from '~/lib/liturgy'
+
+interface Props {
+  celebrations: CelebrationView[]
+}
+
+const { celebrations } = Astro.props
+const ringed = new Set(['white', 'rose', 'gold'])
+---
+
+<ul class="celebrations">
+  {celebrations.map((c, i) => (
+    <li class={i === 0 ? 'principal' : ''}>
+      <div class="celebration-title">
+        {c.color && <span class={`lit-dot lit-${c.color} ${ringed.has(c.color) ? 'ring' : ''}`} aria-hidden="true" />}
+        <span>{c.title}</span>
+      </div>
+      {c.rank && <div class="t-kicker">{c.rank}</div>}
+      {c.about && <p class="about">{c.about}</p>}
+    </li>
+  ))}
+</ul>
+
+<style>
+  .celebrations {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-md);
+  }
+  .celebration-title {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    font-family: var(--font-title);
+    font-size: 24px;
+    line-height: 30px;
+    text-wrap: balance;
+  }
+  .principal .celebration-title {
+    font-size: 30px;
+    line-height: 37px;
+    color: var(--color-burgundy);
+  }
+  .t-kicker {
+    margin-top: 2px;
+  }
+  .about {
+    margin-top: var(--space-sm);
+    font-size: 19px;
+    line-height: 28px;
+    color: var(--color-secondary);
+  }
+</style>

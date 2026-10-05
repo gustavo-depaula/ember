@@ -1,0 +1,17 @@
+/* The app's four typefaces, subset by scripts/build-fonts.sh. */
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: normal; font-display: swap; src: url('../fonts/EBGaramond-400Regular.woff2') format('woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: italic; font-display: swap; src: url('../fonts/EBGaramond-400Regular_Italic.woff2') format('woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 500; font-style: normal; font-display: swap; src: url('../fonts/EBGaramond-500Medium.woff2') format('woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 600; font-style: normal; font-display: swap; src: url('../fonts/EBGaramond-600SemiBold.woff2') format('woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 700; font-style: normal; font-display: swap; src: url('../fonts/EBGaramond-700Bold.woff2') format('woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 700; font-style: italic; font-display: swap; src: url('../fonts/EBGaramond-700Bold_Italic.woff2') format('woff2'); }
+@font-face { font-family: 'Cinzel'; font-weight: 400; font-display: swap; src: url('../fonts/Cinzel-400Regular.woff2') format('woff2'); }
+@font-face { font-family: 'Cinzel'; font-weight: 600; font-display: swap; src: url('../fonts/Cinzel-600SemiBold.woff2') format('woff2'); }
+@font-face { font-family: 'Cinzel'; font-weight: 700; font-display: swap; src: url('../fonts/Cinzel-700Bold.woff2') format('woff2'); }
+@font-face { font-family: 'Junicode'; font-weight: 300; font-style: normal; font-display: swap; src: url('../fonts/Junicode-Light.woff2') format('woff2'); }
+@font-face { font-family: 'Junicode'; font-weight: 400; font-style: normal; font-display: swap; src: url('../fonts/Junicode.woff2') format('woff2'); }
+@font-face { font-family: 'Junicode'; font-weight: 400; font-style: italic; font-display: swap; src: url('../fonts/Junicode-Italic.woff2') format('woff2'); }
+@font-face { font-family: 'Junicode'; font-weight: 500; font-style: normal; font-display: swap; src: url('../fonts/Junicode-Medium.woff2') format('woff2'); }
+@font-face { font-family: 'Junicode'; font-weight: 500; font-style: italic; font-display: swap; src: url('../fonts/Junicode-MediumItalic.woff2') format('woff2'); }
+@font-face { font-family: 'Junicode'; font-weight: 600; font-style: normal; font-display: swap; src: url('../fonts/Junicode-SemiBold.woff2') format('woff2'); }
+@font-face { font-family: 'UnifrakturMaguntia'; font-weight: 400; font-display: swap; src: url('../fonts/UnifrakturMaguntia-Book.woff2') format('woff2'); }

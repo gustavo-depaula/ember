@@ -1,0 +1,70 @@
+---
+import PageFlourish from '~/components/PageFlourish.astro'
+import Base from '~/layouts/Base.astro'
+import { type Locale, translator } from '~/lib/locale'
+import { listVoices } from '~/lib/plans'
+import { slugOf } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const t = translator(locale)
+const pt = locale === 'pt-BR'
+const voices = await listVoices(locale)
+const sections = [
+  { key: 'pt-BR', title: t('creators.section.portuguese') },
+  { key: 'en-US', title: t('creators.section.english') },
+]
+const ordered = pt ? sections : [...sections].reverse()
+---
+
+<Base locale={locale} title={pt ? 'Vozes católicas' : 'Catholic voices'} description={t('creators.tagline')} alternates={alternates} section="voices">
+  <PageFlourish art="explore" />
+  <div class="column">
+    <header class="page-head">
+      <h1 class="t-screen">{pt ? 'Vozes' : 'Voices'}</h1>
+      <p class="lede">{t('creators.tagline')}</p>
+    </header>
+    <div class="stack-xl">
+      {ordered.map((section) => (
+        <section class="stack-sm">
+          <h2 class="t-section" style="font-style:normal;font-size:24px">{section.title}</h2>
+          <ul class="rows">
+            {voices.filter((v) => v.languages.includes(section.key as 'en-US')).map((voice) => (
+              <li class="voice" id={slugOf(voice.id)}>
+                <h3 class="row-title">{voice.name}</h3>
+                {(voice.role || voice.byline) && <p class="t-kicker">{[voice.role, voice.byline].filter(Boolean).join(' · ')}</p>}
+                <p class="bio">{voice.bio}</p>
+                <p class="links">
+                  {voice.website && <a class="xref" href={voice.website} rel="noopener">{pt ? 'Site' : 'Website'}</a>}
+                  {voice.channels.map((channel) => <a class="xref" href={channel.url} rel="noopener">{channel.kind}</a>)}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+  </div>
+</Base>
+
+<style>
+  .voice {
+    padding-block: var(--space-md);
+    scroll-margin-top: 88px;
+  }
+  .bio {
+    margin-top: 6px;
+    color: var(--color-secondary);
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 16px;
+    margin-top: 6px;
+    font-size: 17px;
+  }
+</style>

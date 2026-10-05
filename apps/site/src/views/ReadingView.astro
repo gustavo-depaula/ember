@@ -1,0 +1,52 @@
+---
+import Primitives from '~/components/Primitives.astro'
+import ReaderTools from '~/components/ReaderTools.astro'
+import Base from '~/layouts/Base.astro'
+import type { Locale } from '~/lib/locale'
+import { loadReadingPage } from '~/lib/readings'
+import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  id: string
+}
+
+const { locale, alternates, id } = Astro.props
+const s = siteStrings(locale)
+const page = await loadReadingPage(id, locale)
+if (!page) throw new Error(`No reading ${id}`)
+// The flow opens with the article's own title; the page head already sets it.
+const body = page.primitives[0]?.type === 'heading' ? page.primitives.slice(1) : page.primitives
+---
+
+<Base locale={locale} title={page.title} description={page.subtitle} alternates={alternates} section="readings" ogType="article"
+  jsonLd={{ '@context': 'https://schema.org', '@type': 'Article', headline: page.title, description: page.subtitle, inLanguage: locale, isAccessibleForFree: true }}>
+  <article class="column">
+    <header class="title-page">
+      <div class="cross-rule" aria-hidden="true">✠</div>
+      <h1>{page.title}</h1>
+      {page.subtitle && <p class="date" style="text-transform:none">{page.subtitle}</p>}
+      <ReaderTools locale={locale} minutes={page.minutes} />
+    </header>
+    <div class="flow">
+      <Primitives items={body} locale={locale} />
+    </div>
+    {page.collections.length > 0 && (
+      <footer class="stack-sm">
+        <h2 class="t-label">{s('foundIn')}</h2>
+        <ul class="rows">
+          {page.collections.map((collection) => (
+            <li>
+              <a class="row" href={href.collection(locale, collection.id)}>
+                <span class="grow row-title">{collection.name}</span>
+                <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </footer>
+    )}
+  </article>
+</Base>

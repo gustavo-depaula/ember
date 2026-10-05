@@ -1,0 +1,62 @@
+---
+// Yesterday · the date · tomorrow, for a page that exists once per day. On an
+// undated "today" page it also sends a reader whose own day differs from the
+// build's to that day's page.
+import { inLiturgyWindow, longDate, shortDate } from '~/lib/dates'
+import type { Locale } from '~/lib/locale'
+import { addDays } from '~/lib/today'
+import { isoDate } from '~/routes'
+
+interface Props {
+  locale: Locale
+  date: Date
+  /** The dated page for a day. */
+  to: (date: Date) => string
+  /** Set on the undated page: the path dated pages hang from. */
+  todayBase?: string
+  /** Whether a neighbouring day has a page. Defaults to the liturgy window. */
+  has?: (date: Date) => boolean
+}
+
+const { locale, date, to, todayBase, has = inLiturgyWindow } = Astro.props
+const previous = addDays(date, -1)
+const next = addDays(date, 1)
+---
+
+<nav class="day-nav" data-today-base={todayBase} data-date={isoDate(date)}>
+  {has(previous) ? <a href={to(previous)} rel="prev">← {shortDate(previous, locale)}</a> : <span />}
+  <time datetime={isoDate(date)}>{longDate(date, locale)}</time>
+  {has(next) ? <a href={to(next)} rel="next">{shortDate(next, locale)} →</a> : <span />}
+</nav>
+
+<style>
+  .day-nav {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: var(--space-sm);
+    padding-block: var(--space-sm);
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .day-nav a {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    color: var(--gold-ink);
+    white-space: nowrap;
+  }
+  .day-nav a:hover {
+    color: var(--color);
+  }
+  .day-nav a[rel='next'] {
+    justify-self: end;
+  }
+  time {
+    font-style: italic;
+    font-size: 18px;
+    color: var(--color-secondary);
+    text-align: center;
+    text-transform: lowercase;
+  }
+</style>

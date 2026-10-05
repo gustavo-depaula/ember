@@ -1,0 +1,35 @@
+{
+  "name": "@ember/site",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --port 4321",
+    "build": "astro build",
+    "preview": "node scripts/preview.mjs",
+    "test": "vitest run",
+    "check:links": "node scripts/check-links.mjs"
+  },
+  "dependencies": {
+    "@ember/api": "workspace:*",
+    "@ember/content-engine": "workspace:*",
+    "@ember/divinum-officium": "workspace:*",
+    "@ember/holy-cards": "workspace:*",
+    "@ember/liturgical": "workspace:*",
+    "@ember/mass": "workspace:*",
+    "@ember/missal-schema": "workspace:*",
+    "@tanstack/react-query": "^5.95.2",
+    "astro": "^7.3.5",
+    "date-fns": "^4.1.0",
+    "htmlparser2": "^12.0.0",
+    "i18next": "^25.10.10",
+    "lucide-static": "^1.52.0",
+    "marked": "^18.0.0",
+    "marked-footnote": "^1.4.0",
+    "rrule": "^2.8.1",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.2"
+  }
+}

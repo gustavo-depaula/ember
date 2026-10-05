@@ -1,0 +1,54 @@
+---
+import type { TileData } from '~/lib/catalog'
+import type { Locale } from '~/lib/locale'
+import Cover from './Cover.astro'
+
+interface Props {
+  tile: TileData
+  locale: Locale
+  /** Width in px for a shelf; omit to fill a grid cell. */
+  width?: number
+  /** Hide the caption: the cover already carries the title. */
+  bare?: boolean
+}
+
+const { tile, locale, width, bare } = Astro.props
+const style = width ? `--tile-w:${width}px` : '--tile-w:100%'
+---
+
+<a class={`tile ${tile.shape}`} href={tile.href} style={style} aria-label={tile.title}>
+  {
+    tile.art ? (
+      <span class="art">
+        <img src={tile.art} alt="" loading="lazy" decoding="async" />
+      </span>
+    ) : tile.cover ? (
+      <Cover cover={tile.cover} id={tile.ref.split('#')[0]} title={tile.title} locale={locale} />
+    ) : (
+      <span class="art plate" />
+    )
+  }
+  {
+    !bare && (
+      <>
+        <span class="name">{tile.title}</span>
+        {tile.subtitle && <span class="sub">{tile.subtitle}</span>}
+      </>
+    )
+  }
+</a>
+
+<style>
+  .tile {
+    display: flex;
+    flex-direction: column;
+  }
+  .tile.book .art,
+  .tile.tract .art {
+    aspect-ratio: 2 / 3;
+    border-radius: 6px;
+  }
+  .plate {
+    background: var(--background-surface);
+  }
+</style>

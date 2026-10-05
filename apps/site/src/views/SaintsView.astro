@@ -1,0 +1,69 @@
+---
+import PageFlourish from '~/components/PageFlourish.astro'
+import SaintCard from '~/components/SaintCard.astro'
+import Base from '~/layouts/Base.astro'
+import { type Locale, translator } from '~/lib/locale'
+import { saintShelves, saintsCatalog, saintsOn } from '~/lib/saints'
+import { today } from '~/lib/today'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const t = translator(locale)
+const pt = locale === 'pt-BR'
+const catalog = await saintsCatalog(locale)
+const shelves = await saintShelves(locale)
+const todays = saintsOn(catalog, today).slice(0, 6)
+const description = pt
+  ? `${catalog.saints.length} santinhos ilustrados: a vida de cada santo, o seu dia, de quem é padroeiro e as orações da sua festa.`
+  : `${catalog.saints.length} illustrated holy cards: each saint's life, feast day, patronage and the prayers of the feast.`
+---
+
+<Base locale={locale} title={pt ? 'Santos e santinhos' : 'Saints and holy cards'} description={description} alternates={alternates} section="saints">
+  <PageFlourish art="explore" />
+  <div class="wide">
+    <header class="page-head">
+      <p class="t-kicker">{t('saints.cardCount', { count: catalog.saints.length })}</p>
+      <h1 class="t-screen">{t('saints.title')}</h1>
+      <p class="lede">{t('saints.homeTagline')}</p>
+    </header>
+
+    <nav class="facets" aria-label={t('saints.group.shelves')}>
+      {shelves.map((shelf) => <a href={`#${shelf.key}`}>{t(`saints.group.shelf.${shelf.key}`)}</a>)}
+    </nav>
+
+    <div class="stack-xl album">
+      {todays.length > 0 && (
+        <section>
+          <div class="row-head"><h2>{t('saints.today')}</h2></div>
+          <div class="shelf">
+            {todays.map((saint) => <SaintCard saint={saint} locale={locale} width={132} />)}
+          </div>
+        </section>
+      )}
+      {shelves.map((shelf) => (
+        <section id={shelf.key}>
+          <div class="row-head">
+            <h2>{t(`saints.group.shelf.${shelf.key}`)}</h2>
+            <span class="t-annotation">{shelf.saints.length}</span>
+          </div>
+          <div class="grid" style="--cell:112px">
+            {shelf.saints.map((saint) => <SaintCard saint={saint} locale={locale} />)}
+          </div>
+        </section>
+      ))}
+    </div>
+  </div>
+</Base>
+
+<style>
+  .album {
+    padding-top: var(--space-lg);
+  }
+  section {
+    scroll-margin-top: 88px;
+  }
+</style>

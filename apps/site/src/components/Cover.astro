@@ -1,0 +1,1158 @@
+---
+// The app's generated covers (features/covers), drawn in CSS: a bound volume
+// for a book, a holy card for a practice or prayer, a breviary page for a
+// liturgical prayer, the object that holds a collection, a tract for an article.
+// Every measure is a fraction of the cover's width, as in the app.
+import type { TileCover } from '@/features/covers/coverFor'
+import { toneForKey } from '@/features/explore/bgColor'
+import type { Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+import Icon from './Icon.astro'
+
+interface Props {
+  cover: TileCover
+  /** Corpus id: the cover's jewel tone is a stable function of it. */
+  id: string
+  title: string
+  locale: Locale
+}
+
+const { cover, id, title, locale } = Astro.props
+const s = siteStrings(locale)
+const tone = toneForKey(id)
+const titleScale = title.length > 28 ? 0.088 : title.length > 20 ? 0.098 : 0.112
+const vars = `--from:${tone.from};--to:${tone.to};--ts:${titleScale}`
+const imprint = locale === 'pt-BR' ? 'BIBLIOTECA EMBER' : 'EMBER LIBRARY'
+const numerals = ['I', 'II', 'III', 'IV', 'V']
+
+function count(n: number | undefined, one: string, other: string): string | undefined {
+  return n ? `${n} ${n === 1 ? one : other}` : undefined
+}
+
+const kicker =
+  cover.kind === 'collection'
+    ? (count(
+        cover.volumes,
+        locale === 'pt-BR' ? 'VOLUME' : 'VOLUME',
+        locale === 'pt-BR' ? 'VOLUMES' : 'VOLUMES',
+      ) ??
+      count(
+        cover.prayers,
+        locale === 'pt-BR' ? 'ORAÇÃO' : 'PRAYER',
+        locale === 'pt-BR' ? 'ORAÇÕES' : 'PRAYERS',
+      ))
+    : undefined
+---
+
+{
+  cover.kind === 'book' && (
+    <div class={`cover book ${cover.format}`} style={vars} aria-hidden="true">
+      <div class="scale">
+        {cover.format === 'classic' && (
+          <div class="frame">
+            <div class="x">✚</div>
+            <div class="mid">
+              <div class="t">{title}</div>
+              <div class="crule" />
+              {cover.author && <div class="a">{cover.author}</div>}
+            </div>
+            <div class="imprint">{imprint}</div>
+          </div>
+        )}
+        {cover.format === 'gilt' && (
+          <>
+            <div class="frame" />
+            <div class="face">
+              <div class="x">✠</div>
+              <div class="t">{title}</div>
+              {cover.author && <div class="a">{cover.author}</div>}
+            </div>
+            <div class="imprint foot">{imprint}</div>
+          </>
+        )}
+        {cover.format === 'label' && (
+          <div class="face">
+            <div class="plate">
+              <div class="t">{title}</div>
+              {cover.author && <div class="a">{cover.author}</div>}
+            </div>
+            <div class="x">✚</div>
+            <div class="imprint foot">{imprint}</div>
+          </div>
+        )}
+        {cover.format === 'quarter' && (
+          <>
+            <div class="spine" />
+            {[18, 34, 66, 82].map((top) => <div class="band" style={`top:${top}%`} />)}
+            <div class="face">
+              <div class="t">{title}</div>
+              <div class="crule" />
+              {cover.author && <div class="a">{cover.author}</div>}
+            </div>
+            <div class="x">✚</div>
+            <div class="imprint foot">{imprint}</div>
+          </>
+        )}
+        {cover.format === 'arch' && (
+          <>
+            <div class="win" />
+            <div class="win2" />
+            <div class="x">✚</div>
+            <div class="face">
+              <div class="t">{title}</div>
+              {cover.author && <div class="a">{cover.author}</div>}
+            </div>
+            <div class="imprint foot">{imprint}</div>
+          </>
+        )}
+        {cover.format === 'watermark' && (
+          <>
+            <div class="big">✚</div>
+            <div class="x">✚</div>
+            <div class="face">
+              <div class="t">{title}</div>
+              <div class="crule" />
+              {cover.author && <div class="a">{cover.author}</div>}
+            </div>
+            <div class="imprint foot">{imprint}</div>
+          </>
+        )}
+        {cover.format === 'banded' && (
+          <>
+            <div class="x">✚</div>
+            <div class="edge top" />
+            <div class="mid">
+              <div class="t">{title}</div>
+              {cover.author && <div class="a">{cover.author}</div>}
+            </div>
+            <div class="edge bottom" />
+            <div class="imprint foot">{imprint}</div>
+          </>
+        )}
+        {cover.format === 'missal' && (
+          <div class="face">
+            <div class="crules" />
+            <div class="cstack">
+              <div class="x">✠</div>
+              <div class="t">{title}</div>
+              {cover.author && <div class="a">{cover.author}</div>}
+            </div>
+            <div class="cstack">
+              <div class="imprint">{imprint}</div>
+              <div class="crules" />
+            </div>
+          </div>
+        )}
+        <div class="sheen" />
+        <div class="hinge" />
+      </div>
+    </div>
+  )
+}
+
+{
+  cover.kind === 'practice' && (
+    <div class="cover card practice" style={vars} aria-hidden="true">
+      <div class="scale">
+        <div class="lace" />
+        <div class="cbody">
+          <div class="inner">
+            <Icon name={cover.icon} class="ico" />
+            <div class="t">{title}</div>
+            {cover.minutes && <div class="cmeta">{s('minutes', { count: cover.minutes })}</div>}
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+{
+  cover.kind === 'prayer' && (
+    <div class="cover card prayer" style={vars} aria-hidden="true">
+      <div class="scale">
+        <div class="lace" />
+        <div class="in">
+          <Icon name={cover.icon} class="ico" />
+          <div class="t">{title}</div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+{
+  cover.kind === 'breviary' && (
+    <div class="cover card page" style={vars} aria-hidden="true">
+      <div class="scale">
+        <div class="crule" />
+        <div class="v">{title.trim().charAt(0)}</div>
+        <div class="t">{title}</div>
+        <div class="faux"><i /><i style="width:92%" /><i style="width:70%" /></div>
+        <div class="x">✠</div>
+      </div>
+    </div>
+  )
+}
+
+{
+  cover.kind === 'collection' && (
+    <div class={`cover card collection ${cover.style}`} style={vars} aria-hidden="true">
+      <div class="scale">
+        {cover.style === 'boxed' && (
+          <>
+            <div class="case" />
+            <div class="slot">
+              {numerals.map((n, i) => (
+                <div class={`vol v${i}`}><span>{n}</span></div>
+              ))}
+            </div>
+            <div class="txt">
+              <div class="t">{title}</div>
+              {kicker && <div class="cmeta">{kicker}</div>}
+            </div>
+          </>
+        )}
+        {cover.style === 'slipcase' && (
+          <>
+            <div class="peek p1" />
+            <div class="peek p2" />
+            <div class="case">
+              <div class="t">{title}</div>
+              <div class="crule" />
+              {kicker && <div class="cmeta">{kicker}</div>}
+            </div>
+          </>
+        )}
+        {cover.style === 'packet' && (
+          <>
+            <div class="leaf back1" />
+            <div class="leaf back2" />
+            <div class="leaf top">
+              <div class="t">{title}</div>
+              {kicker && <div class="cmeta">{kicker}</div>}
+            </div>
+          </>
+        )}
+        {cover.style === 'ordo' && (
+          <>
+            <div class="band">
+              <span>ORDO</span>
+              {kicker && <span>{kicker}</span>}
+            </div>
+            <div class="t">{title}</div>
+            <div class="hours">
+              {['MANE', 'MERIDIE', 'VESPERE'].map((hour) => (
+                <div><b>{hour}</b><i /></div>
+              ))}
+            </div>
+          </>
+        )}
+      </div>
+    </div>
+  )
+}
+
+{
+  cover.kind === 'article' && (
+    <div class="cover tract" style={vars} aria-hidden="true">
+      <div class="scale">
+        <div class="fold" />
+        {cover.kicker && <div class="kick">{cover.kicker}</div>}
+        <div class="crule" />
+        <div class="t">{title}</div>
+        {cover.subtitle && <div class="csub">{cover.subtitle}</div>}
+        {cover.minutes && (
+          <div class="cmeta">
+            {cover.minutes} {locale === 'pt-BR' ? 'MIN DE LEITURA' : 'MIN READ'}
+          </div>
+        )}
+        <div class="x">❧</div>
+      </div>
+    </div>
+  )
+}
+
+<style is:global>
+  .cover {
+    --gold: #e8c97a;
+    --cream: #f5efe2;
+    --paper: #f3ead6;
+    --paper2: #e6d8bc;
+    --inkd: #2a1f16;
+    --rubric: #9b2226;
+    position: relative;
+    display: block;
+    width: 100%;
+    container-type: inline-size;
+    transition: transform 0.25s ease;
+    font-family: var(--font-body);
+    font-variant-numeric: lining-nums;
+  }
+  .cover .scale {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    font-size: 1cqw;
+    line-height: 1.2;
+  }
+  .cover .t {
+    font-weight: 600;
+    line-height: 1.12;
+    text-wrap: balance;
+    overflow-wrap: break-word;
+    hyphens: auto;
+  }
+
+  /* ── Books ── */
+  .cover.book {
+    aspect-ratio: 2 / 3;
+    filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.3));
+  }
+  .book .scale {
+    border-radius: 1.2em 3.5em 3.5em 1.2em;
+    background: linear-gradient(155deg, var(--from), var(--to));
+    color: var(--cream);
+  }
+  .book .hinge {
+    position: absolute;
+    inset: 0;
+    z-index: 5;
+    background: linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.42) 0%,
+      rgba(0, 0, 0, 0.18) 3.2%,
+      rgba(255, 255, 255, 0.16) 4.4%,
+      rgba(255, 255, 255, 0.05) 6.2%,
+      rgba(0, 0, 0, 0.22) 7.4%,
+      rgba(0, 0, 0, 0.06) 9.5%,
+      rgba(0, 0, 0, 0) 13%,
+      rgba(0, 0, 0, 0) 94%,
+      rgba(0, 0, 0, 0.12) 100%
+    );
+  }
+  .book .sheen,
+  .card .sheen {
+    position: absolute;
+    inset: 0;
+    z-index: 4;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.07),
+      rgba(255, 255, 255, 0) 35%,
+      rgba(0, 0, 0, 0) 75%,
+      rgba(0, 0, 0, 0.14)
+    );
+  }
+  .book .imprint {
+    font-family: var(--font-heading);
+    font-size: 3em;
+    letter-spacing: 0.3em;
+    white-space: nowrap;
+  }
+  .book .imprint.foot {
+    position: absolute;
+    left: 9%;
+    right: 0;
+    text-align: center;
+  }
+  .book .a {
+    font-size: 5.8em;
+    line-height: 1.2;
+  }
+  .book .face {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 9%;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .classic .frame {
+    position: absolute;
+    top: 6.5%;
+    bottom: 4.6%;
+    left: 15%;
+    right: 7.5%;
+    border: 1px solid rgba(245, 239, 226, 0.38);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 7%;
+  }
+  .classic .x {
+    margin-top: 13%;
+    font-size: 10em;
+    line-height: 1;
+    color: var(--gold);
+  }
+  .classic .mid {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4em;
+  }
+  .classic .t {
+    font-size: calc(var(--ts) * 100em);
+  }
+  .classic .crule {
+    width: 28%;
+    height: 1px;
+    background: rgba(232, 201, 122, 0.7);
+  }
+  .classic .a {
+    opacity: 0.85;
+  }
+  .classic .imprint {
+    opacity: 0.7;
+    margin-bottom: 8%;
+  }
+
+  .gilt .frame {
+    position: absolute;
+    top: 5%;
+    bottom: 5%;
+    left: 14%;
+    right: 6%;
+    border: 1.5px solid rgba(232, 201, 122, 0.75);
+    outline: 1px solid rgba(232, 201, 122, 0.45);
+    outline-offset: -5.5em;
+  }
+  .gilt .face {
+    left: 10%;
+    padding: 0 12%;
+    justify-content: center;
+    gap: 5em;
+  }
+  .gilt .t {
+    font-family: var(--font-heading);
+    color: var(--gold);
+    font-size: calc(var(--ts) * 82em);
+    letter-spacing: 0.03em;
+    line-height: 1.2;
+    hyphens: none;
+  }
+  .gilt .a {
+    font-style: italic;
+    opacity: 0.85;
+  }
+  .gilt .x {
+    font-size: 13em;
+    color: var(--gold);
+    line-height: 1;
+  }
+  .gilt .imprint {
+    bottom: 11%;
+    color: var(--gold);
+    opacity: 0.75;
+    font-size: 2.8em;
+  }
+
+  .label .face {
+    left: 9%;
+    justify-content: flex-start;
+    padding-top: 22%;
+  }
+  .label .plate {
+    width: 74%;
+    background: linear-gradient(180deg, #f3ead6, #e4d6b8);
+    color: #2a1f16;
+    padding: 9% 7% 8%;
+    border-radius: 1.5em;
+    box-shadow:
+      inset 0 0 0 0.8em #f3ead6,
+      inset 0 0 0 1.3em rgba(90, 60, 30, 0.45),
+      0 1em 2em rgba(0, 0, 0, 0.35);
+    display: flex;
+    flex-direction: column;
+    gap: 3.5em;
+    align-items: center;
+  }
+  .label .t {
+    font-size: calc(var(--ts) * 88em);
+  }
+  .label .a {
+    font-size: 5.2em;
+    color: #5b4a38;
+    font-style: italic;
+  }
+  .label .x {
+    position: absolute;
+    bottom: 16%;
+    font-size: 11em;
+    color: var(--gold);
+    line-height: 1;
+  }
+  .label .imprint {
+    bottom: 7%;
+    left: 0;
+    opacity: 0.65;
+    font-size: 2.8em;
+  }
+
+  .quarter .spine {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 24%;
+    z-index: 2;
+    background:
+      linear-gradient(90deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)),
+      linear-gradient(155deg, var(--from), var(--to));
+    box-shadow:
+      1px 0 0 rgba(232, 201, 122, 0.55),
+      2px 0 0 rgba(0, 0, 0, 0.4);
+  }
+  .quarter .band {
+    position: absolute;
+    left: 0;
+    width: 24%;
+    height: 2.2%;
+    z-index: 3;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.18), rgba(0, 0, 0, 0.35));
+  }
+  .quarter .face {
+    left: 24%;
+    padding: 0 10%;
+    justify-content: center;
+    gap: 5em;
+  }
+  .quarter .t {
+    font-size: calc(var(--ts) * 92em);
+    text-align: left;
+    align-self: stretch;
+  }
+  .quarter .a {
+    text-align: left;
+    align-self: stretch;
+    opacity: 0.8;
+  }
+  .quarter .crule {
+    align-self: stretch;
+    height: 1px;
+    background: rgba(232, 201, 122, 0.6);
+  }
+  .quarter .x {
+    position: absolute;
+    z-index: 3;
+    top: 8%;
+    left: 34%;
+    font-size: 9em;
+    color: var(--gold);
+  }
+  .quarter .imprint {
+    z-index: 3;
+    bottom: 6%;
+    left: 34%;
+    text-align: left;
+    opacity: 0.6;
+    font-size: 2.6em;
+  }
+
+  .arch .win {
+    position: absolute;
+    top: 7%;
+    bottom: 6%;
+    left: 15%;
+    right: 7%;
+    border: 1px solid rgba(232, 201, 122, 0.6);
+    border-radius: 50% 50% 0 0 / 28% 28% 0 0;
+  }
+  .arch .win2 {
+    position: absolute;
+    top: 9.5%;
+    bottom: 8%;
+    left: 18%;
+    right: 10%;
+    border: 1px solid rgba(245, 239, 226, 0.22);
+    border-radius: 50% 50% 0 0 / 28% 28% 0 0;
+  }
+  .arch .face {
+    padding: 0 16%;
+    justify-content: center;
+    gap: 4.5em;
+    left: 11%;
+    right: 3%;
+  }
+  .arch .x {
+    position: absolute;
+    top: 18%;
+    left: 8%;
+    right: 0;
+    text-align: center;
+    font-size: 14em;
+    color: var(--gold);
+    line-height: 1;
+  }
+  .arch .t {
+    font-size: calc(var(--ts) * 95em);
+    margin-top: 12%;
+  }
+  .arch .a {
+    opacity: 0.8;
+    font-style: italic;
+  }
+  .arch .imprint {
+    bottom: 11%;
+    opacity: 0.65;
+    font-size: 2.8em;
+  }
+
+  .watermark .big {
+    position: absolute;
+    right: -18%;
+    top: -4%;
+    font-size: 118em;
+    line-height: 1;
+    color: rgba(255, 255, 255, 0.06);
+  }
+  .watermark .face {
+    left: 16%;
+    right: 8%;
+    align-items: flex-start;
+    text-align: left;
+    justify-content: flex-end;
+    padding-bottom: 17%;
+    gap: 3.5em;
+  }
+  .watermark .x {
+    position: absolute;
+    top: 8%;
+    left: 16%;
+    font-size: 9em;
+    color: var(--gold);
+  }
+  .watermark .t {
+    font-size: calc(var(--ts) * 110em);
+    line-height: 1.05;
+  }
+  .watermark .crule {
+    width: 20%;
+    height: 1.5px;
+    background: var(--gold);
+  }
+  .watermark .a {
+    opacity: 0.8;
+    font-size: 5.4em;
+  }
+  .watermark .imprint {
+    bottom: 6%;
+    left: 16%;
+    text-align: left;
+    opacity: 0.55;
+    font-size: 2.6em;
+  }
+
+  .banded .mid {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 30%;
+    height: 42%;
+    background: linear-gradient(180deg, #f3ead6, #e8dcc2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3.5em;
+    padding: 0 10% 0 17%;
+    text-align: center;
+  }
+  .banded .t {
+    font-size: calc(var(--ts) * 92em);
+    color: #241a12;
+  }
+  .banded .a {
+    color: #6b5642;
+    font-size: 5.2em;
+  }
+  .banded .x {
+    position: absolute;
+    top: 10%;
+    left: 9%;
+    right: 0;
+    text-align: center;
+    font-size: 12em;
+    color: var(--gold);
+  }
+  .banded .imprint {
+    bottom: 10%;
+    opacity: 0.7;
+    font-size: 2.8em;
+  }
+  .banded .edge {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 1.2em;
+    background: var(--gold);
+    opacity: 0.7;
+  }
+  .banded .edge.top {
+    top: calc(30% - 1.8em);
+  }
+  .banded .edge.bottom {
+    top: calc(72% + 0.6em);
+  }
+
+  .missal .face {
+    left: 10%;
+    padding: 10% 11% 9%;
+    justify-content: space-between;
+  }
+  .missal .crules {
+    width: 100%;
+    border-top: 1.5px solid var(--gold);
+    border-bottom: 0.8px solid var(--gold);
+    height: 1.6em;
+  }
+  .missal .t {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: calc(var(--ts) * 115em);
+    line-height: 1.1;
+    hyphens: none;
+  }
+  .missal .x {
+    font-size: 15em;
+    color: var(--gold);
+    line-height: 1;
+  }
+  .missal .a {
+    font-family: var(--font-heading);
+    font-size: 3.4em;
+    letter-spacing: 0.14em;
+    color: var(--gold);
+    opacity: 0.9;
+  }
+  .missal .cstack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5em;
+    width: 100%;
+  }
+  .missal .imprint {
+    opacity: 0.6;
+    font-size: 2.6em;
+  }
+
+  /* ── Holy cards ── */
+  .cover.card {
+    aspect-ratio: 1;
+    filter: drop-shadow(0 5px 9px rgba(0, 0, 0, 0.28));
+  }
+  .card .cmeta,
+  .tract .cmeta {
+    font-family: var(--font-heading);
+    font-size: 4.2em;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .card .lace {
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle, var(--lace) 52%, transparent 56%) 0 0 / 6.25em 6.25em;
+  }
+  .card .ico {
+    width: 18em;
+    height: 18em;
+    flex: none;
+  }
+
+  .practice {
+    --lace: var(--from);
+    color: var(--cream);
+  }
+  .practice .cbody {
+    position: absolute;
+    inset: 3.1em;
+    border-radius: 1em;
+    background: linear-gradient(155deg, var(--from), var(--to));
+  }
+  .practice .inner {
+    position: absolute;
+    inset: 6em;
+    border: 1px solid rgba(245, 239, 226, 0.7);
+    border-radius: 2em;
+    outline: 1px solid rgba(245, 239, 226, 0.28);
+    outline-offset: -2.6em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3.5em;
+    text-align: center;
+    padding: 0 9em;
+  }
+  .practice .ico {
+    color: var(--gold);
+  }
+  .practice .t {
+    font-size: 11em;
+  }
+  .practice .cmeta {
+    opacity: 0.7;
+  }
+
+  .prayer {
+    --lace: var(--paper);
+    color: var(--inkd);
+  }
+  .prayer .lace::after {
+    content: '';
+    position: absolute;
+    inset: 3.1em;
+    background: var(--paper);
+    border-radius: 1em;
+  }
+  .prayer .in {
+    position: absolute;
+    inset: 9%;
+    border: 1.5em solid var(--from);
+    border-radius: 3em;
+    background: linear-gradient(180deg, #fbf5e8, #efe3c9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3.5em;
+    text-align: center;
+    padding: 0 8%;
+  }
+  .prayer .in::before {
+    content: '';
+    position: absolute;
+    inset: 2.5em;
+    border: 1px solid color-mix(in srgb, var(--from) 45%, transparent);
+    border-radius: 2em;
+  }
+  .prayer .ico {
+    color: var(--from);
+  }
+  .prayer .t {
+    font-size: 11.5em;
+  }
+
+  .page .scale {
+    background: linear-gradient(180deg, var(--paper), var(--paper2));
+    color: var(--inkd);
+    border-radius: 4em;
+  }
+  .page .crule {
+    position: absolute;
+    left: 9%;
+    right: 9%;
+    top: 10%;
+    border-top: 1px solid var(--rubric);
+    opacity: 0.7;
+  }
+  .page .v {
+    position: absolute;
+    left: 7%;
+    top: 14%;
+    width: 30%;
+    text-align: center;
+    font-family: var(--font-display);
+    font-size: 36em;
+    line-height: 1.1;
+    color: var(--rubric);
+  }
+  .page .t {
+    position: absolute;
+    left: 9%;
+    right: 7%;
+    top: 17%;
+    font-size: 10.5em;
+    padding-left: 33%;
+    max-height: 40%;
+    overflow: hidden;
+  }
+  .page .faux {
+    position: absolute;
+    left: 9%;
+    right: 9%;
+    top: 62%;
+    display: flex;
+    flex-direction: column;
+    gap: 3.4em;
+  }
+  .page .faux i {
+    display: block;
+    height: 1.2em;
+    background: rgba(42, 31, 22, 0.18);
+    border-radius: 1em;
+  }
+  .page .x {
+    position: absolute;
+    right: 9%;
+    bottom: 6.5%;
+    color: var(--rubric);
+    font-size: 8em;
+    line-height: 1;
+  }
+
+  /* ── Collections ── */
+  .collection .txt {
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 61%;
+    bottom: 7%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 2.5em;
+    color: var(--cream);
+  }
+  .collection .cmeta {
+    font-size: 3.8em;
+    letter-spacing: 0.2em;
+    color: var(--gold);
+  }
+
+  .boxed .case {
+    position: absolute;
+    inset: 3% 5% 3% 5%;
+    border-radius: 2.4em;
+    background: linear-gradient(155deg, var(--from), var(--to));
+  }
+  .boxed .slot {
+    position: absolute;
+    left: 11%;
+    right: 11%;
+    top: 9%;
+    height: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: flex-end;
+    padding: 0 3%;
+    gap: 1%;
+    box-shadow: inset 0 3em 4em rgba(0, 0, 0, 0.5);
+  }
+  .boxed .vol {
+    flex: 1;
+    height: 92%;
+    border-radius: 1em 1em 0 0;
+    background:
+      linear-gradient(90deg, rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.1) 40%, rgba(0, 0, 0, 0.35)),
+      var(--from);
+    border-top: 0.9em solid rgba(232, 201, 122, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .boxed .vol.v1 { filter: brightness(0.82); height: 88%; }
+  .boxed .vol.v2 { filter: brightness(1.12); }
+  .boxed .vol.v3 { filter: brightness(0.74); height: 90%; }
+  .boxed .vol.v4 { filter: brightness(1.18); height: 86%; }
+  .boxed .vol span {
+    font-family: var(--font-heading);
+    font-size: 4em;
+    color: var(--gold);
+    background: rgba(0, 0, 0, 0.35);
+    padding: 0.3em 0.5em;
+  }
+  .boxed .t {
+    font-size: 11em;
+  }
+
+  .slipcase .peek {
+    position: absolute;
+    width: 37%;
+    height: 30%;
+    border-radius: 1.5em 1.5em 0 0;
+    background:
+      linear-gradient(90deg, rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.08) 40%, rgba(0, 0, 0, 0.3)),
+      var(--to);
+    border-top: 0.9em solid rgba(232, 201, 122, 0.7);
+  }
+  .slipcase .p1 { left: 13%; top: 4%; }
+  .slipcase .p2 { left: 50%; top: 9%; filter: brightness(1.25); }
+  .slipcase .case {
+    position: absolute;
+    left: 6%;
+    right: 6%;
+    top: 17%;
+    bottom: 3%;
+    border-radius: 2em;
+    background: linear-gradient(155deg, var(--from), var(--to));
+    outline: 1px solid rgba(232, 201, 122, 0.6);
+    outline-offset: -4em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3.5em;
+    padding: 0 12%;
+    text-align: center;
+    color: var(--cream);
+  }
+  .slipcase .t { font-size: 11.5em; }
+  .slipcase .crule { width: 26%; height: 1px; background: rgba(232, 201, 122, 0.7); }
+
+  .packet .leaf {
+    position: absolute;
+    left: 15%;
+    top: 13%;
+    width: 70%;
+    height: 74%;
+    border-radius: 2em;
+  }
+  .packet .back1 { background: var(--to); transform: rotate(-15deg); }
+  .packet .back2 { background: var(--from); transform: rotate(13deg); }
+  .packet .top {
+    background: linear-gradient(180deg, #fbf5e8, #efe3c9);
+    border: 1.2em solid var(--paper);
+    outline: 1px solid color-mix(in srgb, var(--from) 60%, transparent);
+    outline-offset: -3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3em;
+    padding: 0 8%;
+    text-align: center;
+    color: var(--inkd);
+  }
+  .packet .t { font-size: 10.5em; }
+  .packet .cmeta { color: var(--from); }
+
+  .ordo .scale {
+    background: linear-gradient(180deg, #f6eedc, #e9dbbd);
+    border-radius: 4em;
+    color: var(--inkd);
+  }
+  .ordo .band {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 20%;
+    background: linear-gradient(155deg, var(--from), var(--to));
+    border-bottom: 0.6em solid var(--gold);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 9%;
+    font-family: var(--font-heading);
+    font-size: 3.8em;
+    letter-spacing: 0.2em;
+    color: var(--cream);
+  }
+  .ordo .band span { font-size: 1em; }
+  .ordo .t {
+    position: absolute;
+    left: 9%;
+    right: 9%;
+    top: 27%;
+    font-size: 11.5em;
+    max-height: 38%;
+    overflow: hidden;
+  }
+  .ordo .hours {
+    position: absolute;
+    left: 9%;
+    right: 9%;
+    top: 69%;
+    display: flex;
+    flex-direction: column;
+    gap: 3.6em;
+  }
+  .ordo .hours div { display: flex; align-items: center; gap: 3em; }
+  .ordo .hours b {
+    font-family: var(--font-heading);
+    font-weight: 400;
+    font-size: 3.2em;
+    letter-spacing: 0.16em;
+    color: var(--rubric);
+    width: 9em;
+  }
+  .ordo .hours i { flex: 1; height: 1em; background: rgba(42, 31, 22, 0.18); border-radius: 1em; }
+
+  /* ── Tract ── */
+  .cover.tract {
+    aspect-ratio: 10 / 13;
+    filter: drop-shadow(0 5px 9px rgba(0, 0, 0, 0.28));
+  }
+  .tract .scale {
+    background: linear-gradient(180deg, #fbf5e8, #ecdfc3);
+    color: var(--inkd);
+    clip-path: polygon(0 0, 86% 0, 100% 11%, 100% 100%, 0 100%);
+    border-radius: 1.4em;
+  }
+  .tract .fold {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 14%;
+    height: 11%;
+    background: linear-gradient(225deg, transparent 50%, #c9b891 50%);
+  }
+  .tract .kick {
+    position: absolute;
+    left: 10%;
+    right: 20%;
+    top: 7.5%;
+    font-family: var(--font-heading);
+    font-size: 3.8em;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--rubric);
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  .tract .crule {
+    position: absolute;
+    left: 10%;
+    width: 68%;
+    top: 15%;
+    border-top: 1px solid var(--rubric);
+  }
+  .tract .t {
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 20%;
+    font-size: 12em;
+    max-height: 40%;
+    overflow: hidden;
+  }
+  .tract .csub {
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 62%;
+    font-style: italic;
+    font-size: 6.2em;
+    line-height: 1.25;
+    max-height: 22%;
+    overflow: hidden;
+  }
+  .tract .cmeta {
+    position: absolute;
+    left: 10%;
+    bottom: 6%;
+    font-size: 3.6em;
+    color: #7a6650;
+  }
+  .tract .x {
+    position: absolute;
+    right: 9%;
+    bottom: 4%;
+    font-size: 9em;
+    line-height: 1;
+    color: var(--rubric);
+  }
+</style>

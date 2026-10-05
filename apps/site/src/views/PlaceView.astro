@@ -1,0 +1,46 @@
+---
+import Base from '~/layouts/Base.astro'
+import type { Locale } from '~/lib/locale'
+import { places } from '~/lib/massTimes/data'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  country: string
+  place: string
+}
+
+const { locale, alternates, country, place: placeSlug } = Astro.props
+const pt = locale === 'pt-BR'
+const place = (await places()).find((p) => p.country === country && p.slug === placeSlug)
+if (!place) throw new Error(`No place ${country}/${placeSlug}`)
+const churches = [...place.churches].sort((a, b) => (a.longName ?? a.name).localeCompare(b.longName ?? b.name, locale))
+const title = pt ? `Horários de Missa em ${place.region}` : `Mass times in ${place.region}`
+const description = pt
+  ? `${churches.length} igrejas católicas em ${place.region} com horários de Missa, confissão e adoração.`
+  : `${churches.length} Catholic churches in ${place.region} with Mass, confession and adoration times.`
+---
+
+<Base locale={locale} title={title} description={description} alternates={alternates} section="massTimes">
+  <div class="column">
+    <header class="page-head">
+      <p class="t-kicker"><a href={href.section(locale, 'massTimes')}>{pt ? 'Horários de Missa' : 'Mass times'}</a></p>
+      <h1 class="t-screen" style="font-size:clamp(32px,5vw,44px)">{place.region}</h1>
+      <p class="lede">{description}</p>
+    </header>
+    <ul class="rows">
+      {churches.map((church) => (
+        <li>
+          <a class="row" href={href.church(locale, church.id)}>
+            <span class="grow">
+              <span class="row-title">{church.longName ?? church.name}</span>
+              {church.city && <span class="t-annotation" style="display:block">{church.city}</span>}
+            </span>
+            <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

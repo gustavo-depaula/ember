@@ -1,0 +1,136 @@
+---
+import DayNav from '~/components/DayNav.astro'
+import Primitives from '~/components/Primitives.astro'
+import ReaderTools from '~/components/ReaderTools.astro'
+import Base from '~/layouts/Base.astro'
+import { longDate } from '~/lib/dates'
+import { loadEfDay, loadOfficeHour } from '~/lib/liturgy'
+import type { Locale } from '~/lib/locale'
+import { hourNames, href, type OfficeHour, officeHours } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  date: Date
+  /** Omitted on the day's own page, which lists the hours. */
+  hour?: OfficeHour
+  isToday?: boolean
+}
+
+const { locale, alternates, date, hour, isToday } = Astro.props
+const pt = locale === 'pt-BR'
+const day = await loadEfDay(date, locale)
+const primitives = hour ? await loadOfficeHour(date, hour, locale) : undefined
+const names = hourNames[locale]
+const breviary = pt ? 'Breviário Romano' : 'Roman Breviary'
+const title = hour
+  ? `${names[hour]} — ${breviary}, ${longDate(date, locale)}`
+  : `${pt ? 'Ofício Divino' : 'Divine Office'} — ${longDate(date, locale)}`
+const description = pt
+  ? `${hour ? `${names[hour]} do ` : ''}Breviário Romano (rubricas de 1960) para ${longDate(date, locale)}: ${day.name}. Latim e português lado a lado.`
+  : `${hour ? `${names[hour]} of the ` : 'The '}Roman Breviary (rubrics of 1960) for ${longDate(date, locale)}: ${day.name}. Latin and English side by side.`
+const whenToPray: Record<OfficeHour, string> = pt
+  ? { Matutinum: 'De madrugada', Laudes: 'Ao amanhecer', Prima: 'Primeira hora', Tertia: 'Meio da manhã', Sexta: 'Meio-dia', Nona: 'Meio da tarde', Vespera: 'Ao entardecer', Completorium: 'Antes de dormir' }
+  : { Matutinum: 'In the night', Laudes: 'At dawn', Prima: 'The first hour', Tertia: 'Mid-morning', Sexta: 'Midday', Nona: 'Mid-afternoon', Vespera: 'At evening', Completorium: 'Before sleep' }
+---
+
+<Base locale={locale} title={title} description={description} alternates={alternates} section="office" ogType="article">
+  <article class="column">
+    <header class="title-page">
+      <div class="cross-rule" aria-hidden="true">✠</div>
+      <h1>{breviary}</h1>
+      <p class="variant">{pt ? 'Rubricas de 1960' : 'Rubrics of 1960'}</p>
+      <DayNav
+        locale={locale}
+        date={date}
+        to={(d) => href.office(locale, d, hour)}
+        todayBase={isToday ? href.office(locale) : undefined}
+      />
+    </header>
+
+    <section class="stack-sm day">
+      <p class="feast" lang="la">{day.name}</p>
+      <p class="t-kicker" lang="la">{day.rankText}</p>
+    </section>
+
+    <nav class="hours" aria-label={pt ? 'Horas' : 'Hours'}>
+      <div class="picker-label">{pt ? 'Hora' : 'Hour'}</div>
+      <div class="picker">
+        {officeHours.map((h) => (
+          <a href={href.office(locale, date, h)} aria-current={h === hour ? 'page' : undefined}>{names[h]}</a>
+        ))}
+      </div>
+    </nav>
+
+    {primitives ? (
+      <>
+        <ReaderTools locale={locale} latin />
+        <div class="flow"><Primitives items={primitives} locale={locale} /></div>
+      </>
+    ) : (
+      <ul class="rows hour-list">
+        {officeHours.map((h) => (
+          <li>
+            <a class="row" href={href.office(locale, date, h)}>
+              <span class="grow">
+                <span class="row-title">{names[h]}</span>
+                <span class="t-annotation" style="display:block">{whenToPray[h]}</span>
+              </span>
+              <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )}
+
+    <nav class="stack-sm also">
+      <a class="go" href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina deste dia' : 'The Traditional Latin Mass of this day'} →</a>
+      <a class="go" href={href.prayer(locale, 'breviary')}>{pt ? 'Outras rubricas e ofícios votivos' : 'Other rubrics and votive offices'} →</a>
+    </nav>
+    <p class="t-annotation credit">
+      {pt ? 'Textos do projeto Divinum Officium.' : 'Texts from the Divinum Officium project.'}
+    </p>
+  </article>
+</Base>
+
+<style>
+  .day {
+    padding-top: var(--space-lg);
+  }
+  .feast {
+    font-family: var(--font-title);
+    font-size: 26px;
+    line-height: 32px;
+    color: var(--color-burgundy);
+    text-wrap: balance;
+  }
+  .hours {
+    padding-top: var(--space-lg);
+  }
+  .picker a {
+    min-height: 40px;
+    display: inline-flex;
+    align-items: center;
+    font-family: var(--font-heading);
+    font-size: 14px;
+    letter-spacing: 0.6px;
+    color: var(--color-secondary);
+    border-bottom: 1.5px solid transparent;
+  }
+  .picker a:hover {
+    color: var(--color);
+  }
+  .picker a[aria-current='page'] {
+    color: var(--gold-ink);
+    border-bottom-color: var(--accent);
+  }
+  .hour-list {
+    padding-top: var(--space-md);
+  }
+  .also {
+    padding-top: var(--space-lg);
+  }
+  .credit {
+    padding-top: var(--space-md);
+  }
+</style>

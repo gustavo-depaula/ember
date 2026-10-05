@@ -1,0 +1,151 @@
+---
+import { getEntry } from '@/content/contentIndex'
+import { coverFor } from '@/features/covers/coverFor'
+import { artFor } from '@/features/explore/artMap'
+import { prayerDevotions, prayerForms } from '@/features/practices/prayerFacets'
+import { isAlternateForm } from '@/content/resolver'
+import { localizeContent } from '@/lib/i18n'
+import Cover from '~/components/Cover.astro'
+import PageFlourish from '~/components/PageFlourish.astro'
+import Base from '~/layouts/Base.astro'
+import { type Locale, translator, withLocale } from '~/lib/locale'
+import { listPrayers } from '~/lib/prayers'
+import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const s = siteStrings(locale)
+const t = translator(locale)
+
+const prayers = withLocale(locale, async () =>
+  (await listPrayers())
+    .filter((p) => !isAlternateForm(p.manifest))
+    .map((p) => {
+      const entry = getEntry(p.id)
+      return {
+        id: p.id,
+        title: localizeContent(p.manifest.name),
+        minutes: p.manifest.estimatedMinutes,
+        tags: [...new Set([...(p.manifest.tags ?? []), ...(p.manifest.categories ?? [])])],
+        art: artFor(p.id)?.uri,
+        cover: entry && coverFor(entry),
+      }
+    })
+    .sort((a, b) => a.title.localeCompare(b.title, locale)),
+)
+const list = await prayers
+const pt = locale === 'pt-BR'
+const description = pt
+  ? `${list.length} orações católicas em português e latim: o Terço, novenas, ladainhas, ofícios, hinos e as orações de cada dia.`
+  : `${list.length} Catholic prayers in English and Latin: the Rosary, novenas, litanies, offices, hymns and the prayers of every day.`
+---
+
+<Base locale={locale} title={t('search.prayers')} description={description} alternates={alternates} section="prayers">
+  <PageFlourish art="you" />
+  <div class="column">
+    <header class="page-head">
+      <h1 class="t-screen">{t('search.prayers')}</h1>
+      <p class="lede">{t('search.prayersHint')}</p>
+    </header>
+
+    <div class="stack-sm filters" data-prayer-filters>
+      <div class="facets" role="group" aria-label={pt ? 'Forma' : 'Form'}>
+        <button type="button" data-facet="form" data-tags="" aria-pressed="true">{t('search.allForms')}</button>
+        {prayerForms.map((f) => (
+          <button type="button" data-facet="form" data-tags={f.tags.join(' ')} aria-pressed="false">
+            {t(`search.form.${f.key}`)}
+          </button>
+        ))}
+      </div>
+      <div class="facets" role="group" aria-label={pt ? 'Devoção' : 'Devotion'}>
+        <button type="button" data-facet="devotion" data-tags="" aria-pressed="true">{t('search.allDevotions')}</button>
+        {prayerDevotions.map((f) => (
+          <button type="button" data-facet="devotion" data-tags={f.tags.join(' ')} aria-pressed="false">
+            {t(`search.devotion.${f.key}`)}
+          </button>
+        ))}
+      </div>
+    </div>
+
+    <p class="t-annotation count" data-prayer-count data-one={pt ? 'oração' : 'prayer'} data-other={pt ? 'orações' : 'prayers'}>
+      {list.length} {pt ? 'orações' : 'prayers'}
+    </p>
+    <p class="t-caption" data-prayer-empty hidden>{t('search.noPrayers')}</p>
+
+    <ul class="rows" data-prayer-list>
+      {list.map((p) => (
+        <li data-tags={p.tags.join(' ')}>
+          <a class="row" href={href.prayer(locale, p.id)}>
+            <span class="thumb">
+              {p.art ? (
+                <img src={p.art} alt="" loading="lazy" decoding="async" />
+              ) : (
+                p.cover && <Cover cover={p.cover} id={p.id} title={p.title} locale={locale} />
+              )}
+            </span>
+            <span class="grow">
+              <span class="row-title">{p.title}</span>
+              {p.minutes && <span class="t-annotation" style="display:block">{s('minutes', { count: p.minutes })}</span>}
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>
+
+<style>
+  .filters {
+    padding-bottom: var(--space-sm);
+  }
+  .count {
+    padding-block: var(--space-sm);
+  }
+  .thumb {
+    flex: none;
+    width: 72px;
+    height: 72px;
+  }
+  .thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  li[hidden] {
+    display: none;
+  }
+</style>
+
+<script>
+  // Narrow the list by form and by devotion, as the app's index does.
+  const filters = document.querySelector('[data-prayer-filters]')
+  const rows = [...document.querySelectorAll<HTMLElement>('[data-prayer-list] > li')]
+  const count = document.querySelector<HTMLElement>('[data-prayer-count]')
+  const empty = document.querySelector<HTMLElement>('[data-prayer-empty]')
+  const active: Record<string, string[]> = { form: [], devotion: [] }
+
+  filters?.addEventListener('click', (event) => {
+    const button = (event.target as Element).closest<HTMLButtonElement>('button[data-facet]')
+    if (!button) return
+    const facet = button.dataset.facet as string
+    active[facet] = (button.dataset.tags ?? '').split(' ').filter(Boolean)
+    for (const other of filters.querySelectorAll(`button[data-facet="${facet}"]`)) {
+      other.setAttribute('aria-pressed', String(other === button))
+    }
+    let shown = 0
+    for (const row of rows) {
+      const tags = new Set((row.dataset.tags ?? '').split(' '))
+      const match = Object.values(active).every((wanted) => !wanted.length || wanted.some((tag) => tags.has(tag)))
+      row.hidden = !match
+      if (match) shown++
+    }
+    if (count) count.textContent = `${shown} ${shown === 1 ? count.dataset.one : count.dataset.other}`
+    if (empty) empty.hidden = shown > 0
+  })
+</script>

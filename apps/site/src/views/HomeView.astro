@@ -1,0 +1,462 @@
+---
+import { getImage } from 'astro:assets'
+import { aspirationFor } from '@/features/home/aspirations'
+import cornerDark from '../../../app/assets/textures/frame_corner_dark.png'
+import cornerLight from '../../../app/assets/textures/frame_corner_light.png'
+import chalice from '../../../app/assets/textures/horizontal_marker_chalice.png'
+import MassTimesNotice from '~/components/MassTimesNotice.astro'
+import Shelf from '~/components/Shelf.astro'
+import Base from '~/layouts/Base.astro'
+import { calendarYears } from '~/lib/dates'
+import { loadHome } from '~/lib/home'
+import { type Locale, translator } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+import { addDays, today } from '~/lib/today'
+import { hourNames, href, officeHours } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const t = translator(locale)
+const s = siteStrings(locale)
+const pt = locale === 'pt-BR'
+const home = await loadHome(today, locale)
+
+const weekday = new Intl.DateTimeFormat(locale, { weekday: 'long' }).format(today)
+const monthDay = new Intl.DateTimeFormat(locale, { month: 'long', day: 'numeric' }).formatToParts(today)
+const dateTitle = monthDay.map((p) => (p.type === 'month' ? p.value.charAt(0).toUpperCase() + p.value.slice(1) : p.value)).join('')
+const years = calendarYears()
+const ahead = [1, 2, 3, 4].map((n) => addDays(today, n)).filter((d) => years.includes(d.getFullYear()))
+
+const light = await getImage({ src: cornerLight, width: 900, format: 'webp', quality: 80 })
+const dark = await getImage({ src: cornerDark, width: 900, format: 'webp', quality: 80 })
+const marker = await getImage({ src: chalice, width: 400, format: 'webp' })
+
+const pillars = pt
+  ? [
+      { title: 'Um plano de vida', body: 'Monte uma regra diária de oração e guarde-a, com lembretes e um céu de estrelas que mostra a sua fidelidade.' },
+      { title: 'Santinhos', body: 'Cartões recebidos pela prática da oração, cada um a apresentação de uma vida santa.' },
+      { title: 'Um leitor para a leitura longa', body: 'Fontes, margens e paletas à sua escolha, marcadores, destaques e notas, tudo disponível sem conexão.' },
+    ]
+  : [
+      { title: 'A plan of life', body: 'Build a daily rule of prayer and keep it, with reminders and a wall of stars that shows how faithfully you have kept it.' },
+      { title: 'Holy cards', body: 'Given through the practice of prayer, each one an introduction to a holy life.' },
+      { title: 'A reader for long reading', body: 'Your choice of typeface, margins and palette, with bookmarks, highlights and notes, all available offline.' },
+    ]
+---
+
+<Base
+  locale={locale}
+  title={s('siteName')}
+  alternates={alternates}
+  section="home"
+  jsonLd={{
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Ember',
+    url: new URL(href.home(locale), Astro.site).href,
+    description: s('description'),
+    inLanguage: locale,
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: `${new URL(href.section(locale, 'search'), Astro.site).href}?q={search_term_string}`,
+      'query-input': 'required name=search_term_string',
+    },
+  }}
+>
+  <div class="wide home">
+    <header class="today">
+      <div class="corner" aria-hidden="true">
+        <img class="only-light" src={light.src} alt="" width="900" height={light.attributes.height} />
+        <img class="only-dark" src={dark.src} alt="" width="900" height={dark.attributes.height} loading="lazy" />
+      </div>
+      <p class="kicker">
+        <a href={href.section(locale, 'calendar')}>{weekday} · {home.of.seasonName}</a>
+      </p>
+      <h1 class="date">
+        <span>{dateTitle}</span>
+        {ahead.map((d, i) => (
+          <a class={`ahead a${i}`} href={href.calendarDay(locale, d)} aria-label={new Intl.DateTimeFormat(locale, { dateStyle: 'long' }).format(d)}>
+            {d.getDate()}
+          </a>
+        ))}
+      </h1>
+      <p class="day-name">{home.of.celebrations[0]?.title ?? home.of.dayName}</p>
+    </header>
+
+    <section aria-label={s('today')}>
+      <div class="shelf features">
+        {home.features.map((feature) => (
+          <a class="feature" href={feature.href} style={`--from:${feature.tone.from};--to:${feature.tone.to}`}>
+            {feature.art ? (
+              <span class="feature-art"><img src={feature.art} alt="" loading="lazy" decoding="async" /></span>
+            ) : (
+              <span class="feature-plate" aria-hidden="true">✠</span>
+            )}
+            <span class="feature-foot">
+              <span class="feature-kicker">{feature.kicker}</span>
+              <span class="feature-title">{feature.title}</span>
+              {feature.subtitle && <span class="feature-sub">{feature.subtitle}</span>}
+            </span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <div class="row-head">
+        <h2>{pt ? 'Ofício Divino' : 'The Divine Office'}</h2>
+        <a class="go" href={href.office(locale)} aria-label={pt ? 'Ofício Divino' : 'The Divine Office'}>→</a>
+      </div>
+      <nav class="hours">
+        {officeHours.map((hour) => <a href={href.office(locale, today, hour)}>{hourNames[locale][hour]}</a>)}
+      </nav>
+    </section>
+
+    <Shelf title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150} />
+
+    {home.meditations.length > 0 && (
+      <section>
+        <div class="row-head"><h2>{t('explore.dailyMeditations')}</h2></div>
+        <div class="shelf">
+          {home.meditations.map((m) => (
+            <a class="meditation" href={m.href}>
+              {m.art && <img src={m.art} alt="" loading="lazy" decoding="async" />}
+              <span class="meditation-text">
+                <span class="meditation-title">{m.title}</span>
+                <span class="meditation-sub">{m.tagline}</span>
+              </span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <section class="places">
+      <MassTimesNotice locale={locale} />
+      <a class="place jewel" style="--from:#1E3A5C;--to:#0A1626" href={href.section(locale, 'bible')}>
+        <span>{s('navBible')}</span>
+      </a>
+      <a class="place jewel" style="--from:#5A1722;--to:#24090E" href={href.section(locale, 'library')}>
+        <span>{s('navLibrary')}</span>
+      </a>
+      <a class="place jewel" style="--from:#1E4A32;--to:#0C2418" href={href.section(locale, 'saints')}>
+        <span>{s('navSaints')}</span>
+      </a>
+    </section>
+
+    <section class="pitch">
+      <div class="pitch-text">
+        <p class="t-kicker">{pt ? 'O aplicativo' : 'The app'}</p>
+        <h2 class="t-sacred">{s('tagline')}</h2>
+        <p class="lede">
+          {pt
+            ? 'Tudo o que está neste site, e mais o que é só seu: o plano de vida, os santinhos, as suas leituras. Gratuito e de código aberto, sem anúncios, contas nem rastreamento.'
+            : 'Everything on this site, and what is yours alone: your plan of life, your holy cards, your reading. Free and open source, with no ads, no accounts and no tracking.'}
+        </p>
+        <a class="go" href={href.section(locale, 'about')}>{s('about')} →</a>
+      </div>
+      <ul class="pillars">
+        {pillars.map((pillar) => (
+          <li>
+            <h3 class="t-label">{pillar.title}</h3>
+            <p>{pillar.body}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <div class="closing" aria-hidden="true"><img src={marker.src} alt="" width="200" height="49" loading="lazy" /></div>
+    <p class="aspiratio" lang="la">{aspirationFor(today)}</p>
+  </div>
+</Base>
+
+<style>
+  .home {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
+  }
+  .today {
+    position: relative;
+    padding-top: clamp(96px, 16vw, 150px);
+  }
+  /* The app's home header: an illuminated corner, mirrored into the top right. */
+  .corner {
+    position: absolute;
+    top: -6px;
+    right: calc(-1 * var(--gutter));
+    width: min(82%, 620px);
+    pointer-events: none;
+    z-index: -1;
+  }
+  .corner img {
+    width: 100%;
+    height: auto;
+    transform: scaleX(-1);
+  }
+  .kicker {
+    font-family: var(--font-heading);
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+  .kicker a:hover {
+    color: var(--gold-ink);
+  }
+  /* The screen's one typographic peak. */
+  .date {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5em;
+    margin-top: 4px;
+    font-family: var(--font-title);
+    font-style: italic;
+    font-weight: 400;
+    font-size: clamp(46px, 9vw, 72px);
+    line-height: 1.3;
+    white-space: nowrap;
+  }
+  .ahead {
+    font-size: 0.6em;
+    transition: opacity 0.2s ease;
+  }
+  .ahead.a0 { opacity: 0.4; }
+  .ahead.a1 { opacity: 0.25; }
+  .ahead.a2 { opacity: 0.14; }
+  .ahead.a3 { opacity: 0.07; }
+  .ahead:hover { opacity: 0.8; }
+  .day-name {
+    font-size: 21px;
+    line-height: 28px;
+    color: var(--color-secondary);
+    max-width: 30em;
+  }
+
+  .features {
+    gap: 12px;
+    padding-bottom: 20px;
+  }
+  .feature {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: clamp(250px, 70vw, 310px);
+    aspect-ratio: 1 / 1.36;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    color: #f5efe2;
+    background: color-mix(in srgb, var(--from) 28%, #0b0908);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.18);
+    transition: transform 0.25s ease;
+  }
+  .feature:hover {
+    transform: translateY(-3px);
+  }
+  .feature-art {
+    position: absolute;
+    inset: 0 0 38% 0;
+  }
+  .feature-art img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 20%;
+  }
+  .feature-art::after {
+    content: '';
+    position: absolute;
+    inset: 55% 0 0 0;
+    background: linear-gradient(180deg, transparent, color-mix(in srgb, var(--from) 28%, #0b0908));
+  }
+  .feature-plate {
+    position: absolute;
+    inset: 12% 22% auto 22%;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    background: linear-gradient(162deg, var(--from), var(--to));
+    font-family: var(--font-heading);
+    font-size: 56px;
+    color: #e8c97a;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.35);
+  }
+  .feature-foot {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 18px;
+  }
+  .feature-kicker {
+    font-family: var(--font-heading);
+    font-size: 11px;
+    line-height: 14px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: rgba(245, 239, 226, 0.62);
+  }
+  .feature-title {
+    font-family: var(--font-title);
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .feature-sub {
+    font-size: 14px;
+    line-height: 19px;
+    color: rgba(245, 239, 226, 0.7);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .hours {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 24px;
+  }
+  .hours a {
+    min-height: 40px;
+    display: inline-flex;
+    align-items: center;
+    font-size: 21px;
+    color: var(--color-secondary);
+    transition: color 0.2s ease;
+  }
+  .hours a:hover {
+    color: var(--gold-ink);
+  }
+
+  .meditation {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    width: 200px;
+    height: 240px;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    background: #24090e;
+    color: #f5efe2;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.18);
+    transition: transform 0.25s ease;
+  }
+  .meditation:hover {
+    transform: translateY(-3px);
+  }
+  .meditation img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .meditation::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, 0.55) 58%, rgba(0, 0, 0, 0.88));
+  }
+  .meditation-text {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 16px;
+  }
+  .meditation-title {
+    font-family: var(--font-title);
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .meditation-sub {
+    font-size: 14px;
+    line-height: 19px;
+    color: rgba(245, 239, 226, 0.82);
+  }
+
+  .places {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: var(--space-md);
+  }
+  .place {
+    display: flex;
+    align-items: flex-end;
+    min-height: 132px;
+    padding: 18px;
+    font-family: var(--font-title);
+    font-size: 22px;
+    line-height: 26px;
+    background: linear-gradient(180deg, color-mix(in srgb, var(--from) 92%, #fff), color-mix(in srgb, var(--from) 76%, #000));
+  }
+  @media (max-width: 760px) {
+    .places {
+      grid-template-columns: repeat(3, 1fr);
+    }
+    .places > :first-child {
+      grid-column: 1 / -1;
+    }
+    .place {
+      min-height: 104px;
+      font-size: 18px;
+    }
+  }
+
+  .pitch {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-xl) var(--space-xxl);
+    padding-top: var(--space-lg);
+    border-top: 1px solid var(--accent-subtle);
+  }
+  .pitch-text {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .pitch .lede {
+    color: var(--color-secondary);
+  }
+  .pillars {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-md);
+  }
+  .pillars p {
+    margin-top: 4px;
+    color: var(--color-secondary);
+  }
+  @media (max-width: 760px) {
+    .pitch {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .closing {
+    display: flex;
+    justify-content: center;
+    padding-top: var(--space-md);
+  }
+  .aspiratio {
+    text-align: center;
+    font-size: 17px;
+    color: var(--color-secondary);
+    opacity: 0.75;
+    margin-top: calc(-1 * var(--space-md));
+  }
+</style>

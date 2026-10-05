@@ -1,0 +1,77 @@
+---
+// Line icons from lucide, the family the app draws with (lucide-react-native).
+import { readFileSync } from 'node:fs'
+import { createRequire } from 'node:module'
+import { dirname, join } from 'node:path'
+
+interface Props {
+  /** A lucide icon name, or one of the corpus' practice icon keys. */
+  name?: string
+  class?: string
+  size?: number
+}
+
+// The corpus names a practice's icon by what it shows; the app paints most of
+// them in watercolor. In line, each maps to the nearest lucide glyph.
+const practiceIcons: Record<string, string> = {
+  rosary: 'flower-2',
+  mary: 'flower-2',
+  cross: 'cross',
+  mass: 'church',
+  eucharist: 'wheat',
+  monstrance: 'sun',
+  'sacred-heart': 'heart',
+  mercy: 'droplets',
+  confession: 'hand-heart',
+  sunrise: 'sunrise',
+  prayer: 'heart-handshake',
+  bell: 'bell',
+  candle: 'flame',
+  moon: 'moon',
+  angel: 'feather',
+  scroll: 'scroll-text',
+  clock: 'clock',
+  reading: 'book-open',
+  book: 'book-open',
+}
+
+const { name, class: className, size } = Astro.props
+const iconsDir = join(
+  dirname(createRequire(import.meta.url).resolve('lucide-static/package.json')),
+  'icons',
+)
+
+const cache = ((globalThis as Record<string, unknown>).__emberIcons ??= new Map()) as Map<string, string>
+
+function inner(icon: string): string {
+  let body = cache.get(icon)
+  if (body === undefined) {
+    const svg = readFileSync(join(iconsDir, `${icon}.svg`), 'utf-8')
+    body = svg.replace(/^[\s\S]*?<svg[^>]*>/, '').replace(/<\/svg>\s*$/, '')
+    cache.set(icon, body)
+  }
+  return body
+}
+
+const icon = (name && practiceIcons[name]) ?? name ?? 'sparkles'
+let body: string
+try {
+  body = inner(icon)
+} catch {
+  body = inner('sparkles')
+}
+---
+
+<svg
+  class={className}
+  width={size}
+  height={size}
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.5"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  aria-hidden="true"
+  set:html={body}
+/>

@@ -1,0 +1,58 @@
+---
+import type { SaintEntry } from '@/features/saints/data/saintsCatalog'
+import type { Locale } from '~/lib/locale'
+import { href } from '~/routes'
+
+interface Props {
+  saint: SaintEntry
+  locale: Locale
+  width?: number
+}
+
+const { saint, locale, width } = Astro.props
+---
+
+<a class="saint-card" href={href.saint(locale, saint.id)} style={width ? `width:${width}px` : undefined}>
+  <img src={saint.cardThumb.uri as string} alt="" width="384" height="576" loading="lazy" decoding="async" />
+  <span class="saint-name">{saint.name}</span>
+  {saint.feastLabel && <span class="saint-feast">{saint.feastLabel}</span>}
+</a>
+
+<style is:global>
+  .saint-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    text-align: center;
+  }
+  .saint-card img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 1.5px solid var(--accent);
+    background: var(--background-surface);
+    box-shadow: 0 5px 9px rgba(0, 0, 0, 0.2);
+    transition: transform 0.25s ease;
+  }
+  .saint-card:hover img {
+    transform: translateY(-3px);
+  }
+  .saint-name {
+    margin-top: 8px;
+    font-family: var(--font-heading);
+    font-size: 13px;
+    line-height: 17px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .saint-feast {
+    font-size: 13px;
+    line-height: 17px;
+    color: var(--color-secondary);
+  }
+</style>

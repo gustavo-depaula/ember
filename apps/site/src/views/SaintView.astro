@@ -1,0 +1,272 @@
+---
+import SaintCard from '~/components/SaintCard.astro'
+import Shelf from '~/components/Shelf.astro'
+import Base from '~/layouts/Base.astro'
+import { plainExcerpt } from '~/lib/html'
+import { type Locale, translator } from '~/lib/locale'
+import { loadSaintPage } from '~/lib/saints'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  id: string
+}
+
+const { locale, alternates, id } = Astro.props
+const t = translator(locale)
+const pt = locale === 'pt-BR'
+const page = await loadSaintPage(id, locale)
+if (!page) throw new Error(`No holy card ${id}`)
+const { saint } = page
+
+const lifeTitle = t(`saints.page.${page.life ? (saint.several ? 'lives' : 'life') : 'about'}`)
+const chapters = [
+  (page.life || saint.reflection) && { key: 'life', title: lifeTitle },
+  page.pray.length > 0 && { key: 'prayers', title: t('saints.page.prayers') },
+  (page.read.length > 0 || page.collections.length > 0) && { key: 'reading', title: t('saints.page.reading') },
+  page.collect && { key: 'feast', title: t('saints.page.feast') },
+  page.related.length > 0 && { key: 'cards', title: t('saints.page.cards') },
+].filter(Boolean) as { key: string; title: string }[]
+const numerals = ['I', 'II', 'III', 'IV', 'V', 'VI']
+const numeral = (key: string) => numerals[chapters.findIndex((c) => c.key === key)]
+
+const lifeText = page.life?.opening.replace(/<[^>]+>/g, ' ')
+const description = plainExcerpt(
+  [saint.feastLabel && `${saint.name}, ${saint.feastLabel}.`, saint.patronOf && `${saint.patronOf}.`, lifeText ?? saint.reflection]
+    .filter(Boolean)
+    .join(' '),
+)
+const image = saint.cardImage.uri as string
+---
+
+<Base
+  locale={locale}
+  title={saint.feastLabel ? `${saint.name} — ${saint.feastLabel}` : saint.name}
+  description={description}
+  alternates={alternates}
+  section="saints"
+  ogType="article"
+  image={image}
+  jsonLd={{
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: saint.name,
+    description,
+    image: new URL(image, Astro.site).href,
+    inLanguage: locale,
+    about: { '@type': 'Person', name: saint.name },
+  }}
+>
+  <header class="stage">
+    <img class="card" src={image} alt={saint.name} width="1024" height="1536" />
+    <h1>{saint.name}</h1>
+    {saint.feastLabel && <p class="feast">{saint.feastLabel}</p>}
+    {saint.patronOf && <p class="patron">{saint.patronOf}</p>}
+  </header>
+
+  <article class="column stack-xl body">
+    {saint.prayerExcerpt && (
+      <blockquote class="excerpt">
+        <span class="gold" aria-hidden="true">✠</span>
+        <p>{saint.prayerExcerpt}</p>
+      </blockquote>
+    )}
+
+    {chapters.length > 1 && (
+      <nav aria-label={saint.name}>
+        <ol class="contents">
+          {chapters.map((chapter, i) => (
+            <li>
+              <a href={`#${chapter.key}`}>
+                <span class="num">{numerals[i]}</span>
+                <span>{chapter.title}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )}
+
+    {(page.life || saint.reflection) && (
+      <section id="life" class="stack-md">
+        <header class="chapter-head"><span class="num">{numeral('life')}</span><h2>{lifeTitle}</h2></header>
+        {page.life && (
+          <div class="book-body">
+            <Fragment set:html={page.life.opening} />
+            {page.life.rest && <Fragment set:html={page.life.rest} />}
+          </div>
+        )}
+        {saint.reflection && (
+          <aside class="reflection">
+            <p class="t-kicker">{pt ? 'Reflexão' : 'Reflection'}</p>
+            <p>{saint.reflection}</p>
+          </aside>
+        )}
+        {page.life && (
+          <p class="t-annotation">
+            {t('saints.page.source', { book: pt ? 'Vidas Ilustradas dos Santos' : 'Pictorial Lives of the Saints' })}
+          </p>
+        )}
+      </section>
+    )}
+
+    {page.pray.length > 0 && (
+      <section id="prayers" class="stack-md">
+        <header class="chapter-head"><span class="num">{numeral('prayers')}</span><h2>{t('saints.page.prayers')}</h2></header>
+        {page.pray.map((group) => <Shelf title={group.title} tiles={group.tiles} locale={locale} width={140} />)}
+      </section>
+    )}
+
+    {(page.read.length > 0 || page.collections.length > 0) && (
+      <section id="reading" class="stack-md">
+        <header class="chapter-head"><span class="num">{numeral('reading')}</span><h2>{t('saints.page.reading')}</h2></header>
+        {page.read.map((group) => <Shelf title={group.title} tiles={group.tiles} locale={locale} width={140} />)}
+        {page.collections.length > 0 && <Shelf title={t('saints.page.collections')} tiles={page.collections} locale={locale} width={140} />}
+      </section>
+    )}
+
+    {page.collect && (
+      <section id="feast" class="stack-md feast-band">
+        <header class="chapter-head"><span class="num">{numeral('feast')}</span><h2>{t('saints.page.feast')}</h2></header>
+        {page.collect.title && <p class="t-label">{page.collect.title}</p>}
+        {page.collect.about && <p>{page.collect.about}</p>}
+        <div class="lines">{page.collect.lines.map((line) => <p>{line}</p>)}</div>
+      </section>
+    )}
+
+    {page.related.length > 0 && (
+      <section id="cards" class="stack-md">
+        <header class="chapter-head"><span class="num">{numeral('cards')}</span><h2>{t('saints.page.cards')}</h2></header>
+        <div class="shelf">
+          {page.related.map((other) => <SaintCard saint={other} locale={locale} width={118} />)}
+        </div>
+      </section>
+    )}
+
+    <p class="center"><a class="go" href={href.section(locale, 'saints')}>← {t('saints.title')}</a></p>
+  </article>
+</Base>
+
+<style>
+  /* The one sanctioned radial in the design: the card's candlelit stage. */
+  .stage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 36px var(--gutter) 40px;
+    background: radial-gradient(110% 65% at 50% 30%, #3a2c1e, #17120e);
+    color: #f5eee1;
+    text-align: center;
+  }
+  .card {
+    width: min(74vw, 300px);
+    height: auto;
+    border-radius: 12px;
+    border: 2px solid #c9a84c;
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.55);
+  }
+  .stage h1 {
+    margin-top: 24px;
+    font-family: var(--font-title);
+    font-weight: 400;
+    font-size: clamp(28px, 5vw, 38px);
+    line-height: 1.2;
+    text-wrap: balance;
+  }
+  .feast {
+    margin-top: 6px;
+    font-family: var(--font-heading);
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #dacab2;
+  }
+  .patron {
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 25px;
+    color: #dacab2;
+    max-width: 26em;
+  }
+  .body {
+    padding-top: var(--space-xl);
+  }
+  .excerpt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    text-align: center;
+    font-style: italic;
+    font-size: 22px;
+    line-height: 31px;
+  }
+  .contents {
+    border-block: 1px solid var(--color);
+  }
+  .contents li + li {
+    border-top: 0.5px solid var(--hairline);
+  }
+  .contents a {
+    display: flex;
+    align-items: baseline;
+    min-height: 48px;
+    padding-block: 11px;
+    font-size: 20px;
+  }
+  .contents a:hover {
+    color: var(--gold-ink);
+  }
+  .num {
+    flex: none;
+    width: 34px;
+    font-family: var(--font-heading);
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: var(--color-burgundy);
+  }
+  section {
+    scroll-margin-top: 88px;
+  }
+  .chapter-head {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .chapter-head .num {
+    width: auto;
+    font-size: 14px;
+    letter-spacing: 3px;
+    color: var(--gold-ink);
+  }
+  .chapter-head h2 {
+    font-family: var(--font-title);
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .reflection {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-left: var(--space-md);
+    border-left: 3px solid var(--accent-subtle);
+    font-style: italic;
+    font-size: 20px;
+    line-height: 29px;
+    color: var(--color-secondary);
+  }
+  .reflection .t-kicker {
+    font-style: normal;
+  }
+  .feast-band {
+    padding: var(--space-lg);
+    margin-inline: calc(-1 * var(--space-lg));
+    background: var(--background-surface);
+    border-radius: var(--radius-md);
+    font-size: var(--reading-size);
+    line-height: var(--reading-leading);
+  }
+</style>

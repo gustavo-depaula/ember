@@ -1,0 +1,50 @@
+---
+import PageFlourish from '~/components/PageFlourish.astro'
+import Base from '~/layouts/Base.astro'
+import { type Locale, translator } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const t = translator(locale)
+const s = siteStrings(locale)
+const pt = locale === 'pt-BR'
+const labels = {
+  practice: t('search.prayers'),
+  saint: t('saints.title'),
+  collection: t('search.sectionCollections'),
+  book: t('search.books'),
+  bible: s('navBible'),
+  reading: pt ? 'Leituras' : 'Readings',
+}
+const placeholder = pt ? 'Busque orações, santos, livros…' : 'Search prayers, saints, books…'
+---
+
+<Base locale={locale} title={s('search')} alternates={alternates} section="search" noindex>
+  <PageFlourish art="search" />
+  <div class="column" data-search data-index={`/search-index/${locale}.json`} data-labels={JSON.stringify(labels)}>
+    <header class="page-head">
+      <h1 class="t-screen">{s('search')}</h1>
+    </header>
+    <label class="search-field">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+      <input type="search" placeholder={placeholder} aria-label={placeholder} autocomplete="off" autocapitalize="off" spellcheck="false" />
+    </label>
+    <p class="t-caption" data-status hidden style="padding-top:24px">{pt ? 'Nada encontrado.' : 'Nothing found.'}</p>
+    <div class="stack results" data-results></div>
+  </div>
+</Base>
+
+<style>
+  .results {
+    padding-top: var(--space-lg);
+  }
+</style>
+
+<script>
+  import '~/scripts/search'
+</script>

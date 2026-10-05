@@ -1,0 +1,106 @@
+---
+import ReaderTools from '~/components/ReaderTools.astro'
+import TocList from '~/components/TocList.astro'
+import Base from '~/layouts/Base.astro'
+import { loadChapterPage } from '~/lib/books'
+import { plainExcerpt } from '~/lib/html'
+import { htmlLang, type Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  id: string
+  nodeId: string
+}
+
+const { locale, alternates, id, nodeId } = Astro.props
+const s = siteStrings(locale)
+const page = await loadChapterPage(id, nodeId, locale)
+if (!page) throw new Error(`No chapter ${id}#${nodeId}`)
+
+const text = page.html?.replace(/<[^>]+>/g, ' ') ?? ''
+const description = plainExcerpt(text.replace(page.title, '')) || `${page.title} — ${page.bookTitle}`
+const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
+---
+
+<Base
+  locale={locale}
+  title={`${page.title} — ${page.bookTitle}`}
+  description={description}
+  alternates={alternates}
+  section="books"
+  ogType="article"
+  jsonLd={{
+    '@context': 'https://schema.org',
+    '@type': 'Chapter',
+    name: page.title,
+    inLanguage: page.lang,
+    isAccessibleForFree: true,
+    isPartOf: { '@type': 'Book', name: page.bookTitle, author: page.author && { '@type': 'Person', name: page.author } },
+    position: page.position ? page.position.index + 1 : undefined,
+  }}
+>
+  <article class="column chapter">
+    <nav aria-label={page.bookTitle}>
+      <ol class="crumbs">
+        {page.trail.map((crumb) => <li>{crumb.href ? <a href={crumb.href}>{crumb.title}</a> : crumb.title}</li>)}
+      </ol>
+    </nav>
+
+    {
+      page.html ? (
+        <>
+          <ReaderTools locale={locale} />
+          <div class="book-body" lang={bodyLang} set:html={page.html} />
+          {page.position && (
+            <p class="t-annotation center">
+              {locale === 'pt-BR'
+                ? `Capítulo ${page.position.index + 1} de ${page.position.total}`
+                : `Chapter ${page.position.index + 1} of ${page.position.total}`}
+            </p>
+          )}
+        </>
+      ) : (
+        <>
+          <h1 class="t-sacred center part-title">{page.title}</h1>
+          <nav class="toc" aria-label={s('contents')} lang={bodyLang}>
+            <TocList items={page.toc} locale={locale} open={page.toc.length <= 12} />
+          </nav>
+        </>
+      )
+    }
+
+    {
+      (page.previous || page.next) && (
+        <nav class="pager" aria-label={s('contents')}>
+          {page.previous && (
+            <a class="prev" href={page.previous.href} rel="prev">
+              <span class="t-kicker">← {s('previous')}</span>
+              <span class="pager-title">{page.previous.title}</span>
+            </a>
+          )}
+          {page.next && (
+            <a class="next" href={page.next.href} rel="next">
+              <span class="t-kicker">{s('next')} →</span>
+              <span class="pager-title">{page.next.title}</span>
+            </a>
+          )}
+        </nav>
+      )
+    }
+  </article>
+</Base>
+
+<style>
+  .chapter {
+    padding-top: var(--space-lg);
+  }
+  .chapter :global(.reader-tools) {
+    padding-top: var(--space-sm);
+    padding-bottom: var(--space-lg);
+  }
+  .part-title {
+    padding-block: var(--space-xl) var(--space-lg);
+  }
+</style>

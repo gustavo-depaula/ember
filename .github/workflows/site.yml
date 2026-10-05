@@ -1,0 +1,55 @@
+name: Website
+
+# The site imports the app's content layer and the shared packages, so a change
+# to any of them can break it: this builds and tests it on all three.
+on:
+  pull_request:
+    paths:
+      - 'apps/site/**'
+      - 'apps/app/src/**'
+      - 'packages/**'
+      - 'content/**'
+      - 'scripts/build-corpus.py'
+      - '.github/workflows/site.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: site-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Build the corpus
+        run: |
+          sudo apt-get update && sudo apt-get install -y webp
+          pip install snowballstemmer pillow
+          scripts/convert-webp.sh
+          pnpm build:corpus
+
+      - name: Test
+        run: pnpm --filter @ember/site run test
+
+      # Every page type, with three books standing in for the library: the
+      # full library is some forty thousand pages and is built on deploy.
+      - name: Build
+        run: pnpm --filter @ember/site run build
+        env:
+          EMBER_SITE_BOOKS: kempis-imitation-of-christ,morrow-my-catholic-faith,pictorial-lives-of-saints
+
+      - name: Check links
+        run: pnpm --filter @ember/site run check:links

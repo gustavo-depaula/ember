@@ -1,0 +1,127 @@
+---
+import Celebrations from '~/components/Celebrations.astro'
+import DayNav from '~/components/DayNav.astro'
+import Primitives from '~/components/Primitives.astro'
+import ReaderTools from '~/components/ReaderTools.astro'
+import Base from '~/layouts/Base.astro'
+import { bibleRefFor } from '~/lib/citations'
+import { longDate } from '~/lib/dates'
+import { loadOfDay, loadOfMass } from '~/lib/liturgy'
+import { type Locale, translator } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  date: Date
+  /** The undated page: today's Mass. */
+  isToday?: boolean
+}
+
+const { locale, alternates, date, isToday } = Astro.props
+const t = translator(locale)
+const s = siteStrings(locale)
+const pt = locale === 'pt-BR'
+const day = await loadOfDay(date, locale)
+const mass = await loadOfMass(date, locale)
+
+const slotLabel = pt
+  ? { first: 'Primeira leitura', psalm: 'Salmo responsorial', second: 'Segunda leitura', gospel: 'Evangelho' }
+  : { first: 'First reading', psalm: 'Responsorial psalm', second: 'Second reading', gospel: 'Gospel' }
+const principal = day.celebrations[0]
+const heading = pt ? 'Santa Missa' : 'Holy Mass'
+const title = `${pt ? 'Missa do dia' : 'Mass of the day'}: ${principal?.title ?? day.dayName} — ${longDate(date, locale)}`
+const citations = day.readings.map((r) => r.citation).join('; ')
+const description = pt
+  ? `${longDate(date, locale)}: ${principal?.title ?? day.dayName}. Leituras da Missa: ${citations}.`
+  : `${longDate(date, locale)}: ${principal?.title ?? day.dayName}. Mass readings: ${citations}.`
+---
+
+<Base locale={locale} title={title} description={description} alternates={alternates} section="mass" ogType="article">
+  <article class="column">
+    <header class="title-page">
+      <div class="cross-rule" aria-hidden="true">✠</div>
+      <h1>{heading}</h1>
+      <p class="variant">{pt ? 'Forma ordinária' : 'Ordinary Form'}</p>
+      <DayNav locale={locale} date={date} to={(d) => href.mass(locale, d)} todayBase={isToday ? href.mass(locale) : undefined} />
+    </header>
+
+    <section class="stack day">
+      <p class="t-kicker">{day.dayName} · {pt ? 'Ano' : 'Year'} {day.cycle}</p>
+      <Celebrations celebrations={day.celebrations} />
+      {day.holyDay && <p class="gold">{t('calendar.holyDay')}</p>}
+    </section>
+
+    {day.readings.length > 0 && (
+      <section class="stack-sm readings">
+        <h2 class="t-marker">{pt ? 'Liturgia da Palavra' : 'Liturgy of the Word'}</h2>
+        <ul class="rows">
+          {day.readings.map((reading) => {
+            const ref = bibleRefFor(reading.citation, locale)
+            const inner = (
+              <>
+                <span class="grow">
+                  <span class="t-kicker">{slotLabel[reading.slot]}</span>
+                  <span class="row-title" style="display:block">{reading.citation}</span>
+                </span>
+                {ref && <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>}
+              </>
+            )
+            return (
+              <li>
+                {ref ? (
+                  <a class="row" href={href.bibleChapter('en-US', ref.book, ref.chapter)} hreflang="en">{inner}</a>
+                ) : (
+                  <span class="row">{inner}</span>
+                )}
+              </li>
+            )
+          })}
+        </ul>
+        <p class="t-annotation">
+          {pt
+            ? 'As leituras abrem na Bíblia Douay-Rheims, em inglês, que numera os Salmos pela Vulgata.'
+            : 'The readings open in the Douay-Rheims Bible, which numbers the Psalms as the Vulgate does.'}
+        </p>
+      </section>
+    )}
+
+    {mass ? (
+      <>
+        <ReaderTools locale={locale} latin />
+        <div class="flow"><Primitives items={mass} locale={locale} /></div>
+      </>
+    ) : (
+      <aside class="app-only" style="margin-top:24px">
+        <span class="t-kicker">{s('inTheApp')}</span>
+        <span>
+          {pt
+            ? 'O texto completo da Missa (as orações do dia, as leituras e o Ordinário) está no aplicativo Ember, em português e latim.'
+            : 'The full text of the Mass (the prayers of the day, the readings and the Order of Mass) is in the Ember app, in English and Latin.'}
+        </span>
+      </aside>
+    )}
+
+    <nav class="also stack-sm">
+      <a class="go" href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina deste dia' : 'The Traditional Latin Mass of this day'} →</a>
+      <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino deste dia' : 'The Divine Office of this day'} →</a>
+      <a class="go" href={href.calendarDay(locale, date)}>{pt ? 'Este dia no calendário' : 'This day in the calendar'} →</a>
+    </nav>
+  </article>
+</Base>
+
+<style>
+  .day {
+    padding-top: var(--space-lg);
+  }
+  .readings {
+    padding-top: var(--space-xl);
+  }
+  .readings .t-marker {
+    padding-bottom: var(--space-sm);
+  }
+  .also {
+    padding-top: var(--space-xl);
+  }
+</style>

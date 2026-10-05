@@ -1,0 +1,65 @@
+---
+import type { RichTextLine } from '@ember/content-engine'
+import { escapeHtml } from '~/lib/html'
+
+interface Props {
+  lines: RichTextLine[]
+  lang: string
+}
+
+const { lines, lang } = Astro.props
+
+const segmentClass: Record<string, string | undefined> = {
+  rubric: 'rt-rubric',
+  response: 'rt-response',
+  signOfCross: 'rt-cross',
+  reference: 'rt-ref',
+  italic: 'rt-italic',
+  dropCap: 'rt-cap',
+}
+
+function lineHtml(line: RichTextLine): string {
+  return line
+    .map((segment) => {
+      const cls = segmentClass[segment.type]
+      const body = escapeHtml(segment.text)
+      return cls ? `<span class="${cls}">${body}</span>` : body
+    })
+    .join('')
+}
+---
+
+<div class="lines rich" lang={lang}>
+  {lines.map((line) => (line.length ? <p set:html={lineHtml(line)} /> : <p class="gap" />))}
+</div>
+
+<style is:global>
+  .rich .rt-rubric {
+    font-style: italic;
+    color: var(--color-burgundy);
+  }
+  .rich .rt-response {
+    font-weight: 700;
+    font-style: italic;
+    font-size: 1.15em;
+    line-height: 1;
+    color: var(--color-burgundy);
+  }
+  .rich .rt-cross {
+    color: var(--gold-ink);
+  }
+  .rich .rt-ref {
+    color: var(--color-secondary);
+    opacity: 0.7;
+  }
+  .rich .rt-italic {
+    font-style: italic;
+  }
+  .rich .rt-cap {
+    font-family: var(--font-heading);
+    color: var(--color-burgundy);
+  }
+  .rich p.gap {
+    height: var(--space-xs);
+  }
+</style>

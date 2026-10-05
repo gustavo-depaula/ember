@@ -6,6 +6,7 @@ on:
     paths:
       - 'content/**'
       - 'apps/hearth/**'
+      - 'apps/site/**'
       - '.github/workflows/deploy.yml'
       - 'scripts/build-creator-meta.py'
   workflow_dispatch:
@@ -103,6 +104,33 @@ jobs:
 
       - name: Build creator metadata (channel images + shorts classification)
         run: python3 scripts/build-creator-meta.py _site/hearth/v2
+
+      # The website (apps/site) is built from the corpus just assembled and
+      # published at the root, beside it. Off until the PUBLISH_SITE repository
+      # variable is 'true': it replaces what the domain's front page shows.
+      - uses: pnpm/action-setup@v4
+        if: vars.PUBLISH_SITE == 'true'
+
+      - uses: actions/setup-node@v4
+        if: vars.PUBLISH_SITE == 'true'
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Build the website
+        if: vars.PUBLISH_SITE == 'true'
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm --filter @ember/site run build
+          pnpm --filter @ember/site run check:links
+          # The developer index of the corpus moves under /hearth/; the policy
+          # the store listings link to keeps its address.
+          mv _site/index.html _site/hearth/index.html
+          cp -r apps/site/dist/. _site/
+        env:
+          NODE_OPTIONS: --max-old-space-size=8192
+          EMBER_SITE_OF_TEXTS: ${{ vars.SITE_OF_TEXTS }}
+          EMBER_SITE_CHURCHES: ${{ vars.SITE_CHURCHES }}
 
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -1,0 +1,40 @@
+---
+import type { Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+
+interface Props {
+  locale: Locale
+  /** The text has Latin to set beside it. */
+  latin?: boolean
+  minutes?: number
+}
+
+const { locale, latin, minutes } = Astro.props
+const s = siteStrings(locale)
+---
+
+<div class="reader-tools">
+  {minutes && <span class="t-kicker" style="margin-right:8px">{s('minutes', { count: minutes })}</span>}
+  {
+    latin && (
+      <button class="tool latin" type="button" data-latin-toggle aria-pressed="false" title={s('latinOn')}>
+        {s('latin')}
+      </button>
+    )
+  }
+  <button class="tool" type="button" data-size-step="-1" aria-label={`${s('textSize')} −`}>
+    <span style="font-family:var(--font-body);font-size:15px;letter-spacing:0">A</span>
+  </button>
+  <button class="tool" type="button" data-size-step="1" aria-label={`${s('textSize')} +`}>
+    <span style="font-family:var(--font-body);font-size:22px;letter-spacing:0">A</span>
+  </button>
+</div>
+
+<style>
+  .latin {
+    padding-inline: 12px;
+  }
+  .latin[aria-pressed='true'] {
+    color: var(--gold-ink);
+  }
+</style>

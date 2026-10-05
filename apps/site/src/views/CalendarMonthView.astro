@@ -1,0 +1,173 @@
+---
+import { getLiturgicalDayName, rankColors } from '@ember/liturgical'
+import Base from '~/layouts/Base.astro'
+import { calendarYears, monthName } from '~/lib/dates'
+import { efYear, loadOfMonth } from '~/lib/liturgy'
+import { type Locale, translator } from '~/lib/locale'
+import { today } from '~/lib/today'
+import { href, isoDate } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  year: number
+  month: number
+}
+
+const { locale, alternates, year, month } = Astro.props
+const t = translator(locale)
+const pt = locale === 'pt-BR'
+const days = await loadOfMonth(year, month, locale)
+const ef = await efYear(year)
+const years = calendarYears()
+const has = (y: number) => years.includes(y)
+const previous = month === 1 ? { year: year - 1, month: 12 } : { year, month: month - 1 }
+const next = month === 12 ? { year: year + 1, month: 1 } : { year, month: month + 1 }
+const lead = days[0].date.getDay()
+const letters = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'].map((d) => t(`calendar.dayLetters.${d}`))
+const label = monthName(year, month, locale)
+const dayFormat = new Intl.DateTimeFormat(locale, { weekday: 'short', day: 'numeric' })
+const named = days.filter((d) => d.principal)
+const description = pt
+  ? `Calendário litúrgico de ${label}: as solenidades, festas e memórias de cada dia, no calendário atual e no de 1962.`
+  : `The liturgical calendar for ${label}: the solemnities, feasts and memorials of each day, in the current calendar and that of 1962.`
+---
+
+<Base locale={locale} title={`${t('calendar.title')} — ${label}`} description={description} alternates={alternates} section="calendar">
+  <div class="column">
+    <header class="page-head center">
+      <h1 class="t-sacred gold" style="font-size:38px;line-height:46px">{t('calendar.title')}</h1>
+    </header>
+
+    <nav class="month-nav" aria-label={t('calendar.title')}>
+      {has(previous.year) ? <a href={href.calendarMonth(locale, previous.year, previous.month)} rel="prev" aria-label={monthName(previous.year, previous.month, locale)}>‹</a> : <span />}
+      <span class="month-label">{label}</span>
+      {has(next.year) ? <a href={href.calendarMonth(locale, next.year, next.month)} rel="next" aria-label={monthName(next.year, next.month, locale)}>›</a> : <span />}
+    </nav>
+
+    <div class="cal" role="grid" aria-label={label}>
+      {letters.map((letter) => <span class="dow" role="columnheader">{letter}</span>)}
+      {Array.from({ length: lead }, () => <span />)}
+      {days.map((d) => (
+        <a
+          class="cell"
+          role="gridcell"
+          href={href.calendarDay(locale, d.date)}
+          aria-current={isoDate(d.date) === isoDate(today) ? 'date' : undefined}
+          title={d.principal?.name}
+        >
+          <span>{d.date.getDate()}</span>
+          <i style={d.principal ? `background:${rankColors[d.principal.rank as keyof typeof rankColors]}` : undefined} class={d.principal?.rank === 'feast' ? 'ring' : ''} />
+        </a>
+      ))}
+    </div>
+
+    <ul class="rows month-list">
+      {days.map((d) => {
+        const old = ef.get(`${d.date.getMonth() + 1}-${d.date.getDate()}`)
+        const sunday = d.date.getDay() === 0
+        if (!d.principal && !old && !sunday) return undefined
+        return (
+          <li>
+            <a class="row" href={href.calendarDay(locale, d.date)}>
+              <span class="when">{dayFormat.format(d.date)}</span>
+              <span class="grow">
+                {d.principal && (
+                  <>
+                    <span class="row-title">{d.principal.name}</span>
+                    <span class="t-kicker" style="display:block">{t(`calendar.rank.${d.principal.rank}`)}</span>
+                  </>
+                )}
+                {!d.principal && sunday && <span class="row-title">{getLiturgicalDayName(d.date, 'of', { t })}</span>}
+                {old && <span class="t-annotation old" lang="la">1962 · {old.name}</span>}
+              </span>
+            </a>
+          </li>
+        )
+      })}
+    </ul>
+    <p class="t-annotation" style="padding-top:16px">
+      {named.length} {pt ? 'celebrações no calendário atual' : 'celebrations in the current calendar'}
+    </p>
+  </div>
+</Base>
+
+<style>
+  .month-nav {
+    display: grid;
+    grid-template-columns: 44px 1fr 44px;
+    align-items: center;
+    text-align: center;
+    padding-block: var(--space-sm);
+  }
+  .month-nav a {
+    height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: var(--gold-ink);
+  }
+  .month-label {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    letter-spacing: 0.5px;
+  }
+  .cal {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 4px;
+    max-width: 420px;
+    margin-inline: auto;
+    padding-block: var(--space-md) var(--space-lg);
+  }
+  .dow {
+    text-align: center;
+    font-size: 14px;
+    color: var(--color-secondary);
+  }
+  .cell {
+    height: 46px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    font-size: 17px;
+    line-height: 20px;
+    font-variant-numeric: lining-nums;
+    transition: background-color 0.2s ease;
+  }
+  .cell:hover {
+    background: var(--background-surface);
+  }
+  .cell[aria-current='date'] {
+    color: var(--gold-ink);
+    font-weight: 700;
+  }
+  .cell i {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+  }
+  .cell i.ring {
+    box-shadow: 0 0 0 1px var(--color-secondary);
+  }
+  .when {
+    flex: none;
+    width: 76px;
+    font-family: var(--font-heading);
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--color-secondary);
+  }
+  .row {
+    align-items: baseline;
+  }
+  .old {
+    display: block;
+    font-style: italic;
+  }
+</style>

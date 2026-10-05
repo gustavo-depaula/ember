@@ -1,0 +1,318 @@
+---
+import type { BilingualText } from '@ember/content-engine'
+import { parseMarkdown } from '@/components/prayer/parseMarkdown'
+import type { Primitive } from '@/content/primitives'
+import { assetUrl } from '~/lib/assets'
+import { escapeHtml, inlineHtml } from '~/lib/html'
+import type { Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+import { appOnlyMarker } from '~/platform/sourceRegistry'
+import Bilingual from './Bilingual.astro'
+import RichText from './RichText.astro'
+
+interface Props {
+  items: Primitive[]
+  locale: Locale
+}
+
+const { items, locale } = Astro.props
+const s = siteStrings(locale)
+
+const ringed = new Set(['white', 'rose', 'gold'])
+
+function centoLead(ref: BilingualText | undefined): string | undefined {
+  if (!ref?.primary) return undefined
+  return `<span class="cento-ref">${escapeHtml(ref.primary)}</span>`
+}
+
+function proseHtml(markdown: string): string {
+  return parseMarkdown(markdown)
+    .map((node) => {
+      if (node.type === 'paragraph') {
+        return `<p>${node.children.map((c) => inlineHtml(wrap(c))).join('')}</p>`
+      }
+      if (node.type === 'heading') {
+        const level = Math.min(node.level + 1, 4)
+        return `<h${level}>${inlineHtml(node.text)}</h${level}>`
+      }
+      if (node.type === 'blockquote') {
+        return `<blockquote><p>${node.children.map((c) => inlineHtml(wrap(c))).join('')}</p></blockquote>`
+      }
+      if (node.type === 'list') {
+        const tag = node.ordered ? 'ol' : 'ul'
+        const lis = node.items
+          .map((item) => `<li>${item.map((c) => inlineHtml(wrap(c))).join('')}</li>`)
+          .join('')
+        return `<${tag}>${lis}</${tag}>`
+      }
+      return `<img src="${escapeHtml(assetUrl(node.src))}" alt="${escapeHtml(node.alt)}" loading="lazy" decoding="async">`
+    })
+    .join('')
+}
+
+// parseMarkdown hands back inline nodes already split; re-mark them so one
+// inline renderer serves both paths.
+function wrap(node: { type: string; text: string }): string {
+  if (node.type === 'bold') return `**${node.text}**`
+  if (node.type === 'italic') return `*${node.text}*`
+  if (node.type === 'bolditalic') return `***${node.text}***`
+  return node.text
+}
+---
+
+{
+  items.map((p) => {
+    if (p.type === 'text') {
+      return <Bilingual text={p.text} lang={locale} markup={p.markup} italic={p.style === 'italic'} />
+    }
+    if (p.type === 'heading') {
+      const Tag = p.size === 'h2' ? 'h3' : 'h2'
+      return (
+        <>
+          <Tag class="heading">{p.text.primary}</Tag>
+          {p.note && <p class="heading-note">{p.note.primary}</p>}
+        </>
+      )
+    }
+    if (p.type === 'rubric') {
+      return <p class="rubric" set:html={inlineHtml(p.text.primary)} />
+    }
+    if (p.type === 'link') {
+      if (p.href === appOnlyMarker) {
+        return (
+          <aside class="app-only">
+            <span class="t-kicker">{s('inTheApp')}</span>
+            <span>{s('appOnlyBody')}</span>
+          </aside>
+        )
+      }
+      return (
+        <a class="out" href={p.href} target="_blank" rel="noopener">
+          {p.text.primary} →
+        </a>
+      )
+    }
+    if (p.type === 'divider') {
+      return <hr class="divider" aria-hidden="true" />
+    }
+    if (p.type === 'verses') {
+      if (p.items.length === 0) return undefined
+      const style = p.style ?? 'numbered'
+      return (
+        <div class={`verses ${style}`}>
+          {p.header?.primary && <p class="verses-head">{p.header.primary}</p>}
+          {p.items.map((item) => {
+            if (style === 'vr') {
+              const glyph = item.mark ?? (item.role === 'r' ? '℟' : item.role === 'v' ? '℣' : '')
+              return (
+                <div class={`vr-row ${item.role ?? ''}`}>
+                  {glyph && (
+                    <span class={item.mark ? 'mark word' : 'mark'} aria-hidden={item.mark ? undefined : 'true'}>
+                      {glyph}
+                    </span>
+                  )}
+                  <Bilingual text={item.text} lang={locale} markup={p.markup} />
+                </div>
+              )
+            }
+            if (style === 'cento') {
+              return <Bilingual text={item.text} lang={locale} markup={p.markup} lead={centoLead(item.ref)} />
+            }
+            return (
+              <div class="num-row">
+                {item.num !== undefined && <span class="num">{item.num}</span>}
+                <Bilingual text={item.text} lang={locale} markup={p.markup} />
+              </div>
+            )
+          })}
+        </div>
+      )
+    }
+    if (p.type === 'image') {
+      return (
+        <figure class="figure">
+          <img src={assetUrl(p.src)} alt={p.caption?.primary ?? ''} loading="lazy" decoding="async" />
+          {(p.caption || p.attribution) && (
+            <figcaption>
+              {p.caption?.primary}
+              {p.attribution && <div class="credit">{p.attribution.primary}</div>}
+            </figcaption>
+          )}
+        </figure>
+      )
+    }
+    if (p.type === 'gallery') {
+      return (
+        <div class={`gallery ${p.display}`}>
+          <div class="gallery-items">
+            {p.items.map((item, i) => (
+              <figure class="figure" style={p.weights?.[i] ? `flex:${p.weights[i]}` : undefined}>
+                <img src={assetUrl(item.src)} alt={item.alt?.primary ?? item.title?.primary ?? ''} loading="lazy" decoding="async" />
+                {(item.title || item.caption || item.attribution) && (
+                  <figcaption>
+                    {item.title && <div class="gallery-title">{item.title.primary}</div>}
+                    {item.attribution && <div class="credit">{item.attribution.primary}</div>}
+                    {item.caption?.primary}
+                  </figcaption>
+                )}
+              </figure>
+            ))}
+          </div>
+          {p.caption && <p class="t-caption center">{p.caption.primary}</p>}
+        </div>
+      )
+    }
+    if (p.type === 'holy-card') {
+      return (
+        <figure class="figure holy-card">
+          <img src={assetUrl(p.image)} alt={p.title?.primary ?? ''} loading="lazy" decoding="async" />
+          {(p.title || p.prayer) && (
+            <figcaption>
+              {p.title && <div class="gallery-title">{p.title.primary}</div>}
+              {p.prayer && <span>“{p.prayer.primary}”</span>}
+              {p.attribution && <div class="credit">{p.attribution.primary}</div>}
+            </figcaption>
+          )}
+        </figure>
+      )
+    }
+    if (p.type === 'prose') {
+      return p.text ? <div class="prose" lang={locale} set:html={proseHtml(p.text.primary)} /> : undefined
+    }
+    if (p.type === 'callout') {
+      if (p.variant === 'section-marker') {
+        return (
+          <div class={`marker ${p.color ? `lit-${p.color}` : ''}`}>
+            <span class="t-marker">{p.title?.primary}</span>
+          </div>
+        )
+      }
+      if (p.variant === 'celebration-banner') {
+        const sub = [p.rank?.primary, p.cycle?.primary].filter(Boolean).join(' · ')
+        return (
+          <div class="banner">
+            <div class="banner-title">
+              {p.color && <span class={`lit-dot lit-${p.color} ${ringed.has(p.color) ? 'ring' : ''}`} aria-hidden="true" />}
+              <span>{p.title?.primary}</span>
+            </div>
+            {sub && <div class="banner-sub">{sub}</div>}
+          </div>
+        )
+      }
+      return (
+        <div class="lit-label">
+          {p.color && <span class={`lit-dot lit-${p.color} ${ringed.has(p.color) ? 'ring' : ''}`} aria-hidden="true" />}
+          <span class="t-kicker">{p.title?.primary ?? p.body?.primary}</span>
+        </div>
+      )
+    }
+    const b = p.behavior
+    if (b.kind === 'group') {
+      return <Astro.self items={p.children ?? []} locale={locale} />
+    }
+    if (b.kind === 'color-scope') {
+      return (
+        <div class={`flow-group lit-${b.color}`}>
+          <Astro.self items={p.children ?? []} locale={locale} />
+        </div>
+      )
+    }
+    if (b.kind === 'collapsible') {
+      return (
+        <details class="section" open={b.defaultOpen}>
+          <summary>{b.title.primary}</summary>
+          <div class="details-body">
+            <Astro.self items={p.children ?? []} locale={locale} />
+          </div>
+        </details>
+      )
+    }
+    if (b.kind === 'prayer') {
+      return (
+        <details class="prayer" open={b.defaultOpen}>
+          <summary>
+            <span>{b.title.primary}</span>
+            {b.count && b.count > 1 && <span class="count">×{b.count}</span>}
+          </summary>
+          <div class="details-body">
+            {p.children?.length ? (
+              <Astro.self items={p.children} locale={locale} />
+            ) : (
+              <Bilingual text={b.text} lang={locale} />
+            )}
+          </div>
+        </details>
+      )
+    }
+    if (b.kind === 'liturgical-prayer') {
+      if (b.speaker === 'all') return <Bilingual text={b.text} lang={locale} />
+      return (
+        <div class={`vr-row ${b.speaker === 'people' ? 'r' : 'v'}`}>
+          <span class="mark" aria-hidden="true">{b.speaker === 'people' ? '℟' : '℣'}</span>
+          <Bilingual text={b.text} lang={locale} />
+        </div>
+      )
+    }
+    if (b.kind === 'select' || b.kind === 'options') {
+      const selected = (b.kind === 'select' && b.selectedId) || b.options[0]?.id
+      return (
+        <div class="flow-group choice" data-choice={b.kind === 'select' ? b.overrideKey : undefined}>
+          {b.kind === 'select' ? (
+            <div class="picker-label">{b.label.primary}</div>
+          ) : (
+            b.label.primary && <h3 class="heading">{b.label.primary}</h3>
+          )}
+          {b.options.length > 1 && (
+            <div class="picker" role="tablist">
+              {b.options.map((o) => (
+                <button type="button" role="tab" data-option={o.id} aria-selected={o.id === selected ? 'true' : 'false'}>
+                  {o.label.primary}
+                </button>
+              ))}
+            </div>
+          )}
+          {b.options.map((o) => (
+            <div class="branch" role="tabpanel" data-option={o.id} hidden={o.id !== selected}>
+              <Astro.self items={o.children} locale={locale} />
+            </div>
+          ))}
+        </div>
+      )
+    }
+    if (b.kind === 'choice-rich-text') {
+      if (b.options.length === 0) return undefined
+      const selected = b.selectedId ?? b.options[0].id
+      return (
+        <div class="flow-group choice">
+          {!b.hideLabel && b.label.primary && <h3 class="heading">{b.label.primary}</h3>}
+          {b.options.length > 1 && (
+            <div class="picker" role="tablist">
+              {b.options.map((o) => (
+                <button type="button" role="tab" data-option={o.id} aria-selected={o.id === selected ? 'true' : 'false'}>
+                  {o.label.primary}
+                </button>
+              ))}
+            </div>
+          )}
+          {b.options.map((o) => (
+            <div class="branch" role="tabpanel" data-option={o.id} hidden={o.id !== selected}>
+              {o.citation && <p class="t-kicker">{o.citation.primary}</p>}
+              {o.summary && <p class="rubric">{o.summary.primary}</p>}
+              {o.introduction && <p class="rubric">{o.introduction.primary}</p>}
+              {b.precedingResponse && (
+                <div class="vr-row r">
+                  <span class="mark" aria-hidden="true">℟</span>
+                  <div class="lines"><p>{b.precedingResponse.primary}</p></div>
+                </div>
+              )}
+              <RichText lines={o.body.primary} lang={locale} />
+              {o.conclusion && <p class="rubric">{o.conclusion.primary}</p>}
+              {o.response && <RichText lines={o.response.primary} lang={locale} />}
+            </div>
+          ))}
+        </div>
+      )
+    }
+    return undefined
+  })
+}

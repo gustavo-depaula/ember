@@ -1,0 +1,35 @@
+---
+import PageFlourish from '~/components/PageFlourish.astro'
+import Shelf from '~/components/Shelf.astro'
+import Base from '~/layouts/Base.astro'
+import { loadCollectionShelves } from '~/lib/collections'
+import { type Locale, translator } from '~/lib/locale'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const t = translator(locale)
+const shelves = await loadCollectionShelves(locale)
+const pt = locale === 'pt-BR'
+const description = pt
+  ? 'Coleções de orações e leituras por devoção, escola de espiritualidade e autor: Nossa Senhora, o Sagrado Coração, o Carmelo, os Padres da Igreja.'
+  : 'Collections of prayers and readings by devotion, school of spirituality and author: Our Lady, the Sacred Heart, Carmel, the Fathers of the Church.'
+---
+
+<Base locale={locale} title={t('search.sectionCollections')} description={description} alternates={alternates} section="collections">
+  <PageFlourish art="explore" />
+  <div class="wide">
+    <header class="page-head">
+      <h1 class="t-screen">{t('search.sectionCollections')}</h1>
+      <p class="lede">{t('search.collectionsHint')}</p>
+    </header>
+    <div class="stack">
+      {shelves.map((shelf) => (
+        <Shelf title={t(`browse.shelf.${shelf.key}`)} tiles={shelf.tiles} locale={locale} width={164} />
+      ))}
+    </div>
+  </div>
+</Base>

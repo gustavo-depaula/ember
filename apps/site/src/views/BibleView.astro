@@ -1,0 +1,82 @@
+---
+import PageFlourish from '~/components/PageFlourish.astro'
+import Base from '~/layouts/Base.astro'
+import { listBibleBooks } from '~/lib/bible'
+import type { Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const s = siteStrings(locale)
+const pt = locale === 'pt-BR'
+const books = await listBibleBooks(locale)
+const testaments = [
+  { title: pt ? 'Antigo Testamento' : 'Old Testament', books: books.filter((b) => b.testament === 'ot') },
+  { title: pt ? 'Novo Testamento' : 'New Testament', books: books.filter((b) => b.testament === 'nt') },
+]
+const description = pt
+  ? 'A Bíblia Sagrada na tradução Douay-Rheims (em inglês), os 73 livros do cânon católico, com os argumentos de cada capítulo.'
+  : 'The Holy Bible in the Douay-Rheims translation: all 73 books of the Catholic canon, with the argument of every chapter. Public domain.'
+---
+
+<Base locale={locale} title={pt ? 'Bíblia Sagrada' : 'The Holy Bible (Douay-Rheims)'} description={description} alternates={alternates} section="bible">
+  <PageFlourish art="library" />
+  <div class="wide">
+    <header class="page-head">
+      <p class="t-kicker">Douay-Rheims · Challoner</p>
+      <h1 class="t-screen">{pt ? 'Bíblia Sagrada' : 'The Holy Bible'}</h1>
+      <p class="lede">
+        {pt
+          ? 'A Douay-Rheims é a tradução católica clássica em língua inglesa, em domínio público. Os capítulos abrem em inglês; no aplicativo Ember, a Bíblia também pode ser lida em português.'
+          : 'The Douay-Rheims is the classic Catholic Bible in English, translated from the Latin Vulgate and revised by Bishop Challoner. It is in the public domain.'}
+      </p>
+    </header>
+    <div class="stack-xl">
+      {testaments.map((testament) => (
+        <section>
+          <div class="section-head" style="margin-bottom:16px"><h2 class="t-section">{testament.title}</h2></div>
+          <ul class="books">
+            {testament.books.map((book) => (
+              <li>
+                <a href={href.bibleBook('en-US', book.id)} hreflang="en">
+                  <span class="book-name">{book.title}</span>
+                  <span class="t-annotation">{book.chapters}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+  </div>
+</Base>
+
+<style>
+  .books {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 0 var(--space-xl);
+  }
+  .books a {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-sm);
+    min-height: 44px;
+    padding-block: 9px;
+    border-bottom: 0.5px solid var(--hairline);
+  }
+  .book-name {
+    font-size: 21px;
+    line-height: 26px;
+    transition: color 0.2s ease;
+  }
+  .books a:hover .book-name {
+    color: var(--gold-ink);
+  }
+</style>

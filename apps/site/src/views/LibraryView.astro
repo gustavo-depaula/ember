@@ -1,0 +1,184 @@
+---
+import { getEntry } from '@/content/contentIndex'
+import { coverFor } from '@/features/covers/coverFor'
+import { artFor } from '@/features/explore/artMap'
+import Cover from '~/components/Cover.astro'
+import PageFlourish from '~/components/PageFlourish.astro'
+import Shelf from '~/components/Shelf.astro'
+import Base from '~/layouts/Base.astro'
+import { listBooks } from '~/lib/books'
+import { entryTitle, listEntries, tileFor } from '~/lib/catalog'
+import { loadCollectionShelves } from '~/lib/collections'
+import { type Locale, translator, withLocale } from '~/lib/locale'
+import { listPrayers } from '~/lib/prayers'
+import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const t = translator(locale)
+const s = siteStrings(locale)
+const pt = locale === 'pt-BR'
+
+const [prayers, books, shelves] = await Promise.all([listPrayers(), listBooks(), loadCollectionShelves(locale)])
+const collectionCount = shelves.reduce((n, shelf) => n + shelf.tiles.length, 0)
+const paintings = (ids: string[]) => ids.map((id) => artFor(id)?.uri).filter(Boolean) as string[]
+
+// The three doors of the app's Treasury, each fanned with what stands behind it.
+const doors = withLocale(locale, () => [
+  {
+    count: prayers.length,
+    title: t('search.prayers'),
+    hint: t('search.prayersHint'),
+    to: href.section(locale, 'prayers'),
+    art: paintings(['collection/sacred-heart', 'collection/marian', 'collection/divine-mercy']),
+    covers: [],
+  },
+  {
+    count: books.length,
+    title: t('search.books'),
+    hint: t('search.booksHint'),
+    to: href.section(locale, 'books'),
+    art: [],
+    covers: ['book/kempis-imitation-of-christ', 'book/augustine-confessions', 'book/sales-introduction-to-the-devout-life'].flatMap((id) => {
+      const entry = getEntry(id)
+      const cover = entry && coverFor(entry)
+      return entry && cover ? [{ id, cover, title: entryTitle(entry) }] : []
+    }),
+  },
+  {
+    count: collectionCount,
+    title: t('search.sectionCollections'),
+    hint: t('search.collectionsHint'),
+    to: href.section(locale, 'collections'),
+    art: paintings(['collection/carmelite', 'collection/josemaria-escriva', 'collection/thomas-aquinas']),
+    covers: [],
+  },
+])
+
+const readings = withLocale(locale, () =>
+  listEntries('chapter')
+    .flatMap(([id]) => tileFor(id, locale) ?? [])
+    .sort((a, b) => a.title.localeCompare(b.title, locale)),
+)
+const featuredBooks = withLocale(locale, () =>
+  [
+    'book/kempis-imitation-of-christ',
+    'book/augustine-confessions',
+    'book/sales-introduction-to-the-devout-life',
+    'book/montfort-true-devotion',
+    'book/trent-catechism',
+    'book/pius-x-catechism',
+    'book/morrow-my-catholic-faith',
+    'book/butler-lives-of-saints',
+    'book/aquinas-summa-theologica-new-advent',
+    'book/liguori-glorie-di-maria',
+    'book/gabriel-stmm-intimita-divina',
+    'book/catholic-encyclopedia',
+  ].flatMap((id) => tileFor(id, locale) ?? []),
+)
+const description = pt
+  ? 'A biblioteca do Ember: orações, livros e coleções da tradição católica, em formatos abertos e de leitura gratuita.'
+  : 'The Ember library: prayers, books and collections of the Catholic tradition, in open formats and free to read.'
+---
+
+<Base locale={locale} title={s('navLibrary')} description={description} alternates={alternates} section="library">
+  <PageFlourish art="library" />
+  <div class="wide stack-xl">
+    <header class="page-head" style="padding-bottom:0">
+      <h1 class="t-screen">{s('navLibrary')}</h1>
+    </header>
+
+    <section>
+      <div class="row-head"><h2>{t('search.acervo')}</h2></div>
+      <div class="doors">
+        {doors.map((door) => (
+          <a class="door" href={door.to}>
+            <span class="door-text">
+              <span class="door-count">{door.count}</span>
+              <span class="t-label">{door.title}</span>
+              <span class="t-caption">{door.hint}</span>
+            </span>
+            <span class="fan" aria-hidden="true">
+              {door.art.map((src) => <img src={src} alt="" loading="lazy" decoding="async" />)}
+              {door.covers.map((c) => <span class="fan-cover"><Cover cover={c.cover} id={c.id} title={c.title} locale={locale} /></span>)}
+            </span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    {shelves.slice(0, 2).map((shelf) => (
+      <Shelf title={t(`browse.shelf.${shelf.key}`)} tiles={shelf.tiles} locale={locale} more={href.section(locale, 'collections')} width={164} />
+    ))}
+    <Shelf title={t('search.books')} tiles={featuredBooks} locale={locale} more={href.section(locale, 'books')} width={160} />
+    <Shelf title={pt ? 'Leituras de formação' : 'Formation readings'} tiles={readings} locale={locale} width={150} />
+    {shelves.slice(2).map((shelf) => (
+      <Shelf title={t(`browse.shelf.${shelf.key}`)} tiles={shelf.tiles} locale={locale} more={href.section(locale, 'collections')} width={164} />
+    ))}
+  </div>
+</Base>
+
+<style>
+  .doors {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: var(--space-md);
+  }
+  .door {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 140px;
+    padding-left: 28px;
+    border-radius: var(--radius-xl);
+    background: var(--background-surface);
+    overflow: hidden;
+    transition: transform 0.25s ease;
+  }
+  .door:hover {
+    transform: translateY(-3px);
+  }
+  .door-text {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    max-width: calc(100% - 170px);
+  }
+  .door-count {
+    font-family: var(--font-title);
+    font-style: italic;
+    font-size: 40px;
+    line-height: 48px;
+    color: var(--gold-ink);
+    font-variant-numeric: lining-nums;
+  }
+  .fan {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 170px;
+    height: 100%;
+  }
+  .fan img,
+  .fan-cover {
+    position: absolute;
+    width: 74px;
+    height: 96px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+  }
+  .fan-cover {
+    width: 66px;
+    height: auto;
+    box-shadow: none;
+  }
+  .fan > :nth-child(1) { left: 6px; top: 30px; transform: rotate(-9deg); }
+  .fan > :nth-child(2) { left: 46px; top: 20px; transform: rotate(-1deg); }
+  .fan > :nth-child(3) { left: 88px; top: 28px; transform: rotate(8deg); }
+</style>

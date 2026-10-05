@@ -1,0 +1,31 @@
+---
+import type { BilingualText } from '@ember/content-engine'
+import { linesHtml } from '~/lib/html'
+
+interface Props {
+  text: BilingualText
+  lang: string
+  markup?: 'do'
+  italic?: boolean
+  /** HTML set before the first line, inside its paragraph (a cento citation). */
+  lead?: string
+}
+
+const { text, lang, markup, italic, lead } = Astro.props
+const cls = italic ? 'lines italic' : 'lines'
+
+function withLead(html: string): string {
+  return lead ? html.replace('<p>', `<p>${lead}`) : html
+}
+---
+
+{
+  text.secondary ? (
+    <div class="bi">
+      <div class={cls} lang={lang} set:html={withLead(linesHtml(text.primary, markup))} />
+      <div class={`${cls} bi-b`} lang="la" set:html={linesHtml(text.secondary, markup)} />
+    </div>
+  ) : (
+    <div class={cls} lang={lang} set:html={withLead(linesHtml(text.primary, markup))} />
+  )
+}

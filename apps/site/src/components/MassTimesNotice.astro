@@ -1,0 +1,83 @@
+---
+// The parish-noticeboard card the app's Search tab opens Mass Times with:
+// a cream sheet in a double rubric frame, with a church drawn in line.
+import { type Locale, translator } from '~/lib/locale'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+}
+
+const { locale } = Astro.props
+const t = translator(locale)
+const [first, second] = t('massTimes.cardTitle').split('\n')
+---
+
+<a class="notice" href={href.section(locale, 'massTimes')}>
+  <svg viewBox="0 0 48 48" aria-hidden="true">
+    <path d="M24 1.5v5M22 3.5h4M17 44V20l7-13.5L31 20v24M17 28l-8 4v12M31 28l8 4v12M21 44v-7q0-4 3-6q3 2 3 6v7M24 20a3 3 0 1 0 0 6a3 3 0 1 0 0-6M13 44v-6M35 44v-6M5 44h38" />
+  </svg>
+  <span class="notice-text">
+    <span class="notice-title">{first}<br />{second}</span>
+    <span class="notice-sub">{t('massTimes.exploreTagline')}</span>
+  </span>
+</a>
+
+<style>
+  .notice {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    min-height: 132px;
+    padding: 20px 28px;
+    border-radius: 3px;
+    background: linear-gradient(180deg, #fbf5e8, #e6d8bc);
+    color: #2a1f16;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.16);
+    outline: 1px solid rgba(155, 34, 38, 0.55);
+    outline-offset: -8px;
+    transition: transform 0.25s ease;
+  }
+  .notice::after {
+    content: '';
+    position: absolute;
+    inset: 11px;
+    border: 0.5px solid rgba(155, 34, 38, 0.28);
+    pointer-events: none;
+  }
+  .notice:hover {
+    transform: translateY(-3px);
+  }
+  svg {
+    position: absolute;
+    left: 24px;
+    top: 50%;
+    width: 84px;
+    height: 84px;
+    transform: translateY(-50%);
+    fill: none;
+    stroke: #9b2226;
+    stroke-width: 1;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    opacity: 0.3;
+  }
+  .notice-text {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    text-align: right;
+  }
+  .notice-title {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+  }
+  .notice-sub {
+    font-style: italic;
+    font-size: 15px;
+    line-height: 20px;
+    color: #9b2226;
+  }
+</style>

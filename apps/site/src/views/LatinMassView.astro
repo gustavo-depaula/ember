@@ -1,0 +1,77 @@
+---
+import DayNav from '~/components/DayNav.astro'
+import Primitives from '~/components/Primitives.astro'
+import ReaderTools from '~/components/ReaderTools.astro'
+import Base from '~/layouts/Base.astro'
+import { longDate } from '~/lib/dates'
+import { loadEfDay, loadEfMass } from '~/lib/liturgy'
+import { type Locale, translator } from '~/lib/locale'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  date: Date
+  isToday?: boolean
+}
+
+const { locale, alternates, date, isToday } = Astro.props
+const t = translator(locale)
+const pt = locale === 'pt-BR'
+const day = await loadEfDay(date, locale)
+const mass = await loadEfMass(date, locale)
+const heading = pt ? 'Santa Missa' : 'Holy Mass'
+const title = `${pt ? 'Missa tridentina' : 'Traditional Latin Mass'}: ${day.name} — ${longDate(date, locale)}`
+const description = pt
+  ? `${longDate(date, locale)}: ${day.name} (${day.rankText}). O próprio e o Ordinário da Missa no Missal de 1962, em latim e português, lado a lado.`
+  : `${longDate(date, locale)}: ${day.name} (${day.rankText}). The propers and the Ordinary of the Mass in the 1962 Missal, Latin and English side by side.`
+---
+
+<Base locale={locale} title={title} description={description} alternates={alternates} section="latinMass" ogType="article">
+  <article class="column">
+    <header class="title-page">
+      <div class="cross-rule" aria-hidden="true">✠</div>
+      <h1>{heading}</h1>
+      <p class="variant">{pt ? 'Forma extraordinária · Missal de 1962' : 'Extraordinary Form · 1962 Missal'}</p>
+      <DayNav locale={locale} date={date} to={(d) => href.latinMass(locale, d)} todayBase={isToday ? href.latinMass(locale) : undefined} />
+    </header>
+
+    <section class="stack-sm day">
+      <p class="t-kicker">{day.dayName}</p>
+      <p class="feast" lang="la">{day.name}</p>
+      <p class="t-kicker" lang="la">{day.rankText}</p>
+      {day.commemoration && <p class="t-caption" lang="la">{day.commemoration}</p>}
+      {day.holyDay && <p class="gold">{t('calendar.holyDay')}</p>}
+    </section>
+
+    <ReaderTools locale={locale} latin />
+    <div class="flow"><Primitives items={mass} locale={locale} /></div>
+
+    <nav class="stack-sm also">
+      <a class="go" href={href.mass(locale, date)}>{pt ? 'Missa do dia na forma ordinária' : 'The Mass of this day in the Ordinary Form'} →</a>
+      <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino deste dia' : 'The Divine Office of this day'} →</a>
+    </nav>
+    <p class="t-annotation credit">
+      {pt ? 'Textos do projeto Divinum Officium.' : 'Texts from the Divinum Officium project.'}
+    </p>
+  </article>
+</Base>
+
+<style>
+  .day {
+    padding-top: var(--space-lg);
+  }
+  .feast {
+    font-family: var(--font-title);
+    font-size: 30px;
+    line-height: 37px;
+    color: var(--color-burgundy);
+    text-wrap: balance;
+  }
+  .also {
+    padding-top: var(--space-lg);
+  }
+  .credit {
+    padding-top: var(--space-md);
+  }
+</style>

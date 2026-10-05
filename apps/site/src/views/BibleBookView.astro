@@ -1,0 +1,78 @@
+---
+import Base from '~/layouts/Base.astro'
+import { chapterSummaries, listBibleBooks } from '~/lib/bible'
+import { plainExcerpt } from '~/lib/html'
+import type { Locale } from '~/lib/locale'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  book: string
+}
+
+const { locale, alternates, book: slug } = Astro.props
+const books = await listBibleBooks(locale)
+const book = books.find((b) => b.id === slug)
+if (!book) throw new Error(`No Bible book ${slug}`)
+const summaries = await chapterSummaries(slug)
+const chapters = Array.from({ length: book.chapters }, (_, i) => i + 1)
+const description = plainExcerpt(
+  book.intro ?? `${book.title}, in the Douay-Rheims Bible: ${book.chapters} chapters, with the argument of each.`,
+)
+---
+
+<Base locale={locale} title={`${book.title} — Douay-Rheims Bible`} description={description} alternates={alternates} section="bible"
+  jsonLd={{ '@context': 'https://schema.org', '@type': 'Book', name: book.title, isPartOf: { '@type': 'Book', name: 'Douay-Rheims Bible' }, inLanguage: 'en', isAccessibleForFree: true }}>
+  <div class="column">
+    <header class="title-page">
+      <div class="cross-rule" aria-hidden="true">✠</div>
+      <p class="t-kicker" style="padding-top:24px"><a href={href.section(locale, 'bible')}>Douay-Rheims Bible</a></p>
+      <h1 style="padding-top:8px">{book.title}</h1>
+      {book.douayName && <p class="date" style="text-transform:none">{book.douayName} in the Douay-Rheims</p>}
+    </header>
+    {book.intro && <p class="intro">{book.intro}</p>}
+    <ol class="rows chapters">
+      {chapters.map((n) => (
+        <li>
+          <a class="row" href={href.bibleChapter(locale, slug, n)}>
+            <span class="n">{n}</span>
+            <span class="grow">
+              <span class="row-title">{book.id === 'psalms' ? `Psalm ${n}` : `Chapter ${n}`}</span>
+              {summaries[String(n)] && <span class="t-annotation sum">{summaries[String(n)]}</span>}
+            </span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </div>
+</Base>
+
+<style>
+  .intro {
+    padding-block: var(--space-lg);
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    hyphens: auto;
+    color: var(--color-secondary);
+  }
+  .chapters {
+    padding-top: var(--space-md);
+  }
+  .n {
+    flex: none;
+    width: 44px;
+    font-family: var(--font-heading);
+    font-size: 24px;
+    line-height: 30px;
+    color: var(--gold-ink);
+    font-variant-numeric: lining-nums;
+  }
+  .row {
+    align-items: flex-start;
+  }
+  .sum {
+    display: block;
+  }
+</style>

@@ -1,0 +1,134 @@
+---
+import PageFlourish from '~/components/PageFlourish.astro'
+import Base from '~/layouts/Base.astro'
+import { type Locale, translator } from '~/lib/locale'
+import { listPlans, loadPlan } from '~/lib/plans'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  /** A single tradition's page; omitted for the list. */
+  id?: string
+}
+
+const { locale, alternates, id } = Astro.props
+const t = translator(locale)
+const pt = locale === 'pt-BR'
+const plans = id ? [] : await listPlans(locale)
+const plan = id ? await loadPlan(id, locale) : undefined
+if (id && !plan) throw new Error(`No plan ${id}`)
+const listTitle = pt ? 'Planos de vida' : 'Plans of life'
+const listDescription = pt
+  ? 'Regras de vida das grandes escolas de espiritualidade católica: carmelita, inaciana, salesiana, beneditina, a Pequena Via e outras, prática por prática.'
+  : 'Rules of life from the great schools of Catholic spirituality: Carmelite, Ignatian, Salesian, Benedictine, the Little Way and others, practice by practice.'
+---
+
+<Base
+  locale={locale}
+  title={plan ? `${plan.title} — ${pt ? 'plano de vida' : 'plan of life'}` : listTitle}
+  description={plan ? plan.description : listDescription}
+  alternates={alternates}
+  section="plans"
+  image={plan?.art}
+>
+  {
+    plan ? (
+      <article class="column">
+        <header class="title-page">
+          <div class="cross-rule" aria-hidden="true">✠</div>
+          <p class="t-kicker" style="padding-top:28px"><a href={href.section(locale, 'plans')}>{listTitle}</a></p>
+          <h1 style="padding-top:6px">{plan.title}</h1>
+          <p class="date" style="text-transform:none">{plan.description}</p>
+        </header>
+        <div class="stack body">
+          <div class="prose" set:html={plan.manifesto} />
+          {plan.attribution && <p class="t-caption">{plan.attribution}</p>}
+          <section class="stack-sm">
+            <h2 class="t-marker" style="text-align:left">{t('templates.proposedPractices')}</h2>
+            <ul class="rows">
+              {plan.practices.map((practice) => (
+                <li class="practice">
+                  <div class="practice-head">
+                    {practice.href ? <a class="row-title" href={practice.href}>{practice.title}</a> : <span class="row-title muted">{practice.title}</span>}
+                    <span class="t-kicker">{[practice.when, practice.tier].filter(Boolean).join(' · ')}</span>
+                  </div>
+                  {practice.note && <p class="t-annotation note">{practice.note}</p>}
+                </li>
+              ))}
+            </ul>
+          </section>
+          {plan.source && <div class="t-annotation prose source" set:html={plan.source} />}
+          <aside class="app-only">
+            <span class="t-kicker">{pt ? 'No aplicativo Ember' : 'In the Ember app'}</span>
+            <span>
+              {pt
+                ? 'Adote esta tradição como o seu plano de vida, prática por prática, com horários e lembretes.'
+                : 'Adopt this tradition as your own plan of life, practice by practice, with times and reminders.'}
+            </span>
+          </aside>
+        </div>
+      </article>
+    ) : (
+      <>
+        <PageFlourish art="you" />
+        <div class="column">
+          <header class="page-head">
+            <p class="t-kicker">{t('templates.subtitle')}</p>
+            <h1 class="t-screen">{listTitle}</h1>
+            <p class="lede">{listDescription}</p>
+          </header>
+          <ul class="rows">
+            {plans.map((p) => (
+              <li>
+                <a class="row" href={href.plan(locale, p.id)}>
+                  {p.art && <img class="thumb" src={p.art} alt="" loading="lazy" decoding="async" />}
+                  <span class="grow">
+                    <span class="row-title">{p.title}</span>
+                    <span class="t-annotation" style="display:block">{p.description}</span>
+                  </span>
+                  <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </>
+    )
+  }
+</Base>
+
+<style>
+  .body {
+    padding-top: var(--space-lg);
+  }
+  .practice {
+    padding-block: 12px;
+  }
+  .practice-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-md);
+  }
+  .practice-head a:hover {
+    color: var(--gold-ink);
+  }
+  .practice-head .t-kicker {
+    flex: none;
+    text-align: right;
+  }
+  .note {
+    margin-top: 4px;
+  }
+  .source {
+    font-size: 15px;
+  }
+  .thumb {
+    flex: none;
+    width: 72px;
+    height: 72px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+</style>

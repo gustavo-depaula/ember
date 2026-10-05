@@ -1,0 +1,111 @@
+---
+import Celebrations from '~/components/Celebrations.astro'
+import DayNav from '~/components/DayNav.astro'
+import SaintCard from '~/components/SaintCard.astro'
+import Base from '~/layouts/Base.astro'
+import { bibleRefFor } from '~/lib/citations'
+import { calendarYears, inLiturgyWindow, longDate, monthName } from '~/lib/dates'
+import { loadEfDay, loadOfDay } from '~/lib/liturgy'
+import { type Locale, translator } from '~/lib/locale'
+import { saintsCatalog, saintsOn } from '~/lib/saints'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  date: Date
+}
+
+const { locale, alternates, date } = Astro.props
+const t = translator(locale)
+const pt = locale === 'pt-BR'
+const [of, ef, catalog] = await Promise.all([loadOfDay(date, locale), loadEfDay(date, locale), saintsCatalog(locale)])
+const cards = saintsOn(catalog, date)
+const years = calendarYears()
+const hasDay = (d: Date) => years.includes(d.getFullYear())
+const when = longDate(date, locale)
+const principal = of.celebrations[0]
+const windowed = inLiturgyWindow(date)
+const title = `${when}: ${principal?.title ?? of.dayName}`
+const description = pt
+  ? `${when} no calendário litúrgico: ${of.celebrations.map((c) => c.title).join('; ')}. No calendário de 1962: ${ef.name}.`
+  : `${when} in the liturgical calendar: ${of.celebrations.map((c) => c.title).join('; ')}. In the 1962 calendar: ${ef.name}.`
+const details = of.obligations.details.map((d) => (d as Record<string, string | undefined>)[locale] ?? d['en-US']).filter(Boolean)
+---
+
+<Base locale={locale} title={title} description={description} alternates={alternates} section="calendar" ogType="article">
+  <article class="column">
+    <header class="title-page">
+      <div class="cross-rule" aria-hidden="true">✠</div>
+      <p class="t-kicker" style="padding-top:28px">
+        <a href={href.calendarMonth(locale, date.getFullYear(), date.getMonth() + 1)}>{monthName(date.getFullYear(), date.getMonth() + 1, locale)}</a>
+      </p>
+      <h1 style="padding-top:6px">{principal?.title ?? of.dayName}</h1>
+      <DayNav locale={locale} date={date} to={(d) => href.calendarDay(locale, d)} has={hasDay} />
+    </header>
+
+    <div class="stack-xl body">
+      <section class="stack-md">
+        <h2 class="t-marker">{pt ? 'Calendário atual' : 'Current calendar'}</h2>
+        <p class="t-kicker">{of.dayName} · {of.seasonName}</p>
+        <Celebrations celebrations={of.celebrations} />
+        {of.holyDay && <p class="gold">{t('calendar.holyDay')}</p>}
+        {details.map((detail) => <p class="t-rubric">{detail}</p>)}
+        {of.readings.length > 0 && (
+          <p class="readings">
+            <span class="t-kicker">{pt ? 'Leituras' : 'Readings'}</span>
+            {of.readings.map((reading, i) => {
+              const ref = bibleRefFor(reading.citation, locale)
+              return (
+                <>
+                  {i > 0 && ' · '}
+                  {ref ? <a class="xref" href={href.bibleChapter('en-US', ref.book, ref.chapter)}>{reading.citation}</a> : reading.citation}
+                </>
+              )
+            })}
+          </p>
+        )}
+        {windowed && <a class="go" href={href.mass(locale, date)}>{pt ? 'Missa do dia' : 'Mass of the day'} →</a>}
+      </section>
+
+      <section class="stack-md">
+        <h2 class="t-marker">{pt ? 'Calendário de 1962' : 'The 1962 calendar'}</h2>
+        <p class="t-kicker">{ef.dayName}</p>
+        <p class="ef-name" lang="la">{ef.name}</p>
+        <p class="t-kicker" lang="la">{ef.rankText}</p>
+        {ef.commemoration && <p class="t-caption" lang="la">{ef.commemoration}</p>}
+        {windowed && (
+          <div class="stack-sm">
+            <a class="go" href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina' : 'Traditional Latin Mass'} →</a>
+            <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino' : 'Divine Office'} →</a>
+          </div>
+        )}
+      </section>
+
+      {cards.length > 0 && (
+        <section class="stack-md">
+          <h2 class="t-marker">{pt ? 'Santinhos do dia' : 'Holy cards of the day'}</h2>
+          <div class="shelf" style="justify-content:safe center">
+            {cards.map((saint) => <SaintCard saint={saint} locale={locale} width={132} />)}
+          </div>
+        </section>
+      )}
+    </div>
+  </article>
+</Base>
+
+<style>
+  .body {
+    padding-top: var(--space-lg);
+  }
+  .ef-name {
+    font-family: var(--font-title);
+    font-size: 26px;
+    line-height: 32px;
+    text-wrap: balance;
+  }
+  .readings .t-kicker {
+    display: block;
+    margin-bottom: 2px;
+  }
+</style>

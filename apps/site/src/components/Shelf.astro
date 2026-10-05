@@ -1,0 +1,30 @@
+---
+import type { TileData } from '~/lib/catalog'
+import type { Locale } from '~/lib/locale'
+import Tile from './Tile.astro'
+
+interface Props {
+  title?: string
+  tiles: TileData[]
+  locale: Locale
+  /** Where the gold arrow leads, when the shelf has a page of its own. */
+  more?: string
+  width?: number
+}
+
+const { title, tiles, locale, more, width = 150 } = Astro.props
+---
+
+<section>
+  {
+    title && (
+      <div class="row-head">
+        <h2>{title}</h2>
+        {more && <a class="go" href={more} aria-label={title}>→</a>}
+      </div>
+    )
+  }
+  <div class="shelf">
+    {tiles.map((tile) => <Tile tile={tile} locale={locale} width={tile.shape === 'book' ? Math.round(width * 0.8) : width} />)}
+  </div>
+</section>

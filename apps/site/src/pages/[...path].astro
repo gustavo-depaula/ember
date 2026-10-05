@@ -1,0 +1,77 @@
+---
+import { listPages, type PageEntry } from '~/site/pages'
+import { parseIsoDate } from '~/routes'
+import BibleBookView from '~/views/BibleBookView.astro'
+import BibleChapterView from '~/views/BibleChapterView.astro'
+import BibleView from '~/views/BibleView.astro'
+import AboutView from '~/views/AboutView.astro'
+import BooksView from '~/views/BooksView.astro'
+import ChurchView from '~/views/ChurchView.astro'
+import MassTimesView from '~/views/MassTimesView.astro'
+import PlaceView from '~/views/PlaceView.astro'
+import PlansView from '~/views/PlansView.astro'
+import SearchView from '~/views/SearchView.astro'
+import VoicesView from '~/views/VoicesView.astro'
+import CalendarDayView from '~/views/CalendarDayView.astro'
+import CalendarMonthView from '~/views/CalendarMonthView.astro'
+import LatinMassView from '~/views/LatinMassView.astro'
+import MassView from '~/views/MassView.astro'
+import OfficeView from '~/views/OfficeView.astro'
+import SaintsView from '~/views/SaintsView.astro'
+import SaintView from '~/views/SaintView.astro'
+import BookView from '~/views/BookView.astro'
+import ChapterView from '~/views/ChapterView.astro'
+import CollectionsView from '~/views/CollectionsView.astro'
+import CollectionView from '~/views/CollectionView.astro'
+import HomeView from '~/views/HomeView.astro'
+import LibraryView from '~/views/LibraryView.astro'
+import ReadingView from '~/views/ReadingView.astro'
+import PrayerView from '~/views/PrayerView.astro'
+import PrayersView from '~/views/PrayersView.astro'
+
+export async function getStaticPaths() {
+  const pages = await listPages()
+  return pages.map((entry) => ({
+    params: { path: entry.path.replace(/^\/|\/$/g, '') || undefined },
+    props: { entry },
+  }))
+}
+
+interface Props {
+  entry: PageEntry
+}
+
+const { entry } = Astro.props
+const { page, locale, alternates, canonical } = entry
+---
+
+{page.view === 'home' && <HomeView locale={locale} alternates={alternates} />}
+{page.view === 'library' && <LibraryView locale={locale} alternates={alternates} />}
+{page.view === 'prayers' && <PrayersView locale={locale} alternates={alternates} />}
+{page.view === 'prayer' && <PrayerView locale={locale} alternates={alternates} canonical={canonical} id={page.id} day={page.day} />}
+{page.view === 'collections' && <CollectionsView locale={locale} alternates={alternates} />}
+{page.view === 'collection' && <CollectionView locale={locale} alternates={alternates} canonical={canonical} id={page.id} />}
+{page.view === 'books' && <BooksView locale={locale} alternates={alternates} />}
+{page.view === 'book' && <BookView locale={locale} alternates={alternates} canonical={canonical} id={page.id} />}
+{page.view === 'chapter' && <ChapterView locale={locale} alternates={alternates} id={page.id} nodeId={page.nodeId} />}
+{page.view === 'reading' && <ReadingView locale={locale} alternates={alternates} id={page.id} />}
+{page.view === 'bible' && <BibleView locale={locale} alternates={alternates} />}
+{page.view === 'bibleBook' && <BibleBookView locale={locale} alternates={alternates} book={page.book} />}
+{page.view === 'bibleChapter' && <BibleChapterView locale={locale} alternates={alternates} book={page.book} chapter={page.chapter} />}
+{page.view === 'saints' && <SaintsView locale={locale} alternates={alternates} />}
+{page.view === 'saint' && <SaintView locale={locale} alternates={alternates} id={page.id} />}
+{page.view === 'calendarMonth' && <CalendarMonthView locale={locale} alternates={alternates} year={page.year} month={page.month} />}
+{page.view === 'calendarDay' && <CalendarDayView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} />}
+{page.view === 'mass' && <MassView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} isToday={page.today} />}
+{page.view === 'latinMass' && <LatinMassView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} isToday={page.today} />}
+{page.view === 'office' && <OfficeView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} hour={page.hour} isToday={page.today} />}
+{page.view === 'massTimes' && <MassTimesView locale={locale} alternates={alternates} />}
+{page.view === 'churchShell' && <MassTimesView locale={locale} alternates={alternates} church />}
+{page.view === 'church' && <ChurchView locale={locale} alternates={alternates} id={page.id} />}
+{page.view === 'place' && <PlaceView locale={locale} alternates={alternates} country={page.country} place={page.place} />}
+{page.view === 'search' && <SearchView locale={locale} alternates={alternates} />}
+{page.view === 'plans' && <PlansView locale={locale} alternates={alternates} />}
+{page.view === 'plan' && <PlansView locale={locale} alternates={alternates} id={page.id} />}
+{page.view === 'voices' && <VoicesView locale={locale} alternates={alternates} />}
+{page.view === 'about' && <AboutView locale={locale} alternates={alternates} />}
+{page.view === 'privacy' && <AboutView locale={locale} alternates={alternates} privacy />}

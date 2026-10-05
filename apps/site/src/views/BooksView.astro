@@ -1,0 +1,66 @@
+---
+import { localizeContent } from '@/lib/i18n'
+import PageFlourish from '~/components/PageFlourish.astro'
+import Shelf from '~/components/Shelf.astro'
+import Tile from '~/components/Tile.astro'
+import Base from '~/layouts/Base.astro'
+import { listBooks } from '~/lib/books'
+import { type TileData, tileFor } from '~/lib/catalog'
+import { type Locale, translator, withLocale } from '~/lib/locale'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const t = translator(locale)
+const pt = locale === 'pt-BR'
+
+// An author with fewer books than this shares the closing shelf, as in the app.
+const ownShelfAt = 4
+const books = await listBooks()
+const shelves = withLocale(locale, () => {
+  const byAuthor = new Map<string, { name: string; tiles: TileData[] }>()
+  for (const book of books) {
+    const author = book.entry.author as Record<string, string> | undefined
+    const key = author?.['en-US'] ?? (author ? localizeContent(author) : '')
+    const shelf = byAuthor.get(key) ?? { name: author ? localizeContent(author) : '', tiles: [] }
+    const tile = tileFor(book.id, locale)
+    if (tile) shelf.tiles.push(tile)
+    byAuthor.set(key, shelf)
+  }
+  const own = [...byAuthor.values()]
+    .filter((s) => s.name && s.tiles.length >= ownShelfAt)
+    .sort((a, b) => a.name.localeCompare(b.name, locale))
+  const rest = [...byAuthor.values()]
+    .filter((s) => !s.name || s.tiles.length < ownShelfAt)
+    .flatMap((s) => s.tiles)
+    .sort((a, b) => a.title.localeCompare(b.title, locale))
+  for (const shelf of own) shelf.tiles.sort((a, b) => a.title.localeCompare(b.title, locale))
+  return { own, rest }
+})
+const description = pt
+  ? `${books.length} livros da tradição católica para ler online: a Imitação de Cristo, os Padres da Igreja, Santo Tomás de Aquino, Santo Afonso de Ligório e muito mais.`
+  : `${books.length} books of the Catholic tradition to read online, free: the Imitation of Christ, the Church Fathers, St. Thomas Aquinas, St. Alphonsus Liguori and many more.`
+---
+
+<Base locale={locale} title={t('search.books')} description={description} alternates={alternates} section="books">
+  <PageFlourish art="library" />
+  <div class="wide">
+    <header class="page-head">
+      <p class="t-kicker">{books.length} {pt ? 'volumes' : 'volumes'}</p>
+      <h1 class="t-screen">{t('search.books')}</h1>
+      <p class="lede">{t('search.booksHint')}</p>
+    </header>
+    <div class="stack shelves">
+      {shelves.own.map((shelf) => <Shelf title={shelf.name} tiles={shelf.tiles} locale={locale} width={148} />)}
+      <section>
+        <div class="row-head"><h2>{t('browse.otherAuthors')}</h2></div>
+        <div class="grid" style="--cell:118px">
+          {shelves.rest.map((tile) => <Tile tile={tile} locale={locale} />)}
+        </div>
+      </section>
+    </div>
+  </div>
+</Base>

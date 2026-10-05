@@ -1,0 +1,117 @@
+---
+import { collectionCoverStyle } from '@/features/covers/coverFor'
+import { toneForKey } from '@/features/explore/bgColor'
+import Cover from '~/components/Cover.astro'
+import Tile from '~/components/Tile.astro'
+import Base from '~/layouts/Base.astro'
+import { loadCollectionPage, type SectionView } from '~/lib/collections'
+import { plainExcerpt } from '~/lib/html'
+import type { Locale } from '~/lib/locale'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  canonical?: string
+  id: string
+}
+
+const { locale, alternates, canonical, id } = Astro.props
+const page = await loadCollectionPage(id, locale)
+if (!page) throw new Error(`No collection ${id}`)
+const tone = toneForKey(id)
+const description = plainExcerpt(page.description ?? page.title)
+
+// Book and tract tiles are narrower than cards, so they stand like volumes on a shelf.
+function tileWidth(shape: string): number {
+  return shape === 'book' ? 112 : shape === 'tract' ? 128 : 150
+}
+
+function nested(section: SectionView): SectionView[] {
+  return section.sections
+}
+---
+
+<Base
+  locale={locale}
+  title={page.title}
+  description={description}
+  alternates={alternates}
+  canonical={canonical}
+  noindex={!!canonical}
+  section="collections"
+  image={page.art}
+  jsonLd={{
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: page.title,
+    description,
+    inLanguage: locale,
+  }}
+>
+  <header class={`hero ${page.art ? 'with-art' : ''}`} style={`--from:${tone.from};--to:${tone.to}`}>
+    {page.art ? (
+      <img class="hero-art" src={page.art} alt="" />
+    ) : (
+      <div class="hero-cover">
+        <Cover cover={{ kind: 'collection', style: collectionCoverStyle(page.cover) }} id={id} title={page.title} locale={locale} />
+      </div>
+    )}
+    <h1 class={page.art ? 'italic' : ''}>{page.title}</h1>
+    {page.description && <p class="tagline">{page.description}</p>}
+  </header>
+
+  <div class="wide stack body">
+    {page.prologue && <div class="prose prologue" set:html={page.prologue} />}
+
+    {page.sections.map((section) => (
+      <section class="stack-md" id={section.id}>
+        <div class="section-head"><h2 class="t-section">{section.title}</h2></div>
+        {section.intro && <div class="intro" set:html={section.intro} />}
+        {section.tiles.length > 0 && (
+          <div class="shelf stand">
+            {section.tiles.map((tile) => <Tile tile={tile} locale={locale} width={tileWidth(tile.shape)} />)}
+          </div>
+        )}
+        {section.prose.map((html) => <div class="prose prologue" set:html={html} />)}
+        {nested(section).map((sub) => (
+          <div class="stack-sm sub" id={sub.id}>
+            <h3 class="t-label">{sub.title}</h3>
+            {sub.intro && <div class="intro" set:html={sub.intro} />}
+            <div class="shelf stand">
+              {sub.tiles.map((tile) => <Tile tile={tile} locale={locale} width={tileWidth(tile.shape)} />)}
+            </div>
+          </div>
+        ))}
+      </section>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .hero-cover {
+    width: clamp(120px, 24vw, 190px);
+  }
+  .hero h1.italic {
+    font-style: italic;
+  }
+  .body {
+    padding-top: var(--space-xl);
+    gap: var(--space-xl);
+  }
+  .prologue {
+    max-width: var(--column);
+  }
+  .intro {
+    font-style: italic;
+    font-size: 17px;
+    line-height: 25px;
+    color: var(--color-secondary);
+    max-width: var(--column);
+  }
+  .stand {
+    align-items: flex-start;
+  }
+  .sub {
+    padding-left: var(--space-md);
+  }
+</style>
