@@ -1,28 +1,372 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hearth — Ember Content</title>
+  <title>Ember — Catholic prayer</title>
+  <meta name="description" content="Pray the Rosary, the Mass and the Hours. Keep a plan of life. Read the saints. A Catholic prayer app in English and Brazilian Portuguese.">
+  <meta property="og:title" content="Ember — Catholic prayer">
+  <meta property="og:description" content="Pray the Rosary, the Mass and the Hours. Keep a plan of life. Read the saints.">
+  <meta property="og:image" content="https://ember.dpgu.me/site/img/en-US-04-holy-card.webp">
+  <link rel="icon" href="site/img/favicon.png">
+  <link rel="preload" href="site/fonts/Junicode-Italic.woff2" as="font" type="font/woff2" crossorigin>
   <style>
-    body { font-family: Georgia, serif; max-width: 600px; margin: 4rem auto; padding: 0 1rem; color: #333; }
-    h1 { font-size: 1.5rem; }
-    a { color: #8b4513; }
-    code { background: #f5f0eb; padding: 0.15em 0.4em; border-radius: 3px; font-size: 0.9em; }
+    @font-face { font-family: Junicode; src: url(site/fonts/Junicode.woff2) format('woff2'); font-display: swap; }
+    @font-face { font-family: Junicode; font-style: italic; src: url(site/fonts/Junicode-Italic.woff2) format('woff2'); font-display: swap; }
+    @font-face { font-family: 'EB Garamond'; src: url(site/fonts/EBGaramond_400Regular.woff2) format('woff2'); font-display: swap; }
+    @font-face { font-family: 'EB Garamond'; font-style: italic; src: url(site/fonts/EBGaramond_400Regular_Italic.woff2) format('woff2'); font-display: swap; }
+    @font-face { font-family: Cinzel; src: url(site/fonts/Cinzel_400Regular.woff2) format('woff2'); font-display: swap; }
+
+    :root {
+      --ink: #0E0D0C;
+      --ink-raised: #1A1714;
+      --parchment: #F4E8CF;
+      --vellum: #CFC3A8;
+      --gold: #C9A84C;
+      --gold-deep: #7A5C17;
+      --oxblood: #8E2231;
+      --measure: 34rem;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--ink);
+      color: var(--vellum);
+      font: 1.1875rem/1.6 'EB Garamond', Georgia, serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    /* Both languages live in the page; the script picks one. */
+    html[data-lang="en"] [lang="pt-BR"], html[data-lang="pt"] [lang="en"] { display: none; }
+    a { color: var(--gold); text-underline-offset: 0.2em; }
+    a:hover { color: var(--parchment); }
+    :focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 2px; }
+    img { max-width: 100%; height: auto; display: block; }
+    .wrap { max-width: 70rem; margin: 0 auto; padding: 0 1.5rem; }
+
+    .masthead { padding-top: 2rem; }
+    nav { display: flex; align-items: center; gap: 1.75rem; }
+    .wordmark { display: flex; align-items: center; gap: 0.7rem; margin-right: auto; color: var(--parchment); text-decoration: none; font: 1.35rem Cinzel, serif; letter-spacing: 0.14em; }
+    .wordmark img { width: 2.4rem; height: 2.4rem; border-radius: 0.55rem; }
+    nav a.link { font: 0.82rem Cinzel, serif; letter-spacing: 0.14em; text-decoration: none; color: var(--vellum); }
+    nav a.link:hover { color: var(--gold); }
+    @media (max-width: 40rem) { nav a.link.optional { display: none; } }
+
+    .hero { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr); gap: 3rem; align-items: center; padding: clamp(3rem, 7vw, 6rem) 0 clamp(4rem, 8vw, 7rem); }
+    h1 {
+      margin: 0;
+      font: italic 400 clamp(2.5rem, 5.2vw, 4.25rem)/1.08 Junicode, 'EB Garamond', serif;
+      max-width: 11em;
+      text-wrap: balance;
+      color: var(--parchment);
+      letter-spacing: -0.005em;
+    }
+    .lede { max-width: 30rem; margin: 1.75rem 0 2.25rem; font-size: 1.3rem; line-height: 1.5; }
+    .status { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.5rem; }
+    .soon { border: 1px solid var(--gold-deep); border-radius: 999px; padding: 0.55rem 1.2rem; color: var(--parchment); font-size: 1.05rem; }
+    .phone { width: min(100%, 19rem); border-radius: 2.6rem; border: 1px solid rgba(201, 168, 76, 0.35); box-shadow: 0 2.5rem 5rem rgba(0, 0, 0, 0.7); }
+    .hero .phone { justify-self: center; transform: rotate(2deg); }
+    @media (max-width: 52rem) {
+      .hero { grid-template-columns: minmax(0, 1fr); }
+      .hero .phone { transform: none; }
+    }
+
+    /* The one moving thing: the prayers the app holds, passing like a litany. */
+    .litany { overflow: hidden; border-block: 1px solid rgba(201, 168, 76, 0.28); padding: 0.9rem 0; white-space: nowrap; }
+    .litany div { display: inline-block; animation: pass 70s linear infinite; font: 0.9rem Cinzel, serif; letter-spacing: 0.2em; color: var(--gold); }
+    .litany span::after { content: '✠'; margin: 0 1.6rem; color: var(--oxblood); }
+    @keyframes pass { to { transform: translateX(-50%); } }
+    @media (prefers-reduced-motion: reduce) { .litany div { animation: none; } html { scroll-behavior: auto; } }
+
+    /* Every feature is set the same way: a centred heading and a few lines,
+       then the thing itself laid out like cards on a table. */
+    .feature { padding: clamp(3.5rem, 7vw, 6rem) 0; overflow: hidden; }
+    .head { text-align: center; }
+    .head p, .note p { max-width: var(--measure); margin: 0 auto; }
+    .note { text-align: center; }
+    h2 { margin: 0 0 1.1rem; font: italic 400 clamp(2rem, 4vw, 3.1rem)/1.1 Junicode, 'EB Garamond', serif; color: var(--parchment); text-wrap: balance; }
+    .fan, .phones { display: flex; justify-content: center; padding: 1.5rem 0 2.5rem; margin-top: 2.5rem; }
+    .fan img { width: clamp(7rem, 15vw, 13.5rem); margin-inline: clamp(-2.2rem, -2.6vw, -1rem); border-radius: 0.6rem; box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.65); transition: transform 0.25s ease; }
+    .fan.art img { aspect-ratio: 2 / 3; object-fit: cover; border: 0.35rem solid var(--parchment); border-radius: 0.3rem; }
+    .fan img:nth-child(odd) { transform: rotate(-4deg) translateY(0.6rem); }
+    .fan img:nth-child(even) { transform: rotate(3deg) translateY(-0.6rem); }
+    .fan img:nth-child(3n) { transform: rotate(-1.5deg) translateY(1.2rem); }
+    .fan img:hover, .phones .phone:hover { transform: translateY(-1.2rem) scale(1.04); position: relative; z-index: 1; }
+    .phones { gap: clamp(0.75rem, 2.5vw, 2.25rem); padding-inline: 1.5rem; }
+    .phones .phone { width: min(30%, 16.5rem); border-radius: clamp(1.2rem, 3.4vw, 2.3rem); transition: transform 0.25s ease; }
+    .phones .phone:nth-of-type(4n+1), .phones .phone:nth-of-type(4n+2) { transform: rotate(-2.5deg) translateY(0.8rem); }
+    .phones .phone:nth-of-type(4n+3), .phones .phone:nth-of-type(4n+4) { transform: rotate(2deg) translateY(-0.4rem); }
+    .phones .phone:nth-of-type(n+5) { transform: rotate(-1.5deg) translateY(0.9rem); }
+    .fan + .phones { margin-top: 0; }
+    @media (max-width: 52rem) {
+      .fan { justify-content: flex-start; overflow-x: auto; padding-inline: 2.5rem; scrollbar-width: none; }
+      .fan img { width: 9.5rem; flex: none; margin-inline: -0.9rem; }
+      .phones .phone { width: min(46%, 16.5rem); }
+      .phones:has(.phone:nth-of-type(5)) { justify-content: flex-start; overflow-x: auto; scrollbar-width: none; }
+      .phones:has(.phone:nth-of-type(5)) .phone { width: 12.5rem; flex: none; }
+    }
+    @media (prefers-reduced-motion: reduce) { .fan img, .phones .phone { transition: none; } }
+
+    /* The heritage work is a real sequence, so its steps are numbered. */
+    .steps { list-style: none; counter-reset: step; margin: 3.5rem 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2.5rem clamp(1.5rem, 4vw, 3.5rem); }
+    .steps li { counter-increment: step; border-top: 1px solid rgba(201, 168, 76, 0.28); padding-top: 1.1rem; }
+    .steps li::before { content: counter(step, upper-roman); display: block; font: 0.85rem Cinzel, serif; letter-spacing: 0.18em; color: var(--gold); margin-bottom: 0.6rem; }
+    .steps h3 { margin: 0 0 0.5rem; font: italic 400 1.6rem/1.15 Junicode, 'EB Garamond', serif; color: var(--parchment); }
+    .steps p { margin: 0; font-size: 1.05rem; line-height: 1.55; }
+    @media (max-width: 52rem) { .steps { grid-template-columns: minmax(0, 1fr); } }
+
+    /* The library is read on paper, so its section is the one light page. */
+    .paper { background: var(--parchment); color: #3A3126; }
+    .paper h2 { color: #1F1A14; }
+    .paper .phones .phone { border-color: rgba(122, 92, 23, 0.4); box-shadow: 0 2.5rem 4rem rgba(60, 40, 10, 0.28); }
+
+    .open { text-align: center; padding: clamp(4rem, 9vw, 7rem) 0; }
+    .open img { width: min(28rem, 80%); margin: 0 auto 2.5rem; }
+    .open p { max-width: var(--measure); margin: 0 auto 1rem; }
+    .counts { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem 3.5rem; margin: 2.5rem 0; padding: 0; list-style: none; }
+    .counts b { display: block; font: italic 400 2.9rem/1 Junicode, serif; color: var(--gold); }
+
+    footer { border-top: 1px solid rgba(201, 168, 76, 0.28); padding: 2.5rem 0 3.5rem; font-size: 1rem; }
+    footer .wrap { display: flex; flex-wrap: wrap; gap: 0.75rem 2rem; align-items: baseline; }
+    footer .mark { margin-right: auto; color: var(--parchment); }
   </style>
 </head>
 <body>
-  <h1>Hearth</h1>
-  <p>Static content for the <a href="https://github.com/gustavo-depaula/ember">Ember</a> Catholic prayer app. The hearth sustains the ember.</p>
-  <ul>
-    <li><a href="hearth/v2/catalog.json">hearth/v2/catalog.json</a> &mdash; corpus catalog (kind-prefixed ids &rarr; blob hashes)</li>
-    <li><code>hearth/v2/blobs/{ab}/{cd}/{hash}</code> &mdash; content-addressed blob store (prayers, practices, chapters, books, collections, propers)</li>
-    <li><code>hearth/v2/bible/drb/</code> &mdash; Douay-Rheims Bible (73 books)</li>
-    <li><code>hearth/v2/catechism/</code> &mdash; Catechism of the Catholic Church</li>
-    <li><code>hearth/v2/lectionary/</code> &mdash; OF lectionary data</li>
-    <li><code>hearth/v2/liturgical/</code> &mdash; liturgical calendar data</li>
-    <li><code>hearth/v2/propers/</code> &mdash; EF Mass propers (tempora + sancti)</li>
-    <li><code>hearth/v2/saints/</code> &mdash; Saint images (PNG + WebP)</li>
-  </ul>
+  <header class="masthead">
+    <div class="wrap">
+      <nav>
+        <a class="wordmark" href="./"><img src="site/img/icon.webp" alt="" width="38" height="38">Ember</a>
+        <a class="link optional" href="#cards"><span lang="en">Holy cards</span><span lang="pt-BR">Santinhos</span></a>
+        <a class="link optional" href="#inside"><span lang="en">Inside</span><span lang="pt-BR">Por dentro</span></a>
+        <a class="link optional" href="#heritage"><span lang="en">Heritage</span><span lang="pt-BR">Herança</span></a>
+        <a class="link optional" href="#open"><span lang="en">Public domain</span><span lang="pt-BR">Domínio público</span></a>
+        <a class="link" href="#" id="switch"><span lang="en">Português</span><span lang="pt-BR">English</span></a>
+      </nav>
+
+      <section class="hero">
+        <div>
+          <h1 lang="en">The Catholic life of prayer, day by day.</h1>
+          <h1 lang="pt-BR">A vida católica de oração, dia após dia.</h1>
+          <p class="lede" lang="en">The Rosary, the Mass and the Divine Office, a rule of prayer to keep, and a library of the saints to read, in one app.</p>
+          <p class="lede" lang="pt-BR">O Terço, a Missa e o Ofício Divino, uma regra de oração para guardar e uma biblioteca dos santos para ler, em um só aplicativo.</p>
+          <div class="status">
+            <span class="soon" lang="en">Coming soon to iPhone and Android</span>
+            <span class="soon" lang="pt-BR">Em breve para iPhone e Android</span>
+            <a href="#inside"><span lang="en">See what is inside</span><span lang="pt-BR">Veja o que há dentro</span></a>
+          </div>
+        </div>
+        <img class="phone" lang="en" src="site/img/en-US-01-today.webp" width="720" height="1564" alt="Ember's Today screen: the date, a sealed envelope holding a holy card, the plan of life and the Holy Rosary.">
+        <img class="phone" lang="pt-BR" src="site/img/pt-BR-01-today.webp" width="720" height="1564" alt="A tela Hoje do Ember: a data, um envelope lacrado com um santinho, o plano de vida e o Santo Rosário.">
+      </section>
+    </div>
+  </header>
+
+  <div class="litany" aria-hidden="true">
+    <div>
+      <span>Rosarium</span><span>Missa</span><span>Laudes</span><span>Vesperae</span><span>Completorium</span><span>Angelus</span><span>Lectio Divina</span><span>Examen</span><span>Litaniae</span><span>Novena</span><span>Via Crucis</span><span>Te Deum</span><span>Rosarium</span><span>Missa</span><span>Laudes</span><span>Vesperae</span><span>Completorium</span><span>Angelus</span><span>Lectio Divina</span><span>Examen</span><span>Litaniae</span><span>Novena</span><span>Via Crucis</span><span>Te Deum</span>
+    </div>
+  </div>
+
+  <section class="feature" id="cards">
+    <div class="wrap head">
+      <h2 lang="en">Holy cards, received in prayer</h2>
+      <h2 lang="pt-BR">Santinhos, recebidos na oração</h2>
+      <p lang="en">Holy cards given through the practice of prayer, each one an introduction to a holy life: who the saint was, what the Church prays on the feast, something to take to heart.</p>
+      <p lang="pt-BR">Santinhos recebidos pela prática da oração, cada um uma apresentação a uma vida santa: quem foi o santo, o que a Igreja reza na sua festa, algo para guardar no coração.</p>
+    </div>
+    <div class="fan">
+      <img loading="lazy" src="site/img/cards/our_lady_rosary.webp" width="440" height="660" alt="Our Lady of the Rosary">
+      <img loading="lazy" src="site/img/cards/joseph.webp" width="440" height="660" alt="St. Joseph">
+      <img loading="lazy" src="site/img/cards/michael_archangel.webp" width="440" height="660" alt="St. Michael the Archangel">
+      <img loading="lazy" src="site/img/cards/francis_assisi.webp" width="440" height="660" alt="St. Francis of Assisi">
+      <img loading="lazy" src="site/img/cards/guadalupe.webp" width="440" height="660" alt="Our Lady of Guadalupe">
+      <img loading="lazy" src="site/img/cards/peter.webp" width="440" height="660" alt="St. Peter">
+      <img loading="lazy" src="site/img/cards/aparecida.webp" width="440" height="660" alt="Our Lady of Aparecida">
+      <img loading="lazy" src="site/img/cards/padre_pio.webp" width="440" height="660" alt="St. Pio of Pietrelcina">
+      <img loading="lazy" src="site/img/cards/cecilia.webp" width="440" height="660" alt="St. Cecilia">
+    </div>
+    <div class="phones">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-09-envelope.webp" width="720" height="1564" alt="A sealed envelope holding a first holy card.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-09-envelope.webp" width="720" height="1564" alt="Um envelope lacrado com um primeiro santinho.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-04-holy-card.webp" width="720" height="1564" alt="The holy card of St. Peter, holding the keys before St. Peter's Basilica.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-04-holy-card.webp" width="720" height="1564" alt="O santinho de São Pedro, com as chaves diante da Basílica de São Pedro.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-15-saint-page.webp" width="720" height="1564" alt="A saint's page: the life, prayers, feast and related cards.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-15-saint-page.webp" width="720" height="1564" alt="A página de um santo: a vida, as orações, a festa e os santinhos relacionados.">
+    </div>
+    <div class="wrap note">
+      <p lang="en">A card arrives sealed. Turn the envelope over, say the prayer, answer Amen, and it opens. More than 600 saints, each painted as a card.</p>
+      <p lang="pt-BR">O santinho chega lacrado. Vire o envelope, reze a oração, responda Amém, e ele se abre. Mais de 600 santos, cada um pintado como um santinho.</p>
+    </div>
+  </section>
+
+  <main id="inside">
+  <section class="feature">
+    <div class="wrap head">
+      <h2 lang="en">A plan of life, kept bead by bead</h2>
+      <h2 lang="pt-BR">Um plano de vida, guardado conta a conta</h2>
+      <p lang="en">Build a daily rule of prayer and keep it. Choose a tradition to begin with (Salesian, Ignatian, Carmelite, the Little Way and others) or shape your own. Each day keeps its string of beads beside the saint or the feast, filled as you pray.</p>
+      <p lang="pt-BR">Monte uma regra diária de oração e guarde-a. Escolha uma tradição para começar (salesiana, inaciana, carmelita, a Pequena Via e outras) ou componha a sua. Cada dia guarda o seu cordão de contas ao lado do santo ou da festa, preenchido conforme você reza.</p>
+    </div>
+    <div class="phones">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-14-traditions.webp" width="720" height="1564" alt="Traditions to choose a rule from: the Beginner's Minimum, Salesian, Opus Dei, Ignatian.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-14-traditions.webp" width="720" height="1564" alt="Tradições para escolher uma regra: o Mínimo do Iniciante, Salesiana, Opus Dei, Inaciana.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-13-plan-sheet.webp" width="720" height="1564" alt="The plan of life for the day, by morning, evening and flexible times.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-13-plan-sheet.webp" width="720" height="1564" alt="O plano de vida do dia, por manhã, noite e horários flexíveis.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-10-you.webp" width="720" height="1564" alt="The You page: the plan of life drawn as a string of beads.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-10-you.webp" width="720" height="1564" alt="A página Você: o plano de vida como um cordão de contas.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-11-chronicle.webp" width="720" height="1564" alt="Memoria: one row of beads for each day, beside the day's saint or feast.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-11-chronicle.webp" width="720" height="1564" alt="Memoria: uma fileira de contas para cada dia, ao lado do santo ou da festa do dia.">
+    </div>
+  </section>
+
+  <section class="feature">
+    <div class="wrap head">
+      <h2 lang="en">The Rosary, the Mass and the Hours</h2>
+      <h2 lang="pt-BR">O Rosário, a Missa e as Horas</h2>
+      <p lang="en">The Holy Rosary with sacred art for each mystery. The Holy Mass in the Ordinary and the Extraordinary Form, with the day's readings and propers. The Roman Breviary, hour by hour. The Angelus, litanies, novenas and daily meditations.</p>
+      <p lang="pt-BR">O Santo Rosário com arte sacra para cada mistério. A Santa Missa na forma ordinária e na extraordinária, com as leituras e os próprios do dia. O Breviário Romano, hora por hora. O Angelus, ladainhas, novenas e meditações diárias.</p>
+    </div>
+    <div class="fan art">
+      <img loading="lazy" src="site/img/art/joyful-1-annunciation.webp" alt="The Annunciation">
+      <img loading="lazy" src="site/img/art/joyful-3-nativity.webp" alt="The Nativity">
+      <img loading="lazy" src="site/img/art/luminous-1-baptism.webp" alt="The Baptism of the Lord">
+      <img loading="lazy" src="site/img/art/sorrowful-5-crucifixion.webp" alt="The Crucifixion">
+      <img loading="lazy" src="site/img/art/glorious-1-resurrection.webp" alt="The Resurrection">
+      <img loading="lazy" src="site/img/art/glorious-4-assumption.webp" alt="The Assumption">
+      <img loading="lazy" src="site/img/art/glorious-5-coronation.webp" alt="The Coronation of Our Lady">
+    </div>
+    <div class="phones">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-03-rosary.webp" width="720" height="1564" alt="The Holy Rosary with the Glorious Mysteries and a painting of the Resurrection.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-03-rosary.webp" width="720" height="1564" alt="O Santo Rosário com os Mistérios Gloriosos e uma pintura da Ressurreição.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-18-mass.webp" width="720" height="1564" alt="The Holy Mass for the day, open on the First Reading.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-18-mass.webp" width="720" height="1564" alt="A Santa Missa do dia, aberta na Primeira Leitura.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-07-office.webp" width="720" height="1564" alt="The Roman Breviary open at None, with the hours across the top.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-07-office.webp" width="720" height="1564" alt="O Breviário Romano aberto na Noa, com as horas no alto.">
+    </div>
+  </section>
+
+  <section class="feature paper">
+    <div class="wrap head">
+      <h2 lang="en">A Catholic library in your pocket</h2>
+      <h2 lang="pt-BR">Uma biblioteca católica no bolso</h2>
+      <p lang="en">The Imitation of Christ, the Church Fathers, St. Thomas Aquinas, St. Alphonsus Liguori, the Catechism of the Council of Trent and many more, in a reader made for long reading: your typeface, size and margins, paper or night, bookmarks, highlights and notes.</p>
+      <p lang="pt-BR">A Imitação de Cristo, os Padres da Igreja, Santo Tomás de Aquino, Santo Afonso de Ligório, o Catecismo Romano e muito mais, em um leitor feito para a leitura longa: a sua fonte, tamanho e margens, papel ou noite, marcadores, destaques e notas.</p>
+    </div>
+    <div class="phones">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-12-treasury-light.webp" width="720" height="1564" alt="The treasury: 389 prayers, 563 books and 44 collections.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-12-treasury-light.webp" width="720" height="1564" alt="O acervo: 389 orações, 563 livros e 44 coleções.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-05-reader.webp" width="720" height="1564" alt="The reader open on a chapter of The Imitation of Christ, set with a drop cap.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-05-reader.webp" width="720" height="1564" alt="O leitor aberto em um capítulo da Imitação de Cristo, com capitular.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-12-treasury.webp" width="720" height="1564" alt="The treasury in the night palette.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-12-treasury.webp" width="720" height="1564" alt="O acervo na paleta noturna.">
+    </div>
+  </section>
+
+  <section class="feature">
+    <div class="wrap head">
+      <h2 lang="en">Mass, confession and adoration near you</h2>
+      <h2 lang="pt-BR">Missa, confissão e adoração perto de você</h2>
+      <p lang="en">Find churches on a map, see the next Mass nearby, save your parishes, and help keep the times right. Coverage begins with São Paulo, Brazil, and is growing.</p>
+      <p lang="pt-BR">Encontre igrejas no mapa, veja a próxima Missa por perto, salve as suas paróquias e ajude a manter os horários corretos. A cobertura começa por São Paulo e está crescendo.</p>
+    </div>
+    <div class="phones">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-06-mass-times.webp" width="720" height="1564" alt="A map of churches with the next Mass nearby and a list of Mass times.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-06-mass-times.webp" width="720" height="1564" alt="Um mapa de igrejas com a próxima Missa por perto e uma lista de horários.">
+      <img class="phone" lang="en" loading="lazy" src="site/img/en-US-08-search.webp" width="720" height="1564" alt="The Search page, with Churches and Mass Times at the top.">
+      <img class="phone" lang="pt-BR" loading="lazy" src="site/img/pt-BR-08-search.webp" width="720" height="1564" alt="A página Buscar, com Igrejas e Horários de Missa no alto.">
+    </div>
+  </section>
+
+  <section class="feature">
+    <div class="wrap head">
+      <h2 lang="en">In English, Portuguese and Latin</h2>
+      <h2 lang="pt-BR">Em português, inglês e latim</h2>
+      <p lang="en">English and Brazilian Portuguese throughout, with Latin for the prayers that have it, alone or side by side.</p>
+      <p lang="pt-BR">Português do Brasil e inglês em todo o aplicativo, com o latim nas orações que o têm, sozinho ou lado a lado.</p>
+    </div>
+    <div class="phones">
+      <img class="phone" loading="lazy" src="site/img/en-US-07-office.webp" width="720" height="1564" alt="The Roman Breviary in English.">
+      <img class="phone" loading="lazy" src="site/img/pt-BR-07-office.webp" width="720" height="1564" alt="O Breviário Romano em português.">
+    </div>
+  </section>
+
+  </main>
+
+  <section class="feature heritage" id="heritage">
+    <div class="wrap head">
+      <h2 lang="en">Preserving and translating the Catholic heritage</h2>
+      <h2 lang="pt-BR">Preservar e traduzir a herança católica</h2>
+      <p lang="en">Behind the app is a library in the making: more than 540 books of the Fathers, the doctors and the spiritual masters, over 150 of them already in Portuguese, in a form anyone can freely read, copy and print.</p>
+      <p lang="pt-BR">Por trás do aplicativo há uma biblioteca em construção: mais de 540 livros dos Padres, dos doutores e dos mestres espirituais, mais de 150 deles já em português, em uma forma que qualquer pessoa pode ler, copiar e imprimir livremente.</p>
+    </div>
+    <div class="wrap">
+      <ol class="steps" lang="en">
+        <li><h3>Source</h3><p>Each work is traced to a public domain edition, and its provenance is recorded with the book, language by language.</p></li>
+        <li><h3>Scan and transcribe</h3><p>Texts are transcribed chapter by chapter, and checked page by page against scans of the printed edition, where the eye catches what OCR gets wrong.</p></li>
+        <li><h3>Organize</h3><p>Every book keeps its author's structure: parts, chapters, footnotes and prefaces, in plain Markdown that any tool can read.</p></li>
+        <li><h3>Translate</h3><p>Translations are made from the original language, never from another translation, each with a journal of its terms and decisions.</p></li>
+        <li><h3>Review</h3><p>Every chapter is compared across languages, so that no paragraph, note or Latin quotation is lost on the way.</p></li>
+        <li><h3>Preserve</h3><p>The whole library is kept in the open and dedicated to the public domain, for other apps, printers and readers to take and use.</p></li>
+      </ol>
+      <ol class="steps" lang="pt-BR">
+        <li><h3>Fontes</h3><p>Cada obra é rastreada até uma edição em domínio público, e a procedência fica registrada com o livro, língua por língua.</p></li>
+        <li><h3>Digitalizar e transcrever</h3><p>Os textos são transcritos capítulo por capítulo e conferidos página a página com as digitalizações da edição impressa, onde o olho vê o que o OCR erra.</p></li>
+        <li><h3>Organizar</h3><p>Cada livro guarda a estrutura do seu autor: partes, capítulos, notas e prefácios, em Markdown simples que qualquer ferramenta lê.</p></li>
+        <li><h3>Traduzir</h3><p>As traduções partem da língua original, nunca de outra tradução, cada uma com um diário dos seus termos e decisões.</p></li>
+        <li><h3>Revisar</h3><p>Cada capítulo é comparado entre as línguas, para que nenhum parágrafo, nota ou citação latina se perca no caminho.</p></li>
+        <li><h3>Preservar</h3><p>Toda a biblioteca fica aberta e dedicada ao domínio público, para que outros aplicativos, editores e leitores a tomem e usem.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="open" id="open">
+    <div class="wrap">
+      <img src="site/img/header_flourish_dark.webp" width="1536" height="324" alt="" loading="lazy">
+      <h2 lang="en">Public domain, open source</h2>
+      <h2 lang="pt-BR">Domínio público, código aberto</h2>
+      <ul class="counts" lang="en">
+        <li><b>380+</b> prayers</li>
+        <li><b>540+</b> books</li>
+        <li><b>630+</b> saints</li>
+      </ul>
+      <ul class="counts" lang="pt-BR">
+        <li><b>380+</b> orações</li>
+        <li><b>540+</b> livros</li>
+        <li><b>630+</b> santos</li>
+      </ul>
+      <p lang="en">Ember is dedicated to the public domain: the prayers and books of its library, in open formats, and its code, which is open source. Anyone is free to copy, use and improve them, without asking permission.</p>
+      <p lang="pt-BR">O Ember é dedicado ao domínio público: as orações e os livros da sua biblioteca, em formatos abertos, e o seu código, que é aberto. Qualquer pessoa é livre para copiar, usar e melhorar, sem pedir permissão.</p>
+      <p><a href="https://github.com/gustavo-depaula/ember"><span lang="en">Read the source on GitHub</span><span lang="pt-BR">Leia o código no GitHub</span></a></p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <span class="mark">Ember</span>
+      <a href="https://github.com/gustavo-depaula/ember/issues"><span lang="en">Support</span><span lang="pt-BR">Suporte</span></a>
+      <a href="privacy.html"><span lang="en">Privacy</span><span lang="pt-BR">Privacidade</span></a>
+      <a href="hearth/v2/catalog.json"><span lang="en">Content catalog</span><span lang="pt-BR">Catálogo de conteúdo</span></a>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var root = document.documentElement
+      function set(lang) {
+        root.dataset.lang = lang
+        root.lang = lang === 'pt' ? 'pt-BR' : 'en'
+        document.title = lang === 'pt' ? 'Ember — Oração católica' : 'Ember — Catholic prayer'
+      }
+      var saved = null
+      try { saved = localStorage.getItem('lang') } catch (e) {}
+      set(saved || (/^pt/i.test(navigator.language) ? 'pt' : 'en'))
+      document.getElementById('switch').addEventListener('click', function (e) {
+        e.preventDefault()
+        var next = root.dataset.lang === 'pt' ? 'en' : 'pt'
+        set(next)
+        try { localStorage.setItem('lang', next) } catch (e) {}
+      })
+    })()
+  </script>
 </body>
 </html>
