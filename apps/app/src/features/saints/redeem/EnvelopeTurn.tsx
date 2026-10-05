@@ -40,7 +40,6 @@ export function EnvelopeTurn({
   envelope,
   name,
   lines,
-  below,
   canTurn,
   riseTop,
   onAmen,
@@ -51,8 +50,6 @@ export function EnvelopeTurn({
   /** The saint's name, heading the prayer. */
   name: string
   lines: string[]
-  /** Under the envelope while it's sealed side up (the choice of saint). */
-  below?: ReactNode
   canTurn: boolean
   riseTop: number
   onAmen: () => Promise<unknown>
@@ -64,7 +61,6 @@ export function EnvelopeTurn({
   const insets = useSafeAreaInsets()
   const turned = useSharedValue(0)
   const settle = useSharedValue(0)
-  const prayed = useSharedValue(0)
   const [written, setWritten] = useState(false)
   const [amen, setAmen] = useState(false)
   const restingTop = useRef(0)
@@ -85,8 +81,8 @@ export function EnvelopeTurn({
     })
   }
 
-  // Laid out above what's below it, the envelope glides to the screen's
-  // centre as it turns, so the grown sheet sits centred.
+  // The envelope glides to the screen's centre as it turns, so the grown
+  // sheet sits centred.
   const turnOver = () => {
     settle.value = withTiming(height / 2 - (restingTop.current + envH / 2), {
       duration: 1100,
@@ -99,7 +95,6 @@ export function EnvelopeTurn({
     setAmen(true)
     onAmen().then(
       () => {
-        prayed.value = 1
         settle.value = withTiming(riseTop - restingTop.current, { duration: 800, easing: turnEase })
         turn(0, onTurnedBack)
       },
@@ -133,16 +128,12 @@ export function EnvelopeTurn({
     shadowOpacity: interpolate(turned.value, [0, 0.5, 1], [0.35, 0.7, 0.45]),
     shadowRadius: interpolate(turned.value, [0, 0.5, 1], [10, 30, 18]),
   }))
-  // Gone before the envelope lifts, which grows over where it stood.
-  const belowStyle = useAnimatedStyle(() => ({
-    opacity: prayed.value ? 0 : interpolate(turned.value, [0, 0.06], [1, 0], Extrapolation.CLAMP),
-  }))
   const sealDelay = 500 + lines.length * lineGap
 
   return (
     <View style={styles.center}>
       <Animated.View
-        style={[{ width: envW, height: envH }, styles.stage, stage]}
+        style={[{ width: envW, height: envH }, stage]}
         onLayout={(e) => {
           restingTop.current = e.nativeEvent.layout.y
         }}
@@ -227,12 +218,6 @@ export function EnvelopeTurn({
           )}
         </Animated.View>
       </Animated.View>
-
-      {below && (
-        <Animated.View style={[styles.below, belowStyle]} pointerEvents={written ? 'none' : 'auto'}>
-          {below}
-        </Animated.View>
-      )}
     </View>
   )
 }
@@ -255,8 +240,6 @@ function Breathing({ children }: { children: ReactNode }) {
 
 const styles = StyleSheet.create({
   center: { flex: 1, alignItems: 'center', justifyContent: 'center' },
-  // Above what's below it, which the growing envelope covers.
-  stage: { zIndex: 1 },
   face: {
     backfaceVisibility: 'hidden',
     shadowColor: '#000',
@@ -283,5 +266,4 @@ const styles = StyleSheet.create({
   foot: { position: 'absolute', right: 26, bottom: 20, alignItems: 'flex-end' },
   amen: { flexDirection: 'row', alignItems: 'center', gap: 10 },
   pressed: { transform: [{ scale: 0.92 }] },
-  below: { alignSelf: 'stretch', paddingHorizontal: 28, paddingTop: 24 },
 })

@@ -854,6 +854,7 @@ export default {
       },
       choose: 'Escolha de quem é o santinho',
       chooseStarter: 'Escolha um santo para começar',
+      pick: 'Escolha um santo',
       unnamed: 'Para você',
       letUsPray: 'Oremos',
       amen: 'Amém',

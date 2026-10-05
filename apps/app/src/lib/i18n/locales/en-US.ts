@@ -848,6 +848,7 @@ export default {
       },
       choose: 'Choose whose card it is',
       chooseStarter: 'Choose a saint to begin with',
+      pick: 'Choose a saint',
       unnamed: 'For you',
       letUsPray: 'Let us pray',
       amen: 'Amen',

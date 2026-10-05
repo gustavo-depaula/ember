@@ -1,27 +1,28 @@
 import { drawCard, type Grant } from '@ember/holy-cards'
 import { useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, StyleSheet, useWindowDimensions, View } from 'react-native'
+import { StyleSheet, useWindowDimensions, View } from 'react-native'
 import Animated, {
   Easing,
   FadeIn,
   runOnJS,
+  SlideInDown,
   useSharedValue,
   withTiming,
 } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { useTheme, YStack } from 'tamagui'
+import { useTheme } from 'tamagui'
 
-import { Typography } from '@/components/typography'
 import { useEventStore } from '@/db/events'
-import { lightTap, mediumTap, selectionTick, successBuzz } from '@/lib/haptics'
+import { lightTap, mediumTap, successBuzz } from '@/lib/haptics'
 import { heroCard, SaintCardViewer } from '../components'
-import { type SaintEntry, useSaintsCatalog } from '../data/catalog'
+import { useSaintsCatalog } from '../data/catalog'
 import { useRedeemHolyCard } from '../usePendingHolyCards'
 import { useSaintCollect } from '../useSaintCollect'
+import { ChooseCard, envelopeRise } from './ChooseCard'
 import { Envelope, envelopeCard } from './Envelope'
 import { EnvelopeTurn } from './EnvelopeTurn'
-import { envelopeDate, wonFrom } from './envelopeText'
+import { envelopeDate, howWon, wonFrom } from './envelopeText'
 
 const openDuration = 3200
 
@@ -83,38 +84,49 @@ export function RedeemFlow({
   const hero = heroCard(width, height, insets)
   const riseTop = hero.top + hero.height / 2 - inner.height / 2 - inner.top + inner.rise
   const choosing = !grant.drawn && grant.choice.length > 1
+  const [chooser, setChooser] = useState<'open' | 'done'>(choosing ? 'open' : 'done')
+  const options = grant.choice.flatMap((id) => (byId[id] ? [byId[id]] : []))
 
   return (
     <View style={[styles.fill, { backgroundColor: bg }]}>
+      {/* Under the envelope, which the chosen card sinks behind. */}
+      {phase === 'reading' && chooser === 'open' && (
+        <ChooseCard
+          options={options}
+          title={t(grant.door === 'starter' ? 'saints.redeem.chooseStarter' : 'saints.redeem.pick')}
+          note={howWon({ door: grant.door, date: grant.date }, t)}
+          envelopeWidth={envelope.width}
+          onChoose={(id) => setCard(id)}
+          onChosen={() => setChooser('done')}
+        />
+      )}
+
       {/* Turned in 3D, this envelope is depth-sorted by iOS over the flat
           opening one: it gives way the instant the opening starts, standing
           exactly where that one does. */}
-      {phase === 'reading' && (
-        <EnvelopeTurn
-          envelope={envelope}
-          name={envelope.name}
-          lines={lines}
-          canTurn={!!saint}
-          riseTop={riseTop}
-          onAmen={() => redeem.mutateAsync({ grant, card })}
-          onTurnedBack={startOpening}
-          error={redeem.error?.message}
-          below={
-            choosing && (
-              <Chooser
-                title={t(
-                  grant.door === 'starter' ? 'saints.redeem.chooseStarter' : 'saints.redeem.choose',
-                )}
-                options={grant.choice.flatMap((id) => (byId[id] ? [byId[id]] : []))}
-                chosen={card}
-                onChoose={(id) => {
-                  void selectionTick()
-                  setCard(id)
-                }}
-              />
-            )
+      {phase === 'reading' && (saint || !choosing) && (
+        <Animated.View
+          key={saint?.id}
+          entering={
+            chooser === 'open'
+              ? SlideInDown.delay(envelopeRise - 650)
+                  .duration(650)
+                  .easing(Easing.out(Easing.cubic))
+              : undefined
           }
-        />
+          style={styles.fill}
+        >
+          <EnvelopeTurn
+            envelope={envelope}
+            name={envelope.name}
+            lines={lines}
+            canTurn={!!saint}
+            riseTop={riseTop}
+            onAmen={() => redeem.mutateAsync({ grant, card })}
+            onTurnedBack={startOpening}
+            error={redeem.error?.message}
+          />
+        </Animated.View>
       )}
 
       {phase !== 'reading' && saint?.cardImage && (
@@ -142,54 +154,7 @@ export function RedeemFlow({
   )
 }
 
-// The saints an envelope offers, as a column of names: the chosen one in the
-// accent, marked by a small ✠. Rank (for Mass) already orders the list.
-function Chooser({
-  title,
-  options,
-  chosen,
-  onChoose,
-}: {
-  title: string
-  options: SaintEntry[]
-  chosen: string | undefined
-  onChoose: (id: string) => void
-}) {
-  const { t } = useTranslation()
-  return (
-    <YStack alignSelf="stretch" gap="$xs">
-      <Typography variant="label" textTransform="uppercase" letterSpacing={1.5} textAlign="center">
-        {title}
-      </Typography>
-      {options.map((s) => {
-        const selected = s.id === chosen
-        return (
-          <Pressable
-            key={s.id}
-            accessibilityRole="radio"
-            accessibilityLabel={t('a11y.chooseSaint', { name: s.name })}
-            accessibilityState={{ selected }}
-            aria-selected={selected}
-            onPress={() => onChoose(s.id)}
-            style={styles.option}
-          >
-            <Typography
-              variant="interface"
-              fontSize="$4"
-              textAlign="center"
-              color={selected ? '$accent' : '$color'}
-            >
-              {selected ? `✠ ${s.name}` : s.name}
-            </Typography>
-          </Pressable>
-        )
-      })}
-    </YStack>
-  )
-}
-
 const styles = StyleSheet.create({
   fill: { flex: 1 },
   layer: { position: 'absolute', top: 0, right: 0, bottom: 0, left: 0, alignItems: 'center' },
-  option: { minHeight: 44, justifyContent: 'center' },
 })
