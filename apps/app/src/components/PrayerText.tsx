@@ -9,7 +9,6 @@ import type { StyledSegment } from '@/lib/typography/justifyText'
 import { DoInlineLine } from './prayer/DoInline'
 import { composeStyle } from './prayer/InlineMarkdown'
 import { parseInline } from './prayer/parseMarkdown'
-import { ResponseMark } from './prayer/ResponseMark'
 import { ReadingParagraph, useReadingLanguage } from './ReadingParagraph'
 
 // Emphasis is not an obstacle to justification — justif breaks across mixed
@@ -46,17 +45,12 @@ export function PrayerLines({
   fontWeight,
   fontStyle,
   language,
-  prefix,
   markup,
 }: {
   text: string
   fontWeight?: ComponentProps<typeof Text>['fontWeight']
   fontStyle?: ComponentProps<typeof Text>['fontStyle']
   language?: string
-  // Inline missal mark placed at the start of the first line (e.g. "℟. "
-  // for people responses). Rendered through `ResponseMark` so styling
-  // stays in sync with versicle/response markers across the app.
-  prefix?: string
   // 'do' renders each line with the Divinum Officium inline renderer (verse
   // numbers, pointing marks, small caps) instead of the markdown one.
   markup?: 'do'
@@ -72,34 +66,21 @@ export function PrayerLines({
 
   // Divinum Officium lines carry verse numbers, pointing marks and small caps
   // the segment model doesn't describe, so they reach the paragraph as
-  // ready-made text. A response mark is a separate leading element the breaker
-  // can't measure, and a prayer never mixes the two renderers mid-way, so its
-  // other lines stay with the platform too.
+  // ready-made text.
   return (
     <YStack gap="$xs">
       {lines.map((line, i) => {
-        const lead = i === 0 && prefix ? <ResponseMark value={prefix} /> : undefined
         if (!segments) {
           // Keyed by the line too: a DO line reaches ReadingParagraph as
           // children, so its last-line guard can't see the text change and
           // would keep a minHeight measured for a longer line, a blank gap.
           return (
             <ReadingParagraph key={`${i}|${line}`} base={base} language={lang}>
-              {lead}
               <DoInlineLine text={line} language={lang} reading={reading} />
             </ReadingParagraph>
           )
         }
-        return (
-          <ReadingParagraph
-            key={`${i}`}
-            source={segments[i]}
-            base={base}
-            language={lang}
-            lead={lead}
-            platformBreaks={!!prefix}
-          />
-        )
+        return <ReadingParagraph key={`${i}`} source={segments[i]} base={base} language={lang} />
       })}
     </YStack>
   )
