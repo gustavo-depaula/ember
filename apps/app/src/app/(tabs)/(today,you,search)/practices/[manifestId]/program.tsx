@@ -2,7 +2,6 @@ import DateTimePicker from '@react-native-community/datetimepicker'
 import { useQuery } from '@tanstack/react-query'
 import { addDays, differenceInCalendarDays, format, formatDistanceStrict, parseISO } from 'date-fns'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronLeft } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform, Pressable } from 'react-native'
@@ -221,18 +220,6 @@ export default function ProgramDetailScreen() {
   const name = localizeContent(manifest.name)
   const numeral = (i: number) => roman(i + 1)
   const dayName = (i: number) => entryOf(entries, i)?.name || t('program.dayLabel', { day: i + 1 })
-  const back = (
-    <Pressable
-      onPress={() => router.back()}
-      hitSlop={12}
-      accessibilityRole="button"
-      accessibilityLabel={t('a11y.goBack')}
-      style={{ alignSelf: 'flex-start', minHeight: 44, justifyContent: 'center' }}
-    >
-      <ChevronLeft size={24} strokeWidth={1.5} color={theme.color.val} />
-    </Pressable>
-  )
-
   const todayStr = format(today, 'yyyy-MM-dd')
 
   if (!plan.isInPlan) {
@@ -255,8 +242,8 @@ export default function ProgramDetailScreen() {
     return (
       <ScreenLayout>
         <YStack paddingVertical="$lg">
-          {back}
           <PracticeHeader
+            onBack={() => router.back()}
             name={name}
             caption={t(monthly ? 'program.durationMonths' : 'program.durationDays', { count })}
           />
@@ -352,9 +339,11 @@ export default function ProgramDetailScreen() {
   return (
     <ScreenLayout>
       <YStack paddingVertical="$lg">
-        {back}
-
-        <PracticeHeader name={name} caption={t('program.prayedOf', { prayed, count: totalDays })} />
+        <PracticeHeader
+          onBack={() => router.back()}
+          name={name}
+          caption={t('program.prayedOf', { prayed, count: totalDays })}
+        />
 
         <DayStars days={shown.map((i) => ({ state: states[i], date: dates[i] }))} />
 

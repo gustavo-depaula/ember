@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronDown, ChevronLeft } from 'lucide-react-native'
+import { ChevronDown } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -295,17 +295,8 @@ export default function PlanPracticeScreen() {
   return (
     <ScreenLayout>
       <YStack paddingVertical="$lg">
-        <Pressable
-          onPress={() => router.back()}
-          hitSlop={12}
-          accessibilityRole="button"
-          accessibilityLabel={t('a11y.goBack')}
-          style={{ alignSelf: 'flex-start', minHeight: 44, justifyContent: 'center' }}
-        >
-          <ChevronLeft size={24} strokeWidth={1.5} color={theme.color.val} />
-        </Pressable>
-
         <PracticeHeader
+          onBack={() => router.back()}
           name={getSlotName(first, t)}
           variant={
             group && variantLabel ? (

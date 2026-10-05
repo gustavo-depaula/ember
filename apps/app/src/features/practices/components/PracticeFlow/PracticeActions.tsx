@@ -9,6 +9,7 @@ import {
   FolderPlus,
   Loader,
   Star,
+  Type,
 } from 'lucide-react-native'
 import { type ComponentType, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -24,6 +25,7 @@ import { getAlternativeGroup } from '@/content/resolver'
 import { AddToCollectionSheet } from '@/features/library/AddToCollectionSheet'
 import { useSaveToggle } from '@/features/library/savedHooks'
 import { usePinToggle } from '@/features/pinning/hooks'
+import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSettingsSheet'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { PracticePlanEditor, usePracticePlan } from '../PracticePlan'
@@ -46,6 +48,7 @@ export function usePracticeActions(manifest: PracticeManifest) {
   const group = useMemo(() => getAlternativeGroup(manifest.id), [manifest.id])
   const [sheetOpen, setSheetOpen] = useState(false)
   const [collectionOpen, setCollectionOpen] = useState(false)
+  const [settingsOpen, setSettingsOpen] = useState(false)
 
   const afterSheet = (next: () => void) => {
     if (!sheetOpen) return next()
@@ -67,6 +70,12 @@ export function usePracticeActions(manifest: PracticeManifest) {
     closeSheet: () => setSheetOpen(false),
     collectionOpen,
     closeCollection: () => setCollectionOpen(false),
+    settingsOpen,
+    openSettings: () => {
+      lightTap()
+      setSettingsOpen(true)
+    },
+    closeSettings: () => setSettingsOpen(false),
     onPlan: () =>
       afterSheet(() => {
         if (!plan.isInPlan) return plan.addToPlan()
@@ -126,8 +135,9 @@ export function PracticeVariant({ actions }: { actions: Actions }) {
 }
 
 /**
- * The two actions everyone reads — add to plan, save — and ⋯ for the rest. The
- * plan icon is a calendar: a bare ✓ read as "mark this prayer as prayed".
+ * The two actions everyone reads — add to plan, save — then how the page is
+ * set (reading & language) and ⋯ for the rest. The plan icon is a calendar: a
+ * bare ✓ read as "mark this prayer as prayed".
  */
 export function PracticeActionIcons({ actions }: { actions: Actions }) {
   const { t } = useTranslation()
@@ -152,6 +162,14 @@ export function PracticeActionIcons({ actions }: { actions: Actions }) {
         accessibilityRole="switch"
         accessibilityState={{ checked: save.saved, busy: save.isWorking }}
         accessibilityLabel={save.saved ? t('library.saved') : t('library.save')}
+      />
+      <Glyph
+        icon={Type}
+        active={false}
+        onPress={actions.openSettings}
+        accessibilityRole="button"
+        accessibilityLabel={t('a11y.readingSettings')}
+        testID="reading-settings"
       />
       <Glyph
         icon={Ellipsis}
@@ -206,7 +224,7 @@ function Glyph({
   )
 }
 
-/** The ⋯ sheet, plus the collection and plan editors the header opens. */
+/** The ⋯ sheet, plus the settings, collection and plan editors the header opens. */
 export function PracticeActionSheets({ actions }: { actions: Actions }) {
   const { manifest, plan } = actions
   return (
@@ -218,6 +236,7 @@ export function PracticeActionSheets({ actions }: { actions: Actions }) {
         onClose={actions.closeCollection}
       />
       <PracticePlanEditor plan={plan} />
+      <ReadingSettingsSheet open={actions.settingsOpen} onClose={actions.closeSettings} />
     </>
   )
 }

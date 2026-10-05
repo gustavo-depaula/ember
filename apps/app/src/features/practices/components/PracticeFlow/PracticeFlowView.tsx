@@ -2,10 +2,9 @@
 
 import { type UseQueryResult, useQueryClient } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
-import { ChevronLeft, Type } from 'lucide-react-native'
-import { type ReactNode, useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, type StyleProp, type ViewStyle } from 'react-native'
+import { Pressable } from 'react-native'
 import Animated, {
   Easing,
   useAnimatedStyle,
@@ -13,25 +12,16 @@ import Animated, {
   withRepeat,
   withTiming,
 } from 'react-native-reanimated'
-import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { Text, useTheme, useThemeName, YStack } from 'tamagui'
-import {
-  AnimatedPressable,
-  GlassSurface,
-  PrimitiveBlock,
-  ScreenLayout,
-  Typography,
-} from '@/components'
+import { Text, YStack } from 'tamagui'
+import { AnimatedPressable, PrimitiveBlock, ScreenLayout, Typography } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import type { PracticeManifest } from '@/content/manifestTypes'
 import { PreprocessProvider } from '@/content/preprocessRuntime'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
-import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSettingsSheet'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useStableToday, useToday } from '@/hooks/useToday'
-import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -123,14 +113,12 @@ function PracticeReady({
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
   const { t } = useTranslation()
-  const theme = useTheme()
-  const insets = useSafeAreaInsets()
+  const router = useRouter()
   const now = useToday()
   const realToday = useStableToday()
   const isFutureDate = now.getTime() > realToday.getTime()
   const readingMargin = useReadingMargin()
   const practiceName = localizeContent(manifest.name)
-  const [settingsOpen, setSettingsOpen] = useState(false)
   const actions = usePracticeActions(manifest)
 
   // Mount the primitive tree in chunks: long practices (Mass, offices) render
@@ -164,6 +152,7 @@ function PracticeReady({
                 caption={formatLocalized(now, t('practice.headerDate')).toLocaleLowerCase()}
                 variant={<PracticeVariant actions={actions} />}
                 actions={<PracticeActionIcons actions={actions} />}
+                onBack={() => router.back()}
               />
 
               <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$md">
@@ -215,23 +204,6 @@ function PracticeReady({
             )}
           </ScreenLayout>
 
-          {/* The native tab bar is hidden on this screen (see (tabs)/_layout). These
-            two Liquid Glass buttons replace it: back on the left, reading &
-            language settings on the right. */}
-          <BackButton />
-
-          <GlassIconButton
-            onPress={() => {
-              lightTap()
-              setSettingsOpen(true)
-            }}
-            accessibilityLabel={t('readingConfig.reading')}
-            style={{ position: 'absolute', bottom: insets.bottom + 12, right: 16, zIndex: 10 }}
-          >
-            <Type size={20} color={theme.color.val} />
-          </GlassIconButton>
-
-          <ReadingSettingsSheet open={settingsOpen} onClose={() => setSettingsOpen(false)} />
           <PracticeActionSheets actions={actions} />
         </YStack>
       </ImageViewerProvider>
@@ -244,6 +216,7 @@ function PracticeReady({
 // chapters → bolls.life) can hold this for several seconds.
 function PracticeLoading({ manifest }: { manifest: PracticeManifest }) {
   const { t } = useTranslation()
+  const router = useRouter()
   const now = useToday()
   const readingMargin = useReadingMargin()
   const actions = usePracticeActions(manifest)
@@ -256,6 +229,7 @@ function PracticeLoading({ manifest }: { manifest: PracticeManifest }) {
             caption={formatLocalized(now, t('practice.headerDate')).toLocaleLowerCase()}
             variant={<PracticeVariant actions={actions} />}
             actions={<PracticeActionIcons actions={actions} />}
+            onBack={() => router.back()}
           />
           <YStack
             paddingHorizontal={readingMargin}
@@ -268,7 +242,6 @@ function PracticeLoading({ manifest }: { manifest: PracticeManifest }) {
           </YStack>
         </YStack>
       </ScreenLayout>
-      <BackButton />
       <PracticeActionSheets actions={actions} />
     </YStack>
   )
@@ -333,77 +306,6 @@ function SkeletonLine({
       backgroundColor={color}
       opacity={opacity}
     />
-  )
-}
-
-// The native tab bar is hidden on this screen (see (tabs)/_layout), so a floating
-// glass button is the way back — from the loaded page and while it loads.
-function BackButton() {
-  const { t } = useTranslation()
-  const router = useRouter()
-  const theme = useTheme()
-  const insets = useSafeAreaInsets()
-  return (
-    <GlassIconButton
-      onPress={() => {
-        lightTap()
-        router.back()
-      }}
-      accessibilityLabel={t('common.back')}
-      style={{ position: 'absolute', bottom: insets.bottom + 12, left: 16, zIndex: 10 }}
-    >
-      <ChevronLeft size={22} color={theme.color.val} />
-    </GlassIconButton>
-  )
-}
-
-const glassButtonStyle = {
-  width: 52,
-  height: 52,
-  borderRadius: 26,
-  alignItems: 'center',
-  justifyContent: 'center',
-  overflow: 'hidden',
-} as const
-
-// Subtle drop shadow so the floating button reads against varied prayer content.
-const glassShadowStyle = {
-  shadowColor: '#000',
-  shadowOpacity: 0.1,
-  shadowRadius: 6,
-  shadowOffset: { width: 0, height: 2 },
-  elevation: 2,
-} as const
-
-// A floating circular Liquid Glass button. Plain Pressable (not AnimatedPressable)
-// because animating opacity on a glass surface or its parent kills the effect;
-// GlassSurface's own `isInteractive` provides the native press highlight. No color
-// tint (kept clean) — the soft shadow gives the glass a defined edge so it reads
-// over the prayer text.
-function GlassIconButton({
-  onPress,
-  accessibilityLabel,
-  style,
-  children,
-}: {
-  onPress: () => void
-  accessibilityLabel: string
-  style: StyleProp<ViewStyle>
-  children: ReactNode
-}) {
-  const isDark = useThemeName().startsWith('dark')
-  return (
-    <Pressable
-      onPress={onPress}
-      hitSlop={8}
-      accessibilityRole="button"
-      accessibilityLabel={accessibilityLabel}
-      style={[style, glassShadowStyle]}
-    >
-      <GlassSurface isDark={isDark} style={glassButtonStyle}>
-        {children}
-      </GlassSurface>
-    </Pressable>
   )
 }
 
