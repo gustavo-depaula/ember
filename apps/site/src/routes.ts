@@ -127,8 +127,9 @@ export const href = {
   calendarDay: (l: Locale, date: Date) => join(l, sections[l].calendar, isoDate(date)),
   mass: (l: Locale, date?: Date) => join(l, sections[l].mass, date && isoDate(date)),
   latinMass: (l: Locale, date?: Date) => join(l, sections[l].latinMass, date && isoDate(date)),
-  office: (l: Locale, date?: Date, hour?: OfficeHour) =>
-    join(l, sections[l].office, date && isoDate(date), hour && hourSlugs[l][hour]),
+  /** `form` is a breviary other than the Roman one of 1960: its slug (see `officeForms`). */
+  office: (l: Locale, date?: Date, hour?: OfficeHour, form?: string) =>
+    join(l, sections[l].office, form, date && isoDate(date), hour && hourSlugs[l][hour]),
   massTimesPlace: (l: Locale, ...place: string[]) => join(l, sections[l].massTimes, ...place),
   church: (l: Locale, id: string) =>
     join(l, sections[l].massTimes, l === 'pt-BR' ? 'igreja' : 'church', id),

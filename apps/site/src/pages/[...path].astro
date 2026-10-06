@@ -63,7 +63,7 @@ const { page, locale, alternates, canonical } = entry
 {page.view === 'calendarDay' && <CalendarDayView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} />}
 {page.view === 'mass' && <MassView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} isToday={page.today} />}
 {page.view === 'latinMass' && <LatinMassView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} isToday={page.today} />}
-{page.view === 'office' && <OfficeView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} hour={page.hour} isToday={page.today} />}
+{page.view === 'office' && <OfficeView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} hour={page.hour} isToday={page.today} form={page.form} />}
 {page.view === 'massTimes' && <MassTimesView locale={locale} alternates={alternates} />}
 {page.view === 'churchShell' && <MassTimesView locale={locale} alternates={alternates} church />}
 {page.view === 'church' && <ChurchView locale={locale} alternates={alternates} id={page.id} />}

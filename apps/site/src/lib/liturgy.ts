@@ -1,8 +1,10 @@
 import {
   buildDoYear,
   type DoCalendarDay,
+  type DoVersionId,
   doVersionNames,
   efVersion,
+  parseRank,
   resolveDay,
 } from '@ember/divinum-officium'
 import {
@@ -17,17 +19,20 @@ import { buildOfYearCalendar, type OfCelebration, resolveOfDay } from '@ember/ma
 import type { MassFormulary } from '@ember/missal-schema'
 import { QueryClient } from '@tanstack/react-query'
 import type { Primitive } from '@/content/primitives'
+import { getAlternativeGroup } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 import { loadMassFormulary, loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
 import { resolveReadingSet } from '@/lib/mass-of/readings'
 import { doHourSource } from '@/sources/divinum-officium/do-hour'
 import { createCorpusDoLoader } from '@/sources/divinum-officium/loader'
 import type { SourceFetchContext } from '@/sources/types'
-import { isoDate, type OfficeHour } from '~/routes'
+import { isoDate, type OfficeHour, slugOf } from '~/routes'
 import { ofTexts } from './config'
 import { bootCorpus } from './corpus'
+import { inLiturgyWindow, liturgyDates } from './dates'
 import { type Locale, translator, withLocale } from './locale'
 import { renderPractice } from './practice'
+import { addDays, today } from './today'
 
 type Localized = Record<string, string | undefined>
 
@@ -195,22 +200,14 @@ export type EfDayView = {
 export async function loadEfDay(date: Date, locale: Locale): Promise<EfDayView> {
   await bootCorpus()
   const t = translator(locale)
-  const day = await resolveDay({
-    loader: doLoader(),
-    day: date.getDate(),
-    month: date.getMonth() + 1,
-    year: date.getFullYear(),
-    version: efVersion,
-  })
+  const office = await loadOfficeDay(date, 'rubrics-1960')
+  // The year calendar's entry may be a saint the day only commemorates, so it
+  // is asked for the holy day alone.
   const named = (await efYear(date.getFullYear())).get(`${date.getMonth() + 1}-${date.getDate()}`)
-  // dayname[1] is the office of the day as "Name\tRank". The year calendar's
-  // entry may be a saint the day only commemorates, so it is asked for the
-  // holy day alone.
-  const [name, rank] = (day.dayname[1] ?? '').split('\t')
   return {
-    name: name.trim(),
-    rankText: rank?.trim() ?? '',
-    commemoration: day.dayname[2]?.trim() || undefined,
+    name: office.name,
+    rankText: office.rank,
+    commemoration: office.also,
     dayName: getLiturgicalDayName(date, 'ef', { t }),
     seasonName: t(`home.seasonName.${getLiturgicalSeason(date, 'ef')}`),
     holyDay: named?.holyDayOfObligation ?? false,
@@ -230,15 +227,132 @@ export async function loadOfMass(date: Date, locale: Locale): Promise<Primitive[
   return rendered?.primitives
 }
 
-/** One hour of the Roman Breviary (rubrics of 1960) for a date. */
+/**
+ * A breviary the Office can be prayed from: a set of rubrics, or a votive
+ * office under one. They are the corpus's breviary practices, the same list
+ * the app offers under Form.
+ */
+export type OfficeForm = {
+  /** The practice it is in the app. */
+  practiceId: string
+  /** Its place in the URL; the Roman Breviary of 1960 has none. */
+  slug?: string
+  family: 'roman' | 'monastic'
+  familyName: string
+  label: string
+  description: string
+  version: DoVersionId
+  /** `Hodie` for the office of the day, else a Divinum Officium votive code. */
+  votive: string
+}
+
+const defaultForm = 'breviary'
+const families = [
+  { id: 'breviary', family: 'roman' },
+  { id: 'breviary-monastic', family: 'monastic' },
+] as const
+
+export async function officeForms(locale: Locale): Promise<OfficeForm[]> {
+  await bootCorpus()
+  return withLocale(locale, () =>
+    families.flatMap(({ id, family }) => {
+      const group = getAlternativeGroup(id)
+      const idOf = (member: { manifest: { id: string } }) => slugOf(member.manifest.id)
+      const familyName = localizeContent(
+        group?.members.find((m) => idOf(m) === id)?.manifest.name ?? {},
+      )
+      return (group?.members ?? []).flatMap((member): OfficeForm[] => {
+        const vars = member.manifest.vars
+        if (!vars?.rubrics || !(vars.rubrics in doVersionNames)) return []
+        return [
+          {
+            practiceId: idOf(member),
+            slug: idOf(member) === defaultForm ? undefined : idOf(member).replace(/^breviary-/, ''),
+            family,
+            familyName,
+            label: member.label,
+            description: member.description,
+            version: vars.rubrics as DoVersionId,
+            votive: vars.votive ?? 'Hodie',
+          },
+        ]
+      })
+    }),
+  )
+}
+
+// Every form is built for every hour of every day it covers, so only the
+// breviary most people pray gets the long window. The others cover the days
+// around the build, which the daily rebuild moves along; a reader a timezone
+// away still finds their own yesterday or tomorrow.
+function officeWindow(form: OfficeForm): { past: number; future: number } | undefined {
+  if (!form.slug) return undefined
+  return form.votive === 'Hodie' ? { past: 1, future: 3 } : { past: 1, future: 1 }
+}
+
+export function officeDates(form: OfficeForm): Date[] {
+  const window = officeWindow(form)
+  if (!window) return liturgyDates()
+  const out: Date[] = []
+  for (let offset = -window.past; offset <= window.future; offset++)
+    out.push(addDays(today, offset))
+  return out
+}
+
+export function hasOfficePage(form: OfficeForm, date: Date): boolean {
+  const window = officeWindow(form)
+  if (!window) return inLiturgyWindow(date)
+  const days = Math.round((date.getTime() - today.getTime()) / 86_400_000)
+  return days >= -window.past && days <= window.future
+}
+
+export type OfficeDayView = {
+  name: string
+  rank: string
+  /** The season's day or the saint the office only commemorates. */
+  also?: string
+}
+
+/** The office of a day under a set of rubrics: what is kept, and at what rank. */
+export async function loadOfficeDay(date: Date, version: DoVersionId): Promise<OfficeDayView> {
+  await bootCorpus()
+  const day = await resolveDay({
+    loader: doLoader(),
+    day: date.getDate(),
+    month: date.getMonth() + 1,
+    year: date.getFullYear(),
+    version: doVersionNames[version],
+  })
+  const parsed = parseRank(day.winnerSections)
+  const [headline, headlineRank] = (day.dayname[1] ?? '').split('\t')
+  // The 1960 code ranks by class; the files keep the older names beside a number.
+  const classes = /1960|^monastic$|barroux/.test(version)
+  const byClass = (rank: number) =>
+    rank >= 6
+      ? 'I. classis'
+      : rank >= 5
+        ? 'II. classis'
+        : rank >= 2
+          ? 'III. classis'
+          : 'IV. classis'
+  const rankName = parsed?.rankName || headlineRank?.trim() || ''
+  return {
+    name: parsed?.title || headline.trim(),
+    rank: classes && parsed && !/classis/i.test(rankName) ? byClass(parsed.rank) : rankName,
+    also: day.dayname[2]?.trim() || undefined,
+  }
+}
+
+/** One hour of a breviary for a date. */
 export async function loadOfficeHour(
   date: Date,
   hour: OfficeHour,
   locale: Locale,
+  form: Pick<OfficeForm, 'version' | 'votive'> = { version: 'rubrics-1960', votive: 'Hodie' },
 ): Promise<Primitive[]> {
   await bootCorpus()
   const ctx = {
-    params: { hour, version: 'rubrics-1960', date: isoDate(date) },
+    params: { hour, version: form.version, votive: form.votive, date: isoDate(date) },
     prefs: { lang: locale, translation: 'DRB' },
     date,
     queryClient: new QueryClient(),

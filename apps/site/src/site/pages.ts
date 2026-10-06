@@ -7,6 +7,7 @@ import { listBookNodes, listBooks } from '~/lib/books'
 import { isLocalized, listEntries } from '~/lib/catalog'
 import { bootCorpus } from '~/lib/corpus'
 import { calendarYears, liturgyDates } from '~/lib/dates'
+import { officeDates, officeForms } from '~/lib/liturgy'
 import { type Locale, locales } from '~/lib/locale'
 import { indexedChurches, places } from '~/lib/massTimes/data'
 import { listPrayers } from '~/lib/prayers'
@@ -34,7 +35,7 @@ export type Page =
   | { view: 'calendarDay'; date: string }
   | { view: 'mass'; date: string; today?: boolean }
   | { view: 'latinMass'; date: string; today?: boolean }
-  | { view: 'office'; date: string; hour?: OfficeHour; today?: boolean }
+  | { view: 'office'; date: string; hour?: OfficeHour; today?: boolean; form?: string }
   | { view: 'massTimes' }
   | { view: 'churchShell' }
   | { view: 'church'; id: string }
@@ -155,14 +156,30 @@ async function drafts(): Promise<Draft[]> {
 
   out.push({ page: { view: 'mass', date: iso, today: true }, path: (l) => href.mass(l) })
   out.push({ page: { view: 'latinMass', date: iso, today: true }, path: (l) => href.latinMass(l) })
-  out.push({ page: { view: 'office', date: iso, today: true }, path: (l) => href.office(l) })
   for (const date of liturgyDates()) {
     const d = isoDate(date)
     out.push({ page: { view: 'mass', date: d }, path: (l) => href.mass(l, date) })
     out.push({ page: { view: 'latinMass', date: d }, path: (l) => href.latinMass(l, date) })
-    out.push({ page: { view: 'office', date: d }, path: (l) => href.office(l, date) })
-    for (const hour of officeHours) {
-      out.push({ page: { view: 'office', date: d, hour }, path: (l) => href.office(l, date, hour) })
+  }
+  // The forms are the same in every language; only their names differ.
+  for (const form of await officeForms('en-US')) {
+    const slug = form.slug
+    out.push({
+      page: { view: 'office', date: iso, today: true, form: slug },
+      path: (l) => href.office(l, undefined, undefined, slug),
+    })
+    for (const date of officeDates(form)) {
+      const d = isoDate(date)
+      out.push({
+        page: { view: 'office', date: d, form: slug },
+        path: (l) => href.office(l, date, undefined, slug),
+      })
+      for (const hour of officeHours) {
+        out.push({
+          page: { view: 'office', date: d, hour, form: slug },
+          path: (l) => href.office(l, date, hour, slug),
+        })
+      }
     }
   }
 

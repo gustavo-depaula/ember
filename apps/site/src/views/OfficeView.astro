@@ -7,7 +7,7 @@ import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
 import { longDate } from '~/lib/dates'
-import { loadEfDay, loadOfficeHour } from '~/lib/liturgy'
+import { hasOfficePage, loadOfficeDay, loadOfficeHour, officeForms } from '~/lib/liturgy'
 import type { Locale } from '~/lib/locale'
 import { hourNames, href, type OfficeHour, officeHours } from '~/routes'
 
@@ -18,20 +18,39 @@ interface Props {
   /** Omitted on the day's own page, which lists the hours. */
   hour?: OfficeHour
   isToday?: boolean
+  /** The breviary's slug; omitted for the Roman Breviary of 1960. */
+  form?: string
 }
 
-const { locale, alternates, date, hour, isToday } = Astro.props
+const { locale, alternates, date, hour, isToday, form: slug } = Astro.props
 const pt = locale === 'pt-BR'
-const day = await loadEfDay(date, locale)
-const primitives = hour ? await loadOfficeHour(date, hour, locale) : undefined
+const forms = await officeForms(locale)
+const form = forms.find((f) => f.slug === slug) ?? forms[0]
+const votive = form.votive !== 'Hodie'
+const day = await loadOfficeDay(date, form.version)
+const primitives = hour ? await loadOfficeHour(date, hour, locale, form) : undefined
 const names = hourNames[locale]
-const breviary = pt ? 'Breviário Romano' : 'Roman Breviary'
+const breviary = form.familyName
 const title = hour
-  ? `${names[hour]} — ${breviary}, ${longDate(date, locale)}`
-  : `${pt ? 'Ofício Divino' : 'Divine Office'} — ${longDate(date, locale)}`
+  ? `${names[hour]} — ${breviary} (${form.label}), ${longDate(date, locale)}`
+  : `${pt ? 'Ofício Divino' : 'Divine Office'} — ${breviary} (${form.label}), ${longDate(date, locale)}`
+const subject = votive ? form.label : day.name
 const description = pt
-  ? `${hour ? `${names[hour]} do ` : ''}Breviário Romano (rubricas de 1960) para ${longDate(date, locale)}: ${day.name}. Latim e português lado a lado.`
-  : `${hour ? `${names[hour]} of the ` : 'The '}Roman Breviary (rubrics of 1960) for ${longDate(date, locale)}: ${day.name}. Latin and English side by side.`
+  ? `${hour ? `${names[hour]} do ` : ''}${breviary} (${form.label}) para ${longDate(date, locale)}: ${subject}. Latim e português lado a lado.`
+  : `${hour ? `${names[hour]} of the ` : 'The '}${breviary} (${form.label}) for ${longDate(date, locale)}: ${subject}. Latin and English side by side.`
+
+// The same day and hour in another breviary, or that breviary's today where it does not reach this day.
+const inForm = (other: (typeof forms)[number]) =>
+  hasOfficePage(other, date) && !isToday
+    ? href.office(locale, date, hour, other.slug)
+    : href.office(locale, undefined, undefined, other.slug)
+const groups = [
+  { title: pt ? 'Breviário Romano' : 'Roman Breviary', forms: forms.filter((f) => f.family === 'roman' && f.votive === 'Hodie') },
+  { title: pt ? 'Breviário Monástico' : 'Monastic Breviary', forms: forms.filter((f) => f.family === 'monastic' && f.votive === 'Hodie') },
+  { title: pt ? 'Ofícios votivos' : 'Votive offices', forms: forms.filter((f) => f.family === 'roman' && f.votive !== 'Hodie') },
+  { title: pt ? 'Votivos monásticos' : 'Monastic votive offices', forms: forms.filter((f) => f.family === 'monastic' && f.votive !== 'Hodie') },
+].filter((group) => group.forms.length > 0)
+const to = (d: Date | undefined, h?: OfficeHour) => href.office(locale, d, h, form.slug)
 const whenToPray: Record<OfficeHour, string> = pt
   ? { Matutinum: 'De madrugada', Laudes: 'Ao amanhecer', Prima: 'Primeira hora', Tertia: 'Meio da manhã', Sexta: 'Meio-dia', Nona: 'Meio da tarde', Vespera: 'Ao entardecer', Completorium: 'Antes de dormir' }
   : { Matutinum: 'In the night', Laudes: 'At dawn', Prima: 'The first hour', Tertia: 'Mid-morning', Sexta: 'Midday', Nona: 'Mid-afternoon', Vespera: 'At evening', Completorium: 'Before sleep' }
@@ -44,7 +63,7 @@ const whenToPray: Record<OfficeHour, string> = pt
         <p class="rail-title">{pt ? 'Horas' : 'Hours'}</p>
         <div class="rail-list">
           {officeHours.map((h) => (
-            <a href={href.office(locale, date, h)} aria-current={h === hour ? 'page' : undefined}>{names[h]}</a>
+            <a href={to(date, h)} aria-current={h === hour ? 'page' : undefined}>{names[h]}</a>
           ))}
         </div>
       </nav>
@@ -57,33 +76,65 @@ const whenToPray: Record<OfficeHour, string> = pt
         <div class="rail-list">
           <a href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina' : 'Traditional Latin Mass'}</a>
           <a href={href.calendarDay(locale, date)}>{pt ? 'Calendário' : 'Calendar'}</a>
-          <a href={href.prayer(locale, 'breviary')}>{pt ? 'Outras rubricas' : 'Other rubrics'}</a>
         </div>
       </nav>
+      {groups.map((group) => (
+        <nav class="rail-block" aria-label={group.title}>
+          <p class="rail-title">{group.title}</p>
+          <div class="rail-list">
+            {group.forms.map((f) => (
+              <a href={inForm(f)} aria-current={f === form ? 'page' : undefined} title={f.description}>{f.label}</a>
+            ))}
+          </div>
+        </nav>
+      ))}
     </Fragment>
     <article>
     <header class="title-page">
       <div class="cross-rule" aria-hidden="true">✠</div>
       <h1>{breviary}</h1>
-      <p class="variant">{pt ? 'Rubricas de 1960' : 'Rubrics of 1960'}</p>
+      <p class="variant">{form.label}</p>
       <DayNav
         locale={locale}
         date={date}
-        to={(d) => href.office(locale, d, hour)}
-        todayBase={isToday ? href.office(locale) : undefined}
+        to={(d) => to(d, hour)}
+        todayBase={isToday ? to(undefined) : undefined}
+        has={(d) => hasOfficePage(form, d)}
       />
     </header>
 
-    <section class="stack-sm day">
-      <p class="feast" lang="la">{day.name}</p>
-      <p class="t-kicker" lang="la">{day.rankText}</p>
-    </section>
+    {votive ? (
+      <section class="stack-sm day">
+        <p class="feast">{form.label}</p>
+        <p class="lede">{form.description}</p>
+      </section>
+    ) : (
+      <section class="stack-sm day">
+        <p class="feast" lang="la">{day.name}</p>
+        <p class="t-kicker" lang="la">{day.rank}</p>
+        {day.also && <p class="also-kept" lang="la">{day.also}</p>}
+      </section>
+    )}
+
+    <details class="forms narrow-only">
+      <summary>{pt ? 'Outros breviários e ofícios votivos' : 'Other breviaries and votive offices'}</summary>
+      {groups.map((group) => (
+        <div class="form-group">
+          <div class="picker-label">{group.title}</div>
+          <div class="picker">
+            {group.forms.map((f) => (
+              <a href={inForm(f)} aria-current={f === form ? 'page' : undefined}>{f.label}</a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </details>
 
     <nav class="hours narrow-only" aria-label={pt ? 'Horas' : 'Hours'}>
       <div class="picker-label">{pt ? 'Hora' : 'Hour'}</div>
       <div class="picker">
         {officeHours.map((h) => (
-          <a href={href.office(locale, date, h)} aria-current={h === hour ? 'page' : undefined}>{names[h]}</a>
+          <a href={to(date, h)} aria-current={h === hour ? 'page' : undefined}>{names[h]}</a>
         ))}
       </div>
     </nav>
@@ -97,7 +148,7 @@ const whenToPray: Record<OfficeHour, string> = pt
       <ul class="rows hour-list">
         {officeHours.map((h) => (
           <li>
-            <a class="row" href={href.office(locale, date, h)}>
+            <a class="row" href={to(date, h)}>
               <span class="grow">
                 <span class="row-title">{names[h]}</span>
                 <span class="t-annotation" style="display:block">{whenToPray[h]}</span>
@@ -111,7 +162,6 @@ const whenToPray: Record<OfficeHour, string> = pt
 
     <nav class="stack-sm also narrow-only">
       <a class="go" href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina deste dia' : 'The Traditional Latin Mass of this day'} →</a>
-      <a class="go" href={href.prayer(locale, 'breviary')}>{pt ? 'Outras rubricas e ofícios votivos' : 'Other rubrics and votive offices'} →</a>
     </nav>
     <p class="t-annotation credit">
       {pt ? 'Textos do projeto Divinum Officium.' : 'Texts from the Divinum Officium project.'}
@@ -131,8 +181,26 @@ const whenToPray: Record<OfficeHour, string> = pt
     color: var(--color-burgundy);
     text-wrap: balance;
   }
+  .also-kept {
+    font-style: italic;
+    color: var(--color-secondary);
+  }
   .hours {
     padding-top: var(--space-lg);
+  }
+  .forms {
+    padding-top: var(--space-md);
+  }
+  .forms summary {
+    cursor: pointer;
+    font-family: var(--font-heading);
+    font-size: 13px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--gold-ink);
+  }
+  .form-group {
+    padding-top: var(--space-md);
   }
   .picker a {
     min-height: 40px;
