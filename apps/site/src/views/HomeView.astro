@@ -1,8 +1,7 @@
 ---
 import { getImage } from 'astro:assets'
 import { aspirationFor } from '@/features/home/aspirations'
-import cornerDark from '../../../app/assets/textures/frame_corner_dark.png'
-import cornerLight from '../../../app/assets/textures/frame_corner_light.png'
+import appCard from '../../../hearth/site/img/cards/peter.webp'
 import chalice from '../../../app/assets/textures/horizontal_marker_chalice.png'
 import Celebrations from '~/components/Celebrations.astro'
 import MassTimesNotice from '~/components/MassTimesNotice.astro'
@@ -33,9 +32,21 @@ const dateTitle = monthDay.map((p) => (p.type === 'month' ? p.value.charAt(0).to
 const years = calendarYears()
 const ahead = [1, 2, 3, 4].map((n) => addDays(today, n)).filter((d) => years.includes(d.getFullYear()))
 
-const light = await getImage({ src: cornerLight, width: 900, format: 'webp', quality: 80 })
-const dark = await getImage({ src: cornerDark, width: 900, format: 'webp', quality: 80 })
 const marker = await getImage({ src: chalice, width: 400, format: 'webp' })
+
+// The app takes a place among the day's cards, as one more thing to open.
+const appArt = await getImage({ src: appCard, width: 440, format: 'webp' })
+const features = [
+  ...home.features,
+  {
+    kicker: pt ? 'No seu celular' : 'On your phone',
+    title: pt ? 'O app Ember' : 'The Ember app',
+    subtitle: s('nudgeBody'),
+    href: href.landing(locale),
+    art: appArt.src,
+    tone: { from: '#3a2f1c', to: '#1a1510' },
+  },
+]
 
 const slotLabel = pt
   ? { first: 'Primeira leitura', psalm: 'Salmo', second: 'Segunda leitura', gospel: 'Evangelho' }
@@ -77,16 +88,7 @@ const pillars = pt
   }}
 >
   <div class="wide home">
-    <aside class="intro" aria-label={s('theApp')}>
-      <p><strong>{s('introLead')}</strong> {s('introBody')}</p>
-      <a class="go" href={href.landing(locale)}>{s('seeTheApp')} →</a>
-      <button class="tool" type="button" data-app-dismiss="intro" aria-label={s('dismiss')}>×</button>
-    </aside>
     <header class="today">
-      <div class="corner" aria-hidden="true">
-        <img class="only-light" src={light.src} alt="" width="900" height={light.attributes.height} />
-        <img class="only-dark" src={dark.src} alt="" width="900" height={dark.attributes.height} loading="lazy" />
-      </div>
       <p class="kicker">
         <a href={href.section(locale, 'calendar')}>{weekday} · {home.of.seasonName}</a>
       </p>
@@ -104,8 +106,9 @@ const pillars = pt
     <div class="dash">
       <div class="dash-main">
         <section aria-label={s('today')}>
-          <div class="features">
-            {home.features.map((feature) => (
+          <div class="carousel">
+          <div class="features" data-carousel>
+            {features.map((feature) => (
               <a class="feature" href={feature.href} style={`--from:${feature.tone.from};--to:${feature.tone.to}`}>
                 {feature.art ? (
                   <span class="feature-art"><img src={feature.art} alt="" loading="lazy" decoding="async" /></span>
@@ -119,6 +122,8 @@ const pillars = pt
                 </span>
               </a>
             ))}
+          </div>
+            <button class="carousel-next" type="button" data-carousel-next hidden aria-label={pt ? 'Próximos' : 'More'}>→</button>
           </div>
         </section>
 
@@ -232,22 +237,7 @@ const pillars = pt
     gap: var(--space-xl);
   }
   .today {
-    position: relative;
-    padding-top: clamp(96px, 16vw, 150px);
-  }
-  /* The app's home header: an illuminated corner, mirrored into the top right. */
-  .corner {
-    position: absolute;
-    top: -6px;
-    right: calc(-1 * var(--gutter));
-    width: min(82%, 620px);
-    pointer-events: none;
-    z-index: -1;
-  }
-  .corner img {
-    width: 100%;
-    height: auto;
-    transform: scaleX(-1);
+    padding-top: var(--space-xl);
   }
   .kicker {
     font-family: var(--font-heading);
@@ -351,12 +341,47 @@ const pillars = pt
     line-height: 27px;
     text-wrap: balance;
   }
+  /* The app's carousel: the next card shows its edge, so the row reads as one to turn. */
+  .carousel {
+    position: relative;
+  }
   .features {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    display: flex;
     gap: 16px;
+    overflow-x: auto;
+    scroll-snap-type: x proximity;
+    scrollbar-width: none;
+    /* Room for the cards' shadow and lift, which a scroller would clip. */
+    padding: 6px 2px 18px;
+    margin: -6px -2px -18px;
+  }
+  .features::-webkit-scrollbar {
+    display: none;
+  }
+  .carousel-next {
+    position: absolute;
+    right: -18px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid var(--glass-rim);
+    background: var(--background);
+    box-shadow: 0 4px 12px var(--glass-shadow);
+    color: var(--color);
+    font-size: 20px;
+    line-height: 1;
+    cursor: pointer;
+  }
+  @media (max-width: 900px) {
+    .carousel-next {
+      display: none;
+    }
   }
   .feature {
+    flex: 0 0 clamp(170px, 62vw, 190px);
+    scroll-snap-align: start;
     position: relative;
     display: flex;
     flex-direction: column;

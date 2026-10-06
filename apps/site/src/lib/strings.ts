@@ -32,9 +32,6 @@ const strings = {
       'This part is read from its publisher each day and is not reproduced here. It opens in the Ember app.',
     theApp: 'The Ember app',
     seeTheApp: 'See the app',
-    introLead: 'Ember is a Catholic prayer app.',
-    introBody:
-      'The Rosary, the Mass and the Divine Office, a plan of life to keep, and a library of the saints. This is its library, open on the web.',
     railAppBody: 'Keep a plan of life, save your place and read offline.',
     nudgeBody: 'A plan of life, holy cards and your reading, kept on your phone.',
     dismiss: 'Close',
@@ -92,9 +89,6 @@ const strings = {
       'Esta parte é lida a cada dia de quem a publica e não é reproduzida aqui. Ela abre no aplicativo Ember.',
     theApp: 'O aplicativo Ember',
     seeTheApp: 'Conheça o aplicativo',
-    introLead: 'O Ember é um aplicativo católico de oração.',
-    introBody:
-      'O Terço, a Missa e o Ofício Divino, um plano de vida para guardar e uma biblioteca dos santos. Este é o seu acervo, aberto na web.',
     railAppBody: 'Guarde um plano de vida, marque onde parou e leia sem conexão.',
     nudgeBody: 'Um plano de vida, santinhos e as suas leituras, guardados no seu celular.',
     dismiss: 'Fechar',

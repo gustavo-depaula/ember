@@ -97,8 +97,8 @@ const tabKey: Partial<Record<Section | 'home', string>> = {
 }
 const activeTab = section ? (tabKey[section] ?? section) : undefined
 
-// Before first paint: the reader's theme, Latin and text-size choices, and a closed introduction.
-const boot = `(function(){try{var d=document.documentElement,s=localStorage;var t=s.getItem('ember-theme');if(t)d.dataset.theme=t;var l=s.getItem('ember-latin');if(l==='on'||(!l&&d.dataset.latinWide!==undefined&&innerWidth>=1100))d.dataset.latin='on';if(s.getItem('ember-intro')==='off')d.dataset.intro='off';var z=s.getItem('ember-size');if(z)d.style.setProperty('--reading-size',z+'px')}catch(e){}})()`
+// Before first paint: the reader's theme, Latin and text-size choices.
+const boot = `(function(){try{var d=document.documentElement,s=localStorage;var t=s.getItem('ember-theme');if(t)d.dataset.theme=t;var l=s.getItem('ember-latin');if(l==='on'||(!l&&d.dataset.latinWide!==undefined&&innerWidth>=1100))d.dataset.latin='on';var z=s.getItem('ember-size');if(z)d.style.setProperty('--reading-size',z+'px')}catch(e){}})()`
 ---
 
 <!doctype html>

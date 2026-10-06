@@ -1396,40 +1396,6 @@ main {
 
 /* ── Invitations to the app ──────────────────────────────────────────── */
 
-/* Today's word to a first-time visitor: what Ember is. */
-.intro {
-  display: flex;
-  align-items: center;
-  gap: var(--space-lg);
-  padding: 14px 10px 14px var(--space-lg);
-  border-radius: var(--radius-lg);
-  background: var(--background-surface);
-  font-size: 18px;
-  line-height: 26px;
-}
-
-.intro p {
-  flex: 1;
-  color: var(--color-secondary);
-}
-
-.intro strong {
-  font-weight: 400;
-  color: var(--color);
-}
-
-.intro .go {
-  white-space: nowrap;
-}
-
-.intro .tool {
-  font-size: 20px;
-}
-
-:root[data-intro='off'] .intro {
-  display: none;
-}
-
 /* A card in the corner once the reader is a screen into a page. */
 .app-nudge {
   position: fixed;
@@ -1495,20 +1461,6 @@ main {
 }
 
 @media (max-width: 900px) {
-  .intro {
-    flex-wrap: wrap;
-    gap: 6px var(--space-md);
-    padding-left: var(--space-md);
-  }
-
-  .intro p {
-    flex-basis: 100%;
-  }
-
-  .intro .tool {
-    margin-left: auto;
-  }
-
   /* Above the tab bar. */
   .app-nudge {
     left: 12px;
@@ -1566,7 +1518,6 @@ main {
   .tabbar,
   .site-footer,
   .app-nudge,
-  .intro,
   .reader-tools,
   .flourish {
     display: none !important;

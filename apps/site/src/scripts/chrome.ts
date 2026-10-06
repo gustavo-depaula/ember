@@ -98,10 +98,9 @@ if (dated?.dataset.todayBase) {
   if (local !== built && apart <= 7) location.replace(`${dated.dataset.todayBase}${local}/`)
 }
 
-// Invitations to the app. The nudge waits until the reader is a screen into the
-// page, and stays away for a month once closed; the introduction on Today
-// stays closed for good. Where iPhone Safari shows its own App Store bar, the
-// nudge would only repeat it.
+// The invitation to the app waits until the reader is a screen into the page,
+// and stays away for a month once closed. Where iPhone Safari shows its own
+// App Store bar, it would only repeat it.
 const nudge = document.querySelector<HTMLElement>('[data-app-nudge]')
 const safariBar =
   document.querySelector('meta[name="apple-itunes-app"]') &&
@@ -118,15 +117,26 @@ if (nudge && !safariBar && Date.now() - Number(stored('ember-nudge') ?? 0) > 30 
 document.addEventListener('click', (event) => {
   const closed = (event.target as Element).closest?.<HTMLElement>('[data-app-dismiss]')?.dataset
     .appDismiss
-  if (closed === 'intro') {
-    root.dataset.intro = 'off'
-    store('ember-intro', 'off')
-  }
   if (closed === 'nudge' && nudge) {
     nudge.hidden = true
     store('ember-nudge', String(Date.now()))
   }
 })
+
+// A carousel's arrow turns it by a screenful, and leaves once the last card is in view.
+for (const next of document.querySelectorAll<HTMLButtonElement>('[data-carousel-next]')) {
+  const row = next.parentElement?.querySelector<HTMLElement>('[data-carousel]')
+  if (!row) continue
+  const sync = () => {
+    next.hidden = row.scrollLeft + row.clientWidth >= row.scrollWidth - 4
+  }
+  sync()
+  row.addEventListener('scroll', sync, { passive: true })
+  window.addEventListener('resize', sync)
+  next.addEventListener('click', () =>
+    row.scrollBy({ left: row.clientWidth * 0.8, behavior: 'smooth' }),
+  )
+}
 
 // Desktop habits: `/` goes to search, the arrow keys turn the page.
 document.addEventListener('keydown', (event) => {
