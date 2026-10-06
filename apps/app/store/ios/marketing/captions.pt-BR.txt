@@ -1,0 +1,10 @@
+screenshots-dark/01-today|Tudo o que o dia pede de você
+screenshots-dark/04-holy-card|Reze, e um santo vem ao seu encontro
+screenshots/06-mass-times|Missa e confissão perto de você
+screenshots-dark/03-rosary|O Terço, mistério por mistério
+screenshots/15-saint-page|Conheça o santo de cada santinho
+screenshots/02-plan|Um plano de vida sob medida para você
+screenshots/07-office|O Breviário, hora por hora
+screenshots/05-reader|Os livros que os santos leram e escreveram
+screenshots-dark/11-chronicle|Uma crônica dos seus dias com Deus
+screenshots/10-you|Sua vida de oração em um só lugar

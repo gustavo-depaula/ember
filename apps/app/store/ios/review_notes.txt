@@ -1,0 +1,21 @@
+Ember is a Catholic prayer app: daily prayers, the Rosary, the Mass and the Divine Office, a library of spiritual books, and a map of Mass times.
+
+NO ACCOUNT
+There is no sign-in and no purchase. Every feature is available as soon as the app opens.
+
+FIRST LAUNCH
+The app downloads its prayer texts from our own server (ember.dpgu.me) the first time it opens, so please launch it with a network connection. After that, what has been opened or saved works offline.
+
+LOCATION (optional)
+Location is requested only on the Mass Times screen (Search tab > Mass Times), to centre the map on the user and show nearby churches. If you decline the permission, the map opens on São Paulo, Brazil, and can be moved anywhere. Nothing else in the app uses location.
+
+PHOTOS (optional)
+On a church's page, "Suggest an edit" lets the user attach one photo (a parish bulletin, for example) through the system photo picker. This is the only use of photos.
+
+NOTIFICATIONS (optional)
+Prayer reminders are local notifications scheduled on the device, at times the user sets in the plan of life. There is no push service.
+
+CONTENT
+The prayers, the Douay-Rheims Bible, the Breviary and the books in the library are public-domain or openly licensed texts, served from our own server. A few texts (the Catechism of the Catholic Church, other Bible translations, the daily readings) are read from their publishers' public websites when the user opens them, with the source credited on screen.
+
+The app is in English and Brazilian Portuguese; it follows the device language and can be changed in Settings.

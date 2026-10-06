@@ -1,0 +1,34 @@
+<!doctype html>
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: Junicode; src: url(../../../../hearth/site/fonts/Junicode.woff2) format('woff2'); }
+  html, body { margin: 0; width: 3840px; height: 2560px; overflow: hidden; }
+  body {
+    background:
+      radial-gradient(2600px 1500px at 50% 45%, rgba(201,168,76,.24), transparent 70%),
+      radial-gradient(3200px 1300px at 50% 112%, rgba(142,34,49,.30), transparent 70%),
+      #0E0D0C;
+  }
+  h1 {
+    position: absolute; top: 250px; left: 300px; right: 300px; white-space: nowrap; margin: 0;
+    font: 400 220px/1.1 Junicode, serif; letter-spacing: -1px; text-align: center; color: #F4E8CF;
+  }
+  .phone {
+    position: absolute; top: var(--t); left: var(--l); width: var(--w);
+    border-radius: 132px; padding: 14px; background: #1A1714; box-sizing: border-box;
+    box-shadow: 0 0 0 3px rgba(201,168,76,.55), 0 60px 160px rgba(0,0,0,.75);
+  }
+  .phone img { display: block; width: 100%; border-radius: 120px; }
+</style>
+<h1 id="c"></h1>
+<div class="phone" style="--w:1000px;--l:330px;--t:860px"><img id="a"></div>
+<div class="phone" style="--w:1000px;--l:2510px;--t:860px"><img id="b"></div>
+<div class="phone" style="--w:1180px;--l:1330px;--t:660px;z-index:2"><img id="m"></div>
+<script>
+  const p = new URLSearchParams(location.search)
+  const l = p.get('l')
+  document.getElementById('c').textContent = p.get('c')
+  document.getElementById('a').src = `../${l}/screenshots-dark/03-rosary.jpg`
+  document.getElementById('m').src = `../${l}/screenshots-dark/01-today.jpg`
+  document.getElementById('b').src = `../${l}/screenshots-dark/04-holy-card.jpg`
+</script>

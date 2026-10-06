@@ -1,0 +1,31 @@
+O Ember é O companheiro para a vida católica de oração! Tudo o que uma alma precisa para rezar bem, reunido em um só aplicativo:
+
+• Um plano de vida para manter você fiel
+• O Terço, a Missa e o Breviário, para rezar com a Igreja a cada dia
+• Uma biblioteca de clássicos da espiritualidade
+• Horários de Missa onde você estiver
+• E, pela alegria de colecionar, santinhos dos santos para reunir enquanto você reza
+
+UM PLANO DE VIDA
+Escolha uma tradição para começar (salesiana, inaciana, carmelita, a Pequena Via e outras) ou componha a sua, prática por prática. Dê a cada oração os seus dias e a sua hora, com um lembrete se quiser.
+
+ORAÇÕES E DEVOÇÕES
+O Terço com arte sacra para cada mistério. A Missa na forma ordinária e na extraordinária, com as leituras e os próprios do dia. O Breviário Romano, hora por hora. O Angelus, ladainhas, novenas e uma meditação para cada dia do ano.
+
+UMA BIBLIOTECA CATÓLICA
+A Imitação de Cristo, os Padres da Igreja, Santo Tomás de Aquino, Santo Afonso de Ligório, o Catecismo Romano e muito mais, em um leitor feito para a leitura longa: você escolhe a fonte, o tamanho e as margens, o papel ou a noite, com marcadores, destaques e notas. Guarde qualquer livro ou oração no celular para quando não houver conexão.
+
+A ESCRITURA E O CATECISMO
+Leia a Bíblia católica, e o Catecismo da Igreja Católica com o seu Compêndio.
+
+OS SANTOS
+Santinhos recebidos pela prática da oração, cada um uma apresentação a uma vida santa: quem foi o santo, o que a Igreja reza na sua festa, algo para guardar no coração. Acompanhe o ano litúrgico, nos dois calendários, com o santo e o tempo de cada dia.
+
+HORÁRIOS DE MISSA
+Encontre no mapa Missa, confissão e adoração nas igrejas perto de você, salve as suas paróquias e ajude a manter os horários corretos.
+
+EM DUAS LÍNGUAS
+Português do Brasil e inglês em todo o aplicativo, com o latim nas orações que o têm, sozinho ou lado a lado.
+
+PRESERVAR E PARTILHAR A HERANÇA CATÓLICA
+O Ember é feito às claras e dedicado ao domínio público, livre para qualquer pessoa usar e melhorar: github.com/gustavo-depaula/ember

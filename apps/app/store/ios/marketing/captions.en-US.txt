@@ -1,0 +1,10 @@
+screenshots-dark/01-today|Everything the day asks of you
+screenshots-dark/04-holy-card|Pray, and a saint comes to meet you
+screenshots/06-mass-times|Mass and confession near you
+screenshots-dark/03-rosary|The Rosary, mystery by mystery
+screenshots/15-saint-page|Meet the saint behind each card
+screenshots/02-plan|A plan of life made to your measure
+screenshots/07-office|The Breviary, hour by hour
+screenshots/05-reader|The books the saints read and wrote
+screenshots-dark/11-chronicle|A chronicle of your days with God
+screenshots/10-you|Your life of prayer, in one place

@@ -1,0 +1,31 @@
+Ember is THE companion for the Catholic life of prayer! Everything a soul needs to pray well, gathered into one app:
+
+• A plan of life to keep you faithful
+• The Rosary, the Mass and the Breviary, to pray with the Church each day
+• A library of spiritual classics
+• Mass times wherever you are
+• And, for the joy of it, holy cards of the saints to collect as you pray
+
+A PLAN OF LIFE
+Choose a tradition to begin with (Salesian, Ignatian, Carmelite, the Little Way and others) or shape your own, practice by practice. Give each prayer its days and its hour, with a reminder if you want one.
+
+PRAYERS AND DEVOTIONS
+The Rosary with sacred art for each mystery. The Mass in the Ordinary and the Extraordinary Form, with the day's readings and propers. The Roman Breviary, hour by hour. The Angelus, litanies, novenas and a meditation for every day of the year.
+
+A CATHOLIC LIBRARY
+The Imitation of Christ, the Church Fathers, St. Thomas Aquinas, St. Alphonsus Liguori, the Catechism of the Council of Trent and many more, set in a reader made for long reading: your choice of typeface, size and margins, paper or night palettes, bookmarks, highlights and notes. Keep any book or prayer on your phone for when there is no connection.
+
+SCRIPTURE AND THE CATECHISM
+Read the Catholic Bible, and the Catechism of the Catholic Church with its Compendium.
+
+THE SAINTS
+Holy cards given through the practice of prayer, each one an introduction to a holy life: who the saint was, what the Church prays on the feast, something to take to heart. Follow the liturgical year, in both calendars, with the saint and the season of each day.
+
+MASS TIMES
+Find Mass, confession and adoration at churches near you on a map, save your parishes, and help keep the times right.
+
+IN TWO LANGUAGES
+English and Brazilian Portuguese throughout, with Latin for the prayers that have it, alone or side by side.
+
+PRESERVING AND SHARING CATHOLIC HERITAGE
+Ember is built in the open and dedicated to the public domain, free for anyone to use and to improve: github.com/gustavo-depaula/ember

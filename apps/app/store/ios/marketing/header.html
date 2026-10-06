@@ -1,0 +1,26 @@
+<!doctype html>
+<meta charset="utf-8">
+<style>
+  html, body { margin: 0; width: 3840px; height: 1646px; overflow: hidden; }
+  body {
+    background:
+      radial-gradient(2200px 1100px at 50% 55%, rgba(201,168,76,.30), transparent 70%),
+      radial-gradient(3000px 900px at 50% 115%, rgba(142,34,49,.35), transparent 70%),
+      #0E0D0C;
+  }
+  .row { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+  .row img {
+    height: var(--h); margin: 0 -70px; border-radius: 26px; transform: translateY(var(--y)) rotate(var(--r));
+    box-shadow: 0 0 0 3px rgba(201,168,76,.5), 0 50px 120px rgba(0,0,0,.75); z-index: var(--z);
+    filter: brightness(var(--b));
+  }
+</style>
+<div class="row">
+  <img src="../../../../../content/saints/francis_assisi.webp" style="--h:820px;--r:-9deg;--y:70px;--z:1;--b:.72">
+  <img src="../../../../../content/saints/cecilia.webp" style="--h:960px;--r:-6deg;--y:40px;--z:2;--b:.8">
+  <img src="../../../../../content/saints/michael_archangel.webp" style="--h:1100px;--r:-3deg;--y:15px;--z:3;--b:.9">
+  <img src="../../../../../content/saints/our_lady_rosary.webp" style="--h:1250px;--r:0deg;--y:0px;--z:4;--b:1">
+  <img src="../../../../../content/saints/joseph.webp" style="--h:1100px;--r:3deg;--y:15px;--z:3;--b:.9">
+  <img src="../../../../../content/saints/peter.webp" style="--h:960px;--r:6deg;--y:40px;--z:2;--b:.8">
+  <img src="../../../../../content/saints/padre_pio.webp" style="--h:820px;--r:9deg;--y:70px;--z:1;--b:.72">
+</div>
