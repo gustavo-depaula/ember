@@ -4,8 +4,9 @@ Where each text comes from, under what terms, and whether it may enter the corpu
 
 | Content | Source | License | Status |
 |---------|--------|---------|--------|
-| Bible: Douay-Rheims, CPDV, Clementine Vulgate | USFM → `content/bible/<translation>/` via `scripts/import-bible-usfm.py` | Public domain | In corpus |
-| Bible: Ave Maria, Matos Soares, Knox | Their publishers' sites (`apps/app/src/sources/bible/`) | In copyright | Runtime, per chapter |
+| Bible: Douay-Rheims, CPDV, Clementine Vulgate, Haydock's commentary | USFM → `content/bible/<translation>/` via `scripts/import-bible-usfm.py`, `scripts/import-haydock.py` | Public domain | In corpus |
+| Bible: Knox, Matos Soares | Web pages → `content/bible/<translation>/` via `scripts/import-bible-web.py` | No rights holder asserts a claim; several publishers print them | In corpus |
+| Bible: Ave Maria | The Claretians' API (`apps/app/src/sources/bible/`) | In copyright | Runtime, per chapter |
 | Breviary texts, EF Mass propers, EF calendar | Divinum Officium (`content/do/` submodule) | MIT | In corpus |
 | OF Mass propers, order, calendar (la/en/pt) | `ember-extra`, vendored into `content/of/` | English prayers are ICEL © | In corpus (see below) |
 | Catechism (CCC) + Compendium | vatican.va | © Libreria Editrice Vaticana | Runtime external books |
@@ -18,32 +19,37 @@ Where each text comes from, under what terms, and whether it may enter the corpu
 
 The picker's list is `translations` in `apps/app/src/lib/bibleTranslations.ts`. Every translation files its books under the Douay slugs (`1-kings`, `psalms`, `apocalypse`), so a reference or a reading position opens the same book in any of them.
 
-**In the corpus** (public domain, `content/bible/<dir>/`, rebuilt by `scripts/import-bible-usfm.py <translation> <dir>`):
+**In the corpus** (`content/bible/<dir>/`, one `<slug>.json` per book as `{chapter: {verse: text}}`):
 
-| Code | Translation | Source |
-|------|-------------|--------|
-| `DRB` | Douay-Rheims, Challoner's revision (1749–52) | `github.com/BibleCorps/ENG-B-DRC1750-pd-PSFM` |
-| `CPDV` | Catholic Public Domain Version (Conte, 2009) | `github.com/BibleCorps/ENG-B-CPDV2009-pd-PSFM` |
-| `VULG` | Clementine Vulgate | `ebible.org/Scriptures/latVUC_usfm.zip` |
+| Code | Translation | Source | Rebuilt by |
+|------|-------------|--------|------------|
+| `DRB` | Douay-Rheims, Challoner's revision (1749–52) | `github.com/BibleCorps/ENG-B-DRC1750-pd-PSFM` | `import-bible-usfm.py drb` |
+| `CPDV` | Catholic Public Domain Version (Conte, 2009) | `github.com/BibleCorps/ENG-B-CPDV2009-pd-PSFM` | `import-bible-usfm.py cpdv` |
+| `VULG` | Clementine Vulgate | `ebible.org/Scriptures/latVUC_usfm.zip` | `import-bible-usfm.py vulgate` |
+| `KNOX` | Knox Bible (1945–50) | `bibliacatolica.com.br/the-knox-bible/` (the same text as Baronius Press's `catholicbible.online/knox/`, which cuts off a crawl partway) | `import-bible-web.py knox` |
+| `MS` | Matos Soares, 1956 edition | `liriocatolico.com.br/biblia_online/biblia_matos_soares/`, with the owner's consent | `import-bible-web.py matos-soares` |
 
-- The Douay-Rheims is the fallback for every other translation: offline, when a publisher's page changes, or for a chapter the other numbers differently. The import keeps Challoner's chapter arguments and book introductions (`summaries.json`).
-- Footnotes are in all three sources and not yet imported: Challoner's annotations, Conte's notes, and the Glossa Ordinaria in the Vulgate.
+- The Douay-Rheims is the fallback for every other translation: offline, or for a chapter the other numbers differently. The import keeps Challoner's chapter arguments and book introductions (`summaries.json`). Checked verse by verse against ebible.org's 1899 edition (`engDRA`): the same text. The source ran the last verse of seven chapters into the one before (John 11:57, 2 Corinthians 1:24, Genesis 5:32, 2 Kings 13:39, Psalms 28:11 and 150:6, Amos 9:15); the import splits them so references resolve.
+- **Haydock's commentary** (`content/bible/haydock/`, from `github.com/cmahte/ENG-B-Haydock1883-pd-PSFM`, the USFM of the transcription at `johnblood.gitlab.io/haydock`) is data only so far: `{chapter: {verse: [note, …]}}` per book against the Douay-Rheims' verses, and `intros.json`. Nothing renders it yet.
+- Footnotes are in the other sources too and not imported: Challoner's annotations, Conte's notes, the Glossa Ordinaria in the Vulgate, Knox's and Matos Soares' notes.
 - The CPDV prints Esther in the Greek order (15 chapters, where the Douay has 16).
+- Knox and Matos Soares are in the corpus on the owner's finding that no one asserts copyright over these texts and several publishers print them. Knox died in 1957, as did Matos Soares, so both are public domain under life+70 from 1 January 2028.
+- Lírio Católico sits behind Cloudflare, which turns away some non-browser clients; the importer sends an `okhttp` User-Agent.
 
 **Read from the publisher** (in copyright; one chapter per request, kept in the on-device `external_content` table):
 
-| Code | Translation | Source | Web |
-|------|-------------|--------|-----|
-| `AM` | Bíblia Ave Maria | The Claretians' API, `biblia.parresia.com/wp-json/bible/v2/chapter/<livro>_<n>` (behind `claretianos.com.br/biblia-ave-maria-online/`) | CORS open |
-| `MS` | Matos Soares, 1956 edition | `liriocatolico.com.br/biblia_online/biblia_matos_soares/<livro>/<n>/`, with the owner's consent | CORS open |
-| `KNOX` | Knox Bible | `catholicbible.online/knox/<OT\|NT>/<book>/ch_<n>` (Baronius Press) | No CORS: native only |
+| Code | Translation | Source |
+|------|-------------|--------|
+| `AM` | Bíblia Ave Maria | The Claretians' API, `biblia.parresia.com/wp-json/bible/v2/chapter/<livro>_<n>` (behind `claretianos.com.br/biblia-ave-maria-online/`); CORS open, so it reads on web too |
 
-- All three follow the Vulgate's psalm numbering. The Ave Maria follows the Hebrew chapter divisions elsewhere (Joel has 4 chapters, Malachi 3).
-- Lírio Católico sits behind Cloudflare, which challenges some non-browser clients (Node's default `fetch` gets a 403; `okhttp` and `CFNetwork` pass).
-- Matos Soares died in 1957: his translation is public domain in Brazil and Portugal from 1 January 2028, and can move into the corpus then.
-- **Bíblia CNBB**: no usable source yet. Lírio Católico withdrew it over copyright, and the one other copy found (`clerus.org/bibliaclerusonline/pt/`, the 2002 text) has opaque URLs with several chapters to a page.
-- Not yet imported, all public domain: the Haydock commentary (`github.com/cmahte/ENG-B-Haydock1883-pd-PSFM`, USFM with per-verse notes), the original Douay-Rheims of 1582/1609–10 (EEBO-TCP `A16049` and `A11777`, original spelling), Kenrick's revision and Figueiredo (page scans only).
-- Rejected: Bolls.life (its catalog mixes in Protestant canons and its Douay-Rheims lacks the deuterocanon); Bible Gateway (no public API, terms forbid scraping); API.Bible (FUMS tracking forces online-only use).
+- The Ave Maria numbers the Psalms as the Vulgate does but follows the Hebrew chapter divisions elsewhere (Joel has 4 chapters, Malachi 3).
+
+**Not in yet:**
+
+- **Bíblia CNBB.** Lírio Católico withdrew it over copyright. The Bolls.life export of it is not a base to build on: 66 books (no Tobias, Judith, Wisdom, Ecclesiasticus, Baruch or Machabees, and Daniel 3 without the canticle), and book-introduction prose spliced into verses (1 Samuel 1:19). `clerus.org/bibliaclerusonline/pt/` has all 73 books of the 2002 text, on opaque URLs with several chapters to a page.
+- **Original Douay-Rheims (1582, 1609–10).** EEBO-TCP `A16049` and `A11777` are clean on rights but in original spelling, the Old Testament without reliable verse marks. `github.com/janvier-s/original-douay-rheims` is modern-spelling JSON marked CC0, of unverified provenance.
+- **Kenrick's revision, Figueiredo.** Page scans only (archive.org).
+- Rejected: Bolls.life (no deuterocanon in its Douay-Rheims or its CNBB); Bible Gateway (no public API, terms forbid scraping); API.Bible (FUMS tracking forces online-only use).
 
 ## Catechism of the Catholic Church
 
@@ -80,8 +86,8 @@ All are native-only: the sites send no CORS headers, so web gets a notice or lin
 
 The credits screen should list:
 
-1. "Scripture texts (Douay-Rheims, Catholic Public Domain Version, Clementine Vulgate) are in the public domain."
-2. "Bíblia Ave Maria from the Claretian Missionaries; Matos Soares from Lírio Católico; the Knox Bible from Baronius Press."
+1. "Scripture texts: Douay-Rheims, Catholic Public Domain Version, Clementine Vulgate, Knox Bible, Bíblia Matos Soares; commentary by Fr. George Leo Haydock."
+2. "Bíblia Ave Maria from the Claretian Missionaries."
 3. "Catechism of the Catholic Church, copyright Libreria Editrice Vaticana."
 4. "Liturgical texts and traditional Mass propers from Divinum Officium (MIT License)."
 5. "Liturgy of the Hours texts provided by iBreviary."

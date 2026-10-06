@@ -514,10 +514,9 @@ export default {
     reading: 'Leitura',
     attribution: 'Atribui\u00e7\u00e3o',
     attrBible:
-      'Texto b\u00edblico: Douay-Rheims, Catholic Public Domain Version e Vulgata Clementina (dom\u00ednio p\u00fablico)',
+      'Texto b\u00edblico: Douay-Rheims, Catholic Public Domain Version, Knox, Matos Soares e Vulgata Clementina',
     attrCatechism: 'Catecismo da Igreja Cat\u00f3lica, © Libreria Editrice Vaticana',
-    attrBibleOnline:
-      'B\u00edblia Ave Maria lida dos Mission\u00e1rios Claretianos, Matos Soares do L\u00edrio Cat\u00f3lico, B\u00edblia Knox da Baronius Press',
+    attrBibleOnline: 'B\u00edblia Ave Maria lida dos Mission\u00e1rios Claretianos',
     estCompletion: 'Conclus\u00e3o est.: {{date}}',
     booksOf: '{{completed}} de {{total}} livros',
     languagesSection: 'Idiomas',

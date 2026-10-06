@@ -509,10 +509,9 @@ export default {
     reading: 'Reading',
     attribution: 'Attribution',
     attrBible:
-      'Bible text: Douay-Rheims, Catholic Public Domain Version and Clementine Vulgate (public domain)',
+      'Bible text: Douay-Rheims, Catholic Public Domain Version, Knox, Matos Soares and Clementine Vulgate',
     attrCatechism: 'Catechism of the Catholic Church, © Libreria Editrice Vaticana',
-    attrBibleOnline:
-      'B\u00edblia Ave Maria read from the Claretian Missionaries, Matos Soares from L\u00edrio Cat\u00f3lico, the Knox Bible from Baronius Press',
+    attrBibleOnline: 'B\u00edblia Ave Maria read from the Claretian Missionaries',
     estCompletion: 'Est. completion: {{date}}',
     booksOf: '{{completed}} of {{total}} books',
     languagesSection: 'Languages',

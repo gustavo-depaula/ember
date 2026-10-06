@@ -94,8 +94,24 @@ CANON = {
 # Douay's Wisdom 18 jumps from 24 to 26, for a chapter of 25 verses), which are
 # renumbered in order, `names` when the book titles come from the source
 # (`\\h`) rather than the Douay list, and `strip` for characters to drop.
+# `split` names verses the source runs into the one before: the chapter's last
+# verse, which every later Douay-Rheims and every lectionary reference numbers
+# on its own (John 11:57, 2 Corinthians 1:24). Each is cut where the given
+# words begin.
 TRANSLATIONS = {
-    "drb": {"renumber": {("wisdom", "18")}, "summaries": True},
+    "drb": {
+        "renumber": {("wisdom", "18")},
+        "summaries": True,
+        "split": {
+            ("genesis", "5", "31"): "And Noe, when",
+            ("2-kings", "13", "38"): "And king David ceased",
+            ("psalms", "28", "10"): "The Lord will give strength",
+            ("psalms", "150", "5"): "let every spirit",
+            ("amos", "9", "14"): "And I will plant them",
+            ("john", "11", "56"): "And the chief priests and Pharisees",
+            ("2-corinthians", "1", "23"): "not because we exercise",
+        },
+    },
     # Conte prints Esther in the Greek order, its additions in place: 15 chapters.
     "cpdv": {"chapters": {"esther": 15}, "names": True},
     # The Clementine Text Project brackets its verse passages; the brackets are
@@ -118,6 +134,9 @@ def clean(text: str) -> str:
     text = re.sub(r"\\w ([^|\\]*)(\|[^\\]*)?\\w\*", r"\1", text)
     text = re.sub(r"\\\+?[a-z0-9]+\*?", "", text)  # any remaining character marker
     text = text.replace("¶", "")  # the CPDV marks its paragraphs in the text as well
+    text = re.sub(r"[*_]", "", text)  # stray footnote callers and emphasis marks
+    text = re.sub(r"\s+([,.;:!?])", r"\1", text)  # "thou , O God"
+    text = re.sub(r",(?=[A-Za-z])", ", ", text)  # "the prophet ,had"
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -187,6 +206,13 @@ def main() -> None:
                     str(i): text for i, text in enumerate(chapters[number].values(), start=1)
                 }
             verses = chapters[number]
+            for (book, chapter, verse), words in config.get("split", {}).items():
+                if (book, chapter) == (slug, number):
+                    head, found, tail = verses[verse].partition(words)
+                    if not found or str(int(verse) + 1) in verses:
+                        sys.exit(f"{slug} {number}:{verse}: cannot split at {words!r}")
+                    verses[verse] = head.strip()
+                    verses[str(int(verse) + 1)] = found + tail
             keys = [int(v) for v in verses]
             # Contiguous, but not always from 1: Psalm 115 continues Psalm 114's
             # numbering (verses 10-19), as the Vulgate prints it.

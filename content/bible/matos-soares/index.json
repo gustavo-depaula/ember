@@ -1,0 +1,440 @@
+[
+	{
+		"slug": "genesis",
+		"name": "Gênesis",
+		"testament": "ot",
+		"chapters": 50
+	},
+	{
+		"slug": "exodus",
+		"name": "Êxodo",
+		"testament": "ot",
+		"chapters": 40
+	},
+	{
+		"slug": "leviticus",
+		"name": "Levítico",
+		"testament": "ot",
+		"chapters": 27
+	},
+	{
+		"slug": "numbers",
+		"name": "Números",
+		"testament": "ot",
+		"chapters": 36
+	},
+	{
+		"slug": "deuteronomy",
+		"name": "Deuteronômio",
+		"testament": "ot",
+		"chapters": 34
+	},
+	{
+		"slug": "josue",
+		"name": "Josué",
+		"testament": "ot",
+		"chapters": 24
+	},
+	{
+		"slug": "judges",
+		"name": "Juízes",
+		"testament": "ot",
+		"chapters": 21
+	},
+	{
+		"slug": "ruth",
+		"name": "Rute",
+		"testament": "ot",
+		"chapters": 4
+	},
+	{
+		"slug": "1-kings",
+		"name": "I Samuel",
+		"testament": "ot",
+		"chapters": 31
+	},
+	{
+		"slug": "2-kings",
+		"name": "II Samuel",
+		"testament": "ot",
+		"chapters": 24
+	},
+	{
+		"slug": "3-kings",
+		"name": "I Reis",
+		"testament": "ot",
+		"chapters": 22
+	},
+	{
+		"slug": "4-kings",
+		"name": "II Reis",
+		"testament": "ot",
+		"chapters": 25
+	},
+	{
+		"slug": "1-paralipomenon",
+		"name": "I Crônicas",
+		"testament": "ot",
+		"chapters": 29
+	},
+	{
+		"slug": "2-paralipomenon",
+		"name": "II Crônicas",
+		"testament": "ot",
+		"chapters": 36
+	},
+	{
+		"slug": "1-esdras",
+		"name": "Esdras",
+		"testament": "ot",
+		"chapters": 10
+	},
+	{
+		"slug": "2-esdras",
+		"name": "Neemias",
+		"testament": "ot",
+		"chapters": 13
+	},
+	{
+		"slug": "tobias",
+		"name": "Tobias",
+		"testament": "ot",
+		"chapters": 14
+	},
+	{
+		"slug": "judith",
+		"name": "Judite",
+		"testament": "ot",
+		"chapters": 16
+	},
+	{
+		"slug": "esther",
+		"name": "Ester",
+		"testament": "ot",
+		"chapters": 16
+	},
+	{
+		"slug": "job",
+		"name": "Jó",
+		"testament": "ot",
+		"chapters": 42
+	},
+	{
+		"slug": "psalms",
+		"name": "Salmos",
+		"testament": "ot",
+		"chapters": 150
+	},
+	{
+		"slug": "proverbs",
+		"name": "Provérbios",
+		"testament": "ot",
+		"chapters": 31
+	},
+	{
+		"slug": "ecclesiastes",
+		"name": "Eclesiastes",
+		"testament": "ot",
+		"chapters": 12
+	},
+	{
+		"slug": "canticles",
+		"name": "Cântico dos Cânticos",
+		"testament": "ot",
+		"chapters": 8
+	},
+	{
+		"slug": "wisdom",
+		"name": "Sabedoria",
+		"testament": "ot",
+		"chapters": 19
+	},
+	{
+		"slug": "ecclesiasticus",
+		"name": "Eclesiástico",
+		"testament": "ot",
+		"chapters": 51
+	},
+	{
+		"slug": "isaias",
+		"name": "Isaías",
+		"testament": "ot",
+		"chapters": 66
+	},
+	{
+		"slug": "jeremias",
+		"name": "Jeremias",
+		"testament": "ot",
+		"chapters": 52
+	},
+	{
+		"slug": "lamentations",
+		"name": "Lamentações",
+		"testament": "ot",
+		"chapters": 5
+	},
+	{
+		"slug": "baruch",
+		"name": "Baruc",
+		"testament": "ot",
+		"chapters": 6
+	},
+	{
+		"slug": "ezechiel",
+		"name": "Ezequiel",
+		"testament": "ot",
+		"chapters": 48
+	},
+	{
+		"slug": "daniel",
+		"name": "Daniel",
+		"testament": "ot",
+		"chapters": 14
+	},
+	{
+		"slug": "osee",
+		"name": "Oséias",
+		"testament": "ot",
+		"chapters": 14
+	},
+	{
+		"slug": "joel",
+		"name": "Joel",
+		"testament": "ot",
+		"chapters": 3
+	},
+	{
+		"slug": "amos",
+		"name": "Amós",
+		"testament": "ot",
+		"chapters": 9
+	},
+	{
+		"slug": "abdias",
+		"name": "Abdias",
+		"testament": "ot",
+		"chapters": 1
+	},
+	{
+		"slug": "jonas",
+		"name": "Jonas",
+		"testament": "ot",
+		"chapters": 4
+	},
+	{
+		"slug": "micheas",
+		"name": "Miquéias",
+		"testament": "ot",
+		"chapters": 7
+	},
+	{
+		"slug": "nahum",
+		"name": "Naum",
+		"testament": "ot",
+		"chapters": 3
+	},
+	{
+		"slug": "habacuc",
+		"name": "Habacuc",
+		"testament": "ot",
+		"chapters": 3
+	},
+	{
+		"slug": "sophonias",
+		"name": "Sofonias",
+		"testament": "ot",
+		"chapters": 3
+	},
+	{
+		"slug": "aggeus",
+		"name": "Ageu",
+		"testament": "ot",
+		"chapters": 2
+	},
+	{
+		"slug": "zacharias",
+		"name": "Zacarias",
+		"testament": "ot",
+		"chapters": 14
+	},
+	{
+		"slug": "malachias",
+		"name": "Malaquias",
+		"testament": "ot",
+		"chapters": 4
+	},
+	{
+		"slug": "1-machabees",
+		"name": "I Macabeus",
+		"testament": "ot",
+		"chapters": 16
+	},
+	{
+		"slug": "2-machabees",
+		"name": "II Macabeus",
+		"testament": "ot",
+		"chapters": 15
+	},
+	{
+		"slug": "matthew",
+		"name": "São Mateus",
+		"testament": "nt",
+		"chapters": 28
+	},
+	{
+		"slug": "mark",
+		"name": "São Marcos",
+		"testament": "nt",
+		"chapters": 16
+	},
+	{
+		"slug": "luke",
+		"name": "São Lucas",
+		"testament": "nt",
+		"chapters": 24
+	},
+	{
+		"slug": "john",
+		"name": "São João",
+		"testament": "nt",
+		"chapters": 21
+	},
+	{
+		"slug": "acts",
+		"name": "Atos dos Apóstolos",
+		"testament": "nt",
+		"chapters": 28
+	},
+	{
+		"slug": "romans",
+		"name": "Romanos",
+		"testament": "nt",
+		"chapters": 16
+	},
+	{
+		"slug": "1-corinthians",
+		"name": "I Coríntios",
+		"testament": "nt",
+		"chapters": 16
+	},
+	{
+		"slug": "2-corinthians",
+		"name": "II Coríntios",
+		"testament": "nt",
+		"chapters": 13
+	},
+	{
+		"slug": "galatians",
+		"name": "Gálatas",
+		"testament": "nt",
+		"chapters": 6
+	},
+	{
+		"slug": "ephesians",
+		"name": "Efésios",
+		"testament": "nt",
+		"chapters": 6
+	},
+	{
+		"slug": "philippians",
+		"name": "Filipenses",
+		"testament": "nt",
+		"chapters": 4
+	},
+	{
+		"slug": "colossians",
+		"name": "Colossenses",
+		"testament": "nt",
+		"chapters": 4
+	},
+	{
+		"slug": "1-thessalonians",
+		"name": "I Tessalonicenses",
+		"testament": "nt",
+		"chapters": 5
+	},
+	{
+		"slug": "2-thessalonians",
+		"name": "II Tessalonicenses",
+		"testament": "nt",
+		"chapters": 3
+	},
+	{
+		"slug": "1-timothy",
+		"name": "I Timóteo",
+		"testament": "nt",
+		"chapters": 6
+	},
+	{
+		"slug": "2-timothy",
+		"name": "II Timóteo",
+		"testament": "nt",
+		"chapters": 4
+	},
+	{
+		"slug": "titus",
+		"name": "Tito",
+		"testament": "nt",
+		"chapters": 3
+	},
+	{
+		"slug": "philemon",
+		"name": "Filêmon",
+		"testament": "nt",
+		"chapters": 1
+	},
+	{
+		"slug": "hebrews",
+		"name": "Hebreus",
+		"testament": "nt",
+		"chapters": 13
+	},
+	{
+		"slug": "james",
+		"name": "São Tiago",
+		"testament": "nt",
+		"chapters": 5
+	},
+	{
+		"slug": "1-peter",
+		"name": "I São Pedro",
+		"testament": "nt",
+		"chapters": 5
+	},
+	{
+		"slug": "2-peter",
+		"name": "II São Pedro",
+		"testament": "nt",
+		"chapters": 3
+	},
+	{
+		"slug": "1-john",
+		"name": "I São João",
+		"testament": "nt",
+		"chapters": 5
+	},
+	{
+		"slug": "2-john",
+		"name": "II São João",
+		"testament": "nt",
+		"chapters": 1
+	},
+	{
+		"slug": "3-john",
+		"name": "III São João",
+		"testament": "nt",
+		"chapters": 1
+	},
+	{
+		"slug": "jude",
+		"name": "São Judas",
+		"testament": "nt",
+		"chapters": 1
+	},
+	{
+		"slug": "apocalypse",
+		"name": "Apocalipse",
+		"testament": "nt",
+		"chapters": 22
+	}
+]

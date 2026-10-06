@@ -3,10 +3,8 @@ import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 
 import { parseAveMariaChapter } from './aveMaria'
-import { parseKnoxChapter } from './knox'
-import { parseMatosSoaresChapter } from './matosSoares'
 
-// Real responses, cut down to a few verses, so a site redesign shows up here.
+// A real response, cut down to a few verses, so an API change shows up here.
 const fixture = (name: string) => readFileSync(join(__dirname, '__fixtures__', name), 'utf8')
 
 describe('Ave Maria (Claretian API)', () => {
@@ -24,29 +22,5 @@ describe('Ave Maria (Claretian API)', () => {
       'Ninguém jamais viu Deus. O Filho único, que está no seio do Pai, foi quem o revelou.',
     )
     expect(verses.find((v) => v.verse === 20)?.text).toMatch(/“Eu não sou o Cristo”\.$/)
-  })
-})
-
-describe('Matos Soares (Lírio Católico)', () => {
-  const verses = parseMatosSoaresChapter(fixture('lirio-matos-soares-joao-1.html'))
-
-  it('reads each verse without its number, buttons or footnote call', () => {
-    expect(verses.map((v) => v.verse)).toEqual([1, 2, 3, 51])
-    expect(verses[1].text).toBe('Estava no princípio junto de Deus,')
-  })
-})
-
-describe('Knox (catholicbible.online)', () => {
-  it('reads each verse without its footnote mark', () => {
-    const verses = parseKnoxChapter(fixture('knox-john-1.html'))
-    expect(verses.map((v) => v.verse)).toEqual([1, 2, 51])
-    expect(verses[2].text).toMatch(/upon the Son of Man\.$/)
-  })
-
-  it('keeps a psalm title apart from the line that follows it', () => {
-    const verses = parseKnoxChapter(fixture('knox-psalm-22.html'))
-    expect(verses[0].text).toBe(
-      '(A psalm. Of David.) The Lord is my shepherd; how can I lack anything?',
-    )
   })
 })

@@ -52,7 +52,7 @@ An illuminated manuscript aesthetic — ornamental dividers, gold accents, curat
 - **Plan of Life** — tier-based daily checklist, multi-hue fidelity wall, streaks, time blocks, notifications
 - **Content Corpus** — content-addressed Hearth corpus of practices, prayers, books, and chapters; opened directly in `/browse`, pinned for offline use
 - **Flow Engine** — a flexible DSL that describes any prayer from a simple devotion to the Mass
-- **Bible Reader** — Douay-Rheims, Catholic Public Domain Version and Clementine Vulgate in the corpus; Ave Maria, Matos Soares and Knox read from their publishers
+- **Bible Reader** — Douay-Rheims, Catholic Public Domain Version, Knox, Matos Soares and Clementine Vulgate in the corpus; Ave Maria read from its publisher
 - **Catechism Reader** — full CCC (2,865 paragraphs) with 5-level collapsible TOC
 - **Mass (Ordo Missae)** — complete ordinary (OF + EF), daily EF propers, OF propers (PT-BR complete, EN readings)
 - **Book Reader** — long-form prose with CSS column pagination
