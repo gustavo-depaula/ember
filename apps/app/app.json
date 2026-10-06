@@ -71,7 +71,7 @@
           "locationWhenInUsePermission": "Allow Ember to use your location to find Mass and confession times at nearby churches.",
           "locationAlwaysAndWhenInUsePermission": false,
           "locationAlwaysPermission": false,
-          "motionUsagePermission": false
+          "motionUsagePermission": "Ember does not read motion data. This text is required by an animation library the app includes."
         }
       ],
       "expo-maps",
