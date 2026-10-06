@@ -522,24 +522,6 @@ main {
 
 /* ── Page furniture ──────────────────────────────────────────────────── */
 
-/* The illuminated banner that crowns a hub page. Decorative. */
-.flourish {
-  position: relative;
-  height: clamp(84px, 13vw, 150px);
-  margin-top: -6px;
-  pointer-events: none;
-  overflow: hidden;
-}
-
-.flourish img {
-  position: absolute;
-  left: 50%;
-  top: 0;
-  height: 100%;
-  width: auto;
-  max-width: none;
-  transform: translateX(-50%);
-}
 
 .only-dark,
 :root[data-theme='dark'] .only-light {
@@ -1518,8 +1500,7 @@ main {
   .tabbar,
   .site-footer,
   .app-nudge,
-  .reader-tools,
-  .flourish {
+  .reader-tools {
     display: none !important;
   }
 

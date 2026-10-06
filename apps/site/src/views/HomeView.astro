@@ -1,8 +1,8 @@
 ---
 import { getImage } from 'astro:assets'
 import { aspirationFor } from '@/features/home/aspirations'
-import appCard from '../../../hearth/site/img/cards/peter.webp'
-import chalice from '../../../app/assets/textures/horizontal_marker_chalice.png'
+import appShotEn from '../../../hearth/site/img/en-US-01-today.webp'
+import appShotPt from '../../../hearth/site/img/pt-BR-01-today.webp'
 import Celebrations from '~/components/Celebrations.astro'
 import MassTimesNotice from '~/components/MassTimesNotice.astro'
 import Shelf from '~/components/Shelf.astro'
@@ -32,21 +32,8 @@ const dateTitle = monthDay.map((p) => (p.type === 'month' ? p.value.charAt(0).to
 const years = calendarYears()
 const ahead = [1, 2, 3, 4].map((n) => addDays(today, n)).filter((d) => years.includes(d.getFullYear()))
 
-const marker = await getImage({ src: chalice, width: 400, format: 'webp' })
 
-// The app takes a place among the day's cards, as one more thing to open.
-const appArt = await getImage({ src: appCard, width: 440, format: 'webp' })
-const features = [
-  ...home.features,
-  {
-    kicker: pt ? 'No seu celular' : 'On your phone',
-    title: pt ? 'O app Ember' : 'The Ember app',
-    subtitle: s('nudgeBody'),
-    href: href.landing(locale),
-    art: appArt.src,
-    tone: { from: '#3a2f1c', to: '#1a1510' },
-  },
-]
+const appShot = await getImage({ src: pt ? appShotPt : appShotEn, width: 420, format: 'webp' })
 
 const slotLabel = pt
   ? { first: 'Primeira leitura', psalm: 'Salmo', second: 'Segunda leitura', gospel: 'Evangelho' }
@@ -103,30 +90,37 @@ const pillars = pt
       <p class="day-name">{home.of.celebrations[0]?.title ?? home.of.dayName}</p>
     </header>
 
+    <section class="carousel" aria-label={s('today')}>
+      <div class="features" data-carousel>
+        {home.features.map((feature) => (
+          <a class="feature" href={feature.href} style={`--from:${feature.tone.from};--to:${feature.tone.to}`}>
+            {feature.art ? (
+              <span class="feature-art"><img src={feature.art} alt="" loading="lazy" decoding="async" /></span>
+            ) : (
+              <span class="feature-plate" aria-hidden="true">✠</span>
+            )}
+            <span class="feature-foot">
+              <span class="feature-kicker">{feature.kicker}</span>
+              <span class="feature-title">{feature.title}</span>
+              {feature.subtitle && <span class="feature-sub">{feature.subtitle}</span>}
+            </span>
+          </a>
+        ))}
+        <a class="feature app" href={href.landing(locale)}>
+          <span class="feature-phone"><img src={appShot.src} alt="" loading="lazy" decoding="async" /></span>
+          <span class="feature-foot">
+            <span class="feature-kicker">{pt ? 'O aplicativo' : 'The app'}</span>
+            <span class="feature-title">{pt ? 'Ember no seu celular' : 'Ember on your phone'}</span>
+            <span class="feature-sub">{s('nudgeBody')}</span>
+            <span class="feature-cta">{s('seeTheApp')} →</span>
+          </span>
+        </a>
+      </div>
+      <button class="carousel-next" type="button" data-carousel-next hidden aria-label={pt ? 'Próximos' : 'More'}>→</button>
+    </section>
+
     <div class="dash">
       <div class="dash-main">
-        <section aria-label={s('today')}>
-          <div class="carousel">
-          <div class="features" data-carousel>
-            {features.map((feature) => (
-              <a class="feature" href={feature.href} style={`--from:${feature.tone.from};--to:${feature.tone.to}`}>
-                {feature.art ? (
-                  <span class="feature-art"><img src={feature.art} alt="" loading="lazy" decoding="async" /></span>
-                ) : (
-                  <span class="feature-plate" aria-hidden="true">✠</span>
-                )}
-                <span class="feature-foot">
-                  <span class="feature-kicker">{feature.kicker}</span>
-                  <span class="feature-title">{feature.title}</span>
-                  {feature.subtitle && <span class="feature-sub">{feature.subtitle}</span>}
-                </span>
-              </a>
-            ))}
-          </div>
-            <button class="carousel-next" type="button" data-carousel-next hidden aria-label={pt ? 'Próximos' : 'More'}>→</button>
-          </div>
-        </section>
-
         <Shelf title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150} />
 
         {home.meditations.length > 0 && (
@@ -225,7 +219,6 @@ const pillars = pt
       </ul>
     </section>
 
-    <div class="closing" aria-hidden="true"><img src={marker.src} alt="" width="200" height="49" loading="lazy" /></div>
     <p class="aspiratio" lang="la">{aspirationFor(today)}</p>
   </div>
 </Base>
@@ -380,7 +373,7 @@ const pillars = pt
     }
   }
   .feature {
-    flex: 0 0 clamp(170px, 62vw, 190px);
+    flex: 0 0 clamp(220px, 66vw, 290px);
     scroll-snap-align: start;
     position: relative;
     display: flex;
@@ -393,6 +386,43 @@ const pillars = pt
     background: color-mix(in srgb, var(--from) 28%, #0b0908);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.18);
     transition: transform 0.25s ease;
+  }
+  /* The app's card: its Today screen, standing in the light. */
+  .feature.app {
+    background: radial-gradient(120% 75% at 50% 0%, #5a431c, #17120b 72%);
+  }
+  .feature-phone {
+    position: absolute;
+    inset: 6% 0 0 0;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    -webkit-mask-image: linear-gradient(180deg, #000 30%, transparent 54%);
+    mask-image: linear-gradient(180deg, #000 30%, transparent 54%);
+  }
+  .feature-phone img {
+    align-self: flex-start;
+    width: 68%;
+    height: auto;
+    border-radius: 9% / 4.2%;
+    border: 1px solid rgba(232, 201, 122, 0.55);
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.55);
+    transition: transform 0.35s ease;
+  }
+  .feature.app:hover .feature-phone img {
+    transform: translateY(-6px);
+  }
+  .feature-cta {
+    align-self: flex-start;
+    margin-top: 8px;
+    padding: 7px 14px;
+    border-radius: 999px;
+    background: #e8c97a;
+    color: #1a1408;
+    font-family: var(--font-heading);
+    font-size: 11px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
   }
   .feature:hover {
     transform: translateY(-3px);
@@ -460,6 +490,31 @@ const pillars = pt
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+  }
+
+  @media (min-width: 1000px) {
+    .features {
+      gap: 20px;
+    }
+    /* Four to the row, and the edge of a fifth. */
+    .feature {
+      flex-basis: clamp(240px, 22.5vw, 286px);
+    }
+    .feature-foot {
+      padding: 24px;
+      gap: 7px;
+    }
+    .feature-kicker {
+      font-size: 12px;
+    }
+    .feature-title {
+      font-size: 26px;
+      line-height: 31px;
+    }
+    .feature-sub {
+      font-size: 16px;
+      line-height: 22px;
+    }
   }
 
   .hours {
@@ -583,11 +638,6 @@ const pillars = pt
     }
   }
 
-  .closing {
-    display: flex;
-    justify-content: center;
-    padding-top: var(--space-md);
-  }
   .aspiratio {
     text-align: center;
     font-size: 17px;

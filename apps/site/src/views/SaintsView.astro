@@ -1,5 +1,4 @@
 ---
-import PageFlourish from '~/components/PageFlourish.astro'
 import SaintCard from '~/components/SaintCard.astro'
 import Base from '~/layouts/Base.astro'
 import { type Locale, translator } from '~/lib/locale'
@@ -23,7 +22,6 @@ const description = pt
 ---
 
 <Base locale={locale} title={pt ? 'Santos e santinhos' : 'Saints and holy cards'} description={description} alternates={alternates} section="saints">
-  <PageFlourish />
   <div class="wide">
     <header class="page-head">
       <p class="t-kicker">{t('saints.cardCount', { count: catalog.saints.length })}</p>
