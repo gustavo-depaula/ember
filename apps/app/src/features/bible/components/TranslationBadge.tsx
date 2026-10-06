@@ -2,7 +2,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, View, XStack } from 'tamagui'
 
-import { getTranslationLanguage } from '@/lib/bolls'
+import { findTranslation } from '@/lib/bibleTranslations'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 export function LanguageBadge({ code }: { code: string }) {
@@ -27,7 +27,7 @@ export function LanguageBadge({ code }: { code: string }) {
 export function TranslationBadge({ onPress }: { onPress: () => void }) {
   const { t } = useTranslation()
   const translation = usePreferencesStore((s) => s.translation)
-  const language = getTranslationLanguage(translation)
+  const language = findTranslation(translation)?.language ?? ''
 
   return (
     <Pressable

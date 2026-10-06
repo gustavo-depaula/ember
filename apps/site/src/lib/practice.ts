@@ -62,8 +62,8 @@ export async function toPrimitives(
 ): Promise<Primitive[]> {
   const context = {
     queryClient: new QueryClient(),
-    // Douay-Rheims is the one Bible in the corpus; other translations are
-    // fetched from a third party and never built into a page.
+    // The site reads Scripture in the Douay-Rheims; an in-copyright translation
+    // is fetched from its publisher and never built into a page.
     prefs: { lang: locale, translation: 'DRB' },
     date,
     programDay,

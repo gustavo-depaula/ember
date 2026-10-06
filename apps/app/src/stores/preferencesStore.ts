@@ -6,7 +6,7 @@ import { READER_FLOW_MODES, type ReaderFlowMode } from '@/config/readerFlow'
 import { READER_PALETTE_IDS, type ReaderPaletteId } from '@/config/readerPalettes'
 import { type ReadingFontId, readingFonts } from '@/config/readingFonts'
 import { getAllPreferences, removePreference, setPreference } from '@/db/repositories/preferences'
-import { defaultTranslationForLanguage } from '@/lib/bolls'
+import { defaultTranslationForLanguage, findTranslation } from '@/lib/bibleTranslations'
 import i18n from '@/lib/i18n'
 
 type PsalterCycle = '30-day'
@@ -83,7 +83,7 @@ type PreferencesState = {
 
 export const usePreferencesStore = create<PreferencesState>()(
   immer((set) => ({
-    translation: 'RSV2CE',
+    translation: 'DRB',
     psalterCycle: '30-day',
     language: 'en-US',
     jurisdiction: undefined,
@@ -265,7 +265,12 @@ export const usePreferencesStore = create<PreferencesState>()(
       const prefs = await getAllPreferences()
 
       set((state) => {
-        if (prefs.translation) state.translation = prefs.translation
+        // A translation saved before the picker's list changed may be gone from it.
+        if (prefs.translation) {
+          state.translation = findTranslation(prefs.translation)
+            ? prefs.translation
+            : (defaultTranslationForLanguage[prefs.language ?? state.language] ?? 'DRB')
+        }
         if (prefs['psalter-cycle'] === '30-day') state.psalterCycle = '30-day'
         if (prefs.language) state.language = prefs.language
         if (prefs.jurisdiction) state.jurisdiction = prefs.jurisdiction

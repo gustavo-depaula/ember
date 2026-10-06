@@ -1,14 +1,11 @@
 import { Check, X } from 'lucide-react-native'
-import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
-import { AnimatedPressable } from '@/components'
-import { type BollsLanguageEntry, extractLanguageCode, suggestedTranslations } from '@/lib/bolls'
+import { translations } from '@/lib/bibleTranslations'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { useAllTranslations } from '../hooks'
 import { LanguageBadge } from './TranslationBadge'
 
 function TranslationRow({
@@ -64,50 +61,12 @@ function TranslationRow({
   )
 }
 
-function SectionHeader({ title }: { title: string }) {
-  return (
-    <YStack paddingHorizontal="$lg" paddingTop="$lg" paddingBottom="$sm">
-      <Text fontFamily="$heading" fontSize="$3" color="$color" fontWeight="700">
-        {title}
-      </Text>
-    </YStack>
-  )
-}
-
-function buildLanguageGroups(apiData: BollsLanguageEntry[]): Array<{
-  language: string
-  languageCode: string
-  translations: Array<{ code: string; name: string }>
-}> {
-  const suggestedCodes = new Set(suggestedTranslations.map((t) => t.code))
-
-  return apiData
-    .map((lang) => ({
-      language: lang.language.split(/[/（]/)[0].trim(),
-      languageCode: extractLanguageCode(lang.language),
-      translations: lang.translations
-        .filter((t) => !suggestedCodes.has(t.short_name))
-        .map((t) => ({
-          code: t.short_name,
-          name: t.full_name,
-        })),
-    }))
-    .filter((g) => g.translations.length > 0)
-    .sort((a, b) => a.language.localeCompare(b.language))
-}
-
 export function TranslationModal({ visible, onClose }: { visible: boolean; onClose: () => void }) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
   const setTranslation = usePreferencesStore((s) => s.setTranslation)
-  const { data: apiTranslations, isError: translationsError, refetch } = useAllTranslations()
-
-  const languageGroups = useMemo(
-    () => buildLanguageGroups(apiTranslations ?? []),
-    [apiTranslations],
-  )
 
   function handleSelect(code: string) {
     setTranslation(code)
@@ -146,8 +105,7 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
         </XStack>
 
         <ScrollView flex={1}>
-          <SectionHeader title={t('translations.suggested')} />
-          {suggestedTranslations.map((t) => (
+          {translations.map((t) => (
             <TranslationRow
               key={t.code}
               code={t.code}
@@ -158,60 +116,6 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
               onPress={() => handleSelect(t.code)}
             />
           ))}
-
-          {translationsError ? (
-            <XStack
-              marginHorizontal="$lg"
-              marginTop="$md"
-              paddingVertical="$sm"
-              paddingHorizontal="$md"
-              borderRadius="$md"
-              borderWidth={1}
-              borderColor="$borderColor"
-              backgroundColor="$backgroundSurface"
-              alignItems="center"
-              gap="$sm"
-            >
-              <Text flex={1} fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                {t('translations.offline')}
-              </Text>
-              <AnimatedPressable
-                onPress={() => refetch()}
-                accessibilityRole="button"
-                accessibilityLabel={t('common.retry')}
-                hitSlop={8}
-              >
-                <Text fontFamily="$heading" fontSize="$2" color="$accent">
-                  {t('common.retry')}
-                </Text>
-              </AnimatedPressable>
-            </XStack>
-          ) : undefined}
-
-          {languageGroups.length > 0 ? (
-            <>
-              <SectionHeader title={t('translations.all')} />
-              {languageGroups.map((group) => (
-                <YStack key={group.language}>
-                  <YStack paddingHorizontal="$lg" paddingTop="$md" paddingBottom="$xs">
-                    <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary">
-                      {group.language}
-                    </Text>
-                  </YStack>
-                  {group.translations.map((t) => (
-                    <TranslationRow
-                      key={t.code}
-                      code={t.code}
-                      name={t.name}
-                      language={group.languageCode}
-                      selected={translation === t.code}
-                      onPress={() => handleSelect(t.code)}
-                    />
-                  ))}
-                </YStack>
-              ))}
-            </>
-          ) : undefined}
 
           <View height={insets.bottom + 24} />
         </ScrollView>

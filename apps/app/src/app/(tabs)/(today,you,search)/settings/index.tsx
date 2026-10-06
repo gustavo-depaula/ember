@@ -19,7 +19,7 @@ import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
 import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning/hooks'
-import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
+import { findTranslation } from '@/lib/bibleTranslations'
 import { hearthUrl, isLocalHearth, setLocalHearth } from '@/lib/hearth'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -53,7 +53,7 @@ export default function SettingsScreen() {
           <Pressable
             onPress={() => setTranslationModalVisible(true)}
             accessibilityRole="button"
-            accessibilityLabel={`${t('settings.bibleTranslation')}: ${suggestedTranslations.find((tr) => tr.code === translation)?.name ?? translation}. ${t('settings.change')}`}
+            accessibilityLabel={`${t('settings.bibleTranslation')}: ${findTranslation(translation)?.name ?? translation}. ${t('settings.change')}`}
           >
             <XStack
               backgroundColor="$backgroundSurface"
@@ -64,10 +64,10 @@ export default function SettingsScreen() {
             >
               <YStack>
                 <Text fontFamily="$body" fontSize="$2" color="$color">
-                  {suggestedTranslations.find((tr) => tr.code === translation)?.name ?? translation}
+                  {findTranslation(translation)?.name ?? translation}
                 </Text>
                 <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                  {getTranslationLanguage(translation)} · {translation}
+                  {findTranslation(translation)?.language} · {translation}
                 </Text>
               </YStack>
               <Text fontFamily="$body" fontSize="$2" color="$accent">
@@ -264,7 +264,7 @@ export default function SettingsScreen() {
             {t('settings.attrCatechism')}
           </Text>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            {t('settings.attrBolls')}
+            {t('settings.attrBibleOnline')}
           </Text>
         </YStack>
       </YStack>

@@ -508,9 +508,11 @@ export default {
     themeSystem: 'System',
     reading: 'Reading',
     attribution: 'Attribution',
-    attrBible: 'Bible text: Douay-Rheims Bible (public domain)',
+    attrBible:
+      'Bible text: Douay-Rheims, Catholic Public Domain Version and Clementine Vulgate (public domain)',
     attrCatechism: 'Catechism of the Catholic Church, © Libreria Editrice Vaticana',
-    attrBolls: 'Online translations via Bolls.life API',
+    attrBibleOnline:
+      'B\u00edblia Ave Maria read from the Claretian Missionaries, Matos Soares from L\u00edrio Cat\u00f3lico, the Knox Bible from Baronius Press',
     estCompletion: 'Est. completion: {{date}}',
     booksOf: '{{completed}} of {{total}} books',
     languagesSection: 'Languages',
@@ -689,9 +691,6 @@ export default {
 
   translations: {
     title: 'Translations',
-    suggested: 'Suggested Bibles',
-    all: 'All Translations',
-    offline: 'Couldn\u2019t load more translations.',
   },
 
   readingConfig: {

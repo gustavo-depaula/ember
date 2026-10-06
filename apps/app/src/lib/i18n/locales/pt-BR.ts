@@ -513,9 +513,11 @@ export default {
     themeSystem: 'Sistema',
     reading: 'Leitura',
     attribution: 'Atribui\u00e7\u00e3o',
-    attrBible: 'Texto b\u00edblico: B\u00edblia Douay-Rheims (dom\u00ednio p\u00fablico)',
+    attrBible:
+      'Texto b\u00edblico: Douay-Rheims, Catholic Public Domain Version e Vulgata Clementina (dom\u00ednio p\u00fablico)',
     attrCatechism: 'Catecismo da Igreja Cat\u00f3lica, © Libreria Editrice Vaticana',
-    attrBolls: 'Tradu\u00e7\u00f5es online via API Bolls.life',
+    attrBibleOnline:
+      'B\u00edblia Ave Maria lida dos Mission\u00e1rios Claretianos, Matos Soares do L\u00edrio Cat\u00f3lico, B\u00edblia Knox da Baronius Press',
     estCompletion: 'Conclus\u00e3o est.: {{date}}',
     booksOf: '{{completed}} de {{total}} livros',
     languagesSection: 'Idiomas',
@@ -695,9 +697,6 @@ export default {
 
   translations: {
     title: 'Tradu\u00e7\u00f5es',
-    suggested: 'B\u00edblias Sugeridas',
-    all: 'Todas as Tradu\u00e7\u00f5es',
-    offline: 'N\u00e3o foi poss\u00edvel carregar mais tradu\u00e7\u00f5es.',
   },
 
   readingConfig: {

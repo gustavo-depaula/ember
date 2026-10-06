@@ -1,11 +1,9 @@
-import type { BollsBook } from './bolls'
-import { fetchBooks, fetchChapter } from './bolls'
+import { getExternalContent, putExternalContent } from '@/db/repositories/externalContent'
+import { type Verse, webBibles } from '@/sources/bible'
+import { findTranslation } from './bibleTranslations'
 import { fetchHearth } from './hearth'
 
-export type Verse = {
-  verse: number
-  text: string
-}
+export type { Verse }
 
 export type Book = {
   id: string
@@ -21,12 +19,12 @@ type BookMeta = {
   chapters: number
 }
 
-async function getDrbChapter(bookSlug: string, chapter: number): Promise<Verse[]> {
+async function getCorpusChapter(dir: string, bookSlug: string, chapter: number): Promise<Verse[]> {
   const bookData = await fetchHearth<Record<string, Record<string, string>>>(
-    `bible/drb/${bookSlug}.json`,
+    `bible/${dir}/${bookSlug}.json`,
   )
   const chapterData = bookData[String(chapter)]
-  if (!chapterData) throw new Error(`Chapter ${chapter} not found in ${bookSlug}`)
+  if (!chapterData) throw new Error(`Chapter ${chapter} not found in ${dir}/${bookSlug}`)
 
   return Object.entries(chapterData)
     .map(([verseNum, text]) => ({
@@ -36,43 +34,36 @@ async function getDrbChapter(bookSlug: string, chapter: number): Promise<Verse[]
     .sort((a, b) => a.verse - b.verse)
 }
 
-let drbBooksCache: Book[] | undefined
+const corpusBooksCache = new Map<string, Book[]>()
 
-export async function getDrbBooks(): Promise<Book[]> {
-  if (!drbBooksCache) {
-    const index = await fetchHearth<BookMeta[]>('bible/drb/index.json')
-    drbBooksCache = index.map((b) => ({
-      id: b.slug,
-      name: b.name,
-      chapters: b.chapters,
-      testament: b.testament,
-    }))
-  }
-  return drbBooksCache
-}
-
-const bollsBookCache = new Map<string, BollsBook[]>()
-
-async function getBollsBooks(translation: string): Promise<BollsBook[]> {
-  const cached = bollsBookCache.get(translation)
+async function getCorpusBooks(dir: string): Promise<Book[]> {
+  const cached = corpusBooksCache.get(dir)
   if (cached) return cached
-
-  const books = await fetchBooks(translation)
-  bollsBookCache.set(translation, books)
+  const index = await fetchHearth<BookMeta[]>(`bible/${dir}/index.json`)
+  const books = index.map((b) => ({
+    id: b.slug,
+    name: b.name,
+    chapters: b.chapters,
+    testament: b.testament,
+  }))
+  corpusBooksCache.set(dir, books)
   return books
 }
 
+export function getDrbBooks(): Promise<Book[]> {
+  return getCorpusBooks('drb')
+}
+
+// Every translation lists the same 73 books under the Douay slugs, so a
+// reference or a reading position carries over when the translation changes.
 export async function getBooks(translation: string): Promise<Book[]> {
-  if (translation === 'DRB') return getDrbBooks()
+  const corpus = findTranslation(translation)?.corpus
+  if (corpus) return getCorpusBooks(corpus)
 
-  const bollsBooks = await getBollsBooks(translation)
-
-  return bollsBooks.map((b) => ({
-    id: String(b.bookid),
-    name: b.name,
-    chapters: b.chapters,
-    testament: b.bookid <= 46 ? ('ot' as const) : ('nt' as const),
-  }))
+  const drbBooks = await getDrbBooks()
+  const chapters = webBibles[translation]?.chapters
+  if (!chapters) return drbBooks
+  return drbBooks.map((b) => ({ ...b, chapters: chapters[b.id] ?? b.chapters }))
 }
 
 export type ChapterResult = {
@@ -80,42 +71,30 @@ export type ChapterResult = {
   fallback?: boolean
 }
 
-// Bolls numbers books with one scheme across every translation: 1–66 in the
-// Protestant order, the deuterocanon after them on these fixed ids. A Catholic
-// translation carries 73 books but does not renumber them into Catholic order.
-const deuterocanonicalBollsIds: Record<string, number> = {
-  tobias: 68,
-  judith: 69,
-  wisdom: 70,
-  ecclesiasticus: 71,
-  baruch: 73,
-  '1-machabees': 74,
-  '2-machabees': 75,
+// A chapter read from its publisher is kept in `external_content`, so it is
+// fetched once and reads offline afterwards.
+async function getWebChapter(translation: string, bookId: string, chapter: number) {
+  const key = {
+    producerId: `bible/${translation}`,
+    producerVersion: '1',
+    lang: '',
+    cacheKey: `${bookId}/${chapter}`,
+    paramsKey: '',
+  }
+  const cached = await getExternalContent<Verse[]>(key)
+  if (cached) return cached.payload
+
+  const verses = await webBibles[translation].fetchChapter(bookId, chapter)
+  if (verses.length === 0) throw new Error(`${translation}: no verses in ${bookId} ${chapter}`)
+  await putExternalContent(key, verses)
+  return verses
 }
 
-// bookId is either a numeric string (from the Bible reader) or a DRB slug (from
-// lectio track entries). Slugs can't be matched by name: `/get-books/` answers
-// in the translation's own language ("Mateus" under CNBB, "Evangelium secundum
-// Matthaeum" under VULG), so the slug maps onto Bolls' fixed id scheme instead.
-async function resolveBollsBookId(
-  translation: string,
-  bookId: string,
-): Promise<number | undefined> {
-  const numeric = Number.parseInt(bookId, 10)
-  if (!Number.isNaN(numeric)) return numeric
-
-  const drbBooks = await getDrbBooks()
-  // Dropping the deuterocanon from the DRB's 73 leaves the 66-book order.
-  const position = drbBooks
-    .filter((b) => !(b.id in deuterocanonicalBollsIds))
-    .findIndex((b) => b.id === bookId)
-  const id = deuterocanonicalBollsIds[bookId] ?? (position >= 0 ? position + 1 : undefined)
-  if (id === undefined) return undefined
-
-  // A deuterocanonical book asked of a 66-book translation is missing here,
-  // and rightly falls through to the bundled DRB.
-  const bollsBooks = await getBollsBooks(translation)
-  return bollsBooks.some((b) => b.bookid === id) ? id : undefined
+function getTranslationChapter(translation: string, bookId: string, chapter: number) {
+  const corpus = findTranslation(translation)?.corpus
+  if (corpus) return getCorpusChapter(corpus, bookId, chapter)
+  if (translation in webBibles) return getWebChapter(translation, bookId, chapter)
+  throw new Error(`Unknown translation: ${translation}`)
 }
 
 export async function getChapter(
@@ -124,23 +103,18 @@ export async function getChapter(
   chapter: number,
 ): Promise<ChapterResult> {
   if (translation === 'DRB') {
-    return { verses: await getDrbChapter(bookId, chapter) }
+    return { verses: await getCorpusChapter('drb', bookId, chapter) }
   }
 
+  // Offline, a publisher's site changed, or a chapter this translation numbers
+  // differently: the Douay-Rheims stands in, and `fallback` tells the reader so.
   try {
-    const bollsId = await resolveBollsBookId(translation, bookId)
-    if (bollsId === undefined) throw new Error(`Unknown book: ${bookId}`)
-    const verses = await fetchChapter(translation, bollsId, chapter)
-    return {
-      verses: verses.map((v) => ({ verse: v.verse, text: v.text })),
-    }
-  } catch {
+    return { verses: await getTranslationChapter(translation, bookId, chapter) }
+  } catch (cause) {
     try {
-      return { verses: await getDrbChapter(bookId, chapter), fallback: true }
+      return { verses: await getCorpusChapter('drb', bookId, chapter), fallback: true }
     } catch {
-      throw new Error(
-        `Failed to fetch ${translation}/${bookId}/${chapter} and no DRB fallback found`,
-      )
+      throw new Error(`Failed to fetch ${translation}/${bookId}/${chapter}`, { cause })
     }
   }
 }

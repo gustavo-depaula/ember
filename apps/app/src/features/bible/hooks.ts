@@ -3,7 +3,6 @@ import { useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useShallow } from 'zustand/react/shallow'
 
-import { type BollsLanguageEntry, fetchAllTranslations } from '@/lib/bolls'
 import { type Book, getBooks, getChapter } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -17,17 +16,11 @@ export function useBooks(translation: string) {
   })
 }
 
-/**
- * Display name for a reader position. Bolls translations key books by numeric
- * id ("28"), which the `bookName` table doesn't know — fall back to the
- * translation's own book list, and stay undefined until it's loaded rather
- * than surface the bare number.
- */
+/** Display name for a reader position, in the interface language. */
 export function useBookName(translation: string, bookId: string) {
   const { t } = useTranslation()
   const { data: books } = useBooks(translation)
   const book = books?.find((b) => b.id === bookId)
-  if (!book && !Number.isNaN(Number.parseInt(bookId, 10))) return undefined
   return t(`bookName.${bookId}`, { defaultValue: book?.name ?? bookId })
 }
 
@@ -88,12 +81,4 @@ export function usePrefetchAdjacentChapters(
       })
     }
   }, [translation, bookId, chapter, queryClient])
-}
-
-export function useAllTranslations() {
-  return useQuery<BollsLanguageEntry[]>({
-    queryKey: ['bolls', 'translations'],
-    queryFn: fetchAllTranslations,
-    staleTime: Number.POSITIVE_INFINITY,
-  })
 }

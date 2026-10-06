@@ -213,7 +213,7 @@ function PracticeReady({
 
 // The real header over a skeleton of the page, so nothing above the fold moves
 // when the prayers arrive. External fetches (Compendium → vatican.va, Bible
-// chapters → bolls.life) can hold this for several seconds.
+// chapters → a publisher's site) can hold this for several seconds.
 function PracticeLoading({ manifest }: { manifest: PracticeManifest }) {
   const { t } = useTranslation()
   const router = useRouter()
