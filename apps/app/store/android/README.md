@@ -59,7 +59,9 @@ only); there is no foreground service and no exact-alarm permission.
 
 ### Data safety
 
-The app has no accounts, ads or analytics; the answers below come from what the code sends.
+The app has no ads or analytics and needs no account; the answers below come from what the code
+sends. They change when sync ships (synced data is collected, encrypted in transit and at rest),
+so answer the form again with that release.
 
 - Does the app collect or share user data? **Yes** (collect), **No** (share).
 - Encrypted in transit? **Yes.** Can users request deletion? **Yes** — through the address in

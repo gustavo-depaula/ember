@@ -1,6 +1,6 @@
 Ember is a companion for the Catholic life of prayer. It meets you where you are, from a first Our Father to the full Divine Office, and walks with you day by day.
 
-It is free and open source. There are no ads, no accounts and no tracking: what you pray and read stays on your phone.
+It is free and open source, with no ads and no tracking. It works without an account, and what you pray and read is yours alone.
 
 A PLAN OF LIFE
 Build a daily rule of prayer and keep it. Choose a tradition to begin with (Salesian, Ignatian, Carmelite, the Little Way and others) or shape your own, practice by practice. Set the days and the hour for each, with a reminder if you want one. Today shows what the day asks of you, and a wall of stars shows how faithfully you have kept it.

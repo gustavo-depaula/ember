@@ -58,7 +58,7 @@ An illuminated manuscript aesthetic — ornamental dividers, gold accents, curat
 - **Book Reader** — long-form prose with CSS column pagination
 - **Liturgical Calendar** — OF + EF seasons, 347-entry sanctoral cycle, seasonal theming
 - **Multilingual** — English + Brazilian Portuguese
-- **Offline-first** — local storage only, no backend, no accounts
+- **Offline-first** — everything works on the device, with no account needed
 
 <!-- TODO: Add download/install links when available -->
 <!-- ## Get Ember -->

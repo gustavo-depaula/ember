@@ -7,7 +7,7 @@ const strings = {
     siteName: 'Ember',
     tagline: 'A companion for the Catholic life of prayer',
     description:
-      'Pray the Rosary, the Mass and the Hours. Read the saints and the Catholic classics. Find Mass near you. Free, with no ads, accounts or tracking.',
+      'Pray the Rosary, the Mass and the Hours. Read the saints and the Catholic classics. Find Mass near you. Free, with no ads and no tracking.',
     navToday: 'Today',
     navPrayers: 'Prayers',
     navMass: 'Mass',
@@ -43,7 +43,7 @@ const strings = {
     privacy: 'Privacy',
     source: 'Source code',
     footFine:
-      'Ember is free and open source, with no ads, no accounts and no tracking. Scripture is the Douay-Rheims Bible, in the public domain. The traditional Breviary and Missal are from Divinum Officium.',
+      'Ember is free and open source, with no ads and no tracking. Scripture is the Douay-Rheims Bible, in the public domain. The traditional Breviary and Missal are from Divinum Officium.',
     amdg: 'Ad maiorem Dei gloriam',
     minutes: '{{count}} min',
     day: 'Day {{n}}',
@@ -64,7 +64,7 @@ const strings = {
     siteName: 'Ember',
     tagline: 'Um companheiro para a vida católica de oração',
     description:
-      'Reze o Terço, a Missa e as Horas. Leia os santos e os clássicos católicos. Encontre a Missa perto de você. Gratuito, sem anúncios, contas nem rastreamento.',
+      'Reze o Terço, a Missa e as Horas. Leia os santos e os clássicos católicos. Encontre a Missa perto de você. Gratuito, sem anúncios nem rastreamento.',
     navToday: 'Hoje',
     navPrayers: 'Orações',
     navMass: 'Missa',
@@ -100,7 +100,7 @@ const strings = {
     privacy: 'Privacidade',
     source: 'Código-fonte',
     footFine:
-      'O Ember é gratuito e de código aberto, sem anúncios, contas nem rastreamento. A Escritura em inglês é a Bíblia Douay-Rheims, em domínio público. O Breviário e o Missal tradicionais vêm do Divinum Officium.',
+      'O Ember é gratuito e de código aberto, sem anúncios nem rastreamento. A Escritura em inglês é a Bíblia Douay-Rheims, em domínio público. O Breviário e o Missal tradicionais vêm do Divinum Officium.',
     amdg: 'Ad maiorem Dei gloriam',
     minutes: '{{count}} min',
     day: 'Dia {{n}}',
