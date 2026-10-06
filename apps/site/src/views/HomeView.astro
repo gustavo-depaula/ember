@@ -122,9 +122,29 @@ const pillars = pt
       <button class="carousel-next" type="button" data-carousel-next hidden aria-label={pt ? 'Próximos' : 'More'}>→</button>
     </section>
 
-    <Shelf row title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150} />
+    <div class="dash">
+      <div class="dash-main">
+        <Shelf title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150} />
 
-    <section class="liturgy" aria-label={pt ? 'A liturgia de hoje' : 'The liturgy today'}>
+        {home.meditations.length > 0 && (
+          <section>
+            <div class="row-head"><h2>{t('explore.dailyMeditations')}</h2></div>
+            <div class="shelf">
+              {home.meditations.map((m) => (
+                <a class="meditation" href={m.href}>
+                  {m.art && <img src={m.art} alt="" loading="lazy" decoding="async" />}
+                  <span class="meditation-text">
+                    <span class="meditation-title">{m.title}</span>
+                    <span class="meditation-sub">{m.tagline}</span>
+                  </span>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
+      </div>
+
+      <aside class="dash-aside" aria-label={pt ? 'A liturgia de hoje' : 'The liturgy today'}>
         <section class="panel">
           <h2 class="t-marker">{pt ? 'Santa Missa' : 'Holy Mass'}</h2>
           <p class="t-kicker">{home.of.dayName}</p>
@@ -162,28 +182,9 @@ const pillars = pt
           </nav>
         </section>
 
-        <div class="panel"><MassTimesNotice locale={locale} /></div>
-    </section>
-
-        {home.meditations.length > 0 && (
-          <section>
-            <div class="row-head"><h2>{t('explore.dailyMeditations')}</h2></div>
-            <div class="carousel" style="--arrow-top:50%">
-            <div class="shelf row" data-carousel>
-              {home.meditations.map((m) => (
-                <a class="meditation" href={m.href}>
-                  {m.art && <img src={m.art} alt="" loading="lazy" decoding="async" />}
-                  <span class="meditation-text">
-                    <span class="meditation-title">{m.title}</span>
-                    <span class="meditation-sub">{m.tagline}</span>
-                  </span>
-                </a>
-              ))}
-            </div>
-              <button class="carousel-next" type="button" data-carousel-next hidden aria-label={pt ? 'Próximos' : 'More'}>→</button>
-            </div>
-          </section>
-        )}
+        <MassTimesNotice locale={locale} />
+      </aside>
+    </div>
 
     <section class="places">
       <a class="place jewel" style="--from:#1E3A5C;--to:#0A1626" href={href.section(locale, 'bible')}>
@@ -273,21 +274,30 @@ const pillars = pt
     max-width: 30em;
   }
 
-  /* The day's liturgy: a column on a phone, four across a desktop. */
-  .liturgy {
+  .dash {
     display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--space-xl);
+  }
+  .dash-main {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
+    min-width: 0;
+  }
+  .dash-aside {
+    display: flex;
+    flex-direction: column;
     gap: var(--space-lg);
   }
   @media (min-width: 1000px) {
-    .liturgy {
-      grid-template-columns: 1.35fr 1fr 1fr 1.1fr;
-      gap: 0;
+    .dash {
+      grid-template-columns: minmax(0, 1fr) 340px;
+      gap: 56px;
     }
-    .liturgy .panel + .panel {
-      padding: 0 0 0 36px;
-      margin-left: 36px;
-      border-top: 0;
-      border-left: 0.5px solid var(--hairline);
+    .dash-aside {
+      padding-left: 40px;
+      border-left: 0.5px solid var(--border-color);
     }
   }
   .panel {
@@ -717,8 +727,9 @@ const pillars = pt
       gap: 20px;
     }
     /* The other rows keep the app's proportion to the carousel's cards. */
-    .home :global(.shelf.row > .tile) {
-      --tile-w: 232px !important;
+    /* Four stamps fill the column's width. */
+    .dash-main :global(.shelf > .tile) {
+      --tile-w: calc((100% - 60px) / 4) !important;
     }
     .meditation {
       width: 300px;

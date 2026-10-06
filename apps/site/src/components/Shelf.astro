@@ -10,12 +10,9 @@ interface Props {
   /** Where the gold arrow leads, when the shelf has a page of its own. */
   more?: string
   width?: number
-  /** One row to turn, running to the window's edges, where a shelf would wrap on a wide screen. */
-  row?: boolean
 }
 
-const { title, tiles, locale, more, width = 150, row } = Astro.props
-const sized = (tile: TileData) => (tile.shape === 'book' ? Math.round(width * 0.8) : width)
+const { title, tiles, locale, more, width = 150 } = Astro.props
 ---
 
 <section>
@@ -27,18 +24,7 @@ const sized = (tile: TileData) => (tile.shape === 'book' ? Math.round(width * 0.
       </div>
     )
   }
-  {
-    row ? (
-      <div class="carousel">
-        <div class="shelf row" data-carousel>
-          {tiles.map((tile) => <Tile tile={tile} locale={locale} width={sized(tile)} />)}
-        </div>
-        <button class="carousel-next" type="button" data-carousel-next hidden aria-label={locale === 'pt-BR' ? 'Próximos' : 'More'}>→</button>
-      </div>
-    ) : (
-      <div class="shelf">
-        {tiles.map((tile) => <Tile tile={tile} locale={locale} width={sized(tile)} />)}
-      </div>
-    )
-  }
+  <div class="shelf">
+    {tiles.map((tile) => <Tile tile={tile} locale={locale} width={tile.shape === 'book' ? Math.round(width * 0.8) : width} />)}
+  </div>
 </section>

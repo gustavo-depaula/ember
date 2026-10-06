@@ -714,19 +714,9 @@ main {
   }
 }
 
-/* A row to turn: it keeps to one line on any screen and runs to the window's
-   edges, resting on the page's margin. An arrow turns it for a pointer. */
+/* A row to turn, with an arrow to turn it for a pointer. */
 .carousel {
   position: relative;
-}
-
-.shelf.row {
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  margin-inline: calc(50% - 50vw);
-  padding-inline: calc(50vw - 50%);
-  /* Relative to the scroller itself, a percentage here would come to nothing. */
-  scroll-padding-inline: var(--page-margin);
 }
 
 .carousel-next {
