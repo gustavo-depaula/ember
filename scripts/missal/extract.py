@@ -8,7 +8,7 @@ and writes one JSON file per upstream file plus a report of everything that
 did not line up. Nothing is interpreted here: classes and anchors are carried
 through as-is so a later pass can map them onto Ember's schema.
 
-    python3 extract.py                # consult/upstream -> consult/out
+    python3 scripts/missal/extract.py   # research/missale-romanum/consult: upstream -> out
 """
 
 import argparse
@@ -22,6 +22,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup, Comment, NavigableString
 
 here = Path(__file__).parent
+research = here.parent.parent / "research" / "missale-romanum"
 pinnedCommit = "be8004c04e693b30f9fbd9bed2dbad4cc64a7cef"
 langs = ["latin", "port", "engl", "cast", "ital", "fran", "germ"]
 # Files with no per-language counterpart: every language sits inline.
@@ -37,6 +38,7 @@ standalone = [
 # targets (the common a saint borrows from, a preface) only exist there.
 droppedAttrs = {"style", "align", "color", "size", "face"}
 ws = re.compile(r"\s+")
+gap = re.compile(r"\s+")
 
 
 def parse(path):
@@ -57,7 +59,9 @@ def to_node(el):
     if isinstance(el, Comment):
         return {"comment": el.strip()}
     if isinstance(el, NavigableString):
-        text = ws.sub(" ", str(el))
+        # A newline is kept as such: where a language has no <br>, its source
+        # lines are the sense lines of the prayer.
+        text = gap.sub(lambda m: "\n" if "\n" in m.group() else " ", str(el))
         return text if text.strip() else None
     node = {"tag": el.name}
     classes = [
@@ -90,30 +94,40 @@ def index_slots(body):
 
 
 def join(structure, lang_bodies, stats):
-    """Fill every `padre_N` in document order, as upstream's `carga_pagina` does:
-    each language's matching `hijo_N` elements are moved in, so a slot number
-    that appears twice in the skeleton only fills the first time."""
+    """Fill every `padre_N`, as upstream's `carga_pagina` does.
+
+    Upstream first cuts out the one block it was asked for (`div.dia#anchor`)
+    and only then moves each language's matching `hijo_N` elements in. So slot
+    numbers are free to repeat from one block to the next, while inside a
+    block a number that appears twice fills only the first time, and an hijo
+    nested in one already moved goes with its parent.
+    """
 
     index = {lang: index_slots(body) for lang, body in lang_bodies.items()}
+    used = {lang: set() for lang in lang_bodies}
 
-    def walk(el):
+    def walk(el, taken):
+        if "dia" in (el.get("class") or []):
+            taken = {lang: set() for lang in lang_bodies}
         node = to_node_shallow(el)
         slot = slot_of(el)
         if slot is not None:
             node["slot"] = slot
             fills = {}
-            for lang, body in lang_bodies.items():
-                # An hijo nested in one already moved went with its parent.
+            for lang in lang_bodies:
                 found = [
-                    h.extract()
+                    h
                     for h in index[lang].get(slot, [])
-                    if body in h.parents
+                    if id(h) not in taken[lang]
+                    and not any(id(p) in taken[lang] for p in h.parents)
                 ]
                 if not found:
                     stats[lang]["emptySlots"] += 1
                     continue
+                for h in found:
+                    taken[lang].add(id(h))
+                    used[lang].add(id(h))
                 stats[lang]["filled"] += len(found)
-                stats[lang]["chars"] += sum(text_len(h) for h in found)
                 fills[lang] = [to_node(h) for h in found]
             if fills:
                 node["fill"] = fills
@@ -122,21 +136,47 @@ def join(structure, lang_bodies, stats):
             if isinstance(c, (NavigableString, Comment)):
                 n = to_node(c)
             else:
-                n = walk(c)
+                n = walk(c, taken)
             if n is not None:
                 children.append(n)
         if children:
             node["children"] = children
         return node
 
-    return [
+    whole_file = {lang: set() for lang in lang_bodies}
+    nodes = [
         n
         for n in (
-            walk(c) if not isinstance(c, NavigableString) else to_node(c)
+            walk(c, whole_file) if not isinstance(c, NavigableString) else to_node(c)
             for c in structure.children
         )
         if n is not None
     ]
+    return nodes, used
+
+
+def unplaced(body, used):
+    """What of a language file no block ever took: the nodes, and their size."""
+    left = []
+
+    def visit(el):
+        for child in list(el.children):
+            if isinstance(child, Comment):
+                continue
+            if isinstance(child, NavigableString):
+                if child.strip():
+                    left.append(child)
+                continue
+            if id(child) in used:
+                continue
+            # An unused wrapper may still hold used passages; descend into it.
+            if any(id(d) in used for d in child.find_all(class_="hijo")):
+                visit(child)
+            else:
+                left.append(child)
+
+    visit(body)
+    return left
 
 
 def to_node_shallow(el):
@@ -174,32 +214,25 @@ def extract_joined(src, out, report):
             lang_bodies[lang] = parse(path)
             totals[lang] = text_len(lang_bodies[lang])
         stats = defaultdict(Counter)
-        nodes = join(structure, lang_bodies, stats)
+        nodes, used = join(structure, lang_bodies, stats)
         orphans = {}
         for lang, body in lang_bodies.items():
-            left = [n for n in (to_node(c) for c in body.children) if n is not None]
-            if left:
-                orphans[lang] = left
+            left = unplaced(body, used[lang])
+            kept = [n for n in (to_node(c) for c in left) if n is not None]
+            if kept:
+                orphans[lang] = kept
+            leftover = sum(
+                len(ws.sub("", str(c))) if isinstance(c, NavigableString) else text_len(c)
+                for c in left
+            )
             row = report["langs"][lang]
             row["filled"] += stats[lang]["filled"]
             row["emptySlots"] += stats[lang]["emptySlots"]
             row["chars"] += totals[lang]
-            row["charsPlaced"] += stats[lang]["chars"]
-            leftover = text_len(body)
             row["charsOrphaned"] += leftover
             if leftover:
                 report["orphans"].append(
                     {"file": f"{section}/{name}", "lang": lang, "chars": leftover}
-                )
-            # Every character of the language file is either in a slot or
-            # reported as an orphan; anything else means the join lost text.
-            if stats[lang]["chars"] + leftover != totals[lang]:
-                report["lost"].append(
-                    {
-                        "file": f"{section}/{name}",
-                        "lang": lang,
-                        "chars": totals[lang] - stats[lang]["chars"] - leftover,
-                    }
                 )
         blocks = [
             n
@@ -235,8 +268,8 @@ def write(path, doc):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--upstream", type=Path, default=here / "consult" / "upstream")
-    ap.add_argument("--out", type=Path, default=here / "consult" / "out")
+    ap.add_argument("--upstream", type=Path, default=research / "consult" / "upstream")
+    ap.add_argument("--out", type=Path, default=research / "consult" / "out")
     args = ap.parse_args()
 
     head = subprocess.run(
