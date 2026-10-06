@@ -31,7 +31,7 @@ export const deoGratias: Localized = {
   de: 'Dank sei Gott.',
 }
 
-/** People's reply to the Gospel announcement and to "The Gospel of the Lord". */
+/** People's reply to the Gospel announcement, before the text is read. */
 export const gloryToYou: Localized = {
   'pt-BR': 'Glória a vós, Senhor.',
   la: 'Glória tibi, Dómine.',
@@ -40,4 +40,17 @@ export const gloryToYou: Localized = {
   it: 'Gloria a te, o Signore.',
   fr: 'Gloire à toi, Seigneur !',
   de: 'Ehre sei dir, o Herr.',
+}
+
+/** People's reply to "The Gospel of the Lord", after the text is read. Only
+ * pt-BR repeats the announcement's reply here; the other Missals have a
+ * distinct one (Laus tibi, Christe). */
+export const praiseToYou: Localized = {
+  'pt-BR': 'Glória a vós, Senhor.',
+  la: 'Laus tibi, Christe.',
+  'en-US': 'Praise to you, Lord Jesus Christ.',
+  es: 'Gloria a ti, Señor Jesús.',
+  it: 'Lode a te, o Cristo.',
+  fr: 'Louange à toi, Seigneur Jésus !',
+  de: 'Lob sei dir, Christus.',
 }

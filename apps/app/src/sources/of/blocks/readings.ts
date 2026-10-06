@@ -7,14 +7,14 @@ import type {
   VersesPrimitive,
 } from '@/content/primitives'
 import { brt, bt, heading, joinLine, type LangPrefs, rubric, text } from '../helpers'
-import { deoGratias, gloryToYou } from '../responses'
+import { deoGratias, gloryToYou, praiseToYou } from '../responses'
 
 /** The people's reply that seals each reading — the priest's "Palavra do
  * Senhor."/"Palavra da Salvação." is in the propers; the response is fixed. */
 const readingResponse: Record<string, Localized | undefined> = {
   firstReading: deoGratias,
   secondReading: deoGratias,
-  gospel: gloryToYou,
+  gospel: praiseToYou,
 }
 
 const slotLabels: Record<string, { pt: string; en: string }> = {

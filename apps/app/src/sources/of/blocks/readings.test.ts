@@ -21,6 +21,21 @@ describe('renderReadingSet — multiple options', () => {
     expect(flat).toMatch(/Forma breve/)
   })
 
+  it('answers the Gospel announcement and its conclusion with different replies', () => {
+    const gospel: Reading = {
+      options: [
+        {
+          body: { lines: { 'en-US': [line('In the beginning was the Word.')] } },
+          conclusion: { 'en-US': 'The Gospel of the Lord.' },
+        },
+      ],
+    }
+    const [picker, dialogue] = renderReadingSet({ gospel }, { primary: 'en-US' })
+    expect(JSON.stringify(picker)).toContain('Glory to you, O Lord.')
+    expect(JSON.stringify(dialogue)).toContain('Praise to you, Lord Jesus Christ.')
+    expect(JSON.stringify(dialogue)).not.toContain('Glory to you, O Lord.')
+  })
+
   it('renders the psalm as a titled ℟ responsorial keeping every refrain', () => {
     const psalm: ResponsorialPsalm = {
       options: [
