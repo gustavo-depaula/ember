@@ -1,0 +1,21 @@
+appId: me.dpgu.ember
+---
+- runFlow:
+    when:
+      visible: "Sheet Grabber"
+    commands:
+      - swipe:
+          start: 50%, 45%
+          end: 50%, 98%
+          duration: 300
+      - waitForAnimationToEnd
+- openLink: me.dpgu.ember://dev/reset?date=${DATE}&lang=${LANG}&enableSlots=practice/morning-offering::1,practice/mental-prayer::1,practice/mass::1,practice/rosary::1,practice/angelus::1,practice/spiritual-reading::1,practice/examination-of-conscience::1,practice/night-prayer::1
+- runFlow:
+    when:
+      visible: "Open"
+    commands:
+      - tapOn: "Open"
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 12000
+    optional: true

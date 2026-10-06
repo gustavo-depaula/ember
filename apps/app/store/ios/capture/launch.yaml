@@ -1,0 +1,18 @@
+appId: me.dpgu.ember
+---
+- stopApp
+- launchApp:
+    clearState: false
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 3000
+    optional: true
+- runFlow:
+    when:
+      visible: "DEVELOPMENT SERVERS"
+    commands:
+      - tapOn: "Ember, http://127.0.0.1:8099"
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 15000
+    optional: true

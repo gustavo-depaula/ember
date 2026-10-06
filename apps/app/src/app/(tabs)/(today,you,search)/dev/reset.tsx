@@ -5,7 +5,7 @@
 // the route is never exposed to end users.
 //
 // Usage:
-//   ember://dev/reset?date=2026-01-14&enableSlots=grace-meals::1
+//   ember://dev/reset?date=2026-01-14&enableSlots=grace-meals::1&lang=pt-BR&history=30
 
 import { useQueryClient } from '@tanstack/react-query'
 import { Redirect, useLocalSearchParams, useRouter } from 'expo-router'
@@ -19,7 +19,12 @@ export default function ResetForTests() {
 
   const router = useRouter()
   const queryClient = useQueryClient()
-  const params = useLocalSearchParams<{ date?: string; enableSlots?: string }>()
+  const params = useLocalSearchParams<{
+    date?: string
+    enableSlots?: string
+    lang?: string
+    history?: string
+  }>()
   const [error, setError] = useState<string | undefined>()
 
   useEffect(() => {
@@ -29,6 +34,8 @@ export default function ResetForTests() {
         await resetForTests({
           now: params.date,
           enableSlotKeys: params.enableSlots ? params.enableSlots.split(',') : undefined,
+          language: params.lang,
+          historyDays: params.history ? Number(params.history) : undefined,
         })
         queryClient.clear()
         if (!cancelled) router.replace('/')
@@ -40,7 +47,7 @@ export default function ResetForTests() {
     return () => {
       cancelled = true
     }
-  }, [params.date, params.enableSlots, queryClient, router])
+  }, [params.date, params.enableSlots, params.lang, params.history, queryClient, router])
 
   return (
     <YStack flex={1} alignItems="center" justifyContent="center" padding="$lg" gap="$sm">

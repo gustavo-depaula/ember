@@ -1,0 +1,130 @@
+appId: me.dpgu.ember
+---
+- runFlow:
+    file: launch.yaml
+- openLink: me.dpgu.ember://dev/reset?date=2026-10-07&lang=${LANG}&history=45&enableSlots=practice/morning-offering::1,practice/mental-prayer::1,practice/mass::1,practice/rosary::1,practice/angelus::1,practice/spiritual-reading::1,practice/examination-of-conscience::1,practice/night-prayer::1
+- runFlow:
+    when:
+      visible: "Open"
+    commands:
+      - tapOn: "Open"
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 12000
+    optional: true
+# Plan sheet, fully raised.
+- tapOn:
+    point: 24%, 71%
+- waitForAnimationToEnd
+- tapOn:
+    id: "slot-toggle-practice/morning-offering"
+- waitForAnimationToEnd
+- tapOn:
+    id: "slot-toggle-practice/mental-prayer"
+- waitForAnimationToEnd
+- tapOn:
+    id: "slot-toggle-practice/rosary"
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 45%
+    end: 50%, 8%
+    duration: 500
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 3000
+    optional: true
+- takeScreenshot: ${OUT}/13-plan-sheet
+- swipe:
+    start: 50%, 10%
+    end: 50%, 60%
+    duration: 300
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 45%
+    end: 50%, 98%
+    duration: 300
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/dbg-after-sheet
+# Holy card, then the rest of the saint's page.
+- tapOn:
+    point: 35%, 35%
+- waitForAnimationToEnd:
+    timeout: 6000
+- tapOn:
+    point: 19%, 32%
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 4000
+    optional: true
+- tapOn:
+    point: 50%, 50%
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 4000
+    optional: true
+- tapOn:
+    point: 85%, 83%
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 9000
+    optional: true
+- swipe:
+    start: 50%, 80%
+    end: 50%, 25%
+    duration: 800
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/15-saint-page
+- swipe:
+    start: 50%, 80%
+    end: 50%, 25%
+    duration: 800
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/16-saint-page-2
+- swipe:
+    start: 50%, 80%
+    end: 50%, 25%
+    duration: 800
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/17-saint-page-3
+- swipe:
+    start: 50%, 25%
+    end: 50%, 95%
+    duration: 200
+- swipe:
+    start: 50%, 25%
+    end: 50%, 95%
+    duration: 200
+- swipe:
+    start: 50%, 25%
+    end: 50%, 95%
+    duration: 200
+- waitForAnimationToEnd
+- tapOn:
+    point: 92%, 10%
+- waitForAnimationToEnd
+# Traditions.
+- openLink: me.dpgu.ember://templates
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 7000
+    optional: true
+- takeScreenshot: ${OUT}/14-traditions
+- swipe:
+    start: 50%, 75%
+    end: 50%, 30%
+    duration: 700
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/14-traditions-2
+# Mass.
+- openLink: me.dpgu.ember://pray/mass
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 12000
+    optional: true
+- takeScreenshot: ${OUT}/18-mass
+- swipe:
+    start: 50%, 80%
+    end: 50%, 30%
+    duration: 800
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/18-mass-2

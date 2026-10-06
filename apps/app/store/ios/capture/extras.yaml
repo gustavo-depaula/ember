@@ -1,0 +1,57 @@
+appId: me.dpgu.ember
+---
+- runFlow:
+    file: launch.yaml
+- openLink: me.dpgu.ember://dev/reset?date=2026-10-07&lang=${LANG}&history=45&enableSlots=practice/morning-offering::1,practice/mental-prayer::1,practice/mass::1,practice/rosary::1,practice/angelus::1,practice/spiritual-reading::1,practice/examination-of-conscience::1,practice/night-prayer::1
+- runFlow:
+    when:
+      visible: "Open"
+    commands:
+      - tapOn: "Open"
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 12000
+    optional: true
+# You tab.
+- tapOn:
+    point: 36%, 95%
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 5000
+    optional: true
+- takeScreenshot: ${OUT}/10-you
+- swipe:
+    start: 50%, 75%
+    end: 50%, 30%
+    duration: 700
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/you-2
+- swipe:
+    start: 50%, 75%
+    end: 50%, 30%
+    duration: 700
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/you-3
+# Chronicle.
+- openLink: me.dpgu.ember://memoria
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 6000
+    optional: true
+- takeScreenshot: ${OUT}/11-chronicle
+- tapOn:
+    point: 7%, 12%
+- waitForAnimationToEnd
+# Treasury, on the Search tab.
+- tapOn:
+    point: 87%, 95%
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 5000
+    optional: true
+- swipe:
+    start: 50%, 70%
+    end: 50%, 36%
+    duration: 700
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/12-treasury

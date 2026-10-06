@@ -1,0 +1,149 @@
+appId: me.dpgu.ember
+---
+# Store screenshots, driven by points so the same flow serves every language.
+# Appearance comes from the simulator (simctl ui <udid> appearance dark|light).
+# Run: maestro --device <udid> test -e DATE=2026-10-07 -e LANG=en-US -e OUT=/tmp/ember-shots/en-US screenshots.yaml
+- stopApp
+- launchApp:
+    clearState: false
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 3000
+    optional: true
+# The dev client opens on its server list; pick the Metro this run uses.
+- runFlow:
+    when:
+      visible: "DEVELOPMENT SERVERS"
+    commands:
+      - tapOn: "Ember, http://127.0.0.1:8099"
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 15000
+    optional: true
+- runFlow:
+    file: reset.yaml
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 4000
+    optional: true
+# Plan of life: tick three practices in the sheet.
+- tapOn:
+    point: 24%, 71%
+- waitForAnimationToEnd
+- tapOn:
+    id: "slot-toggle-practice/morning-offering"
+- waitForAnimationToEnd
+- tapOn:
+    id: "slot-toggle-practice/mental-prayer"
+- waitForAnimationToEnd
+- tapOn:
+    id: "slot-toggle-practice/rosary"
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 2500
+    optional: true
+- takeScreenshot: ${OUT}/02-plan
+- swipe:
+    start: 50%, 45%
+    end: 50%, 98%
+    duration: 300
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/01-today
+# Holy card: open the envelope and receive St. Peter.
+- tapOn:
+    point: 35%, 35%
+- waitForAnimationToEnd:
+    timeout: 6000
+- tapOn:
+    point: 19%, 32%
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 4000
+    optional: true
+- takeScreenshot: ${OUT}/09-envelope
+- tapOn:
+    point: 50%, 50%
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 4000
+    optional: true
+- tapOn:
+    point: 85%, 83%
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 9000
+    optional: true
+- takeScreenshot: ${OUT}/04-holy-card
+- tapOn:
+    point: 92%, 10%
+- waitForAnimationToEnd
+# Search tab.
+- tapOn:
+    point: 87%, 95%
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 5000
+    optional: true
+- takeScreenshot: ${OUT}/08-search
+- tapOn:
+    point: 16%, 95%
+- waitForAnimationToEnd
+# Rosary.
+- openLink: me.dpgu.ember://pray/rosary
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 7000
+    optional: true
+- takeScreenshot: ${OUT}/03-rosary
+- tapOn:
+    point: 7%, 12%
+- waitForAnimationToEnd
+# Breviary.
+- openLink: me.dpgu.ember://pray/breviary
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 12000
+    optional: true
+- takeScreenshot: ${OUT}/07-office
+- tapOn:
+    point: 7%, 12%
+- waitForAnimationToEnd
+# Mass times: lift the sheet so the next Mass and the nearby list show over the
+# map. Set the simulator's location first (simctl location <udid> set -23.5505,-46.6340).
+- openLink: me.dpgu.ember://mass-times
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 12000
+    optional: true
+- swipe:
+    start: 50%, 90%
+    end: 50%, 45%
+    duration: 500
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 4000
+    optional: true
+- takeScreenshot: ${OUT}/06-mass-times
+- swipe:
+    start: 50%, 49%
+    end: 50%, 92%
+    duration: 500
+- waitForAnimationToEnd
+- tapOn:
+    point: 8%, 10%
+- waitForAnimationToEnd
+# Reader. The first open after a reset shows a gesture hint; the tap dismisses
+# it, and the second capture covers the case where that tap raised the chrome.
+- openLink: me.dpgu.ember://browse/book/kempis-imitation-of-christ/read?chapter=book-one-chapter-22
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 10000
+    optional: true
+- tapOn:
+    point: 50%, 60%
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/05-reader-a
+- tapOn:
+    point: 50%, 60%
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/05-reader-b

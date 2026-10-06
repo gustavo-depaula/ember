@@ -1,0 +1,31 @@
+appId: me.dpgu.ember
+---
+- runFlow:
+    file: launch.yaml
+- openLink: me.dpgu.ember://dev/reset?date=2026-10-07&lang=${LANG}
+- runFlow:
+    when:
+      visible: "Open"
+    commands:
+      - tapOn: "Open"
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 12000
+    optional: true
+- openLink: me.dpgu.ember://pray/mass
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 12000
+    optional: true
+- tapOn: ${CHIP}
+- extendedWaitUntil:
+    visible: "__never__"
+    timeout: 4000
+    optional: true
+- takeScreenshot: ${OUT}/18-mass
+- swipe:
+    start: 50%, 80%
+    end: 50%, 35%
+    duration: 800
+- waitForAnimationToEnd
+- takeScreenshot: ${OUT}/18-mass-b
