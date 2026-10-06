@@ -63,6 +63,8 @@ createServer(async (req, res) => {
   }
   res.writeHead(fileFor(pathname) ? 200 : 404, {
     'content-type': types[extname(file)] ?? 'application/octet-stream',
+    // A page is rebuilt often while it is being looked at; a phone must not keep an old one.
+    ...(extname(file) === '.html' && { 'cache-control': 'no-store' }),
   })
   if (file === join(landing, 'index.html')) {
     res.end(asAppPage(readFileSync(file, 'utf-8')))
