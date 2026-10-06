@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
@@ -10,13 +10,11 @@ import Animated, {
   useSharedValue,
   withSpring,
 } from 'react-native-reanimated'
-import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { ScrollView, Text, View, YStack } from 'tamagui'
+import { View, YStack } from 'tamagui'
 
 import {
   PrayerSpinner,
   ReaderErrorState,
-  ReadingConfigBadge,
   ReadingConfigModal,
   ScreenLayout,
   TwoColumnReaderHeader,
@@ -26,31 +24,35 @@ import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { useBooks, useChapter, usePrefetchAdjacentChapters } from '../hooks'
+import { BibleDrawer } from './BibleDrawer'
 import { ChapterContent } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
-import { TranslationBadge } from './TranslationBadge'
-import { TranslationModal } from './TranslationModal'
 
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
+const noBooks: Book[] = []
+// How long a chapter stays open before it counts as read, so that leafing
+// through the drawer to look something up moves no place.
+const readingDwellMs = 20_000
 
 export function BibleReader() {
   const { t } = useTranslation()
   const { width: screenWidth } = useWindowDimensions()
-  const bookDrawerWidth = Math.min(screenWidth * 0.7, 340)
-  const chapterDrawerWidth = Math.min(screenWidth * 0.22, 80)
-  const stripWidth = bookDrawerWidth + screenWidth + chapterDrawerWidth
+  const drawerWidth = Math.min(screenWidth * 0.8, 360)
+  const stripWidth = drawerWidth + screenWidth
 
-  const insets = useSafeAreaInsets()
   const translation = usePreferencesStore((s) => s.translation)
-  const { bookId, chapter, setPosition } = useBibleStore()
+  const { bookId, chapter, setPosition, recordReading } = useBibleStore()
 
   const slideX = useSharedValue(0)
   const startX = useSharedValue(0)
   const [panelOpen, setPanelOpen] = useState(false)
-  const [translationModalVisible, setTranslationModalVisible] = useState(false)
   const [readingConfigVisible, setReadingConfigVisible] = useState(false)
 
-  const { data: books = [], isError: booksError, refetch: refetchBooks } = useBooks(translation)
+  const {
+    data: books = noBooks,
+    isError: booksError,
+    refetch: refetchBooks,
+  } = useBooks(translation)
   const {
     data: chapterData,
     isLoading,
@@ -61,7 +63,13 @@ export function BibleReader() {
 
   const currentBook = books.find((b) => b.id === bookId)
   const bookName = t(`bookName.${bookId}`, { defaultValue: currentBook?.name ?? bookId })
-  const totalChapters = currentBook?.chapters ?? 1
+
+  useEffect(() => {
+    if (books.length === 0 || !chapterData) return
+    const timer = setTimeout(() => recordReading(books), readingDwellMs)
+    return () => clearTimeout(timer)
+    // A new chapter arrives as new `chapterData`, which restarts the wait.
+  }, [books, chapterData, recordReading])
 
   const handleNavigate = useCallback(
     (newBookId: string, newChapter: number) => {
@@ -70,14 +78,9 @@ export function BibleReader() {
     [setPosition],
   )
 
-  function openBookDrawer() {
+  function openDrawer() {
     setPanelOpen(true)
-    slideX.value = withSpring(bookDrawerWidth, springConfig)
-  }
-
-  function openChapterDrawer() {
-    setPanelOpen(true)
-    slideX.value = withSpring(-chapterDrawerWidth, springConfig)
+    slideX.value = withSpring(drawerWidth, springConfig)
   }
 
   function closeDrawer() {
@@ -93,53 +96,26 @@ export function BibleReader() {
           startX.value = slideX.value
         })
         .onUpdate((e) => {
-          const min = startX.value > 0 ? 0 : -chapterDrawerWidth
-          const max = startX.value < 0 ? 0 : bookDrawerWidth
-          slideX.value = clamp(startX.value + e.translationX, min, max)
+          slideX.value = clamp(startX.value + e.translationX, 0, drawerWidth)
         })
         .onEnd((e) => {
-          const closingFromBook = startX.value > 0
-          const closingFromChapter = startX.value < 0
-
-          // Closing is easy — any meaningful drag or flick in the close direction snaps shut
-          if (closingFromBook && (e.translationX < -20 || e.velocityX < -300)) {
-            slideX.value = withSpring(0, springConfig)
-            runOnJS(setPanelOpen)(false)
-            return
-          }
-          if (closingFromChapter && (e.translationX > 20 || e.velocityX > 300)) {
-            slideX.value = withSpring(0, springConfig)
-            runOnJS(setPanelOpen)(false)
-            return
-          }
-
-          // Opening requires more commitment
-          if (slideX.value > bookDrawerWidth * 0.4 || (slideX.value > 0 && e.velocityX > 800)) {
-            slideX.value = withSpring(bookDrawerWidth, springConfig)
-            runOnJS(setPanelOpen)(true)
-            return
-          }
-          if (
-            slideX.value < -chapterDrawerWidth * 0.4 ||
-            (slideX.value < 0 && e.velocityX < -800)
-          ) {
-            slideX.value = withSpring(-chapterDrawerWidth, springConfig)
-            runOnJS(setPanelOpen)(true)
-            return
-          }
-
-          slideX.value = withSpring(0, springConfig)
-          runOnJS(setPanelOpen)(false)
+          // Closing is easy: any meaningful drag or flick back snaps shut.
+          const closing = startX.value > 0 && (e.translationX < -20 || e.velocityX < -300)
+          // Opening asks for more commitment.
+          const opening = slideX.value > drawerWidth * 0.4 || e.velocityX > 800
+          const open = !closing && opening
+          slideX.value = withSpring(open ? drawerWidth : 0, springConfig)
+          runOnJS(setPanelOpen)(open)
         }),
-    [slideX, startX, bookDrawerWidth, chapterDrawerWidth],
+    [slideX, startX, drawerWidth],
   )
 
   const stripStyle = useAnimatedStyle(() => ({
-    transform: [{ translateX: -bookDrawerWidth + slideX.value }],
+    transform: [{ translateX: -drawerWidth + slideX.value }],
   }))
 
   const dimStyle = useAnimatedStyle(() => ({
-    opacity: interpolate(slideX.value, [-chapterDrawerWidth, 0, bookDrawerWidth], [0.4, 1, 0.4]),
+    opacity: interpolate(slideX.value, [0, drawerWidth], [1, 0.4]),
   }))
 
   function renderContent() {
@@ -172,12 +148,6 @@ export function BibleReader() {
 
   return (
     <View flex={1} backgroundColor="$background" overflow="hidden">
-      {translationModalVisible ? (
-        <TranslationModal
-          visible={translationModalVisible}
-          onClose={() => setTranslationModalVisible(false)}
-        />
-      ) : undefined}
       {readingConfigVisible ? (
         <ReadingConfigModal
           visible={readingConfigVisible}
@@ -186,21 +156,19 @@ export function BibleReader() {
       ) : undefined}
       <GestureDetector gesture={pan}>
         <Animated.View style={[styles.strip, { width: stripWidth }, stripStyle]}>
-          <View style={[styles.bookPanel, { width: bookDrawerWidth }]}>
-            <YStack flex={1} paddingTop={insets.top + 12}>
-              <YStack paddingHorizontal="$md" paddingBottom="$md" gap="$sm">
-                <TranslationBadge onPress={() => setTranslationModalVisible(true)} />
-                <ReadingConfigBadge onPress={() => setReadingConfigVisible(true)} />
-              </YStack>
-              <BookList
-                books={books}
-                currentBookId={bookId}
-                onSelectBook={(id) => {
-                  handleNavigate(id, 1)
-                  closeDrawer()
-                }}
-              />
-            </YStack>
+          <View style={styles.drawer}>
+            <BibleDrawer
+              width={drawerWidth}
+              open={panelOpen}
+              books={books}
+              bookId={bookId}
+              chapter={chapter}
+              onNavigate={(newBookId, newChapter) => {
+                handleNavigate(newBookId, newChapter)
+                closeDrawer()
+              }}
+              onOpenReadingConfig={() => setReadingConfigVisible(true)}
+            />
           </View>
 
           <Animated.View style={[{ width: screenWidth }, dimStyle]}>
@@ -210,8 +178,8 @@ export function BibleReader() {
                   variant="plain"
                   leftLabel={bookName}
                   rightValue={String(chapter)}
-                  onLeftPress={openBookDrawer}
-                  onRightPress={openChapterDrawer}
+                  onLeftPress={openDrawer}
+                  onRightPress={openDrawer}
                   leftA11yLabel={t('a11y.selectBook')}
                   rightA11yLabel={t('a11y.selectChapter')}
                 />
@@ -227,112 +195,9 @@ export function BibleReader() {
               />
             ) : undefined}
           </Animated.View>
-
-          <View style={[styles.chapterPanel, { width: chapterDrawerWidth }]}>
-            <YStack flex={1} paddingTop={insets.top + 12}>
-              <ChapterList
-                totalChapters={totalChapters}
-                currentChapter={chapter}
-                onSelectChapter={(ch) => {
-                  handleNavigate(bookId, ch)
-                  closeDrawer()
-                }}
-              />
-            </YStack>
-          </View>
         </Animated.View>
       </GestureDetector>
     </View>
-  )
-}
-
-function BookList({
-  books,
-  currentBookId,
-  onSelectBook,
-}: {
-  books: Book[]
-  currentBookId: string
-  onSelectBook: (bookId: string) => void
-}) {
-  const { t } = useTranslation()
-
-  return (
-    <ScrollView flex={1}>
-      <YStack paddingBottom="$xl">
-        {books.map((book) => {
-          const isCurrent = book.id === currentBookId
-          const name = t(`bookName.${book.id}`, { defaultValue: book.name })
-          return (
-            <Pressable
-              key={book.id}
-              onPress={() => onSelectBook(book.id)}
-              style={({ pressed }) => ({
-                backgroundColor: pressed ? 'rgba(128,128,128,0.15)' : 'transparent',
-              })}
-              accessibilityRole="button"
-              accessibilityLabel={name}
-              accessibilityState={{ selected: isCurrent }}
-            >
-              <YStack paddingVertical={10} paddingHorizontal="$md">
-                <Text
-                  fontFamily="$body"
-                  fontSize="$5"
-                  fontWeight={isCurrent ? '600' : '400'}
-                  color={isCurrent ? '$color' : '$colorSecondary'}
-                >
-                  {name}
-                </Text>
-              </YStack>
-            </Pressable>
-          )
-        })}
-      </YStack>
-    </ScrollView>
-  )
-}
-
-function ChapterList({
-  totalChapters,
-  currentChapter,
-  onSelectChapter,
-}: {
-  totalChapters: number
-  currentChapter: number
-  onSelectChapter: (chapter: number) => void
-}) {
-  return (
-    <ScrollView flex={1}>
-      <YStack paddingBottom="$xl" alignItems="center">
-        {Array.from({ length: totalChapters }, (_, i) => i + 1).map((ch) => {
-          const isCurrent = ch === currentChapter
-          return (
-            <Pressable
-              key={ch}
-              onPress={() => onSelectChapter(ch)}
-              style={({ pressed }) => ({
-                backgroundColor: pressed ? 'rgba(128,128,128,0.15)' : 'transparent',
-                width: '100%',
-              })}
-              accessibilityRole="button"
-              accessibilityLabel={String(ch)}
-              accessibilityState={{ selected: isCurrent }}
-            >
-              <YStack minHeight={44} justifyContent="center" alignItems="center">
-                <Text
-                  fontFamily="$heading"
-                  fontSize="$5"
-                  fontWeight={isCurrent ? '700' : '400'}
-                  color={isCurrent ? '$accent' : '$colorSecondary'}
-                >
-                  {ch}
-                </Text>
-              </YStack>
-            </Pressable>
-          )
-        })}
-      </YStack>
-    </ScrollView>
   )
 }
 
@@ -341,12 +206,9 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'row',
   },
-  bookPanel: {
+  drawer: {
+    flexDirection: 'row',
     borderRightWidth: StyleSheet.hairlineWidth,
     borderRightColor: 'rgba(128,128,128,0.3)',
-  },
-  chapterPanel: {
-    borderLeftWidth: StyleSheet.hairlineWidth,
-    borderLeftColor: 'rgba(128,128,128,0.3)',
   },
 })
