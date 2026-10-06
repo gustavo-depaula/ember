@@ -58,14 +58,11 @@ const listDescription = pt
             </ul>
           </section>
           {plan.source && <div class="t-annotation prose source" set:html={plan.source} />}
-          <aside class="app-only">
-            <span class="t-kicker">{pt ? 'No aplicativo Ember' : 'In the Ember app'}</span>
-            <span>
-              {pt
-                ? 'Adote esta tradição como o seu plano de vida, prática por prática, com horários e lembretes.'
-                : 'Adopt this tradition as your own plan of life, practice by practice, with times and reminders.'}
-            </span>
-          </aside>
+          <p class="app-only">
+            {pt
+              ? 'No aplicativo Ember, adote esta tradição como o seu plano de vida, prática por prática, com horários e lembretes.'
+              : 'In the Ember app, adopt this tradition as your own plan of life, practice by practice, with times and reminders.'}
+          </p>
         </div>
       </article>
     ) : (

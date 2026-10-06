@@ -109,15 +109,12 @@ const description = pt
         <div class="flow" data-outline-source><Primitives items={mass} locale={locale} /></div>
       </>
     ) : (
-      <aside class="app-only" style="margin-top:24px">
-        <span class="t-kicker">{s('inTheApp')}</span>
-        <span>
-          {pt
-            ? 'O texto completo da Missa (as orações do dia, as leituras e o Ordinário) está no aplicativo Ember, em português e latim.'
-            : 'The full text of the Mass (the prayers of the day, the readings and the Order of Mass) is in the Ember app, in English and Latin.'}
-        </span>
-        <a class="go" href={href.landing(locale)}>{s('seeTheApp')} →</a>
-      </aside>
+      <p class="app-only" style="margin-top:24px">
+        {pt
+          ? 'O texto completo da Missa (as orações do dia, as leituras e o Ordinário) está no aplicativo Ember, em português e latim.'
+          : 'The full text of the Mass (the prayers of the day, the readings and the Order of Mass) is in the Ember app, in English and Latin.'}
+        {' '}<a href={href.landing(locale)}>{s('seeTheApp')}</a>
+      </p>
     )}
 
     <nav class="also stack-sm narrow-only">

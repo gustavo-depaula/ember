@@ -81,11 +81,9 @@ function wrap(node: { type: string; text: string }): string {
     if (p.type === 'link') {
       if (p.href === appOnlyMarker) {
         return (
-          <aside class="app-only">
-            <span class="t-kicker">{s('inTheApp')}</span>
-            <span>{s('appOnlyBody')}</span>
-            <a class="go" href={href.landing(locale)}>{s('seeTheApp')} →</a>
-          </aside>
+          <p class="app-only">
+            {s('appOnlyBody')} <a href={href.landing(locale)}>{s('seeTheApp')}</a>
+          </p>
         )
       }
       return (

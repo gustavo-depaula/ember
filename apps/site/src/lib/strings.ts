@@ -27,7 +27,6 @@ const strings = {
     otherLanguage: 'Português',
     otherLanguageLabel: 'Ler em português',
     skip: 'Skip to the text',
-    inTheApp: 'In the Ember app',
     appOnlyBody:
       'This part is read from its publisher each day and is not reproduced here. It opens in the Ember app.',
     theApp: 'The Ember app',
@@ -84,7 +83,6 @@ const strings = {
     otherLanguage: 'English',
     otherLanguageLabel: 'Read in English',
     skip: 'Ir para o texto',
-    inTheApp: 'No aplicativo Ember',
     appOnlyBody:
       'Esta parte é lida a cada dia de quem a publica e não é reproduzida aqui. Ela abre no aplicativo Ember.',
     theApp: 'O aplicativo Ember',

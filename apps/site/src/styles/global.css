@@ -1394,16 +1394,25 @@ main {
   vertical-align: top;
 }
 
+/* A word about the app, set as a missal sets a rubric: in the text's own column, in red italic. */
 .app-only {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-  padding: var(--space-md);
-  border-radius: var(--radius-md);
-  background: var(--background-surface);
-  border-top: 1px solid var(--accent-subtle);
+  font-style: italic;
   font-size: 18px;
-  line-height: 26px;
+  line-height: 27px;
+  color: var(--color-burgundy);
+  text-wrap: pretty;
+}
+
+.app-only a {
+  color: var(--gold-ink);
+  text-decoration: underline;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 3px;
+  white-space: nowrap;
+}
+
+.app-only a:hover {
+  color: var(--color);
 }
 
 /* ── Invitations to the app ──────────────────────────────────────────── */
