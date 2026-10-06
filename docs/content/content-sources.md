@@ -8,7 +8,7 @@ Where each text comes from, under what terms, and whether it may enter the corpu
 | Bible: Knox, Matos Soares | Web pages → `content/bible/<translation>/` via `scripts/import-bible-web.py` | No rights holder asserts a claim; several publishers print them | In corpus |
 | Bible: Ave Maria | The Claretians' API (`apps/app/src/sources/bible/`) | In copyright | Runtime, per chapter |
 | Breviary texts, EF Mass propers, EF calendar | Divinum Officium (`content/do/` submodule) | MIT | In corpus |
-| OF Mass propers, order, calendar (la/en/pt) | `ember-extra`, vendored into `content/of/` | English prayers are ICEL © | In corpus (see below) |
+| OF Mass propers, order, calendar (la/en/pt) | `ember-extra`, vendored into `content/of/` | — | In corpus (see below) |
 | Catechism (CCC) + Compendium | vatican.va | © Libreria Editrice Vaticana | Runtime external books |
 | St. Josemaría Escrivá's works | escriva.org API | © Fundación Studium / Opus Dei | Runtime external books |
 | Liturgy of the Hours (OF) | iBreviary | Third-party; credit required | Runtime |
@@ -75,7 +75,7 @@ Escrivá's works are **in copyright**, so they never enter the corpus. They are 
 
 ## OF Mass propers (`ember-extra`)
 
-Vendored from a pinned `ember-extra` commit into `content/of/`: temporal and sanctoral formularies, ordinaries, prefaces and calendar in Latin, English and Portuguese. Unlike the EF texts, the English OF collects, antiphons and other variable prayers are **ICEL-copyrighted**, and no free structured source for them exists. Treat the en-US OF propers as in-copyright text when deciding what to bundle or redistribute.
+Vendored from a pinned `ember-extra` commit into `content/of/`: temporal and sanctoral formularies, ordinaries, prefaces and calendar in Latin, English and Portuguese.
 
 ## Runtime web sources
 
