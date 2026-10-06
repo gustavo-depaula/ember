@@ -46,7 +46,10 @@ The picker's list is `translations` in `apps/app/src/lib/bibleTranslations.ts`. 
 
 **Not in yet:**
 
-- **Bíblia CNBB.** Lírio Católico withdrew it over copyright. The Bolls.life export of it is not a base to build on: 66 books (no Tobias, Judith, Wisdom, Ecclesiasticus, Baruch or Machabees, and Daniel 3 without the canticle), and book-introduction prose spliced into verses (1 Samuel 1:19). `clerus.org/bibliaclerusonline/pt/` has all 73 books of the 2002 text, on opaque URLs with several chapters to a page.
+- **Bíblia CNBB.** In copyright, and Edições CNBB enforces it (Lírio Católico withdrew its copy). Three copies exist, none clean:
+  - `clerus.org/bibliaclerusonline/pt/66c.htm` (the Dicastery for the Clergy): all 73 books as static HTML on opaque filenames, several chapters to a page, no API and no CORS.
+  - `catolicaflix.com/biblia/biblia-cnbb`: one PDF per book (Word exports of 2008, real text layer), all 73 books. It shares clerus's gaps (Haggai 1:9 runs into verse 13), so both come from the same files.
+  - The Bolls.life export: a different printing, 66 books only (no deuterocanon, Daniel 3 without the canticle), with book-introduction prose spliced into 1 Samuel 1:19. It is the one copy that has the passages the other two lost.
 - **Original Douay-Rheims (1582, 1609–10).** EEBO-TCP `A16049` and `A11777` are clean on rights but in original spelling, the Old Testament without reliable verse marks. `github.com/janvier-s/original-douay-rheims` is modern-spelling JSON marked CC0, of unverified provenance.
 - **Kenrick's revision, Figueiredo.** Page scans only (archive.org).
 - Rejected: Bolls.life (no deuterocanon in its Douay-Rheims or its CNBB); Bible Gateway (no public API, terms forbid scraping); API.Bible (FUMS tracking forces online-only use).
