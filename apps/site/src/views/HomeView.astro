@@ -92,6 +92,15 @@ const pillars = pt
 
     <section class="carousel" style="--arrow-top:calc(50% - 16px)" aria-label={s('today')}>
       <div class="features" data-carousel>
+        <a class="feature app" href={href.landing(locale)}>
+          <span class="feature-phone"><img src={appShot.src} alt="" loading="lazy" decoding="async" /></span>
+          <span class="feature-foot">
+            <span class="feature-kicker">{pt ? 'O aplicativo' : 'The app'}</span>
+            <span class="feature-title">{pt ? 'Ember no seu celular' : 'Ember on your phone'}</span>
+            <span class="feature-sub">{s('nudgeBody')}</span>
+            <span class="feature-cta">{s('seeTheApp')} →</span>
+          </span>
+        </a>
         {home.features.map((feature) => (
           <a class="feature" href={feature.href} style={`--from:${feature.tone.from};--to:${feature.tone.to}`}>
             {feature.art ? (
@@ -106,18 +115,9 @@ const pillars = pt
             </span>
           </a>
         ))}
-        <a class="feature app" href={href.landing(locale)}>
-          <span class="feature-phone"><img src={appShot.src} alt="" loading="lazy" decoding="async" /></span>
-          <span class="feature-foot">
-            <span class="feature-kicker">{pt ? 'O aplicativo' : 'The app'}</span>
-            <span class="feature-title">{pt ? 'Ember no seu celular' : 'Ember on your phone'}</span>
-            <span class="feature-sub">{s('nudgeBody')}</span>
-            <span class="feature-cta">{s('seeTheApp')} →</span>
-          </span>
-        </a>
       </div>
       <div class="fleurons" aria-hidden="true" data-carousel-marks>
-        {[...home.features, 'app'].map(() => <span>✠</span>)}
+        {['app', ...home.features].map(() => <span>✠</span>)}
       </div>
       <button class="carousel-next" type="button" data-carousel-next hidden aria-label={pt ? 'Próximos' : 'More'}>→</button>
     </section>
