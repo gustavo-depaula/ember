@@ -43,8 +43,6 @@ export type Page =
   | { view: 'plans' }
   | { view: 'plan'; id: string }
   | { view: 'voices' }
-  | { view: 'about' }
-  | { view: 'privacy' }
 
 export type PageEntry = {
   locale: Locale
@@ -189,8 +187,6 @@ async function drafts(): Promise<Draft[]> {
     out.push(catalogDraft({ view: 'plan', id }, id, (l) => href.plan(l, id)))
   }
   out.push({ page: { view: 'voices' }, path: (l) => href.section(l, 'voices') })
-  out.push({ page: { view: 'about' }, path: (l) => href.section(l, 'about') })
-  out.push({ page: { view: 'privacy' }, path: (l) => href.section(l, 'privacy') })
   return out
 }
 

@@ -140,6 +140,7 @@
         <a class="link optional" href="#inside"><span lang="en">Inside</span><span lang="pt-BR">Por dentro</span></a>
         <a class="link optional" href="#heritage"><span lang="en">Heritage</span><span lang="pt-BR">Herança</span></a>
         <a class="link optional" href="#open"><span lang="en">Public domain</span><span lang="pt-BR">Domínio público</span></a>
+        <!-- web:nav -->
         <a class="link" href="#" id="switch"><span lang="en">Português</span><span lang="pt-BR">English</span></a>
       </nav>
 
@@ -153,6 +154,7 @@
             <span class="soon" lang="en">Coming soon to iPhone and Android</span>
             <span class="soon" lang="pt-BR">Em breve para iPhone e Android</span>
             <a href="#inside"><span lang="en">See what is inside</span><span lang="pt-BR">Veja o que há dentro</span></a>
+            <!-- web:hero -->
           </div>
         </div>
         <img class="phone" lang="en" src="site/img/en-US-01-today.webp" width="720" height="1564" alt="Ember's Today screen: the date, a sealed envelope holding a holy card, the plan of life and the Holy Rosary.">
@@ -359,7 +361,9 @@
       }
       var saved = null
       try { saved = localStorage.getItem('lang') } catch (e) {}
-      set(saved || (/^pt/i.test(navigator.language) ? 'pt' : 'en'))
+      // A link may ask for a language (`?lang=pt`): the website's Portuguese pages do.
+      var asked = /[?&]lang=(pt|en)\b/.exec(location.search)
+      set((asked && asked[1]) || saved || (/^pt/i.test(navigator.language) ? 'pt' : 'en'))
       document.getElementById('switch').addEventListener('click', function (e) {
         e.preventDefault()
         var next = root.dataset.lang === 'pt' ? 'en' : 'pt'

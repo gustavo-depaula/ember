@@ -24,8 +24,13 @@ export const GET: APIRoute = ({ props, site }) => {
       return `<url><loc>${abs(entry.path)}</loc>${links}</url>`
     })
     .join('')
+  // The domain's root is the landing page, which this build does not render.
+  const landing =
+    (props as { file: SitemapFile }).file.name === 'pages'
+      ? `<url><loc>${abs('/')}</loc></url>`
+      : ''
   return new Response(
-    `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls}</urlset>`,
+    `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${landing}${urls}</urlset>`,
     { headers: { 'content-type': 'application/xml; charset=utf-8' } },
   )
 }

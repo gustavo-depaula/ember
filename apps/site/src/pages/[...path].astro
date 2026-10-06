@@ -4,7 +4,6 @@ import { parseIsoDate } from '~/routes'
 import BibleBookView from '~/views/BibleBookView.astro'
 import BibleChapterView from '~/views/BibleChapterView.astro'
 import BibleView from '~/views/BibleView.astro'
-import AboutView from '~/views/AboutView.astro'
 import BooksView from '~/views/BooksView.astro'
 import ChurchView from '~/views/ChurchView.astro'
 import MassTimesView from '~/views/MassTimesView.astro'
@@ -73,5 +72,3 @@ const { page, locale, alternates, canonical } = entry
 {page.view === 'plans' && <PlansView locale={locale} alternates={alternates} />}
 {page.view === 'plan' && <PlansView locale={locale} alternates={alternates} id={page.id} />}
 {page.view === 'voices' && <VoicesView locale={locale} alternates={alternates} />}
-{page.view === 'about' && <AboutView locale={locale} alternates={alternates} />}
-{page.view === 'privacy' && <AboutView locale={locale} alternates={alternates} privacy />}

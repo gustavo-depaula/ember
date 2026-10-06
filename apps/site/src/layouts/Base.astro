@@ -206,8 +206,8 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
             <div>
               <h2>{s('footEmber')}</h2>
               <ul>
-                <li><a href={href.section(locale, 'about')}>{s('about')}</a></li>
-                <li><a href={href.section(locale, 'privacy')}>{s('privacy')}</a></li>
+                <li><a href={href.landing(locale)}>{s('about')}</a></li>
+                <li><a href={href.privacy()}>{s('privacy')}</a></li>
                 <li><a href="https://github.com/gustavo-depaula/ember" rel="noopener">{s('source')}</a></li>
                 <li><a href={otherHref} hreflang={htmlLang[other]}>{s('otherLanguage')}</a></li>
               </ul>

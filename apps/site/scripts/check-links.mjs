@@ -7,6 +7,8 @@ import { fileURLToPath } from 'node:url'
 const siteRoot = resolve(fileURLToPath(import.meta.url), '../..')
 const dist = resolve(siteRoot, 'dist')
 const corpus = process.env.EMBER_CORPUS_DIR ?? resolve(siteRoot, '../../_site/hearth/v2')
+// The landing page and the privacy policy are published at the root from apps/hearth.
+const landing = resolve(siteRoot, '../hearth')
 
 function* htmlFiles(dir) {
   for (const name of readdirSync(dir)) {
@@ -24,7 +26,10 @@ function isThere(url) {
     const file = path.startsWith('/hearth/v2/')
       ? join(corpus, decodeURIComponent(path.slice('/hearth/v2/'.length)))
       : join(dist, decodeURIComponent(path))
-    known = existsSync(file) && (statSync(file).isFile() || existsSync(join(file, 'index.html')))
+    const hearth = join(landing, path === '/' ? 'index.html' : decodeURIComponent(path))
+    known =
+      (existsSync(file) && (statSync(file).isFile() || existsSync(join(file, 'index.html')))) ||
+      (existsSync(hearth) && statSync(hearth).isFile())
     exists.set(path, known)
   }
   return known

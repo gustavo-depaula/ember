@@ -1,14 +1,16 @@
 // Serves the built site the way it is published: `dist/` at the root with the
 // corpus (`_site/hearth/v2`) beside it. `astro preview` cannot do this, since
 // the corpus is not part of the site build.
-import { createReadStream, existsSync, statSync } from 'node:fs'
+import { createReadStream, existsSync, readFileSync, statSync } from 'node:fs'
 import { createServer } from 'node:http'
 import { extname, join, normalize, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { withWebLinks } from './landing.mjs'
 
 const siteRoot = resolve(fileURLToPath(import.meta.url), '../..')
 const dist = resolve(siteRoot, 'dist')
 const corpus = process.env.EMBER_CORPUS_DIR ?? resolve(siteRoot, '../../_site/hearth/v2')
+const landing = resolve(siteRoot, '../hearth')
 const port = Number(process.env.PORT ?? 4321)
 
 const types = {
@@ -34,7 +36,12 @@ function fileFor(pathname) {
   if (!path.startsWith(root)) return undefined
   if (existsSync(path) && statSync(path).isFile()) return path
   const index = join(path, 'index.html')
-  return existsSync(index) ? index : undefined
+  if (existsSync(index)) return index
+  // The landing page and its assets (apps/hearth) are published at the root too.
+  const page = join(landing, normalize(decodeURIComponent(rel === '/' ? 'index.html' : rel)))
+  return root === dist && page.startsWith(landing) && existsSync(page) && statSync(page).isFile()
+    ? page
+    : undefined
 }
 
 // Until the API's CORS change is deployed, a local build can reach it through here:
@@ -57,5 +64,9 @@ createServer(async (req, res) => {
   res.writeHead(fileFor(pathname) ? 200 : 404, {
     'content-type': types[extname(file)] ?? 'application/octet-stream',
   })
+  if (file === join(landing, 'index.html')) {
+    res.end(withWebLinks(readFileSync(file, 'utf-8')))
+    return
+  }
   createReadStream(file).pipe(res)
 }).listen(port, () => console.log(`Ember site on http://localhost:${port}`))
