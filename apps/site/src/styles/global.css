@@ -28,6 +28,8 @@
   --column: 640px;
   --wide: 1240px;
   --gutter: 24px;
+  /* From the window's edge to the page's measure. */
+  --page-margin: max(var(--gutter), calc((100vw - var(--wide)) / 2));
 
   --reading-size: 21px;
   --reading-leading: 1.5;
@@ -709,6 +711,44 @@ main {
     gap: 24px 20px;
     margin-inline: 0;
     padding-inline: 0;
+  }
+}
+
+/* A row to turn: it keeps to one line on any screen and runs to the window's
+   edges, resting on the page's margin. An arrow turns it for a pointer. */
+.carousel {
+  position: relative;
+}
+
+.shelf.row {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  margin-inline: calc(50% - 50vw);
+  padding-inline: calc(50vw - 50%);
+  /* Relative to the scroller itself, a percentage here would come to nothing. */
+  scroll-padding-inline: var(--page-margin);
+}
+
+.carousel-next {
+  position: absolute;
+  right: -18px;
+  top: var(--arrow-top, 38%);
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid var(--glass-rim);
+  background: var(--background);
+  box-shadow: 0 4px 12px var(--glass-shadow);
+  color: var(--color);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+@media (max-width: 900px) {
+  .carousel-next {
+    display: none;
   }
 }
 
