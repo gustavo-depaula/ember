@@ -30,6 +30,8 @@ export type ViewContext = {
   churchHref: (id: string) => string
   /** Omitted at build: a static page cannot know "today" or "next". */
   now?: Date
+  /** The service a list is about; Mass unless the reader chose another. */
+  kind?: ServiceKind
 }
 
 const entities: Record<string, string> = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }
@@ -46,13 +48,33 @@ function place(church: Church): string {
   return [church.address, church.city, church.region].filter(Boolean).join(' · ')
 }
 
+function nextOf(church: ListedChurch, ctx: ViewContext) {
+  const now = ctx.now && wallClockNow(church.timezone, ctx.now)
+  return now
+    ? nextService(church.services ?? [], {
+        timezone: church.timezone,
+        kind: ctx.kind ?? 'mass',
+        now,
+      })
+    : undefined
+}
+
+/**
+ * Churches by how soon their next service begins; those with none listed keep
+ * their order (nearest first) at the end.
+ */
+export function bySoonest(churches: ListedChurch[], ctx: ViewContext): ListedChurch[] {
+  const when = new Map(churches.map((church) => [church, nextOf(church, ctx)?.instant.getTime()]))
+  return [...churches].sort(
+    (a, b) => (when.get(a) ?? Number.POSITIVE_INFINITY) - (when.get(b) ?? Number.POSITIVE_INFINITY),
+  )
+}
+
 export function churchRowHtml(church: ListedChurch, ctx: ViewContext): string {
   const { t, locale } = ctx
   const services = church.services ?? []
   const now = ctx.now && wallClockNow(church.timezone, ctx.now)
-  const next = now
-    ? nextService(services, { timezone: church.timezone, kind: 'mass', now })
-    : undefined
+  const next = nextOf(church, ctx)
   const time = next
     ? `<span class="mt-time">${formatTimeOfDay(next.service.startTime)}</span><span class="mt-day">${esc(shortDayLabel(next.occurrence.date, now, tf(t), locale))}</span>`
     : `<span class="mt-none">${esc(t(services.length ? 'massTimes.noUpcoming' : 'massTimes.notListed'))}</span>`

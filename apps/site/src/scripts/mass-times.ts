@@ -2,8 +2,10 @@
 // API the app uses. Rows and church pages are drawn by the same functions that
 // draw them at build.
 
+import type { ServiceKind } from '@ember/api'
 import { type Dict, makeT } from '~/lib/massTimes/t'
 import {
+  bySoonest,
   type ChurchDetail,
   churchHtml,
   churchRowHtml,
@@ -26,6 +28,7 @@ if (root) {
     t,
     locale,
     now: new Date(),
+    kind: kind as ServiceKind,
     churchHref: (id) => `${churchBase}?id=${encodeURIComponent(id)}`,
   })
 
@@ -50,19 +53,21 @@ if (root) {
     return res.json() as Promise<T>
   }
 
-  function show(churches: ListedChurch[], empty: string) {
+  // A place's churches are listed by what begins soonest; a search by name keeps its own order.
+  function show(churches: ListedChurch[], empty: string, soonest = true) {
     if (!results) return
-    results.innerHTML = churches
-      .map((church) => `<li>${churchRowHtml(church, ctx())}</li>`)
+    const view = ctx()
+    results.innerHTML = (soonest ? bySoonest(churches, view) : churches)
+      .map((church) => `<li>${churchRowHtml(church, view)}</li>`)
       .join('')
     say(churches.length ? '' : empty)
   }
 
-  async function run(load: () => Promise<ListedChurch[]>, empty: string) {
+  async function run(load: () => Promise<ListedChurch[]>, empty: string, soonest = true) {
     const mine = ++request
     try {
       const churches = await load()
-      if (mine === request) show(churches, empty)
+      if (mine === request) show(churches, empty, soonest)
     } catch {
       if (mine === request) say(t('massTimes.error'))
     }
@@ -98,6 +103,7 @@ if (root) {
           )
         ).churches,
       t('massTimes.noResults'),
+      false,
     )
   }
 
