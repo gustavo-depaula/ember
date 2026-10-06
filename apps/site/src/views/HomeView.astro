@@ -373,7 +373,7 @@ const pillars = pt
     }
   }
   .feature {
-    flex: 0 0 clamp(220px, 66vw, 290px);
+    flex: 0 0 clamp(250px, 80vw, 340px);
     scroll-snap-align: start;
     position: relative;
     display: flex;
@@ -496,24 +496,30 @@ const pillars = pt
     .features {
       gap: 20px;
     }
-    /* Four to the row, and the edge of a fifth. */
+    /* Three to the row, and the edge of a fourth. */
     .feature {
-      flex-basis: clamp(240px, 22.5vw, 286px);
+      flex-basis: clamp(310px, 30vw, 384px);
+      aspect-ratio: 1 / 1.25;
     }
     .feature-foot {
-      padding: 24px;
-      gap: 7px;
+      padding: 30px;
+      gap: 9px;
     }
     .feature-kicker {
-      font-size: 12px;
+      font-size: 13px;
+      line-height: 18px;
     }
     .feature-title {
-      font-size: 26px;
-      line-height: 31px;
+      font-size: 33px;
+      line-height: 38px;
     }
     .feature-sub {
-      font-size: 16px;
-      line-height: 22px;
+      font-size: 18px;
+      line-height: 25px;
+    }
+    .feature-cta {
+      padding: 10px 18px;
+      font-size: 12px;
     }
   }
 
