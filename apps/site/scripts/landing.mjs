@@ -19,7 +19,7 @@ const links = {
 export function asAppPage(html) {
   return html
     .replace(/<!-- web:(nav|hero) -->/g, (_, slot) => links[slot])
-    .replace(/((?:href|src)="|url\()(?=site\/|privacy\.html)/g, '$1/')
+    .replace(/((?:href|src)="|url\()(?=site\/|privacy\.html|support\.html)/g, '$1/')
 }
 
 const [from, to] = process.argv.slice(2)
