@@ -116,6 +116,9 @@ const pillars = pt
           </span>
         </a>
       </div>
+      <div class="fleurons" aria-hidden="true" data-carousel-marks>
+        {[...home.features, 'app'].map(() => <span>✠</span>)}
+      </div>
       <button class="carousel-next" type="button" data-carousel-next hidden aria-label={pt ? 'Próximos' : 'More'}>→</button>
     </section>
 
@@ -348,16 +351,38 @@ const pillars = pt
     padding: 6px 2px 18px;
     margin: -6px -2px -18px;
   }
+  /* Below the desktop's width the row runs to the screen's edges, as in the app. */
+  @media (max-width: 999px) {
+    .features {
+      gap: 12px;
+      margin-inline: calc(-1 * var(--gutter));
+      padding-inline: var(--gutter);
+      scroll-padding-inline: var(--gutter);
+    }
+  }
+  /* ✠ for each card, lit for those in view. */
+  .fleurons {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 14px;
+    font-family: var(--font-heading);
+    font-size: 13px;
+    color: var(--accent-subtle);
+  }
+  .fleurons .on {
+    color: var(--accent);
+  }
   .features::-webkit-scrollbar {
     display: none;
   }
   .carousel-next {
     position: absolute;
     right: -18px;
-    top: 50%;
+    top: calc(50% - 16px);
     transform: translateY(-50%);
-    width: 40px;
-    height: 40px;
+    width: 44px;
+    height: 44px;
     border-radius: 50%;
     border: 1px solid var(--glass-rim);
     background: var(--background);
@@ -373,13 +398,14 @@ const pillars = pt
     }
   }
   .feature {
-    flex: 0 0 clamp(250px, 80vw, 340px);
+    /* The app's card: 70% of the column, so the next shows by a third. */
+    flex: 0 0 calc(70% - 12px);
     scroll-snap-align: start;
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    aspect-ratio: 1 / 1.3;
+    aspect-ratio: 1 / 1.36;
     border-radius: var(--radius-xl);
     overflow: hidden;
     color: #f5efe2;
@@ -499,7 +525,6 @@ const pillars = pt
     /* Three to the row, and the edge of a fourth. */
     .feature {
       flex-basis: clamp(310px, 30vw, 384px);
-      aspect-ratio: 1 / 1.25;
     }
     .feature-foot {
       padding: 30px;

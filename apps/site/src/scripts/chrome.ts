@@ -123,17 +123,23 @@ document.addEventListener('click', (event) => {
   }
 })
 
-// A carousel's arrow turns it by a screenful, and leaves once the last card is in view.
-for (const next of document.querySelectorAll<HTMLButtonElement>('[data-carousel-next]')) {
-  const row = next.parentElement?.querySelector<HTMLElement>('[data-carousel]')
-  if (!row) continue
+// A carousel's arrow turns it by a screenful, and leaves once the last card is
+// in view; its ✠ marks light for the cards wholly in view.
+for (const row of document.querySelectorAll<HTMLElement>('[data-carousel]')) {
+  const next = row.parentElement?.querySelector<HTMLButtonElement>('[data-carousel-next]')
+  const marks = row.parentElement?.querySelectorAll('[data-carousel-marks] > *')
   const sync = () => {
-    next.hidden = row.scrollLeft + row.clientWidth >= row.scrollWidth - 4
+    if (next) next.hidden = row.scrollLeft + row.clientWidth >= row.scrollWidth - 4
+    const frame = row.getBoundingClientRect()
+    ;[...row.children].forEach((card, i) => {
+      const box = card.getBoundingClientRect()
+      marks?.[i]?.classList.toggle('on', box.left >= frame.left - 4 && box.right <= frame.right + 4)
+    })
   }
   sync()
   row.addEventListener('scroll', sync, { passive: true })
   window.addEventListener('resize', sync)
-  next.addEventListener('click', () =>
+  next?.addEventListener('click', () =>
     row.scrollBy({ left: row.clientWidth * 0.8, behavior: 'smooth' }),
   )
 }
