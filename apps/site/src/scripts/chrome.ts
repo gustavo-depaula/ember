@@ -98,6 +98,36 @@ if (dated?.dataset.todayBase) {
   if (local !== built && apart <= 7) location.replace(`${dated.dataset.todayBase}${local}/`)
 }
 
+// Invitations to the app. The nudge waits until the reader is a screen into the
+// page, and stays away for a month once closed; the introduction on Today
+// stays closed for good. Where iPhone Safari shows its own App Store bar, the
+// nudge would only repeat it.
+const nudge = document.querySelector<HTMLElement>('[data-app-nudge]')
+const safariBar =
+  document.querySelector('meta[name="apple-itunes-app"]') &&
+  /iPhone|iPad|iPod/.test(navigator.userAgent) &&
+  !/CriOS|FxiOS/.test(navigator.userAgent)
+if (nudge && !safariBar && Date.now() - Number(stored('ember-nudge') ?? 0) > 30 * 86_400_000) {
+  const reveal = () => {
+    if (window.scrollY < window.innerHeight) return
+    nudge.hidden = false
+    window.removeEventListener('scroll', reveal)
+  }
+  window.addEventListener('scroll', reveal, { passive: true })
+}
+document.addEventListener('click', (event) => {
+  const closed = (event.target as Element).closest?.<HTMLElement>('[data-app-dismiss]')?.dataset
+    .appDismiss
+  if (closed === 'intro') {
+    root.dataset.intro = 'off'
+    store('ember-intro', 'off')
+  }
+  if (closed === 'nudge' && nudge) {
+    nudge.hidden = true
+    store('ember-nudge', String(Date.now()))
+  }
+})
+
 // Desktop habits: `/` goes to search, the arrow keys turn the page.
 document.addEventListener('keydown', (event) => {
   const typing = (event.target as Element).closest?.('input, textarea, select, [contenteditable]')

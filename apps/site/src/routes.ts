@@ -5,7 +5,6 @@ import { type Locale, localePrefix } from './lib/locale'
 
 const sections = {
   'en-US': {
-    today: 'today',
     prayers: 'prayers',
     collections: 'collections',
     books: 'books',
@@ -24,7 +23,6 @@ const sections = {
     day: 'day',
   },
   'pt-BR': {
-    today: 'hoje',
     prayers: 'oracoes',
     collections: 'colecoes',
     books: 'livros',
@@ -104,10 +102,12 @@ export function parseIsoDate(iso: string): Date {
 }
 
 export const href = {
-  /** The app's front door: the day. The domain's root is the landing page (apps/hearth). */
-  home: (l: Locale) => join(l, sections[l].today),
-  /** The landing page, which holds both languages and opens in the one asked for. */
-  landing: (l: Locale) => (l === 'pt-BR' ? '/?lang=pt' : '/'),
+  home: (l: Locale) => join(l),
+  /**
+   * The page that presents the app (apps/hearth), published at `/app/`. It
+   * holds both languages and opens in the one asked for.
+   */
+  landing: (l: Locale) => (l === 'pt-BR' ? '/app/?lang=pt' : '/app/'),
   privacy: () => '/privacy.html',
   section: (l: Locale, section: Section) => join(l, sections[l][section]),
   prayer: (l: Locale, id: string) => join(l, sections[l].prayers, slugOf(id)),

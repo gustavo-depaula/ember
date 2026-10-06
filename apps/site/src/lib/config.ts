@@ -7,3 +7,9 @@
  * celebration and the readings' citations, linked into the Douay-Rheims.
  */
 export const ofTexts = process.env.EMBER_SITE_OF_TEXTS === '1'
+
+/**
+ * The app's numeric App Store id. With it, iPhone Safari shows its own
+ * "open in the App Store" bar on every page. Unset until the app is listed.
+ */
+export const appStoreId = process.env.EMBER_APP_STORE_ID || undefined

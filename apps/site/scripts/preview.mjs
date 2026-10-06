@@ -5,7 +5,7 @@ import { createReadStream, existsSync, readFileSync, statSync } from 'node:fs'
 import { createServer } from 'node:http'
 import { extname, join, normalize, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { withWebLinks } from './landing.mjs'
+import { asAppPage } from './landing.mjs'
 
 const siteRoot = resolve(fileURLToPath(import.meta.url), '../..')
 const dist = resolve(siteRoot, 'dist')
@@ -37,8 +37,8 @@ function fileFor(pathname) {
   if (existsSync(path) && statSync(path).isFile()) return path
   const index = join(path, 'index.html')
   if (existsSync(index)) return index
-  // The landing page and its assets (apps/hearth) are published at the root too.
-  const page = join(landing, normalize(decodeURIComponent(rel === '/' ? 'index.html' : rel)))
+  // The landing page (apps/hearth) is published at `/app/`, its assets at the root.
+  const page = join(landing, normalize(decodeURIComponent(rel === '/app/' ? 'index.html' : rel)))
   return root === dist && page.startsWith(landing) && existsSync(page) && statSync(page).isFile()
     ? page
     : undefined
@@ -65,7 +65,7 @@ createServer(async (req, res) => {
     'content-type': types[extname(file)] ?? 'application/octet-stream',
   })
   if (file === join(landing, 'index.html')) {
-    res.end(withWebLinks(readFileSync(file, 'utf-8')))
+    res.end(asAppPage(readFileSync(file, 'utf-8')))
     return
   }
   createReadStream(file).pipe(res)

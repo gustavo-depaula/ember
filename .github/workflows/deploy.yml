@@ -109,10 +109,9 @@ jobs:
       - name: Build creator metadata (channel images + shorts classification)
         run: python3 scripts/build-creator-meta.py _site/hearth/v2
 
-      # The website (apps/site) is built from the corpus just assembled and
-      # published beside the landing page, which stays at the root and gains its
-      # links into the website. Off until the PUBLISH_SITE repository variable
-      # is 'true'.
+      # The website (apps/site) is built from the corpus just assembled. It
+      # takes the root, and the landing page moves to /app/ with its links into
+      # the website. Off until the PUBLISH_SITE repository variable is 'true'.
       - uses: pnpm/action-setup@v4
         if: vars.PUBLISH_SITE == 'true'
 
@@ -128,12 +127,13 @@ jobs:
           pnpm install --frozen-lockfile
           pnpm --filter @ember/site run build
           pnpm --filter @ember/site run check:links
+          node apps/site/scripts/landing.mjs apps/hearth/index.html _site/app/index.html
           cp -r apps/site/dist/. _site/
-          node apps/site/scripts/landing.mjs _site/index.html
         env:
           NODE_OPTIONS: --max-old-space-size=8192
           EMBER_SITE_OF_TEXTS: ${{ vars.SITE_OF_TEXTS }}
           EMBER_SITE_CHURCHES: ${{ vars.SITE_CHURCHES }}
+          EMBER_APP_STORE_ID: ${{ vars.APP_STORE_ID }}
 
       - uses: actions/upload-pages-artifact@v3
         with:

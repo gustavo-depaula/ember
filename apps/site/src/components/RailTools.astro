@@ -1,6 +1,7 @@
 ---
 import type { Locale } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
 
 interface Props {
   locale: Locale
@@ -29,6 +30,11 @@ const title = locale === 'pt-BR' ? 'Leitura' : 'Reading'
     </button>
   </div>
   {minutes && <p class="rail-text" style="margin-top:6px">{s('minutes', { count: minutes })}</p>}
+</div>
+<div class="rail-block">
+  <p class="rail-title">{s('theApp')}</p>
+  <p class="rail-text">{s('railAppBody')}</p>
+  <a class="go" href={href.landing(locale)} style="display:inline-block;margin-top:8px">{s('seeTheApp')} →</a>
 </div>
 
 <style>

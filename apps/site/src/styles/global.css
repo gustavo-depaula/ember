@@ -1394,6 +1394,130 @@ main {
   line-height: 26px;
 }
 
+/* ── Invitations to the app ──────────────────────────────────────────── */
+
+/* Today's word to a first-time visitor: what Ember is. */
+.intro {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+  padding: 14px 10px 14px var(--space-lg);
+  border-radius: var(--radius-lg);
+  background: var(--background-surface);
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.intro p {
+  flex: 1;
+  color: var(--color-secondary);
+}
+
+.intro strong {
+  font-weight: 400;
+  color: var(--color);
+}
+
+.intro .go {
+  white-space: nowrap;
+}
+
+.intro .tool {
+  font-size: 20px;
+}
+
+:root[data-intro='off'] .intro {
+  display: none;
+}
+
+/* A card in the corner once the reader is a screen into a page. */
+.app-nudge {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 55;
+  display: grid;
+  grid-template-columns: 40px 1fr auto;
+  align-items: center;
+  gap: 4px 14px;
+  width: 360px;
+  padding: 14px 8px 14px 16px;
+  border-radius: var(--radius-xl);
+  /* Opaque: it lies over running text, which glass would let through. */
+  background: var(--background);
+  border: 1px solid var(--glass-rim);
+  box-shadow: 0 6px 18px var(--glass-shadow);
+  font-size: 16px;
+  line-height: 22px;
+  animation: nudge-in 0.35s ease both;
+}
+
+.app-nudge[hidden] {
+  display: none;
+}
+
+.app-nudge img {
+  grid-row: span 2;
+  border-radius: 9px;
+}
+
+.app-nudge p {
+  display: flex;
+  flex-direction: column;
+}
+
+.app-nudge strong {
+  font-family: var(--font-title);
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.app-nudge span {
+  color: var(--color-secondary);
+}
+
+.app-nudge .tool {
+  grid-column: 3;
+  grid-row: 1;
+  align-self: start;
+  font-size: 20px;
+}
+
+.app-nudge .go {
+  grid-column: 2;
+}
+
+@keyframes nudge-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+}
+
+@media (max-width: 900px) {
+  .intro {
+    flex-wrap: wrap;
+    gap: 6px var(--space-md);
+    padding-left: var(--space-md);
+  }
+
+  .intro p {
+    flex-basis: 100%;
+  }
+
+  .intro .tool {
+    margin-left: auto;
+  }
+
+  /* Above the tab bar. */
+  .app-nudge {
+    left: 12px;
+    right: 12px;
+    bottom: calc(max(14px, env(safe-area-inset-bottom)) + 76px);
+    width: auto;
+  }
+}
+
 /* ── Footer ──────────────────────────────────────────────────────────── */
 
 .site-footer {
@@ -1441,6 +1565,8 @@ main {
   .site-header,
   .tabbar,
   .site-footer,
+  .app-nudge,
+  .intro,
   .reader-tools,
   .flourish {
     display: none !important;

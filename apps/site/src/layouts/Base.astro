@@ -2,6 +2,7 @@
 import { getImage } from 'astro:assets'
 import appIcon from '../../../app/assets/icon.png'
 import Icon from '~/components/Icon.astro'
+import { appStoreId } from '~/lib/config'
 import { htmlLang, type Locale, locales } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
 import { themeCss } from '~/lib/theme'
@@ -96,8 +97,8 @@ const tabKey: Partial<Record<Section | 'home', string>> = {
 }
 const activeTab = section ? (tabKey[section] ?? section) : undefined
 
-// Before first paint: the reader's theme, Latin and text-size choices.
-const boot = `(function(){try{var d=document.documentElement,s=localStorage;var t=s.getItem('ember-theme');if(t)d.dataset.theme=t;var l=s.getItem('ember-latin');if(l==='on'||(!l&&d.dataset.latinWide!==undefined&&innerWidth>=1100))d.dataset.latin='on';var z=s.getItem('ember-size');if(z)d.style.setProperty('--reading-size',z+'px')}catch(e){}})()`
+// Before first paint: the reader's theme, Latin and text-size choices, and a closed introduction.
+const boot = `(function(){try{var d=document.documentElement,s=localStorage;var t=s.getItem('ember-theme');if(t)d.dataset.theme=t;var l=s.getItem('ember-latin');if(l==='on'||(!l&&d.dataset.latinWide!==undefined&&innerWidth>=1100))d.dataset.latin='on';if(s.getItem('ember-intro')==='off')d.dataset.intro='off';var z=s.getItem('ember-size');if(z)d.style.setProperty('--reading-size',z+'px')}catch(e){}})()`
 ---
 
 <!doctype html>
@@ -128,6 +129,7 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
     <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
     <meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#0E0D0C" media="(prefers-color-scheme: dark)" />
+    {appStoreId && <meta name="apple-itunes-app" content={`app-id=${appStoreId}, app-argument=${abs(self)}`} />}
     <link rel="icon" href={icon.src} type="image/webp" />
     <link rel="apple-touch-icon" href={touchIcon.src} />
     <style is:inline set:html={themeCss}></style>
@@ -206,7 +208,7 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
             <div>
               <h2>{s('footEmber')}</h2>
               <ul>
-                <li><a href={href.landing(locale)}>{s('about')}</a></li>
+                <li><a href={href.landing(locale)}>{s('theApp')}</a></li>
                 <li><a href={href.privacy()}>{s('privacy')}</a></li>
                 <li><a href="https://github.com/gustavo-depaula/ember" rel="noopener">{s('source')}</a></li>
                 <li><a href={otherHref} hreflang={htmlLang[other]}>{s('otherLanguage')}</a></li>
@@ -218,6 +220,18 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
         </div>
       </footer>
     </div>
+
+    {section !== 'home' && (
+      <aside class="app-nudge" data-app-nudge hidden aria-label={s('theApp')}>
+        <img src={icon.src} alt="" width="40" height="40" />
+        <p>
+          <strong>{s('theApp')}</strong>
+          <span>{s('nudgeBody')}</span>
+        </p>
+        <a class="go" href={href.landing(locale)}>{s('seeTheApp')}</a>
+        <button class="tool" type="button" data-app-dismiss="nudge" aria-label={s('dismiss')}>×</button>
+      </aside>
+    )}
 
     <nav class="tabbar" aria-label={s('siteName')}>
       {tabs.map((tab) => (

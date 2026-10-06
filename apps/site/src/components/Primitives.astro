@@ -7,6 +7,7 @@ import { escapeHtml, inlineHtml } from '~/lib/html'
 import type { Locale } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
 import { appOnlyMarker } from '~/platform/sourceRegistry'
+import { href } from '~/routes'
 import Bilingual from './Bilingual.astro'
 import RichText from './RichText.astro'
 
@@ -83,6 +84,7 @@ function wrap(node: { type: string; text: string }): string {
           <aside class="app-only">
             <span class="t-kicker">{s('inTheApp')}</span>
             <span>{s('appOnlyBody')}</span>
+            <a class="go" href={href.landing(locale)}>{s('seeTheApp')} →</a>
           </aside>
         )
       }

@@ -77,6 +77,11 @@ const pillars = pt
   }}
 >
   <div class="wide home">
+    <aside class="intro" aria-label={s('theApp')}>
+      <p><strong>{s('introLead')}</strong> {s('introBody')}</p>
+      <a class="go" href={href.landing(locale)}>{s('seeTheApp')} →</a>
+      <button class="tool" type="button" data-app-dismiss="intro" aria-label={s('dismiss')}>×</button>
+    </aside>
     <header class="today">
       <div class="corner" aria-hidden="true">
         <img class="only-light" src={light.src} alt="" width="900" height={light.attributes.height} />
@@ -203,7 +208,7 @@ const pillars = pt
             ? 'Tudo o que está neste site, e mais o que é só seu: o plano de vida, os santinhos, as suas leituras. Gratuito e de código aberto, sem anúncios, contas nem rastreamento.'
             : 'Everything on this site, and what is yours alone: your plan of life, your holy cards, your reading. Free and open source, with no ads, no accounts and no tracking.'}
         </p>
-        <a class="go" href={href.landing(locale)}>{s('about')} →</a>
+        <a class="go" href={href.landing(locale)}>{s('seeTheApp')} →</a>
       </div>
       <ul class="pillars">
         {pillars.map((pillar) => (
