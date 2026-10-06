@@ -440,7 +440,8 @@ def convert_block(block, skeleton_langs):
             is_structural(c) or is_ref(c) for c in node.get("children", [])
         ) or has_block_child(node)
         if node["tag"] in inlineTags or not nested:
-            own = blocks_of({"children": [node]}) if node["tag"] in inlineTags else blocks_of(node)
+            # Wrapped so the node's own tag and class decide the block's kind.
+            own = blocks_of({"children": [node]})
             # A lone cycle letter under a cycle wrapper is a UI label.
             if own and not (ctx.get("cycle") and len(plain(own)) <= 2):
                 emit({"text": {"*": own}}, ctx)

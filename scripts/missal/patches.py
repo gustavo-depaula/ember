@@ -40,6 +40,13 @@ precedence = {
 }
 
 
+def color_of(doc):
+    """Colour of a saint's day not in `colors.json`: red when it draws on the Common of Martyrs."""
+    if doc["kind"] != "sanctoral":
+        return None
+    return "red" if any(c.startswith("common.martyrs") for c in doc.get("commons", [])) else "white"
+
+
 def apply(kind, doc):
     if kind == "formulary" and doc["id"] in precedence:
         doc["precedence"] = precedence[doc["id"]]

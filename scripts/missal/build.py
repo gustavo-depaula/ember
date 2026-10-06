@@ -150,6 +150,13 @@ def sanctoral_regions(rows, blocks):
             regions = sorted({r for lang in seen["langs"] for r in regionByLang[lang]})
         if file in ids.sanctoralRegionFiles and not regions:
             regions = [ids.sanctoralRegionFiles[file]]
+        own_date = re.fullmatch(r"(\d\d)(\d\d)[A-Z]?", anchor)
+        stray = own_date and (month, day) != (int(own_date.group(1)), int(own_date.group(2)))
+        if stray and not regions and (file, anchor) not in ids.sanctoralSpecial:
+            # Shown to everyone on a date that is not the anchor's own: a slip
+            # in one season block of upstream's switch, not a second feast day.
+            report["notes"].append(f"stray date dropped: {file}#{anchor} on {month}-{day}")
+            continue
         table[(file, anchor)].append({"month": month, "day": day, "regions": regions})
     return table
 
@@ -461,9 +468,26 @@ def main():
             index["eucharisticPrayers"].append(doc_id)
         elif kind == "extra":
             index["extras"].append(doc_id)
+    colors = json.loads((Path(__file__).parent / "colors.json").read_text(encoding="utf-8"))
+    for doc_id, entry in index["formularies"].items():
+        color = colors.get(doc_id) or patches.color_of(docs[("formulary", doc_id)])
+        if color:
+            entry["color"] = color
+    # One blob holds everything the calendar needs, so resolving a day never
+    # loads a formulary.
+    calendar["formularies"] = {
+        doc_id: entry
+        for doc_id, entry in index["formularies"].items()
+        if entry["kind"] in ("tempore", "sanctoral")
+    }
+    calendar["lectionary"] = [i for i in index["lectionary"] if not i.startswith("readings.")]
     write(target / "prefaces.json", prefaces)
     write(target / "calendar.json", calendar)
     write(target / "index.json", index)
+    (consult / "anchors.json").write_text(
+        json.dumps({f"{doc}#{anchor}": doc_id for (doc, anchor), doc_id in anchor_ids.items()}, indent=1),
+        encoding="utf-8",
+    )
     (consult / "build-report.json").write_text(
         json.dumps({**report, "unknownClasses": convert.unknownClasses}, ensure_ascii=False, indent=1),
         encoding="utf-8",
