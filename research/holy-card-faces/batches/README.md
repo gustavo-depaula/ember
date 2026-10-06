@@ -1,6 +1,6 @@
 # Batches
 
-Every card of `docs/plans/holy-cards-catalog.md`, made 10 at a time; each batch is committed and pushed to main on its own. A batch is done when its ids are ticked in `docs/plans/holy-cards-catalog.md` and its cards exist in `content/practices/saint-of-the-day/data/holy-cards/`; that, not this file, is the status.
+Every card of `research/holy-card-faces/catalog.md`, made 10 at a time; each batch is committed and pushed to main on its own. A batch is done when its ids are ticked in `research/holy-card-faces/catalog.md` and its cards exist in `content/practices/saint-of-the-day/data/holy-cards/`; that, not this file, is the status.
 
 | Batch | Saints (card ids) |
 |---|---|
@@ -74,7 +74,7 @@ Run one batch at a time: at most one batch generating and one being researched. 
     "refs": ["vincent_de_paul", "philip_neri", "ignatius_loyola"],
     "basis": "where the face comes from, one or two sentences",
     "sources": [{ "title": "…", "url": "…" }],
-    "catalogMatch": "Saint John Bosco"         // unique substring of its unticked line in docs/plans/holy-cards-catalog.md
+    "catalogMatch": "Saint John Bosco"         // unique substring of its unticked line in research/holy-card-faces/catalog.md
   }]
 }
 ```

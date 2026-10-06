@@ -1,6 +1,6 @@
 # Holy card catalog
 
-Every card the collection should hold, by what is on the card. [holy-cards.md](holy-cards.md) designs how cards are received. `[x]` has art in `content/saints/` (ids in backticks); `[ ]` is still to make. Calendar entries come from `content/of-data/calendar` (the universal Roman calendar); the Roman Canon and the parts of the Mass from `content/of/order/order-of-mass.json`.
+Every card the collection should hold, by what is on the card. How cards are received is the rules engine in `packages/holy-cards`. `[x]` has art in `content/saints/` (ids in backticks); `[ ]` is still to make. Calendar entries come from `content/of-data/calendar` (the universal Roman calendar); the Roman Canon and the parts of the Mass from `content/of/order/order-of-mass.json`.
 
 ## Summary
 
@@ -619,7 +619,7 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 - [x] Easter — Sunday — `easter_sunday` · [x] Easter — weekday — `easter_weekday`
 - [x] Ordinary Time II — Sunday — `ordinary_time_2_sunday` · [x] Ordinary Time II — weekday — `ordinary_time_2_weekday`
 
-**Ember Days** (*Têmporas*) — the Wednesday, Friday and Saturday of four weeks, one card each. Dates from the Divinum Officium missal (`missa/Latin/Tempora`): Advent `Adv3-3/5/6` (week of the Third Sunday of Advent), Lent `Quad1-3/5/6` (week of the First Sunday of Lent), Pentecost `Pasc7-3/5/6` (Pentecost week), September `093-3/5/6`. How the card is received is still open ([holy-cards.md](holy-cards.md)).
+**Ember Days** (*Têmporas*) — the Wednesday, Friday and Saturday of four weeks, one card each. Dates from the Divinum Officium missal (`missa/Latin/Tempora`): Advent `Adv3-3/5/6` (week of the Third Sunday of Advent), Lent `Quad1-3/5/6` (week of the First Sunday of Lent), Pentecost `Pasc7-3/5/6` (Pentecost week), September `093-3/5/6`. How the card is received is still open.
 
 - [x] Advent Ember Days · *Têmporas do Advento* — `advent_ember_days`
 - [x] Lenten Ember Days · *Têmporas da Quaresma* — `lent_ember_days`

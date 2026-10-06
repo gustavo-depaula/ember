@@ -1,7 +1,7 @@
 # Holy cards: what's missing in how cards are won
 
-The rules engine (`packages/holy-cards`) already has a rule for every door in
-[docs/plans/holy-cards.md](docs/plans/holy-cards.md). What's missing is the
+The rules engine (`packages/holy-cards`) already has a rule for every door a
+card is won through. What's missing is the
 app feeding it the acts, and the cards' art.
 
 | Door | Status | What's missing |

@@ -10,7 +10,7 @@ dir = Path("research/holy-card-faces")
 batch = json.loads((dir / sys.argv[1]).read_text())
 notes = dict(a.split("=", 1) for a in sys.argv[2:])
 cards_dir = Path("content/practices/saint-of-the-day/data/holy-cards")
-catalog = Path("docs/plans/holy-cards-catalog.md")
+catalog = Path("research/holy-card-faces/catalog.md")
 lines = catalog.read_text().split("\n")
 date = batch["date"]
 

@@ -3,7 +3,7 @@
 import re
 from pathlib import Path
 
-p = Path("docs/plans/holy-cards-catalog.md")
+p = Path("research/holy-card-faces/catalog.md")
 text = p.read_text()
 
 # Every item ("[x] …" up to the next box) with its "##" and "###" headings.

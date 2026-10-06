@@ -10,7 +10,7 @@ pnpm workspaces + turborepo:
 - `apps/app/` — Expo app · `apps/site/` — public read-only website (Astro, static) · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — GitHub Pages landing page · `apps/workshop/` — content preview
 - `packages/` — shared libraries; `content/` — source of truth for the corpus, one flat dir per kind
 - `research/` — long-running investigations (method + dataset, not app code). Deliberately unstructured: let structure emerge from the work there
-- `docs/` — a few references (content authoring, licensing, design). `docs/plans/` holds designs for unbuilt features; read one only when working on that feature
+- `docs/` — a few references (content authoring, licensing, design)
 
 ## Content architecture
 
