@@ -665,6 +665,11 @@ export default {
       minutes_other: '{{count}} min',
       onVerses: 'On {{verses}}',
     },
+    church: {
+      title: 'The Church on {{passage}}',
+      catechism: 'The Catechism cites this passage at:',
+      paragraph: 'Catechism of the Catholic Church, {{n}}',
+    },
     editionLanguages: {
       EN: 'English',
       PT: 'Portuguese',
@@ -1501,6 +1506,7 @@ export default {
     backToBooks: 'Back to the books',
     verseCommentary: 'Verse {{n}}: open the commentary',
     closeCommentary: 'Close the commentary',
+    catechismParagraph: 'Catechism, paragraph {{n}}',
     chooseCommentator: '{{name}}: choose the commentator',
     selectTranslation: 'Select Bible translation',
     prevChapter: 'Previous chapter',

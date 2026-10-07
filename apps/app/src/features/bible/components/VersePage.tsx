@@ -1,3 +1,4 @@
+import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
@@ -8,9 +9,57 @@ import { PrayerSpinner, ScreenLayout, Typography } from '@/components'
 import { findTranslation } from '@/lib/bibleTranslations'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { entriesForVerse, readingMinutes, spanLabel } from '../commentary'
-import { useBookName, useChapter, useChapterCommentary } from '../hooks'
+import { citationsForVerse, getChapterCitations, passageLabel } from '../citations'
+import {
+  type CommentaryEntry,
+  type CommentarySource,
+  entriesForVerse,
+  readingMinutes,
+  spanLabel,
+} from '../commentary'
+import { useBookName, useChapter, useChapterCommentary, useEntryVoices } from '../hooks'
+import { CatechismCitations } from './CatechismCitations'
 import { CommentaryVoices } from './CommentaryVoices'
+
+/** One commentator on the verse, in full: each entry's words, read from where they are kept. */
+function SourceCommentary({
+  source,
+  entries,
+  chapter,
+}: {
+  source: CommentarySource
+  entries: CommentaryEntry[]
+  chapter: number
+}) {
+  const { t } = useTranslation()
+  const { byEntry, isLoading, error } = useEntryVoices(entries)
+  return (
+    <YStack gap="$md">
+      <XStack alignItems="baseline" justifyContent="space-between">
+        <Typography variant="label" color="$colorBurgundy" letterSpacing={1.5}>
+          {source.name.toUpperCase()}
+        </Typography>
+        {isLoading || error ? undefined : (
+          <Typography variant="annotation">
+            {t('bible.commentary.minutes', { count: readingMinutes(byEntry.flat()) })}
+          </Typography>
+        )}
+      </XStack>
+      {error ? <Typography variant="annotation">{t('common.couldntLoad')}</Typography> : undefined}
+      {isLoading ? <PrayerSpinner /> : undefined}
+      {entries.map((entry, i) => (
+        <YStack key={entry.lecture?.chapterId ?? `${entry.from}-${entry.to}`} gap="$sm">
+          {entry.from !== entry.to ? (
+            <Typography variant="reference">
+              {t('bible.commentary.onVerses', { verses: `${chapter}:${spanLabel(entry)}` })}
+            </Typography>
+          ) : undefined}
+          <CommentaryVoices voices={byEntry[i] ?? []} />
+        </YStack>
+      ))}
+    </YStack>
+  )
+}
 
 /**
  * A verse's own page: the verse set large, then everything said of it, one
@@ -33,6 +82,15 @@ export function VersePage({
   const bookName = useBookName(translation, bookId)
   const { data: chapterData } = useChapter(translation, bookId, chapter)
   const { sources, bySource, isLoading, error } = useChapterCommentary(bookId, chapter, true)
+
+  // The index of citations is an addition to the page: without it (offline,
+  // a book it lacks) the commentary still stands, so its failure is not shown.
+  const { data: passages } = useQuery({
+    queryKey: ['bible', 'citations', bookId, chapter],
+    queryFn: () => getChapterCitations(bookId, chapter),
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+  const cited = citationsForVerse(passages ?? [], verse)
 
   const text = chapterData?.verses.find((v) => v.verse === verse)?.text
   // A stand-in chapter is the Douay-Rheims, whatever the edition chosen.
@@ -71,37 +129,29 @@ export function VersePage({
           <Typography variant="annotation">{t('common.couldntLoad')}</Typography>
         ) : undefined}
         {isLoading ? <PrayerSpinner /> : undefined}
-        {!isLoading && !error && spoken.length === 0 ? (
+        {!isLoading && !error && spoken.length === 0 && !cited?.ccc.length ? (
           <Typography variant="caption" fontSize="$3">
             {t('bible.commentary.none', { verse })}
           </Typography>
         ) : undefined}
 
         {spoken.map(({ source, entries }) => (
-          <YStack key={source.id} gap="$md">
-            <XStack alignItems="baseline" justifyContent="space-between">
-              <Typography variant="label" color="$colorBurgundy" letterSpacing={1.5}>
-                {source.name.toUpperCase()}
-              </Typography>
-              <Typography variant="annotation">
-                {t('bible.commentary.minutes', { count: readingMinutes(entries) })}
-              </Typography>
-            </XStack>
-            {entries.map((entry) => (
-              <YStack
-                key={`${entry.from}-${entry.to}-${entry.voices[0]?.text.slice(0, 24)}`}
-                gap="$sm"
-              >
-                {entry.from !== entry.to ? (
-                  <Typography variant="reference">
-                    {t('bible.commentary.onVerses', { verses: `${chapter}:${spanLabel(entry)}` })}
-                  </Typography>
-                ) : undefined}
-                <CommentaryVoices voices={entry.voices} />
-              </YStack>
-            ))}
-          </YStack>
+          <SourceCommentary key={source.id} source={source} entries={entries} chapter={chapter} />
         ))}
+
+        {cited && cited.ccc.length > 0 ? (
+          <YStack gap="$md">
+            <Typography variant="label" color="$colorBurgundy" letterSpacing={1.5}>
+              {t('bible.church.title', {
+                passage: `${bookName} ${passageLabel(cited.passage)}`,
+              }).toUpperCase()}
+            </Typography>
+            <Typography variant="annotation" fontSize="$2">
+              {t('bible.church.catechism')}
+            </Typography>
+            <CatechismCitations paragraphs={cited.ccc} />
+          </YStack>
+        ) : undefined}
       </YStack>
     </ScreenLayout>
   )

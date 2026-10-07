@@ -671,6 +671,11 @@ export default {
       minutes_other: '{{count}} min',
       onVerses: 'Sobre {{verses}}',
     },
+    church: {
+      title: 'A Igreja sobre {{passage}}',
+      catechism: 'O Catecismo cita esta passagem em:',
+      paragraph: 'Catecismo da Igreja Católica, {{n}}',
+    },
     editionLanguages: {
       EN: 'Ingl\u00eas',
       PT: 'Portugu\u00eas',
@@ -1509,6 +1514,7 @@ export default {
     backToBooks: 'Voltar aos livros',
     verseCommentary: 'Versículo {{n}}: abrir o comentário',
     closeCommentary: 'Fechar o comentário',
+    catechismParagraph: 'Catecismo, parágrafo {{n}}',
     chooseCommentator: '{{name}}: escolher o comentador',
     selectTranslation: 'Selecionar tradução da Bíblia',
     prevChapter: 'Capítulo anterior',
