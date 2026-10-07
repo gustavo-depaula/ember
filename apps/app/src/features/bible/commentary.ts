@@ -1,13 +1,19 @@
+import { loadBookChapterText } from '@/content/books'
 import { fetchHearth } from '@/lib/hearth'
 
 /** One commentator's words on a passage. `who` is absent where the note signs itself. */
 export type Voice = { who?: string; text: string }
 
-/** A comment on a run of verses of one chapter; `from` and `to` are the same for one verse. */
+/**
+ * A comment on a run of verses of one chapter; `from` and `to` are the same
+ * for one verse. Its words come with it (`voices`), or stay in the book they
+ * belong to and are read from there (`lecture`).
+ */
 export type CommentaryEntry = {
   from: number
   to: number
-  voices: Voice[]
+  voices?: Voice[]
+  lecture?: { bookId: string; chapterId: string }
 }
 
 export type CommentarySource = {
@@ -48,8 +54,50 @@ export function parseHaydockNote(note: string): Voice[] {
 }
 
 type HaydockBook = Record<string, Record<string, string[]>>
-type CatenaBook = {
-  chapters: Record<string, { from: number; to: number; voices: Voice[] }[]>
+type CatenaIndex = {
+  book: string
+  chapters: Record<string, { from: number; to: number; lecture: string }[]>
+}
+
+function escapeRegExp(text: string): string {
+  return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
+/**
+ * A Catena lecture, as its book has it, as the Fathers' voices. The four
+ * transcriptions attribute differently ("CHRYS …", "**Bede**; …", "Chrys. …"),
+ * so a paragraph opens a voice when it starts with a name from `fathers`, the
+ * table `scripts/build-catena-commentary.py` divides lectures by too. What
+ * comes before the first voice is the passage itself, which the reader has
+ * above.
+ */
+export function parseCatenaLecture(markdown: string, fathers: Record<string, string>): Voice[] {
+  const aliases = Object.keys(fathers)
+    .sort((a, b) => b.length - a.length)
+    .map((alias) => escapeRegExp(alias).replace(/ /g, '\\.? '))
+  const name = new RegExp(
+    `^(?:\\*\\*([^*]+?)\\*\\*|(${aliases.join('|')}))(?=[\\s.,;:])[.,;:]*\\s+`,
+    'i',
+  )
+  const voices: Voice[] = []
+  for (const block of markdown.split('\n\n').slice(1)) {
+    const paragraph = block.trim().replace(/^>+/, '').replace(/\s+/g, ' ').trim()
+    if (!paragraph) continue
+    const match = name.exec(paragraph)
+    const key = (match?.[1] ?? match?.[2] ?? '')
+      .replace(/[.,;:]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim()
+      .toLowerCase()
+    // "Jerome, in Prolog." is Jerome; a bold phrase that is no Father is prose.
+    const who = fathers[key] ?? fathers[key.split(/,| in | de /)[0].trim()]
+    const body = (who && match ? paragraph.slice(match[0].length) : paragraph)
+      .replace(/\^[^^]*\^/g, '')
+      .trim()
+    if (who) voices.push({ who, text: body })
+    else if (voices.length > 0) voices[voices.length - 1].text += `\n\n${body}`
+  }
+  return voices
 }
 
 // Haydock files a note under its verse, or under "8-9" for a note on several;
@@ -71,14 +119,30 @@ export async function getCommentary(
   const source = findCommentarySource(sourceId)
   if (source.books && !source.books.includes(bookId)) return []
   if (source.id === 'catena') {
-    const book = await fetchHearth<CatenaBook>(`bible/catena/${bookId}.json`)
-    return (book.chapters[String(chapter)] ?? []).map(({ from, to, voices }) => ({
+    const index = await fetchHearth<CatenaIndex>(`bible/catena/${bookId}.json`)
+    return (index.chapters[String(chapter)] ?? []).map(({ from, to, lecture }) => ({
       from,
       to,
-      voices,
+      lecture: { bookId: index.book, chapterId: lecture },
     }))
   }
   return haydockEntries(await fetchHearth<HaydockBook>(`bible/haydock/${bookId}.json`), chapter)
+}
+
+/**
+ * An entry's words: its own, or its lecture read from the book. The Catena is
+ * in the corpus in English and Latin; English is what is read here.
+ */
+export async function loadVoices(entry: CommentaryEntry): Promise<Voice[]> {
+  if (entry.voices) return entry.voices
+  if (!entry.lecture) return []
+  const { bookId, chapterId } = entry.lecture
+  const [text, fathers] = await Promise.all([
+    loadBookChapterText(bookId, chapterId, 'en-US'),
+    fetchHearth<Record<string, string>>('bible/catena/fathers.json'),
+  ])
+  if (text === undefined) throw new Error(`Lecture ${chapterId} is not in ${bookId}`)
+  return parseCatenaLecture(text, fathers)
 }
 
 /** Every entry that speaks of the verse, in reading order. */
@@ -110,9 +174,9 @@ export function spanLabel(span: { from: number; to: number }): string {
 
 const wordsPerMinute = 230
 
-/** Minutes to read the entries through, at least one. */
-export function readingMinutes(entries: CommentaryEntry[]): number {
-  const words = entries.flatMap((e) => e.voices).reduce((n, v) => n + v.text.split(/\s+/).length, 0)
+/** Minutes to read the voices through, at least one. */
+export function readingMinutes(voices: Voice[]): number {
+  const words = voices.reduce((n, v) => n + v.text.split(/\s+/).length, 0)
   return Math.max(1, Math.round(words / wordsPerMinute))
 }
 

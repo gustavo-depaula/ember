@@ -8,7 +8,7 @@ import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { findAdjacentChapter } from './bookNav'
-import { getCommentary, sourcesForBook } from './commentary'
+import { type CommentaryEntry, getCommentary, loadVoices, sourcesForBook } from './commentary'
 
 export function useBooks(translation: string) {
   return useQuery({
@@ -103,6 +103,28 @@ export function useChapterCommentary(bookId: string, chapter: number, enabled: b
     combine: (results) => ({
       sources,
       bySource: Object.fromEntries(sources.map((s, i) => [s.id, results[i].data])),
+      isLoading: results.some((r) => r.isLoading),
+      error: results.find((r) => r.error)?.error,
+    }),
+  })
+}
+
+/**
+ * The words of each entry, in the entries' order. Haydock's come with the
+ * entry; a Catena lecture is read from its book, one at a time and only when
+ * a verse it speaks of is opened.
+ */
+export function useEntryVoices(entries: CommentaryEntry[]) {
+  return useQueries({
+    queries: entries.map((entry) => ({
+      queryKey: entry.lecture
+        ? ['bible', 'lecture', entry.lecture.bookId, entry.lecture.chapterId]
+        : ['bible', 'voices', entry.from, entry.to, entry.voices?.[0]?.text],
+      queryFn: () => loadVoices(entry),
+      staleTime: Number.POSITIVE_INFINITY,
+    })),
+    combine: (results) => ({
+      byEntry: results.map((r) => r.data ?? []),
       isLoading: results.some((r) => r.isLoading),
       error: results.find((r) => r.error)?.error,
     }),

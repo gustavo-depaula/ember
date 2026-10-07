@@ -6,10 +6,11 @@ catena-aurea/<gospel>), one file per lecture. A lecture comments a passage: a
 clause, a verse, or a run of verses. This lays the English lectures against the
 Bible's verses so the reader can show the Fathers beside the text.
 
-Writes `<gospel>.json` as {chapter: [passage, ...]} in reading order, where a
-passage is {from, to, lecture, voices: [{who, text}, ...]}: `from`/`to` are the
-verses it covers, `lecture` the chapter id inside the book, and each voice one
-Father's contribution (paragraphs joined by a blank line).
+Writes `<gospel>.json` as {book, chapters: {chapter: [passage, ...]}} in reading
+order, where a passage is {from, to, lecture}: the verses it covers and the
+chapter id of its lecture inside the book. The text stays in the book, where
+the app reads it; `fathers.json` beside these (kept by hand) names the Fathers
+as each transcription abbreviates them.
 
 A lecture states its verses in one of three ways, by gospel and by transcriber:
 "8. The neighbours…" lines, "^1:6^" marks, or only the words commented (a
@@ -31,30 +32,9 @@ BOOKS = ROOT / "content" / "books" / "aquinas-opera-omnia" / "catena-aurea"
 DRB = ROOT / "content" / "bible" / "drb"
 OUT = ROOT / "content" / "bible" / "catena"
 
-# How each transcription names the Fathers, to the name shown.
-FATHERS = {
-    "aug": "Augustine", "augustine": "Augustine", "pseudo-aug": "Pseudo-Augustine",
-    "pseudo-augustine": "Pseudo-Augustine",
-    "chrys": "Chrysostom", "chrysostom": "Chrysostom", "pseudo-chrys": "Pseudo-Chrysostom",
-    "pseudo-chrysostom": "Pseudo-Chrysostom", "pseudo-chyrsostum": "Pseudo-Chrysostom",
-    "psuedo-chrysostom": "Pseudo-Chrysostom",
-    "greg": "Gregory the Great", "gregory": "Gregory the Great",
-    "greg nyss": "Gregory of Nyssa", "gregory of nyssa": "Gregory of Nyssa",
-    "greg naz": "Gregory Nazianzen",
-    "jerome": "Jerome", "pseudo-jerome": "Pseudo-Jerome",
-    "hilary": "Hilary", "origen": "Origen", "origin": "Origen",
-    "gloss": "The Gloss", "remig": "Remigius", "remigius": "Remigius",
-    "raban": "Rabanus Maurus", "ambrose": "Ambrose", "leo": "Leo the Great",
-    "bede": "Bede", "alcuin": "Alcuin", "cyril": "Cyril of Alexandria",
-    "theophyl": "Theophylact", "theophylact": "Theophylact", "theophlyact": "Theophylact",
-    "theophyact": "Theophylact",
-    "basil": "Basil", "pseudo-basil": "Pseudo-Basil", "greek ex": "A Greek expositor",
-    "titus bost": "Titus of Bostra", "titus": "Titus of Bostra", "eusebius": "Eusebius",
-    "athan": "Athanasius", "isidore peleus": "Isidore of Pelusium", "epiphan": "Epiphanius",
-    "damascene": "John Damascene", "damas": "John Damascene",
-    "maxim": "Maximus", "maximus": "Maximus", "cyprian": "Cyprian",
-    "severianus": "Severianus", "haymo": "Haymo", "anselm": "Anselm", "dionysius": "Dionysius",
-}
+# How each transcription names the Fathers, to the name shown. The app reads the
+# same table to set a lecture's voices, so the two always divide a lecture alike.
+FATHERS: dict[str, str] = json.loads((OUT / "fathers.json").read_text(encoding="utf-8"))
 ALIASES = sorted(FATHERS, key=len, reverse=True)
 NAME = re.compile(
     r"(?:\*\*(?P<bold>[^*]+?)\*\*|(?P<plain>" + "|".join(re.escape(a).replace(r"\ ", r"\.? ") for a in ALIASES) + r"))"
@@ -194,7 +174,7 @@ def build(gospel: str) -> tuple[dict, list[str]]:
     for lecture in lectures:
         chapter = lecture["key"][0]
         out.setdefault(str(chapter), []).append(
-            {"from": lecture["span"][0], "to": lecture["span"][1], "lecture": lecture["id"], "voices": lecture["voices"]}
+            {"from": lecture["span"][0], "to": lecture["span"][1], "lecture": lecture["id"]}
         )
     for chapter, passages in out.items():
         for a, b in zip(passages, passages[1:]):
@@ -215,8 +195,7 @@ def main() -> None:
             json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
         )
         passages = [p for c in data["chapters"].values() for p in c]
-        print(f"{gospel}: {len(data['chapters'])} chapters, {len(passages)} passages, "
-              f"{sum(len(p['voices']) for p in passages)} voices, {len(problems)} to check")
+        print(f"{gospel}: {len(data['chapters'])} chapters, {len(passages)} passages, {len(problems)} to check")
         for problem in problems:
             print("  ", problem)
 

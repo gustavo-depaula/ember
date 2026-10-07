@@ -25,7 +25,7 @@ import {
   spanForVerse,
   spanLabel,
 } from '../commentary'
-import type { useChapterCommentary } from '../hooks'
+import { type useChapterCommentary, useEntryVoices } from '../hooks'
 import { CommentaryVoices } from './CommentaryVoices'
 
 // About what fills the half page at the default size; more than that is read
@@ -65,14 +65,17 @@ export function CommentaryPane({
   const setSource = useBibleStore((s) => s.setCommentarySource)
   const [choosing, setChoosing] = useState(false)
 
-  const { sources, bySource, isLoading, error } = commentary
+  const { sources, bySource } = commentary
   // The commentator last chosen may not comment this book (the Catena outside
   // the Gospels): the first that does stands in, and the choice is kept.
   const source = sources.find((s) => s.id === chosen) ?? sources[0]
   const all = bySource[source.id]
   const entries = all ? entriesForVerse(all, verse) : []
   const span = all ? spanForVerse(all, verse) : undefined
-  const voices = entries.flatMap((e) => e.voices)
+  const words = useEntryVoices(entries)
+  const voices = words.byEntry.flat()
+  const isLoading = commentary.isLoading || words.isLoading
+  const error = commentary.error ?? words.error
   const shown = excerpt(voices, excerptBudget)
   const elsewhere = sources.filter(
     (s) => s.id !== source.id && entriesForVerse(bySource[s.id] ?? [], verse).length > 0,
@@ -174,10 +177,10 @@ export function CommentaryPane({
             onPress={onReadOn}
             hitSlop={12}
             accessibilityRole="button"
-            accessibilityLabel={t('bible.commentary.readOn', { count: readingMinutes(entries) })}
+            accessibilityLabel={t('bible.commentary.readOn', { count: readingMinutes(voices) })}
           >
             <Typography variant="caption" fontSize="$3" color="$colorBurgundy">
-              {t('bible.commentary.readOn', { count: readingMinutes(entries) })}
+              {t('bible.commentary.readOn', { count: readingMinutes(voices) })}
             </Typography>
           </Pressable>
         ) : undefined}
