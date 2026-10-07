@@ -1,7 +1,7 @@
 import { useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView, StyleSheet, useWindowDimensions } from 'react-native'
+import { Platform, Pressable, ScrollView, StyleSheet, useWindowDimensions } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import Animated, {
   clamp,
@@ -38,6 +38,7 @@ import { BibleDrawer } from './BibleDrawer'
 import { ChapterContent } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
 import { VersePane } from './VersePane'
+import { paneFraction } from './VersePaneContent'
 
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
 const noBooks: Book[] = []
@@ -68,7 +69,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
 
   // The verse the lower half is open on; none, and the page is whole.
   const [commentedVerse, setCommentedVerse] = useState<number>()
-  const [paneHeight, setPaneHeight] = useState(Math.round(screenHeight * 0.46))
+  const [paneHeight, setPaneHeight] = useState(Math.round(screenHeight * paneFraction))
   const scrollRef = useRef<ScrollView>(null)
   const chapterTop = useRef(0)
   const verseTops = useRef(new Map<number, number>())
@@ -211,7 +212,12 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     slideX.value = withSpring(0, springConfig)
   }
 
-  const paneReach = commentedVerse === undefined ? 0 : paneHeight
+  // On iOS the pane is a sheet over the page, not a part of it: the page keeps
+  // its height, and its drawer swipe never starts under the sheet.
+  const paneInPage = Platform.OS !== 'ios'
+  const paneReach = commentedVerse === undefined || !paneInPage ? 0 : paneHeight
+  // What the chapter's last verses must clear to be read with the pane open.
+  const openFoot = paneInPage ? 24 : Math.round(screenHeight * paneFraction) + 24
   const pan = useMemo(
     () =>
       Gesture.Pan()
@@ -317,7 +323,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
                   showsVerticalScrollIndicator={false}
                   contentContainerStyle={{
                     flexGrow: 1,
-                    paddingBottom: commentedVerse === undefined ? bottomClearance : 24,
+                    paddingBottom: commentedVerse === undefined ? bottomClearance : openFoot,
                   }}
                 >
                   <YStack flex={1}>
@@ -335,26 +341,24 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
                 </ScrollView>
               </ScreenLayout>
             </View>
-            {commentedVerse !== undefined ? (
-              <VersePane
-                bookId={bookId}
-                bookName={bookName}
-                chapter={chapter}
-                verse={commentedVerse}
-                commentary={commentary}
-                pane={pane}
-                initialHeight={paneHeight}
-                maxHeight={Math.round(screenHeight * 0.8)}
-                cameFrom={cameFrom}
-                onResize={setPaneHeight}
-                onClose={closeCommentary}
-                onReadOn={readOn}
-                onOpenPlace={(toBook, toChapter, verse) =>
-                  followCitation({ bookId: toBook, chapter: toChapter, verse })
-                }
-                onReturn={goBack}
-              />
-            ) : undefined}
+            <VersePane
+              bookId={bookId}
+              bookName={bookName}
+              chapter={chapter}
+              verse={commentedVerse}
+              commentary={commentary}
+              pane={pane}
+              initialHeight={paneHeight}
+              maxHeight={Math.round(screenHeight * 0.8)}
+              cameFrom={cameFrom}
+              onResize={setPaneHeight}
+              onClose={closeCommentary}
+              onReadOn={readOn}
+              onOpenPlace={(toBook, toChapter, verse) =>
+                followCitation({ bookId: toBook, chapter: toChapter, verse })
+              }
+              onReturn={goBack}
+            />
             {panelOpen ? (
               <Pressable
                 style={StyleSheet.absoluteFill}
