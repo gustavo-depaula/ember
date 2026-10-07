@@ -11,7 +11,7 @@
      side by side; the row scrolls sideways on a narrow screen. Single dark look
      by choice: the mock is the app's Tenebrae theme. */
   :root {
-    color-scheme: dark;
+    color-scheme: dark; --s: 72px;
     --desk: #1b1917; --bg: #0e0d0c; --surface: #252220;
     --ink: #ede4d8; --muted: #a89a8c; --accent: #d4a63a; --accentSubtle: #6e5c32; --border: #5c5248;
     --dawn: #e08a6e; --day: #e3b04b; --dusk: #b07fd0; --night: #6f95d8;
@@ -109,7 +109,7 @@
   .arow .t { flex: 1; min-width: 0; }
   .arow .t b { display: block; font-weight: 400; font-size: 21px; line-height: 26px; }
   .arow .t span { display: block; font-size: 14px; line-height: 18px; color: var(--muted); }
-  .cv { --s: 72px; flex: none; width: var(--s); height: var(--s); position: relative; box-shadow: 0 4px 8px #0005; display: grid; }
+  .cv { flex: none; width: var(--s); height: var(--s); position: relative; box-shadow: 0 4px 8px #0005; display: grid; }
   .cv .in { margin: calc(var(--s) * .09); border: 1px solid #f5efe2b3; border-radius: 2px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: calc(var(--s) * .03); padding: 0 calc(var(--s) * .05); text-align: center; overflow: hidden; }
   .cv b { font: 400 calc(var(--s) * .11)/1.12 var(--body); color: var(--blockInk); }
   .cv small { font: 400 calc(var(--s) * .042)/1 var(--display); letter-spacing: .18em; color: var(--blockInk); opacity: .7; }
@@ -126,6 +126,27 @@
   .caro > div { flex: none; width: 132px; }
   .caro .cv { --s: 132px; }
   .caro p { font-size: 14px; line-height: 18px; color: var(--muted); padding-top: 8px; }
+  .cv .in svg { width: calc(var(--s) * .18); height: calc(var(--s) * .18); flex: none; }
+  .cw { position: relative; flex: none; width: var(--s); }
+  .cw > .add { position: absolute; top: -12px; right: -12px; width: 36px; height: 36px; background: var(--bg); }
+  .cw > .add svg { width: 36px; height: 36px; }
+  .shelfh { display: flex; justify-content: space-between; align-items: baseline; padding-top: 18px; font: 400 13px/18px var(--display); letter-spacing: 2.5px; text-transform: uppercase; color: var(--muted); }
+  .shelfh span { color: var(--accent); letter-spacing: 1px; }
+  .shelf { display: flex; gap: 14px; margin-right: -24px; overflow: hidden; padding: 14px 0 8px; }
+  .who { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; padding-top: 12px; }
+  .who div { height: 88px; border-radius: 16px; background-size: cover; background-position: center 20%; position: relative; overflow: hidden; display: flex; align-items: flex-end; box-shadow: 0 4px 10px #0003; }
+  .who div::before { content: ''; position: absolute; inset: 0; background: linear-gradient(#0000 30%, #000b); }
+  .who b { position: relative; font: 400 16px/17px var(--title); color: var(--blockInk); padding: 10px; }
+  .door2 { display: flex; height: 132px; border-radius: 16px; background: var(--surface); align-items: center; margin-top: 12px; }
+  .door2 .l { flex: 1; padding-left: 24px; }
+  .door2 .num { font: italic 400 40px/46px var(--title); color: var(--accent); }
+  .door2 .cap { font-size: 14px; line-height: 18px; font-style: italic; color: var(--muted); }
+  .fan { width: 150px; height: 132px; position: relative; flex: none; }
+  .fan .cw { position: absolute; --s: 66px; filter: drop-shadow(0 6px 8px #0008); }
+  .pills { display: flex; gap: 10px; padding: 4px 0 6px; }
+  .pill { border: 1px solid var(--border); border-radius: 8px; padding: 7px 12px; font-size: 17px; line-height: 24px; color: var(--muted); font-style: italic; }
+  .pill.on { border-color: var(--accentSubtle); color: var(--accent); font-style: normal; }
+  .rail { position: absolute; right: 5px; top: 318px; display: flex; flex-direction: column; font: 400 9.5px/15.5px var(--display); color: var(--accent); text-align: center; width: 14px; }
   .note { border-top: 0.5px solid var(--border); padding-top: 20px; color: var(--muted); max-width: 68ch; }
   .note b { color: var(--ink); font-weight: 400; }
   .note ul { padding-left: 20px; display: flex; flex-direction: column; gap: 8px; padding-top: 8px; }
@@ -135,8 +156,33 @@
 <main>
   <header>
     <h1>Acrescentar à regra</h1>
-    <p><b style="color:var(--ink);font-weight:400">Round two is at the top:</b> the button is settled (the open bead at the foot of the string), and the page it opens is now the Orações page itself in an adding mode. Round one stays below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
+    <p><b style="color:var(--ink);font-weight:400">Round three is at the top:</b> the Orações page redrawn three ways without tabs, and each in its adding mode. The button is settled (the open bead at the foot of the string). Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
   </header>
+
+  <section class="q">
+    <h2>Rodada 3 · Orações</h2>
+    <h3>No tabs, no “all”</h3>
+    <p>Round two kept the two rows of text filters and only reshuffled them. These three start again from what the page is: the index of a prayer book, which answers two questions, what kind of prayer and to whom. None of them has an option called “Todas” or “Toda devoção”. Counts are the corpus's own. The phones scroll.</p>
+    <div class="strip" id="r3a"></div>
+  </section>
+
+  <section class="q">
+    <h2>Rodada 3 · Acrescentar à regra</h2>
+    <h3>The same pages, wearing the bead</h3>
+    <p>Opened from the open bead at the foot of the string. A holy card carries the bead on its corner; a row carries it at its end. Filled means it is already in the rule, in its hour's hue. All beads here are live.</p>
+    <div class="strip" id="r3b"></div>
+  </section>
+
+  <section class="note">
+    <b>Notes on round three</b>
+    <ul>
+      <li><b>“As mais queridas” is a placeholder list.</b> The names are mine, there to fill the shelf. Nothing in the corpus ranks devotions, so this stays a short list you approve by hand.</li>
+      <li><b>“Nestes dias”</b> only states what the calendar can compute: the weekday's devotion and a novena whose ninth day falls on the eve of its feast.</li>
+      <li><b>The letter rail</b> in C is a drag target: slide a thumb down it and the list follows, as in Contacts.</li>
+    </ul>
+  </section>
+
+  <div class="round">Rodada 2</div>
 
   <section class="q">
     <h2>Rodada 2 · Orações</h2>
@@ -421,6 +467,78 @@
     const n = document.querySelectorAll('#r2b button.add[data-on="1"]').length
     document.getElementById('bar2').hidden = n === 0
     document.getElementById('count2').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
+  })
+
+  // ── Round three ──
+  Object.assign(R, {
+    'all-saints-novena': ['practice', 'flame', 'Novena de Todos os Santos', 10],
+    'st-jude-novena': ['practice', 'prayer', 'Novena a São Judas Tadeu', 10],
+    'holy-souls-novena': ['practice', 'flame', 'Novena pelas Almas', 10],
+    'annunciation-novena': ['practice', 'mary', 'Novena da Anunciação', 10],
+    'assumption-novena': ['practice', 'mary', 'Novena da Assunção de Nossa Senhora', 10],
+    'candlemas-novena': ['practice', 'mary', 'Novena das Candeias', 10],
+    'our-lady-of-the-rosary-novena': ['practice', 'rosary', 'Novena a Nossa Senhora do Rosário', 10],
+    'any-marian-feast-novena': ['practice', 'mary', 'Novena para Qualquer Festa de Nossa Senhora', 10],
+    'litany-sacred-heart': ['breviary', '', 'Ladainha do Sagrado Coração', 10],
+    'litany-holy-name': ['breviary', '', 'Ladainha do Santo Nome de Jesus', 8],
+    'litany-humility': ['breviary', '', 'Ladainha da Humildade', 5],
+    'te-deum': ['breviary', '', 'Te Deum'],
+    'hail-holy-queen': ['breviary', '', 'Salve Rainha'],
+    magnificat: ['breviary', '', 'Magnificat'],
+    'divine-office': ['practice', 'prayer', 'Ofício Divino', 15],
+    breviary: ['practice', 'prayer', 'Breviário Romano', 15],
+    'little-office-bvm': ['practice', 'mary', 'Pequeno Ofício de Nossa Senhora', 15],
+  })
+  const bead3 = (mode, title) => !mode ? '' : mode === 'add' ? `<button class="add" data-c="var(--day)" aria-label="Acrescentar ${title}">${plusBead()}</button>` : `<span class="add">${doneBead(mode)}</span>`
+  const big = (id, size, mode) => `<div class="cw" style="--s:${size}px">${cover(id)}${bead3(mode, R[id][2])}</div>`
+  const shelf = (name, count, ids, size, modes = {}) => `<div class="shelfh">${name}${count ? `<span>${count} ›</span>` : ''}</div><div class="shelf">${ids.map((id) => big(id, size, modes[id] ?? modes['*'])).join('')}</div>`
+  const loved = ['rosary', 'chaplet-of-divine-mercy', 'stations-cross', 'angelus', 'litany-loreto']
+  const who = `<div class="shelfh">A quem</div><div class="who">${[['marian', 'Nossa Senhora'], ['eucharistic', 'Eucaristia'], ['sacred-heart', 'Sagrado Coração'], ['holy-spirit', 'Espírito Santo'], ['way-of-the-cross', 'Paixão'], ['for-the-dead', 'Fiéis defuntos']].map(([a, n]) => `<div style="background-image:url(art/${a}.jpg)"><b>${n}</b></div>`).join('')}</div>`
+  const days = (mode) => `<div class="shelfh" style="padding-bottom:6px">Nestes dias</div>` + arow('st-teresa-of-avila-novena', 'Novena · começa hoje, festa em 15 de outubro', mode) + arow('tuesday-angels', 'A devoção da terça-feira · 8 min', mode)
+  const kinds = [
+    ['Novenas', 89, 'Para as festas do ano e os santos', ['all-saints-novena', 'st-teresa-of-avila-novena', 'st-jude-novena']],
+    ['Ofícios', 87, 'O Breviário, os pequenos ofícios', ['divine-office', 'breviary', 'little-office-bvm']],
+    ['Hinos', 81, 'Hinos, cânticos e antífonas', ['te-deum', 'a-solis-ortus-cardine', 'magnificat']],
+    ['Ladainhas', 9, 'De Nossa Senhora, do Sagrado Coração', ['litany-loreto', 'litany-sacred-heart', 'litany-holy-name']],
+    ['Rosários e terços', 6, 'O Rosário, a Misericórdia, as Sete Dores', ['rosary', 'chaplet-of-divine-mercy', 'seven-sorrows']],
+  ]
+  const fanSlots = [[2, 28, -9], [40, 18, -1], [80, 26, 8]]
+  const door2 = ([name, n, cap, ids]) => `<div class="door2"><div class="l"><div class="num">${n}</div><div class="label">${name}</div><div class="cap">${cap}</div></div><div class="fan">${ids.map((id, i) => `<div class="cw" style="left:${fanSlots[i][0]}px;top:${fanSlots[i][1]}px;transform:rotate(${fanSlots[i][2]}deg)">${cover(id)}</div>`).join('')}</div></div>`
+  const azDoor = `<div class="door" style="margin-top:20px">Todas, de A a Z <span>439 ›</span></div>`
+  const letterRail = `<div class="rail">${'ABCDEFGHILMNOPQRSTUV'.split('').map((l) => `<span>${l}</span>`).join('')}</div>`
+  const pills = (a, b) => `<div class="pills"><span class="pill ${a ? 'on' : ''}">${a ? a + ' ✕' : 'Que oração? ⌄'}</span><span class="pill ${b ? 'on' : ''}">${b ? b + ' ✕' : 'A quem? ⌄'}</span></div>`
+
+  const estante = (mode, modes = {}) =>
+    shelf('As mais queridas', '', loved, 150, { '*': mode, ...modes }) + days(mode) + who +
+    kinds.map(([name, n, , ids]) => shelf(name, n, [...ids, ids[0]], 112, { '*': mode, ...modes })).join('') + azDoor
+  const lista = (mode, modes = {}) =>
+    pills() + lsec('As mais queridas') + loved.map((id) => arow(id, undefined, modes[id] ?? mode)).join('') + lsec('De A a Z · 439') + alphabet(mode)
+  const marianNovenas = ['annunciation-novena', 'assumption-novena', 'candlemas-novena', 'our-lady-of-the-rosary-novena', 'any-marian-feast-novena']
+
+  document.getElementById('r3a').innerHTML = [
+    col('A · A estante', 'Shelves of holy cards at their real size, as Home and Explore show them. The best loved lead; “A quem” is six paintings; each kind of prayer is a shelf that opens its full list. Browsing is sideways swipes.', page('Orações', estante()), true),
+    col('B · As portas', 'Search\'s doors, one level down: each kind of prayer is a door with its count and a hand of three cards. Compact, the whole index fits two screens, but nothing is prayable from here without opening a door.', page('Orações', shelf('As mais queridas', '', loved, 112) + `<div class="shelfh">Que oração</div>` + kinds.map(door2).join('') + who + azDoor)),
+    col('C · A lista, com duas perguntas', 'Stays one list. The two filter rows become two questions that read as questions until answered. Unanswered, the list opens with the best loved, then the alphabet with a letter rail to drag.', page('Orações', lista(), letterRail)),
+    col('C · respondidas', 'Both answered: each pill names its answer and clears with a tap. This is also the list a shelf or a door opens in A and B, so the three share one filtered page.', page('Orações', pills('Novenas', 'Nossa Senhora') + `<div class="count" style="padding:6px 0 4px">14 orações</div>` + marianNovenas.map((id) => arow(id)).join(''))),
+  ].join('')
+
+  const inRule = { rosary: hue.dusk, angelus: hue.day }
+  const bar3 = `<div class="bar" hidden><span></span><b>Ver a regra ›</b></div>`
+  document.getElementById('r3b').innerHTML = [
+    col('A · A estante, acrescentando', 'The bead sits on each card\'s corner. The Rosary and the Angelus already hang on the string, so theirs are filled in dusk and day.', page('Acrescentar à regra', estante('add', inRule), bar3)),
+    col('Uma estante aberta', 'A shelf or door opened, here Novenas narrowed to Nossa Senhora. Rows end in the bead; a novena\'s bead begins it. Tapping the row itself still opens the prayer.', page('Acrescentar à regra', pills('Novenas', 'Nossa Senhora') + `<div class="count" style="padding:6px 0 4px">14 orações</div>` + marianNovenas.map((id) => arow(id, 'Novena · 9 dias', 'add')).join(''), bar3)),
+    col('C · A lista, acrescentando', 'The single list with a bead per row. What the rule holds says so and shows its hour.', page('Acrescentar à regra', lista('add', inRule).replace('<span>20 min</span>', '<span>na regra · todo dia às 18h30</span>').replace('<span>3 min</span>', '<span>na regra · às 12h e às 18h</span>'), letterRail + bar3)),
+  ].join('')
+  document.getElementById('r3b').addEventListener('click', (e) => {
+    const b = e.target.closest('button.add')
+    if (!b) return
+    const on = b.dataset.on === '1', cap = b.parentElement.querySelector('.t span')
+    b.dataset.on = on ? '' : '1'
+    b.innerHTML = on ? plusBead() : doneBead(b.dataset.c)
+    if (cap) { if (!on) { b.dataset.cap = cap.textContent; cap.textContent = 'na regra' } else cap.textContent = b.dataset.cap }
+    const phone = b.closest('.phone'), n = phone.querySelectorAll('button.add[data-on="1"]').length, bar = phone.querySelector('.bar')
+    bar.hidden = n === 0
+    bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
   })
 
   // Live marks on page A: an open bead fills, and the bar counts.
