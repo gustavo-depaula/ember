@@ -45,6 +45,10 @@ const keys: { chave: string; texto_id: string }[] = JSON.parse(
   readFileSync(join(dumps, 'chaves.json'), 'utf8'),
 )
 const textOfKey = new Map(keys.map((k) => [k.chave, k.texto_id]))
+// season -> hour and Sunday -> year of the cycle -> antiphon of the Gospel canticle
+const sundays: Record<string, Record<string, Record<string, string>>> = JSON.parse(
+  readFileSync(join(dumps, 'domingos.json'), 'utf8'),
+)
 
 // ---- texts to parts --------------------------------------------------------
 
@@ -103,6 +107,14 @@ for (const line of readFileSync(join(dumps, 'textos.jsonl'), 'utf8').split('\n')
   if (!line) continue
   const text = JSON.parse(line) as { id: string; hora: string; html: string }
   const cut = slotsOf(relink(normalize(text.html)), text.hora)
+  // One Sunday's Lauds has the antiphon's label run into the line above it,
+  // and so the canticle's own title left with the heading.
+  for (const [i, part] of cut.entries()) {
+    const last = part.blocks[0]?.lines.at(-1)?.at(-1)
+    if (part.slot !== 'canticle-title' || typeof last !== 'object' || last.m !== 'rubric' || !/ Ant\.$/.test(last.t)) continue
+    last.t = last.t.replace(/ Ant\.$/, '')
+    if (cut[i + 1]?.slot === 'canticle') cut[i + 1].blocks.unshift(...part.blocks.splice(1))
+  }
   textParts.set(
     text.id,
     cut.map((part) => {
@@ -142,6 +154,118 @@ setDiffUntold((slot, o, below) => {
     `     DIFF ${slot.hour} ${slot.slot} ${o.key.C} ${o.key.s} w${o.key.w} d${o.key.d} (${a.length} vs ${b.length} chars, differ at ${i})\n        saint's: …${a.slice(Math.max(0, i - 50), i + 90)}\n        below:   …${b.slice(Math.max(0, i - 50), i + 90)}`,
   )
 })
+
+// ---- what the archive lacks ------------------------------------------------
+
+// The app set the Sunday's antiphon of the Gospel canticle into the hour as it
+// was shown, from a table by year of the cycle, and the archive's hours were
+// taken before that: outside Ordinary Time they have the label and no
+// antiphon. The table supplies it. Parts that come from it are kept apart
+// (`supplied`), so the tests can still hold the rest of the hour to the archive.
+const supplied = new Set<string>()
+const isSaid = (id: string | undefined) =>
+  Boolean(id) && wordsOfBlocks(parts.get(id as string) as Block[]).replace(/^ant\d?/, '') !== ''
+
+const ofSeason: Record<string, string> = { advent: 'Advento', lent: 'Quaresma', easter: 'Pascoa', 'ordinary-time': 'TC' }
+const ofCelebration: Record<string, [string, string]> = {
+  'tempore.holy-week.palm-sunday': ['Quaresma', 'ramos'],
+  'tempore.christmas.holy-family': ['Natal', 'sagradafamilia'],
+}
+function sundayAntiphon(hour: Hour, key: OfficeKey): string | undefined {
+  if (hour !== 'lauds' && hour !== 'vespers') return undefined
+  const which = hour === 'lauds' ? 'laudes' : key.g ? 'vesperasI' : 'vesperasII'
+  const own = ofCelebration[key.C]
+  if (own) return sundays[own[0]][which + own[1]]?.[key.c]
+  if (key.C || !(key.d === '0' || key.g === 'eve')) return undefined
+  const season = ofSeason[key.s]
+  // The evening before belongs to the week that is ending.
+  const sunday = Number(key.w) + (key.g === 'eve' ? 1 : 0)
+  return sundays[season]?.[which + (season === 'TC' ? String(sunday).padStart(2, '0') : sunday)]?.[key.c]
+}
+
+function antiphonPart(text: string): string {
+  const [first, ...rest] = text.split('\n')
+  const blocks: Block[] = [{ k: 'p', lines: [[{ m: 'rubric', t: 'Ant.' }, ` ${first}`], ...rest.map((line) => [line])] }]
+  // Its own part even where the archive has the same words elsewhere, so that
+  // what was supplied can always be told from what was found.
+  const id = `supplied-${sha(wordsOfBlocks(blocks))}`
+  parts.set(id, blocks)
+  supplied.add(id)
+  return id
+}
+
+// From 17 December the Magnificat has the antiphon of the date ("Ó
+// Sabedoria"…), the Sunday's Vespers as any other day's; the archive has it on
+// the weekdays. The evening before a Sunday is keyed by the Sunday's date.
+function antiphonOfTheDate(key: OfficeKey): string | undefined {
+  if (key.s !== 'advent' || !key.k || key.C) return undefined
+  const [month, day] = key.k.split('-').map(Number)
+  const date = `${String(month).padStart(2, '0')}-${String(day - (key.g === 'eve' ? 1 : 0)).padStart(2, '0')}`
+  if (date < '12-17' || date > '12-23') return undefined
+  for (const seen of observed.get('vespers')?.values() ?? []) {
+    if (seen.key.k !== date || seen.key.C || seen.key.g || seen.key.d === '0') continue
+    const theirs = (textParts.get(seen.text) as [string, string][]).find(([slot]) => slot === 'canticle-ant')?.[1]
+    if (!isSaid(theirs)) continue
+    const lines = (parts.get(theirs as string) as Block[]).flatMap((block) => block.lines.map(lineOf))
+    return antiphonPart(lines.join('\n').replace(/^Ant\.\s*/, ''))
+  }
+  return undefined
+}
+
+const disagreements = new Set<string>()
+// Where the archive has a text and the corpus another.
+const corrected = new Set<string>()
+/** A text's parts as a day has them: the archive's, and what it lacks. */
+function cutOf(hour: Hour, key: OfficeKey, text: string): [string, string][] {
+  const cut = textParts.get(text) as [string, string][]
+  if (cut[0][0] === 'whole') return cut
+  // The archive's second Vespers of Christ the King stop after the responsory.
+  // What follows is as at the first (the book gives both the same
+  // intercessions and prayer), but for the antiphon, which is taken from
+  // liturgiadashoras.online.
+  if (hour === 'vespers' && key.C === 'tempore.solemnity.christ-the-king' && !key.g && !cut.some(([slot]) => slot === 'canticle')) {
+    const first = [...(observed.get('vespers')?.values() ?? [])].find((o) => o.key.C === key.C && o.key.g === 'first')
+    if (!first) throw new Error('no first Vespers of Christ the King to complete the second from')
+    const theirs = textParts.get(first.text) as [string, string][]
+    const antiphon = antiphonPart('Todo poder foi-me dado no céu e na terra,\nafirmou o Senhor.')
+    const copy = (id: string) => {
+      parts.set(`supplied-${id}`, parts.get(id) as Block[])
+      supplied.add(`supplied-${id}`)
+      return `supplied-${id}`
+    }
+    return [
+      ...cut,
+      ...theirs
+        .slice(theirs.findIndex(([slot]) => slot === 'canticle-title'))
+        .map(([slot, id]): [string, string] => [slot, slot.startsWith('canticle-ant') ? antiphon : copy(id)]),
+    ]
+  }
+  if (!cut.some(([slot]) => slot === 'canticle')) return cut
+  const theirs = cut.find(([slot]) => slot === 'canticle-ant')?.[1]
+  const antiphon = sundayAntiphon(hour, key)
+  const sunday = hour === 'vespers' && (key.d === '0' || key.g === 'eve')
+  const ofTheDate = sunday ? antiphonOfTheDate(key) : undefined
+  const same = (a: string, b: string) => wordsOfBlocks(parts.get(a) as Block[]) === wordsOfBlocks(parts.get(b) as Block[])
+  // On a Sunday that is 17 December the archive has the 18th's.
+  const mistaken = isSaid(theirs) && ofTheDate !== undefined && !same(theirs as string, ofTheDate)
+  if (mistaken)
+    corrected.add(
+      `${hour} ${key.k}${key.g && ` (${key.g})`}: ${lineOf((parts.get(theirs as string) as Block[])[0].lines[0])} → ${lineOf((parts.get(ofTheDate as string) as Block[])[0].lines[0])}`,
+    )
+  if (isSaid(theirs) && !mistaken) {
+    if (antiphon && wordsOfBlocks(parts.get(antiphonPart(antiphon)) as Block[]) !== wordsOfBlocks(parts.get(theirs as string) as Block[]))
+      disagreements.add(`${hour} ${key.C || key.s} ${key.w}${key.g} ${key.c}: ${lineOf((parts.get(theirs as string) as Block[])[0].lines[0])} ≠ ${antiphon.split('\n')[0]}`)
+    return cut
+  }
+  const part = ofTheDate ?? (antiphon ? antiphonPart(antiphon) : undefined)
+  if (!part) return cut
+  const isAntiphon = (slot: string) => slot === 'canticle-ant' || slot === 'canticle-ant-end'
+  return cut
+    .filter(([slot]) => !isAntiphon(slot))
+    .flatMap((entry): [string, string][] =>
+      entry[0] === 'canticle' ? [['canticle-ant', part], entry, ['canticle-ant-end', part]] : [entry],
+    )
+}
 
 // ---- observations ----------------------------------------------------------
 
@@ -313,9 +437,28 @@ for (const hour of hours) {
         value:
           slot === '@head'
             ? arrangement(text)
-            : ((textParts.get(text) as [string, string][]).find(([s]) => s === slot)?.[1] ?? ''),
+            : (cutOf(hour, key, text).find(([s]) => s === slot)?.[1] ?? ''),
       }))
     const built = buildLayers(observations, { hour, slot })
+    // The Sundays of the table that these years never had, a late Easter's
+    // before Lent among them.
+    if ((hour === 'lauds' || hour === 'vespers') && (slot === 'canticle-ant' || slot === 'canticle-ant-end')) {
+      const byCycle = built.layers.find((layer) => layer.fields.join('') === 'swdgc')
+      for (const [season, name] of Object.entries(ofSeason)) {
+        for (const [sunday, years] of Object.entries(sundays[name])) {
+          const [, which, n] = /^(laudes|vesperasII|vesperasI)(\d+)$/.exec(sunday) ?? []
+          if (!which || (which === 'laudes') !== (hour === 'lauds') || !byCycle) continue
+          for (const [c, antiphon] of Object.entries(years)) {
+            // The year of the cycle begins with Advent's first Sunday, whose
+            // eve is that Sunday's own first Vespers.
+            const eve = which === 'vesperasI'
+            const first = eve && season === 'advent' && Number(n) === 1
+            const at = [season, String(Number(n) - (eve && !first ? 1 : 0)), eve && !first ? '6' : '0', eve ? (first ? 'first' : 'eve') : '', c].join('|')
+            byCycle.entries[at] ??= antiphonPart(antiphon)
+          }
+        }
+      }
+    }
     slots[slot] = built.layers
     if (built.untold > 0) untold.set(slot, built.untold)
   }
@@ -324,9 +467,10 @@ for (const hour of hours) {
   // Every observed hour must come back part for part.
   let wrong = 0
   for (const { key, text, date } of list) {
-    const cut = textParts.get(text) as [string, string][]
+    const cut = cutOf(hour, key, text)
     const got = assembled(key).join(' ')
-    if (got !== cut.map(([, part]) => part).join(' ') && wrong++ < 3) console.log('  WRONG', hour, date)
+    if (got !== cut.map(([, part]) => part).join(' ') && wrong++ < 3)
+      console.log('  WRONG', hour, date, cut.map(([slot]) => slot).join(' '), '|', slotsFor(key).filter((slot) => lookup(slots[slot], key)).join(' '))
   }
   if (holdout) {
     const unseen = all.filter((o) => o.date >= holdout)
@@ -368,7 +512,7 @@ for (const hour of hours) {
     let silent = 0
     for (const { key, text, date } of unseen) {
       if (!covered(key)) flagged++
-      const cut = textParts.get(text) as [string, string][]
+      const cut = cutOf(hour, key, text)
       const want = cut.map(([, part]) => part)
       const got = assembled(key)
       if (got.join(' ') === want.join(' ')) same++
@@ -424,6 +568,9 @@ for (const hour of hours) {
   )
 }
 
+console.log(`supplied: ${supplied.size} antiphons of Sundays; the table and the archive differ on ${disagreements.size}`)
+for (const d of disagreements) console.log(`  ${d}`)
+for (const c of corrected) console.log(`  corrected ${c}`)
 if (process.argv.includes('--check') || holdout) process.exit(0)
 
 // ---- write -----------------------------------------------------------------
@@ -443,8 +590,19 @@ const bundles = new Map<string, Block[][]>()
         const part = lookup(index.slots[slot], key)
         if (!part || seen.has(part)) continue
         seen.add(part)
-        const group = slot.replace(/~\d+$/, '').replace(/-\d+/, '').replace(/^(ant|collect)-end$/, '$1')
+        const group = supplied.has(part)
+          ? 'supplied'
+          : slot.replace(/~\d+$/, '').replace(/-\d+/, '').replace(/^(ant|collect)-end$/, '$1')
         groups.set(group, [...(groups.get(group) ?? []), part])
+      }
+    }
+    // And what no day of these years reaches.
+    for (const [slot, layers] of Object.entries(index.slots)) {
+      if (slot === '@head') continue
+      for (const part of layers.flatMap((layer) => Object.values(layer.entries))) {
+        if (!part || seen.has(part)) continue
+        seen.add(part)
+        groups.set('supplied', [...(groups.get('supplied') ?? []), part])
       }
     }
   }

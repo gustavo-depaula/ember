@@ -37,6 +37,10 @@ export interface HourPart {
   // second time in one hour is numbered: 'prayer~2'.
   slot: string
   blocks: Block[]
+  // A text the archive the corpus was drawn from left out of its hours and
+  // that came from elsewhere (`supplied-*` bundles): outside what the
+  // reference checks.
+  supplied?: true
 }
 
 // The hours a memorial changes: the others are the weekday's either way.
@@ -77,7 +81,9 @@ export async function assembleHour(
       const bundle = await source.parts(ref.slice(0, dot))
       const blocks = bundle?.parts[Number(ref.slice(dot + 1))]
       if (!blocks) throw new Error(`Liturgy of the Hours: part ${ref} is missing from the corpus`)
-      return { slot, blocks }
+      return ref.startsWith('supplied-')
+        ? { slot, blocks, supplied: true as const }
+        : { slot, blocks }
     }),
   )
 }
