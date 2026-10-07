@@ -9,7 +9,7 @@ import { fetchClerusTalk } from '@/sources/clerus/talk'
 import { LongParagraph } from './LongParagraph'
 
 /**
- * A pope's homily or address, read from Biblia Clerus where a verse's page
+ * A pope's homily or address, read from Biblia Clerus where a verse
  * pointed to it. The text is the Holy See's, in Portuguese, and is fetched
  * when the page opens.
  */

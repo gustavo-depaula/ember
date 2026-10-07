@@ -57,6 +57,7 @@ export function ChapterContent({
   fallback,
   marked,
   onVersePress,
+  onVerseLayout,
 }: {
   bookName: string
   chapter: number
@@ -65,6 +66,8 @@ export function ChapterContent({
   marked?: MarkedVerses
   /** `y` is the verse's top within this component, for scrolling it into view. */
   onVersePress?: (verse: number, y: number) => void
+  /** Each verse's top as it is laid out, for a reader that turns to a verse untapped. */
+  onVerseLayout?: (verse: number, y: number) => void
 }) {
   const { t } = useTranslation()
   const readingStyle = useReadingStyle()
@@ -125,7 +128,11 @@ export function ChapterContent({
         return (
           <Pressable
             key={v.verse}
-            onLayout={(e) => tops.current.set(v.verse, e.nativeEvent.layout.y)}
+            onLayout={(e) => {
+              const { y } = e.nativeEvent.layout
+              tops.current.set(v.verse, y)
+              onVerseLayout?.(v.verse, y)
+            }}
             onPress={() => onVersePress(v.verse, tops.current.get(v.verse) ?? 0)}
             accessibilityRole="button"
             accessibilityLabel={t('a11y.verseCommentary', { n: v.verse })}

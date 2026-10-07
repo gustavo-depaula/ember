@@ -8,7 +8,22 @@ import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { findAdjacentChapter } from './bookNav'
-import { type CommentaryEntry, getCommentary, loadVoices, sourcesForBook } from './commentary'
+import { citationsForVerse, getChapterCitations, splitByVerse } from './citations'
+import {
+  type CommentaryEntry,
+  entriesForVerse,
+  getCommentary,
+  getLectures,
+  loadVoices,
+  sourcesForBook,
+} from './commentary'
+import {
+  getChapterReadings,
+  getSummaArticles,
+  getTalks,
+  type ReferenceKind,
+  readingsForVerse,
+} from './references'
 
 export function useBooks(translation: string) {
   return useQuery({
@@ -130,3 +145,78 @@ export function useEntryVoices(entries: CommentaryEntry[]) {
     }),
   })
 }
+
+/**
+ * What points at a verse from elsewhere, a kind at a time, and how many of
+ * each: the half page puts the counts on its line of kinds, so all of it is
+ * read as soon as a verse is opened.
+ */
+export function useVerseReferences(bookId: string, chapter: number, verse: number) {
+  const staleTime = Number.POSITIVE_INFINITY
+  const passages = useQuery({
+    queryKey: ['bible', 'citations', bookId, chapter],
+    queryFn: () => getChapterCitations(bookId, chapter),
+    staleTime,
+  })
+  const lectures = useQuery({
+    queryKey: ['bible', 'lectures', bookId, chapter],
+    queryFn: () => getLectures(bookId, chapter),
+    staleTime,
+  })
+  const articles = useQuery({
+    queryKey: ['bible', 'summa', bookId, chapter, verse],
+    queryFn: () => getSummaArticles(bookId, chapter, verse),
+    staleTime,
+  })
+  const talks = useQuery({
+    queryKey: ['bible', 'talks', bookId, chapter, verse],
+    queryFn: () => getTalks(bookId, chapter, verse),
+    staleTime,
+  })
+  const readings = useQuery({
+    queryKey: ['bible', 'lectionary', bookId, chapter],
+    queryFn: () => getChapterReadings(bookId, chapter),
+    staleTime,
+  })
+
+  const cited = citationsForVerse(passages.data ?? [], verse)
+  const split = cited ? splitByVerse(cited, verse) : undefined
+  const catechism = split?.ccc ?? { here: [], elsewhere: [] }
+  const councils = split?.magisterium ?? { here: [], elsewhere: [] }
+  const found = {
+    catechism,
+    councils,
+    homilies: cited?.homilies ?? [],
+    lectures: entriesForVerse(lectures.data ?? [], verse),
+    articles: articles.data ?? [],
+    talks: talks.data ?? [],
+    readings: readingsForVerse(readings.data ?? [], verse),
+  }
+  const sections = (documents: typeof councils.here) =>
+    documents.reduce((n, document) => n + document.places.length, 0)
+  // What cites the verse itself is what is counted; where nothing does, what
+  // cites the passage around it is what the reader will be shown.
+  const counts: Record<ReferenceKind, number> = {
+    catechism: catechism.here.length || catechism.elsewhere.length,
+    summa: found.articles.length + found.lectures.length,
+    homilies: found.homilies.length,
+    councils: sections(councils.here) || sections(councils.elsewhere),
+    popes: found.talks.length,
+    mass: found.readings.length,
+  }
+  const state = (...queries: { isLoading: boolean; error: Error | null }[]) => ({
+    isLoading: queries.some((q) => q.isLoading),
+    error: queries.find((q) => q.error)?.error ?? undefined,
+  })
+  const status: Record<ReferenceKind, { isLoading: boolean; error?: Error }> = {
+    catechism: state(passages),
+    summa: state(articles, lectures),
+    homilies: state(passages),
+    councils: state(passages),
+    popes: state(talks),
+    mass: state(readings),
+  }
+  return { ...found, counts, status }
+}
+
+export type VerseReferences = ReturnType<typeof useVerseReferences>

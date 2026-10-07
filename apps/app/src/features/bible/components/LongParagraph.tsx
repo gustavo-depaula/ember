@@ -6,7 +6,7 @@ import type { StyledSegment } from '@/lib/typography/justifyText'
 // On Android the line model, over paragraphs as long as a Father's or a
 // pope's, now and then places a line the platform then wraps when it draws;
 // the lines below shift down and the paragraph's last one is never drawn
-// (seen on the verse's page, API 35). Until that is understood the platform
+// (seen in the verse's commentary, API 35). Until that is understood the platform
 // breaks these paragraphs there: justified less finely, but whole.
 const platformBreaks = Platform.OS === 'android'
 

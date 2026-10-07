@@ -39,7 +39,7 @@ Only links are kept: no sentence of any cited work is in the dataset.
 | *(treats the passage itself)* | 9,006 | The Catena (857 passages), Chrysostom on Matthew, John, Acts, Romans, Genesis; Augustine on John and the Psalms; Hilary on Matthew; St Thomas on John and Paul; Denzinger; the lectionary |
 | Direito, celebração, literatura, other | 13,672 | Canon law, the Missal and lectionary, a few literary authors |
 
-In the app, on the verse's own page in the Bible reader:
+In the app, in the half page that opens under a tapped verse in the Bible reader:
 
 - **The Fathers preaching on the passage**, for the works the corpus holds in English: 733 passages link to a homily of Chrysostom (on Matthew, John, Acts and fourteen of Paul's letters) or of Augustine (the Tractates on John, the Expositions of the Psalms, the homilies on 1 John, On the Sermon on the Mount). Each opens in the book reader.
 - **The Catechism's paragraphs**: 4,218 citations. From two editions reconciled (see below), not from Clerus's index. Under a paragraph, once open, the other verses it cites: the same index turned around (`content/bible/catechism.json`).
@@ -93,7 +93,7 @@ The Summa went the same way and further. The corpus's own English Summa prints i
 
 In the order I would build, each step a thing a reader can use:
 
-1. **Catechism on the verse page.** Done, from the Catechism's own footnotes. The paragraph text is read from vatican.va in the reader's language, which makes it the first commentary a Portuguese reader has in Portuguese. The footnotes cite verses, so this could be shown by verse and not by passage.
+1. **Catechism beside the verse.** Done, from the Catechism's own footnotes. The paragraph text is read from vatican.va in the reader's language, which makes it the first commentary a Portuguese reader has in Portuguese. The footnotes cite verses, so this could be shown by verse and not by passage.
 2. **"Read the homily."** Done for the twenty series the corpus holds. Still to do: the homilies Clerus lists that the corpus lacks in English (Chrysostom on Genesis, on the Psalms, on Galatians; Hilary on Matthew), and the passages a second homily also treats.
 3. **The Summa by article.** Done, by verse.
 4. **The magisterium in Portuguese.** Done for the documents, and for the homilies, audiences and addresses of John Paul II and Benedict XVI, by verse. Paul VI is in French on Clerus and is left out.

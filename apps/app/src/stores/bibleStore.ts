@@ -4,6 +4,7 @@ import { immer } from 'zustand/middleware/immer'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 import { defaultCommentarySource, findCommentarySource } from '@/features/bible/commentary'
 import { type BiblePlace, recordPlace } from '@/features/bible/recents'
+import { isReferenceKind } from '@/features/bible/references'
 import { type Book, getDrbBooks } from '@/lib/content'
 
 type BibleState = {
@@ -13,13 +14,13 @@ type BibleState = {
   updatedAt?: number
   /** The last few books read, each at its last chapter, most recent first. */
   places: BiblePlace[]
-  /** The commentator last read beside the text. */
-  commentarySource: string
+  /** What was last read beside the text: a commentator's id, or a kind of reference. */
+  paneKind: string
   hydrated: boolean
   setPosition: (bookId: string, chapter: number) => void
   /** Counts the open chapter as read: it becomes, or moves, a place. */
   recordReading: (books: Book[]) => void
-  setCommentarySource: (id: string) => void
+  setPaneKind: (id: string) => void
   hydrate: () => Promise<void>
 }
 
@@ -49,7 +50,7 @@ export const useBibleStore = create<BibleState>()(
     bookId: 'genesis',
     chapter: 1,
     places: [],
-    commentarySource: defaultCommentarySource,
+    paneKind: defaultCommentarySource,
     hydrated: false,
 
     setPosition: (bookId, chapter) => {
@@ -73,9 +74,9 @@ export const useBibleStore = create<BibleState>()(
       setPreference('bible-places', JSON.stringify(next))
     },
 
-    setCommentarySource: (id) => {
+    setPaneKind: (id) => {
       set((state) => {
-        state.commentarySource = id
+        state.paneKind = id
       })
       setPreference('bible-commentary', id)
     },
@@ -94,7 +95,11 @@ export const useBibleStore = create<BibleState>()(
         if (chapter) state.chapter = Number.parseInt(chapter, 10)
         if (updatedAt) state.updatedAt = Number(updatedAt)
         if (places) state.places = JSON.parse(places)
-        if (commentary) state.commentarySource = findCommentarySource(commentary).id
+        if (commentary) {
+          state.paneKind = isReferenceKind(commentary)
+            ? commentary
+            : findCommentarySource(commentary).id
+        }
         state.hydrated = true
       })
     },

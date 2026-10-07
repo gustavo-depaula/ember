@@ -5,6 +5,32 @@ import { fetchHearth } from '@/lib/hearth'
 // is an index by the verses a place cites, so a verse shows only what cites
 // it, not everything said of the passage around it.
 
+/** What the half page beside the text can show of a verse, besides its commentators. */
+export const referenceKinds = [
+  'catechism',
+  'summa',
+  'homilies',
+  'councils',
+  'popes',
+  'mass',
+] as const
+export type ReferenceKind = (typeof referenceKinds)[number]
+
+export function isReferenceKind(id: string): id is ReferenceKind {
+  return (referenceKinds as readonly string[]).includes(id)
+}
+
+// A book nothing cites (Abdias in the Summa) has no file in an index: that is
+// an empty index, where any other failure is one.
+async function fetchIndex<T>(path: string, empty: T): Promise<T> {
+  try {
+    return await fetchHearth<T>(path)
+  } catch (error) {
+    if (error instanceof Error && error.message.endsWith(': 404')) return empty
+    throw error
+  }
+}
+
 /** A reading of the Mass, by the verses of one chapter it reads. */
 export type MassReading = {
   from: number
@@ -17,7 +43,10 @@ export type MassReading = {
 }
 
 export async function getChapterReadings(bookId: string, chapter: number): Promise<MassReading[]> {
-  const book = await fetchHearth<Record<string, MassReading[]>>(`bible/lectionary/${bookId}.json`)
+  const book = await fetchIndex<Record<string, MassReading[]>>(
+    `bible/lectionary/${bookId}.json`,
+    {},
+  )
   return book[String(chapter)] ?? []
 }
 
@@ -52,7 +81,7 @@ export function readingsForVerse(readings: MassReading[], verse: number): MassRe
 type Cited<T> = { items: T[]; chapters: Record<string, [number, number, number][]> }
 
 async function citing<T>(path: string, chapter: number, verse: number): Promise<T[]> {
-  const book = await fetchHearth<Cited<T>>(path)
+  const book = await fetchIndex<Cited<T>>(path, { items: [], chapters: {} })
   const places = (book.chapters[String(chapter)] ?? [])
     .filter(([from, to]) => from <= verse && verse <= to)
     .map(([, , place]) => place)

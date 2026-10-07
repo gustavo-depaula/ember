@@ -11,7 +11,7 @@ export default function BibleTalkScreen() {
     title: string
     collection: string
   }>()
-  // Reached from a verse's page, which names the text; a link that does not has none to show.
+  // Reached from a verse in the reader, which names the text; a link that does not has none to show.
   if (!page || !anchor) return <Redirect href="/bible/reader" />
   return (
     <>
