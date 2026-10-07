@@ -1,0 +1,297 @@
+<meta charset="utf-8" />
+<title>Acrescentar à regra</title>
+<style>
+  @font-face { font-family: Cinzel; src: url(fonts/Cinzel_400Regular.ttf); }
+  @font-face { font-family: Garamond; src: url(fonts/EBGaramond_400Regular.ttf); }
+  @font-face { font-family: Garamond; font-style: italic; src: url(fonts/EBGaramond_400Regular_Italic.ttf); }
+  @font-face { font-family: Junicode; src: url(fonts/Junicode.ttf); }
+  @font-face { font-family: Junicode; font-style: italic; src: url(fonts/Junicode-Italic.ttf); }
+
+  /* Layout: a contact sheet. Three questions, each a row of phones to compare
+     side by side; the row scrolls sideways on a narrow screen. Single dark look
+     by choice: the mock is the app's Tenebrae theme. */
+  :root {
+    color-scheme: dark;
+    --desk: #1b1917; --bg: #0e0d0c; --surface: #252220;
+    --ink: #ede4d8; --muted: #a89a8c; --accent: #d4a63a; --accentSubtle: #6e5c32; --border: #5c5248;
+    --dawn: #e08a6e; --day: #e3b04b; --dusk: #b07fd0; --night: #6f95d8;
+    --blockInk: #f5efe2;
+    --display: Cinzel, 'Trajan Pro', Georgia, serif;
+    --title: Junicode, 'EB Garamond', Georgia, serif;
+    --body: Garamond, 'EB Garamond', Georgia, serif;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  [hidden] { display: none !important; }
+  body { background: var(--desk); color: var(--ink); font: 400 19px/27px var(--body); padding-block: 40px 80px; padding-inline: 24px; }
+  main { max-width: 1290px; margin-inline: auto; display: flex; flex-direction: column; gap: 64px; }
+  header h1 { font: italic 400 44px/50px var(--title); text-wrap: balance; }
+  header p, .q > p { color: var(--muted); max-width: 68ch; padding-top: 10px; }
+  .q > h2 { font: 400 15px/20px var(--display); letter-spacing: 1.5px; text-transform: uppercase; color: var(--accent); }
+  .q > h3 { font: italic 400 30px/36px var(--title); padding-top: 4px; text-wrap: balance; }
+  .strip { display: flex; gap: 40px; overflow-x: auto; padding-block: 24px 12px; align-items: flex-start; }
+  .col { flex: none; width: 390px; display: flex; flex-direction: column; gap: 6px; }
+  .col > h4 { min-height: 40px; font: 400 14px/20px var(--display); letter-spacing: 1.5px; text-transform: uppercase; }
+  .col > h4 b { color: var(--accent); font-weight: 400; }
+  .col > p { color: var(--muted); font-size: 16px; line-height: 22px; min-height: 110px; }
+  .pick { border-left: 0; }
+  .rec { font: 400 11px/16px var(--display); letter-spacing: 1.5px; color: var(--bg); background: var(--accent); padding: 1px 7px 0; border-radius: 3px; margin-left: 8px; vertical-align: 2px; }
+
+  .phone { width: 390px; height: 844px; border-radius: 44px; overflow: hidden; position: relative; background: var(--bg); box-shadow: 0 0 0 1px #000, 0 18px 40px #0008; }
+  /* The You page, dimmed behind the sheet. */
+  .behind { position: absolute; inset: 0; background: #060505; padding: 62px 24px 0; }
+  .behind .mast { font: italic 400 34px/40px var(--title); color: #4a443d; }
+  .sheet { position: absolute; left: 0; right: 0; top: 112px; bottom: 0; background: var(--bg); border-radius: 38px 38px 0 0; padding: 32px 24px 0; display: flex; flex-direction: column; gap: 12px; overflow: hidden; }
+  .sheet::before { content: ''; position: absolute; top: 6px; left: 50%; width: 36px; height: 5px; margin-left: -18px; border-radius: 3px; background: #6a6662; }
+  .sheet.short { top: auto; padding-bottom: 44px; gap: 0; }
+  .scrim { position: absolute; inset: 0; background: #000a; }
+  .stitle { font: italic 400 36px/42px var(--title); display: flex; justify-content: space-between; align-items: center; }
+  .huekey { display: flex; gap: 16px; font-size: 14px; line-height: 18px; color: var(--muted); padding-top: 6px; }
+  .huekey i { display: inline-block; width: 8px; height: 8px; border-radius: 4px; margin-right: 5px; }
+  .srow { display: flex; align-items: center; gap: 8px; height: 50px; }
+  .srow svg { flex: none; }
+  .srow .n { flex: 1; font-size: 19px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .srow .w { font-size: 14px; color: var(--muted); }
+  .label { font: 400 15px/20px var(--display); letter-spacing: 1.5px; text-transform: uppercase; }
+  .label em { color: var(--accent); font-style: normal; }
+  .cards { display: flex; gap: 16px; margin-right: -24px; overflow: hidden; }
+  .tcard { flex: none; width: 164px; }
+  .tcard img { width: 164px; height: 164px; border-radius: 12px; display: block; object-fit: cover; box-shadow: 0 5px 12px #0004; }
+  .tcard b { display: block; font: italic 400 24px/26px var(--title); padding-top: 12px; }
+  .tcard span { font-size: 14px; line-height: 18px; font-style: italic; color: var(--muted); }
+  .btn { font: 400 15px/20px var(--display); letter-spacing: 1.5px; text-transform: uppercase; text-align: center; padding: 15px; border-radius: 8px; background: var(--accent); color: var(--bg); }
+  .btn.outline { background: none; border: 1px solid var(--accentSubtle); color: var(--accent); }
+  .gold { color: var(--accent); }
+  .plus { flex: none; width: 34px; height: 34px; border-radius: 17px; border: 1.2px solid var(--accent); display: grid; place-items: center; }
+
+  /* The pushed screen. */
+  .screen { position: absolute; inset: 0; padding: 58px 24px 0; display: flex; flex-direction: column; gap: 14px; overflow-y: auto; scrollbar-width: none; padding-bottom: 90px; }
+  .screen > * { flex: none; }
+  .back { color: var(--accent); font-size: 26px; line-height: 26px; height: 26px; }
+  .ptitle { font: italic 400 36px/40px var(--title); }
+  .search { background: var(--surface); border-radius: 12px; padding: 11px 14px; color: var(--muted); font-size: 18px; line-height: 24px; display: flex; gap: 10px; align-items: center; }
+  .sec { display: flex; align-items: center; gap: 8px; padding: 12px 0 4px; border-bottom: 0.5px solid var(--accentSubtle); font: 400 13px/18px var(--display); letter-spacing: 2.5px; text-transform: uppercase; color: var(--muted); }
+  .sec i { width: 8px; height: 8px; border-radius: 4px; }
+  .prow { display: flex; align-items: center; gap: 14px; min-height: 58px; padding: 7px 0; }
+  .prow > svg { flex: none; }
+  .prow .t { flex: 1; min-width: 0; }
+  .prow .t b { display: block; font-weight: 400; font-size: 19px; line-height: 24px; }
+  .prow .t span { display: block; font-size: 14px; line-height: 18px; color: var(--muted); font-style: italic; }
+  .add { flex: none; width: 44px; height: 44px; display: grid; place-items: center; background: none; border: 0; padding: 0; cursor: pointer; border-radius: 22px; }
+  .add:focus-visible { outline: 2px solid var(--accent); }
+  .door { display: flex; justify-content: space-between; align-items: center; min-height: 48px; border-top: 0.5px solid var(--border); font-size: 19px; }
+  .door span { color: var(--muted); }
+  .tiles { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .tile { height: 136px; border-radius: 16px; overflow: hidden; position: relative; display: flex; align-items: flex-end; box-shadow: 0 4px 10px #0003; background-size: cover; background-position: center top; }
+  .tile b { position: relative; font: 400 22px/24px var(--title); color: var(--blockInk); padding: 14px; }
+  .tile small { display: block; font: italic 400 14px/18px var(--body); opacity: .8; }
+  .tile.art::before { content: ''; position: absolute; inset: 0; background: linear-gradient(#0000 35%, #000a); }
+  .tile .ghost { position: absolute; top: 8px; right: 8px; opacity: .16; }
+  .bar { position: absolute; left: 0; right: 0; bottom: 0; padding: 14px 24px 34px; background: linear-gradient(#0e0d0c00, var(--bg) 28%); display: flex; justify-content: space-between; align-items: center; font-size: 17px; color: var(--muted); }
+  .bar b { font: 400 14px/20px var(--display); letter-spacing: 1.5px; text-transform: uppercase; color: var(--accent); }
+  .trad { display: flex; align-items: center; gap: 6px; }
+  .trad i { flex: none; height: 3px; border-radius: 2px; background: var(--accentSubtle); }
+  .stamps { display: flex; justify-content: center; gap: 6px; }
+  .stamp { font: 400 13px/18px var(--display); letter-spacing: 1.5px; text-transform: uppercase; padding: 8px 14px; border-radius: 8px; color: var(--muted); }
+  .stamp.on { color: var(--bg); background: var(--accent); }
+  .stamp.day { width: 40px; padding: 10px 0; text-align: center; border: 0.5px solid var(--accentSubtle); }
+  .stamp.day.on { border-color: var(--accent); }
+  .hair { height: 0.5px; background: var(--border); margin: 16px 0; }
+  .time { text-align: center; font: 400 54px/60px var(--title); }
+  .whisper { text-align: center; font-size: 16px; font-style: italic; color: var(--muted); }
+  .note { border-top: 0.5px solid var(--border); padding-top: 20px; color: var(--muted); max-width: 68ch; }
+  .note b { color: var(--ink); font-weight: 400; }
+  .note ul { padding-left: 20px; display: flex; flex-direction: column; gap: 8px; padding-top: 8px; }
+  @media (max-width: 480px) { body { padding-inline: 16px; } .strip { gap: 24px; } .col, .phone { width: 340px; } .phone { zoom: 1; } }
+</style>
+
+<main>
+  <header>
+    <h1>Acrescentar à regra</h1>
+    <p>Three questions, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
+  </header>
+
+  <section class="q">
+    <h2>1 · O botão</h2>
+    <h3>Where the way in sits</h3>
+    <p>Today the sheet offers the string, then Traditions. Nothing in it says a single practice can be added, so the carousel reads as the only door.</p>
+    <div class="strip" id="q1"></div>
+  </section>
+
+  <section class="q">
+    <h2>2 · A página</h2>
+    <h3>What it opens</h3>
+    <p>A pushed screen, since the sheet closes before any navigation already. The old picker was removed on 29 Sep because its rows only opened the practice, where “add” lived a second tap away. In all three below, the row's trailing mark adds in place and the row itself opens the practice to read about it. The marks in A are live: tap them.</p>
+    <div class="strip" id="q2"></div>
+  </section>
+
+  <section class="q">
+    <h2>3 · O gesto</h2>
+    <h3>What a tap on the mark does</h3>
+    <p>Most practices carry no suggested hour (the Rosary, the Angelus, spiritual reading), and every time in the rule needs one. So the tap is either instant or one question.</p>
+    <div class="strip" id="q3"></div>
+  </section>
+
+  <section class="note">
+    <b>Left open</b>
+    <ul>
+      <li><b>Today's sheet.</b> It shares the title “Plano de Vida”. I'd give it the same quiet row at the foot of the checklist, and point its empty state (“Adicionar práticas →”, which now only lands on the You tab) straight at this page.</li>
+      <li><b>Novenas and programs.</b> 93 of the 503 practices run a course and live under “Em curso”, not on the string. Here they sit behind one door at the foot of the page instead of mixing into the lists.</li>
+      <li><b>A practice of one's own.</b> Custom practices went out with the old picker. None of these pages brings them back; say if a “something of yours” row belongs at the foot.</li>
+      <li><b>Search.</b> The field filters this page's practices only, or hands over to the Search tab's full index. I've drawn it as the first.</li>
+    </ul>
+  </section>
+</main>
+
+<script>
+  const hue = { dawn: 'var(--dawn)', day: 'var(--day)', dusk: 'var(--dusk)', night: 'var(--night)' }
+  const hueOf = (t) => { const h = parseInt(t); return h < 7 ? hue.dawn : h < 17 ? hue.day : h < 21 ? hue.dusk : hue.night }
+  const g = 'stroke="#d4a63a" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"'
+  const glyphs = {
+    sunrise: '<path d="M3 18h18M6 18a6 6 0 0 1 12 0M12 5v3M4.5 9.5l2 2M19.5 9.5l-2 2"/>',
+    prayer: '<path d="M12 20s-7-4.4-7-9.5A4 4 0 0 1 12 8a4 4 0 0 1 7 2.5C19 15.6 12 20 12 20z"/>',
+    bell: '<path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15zM10.5 20.5a1.6 1.6 0 0 0 3 0M12 3v2"/>',
+    moon: '<path d="M19 14.5A7.5 7.5 0 1 1 9.5 5a6 6 0 0 0 9.5 9.5z"/>',
+    book: '<path d="M12 7c-2-1.5-5-2-8-1.5v12c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5v-12C17 5 14 5.5 12 7zM12 7v12"/>',
+    cross: '<path d="M12 3v18M7 8.5h10"/>',
+    rosary: '<circle cx="12" cy="9" r="5.5" stroke-dasharray="1.2 2.6"/><path d="M12 14.5v6.5M10 18h4"/>',
+    eucharist: '<circle cx="12" cy="8" r="4.5"/><path d="M12 6v4M10 8h4M7 14h10c0 3-2 4-5 4s-5-1-5-4zM12 18v3M9 21h6"/>',
+    mercy: '<path d="M12 12s-4-2.5-4-5.3A2.3 2.3 0 0 1 12 5.5a2.3 2.3 0 0 1 4 1.2C16 9.5 12 12 12 12zM9 14l-3 7M12 15v6M15 14l3 7"/>',
+    flame: '<path d="M12 3c1 3.5 5 5.5 5 10a5 5 0 0 1-10 0c0-2 1-3 2-4 .5 1.5 1 2 2 2 0-3 0-5 1-8z"/>',
+  }
+  const icon = (n, s = 22, color) => `<svg width="${s}" height="${s}" viewBox="0 0 24 24" ${color ? g.replace('#d4a63a', color) : g}>${glyphs[n]}</svg>`
+  const plusBead = (s = 44) => `<svg width="${s}" height="${s}" viewBox="0 0 44 44"><circle cx="22" cy="22" r="11" fill="none" stroke="#d4a63a" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M18 22h8M22 18v8" stroke="#d4a63a" stroke-width="1.4" stroke-linecap="round"/></svg>`
+  const doneBead = (c) => `<svg width="44" height="44" viewBox="0 0 44 44"><circle cx="22" cy="22" r="8" fill="${c}"/></svg>`
+
+  // ── The rule sheet's upright string, as PlanSheet draws it ──
+  const rule = [
+    ['Oferecimento do Dia', '6h30', 9],
+    ['Oração Mental', '7h30', 9],
+    ['Santa Missa', 'dom 10h', 9, true],
+    ['Santo Rosário', '18h30', 9],
+    ['Exame de Consciência', '21h', 7],
+  ]
+  const rail = 52, rh = 50, bx = (i) => rail / 2 + 12 * Math.sin(i * 1.1)
+  const thread = (i, n) => `${i > 0 ? `M${(bx(i - 1) + bx(i)) / 2},0 L` : 'M'}${bx(i)},${rh / 2}${i < n - 1 ? ` L${(bx(i) + bx(i + 1)) / 2},${rh}` : ''}`
+  function string(withFoot) {
+    const n = rule.length + (withFoot ? 1 : 0)
+    const rows = rule.map(([name, when, r, hollow], i) => {
+      const c = hueOf(when.replace(/\D*/, ''))
+      return `<div class="srow"><svg width="${rail}" height="${rh}"><path d="${thread(i, n)}" stroke="${c}" stroke-opacity=".55" stroke-width="1.3" fill="none"/><circle cx="${bx(i)}" cy="${rh / 2}" r="${r}" ${hollow ? `fill="#0e0d0c" stroke="${c}" stroke-width="1.6"` : `fill="${c}"`}/></svg><span class="n">${name}</span><span class="w">${when}</span></div>`
+    })
+    if (withFoot) {
+      const i = rule.length, x = bx(i)
+      rows.push(`<div class="srow"><svg width="${rail}" height="${rh}"><path d="${thread(i, n)}" stroke="#d4a63a" stroke-opacity=".4" stroke-dasharray="3 4" fill="none"/><circle cx="${x}" cy="25" r="11" fill="#0e0d0c" stroke="#d4a63a" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M${x - 4},25h8M${x},21v8" stroke="#d4a63a" stroke-width="1.4" stroke-linecap="round"/></svg><span class="n gold">Acrescentar uma prática</span></div>`)
+    }
+    return `<div>${rows.join('')}</div>`
+  }
+  const huekey = `<div class="huekey"><span><i style="background:var(--dawn)"></i>aurora</span><span><i style="background:var(--day)"></i>dia</span><span><i style="background:var(--dusk)"></i>tarde</span><span><i style="background:var(--night)"></i>noite</span></div>`
+  const traditions = `<div class="label" style="padding-top:20px">Tradições <em>→</em></div><div class="cards">${[
+    ['tpl-benedictine', 'Oblato Beneditino', 'Ora et labora — reza e trabalha.'],
+    ['tpl-ignatian', 'Inaciana', 'Discernimento e o exame diário.'],
+    ['tpl-little-way', 'O Caminho da Infância', 'Confiança, pequenez.'],
+  ].map(([a, n, d]) => `<div class="tcard"><img src="art/${a}.jpg" alt="" /><b>${n}</b><span>${d}</span></div>`).join('')}</div>`
+  const ruleSheet = (head, body) => `<div class="phone"><div class="behind"><div class="mast">Você</div></div><div class="sheet"><div class="stitle"><span>Plano de Vida</span>${head}</div>${huekey}${body}</div></div>`
+  const col = (title, text, phone, rec) => `<div class="col"><h4>${title[1] === ' ' ? `<b>${title[0]}</b>${title.slice(1)}` : title}${rec ? '<span class="rec">sugiro</span>' : ''}</h4><p>${text}</p>${phone}</div>`
+
+  document.getElementById('q1').innerHTML = [
+    col('A · Uma conta aberta ao pé do cordão', 'The string ends in an empty bead with its name beside it. The rule itself shows where the next practice goes. With a long rule it falls below the fold.', ruleSheet('', string(true) + traditions), true),
+    col('B · Um botão entre o cordão e as tradições', 'The outlined button of the confirm sheets, full width. Louder than anything else in the sheet, and it separates “one practice” from “a whole tradition” cleanly.', ruleSheet('', string(false) + `<div class="btn outline" style="margin-top:8px">Acrescentar uma prática</div>` + traditions)),
+    col('C · Um “+” no cabeçalho', 'Always in view, however long the rule. But a bare plus beside a title says less than a labelled row, and it sits far from the thumb.', ruleSheet(`<span class="plus"><svg width="14" height="14" viewBox="0 0 14 14"><path d="M2 7h10M7 2v10" stroke="#d4a63a" stroke-width="1.5" stroke-linecap="round"/></svg></span>`, string(false) + traditions)),
+  ].join('')
+
+  // ── The page ──
+  // [id, icon, name, minutes, suggested hour, cadence, already in the rule]
+  const P = {
+    offering: ['sunrise', 'Oferecimento do Dia', 1, '7h', '', true],
+    mental: ['prayer', 'Oração Mental', 15, '7h30', '', true],
+    gospel: ['book', 'Evangelho do Dia', 5, '', ''],
+    mass: ['cross', 'Santa Missa', 60, '', 'aos domingos', true],
+    angelus: ['bell', 'Angelus', 3, '', ''],
+    visit: ['eucharist', 'Visita ao Santíssimo', 3, '13h30', ''],
+    three: ['mercy', 'Oração das Três da Tarde', 2, '15h', ''],
+    rosary: ['rosary', 'Santo Rosário', 20, '', '', true],
+    reading: ['book', 'Leitura Espiritual', 15, '', ''],
+    exam: ['prayer', 'Exame de Consciência', 5, '21h', '', true],
+    hailmarys: ['rosary', 'Três Ave-Marias', 2, '22h30', ''],
+    confession: ['cross', 'Confissão', 10, '', '1º sábado do mês'],
+    holyhour: ['eucharist', 'Hora Santa', 60, '', 'às quintas'],
+    office: ['prayer', 'Ofício Divino', 15, '', 'três horas'],
+  }
+  const meta = ([, , min, time, cad]) => [`${min} min`, time, cad].filter(Boolean).join(' · ')
+  function prow(id, c, sub) {
+    const p = P[id], inRule = p[5]
+    const mark = inRule ? `<span class="add">${doneBead(c)}</span>` : `<button class="add" data-c="${c}" aria-label="Acrescentar ${p[1]}">${plusBead()}</button>`
+    return `<div class="prow">${icon(p[0])}<div class="t"><b>${p[1]}</b><span>${sub ?? (inRule ? 'na regra' : meta(p))}</span></div>${mark}</div>`
+  }
+  const sec = (name, c) => `<div class="sec">${c ? `<i style="background:${c}"></i>` : ''}${name}</div>`
+  const screen = (body, bar = '') => `<div class="phone"><div class="screen"><div class="back">‹</div><div class="ptitle">Acrescentar à regra</div>${body}</div>${bar}</div>`
+  const search = `<div class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#a89a8c" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>Buscar uma oração</div>`
+  const doors = `<div style="padding-top:10px"><div class="door">Novenas e programas <span>93 ›</span></div><div class="door">Todas as orações <span>410 ›</span></div></div>`
+
+  const hoursList = `<div>` +
+    sec('Ao acordar', hue.dawn) + prow('offering', hue.dawn) + prow('mental', hue.dawn) +
+    sec('Durante o dia', hue.day) + prow('angelus', hue.day) + prow('visit', hue.day) + prow('three', hue.day) +
+    sec('À tarde', hue.dusk) + prow('rosary', hue.dusk) + prow('reading', hue.dusk) +
+    sec('À noite', hue.night) + prow('exam', hue.night) + prow('hailmarys', hue.night) +
+    sec('Na semana e no mês') + prow('confession', hue.day) + prow('holyhour', hue.day) + `</div>`
+  const byHours = search + hoursList + doors
+
+  const tile = (name, n, art, tone, ic) => `<div class="tile ${art ? 'art' : ''}" style="${art ? `background-image:url(art/${art}.jpg)` : `background:linear-gradient(${tone[0]},${tone[1]})`}">${ic ? `<span class="ghost">${icon(ic, 84, '#f5efe2')}</span>` : ''}<b>${name}<small>${n} práticas</small></b></div>`
+  const byFamily = search + `<div class="tiles">` +
+    tile('De cada dia', 12, '', ['#94741f', '#6a500f'], 'sunrise') +
+    tile('Oração mental', 9, 'mental-prayer') +
+    tile('Marianas', 21, 'marian') +
+    tile('Eucarísticas', 14, 'eucharistic') +
+    tile('Sagrado Coração', 8, 'sacred-heart') +
+    tile('Escritura e leitura', 6, '', ['#27573d', '#173826'], 'book') +
+    tile('Ladainhas', 17, 'litanies') +
+    tile('Novenas', 93, 'novenas') + `</div>`
+
+  const kept = (n) => `<span class="trad"><i style="width:${n * 3}px"></i>em ${n} de 16 tradições</span>`
+  const byTradition = search + `<div>` + sec('O que quase todos guardam') +
+    [['mass', 16], ['confession', 16], ['exam', 12], ['rosary', 8], ['reading', 8]].map(([id, n]) => prow(id, hueOf(P[id][3] || '12'), P[id][5] ? `na regra · ${n} de 16 tradições` : kept(n))).join('') +
+    sec('O que muitos acrescentam') +
+    [['offering', 4], ['mental', 4], ['office', 4], ['gospel', 4], ['angelus', 2], ['visit', 2]].map(([id, n]) => prow(id, hueOf(P[id][3] || '12'), P[id][5] ? `na regra · ${n} de 16 tradições` : kept(n))).join('') + `</div>`
+
+  document.getElementById('q2').innerHTML = [
+    col('A · Pelas horas do dia', 'One page, sorted the way the string is: by the hour a practice belongs to, in the string\'s own hues. What is already in the rule shows its bead, so the page reads as “your day, and what could join it”.', screen(byHours, `<div class="bar" id="bar" hidden><span id="count"></span><b>Ver a regra ›</b></div>`), true),
+    col('B · Pelas famílias', 'Search\'s jewel tiles, one per devotion. Prettier, and it holds far more than twelve practices, but adding is two screens away and the tiles say nothing about when in the day a practice falls.', screen(byFamily)),
+    col('C · Pelo que a tradição guarda', 'One flat list, most universal first, counted across the 16 traditions in the corpus. Answers “what should I add?” for a beginner without making them adopt a tradition whole.', screen(byTradition)),
+  ].join('')
+
+  // ── The gesture ──
+  const after = search + `<div>` +
+    sec('Durante o dia', hue.day) + prow('angelus', hue.day) +
+    `<div class="prow">${icon('eucharist')}<div class="t"><b>Visita ao Santíssimo</b><span>na regra · todo dia às 13h30</span></div><span class="add">${doneBead(hue.day)}</span></div>` +
+    prow('three', hue.day) +
+    sec('À tarde', hue.dusk) + prow('rosary', hue.dusk) + prow('reading', hue.dusk) +
+    sec('À noite', hue.night) + prow('exam', hue.night) + prow('hailmarys', hue.night) + `</div>`
+  const when = `<div class="phone"><div class="screen" style="opacity:.5"><div class="back">‹</div><div class="ptitle">Acrescentar à regra</div>${byHours}</div><div class="scrim"></div>
+    <div class="sheet short"><div class="label" style="color:var(--muted);font-size:13px">Acrescentar à regra</div><div class="stitle" style="padding-top:4px">Angelus</div>
+      <div class="hair"></div>
+      <div class="stamps" style="padding-bottom:16px"><span class="stamp on">Semana</span><span class="stamp">Mês</span><span class="stamp">Dias santos</span></div>
+      <div class="stamps" style="gap:4px">${'DSTQQSS'.split('').map((d) => `<span class="stamp day on">${d}</span>`).join('')}</div>
+      <div class="hair"></div>
+      <div class="time">12h00</div><div class="whisper">toque para mudar a hora</div>
+      <div class="btn" style="margin-top:24px">Acrescentar</div></div></div>`
+
+  document.getElementById('q3').innerHTML = [
+    col('Com hora sugerida · um toque', 'The Visit carries 13h30 in its manifest, so it joins at once: the open bead fills in its hour\'s hue and the caption says when. No sheet, no leaving the page; a quiet bar counts what was added and leads back to the rule.', screen(after, `<div class="bar"><span>1 prática acrescentada</span><b>Ver a regra ›</b></div>`)),
+    col('Sem hora · uma pergunta', 'The Angelus suggests none, so the existing “when” sheet asks for days and hour, opened at the section\'s hour instead of today\'s fixed 8h00. Confirming returns to the page with the bead filled.', when),
+  ].join('')
+
+  // Live marks on page A: an open bead fills, and the bar counts.
+  let added = 0
+  document.getElementById('q2').addEventListener('click', (e) => {
+    const b = e.target.closest('button.add')
+    if (!b) return
+    const on = b.dataset.on === '1'
+    b.dataset.on = on ? '' : '1'
+    b.innerHTML = on ? plusBead() : doneBead(b.dataset.c)
+    const cap = b.parentElement.querySelector('.t span')
+    if (!on) { b.dataset.cap = cap.textContent; cap.textContent = 'na regra' } else cap.textContent = b.dataset.cap
+    added += on ? -1 : 1
+    document.getElementById('bar').hidden = added === 0
+    document.getElementById('count').textContent = added === 1 ? '1 prática acrescentada' : `${added} práticas acrescentadas`
+  })
+</script>
