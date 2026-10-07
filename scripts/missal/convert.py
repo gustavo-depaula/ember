@@ -401,7 +401,15 @@ def convert_block(block, skeleton_langs):
                 ctx["partial"] = attrs.get("id", "").replace("parcial_", "")
         if attrs.get("id"):
             ctx["in"] = ctx.get("in", []) + [attrs["id"]]
-        alt = toggle_group(node)
+            # The Order of Mass marks where each proper part of the day goes;
+            # what the placeholder holds is the Order's own text for that part.
+            placeholder = re.fullmatch(r"x_ord_(\w+)", attrs["id"])
+            if placeholder and f"x_{placeholder.group(1)}" in partNames:
+                ctx["part"] = partNames[f"x_{placeholder.group(1)}"]
+                items.append({"mark": ctx["part"]})
+            elif re.fullmatch(r"x_(tmp|snt|com|otr|res|pf|pe)_\w+", attrs["id"]):
+                return
+        alt = toggle_group(node) or form_pair(attrs.get("id", ""))
         if alt:
             ctx["alt"] = alt
         if "lectionarium" in classes:
@@ -411,6 +419,8 @@ def convert_block(block, skeleton_langs):
         if link and "boton" in classes:
             if ctx.get("lectionarium") and "part" not in ctx:
                 doc["lectionary"] = link
+                # Where the readings stand in a rite that is read straight through.
+                items.append({"mark": "readings", "at": link.get("anchor", "")})
             else:
                 emit({"ref": link}, ctx)
             return
@@ -467,6 +477,18 @@ def convert_block(block, skeleton_langs):
     for child in block.get("children", []):
         walk(child, {})
     return doc
+
+
+formSuffixes = {"largo": "long", "larga": "long", "breve": "short", "otro": "or"}
+
+
+def form_pair(dom_id):
+    """`pregon_largo` / `pregon_breve`: the long and short forms of one text,
+    which upstream toggles by id rather than with its usual button."""
+    m = re.fullmatch(r"(.+)_(largo|larga|breve|otro)", dom_id)
+    if not m:
+        return None
+    return {"group": m.group(1), "id": dom_id, "label": formSuffixes[m.group(2)]}
 
 
 def split_languages(item):

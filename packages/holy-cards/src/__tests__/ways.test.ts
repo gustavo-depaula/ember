@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
-import type { OfCalendarStatics, SanctoralEntry, TemporalEntry } from '@ember/missal-schema'
+import type { MissalCalendar } from '@ember/missal'
 import { describe, expect, it } from 'vitest'
 import { grants } from '../engine'
 import type { Act, Catalog, EngineInput } from '../types'
@@ -9,10 +9,7 @@ import { waysToReceive } from '../ways'
 // The real calendar and the real cards, as in engine.test.ts.
 const root = fileURLToPath(new URL('../../../../', import.meta.url))
 const read = <T>(p: string): T => JSON.parse(readFileSync(`${root}${p}`, 'utf-8'))
-const statics: OfCalendarStatics = {
-  temporal: read<TemporalEntry[]>('content/of/calendar/temporal.json'),
-  sanctoral: read<SanctoralEntry[]>('content/of/calendar/sanctoral.json'),
-}
+const statics = read<MissalCalendar>('content/missal/calendar.json')
 const cardsDir = 'content/practices/saint-of-the-day/data/holy-cards'
 const cards = readdirSync(`${root}${cardsDir}`)
   .sort()

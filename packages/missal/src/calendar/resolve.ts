@@ -373,3 +373,15 @@ export function resolveOfDay(
     ...(day.anticipated ? { anticipated: day.anticipated } : {}),
   }
 }
+
+/** The ids of every saint's day on the calendar of `regions`, vigils aside. */
+export function sanctoralIds(
+  calendar: MissalCalendar,
+  regions: ResolveOptions['regions'],
+): Set<string> {
+  const ids = new Set<string>()
+  for (const entry of [...calendar.sanctoral, ...calendar.movable]) {
+    if (inRegions(entry, regions) && !isVigil(entry.id)) ids.add(entry.id)
+  }
+  return ids
+}

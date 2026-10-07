@@ -7,7 +7,7 @@ import { bareId } from '@/content/contentIndex'
 import { getManifest } from '@/content/resolver'
 import { useCompletionRange } from '@/features/plan-of-life/completion'
 import { useToday } from '@/hooks/useToday'
-import { loadOfCalendar } from '@/lib/mass-of/loaders'
+import { loadMissalCalendar } from '@/lib/missal/loaders'
 
 import { liturgicalActs } from './acts'
 import type { SaintEntry } from './data/catalog'
@@ -26,7 +26,7 @@ export function useWaysToReceive(saint: SaintEntry): Way[] | undefined {
   const holyCards = useHolyCardCatalog()
   const { data: statics } = useQuery({
     queryKey: ['of-calendar'],
-    queryFn: async () => (await loadOfCalendar()) ?? null,
+    queryFn: async () => (await loadMissalCalendar()) ?? null,
     staleTime: Number.POSITIVE_INFINITY,
   })
   const start = useMemo(() => historyStart(today), [today])

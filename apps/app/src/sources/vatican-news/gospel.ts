@@ -1,12 +1,13 @@
+import type { Lang as MissalLang } from '@ember/missal'
 import { Platform } from 'react-native'
 import type { Primitive, ProseBlock, TextPrimitive } from '@/content/primitives'
-import { emberLang, loadGospelOfDay } from '@/lib/mass-of/gospelOfDay'
+import { loadGospelOfDay } from '@/lib/missal/gospelOfDay'
 import type { SourceFetchContext } from '../types'
 import { fetchDay } from './fetchPage'
 import { paragraphText, parseSection } from './parse'
 import { type Lang, narrowLang } from './url'
 
-// Split mass-of plain gospel text into prose paragraph blocks (blank line →
+// Split the corpus's plain gospel text into prose paragraph blocks (blank line →
 // new paragraph; single newline → line break within a paragraph).
 function textToBlocks(text: string): ProseBlock[] {
   return text
@@ -31,10 +32,10 @@ function gospelPrimitives(citation: string | undefined, body: ProseBlock[]): Pri
   return out
 }
 
-// Offline / web fallback: the corpus-computed Gospel from the `mass-of`
-// DataSource (the same reading Explore's Gospel of the Day shows).
+// Offline / web fallback: the corpus-computed Gospel of the day's Mass
+// (the same reading Explore's Gospel of the Day shows).
 async function fallback(ctx: SourceFetchContext, lang: Lang): Promise<Primitive[] | TextPrimitive> {
-  const gospel = await loadGospelOfDay(ctx.date, emberLang(lang))
+  const gospel = await loadGospelOfDay(ctx.date, lang as MissalLang)
   if (!gospel) {
     const message =
       lang === 'pt-BR'

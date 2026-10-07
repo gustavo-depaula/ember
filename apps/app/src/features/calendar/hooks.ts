@@ -3,17 +3,17 @@ import {
   getCelebrationsForDate,
   type ResolvedCelebration,
 } from '@ember/liturgical'
-import { buildOfYearCalendar } from '@ember/mass'
+import { buildOfYearCalendar } from '@ember/missal'
 import { useQuery } from '@tanstack/react-query'
 import { addDays, differenceInCalendarDays, format } from 'date-fns'
 import { useMemo } from 'react'
 import { useToday } from '@/hooks/useToday'
-import { loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
+import { loadMissalCalendar, regionsForContentLang } from '@/lib/missal/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // The display calendar (home card + month grid) resolves from the same
-// authority the Novus Ordo Mass uses — @ember/mass's buildOfYearCalendar,
-// resolveOfDay over the MR statics — so card and Mass can never disagree.
+// authority the Novus Ordo Mass uses — @ember/missal's buildOfYearCalendar,
+// resolveOfDay over the missal's calendar — so card and Mass can never disagree.
 export function useYearCalendar(year?: number) {
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const today = useToday()
@@ -22,12 +22,12 @@ export function useYearCalendar(year?: number) {
   return useQuery({
     queryKey: ['calendar', resolvedYear, contentLanguage],
     queryFn: async () => {
-      const statics = await loadOfCalendar()
-      if (!statics) return new Map<string, DayCalendar>()
+      const calendar = await loadMissalCalendar()
+      if (!calendar) return new Map<string, DayCalendar>()
       return buildOfYearCalendar({
         year: resolvedYear,
-        statics,
-        scope: scopeForContentLang(contentLanguage),
+        calendar,
+        regions: regionsForContentLang(contentLanguage),
       })
     },
     staleTime: Number.POSITIVE_INFINITY,

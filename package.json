@@ -12,7 +12,7 @@
     "start:https": "caddy run --config Caddyfile.dev",
     "ios": "pnpm --filter @ember/app run ios",
     "android": "scripts/android.sh",
-    "build:missal": "pnpm --filter @ember/missal-build run cli",
+    "build:missal": "python3 scripts/missal/extract.py && node scripts/missal/sanctoral.mjs > research/missale-romanum/consult/sanctoral.json && python3 scripts/missal/build.py",
     "validate:do": "tsx scripts/validate-do.ts",
     "build:corpus": "python3 scripts/build-corpus.py _site/hearth/v2 && node scripts/copy-hearth-aux.mjs",
     "validate-flows": "tsx scripts/validate-flows.ts",

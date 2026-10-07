@@ -16,7 +16,7 @@ import { useEventStore } from '@/db/events'
 import { getPreference, recordHolyCardCopy, setPreference } from '@/db/repositories'
 import { useCompletionRange } from '@/features/plan-of-life/completion'
 import { getToday, useToday } from '@/hooks/useToday'
-import { loadOfCalendar } from '@/lib/mass-of/loaders'
+import { loadMissalCalendar } from '@/lib/missal/loaders'
 
 import { liturgicalActs, novenaActs } from './acts'
 import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
@@ -92,7 +92,7 @@ export function usePendingHolyCards(): Grant[] | undefined {
   const holyCards = useHolyCardCatalog()
   const { data: statics } = useQuery({
     queryKey: ['of-calendar'],
-    queryFn: async () => (await loadOfCalendar()) ?? null,
+    queryFn: async () => (await loadMissalCalendar()) ?? null,
     staleTime: Number.POSITIVE_INFINITY,
   })
   const { data: since } = useQuery({

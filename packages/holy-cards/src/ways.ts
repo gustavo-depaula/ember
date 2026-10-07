@@ -1,4 +1,4 @@
-import { everyRegion, ofCalendarRefs, ofDateCelebrations } from '@ember/mass'
+import { celebrationsOn, everyRegion, sanctoralIds } from '@ember/missal'
 import { addDays, eachDay, isSunday, toDate, yearOf } from './dates'
 import { celebrates } from './rules'
 import { feastDays, seasonsStartingIn } from './seasons'
@@ -42,8 +42,8 @@ function nextCelebration(
   today: IsoDate,
 ): IsoDate | undefined {
   const on = (date: IsoDate) =>
-    ofDateCelebrations(toDate(date), calendar.statics, { scope: everyRegion }).some((c) =>
-      celebrates(celebration, c.ref),
+    celebrationsOn(toDate(date), calendar.statics, { regions: everyRegion }).some((c) =>
+      celebrates(celebration, c.id),
     )
   // A fixed feast is almost always on its own day; try those before walking the year.
   if (day) {
@@ -129,7 +129,7 @@ export function waysToReceive(
     // As massRule and officeRule: Mass on whatever day the calendar puts the
     // celebration; the Office on the assigned day when the celebration isn't
     // in any region's sanctoral (which also never puts it on a date for Mass).
-    const sanctoral = ofCalendarRefs(calendar.statics.sanctoral, everyRegion)
+    const sanctoral = sanctoralIds(calendar.statics, everyRegion)
     const inSanctoral = !!saint.celebration && sanctoral.has(saint.celebration)
     const canBeOnCalendar =
       !!saint.celebration && (inSanctoral || !saint.celebration.startsWith('sanctorale.'))

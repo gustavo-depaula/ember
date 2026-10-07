@@ -4,7 +4,7 @@ import { cccCompendiumSource } from './ccc-compendium'
 import { doHourSource } from './divinum-officium/do-hour'
 import { doMassSource } from './divinum-officium/do-mass'
 import { breviarySource, officeOfReadingsReadingSource } from './ibreviary'
-import { ofMassFlowSource } from './of-mass-flow'
+import { missalMassSource } from './missal-mass'
 import { opusDeiGospelCommentarySource, opusDeiMeditationSource } from './opus-dei'
 import { psalmodySource } from './psalmody'
 import type { ContentSource } from './types'
@@ -30,7 +30,7 @@ registerSource(bibleChapterSource)
 registerSource(psalmodySource)
 registerSource(gospelOfTheDaySource as ContentSource)
 registerSource(wordOfThePopeSource as ContentSource)
-registerSource(ofMassFlowSource as ContentSource)
+registerSource(missalMassSource as ContentSource)
 registerSource(doMassSource as ContentSource)
 registerSource(doHourSource as ContentSource)
 registerSource(breviarySource as ContentSource)

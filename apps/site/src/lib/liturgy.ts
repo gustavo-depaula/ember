@@ -15,14 +15,21 @@ import {
   getLiturgicalSeason,
   type LiturgicalSeason,
 } from '@ember/liturgical'
-import { buildOfYearCalendar, type OfCelebration, resolveOfDay } from '@ember/mass'
-import type { MassFormulary } from '@ember/missal-schema'
+import {
+  assembleMass,
+  buildOfYearCalendar,
+  type Celebration,
+  descriptionOf,
+  type Lang,
+  type Part,
+  readingOf,
+  resolveOfDay,
+} from '@ember/missal'
 import { QueryClient } from '@tanstack/react-query'
 import type { Primitive } from '@/content/primitives'
 import { getAlternativeGroup } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
-import { loadMassFormulary, loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
-import { resolveReadingSet } from '@/lib/mass-of/readings'
+import { corpusMissal, loadMissalCalendar, regionsForContentLang } from '@/lib/missal/loaders'
 import { doHourSource } from '@/sources/divinum-officium/do-hour'
 import { createCorpusDoLoader } from '@/sources/divinum-officium/loader'
 import type { SourceFetchContext } from '@/sources/types'
@@ -70,65 +77,53 @@ async function ofYear(year: number, locale: Locale): Promise<Map<string, DayCale
   if (!pending) {
     pending = (async () => {
       await bootCorpus()
-      const statics = await loadOfCalendar()
-      if (!statics) throw new Error('OF calendar missing from the corpus')
-      return buildOfYearCalendar({ year, statics, scope: scopeForContentLang(locale) })
+      const calendar = await loadMissalCalendar()
+      if (!calendar) throw new Error('OF calendar missing from the corpus')
+      return buildOfYearCalendar({ year, calendar, regions: regionsForContentLang(locale) })
     })()
     ofYears.set(key, pending)
   }
   return pending
 }
 
-function rankKeyOf(c: OfCelebration): string {
+function rankKeyOf(c: Celebration): string {
   return c.rank.replace('-', '_')
 }
 
 export async function loadOfDay(date: Date, locale: Locale): Promise<OfDayView> {
   await bootCorpus()
   const t = translator(locale)
-  const statics = await loadOfCalendar()
-  if (!statics) throw new Error('OF calendar missing from the corpus')
-  const day = resolveOfDay(date, statics, { scope: scopeForContentLang(locale) })
+  const missal = await loadMissalCalendar()
+  if (!missal) throw new Error('OF calendar missing from the corpus')
+  const day = resolveOfDay(date, missal, { regions: regionsForContentLang(locale) })
   const calendar = await ofYear(date.getFullYear(), locale)
   return withLocale(locale, async () => {
     const dayName = getLiturgicalDayName(date, 'of', { t })
-    const formularies = new Map<string, MassFormulary | undefined>()
-    for (const ref of [...day.celebrations.map((c) => c.ref), day.temporalRef]) {
-      if (ref && !formularies.has(ref)) formularies.set(ref, await loadMassFormulary(ref))
-    }
-    const celebrations = day.celebrations.map((c): CelebrationView => {
-      const formulary = formularies.get(c.ref)
-      const rankKey = rankKeyOf(c)
-      return {
-        ref: c.ref,
-        title:
-          (c.title && localizeContent(c.title as Localized)) ||
-          (formulary?.title && localizeContent(formulary.title as Localized)) ||
-          dayName,
-        rank: t(`calendar.rank.${rankKey}`, { defaultValue: '' }),
-        rankKey,
-        color: formulary?.color,
-        commemoration: c.mode === 'commemoration',
-        about:
-          ofTexts && formulary?.description
-            ? localizeContent(formulary.description as Localized) || undefined
-            : undefined,
-      }
-    })
+    const lang = locale as Lang
     const principal = day.celebrations[0]
-    const formulary = principal && formularies.get(principal.ref)
-    const set =
-      formulary &&
-      resolveReadingSet({
-        formulary,
-        temporal: day.temporalRef ? formularies.get(day.temporalRef) : undefined,
-        cycle: day.cycle,
-        weekdayCycle: day.weekdayCycle,
-      })
-    const cite = (slot: ReadingCitation['slot'], option: { citation?: Localized } | undefined) => {
-      const citation =
-        option?.citation &&
-        (option.citation[locale] ?? option.citation['en-US'] ?? option.citation.la)
+    const plan = principal
+      ? await assembleMass(day, principal, principal.masses[0], corpusMissal)
+      : undefined
+    const celebrations = await Promise.all(
+      day.celebrations.map(async (c): Promise<CelebrationView> => {
+        const rankKey = rankKeyOf(c)
+        const formulary =
+          ofTexts && c.masses[0]?.formulary
+            ? await corpusMissal.formulary(c.masses[0].formulary)
+            : undefined
+        return {
+          ref: c.id,
+          title: (c.title && localizeContent(c.title as Localized)) || dayName,
+          rank: t(`calendar.rank.${rankKey}`, { defaultValue: '' }),
+          rankKey,
+          color: c.color,
+          commemoration: c.commemoration === true,
+          about: descriptionOf(formulary, lang) || undefined,
+        }
+      }),
+    )
+    const cite = (slot: ReadingCitation['slot'], part: Part) => {
+      const citation = readingOf(plan?.parts[part]?.[0]?.items ?? [], lang).citation
       return citation ? [{ slot, citation }] : []
     }
     const obligations = getDayObligations(date, 'of', locale === 'pt-BR' ? 'BR' : 'US', calendar)
@@ -141,10 +136,10 @@ export async function loadOfDay(date: Date, locale: Locale): Promise<OfDayView> 
       cycle: date.getDay() === 0 ? day.cycle : `${day.cycle} · ${day.weekdayCycle}`,
       celebrations,
       readings: [
-        ...cite('first', set?.firstReading?.options[0]),
-        ...cite('psalm', set?.psalm?.options[0]),
-        ...cite('second', set?.secondReading?.options[0]),
-        ...cite('gospel', set?.gospel?.options[0]),
+        ...cite('first', 'firstReading'),
+        ...cite('psalm', 'psalm'),
+        ...cite('second', 'secondReading'),
+        ...cite('gospel', 'gospel'),
       ],
       obligations,
       holyDay: obligations.holyDay,

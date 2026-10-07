@@ -21,7 +21,7 @@ import {
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason } from '@/lib/liturgical'
-import { useGospelOfTheDay } from '@/lib/mass-of/use-gospel-of-the-day'
+import { useGospelOfTheDay } from '@/lib/missal/use-gospel-of-the-day'
 import { ArtCarousel } from './ArtCarousel'
 import { artFor } from './artMap'
 import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'

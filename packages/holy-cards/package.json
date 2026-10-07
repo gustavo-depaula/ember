@@ -9,8 +9,7 @@
   },
   "dependencies": {
     "@ember/liturgical": "workspace:*",
-    "@ember/mass": "workspace:*",
-    "@ember/missal-schema": "workspace:*",
+    "@ember/missal": "workspace:*",
     "date-fns": "*"
   }
 }

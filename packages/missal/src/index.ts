@@ -10,6 +10,7 @@ export {
   type ResolveOptions,
   regionTransfers,
   resolveOfDay,
+  sanctoralIds,
   transfersFor,
 } from './calendar/resolve'
 export {

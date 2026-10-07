@@ -1,4 +1,4 @@
-import { everyRegion, ofCalendarRefs, ofDateCelebrations } from '@ember/mass'
+import { celebrationsOn, everyRegion, sanctoralIds } from '@ember/missal'
 import { addDays, ascending, eachDay, isSunday, toDate, yearOf } from './dates'
 import { feastDays, seasonsStartingIn } from './seasons'
 import type { Act, CardId, Catalog, EngineInput, Grant, IsoDate } from './types'
@@ -52,11 +52,9 @@ export function celebrates(celebration: string | undefined, ref: string): boolea
  */
 export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
   datesOf(acts, 'mass', since).flatMap((date): Grant[] => {
-    const celebrations = ofDateCelebrations(toDate(date), calendar.statics, {
-      scope: everyRegion,
-    })
+    const celebrations = celebrationsOn(toDate(date), calendar.statics, { regions: everyRegion })
     const saints = celebrations.flatMap((c) =>
-      catalog.saints.filter((s) => celebrates(s.celebration, c.ref)).map((s) => s.id),
+      catalog.saints.filter((s) => celebrates(s.celebration, c.id)).map((s) => s.id),
     )
     const base = { id: `mass:${date}`, door: 'mass' as const, date, deadline: nextDay(date) }
     if (saints.length > 0) return [{ ...base, choice: saints }]
@@ -71,7 +69,7 @@ export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
 export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
   const dates = datesOf(acts, 'office', since)
   if (dates.length === 0) return []
-  const onCalendar = ofCalendarRefs(calendar.statics.sanctoral, everyRegion)
+  const onCalendar = sanctoralIds(calendar.statics, everyRegion)
   const byDay = new Map<string, CardId[]>()
   for (const s of catalog.saints) {
     if (!s.day || (s.celebration && onCalendar.has(s.celebration))) continue

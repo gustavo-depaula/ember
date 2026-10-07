@@ -78,6 +78,12 @@ export interface Item {
   // Borrowed from this commons reading.
   from?: string
   ref?: string
+  // A position, not a passage: in the Order of Mass, where a proper part of
+  // the day goes; in a formulary, where its readings stand.
+  mark?: Part | 'readings'
+  // For a `readings` mark: the id, within the lectionary entry, of the
+  // reading that stands here (the Easter Vigil places each of its nine).
+  at?: string
   text?: Partial<Record<TextKey, Block[]>>
 }
 

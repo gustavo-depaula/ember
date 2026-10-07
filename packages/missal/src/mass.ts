@@ -40,6 +40,7 @@ export interface MassPlan {
   celebration: Celebration
   mass: TemporalMass
   formulary?: Formulary
+  lectionary?: Lectionary
   gloria: boolean
   creed: boolean
   // Each part's sources, the default first.
@@ -278,6 +279,7 @@ export async function assembleMass(
     celebration,
     mass,
     formulary,
+    lectionary,
     gloria: saysGloria(day, celebration),
     creed: saysCreed(day, celebration),
     parts,

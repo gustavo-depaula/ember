@@ -1,7 +1,6 @@
 import { addDays } from 'date-fns'
 
 import type { LiturgicalAnchor } from './calendar-types'
-import { computeHolyFamily } from './of-tempore'
 import {
   computeEaster,
   getAshWednesday,
@@ -50,4 +49,14 @@ export function computeAnchors(year: number): Record<LiturgicalAnchor, Date> {
     epiphany: new Date(year, 0, 6),
     baptism_of_the_lord: getBaptismOfTheLord(year),
   }
+}
+
+// The Sunday within the octave of Christmas, or 30 December when Christmas
+// itself is the Sunday.
+function computeHolyFamily(year: number): Date {
+  for (let day = 26; day <= 31; day++) {
+    const candidate = new Date(year, 11, day)
+    if (candidate.getDay() === 0) return candidate
+  }
+  return new Date(year, 11, 30)
 }

@@ -46,3 +46,53 @@ export function forDay(blocks: Block[], active: ReadonlySet<string>): Block[] {
     }))
     .filter((block) => block.lines.length > 0 || block.k === 'hr')
 }
+
+// Upstream's paragraph classes around a reading: its title, the one-line
+// summary, the announcement ("A reading from…") and the closing acclamation.
+const readingFurniture = new Set([
+  'ReadingGospelTitle',
+  'Summary',
+  'Areadingfrom',
+  'TheWordoftheLord',
+])
+
+/** A reading's own words and its citation, without the furniture around it. */
+export function readingOf(items: Item[], lang: Lang): { text: string; citation?: string } {
+  const lines: string[] = []
+  let citation: string | undefined
+  for (const item of items) {
+    if (item.role === 'people' || item.role === 'rubric') continue
+    for (const block of blocksIn(item, lang) ?? []) {
+      if (block.cls === 'Areadingfrom' || block.cls === 'ReadingGospelTitle')
+        citation ??= block.cite
+      if (block.k !== 'p' || (block.cls && readingFurniture.has(block.cls))) continue
+      lines.push(...block.lines.map(lineText).filter(Boolean))
+    }
+  }
+  return { text: lines.join('\n').trim(), ...(citation ? { citation } : {}) }
+}
+
+/** The lines of a prayer part (a collect, an antiphon), without its heading. */
+export function prayerLines(items: Item[], lang: Lang): string[] {
+  return items.flatMap((item) =>
+    (blocksIn(item, lang) ?? [])
+      .filter((block) => block.k === 'p')
+      .flatMap((block) => block.lines.map(lineText).filter(Boolean)),
+  )
+}
+
+/** What a saint's formulary prints under its title: the biographical note. */
+export function descriptionOf(doc: { items: Item[] } | undefined, lang: Lang): string {
+  const notes = (doc?.items ?? [])
+    .filter((item) => item.part === 'title')
+    .flatMap((item) => blocksIn(item, lang) ?? [])
+    .filter(
+      (block) =>
+        block.k === 'p' &&
+        // Not the "from the Common of…" line, nor a bracketed rubric.
+        !block.lines.some((line) =>
+          line.some((seg) => typeof seg !== 'string' && (seg.m === 'link' || seg.m === 'rubric')),
+        ),
+    )
+  return plain(notes)
+}

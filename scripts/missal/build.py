@@ -148,7 +148,8 @@ def sanctoral_regions(rows, blocks):
             regions = None
         else:
             regions = sorted({r for lang in seen["langs"] for r in regionByLang[lang]})
-        if file in ids.sanctoralRegionFiles and not regions:
+        if file in ids.sanctoralRegionFiles and not (prefix and prefix.group(1) in regionPrefixes):
+            # A regional file names the region better than the display language does.
             regions = [ids.sanctoralRegionFiles[file]]
         own_date = re.fullmatch(r"(\d\d)(\d\d)[A-Z]?", anchor)
         stray = own_date and (month, day) != (int(own_date.group(1)), int(own_date.group(2)))
@@ -249,6 +250,20 @@ def resolve_refs(doc, readings):
             copied.pop("partial", None)
             items.append(copied)
     doc["items"] = items
+
+
+def attach_responses(doc):
+    """The people's reply after a reading sits beside it in the skeleton, not
+    inside it; give it the reading's part so the two travel together."""
+    previous = None
+    for item in doc["items"]:
+        if item.get("role") == "people" and "part" not in item and previous:
+            if previous.get("part") and previous.get("cycle") == item.get("cycle"):
+                item["part"] = previous["part"]
+                for key in ("alt",):
+                    if key in previous and key not in item:
+                        item[key] = previous[key]
+        previous = item
 
 
 def retag_sequence(doc):
@@ -406,6 +421,7 @@ def main():
 
     for (kind, doc_id), doc in docs.items():
         if kind == "lectionary":
+            attach_responses(doc)
             resolve_refs(doc, readings)
             if doc_id in patches.sequences:
                 retag_sequence(doc)
@@ -428,6 +444,8 @@ def main():
                 doc["rankLabel"] = label
         elif kind in ("lectionary", "preface"):
             doc["title"] = title_of(doc, None, True)
+        else:
+            doc["title"] = title_of(doc, None, False)
         patches.apply(kind, doc)
 
     for doc_id in patches.sequences:

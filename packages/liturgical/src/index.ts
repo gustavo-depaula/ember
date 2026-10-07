@@ -32,7 +32,6 @@ export type {
   ResolvedCelebration,
 } from './calendar-types'
 export { type AbstinenceLevel, type DayObligations, getDayObligations } from './obligations'
-export { ofTemporeIds } from './of-tempore'
 export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from './psalter'
 export { rankColors } from './rank-colors'
 export { computeAnchors } from './resolve-date'

@@ -963,53 +963,44 @@ def build_books(b: Builder) -> None:
 
 
 
-def build_of(b: Builder) -> None:
-    """New OF Mass corpus (content/of/): rebuilt missal in the @ember/missal-schema
-    shape. Each item is a single multilingual blob (formularies are small and
-    fetched per-day; the app selects its language client-side).
+def build_missal(b: Builder) -> None:
+    """The Ordinary Form missal (content/missal/, written by scripts/missal/build.py).
+
+    Every item is one multilingual blob; the app picks its languages
+    client-side.
 
     Catalog kinds:
-      mass-formulary/<id>   one formulary (propers, readings, prefaces, parts)
-      order-of-mass         the Order of Mass bundle (EPs, blessings, frame)
-      of-calendar/<name>    temporal + sanctoral statics (fetched once, cached)
+      mass-formulary/<id>          the proper prayers of one celebration
+      mass-lectionary/<id>         its readings
+      mass-eucharistic-prayer/<id>
+      mass-order/<id>              the Order of Mass, blessings, universal prayer
+      mass-extra/<id>              the General Instruction, devotionary, indices
+      mass-prefaces                every preface
+      mass-calendar                the sanctoral table and the formulary index
     """
-    src = CONTENT / "of"
+    src = CONTENT / "missal"
     if not src.is_dir():
         return
 
-    fdir = src / "formularies"
-    if fdir.is_dir():
-        for f in sorted(fdir.rglob("*.json")):
+    folders = {
+        "formularies": "mass-formulary",
+        "lectionary": "mass-lectionary",
+        "eucharistic-prayers": "mass-eucharistic-prayer",
+        "order": "mass-order",
+        "extras": "mass-extra",
+    }
+    for folder, kind in folders.items():
+        for f in sorted((src / folder).glob("*.json")):
             with f.open(encoding="utf-8") as fh:
                 data = json.load(fh)
-            fid = data.get("id")
-            if not fid:
-                continue
-            item_id = f"mass-formulary/{fid}"
             h, size = b.write_json_blob(data)
-            entry = {"kind": "mass-formulary", "hash": h, "size": size}
-            for k in ("kind", "scope", "structure", "season", "color", "rank"):
-                v = data.get(k)
-                if isinstance(v, str):
-                    # `kind` collides with the catalog key name; expose as massKind.
-                    entry["massKind" if k == "kind" else k] = v
-            b.add_catalog(item_id, entry)
+            b.add_catalog(f"{kind}/{data['id']}", {"kind": kind, "hash": h, "size": size})
 
-    order_path = src / "order" / "order-of-mass.json"
-    if order_path.is_file():
-        with order_path.open(encoding="utf-8") as fh:
+    for name, item_id in (("prefaces", "mass-prefaces"), ("calendar", "mass-calendar")):
+        with (src / f"{name}.json").open(encoding="utf-8") as fh:
             data = json.load(fh)
         h, size = b.write_json_blob(data)
-        b.add_catalog("order-of-mass", {"kind": "order-of-mass", "hash": h, "size": size})
-
-    cal_dir = src / "calendar"
-    if cal_dir.is_dir():
-        for f in sorted(cal_dir.glob("*.json")):
-            name = f.stem  # temporal | sanctoral
-            with f.open(encoding="utf-8") as fh:
-                data = json.load(fh)
-            h, size = b.write_json_blob(data)
-            b.add_catalog(f"of-calendar/{name}", {"kind": "of-calendar", "hash": h, "size": size})
+        b.add_catalog(item_id, {"kind": item_id, "hash": h, "size": size})
 
 
 # Divinum Officium datasets.
@@ -1380,7 +1371,7 @@ def main(argv: list[str]) -> int:
     print("[corpus] books...")
     build_books(b)
     print("[corpus] of (rebuilt missal corpus)...")
-    build_of(b)
+    build_missal(b)
     print("[corpus] divinum-officium...")
     build_do(b)
     print("[corpus] collections...")

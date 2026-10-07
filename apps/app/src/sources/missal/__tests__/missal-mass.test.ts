@@ -1,0 +1,233 @@
+import { existsSync, readFileSync } from 'node:fs'
+import { resolve } from 'node:path'
+import { describe, expect, it, vi } from 'vitest'
+import type { Primitive } from '@/content/primitives'
+import type { SourceFetchContext } from '../../types'
+
+// The Mass source over the real missal in `content/missal/`, with the corpus
+// loaders reading the same files the corpus build ships.
+const root = resolve(__dirname, '../../../../../../content/missal')
+const read = (path: string) => {
+  const file = resolve(root, path)
+  return existsSync(file) ? JSON.parse(readFileSync(file, 'utf8')) : undefined
+}
+
+vi.mock('@/content/contentIndex', () => ({ getCatalog: () => ({ generated: 'test' }) }))
+vi.mock('@/lib/missal/loaders', () => ({
+  loadMissalCalendar: async () => read('calendar.json'),
+  loadMassOrder: async (id: string) => read(`order/${id}.json`),
+  loadEucharisticPrayer: async (id: string) => read(`eucharistic-prayers/${id}.json`),
+  regionsForContentLang: (lang: string) => (lang === 'pt-BR' ? ['brazil'] : []),
+  corpusMissal: {
+    formulary: async (id: string) => read(`formularies/${id}.json`),
+    lectionary: async (id: string) => read(`lectionary/${id}.json`),
+    prefaces: async () => read('prefaces.json'),
+  },
+}))
+
+const { missalMassSource } = await import('../../missal-mass')
+
+async function massOn(iso: string, lang = 'pt-BR'): Promise<Primitive[]> {
+  const [y, m, d] = iso.split('-').map(Number)
+  const ctx = { date: new Date(y, m - 1, d, 12), prefs: { lang, translation: '' }, params: {} }
+  return missalMassSource.fetch(ctx as unknown as SourceFetchContext)
+}
+
+type Select = Extract<Extract<Primitive, { type: 'container' }>['behavior'], { kind: 'select' }>
+
+// What the page shows before anyone taps: each selector's default branch.
+function shown(primitives: Primitive[], secondary = false): string {
+  const out: string[] = []
+  const side = (text: { primary: string; secondary?: string }) =>
+    secondary ? (text.secondary ?? '') : text.primary
+  const walk = (list: Primitive[]) => {
+    for (const p of list) {
+      if (p.type === 'text' || p.type === 'rubric' || p.type === 'heading') out.push(side(p.text))
+      else if (p.type === 'verses') out.push(...p.items.map((i) => side(i.text)))
+      else if (p.type === 'callout' && p.title) out.push(side(p.title))
+      else if (p.type === 'container') {
+        const b = p.behavior
+        if (b.kind === 'select') {
+          walk((b.options.find((o) => o.id === b.selectedId) ?? b.options[0]).children)
+        } else walk(p.children ?? [])
+      }
+    }
+  }
+  walk(primitives)
+  return out.join('\n')
+}
+
+function selects(primitives: Primitive[], into: Select[] = []): Select[] {
+  for (const p of primitives) {
+    if (p.type !== 'container') continue
+    if (p.behavior.kind === 'select') {
+      into.push(p.behavior)
+      for (const option of p.behavior.options) selects(option.children, into)
+    } else selects(p.children ?? [], into)
+  }
+  return into
+}
+
+const selectOf = (primitives: Primitive[], key: string) =>
+  selects(primitives).find((s) => s.overrideKey === key)
+
+describe('an ordinary weekday', () => {
+  it('is the whole Order of Mass with the day woven in', async () => {
+    const mass = await massOn('2026-10-07')
+    const text = shown(mass)
+    // Our Lady of the Rosary, an obligatory memorial.
+    expect(text).toContain('Virgem Maria do Rosário')
+    for (const fixed of [
+      'Em nome do Pai',
+      'Senhor, tende piedade',
+      'Santo, Santo, Santo',
+      'Pai nosso',
+      'Cordeiro de Deus',
+    ]) {
+      expect(text).toContain(fixed)
+    }
+    // A memorial has neither Gloria nor Creed.
+    expect(text).not.toContain('Glória a Deus nas alturas')
+    expect(text).not.toContain('Creio em um só Deus')
+  })
+
+  it('reads the weekday by default on a memorial and offers the proper readings', async () => {
+    const mass = await massOn('2026-10-07')
+    const gospel = selectOf(mass, 'missal.gospel')
+    expect(gospel?.options.map((o) => o.id)).toEqual([
+      'tempore.ordinary-time.week-27.wednesday',
+      'sanctorale.10-07',
+    ])
+    expect(gospel?.options.map((o) => o.label.primary)).toEqual(['Do dia', 'Próprio'])
+  })
+
+  it('pairs Latin with the vernacular', async () => {
+    const mass = await massOn('2026-10-07')
+    expect(shown(mass, true)).toContain('Pater noster')
+  })
+
+  it('offers the three forms of the Penitential Act and the Eucharistic Prayers', async () => {
+    const mass = await massOn('2026-10-07')
+    expect(selectOf(mass, 'missal.penitential-act')?.options).toHaveLength(3)
+    const prayers = selectOf(mass, 'missal.eucharistic-prayer')
+    expect(prayers?.options).toHaveLength(10)
+    // The second prayer on a weekday.
+    expect(prayers?.selectedId).toBe('eucharistic-prayer.2')
+  })
+
+  it('offers optional memorials and the weekday as Masses of the day', async () => {
+    const mass = await massOn('2026-10-06')
+    const options = selectOf(mass, 'missal.mass')?.options.map((o) => o.id)
+    expect(options).toContain('sanctorale.10-06#day')
+    expect(options).toContain('tempore.ordinary-time.week-27.tuesday#day')
+  })
+})
+
+describe('Sundays and solemnities', () => {
+  it('says the Gloria and the Creed on a Sunday of Ordinary Time', async () => {
+    const text = shown(await massOn('2026-10-04'))
+    expect(text).toContain('Glória a Deus nas alturas')
+    expect(text).toContain('Creio em um só Deus')
+  })
+
+  it('omits the Gloria in Lent and keeps the Creed', async () => {
+    const text = shown(await massOn('2026-03-01'))
+    expect(text).not.toContain('Glória a Deus nas alturas')
+    expect(text).toContain('Creio em um só Deus')
+  })
+
+  it('offers the four Masses of Christmas', async () => {
+    const mass = await massOn('2026-12-25')
+    expect(selectOf(mass, 'missal.mass')?.options.map((o) => o.label.primary)).toEqual([
+      expect.stringContaining('Dia'),
+      expect.stringContaining('Vigília'),
+      expect.stringContaining('Noite'),
+      expect.stringContaining('Aurora'),
+    ])
+  })
+
+  it('keeps Our Lady of Aparecida as the Mass of 12 October in Brazil', async () => {
+    expect(shown(await massOn('2026-10-12'))).toContain('Nossa Senhora da Conceição Aparecida')
+    expect(shown(await massOn('2026-10-12', 'en-US'))).not.toContain('Aparecida')
+  })
+})
+
+describe('sequences', () => {
+  it('sets the Stabat Mater before the Gospel acclamation on 15 September, as optional', async () => {
+    const mass = await massOn('2026-09-15')
+    const all = JSON.stringify(mass)
+    expect(all).toContain('Sequência (facultativa)')
+    const text = shown(mass.flatMap((p) => p))
+    // The memorial reads the weekday by default; its own readings carry the sequence.
+    const gospel = selectOf(mass, 'missal.gospel')
+    expect(gospel?.options.map((o) => o.id)).toContain(
+      'sanctorale.09-15#' +
+        gospel?.options.find((o) => o.id.startsWith('sanctorale.09-15'))?.id.split('#')[1],
+    )
+    expect(text.length).toBeGreaterThan(2000)
+  })
+
+  it('sets Veni, Sancte Spiritus at Pentecost, in Latin beside the vernacular', async () => {
+    const mass = await massOn('2026-05-24')
+    expect(shown(mass, true)).toContain('Veni, Sancte Spíritus')
+    expect(JSON.stringify(mass)).not.toContain('Sequência (facultativa)')
+  })
+
+  it('sets Victimae paschali on Easter Sunday', async () => {
+    expect(shown(await massOn('2026-04-05'), true)).toMatch(/V[íi]ctim[æa]e? pasch[áa]li/)
+  })
+})
+
+describe('Holy Week and the Triduum', () => {
+  it('opens Palm Sunday with the procession instead of the Penitential Act', async () => {
+    const mass = await massOn('2026-03-29')
+    expect(shown(mass, true)).toContain('Glória, laus')
+    expect(selectOf(mass, 'missal.penitential-act')).toBeUndefined()
+    expect(shown(mass)).toContain('Santo, Santo, Santo')
+  })
+
+  it("offers the Chrism Mass and the Mass of the Lord's Supper on Holy Thursday", async () => {
+    const mass = await massOn('2026-04-02')
+    expect(selectOf(mass, 'missal.mass')?.options.map((o) => o.id)).toEqual([
+      'tempore.holy-week.lords-supper#evening',
+      'tempore.holy-week.chrism-mass#chrism',
+    ])
+    expect(shown(mass, true)).toContain('Ubi cáritas')
+  })
+
+  it('reads Good Friday straight through: the Passion, the intercessions, the Cross', async () => {
+    const mass = await massOn('2026-04-03')
+    const latin = shown(mass, true)
+    expect(latin).toMatch(/P[áa]ssio D[óo]mini nostri/)
+    expect(latin).toContain('Ecce lignum Crucis')
+    expect(latin).toContain('Pópule meus')
+    // Not a Mass: no Eucharistic Prayer.
+    expect(selectOf(mass, 'missal.eucharistic-prayer')).toBeUndefined()
+  })
+
+  it('gives the Easter Vigil its own rite, then the Liturgy of the Eucharist', async () => {
+    const mass = await massOn('2026-04-04')
+    const latin = shown(mass, true)
+    expect(latin).toContain('Exsúltet iam')
+    expect(latin).toContain('Sancta María, Mater Dei')
+    expect(selectOf(mass, 'missal.eucharistic-prayer')).toBeDefined()
+  })
+})
+
+describe('every day of a year', () => {
+  for (const lang of ['pt-BR', 'en-US', 'la']) {
+    it(`builds a Mass in ${lang}`, async () => {
+      const thin: string[] = []
+      for (
+        let date = new Date(2026, 0, 1, 12);
+        date.getFullYear() === 2026;
+        date.setDate(date.getDate() + 1)
+      ) {
+        const iso = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`
+        const text = shown(await massOn(iso, lang))
+        if (text.length < 4000) thin.push(`${iso} ${text.length}`)
+      }
+      expect(thin).toEqual([])
+    })
+  }
+})

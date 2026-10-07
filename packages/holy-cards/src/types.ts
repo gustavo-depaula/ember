@@ -1,4 +1,4 @@
-import type { OfCalendarStatics } from '@ember/missal-schema'
+import type { MissalCalendar } from '@ember/missal'
 
 /** A civil date in the user's time zone, `YYYY-MM-DD`. Days end at local midnight. */
 export type IsoDate = string
@@ -31,7 +31,7 @@ export type Occurrence = { practice: string; date: IsoDate; kept: boolean }
  * The OF calendar the cards follow: every region's at once, so Mass on a
  * Brazilian saint's day gives that card in the United States too.
  */
-export type Calendar = { statics: OfCalendarStatics }
+export type Calendar = { statics: MissalCalendar }
 
 /**
  * The cards that exist (have art). A card missing here is never given: a door
