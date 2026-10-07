@@ -388,7 +388,9 @@ export function massLabel(
 
 function banner(plan: MassPlan, lang: LangPrefs): Primitive[] {
   const title = titleText(massTitle(plan, plan.celebration, plan.mass), lang, plan.celebration.id)
-  const rank = localize(plan.formulary?.subtitle, lang.primary)
+  // In the reader's language or in Latin, never in a third one.
+  const subtitle = plan.formulary?.subtitle ?? {}
+  const rank = subtitle[lang.primary] ?? subtitle['*'] ?? subtitle.la
   const out: Primitive[] = [
     {
       type: 'callout',

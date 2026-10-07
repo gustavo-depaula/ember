@@ -193,6 +193,8 @@ describe('Sundays and solemnities', () => {
     // The calendar follows the region, not the language.
     expect(shown(await massOn('2026-10-12', 'en-US', 'BR'))).toContain('Aparecida')
     expect(shown(await massOn('2026-10-12', 'pt-BR', null))).not.toContain('Aparecida')
+    // Its texts exist in Portuguese only, so nothing stands in the Latin column.
+    expect(shown(await massOn('2026-10-12', 'en-US', 'BR'), true)).not.toContain('pescadores')
   })
 })
 
@@ -235,7 +237,7 @@ describe('Holy Week and the Triduum', () => {
       'tempore.holy-week.lords-supper#evening',
       'tempore.holy-week.chrism-mass#chrism',
     ])
-    expect(shown(mass, true)).toContain('Ubi cáritas')
+    expect(shown(mass)).toContain('Ubi cáritas')
   })
 
   it('reads Good Friday straight through: the Passion, the intercessions, the Cross', async () => {

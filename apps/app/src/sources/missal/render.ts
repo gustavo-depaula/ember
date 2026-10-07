@@ -174,9 +174,13 @@ export function renderItem(item: Item, ctx: RenderContext, out: Primitive[] = []
   const primary = splitAcclamations(
     forDay(blocksIn(item, ctx.lang.primary) ?? fallbackBlocks(item), ctx.conditions),
   )
-  const secondary = ctx.lang.secondary
-    ? splitAcclamations(forDay(blocksIn(item, ctx.lang.secondary) ?? [], ctx.conditions))
-    : []
+  // A text that exists in one language only is already the first column, and
+  // would otherwise stand beside itself.
+  const single = !item.text?.[ctx.lang.primary]
+  const secondary =
+    ctx.lang.secondary && !(single && !item.text?.[ctx.lang.secondary])
+      ? splitAcclamations(forDay(blocksIn(item, ctx.lang.secondary) ?? [], ctx.conditions))
+      : []
   const paired = secondary.length === primary.length
   // Where the two languages are not set in the same number of paragraphs, the
   // whole of the second rides beside the first paragraph of the first.
