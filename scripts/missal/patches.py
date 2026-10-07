@@ -37,6 +37,11 @@ movable = [
 # a solemnity in Brazil (its own heading says so) but is numbered as a feast.
 precedence = {
     "sanctorale.10-12.brazil": 4,
+    # Obligatory memorials. Upstream numbers them 7.5 so that they win over a
+    # saint's memorial on the same day; the calendar gives a movable memorial
+    # that precedence itself (decree of 11 February 2018).
+    "sanctorale.mary-mother-of-the-church": 10,
+    "sanctorale.immaculate-heart-of-mary": 10,
 }
 
 

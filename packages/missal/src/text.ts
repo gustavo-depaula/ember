@@ -47,15 +47,6 @@ export function forDay(blocks: Block[], active: ReadonlySet<string>): Block[] {
     .filter((block) => block.lines.length > 0 || block.k === 'hr')
 }
 
-// Upstream's paragraph classes around a reading: its title, the one-line
-// summary, the announcement ("A reading from…") and the closing acclamation.
-const readingFurniture = new Set([
-  'ReadingGospelTitle',
-  'Summary',
-  'Areadingfrom',
-  'TheWordoftheLord',
-])
-
 /** A reading's own words and its citation, without the furniture around it. */
 export function readingOf(items: Item[], lang: Lang): { text: string; citation?: string } {
   const lines: string[] = []
@@ -63,9 +54,8 @@ export function readingOf(items: Item[], lang: Lang): { text: string; citation?:
   for (const item of items) {
     if (item.role === 'people' || item.role === 'rubric') continue
     for (const block of blocksIn(item, lang) ?? []) {
-      if (block.cls === 'Areadingfrom' || block.cls === 'ReadingGospelTitle')
-        citation ??= block.cite
-      if (block.k !== 'p' || (block.cls && readingFurniture.has(block.cls))) continue
+      if (block.role === 'announcement' || block.role === 'title') citation ??= block.cite
+      if (block.k !== 'p' || block.role) continue
       lines.push(...block.lines.map(lineText).filter(Boolean))
     }
   }

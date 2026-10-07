@@ -9,11 +9,11 @@ import {
   addDays,
   daysBetween,
   easterSunday,
+  type MassRef,
   type Season,
   sameDay,
   sundayCycle,
   type TemporalDay,
-  type TemporalMass,
   type Transfers,
   temporalDay,
   universalTransfers,
@@ -31,7 +31,7 @@ export interface Celebration {
   title?: Localized
   color: LiturgicalColor
   // The default Mass first.
-  masses: TemporalMass[]
+  masses: MassRef[]
   // Outranked by the day: it may be commemorated, not celebrated in full.
   commemoration?: boolean
   // Kept today because its own date is impeded.
@@ -53,7 +53,7 @@ export interface OfDay {
   // What may be celebrated, the default first.
   celebrations: Celebration[]
   // A vigil Mass of tomorrow that may be said this evening.
-  anticipated?: TemporalMass
+  anticipated?: MassRef
 }
 
 // Every region's calendar at once, for surfaces that show any saint anywhere.
@@ -89,11 +89,14 @@ function inRegions(entry: { regions?: string[] }, regions: ResolveOptions['regio
   return (regions ?? []).some((r) => entry.regions?.includes(r))
 }
 
-// Upstream numbers a formulary used on Sundays and weekdays alike as 66.
-function effective(precedence: number | undefined, weekday: number): number {
-  if (precedence === undefined) return 13
-  if (precedence === 66) return weekday === 0 ? 6 : 13
-  return precedence
+// A Sunday formulary of Ordinary Time also serves the weekdays after it, at
+// their own number.
+function precedenceOn(
+  entry: { precedence?: number; weekdayPrecedence?: number } | undefined,
+  weekday: number,
+): number {
+  if (weekday !== 0 && entry?.weekdayPrecedence !== undefined) return entry.weekdayPrecedence
+  return entry?.precedence ?? 13
 }
 
 const temporalSolemnities = new Set([
@@ -122,9 +125,6 @@ function rankOf(
     return 'weekday'
   }
   if (precedence <= 4) return 'solemnity'
-  // Mary, Mother of the Church and the Immaculate Heart are memorials that
-  // upstream numbers 7.5 so they win over a saint's memorial on the same day.
-  if (precedence === 7.5) return 'memorial'
   if (precedence <= 8) return 'feast'
   if (precedence <= 11) return 'memorial'
   return 'optional-memorial'
@@ -163,13 +163,18 @@ function temporalCelebration(day: TemporalDay, calendar: MissalCalendar): Celebr
   const mass = day.masses[0]
   const formulary = mass?.formulary ? calendar.formularies[mass.formulary] : undefined
   // 26-28 December have no temporal Mass; they rank as days within the octave.
-  const precedence = mass ? effective(formulary?.precedence, day.weekday) : 9
+  const precedence = mass ? precedenceOn(formulary, day.weekday) : 9
   return {
     id: mass?.lectionary ?? 'tempore.christmas.octave',
     kind: 'tempore',
     precedence,
     rank: rankOf(precedence, 'tempore', day.weekday, day.key),
-    title: formulary?.title,
+    // A weekday that borrows the Sunday's formulary is named by its own
+    // lectionary entry.
+    title:
+      mass && mass.formulary !== mass.lectionary
+        ? (calendar.lectionary[mass.lectionary]?.title ?? formulary?.title)
+        : formulary?.title,
     color: temporalColor(day),
     masses: day.masses,
   }
@@ -182,8 +187,8 @@ function sanctoralCelebration(
 ): Celebration | undefined {
   const formulary = calendar.formularies[entry.id]
   if (!formulary) return undefined
-  const precedence = effective(formulary.precedence, weekday)
-  const masses: TemporalMass[] = [
+  const precedence = precedenceOn(formulary, weekday)
+  const masses: MassRef[] = [
     { key: 'day', formulary: entry.id, lectionary: formulary.lectionary ?? entry.id },
   ]
   const vigil = `${entry.id}.vigil`
@@ -212,7 +217,7 @@ const isVigil = (id: string) => id.endsWith('.vigil')
 
 interface YearIndex {
   // Month·100+day -> the entries kept that day, solemnities already moved.
-  byDay: Map<number, { entry: { id: string }; transferred: boolean }[]>
+  byDay: Map<number, { entry: { id: string }; transferred: boolean; movable: boolean }[]>
 }
 
 const yearIndexes = new WeakMap<MissalCalendar, Map<string, YearIndex>>()
@@ -245,11 +250,11 @@ function buildYearIndex(
 ): YearIndex {
   const transfers = transfersFor(options)
   const byDay: YearIndex['byDay'] = new Map()
-  const add = (date: Date, entry: { id: string }, transferred: boolean) => {
+  const add = (date: Date, entry: { id: string }, transferred: boolean, movable = false) => {
     if (date.getFullYear() !== year) return
     const key = dayKey(date)
     const list = byDay.get(key) ?? []
-    if (!list.some((e) => e.entry.id === entry.id)) list.push({ entry, transferred })
+    if (!list.some((e) => e.entry.id === entry.id)) list.push({ entry, transferred, movable })
     byDay.set(key, list)
   }
 
@@ -281,12 +286,12 @@ function buildYearIndex(
   const easter = easterSunday(year)
   for (const entry of calendar.movable) {
     if (!inRegions(entry, options.regions)) continue
-    if (entry.easter !== undefined) add(addDays(easter, entry.easter), entry, false)
+    if (entry.easter !== undefined) add(addDays(easter, entry.easter), entry, false, true)
     if (entry.weekdayOfMonth) {
       const [month, weekday, nth] = entry.weekdayOfMonth
       const first = new Date(year, month - 1, 1, 12)
       const offset = (weekday - first.getDay() + 7) % 7
-      add(addDays(first, offset + 7 * (nth - 1)), entry, false)
+      add(addDays(first, offset + 7 * (nth - 1)), entry, false, true)
     }
   }
   return { byDay }
@@ -320,7 +325,11 @@ export function celebrationsOn(
 ): Celebration[] {
   const day = temporalDay(date, transfersFor(options))
   const temporal = temporalCelebration(day, calendar)
-  const saints = (yearIndex(calendar, date.getFullYear(), options).byDay.get(dayKey(date)) ?? [])
+  const onDay = yearIndex(calendar, date.getFullYear(), options).byDay.get(dayKey(date)) ?? []
+  // A movable memorial (Mary, Mother of the Church; the Immaculate Heart)
+  // prevails over a saint's memorial of the same rank that falls on its day.
+  const saints = [...onDay]
+    .sort((a, b) => Number(b.movable) - Number(a.movable))
     .map(({ entry, transferred }) => {
       const c = sanctoralCelebration(entry, calendar, day.weekday)
       return c && transferred ? { ...c, transferred } : c
@@ -353,8 +362,9 @@ export function resolveOfDay(
         ...all.filter((c) => c !== principal).map((c) => ({ ...c, commemoration: true })),
       ]
     }
-    // An obligatory memorial is the Mass of the day.
-    if (principal.precedence < 12) return all.filter((c) => c.precedence < 12)
+    // An obligatory memorial is the Mass of the day; where two coincide, the
+    // one that prevails.
+    if (principal.precedence < 12) return [principal]
     // Optional memorials and the weekday are all free choices.
     return all
   })()

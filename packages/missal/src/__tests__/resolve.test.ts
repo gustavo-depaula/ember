@@ -115,6 +115,11 @@ describe('precedence', () => {
     expect(ids('2026-05-25')).toEqual(['sanctorale.mary-mother-of-the-church'])
   })
 
+  it("lets the Immaculate Heart prevail over a saint's memorial on the same Saturday", () => {
+    // 28 June 2025 is also St Irenaeus, an obligatory memorial.
+    expect(ids('2025-06-28')).toEqual(['sanctorale.immaculate-heart-of-mary'])
+  })
+
   it('gives St Stephen his day in the Christmas octave, which has no Mass of its own', () => {
     const day = resolveOfDay(on('2026-12-26'), calendar)
     expect(day.celebrations.map((c) => c.id)).toEqual(['sanctorale.12-26'])

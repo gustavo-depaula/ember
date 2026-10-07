@@ -106,7 +106,8 @@ def title_of(doc, part, dated):
     return title
 
 
-def rank_label(doc):
+def subtitle_of(doc):
+    """The line under a formulary's title: a celebration's rank, or which Mass of a common it is."""
     label = {}
     for item in doc["items"]:
         if item.get("part") != "title":
@@ -114,7 +115,7 @@ def rank_label(doc):
         for lang, blocks in item.get("text", {}).items():
             for block in blocks:
                 if block["k"] == "h3" and lang != "*":
-                    label[lang] = convert.plain([block])
+                    label[lang] = " · ".join(convert.plain([block]).split("\n"))
                     break
         break
     return label
@@ -306,6 +307,72 @@ def link_ids(doc, anchor_ids):
     return found
 
 
+def is_link_list(item):
+    """A formulary's list of the prefaces it may take: links, already collected as ids."""
+    return any(
+        isinstance(seg, dict) and seg["m"] == "link"
+        for blocks in item.get("text", {}).values()
+        for block in blocks
+        for line in block["lines"]
+        for seg in line
+    )
+
+
+def finalize(kind, doc):
+    """From the importer's working fields to the shape `@ember/missal` reads.
+
+    Upstream's own vocabulary stops here: element ids become named tags,
+    paragraph classes become roles, its precedence codes become numbers of the
+    Table of Liturgical Days.
+    """
+    groups = {}
+    items = []
+    for item in doc["items"]:
+        if "ref" in item:
+            # A link upstream never resolves (reported by build.py).
+            continue
+        if kind == "formulary" and item.get("part") == "preface" and is_link_list(item):
+            continue
+        tags = [ids.sections[i] for i in item.pop("in", []) if i in ids.sections]
+        if tags:
+            item["tags"] = list(dict.fromkeys(tags))
+        for key in ("hidden", "suggested", "partial"):
+            item.pop(key, None)
+        if "alt" in item:
+            group = groups.setdefault(item["alt"]["group"], {"n": len(groups) + 1, "options": {}})
+            option = group["options"].setdefault(item["alt"]["id"], len(group["options"]) + 1)
+            item["alt"] = {"group": group["n"], "option": option, "label": item["alt"]["label"]}
+        if item.get("mark") == "readings":
+            at = ids.sections.get(item.pop("at", ""))
+            if at:
+                item["at"] = at
+        for lang, blocks in item.get("text", {}).items():
+            for block in blocks:
+                role = ids.blockRoles.get(block.pop("cls", None))
+                if role:
+                    block["role"] = role
+                for n, line in enumerate(block["lines"]):
+                    kept = []
+                    for seg in line:
+                        if isinstance(seg, dict) and seg["m"].startswith("lang:"):
+                            # A word upstream sets for one language only.
+                            if seg["m"][5:] in (lang, "*") or lang == "*":
+                                kept.append(seg["t"])
+                            continue
+                        kept.append(seg)
+                    block["lines"][n] = kept
+        items.append(item)
+    doc["items"] = items
+    if kind != "formulary":
+        doc.pop("precedence", None)
+    if doc.get("precedence") == 66:
+        # Upstream's code for a formulary used on a Sunday and on the weekdays after it.
+        doc["precedence"] = 6
+        doc["weekdayPrecedence"] = 13
+    if "precedence" in doc and float(doc["precedence"]).is_integer():
+        doc["precedence"] = int(doc["precedence"])
+
+
 def write(path, doc):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(
@@ -439,14 +506,17 @@ def main():
             if commons:
                 doc["commons"] = list(dict.fromkeys(commons))
             doc["title"] = title_of(doc, "title", doc["kind"] == "sanctoral")
-            label = rank_label(doc)
+            label = subtitle_of(doc)
             if label:
-                doc["rankLabel"] = label
+                doc["subtitle"] = label
         elif kind in ("lectionary", "preface"):
             doc["title"] = title_of(doc, None, True)
         else:
             doc["title"] = title_of(doc, None, False)
         patches.apply(kind, doc)
+    # Only once every document has borrowed what it borrows.
+    for (kind, _), doc in docs.items():
+        finalize(kind, doc)
 
     for doc_id in patches.sequences:
         doc = docs.get(("lectionary", doc_id))
@@ -476,7 +546,7 @@ def main():
         write(target / folders[kind] / f"{doc_id}.json", doc)
         if kind == "formulary":
             entry = {"kind": doc["kind"], "title": doc.get("title", {})}
-            for key in ("precedence", "lectionary"):
+            for key in ("precedence", "weekdayPrecedence", "lectionary"):
                 if key in doc:
                     entry[key] = doc[key]
             index["formularies"][doc_id] = entry
@@ -498,7 +568,13 @@ def main():
         for doc_id, entry in index["formularies"].items()
         if entry["kind"] in ("tempore", "sanctoral")
     }
-    calendar["lectionary"] = [i for i in index["lectionary"] if not i.startswith("readings.")]
+    # A weekday of Ordinary Time is named by its lectionary entry: its formulary
+    # is the Sunday's.
+    calendar["lectionary"] = {
+        i: {"title": docs[("lectionary", i)].get("title", {})}
+        for i in index["lectionary"]
+        if not i.startswith("readings.")
+    }
     write(target / "prefaces.json", prefaces)
     write(target / "calendar.json", calendar)
     write(target / "index.json", index)

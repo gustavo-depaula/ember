@@ -5,9 +5,9 @@ import {
   type Doc,
   type Lang,
   type MassPlan,
+  type MassRef,
   type OfDay,
   resolveOfDay,
-  type TemporalMass,
 } from '@ember/missal'
 import { getCatalog } from '@/content/contentIndex'
 import type { ContainerOption, Primitive } from '@/content/primitives'
@@ -82,7 +82,7 @@ export const missalMassSource: ContentSource<Primitive[]> = {
     const day = resolveOfDay(ctx.date, calendar, options)
 
     const masses: ContainerOption[] = []
-    const add = (plan: MassPlan, celebration: Celebration, mass: TemporalMass, many: boolean) => {
+    const add = (plan: MassPlan, celebration: Celebration, mass: MassRef, many: boolean) => {
       masses.push({
         // A day with several Masses (Christmas, Holy Thursday) tells them apart
         // by formulary; otherwise the celebration names the option.

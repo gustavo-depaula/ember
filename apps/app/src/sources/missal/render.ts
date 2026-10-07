@@ -58,16 +58,12 @@ function isRubricBlock(block: Block): boolean {
   return segs.length > 0 && segs.every((s) => typeof s !== 'string' && s.m === 'rubric')
 }
 
-// Upstream's paragraph classes for the furniture around a reading.
-const labelClasses = new Set(['ReadingGospelTitle', 'PsalmAlleluiaTitle'])
-const italicClasses = new Set(['Summary'])
-
 type Kind = 'heading' | 'label' | 'rubric' | 'response' | 'versicle' | 'italic' | 'text' | 'divider'
 
 function kindOf(block: Block, item: Item): Kind {
   if (block.k === 'hr') return 'divider'
   if (block.k === 'h1' || block.k === 'h2') return 'heading'
-  if (block.k !== 'p' || (block.cls && labelClasses.has(block.cls))) return 'label'
+  if (block.k !== 'p' || block.role === 'title') return 'label'
   const first = block.lines[0]?.[0]
   if (first && typeof first !== 'string' && first.m === 'rubric') {
     if (responseMark.test(first.t)) return 'response'
@@ -75,7 +71,7 @@ function kindOf(block: Block, item: Item): Kind {
   }
   if (item.role === 'people') return 'response'
   if (item.role === 'rubric' || isRubricBlock(block)) return 'rubric'
-  if (block.cls && italicClasses.has(block.cls)) return 'italic'
+  if (block.role === 'summary') return 'italic'
   return 'text'
 }
 
@@ -174,7 +170,7 @@ export function renderItems(items: Item[], ctx: RenderContext): Primitive[] {
 export function labelOf(items: Item[], ctx: RenderContext): BilingualText | undefined {
   for (const item of items) {
     for (const block of blocksIn(item, ctx.lang.primary) ?? fallbackBlocks(item)) {
-      if (block.k !== 'p' || (block.cls && labelClasses.has(block.cls))) {
+      if (block.k !== 'p' || block.role === 'title') {
         const text = block.lines.map(lineText).join(' ').replace(/\s+/g, ' ').trim()
         if (text) return { primary: text }
       }

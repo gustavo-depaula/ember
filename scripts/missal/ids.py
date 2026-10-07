@@ -158,6 +158,41 @@ order = {
 }
 
 
+# Upstream's element ids for the stretches of a rite the app treats specially,
+# under the names Ember uses. An id not listed here is not carried over.
+sections = {
+    # Order of Mass
+    "bendicion_agua": "sprinkling",
+    "agua_fueratp": "sprinkling.outside-easter",
+    "agua_durantetp": "sprinkling.easter",
+    "penitencia1": "penitential-act.1",
+    "penitencia2": "penitential-act.2",
+    "penitencia3": "penitential-act.3",
+    "himno_gloria": "gloria",
+    "credo0": "creed.nicene",
+    "credo1": "creed.nicene",
+    "credo00": "creed.apostles",
+    "credo2": "creed.apostles",
+    "indice_or_fieles": "universal-prayer.index",
+    "lit_euchar": "liturgy-of-the-eucharist",
+    "bendic_obispo": "bishop-blessing",
+    # A Eucharistic Prayer's own preface
+    "contenido_pf": "preface",
+    # The readings of the Easter Vigil, each placed by the rite
+    **{f"lectura_{n}": f"reading.{n}" for n in range(1, 10)},
+    "lectura_evangelio": "reading.gospel",
+}
+
+# Upstream's paragraph classes around a reading, as roles.
+blockRoles = {
+    "ReadingGospelTitle": "title",
+    "PsalmAlleluiaTitle": "title",
+    "Summary": "summary",
+    "Areadingfrom": "announcement",
+    "TheWordoftheLord": "conclusion",
+}
+
+
 def temporal_id(anchor, lectionary):
     """Id for an anchor of the temporal cycle, or None when it is not one."""
     if lectionary and anchor in lectionaryOnly:

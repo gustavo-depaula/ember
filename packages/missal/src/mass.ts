@@ -4,7 +4,7 @@
 // option, so nothing the Missal permits is hidden.
 
 import type { Celebration, OfDay } from './calendar/resolve'
-import type { TemporalMass } from './calendar/temporal'
+import type { MassRef } from './calendar/temporal'
 import type { Cycle, Doc, Formulary, Item, Lectionary, Localized, Part } from './types'
 
 export interface MissalSource {
@@ -18,6 +18,8 @@ export interface PartOption {
   source: 'proper' | 'common' | 'tempore'
   from: string
   title?: Localized
+  // For a common: which of its Masses this is.
+  subtitle?: Localized
   items: Item[]
 }
 
@@ -38,15 +40,15 @@ export interface Rite {
 export interface MassPlan {
   day: OfDay
   celebration: Celebration
-  mass: TemporalMass
+  mass: MassRef
   formulary?: Formulary
   lectionary?: Lectionary
   gloria: boolean
   creed: boolean
   // Each part's sources, the default first.
   parts: Partial<Record<Part, PartOption[]>>
-  // A preface printed with the formulary is in `parts.preface`; these are the
-  // prefaces it points to, or the season's.
+  // A preface printed in full with the formulary is in `parts.preface`; these
+  // are the prefaces the formulary names, or failing both the season's.
   prefaces: PrefaceOption[]
   rites: Rite[]
   sequence?: { required: boolean }
@@ -117,7 +119,7 @@ function prefaceNumbers(day: OfDay): number[] {
   }
 }
 
-function conditionsOf(day: OfDay, mass: TemporalMass): string[] {
+function conditionsOf(day: OfDay, mass: MassRef): string[] {
   const conditions: string[] = []
   if (day.season === 'easter' && day.week === 1) conditions.push('easter-octave')
   if (day.season === 'christmas' && day.date.getMonth() === 11) conditions.push('christmas-octave')
@@ -146,23 +148,10 @@ function saysCreed(day: OfDay, celebration: Celebration): boolean {
   return day.weekday === 0 || celebration.precedence <= 4
 }
 
-// Upstream marks a celebration whose readings must be its own (`lect_obl`).
-function hasProperReadings(doc: Doc | undefined): boolean {
-  return (doc?.items ?? []).some((item) =>
-    Object.values(item.text ?? {}).some((blocks) =>
-      blocks.some((b) =>
-        b.lines.some((line) =>
-          line.some((seg) => typeof seg !== 'string' && seg.m === 'properReadings'),
-        ),
-      ),
-    ),
-  )
-}
-
 export async function assembleMass(
   day: OfDay,
   celebration: Celebration,
-  mass: TemporalMass,
+  mass: MassRef,
   source: MissalSource,
 ): Promise<MassPlan> {
   const cycles: ReadonlySet<Cycle> = new Set([day.cycle, day.weekdayCycle])
@@ -192,7 +181,7 @@ export async function assembleMass(
   const mayUseWeekday = celebration.precedence >= 10
   for (const part of prayerParts) {
     const proper = ofPart(formulary, part, cycles)
-    if (hasText(proper) || part === 'preface') {
+    if (hasText(proper)) {
       add(part, {
         source: 'proper',
         from: formulary?.id ?? mass.lectionary,
@@ -203,7 +192,13 @@ export async function assembleMass(
     for (const common of commons) {
       const items = ofPart(common, part, cycles)
       if (hasText(items))
-        add(part, { source: 'common', from: common.id, title: common.title, items })
+        add(part, {
+          source: 'common',
+          from: common.id,
+          title: common.title,
+          subtitle: common.subtitle,
+          items,
+        })
     }
     if (mayUseWeekday || !parts[part]) {
       const items = ofPart(temporalFormulary, part, cycles)
@@ -223,8 +218,8 @@ export async function assembleMass(
   const ownReadingsFirst =
     ownDay ||
     celebration.precedence <= 8 ||
-    hasProperReadings(formulary) ||
-    hasProperReadings(lectionary)
+    formulary?.properReadings === true ||
+    lectionary?.properReadings === true
   for (const part of readingParts) {
     const proper: PartOption = {
       source: ownDay ? 'tempore' : 'proper',
@@ -263,7 +258,7 @@ export async function assembleMass(
   for (const item of formulary?.items ?? []) {
     if (item.cycle && !cycles.has(item.cycle)) continue
     if (!item.part) {
-      if (item.text || item.ref) open.push(item)
+      if (item.text) open.push(item)
       continue
     }
     if (item.part === 'title') continue

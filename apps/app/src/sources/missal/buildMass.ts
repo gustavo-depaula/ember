@@ -12,9 +12,9 @@ import {
   type Localized,
   localize,
   type MassPlan,
+  type MassRef,
   type Part,
   type PartOption,
-  type TemporalMass,
 } from '@ember/missal'
 import type { ContainerOption, Primitive } from '@/content/primitives'
 import { type LangPrefs, labelOf, type RenderContext, renderItems } from './render'
@@ -205,24 +205,31 @@ const collapsible = (title: BilingualText, children: Primitive[]): Primitive => 
 // several ("or", short and long forms) at a time.
 function alternatives(
   items: Item[],
-): { id: string; label: 'or' | 'short' | 'long'; items: Item[] }[] {
+): { option: number; label: 'or' | 'short' | 'long'; items: Item[] }[] {
   const group = items.find((i) => i.alt)?.alt?.group
-  if (!group) return []
-  const ids = [
-    ...new Set(items.filter((i) => i.alt?.group === group).map((i) => i.alt?.id as string)),
+  if (group === undefined) return []
+  const options = [
+    ...new Set(items.filter((i) => i.alt?.group === group).map((i) => i.alt?.option as number)),
   ]
-  const labels = ids.map((id) => items.find((i) => i.alt?.id === id)?.alt?.label ?? 'or')
+  const labels = options.map(
+    (option) => items.find((i) => i.alt?.option === option)?.alt?.label ?? 'or',
+  )
   // "Long" only means something beside "short"; any other pairing is a plain choice.
   const forms = labels.includes('short') && labels.includes('long')
-  return ids.map((id, n) => ({
-    id,
+  return options.map((option, n) => ({
+    option,
     label: forms ? labels[n] : 'or',
-    items: items.filter((i) => i.alt?.group !== group || i.alt?.id === id),
+    items: items.filter((i) => i.alt?.group !== group || i.alt?.option === option),
   }))
 }
 
 function sourceLabel(option: PartOption, lang: LangPrefs, ownDay: boolean): BilingualText {
-  if (option.source === 'common') return titleText(option.title, lang, option.from)
+  if (option.source === 'common') {
+    // A saint may draw on several Masses of one common; the subtitle tells them apart.
+    const title = titleText(option.title, lang, option.from).primary
+    const which = localize(option.subtitle, lang.primary)
+    return { primary: which ? `${title} · ${which}` : title }
+  }
   if (option.source === 'tempore' && !ownDay) return say(words.ofTheDay, lang)
   return say(words.proper, lang)
 }
@@ -245,7 +252,7 @@ function partOptions(
           : word(words[alt.label], ctx.lang.primary)
       const label = options.length > 1 ? `${source.primary} · ${name}` : name
       return {
-        id: `${option.from}#${alt.id}`,
+        id: `${option.from}#${alt.option}`,
         label: { primary: label },
         children: renderItems(alt.items, ctx),
       }
@@ -270,8 +277,7 @@ function partBlock(part: Part, plan: MassPlan, ctx: RenderContext): Primitive[] 
   return [...lead, ...select(label, `missal.${part}`, built)]
 }
 
-// A formulary that names its prefaces lists them as links; that list is
-// replaced by the prefaces themselves.
+// The line under a saint's title that points to the commons it draws on.
 function isLinkList(items: Item[]): boolean {
   return items.some((item) =>
     Object.values(item.text ?? {}).some((blocks) =>
@@ -286,9 +292,9 @@ function isLinkList(items: Item[]): boolean {
 // preface and the Sanctus before its body; the Order of Mass already has the
 // dialogue and the Sanctus.
 function splitEucharisticPrayer(doc: Doc): { preface: Item[]; body: Item[] } {
-  const lastOfPreface = doc.items.findLastIndex((item) => item.in?.includes('contenido_pf'))
+  const lastOfPreface = doc.items.findLastIndex((item) => item.tags?.includes('preface'))
   if (lastOfPreface < 0) return { preface: [], body: doc.items }
-  const firstOfPreface = doc.items.findIndex((item) => item.in?.includes('contenido_pf'))
+  const firstOfPreface = doc.items.findIndex((item) => item.tags?.includes('preface'))
   return {
     preface: doc.items.slice(firstOfPreface, lastOfPreface + 1),
     // The heading and opening rubric, then everything after the Sanctus.
@@ -299,7 +305,7 @@ function splitEucharisticPrayer(doc: Doc): { preface: Item[]; body: Item[] } {
 function prefaceBlock(plan: MassPlan, docs: MassDocs, ctx: RenderContext): Primitive[] {
   const options: ContainerOption[] = []
   const printed = plan.parts.preface?.[0]
-  if (printed && !isLinkList(printed.items)) {
+  if (printed) {
     options.push({
       id: printed.from,
       label: say(words.proper, ctx.lang),
@@ -357,26 +363,31 @@ function eucharisticPrayerBlock(plan: MassPlan, docs: MassDocs, ctx: RenderConte
   )
 }
 
+// A weekday of Ordinary Time prays the Sunday's formulary; its name is the
+// day's own, which the calendar takes from the lectionary.
+function massTitle(plan: MassPlan, celebration: Celebration, mass: MassRef): Localized | undefined {
+  const borrowed = celebration.kind === 'tempore' && mass.formulary !== mass.lectionary
+  return borrowed
+    ? (celebration.title ?? plan.formulary?.title)
+    : (plan.formulary?.title ?? celebration.title)
+}
+
 /** The chip for one Mass of the day: the celebration, and which of its Masses when it has several. */
 export function massLabel(
   plan: MassPlan,
   celebration: Celebration,
-  mass: TemporalMass,
+  mass: MassRef,
   many: boolean,
   lang: LangPrefs,
 ): BilingualText {
-  const title = titleText(plan.formulary?.title ?? celebration.title, lang, celebration.id).primary
+  const title = titleText(massTitle(plan, celebration, mass), lang, celebration.id).primary
   const which = many && massWords[mass.key] ? ` · ${word(massWords[mass.key], lang.primary)}` : ''
   return { primary: `${title}${which}` }
 }
 
 function banner(plan: MassPlan, lang: LangPrefs): Primitive[] {
-  const title = titleText(
-    plan.formulary?.title ?? plan.celebration.title,
-    lang,
-    plan.celebration.id,
-  )
-  const rank = localize(plan.formulary?.rankLabel, lang.primary)
+  const title = titleText(massTitle(plan, plan.celebration, plan.mass), lang, plan.celebration.id)
+  const rank = localize(plan.formulary?.subtitle, lang.primary)
   const out: Primitive[] = [
     {
       type: 'callout',
@@ -407,8 +418,8 @@ function description(plan: MassPlan, ctx: RenderContext): Primitive[] {
   )
 }
 
-const penitentialForms = ['penitencia1', 'penitencia2', 'penitencia3']
-const creedForms = ['credo0', 'credo1', 'credo00', 'credo2']
+const penitentialForms = ['penitential-act.1', 'penitential-act.2', 'penitential-act.3']
+const creedForms = ['creed.nicene', 'creed.apostles']
 // The rites a formulary places after the homily are filed before one of these.
 const afterHomily = new Set<Part | undefined>([
   'creed',
@@ -416,7 +427,8 @@ const afterHomily = new Set<Part | undefined>([
   'prayerOverOfferings',
 ])
 
-const within = (item: Item, ids: string[]) => ids.some((id) => item.in?.includes(id))
+// Whether an item belongs to one of these named stretches of the rite.
+const within = (item: Item, tags: string[]) => tags.some((tag) => item.tags?.includes(tag))
 
 function takeWhile(items: Item[], from: number, test: (item: Item) => boolean): Item[] {
   const taken: Item[] = []
@@ -489,7 +501,7 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
     out.push(...straightThrough(plan, ctx))
     // Its rites have all been read; none is left to place in the Order.
     takeRites(() => true)
-    i = items.findIndex((item) => item.in?.includes('lit_euchar'))
+    i = items.findIndex((item) => item.tags?.includes('liturgy-of-the-eucharist'))
   }
 
   while (i < items.length) {
@@ -527,24 +539,27 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
     }
 
     const skip =
-      within(item, ['indice_or_fieles']) ||
+      within(item, ['universal-prayer.index']) ||
       (skipIntroduction && reached === 'entranceAntiphon') ||
       (skipConclusion && reached === 'prayerOverPeople') ||
-      (within(item, ['himno_gloria']) && !plan.gloria) ||
+      (within(item, ['gloria']) && !plan.gloria) ||
       // Without a Creed, its rubrics go too: all that stands between the
       // homily and the Universal Prayer.
       (!plan.creed && reached === 'creed') ||
-      (within(item, ['agua_fueratp']) && plan.day.season === 'easter') ||
-      (within(item, ['agua_durantetp']) && plan.day.season !== 'easter')
+      (within(item, ['sprinkling.outside-easter']) && plan.day.season === 'easter') ||
+      (within(item, ['sprinkling.easter']) && plan.day.season !== 'easter')
     if (skip) {
       i++
       continue
     }
 
-    if (within(item, ['bendicion_agua'])) {
-      const group = takeWhile(items, i, (next) => within(next, ['bendicion_agua']))
+    if (within(item, ['sprinkling'])) {
+      const group = takeWhile(items, i, (next) => within(next, ['sprinkling']))
       const shown = group.filter(
-        (g) => !within(g, [plan.day.season === 'easter' ? 'agua_fueratp' : 'agua_durantetp']),
+        (g) =>
+          !within(g, [
+            plan.day.season === 'easter' ? 'sprinkling.outside-easter' : 'sprinkling.easter',
+          ]),
       )
       out.push(collapsible(say(words.sprinkling, lang), renderItems(shown, ctx)))
       i += group.length
@@ -557,7 +572,7 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
         id,
         label: { primary: `${word(words.form, lang.primary)} ${n + 1}` },
         // Each form opens with its own number, which the chip already shows.
-        children: renderItems(group.filter((g) => g.in?.includes(id)).slice(1), ctx),
+        children: renderItems(group.filter((g) => g.tags?.includes(id)).slice(1), ctx),
       }))
       out.push(...select(say(words.penitentialAct, lang), 'missal.penitential-act', options))
       i += group.length
@@ -568,8 +583,8 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
       // The two creeds, with the rubric that introduces the second between them.
       const last = items.findLastIndex((next) => within(next, creedForms))
       const group = items.slice(i, last + 1)
-      const nicene = group.filter((g) => within(g, ['credo0', 'credo1']))
-      const apostles = group.filter((g) => !within(g, ['credo0', 'credo1']))
+      const nicene = group.filter((g) => within(g, ['creed.nicene']))
+      const apostles = group.filter((g) => !within(g, ['creed.nicene']))
       out.push(
         ...select(say(words.creed, lang), 'missal.creed', [
           { id: 'nicene', label: say(words.nicene, lang), children: renderItems(nicene, ctx) },
@@ -584,8 +599,8 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
       continue
     }
 
-    if (within(item, ['bendic_obispo'])) {
-      const group = takeWhile(items, i, (next) => within(next, ['bendic_obispo']))
+    if (within(item, ['bishop-blessing'])) {
+      const group = takeWhile(items, i, (next) => within(next, ['bishop-blessing']))
       out.push(collapsible(say(words.bishop, lang), renderItems(group, ctx)))
       i += group.length
       continue
@@ -627,14 +642,14 @@ function withAlternatives(items: Item[], ctx: RenderContext): Primitive[] {
   let i = 0
   while (i < items.length) {
     const group = items[i].alt?.group
-    if (!group) {
+    if (group === undefined) {
       out.push(...renderItems([items[i]], ctx))
       i++
       continue
     }
     const run = takeWhile(items, i, (next) => next.alt?.group === group)
     const options = alternatives(run).map((alt, n) => ({
-      id: alt.id,
+      id: String(alt.option),
       label: {
         primary:
           alt.label === 'or'
@@ -676,7 +691,7 @@ function straightThrough(plan: MassPlan, ctx: RenderContext): Primitive[] {
     flush()
     // The Vigil marks each of its readings; elsewhere one mark stands for all.
     const here = (plan.lectionary?.items ?? []).filter(
-      (reading) => item.at && reading.in?.includes(item.at) && today(reading),
+      (reading) => item.at && reading.tags?.includes(item.at) && today(reading),
     )
     if (here.length > 0) out.push(...withAlternatives(here, ctx))
     else if (!readingsPlaced) out.push(...readingsInOrder(plan, ctx))

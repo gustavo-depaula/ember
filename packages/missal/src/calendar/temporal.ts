@@ -30,8 +30,9 @@ export const universalTransfers: Transfers = {
   corpusChristi: 'thursday',
 }
 
-// One Mass of the day. Most days have one; Christmas has four.
-export interface TemporalMass {
+// One Mass of a celebration, by the ids of its formulary and its readings.
+// Most celebrations have one; Christmas has four, a solemnity may have a vigil.
+export interface MassRef {
   key: 'day' | 'vigil' | 'night' | 'dawn' | 'chrism' | 'evening'
   formulary?: string
   lectionary: string
@@ -46,9 +47,9 @@ export interface TemporalDay {
   // The day's named celebration, when it has one.
   key?: string
   // The default Mass first.
-  masses: TemporalMass[]
+  masses: MassRef[]
   // A Mass of the following day that may be anticipated this evening.
-  anticipated?: TemporalMass
+  anticipated?: MassRef
 }
 
 const dayMs = 86_400_000
@@ -137,7 +138,7 @@ export function weekdayCycle(date: Date): 'I' | 'II' {
   return liturgicalYear(date) % 2 === 1 ? 'I' : 'II'
 }
 
-function single(id: string, formulary = id): TemporalMass[] {
+function single(id: string, formulary = id): MassRef[] {
   return [{ key: 'day', formulary, lectionary: id }]
 }
 
@@ -351,7 +352,7 @@ export function temporalDay(date: Date, transfers: Transfers = universalTransfer
     if (fromEaster === 0) {
       return { ...base, key: 'easter-sunday', masses: single('tempore.easter.easter-sunday') }
     }
-    const pentecostVigil: TemporalMass = {
+    const pentecostVigil: MassRef = {
       key: 'vigil',
       formulary: 'tempore.easter.pentecost-vigil',
       lectionary: 'tempore.easter.pentecost-vigil',
@@ -363,7 +364,7 @@ export function temporalDay(date: Date, transfers: Transfers = universalTransfer
         masses: [...single('tempore.easter.pentecost'), pentecostVigil],
       }
     }
-    const ascensionVigil: TemporalMass = {
+    const ascensionVigil: MassRef = {
       key: 'vigil',
       formulary: 'tempore.easter.ascension-vigil',
       lectionary: 'tempore.easter.ascension',

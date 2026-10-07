@@ -19,9 +19,9 @@ export async function loadGospelOfDay(date: Date, lang: Lang): Promise<GospelOfD
   const plan = await assembleMass(day, celebration, celebration.masses[0], corpusMissal)
   // The first alternative only, where the lectionary offers a choice of Gospels.
   const items = plan.parts.gospel?.[0]?.items ?? []
-  const first = items.find((item) => item.alt)?.alt?.id
+  const first = items.find((item) => item.alt)?.alt?.option
   const gospel = readingOf(
-    items.filter((item) => !item.alt || item.alt.id === first),
+    items.filter((item) => !item.alt || item.alt.option === first),
     lang,
   )
   return gospel.text ? gospel : undefined

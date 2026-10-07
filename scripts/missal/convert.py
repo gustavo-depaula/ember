@@ -97,8 +97,6 @@ markNames = {
     "xto": "christ",
     "sinag": "crowd",
     "sinag2": "crowd",
-    # Readings that must be taken with this celebration (upstream `lect_obl`).
-    "lect_obl": "properReadings",
 }
 # Words said only on certain days (the proper Communicantes and the like):
 # upstream shows or hides these spans by the day's celebration.
@@ -123,6 +121,8 @@ linkRe = re.compile(r"m_estructura/(\w+)/m_estructura_(\w+)\.html(?:\?parcial=(\
 toggleRe = re.compile(r"cambia_vista\('([\w-]+)'\)")
 
 unknownClasses = Counter()
+# Facts about the block being converted that sit on an empty marker element.
+blockFlags = set()
 
 
 def parse_link(value):
@@ -259,7 +259,12 @@ def inline(node, para, mark=None):
             if "boton" in classes and not parse_link(link_of(child)):
                 continue
             child_mark = mark
+            if "lect_obl" in classes:
+                # Upstream's marker for readings that must be taken with the celebration.
+                blockFlags.add("properReadings")
             for c in classes:
+                if c == "lect_obl":
+                    continue
                 if c in markNames:
                     child_mark = markNames[c]
                 elif c in conditionNames:
@@ -344,6 +349,7 @@ def convert_block(block, skeleton_langs):
     """One upstream `div.dia` (or whole file) -> {precedence, lectionary, items}."""
     doc = {"items": []}
     items = doc["items"]
+    blockFlags.clear()
 
     def toggle_group(node):
         """An element that upstream shows one-of-several: its id, its siblings'."""
@@ -480,6 +486,8 @@ def convert_block(block, skeleton_langs):
 
     for child in block.get("children", []):
         walk(child, {})
+    for flag in blockFlags:
+        doc[flag] = True
     return doc
 
 

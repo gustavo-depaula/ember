@@ -120,6 +120,9 @@ describe('an ordinary weekday', () => {
     const options = selectOf(mass, 'missal.mass')?.options.map((o) => o.id)
     expect(options).toContain('sanctorale.10-06#day')
     expect(options).toContain('tempore.ordinary-time.week-27.tuesday#day')
+    // The weekday is named as itself, not as the Sunday whose prayers it uses.
+    const labels = selectOf(mass, 'missal.mass')?.options.map((o) => o.label.primary)
+    expect(labels?.at(-1)).toBe('Terça-feira da 27ª Semana do Tempo Comum')
   })
 })
 
@@ -157,12 +160,12 @@ describe('sequences', () => {
     const mass = await massOn('2026-09-15')
     expect(JSON.stringify(mass)).toContain('Sequência (facultativa)')
     expect(shown(mass, true)).toContain('Stabat Mater')
-    // The weekday's Gospel by default, then the memorial's two.
+    // Its readings are proper: the memorial's two Gospels first, then the weekday's.
     const gospels = selectOf(mass, 'missal.gospel')?.options.map((o) => o.id.split('#')[0])
     expect(gospels).toEqual([
+      'sanctorale.09-15',
+      'sanctorale.09-15',
       'tempore.ordinary-time.week-24.tuesday',
-      'sanctorale.09-15',
-      'sanctorale.09-15',
     ])
   })
 
@@ -218,10 +221,8 @@ describe('Holy Week and the Triduum', () => {
     expect(latin).toContain('Exsúltet iam')
     expect(latin).toContain('Sancta María, Mater Dei')
     // The Exsultet in its long and short forms, and each reading in its place.
-    expect(selectOf(mass, 'missal.alt.pregon')?.options.map((o) => o.label.primary)).toEqual([
-      'Forma longa',
-      'Forma breve',
-    ])
+    const forms = selects(mass).map((s) => s.options.map((o) => o.label.primary).join(' | '))
+    expect(forms).toContain('Forma longa | Forma breve')
     const text = shown(mass)
     expect(text.indexOf('Livro do Gênesis')).toBeGreaterThan(0)
     expect(text.indexOf('Livro do Gênesis')).toBeLessThan(text.indexOf('Livro do Êxodo'))
