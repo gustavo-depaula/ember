@@ -202,6 +202,14 @@ describe('the Liturgy of the Hours in Brazilian Portuguese', () => {
       'Oração',
       'Conclusão da Hora',
     ])
+    // The celebration's name, with its rank and its Common beneath.
+    const rosary = (await hourOn('2026-10-07', 'lauds')).flatMap((p) =>
+      p.type === 'container' && p.behavior.kind === 'select' ? p.behavior.options[0].children : [p],
+    )
+    expect(rosary.find((p) => p.type === 'heading')).toMatchObject({
+      text: { primary: 'Bem-aventurada Virgem Maria do Rosário' },
+      note: { primary: 'Memória · Do Comum de Nossa Senhora' },
+    })
     const compline = (await hourOn('2026-10-08', 'compline')).flatMap((p) =>
       p.type === 'heading' ? [p.text.primary] : [],
     )

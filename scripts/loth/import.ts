@@ -82,7 +82,17 @@ const marked = (blocks: Block[]) =>
       n +
       (block.k === 'title' ? 2 : 0) +
       block.lines.length +
-      block.lines.reduce((m, line) => m + line.filter((seg) => typeof seg !== 'string').length, 0),
+      // The red marks are the book's; a hand that set a prayer in italic or bold
+      // in one hour and not in another added nothing to it.
+      block.lines.reduce(
+        (m, line) =>
+          m +
+          line.reduce(
+            (k, seg) => k + (typeof seg === 'string' ? 0 : seg.m === 'italic' || seg.m === 'bold' ? -1 : 1),
+            0,
+          ),
+        0,
+      ),
     0,
   )
 

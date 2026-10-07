@@ -242,6 +242,8 @@ function renderBlock(block: Block, ctx: RenderContext, out: Primitive[], options
   // the canticle's title instead of before it.
   let unlabelledAntiphon = false
   const last = out[out.length - 1]
+  // The rank and the Common come as paragraphs of their own under the name.
+  if (options.head && last?.type === 'heading' && capitalTitles.has(last)) open = last
   // A label alone on its line: the antiphon is the paragraph after it.
   if (last?.type === 'verses' && last.items[last.items.length - 1].text.primary === '') {
     open = last
