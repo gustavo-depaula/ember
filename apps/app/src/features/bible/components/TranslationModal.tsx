@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
-import { translations } from '@/lib/bibleTranslations'
+import { translationsFor } from '@/lib/bibleTranslations'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { LanguageBadge } from './TranslationBadge'
@@ -62,7 +62,7 @@ function TranslationRow({
 }
 
 export function TranslationModal({ visible, onClose }: { visible: boolean; onClose: () => void }) {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
   const insets = useSafeAreaInsets()
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
@@ -105,7 +105,7 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
         </XStack>
 
         <ScrollView flex={1}>
-          {translations.map((t) => (
+          {translationsFor(i18n.language).map((t) => (
             <TranslationRow
               key={t.code}
               code={t.code}

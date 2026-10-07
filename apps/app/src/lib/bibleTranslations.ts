@@ -69,6 +69,18 @@ export const defaultTranslationForLanguage: Record<string, string> = {
   'pt-BR': 'AM',
 }
 
+/**
+ * The registry with the editions in the app's own language first, the rest in
+ * registry order. `appLanguage` is a locale such as `pt-BR`.
+ */
+export function translationsFor(appLanguage: string): Translation[] {
+  const own = appLanguage.slice(0, 2).toUpperCase()
+  return [
+    ...translations.filter((tr) => tr.language === own),
+    ...translations.filter((tr) => tr.language !== own),
+  ]
+}
+
 export function findTranslation(code: string): Translation | undefined {
   return translations.find((t) => t.code === code)
 }

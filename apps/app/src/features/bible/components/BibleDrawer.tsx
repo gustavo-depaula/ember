@@ -17,7 +17,12 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, useTheme, View, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
-import { findTranslation, type Translation, translations } from '@/lib/bibleTranslations'
+import {
+  findTranslation,
+  type Translation,
+  translations,
+  translationsFor,
+} from '@/lib/bibleTranslations'
 import { type Book, getChapter } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -444,7 +449,7 @@ function EditionsPanel({
   chapter: number
   onBack: () => void
 }) {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
   const setTranslation = usePreferencesStore((s) => s.setTranslation)
@@ -459,7 +464,7 @@ function EditionsPanel({
     })),
   })
 
-  const languages = [...new Set(translations.map((tr) => tr.language))]
+  const languages = [...new Set(translationsFor(i18n.language).map((tr) => tr.language))]
 
   function renderEdition(tr: Translation) {
     const selected = tr.code === translation
