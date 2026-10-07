@@ -183,11 +183,13 @@
             {
               "v": {
                 "en-US": "We adore You, O Christ, and we praise You,",
-                "pt-BR": "Nós Vos adoramos, ó Cristo, e Vos bendizemos,"
+                "pt-BR": "Nós Vos adoramos, ó Cristo, e Vos bendizemos,",
+                "la": "Adoramus te, Christe, et benedicimus tibi."
               },
               "r": {
                 "en-US": "Because by Your holy Cross You have redeemed the world.",
-                "pt-BR": "Porque pela Vossa santa Cruz remistes o mundo."
+                "pt-BR": "Porque pela Vossa santa Cruz remistes o mundo.",
+                "la": "Quia per sanctam Crucem tuam redemisti mundum."
               }
             }
           ]

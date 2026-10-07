@@ -13,41 +13,49 @@
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade."
+            "pt-BR": "Senhor, tende piedade.",
+            "la": "Kyrie, eleison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade."
+            "pt-BR": "Senhor, tende piedade.",
+            "la": "Kyrie, eleison."
           }
         },
         {
           "v": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade."
+            "pt-BR": "Cristo, tende piedade.",
+            "la": "Christe, eleison."
           },
           "r": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade."
+            "pt-BR": "Cristo, tende piedade.",
+            "la": "Christe, eleison."
           }
         },
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade."
+            "pt-BR": "Senhor, tende piedade.",
+            "la": "Kyrie, eleison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade."
+            "pt-BR": "Senhor, tende piedade.",
+            "la": "Kyrie, eleison."
           }
         },
         {
           "v": {
             "en-US": "Christ, hear us.",
-            "pt-BR": "Cristo, ouvi-nos."
+            "pt-BR": "Cristo, ouvi-nos.",
+            "la": "Christe, audi nos."
           },
           "r": {
             "en-US": "Christ, graciously hear us.",
-            "pt-BR": "Cristo, atendei-nos."
+            "pt-BR": "Cristo, atendei-nos.",
+            "la": "Christe, exaudi nos."
           }
         }
       ]
@@ -61,41 +69,49 @@
         {
           "v": {
             "en-US": "God the Father of Heaven,",
-            "pt-BR": "Deus Pai do Céu,"
+            "pt-BR": "Deus Pai do Céu,",
+            "la": "Pater de caelis, Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserere nobis."
           }
         },
         {
           "v": {
             "en-US": "God the Son, Redeemer of the world,",
-            "pt-BR": "Deus Filho, Redentor do mundo,"
+            "pt-BR": "Deus Filho, Redentor do mundo,",
+            "la": "Fili, Redemptor mundi, Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserere nobis."
           }
         },
         {
           "v": {
             "en-US": "God the Holy Spirit,",
-            "pt-BR": "Deus Espírito Santo,"
+            "pt-BR": "Deus Espírito Santo,",
+            "la": "Spiritus Sancte Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserere nobis."
           }
         },
         {
           "v": {
             "en-US": "Holy Trinity, one God,",
-            "pt-BR": "Santíssima Trindade, um só Deus,"
+            "pt-BR": "Santíssima Trindade, um só Deus,",
+            "la": "Sancta Trinitas, unus Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserere nobis."
           }
         }
       ]
@@ -109,331 +125,397 @@
         {
           "v": {
             "en-US": "Holy Mary,",
-            "pt-BR": "Santa Maria,"
+            "pt-BR": "Santa Maria,",
+            "la": "Sancta Maria,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph,",
-            "pt-BR": "São José,"
+            "pt-BR": "São José,",
+            "la": "Sancte Ioseph,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, renowned offspring of David,",
-            "pt-BR": "São José, ilustre descendente de David,"
+            "pt-BR": "São José, ilustre descendente de David,",
+            "la": "Proles David inclyta,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, light of patriarchs,",
-            "pt-BR": "São José, luz dos patriarcas,"
+            "pt-BR": "São José, luz dos patriarcas,",
+            "la": "Lumen Patriarcharum,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, spouse of the Mother of God,",
-            "pt-BR": "São José, esposo da Mãe de Deus,"
+            "pt-BR": "São José, esposo da Mãe de Deus,",
+            "la": "Dei Genetricis Sponse,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, chaste guardian of the Virgin,",
-            "pt-BR": "São José, casto guardião da Virgem,"
+            "pt-BR": "São José, casto guardião da Virgem,",
+            "la": "Custos pudice Virginis,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, foster-father of the Son of God,",
-            "pt-BR": "São José, pai adotivo do Filho de Deus,"
+            "pt-BR": "São José, pai adotivo do Filho de Deus,",
+            "la": "Filii Dei nutricie,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, diligent protector of Christ,",
-            "pt-BR": "São José, zeloso defensor de Cristo,"
+            "pt-BR": "São José, zeloso defensor de Cristo,",
+            "la": "Christi defensor sedule,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, Guardian of the Redeemer,",
-            "pt-BR": "São José, Guardião do Redentor,"
+            "pt-BR": "São José, Guardião do Redentor,",
+            "la": "Custos Redemptoris,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, Servant of Christ,",
-            "pt-BR": "São José, Servo de Cristo,"
+            "pt-BR": "São José, Servo de Cristo,",
+            "la": "Serve Christi,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, Minister of salvation,",
-            "pt-BR": "São José, Ministro da salvação,"
+            "pt-BR": "São José, Ministro da salvação,",
+            "la": "Minister salutis,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, head of the Holy Family,",
-            "pt-BR": "São José, chefe da Sagrada Família,"
+            "pt-BR": "São José, chefe da Sagrada Família,",
+            "la": "Almae Familiae praeses,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, most just,",
-            "pt-BR": "São José, justíssimo,"
+            "pt-BR": "São José, justíssimo,",
+            "la": "Ioseph iustissime,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, most chaste,",
-            "pt-BR": "São José, castíssimo,"
+            "pt-BR": "São José, castíssimo,",
+            "la": "Ioseph castissime,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, most prudent,",
-            "pt-BR": "São José, prudentíssimo,"
+            "pt-BR": "São José, prudentíssimo,",
+            "la": "Ioseph prudentissime,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, most courageous,",
-            "pt-BR": "São José, fortíssimo,"
+            "pt-BR": "São José, fortíssimo,",
+            "la": "Ioseph fortissime,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, most obedient,",
-            "pt-BR": "São José, obedientíssimo,"
+            "pt-BR": "São José, obedientíssimo,",
+            "la": "Ioseph oboedientissime,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, most faithful,",
-            "pt-BR": "São José, fidelíssimo,"
+            "pt-BR": "São José, fidelíssimo,",
+            "la": "Ioseph fidelissime,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, mirror of patience,",
-            "pt-BR": "São José, espelho de paciência,"
+            "pt-BR": "São José, espelho de paciência,",
+            "la": "Speculum patientiae,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, lover of poverty,",
-            "pt-BR": "São José, amante da pobreza,"
+            "pt-BR": "São José, amante da pobreza,",
+            "la": "Amator paupertatis,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, model of artisans,",
-            "pt-BR": "São José, modelo dos operários,"
+            "pt-BR": "São José, modelo dos operários,",
+            "la": "Exemplar opificum,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, glory of home life,",
-            "pt-BR": "São José, glória da vida doméstica,"
+            "pt-BR": "São José, glória da vida doméstica,",
+            "la": "Domesticae vitae decus,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, guardian of virgins,",
-            "pt-BR": "São José, guardião das virgens,"
+            "pt-BR": "São José, guardião das virgens,",
+            "la": "Custos virginum,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, pillar of families,",
-            "pt-BR": "São José, sustentáculo das famílias,"
+            "pt-BR": "São José, sustentáculo das famílias,",
+            "la": "Familiarum columen,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, Support in difficulties,",
-            "pt-BR": "São José, Amparo nas dificuldades,"
+            "pt-BR": "São José, Amparo nas dificuldades,",
+            "la": "Fulcimen in difficultatibus,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, solace of the wretched,",
-            "pt-BR": "São José, consólo dos desgraçados,"
+            "pt-BR": "São José, consólo dos desgraçados,",
+            "la": "Solatium miserorum,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, hope of the sick,",
-            "pt-BR": "São José, esperança dos enfermos,"
+            "pt-BR": "São José, esperança dos enfermos,",
+            "la": "Spes aegrotantium,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, patron of exiles,",
-            "pt-BR": "São José, patrono dos exilados,"
+            "pt-BR": "São José, patrono dos exilados,",
+            "la": "Patrone exsulum,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, patron of the afflicted,",
-            "pt-BR": "São José, patrono dos aflitos,"
+            "pt-BR": "São José, patrono dos aflitos,",
+            "la": "Patrone afflictorum,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, patron of the poor,",
-            "pt-BR": "São José, patrono dos pobres,"
+            "pt-BR": "São José, patrono dos pobres,",
+            "la": "Patrone pauperum,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, patron of the dying,",
-            "pt-BR": "São José, patrono dos moribundos,"
+            "pt-BR": "São José, patrono dos moribundos,",
+            "la": "Patrone morientium,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, terror of demons,",
-            "pt-BR": "São José, terror dos demônios,"
+            "pt-BR": "São José, terror dos demônios,",
+            "la": "Terror daemonum,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         },
         {
           "v": {
             "en-US": "St. Joseph, protector of Holy Church,",
-            "pt-BR": "São José, protetor da Santa Igreja,"
+            "pt-BR": "São José, protetor da Santa Igreja,",
+            "la": "Protector sanctae Ecclesiae,"
           },
           "r": {
             "en-US": "Pray for us.",
-            "pt-BR": "Rogai por nós."
+            "pt-BR": "Rogai por nós.",
+            "la": "Ora pro nobis."
           }
         }
       ]
@@ -447,31 +529,37 @@
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
-            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
+            "la": "Agnus Dei, qui tollis peccata mundi,"
           },
           "r": {
             "en-US": "Spare us, O Lord.",
-            "pt-BR": "Perdoai-nos, Senhor."
+            "pt-BR": "Perdoai-nos, Senhor.",
+            "la": "Parce nobis, Domine."
           }
         },
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
-            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
+            "la": "Agnus Dei, qui tollis peccata mundi,"
           },
           "r": {
             "en-US": "Graciously hear us, O Lord.",
-            "pt-BR": "Ouvi-nos, Senhor."
+            "pt-BR": "Ouvi-nos, Senhor.",
+            "la": "Exaudi nos, Domine."
           }
         },
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
-            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
+            "la": "Agnus Dei, qui tollis peccata mundi,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserere nobis."
           }
         }
       ]
@@ -485,11 +573,13 @@
         {
           "v": {
             "en-US": "He made him the lord of his household.",
-            "pt-BR": "Ele o constituiu senhor de sua casa."
+            "pt-BR": "Ele o constituiu senhor de sua casa.",
+            "la": "Constituit eum dominum domus suae."
           },
           "r": {
             "en-US": "And ruler of all his possessions.",
-            "pt-BR": "E príncipe de todos os seus bens."
+            "pt-BR": "E príncipe de todos os seus bens.",
+            "la": "Et principem omnis possessionis suae."
           }
         }
       ]
@@ -498,14 +588,16 @@
       "type": "rubric",
       "text": {
         "en-US": "Let us pray.",
-        "pt-BR": "Oremos."
+        "pt-BR": "Oremos.",
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "O God, who in Thine ineffable providence didst choose Blessed Joseph to be the spouse of Thy most holy Mother, grant, we beseech Thee, that we may be worthy to receive him for our intercessor in heaven, whom on earth we venerate as our protector. Who livest and reignest world without end. Amen.",
-        "pt-BR": "Ó Deus, que na Vossa inefável providência Vos dignastes escolher o Bem-aventurado José para esposo de Vossa Santíssima Mãe, concedei-nos, Vos suplicamos, que mereçamos tê-lo por intercessor no céu, a quem na terra veneramos como protetor. Que viveis e reinais pelos séculos dos séculos. Amém."
+        "pt-BR": "Ó Deus, que na Vossa inefável providência Vos dignastes escolher o Bem-aventurado José para esposo de Vossa Santíssima Mãe, concedei-nos, Vos suplicamos, que mereçamos tê-lo por intercessor no céu, a quem na terra veneramos como protetor. Que viveis e reinais pelos séculos dos séculos. Amém.",
+        "la": "Deus, qui in ineffabili providentia beatum Ioseph sanctissimae Genetricis tuae Sponsum eligere dignatus es, praesta, quaesumus, ut quem protectorem veneramur in terris, intercessorem habere mereamur in caelis: Qui vivis et regnas in saecula saeculorum. Amen."
       }
     }
   ]
