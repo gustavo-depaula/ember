@@ -1,6 +1,7 @@
 import { addDays, format } from 'date-fns'
 
 import type { DayCalendar, LocalizedText } from './calendar-types'
+import { type Transfers, universalTransfers } from './of-temporal'
 import {
   computeEaster,
   getAshWednesday,
@@ -133,6 +134,8 @@ export function getDayObligations(
   form: LiturgicalCalendarForm,
   jurisdiction: string | undefined,
   calendar: Map<string, DayCalendar>,
+  // Where the Ordinary Form's calendar keeps its movable solemnities.
+  transfers: Transfers = universalTransfers,
 ): DayObligations {
   const d = normalizeDate(date)
   const year = d.getFullYear()
@@ -141,7 +144,7 @@ export function getDayObligations(
   const goodFriday = addDays(easter, -2)
   const key = format(d, 'yyyy-MM-dd')
   const dayOfWeek = d.getDay() // 0=Sun, 5=Fri
-  const season = getLiturgicalSeason(d, form)
+  const season = getLiturgicalSeason(d, form, transfers)
   const rules = getRules(jurisdiction)
   const isFriday = dayOfWeek === 5
   const isLent = season === 'lent'

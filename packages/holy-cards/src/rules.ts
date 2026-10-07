@@ -88,12 +88,12 @@ export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
  * weekday card: Mass on two thirds of its weekdays, given with the Mass that
  * reaches them.
  */
-export const seasonRule: Rule = ({ acts, catalog }, since) => {
+export const seasonRule: Rule = ({ acts, calendar, catalog }, since) => {
   const masses = acts.filter((a) => a.kind === 'mass').map((a) => a.date)
   const attended = new Set(masses)
   const years = new Set(masses.filter((d) => d >= since).flatMap((d) => [yearOf(d) - 1, yearOf(d)]))
   return [...years]
-    .flatMap((year) => seasonsStartingIn(year).map((w) => ({ ...w, year })))
+    .flatMap((year) => seasonsStartingIn(year, calendar.transfers).map((w) => ({ ...w, year })))
     .filter((w) => w.end >= since)
     .flatMap((w): Grant[] => {
       const cards = catalog.seasons[w.season]

@@ -11,6 +11,7 @@ import {
   loadPracticeData,
   loadPracticeTracks,
 } from '@/content/resolver'
+import { transfersForContentLang } from '@/lib/missal/loaders'
 import { bootCorpus } from './corpus'
 import { type Locale, withLocale } from './locale'
 
@@ -97,6 +98,7 @@ export async function renderPractice(
 
     const context: FlowContext = {
       date: options.date,
+      ofTransfers: transfersForContentLang(locale),
       // Noon keeps hour-mapped selects (the Office's hour tabs) on a stable default.
       now: new Date(
         options.date.getFullYear(),

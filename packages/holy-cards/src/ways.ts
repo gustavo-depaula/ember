@@ -1,4 +1,4 @@
-import { celebrationsOn, everyRegion, sanctoralIds } from '@ember/missal'
+import { celebrationsOn, everyRegion, sanctoralIds, type Transfers } from '@ember/missal'
 import { addDays, eachDay, isSunday, toDate, yearOf } from './dates'
 import { celebrates } from './rules'
 import { feastDays, seasonsStartingIn } from './seasons'
@@ -75,10 +75,11 @@ function seasonWay(
   door: 'seasonSunday' | 'seasonWeekday',
   attended: Set<IsoDate>,
   today: IsoDate,
+  transfers: Transfers | undefined,
 ): Way | undefined {
   const year = yearOf(today)
   const windows = [year - 1, year, year + 1, year + 2]
-    .flatMap(seasonsStartingIn)
+    .flatMap((y) => seasonsStartingIn(y, transfers))
     .filter((w) => w.season === season && w.end >= today)
   for (const w of windows) {
     const all = eachDay(w.start, w.end)
@@ -152,11 +153,11 @@ export function waysToReceive(
     { sunday?: CardId; weekday?: CardId },
   ][]) {
     if (cards.sunday === card) {
-      const way = seasonWay(season, 'seasonSunday', attended, today)
+      const way = seasonWay(season, 'seasonSunday', attended, today, calendar.transfers)
       if (way) ways.push(way)
     }
     if (cards.weekday === card) {
-      const way = seasonWay(season, 'seasonWeekday', attended, today)
+      const way = seasonWay(season, 'seasonWeekday', attended, today, calendar.transfers)
       if (way) ways.push(way)
     }
   }

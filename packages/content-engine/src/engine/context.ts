@@ -1,4 +1,9 @@
-import type { LiturgicalCalendarForm, PsalmRef, ReadingReference } from '@ember/liturgical'
+import type {
+  LiturgicalCalendarForm,
+  PsalmRef,
+  ReadingReference,
+  Transfers,
+} from '@ember/liturgical'
 import { getLiturgicalSeason } from '@ember/liturgical'
 import { getDate, getDay } from 'date-fns'
 import type {
@@ -73,6 +78,9 @@ export type FlowContext = {
   now?: Date
   numbering?: string
   liturgicalCalendar?: LiturgicalCalendarForm
+  // Where the reader's Ordinary Form calendar keeps Epiphany, the Ascension
+  // and Corpus Christi; absent, the General Calendar's dates.
+  ofTransfers?: Transfers
   trackDefs?: Record<string, LectioTrackDef>
   trackState?: Record<string, { current_index: number }>
   cycleData?: Record<string, CycleData>
@@ -112,7 +120,7 @@ export function getContextValue(context: FlowContext, key: string): string | und
       return `${m}-${d}`
     }
     case 'liturgicalSeason':
-      return getLiturgicalSeason(context.date, context.liturgicalCalendar)
+      return getLiturgicalSeason(context.date, context.liturgicalCalendar, context.ofTransfers)
     default:
       return undefined
   }

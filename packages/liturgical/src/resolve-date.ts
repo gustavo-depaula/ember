@@ -3,22 +3,27 @@ import { addDays, startOfDay } from 'date-fns'
 import type { LiturgicalAnchor } from './calendar-types'
 import {
   ascensionOffset,
+  baptismOfTheLord,
   corpusChristiOffset,
   epiphany,
   holyFamily,
+  type Transfers,
   universalTransfers,
 } from './of-temporal'
 import {
   computeEaster,
   getAshWednesday,
-  getBaptismOfTheLord,
   getFirstSundayOfAdvent,
   getSeptuagesimaSunday,
 } from './season'
 
-// The dates of the General Calendar: Epiphany on 6 January, the Ascension and
-// Corpus Christi on their Thursdays.
-export function computeAnchors(year: number): Record<LiturgicalAnchor, Date> {
+// The year's anchor dates. Epiphany, the Baptism of the Lord, the Ascension
+// and Corpus Christi fall where `transfers` keeps them; without it, where the
+// General Calendar does.
+export function computeAnchors(
+  year: number,
+  transfers: Transfers = universalTransfers,
+): Record<LiturgicalAnchor, Date> {
   const easter = computeEaster(year)
   const ashWednesday = getAshWednesday(year)
   const advent1 = getFirstSundayOfAdvent(year)
@@ -26,9 +31,9 @@ export function computeAnchors(year: number): Record<LiturgicalAnchor, Date> {
   return {
     easter,
     pentecost: addDays(easter, 49),
-    ascension: addDays(easter, ascensionOffset(universalTransfers)),
+    ascension: addDays(easter, ascensionOffset(transfers)),
     trinity_sunday: addDays(easter, 56),
-    corpus_christi: addDays(easter, corpusChristiOffset(universalTransfers)),
+    corpus_christi: addDays(easter, corpusChristiOffset(transfers)),
     sacred_heart: addDays(easter, 68),
 
     advent_1: advent1,
@@ -55,7 +60,7 @@ export function computeAnchors(year: number): Record<LiturgicalAnchor, Date> {
     christ_the_king: addDays(advent1, -7),
     christmas: new Date(year, 11, 25),
     holy_family: startOfDay(holyFamily(year)),
-    epiphany: startOfDay(epiphany(year, universalTransfers)),
-    baptism_of_the_lord: getBaptismOfTheLord(year),
+    epiphany: startOfDay(epiphany(year, transfers)),
+    baptism_of_the_lord: startOfDay(baptismOfTheLord(year, transfers)),
   }
 }

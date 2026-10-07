@@ -5,7 +5,6 @@ import type { TFunction } from 'i18next'
 import { useTranslation } from 'react-i18next'
 import Svg, { Circle, Path } from 'react-native-svg'
 import { useTheme, View, XStack, YStack } from 'tamagui'
-
 import { AnimatedPressable } from '@/components'
 import { Typography } from '@/components/typography'
 import { getManifest } from '@/content/resolver'
@@ -14,6 +13,7 @@ import { traditionalStart } from '@/features/plan-of-life/program'
 import { practiceHref } from '@/features/practices/practiceHref'
 import { useToday } from '@/hooks/useToday'
 import i18n, { localizeContent } from '@/lib/i18n'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 import { howWon } from '../redeem/envelopeText'
 
 type Glyph = 'chalice' | 'beads' | 'candles' | 'book'
@@ -81,6 +81,7 @@ function WayRow({ way }: { way: Exclude<Way, { door: 'novena' }> }) {
 /** A novena: the day reached when under way, or when it next begins; a tap opens it. */
 function NovenaRow({ novena }: { novena: string }) {
   const { t } = useTranslation()
+  const transfers = useOfTransfers()
   const router = useRouter()
   const today = useToday()
   const manifest = getManifest(novena)
@@ -91,7 +92,7 @@ function NovenaRow({ novena }: { novena: string }) {
   const underWay = progress && !progress.isComplete && progress.completionCount > 0
   const when = (() => {
     if (underWay) return t('saints.receive.novenaDay', { day: progress.completionCount, total })
-    const start = traditionalStart(manifest.program, today)
+    const start = traditionalStart(manifest.program, today, transfers)
     if (start) return t('saints.receive.novenaBegins', { date: dayAndDistance(start, today, t) })
     // Its traditional days are under way: begun now, it still gives the card.
     if (manifest.program.ends) {

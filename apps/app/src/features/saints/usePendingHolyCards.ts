@@ -17,6 +17,7 @@ import { getPreference, recordHolyCardCopy, setPreference } from '@/db/repositor
 import { useCompletionRange } from '@/features/plan-of-life/completion'
 import { getToday, useToday } from '@/hooks/useToday'
 import { loadMissalCalendar } from '@/lib/missal/loaders'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 import { liturgicalActs, novenaActs } from './acts'
 import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
@@ -90,6 +91,7 @@ export function usePendingHolyCards(): Grant[] | undefined {
   const day = useToday()
   const today = format(day, 'yyyy-MM-dd')
   const holyCards = useHolyCardCatalog()
+  const transfers = useOfTransfers()
   const { data: statics } = useQuery({
     queryKey: ['missal-calendar'],
     queryFn: async () => (await loadMissalCalendar()) ?? null,
@@ -100,7 +102,7 @@ export function usePendingHolyCards(): Grant[] | undefined {
     queryFn: holyCardsSince,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  const start = useMemo(() => historyStart(today), [today])
+  const start = useMemo(() => historyStart(today, transfers), [today, transfers])
   const completions = useCompletionRange(start, today)
   const copies = useEventStore((s) => s.holyCards)
   const plan = useEventStore(
@@ -129,13 +131,13 @@ export function usePendingHolyCards(): Grant[] | undefined {
     return pendingCards({
       acts,
       occurrences: [],
-      calendar: { statics },
+      calendar: { statics, transfers },
       catalog,
       firstOpened: since,
       copies: [...copies.values()],
       today,
     })
-  }, [statics, catalog, since, acts, copies, today])
+  }, [statics, transfers, catalog, since, acts, copies, today])
 }
 
 /** Redeem an envelope: store its copy for good. `card` is the pick when it offers a choice. */

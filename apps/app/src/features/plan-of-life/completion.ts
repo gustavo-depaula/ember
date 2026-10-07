@@ -13,8 +13,10 @@ import {
 } from '@/db/repositories'
 import type { Completion, CompletionVia } from '@/db/schema'
 import { getLiturgicalSeason } from '@/lib/liturgical'
+import { transfersForContentLang } from '@/lib/missal/loaders'
 import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
 
+import { usePreferencesStore } from '@/stores/preferencesStore'
 import { parseSchedule } from './schedule'
 import { filterSlotsForDate } from './utils'
 
@@ -50,7 +52,8 @@ function planPracticeFor(prayedId: string, state: PlanState): string | undefined
 // The day's calendar isn't to hand here, so a holy-days-of-obligation slot
 // never reads as due; the season is, and keeps a Lent-only slot to Lent.
 function slotsDueOn(slots: SlotState[], date: string): SlotState[] {
-  const season = getLiturgicalSeason(new Date(`${date}T00:00:00`))
+  const transfers = transfersForContentLang(usePreferencesStore.getState().contentLanguage)
+  const season = getLiturgicalSeason(new Date(`${date}T00:00:00`), 'of', transfers)
   return filterSlotsForDate(slots, date, { season })
 }
 

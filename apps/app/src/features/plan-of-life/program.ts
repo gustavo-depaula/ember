@@ -1,4 +1,4 @@
-import { computeAnchors } from '@ember/liturgical'
+import { computeAnchors, type Transfers } from '@ember/liturgical'
 import { addDays, differenceInCalendarDays, format, parseISO, startOfDay } from 'date-fns'
 
 import type { ProgramConfig } from '@/content/manifestTypes'
@@ -286,7 +286,12 @@ export function selectEnrollmentSchedule(
  * next. Undefined for a program tied to no date, and while its days are under
  * way: joined then, it's begun today, not a year from now.
  */
-export function traditionalStart(program: ProgramConfig, today: Date): string | undefined {
+export function traditionalStart(
+  program: ProgramConfig,
+  today: Date,
+  // Where the reader's calendar keeps the feast the program leads up to.
+  transfers?: Transfers,
+): string | undefined {
   const { ends } = program
   if (!ends) return undefined
   const todayStr = format(today, 'yyyy-MM-dd')
@@ -297,7 +302,7 @@ export function traditionalStart(program: ProgramConfig, today: Date): string | 
     const end =
       typeof ends === 'string'
         ? new Date(y, Number(ends.slice(0, 2)) - 1, Number(ends.slice(3)))
-        : addDays(computeAnchors(y)[ends.anchor], ends.offset)
+        : addDays(computeAnchors(y, transfers)[ends.anchor], ends.offset)
     if (format(end, 'yyyy-MM-dd') < todayStr) continue
     const start = format(addDays(end, 1 - program.totalDays), 'yyyy-MM-dd')
     return start >= todayStr ? start : undefined

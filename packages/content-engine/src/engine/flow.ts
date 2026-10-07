@@ -72,7 +72,7 @@ function runResolveStrategy(
 
   // FIXME: fix at the root cause in FlowContext
   const form = step.calendar || (context.liturgicalCalendar as 'ef' | 'of') || ('ef' as const)
-  const liturgicalLabel = getLiturgicalDayName(context.date, form, { t: ec.t })
+  const liturgicalLabel = getLiturgicalDayName(context.date, form, { t: ec.t }, context.ofTransfers)
 
   return { entries, templateVars: { liturgicalLabel } }
 }
@@ -135,6 +135,7 @@ function buildSourceContext(context: FlowContext, ec: EngineContext): SourceCont
     localize: ec.localize,
     t: ec.t,
     now: () => context.date,
+    ofTransfers: context.ofTransfers,
   }
 }
 

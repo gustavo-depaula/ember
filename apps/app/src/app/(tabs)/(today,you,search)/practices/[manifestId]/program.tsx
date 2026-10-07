@@ -6,7 +6,6 @@ import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform, Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-
 import { AnimatedPressable, confirm, PrayerSpinner, ScreenLayout, Typography } from '@/components'
 import { loadChapterSource } from '@/content/books'
 import type { TocNode } from '@/content/manifestTypes'
@@ -35,6 +34,7 @@ import { PracticePlanEditor, usePracticePlan } from '@/features/practices/compon
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized, getDateLocale } from '@/lib/i18n/dateLocale'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 // A feast this near is what the novena is being joined for, so it waits for
 // its own date; further off, it's taken as begun today.
@@ -160,6 +160,7 @@ function roman(n: number): string {
  */
 export default function ProgramDetailScreen() {
   const { t, i18n } = useTranslation()
+  const transfers = useOfTransfers()
   const { manifestId, from } = useLocalSearchParams<{ manifestId: string; from?: string }>()
   const router = useRouter()
   const theme = useTheme()
@@ -235,7 +236,7 @@ export default function ProgramDetailScreen() {
     const dated =
       selectEnrollmentSchedule(program.progressPolicy, defaultSchedule, count, todayStr).type ===
       'fixed-program'
-    const traditional = dated ? traditionalStart(program, today) : undefined
+    const traditional = dated ? traditionalStart(program, today, transfers) : undefined
     const near =
       !!traditional && differenceInCalendarDays(parseISO(traditional), today) <= joinsAheadDays
     const start = pickedStart ?? (near && traditional ? traditional : todayStr)

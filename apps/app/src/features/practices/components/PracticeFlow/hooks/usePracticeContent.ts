@@ -6,6 +6,7 @@ import type { Primitive } from '@/content/primitives'
 import type { RenderedSection } from '@/content/types'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bibleTranslations'
+import { transfersForContentLang } from '@/lib/missal/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { usePractice } from './usePractice'
 import { usePracticeTracks } from './usePracticeTracks'
@@ -67,6 +68,7 @@ export function usePracticeContent(
       const context: FlowContext = {
         date: now,
         now: new Date(),
+        ofTransfers: transfersForContentLang(contentLanguage),
         numbering,
         trackDefs,
         trackState,

@@ -46,7 +46,7 @@ export const liturgicalDaySource: DataSource = {
       category: e.category,
     }))
 
-    const liturgicalLabel = getLiturgicalDayName(date, form, { t: ctx.t })
+    const liturgicalLabel = getLiturgicalDayName(date, form, { t: ctx.t }, ctx.ofTransfers)
 
     return { liturgicalLabel, alternatives }
   },

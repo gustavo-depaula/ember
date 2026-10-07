@@ -132,7 +132,13 @@ export async function loadOfDay(date: Date, locale: Locale): Promise<OfDayView> 
       const citation = readingOf(plan?.parts[part]?.[0]?.items ?? [], lang).citation
       return citation ? [{ slot, citation }] : []
     }
-    const obligations = getDayObligations(date, 'of', locale === 'pt-BR' ? 'BR' : 'US', calendar)
+    const obligations = getDayObligations(
+      date,
+      'of',
+      locale === 'pt-BR' ? 'BR' : 'US',
+      calendar,
+      transfers,
+    )
     return {
       date,
       dayName,

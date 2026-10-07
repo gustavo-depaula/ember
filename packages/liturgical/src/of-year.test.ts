@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { getLiturgicalDayName } from './dayName'
 import { addDays, type Transfers, temporalDay, universalTransfers } from './of-temporal'
+import { computeAnchors } from './resolve-date'
 import { getLiturgicalSeason } from './season'
 
 // Names a week by its bare number and a named day by its key, so the checks
@@ -67,5 +68,22 @@ describe('Ordinary Form seasons', () => {
     // 2024: Epiphany on Sunday 7 January where it is moved, the Baptism on Monday 8.
     expect(getLiturgicalSeason(on(2024, 1, 8), 'of', sunday)).toBe('christmas')
     expect(getLiturgicalSeason(on(2024, 1, 8), 'of', universalTransfers)).toBe('ordinary')
+  })
+})
+
+describe('anchor dates', () => {
+  const iso = (d: Date) => `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`
+
+  it('fall where the General Calendar keeps them by default', () => {
+    const a = computeAnchors(2024)
+    expect([iso(a.epiphany), iso(a.baptism_of_the_lord)]).toEqual(['2024-1-6', '2024-1-7'])
+    expect([iso(a.ascension), iso(a.corpus_christi)]).toEqual(['2024-5-9', '2024-5-30'])
+  })
+
+  it('follow the region that moves them to a Sunday', () => {
+    const a = computeAnchors(2024, sunday)
+    // Epiphany on Sunday 7 January, so the Baptism of the Lord on Monday 8.
+    expect([iso(a.epiphany), iso(a.baptism_of_the_lord)]).toEqual(['2024-1-7', '2024-1-8'])
+    expect([iso(a.ascension), iso(a.corpus_christi)]).toEqual(['2024-5-12', '2024-6-2'])
   })
 })
