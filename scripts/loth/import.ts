@@ -1,26 +1,27 @@
-// Builds `content/loth/` from the archive's dumps (see ../README.md).
+// Builds `content/loth/` and the tests' reference from the archive's dumps
+// (`dump.py`). The method is in research/liturgia-das-horas/README.md.
 //
-//   npx tsx research/liturgia-das-horas/src/import.ts <dumps dir> [--check]
+//   npx tsx scripts/loth/import.ts <dumps dir> [--check | --slots | --holdout <year>]
 
 import { createHash } from 'node:crypto'
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import type { LothCalendar } from '../../../packages/loth/src/day'
+import type { LothCalendar } from '../../packages/loth/src/day'
 import {
   type HourIndex,
   invitatoryPsalms,
   lookup,
   type OfficeKey,
   officeKey,
-} from '../../../packages/loth/src/index-types'
-import { type Hour, hours, officeOf } from '../../../packages/loth/src/office'
-import type { Block } from '../../../packages/loth/src/text'
+} from '../../packages/loth/src/index-types'
+import { type Hour, hours, officeOf } from '../../packages/loth/src/office'
+import type { Block } from '../../packages/loth/src/text'
 import { buildLayers, type Observation } from './layers'
 import { normalize } from './normalize'
 import { slotsOf } from './slots'
 
 const dumps = process.argv[2]
-const root = join(__dirname, '../../..')
+const root = join(__dirname, '../..')
 const out = join(root, 'content/loth')
 
 const theirHour: Record<Hour, string> = {
@@ -188,9 +189,16 @@ function orderOf(sequences: string[][]): string[] {
   return order
 }
 
+// `--holdout <year>` files only the days before that year and then asks for
+// the days from it on that were never met: how well the layers foretell.
+const holdout = process.argv.includes('--holdout')
+  ? process.argv[process.argv.indexOf('--holdout') + 1]
+  : undefined
+
 const indexes = new Map<Hour, HourIndex>()
 for (const hour of hours) {
-  const list = [...(observed.get(hour)?.values() ?? [])]
+  const all = [...(observed.get(hour)?.values() ?? [])]
+  const list = holdout ? all.filter((o) => o.date < holdout) : all
   // The few hours laid out unlike any other (the Easter Vigil's readings) are
   // kept whole, as one part, rather than bend the order of all the rest.
   const uses = new Map<string, { sequence: string[]; texts: Set<string>; count: number }>()
@@ -235,6 +243,27 @@ for (const hour of hours) {
     const got = order.map((slot) => lookup(slots[slot], key)).filter(Boolean).join(' ')
     if (got !== cut.map(([, part]) => part).join(' ') && wrong++ < 3) console.log('  WRONG', hour, date)
   }
+  if (holdout) {
+    const unseen = all.filter((o) => o.date >= holdout)
+    let same = 0
+    let sameWords = 0
+    const letters = (ids: string[]) =>
+      ids
+        .flatMap((id) => (parts.get(id) as Block[]).map((b) => b.lines.map((l) => l.map((x) => (typeof x === 'string' ? x : x.t)).join('')).join('')))
+        .join('')
+        .replace(/[^\p{L}\p{N}]/gu, '')
+        .toLowerCase()
+    const misses: string[] = []
+    for (const { key, text, date } of unseen) {
+      const want = (textParts.get(text) as [string, string][]).map(([, part]) => part)
+      const got = order.map((slot) => lookup(slots[slot], key)).filter((p): p is string => Boolean(p))
+      if (got.join(' ') === want.join(' ')) same++
+      else if (letters(got) === letters(want)) sameWords++
+      else misses.push(`${date} ${key.C}`)
+    }
+    console.log(`  holdout ${hour}: ${unseen.length} unmet keys, ${same} exact, ${sameWords} same words, ${misses.length} differ  ${misses.slice(0, 6).join(', ')}`)
+    continue
+  }
   if (process.argv.includes('--slots')) {
     for (const [slot, layers] of Object.entries(slots)) {
       console.log(`   ${slot}: ` + layers.map((l) => `${l.fields.join('') || '-'}:${Object.keys(l.entries).length}`).join(' '))
@@ -253,7 +282,7 @@ for (const hour of hours) {
   )
 }
 
-if (process.argv.includes('--check')) process.exit(0)
+if (process.argv.includes('--check') || holdout) process.exit(0)
 
 // ---- write -----------------------------------------------------------------
 
@@ -358,7 +387,8 @@ for (const line of readFileSync(join(dumps, 'textos.jsonl'), 'utf8').split('\n')
 const none = Buffer.from([0, 0, 0])
 const own: Buffer[] = []
 const other: Buffer[] = []
-const slug: Record<string, string> = JSON.parse(readFileSync(join(dumps, 'slug.json'), 'utf8'))
+// The archive's name for each celebration -> the corpus's id.
+const slug: Record<string, string> = JSON.parse(readFileSync(join(__dirname, 'their-ids.json'), 'utf8'))
 const referenceDays: string[] = []
 for (const day of days) {
   for (const hour of hours) {

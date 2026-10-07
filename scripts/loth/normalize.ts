@@ -2,7 +2,7 @@
 // already: its tags say how a run looks, and its classes mark what is a
 // rubric and what is a title. Structure is read from those two alone.
 
-import type { Block, Line, Mark, Seg } from '../../../packages/loth/src/text'
+import type { Block, Line, Mark, Seg } from '../../packages/loth/src/text'
 
 interface Style {
   rubric?: boolean

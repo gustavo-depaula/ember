@@ -3,7 +3,6 @@ import { addDays } from '@ember/liturgical'
 import { describe, expect, it } from 'vitest'
 import { lothDay } from '../day'
 import { assembleHour, formsOf, type HourPart } from '../hour'
-import type { Form } from '../index-types'
 import { type Hour, officeOf } from '../office'
 import { blockText } from '../text'
 import { calendar, corpus, on } from './corpus'
@@ -67,12 +66,12 @@ describe('every hour against the reference, 2020-2040', () => {
         // saint's antiphon, where every other hour opens with the weekday.
         const first: Form = hour === 'invitatory' && forms.length > 1 ? 'celebration' : forms[0]
         const second = forms.find((form) => form !== first)
-        const expected: [Form | undefined, string][] = [
+        const expected = [
           [first, at(own, i, h)],
           [second, at(other, i, h)],
-        ]
+        ] as const
         for (const [form, want] of expected) {
-          if (!form || want === '000000') continue
+          if (want === '000000') continue
           checked++
           const got = hash(await assembleHour(office, form, corpus))
           if (got !== want) differences.push(`${date.toDateString()} ${form}`)

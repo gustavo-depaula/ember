@@ -27,6 +27,7 @@ export type CatalogItemKind =
   | 'loth-index'
   | 'loth-parts'
   | 'loth-extras'
+  | 'loth-library'
   | 'do-data'
   | 'collection'
   | 'plan-of-life-template'

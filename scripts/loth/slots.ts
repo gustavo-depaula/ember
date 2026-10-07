@@ -2,8 +2,8 @@
 // the book itself prints ("Hino", "Ant. 1", "Leitura breve"), so the same
 // psalm or the same antiphon is the same part wherever it is prayed.
 
-import type { Block, Line } from '../../../packages/loth/src/text'
-import { lineText } from '../../../packages/loth/src/text'
+import type { Block, Line } from '../../packages/loth/src/text'
+import { lineText } from '../../packages/loth/src/text'
 
 export interface Part {
   slot: string

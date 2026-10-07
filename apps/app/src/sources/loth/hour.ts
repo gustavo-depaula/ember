@@ -6,6 +6,7 @@ import {
   formsOf,
   type Hour,
   type InvitatoryPsalm,
+  isVerified,
   type LothSource,
   type Office,
   officeOf,
@@ -50,13 +51,11 @@ function formLabel(office: Office, form: Form): string {
 
 async function invitatory(
   date: Date,
-  form: Form,
   source: LothSource,
   ctx: RenderContext,
 ): Promise<Primitive[]> {
   const office = officeOf(date, 'invitatory', await source.calendar())
-  const forms = formsOf(office)
-  const own = forms.includes(form) ? form : forms[0]
+  const [own] = formsOf(office)
   const options = await Promise.all(
     invitatoryPsalms.map(async ([psalm, label]) => ({
       id: psalm,
@@ -88,11 +87,22 @@ export async function lothHour(date: Date, hour: Hour, source: LothSource): Prom
         id: form,
         label: { primary: formLabel(office, form) },
         children: [
-          ...(opensTheDay.has(hour) ? await invitatory(date, form, source, ctx) : []),
+          ...(opensTheDay.has(hour) ? await invitatory(date, source, ctx) : []),
           ...renderParts(parts, ctx),
         ],
       }
     }),
   )
-  return select('Ofício', 'loth.office', options)
+  const prayed = select('Ofício', 'loth.office', options)
+  if (isVerified(date)) return prayed
+  return [
+    {
+      type: 'rubric',
+      text: {
+        primary:
+          'Este ofício foi montado para uma data fora dos anos conferidos com o breviário (2020–2040); confira-o com o livro.',
+      },
+    },
+    ...prayed,
+  ]
 }

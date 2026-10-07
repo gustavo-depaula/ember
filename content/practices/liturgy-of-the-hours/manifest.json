@@ -13,7 +13,7 @@
   "estimatedMinutes": 15,
   "description": {
     "en-US": "The official daily prayer of the Church, with today's texts for all seven canonical hours — from the Office of Readings to Compline — provided by iBreviary.",
-    "pt-BR": "A oração diária oficial da Igreja, com os textos do dia para as sete horas canónicas — do Ofício das Leituras às Completas — fornecidos pelo iBreviary."
+    "pt-BR": "A oração diária oficial da Igreja, com os textos do dia para as sete horas canônicas — do Ofício das Leituras às Completas — na edição brasileira da Liturgia das Horas."
   },
   "history": {
     "en-US": "The Liturgy of the Hours is the public, daily prayer of the Church, sanctifying the whole course of the day and night with psalms, hymns, readings, and intercessions. Rooted in the Jewish hours of prayer kept by the apostles, it grew through the cathedral and monastic traditions into the Divine Office, and was renewed after the Second Vatican Council so that clergy, religious, and laity alike could pray with the whole Church. Praying even one hour joins your voice to the unceasing praise the Church offers around the world.",
@@ -21,7 +21,7 @@
   },
   "howToPray": {
     "en-US": "Choose the hour that matches the moment of your day — Office of Readings at any time, Lauds in the morning, Terce, Sext, or None through the day, Vespers in the evening, Compline before sleep. The texts are fetched fresh each day from iBreviary and follow the liturgical calendar. Pray slowly, pausing at the asterisk in each psalm verse.",
-    "pt-BR": "Escolha a hora que corresponde ao momento do seu dia — Ofício das Leituras a qualquer hora, Laudes de manhã, Tércia, Sexta ou Noa ao longo do dia, Vésperas ao entardecer, Completas antes de dormir. Os textos são obtidos diariamente do iBreviary e seguem o calendário litúrgico. Reze devagar, fazendo pausa no asterisco de cada versículo dos salmos."
+    "pt-BR": "Escolha a hora que corresponde ao momento do seu dia — Ofício das Leituras a qualquer hora, Laudes de manhã, Tércia, Sexta ou Noa ao longo do dia, Vésperas ao entardecer, Completas antes de dormir. O Invitatório abre a primeira hora do dia: está recolhido no início do Ofício das Leituras e das Laudes. Numa memória, escolha entre o ofício do tempo e o do santo. Os textos seguem o calendário litúrgico do Brasil e estão no aparelho, sem precisar de rede. Reze devagar, fazendo pausa no asterisco de cada versículo dos salmos."
   },
   "flowMode": "scroll",
   "completion": "flow-end",

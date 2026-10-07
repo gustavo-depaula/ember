@@ -165,6 +165,11 @@ function renderBlock(block: Block, ctx: RenderContext, out: Primitive[], depth: 
         // The second line of an antiphon or of a response.
         const item = open.items[open.items.length - 1]
         item.text.primary += `\n${pointed(shown)}`
+      } else if (/^[_\s]{5,}$/.test(lineText(shown))) {
+        // A ruled line typed out in the source.
+        out.push({ type: 'divider' })
+        open = undefined
+        runsOn = undefined
       } else {
         const text = kind === 'styled' ? markdown(shown) : pointed(shown)
         const markup = kind === 'styled' ? undefined : ('do' as const)

@@ -21,6 +21,17 @@ export interface LothSource {
   extras: () => Promise<Record<string, Block[]>>
 }
 
+// The years every hour was checked against the breviary the corpus was drawn
+// from (`__tests__/reference.json`). Outside them an hour is still put together
+// from layers that were each checked, but a day of a kind those years never
+// had may read differently from the book.
+export const verified = { from: '2020-01-01', to: '2040-12-31' } as const
+
+export function isVerified(date: Date): boolean {
+  const iso = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`
+  return iso >= verified.from && iso <= verified.to
+}
+
 export interface HourPart {
   // 'hymn', 'psalm-2', 'ant-2', 'reading', 'canticle', 'prayer'… A slot met a
   // second time in one hour is numbered: 'prayer~2'.
@@ -28,15 +39,19 @@ export interface HourPart {
   blocks: Block[]
 }
 
+// The hours a memorial changes: the others are the weekday's either way.
+const hoursOfAMemorial = new Set<Hour>(['readings', 'lauds', 'vespers'])
+
 /**
  * The offices an hour may be prayed in, the one the book gives first. A
- * memorial is the saint's office or the season's weekday; an optional one
- * leaves the weekday first.
+ * memorial is the saint's office or the season's weekday, and an optional one
+ * leaves the weekday first. The Invitatory is always the saint's.
  */
 export function formsOf(office: Office): Form[] {
   const c = office.celebration
   if (!c) return ['season']
-  if (c.rank !== 'memorial') return ['celebration']
+  if (c.rank !== 'memorial' || office.hour === 'invitatory') return ['celebration']
+  if (!hoursOfAMemorial.has(office.hour)) return [c.obligatory ? 'celebration' : 'season']
   return c.obligatory ? ['celebration', 'season'] : ['season', 'celebration']
 }
 

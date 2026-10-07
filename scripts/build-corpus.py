@@ -1011,12 +1011,15 @@ def build_loth(b: Builder) -> None:
       loth-index/<hour>    where each part of an hour is found, by day
       loth-parts/<bundle>  the parts themselves, some dozens to a bundle
       loth-extras          the complementary texts the hours link to
+      loth-library/<id>    the psalter by psalm, and the offices, prayers and
+                           rites opened by name rather than by date
     """
     src = CONTENT / "loth"
     if not src.is_dir():
         return
 
-    for folder, kind in (("index", "loth-index"), ("parts", "loth-parts")):
+    folders = (("index", "loth-index"), ("parts", "loth-parts"), ("library", "loth-library"))
+    for folder, kind in folders:
         for f in sorted((src / folder).glob("*.json")):
             with f.open(encoding="utf-8") as fh:
                 data = json.load(fh)

@@ -195,6 +195,14 @@ describe('the Liturgy of the Hours in Brazilian Portuguese', () => {
   }, 120_000)
 })
 
+describe('outside the years checked against the breviary', () => {
+  it('says so before the hour', async () => {
+    const [first] = await hourOn('2043-05-05', 'lauds')
+    expect(first).toMatchObject({ type: 'rubric' })
+    expect((await hourOn('2026-05-05', 'lauds'))[0].type).not.toBe('rubric')
+  })
+})
+
 describe('in any other language', () => {
   it('hands the hour to the other source', async () => {
     expect(await hourOn('2026-10-08', 'lauds', 'en-US')).toEqual([
