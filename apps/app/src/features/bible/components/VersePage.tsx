@@ -224,6 +224,7 @@ export function VersePage({
                 </Typography>
                 <CitedSections
                   work={t('bible.church.catechismName')}
+                  language={i18n.language === 'pt-BR' ? 'pt-BR' : 'en-US'}
                   sections={cited.ccc.map((n) => ({ id: String(n), n: String(n) }))}
                   // vatican.va has the Catechism in both of the app's languages.
                   load={async ({ n }) =>
@@ -254,6 +255,8 @@ export function VersePage({
                         id: `${file}#${anchor}`,
                         n,
                       }))}
+                      // Clerus holds these documents in Portuguese.
+                      language="pt-BR"
                       load={({ id }) => {
                         const [file, anchor] = id.split('#')
                         return fetchClerusPlace(file, anchor)

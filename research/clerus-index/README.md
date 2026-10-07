@@ -53,7 +53,7 @@ Samples drawn at random and checked by hand-reading (by Sonnet subagents, each i
 | --- | ---: | --- |
 | Homilies → the corpus's books | 48 | 44 right. Clerus's homily numbers are the corpus's for every series checked. The misses: one off by one in Acts (Clerus's own); two in On the Sermon on the Mount, since fixed by taking the book from the chapter; one where the corpus's text of Augustine's tenth homily on 1 John is cut short. |
 | Catechism, as Clerus indexes it | 40 | **19 right, 21 wrong.** Clerus prints a section's footnotes after the section's last paragraph and credits them all to it. The paragraph numbers are real; the attributions are not. |
-| Catechism, rebuilt from its footnotes | 40 | See the note below the table. |
+| Catechism, rebuilt from its footnotes | 40 | **40 right.** Each was checked against the paragraph's own footnote marks in the English Catechism, Psalms renumbered. It tests that a paragraph cites a verse inside the passage, not that the slice has every citation. |
 | Councils and popes | 30 | See the note below the table. |
 
 The Catechism slice was rebuilt: `catechism()` in the script reads the Catechism's pages, and takes each footnote back to the paragraph that calls it. Fourteen of fifteen corrections the first check named are in the rebuilt slice, and none of the wrong attributions it named.

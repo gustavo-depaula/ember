@@ -1,10 +1,12 @@
 import { useQuery } from '@tanstack/react-query'
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { XStack, YStack } from 'tamagui'
 
 import { PrayerSpinner, Typography } from '@/components'
+import { ReadingParagraph } from '@/components/ReadingParagraph'
+import type { StyledSegment } from '@/lib/typography/justifyText'
 
 /** A numbered section of a document: `id` tells them apart, `n` is what is shown. */
 export type CitedSection = { id: string; n: string }
@@ -18,11 +20,14 @@ export function CitedSections({
   work,
   sections,
   load,
+  language,
 }: {
   /** The document's name, which also heads the text once a section is open. */
   work: string
   sections: CitedSection[]
   load: (section: CitedSection) => Promise<string[]>
+  /** The language the text comes in, when it is not the reader's. */
+  language?: string
 }) {
   const { t } = useTranslation()
   const [open, setOpen] = useState<CitedSection>()
@@ -36,6 +41,14 @@ export function CitedSections({
     enabled: open !== undefined,
     staleTime: Number.POSITIVE_INFINITY,
   })
+
+  // Kept across renders: the line breaker's work is remembered by the
+  // identity of what it was given.
+  const sources = useMemo(
+    () =>
+      paragraphs?.map((p): StyledSegment[] => [{ text: p.replace(/\n/g, ' '), style: 'regular' }]),
+    [paragraphs],
+  )
 
   return (
     <YStack gap="$sm">
@@ -71,10 +84,12 @@ export function CitedSections({
           {error || paragraphs?.length === 0 ? (
             <Typography variant="annotation">{t('common.couldntLoad')}</Typography>
           ) : undefined}
-          {paragraphs?.map((paragraph) => (
-            <Typography key={paragraph.slice(0, 40)} fontSize="$3" lineHeight="$3" selectable>
-              {paragraph}
-            </Typography>
+          {sources?.map((source) => (
+            <ReadingParagraph
+              key={source[0].text.slice(0, 40)}
+              source={source}
+              language={language}
+            />
           ))}
         </YStack>
       )}
