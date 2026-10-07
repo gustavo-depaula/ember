@@ -67,6 +67,11 @@ function kindOf(block: Block, item: Item): Kind {
   if (block.k === 'hr') return 'divider'
   if (block.k === 'h1' || block.k === 'h2') return 'heading'
   if (block.k !== 'p' || block.role === 'title') return 'label'
+  // The people's acclamations set inside a prayer: the Brazilian Missal's
+  // "Enviai o vosso Espírito Santo!" and the like in the Eucharistic Prayers.
+  if (block.lines.length > 0 && block.lines.every((line) => voiceOf(line) === 'people')) {
+    return 'response'
+  }
   const first = block.lines[0]?.[0]
   if (first && typeof first !== 'string' && first.m === 'rubric') {
     if (responseMark.test(first.t)) return 'response'
@@ -125,11 +130,52 @@ function emit(kind: Kind, text: BilingualText, out: Primitive[]) {
   else out.push({ type: 'text', text, ...(kind === 'italic' ? { style: 'italic' as const } : {}) })
 }
 
+type Voice = 'people' | 'rubric' | 'text'
+
+const isMarked = (seg: Seg, mark: string) => typeof seg !== 'string' && seg.m === mark
+
+function voiceOf(line: Line): Voice {
+  if (line.length > 0 && line.every((seg) => isMarked(seg, 'people'))) return 'people'
+  if (line.length > 0 && line.every((seg) => isMarked(seg, 'rubric'))) return 'rubric'
+  return 'text'
+}
+
+// A line that runs the people's words into a rubric is two lines.
+function splitVoices(line: Line): Line[] {
+  if (!line.some((seg) => isMarked(seg, 'people')) || voiceOf(line) === 'people') return [line]
+  const lines: Line[] = []
+  for (const seg of line) {
+    const last = lines[lines.length - 1]
+    if (last && isMarked(last[0], 'people') === isMarked(seg, 'people')) last.push(seg)
+    else lines.push([seg])
+  }
+  return lines
+}
+
+// An acclamation of the people that closes a prayer, and the rubric that
+// introduces it, are set inside the prayer's own paragraph upstream. Each is
+// given a paragraph of its own, so the acclamation reads as the people's.
+function splitAcclamations(blocks: Block[]): Block[] {
+  return blocks.flatMap((block) => {
+    const lines = block.lines.flatMap(splitVoices)
+    if (block.k !== 'p' || !lines.some((line) => voiceOf(line) === 'people')) return [block]
+    const runs: Block[] = []
+    for (const line of lines) {
+      const last = runs[runs.length - 1]
+      if (last && voiceOf(last.lines[0]) === voiceOf(line)) last.lines.push(line)
+      else runs.push({ ...block, lines: [line] })
+    }
+    return runs
+  })
+}
+
 /** One corpus item as primitives, the secondary language paired block by block where it lines up. */
 export function renderItem(item: Item, ctx: RenderContext, out: Primitive[] = []): Primitive[] {
-  const primary = forDay(blocksIn(item, ctx.lang.primary) ?? fallbackBlocks(item), ctx.conditions)
+  const primary = splitAcclamations(
+    forDay(blocksIn(item, ctx.lang.primary) ?? fallbackBlocks(item), ctx.conditions),
+  )
   const secondary = ctx.lang.secondary
-    ? forDay(blocksIn(item, ctx.lang.secondary) ?? [], ctx.conditions)
+    ? splitAcclamations(forDay(blocksIn(item, ctx.lang.secondary) ?? [], ctx.conditions))
     : []
   const paired = secondary.length === primary.length
   // Where the two languages are not set in the same number of paragraphs, the

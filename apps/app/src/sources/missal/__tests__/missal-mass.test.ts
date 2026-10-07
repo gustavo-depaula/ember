@@ -122,6 +122,28 @@ describe('an ordinary weekday', () => {
     expect(prayers?.selectedId).toBe('eucharistic-prayer.2')
   })
 
+  it("sets the Brazilian Missal's acclamations in the Eucharistic Prayer as the people's part", async () => {
+    const mass = await massOn('2026-10-07')
+    const prayer = selectOf(mass, 'missal.eucharistic-prayer')?.options.find(
+      (o) => o.id === 'eucharistic-prayer.2',
+    )
+    const responses = (prayer?.children ?? []).flatMap((p) =>
+      p.type === 'verses' ? p.items.filter((i) => i.role === 'r').map((i) => i.text.primary) : [],
+    )
+    for (const acclamation of [
+      'Enviai o vosso Espírito Santo!',
+      'Aceitai, ó Senhor, a nossa oferta!',
+      'O Espírito nos una num só corpo!',
+      // Set inside the intercession's own paragraph upstream.
+      'Lembrai-vos, ó Pai, da vossa Igreja!',
+    ]) {
+      expect(responses).toContain(acclamation)
+    }
+    // They are the Brazilian edition's own: the English prayer has none of them.
+    const english = selectOf(await massOn('2026-10-07', 'en-US'), 'missal.eucharistic-prayer')
+    expect(JSON.stringify(english)).not.toContain('Enviai')
+  })
+
   it('offers optional memorials and the weekday as Masses of the day', async () => {
     const mass = await massOn('2026-10-06')
     const options = selectOf(mass, 'missal.mass')?.options.map((o) => o.id)

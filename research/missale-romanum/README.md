@@ -2,7 +2,7 @@
 
 Can the Ordinary Form Mass in Ember be rebuilt from the original source of its texts, `github.com/pedropasinn/Missale_romanum` (a Cordova app carrying the 2002 Missal and Lectionary in seven languages), with its selection logic re-expressed as data plus a small resolver?
 
-The current `content/of/` descends from the same app through `ember-extra`, a conversion whose tooling can no longer run. This project goes back to the app itself.
+The earlier `content/of/` descended from the same app through `ember-extra`, a conversion whose tooling could no longer run. This project went back to the app itself.
 
 ## Where things stand
 

@@ -125,6 +125,17 @@ unknownClasses = Counter()
 blockFlags = set()
 
 
+class proseParts:
+    """The parts that are running prose: a saint's note, a reading, a Gospel.
+
+    Their source newlines are only ever the file's wrapping, however short the
+    lines, so they are never read as sense lines.
+    """
+
+    names = {"title", "firstReading", "secondReading", "gospel"}
+    active = False
+
+
 def parse_link(value):
     m = linkRe.search(value or "")
     if not m:
@@ -163,7 +174,7 @@ class Para:
         self.lines.append([])
 
     def done(self):
-        lines = settle_lines(self.lines, self.hard_breaks)
+        lines = settle_lines(self.lines, self.hard_breaks or proseParts.active)
         if not lines and not self.cite:
             return None
         block = {"k": self.kind, "lines": lines}
@@ -460,6 +471,7 @@ def convert_block(block, skeleton_langs):
             return
 
         if "slot" in node:
+            proseParts.active = ctx.get("part") in proseParts.names
             text = {}
             for lang, fills in node.get("fill", {}).items():
                 blocks = []
@@ -483,6 +495,7 @@ def convert_block(block, skeleton_langs):
         ) or has_block_child(node)
         if node["tag"] in inlineTags or not nested:
             # Wrapped so the node's own tag and class decide the block's kind.
+            proseParts.active = ctx.get("part") in proseParts.names
             own = blocks_of({"children": [node]})
             # A lone cycle letter under a cycle wrapper is a UI label.
             if own and not (ctx.get("cycle") and len(plain(own)) <= 2):
