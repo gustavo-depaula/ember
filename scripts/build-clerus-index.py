@@ -44,6 +44,7 @@ import json
 import re
 import sys
 import time
+import unicodedata
 import urllib.request
 from collections import Counter
 from pathlib import Path
@@ -373,13 +374,20 @@ def catechism(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, i
 REFERENCE = re.compile(r"<a href=\w+\.htm#\w+>(\w+) (\d+)(?:,(\d+)(?:-(?:(\d+),)?(\d+))?|-(\d+))?[^<]*</a>")
 
 
-def references(markup: str, slugs: dict[str, str]) -> list[tuple[str, int, int | None, int | None]]:
+def references(
+    markup: str, slugs: dict[str, str], psalter: str | None = None
+) -> list[tuple[str, int, int | None, int | None]]:
     """The Scripture a stretch of a page links to: (book, chapter, first verse,
     last verse), the verses None where a chapter is cited whole. A reference
-    that runs into another chapter ("Sb 11,23-12,2") is given as two."""
-    out: list[tuple[str, int, int | None, int | None]] = []
+    that runs into another chapter ("Sb 11,23-12,2") is given as two.
+
+    `psalter` is how the text numbers the psalms where a reference does not
+    say ("modern", "vulgate", or "" when the text does not say either); left
+    as None a psalm is taken as Clerus links it, which is right for the
+    Catechism."""
+    out: list[tuple[str, int, int | None, int | None]] = list(psalms(markup, psalter)) if psalter is not None else []
     for book, chapter, first, end_chapter, last, to_chapter in REFERENCE.findall(markup):
-        if book not in slugs:
+        if book not in slugs or (psalter is not None and book == "Ps" and not end_chapter and not to_chapter):
             continue
         if not first:
             # "Mt 5-7": each chapter, whole.
@@ -444,13 +452,14 @@ def document(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[t
     )
     found: list[tuple] = []
     calls: dict[str, tuple[str, str, str]] = {}
+    numbering = psalm_numbering([text for _page, text in pages])
 
     def cite(section: tuple[str, str, str], markup: str) -> None:
         # A chapter cited whole ("cf. Mt 5-7") says nothing of a passage in
         # it; a psalm cited whole is its passage.
         found.extend(
             (*section, *reference)
-            for reference in references(markup, slugs)
+            for reference in references(markup, slugs, numbering)
             if reference[2] or reference[0] == "psalms"
         )
 
@@ -475,6 +484,108 @@ def document(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[t
                 calls.pop(n, None)
                 cite(caller, markup)
     return found
+
+
+_psalters: list[dict[str, dict[str, str]]] = []
+
+
+def _words(text: str) -> set[str]:
+    plain = "".join(c for c in unicodedata.normalize("NFD", text.lower()) if not unicodedata.combining(c))
+    # Latin is spelt with i or j, u or v, as the printer liked.
+    plain = plain.replace("æ", "ae").replace("œ", "oe").replace("j", "i").replace("v", "u")
+    return {word[:5] for word in re.findall(r"[a-z]{5,}", plain)}
+
+
+def psalm_links(markup: str) -> list[tuple[int, int | None, int | None, str | None]]:
+    """The psalms a stretch of a Portuguese text cites, each as (number, first
+    verse, last verse, numbering): "vulgate" or "modern" where the text itself
+    or the words it quotes say which the number is, None where nothing does.
+
+    Clerus's linker takes every psalm number for the modern one. The popes'
+    texts cite by either, and say so in two ways. Some print both numbers,
+    "Sal 139 [138],14" or "Sal 13 (14),3", which Clerus links as two psalms
+    one apart: that is one psalm, and the lower number is the Vulgate's.
+    Otherwise the words quoted beside the reference are laid against the
+    corpus's Psalters, which number as the Vulgate does (Matos Soares for the
+    Portuguese, the Clementine for a verse quoted in Latin), under each
+    reading."""
+    if not _psalters:
+        for edition in ("matos-soares", "vulgate"):
+            _psalters.append(json.loads((ROOT / "content" / "bible" / edition / "psalms.json").read_text(encoding="utf-8")))
+    links = [m for m in REFERENCE.finditer(markup) if m.group(1) == "Ps" and not m.group(4) and not m.group(6)]
+    out: list[tuple[int, int | None, int | None, str | None]] = []
+    paired = False
+    for i, match in enumerate(links):
+        if paired:
+            paired = False
+            continue
+        number = int(match.group(2))
+        first = int(match.group(3)) if match.group(3) else None
+        last = int(match.group(5) or match.group(3)) if match.group(3) else None
+        after = links[i + 1] if i + 1 < len(links) else None
+        between = re.sub(r"<[^>]+>", "", markup[match.end() : after.start()]) if after else ""
+        if after and abs(int(after.group(2)) - number) == 1 and len(between.strip()) <= 3:
+            paired = True
+            if after.group(3):
+                first, last = int(after.group(3)), int(after.group(5) or after.group(3))
+            out.append((min(number, int(after.group(2))), first, last, "vulgate"))
+            continue
+        # The second number is not always linked: "Sl 138 [139],1-6".
+        other = re.match(r"(?:</\w+>|\s)*[\[(]\s*(\d+)\s*[\])](?:\s*,\s*(\d+)(?:-(\d+))?)?", markup[match.end() :])
+        if other and abs(int(other.group(1)) - number) == 1:
+            if other.group(2):
+                first, last = int(other.group(2)), int(other.group(3) or other.group(2))
+            out.append((min(number, int(other.group(1))), first, last, "vulgate"))
+            continue
+        numbering = None
+        if 11 <= number <= 146:
+            said = _words(html.unescape(re.sub(r"<[^>]+>", " ", markup[max(0, match.start() - 400) : match.end() + 150])))
+
+            def likeness(psalm: int) -> float:
+                # A psalm cited whole is known by any verse of it.
+                verses = [
+                    _words(text)
+                    for psalter in _psalters
+                    for v, text in psalter.get(str(psalm), {}).items()
+                    if first is None or first <= int(v) <= min(last, first + 5)
+                ]
+                # At least three of a verse's words, and two in five of them:
+                # a verse is often quoted in part.
+                return max((len(v & said) / len(v) for v in verses if len(v) >= 4 and len(v & said) >= 3), default=0.0)
+
+            modern, vulgate = likeness(number - 1), likeness(number)
+            if modern >= 0.4 and modern >= vulgate + 0.25:
+                numbering = "modern"
+            elif vulgate >= 0.4 and vulgate >= modern + 0.25:
+                numbering = "vulgate"
+        out.append((number, first, last, numbering))
+    return out
+
+
+def psalms(markup: str, otherwise: str | None) -> list[tuple[str, int, int | None, int | None]]:
+    """The psalms a stretch cites, in the site's numbering (so that `douay`
+    brings each to its Vulgate number): a psalm cited by the Vulgate's number
+    is one on, between the two psalms the Vulgate joins and the two it
+    divides. `otherwise` is how the text numbers where a reference does not
+    say; where the text does not say either, the reference is left out, since
+    it would be the wrong psalm as often as one time in three."""
+    out: list[tuple[str, int, int | None, int | None]] = []
+    for number, first, last, numbering in psalm_links(markup):
+        # The two numberings agree on the first eight psalms and the last three.
+        if not (numbering or otherwise) and 9 <= number <= 147:
+            continue
+        vulgate = (numbering or otherwise) == "vulgate" and (10 <= number <= 112 or 116 <= number <= 145)
+        out.append(("psalms", number + 1 if vulgate else number, first, last))
+    return out
+
+
+def psalm_numbering(markups: list[str]) -> str:
+    """How a text numbers the psalms, by the references in it that say (a
+    text is taken to number one way throughout), or "" where none does."""
+    votes = Counter(numbering for markup in markups for *_reference, numbering in psalm_links(markup) if numbering)
+    if not votes:
+        return ""
+    return "vulgate" if votes["vulgate"] > votes["modern"] else "modern"
 
 
 TOKEN = re.compile(r"<a Name=(\w+)>(?:<center>)?<h[12]>(.*?)</h[12]>(?:</center>)?|<a name=(\w+)><b>(\d+)</b>", re.S)
@@ -559,6 +670,7 @@ def talks(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[tupl
     def words(markup: str) -> str:
         return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", markup))).strip()
 
+    texts: dict[tuple[str, str], list[tuple[str, str]]] = {}
     for kind, *rest in stream(cache, work, seed):
         if kind == "heading":
             page, anchor, heading = rest
@@ -580,7 +692,15 @@ def talks(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[tupl
                 fresh = fresh and not words(markup)
             if lines and (fresh or titles):
                 titles.extend(t for t in (words(line) for line in re.split(r"</center>|<br>", lines)) if t)
-            found.extend((title(), *place, *r) for r in references(markup, slugs) if r[2] or r[0] == "psalms")
+            texts.setdefault(place, []).append((title(), markup))
+    for place, stretches in texts.items():
+        numbering = psalm_numbering([markup for _title, markup in stretches])
+        found.extend(
+            (name, *place, *r)
+            for name, markup in stretches
+            for r in references(markup, slugs, numbering)
+            if r[2] or r[0] == "psalms"
+        )
     return found
 
 
