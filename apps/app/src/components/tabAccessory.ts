@@ -22,6 +22,19 @@ export function useBottomClearance(): number {
   return nativeTabBarClearance + useTabAccessoryStore((s) => s.height)
 }
 
+// A sheet set into a screen (the Bible's half page on Android) stands where
+// the floating bar does: while one is up, the bar steps aside for it, as it
+// does under a native sheet.
+const useTabBarCoverStore = create<{ covered: boolean }>(() => ({ covered: false }))
+
+export function setTabBarCovered(covered: boolean): void {
+  useTabBarCoverStore.setState({ covered })
+}
+
+export function useTabBarCovered(): boolean {
+  return useTabBarCoverStore((s) => s.covered)
+}
+
 // The floating Android bar: its height plus the gap beneath it.
 const androidTabBarLift = 76
 

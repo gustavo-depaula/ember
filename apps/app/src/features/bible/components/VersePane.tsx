@@ -1,4 +1,5 @@
-import { useMemo } from 'react'
+import { useIsFocused } from 'expo-router'
+import { useEffect, useMemo } from 'react'
 import { useWindowDimensions } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import Animated, {
@@ -12,7 +13,7 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { View, YStack } from 'tamagui'
 
-import { useBottomClearance } from '@/components/tabAccessory'
+import { setTabBarCovered } from '@/components/tabAccessory'
 
 import { PaneBar, PaneKinds, paneFraction, type VersePaneProps } from './VersePaneContent'
 
@@ -36,7 +37,14 @@ function DividedPane({
   ...content
 }: VersePaneProps & { verse: number }) {
   const insets = useSafeAreaInsets()
-  const bottomClearance = useBottomClearance()
+  // The half page stands over the floating tab bar, as a sheet would. Only
+  // while its reader is the screen in front: a page opened from it has the
+  // bar back.
+  const focused = useIsFocused()
+  useEffect(() => {
+    setTabBarCovered(focused)
+    return () => setTabBarCovered(false)
+  }, [focused])
 
   const { height: screenHeight } = useWindowDimensions()
   const halfHeight = Math.round(screenHeight * paneFraction)
@@ -102,11 +110,7 @@ function DividedPane({
             <PaneBar {...content} onClose={onClose} />
           </YStack>
         </GestureDetector>
-        <PaneKinds
-          {...content}
-          // The tab bar floats over the foot of the pane; the last line clears it.
-          bottomPadding={insets.bottom + bottomClearance + 24}
-        />
+        <PaneKinds {...content} bottomPadding={insets.bottom + 24} />
       </YStack>
     </Animated.View>
   )

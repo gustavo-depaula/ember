@@ -9,6 +9,7 @@ import { useThemeName } from 'tamagui'
 
 import { hidesAndroidTabBar } from '@/lib/fullScreenRoutes'
 import { ChromeSurface, chromeSelected } from './chrome'
+import { useTabBarCovered } from './tabAccessory'
 
 const todayIcon = require('../../assets/nav-icons/today.png')
 const youIcon = require('../../assets/nav-icons/you.png')
@@ -97,10 +98,11 @@ function FloatingTabBar({
   const isDark = useThemeName().startsWith('dark')
   const insets = useSafeAreaInsets()
   const hidden = hidesAndroidTabBar(useSegments())
+  const covered = useTabBarCovered()
   // The window resizes for the keyboard, which would carry the bar up with it.
   const keyboardShown = useKeyboardShown()
 
-  if (hidden || keyboardShown) return null
+  if (hidden || covered || keyboardShown) return null
 
   const bottom = insets.bottom + 10
   const selectedFill = chromeSelected(isDark)
