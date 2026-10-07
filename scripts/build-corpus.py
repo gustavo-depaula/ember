@@ -1003,6 +1003,33 @@ def build_missal(b: Builder) -> None:
         b.add_catalog(item_id, {"kind": item_id, "hash": h, "size": size})
 
 
+def build_loth(b: Builder) -> None:
+    """The Liturgy of the Hours, Brazilian edition (content/loth/).
+
+    Catalog kinds:
+      loth-calendar        the celebrations of the breviary's calendar
+      loth-index/<hour>    where each part of an hour is found, by day
+      loth-parts/<bundle>  the parts themselves, some dozens to a bundle
+      loth-extras          the complementary texts the hours link to
+    """
+    src = CONTENT / "loth"
+    if not src.is_dir():
+        return
+
+    for folder, kind in (("index", "loth-index"), ("parts", "loth-parts")):
+        for f in sorted((src / folder).glob("*.json")):
+            with f.open(encoding="utf-8") as fh:
+                data = json.load(fh)
+            h, size = b.write_json_blob(data)
+            b.add_catalog(f"{kind}/{data['id']}", {"kind": kind, "hash": h, "size": size})
+
+    for name, item_id in (("calendar", "loth-calendar"), ("extras", "loth-extras")):
+        with (src / f"{name}.json").open(encoding="utf-8") as fh:
+            data = json.load(fh)
+        h, size = b.write_json_blob(data)
+        b.add_catalog(item_id, {"kind": item_id, "hash": h, "size": size})
+
+
 # Divinum Officium datasets.
 DO_LANG_DIRS = {"Latin": "la", "English": "en-US", "Portugues": "pt-BR"}
 DO_HORAS_DATASETS = {
@@ -1372,6 +1399,8 @@ def main(argv: list[str]) -> int:
     build_books(b)
     print("[corpus] of (rebuilt missal corpus)...")
     build_missal(b)
+    print("[corpus] liturgy of the hours...")
+    build_loth(b)
     print("[corpus] divinum-officium...")
     build_do(b)
     print("[corpus] collections...")

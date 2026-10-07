@@ -1,0 +1,153 @@
+// Which office an hour of a date is: the day's own, or already tomorrow's.
+//
+// Evening Prayer and Night Prayer on the eve of a Sunday or a solemnity belong
+// to the day that follows (General Instruction of the Liturgy of the Hours,
+// 204-214). The breviary's own tables decide the cases where two days meet.
+
+import { addDays } from '@ember/liturgical'
+import { type Celebration, ids, type LothCalendar, type LothDay, lothDay } from './day'
+
+export const hours = [
+  'invitatory',
+  'readings',
+  'lauds',
+  'terce',
+  'sext',
+  'none',
+  'vespers',
+  'compline',
+] as const
+export type Hour = (typeof hours)[number]
+
+export interface Office {
+  hour: Hour
+  // The civil date the hour is prayed on.
+  date: Date
+  // The day whose office this is.
+  day: LothDay
+  // The celebration kept in this hour; a Sunday's first Vespers have none.
+  celebration?: Celebration
+  // First Vespers (or the Night Prayer after them) of tomorrow's celebration.
+  firstVespers: boolean
+  // Saturday evening: first Vespers of the Sunday, from the psalter.
+  sundayEve: boolean
+  // 'MM-DD' in Advent and Christmas time, where the days go by date.
+  dateKey?: string
+  // Night Prayer on the eve of Advent already has the Advent antiphon.
+  adventEve?: boolean
+}
+
+const withoutFirstVespers = new Set<string>([
+  ids.ashWednesday,
+  ids.lordsSupper,
+  ids.goodFriday,
+  ids.holySaturday,
+  ids.allSouls,
+])
+const withoutFirstCompline = new Set<string>([
+  ...withoutFirstVespers,
+  ids.easterSunday,
+  ids.secondSundayOfEaster,
+])
+// Celebrations whose first Vespers displace a Sunday's second Vespers.
+const overSundayEvening = new Set<string>([ids.christmas, ids.johnTheBaptist, ids.aparecida])
+const overSundayNight = new Set<string>([
+  ...overSundayEvening,
+  ids.transfiguration,
+  ids.presentation,
+])
+// Feasts of the Lord that have first Vespers when they fall on a Sunday.
+const feastsWithFirstVespers = new Set<string>([
+  ids.exaltation,
+  ids.transfiguration,
+  ids.presentation,
+])
+// What a Saturday keeps its own Vespers for.
+const keepsSaturdayEvening = new Set<string>([
+  ids.johnTheBaptist,
+  ids.aparecida,
+  ids.transfiguration,
+  ids.exaltation,
+  ids.lateran,
+  ids.presentation,
+  ids.christmas,
+])
+
+const mmdd = (date: Date) =>
+  `${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`
+const byDate = (day: LothDay) => day.season === 'advent' || day.season === 'christmas'
+
+export function officeOf(date: Date, hour: Hour, calendar: LothCalendar): Office {
+  const today = lothDay(date, calendar)
+  const tomorrowDate = addDays(date, 1)
+  const tomorrow = lothDay(tomorrowDate, calendar)
+  const here = today.celebration?.id
+  const next = tomorrow.celebration?.id
+  const saturday = today.weekday === 6
+  const sunday = today.weekday === 0
+  const solemnityTomorrow = tomorrow.celebration?.rank === 'solemnity'
+
+  const own: Office = {
+    hour,
+    date,
+    day: today,
+    ...(today.celebration ? { celebration: today.celebration } : {}),
+    firstVespers: false,
+    sundayEve: false,
+    ...(byDate(today) ? { dateKey: mmdd(date) } : {}),
+    ...(hour === 'compline' && tomorrow.season === 'advent' && today.season !== 'advent'
+      ? { adventEve: true }
+      : {}),
+  }
+  const ofTomorrow: Office = {
+    hour,
+    date,
+    day: tomorrow,
+    ...(tomorrow.celebration ? { celebration: tomorrow.celebration } : {}),
+    firstVespers: true,
+    sundayEve: false,
+    ...(byDate(tomorrow) ? { dateKey: mmdd(tomorrowDate) } : {}),
+  }
+
+  if (hour === 'vespers') {
+    if (
+      solemnityTomorrow &&
+      next &&
+      !withoutFirstVespers.has(next) &&
+      here !== ids.sacredHeart &&
+      (!sunday || today.celebration?.rank === 'feast')
+    )
+      return ofTomorrow
+    if (
+      saturday &&
+      next &&
+      (feastsWithFirstVespers.has(next) || (next === ids.holyFamily && here !== ids.christmas))
+    )
+      return ofTomorrow
+    if (saturday && tomorrow.season === 'advent' && today.season === 'ordinary-time')
+      return ofTomorrow
+    if (sunday && next && overSundayEvening.has(next)) return ofTomorrow
+    const dec23 = date.getMonth() === 11 && date.getDate() === 23
+    if (saturday && !dec23 && !(here && keepsSaturdayEvening.has(here))) {
+      // The Sunday's first Vespers are in the psalter under the Saturday.
+      const { celebration: _, ...rest } = own
+      return {
+        ...rest,
+        sundayEve: true,
+        ...(byDate(today) ? { dateKey: mmdd(tomorrowDate) } : {}),
+      }
+    }
+    return own
+  }
+
+  if (hour === 'compline') {
+    if (
+      solemnityTomorrow &&
+      next &&
+      !withoutFirstCompline.has(next) &&
+      (!sunday || overSundayNight.has(next))
+    )
+      return ofTomorrow
+  }
+  return own
+}

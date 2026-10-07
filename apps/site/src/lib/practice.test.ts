@@ -52,6 +52,15 @@ test('text the app fetches from its publisher is never built into a page', async
   }
 })
 
+test('the Brazilian Liturgy of the Hours assembles from the corpus', async () => {
+  const hours = await renderPractice('liturgy-of-the-hours', 'pt-BR', { date })
+  const hour = selectOf(hours?.primitives ?? [])
+  expect(hour.options).toHaveLength(7)
+  const text = JSON.stringify(hour.options.find((o) => o.id === 'lauds')?.children)
+  expect(text).toContain('Vinde, ó Deus, em meu auxílio.')
+  expect(text).not.toContain(appOnlyMarker)
+})
+
 test('the 1962 Mass and the Breviary assemble from the corpus', async () => {
   const mass = await renderPractice('mass-vetus-ordo', 'en-US', { date, parallelLatin: true })
   const text = JSON.stringify(mass?.primitives)

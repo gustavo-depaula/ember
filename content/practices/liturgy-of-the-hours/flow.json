@@ -32,7 +32,7 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/breviary-of-the-day",
+              "ref": "producer/loth-hour",
               "params": {
                 "hour": "office-of-readings"
               }
@@ -50,7 +50,7 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/breviary-of-the-day",
+              "ref": "producer/loth-hour",
               "params": {
                 "hour": "lauds"
               }
@@ -68,7 +68,7 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/breviary-of-the-day",
+              "ref": "producer/loth-hour",
               "params": {
                 "hour": "terce"
               }
@@ -86,7 +86,7 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/breviary-of-the-day",
+              "ref": "producer/loth-hour",
               "params": {
                 "hour": "sext"
               }
@@ -104,7 +104,7 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/breviary-of-the-day",
+              "ref": "producer/loth-hour",
               "params": {
                 "hour": "none"
               }
@@ -122,7 +122,7 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/breviary-of-the-day",
+              "ref": "producer/loth-hour",
               "params": {
                 "hour": "vespers"
               }
@@ -140,7 +140,7 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/breviary-of-the-day",
+              "ref": "producer/loth-hour",
               "params": {
                 "hour": "compline"
               }

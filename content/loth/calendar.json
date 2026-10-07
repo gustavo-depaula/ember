@@ -1,0 +1,1606 @@
+{
+ "celebrations": {
+  "sanctorale.01-02": {
+   "title": "Santos Basílio Magno e Gregório Nazianzeno, bispos e doutores da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos doutores da Igreja"
+  },
+  "sanctorale.01-03": {
+   "title": "Santíssimo Nome de Jesus",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.01-07": {
+   "title": "São Raimundo de Penhaforte, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores"
+  },
+  "sanctorale.01-13": {
+   "title": "Santo Hilário, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.01-17": {
+   "title": "Santo Antão, abade",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.01-20.sebastian": {
+   "title": "São Sebastião, mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.01-21": {
+   "title": "Santa Inês, virgem e mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.01-22": {
+   "title": "São Vicente, diácono e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.01-24": {
+   "title": "São Francisco de Sales, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.01-25": {
+   "title": "Conversão de São Paulo, Apóstolo",
+   "rank": "feast"
+  },
+  "sanctorale.01-26": {
+   "title": "Santos Timóteo e Tito, bispos",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.01-27": {
+   "title": "Santa Ângela Mérici, virgem",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum das virgens"
+  },
+  "sanctorale.01-28": {
+   "title": "Santo Tomás de Aquino, presbítero e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos doutores da Igreja"
+  },
+  "sanctorale.01-31": {
+   "title": "São João Bosco, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.02-02": {
+   "title": "Apresentação do Senhor",
+   "rank": "feast"
+  },
+  "sanctorale.02-03": {
+   "title": "São Brás, bispo e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.02-05": {
+   "title": "Santa Águeda, virgem e mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.02-06": {
+   "title": "São Paulo Miki e companheiros, mártires",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.02-08": {
+   "title": "São Jerônimo Emiliani",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para educadores"
+  },
+  "sanctorale.02-10": {
+   "title": "Santa Escolástica, virgem",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum das virgens"
+  },
+  "sanctorale.02-11": {
+   "title": "Bem-aventurada Virgem Maria de Lourdes",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de Nossa Senhora"
+  },
+  "sanctorale.02-14": {
+   "title": "Santos Cirilo, Monge e Metódio, bispo",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores"
+  },
+  "sanctorale.02-17": {
+   "title": "Os sete Santos Fundadores da Ordem dos Servos de Maria",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.02-21": {
+   "title": "São Pedro Damião, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.02-22": {
+   "title": "Cátedra de São Pedro, Apóstolo",
+   "rank": "feast"
+  },
+  "sanctorale.02-23": {
+   "title": "São Policarpo, bispo e mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.02-27": {
+   "title": "São Gregório de Narek, abade e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos doutores da Igreja"
+  },
+  "sanctorale.03-04": {
+   "title": "São Casimiro",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens"
+  },
+  "sanctorale.03-07": {
+   "title": "Santas Perpétua e Felicidade, mártires",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.03-08": {
+   "title": "São João de Deus, religioso",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.03-09": {
+   "title": "Santa Francisca Romana, religiosa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum das santas mulheres: para religiosas"
+  },
+  "sanctorale.03-17": {
+   "title": "São Patrício, bispo",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.03-18": {
+   "title": "São Cirilo de Jerusalém, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.03-19": {
+   "title": "São José, esposo da Bem-Aventurada Virgem Maria",
+   "rank": "solemnity"
+  },
+  "sanctorale.03-23": {
+   "title": "São Turíbio de Mogrovejo, bispo",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.03-25": {
+   "title": "Anunciação do Senhor",
+   "rank": "solemnity"
+  },
+  "sanctorale.04-02": {
+   "title": "São Francisco de Paula, eremita",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.04-04": {
+   "title": "Santo Isidoro, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.04-05": {
+   "title": "São Vicente Ferrer, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.04-07": {
+   "title": "São João Batista de La Salle, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.04-11": {
+   "title": "Santo Estanislau, bispo e mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.04-13": {
+   "title": "São Martinho I, papa e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.04-21": {
+   "title": "Santo Anselmo, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.04-23": {
+   "title": "São Jorge, mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.04-24": {
+   "title": "São Fidélis de Sigmaringa, presbítero e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.04-25": {
+   "title": "São Marcos Evangelista",
+   "rank": "feast"
+  },
+  "sanctorale.04-28": {
+   "title": "São Pedro Chanel, presbítero e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.04-29": {
+   "title": "Santa Catarina de Sena, virgem e doutora da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum das virgens"
+  },
+  "sanctorale.04-30": {
+   "title": "São Pio V, papa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas"
+  },
+  "sanctorale.05-01": {
+   "title": "São José Operário",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.05-02": {
+   "title": "Santo Atanásio, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.05-03": {
+   "title": "São Filipe e São Tiago Menor",
+   "rank": "feast",
+   "common": "Do Comum dos apóstolos"
+  },
+  "sanctorale.05-10": {
+   "title": "São João de Ávila, presbítero e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores e doutores da Igreja"
+  },
+  "sanctorale.05-12": {
+   "title": "São Nereu e Santo Aquiles, mártires",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.05-13": {
+   "title": "Bem-aventurada Virgem Maria de Fátima",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de Nossa Senhora"
+  },
+  "sanctorale.05-14": {
+   "title": "São Matias, Apóstolo",
+   "rank": "feast",
+   "common": "Do Comum dos apóstolos"
+  },
+  "sanctorale.05-18": {
+   "title": "São João I, papa e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas"
+  },
+  "sanctorale.05-20": {
+   "title": "São Bernardino de Sena, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.05-22.rita-of-cascia": {
+   "title": "Santa Rita de Cássia, religiosa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum das santas mulheres: para religiosas"
+  },
+  "sanctorale.05-25": {
+   "title": "São Beda, O venerável, presbítero e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores e doutores da Igreja"
+  },
+  "sanctorale.05-26": {
+   "title": "São Filipe Néri, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.05-27": {
+   "title": "Santo Agostinho de Cantuária, bispo",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.05-29": {
+   "title": "São Paulo VI, papa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas"
+  },
+  "sanctorale.05-31": {
+   "title": "Visitação de Nossa Senhora",
+   "rank": "feast",
+   "common": "Do Comum de Nossa Senhora"
+  },
+  "sanctorale.06-01": {
+   "title": "São Justino, mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.06-02": {
+   "title": "Santos Marcelino e Pedro, mártires",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.06-03": {
+   "title": "São Carlos Lwanga e companheiros, mártires",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.06-05": {
+   "title": "São Bonifácio, bispo e Mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.06-06": {
+   "title": "São Norberto, bispo",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.06-09": {
+   "title": "Santo Efrém, diácono e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos doutores da Igreja"
+  },
+  "sanctorale.06-09.brazil": {
+   "title": "São José de Anchieta, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.06-11": {
+   "title": "São Barnabé, Apóstolo",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos apóstolos"
+  },
+  "sanctorale.06-13": {
+   "title": "Santo Antônio de Pádua (Lisboa), presbítero e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores e doutores da Igreja"
+  },
+  "sanctorale.06-19": {
+   "title": "São Romualdo, abade",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.06-21": {
+   "title": "São Luís Gonzaga, religioso",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.06-22.john-fisher": {
+   "title": "São João Fisher, bispo, e São Tomás More, mártires",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.06-24": {
+   "title": "Natividade de São João Batista",
+   "rank": "solemnity"
+  },
+  "sanctorale.06-26": {
+   "title": "São Josemaria Escrivá de Balaguer, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.06-27": {
+   "title": "São Cirilo de Alexandria, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.06-28": {
+   "title": "Santo Irineu, bispo e Mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.06-29": {
+   "title": "São Pedro e São Paulo, Apóstolos",
+   "rank": "solemnity"
+  },
+  "sanctorale.06-30": {
+   "title": "Santos Protomártires da Igreja de Roma",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.07-03": {
+   "title": "São Tomé Apóstolo",
+   "rank": "feast"
+  },
+  "sanctorale.07-04": {
+   "title": "Santa Isabel de Portugal",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum das santas mulheres: para as que se dedicaram às obras de caridade"
+  },
+  "sanctorale.07-05": {
+   "title": "Santo Antônio Maria Zaccaria, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.07-06": {
+   "title": "Santa Maria Goretti, virgem e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.07-09": {
+   "title": "Santos Agostinho Zhao Rong, presbítero, e companheiros, mártires",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.07-09.brazil": {
+   "title": "Santa Paulina do Coração Agonizante de Jesus, virgem",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum das virgens"
+  },
+  "sanctorale.07-11": {
+   "title": "São Bento, abade",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.07-13": {
+   "title": "Santo Henrique",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens"
+  },
+  "sanctorale.07-14": {
+   "title": "São Camilo de Lellis, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para os que se dedicaram às obras de caridades"
+  },
+  "sanctorale.07-15": {
+   "title": "São Boaventura, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.07-16": {
+   "title": "Bem-aventurada Virgem Maria do Monte Carmelo",
+   "rank": "feast",
+   "common": "Do Comum de Nossa Senhora"
+  },
+  "sanctorale.07-17.brazil": {
+   "title": "Bv. Inácio de Azevedo, presbítero, e companheiros, mártires",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.07-21": {
+   "title": "São Lourenço de Bríndisi, presbítero e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores e doutores da Igreja"
+  },
+  "sanctorale.07-22": {
+   "title": "Santa Maria Madalena",
+   "rank": "feast",
+   "common": "Do Comum das santas mulheres"
+  },
+  "sanctorale.07-23": {
+   "title": "Santa Brígida, religiosa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum das santas mulheres: para religiosas"
+  },
+  "sanctorale.07-24": {
+   "title": "São Charbel Makhluf, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.07-25": {
+   "title": "São Tiago Maior, Apóstolo",
+   "rank": "feast"
+  },
+  "sanctorale.07-26": {
+   "title": "São Joaquim e Sant'Ana, pais de Maria Santíssima",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos santos homens"
+  },
+  "sanctorale.07-29": {
+   "title": "Santos Marta, Maria e Lázaro",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.07-30": {
+   "title": "São Pedro Crisólogo, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.07-31": {
+   "title": "Santo Inácio de Loyola, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.08-01": {
+   "title": "Santo Afonso Maria de Ligório, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.08-02": {
+   "title": "Santo Eusébio de Vercelli, bispo",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.08-04": {
+   "title": "São João Maria Vianney, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.08-05": {
+   "title": "Dedicação da Basílica de Santa Maria Maior",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.08-06": {
+   "title": "Transfiguração do Senhor",
+   "rank": "feast"
+  },
+  "sanctorale.08-07": {
+   "title": "São Sisto II, papa, e seus companheiros, mártires",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.08-08": {
+   "title": "São Domingos, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.08-09": {
+   "title": "Santa Teresa Benedita da Cruz, virgem e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos mártires: para uma virgem mártir"
+  },
+  "sanctorale.08-10": {
+   "title": "São Lourenço",
+   "rank": "feast"
+  },
+  "sanctorale.08-11": {
+   "title": "Santa Clara, virgem",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum das virgens"
+  },
+  "sanctorale.08-13": {
+   "title": "São Ponciano, papa, e Santo Hipólito presbítero, mártires",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.08-13.brazil": {
+   "title": "Santa Dulce Lopes Pontes, virgem",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum das virgens"
+  },
+  "sanctorale.08-14": {
+   "title": "São Maximiliano Maria Kolbe, presbítero e mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.08-15": {
+   "title": "Assunção da Bem-aventurada Virgem Maria",
+   "rank": "solemnity"
+  },
+  "sanctorale.08-16": {
+   "title": "Santo Estêvão da Hungria",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens"
+  },
+  "sanctorale.08-19": {
+   "title": "São João Eudes, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.08-20": {
+   "title": "São Bernardo, abade e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.08-21": {
+   "title": "São Pio X, papa",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.08-22": {
+   "title": "Bem-aventurada Virgem Maria Rainha",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.08-23": {
+   "title": "Santa Rosa de Lima",
+   "rank": "feast"
+  },
+  "sanctorale.08-24": {
+   "title": "São Bartolomeu, Apóstolo",
+   "rank": "feast"
+  },
+  "sanctorale.08-25": {
+   "title": "São Luís de França",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens"
+  },
+  "sanctorale.08-27": {
+   "title": "Santa Mônica",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum das santas mulheres"
+  },
+  "sanctorale.08-28": {
+   "title": "Santo Agostinho, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.08-29": {
+   "title": "Martírio de São João Batista",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.09-03": {
+   "title": "São Gregório Magno, papa e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas, e doutores da Igreja"
+  },
+  "sanctorale.09-08": {
+   "title": "Natividade da Bem-aventurada Virgem Maria",
+   "rank": "feast"
+  },
+  "sanctorale.09-09": {
+   "title": "São Pedro Claver, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores"
+  },
+  "sanctorale.09-12": {
+   "title": "Santíssimo Nome de Maria",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de Nossa Senhora"
+  },
+  "sanctorale.09-13": {
+   "title": "São João Crisóstomo, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.09-14": {
+   "title": "Exaltação da Santa Cruz",
+   "rank": "feast"
+  },
+  "sanctorale.09-15": {
+   "title": "Bem-aventurada Virgem Maria das Dores",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de Nossa Senhora"
+  },
+  "sanctorale.09-16": {
+   "title": "Santos Cornélio, papa e Cipriano, bispo, mártires",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.09-17": {
+   "title": "São Roberto Belarmino, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.09-19": {
+   "title": "São Januário, bispo e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.09-20": {
+   "title": "Santos André Kim Tae-gon, presbítero, Paulo Chóng Hasang e companheiros, mártires",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.09-21": {
+   "title": "São Mateus, apóstolo e evangelista",
+   "rank": "feast"
+  },
+  "sanctorale.09-23": {
+   "title": "São Pio de Pietrelcina, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.09-26": {
+   "title": "Santos Cosme e Damião, mártires",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.09-27": {
+   "title": "São Vicente de Paulo, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.09-28": {
+   "title": "São Venceslau, mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.09-29": {
+   "title": "Santos Miguel, Gabriel e Rafael, Arcanjos",
+   "rank": "feast"
+  },
+  "sanctorale.09-30": {
+   "title": "São Jerônimo, presbítero e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos doutores da Igreja"
+  },
+  "sanctorale.10-01": {
+   "title": "Santa Teresa do Menino Jesus, virgem e doutora da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum das virgens"
+  },
+  "sanctorale.10-02": {
+   "title": "Santos Anjos da Guarda",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.10-03.brazil": {
+   "title": "Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.10-04": {
+   "title": "São Francisco de Assis",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.10-05.brazil": {
+   "title": "São Benedito, o Negro, religioso",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.10-06": {
+   "title": "São Bruno, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.10-07": {
+   "title": "Bem-aventurada Virgem Maria do Rosário",
+   "rank": "memorial",
+   "obligatory": true,
+   "common": "Do Comum de Nossa Senhora"
+  },
+  "sanctorale.10-09": {
+   "title": "São Dionísio, bispo, e seus companheiros, mártires",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.10-11": {
+   "title": "São João XXIII, papa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas"
+  },
+  "sanctorale.10-12.brazil": {
+   "title": "Bem-aventurada Virgem Maria da Conceição Aparecida",
+   "rank": "solemnity"
+  },
+  "sanctorale.10-14": {
+   "title": "São Calisto I, papa e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas"
+  },
+  "sanctorale.10-15": {
+   "title": "Santa Teresa de Jesus, virgem e doutora da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum das virgens"
+  },
+  "sanctorale.10-16": {
+   "title": "Santa Edviges, religiosa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum das santas mulheres: para as que se dedicaram às obras de caridade"
+  },
+  "sanctorale.10-17": {
+   "title": "Santo Inácio de Antioquia, bispo e mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.10-18": {
+   "title": "São Lucas, Evangelista",
+   "rank": "feast"
+  },
+  "sanctorale.10-19.paul-of-the-cross": {
+   "title": "São Pedro de Alcântara, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para religiosos"
+  },
+  "sanctorale.10-22": {
+   "title": "São João Paulo II, papa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas"
+  },
+  "sanctorale.10-23": {
+   "title": "São João de Capistrano, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.10-24": {
+   "title": "Santo Antônio Maria Claret, bispo",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.10-25.brazil": {
+   "title": "Santo Antônio de Sant'Ana Galvão, religioso",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.10-28": {
+   "title": "Santos Simão e Judas, Apóstolos",
+   "rank": "feast",
+   "common": "Do Comum dos apóstolos"
+  },
+  "sanctorale.11-01": {
+   "title": "Todos os Santos",
+   "rank": "solemnity"
+  },
+  "sanctorale.11-02": {
+   "title": "Comemoração de Todos os Fiéis Defuntos",
+   "rank": "solemnity"
+  },
+  "sanctorale.11-03": {
+   "title": "São Martinho (de Lima), religioso",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens: para religiosos"
+  },
+  "sanctorale.11-04": {
+   "title": "São Carlos Borromeu, bispo",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.11-09": {
+   "title": "Dedicação da Basílica do Latrão",
+   "rank": "feast",
+   "common": "Do Comum da dedicação de uma igreja"
+  },
+  "sanctorale.11-10": {
+   "title": "São Leão Magno, papa e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas, e doutores da Igreja"
+  },
+  "sanctorale.11-11": {
+   "title": "São Martinho de Tours, bispo",
+   "rank": "memorial",
+   "obligatory": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.11-12": {
+   "title": "São Josafá, bispo e mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.11-15": {
+   "title": "Santo Alberto Magno, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas, e doutores da Igreja"
+  },
+  "sanctorale.11-16": {
+   "title": "Santa Margarida da Escócia",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum das santas mulheres: para as que se dedicaram às obras de caridade"
+  },
+  "sanctorale.11-17": {
+   "title": "Santa Isabel da Hungria, religiosa",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum das santas mulheres: para as que se dedicaram às obras de caridade"
+  },
+  "sanctorale.11-18": {
+   "title": "Dedicação das basílicas dos Santos Pedro e Paulo, Apóstolos",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos apóstolos"
+  },
+  "sanctorale.11-19.brazil": {
+   "title": "Santos Roque Gozález, Afonso Rodriguez e João de Castillo, presbíteros e mártires",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.11-21": {
+   "title": "Apresentação da Bem-aventurada Virgem Maria",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de Nossa Senhora"
+  },
+  "sanctorale.11-22": {
+   "title": "Santa Cecília, virgem e mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.11-23": {
+   "title": "São Clemente I, papa e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas"
+  },
+  "sanctorale.11-24": {
+   "title": "Santo André Dung-Lac, presbítero, e companheiros, mártires",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de vários mártires"
+  },
+  "sanctorale.11-25": {
+   "title": "Santa Catarina de Alexandria, virgem e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.11-30": {
+   "title": "Santo André, Apóstolo",
+   "rank": "feast",
+   "common": "Do Comum dos apóstolos"
+  },
+  "sanctorale.12-03": {
+   "title": "São Francisco Xavier, presbítero",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para presbíteros"
+  },
+  "sanctorale.12-04": {
+   "title": "São João Damasceno, presbítero e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores e doutores da Igreja"
+  },
+  "sanctorale.12-06": {
+   "title": "São Nicolau, bispo",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos"
+  },
+  "sanctorale.12-07": {
+   "title": "Santo Ambrósio, bispo e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores: para bispos, e doutores da Igreja"
+  },
+  "sanctorale.12-08": {
+   "title": "Imaculada Conceição da Bem-aventurada Virgem Maria",
+   "rank": "solemnity"
+  },
+  "sanctorale.12-09": {
+   "title": "São João Diego Cuauhtlatoatzin",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos santos homens"
+  },
+  "sanctorale.12-10": {
+   "title": "Bem-aventurada Virgem Maria de Loreto",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum de Nossa Senhora"
+  },
+  "sanctorale.12-11": {
+   "title": "São Dâmaso I, papa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores: para papas"
+  },
+  "sanctorale.12-12": {
+   "title": "Bem-aventurada Virgem Maria de Guadalupe, — Padroeira principal da América Latina",
+   "rank": "feast"
+  },
+  "sanctorale.12-13": {
+   "title": "Santa Luzia, virgem e mártir",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum de um(a) mártir"
+  },
+  "sanctorale.12-14": {
+   "title": "São João da Cruz, presbítero e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true,
+   "common": "Do Comum dos pastores e doutores da Igreja"
+  },
+  "sanctorale.12-21": {
+   "title": "São Pedro Canísio, presbítero e doutor da Igreja",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores e doutores da Igreja"
+  },
+  "sanctorale.12-23": {
+   "title": "São João Câncio, presbítero",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true,
+   "common": "Do Comum dos pastores"
+  },
+  "sanctorale.12-26": {
+   "title": "Santo Estêvão, Protomártir",
+   "rank": "feast"
+  },
+  "sanctorale.12-27": {
+   "title": "São João, Apóstolo e Evangelista",
+   "rank": "feast"
+  },
+  "sanctorale.12-28": {
+   "title": "Os Santos Inocentes, Mártires",
+   "rank": "feast"
+  },
+  "sanctorale.12-29": {
+   "title": "São Tomás Becket, bispo e mártir",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.12-31": {
+   "title": "São Silvestre I, papa",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "sanctorale.immaculate-heart-of-mary": {
+   "title": "Imaculado Coração da Bem-aventurada Virgem Maria",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.mary-mother-of-the-church": {
+   "title": "Bem-aventurada Virgem Maria, Mãe da Igreja",
+   "rank": "memorial",
+   "obligatory": true,
+   "montage": true
+  },
+  "sanctorale.saint-mary-on-saturday": {
+   "title": "Santa Maria no Sábado",
+   "rank": "memorial",
+   "obligatory": false,
+   "montage": true
+  },
+  "tempore.christmas.baptism-of-the-lord": {
+   "title": "Batismo do Senhor",
+   "rank": "feast"
+  },
+  "tempore.christmas.epiphany": {
+   "title": "Epifania do Senhor",
+   "rank": "solemnity"
+  },
+  "tempore.christmas.holy-family": {
+   "title": "Sagrada Família de Jesus, Maria e José",
+   "rank": "feast"
+  },
+  "tempore.christmas.mary-mother-of-god": {
+   "title": "Santa Maria, Mãe de Deus",
+   "rank": "solemnity"
+  },
+  "tempore.christmas.nativity-day": {
+   "title": "Natal do Senhor",
+   "rank": "solemnity"
+  },
+  "tempore.easter.ascension": {
+   "title": "Ascensão do Senhor",
+   "rank": "solemnity"
+  },
+  "tempore.easter.easter-sunday": {
+   "title": "DOMINGO DA PÁSCOA — NA RESSURREIÇÃO DO SENHOR",
+   "rank": "solemnity"
+  },
+  "tempore.easter.pentecost": {
+   "title": "Domingo de Pentecostes",
+   "rank": "solemnity"
+  },
+  "tempore.easter.week-2.sunday": {
+   "title": "SEGUNDO DOMINGO DA PÁSCOA — ou Domingo da Divina Misericórdia",
+   "rank": "solemnity"
+  },
+  "tempore.holy-week.good-friday": {
+   "title": "Paixão de Nosso Senhor Jesus Cristo",
+   "rank": "solemnity"
+  },
+  "tempore.holy-week.holy-saturday": {
+   "title": "Sábado Santo e Solene Vigília Pascal",
+   "rank": "solemnity"
+  },
+  "tempore.holy-week.lords-supper": {
+   "title": "Ceia do Senhor",
+   "rank": "solemnity"
+  },
+  "tempore.holy-week.palm-sunday": {
+   "title": "Domingo de Ramos da Paixão do Senhor",
+   "rank": "solemnity"
+  },
+  "tempore.lent.ash-wednesday": {
+   "title": "Cinzas, início da Quaresma",
+   "rank": "solemnity"
+  },
+  "tempore.solemnity.christ-the-king": {
+   "title": "Nosso Senhor Jesus Cristo, Rei do Universo",
+   "rank": "solemnity"
+  },
+  "tempore.solemnity.corpus-christi": {
+   "title": "Santíssimo Sacramento do Corpo e Sangue de Cristo",
+   "rank": "solemnity"
+  },
+  "tempore.solemnity.most-holy-trinity": {
+   "title": "Santíssima Trindade",
+   "rank": "solemnity"
+  },
+  "tempore.solemnity.sacred-heart-of-jesus": {
+   "title": "Sagrado Coração de Jesus",
+   "rank": "solemnity"
+  }
+ },
+ "fixed": {
+  "01-01": "tempore.christmas.mary-mother-of-god",
+  "01-02": "sanctorale.01-02",
+  "01-03": "sanctorale.01-03",
+  "01-07": "sanctorale.01-07",
+  "01-13": "sanctorale.01-13",
+  "01-17": "sanctorale.01-17",
+  "01-20": "sanctorale.01-20.sebastian",
+  "01-21": "sanctorale.01-21",
+  "01-22": "sanctorale.01-22",
+  "01-24": "sanctorale.01-24",
+  "01-25": "sanctorale.01-25",
+  "01-26": "sanctorale.01-26",
+  "01-27": "sanctorale.01-27",
+  "01-28": "sanctorale.01-28",
+  "01-31": "sanctorale.01-31",
+  "02-02": "sanctorale.02-02",
+  "02-03": "sanctorale.02-03",
+  "02-05": "sanctorale.02-05",
+  "02-06": "sanctorale.02-06",
+  "02-08": "sanctorale.02-08",
+  "02-10": "sanctorale.02-10",
+  "02-11": "sanctorale.02-11",
+  "02-14": "sanctorale.02-14",
+  "02-17": "sanctorale.02-17",
+  "02-21": "sanctorale.02-21",
+  "02-22": "sanctorale.02-22",
+  "02-23": "sanctorale.02-23",
+  "02-27": "sanctorale.02-27",
+  "03-04": "sanctorale.03-04",
+  "03-07": "sanctorale.03-07",
+  "03-08": "sanctorale.03-08",
+  "03-09": "sanctorale.03-09",
+  "03-17": "sanctorale.03-17",
+  "03-18": "sanctorale.03-18",
+  "03-19": "sanctorale.03-19",
+  "03-23": "sanctorale.03-23",
+  "03-25": "sanctorale.03-25",
+  "04-02": "sanctorale.04-02",
+  "04-04": "sanctorale.04-04",
+  "04-05": "sanctorale.04-05",
+  "04-07": "sanctorale.04-07",
+  "04-11": "sanctorale.04-11",
+  "04-13": "sanctorale.04-13",
+  "04-21": "sanctorale.04-21",
+  "04-23": "sanctorale.04-23",
+  "04-24": "sanctorale.04-24",
+  "04-25": "sanctorale.04-25",
+  "04-28": "sanctorale.04-28",
+  "04-29": "sanctorale.04-29",
+  "04-30": "sanctorale.04-30",
+  "05-01": "sanctorale.05-01",
+  "05-02": "sanctorale.05-02",
+  "05-03": "sanctorale.05-03",
+  "05-10": "sanctorale.05-10",
+  "05-12": "sanctorale.05-12",
+  "05-13": "sanctorale.05-13",
+  "05-14": "sanctorale.05-14",
+  "05-18": "sanctorale.05-18",
+  "05-20": "sanctorale.05-20",
+  "05-22": "sanctorale.05-22.rita-of-cascia",
+  "05-25": "sanctorale.05-25",
+  "05-26": "sanctorale.05-26",
+  "05-27": "sanctorale.05-27",
+  "05-29": "sanctorale.05-29",
+  "05-31": "sanctorale.05-31",
+  "06-01": "sanctorale.06-01",
+  "06-02": "sanctorale.06-02",
+  "06-03": "sanctorale.06-03",
+  "06-05": "sanctorale.06-05",
+  "06-06": "sanctorale.06-06",
+  "06-08": "sanctorale.06-09",
+  "06-09": "sanctorale.06-09.brazil",
+  "06-11": "sanctorale.06-11",
+  "06-13": "sanctorale.06-13",
+  "06-19": "sanctorale.06-19",
+  "06-21": "sanctorale.06-21",
+  "06-22": "sanctorale.06-22.john-fisher",
+  "06-24": "sanctorale.06-24",
+  "06-26": "sanctorale.06-26",
+  "06-27": "sanctorale.06-27",
+  "06-28": "sanctorale.06-28",
+  "06-30": "sanctorale.06-30",
+  "07-03": "sanctorale.07-03",
+  "07-04": "sanctorale.07-04",
+  "07-05": "sanctorale.07-05",
+  "07-06": "sanctorale.07-06",
+  "07-08": "sanctorale.07-09",
+  "07-09": "sanctorale.07-09.brazil",
+  "07-11": "sanctorale.07-11",
+  "07-13": "sanctorale.07-13",
+  "07-14": "sanctorale.07-14",
+  "07-15": "sanctorale.07-15",
+  "07-16": "sanctorale.07-16",
+  "07-17": "sanctorale.07-17.brazil",
+  "07-21": "sanctorale.07-21",
+  "07-22": "sanctorale.07-22",
+  "07-23": "sanctorale.07-23",
+  "07-24": "sanctorale.07-24",
+  "07-25": "sanctorale.07-25",
+  "07-26": "sanctorale.07-26",
+  "07-29": "sanctorale.07-29",
+  "07-30": "sanctorale.07-30",
+  "07-31": "sanctorale.07-31",
+  "08-01": "sanctorale.08-01",
+  "08-02": "sanctorale.08-02",
+  "08-04": "sanctorale.08-04",
+  "08-05": "sanctorale.08-05",
+  "08-06": "sanctorale.08-06",
+  "08-07": "sanctorale.08-07",
+  "08-08": "sanctorale.08-08",
+  "08-09": "sanctorale.08-09",
+  "08-10": "sanctorale.08-10",
+  "08-11": "sanctorale.08-11",
+  "08-12": "sanctorale.08-13",
+  "08-13": "sanctorale.08-13.brazil",
+  "08-14": "sanctorale.08-14",
+  "08-16": "sanctorale.08-16",
+  "08-19": "sanctorale.08-19",
+  "08-20": "sanctorale.08-20",
+  "08-21": "sanctorale.08-21",
+  "08-22": "sanctorale.08-22",
+  "08-23": "sanctorale.08-23",
+  "08-24": "sanctorale.08-24",
+  "08-25": "sanctorale.08-25",
+  "08-27": "sanctorale.08-27",
+  "08-28": "sanctorale.08-28",
+  "08-29": "sanctorale.08-29",
+  "09-03": "sanctorale.09-03",
+  "09-08": "sanctorale.09-08",
+  "09-09": "sanctorale.09-09",
+  "09-12": "sanctorale.09-12",
+  "09-13": "sanctorale.09-13",
+  "09-14": "sanctorale.09-14",
+  "09-15": "sanctorale.09-15",
+  "09-16": "sanctorale.09-16",
+  "09-17": "sanctorale.09-17",
+  "09-19": "sanctorale.09-19",
+  "09-20": "sanctorale.09-20",
+  "09-21": "sanctorale.09-21",
+  "09-23": "sanctorale.09-23",
+  "09-26": "sanctorale.09-26",
+  "09-27": "sanctorale.09-27",
+  "09-28": "sanctorale.09-28",
+  "09-29": "sanctorale.09-29",
+  "09-30": "sanctorale.09-30",
+  "10-01": "sanctorale.10-01",
+  "10-02": "sanctorale.10-02",
+  "10-03": "sanctorale.10-03.brazil",
+  "10-04": "sanctorale.10-04",
+  "10-05": "sanctorale.10-05.brazil",
+  "10-06": "sanctorale.10-06",
+  "10-07": "sanctorale.10-07",
+  "10-09": "sanctorale.10-09",
+  "10-11": "sanctorale.10-11",
+  "10-12": "sanctorale.10-12.brazil",
+  "10-14": "sanctorale.10-14",
+  "10-15": "sanctorale.10-15",
+  "10-16": "sanctorale.10-16",
+  "10-17": "sanctorale.10-17",
+  "10-18": "sanctorale.10-18",
+  "10-19": "sanctorale.10-19.paul-of-the-cross",
+  "10-22": "sanctorale.10-22",
+  "10-23": "sanctorale.10-23",
+  "10-24": "sanctorale.10-24",
+  "10-25": "sanctorale.10-25.brazil",
+  "10-28": "sanctorale.10-28",
+  "11-02": "sanctorale.11-02",
+  "11-03": "sanctorale.11-03",
+  "11-04": "sanctorale.11-04",
+  "11-09": "sanctorale.11-09",
+  "11-10": "sanctorale.11-10",
+  "11-11": "sanctorale.11-11",
+  "11-12": "sanctorale.11-12",
+  "11-15": "sanctorale.11-15",
+  "11-16": "sanctorale.11-16",
+  "11-17": "sanctorale.11-17",
+  "11-18": "sanctorale.11-18",
+  "11-19": "sanctorale.11-19.brazil",
+  "11-21": "sanctorale.11-21",
+  "11-22": "sanctorale.11-22",
+  "11-23": "sanctorale.11-23",
+  "11-24": "sanctorale.11-24",
+  "11-25": "sanctorale.11-25",
+  "11-30": "sanctorale.11-30",
+  "12-03": "sanctorale.12-03",
+  "12-04": "sanctorale.12-04",
+  "12-06": "sanctorale.12-06",
+  "12-07": "sanctorale.12-07",
+  "12-08": "sanctorale.12-08",
+  "12-09": "sanctorale.12-09",
+  "12-10": "sanctorale.12-10",
+  "12-11": "sanctorale.12-11",
+  "12-12": "sanctorale.12-12",
+  "12-13": "sanctorale.12-13",
+  "12-14": "sanctorale.12-14",
+  "12-21": "sanctorale.12-21",
+  "12-23": "sanctorale.12-23",
+  "12-25": "tempore.christmas.nativity-day",
+  "12-26": "sanctorale.12-26",
+  "12-27": "sanctorale.12-27",
+  "12-28": "sanctorale.12-28",
+  "12-29": "sanctorale.12-29",
+  "12-31": "sanctorale.12-31"
+ }
+}
