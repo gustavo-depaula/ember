@@ -3,11 +3,12 @@ export type Verse = {
   text: string
 }
 
-/** A translation read from its publisher, one chapter per request. */
+/** A translation read from its publisher, one request per chapter read. */
 export type WebBible = {
   /** Books whose chapter count differs from the Douay-Rheims'. */
   chapters?: Record<string, number>
-  fetchChapter: (book: string, chapter: number) => Promise<Verse[]>
+  /** The chapter asked for, with any others that came in the same response. */
+  fetchChapters: (book: string, chapter: number) => Promise<Record<number, Verse[]>>
 }
 
 export async function fetchOk(url: string, site: string): Promise<Response> {

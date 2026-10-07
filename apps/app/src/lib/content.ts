@@ -74,19 +74,25 @@ export type ChapterResult = {
 // A chapter read from its publisher is kept in `external_content`, so it is
 // fetched once and reads offline afterwards.
 async function getWebChapter(translation: string, bookId: string, chapter: number) {
-  const key = {
+  const keyOf = (n: number | string) => ({
     producerId: `bible/${translation}`,
     producerVersion: '1',
     lang: '',
-    cacheKey: `${bookId}/${chapter}`,
+    cacheKey: `${bookId}/${n}`,
     paramsKey: '',
-  }
-  const cached = await getExternalContent<Verse[]>(key)
+  })
+  const cached = await getExternalContent<Verse[]>(keyOf(chapter))
   if (cached) return cached.payload
 
-  const verses = await webBibles[translation].fetchChapter(bookId, chapter)
+  const chapters = await webBibles[translation].fetchChapters(bookId, chapter)
+  const verses = chapters[chapter] ?? []
   if (verses.length === 0) throw new Error(`${translation}: no verses in ${bookId} ${chapter}`)
-  await putExternalContent(key, verses)
+  // A publisher that serves several chapters to a page is asked once for them all.
+  await Promise.all(
+    Object.entries(chapters)
+      .filter(([, vs]) => vs.length > 0)
+      .map(([n, vs]) => putExternalContent(keyOf(n), vs)),
+  )
   return verses
 }
 

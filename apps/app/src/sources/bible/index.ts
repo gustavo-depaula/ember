@@ -1,4 +1,5 @@
 import { aveMaria } from './aveMaria'
+import { cnbb } from './cnbb'
 import type { WebBible } from './types'
 
 export type { Verse, WebBible } from './types'
@@ -7,4 +8,5 @@ export type { Verse, WebBible } from './types'
 // publisher a chapter at a time and kept on the device only.
 export const webBibles: Record<string, WebBible> = {
   AM: aveMaria,
+  CNBB: cnbb,
 }

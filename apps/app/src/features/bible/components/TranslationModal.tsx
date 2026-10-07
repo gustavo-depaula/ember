@@ -1,6 +1,6 @@
 import { Check, X } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Modal, Pressable } from 'react-native'
+import { Modal, Platform, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
 import { translationsFor } from '@/lib/bibleTranslations'
@@ -105,7 +105,7 @@ export function TranslationModal({ visible, onClose }: { visible: boolean; onClo
         </XStack>
 
         <ScrollView flex={1}>
-          {translationsFor(i18n.language).map((t) => (
+          {translationsFor(i18n.language, Platform.OS === 'web').map((t) => (
             <TranslationRow
               key={t.code}
               code={t.code}

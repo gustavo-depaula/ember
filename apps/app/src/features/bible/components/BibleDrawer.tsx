@@ -7,6 +7,7 @@ import {
   type LayoutChangeEvent,
   type NativeScrollEvent,
   type NativeSyntheticEvent,
+  Platform,
   Pressable,
   type ScrollView as RNScrollView,
   type View as RNView,
@@ -17,12 +18,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, useTheme, View, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
-import {
-  findTranslation,
-  type Translation,
-  translations,
-  translationsFor,
-} from '@/lib/bibleTranslations'
+import { findTranslation, type Translation, translationsFor } from '@/lib/bibleTranslations'
 import { type Book, getChapter } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -454,21 +450,23 @@ function EditionsPanel({
   const translation = usePreferencesStore((s) => s.translation)
   const setTranslation = usePreferencesStore((s) => s.setTranslation)
 
+  const offered = translationsFor(i18n.language, Platform.OS === 'web')
+
   // Each edition shows how it opens the chapter in hand, so it is chosen by
   // reading it. Same key as the reader's own query: picking one costs no fetch.
   const specimens = useQueries({
-    queries: translations.map((tr) => ({
+    queries: offered.map((tr) => ({
       queryKey: ['chapter', tr.code, bookId, chapter],
       queryFn: () => getChapter(tr.code, bookId, chapter),
       enabled: visible,
     })),
   })
 
-  const languages = [...new Set(translationsFor(i18n.language).map((tr) => tr.language))]
+  const languages = [...new Set(offered.map((tr) => tr.language))]
 
   function renderEdition(tr: Translation) {
     const selected = tr.code === translation
-    const specimen = specimens[translations.indexOf(tr)]?.data
+    const specimen = specimens[offered.indexOf(tr)]?.data
     return (
       <Pressable
         key={tr.code}
@@ -543,7 +541,7 @@ function EditionsPanel({
               >
                 {t(`bible.editionLanguages.${language}`)}
               </Typography>
-              {translations.filter((tr) => tr.language === language).map(renderEdition)}
+              {offered.filter((tr) => tr.language === language).map(renderEdition)}
             </YStack>
           ))}
         </YStack>

@@ -516,7 +516,8 @@ export default {
     attrBible:
       'Texto b\u00edblico: Douay-Rheims, Catholic Public Domain Version, Knox, Matos Soares e Vulgata Clementina',
     attrCatechism: 'Catecismo da Igreja Cat\u00f3lica, © Libreria Editrice Vaticana',
-    attrBibleOnline: 'B\u00edblia Ave Maria lida dos Mission\u00e1rios Claretianos',
+    attrBibleOnline:
+      'B\u00edblia Ave Maria lida dos Mission\u00e1rios Claretianos; B\u00edblia Sagrada CNBB (\u00a9 Edi\u00e7\u00f5es CNBB) lida da Biblia Clerus do Dicast\u00e9rio para o Clero',
     estCompletion: 'Conclus\u00e3o est.: {{date}}',
     booksOf: '{{completed}} de {{total}} livros',
     languagesSection: 'Idiomas',

@@ -11,6 +11,8 @@ export type Translation = {
    * for one read from its publisher by the matching entry in `sources/bible`.
    */
   corpus?: string
+  /** Its publisher sends no CORS headers, so a browser cannot read it. */
+  nativeOnly?: true
 }
 
 export const translations: Translation[] = [
@@ -47,6 +49,15 @@ export const translations: Translation[] = [
     numbering: 'lxx',
   },
   {
+    code: 'CNBB',
+    name: 'Bíblia Sagrada CNBB',
+    language: 'PT',
+    description:
+      'A tradução oficial da Conferência Nacional dos Bispos do Brasil (2002). Lida da Biblia Clerus.',
+    numbering: 'mt',
+    nativeOnly: true,
+  },
+  {
     code: 'MS',
     name: 'Bíblia Matos Soares',
     language: 'PT',
@@ -70,14 +81,16 @@ export const defaultTranslationForLanguage: Record<string, string> = {
 }
 
 /**
- * The registry with the editions in the app's own language first, the rest in
- * registry order. `appLanguage` is a locale such as `pt-BR`.
+ * The editions to offer: those in the app's own language first, the rest in
+ * registry order, without the ones a browser cannot read when `web` is set.
+ * `appLanguage` is a locale such as `pt-BR`.
  */
-export function translationsFor(appLanguage: string): Translation[] {
+export function translationsFor(appLanguage: string, web = false): Translation[] {
   const own = appLanguage.slice(0, 2).toUpperCase()
+  const offered = translations.filter((tr) => !(web && tr.nativeOnly))
   return [
-    ...translations.filter((tr) => tr.language === own),
-    ...translations.filter((tr) => tr.language !== own),
+    ...offered.filter((tr) => tr.language === own),
+    ...offered.filter((tr) => tr.language !== own),
   ]
 }
 

@@ -6,7 +6,7 @@ const stored = new Map<string, unknown>()
 
 vi.mock('./hearth', () => ({ fetchHearth }))
 vi.mock('@/sources/bible', () => ({
-  webBibles: { AM: { chapters: { joel: 4 }, fetchChapter: fetchAveMaria } },
+  webBibles: { AM: { chapters: { joel: 4 }, fetchChapters: fetchAveMaria } },
 }))
 vi.mock('@/db/repositories/externalContent', () => ({
   getExternalContent: async (key: { producerId: string; cacheKey: string }) => {
@@ -45,7 +45,10 @@ beforeEach(() => {
     'bible/drb/matthew.json': { '1': { '1': 'The book of the generation' } },
     'bible/cpdv/matthew.json': { '1': { '1': 'The book of the lineage' } },
   })
-  fetchAveMaria.mockResolvedValue([{ verse: 1, text: 'Genealogia de Jesus Cristo' }])
+  fetchAveMaria.mockResolvedValue({
+    1: [{ verse: 1, text: 'Genealogia de Jesus Cristo' }],
+    2: [{ verse: 1, text: 'Tendo nascido Jesus em Belém' }],
+  })
 })
 
 describe('getChapter', () => {
@@ -67,6 +70,16 @@ describe('getChapter', () => {
     expect(second).toEqual(first)
     expect(fetchAveMaria).toHaveBeenCalledTimes(1)
     expect(fetchAveMaria).toHaveBeenCalledWith('matthew', 1)
+  })
+
+  it('keeps every chapter that came with the one asked for', async () => {
+    const { getChapter } = await loadContent()
+
+    await getChapter('AM', 'matthew', 1)
+    const second = await getChapter('AM', 'matthew', 2)
+
+    expect(second).toEqual({ verses: [{ verse: 1, text: 'Tendo nascido Jesus em Belém' }] })
+    expect(fetchAveMaria).toHaveBeenCalledTimes(1)
   })
 
   it('falls back to the Douay-Rheims when the publisher cannot be reached', async () => {

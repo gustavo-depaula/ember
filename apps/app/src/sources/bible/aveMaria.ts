@@ -29,8 +29,8 @@ export function parseAveMariaChapter(verses: ApiVerse[]): Verse[] {
 export const aveMaria: WebBible = {
   // Hebrew chapter divisions here, though the Psalms keep the Vulgate numbers.
   chapters: { joel: 4, malachias: 3 },
-  fetchChapter: async (book, chapter) => {
+  fetchChapters: async (book, chapter) => {
     const res = await fetchOk(`${baseUrl}/chapter/${portugueseSlug[book]}_${chapter}`, 'Ave Maria')
-    return parseAveMariaChapter(await res.json())
+    return { [chapter]: parseAveMariaChapter(await res.json()) }
   },
 }
