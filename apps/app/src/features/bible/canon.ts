@@ -19,3 +19,10 @@ export type CanonDivisionId = (typeof canonDivisions)[number]['id']
 export function divisionStartingAt(bookId: string): CanonDivisionId | undefined {
   return canonDivisions.find((d) => d.firstBook === bookId)?.id
 }
+
+/** The division a book belongs to, given the canon's book ids in order. */
+export function divisionOfBook(bookId: string, canon: string[]): CanonDivisionId | undefined {
+  const index = canon.indexOf(bookId)
+  if (index === -1) return undefined
+  return canonDivisions.findLast((d) => canon.indexOf(d.firstBook) <= index)?.id
+}

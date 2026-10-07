@@ -13,11 +13,12 @@ import { ribbonTones } from '../placeLabel'
 import { useOpenBiblePlace } from '../useOpenBiblePlace'
 
 const gutter = 14
+const screenMargin = 24
 
 // The home row's stamp size, shrunk so two still fit side by side on a narrow phone.
 function useStampSize(): number {
   const { width } = useWindowDimensions()
-  const content = Math.min(width, 640) - 24 * 2
+  const content = Math.min(width, 640) - screenMargin * 2
   return Math.min(160, Math.floor((content - gutter) / 2))
 }
 
@@ -32,7 +33,13 @@ export function ReadingStamps() {
   const { data: books } = useBooks(translation)
 
   return (
-    <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+    // Bleeds to the screen's edges, so a tile slides off the glass and not into the margin.
+    <ScrollView
+      horizontal
+      showsHorizontalScrollIndicator={false}
+      marginHorizontal={-screenMargin}
+      contentContainerStyle={{ paddingHorizontal: screenMargin }}
+    >
       <XStack gap={gutter}>
         <Stamp
           title={t('home.bible')}

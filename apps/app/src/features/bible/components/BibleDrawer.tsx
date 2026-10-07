@@ -22,7 +22,7 @@ import { type Book, getChapter } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { type CanonDivisionId, canonDivisions, divisionStartingAt } from '../canon'
+import { type CanonDivisionId, canonDivisions, divisionOfBook, divisionStartingAt } from '../canon'
 import type { BiblePlace } from '../recents'
 
 const chaptersPerRow = 5
@@ -73,6 +73,7 @@ export function BibleDrawer({
       <Animated.View style={[styles.panels, { width: width * 2 }, slideStyle]}>
         <View width={width}>
           <BooksPanel
+            open={open}
             books={books}
             bookId={bookId}
             chapter={chapter}
@@ -95,6 +96,7 @@ export function BibleDrawer({
 }
 
 function BooksPanel({
+  open,
   books,
   bookId,
   chapter,
@@ -102,6 +104,7 @@ function BooksPanel({
   onOpenEditions,
   onOpenReadingConfig,
 }: {
+  open: boolean
   books: Book[]
   bookId: string
   chapter: number
@@ -117,9 +120,25 @@ function BooksPanel({
   const [division, setDivision] = useState<CanonDivisionId | undefined>()
   const scrollRef = useRef<RNScrollView>(null)
   const divisionTops = useRef(new Map<CanonDivisionId, number>())
+  const bookTops = useRef(new Map<string, number>())
 
-  // Moving to another book, from here or from the page, opens it in the list.
-  useEffect(() => setOpenBook(bookId), [bookId])
+  // The drawer opens on the book being read, wherever it stands in the canon.
+  // A jump without animation reports no scroll, so the index is told directly.
+  function showBook(y: number) {
+    scrollRef.current?.scrollTo({ y, animated: false })
+    setDivision(
+      divisionOfBook(
+        bookId,
+        books.map((b) => b.id),
+      ),
+    )
+  }
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: runs when the drawer opens or the book changes, not when showBook is re-created
+  useEffect(() => {
+    const y = bookTops.current.get(bookId)
+    if (open && y !== undefined) showBook(y)
+  }, [open, bookId])
 
   function scrollToDivision(id: CanonDivisionId) {
     const y = divisionTops.current.get(id)
@@ -176,12 +195,13 @@ function BooksPanel({
               return (
                 <YStack
                   key={book.id}
-                  onLayout={
-                    startsDivision
-                      ? (e: LayoutChangeEvent) =>
-                          divisionTops.current.set(startsDivision, e.nativeEvent.layout.y)
-                      : undefined
-                  }
+                  onLayout={(e: LayoutChangeEvent) => {
+                    const { y } = e.nativeEvent.layout
+                    if (startsDivision) divisionTops.current.set(startsDivision, y)
+                    // The first layout is also the first chance to show the book in hand.
+                    if (book.id === bookId && !bookTops.current.has(book.id)) showBook(y)
+                    bookTops.current.set(book.id, y)
+                  }}
                 >
                   {startsDivision ? (
                     <Typography
