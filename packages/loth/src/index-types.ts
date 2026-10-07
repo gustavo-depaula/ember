@@ -11,11 +11,38 @@ import type { Block } from './text'
 
 // The coordinates a part may depend on. One letter each: they are the column
 // names of every layer in the corpus.
-//   s season · w week of the season · d weekday · p week of the psalter
+//   s season · w week of the season · d weekday · D Sunday or weekday
+//   p week of the psalter
 //   c Sunday cycle (A/B/C) · y year of the readings (I/II) · k date (MM-DD,
 //   Advent and Christmas) · g evening kind (first Vespers, Sunday eve)
-//   a eve of Advent · C celebration · v psalm of the Invitatory
-export type Field = 's' | 'w' | 'd' | 'p' | 'c' | 'y' | 'k' | 'g' | 'a' | 'C' | 'v'
+//   a eve of Advent · v psalm of the Invitatory
+// and, on a day that keeps a celebration:
+//   r its rank · K the Common it draws on · C the celebration itself
+export type Field =
+  | 's'
+  | 'w'
+  | 'd'
+  | 'D'
+  | 'p'
+  | 'c'
+  | 'y'
+  | 'k'
+  | 'g'
+  | 'a'
+  | 'v'
+  | 'r'
+  | 'K'
+  | 'C'
+
+// The coordinates only a celebration has, the most particular first. A layer
+// is filed under the first of them it names, and says nothing about a day
+// that lacks it: a saint with no Common has no place in a Common's layer.
+const ofACelebration: Field[] = ['C', 'K', 'r']
+
+export function applies(layer: Layer, key: OfficeKey): boolean {
+  const under = ofACelebration.find((f) => layer.fields.includes(f))
+  return !under || key[under] !== ''
+}
 
 export type OfficeKey = Record<Field, string>
 
@@ -28,18 +55,22 @@ export type Form = 'season' | 'celebration'
 
 export function officeKey(office: Office, form: Form, psalm: InvitatoryPsalm = '94c'): OfficeKey {
   const { day } = office
+  const kept = form === 'celebration' ? office.celebration : undefined
   return {
     s: day.season,
     w: String(day.week),
     d: String(day.weekday),
+    D: day.weekday === 0 ? 'sunday' : 'weekday',
     p: String(day.psalterWeek),
     c: day.cycle,
     y: office.hour === 'readings' ? day.readingsYear : '',
     k: office.dateKey ?? '',
     g: office.firstVespers ? 'first' : office.sundayEve ? 'eve' : '',
     a: office.adventEve ? '1' : '',
-    C: form === 'celebration' ? (office.celebration?.id ?? '') : '',
     v: office.hour === 'invitatory' ? psalm : '',
+    r: kept?.rank ?? '',
+    K: kept?.common ?? '',
+    C: kept?.id ?? '',
   }
 }
 
@@ -52,9 +83,11 @@ export interface Layer {
 }
 
 export interface HourIndex {
-  // Every slot the hour can have, in the order they are prayed.
+  // Every slot the hour can have after its opening, in the order they are prayed.
   order: string[]
-  // Slot -> its layers, the most general first.
+  // Slot -> its layers, the most general first. `@head` gives, instead of a
+  // part, the slots that open the hour that day, in their order; `whole`, the
+  // few hours laid out unlike any other, as one part.
   slots: Record<string, Layer[]>
 }
 
@@ -70,10 +103,29 @@ export function lookup(layers: Layer[] | undefined, key: OfficeKey): string | un
   if (!layers) return undefined
   for (let i = layers.length - 1; i >= 0; i--) {
     const layer = layers[i]
-    // A layer of one celebration says nothing about a day without it.
-    if (layer.fields.includes('C') && !key.C) continue
+    if (!applies(layer, key)) continue
     const hit = layer.entries[project(key, layer.fields)]
     if (hit !== undefined) return hit
   }
   return undefined
+}
+
+// What a day must share with a day already checked for its hour to be taken
+// as checked too. An hour is put together from what the season gives and
+// what the celebration adds; each half is known where it has been met.
+//
+// The season's half: this week and weekday of this season (this date, in
+// Advent and Christmas time), at this hour of the evening; on a Sunday or its
+// eve, in this year of the cycle; at the Office of Readings, in this year of
+// its own.
+export function seasonCoverage(key: OfficeKey): string {
+  const sunday = key.d === '0' || key.g !== ''
+  return [key.s, key.w, key.d, key.p, key.k, key.g, key.a, sunday ? key.c : '', key.y].join('|')
+}
+
+// The celebration's half: this celebration in this season, on a Sunday or a
+// weekday, at this hour of the evening. A saint met only in Ordinary Time is
+// not known in Easter time, where his antiphons may change.
+export function celebrationCoverage(key: OfficeKey): string | undefined {
+  return key.C ? [key.C, key.s, key.D, key.g].join('|') : undefined
 }

@@ -64,7 +64,11 @@ export async function assembleHour(
   const index = await source.index(office.hour)
   if (!index) return []
   const key = officeKey(office, form, psalm)
-  const refs = index.order
+  // The few hours laid out unlike any other are kept whole, as one part.
+  const whole = lookup(index.slots.whole, key)
+  // What opens the hour is arranged day by day; the rest keeps one order.
+  const opening = lookup(index.slots['@head'], key)?.split(' ') ?? []
+  const refs = (whole ? ['whole'] : [...opening, ...index.order])
     .map((slot) => ({ slot, ref: lookup(index.slots[slot], key) }))
     .filter((part): part is { slot: string; ref: string } => Boolean(part.ref))
   return Promise.all(

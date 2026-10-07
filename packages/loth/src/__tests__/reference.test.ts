@@ -4,7 +4,7 @@ import { describe, expect, it } from 'vitest'
 import { lothDay } from '../day'
 import { assembleHour, formsOf, type HourPart } from '../hour'
 import { type Hour, officeOf } from '../office'
-import { blockText } from '../text'
+import { wordsOfBlocks } from '../text'
 import { calendar, corpus, on } from './corpus'
 import reference from './reference.json'
 
@@ -12,7 +12,8 @@ import reference from './reference.json'
 // from gives for every hour of every day of 2020-2040: three bytes of a hash
 // of the letters and digits of each hour (`own`: the office it opens with;
 // `other`: the second one a memorial allows), and the day's celebration and
-// psalter week. The engine shares no code with that app, so agreeing with it
+// psalter week. The label of a versicle or response is not counted: the source
+// writes the same one as "V." in one hour and "℣." in the next. The engine shares no code with that app, so agreeing with it
 // hour for hour is the test that it is the same breviary.
 
 const hours = reference.hours as Hour[]
@@ -20,13 +21,8 @@ const own = Buffer.from(reference.own, 'base64')
 const other = Buffer.from(reference.other, 'base64')
 
 function hash(parts: HourPart[]): string {
-  const letters = parts
-    .flatMap((part) => part.blocks.map(blockText))
-    .join('')
-    .normalize('NFC')
-    .replace(/[^\p{L}\p{N}]/gu, '')
-    .toLowerCase()
-  return createHash('sha1').update(letters).digest().subarray(0, 3).toString('hex')
+  const words = wordsOfBlocks(parts.flatMap((part) => part.blocks))
+  return createHash('sha1').update(words).digest().subarray(0, 3).toString('hex')
 }
 
 const at = (bytes: Buffer, day: number, hour: number) => {

@@ -10,13 +10,17 @@ import type { LothCalendar } from '../../packages/loth/src/day'
 import {
   type HourIndex,
   invitatoryPsalms,
+  applies,
+  celebrationCoverage,
   lookup,
   type OfficeKey,
   officeKey,
+  project,
+  seasonCoverage,
 } from '../../packages/loth/src/index-types'
 import { type Hour, hours, officeOf } from '../../packages/loth/src/office'
-import type { Block } from '../../packages/loth/src/text'
-import { buildLayers, type Observation } from './layers'
+import { type Block, wordsOf, wordsOfBlocks } from '../../packages/loth/src/text'
+import { buildLayers, type Observation, setDiffUntold } from './layers'
 import { normalize } from './normalize'
 import { slotsOf } from './slots'
 
@@ -64,6 +68,24 @@ function relink(blocks: Block[]): Block[] {
   }))
 }
 
+// The same words are one part however a given hour happens to mark them up.
+// The source cuts a memorial's hour out of the weekday's and loses a red
+// label or a line break on the way; kept apart, the two would look like the
+// saint having psalms of his own. Of the variants, the one that kept the most
+// of its markup is the part.
+const lineOf = (line: Block['lines'][number]) => line.map((seg) => (typeof seg === 'string' ? seg : seg.t)).join('')
+const marked = (blocks: Block[]) =>
+  // A variant set all in capitals is the one a source file shouted.
+  (/\p{L}{4}/u.test(lineOf(blocks[0]?.lines[0] ?? [])) && lineOf(blocks[0].lines[0]) === lineOf(blocks[0].lines[0]).toUpperCase() ? -1000 : 0) +
+  blocks.reduce(
+    (n, block) =>
+      n +
+      (block.k === 'title' ? 2 : 0) +
+      block.lines.length +
+      block.lines.reduce((m, line) => m + line.filter((seg) => typeof seg !== 'string').length, 0),
+    0,
+  )
+
 const parts = new Map<string, Block[]>()
 // text id -> [slot, part id][]
 const textParts = new Map<string, [string, string][]>()
@@ -74,13 +96,42 @@ for (const line of readFileSync(join(dumps, 'textos.jsonl'), 'utf8').split('\n')
   textParts.set(
     text.id,
     cut.map((part) => {
-      const id = sha(part.blocks)
-      if (!parts.has(id)) parts.set(id, part.blocks)
+      const id = sha(wordsOfBlocks(part.blocks))
+      const kept = parts.get(id)
+      const better =
+        !kept ||
+        marked(part.blocks) > marked(kept) ||
+        (marked(part.blocks) === marked(kept) && JSON.stringify(part.blocks) < JSON.stringify(kept))
+      if (better) parts.set(id, part.blocks)
       return [part.slot, id]
     }),
   )
 }
 console.log(`${textParts.size} texts, ${parts.size} parts`)
+if (process.env.LOTH_SLOT) {
+  const seen = new Map<string, number>()
+  for (const cut of textParts.values())
+    for (const [slot, id] of cut) if (slot.replace(/\d/g, 'N').startsWith(process.env.LOTH_SLOT)) seen.set(id, (seen.get(id) ?? 0) + 1)
+  console.log(`  ${process.env.LOTH_SLOT}: ${seen.size} distinct parts`)
+  for (const [id, n] of [...seen].sort((a, b) => b[1] - a[1]).slice(0, 14))
+    console.log(`    ${n}× ${JSON.stringify(parts.get(id)).slice(0, 200)}`)
+}
+
+setDiffUntold((slot, o, below) => {
+  const flat = (id: string | undefined) =>
+    id
+      ? (parts.get(id) as Block[])
+          .map((b) => b.lines.map((l) => l.map((x) => (typeof x === 'string' ? x : x.t)).join('')).join(' / '))
+          .join(' // ')
+      : ''
+  const a = flat(o.value)
+  const b = flat(below)
+  let i = 0
+  while (i < a.length && a[i] === b[i]) i++
+  console.log(
+    `     DIFF ${slot.hour} ${slot.slot} ${o.key.C} ${o.key.s} w${o.key.w} d${o.key.d} (${a.length} vs ${b.length} chars, differ at ${i})\n        saint's: …${a.slice(Math.max(0, i - 50), i + 90)}\n        below:   …${b.slice(Math.max(0, i - 50), i + 90)}`,
+  )
+})
 
 // ---- observations ----------------------------------------------------------
 
@@ -166,6 +217,8 @@ console.log(`conflicts: ${conflicts.length}`)
  * One order for every slot of an hour, so that an hour is its slots in that
  * order, each present or absent on its own. Fails if two texts disagree.
  */
+const isHead = (slot: string) => slot.startsWith('head')
+
 function orderOf(sequences: string[][]): string[] {
   const after = new Map<string, Set<string>>()
   for (const sequence of sequences) {
@@ -203,7 +256,8 @@ for (const hour of hours) {
   // kept whole, as one part, rather than bend the order of all the rest.
   const uses = new Map<string, { sequence: string[]; texts: Set<string>; count: number }>()
   for (const { text } of list) {
-    const sequence = (textParts.get(text) as [string, string][]).map(([slot]) => slot)
+    // What opens the hour is arranged day by day (`@head`), not in one order.
+    const sequence = (textParts.get(text) as [string, string][]).map(([slot]) => slot).filter((slot) => !isHead(slot))
     const use = uses.get(sequence.join(' ')) ?? { sequence, texts: new Set(), count: 0 }
     uses.set(sequence.join(' '), use)
     use.texts.add(text)
@@ -227,12 +281,33 @@ for (const hour of hours) {
   }
   if (order.length < regular.flat().length && [...uses.values()].some((u) => !regular.includes(u.sequence))) order.push('whole')
   const slots: HourIndex['slots'] = {}
-  for (const slot of order) {
-    const observations: Observation[] = list.map(({ key, text }) => ({
-      key,
-      value: (textParts.get(text) as [string, string][]).find(([s]) => s === slot)?.[1] ?? '',
-    }))
-    slots[slot] = buildLayers(observations, hour === 'invitatory')
+  const untold = new Map<string, number>()
+  // The slots the engine reads for a day: the hour kept whole, or its opening
+  // as that day arranges it and then the rest in order.
+  const slotsFor = (key: OfficeKey) =>
+    lookup(slots.whole, key) ? ['whole'] : [...(lookup(slots['@head'], key)?.split(' ') ?? []), ...order]
+  const assembled = (key: OfficeKey) =>
+    slotsFor(key)
+      .map((slot) => lookup(slots[slot], key))
+      .filter((p): p is string => Boolean(p))
+  const arrangement = (text: string) =>
+    (textParts.get(text) as [string, string][]).map(([slot]) => slot).filter(isHead).join(' ')
+  const heads = [...new Set(list.flatMap(({ text }) => (textParts.get(text) as [string, string][]).map(([slot]) => slot).filter(isHead)))]
+  for (const slot of ['@head', ...heads, ...order]) {
+    // An hour kept whole says nothing about the parts of the others.
+    const isWhole = (text: string) => (textParts.get(text) as [string, string][])[0][0] === 'whole'
+    const observations: Observation[] = list
+      .filter(({ text }) => slot === 'whole' || !isWhole(text))
+      .map(({ key, text }) => ({
+        key,
+        value:
+          slot === '@head'
+            ? arrangement(text)
+            : ((textParts.get(text) as [string, string][]).find(([s]) => s === slot)?.[1] ?? ''),
+      }))
+    const built = buildLayers(observations, { hour, slot })
+    slots[slot] = built.layers
+    if (built.untold > 0) untold.set(slot, built.untold)
   }
   indexes.set(hour, { order, slots })
 
@@ -240,28 +315,83 @@ for (const hour of hours) {
   let wrong = 0
   for (const { key, text, date } of list) {
     const cut = textParts.get(text) as [string, string][]
-    const got = order.map((slot) => lookup(slots[slot], key)).filter(Boolean).join(' ')
+    const got = assembled(key).join(' ')
     if (got !== cut.map(([, part]) => part).join(' ') && wrong++ < 3) console.log('  WRONG', hour, date)
   }
   if (holdout) {
     const unseen = all.filter((o) => o.date >= holdout)
     let same = 0
     let sameWords = 0
-    const letters = (ids: string[]) =>
-      ids
-        .flatMap((id) => (parts.get(id) as Block[]).map((b) => b.lines.map((l) => l.map((x) => (typeof x === 'string' ? x : x.t)).join('')).join('')))
-        .join('')
-        .replace(/[^\p{L}\p{N}]/gu, '')
-        .toLowerCase()
+    const letters = (ids: string[]) => wordsOfBlocks(ids.flatMap((id) => parts.get(id) as Block[]))
     const misses: string[] = []
+    // Which layer answered, for telling a rule that misled from one that was missing.
+    const answeredBy = (slot: string, key: OfficeKey) => {
+      const layers = slots[slot] ?? []
+      for (let i = layers.length - 1; i >= 0; i--) {
+        if (!applies(layers[i], key)) continue
+        if (layers[i].entries[project(key, layers[i].fields)] !== undefined) return layers[i].fields.join('') || '-'
+      }
+      return 'none'
+    }
+    const flat = (id: string | undefined) =>
+      id
+        ? (parts.get(id) as Block[])
+            .map((b) => b.lines.map((l) => l.map((x) => (typeof x === 'string' ? x : x.t)).join('')).join(' / '))
+            .join(' // ')
+        : ''
+    // The two texts from a little before where they part.
+    const apart = (mine: string | undefined, theirs: string | undefined) => {
+      const a = flat(mine)
+      const b = flat(theirs)
+      let i = 0
+      while (i < a.length && a[i] === b[i]) i++
+      const from = Math.max(0, i - 40)
+      return [a, b].map((t) => (t ? `${from > 0 ? '…' : ''}${t.slice(from, i + 100)}` : '(nothing)'))
+    }
+    const causes = new Map<string, number>()
+    // Would the engine have known it was on unchecked ground?
+    const metSeasons = new Set(list.map((o) => seasonCoverage(o.key)))
+    const metCelebrations = new Set(list.map((o) => celebrationCoverage(o.key)))
+    const covered = (key: OfficeKey) =>
+      metSeasons.has(seasonCoverage(key)) && (!key.C || metCelebrations.has(celebrationCoverage(key)))
+    let flagged = 0
+    let silent = 0
     for (const { key, text, date } of unseen) {
-      const want = (textParts.get(text) as [string, string][]).map(([, part]) => part)
-      const got = order.map((slot) => lookup(slots[slot], key)).filter((p): p is string => Boolean(p))
+      if (!covered(key)) flagged++
+      const cut = textParts.get(text) as [string, string][]
+      const want = cut.map(([, part]) => part)
+      const got = assembled(key)
       if (got.join(' ') === want.join(' ')) same++
       else if (letters(got) === letters(want)) sameWords++
-      else misses.push(`${date} ${key.C}`)
+      else {
+        misses.push(`${date} ${key.C}`)
+        if (covered(key)) silent++
+        const mine = slotsFor(key)
+        const differing = [...new Set([...mine, ...cut.map(([s]) => s)])].filter(
+          (slot) =>
+            ((mine.includes(slot) && lookup(slots[slot], key)) || undefined) !==
+            cut.find(([s]) => s === slot)?.[1],
+        )
+        for (const slot of differing) {
+          const cause = `${slot.replace(/\d/g, 'N')} via ${answeredBy(slot, key)}`
+          causes.set(cause, (causes.get(cause) ?? 0) + 1)
+        }
+        if (process.argv.includes('--misses')) {
+          console.log(`MISS${covered(key) ? '' : '(flagged)'} ${hour} ${date} ${JSON.stringify(key)}`)
+          for (const slot of differing.slice(0, 5))
+          {
+            const [mine, theirs] = apart(
+              (lookup(slots.whole, key) ? slot === 'whole' : true) ? lookup(slots[slot], key) || undefined : undefined,
+              cut.find(([s]) => s === slot)?.[1],
+            )
+            console.log(`   [${slot} via ${answeredBy(slot, key)}]\n      engine: ${mine}\n      book:   ${theirs}`)
+          }
+        }
+      }
     }
-    console.log(`  holdout ${hour}: ${unseen.length} unmet keys, ${same} exact, ${sameWords} same words, ${misses.length} differ  ${misses.slice(0, 6).join(', ')}`)
+    console.log(
+      `  holdout ${hour}: ${unseen.length} unmet keys, ${same} exact, ${sameWords} same words, ${misses.length} differ; ${flagged} would be flagged, ${silent} differ unflagged\n     ${[...causes].sort((a, b) => b[1] - a[1]).map(([c, n]) => `${c}:${n}`).join('  ')}`,
+    )
     continue
   }
   if (process.argv.includes('--slots')) {
@@ -276,6 +406,8 @@ for (const hour of hours) {
       const name = layer.fields.join('')
       perLayer.set(name, (perLayer.get(name) ?? 0) + Object.keys(layer.entries).length)
     }
+  if (untold.size > 0)
+    console.log(`  untold by any layer: ${[...untold].map(([slot, n]) => `${slot}:${n}`).join(' ')}`)
   console.log(
     `${hour}: ${list.length} keys, ${order.length} slots, wrong ${wrong}\n   ` +
       [...perLayer].map(([k, n]) => `${k || '-'}:${n}`).join(' '),
@@ -296,7 +428,8 @@ const bundles = new Map<string, Block[][]>()
   for (const hour of hours) {
     const index = indexes.get(hour) as HourIndex
     for (const { key } of observed.get(hour)?.values() ?? []) {
-      for (const slot of index.order) {
+      for (const slot of Object.keys(index.slots)) {
+        if (slot === '@head') continue
         const part = lookup(index.slots[slot], key)
         if (!part || seen.has(part)) continue
         seen.add(part)
@@ -344,7 +477,7 @@ for (const [hour, index] of indexes) {
           entries: Object.fromEntries(
             Object.entries(layer.entries)
               .sort(([a], [b]) => (a < b ? -1 : 1))
-              .map(([at, part]) => [at, part && (bundleOf.get(part) as string)]),
+              .map(([at, part]) => [at, slot === '@head' ? part : part && (bundleOf.get(part) as string)]),
           ),
         })),
       ]),
@@ -365,16 +498,16 @@ console.log(`${bundles.size} bundles`)
 const signature = (html: string) =>
   createHash('sha1')
     .update(
-      html
-        .replace(/<[^>]+>/g, '')
-        .replace(/&nbsp;/g, ' ')
-        .replace(/&amp;/g, '&')
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&quot;/g, '"')
-        .normalize('NFC')
-        .replace(/[^\p{L}\p{N}]/gu, '')
-        .toLowerCase(),
+      wordsOf(
+        html
+          .replace(/<br\s*\/?>|<\/(p|div)>/g, '\n')
+          .replace(/<[^>]+>/g, '')
+          .replace(/&nbsp;/g, ' ')
+          .replace(/&amp;/g, '&')
+          .replace(/&lt;/g, '<')
+          .replace(/&gt;/g, '>')
+          .replace(/&quot;/g, '"'),
+      ),
     )
     .digest()
     .subarray(0, 3)

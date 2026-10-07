@@ -242,6 +242,11 @@ function renderBlock(block: Block, ctx: RenderContext, out: Primitive[], options
   // the canticle's title instead of before it.
   let unlabelledAntiphon = false
   const last = out[out.length - 1]
+  // A label alone on its line: the antiphon is the paragraph after it.
+  if (last?.type === 'verses' && last.items[last.items.length - 1].text.primary === '') {
+    open = last
+    runsOn = 'antiphon'
+  }
   if (
     last?.type === 'heading' &&
     last.text.primary === 'Cântico evangélico' &&
@@ -249,6 +254,10 @@ function renderBlock(block: Block, ctx: RenderContext, out: Primitive[], options
   ) {
     unlabelledAntiphon = true
     pendingAntiphon.delete(last)
+  } else if (last?.type === 'heading' && last.text.primary === 'Cântico evangélico') {
+    // The citation and the Latin stand in the paragraph under the title.
+    const first = block.lines[0] ?? []
+    if (first.every((seg) => isMarked(seg, 'link', 'rubric', 'note'))) open = last
   }
 
   for (const line of block.lines) {
@@ -533,7 +542,16 @@ function alternatives(primitives: Primitive[]): Primitive[] {
 
 /** An hour's parts as primitives. */
 export function renderParts(parts: HourPart[], ctx: RenderContext): Primitive[] {
-  return parts.flatMap((part) =>
-    renderBlocks(part.blocks, ctx, { depth: 0, head: part.slot === 'head' }),
-  )
+  // What opens the hour comes as a part to each kind of line (the name, the
+  // rank, the Common); it is read as the one heading it is.
+  const opening = parts.filter((part) => part.slot.startsWith('head'))
+  const rest = parts.filter((part) => !part.slot.startsWith('head'))
+  return [
+    ...renderBlocks(
+      opening.flatMap((part) => part.blocks),
+      ctx,
+      { depth: 0, head: true },
+    ),
+    ...rest.flatMap((part) => renderBlocks(part.blocks, ctx)),
+  ]
 }
