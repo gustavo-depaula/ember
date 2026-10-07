@@ -115,3 +115,27 @@ export function readingMinutes(entries: CommentaryEntry[]): number {
   const words = entries.flatMap((e) => e.voices).reduce((n, v) => n + v.text.split(/\s+/).length, 0)
   return Math.max(1, Math.round(words / wordsPerMinute))
 }
+
+/**
+ * The opening of a run of commentary, for the half page beside the text: whole
+ * voices while they fit in `budget` characters, then the next one cut at a
+ * sentence. `cut` says there is more to read.
+ */
+export function excerpt(voices: Voice[], budget: number): { voices: Voice[]; cut: boolean } {
+  const kept: Voice[] = []
+  let left = budget
+  for (const voice of voices) {
+    if (voice.text.length <= left) {
+      kept.push(voice)
+      left -= voice.text.length
+      continue
+    }
+    // Too little room left to open another voice: it waits for the full page.
+    if (kept.length > 0 && left < budget / 3) return { voices: kept, cut: true }
+    const head = voice.text.slice(0, left)
+    const end = Math.max(head.lastIndexOf('. '), head.lastIndexOf('; '), head.lastIndexOf('? '))
+    kept.push({ ...voice, text: end > left / 2 ? head.slice(0, end + 1) : `${head.trimEnd()}…` })
+    return { voices: kept, cut: true }
+  }
+  return { voices: kept, cut: false }
+}

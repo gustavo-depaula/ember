@@ -1,4 +1,4 @@
-import { useQuery, useQueryClient } from '@tanstack/react-query'
+import { useQueries, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useShallow } from 'zustand/react/shallow'
@@ -8,6 +8,7 @@ import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { findAdjacentChapter } from './bookNav'
+import { getCommentary, sourcesForBook } from './commentary'
 
 export function useBooks(translation: string) {
   return useQuery({
@@ -84,4 +85,26 @@ export function usePrefetchAdjacentChapters(
       })
     }
   }, [translation, bookId, chapter, queryClient])
+}
+
+/**
+ * What every commentator on this book says of the chapter, keyed by source.
+ * All of them at once: a verse one is silent on names those that speak of it.
+ */
+export function useChapterCommentary(bookId: string, chapter: number, enabled: boolean) {
+  const sources = sourcesForBook(bookId)
+  return useQueries({
+    queries: sources.map((source) => ({
+      queryKey: ['bible', 'commentary', source.id, bookId, chapter],
+      queryFn: () => getCommentary(source.id, bookId, chapter),
+      enabled,
+      staleTime: Number.POSITIVE_INFINITY,
+    })),
+    combine: (results) => ({
+      sources,
+      bySource: Object.fromEntries(sources.map((s, i) => [s.id, results[i].data])),
+      isLoading: results.some((r) => r.isLoading),
+      error: results.find((r) => r.error)?.error,
+    }),
+  })
 }

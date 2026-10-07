@@ -654,6 +654,23 @@ export default {
   bible: {
     editions: 'Edi\u00e7\u00f5es',
     editionOnline: 'online',
+    commentary: {
+      title: 'Comentário',
+      commentators: 'Comentadores',
+      about: {
+        haydock:
+          'A Bíblia inteira, versículo a versículo. Pe. George Leo Haydock, 1859. Em inglês.',
+        catena: 'Os Evangelhos: os Padres, reunidos por Santo Tomás de Aquino. Em inglês.',
+      },
+      silent: '{{source}} não comenta o versículo {{verse}}.',
+      elsewhere: 'Sobre este versículo:',
+      none: 'Ainda não há comentário sobre o versículo {{verse}}.',
+      readOn_one: 'Continuar · {{count}} min',
+      readOn_other: 'Continuar · {{count}} min',
+      minutes_one: '{{count}} min',
+      minutes_other: '{{count}} min',
+      onVerses: 'Sobre {{verses}}',
+    },
     editionLanguages: {
       EN: 'Ingl\u00eas',
       PT: 'Portugu\u00eas',
@@ -1490,6 +1507,9 @@ export default {
     readingSettings: 'Configurações de leitura',
     resumeReading: 'Retomar a leitura em {{place}}',
     backToBooks: 'Voltar aos livros',
+    verseCommentary: 'Versículo {{n}}: abrir o comentário',
+    closeCommentary: 'Fechar o comentário',
+    chooseCommentator: '{{name}}: escolher o comentador',
     selectTranslation: 'Selecionar tradução da Bíblia',
     prevChapter: 'Capítulo anterior',
     nextChapter: 'Próximo capítulo',

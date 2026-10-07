@@ -1,6 +1,7 @@
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import { useRouter } from 'expo-router'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
+import { Pressable, ScrollView, StyleSheet, useWindowDimensions } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import Animated, {
   clamp,
@@ -19,34 +20,87 @@ import {
   ScreenLayout,
   TwoColumnReaderHeader,
 } from '@/components'
+import { useBottomClearance } from '@/components/tabAccessory'
 import type { Book } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { useBooks, useChapter, usePrefetchAdjacentChapters } from '../hooks'
+import { spanForVerse } from '../commentary'
+import { useBooks, useChapter, useChapterCommentary, usePrefetchAdjacentChapters } from '../hooks'
 import { BibleDrawer } from './BibleDrawer'
 import { ChapterContent } from './ChapterContent'
 import { ChapterNav } from './ChapterNav'
+import { CommentaryPane } from './CommentaryPane'
 
 const springConfig = { damping: 24, stiffness: 200, mass: 0.8 }
 const noBooks: Book[] = []
 // How long a chapter stays open before it counts as read, so that leafing
 // through the drawer to look something up moves no place.
 const readingDwellMs = 20_000
+// Where a tapped verse comes to rest below the top of the page, so the line
+// before it stays in view.
+const verseRestOffset = 72
 
 export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?: boolean }) {
   const { t } = useTranslation()
-  const { width: screenWidth } = useWindowDimensions()
+  const router = useRouter()
+  const { width: screenWidth, height: screenHeight } = useWindowDimensions()
+  const bottomClearance = useBottomClearance()
   const drawerWidth = Math.min(screenWidth * 0.8, 360)
   const stripWidth = drawerWidth + screenWidth
 
   const translation = usePreferencesStore((s) => s.translation)
   const { bookId, chapter, setPosition, recordReading } = useBibleStore()
+  const commentarySource = useBibleStore((s) => s.commentarySource)
 
   const slideX = useSharedValue(initialDrawerOpen ? drawerWidth : 0)
   const startX = useSharedValue(0)
   const [panelOpen, setPanelOpen] = useState(initialDrawerOpen)
   const [readingConfigVisible, setReadingConfigVisible] = useState(false)
+
+  // The verse whose commentary is open in the lower half; none, and the page
+  // is whole.
+  const [commentedVerse, setCommentedVerse] = useState<number>()
+  const [paneHeight, setPaneHeight] = useState(Math.round(screenHeight * 0.46))
+  const scrollRef = useRef<ScrollView>(null)
+  const chapterTop = useRef(0)
+  const commentary = useChapterCommentary(bookId, chapter, commentedVerse !== undefined)
+  const closeCommentary = useCallback(() => setCommentedVerse(undefined), [])
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: a new chapter is the trigger
+  useEffect(() => {
+    setCommentedVerse(undefined)
+    scrollRef.current?.scrollTo({ y: 0, animated: false })
+  }, [bookId, chapter])
+
+  const marked = (() => {
+    if (commentedVerse === undefined) return undefined
+    const source =
+      commentary.sources.find((s) => s.id === commentarySource) ?? commentary.sources[0]
+    const span = spanForVerse(commentary.bySource[source.id] ?? [], commentedVerse)
+    return {
+      verse: commentedVerse,
+      from: span?.from ?? commentedVerse,
+      to: span?.to ?? commentedVerse,
+    }
+  })()
+
+  function handleVersePress(verse: number, y: number) {
+    if (verse === commentedVerse) {
+      closeCommentary()
+      return
+    }
+    setCommentedVerse(verse)
+    scrollRef.current?.scrollTo({ y: Math.max(0, chapterTop.current + y - verseRestOffset) })
+  }
+
+  function openVersePage() {
+    if (commentedVerse === undefined) return
+    router.push({
+      pathname: '/bible/verse',
+      params: { bookId, chapter: String(chapter), verse: String(commentedVerse) },
+    })
+  }
 
   const {
     data: books = noBooks,
@@ -135,12 +189,20 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
     if (!chapterData) return undefined
     return (
       <>
-        <ChapterContent
-          bookName={bookName}
-          chapter={chapter}
-          verses={chapterData.verses}
-          fallback={chapterData.fallback}
-        />
+        <View
+          onLayout={(e) => {
+            chapterTop.current = e.nativeEvent.layout.y
+          }}
+        >
+          <ChapterContent
+            bookName={bookName}
+            chapter={chapter}
+            verses={chapterData.verses}
+            fallback={chapterData.fallback}
+            marked={marked}
+            onVersePress={handleVersePress}
+          />
+        </View>
         <ChapterNav bookId={bookId} chapter={chapter} books={books} onNavigate={handleNavigate} />
       </>
     )
@@ -172,20 +234,45 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
           </View>
 
           <Animated.View style={[{ width: screenWidth }, dimStyle]}>
-            <ScreenLayout>
-              <YStack flex={1}>
-                <TwoColumnReaderHeader
-                  variant="plain"
-                  leftLabel={bookName}
-                  rightValue={String(chapter)}
-                  onLeftPress={openDrawer}
-                  onRightPress={openDrawer}
-                  leftA11yLabel={t('a11y.selectBook')}
-                  rightA11yLabel={t('a11y.selectChapter')}
-                />
-                {renderContent()}
-              </YStack>
-            </ScreenLayout>
+            <View flex={1}>
+              {/* The page scrolls here and not in ScreenLayout, so a tapped
+                verse can be brought up clear of the commentary below it. */}
+              <ScreenLayout scroll={false} modal>
+                <ScrollView
+                  ref={scrollRef}
+                  showsVerticalScrollIndicator={false}
+                  contentContainerStyle={{
+                    flexGrow: 1,
+                    paddingBottom: commentedVerse === undefined ? bottomClearance : 24,
+                  }}
+                >
+                  <YStack flex={1}>
+                    <TwoColumnReaderHeader
+                      variant="plain"
+                      leftLabel={bookName}
+                      rightValue={String(chapter)}
+                      onLeftPress={openDrawer}
+                      onRightPress={openDrawer}
+                      leftA11yLabel={t('a11y.selectBook')}
+                      rightA11yLabel={t('a11y.selectChapter')}
+                    />
+                    {renderContent()}
+                  </YStack>
+                </ScrollView>
+              </ScreenLayout>
+            </View>
+            {commentedVerse !== undefined ? (
+              <CommentaryPane
+                chapter={chapter}
+                verse={commentedVerse}
+                commentary={commentary}
+                initialHeight={paneHeight}
+                maxHeight={Math.round(screenHeight * 0.8)}
+                onResize={setPaneHeight}
+                onClose={closeCommentary}
+                onReadOn={openVersePage}
+              />
+            ) : undefined}
             {panelOpen ? (
               <Pressable
                 style={StyleSheet.absoluteFill}

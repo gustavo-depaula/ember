@@ -1,7 +1,7 @@
-import { useMemo } from 'react'
+import { useMemo, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
-import type { TextStyle } from 'react-native'
-import { Text, useTheme, YStack } from 'tamagui'
+import { Pressable, type TextStyle } from 'react-native'
+import { Text, useTheme, View, YStack } from 'tamagui'
 import { Typography } from '@/components'
 import { ReadingParagraph } from '@/components/ReadingParagraph'
 import { useReadingMargin, useReadingMaxWidth, useReadingStyle } from '@/hooks/useReadingStyle'
@@ -47,16 +47,24 @@ function VerseLine({
   return <ReadingParagraph source={source} />
 }
 
+/** The verse whose commentary is open, and the passage that commentary covers. */
+export type MarkedVerses = { verse: number; from: number; to: number }
+
 export function ChapterContent({
   bookName,
   chapter,
   verses,
   fallback,
+  marked,
+  onVersePress,
 }: {
   bookName: string
   chapter: number
   verses: Verse[]
   fallback?: boolean
+  marked?: MarkedVerses
+  /** `y` is the verse's top within this component, for scrolling it into view. */
+  onVersePress?: (verse: number, y: number) => void
 }) {
   const { t } = useTranslation()
   const readingStyle = useReadingStyle()
@@ -72,6 +80,11 @@ export function ChapterContent({
     () => ({ color: theme.colorSecondary?.val as string }),
     [theme.colorSecondary],
   )
+  const markedNumberRender = useMemo(
+    () => ({ color: theme.colorBurgundy?.val as string }),
+    [theme.colorBurgundy],
+  )
+  const tops = useRef(new Map<number, number>())
 
   if (verses.length === 0) return undefined
 
@@ -99,14 +112,40 @@ export function ChapterContent({
         </Text>
       ) : undefined}
 
-      {verses.map((v) => (
-        <VerseLine
-          key={v.verse}
-          verse={v}
-          numberSizePx={numberSizePx}
-          numberRender={numberRender}
-        />
-      ))}
+      {verses.map((v) => {
+        const inPassage = marked !== undefined && marked.from <= v.verse && v.verse <= marked.to
+        const line = (
+          <VerseLine
+            verse={v}
+            numberSizePx={numberSizePx}
+            numberRender={marked?.verse === v.verse ? markedNumberRender : numberRender}
+          />
+        )
+        if (!onVersePress) return <View key={v.verse}>{line}</View>
+        return (
+          <Pressable
+            key={v.verse}
+            onLayout={(e) => tops.current.set(v.verse, e.nativeEvent.layout.y)}
+            onPress={() => onVersePress(v.verse, tops.current.get(v.verse) ?? 0)}
+            accessibilityRole="button"
+            accessibilityLabel={t('a11y.verseCommentary', { n: v.verse })}
+            accessibilityState={{ selected: marked?.verse === v.verse }}
+            aria-selected={marked?.verse === v.verse}
+          >
+            {/* The wash runs past the text on every side, across the gap
+              between verses, so a marked passage reads as one block. */}
+            <View
+              backgroundColor={inPassage ? '$backgroundSurface' : 'transparent'}
+              marginHorizontal={-6}
+              paddingHorizontal={6}
+              marginVertical={-2}
+              paddingVertical={2}
+            >
+              {line}
+            </View>
+          </Pressable>
+        )
+      })}
     </YStack>
   )
 }

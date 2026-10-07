@@ -649,6 +649,22 @@ export default {
   bible: {
     editions: 'Editions',
     editionOnline: 'online',
+    commentary: {
+      title: 'Commentary',
+      commentators: 'Commentators',
+      about: {
+        haydock: 'The whole Bible, verse by verse. Fr George Leo Haydock, 1859.',
+        catena: 'The Gospels: the Fathers, gathered by St Thomas Aquinas.',
+      },
+      silent: '{{source}} has no note on verse {{verse}}.',
+      elsewhere: 'On this verse:',
+      none: 'No commentary on verse {{verse}} yet.',
+      readOn_one: 'Read on · {{count}} min',
+      readOn_other: 'Read on · {{count}} min',
+      minutes_one: '{{count}} min',
+      minutes_other: '{{count}} min',
+      onVerses: 'On {{verses}}',
+    },
     editionLanguages: {
       EN: 'English',
       PT: 'Portuguese',
@@ -1483,6 +1499,9 @@ export default {
     readingSettings: 'Reading settings',
     resumeReading: 'Resume reading at {{place}}',
     backToBooks: 'Back to the books',
+    verseCommentary: 'Verse {{n}}: open the commentary',
+    closeCommentary: 'Close the commentary',
+    chooseCommentator: '{{name}}: choose the commentator',
     selectTranslation: 'Select Bible translation',
     prevChapter: 'Previous chapter',
     nextChapter: 'Next chapter',
