@@ -182,9 +182,10 @@ def settle_lines(lines, hard_breaks):
     """Decide what a source newline means, then tidy each line.
 
     Where a passage has <br>, those are its line breaks and newlines are just
-    the source file's wrapping. Where it has none, short uneven lines are the
-    prayer's sense lines (the Portuguese orations), while lines that all run
-    to the wrap margin are prose reflowed by upstream's formatter.
+    the source file's wrapping. Where it has none and is plain text, short
+    uneven lines are the prayer's sense lines (the Portuguese orations), while
+    lines that all run to the wrap margin are prose reflowed by upstream's
+    formatter.
     """
     out = []
     for line in lines:
@@ -201,7 +202,10 @@ def settle_lines(lines, hard_breaks):
         if not pieces:
             continue
         widths = [sum(len(seg_text(s)) for s in p) for p in pieces[:-1]]
-        sense_lines = not hard_breaks and widths and min(widths) < 58
+        # Only plain text is trusted: around inline markup upstream's formatter
+        # breaks lines wherever the tags happen to end.
+        plain_text = all(isinstance(seg, str) for seg in line)
+        sense_lines = not hard_breaks and plain_text and widths and min(widths) < 58
         if sense_lines:
             out.extend(pieces)
         else:
@@ -222,7 +226,25 @@ def tidy(line):
             merged[-1] += seg
         else:
             merged.append(seg)
-    merged = [re.sub(r"[ \t\xa0]+", " ", s) if isinstance(s, str) else s for s in merged]
+    # A rubric upstream's formatter split across source lines is one run again.
+    joined = []
+    for seg in merged:
+        gap = len(joined) >= 2 and isinstance(joined[-1], str) and not joined[-1].strip()
+        before = joined[-2] if gap else (joined[-1] if joined else None)
+        same = (
+            isinstance(seg, dict)
+            and isinstance(before, dict)
+            and before["m"] == seg["m"]
+            and "to" not in seg
+            and "to" not in before
+        )
+        if same:
+            if gap:
+                before["t"] += joined.pop()
+            before["t"] += seg["t"]
+        else:
+            joined.append(dict(seg) if isinstance(seg, dict) else seg)
+    merged = [re.sub(r"[ \t\xa0]+", " ", s) if isinstance(s, str) else s for s in joined]
     if merged and isinstance(merged[0], str):
         merged[0] = merged[0].lstrip()
     if merged and isinstance(merged[-1], str):

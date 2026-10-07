@@ -46,6 +46,9 @@ function segMarkdown(seg: Seg): string {
       return wrap('*')
     case 'bold':
       return wrap('**')
+    case 'cross':
+      // Upstream sets the cross tight against the word that follows it.
+      return `${text.trim()} `
     default:
       return text
   }
@@ -153,11 +156,11 @@ export function renderItem(item: Item, ctx: RenderContext, out: Primitive[] = []
   return out
 }
 
-// A passage upstream lacks in the reader's language is shown in Latin, then in
-// whatever language has it, rather than dropped.
+// A passage upstream lacks in the reader's language is shown in Latin rather
+// than dropped. One it has in neither is another language's own insertion (the
+// German Sunday Communicantes, Spain's extra prefaces) and is not shown.
 function fallbackBlocks(item: Item): Block[] {
-  const text = item.text ?? {}
-  return text.la ?? text['en-US'] ?? text['pt-BR'] ?? Object.values(text)[0] ?? []
+  return item.text?.la ?? []
 }
 
 export function renderItems(items: Item[], ctx: RenderContext): Primitive[] {

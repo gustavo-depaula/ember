@@ -101,6 +101,13 @@ describe('an ordinary weekday', () => {
     expect(gospel?.options.map((o) => o.label.primary)).toEqual(['Do dia', 'Próprio'])
   })
 
+  it('shows nothing that exists only in a third language', async () => {
+    // Upstream's German Eucharistic Prayers carry Sunday insertions of their own.
+    const all = JSON.stringify(await massOn('2026-10-04', 'en-US'))
+    expect(all).not.toContain('Darum kommen wir')
+    expect(all).not.toContain('Prefacio III')
+  })
+
   it('pairs Latin with the vernacular', async () => {
     const mass = await massOn('2026-10-07')
     expect(shown(mass, true)).toContain('Pater noster')

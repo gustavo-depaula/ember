@@ -6,18 +6,25 @@ The current `content/of/` descends from the same app through `ember-extra`, a co
 
 ## Where things stand
 
-- `extract.py` joins upstream's language-neutral skeletons with each language's text and writes one neutral JSON file per upstream file to `consult/out/`, with a report. It fails if any text is lost in the join. Classes and anchors are carried through uninterpreted.
-- Next: map the neutral JSON onto a schema, rebuild the calendar as data, and diff a new resolver against upstream's own `dia_liturgico`.
+Graduated. The importer lives in `scripts/missal/`, its output in `content/missal/`, and the calendar and Mass assembly in `packages/missal` (`@ember/missal`); the app's Mass is `apps/app/src/sources/missal/`. The previous `content/of`, `@ember/mass`, `@ember/missal-schema` and `tools/missal` are gone.
+
+What was kept from upstream, and what was not:
+
+- **Kept:** every text, the part vocabulary, the numbers of the Table of Liturgical Days, the layering (proper, then common, then the day), the rule for a memorial's readings, and alternatives as a first-class idea.
+- **Rewritten:** the calendar. Upstream's is a chain of date branches and a switch on `dd.mm`; ours is the sanctoral table that switch yields plus a resolver with regions and the transfer of impeded solemnities. It is tested against upstream's own answers for 2020-2040 (`packages/missal/src/__tests__/upstream-calendar.json`, written by `scripts/missal/golden.mjs`), and the test names each place the two differ and why.
+- **Not carried over:** upstream's element ids, CSS classes and precedence codes (66, 7.5). `scripts/missal/ids.py` and `build.py`'s `finalize` translate them.
+
+Known gaps, all upstream's: a few dozen passages it lacks in Latin, English or Portuguese (listed by the snapshot of `packages/missal/src/__tests__/sweep.test.ts`; the app shows Latin where the reader's language is missing), 18 links that point at nothing (`consult/build-report.json`), and the French regional sanctoral, whose text files upstream does not ship.
 
 ## Running it
 
 ```bash
-git clone https://github.com/pedropasinn/Missale_romanum consult/upstream
-git -C consult/upstream checkout be8004c04e693b30f9fbd9bed2dbad4cc64a7cef
-python3 extract.py
+git clone https://github.com/pedropasinn/Missale_romanum research/missale-romanum/consult/upstream
+git -C research/missale-romanum/consult/upstream checkout be8004c04e693b30f9fbd9bed2dbad4cc64a7cef
+pnpm build:missal
 ```
 
-`consult/` is gitignored: upstream has no licence and its English, Portuguese and other vernacular texts are the official in-copyright translations.
+`consult/` is gitignored: it holds the upstream clone and the importer's working files.
 
 ## How upstream selects texts
 
