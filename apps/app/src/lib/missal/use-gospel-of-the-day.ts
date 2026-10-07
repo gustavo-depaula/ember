@@ -22,15 +22,16 @@ export function useGospelOfTheDay(): {
 } {
   const today = useToday()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const dateKey = format(today, 'yyyy-MM-dd')
   const query = useQuery({
-    queryKey: ['gospel-of-the-day', dateKey, contentLanguage],
+    queryKey: ['gospel-of-the-day', dateKey, contentLanguage, jurisdiction ?? null],
     queryFn: async (): Promise<GospelOfTheDay | null> => {
       if (Platform.OS !== 'web') {
         const vn = await fetchVaticanGospelText(narrowLang(contentLanguage), today)
         if (vn) return vn
       }
-      return (await loadGospelOfDay(today, contentLanguage as Lang)) ?? null
+      return (await loadGospelOfDay(today, contentLanguage as Lang, jurisdiction)) ?? null
     },
     staleTime: 60 * 60 * 1000,
     gcTime: 24 * 60 * 60 * 1000,

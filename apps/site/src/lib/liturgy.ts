@@ -32,8 +32,8 @@ import { localizeContent } from '@/lib/i18n'
 import {
   corpusMissal,
   loadMissalCalendar,
-  regionsForContentLang,
-  transfersForContentLang,
+  regionsForJurisdiction,
+  transfersForJurisdiction,
 } from '@/lib/missal/loaders'
 import { doHourSource } from '@/sources/divinum-officium/do-hour'
 import { createCorpusDoLoader } from '@/sources/divinum-officium/loader'
@@ -42,7 +42,7 @@ import { isoDate, type OfficeHour, slugOf } from '~/routes'
 import { ofTexts } from './config'
 import { bootCorpus } from './corpus'
 import { inLiturgyWindow, liturgyDates } from './dates'
-import { type Locale, translator, withLocale } from './locale'
+import { jurisdiction, type Locale, translator, withLocale } from './locale'
 import { renderPractice } from './practice'
 import { addDays, today } from './today'
 
@@ -84,7 +84,11 @@ async function ofYear(year: number, locale: Locale): Promise<Map<string, DayCale
       await bootCorpus()
       const calendar = await loadMissalCalendar()
       if (!calendar) throw new Error('OF calendar missing from the corpus')
-      return buildOfYearCalendar({ year, calendar, regions: regionsForContentLang(locale) })
+      return buildOfYearCalendar({
+        year,
+        calendar,
+        regions: regionsForJurisdiction(jurisdiction[locale]),
+      })
     })()
     ofYears.set(key, pending)
   }
@@ -100,10 +104,10 @@ export async function loadOfDay(date: Date, locale: Locale): Promise<OfDayView> 
   const t = translator(locale)
   const missal = await loadMissalCalendar()
   if (!missal) throw new Error('OF calendar missing from the corpus')
-  const day = resolveOfDay(date, missal, { regions: regionsForContentLang(locale) })
+  const day = resolveOfDay(date, missal, { regions: regionsForJurisdiction(jurisdiction[locale]) })
   const calendar = await ofYear(date.getFullYear(), locale)
   return withLocale(locale, async () => {
-    const transfers = transfersForContentLang(locale)
+    const transfers = transfersForJurisdiction(jurisdiction[locale])
     const dayName = getLiturgicalDayName(date, 'of', { t }, transfers)
     const lang = locale as Lang
     const principal = day.celebrations[0]
@@ -132,13 +136,7 @@ export async function loadOfDay(date: Date, locale: Locale): Promise<OfDayView> 
       const citation = readingOf(plan?.parts[part]?.[0]?.items ?? [], lang).citation
       return citation ? [{ slot, citation }] : []
     }
-    const obligations = getDayObligations(
-      date,
-      'of',
-      locale === 'pt-BR' ? 'BR' : 'US',
-      calendar,
-      transfers,
-    )
+    const obligations = getDayObligations(date, 'of', jurisdiction[locale], calendar, transfers)
     return {
       date,
       dayName,
@@ -172,7 +170,7 @@ export async function loadOfMonth(year: number, month: number, locale: Locale) {
       principal: entry && {
         name:
           withLocale(locale, () => localizeContent(entry.entry.name as Localized)) ||
-          getLiturgicalDayName(date, 'of', { t }, transfersForContentLang(locale)),
+          getLiturgicalDayName(date, 'of', { t }, transfersForJurisdiction(jurisdiction[locale])),
         rank: entry.rank,
       },
     })
@@ -360,7 +358,7 @@ export async function loadOfficeHour(
   await bootCorpus()
   const ctx = {
     params: { hour, version: form.version, votive: form.votive, date: isoDate(date) },
-    prefs: { lang: locale, translation: 'DRB' },
+    prefs: { lang: locale, translation: 'DRB', jurisdiction: jurisdiction[locale] },
     date,
     queryClient: new QueryClient(),
   } as unknown as SourceFetchContext

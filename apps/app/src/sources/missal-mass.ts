@@ -16,7 +16,7 @@ import {
   loadEucharisticPrayer,
   loadMassOrder,
   loadMissalCalendar,
-  regionsForContentLang,
+  regionsForJurisdiction,
 } from '@/lib/missal/loaders'
 import { buildMass, massLabel } from './missal/buildMass'
 import type { LangPrefs } from './missal/render'
@@ -63,9 +63,9 @@ export const missalMassSource: ContentSource<Primitive[]> = {
   // The cached flow embeds corpus text whose blobs change with every corpus
   // build; the catalog's `generated` stamp invalidates it.
   get version() {
-    return `5:${getCatalog().generated}`
+    return `6:${getCatalog().generated}`
   },
-  prefsDeps: ['lang'],
+  prefsDeps: ['lang', 'jurisdiction'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
     const [calendar, order, prayers] = await Promise.all([
@@ -78,7 +78,7 @@ export const missalMassSource: ContentSource<Primitive[]> = {
     const primary = ctx.prefs.lang as Lang
     // Latin rides as the second language, as in the Extraordinary Form.
     const lang: LangPrefs = primary === 'la' ? { primary } : { primary, secondary: 'la' }
-    const options = { regions: regionsForContentLang(ctx.prefs.lang) }
+    const options = { regions: regionsForJurisdiction(ctx.prefs.jurisdiction) }
     const day = resolveOfDay(ctx.date, calendar, options)
 
     const masses: ContainerOption[] = []

@@ -1,10 +1,10 @@
 ---
 import { getLiturgicalDayName, rankColors } from '@ember/liturgical'
-import { transfersForContentLang } from '@/lib/missal/loaders'
+import { transfersForJurisdiction } from '@/lib/missal/loaders'
 import Base from '~/layouts/Base.astro'
 import { calendarYears, monthName } from '~/lib/dates'
 import { efYear, loadOfMonth } from '~/lib/liturgy'
-import { type Locale, translator } from '~/lib/locale'
+import { jurisdiction, type Locale, translator } from '~/lib/locale'
 import { today } from '~/lib/today'
 import { href, isoDate } from '~/routes'
 
@@ -17,7 +17,7 @@ interface Props {
 
 const { locale, alternates, year, month } = Astro.props
 const t = translator(locale)
-const transfers = transfersForContentLang(locale)
+const transfers = transfersForJurisdiction(jurisdiction[locale])
 const pt = locale === 'pt-BR'
 const days = await loadOfMonth(year, month, locale)
 const ef = await efYear(year)

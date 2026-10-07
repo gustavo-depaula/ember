@@ -35,7 +35,7 @@ function gospelPrimitives(citation: string | undefined, body: ProseBlock[]): Pri
 // Offline / web fallback: the corpus-computed Gospel of the day's Mass
 // (the same reading Explore's Gospel of the Day shows).
 async function fallback(ctx: SourceFetchContext, lang: Lang): Promise<Primitive[] | TextPrimitive> {
-  const gospel = await loadGospelOfDay(ctx.date, lang as MissalLang)
+  const gospel = await loadGospelOfDay(ctx.date, lang as MissalLang, ctx.prefs.jurisdiction)
   if (!gospel) {
     const message =
       lang === 'pt-BR'

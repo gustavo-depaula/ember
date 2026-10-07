@@ -6,7 +6,7 @@ import type { Primitive } from '@/content/primitives'
 import type { RenderedSection } from '@/content/types'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bibleTranslations'
-import { transfersForContentLang } from '@/lib/missal/loaders'
+import { transfersForJurisdiction } from '@/lib/missal/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { usePractice } from './usePractice'
 import { usePracticeTracks } from './usePracticeTracks'
@@ -38,6 +38,7 @@ export function usePracticeContent(
   const translation = usePreferencesStore((s) => s.translation)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
+  const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const numbering = getPsalmNumbering(translation)
 
   const now = useToday()
@@ -53,6 +54,7 @@ export function usePracticeContent(
       programDay ?? null,
       contentLanguage,
       secondaryLanguage ?? null,
+      jurisdiction ?? null,
       translation,
       numbering,
       todayKey,
@@ -68,7 +70,7 @@ export function usePracticeContent(
       const context: FlowContext = {
         date: now,
         now: new Date(),
-        ofTransfers: transfersForContentLang(contentLanguage),
+        ofTransfers: transfersForJurisdiction(jurisdiction),
         numbering,
         trackDefs,
         trackState,
@@ -81,7 +83,7 @@ export function usePracticeContent(
       const renderedSections = await resolveFlowAsync(flow, context, ec)
       const primitives = await preprocessFlow(renderedSections, {
         queryClient,
-        prefs: { lang: contentLanguage, translation },
+        prefs: { lang: contentLanguage, translation, jurisdiction },
         date: now,
         programDay,
       })

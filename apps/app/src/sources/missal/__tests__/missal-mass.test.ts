@@ -17,7 +17,7 @@ vi.mock('@/lib/missal/loaders', () => ({
   loadMissalCalendar: async () => read('calendar.json'),
   loadMassOrder: async (id: string) => read(`order/${id}.json`),
   loadEucharisticPrayer: async (id: string) => read(`eucharistic-prayers/${id}.json`),
-  regionsForContentLang: (lang: string) => (lang === 'pt-BR' ? ['brazil'] : []),
+  regionsForJurisdiction: (jurisdiction?: string) => (jurisdiction === 'BR' ? ['brazil'] : []),
   corpusMissal: {
     formulary: async (id: string) => read(`formularies/${id}.json`),
     lectionary: async (id: string) => read(`lectionary/${id}.json`),
@@ -27,9 +27,19 @@ vi.mock('@/lib/missal/loaders', () => ({
 
 const { missalMassSource } = await import('../../missal-mass')
 
-async function massOn(iso: string, lang = 'pt-BR'): Promise<Primitive[]> {
+// A Brazilian reader by default; `lang` alone changes the language, not the
+// calendar. `null` is a reader with no calendar region set.
+async function massOn(
+  iso: string,
+  lang = 'pt-BR',
+  region: 'BR' | 'US' | null = 'BR',
+): Promise<Primitive[]> {
   const [y, m, d] = iso.split('-').map(Number)
-  const ctx = { date: new Date(y, m - 1, d, 12), prefs: { lang, translation: '' }, params: {} }
+  const ctx = {
+    date: new Date(y, m - 1, d, 12),
+    prefs: { lang, translation: '', jurisdiction: region ?? undefined },
+    params: {},
+  }
   return missalMassSource.fetch(ctx as unknown as SourceFetchContext)
 }
 
@@ -180,7 +190,9 @@ describe('Sundays and solemnities', () => {
 
   it('keeps Our Lady of Aparecida as the Mass of 12 October in Brazil', async () => {
     expect(shown(await massOn('2026-10-12'))).toContain('Nossa Senhora da Conceição Aparecida')
-    expect(shown(await massOn('2026-10-12', 'en-US'))).not.toContain('Aparecida')
+    // The calendar follows the region, not the language.
+    expect(shown(await massOn('2026-10-12', 'en-US', 'BR'))).toContain('Aparecida')
+    expect(shown(await massOn('2026-10-12', 'pt-BR', null))).not.toContain('Aparecida')
   })
 })
 

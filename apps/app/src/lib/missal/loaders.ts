@@ -40,18 +40,21 @@ export const corpusMissal: MissalSource = {
   prefaces: async () => (await loadById<Record<string, Doc>>('mass-prefaces')) ?? {},
 }
 
-// The calendar a content language follows. The national calendars the corpus
-// carries are keyed by region; until there is a setting for it, the language
-// stands in for where the user is.
-export function regionsForContentLang(lang: string): string[] {
-  if (lang === 'pt-BR') return ['brazil']
-  if (lang === 'en' || lang === 'en-US') return ['united-states']
-  return []
+// The national calendar a jurisdiction follows: the reader's "calendar region"
+// setting, which the fasting rules follow too. Without one, the General Roman
+// Calendar.
+const jurisdictionRegions: Record<string, string[]> = {
+  BR: ['brazil'],
+  US: ['united-states'],
+}
+
+export function regionsForJurisdiction(jurisdiction: string | undefined): string[] {
+  return (jurisdiction && jurisdictionRegions[jurisdiction]) || []
 }
 
 // Where that calendar keeps Epiphany, the Ascension and Corpus Christi. Every
 // surface that names a day or a season passes this on, so none of them places
 // a day differently from the Mass.
-export function transfersForContentLang(lang: string): Transfers {
-  return transfersFor({ regions: regionsForContentLang(lang) })
+export function transfersForJurisdiction(jurisdiction: string | undefined): Transfers {
+  return transfersFor({ regions: regionsForJurisdiction(jurisdiction) })
 }

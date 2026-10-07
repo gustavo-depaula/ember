@@ -8,26 +8,26 @@ import { useQuery } from '@tanstack/react-query'
 import { addDays, differenceInCalendarDays, format } from 'date-fns'
 import { useMemo } from 'react'
 import { useToday } from '@/hooks/useToday'
-import { loadMissalCalendar, regionsForContentLang } from '@/lib/missal/loaders'
+import { loadMissalCalendar, regionsForJurisdiction } from '@/lib/missal/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // The display calendar (home card + month grid) resolves from the same
 // authority the Novus Ordo Mass uses — @ember/missal's buildOfYearCalendar,
 // resolveOfDay over the missal's calendar — so card and Mass can never disagree.
 export function useYearCalendar(year?: number) {
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const today = useToday()
   const resolvedYear = year ?? today.getFullYear()
 
   return useQuery({
-    queryKey: ['calendar', resolvedYear, contentLanguage],
+    queryKey: ['calendar', resolvedYear, jurisdiction ?? null],
     queryFn: async () => {
       const calendar = await loadMissalCalendar()
       if (!calendar) return new Map<string, DayCalendar>()
       return buildOfYearCalendar({
         year: resolvedYear,
         calendar,
-        regions: regionsForContentLang(contentLanguage),
+        regions: regionsForJurisdiction(jurisdiction),
       })
     },
     staleTime: Number.POSITIVE_INFINITY,

@@ -7,6 +7,9 @@ export type Locale = (typeof locales)[number]
 // URL prefix per locale. English lives at the root so the bare domain is a
 // real, indexable page.
 export const localePrefix: Record<Locale, string> = { 'en-US': '', 'pt-BR': '/pt' }
+// The site has no reader's settings: each edition follows the calendar of the
+// country it is written for.
+export const jurisdiction: Record<Locale, string> = { 'en-US': 'US', 'pt-BR': 'BR' }
 export const htmlLang: Record<Locale, string> = { 'en-US': 'en', 'pt-BR': 'pt-BR' }
 
 // The app's content code reads one global `i18n.language`. Pages of both
