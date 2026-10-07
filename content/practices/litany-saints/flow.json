@@ -11,36 +11,36 @@
           "v": {
             "en-US": "Lord, have mercy.",
             "pt-BR": "Senhor, tende piedade.",
-            "la": "Kyrie, eleison."
+            "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
             "pt-BR": "Senhor, tende piedade.",
-            "la": "Kyrie, eleison."
+            "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, have mercy.",
             "pt-BR": "Cristo, tende piedade.",
-            "la": "Christe, eleison."
+            "la": "Christe, eléison."
           },
           "r": {
             "en-US": "Christ, have mercy.",
             "pt-BR": "Cristo, tende piedade.",
-            "la": "Christe, eleison."
+            "la": "Christe, eléison."
           }
         },
         {
           "v": {
             "en-US": "Lord, have mercy.",
             "pt-BR": "Senhor, tende piedade.",
-            "la": "Kyrie, eleison."
+            "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
             "pt-BR": "Senhor, tende piedade.",
-            "la": "Kyrie, eleison."
+            "la": "Kýrie, eléison."
           }
         },
         {
@@ -52,55 +52,55 @@
           "r": {
             "en-US": "Christ, graciously hear us.",
             "pt-BR": "Cristo, atendei-nos.",
-            "la": "Christe, exaudi nos."
+            "la": "Christe, exáudi nos."
           }
         },
         {
           "v": {
             "en-US": "God the Father of Heaven,",
             "pt-BR": "Deus Pai do Céu,",
-            "la": "Pater de caelis, Deus,"
+            "la": "Pater de cælis, Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
             "pt-BR": "Tende piedade de nós.",
-            "la": "Miserere nobis."
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "God the Son, Redeemer of the world,",
             "pt-BR": "Deus Filho, Redentor do mundo,",
-            "la": "Fili, Redemptor mundi, Deus,"
+            "la": "Fili, Redémptor mundi, Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
             "pt-BR": "Tende piedade de nós.",
-            "la": "Miserere nobis."
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "God the Holy Spirit,",
             "pt-BR": "Deus Espírito Santo,",
-            "la": "Spiritus Sancte, Deus,"
+            "la": "Spíritus Sancte, Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
             "pt-BR": "Tende piedade de nós.",
-            "la": "Miserere nobis."
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Holy Trinity, one God,",
             "pt-BR": "Santíssima Trindade, um só Deus,",
-            "la": "Sancta Trinitas, unus Deus,"
+            "la": "Sancta Trínitas, unus Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
             "pt-BR": "Tende piedade de nós.",
-            "la": "Miserere nobis."
+            "la": "Miserére nobis."
           }
         }
       ]
@@ -122,7 +122,7 @@
           "v": {
             "en-US": "Holy Mary, Mother of God,",
             "pt-BR": "Santa Maria, Mãe de Deus,",
-            "la": "Sancta Maria, Mater Dei,"
+            "la": "Sancta María, Mater Dei,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -134,7 +134,7 @@
           "v": {
             "en-US": "Holy Mother of the Church,",
             "pt-BR": "Santa Mãe da Igreja,",
-            "la": "Sancta Mater Ecclesiae,"
+            "la": "Sancta Mater Ecclésiæ,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -146,7 +146,7 @@
           "v": {
             "en-US": "Saint Michael,",
             "pt-BR": "São Miguel,",
-            "la": "Sancte Michael,"
+            "la": "Sancte Míchael,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -158,7 +158,7 @@
           "v": {
             "en-US": "Saint Gabriel,",
             "pt-BR": "São Gabriel,",
-            "la": "Sancte Gabriel,"
+            "la": "Sancte Gábriel,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -170,7 +170,7 @@
           "v": {
             "en-US": "Saint Raphael,",
             "pt-BR": "São Rafael,",
-            "la": "Sancte Raphael,"
+            "la": "Sancte Ráphael,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -182,19 +182,19 @@
           "v": {
             "en-US": "All holy Angels and Archangels,",
             "pt-BR": "Todos os santos Anjos e Arcanjos,",
-            "la": "Omnes sancti Angeli et Archangeli,"
+            "la": "Omnes sancti Ángeli et Archángeli,"
           },
           "r": {
             "en-US": "Pray for us.",
             "pt-BR": "Rogai por nós.",
-            "la": "Orate pro nobis."
+            "la": "Oráte pro nobis."
           }
         },
         {
           "v": {
             "en-US": "Saint John the Baptist,",
             "pt-BR": "São João Batista,",
-            "la": "Sancte Ioannes Baptista,"
+            "la": "Sancte Ioánnes Baptísta,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -218,12 +218,12 @@
           "v": {
             "en-US": "All holy Patriarchs and Prophets,",
             "pt-BR": "Todos os santos Patriarcas e Profetas,",
-            "la": "Omnes sancti Patriarchae et Prophetae,"
+            "la": "Omnes sancti Patriárchæ et Prophétæ,"
           },
           "r": {
             "en-US": "Pray for us.",
             "pt-BR": "Rogai por nós.",
-            "la": "Orate pro nobis."
+            "la": "Oráte pro nobis."
           }
         }
       ]
@@ -269,7 +269,7 @@
           "v": {
             "en-US": "Saint Andrew,",
             "pt-BR": "São André,",
-            "la": "Sancte Andrea,"
+            "la": "Sancte Andréa,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -281,7 +281,7 @@
           "v": {
             "en-US": "Saint James,",
             "pt-BR": "São Tiago,",
-            "la": "Sancte Iacobe,"
+            "la": "Sancte Iacóbe,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -293,7 +293,7 @@
           "v": {
             "en-US": "Saint John,",
             "pt-BR": "São João,",
-            "la": "Sancte Ioannes,"
+            "la": "Sancte Ioánnes,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -317,7 +317,7 @@
           "v": {
             "en-US": "Saint James,",
             "pt-BR": "São Tiago,",
-            "la": "Sancte Iacobe,"
+            "la": "Sancte Iacóbe,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -329,7 +329,7 @@
           "v": {
             "en-US": "Saint Philip,",
             "pt-BR": "São Filipe,",
-            "la": "Sancte Philippe,"
+            "la": "Sancte Philíppe,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -341,7 +341,7 @@
           "v": {
             "en-US": "Saint Bartholomew,",
             "pt-BR": "São Bartolomeu,",
-            "la": "Sancte Bartholomaee,"
+            "la": "Sancte Bartholomǽe,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -353,7 +353,7 @@
           "v": {
             "en-US": "Saint Matthew,",
             "pt-BR": "São Mateus,",
-            "la": "Sancte Matthaee,"
+            "la": "Sancte Matthǽe,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -377,7 +377,7 @@
           "v": {
             "en-US": "Saint Thaddaeus,",
             "pt-BR": "São Tadeu,",
-            "la": "Sancte Thaddaee,"
+            "la": "Sancte Thaddǽe,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -389,7 +389,7 @@
           "v": {
             "en-US": "Saint Matthias,",
             "pt-BR": "São Matias,",
-            "la": "Sancte Matthia,"
+            "la": "Sancte Matthía,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -401,7 +401,7 @@
           "v": {
             "en-US": "Saint Barnabas,",
             "pt-BR": "São Barnabé,",
-            "la": "Sancte Barnaba,"
+            "la": "Sancte Bárnaba,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -437,12 +437,12 @@
           "v": {
             "en-US": "All holy Apostles and Evangelists,",
             "pt-BR": "Todos os santos Apóstolos e Evangelistas,",
-            "la": "Omnes sancti Apostoli et Evangelistae,"
+            "la": "Omnes sancti Apóstoli et Evangelístæ,"
           },
           "r": {
             "en-US": "Pray for us.",
             "pt-BR": "Rogai por nós.",
-            "la": "Orate pro nobis."
+            "la": "Oráte pro nobis."
           }
         }
       ]
@@ -464,7 +464,7 @@
           "v": {
             "en-US": "Saint Stephen,",
             "pt-BR": "São Estêvão,",
-            "la": "Sancte Stephane,"
+            "la": "Sancte Stéphane,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -476,7 +476,7 @@
           "v": {
             "en-US": "Saint Ignatius of Antioch,",
             "pt-BR": "Santo Inácio de Antioquia,",
-            "la": "Sancte Ignati Antiochene,"
+            "la": "Sancte Ignáti Antiochéne,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -488,7 +488,7 @@
           "v": {
             "en-US": "Saint Polycarp,",
             "pt-BR": "São Policarpo,",
-            "la": "Sancte Polycarpe,"
+            "la": "Sancte Polycárpe,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -500,7 +500,7 @@
           "v": {
             "en-US": "Saint Justin,",
             "pt-BR": "São Justino,",
-            "la": "Sancte Iustine,"
+            "la": "Sancte Iustíne,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -512,7 +512,7 @@
           "v": {
             "en-US": "Saint Lawrence,",
             "pt-BR": "São Lourenço,",
-            "la": "Sancte Laurenti,"
+            "la": "Sancte Laurénti,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -524,12 +524,12 @@
           "v": {
             "en-US": "Saints Perpetua and Felicity,",
             "pt-BR": "Santas Perpétua e Felicidade,",
-            "la": "Sanctae Perpetua et Felicitas,"
+            "la": "Sanctæ Perpétua et Felícitas,"
           },
           "r": {
             "en-US": "Pray for us.",
             "pt-BR": "Rogai por nós.",
-            "la": "Orate pro nobis."
+            "la": "Oráte pro nobis."
           }
         },
         {
@@ -548,7 +548,7 @@
           "v": {
             "en-US": "Saint Cecilia,",
             "pt-BR": "Santa Cecília,",
-            "la": "Sancta Caecilia,"
+            "la": "Sancta Cæcília,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -572,12 +572,12 @@
           "v": {
             "en-US": "All holy Martyrs,",
             "pt-BR": "Todos os santos Mártires,",
-            "la": "Omnes sancti Martyres,"
+            "la": "Omnes sancti Mártyres,"
           },
           "r": {
             "en-US": "Pray for us.",
             "pt-BR": "Rogai por nós.",
-            "la": "Orate pro nobis."
+            "la": "Oráte pro nobis."
           }
         }
       ]
@@ -599,7 +599,7 @@
           "v": {
             "en-US": "Saint Sylvester,",
             "pt-BR": "São Silvestre,",
-            "la": "Sancte Sylvester,"
+            "la": "Sancte Sylvéster,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -623,7 +623,7 @@
           "v": {
             "en-US": "Saint Gregory the Great,",
             "pt-BR": "São Gregório Magno,",
-            "la": "Sancte Gregori Magne,"
+            "la": "Sancte Gregóri Magne,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -635,7 +635,7 @@
           "v": {
             "en-US": "Saint Ambrose,",
             "pt-BR": "Santo Ambrósio,",
-            "la": "Sancte Ambrosi,"
+            "la": "Sancte Ambrósi,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -647,7 +647,7 @@
           "v": {
             "en-US": "Saint Augustine,",
             "pt-BR": "Santo Agostinho,",
-            "la": "Sancte Augustine,"
+            "la": "Sancte Augustíne,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -659,7 +659,7 @@
           "v": {
             "en-US": "Saint Athanasius,",
             "pt-BR": "Santo Atanásio,",
-            "la": "Sancte Athanasi,"
+            "la": "Sancte Athanási,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -671,7 +671,7 @@
           "v": {
             "en-US": "Saint Basil the Great,",
             "pt-BR": "São Basílio Magno,",
-            "la": "Sancte Basili Magne,"
+            "la": "Sancte Basíli Magne,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -683,7 +683,7 @@
           "v": {
             "en-US": "Saint John Chrysostom,",
             "pt-BR": "São João Crisóstomo,",
-            "la": "Sancte Ioannes Chrysostome,"
+            "la": "Sancte Ioánnes Chrysóstome,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -695,7 +695,7 @@
           "v": {
             "en-US": "Saint Jerome,",
             "pt-BR": "São Jerônimo,",
-            "la": "Sancte Hieronyme,"
+            "la": "Sancte Hierónyme,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -707,7 +707,7 @@
           "v": {
             "en-US": "Saint Martin of Tours,",
             "pt-BR": "São Martinho de Tours,",
-            "la": "Sancte Martine,"
+            "la": "Sancte Martíne,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -719,7 +719,7 @@
           "v": {
             "en-US": "Saint Patrick,",
             "pt-BR": "São Patrício,",
-            "la": "Sancte Patrici,"
+            "la": "Sancte Patríci,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -731,7 +731,7 @@
           "v": {
             "en-US": "Saint Benedict,",
             "pt-BR": "São Bento,",
-            "la": "Sancte Benedicte,"
+            "la": "Sancte Benedícte,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -743,7 +743,7 @@
           "v": {
             "en-US": "Saint Bernard,",
             "pt-BR": "São Bernardo,",
-            "la": "Sancte Bernarde,"
+            "la": "Sancte Bernárde,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -755,7 +755,7 @@
           "v": {
             "en-US": "Saint Dominic,",
             "pt-BR": "São Domingos,",
-            "la": "Sancte Dominice,"
+            "la": "Sancte Domínice,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -767,7 +767,7 @@
           "v": {
             "en-US": "Saint Francis of Assisi,",
             "pt-BR": "São Francisco de Assis,",
-            "la": "Sancte Francisce,"
+            "la": "Sancte Francísce,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -779,7 +779,7 @@
           "v": {
             "en-US": "Saint Thomas Aquinas,",
             "pt-BR": "Santo Tomás de Aquino,",
-            "la": "Sancte Thoma de Aquino,"
+            "la": "Sancte Thoma de Aquíno,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -791,7 +791,7 @@
           "v": {
             "en-US": "Saint Ignatius of Loyola,",
             "pt-BR": "Santo Inácio de Loyola,",
-            "la": "Sancte Ignati de Loyola,"
+            "la": "Sancte Ignáti de Loyóla,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -803,7 +803,7 @@
           "v": {
             "en-US": "Saint Francis Xavier,",
             "pt-BR": "São Francisco Xavier,",
-            "la": "Sancte Francisce Xavier,"
+            "la": "Sancte Francísce Xavier,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -815,7 +815,7 @@
           "v": {
             "en-US": "Saint John Vianney,",
             "pt-BR": "São João Maria Vianney,",
-            "la": "Sancte Ioannes Maria Vianney,"
+            "la": "Sancte Ioánnes María Vianney,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -827,7 +827,7 @@
           "v": {
             "en-US": "Saint Pius X,",
             "pt-BR": "São Pio X,",
-            "la": "Sancte Pie Decime,"
+            "la": "Sancte Pie Décime,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -839,7 +839,7 @@
           "v": {
             "en-US": "Saint John Paul II,",
             "pt-BR": "São João Paulo II,",
-            "la": "Sancte Ioannes Paule Secunde,"
+            "la": "Sancte Ioánnes Paule Secúnde,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -851,24 +851,24 @@
           "v": {
             "en-US": "All holy Bishops and Confessors,",
             "pt-BR": "Todos os santos Bispos e Confessores,",
-            "la": "Omnes sancti Pontifices et Confessores,"
+            "la": "Omnes sancti Pontífices et Confessóres,"
           },
           "r": {
             "en-US": "Pray for us.",
             "pt-BR": "Rogai por nós.",
-            "la": "Orate pro nobis."
+            "la": "Oráte pro nobis."
           }
         },
         {
           "v": {
             "en-US": "All holy Doctors of the Church,",
             "pt-BR": "Todos os santos Doutores da Igreja,",
-            "la": "Omnes sancti Doctores,"
+            "la": "Omnes sancti Doctóres,"
           },
           "r": {
             "en-US": "Pray for us.",
             "pt-BR": "Rogai por nós.",
-            "la": "Orate pro nobis."
+            "la": "Oráte pro nobis."
           }
         }
       ]
@@ -890,7 +890,7 @@
           "v": {
             "en-US": "Saint Mary Magdalene,",
             "pt-BR": "Santa Maria Madalena,",
-            "la": "Sancta Maria Magdalena,"
+            "la": "Sancta María Magdaléna,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -902,7 +902,7 @@
           "v": {
             "en-US": "Saint Agatha,",
             "pt-BR": "Santa Ágata,",
-            "la": "Sancta Agatha,"
+            "la": "Sancta Ágatha,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -914,7 +914,7 @@
           "v": {
             "en-US": "Saint Lucy,",
             "pt-BR": "Santa Lúcia,",
-            "la": "Sancta Lucia,"
+            "la": "Sancta Lúcia,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -926,7 +926,7 @@
           "v": {
             "en-US": "Saint Anastasia,",
             "pt-BR": "Santa Anastásia,",
-            "la": "Sancta Anastasia,"
+            "la": "Sancta Anastásia,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -938,7 +938,7 @@
           "v": {
             "en-US": "Saint Scholastica,",
             "pt-BR": "Santa Escolástica,",
-            "la": "Sancta Scholastica,"
+            "la": "Sancta Scholástica,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -950,7 +950,7 @@
           "v": {
             "en-US": "Saint Teresa of Ávila,",
             "pt-BR": "Santa Teresa de Ávila,",
-            "la": "Sancta Teresia de Avila,"
+            "la": "Sancta Terésia de Ávila,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -962,7 +962,7 @@
           "v": {
             "en-US": "Saint Thérèse of Lisieux,",
             "pt-BR": "Santa Teresinha de Lisieux,",
-            "la": "Sancta Teresia a Iesu Infante,"
+            "la": "Sancta Terésia a Iesu Infánte,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -974,7 +974,7 @@
           "v": {
             "en-US": "Saint Catherine of Siena,",
             "pt-BR": "Santa Catarina de Sena,",
-            "la": "Sancta Catharina Senensis,"
+            "la": "Sancta Catharína Senénsis,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -986,7 +986,7 @@
           "v": {
             "en-US": "Saint Faustina Kowalska,",
             "pt-BR": "Santa Faustina Kowalska,",
-            "la": "Sancta Faustina,"
+            "la": "Sancta Faustína,"
           },
           "r": {
             "en-US": "Pray for us.",
@@ -998,24 +998,24 @@
           "v": {
             "en-US": "All holy Virgins and Widows,",
             "pt-BR": "Todas as santas Virgens e Viúvas,",
-            "la": "Omnes sanctae Virgines et Viduae,"
+            "la": "Omnes sanctæ Vírgines et Víduæ,"
           },
           "r": {
             "en-US": "Pray for us.",
             "pt-BR": "Rogai por nós.",
-            "la": "Orate pro nobis."
+            "la": "Oráte pro nobis."
           }
         },
         {
           "v": {
             "en-US": "All Saints of God,",
             "pt-BR": "Todos os Santos de Deus,",
-            "la": "Omnes Sancti et Sanctae Dei,"
+            "la": "Omnes Sancti et Sanctæ Dei,"
           },
           "r": {
             "en-US": "Intercede for us.",
             "pt-BR": "Intercedei por nós.",
-            "la": "Intercedite pro nobis."
+            "la": "Intercédite pro nobis."
           }
         }
       ]
@@ -1037,24 +1037,24 @@
           "v": {
             "en-US": "Be merciful,",
             "pt-BR": "Sede misericordioso,",
-            "la": "Propitius esto,"
+            "la": "Propítius esto,"
           },
           "r": {
             "en-US": "Spare us, O Lord.",
             "pt-BR": "Poupai-nos, Senhor.",
-            "la": "Parce nobis, Domine."
+            "la": "Parce nobis, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Be merciful,",
             "pt-BR": "Sede misericordioso,",
-            "la": "Propitius esto,"
+            "la": "Propítius esto,"
           },
           "r": {
             "en-US": "Graciously hear us, O Lord.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Exaudi nos, Domine."
+            "la": "Exáudi nos, Dómine."
           }
         },
         {
@@ -1066,19 +1066,19 @@
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "From all sin,",
             "pt-BR": "De todo pecado,",
-            "la": "Ab omni peccato,"
+            "la": "Ab omni peccáto,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
@@ -1090,211 +1090,211 @@
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "From a sudden and unprovided death,",
             "pt-BR": "De uma morte repentina e imprevista,",
-            "la": "A subitanea et improvisa morte,"
+            "la": "A subitánea et improvísa morte,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "From the snares of the devil,",
             "pt-BR": "Das ciladas do demônio,",
-            "la": "Ab insidiis diaboli,"
+            "la": "Ab insídiis diáboli,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "From anger, hatred, and all ill will,",
             "pt-BR": "Da ira, do ódio e de toda má vontade,",
-            "la": "Ab ira et odio et omni mala voluntate,"
+            "la": "Ab ira et ódio et omni mala voluntáte,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "From the spirit of fornication,",
             "pt-BR": "Do espírito de fornicação,",
-            "la": "A spiritu fornicationis,"
+            "la": "A spíritu fornicatiónis,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "From lightning and tempest,",
             "pt-BR": "Do raio e da tempestade,",
-            "la": "A fulgure et tempestate,"
+            "la": "A fúlgure et tempestáte,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "From everlasting death,",
             "pt-BR": "Da morte eterna,",
-            "la": "A morte perpetua,"
+            "la": "A morte perpétua,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Through the mystery of Your holy Incarnation,",
             "pt-BR": "Pelo mistério da Vossa santa Encarnação,",
-            "la": "Per mysterium sanctae Incarnationis tuae,"
+            "la": "Per mystérium sanctæ Incarnatiónis tuæ,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Through Your coming,",
             "pt-BR": "Pela Vossa vinda,",
-            "la": "Per adventum tuum,"
+            "la": "Per advéntum tuum,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Through Your birth,",
             "pt-BR": "Pelo Vosso nascimento,",
-            "la": "Per nativitatem tuam,"
+            "la": "Per nativitátem tuam,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Through Your baptism and holy fasting,",
             "pt-BR": "Pelo Vosso batismo e santo jejum,",
-            "la": "Per baptismum et sanctum ieiunium tuum,"
+            "la": "Per baptísmum et sanctum ieiúnium tuum,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Through Your cross and passion,",
             "pt-BR": "Pela Vossa cruz e paixão,",
-            "la": "Per crucem et passionem tuam,"
+            "la": "Per crucem et passiónem tuam,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Through Your death and burial,",
             "pt-BR": "Pela Vossa morte e sepultura,",
-            "la": "Per mortem et sepulturam tuam,"
+            "la": "Per mortem et sepultúram tuam,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Through Your holy resurrection,",
             "pt-BR": "Pela Vossa santa ressurreição,",
-            "la": "Per sanctam resurrectionem tuam,"
+            "la": "Per sanctam resurrectiónem tuam,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Through Your wonderful ascension,",
             "pt-BR": "Pela Vossa admirável ascensão,",
-            "la": "Per admirabilem ascensionem tuam,"
+            "la": "Per admirábilem ascensiónem tuam,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Through the coming of the Holy Spirit,",
             "pt-BR": "Pela vinda do Espírito Santo,",
-            "la": "Per adventum Spiritus Sancti Paracliti,"
+            "la": "Per advéntum Spíritus Sancti Parácliti,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "On the day of judgment,",
             "pt-BR": "No dia do juízo,",
-            "la": "In die iudicii,"
+            "la": "In die iudícii,"
           },
           "r": {
             "en-US": "Deliver us, O Lord.",
             "pt-BR": "Livrai-nos, Senhor.",
-            "la": "Libera nos, Domine."
+            "la": "Líbera nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "We sinners,",
             "pt-BR": "Nós pecadores,",
-            "la": "Peccatores,"
+            "la": "Peccatóres,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
@@ -1306,151 +1306,151 @@
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You pardon us,",
             "pt-BR": "Para que nos perdoeis,",
-            "la": "Ut nobis indulgeas,"
+            "la": "Ut nobis indúlgeas,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You bring us to true penance,",
             "pt-BR": "Para que nos levais à verdadeira penitência,",
-            "la": "Ut ad veram paenitentiam nos perducere digneris,"
+            "la": "Ut ad veram pæniténtiam nos perdúcere dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You govern and preserve Your holy Church,",
             "pt-BR": "Para que governeis e conserveis Vossa santa Igreja,",
-            "la": "Ut Ecclesiam tuam sanctam regere et conservare digneris,"
+            "la": "Ut Ecclésiam tuam sanctam régere et conserváre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You preserve our Pope, and all orders of the Church, in holy religion,",
             "pt-BR": "Para que preserveis o nosso Papa e todas as ordens da Igreja na santa religião,",
-            "la": "Ut domnum Apostolicum et omnes ecclesiasticos ordines in sancta religione conservare digneris,"
+            "la": "Ut domnum Apostólicum et omnes ecclesiásticos órdines in sancta religióne conserváre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You humble the enemies of Holy Church,",
             "pt-BR": "Para que humilheis os inimigos da Santa Igreja,",
-            "la": "Ut inimicos sanctae Ecclesiae humiliare digneris,"
+            "la": "Ut inimícos sanctæ Ecclésiæ humiliáre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You grant peace and true concord to Christian kings and princes,",
             "pt-BR": "Para que concedais paz e verdadeira concórdia aos reis e príncipes cristãos,",
-            "la": "Ut regibus et principibus christianis pacem et veram concordiam donare digneris,"
+            "la": "Ut régibus et princípibus christiánis pacem et veram concórdiam donáre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You give peace and unity to all Christian people,",
             "pt-BR": "Para que deis paz e unidade a todo o povo cristão,",
-            "la": "Ut cuncto populo christiano pacem et unitatem largiri digneris,"
+            "la": "Ut cuncto pópulo christiáno pacem et unitátem largíri dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You bring back to the unity of the Church all who have strayed, and lead all unbelievers to the light of the Gospel,",
             "pt-BR": "Para que reconduzais à unidade da Igreja todos os que se desviaram e guieis todos os incrédulos à luz do Evangelho,",
-            "la": "Ut omnes errantes ad unitatem Ecclesiae revocare, et infideles universos ad Evangelii lumen perducere digneris,"
+            "la": "Ut omnes errántes ad unitátem Ecclésiæ revocáre, et infidéles univérsos ad Evangélii lumen perdúcere dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You strengthen and preserve us in Your holy service,",
             "pt-BR": "Para que nos fortaleçais e conserveis no Vosso santo serviço,",
-            "la": "Ut nosmetipsos in tuo sancto servitio confortare et conservare digneris,"
+            "la": "Ut nosmetípsos in tuo sancto servítio confortáre et conserváre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You reward all our benefactors with eternal good,",
             "pt-BR": "Para que recompenseis todos os nossos benfeitores com o bem eterno,",
-            "la": "Ut omnibus benefactoribus nostris sempiterna bona retribuas,"
+            "la": "Ut ómnibus benefactóribus nostris sempitérna bona retríbuas,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You deliver our souls, and the souls of our brethren, relations, and benefactors, from eternal damnation,",
             "pt-BR": "Para que livreis as nossas almas e as almas de nossos irmãos, parentes e benfeitores da danação eterna,",
-            "la": "Ut animas nostras, fratrum, propinquorum et benefactorum nostrorum ab aeterna damnatione eripias,"
+            "la": "Ut ánimas nostras, fratrum, propinquórum et benefactórum nostrórum ab ætérna damnatióne erípias,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
           "v": {
             "en-US": "That You give and preserve the fruits of the earth,",
             "pt-BR": "Para que deis e conserveis os frutos da terra,",
-            "la": "Ut fructus terrae dare et conservare digneris,"
+            "la": "Ut fructus terræ dare et conserváre dignéris,"
           },
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         },
         {
@@ -1462,7 +1462,7 @@
           "r": {
             "en-US": "We beseech Thee, hear us.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Te rogamus, audi nos."
+            "la": "Te rogámus, audi nos."
           }
         }
       ]
@@ -1477,36 +1477,36 @@
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
             "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
-            "la": "Agnus Dei, qui tollis peccata mundi,"
+            "la": "Agnus Dei, qui tollis peccáta mundi,"
           },
           "r": {
             "en-US": "Spare us, O Lord.",
             "pt-BR": "Perdoai-nos, Senhor.",
-            "la": "Parce nobis, Domine."
+            "la": "Parce nobis, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
             "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
-            "la": "Agnus Dei, qui tollis peccata mundi,"
+            "la": "Agnus Dei, qui tollis peccáta mundi,"
           },
           "r": {
             "en-US": "Graciously hear us, O Lord.",
             "pt-BR": "Ouvi-nos, Senhor.",
-            "la": "Exaudi nos, Domine."
+            "la": "Exáudi nos, Dómine."
           }
         },
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
             "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
-            "la": "Agnus Dei, qui tollis peccata mundi,"
+            "la": "Agnus Dei, qui tollis peccáta mundi,"
           },
           "r": {
             "en-US": "Have mercy on us.",
             "pt-BR": "Tende piedade de nós.",
-            "la": "Miserere nobis."
+            "la": "Miserére nobis."
           }
         }
       ]
@@ -1523,7 +1523,7 @@
       "text": {
         "en-US": "Let us pray.",
         "pt-BR": "Oremos.",
-        "la": "Oremus."
+        "la": "Orémus."
       }
     },
     {
