@@ -1,10 +1,12 @@
-import { useQuery } from '@tanstack/react-query'
+import { useQueries, useQuery } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { XStack, YStack } from 'tamagui'
 
 import { PrayerSpinner, Typography } from '@/components'
+import { translationsFor } from '@/lib/bibleTranslations'
+import { getChapter } from '@/lib/content'
 import { localizeContent } from '@/lib/i18n'
 import { loadMissalCalendar } from '@/lib/missal/loaders'
 import { fetchParagraphs } from '@/sources/ccc/extract'
@@ -203,18 +205,67 @@ function PapalTexts({ talks }: { talks: Talk[] }) {
 }
 
 /**
+ * The verse in every edition the app has, the reader's own language first.
+ * An edition that lacks the chapter and would stand in the Douay-Rheims for
+ * it is left out, so no text is shown twice under two names.
+ */
+function VerseTranslations({
+  bookId,
+  chapter,
+  verse,
+}: {
+  bookId: string
+  chapter: number
+  verse: number
+}) {
+  const { t, i18n } = useTranslation()
+  const editions = translationsFor(i18n.language)
+  const chapters = useQueries({
+    queries: editions.map((edition) => ({
+      // The reader's own key for a chapter, so the edition open above is already here.
+      queryKey: ['chapter', edition.code, bookId, chapter],
+      queryFn: () => getChapter(edition.code, bookId, chapter),
+    })),
+  })
+  return (
+    <YStack gap="$md">
+      {editions.map((edition, i) => {
+        const { data, isLoading, error } = chapters[i]
+        if (data?.fallback && edition.code !== 'DRB') return undefined
+        const text = data?.verses.find((v) => v.verse === verse)?.text
+        if (data && !text) return undefined
+        return (
+          <YStack key={edition.code} gap={2}>
+            <Typography variant="annotation" fontSize="$2">
+              {edition.name}
+            </Typography>
+            {isLoading ? <PrayerSpinner /> : undefined}
+            {error ? (
+              <Typography variant="annotation">{t('common.couldntLoad')}</Typography>
+            ) : undefined}
+            {text ? <Typography fontSize="$3">{text}</Typography> : undefined}
+          </YStack>
+        )
+      })}
+    </YStack>
+  )
+}
+
+/**
  * One kind of what points at a verse, as the half page beside the text lists
  * it. A short text (a paragraph of the Catechism, a section of an encyclical)
  * opens where it stands; a long one (an article, a homily) opens as a page.
  */
 export function VerseReferenceList({
   kind,
+  bookId,
   chapter,
   verse,
   references,
   onOpenPlace,
 }: {
   kind: ReferenceKind
+  bookId: string
   chapter: number
   verse: number
   references: VerseReferences
@@ -240,6 +291,9 @@ export function VerseReferenceList({
     })
   }
 
+  if (kind === 'translations') {
+    return <VerseTranslations bookId={bookId} chapter={chapter} verse={verse} />
+  }
   if (kind === 'catechism') {
     const { here, elsewhere } = references.catechism
     return (

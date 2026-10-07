@@ -7,6 +7,7 @@ import { fetchHearth } from '@/lib/hearth'
 
 /** What the half page beside the text can show of a verse, besides its commentators. */
 export const referenceKinds = [
+  'translations',
   'catechism',
   'summa',
   'homilies',

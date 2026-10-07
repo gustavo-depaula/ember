@@ -3,6 +3,7 @@ import { useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useShallow } from 'zustand/react/shallow'
 
+import { translations } from '@/lib/bibleTranslations'
 import { type Book, getBooks, getChapter } from '@/lib/content'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -197,6 +198,8 @@ export function useVerseReferences(bookId: string, chapter: number, verse: numbe
   // What cites the verse itself is what is counted; where nothing does, what
   // cites the passage around it is what the reader will be shown.
   const counts: Record<ReferenceKind, number> = {
+    // The verse in the other editions is there for every verse.
+    translations: translations.length,
     catechism: catechism.here.length || catechism.elsewhere.length,
     summa: found.articles.length + found.lectures.length,
     homilies: found.homilies.length,
@@ -209,6 +212,7 @@ export function useVerseReferences(bookId: string, chapter: number, verse: numbe
     error: queries.find((q) => q.error)?.error ?? undefined,
   })
   const status: Record<ReferenceKind, { isLoading: boolean; error?: Error }> = {
+    translations: state(),
     catechism: state(passages),
     summa: state(articles, lectures),
     homilies: state(passages),

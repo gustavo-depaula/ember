@@ -663,6 +663,7 @@ export default {
       lecture: 'His lecture on {{verses}}',
     },
     kinds: {
+      translations: 'Translations',
       catechism: 'Catechism',
       summa: 'St Thomas',
       homilies: 'Homilies',

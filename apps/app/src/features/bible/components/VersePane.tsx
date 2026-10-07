@@ -180,7 +180,8 @@ export function VersePane({
     ...referenceKinds.map((id) => ({
       id,
       label: t(`bible.kinds.${id}`),
-      count: references.counts[id] || undefined,
+      // Every verse has its other editions: a count of them would say nothing.
+      count: id === 'translations' ? undefined : references.counts[id] || undefined,
       speaks: references.counts[id] > 0,
     })),
   ]
@@ -326,6 +327,7 @@ export function VersePane({
           {referenceKind ? (
             <VerseReferenceList
               kind={referenceKind}
+              bookId={bookId}
               chapter={chapter}
               verse={verse}
               references={references}

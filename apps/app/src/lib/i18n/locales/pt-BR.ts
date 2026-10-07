@@ -668,6 +668,7 @@ export default {
       lecture: 'Sua lição sobre {{verses}} (em inglês)',
     },
     kinds: {
+      translations: 'Traduções',
       catechism: 'Catecismo',
       summa: 'S. Tomás',
       homilies: 'Homilias',
