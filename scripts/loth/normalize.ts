@@ -179,9 +179,20 @@ export function normalize(html: string): Block[] {
   // block opens, is an empty line, and an empty line closes a stanza.
   let last: 'text' | 'br' | 'open' | 'close' = 'open'
   let blank = false
+  let runOn = false
   for (const token of tokenize(html)) {
     if ('run' in token) {
       const { text, style } = token.run
+      // A title is a line of its own, though the source now and then runs
+      // one on from the end of a sentence with no break between.
+      // Such a title has its text run on after it as well.
+      if (text.trim() && lineHasText && !lineIsTitle && style.title) {
+        endLine()
+        runOn = true
+      } else if (text.trim() && runOn && lineHasText && !style.title) {
+        endLine()
+        runOn = false
+      }
       if (text.trim()) {
         lineHasText = true
         if (!style.title) lineIsTitle = false
@@ -196,6 +207,7 @@ export function normalize(html: string): Block[] {
       continue
     }
     endLine()
+    runOn = false
     if ('br' in token) {
       if (last !== 'text') endParagraph()
       last = 'br'

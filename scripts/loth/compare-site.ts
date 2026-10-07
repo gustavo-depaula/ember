@@ -10,6 +10,7 @@ import type { LothCalendar } from '../../packages/loth/src/day'
 import { assembleHour, formsOf, type LothSource } from '../../packages/loth/src/hour'
 import { type Hour, officeOf } from '../../packages/loth/src/office'
 import { wordsOf, wordsOfBlocks } from '../../packages/loth/src/text'
+import { amended, asInTheReference } from '../../packages/loth/src/__tests__/corpus'
 
 const site = process.argv[2]
 const corpus = join(__dirname, '../../content/loth')
@@ -66,7 +67,9 @@ async function main() {
         const office = officeOf(date, hour, calendar)
         const [first, second] = formsOf(office)
         const mine = async (form: typeof first) =>
-          wordsOfBlocks((await assembleHour(office, form, source)).flatMap((p) => p.blocks))
+          wordsOfBlocks((await assembleHour(office, form, source)).flatMap(asInTheReference))
+        // The site is the archive, faults and all.
+        if (amended(office)) continue
         hours++
         if ((await mine(first)) !== ofHtml(theirs.html)) differences.push(`${day.data} ${hour}`)
         if (theirs.alternativa?.html && second) {

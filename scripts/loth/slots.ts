@@ -28,7 +28,8 @@ function cueOf(line: Line, title: boolean): Cue | undefined {
   const label = title || isRed(line) || line.length === 1
   const antiphon = /^Ant\s*\.?\s*(\d)?\s*\.?(?=\s|$|\p{Lu})/u.exec(text)
   if (antiphon && !/^Ant[íi]fona/i.test(text)) return { at: 'antiphon', ...(antiphon[1] ? { n: Number(antiphon[1]) } : {}) }
-  if (/^[℣V]\s*\.?\s*Vinde, ó Deus, em meu aux/i.test(text)) return { at: 'intro' }
+  if (/^[℣V]\s*\.?\s*Vinde,?\s+ó\s+Deus,?\s+em\s+meu\s+aux/i.test(text.normalize('NFC'))) return { at: 'intro' }
+  if (/^respons[óo]rio\s+(breve|cf\.|\d?\s?\p{Lu}\p{L}{0,3}\s*\d)/iu.test(text) && text.length < 70) return { at: 'responsory' }
   if (text.length > 90 || !label) {
     // The one label met run into its text: "Leitura breveSb 7,13-14".
     return /^Leitura breve\S/.test(text) && text.length < 60 ? { at: 'reading', which: 'reading' } : undefined
@@ -50,14 +51,32 @@ function cueOf(line: Line, title: boolean): Cue | undefined {
   return undefined
 }
 
-// One hour's source runs the title "Hino" into the rubric before it.
+// Here and there the source runs a title into the line before it ("em
+// latim" and then "Oração", a responsory's last word and then "Hino") or into
+// the one after ("Preces" and the invitation to them). A title is a line.
+const heading = /^(Hino|Ora[çc][ãa]o|Preces|Salmodia|Conclus[ãa]o da Hora)$/
+const isHeading = (seg: Line[number] | undefined) =>
+  seg !== undefined && typeof seg !== 'string' && seg.m === 'rubric' && heading.test(seg.t.trim())
+
 function unglued(block: Block): Block {
   if (block.k === 'title') return block
   return {
     ...block,
     lines: block.lines.flatMap((line): Line[] => {
+      if (line.length < 2) {
+        // The end of a sentence and a title with not so much as a space between.
+        const only = line[0]
+        const run = typeof only === 'string' ? /^(.*[.!?»”"])(Hino|Ora[çc][ãa]o|Preces)$/su.exec(only) : undefined
+        return run ? [[run[1]], [run[2]]] : [line]
+      }
+      const first = line[0]
       const last = line[line.length - 1]
-      const match = typeof last === 'string' && line.length > 1 ? /^(.*\S)?\s*\bHino$/.exec(last) : undefined
+      const at = line.findIndex((seg) => typeof seg !== 'string' && seg.m === 'rubric' && /^Respons[óo]rio\s.{0,60}$/.test(seg.t.trim()))
+      if (at >= 0 && line.length > 1)
+        return [line.slice(0, at), [line[at]], line.slice(at + 1)].filter((part) => part.length > 0)
+      if (isHeading(last)) return [line.slice(0, -1), [(last as { t: string }).t.trim()]]
+      if (isHeading(first)) return [[(first as { t: string }).t.trim()], line.slice(1)]
+      const match = typeof last === 'string' ? /^(.*\S)?\s*\bHino$/.exec(last) : undefined
       if (!match || !/^\(?Esta introdução/i.test(lineText(line))) return [line]
       return [[...line.slice(0, -1), ...(match[1] ? [match[1]] : [])], ['Hino']]
     }),
@@ -149,7 +168,9 @@ export function slotsOf(blocks: Block[], hour: string): Part[] {
             canticleHasBody = false
           }
           if (region === 'canticle') return place(canticleHasBody ? 'canticle-ant-end' : 'canticle-ant')
-          if (region === 'other') return place(slot)
+          // Some hours go from the hymn to the first antiphon with no
+          // "Salmodia" between.
+          if (region === 'other' && slot !== 'hymn') return place(slot)
           region = 'psalmody'
           if (cue.n !== undefined) {
             openUnit(cue.n)
@@ -177,6 +198,9 @@ export function slotsOf(blocks: Block[], hour: string): Part[] {
 
       // No label: the line belongs to what is open.
       const text = lineText(line).trim()
+      // A long reading whose responsory comes with no heading.
+      if (/^reading-\d$/.test(slot) && typeof line[0] !== 'string' && line[0]?.m === 'rubric' && /^[℟R]\s*\.?$/.test(line[0].t.trim()))
+        return place(slot.replace('reading', 'responsory'))
       // What opens the hour is a line of each kind, and each has its own
       // reason to change: the celebration's name with the celebration, its
       // rank with the season, the weekday's name with the weekday.

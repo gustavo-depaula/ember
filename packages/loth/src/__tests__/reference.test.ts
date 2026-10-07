@@ -4,9 +4,9 @@ import { describe, expect, it } from 'vitest'
 import { lothDay } from '../day'
 import { assembleHour, formsOf, type HourPart } from '../hour'
 import type { Form } from '../index-types'
-import { type Hour, type Office, officeOf } from '../office'
-import { type Block, wordsOfBlocks } from '../text'
-import { calendar, corpus, on } from './corpus'
+import { type Hour, officeOf } from '../office'
+import { wordsOfBlocks } from '../text'
+import { amended, asInTheReference, calendar, corpus, on } from './corpus'
 import reference from './reference.json'
 
 // `reference.json` is what the Brazilian breviary app the corpus was drawn
@@ -17,33 +17,9 @@ import reference from './reference.json'
 // writes the same one as "V." in one hour and "℣." in the next. The engine shares no code with that app, so agreeing with it
 // hour for hour is the test that it is the same breviary.
 
-// Where the reference is known to be at fault, and the corpus has the book's
-// text. The Magnificat's antiphon of 17-23 December goes by the date, and on
-// two evenings the reference has the next day's; and its second Vespers of
-// Christ the King stop after the responsory.
-const amended = (office: Office) => {
-  const { date, hour } = office
-  if (hour !== 'vespers') return false
-  if (office.celebration?.id === 'tempore.solemnity.christ-the-king') return !office.firstVespers
-  return (
-    date.getMonth() === 11 &&
-    ((date.getDate() === 17 && date.getDay() === 0) ||
-      (date.getDate() === 22 && date.getDay() === 6))
-  )
-}
-
 const hours = reference.hours as Hour[]
 const own = Buffer.from(reference.own, 'base64')
 const other = Buffer.from(reference.other, 'base64')
-
-// Where the app set a text into the hour only as it was shown (the Sunday's
-// antiphon of the Gospel canticle outside Ordinary Time), the reference has
-// its label and nothing after; the corpus supplies the text, and here it is
-// taken out again so the rest of the hour is still held to the reference.
-const asInTheReference = (part: HourPart): Block[] =>
-  part.supplied
-    ? [{ k: 'p', lines: [part.blocks[0].lines[0].filter((seg) => typeof seg !== 'string')] }]
-    : part.blocks
 
 function hash(parts: HourPart[]): string {
   const words = wordsOfBlocks(parts.flatMap(asInTheReference))
