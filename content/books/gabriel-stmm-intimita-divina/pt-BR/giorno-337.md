@@ -4,7 +4,7 @@
 
 ### Meditação
 
-**1** — É preciso ser santo antes de dedicar-se ao apostolado? Teoricamente seria o ideal, mas na prática é impossível. Não se pode pensar que bastem os anos de formação — do seminário ou do noviciado, por exemplo — para fazer santos; nem, quando o dever ou a caridade o impõem, pode alguém eximir-se das obras de apostolado com o motivo de ainda não ter chegado à santidade.
+**1** — O apóstolo mais fecundo é o santo. Será então preciso ser santo antes de dedicar-se ao apostolado? Teoricamente seria o ideal, mas na prática é impossível. Não se pode pensar que bastem os anos de formação — do seminário ou do noviciado, por exemplo — para fazer santos; nem, quando o dever ou a caridade o impõem, pode alguém eximir-se das obras de apostolado com o motivo de ainda não ter chegado à santidade.
 
 É preciso, portanto, concluir que, suposto o período dedicado exclusivamente à preparação, é necessário unir a ascensão pessoal à santidade com o exercício da atividade apostólica. Em outras palavras, os apóstolos devem santificar-se no apostolado e por meio dele.
 
