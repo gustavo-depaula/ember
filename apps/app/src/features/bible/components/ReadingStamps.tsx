@@ -8,7 +8,7 @@ import { PracticeCard } from '@/features/covers'
 import { type BlockTone, jewelTones } from '@/features/explore/bgColor'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useBiblePlaces, useBooks } from '../hooks'
-import { placeWhen, ribbonTones } from '../placeLabel'
+import { ribbonTones } from '../placeLabel'
 import { useOpenBiblePlace } from '../useOpenBiblePlace'
 
 const gutter = 14
@@ -22,7 +22,7 @@ function useStampSize(): number {
 
 /** One carousel: the Bible itself first, then a stamp for each place last read. */
 export function ReadingStamps() {
-  const { t, i18n } = useTranslation()
+  const { t } = useTranslation()
   const router = useRouter()
   const size = useStampSize()
   const places = useBiblePlaces()
@@ -52,7 +52,7 @@ export function ReadingStamps() {
                 ? t('bible.discovery.chapterOf', { n: place.chapter, total: place.chapters })
                 : t('bible.chapterAbbr', { n: place.chapter })
             }
-            caption={placeWhen(place.updatedAt, t, i18n.language)}
+            caption={t('bible.discovery.continueReading')}
             accessibilityLabel={t('a11y.resumeReading', {
               place: `${place.bookName} ${place.chapter}`,
             })}

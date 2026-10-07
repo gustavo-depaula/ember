@@ -654,10 +654,6 @@ export default {
       PT: 'Portuguese',
       LA: 'Latin',
     },
-    places: {
-      today: 'today',
-      yesterday: 'yesterday',
-    },
     divisions: {
       pentateuch: 'Pentateuch',
       historical: 'Historical Books',

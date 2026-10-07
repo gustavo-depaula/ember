@@ -23,7 +23,6 @@ import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { type CanonDivisionId, canonDivisions, divisionStartingAt } from '../canon'
-import { placeWhen } from '../placeLabel'
 import type { BiblePlace } from '../recents'
 
 const chaptersPerRow = 5
@@ -382,7 +381,7 @@ function PlaceList({
   books: Book[]
   onNavigate: (bookId: string, chapter: number) => void
 }) {
-  const { t, i18n } = useTranslation()
+  const { t } = useTranslation()
   if (places.length === 0) return undefined
 
   return (
@@ -406,9 +405,6 @@ function PlaceList({
             <Ribbon index={place.ribbon} />
             <Typography flex={1} fontSize="$3" numberOfLines={1}>
               {label}
-            </Typography>
-            <Typography variant="annotation">
-              {placeWhen(place.updatedAt, t, i18n.language)}
             </Typography>
           </Pressable>
         )
