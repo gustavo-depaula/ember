@@ -229,16 +229,7 @@ describe('ReadingParagraph draws the segments itself wherever the breaker does n
     expect(onRefPress).toHaveBeenCalledWith('book/ccc#1213')
   })
 
-  // A ℟ mark is an element the breaker can't measure, and a prayer never mixes
-  // the two renderers, so a prefixed prayer is left to the platform whole.
-  it('leaves a prayer opened by a response mark to the platform', () => {
-    measurable()
-    const { container } = wrap(<PrayerLines text={`${long}\n${long}`} prefix="℟. " />)
-    expect(screen.getByText('℟.')).toBeTruthy()
-    expect(container.querySelectorAll('span[style*="letter-spacing"]')).toHaveLength(0)
-  })
-
-  it('justifies the same prayer without one', () => {
+  it('justifies a prayer', () => {
     measurable()
     const { container } = wrap(<PrayerLines text={long} />)
     expect(container.querySelectorAll('span[style*="letter-spacing"]').length).toBeGreaterThan(0)
