@@ -383,7 +383,11 @@ def convert_block(block, skeleton_langs):
             return
         if set(classes) & chromeClasses:
             return
-        if node["tag"] in ("style", "script"):
+        # Upstream prints some lines twice, one copy for each of its two layouts.
+        # The link to the readings is one of them and is kept: it marks where
+        # the readings stand.
+        duplicate = "noincrustado" in classes and "lectionarium" not in classes
+        if duplicate or node["tag"] in ("style", "script"):
             return
         ctx = dict(ctx)
         for c in classes:

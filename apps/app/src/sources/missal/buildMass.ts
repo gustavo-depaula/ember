@@ -148,11 +148,28 @@ const titleText = (
   primary: tidyTitle(localize(title, lang.primary) ?? fallback),
 })
 
-// Upstream sets solemnities in capitals; a chip reads better in sentence case.
+const smallWords = new Set(
+  'a o e de da do das dos em no na nos nas para com ou of the and in on for at to or et in ad pro cum'.split(
+    ' ',
+  ),
+)
+
+// Upstream sets solemnities and prefaces in capitals; a chip reads better in
+// sentence case. Roman numerals keep theirs.
 function tidyTitle(text: string): string {
-  const letters = text.replace(/[^\p{L}]/gu, '')
-  if (letters.length < 4 || letters !== letters.toUpperCase()) return text
-  return text.toLowerCase().replace(/(^|[\s—(])(\p{L})/gu, (_, lead, ch) => lead + ch.toUpperCase())
+  return text
+    .split(' — ')
+    .map((part) => {
+      const letters = part.replace(/[^\p{L}]/gu, '')
+      if (letters.length < 4 || letters !== letters.toUpperCase()) return part
+      return part
+        .toLowerCase()
+        .replace(/(^|[\s(])(\p{L}+)/gu, (_, lead, w) =>
+          lead && smallWords.has(w) ? lead + w : lead + w[0].toUpperCase() + w.slice(1),
+        )
+        .replace(/\b[ivx]+\b/giu, (numeral) => numeral.toUpperCase())
+    })
+    .join(' — ')
 }
 
 function select(
@@ -194,9 +211,12 @@ function alternatives(
   const ids = [
     ...new Set(items.filter((i) => i.alt?.group === group).map((i) => i.alt?.id as string)),
   ]
-  return ids.map((id) => ({
+  const labels = ids.map((id) => items.find((i) => i.alt?.id === id)?.alt?.label ?? 'or')
+  // "Long" only means something beside "short"; any other pairing is a plain choice.
+  const forms = labels.includes('short') && labels.includes('long')
+  return ids.map((id, n) => ({
     id,
-    label: items.find((i) => i.alt?.id === id)?.alt?.label ?? 'or',
+    label: forms ? labels[n] : 'or',
     items: items.filter((i) => i.alt?.group !== group || i.alt?.id === id),
   }))
 }
@@ -286,11 +306,16 @@ function prefaceBlock(plan: MassPlan, docs: MassDocs, ctx: RenderContext): Primi
       children: renderItems(printed.items, ctx),
     })
   }
+  // A preface upstream has in another language only (Spain's extra Marian
+  // prefaces) is no choice for this reader.
   for (const preface of plan.prefaces) {
+    const title = preface.title ?? {}
+    if (!(title[ctx.lang.primary] ?? title['*'] ?? title.la)) continue
     options.push({
       id: preface.id,
       label: titleText(preface.title, ctx.lang, preface.id),
-      children: renderItems(preface.items.slice(1), ctx),
+      // Its title is on the card.
+      children: renderItems(preface.items, ctx).filter((p) => p.type !== 'heading'),
     })
   }
   for (const prayer of docs.eucharisticPrayers) {
@@ -298,7 +323,9 @@ function prefaceBlock(plan: MassPlan, docs: MassDocs, ctx: RenderContext): Primi
     if (preface.length === 0) continue
     options.push({
       id: `${prayer.id}#preface`,
-      label: titleText(prayer.title, ctx.lang, prayer.id),
+      label: {
+        primary: `${word(words.preface, ctx.lang.primary)} · ${titleText(prayer.title, ctx.lang, prayer.id).primary}`,
+      },
       children: renderItems(preface, ctx),
     })
   }
@@ -487,9 +514,15 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
       // The Order's own text for a part is its fallback (and, for the preface
       // and the Eucharistic Prayer, upstream's index of them).
       const own = takeWhile(items, i, (next) => next.part === part)
-      const replaced = plan.parts[part] || part === 'preface' || part === 'eucharisticPrayer'
+      const reading = part === 'firstReading' || part === 'secondReading' || part === 'gospel'
+      const replaced =
+        plan.parts[part] || reading || part === 'preface' || part === 'eucharisticPrayer'
       if (!replaced) out.push(...orderItems(own, ctx))
       i += own.length
+      // The lectionary carries each reading's closing response; the Order's
+      // "All reply" and its response would say it twice, or after a reading
+      // the day does not have.
+      if (reading && items[i]?.role === 'rubric' && items[i + 1]?.role === 'people') i += 2
       continue
     }
 
@@ -498,7 +531,9 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
       (skipIntroduction && reached === 'entranceAntiphon') ||
       (skipConclusion && reached === 'prayerOverPeople') ||
       (within(item, ['himno_gloria']) && !plan.gloria) ||
-      (within(item, creedForms) && !plan.creed) ||
+      // Without a Creed, its rubrics go too: all that stands between the
+      // homily and the Universal Prayer.
+      (!plan.creed && reached === 'creed') ||
       (within(item, ['agua_fueratp']) && plan.day.season === 'easter') ||
       (within(item, ['agua_durantetp']) && plan.day.season !== 'easter')
     if (skip) {

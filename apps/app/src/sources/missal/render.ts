@@ -112,7 +112,8 @@ function emit(kind: Kind, text: BilingualText, out: Primitive[]) {
     out.push({ type: 'divider' })
     return
   }
-  if (!text.primary) return
+  // A stray full stop left between two blocks upstream is not a passage.
+  if (!/[\p{L}\p{N}✠]/u.test(text.primary)) return
   if (kind === 'response' || kind === 'versicle') {
     const entry: VersesPrimitive['items'][number] = { role: kind === 'response' ? 'r' : 'v', text }
     const last = out[out.length - 1]

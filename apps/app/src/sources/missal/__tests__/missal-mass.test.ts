@@ -153,18 +153,17 @@ describe('Sundays and solemnities', () => {
 })
 
 describe('sequences', () => {
-  it('sets the Stabat Mater before the Gospel acclamation on 15 September, as optional', async () => {
+  it('offers the Stabat Mater on 15 September as optional, with both Gospels of the memorial', async () => {
     const mass = await massOn('2026-09-15')
-    const all = JSON.stringify(mass)
-    expect(all).toContain('Sequência (facultativa)')
-    const text = shown(mass.flatMap((p) => p))
-    // The memorial reads the weekday by default; its own readings carry the sequence.
-    const gospel = selectOf(mass, 'missal.gospel')
-    expect(gospel?.options.map((o) => o.id)).toContain(
-      'sanctorale.09-15#' +
-        gospel?.options.find((o) => o.id.startsWith('sanctorale.09-15'))?.id.split('#')[1],
-    )
-    expect(text.length).toBeGreaterThan(2000)
+    expect(JSON.stringify(mass)).toContain('Sequência (facultativa)')
+    expect(shown(mass, true)).toContain('Stabat Mater')
+    // The weekday's Gospel by default, then the memorial's two.
+    const gospels = selectOf(mass, 'missal.gospel')?.options.map((o) => o.id.split('#')[0])
+    expect(gospels).toEqual([
+      'tempore.ordinary-time.week-24.tuesday',
+      'sanctorale.09-15',
+      'sanctorale.09-15',
+    ])
   })
 
   it('sets Veni, Sancte Spiritus at Pentecost, in Latin beside the vernacular', async () => {
@@ -201,6 +200,14 @@ describe('Holy Week and the Triduum', () => {
     expect(latin).toMatch(/P[áa]ssio D[óo]mini nostri/)
     expect(latin).toContain('Ecce lignum Crucis')
     expect(latin).toContain('Pópule meus')
+    // The readings stand inside the Liturgy of the Word, not before the rite.
+    const text = shown(mass)
+    expect(text.indexOf('Liturgia da Palavra')).toBeLessThan(
+      text.indexOf('Leitura do Livro de Isaías'),
+    )
+    expect(text.indexOf('Leitura do Livro de Isaías')).toBeLessThan(
+      text.indexOf('Adoração da Cruz'),
+    )
     // Not a Mass: no Eucharistic Prayer.
     expect(selectOf(mass, 'missal.eucharistic-prayer')).toBeUndefined()
   })
@@ -210,6 +217,14 @@ describe('Holy Week and the Triduum', () => {
     const latin = shown(mass, true)
     expect(latin).toContain('Exsúltet iam')
     expect(latin).toContain('Sancta María, Mater Dei')
+    // The Exsultet in its long and short forms, and each reading in its place.
+    expect(selectOf(mass, 'missal.alt.pregon')?.options.map((o) => o.label.primary)).toEqual([
+      'Forma longa',
+      'Forma breve',
+    ])
+    const text = shown(mass)
+    expect(text.indexOf('Livro do Gênesis')).toBeGreaterThan(0)
+    expect(text.indexOf('Livro do Gênesis')).toBeLessThan(text.indexOf('Livro do Êxodo'))
     expect(selectOf(mass, 'missal.eucharistic-prayer')).toBeDefined()
   })
 })
