@@ -6,8 +6,10 @@ of the transcription published at johnblood.gitlab.io/haydock. Its verse text
 is Challoner's Douay-Rheims, which the corpus already has in content/bible/drb,
 so only the commentary is kept.
 
-Writes, per book, `<slug>.json` as {chapter: {verse: [note, ...]}} under the
+Writes, per book, `<slug>.json` as {chapter: {verses: [note, ...]}} under the
 Douay slugs and verse numbers, and `intros.json` ({slug: [paragraph, ...]}).
+`verses` is one verse ("3"), or a span for a note on several ("8-9"); "0" is a
+note on the chapter as a whole.
 
 Usage:
     python3 scripts/import-haydock.py <dir with the repo's .sfm files>
@@ -46,14 +48,16 @@ def parse(path: Path) -> tuple[dict[str, dict[str, list[str]]], list[str]]:
             paragraph = clean(line[4:])
             if paragraph:
                 intro.append(paragraph)
-        # References come as "1:2", "1:2-4" (filed under the first verse) and
+        # References come as "1:2", "1:2-4" (a note on a span of verses) and
         # "<>:2" (the chapter in hand); a note without a verse is the chapter's own, verse "0".
         for ref, body in re.findall(r"\\f \+ \\fr\s*([^\\]*?)\s*\\f[tk]\s*(.*?)\\f\*", line):
-            match = re.match(r"(\d+|<>):(\d+)", ref)
+            match = re.match(r"(\d+|<>):(\d+)(?:-+(\d+))?", ref)
             ref_chapter = match.group(1) if match and match.group(1) != "<>" else chapter
             body = clean(body)
             if body and ref_chapter:
                 verse = match.group(2) if match else "0"
+                if match and match.group(3) and int(match.group(3)) > int(verse):
+                    verse = f"{verse}-{match.group(3)}"
                 notes.setdefault(ref_chapter, {}).setdefault(verse, []).append(body)
     return notes, intro
 
@@ -69,7 +73,9 @@ def main() -> None:
         drb = json.loads((usfm.BIBLE / "drb" / f"{slug}.json").read_text(encoding="utf-8"))
         for chapter, verses in notes.items():
             strays += [
-                f"{slug} {chapter}:{v}" for v in verses if v != "0" and v not in drb.get(chapter, {})
+                f"{slug} {chapter}:{v}"
+                for v in verses
+                if v != "0" and any(n not in drb.get(chapter, {}) for n in v.split("-"))
             ]
         total += sum(len(n) for verses in notes.values() for n in verses.values())
         (OUT / f"{slug}.json").write_text(
