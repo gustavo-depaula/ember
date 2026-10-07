@@ -147,6 +147,14 @@
   .pill { border: 1px solid var(--border); border-radius: 8px; padding: 7px 12px; font-size: 17px; line-height: 24px; color: var(--muted); font-style: italic; }
   .pill.on { border-color: var(--accentSubtle); color: var(--accent); font-style: normal; }
   .rail { position: absolute; right: 5px; top: 318px; display: flex; flex-direction: column; font: 400 9.5px/15.5px var(--display); color: var(--accent); text-align: center; width: 14px; }
+  .why { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 28px 40px; padding-top: 24px; max-width: 1100px; }
+  .why div { color: var(--muted); font-size: 17px; line-height: 24px; }
+  .why b { display: block; font: italic 400 24px/28px var(--title); color: var(--ink); padding-bottom: 6px; }
+  .beyond { display: flex; align-items: center; gap: 14px; min-height: 52px; font-size: 21px; color: var(--muted); }
+  .beyond .ck { width: 24px; text-align: center; color: var(--accent); opacity: .5; font-size: 18px; }
+  .beyond .n { flex: 1; }
+  .ghostrow { display: flex; align-items: center; gap: 14px; min-height: 48px; font-size: 21px; opacity: .35; }
+  .ghostrow i { width: 22px; height: 22px; border-radius: 6px; border: 1.2px solid var(--accent); }
   .note { border-top: 0.5px solid var(--border); padding-top: 20px; color: var(--muted); max-width: 68ch; }
   .note b { color: var(--ink); font-weight: 400; }
   .note ul { padding-left: 20px; display: flex; flex-direction: column; gap: 8px; padding-top: 8px; }
@@ -156,8 +164,32 @@
 <main>
   <header>
     <h1>Acrescentar à regra</h1>
-    <p><b style="color:var(--ink);font-weight:400">Round three is at the top:</b> the Orações page redrawn three ways without tabs, and each in its adding mode. The button is settled (the open bead at the foot of the string). Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
+    <p><b style="color:var(--ink);font-weight:400">Round four is at the top:</b> one proposal, reasoned from what the page is for. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
   </header>
+
+  <section class="q">
+    <h2>Rodada 4 · Do princípio</h2>
+    <h3>The goal is the rule, not the library</h3>
+    <p>Rounds two and three redesigned a catalogue. The problem was never that the catalogue is ugly; it is that someone holding a rule doesn't see how a single practice gets into it.</p>
+    <div class="why">
+      <div><b>A rule is made of few things</b>Of 439 prayers, 81 are hymns, 87 are office variants and 89 are novenas. Nobody schedules <i>A solis ortus cardine</i> for 7h30. What goes on the string is the small set the corpus already marks as daily, Marian, Eucharistic, meditation, reading, the Office. The page should show that set, not the alphabet.</div>
+      <div><b>The best suggestions are already yours</b>The app records what you pray outside the plan and shows it as “Além do plano”. Something prayed six times this month without being in the rule is the surest candidate there is, and needs no editor to rank it. Next surest: the part of your day that holds nothing yet.</div>
+      <div><b>One sign, wherever a practice appears</b>The open bead at the foot of the string means “not on your string yet; tap to hang it”. If the same bead sits beside a practice everywhere it shows up, the sheet teaches the gesture once and the page is only one of the places it works.</div>
+    </div>
+    <div class="strip" id="r4"></div>
+  </section>
+
+  <section class="note">
+    <b>What this round takes from you, and what it leaves open</b>
+    <ul>
+      <li><b>Kept:</b> the open bead in the sheet; a page built like Orações (title, one row of tabs, holy-card rows); a first tab of suggestions.</li>
+      <li><b>Changed:</b> the tabs are the kinds of thing a rule holds, read from the <code>categories</code> the manifests already carry, so there is one row and no “Toda devoção”. Orações itself can take the same first tab afterwards; I've left it out of this round.</li>
+      <li><b>No editor's list in the first tab.</b> Every row there states a fact about you or the calendar. A hand-picked “classics” section can come later, once you've chosen it.</li>
+      <li><b>Invented for the mock:</b> the counts in “Você já reza” and the gaps in the day. The data for both exists (completions outside the plan; the hours the rule's times fall in).</li>
+    </ul>
+  </section>
+
+  <div class="round">Rodada 3</div>
 
   <section class="q">
     <h2>Rodada 3 · Orações</h2>
@@ -537,6 +569,48 @@
     b.innerHTML = on ? plusBead() : doneBead(b.dataset.c)
     if (cap) { if (!on) { b.dataset.cap = cap.textContent; cap.textContent = 'na regra' } else cap.textContent = b.dataset.cap }
     const phone = b.closest('.phone'), n = phone.querySelectorAll('button.add[data-on="1"]').length, bar = phone.querySelector('.bar')
+    bar.hidden = n === 0
+    bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
+  })
+
+  // ── Round four ──
+  const ruleTabs = ['Sugeridas', 'De cada dia', 'Marianas', 'Eucarísticas', 'Meditação', 'Leitura', 'Ofício', 'Novenas']
+  // The You page's string, with open beads where the day holds nothing.
+  const dayString = (() => {
+    const items = [['m', 'MANHÃ'], ['b', 'var(--dawn)', 9], ['b', 'var(--day)', 9], ['m', 'DIURNO'], ['o', 'meio-dia'], ['m', 'NOITE'], ['b', 'var(--dusk)', 9], ['o', 'depois do jantar'], ['b', 'var(--night)', 7]]
+    const w = 342, x = (i) => 26 + i * (w - 44) / (items.length - 1), y = (i) => 44 + 9 * Math.sin((i / (items.length - 1)) * Math.PI * 2)
+    return `<svg width="${w}" height="84" style="display:block;margin:6px 0 2px"><path d="${items.map((_, i) => `${i ? 'L' : 'M'}${x(i)},${y(i)}`).join(' ')}" stroke="#d4a63a" stroke-opacity=".45" stroke-width="1.2" fill="none"/>${items.map(([k, a, rad], i) =>
+      k === 'm' ? `<text x="${x(i)}" y="${y(i) + 5}" text-anchor="middle" font-size="14" fill="#d4a63a">✠</text><text x="${x(i)}" y="${y(i) - 16}" text-anchor="middle" font-family="Cinzel" font-size="8.5" letter-spacing="1.2" fill="#a89a8c">${a}</text>`
+      : k === 'b' ? `<circle cx="${x(i)}" cy="${y(i)}" r="${rad}" fill="${a}"/>`
+      : `<circle cx="${x(i)}" cy="${y(i)}" r="10" fill="#0e0d0c" stroke="#d4a63a" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M${x(i) - 4},${y(i)}h8M${x(i)},${y(i) - 4}v8" stroke="#d4a63a" stroke-width="1.3" stroke-linecap="round"/>`).join('')}</svg>`
+  })()
+  const forYou =
+    lsec('Você já reza, fora da regra') + arow('chaplet-of-divine-mercy', '6 vezes neste mês · sempre perto das 15h', 'add') + arow('stations-cross', 'nas 3 últimas sextas-feiras', 'add') +
+    lsec('O que falta no seu dia') + dayString + arow('angelus', 'Para o meio-dia · 3 min', 'add') + arow('spiritual-reading', 'Para depois do jantar · 15 min', 'add') +
+    lsec('Nestes dias') + arow('st-teresa-of-avila-novena', 'Novena · começa hoje, festa em 15 de outubro', 'add')
+  const daily = `<div class="count" style="padding:8px 0 4px">65 práticas</div>` + arow('angelus', undefined, 'add') + arow('gospel-of-the-day', undefined, 'add') + arow('examination-of-conscience', 'na regra · todo dia às 21h', hue.night) + arow('spiritual-reading', undefined, 'add') + arow('morning-offering', 'na regra · todo dia às 6h30', hue.dawn) + arow('rosary', 'na regra · todo dia às 18h30', hue.dusk) + arow('visit-blessed-sacrament', undefined, 'add')
+  const todaySheet = `<div class="phone"><div class="behind"><div class="mast">Hoje</div></div><div class="sheet"><div class="stitle"><span>Plano de Vida</span></div>
+    <div style="padding-top:8px">${['Oferecimento do Dia', 'Oração Mental', 'Santo Rosário', 'Exame de Consciência'].map((n) => `<div class="ghostrow"><i></i>${n}</div>`).join('')}</div>
+    <div class="sec" style="letter-spacing:3px;font-size:15px;margin-top:14px">Além do plano</div>
+    <div><div class="beyond"><span class="ck">✓</span>${icon('mercy', 20)}<span class="n">Terço da Divina Misericórdia</span><button class="add" data-c="var(--day)" aria-label="Acrescentar Terço da Divina Misericórdia">${plusBead()}</button></div>
+    <div class="beyond"><span class="ck">✓</span>${icon('bell', 20)}<span class="n">Angelus</span><button class="add" data-c="var(--day)" aria-label="Acrescentar Angelus">${plusBead()}</button></div></div>
+    <div class="whisper" style="text-align:left;padding-top:10px">O que você rezou hoje sem estar na regra. A conta aberta o prende ao cordão.</div></div></div>`
+  document.getElementById('r4').innerHTML = [
+    col('1 · A conta ao pé do cordão', 'Settled in round one. It opens the page to the right, and it is where the open bead is first seen and named.', ruleSheet('', string(true) + traditions)),
+    col('2 · Acrescentar à regra', 'Built like Orações, but about your rule. The first tab says why each row is there: you already pray it, your day has a gap it fits, or the calendar brings it now. Tapping an open bead on the little string jumps to what fits that hour. Beads are live.', page('Acrescentar à regra', search.replace('Buscar uma oração', 'Buscar pelo nome') + facetRow(ruleTabs, 0) + `<div>${forYou}</div>`, bar3)),
+    col('3 · Qualquer outra aba', 'The other tabs are the kinds of thing a rule holds, each a plain list of holy-card rows ending in the bead. What already hangs on the string shows its bead and hour.', page('Acrescentar à regra', search.replace('Buscar uma oração', 'Buscar pelo nome') + facetRow(ruleTabs, 1) + daily, bar3)),
+    col('4 · O mesmo sinal em Hoje', 'Today\'s sheet already lists what was prayed beyond the plan. Each row gains the bead, at the moment the wish to keep a practice is strongest. The practice\'s own page and Search results would carry it too.', todaySheet),
+  ].join('')
+  document.getElementById('r4').addEventListener('click', (e) => {
+    const b = e.target.closest('button.add')
+    if (!b) return
+    const on = b.dataset.on === '1', cap = b.parentElement.querySelector('.t span')
+    b.dataset.on = on ? '' : '1'
+    b.innerHTML = on ? plusBead() : doneBead(b.dataset.c)
+    if (cap) { if (!on) { b.dataset.cap = cap.textContent; cap.textContent = 'na regra' } else cap.textContent = b.dataset.cap }
+    const phone = b.closest('.phone'), bar = phone.querySelector('.bar')
+    if (!bar) return
+    const n = phone.querySelectorAll('button.add[data-on="1"]').length
     bar.hidden = n === 0
     bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
   })
