@@ -1,13 +1,15 @@
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { useWindowDimensions } from 'react-native'
-import { Text, XStack, YStack } from 'tamagui'
+import { ScrollView, Text, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
 import { PracticeCard } from '@/features/covers'
 import { type BlockTone, jewelTones } from '@/features/explore/bgColor'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { useBibleResume, useBooks } from '../hooks'
+import { useBiblePlaces, useBooks } from '../hooks'
+import { placeWhen, ribbonTones } from '../placeLabel'
+import { useOpenBiblePlace } from '../useOpenBiblePlace'
 
 const gutter = 14
 
@@ -18,42 +20,49 @@ function useStampSize(): number {
   return Math.min(160, Math.floor((content - gutter) / 2))
 }
 
-/** Continue reading + browse the Bible, as the home row's Bíblia stamp. */
+/** One carousel: the Bible itself first, then a stamp for each place last read. */
 export function ReadingStamps() {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
   const router = useRouter()
   const size = useStampSize()
-  const resume = useBibleResume()
+  const places = useBiblePlaces()
+  const openPlace = useOpenBiblePlace()
   const translation = usePreferencesStore((s) => s.translation)
   const { data: books } = useBooks(translation)
 
   return (
-    <XStack gap={gutter}>
-      {resume && (
+    <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+      <XStack gap={gutter}>
         <Stamp
-          title={resume.bookName}
-          note={
-            resume.chapters
-              ? t('bible.discovery.chapterOf', { n: resume.chapter, total: resume.chapters })
-              : t('bible.chapterAbbr', { n: resume.chapter })
-          }
-          caption={t('bible.discovery.continueReading')}
-          accessibilityLabel={`${t('bible.discovery.continueReading')}: ${resume.bookName} ${resume.chapter}`}
-          tone={jewelTones.red}
+          title={t('home.bible')}
+          note={books ? t('bible.discovery.bookCount', { count: books.length }) : undefined}
+          caption={t('bible.discovery.openBible')}
+          accessibilityLabel={t('bible.discovery.openBible')}
+          tone={jewelTones.marian}
           size={size}
-          onPress={() => router.push('/bible/reader')}
+          // Browsing starts from the book list, so the reader opens on its drawer.
+          onPress={() => router.push({ pathname: '/bible/reader', params: { drawer: 'open' } })}
         />
-      )}
-      <Stamp
-        title={t('home.bible')}
-        note={books ? t('bible.discovery.bookCount', { count: books.length }) : undefined}
-        caption={t('bible.discovery.openBible')}
-        accessibilityLabel={t('bible.discovery.openBible')}
-        tone={jewelTones.marian}
-        size={size}
-        onPress={() => router.push('/bible/reader')}
-      />
-    </XStack>
+        {places.map((place) => (
+          <Stamp
+            key={place.bookId}
+            title={place.bookName}
+            note={
+              place.chapters
+                ? t('bible.discovery.chapterOf', { n: place.chapter, total: place.chapters })
+                : t('bible.chapterAbbr', { n: place.chapter })
+            }
+            caption={placeWhen(place.updatedAt, t, i18n.language)}
+            accessibilityLabel={t('a11y.resumeReading', {
+              place: `${place.bookName} ${place.chapter}`,
+            })}
+            tone={ribbonTones[place.ribbon % ribbonTones.length]}
+            size={size}
+            onPress={() => openPlace(place.bookId, place.chapter)}
+          />
+        ))}
+      </XStack>
+    </ScrollView>
   )
 }
 

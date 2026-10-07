@@ -24,25 +24,28 @@ export function useBookName(translation: string, bookId: string) {
   return t(`bookName.${bookId}`, { defaultValue: book?.name ?? bookId })
 }
 
-/**
- * Where to resume the Bible, or undefined while there's nothing to resume —
- * still loading, or parked at its Genesis-1 default.
- */
-export function useBibleResume() {
+/** The places last read, each with its book's name and length, most recent first. */
+export function useBiblePlaces() {
+  const { t } = useTranslation()
   const translation = usePreferencesStore((s) => s.translation)
-  const { bookId, chapter, updatedAt, hydrated } = useBibleStore(
-    useShallow((s) => ({
-      bookId: s.bookId,
-      chapter: s.chapter,
-      updatedAt: s.updatedAt,
-      hydrated: s.hydrated,
-    })),
+  const { places, hydrated } = useBibleStore(
+    useShallow((s) => ({ places: s.places, hydrated: s.hydrated })),
   )
-  const bookName = useBookName(translation, bookId)
   const { data: books } = useBooks(translation)
-  if (!hydrated || !bookName || (bookId === 'genesis' && chapter === 1)) return undefined
-  const chapters = books?.find((b) => b.id === bookId)?.chapters
-  return { bookId, bookName, chapter, chapters, updatedAt }
+  if (!hydrated) return []
+  return places.map((place) => {
+    const book = books?.find((b) => b.id === place.bookId)
+    return {
+      ...place,
+      bookName: t(`bookName.${place.bookId}`, { defaultValue: book?.name ?? place.bookId }),
+      chapters: book?.chapters,
+    }
+  })
+}
+
+/** Where to resume the Bible: the place read most recently, if there is one. */
+export function useBibleResume() {
+  return useBiblePlaces().at(0)
 }
 
 export function useChapter(translation: string, bookId: string, chapter: number) {

@@ -1,2 +1,4 @@
 export { BibleDiscovery, BibleReader } from './components'
-export { useBibleResume, useBookName, useBooks, useChapter } from './hooks'
+export { useBiblePlaces, useBibleResume, useBookName, useBooks, useChapter } from './hooks'
+export { ribbonTones } from './placeLabel'
+export { useOpenBiblePlace } from './useOpenBiblePlace'

@@ -23,6 +23,7 @@ import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { type CanonDivisionId, canonDivisions, divisionStartingAt } from '../canon'
+import { placeWhen } from '../placeLabel'
 import type { BiblePlace } from '../recents'
 
 const chaptersPerRow = 5
@@ -384,13 +385,6 @@ function PlaceList({
   const { t, i18n } = useTranslation()
   if (places.length === 0) return undefined
 
-  function when(updatedAt: number): string {
-    const startOfToday = new Date().setHours(0, 0, 0, 0)
-    if (updatedAt >= startOfToday) return t('bible.places.today')
-    if (updatedAt >= startOfToday - 86_400_000) return t('bible.places.yesterday')
-    return new Date(updatedAt).toLocaleDateString(i18n.language, { day: 'numeric', month: 'short' })
-  }
-
   return (
     <YStack
       paddingHorizontal="$md"
@@ -413,7 +407,9 @@ function PlaceList({
             <Typography flex={1} fontSize="$3" numberOfLines={1}>
               {label}
             </Typography>
-            <Typography variant="annotation">{when(place.updatedAt)}</Typography>
+            <Typography variant="annotation">
+              {placeWhen(place.updatedAt, t, i18n.language)}
+            </Typography>
           </Pressable>
         )
       })}

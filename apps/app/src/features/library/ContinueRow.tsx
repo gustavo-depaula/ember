@@ -2,13 +2,13 @@ import type { ImageSource } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 
-import { useBibleResume } from '@/features/bible'
+import { ribbonTones, useBibleResume, useOpenBiblePlace } from '@/features/bible'
 import { useBooksInProgress } from '@/features/books/useBooksInProgress'
 import { coverFor, type TileCover } from '@/features/covers'
 import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
-import { toneForKey } from '@/features/explore/bgColor'
+import { type BlockTone, toneForKey } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
 type Item = {
@@ -18,6 +18,7 @@ type Item = {
   subtitle?: string
   image?: ImageSource
   cover?: TileCover
+  tone?: BlockTone
   onPress: () => void
 }
 
@@ -31,6 +32,7 @@ export function ContinueRow() {
   const router = useRouter()
   const books = useBooksInProgress()
   const bible = useBibleResume()
+  const openPlace = useOpenBiblePlace()
 
   const items: Item[] = books.map(({ bookId, entry, chapterTitle, updatedAt }) => ({
     key: `book/${bookId}`,
@@ -44,11 +46,12 @@ export function ContinueRow() {
   if (bible)
     items.push({
       key: `bible/${bible.bookId}`,
-      updatedAt: bible.updatedAt ?? 0,
+      updatedAt: bible.updatedAt,
       title: `${bible.bookName} ${bible.chapter}`,
       subtitle: t('bible.discovery.continueReading'),
       cover: { kind: 'book', format: 'missal' },
-      onPress: () => router.push('/bible/reader'),
+      tone: ribbonTones[bible.ribbon % ribbonTones.length],
+      onPress: () => openPlace(bible.bookId, bible.chapter),
     })
 
   if (items.length === 0) return null
@@ -57,11 +60,11 @@ export function ContinueRow() {
 
   return (
     <ArtCarousel title={t('library.continue')}>
-      {items.map(({ key, ...item }) => (
+      {items.map(({ key, tone, ...item }) => (
         <ArtCoverCard
           key={key}
           {...item}
-          tone={toneForKey(key)}
+          tone={tone ?? toneForKey(key)}
           size={118}
           aspectRatio={1.5}
           radius={4}

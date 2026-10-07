@@ -34,7 +34,7 @@ const noBooks: Book[] = []
 // through the drawer to look something up moves no place.
 const readingDwellMs = 20_000
 
-export function BibleReader() {
+export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?: boolean }) {
   const { t } = useTranslation()
   const { width: screenWidth } = useWindowDimensions()
   const drawerWidth = Math.min(screenWidth * 0.8, 360)
@@ -43,9 +43,9 @@ export function BibleReader() {
   const translation = usePreferencesStore((s) => s.translation)
   const { bookId, chapter, setPosition, recordReading } = useBibleStore()
 
-  const slideX = useSharedValue(0)
+  const slideX = useSharedValue(initialDrawerOpen ? drawerWidth : 0)
   const startX = useSharedValue(0)
-  const [panelOpen, setPanelOpen] = useState(false)
+  const [panelOpen, setPanelOpen] = useState(initialDrawerOpen)
   const [readingConfigVisible, setReadingConfigVisible] = useState(false)
 
   const {

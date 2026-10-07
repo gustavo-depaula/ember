@@ -2,17 +2,18 @@ import type { ImageSource } from 'expo-image'
 import type { Href } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 
-import { useBibleResume } from '@/features/bible'
+import { ribbonTones, useBibleResume } from '@/features/bible'
 import { useBooksInProgress } from '@/features/books/useBooksInProgress'
 import { coverFor, type TileCover } from '@/features/covers'
 import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
-import { toneForKey } from '@/features/explore/bgColor'
+import { type BlockTone, toneForKey } from '@/features/explore/bgColor'
 import { planCardSize } from '@/features/home/components/PlanOfLifeCard'
 import { useMostPrayed } from '@/features/home/useMostPrayed'
 import { practiceHref } from '@/features/practices/practiceHref'
 import { localizeContent } from '@/lib/i18n'
+import { useBibleStore } from '@/stores/bibleStore'
 
 type Recent = {
   key: string
@@ -22,6 +23,8 @@ type Recent = {
   image?: ImageSource
   cover?: TileCover
   href: Href
+  tone?: BlockTone
+  onPress?: () => void
   book?: boolean
 }
 
@@ -63,10 +66,13 @@ export function RecentRow() {
   if (bible)
     items.push({
       key: `bible/${bible.bookId}`,
-      at: bible.updatedAt ?? 0,
+      at: bible.updatedAt,
       title: `${bible.bookName} ${bible.chapter}`,
       cover: { kind: 'book', format: 'missal' },
+      tone: ribbonTones[bible.ribbon % ribbonTones.length],
       href: '/bible/reader',
+      // The reader shows wherever the store points: aim it at this place.
+      onPress: () => useBibleStore.getState().setPosition(bible.bookId, bible.chapter),
       book: true,
     })
 
@@ -76,11 +82,11 @@ export function RecentRow() {
 
   return (
     <ArtCarousel title={t('search.recents')}>
-      {items.slice(0, maxRecents).map(({ key, at: _at, book, ...item }) => (
+      {items.slice(0, maxRecents).map(({ key, at: _at, book, tone, ...item }) => (
         <ArtCoverCard
           key={key}
           {...item}
-          tone={toneForKey(key)}
+          tone={tone ?? toneForKey(key)}
           {...(book ? { size: bookWidth, aspectRatio: 1.5, radius: 4 } : { size: planCardSize })}
         />
       ))}
