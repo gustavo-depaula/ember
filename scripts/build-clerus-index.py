@@ -471,6 +471,10 @@ def document(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[t
             parts = NOTE.split(block)
             body = parts[0]
             notes = [(next(n for n in parts[i : i + 4] if n), parts[i + 4]) for i in range(1, len(parts), 5)]
+            if notes:
+                # What follows a heading after the section's last note (a
+                # chapter's epigraph) is not the note's, nor the section's.
+                notes[-1] = (notes[-1][0], notes[-1][1].split("<a Name=")[0])
             own = set(CALLS[style].findall(body))
             # A bare number is often not a call, so an earlier section is
             # believed over this one only where the notes are plainly not its
