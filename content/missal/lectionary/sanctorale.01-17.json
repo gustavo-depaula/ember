@@ -618,7 +618,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -630,7 +630,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 15 (16), 1-2a e 5.7-8.11 (: cf. 5a)",
+      "cite": "Sl 15 (16), 1-2a e 5.7-8.11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -642,7 +642,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "cite": "15, 1-2a and 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -654,7 +654,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -678,7 +678,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -690,7 +690,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R: vgl. 5a)",
+      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -2416,7 +2416,7 @@
  "title": {
   "la": "S. Antonii, abbatis",
   "pt-BR": "Santo Antão, abade",
-  "en-US": "St. Anthony, abbot",
+  "en-US": "Saint Anthony, abbot",
   "es": "San Antonio, abad",
   "it": "Sant'Antonio, abate",
   "fr": "Saint Antoine, abbé",

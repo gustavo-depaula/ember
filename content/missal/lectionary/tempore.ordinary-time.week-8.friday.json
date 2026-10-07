@@ -653,7 +653,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -665,7 +665,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (R. 4a)",
+      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -677,7 +677,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a and 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -689,7 +689,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -713,7 +713,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -725,7 +725,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R.: 4a)",
       "role": "title"
      }
     ]
@@ -2091,7 +2091,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 10. 11-12a. 12b-13 (: 13b)",
+      "cite": "Ps 95, 10. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -2103,7 +2103,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), l0.11-12.13 (: 13ab))",
+      "cite": "Sl 95 (96), l0.11-12.13 (R.: 13ab)",
       "role": "title"
      }
     ],
@@ -2115,7 +2115,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 95, 10. 11-12a. 12b-13 (: 13b)",
+      "cite": "Ps 95, 10. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -2127,7 +2127,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 10. 11-12a. 12b-13 (: 13b)",
+      "cite": "Sal 95, 10. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -2151,7 +2151,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 10. 11-12a. 12b-13 (: 13b)",
+      "cite": "Ps 95, 10. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -2163,7 +2163,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 10-11. 12-13b (R: vgl. 13ab)",
+      "cite": "Ps 96 (95), 10-11. 12-13b (R.: vgl. 13ab)",
       "role": "title"
      }
     ]
@@ -3900,7 +3900,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. VIII",
   "pt-BR": "Sexta-feira da 8ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 8th Week: Friday",
+  "en-US": "Friday of the Eighth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 8ª semana",
   "it": "VENERDI della VIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 8e semaine",

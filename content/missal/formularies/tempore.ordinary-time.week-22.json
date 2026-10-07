@@ -874,7 +874,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -888,7 +888,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -902,7 +902,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -916,7 +916,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -930,7 +930,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -944,7 +944,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -958,7 +958,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1036,7 +1036,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1045,7 +1045,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1054,7 +1054,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1300,8 +1300,8 @@
  ],
  "title": {
   "la": "DOMINICA XXII «PER ANNUM»",
-  "pt-BR": "22º DOMINGO DO TEMPO COMUM",
-  "en-US": "22nd SUNDAY IN ORDINARY TIME",
+  "pt-BR": "22º Domingo do Tempo Comum",
+  "en-US": "Twenty-Second Sunday in Ordinary Time",
   "es": "XXII DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XXII DOMENICA",
   "fr": "Temps ordinaire — 22ème DIMANCHE",

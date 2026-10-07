@@ -735,7 +735,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 50, 3-4. 5-6a. 12-13. 14 et 17 (: cf. 3a)",
+      "cite": "Ps 50, 3-4. 5-6a. 12-13. 14 et 17 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -747,7 +747,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 50 (51), 3-4.5-6a.12-13.14.17 (: cf. 3a)",
+      "cite": "Sl 50 (51), 3-4.5-6a.12-13.14.17 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -759,7 +759,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 50, 3-4. 5-6a. 12-13. 14 et 17 (: cf. 3a)",
+      "cite": "Ps 50, 3-4. 5-6a. 12-13. 14 and 17 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -771,7 +771,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 50, 3-4. 5-6a. 12-13. 14 et 17 (: cf. 3a)",
+      "cite": "Sal 50, 3-4. 5-6a. 12-13. 14 et 17 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -795,7 +795,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 50, 3-4. 5-6a. 12-13. 14 et 17 (: cf. 3a)",
+      "cite": "Ps 50, 3-4. 5-6a. 12-13. 14 et 17 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -807,7 +807,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 51 (50), 3-4. 5-6b. l2-13. 14 u. 17 (R: vgl. 3)",
+      "cite": "Ps 51 (50), 3-4. 5-6b. l2-13. 14 u. 17 (R.: vgl. 3)",
       "role": "title"
      }
     ]
@@ -1908,7 +1908,7 @@
       "k": "p",
       "lines": [
        [
-        "Adiuvántes autem et exhortámur, ne in vácuum grátiam Dei recipiátis — ​ait enim: «Témpore accépto exaudívi te et in die salútis adiúvi te»; ecce nunc tempus acceptábile, ecce nunc dies salútis."
+        "Adiuvántes autem et exhortámur, ne in vácuum grátiam Dei recipiátis — ait enim: «Témpore accépto exaudívi te et in die salútis adiúvi te»; ecce nunc tempus acceptábile, ecce nunc dies salútis."
        ]
       ]
      },
@@ -3169,8 +3169,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Feria quarta CINERUM",
-  "pt-BR": "Tempo da Quaresma — Quarta-feira de Cinzas",
-  "en-US": "Season of Lent — ASH WEDNESDAY",
+  "pt-BR": "Quarta-feira de Cinzas",
+  "en-US": "Ash Wednesday",
   "es": "Tiempo de Cuaresma — Miércoles de Ceniza",
   "it": "MERCOLEDI delle Ceneri",
   "fr": "Mercredi des Cendres",

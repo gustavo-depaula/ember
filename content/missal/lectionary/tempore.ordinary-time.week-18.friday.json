@@ -651,7 +651,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 76, 12-13. 14-15. 16 et 21 (: 12a)",
+      "cite": "Ps 76, 12-13. 14-15. 16 et 21 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 76 (77), 12-13.14-15.16 e 21 (: 12a)",
+      "cite": "Sl 76 (77), 12-13.14-15.16 e 21 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 76, 12-13. 14-15. 16 et 21 (: 12a)",
+      "cite": "Ps 76, 12-13. 14-15. 16 and 21 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 76, 12-13. 14-15. 16 et 21 (: 12a)",
+      "cite": "Sal 76, 12-13. 14-15. 16 et 21 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 76, 12-13. 14-15. 16 et 21 (: 12a)",
+      "cite": "Ps 76, 12-13. 14-15. 16 et 21 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 77 (76), 12-13. 14-15. 16 u. 21 (R: vgl. 12a)",
+      "cite": "Ps 77 (76), 12-13. 14-15. 16 u. 21 (R.: vgl. 12a)",
       "role": "title"
      }
     ]
@@ -756,7 +756,7 @@
          "m": "rubric",
          "t": "R/."
         },
-        "Penso em vossas maravilhas, ó Senhor!."
+        "Penso em vossas maravilhas, ó Senhor!"
        ]
       ]
      }
@@ -992,7 +992,7 @@
          "m": "rubric",
          "t": "R/."
         },
-        "Penso em vossas maravilhas, ó Senhor!."
+        "Penso em vossas maravilhas, ó Senhor!"
        ]
       ]
      }
@@ -1228,7 +1228,7 @@
          "m": "rubric",
          "t": "R/."
         },
-        "Penso em vossas maravilhas, ó Senhor!."
+        "Penso em vossas maravilhas, ó Senhor!"
        ]
       ]
      }
@@ -1464,7 +1464,7 @@
          "m": "rubric",
          "t": "R/."
         },
-        "Penso em vossas maravilhas, ó Senhor!."
+        "Penso em vossas maravilhas, ó Senhor!"
        ]
       ]
      }
@@ -2251,7 +2251,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Dt 32, 35cd-36ab. 39abcd. 41 (: 39c)",
+      "cite": "Dt 32, 35cd-36ab. 39abcd. 41 (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2263,7 +2263,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dt 32, 35cd-36ab.39abcd.41 (: 39c)",
+      "cite": "Dt 32, 35cd-36ab.39abcd.41 (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2275,7 +2275,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Deut 32, 35cd-36ab. 39abcd. 41 (: 39c)",
+      "cite": "Deut 32, 35cd-36ab. 39abcd. 41 (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2287,7 +2287,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dt 32, 35cd-36ab. 39abcd. 41 (: 39c)",
+      "cite": "Dt 32, 35cd-36ab. 39abcd. 41 (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2311,7 +2311,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Dt 32, 35cd-36ab. 39abcd. 41 (: 39c)",
+      "cite": "Dt 32, 35cd-36ab. 39abcd. 41 (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2323,7 +2323,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Dtn 32, 35c-36b. 39abcd. 41 (R: 39c)",
+      "cite": "Dtn 32, 35c-36b. 39abcd. 41 (R.: 39c)",
       "role": "title"
      }
     ]
@@ -3960,7 +3960,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XVIII",
   "pt-BR": "Sexta-feira da 18ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 18th Week: Friday",
+  "en-US": "Friday of the Eighteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 18ª semana",
   "it": "VENERDI della XVIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 18e semaine",

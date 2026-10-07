@@ -3,52 +3,50 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      ],
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 88(89), 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 88(89), 2-3. 4-5. 21-22. 25 e 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 88:2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 88:2-3. 4-5. 21-22. 25 and 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 88, 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 88 (89)",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R: 2a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R.: 2a)",
       "role": "title"
      }
     ]

@@ -873,6 +873,53 @@
       ],
       "role": "conclusion"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A mulher que teme ao Senhor, essa sim, merece louvor."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro dos Provérbios"
+       ]
+      ],
+      "cite": "31, 10-13.19-20.30-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uma mulher forte, quem a encontrará? Ela vale muito mais do que as joias. Seu marido confia nela plenamente, e não terá falta de recursos. Ela lhe dá só alegria e nenhum desgosto, todos os dias de sua vida. Procura lã e linho, e com habilidade trabalham as suas mãos. Estende a mão para a roca e seus dedos seguram o fuso. Abre suas mãos ao necessitado e estende suas mãos ao pobre. O encanto é enganador e a beleza é passageira; a mulher que teme ao Senhor, essa sim, merece louvor. Proclamem o êxito de suas mãos, e na praça louvem-na as suas obras!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
     ]
    },
    "part": "firstReading",
@@ -996,7 +1043,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 131, 11. 13-14. 17-18 (: Lc 1, 32a)",
+      "cite": "Ps 131, 11. 13-14. 17-18 (R.: Lc 1, 32a)",
       "role": "title"
      }
     ],
@@ -1020,7 +1067,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 131, 11. 13-14. 17-18 (: Lc 1, 32a)",
+      "cite": "Ps 131, 11. 13-14. 17-18 (R.: Lk 1, 32a)",
       "role": "title"
      }
     ],
@@ -1056,7 +1103,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 131, 11. 13-14. 17-18 (: Lc 1, 32a)",
+      "cite": "Ps 131, 11. 13-14. 17-18 (R.: Lc 1, 32a)",
       "role": "title"
      }
     ],
@@ -1068,7 +1115,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 132 (131), 11. 13-14. 17-18 (R: Lk 1, 32b)",
+      "cite": "Ps 132 (131), 11. 13-14. 17-18 (R.: Lk 1, 32b)",
       "role": "title"
      }
     ]
@@ -2648,8 +2695,8 @@
  ],
  "title": {
   "la": "Ss. Ioachim et Annæ, parentum beatæ Maríæ Virginis",
-  "pt-BR": "São Joaquim e Santa Ana, pais de Nossa Senhora",
-  "en-US": "Ss. Joachim and Ann, parents of the Blessed Virgin Mary",
+  "pt-BR": "Santos Joaquim e Ana, pais da Bem-aventurada Virgem Maria",
+  "en-US": "Saints Joachim and Anne, Parents of the Blessed Virgin Mary",
   "es": "San Joaquín y santa Ana, padres de la Virgen María",
   "it": "Santi Gioacchino e Anna, genitori della beata Vergine Maria",
   "fr": "Saint Joachim et sainte Anne, parents de la bienheureuse Vierge Marie",

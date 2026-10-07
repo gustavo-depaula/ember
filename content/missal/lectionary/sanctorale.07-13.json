@@ -98,32 +98,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "17"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "firstReading",
-   "from": "common.holy-men-and-women.first-reading.17",
-   "alt": {
-    "group": 1,
-    "option": 1,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -182,6 +166,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Foi-te revelado, ó homem, o que é o bem, e o que o Senhor exige de ti."
        ]
       ],
@@ -201,7 +194,7 @@
       "k": "p",
       "lines": [
        [
-        "Que oferta farei ao Senhor, digna dele, ao ajoelhar-me diante do Deus altíssimo? Acaso oferecerei holocaustos e novilhos de um ano? Acaso agradam ao Senhor carneiros aos milhares, e torrentes de óleo? Porventura ofertaria eu o meu primogénito, por um crime meu, o fruto do meu sangue pelos pecados da minha vida?\" Foi-te revelado, ó homem,o que é o bem, e o que o Senhor exige de ti: principalmente praticar a justiça e amar a misericordia e caminhar solícito com teu Deus."
+        "Que oferta farei ao Senhor, digna dele, ao ajoelhar-me diante do Deus altíssimo? Acaso oferecerei holocaustos e novilhos de um ano? Acaso agradam ao Senhor carneiros aos milhares, e torrentes de óleo? Porventura ofertaria eu o meu primogénito, por um crime meu, o fruto do meu sangue pelos pecados da minha vida?\" Foi-te revelado, ó homem, o que é o bem, e o que o Senhor exige de ti: principalmente praticar a justiça e amar a misericordia e caminhar solícito com teu Deus."
        ]
       ]
      },
@@ -216,6 +209,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -245,6 +247,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -302,6 +313,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Uomo, ti è stato insegnato ciò che richiede il Signore da te."
        ]
       ],
@@ -352,6 +372,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de Michée"
        ]
       ],
@@ -385,6 +414,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -540,32 +578,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "11"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "firstReading",
-   "from": "common.holy-men-and-women.second-reading.11",
-   "alt": {
-    "group": 1,
-    "option": 2,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -624,6 +646,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Acima de tud tende caridade; pois o amor é o vínculo da perfeição."
        ]
       ],
@@ -662,6 +693,15 @@
       "k": "p",
       "lines": [
        [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A reading from the Letter of Saint Paul to the Colossians"
        ]
       ],
@@ -687,6 +727,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -747,6 +796,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sopra tutte queste cose rivestitevi della carità, che le unisce in modo perfetto."
        ]
       ],
@@ -791,6 +849,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Lettre de saint Paul Apôtre aux Colossiens"
        ]
       ],
@@ -824,6 +891,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -979,67 +1055,62 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.1",
-   "alt": {
-    "group": 2,
-    "option": 1,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 1, 1-2. 3. 4 e 6 (R.: 2a ou 39, 5a ou 91, 13-14)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 and 6 (R.: 2a or 39, 5a or 91, 13-14)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 1",
       "role": "title"
      }
@@ -1047,16 +1118,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: 2a oder vgl. Jer 17, 7 oder Ps 92 [91], 13-14)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R.: 2a oder vgl. Jer 17, 7 oder Ps 92 [91], 13-14)",
       "role": "title"
      }
     ]
@@ -2062,35 +2141,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.9",
-   "alt": {
-    "group": 2,
-    "option": 2,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Ps 130, 1. 2. 3",
       "role": "title"
      }
@@ -2098,7 +2156,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 130(131), 1. 2. 3",
       "role": "title"
      }
@@ -2106,7 +2168,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
       "cite": "Ps 130, 1.2",
       "role": "title"
      }
@@ -2114,7 +2180,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 130, 1. 2. 3",
       "role": "title"
      }
@@ -2122,7 +2192,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 130 (131)",
       "role": "title"
      }
@@ -2130,7 +2204,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
       "cite": "Ps 130, 1. 2. 3",
       "role": "title"
      }
@@ -2138,7 +2216,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
       "cite": "Ps 131 (130), 1. 2-3",
       "role": "title"
      }
@@ -2880,35 +2962,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "11"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1",
-   "alt": {
-    "group": 3,
-    "option": 1,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 14, 23",
       "role": "title"
      },
@@ -2949,7 +3010,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 14, 23",
       "role": "title"
      },
@@ -3003,7 +3068,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 14, 23",
       "role": "title"
      },
@@ -3044,7 +3113,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 14, 23",
       "role": "title"
      },
@@ -3066,7 +3139,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 14, 23",
       "role": "title"
      },
@@ -3107,7 +3184,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Joh 14, 23",
       "role": "title"
      },
@@ -3153,35 +3234,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "13"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1",
-   "alt": {
-    "group": 4,
-    "option": 1,
-    "label": "short"
-   }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -3222,7 +3282,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 15, 9b. 5b",
       "role": "title"
      },
@@ -3260,7 +3324,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 15:9.5",
       "role": "title"
      },
@@ -3282,7 +3350,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 15, 9b. 5b",
       "role": "title"
      },
@@ -3323,7 +3395,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 15, 9b.5b",
       "role": "title"
      },
@@ -3345,7 +3421,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -3386,7 +3466,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 15, 9b. 5b",
       "role": "title"
      },
@@ -4004,12 +4088,12 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        "Evangelio"
+        "Evangelium"
        ]
       ],
       "role": "title"
@@ -4025,7 +4109,16 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -4160,7 +4253,7 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
@@ -4324,7 +4417,7 @@
  "title": {
   "la": "S. Henrici",
   "pt-BR": "Santo Henrique",
-  "en-US": "St. Henry",
+  "en-US": "Saint Henry",
   "es": "San Enrique",
   "it": "Sant'Enrico",
   "fr": "Saint Henri",

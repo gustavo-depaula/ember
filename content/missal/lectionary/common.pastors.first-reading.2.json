@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -68,6 +59,15 @@
      }
     ],
     "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -129,7 +129,7 @@
       "k": "p",
       "lines": [
        [
-        "At that time the Lord set apart the tribe of Levi to carry the ark of the covenant of the Lord, to stand before the Lord to minister to him, and to bless in his name, as they have done to this day For this reason, Levi has no hereditary portion with his relatives;i the Lord himself is his portion, as the Lord, your God, promised him."
+        "At that time the Lord set apart the tribe of Levi to carry the ark of the covenant of the Lord, to stand before the Lord to minister to him, and to bless in his name, as they have done to this day For this reason, Levi has no hereditary portion with his relatives; i the Lord himself is his portion, as the Lord, your God, promised him."
        ]
       ]
      },
@@ -144,6 +144,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -192,6 +201,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Il Signore è la sua eredità."
        ]
       ],
@@ -232,6 +250,15 @@
      }
     ],
     "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -277,6 +304,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

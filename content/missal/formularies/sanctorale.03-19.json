@@ -350,7 +350,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -368,7 +368,7 @@
         "Glória",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -452,7 +452,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -745,7 +745,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -828,7 +828,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -2106,8 +2106,8 @@
  ],
  "title": {
   "la": "S. IOSEPH SPONSI BEATÆ MARIÆ VIRGINIS",
-  "pt-BR": "SÃO JOSÉ, ESPOSO DA BEM-AVENTURADA VIRGEM MARIA",
-  "en-US": "ST JOSEPH THE HUSBAND OF MARY",
+  "pt-BR": "São José, Esposo da Bem-Aventurada Virgem Maria",
+  "en-US": "St Joseph the Husband of Mary",
   "es": "SAN JOSÉ, ESPOSO DE LA VIRGEN MARÍA",
   "it": "SAN GIUSEPPE SPOSO DELLA BEATA VERGINE MARIA",
   "fr": "SAINT JOSEPH, ÉPOUX DE LA BIENHEUREUSE VIERGE MARIE",

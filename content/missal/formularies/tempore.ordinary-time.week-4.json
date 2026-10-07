@@ -850,7 +850,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -864,7 +864,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -878,7 +878,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -892,7 +892,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -906,7 +906,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -920,7 +920,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -934,7 +934,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1272,8 +1272,8 @@
  ],
  "title": {
   "la": "DOMINICA IV «PER ANNUM»",
-  "pt-BR": "4º DOMINGO DO TEMPO COMUM",
-  "en-US": "4th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "4º Domingo do Tempo Comum",
+  "en-US": "Fourth Sunday in Ordinary Time",
   "es": "IV DOMINGO DEL TIEMPO ORDINARIO",
   "it": "IV DOMENICA",
   "fr": "Temps ordinaire — 4ème DIMANCHE",

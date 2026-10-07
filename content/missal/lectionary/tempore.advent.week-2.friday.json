@@ -568,7 +568,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: cf. Io 8, 12)",
       "role": "title"
      }
     ],
@@ -580,7 +580,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 1, 1-2.3.4 e 6 (R. cf. Jo 8, 12)",
+      "cite": "Sl 1, 1-2.3.4 e 6 (R.: cf. Jo 8, 12)",
       "role": "title"
      }
     ],
@@ -592,7 +592,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)",
+      "cite": "Ps 1, 1-2. 3. 4 and 6 (R.: cf. Jn 8, 12)",
       "role": "title"
      }
     ],
@@ -604,7 +604,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)",
+      "cite": "Sal 1, 1-2. 3. 4 et 6 (R.: cf. Io 8, 12)",
       "role": "title"
      }
     ],
@@ -628,7 +628,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: cf. Io 8, 12)",
       "role": "title"
      }
     ],
@@ -640,7 +640,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: vgl. Joh 8, 12)",
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R.: vgl. Joh 8, 12)",
       "role": "title"
      }
     ]
@@ -2114,7 +2114,7 @@
       "k": "p",
       "lines": [
        [
-        "In quel tempo, Gesù disse alle folle: «A chi posso paragonare questa generazione? È simile a bambini che stanno seduti in piazza e, rivolti ai compagni, gridano: Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non vi siete battuti il petto!. È venuto Giovanni, che non mangia e non beve, e dicono: È indemoniato. È venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco, è un mangione e un beone, un amico di pubblicani e di peccatori. Ma la sapienza è stata riconosciuta giusta per le opere che essa compie»."
+        "In quel tempo, Gesù disse alle folle: «A chi posso paragonare questa generazione? È simile a bambini che stanno seduti in piazza e, rivolti ai compagni, gridano: Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non vi siete battuti il petto! È venuto Giovanni, che non mangia e non beve, e dicono: È indemoniato. È venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco, è un mangione e un beone, un amico di pubblicani e di peccatori. Ma la sapienza è stata riconosciuta giusta per le opere che essa compie»."
        ]
       ]
      },
@@ -2285,8 +2285,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada II — Feria sexta",
-  "pt-BR": "Sexta-feira",
-  "en-US": "Advent Season — 2nd Week: Friday",
+  "pt-BR": "Sexta-feira da 2ª Semana do Advento",
+  "en-US": "Friday of the Second Week of Advent",
   "es": "Tiempo de Adviento — Viernes de la II Semana",
   "it": "VENERDI della II settimana di Avvento",
   "fr": "Temps de l'Avent — 2e semaine — Vendredi",

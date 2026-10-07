@@ -610,7 +610,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (: 37)",
+      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (R.: 37)",
       "role": "title"
      }
     ],
@@ -622,7 +622,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 88 (89), 2-3.4-5.27 e 29 (: 37)",
+      "cite": "Sl 88 (89), 2-3.4-5.27 e 29 (R.: 37)",
       "role": "title"
      }
     ],
@@ -634,7 +634,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (: 37)",
+      "cite": "Ps 88, 2-3. 4-5. 27 and 29 (R.: 37)",
       "role": "title"
      }
     ],
@@ -646,7 +646,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (: 37)",
+      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (R.: 37)",
       "role": "title"
      }
     ],
@@ -670,7 +670,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (: 37)",
+      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (R.: 37)",
       "role": "title"
      }
     ],
@@ -682,7 +682,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 2-3. 4-5. 27 u. 29 (R: Lk 1, 32b)",
+      "cite": "Ps 89 (88), 2-3. 4-5. 27 u. 29 (R.: Lk 1, 32b)",
       "role": "title"
      }
     ]
@@ -1535,7 +1535,7 @@
       "k": "p",
       "lines": [
        [
-        "Non per legem promíssio Abrahæ aut sémini eius, ut heres esset mundi, sed per iustítiam fídei. Ideo ex fide, ut secúndum grátiam, ut firma sit promíssio omni sémini, non ei, qui ex lege est solum, sed et ei, qui ex fide est Abrahæ — ​qui est pater ómnium nostrum, sicut scriptum est: «Patrem multárum géntium pósui te» —, ante Deum, cui crédidit, qui vivíficat mórtuos et vocat ea, quæ non sunt, quasi sint; qui contra spem in spe crédidit, ut fíeret pater multárum géntium, secúndum quod dictum est: «Sic erit semen tuum». Ideo et reputátum est illi ad iustítiam."
+        "Non per legem promíssio Abrahæ aut sémini eius, ut heres esset mundi, sed per iustítiam fídei. Ideo ex fide, ut secúndum grátiam, ut firma sit promíssio omni sémini, non ei, qui ex lege est solum, sed et ei, qui ex fide est Abrahæ — qui est pater ómnium nostrum, sicut scriptum est: «Patrem multárum géntium pósui te» —, ante Deum, cui crédidit, qui vivíficat mórtuos et vocat ea, quæ non sunt, quasi sint; qui contra spem in spe crédidit, ut fíeret pater multárum géntium, secúndum quod dictum est: «Sic erit semen tuum». Ideo et reputátum est illi ad iustítiam."
        ]
       ]
      },
@@ -1999,7 +1999,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Salmo 83, 5",
+      "cite": "Sl 83, 5",
       "role": "title"
      },
      {
@@ -3426,8 +3426,8 @@
  ],
  "title": {
   "la": "S. IOSEPH SPONSI BEATÆ MARIÆ VIRGINIS",
-  "pt-BR": "SÃO JOSÉ, ESPOSO DA VIRGEM MARIA",
-  "en-US": "ST JOSEPH THE HUSBAND OF MARY",
+  "pt-BR": "São José, Esposo da Bem-Aventurada Virgem Maria",
+  "en-US": "St Joseph the Husband of Mary",
   "es": "SAN JOSÉ, ESPOSO DE LA VIRGEN MARÍA",
   "it": "SAN GIUSEPPE",
   "fr": "SAINT JOSEPH, ÉPOUX DE LA BIENHEUREUSE VIERGE MARIE",

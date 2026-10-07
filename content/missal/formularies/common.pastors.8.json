@@ -652,7 +652,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -704,7 +704,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1231,7 +1231,7 @@
         "Communion antiphon"
        ]
       ],
-      "cite": "Cf. Mc 10, 45"
+      "cite": "Cf. Mk 10, 45"
      }
     ],
     "es": [
@@ -1296,7 +1296,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1397,7 +1397,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1425,7 +1425,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1439,7 +1439,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1453,7 +1453,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1481,7 +1481,7 @@
        [
         {
          "m": "rubric",
-         "t": "Opure: "
+         "t": "Opure:"
         }
        ]
       ],
@@ -1495,7 +1495,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1851,8 +1851,8 @@
  ],
  "title": {
   "la": "COMMUNE PASTORUM",
-  "pt-BR": "COMUM DOS PASTORES",
-  "en-US": "COMMON OF PASTORS",
+  "pt-BR": "Comum dos Pastores",
+  "en-US": "Common of Pastors",
   "es": "COMÚN DE PASTORES",
   "it": "COMUNE DEI PASTORI",
   "fr": "COMMUN DES PASTEURS",

@@ -85,26 +85,6 @@
       "k": "p",
       "lines": [
        [
-        "..."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading",
-   "alt": {
-    "group": 1,
-    "option": 1,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
         "Parole du Seigneur."
        ]
       ],
@@ -151,26 +131,6 @@
        ]
       ],
       "role": "announcement"
-     }
-    ]
-   },
-   "part": "firstReading",
-   "alt": {
-    "group": 1,
-    "option": 2,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "..."
-       ]
-      ]
      }
     ]
    },
@@ -406,21 +366,6 @@
       "k": "p",
       "lines": [
        [
-        "..."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
         "Parole du Seigneur."
        ]
       ],
@@ -607,21 +552,6 @@
    },
    "part": "gospel",
    "role": "people"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "..."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
   },
   {
    "text": {

@@ -645,7 +645,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a (: 7bc)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -657,7 +657,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 129 (130),1-2.3-4.5-6 (: 7bc))",
+      "cite": "Sl 129 (130),1-2.3-4.5-6 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a (: 7bc)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 129, 1-2. 3-4. 5-7a (: 7bc)",
+      "cite": "Sal 129, 1-2. 3-4. 5-7a (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -705,7 +705,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a (: 7bc)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -717,7 +717,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b (R: 7bc)",
+      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b (R.: 7bc)",
       "role": "title"
      }
     ]
@@ -2205,7 +2205,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (: 2a)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2217,7 +2217,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 97 (98), 1.2-3ab.3cd-4.5-6 (: 2a)",
+      "cite": "Sl 97 (98), 1.2-3ab.3cd-4.5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2229,7 +2229,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (: 2a)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2241,7 +2241,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 97, 1. 2-3ab. 3cd-4. 5-6 (: 2a)",
+      "cite": "Sal 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2265,7 +2265,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (: 2a)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2277,7 +2277,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 98 (97), 1. 2-3b. 3c-4. 5-6 (R: vgl. 2)",
+      "cite": "Ps 98 (97), 1. 2-3b. 3c-4. 5-6 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -3373,7 +3373,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Jn 14, 6",
+      "cite": "Jo 14, 6",
       "role": "title"
      },
      {
@@ -4166,7 +4166,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXVIII",
   "pt-BR": "Quinta-feira da 28ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 28th Week: Thursday",
+  "en-US": "Thursday of the Twenty-Eighth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 28ª semana",
   "it": "GIOVEDI della XXVIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 28e semaine",

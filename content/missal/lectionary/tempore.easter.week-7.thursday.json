@@ -616,7 +616,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 15 (16), 1-2a.5.7-8.9-10.11 (R/.: 1)",
+      "cite": "Sl 15 (16), 1-2a.5.7-8.9-10.11 (R.: 1)",
       "role": "title"
      }
     ],
@@ -639,7 +639,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 15, 1-2 y 5. 7-8. 9-10. 11 (R/.: 1)",
+      "cite": "Sal 15, 1-2 y 5. 7-8. 9-10. 11 (R.: 1)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 16 (15), 2 u. 5. 7-8. 9-11a (R: vgl. 1)",
+      "cite": "Ps 16 (15), 2 u. 5. 7-8. 9-11a (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -714,7 +714,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Guardai-me, ó Deus, porque em vós me refugio!."
+        "Guardai-me, ó Deus, porque em vós me refugio!"
        ],
        [
         {
@@ -970,7 +970,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Guardai-me, ó Deus, porque em vós me refugio!."
+        "Guardai-me, ó Deus, porque em vós me refugio!"
        ],
        [
         {
@@ -1226,7 +1226,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Guardai-me, ó Deus, porque em vós me refugio!."
+        "Guardai-me, ó Deus, porque em vós me refugio!"
        ],
        [
         {
@@ -1521,7 +1521,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Guardai-me, ó Deus, porque em vós me refugio!."
+        "Guardai-me, ó Deus, porque em vós me refugio!"
        ],
        [
         {
@@ -1819,7 +1819,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Guardai-me, ó Deus, porque em vós me refugio!."
+        "Guardai-me, ó Deus, porque em vós me refugio!"
        ],
        [
         {
@@ -1962,7 +1962,7 @@
         "junto a vós, felicidade sem limites,"
        ],
        [
-        "delícia eterna e alegria ao vosso lado!."
+        "delícia eterna e alegria ao vosso lado!"
        ]
       ]
      }
@@ -2077,7 +2077,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Guardai-me, ó Deus, porque em vós me refugio!."
+        "Guardai-me, ó Deus, porque em vós me refugio!"
        ],
        [
         {
@@ -2267,7 +2267,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -3027,8 +3027,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VII — Feria V",
-  "pt-BR": "Tempo da Páscoa — 7ª Semana — Quinta-feira",
-  "en-US": "Easter Season — Seventh Week — Thursday",
+  "pt-BR": "Quinta-feira da 7ª Semana da Páscoa",
+  "en-US": "Thursday of the Seventh Week of Easter",
   "es": "Tiempo de Pascua — Semana VII — Jueves",
   "it": "GIOVEDI della VII settimana di Pasqua",
   "fr": "Temps pascal — 7e semaine — Jeudi",

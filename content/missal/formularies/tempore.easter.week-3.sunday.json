@@ -272,7 +272,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -293,7 +293,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -377,7 +377,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -642,7 +642,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -660,7 +660,7 @@
         "Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -725,7 +725,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1081,7 +1081,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1090,7 +1090,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1099,7 +1099,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1147,7 +1147,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ad libitum pro anno B "
+         "t": "Ad libitum pro anno B"
         }
        ]
       ],
@@ -1161,7 +1161,7 @@
        [
         {
          "m": "rubric",
-         "t": "À escolha para o ano B "
+         "t": "À escolha para o ano B"
         }
        ]
       ],
@@ -1175,7 +1175,7 @@
        [
         {
          "m": "rubric",
-         "t": "Optional for Year B "
+         "t": "Optional for Year B"
         }
        ]
       ],
@@ -1202,7 +1202,7 @@
        [
         {
          "m": "rubric",
-         "t": "Année B "
+         "t": "Année B"
         }
        ]
       ],
@@ -1325,7 +1325,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ad libitum pro anno C "
+         "t": "Ad libitum pro anno C"
         }
        ]
       ],
@@ -1339,7 +1339,7 @@
        [
         {
          "m": "rubric",
-         "t": "À escolha para o ano C "
+         "t": "À escolha para o ano C"
         }
        ]
       ],
@@ -1353,7 +1353,7 @@
        [
         {
          "m": "rubric",
-         "t": "Optional for Year C "
+         "t": "Optional for Year C"
         }
        ]
       ],
@@ -1380,7 +1380,7 @@
        [
         {
          "m": "rubric",
-         "t": "Année C "
+         "t": "Année C"
         }
        ]
       ],
@@ -1701,7 +1701,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1714,7 +1714,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1727,7 +1727,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1786,8 +1786,8 @@
  ],
  "title": {
   "la": "DOMINICA III PASCHÆ",
-  "pt-BR": "TERCEIRO DOMINGO DA PÁSCOA",
-  "en-US": "Easter Season — THIRD SUNDAY OF EASTER",
+  "pt-BR": "3º Domingo da Páscoa",
+  "en-US": "Third Sunday of Easter",
   "es": "III DOMINGO DE PASCUA",
   "it": "III DOMENICA DI PASQUA",
   "fr": "3e DIMANCHE DE PÂQUES",

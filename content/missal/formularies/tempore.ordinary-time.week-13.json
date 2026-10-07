@@ -835,7 +835,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -849,7 +849,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -863,7 +863,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -877,7 +877,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -891,7 +891,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -905,7 +905,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -919,7 +919,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1263,8 +1263,8 @@
  ],
  "title": {
   "la": "DOMINICA XIII «PER ANNUM»",
-  "pt-BR": "13º DOMINGO DO TEMPO COMUM",
-  "en-US": "13th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "13º Domingo do Tempo Comum",
+  "en-US": "Thirteenth Sunday in Ordinary Time",
   "es": "XIII DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XIII DOMENICA",
   "fr": "Temps ordinaire — 13ème DIMANCHE",

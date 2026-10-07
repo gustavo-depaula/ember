@@ -699,7 +699,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 2, 7-8. 10-11 (: 8a)",
+      "cite": "Ps 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 2, 7-8.10-11 (: 8a)",
+      "cite": "Sl 2, 7-8.10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 2, 7-8. 10-11 (: 8a)",
+      "cite": "Ps 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 2, 7-8. 10-11 (: 8a)",
+      "cite": "Sal 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -759,7 +759,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 2, 7-8. 10-11 (: 8a)",
+      "cite": "Ps 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -771,7 +771,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 2, 7-8. 10-11 (R: 8a)",
+      "cite": "Ps 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ]
@@ -2253,10 +2253,11 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 7 ianuarii — vel — feria secunda post Epiphaniam",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 7 — (or Monday after Epiphany)",
+  "en-US": "Monday after Epiphany",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 7 de enero — o bien — lunes después del domingo de Epifanía",
   "it": "7 gennaio",
   "fr": "Temps de Noël",
-  "de": "Wochentage der Weihnachtszeit — 7. Januar"
+  "de": "Wochentage der Weihnachtszeit — 7. Januar",
+  "pt-BR": "Segunda-feira depois da Epifania"
  }
 }

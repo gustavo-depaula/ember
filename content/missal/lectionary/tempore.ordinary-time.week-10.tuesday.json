@@ -628,7 +628,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 129. 130. 131. 132. 133. 135 (: 135a)",
+      "cite": "Ps 118, 129. 130. 131. 132. 133. 135 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -640,7 +640,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 129 e 130.131 e 132.133 e 135 (: 135a)",
+      "cite": "Sl 118 (119), 129 e 130.131 e 132.133 e 135 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 129. 130. 131. 132. 133. 135 (: 135a)",
+      "cite": "Ps 118, 129. 130. 131. 132. 133. 135 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -664,7 +664,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 129. 130. 131. 132. 133. 135 (: 135a)",
+      "cite": "Sal 118, 129. 130. 131. 132. 133. 135 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -688,7 +688,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 129. 130. 131. 132. 133. 135 (: 135a)",
+      "cite": "Ps 118, 129. 130. 131. 132. 133. 135 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -700,7 +700,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 129-130. 131-132. 133 u. 135 (R: 135a)",
+      "cite": "Ps 119 (118), 129-130. 131-132. 133 u. 135 (R.: 135a)",
       "role": "title"
      }
     ]
@@ -2562,7 +2562,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 4, 2-3. 4-5. 7-8 (: 7)",
+      "cite": "Ps 4, 2-3. 4-5. 7-8 (R.: 7)",
       "role": "title"
      }
     ],
@@ -2574,7 +2574,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 4, 2-3.4-5.7-8 (: 7a)",
+      "cite": "Sl 4, 2-3.4-5.7-8 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -2586,7 +2586,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 4, 2-3. 4-5. 7-8 (: 7)",
+      "cite": "Ps 4, 2-3. 4-5. 7-8 (R.: 7)",
       "role": "title"
      }
     ],
@@ -2598,7 +2598,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 4, 2-3. 4-5. 7-8 (: 7)",
+      "cite": "Sal 4, 2-3. 4-5. 7-8 (R.: 7)",
       "role": "title"
      }
     ],
@@ -2622,7 +2622,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 4, 2-3. 4-5. 7-8 (: 7)",
+      "cite": "Ps 4, 2-3. 4-5. 7-8 (R.: 7)",
       "role": "title"
      }
     ],
@@ -2634,7 +2634,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 4, 2. 3-4. 7-8 (R: vgl. 7b)",
+      "cite": "Ps 4, 2. 3-4. 7-8 (R.: vgl. 7b)",
       "role": "title"
      }
     ]
@@ -4336,7 +4336,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. X",
   "pt-BR": "Terça-feira da 10ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 10th Week: Tuesday",
+  "en-US": "Tuesday of the Tenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 10ª semana",
   "it": "MARTEDI della X settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 10e semaine",

@@ -597,7 +597,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 99, 1-2. 3. 5 (R/.: 1)",
+      "cite": "Ps 99, 1-2. 3. 5 (R.: 1)",
       "role": "title"
      }
     ],
@@ -609,7 +609,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 99 (100), 2.3.5 (R. 2a)",
+      "cite": "Sl 99 (100), 2.3.5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -632,7 +632,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 99, 1-2. 3. 5 (R/.: 1)",
+      "cite": "Sal 99, 1-2. 3. 5 (R.: 1)",
       "role": "title"
      }
     ],
@@ -656,7 +656,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 99, 1-2. 3. 5 (R/.: 1)",
+      "cite": "Ps 99, 1-2. 3. 5 (R.: 1)",
       "role": "title"
      }
     ],
@@ -668,7 +668,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 100 (99), 2-3. 4-5 (R: vgl. 1)",
+      "cite": "Ps 100 (99), 2-3. 4-5 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -857,7 +857,7 @@
         "servi ao Senhor com alegria,"
        ],
        [
-        "ide a ele cantando jubilosos!."
+        "ide a ele cantando jubilosos!"
        ]
       ]
      }
@@ -1683,7 +1683,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Col 3,1",
+      "cite": "Cl 3,1",
       "role": "title"
      },
      {
@@ -2456,8 +2456,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada V — Sabbato",
-  "pt-BR": "Tempo da Páscoa — 5ª Semana — Sábado",
-  "en-US": "Easter Season — Fifth Week — Saturday",
+  "pt-BR": "Sábado da 5ª Semana da Páscoa",
+  "en-US": "Saturday of the Fifth Week of Easter",
   "es": "Tiempo de Pascua — Semana V — Sábado",
   "it": "Sabato della V settimana di Pasqua",
   "fr": "Temps pascal — 5e semaine — Samedi",

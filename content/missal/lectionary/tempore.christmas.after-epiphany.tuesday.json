@@ -582,7 +582,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 71, 1-2. 3-4ab. 7-8 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 3-4ab. 7-8 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -594,7 +594,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 71 (72), 2.3-4ab.7-8. (: cf. 11)",
+      "cite": "Sl 71 (72), 2.3-4ab.7-8. (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -606,7 +606,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 71, 1-2. 3-4ab. 7-8 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 3-4ab. 7-8 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -618,7 +618,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 71, 1-2. 3-4ab. 7-8 (: cf. 11)",
+      "cite": "Sal 71, 1-2. 3-4ab. 7-8 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -642,7 +642,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 71, 1-2. 3-4ab. 7-8 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 3-4ab. 7-8 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -654,7 +654,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 72 (71), 1-2. 3-4b. 7-8 (R: 11)",
+      "cite": "Ps 72 (71), 1-2. 3-4b. 7-8 (R.: 11)",
       "role": "title"
      }
     ]
@@ -2388,10 +2388,11 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 8 ianuarii — vel — feria tertia post Epiphaniam",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 8 — (or Tuesday after Epiphany)",
+  "en-US": "Tuesday after Epiphany",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 8 de enero — o bien — martes después del domingo de Epifanía",
   "it": "8 gennaio",
   "fr": "Temps de Noël",
-  "de": "Wochentage der Weihnachtszeit — 8. Januar"
+  "de": "Wochentage der Weihnachtszeit — 8. Januar",
+  "pt-BR": "Terça-feira depois da Epifania"
  }
 }

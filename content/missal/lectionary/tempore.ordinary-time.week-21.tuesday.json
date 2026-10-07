@@ -617,7 +617,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 138, 1-3. 4-6 (: 1)",
+      "cite": "Ps 138, 1-3. 4-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -629,7 +629,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 138 (139), 1-3.4-6 (: 1)",
+      "cite": "Sl 138 (139), 1-3.4-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -641,7 +641,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "138, 1-3. 4-6 (: 1)",
+      "cite": "138, 1-3. 4-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -653,7 +653,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 138, 1-3. 4-6 (: 1)",
+      "cite": "Sal 138, 1-3. 4-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -677,7 +677,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 138, 1-3. 4-6 (: 1)",
+      "cite": "Ps 138, 1-3. 4-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -689,7 +689,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 139 (138), 1-3. 4-5. 6-7 (R: 1a)",
+      "cite": "Ps 139 (138), 1-3. 4-5. 6-7 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -1499,7 +1499,7 @@
       "k": "p",
       "lines": [
        [
-        "No que se refere à vinda de nosso Senhor Jesus Cristo e à nossa união com ele, nós vos pedimos, irmãos: não deixeis tão facilmente transtornar a vossa cabeça, nem vos alarmeis por causa de alguma revelação, ou carta atribuída a nós, afirmando que o Dia do Senhor está próximo. Que ninguém vos engane de modo algum. Deus vos chamou para que, por meio do nosso evangelho, alcanceis a glória de nosso senhor Jesus Cristo. Assim, portanto, irmãos, ficai firmes e conservai firmemente as tradições que vos ensinamos, de viva voz ou por carta. Nosso Senhor Jesus Cristo e Deus nosso Pai,que nos amou em sua graça e nos proporcionou uma consolação eterna e feliz esperança, animem os vossos corações e vos confirmem em toda boa ação e palavra."
+        "No que se refere à vinda de nosso Senhor Jesus Cristo e à nossa união com ele, nós vos pedimos, irmãos: não deixeis tão facilmente transtornar a vossa cabeça, nem vos alarmeis por causa de alguma revelação, ou carta atribuída a nós, afirmando que o Dia do Senhor está próximo. Que ninguém vos engane de modo algum. Deus vos chamou para que, por meio do nosso evangelho, alcanceis a glória de nosso senhor Jesus Cristo. Assim, portanto, irmãos, ficai firmes e conservai firmemente as tradições que vos ensinamos, de viva voz ou por carta. Nosso Senhor Jesus Cristo e Deus nosso Pai, que nos amou em sua graça e nos proporcionou uma consolação eterna e feliz esperança, animem os vossos corações e vos confirmem em toda boa ação e palavra."
        ]
       ]
      },
@@ -1860,7 +1860,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 10. 11-12a. 12b-13 (: 13b)",
+      "cite": "Ps 95, 10. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -1872,7 +1872,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), l0.11-12.13 (: 13b)",
+      "cite": "Sl 95 (96), l0.11-12.13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -1884,7 +1884,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "95, 10. 11-12a. 12b-13 (: 13b)",
+      "cite": "95, 10. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -1896,7 +1896,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 10. 11-12a. 12b-13 (: 13b)",
+      "cite": "Sal 95, 10. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -1920,7 +1920,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 10. 11-12a. 12b-13 (: 13b)",
+      "cite": "Ps 95, 10. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -1932,7 +1932,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 10-11. 12-13b (R: 13ab)",
+      "cite": "Ps 96 (95), 10-11. 12-13b (R.: 13ab)",
       "role": "title"
      }
     ]
@@ -2768,7 +2768,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Hebr 4, 12",
+      "cite": "Hb 4, 12",
       "role": "title"
      },
      {
@@ -3533,7 +3533,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXI",
   "pt-BR": "Terça-feira da 21ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 21st Week: Tuesday",
+  "en-US": "Tuesday of the Twenty-First Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 21ª semana",
   "it": "MARTEDI della XXI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 21e semaine",

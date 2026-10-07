@@ -355,7 +355,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -369,7 +369,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -383,7 +383,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -397,7 +397,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -411,7 +411,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -425,7 +425,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -439,7 +439,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -560,7 +560,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -581,7 +581,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -665,7 +665,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1493,7 +1493,7 @@
  ],
  "title": {
   "la": "S. IOANNIS, APOSTOLI ET EVANGELISTÆ",
-  "pt-BR": "SÃO JOÃO, APÓSTOLO E EVANGELISTA",
+  "pt-BR": "São João, Apóstolo e Evangelista",
   "en-US": "Saint JOHN, APOSTLE AND EVANGELIST",
   "es": "SAN JUAN, APÓSTOL Y EVANGELISTA",
   "it": "SAN GIOVANNI APOSTOLO ED EVANGELISTA",

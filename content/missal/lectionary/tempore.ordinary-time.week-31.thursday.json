@@ -649,7 +649,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 26, 1. 4. 13-14 (: 13)",
+      "cite": "Ps 26, 1. 4. 13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -661,7 +661,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 26 (27), 1.4.13-14 (: 13)",
+      "cite": "Sl 26 (27), 1.4.13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -673,7 +673,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 26, 1. 4. 13-14 (: 13)",
+      "cite": "Ps 26, 1. 4. 13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -685,7 +685,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 26, 1. 4. 13-14 (: 13)",
+      "cite": "Sal 26, 1. 4. 13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -709,7 +709,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 26, 1. 4. 13-14 (: 13)",
+      "cite": "Ps 26, 1. 4. 13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -721,7 +721,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 27 (26), 1. 4. 13-14 (R: 13)",
+      "cite": "Ps 27 (26), 1. 4. 13-14 (R.: 13)",
       "role": "title"
      }
     ]
@@ -2080,7 +2080,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 104, 2-3. 4-5. 6-7 (: 3b)",
+      "cite": "Ps 104, 2-3. 4-5. 6-7 (R.: 3b)",
       "role": "title"
      }
     ],
@@ -2092,7 +2092,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 104 (105), 2-3.4-5.6-7 (: 3b)",
+      "cite": "Sl 104 (105), 2-3.4-5.6-7 (R.: 3b)",
       "role": "title"
      }
     ],
@@ -2104,7 +2104,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 104, 2-3. 4-5. 6-7 (: 3b)",
+      "cite": "Ps 104, 2-3. 4-5. 6-7 (R.: 3b)",
       "role": "title"
      }
     ],
@@ -2116,7 +2116,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 104, 2-3. 4-5. 6-7 (: 3b)",
+      "cite": "Sal 104, 2-3. 4-5. 6-7 (R.: 3b)",
       "role": "title"
      }
     ],
@@ -2140,7 +2140,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 104, 2-3. 4-5. 6-7 (: 3b)",
+      "cite": "Ps 104, 2-3. 4-5. 6-7 (R.: 3b)",
       "role": "title"
      }
     ],
@@ -2152,7 +2152,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 105 (104), 2-3. 4-5. 6-7 (R: 3b)",
+      "cite": "Ps 105 (104), 2-3. 4-5. 6-7 (R.: 3b)",
       "role": "title"
      }
     ]
@@ -3585,7 +3585,7 @@
       "k": "p",
       "lines": [
        [
-        "So he spoke this parable to them: 'What man among you with a hundred sheep, losing one, would not leave the ninety-nine in the wilderness and go after the missing one till he found it? And when he found it, would he not joyfully take it on his shoulders and then, when he got home, call together his friends and neighbours? \"Rejoice with me,\" he would say \"I have found my sheep that was lost.\""
+        "So he spoke this parable to them: 'What man among you with a hundred sheep, losing one, would not leave the ninety-nine in the wilderness and go after the missing one till he found it? And when he found it, would he not joyfully take it on his shoulders and then, when he got home, call together his friends and neighbours? \"Rejoice with me, \" he would say \"I have found my sheep that was lost.\""
        ]
       ]
      },
@@ -3601,7 +3601,7 @@
       "k": "p",
       "lines": [
        [
-        "'Or again, what woman with ten drachmas would not, if she lost one, light a lamp and sweep out the house and search thoroughly till she found it? And then, when she had found it, call together her friends and neighbours? \"Rejoice with me,\" she would say \"I have found the drachma I lost.\""
+        "'Or again, what woman with ten drachmas would not, if she lost one, light a lamp and sweep out the house and search thoroughly till she found it? And then, when she had found it, call together her friends and neighbours? \"Rejoice with me, \" she would say \"I have found the drachma I lost.\""
        ]
       ]
      },
@@ -3857,7 +3857,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXXI",
   "pt-BR": "Quinta-feira da 31ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 31st Week: Thursday",
+  "en-US": "Thursday of the Thirty-First Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 31ª semana",
   "it": "GIOVEDI della XXXI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 31e semaine",

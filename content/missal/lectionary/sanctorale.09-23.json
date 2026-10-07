@@ -154,57 +154,26 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css2l5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.8"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 127(128), 1-2. 3. 4-5 (R.: 1a)",
       "role": "title"
      }
@@ -212,15 +181,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. la)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. la)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 127, 1-2. 3. 4-5 (R.: 1a)",
       "role": "title"
      }
@@ -228,7 +205,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 127 (128)",
       "role": "title"
      }
@@ -236,16 +217,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R: vgl. 1a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -1047,46 +1036,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.6"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1116,6 +1075,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Quem perder a sua vida por causa de mim vai encontrá-la."
        ]
       ],
@@ -1141,6 +1109,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1153,6 +1130,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1182,6 +1168,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Chi perderà la propria vita per causa mia, la troverà."
        ]
       ],
@@ -1207,6 +1202,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1219,6 +1223,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1645,7 +1658,7 @@
  "title": {
   "la": "S. Pii de Pietrelcina, presbyteri",
   "pt-BR": "São Pio de Pietrelcina, presbítero",
-  "en-US": "St. Pius of Pietrelcina (Padre Pio), priest",
+  "en-US": "Saint Pius of Pietrelcina (Padre Pio), priest",
   "es": "San Pío de Pietrelcina, presbítero",
   "it": "San Pio da Pietrelcina, sacerdote",
   "fr": "Saint Pio de Pietrelcina, prêtre",

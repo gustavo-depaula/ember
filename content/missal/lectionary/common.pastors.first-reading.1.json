@@ -3,30 +3,21 @@
  "items": [
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
       "lines": [
        [
-        "Cogitabat disperdere eos, nisi Moyses electus eius,intercessisset apud eum, ut averteret iram eius (Ps 105, 23)."
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cogitabat disperdere eos, nisi Moyses electus eius, intercessisset apud eum, ut averteret iram eius (Ps 105, 23)."
        ]
       ],
       "role": "summary"
@@ -104,7 +95,16 @@
       "k": "p",
       "lines": [
        [
-        "Até pensava em acabar com sua raça, não se tivesse Moisés,o seu eleito, interposto, intercdendo junto a ele, para impedir que sua ira os destruísse."
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Até pensava em acabar com sua raça, não se tivesse Moisés, o seu eleito, interposto, intercdendo junto a ele, para impedir que sua ira os destruísse."
        ]
       ],
       "role": "summary"
@@ -142,6 +142,15 @@
       "k": "p",
       "lines": [
        [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A reading from the Book of Exodus"
        ]
       ],
@@ -152,7 +161,7 @@
       "k": "p",
       "lines": [
        [
-        "The Lord spoke to Moses, 'Go down now, because your people whom you brought out of Egypt have apostasised. They have been quick to leave the way I marked out for them; they have made themselves a calf of molten metal and have worshipped it and offered it sacrifice. \"Here is your God, Israel,\" they have cried \"who brought you up from the land of Egypt!\"' The Lord said to Moses, 'I can see how headstrong these people are! Leave me, now, my wrath shall blaze out against them and devour them; of you, however, I will make a great nation.' But Moses pleaded with the Lord his God. 'Lord,' he said 'why should your wrath blaze out against this people of yours whom you brought out of the land of Egypt with arm outstretched and mighty hand? Why let the Egyptians say, \"Ah, it was in treachery that he brought them out, to do them to death in the mountains and wipe them off the face of the earth\"? Leave your burning wrath; relent and do not bring this disaster on your people. Remember Abraham, Isaac and Jacob, your servants to whom by your own self you swore and made this promise: I will make your offspring as many as the stars of heaven, and all this land which I promised I will give to your descendants, and it shall be their heritage for ever.' So the Lord relented and did not bring on his people the disaster he had threatened."
+        "The Lord spoke to Moses, 'Go down now, because your people whom you brought out of Egypt have apostasised. They have been quick to leave the way I marked out for them; they have made themselves a calf of molten metal and have worshipped it and offered it sacrifice. \"Here is your God, Israel, \" they have cried \"who brought you up from the land of Egypt!\"' The Lord said to Moses, 'I can see how headstrong these people are! Leave me, now, my wrath shall blaze out against them and devour them; of you, however, I will make a great nation.' But Moses pleaded with the Lord his God. 'Lord,' he said 'why should your wrath blaze out against this people of yours whom you brought out of the land of Egypt with arm outstretched and mighty hand? Why let the Egyptians say, \"Ah, it was in treachery that he brought them out, to do them to death in the mountains and wipe them off the face of the earth\"? Leave your burning wrath; relent and do not bring this disaster on your people. Remember Abraham, Isaac and Jacob, your servants to whom by your own self you swore and made this promise: I will make your offspring as many as the stars of heaven, and all this land which I promised I will give to your descendants, and it shall be their heritage for ever.' So the Lord relented and did not bring on his people the disaster he had threatened."
        ]
       ]
      },
@@ -167,6 +176,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -227,6 +245,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Ed egli li avrebbe sterminati, se Mosè, il suo eletto, non si fosse posto sulla breccia davanti a lui per impedire alla sua collera di distruggerli."
        ]
       ],
@@ -270,6 +297,15 @@
      }
     ],
     "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -368,6 +404,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

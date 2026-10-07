@@ -599,7 +599,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 9-10. 11-12 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 9-10. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -611,7 +611,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 1-2.3-4.9-10.11-12 (: 8a)",
+      "cite": "Sl 102 (103), 1-2.3-4.9-10.11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -623,7 +623,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 9-10. 11-12 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 9-10. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -635,7 +635,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 102, 1-2. 3-4. 9-10. 11-12 (: 8a)",
+      "cite": "Sal 102, 1-2. 3-4. 9-10. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -659,7 +659,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 9-10. 11-12 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 9-10. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -671,7 +671,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 1-2. 3-4. 9-10. 11-12 (R: vgl. 8)",
+      "cite": "Ps 103 (102), 1-2. 3-4. 9-10. 11-12 (R.: vgl. 8)",
       "role": "title"
      }
     ]
@@ -2717,8 +2717,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada II — Sabbato",
-  "pt-BR": "Tempo da Quaresma — Sábado da 2ª Semana da Quaresma",
-  "en-US": "Season of Lent — 2nd Week: Saturday",
+  "pt-BR": "Sábado da 2ª Semana da Quaresma",
+  "en-US": "Saturday of the Second Week of Lent",
   "es": "Tiempo de Cuaresma — Sábado de la II Semana",
   "it": "Sabato DELLA II SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 2e semaine — Samedi",

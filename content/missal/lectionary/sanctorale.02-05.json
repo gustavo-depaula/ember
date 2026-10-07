@@ -154,73 +154,50 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css2l2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.1"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 30(31), 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 30(31), 3cd-4. 6 e 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 and 8ab. 16bc and 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 30, 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
@@ -228,7 +205,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 30 (31)",
       "role": "title"
      }
@@ -236,16 +217,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R: vgl. 6a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R.: vgl. 6a)",
       "role": "title"
      }
     ]
@@ -1821,7 +1810,7 @@
  "title": {
   "la": "S. Agathæ, virginis et martyris",
   "pt-BR": "Santa Águeda, virgem e mártir",
-  "en-US": "St. Agatha, virgin and martyr",
+  "en-US": "Saint Agatha, virgin and martyr",
   "es": "Santa Águeda, virgen y mártir",
   "it": "Sant'Agata, vergine e martire",
   "fr": "Sainte Agathe, vierge et martyre",

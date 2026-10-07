@@ -702,7 +702,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 2-3. 4-5. 10-11 (: cf. 1b)",
+      "cite": "Ps 144, 2-3. 4-5. 10-11 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -714,7 +714,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 2-3.4-5.10-11 (: cf. 1b)",
+      "cite": "Sl 144 (145), 2-3.4-5.10-11 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -726,7 +726,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 144, 2-3. 4-5. 10-11 (: cf. 1b)",
+      "cite": "Ps 144, 2-3. 4-5. 10-11 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -738,7 +738,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 2-3. 4-5. 10-11 (: cf. 1b)",
+      "cite": "Sal 144, 2-3. 4-5. 10-11 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -762,7 +762,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 2-3. 4-5. 10-11 (: cf. 1b)",
+      "cite": "Ps 144, 2-3. 4-5. 10-11 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -774,7 +774,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 2-3. 4-5. 10-11 (R: vgl. 2b)",
+      "cite": "Ps 145 (144), 2-3. 4-5. 10-11 (R.: vgl. 2b)",
       "role": "title"
      }
     ]
@@ -2135,7 +2135,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 11, 2-3. 4-5. 7-8 (: 8a)",
+      "cite": "Ps 11, 2-3. 4-5. 7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2147,7 +2147,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 11 (12), 2-3.4-5.7-8 (: 8a)",
+      "cite": "Sl 11 (12), 2-3.4-5.7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2159,7 +2159,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 11, 2-3. 4-5. 7-8 (: 8a)",
+      "cite": "Ps 11, 2-3. 4-5. 7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2171,7 +2171,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 11, 2-3. 4-5. 7-8 (: 8a)",
+      "cite": "Sal 11, 2-3. 4-5. 7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2195,7 +2195,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 11, 2-3. 4-5. 7-8 (: 8a)",
+      "cite": "Ps 11, 2-3. 4-5. 7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2207,7 +2207,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 12 (11), 2-3. 4-5. 7-8 (R: 8a)",
+      "cite": "Ps 12 (11), 2-3. 4-5. 7-8 (R.: 8a)",
       "role": "title"
      }
     ]
@@ -2594,7 +2594,7 @@
         "e a língua dos que falam com soberba, dos que dizem: \"Nossa língua é nossa força!"
        ],
        [
-        "Nossos lábios são por nós! - Quem nos domina?."
+        "Nossos lábios são por nós! - Quem nos domina?"
        ]
       ]
      }
@@ -2842,7 +2842,7 @@
         "sete vezes depurada pelo fogo. Vós, porém, ó Senhor Deus, nos guardareis"
        ],
        [
-        "para sempre, nos livrando desta raça!."
+        "para sempre, nos livrando desta raça!"
        ]
       ]
      }
@@ -3941,7 +3941,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. VI",
   "pt-BR": "Sábado da 6ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 6th Week: Saturday",
+  "en-US": "Saturday of the Sixth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 6ª semana",
   "it": "Sabato della VI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 6e semaine",

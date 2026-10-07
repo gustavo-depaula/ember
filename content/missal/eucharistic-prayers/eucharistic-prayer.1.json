@@ -367,19 +367,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CP-"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -431,7 +418,7 @@
        [
         {
          "m": "rubric",
-         "t": "Junta las manos y dice: "
+         "t": "Junta las manos y dice:"
         }
        ]
       ]
@@ -444,7 +431,7 @@
        [
         {
          "m": "rubric",
-         "t": "congiunge le mani e dice: "
+         "t": "congiunge le mani e dice:"
         }
        ]
       ]
@@ -635,6 +622,19 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "e traça o sinal da cruz ao mesmo tempo sobre o pão e o cálice, dizendo:"
+        }
+       ]
+      ]
+     }
     ]
    },
    "role": "rubric"
@@ -721,7 +721,7 @@
         "e benedire ",
         {
          "m": "cross",
-         "t": " ✠ "
+         "t": "✠ "
         },
         "questi doni,"
        ],
@@ -929,7 +929,7 @@
         "o nosso Bispo ",
         {
          "m": "rubric",
-         "t": "N.*"
+         "t": "N."
         },
         ","
        ],
@@ -1167,7 +1167,7 @@
         "mit unserem Bischof ",
         {
          "m": "rubric",
-         "t": "N.*"
+         "t": "N."
         }
        ],
        [
@@ -1468,19 +1468,6 @@
        ],
        [
         "und aller, die hier versammelt sind."
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-C1-"
-        }
        ]
       ]
      }
@@ -1881,16 +1868,7 @@
        [
         {
          "m": "rubric",
-         "t": "Infra Actionem"
-        },
-        {
-         "m": "when:ascension",
-         "t": "(Communicantes propria:"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": ")"
+         "t": "Infra actionem"
         }
        ]
       ]
@@ -1903,17 +1881,7 @@
        [
         {
          "m": "rubric",
-         "t": "Infra Actionem"
-        },
-        " ",
-        {
-         "m": "when:ascension",
-         "t": "(Comunicantes próprios:"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": ")"
+         "t": "Infra actionem"
         }
        ]
       ]
@@ -1927,14 +1895,6 @@
         {
          "m": "rubric",
          "t": "Within the Action"
-        },
-        {
-         "m": "when:ascension",
-         "t": "(Special Forms"
-        },
-        {
-         "m": "rubric",
-         "t": ")"
         }
        ]
       ]
@@ -1950,11 +1910,7 @@
          "t": "Conmemoración de los santos"
         },
         "(Reunidos en comunión propios:",
-        " ",
-        {
-         "m": "rubric",
-         "t": ")"
-        }
+        " "
        ]
       ]
      }
@@ -1981,15 +1937,7 @@
          "m": "rubric",
          "t": "Durant l'action"
         },
-        {
-         "m": "when:ascension",
-         "t": "(Textes propres :"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": ")"
-        }
+        " "
        ]
       ]
      }
@@ -2003,24 +1951,7 @@
          "m": "rubric",
          "t": "Gedächtnis der Heiligen"
         },
-        "(",
-        {
-         "m": "rubric",
-         "t": ")"
-        }
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-C2-"
-        }
+        "("
        ]
       ]
      }
@@ -2232,17 +2163,14 @@
       ]
      }
     ]
-   }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   }
+   },
+   "unless": [
+    "christmas-octave",
+    "epiphany",
+    "easter-octave",
+    "ascension",
+    "pentecost"
+   ]
   },
   {
    "text": {
@@ -2251,10 +2179,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -2293,7 +2217,7 @@
        [
         {
          "m": "rubric",
-         "t": "In  Domini et per octavam"
+         "t": "In Nativitate Domini et per octavam"
         }
        ]
       ]
@@ -2306,7 +2230,7 @@
        [
         {
          "m": "rubric",
-         "t": "No  do Senhor e durante a Oitava"
+         "t": "No Natal do Senhor e durante a oitava"
         }
        ]
       ]
@@ -2319,7 +2243,7 @@
        [
         {
          "m": "rubric",
-         "t": "On the  of the Lord and throughout the Octave"
+         "t": "On the Nativity of the Lord and throughout the Octave"
         }
        ]
       ]
@@ -2332,7 +2256,7 @@
        [
         {
          "m": "rubric",
-         "t": "En la  del Señor y durante su octava:"
+         "t": "En la del Señor y durante su octava:"
         }
        ]
       ]
@@ -2345,7 +2269,7 @@
        [
         {
          "m": "rubric",
-         "t": "e ottava "
+         "t": "e ottava"
         }
        ]
       ]
@@ -2358,7 +2282,7 @@
        [
         {
          "m": "rubric",
-         "t": "De la  du Seigneur jusqu'au 1er janvier inclus :"
+         "t": "De la du Seigneur jusqu'au 1er janvier inclus :"
         }
        ]
       ]
@@ -2371,14 +2295,17 @@
        [
         {
          "m": "rubric",
-         "t": "Von  bis Neujahr:"
+         "t": "Von bis Neujahr:"
         }
        ]
       ]
      }
     ]
    },
-   "role": "rubric"
+   "role": "rubric",
+   "when": [
+    "christmas-octave"
+   ]
   },
   {
    "text": {
@@ -2387,10 +2314,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "C"
@@ -2443,10 +2366,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "E"
         },
@@ -2489,10 +2408,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "C"
         },
@@ -2531,10 +2446,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "R"
         },
@@ -2566,16 +2477,12 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
-        " In comunione con tutta la Chiesa, mentre celebriamo il giorno santissimo ",
+        "In comunione con tutta la Chiesa, mentre celebriamo il giorno santissimo ",
         {
          "m": "rubric",
          "t": "* [ "
         },
-        " la"
+        "la"
        ],
        [
         "notte santissima, nella quale",
@@ -2588,7 +2495,7 @@
          "m": "rubric",
          "t": "* "
         },
-        " diede al mondo il"
+        "diede al mondo il"
        ],
        [
         "Salvatore, ",
@@ -2596,12 +2503,12 @@
          "m": "rubric",
          "t": "* "
         },
-        " ricordiamo e veneriamo anzitutto lei ",
+        "ricordiamo e veneriamo anzitutto lei ",
         {
          "m": "rubric",
          "t": "* "
         },
-        " la gloriosa e sempre vergine"
+        "la gloriosa e sempre vergine"
        ],
        [
         "Maria, ",
@@ -2609,7 +2516,7 @@
          "m": "rubric",
          "t": "* "
         },
-        " Madre del nostro Dio e Signore Gesù Cristo, ",
+        "Madre del nostro Dio e Signore Gesù Cristo, ",
         {
          "m": "rubric",
          "t": "†"
@@ -2623,10 +2530,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "U"
@@ -2669,10 +2572,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -2719,7 +2618,10 @@
       ]
      }
     ]
-   }
+   },
+   "when": [
+    "christmas-octave"
+   ]
   },
   {
    "text": {
@@ -2730,7 +2632,7 @@
        [
         {
          "m": "rubric",
-         "t": "In Domini:"
+         "t": "In Epiphania Domini"
         }
        ]
       ]
@@ -2743,7 +2645,7 @@
        [
         {
          "m": "rubric",
-         "t": "Na do Senhor"
+         "t": "Na Epifania do Senhor"
         }
        ]
       ]
@@ -2756,7 +2658,7 @@
        [
         {
          "m": "rubric",
-         "t": "On the  of the Lord:"
+         "t": "On the Epiphany of the Lord"
         }
        ]
       ]
@@ -2769,7 +2671,7 @@
        [
         {
          "m": "rubric",
-         "t": "En la  del Señor:"
+         "t": "En la del Señor:"
         }
        ]
       ]
@@ -2782,14 +2684,17 @@
        [
         {
          "m": "rubric",
-         "t": "An  des Herrn:"
+         "t": "An des Herrn:"
         }
        ]
       ]
      }
     ]
    },
-   "role": "rubric"
+   "role": "rubric",
+   "when": [
+    "epiphany"
+   ]
   },
   {
    "text": {
@@ -2798,10 +2703,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "C"
@@ -2834,10 +2735,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "E"
@@ -2874,10 +2771,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "C"
         },
@@ -2909,10 +2802,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "R"
@@ -2948,10 +2837,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -2995,10 +2880,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "U"
         },
@@ -3037,10 +2918,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "I"
         },
@@ -3076,7 +2953,10 @@
       ]
      }
     ]
-   }
+   },
+   "when": [
+    "epiphany"
+   ]
   },
   {
    "text": {
@@ -3087,7 +2967,7 @@
        [
         {
          "m": "rubric",
-         "t": "A Missa paschalis usque ad dominicam II Paschæ"
+         "t": "A Missa Vigiliæ paschalis usque ad dominicam II Paschæ"
         }
        ]
       ]
@@ -3100,7 +2980,7 @@
        [
         {
          "m": "rubric",
-         "t": "Da  Pascal até o 2º Domingo da Páscoa"
+         "t": "Da Vigília Pascal até o 2º Domingo da Páscoa"
         }
        ]
       ]
@@ -3113,7 +2993,7 @@
        [
         {
          "m": "rubric",
-         "t": "From the Mass of the Easter  until the Second Sunday of Easter"
+         "t": "From the Mass of the Easter Vigil until the Second Sunday of Easter"
         }
        ]
       ]
@@ -3126,7 +3006,7 @@
        [
         {
          "m": "rubric",
-         "t": "Desde la misa de la pascual al segundo domingo de Pascua"
+         "t": "Desde la misa de la Vigilia pascual al segundo domingo de Pascua"
         }
        ]
       ]
@@ -3152,7 +3032,7 @@
        [
         {
          "m": "rubric",
-         "t": "De la  pascale jusqu'au 2e dimanche de Pâques inclus :"
+         "t": "De la pascale jusqu'au 2e dimanche de Pâques inclus :"
         }
        ]
       ]
@@ -3165,14 +3045,17 @@
        [
         {
          "m": "rubric",
-         "t": "Von der  bis zum Weißen Sonntag:"
+         "t": "Von der bis zum Weißen Sonntag:"
         }
        ]
       ]
      }
     ]
    },
-   "role": "rubric"
+   "role": "rubric",
+   "when": [
+    "easter-octave"
+   ]
   },
   {
    "text": {
@@ -3181,10 +3064,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "C"
@@ -3225,10 +3104,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "E"
         },
@@ -3268,10 +3143,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "C"
         },
@@ -3306,10 +3177,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "R"
@@ -3347,10 +3214,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "I"
         },
@@ -3370,7 +3233,7 @@
         "santissima",
         {
          "m": "rubric",
-         "t": "] "
+         "t": "]"
         }
        ],
        [
@@ -3403,10 +3266,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "U"
@@ -3450,10 +3309,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "I"
         },
@@ -3490,7 +3345,10 @@
       ]
      }
     ]
-   }
+   },
+   "when": [
+    "easter-octave"
+   ]
   },
   {
    "text": {
@@ -3501,7 +3359,7 @@
        [
         {
          "m": "rubric",
-         "t": "In Domini"
+         "t": "In Ascensione Domini"
         }
        ]
       ]
@@ -3514,7 +3372,7 @@
        [
         {
          "m": "rubric",
-         "t": "Na  do Senhor"
+         "t": "Na Ascensão do Senhor"
         }
        ]
       ]
@@ -3527,7 +3385,7 @@
        [
         {
          "m": "rubric",
-         "t": "On the  of the Lord"
+         "t": "On the Ascension of the Lord"
         }
        ]
       ]
@@ -3540,7 +3398,7 @@
        [
         {
          "m": "rubric",
-         "t": "En la  del Señor:"
+         "t": "En la del Señor:"
         }
        ]
       ]
@@ -3573,7 +3431,10 @@
      }
     ]
    },
-   "role": "rubric"
+   "role": "rubric",
+   "when": [
+    "ascension"
+   ]
   },
   {
    "text": {
@@ -3582,10 +3443,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "C"
@@ -3622,10 +3479,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "E"
         },
@@ -3660,10 +3513,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "C"
@@ -3700,10 +3549,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "R"
         },
@@ -3717,10 +3562,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -3764,10 +3605,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "U"
         },
@@ -3802,10 +3639,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -3845,7 +3678,10 @@
       ]
      }
     ]
-   }
+   },
+   "when": [
+    "ascension"
+   ]
   },
   {
    "text": {
@@ -3856,7 +3692,7 @@
        [
         {
          "m": "rubric",
-         "t": "In dominica"
+         "t": "In dominica Pentecostes"
         }
        ]
       ]
@@ -3869,7 +3705,7 @@
        [
         {
          "m": "rubric",
-         "t": "Em"
+         "t": "Em Pentecostes"
         }
        ]
       ]
@@ -3882,7 +3718,7 @@
        [
         {
          "m": "rubric",
-         "t": "On Sunday"
+         "t": "On Pentecost Sunday"
         }
        ]
       ]
@@ -3915,7 +3751,10 @@
      }
     ]
    },
-   "role": "rubric"
+   "role": "rubric",
+   "when": [
+    "pentecost"
+   ]
   },
   {
    "text": {
@@ -3924,10 +3763,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "C"
@@ -3961,10 +3796,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "E"
         },
@@ -3997,10 +3828,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "C"
         },
@@ -4030,10 +3857,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "R"
         },
@@ -4062,10 +3885,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -4109,10 +3928,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "U"
         },
@@ -4145,10 +3960,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "I"
         },
@@ -4178,19 +3989,18 @@
       ]
      }
     ]
-   }
+   },
+   "when": [
+    "pentecost"
+   ]
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -4225,15 +4035,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -4268,15 +4074,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -4308,15 +4110,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -4354,15 +4152,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -4394,15 +4188,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -4434,15 +4224,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -4480,15 +4266,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "I"
@@ -4517,16 +4299,6 @@
         "unseres Herrn und Gottes Jesus Christus."
        ]
       ]
-     }
-    ]
-   }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
      }
     ]
    }
@@ -5017,16 +4789,6 @@
          "m": "rubric",
          "t": "Manibus extensis, prosequitur:"
         }
-       ],
-       [
-        {
-         "m": "when:easter-octave",
-         "t": "(A Missa Vigiliæ paschalis usque ad dominicam II Paschæ"
-        },
-        {
-         "m": "rubric",
-         "t": ")"
-        }
        ]
       ]
      }
@@ -5040,16 +4802,6 @@
          "m": "rubric",
          "t": "O sacerdote, com os braços abertos, continua:"
         }
-       ],
-       [
-        {
-         "m": "when:easter-octave",
-         "t": "(Da Vigília Pascal até o 2° Domingo da Páscoa"
-        },
-        {
-         "m": "rubric",
-         "t": ")"
-        }
        ]
       ]
      }
@@ -5062,16 +4814,6 @@
         {
          "m": "rubric",
          "t": "With hands extended, the Priest continues:"
-        }
-       ],
-       [
-        {
-         "m": "when:easter-octave",
-         "t": "("
-        },
-        {
-         "m": "rubric",
-         "t": ")"
         }
        ]
       ]
@@ -5088,11 +4830,7 @@
         }
        ],
        [
-        "(Acepta, Señor, propios:",
-        {
-         "m": "rubric",
-         "t": ")"
-        }
+        "(Acepta, Señor, propios:"
        ]
       ]
      }
@@ -5108,11 +4846,7 @@
         }
        ],
        [
-        "(",
-        {
-         "m": "rubric",
-         "t": ")"
-        }
+        "("
        ]
       ]
      }
@@ -5125,16 +4859,6 @@
         {
          "m": "rubric",
          "t": "Tenant les mains étendues sur les offrandes, il dit :"
-        }
-       ],
-       [
-        {
-         "m": "when:easter-octave",
-         "t": "(De la Veillée pascale jusqu'au 2e dimanche de Pâques inclus :"
-        },
-        {
-         "m": "rubric",
-         "t": ")"
         }
        ]
       ]
@@ -5151,24 +4875,7 @@
         }
        ],
        [
-        "(",
-        {
-         "m": "rubric",
-         "t": ")"
-        }
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CP-"
-        }
+        "("
        ]
       ]
      }
@@ -5381,7 +5088,10 @@
       ]
      }
     ]
-   }
+   },
+   "unless": [
+    "easter-octave"
+   ]
   },
   {
    "text": {
@@ -5405,7 +5115,7 @@
        [
         {
          "m": "rubric",
-         "t": "DALLA VEGLIA PASQUALE ALLA II DOMENICA DI PASQUA: "
+         "t": "DALLA VEGLIA PASQUALE ALLA II DOMENICA DI PASQUA:"
         }
        ]
       ]
@@ -5418,7 +5128,7 @@
        [
         {
          "m": "rubric",
-         "t": "Von der Osternacht bis zum Weißen Sonntag: "
+         "t": "Von der Osternacht bis zum Weißen Sonntag:"
         }
        ]
       ]
@@ -5434,10 +5144,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         {
          "m": "dropCap",
          "t": "H"
@@ -5473,10 +5179,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         {
          "m": "dropCap",
          "t": "A"
@@ -5515,10 +5217,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         {
          "m": "dropCap",
          "t": "T"
@@ -5561,10 +5259,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "** "
-        },
-        {
          "m": "dropCap",
          "t": "A"
         },
@@ -5596,10 +5290,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Accètta con benevolenza, o Signore,"
        ],
        [
@@ -5622,7 +5312,7 @@
          "m": "rubric",
          "t": "N.] "
         },
-        " che ti sei"
+        "che ti sei"
        ],
        [
         "degnato di far rinascere"
@@ -5656,10 +5346,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         {
          "m": "dropCap",
          "t": "H"
@@ -5701,10 +5387,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Nimm gnädig an, o Gott, diese Gaben deiner Diener"
        ],
        [
@@ -5737,7 +5419,10 @@
       ]
      }
     ]
-   }
+   },
+   "when": [
+    "easter-octave"
+   ]
   },
   {
    "text": {
@@ -5791,10 +5476,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "** "
-        },
-        {
          "m": "dropCap",
          "t": "A"
         },
@@ -5840,10 +5521,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Accètta con benevolenza, o Signore,"
        ],
        [
@@ -5852,12 +5529,12 @@
          "m": "rubric",
          "t": "[N. "
         },
-        " e ",
+        "e ",
         {
          "m": "rubric",
          "t": "N.] "
         },
-        " ti sei degnato di far rinascere dall'acqua e dallo Spirito Santo, accordando loro il perdono di tutti i peccati:"
+        "ti sei degnato di far rinascere dall'acqua e dallo Spirito Santo, accordando loro il perdono di tutti i peccati:"
        ],
        [
         "tu che li hai inseriti, come membra vive in Cristo,"
@@ -5876,10 +5553,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Nimm gnädig an, o Gott, diese Gaben deiner Diener"
        ],
        [
@@ -5924,10 +5597,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         {
          "m": "dropCap",
          "t": "A"
@@ -5974,10 +5643,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Accètta con benevolenza, o Signore,"
        ],
        [
@@ -5989,12 +5654,12 @@
          "m": "rubric",
          "t": "[N. "
         },
-        " e ",
+        "e ",
         {
          "m": "rubric",
          "t": "N.] "
         },
-        " che hai"
+        "che hai"
        ],
        [
         "rigenerato nel Battesimo"
@@ -6013,10 +5678,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Nimm gnädig an, o Gott, diese Gaben deiner Diener"
        ],
        [
@@ -6104,10 +5765,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "** "
-        },
-        {
          "m": "dropCap",
          "t": "A"
         },
@@ -6156,10 +5813,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Accètta con benevolenza, o Signore,"
        ],
        [
@@ -6171,10 +5824,10 @@
          "m": "rubric",
          "t": "[N. "
         },
-        " e ",
+        "e ",
         {
          "m": "rubric",
-         "t": "N.] "
+         "t": "N.]"
         }
        ],
        [
@@ -6240,10 +5893,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "** "
-        },
-        {
          "m": "dropCap",
          "t": "A"
         },
@@ -6292,10 +5941,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Accètta con benevolenza, o Signore,"
        ],
        [
@@ -6307,10 +5952,10 @@
          "m": "rubric",
          "t": "N. "
         },
-        " e ",
+        "e ",
         {
          "m": "rubric",
-         "t": "N. "
+         "t": "N."
         }
        ],
        [
@@ -6322,7 +5967,7 @@
         "dei figli e",
         {
          "m": "rubric",
-         "t": "] "
+         "t": "]"
         }
        ],
        [
@@ -6336,10 +5981,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Nimm gnädig an, o Gott,"
        ],
        [
@@ -6414,10 +6055,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         {
          "m": "dropCap",
          "t": "A"
@@ -6936,19 +6573,6 @@
        ],
        [
         "unseres Herrn Jesus Christus."
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CC-"
-        }
        ]
       ]
      }
@@ -8829,7 +8453,7 @@
        [
         {
          "m": "rubric",
-         "t": "Deinde dicit:  Vel:  Vel: "
+         "t": "Deinde dicit:"
         }
        ]
       ]
@@ -8842,7 +8466,7 @@
        [
         {
          "m": "rubric",
-         "t": "Em seguida, diz:  Ou:  Ou: "
+         "t": "Em seguida, diz:"
         }
        ]
       ]
@@ -8868,7 +8492,7 @@
        [
         {
          "m": "rubric",
-         "t": "Luego dice una de las siguientes fórmulas: "
+         "t": "Luego dice una de las siguientes fórmulas:"
         }
        ]
       ]
@@ -8881,7 +8505,7 @@
        [
         {
          "m": "rubric",
-         "t": "Quindi, il sacerdote canta o dice: Oppure:  Oppure: "
+         "t": "Quindi, il sacerdote canta o dice:"
         }
        ]
       ]
@@ -8894,7 +8518,7 @@
        [
         {
          "m": "rubric",
-         "t": "Puis il introduit une des acclamations suivantes : "
+         "t": "Puis il introduit une des acclamations suivantes :"
         }
        ]
       ]
@@ -8908,19 +8532,6 @@
         {
          "m": "rubric",
          "t": "Dann spricht oder singt er (oder der Diakon):"
-        }
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CP-"
         }
        ]
       ]
@@ -9083,19 +8694,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -9212,6 +8810,102 @@
     ]
    },
    "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -9350,19 +9044,6 @@
         {
          "m": "rubric",
          "t": "Die Gemeinde:"
-        }
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
         }
        ]
       ]
@@ -9510,6 +9191,102 @@
       "lines": [
        [
         {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
          "m": "dropCap",
          "t": "M"
         },
@@ -9639,19 +9416,6 @@
         {
          "m": "rubric",
          "t": "Die Gemeinde:"
-        }
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "3"
         }
        ]
       ]
@@ -10212,19 +9976,6 @@
        ],
        [
         "und den Kelch des ewigen Heiles."
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CC-"
-        }
        ]
       ]
      }
@@ -11584,19 +11335,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-C3-"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -11744,7 +11482,7 @@
        [
         {
          "m": "rubric",
-         "t": "Después, con las manos extendidas, prosigue: "
+         "t": "Después, con las manos extendidas, prosigue:"
         }
        ]
       ]
@@ -11757,7 +11495,7 @@
        [
         {
          "m": "rubric",
-         "t": "Poi, con le braccia allargate, continua: "
+         "t": "Poi, con le braccia allargate, continua:"
         }
        ]
       ]
@@ -12321,19 +12059,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-C4-"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -12385,7 +12110,7 @@
        [
         {
          "m": "rubric",
-         "t": "Con las manos extendidas prosigue: "
+         "t": "Con las manos extendidas prosigue:"
         }
        ]
       ]
@@ -12398,7 +12123,7 @@
        [
         {
          "m": "rubric",
-         "t": "e con le braccia allargate, prosegue: "
+         "t": "e con le braccia allargate, prosegue:"
         }
        ]
       ]
@@ -13479,19 +13204,6 @@
        ],
        [
         "jetzt und in Ewigkeit."
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CP / CC-"
-        }
        ]
       ]
      }

@@ -261,7 +261,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -363,7 +363,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -604,7 +604,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -688,7 +688,7 @@
         "aleluia ",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1279,8 +1279,8 @@
  ],
  "title": {
   "la": "COMMUNE SANCTORUM ET SANCTARUM",
-  "pt-BR": "COMUM DAS VIRGENS",
-  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "pt-BR": "Comum das Virgens",
+  "en-US": "Common of Holy Men and Women",
   "es": "COMÚN DE SANTOS Y SANTAS",
   "it": "COMUNE DEI SANTI E DELLE SANTE",
   "fr": "COMMUN DES SAINTS ET DES SAINTES",

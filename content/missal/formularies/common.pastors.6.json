@@ -272,7 +272,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -375,7 +375,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -845,7 +845,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " e come per la forza di questi divini misteri lo hai coronato di gloria, così dona a noi l'abbondanza del tuo perdono. Per Cristo nostro Signore."
+        "e come per la forza di questi divini misteri lo hai coronato di gloria, così dona a noi l'abbondanza del tuo perdono. Per Cristo nostro Signore."
        ]
       ]
      }
@@ -1218,7 +1218,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1232,7 +1232,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1246,7 +1246,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1274,7 +1274,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -1288,7 +1288,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1302,7 +1302,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1715,8 +1715,8 @@
  ],
  "title": {
   "la": "COMMUNE PASTORUM",
-  "pt-BR": "COMUM DOS PASTORES",
-  "en-US": "COMMON OF PASTORS",
+  "pt-BR": "Comum dos Pastores",
+  "en-US": "Common of Pastors",
   "es": "COMÚN DE PASTORES",
   "it": "COMUNE DEI PASTORI",
   "fr": "COMMUN DES PASTEURS",

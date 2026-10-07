@@ -349,7 +349,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -370,7 +370,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -454,7 +454,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1841,7 +1841,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1850,7 +1850,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1859,7 +1859,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ]
       ],
@@ -2111,8 +2111,8 @@
  ],
  "title": {
   "la": "IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS — SANCTISSIMÆ TRINITATIS",
-  "pt-BR": "SOLENIDADES DO SENHOR NO TEMPO COMUM — SANTÍSSIMA TRINDADE",
-  "en-US": "THE SOLEMNITIES OF THE LORD DURING ORDINARY TIME — THE MOST HOLY TRINITY",
+  "pt-BR": "Santíssima Trindade",
+  "en-US": "The Most Holy Trinity",
   "es": "SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO — Domingo después de Pentecostés — SANTÍSIMA TRINIDAD",
   "it": "SOLENNITA' DEL SIGNORE NEL TEMPO ORDINARIO — Prima domenica dopo Pentecoste — LA SANTISSIMA TRINITÀ",
   "fr": "Temps ordinaire — SOLENNITÉ DE SAINTE TRINITÉ",

@@ -616,7 +616,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 30, 20. 21. 22. 23. 24 (: 25)",
+      "cite": "Ps 30, 20. 21. 22. 23. 24 (R.: 25)",
       "role": "title"
      }
     ],
@@ -628,7 +628,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 30 (31), 20.21.22.23.24 (: 25)",
+      "cite": "Sl 30 (31), 20.21.22.23.24 (R.: 25)",
       "role": "title"
      }
     ],
@@ -640,7 +640,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 30, 20. 21. 22. 23. 24 (: 25)",
+      "cite": "Ps 30, 20. 21. 22. 23. 24 (R.: 25)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 30, 20. 21. 22. 23. 24 (: 25)",
+      "cite": "Sal 30, 20. 21. 22. 23. 24 (R.: 25)",
       "role": "title"
      }
     ],
@@ -676,7 +676,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 30, 20. 21. 22. 23. 24 (: 25)",
+      "cite": "Ps 30, 20. 21. 22. 23. 24 (R.: 25)",
       "role": "title"
      }
     ],
@@ -688,7 +688,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 31 (30), 20. 21. 22-23b. 23c-24 (R: 25)",
+      "cite": "Ps 31 (30), 20. 21. 22-23b. 23c-24 (R.: 25)",
       "role": "title"
      }
     ]
@@ -2163,7 +2163,7 @@
       "k": "p",
       "lines": [
        [
-        "Fujamos de Absalão!. Deixai Semei amaldiçoar, conforme a permissão do Senhor"
+        "Fujamos de Absalão! Deixai Semei amaldiçoar, conforme a permissão do Senhor"
        ]
       ],
       "role": "summary"
@@ -2614,7 +2614,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 3, 2-3. 4-5. 6-7 (: 7b)",
+      "cite": "Ps 3, 2-3. 4-5. 6-7 (R.: 7b)",
       "role": "title"
      }
     ],
@@ -2626,7 +2626,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 3, 2-3.4-5.6-7 (: 7b)",
+      "cite": "Sl 3, 2-3.4-5.6-7 (R.: 7b)",
       "role": "title"
      }
     ],
@@ -2638,7 +2638,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 3, 2-3. 4-5. 6-7 (: 7b)",
+      "cite": "Ps 3, 2-3. 4-5. 6-7 (R.: 7b)",
       "role": "title"
      }
     ],
@@ -2650,7 +2650,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 3, 2-3. 4-5. 6-7 (: 7b)",
+      "cite": "Sal 3, 2-3. 4-5. 6-7 (R.: 7b)",
       "role": "title"
      }
     ],
@@ -2674,7 +2674,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 3, 2-3. 4-5. 6-7 (: 7b)",
+      "cite": "Ps 3, 2-3. 4-5. 6-7 (R.: 7b)",
       "role": "title"
      }
     ],
@@ -2686,7 +2686,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 3, 2-3. 4-5. 6-7 (R: 8ab)",
+      "cite": "Ps 3, 2-3. 4-5. 6-7 (R.: 8ab)",
       "role": "title"
      }
     ]
@@ -4426,7 +4426,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. IV",
   "pt-BR": "Segunda-feira da 4ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 4th Week: Monday",
+  "en-US": "Monday of the Fourth Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 4ª semana",
   "it": "LUNEDI della IV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 4e semaine",

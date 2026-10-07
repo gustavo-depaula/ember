@@ -743,7 +743,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -755,7 +755,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 1, 1-2.3.4 e 6 (: Salmo 39, 5a)",
+      "cite": "Sl 1, 1-2.3.4 e 6 (R.: Salmo 39, 5a)",
       "role": "title"
      }
     ],
@@ -767,7 +767,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 and 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -779,7 +779,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Sal 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -803,7 +803,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -815,7 +815,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: vgl. Jer 17, 7)",
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R.: vgl. Jer 17, 7)",
       "role": "title"
      }
     ]
@@ -2193,7 +2193,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 48, 14-15ab. 15cde-16. 17-18. 19-20 (: Mt 5, 3)",
+      "cite": "Ps 48, 14-15ab. 15cde-16. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2205,7 +2205,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 48 (49), 14-15ab.15cd-16.17-18.19-20 (: Mt 5, 3)",
+      "cite": "Sl 48 (49), 14-15ab.15cd-16.17-18.19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2217,7 +2217,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 48, 14-15ab. 15cde-16. 17-18. 19-20 (: Mt 5, 3)",
+      "cite": "Ps 48, 14-15ab. 15cde-16. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2229,7 +2229,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 48, 14-15ab. 15cde-16. 17-18. 19-20 (: Mt 5, 3)",
+      "cite": "Sal 48, 14-15ab. 15cde-16. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2253,7 +2253,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 48, 14-15ab. 15cde-16. 17-18. 19-20 (: Mt 5, 3)",
+      "cite": "Ps 48, 14-15ab. 15cde-16. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2265,7 +2265,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 49 (48), 14-15b. 15c-16. 17-18. 19-20 (R: Mt 5, 3)",
+      "cite": "Ps 49 (48), 14-15b. 15c-16. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ]
@@ -3139,7 +3139,7 @@
         "“Todos te aplaudem, tudo bem, isto que é vida!” Mas vai-se ele para junto de seus pais,"
        ],
        [
-        "que nunca mais e nunca mais verão a luz!."
+        "que nunca mais e nunca mais verão a luz!"
        ]
       ]
      }
@@ -4187,7 +4187,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. VII",
   "pt-BR": "Quinta-feira da 7ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 7th Week: Thursday",
+  "en-US": "Thursday of the Seventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 7ª semana",
   "it": "GIOVEDI della VII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 7e semaine",

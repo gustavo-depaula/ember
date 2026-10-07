@@ -620,7 +620,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 67 (68), 29-30.33-35a.35b-36c(R/.: 33a)",
+      "cite": "Sl 67 (68), 29-30.33-35a.35b-36c (R.: 33a)",
       "role": "title"
      }
     ],
@@ -643,7 +643,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 67, 29-30. 33-35a. 35b y 36c (R/.: 33a)",
+      "cite": "Sal 67, 29-30. 33-35a. 35b y 36c (R.: 33a)",
       "role": "title"
      }
     ],
@@ -679,7 +679,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 68 (67), 29-30a u. 30b u. 32b. 33-34. 35-36 (R: 33a.b)",
+      "cite": "Ps 68 (67), 29-30a u. 30b u. 32b. 33-34. 35-36 (R.: 33a.b)",
       "role": "title"
      }
     ]
@@ -788,7 +788,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1083,7 +1083,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1381,7 +1381,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1670,7 +1670,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -2543,8 +2543,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VII — Feria IV",
-  "pt-BR": "Tempo da Páscoa — 7ª Semana — Quarta-feira",
-  "en-US": "Easter Season — Seventh Week — Wednesday",
+  "pt-BR": "Quarta-feira da 7ª Semana da Páscoa",
+  "en-US": "Wednesday of the Seventh Week of Easter",
   "es": "Tiempo de Pascua — Semana VII — Miércoles",
   "it": "MERCOLEDI della VII settimana di Pasqua",
   "fr": "Temps pascal — 7e semaine — Mercredi",

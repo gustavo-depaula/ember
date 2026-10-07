@@ -416,7 +416,7 @@
       "k": "p",
       "lines": [
        [
-        "En ces jours-là,au cours d'une vision reçue du Seigneur, l'homme me fit revenir à l'entrée de la Maison, et voici : sous le seuil de la Maison, de l'eau jaillissait vers l'orient, puisque la façade de la Maison était du côté de l'orient."
+        "En ces jours-là, au cours d'une vision reçue du Seigneur, l'homme me fit revenir à l'entrée de la Maison, et voici : sous le seuil de la Maison, de l'eau jaillissait vers l'orient, puisque la façade de la Maison était du côté de l'orient."
        ]
       ]
      },
@@ -610,7 +610,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 45, 2-3. 5-6. 8-9ab (: 8)",
+      "cite": "Ps 45, 2-3. 5-6. 8-9ab (R.: 8)",
       "role": "title"
      }
     ],
@@ -622,7 +622,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 45 (46), 2-3.5-6.8-9 (: 8)",
+      "cite": "Sl 45 (46), 2-3.5-6.8-9 (R.: 8)",
       "role": "title"
      }
     ],
@@ -634,7 +634,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 45, 2-3. 5-6. 8-9ab (: 8)",
+      "cite": "Ps 45, 2-3. 5-6. 8-9ab (R.: 8)",
       "role": "title"
      }
     ],
@@ -646,7 +646,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 45, 2-3. 5-6. 8-9ab (: 8)",
+      "cite": "Sal 45, 2-3. 5-6. 8-9ab (R.: 8)",
       "role": "title"
      }
     ],
@@ -670,7 +670,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 45, 2-3. 5-6. 8-9ab (: 8)",
+      "cite": "Ps 45, 2-3. 5-6. 8-9ab (R.: 8)",
       "role": "title"
      }
     ],
@@ -682,7 +682,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 46 (45), 2-3. 5-6. 8-9 (R: 8)",
+      "cite": "Ps 46 (45), 2-3. 5-6. 8-9 (R.: 8)",
       "role": "title"
      }
     ]
@@ -1576,7 +1576,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Salmo 50 (51), 12a.14a",
+      "cite": "Sl 50 (51), 12a.14a",
       "role": "title"
      },
      {
@@ -2434,8 +2434,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada IV — Feria tertia",
-  "pt-BR": "Tempo da Quaresma — Terça-feira da 4ª Semana da Quaresma",
-  "en-US": "Season of Lent — 4th Week: Tuesday",
+  "pt-BR": "Terça-feira da 4ª Semana da Quaresma",
+  "en-US": "Tuesday of the Fourth Week of Lent",
   "es": "Tiempo de Cuaresma — Martes de la IV Semana",
   "it": "MARTEDI DELLA IV SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 4e semaine — Mardi",

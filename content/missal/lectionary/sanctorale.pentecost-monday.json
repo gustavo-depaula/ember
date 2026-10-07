@@ -37,7 +37,7 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
@@ -427,6 +427,34 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
     ]
    },
    "cycle": "A",
@@ -472,7 +500,31 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 117 (116), 1–2 (R: Apg 1, 8)",
+      "cite": "Ps 117 (116), 1–2 (R.: Apg 1, 8)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 116, 1-2",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 116, 1-2",
       "role": "title"
      }
     ]
@@ -605,6 +657,25 @@
        ],
        [
         "die Treue des Herrn währt in Ewigkeit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantai louvores ao Senhor, todas as gentes,"
+       ],
+       [
+        "povos todos, festejai-o!"
+       ],
+       [
+        "Pois comprovado é seu amor para conosco,"
+       ],
+       [
+        "para sempre ele é fiel."
        ]
       ]
      }
@@ -856,6 +927,34 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
     ]
    },
    "cycle": "A",
@@ -935,6 +1034,31 @@
        ],
        [
         "Halleluja."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "Vinde, Espírito Divino, e enchei com vossos dons os corações dos fiéis; e acendei neles o amor como um fogo abrasador!"
+       ],
+       [
+        "Aleluia."
        ]
       ]
      }
@@ -1268,6 +1392,34 @@
          "t": "A: "
         },
         "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
        ]
       ]
      }
@@ -1651,6 +1803,34 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
     ]
    },
    "cycle": "B",
@@ -1696,7 +1876,31 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 22 (21), 23-24. 26-27. 28 u. 31b-32 (R: vgl. 23a)",
+      "cite": "Ps 22 (21), 23-24. 26-27. 28 u. 31b-32 (R.: vgl. 23a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 21, 23-24. 26-27. 28 e 31b-32",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 21, 23-24. 26-27. 28 and 31b-32",
       "role": "title"
      }
     ]
@@ -1841,6 +2045,28 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Anunciarei o vosso nome a meus irmãos"
+       ],
+       [
+        "e no meio da assembleia hei de louvar-vos!"
+       ],
+       [
+        "Vós que temeis ao Senhor Deus, dai-lhe louvores,"
+       ],
+       [
+        "glorificai-o, descendentes de Jacó,"
+       ],
+       [
+        "e respeitai-o toda a raça de Israel!"
+       ]
+      ]
+     }
     ]
    },
    "part": "psalm",
@@ -1975,6 +2201,28 @@
        ],
        [
         "Aufleben soll euer Herz für immer."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sois meu louvor em meio à grande assembleia;"
+       ],
+       [
+        "Cumpro meus votos ante aqueles que vos temem!"
+       ],
+       [
+        "Vossos pobres vão comer e saciar-se,"
+       ],
+       [
+        "os que procuram o Senhor o louvarão;"
+       ],
+       [
+        "\"Seus corações tenham a vida para sempre\"!"
        ]
       ]
      }
@@ -2381,6 +2629,34 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
     ]
    },
    "cycle": "B",
@@ -2460,6 +2736,31 @@
        ],
        [
         "Halleluja."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "Vinde, Espírito Divino, e enchei com vossos dons os corações dos fiéis; e acendei neles o amor como um fogo abrasador!"
+       ],
+       [
+        "Aleluia."
        ]
       ]
      }
@@ -2730,6 +3031,25 @@
       ],
       "role": "conclusion"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele momento, Jesus exultou no Espírito Santo e disse: \"Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes, e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar\". Jesus voltou-se para os discípulos e disse-lhes em particular: \"Felizes os olhos que veem o que vós vedes! Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo, e não puderam ver; quiseram ouvir o que estais ouvindo, e não puderam ouvir\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
     ]
    },
    "part": "gospel",
@@ -2775,6 +3095,34 @@
          "t": "A: "
         },
         "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
        ]
       ]
      }
@@ -3131,6 +3479,34 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
     ]
    },
    "cycle": "C",
@@ -3176,7 +3552,31 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 2-3. 4-5. 8-9. 10-11. 15-16 (R: 1b)",
+      "cite": "Ps 145 (144), 2-3. 4-5. 8-9. 10-11. 15-16 (R.: 1b)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 144, 2-3. 4-5. 8-9. 10-11. 15-16",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 144, 2-3. 4-5. 8-9. 10-11. 15-16",
       "role": "title"
      }
     ]
@@ -3446,6 +3846,22 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uma idade conta à outra vossas obras"
+       ],
+       [
+        "e publica os vossos feitos poderosos; proclamam todos o esplendor de vossa glória"
+       ],
+       [
+        "e divulgam vossas obras portentosas!"
+       ]
+      ]
+     }
     ]
    },
    "part": "psalm",
@@ -3577,6 +3993,25 @@
        ],
        [
         "sein Erbarmen waltet über all seinen Werken."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Misericórdia e piedade é o Senhor,"
+       ],
+       [
+        "ele é amor, é paciência, é compaixão."
+       ],
+       [
+        "O Senhor é muito bom para com todos,"
+       ],
+       [
+        "sua ternura abraça toda criatura."
        ]
       ]
      }
@@ -3714,6 +4149,25 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que vossas obras, ó Senhor, vos glorifiquem,"
+       ],
+       [
+        "e os vossos santos com louvores vos bendigam!"
+       ],
+       [
+        "Narrem a glória e o esplendor do vosso reino"
+       ],
+       [
+        "e saibam proclamar vosso poder!"
+       ]
+      ]
+     }
     ]
    },
    "part": "psalm",
@@ -3845,6 +4299,25 @@
        ],
        [
         "und sättigst alles, was lebt, nach deinem Gefallen."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Todos os olhos, ó Senhor, em vós esperam"
+       ],
+       [
+        "e vós lhes dais no tempo certo o alimento;"
+       ],
+       [
+        "vós abris a vossa mão prodigamente"
+       ],
+       [
+        "e saciais todo ser vivo com fartura."
        ]
       ]
      }
@@ -4096,6 +4569,34 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
     ]
    },
    "cycle": "C",
@@ -4175,6 +4676,31 @@
        ],
        [
         "Halleluja."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "Vinde, Espírito Divino, e enchei com vossos dons os corações dos fiéis; e acendei neles o amor como um fogo abrasador!"
+       ],
+       [
+        "Aleluia."
        ]
       ]
      }
@@ -4436,6 +4962,25 @@
       ],
       "role": "conclusion"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele. Quem nele crê, não é condenado, mas quem não crê, já está condenado, porque não acreditou no nome do Filho unigênito. Ora, o julgamento é este: a luz veio ao mundo, mas os homens preferiram as trevas à luz, porque suas ações eram más. Quem pratica o mal odeia a luz e não se aproxima da luz, para que suas ações não sejam denunciadas. Mas quem age conforme a verdade aproxima-se da luz, para que se manifeste que suas ações são realizadas em Deus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
     ]
    },
    "part": "gospel",
@@ -4481,6 +5026,34 @@
          "t": "A: "
         },
         "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
        ]
       ]
      }

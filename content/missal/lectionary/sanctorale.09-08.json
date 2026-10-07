@@ -668,7 +668,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera lectura"
+        "Primera Lectura"
        ]
       ],
       "role": "title"
@@ -989,7 +989,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 12, 6ab. 6c (: Is 61, 10)",
+      "cite": "Ps 12, 6ab. 6c (R.: Is 61, 10)",
       "role": "title"
      }
     ],
@@ -1013,7 +1013,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 12, 6ab. 6c (: Is 61, 10)",
+      "cite": "Ps 12, 6ab. 6c (R.: Is 61, 10)",
       "role": "title"
      }
     ],
@@ -1037,7 +1037,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 12, 6ab. 6c (: Is 61, 10)",
+      "cite": "Ps 12, 6ab. 6c (R.: Is 61, 10)",
       "role": "title"
      }
     ],
@@ -1049,7 +1049,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 13 (12), 6ab. 6cd (R: Jes 61, 10)",
+      "cite": "Ps 13 (12), 6ab. 6cd (R.: Jes 61, 10)",
       "role": "title"
      }
     ]
@@ -2975,8 +2975,8 @@
  ],
  "title": {
   "la": "IN NATIVITATE BEATÆ MARIÆ VIRGINIS",
-  "pt-BR": "NATIVIDADE DA VIRGEM SANTA MARIA",
-  "en-US": "THE NATIVITY OF THE BLESSED VIRGIN MARY",
+  "pt-BR": "Natividade da Bem-Aventurada Virgem Maria",
+  "en-US": "The Nativity of the Blessed Virgin Mary",
   "es": "LA NATIVIDAD DE LA SANTÍSIMA VIRGEN MARÍA",
   "it": "NATIVITA' DELLA BEATA VERGINE MARIA",
   "fr": "NATIVITÉ DE LA BIENHEUREUSE VIERGE MARIE",

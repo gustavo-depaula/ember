@@ -119,17 +119,27 @@ function prefaceNumbers(day: OfDay): number[] {
   }
 }
 
-function conditionsOf(day: OfDay, mass: MassRef): string[] {
+function conditionsOf(day: OfDay, mass: MassRef, kind?: string): string[] {
   const conditions: string[] = []
-  if (day.season === 'easter' && day.week === 1) conditions.push('easter-octave')
+  const of = (prefix: string) => mass.formulary?.startsWith(prefix) ?? false
+  // The octave runs to the Second Sunday of Easter, and begins at the Vigil.
+  const easterOctave =
+    day.season === 'easter' && (day.week === 1 || (day.week === 2 && day.weekday === 0))
+  if (easterOctave || of('tempore.holy-week.easter-vigil')) conditions.push('easter-octave')
   if (day.season === 'christmas' && day.date.getMonth() === 11) conditions.push('christmas-octave')
-  if (day.key === 'mary-mother-of-god') conditions.push('christmas-octave')
-  if (day.key === 'holy-saturday') conditions.push('easter-octave')
-  if (day.key === 'pentecost') conditions.push('pentecost')
-  if (day.key === 'epiphany') conditions.push('epiphany')
-  if (day.key === 'ascension') conditions.push('ascension')
-  if (mass.formulary === 'tempore.holy-week.lords-supper') conditions.push('lords-supper')
-  return conditions
+  if (day.key === 'mary-mother-of-god' || of('tempore.christmas.nativity')) {
+    conditions.push('christmas-octave')
+  }
+  if (day.key === 'pentecost' || of('tempore.easter.pentecost')) conditions.push('pentecost')
+  if (day.key === 'epiphany' || of('tempore.christmas.epiphany')) conditions.push('epiphany')
+  if (day.key === 'ascension' || of('tempore.easter.ascension')) conditions.push('ascension')
+  if (of('tempore.holy-week.lords-supper')) conditions.push('lords-supper')
+  // The dismissal carries a double alleluia through the octave and at Pentecost.
+  if (conditions.includes('easter-octave') || conditions.includes('pentecost')) {
+    conditions.push('double-alleluia')
+  }
+  if (kind === 'for-the-dead' || of('sanctorale.11-02')) conditions.push('for-the-dead')
+  return [...new Set(conditions)]
 }
 
 /** The Gloria is said on Sundays outside Advent and Lent, on solemnities and feasts (GIRM 53). */
@@ -281,6 +291,6 @@ export async function assembleMass(
     prefaces: prefaceOptions,
     rites,
     ...(lectionary?.sequence && parts.sequence ? { sequence: lectionary.sequence } : {}),
-    conditions: conditionsOf(day, mass),
+    conditions: conditionsOf(day, mass, formulary?.kind),
   }
 }

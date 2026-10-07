@@ -608,7 +608,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 104, 4-5. 6-7. 8-9 (: 8a)",
+      "cite": "Ps 104, 4-5. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -620,7 +620,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 104 (105), 4-5.6-7.8-9 (: 8a)",
+      "cite": "Sl 104 (105), 4-5.6-7.8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -632,7 +632,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 104, 4-5. 6-7. 8-9 (: 8a)",
+      "cite": "Ps 104, 4-5. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -644,7 +644,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 104, 4-5. 6-7. 8-9 (: 8a)",
+      "cite": "Sal 104, 4-5. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -668,7 +668,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 104, 4-5. 6-7. 8-9 (: 8a)",
+      "cite": "Ps 104, 4-5. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -680,7 +680,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 105 (104), 4-5.´6-7. 8-9 (R: 7a. 8a)",
+      "cite": "Ps 105 (104), 4-5.´6-7. 8-9 (R.: 7a. 8a)",
       "role": "title"
      }
     ]
@@ -946,7 +946,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "O Senhor se lembra sempre da Aliança!."
+        "O Senhor se lembra sempre da Aliança!"
        ]
       ]
      }
@@ -1180,7 +1180,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "O Senhor se lembra sempre da Aliança!."
+        "O Senhor se lembra sempre da Aliança!"
        ]
       ]
      }
@@ -1414,7 +1414,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "O Senhor se lembra sempre da Aliança!."
+        "O Senhor se lembra sempre da Aliança!"
        ]
       ]
      }
@@ -2346,8 +2346,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada V — Feria quinta",
-  "pt-BR": "Tempo da Quaresma — Quinta-feira da 5ª Semana da Quaresma",
-  "en-US": "Season of Lent — 5th Week: Thursday",
+  "pt-BR": "Quinta-feira da 5ª Semana da Quaresma",
+  "en-US": "Thursday of the Fifth Week of Lent",
   "es": "Tiempo de Cuaresma — Jueves de la V Semana",
   "it": "GIOVEDI DELLA V SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 5e semaine — Jeudi",

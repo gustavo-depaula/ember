@@ -248,7 +248,7 @@
          "m": "rubric",
          "t": "(T. P. "
         },
-        " allelúia",
+        "allelúia",
         {
          "m": "rubric",
          "t": ")"
@@ -268,7 +268,7 @@
          "m": "rubric",
          "t": "(T. P. "
         },
-        " aleluia",
+        "aleluia",
         {
          "m": "rubric",
          "t": ")"
@@ -331,7 +331,7 @@
          "m": "rubric",
          "t": "(T. P. "
         },
-        " Alleluia",
+        "Alleluia",
         {
          "m": "rubric",
          "t": ")"
@@ -948,7 +948,7 @@
         "Antífona da comunhão"
        ]
       ],
-      "cite": "Cf. Rom 6, 4. 8"
+      "cite": "Cf. Rm 6, 4. 8"
      }
     ],
     "en-US": [
@@ -1020,7 +1020,7 @@
          "m": "rubric",
          "t": "(T. P. "
         },
-        " allelúia",
+        "allelúia",
         {
          "m": "rubric",
          "t": ")"
@@ -1040,7 +1040,7 @@
          "m": "rubric",
          "t": "(T. P. "
         },
-        " aleluia",
+        "aleluia",
         {
          "m": "rubric",
          "t": ")"
@@ -1103,7 +1103,7 @@
          "m": "rubric",
          "t": "(T. P. "
         },
-        " Alleluia",
+        "Alleluia",
         {
          "m": "rubric",
          "t": ")"
@@ -1126,7 +1126,7 @@
          "m": "rubric",
          "t": "(T. P. "
         },
-        " alléluia",
+        "alléluia",
         {
          "m": "rubric",
          "t": ")"
@@ -1380,8 +1380,8 @@
  ],
  "title": {
   "la": "I. IN EXSEQUIIS",
-  "pt-BR": "1. NAS EXÉQUIAS",
-  "en-US": "I. FOR THE FUNERAL",
+  "pt-BR": "1. Nas Exéquias",
+  "en-US": "I. For the Funeral",
   "es": "I. EN LAS EXEQUIAS",
   "it": "I. IN EXSEQUIIS",
   "fr": "I. MESSE DES FUNÉRAILLES",

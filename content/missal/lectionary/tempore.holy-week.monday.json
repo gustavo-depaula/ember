@@ -668,7 +668,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Salmo 26 (27), 1.4.13-14",
+      "cite": "Sl 26 (27), 1.4.13-14",
       "role": "title"
      }
     ],
@@ -1753,6 +1753,20 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é minha luz e salvação."
+       ]
+      ]
+     }
     ]
    },
    "part": "psalm",
@@ -2290,7 +2304,7 @@
       "k": "p",
       "lines": [
        [
-        "Seis dias antes da Páscoa, Jesus foi para Betânia, onde morava Lázaro, que ele havia ressuscitado dos mortos. Ali ofereceram a Jesus um jantar; Marta servia e Lázaro era um dos que estavam à mesa com ele.Maria, tomando quase meio litro de perfume de nardo puro e muito caro, ungiu os pés de Jesus e enxugou-os com seus cabelos. A casa inteira ficou cheia do perfume do bálsamo. Então, falou Judas Iscariotes, um dos seus discípulos, aquele que o havia de entregar: \"Por que não se vendeu este perfume por trezentas moedas de prata, para as dar aos pobres?\" Judas falou assim, não porque se preocupasse com os pobres, mas porque era ladrão; ele tomava conta da bolsa comum e roubava o que se depositava nela. Jesus, porém, disse: \"Deixa-a; ela fez isto em vista do dia de minha sepultura. Pobres, sempre os tereis convosco, enquanto a mim, nem sempre me tereis\". Muitos judeus, tendo sabido que Jesus estava em Betânia, foram para lá, não só por causa de Jesus, mas também para verem Lázaro, que Jesus havia ressuscitado dos mortos. Então, os sumos sacerdotes decidiram matar também Lázaro, porque, por causa dele, muitos deixavam os judeus e acreditavam em Jesus."
+        "Seis dias antes da Páscoa, Jesus foi para Betânia, onde morava Lázaro, que ele havia ressuscitado dos mortos. Ali ofereceram a Jesus um jantar; Marta servia e Lázaro era um dos que estavam à mesa com ele. Maria, tomando quase meio litro de perfume de nardo puro e muito caro, ungiu os pés de Jesus e enxugou-os com seus cabelos. A casa inteira ficou cheia do perfume do bálsamo. Então, falou Judas Iscariotes, um dos seus discípulos, aquele que o havia de entregar: \"Por que não se vendeu este perfume por trezentas moedas de prata, para as dar aos pobres?\" Judas falou assim, não porque se preocupasse com os pobres, mas porque era ladrão; ele tomava conta da bolsa comum e roubava o que se depositava nela. Jesus, porém, disse: \"Deixa-a; ela fez isto em vista do dia de minha sepultura. Pobres, sempre os tereis convosco, enquanto a mim, nem sempre me tereis\". Muitos judeus, tendo sabido que Jesus estava em Betânia, foram para lá, não só por causa de Jesus, mas também para verem Lázaro, que Jesus havia ressuscitado dos mortos. Então, os sumos sacerdotes decidiram matar também Lázaro, porque, por causa dele, muitos deixavam os judeus e acreditavam em Jesus."
        ]
       ]
      },
@@ -2558,8 +2572,8 @@
  ],
  "title": {
   "la": "FERIA II HEBDOMADÆ SANCTÆ",
-  "pt-BR": "SEMANA SANTA. SEGUNDA-FEIRA",
-  "en-US": "MONDAY OF HOLY WEEK",
+  "pt-BR": "Segunda-feira da Semana Santa",
+  "en-US": "Monday of Holy Week",
   "es": "LUNES SANTO",
   "it": "LUNEDI DELLA SETTIMANA SANTA",
   "fr": "Lundi Saint — Semaine Sainte",

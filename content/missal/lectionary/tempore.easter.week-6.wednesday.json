@@ -829,7 +829,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -850,7 +850,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -936,7 +936,7 @@
         "Louvai-o, anjos seus, todos louvai-o,"
        ],
        [
-        "louvai-o, legiões celestiais!."
+        "louvai-o, legiões celestiais!"
        ]
       ]
      }
@@ -1121,7 +1121,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1142,7 +1142,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1416,7 +1416,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1437,7 +1437,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1696,7 +1696,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1717,7 +1717,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1800,7 +1800,7 @@
         "É um hino para os filhos de Israel,"
        ],
        [
-        "este povo que ele ama e lhe pertence.."
+        "este povo que ele ama e lhe pertence."
        ]
       ]
      }
@@ -1970,7 +1970,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1991,7 +1991,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -2118,7 +2118,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2844,8 +2844,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VI — Feria IV. Ad Missam matutinam",
-  "pt-BR": "Tempo da Páscoa — 6ª Semana — Quarta-feira",
-  "en-US": "Easter Season — Sixth Week — Wednesday",
+  "pt-BR": "Quarta-feira da 6ª Semana da Páscoa",
+  "en-US": "Wednesday of the Sixth Week of Easter",
   "es": "Tiempo de Pascua — Semana VI — Miércoles",
   "it": "MERCOLEDI della VI settimana di Pasqua",
   "fr": "Temps pascal — 6e semaine — Mercredi",

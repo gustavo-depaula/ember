@@ -157,71 +157,48 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cm2l10"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.dedication-of-a-church.psalm.2"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 45, 2-3. 5-6. 8-9 (: 5)",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 45, 2-3. 5-6. 8-9 (R.: 5)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 45, 2-3. 5-6. 8-9 (: 5)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 45, 2-3. 5-6. 8-9 (R.: 5)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 45(46), 2-3. 5-6. 8-9 (R.: 5)",
       "role": "title"
      },
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 45, 2-3. 5-6. 8-9 (R.: 5)",
       "role": "title"
      }
@@ -229,7 +206,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 45 (46)",
       "role": "title"
      }
@@ -237,16 +218,36 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 45, 2-3. 5-6. 8-9 (: 5)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 45, 2-3. 5-6. 8-9 (R.: 5)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 46 (45), 2-3. 5-6. 8-9 (R: 5)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 46 (45), 2-3. 5-6. 8-9 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 45, 2-3. 5-6. 8-9 (R.: 5)",
       "role": "title"
      }
     ]
@@ -326,7 +327,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -556,7 +557,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -789,7 +790,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1028,7 +1029,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1072,30 +1073,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.martyrs.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1136,7 +1121,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1174,7 +1163,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 5:10",
       "role": "title"
      },
@@ -1196,7 +1189,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1237,7 +1234,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 5, IO",
       "role": "title"
      },
@@ -1259,7 +1260,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1297,7 +1302,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Mt 5, 10",
       "role": "title"
      },
@@ -1974,7 +1983,7 @@
  "title": {
   "la": "S. Athanasii, episcopi et Ecclesiæ doctoris",
   "pt-BR": "Santo Atanásio, bispo e doutor da Igreja",
-  "en-US": "St. Athanasius, bishop and doctor of the Church",
+  "en-US": "Saint Athanasius, bishop and doctor of the Church",
   "es": "San Atanasio, obispo y doctor de la Iglesia",
   "it": "Sant'Atanasio, vescovo — e dottore della Chiesa",
   "fr": "Saint Athanase, évêque et docteur de l'Église",

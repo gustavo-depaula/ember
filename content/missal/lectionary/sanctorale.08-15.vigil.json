@@ -773,7 +773,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 131, 6-7. 9-10. 13-14 (: 8)",
+      "cite": "Ps 131, 6-7. 9-10. 13-14 (R.: 8)",
       "role": "title"
      }
     ],
@@ -797,7 +797,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 131, 6-7. 9-10. 13-14 (: 8)",
+      "cite": "Ps 131, 6-7. 9-10. 13-14 (R.: 8)",
       "role": "title"
      }
     ],
@@ -833,7 +833,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 131, 6-7. 9-10. 13-14 (: 8)",
+      "cite": "Ps 131, 6-7. 9-10. 13-14 (R.: 8)",
       "role": "title"
      }
     ],
@@ -845,7 +845,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 132 (131), 6-7. 9-10. 13-14 (R: 8a)",
+      "cite": "Ps 132 (131), 6-7. 9-10. 13-14 (R.: 8a)",
       "role": "title"
      }
     ]
@@ -2892,8 +2892,8 @@
  ],
  "title": {
   "la": "IN ASSUMPTIONE BEATÆ MARIÆ VIRGINIS",
-  "pt-BR": "ASSUNÇÃO DE NOSSA SENHORA",
-  "en-US": "The Assumption of the Blessed Virgin Mary",
+  "pt-BR": "Assunção da Bem-Aventurada Virgem Maria",
+  "en-US": "The Assumption — Of the Blessed Virgin Mary",
   "es": "La Asunción de la Virgen María",
   "it": "ASSUNZIONE DELLA B.V. MARIA",
   "fr": "ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE",

@@ -587,7 +587,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 23, 7. 8. 9. 10 (: 10b)",
+      "cite": "Ps 23, 7. 8. 9. 10 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -599,7 +599,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 23 (24), 7.8.9.10 (: 10b)",
+      "cite": "Sl 23 (24), 7.8.9.10 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -611,7 +611,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 23, 7. 8. 9. 10 (: cf. 10)",
+      "cite": "Ps 23, 7. 8. 9. 10 (R.: cf. 10)",
       "role": "title"
      }
     ],
@@ -623,7 +623,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 23, 7. 8. 9. 10 (: 10b)",
+      "cite": "Ps 23, 7. 8. 9. 10 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -647,7 +647,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 23, 7. 8. 9. 10 (: 10b)",
+      "cite": "Ps 23, 7. 8. 9. 10 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -659,7 +659,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 24 (23), 7-8. 9-10 (R: vgl. 10b)",
+      "cite": "Ps 24 (23), 7-8. 9-10 (R.: vgl. 10b)",
       "role": "title"
      }
     ]
@@ -2586,7 +2586,7 @@
       "k": "p",
       "lines": [
        [
-        "Et erat pater eius et mater mirántes super his, quæ dicebántur de illo. Et benedíxit illis Símeon et dixit ad Maríam matrem eius: «Ecce pósitus est hic in ruínam et resurrectiónem multórum in Israel et in signum, cui contradicétur — ​et tuam ipsíus ánimam pertránsiet gládius — ​ut reveléntur ex multis córdibus cogitatiónes»."
+        "Et erat pater eius et mater mirántes super his, quæ dicebántur de illo. Et benedíxit illis Símeon et dixit ad Maríam matrem eius: «Ecce pósitus est hic in ruínam et resurrectiónem multórum in Israel et in signum, cui contradicétur — et tuam ipsíus ánimam pertránsiet gládius — ut reveléntur ex multis córdibus cogitatiónes»."
        ]
       ]
      },
@@ -3513,8 +3513,8 @@
  ],
  "title": {
   "la": "IN PRÆSENTATIONE DOMINI",
-  "pt-BR": "APRESENTAÇÃO DO SENHOR",
-  "en-US": "THE PRESENTATION OF THE LORD",
+  "pt-BR": "Apresentação do Senhor",
+  "en-US": "The Presentation of the Lord",
   "es": "LA PRESENTACIÓN DEL SEÑOR",
   "it": "PRESENTAZIONE DEL SIGNORE",
   "fr": "PRÉSENTATION DU SEIGNEUR AU TEMPLE",

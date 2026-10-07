@@ -338,7 +338,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -352,7 +352,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -380,7 +380,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -408,7 +408,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -422,7 +422,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -815,7 +815,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -828,7 +828,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -854,7 +854,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -880,7 +880,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -893,7 +893,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1714,7 +1714,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder (für unheilbar Kranke): "
+         "t": "Oder (für unheilbar Kranke):"
         }
        ],
        [
@@ -1729,8 +1729,8 @@
  ],
  "title": {
   "la": "III. AD DIVERSA",
-  "pt-BR": "III. EM DIVERSAS NECESSIDADES",
-  "en-US": "III. FOR VARIOUS OCCASIONS",
+  "pt-BR": "III. Em Diversas Necessidades",
+  "en-US": "III. For Various Occasions",
   "es": "III. EN DIVERSAS NECESIDADES",
   "it": "IN DIVERSE NECESSITÀ",
   "fr": "III. POUR DIVERSES CIRCONSTANCES",

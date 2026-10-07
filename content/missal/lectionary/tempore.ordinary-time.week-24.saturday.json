@@ -626,7 +626,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2c)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -638,7 +638,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 99 (100), 2.3.4.5 (: 2c))",
+      "cite": "Sl 99 (100), 2.3.4.5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -650,7 +650,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2c)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -662,7 +662,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 99, 2. 3. 4. 5 (: 2c)",
+      "cite": "Sal 99, 2. 3. 4. 5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -686,7 +686,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2c)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -698,7 +698,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 100 (99), 2-3. 4-5 (R: vgl. 2b)",
+      "cite": "Ps 100 (99), 2-3. 4-5 (R.: vgl. 2b)",
       "role": "title"
      }
     ]
@@ -2234,7 +2234,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 55, 10. 11-12. 13-14 (: cf. 14c)",
+      "cite": "Ps 55, 10. 11-12. 13-14 (R.: cf. 14c)",
       "role": "title"
      }
     ],
@@ -2246,7 +2246,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 55 (56), 10.11-12.13-14 (: cf. 14c)",
+      "cite": "Sl 55 (56), 10.11-12.13-14 (R.: cf. 14c)",
       "role": "title"
      }
     ],
@@ -2258,7 +2258,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 55, 10. 11-12. 13-14 (: cf. 14c)",
+      "cite": "Ps 55, 10. 11-12. 13-14 (R.: cf. 14c)",
       "role": "title"
      }
     ],
@@ -2270,7 +2270,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 55, 10. 11-12. 13-14 (: cf. 14c)",
+      "cite": "Sal 55, 10. 11-12. 13-14 (R.: cf. 14c)",
       "role": "title"
      }
     ],
@@ -2294,7 +2294,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 55, 10. 11-12. 13-14 (: cf. 14c)",
+      "cite": "Ps 55, 10. 11-12. 13-14 (R.: cf. 14c)",
       "role": "title"
      }
     ],
@@ -2306,7 +2306,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 56 (55), 10-11. 12-13. 14 (R: 14c)",
+      "cite": "Ps 56 (55), 10-11. 12-13. 14 (R.: 14c)",
       "role": "title"
      }
     ]
@@ -4004,7 +4004,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XXIV",
   "pt-BR": "Sábado da 24ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 24th Week: Saturday",
+  "en-US": "Saturday of the Twenty-Fourth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 24ª semana",
   "it": "Sabato della XXIV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 24e semaine",

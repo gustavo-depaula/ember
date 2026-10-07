@@ -580,7 +580,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (: Mt 5, 3)",
+      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -592,7 +592,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 145 (146), 7.8-9a.9bc-10 (: Mt 5, 3 )",
+      "cite": "Sl 145 (146), 7.8-9a.9bc-10 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -604,7 +604,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (: Mt 5, 3)",
+      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -616,7 +616,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 145, 6c-7. 8-9a. 9bc-10 (: Mt 5, 3)",
+      "cite": "Sal 145, 6c-7. 8-9a. 9bc-10 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -640,7 +640,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (: Mt 5, 3)",
+      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 146 (145), 5 u. 7. 8-9b. 9c-10 (R: Mt 5, 3)",
+      "cite": "Ps 146 (145), 5 u. 7. 8-9b. 9c-10 (R.: Mt 5, 3)",
       "role": "title"
      }
     ]
@@ -3391,7 +3391,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 94, 1-2. 6-7. 8-9 (: 8)",
+      "cite": "Ps 94, 1-2. 6-7. 8-9 (R.: 8)",
       "role": "title"
      }
     ],
@@ -3403,7 +3403,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 94 (95), 1-2.6-7.8-9 (: 8)",
+      "cite": "Sl 94 (95), 1-2.6-7.8-9 (R.: 8)",
       "role": "title"
      }
     ],
@@ -3415,7 +3415,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 94, 1-2. 6-7. 8-9 (: 8)",
+      "cite": "Ps 94, 1-2. 6-7. 8-9 (R.: 8)",
       "role": "title"
      }
     ],
@@ -3427,7 +3427,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 94, 1-2. 6-7. 8-9 (: 8)",
+      "cite": "Sal 94, 1-2. 6-7. 8-9 (R.: 8)",
       "role": "title"
      }
     ],
@@ -3451,7 +3451,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 94, 1-2. 6-7. 8-9 (: 8)",
+      "cite": "Ps 94, 1-2. 6-7. 8-9 (R.: 8)",
       "role": "title"
      }
     ],
@@ -3463,7 +3463,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 95 (94), 1-2. 6-7c. 7d-9 (R: vgl. 7d. 8a)",
+      "cite": "Ps 95 (94), 1-2. 6-7c. 7d-9 (R.: vgl. 7d. 8a)",
       "role": "title"
      }
     ]
@@ -6257,7 +6257,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 71 (70), 1-2. 3. 5-6. 15 u. 17 (R: 15a)",
+      "cite": "Ps 71 (70), 1-2. 3. 5-6. 15 u. 17 (R.: 15a)",
       "role": "title"
      }
     ]
@@ -9153,8 +9153,8 @@
  ],
  "title": {
   "la": "Tempus «per annum» — Domenica IV",
-  "pt-BR": "Tempo Comum — 4º Domingo do Tempo Comum",
-  "en-US": "Ordinary Time — 4th Week: Sunday",
+  "pt-BR": "4º Domingo do Tempo Comum",
+  "en-US": "Fourth Sunday in Ordinary Time",
   "es": "Tiempo ordinario — 4º Domingo",
   "it": "IV DOMENICA DEL TEMPO ORDINARIO",
   "fr": "Temps ordinaire — 4ème Dimanche",

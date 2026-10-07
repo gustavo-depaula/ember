@@ -617,7 +617,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 51, 10. 11 (: 10b)",
+      "cite": "Ps 51, 10. 11 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -629,7 +629,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 51 (52), 10.11 (: 10b)",
+      "cite": "Sl 51 (52), 10.11 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -641,7 +641,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "51, 10. 11 (: 10b)",
+      "cite": "51, 10. 11 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -653,7 +653,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 51, 10. 11 (: 10b)",
+      "cite": "Sal 51, 10. 11 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -677,7 +677,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 51, 10. 11 (: 10b)",
+      "cite": "Ps 51, 10. 11 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -689,7 +689,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 52 (51), 10. 11 (R: 10b)",
+      "cite": "Ps 52 (51), 10. 11 (R.: 10b)",
       "role": "title"
      }
     ]
@@ -1788,7 +1788,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 32, 12-13. 14-15. 20-21 (: cf. 12)",
+      "cite": "Ps 32, 12-13. 14-15. 20-21 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -1800,7 +1800,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 32 (33), 12-13.14-15.20-21 (: cf. 12b)",
+      "cite": "Sl 32 (33), 12-13.14-15.20-21 (R.: cf. 12b)",
       "role": "title"
      }
     ],
@@ -1812,7 +1812,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "32, 12-13. 14-15. 20-21 (: cf. 12)",
+      "cite": "32, 12-13. 14-15. 20-21 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -1824,7 +1824,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 32, 12-13. 14-15. 20-21 (: cf. 12)",
+      "cite": "Sal 32, 12-13. 14-15. 20-21 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -1848,7 +1848,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 32, 12-13. 14-15. 20-21 (: cf. 12)",
+      "cite": "Ps 32, 12-13. 14-15. 20-21 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -1860,7 +1860,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 33 (32), 12-13. 14-15. 20-21 (R: vgl. 12b)",
+      "cite": "Ps 33 (32), 12-13. 14-15. 20-21 (R.: vgl. 12b)",
       "role": "title"
      }
     ]
@@ -2601,7 +2601,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Feliz o povo que o Senhor escolheu por sua herança!."
+        "Feliz o povo que o Senhor escolheu por sua herança!"
        ]
       ]
      }
@@ -3536,7 +3536,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXII",
   "pt-BR": "Quarta-feira da 22ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 22nd Week: Wednesday",
+  "en-US": "Wednesday of the Twenty-Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 22ª semana",
   "it": "MERCOLEDI della XXII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 22e semaine",

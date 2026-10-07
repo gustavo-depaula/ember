@@ -3,52 +3,50 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 15(16), 1-2a y 5. 7-8. 11 (R.: cf. 5a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 15(16), 1-2a e 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "15, 1-2a and 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 15, 1-2a y 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 15 (16)",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R: vgl. 5a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R.: vgl. 5a)",
       "role": "title"
      }
     ]

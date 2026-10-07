@@ -25,7 +25,7 @@
        [
         {
          "m": "rubric",
-         "t": "Tamquam Missa votiva de Ss. ma Eucharistia adhiberi etiam potest  votiva de Domino nostro Iesu Christo summo et æterno Sacerdote vel"
+         "t": "Tamquam Missa votiva de Ss. ma Eucharistia adhiberi etiam potest Missa votiva de Domino nostro Iesu Christo summo et æterno Sacerdote vel"
         },
         " ",
         {
@@ -63,7 +63,7 @@
        [
         {
          "m": "rubric",
-         "t": "Como Missa votiva da Santíssima Eucaristia se pode celebrar também a  votiva de Nosso Senhor Jesus Cristo ou a"
+         "t": "Como Missa votiva da Santíssima Eucaristia se pode celebrar também a Missa votiva de Nosso Senhor Jesus Cristo ou a"
         },
         " ",
         {
@@ -101,7 +101,7 @@
        [
         {
          "m": "rubric",
-         "t": "as a votive Mass of the Most holy eucharist, the votive  of our Lord Jesus Christ, the Eternal High Priest may also be used; or the"
+         "t": "as a votive Mass of the Most holy eucharist, the votive Mass of our Lord Jesus Christ, the Eternal High Priest may also be used; or the"
         },
         " ",
         {
@@ -187,7 +187,7 @@
        [
         {
          "m": "rubric",
-         "t": "Comme messe votive de l'Eucharistie, on peut aussi employer la  votive de notre Seigneur Jésus Christ, éternel et souverain prêtre ou la"
+         "t": "Comme messe votive de l'Eucharistie, on peut aussi employer la messe votive de notre Seigneur Jésus Christ, éternel et souverain prêtre ou la"
         },
         " ",
         {
@@ -225,7 +225,7 @@
        [
         {
          "m": "rubric",
-         "t": "Als Votivmesse von der Hl. Eucharistie kann auch gefeiert werden die  von Jesus Christus, dem Ewigen Hohenpriester, oder die"
+         "t": "Als Votivmesse von der Hl. Eucharistie kann auch gefeiert werden die Votivmesse von Jesus Christus, dem Ewigen Hohenpriester, oder die"
         },
         " ",
         {
@@ -1201,8 +1201,8 @@
  ],
  "title": {
   "la": "5. DE SANCTISSIMA EUCHARISTIA",
-  "pt-BR": "5. SANTÍSSIMA EUCARISTIA",
-  "en-US": "5. THE MOST HOLY EUCHARIST",
+  "pt-BR": "5. Santíssima Eucaristia",
+  "en-US": "5. The Most Holy Eucharist",
   "es": "5. DE LA SANTÍSIMA EUCARISTÍA",
   "it": "5. DELLA SANTISSIMA EUCARISTIA",
   "fr": "5. SAINTE EUCHARISTIE",

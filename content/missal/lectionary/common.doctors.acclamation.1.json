@@ -3,3239 +3,14 @@
  "items": [
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": null,
-   "from": "common.doctors.first-reading.1"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
       "lines": [
        [
-        "Dedi tibi cor sapiens et intellegens."
+        "Alleluia"
        ]
       ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Léctio libri primi Regum"
-       ]
-      ],
-      "cite": "3, 11-14",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "In diébus illis:"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Dixit Deus Salomóni: «Quia postulásti verbum hoc et non petísti tibi dies multos nec divítias aut ánimam inimicórum tuórum, sed postulásti tibi sapiéntiam ad discernéndum iudícium, ecce feci tibi secúndum sermónes tuos et dedi tibi cor sápiens et intéllegens, in tantum ut nullus ante te símilis tui fúerit nec post te surrectúrus sit; sed et hæc, quæ non postulásti, dedi tibi, divítias scílicet et glóriam, ut nemo fúerit símilis tui in régibus cunctis diébus tuis. Si autem ambuláveris in viis meis et custodíeris præcépta mea et mandáta mea, sicut ambulávit David pater tuus, longos fáciam dies tuos»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Dou-te um coração sábio e inteligente."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Leitura do Primeiro Livro dos Reis"
-       ]
-      ],
-      "cite": "3, 11-14",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Naqueles dias, Deus disse a Salomão: \"Já que pediste estes dons e não pediste para ti longos anos de vida, nem riquezas, nem a morte de teus inimigos, mas sim sabedoria para praticar a justiça, vou satisfazer o teu pedido; dou-te um coração sábio e inteligente, como nunca houve outro igual antes de ti, nem haverá depois de ti. Mas dou-te também o que não pediste, tanta riqueza e tanta glória como jamais haverá entre os reis, durante toda a tua vida. E se andares nos meus caminhos e observares os meus preceitos e mandamentos, a exemplo de Davi, teu pai, eu te darei uma longa vida\"."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palavra do Senhor."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "A reading from the first Book of Kings"
-       ]
-      ],
-      "cite": "3:11-14",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The Lord said to Solomon: 'Since you have asked for this and not asked for long life for yourself or riches or the lives of your enemies, but have asked for a discerning judgment for yourself, here and now I do what you ask. I give you a heart wise and shrewd as none before you has had and none will have after you. What you have not asked I shall give you too: such riches and glory as no other king ever had. And I will give you a long life, if you follow my ways, keeping my laws and commandments, as your father David followed them.'"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The Word of the Lord."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Te concedo un corazón sabio e inteligente"
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Lectura del primer libro de los Reyes"
-       ]
-      ],
-      "cite": "3, 11-14",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "En aquellos días, dijo Dios a Salomón:"
-       ],
-       [
-        "«Por haberme pedido esto y no una vida larga o riquezas para ti, por no haberme pedido la vida de tus enemigos sino inteligencia para atender a la justicia, yo obraré según tu palabra:"
-       ],
-       [
-        "te concedo, pues, un corazón sabio e inteligente, como no ha habido antes de ti ni surgirá otro igual después de ti."
-       ],
-       [
-        "Te concedo también aquello que no has pedido, riquezas y gloria mayores que las de ningún otro rey mientras vivas."
-       ],
-       [
-        "Y si caminas por mis sendas, guardando mis preceptos y mandamientos, como hizo David, tu padre, prolongaré los días de tu vida»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palabra de Dios."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Ti concedo un cuore saggio e intelligente."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Dal primo libro dei Re"
-       ]
-      ],
-      "cite": "3, 11-14",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "In quei giorni, Dio disse a Salomone:"
-       ],
-       [
-        "«Poiché non hai domandato per te molti giorni, né hai domandato per te ricchezza, né hai domandato la vita dei tuoi nemici, ma hai domandato per te il discernimento nel giudicare, ecco, faccio secondo le tue parole."
-       ],
-       [
-        "Ti concedo un cuore saggio e intelligente: uno come te non ci fu prima di te né sorgerà dopo di te. Ti concedo anche quanto non hai domandato, cioè ricchezza e gloria, come a nessun altro fra i re, per tutta la tua vita."
-       ],
-       [
-        "Se poi camminerai nelle mie vie osservando le mie leggi e i miei comandi, come ha fatto Davide, tuo padre, prolungherò anche la tua vita»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parola di Dio."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Premier livre des Rois"
-       ]
-      ],
-      "cite": "3, 11-14",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "In diébus illis:"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Dixit Deus Salomóni: «Quia postulásti verbum hoc et non petísti tibi dies multos nec divítias aut ánimam inimicórum tuórum, sed postulásti tibi sapiéntiam ad discernéndum iudícium, ecce feci tibi secúndum sermónes tuos et dedi tibi cor sápiens et intéllegens, in tantum ut nullus ante te símilis tui fúerit nec post te surrectúrus sit; sed et hæc, quæ non postulásti, dedi tibi, divítias scílicet et glóriam, ut nemo fúerit símilis tui in régibus cunctis diébus tuis. Si autem ambuláveris in viis meis et custodíeris præcépta mea et mandáta mea, sicut ambulávit David pater tuus, longos fáciam dies tuos»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parole du Seigneur."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Lesung aus dem ersten Buch der Könige"
-       ]
-      ],
-      "cite": "3, 11-14",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "In jenen Tagen sprach Gott zu Sálomo:"
-       ],
-       [
-        "Weil du gerade diese Bitte ausgesprochen hast und nicht um langes Leben, Reichtum oder um den Tod deiner Feinde, sondern um Einsicht gebeten hast, um auf das Recht zu hören, werde ich deine Bitte erfüllen. Sieh, ich gebe dir ein so weises und verständiges Herz, dass keiner vor dir war und keiner nach dir kommen wird, der dir gleicht. Aber auch das, was du nicht erbeten hast, will ich dir geben: Reichtum und Ehre, so dass zu deinen Lebzeiten keiner unter den Königen dir gleicht. Wenn du auf meinen Wegen gehst, meine Gesetze und Gebote befolgst wie dein Vater David, dann schenke ich dir ein langes Leben."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Wort des lebendigen Gottes."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ]
-   },
-   "part": null,
-   "from": "common.doctors.first-reading.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Deo gratias."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Thanks be to God."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Te alabamos, Señor."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Rendiamo grazie a Dio."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Nous rendons grâce à Dieu."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Dank sei Gott."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.first-reading.1"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": null,
-   "from": "common.doctors.first-reading-easter.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Dominum eum et christum Deus fecit."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Léctio Actuum Apostolórum"
-       ]
-      ],
-      "cite": "2, 14a. 22-24. 32-36",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "[In die Pentecostes,] stans Petrus cum Undecim levávit vocem suam et locútus est: «Viri Israelítæ, audíte verba hæc: Iesum Nazarénum, virum approbátum a Deo apud vos virtútibus et prodígiis et signis, quæ fecit per illum Deus in médio vestri, sicut ipsi scitis, hunc definíto consílio et præsciéntia Dei tráditum per manum iniquórum affigéntes interemístis, quem Deus suscitávit, solútis dolóribus mortis, iuxta quod impossíbile erat téneri illum ab ea."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Hunc Iesum resuscitávit Deus, cuius omnes nos testes sumus. Déxtera ígitur Dei exaltátus, et promissióne Spíritus Sancti accépta a Patre, effúdit hunc, quem vos vidétis et audítis."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Non enim David ascéndit in cælos; dicit autem ipse: “Dixit Dóminus Dómino meo: Sede a dextris meis, donec ponam inimícos tuos scabéllum pedum tuórum ."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Certíssime ergo sciat omnis domus Israel quia et Dóminum eum et Christum Deus fecit, hunc Iesum, quem vos crucifixístis»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Deus constituiu Senhor e Cristo a este Jesus."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Leitura dos Atos dos Apóstolos"
-       ]
-      ],
-      "cite": "2, 14a. 22-24. 32-36",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "No dia de Pentecostes, Pedro de pé, junto com os onze apóstolos, levantou a voz e falou à multidão: \"Homens de Israel, escutai estas palavras: Jesus de Nazaré foi um homem aprovado por Deus, junto de vós, pêlos milagres, prodígios e sinais que Deus realizou, por meio dele, entre vós. Tudo isto vós bem o sabeis. Deus, em seu desígnio e previsão, determinou que Jesus fosse entregue pelas mãos dos ímpios, e vós o matastes, pregando-o numa cruz. Mas Deus ressuscitou a Jesus, libertando-o das angústias da morte, porque não era possível que ela o dominasse. Com efeito, Deus ressuscitou este mesmo Jesus e disto todos nós somos testemunhas. E agora, exaltado pela direita de Deus, Jesus recebeu o Espírito Santo que fora prometido pelo Pai e o derramou, como estais vendo e ouvindo. De fato, Davi, que não subiu ao céu, diz: 'Disse o Senhor ao meu Senhor: senta-te à minha direita, até que eu ponha teus inimigos como estrado para teus pés'. Portanto, que todo o povo de Israel reconheça com plena certeza: Deus constituiu Senhor e Cristo a este Jesus que vós crucificastes\"."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palavra do Senhor."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "A reading from the Acts of the Apostles"
-       ]
-      ],
-      "cite": "2, 14a. 22-24. 32-36",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Then Peter stood up with the Eleven, raised his voice, and proclaimed to them, “You who are Jews, indeed all of you staying in Jerusalem. Let this be known to you, and listen to my words."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "You who are Israelites, hear these words. Jesus the Nazorean was a man commended to you by God with mighty deeds, wonders, and signs, which God worked through him in your midst, as you yourselves know. This man, delivered up by the set plan and foreknowledge of God, you killed, using lawless men to crucify him. But God raised him up, releasing him from the throes of death, because it was impossible for him to be held by it."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "God raised this Jesus; of this we are all witnesses. Exalted at the right hand of God,* he received the promise of the holy Spirit from the Father and poured it forth, as you (both) see and hear. For David did not go up into heaven, but he himself said: ‘The Lord said to my Lord, “Sit at my right hand until I make your enemies your footstool.”' Therefore let the whole house of Israel know for certain that God has made him both Lord and Messiah, this Jesus whom you crucified.”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The Word of the Lord."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Dios lo ha constituido Señor y Mesías"
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Lectura del libro de los Hechos de los apóstoles"
-       ]
-      ],
-      "cite": "2, 14a. 22-24. 32-36",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "El día de Pentecostés Pedro, poniéndose en pie junto a los Once, levantó su voz y con toda solemnidad declaró:"
-       ],
-       [
-        "«Israelitas, escuchad estas palabras: a Jesús el Nazareno, varón acreditado por Dios ante vosotros con los milagros, prodigios y signos que Dios realizó por medio de él, como vosotros mismos sabéis, a este, entregado conforme al plan que Dios tenía establecido y previsto, lo matasteis, clavándolo a una cruz por manos de hombres inicuos. Pero Dios lo resucitó, librándolo de los dolores de la muerte, por cuanto no era posible que esta lo retuviera bajo su dominio."
-       ],
-       [
-        "A este Jesús lo resucitó Dios, de lo cual todos nosotros somos testigos."
-       ],
-       [
-        "Exaltado, pues, por la diestra de Dios y habiendo recibido del Padre la promesa del Espíritu Santo, lo ha derramado. Esto es lo que estáis viendo y oyendo."
-       ],
-       [
-        "Pues David no subió al cielo, y, sin embargo, él mismo dice:"
-       ],
-       [
-        "“Oráculo del Señor a mi Señor:"
-       ],
-       [
-        "‘Siéntate a mi derecha,"
-       ],
-       [
-        "y haré de tus enemigos estrado de tus pies'”."
-       ],
-       [
-        "Por lo tanto, con toda seguridad conozca toda la casa de Israel que al mismo Jesús, a quien vosotros crucificasteis, Dios lo ha constituido Señor y Mesías»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palabra de Dios."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Dio lo ha costituito Signore e Cristo."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Dagli Atti degli Apostoli"
-       ]
-      ],
-      "cite": "2, 14a. 22-24.32-36",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "[Nel giorno di Pentecoste, ] Pietro con gli Undici si alzò in piedi e a voce alta parlò così:"
-       ],
-       [
-        "«Uomini d'Israele, ascoltate queste parole: Gesù di Nazareth - uomo accreditato da Dio presso di voi per mezzo di miracoli, prodigi e segni, che Dio stesso fece tra voi per opera sua, come voi sapete bene -, consegnato a voi secondo il prestabilito disegno e la prescienza di Dio, voi, per mano di pagani, l'avete crocifisso e l'avete ucciso. Ora Dio lo ha risuscitato, Liberandolo dai dolori della morte, perché non era possibile che questa lo tenesse in suo potere."
-       ],
-       [
-        "Questo Gesù, Dio lo ha risuscitato e noi tutti ne siamo testimoni. Innalzato dunque alla destra di Dio e dopo aver ricevuto dal Padre lo Spirito Santo promesso, lo ha effuso, come voi stessi potete vedere e udire. Davide infatti non salì al cielo; tuttavia egli dice:"
-       ],
-       [
-        "\"Disse il Signore al mio Signore: siedi alla mia destra, finché io ponga i tuoi nemici come sgabello dei tuoi piedi\"."
-       ],
-       [
-        "Sappia dunque con certezza tutta la casa di Israele che Dio ha costituito Signore e Cristo quel Gesù che voi avete crocifisso»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parola di Dio."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Livre des Actes des Apôtres"
-       ]
-      ],
-      "cite": "2, 14a. 22-24. 32-36",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Le jour de la Pentecôte, Pierre, debout avec les onze autres Apôtres, éleva"
-       ],
-       [
-        "la voix et leur fit cette déclaration :"
-       ],
-       [
-        "\" Vous, Juifs, et vous tous qui résidez à Jérusalem, sachez bien ceci, prêtez l'oreille à mes paroles. Il s'agit de Jésus le Nazaréen, homme que Dieu a accrédité auprès de vous en accomplissant par lui des miracles, des prodiges et des signes au milieu de vous, comme vous le savez vous-mêmes. Cet homme, livré selon le dessein bien arrêté et la prescience de Dieu, vous l'avez supprimé en le clouant sur le bois par la main des impies. Mais Dieu l'a ressuscité en le délivrant des douleurs de la mort, car il n'était pas possible qu'elle le retienne en son pouvoir. En effet, c'est de lui que parle David dans le psaume : Je voyais le Seigneur devant moi sans relâche : il est à ma droite, je suis inébranlable. C'est pourquoi mon cœur est en fête, et ma langue exulte de joie ; ma chair elle-même reposera dans l'espérance : tu ne peux m'abandonner au séjour des morts ni laisser ton fidèle voir la corruption. Tu m'as appris des chemins de vie, tu me rempliras d'allégresse par ta présence. Frères, il est permis de vous dire avec assurance, au sujet du patriarche David, qu'il est mort, qu'il a été enseveli, et que son tombeau est encore aujourd'hui chez nous. Comme il était prophète, il savait que Dieu lui avait juré de faire asseoir sur son trône un homme issu de lui. Il a vu d'avance la résurrection du Christ, dont il a parlé ainsi : Il n'a pas été abandonné à la mort, et sa chair n'a pas vu la corruption. Ce Jésus, Dieu l'a ressuscité ; nous tous, nous en sommes témoins. Élevé par la droite de Dieu, il a reçu du Père l'Esprit Saint qui était promis, et il l'a répandu sur nous, ainsi que vous le voyez et l'entendez. \""
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parole du Seigneur."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Lesung aus der Apostelgeschichte"
-       ]
-      ],
-      "cite": "2, 14. 22-24. 32-36",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Am Pfingsttag trat Petrus auf, zusammen mit den Elf; er erhob seine Stimme und begann zu reden: Ihr Juden und alle Bewohner von Jerusalem! Dies sollt ihr wissen, achtet auf meine Worte!"
-       ],
-       [
-        "Jesus, den Nazoräer, den Gott vor euch beglaubigt hat durch machtvolle Taten, Wunder und Zeichen, die er durch ihn in eurer Mitte getan hat, wie ihr selbst wisst - ihn, der nach Gottes beschlossenem Willen und Vorauswissen hingegeben wurde, habt ihr durch die Hand von Gesetzlosen ans Kreuz geschlagen und umgebracht. Gott aber hat ihn von den Wehen des Todes befreit und auferweckt; denn es war unmöglich, dass er vom Tod festgehalten wurde."
-       ],
-       [
-        "Diesen Jesus hat Gott auferweckt, dafür sind wir alle Zeugen. Nachdem er durch die rechte Hand Gottes erhöht worden war und vom Vater den verheißenen Heiligen Geist empfangen hatte, hat er ihn ausgegossen, wie ihr seht und hört."
-       ],
-       [
-        "David ist nicht zum Himmel aufgestiegen; vielmehr sagt er selbst: Es sprach der Herr zu meinem Herrn: Setze dich mir zur Rechten, und ich lege dir deine Feinde als Schemel unter die Füße."
-       ],
-       [
-        "Mit Gewissheit erkenne also das ganze Haus Israel: Gott hat ihn zum Herrn und Messias gemacht, diesen Jesus, den ihr gekreuzigt habt."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Wort des lebendigen Gottes."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ]
-   },
-   "part": null,
-   "from": "common.doctors.first-reading-easter.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Deo gratias."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Thanks be to God."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Te alabamos, Señor."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Rendiamo grazie a Dio."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Nous rendons grâce à Dieu."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Dank sei Gott."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.first-reading-easter.1"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
-      "role": "title"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Sl 18(19B), 8. 9. 10. 11 (R.: Jo 6, 63c)",
-      "role": "title"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
-      "role": "title"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Sal 18, 8. 9. 10. 11 (R.: Jn 6, 63c)",
-      "role": "title"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
-      "role": "title"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R: 10b oder vgl. Joh 6, 63b)",
-      "role": "title"
-     }
-    ]
-   },
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Iudícia Dómini vera, iusta ómnia simul."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "vel: "
-        },
-        "Verba tua, Dómine Spíritus et vita sunt."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Os julgamentos do Senhor são corretos e justos igualmente."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Ou: "
-        },
-        "Senhor, tuas palavras são espírito, são vida!"
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "The judgments of the Lord are true, and all of them are just."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Or: "
-        },
-        " Your words, Lord, are spirit and life."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Los mandamientos del Señor son verdaderos y enteramente justos."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "O bien: "
-        },
-        "Tus palabras, Señor, son espíritu y vida"
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "I giudizi del Signore sono tutti giusti."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oppure: "
-        }
-       ],
-       [
-        "Le tue parole, Signore, sono spirito e vita."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Les décisions du Seigneur sont justes et vraiment équitables."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "ou: "
-        },
-        "Tes paroles, Seigneur, sont esprit et elles sont vie."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oder: "
-        },
-        "Deine Worte, Herr, sind Geist und Leben."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Lex Dómini immaculáta, refíciens ánimam,"
-       ],
-       [
-        "testimónium Dómini fidéle, sapiéntiam præstans párvulis."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "A lei do Senhor é perfeita, conforto para a alma! O testemunho do Senhor é fiel, sabedoria dos humildes."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The law of the Lord is perfect, it revives the soul. The rule of the Lord is to be trusted, it gives wisdom to the simple."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "La ley del Señor es perfecta"
-       ],
-       [
-        "y es descanso del alma;"
-       ],
-       [
-        "el precepto del Señor es fiel"
-       ],
-       [
-        "e instruye a los ignorantes."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "La legge del Signore è perfetta,"
-       ],
-       [
-        "rinfranca l'anima;"
-       ],
-       [
-        "la testimonianza del Signore è stabile,"
-       ],
-       [
-        "rende saggio il semplice."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "La loi du Seigneur est parfaite,"
-       ],
-       [
-        "qui redonne vie ; *"
-       ],
-       [
-        "la charte du Seigneur est sûre,"
-       ],
-       [
-        "qui rend sages les simples."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Die Weisung des Herrn ist vollkommen, sie erquickt den Menschen."
-       ],
-       [
-        "Das Gesetz des Herrn ist verlässlich, den Unwissenden macht es weise."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "verse",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Iudícia Dómini vera, iusta ómnia simul."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "vel: "
-        },
-        "Verba tua, Dómine Spíritus et vita sunt."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Os julgamentos do Senhor são corretos e justos igualmente."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Ou: "
-        },
-        "Senhor, tuas palavras são espírito, são vida!"
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "The judgments of the Lord are true, and all of them are just."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Or: "
-        },
-        " Your words, Lord, are spirit and life."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Los mandamientos del Señor son verdaderos y enteramente justos."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "O bien: "
-        },
-        "Tus palabras, Señor, son espíritu y vida"
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "I giudizi del Signore sono tutti giusti."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oppure: "
-        }
-       ],
-       [
-        "Le tue parole, Signore, sono spirito e vita."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Les décisions du Seigneur sont justes et vraiment équitables."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "ou: "
-        },
-        "Tes paroles, Seigneur, sont esprit et elles sont vie."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oder: "
-        },
-        "Deine Worte, Herr, sind Geist und Leben."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Iustítiæ Dómini rectæ, lætificántes corda,"
-       ],
-       [
-        "præcéptum Dómini lúcidum, illúminans óculos."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Os preceitos do Senhor são precisos, alegria ao coração. O mandamento do Senhor é brilhante, para os olhos é uma luz."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The precepts of the Lord are right, they gladden the heart. The command of the Lord is clear, it gives light to the eyes."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Los mandatos del Señor son rectos"
-       ],
-       [
-        "y alegran el corazón;"
-       ],
-       [
-        "la norma del Señor es límpida"
-       ],
-       [
-        "y da luz a los ojos."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "I precetti del Signore sono retti,"
-       ],
-       [
-        "fanno gioire il cuore;"
-       ],
-       [
-        "il comando del Signore è limpido,"
-       ],
-       [
-        "illumina gli occhi."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Les préceptes du Seigneur sont droits,"
-       ],
-       [
-        "ils réjouissent le cœur ; *"
-       ],
-       [
-        "le commandement du Seigneur est limpide,"
-       ],
-       [
-        "il clarifie le regard."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Die Befehle des Herrn sind richtig, sie erfreuen das Herz;"
-       ],
-       [
-        "das Gebot des Herrn ist lauter, es erleuchtet die Augen."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "verse",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Iudícia Dómini vera, iusta ómnia simul."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "vel: "
-        },
-        "Verba tua, Dómine Spíritus et vita sunt."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Os julgamentos do Senhor são corretos e justos igualmente."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Ou: "
-        },
-        "Senhor, tuas palavras são espírito, são vida!"
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "The judgments of the Lord are true, and all of them are just."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Or: "
-        },
-        " Your words, Lord, are spirit and life."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Los mandamientos del Señor son verdaderos y enteramente justos."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "O bien: "
-        },
-        "Tus palabras, Señor, son espíritu y vida"
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "I giudizi del Signore sono tutti giusti."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oppure: "
-        }
-       ],
-       [
-        "Le tue parole, Signore, sono spirito e vita."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Les décisions du Seigneur sont justes et vraiment équitables."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "ou: "
-        },
-        "Tes paroles, Seigneur, sont esprit et elles sont vie."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oder: "
-        },
-        "Deine Worte, Herr, sind Geist und Leben."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Timor Dómini mundus, pérmanens in sǽculum sǽculi,"
-       ],
-       [
-        "iudícia Dómini vera, iusta ómnia simul."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "É puro o temor do Senhor, imutável para sempre. Os julgamentos do Senhor são corretos e justos igualmente."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The fear of the Lord is holy, abiding for ever. The decrees of the Lord are truth and all of them just."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "El temor del Señor es puro"
-       ],
-       [
-        "y eternamente estable;"
-       ],
-       [
-        "los mandamientos del Señor son verdaderos"
-       ],
-       [
-        "y enteramente justos."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "II timore del Signore è puro,"
-       ],
-       [
-        "rimane per sempre;"
-       ],
-       [
-        "i giudizi del Signore sono fedeli,"
-       ],
-       [
-        "sono tutti giusti."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "La crainte qu'il inspire est pure,"
-       ],
-       [
-        "elle est là pour toujours ; *"
-       ],
-       [
-        "les décisions du Seigneur sont justes"
-       ],
-       [
-        "et vraiment équitables :"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Die Furcht des Herrn ist rein, sie besteht für immer."
-       ],
-       [
-        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "verse",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Iudícia Dómini vera, iusta ómnia simul."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "vel: "
-        },
-        "Verba tua, Dómine Spíritus et vita sunt."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Os julgamentos do Senhor são corretos e justos igualmente."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Ou: "
-        },
-        "Senhor, tuas palavras são espírito, são vida!"
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "The judgments of the Lord are true, and all of them are just."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Or: "
-        },
-        " Your words, Lord, are spirit and life."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Los mandamientos del Señor son verdaderos y enteramente justos."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "O bien: "
-        },
-        "Tus palabras, Señor, son espíritu y vida"
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "I giudizi del Signore sono tutti giusti."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oppure: "
-        }
-       ],
-       [
-        "Le tue parole, Signore, sono spirito e vita."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Les décisions du Seigneur sont justes et vraiment équitables."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "ou: "
-        },
-        "Tes paroles, Seigneur, sont esprit et elles sont vie."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oder: "
-        },
-        "Deine Worte, Herr, sind Geist und Leben."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Desiderabília super aurum et lápidem pretiósum multum,"
-       ],
-       [
-        "et dulcióra super mel et favum stillántem."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Mais desejáveis do que o ouro são eles, do que o ouro refinado. Suas palavras são mais doces que o mel, que o mel que sai dos favos."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "They are more to be desired than gold, than the purest of gold and sweeter are they than honey, than honey from the comb."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Más preciosos que el oro,"
-       ],
-       [
-        "más que el oro fino;"
-       ],
-       [
-        "más dulces que la miel de un panal que destila."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Più preziosi dell'oro,"
-       ],
-       [
-        "di molto oro fino,"
-       ],
-       [
-        "più dolci del miele"
-       ],
-       [
-        "e di un favo stillante."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "plus désirables que l'or,"
-       ],
-       [
-        "qu'une masse d'or fin, *"
-       ],
-       [
-        "plus savoureuses que le miel"
-       ],
-       [
-        "qui coule des rayons."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Sie sind kostbarer als Gold, als Feingold in Menge."
-       ],
-       [
-        "Sie sind süßer als Honig, als Honig aus Waben."
-       ],
-       [
-        "Auch dein Knecht lässt sich von ihnen warnen;"
-       ],
-       [
-        "wer sie beachtet, hat reichen Lohn."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "verse",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Iudícia Dómini vera, iusta ómnia simul."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "vel: "
-        },
-        "Verba tua, Dómine Spíritus et vita sunt."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Os julgamentos do Senhor são corretos e justos igualmente."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Ou: "
-        },
-        "Senhor, tuas palavras são espírito, são vida!"
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "The judgments of the Lord are true, and all of them are just."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Or: "
-        },
-        " Your words, Lord, are spirit and life."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Los mandamientos del Señor son verdaderos y enteramente justos."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "O bien: "
-        },
-        "Tus palabras, Señor, son espíritu y vida"
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "I giudizi del Signore sono tutti giusti."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oppure: "
-        }
-       ],
-       [
-        "Le tue parole, Signore, sono spirito e vita."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Les décisions du Seigneur sont justes et vraiment équitables."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "ou: "
-        },
-        "Tes paroles, Seigneur, sont esprit et elles sont vie."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Oder: "
-        },
-        "Deine Worte, Herr, sind Geist und Leben."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": null,
-   "from": "common.doctors.second-reading.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Placuit Deo per stultitiam prædicationis salvos facere credentes."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
-       ]
-      ],
-      "cite": "1, 18-25",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Fratres:"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum crucis pereúntibus quidem stultítia est; his autem, qui salvi fiunt, id est nobis, virtus Dei est."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Scriptum est enim: «Perdam sapiéntiam sapiéntium et prudéntiam prudéntium reprobábo». Ubi sápiens? Ubi scriba? Ubi conquisítor huius sǽculi? Nonne stultam fecit Deus sapiéntiam huius mundi?"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Nam quia in Dei sapiéntia non cognóvit mundus per sapiéntiam Deum, plácuit Deo per stultítiam prædicatiónis salvos fácere credéntes."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Quóniam et Iudæi signa petunt, et Græci sapiéntiam quærunt, nos autem prædicámus Christum crucifíxum, Iudæis quidem scándalum, géntibus autem stultítiam; ipsis autem vocátis, Iudæis atque Græcis, Christum Dei virtútem et Dei sapiéntiam; quia quod stultum est Dei, sapiéntius est homínibus, et, quod infírmum est Dei, fórtius est homínibus."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Deus houve por bem salvar os que crêem por meio da insensatez da pregação."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Leitura da primeira Carta de São Paulo aos Coríntios"
-       ]
-      ],
-      "cite": "1, 18-25",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Irmãos: A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: \"Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes\". Onde está o sábio? Onde o mestre da Lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria: por isso, Deus houve por bem salvar os que creem por meio da insensatez da pregação. Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palavra do Senhor."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "A reading from the first letter of St. Paul to the Corinthians"
-       ]
-      ],
-      "cite": "1:18-25",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The language of the cross may be illogical to those who are not on the way to salvation, but those of us who are on the way see it as God's power to save. As scripture says: I shall destroy the wisdom of the wise and bring to nothing all the learning of the learned. Where are the philosophers now? Where are the scribes? Where are any of our thinkers today? Do you see now how God has shown up the foolishness of human wisdom? If it was God's wisdom that human wisdom should not know God, it was because God wanted to save those who have faith through the foolishness of the message that we preach. And so, while the Jews demand miracles and the Greeks look for wisdom, here are we preaching a crucified Christ; to the Jews an obstacle that they cannot get over, to the pagans madness, but to those who have been called, whether they are Jews or Greeks, a Christ who is the power and the wisdom of God. For God's foolishness is wiser than human wisdom, and God's weakness is stronger than human strength."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The Word of the Lord."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Quiso Dios valerse de la necedad de la predicación para salvar a los que creen"
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
-       ]
-      ],
-      "cite": "1, 18-25",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Hermanos:"
-       ],
-       [
-        "El mensaje de la cruz es necedad para los que se pierden; pero para los que se salvan, para nosotros, es fuerza de Dios. Pues está escrito:"
-       ],
-       [
-        "«Destruiré la sabiduría de los sabios, frustraré la sagacidad de los sagaces»."
-       ],
-       [
-        "¿Dónde está el sabio? ¿Dónde está el docto? ¿Dónde está el sofista de este tiempo? ¿No ha convertido Dios en necedad la sabiduría del mundo?"
-       ],
-       [
-        "Y puesto que, en la sabiduría de Dios, el mundo no conoció a Dios por el camino de la sabiduría, quiso Dios valerse de la necedad de la predicación para salvar a los que creen."
-       ],
-       [
-        "Pues los judíos exigen signos, los griegos buscan sabiduría; pero nosotros predicamos a Cristo crucificado: escándalo para los judíos, necedad para los gentiles; pero para los llamados —judíos o griegos—, un Cristo que es fuerza de Dios y sabiduría de Dios."
-       ],
-       [
-        "Pues lo necio de Dios es más sabio que los hombres; y lo débil de Dios es más fuerte que los hombres."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palabra de Dios."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "È piaciuto a Dio salvare i credenti con la stoltezza della predicazione."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
-       ]
-      ],
-      "cite": "1, 18-25",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Fratelli, la parola della croce infatti è stoltezza per quelli che si perdono, ma per quelli che si salvano, ossia per noi, è potenza di Dio. Sta scritto infatti: «Distruggerò la sapienza dei sapienti e annullerò l'intelligenza degli intelligenti»."
-       ],
-       [
-        "Dov'è il sapiente? Dov'è il dotto? Dov'è il sottile ragionatore di questo mondo? Dio non ha forse dimostrato stolta la sapienza del mondo? Poiché infatti, nel disegno sapiente di Dio, il mondo, con tutta la sua sapienza, non ha conosciuto Dio, è piaciuto a Dio salvare i credenti con la stoltezza della predicazione."
-       ],
-       [
-        "Mentre i Giudei chiedono segni e i Greci cercano sapienza, noi invece annunciamo Cristo crocifisso: scandalo per i Giudei e stoltezza per i pagani; ma per coloro che sono chiamati, sia Giudei che Greci, Cristo è potenza di Dio e sapienza di Dio. Infatti ciò che è stoltezza di Dio è più sapiente degli uomini, e ciò che è debolezza di Dio è più forte degli uomini."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parola di Dio."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Première lettre de saint Paul Apôtre aux Corinthiens"
-       ]
-      ],
-      "cite": "1, 18-25",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Frères, le langage de la croix est folie pour ceux qui vont à leur perte, mais pour ceux qui vont vers leur salut, pour nous, il est puissance de Dieu. L'Écriture dit en effet : Je mènerai à sa perte la sagesse des sages, et l'intelligence des intelligents, je la rejetterai. Où est-il, le sage ? Où est-il, le scribe ? Où est-il, le raisonneur d'ici-bas ? La sagesse du monde, Dieu ne l'a-t-il pas rendue folle ? Puisque, en effet, par une disposition de la sagesse de Dieu, le monde, avec toute sa sagesse, n'a pas su reconnaître Dieu, il a plu à Dieu de sauver les croyants par cette folie qu'est la proclamation de l'Évangile."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alors que les Juifs réclament des signes miraculeux, et que les Grecs recherchent une sagesse, nous, nous proclamons un Messie crucifié, scandale pour les Juifs, folie pour les nations païennes. Mais pour ceux que Dieu appelle, qu'ils soient Juifs ou Grecs, ce Messie, ce Christ, est puissance de Dieu et sagesse de Dieu. Car ce qui est folie de Dieu est plus sage que les hommes, et ce qui est faiblesse de Dieu est plus fort que les hommes."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parole du Seigneur."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
-       ]
-      ],
-      "cite": "1, 18-25",
-      "role": "announcement"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Brüder!"
-       ],
-       [
-        "Das Wort vom Kreuz ist denen, die verlorengehen, Torheit; uns aber, die gerettet werden, ist es Gottes Kraft."
-       ],
-       [
-        "Es heißt nämlich in der Schrift: Ich lasse die Weisheit der Weisen vergehen und die Klugheit der Klugen verschwinden. Wo ist ein Weiser? Wo ein Schriftgelehrter? Wo ein Wortführer in dieser Welt? Hat Gott nicht die Weisheit der Welt als Torheit entlarvt?"
-       ],
-       [
-        "Denn da die Welt angesichts der Weisheit Gottes auf dem Weg ihrer Weisheit Gott nicht erkannte, beschloss Gott, alle, die glauben, durch die Torheit der Verkündigung zu retten."
-       ],
-       [
-        "Die Juden fordern Zeichen, die Griechen suchen Weisheit. Wir dagegen verkündigen Christus als den Gekreuzigten: für Juden ein empörendes Ärgernis, für Heiden eine Torheit, für die Berufenen aber, Juden wie Griechen, Christus, Gottes Kraft und Gottes Weisheit. Denn das Törichte an Gott ist weiser als die Menschen, und das Schwache an Gott ist stärker als die Menschen."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Wort des lebendigen Gottes."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ]
-   },
-   "part": null,
-   "from": "common.doctors.second-reading.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Deo gratias."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Thanks be to God."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Te alabamos, Señor."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Rendiamo grazie a Dio."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Nous rendons grâce à Dieu."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Dank sei Gott."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.second-reading.1"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": null,
-   "from": "common.doctors.gospel.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Vos estis lux mundi."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Léctio sancti Evangélii secúndum Matthǽum"
-       ]
-      ],
-      "cite": "5, 13-19",
-      "role": "announcement"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Vós sois a luz do mundo."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
-       ]
-      ],
-      "cite": "5, 13-19",
-      "role": "announcement"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " A reading from the holy Gospel according to Matthew"
-       ]
-      ],
-      "cite": "5:13-19",
-      "role": "announcement"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Vosotros sois la luz del mundo"
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Lectura del santo evangelio según san Mateo"
-       ]
-      ],
-      "cite": "5, 13-19",
-      "role": "announcement"
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Voi siete la luce del mondo"
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Dal Vangelo secondo Matteo"
-       ]
-      ],
-      "cite": "5, 13-19",
-      "role": "announcement"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Évangile de Jésus-Christ selon saint Matthieu"
-       ]
-      ],
-      "cite": "5, 13-19",
-      "role": "announcement"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Aus dem heiligen Evangelium nach Matthäus"
-       ]
-      ],
-      "cite": "5, 13-19",
-      "role": "announcement"
-     }
-    ]
-   },
-   "part": null,
-   "from": "common.doctors.gospel.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria tibi, Domine."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glória a vós, Senhor."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glory to you, O Lord."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria a ti, Señor."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria a te, o Signore."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloire à toi, Seigneur !"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Ehre sei dir, o Herr."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.gospel.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "In illo témpore: Dixit Iesus discípulis suis:"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "«Vos estis sal terræ; quod si sal evanúerit, in quo saliétur? Ad níhilum valet ultra, nisi ut mittátur foras et conculcétur ab homínibus. Vos estis lux mundi. Non potest cívitas abscóndi supra montem pósita; neque accéndunt lucérnam et ponunt eam sub módio, sed super candelábrum, ut lúceat ómnibus, qui in domo sunt. Sic lúceat lux vestra coram homínibus, ut vídeant vestra bona ópera et gloríficent Patrem vestrum, qui in cælis est. Nolíte putáre quóniam veni sólvere Legem aut Prophétas; non veni sólvere, sed adimplére. Amen quippe dico vobis: Donec tránseat cælum et terra, ióta unum aut unus apex non præteríbit a Lege, donec ómnia fiant. Qui ergo sólverit unum de mandátis istis mínimis et docúerit sic hómines, mínimus vocábitur in regno cælórum; qui autem fécerit et docúerit, hic magnus vocábitur in regno cælórum»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Naquele tempo, disse Jesus aos seus discípulos: \"Vós sois o sal da terra. Ora, se o sal se tornar insosso, com que salgaremos? Ele não servirá para mais nada, senão para ser jogado fora e ser pisado pelos homens. Vós sois a luz do mundo. Não pode ficar escondida uma cidade construída sobre um monte. Ninguém acende uma lâmpada e a coloca debaixo de uma vasilha, mas sim num candeeiro, onde ela brilha para todos os que estão em casa. Assim também brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e louvem o vosso Pai que está nos céus. Não penseis que vim abolir a Lei e os Profetas. Não vim para abolir, mas para dar-lhes pleno cumprimento. Em verdade, eu vos digo: antes que o céu e a terra deixem de existir, nem uma só letra ou vírgula serão tiradas da Lei, sem que tudo se cumpra. Portanto, quem desobedecer a um só destes mandamentos, por menor que seja, e ensinar os outros a fazerem o mesmo, será considerado o menor no Reino dos Céus. Porém, quem os praticar e ensinar será considerado grande no Reino dos Céus\"."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palavra da Salvação."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Jesus said to his disciples: 'You are the salt of the earth. But if salt becomes tasteless, what can make it salty again? It is good for nothing, and can only be thrown out to be trampled underfoot by men. 'You are the light of the world. A city built on a hill-top cannot be hidden. No one lights a lamp to put it under a tub; they put it on the lamp-stand where it shines for everyone in the house. In the same way your light must shine in the sight of men, so that, seeing your good works, they may give the praise to your Father in heaven. 'Do not imagine that I have come to abolish the Law or the Prophets. I have come not to abolish but to complete them. I tell you solemnly, till heaven and earth disappear, not one dot, not one little stroke, shall disappear from the Law until its purpose is achieved. Therefore, the man who infringes even one of the least of these commandments and teaches others to do the same will be considered the least in the kingdom of heaven; but the man who keeps them and teaches them will be considered great in the kingdom of heaven."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The Gospel of the Lord."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "En aquel tiempo, dijo Jesús a sus discípulos:"
-       ],
-       [
-        "«Vosotros sois la sal de la tierra. Pero si la sal se vuelve sosa, ¿con qué la salarán?"
-       ],
-       [
-        "No sirve más que para tirarla fuera y que la pise la gente. Vosotros sois la luz del mundo. No se puede ocultar una ciudad puesta en lo alto de un monte."
-       ],
-       [
-        "Tampoco se enciende una lámpara para meterla debajo del celemín, sino para ponerla en el candelero y que alumbre a todos los de casa."
-       ],
-       [
-        "Brille así vuestra luz ante los hombres, para que vean vuestras buenas obras y den gloria a vuestro Padre que está en los cielos."
-       ],
-       [
-        "No creáis que he venido a abolir la Ley y los Profetas: no he venido a abolir, sino a dar plenitud."
-       ],
-       [
-        "En verdad os digo que antes pasarán el cielo y la tierra que deje de cumplirse hasta la última letra o tilde de la ley."
-       ],
-       [
-        "El que se salte uno solo de los preceptos menos importantes y se lo enseñe así a los hombres será el menos importante en el reino de los cielos."
-       ],
-       [
-        "Pero quien los cumpla y enseñe será grande en el reino de los cielos»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palabra del Señor."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "In quel tempo, Gesù disse ai suoi discepoli:"
-       ],
-       [
-        "«Voi siete il sale della terra; ma se il sale perde il sapore, con che cosa lo si renderà salato? A null'altro serve che ad essere gettato via e calpestato dalla gente."
-       ],
-       [
-        "Voi siete la luce del mondo; non può restare nascosta una città che sta sopra un monte, né si accende una lampada per metterla sotto il moggio, ma sul candelabro, e così fa luce a tutti quelli che sono nella casa. Così risplenda la vostra luce davanti agli uomini, perché vedano le vostre opere buone e rendano gloria al Padre vostro che è nei cieli."
-       ],
-       [
-        "Non crediate che io sia venuto ad abolire la Legge o i Profeti; non sono venuto ad abolire, ma a dare pieno compimento. In verità io vi dico: finché non siano passati il cielo e la terra, non passerà un solo iota o un solo trattino della Legge, senza che tutto sia avvenuto."
-       ],
-       [
-        "Chi dunque trasgredirà uno solo di questi minimi precetti e insegnerà agli altri a fare altrettanto, sarà considerato minimo nel regno dei cieli. Chi invece li osserverà e li insegnerà, sarà considerato grande nel regno dei cieli»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parola del Signore."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "En ce temps-là, Jésus disait à ses disciples :"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "\" Vous êtes le sel de la terre. Mais si le sel devient fade, comment lui rendre de la saveur ? Il ne vaut plus rien : on le jette dehors et il est piétiné par les gens."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Vous êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée. Et l'on n'allume pas une lampe pour la mettre sous le boisseau ; on la met sur le lampadaire, et elle brille pour tous ceux qui sont dans la maison. De même, que votre lumière brille devant les hommes : alors, voyant ce que vous faites de bien, ils rendront gloire à votre Père qui est aux cieux."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Ne pensez pas que je sois venu abolir la Loi ou les Prophètes : je ne suis pas venu abolir, mais accomplir. Amen, je vous le dis : Avant que le ciel et la terre disparaissent, pas un seul iota, pas un seul trait ne disparaîtra de la Loi jusqu'à ce que tout se réalise. Donc, celui qui rejettera un seul de ces plus petits commandements, et qui enseignera aux hommes à faire ainsi, sera déclaré le plus petit dans le royaume des Cieux. Mais celui qui les observera et les enseignera, celui-là sera déclaré grand dans le royaume des Cieux. \""
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Acclamons la Parole de Dieu !"
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "In jener Zeit sprach Jesus zu seinen Jüngern:"
-       ],
-       [
-        "Ihr seid das Salz der Erde. Wenn das Salz seinen Geschmack verliert, womit kann man es wieder salzig machen? Es taugt zu nichts mehr; es wird weggeworfen und von den Leuten zertreten. Ihr seid das Licht der Welt. Eine Stadt, die auf einem Berg liegt, kann nicht verborgen bleiben. Man zündet auch nicht ein Licht an und stülpt ein Gefäß darüber, sondern man stellt es auf den Leuchter; dann leuchtet es allen im Haus. So soll euer Licht vor den Menschen leuchten, damit sie eure guten Werke sehen und euren Vater im Himmel preisen. Denkt nicht, ich sei gekommen, um das Gesetz und die Propheten aufzuheben. Ich bin nicht gekommen, um aufzuheben, sondern um zu erfüllen. Amen, das sage ich euch: Bis Himmel und Erde vergehen, wird auch nicht der kleinste Buchstabe des Gesetzes vergehen, bevor nicht alles geschehen ist. Wer auch nur eines von den kleinsten Geboten aufhebt und die Menschen entsprechend lehrt, der wird im Himmelreich der Kleinste sein. Wer sie aber hält und halten lehrt, der wird groß sein im Himmelreich."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelium unseres Herrn Jesus Christus."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ]
-   },
-   "part": null,
-   "from": "common.doctors.gospel.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Laus tibi, Christe."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glória a vós, Senhor."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Praise to you, Lord Jesus Christ."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria a ti, Señor Jesús."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Lode a te, o Cristo."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Louange à toi, Seigneur Jésus !"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Lob sei dir, Christus."
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "people",
-   "part": null,
-   "from": "common.doctors.gospel.1"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
       "cite": "Mt 5, 16",
       "role": "title"
      },
@@ -3276,7 +51,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 5, 16",
       "role": "title"
      },
@@ -3314,7 +93,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 5, 16",
       "role": "title"
      },
@@ -3336,7 +119,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 5, 16",
       "role": "title"
      },
@@ -3380,7 +167,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 5, 16",
       "role": "title"
      },
@@ -3402,7 +193,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 5, 16",
       "role": "title"
      },
@@ -3440,7 +235,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Mt 5, 16",
       "role": "title"
      },
@@ -3479,28 +278,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Mt 23, 9b. 10b",
       "role": "title"
      },
@@ -3541,7 +326,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 23,9b,10b",
       "role": "title"
      },
@@ -3579,7 +368,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 23, 9b. 10b",
       "role": "title"
      },
@@ -3601,7 +394,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 23, 9b. 10b",
       "role": "title"
      },
@@ -3642,7 +439,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 23, 9b.l0b",
       "role": "title"
      },
@@ -3664,7 +465,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 23, 9b. 10b",
       "role": "title"
      },
@@ -3702,7 +507,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Mt 23, 9b. 10b",
       "role": "title"
      },
@@ -3741,28 +550,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Cf. Io 6, 63c. 68c",
       "role": "title"
      },
@@ -3803,7 +598,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Cf. Jo 6, 63c. 68c",
       "role": "title"
      },
@@ -3841,7 +640,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Cf. Jn 6, 63c. 68c",
       "role": "title"
      },
@@ -3863,7 +666,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Cf. Jn 6, 63c. 68c",
       "role": "title"
      },
@@ -3904,7 +711,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. Gv 6, 63c-68c",
       "role": "title"
      },
@@ -3926,7 +737,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Cf. Io 6, 63c. 68c",
       "role": "title"
      },
@@ -3964,7 +779,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Joh 6, 63b. 68c",
       "role": "title"
      },
@@ -4003,28 +822,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 15, 5",
       "role": "title"
      },
@@ -4065,7 +870,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 15, 5",
       "role": "title"
      },
@@ -4103,7 +912,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 15, 5",
       "role": "title"
      },
@@ -4125,7 +938,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 15, 5",
       "role": "title"
      },
@@ -4169,7 +986,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 15, 5",
       "role": "title"
      },
@@ -4191,7 +1012,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 15, 5",
       "role": "title"
      },
@@ -4229,7 +1054,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 15, 5",
       "role": "title"
      },
@@ -4268,28 +1097,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Cf. Act 16, 14b",
       "role": "title"
      },
@@ -4330,7 +1145,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Cf. Atos 16, 14b",
       "role": "title"
      },
@@ -4368,7 +1187,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Cf. Act 16, 14b",
       "role": "title"
      },
@@ -4390,7 +1213,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Cf. Hch 16, 14b",
       "role": "title"
      },
@@ -4431,7 +1258,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. At 16, 14b",
       "role": "title"
      },
@@ -4453,7 +1284,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Cf. Act 16, 14b",
       "role": "title"
      },
@@ -4491,7 +1326,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Apg 16, 14b",
       "role": "title"
      },
@@ -4530,28 +1369,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "1 Cor 1, 18",
       "role": "title"
      },
@@ -4592,7 +1417,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "1 Cor 1, 18",
       "role": "title"
      },
@@ -4630,7 +1459,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "1 Cor 1, 18",
       "role": "title"
      },
@@ -4652,7 +1485,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "1 Cor 1, 18",
       "role": "title"
      },
@@ -4693,7 +1530,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "1 Cor 1, 18",
       "role": "title"
      },
@@ -4715,7 +1556,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "1 Cor 1, 18",
       "role": "title"
      },
@@ -4756,7 +1601,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "1 Kor 1, 18",
       "role": "title"
      },
@@ -4795,28 +1644,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "1 Cor 2, 7",
       "role": "title"
      },
@@ -4860,7 +1695,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "1 Cor 2, 7",
       "role": "title"
      },
@@ -4898,7 +1737,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "1 Cor 2, 7",
       "role": "title"
      },
@@ -4920,7 +1763,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "1 Cor 2, 7",
       "role": "title"
      },
@@ -4961,7 +1808,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "1 Cor 2, 7",
       "role": "title"
      },
@@ -4983,7 +1834,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "1 Cor 2, 7",
       "role": "title"
      },
@@ -5027,7 +1882,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "1 Kor 2, 7",
       "role": "title"
      },
@@ -5063,24 +1922,6 @@
      }
     ]
    }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
   },
   {
    "text": {

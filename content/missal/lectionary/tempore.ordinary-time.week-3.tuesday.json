@@ -698,7 +698,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 10. 11 (: cf. 8a et 9a)",
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 10. 11 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
@@ -710,7 +710,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 39 (40), 2 e 4ab.7-8a.10-11 (: cf. 8a.9a))",
+      "cite": "Sl 39 (40), 2 e 4ab.7-8a.10-11 (R.: cf. 8a.9a)",
       "role": "title"
      }
     ],
@@ -722,7 +722,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 10. 11 (: cf. 8a et 9a)",
+      "cite": "Ps 39, 2 and 4ab. 7-8a. 10. 11 (R.: cf. 8a and 9a)",
       "role": "title"
      }
     ],
@@ -734,7 +734,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 39, 2 et 4ab. 7-8a. 10. 11 (: cf. 8a et 9a)",
+      "cite": "Sal 39, 2 et 4ab. 7-8a. 10. 11 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
@@ -758,7 +758,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 10. 11 (: cf. 8a et 9a)",
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 10. 11 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
@@ -770,7 +770,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: 8a. 9a)",
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R.: 8a. 9a)",
       "role": "title"
      }
     ]
@@ -2374,7 +2374,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 23, 7. 8. 9. 10 (: cf. 10)",
+      "cite": "Ps 23, 7. 8. 9. 10 (R.: cf. 10)",
       "role": "title"
      }
     ],
@@ -2386,7 +2386,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 23 (24), 7.8.9.10 (: cf. 10)",
+      "cite": "Sl 23 (24), 7.8.9.10 (R.: cf. 10)",
       "role": "title"
      }
     ],
@@ -2398,7 +2398,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 23, 7. 8. 9. 10 (: cf. 10)",
+      "cite": "Ps 23, 7. 8. 9. 10 (R.: cf. 10)",
       "role": "title"
      }
     ],
@@ -2410,7 +2410,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 23, 7. 8. 9. 10 (: cf. 10)",
+      "cite": "Sal 23, 7. 8. 9. 10 (R.: cf. 10)",
       "role": "title"
      }
     ],
@@ -2434,7 +2434,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 23, 7. 8. 9. 10 (: cf. 10)",
+      "cite": "Ps 23, 7. 8. 9. 10 (R.: cf. 10)",
       "role": "title"
      }
     ],
@@ -2446,7 +2446,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 24 (23), 7-8. 9-10 (R: vgl. 10b)",
+      "cite": "Ps 24 (23), 7-8. 9-10 (R.: vgl. 10b)",
       "role": "title"
      }
     ]
@@ -4272,7 +4272,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. III",
   "pt-BR": "Terça-feira da 3ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 3rd Week: Tuesday",
+  "en-US": "Tuesday of the Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 3ª semana",
   "it": "MARTEDI della III settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 3e semaine",

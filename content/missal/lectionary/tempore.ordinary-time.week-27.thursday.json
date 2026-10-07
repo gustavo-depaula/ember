@@ -634,7 +634,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -646,7 +646,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 1, 1-2.3.4 e 6 (: 39, 5a)",
+      "cite": "Sl 1, 1-2.3.4 e 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -658,7 +658,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 and 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -670,7 +670,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Sal 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -694,7 +694,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -706,7 +706,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: vgl. Jer 17, 7)",
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R.: vgl. Jer 17, 7)",
       "role": "title"
      }
     ]
@@ -1002,7 +1002,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "É feliz quem a Deus se confia!."
+        "É feliz quem a Deus se confia!"
        ]
       ]
      }
@@ -1250,7 +1250,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "É feliz quem a Deus se confia!."
+        "É feliz quem a Deus se confia!"
        ]
       ]
      }
@@ -1486,7 +1486,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "É feliz quem a Deus se confia!."
+        "É feliz quem a Deus se confia!"
        ]
       ]
      }
@@ -2082,7 +2082,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Lc 1, 69-70. 71-72. 73-75 (: cf. 68)",
+      "cite": "Lc 1, 69-70. 71-72. 73-75 (R.: cf. 68)",
       "role": "title"
      }
     ],
@@ -2094,7 +2094,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Lc 1, 69-70.71-72.73-75 (: cf. 68)",
+      "cite": "Lc 1, 69-70.71-72.73-75 (R.: cf. 68)",
       "role": "title"
      }
     ],
@@ -2106,7 +2106,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Lc 1, 69-70. 71-72. 73-75 (: cf. 68)",
+      "cite": "Lk 1, 69-70. 71-72. 73-75 (R.: cf. 68)",
       "role": "title"
      }
     ],
@@ -2118,7 +2118,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Lc 1, 69-70. 71-72. 73-75 (: cf. 68)",
+      "cite": "Lc 1, 69-70. 71-72. 73-75 (R.: cf. 68)",
       "role": "title"
      }
     ],
@@ -2142,7 +2142,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Lc 1, 69-70. 71-72. 73-75 (: cf. 68)",
+      "cite": "Lc 1, 69-70. 71-72. 73-75 (R.: cf. 68)",
       "role": "title"
      }
     ],
@@ -2154,7 +2154,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Lk 1, 68-69. 70-71. 72-73. 74-75 (R: 68)",
+      "cite": "Lk 1, 68-69. 70-71. 72-73. 74-75 (R.: 68)",
       "role": "title"
      }
     ]
@@ -2554,7 +2554,7 @@
       "k": "p",
       "lines": [
        [
-        "A savior who would free us from our foes, from the hands of all who hate us.So his love for our fathers is fulfilled and his holy covenant remembered."
+        "A savior who would free us from our foes, from the hands of all who hate us. So his love for our fathers is fulfilled and his holy covenant remembered."
        ]
       ]
      }
@@ -2674,7 +2674,7 @@
         "Bendito seja o Senhor Deus de Israel,"
        ],
        [
-        "porque a seu povo visitou e libertou!."
+        "porque a seu povo visitou e libertou!"
        ]
       ]
      }
@@ -2931,7 +2931,7 @@
         "Bendito seja o Senhor Deus de Israel,"
        ],
        [
-        "porque a seu povo visitou e libertou!."
+        "porque a seu povo visitou e libertou!"
        ]
       ]
      }
@@ -3816,7 +3816,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXVII",
   "pt-BR": "Quinta-feira da 27ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 27th Week: Thursday",
+  "en-US": "Thursday of the Twenty-Seventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 27ª semana",
   "it": "Giovedì della XXVII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 27e semaine",

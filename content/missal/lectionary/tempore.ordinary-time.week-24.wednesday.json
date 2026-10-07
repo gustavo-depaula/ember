@@ -663,7 +663,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 110, 1-2. 3-4. 5-6 (: 2a)",
+      "cite": "Ps 110, 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 110 (111), 1-2.3-4.5-6 (: 2a)",
+      "cite": "Sl 110 (111), 1-2.3-4.5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 110, 1-2. 3-4. 5-6 (: 2a)",
+      "cite": "Ps 110, 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 110, 1-2. 3-4. 5-6 (: 2a)",
+      "cite": "Sal 110, 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 110, 1-2. 3-4. 5-6 (: 2a)",
+      "cite": "Ps 110, 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 111 (110), 1-2. 3-4. 5-6 (R: 2a)",
+      "cite": "Ps 111 (110), 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -2195,7 +2195,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 32, 2-3. 4-5. 12 et 22 (: cf. 12)",
+      "cite": "Ps 32, 2-3. 4-5. 12 et 22 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -2207,7 +2207,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 32 (33), 2-3.4-5.12 e 22 (: cf. 12b)",
+      "cite": "Sl 32 (33), 2-3.4-5.12 e 22 (R.: cf. 12b)",
       "role": "title"
      }
     ],
@@ -2219,7 +2219,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 32, 2-3. 4-5. 12 et 22 (: cf. 12)",
+      "cite": "Ps 32, 2-3. 4-5. 12 and 22 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -2231,7 +2231,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 32, 2-3. 4-5. 12 et 22 (: cf. 12)",
+      "cite": "Sal 32, 2-3. 4-5. 12 et 22 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -2255,7 +2255,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 32, 2-3. 4-5. 12 et 22 (: cf. 12)",
+      "cite": "Ps 32, 2-3. 4-5. 12 et 22 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -2267,7 +2267,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 33 (32), 2-3. 4-5. 12 u. 22 (R: vgl. 12b)",
+      "cite": "Ps 33 (32), 2-3. 4-5. 12 u. 22 (R.: vgl. 12b)",
       "role": "title"
      }
     ]
@@ -2415,7 +2415,7 @@
         "Cantai para o Senhor um canto novo,"
        ],
        [
-        "com arte sustentai a louvação!."
+        "com arte sustentai a louvação!"
        ]
       ]
      }
@@ -3911,7 +3911,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXIV",
   "pt-BR": "Quarta-feira da 24ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 24th Week: Wednesday",
+  "en-US": "Wednesday of the Twenty-Fourth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 24ª semana",
   "it": "MERCOLEDI della XXIV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 24e semaine",

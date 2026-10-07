@@ -329,7 +329,7 @@
       "k": "p",
       "lines": [
        [
-        "Sé fuerte,Josué, y valiente: tú has de introducir al pueblo en la tierra"
+        "Sé fuerte, Josué, y valiente: tú has de introducir al pueblo en la tierra"
        ]
       ],
       "role": "summary"
@@ -648,7 +648,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Deut 32, 3-4a. 7. 8. 9 et 12 (: 9a)",
+      "cite": "Deut 32, 3-4a. 7. 8. 9 et 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -660,7 +660,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dt 32, 3-4a.7.8.9 e 12 (: 9a)",
+      "cite": "Dt 32, 3-4a.7.8.9 e 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -672,7 +672,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Deut 32, 3-4a. 7. 8. 9 et 12 (: 9a)",
+      "cite": "Deut 32, 3-4a. 7. 8. 9 and 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -684,7 +684,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dt 32, 3-4a. 7. 8. 9 et 12 (: 9a)",
+      "cite": "Dt 32, 3-4a. 7. 8. 9 et 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -708,7 +708,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Deut 32, 3-4a. 7. 8. 9 et 12 (: 9a)",
+      "cite": "Deut 32, 3-4a. 7. 8. 9 et 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -720,7 +720,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Dtn 32, 3-4b. 7. 8. 9 u. 12 (R: 9a)",
+      "cite": "Dtn 32, 3-4b. 7. 8. 9 u. 12 (R.: 9a)",
       "role": "title"
      }
     ]
@@ -2323,7 +2323,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (: 103a)",
+      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (R.: 103a)",
       "role": "title"
      }
     ],
@@ -2335,7 +2335,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 14 e 24.72 e 103.111 e 131 (: 103)",
+      "cite": "Sl 118 (119), 14 e 24.72 e 103.111 e 131 (R.: 103)",
       "role": "title"
      }
     ],
@@ -2347,7 +2347,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (: 103a)",
+      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (R.: 103a)",
       "role": "title"
      }
     ],
@@ -2359,7 +2359,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 14. 24. 72. 103. 111. 131 (: 103a)",
+      "cite": "Sal 118, 14. 24. 72. 103. 111. 131 (R.: 103a)",
       "role": "title"
      }
     ],
@@ -2383,7 +2383,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (: 103a)",
+      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (R.: 103a)",
       "role": "title"
      }
     ],
@@ -2395,7 +2395,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 14 u. 24. 72 u. 103. 111 u. 131 (R: vgl. 103a)",
+      "cite": "Ps 119 (118), 14 u. 24. 72 u. 103. 111 u. 131 (R.: vgl. 103a)",
       "role": "title"
      }
     ]
@@ -3103,7 +3103,7 @@
         "Como é doce ao paladar vossa palavra,"
        ],
        [
-        "muito mais doce do que o mel na minha boca!."
+        "muito mais doce do que o mel na minha boca!"
        ]
       ]
      }
@@ -4499,7 +4499,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XIX",
   "pt-BR": "Terça-feira da 19ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 19th Week: Tuesday",
+  "en-US": "Tuesday of the Nineteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 19ª semana",
   "it": "MARTEDI della XIX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 19e semaine",

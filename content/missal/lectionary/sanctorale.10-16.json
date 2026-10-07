@@ -98,25 +98,6 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css1f14"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
@@ -125,7 +106,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -149,7 +130,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. la)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. la)",
       "role": "title"
      }
     ],
@@ -185,7 +166,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -197,7 +178,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R: vgl. 1a)",
+      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -991,46 +972,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "14"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.14"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1060,6 +1011,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe"
        ]
       ],
@@ -1085,6 +1045,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1097,6 +1066,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1126,6 +1104,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Chi fa la volontà di Dio, costui per me è fratello, sorella e madre."
        ]
       ],
@@ -1151,6 +1138,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1163,6 +1159,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1578,7 +1583,7 @@
  "title": {
   "la": "S. Hedvigis, religiosæ",
   "pt-BR": "Santa Edviges, religiosa",
-  "en-US": "St. Hedwig, religious",
+  "en-US": "Saint Hedwig, religious",
   "es": "Santa Eduvigis, religiosa",
   "it": "Santa Edvige, religiosa",
   "fr": "Sainte Edwige, religieuse",

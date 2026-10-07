@@ -666,7 +666,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ant. "
+         "t": "Ant."
         }
        ],
        [
@@ -695,7 +695,7 @@
        [
         {
          "m": "rubric",
-         "t": "Antífona "
+         "t": "Antífona"
         }
        ],
        [
@@ -718,7 +718,7 @@
        [
         {
          "m": "rubric",
-         "t": "ANTIFONA "
+         "t": "ANTIFONA"
         }
        ],
        [
@@ -764,7 +764,7 @@
        [
         {
          "m": "rubric",
-         "t": "Antiphon "
+         "t": "Antiphon"
         }
        ],
        [
@@ -1062,7 +1062,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, hos pálmites tua benedictióne sanctífica, ut nos, qui Christum Regem exsultándo proséquimur, per ipsum valeámus ad ætérnam Ierúsalem perveníre. Qui vivit et regnat in sǽcula sæculórum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1093,7 +1098,12 @@
          "t": "✠"
         },
         " estes ramos com a vossa bênção para que possamos chegar à eterna Jerusalém, seguindo com alegria o Cristo, nosso Rei. Que vive e reina pelos séculos dos séculos."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1130,7 +1140,12 @@
        ],
        [
         "that we, who follow Christ the King in exultation, may reach the eternal Jerusalem through him. Who lives and reigns for ever and ever."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1179,7 +1194,12 @@
        ],
        [
         "Él, que vive y reina por los siglos de los siglos."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1238,7 +1258,12 @@
        ],
        [
         "Egli vive e regna nei secoli dei secoli."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1276,7 +1301,12 @@
        ],
        [
         "Lui qui vit et règne pour les siècles des siècles."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1344,7 +1374,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -1357,7 +1387,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -1370,7 +1400,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1383,7 +1413,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -1396,7 +1426,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -1409,7 +1439,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -1422,7 +1452,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1439,7 +1469,12 @@
       "lines": [
        [
         "Auge fidem in te sperántium, Deus, et súpplicum preces cleménter exáudi, ut, qui hódie Christo triumphánti pálmites exhibémus, in ipso fructus tibi bonórum óperum afferámus. Qui vivit et regnat in sǽcula sæculórum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1459,7 +1494,12 @@
        ],
        [
         "Ó Deus de bondade, aumentai a fé dos que esperam em vós e ouvi as preces dos que vos suplicam; apresentando hoje ao Cristo vencedor os nossos ramos possamos nele frutificar em boas obras. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1485,7 +1525,12 @@
        ],
        [
         "may bear fruit for you by good works accomplished in him. Who lives and reigns for ever and ever."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1526,7 +1571,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1543,7 +1593,12 @@
       "lines": [
        [
         "Accresci, o Dio, la fede di chi spera in te e concedi a noi tuoi fedeli, che oggi innalziamo questi rami in onore di Cristo trionfante, di rimanere uniti a lui, per portare frutti di opere buone. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1578,7 +1633,12 @@
        ],
        [
         "Lui qui vit et règne pour les siècles des siècles."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1906,7 +1966,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2312,7 +2372,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
+        "Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
         {
          "m": "rubric",
          "t": ")"
@@ -2329,7 +2389,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
+        "Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
         {
          "m": "rubric",
          "t": ")"
@@ -2346,7 +2406,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
+        "Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
         {
          "m": "rubric",
          "t": ")"
@@ -2360,21 +2420,21 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
+        "Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
         {
          "m": "rubric",
          "t": ")"
         }
        ],
        [
-        "Dizei-nos: \"Quem é este Rei da glória\"? + \"É o Senhor, o valoroso, o onipotente, * o Senhor, o poderoso nas batalhas\"!."
+        "Dizei-nos: \"Quem é este Rei da glória\"? + \"É o Senhor, o valoroso, o onipotente, * o Senhor, o poderoso nas batalhas\"!"
        ],
        [
         {
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
+        "Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
         {
          "m": "rubric",
          "t": ")"
@@ -2388,7 +2448,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
+        "Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
         {
          "m": "rubric",
          "t": ")"
@@ -2402,7 +2462,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
+        "Os filhos dos Hebreus, com ramos de oliveira, foram ao encontro do Senhor, clamando: Hosana, hosana nas alturas!",
         {
          "m": "rubric",
          "t": ")"
@@ -3049,7 +3109,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
+        "Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
         {
          "m": "rubric",
          "t": ")"
@@ -3066,7 +3126,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
+        "Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
         {
          "m": "rubric",
          "t": ")"
@@ -3083,7 +3143,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
+        "Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
         {
          "m": "rubric",
          "t": ")"
@@ -3100,7 +3160,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
+        "Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
         {
          "m": "rubric",
          "t": ")"
@@ -3117,7 +3177,7 @@
          "m": "rubric",
          "t": "(Repete-se a antífona: "
         },
-        " Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
+        "Os filhos dos Hebreus no chão punham seus mantos. Hosana, eles clamavam, ao Filho de Davi! Bendito o que vem em nome do Senhor!",
         {
          "m": "rubric",
          "t": ")"
@@ -3769,7 +3829,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chorus: "
+         "t": "Chorus:"
         }
        ],
        [
@@ -3785,7 +3845,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chorus: "
+         "t": "Chorus:"
         }
        ],
        [
@@ -3801,7 +3861,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chorus: "
+         "t": "Chorus:"
         }
        ],
        [
@@ -3817,7 +3877,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chorus: "
+         "t": "Chorus:"
         }
        ],
        [
@@ -3833,7 +3893,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chorus: "
+         "t": "Chorus:"
         }
        ],
        [
@@ -3849,7 +3909,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chorus: "
+         "t": "Chorus:"
         }
        ],
        [
@@ -4368,7 +4428,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chor: "
+         "t": "Chor:"
         }
        ],
        [
@@ -4384,7 +4444,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chor: "
+         "t": "Chor:"
         }
        ],
        [
@@ -4400,7 +4460,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chor: "
+         "t": "Chor:"
         }
        ],
        [
@@ -4416,7 +4476,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chor: "
+         "t": "Chor:"
         }
        ],
        [
@@ -4432,7 +4492,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chor: "
+         "t": "Chor:"
         }
        ],
        [
@@ -4448,7 +4508,7 @@
        [
         {
          "m": "rubric",
-         "t": "Chor: "
+         "t": "Chor:"
         }
        ],
        [
@@ -4477,14 +4537,24 @@
          "m": "rubric",
          "t": "Intrante processione in ecclesiam, cantatur sequens responsorium, vel alius cantus, qui loquatur de ingressu Domini."
         }
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/."
         },
         " Ingrediénte Dómino in sanctam civitátem, Hebræórum púeri, resurrectiónem vitæ pronuntiántes, * Cum ramis palmárum: Hosánna, clamábant, in excélsis."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4504,7 +4574,12 @@
          "m": "rubric",
          "t": "Ao entrar na igreja, canta-se o responsório seguinte, ou outro canto que se refira à entrada do Senhor."
         }
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4514,14 +4589,24 @@
        ],
        [
         "* Com ramos de palmeiras, clamavam dizendo:"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/."
         },
         " Hosana, hosana nas alturas!"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4531,7 +4616,12 @@
        ],
        [
         "* Com ramos de palmeiras, clamavam dizendo:"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4578,7 +4668,12 @@
          "m": "rubric",
          "t": "Al entrar la procesión en la iglesia se canta el siguiente responsorio u otro cántico que haga alusión a la entrada del Señor:"
         }
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4597,14 +4692,24 @@
        ],
        [
         "«Hosanna en el cielo»."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Hosanna en el cielo."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4623,7 +4728,12 @@
        ],
        [
         "«Hosanna en el cielo»."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4643,14 +4753,24 @@
          "m": "rubric",
          "t": "Mentre la processione entra in chiesa, si canta il seguente responsorio o un altro canto che si riferisca all'ingresso del Signore:"
         }
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Mentre il Cristo entrava nella città santa, la folla degli Ebrei, preannunciando la risurrezione del Signore della vita, * agitava rami di palma e acclamava: Osanna nell'alto dei cieli."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4670,7 +4790,12 @@
          "m": "rubric",
          "t": "À l'entrée de la procession dans l'église, on chante le répons suivant ou un autre chant semblable évoquant l'entrée du Seigneur :"
         }
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4686,7 +4811,12 @@
        ],
        [
         "Hosanna au plus haut des cieux !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5012,7 +5142,7 @@
        [
         {
          "m": "rubric",
-         "t": " Il dit alors la Prière d'ouverture de la messe, qui se poursuit comme d'habitude."
+         "t": "Il dit alors la Prière d'ouverture de la messe, qui se poursuit comme d'habitude."
         }
        ]
       ]
@@ -8223,8 +8353,8 @@
  ],
  "title": {
   "la": "HEBDOMADA SANCTA — DOMINICA IN PALMIS DE PASSIONE DOMINI",
-  "pt-BR": "SEMANA SANTA — DOMINGO DE RAMOS DA PAIXÃO DO SENHOR",
-  "en-US": "Holy Week — Palm Sunday of the Lord's Passion",
+  "pt-BR": "Domingo de Ramos da Paixão do Senhor",
+  "en-US": "Palm Sunday of the Passion of the Lord",
   "es": "SEMANA SANTA — DOMINGO DE RAMOS EN LA PASIÓN DEL SEÑOR",
   "it": "SETTIMANA SANTA — DOMENICA DELLE PALME — E DELLA PASSIONE DEL SIGNORE",
   "fr": "Semaine Sainte — DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR",

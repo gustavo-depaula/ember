@@ -616,38 +616,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.6"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (: 1a)",
+      ],
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 102(103), 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
@@ -655,15 +643,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (: 1a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
@@ -671,7 +667,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 102 (103)",
       "role": "title"
      }
@@ -679,16 +679,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (: 1a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 13-14. 17-18a (R: 1a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ]
@@ -2697,7 +2705,7 @@
  "title": {
   "la": "S. Ioannis Bosco, presbyteri",
   "pt-BR": "São João Bosco, presbítero",
-  "en-US": "St. John Bosco, priest",
+  "en-US": "Saint John Bosco, priest",
   "es": "San Juan Bosco, presbítero",
   "it": "San Giovanni Bosco, sacerdote",
   "fr": "Saint Jean Bosco, prêtre",

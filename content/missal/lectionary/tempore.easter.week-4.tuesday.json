@@ -577,7 +577,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 86, 1-3. 4-5. 6- 7 (R/.: Sal 116, 1a)",
+      "cite": "Ps 86, 1-3. 4-5. 6- 7 (R.: Sal 116, 1a)",
       "role": "title"
      }
     ],
@@ -589,7 +589,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 86 (87), 1-3.4-5.6-7 (R/.:Salmo 116, 1a)",
+      "cite": "Sl 86 (87), 1-3.4-5.6-7 (R.: Salmo 116, 1a)",
       "role": "title"
      }
     ],
@@ -612,7 +612,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 86, 1-3. 4-5. 6- 7 (R/.: Sal 116, 1a)",
+      "cite": "Sal 86, 1-3. 4-5. 6- 7 (R.: Sal 116, 1a)",
       "role": "title"
      }
     ],
@@ -636,7 +636,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 86, 1-3. 4-5. 6- 7 (R/.: Sal 116, 1a)",
+      "cite": "Ps 86, 1-3. 4-5. 6- 7 (R.: Sal 116, 1a)",
       "role": "title"
      }
     ],
@@ -648,7 +648,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 87 (86), 2-3. 4. 5 u. 7 (R: Ps 117 [116], 1)",
+      "cite": "Ps 87 (86), 2-3. 4. 5 u. 7 (R.: Ps 117 [116], 1)",
       "role": "title"
      }
     ]
@@ -2531,8 +2531,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada IV — Feria III",
-  "pt-BR": "Tempo da Páscoa — 4ª Semana — Terça-feira",
-  "en-US": "Easter Season — Fourth Week — Tuesday",
+  "pt-BR": "Terça-feira da 4ª Semana da Páscoa",
+  "en-US": "Tuesday of the Fourth Week of Easter",
   "es": "Tiempo de Pascua — Semana IV — Martes",
   "it": "MARTEDI della IV settimana di Pasqua",
   "fr": "Temps pascal — 4e semaine — Mardi",

@@ -664,7 +664,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -676,7 +676,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 30 (31), 3cd-4.6 e 8ab.16b-17 (: 6a)",
+      "cite": "Sl 30 (31), 3cd-4.6 e 8ab.16b-17 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -688,7 +688,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "cite": "Ps 30, 3cd-4. 6 and 8ab. 16bc and 17 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -724,7 +724,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -736,7 +736,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R: vgl. 6a)",
+      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R.: vgl. 6a)",
       "role": "title"
      }
     ]
@@ -1582,7 +1582,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Sal 117, 26a y 27a",
+      "cite": "Sl 117, 26a e 27a",
       "role": "title"
      },
      {
@@ -2353,8 +2353,8 @@
  ],
  "title": {
   "la": "S. STEPHANI, PROTOMARTYRIS",
-  "pt-BR": "São Estêvão, primeiro mártir",
-  "en-US": "ST. STEPHEN, FIRST MARTYR",
+  "pt-BR": "Santo Estêvão, Protomártir",
+  "en-US": "Saint Stephen, the First Martyr",
   "es": "SAN ESTEBAN, PROTOMÁRTIR",
   "it": "SANTO STEFANO, PRIMO MARTIRE",
   "fr": "SAINT ÉTIENNE, PREMIER MARTYR",

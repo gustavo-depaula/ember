@@ -3,28 +3,14 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Sal 121, 1-2. 3-4. 8-9 (R.: cf. 1)",
       "role": "title"
      }
@@ -32,7 +18,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 121(122), 1-2. 3-4. 8-9 (R.: cf. 1)",
       "role": "title"
      }
@@ -40,7 +30,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
       "cite": "Ps 121, 1-2. 3-4. 8-9 (R.: cf. 1)",
       "role": "title"
      }
@@ -48,7 +42,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 121, 1-2. 3-4. 8-9 (R.: cf. 1)",
       "role": "title"
      }
@@ -68,7 +66,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
       "cite": "Sal 121, 1-2. 3-4. 8-9 (R.: cf. 1)",
       "role": "title"
      }
@@ -76,8 +78,12 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 122 (121), 1-3. 4-5. 6-7. 8-9 (R: 1b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 122 (121), 1-3. 4-5. 6-7. 8-9 (R.: 1b)",
       "role": "title"
      }
     ]

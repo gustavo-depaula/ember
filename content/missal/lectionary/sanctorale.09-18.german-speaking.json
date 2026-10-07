@@ -31,57 +31,26 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cp1f9"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.2"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 22(23), 1-3. 4. 5. 6 (R.: 1)",
       "role": "title"
      }
@@ -89,15 +58,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 22, 1-3. 4. 5. 6 (R.: 1)",
       "role": "title"
      }
@@ -105,7 +82,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 22 (23)",
       "role": "title"
      }
@@ -113,16 +94,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R: 1)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ]
@@ -1146,46 +1135,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cpaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.10"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1215,6 +1174,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "O Bom Pastor dá a vida por suas ovelhas."
        ]
       ],
@@ -1240,6 +1208,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1252,6 +1229,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1281,6 +1267,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "II buon pastore dà la propria vita per le pecore."
        ]
       ],
@@ -1306,6 +1301,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1318,6 +1322,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1457,7 +1470,7 @@
       "k": "p",
       "lines": [
        [
-        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — ​et lupus rapit eas et dispérgit — ​quia mercennárius est et non pértinet ad eum de óvibus."
+        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — et lupus rapit eas et dispérgit — quia mercennárius est et non pértinet ad eum de óvibus."
        ]
       ]
      },

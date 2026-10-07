@@ -667,7 +667,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ier 31, 10. 11-12ab. 13 (: cf. 10d)",
+      "cite": "Ier 31, 10. 11-12ab. 13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -679,7 +679,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Jr 31, 10.11-12ab.13 (:cf. 10d))",
+      "cite": "Jr 31, 10.11-12ab.13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -691,7 +691,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Jr 31, 10. 11-12ab. 13 (: cf. 10d)",
+      "cite": "Jr 31, 10. 11-12ab. 13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -703,7 +703,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Jer 31, 10. 11-12ab. 13 (: cf. 10d)",
+      "cite": "Jer 31, 10. 11-12ab. 13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -727,7 +727,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ier 31, 10. 11-12ab. 13 (: cf. 10d)",
+      "cite": "Ier 31, 10. 11-12ab. 13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -739,7 +739,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Jer 31, 10. 11-12b. 13 (R: vgl. 10d)",
+      "cite": "Jer 31, 10. 11-12b. 13 (R.: vgl. 10d)",
       "role": "title"
      }
     ]
@@ -2254,7 +2254,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2266,7 +2266,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 89 (90), 3-4.5-6.12-13.14 e 17 (: 1))",
+      "cite": "Sl 89 (90), 3-4.5-6.12-13.14 e 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2278,7 +2278,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 and 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2290,7 +2290,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Sal 89, 3-4. 5-6. 12-13. 14 et 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2314,7 +2314,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2326,7 +2326,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 90 (89), 3-4. 5-6. 12-13. 14 u. 17 (R: vgl. 1)",
+      "cite": "Ps 90 (89), 3-4. 5-6. 12-13. 14 u. 17 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -3446,7 +3446,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Cf. 2 Tim 1, 10",
+      "cite": "Cf. 2 Tm 1, 10",
       "role": "title"
      },
      {
@@ -4197,7 +4197,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XXV",
   "pt-BR": "Sábado da 25ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 25th Week: Saturday",
+  "en-US": "Saturday of the Twenty-Fifth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 25ª semana",
   "it": "Sabato della XXV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 25e semaine",

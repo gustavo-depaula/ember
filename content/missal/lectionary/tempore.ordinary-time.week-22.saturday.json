@@ -602,7 +602,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 53, 3-4. 6 et 8 (: 6a)",
+      "cite": "Ps 53, 3-4. 6 et 8 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -614,7 +614,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 53 (54), 3-4.6 e 8 (: 6a)",
+      "cite": "Sl 53 (54), 3-4.6 e 8 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -626,7 +626,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "53, 3-4. 6 et 8 (: 6a)",
+      "cite": "53, 3-4. 6 and 8 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -638,7 +638,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 53, 3-4. 6 et 8 (: 6a)",
+      "cite": "Sal 53, 3-4. 6 et 8 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -662,7 +662,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 53, 3-4. 6 et 8 (: 6a)",
+      "cite": "Ps 53, 3-4. 6 et 8 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -674,7 +674,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 54 (53), 3-4. 6 u. 8 (R: 6)",
+      "cite": "Ps 54 (53), 3-4. 6 u. 8 (R.: 6)",
       "role": "title"
      }
     ]
@@ -1814,7 +1814,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 17-18. 19-20. 21 (: 18a)",
+      "cite": "Ps 144, 17-18. 19-20. 21 (R.: 18a)",
       "role": "title"
      }
     ],
@@ -1826,7 +1826,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 17-18.19-20.21 (: 18a)",
+      "cite": "Sl 144 (145), 17-18.19-20.21 (R.: 18a)",
       "role": "title"
      }
     ],
@@ -1838,7 +1838,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "144, 17-18. 19-20. 21 (: 18a)",
+      "cite": "144, 17-18. 19-20. 21 (R.: 18a)",
       "role": "title"
      }
     ],
@@ -1850,7 +1850,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 17-18. 19-20. 21 (: 18a)",
+      "cite": "Sal 144, 17-18. 19-20. 21 (R.: 18a)",
       "role": "title"
      }
     ],
@@ -1874,7 +1874,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 17-18. 19-20. 21 (: 18a)",
+      "cite": "Ps 144, 17-18. 19-20. 21 (R.: 18a)",
       "role": "title"
      }
     ],
@@ -1886,7 +1886,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 17-18. 14 u. 19. 20-21 (R: vgl. 18a)",
+      "cite": "Ps 145 (144), 17-18. 14 u. 19. 20-21 (R.: vgl. 18a)",
       "role": "title"
      }
     ]
@@ -2612,7 +2612,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "O Senhor está perto de quem o invoca!."
+        "O Senhor está perto de quem o invoca!"
        ]
       ]
      }
@@ -3514,7 +3514,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XXII",
   "pt-BR": "Sábado da 22ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 22nd Week: Saturday",
+  "en-US": "Saturday of the Twenty-Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 22ª semana",
   "it": "Sabato della XXII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 22e semaine",

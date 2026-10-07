@@ -584,7 +584,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 117, 1 et 8-9. 19-21. 25-27a (: 26a)",
+      "cite": "Ps 117, 1 et 8-9. 19-21. 25-27a (R.: 26a)",
       "role": "title"
      }
     ],
@@ -608,7 +608,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 117, 1 et 8-9. 19-21. 25-27a (: 26a)",
+      "cite": "Ps 117, 1 and 8-9. 19-21. 25-27a (R.: 26a)",
       "role": "title"
      }
     ],
@@ -620,7 +620,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 117, 1 et 8-9. 19-21. 25-27a (: 26a)",
+      "cite": "Sal 117, 1 et 8-9. 19-21. 25-27a (R.: 26a)",
       "role": "title"
      }
     ],
@@ -644,7 +644,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 117, 1 et 8-9. 19-21. 25-27a (: 26a)",
+      "cite": "Ps 117, 1 et 8-9. 19-21. 25-27a (R.: 26a)",
       "role": "title"
      }
     ],
@@ -656,7 +656,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 118 (117), 1-2. 8-9. 19-20. 25-27a (R: 26a)",
+      "cite": "Ps 118 (117), 1-2. 8-9. 19-20. 25-27a (R.: 26a)",
       "role": "title"
      }
     ]
@@ -716,7 +716,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1015,7 +1015,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1064,7 +1064,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Béni soit au nom du Seigneur celui qui vient !"
+        "Béni soit au nom du Seigneur celui qui vient !"
        ],
        [
         {
@@ -1305,7 +1305,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1354,7 +1354,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Béni soit au nom du Seigneur celui qui vient !."
+        "Béni soit au nom du Seigneur celui qui vient !"
        ],
        [
         {
@@ -1604,7 +1604,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1653,7 +1653,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Béni soit au nom du Seigneur celui qui vient !"
+        "Béni soit au nom du Seigneur celui qui vient !"
        ],
        [
         {
@@ -2491,8 +2491,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada I — Feria quinta",
-  "pt-BR": "Quinta-feira",
-  "en-US": "Advent Season — 1st Week: Thursday",
+  "pt-BR": "Quinta-feira da 1ª Semana do Advento",
+  "en-US": "Thursday of the First Week of Advent",
   "es": "Tiempo de Adviento — Jueves de la I Semana",
   "it": "GIOVEDI della I settimana di Avvento",
   "fr": "Temps de l'Avent — 1e semaine — Jeudi",

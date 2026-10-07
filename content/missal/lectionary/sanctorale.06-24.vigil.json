@@ -726,7 +726,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: 6b)",
+      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -738,7 +738,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 70 (71), 1-2.3-4a.5-6ab.15ab e 17 (: 6b)",
+      "cite": "Sl 70 (71), 1-2.3-4a.5-6ab.15ab e 17 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -750,7 +750,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: 6b)",
+      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab and 17 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -786,7 +786,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: 6b)",
+      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -798,7 +798,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 71 (70), 5-6. 7-8. 15 u. 17 (R: vgl. 6ab)",
+      "cite": "Ps 71 (70), 5-6. 7-8. 15 u. 17 (R.: vgl. 6ab)",
       "role": "title"
      }
     ]
@@ -3119,8 +3119,8 @@
  ],
  "title": {
   "la": "IN NATIVITATE S. IOANNIS BAPTISTÆ",
-  "pt-BR": "NATIVIDADE DE SÃO JOÃO BATISTA",
-  "en-US": "THE BIRTH OF JOHN THE BAPTIST",
+  "pt-BR": "Natividade de São João Batista",
+  "en-US": "The Nativity of Saint John the Baptist",
   "es": "LA NATIVIDAD DE SAN JUAN BAUTISTA",
   "it": "NATIVITÀ DI SAN GIOVANNI BATTISTA",
   "fr": "NATIVITÉ DE SAINT JEAN BAPTISTE",

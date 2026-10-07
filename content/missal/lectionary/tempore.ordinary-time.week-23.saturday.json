@@ -234,7 +234,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Lectura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -622,7 +622,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 112, 1-2. 3-4. 5a et 6-7 (: cf. 2)",
+      "cite": "Ps 112, 1-2. 3-4. 5a et 6-7 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -634,7 +634,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 112 (113), 1-2.3-4.5a e 6-7 (: cf. 2)",
+      "cite": "Sl 112 (113), 1-2.3-4.5a e 6-7 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -646,7 +646,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 112, 1-2. 3-4. 5a et 6-7 (: cf. 2)",
+      "cite": "Ps 112, 1-2. 3-4. 5a and 6-7 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -658,7 +658,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 112, 1-2. 3-4. 5a et 6-7 (: cf. 2)",
+      "cite": "Sal 112, 1-2. 3-4. 5a et 6-7 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -682,7 +682,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 112, 1-2. 3-4. 5a et 6-7 (: cf. 2)",
+      "cite": "Ps 112, 1-2. 3-4. 5a et 6-7 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -694,7 +694,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 113 (112), 1-2. 3-4. 5a u. 6-7 (R: 2)",
+      "cite": "Ps 113 (112), 1-2. 3-4. 5a u. 6-7 (R.: 2)",
       "role": "title"
      }
     ]
@@ -2215,7 +2215,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 115, 12-13. 17-18 (: 17a)",
+      "cite": "Ps 115, 12-13. 17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -2227,7 +2227,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 115 (116), 12-13.17-18 (: 17a)",
+      "cite": "Sl 115 (116), 12-13.17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -2239,7 +2239,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 115, 12-13. 17-18 (: 17a)",
+      "cite": "Ps 115, 12-13. 17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -2251,7 +2251,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 115, 12-13. 17-18 (: 17a)",
+      "cite": "Sal 115, 12-13. 17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -2275,7 +2275,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 115, 12-13. 17-18 (: 17a)",
+      "cite": "Ps 115, 12-13. 17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -2287,7 +2287,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 116 (115), 12-13. 17-18 (R: vgl. 17a)",
+      "cite": "Ps 116 (115), 12-13. 17-18 (R.: vgl. 17a)",
       "role": "title"
      }
     ]
@@ -3694,7 +3694,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XXIII",
   "pt-BR": "Sábado da 23ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 23rd Week: Saturday",
+  "en-US": "Saturday of the Twenty-Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 23ª semana",
   "it": "Sabato della XXIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 23e semaine",

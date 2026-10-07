@@ -1412,7 +1412,7 @@
        [
         {
          "m": "rubric",
-         "t": "Sacerdos, manibus extensis, dicit: "
+         "t": "Sacerdos, manibus extensis, dicit:"
         }
        ]
       ]
@@ -1425,7 +1425,7 @@
        [
         {
          "m": "rubric",
-         "t": "O sacerdote, de braços abertos, diz: "
+         "t": "O sacerdote, de braços abertos, diz:"
         }
        ]
       ]
@@ -1477,7 +1477,7 @@
        [
         {
          "m": "rubric",
-         "t": "Le prêtre dit, les mains étendues : "
+         "t": "Le prêtre dit, les mains étendues :"
         }
        ]
       ]
@@ -1491,24 +1491,6 @@
         {
          "m": "rubric",
          "t": "Der Priester breitet die Hände aus und spricht:"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CP-"
         }
        ]
       ]
@@ -2298,19 +2280,6 @@
        ],
        [
         "und heilige sie,"
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CC-"
-        }
        ]
       ]
      }
@@ -3440,7 +3409,7 @@
        [
         {
          "m": "rubric",
-         "t": "Postea prosequitur: "
+         "t": "Postea prosequitur:"
         }
        ]
       ]
@@ -3505,7 +3474,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ensuite il continue : "
+         "t": "Ensuite il continue :"
         }
        ]
       ]
@@ -4236,7 +4205,7 @@
        [
         {
          "m": "rubric",
-         "t": "Deinde dicit:  Vel:  Vel: "
+         "t": "Deinde dicit:"
         }
        ]
       ]
@@ -4249,7 +4218,7 @@
        [
         {
          "m": "rubric",
-         "t": "Em seguida, diz:  Ou:  Ou: "
+         "t": "Em seguida, diz:"
         }
        ]
       ]
@@ -4275,7 +4244,7 @@
        [
         {
          "m": "rubric",
-         "t": "Luego dice una de las siguientes fórmulas: "
+         "t": "Luego dice una de las siguientes fórmulas:"
         }
        ]
       ]
@@ -4288,7 +4257,7 @@
        [
         {
          "m": "rubric",
-         "t": "Quindi, il sacerdote canta o dice: Oppure:  Oppure: "
+         "t": "Quindi, il sacerdote canta o dice:"
         }
        ]
       ]
@@ -4301,7 +4270,7 @@
        [
         {
          "m": "rubric",
-         "t": "Puis il introduit une des acclamations suivantes :  Ou bien :  Ou bien : "
+         "t": "Puis il introduit une des acclamations suivantes : Ou bien : Ou bien :"
         }
        ]
       ]
@@ -4315,19 +4284,6 @@
         {
          "m": "rubric",
          "t": "Dann spricht oder singt er (oder der Diakon):"
-        }
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CP-"
         }
        ]
       ]
@@ -4490,19 +4446,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -4619,6 +4562,102 @@
     ]
    },
    "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -4757,19 +4796,6 @@
         {
          "m": "rubric",
          "t": "Die Gemeinde:"
-        }
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
         }
        ]
       ]
@@ -4917,6 +4943,102 @@
       "lines": [
        [
         {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
          "m": "dropCap",
          "t": "M"
         },
@@ -5050,19 +5172,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -5183,7 +5292,7 @@
        [
         {
          "m": "rubric",
-         "t": "Deinde sacerdos, extensis manibus, dicit: "
+         "t": "Deinde sacerdos, extensis manibus, dicit:"
         }
        ]
       ]
@@ -5196,7 +5305,7 @@
        [
         {
          "m": "rubric",
-         "t": "O sacerdote, de braços abertos, diz: "
+         "t": "O sacerdote, de braços abertos, diz:"
         }
        ]
       ]
@@ -5497,19 +5606,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CC-"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -5660,24 +5756,6 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-C1-"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
@@ -5701,7 +5779,7 @@
         "et Epíscopo nostro ",
         {
          "m": "rubric",
-         "t": "N. *"
+         "t": "N."
         }
        ],
        [
@@ -5737,14 +5815,14 @@
         "em comunhão com o Papa ",
         {
          "m": "rubric",
-         "t": "N. "
+         "t": "N."
         }
        ],
        [
         "com o nosso Bispo ",
         {
          "m": "rubric",
-         "t": "N. *"
+         "t": "N."
         }
        ],
        [
@@ -5854,7 +5932,7 @@
        [
         {
          "m": "rubric",
-         "t": "En los , cuando no hay otro recuerdo más propio, puede decirse:"
+         "t": "En los, cuando no hay otro recuerdo más propio, puede decirse:"
         }
        ]
       ]
@@ -5863,10 +5941,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         "y reunida aquí en el domingo,"
        ],
        [
@@ -5892,10 +5966,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "A"
@@ -5926,10 +5996,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "A"
         },
@@ -5952,7 +6018,7 @@
        [
         {
          "m": "rubric",
-         "t": "Desde la misa de la al segundo domingo de Pascua:"
+         "t": "Desde la misa de la Vigilia pascual al segundo domingo de Pascua:"
         }
        ]
       ]
@@ -5961,10 +6027,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "A"
@@ -5995,10 +6057,6 @@
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "* "
-        },
-        {
          "m": "dropCap",
          "t": "A"
         },
@@ -6027,10 +6085,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         {
          "m": "dropCap",
          "t": "A"
@@ -6141,10 +6195,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         "e qui convocata"
        ],
        [
@@ -6173,10 +6223,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         "e qui convocata"
        ],
        [
@@ -6201,10 +6247,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         "e qui convocata"
        ],
        [
@@ -6222,10 +6264,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         "e qui convocata"
        ],
        [
@@ -6252,10 +6290,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "* "
-        },
         "e qui convocata"
        ],
        [
@@ -6403,7 +6437,7 @@
         "unserem Bischof ",
         {
          "m": "rubric",
-         "t": "N.*"
+         "t": "N."
         },
         " und allen Bischöfen,"
        ],
@@ -6445,7 +6479,7 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
@@ -6463,7 +6497,7 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
@@ -6481,15 +6515,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Gedenke auch jener, die an diesem Osterfest"
        ],
        [
@@ -6508,7 +6538,7 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
@@ -6526,15 +6556,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Gedenke, o Herr, der Neugetauften"
        ],
        [
@@ -6562,7 +6588,7 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
@@ -6580,15 +6606,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Gedenke auch jener,"
        ],
        [
@@ -6629,7 +6651,7 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
@@ -6647,15 +6669,11 @@
   },
   {
    "text": {
-    "*": [
+    "de": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Gedenke auch der Neuvermählten ",
         {
          "m": "rubric",
@@ -6718,7 +6736,7 @@
        [
         {
          "m": "rubric",
-         "t": "In Missis pro defunctis addi potest: "
+         "t": "In Missis pro defunctis addi potest:"
         }
        ]
       ]
@@ -6793,7 +6811,7 @@
        [
         {
          "m": "rubric",
-         "t": "Nas Missas pelos fiéis defuntos: "
+         "t": "Nas Missas pelos fiéis defuntos:"
         }
        ]
       ]
@@ -6812,7 +6830,7 @@
          "m": "rubric",
          "t": ") N."
         },
-        " ,"
+        ","
        ],
        [
         "que ",
@@ -7032,7 +7050,7 @@
        [
         {
          "m": "rubric",
-         "t": "Aux messes pour les défunts, on peut ajouter "
+         "t": "Aux messes pour les défunts, on peut ajouter"
         }
        ]
       ]
@@ -7174,7 +7192,7 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
@@ -7192,14 +7210,14 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
        [
         {
          "m": "rubric",
-         "t": "En las Misas de , de su octava y en el bautismo de adultos:"
+         "t": "En las Misas de, de su octava y en el bautismo de adultos:"
         }
        ]
       ]
@@ -7210,15 +7228,11 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Acuérdate también de nuestros hermanos ",
         {
          "m": "rubric",
@@ -7227,7 +7241,7 @@
         " y ",
         {
          "m": "rubric",
-         "t": "N.] "
+         "t": "N.]"
         }
        ],
        [
@@ -7255,14 +7269,14 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
        [
         {
          "m": "rubric",
-         "t": "En la misa del  de niños:"
+         "t": "En la misa del de niños:"
         }
        ]
       ]
@@ -7273,15 +7287,11 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Acuérdate también de nuestros hermanos ",
         {
          "m": "rubric",
@@ -7320,7 +7330,7 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
@@ -7338,15 +7348,11 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Acuérdate también de tus hijos ",
         {
          "m": "rubric",
@@ -7355,7 +7361,7 @@
         " y ",
         {
          "m": "rubric",
-         "t": "N.] "
+         "t": "N.]"
         }
        ],
        [
@@ -7377,7 +7383,7 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
@@ -7395,15 +7401,11 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Acuérdate de tus hijos ",
         {
          "m": "rubric",
@@ -7412,7 +7414,7 @@
         " y ",
         {
          "m": "rubric",
-         "t": "N.] "
+         "t": "N.]"
         }
        ],
        [
@@ -7437,7 +7439,7 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
@@ -7455,15 +7457,11 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "** "
-        },
         "Acuérdate de tus hijos ",
         {
          "m": "rubric",
@@ -7472,7 +7470,7 @@
         " y ",
         {
          "m": "rubric",
-         "t": "N. "
+         "t": "N."
         }
        ],
        [
@@ -7715,19 +7713,6 @@
        ],
        [
         "von Angesicht zu Angesicht."
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-C2-"
-        }
        ]
       ]
      }
@@ -8082,7 +8067,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ergue a patena com a hóstia e o cálice, dizendo: "
+         "t": "Ergue a patena com a hóstia e o cálice, dizendo:"
         }
        ]
       ]
@@ -8342,19 +8327,6 @@
        ],
        [
         "jetzt und in Ewigkeit."
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "-CP / CC-"
-        }
        ]
       ]
      }

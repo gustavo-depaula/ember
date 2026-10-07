@@ -788,7 +788,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (: 59b)",
+      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -800,7 +800,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dn 3, 68.69.70.71.72.73.74 (: 59b)",
+      "cite": "Dn 3, 68.69.70.71.72.73.74 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -812,7 +812,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (: 59b)",
+      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -824,7 +824,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (: 59b)",
+      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -848,7 +848,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (: 59b)",
+      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -860,7 +860,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R: 68b)",
+      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R.: 68b)",
       "role": "title"
      }
     ]
@@ -1360,7 +1360,7 @@
       "k": "p",
       "lines": [
        [
-        "Gelos e neves, bendizei o Senhor!."
+        "Gelos e neves, bendizei o Senhor!"
        ]
       ]
      }
@@ -1545,7 +1545,7 @@
       "k": "p",
       "lines": [
        [
-        "Noites e dias, bendizei o Senhor!."
+        "Noites e dias, bendizei o Senhor!"
        ]
       ]
      }
@@ -2948,7 +2948,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (: 59b)",
+      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -2960,7 +2960,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 99 (100),2.3.4.5 (R;Ap 19.9a)",
+      "cite": "Sl 99 (100),2.3.4.5 (R.: ;Ap 19.9a)",
       "role": "title"
      }
     ],
@@ -2972,7 +2972,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (: 59b)",
+      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -2984,7 +2984,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (: 59b)",
+      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -3008,7 +3008,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (: 59b)",
+      "cite": "Dan 3, 68. 69. 70. 71. 72. 73. 74 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -3020,7 +3020,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 100 (99), 2-3. 4-5 (R: vgl. Offb 19, 9a)",
+      "cite": "Ps 100 (99), 2-3. 4-5 (R.: vgl. Offb 19, 9a)",
       "role": "title"
      }
     ]
@@ -4843,7 +4843,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXXIV",
   "pt-BR": "Quinta-feira da 34ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 34th Week: Thursday",
+  "en-US": "Thursday of the Thirty-Fourth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 34ª semana",
   "it": "GIOVEDI della XXXIV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 34e semaine",

@@ -1003,7 +1003,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
@@ -1015,7 +1015,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), 1-2a.2b-3.7-8a.10 (: 3)",
+      "cite": "Sl 95 (96), 1-2a.2b-3.7-8a.10 (R.: 3)",
       "role": "title"
      }
     ],
@@ -1027,7 +1027,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
@@ -1039,7 +1039,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
@@ -1063,7 +1063,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
@@ -1075,7 +1075,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 1-2. 3 u. 7. 8 u. 10 (R: vgl. 3a)",
+      "cite": "Ps 96 (95), 1-2. 3 u. 7. 8 u. 10 (R.: vgl. 3a)",
       "role": "title"
      }
     ]
@@ -2228,27 +2228,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.8"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2278,6 +2267,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A messe é grande, mas os trabalhadores são poucos."
        ]
       ],
@@ -2303,6 +2301,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2315,6 +2322,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2344,6 +2360,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "La messe è abbondante, ma sono pochi gli operai."
        ]
       ],
@@ -2369,6 +2394,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2381,6 +2415,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2812,7 +2855,7 @@
  ],
  "title": {
   "la": "Ss. Timothei et Titi, episcoporum",
-  "pt-BR": "São Timóteo e São Tito, bispos",
+  "pt-BR": "Santos Timóteo e Tito, bispos",
   "en-US": "Ss. Timothy and Titus, bishops",
   "es": "San Timoteo y san Tito, obispos",
   "it": "Santi Timoteo e Tito, vescovi",

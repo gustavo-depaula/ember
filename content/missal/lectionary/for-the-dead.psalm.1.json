@@ -3,44 +3,38 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1 vel 4)",
+      ],
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1 vel 4)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 22, 1-3. 4. 5. 6 (R.: 1; o bien: 4ab)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 22, 1-3. 4. 5. 6 (R.: 1; ou: 4ab)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
       "cite": "Ps 22.R v.1",
       "role": "title"
      }
@@ -48,7 +42,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 22, 1-3. 4. 5. 6 (R.: 1; o bien: 4ab)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 22",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1 vel 4)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1 vel 4)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R: 1 oder 4abc)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R.: 1 oder 4abc)",
       "role": "title"
      }
     ]
@@ -221,7 +231,7 @@
         "não me falta coisa alguma. Pelos prados e campinas verdejantes"
        ],
        [
-        "ele me leva a descansar.Para as águas repousantes me encaminha,"
+        "ele me leva a descansar. Para as águas repousantes me encaminha,"
        ],
        [
         "e restaura as minhas forças."
@@ -472,7 +482,7 @@
         "nenhum mal eu temerei. Estais comigo com bastão e com cajado,"
        ],
        [
-        "eles me dão a segurança! ."
+        "eles me dão a segurança!."
        ]
       ]
      }
@@ -708,7 +718,7 @@
         "Preparais à minha frente uma mesa,"
        ],
        [
-        "bem à vista do inimigo;com óleo vós ungis minha cabeça,"
+        "bem à vista do inimigo; com óleo vós ungis minha cabeça,"
        ],
        [
         "e o meu cálice transborda."
@@ -944,7 +954,7 @@
         "Felicidade e todo bem hão de seguir-me,"
        ],
        [
-        "por toda a minha vida;e, na casa do Senhor, habitarei"
+        "por toda a minha vida; e, na casa do Senhor, habitarei"
        ],
        [
         "pelos tempos infinitos."

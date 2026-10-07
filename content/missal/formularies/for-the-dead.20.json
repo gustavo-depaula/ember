@@ -600,7 +600,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ],
        [
@@ -694,7 +694,7 @@
       "k": "p",
       "lines": [
        [
-        "Múnera, Dómine, quǽsumus, quæ pro animárum famulórum tuórum réquie offérimus, placátus inténde, ut, per hæc salútis humánæ subsídia, tuórum número redemptórum sorte perpétua censeántur.Per Christum."
+        "Múnera, Dómine, quǽsumus, quæ pro animárum famulórum tuórum réquie offérimus, placátus inténde, ut, per hæc salútis humánæ subsídia, tuórum número redemptórum sorte perpétua censeántur. Per Christum."
        ]
       ]
      }
@@ -1140,7 +1140,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ],
        [
@@ -1162,8 +1162,8 @@
  ],
  "title": {
   "la": "III. IN VARIIS COMMEMORATIONIBUS",
-  "pt-BR": "III. PARA DIVERSAS COMEMORAÇÕES",
-  "en-US": "III. VARIOUS COMMEMORATIONS",
+  "pt-BR": "III. Para Diversas Comemorações",
+  "en-US": "III. Various Commemorations",
   "es": "III. EN DIVERSAS CONMEMORACIONES",
   "it": "III. PER DIVERSE COMMEMORAZIONI",
   "fr": "III. POUR DIVERSES COMMÉMORATIONS",

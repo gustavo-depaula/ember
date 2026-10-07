@@ -259,7 +259,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Lectura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -697,7 +697,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 85, 3-4. 5-6. 9-10 (: 15b)",
+      "cite": "Ps 85, 3-4. 5-6. 9-10 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -709,7 +709,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 85 (86), 3-4.5-6.9-10 (: 15b)",
+      "cite": "Sl 85 (86), 3-4.5-6.9-10 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -721,7 +721,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 85, 3-4. 5-6. 9-10 (: 15b)",
+      "cite": "Ps 85, 3-4. 5-6. 9-10 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -733,7 +733,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 85, 3-4. 5-6. 9-10 (: 15b)",
+      "cite": "Sal 85, 3-4. 5-6. 9-10 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -757,7 +757,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 85, 3-4. 5-6. 9-10 (: 15b)",
+      "cite": "Ps 85, 3-4. 5-6. 9-10 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -769,7 +769,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 86 (85), 3-4. 5-6. 9-10 (R: vgl. 15b)",
+      "cite": "Ps 86 (85), 3-4. 5-6. 9-10 (R.: vgl. 15b)",
       "role": "title"
      }
     ]
@@ -1725,7 +1725,7 @@
       "k": "p",
       "lines": [
        [
-        "Sed e contra, cum vidíssent quod créditum est mihi Evangélium præpútii, sicut Petro circumcisiónis — ​qui enim operátus est Petro in apostolátum circumcisiónis, operátus est et mihi inter gentes — ​et cum cognovíssent grátiam, quæ data est mihi, Iacóbus et Cephas et Ioánnes, qui videbántur colúmnæ esse, déxteras dedérunt mihi et Bárnabæ communiónis, ut nos in gentes, ipsi autem in circumcisiónem; tantum ut páuperum mémores essémus, quod étiam sollícitus fui hoc ipsum fácere."
+        "Sed e contra, cum vidíssent quod créditum est mihi Evangélium præpútii, sicut Petro circumcisiónis — qui enim operátus est Petro in apostolátum circumcisiónis, operátus est et mihi inter gentes — et cum cognovíssent grátiam, quæ data est mihi, Iacóbus et Cephas et Ioánnes, qui videbántur colúmnæ esse, déxteras dedérunt mihi et Bárnabæ communiónis, ut nos in gentes, ipsi autem in circumcisiónem; tantum ut páuperum mémores essémus, quod étiam sollícitus fui hoc ipsum fácere."
        ]
       ]
      },
@@ -2182,7 +2182,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -2194,7 +2194,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 116 (117), 1.2 (: Mc 16, 15)",
+      "cite": "Sl 116 (117), 1.2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -2206,7 +2206,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mk 16, 15)",
       "role": "title"
      }
     ],
@@ -2218,7 +2218,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Sal 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -2242,7 +2242,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -2254,7 +2254,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 117 (116), 1. 2 (R: vgl. Mk 16, 15)",
+      "cite": "Ps 117 (116), 1. 2 (R.: vgl. Mk 16, 15)",
       "role": "title"
      }
     ]
@@ -2806,7 +2806,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Rom 8, 15bc",
+      "cite": "Rm 8, 15bc",
       "role": "title"
      },
      {
@@ -3609,7 +3609,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXVII",
   "pt-BR": "Quarta-feira da 27ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 27th Week: Wednesday",
+  "en-US": "Wednesday of the Twenty-Seventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 27ª semana",
   "it": "Mercoledì della XXVII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 27e semaine",

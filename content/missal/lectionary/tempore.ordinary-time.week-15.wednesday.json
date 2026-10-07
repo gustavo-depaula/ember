@@ -726,7 +726,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 6-7 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -738,7 +738,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 1-2.3-4.6-7 (R. 8a)",
+      "cite": "Sl 102 (103), 1-2.3-4.6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -750,7 +750,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 6-7 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -762,7 +762,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 102, 1-2. 3-4. 6-7 (: 8a)",
+      "cite": "Sal 102, 1-2. 3-4. 6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -786,7 +786,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 6-7 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -798,7 +798,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 1-2. 3-4. 6-7 (R: vgl. 8a)",
+      "cite": "Ps 103 (102), 1-2. 3-4. 6-7 (R.: vgl. 8a)",
       "role": "title"
      }
     ]
@@ -943,7 +943,7 @@
         "e todo o meu ser, seu santo nome! Bendize, ó minha alma, ao Senhor,"
        ],
        [
-        "não te esqueças de nenhum de seus favores!."
+        "não te esqueças de nenhum de seus favores!"
        ]
       ]
      }
@@ -2315,7 +2315,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 93, 5-6. 7-8. 9-10. 14-15 (: 14a)",
+      "cite": "Ps 93, 5-6. 7-8. 9-10. 14-15 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -2327,7 +2327,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 93 (94), 5-6.7-8.9-10.14-15 (: 14a)",
+      "cite": "Sl 93 (94), 5-6.7-8.9-10.14-15 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -2339,7 +2339,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 93, 5-6. 7-8. 9-10. 14-15 (: 14a)",
+      "cite": "Ps 93, 5-6. 7-8. 9-10. 14-15 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -2351,7 +2351,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 93, 5-6. 7-8. 9-10. 14-15 (: 14a)",
+      "cite": "Sal 93, 5-6. 7-8. 9-10. 14-15 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -2375,7 +2375,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 93, 5-6. 7-8. 9-10. 14-15 (: 14a)",
+      "cite": "Ps 93, 5-6. 7-8. 9-10. 14-15 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -2387,7 +2387,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 94 (93), 5-6. 7-8. 9-10. 14-15 (R: vgl. 14a)",
+      "cite": "Ps 94 (93), 5-6. 7-8. 9-10. 14-15 (R.: vgl. 14a)",
       "role": "title"
      }
     ]
@@ -3478,7 +3478,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Graças te dou, ó Pai, Sehor do céu e da terra, pois, revelaste: os mistérios do teu Reino reino aos pequeninos, escondendo-os, aos doutores!."
+        "Graças te dou, ó Pai, Sehor do céu e da terra, pois, revelaste: os mistérios do teu Reino reino aos pequeninos, escondendo-os, aos doutores!"
        ],
        [
         "Aleluia."
@@ -4225,7 +4225,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XV",
   "pt-BR": "Quarta-feira da 15ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 15th Week: Wednesday",
+  "en-US": "Wednesday of the Fifteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 15ª semana",
   "it": "MERCOLEDI della XV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 15e semaine",

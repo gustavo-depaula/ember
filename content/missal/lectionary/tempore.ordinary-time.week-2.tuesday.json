@@ -651,7 +651,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 110, 1-2. 4-5. 9 et 10c (: 5b)",
+      "cite": "Ps 110, 1-2. 4-5. 9 et 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 110 (111), 1-2.4-5.9 e 10c (: 5b)",
+      "cite": "Sl 110 (111), 1-2.4-5.9 e 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 110, 1-2. 4-5. 9 et 10c (: 5b)",
+      "cite": "Ps 110, 1-2. 4-5. 9 and 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 110, 1-2. 4-5. 9 et 10c (: 5b)",
+      "cite": "Sal 110, 1-2. 4-5. 9 et 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 110, 1-2. 4-5. 9 et 10c (: 5b)",
+      "cite": "Ps 110, 1-2. 4-5. 9 et 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 111 (110), 1-2. 4-5. 9 u. 10c (R: Ps 105 [104], 7a. 8a)",
+      "cite": "Ps 111 (110), 1-2. 4-5. 9 u. 10c (R.: Ps 105 [104], 7a. 8a)",
       "role": "title"
      }
     ]
@@ -871,7 +871,7 @@
         "Que grandiosas são as obras do Senhor,"
        ],
        [
-        "elas merecem todo o amor e admiração!."
+        "elas merecem todo o amor e admiração!"
        ]
       ]
      }
@@ -1722,7 +1722,7 @@
       "k": "p",
       "lines": [
        [
-        "Samuel ungiu Davi na presença de seus irmãos. E a partir daquele dia,o espírito do Senhor se apoderou de Davi."
+        "Samuel ungiu Davi na presença de seus irmãos. E a partir daquele dia, o espírito do Senhor se apoderou de Davi."
        ]
       ],
       "role": "summary"
@@ -2197,7 +2197,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 20. 21-22. 27-28 (: 21a)",
+      "cite": "Ps 88, 20. 21-22. 27-28 (R.: 21a)",
       "role": "title"
      }
     ],
@@ -2209,7 +2209,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 88 (89), 20.21-22.27-28 (: 21a)",
+      "cite": "Sl 88 (89), 20.21-22.27-28 (R.: 21a)",
       "role": "title"
      }
     ],
@@ -2221,7 +2221,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 88, 20. 21-22. 27-28 (: 21a)",
+      "cite": "Ps 88, 20. 21-22. 27-28 (R.: 21a)",
       "role": "title"
      }
     ],
@@ -2233,7 +2233,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 88, 20. 21-22. 27-28 (: 21a)",
+      "cite": "Sal 88, 20. 21-22. 27-28 (R.: 21a)",
       "role": "title"
      }
     ],
@@ -2257,7 +2257,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 20. 21-22. 27-28 (: 21a)",
+      "cite": "Ps 88, 20. 21-22. 27-28 (R.: 21a)",
       "role": "title"
      }
     ],
@@ -2269,7 +2269,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 20-21. 22 u. 29. 27-28 (R: 21a)",
+      "cite": "Ps 89 (88), 20-21. 22 u. 29. 27-28 (R.: 21a)",
       "role": "title"
      }
     ]
@@ -3892,7 +3892,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. II",
   "pt-BR": "Terça-feira da 2ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 2nd Week: Tuesday",
+  "en-US": "Tuesday of the Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 2ª semana",
   "it": "MARTEDI della II settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 2e semaine",

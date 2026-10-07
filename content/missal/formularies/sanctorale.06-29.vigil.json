@@ -503,7 +503,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -524,7 +524,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -608,7 +608,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -892,7 +892,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -910,7 +910,7 @@
         "Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -975,7 +975,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -2149,7 +2149,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -2162,7 +2162,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -2175,7 +2175,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -2214,8 +2214,8 @@
  ],
  "title": {
   "la": "SS. PETRI ET PAULI, APOSTOLORUM",
-  "pt-BR": "SANTOS PEDRO E PAULO, APÓSTOLOS",
-  "en-US": "SAINTS PETER AND PAUL, APOSTLES",
+  "pt-BR": "Santos Pedro e Paulo, Apóstolos",
+  "en-US": "Saints Peter and Paul, Apostles",
   "es": "SAN PEDRO Y SAN PABLO, APÓSTOLES",
   "it": "SANTI PIETO E PAOLO, APOSTOLI",
   "fr": "SAINTS PIERRE ET PAUL, APÔTRES",

@@ -728,7 +728,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 104, 2-3. 36-37. 42-43 (: 5a)",
+      "cite": "Ps 104, 2-3. 36-37. 42-43 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -740,7 +740,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 104 (105), 2-3.36-37.42-43 (: 5a)",
+      "cite": "Sl 104 (105), 2-3.36-37.42-43 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -752,7 +752,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 104, 2-3. 36-37. 42-43 (: 5a)",
+      "cite": "Ps 104, 2-3. 36-37. 42-43 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -764,7 +764,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 104, 2-3. 36-37. 42-43 (: 5a)",
+      "cite": "Sal 104, 2-3. 36-37. 42-43 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -788,7 +788,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 104, 2-3. 36-37. 42-43 (: 5a)",
+      "cite": "Ps 104, 2-3. 36-37. 42-43 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -800,7 +800,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 105 (104), 2-3. 36-37. 42-43 (R: vgl. 5a)",
+      "cite": "Ps 105 (104), 2-3. 36-37. 42-43 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -2134,7 +2134,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-6 (: 1)",
+      "cite": "Ps 111, 1-2. 3-4. 5-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2146,7 +2146,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 111 (112), 1-2.3-4.5-6 (: 1)",
+      "cite": "Sl 111 (112), 1-2.3-4.5-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2158,7 +2158,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-6 (: 1)",
+      "cite": "Ps 111, 1-2. 3-4. 5-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2170,7 +2170,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 111, 1-2. 3-4. 5-6 (: 1)",
+      "cite": "Sal 111, 1-2. 3-4. 5-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2194,7 +2194,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-6 (: 1)",
+      "cite": "Ps 111, 1-2. 3-4. 5-6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2206,7 +2206,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 112 (111), 1-2. 3-4. 5-6 (R: vgl. 1a)",
+      "cite": "Ps 112 (111), 1-2. 3-4. 5-6 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -3854,7 +3854,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XXXII",
   "pt-BR": "Sábado da 32ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 32nd Week: Saturday",
+  "en-US": "Saturday of the Thirty-Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 32ª semana",
   "it": "Sabato della XXXII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 32e semaine",

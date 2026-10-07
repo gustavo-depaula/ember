@@ -765,7 +765,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 84, 9. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Ps 84, 9. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -777,7 +777,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 84 (85), 9.11-12.13-14 (: cf. 9a)",
+      "cite": "Sl 84 (85), 9.11-12.13-14 (R.: cf. 9a)",
       "role": "title"
      }
     ],
@@ -789,7 +789,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 84, 9. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Ps 84, 9. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -801,7 +801,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 84, 9. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Sal 84, 9. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -825,7 +825,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 84, 9. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Ps 84, 9. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -837,7 +837,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 85 (84), 9. 11-12. 13-14 (R: 9b)",
+      "cite": "Ps 85 (84), 9. 11-12. 13-14 (R.: 9b)",
       "role": "title"
      }
     ]
@@ -2355,7 +2355,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Dt 32, 26-27ab. 27cd-28. 30. 35cd-36ab (: 39c)",
+      "cite": "Dt 32, 26-27ab. 27cd-28. 30. 35cd-36ab (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2367,7 +2367,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dt 32, 26-27ab.27cd-28.30.35cd-36ab (: 39c)",
+      "cite": "Dt 32, 26-27ab.27cd-28.30.35cd-36ab (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2379,7 +2379,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Deut 32, 26-27ab. 27cd-28. 30. 35cd-36ab (: 39c)",
+      "cite": "Deut 32, 26-27ab. 27cd-28. 30. 35cd-36ab (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2391,7 +2391,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dt 32, 26-27ab. 27cd-28. 30. 35cd-36ab (: 39c)",
+      "cite": "Dt 32, 26-27ab. 27cd-28. 30. 35cd-36ab (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2415,7 +2415,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Dt 32, 26-27ab. 27cd-28. 30. 35cd-36ab (: 39c)",
+      "cite": "Dt 32, 26-27ab. 27cd-28. 30. 35cd-36ab (R.: 39c)",
       "role": "title"
      }
     ],
@@ -2427,7 +2427,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Dtn 32, 26-27. 28-29. 30. 35c-36b (R: 39c)",
+      "cite": "Dtn 32, 26-27. 28-29. 30. 35c-36b (R.: 39c)",
       "role": "title"
      }
     ]
@@ -4342,7 +4342,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XX",
   "pt-BR": "Terça-feira da 20ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 20th Week: Tuesday",
+  "en-US": "Tuesday of the Twentieth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 20ª semana",
   "it": "MARTEDI della XX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 20e semaine",

@@ -849,7 +849,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -863,7 +863,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -877,7 +877,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -891,7 +891,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -905,7 +905,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -919,7 +919,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -933,7 +933,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1011,7 +1011,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1020,7 +1020,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1029,7 +1029,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1278,8 +1278,8 @@
  ],
  "title": {
   "la": "DOMINICA XXIV «PER ANNUM»",
-  "pt-BR": "24º DOMINGO DO TEMPO COMUM",
-  "en-US": "24th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "24º Domingo do Tempo Comum",
+  "en-US": "Twenty-Fourth Sunday in Ordinary Time",
   "es": "XXIV DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XXIV DOMENICA",
   "fr": "Temps ordinaire — 24ème DIMANCHE",

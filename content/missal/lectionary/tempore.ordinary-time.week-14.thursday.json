@@ -671,7 +671,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 104, 16-17. 18-19. 20-21 (: 5a)",
+      "cite": "Ps 104, 16-17. 18-19. 20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -683,7 +683,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 104 (105), 16-17.18-19.20-21 (: 5a)",
+      "cite": "Sl 104 (105), 16-17.18-19.20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -695,7 +695,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 104, 16-17. 18-19. 20-21 (: 5a)",
+      "cite": "Ps 104, 16-17. 18-19. 20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -707,7 +707,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 104, 16-17. 18-19. 20-21 (: 5a)",
+      "cite": "Sal 104, 16-17. 18-19. 20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -731,7 +731,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 104, 16-17. 18-19. 20-21 (: 5a)",
+      "cite": "Ps 104, 16-17. 18-19. 20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -743,7 +743,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 105 (104), 16-17. 18-19. 20-21 (R: vgl. 5a)",
+      "cite": "Ps 105 (104), 16-17. 18-19. 20-21 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -2235,7 +2235,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 79, 2ac et 3bc. 15-16 (: 4b)",
+      "cite": "Ps 79, 2ac et 3bc. 15-16 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2247,7 +2247,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 79 (80), 2ac e 3b. 15-16 (: 4b))",
+      "cite": "Sl 79 (80), 2ac e 3b. 15-16 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2259,7 +2259,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 79, 2ac et 3bc. 15-16 (: 4b)",
+      "cite": "Ps 79, 2ac and 3bc. 15-16 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2271,7 +2271,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 79, 2ac et 3bc. 15-16 (: 4b)",
+      "cite": "Sal 79, 2ac et 3bc. 15-16 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2295,7 +2295,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 79, 2ac et 3bc. 15-16 (: 4b)",
+      "cite": "Ps 79, 2ac et 3bc. 15-16 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2307,7 +2307,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 80 (79), 2ac u. 3b. 15-16 (R: vgl. 4b)",
+      "cite": "Ps 80 (79), 2ac u. 3b. 15-16 (R.: vgl. 4b)",
       "role": "title"
      }
     ]
@@ -2812,7 +2812,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Sobre nós iluminai a vossa face e, então, seremos salvos, ó Senhor!."
+        "Sobre nós iluminai a vossa face e, então, seremos salvos, ó Senhor!"
        ]
       ]
      }
@@ -3708,7 +3708,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XIV",
   "pt-BR": "Quinta-feira da 14ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 14th Week: Thursday",
+  "en-US": "Thursday of the Fourteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 14ª semana",
   "it": "GIOVEDI della XIV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 14e semaine",

@@ -293,7 +293,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -314,7 +314,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -398,7 +398,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1226,8 +1226,8 @@
  ],
  "title": {
   "la": "Die 29 decembris — De V Die infra octavam Nativitatis Domini",
-  "pt-BR": "29 de dezembro — Quinto dia na oitava do Natal",
-  "en-US": "December 29 — Fifth Day in the Octave of Christmas",
+  "pt-BR": "29 de dezembro — Quinto dia na Oitava do Natal",
+  "en-US": "December 29 — Fifth Day within the Octave of the Nativity of the Lord",
   "es": "29 de diciembre — Día V dentro de la octava de Navidad",
   "it": "29 dicembre — Quinto giorno fra l'ottava di Natale",
   "fr": "29 décembre — Octave de Noël – 5e jour",

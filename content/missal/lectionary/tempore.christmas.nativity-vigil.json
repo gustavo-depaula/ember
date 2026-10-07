@@ -724,7 +724,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 4-5. 16-17. 27 et 29 (: cf. 2a)",
+      "cite": "Ps 88, 4-5. 16-17. 27 et 29 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -736,7 +736,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 88 (89), 4-5.16-17. 27 e 29 (R. 2a)",
+      "cite": "Sl 88 (89), 4-5.16-17. 27 e 29 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -748,7 +748,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 88, 4-5. 16-17. 27 et 29 (: cf. 2a)",
+      "cite": "Ps 88, 4-5. 16-17. 27 and 29 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -760,7 +760,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 88, 4-5. 16-17. 27 et 29 (: cf. 2a)",
+      "cite": "Sal 88, 4-5. 16-17. 27 et 29 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -784,7 +784,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 4-5. 16-17. 27 et 29 (: cf. 2a)",
+      "cite": "Ps 88, 4-5. 16-17. 27 et 29 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -796,7 +796,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 20a u. 4-5. 16-17. 27 u. 29 (R: 2a)",
+      "cite": "Ps 89 (88), 20a u. 4-5. 16-17. 27 u. 29 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -3702,8 +3702,8 @@
  ],
  "title": {
   "la": "IN NATIVITATE DOMINI",
-  "pt-BR": "NATAL DO SENHOR",
-  "en-US": "The Nativity of the Lord — (Christmas)",
+  "pt-BR": "Natal do Senhor",
+  "en-US": "The Nativity of the Lord",
   "es": "NATIVIDAD DEL SEÑOR",
   "it": "NATALE del SIGNORE",
   "fr": "Solennité de la Nativité",

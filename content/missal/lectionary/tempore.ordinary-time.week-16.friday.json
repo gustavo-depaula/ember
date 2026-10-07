@@ -151,6 +151,16 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ano ímpar"
+       ]
+      ]
+     }
     ]
    },
    "cycle": "I"
@@ -806,7 +816,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 8.9.10.11 (: Io 6, 68c)",
+      "cite": "Ps 18, 8.9.10.11 (R.: Io 6, 68c)",
       "role": "title"
      }
     ],
@@ -818,7 +828,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18 B (19 B), 8.9.10.11 (:Jo 6, 68 c)",
+      "cite": "Sl 18 B (19 B), 8.9.10.11 (R.: Jo 6, 68 c)",
       "role": "title"
      }
     ],
@@ -830,7 +840,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: Io 6, 68c)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: Jn 6, 68c)",
       "role": "title"
      }
     ],
@@ -842,7 +852,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 18, 8.9.10.11 (: Io 6, 68c)",
+      "cite": "Sal 18, 8.9.10.11 (R.: Io 6, 68c)",
       "role": "title"
      }
     ],
@@ -866,7 +876,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 8.9.10.11 (: Io 6, 68c)",
+      "cite": "Ps 18, 8.9.10.11 (R.: Io 6, 68c)",
       "role": "title"
      }
     ],
@@ -878,7 +888,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18), 8. 9. 10 (R: Joh 6, 68c)",
+      "cite": "Ps 19 (18), 8. 9. 10 (R.: Joh 6, 68c)",
       "role": "title"
      }
     ]
@@ -2017,7 +2027,7 @@
       "k": "p",
       "lines": [
        [
-        "Primeira Leciura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -2415,7 +2425,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Jr 31, 10.11-12ab.13 (: cf. 10d)",
+      "cite": "Jr 31, 10.11-12ab.13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -2427,7 +2437,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Jr 31, 10.11-12ab.13 (: cf. 10d))",
+      "cite": "Jr 31, 10.11-12ab.13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -2439,7 +2449,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ier 31, 10. 11-12ab. 13 (: cf. 10d)",
+      "cite": "Ier 31, 10. 11-12ab. 13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -2451,7 +2461,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Jr 31, 10.11-12ab.13 (: cf. 10d)",
+      "cite": "Jr 31, 10.11-12ab.13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -2475,7 +2485,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Jr 31, 10.11-12ab.13 (: cf. 10d)",
+      "cite": "Jr 31, 10.11-12ab.13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -2487,7 +2497,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Jer 31, 10. 11-12b. 13 (R: vgl. 10d)",
+      "cite": "Jer 31, 10. 11-12b. 13 (R.: vgl. 10d)",
       "role": "title"
      }
     ]
@@ -4126,7 +4136,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XVI",
   "pt-BR": "Sexta-feira da 16ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 16th Week: Friday",
+  "en-US": "Friday of the Sixteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 16ª semana",
   "it": "VENERDI della XVI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 16e semaine",

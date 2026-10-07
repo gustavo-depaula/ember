@@ -227,7 +227,7 @@
       "k": "p",
       "lines": [
        [
-        "Assim fala o Senhor: \"Ai de ti, rebelde e desonrada, cidade desumana. Ela não prestou ouvidos ao apelo, não aceitou a correção; não teve confiança no Senhor, nem se aproximou de seu Deus. Darei aos povos, nesse tempo, lábios purificados, para que todos invoquem o nome do Senhor e lhe prestem culto em união de esforços. Desde além-rios da Etiópia, os que me adoram, os dispersos do meu povo, me trarão suas oferendas. Naquele dia, não terás de envergonhar-te por causa de todas as tuas obras com que prevaricaste contra mim; pois eu afastarei do teu meio teus fanfarrões arrogantes, e não continuarás a fazer de meu santo monte motivo de tuas vanglórias. E deixarei entre vós um punhado de homens humildes e pobres\". E no nome do Senhor porá sua esperança o resto de Israel. Eles não cometerão iniquidades nem falarão mentiras; não se encontrará em sua boca uma língua enganadora; serão apascentados e repousarão,e ninguém os molestará."
+        "Assim fala o Senhor: \"Ai de ti, rebelde e desonrada, cidade desumana. Ela não prestou ouvidos ao apelo, não aceitou a correção; não teve confiança no Senhor, nem se aproximou de seu Deus. Darei aos povos, nesse tempo, lábios purificados, para que todos invoquem o nome do Senhor e lhe prestem culto em união de esforços. Desde além-rios da Etiópia, os que me adoram, os dispersos do meu povo, me trarão suas oferendas. Naquele dia, não terás de envergonhar-te por causa de todas as tuas obras com que prevaricaste contra mim; pois eu afastarei do teu meio teus fanfarrões arrogantes, e não continuarás a fazer de meu santo monte motivo de tuas vanglórias. E deixarei entre vós um punhado de homens humildes e pobres\". E no nome do Senhor porá sua esperança o resto de Israel. Eles não cometerão iniquidades nem falarão mentiras; não se encontrará em sua boca uma língua enganadora; serão apascentados e repousarão, e ninguém os molestará."
        ]
       ]
      },
@@ -666,7 +666,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 33, 2-3. 6-7. 17-18. 19 et 23 (: 7a)",
+      "cite": "Ps 33, 2-3. 6-7. 17-18. 19 et 23 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -678,7 +678,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 33 (34), 2-3.6-7.17-18.19.23 (: 7a)",
+      "cite": "Sl 33 (34), 2-3.6-7.17-18.19.23 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -690,7 +690,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 33, 2-3. 6-7. 17-18. 19 et 23 (: 7a)",
+      "cite": "Ps 33, 2-3. 6-7. 17-18. 19 and 23 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -702,7 +702,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 33, 2-3. 6-7. 17-18. 19 et 23 (: 7a)",
+      "cite": "Sal 33, 2-3. 6-7. 17-18. 19 et 23 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -726,7 +726,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 33, 2-3. 6-7. 17-18. 19 et 23 (: 7a)",
+      "cite": "Ps 33, 2-3. 6-7. 17-18. 19 et 23 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -738,7 +738,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 2-3. 6-7. 17-18. 19 u. 23 (R: vgl. 7)",
+      "cite": "Ps 34 (33), 2-3. 6-7. 17-18. 19 u. 23 (R.: vgl. 7)",
       "role": "title"
      }
     ]
@@ -2637,8 +2637,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada III — Feria tertia",
-  "pt-BR": "Terça-feira",
-  "en-US": "Advent Season — 3rd Week: Tuesday",
+  "pt-BR": "Terça-feira da 3ª Semana do Advento",
+  "en-US": "Tuesday of the Third Week of Advent",
   "es": "Tiempo de Adviento — Martes de la III Semana",
   "it": "MARTEDI della III settimana di Avvento",
   "fr": "Temps de l'Avent — 3e semaine — Mardi",

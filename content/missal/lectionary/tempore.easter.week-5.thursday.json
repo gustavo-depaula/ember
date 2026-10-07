@@ -619,7 +619,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 10 (R/.: cf. 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 10 (R.: cf. 3)",
       "role": "title"
      }
     ],
@@ -631,7 +631,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), 1-2a.2b-3.10 (R/.: cf. 3)",
+      "cite": "Sl 95 (96), 1-2a.2b-3.10 (R.: cf. 3)",
       "role": "title"
      }
     ],
@@ -654,7 +654,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 1-2a. 2b-3. 10 (R/.: cf. 3)",
+      "cite": "Sal 95, 1-2a. 2b-3. 10 (R.: cf. 3)",
       "role": "title"
      }
     ],
@@ -678,7 +678,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 10 (R/.: cf. 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 10 (R.: cf. 3)",
       "role": "title"
      }
     ],
@@ -690,7 +690,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 1-2. 3 u. 10 (R: vgl. 3a)",
+      "cite": "Ps 96 (95), 1-2. 3 u. 10 (R.: vgl. 3a)",
       "role": "title"
      }
     ]
@@ -715,7 +715,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -736,7 +736,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -757,7 +757,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -778,7 +778,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -799,7 +799,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -820,7 +820,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -986,7 +986,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1007,7 +1007,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1028,7 +1028,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1049,7 +1049,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1070,7 +1070,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1091,7 +1091,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1254,7 +1254,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1275,7 +1275,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1296,7 +1296,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1317,7 +1317,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1338,7 +1338,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1359,7 +1359,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1525,7 +1525,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1546,7 +1546,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1567,7 +1567,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1588,7 +1588,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1609,7 +1609,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1630,7 +1630,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1736,7 +1736,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2465,8 +2465,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada V — Feria V",
-  "pt-BR": "Tempo da Páscoa — 5ª Semana — Quinta-feira",
-  "en-US": "Easter Season — Fifth Week — Thursday",
+  "pt-BR": "Quinta-feira da 5ª Semana da Páscoa",
+  "en-US": "Thursday of the Fifth Week of Easter",
   "es": "Tiempo de Pascua — Semana V — Jueves",
   "it": "GIOVEDI della V settimana di Pasqua",
   "fr": "Temps pascal — 5e semaine — Jeudi",

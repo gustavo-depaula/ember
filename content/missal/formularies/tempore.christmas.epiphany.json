@@ -352,7 +352,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -373,7 +373,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -457,7 +457,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1416,7 +1416,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1429,7 +1429,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1442,7 +1442,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1497,8 +1497,8 @@
  ],
  "title": {
   "la": "Die 6 ianuarii — IN EPIPHANIA DOMINI",
-  "pt-BR": "6 de janeiro — EPIFANIA DO SENHOR",
-  "en-US": "January 6, or Sunday between January 2 and 8 — THE EPIPHANY OF THE LORD",
+  "pt-BR": "Epifania do Senhor",
+  "en-US": "The Epiphany of the Lord",
   "es": "6 de enero — LA EPIFANÍA DEL SEÑOR",
   "it": "6 gennaio — EPIFANIA DEL SIGNORE",
   "fr": "Temps de Noël — SOLENNITÉ DE L'ÉPIPHANIE",

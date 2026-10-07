@@ -632,7 +632,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -644,7 +644,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 147, 12-13.14-15.19-20 (: 12a)",
+      "cite": "Sl 147, 12-13.14-15.19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -656,7 +656,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -668,7 +668,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Sal 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -692,7 +692,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -704,7 +704,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (R: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ]
@@ -1550,7 +1550,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Glorifica o Senhor, Jerusalém!."
+        "Glorifica o Senhor, Jerusalém!"
        ]
       ]
      }
@@ -1774,7 +1774,7 @@
       "k": "p",
       "lines": [
        [
-        "Alleluia"
+        "Canto al Vangelo"
        ]
       ],
       "cite": "Cf. Mc 9, 7",
@@ -3444,7 +3444,7 @@
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 6 ianuarii",
   "pt-BR": "6 de janeiro",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 6",
+  "en-US": "January 6",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 6 de enero",
   "it": "6 gennaio",
   "fr": "Temps de Noël",

@@ -392,7 +392,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -413,7 +413,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -497,7 +497,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1359,7 +1359,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1372,7 +1372,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1385,7 +1385,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1428,8 +1428,8 @@
  ],
  "title": {
   "la": "SS. SIMONIS ET IUDÆ, APOSTOLORUM",
-  "pt-BR": "SANTOS SIMÃO E JUDAS, APÓSTOLOS",
-  "en-US": "SS SIMON AND JUDE, APOSTLES",
+  "pt-BR": "Santos Simão e Judas, Apóstolos",
+  "en-US": "Ss Simon and Jude, Apostles",
   "es": "SAN SIMÓN Y SAN JUDAS, APÓSTOLES",
   "it": "SANTI SIMONE E GIUDA, APOSTOLI",
   "fr": "SAINTS SIMON ET JUDE, APÔTRES",

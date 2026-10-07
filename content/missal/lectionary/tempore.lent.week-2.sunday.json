@@ -334,7 +334,7 @@
       "k": "p",
       "lines": [
        [
-        "Premiière lecture"
+        "Première lecture"
        ]
       ],
       "role": "title"
@@ -538,7 +538,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (: 22)",
+      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -550,7 +550,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 32 (33), 4-5.18-19.20.22 (: 22)",
+      "cite": "Sl 32 (33), 4-5.18-19.20.22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -562,7 +562,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (: 22)",
+      "cite": "Ps 32, 4-5. 18-19. 20 and 22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -574,7 +574,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 32, 4-5. 18-19. 20 et 22 (: 22)",
+      "cite": "Sal 32, 4-5. 18-19. 20 et 22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -598,7 +598,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (: 22)",
+      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -610,7 +610,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 33 (32), 4-5. 18-19. 20 u. 22 (R: 22)",
+      "cite": "Ps 33 (32), 4-5. 18-19. 20 u. 22 (R.: 22)",
       "role": "title"
      }
     ]
@@ -3310,7 +3310,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 115, 10 et 15. 16-17. 18-19 (: 114, 9)",
+      "cite": "Ps 115, 10 et 15. 16-17. 18-19 (R.: 114, 9)",
       "role": "title"
      }
     ],
@@ -3322,7 +3322,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 115 (116), 10 e 15. 16-17.18-19 (: 114 (115), 9)",
+      "cite": "Sl 115 (116), 10 e 15. 16-17.18-19 (R.: 114 (115), 9)",
       "role": "title"
      }
     ],
@@ -3334,7 +3334,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 115, 10 et 15. 16-17. 18-19 (: 114, 9)",
+      "cite": "Ps 115, 10 and 15. 16-17. 18-19 (R.: 114, 9)",
       "role": "title"
      }
     ],
@@ -3346,7 +3346,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 115, 10 et 15. 16-17. 18-19 (: 114, 9)",
+      "cite": "Sal 115, 10 et 15. 16-17. 18-19 (R.: 114, 9)",
       "role": "title"
      }
     ],
@@ -3370,7 +3370,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 115, 10 et 15. 16-17. 18-19 (: 114, 9)",
+      "cite": "Ps 115, 10 et 15. 16-17. 18-19 (R.: 114, 9)",
       "role": "title"
      }
     ],
@@ -3382,7 +3382,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 116 (115), 10 u. 15. 16-17. 18-19 (R: vgl. 9)",
+      "cite": "Ps 116 (115), 10 u. 15. 16-17. 18-19 (R.: vgl. 9)",
       "role": "title"
      }
     ]
@@ -4872,7 +4872,7 @@
       "k": "p",
       "lines": [
        [
-        "Evangelio"
+        "Evangelho"
        ]
       ],
       "role": "title"
@@ -6070,7 +6070,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 26, 1. 7-8a. 8b-9abc. 13-14 (: 1a)",
+      "cite": "Ps 26, 1. 7-8a. 8b-9abc. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -6082,7 +6082,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 26 (27), 1.7-8.9abc.13-14 (: 1a)",
+      "cite": "Sl 26 (27), 1.7-8.9abc.13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -6094,7 +6094,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "26, 1. 7-8a. 8b-9abc. 13-14 (: 1a)",
+      "cite": "26, 1. 7-8a. 8b-9abc. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -6130,7 +6130,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 26, 1. 7-8a. 8b-9abc. 13-14 (: 1a)",
+      "cite": "Ps 26, 1. 7-8a. 8b-9abc. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -6142,7 +6142,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 27 (26), 1. 7-8. 9. 13-14 (R: 1a)",
+      "cite": "Ps 27 (26), 1. 7-8. 9. 13-14 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -8505,8 +8505,8 @@
  ],
  "title": {
   "la": "DOMINICA II IN QUADRAGESIMA",
-  "pt-BR": "2º DOMINGO DA QUARESMA",
-  "en-US": "Season of Lent — 2nd Week: Sunday",
+  "pt-BR": "2º Domingo da Quaresma",
+  "en-US": "Second Sunday of Lent",
   "es": "II DOMINGO DE CUARESMA",
   "it": "II DOMENICA DI QUARESIMA",
   "fr": "Temps de Carême",

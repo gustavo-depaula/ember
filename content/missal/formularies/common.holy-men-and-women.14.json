@@ -331,7 +331,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -345,7 +345,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -373,7 +373,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -387,7 +387,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -724,7 +724,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel, pro pluribus: "
+         "t": "Vel, pro pluribus:"
         }
        ]
       ]
@@ -763,7 +763,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure, per più sante: "
+         "t": "Oppure, per più sante:"
         }
        ]
       ]
@@ -776,7 +776,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien, pour plusieurs saintes : "
+         "t": "Ou bien, pour plusieurs saintes :"
         }
        ]
       ]
@@ -1566,7 +1566,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " ci illumini e ci infiammi, perché, ardenti di santi desideri, portiamo frutti abbondanti di opere buone. Per Cristo nostro Signore.."
+        "ci illumini e ci infiammi, perché, ardenti di santi desideri, portiamo frutti abbondanti di opere buone. Per Cristo nostro Signore.."
        ]
       ]
      }
@@ -1634,7 +1634,7 @@
  ],
  "title": {
   "la": "COMMUNE SANCTORUM ET SANCTARUM",
-  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "en-US": "Common of Holy Men and Women",
   "es": "COMÚN DE SANTOS Y SANTAS",
   "it": "COMUNE DEI SANTI E DELLE SANTE",
   "fr": "COMMUN DES SAINTS ET DES SAINTES",

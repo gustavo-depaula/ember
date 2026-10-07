@@ -746,7 +746,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 11-12. 13 (: Lc 2, 11)",
+      "cite": "Ps 95, 1-2a. 2b-3. 11-12. 13 (R.: Lc 2, 11)",
       "role": "title"
      }
     ],
@@ -770,7 +770,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 11-12. 13 (: Lc 2, 11)",
+      "cite": "Ps 95, 1-2a. 2b-3. 11-12. 13 (R.: Lk 2, 11)",
       "role": "title"
      }
     ],
@@ -782,7 +782,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 1-2a. 2b-3. 11-12. 13 (: Lc 2, 11)",
+      "cite": "Sal 95, 1-2a. 2b-3. 11-12. 13 (R.: Lc 2, 11)",
       "role": "title"
      }
     ],
@@ -806,7 +806,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 11-12. 13 (: Lc 2, 11)",
+      "cite": "Ps 95, 1-2a. 2b-3. 11-12. 13 (R.: Lc 2, 11)",
       "role": "title"
      }
     ],
@@ -818,7 +818,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 1-2. 3 u. 11. 12-13a (R: vgl. Lk 2, 11)",
+      "cite": "Ps 96 (95), 1-2. 3 u. 11. 12-13a (R.: vgl. Lk 2, 11)",
       "role": "title"
      }
     ]
@@ -2420,7 +2420,7 @@
         "Alléluia. Alléluia."
        ],
        [
-        "Je vous annonce une grande joie : Aujourd'hui vous est né un Sauveur qui est le Christ, le Seigneur !."
+        "Je vous annonce une grande joie : Aujourd'hui vous est né un Sauveur qui est le Christ, le Seigneur !"
        ],
        [
         "Alléluia"
@@ -3130,8 +3130,8 @@
  ],
  "title": {
   "la": "IN NATIVITATE DOMINI",
-  "pt-BR": "NATAL DO SENHOR",
-  "en-US": "The Nativity of the Lord — (Christmas)",
+  "pt-BR": "Natal do Senhor",
+  "en-US": "The Nativity of the Lord",
   "es": "NATIVIDAD DEL SEÑOR",
   "it": "NATALE del SIGNORE",
   "fr": "Solennité de la Nativité",

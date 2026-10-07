@@ -669,7 +669,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 33 (32), 4-5. 18-19. 20 u. 22 (R: vgl. 5b)",
+      "cite": "Ps 33 (32), 4-5. 18-19. 20 u. 22 (R.: vgl. 5b)",
       "role": "title"
      }
     ]
@@ -715,7 +715,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1001,7 +1001,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1293,7 +1293,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1585,7 +1585,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1864,7 +1864,7 @@
         "é a vida que enfrenta a morte."
        ],
        [
-        "O Rei da vida, cativo, foi morto, mas reina vivo!."
+        "O Rei da vida, cativo, foi morto, mas reina vivo!"
        ]
       ]
      },
@@ -3048,7 +3048,7 @@
       "k": "p",
       "lines": [
        [
-        "Convérsa illa dicit ei Hebráice: «Rabbúni!» — ​quod dícitur Magíster —."
+        "Convérsa illa dicit ei Hebráice: «Rabbúni!» — quod dícitur Magíster —."
        ]
       ]
      },
@@ -3394,8 +3394,8 @@
  ],
  "title": {
   "la": "Feria III — infra octavam Paschae",
-  "pt-BR": "Terça-feira — Oitava da Páscoa",
-  "en-US": "Easter Tuesday",
+  "pt-BR": "Terça-feira na Oitava da Páscoa",
+  "en-US": "Tuesday within the Octave of Easter",
   "es": "Martes — de la octava de Pascua",
   "it": "MARTEDI FRA L`OTTAVA DI PASQUA",
   "fr": "Temps pascal — Mardi de la 1e semaine",

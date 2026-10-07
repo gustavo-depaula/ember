@@ -607,7 +607,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -619,7 +619,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 147, 12-13.14-15.19-20 (: 12a)",
+      "cite": "Sl 147, 12-13.14-15.19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -631,7 +631,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -643,7 +643,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Sal 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -667,7 +667,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -679,7 +679,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (R: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ]
@@ -2043,7 +2043,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 110, 1-2. 3-4. 5-6 (: 2a)",
+      "cite": "Ps 110, 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2055,7 +2055,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 110 (111), 1-2.3-4.5-6 (: 2a)",
+      "cite": "Sl 110 (111), 1-2.3-4.5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2067,7 +2067,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 110, 1-2. 3-4. 5-6 (: 2a)",
+      "cite": "Ps 110, 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2079,7 +2079,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 110, 1-2. 3-4. 5-6 (: 2a)",
+      "cite": "Sal 110, 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2103,7 +2103,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 110, 1-2. 3-4. 5-6 (: 2a)",
+      "cite": "Ps 110, 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2115,7 +2115,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 111 (110), 1-2. 3-4. 5-6 (R: 2a)",
+      "cite": "Ps 111 (110), 1-2. 3-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -2856,7 +2856,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Grandiosas são as obras do Senhor!."
+        "Grandiosas são as obras do Senhor!"
        ]
       ]
      }
@@ -3752,7 +3752,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XXX",
   "pt-BR": "Sexta-feira da 30ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 30th Week: Friday",
+  "en-US": "Friday of the Thirtieth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 30ª semana",
   "it": "VENERDI della XXX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 30e semaine",

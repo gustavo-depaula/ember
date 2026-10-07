@@ -585,7 +585,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 101, 2-3. 16-18. 19-21 (: 2)",
+      "cite": "Ps 101, 2-3. 16-18. 19-21 (R.: 2)",
       "role": "title"
      }
     ],
@@ -597,7 +597,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 101 (102), 2-3.16-18.19-21 (: 2)",
+      "cite": "Sl 101 (102), 2-3.16-18.19-21 (R.: 2)",
       "role": "title"
      }
     ],
@@ -609,7 +609,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 101, 2-3. 16-18. 19-21 (: 2)",
+      "cite": "Ps 101, 2-3. 16-18. 19-21 (R.: 2)",
       "role": "title"
      }
     ],
@@ -621,7 +621,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 101, 2-3. 16-18. 19-21 (: 2)",
+      "cite": "Sal 101, 2-3. 16-18. 19-21 (R.: 2)",
       "role": "title"
      }
     ],
@@ -645,7 +645,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 101, 2-3. 16-18. 19-21 (: 2)",
+      "cite": "Ps 101, 2-3. 16-18. 19-21 (R.: 2)",
       "role": "title"
      }
     ],
@@ -657,7 +657,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 102 (101), 2-3. 16-17. 18-19. 20-21 (R: vgl. 2)",
+      "cite": "Ps 102 (101), 2-3. 16-17. 18-19. 20-21 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -2436,8 +2436,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada V — Feria tertia",
-  "pt-BR": "Tempo da Quaresma — Terça-feira da 5ª Semana da Quaresma",
-  "en-US": "Season of Lent — 5th Week: Tuesday",
+  "pt-BR": "Terça-feira da 5ª Semana da Quaresma",
+  "en-US": "Tuesday of the Fifth Week of Lent",
   "es": "Tiempo de Cuaresma — Martes de la V Semana",
   "it": "MARTEDI DELLA V SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 5e semaine — Mardi",

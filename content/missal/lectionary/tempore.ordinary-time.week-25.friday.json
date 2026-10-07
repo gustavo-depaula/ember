@@ -671,7 +671,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 42, 1. 2. 3. 4 (: cf. 5bc)",
+      "cite": "Ps 42, 1. 2. 3. 4 (R.: cf. 5bc)",
       "role": "title"
      }
     ],
@@ -683,7 +683,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 42 (43), 1.2.3.4 (: cf. 5bc)",
+      "cite": "Sl 42 (43), 1.2.3.4 (R.: cf. 5bc)",
       "role": "title"
      }
     ],
@@ -695,7 +695,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 42, 1. 2. 3. 4 (: cf. 5bc)",
+      "cite": "Ps 42, 1. 2. 3. 4 (R.: cf. 5bc)",
       "role": "title"
      }
     ],
@@ -707,7 +707,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 42, 1. 2. 3. 4 (: cf. 5bc)",
+      "cite": "Sal 42, 1. 2. 3. 4 (R.: cf. 5bc)",
       "role": "title"
      }
     ],
@@ -731,7 +731,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 42, 1. 2. 3. 4 (: cf. 5bc)",
+      "cite": "Ps 42, 1. 2. 3. 4 (R.: cf. 5bc)",
       "role": "title"
      }
     ],
@@ -743,7 +743,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 43 (42), 1-2b. 3. 4 (R: vgl. 5c)",
+      "cite": "Ps 43 (42), 1-2b. 3. 4 (R.: vgl. 5c)",
       "role": "title"
      }
     ]
@@ -2415,7 +2415,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 143, 1a et 2abc. 3-4 (: 1a)",
+      "cite": "Ps 143, 1a et 2abc. 3-4 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2427,7 +2427,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 143 (144), 1a e 2abc.3-4 (: 1a)",
+      "cite": "Sl 143 (144), 1a e 2abc.3-4 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2439,7 +2439,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 143, 1a et 2abc. 3-4 (: 1a)",
+      "cite": "Ps 143, 1a and 2abc. 3-4 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2451,7 +2451,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 143, 1a et 2abc. 3-4 (: 1a)",
+      "cite": "Sal 143, 1a et 2abc. 3-4 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2475,7 +2475,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 143, 1a et 2abc. 3-4 (: 1a)",
+      "cite": "Ps 143, 1a et 2abc. 3-4 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2487,7 +2487,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 144 (143), 1a u. 2abc. 3-4 (R: 1a)",
+      "cite": "Ps 144 (143), 1a u. 2abc. 3-4 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -3908,7 +3908,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XXV",
   "pt-BR": "Sexta-feira da 25ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 25th Week: Friday",
+  "en-US": "Friday of the Twenty-Fifth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 25ª semana",
   "it": "VENERDI della XXV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 25e semaine",

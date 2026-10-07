@@ -620,7 +620,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 89, 3-4. 12-13. 14 et 17 (: 14)",
+      "cite": "Ps 89, 3-4. 12-13. 14 et 17 (R.: 14)",
       "role": "title"
      }
     ],
@@ -632,7 +632,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 89 (90), 3-4.12-13.14 e 17 (: 14)",
+      "cite": "Sl 89 (90), 3-4.12-13.14 e 17 (R.: 14)",
       "role": "title"
      }
     ],
@@ -644,7 +644,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "89, 3-4. 12-13. 14 et 17 (: 14)",
+      "cite": "89, 3-4. 12-13. 14 and 17 (R.: 14)",
       "role": "title"
      }
     ],
@@ -656,7 +656,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 89, 3-4. 12-13. 14 et 17 (: 14)",
+      "cite": "Sal 89, 3-4. 12-13. 14 et 17 (R.: 14)",
       "role": "title"
      }
     ],
@@ -680,7 +680,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 89, 3-4. 12-13. 14 et 17 (: 14)",
+      "cite": "Ps 89, 3-4. 12-13. 14 et 17 (R.: 14)",
       "role": "title"
      }
     ],
@@ -692,7 +692,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 90 (89), 3-4. 12-13. 14 u. 17 (R: vgl. 14)",
+      "cite": "Ps 90 (89), 3-4. 12-13. 14 u. 17 (R.: vgl. 14)",
       "role": "title"
      }
     ]
@@ -1206,7 +1206,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Saciai-nos de manhã com vosso amor!."
+        "Saciai-nos de manhã com vosso amor!"
        ]
       ]
      }
@@ -1460,7 +1460,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Saciai-nos de manhã com vosso amor!."
+        "Saciai-nos de manhã com vosso amor!"
        ]
       ]
      }
@@ -2069,7 +2069,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 2-3. 4-5. 6-7 (: cf. 1b)",
+      "cite": "Ps 144, 2-3. 4-5. 6-7 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2081,7 +2081,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "S 144 (145), 2-3.4-5.6-7 (: cf. 1b)",
+      "cite": "S 144 (145), 2-3.4-5.6-7 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2093,7 +2093,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "144, 2-3. 4-5. 6-7 (: cf. 1b)",
+      "cite": "144, 2-3. 4-5. 6-7 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2105,7 +2105,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 2-3. 4-5. 6-7 (: cf. 1b)",
+      "cite": "Sal 144, 2-3. 4-5. 6-7 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2129,7 +2129,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 2-3. 4-5. 6-7 (: cf. 1b)",
+      "cite": "Ps 144, 2-3. 4-5. 6-7 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2141,7 +2141,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 2-3. 4-5. 6-7 (R: vgl. 2b)",
+      "cite": "Ps 145 (144), 2-3. 4-5. 6-7 (R.: vgl. 2b)",
       "role": "title"
      }
     ]
@@ -2649,7 +2649,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Bendirei o vosso nome, pelos séculos, Senhor!."
+        "Bendirei o vosso nome, pelos séculos, Senhor!"
        ]
       ]
      }
@@ -2885,7 +2885,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Bendirei o vosso nome, pelos séculos, Senhor!."
+        "Bendirei o vosso nome, pelos séculos, Senhor!"
        ]
       ]
      }
@@ -3784,7 +3784,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXI",
   "pt-BR": "Quinta-feira da 21ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 21st Week: Thursday",
+  "en-US": "Thursday of the Twenty-First Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 21ª semana",
   "it": "GIOVEDI della XXI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 21e semaine",

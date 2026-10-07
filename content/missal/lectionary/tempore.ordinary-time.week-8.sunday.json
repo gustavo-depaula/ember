@@ -543,7 +543,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 61, 2-3. 6-7. 8-9ab (: 6a)",
+      "cite": "Ps 61, 2-3. 6-7. 8-9ab (R.: 6a)",
       "role": "title"
      }
     ],
@@ -555,7 +555,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 61 (62), 2-3.6-7.8-9ab (: 6a)",
+      "cite": "Sl 61 (62), 2-3.6-7.8-9ab (R.: 6a)",
       "role": "title"
      }
     ],
@@ -567,7 +567,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 61, 2-3. 6-7. 8-9ab (: 6a)",
+      "cite": "Ps 61, 2-3. 6-7. 8-9ab (R.: 6a)",
       "role": "title"
      }
     ],
@@ -579,7 +579,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 61, 2-3. 6-7. 8-9ab (: 6a)",
+      "cite": "Sal 61, 2-3. 6-7. 8-9ab (R.: 6a)",
       "role": "title"
      }
     ],
@@ -603,7 +603,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 61, 2-3. 6-7. 8-9ab (: 6a)",
+      "cite": "Ps 61, 2-3. 6-7. 8-9ab (R.: 6a)",
       "role": "title"
      }
     ],
@@ -615,7 +615,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 62 (61), 2-3. 6-7. 8-9 (R: 2a)",
+      "cite": "Ps 62 (61), 2-3. 6-7. 8-9 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -1876,10 +1876,10 @@
       "k": "p",
       "lines": [
        [
-        "Aclamação ao Evagelho"
+        "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Hebr 4, 12",
+      "cite": "Hb 4, 12",
       "role": "title"
      },
      {
@@ -3211,7 +3211,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8 et 10. 12-13 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 8 et 10. 12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -3223,7 +3223,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 1-2.3-4.8.10.12-13 (: 8a)",
+      "cite": "Sl 102 (103), 1-2.3-4.8.10.12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -3235,7 +3235,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8 et 10. 12-13 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 8 and 10. 12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -3247,7 +3247,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 102, 1-2. 3-4. 8 et 10. 12-13 (: 8a)",
+      "cite": "Sal 102, 1-2. 3-4. 8 et 10. 12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -3271,7 +3271,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8 et 10. 12-13 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 8 et 10. 12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -3283,7 +3283,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 1-2. 3-4. 8 u. 10. 12-13 (R: vgl. 8)",
+      "cite": "Ps 103 (102), 1-2. 3-4. 8 u. 10. 12-13 (R.: vgl. 8)",
       "role": "title"
      }
     ]
@@ -6003,7 +6003,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 91, 2-3. 13-14. 15-16 (: cf. 2a)",
+      "cite": "Ps 91, 2-3. 13-14. 15-16 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -6015,7 +6015,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 91 (92), 2-3.13-14.15-16 (: cf. 2a)",
+      "cite": "Sl 91 (92), 2-3.13-14.15-16 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -6027,7 +6027,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 91, 2-3. 13-14. 15-16 (: cf. 2a)",
+      "cite": "Ps 91, 2-3. 13-14. 15-16 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -6039,7 +6039,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 91, 2-3. 13-14. 15-16 (: cf. 2a)",
+      "cite": "Sal 91, 2-3. 13-14. 15-16 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -6063,7 +6063,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 91, 2-3. 13-14. 15-16 (: cf. 2a)",
+      "cite": "Ps 91, 2-3. 13-14. 15-16 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -6075,7 +6075,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 92 (91), 2-3. 13-14. 15-16 (R: vgl. 2a)",
+      "cite": "Ps 92 (91), 2-3. 13-14. 15-16 (R.: vgl. 2a)",
       "role": "title"
      }
     ]
@@ -8208,8 +8208,8 @@
  ],
  "title": {
   "la": "Tempus «per annum» — Domenica VIII",
-  "pt-BR": "Tempo Comum — 8º Domingo do Tempo Comum",
-  "en-US": "Ordinary Time — 8th Week: Sunday",
+  "pt-BR": "8º Domingo do Tempo Comum",
+  "en-US": "Eighth Sunday in Ordinary Time",
   "es": "Tiempo ordinario — 8º Domingo",
   "it": "VIII DOMENICA DEL TEMPO ORDINARIO",
   "fr": "Temps ordinaire — 8ème Dimanche",

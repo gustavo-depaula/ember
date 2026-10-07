@@ -3,44 +3,38 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 41, 2. 3. 5bcde; 42, 3. 4. 5 (: 41, 3a)",
+      ],
+      "cite": "Ps 41, 2. 3. 5bcde; 42, 3. 4. 5 (R.: 41, 3a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 41, 2. 3. 5bcd; 42, 3. 4. 5 (R.: 41, 3a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 41, 2. 3. 5bcd; 42, 3. 4. 5 (R.: 41, 3a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
       "cite": "Ps 41:2. 3. 5. R v.3",
       "role": "title"
      }
@@ -48,7 +42,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 41, 2. 3. 5bcd; 42, 3. 4. 5 (R.: 41, 3a)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dai Salmi 41 e 42",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 41, 2. 3. 5bcde; 42, 3. 4. 5 (: 41, 3a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 41, 2. 3. 5bcde; 42, 3. 4. 5 (R.: 41, 3a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps Ps 42 (41), 2-3a. 3b u. 5; Ps 43 (42), 3. 4 (R: 42 [41], 3a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps Ps 42 (41), 2-3a. 3b u. 5; Ps 43 (42), 3. 4 (R.: 42 [41], 3a)",
       "role": "title"
      }
     ]
@@ -104,7 +114,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Minha alma tem sede de Deus, e deseja o Deus vivo!."
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
        ]
       ]
      }
@@ -202,7 +212,7 @@
       "k": "p",
       "lines": [
        [
-        "Assim como a corça suspira pelas águas correntes, suspira, igualmente, minh'alma por vós, ó meu Deus!."
+        "Assim como a corça suspira pelas águas correntes, suspira, igualmente, minh'alma por vós, ó meu Deus!"
        ]
       ]
      }
@@ -303,7 +313,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Minha alma tem sede de Deus, e deseja o Deus vivo!."
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
        ]
       ]
      }
@@ -497,7 +507,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Minha alma tem sede de Deus, e deseja o Deus vivo!."
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
        ]
       ]
      }
@@ -729,7 +739,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Minha alma tem sede de Deus, e deseja o Deus vivo!."
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
        ]
       ]
      }
@@ -836,7 +846,7 @@
         "elas serão o meu guia; que me levem ao vosso Monte santo,"
        ],
        [
-        "até a vossa morada!."
+        "até a vossa morada!"
        ]
       ]
      }
@@ -952,7 +962,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Minha alma tem sede de Deus, e deseja o Deus vivo!."
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
        ]
       ]
      }
@@ -1059,7 +1069,7 @@
         "Deus da minha alegria. Vosso louvor cantarei, ao som da harpa,"
        ],
        [
-        "meu Senhor e meu Deus!."
+        "meu Senhor e meu Deus!"
        ]
       ]
      }
@@ -1175,7 +1185,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Minha alma tem sede de Deus, e deseja o Deus vivo!."
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
        ]
       ]
      }
@@ -1376,7 +1386,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Minha alma tem sede de Deus, e deseja o Deus vivo!."
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
        ]
       ]
      }

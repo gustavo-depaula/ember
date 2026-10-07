@@ -551,7 +551,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 1-2. 11-12a. 12b-13 (: 11a)",
+      "cite": "Ps 95, 1-2. 11-12a. 12b-13 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -563,7 +563,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), 1-2.11-12.13 (R. 11a)",
+      "cite": "Sl 95 (96), 1-2.11-12.13 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -575,7 +575,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 95, 1-2. 11-12a. 12b-13 (: 11a)",
+      "cite": "Ps 95, 1-2. 11-12a. 12b-13 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -587,7 +587,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 1-2. 11-12a. 12b-13 (: 11a)",
+      "cite": "Sal 95, 1-2. 11-12a. 12b-13 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -611,7 +611,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 1-2. 11-12a. 12b-13 (: 11a)",
+      "cite": "Ps 95, 1-2. 11-12a. 12b-13 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -623,7 +623,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 1-2. 11-12. 13 (R: 11a)",
+      "cite": "Ps 96 (95), 1-2. 11-12. 13 (R.: 11a)",
       "role": "title"
      }
     ]
@@ -2487,8 +2487,8 @@
  ],
  "title": {
   "la": "De VII Die infra octavam Nativitatis Domini",
-  "pt-BR": "7º dia na oitava do Natal do Senhor",
-  "en-US": "Seventh Day within the Octave of the Nativity of the Lord [Christmas]",
+  "pt-BR": "31 de dezembro — Sétimo dia na Oitava do Natal",
+  "en-US": "December 31 — Seventh Day within the Octave of the Nativity of the Lord",
   "es": "Día VII dentro de la octava de Navidad",
   "it": "VII giorno fra l'ottava di Natale",
   "fr": "Octave de Noël - 7e jour",

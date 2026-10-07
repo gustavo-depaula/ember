@@ -657,7 +657,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7 (: cf. 18b)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7 (R.: cf. 18b)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 33 (34), 2-3.4-5.6-7 (: cf. 18b)",
+      "cite": "Sl 33 (34), 2-3.4-5.6-7 (R.: cf. 18b)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7 (: cf. 18b)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7 (R.: cf. 18b)",
       "role": "title"
      }
     ],
@@ -693,7 +693,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 33, 2-3. 4-5. 6-7 (: cf. 18b)",
+      "cite": "Sal 33, 2-3. 4-5. 6-7 (R.: cf. 18b)",
       "role": "title"
      }
     ],
@@ -717,7 +717,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7 (: cf. 18b)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7 (R.: cf. 18b)",
       "role": "title"
      }
     ],
@@ -729,7 +729,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 2-3. 4-5. 6-7 (R: vgl. 18)",
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7 (R.: vgl. 18)",
       "role": "title"
      }
     ]
@@ -2189,7 +2189,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 131, 11. 12. 13-14. 17-18 (: cf. 13)",
+      "cite": "Ps 131, 11. 12. 13-14. 17-18 (R.: cf. 13)",
       "role": "title"
      }
     ],
@@ -2201,7 +2201,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 131 (132), 11.12.13-14.17-18 (: cf. 13)",
+      "cite": "Sl 131 (132), 11.12.13-14.17-18 (R.: cf. 13)",
       "role": "title"
      }
     ],
@@ -2213,7 +2213,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 131, 11. 12. 13-14. 17-18 (: cf. 13)",
+      "cite": "Ps 131, 11. 12. 13-14. 17-18 (R.: cf. 13)",
       "role": "title"
      }
     ],
@@ -2225,7 +2225,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 131, 11. 12. 13-14. 17-18 (: cf. 13)",
+      "cite": "Sal 131, 11. 12. 13-14. 17-18 (R.: cf. 13)",
       "role": "title"
      }
     ],
@@ -2249,7 +2249,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 131, 11. 12. 13-14. 17-18 (: cf. 13)",
+      "cite": "Ps 131, 11. 12. 13-14. 17-18 (R.: cf. 13)",
       "role": "title"
      }
     ],
@@ -2261,7 +2261,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 132 (131), 11. 12. 13-14. 17-18 (R: vgl. 13)",
+      "cite": "Ps 132 (131), 11. 12. 13-14. 17-18 (R.: vgl. 13)",
       "role": "title"
      }
     ]
@@ -4110,7 +4110,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XI",
   "pt-BR": "Sexta-feira da 11ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 11th Week: Friday",
+  "en-US": "Friday of the Eleventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 11ª semana",
   "it": "VENERDI della XI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 11e semaine",

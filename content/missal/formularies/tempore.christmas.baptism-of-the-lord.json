@@ -410,7 +410,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -431,7 +431,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -515,7 +515,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -802,7 +802,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -815,7 +815,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -841,7 +841,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -854,7 +854,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -867,7 +867,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -2018,7 +2018,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -2027,7 +2027,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -2036,7 +2036,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -2378,8 +2378,8 @@
  ],
  "title": {
   "la": "DOMINICA post diem 6 ianuarii occurrente — IN BAPTISMATE DOMINI",
-  "pt-BR": "Domingo depois do dia 6 de janeiro — BATISMO DO SENHOR",
-  "en-US": "Sunday after the Epiphany of the Lord — THE BAPTISM OF THE LORD",
+  "pt-BR": "Batismo do Senhor",
+  "en-US": "The Baptism of the Lord",
   "es": "Domingo después del 6 de enero — EL BAUTISMO DEL SEÑOR",
   "it": "DOMENICA dopo il 6 gennaio — BATTESIMO DEL SIGNORE",
   "fr": "BAPTÊME DU SEIGNEUR",

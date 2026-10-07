@@ -545,7 +545,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
@@ -557,7 +557,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "cite": "Sl 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
@@ -569,7 +569,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
@@ -581,7 +581,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
@@ -605,7 +605,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 148, 1-2. 11-12. 13-14 (R: vgl. 12a. 13a)",
+      "cite": "Ps 148, 1-2. 11-12. 13-14 (R.: vgl. 12a. 13a)",
       "role": "title"
      }
     ]
@@ -710,7 +710,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -981,7 +981,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1074,7 +1074,7 @@
         "e vós, jovens, e vós moças e rapazes,"
        ],
        [
-        "anciãos e criancinhas, bendizei-o!."
+        "anciãos e criancinhas, bendizei-o!"
        ],
        [
         "Louvai o nome do Senhor, louvai-o todos"
@@ -1264,7 +1264,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1547,7 +1547,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1594,16 +1594,6 @@
          "t": "Oder: "
         },
         "Halleluja."
-       ]
-      ]
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "."
        ]
       ]
      }
@@ -2422,8 +2412,8 @@
  ],
  "title": {
   "la": "S. Angelæ Merici, virginis",
-  "pt-BR": "Santa Ângela de Mérici, virgem",
-  "en-US": "St. Angela Merici, virgin",
+  "pt-BR": "Santa Ângela Mérici, virgem",
+  "en-US": "Saint Angela Merici, virgin",
   "es": "Santa Ángela de Mérici, virgen",
   "it": "Sant'Angela Merici, vergine",
   "fr": "Sainte Angèle Merici, vierge",

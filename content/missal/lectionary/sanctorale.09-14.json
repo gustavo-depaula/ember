@@ -657,7 +657,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 77, 1-2. 34-35. 36-37. 38 (: cf. 7c)",
+      "cite": "Ps 77, 1-2. 34-35. 36-37. 38 (R.: cf. 7c)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 77, 1-2. 34-35. 36-37. 38 (: cf. 7c)",
+      "cite": "Ps 77, 1-2. 34-35. 36-37. 38 (R.: cf. 7c)",
       "role": "title"
      }
     ],
@@ -717,7 +717,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 77, 1-2. 34-35. 36-37. 38 (: cf. 7c)",
+      "cite": "Ps 77, 1-2. 34-35. 36-37. 38 (R.: cf. 7c)",
       "role": "title"
      }
     ],
@@ -729,7 +729,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 78 (77), 1-2. 34-35. 36-37. 38ab u. 39 (R: vgl. 7b)",
+      "cite": "Ps 78 (77), 1-2. 34-35. 36-37. 38ab u. 39 (R.: vgl. 7b)",
       "role": "title"
      }
     ]
@@ -1862,7 +1862,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, mas ele esvaziou-se asi mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome. Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua proclame: \"Jesus Cristo, é o Senhor\" - para a glória de Deus Pai.."
+        "Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, mas ele esvaziou-se asi mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome. Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua proclame: \"Jesus Cristo, é o Senhor\" - para a glória de Deus Pai."
        ]
       ]
      },
@@ -2303,7 +2303,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamação ao Evamglho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Mt 17, 5c",
@@ -3079,8 +3079,8 @@
  ],
  "title": {
   "la": "IN EXALTATIONE SANCTÆ CRUCIS",
-  "pt-BR": "EXALTAÇÃO DA SANTA CRUZ",
-  "en-US": "The Triumph of the Cross",
+  "pt-BR": "Exaltação da Santa Cruz",
+  "en-US": "The Exaltation of the Holy Cross",
   "es": "LA EXALTACIÓN DE LA SANTA CRUZ",
   "it": "ESALTAZIONE DELLA SANTA CROCE",
   "fr": "LA CROIX GLORIEUSE",

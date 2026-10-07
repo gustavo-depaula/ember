@@ -727,7 +727,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 85, 1-2. 3-4. 5-6 (: 11a)",
+      "cite": "Ps 85, 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -739,7 +739,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 85 (86), 1-2.3-4.5-6 (: 11a)",
+      "cite": "Sl 85 (86), 1-2.3-4.5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -751,7 +751,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 85, 1-2. 3-4. 5-6 (: 11a)",
+      "cite": "Ps 85, 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -763,7 +763,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 85, 1-2. 3-4. 5-6 (: 11a)",
+      "cite": "Sal 85, 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -787,7 +787,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 85, 1-2. 3-4. 5-6 (: 11a)",
+      "cite": "Ps 85, 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -799,7 +799,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 86 (85), 1-2. 3-4. 5-6 (R: 11a)",
+      "cite": "Ps 86 (85), 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ]
@@ -2400,8 +2400,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Sabbato post Cineres",
-  "pt-BR": "Tempo da Quaresma — Sábado depois das Cinzas",
-  "en-US": "Season of Lent — Saturday after Ash Wednesday",
+  "pt-BR": "Sábado depois das Cinzas",
+  "en-US": "Saturday after Ash Wednesday",
   "es": "Tiempo de Cuaresma — Sábado después de Ceniza",
   "it": "Sabato DOPO LE CENERI",
   "fr": "Samedi après les Cendres",

@@ -353,7 +353,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -367,7 +367,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -381,7 +381,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -409,7 +409,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -423,7 +423,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -629,7 +629,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " a graça de sofrer por Cristo, fortificai também a nossa fragilidade com vosso divino auxílio e, como eles não hesitaram morrer por vós, assim possamos viver firmes na confissão do vosso nome. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+        "a graça de sofrer por Cristo, fortificai também a nossa fragilidade com vosso divino auxílio e, como eles não hesitaram morrer por vós, assim possamos viver firmes na confissão do vosso nome. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
        ]
       ]
      }
@@ -721,7 +721,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " hai dato la grazia di soffrire per Cristo, sostieni la nostra debolezza con il tuo aiuto: come essi non esitarono a morire per te, così anche noi possiamo vivere da forti nella confessione del tuo nome. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+        "hai dato la grazia di soffrire per Cristo, sostieni la nostra debolezza con il tuo aiuto: come essi non esitarono a morire per te, così anche noi possiamo vivere da forti nella confessione del tuo nome. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
        ]
       ]
      }
@@ -1256,7 +1256,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1270,7 +1270,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1284,7 +1284,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1312,7 +1312,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -1326,7 +1326,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1603,7 +1603,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " superiamo con fortezza ogni prova, in nome di colui che ci ha amato. Egli vive e regna nei secoli dei secoli."
+        "superiamo con fortezza ogni prova, in nome di colui che ci ha amato. Egli vive e regna nei secoli dei secoli."
        ]
       ]
      }
@@ -1679,8 +1679,8 @@
  ],
  "title": {
   "la": "COMMUNE MARTYRUM",
-  "pt-BR": "COMUM DOS MÁRTIRES",
-  "en-US": "COMMON OF MARTYRS",
+  "pt-BR": "Comum dos Mártires",
+  "en-US": "Common of Martyrs",
   "es": "COMÚN DE MÁRTIRES",
   "it": "COMUNE DEI MARTIRI",
   "fr": "COMMUN DES MARTYRS",

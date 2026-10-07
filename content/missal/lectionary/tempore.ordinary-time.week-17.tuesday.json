@@ -682,7 +682,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 102, 6-7. 8-9. 10-11. 12-13 (: 8a)",
+      "cite": "Ps 102, 6-7. 8-9. 10-11. 12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -694,7 +694,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 6-7.8-9.10-11 12-13 (: 8a)",
+      "cite": "Sl 102 (103), 6-7.8-9.10-11 12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -706,7 +706,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 102, 6-7. 8-9. 10-11. 12-13 (: 8a)",
+      "cite": "Ps 102, 6-7. 8-9. 10-11. 12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -718,7 +718,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 102, 6-7. 8-9. 10-11. 12-13 (: 8a)",
+      "cite": "Sal 102, 6-7. 8-9. 10-11. 12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -742,7 +742,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 102, 6-7. 8-9. 10-11. 12-13 (: 8a)",
+      "cite": "Ps 102, 6-7. 8-9. 10-11. 12-13 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -754,7 +754,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 6-7. 8-9. 10-11. 12-13 (R: vgl. 8a)",
+      "cite": "Ps 103 (102), 6-7. 8-9. 10-11. 12-13 (R.: vgl. 8a)",
       "role": "title"
      }
     ]
@@ -2518,7 +2518,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 78 (79), 8.9.11.13 (: 9bc)",
+      "cite": "Sl 78 (79), 8.9.11.13 (R.: 9bc)",
       "role": "title"
      }
     ],
@@ -2530,7 +2530,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 78, 8. 9. 11. 13 (: 9b)",
+      "cite": "Ps 78, 8. 9. 11. 13 (R.: 9b)",
       "role": "title"
      }
     ],
@@ -2578,7 +2578,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 79 (78), 5 u. 8. 9. 11 u. 13 (R: vgl. 9b)",
+      "cite": "Ps 79 (78), 5 u. 8. 9. 11 u. 13 (R.: vgl. 9b)",
       "role": "title"
      }
     ]
@@ -2950,7 +2950,7 @@
         "Por vosso nome e vossa glória, libertai-nos!"
        ],
        [
-        "Por vosso nome, perdoai nossos pecados!."
+        "Por vosso nome, perdoai nossos pecados!"
        ]
       ]
      }
@@ -4386,7 +4386,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XVII",
   "pt-BR": "Terça-feira da 17ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 17th Week: Tuesday",
+  "en-US": "Tuesday of the Seventeenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 17ª semana",
   "it": "MARTEDI della XVII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 17e semaine",

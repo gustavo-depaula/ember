@@ -663,7 +663,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 32, 10-11. 12-13. 14-15 (: cf. 12)",
+      "cite": "Ps 32, 10-11. 12-13. 14-15 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 32 (33), 10-11.12-13.14-15 (:cf. 12b)",
+      "cite": "Sl 32 (33), 10-11.12-13.14-15 (R.: cf. 12b)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 32, 10-11. 12-13. 14-15 (: cf. 12)",
+      "cite": "Ps 32, 10-11. 12-13. 14-15 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 32, 10-11. 12-13. 14-15 (: cf. 12)",
+      "cite": "Sal 32, 10-11. 12-13. 14-15 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 32, 10-11. 12-13. 14-15 (: cf. 12)",
+      "cite": "Ps 32, 10-11. 12-13. 14-15 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 33 (32), 10-11. 12-13. 14-15 (R: vgl. 12b)",
+      "cite": "Ps 33 (32), 10-11. 12-13. 14-15 (R.: vgl. 12b)",
       "role": "title"
      }
     ]
@@ -874,16 +874,16 @@
       "k": "p",
       "lines": [
        [
-        "Il Signore annulla i disegni delle nazioni,"
+        "O Senhor desfaz os planos das nações"
        ],
        [
-        "rende vani i progetti dei popoli."
+        "e os projetos que os povos se propõem. Mas os desígnios do Senhor são para sempre,"
        ],
        [
-        "Ma il disegno del Signore sussiste per sempre,"
+        "e os pensamentos que ele traz no coração,"
        ],
        [
-        "i progetti del suo cuore per tutte le generazioni."
+        "de geração em geração, vão perdurar."
        ]
       ]
      }
@@ -2119,7 +2119,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-6 (: cf. 1b)",
+      "cite": "Ps 111, 1-2. 3-4. 5-6 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2131,7 +2131,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 111 (112), 1-2.3-4.5-6 (: cf. 1b)",
+      "cite": "Sl 111 (112), 1-2.3-4.5-6 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2143,7 +2143,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-6 (: cf. 1b)",
+      "cite": "Ps 111, 1-2. 3-4. 5-6 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2155,7 +2155,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 111, 1-2. 3-4. 5-6 (: cf. 1b)",
+      "cite": "Sal 111, 1-2. 3-4. 5-6 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2179,7 +2179,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-6 (: cf. 1b)",
+      "cite": "Ps 111, 1-2. 3-4. 5-6 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2191,7 +2191,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 112 (111), 1-2. 3-4. 5-6 (R: vgl. 1a)",
+      "cite": "Ps 112 (111), 1-2. 3-4. 5-6 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -3051,7 +3051,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Jn 15, 15b",
+      "cite": "Jo 15, 15b",
       "role": "title"
      },
      {
@@ -3843,7 +3843,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. VI",
   "pt-BR": "Sexta-feira da 6ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 6th Week: Friday",
+  "en-US": "Friday of the Sixth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 6ª semana",
   "it": "VENERDI della VI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 6e semaine",

@@ -98,73 +98,50 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cp2l6"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.3"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 39(40), 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 39(40), 2 e 4ab. 7. 8-9. 10 (R.: 8a e 9a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 39, 2 and 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a and 9a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
       "role": "title"
      }
@@ -172,7 +149,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 39 (40)",
       "role": "title"
      }
@@ -180,16 +161,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: vgl. 8a. 9a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R.: vgl. 8a. 9a)",
       "role": "title"
      }
     ]
@@ -1752,7 +1741,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo: Jesus começou a ensinar de novo às margens do mar da Galileia. Uma multidão muito grande se reuniu em volta dele, de modo que Jesus entrou numa barca e se sentou, enquanto a multidão permanecia junto às margens, na praia. Jesus ensinava-lhes muitas coisas em parábolas. E, em seu ensinamento, dizia-lhes: \"Escutai! O semeador saiu a semear. Enquanto semeava, uma parte da semente caiu à beira do caminho; vieram os pássaros e a comeram. Outra parte caiu em terreno pedregoso,onde não havia muita terra; brotou logo, porque a terra não era profunda, mas, quando saiu o sol, ela foi queimada; e, como não tinha raiz, secou. Outra parte caiu no meio dos espinhos; os espinhos cresceram, a sufocaram, e ela não deu fruto. Outra parte caiu em terra boa e deu fruto, que foi crescendo e aumentando, chegando a render trinta, sessenta e até cem por um\". Quando ficou sozinho, os que estavam com ele, junto com os Doze, perguntaram sobre as parábolas. E lhes disse: \"Vós não compreendeis esta parábola? Então, como compreendereis todas as outras parábolas? O semeador semeia a Palavra. Os que estão à beira do caminho são aqueles nos quais a Palavra foi semeada; logo que a escutam, chega Satanás e tira a Palavra que neles foi semeada. Do mesmo modo, os que receberam a semente em terreno pedregoso, são aqueles que ouvem a Palavra e logo a recebem com alegria, mas não têm raiz em si mesmos, são inconstantes; quando chega uma tribulação ou perseguição, por causa da Palavra, logo desistem. Outros recebem a semente entre os espinhos: são aqueles que ouvem a Palavra; mas quando surgem as preocupações do mundo, a ilusão da riqueza e todos os outros desejos, sufocam a Palavra, e ela não produz fruto. Por fim, aqueles que recebem a semente em terreno bom, são os que ouvem a Palavra, a recebem e dão fruto; um dá trinta, outro sessenta e outro cem por um\"."
+        "Naquele tempo: Jesus começou a ensinar de novo às margens do mar da Galileia. Uma multidão muito grande se reuniu em volta dele, de modo que Jesus entrou numa barca e se sentou, enquanto a multidão permanecia junto às margens, na praia. Jesus ensinava-lhes muitas coisas em parábolas. E, em seu ensinamento, dizia-lhes: \"Escutai! O semeador saiu a semear. Enquanto semeava, uma parte da semente caiu à beira do caminho; vieram os pássaros e a comeram. Outra parte caiu em terreno pedregoso, onde não havia muita terra; brotou logo, porque a terra não era profunda, mas, quando saiu o sol, ela foi queimada; e, como não tinha raiz, secou. Outra parte caiu no meio dos espinhos; os espinhos cresceram, a sufocaram, e ela não deu fruto. Outra parte caiu em terra boa e deu fruto, que foi crescendo e aumentando, chegando a render trinta, sessenta e até cem por um\". Quando ficou sozinho, os que estavam com ele, junto com os Doze, perguntaram sobre as parábolas. E lhes disse: \"Vós não compreendeis esta parábola? Então, como compreendereis todas as outras parábolas? O semeador semeia a Palavra. Os que estão à beira do caminho são aqueles nos quais a Palavra foi semeada; logo que a escutam, chega Satanás e tira a Palavra que neles foi semeada. Do mesmo modo, os que receberam a semente em terreno pedregoso, são aqueles que ouvem a Palavra e logo a recebem com alegria, mas não têm raiz em si mesmos, são inconstantes; quando chega uma tribulação ou perseguição, por causa da Palavra, logo desistem. Outros recebem a semente entre os espinhos: são aqueles que ouvem a Palavra; mas quando surgem as preocupações do mundo, a ilusão da riqueza e todos os outros desejos, sufocam a Palavra, e ela não produz fruto. Por fim, aqueles que recebem a semente em terreno bom, são os que ouvem a Palavra, a recebem e dão fruto; um dá trinta, outro sessenta e outro cem por um\"."
        ]
       ]
      },
@@ -2030,7 +2019,7 @@
  "title": {
   "la": "S. Laurentii de Brindisi, presbyteri et Ecclesiæ doctoris",
   "pt-BR": "São Lourenço de Bríndisi, presbítero e doutor da Igreja",
-  "en-US": "St. Lawrence of Brindisi, priest and doctor of the Church",
+  "en-US": "Saint Lawrence of Brindisi, priest and doctor of the Church",
   "es": "San Lorenzo de Brindis, presbítero y doctor de la Iglesia",
   "it": "San Lorenzo da Brindisi, sacerdote e dottore della Chiesa",
   "fr": "Saint Laurent de Brindisi, prêtre et docteur de l'Église",

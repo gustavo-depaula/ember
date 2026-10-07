@@ -634,7 +634,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 61, 6-7. 9 (: 8a)",
+      "cite": "Ps 61, 6-7. 9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -646,7 +646,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 61 (62), 6-7.9 (: 8a)",
+      "cite": "Sl 61 (62), 6-7.9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -658,7 +658,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 61, 6-7. 9 (: 8a)",
+      "cite": "Ps 61, 6-7. 9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -670,7 +670,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 61, 6-7. 9 (: 8a)",
+      "cite": "Sal 61, 6-7. 9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -694,7 +694,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 61, 6-7. 9 (: 8a)",
+      "cite": "Ps 61, 6-7. 9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -706,7 +706,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 62 (61), 6-7. 8-9 (R: 8a)",
+      "cite": "Ps 62 (61), 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ]
@@ -1084,7 +1084,7 @@
         "e abri diante dele o coração:"
        ],
        [
-        "nosso Deus é um refúgio para nós!."
+        "nosso Deus é um refúgio para nós!"
        ]
       ]
      }
@@ -1834,7 +1834,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 5, 5-6. 7. 12 (: 9a)",
+      "cite": "Ps 5, 5-6. 7. 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -1846,7 +1846,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 5, 5-6. 7. 12(: 9a)",
+      "cite": "Sl 5, 5-6. 7. 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -1858,7 +1858,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 5, 5-6. 7. 12 (: 9a)",
+      "cite": "Ps 5, 5-6. 7. 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -1870,7 +1870,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 5, 5-6. 7. 12 (: 9a)",
+      "cite": "Sal 5, 5-6. 7. 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -1894,7 +1894,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 5, 5-6. 7. 12 (: 9a)",
+      "cite": "Ps 5, 5-6. 7. 12 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -1906,7 +1906,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 5, 5-6. 7-8a. 12 (R: 9a)",
+      "cite": "Ps 5, 5-6. 7-8a. 12 (R.: 9a)",
       "role": "title"
      }
     ]
@@ -2163,7 +2163,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Na vossa justiça guiai-me Senhor!."
+        "Na vossa justiça guiai-me Senhor!"
        ]
       ]
      }
@@ -2393,7 +2393,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Na vossa justiça guiai-me Senhor!."
+        "Na vossa justiça guiai-me Senhor!"
        ]
       ]
      }
@@ -2626,7 +2626,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Na vossa justiça guiai-me Senhor!."
+        "Na vossa justiça guiai-me Senhor!"
        ]
       ]
      }
@@ -3529,7 +3529,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. XXIII",
   "pt-BR": "Segunda-feira da 23ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 23rd Week: Monday",
+  "en-US": "Monday of the Twenty-Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 23ª semana",
   "it": "LUNEDI della XXIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 23e semaine",

@@ -379,7 +379,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -400,7 +400,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -484,7 +484,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1449,7 +1449,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1462,7 +1462,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1475,7 +1475,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1519,8 +1519,8 @@
  ],
  "title": {
   "la": "Die 25 decembris — IN NATIVITATE DOMINI",
-  "pt-BR": "25 de dezembro — NATAL DO SENHOR",
-  "en-US": "December 25 — The Nativity of the Lord — (Christmas)",
+  "pt-BR": "Natal do Senhor",
+  "en-US": "The Nativity of the Lord",
   "es": "25 de diciembre — NATIVIDAD DEL SEÑOR",
   "it": "25 dicembre — NATALE DEL SIGNORE",
   "fr": "25 décembre — SOLENNITÉ DE LA NATIVITÉ",

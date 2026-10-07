@@ -714,7 +714,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 77, 18-19. 23-24. 25-26. 27-28 (: 24b)",
+      "cite": "Ps 77, 18-19. 23-24. 25-26. 27-28 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -726,7 +726,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 77 (78), 18-19.23-24.25-26.27.28 (: 24b)",
+      "cite": "Sl 77 (78), 18-19.23-24.25-26.27.28 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -738,7 +738,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 77, 18-19. 23-24. 25-26. 27-28 (: 24b)",
+      "cite": "Ps 77, 18-19. 23-24. 25-26. 27-28 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -750,7 +750,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 77, 18-19. 23-24. 25-26. 27-28 (: 24b)",
+      "cite": "Sal 77, 18-19. 23-24. 25-26. 27-28 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -774,7 +774,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 77, 18-19. 23-24. 25-26. 27-28 (: 24b)",
+      "cite": "Ps 77, 18-19. 23-24. 25-26. 27-28 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -786,7 +786,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 78 (77), 18-19. 23-24. 25-26. 27-28 (R: vgl. 24b)",
+      "cite": "Ps 78 (77), 18-19. 23-24. 25-26. 27-28 (R.: vgl. 24b)",
       "role": "title"
      }
     ]
@@ -2475,7 +2475,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: cf. 15ab)",
+      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (R.: cf. 15ab)",
       "role": "title"
      }
     ],
@@ -2487,7 +2487,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 70 (71), 1-2.3-4a.5-6ab.15ab e 17 (: cf. 15ab)",
+      "cite": "Sl 70 (71), 1-2.3-4a.5-6ab.15ab e 17 (R.: cf. 15ab)",
       "role": "title"
      }
     ],
@@ -2499,7 +2499,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: cf. 15ab)",
+      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab and 17 (R.: cf. 15ab)",
       "role": "title"
      }
     ],
@@ -2511,7 +2511,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: cf. 15ab)",
+      "cite": "Sal 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (R.: cf. 15ab)",
       "role": "title"
      }
     ],
@@ -2535,7 +2535,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: cf. 15ab)",
+      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (R.: cf. 15ab)",
       "role": "title"
      }
     ],
@@ -2547,7 +2547,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 71 (70), 1-2. 3. 5-6. 15 u. 17 (R: 15a)",
+      "cite": "Ps 71 (70), 1-2. 3. 5-6. 15 u. 17 (R.: 15a)",
       "role": "title"
      }
     ]
@@ -4408,7 +4408,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XVI",
   "pt-BR": "Quarta-feira da 16ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 16th Week: Wednesday",
+  "en-US": "Wednesday of the Sixteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 16ª semana",
   "it": "MERCOLEDI della XVI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 16e semaine",

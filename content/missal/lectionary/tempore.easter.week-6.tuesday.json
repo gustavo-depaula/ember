@@ -626,7 +626,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 137 (138), 1-2a.2bc-3.7c-8 (R. 7c))",
+      "cite": "Sl 137 (138), 1-2a.2bc-3.7c-8 (R.: 7c)",
       "role": "title"
      }
     ],
@@ -649,7 +649,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 137, 1-2a. 2bc y 3. 7c-8 (R/.: 7c)",
+      "cite": "Sal 137, 1-2a. 2bc y 3. 7c-8 (R.: 7c)",
       "role": "title"
      }
     ],
@@ -685,7 +685,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 138 (137), 1-2b. 2c-3. 7c-8 (R: vgl. 7d)",
+      "cite": "Ps 138 (137), 1-2b. 2c-3. 7c-8 (R.: vgl. 7d)",
       "role": "title"
      }
     ]
@@ -731,7 +731,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1020,7 +1020,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1321,7 +1321,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1622,7 +1622,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -2536,8 +2536,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VI — Feria III",
-  "pt-BR": "Tempo da Páscoa — 6ª Semana — Terça-feira",
-  "en-US": "Easter Season — Sixth Week — Tuesday",
+  "pt-BR": "Terça-feira da 6ª Semana da Páscoa",
+  "en-US": "Tuesday of the Sixth Week of Easter",
   "es": "Tiempo de Pascua — Semana VI — Martes",
   "it": "MARTEDI della VI settimana di Pasqua",
   "fr": "Temps pascal — 6e semaine — Mardi",

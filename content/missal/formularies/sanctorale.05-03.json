@@ -384,7 +384,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -402,7 +402,7 @@
         "Glória",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -486,7 +486,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1335,7 +1335,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1348,7 +1348,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1361,7 +1361,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1404,8 +1404,8 @@
  ],
  "title": {
   "la": "SS. PHILIPPI ET IACOBI, APOSTOLORUM",
-  "pt-BR": "SANTOS FILIPE E TIAGO, APÓSTOLOS",
-  "en-US": "SS. PHILIP AND JAMES, APOSTLES",
+  "pt-BR": "Santos Filipe e Tiago, Apóstolos",
+  "en-US": "Ss. Philip and James, Apostles",
   "es": "SAN FELIPE Y SANTIAGO, APÓSTOLES",
   "it": "SANTI FILIPPO E GIACOMO APOSTOLI",
   "fr": "SAINTS PHILIPPE ET JACQUES, APÔTRES",

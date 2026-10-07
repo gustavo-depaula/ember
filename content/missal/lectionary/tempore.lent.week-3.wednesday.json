@@ -177,7 +177,7 @@
       "k": "p",
       "lines": [
        [
-        "Primeira Leciura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -602,7 +602,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -614,7 +614,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 147, 12-13.15-16.19-20 (: 12a)",
+      "cite": "Sl 147, 12-13.15-16.19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -637,7 +637,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Sal 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -661,7 +661,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -673,7 +673,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 15-16. 19-20 (R: 12a)",
+      "cite": "Ps 147, 12-13. 15-16. 19-20 (R.: 12a)",
       "role": "title"
      }
     ]
@@ -747,7 +747,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Celebra il Signore, Gerusalemme."
+        "Celebra il Signore, Gerusalemme."
        ]
       ]
      }
@@ -2274,8 +2274,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada III — Feria quarta",
-  "pt-BR": "Tempo da Quaresma — Quarta-feira da 3ª Semana da Quaresma",
-  "en-US": "Season of Lent — 3rd Week: Wednesday",
+  "pt-BR": "Quarta-feira da 3ª Semana da Quaresma",
+  "en-US": "Wednesday of the Third Week of Lent",
   "es": "Tiempo de Cuaresma — Miércoles de la III Semana",
   "it": "MERCOLEDI DELLA III SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 3e semaine — Mercredi",

@@ -288,6 +288,20 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ],
+      "cite": "Cf. Sl 26, 4"
+     }
     ]
    },
    "part": "entranceAntiphon"
@@ -301,7 +315,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -315,7 +329,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -357,7 +371,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -465,6 +479,25 @@
          "t": "( T. P. "
         },
         "alléluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O justo tem nos lábios o que é sábio, sua língua tem palavras de justiça; traz a aliança do seu Deus no coração ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "aleluia ",
         {
          "m": "rubric",
          "t": ")."
@@ -1055,6 +1088,25 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Servo fiel e prudente, a quem o Senhor confiou a sua família para dar-lhe alimento no tempo oportuno ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "aleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
     ]
    },
    "part": "communionAntiphon"
@@ -1068,7 +1120,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1082,7 +1134,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1124,7 +1176,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1418,7 +1470,7 @@
  ],
  "title": {
   "la": "COMMUNE SANCTORUM ET SANCTARUM",
-  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "en-US": "Common of Holy Men and Women",
   "es": "COMÚN DE SANTOS Y SANTAS",
   "it": "COMUNE DEI SANTI E DELLE SANTE",
   "fr": "COMMUN DES SAINTS ET DES SAINTES"

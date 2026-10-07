@@ -723,7 +723,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 2-3. 4-5. 10-11 (: cf. 1)",
+      "cite": "Ps 144, 2-3. 4-5. 10-11 (R.: cf. 1)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 2-3.4-5.10-11 (: cf. 1)",
+      "cite": "Sl 144 (145), 2-3.4-5.10-11 (R.: cf. 1)",
       "role": "title"
      }
     ],
@@ -747,7 +747,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 144, 2-3. 4-5. 10-11 (: cf. 1)",
+      "cite": "Ps 144, 2-3. 4-5. 10-11 (R.: cf. 1)",
       "role": "title"
      }
     ],
@@ -759,7 +759,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 2-3. 4-5. 10-11 (: cf. 1)",
+      "cite": "Sal 144, 2-3. 4-5. 10-11 (R.: cf. 1)",
       "role": "title"
      }
     ],
@@ -783,7 +783,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 2-3. 4-5. 10-11 (: cf. 1)",
+      "cite": "Ps 144, 2-3. 4-5. 10-11 (R.: cf. 1)",
       "role": "title"
      }
     ],
@@ -795,7 +795,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 2-3. 4-5. 10-11 (R: vgl. 2b)",
+      "cite": "Ps 145 (144), 2-3. 4-5. 10-11 (R.: vgl. 2b)",
       "role": "title"
      }
     ]
@@ -2170,7 +2170,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 111, 1-2. 5-6. 8a et 9 (: 1a)",
+      "cite": "Ps 111, 1-2. 5-6. 8a et 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2182,7 +2182,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 111 (112), 1-2.5-6.8a e 9 (: 1a))",
+      "cite": "Sl 111 (112), 1-2.5-6.8a e 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2194,7 +2194,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 111, 1-2. 5-6. 8a et 9 (: 1a)",
+      "cite": "Ps 111, 1-2. 5-6. 8a and 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2206,7 +2206,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 111, 1-2. 5-6. 8a et 9 (: 1a)",
+      "cite": "Sal 111, 1-2. 5-6. 8a et 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2230,7 +2230,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 111, 1-2. 5-6. 8a et 9 (: 1a)",
+      "cite": "Ps 111, 1-2. 5-6. 8a et 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2242,7 +2242,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 112 (111), 1-2. 5-6. 8a u. 9 (R: vgl. 1a)",
+      "cite": "Ps 112 (111), 1-2. 5-6. 8a u. 9 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -3927,7 +3927,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XXXI",
   "pt-BR": "Sábado da 31ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 31st Week: Saturday",
+  "en-US": "Saturday of the Thirty-First Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 31ª semana",
   "it": "Sabato della XXXI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 31e semaine",

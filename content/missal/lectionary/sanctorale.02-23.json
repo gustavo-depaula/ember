@@ -187,7 +187,7 @@
       "k": "p",
       "lines": [
        [
-        "Angelo Ecclésiæ, quæ est Smyrnæ, scribe: Hæc dicit Primus et Novíssimus, qui fuit mórtuus et vixit: Scio tribulatiónem tuam et paupertátem tuam — ​sed dives es — ​et blasphémiam ab his, qui se dicunt Iudæos esse et non sunt, sed sunt synagóga Sátanæ. Nihil horum tímeas, quæ passúrus es. Ecce missúrus est Diábolus ex vobis in cárcerem, ut tentémini, et habébitis tribulatiónem diébus decem. Esto fidélis usque ad mortem, et dabo tibi corónam vitæ."
+        "Angelo Ecclésiæ, quæ est Smyrnæ, scribe: Hæc dicit Primus et Novíssimus, qui fuit mórtuus et vixit: Scio tribulatiónem tuam et paupertátem tuam — sed dives es — et blasphémiam ab his, qui se dicunt Iudæos esse et non sunt, sed sunt synagóga Sátanæ. Nihil horum tímeas, quæ passúrus es. Ecce missúrus est Diábolus ex vobis in cárcerem, ut tentémini, et habébitis tribulatiónem diébus decem. Esto fidélis usque ad mortem, et dabo tibi corónam vitæ."
        ]
       ]
      },
@@ -601,54 +601,50 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 30(31), 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 30(31), 3cd-4. 6 e 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 and 8ab. 16bc and 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 30, 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
@@ -656,7 +652,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 30 (31)",
       "role": "title"
      }
@@ -664,16 +664,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R: vgl. 6a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R.: vgl. 6a)",
       "role": "title"
      }
     ]
@@ -2291,7 +2299,7 @@
  "title": {
   "la": "S. Polycarpi, episcopi et martyris",
   "pt-BR": "São Policarpo, bispo e mártir",
-  "en-US": "St. Polycarp, bishop and martyr",
+  "en-US": "Saint Polycarp, bishop and martyr",
   "es": "San Policarpo, obispo y mártir",
   "it": "San Policarpo, vescovo e martire",
   "fr": "Saint Polycarpe, évêque et martyr",

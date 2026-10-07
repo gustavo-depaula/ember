@@ -612,7 +612,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 67 (68), 10-11.20-21 (R/.: 33a)",
+      "cite": "Sl 67 (68), 10-11.20-21 (R.: 33a)",
       "role": "title"
      }
     ],
@@ -635,7 +635,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 67, 10-11. 20-21 (R/.: 33a)",
+      "cite": "Sal 67, 10-11. 20-21 (R.: 33a)",
       "role": "title"
      }
     ],
@@ -671,7 +671,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 68 (67), 10-11. 20-21 (R: 33a.b)",
+      "cite": "Ps 68 (67), 10-11. 20-21 (R.: 33a.b)",
       "role": "title"
      }
     ]
@@ -1460,7 +1460,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Jn 14, 16",
+      "cite": "Jo 14, 16",
       "role": "title"
      },
      {
@@ -1500,7 +1500,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2273,8 +2273,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VII — Feria III",
-  "pt-BR": "Tempo da Páscoa — 7ª Semana — Terça-feira",
-  "en-US": "Easter Season — Seventh Week — Tuesday",
+  "pt-BR": "Terça-feira da 7ª Semana da Páscoa",
+  "en-US": "Tuesday of the Seventh Week of Easter",
   "es": "Tiempo de Pascua — Semana VII — Martes",
   "it": "MARTEDI della VII settimana di Pasqua",
   "fr": "Temps pascal — 7e semaine — Mardi",

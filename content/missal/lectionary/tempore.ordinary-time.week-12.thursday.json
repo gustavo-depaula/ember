@@ -1168,7 +1168,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (: 1a)",
+      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -1180,7 +1180,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 105 (106), 1-2.3-4a.4b-5 (: 1a)",
+      "cite": "Sl 105 (106), 1-2.3-4a.4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -1192,7 +1192,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (: 1a)",
+      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -1204,7 +1204,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 105, 1-2. 3-4a. 4b-5 (: 1a)",
+      "cite": "Sal 105, 1-2. 3-4a. 4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -1228,7 +1228,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (: 1a)",
+      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -1240,7 +1240,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 106 (105), 1-2. 3-4. 5 (R: 1a)",
+      "cite": "Ps 106 (105), 1-2. 3-4. 5 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -2613,7 +2613,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 78, 1-2. 3-5. 8. 9 (: 9b)",
+      "cite": "Ps 78, 1-2. 3-5. 8. 9 (R.: 9b)",
       "role": "title"
      }
     ],
@@ -2625,7 +2625,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 78 (79), 1-2.3-5.8-9 (: 9b)",
+      "cite": "Sl 78 (79), 1-2.3-5.8-9 (R.: 9b)",
       "role": "title"
      }
     ],
@@ -2637,7 +2637,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 78, 1-2. 3-5. 8. 9 (: 9b)",
+      "cite": "Ps 78, 1-2. 3-5. 8. 9 (R.: 9b)",
       "role": "title"
      }
     ],
@@ -2649,7 +2649,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 78, 1-2. 3-5. 8. 9 (: 9b)",
+      "cite": "Sal 78, 1-2. 3-5. 8. 9 (R.: 9b)",
       "role": "title"
      }
     ],
@@ -2673,7 +2673,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 78, 1-2. 3-5. 8. 9 (: 9b)",
+      "cite": "Ps 78, 1-2. 3-5. 8. 9 (R.: 9b)",
       "role": "title"
      }
     ],
@@ -2685,7 +2685,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 79 (78), 1-2. 3-4. 5 u. 8. 9 (R: vgl. 9b)",
+      "cite": "Ps 79 (78), 1-2. 3-4. 5 u. 8. 9 (R.: vgl. 9b)",
       "role": "title"
      }
     ]
@@ -3604,7 +3604,7 @@
         "Por vosso nome e vossa glória, libertai-nos!"
        ],
        [
-        "Por vosso nome, perdoai nossos pecados!."
+        "Por vosso nome, perdoai nossos pecados!"
        ]
       ]
      }
@@ -4654,7 +4654,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XII",
   "pt-BR": "Quinta-feira da 12ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 12th Week: Thursday",
+  "en-US": "Thursday of the Twelfth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 12ª semana",
   "it": "GIOVEDI della XII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 12e semaine",

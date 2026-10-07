@@ -720,7 +720,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 33, 7-8. 10-11. 12-13 (: 7a)",
+      "cite": "Ps 33, 7-8. 10-11. 12-13 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -732,7 +732,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 33 (34), 7-8.10-11.12-13 (: 7a))",
+      "cite": "Sl 33 (34), 7-8.10-11.12-13 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -744,7 +744,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 33, 7-8. 10-11. 12-13 (: 7a)",
+      "cite": "Ps 33, 7-8. 10-11. 12-13 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -756,7 +756,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 33, 7-8. 10-11. 12-13 (: 7a)",
+      "cite": "Sal 33, 7-8. 10-11. 12-13 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -780,7 +780,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 33, 7-8. 10-11. 12-13 (: 7a)",
+      "cite": "Ps 33, 7-8. 10-11. 12-13 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -792,7 +792,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 7-8. 10-11. 12-13 (R: vgl. 7)",
+      "cite": "Ps 34 (33), 7-8. 10-11. 12-13 (R.: vgl. 7)",
       "role": "title"
      }
     ]
@@ -2212,7 +2212,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 49, 7. 8-9. 10-11. 12-13, 16bc-17 (: 23b)",
+      "cite": "Ps 49, 7. 8-9. 10-11. 12-13, 16bc-17 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -2224,7 +2224,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 49 (50), 7.8-9.10-11.12-13.16bc-17 (: 23b)",
+      "cite": "Sl 49 (50), 7.8-9.10-11.12-13.16bc-17 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -2236,7 +2236,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 49, 7. 8-9. 10-11. 12-13, 16bc-17 (: 23b)",
+      "cite": "Ps 49, 7. 8-9. 10-11. 12-13, 16bc-17 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -2248,7 +2248,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 49, 7. 8-9. 10-11. 12-13, 16bc-17 (: 23b)",
+      "cite": "Sal 49, 7. 8-9. 10-11. 12-13, 16bc-17 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -2272,7 +2272,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 49, 7. 8-9. 10-11. 12-13, 16bc-17 (: 23b)",
+      "cite": "Ps 49, 7. 8-9. 10-11. 12-13, 16bc-17 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -2284,7 +2284,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 50 (49), 7b-9. 10-11. 12-13. 16b-17 (R: 23b)",
+      "cite": "Ps 50 (49), 7b-9. 10-11. 12-13. 16b-17 (R.: 23b)",
       "role": "title"
      }
     ]
@@ -4352,7 +4352,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XIII",
   "pt-BR": "Quarta-feira da 13ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 13th Week: Wednesday",
+  "en-US": "Wednesday of the Thirteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 13º",
   "it": "MERCOLEDI della XIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 13e semaine",

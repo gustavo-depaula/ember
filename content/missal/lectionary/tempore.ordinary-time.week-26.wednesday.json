@@ -702,7 +702,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 136, 1-2. 3. 4-5. 6 (: 6a)",
+      "cite": "Ps 136, 1-2. 3. 4-5. 6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -714,7 +714,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 136 (137), 1-2.3.4-5.6 (: 6a)",
+      "cite": "Sl 136 (137), 1-2.3.4-5.6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -726,7 +726,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 136, 1-2. 3. 4-5. 6 (: 6a)",
+      "cite": "Ps 136, 1-2. 3. 4-5. 6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -738,7 +738,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 136, 1-2. 3. 4-5. 6 (: 6a)",
+      "cite": "Sal 136, 1-2. 3. 4-5. 6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -762,7 +762,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 136, 1-2. 3. 4-5. 6 (: 6a)",
+      "cite": "Ps 136, 1-2. 3. 4-5. 6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -774,7 +774,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 137 (136), 1-2. 3-4. 5-6 (R: vgl. 5a)",
+      "cite": "Ps 137 (136), 1-2. 3-4. 5-6 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -1418,16 +1418,16 @@
       "k": "p",
       "lines": [
        [
-        "Come cantare i canti del Signore"
+        "Como havemos de cantar os cantares do Senhor"
        ],
        [
-        "in terra straniera?"
+        "numa terra estrangeira?"
        ],
        [
-        "Se mi dimentico di te, Gerusalemme,"
+        "Se de ti, Jerusalém, algum dia eu me esquecer,"
        ],
        [
-        "si dimentichi di me la mia destra."
+        "que resseque a minha mão."
        ]
       ]
      }
@@ -2566,7 +2566,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 87, 10bc-11. 12-13. 14-15 (: 3a)",
+      "cite": "Ps 87, 10bc-11. 12-13. 14-15 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2578,7 +2578,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 87 (88), 10bc-11.12-13.14-15 (: 3a)",
+      "cite": "Sl 87 (88), 10bc-11.12-13.14-15 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2590,7 +2590,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 87, 10bc-11. 12-13. 14-15 (: 3a)",
+      "cite": "Ps 87, 10bc-11. 12-13. 14-15 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2602,7 +2602,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 87, 10bc-11. 12-13. 14-15 (: 3a)",
+      "cite": "Sal 87, 10bc-11. 12-13. 14-15 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2626,7 +2626,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 87, 10bc-11. 12-13. 14-15 (: 3a)",
+      "cite": "Ps 87, 10bc-11. 12-13. 14-15 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2638,7 +2638,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 88 (87), 10b-11. 12-13. 14-15 (R: 3a)",
+      "cite": "Ps 88 (87), 10b-11. 12-13. 14-15 (R.: 3a)",
       "role": "title"
      }
     ]
@@ -4345,7 +4345,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXVI",
   "pt-BR": "Quarta-feira da 26ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 26th Week: Wednesday",
+  "en-US": "Wednesday of the Twenty-Sixth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 26ª semana",
   "it": "MERCOLEDI della XXVI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 26e semaine",

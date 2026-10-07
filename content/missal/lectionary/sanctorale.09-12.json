@@ -130,38 +130,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.blessed-virgin-mary.psalm.5"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (: 49)",
+      ],
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
@@ -169,15 +157,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Lk 1, 46-47. 48-49. 50-51. 52-53. 54-55 (: 49)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Lk 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
@@ -185,7 +181,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Da Lc 1, 46-55",
       "role": "title"
      }
@@ -193,16 +193,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (: 49)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Lk 1, 46b-48. 49-50. 51 u. 53. 54-55 (R: 49)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Lk 1, 46b-48. 49-50. 51 u. 53. 54-55 (R.: 49)",
       "role": "title"
      }
     ]
@@ -296,7 +304,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -530,7 +538,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -791,7 +799,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1055,7 +1063,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1313,7 +1321,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1395,7 +1403,7 @@
       "k": "p",
       "lines": [
        [
-        "Acolheu Israel, seu servidor, fiel ao seu amor,como havia prometido aos nossos pais, em favor de Abraão e de seus filhos, para sempre."
+        "Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos, para sempre."
        ]
       ]
      }
@@ -1571,7 +1579,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1629,46 +1637,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.csmvaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.blessed-virgin-mary.gospel.5"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1698,6 +1676,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Bem-aventurada aquela que acreditou."
        ]
       ],
@@ -1723,6 +1710,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1735,6 +1731,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1764,6 +1769,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Beata colei che ha creduto"
        ]
       ],
@@ -1789,6 +1803,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1801,6 +1824,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2235,7 +2267,7 @@
  "title": {
   "la": "Sanctissimi Nominis Maríæ",
   "pt-BR": "Santíssimo Nome de Maria",
-  "en-US": "Most Holy Name of Mary",
+  "en-US": "The Most Holy Name of Mary",
   "es": "El santo Nombre de María",
   "it": "Sanctissimi Nominis Maríæ",
   "fr": "Saint Nom de Marie",

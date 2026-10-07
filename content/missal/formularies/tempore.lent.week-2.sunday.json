@@ -267,7 +267,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -281,7 +281,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -295,7 +295,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -309,7 +309,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -323,7 +323,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -337,7 +337,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -351,7 +351,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -487,7 +487,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -508,7 +508,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -2161,8 +2161,8 @@
  ],
  "title": {
   "la": "DOMINICA II IN QUADRAGESIMA",
-  "pt-BR": "SEGUNDO DOMINGO DA QUARESMA",
-  "en-US": "Season of Lent — 2nd Week: Sunday",
+  "pt-BR": "2º Domingo da Quaresma",
+  "en-US": "Second Sunday of Lent",
   "es": "II DOMINGO DE CUARESMA",
   "it": "II DOMENICA DI QUARESIMA",
   "fr": "2e DIMANCHE DE CARÊME",

@@ -388,7 +388,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -409,7 +409,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -493,7 +493,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1182,7 +1182,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1191,7 +1191,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1200,7 +1200,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1534,8 +1534,8 @@
  ],
  "title": {
   "la": "IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS — Feria V post Ss. mam Trinitatem — SANCTISSIMI CORPORIS ET SANGUINIS CHRISTI",
-  "pt-BR": "SOLENIDADES DO SENHOR NO TEMPO COMUM — Quinta-feira depois da Santíssima Trindade — SANTÍSSIMO CORPO E SANGUE DE CRISTO",
-  "en-US": "THE MOST HOLY BODY AND BLOOD OF CHRIST — (CORPUS CHRISTI)",
+  "pt-BR": "Santíssimo Corpo e Sangue de Cristo",
+  "en-US": "The Most Holy Body and Blood of Christ",
   "es": "SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO — Domingo después de la Santísima Trinidad — SANTÍSIMO CUERPO Y SANGRE DE CRISTO",
   "it": "SOLENNITA' DEL SIGNORE NEL TEMPO ORDINARIO — SANTISSIMO CORPO E SANGUE DI CRISTO",
   "fr": "Temps ordinaire — SOLENNITÉ DU SAINT SACREMENT",

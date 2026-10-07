@@ -758,7 +758,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (: 17)",
+      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -770,7 +770,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 101 (102), 16-18.19-21.29 e 22-23 (: 17)",
+      "cite": "Sl 101 (102), 16-18.19-21.29 e 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -782,7 +782,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (: 17)",
+      "cite": "Ps 101, 16-18. 19-21. 29 and 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -794,7 +794,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 101, 16-18. 19-21. 29 et 22-23 (: 17)",
+      "cite": "Sal 101, 16-18. 19-21. 29 et 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -818,7 +818,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (: 17)",
+      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -830,7 +830,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 102 (101), 16-17. 18-19. 20-21. 29 u. 22 (R: 17)",
+      "cite": "Ps 102 (101), 16-17. 18-19. 20-21. 29 u. 22 (R.: 17)",
       "role": "title"
      }
     ]
@@ -2475,7 +2475,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 16, 1. 2-3. 6-7 (: 6b)",
+      "cite": "Ps 16, 1. 2-3. 6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -2487,7 +2487,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 16 (17), 1.2-3.6-7 (: 6b)",
+      "cite": "Sl 16 (17), 1.2-3.6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -2499,7 +2499,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 16, 1. 2-3. 6-7 (: 6b)",
+      "cite": "Ps 16, 1. 2-3. 6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -2511,7 +2511,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 16, 1. 2-3. 6-7 (: 6b)",
+      "cite": "Sal 16, 1. 2-3. 6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -2535,7 +2535,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 16, 1. 2-3. 6-7 (: 6b)",
+      "cite": "Ps 16, 1. 2-3. 6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -2547,7 +2547,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 17 (16), 1-2. 3ab u. 5. 6-7 (R: 6b)",
+      "cite": "Ps 17 (16), 1-2. 3ab u. 5. 6-7 (R.: 6b)",
       "role": "title"
      }
     ]
@@ -3419,7 +3419,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamação ao Evanglho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Mc 10, 45",
@@ -4221,7 +4221,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. XXVI",
   "pt-BR": "Segunda-feira da 26ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 26th Week: Monday",
+  "en-US": "Monday of the Twenty-Sixth Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 26ª semana",
   "it": "LUNEDI della XXVI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 26e semaine",

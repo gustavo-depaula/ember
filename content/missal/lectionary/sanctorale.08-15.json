@@ -733,7 +733,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 44, 10. 11. 12. 16 (: 10b)",
+      "cite": "Ps 44, 10. 11. 12. 16 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -757,7 +757,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 44, 10. 11. 12. 16 (: 10b)",
+      "cite": "Ps 44, 10. 11. 12. 16 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -793,7 +793,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 44, 10. 11. 12. 16 (: 10b)",
+      "cite": "Ps 44, 10. 11. 12. 16 (R.: 10b)",
       "role": "title"
      }
     ],
@@ -3106,8 +3106,8 @@
  ],
  "title": {
   "la": "IN ASSUMPTIONE BEATÆ MARIÆ VIRGINIS",
-  "pt-BR": "ASSUNÇÃO DE NOSSA SENHORA",
-  "en-US": "The Assumption of the Blessed Virgin Mary",
+  "pt-BR": "Assunção da Bem-Aventurada Virgem Maria",
+  "en-US": "The Assumption — Of the Blessed Virgin Mary",
   "es": "La Asunción de la Virgen María",
   "it": "ASSUNZIONE DELLA B.V. MARIA",
   "fr": "ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE",

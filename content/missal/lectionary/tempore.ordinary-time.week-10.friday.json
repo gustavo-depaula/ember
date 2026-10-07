@@ -235,7 +235,7 @@
       "k": "p",
       "lines": [
        [
-        "Primeora Leitura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -628,7 +628,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 115, 10-11. 15-16. 17-18 (: 17a)",
+      "cite": "Ps 115, 10-11. 15-16. 17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -640,7 +640,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 115 (116), 10-11.15-16.17-18 (: 17a)",
+      "cite": "Sl 115 (116), 10-11.15-16.17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 115, 10-11. 15-16. 17-18 (: 17a)",
+      "cite": "Ps 115, 10-11. 15-16. 17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -664,7 +664,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 115, 10-11. 15-16. 17-18 (: 17a)",
+      "cite": "Sal 115, 10-11. 15-16. 17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -688,7 +688,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 115, 10-11. 15-16. 17-18 (: 17a)",
+      "cite": "Ps 115, 10-11. 15-16. 17-18 (R.: 17a)",
       "role": "title"
      }
     ],
@@ -700,7 +700,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 116 (115), 10-11. 15-16. 17-18 (R: vgl. 17a)",
+      "cite": "Ps 116 (115), 10-11. 15-16. 17-18 (R.: vgl. 17a)",
       "role": "title"
      }
     ]
@@ -2108,7 +2108,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (: 8b)",
+      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (R.: 8b)",
       "role": "title"
      }
     ],
@@ -2120,7 +2120,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 26 (27), 7-8.9.13-14 (: 8b)",
+      "cite": "Sl 26 (27), 7-8.9.13-14 (R.: 8b)",
       "role": "title"
      }
     ],
@@ -2132,7 +2132,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (: 8b)",
+      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (R.: 8b)",
       "role": "title"
      }
     ],
@@ -2144,7 +2144,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 26, 7-8a. 8b-9abc. 13-14 (: 8b)",
+      "cite": "Sal 26, 7-8a. 8b-9abc. 13-14 (R.: 8b)",
       "role": "title"
      }
     ],
@@ -2168,7 +2168,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (: 8b)",
+      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (R.: 8b)",
       "role": "title"
      }
     ],
@@ -2180,7 +2180,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 27 (26), 7-8. 9. 13-14 (R: 8b)",
+      "cite": "Ps 27 (26), 7-8. 9. 13-14 (R.: 8b)",
       "role": "title"
      }
     ]
@@ -2561,7 +2561,7 @@
         "Não me esqueçais nem me deixeis abandonado,"
        ],
        [
-        "meu Deus e Salvador!."
+        "meu Deus e Salvador!"
        ]
       ]
      }
@@ -2803,7 +2803,7 @@
         "Espera no Senhor e tem coragem,"
        ],
        [
-        "espera no Senhor!."
+        "espera no Senhor!"
        ]
       ]
      }
@@ -3825,7 +3825,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. X",
   "pt-BR": "Sexta-feira da 10ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 10th Week: Friday",
+  "en-US": "Friday of the Tenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 10ª semana",
   "it": "VENERDI della X settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 10e semaine",

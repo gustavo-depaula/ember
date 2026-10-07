@@ -635,7 +635,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 97, 2-3ab. 3cd-4. 5-6 (: 2a)",
+      "cite": "Ps 97, 2-3ab. 3cd-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -647,7 +647,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 97 (98), 2-3ab.3cd-4.5-6 (: 2a)",
+      "cite": "Sl 97 (98), 2-3ab.3cd-4.5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -659,7 +659,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "97, 2-3ab. 3cd-4. 5-6 (: 2a)",
+      "cite": "97, 2-3ab. 3cd-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -671,7 +671,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 97, 2-3ab. 3cd-4. 5-6 (: 2a)",
+      "cite": "Sal 97, 2-3ab. 3cd-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -695,7 +695,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 97, 2-3ab. 3cd-4. 5-6 (: 2a)",
+      "cite": "Ps 97, 2-3ab. 3cd-4. 5-6 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -707,7 +707,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 98 (97), 2-3b. 3c-4. 5-6 (R: vgl. 2)",
+      "cite": "Ps 98 (97), 2-3b. 3c-4. 5-6 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -2063,7 +2063,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: 1a)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2075,7 +2075,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 23 (24), 1-2.3-4ab.5-6 (: 1a)",
+      "cite": "Sl 23 (24), 1-2.3-4ab.5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2087,7 +2087,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "23, 1-2. 3-4ab. 5-6 (: 1a)",
+      "cite": "23, 1-2. 3-4ab. 5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2099,7 +2099,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 23, 1-2. 3-4ab. 5-6 (: 1a)",
+      "cite": "Sal 23, 1-2. 3-4ab. 5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2123,7 +2123,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: 1a)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2135,7 +2135,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R: vgl. 1)",
+      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -3834,7 +3834,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXII",
   "pt-BR": "Quinta-feira da 22ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 22nd Week: Thursday",
+  "en-US": "Thursday of the Twenty-Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 22ª semana",
   "it": "GIOVEDI della XXII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 22e semaine",

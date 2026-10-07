@@ -696,7 +696,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 115, 12-13. 15 et 16bc. 17-18 (: 13)",
+      "cite": "Ps 115, 12-13. 15 et 16bc. 17-18 (R.: 13)",
       "role": "title"
      }
     ],
@@ -708,7 +708,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 115 (116), 12-13.15-16bc.17-18 (: 13)",
+      "cite": "Sl 115 (116), 12-13.15-16bc.17-18 (R.: 13)",
       "role": "title"
      }
     ],
@@ -720,7 +720,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 115, 12-13. 15 et 16bc. 17-18 (: 13)",
+      "cite": "Ps 115, 12-13. 15 and 16bc. 17-18 (R.: 13)",
       "role": "title"
      }
     ],
@@ -732,7 +732,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 115, 12-13. 15 et 16bc. 17-18 (: 13)",
+      "cite": "Sal 115, 12-13. 15 et 16bc. 17-18 (R.: 13)",
       "role": "title"
      }
     ],
@@ -756,7 +756,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 115, 12-13. 15 et 16bc. 17-18 (: 13)",
+      "cite": "Ps 115, 12-13. 15 et 16bc. 17-18 (R.: 13)",
       "role": "title"
      }
     ],
@@ -768,7 +768,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 116 (115), 12-13. 15-16b. 17-18 (R: vgl. 13)",
+      "cite": "Ps 116 (115), 12-13. 15-16b. 17-18 (R.: vgl. 13)",
       "role": "title"
      }
     ]
@@ -2204,7 +2204,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Is 38, 10. 11. 12abcd. 16 (: cf. 17b)",
+      "cite": "Is 38, 10. 11. 12abcd. 16 (R.: cf. 17b)",
       "role": "title"
      }
     ],
@@ -2216,7 +2216,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Is 38, 10.11.12.16 (: cf. 17b))",
+      "cite": "Is 38, 10.11.12.16 (R.: cf. 17b)",
       "role": "title"
      }
     ],
@@ -2228,7 +2228,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Is 38, 10. 11. 12abcd. 16 (: cf. 17b)",
+      "cite": "Is 38, 10. 11. 12abcd. 16 (R.: cf. 17b)",
       "role": "title"
      }
     ],
@@ -2240,7 +2240,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Is 38, 10. 11. 12abcd. 16 (: cf. 17b)",
+      "cite": "Is 38, 10. 11. 12abcd. 16 (R.: cf. 17b)",
       "role": "title"
      }
     ],
@@ -2264,7 +2264,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Is 38, 10. 11. 12abcd. 16 (: cf. 17b)",
+      "cite": "Is 38, 10. 11. 12abcd. 16 (R.: cf. 17b)",
       "role": "title"
      }
     ],
@@ -2276,7 +2276,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Jes 38, 10-11. 12abcd. 16 u. 20 (R: vgl. 17a)",
+      "cite": "Jes 38, 10-11. 12abcd. 16 u. 20 (R.: vgl. 17a)",
       "role": "title"
      }
     ]
@@ -3319,7 +3319,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Jn 10, 27",
+      "cite": "Jo 10, 27",
       "role": "title"
      },
      {
@@ -4107,7 +4107,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XV",
   "pt-BR": "Sexta-feira da 15ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 15th Week: Friday",
+  "en-US": "Friday of the Fifteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 15ª semana",
   "it": "VENERDI della XV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 15e semaine",

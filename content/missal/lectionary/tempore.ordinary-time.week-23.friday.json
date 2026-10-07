@@ -605,7 +605,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 15 (16), 1-2a e 5.7-8.11 (: cf. 5a)",
+      "cite": "Sl 15 (16), 1-2a e 5.7-8.11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -629,7 +629,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "cite": "Ps 15, 1-2a and 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -641,7 +641,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "cite": "Sal 15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -665,7 +665,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "cite": "Ps 15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -677,7 +677,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 16 (15), 1-2a u. 5. 7-8. 9 u. 11 (R: vgl. 5a)",
+      "cite": "Ps 16 (15), 1-2a u. 5. 7-8. 9 u. 11 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -2058,7 +2058,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 83, 3. 4. 5-6. 12 (: 2)",
+      "cite": "Ps 83, 3. 4. 5-6. 12 (R.: 2)",
       "role": "title"
      }
     ],
@@ -2070,7 +2070,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 83 (84), 3.4.5-6.12 (: 2)",
+      "cite": "Sl 83 (84), 3.4.5-6.12 (R.: 2)",
       "role": "title"
      }
     ],
@@ -2082,7 +2082,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 83, 3. 4. 5-6. 12 (: 2)",
+      "cite": "Ps 83, 3. 4. 5-6. 12 (R.: 2)",
       "role": "title"
      }
     ],
@@ -2094,7 +2094,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 83, 3. 4. 5-6. 12 (: 2)",
+      "cite": "Sal 83, 3. 4. 5-6. 12 (R.: 2)",
       "role": "title"
      }
     ],
@@ -2118,7 +2118,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 83, 3. 4. 5-6. 12 (: 2)",
+      "cite": "Ps 83, 3. 4. 5-6. 12 (R.: 2)",
       "role": "title"
      }
     ],
@@ -2130,7 +2130,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 84 (83), 3. 4. 5-6. 12-13a (R: vgl. 2a)",
+      "cite": "Ps 84 (83), 3. 4. 5-6. 12-13a (R.: vgl. 2a)",
       "role": "title"
      }
     ]
@@ -4016,7 +4016,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XXIII",
   "pt-BR": "Sexta-feira da 23ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 23rd Week: Friday",
+  "en-US": "Friday of the Twenty-Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 23ª semana",
   "it": "VENERDI della XXIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 23e semaine",

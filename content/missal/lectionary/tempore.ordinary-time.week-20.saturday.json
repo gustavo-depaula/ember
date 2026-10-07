@@ -744,7 +744,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: 4)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: 4)",
       "role": "title"
      }
     ],
@@ -756,7 +756,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 127 (128), 1-2.3.4-5 (: 4))",
+      "cite": "Sl 127 (128), 1-2.3.4-5 (R.: 4)",
       "role": "title"
      }
     ],
@@ -768,7 +768,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: 4)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: 4)",
       "role": "title"
      }
     ],
@@ -780,7 +780,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 127, 1-2. 3. 4-5 (: 4)",
+      "cite": "Sal 127, 1-2. 3. 4-5 (R.: 4)",
       "role": "title"
      }
     ],
@@ -804,7 +804,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: 4)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: 4)",
       "role": "title"
      }
     ],
@@ -816,7 +816,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R: 4)",
+      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R.: 4)",
       "role": "title"
      }
     ]
@@ -2199,7 +2199,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (: cf. 10b)",
+      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (R.: cf. 10b)",
       "role": "title"
      }
     ],
@@ -2211,7 +2211,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 84 (85), 9ab-10.11-12.13-14 (: cf. 10b)",
+      "cite": "Sl 84 (85), 9ab-10.11-12.13-14 (R.: cf. 10b)",
       "role": "title"
      }
     ],
@@ -2223,7 +2223,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (: cf. 10b)",
+      "cite": "Ps 84, 9ab and 10. 11-12. 13-14 (R.: cf. 10b)",
       "role": "title"
      }
     ],
@@ -2235,7 +2235,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 84, 9ab et 10. 11-12. 13-14 (: cf. 10b)",
+      "cite": "Sal 84, 9ab et 10. 11-12. 13-14 (R.: cf. 10b)",
       "role": "title"
      }
     ],
@@ -2259,7 +2259,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (: cf. 10b)",
+      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (R.: cf. 10b)",
       "role": "title"
      }
     ],
@@ -2271,7 +2271,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 85 (84), 9-10. 11-12. 13-14 (R: vgl. 10b)",
+      "cite": "Ps 85 (84), 9-10. 11-12. 13-14 (R.: vgl. 10b)",
       "role": "title"
      }
     ]
@@ -3942,7 +3942,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XX",
   "pt-BR": "Sábado da 20ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 20th Week: Saturday",
+  "en-US": "Saturday of the Twentieth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 20ª semana",
   "it": "Sabato della XX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 20e semaine",

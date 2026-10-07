@@ -621,7 +621,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 7-8a. 8b-9. 10 (: 11a)",
+      "cite": "Ps 95, 7-8a. 8b-9. 10 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -633,7 +633,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), 7-8a.8b-9.10 (: 11a)",
+      "cite": "Sl 95 (96), 7-8a.8b-9.10 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -645,7 +645,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 95, 7-8a. 8b-9. 10 (: 11a)",
+      "cite": "Ps 95, 7-8a. 8b-9. 10 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -657,7 +657,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 7-8a. 8b-9. 10 (: 11a)",
+      "cite": "Sal 95, 7-8a. 8b-9. 10 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 7-8a. 8b-9. 10 (: 11a)",
+      "cite": "Ps 95, 7-8a. 8b-9. 10 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -693,7 +693,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 7-8. 9-10 (R: 11a)",
+      "cite": "Ps 96 (95), 7-8. 9-10 (R.: 11a)",
       "role": "title"
      }
     ]
@@ -2284,8 +2284,8 @@
  ],
  "title": {
   "la": "De VI Die infra octavam Nativitatis Domini",
-  "pt-BR": "6º dia na oitava do Natal do Senhor",
-  "en-US": "Sixth Day within the Octave of the Nativity of the Lord [Christmas]",
+  "pt-BR": "30 de dezembro — Sexto dia na Oitava do Natal",
+  "en-US": "December 30 — Sixth Day within the Octave of the Nativity of the Lord",
   "es": "Día VI dentro de la octava de Navidad",
   "it": "VI giorno fra l'ottava di Natale",
   "fr": "Octave de Noël - 6e jour",

@@ -555,38 +555,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.doctors.psalm.3"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)",
+      ],
+      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 118(119), 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
@@ -594,15 +582,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 118, 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
@@ -610,7 +606,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 118 (119)",
       "role": "title"
      }
@@ -618,16 +618,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 119 (118), 9-10. 11-12. 13-14 (R: 12b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 119 (118), 9-10. 11-12. 13-14 (R.: 12b)",
       "role": "title"
      }
     ]
@@ -1882,30 +1890,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.doctors.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Cf. Io 6, 63c. 68c",
       "role": "title"
      },
@@ -1946,7 +1938,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Cf. Jo 6, 63c. 68c",
       "role": "title"
      },
@@ -1984,7 +1980,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Cf. Jn 6, 63c. 68c",
       "role": "title"
      },
@@ -2006,7 +2006,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Cf. Jn 6, 63c. 68c",
       "role": "title"
      },
@@ -2047,7 +2051,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. Gv 6, 63c-68c",
       "role": "title"
      },
@@ -2069,7 +2077,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Cf. Io 6, 63c. 68c",
       "role": "title"
      },
@@ -2107,7 +2119,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Joh 6, 63b. 68c",
       "role": "title"
      },
@@ -2148,27 +2164,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.doctors.gospel.2"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2198,6 +2203,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Jesus ensinava as multidões como quem tem autoridade."
        ]
       ],
@@ -2223,6 +2237,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2235,6 +2258,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2264,6 +2296,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Gesù insegnava loro come uno che ha autorità."
        ]
       ],
@@ -2289,6 +2330,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2301,6 +2351,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2784,7 +2843,7 @@
  "title": {
   "la": "S. Bedæ Venerabilis, presbyteri et Ecclesiæ doctoris",
   "pt-BR": "São Beda, o Venerável, presbítero e doutor da Igreja",
-  "en-US": "St. Bede the Venerable, priest and doctor of the Church",
+  "en-US": "Saint Bede the Venerable, priest and doctor of the Church",
   "es": "San Beda el Venerable, presbítero y doctor de la Iglesia",
   "it": "San Beda Venerabile, sacerdote e dottore della Chiesa",
   "fr": "Saint Bède le Vénérable, prêtre et docteur de l'Église",

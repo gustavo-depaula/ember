@@ -98,57 +98,26 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cv2l1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.virgins.psalm.2"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 148, 1-2. 11-13b. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
@@ -156,15 +125,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 148, 1-2. 11-13b. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
@@ -172,24 +149,36 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-12. 13-14 (R: vgl. 12a. 13a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-12. 13-14 (R.: vgl. 12a. 13a)",
       "role": "title"
      }
     ]
@@ -290,7 +279,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -554,7 +543,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -827,7 +816,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1097,7 +1086,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1148,30 +1137,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 8, 31b-32",
       "role": "title"
      },
@@ -1212,7 +1185,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 8, 31b-32",
       "role": "title"
      },
@@ -1250,7 +1227,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 8:31-32",
       "role": "title"
      },
@@ -1272,7 +1253,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 8, 31b-32",
       "role": "title"
      },
@@ -1316,7 +1301,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. Gv 8, 31b-32",
       "role": "title"
      },
@@ -1338,7 +1327,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 8, 31b-32",
       "role": "title"
      },
@@ -1379,7 +1372,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 8, 31b-32",
       "role": "title"
      },
@@ -2039,7 +2036,7 @@
  "title": {
   "la": "S. Maríæ Magdalenæ de’ Pazzi, virginis",
   "pt-BR": "Santa Maria Madalena de Pazzi, virgem",
-  "en-US": "St. Mary Magdalene de Pazzi, virgin",
+  "en-US": "Saint Mary Magdalene de Pazzi, virgin",
   "es": "Santa María Magdalena de Pazzi, virgen",
   "it": "Santa Maria Maddalena De' Pazzi, vergine",
   "fr": "Sainte Marie-Madeleine de Pazzi, vierge",

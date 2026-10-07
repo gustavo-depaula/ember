@@ -107,6 +107,11 @@ export interface Item {
   // For a `readings` mark: the tag of the one reading that stands here (the
   // Easter Vigil places each of its nine). Absent, the mark stands for all.
   at?: Tag
+  // Said only on these days, or on every day but these: the Roman Canon's
+  // proper Communicantes, and the ordinary one they replace. The names are the
+  // conditions `assembleMass` reports for a day.
+  when?: string[]
+  unless?: string[]
   text?: Partial<Record<TextKey, Block[]>>
 }
 

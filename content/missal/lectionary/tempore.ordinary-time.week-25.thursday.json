@@ -684,7 +684,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -696,7 +696,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (: 4a)",
+      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -708,7 +708,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a and 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -720,7 +720,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -744,7 +744,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -756,7 +756,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R.: 4a)",
       "role": "title"
      }
     ]
@@ -2214,7 +2214,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2226,7 +2226,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 89 (90), 3-4.5-6.12-13.14 e 17 (: 1)",
+      "cite": "Sl 89 (90), 3-4.5-6.12-13.14 e 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2238,7 +2238,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 and 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2250,7 +2250,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Sal 89, 3-4. 5-6. 12-13. 14 et 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2274,7 +2274,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2286,7 +2286,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 90 (89), 3-4. 5-6. 12-13. 14 u. 17 (R: vgl. 1)",
+      "cite": "Ps 90 (89), 3-4. 5-6. 12-13. 14 u. 17 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -4160,7 +4160,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXV",
   "pt-BR": "Quinta-feira da 25ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 25th Week: Thursday",
+  "en-US": "Thursday of the Twenty-Fifth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 25ª semana",
   "it": "GIOVEDI della XXV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 25e semaine",

@@ -195,7 +195,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 44 (43), 2. 3. 4 (R: Joh 12, 36b)",
+      "cite": "Ps 44 (43), 2. 3. 4 (R.: Joh 12, 36b)",
       "role": "title"
      }
     ]
@@ -362,30 +362,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.pastors.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -429,7 +413,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -467,7 +455,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -505,7 +497,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -549,7 +545,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 28, 19a.20b",
       "role": "title"
      },
@@ -571,7 +571,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -609,7 +613,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },

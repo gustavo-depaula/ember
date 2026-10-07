@@ -610,7 +610,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 46 (47), 2-3.4-5.6-7 (R. cf. 8a)",
+      "cite": "Sl 46 (47), 2-3.4-5.6-7 (R.: cf. 8a)",
       "role": "title"
      }
     ],
@@ -633,7 +633,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 46, 2-3. 4-5. 6-7 (R/.: 8a)",
+      "cite": "Sal 46, 2-3. 4-5. 6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 47 (46), 2-3. 4-5. 6-7 (R: vgl. 8a)",
+      "cite": "Ps 47 (46), 2-3. 4-5. 6-7 (R.: vgl. 8a)",
       "role": "title"
      }
     ]
@@ -1781,7 +1781,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -1790,7 +1790,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or to be used when the Ascension is celebrated on Sunday: "
+         "t": "Or to be used when the Ascension is celebrated on Sunday:"
         }
        ],
        [
@@ -2527,8 +2527,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VI — Feria VI",
-  "pt-BR": "Tempo da Páscoa — 6ª Semana — Sexta-feira",
-  "en-US": "Easter Season — Sixth Week — Friday",
+  "pt-BR": "Sexta-feira da 6ª Semana da Páscoa",
+  "en-US": "Friday of the Sixth Week of Easter",
   "es": "Tiempo de Pascua — Semana VI — Viernes",
   "it": "VENERDI della VI settimana di Pasqua",
   "fr": "Temps pascal — 6e semaine — Vendredi",

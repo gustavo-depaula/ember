@@ -707,7 +707,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 122 (121), 1-3. 4-5. 6-7. 8-9 (R: 1b)",
+      "cite": "Ps 122 (121), 1-3. 4-5. 6-7. 8-9 (R.: 1b)",
       "role": "title"
      }
     ]
@@ -1683,6 +1683,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós, como pedras vivas, formai um edifício espiritual."
        ]
       ],
@@ -1755,6 +1764,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2069,25 +2087,6 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cdialy1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
@@ -2123,6 +2122,15 @@
      }
     ],
     "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

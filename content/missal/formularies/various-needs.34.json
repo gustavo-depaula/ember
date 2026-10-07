@@ -385,7 +385,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -399,7 +399,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -426,7 +426,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -454,7 +454,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -468,7 +468,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1383,8 +1383,8 @@
  ],
  "title": {
   "la": "II. PRO CIRCUMSTANTIIS PUBLICIS",
-  "pt-BR": "II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA",
-  "en-US": "II. FOR CIVIL NEEDS",
+  "pt-BR": "II. Pelas Circunstâncias da Vida Pública",
+  "en-US": "II. For Civil Needs",
   "es": "II. POR LAS NECESIDADES PÚBLICAS",
   "it": "PER LA SOCIETÀ CIVILE",
   "fr": "II. POUR DES CIRCONSTANCES PUBLIQUES",

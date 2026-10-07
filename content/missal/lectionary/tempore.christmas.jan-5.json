@@ -622,7 +622,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2a)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -634,7 +634,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 99 (100), 2.3.4.5 (: 2a)",
+      "cite": "Sl 99 (100), 2.3.4.5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -646,7 +646,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2a)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -658,7 +658,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 99, 2. 3. 4. 5 (: 2a)",
+      "cite": "Sal 99, 2. 3. 4. 5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -682,7 +682,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2a)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -694,7 +694,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 100 (99), 2-3. 4-5 (R: vgl. 1)",
+      "cite": "Ps 100 (99), 2-3. 4-5 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -2616,8 +2616,8 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 5 ianuarii",
-  "pt-BR": "DIAS DE SEMANA DO TEMPO DO NATAL — 5 de janeiro",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 5",
+  "pt-BR": "5 de janeiro",
+  "en-US": "January 5",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 5 de enero",
   "it": "5 gennaio",
   "fr": "Temps de Noël",

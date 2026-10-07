@@ -3,52 +3,50 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 83, 3. 4. 5 et 10. 11 (: 2 vel Ap 21, 3b)",
+      ],
+      "cite": "Ps 83, 3. 4. 5 et 10. 11 (R.: 2 vel Ap 21, 3b)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 83(84), 3. 4. 5 y 10. 11 (R.: 2)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 83(84), 3. 4. 5 e 10. 11 (R.: 2)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 83, 3. 4. 5 et 10. 11 (: 2)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 83, 3. 4. 5 and 10. 11 (R.: 2)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 83, 3. 4. 5 y 10. 11 (R.: 2)",
       "role": "title"
      }
@@ -56,16 +54,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 83, 3. 4. 5 et 10. 11 (: 2 vel Ap 21, 3b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 83, 3. 4. 5 et 10. 11 (R.: 2 vel Ap 21, 3b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 84 (83), 2-3. 4-5. 10-11a (R: vgl. 5 oder Offb 21, 3b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 84 (83), 2-3. 4-5. 10-11a (R.: vgl. 5 oder Offb 21, 3b)",
       "role": "title"
      }
     ]
@@ -89,7 +95,7 @@
          "m": "rubric",
          "t": "vel: "
         },
-        " Ecce tabernáculum Dei cum homínibus."
+        "Ecce tabernáculum Dei cum homínibus."
        ]
       ]
      }
@@ -157,7 +163,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -182,7 +188,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " Voici la demeure de Dieu avec les hommes."
+        "Voici la demeure de Dieu avec les hommes."
        ]
       ]
      }
@@ -346,7 +352,7 @@
          "m": "rubric",
          "t": "vel: "
         },
-        " Ecce tabernáculum Dei cum homínibus."
+        "Ecce tabernáculum Dei cum homínibus."
        ]
       ]
      }
@@ -414,7 +420,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -439,7 +445,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " Voici la demeure de Dieu avec les hommes."
+        "Voici la demeure de Dieu avec les hommes."
        ]
       ]
      }
@@ -606,7 +612,7 @@
          "m": "rubric",
          "t": "vel: "
         },
-        " Ecce tabernáculum Dei cum homínibus."
+        "Ecce tabernáculum Dei cum homínibus."
        ]
       ]
      }
@@ -674,7 +680,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -699,7 +705,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " Voici la demeure de Dieu avec les hommes."
+        "Voici la demeure de Dieu avec les hommes."
        ]
       ]
      }
@@ -860,7 +866,7 @@
          "m": "rubric",
          "t": "vel: "
         },
-        " Ecce tabernáculum Dei cum homínibus."
+        "Ecce tabernáculum Dei cum homínibus."
        ]
       ]
      }
@@ -928,7 +934,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -953,7 +959,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " Voici la demeure de Dieu avec les hommes."
+        "Voici la demeure de Dieu avec les hommes."
        ]
       ]
      }
@@ -1111,7 +1117,7 @@
          "m": "rubric",
          "t": "vel: "
         },
-        " Ecce tabernáculum Dei cum homínibus."
+        "Ecce tabernáculum Dei cum homínibus."
        ]
       ]
      }
@@ -1179,7 +1185,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1204,7 +1210,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " Voici la demeure de Dieu avec les hommes."
+        "Voici la demeure de Dieu avec les hommes."
        ]
       ]
      }

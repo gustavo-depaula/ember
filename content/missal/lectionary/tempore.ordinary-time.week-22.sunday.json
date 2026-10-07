@@ -579,7 +579,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -591,7 +591,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 62 (63), 2.3-4.5-6.8-9 (: 2b)",
+      "cite": "Sl 62 (63), 2.3-4.5-6.8-9 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -603,7 +603,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      "cite": "62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -615,7 +615,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      "cite": "Sal 62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -639,7 +639,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -651,7 +651,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 63 (62), 2. 3-4. 5-6. 8-9 (R: vgl. 2)",
+      "cite": "Ps 63 (62), 2. 3-4. 5-6. 8-9 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -3459,7 +3459,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: 1a)",
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -3471,7 +3471,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 14 (15), 2-3ab.3cd-4ab.5 (: 1a)",
+      "cite": "Sl 14 (15), 2-3ab.3cd-4ab.5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -3483,7 +3483,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "14, 2-3ab. 3cd-4ab. 5 (: 1a)",
+      "cite": "14, 2-3ab. 3cd-4ab. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -3495,7 +3495,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 14, 2-3ab. 3cd-4ab. 5 (: 1a)",
+      "cite": "Sal 14, 2-3ab. 3cd-4ab. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -3519,7 +3519,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: 1a)",
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -3531,7 +3531,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 15 (14), 2-3. 4. 5 (R: 1)",
+      "cite": "Ps 15 (14), 2-3. 4. 5 (R.: 1)",
       "role": "title"
      }
     ]
@@ -3667,16 +3667,7 @@
       "k": "p",
       "lines": [
        [
-        "Colui che cammina senza colpa,"
-       ],
-       [
-        "pratica la giustizia"
-       ],
-       [
-        "e dice la verità che ha nel cuore,"
-       ],
-       [
-        "non sparge calunnie con la sua lingua."
+        "É aquele que caminha sem pecado e pratica a justiça fielmente; que pensa a verdade no seu íntimo e não solta em calúnias sua língua."
        ]
       ]
      }
@@ -5347,7 +5338,7 @@
       "k": "p",
       "lines": [
        [
-        "Convéniunt ad Iesum pharisǽi et quidam de scribis veniéntes ab Hierosólymis; et cum vidíssent quosdam ex discípulis eius commúnibus mánibus, id est non lotis, manducáre panes — ​pharisǽi enim et omnes Iudǽi, nisi pugíllo lavent manus, non mandúcant, tenéntes traditiónem seniórum; et a foro nisi baptizéntur, non cómedunt; et ália multa sunt, quæ accepérunt servánda: baptísmata cálicum et urceórum et æramentórum et lectórum — ​et intérrogant eum pharisǽi et scribæ: «Quare discípuli tui non ámbulant iuxta traditiónem seniórum, sed commúnibus mánibus mandúcant panem?»."
+        "Convéniunt ad Iesum pharisǽi et quidam de scribis veniéntes ab Hierosólymis; et cum vidíssent quosdam ex discípulis eius commúnibus mánibus, id est non lotis, manducáre panes — pharisǽi enim et omnes Iudǽi, nisi pugíllo lavent manus, non mandúcant, tenéntes traditiónem seniórum; et a foro nisi baptizéntur, non cómedunt; et ália multa sunt, quæ accepérunt servánda: baptísmata cálicum et urceórum et æramentórum et lectórum — et intérrogant eum pharisǽi et scribæ: «Quare discípuli tui non ámbulant iuxta traditiónem seniórum, sed commúnibus mánibus mandúcant panem?»."
        ]
       ]
      },
@@ -6203,7 +6194,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 67, 4-5ac. 6-7ab. 10-11 (: cf. 11b)",
+      "cite": "Ps 67, 4-5ac. 6-7ab. 10-11 (R.: cf. 11b)",
       "role": "title"
      }
     ],
@@ -6215,7 +6206,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 67 (68), 4-5ac.6-7ab.10-11 (: cf. 11b)",
+      "cite": "Sl 67 (68), 4-5ac.6-7ab.10-11 (R.: cf. 11b)",
       "role": "title"
      }
     ],
@@ -6227,7 +6218,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "67, 4-5ac. 6-7ab. 10-11 (: cf. 11b)",
+      "cite": "67, 4-5ac. 6-7ab. 10-11 (R.: cf. 11b)",
       "role": "title"
      }
     ],
@@ -6239,7 +6230,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 67, 4-5ac. 6-7ab. 10-11 (: cf. 11b)",
+      "cite": "Sal 67, 4-5ac. 6-7ab. 10-11 (R.: cf. 11b)",
       "role": "title"
      }
     ],
@@ -6263,7 +6254,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 67, 4-5ac. 6-7ab. 10-11 (: cf. 11b)",
+      "cite": "Ps 67, 4-5ac. 6-7ab. 10-11 (R.: cf. 11b)",
       "role": "title"
      }
     ],
@@ -6275,7 +6266,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 68 (67), 4-5b. 6-7. 10-11 (R: 11a)",
+      "cite": "Ps 68 (67), 4-5b. 6-7. 10-11 (R.: 11a)",
       "role": "title"
      }
     ]
@@ -8132,7 +8123,7 @@
       "k": "p",
       "lines": [
        [
-        "Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. Jesus notou como os convidados escolhiam os primeiros lugares. Então contou-lhes uma parábola: \"Quando tu fores convidado para uma festa de casamento, não ocupes o primeiro lugar. Pode ser que tenha sido convidado alguém mais importante do que tu,e o dono da casa, que convidou os dois, venha te dizer: 'Dá o lugar a ele'. Então tu ficarás envergonhado e irás ocupar o último lugar. Mas, quando tu fores convidado, vai sentar-te no último lugar. Assim, quando chegar quem te convidou, te dirá: 'Amigo, vem mais para cima'. E isto vai ser uma honra para ti diante de todos os convidados. Porque quem se eleva, será humilhado e quem se humilha, será elevado\". E disse também a quem o tinha convidado: \"Quando tu deres um almoço ou um jantar, não convides teus amigos, nem teus irmãos, nem teus parentes, nem teus vizinhos ricos. Pois estes poderiam também convidar-te e isto já seria a tua recompensa. Pelo contrário, quando deres uma festa, convida os pobres, os aleijados, os coxos, os cegos. Então tu serás feliz! Porque eles não te podem retribuir. Tu receberás a recompensa na ressurreição dos justos\"."
+        "Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. Jesus notou como os convidados escolhiam os primeiros lugares. Então contou-lhes uma parábola: \"Quando tu fores convidado para uma festa de casamento, não ocupes o primeiro lugar. Pode ser que tenha sido convidado alguém mais importante do que tu, e o dono da casa, que convidou os dois, venha te dizer: 'Dá o lugar a ele'. Então tu ficarás envergonhado e irás ocupar o último lugar. Mas, quando tu fores convidado, vai sentar-te no último lugar. Assim, quando chegar quem te convidou, te dirá: 'Amigo, vem mais para cima'. E isto vai ser uma honra para ti diante de todos os convidados. Porque quem se eleva, será humilhado e quem se humilha, será elevado\". E disse também a quem o tinha convidado: \"Quando tu deres um almoço ou um jantar, não convides teus amigos, nem teus irmãos, nem teus parentes, nem teus vizinhos ricos. Pois estes poderiam também convidar-te e isto já seria a tua recompensa. Pelo contrário, quando deres uma festa, convida os pobres, os aleijados, os coxos, os cegos. Então tu serás feliz! Porque eles não te podem retribuir. Tu receberás a recompensa na ressurreição dos justos\"."
        ]
       ]
      },
@@ -8406,8 +8397,8 @@
  ],
  "title": {
   "la": "Tempus «per annum» — Domenica XXII",
-  "pt-BR": "Tempo Comum — 22º Domingo do Tempo Comum",
-  "en-US": "Ordinary Time — 22nd Week: Sunday",
+  "pt-BR": "22º Domingo do Tempo Comum",
+  "en-US": "Twenty-Second Sunday in Ordinary Time",
   "es": "Tiempo ordinario — 22º Domingo",
   "it": "XXII DOMENICA DEL TEMPO ORDINARIO",
   "fr": "Temps ordinaire — 22ème Dimanche",

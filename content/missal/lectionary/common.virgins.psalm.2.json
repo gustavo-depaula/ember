@@ -3,36 +3,26 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      ],
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 148, 1-2. 11-13b. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
@@ -40,15 +30,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 148, 1-2. 11-13b. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
@@ -56,24 +54,36 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-12. 13-14 (R: vgl. 12a. 13a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-12. 13-14 (R.: vgl. 12a. 13a)",
       "role": "title"
      }
     ]
@@ -172,7 +182,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -432,7 +442,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -701,7 +711,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -967,7 +977,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [

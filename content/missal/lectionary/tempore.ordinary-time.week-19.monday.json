@@ -700,7 +700,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 1a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -712,7 +712,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 147, 12-13.14-15.19-20 (: 1a)",
+      "cite": "Sl 147, 12-13.14-15.19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -724,7 +724,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 1a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -736,7 +736,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 147, 12-13. 14-15. 19-20 (: 1a)",
+      "cite": "Sal 147, 12-13. 14-15. 19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -760,7 +760,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 1a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -772,7 +772,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (R: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ]
@@ -1513,7 +1513,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Glorifica o Senhor, Jerusalém!."
+        "Glorifica o Senhor, Jerusalém!"
        ]
       ]
      }
@@ -2399,7 +2399,7 @@
         "Louvai-o, anjos seus, todos louvai-o,"
        ],
        [
-        "louvai-o, legiões celestiais!."
+        "louvai-o, legiões celestiais!"
        ]
       ]
      }
@@ -4101,7 +4101,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. XIX",
   "pt-BR": "Segunda-feira da 19ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 19th Week: Monday",
+  "en-US": "Monday of the Nineteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 19ª semana",
   "it": "LUNEDI della XIX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 19e semaine",

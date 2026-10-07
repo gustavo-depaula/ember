@@ -379,7 +379,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -393,7 +393,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -407,7 +407,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -435,7 +435,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -449,7 +449,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -463,7 +463,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -850,7 +850,7 @@
          "m": "rubric",
          "t": "] "
         },
-        " donaci di tenere sempre fissi nei nostri cuori gli insegnamenti che, illuminato dallo Spirito, egli ha trasmesso, e di averlo come difensore presso la tua misericordia, mentre lo accogliamo da te come nostro patrono. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+        "donaci di tenere sempre fissi nei nostri cuori gli insegnamenti che, illuminato dallo Spirito, egli ha trasmesso, e di averlo come difensore presso la tua misericordia, mentre lo accogliamo da te come nostro patrono. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
        ]
       ]
      }
@@ -1388,7 +1388,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1402,7 +1402,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1416,7 +1416,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1458,7 +1458,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1484,7 +1484,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1503,7 +1503,7 @@
         "aleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1562,7 +1562,7 @@
         "Alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1584,7 +1584,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1820,8 +1820,8 @@
  ],
  "title": {
   "la": "COMMUNE DOCTORUM ECCLESIÆ",
-  "pt-BR": "COMUM DOS DOUTORES DA IGREJA",
-  "en-US": "COMMON OF DOCTORS OF THE CHURCH",
+  "pt-BR": "Comum dos Doutores da Igreja",
+  "en-US": "Common of Doctors of the Church",
   "es": "Común de Doctores de la Iglesia",
   "it": "COMUNE DEI DOTTORI DELLA CHIESA",
   "fr": "COMMUN DES DOCTEURS DE L'ÉGLISE",

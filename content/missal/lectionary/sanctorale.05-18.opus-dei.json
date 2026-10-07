@@ -123,38 +123,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.6"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (: 1a)",
+      ],
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 102(103), 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
@@ -162,15 +150,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (: 1a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
@@ -178,7 +174,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 102 (103)",
       "role": "title"
      }
@@ -186,16 +186,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (: 1a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 13-14. 17-18a (R: 1a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ]
@@ -1430,46 +1438,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.2"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1499,6 +1477,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós sois a luz do mundo"
        ]
       ],
@@ -1524,6 +1511,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1536,6 +1532,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1565,6 +1570,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Voi siete la luce del mondo."
        ]
       ],
@@ -1590,6 +1604,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1602,6 +1625,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2032,7 +2064,7 @@
  ],
  "title": {
   "la": "B. Guadalupe Ortiz de Landázuri",
-  "pt-BR": "B. Guadalupe Ortiz de Landázuri",
+  "pt-BR": "Beata Guadalupe Ortiz de Landázuri",
   "en-US": "B. Guadalupe Ortiz de Landázuri",
   "es": "B. Guadalupe Ortiz de Landázuri",
   "it": "B. Guadalupe Ortiz de Landázuri",

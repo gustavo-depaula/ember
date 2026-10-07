@@ -590,7 +590,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -602,7 +602,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Sl 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -614,7 +614,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mk 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mk 16, 15)",
       "role": "title"
      }
     ],
@@ -626,7 +626,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -650,7 +650,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -662,7 +662,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 117 (116), 1. 2 (R: vgl. Mk 16, 15)",
+      "cite": "Ps 117 (116), 1. 2 (R.: vgl. Mk 16, 15)",
       "role": "title"
      }
     ]
@@ -2085,8 +2085,8 @@
  ],
  "title": {
   "la": "S. THOMÆ, APOSTOLI",
-  "pt-BR": "SÃO TOMÉ, Apóstolo",
-  "en-US": "ST. THOMAS, APOSTLE",
+  "pt-BR": "São Tomé, Apóstolo",
+  "en-US": "Saint THOMAS, APOSTLE",
   "es": "SANTO TOMÁS, APÓSTOL",
   "it": "SAN TOMMASO APOSTOLO",
   "fr": "SAINT THOMAS, APÔTRE",

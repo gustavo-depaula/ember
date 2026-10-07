@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -88,6 +79,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Foi constituído por Deus juiz dos vivos e dos mortos"
        ]
       ],
@@ -126,6 +126,15 @@
       "k": "p",
       "lines": [
        [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "God has appointed him to judge everyone, alive or dead."
        ]
       ],
@@ -160,6 +169,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -210,6 +228,15 @@
      }
     ],
     "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -276,6 +303,15 @@
       "k": "p",
       "lines": [
        [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Lesung aus der Apostelgeschichte"
        ]
       ],
@@ -319,6 +355,15 @@
   {
    "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -377,6 +422,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Foi constituído por Deus juiz dos vivos e dos mortos"
        ]
       ],
@@ -396,7 +450,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, Pedro tomou a palavra e disse: \"De fato, estou compreendendo que Deus não faz distinção entre as pessoas. Pelo contrário, ele aceita quem o teme e pratica a justiça, qualquer que seja a nação a que pertença. . E Jesus nos mandou pregar ao povo e testemunhar que Deus o constituiu Juiz dos vivos e dos mortos. Todos os profetas dão testemunho dele: \"Todo aquele que crê em Jesus recebe, em seu nome, o perdão dos pecados\""
+        "Naqueles dias, Pedro tomou a palavra e disse: \"De fato, estou compreendendo que Deus não faz distinção entre as pessoas. Pelo contrário, ele aceita quem o teme e pratica a justiça, qualquer que seja a nação a que pertença. E Jesus nos mandou pregar ao povo e testemunhar que Deus o constituiu Juiz dos vivos e dos mortos. Todos os profetas dão testemunho dele: \"Todo aquele que crê em Jesus recebe, em seu nome, o perdão dos pecados\""
        ]
       ]
      },
@@ -411,6 +465,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -449,6 +512,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -497,6 +569,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre des Actes des Apôtres"
        ]
       ],
@@ -538,6 +619,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

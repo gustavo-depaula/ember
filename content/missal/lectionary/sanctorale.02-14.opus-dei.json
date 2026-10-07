@@ -240,7 +240,7 @@
       "k": "p",
       "lines": [
        [
-        "Primeira leitura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -342,7 +342,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera lectura"
+        "Primera Lectura"
        ]
       ],
       "role": "title"
@@ -685,7 +685,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -697,7 +697,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sm 2, 1.4-5.6-7.8abcd (R. 1a)",
+      "cite": "1 Sm 2, 1.4-5.6-7.8abcd (R.: 1a)",
       "role": "title"
      }
     ],
@@ -709,7 +709,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -721,7 +721,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -745,7 +745,7 @@
         "Psaume"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -757,7 +757,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R: vgl. 1b)",
+      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R.: vgl. 1b)",
       "role": "title"
      }
     ]
@@ -2750,7 +2750,7 @@
  ],
  "title": {
   "la": "Sancta Maria, Mater Pulchræ Dilectionis",
-  "pt-BR": "Nossa Sanhora, Mãe do Amor Formoso",
+  "pt-BR": "Bem-aventurada Virgem Maria, Mãe do Amor Formoso",
   "en-US": "Holy Mary, Mother of Fair Love",
   "es": "Santa María, Madre del Amor Hermoso",
   "it": "Beata Vergine Maria, Madre del Bell'Amore",

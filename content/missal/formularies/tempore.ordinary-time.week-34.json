@@ -892,7 +892,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -906,7 +906,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -920,7 +920,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -934,7 +934,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -948,7 +948,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -962,7 +962,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -976,7 +976,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1263,8 +1263,8 @@
  ],
  "title": {
   "la": "HEBDOMADA XXXIV «PER ANNUM»",
-  "pt-BR": "34ª SEMANA DO TEMPO COMUM",
-  "en-US": "34th WEEK IN ORDINARY TIME",
+  "pt-BR": "34ª Semana do Tempo Comum",
+  "en-US": "Thirty-Fourth Week in Ordinary Time",
   "es": "XXXIV SEMANA DEL TIEMPO ORDINARIO",
   "it": "XXXIV seTTimana del Tempo Ordinario",
   "fr": "34ème SEMAINE",

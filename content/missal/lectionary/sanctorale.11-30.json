@@ -689,7 +689,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -713,7 +713,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -737,7 +737,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -749,7 +749,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18 A), 2-3. 4-5b (R: 5a)",
+      "cite": "Ps 19 (18 A), 2-3. 4-5b (R.: 5a)",
       "role": "title"
      }
     ]
@@ -1519,16 +1519,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "."
-       ]
-      ]
-     }
     ]
    },
    "part": "acclamation"
@@ -2165,8 +2155,8 @@
  ],
  "title": {
   "la": "S. ANDREÆ, APOSTOLI",
-  "pt-BR": "SANTO ANDRE, apóstolo",
-  "en-US": "ST. ANDREW, APOSTLE",
+  "pt-BR": "Santo André, Apóstolo",
+  "en-US": "Saint ANDREW, APOSTLE",
   "es": "SAN ANDRÉS, APÓSTOL",
   "it": "SANT'ANDREA, APOSTOLO",
   "fr": "SAINT ANDRÉ, APÔTRE",

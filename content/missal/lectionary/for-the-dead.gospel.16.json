@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "16"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -51,6 +42,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se o grão de trigo, lançado à terra, morrer, dará muito fruto"
        ]
       ],
@@ -72,6 +72,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -101,6 +110,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Si el grano de trigo muere, da mucho fruto"
        ]
       ],
@@ -122,6 +140,15 @@
      }
     ],
     "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -151,6 +178,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -163,6 +199,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -521,6 +566,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Si granum frumenti mortuum fuerit, multum fructum affert."
        ]
       ],
@@ -542,6 +596,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -571,6 +634,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Si el grano de trigo muere, da mucho fruto"
        ]
       ],
@@ -596,6 +668,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -612,6 +693,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -620,6 +710,40 @@
        ]
       ],
       "cite": "12, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se o grão de trigo, lançado à terra, morrer, dará muito fruto"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Evangelho de Nosso Senhor Jesus Cristo segundo São João"
+       ]
+      ],
+      "cite": "12, 23-28",
       "role": "announcement"
      }
     ]
@@ -780,7 +904,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, disse Jesus aos seus discípulos: «Chegou a hora em que o Filho do homem vai ser glorificado. Em verdade, em verdade vos digo: Se o grão de trigo, lançado à terra, não morrer, fica só; mas se morrer, dará muito fruto.Quem ama a sua vida, perdê-la-á, e quem despreza a sua vida neste mundo conservá-la-á para a vida eterna. Se alguém Me quiser servir, que Me siga, e onde Eu estiver, ali estará também o meu servo. E se alguém Me servir, meu Pai o honrará»."
+        "Naquele tempo, disse Jesus aos seus discípulos: «Chegou a hora em que o Filho do homem vai ser glorificado. Em verdade, em verdade vos digo: Se o grão de trigo, lançado à terra, não morrer, fica só; mas se morrer, dará muito fruto. Quem ama a sua vida, perdê-la-á, e quem despreza a sua vida neste mundo conservá-la-á para a vida eterna. Se alguém Me quiser servir, que Me siga, e onde Eu estiver, ali estará também o meu servo. E se alguém Me servir, meu Pai o honrará»."
        ]
       ]
      },

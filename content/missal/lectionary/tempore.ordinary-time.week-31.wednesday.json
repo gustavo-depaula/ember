@@ -622,7 +622,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 111, 1-2. 4-5. 9 (: 5a)",
+      "cite": "Ps 111, 1-2. 4-5. 9 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -634,7 +634,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 111 (112), 1-2.4-5.8a e 9 (: 5a)",
+      "cite": "Sl 111 (112), 1-2.4-5.8a e 9 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -646,7 +646,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 111, 1-2. 4-5. 9 (: 5a)",
+      "cite": "Ps 111, 1-2. 4-5. 9 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -658,7 +658,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 111, 1-2. 4-5. 9 (: 5a)",
+      "cite": "Sal 111, 1-2. 4-5. 9 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -682,7 +682,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 111, 1-2. 4-5. 9 (: 5a)",
+      "cite": "Ps 111, 1-2. 4-5. 9 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -694,7 +694,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 112 (111), 1-2. 4-5. 8-9 (R: vgl. 5a)",
+      "cite": "Ps 112 (111), 1-2. 4-5. 8-9 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -852,7 +852,7 @@
       "k": "p",
       "lines": [
        [
-        "Blessed the man who fears the Lord, who takes delight in all his commands.His sons will be powerful on earth; the children of the upright are blessed."
+        "Blessed the man who fears the Lord, who takes delight in all his commands. His sons will be powerful on earth; the children of the upright are blessed."
        ]
       ]
      }
@@ -2030,7 +2030,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 26, 1. 4. 13-14 (: 1a)",
+      "cite": "Ps 26, 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2042,7 +2042,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 26 (27), 1.4.13-14 (: 1a)",
+      "cite": "Sl 26 (27), 1.4.13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2054,7 +2054,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 26, 1. 4. 13-14 (: 1a)",
+      "cite": "Ps 26, 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2066,7 +2066,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 26, 1. 4. 13-14 (: 1a)",
+      "cite": "Sal 26, 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2090,7 +2090,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 26, 1. 4. 13-14 (: 1a)",
+      "cite": "Ps 26, 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2102,7 +2102,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 27 (26), 1. 4. 13-14 (R: 1a)",
+      "cite": "Ps 27 (26), 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -3787,7 +3787,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXXI",
   "pt-BR": "Quarta-feira da 31ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 31st Week: Wednesday",
+  "en-US": "Wednesday of the Thirty-First Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 31ª semana",
   "it": "MERCOLEDI della XXXI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 31e semaine",

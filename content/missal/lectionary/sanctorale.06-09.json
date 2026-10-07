@@ -563,38 +563,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.doctors.psalm.2"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 36(37), 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
@@ -602,15 +590,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
@@ -618,7 +614,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 36 (37)",
       "role": "title"
      }
@@ -626,16 +626,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R: vgl. 30a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R.: vgl. 30a)",
       "role": "title"
      }
     ]
@@ -1470,30 +1478,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.doctors.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 15, 5",
       "role": "title"
      },
@@ -1534,7 +1526,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 15, 5",
       "role": "title"
      },
@@ -1572,7 +1568,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 15, 5",
       "role": "title"
      },
@@ -1594,7 +1594,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 15, 5",
       "role": "title"
      },
@@ -1638,7 +1642,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 15, 5",
       "role": "title"
      },
@@ -1660,7 +1668,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 15, 5",
       "role": "title"
      },
@@ -1698,7 +1710,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 15, 5",
       "role": "title"
      },
@@ -1739,27 +1755,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.doctors.gospel.6"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1789,6 +1794,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A boca fala do que coração está cheio."
        ]
       ],
@@ -1814,6 +1828,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1826,6 +1849,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1855,6 +1887,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "La bocca esprime ciò che dal cuore sovrabbonda."
        ]
       ],
@@ -1880,6 +1921,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1892,6 +1942,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2300,8 +2359,8 @@
  ],
  "title": {
   "la": "S. Ephræm, diaconi et Ecclesiæ doctoris",
-  "pt-BR": "São Efrém, diácono e doutor da Igreja",
-  "en-US": "St. Ephrem, deacon and doctor of the Church",
+  "pt-BR": "Santo Efrém, diácono e doutor da Igreja",
+  "en-US": "Saint Ephrem, deacon and doctor of the Church",
   "es": "San Efrén, diácono y doctor de la Iglesia",
   "it": "Sant'Efrem, diacono e dottore della Chiesa",
   "fr": "Saint Éphrem, diacre et docteur de l'Église",

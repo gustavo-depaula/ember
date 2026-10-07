@@ -756,7 +756,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 33, 17-18. 19-20. 21 et 23 (: 19a)",
+      "cite": "Ps 33, 17-18. 19-20. 21 et 23 (R.: 19a)",
       "role": "title"
      }
     ],
@@ -768,7 +768,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 33 (34), 17-18.19-20.21.23 (: 19a)",
+      "cite": "Sl 33 (34), 17-18.19-20.21.23 (R.: 19a)",
       "role": "title"
      }
     ],
@@ -780,7 +780,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 33, 17-18. 19-20. 21 et 23 (: 19a)",
+      "cite": "Ps 33, 17-18. 19-20. 21 and 23 (R.: 19a)",
       "role": "title"
      }
     ],
@@ -792,7 +792,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 33, 17-18. 19-20. 21 et 23 (: 19a)",
+      "cite": "Sal 33, 17-18. 19-20. 21 et 23 (R.: 19a)",
       "role": "title"
      }
     ],
@@ -816,7 +816,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 33, 17-18. 19-20. 21 et 23 (: 19a)",
+      "cite": "Ps 33, 17-18. 19-20. 21 et 23 (R.: 19a)",
       "role": "title"
      }
     ],
@@ -828,7 +828,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 17-18. 19-20. 21 u. 23 (R: 19a)",
+      "cite": "Ps 34 (33), 17-18. 19-20. 21 u. 23 (R.: 19a)",
       "role": "title"
      }
     ]
@@ -2485,8 +2485,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada IV — Feria sexta",
-  "pt-BR": "Tempo da Quaresma — Sexta-feira da 4ª Semana da Quaresma",
-  "en-US": "Season of Lent — 4th Week: Friday",
+  "pt-BR": "Sexta-feira da 4ª Semana da Quaresma",
+  "en-US": "Friday of the Fourth Week of Lent",
   "es": "Tiempo de Cuaresma — Viernes de la IV Semana",
   "it": "VENERDI DELLA IV SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 4e semaine — Vendredi",

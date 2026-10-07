@@ -375,7 +375,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ],
        [
@@ -394,7 +394,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ],
        [
@@ -428,7 +428,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -1318,8 +1318,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada V — Feria sexta",
-  "pt-BR": "Tempo da Quaresma — Quinta semana — Sexta-feira",
-  "en-US": "Season of Lent — 5th Week: Friday",
+  "pt-BR": "Sexta-feira da 5ª Semana da Quaresma",
+  "en-US": "Friday of the Fifth Week of Lent",
   "es": "Tiempo de Cuaresma — Viernes de la V Semana",
   "it": "V SETTIMANA DI QUARESIMA — Venerdì",
   "fr": "Temps de Carême — Hebdomada V — Vendredi",

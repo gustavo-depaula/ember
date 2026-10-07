@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -51,6 +42,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Jesus, soltando um grande brado, expirou"
        ]
       ],
@@ -72,6 +72,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -101,6 +110,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Jesús, dando un grito, expiró"
        ]
       ],
@@ -122,6 +140,15 @@
      }
     ],
     "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -151,6 +178,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -163,6 +199,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -375,7 +420,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, quando chegou o meio-dia, as trevas envolveram toda a terra até às três horas da tarde. E às três horas da tarde, Jesus clamou com voz forte: «Eloí, Eloí, lemá sabactáni?», que quer dizer: «Meu Deus, meu Deus, porque Me abandonastes?». Alguns dos presentes, ouvindo isto, disseram: «Está a chamar por Elias». Alguém correu a embeber uma esponja em vinagre e, pondo-a na ponta duma cana, deu-Lhe a beber e disse: «Deixa ver se Elias vem tirá-l'O dali». Então Jesus, soltando um grande brado, expirou. O véu do templo rasgou-se em duas partes de alto a baixo. O centurião que estava em frente de Jesus, ao vê-l'O expirar daquela maneira, exclamou: «Na verdade, este homem era Filho de Deus». Depois de passar o sábado, Maria Madalena, Maria, mãe de Tiago, e Salomé compraram aromas para irem embalsamar Jesus. E no primeiro dia da semana, partindo muito cedo, chegaram ao sepulcro ao nascer do sol. Diziam umas às outras: «Quem nos irá revolver a pedra da entrada do sepulcro?». Mas, olhando, viram que a pedra já fora revolvida; e era muito grande. Entrando no sepulcro, viram um jovem sentado do lado direito, vestido com uma túnica branca, e ficaram assustadas.Mas ele disse-lhes: «Não vos assusteis. Procurais a Jesus de Nazaré, o Crucificado? Ressuscitou: não está aqui. Vede o lugar onde O tinham depositado»."
+        "Naquele tempo, quando chegou o meio-dia, as trevas envolveram toda a terra até às três horas da tarde. E às três horas da tarde, Jesus clamou com voz forte: «Eloí, Eloí, lemá sabactáni?», que quer dizer: «Meu Deus, meu Deus, porque Me abandonastes?». Alguns dos presentes, ouvindo isto, disseram: «Está a chamar por Elias». Alguém correu a embeber uma esponja em vinagre e, pondo-a na ponta duma cana, deu-Lhe a beber e disse: «Deixa ver se Elias vem tirá-l'O dali». Então Jesus, soltando um grande brado, expirou. O véu do templo rasgou-se em duas partes de alto a baixo. O centurião que estava em frente de Jesus, ao vê-l'O expirar daquela maneira, exclamou: «Na verdade, este homem era Filho de Deus». Depois de passar o sábado, Maria Madalena, Maria, mãe de Tiago, e Salomé compraram aromas para irem embalsamar Jesus. E no primeiro dia da semana, partindo muito cedo, chegaram ao sepulcro ao nascer do sol. Diziam umas às outras: «Quem nos irá revolver a pedra da entrada do sepulcro?». Mas, olhando, viram que a pedra já fora revolvida; e era muito grande. Entrando no sepulcro, viram um jovem sentado do lado direito, vestido com uma túnica branca, e ficaram assustadas. Mas ele disse-lhes: «Não vos assusteis. Procurais a Jesus de Nazaré, o Crucificado? Ressuscitou: não está aqui. Vede o lugar onde O tinham depositado»."
        ]
       ]
      },
@@ -471,7 +516,7 @@
       "k": "p",
       "lines": [
        [
-        "Venuto mezzogiorno, si fece buio su tutta la terra, fino alle tre del pomeriggio. Alle tre Gesù gridò con voce forte: Eloì, Eloì, lamà sabactàni?, che significa: Dio mio, Dio mio, perché mi hai abbandonato? Alcuni dei presenti, udito ciò, dicevano: «Ecco, chiama Elìa!». Uno corse a inzuppare di aceto una spugna e, postala su una canna, gli dava da bere, dicendo: «Aspettate, vediamo se viene Elìa a toglierlo dalla croce». Ma Gesù, dando un forte grido, spirò. Il velo del tempio si squarciò in due, dall'alto in basso. Allora il centurione che gli stava di fronte, vistolo spirare in quel modo, disse: «Veramente quest'uomo era Figlio di Dio!». Passato il sabato, Maria di Màgdala, Maria di Giacomo e Salòme comprarono oli aromatici per andare a imbal­samare Gesù. Di buon mattino, il primo giorno dopo il sabato, vennero al sepolcro al levar del sole. Esse dicevano tra loro: «Chi ci rotolerà via il masso dall'ingresso del sepolcro?». Ma, guardando, videro che il masso era già stato rotolato via, benché fosse molto grande. Entrando nel sepolcro, videro un giovane, seduto sulla destra, vestito d'una veste bianca, ed ebbero paura. Ma egli disse loro: «Non abbiate paura! Voi cercate Gesù Nazareno, il crocifisso. È risorto, non è qui. Ecco il luogo dove l'avevano deposto»."
+        "Venuto mezzogiorno, si fece buio su tutta la terra, fino alle tre del pomeriggio. Alle tre Gesù gridò con voce forte: Eloì, Eloì, lamà sabactàni?, che significa: Dio mio, Dio mio, perché mi hai abbandonato? Alcuni dei presenti, udito ciò, dicevano: «Ecco, chiama Elìa!». Uno corse a inzuppare di aceto una spugna e, postala su una canna, gli dava da bere, dicendo: «Aspettate, vediamo se viene Elìa a toglierlo dalla croce». Ma Gesù, dando un forte grido, spirò. Il velo del tempio si squarciò in due, dall'alto in basso. Allora il centurione che gli stava di fronte, vistolo spirare in quel modo, disse: «Veramente quest'uomo era Figlio di Dio!». Passato il sabato, Maria di Màgdala, Maria di Giacomo e Salòme comprarono oli aromatici per andare a imbalsamare Gesù. Di buon mattino, il primo giorno dopo il sabato, vennero al sepolcro al levar del sole. Esse dicevano tra loro: «Chi ci rotolerà via il masso dall'ingresso del sepolcro?». Ma, guardando, videro che il masso era già stato rotolato via, benché fosse molto grande. Entrando nel sepolcro, videro un giovane, seduto sulla destra, vestito d'una veste bianca, ed ebbero paura. Ma egli disse loro: «Non abbiate paura! Voi cercate Gesù Nazareno, il crocifisso. È risorto, non è qui. Ecco il luogo dove l'avevano deposto»."
        ]
       ]
      },
@@ -579,6 +624,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Iesus, emissa voce, exspiravit."
        ]
       ],
@@ -600,6 +654,15 @@
      }
     ],
     "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -629,6 +692,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Jesus gave a loud cry and breathed his last."
        ]
       ],
@@ -650,6 +722,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -679,6 +760,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -691,6 +781,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

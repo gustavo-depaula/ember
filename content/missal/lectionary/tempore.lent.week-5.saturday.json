@@ -596,7 +596,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ier 31, 10. 11-12ab. 13 (: cf. 10d)",
+      "cite": "Ier 31, 10. 11-12ab. 13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -608,7 +608,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Jr 31, 10.11-12ab.13 (: cf. 10d)",
+      "cite": "Jr 31, 10.11-12ab.13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -620,7 +620,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ier 31, 10. 11-12ab. 13 (: cf. 10d)",
+      "cite": "Ier 31, 10. 11-12ab. 13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -632,7 +632,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Jr 31, 10. 11-12ab. 13 (: cf. 10d)",
+      "cite": "Jr 31, 10. 11-12ab. 13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -656,7 +656,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ier 31, 10. 11-12ab. 13 (: cf. 10d)",
+      "cite": "Ier 31, 10. 11-12ab. 13 (R.: cf. 10d)",
       "role": "title"
      }
     ],
@@ -668,7 +668,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Jer 31, 10. 11-12b. 13 (R: vgl. 10d)",
+      "cite": "Jer 31, 10. 11-12b. 13 (R.: vgl. 10d)",
       "role": "title"
      }
     ]
@@ -2331,8 +2331,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada V — Sabbato",
-  "pt-BR": "Tempo da Quaresma — Sábado da 5ª Semana da Quaresma",
-  "en-US": "Season of Lent — 5th Week: Saturday",
+  "pt-BR": "Sábado da 5ª Semana da Quaresma",
+  "en-US": "Saturday of the Fifth Week of Lent",
   "es": "Tiempo de Cuaresma — Sábado de la V Semana",
   "it": "Sabato DELLA V SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 5e semaine — Samedi",

@@ -627,7 +627,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 49, 8-9. 16bc-17. 21 et 23 (: 23b)",
+      "cite": "Ps 49, 8-9. 16bc-17. 21 et 23 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -639,7 +639,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 49 (50), 8-9.16bc-17.21.23 (: 23b)",
+      "cite": "Sl 49 (50), 8-9.16bc-17.21.23 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -651,7 +651,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 49, 8-9. 16bc-17. 21 et 23 (: 23b)",
+      "cite": "Ps 49, 8-9. 16bc-17. 21 and 23 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 49, 8-9. 16bc-17. 21 et 23 (: 23b)",
+      "cite": "Sal 49, 8-9. 16bc-17. 21 et 23 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 49, 8-9. 16bc-17. 21 et 23 (: 23b)",
+      "cite": "Ps 49, 8-9. 16bc-17. 21 et 23 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 50 (49), 8-9. 16b-17. 21 u. 23 (R: 23b)",
+      "cite": "Ps 50 (49), 8-9. 16b-17. 21 u. 23 (R.: 23b)",
       "role": "title"
      }
     ]
@@ -2356,8 +2356,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada II — Feria tertia",
-  "pt-BR": "Tempo da Quaresma — Terça-feira da 2ª Semana da Quaresma",
-  "en-US": "Season of Lent — 2nd Week: Tuesday",
+  "pt-BR": "Terça-feira da 2ª Semana da Quaresma",
+  "en-US": "Tuesday of the Second Week of Lent",
   "es": "Tiempo de Cuaresma — Martes de la II Semana",
   "it": "MARTEDI DELLA II SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 2e semaine — Mardi",

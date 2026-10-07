@@ -333,7 +333,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -354,7 +354,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1634,7 +1634,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1646,7 +1646,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1658,7 +1658,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1706,7 +1706,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1720,7 +1720,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1734,7 +1734,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1748,7 +1748,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -1762,7 +1762,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1776,7 +1776,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -2258,8 +2258,8 @@
  ],
  "title": {
   "la": "DOMINICA I IN QUADRAGESIMA",
-  "pt-BR": "PRIMEIRO DOMINGO DA QUARESMA",
-  "en-US": "Season of Lent — 1st Week: Sunday",
+  "pt-BR": "1º Domingo da Quaresma",
+  "en-US": "First Sunday of Lent",
   "es": "I DOMINGO DE CUARESMA",
   "it": "I DOMENICA DI QUARESIMA",
   "fr": "1E DIMANCHE DE CARÊME",

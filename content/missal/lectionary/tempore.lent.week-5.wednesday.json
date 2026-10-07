@@ -651,7 +651,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Dan 3, 52. 53. 54. 55. 56 (: 52b)",
+      "cite": "Dan 3, 52. 53. 54. 55. 56 (R.: 52b)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dn 3, 52.53.54.55.56 (: 52b)",
+      "cite": "Dn 3, 52.53.54.55.56 (R.: 52b)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Dan 3, 52. 53. 54. 55. 56 (: 52b)",
+      "cite": "Dan 3, 52. 53. 54. 55. 56 (R.: 52b)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dn 3, 52. 53. 54. 55. 56 (: 52b)",
+      "cite": "Dn 3, 52. 53. 54. 55. 56 (R.: 52b)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Dan 3, 52. 53. 54. 55. 56 (: 52b)",
+      "cite": "Dan 3, 52. 53. 54. 55. 56 (R.: 52b)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Dan 3, 52. 53. 54. 55. 56 (R: vgl. 52b)",
+      "cite": "Dan 3, 52. 53. 54. 55. 56 (R.: vgl. 52b)",
       "role": "title"
      }
     ]
@@ -811,7 +811,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " À toi, louange et gloire éternellement !"
+        "À toi, louange et gloire éternellement !"
        ]
       ]
      }
@@ -994,7 +994,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " À toi, louange et gloire éternellement !"
+        "À toi, louange et gloire éternellement !"
        ]
       ]
      }
@@ -1177,7 +1177,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " À toi, louange et gloire éternellement !"
+        "À toi, louange et gloire éternellement !"
        ]
       ]
      }
@@ -1363,7 +1363,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " À toi, louange et gloire éternellement !"
+        "À toi, louange et gloire éternellement !"
        ]
       ]
      }
@@ -1522,7 +1522,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " À toi, louange et gloire éternellement !"
+        "À toi, louange et gloire éternellement !"
        ]
       ]
      }
@@ -1593,9 +1593,18 @@
       "lines": [
        [
         "Béni sois-tu, toi qui sondes les abîmes :"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
-        "R/ À toi, louange et gloire éternellement !"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "À toi, louange et gloire éternellement !"
        ],
        [
         "Béni sois-tu au firmament, dans le ciel :"
@@ -1684,7 +1693,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " À toi, louange et gloire éternellement !"
+        "À toi, louange et gloire éternellement !"
        ]
       ]
      }
@@ -2591,8 +2600,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada V — Feria quarta",
-  "pt-BR": "Tempo da Quaresma — Quarta-feira da 5ª Semana da Quaresma",
-  "en-US": "Season of Lent — 5th Week: Wednesday",
+  "pt-BR": "Quarta-feira da 5ª Semana da Quaresma",
+  "en-US": "Wednesday of the Fifth Week of Lent",
   "es": "Tiempo de Cuaresma — Miércoles de la V Semana",
   "it": "MERCOLEDI DELLA V SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 5e semaine — Mercredi",

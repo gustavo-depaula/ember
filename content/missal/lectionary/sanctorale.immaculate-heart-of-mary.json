@@ -151,25 +151,6 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.csmv1f9"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
@@ -178,7 +159,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -190,7 +171,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sm 2, 1.4-5.6-7.8abcd (: 1a)",
+      "cite": "1 Sm 2, 1.4-5.6-7.8abcd (R.: 1a)",
       "role": "title"
      }
     ],
@@ -202,7 +183,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -214,7 +195,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -238,7 +219,7 @@
         "Psaume"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -250,7 +231,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R: vgl. 1b)",
+      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R.: vgl. 1b)",
       "role": "title"
      }
     ]
@@ -2160,8 +2141,8 @@
  ],
  "title": {
   "la": "Sabbato post Dominicam secundam post Pentecosten — Immaculati Cordis beatæ Maríæ Virginis",
-  "pt-BR": "Sábado após o segundo domingo depois de Pentecostes — Imaculado Coração De Maria",
-  "en-US": "Saturday following the second sunday after Pentecost — The Immaculate Heart of Mary",
+  "pt-BR": "Imaculado Coração da Bem-aventurada Virgem Maria",
+  "en-US": "Saturday after the Second Sunday after Pentecost — The Immaculate Heart of the Blessed Virgin Mary",
   "es": "Sábado posterior al II domingo después de Pentecostés: — El Inmaculado Corazón de la Virgen María",
   "it": "Sabato dopo la solennità del S. Cuore di Gesù — Cuore Immacolato Della Beata Vergine Maria",
   "fr": "Cœur Immaculé de la bienheureuse Vierge Marie",

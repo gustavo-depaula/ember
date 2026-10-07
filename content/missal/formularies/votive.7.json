@@ -19,7 +19,7 @@
        [
         {
          "m": "rubric",
-         "t": "In hac Missa adhibetur color ruber. "
+         "t": "In hac Missa adhibetur color ruber."
         }
        ]
       ]
@@ -1182,7 +1182,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -1195,7 +1195,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -1221,7 +1221,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -1234,7 +1234,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -1247,7 +1247,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -1260,7 +1260,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1390,8 +1390,8 @@
  ],
  "title": {
   "la": "7. DE PRETIOSISSIMO SANGUINE DOMINI NOSTRI IESU ChristI",
-  "pt-BR": "7. PRECIOSÍSSIMO SANGUE DE NOSSO SENHOR JESUS CRISTO",
-  "en-US": "7. THE MOST PRECIOUS BLOOD OF OUR LORD JESUS CHRIST",
+  "pt-BR": "7. Preciosíssimo Sangue de Nosso Senhor Jesus Cristo",
+  "en-US": "7. The Most Precious Blood of Our Lord Jesus Christ",
   "es": "7. DE LA PRECIOSÍSIMA SANGRE DE NUESTRO SEÑOR JESUCRISTO",
   "it": "7. PREZIOSISSIMO SANGUE DI N. S. GESÙ CRISTO",
   "fr": "7. PRÉCIEUX SANG DE NOTRE SEIGNEUR JÉSUS CHRIST",

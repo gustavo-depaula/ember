@@ -590,7 +590,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Salmo 88 (89), 21-22.25.27",
+      "cite": "Sl 88 (89), 21-22.25.27",
       "role": "title"
      }
     ],
@@ -1033,7 +1033,7 @@
         "Ele, então, me invocará: \"Ó Senhor, vós sois meu Pai,"
        ],
        [
-        "sois meu Deus, sois meu Rochedo onde encontro a salvação\"!."
+        "sois meu Deus, sois meu Rochedo onde encontro a salvação\"!"
        ]
       ]
      }
@@ -1251,7 +1251,7 @@
       "k": "p",
       "lines": [
        [
-        "Lectio Secunda"
+        "Lectio secunda"
        ]
       ],
       "role": "title"
@@ -2541,8 +2541,8 @@
  ],
  "title": {
   "la": "Hebdomada Sancta — FERIA V HEBDOMADÆ SANCTÆ",
-  "pt-BR": "SEMANA SANTA. QUINTA-FEIRA (Missa Crismal)",
-  "en-US": "THURSDAY OF HOLY WEEK — [HOLY THURSDAY]",
+  "pt-BR": "Quinta-feira da Semana Santa — Missa do Crisma",
+  "en-US": "Thursday of Holy Week — The Chrism Mass",
   "es": "JUEVES SANTO",
   "it": "GIOVEDI SANTO (MESSA DEL CRISMA)",
   "fr": "Semaine Sainte — MESSE CHRISMALE",

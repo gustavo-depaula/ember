@@ -150,7 +150,7 @@ const titleText = (
 })
 
 const smallWords = new Set(
-  'a o e de da do das dos em no na nos nas para com ou of the and in on for at to or et in ad pro cum'.split(
+  'a o e de da do das dos os as em no na nos nas para com ou of the and in on for at to or et in ad pro cum'.split(
     ' ',
   ),
 )
@@ -168,7 +168,7 @@ function tidyTitle(text: string): string {
         .replace(/(^|[\s(])(\p{L}+)/gu, (_, lead, w) =>
           lead && smallWords.has(w) ? lead + w : lead + w[0].toUpperCase() + w.slice(1),
         )
-        .replace(/\b[ivx]+\b/giu, (numeral) => numeral.toUpperCase())
+        .replace(/(?<!\p{L})[ivx]+(?!\p{L})/giu, (numeral) => numeral.toUpperCase())
     })
     .join(' — ')
 }
@@ -269,7 +269,11 @@ function partBlock(part: Part, plan: MassPlan, ctx: RenderContext): Primitive[] 
     part === 'sequence' && plan.sequence && !plan.sequence.required
       ? say(words.sequenceOptional, ctx.lang)
       : (labelOf(options[0].items, ctx) ?? say(partWords[part], ctx.lang))
-  const built = partOptions(options, ctx, ownDay)
+  // A proper that exists in another language only (Spain's own antiphons for a
+  // saint of the General Calendar) leaves nothing to choose here.
+  const all = partOptions(options, ctx, ownDay)
+  const worded = all.filter((option) => option.children.some((p) => p.type !== 'rubric'))
+  const built = worded.length > 0 ? worded : all
   // A lone optional sequence has no selector to carry its label.
   const lead: Primitive[] =
     part === 'sequence' && built.length === 1 && !plan.sequence?.required

@@ -231,7 +231,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -290,7 +290,7 @@
         "Alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -312,7 +312,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -340,7 +340,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel, pro religiosa: "
+         "t": "Vel, pro religiosa:"
         }
        ]
       ],
@@ -354,7 +354,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or, for a Woman Religious: "
+         "t": "Or, for a Woman Religious:"
         }
        ]
       ],
@@ -396,7 +396,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel, pro religiosa: "
+         "t": "Vel, pro religiosa:"
         }
        ]
       ],
@@ -422,7 +422,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -504,7 +504,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1201,7 +1201,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel, pro religiosa: "
+         "t": "Vel, pro religiosa:"
         }
        ]
       ],
@@ -1215,7 +1215,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or, for a woman Religious: "
+         "t": "Or, for a woman Religious:"
         }
        ]
       ],
@@ -1257,7 +1257,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien pour une religieuse : "
+         "t": "Ou bien pour une religieuse :"
         }
        ]
       ],
@@ -1283,7 +1283,7 @@
         "allelúia ",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1365,7 +1365,7 @@
         "alléluia ",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1576,7 +1576,7 @@
  ],
  "title": {
   "la": "COMMUNE SANCTORUM ET SANCTARUM",
-  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "en-US": "Common of Holy Men and Women",
   "es": "COMÚN DE SANTOS Y SANTAS",
   "it": "COMUNE DEI SANTI E DELLE SANTE",
   "fr": "COMMUN DES SAINTS ET DES SAINTES",

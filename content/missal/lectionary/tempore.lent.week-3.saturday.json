@@ -662,7 +662,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 50, 3-4. 18-19. 20-21a (: cf. Os 6, 6)",
+      "cite": "Ps 50, 3-4. 18-19. 20-21a (R.: cf. Os 6, 6)",
       "role": "title"
      }
     ],
@@ -674,7 +674,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 50 (51), 3-4.18-19.20-21 (: cf. Os 6, 6)",
+      "cite": "Sl 50 (51), 3-4.18-19.20-21 (R.: cf. Os 6, 6)",
       "role": "title"
      }
     ],
@@ -686,7 +686,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 50, 3-4. 18-19. 20-21a (: cf. Os 6, 6)",
+      "cite": "Ps 50, 3-4. 18-19. 20-21a (R.: cf. Os 6, 6)",
       "role": "title"
      }
     ],
@@ -698,7 +698,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 50, 3-4. 18-19. 20-21a (: cf. Os 6, 6)",
+      "cite": "Sal 50, 3-4. 18-19. 20-21a (R.: cf. Os 6, 6)",
       "role": "title"
      }
     ],
@@ -722,7 +722,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 50, 3-4. 18-19. 20-21a (: cf. Os 6, 6)",
+      "cite": "Ps 50, 3-4. 18-19. 20-21a (R.: cf. Os 6, 6)",
       "role": "title"
      }
     ],
@@ -734,7 +734,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 51 (50), 3-4. 18-19. 20-21 (R: vgl. Hos 6, 6a)",
+      "cite": "Ps 51 (50), 3-4. 18-19. 20-21 (R.: vgl. Hos 6, 6a)",
       "role": "title"
      }
     ]
@@ -2407,8 +2407,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada III — Sabbato",
-  "pt-BR": "Tempo da Quaresma — Sábado da 3ª Semana da Quaresma",
-  "en-US": "Season of Lent — 3rd Week: Saturday",
+  "pt-BR": "Sábado da 3ª Semana da Quaresma",
+  "en-US": "Saturday of the Third Week of Lent",
   "es": "Tiempo de Cuaresma — Sábado de la III Semana",
   "it": "Sabato DELLA III SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 3e semaine — Samedi",

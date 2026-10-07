@@ -216,7 +216,7 @@
       "k": "p",
       "lines": [
        [
-        "Deínde sepelívit Abraham Saram uxórem suam in spelúnca agri Machpéla, qui respiciébat Mambre — ​hæc est Hebron — ​in terra Chánaan."
+        "Deínde sepelívit Abraham Saram uxórem suam in spelúnca agri Machpéla, qui respiciébat Mambre — hæc est Hebron — in terra Chánaan."
        ]
       ]
      },
@@ -750,7 +750,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (: 1a)",
+      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -762,7 +762,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 105 (106), 1-2.3-4a.4b-5 (: 1a)",
+      "cite": "Sl 105 (106), 1-2.3-4a.4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -774,7 +774,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (: 1a)",
+      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -786,7 +786,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 105, 1-2. 3-4a. 4b-5 (: 1a)",
+      "cite": "Sal 105, 1-2. 3-4a. 4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -810,7 +810,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (: 1a)",
+      "cite": "Ps 105, 1-2. 3-4a. 4b-5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -822,7 +822,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 106 (105), 1-2. 3-4. 5 (R: 1a)",
+      "cite": "Ps 106 (105), 1-2. 3-4. 5 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -1197,7 +1197,7 @@
         "e praticam a justiça em todo o tempo! Lembrai-vos,"
        ],
        [
-        "ó Senhor, de mim, lembrai-vos, pelo amor que demonstrais ao vosso povo!."
+        "ó Senhor, de mim, lembrai-vos, pelo amor que demonstrais ao vosso povo!"
        ]
       ]
      }
@@ -2341,7 +2341,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 2. 10. 20. 30. 40. 131 (: Mt 4, 4)",
+      "cite": "Ps 118, 2. 10. 20. 30. 40. 131 (R.: Mt 4, 4)",
       "role": "title"
      }
     ],
@@ -2353,7 +2353,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 2.10.20.30.40 e 131 (: Mt 4, 4)",
+      "cite": "Sl 118 (119), 2.10.20.30.40 e 131 (R.: Mt 4, 4)",
       "role": "title"
      }
     ],
@@ -2365,7 +2365,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 2. 10. 20. 30. 40. 131 (: Mt 4, 4)",
+      "cite": "Ps 118, 2. 10. 20. 30. 40. 131 (R.: Mt 4, 4)",
       "role": "title"
      }
     ],
@@ -2377,7 +2377,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 2. 10. 20. 30. 40. 131 (: Mt 4, 4)",
+      "cite": "Sal 118, 2. 10. 20. 30. 40. 131 (R.: Mt 4, 4)",
       "role": "title"
      }
     ],
@@ -2401,7 +2401,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 2. 10. 20. 30. 40. 131 (: Mt 4, 4)",
+      "cite": "Ps 118, 2. 10. 20. 30. 40. 131 (R.: Mt 4, 4)",
       "role": "title"
      }
     ],
@@ -2413,7 +2413,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 2 u. 10. 20 u. 30. 40 u. 131 (R: vgl. Mt 4, 4)",
+      "cite": "Ps 119 (118), 2 u. 10. 20 u. 30. 40 u. 131 (R.: vgl. Mt 4, 4)",
       "role": "title"
      }
     ]
@@ -2735,7 +2735,7 @@
         "De todo o coração eu vos procuro,"
        ],
        [
-        "não deixeis que eu abandone a vossa lei!."
+        "não deixeis que eu abandone a vossa lei!"
        ]
       ]
      }
@@ -4517,7 +4517,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XIII",
   "pt-BR": "Sexta-feira da 13ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 13th Week: Friday",
+  "en-US": "Friday of the Thirteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 13ª semana",
   "it": "VENERDI della XIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 13e semaine",

@@ -778,7 +778,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 84, 9ab-10. 11-12. 13-14 (: Is 35, 4d)",
+      "cite": "Ps 84, 9ab-10. 11-12. 13-14 (R.: Is 35, 4d)",
       "role": "title"
      }
     ],
@@ -790,7 +790,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 84 (85), 9ab-10.11-12.13-14 (: Is 35, 4d)",
+      "cite": "Sl 84 (85), 9ab-10.11-12.13-14 (R.: Is 35, 4d)",
       "role": "title"
      }
     ],
@@ -802,7 +802,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 84, 9ab-10. 11-12. 13-14 (: Is 35, 4d)",
+      "cite": "Ps 84, 9ab-10. 11-12. 13-14 (R.: Is 35, 4d)",
       "role": "title"
      }
     ],
@@ -814,7 +814,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 84, 9ab-10. 11-12. 13-14 (R/.: Is 35, 4d)",
+      "cite": "Sal 84, 9ab-10. 11-12. 13-14 (R.: Is 35, 4d)",
       "role": "title"
      }
     ],
@@ -838,7 +838,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 84, 9ab-10. 11-12. 13-14 (: Is 35, 4d)",
+      "cite": "Ps 84, 9ab-10. 11-12. 13-14 (R.: Is 35, 4d)",
       "role": "title"
      }
     ],
@@ -850,7 +850,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 85 (84), 9-10. 11-12. 13-14 (R: vgl. Jes 35, 4d)",
+      "cite": "Ps 85 (84), 9-10. 11-12. 13-14 (R.: vgl. Jes 35, 4d)",
       "role": "title"
      }
     ]
@@ -2498,7 +2498,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Louange à toi, Seigneur Jésus !"
+        "Louange à toi, Seigneur Jésus !"
        ]
       ]
      }
@@ -2524,8 +2524,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada II — Feria secunda",
-  "pt-BR": "Segunda-feira",
-  "en-US": "Advent Season — 2nd Week: Monday",
+  "pt-BR": "Segunda-feira da 2ª Semana do Advento",
+  "en-US": "Monday of the Second Week of Advent",
   "es": "Tiempo de Adviento — Lunes de la II Semana",
   "it": "Feria adviento semana II",
   "fr": "Temps de l'Avent — 2e semaine — Lundi",

@@ -620,7 +620,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 110, 7-8. 9. 10 (: 2a)",
+      "cite": "Ps 110, 7-8. 9. 10 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -632,7 +632,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 110 (111), 7.8.9-10 (: 2a)",
+      "cite": "Sl 110 (111), 7.8.9-10 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -644,7 +644,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 110, 7-8. 9. 10 (: 2a)",
+      "cite": "Ps 110, 7-8. 9. 10 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -656,7 +656,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 110, 7-8. 9. 10 (: 2a)",
+      "cite": "Sal 110, 7-8. 9. 10 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -680,7 +680,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 110, 7-8. 9. 10 (: 2a)",
+      "cite": "Ps 110, 7-8. 9. 10 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -692,7 +692,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 111 (110), 7-8. 9-10 (R: 2a)",
+      "cite": "Ps 111 (110), 7-8. 9-10 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -2053,7 +2053,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 117, 1-2. 16ab et 17. 28 (: 1)",
+      "cite": "Ps 117, 1-2. 16ab et 17. 28 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2065,7 +2065,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 117 (118), 1-2.16ab-17.28-29 (: 1)",
+      "cite": "Sl 117 (118), 1-2.16ab-17.28-29 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2077,7 +2077,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 117, 1-2. 16ab et 17. 28 (: 1)",
+      "cite": "Ps 117, 1-2. 16ab and 17. 28 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2089,7 +2089,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 117, 1-2. 16ab et 17. 28 (: 1)",
+      "cite": "Sal 117, 1-2. 16ab et 17. 28 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2113,7 +2113,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 117, 1-2. 16ab et 17. 28 (: 1)",
+      "cite": "Ps 117, 1-2. 16ab et 17. 28 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2125,7 +2125,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 118 (117), 2 u. 4. 16-17. 28-29 (R: 1)",
+      "cite": "Ps 118 (117), 2 u. 4. 16-17. 28-29 (R.: 1)",
       "role": "title"
      }
     ]
@@ -2509,7 +2509,7 @@
         "Não morrerei, mas ao contrário, viverei"
        ],
        [
-        "para cantar as grandes obras do Senhor!."
+        "para cantar as grandes obras do Senhor!"
        ]
       ]
      }
@@ -3888,7 +3888,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXIV",
   "pt-BR": "Quinta-feira da 24ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 24th Week: Thursday",
+  "en-US": "Thursday of the Twenty-Fourth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 24ª semana",
   "it": "GIOVEDI della XXIV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 24e semaine",

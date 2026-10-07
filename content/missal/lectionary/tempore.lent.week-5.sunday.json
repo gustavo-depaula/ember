@@ -552,7 +552,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (: 7bc)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -564,7 +564,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 129 (130),1-2.3-4.5-6.7-8 (:7bc)",
+      "cite": "Sl 129 (130),1-2.3-4.5-6.7-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -576,7 +576,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (: 7bc)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -588,7 +588,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 129, 1-2. 3-4. 5-7a. 7bc-8 (: 7bc)",
+      "cite": "Sal 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -612,7 +612,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (: 7bc)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -624,7 +624,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b. 6c-7a u. 8 (R: 7bc)",
+      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b. 6c-7a u. 8 (R.: 7bc)",
       "role": "title"
      }
     ]
@@ -893,7 +893,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "No Senhor, toda graça e redenção!."
+        "No Senhor, toda graça e redenção!"
        ]
       ]
      }
@@ -4582,7 +4582,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 50, 3-4. 12-13. 14-15 (: 12a)",
+      "cite": "Ps 50, 3-4. 12-13. 14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4594,7 +4594,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 50 (51), 3-4.12-13.14-15 (: 12a)",
+      "cite": "Sl 50 (51), 3-4.12-13.14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4606,7 +4606,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 50, 3-4. 12-13. 14-15 (: 12a)",
+      "cite": "Ps 50, 3-4. 12-13. 14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4618,7 +4618,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 50, 3-4. 12-13. 14-15 (: 12a)",
+      "cite": "Sal 50, 3-4. 12-13. 14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4642,7 +4642,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 50, 3-4. 12-13. 14-15 (: 12a)",
+      "cite": "Ps 50, 3-4. 12-13. 14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4654,7 +4654,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 51 (50), 3-4. 12-13. 14-15 (R: vgl. 12a)",
+      "cite": "Ps 51 (50), 3-4. 12-13. 14-15 (R.: vgl. 12a)",
       "role": "title"
      }
     ]
@@ -7297,7 +7297,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7309,7 +7309,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (: 3)",
+      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7321,7 +7321,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7333,7 +7333,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 125, 1-2ab. 2cd-3. 4-5. 6 (: 3)",
+      "cite": "Sal 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7357,7 +7357,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7369,7 +7369,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 3)",
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ]
@@ -7635,7 +7635,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor, exultemos de alegria!."
+        "Maravilhas fez conosco o Senhor, exultemos de alegria!"
        ]
       ]
      }
@@ -7871,7 +7871,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor, exultemos de alegria!."
+        "Maravilhas fez conosco o Senhor, exultemos de alegria!"
        ]
       ]
      }
@@ -8107,7 +8107,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor, exultemos de alegria!."
+        "Maravilhas fez conosco o Senhor, exultemos de alegria!"
        ]
       ]
      }
@@ -8343,7 +8343,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor, exultemos de alegria!."
+        "Maravilhas fez conosco o Senhor, exultemos de alegria!"
        ]
       ]
      }
@@ -8911,7 +8911,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Joel 2, 12-13",
@@ -9755,8 +9755,8 @@
  ],
  "title": {
   "la": "DOMINICA V IN QUADRAGESIMA",
-  "pt-BR": "5º DOMINGO DA QUARESMA",
-  "en-US": "Season of Lent — 5th Week: Sunday",
+  "pt-BR": "5º Domingo da Quaresma",
+  "en-US": "Fifth Sunday of Lent",
   "es": "V DOMINGO DE CUARESMA",
   "it": "V DOMENICA DI QUARESIMA",
   "fr": "Temps de Carême — 5ème Dimanche",

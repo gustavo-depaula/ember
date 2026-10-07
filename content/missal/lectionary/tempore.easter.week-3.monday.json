@@ -671,7 +671,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 23-24. 26-27. 29-30 (R: vgl. 1ab)",
+      "cite": "Ps 119 (118), 23-24. 26-27. 29-30 (R.: vgl. 1ab)",
       "role": "title"
      }
     ]
@@ -717,7 +717,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1009,7 +1009,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1158,7 +1158,7 @@
         "Fazei-me conhecer vossos caminhos,"
        ],
        [
-        "e então meditarei vossos prodígios!."
+        "e então meditarei vossos prodígios!"
        ]
       ]
      }
@@ -1301,7 +1301,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1593,7 +1593,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -2550,8 +2550,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada III — Feria II",
-  "pt-BR": "Tempo da Páscoa — 3ª Semana — Segunda-feira",
-  "en-US": "Easter Season — Third Week — Monday",
+  "pt-BR": "Segunda-feira da 3ª Semana da Páscoa",
+  "en-US": "Monday of the Third Week of Easter",
   "es": "Tiempo de Pascua — Semana III — Lunes",
   "it": "LUNEDI della III settimana di Pasqua",
   "fr": "Temps pascal — 3e semaine — Lundi",

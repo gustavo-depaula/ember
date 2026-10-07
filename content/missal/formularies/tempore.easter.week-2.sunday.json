@@ -320,7 +320,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -334,7 +334,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -348,7 +348,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -362,7 +362,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -376,7 +376,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -390,7 +390,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -404,7 +404,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -522,7 +522,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -543,7 +543,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -627,7 +627,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -943,7 +943,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1026,7 +1026,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1651,7 +1651,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ],
        [
@@ -1680,7 +1680,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ],
        [
@@ -1691,7 +1691,12 @@
        ],
        [
         "Ide em paz e o Senhor vos acompanhe, aleluia, aleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1709,7 +1714,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Blessing formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ],
        [
@@ -1745,7 +1750,7 @@
        [
         {
          "m": "rubric",
-         "t": "Para la bendición final de la misa, conviene que el sacerdote use la fórmula de solemne para la misa de la Vigilia pascual."
+         "t": "Para la bendición final de la misa, conviene que el sacerdote use la fórmula de bendición solemne para la misa de la Vigilia pascual."
         }
        ],
        [
@@ -1849,8 +1854,8 @@
  ],
  "title": {
   "la": "DOMINICA II PASCHÆ",
-  "pt-BR": "SEGUNDO DOMINGO DA PÁSCOA",
-  "en-US": "Easter Season — SECOND SUNDAY OF EASTER",
+  "pt-BR": "2º Domingo da Páscoa",
+  "en-US": "Second Sunday of Easter",
   "es": "II DOMINGO DE PASCUA",
   "it": "II DOMENICA DI PASQUA",
   "fr": "2ème DIMANCHE DE PÂQUES",

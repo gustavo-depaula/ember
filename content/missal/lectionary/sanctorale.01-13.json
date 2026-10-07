@@ -192,7 +192,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura='alindcha'ira Carta de São João"
+        "Leitura da Primeira Carta de São João"
        ]
       ],
       "cite": "2, 18-25",
@@ -575,7 +575,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -587,7 +587,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 109 (110), 1.2.3.4 (: 4bc)",
+      "cite": "Sl 109 (110), 1.2.3.4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -599,7 +599,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -611,7 +611,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -635,7 +635,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -647,7 +647,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 110 (109), 1-2. 3. 4-5 (R: 4b)",
+      "cite": "Ps 110 (109), 1-2. 3. 4-5 (R.: 4b)",
       "role": "title"
      }
     ]
@@ -2425,8 +2425,8 @@
  ],
  "title": {
   "la": "S. Hilarii, episcopi et Ecclesiæ doctoris",
-  "pt-BR": "São Hilário, bispo e doutor da Igreja",
-  "en-US": "St. Hilary, Bishop and Doctor of the Church",
+  "pt-BR": "Santo Hilário, bispo e doutor da Igreja",
+  "en-US": "Saint Hilary, Bishop and Doctor of the Church",
   "es": "San Hilario, obispo y doctor de la Iglesia",
   "it": "Sant'Ilario, vescovo e dottore della Chiesa",
   "fr": "Saint Hilaire, évêque et docteur de l'Église",

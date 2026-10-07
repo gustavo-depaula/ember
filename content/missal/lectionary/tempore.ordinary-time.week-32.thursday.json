@@ -793,7 +793,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 89. 90. 91. 130. 135. 175 (: 89a)",
+      "cite": "Ps 118, 89. 90. 91. 130. 135. 175 (R.: 89a)",
       "role": "title"
      }
     ],
@@ -805,7 +805,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 89.90.91.130.135.175 (: 89a)",
+      "cite": "Sl 118 (119), 89.90.91.130.135.175 (R.: 89a)",
       "role": "title"
      }
     ],
@@ -817,7 +817,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 89. 90. 91. 130. 135. 175 (: 89a)",
+      "cite": "Ps 118, 89. 90. 91. 130. 135. 175 (R.: 89a)",
       "role": "title"
      }
     ],
@@ -829,7 +829,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 89. 90. 91. 130. 135. 175 (: 89a)",
+      "cite": "Sal 118, 89. 90. 91. 130. 135. 175 (R.: 89a)",
       "role": "title"
      }
     ],
@@ -853,7 +853,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 89. 90. 91. 130. 135. 175 (: 89a)",
+      "cite": "Ps 118, 89. 90. 91. 130. 135. 175 (R.: 89a)",
       "role": "title"
      }
     ],
@@ -865,7 +865,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 89-90. 91 u. 130. 135 u. 175 (R: 89a)",
+      "cite": "Ps 119 (118), 89-90. 91 u. 130. 135 u. 175 (R.: 89a)",
       "role": "title"
      }
     ]
@@ -2738,7 +2738,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (: 5a)",
+      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -2750,7 +2750,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 145 (146), 7.8-9a.9bc-10 (: 5a)",
+      "cite": "Sl 145 (146), 7.8-9a.9bc-10 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -2762,7 +2762,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (: 5a)",
+      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -2774,7 +2774,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 145, 6c-7. 8-9a. 9bc-10 (: 5a)",
+      "cite": "Sal 145, 6c-7. 8-9a. 9bc-10 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -2798,7 +2798,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (: 5a)",
+      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -2810,7 +2810,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 146 (145), 6-7. 8-9b. 9c-10 (R: 5a)",
+      "cite": "Ps 146 (145), 6-7. 8-9b. 9c-10 (R.: 5a)",
       "role": "title"
      }
     ]
@@ -4450,7 +4450,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXXII",
   "pt-BR": "Quinta-feira da 32ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 32nd Week: Thursday",
+  "en-US": "Thursday of the Thirty-Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 32ª semana",
   "it": "GIOVEDI della XXXII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 32e semaine",

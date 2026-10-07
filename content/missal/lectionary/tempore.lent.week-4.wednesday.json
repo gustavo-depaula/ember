@@ -770,7 +770,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 8-9. 13cd-14. 17-18 (: 8a)",
+      "cite": "Ps 144, 8-9. 13cd-14. 17-18 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -782,7 +782,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 8-9.13cd-14.17-18 (: 8a))",
+      "cite": "Sl 144 (145), 8-9.13cd-14.17-18 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -794,7 +794,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 144, 8-9. 13cd-14. 17-18 (: 8a)",
+      "cite": "Ps 144, 8-9. 13cd-14. 17-18 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -806,7 +806,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 8-9. 13cd-14. 17-18 (: 8a)",
+      "cite": "Sal 144, 8-9. 13cd-14. 17-18 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -830,7 +830,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 8-9. 13cd-14. 17-18 (: 8a)",
+      "cite": "Ps 144, 8-9. 13cd-14. 17-18 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -842,7 +842,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 8-9. 13c-14. 17-18 (R: vgl. 8)",
+      "cite": "Ps 145 (144), 8-9. 13c-14. 17-18 (R.: vgl. 8)",
       "role": "title"
      }
     ]
@@ -916,7 +916,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Misericordioso e pietoso è il Signore."
+        "Misericordioso e pietoso è il Signore."
        ]
       ]
      }
@@ -1150,7 +1150,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Misericordioso e pietoso è il Signore."
+        "Misericordioso e pietoso è il Signore."
        ]
       ]
      }
@@ -1384,7 +1384,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Misericordioso e pietoso è il Signore."
+        "Misericordioso e pietoso è il Signore."
        ]
       ]
      }
@@ -1618,7 +1618,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Misericordioso e pietoso è il Signore."
+        "Misericordioso e pietoso è il Signore."
        ]
       ]
      }
@@ -2563,8 +2563,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada IV — Feria quarta",
-  "pt-BR": "Tempo da Quaresma — Quarta-feira da 4ª Semana da Quaresma",
-  "en-US": "Season of Lent — 4th Week: Wednesday",
+  "pt-BR": "Quarta-feira da 4ª Semana da Quaresma",
+  "en-US": "Wednesday of the Fourth Week of Lent",
   "es": "Tiempo de Cuaresma — Miércoles de la IV Semana",
   "it": "MERCOLEDI DELLA IV SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 4e semaine — Mercredi",

@@ -666,7 +666,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 8, 2a et 5. 6-7. 8-9 (: cf. 7)",
+      "cite": "Ps 8, 2a et 5. 6-7. 8-9 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -678,7 +678,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 8, 2a e 5.6-7.8-9 (: cf. 7)",
+      "cite": "Sl 8, 2a e 5.6-7.8-9 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -690,7 +690,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 8, 2a et 5. 6-7. 8-9 (: cf. 7)",
+      "cite": "Ps 8, 2a and 5. 6-7. 8-9 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -702,7 +702,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 8, 2a et 5. 6-7. 8-9 (: cf. 7)",
+      "cite": "Sal 8, 2a et 5. 6-7. 8-9 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -726,7 +726,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 8, 2a et 5. 6-7. 8-9 (: cf. 7)",
+      "cite": "Ps 8, 2a et 5. 6-7. 8-9 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -738,7 +738,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 8, 2 u. 5. 6-7. 8-9 (R: vgl. 7)",
+      "cite": "Ps 8, 2 u. 5. 6-7. 8-9 (R.: vgl. 7)",
       "role": "title"
      }
     ]
@@ -877,7 +877,7 @@
       "k": "p",
       "lines": [
        [
-        "Ó Senhor, nosso Deus,como é grande"
+        "Ó Senhor, nosso Deus, como é grande"
        ],
        [
         "vosso nome por todo o universo!"
@@ -2212,7 +2212,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2224,7 +2224,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sm 2, 1.4-5ab.5cd.6-7.8abcd (: cf. 1a)",
+      "cite": "1 Sm 2, 1.4-5ab.5cd.6-7.8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2236,7 +2236,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd. (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd. (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2248,7 +2248,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2272,7 +2272,7 @@
         "Psaume"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2284,7 +2284,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R: vgl. 1b)",
+      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R.: vgl. 1b)",
       "role": "title"
      }
     ]
@@ -4223,7 +4223,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. I",
   "pt-BR": "Terça-feira da 1ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 1st Week: Tuesday",
+  "en-US": "Tuesday of the First Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 1ª semana",
   "it": "MARTEDI della I settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 1e semaine",

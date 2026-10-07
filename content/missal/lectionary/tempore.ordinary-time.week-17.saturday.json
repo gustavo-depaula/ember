@@ -671,7 +671,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 66, 2-3. 5. 7-8 (: 4)",
+      "cite": "Ps 66, 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ],
@@ -683,7 +683,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 66 (67), 2-3.5.7-8 (: cf.4)",
+      "cite": "Sl 66 (67), 2-3.5.7-8 (R.: cf.4)",
       "role": "title"
      }
     ],
@@ -695,7 +695,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 66, 2-3. 5. 7-8 (: 4)",
+      "cite": "Ps 66, 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ],
@@ -707,7 +707,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 66, 2-3. 5. 7-8 (: 4)",
+      "cite": "Sal 66, 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ],
@@ -731,7 +731,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 66, 2-3. 5. 7-8 (: 4)",
+      "cite": "Ps 66, 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ],
@@ -743,7 +743,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 67 (66), 2-3. 5. 7-8 (R: 4)",
+      "cite": "Ps 67 (66), 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ]
@@ -2127,7 +2127,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 68, 15-16. 30-31. 33-34 (: cf. 14)",
+      "cite": "Ps 68, 15-16. 30-31. 33-34 (R.: cf. 14)",
       "role": "title"
      }
     ],
@@ -2139,7 +2139,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 68 (69), 15-16.30-31.33-34 (: 14c)",
+      "cite": "Sl 68 (69), 15-16.30-31.33-34 (R.: 14c)",
       "role": "title"
      }
     ],
@@ -2151,7 +2151,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 68, 15-16. 30-31. 33-34 (: cf. 14)",
+      "cite": "Ps 68, 15-16. 30-31. 33-34 (R.: cf. 14)",
       "role": "title"
      }
     ],
@@ -2163,7 +2163,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 68, 15-16. 30-31. 33-34 (: cf. 14)",
+      "cite": "Sal 68, 15-16. 30-31. 33-34 (R.: cf. 14)",
       "role": "title"
      }
     ],
@@ -2187,7 +2187,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 68, 15-16. 30-31. 33-34 (: cf. 14)",
+      "cite": "Ps 68, 15-16. 30-31. 33-34 (R.: cf. 14)",
       "role": "title"
      }
     ],
@@ -2199,7 +2199,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 69 (68), 15-16. 30-31. 33-34 (R: vgl. 14a)",
+      "cite": "Ps 69 (68), 15-16. 30-31. 33-34 (R.: vgl. 14a)",
       "role": "title"
      }
     ]
@@ -2359,7 +2359,7 @@
         "não me devorem violentos turbilhões,"
        ],
        [
-        "nem a cova feche a boca sobre mim!."
+        "nem a cova feche a boca sobre mim!"
        ]
       ]
      }
@@ -2607,7 +2607,7 @@
         "Cantando eu louvarei o vosso nome"
        ],
        [
-        "e agradecido exultarei de alegria!."
+        "e agradecido exultarei de alegria!"
        ]
       ]
      }
@@ -3105,7 +3105,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Felizes os que são perseguidos, por causa da justiça do Senhor, porque o reino dos céus há de ser deles!."
+        "Felizes os que são perseguidos, por causa da justiça do Senhor, porque o reino dos céus há de ser deles!"
        ],
        [
         "Aleluia."
@@ -3895,7 +3895,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XVII",
   "pt-BR": "Sábado da 17ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 17th Week: Saturday",
+  "en-US": "Saturday of the Seventeenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 17ª semana",
   "it": "Sabato della XVII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 17e semaine",

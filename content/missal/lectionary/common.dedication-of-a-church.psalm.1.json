@@ -3,36 +3,26 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "1 Par 29, 10. 11. 12 (: 13b)",
+      ],
+      "cite": "1 Par 29, 10. 11. 12 (R.: 13b)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "1 Cr 29, 10. 11. 12 (R.: 13b)",
       "role": "title"
      }
@@ -40,15 +30,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "1 Par 29, 10. 11. 12 (: 13b)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "1 Par 29, 10. 11. 12 (R.: 13b)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "1 Cro 29, 10. 11. 12 (R.: 13b)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "1 Cr 29, 10-12",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "1 Par 29, 10. 11. 12 (: 13b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "1 Par 29, 10. 11. 12 (R.: 13b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "1 Chr 29, 10b-11a. 11b-12a. 12b-13 (R: vgl. 13)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "1 Chr 29, 10b-11a. 11b-12a. 12b-13 (R.: vgl. 13)",
       "role": "title"
      }
     ]

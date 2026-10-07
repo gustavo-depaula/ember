@@ -461,7 +461,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pro papa: "
+         "t": "Pro papa:"
         }
        ],
        [
@@ -482,7 +482,7 @@
        [
         {
          "m": "rubric",
-         "t": "Para um papa: "
+         "t": "Para um papa:"
         }
        ],
        [
@@ -610,7 +610,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pour un pape: "
+         "t": "Pour un pape:"
         }
        ],
        [
@@ -684,7 +684,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pro papa: "
+         "t": "Pro papa:"
         }
        ],
        [
@@ -705,7 +705,7 @@
        [
         {
          "m": "rubric",
-         "t": "Para um papa: "
+         "t": "Para um papa:"
         }
        ],
        [
@@ -756,7 +756,7 @@
        [
         {
          "m": "rubric",
-         "t": "Por un papa: "
+         "t": "Por un papa:"
         }
        ],
        [
@@ -795,7 +795,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pour un pape: "
+         "t": "Pour un pape:"
         }
        ],
        [
@@ -845,7 +845,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pro episcopo: "
+         "t": "Pro episcopo:"
         }
        ],
        [
@@ -866,7 +866,7 @@
        [
         {
          "m": "rubric",
-         "t": "Para um bispo: "
+         "t": "Para um bispo:"
         }
        ],
        [
@@ -956,7 +956,7 @@
        [
         {
          "m": "rubric",
-         "t": "Per un vescovo: "
+         "t": "Per un vescovo:"
         }
        ],
        [
@@ -977,7 +977,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pour un évêque: "
+         "t": "Pour un évêque:"
         }
        ],
        [
@@ -1779,8 +1779,8 @@
  ],
  "title": {
   "la": "COMMUNE PASTORUM",
-  "pt-BR": "COMUM DOS PASTORES",
-  "en-US": "COMMON OF PASTORS",
+  "pt-BR": "Comum dos Pastores",
+  "en-US": "Common of Pastors",
   "es": "COMÚN DE PASTORES",
   "it": "COMUNE DEI PASTORI",
   "fr": "COMMUN DES PASTEURS",

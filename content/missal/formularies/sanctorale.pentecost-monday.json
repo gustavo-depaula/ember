@@ -119,6 +119,25 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus nos ama,"
+       ],
+       [
+        "por seu sangue nos libertou dos nossos pecados"
+       ],
+       [
+        "e fez de nós um reino, sacerdotes para seu Deus e Pai,"
+       ],
+       [
+        "aleluia."
+       ]
+      ]
+     }
     ]
    },
    "part": "entranceAntiphon"
@@ -140,7 +159,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -161,7 +180,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -182,7 +201,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -484,7 +503,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]

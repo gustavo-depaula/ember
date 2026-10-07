@@ -187,7 +187,7 @@
       "k": "p",
       "lines": [
        [
-        "Quod fuit ab inítio, quod audívimus, quod vídimus óculis nostris, quod perspéximus, et manus nostræ contrectavérunt de verbo vitæ — ​et vita appáruit, et vídimus et testámur et annuntiámus vobis vitam ætérnam, quæ erat coram Patre et appáruit nobis — ​quod vídimus et audívimus, annuntiámus et vobis, ut et vos communiónem habeátis nobíscum. Commúnio autem nostra est cum Patre et cum Fílio eius Iesu Christo."
+        "Quod fuit ab inítio, quod audívimus, quod vídimus óculis nostris, quod perspéximus, et manus nostræ contrectavérunt de verbo vitæ — et vita appáruit, et vídimus et testámur et annuntiámus vobis vitam ætérnam, quæ erat coram Patre et appáruit nobis — quod vídimus et audívimus, annuntiámus et vobis, ut et vos communiónem habeátis nobíscum. Commúnio autem nostra est cum Patre et cum Fílio eius Iesu Christo."
        ]
       ]
      },
@@ -598,7 +598,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 96, 1-2. 5-6. 11-12 (: 12a)",
+      "cite": "Ps 96, 1-2. 5-6. 11-12 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -610,7 +610,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 96 (97), 1-2.5-6.11-12 (: 12a)",
+      "cite": "Sl 96 (97), 1-2.5-6.11-12 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -622,7 +622,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 96, 1-2. 5-6. 11-12 (: 12a)",
+      "cite": "Ps 96, 1-2. 5-6. 11-12 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -658,7 +658,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 96, 1-2. 5-6. 11-12 (: 12a)",
+      "cite": "Ps 96, 1-2. 5-6. 11-12 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -670,7 +670,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 97 (96), 1-2. 5-6. 11-12 (R: 12a)",
+      "cite": "Ps 97 (96), 1-2. 5-6. 11-12 (R.: 12a)",
       "role": "title"
      }
     ]
@@ -1602,7 +1602,7 @@
       "k": "p",
       "lines": [
        [
-        "Alleluia"
+        "Canto al Vangelo"
        ]
       ],
       "role": "title"
@@ -2317,8 +2317,8 @@
  ],
  "title": {
   "la": "S. IOANNIS, APOSTOLI ET EVANGELISTÆ",
-  "pt-BR": "SÃO JOÃO, APOSTOLO E EVANGELISTA",
-  "en-US": "ST. JOHN, APOSTLE AND EVANGELIST",
+  "pt-BR": "São João, Apóstolo e Evangelista",
+  "en-US": "Saint JOHN, APOSTLE AND EVANGELIST",
   "es": "SAN JUAN, APÓSTOL Y EVANGELISTA",
   "it": "SAN GIOVANNI, APOSTOLO ED EVANGELISTA",
   "fr": "SAINT JEAN, APÔTRE ET ÉVANGÉLISTE",

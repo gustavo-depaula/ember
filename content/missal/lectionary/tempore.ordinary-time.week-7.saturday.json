@@ -800,7 +800,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 102, 13-14. 15-16. 17-18a (: cf. 17)",
+      "cite": "Ps 102, 13-14. 15-16. 17-18a (R.: cf. 17)",
       "role": "title"
      }
     ],
@@ -812,7 +812,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 13-14.15-16.17ab e 18 (: cf. 17)",
+      "cite": "Sl 102 (103), 13-14.15-16.17ab e 18 (R.: cf. 17)",
       "role": "title"
      }
     ],
@@ -824,7 +824,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 102, 13-14. 15-16. 17-18a (: cf. 17)",
+      "cite": "Ps 102, 13-14. 15-16. 17-18a (R.: cf. 17)",
       "role": "title"
      }
     ],
@@ -836,7 +836,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 102, 13-14. 15-16. 17-18a (: cf. 17)",
+      "cite": "Sal 102, 13-14. 15-16. 17-18a (R.: cf. 17)",
       "role": "title"
      }
     ],
@@ -860,7 +860,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 102, 13-14. 15-16. 17-18a (: cf. 17)",
+      "cite": "Ps 102, 13-14. 15-16. 17-18a (R.: cf. 17)",
       "role": "title"
      }
     ],
@@ -872,7 +872,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 13-14. 15-16. 17-18a (R: 17a)",
+      "cite": "Ps 103 (102), 13-14. 15-16. 17-18a (R.: 17a)",
       "role": "title"
      }
     ]
@@ -2251,7 +2251,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 140, 1-2. 3 et 8 (: 2a)",
+      "cite": "Ps 140, 1-2. 3 et 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2263,7 +2263,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 140 (141), 1-2.3 e 8 (: 2a)",
+      "cite": "Sl 140 (141), 1-2.3 e 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2275,7 +2275,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 140, 1-2. 3 et 8 (: 2a)",
+      "cite": "Ps 140, 1-2. 3 and 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2287,7 +2287,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 140, 1-2. 3 et 8 (: 2a)",
+      "cite": "Sal 140, 1-2. 3 et 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2311,7 +2311,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 140, 1-2. 3 et 8 (: 2a)",
+      "cite": "Ps 140, 1-2. 3 et 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -2323,7 +2323,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 141 (140), 1-2. 3 u. 8 (R: vgl. 2a)",
+      "cite": "Ps 141 (140), 1-2. 3 u. 8 (R.: vgl. 2a)",
       "role": "title"
      }
     ]
@@ -2725,7 +2725,7 @@
         "A vós, Senhor, se dirigem meus olhos,"
        ],
        [
-        "em vós me abrigo: poupai minha vida!."
+        "em vós me abrigo: poupai minha vida!"
        ]
       ]
      }
@@ -3739,7 +3739,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. VII",
   "pt-BR": "Sábado da 7ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 7th Week: Saturday",
+  "en-US": "Saturday of the Seventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 7ª semana",
   "it": "Sabato della VII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 7e semaine",

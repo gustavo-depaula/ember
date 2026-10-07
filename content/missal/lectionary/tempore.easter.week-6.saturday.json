@@ -602,7 +602,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 46, 2-3. 8-9. 10 (R/.: 8a)",
+      "cite": "Sal 46, 2-3. 8-9. 10 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -638,7 +638,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 47 (46), 2-3. 8-9. 10 (R: vgl. 8a)",
+      "cite": "Ps 47 (46), 2-3. 8-9. 10 (R.: vgl. 8a)",
       "role": "title"
      }
     ]
@@ -1417,7 +1417,7 @@
         "pois só Deus é realmente o Altíssimo,"
        ],
        [
-        "e os poderosos desta terra lhe pertencem!."
+        "e os poderosos desta terra lhe pertencem!"
        ]
       ]
      }
@@ -1750,7 +1750,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2511,8 +2511,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VI — Sabbato",
-  "pt-BR": "Tempo da Páscoa — 6ª Semana — Sábado",
-  "en-US": "Easter Season — Sixth Week — Saturday",
+  "pt-BR": "Sábado da 6ª Semana da Páscoa",
+  "en-US": "Saturday of the Sixth Week of Easter",
   "es": "Tiempo de Pascua — Semana VI — Sábado",
   "it": "Sabato della VI settimana di Pasqua",
   "fr": "Temps pascal — 6e semaine — Samedi",

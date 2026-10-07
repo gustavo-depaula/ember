@@ -225,7 +225,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele dia, começou uma grande perseguição contra a Igreja de Jerusalém. E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judeia e da Samaria. Algumas pessoas piedosas sepultaram Estêvão e observaram grande luto por causa dele. Saulo, porém, devastava a Igreja: entrava nas casas e arrastava para fora homens e mulheres, para atirá-los na prisão. Entretanto, aqueles que se tinham dispersado iam por toda a parte, pregando a Palavra. Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo. As multidões seguiam com atenção as coisas que Filipe dizia. E todos unânimes o escutavam, pois viam os milagres que ele fazia. De muitos possessos saíam os espíritos maus, dando grandes gritos. Numerosos paralíticos e aleijados também foram curados.Era grande a alegria naquela cidade."
+        "Naquele dia, começou uma grande perseguição contra a Igreja de Jerusalém. E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judeia e da Samaria. Algumas pessoas piedosas sepultaram Estêvão e observaram grande luto por causa dele. Saulo, porém, devastava a Igreja: entrava nas casas e arrastava para fora homens e mulheres, para atirá-los na prisão. Entretanto, aqueles que se tinham dispersado iam por toda a parte, pregando a Palavra. Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo. As multidões seguiam com atenção as coisas que Filipe dizia. E todos unânimes o escutavam, pois viam os milagres que ele fazia. De muitos possessos saíam os espíritos maus, dando grandes gritos. Numerosos paralíticos e aleijados também foram curados. Era grande a alegria naquela cidade."
        ]
       ]
      },
@@ -602,7 +602,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 65, 1-3a. 4-5. 6-7a (R/.: 1)",
+      "cite": "Ps 65, 1-3a. 4-5. 6-7a (R.: 1)",
       "role": "title"
      }
     ],
@@ -614,7 +614,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 65 (66) l-3a. 4-5. 6-7a (R. l)",
+      "cite": "Sl 65 (66) l-3a. 4-5. 6-7a (R.: l)",
       "role": "title"
      }
     ],
@@ -637,7 +637,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 65, 1-3a. 4-5. 6-7a (R/.: 1)",
+      "cite": "Sal 65, 1-3a. 4-5. 6-7a (R.: 1)",
       "role": "title"
      }
     ],
@@ -661,7 +661,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 65, 1-3a. 4-5. 6-7a (R/.: 1)",
+      "cite": "Ps 65, 1-3a. 4-5. 6-7a (R.: 1)",
       "role": "title"
      }
     ],
@@ -673,7 +673,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 66 (65), 1-3a. 4-5. 6-7b (R: 1)",
+      "cite": "Ps 66 (65), 1-3a. 4-5. 6-7b (R.: 1)",
       "role": "title"
      }
     ]
@@ -1160,7 +1160,7 @@
         "Vinde ver todas as obras do Senhor:"
        ],
        [
-        "seus prodígios estupendos entre os homens!."
+        "seus prodígios estupendos entre os homens!"
        ]
       ]
      }
@@ -1455,7 +1455,7 @@
         "Exultemos de alegria no Senhor!"
        ],
        [
-        "Ele domina para sempre com poder!."
+        "Ele domina para sempre com poder!"
        ]
       ]
      }
@@ -2511,8 +2511,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada III — Feria IV",
-  "pt-BR": "Tempo da Páscoa — 3ª Semana — Quarta-feira",
-  "en-US": "Easter Season — Third Week — Wednesday",
+  "pt-BR": "Quarta-feira da 3ª Semana da Páscoa",
+  "en-US": "Wednesday of the Third Week of Easter",
   "es": "Tiempo de Pascua — Semana III — Miércoles",
   "it": "MERCOLEDI della III settimana di Pasqua",
   "fr": "Temps pascal — 3e semaine — Mercredi",

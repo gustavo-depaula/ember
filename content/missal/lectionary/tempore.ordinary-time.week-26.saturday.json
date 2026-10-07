@@ -772,7 +772,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 68, 33-35. 36-37 (: 34a)",
+      "cite": "Ps 68, 33-35. 36-37 (R.: 34a)",
       "role": "title"
      }
     ],
@@ -784,7 +784,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 68 (69), 33-35.36-37 (: 34a)",
+      "cite": "Sl 68 (69), 33-35.36-37 (R.: 34a)",
       "role": "title"
      }
     ],
@@ -796,7 +796,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 68, 33-35. 36-37 (: 34a)",
+      "cite": "Ps 68, 33-35. 36-37 (R.: 34a)",
       "role": "title"
      }
     ],
@@ -808,7 +808,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 68, 33-35. 36-37 (: 34a)",
+      "cite": "Sal 68, 33-35. 36-37 (R.: 34a)",
       "role": "title"
      }
     ],
@@ -832,7 +832,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 68, 33-35. 36-37 (: 34a)",
+      "cite": "Ps 68, 33-35. 36-37 (R.: 34a)",
       "role": "title"
      }
     ],
@@ -844,7 +844,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 69 (68), 33-34. 35-36b. 36c-37 (R: 34a)",
+      "cite": "Ps 69 (68), 33-34. 35-36b. 36c-37 (R.: 34a)",
       "role": "title"
      }
     ]
@@ -1007,7 +1007,7 @@
         "Que céus e terra glorifiquem o Senhor"
        ],
        [
-        "com o mar e todo ser que neles vive!."
+        "com o mar e todo ser que neles vive!"
        ]
       ]
      }
@@ -2120,7 +2120,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 66. 71. 75. 91. 125. 130 (: 135a)",
+      "cite": "Ps 118, 66. 71. 75. 91. 125. 130 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -2132,7 +2132,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 66 e 71.75 e 91.125 e 130(:135a))",
+      "cite": "Sl 118 (119), 66 e 71.75 e 91.125 e 130 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -2144,7 +2144,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 66. 71. 75. 91. 125. 130 (: 135a)",
+      "cite": "Ps 118, 66. 71. 75. 91. 125. 130 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -2156,7 +2156,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 66. 71. 75. 91. 125. 130 (: 135a)",
+      "cite": "Sal 118, 66. 71. 75. 91. 125. 130 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -2180,7 +2180,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 66. 71. 75. 91. 125. 130 (: 135a)",
+      "cite": "Ps 118, 66. 71. 75. 91. 125. 130 (R.: 135a)",
       "role": "title"
      }
     ],
@@ -2192,7 +2192,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 66 u. 71. 75 u. 91. 125 u. 130 (R: 135a)",
+      "cite": "Ps 119 (118), 66 u. 71. 75 u. 91. 125 u. 130 (R.: 135a)",
       "role": "title"
      }
     ]
@@ -4347,7 +4347,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XXVI",
   "pt-BR": "Sábado da 26ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 26th Week: Saturday",
+  "en-US": "Saturday of the Twenty-Sixth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 26ª semana",
   "it": "Sabato della XXVI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 26e semaine",

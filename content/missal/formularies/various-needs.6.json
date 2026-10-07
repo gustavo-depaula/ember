@@ -706,7 +706,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -719,7 +719,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -745,7 +745,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -771,7 +771,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -784,7 +784,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -990,7 +990,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -1003,7 +1003,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -1029,7 +1029,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -1055,7 +1055,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -1068,7 +1068,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1932,8 +1932,8 @@
  ],
  "title": {
   "la": "I. PRO SANCTA ECCLESIA",
-  "pt-BR": "I. PELA SANTA IGREJA",
-  "en-US": "I. FOR HOLY CHURCH",
+  "pt-BR": "I. Pela Santa Igreja",
+  "en-US": "I. For Holy Church",
   "es": "I. POR LA SANTA IGLESIA",
   "it": "I. PER LA SANTA CHIESA",
   "fr": "I. POUR LA SAINTE ÉGLISE",

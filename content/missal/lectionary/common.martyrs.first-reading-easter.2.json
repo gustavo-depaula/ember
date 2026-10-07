@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -100,6 +91,15 @@
      }
     ],
     "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -192,6 +192,15 @@
       "k": "p",
       "lines": [
        [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Estos son los que vienen de la gran tribulación"
        ]
       ],
@@ -266,6 +275,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sono quelli che vengono dalla grande tribolazione."
        ]
       ],
@@ -309,6 +327,15 @@
      }
     ],
     "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -382,6 +409,15 @@
       "k": "p",
       "lines": [
        [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Lesung aus der Offenbarung des Johannes"
        ]
       ],
@@ -419,16 +455,6 @@
        ]
       ],
       "role": "conclusion"
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "='alindcha'"
-       ]
-      ]
      }
     ]
    }

@@ -784,7 +784,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (: 8a)",
+      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -796,7 +796,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 104 (105), 1-2.3-4.6-7.8-9 (: 8a)",
+      "cite": "Sl 104 (105), 1-2.3-4.6-7.8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -808,7 +808,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (: 8a)",
+      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -820,7 +820,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 104, 1-2. 3-4. 6-7. 8-9 (: 8a)",
+      "cite": "Sal 104, 1-2. 3-4. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -844,7 +844,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (: 8a)",
+      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -856,7 +856,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 105 (104), 1-2. 3-4. 6-7. 8-9 (R: 7a. 8a)",
+      "cite": "Ps 105 (104), 1-2. 3-4. 6-7. 8-9 (R.: 7a. 8a)",
       "role": "title"
      }
     ]
@@ -2455,7 +2455,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 33. 34. 35. 36. 37. 40 (: 33a)",
+      "cite": "Ps 118, 33. 34. 35. 36. 37. 40 (R.: 33a)",
       "role": "title"
      }
     ],
@@ -2467,7 +2467,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 33-34.35-36.37 e 40 (: 33a)",
+      "cite": "Sl 118 (119), 33-34.35-36.37 e 40 (R.: 33a)",
       "role": "title"
      }
     ],
@@ -2479,7 +2479,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 33. 34. 35. 36. 37. 40 (: 33a)",
+      "cite": "Ps 118, 33. 34. 35. 36. 37. 40 (R.: 33a)",
       "role": "title"
      }
     ],
@@ -2491,7 +2491,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 33. 34. 35. 36. 37. 40 (: 33a)",
+      "cite": "Sal 118, 33. 34. 35. 36. 37. 40 (R.: 33a)",
       "role": "title"
      }
     ],
@@ -2515,7 +2515,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 33. 34. 35. 36. 37. 40 (: 33a)",
+      "cite": "Ps 118, 33. 34. 35. 36. 37. 40 (R.: 33a)",
       "role": "title"
      }
     ],
@@ -2527,7 +2527,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 33-34. 35-36. 37 u. 40 (R: 33a)",
+      "cite": "Ps 119 (118), 33-34. 35-36. 37 u. 40 (R.: 33a)",
       "role": "title"
      }
     ]
@@ -4594,7 +4594,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XII",
   "pt-BR": "Quarta-feira da 12ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 12th Week: Wednesday",
+  "en-US": "Wednesday of the Twelfth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 12ª semana",
   "it": "MERCOLEDI della XII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 12e semaine",

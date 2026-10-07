@@ -377,7 +377,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -398,7 +398,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -482,7 +482,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -594,7 +594,7 @@
       "k": "p",
       "lines": [
        [
-        "Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti, quǽsumus, ut, qui ex morte eiúsdem Fílii tui prævísa, eam ab omni labe præservásti, nos quoque mundos, eius intercessióne, ad te perveníre concédas.Per Dóminum."
+        "Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti, quǽsumus, ut, qui ex morte eiúsdem Fílii tui prævísa, eam ab omni labe præservásti, nos quoque mundos, eius intercessióne, ad te perveníre concédas. Per Dóminum."
        ]
       ]
      }
@@ -772,7 +772,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -790,7 +790,7 @@
         "Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -848,7 +848,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1124,7 +1124,7 @@
        [
         {
          "m": "rubric",
-         "t": "Præfatio: De mysterio Maríæ et Ecclesiæ. "
+         "t": "Præfatio: De mysterio Maríæ et Ecclesiæ."
         }
        ]
       ]
@@ -1177,7 +1177,7 @@
        [
         {
          "m": "rubric",
-         "t": "Do mistério de Maria e da Igreja. "
+         "t": "Do mistério de Maria e da Igreja."
         }
        ]
       ]
@@ -2031,7 +2031,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -2044,7 +2044,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -2057,7 +2057,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -2096,8 +2096,8 @@
  ],
  "title": {
   "la": "IN CONCEPTIONE IMMACULATA BEATÆ MARIÆ VIRGINIS",
-  "pt-BR": "IMACULADA CONCEIÇÃO DA BEM-AVENTURADA VIRGEM MARIA",
-  "en-US": "THE IMMACULATE CONCEPTION OF THE BLESSED VIRGIN MARY",
+  "pt-BR": "Imaculada Conceição da Bem-Aventurada Virgem Maria",
+  "en-US": "The Immaculate Conception of the Blessed Virgin Mary",
   "es": "LA INMACULADA CONCEPCIÓN DE SANTA MARÍA VIRGEN",
   "it": "IMMACOLARA CONCEZIONE DELLA BEATA VERGINE MARIA",
   "fr": "IMMACULÉE CONCEPTION DE LA BIENHEUREUSE VIERGE MARIE",

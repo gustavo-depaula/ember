@@ -222,7 +222,7 @@
       "k": "p",
       "lines": [
        [
-        "Primeira Leotura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -629,7 +629,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 111, 1-2. 5-6. 7-8. 9 (: 5a)",
+      "cite": "Ps 111, 1-2. 5-6. 7-8. 9 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -653,7 +653,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 111, 1-2. 5-6. 7-8. 9 (: 5a)",
+      "cite": "Ps 111, 1-2. 5-6. 7-8. 9 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -689,7 +689,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 111, 1-2. 5-6. 7-8. 9 (: 5a)",
+      "cite": "Ps 111, 1-2. 5-6. 7-8. 9 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -701,7 +701,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 112 (111), 1-2. 5-6. 7-8. 9-10 (R: vgl. 5a)",
+      "cite": "Ps 112 (111), 1-2. 5-6. 7-8. 9-10 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -2530,8 +2530,8 @@
  ],
  "title": {
   "la": "S. LAURENTII, DIACONI ET MARTYRIS",
-  "pt-BR": "SÃO LOUREÇO, DIÁCONO E MARTIR",
-  "en-US": "ST. LAWRENCE, DEACON AND MARTYR",
+  "pt-BR": "São Lourenço, Diácono e Mártir",
+  "en-US": "Saint LAWRENCE, DEACON AND MARTYR",
   "es": "SAN LORENZO, DIÁCONO Y MÁRTIR",
   "it": "SAN LORENZO, diacono e martire",
   "fr": "SAINT LAURENT, DIACRE ET MARTYR",

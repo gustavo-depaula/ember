@@ -111,7 +111,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 73 (72), 1 u. 23. 24-25. 26 u. 28 (R: 28a)",
+      "cite": "Ps 73 (72), 1 u. 23. 24-25. 26 u. 28 (R.: 28a)",
       "role": "title"
      }
     ]
@@ -286,25 +286,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
         "Evangelium"
        ]
       ],
@@ -432,6 +413,34 @@
          "t": "A: "
         },
         "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
        ]
       ]
      }

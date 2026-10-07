@@ -811,7 +811,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 29, 2 et 4. 5-6. 11-12a et 13b (: 2a)",
+      "cite": "Ps 29, 2 et 4. 5-6. 11-12a et 13b (R.: 2a)",
       "role": "title"
      }
     ],
@@ -823,7 +823,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 29 (30), 2 e 4.5-6.11-12a.13b (: 2a)",
+      "cite": "Sl 29 (30), 2 e 4.5-6.11-12a.13b (R.: 2a)",
       "role": "title"
      }
     ],
@@ -835,7 +835,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 29, 2 et 4. 5-6. 11-12a et 13b (: 2a)",
+      "cite": "Ps 29, 2 and 4. 5-6. 11-12a and 13b (R.: 2a)",
       "role": "title"
      }
     ],
@@ -847,7 +847,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 29, 2 et 4. 5-6. 11-12a et 13b (: 2a)",
+      "cite": "Sal 29, 2 et 4. 5-6. 11-12a et 13b (R.: 2a)",
       "role": "title"
      }
     ],
@@ -871,7 +871,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 29, 2 et 4. 5-6. 11-12a et 13b (: 2a)",
+      "cite": "Ps 29, 2 et 4. 5-6. 11-12a et 13b (R.: 2a)",
       "role": "title"
      }
     ],
@@ -883,7 +883,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 30 (29), 2 u. 4. 5-6b. 6cd u. 12a u. 13b (R: vgl. 2ab)",
+      "cite": "Ps 30 (29), 2 u. 4. 5-6b. 6cd u. 12a u. 13b (R.: vgl. 2ab)",
       "role": "title"
      }
     ]
@@ -2559,8 +2559,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada III — Feria quinta",
-  "pt-BR": "Quinta-feira",
-  "en-US": "Advent Season — 3rd Week: Thursday",
+  "pt-BR": "Quinta-feira da 3ª Semana do Advento",
+  "en-US": "Thursday of the Third Week of Advent",
   "es": "Tiempo de Adviento — Jueves de la III Semana",
   "it": "GIOVEDÌ della III SETTIMANA DI AVVENTO",
   "fr": "Temps de l'Avent — 1e semaine — Jeudi",

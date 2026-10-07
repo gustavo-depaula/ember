@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "11"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -51,6 +42,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "O noivo está chegando. Ide ao seu encontro!"
        ]
       ],
@@ -76,6 +76,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -88,6 +97,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -117,6 +135,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Ecco lo sposo! Andategli incontro!"
        ]
       ],
@@ -142,6 +169,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -154,6 +190,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -351,7 +396,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus told this parable to his disciples: 'The kingdom of heaven will be like this: Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish and five were sensible: the foolish ones did take their lamps, but they brought no oil, whereas the sensible ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, \"The bridegroom is here! Go out and meet him.\" At this, all those bridesmaids woke up and trimmed their lamps, and the foolish ones said to the sensible ones, \"Give us some of your oil: our lamps are going out\". But they replied, \"There may not be enough for us and for you; you had better go to those who sell it and buy some for yourselves\". They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall and the door was closed. The other bridesmaids arrived later. \"Lord, Lord,\" they said \"open the door for us.\" But he replied, \"I tell you solemnly, I do not know you\". So stay awake, because you do not know either the day or the hour."
+        "Jesus told this parable to his disciples: 'The kingdom of heaven will be like this: Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish and five were sensible: the foolish ones did take their lamps, but they brought no oil, whereas the sensible ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, \"The bridegroom is here! Go out and meet him.\" At this, all those bridesmaids woke up and trimmed their lamps, and the foolish ones said to the sensible ones, \"Give us some of your oil: our lamps are going out\". But they replied, \"There may not be enough for us and for you; you had better go to those who sell it and buy some for yourselves\". They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall and the door was closed. The other bridesmaids arrived later. \"Lord, Lord, \" they said \"open the door for us.\" But he replied, \"I tell you solemnly, I do not know you\". So stay awake, because you do not know either the day or the hour."
        ]
       ]
      },

@@ -628,7 +628,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 98, 5. 6. 7. 8. 9 (: cf. 9c)",
+      "cite": "Ps 98, 5. 6. 7. 8. 9 (R.: cf. 9c)",
       "role": "title"
      }
     ],
@@ -640,7 +640,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 98 (99), 5.6.7.8.9 (: cf. 9c)",
+      "cite": "Sl 98 (99), 5.6.7.8.9 (R.: cf. 9c)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 98, 5. 6. 7. 8. 9 (: cf. 9c)",
+      "cite": "Ps 98, 5. 6. 7. 8. 9 (R.: cf. 9c)",
       "role": "title"
      }
     ],
@@ -664,7 +664,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 98, 5. 6. 7. 8. 9 (: cf. 9c)",
+      "cite": "Sal 98, 5. 6. 7. 8. 9 (R.: cf. 9c)",
       "role": "title"
      }
     ],
@@ -688,7 +688,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 98, 5. 6. 7. 8. 9 (: cf. 9c)",
+      "cite": "Ps 98, 5. 6. 7. 8. 9 (R.: cf. 9c)",
       "role": "title"
      }
     ],
@@ -700,7 +700,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 99 (98), 4b-5. 6-7. 8-9 (R: vgl. 9c)",
+      "cite": "Ps 99 (98), 4b-5. 6-7. 8-9 (R.: vgl. 9c)",
       "role": "title"
      }
     ]
@@ -2568,7 +2568,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 15, 1-2a. 4. 5 et 8. 11 (: 1)",
+      "cite": "Ps 15, 1-2a. 4. 5 et 8. 11 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2580,7 +2580,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 15 (16), 1-2a.4.5 e 8.11 (: 1)",
+      "cite": "Sl 15 (16), 1-2a.4.5 e 8.11 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2592,7 +2592,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 15, 1-2a. 4. 5 et 8. 11 (: 1)",
+      "cite": "Ps 15, 1-2a. 4. 5 and 8. 11 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2604,7 +2604,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 15, 1-2a. 4. 5 et 8. 11 (: 1)",
+      "cite": "Sal 15, 1-2a. 4. 5 et 8. 11 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2628,7 +2628,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 15, 1-2a. 4. 5 et 8. 11 (: 1)",
+      "cite": "Ps 15, 1-2a. 4. 5 et 8. 11 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2640,7 +2640,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 16 (15), 1-2 u. 4. 5 u. 8. 9 u. 11 (R: vgl. 1)",
+      "cite": "Ps 16 (15), 1-2 u. 4. 5 u. 8. 9 u. 11 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -2977,7 +2977,7 @@
         "Multiplicam, no entanto, suas dores os que correm para os deuses estrangeiros;"
        ],
        [
-        "seus sacrifícios sanguinarios não partilho,nem seus nomes passarão pelos meus lábios."
+        "seus sacrifícios sanguinarios não partilho, nem seus nomes passarão pelos meus lábios."
        ]
       ]
      }
@@ -3331,7 +3331,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Guardai-me, ó Deus, porque em vós me refugio!."
+        "Guardai-me, ó Deus, porque em vós me refugio!"
        ]
       ]
      }
@@ -3677,7 +3677,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Salmo 24 (25) 4b.5a",
+      "cite": "Sl 24 (25) 4b.5a",
       "role": "title"
      },
      {
@@ -4428,7 +4428,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. X",
   "pt-BR": "Quarta-feira da 10ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 10th Week: Wednesday",
+  "en-US": "Wednesday of the Tenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 10ª semana",
   "it": "MERCOLEDI della X settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 10e semaine",

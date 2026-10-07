@@ -388,7 +388,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -409,7 +409,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1269,7 +1269,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1278,7 +1278,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -2016,8 +2016,8 @@
  ],
  "title": {
   "la": "DOMINICA V IN QUADRAGESIMA",
-  "pt-BR": "QUINTO DOMINGO DA QUARESMA",
-  "en-US": "Season of Lent — 5th Week: Sunday",
+  "pt-BR": "5º Domingo da Quaresma",
+  "en-US": "Fifth Sunday of Lent",
   "es": "V DOMINGO DE CUARESMA",
   "it": "V DOMENICA DI QUARESIMA",
   "fr": "5e DIMANCHE DE CARÊME",

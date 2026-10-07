@@ -625,7 +625,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 41, 2-3; 42, 3. 4 (R/.: cf. 41, 3a)",
+      "cite": "Ps 41, 2-3; 42, 3. 4 (R.: cf. 41, 3a)",
       "role": "title"
      }
     ],
@@ -637,7 +637,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 41 (42), 2.3; 42 (43), 3.4 (R/.:41, 3a)",
+      "cite": "Sl 41 (42), 2.3; 42 (43), 3.4 (R.: 41, 3a)",
       "role": "title"
      }
     ],
@@ -660,7 +660,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 41, 2-3; 42, 3. 4 (R/.: cf. 41, 3a)",
+      "cite": "Sal 41, 2-3; 42, 3. 4 (R.: cf. 41, 3a)",
       "role": "title"
      }
     ],
@@ -684,7 +684,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 41, 2-3; 42, 3. 4 (R/.: cf. 41, 3a)",
+      "cite": "Ps 41, 2-3; 42, 3. 4 (R.: cf. 41, 3a)",
       "role": "title"
      }
     ],
@@ -696,7 +696,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 42(41), 2-3; Ps 43 (42), 3. 4 (R: Ps 42 [41], 3a)",
+      "cite": "Ps 42(41), 2-3; Ps 43 (42), 3. 4 (R.: Ps 42 [41], 3a)",
       "role": "title"
      }
     ]
@@ -763,7 +763,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1022,7 +1022,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1281,7 +1281,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1567,7 +1567,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1689,7 +1689,7 @@
         "Deus da minha alegria."
        ],
        [
-        "Vosso louvor cantarei, ao som da harpa, meu Senhor e meu Deus!."
+        "Vosso louvor cantarei, ao som da harpa, meu Senhor e meu Deus!"
        ]
       ]
      }
@@ -1853,7 +1853,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1982,7 +1982,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "role": "title"
@@ -2191,7 +2191,7 @@
       "k": "p",
       "lines": [
        [
-        "O bom pastor dá a vida por suas ovelhas.."
+        "O bom pastor dá a vida por suas ovelhas."
        ]
       ],
       "role": "summary"
@@ -3265,8 +3265,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada IV — Feria II",
-  "pt-BR": "Tempo da Páscoa — 4ª Semana — Segunda-feira",
-  "en-US": "Easter Season — Fourth Week — Monday",
+  "pt-BR": "Segunda-feira da 4ª Semana da Páscoa",
+  "en-US": "Monday of the Fourth Week of Easter",
   "es": "Tiempo de Pascua — Semana IV — Lunes",
   "it": "LUNEDI della IV settimana di Pasqua",
   "fr": "Temps pascal — 4e semaine — Lundi",

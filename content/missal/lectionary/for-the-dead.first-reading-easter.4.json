@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -88,6 +79,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Nunca mais haverá morte"
        ]
       ],
@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Eu, João, vi um novo céu e uma nova terra, porque o primeiro céu e a primeira terra tinham desaparecido e o mar já não existia. Vi também a cidade santa, a nova Jerusalém, que descia do Céu, da presença de Deus, bela como noiva adornada para o seu esposo. Do trono ouvi uma voz forte que dizia: «Eis a morada de Deus com os homens. Deus habitará com os homens: eles serão o seu povo e o próprio Deus, no meio deles, será o seu Deus. Ele enxugará todas as lágrimas dos seus olhos; nunca mais haverá morte nem luto, nem gemidos nem dor,Disse então Aquele que estava sentado no trono: «Vou renovar todas as coisas. Eu sou o Alfa e o Ómega, o Princípio e o Fim. Àquele que tem sede darei a beber gratuitamente da fonte da água viva. O vencedor receberá esta herança; Eu serei seu Deus e ele será meu filho»"
+        "Eu, João, vi um novo céu e uma nova terra, porque o primeiro céu e a primeira terra tinham desaparecido e o mar já não existia. Vi também a cidade santa, a nova Jerusalém, que descia do Céu, da presença de Deus, bela como noiva adornada para o seu esposo. Do trono ouvi uma voz forte que dizia: «Eis a morada de Deus com os homens. Deus habitará com os homens: eles serão o seu povo e o próprio Deus, no meio deles, será o seu Deus. Ele enxugará todas as lágrimas dos seus olhos; nunca mais haverá morte nem luto, nem gemidos nem dor, Disse então Aquele que estava sentado no trono: «Vou renovar todas as coisas. Eu sou o Alfa e o Ómega, o Princípio e o Fim. Àquele que tem sede darei a beber gratuitamente da fonte da água viva. O vencedor receberá esta herança; Eu serei seu Deus e ele será meu filho»"
        ]
       ]
      },
@@ -122,6 +122,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -160,6 +169,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -217,6 +235,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de l'Apocalypse de saint Jean"
        ]
       ],
@@ -263,6 +290,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

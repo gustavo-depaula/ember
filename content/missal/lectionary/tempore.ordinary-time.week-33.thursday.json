@@ -704,7 +704,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 49, 1-2. 5-6. 14-15 (: 23b)",
+      "cite": "Ps 49, 1-2. 5-6. 14-15 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -716,7 +716,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 49 (50), 1-2.5-6.14-15 (: 23b)",
+      "cite": "Sl 49 (50), 1-2.5-6.14-15 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -728,7 +728,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 49, 1-2. 5-6. 14-15 (: 23b)",
+      "cite": "Ps 49, 1-2. 5-6. 14-15 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -740,7 +740,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 49, 1-2. 5-6. 14-15 (: 23b)",
+      "cite": "Sal 49, 1-2. 5-6. 14-15 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -764,7 +764,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 49, 1-2. 5-6. 14-15 (: 23b)",
+      "cite": "Ps 49, 1-2. 5-6. 14-15 (R.: 23b)",
       "role": "title"
      }
     ],
@@ -776,7 +776,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 50 (49), 1-2. 5-6. 14-15 (R: 23b)",
+      "cite": "Ps 50 (49), 1-2. 5-6. 14-15 (R.: 23b)",
       "role": "title"
      }
     ]
@@ -2233,7 +2233,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: Ap 5, 10)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: Ap 5, 10)",
       "role": "title"
      }
     ],
@@ -2245,7 +2245,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (: Ap 5, 10)",
+      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (R.: Ap 5, 10)",
       "role": "title"
      }
     ],
@@ -2257,7 +2257,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: Ap 5, 10)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a and 9b (R.: Ap 5, 10)",
       "role": "title"
      }
     ],
@@ -2269,7 +2269,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (: Ap 5, 10)",
+      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (R.: Ap 5, 10)",
       "role": "title"
      }
     ],
@@ -2281,7 +2281,7 @@
         "Salmo Responsoriale"
        ]
       ],
-      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (: Ap 5",
+      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (R.: Ap 5",
       "role": "title"
      }
     ],
@@ -2293,7 +2293,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: Ap 5, 10)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: Ap 5, 10)",
       "role": "title"
      }
     ],
@@ -2305,7 +2305,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R: vgl. Offb 5, 10)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R.: vgl. Offb 5, 10)",
       "role": "title"
      }
     ]
@@ -2453,7 +2453,7 @@
         "Alegre-se Israel em Quem o fez,"
        ],
        [
-        "e Sião se rejubile no seu Rei!."
+        "e Sião se rejubile no seu Rei!"
        ]
       ]
      }
@@ -3919,7 +3919,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXXIII",
   "pt-BR": "Quinta-feira da 33ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 33rd Week: Thursday",
+  "en-US": "Thursday of the Thirty-Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 33ª semana",
   "it": "GIOVEDI della XXXIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 33e semaine",

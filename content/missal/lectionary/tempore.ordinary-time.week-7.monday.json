@@ -769,7 +769,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 92, 1ab. 1c-2. 5 (: 1a)",
+      "cite": "Ps 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -781,7 +781,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 92 (93), 1ab.1c-2.5 (: 1a)",
+      "cite": "Sl 92 (93), 1ab.1c-2.5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -793,7 +793,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 92, 1ab. 1c-2. 5 (: 1a)",
+      "cite": "Ps 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -805,7 +805,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 92, 1ab. 1c-2. 5 (: 1a)",
+      "cite": "Sal 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -829,7 +829,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 92, 1ab. 1c-2. 5 (: 1a)",
+      "cite": "Ps 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -841,7 +841,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 93 (92), 1. 2-3. 4-5 (R: 1a)",
+      "cite": "Ps 93 (92), 1. 2-3. 4-5 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -1319,7 +1319,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Reina o Senhor, revestiu-se de esplendor!."
+        "Reina o Senhor, revestiu-se de esplendor!"
        ]
       ]
      }
@@ -2173,7 +2173,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 15 (: 9a)",
+      "cite": "Ps 18, 8. 9. 10. 15 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -2185,7 +2185,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18 B (19B), 8.9.10.15 (: 9 a)",
+      "cite": "Sl 18 B (19B), 8.9.10.15 (R.: 9 a)",
       "role": "title"
      }
     ],
@@ -2197,7 +2197,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 15 (: 9a)",
+      "cite": "Ps 18, 8. 9. 10. 15 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -2209,7 +2209,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 8. 9. 10. 15 (: 9a)",
+      "cite": "Sal 118, 8. 9. 10. 15 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -2233,7 +2233,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 15 (: 9a)",
+      "cite": "Ps 18, 8. 9. 10. 15 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -2245,7 +2245,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18B), 8. 9. 10. 12 u. 15 (R: 9ab)",
+      "cite": "Ps 19 (18B), 8. 9. 10. 12 u. 15 (R.: 9ab)",
       "role": "title"
      }
     ]
@@ -3314,7 +3314,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Cf. 2 Tim 1, 10",
+      "cite": "Cf. 2 Tm 1, 10",
       "role": "title"
      },
      {
@@ -4237,7 +4237,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. VII",
   "pt-BR": "Segunda-feira da 7ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 7th Week: Monday",
+  "en-US": "Monday of the Seventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 7ª semana",
   "it": "LUNEDI della VII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 7e semaine",

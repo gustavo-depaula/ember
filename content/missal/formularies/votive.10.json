@@ -559,7 +559,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -572,7 +572,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -598,7 +598,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -611,7 +611,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -624,7 +624,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -637,7 +637,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1879,8 +1879,8 @@
  ],
  "title": {
   "la": "9. DE SPIRITU SANCTO",
-  "pt-BR": "9. ESPÍRITO SANTO",
-  "en-US": "9. HOLY SPIRIT",
+  "pt-BR": "9. Espírito Santo",
+  "en-US": "9. Holy Spirit",
   "es": "9. DEL ESPÍRITU SANTO",
   "it": "9. SPIRITO SANTO",
   "fr": "9. SAINT-ESPRIT",

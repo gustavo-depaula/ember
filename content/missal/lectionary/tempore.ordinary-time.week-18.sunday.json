@@ -590,7 +590,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 8-9.15-16.17-18 (: cf. 16)",
+      "cite": "Sl 144 (145), 8-9.15-16.17-18 (R.: cf. 16)",
       "role": "title"
      }
     ],
@@ -602,7 +602,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 144, 8-9. 15-16. 17-18 (: cf. 16)",
+      "cite": "Ps 144, 8-9. 15-16. 17-18 (R.: cf. 16)",
       "role": "title"
      }
     ],
@@ -650,7 +650,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 8-9. 15-16. 17-18 (R: 16)",
+      "cite": "Ps 145 (144), 8-9. 15-16. 17-18 (R.: 16)",
       "role": "title"
      }
     ]
@@ -1530,7 +1530,7 @@
         "Leitura da Carta de São Paulo aos Romanos"
        ]
       ],
-      "cite": "Rom 8, 35.37-39",
+      "cite": "Rm 8, 35.37-39",
       "role": "announcement"
      },
      {
@@ -3272,7 +3272,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 77, 3 et 4bc. 23-24. 25 et 54 (: 24b)",
+      "cite": "Ps 77, 3 et 4bc. 23-24. 25 et 54 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -3284,7 +3284,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 77 (78), 3.4bc.23-24. 25 e 54 (: 24b)",
+      "cite": "Sl 77 (78), 3.4bc.23-24. 25 e 54 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -3296,7 +3296,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 77, 3 et 4bc. 23-24. 25 et 54 (: 24b)",
+      "cite": "Ps 77, 3 and 4bc. 23-24. 25 and 54 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -3308,7 +3308,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 77, 3 et 4bc. 23-24. 25 et 54 (: 24b)",
+      "cite": "Sal 77, 3 et 4bc. 23-24. 25 et 54 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -3332,7 +3332,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 77, 3 et 4bc. 23-24. 25 et 54 (: 24b)",
+      "cite": "Ps 77, 3 et 4bc. 23-24. 25 et 54 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -3344,7 +3344,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 78 (77), 3-4b. 23-24. 25 u. 54 (R: 24b)",
+      "cite": "Ps 78 (77), 3-4b. 23-24. 25 u. 54 (R.: 24b)",
       "role": "title"
      }
     ]
@@ -5600,7 +5600,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura do Livro do Eclesiastes ."
+        "Leitura do Livro do Eclesiastes."
        ]
       ],
       "cite": "1, 2; 2, 21-23",
@@ -5980,7 +5980,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -5992,7 +5992,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 89 (90), 3-4.5-6.12-13.14 e 17 (: 1)",
+      "cite": "Sl 89 (90), 3-4.5-6.12-13.14 e 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -6004,7 +6004,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 and 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -6016,7 +6016,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Sal 89, 3-4. 5-6. 12-13. 14 et 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -6040,7 +6040,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (: 1)",
+      "cite": "Ps 89, 3-4. 5-6. 12-13. 14 et 17 (R.: 1)",
       "role": "title"
      }
     ],
@@ -6052,7 +6052,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 90 (89), 3-4. 5-6. 12-13. 14 u. 17 (R: vgl. 1)",
+      "cite": "Ps 90 (89), 3-4. 5-6. 12-13. 14 u. 17 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -6681,7 +6681,7 @@
         "Senhor, voltai-vos! Até quando tardareis?"
        ],
        [
-        "Tende piedade e compaixão de vossos servos!."
+        "Tende piedade e compaixão de vossos servos!"
        ]
       ]
      }
@@ -8490,8 +8490,8 @@
  ],
  "title": {
   "la": "Tempus «per annum» — Domenica XVIII",
-  "pt-BR": "Tempo Comum — 18º Domingo do Tempo Comum",
-  "en-US": "Ordinary Time — 18th Week: Sunday",
+  "pt-BR": "18º Domingo do Tempo Comum",
+  "en-US": "Eighteenth Sunday in Ordinary Time",
   "es": "Tiempo ordinario — 18º Domingo",
   "it": "XVIII DOMENICA DEL TEMPO ORDINARIO",
   "fr": "Temps ordinaire — ème Dimanche XVIII",

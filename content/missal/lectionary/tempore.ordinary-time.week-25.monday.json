@@ -625,7 +625,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3a)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -637,7 +637,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (:3a)",
+      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -649,7 +649,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3a)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -661,7 +661,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 125, 1-2ab. 2cd-3. 4-5. 6 (: 3a)",
+      "cite": "Sal 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -685,7 +685,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3a)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -697,7 +697,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 3)",
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ]
@@ -2384,7 +2384,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: cf. 1b)",
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2396,7 +2396,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 14 (15), 2-3ab.3cd-4ab.5 (: cf. 1b)",
+      "cite": "Sl 14 (15), 2-3ab.3cd-4ab.5 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2408,7 +2408,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: cf. 1b)",
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2420,7 +2420,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 14, 2-3ab. 3cd-4ab. 5 (: cf. 1b)",
+      "cite": "Sal 14, 2-3ab. 3cd-4ab. 5 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2444,7 +2444,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: cf. 1b)",
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: cf. 1b)",
       "role": "title"
      }
     ],
@@ -2456,7 +2456,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 15 (14), 2-3. 4. 5 (R: 1b)",
+      "cite": "Ps 15 (14), 2-3. 4. 5 (R.: 1b)",
       "role": "title"
      }
     ]
@@ -4081,7 +4081,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. XXV",
   "pt-BR": "Segunda-feira da 25ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 25th Week: Monday",
+  "en-US": "Monday of the Twenty-Fifth Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 25ª semana",
   "it": "LUNEDI della XXV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 25e semaine",

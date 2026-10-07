@@ -667,7 +667,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 2a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -679,7 +679,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18 A (19 A), 2-3.4-5 (: 2a)",
+      "cite": "Sl 18 A (19 A), 2-3.4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -691,7 +691,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 2a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -703,7 +703,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 18, 2-3. 4-5 (: 2a)",
+      "cite": "Sal 18, 2-3. 4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -727,7 +727,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 2a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -739,7 +739,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18 A), 2-3. 4-5b (R: 2a)",
+      "cite": "Ps 19 (18 A), 2-3. 4-5b (R.: 2a)",
       "role": "title"
      }
     ]
@@ -1862,7 +1862,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 41. 43. 44. 45. 47. 48 (: 41a)",
+      "cite": "Ps 118, 41. 43. 44. 45. 47. 48 (R.: 41a)",
       "role": "title"
      }
     ],
@@ -1874,7 +1874,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 41 e 43.44-45.47-48 (: 41a)",
+      "cite": "Sl 118 (119), 41 e 43.44-45.47-48 (R.: 41a)",
       "role": "title"
      }
     ],
@@ -1886,7 +1886,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 41. 43. 44. 45. 47. 48 (: 41a)",
+      "cite": "Ps 118, 41. 43. 44. 45. 47. 48 (R.: 41a)",
       "role": "title"
      }
     ],
@@ -1898,7 +1898,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 41. 43. 44. 45. 47. 48 (: 41a)",
+      "cite": "Sal 118, 41. 43. 44. 45. 47. 48 (R.: 41a)",
       "role": "title"
      }
     ],
@@ -1922,7 +1922,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 41. 43. 44. 45. 47. 48 (: 41a)",
+      "cite": "Ps 118, 41. 43. 44. 45. 47. 48 (R.: 41a)",
       "role": "title"
      }
     ],
@@ -1934,7 +1934,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 41 u. 43. 44 u. 45. 47 u. 48 (R: 41a)",
+      "cite": "Ps 119 (118), 41 u. 43. 44 u. 45. 47 u. 48 (R.: 41a)",
       "role": "title"
      }
     ]
@@ -3286,7 +3286,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Hebr 4, 12",
+      "cite": "Hb 4, 12",
       "role": "title"
      },
      {
@@ -4040,7 +4040,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXVIII",
   "pt-BR": "Terça-feira da 28ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 28th Week: Tuesday",
+  "en-US": "Tuesday of the Twenty-Eighth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 28ª semana",
   "it": "MARTEDI della XXVIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 28e semaine",

@@ -580,7 +580,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 7c et 10b)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 7c et 10b)",
       "role": "title"
      }
     ],
@@ -592,7 +592,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 23 (24), 1-2.3-4ab.5-6 (R. 7c e 10b)",
+      "cite": "Sl 23 (24), 1-2.3-4ab.5-6 (R.: 7c e 10b)",
       "role": "title"
      }
     ],
@@ -604,7 +604,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 7c et 10b)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 7c and 10b)",
       "role": "title"
      }
     ],
@@ -616,7 +616,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 23, 1-2. 3-4ab. 5-6 (: cf. 7c et 10b)",
+      "cite": "Sal 23, 1-2. 3-4ab. 5-6 (R.: cf. 7c et 10b)",
       "role": "title"
      }
     ],
@@ -640,7 +640,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 7c et 10b)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 7c et 10b)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R: vgl. 7c. 10b)",
+      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R.: vgl. 7c. 10b)",
       "role": "title"
      }
     ]
@@ -2333,8 +2333,8 @@
  ],
  "title": {
   "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 20 decembris",
-  "pt-BR": "DIAS DE SEMANA DO ADVENTO — DE 17 a 24 DE DEZEMBRO — 20 de dezembro",
-  "en-US": "Weekdays of Advent — December 17 to December 24 — 20 December",
+  "pt-BR": "20 de dezembro",
+  "en-US": "December 20",
   "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 20 de diciembre",
   "it": "20 DICEMBRE",
   "fr": "20 décembre",

@@ -98,25 +98,6 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.csmv1f11"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
@@ -125,7 +106,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (: 49)",
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
     ],
@@ -149,7 +130,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Lk 1, 46-47. 48-49. 50-51. 52-53. 54-55 (: 49)",
+      "cite": "Lk 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
     ],
@@ -173,7 +154,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (: 49)",
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
     ],
@@ -185,7 +166,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Lk 1, 46b-48. 49-50. 51 u. 53. 54-55 (R: 49)",
+      "cite": "Lk 1, 46b-48. 49-50. 51 u. 53. 54-55 (R.: 49)",
       "role": "title"
      }
     ]
@@ -1394,30 +1375,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.blessed-virgin-mary.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1458,7 +1423,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1496,7 +1465,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Lk 11:28",
       "role": "title"
      },
@@ -1518,7 +1491,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1556,7 +1533,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1594,7 +1575,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1632,7 +1617,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Lk 11, 28",
       "role": "title"
      },
@@ -2296,7 +2285,7 @@
  ],
  "title": {
   "la": "Beatæ Maríæ Virginis de Monte Carmelo",
-  "pt-BR": "Nossa Senhora do Carmo",
+  "pt-BR": "Bem-Aventurada Virgem Maria do Monte Carmelo",
   "en-US": "Our Lady of Mount Carmel",
   "es": "Nuestra Señora del Carmen",
   "it": "B. V. Maria Del Monte Carmelo",

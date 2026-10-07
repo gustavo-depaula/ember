@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -88,6 +79,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A jovem solteira tem zelo pelas coisas do Senhor."
        ]
       ],
@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: a respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas, como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: Penso que, em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. Estás ligado a uma mulher? Não procures desligar-te.Não estás ligado a nenhuma mulher? Nãoprocures ligar-te. Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas as pessoas casadas terão as tribulações da vida matrimonial: e eu gostaria de poupar-vos isso. Eu digo, irmãos: o tempo está abreviado. Então que, doravante, os que têm mulher vivam como se não tivessem mulher; e os que choram, como se não chorassem, e os que estão alegres, como se não estivessem alegres; e os que fazem compras, como se não possuíssem coisa alguma; e os que usam do mundo, como se dele não estivessem gozando. Pois a figura deste mundo passa. Eu gostaria que estivésseis livres de preocupações. O homem não casado é solícito pelas coisas do Senhor e procura agradar ao Senhor. O casado preocupa-se com as coisas do mundo e procura agradar à sua mulher e, assim, está dividido. Do mesmo modo, a mulher não-casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar ao seu marido. Digo isto para o vosso próprio bem e não para vos armar um laço. O que eu desejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações."
+        "Irmãos: a respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas, como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: Penso que, em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Nãoprocures ligar-te. Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas as pessoas casadas terão as tribulações da vida matrimonial: e eu gostaria de poupar-vos isso. Eu digo, irmãos: o tempo está abreviado. Então que, doravante, os que têm mulher vivam como se não tivessem mulher; e os que choram, como se não chorassem, e os que estão alegres, como se não estivessem alegres; e os que fazem compras, como se não possuíssem coisa alguma; e os que usam do mundo, como se dele não estivessem gozando. Pois a figura deste mundo passa. Eu gostaria que estivésseis livres de preocupações. O homem não casado é solícito pelas coisas do Senhor e procura agradar ao Senhor. O casado preocupa-se com as coisas do mundo e procura agradar à sua mulher e, assim, está dividido. Do mesmo modo, a mulher não-casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar ao seu marido. Digo isto para o vosso próprio bem e não para vos armar um laço. O que eu desejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações."
        ]
       ]
      },
@@ -122,6 +122,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -150,6 +159,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -213,6 +231,15 @@
       "k": "p",
       "lines": [
        [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "La vergine si preoccupa delle cose del Signore."
        ]
       ],
@@ -266,6 +293,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Première lettre de saint Paul Apôtre aux Corinthiens"
        ]
       ],
@@ -299,6 +335,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

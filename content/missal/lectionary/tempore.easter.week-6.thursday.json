@@ -595,7 +595,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 97 (98), 1.2-3ab.3cd-4 (R. cf. 2b)",
+      "cite": "Sl 97 (98), 1.2-3ab.3cd-4 (R.: cf. 2b)",
       "role": "title"
      }
     ],
@@ -618,7 +618,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 97, 1-2ab. 2cd-3ab. 3cd-4 (R/.: cf. 2d)",
+      "cite": "Sal 97, 1-2ab. 2cd-3ab. 3cd-4 (R.: cf. 2d)",
       "role": "title"
      }
     ],
@@ -654,7 +654,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 98 (97), 1. 2-3b. 3c-4 (R: vgl. 2)",
+      "cite": "Ps 98 (97), 1. 2-3b. 3c-4 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -679,7 +679,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -700,7 +700,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -721,7 +721,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -784,7 +784,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -971,7 +971,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -992,7 +992,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1013,7 +1013,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1076,7 +1076,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1263,7 +1263,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1284,7 +1284,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1305,7 +1305,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1368,7 +1368,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1555,7 +1555,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1576,7 +1576,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1597,7 +1597,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1660,7 +1660,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1736,7 +1736,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Não vos deixarei órfãos:eu irei, mas voltarei, e o vosso coração muito há de se alegrar."
+        "Não vos deixarei órfãos: eu irei, mas voltarei, e o vosso coração muito há de se alegrar."
        ],
        [
         "Aleluia."
@@ -2521,8 +2521,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VI — Feria V",
-  "pt-BR": "Tempo da Páscoa — 6ª Semana — Quinta-feira",
-  "en-US": "Easter Season — Sixth Week — Thursday",
+  "pt-BR": "Quinta-feira da 6ª Semana da Páscoa",
+  "en-US": "Thursday of the Sixth Week of Easter",
   "es": "Tiempo de Pascua — Semana VI — Jueves",
   "it": "GIOVEDI della VI settimana di Pasqua",
   "fr": "Temps pascal — 6e semaine — Jeudi",

@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "12"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -51,6 +42,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Como foste fiel na administração de tão pouco, vem participar de minha alegria!"
        ]
       ],
@@ -76,6 +76,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -88,6 +97,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -117,6 +135,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sei stato fedele nel poco, prendi parte alla gioia del tuo padrone."
        ]
       ],
@@ -142,6 +169,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -154,6 +190,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -377,7 +422,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus spoke this parable to his disciples: A man on his way abroad summoned his servants and entrusted his property to them. To one he gave five talents, to another two, to a third one; each in proportion to his ability. Then he set out. The man who had received the five talents promptly went and traded with them and made five more. The man who had received two made two more in the same way. But the man who had received one went off and dug a hole in the ground and hid his master's money. Now a long time after, the master of those servants came back and went through his accounts with them. The man who had received the five talents came forward bringing five more. \"Sir,\" he said \"you entrusted me with five talents; here are five more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Next the man with the two talents came forward. \"Sir,\" he said \"you entrusted me with two talents; here are two more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Last came forward the man who had the one talent. \"Sir,\" said he \"I had heard you were a hard man, reaping where you have not sown and gathering where you have not scattered; so I was afraid, and I went off and hid your talent in the ground. Here it is; it was yours, you have it back.\" But his master answered him, \"You wicked and lazy servant! So you knew that I reap where I have not sown and gather where I have not scattered? Well then, you should have deposited my money with the bankers, and on my return I would have recovered my capital with interest. So now, take the talent from him and give it to the man who has the five talents. For to everyone who has will be given more, and he will have more than enough; but from the man who has not, even what he has will be taken away. As for this good-for-nothing servant, throw him out into the dark, where there will be weeping and grinding of teeth.\""
+        "Jesus spoke this parable to his disciples: A man on his way abroad summoned his servants and entrusted his property to them. To one he gave five talents, to another two, to a third one; each in proportion to his ability. Then he set out. The man who had received the five talents promptly went and traded with them and made five more. The man who had received two made two more in the same way. But the man who had received one went off and dug a hole in the ground and hid his master's money. Now a long time after, the master of those servants came back and went through his accounts with them. The man who had received the five talents came forward bringing five more. \"Sir, \" he said \"you entrusted me with five talents; here are five more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Next the man with the two talents came forward. \"Sir, \" he said \"you entrusted me with two talents; here are two more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Last came forward the man who had the one talent. \"Sir, \" said he \"I had heard you were a hard man, reaping where you have not sown and gathering where you have not scattered; so I was afraid, and I went off and hid your talent in the ground. Here it is; it was yours, you have it back.\" But his master answered him, \"You wicked and lazy servant! So you knew that I reap where I have not sown and gather where I have not scattered? Well then, you should have deposited my money with the bankers, and on my return I would have recovered my capital with interest. So now, take the talent from him and give it to the man who has the five talents. For to everyone who has will be given more, and he will have more than enough; but from the man who has not, even what he has will be taken away. As for this good-for-nothing servant, throw him out into the dark, where there will be weeping and grinding of teeth.\""
        ]
       ]
      },
@@ -574,6 +619,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Super pauca fuisti fidelis, intra in gaudium domini tui."
        ]
       ],
@@ -595,6 +649,15 @@
      }
     ],
     "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -624,6 +687,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -636,6 +708,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -665,6 +746,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sei stato fedele nel poco, prendi parte alla gioia del tuo padrone."
        ]
       ],
@@ -690,6 +780,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -702,6 +801,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -909,7 +1017,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus spoke this parable to his disciples: A man on his way abroad summoned his servants and entrusted his property to them. To one he gave five talents, to another two, to a third one; each in proportion to his ability. Then he set out. The man who had received the five talents promptly went and traded with them and made five more. The man who had received two made two more in the same way. But the man who had received one went off and dug a hole in the ground and hid his master's money. Now a long time after, the master of those servants came back and went through his accounts with them. The man who had received the five talents came forward bringing five more. \"Sir,\" he said \"you entrusted me with five talents; here are five more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Next the man with the two talents came forward. \"Sir,\" he said \"you entrusted me with two talents; here are two more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\"."
+        "Jesus spoke this parable to his disciples: A man on his way abroad summoned his servants and entrusted his property to them. To one he gave five talents, to another two, to a third one; each in proportion to his ability. Then he set out. The man who had received the five talents promptly went and traded with them and made five more. The man who had received two made two more in the same way. But the man who had received one went off and dug a hole in the ground and hid his master's money. Now a long time after, the master of those servants came back and went through his accounts with them. The man who had received the five talents came forward bringing five more. \"Sir, \" he said \"you entrusted me with five talents; here are five more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Next the man with the two talents came forward. \"Sir, \" he said \"you entrusted me with two talents; here are two more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\"."
        ]
       ]
      },

@@ -626,7 +626,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -639,7 +639,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -665,7 +665,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -691,7 +691,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -704,7 +704,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1493,8 +1493,8 @@
  ],
  "title": {
   "la": "10. DE BEATA MARIA VIRGINE",
-  "pt-BR": "10. BEM-AVENTURADA VIRGEM MARIA",
-  "en-US": "10. THE BLESSED VIRGIN MARY",
+  "pt-BR": "10. Bem-Aventurada Virgem Maria",
+  "en-US": "10. The Blessed Virgin Mary",
   "es": "10. DE LA BIENAVENTURADA VIRGEN MARIA",
   "it": "10. DELLA BEATA VERGINE MARIA",
   "fr": "10. De la Bienheureuse Vierge Marie",

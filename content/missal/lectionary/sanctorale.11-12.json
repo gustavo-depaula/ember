@@ -154,81 +154,62 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cd2l5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.1"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 1, 1-2. 3. 4 e 6 (R.: 2a ou 39, 5a ou 91, 13-14)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 and 6 (R.: 2a or 39, 5a or 91, 13-14)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 1",
       "role": "title"
      }
@@ -236,16 +217,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: 2a oder vgl. Jer 17, 7 oder Ps 92 [91], 13-14)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R.: 2a oder vgl. Jer 17, 7 oder Ps 92 [91], 13-14)",
       "role": "title"
      }
     ]
@@ -1211,46 +1200,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "26"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.26"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1280,6 +1239,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Quero que estejam comigo onde eu estiver."
        ]
       ],
@@ -1305,6 +1273,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1317,6 +1294,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1346,6 +1332,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Padre, voglio che quelli che mi hai dato siano anch'essi con me dove sono io."
        ]
       ],
@@ -1371,6 +1366,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1383,6 +1387,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1823,7 +1836,7 @@
  "title": {
   "la": "S. Iosaphat, episcopi et martyris",
   "pt-BR": "São Josafá, bispo e mártir",
-  "en-US": "St. Josaphat, bishop and martyr",
+  "en-US": "Saint Josaphat, bishop and martyr",
   "es": "San Josafat, obispo y mártir",
   "it": "San Giosafat, vescovo e martire",
   "fr": "Saint Josaphat, évêque et martyr",

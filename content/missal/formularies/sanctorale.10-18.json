@@ -402,7 +402,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -423,7 +423,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -507,7 +507,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1354,8 +1354,8 @@
  ],
  "title": {
   "la": "S. LUCÆ, EVANGELISTÆ",
-  "pt-BR": "SÃO LUCAS, EVANGELISTA",
-  "en-US": "SAINT LUKE, EVANGELIST",
+  "pt-BR": "São Lucas, Evangelista",
+  "en-US": "Saint Luke, Evangelist",
   "es": "SAN LUCAS, EVANGELISTA",
   "it": "SAN LUCA, EVANGELISTA",
   "fr": "SAINT LUC, ÉVANGÉLISTE",

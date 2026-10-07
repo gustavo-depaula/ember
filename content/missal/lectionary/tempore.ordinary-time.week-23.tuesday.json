@@ -640,7 +640,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 1-2. 8-9. 10-11 (: 9a)",
+      "cite": "Ps 144, 1-2. 8-9. 10-11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 1-2.8-9.10-11(: 9a)",
+      "cite": "Sl 144 (145), 1-2.8-9.10-11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -664,7 +664,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 144, 1-2. 8-9. 10-11 (: 9a)",
+      "cite": "Ps 144, 1-2. 8-9. 10-11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -676,7 +676,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 1-2. 8-9. 10-11 (: 9a)",
+      "cite": "Sal 144, 1-2. 8-9. 10-11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -700,7 +700,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 1-2. 8-9. 10-11 (: 9a)",
+      "cite": "Ps 144, 1-2. 8-9. 10-11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -712,7 +712,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 1-2. 8-9. 10-11 (R: 9a)",
+      "cite": "Ps 145 (144), 1-2. 8-9. 10-11 (R.: 9a)",
       "role": "title"
      }
     ]
@@ -2105,7 +2105,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2117,7 +2117,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (: 4a)",
+      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2129,7 +2129,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a and 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2141,7 +2141,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2165,7 +2165,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2177,7 +2177,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R.: 4a)",
       "role": "title"
      }
     ]
@@ -3820,7 +3820,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXIII",
   "pt-BR": "Terça-feira da 23ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 23rd Week: Tuesday",
+  "en-US": "Tuesday of the Twenty-Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 23ª semana",
   "it": "MARTEDI della XXIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 23e semaine",

@@ -599,7 +599,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 2-3. 21-22. 25 et 27 (R/.: cf. 2a)",
+      "cite": "Ps 88, 2-3. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -611,7 +611,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 88 (89), 2-3.21-22.25.27 (R/.: cf. 2a)",
+      "cite": "Sl 88 (89), 2-3.21-22.25.27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -634,7 +634,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 88, 2-3. 21-22. 25 y 27 (R/.: cf. 2a)",
+      "cite": "Sal 88, 2-3. 21-22. 25 y 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -658,7 +658,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 2-3. 21-22. 25 et 27 (R/.: cf. 2a)",
+      "cite": "Ps 88, 2-3. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -670,7 +670,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 27 u. 29 (R: 2a)",
+      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 27 u. 29 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -695,7 +695,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -716,7 +716,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -793,7 +793,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -986,7 +986,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1007,7 +1007,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1091,7 +1091,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1278,7 +1278,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1299,7 +1299,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1383,7 +1383,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1570,7 +1570,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1591,7 +1591,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1675,7 +1675,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -2501,8 +2501,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada IV — Feria V",
-  "pt-BR": "Tempo da Páscoa — 4ª Semana — Quinta-feira",
-  "en-US": "Easter Season — Fourth Week — Thursday",
+  "pt-BR": "Quinta-feira da 4ª Semana da Páscoa",
+  "en-US": "Thursday of the Fourth Week of Easter",
   "es": "Tiempo de Pascua — Semana IV — Jueves",
   "it": "GIOVEDI della IV settimana di Pasqua",
   "fr": "Temps pascal — 4e semaine — Jeudi",

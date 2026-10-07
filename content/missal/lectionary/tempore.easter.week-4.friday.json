@@ -582,7 +582,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 2, 6-7. 8-9. 10-11 (R/.: 7)",
+      "cite": "Ps 2, 6-7. 8-9. 10-11 (R.: 7)",
       "role": "title"
      }
     ],
@@ -594,7 +594,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 2, 6-7.8-9.10-11 (R. 7)",
+      "cite": "Sl 2, 6-7.8-9.10-11 (R.: 7)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 2, 6-7. 8-9. 10-11 (R/.: 7)",
+      "cite": "Sal 2, 6-7. 8-9. 10-11 (R.: 7)",
       "role": "title"
      }
     ],
@@ -641,7 +641,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 2, 6-7. 8-9. 10-11 (R/.: 7)",
+      "cite": "Ps 2, 6-7. 8-9. 10-11 (R.: 7)",
       "role": "title"
      }
     ],
@@ -653,7 +653,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 2, 6-7. 8-9. 10-11 (R: 7bc)",
+      "cite": "Ps 2, 6-7. 8-9. 10-11 (R.: 7bc)",
       "role": "title"
      }
     ]
@@ -692,7 +692,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Tu és meu Filho: e eu hoje te gerei!."
+        "Tu és meu Filho: e eu hoje te gerei!"
        ],
        [
         {
@@ -720,7 +720,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -851,7 +851,7 @@
         "foi assim que me falou o Senhor Deus:"
        ],
        [
-        "\"Tu és meu Filho, e eu hoje te gerei!."
+        "\"Tu és meu Filho, e eu hoje te gerei!"
        ]
       ]
      }
@@ -999,7 +999,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Tu és meu Filho: e eu hoje te gerei!."
+        "Tu és meu Filho: e eu hoje te gerei!"
        ],
        [
         {
@@ -1027,7 +1027,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1297,7 +1297,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Tu és meu Filho: e eu hoje te gerei!."
+        "Tu és meu Filho: e eu hoje te gerei!"
        ],
        [
         {
@@ -1325,7 +1325,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1589,7 +1589,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Tu és meu Filho: e eu hoje te gerei!."
+        "Tu és meu Filho: e eu hoje te gerei!"
        ],
        [
         {
@@ -1617,7 +1617,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1743,7 +1743,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamção ao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Jo 14, 6",
@@ -1786,7 +1786,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2520,8 +2520,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada IV — Feria VI",
-  "pt-BR": "Tempo da Páscoa — 4ª Semana — Sexta-feira",
-  "en-US": "Easter Season — Fourth Week — Friday",
+  "pt-BR": "Sexta-feira da 4ª Semana da Páscoa",
+  "en-US": "Friday of the Fourth Week of Easter",
   "es": "Tiempo de Pascua — Semana IV — Viernes",
   "it": "VENERDI della IV settimana di Pasqua",
   "fr": "Temps pascal — 4e semaine — Vendredi",

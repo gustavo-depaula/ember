@@ -446,7 +446,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -460,7 +460,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -474,7 +474,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -488,7 +488,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -502,7 +502,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -516,7 +516,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -828,7 +828,7 @@
       "k": "p",
       "lines": [
        [
-        "Deus, qui de vivis et eléctis lapídibus ætérnum habitáculum tuæ prǽparas maiestáti, multíplica super Ecclésiam tuam grátiam, quam dedísti, ut fidélis tibi pópulus in cæléstis ædificatiónem Ierúsalem semper accréscat.Per Dóminum."
+        "Deus, qui de vivis et eléctis lapídibus ætérnum habitáculum tuæ prǽparas maiestáti, multíplica super Ecclésiam tuam grátiam, quam dedísti, ut fidélis tibi pópulus in cæléstis ædificatiónem Ierúsalem semper accréscat. Per Dóminum."
        ]
       ]
      }
@@ -983,7 +983,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -996,7 +996,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -1009,7 +1009,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1022,7 +1022,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -1035,7 +1035,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -1048,7 +1048,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -1061,7 +1061,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1078,7 +1078,7 @@
       "k": "p",
       "lines": [
        [
-        "Deus, qui pópulum tuum Ecclésiam vocáre dignátus es, da, ut plebs in nómine tuo congregátate tímeat, te díligat, te sequátur et ad cæléstia promíssa, te ducénte, pervéniat.Per Dóminum."
+        "Deus, qui pópulum tuum Ecclésiam vocáre dignátus es, da, ut plebs in nómine tuo congregátate tímeat, te díligat, te sequátur et ad cæléstia promíssa, te ducénte, pervéniat. Per Dóminum."
        ]
       ]
      }
@@ -2022,7 +2022,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -2041,7 +2041,7 @@
         "aleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -2100,7 +2100,7 @@
         "alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -2125,7 +2125,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -2163,7 +2163,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -2177,7 +2177,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -2191,11 +2191,11 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
-      "cite": "Cf. Mt 21, 13; Lc 11, 10"
+      "cite": "Cf. Mt 21, 13; Lk 11, 10"
      }
     ],
     "es": [
@@ -2205,7 +2205,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -2219,7 +2219,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -2233,7 +2233,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -2259,7 +2259,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -2278,7 +2278,7 @@
         "aleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -2289,7 +2289,7 @@
       "k": "p",
       "lines": [
        [
-        "My house shall be a house of prayer, says the Lord: in that hous , everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened ",
+        "My house shall be a house of prayer, says the Lord: in that hous, everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened ",
         {
          "m": "rubric",
          "t": "(E. T. "
@@ -2337,7 +2337,7 @@
         "Alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -2362,7 +2362,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -2581,8 +2581,8 @@
  ],
  "title": {
   "la": "COMMUNE DEDICATIONIS ECCLESIÆ",
-  "pt-BR": "COMUM DA DEDICAÇÃO DE UMA IGREJA",
-  "en-US": "COMMON OF THE DEDICATION OF A CHURCH",
+  "pt-BR": "Comum da Dedicação de Uma Igreja",
+  "en-US": "Common of the Dedication of a Church",
   "es": "COMÚN DE LA DEDICACIÓN DE UNA IGLESIA",
   "it": "COMUNE DELLA DEDICAZIONE DELLA CHIESA",
   "fr": "COMMUN DE LA DÉDICACE",

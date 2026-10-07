@@ -668,7 +668,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 7bc-8 (: 3)",
+      "cite": "Ps 129, 1-2. 3-4. 7bc-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -680,7 +680,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 129 (130), 1-2.3-4ab.5-6.7-8 (: 3)",
+      "cite": "Sl 129 (130), 1-2.3-4ab.5-6.7-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -692,7 +692,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 7bc-8 (: 3)",
+      "cite": "Ps 129, 1-2. 3-4. 7bc-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -704,7 +704,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 129, 1-2. 3-4. 7bc-8 (: 3)",
+      "cite": "Sal 129, 1-2. 3-4. 7bc-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -728,7 +728,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 7bc-8 (: 3)",
+      "cite": "Ps 129, 1-2. 3-4. 7bc-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -740,7 +740,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b. 6c u. 7a u. 8 (R: 3)",
+      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b. 6c u. 7a u. 8 (R.: 3)",
       "role": "title"
      }
     ]
@@ -1376,7 +1376,7 @@
       "k": "p",
       "lines": [
        [
-        "Let Israel count on the Lord.Because with the Lord there is mercy and fullness of redemption, Israel indeed he will redeem from all its iniquity."
+        "Let Israel count on the Lord. Because with the Lord there is mercy and fullness of redemption, Israel indeed he will redeem from all its iniquity."
        ]
       ]
      }
@@ -1729,7 +1729,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Lectura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -2125,7 +2125,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 138, 1-3. 13-14. 15 (: 24b)",
+      "cite": "Ps 138, 1-3. 13-14. 15 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2137,7 +2137,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 138 (139), 1-2 e 3b.13-14ab.14c-15 (: 24b)",
+      "cite": "Sl 138 (139), 1-2 e 3b.13-14ab.14c-15 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2149,7 +2149,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 138, 1-3. 13-14. 15 (: 24b)",
+      "cite": "Ps 138, 1-3. 13-14. 15 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2161,7 +2161,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 138, 1-3. 13-14. 15 (: 24b)",
+      "cite": "Sal 138, 1-3. 13-14. 15 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2185,7 +2185,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 138, 1-3. 13-14. 15 (: 24b)",
+      "cite": "Ps 138, 1-3. 13-14. 15 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2197,7 +2197,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 139 (138), 1-3. 13-14. 15-16b (R: vgl. 24b)",
+      "cite": "Ps 139 (138), 1-3. 13-14. 15-16b (R.: vgl. 24b)",
       "role": "title"
      }
     ]
@@ -3858,7 +3858,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXVII",
   "pt-BR": "Terça-feira da 27ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 27th Week: Tuesday",
+  "en-US": "Tuesday of the Twenty-Seventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 27ª semana",
   "it": "Martedì della XXVII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 27e semaine",

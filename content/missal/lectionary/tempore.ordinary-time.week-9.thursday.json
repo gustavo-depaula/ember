@@ -904,7 +904,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -916,7 +916,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 127 (128), 1-2.3.4-5 (: cf. 1a)",
+      "cite": "Sl 127 (128), 1-2.3.4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -928,7 +928,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -940,7 +940,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Sal 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -964,7 +964,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -976,7 +976,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R: vgl. 1a)",
+      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -2387,7 +2387,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (: 4a)",
+      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2399,7 +2399,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 24 (25), 4bc-5ab.8-9.10 e 14 (: 4a)",
+      "cite": "Sl 24 (25), 4bc-5ab.8-9.10 e 14 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2411,7 +2411,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (: 4a)",
+      "cite": "Ps 24, 4-5ab. 8-9. 10 and 14 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2423,7 +2423,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 24, 4-5ab. 8-9. 10 et 14 (: 4a)",
+      "cite": "Sal 24, 4-5ab. 8-9. 10 et 14 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2447,7 +2447,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (: 4a)",
+      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2459,7 +2459,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 25 (24), 4-5. 8-9. 10 u. 14 (R: 4)",
+      "cite": "Ps 25 (24), 4-5. 8-9. 10 u. 14 (R.: 4)",
       "role": "title"
      }
     ]
@@ -3322,7 +3322,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Cf. 2 Tim 1, 10",
+      "cite": "Cf. 2 Tm 1, 10",
       "role": "title"
      },
      {
@@ -4125,7 +4125,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. IX",
   "pt-BR": "Quinta-feira da 9ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 9th Week: Thursday",
+  "en-US": "Thursday of the Ninth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 9ª semana",
   "it": "GIOVEDI della IX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 9e semaine",

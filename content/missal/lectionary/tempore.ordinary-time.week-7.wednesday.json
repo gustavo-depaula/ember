@@ -723,7 +723,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 165. 168. 171. 172. 174. 175 (: 165a)",
+      "cite": "Ps 118, 165. 168. 171. 172. 174. 175 (R.: 165a)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 165 e 168.171 e 172.174 e 175 (: 165a)",
+      "cite": "Sl 118 (119), 165 e 168.171 e 172.174 e 175 (R.: 165a)",
       "role": "title"
      }
     ],
@@ -747,7 +747,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 165. 168. 171. 172. 174. 175 (: 165a)",
+      "cite": "Ps 118, 165. 168. 171. 172. 174. 175 (R.: 165a)",
       "role": "title"
      }
     ],
@@ -759,7 +759,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 165. 168. 171. 172. 174. 175 (: 165a)",
+      "cite": "Sal 118, 165. 168. 171. 172. 174. 175 (R.: 165a)",
       "role": "title"
      }
     ],
@@ -783,7 +783,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 165. 168. 171. 172. 174. 175 (: 165a)",
+      "cite": "Ps 118, 165. 168. 171. 172. 174. 175 (R.: 165a)",
       "role": "title"
      }
     ],
@@ -795,7 +795,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 165 u. 168. 171-172. 174-175 (R: vgl. 165a)",
+      "cite": "Ps 119 (118), 165 u. 168. 171-172. 174-175 (R.: vgl. 165a)",
       "role": "title"
      }
     ]
@@ -1853,7 +1853,7 @@
         "Possa eu viver e para sempre vos louvar;"
        ],
        [
-        "e que me ajudem, ó Senhor, vossos conselhos!."
+        "e que me ajudem, ó Senhor, vossos conselhos!"
        ]
       ]
      }
@@ -2538,7 +2538,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 48, 2-3. 6-7. 8-10. 11 (: Mt 5, 3)",
+      "cite": "Ps 48, 2-3. 6-7. 8-10. 11 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2550,7 +2550,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 48 (49), 2-3.6-7.8-10.11 (: Mt 5, 3)",
+      "cite": "Sl 48 (49), 2-3.6-7.8-10.11 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2562,7 +2562,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 48, 2-3. 6-7. 8-10. 11 (: Mt 5, 3)",
+      "cite": "Ps 48, 2-3. 6-7. 8-10. 11 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2574,7 +2574,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 48, 2-3. 6-7. 8-10. 11 (: Mt 5, 3)",
+      "cite": "Sal 48, 2-3. 6-7. 8-10. 11 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2598,7 +2598,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 48, 2-3. 6-7. 8-10. 11 (: Mt 5, 3)",
+      "cite": "Ps 48, 2-3. 6-7. 8-10. 11 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -2610,7 +2610,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 49 (48), 2-3. 6-7. 8-9. 11 u. 13a (R: Mt 5, 3)",
+      "cite": "Ps 49 (48), 2-3. 6-7. 8-9. 11 u. 13a (R.: Mt 5, 3)",
       "role": "title"
      }
     ]
@@ -2761,7 +2761,7 @@
         "poderosos e humildes, escutai-me,"
        ],
        [
-        "ricos e pobres, todos juntos, sede atentos!."
+        "ricos e pobres, todos juntos, sede atentos!"
        ]
       ]
      }
@@ -4493,7 +4493,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. VII",
   "pt-BR": "Quarta-feira da 7ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 7th Week: Wednesday",
+  "en-US": "Wednesday of the Seventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 7ª semana",
   "it": "MERCOLEDI della VII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 7e semaine",

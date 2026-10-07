@@ -769,7 +769,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 9, 2-3. 6 et 16. 8-9 (: 9a)",
+      "cite": "Ps 9, 2-3. 6 et 16. 8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -781,7 +781,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 9 A, 2-3.6 e 16.8-9 (: 9a)",
+      "cite": "Sl 9 A, 2-3.6 e 16.8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -793,7 +793,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 9, 2-3. 6 et 16. 8-9 (: 9a)",
+      "cite": "Ps 9, 2-3. 6 and 16. 8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -805,7 +805,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 9, 2-3. 6 et 16. 8-9 (: 9a)",
+      "cite": "Sal 9, 2-3. 6 et 16. 8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -829,7 +829,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 9, 2-3. 6 et 16. 8-9 (: 9a)",
+      "cite": "Ps 9, 2-3. 6 et 16. 8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -841,7 +841,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 9, 2-3. 6 u. 16. 8-9 (R: vgl. 9a)",
+      "cite": "Ps 9, 2-3. 6 u. 16. 8-9 (R.: vgl. 9a)",
       "role": "title"
      }
     ]
@@ -2214,7 +2214,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 110, 1-2. 3-4. 5-6 (: 5b)",
+      "cite": "Ps 110, 1-2. 3-4. 5-6 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2226,7 +2226,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 110 (111), 1-2.3-4.5-6 (: 5b)",
+      "cite": "Sl 110 (111), 1-2.3-4.5-6 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2238,7 +2238,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 110, 1-2. 3-4. 5-6 (: 5b)",
+      "cite": "Ps 110, 1-2. 3-4. 5-6 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2250,7 +2250,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 110, 1-2. 3-4. 5-6 (: 5b)",
+      "cite": "Sal 110, 1-2. 3-4. 5-6 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2274,7 +2274,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 110, 1-2. 3-4. 5-6 (: 5b)",
+      "cite": "Ps 110, 1-2. 3-4. 5-6 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2286,7 +2286,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 111 (110), 1-2. 3-4. 5-6 (R: Ps 105 [104], 7a. 8a)",
+      "cite": "Ps 111 (110), 1-2. 3-4. 5-6 (R.: Ps 105 [104], 7a. 8a)",
       "role": "title"
      }
     ]
@@ -3146,7 +3146,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Jn 12, 31b-32",
+      "cite": "Jo 12, 31b-32",
       "role": "title"
      },
      {
@@ -3969,7 +3969,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XXVII",
   "pt-BR": "Sexta-feira da 27ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 27th Week: Friday",
+  "en-US": "Friday of the Twenty-Seventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 27ª semana",
   "it": "Venerdì della XXVII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 27e semaine",

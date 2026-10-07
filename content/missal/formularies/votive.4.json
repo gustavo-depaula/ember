@@ -19,7 +19,7 @@
        [
         {
          "m": "rubric",
-         "t": "In hac Missa adhibetur color ruber. "
+         "t": "In hac Missa adhibetur color ruber."
         }
        ]
       ]
@@ -402,7 +402,7 @@
       "k": "p",
       "lines": [
        [
-        "Deus, qui Unigénitum tuum crucem subíre voluísti, ut salvum fáceret genus humánum, præsta, quǽsumus, ut, cuius mystérium in terra cognóvimus, eius redemptiónis prǽmia in cælo cónsequi mereámur.Per Dóminum."
+        "Deus, qui Unigénitum tuum crucem subíre voluísti, ut salvum fáceret genus humánum, præsta, quǽsumus, ut, cuius mystérium in terra cognóvimus, eius redemptiónis prǽmia in cælo cónsequi mereámur. Per Dóminum."
        ]
       ]
      }
@@ -718,7 +718,7 @@
        [
         {
          "m": "rubric",
-         "t": "De victoria crucis gloriosæ. "
+         "t": "De victoria crucis gloriosæ."
         }
        ]
       ]
@@ -1607,8 +1607,8 @@
  ],
  "title": {
   "la": "4. DE MYSTERIO SANCTÆ CRUCIS",
-  "pt-BR": "4. O MISTÉRIO DA SANTA CRUZ",
-  "en-US": "4. THE MYSTERY OF THE HOLY CROSS",
+  "pt-BR": "4. O Mistério da Santa Cruz",
+  "en-US": "4. The Mystery of the Holy Cross",
   "es": "4. DEL MISTERIO DE LA SANTA CRUZ",
   "it": "4. MISTERO DELLA SANTA CROCE",
   "fr": "4. MYSTÈRE DE LA CROIX DU CHRIST",

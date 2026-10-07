@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -51,6 +42,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Pai, em tuas mãos entrego o meu espírito"
        ]
       ],
@@ -72,6 +72,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -101,6 +110,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Padre, a tus manos encomiendo mi espíritu"
        ]
       ],
@@ -122,6 +140,15 @@
      }
     ],
     "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -151,6 +178,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -163,6 +199,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -359,7 +404,7 @@
       "k": "p",
       "lines": [
        [
-        "Era já quase meio-dia, quando as trevas cobriram toda a terra, até às três horas da tarde, porque o sol se tinha eclipsado. O véu do templo rasgou-se ao meio. E Jesus exclamou com voz forte: «Pai, em tuas mãos entrego o meu espírito». Dito isto, expirou. Havia um homem, bom e justo, chamado José, que era membro do Sinédrio. Foi ter com Pilatos e pediu-lhe o corpo de Jesus. E depois de o ter descido da cruz, envolveu-o num lençol e depositou-o num sepulcro escavado na rocha, onde ninguém ainda tinha sido sepultado. No primeiro dia da semana, ao romper da manhã, as mulheres que tinham vindo com Jesus da Galileia foram ao sepulcro, levando os perfumes que tinham preparado. Encontraram a pedra do sepulcro removida e ao entrarem não acharam o corpo do Senhor Jesus.Estando elas perplexas com o sucedido, apareceram-lhes dois homens com vestes resplandecentes.Ficaram amedrontadas e inclinaram o rosto para o chão, enquanto eles lhes diziam: «Porque buscais entre os mortos Aquele que está vivo? Não está aqui: ressuscitou»."
+        "Era já quase meio-dia, quando as trevas cobriram toda a terra, até às três horas da tarde, porque o sol se tinha eclipsado. O véu do templo rasgou-se ao meio. E Jesus exclamou com voz forte: «Pai, em tuas mãos entrego o meu espírito». Dito isto, expirou. Havia um homem, bom e justo, chamado José, que era membro do Sinédrio. Foi ter com Pilatos e pediu-lhe o corpo de Jesus. E depois de o ter descido da cruz, envolveu-o num lençol e depositou-o num sepulcro escavado na rocha, onde ninguém ainda tinha sido sepultado. No primeiro dia da semana, ao romper da manhã, as mulheres que tinham vindo com Jesus da Galileia foram ao sepulcro, levando os perfumes que tinham preparado. Encontraram a pedra do sepulcro removida e ao entrarem não acharam o corpo do Senhor Jesus. Estando elas perplexas com o sucedido, apareceram-lhes dois homens com vestes resplandecentes. Ficaram amedrontadas e inclinaram o rosto para o chão, enquanto eles lhes diziam: «Porque buscais entre os mortos Aquele que está vivo? Não está aqui: ressuscitou»."
        ]
       ]
      },
@@ -434,7 +479,7 @@
       "k": "p",
       "lines": [
        [
-        "Era verso mezzogiorno, quando il sole si eclissò e si fece buio su tutta la terra fino alle tre del pomeriggio. Il velo del tempio si squarciò nel mezzo. Gesù, gridando a gran voce, disse: «Padre, nelle tue mani consegno il mio spirito». Detto questo spirò. C'era un uomo di nome Giuseppe, membro del sinèdrio, persona buona e giusta. Si presentò a Pilato e chiese il corpo di Gesù. Lo calò dalla croce, lo avvolse in un lenzuolo e lo depose in una tomba scavata nella roccia, nella quale nessuno era stato ancora deposto. Il primo giorno dopo il sabato, di buon mattino, le donne si recarono alla tomba, portando con sé gli aromi che avevano preparato. Trovarono la pietra rotolata via dal sepolcro; ma, entrate, non trovarono il corpo del Signore Gesù. Mentre erano ancora incerte, ecco due uomini apparire vicino a loro in vesti sfolgoranti. Essendosi le donne im­paurite e avendo chinato il volto a terra, essi dissero loro: «Perché cercate tra i morti colui che è vivo? Non è qui, è risuscitato»."
+        "Era verso mezzogiorno, quando il sole si eclissò e si fece buio su tutta la terra fino alle tre del pomeriggio. Il velo del tempio si squarciò nel mezzo. Gesù, gridando a gran voce, disse: «Padre, nelle tue mani consegno il mio spirito». Detto questo spirò. C'era un uomo di nome Giuseppe, membro del sinèdrio, persona buona e giusta. Si presentò a Pilato e chiese il corpo di Gesù. Lo calò dalla croce, lo avvolse in un lenzuolo e lo depose in una tomba scavata nella roccia, nella quale nessuno era stato ancora deposto. Il primo giorno dopo il sabato, di buon mattino, le donne si recarono alla tomba, portando con sé gli aromi che avevano preparato. Trovarono la pietra rotolata via dal sepolcro; ma, entrate, non trovarono il corpo del Signore Gesù. Mentre erano ancora incerte, ecco due uomini apparire vicino a loro in vesti sfolgoranti. Essendosi le donne impaurite e avendo chinato il volto a terra, essi dissero loro: «Perché cercate tra i morti colui che è vivo? Non è qui, è risuscitato»."
        ]
       ]
      },
@@ -549,6 +594,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Pater, in manus tuas commendo spiritum meum."
        ]
       ],
@@ -570,6 +624,15 @@
      }
     ],
     "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -599,6 +662,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Father, into your hands I commend my spirit."
        ]
       ],
@@ -620,6 +692,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -649,6 +730,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -661,6 +751,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

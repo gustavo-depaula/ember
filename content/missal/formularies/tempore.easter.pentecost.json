@@ -327,7 +327,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -341,7 +341,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -355,7 +355,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -369,7 +369,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -383,7 +383,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -397,7 +397,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -411,7 +411,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -520,7 +520,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -541,7 +541,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -625,7 +625,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -917,7 +917,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -935,7 +935,7 @@
         "Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1000,7 +1000,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -2025,7 +2025,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -2034,7 +2034,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -2043,7 +2043,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -2310,7 +2310,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -2323,7 +2323,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -2336,7 +2336,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -2399,14 +2399,24 @@
        ],
        [
         "Ite, missa est, allelúia, allelúia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Deo grátias, allelúia, allelúia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2434,14 +2444,24 @@
        ],
        [
         "Ide em paz e o Senhor vos acompanhe, aleluia, aleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Graças a Deus, aleluia, aleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2476,14 +2496,24 @@
          "t": "Or:"
         },
         " Go in peace, alleluia, alleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Thanks be to God, alleluia, alleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2511,7 +2541,12 @@
        ],
        [
         "Podéis ir en paz, aleluya, aleluya."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2560,7 +2595,12 @@
        ],
        [
         "Portate a tutti la gioia del Signore risorto. Andate in pace. Alleluia, alleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2583,13 +2623,18 @@
        ],
        [
         "Allez, dans la paix du Christ, alléluia, alléluia !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Nous rendons grâce à Dieu, alléluia, alléluia !"
+        "Nous rendons grâce à Dieu, alléluia, alléluia !"
        ],
        [
         {
@@ -2612,8 +2657,8 @@
  ],
  "title": {
   "la": "DOMINICA PENTECOSTES",
-  "pt-BR": "DOMINGO DE PENTECOSTES",
-  "en-US": "PENTECOST SUNDAY",
+  "pt-BR": "Domingo de Pentecostes",
+  "en-US": "Pentecost Sunday",
   "es": "DOMINGO DE PENTECOSTÉS",
   "it": "DOMENICA — DI PENTECOSTE",
   "fr": "SOLENNITÉ DE LA PENTECÔTE",

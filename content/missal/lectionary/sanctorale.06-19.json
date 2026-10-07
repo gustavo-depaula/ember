@@ -98,25 +98,6 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css2l9"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
@@ -317,7 +298,7 @@
         "Não ando à procura de grandezas,"
        ],
        [
-        "nem tenho pretensões ambiciosas!."
+        "nem tenho pretensões ambiciosas!"
        ]
       ]
      }
@@ -786,30 +767,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -850,7 +815,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -888,7 +857,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 5:3",
       "role": "title"
      },
@@ -910,7 +883,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -951,7 +928,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -973,7 +954,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -1014,7 +999,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -1057,7 +1046,7 @@
  "title": {
   "la": "S. Romualdi, abbatis",
   "pt-BR": "São Romualdo, abade",
-  "en-US": "St. Romuald, abbot",
+  "en-US": "Saint Romuald, abbot",
   "es": "San Romualdo, abad",
   "it": "San Romualdo, abate",
   "fr": "Saint Romuald, abbé",

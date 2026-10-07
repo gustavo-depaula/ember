@@ -434,7 +434,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -455,7 +455,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -539,7 +539,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -820,7 +820,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -838,7 +838,7 @@
         "Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -903,7 +903,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1143,7 +1143,7 @@
        [
         {
          "m": "rubric",
-         "t": "De missione Præcursoris. "
+         "t": "De missione Præcursoris."
         }
        ]
       ]
@@ -1249,7 +1249,7 @@
        [
         {
          "m": "rubric",
-         "t": "A missão do Precursor "
+         "t": "A missão do Precursor"
         }
        ]
       ]
@@ -2152,8 +2152,8 @@
  ],
  "title": {
   "la": "IN NATIVITATE S. IOANNIS BAPTISTÆ",
-  "pt-BR": "NATIVIDADE DE SÃO JOÃO BATISTA",
-  "en-US": "THE NATIVITY OF SAINT JOHN THE BAPTIST",
+  "pt-BR": "Natividade de São João Batista",
+  "en-US": "The Nativity of Saint John the Baptist",
   "es": "NATIVIDAD DE SAN JUAN BAUTISTA",
   "it": "NATIVITA' DI SAN GIOVANNI BATTISTA",
   "fr": "NATIVITÉ DE SAINT JEAN BAPTISTE",

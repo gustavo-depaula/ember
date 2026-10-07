@@ -641,7 +641,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -653,7 +653,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 147, 12-13.14-15.19-20 (: 12a)",
+      "cite": "Sl 147, 12-13.14-15.19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -665,7 +665,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -677,7 +677,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Sal 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -701,7 +701,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -713,7 +713,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (R: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ]
@@ -2539,10 +2539,11 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 11 ianuarii — vel — feria sexta post Epiphaniam",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 11 — (or Friday after Epiphany)",
+  "en-US": "Friday after Epiphany",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 11 de enero — o bien — viernes después del domingo de Epifanía",
   "it": "11 gennaio",
   "fr": "Temps de Noël",
-  "de": "Wochentage der Weihnachtszeit — 11. Januar"
+  "de": "Wochentage der Weihnachtszeit — 11. Januar",
+  "pt-BR": "Sexta-feira depois da Epifania"
  }
 }

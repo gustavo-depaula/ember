@@ -640,7 +640,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 1, 1-2.3.4 e 6 (:39, 5a)",
+      "cite": "Sl 1, 1-2.3.4 e 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -664,7 +664,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 and 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -676,7 +676,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Sal 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -700,7 +700,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -712,7 +712,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: vgl. Jer 17, 7)",
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R.: vgl. Jer 17, 7)",
       "role": "title"
      }
     ]
@@ -1488,7 +1488,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "É feliz quem a Deus se confia!."
+        "É feliz quem a Deus se confia!"
        ]
       ]
      }
@@ -2114,7 +2114,7 @@
       "k": "p",
       "lines": [
        [
-        "Et ait: “Rogo ergo te, Pater, ut mittas eum in domum patris mei — ​hábeo enim quinque fratres — ​ut testétur illis, ne et ipsi véniant in locum hunc tormentórum”."
+        "Et ait: “Rogo ergo te, Pater, ut mittas eum in domum patris mei — hábeo enim quinque fratres — ut testétur illis, ne et ipsi véniant in locum hunc tormentórum”."
        ]
       ]
      },
@@ -2176,7 +2176,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus said to the Pharisees: 'There was a rich man who used to dress in purple and fine linen and feast magnificently every day. And at his gate there lay a poor man called Lazarus, covered with sores, who longed to fill himself with the scraps that fell from the rich man's table. Dogs even came and licked his sores. Now the poor man died and was carried away by the angels to the bosom of Abraham. The rich man also died and was buried. 'In his torment in Hades he looked up and saw Abraham a long way off with Lazarus in his bosom. So he cried out, \"Father Abraham, pity me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames\". \"My son,\" Abraham replied \"remember that during your life good things came your way, just as bad things came the way of Lazarus. Now he is being comforted here while you are in agony. But that is not all: between us and you a great gulf has been fixed, to stop anyone, if he wanted to, crossing from our side to yours, and to stop any crossing from your side to ours.\" 'The rich man replied, \"Father, I beg you then to send Lazarus to my father's house, since I have five brothers, to give them warning so that they do not come to this place of torment too\". \"They have Moses and the prophets,\" said Abraham \"let them listen to them.\". \"Ah no, father Abraham,\" said the rich man \"but if someone comes to them from the dead, they will repent.\" Then Abraham said to him, \"If they will not listen either to Moses or to the prophets, they will not be convinced even if someone should rise from the dead\".'"
+        "Jesus said to the Pharisees: 'There was a rich man who used to dress in purple and fine linen and feast magnificently every day. And at his gate there lay a poor man called Lazarus, covered with sores, who longed to fill himself with the scraps that fell from the rich man's table. Dogs even came and licked his sores. Now the poor man died and was carried away by the angels to the bosom of Abraham. The rich man also died and was buried. 'In his torment in Hades he looked up and saw Abraham a long way off with Lazarus in his bosom. So he cried out, \"Father Abraham, pity me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames\". \"My son, \" Abraham replied \"remember that during your life good things came your way, just as bad things came the way of Lazarus. Now he is being comforted here while you are in agony. But that is not all: between us and you a great gulf has been fixed, to stop anyone, if he wanted to, crossing from our side to yours, and to stop any crossing from your side to ours.\" 'The rich man replied, \"Father, I beg you then to send Lazarus to my father's house, since I have five brothers, to give them warning so that they do not come to this place of torment too\". \"They have Moses and the prophets, \" said Abraham \"let them listen to them.\". \"Ah no, father Abraham, \" said the rich man \"but if someone comes to them from the dead, they will repent.\" Then Abraham said to him, \"If they will not listen either to Moses or to the prophets, they will not be convinced even if someone should rise from the dead\".'"
        ]
       ]
      },
@@ -2458,8 +2458,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada II — Feria quinta",
-  "pt-BR": "Tempo da Quaresma — Quinta-feira da 2ª Semana da Quaresma",
-  "en-US": "Season of Lent — 2nd Week: Thursday",
+  "pt-BR": "Quinta-feira da 2ª Semana da Quaresma",
+  "en-US": "Thursday of the Second Week of Lent",
   "es": "Tiempo de Cuaresma — Jueves de la II Semana",
   "it": "GIOVEDI DELLA II SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 2e semaine — Jeudi",

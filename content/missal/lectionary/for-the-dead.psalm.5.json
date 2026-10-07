@@ -3,44 +3,38 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      ],
+      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 62, 2. 3-4. 5-6. 8-9 (R.: 2b)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 62, 2. 3-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
       "cite": "Ps 62, 2. 3-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
@@ -48,7 +42,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 62, 2. 3-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 62",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 63 (62), 2. 3-4. 5-6. 8-9 (R: vgl. 2)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 63 (62), 2. 3-4. 5-6. 8-9 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -211,7 +221,7 @@
         "Desde a aurora ansioso vos busco! A minha alma tem sede de vós, minha carne também vos deseja,"
        ],
        [
-        "como terra sedenta e sem água!."
+        "como terra sedenta e sem água!"
        ]
       ]
      }
@@ -904,7 +914,7 @@
         "nas vigílias suspiro por vós! Para mim fostes sempre um socorro;"
        ],
        [
-        "de vossas asas à sombra eu exulto!."
+        "de vossas asas à sombra eu exulto!"
        ]
       ]
      }

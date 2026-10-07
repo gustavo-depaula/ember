@@ -654,7 +654,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (: cf. 2a)",
+      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -666,7 +666,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 88 (89), 2-3.4-5.27 e 29 (R. cf. 2a)",
+      "cite": "Sl 88 (89), 2-3.4-5.27 e 29 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -678,7 +678,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (: cf. 2a)",
+      "cite": "Ps 88, 2-3. 4-5. 27 and 29 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -690,7 +690,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 88, 2-3. 4-5. 27 et 29 (: cf. 2a)",
+      "cite": "Sal 88, 2-3. 4-5. 27 et 29 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -714,7 +714,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (: cf. 2a)",
+      "cite": "Ps 88, 2-3. 4-5. 27 et 29 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -726,7 +726,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 27 u. 29 (R: 2a)",
+      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 27 u. 29 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -1054,7 +1054,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ton amour, Seigneur, sans fin je le chante !"
+        "Ton amour, Seigneur, sans fin je le chante !"
        ]
       ]
      }
@@ -1235,7 +1235,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Ó Senhor, eu cantarei eternamente o vosso amor!."
+        "Ó Senhor, eu cantarei eternamente o vosso amor!"
        ]
       ]
      }
@@ -1291,7 +1291,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ton amour, Seigneur, sans fin je le chante !"
+        "Ton amour, Seigneur, sans fin je le chante !"
        ]
       ]
      }
@@ -1472,7 +1472,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Ó Senhor, eu cantarei eternamente o vosso amor!."
+        "Ó Senhor, eu cantarei eternamente o vosso amor!"
        ]
       ]
      }
@@ -1528,7 +1528,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ton amour, Seigneur, sans fin je le chante !"
+        "Ton amour, Seigneur, sans fin je le chante !"
        ]
       ]
      }
@@ -2475,8 +2475,8 @@
  ],
  "title": {
   "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 24 decembris",
-  "pt-BR": "DIAS DE SEMANA DO ADVENTO — DE 17 a 24 DE DEZEMBRO — 24 de dezembro",
-  "en-US": "Weekdays of Advent — December 17 to December 24 — 24 December",
+  "pt-BR": "24 de dezembro",
+  "en-US": "December 24",
   "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 24 de diciembre",
   "it": "24 Dicembre",
   "fr": "Temps de l'Avent — 17 décembre - 24 décembre — 24 décembre",

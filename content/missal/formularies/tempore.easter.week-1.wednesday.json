@@ -302,7 +302,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -323,7 +323,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -407,7 +407,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1262,8 +1262,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — FERIA IV — INFRA OCTAVAM PASCHÆ",
-  "pt-BR": "Tempo Pascal — QUARTA-FEIRA — NA OITAVA DA PÁSCOA",
-  "en-US": "Easter Season — WEDNESDAY WITHIN THE OCTAVE OF EASTER",
+  "pt-BR": "Quarta-feira na Oitava da Páscoa",
+  "en-US": "Wednesday within the Octave of Easter",
   "es": "Tiempo Pascual — MIÉRCOLES — DE LA OCTAVA DE PASCUA",
   "it": "OTTAVA DI PASQUA — Mercoledì — fra l'ottava di Pasqua",
   "fr": "Temps pascal — MERCREDI DE LA 1e SEMAINE",

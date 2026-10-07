@@ -701,7 +701,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 138, 1-3. 13-14ab. 14c-15 (: 14a)",
+      "cite": "Ps 138, 1-3. 13-14ab. 14c-15 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -713,7 +713,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 138 (139), 1-3.13-14ab.14c-15 (: 14a)",
+      "cite": "Sl 138 (139), 1-3.13-14ab.14c-15 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -725,7 +725,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 138, 1-3. 13-14ab. 14c-15 (: 14a)",
+      "cite": "Ps 138, 1-3. 13-14ab. 14c-15 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -761,7 +761,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 138, 1-3. 13-14ab. 14c-15 (: 14a)",
+      "cite": "Ps 138, 1-3. 13-14ab. 14c-15 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -773,7 +773,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 139 (138), 1-3. 13-14. 15-16 (R: vgl. 14a)",
+      "cite": "Ps 139 (138), 1-3. 13-14. 15-16 (R.: vgl. 14a)",
       "role": "title"
      }
     ]
@@ -2933,8 +2933,8 @@
  ],
  "title": {
   "la": "IN NATIVITATE S. IOANNIS BAPTISTÆ",
-  "pt-BR": "NATIVIDADE DE SÃO JOÃO BATISTA",
-  "en-US": "THE BIRTH OF JOHN THE BAPTIST",
+  "pt-BR": "Natividade de São João Batista",
+  "en-US": "The Nativity of Saint John the Baptist",
   "es": "NATIVIDAD DE SAN JUAN BAUTISTA",
   "it": "NATIVITÀ DI SAN GIOVANNI BATTISTA",
   "fr": "NATIVITÉ DE SAINT JEAN BAPTISTE",

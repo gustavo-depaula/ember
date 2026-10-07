@@ -594,7 +594,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -606,7 +606,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 23 (24), 1-2.3-4ab.5-6 (: cf. 6)",
+      "cite": "Sl 23 (24), 1-2.3-4ab.5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -618,7 +618,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -630,7 +630,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Sal 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -654,7 +654,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -666,7 +666,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R: vgl. 6)",
+      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R.: vgl. 6)",
       "role": "title"
      }
     ]
@@ -2055,7 +2055,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 131, 1-2. 3-5. 11. 12. 13-14 (: Lc 1, 32b)",
+      "cite": "Ps 131, 1-2. 3-5. 11. 12. 13-14 (R.: Lc 1, 32b)",
       "role": "title"
      }
     ],
@@ -2067,7 +2067,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 131 (132),1-2.3-5.11.12.13-14 (: Lc 1, 32b)",
+      "cite": "Sl 131 (132),1-2.3-5.11.12.13-14 (R.: Lc 1, 32b)",
       "role": "title"
      }
     ],
@@ -2079,7 +2079,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 131, 1-2. 3-5. 11. 12. 13-14 (: Lc 1, 32b)",
+      "cite": "Ps 131, 1-2. 3-5. 11. 12. 13-14 (R.: Lk 1, 32b)",
       "role": "title"
      }
     ],
@@ -2091,7 +2091,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 131, 1-2. 3-5. 11. 12. 13-14 (: Lc 1, 32b)",
+      "cite": "Sal 131, 1-2. 3-5. 11. 12. 13-14 (R.: Lc 1, 32b)",
       "role": "title"
      }
     ],
@@ -2115,7 +2115,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 131, 1-2. 3-5. 11. 12. 13-14 (: Lc 1, 32b)",
+      "cite": "Ps 131, 1-2. 3-5. 11. 12. 13-14 (R.: Lc 1, 32b)",
       "role": "title"
      }
     ],
@@ -2127,7 +2127,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 132 (131), 1-2. 3 u. 5. 11. 12. 13-14 (R: Lk 1, 32b)",
+      "cite": "Ps 132 (131), 1-2. 3 u. 5. 11. 12. 13-14 (R.: Lk 1, 32b)",
       "role": "title"
      }
     ]
@@ -3531,7 +3531,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Salmo 118 (119), 105",
+      "cite": "Sl 118 (119), 105",
       "role": "title"
      },
      {
@@ -4291,7 +4291,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. III",
   "pt-BR": "Quinta-feira da 3ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 3rd Week: Thursday",
+  "en-US": "Thursday of the Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 3ª semana",
   "it": "GIOVEDI della III settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 3e semaine",

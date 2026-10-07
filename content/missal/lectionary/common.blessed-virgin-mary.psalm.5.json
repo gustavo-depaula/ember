@@ -3,36 +3,26 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (: 49)",
+      ],
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
@@ -40,15 +30,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Lk 1, 46-47. 48-49. 50-51. 52-53. 54-55 (: 49)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Lk 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Da Lc 1, 46-55",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (: 49)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Lk 1, 46b-48. 49-50. 51 u. 53. 54-55 (R: 49)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Lk 1, 46b-48. 49-50. 51 u. 53. 54-55 (R.: 49)",
       "role": "title"
      }
     ]
@@ -165,7 +175,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -395,7 +405,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -652,7 +662,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -912,7 +922,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1166,7 +1176,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1246,7 +1256,7 @@
       "k": "p",
       "lines": [
        [
-        "Acolheu Israel, seu servidor, fiel ao seu amor,como havia prometido aos nossos pais, em favor de Abraão e de seus filhos, para sempre."
+        "Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos, para sempre."
        ]
       ]
      }
@@ -1420,7 +1430,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [

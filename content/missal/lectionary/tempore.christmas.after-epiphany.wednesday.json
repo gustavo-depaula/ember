@@ -627,7 +627,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 71, 1-2. 10-11. 12-13 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 10-11. 12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -639,7 +639,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 71 (72), 2.10-11.12-13(: cf. 11)",
+      "cite": "Sl 71 (72), 2.10-11.12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -651,7 +651,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 71, 1-2. 10-11. 12-13 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 10-11. 12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 71, 1-2. 10-11. 12-13 (: cf. 11)",
+      "cite": "Sal 71, 1-2. 10-11. 12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 71, 1-2. 10-11. 12-13 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 10-11. 12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 72 (71), 1-2. 10-11. 12-13 (R: 11)",
+      "cite": "Ps 72 (71), 1-2. 10-11. 12-13 (R.: 11)",
       "role": "title"
      }
     ]
@@ -1563,7 +1563,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Cf. 1 Tim 3, 16",
+      "cite": "Cf. 1 Tm 3, 16",
       "role": "title"
      },
      {
@@ -2363,10 +2363,11 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 9 ianuarii — vel — feria quarta post Epiphaniam",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 9 — (or Wednesday after Epiphany)",
+  "en-US": "Wednesday after Epiphany",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 9 de enero — o bien — miércoles después del domingo de Epifanía",
   "it": "9 gennaio",
   "fr": "Temps de Noël",
-  "de": "Wochentage der Weihnachtszeit — 9. Januar"
+  "de": "Wochentage der Weihnachtszeit — 9. Januar",
+  "pt-BR": "Quarta-feira depois da Epifania"
  }
 }

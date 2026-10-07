@@ -27,7 +27,7 @@
        [
         {
          "m": "rubric",
-         "t": "Si quis parvulus, quem parentes baptizari volebant, ante baptismum mortuus fuerit, Episcopus diœcesanus, adiunctis pastoralibus perpensis, permittere potest ut eius exsequiæ celebrentur in ipsa domo defuncti, aut etiam iuxta illum typum exsequiarum, qui de more pro ceteris in regione adhibetur.In huiusmodi exsequiis habeatur de more liturgia verbi, prouti in Rituali Romano describitur. Si tamen opportuna aliquando iudicatur Missæ celebratio, adhibeantur textus qui sequuntur.In catechesi autem advigilandum est, ne doctrina de necessitate baptismi in mentibus fidelium obscuretur."
+         "t": "Si quis parvulus, quem parentes baptizari volebant, ante baptismum mortuus fuerit, Episcopus diœcesanus, adiunctis pastoralibus perpensis, permittere potest ut eius exsequiæ celebrentur in ipsa domo defuncti, aut etiam iuxta illum typum exsequiarum, qui de more pro ceteris in regione adhibetur. In huiusmodi exsequiis habeatur de more liturgia verbi, prouti in Rituali Romano describitur. Si tamen opportuna aliquando iudicatur Missæ celebratio, adhibeantur textus qui sequuntur. In catechesi autem advigilandum est, ne doctrina de necessitate baptismi in mentibus fidelium obscuretur."
         }
        ]
       ]
@@ -637,7 +637,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -650,7 +650,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -663,7 +663,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -676,7 +676,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -689,7 +689,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -702,7 +702,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1460,8 +1460,8 @@
  ],
  "title": {
   "la": "I. IN EXSEQUIIS",
-  "pt-BR": "1. NAS EXÉQUIAS",
-  "en-US": "I. FOR THE FUNERAL",
+  "pt-BR": "1. Nas Exéquias",
+  "en-US": "I. For the Funeral",
   "es": "I. EN LAS EXEQUIAS DE LOS NIÑOS",
   "it": "F. NELLE ESEQUIE DI UN BAMBINO NON ANCORA BATTEZZATO",
   "fr": "I. MESSE DES FUNÉRAILLES",

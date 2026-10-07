@@ -648,7 +648,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (: 1a)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -660,7 +660,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 97 (98), 1.2-3ab.3cd-4.5-6 (: 1a)",
+      "cite": "Sl 97 (98), 1.2-3ab.3cd-4.5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -672,7 +672,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (: 1a)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -684,7 +684,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 97, 1. 2-3ab. 3cd-4. 5-6 (: 1a)",
+      "cite": "Sal 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -708,7 +708,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (: 1a)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -720,7 +720,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 98 (97), 1. 2-3b. 3c-4. 5-6 (R: 1ab)",
+      "cite": "Ps 98 (97), 1. 2-3b. 3c-4. 5-6 (R.: 1ab)",
       "role": "title"
      }
     ]
@@ -1370,7 +1370,7 @@
         "aclamai o Senhor Deus, ó terra inteira,"
        ],
        [
-        "alegrai-vos e exultai!."
+        "alegrai-vos e exultai!"
        ]
       ]
      }
@@ -1615,7 +1615,7 @@
         "Aclamai, com os clarins e as trombetas,"
        ],
        [
-        "ao Senhor, o nosso Rei!."
+        "ao Senhor, o nosso Rei!"
        ]
       ]
      }
@@ -1745,7 +1745,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Cantai ao Senhor Deus um canto novo, porque Ele fez prodígios!."
+        "Cantai ao Senhor Deus um canto novo, porque Ele fez prodígios!"
        ]
       ]
      }
@@ -2413,7 +2413,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 20. 21-22. 25-26 (: 25a)",
+      "cite": "Ps 88, 20. 21-22. 25-26 (R.: 25a)",
       "role": "title"
      }
     ],
@@ -2437,7 +2437,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 88, 20. 21-22. 25-26 (: 25a)",
+      "cite": "Ps 88, 20. 21-22. 25-26 (R.: 25a)",
       "role": "title"
      }
     ],
@@ -2449,7 +2449,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 88, 20. 21-22. 25-26 (: 25a)",
+      "cite": "Sal 88, 20. 21-22. 25-26 (R.: 25a)",
       "role": "title"
      }
     ],
@@ -2473,7 +2473,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 20. 21-22. 25-26 (: 25a)",
+      "cite": "Ps 88, 20. 21-22. 25-26 (R.: 25a)",
       "role": "title"
      }
     ],
@@ -2485,7 +2485,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 20-21. 22 u. 25. 26 u. 29 (R: 25a)",
+      "cite": "Ps 89 (88), 20-21. 22 u. 25. 26 u. 29 (R.: 25a)",
       "role": "title"
      }
     ]
@@ -3393,7 +3393,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Cf. 2 Tim 1, 10",
+      "cite": "Cf. 2 Tm 1, 10",
       "role": "title"
      },
      {
@@ -4176,7 +4176,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. III",
   "pt-BR": "Segunda-feira da 3ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 3rd Week: Monday",
+  "en-US": "Monday of the Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 3ª semana",
   "it": "LUNEDI della III settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 3e semaine",

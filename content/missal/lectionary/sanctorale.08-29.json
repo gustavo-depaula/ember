@@ -620,7 +620,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: 6b)",
+      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -632,7 +632,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 70, 1-2. 3-4a. 5-6ab. 15ab y 17 (R.: 6b)",
+      "cite": "Sl 70, 1-2. 3-4a. 5-6ab. 15ab e 17 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -644,7 +644,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: 6b)",
+      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab and 17 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -680,7 +680,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (: 6b)",
+      "cite": "Ps 70, 1-2. 3-4a. 5-6ab. 15ab et 17 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -692,7 +692,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 71 (70), 1-2. 3. 5-6. 15 u. 17 (R: 15a)",
+      "cite": "Ps 71 (70), 1-2. 3. 5-6. 15 u. 17 (R.: 15a)",
       "role": "title"
      }
     ]
@@ -1747,30 +1747,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.martyrs.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1811,7 +1795,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1849,7 +1837,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 5:10",
       "role": "title"
      },
@@ -1871,7 +1863,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1912,7 +1908,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 5, IO",
       "role": "title"
      },
@@ -1934,7 +1934,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1972,7 +1976,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Mt 5, 10",
       "role": "title"
      },
@@ -2751,7 +2759,7 @@
  ],
  "title": {
   "la": "In Passione S. Ioannis Baptistæ",
-  "pt-BR": "Martírio de São João Baptista",
+  "pt-BR": "Martírio de São João Batista",
   "en-US": "The Beheading of John the Baptist",
   "es": "El Martirio de san Juan Bautista",
   "it": "Martirio di San Giovanni Battista",

@@ -605,7 +605,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (: 8a)",
+      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 104 (105), 1-2.3-4.6-7.8-9 (: 8a)",
+      "cite": "Sl 104 (105), 1-2.3-4.6-7.8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -629,7 +629,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (: 8a)",
+      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -641,7 +641,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 104, 1-2. 3-4. 6-7. 8-9 (: 8a)",
+      "cite": "Sal 104, 1-2. 3-4. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -665,7 +665,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (: 8a)",
+      "cite": "Ps 104, 1-2. 3-4. 6-7. 8-9 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -677,7 +677,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 105 (104), 1-2. 3-4. 6-7. 8-9 (R: 7a. 8a)",
+      "cite": "Ps 105 (104), 1-2. 3-4. 6-7. 8-9 (R.: 7a. 8a)",
       "role": "title"
      }
     ]
@@ -1900,7 +1900,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Lectura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -2386,7 +2386,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 39, 2 et 5. 7-8a. 8b-9. 10. (: cf. 8a et 9a)",
+      "cite": "Ps 39, 2 et 5. 7-8a. 8b-9. 10. (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
@@ -2398,7 +2398,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 39 (40), 2 e 5.7-8a.8b-9.10-11 (: cf. 8a.9a)",
+      "cite": "Sl 39 (40), 2 e 5.7-8a.8b-9.10-11 (R.: cf. 8a.9a)",
       "role": "title"
      }
     ],
@@ -2410,7 +2410,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 39, 2 et 5. 7-8a. 8b-9. 10. (: cf. 8a et 9a)",
+      "cite": "Ps 39, 2 and 5. 7-8a. 8b-9. 10. (R.: cf. 8a and 9a)",
       "role": "title"
      }
     ],
@@ -2422,7 +2422,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 39, 2 et 5. 7-8a. 8b-9. 10. (: cf. 8a et 9a)",
+      "cite": "Sal 39, 2 et 5. 7-8a. 8b-9. 10. (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
@@ -2446,7 +2446,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 39, 2 et 5. 7-8a. 8b-9. 10. (: cf. 8a et 9a)",
+      "cite": "Ps 39, 2 et 5. 7-8a. 8b-9. 10. (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
@@ -2458,7 +2458,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: 8a. 9a)",
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R.: 8a. 9a)",
       "role": "title"
      }
     ]
@@ -4327,7 +4327,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. I",
   "pt-BR": "Quarta-feira da 1ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 1st Week: Wednesday",
+  "en-US": "Wednesday of the First Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 1ª semana",
   "it": "MERCOLEDI della I settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 1e semaine",

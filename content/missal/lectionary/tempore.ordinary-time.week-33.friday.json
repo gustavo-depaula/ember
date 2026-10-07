@@ -216,7 +216,7 @@
       "k": "p",
       "lines": [
        [
-        "Et ante lucem surrexérunt quinta et vicésima die mensis noni — ​hic est mensis Cásleu — ​centésimi quadragésimi octávi anni et obtulérunt sacrifícium secúndum legem super altáre holocaustórum novum, quod fecérunt; secúndum tempus et secúndum diem, in qua contaminavérunt illud gentes, in ipsa renovátum est in cánticis et cítharis et cínyris et cýmbalis."
+        "Et ante lucem surrexérunt quinta et vicésima die mensis noni — hic est mensis Cásleu — centésimi quadragésimi octávi anni et obtulérunt sacrifícium secúndum legem super altáre holocaustórum novum, quod fecérunt; secúndum tempus et secúndum diem, in qua contaminavérunt illud gentes, in ipsa renovátum est in cánticis et cítharis et cínyris et cýmbalis."
        ]
       ]
      },
@@ -659,7 +659,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (: 13b)",
+      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (R.: 13b)",
       "role": "title"
      }
     ],
@@ -671,7 +671,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (: 13b)",
+      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (R.: 13b)",
       "role": "title"
      }
     ],
@@ -683,7 +683,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (: 13b)",
+      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (R.: 13b)",
       "role": "title"
      }
     ],
@@ -695,7 +695,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (: 13b)",
+      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (R.: 13b)",
       "role": "title"
      }
     ],
@@ -719,7 +719,7 @@
         "Psaume"
        ]
       ],
-      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (: 13b)",
+      "cite": "1 Par 29, 10. 11abc. 11d-12a. 12bcd (R.: 13b)",
       "role": "title"
      }
     ],
@@ -731,7 +731,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "1 Chr 29, 10b-11a. 11b-12a. 12b-13 (R: vgl. 12a)",
+      "cite": "1 Chr 29, 10b-11a. 11b-12a. 12b-13 (R.: vgl. 12a)",
       "role": "title"
      }
     ]
@@ -2251,7 +2251,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (: 103a)",
+      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (R.: 103a)",
       "role": "title"
      }
     ],
@@ -2263,7 +2263,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 14.24.72.103.111.131 (: 103a)",
+      "cite": "Sl 118 (119), 14.24.72.103.111.131 (R.: 103a)",
       "role": "title"
      }
     ],
@@ -2275,7 +2275,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (: 103a)",
+      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (R.: 103a)",
       "role": "title"
      }
     ],
@@ -2287,7 +2287,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 14. 24. 72. 103. 111. 131 (: 103a)",
+      "cite": "Sal 118, 14. 24. 72. 103. 111. 131 (R.: 103a)",
       "role": "title"
      }
     ],
@@ -2311,7 +2311,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (: 103a)",
+      "cite": "Ps 118, 14. 24. 72. 103. 111. 131 (R.: 103a)",
       "role": "title"
      }
     ],
@@ -2323,7 +2323,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 14 u. 24. 72 u. 103. 111 u. 131 (R: vgl. 103a)",
+      "cite": "Ps 119 (118), 14 u. 24. 72 u. 103. 111 u. 131 (R.: vgl. 103a)",
       "role": "title"
      }
     ]
@@ -4435,7 +4435,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XXXIII",
   "pt-BR": "Sexta-feira da 33ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 33rd Week: Friday",
+  "en-US": "Friday of the Thirty-Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 33ª semana",
   "it": "VENERDI della XXXIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 33e semaine",

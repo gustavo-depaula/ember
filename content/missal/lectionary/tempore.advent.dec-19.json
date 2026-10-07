@@ -577,7 +577,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 70, 3-4a. 5-6ab. 16-17 (: cf. 8a)",
+      "cite": "Ps 70, 3-4a. 5-6ab. 16-17 (R.: cf. 8a)",
       "role": "title"
      }
     ],
@@ -589,7 +589,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 70 (71), 3-4a.5-6ab.16-17 (: cf. 8ab)",
+      "cite": "Sl 70 (71), 3-4a.5-6ab.16-17 (R.: cf. 8ab)",
       "role": "title"
      }
     ],
@@ -601,7 +601,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 70, 3-4a. 5-6ab. 16-17 (: cf. 8a)",
+      "cite": "Ps 70, 3-4a. 5-6ab. 16-17 (R.: cf. 8a)",
       "role": "title"
      }
     ],
@@ -613,7 +613,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 70, 3-4a. 5-6ab. 16-17 (: cf. 8a)",
+      "cite": "Sal 70, 3-4a. 5-6ab. 16-17 (R.: cf. 8a)",
       "role": "title"
      }
     ],
@@ -637,7 +637,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 70, 3-4a. 5-6ab. 16-17 (: cf. 8a)",
+      "cite": "Ps 70, 3-4a. 5-6ab. 16-17 (R.: cf. 8a)",
       "role": "title"
      }
     ],
@@ -649,7 +649,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 71 (70), 3ab u. 3d-4a. 5-6b. 16-17 (R: 8a)",
+      "cite": "Ps 71 (70), 3ab u. 3d-4a. 5-6b. 16-17 (R.: 8a)",
       "role": "title"
      }
     ]
@@ -2375,8 +2375,8 @@
  ],
  "title": {
   "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 19 decembris",
-  "pt-BR": "DIAS DE SEMANA DO ADVENTO — DE 17 a 24 DE DEZEMBRO — 19 de dezembro",
-  "en-US": "Weekdays of Advent — December 17 to December 24 — 19 December",
+  "pt-BR": "19 de dezembro",
+  "en-US": "December 19",
   "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 19 de diciembre",
   "it": "19 DICEMBRE",
   "fr": "Temps de l'Avent — 17 décembre - 24 décembre — 19 décembre",

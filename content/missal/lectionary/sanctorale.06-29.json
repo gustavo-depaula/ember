@@ -253,7 +253,7 @@
       "k": "p",
       "lines": [
        [
-        "Misit Heródes rex manus, ut afflígeret quosdam de Ecclésia. Occídit autem Iacóbum fratrem Ioánnis gládio. Videns autem quia placéret Iudæis, appósuit apprehéndere et Petrum — ​erant autem dies Azymórum — ​quem cum apprehendísset, misit in cárcerem tradens quáttuor quaterniónibus mílitum custodíre eum, volens post Pascha prodúcere eum pópulo. Et Petrus quidem servabátur in cárcere; orátio autem fiébat sine intermissióne ab Ecclésia ad Deum pro eo."
+        "Misit Heródes rex manus, ut afflígeret quosdam de Ecclésia. Occídit autem Iacóbum fratrem Ioánnis gládio. Videns autem quia placéret Iudæis, appósuit apprehéndere et Petrum — erant autem dies Azymórum — quem cum apprehendísset, misit in cárcerem tradens quáttuor quaterniónibus mílitum custodíre eum, volens post Pascha prodúcere eum pópulo. Et Petrus quidem servabátur in cárcere; orátio autem fiébat sine intermissióne ab Ecclésia ad Deum pro eo."
        ]
       ]
      },
@@ -741,6 +741,20 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -756,7 +770,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (: 5)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 5)",
       "role": "title"
      }
     ],
@@ -780,7 +794,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (: 5)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 5)",
       "role": "title"
      }
     ],
@@ -816,7 +830,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (: 5)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 5)",
       "role": "title"
      }
     ],
@@ -828,7 +842,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9 (R: vgl. 5b)",
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9 (R.: vgl. 5b)",
       "role": "title"
      }
     ]
@@ -3228,8 +3242,8 @@
  ],
  "title": {
   "la": "SS. PETRI ET PAULI, APOSTOLORUM",
-  "pt-BR": "SÃO PEDRO E SÃO PAULO, APÓSTOLOS",
-  "en-US": "SS. PETER AND PAUL, APOSTLES",
+  "pt-BR": "Santos Pedro e Paulo, Apóstolos",
+  "en-US": "Ss. Peter and Paul, Apostles",
   "es": "SAN PEDRO Y SAN PABLO, APÓSTOLES",
   "it": "SANTI PIETRO E PAOLO",
   "fr": "SAINTS PIERRE ET PAUL, APÔTRES",

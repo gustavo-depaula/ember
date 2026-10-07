@@ -313,7 +313,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -327,7 +327,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -341,7 +341,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -355,7 +355,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -369,7 +369,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -383,7 +383,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -397,7 +397,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -518,7 +518,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -539,7 +539,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -623,7 +623,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -933,10 +933,10 @@
          "m": "rubric",
          "t": "Dicitur "
         },
-        " Credo",
+        "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -951,10 +951,10 @@
          "m": "rubric",
          "t": "Diz-se o "
         },
-        " Creio",
+        "Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1022,10 +1022,10 @@
          "m": "rubric",
          "t": "Dicitur "
         },
-        " Credo",
+        "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1669,34 +1669,64 @@
        ],
        [
         "Benedícat vos omnípotens Deus, hodiérna interveniénte sollemnitáte pascháli, et ab omni miserátus deféndat incursióne peccáti."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Et qui ad ætérnam vitam in Unigéniti sui resurrectióne vos réparat, vos prǽmiis immortalitátis adímpleat."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Et qui, explétis passiónis domínicæ diébus, paschális festi gáudia celebrátis, ad ea festa, quæ lætítiis peragúntur ætérnis, ipso opitulánte, exsultántibus ánimis veniátis."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Benedícat vos omnípotens Deus, Pater, et Fílius, ",
         {
@@ -1704,7 +1734,12 @@
          "t": "✠"
         },
         " et Spíritus Sanctus."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1727,34 +1762,64 @@
        ],
        [
         "Deus todo-poderoso vos abençoe nesta solenidade pascal e vos proteja contra todo pecado."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amém."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Aquele que vos renova para a vida eterna, pela ressurreição do seu Filho, vos enriqueça com o dom da imortalidade."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amém."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "E vós que, transcorridos os dias da paixão do Senhor, celebrais com júbilo a festa da Páscoa, possais chegar, pela graça de Deus, com o coração exultante, à festa das alegrias eternas."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amém."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "E a bênção de Deus todo-poderoso, Pai e Filho ",
         {
@@ -1762,7 +1827,12 @@
          "t": "✠"
         },
         " e Espírito Santo, desça sobre vós e permaneça para sempre."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1788,24 +1858,44 @@
        ],
        [
         "defend you from every assault of sin."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "And may he, who restores you to eternal life in the Resurrection of his Only Begotten, endow you with the prize of immortality."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Now that the days of the Lord's Passion have drawn to a close, may you who celebrate the gladness of the Paschal Feast"
        ],
@@ -1814,14 +1904,24 @@
        ],
        [
         "to those feasts that are celebrated in eternal joy."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "And may the blessing of almighty God,"
        ],
@@ -1832,7 +1932,12 @@
          "t": "✠"
         },
         " and the Holy Spirit, come down on you and remain with you for ever."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1861,14 +1966,24 @@
        ],
        [
         "y, compasivo, os defienda de toda asechanza del pecado."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "El que os ha renovado para la vida eterna,"
        ],
@@ -1877,14 +1992,24 @@
        ],
        [
         "os colme con el premio de la inmortalidad."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Y quienes, terminados los días de la pasión del Señor,"
        ],
@@ -1896,14 +2021,24 @@
        ],
        [
         "a aquellas fiestas que se celebran con alegría eterna."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Y la bendición de Dios todopoderoso,"
        ],
@@ -1917,7 +2052,12 @@
        ],
        [
         "descienda sobre vosotros."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1940,34 +2080,64 @@
        ],
        [
         "In questo santo giorno di Pasqua, Dio onnipotente vi benedica e, nella sua misericordia, vi difenda da ogni insidia del peccato."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Dio che vi rinnova per la vita eterna, nella risurrezione del suo Figlio unigenito, vi conceda il premio dell'immortalità futura."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Voi, che dopo i giorni della passione del Signore celebrate nella gioia la festa di Pasqua, possiate giungere con animo esultante alla festa senza fine."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "E la benedizione di Dio onnipotente, Padre e Figlio ",
         {
@@ -1975,7 +2145,12 @@
          "t": "✠"
         },
         " e Spirito Santo, discenda su di voi e con voi rimanga sempre."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2004,14 +2179,24 @@
        ],
        [
         "et, dans sa bonté, qu'il vous protège des assauts du péché."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
-       ],
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Il vous régénère pour la vie éternelle"
        ],
@@ -2020,14 +2205,24 @@
        ],
        [
         "qu'il vous comble de la vie sans fin."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
-       ],
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Ils sont finis, les jours de la passion du Seigneur :"
        ],
@@ -2039,14 +2234,24 @@
        ],
        [
         "aux fêtes qui s'accomplissent dans la joie de l'éternité."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
-       ],
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Et que la bénédiction de Dieu tout-puissant,"
        ],
@@ -2060,13 +2265,18 @@
        ],
        [
         "descende sur vous et y demeure toujours."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -2083,34 +2293,64 @@
        ],
        [
         "An diesem Tag, der geheiligt ist durch die Auferstehung unseres Herrn Jesus Christus, segne euch der gütige Gott und bewahre euch vor der Finsternis der Sünde."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "In Christus haben wir Anteil am ewigen Leben; in ihm führe euch Gott zur unvergänglichen Herrlichkeit."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Unser Erlöser hat uns durch die Tage seines Leidens zur österlichen Freude geführt; er geleite euch alle Tage des Lebens bis zu jener Osterfreude, die niemals endet."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Das gewähre euch der dreieinige Gott, der Vater und der Sohn ",
         {
@@ -2118,7 +2358,12 @@
          "t": "✠"
         },
         " und der Heilige Geist."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2215,14 +2460,24 @@
          "t": "or:"
         },
         " Go in peace, alleluia, alleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Thanks be to God, alleluia, alleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2244,7 +2499,12 @@
        ],
        [
         "Podéis ir en paz, aleluya, aleluya."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2285,7 +2545,12 @@
        ],
        [
         "★ Portate a tutti la gioia del Signore risorto. Andate in pace. Alleluia, alleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2367,8 +2632,8 @@
  ],
  "title": {
   "la": "DOMINICA PASCHÆ IN RESURRECTIONE DOMINI",
-  "pt-BR": "DOMINGO DA PÁSCOA NA RESSURREIÇÃO DO SENHOR",
-  "en-US": "EASTER SUNDAY OF THE RESURRECTION OF THE LORD",
+  "pt-BR": "Domingo da Páscoa na Ressurreição do Senhor",
+  "en-US": "Easter Sunday of the Resurrection of the Lord",
   "es": "DOMINGO DE PASCUA DE LA RESURRECCIÓN DEL SEÑOR",
   "it": "DOMENICA DI PASQUA — RISURREZIONE DEL SIGNORE",
   "fr": "Temps pascal — DIMANCHE DE LA RÉSURRECTION",

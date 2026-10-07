@@ -658,7 +658,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4bc)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -670,7 +670,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 109 (110), 1.2.3.4 (: 4bc)",
+      "cite": "Sl 109 (110), 1.2.3.4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -682,7 +682,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4bc)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -694,7 +694,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 109, 1. 2. 3. 4 (: 4bc)",
+      "cite": "Sal 109, 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -718,7 +718,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4bc)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -730,7 +730,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 110 (109), 1-2. 3. 4-5 (R: 4b)",
+      "cite": "Ps 110 (109), 1-2. 3. 4-5 (R.: 4b)",
       "role": "title"
      }
     ]
@@ -869,7 +869,7 @@
         "\"Assenta-te ao lado meu direito"
        ],
        [
-        "até que eu ponha os inimigos teus como escabelo por debaixo de teus pés!."
+        "até que eu ponha os inimigos teus como escabelo por debaixo de teus pés!"
        ]
       ]
      }
@@ -2363,7 +2363,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 4-5. 27-28. 29-30 (: 29a)",
+      "cite": "Ps 88, 4-5. 27-28. 29-30 (R.: 29a)",
       "role": "title"
      }
     ],
@@ -2375,7 +2375,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 88 (89), 4-5.27-28.29-30 (: 29a)",
+      "cite": "Sl 88 (89), 4-5.27-28.29-30 (R.: 29a)",
       "role": "title"
      }
     ],
@@ -2387,7 +2387,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 88, 4-5. 27-28. 29-30 (: 29a)",
+      "cite": "Ps 88, 4-5. 27-28. 29-30 (R.: 29a)",
       "role": "title"
      }
     ],
@@ -2399,7 +2399,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 88, 4-5. 27-28. 29-30 (: 29a)",
+      "cite": "Sal 88, 4-5. 27-28. 29-30 (R.: 29a)",
       "role": "title"
      }
     ],
@@ -2423,7 +2423,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 4-5. 27-28. 29-30 (: 29a)",
+      "cite": "Ps 88, 4-5. 27-28. 29-30 (R.: 29a)",
       "role": "title"
      }
     ],
@@ -2435,7 +2435,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 4-5. 27-28. 29-30 (R: vgl. 29a)",
+      "cite": "Ps 89 (88), 4-5. 27-28. 29-30 (R.: vgl. 29a)",
       "role": "title"
      }
     ]
@@ -2583,7 +2583,7 @@
         "Para sempre, no teu trono, firmarei tua linhagem,"
        ],
        [
-        "de geração em geração garantirei o teu reinado!."
+        "de geração em geração garantirei o teu reinado!"
        ]
       ]
      }
@@ -4137,7 +4137,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. III",
   "pt-BR": "Quarta-feira da 3ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 3rd Week: Wednesday",
+  "en-US": "Wednesday of the Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 3ª semana",
   "it": "MERCOLEDI della III settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 3e semaine",

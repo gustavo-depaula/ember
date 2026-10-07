@@ -865,7 +865,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 134, 1-2. 3-4. 5-6 (: 3a)",
+      "cite": "Ps 134, 1-2. 3-4. 5-6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -877,7 +877,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 134 (135), 1-2.3-4.5-6 (: 3a))",
+      "cite": "Sl 134 (135), 1-2.3-4.5-6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -889,7 +889,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 134, 1-2. 3-4. 5-6 (: 3a)",
+      "cite": "Ps 134, 1-2. 3-4. 5-6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -901,7 +901,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 134, 1-2. 3-4. 5-6 (: 3a)",
+      "cite": "Sal 134, 1-2. 3-4. 5-6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -925,7 +925,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 134, 1-2. 3-4. 5-6 (: 3a)",
+      "cite": "Ps 134, 1-2. 3-4. 5-6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -937,7 +937,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 135 (134), 1-2. 3-4. 5-6 (R: 3a)",
+      "cite": "Ps 135 (134), 1-2. 3-4. 5-6 (R.: 3a)",
       "role": "title"
      }
     ]
@@ -1981,7 +1981,7 @@
       "k": "p",
       "lines": [
        [
-        "It is the Lord who speaks: 'That day I will re-erect the tottering hut of David, make good the gaps in it, restore its ruins and rebuild it as it was in the days of old, so that they can conquer the remnant of Edom and all the nations that belonged to me. It is the Lord who speaks, and he will carry this out. 'The days are coming now-it is the Lord who speaks-when harvest will follow directly after ploughing, the treading of grapes soon after sowing, when the mountains will run with new wine and the hills all flow with it. I mean to restore the fortunes of my people Israel ; they will rebuild the ruined cities and live in them, plant vineyards and drink their wine, dig gardens and eat their produce. I will plant them in their own country, never to be rooted up again out of the land I have given them, says the Lord, your God.'"
+        "It is the Lord who speaks: 'That day I will re-erect the tottering hut of David, make good the gaps in it, restore its ruins and rebuild it as it was in the days of old, so that they can conquer the remnant of Edom and all the nations that belonged to me. It is the Lord who speaks, and he will carry this out. 'The days are coming now-it is the Lord who speaks-when harvest will follow directly after ploughing, the treading of grapes soon after sowing, when the mountains will run with new wine and the hills all flow with it. I mean to restore the fortunes of my people Israel; they will rebuild the ruined cities and live in them, plant vineyards and drink their wine, dig gardens and eat their produce. I will plant them in their own country, never to be rooted up again out of the land I have given them, says the Lord, your God.'"
        ]
       ]
      },
@@ -2416,7 +2416,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 84, 9. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Ps 84, 9. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -2428,7 +2428,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 84 (85), 9.11-12.13-14 (: cf. 9a)",
+      "cite": "Sl 84 (85), 9.11-12.13-14 (R.: cf. 9a)",
       "role": "title"
      }
     ],
@@ -2440,7 +2440,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 84, 9. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Ps 84, 9. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -2452,7 +2452,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 84, 9. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Sal 84, 9. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -2476,7 +2476,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 84, 9. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Ps 84, 9. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -2488,7 +2488,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 85 (84), 9. 11-12. 13-14 (R: 9b)",
+      "cite": "Ps 85 (84), 9. 11-12. 13-14 (R.: 9b)",
       "role": "title"
      }
     ]
@@ -3339,7 +3339,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Jn 10, 27",
+      "cite": "Jo 10, 27",
       "role": "title"
      },
      {
@@ -4113,7 +4113,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XIII",
   "pt-BR": "Sábado da 13ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 13th Week: Saturday",
+  "en-US": "Saturday of the Thirteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 13ª semana",
   "it": "Sabato della XIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 13e semaine",

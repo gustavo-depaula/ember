@@ -728,7 +728,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -740,7 +740,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 23 (24), 1-2.3-4ab.5-6 (: cf. 6)",
+      "cite": "Sl 23 (24), 1-2.3-4ab.5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -752,7 +752,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -788,7 +788,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -800,7 +800,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R: vgl. 6)",
+      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R.: vgl. 6)",
       "role": "title"
      }
     ]
@@ -1303,7 +1303,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "É assim a geração dos que procuram o Senhor!."
+        "É assim a geração dos que procuram o Senhor!"
        ]
       ]
      }
@@ -1537,7 +1537,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "É assim a geração dos que procuram o Senhor!."
+        "É assim a geração dos que procuram o Senhor!"
        ]
       ]
      }
@@ -3082,8 +3082,8 @@
  ],
  "title": {
   "la": "OMNIUM SANCTORUM",
-  "pt-BR": "TODOS OS SANTOS",
-  "en-US": "ALL SAINTS",
+  "pt-BR": "Todos os Santos",
+  "en-US": "All Saints",
   "es": "TODOS LOS SANTOS",
   "it": "TUTTI I SANTI",
   "fr": "TOUS LES SAINTS",

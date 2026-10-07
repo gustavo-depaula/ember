@@ -681,7 +681,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8 et 10 (: 1a)",
+      "cite": "Ps 102, 1-2. 3-4. 8 et 10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -693,7 +693,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 1-2.3-4.8 e 10 (: 1a)",
+      "cite": "Sl 102 (103), 1-2.3-4.8 e 10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -705,7 +705,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8 et 10 (: 1a)",
+      "cite": "Ps 102, 1-2. 3-4. 8 and 10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -717,7 +717,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 102, 1-2. 3-4. 8 et 10 (: 1a)",
+      "cite": "Sal 102, 1-2. 3-4. 8 et 10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -741,7 +741,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8 et 10 (: 1a)",
+      "cite": "Ps 102, 1-2. 3-4. 8 et 10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -753,7 +753,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 1-2. 3-4. 8 u. 10 (R: 1a)",
+      "cite": "Ps 103 (102), 1-2. 3-4. 8 u. 10 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -2346,8 +2346,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada II — Feria quarta",
-  "pt-BR": "Quarta-feira",
-  "en-US": "Advent Season — 2nd Week: Wednesday",
+  "pt-BR": "Quarta-feira da 2ª Semana do Advento",
+  "en-US": "Wednesday of the Second Week of Advent",
   "es": "Tiempo de Adviento — Miércoles de la II Semana",
   "it": "MERCOLEDI della II settimana di Avvento",
   "fr": "Temps de l'Avent — 2e semaine — Mercredi",

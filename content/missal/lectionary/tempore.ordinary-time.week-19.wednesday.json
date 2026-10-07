@@ -675,7 +675,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 65, 1-3a. 5 et 16-17 (: cf. 20a et 9a)",
+      "cite": "Ps 65, 1-3a. 5 et 16-17 (R.: cf. 20a et 9a)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 65 (66) l-3a.5 e 9.16-17 (: cf. 20a e 9a)",
+      "cite": "Sl 65 (66) l-3a.5 e 9.16-17 (R.: cf. 20a e 9a)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 65, 1-3a. 5 et 16-17 (: cf. 20a et 9a)",
+      "cite": "Ps 65, 1-3a. 5 and 16-17 (R.: cf. 20a and 9a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 65, 1-3a. 5 et 16-17 (: cf. 20a et 9a)",
+      "cite": "Sal 65, 1-3a. 5 et 16-17 (R.: cf. 20a et 9a)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 65, 1-3a. 5 et 16-17 (: cf. 20a et 9a)",
+      "cite": "Ps 65, 1-3a. 5 et 16-17 (R.: cf. 20a et 9a)",
       "role": "title"
      }
     ],
@@ -747,7 +747,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 66 (65), 1-3a. 5 u. 16. 17 u. 20 (R: vgl. 20a. 9a)",
+      "cite": "Ps 66 (65), 1-3a. 5 u. 16. 17 u. 20 (R.: vgl. 20a. 9a)",
       "role": "title"
      }
     ]
@@ -2157,7 +2157,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 112, 1-2. 3-4. 5-6 (: 4b)",
+      "cite": "Ps 112, 1-2. 3-4. 5-6 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2169,7 +2169,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 112 (113), 1-2.3-4.5- 6 (: 4b)",
+      "cite": "Sl 112 (113), 1-2.3-4.5- 6 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2181,7 +2181,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 112, 1-2. 3-4. 5-6 (: 4b)",
+      "cite": "Ps 112, 1-2. 3-4. 5-6 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2193,7 +2193,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 112, 1-2. 3-4. 5-6 (: 4b)",
+      "cite": "Sal 112, 1-2. 3-4. 5-6 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2217,7 +2217,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 112, 1-2. 3-4. 5-6 (: 4b)",
+      "cite": "Ps 112, 1-2. 3-4. 5-6 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2229,7 +2229,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 113 (112), 1-2. 3-4. 5-6 (R: vgl. 4b)",
+      "cite": "Ps 113 (112), 1-2. 3-4. 5-6 (R.: vgl. 4b)",
       "role": "title"
      }
     ]
@@ -3868,7 +3868,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XIX",
   "pt-BR": "Quarta-feira da 19ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 19th Week: Wednesday",
+  "en-US": "Wednesday of the Nineteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 19ª semana",
   "it": "MERCOLEDI della XIX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 19e semaine",

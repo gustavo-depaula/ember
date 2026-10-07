@@ -38,9 +38,11 @@ describe('sanctoral cycle against the reference calendar', () => {
       const monthDay = iso.slice(5)
       const theirs = saints.filter(
         (id) =>
-          // The reference shows Opus Dei's propers to everyone and lists a vigil
-          // as a saint of its own; three of its entries point at nothing.
+          // The reference shows Opus Dei's propers to everyone, and one German
+          // proper (St Bruno of Querfurt); it lists a vigil as a saint of its
+          // own; three of its entries point at nothing.
           !id.startsWith('?') &&
+          id !== 'sanctorale.03-09.german-speaking' &&
           !id.endsWith('.vigil') &&
           !id.includes('opus-dei') &&
           !referenceWrongDate[monthDay]?.includes(id),

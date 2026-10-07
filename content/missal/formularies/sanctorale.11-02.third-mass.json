@@ -1233,7 +1233,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1246,7 +1246,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1259,7 +1259,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1305,7 +1305,7 @@
  ],
  "title": {
   "la": "IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM",
-  "pt-BR": "COMEMORAÇÃO DE TODOS OS FIÉIS DEFUNTOS",
+  "pt-BR": "Comemoração de Todos os Fiéis Defuntos",
   "en-US": "The Commemoration of All the Faithful Departed",
   "es": "CONMEMORACIÓN DE TODOS LOS FIELES DIFUNTOS",
   "it": "COMMEMORAZIONE DI TUTTI I FEDELI DEFUNTI",

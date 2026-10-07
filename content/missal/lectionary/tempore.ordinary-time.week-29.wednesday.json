@@ -642,7 +642,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 123, 1-3. 4-6. 7-8 (: 8a)",
+      "cite": "Ps 123, 1-3. 4-6. 7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -654,7 +654,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 123 (124), 1-3.4-6.7-8 (: 8a))",
+      "cite": "Sl 123 (124), 1-3.4-6.7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -666,7 +666,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 123, 1-3. 4-6. 7-8 (: 8a)",
+      "cite": "Ps 123, 1-3. 4-6. 7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -678,7 +678,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 123, 1-3. 4-6. 7-8 (: 8a)",
+      "cite": "Sal 123, 1-3. 4-6. 7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -702,7 +702,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 123, 1-3. 4-6. 7-8 (: 8a)",
+      "cite": "Ps 123, 1-3. 4-6. 7-8 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -714,7 +714,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 124 (123), 1-2. 3-4. 5-6. 7-8 (R: vgl. 8a)",
+      "cite": "Ps 124 (123), 1-2. 3-4. 5-6. 7-8 (R.: vgl. 8a)",
       "role": "title"
      }
     ]
@@ -1146,7 +1146,7 @@
         "Bendito seja o Senhor, que não deixou"
        ],
        [
-        "cairmos como presa de seus dentes!."
+        "cairmos como presa de seus dentes!"
        ]
       ]
      }
@@ -2183,7 +2183,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Is 12, 2-3. 4bcd. 5-6 (: 3)",
+      "cite": "Is 12, 2-3. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2195,7 +2195,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Is 12, 2-3.4bcd.5-6 (: 3)",
+      "cite": "Is 12, 2-3.4bcd.5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2207,7 +2207,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Is 12, 2-3. 4bcd. 5-6 (: 3)",
+      "cite": "Is 12, 2-3. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2219,7 +2219,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Is 12, 2-3. 4bcd. 5-6 (: 3)",
+      "cite": "Is 12, 2-3. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2243,7 +2243,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Is 12, 2-3. 4bcd. 5-6 (: 3)",
+      "cite": "Is 12, 2-3. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2255,7 +2255,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Jes 12, 2. 3 u. 4bcd. 5-6 (R: 3)",
+      "cite": "Jes 12, 2. 3 u. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ]
@@ -3924,7 +3924,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXIX",
   "pt-BR": "Quarta-feira da 29ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 29th Week: Wednesday",
+  "en-US": "Wednesday of the Twenty-Ninth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 29ª semana",
   "it": "MERCOLEDI della XXIX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 29e semaine",

@@ -730,7 +730,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 12. 16. 18. 27. 34. 35 (: 35a)",
+      "cite": "Ps 118, 12. 16. 18. 27. 34. 35 (R.: 35a)",
       "role": "title"
      }
     ],
@@ -742,7 +742,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 12 e 16.18 e 27.34 e 35 (: 35a)",
+      "cite": "Sl 118 (119), 12 e 16.18 e 27.34 e 35 (R.: 35a)",
       "role": "title"
      }
     ],
@@ -754,7 +754,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 12. 16. 18. 27. 34. 35 (: 35a)",
+      "cite": "Ps 118, 12. 16. 18. 27. 34. 35 (R.: 35a)",
       "role": "title"
      }
     ],
@@ -766,7 +766,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 12. 16. 18. 27. 34. 35 (: 35a)",
+      "cite": "Sal 118, 12. 16. 18. 27. 34. 35 (R.: 35a)",
       "role": "title"
      }
     ],
@@ -790,7 +790,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 12. 16. 18. 27. 34. 35 (: 35a)",
+      "cite": "Ps 118, 12. 16. 18. 27. 34. 35 (R.: 35a)",
       "role": "title"
      }
     ],
@@ -802,7 +802,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 12 u. 16. 18 u. 27. 34-35 (R: 35a)",
+      "cite": "Ps 119 (118), 12 u. 16. 18 u. 27. 34-35 (R.: 35a)",
       "role": "title"
      }
     ]
@@ -2547,7 +2547,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2559,7 +2559,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 1-2.3-4.8-9.11-12 (: 8a)",
+      "cite": "Sl 102 (103), 1-2.3-4.8-9.11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2571,7 +2571,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2583,7 +2583,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 102, 1-2. 3-4. 8-9. 11-12 (: 8a)",
+      "cite": "Sal 102, 1-2. 3-4. 8-9. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2607,7 +2607,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -2619,7 +2619,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 11-12 (R: vgl. 8a)",
+      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 11-12 (R.: vgl. 8a)",
       "role": "title"
      }
     ]
@@ -2776,7 +2776,7 @@
         "Bendize, ó minha alma, ao Senhor,"
        ],
        [
-        "não te esqueças de nenhum de seus favores!."
+        "não te esqueças de nenhum de seus favores!"
        ]
       ]
      }
@@ -3518,7 +3518,7 @@
       "k": "p",
       "lines": [
        [
-        "For as the heavens are high above the earth so strong is his love for those who fear him.As far as the east is from the west so far does he remove our sins."
+        "For as the heavens are high above the earth so strong is his love for those who fear him. As far as the east is from the west so far does he remove our sins."
        ]
       ]
      }
@@ -4583,7 +4583,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. VII",
   "pt-BR": "Sexta-feira da 7ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 7th Week: Friday",
+  "en-US": "Friday of the Seventh Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 7ª semana",
   "it": "VENERDI della VII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 7e semaine",

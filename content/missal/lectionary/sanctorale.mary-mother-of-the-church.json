@@ -171,7 +171,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 86, 1-2. 3 et 5. 6-7 (R/.: 3)",
+      "cite": "Ps 86, 1-2. 3 et 5. 6-7 (R.: 3)",
       "role": "title"
      }
     ],
@@ -183,7 +183,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 86, 1-2. 3 5. 6-7 (R/.:3)",
+      "cite": "Sl 86, 1-2. 3 5. 6-7 (R.: 3)",
       "role": "title"
      }
     ],
@@ -195,7 +195,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Sl 86, 1-2. 3 5. 6-7 (R/.:3)",
+      "cite": "Sl 86, 1-2. 3 5. 6-7 (R.: 3)",
       "role": "title"
      }
     ],
@@ -207,7 +207,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 86, 1-2. 3 y 5. 6-7 (R/.: S)",
+      "cite": "Sal 86, 1-2. 3 y 5. 6-7 (R.: S)",
       "role": "title"
      }
     ],
@@ -231,7 +231,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 86, 1-2. 3 et 5. 6-7 (R/.: 3)",
+      "cite": "Ps 86, 1-2. 3 et 5. 6-7 (R.: 3)",
       "role": "title"
      }
     ],
@@ -243,7 +243,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 86, 1-2. 3 5. 6-7 (R: 3)",
+      "cite": "Ps 86, 1-2. 3 5. 6-7 (R.: 3)",
       "role": "title"
      }
     ]
@@ -1310,7 +1310,7 @@
       "k": "p",
       "lines": [
        [
-        "Evangelio"
+        "Evangelho"
        ]
       ],
       "role": "title"
@@ -1965,7 +1965,7 @@
  "title": {
   "la": "Feria II post Pentecosten — Beatæ Mariæ Virginis, Ecclesiæ Matris",
   "pt-BR": "Bem-aventurada Virgem Maria, Mãe da Igreja",
-  "en-US": "Blessed Virgin Mary Mother of the Church",
+  "en-US": "Blessed Virgin Mary — Mother of the Church",
   "es": "Bienaventurada Virgen María, Madre de la Iglesia",
   "it": "Beata Vergine Maria Madre della Chiesa",
   "fr": "Lundi de Pentecôte — Bienheureuse Vierge Marie, Mère de l'Église",

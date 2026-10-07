@@ -605,7 +605,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4 (: 3cd)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 97 (98), 1.2-3ab.3cd-4. (: 3cd)",
+      "cite": "Sl 97 (98), 1.2-3ab.3cd-4. (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -629,7 +629,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4 (: 3cd)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -641,7 +641,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 97, 1. 2-3ab. 3cd-4 (: 3cd)",
+      "cite": "Sal 97, 1. 2-3ab. 3cd-4 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -665,7 +665,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4 (: 3cd)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -677,7 +677,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 98 (97), 1. 2-3b. 3c-4 (R: vgl. 3cd)",
+      "cite": "Ps 98 (97), 1. 2-3b. 3c-4 (R.: vgl. 3cd)",
       "role": "title"
      }
     ]
@@ -817,7 +817,7 @@
         "Cantai ao Senhor Deus um canto novo,"
        ],
        [
-        "porque ele fez prodígios!Sua mão e o seu braço forte e santo"
+        "porque ele fez prodígios! Sua mão e o seu braço forte e santo"
        ],
        [
         "alcançaram-lhe a vitória."
@@ -1520,7 +1520,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Hebr 1, 1-2",
+      "cite": "Hb 1, 1-2",
       "role": "title"
      },
      {
@@ -2432,8 +2432,8 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 2 ianuarii",
-  "pt-BR": "DIAS DE SEMANA DO TEMPO DO NATAL — 2 de janeiro",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 2",
+  "pt-BR": "2 de janeiro",
+  "en-US": "January 2",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 2 de enero",
   "it": "2 gennaio",
   "fr": "Temps de Noël",

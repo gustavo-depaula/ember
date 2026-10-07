@@ -731,7 +731,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 104, 1-2. 3-4. 6-7 (: cf. 68, 33)",
+      "cite": "Ps 104, 1-2. 3-4. 6-7 (R.: cf. 68, 33)",
       "role": "title"
      }
     ],
@@ -743,7 +743,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 104 (105), 1-2.3-4.6-7 (: cf. 68 (69), 33)",
+      "cite": "Sl 104 (105), 1-2.3-4.6-7 (R.: cf. 68 (69), 33)",
       "role": "title"
      }
     ],
@@ -755,7 +755,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 104, 1-2. 3-4. 6-7 (: cf. 68, 33)",
+      "cite": "Ps 104, 1-2. 3-4. 6-7 (R.: cf. 68, 33)",
       "role": "title"
      }
     ],
@@ -767,7 +767,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 104, 1-2. 3-4. 6-7 (: cf. 68, 33)",
+      "cite": "Sal 104, 1-2. 3-4. 6-7 (R.: cf. 68, 33)",
       "role": "title"
      }
     ],
@@ -791,7 +791,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 104, 1-2. 3-4. 6-7 (: cf. 68, 33)",
+      "cite": "Ps 104, 1-2. 3-4. 6-7 (R.: cf. 68, 33)",
       "role": "title"
      }
     ],
@@ -803,7 +803,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 105 (104), 1-2. 3-4. 6-7 (R: vgl. Ps 69 [68], 33)",
+      "cite": "Ps 105 (104), 1-2. 3-4. 6-7 (R.: vgl. Ps 69 [68], 33)",
       "role": "title"
      }
     ]
@@ -951,7 +951,7 @@
         "anunciai entre as nações seus grandes feitos! Cantai, entoai salmos para ele,"
        ],
        [
-        "publicai todas as suas maravilhas!."
+        "publicai todas as suas maravilhas!"
        ]
       ]
      }
@@ -1187,7 +1187,7 @@
         "exulte o coração que busca a Deus! Procurai o Senhor Deus e seu poder,"
        ],
        [
-        "buscai constantemente a sua face!."
+        "buscai constantemente a sua face!"
        ]
       ]
      }
@@ -2244,7 +2244,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 92, 1ab. 1c-2. 5 (: 1a)",
+      "cite": "Ps 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2256,7 +2256,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 92 (93), 1ab.1c-2.5 (: 1a)",
+      "cite": "Sl 92 (93), 1ab.1c-2.5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2268,7 +2268,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 92, 1ab. 1c-2. 5 (: 1a)",
+      "cite": "Ps 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2280,7 +2280,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 92, 1ab. 1c-2. 5 (: 1a)",
+      "cite": "Sal 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2304,7 +2304,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 92, 1ab. 1c-2. 5 (: 1a)",
+      "cite": "Ps 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2316,7 +2316,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 93 (92), 1. 2-3. 4-5 (R: 1a)",
+      "cite": "Ps 93 (92), 1. 2-3. 4-5 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -2661,7 +2661,7 @@
         "Vós firmastes o universo inabalável, vós firmastes vosso trono desde a origem,"
        ],
        [
-        "desde sempre, ó Senhor, vós existis!."
+        "desde sempre, ó Senhor, vós existis!"
        ]
       ]
      }
@@ -3913,7 +3913,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XIV",
   "pt-BR": "Sábado da 14ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 14th Week: Saturday",
+  "en-US": "Saturday of the Fourteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 14ª semana",
   "it": "Sabato della XIV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 14e semaine",

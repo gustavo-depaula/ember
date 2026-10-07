@@ -375,7 +375,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -396,7 +396,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -480,7 +480,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -709,6 +709,40 @@
       "lines": [
        [
         "Allmächtiger, ewiger Gott, du schenkst uns die Freude, am heutigen Fest die Verdienste aller deiner Heiligen zu feiern. Erfülle auf die Bitten so vieler Fürsprecher unsere Hoffnung und schenke uns dein Erbarmen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "que nos permitis celebrar os méritos de todos os vossos santos"
+       ],
+       [
+        "numa única festa,"
+       ],
+       [
+        "concedei-nos, por intercessores tão numerosos,"
+       ],
+       [
+        "a desejada abundância da vossa misericórdia."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho,"
+       ],
+       [
+        "que é Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
        ]
       ]
      }
@@ -1052,7 +1086,7 @@
        [
         {
          "m": "rubric",
-         "t": "Præfatio: De gloria matris nostræ Ierusalem. "
+         "t": "Præfatio: De gloria matris nostræ Ierusalem."
         }
        ]
       ]
@@ -1156,7 +1190,7 @@
        [
         {
          "m": "rubric",
-         "t": "A glória de Jerusalém, nossa mãe. "
+         "t": "A glória de Jerusalém, nossa mãe."
         }
        ]
       ]
@@ -2044,7 +2078,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -2057,7 +2091,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -2070,7 +2104,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -2109,8 +2143,8 @@
  ],
  "title": {
   "la": "OMNIUM SANCTORUM",
-  "pt-BR": "TODOS OS SANTOS",
-  "en-US": "ALL SAINTS",
+  "pt-BR": "Todos os Santos",
+  "en-US": "All Saints",
   "es": "TODOS LOS SANTOS",
   "it": "TUTTI I SANTI",
   "fr": "TOUS LES SAINTS",

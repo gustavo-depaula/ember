@@ -187,7 +187,7 @@
       "k": "p",
       "lines": [
        [
-        "Prima del giorno del Signore manderò il profeta Elia."
+        "Eu vos enviarei o profeta Elias, antes que venha o dia do Senhor."
        ]
       ],
       "role": "summary"
@@ -573,7 +573,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (: Lc 21, 28)",
+      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (R.: Lc 21, 28)",
       "role": "title"
      }
     ],
@@ -585,7 +585,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 24 (25), 4bc-5ab.8-9.10.14 (R. Lc 21, 28)",
+      "cite": "Sl 24 (25), 4bc-5ab.8-9.10.14 (R.: Lc 21, 28)",
       "role": "title"
      }
     ],
@@ -597,7 +597,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (: Lc 21, 28)",
+      "cite": "Ps 24, 4-5ab. 8-9. 10 and 14 (R.: Lk 21, 28)",
       "role": "title"
      }
     ],
@@ -609,7 +609,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 24, 4-5ab. 8-9. 10 et 14 (: Lc 21, 28)",
+      "cite": "Sal 24, 4-5ab. 8-9. 10 et 14 (R.: Lc 21, 28)",
       "role": "title"
      }
     ],
@@ -633,7 +633,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (: Lc 21, 28)",
+      "cite": "Ps 24, 4-5ab. 8-9. 10 et 14 (R.: Lc 21, 28)",
       "role": "title"
      }
     ],
@@ -645,7 +645,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 25 (24), 4-5. 8-9. 10 u. 14 (R: vgl. Lk 21, 28)",
+      "cite": "Ps 25 (24), 4-5. 8-9. 10 u. 14 (R.: vgl. Lk 21, 28)",
       "role": "title"
      }
     ]
@@ -923,7 +923,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima!."
+        "Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima!"
        ]
       ]
      }
@@ -1166,7 +1166,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima!."
+        "Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima!"
        ]
       ]
      }
@@ -1409,7 +1409,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima!."
+        "Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima!"
        ]
       ]
      }
@@ -2328,8 +2328,8 @@
  ],
  "title": {
   "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 23 decembris",
-  "pt-BR": "DIAS DE SEMANA DO ADVENTO — DE 17 a 24 DE DEZEMBRO — 23 de dezembro",
-  "en-US": "Weekdays of Advent — December 17 to December 24 — 23 December",
+  "pt-BR": "23 de dezembro",
+  "en-US": "December 23",
   "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 23 de diciembre",
   "it": "23 Dicembre",
   "fr": "Temps de l'Avent — 17 décembre - 24 décembre — 23 décembre",
