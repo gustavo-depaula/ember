@@ -75,9 +75,9 @@ export function getSummaArticles(
 
 /** "ss-q017-a06" as "II-II, q. 17, a. 6"; a question's preface has no article. */
 export function summaLabel(chapterId: string): string {
-  const match = /^(fp|fs|ss|tp)-q(\d+)-(?:a(\d+)|pr)$/.exec(chapterId)
+  const match = /^(fp|fs|ss|tp|xp)-q(\d+)-(?:a(\d+)|pr)$/.exec(chapterId)
   if (!match) return chapterId
-  const part = { fp: 'I', fs: 'I-II', ss: 'II-II', tp: 'III' }[match[1] as 'fp']
+  const part = { fp: 'I', fs: 'I-II', ss: 'II-II', tp: 'III', xp: 'Suppl.' }[match[1] as 'fp']
   return `${part}, q. ${Number(match[2])}${match[3] ? `, a. ${Number(match[3])}` : ''}`
 }
 

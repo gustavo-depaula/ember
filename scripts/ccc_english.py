@@ -1,12 +1,12 @@
 """The Scripture the Catechism of the Catholic Church cites, paragraph by
-paragraph, from its English text.
+paragraph, from its English text on vatican.va.
 
-scborromeo.org has the English edition a section to a page: each numbered
-paragraph in bold, its footnote calls in <SUP>, the section's notes listed
-after a rule. This reads every reference in a note back to the paragraph that
-calls it. It is the second witness `build-clerus-index.py` lays beside the
-Portuguese text on Clerus; neither is clean (this one has its transcriber's
-slips, "Deut 6:45" for 6:4-5), which is why there are two.
+The Holy See has the Catechism a section to a page: each numbered paragraph
+opens with its number, its footnote calls are links in <sup>, the page's notes
+are listed after a rule. This reads every reference in a note back to the
+paragraph that calls it. It is the second witness `build-clerus-index.py` lays
+beside the Portuguese text on Clerus; neither is clean (this one prints
+"Jas 113" for 1:13 and "Gen 1-26" for 1:26), which is why there are two.
 """
 from __future__ import annotations
 
@@ -16,7 +16,7 @@ import time
 import urllib.request
 from pathlib import Path
 
-BASE = "https://www.scborromeo.org/ccc/"
+BASE = "https://www.vatican.va/archive/ENG0015/"
 END = 999
 
 BOOKS = {
@@ -47,21 +47,23 @@ BOOK = re.compile(r"(?<![A-Za-z0-9])(?:(?P<p>[123]|I{1,3}|l)\s*)?(?P<n>" + "|".j
 # a comma, a chapter otherwise.
 REF = re.compile(
     r"(?P<sep>[;,]|and)?\s*(?:cf\.?\s*|see\s*)?(?P<a>\d+)(?::(?P<b>\d+))?[a-z]{0,2}(?P<ff>\s*ff?\.?)?"
-    r"(?:\s*[-–—]\s*(?:(?P<c>\d+):)?(?P<d>\d+)[a-z]{0,2})?(?!\s*(?!and\b|cf\b|Cf\b|ff?\b)[A-Za-z])"
+    r"(?:\s*[-–—]\s*(?:(?P<c>\d+):)?(?P<d>\d+)[a-z]{0,2})?"
 )
+# A bare number is a reference only if no word follows it ("5 loaves").
+WORD = re.compile(r"\s*(?!and\b|cf\b|Cf\b|ff?\b)[A-Za-z]")
 NEXT = re.compile(r"\s*\.?\s*(?=(?:[;,]|and\b|cf\.?|\d))")
 
 Reference = tuple[str, int, int | None, int | None]
 
 
 def fetch(cache: Path, name: str) -> str:
-    path = cache / "ccc-en" / name
+    path = cache / "ccc-va" / name
     if not path.exists():
         path.parent.mkdir(parents=True, exist_ok=True)
         request = urllib.request.Request(BASE + name, headers={"User-Agent": "Mozilla/5.0"})
         path.write_bytes(urllib.request.urlopen(request, timeout=60).read())
         time.sleep(1)
-    return path.read_text(encoding="utf-8", errors="ignore")
+    return path.read_text(encoding="latin-1")
 
 
 def slug_of(match: re.Match) -> str | None:
@@ -80,6 +82,8 @@ def run(slug: str, text: str) -> list[Reference]:
     after_verse = False
     at = 0
     while (m := REF.match(text, at)) is not None:
+        if not m["b"] and WORD.match(text, m.end()):
+            break
         at = m.end()
         a, sep = int(m["a"]), m["sep"]
         if m["b"]:
@@ -92,7 +96,7 @@ def run(slug: str, text: str) -> list[Reference]:
                 last = END if m["ff"] else int(m["d"] or first)
                 out.append((slug, chapter, first, max(first, last)))
         elif (slug in ONE_CHAPTER and chapter is None) or (
-            chapter is not None and (sep == "," or (sep == ";" and after_verse))
+            chapter is not None and sep == "," and after_verse
         ):
             chapter = chapter or 1
             out.append((slug, chapter, a, END if m["ff"] else int(m["d"] or a)))
@@ -108,6 +112,11 @@ def run(slug: str, text: str) -> list[Reference]:
 
 
 def references(text: str, inline: bool = False) -> list[Reference]:
+    # Two ways the notes set a reference that the run below would misread:
+    # "Eph 1:13; 4, 30" (chapter and verse with a comma) and "Deut 31:9. 24"
+    # (a further verse after a stop).
+    text = re.sub(r";\s*(\d+),\s*(\d+)", r"; \1:\2", text)
+    text = re.sub(r"(\d:\d+[a-z]?(?:-\d+[a-z]?)?)\.\s+(?=\d+(?!\d*:))", r"\1, ", text)
     out: list[Reference] = []
     for match in BOOK.finditer(text):
         slug = slug_of(match)
@@ -122,54 +131,50 @@ def references(text: str, inline: bool = False) -> list[Reference]:
     return out
 
 
-def plain(markup: str) -> str:
-    markup = re.sub(r"<SUP>\s*(\d+)\s*</SUP>", lambda m: f"\x00{m.group(1)}\x00", markup)
-    return html.unescape(re.sub(r"<[^>]+>", "", markup)).replace("\xa0", " ")
+def words(markup: str) -> str:
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", markup))).strip()
 
 
 def english(cache: Path) -> list[tuple[int, str, int, int | None, int | None]]:
     """(paragraph, book, chapter, first verse, last verse) for every reference,
-    the verses None where a chapter is cited whole. What stands above a
-    section's first paragraph (a commandment's words) is given to it."""
-    toc = fetch(cache, "ccc_toc2.htm")
-    pages = dict.fromkeys(re.findall(r'href="?([\w.-]+\.htm)', toc, re.I))
+    the verses None where a chapter is cited whole."""
+    pages = dict.fromkeys(re.findall(r'href="?(__P\w+\.HTM)', fetch(cache, "_INDEX.HTM"), re.I))
     found: list[tuple[int, str, int, int | None, int | None]] = []
+    paragraph = None
     for name in pages:
         page = fetch(cache, name)
-        rule = page.find("<HR WIDTH=300")
-        notes: dict[int, str] = {}
-        if rule >= 0:
-            tail = re.sub(r"<(HR|P|span|/span|DL|/DL)[^>]*>", "", page[rule:].split("<P><hr color")[0], flags=re.I)
-            current = None
-            for line in re.sub(r"<BR>", "\n", tail, flags=re.I).replace("\r", "").split("\n"):
-                opened = re.match(r"\s*(?:<[^>]*>)*(\d+|l)(?=[\s<])\s*(.*)", line)
-                if opened and line.strip():
-                    current = 1 if opened.group(1) == "l" else int(opened.group(1))
-                    notes[current] = opened.group(2)
-                elif current and line.strip():
-                    notes[current] += " " + line
-        end = rule if rule >= 0 else len(page)
-        # The paragraphs' numbers, in bold; a bold number out of sequence is
-        # something else (a list, a date).
-        marks: list[re.Match] = []
-        for mark in re.finditer(
-            r"(?:<B>|<STRONG>)\s*(?:<A [^>]*>)?\s*(\d{1,4})\s*(?:</A>)?(?=\s*(?:</B>|</STRONG>|<span))", page, re.I
-        ):
-            if not marks or int(marks[-1].group(1)) < int(mark.group(1)) <= int(marks[-1].group(1)) + 12:
-                marks.append(mark)
-        if not marks:
-            continue
-        stretches = [(int(marks[0].group(1)), page[: marks[0].start()])] + [
-            (int(mark.group(1)), page[mark.end() : min(marks[i + 1].start() if i + 1 < len(marks) else end, end)])
-            for i, mark in enumerate(marks)
-            if mark.start() < end
-        ]
-        for paragraph, markup in stretches:
-            if not 1 <= paragraph <= 2865:
-                continue
-            text = plain(markup)
+        # The pages come in two hands: lower-case tags with bare attributes,
+        # and upper-case with quoted ones in another order. A note is at an
+        # anchor named "$…", its call at one named "-…".
+        rule = re.search(r'<hr[^>]*width="?30%', page, re.I)
+        body, tail = (page[: rule.start()], page[rule.start() :]) if rule else (page, "")
+        notes = {
+            n: words(text)
+            for n, text in re.findall(
+                r'<a [^>]*name="?\$\w+[^>]*>(\d+)</a>\s*</b>\s*</font>\s*<font[^>]*>(.*?)</font>', tail, re.S | re.I
+            )
+        }
+        body = re.sub(
+            r'<sup>\s*<a [^>]*name="?-\w+[^>]*>(\d+)</a>\s*</sup>', lambda m: f"\x00{m.group(1)}\x00", body, flags=re.I
+        )
+        # What a page prints above its first paragraph (a commandment's
+        # words, with their note) opens that paragraph.
+        above: list[Reference] = []
+        opened_here = False
+        for block in re.split(r"<p[ >]", body, flags=re.I):
+            text = re.sub(r"^class=MsoNormal>?\s*", "", words(block))
+            # A paragraph opens with its number, the next after the last or
+            # near it; any other number is something else (a list, a year).
+            opened = re.match(r"(\d{1,4}) (?=\S)", text)
+            if opened and (paragraph or 0) < int(opened.group(1)) <= (paragraph or 0) + 40:
+                paragraph = int(opened.group(1))
+                found.extend((paragraph, *reference) for reference in above)
+                above, opened_here = [], True
             cited = references(re.sub(r"\x00\d+\x00", "", text), inline=True)
             for call in re.findall(r"\x00(\d+)\x00", text):
-                cited.extend(references(plain(notes.get(int(call), ""))))
-            found.extend((paragraph, *reference) for reference in cited)
+                cited.extend(references(notes.get(call, "")))
+            if not opened_here:
+                above.extend(cited)
+            elif paragraph is not None:
+                found.extend((paragraph, *reference) for reference in cited)
     return found

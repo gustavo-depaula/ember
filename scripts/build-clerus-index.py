@@ -310,16 +310,18 @@ def catechism_portuguese(cache: Path, slugs: dict[str, str]) -> list[tuple[int, 
 
 def catechism(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, int | None, int | None]]:
     """The Catechism's Scripture references, from two editions laid side by
-    side: the Portuguese on Clerus and the English (scripts/ccc_english.py).
+    side: the Portuguese on Clerus and the English on vatican.va
+    (scripts/ccc_english.py).
 
     Neither is clean alone. Clerus links the references itself and slips
     (Jonas read as John, "6,11" cut to "6,1", a reference left unlinked, a
     call misnumbered in the text so its note falls to a later paragraph); the
-    English transcription has its own ("Deut 6:45" for 6:4-5). Measured against
-    each other, each alone is right about nineteen times in twenty and has
-    nine in ten. Together: what both have is kept; what only the English has
-    is kept if such a verse exists; what only the Portuguese has is kept
-    unless the English shows it to be one of Clerus's slips.
+    English prints its own ("Gen 1-26" for 1:26). Measured against each other,
+    Clerus alone is right about nineteen times in twenty and has nine in ten.
+    Together: what both have is kept. A verse only the English has is kept if
+    such a verse exists; a chapter cited whole needs both, since that is how
+    a misprint reads. What only the Portuguese has is dropped: checked by
+    hand, most of it was Clerus's slips.
     """
     portuguese = dict.fromkeys(catechism_portuguese(cache, slugs))
     english = dict.fromkeys(ccc_english.english(cache))
@@ -346,22 +348,6 @@ def catechism(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, i
         slack = 2 if a[1] == "psalms" else 1
         return a[3] - slack <= b[4] and b[3] - slack <= a[4]
 
-    def slip(ours: tuple) -> str | None:
-        """Why the English shows a Portuguese-only reference to be Clerus's error."""
-        paragraph, book, chapter, first, _last = ours
-        here = by_paragraph.get(paragraph, [])
-        if any(e[1] != book and e[2] == chapter and e[3] is not None and same((0, e[1], *ours[2:]), e) for e in here):
-            return "another book"
-        if any(
-            e[1:3] == (book, chapter) and first is not None and e[3] not in (None, first) and str(e[3]).startswith(str(first))
-            for e in here
-        ):
-            return "a digit dropped"
-        near = (e for n in range(paragraph - 8, paragraph + 9) if n != paragraph for e in by_paragraph.get(n, []))
-        if first is not None and any(same(ours, e) and e not in matched for e in near):
-            return "another paragraph"
-        return None
-
     matched: set[tuple] = set()
     kept: list[tuple] = []
     tally: Counter[str] = Counter()
@@ -370,19 +356,15 @@ def catechism(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, i
         matched.update(twins)
         if twins:
             tally["in both"] += 1
-            kept.append(ours)
-    for ours in portuguese:
-        if any(same(ours, e) for e in by_paragraph.get(ours[0], [])):
-            continue
-        reason = slip(ours) or (None if exists(ours) else "no such verse")
-        tally[f"Portuguese only, dropped: {reason}" if reason else "Portuguese only, kept"] += 1
-        if not reason:
-            kept.append(ours)
+            # Clerus's link sometimes keeps only the chapter ("Ap 9" for 9,4).
+            kept.append(next((e for e in twins if e[3] is not None), ours) if ours[3] is None else ours)
+    tally["only in the Portuguese, dropped"] = len(portuguese) - tally["in both"]
     for theirs in english:
         if theirs in matched:
             continue
-        tally["English only, kept" if exists(theirs) else "English only, dropped: no such verse"] += 1
-        if exists(theirs):
+        keep = theirs[3] is not None and exists(theirs)
+        tally["only in the English, kept" if keep else "only in the English, dropped"] += 1
+        if keep:
             kept.append(theirs)
     print("catechism:", ", ".join(f"{count} {what}" for what, count in tally.most_common()))
     return kept
@@ -602,6 +584,51 @@ def talks(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[tupl
     return found
 
 
+# The books as the corpus's English Summa names them (several translators'
+# hands), to the Douay slugs. It numbers as St Thomas does, by the Vulgate:
+# "1 Kgs" is the first book of Samuel.
+SUMMA_NAMES = {
+    "genesis": "Gen Gn Genesis", "exodus": "Ex Exod Exodus", "leviticus": "Lev Leviticus",
+    "numbers": "Num Numbers", "deuteronomy": "Deut Dt Deuteronomy", "josue": "Josh Jos", "judges": "Judg Judges",
+    "ruth": "Ruth", "1-kings": "1 Kgs|1 Kings|1 Sam|1 Samuel", "2-kings": "2 Kgs|2 Kings|2 Sam|2 Samuel",
+    "3-kings": "3 Kgs|3 Kings", "4-kings": "4 Kgs|4 Kings", "1-paralipomenon": "1 Chr|1 Paral|1 Paralip",
+    "2-paralipomenon": "2 Chr|2 Paral|2 Paralip", "1-esdras": "Ezra|1 Esdras|1 Esdr|1 Esdra",
+    "2-esdras": "2 Esdras|2 Esdr", "tobias": "Tob Tobias Tobit", "judith": "Jdt Judith", "esther": "Esther",
+    "1-machabees": "1 Macc|1 Mach", "2-machabees": "2 Macc|2 Mach|2 Maccabees", "job": "Job",
+    "psalms": "Ps Psalm", "proverbs": "Prov Proverbs", "ecclesiastes": "Eccl Eccles Ecclesiastes",
+    "canticles": "Song Songs Cant", "wisdom": "Wis Wisdom", "ecclesiasticus": "Sir Sirach Ecclus",
+    "isaias": "Isa Is Isaiah Isaias", "jeremias": "Jer Jeremiah Jeremias", "lamentations": "Lam Lament",
+    "baruch": "Bar Baruch", "ezechiel": "Ezek Ezech Ezekiel Ezechiel", "daniel": "Dan Daniel",
+    "osee": "Hos Hosea Osee", "joel": "Joel", "amos": "Amos", "jonas": "Jonah", "micheas": "Mic Micah",
+    "nahum": "Nahum", "habacuc": "Hab", "zacharias": "Zech Zach", "malachias": "Mal Malach Malachi",
+    "matthew": "Matt Mt Matthew", "mark": "Mark Mk", "luke": "Luke Lk Luc", "john": "John Jn", "acts": "Acts",
+    "romans": "Rom Rm Romans", "1-corinthians": "1 Cor|1 Corinthians", "2-corinthians": "2 Cor|2 Corinthians",
+    "galatians": "Gal Galatians", "ephesians": "Eph Ephesians", "philippians": "Phil Philippians Phillipians",
+    "colossians": "Col Colossians", "1-thessalonians": "1 Thess|1 Thessalonians",
+    "2-thessalonians": "2 Thess|2 Thessalonians", "1-timothy": "1 Tim|1 Timothy", "2-timothy": "2 Tim|2 Timothy",
+    "titus": "Titus", "hebrews": "Heb Hebrews", "james": "Jas James", "1-peter": "1 Pet|1 Pt|1 Peter",
+    "2-peter": "2 Pet|2 Pt|2 Peter", "1-john": "1 John|1 Jn", "2-john": "2 John", "jude": "Jude",
+    "apocalypse": "Rev Revelation Apoc",
+}
+_summa_slug = {
+    name: slug for slug, names in SUMMA_NAMES.items() for name in (names.split("|") if "|" in names or names[0].isdigit() else names.split())
+}
+SUMMA_REFERENCE = re.compile(
+    r"(?<![A-Za-z0-9])(" + "|".join(sorted(map(re.escape, _summa_slug), key=len, reverse=True)) + r")\.? (?=\d+:\d)"
+)
+
+
+def summa_english() -> list[tuple]:
+    """Every Scripture reference the corpus's own Summa prints, by article:
+    (chapter id, book, chapter, first verse, last verse)."""
+    found: list[tuple] = []
+    for path in sorted(SUMMA_BOOK.glob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        for match in SUMMA_REFERENCE.finditer(text):
+            found.extend((path.stem, *r) for r in ccc_english.run(_summa_slug[match.group(1)], text[match.end() :]) if r[2])
+    return list(dict.fromkeys(found))
+
+
 def write_cited(directory: Path, found: list[tuple], vulgate: bool = False) -> int:
     """Lay places against the verses they cite, a file to a book: {items:
     [place], chapters: {chapter: [[first verse, last verse, place's position]]}}
@@ -610,6 +637,8 @@ def write_cited(directory: Path, found: list[tuple], vulgate: bool = False) -> i
     that numbers as the Douay does already (St Thomas cites the Vulgate)."""
     directory.mkdir(parents=True, exist_ok=True)
     books: dict[str, tuple[dict, dict[str, list]]] = {}
+    drb = {path.stem: json.loads(path.read_text(encoding="utf-8")) for path in (ROOT / "content" / "bible" / "drb").glob("*.json")}
+    absent = 0
     for place, slug, chapter, first, last in found:
         positions, chapters = books.setdefault(slug, ({}, {}))
         position = positions.setdefault(place, len(positions))
@@ -617,6 +646,12 @@ def write_cited(directory: Path, found: list[tuple], vulgate: bool = False) -> i
             first, last = 1, END
         placed = [(chapter, first, last, None)] if vulgate else douay(slug, chapter, first, last)
         for douay_chapter, start, end, _label in placed:
+            # A verse the book does not have is a reference misread (a digit
+            # dropped or doubled, one book taken for another).
+            in_chapter = drb.get(slug, {}).get(str(douay_chapter))
+            if in_chapter is None or start > len(in_chapter) + 2:
+                absent += 1
+                continue
             run = [start, end, position]
             runs = chapters.setdefault(str(douay_chapter), [])
             if run not in runs:
@@ -628,13 +663,41 @@ def write_cited(directory: Path, found: list[tuple], vulgate: bool = False) -> i
             json.dumps({"items": list(positions), "chapters": chapters}, ensure_ascii=False, separators=(",", ":")),
             encoding="utf-8",
         )
+    if absent:
+        print(f"   {absent} left out: no such verse")
     return sum(len(runs) for _p, chapters in books.values() for runs in chapters.values())
 
 
 def write_summa(cache: Path, everywhere: dict[str, str], slugs: dict[str, str]) -> None:
     """content/bible/summa/: the articles of the Summa that quote each verse,
-    as [the corpus's chapter id, the article's question]."""
-    found, problems = summa(cache, everywhere, slugs)
+    as [the corpus's chapter id, the article's question].
+
+    From the corpus's own text, which prints its references. The Spanish Summa
+    on Clerus is laid beside it as a second witness, and counted, but adds
+    nothing of its own: about half of what only Clerus has is its linker's
+    misreading, and the rest is a quotation the Spanish editors gave a
+    reference to that the English leaves without one.
+    """
+    english = summa_english()
+    spanish, problems = summa(cache, everywhere, slugs)
+    verses = {path.stem: json.loads(path.read_text(encoding="utf-8")) for path in (ROOT / "content" / "bible" / "drb").glob("*.json")}
+    by_article: dict[str, list[tuple]] = {}
+    for reference in spanish:
+        by_article.setdefault(reference[0], []).append(reference)
+
+    def witnessed(e: tuple) -> bool:
+        return any(o[1:3] == e[1:3] and (o[3] is None or (o[3] - 1 <= e[4] and e[3] - 1 <= o[4])) for o in by_article.get(e[0], []))
+
+    def exists(e: tuple) -> bool:
+        in_chapter = verses.get(e[1], {}).get(str(e[2]))
+        return in_chapter is not None and e[3] <= len(in_chapter) + 1
+
+    found = [e for e in english if exists(e) or witnessed(e)]
+    both = sum(witnessed(e) for e in found)
+    print(
+        f"summa: {len(found)} references in the English, {both} of them also on Clerus, "
+        f"{len(english) - len(found)} dropped (no such verse), {len(spanish)} on Clerus in all"
+    )
     toc = json.loads((SUMMA_BOOK.parent / "book.json").read_text(encoding="utf-8"))["toc"]
     titles: dict[str, str] = {}
 
@@ -653,7 +716,7 @@ def write_summa(cache: Path, everywhere: dict[str, str], slugs: dict[str, str]) 
         [((chapter, titles[chapter]), *reference) for chapter, *reference in found],
         vulgate=True,
     )
-    print(f"summa: {cited} citations by {len({chapter for chapter, *_ in found})} articles, {len(problems)} not placed")
+    print(f"summa: {cited} citations by {len({chapter for chapter, *_ in found})} articles; on Clerus, {len(problems)} not placed")
     for problem, count in Counter(problems).most_common():
         print(f"   {problem} ({count})")
 
