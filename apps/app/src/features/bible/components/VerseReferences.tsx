@@ -276,13 +276,6 @@ export function VerseReferenceList({
   const { isLoading, error } = references.status[kind]
   if (error) return <Typography variant="annotation">{t('common.couldntLoad')}</Typography>
   if (isLoading) return <PrayerSpinner />
-  if (references.counts[kind] === 0) {
-    return (
-      <Typography variant="caption" fontSize="$3">
-        {t(`bible.references.none.${kind}`, { verse })}
-      </Typography>
-    )
-  }
 
   function openInBook(bookId: string, chapterId: string) {
     router.push({

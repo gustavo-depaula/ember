@@ -24,6 +24,7 @@ import {
   getTalks,
   type ReferenceKind,
   readingsForVerse,
+  referenceKinds,
 } from './references'
 
 export function useBooks(translation: string) {
@@ -152,32 +153,37 @@ export function useEntryVoices(entries: CommentaryEntry[]) {
  * each: the half page puts the counts on its line of kinds, so all of it is
  * read as soon as a verse is opened.
  */
-export function useVerseReferences(bookId: string, chapter: number, verse: number) {
+function useVerseReferences(bookId: string, chapter: number, verse: number, enabled: boolean) {
   const staleTime = Number.POSITIVE_INFINITY
   const passages = useQuery({
     queryKey: ['bible', 'citations', bookId, chapter],
     queryFn: () => getChapterCitations(bookId, chapter),
     staleTime,
+    enabled,
   })
   const lectures = useQuery({
     queryKey: ['bible', 'lectures', bookId, chapter],
     queryFn: () => getLectures(bookId, chapter),
     staleTime,
+    enabled,
   })
   const articles = useQuery({
     queryKey: ['bible', 'summa', bookId, chapter, verse],
     queryFn: () => getSummaArticles(bookId, chapter, verse),
     staleTime,
+    enabled,
   })
   const talks = useQuery({
     queryKey: ['bible', 'talks', bookId, chapter, verse],
     queryFn: () => getTalks(bookId, chapter, verse),
     staleTime,
+    enabled,
   })
   const readings = useQuery({
     queryKey: ['bible', 'lectionary', bookId, chapter],
     queryFn: () => getChapterReadings(bookId, chapter),
     staleTime,
+    enabled,
   })
 
   const cited = citationsForVerse(passages.data ?? [], verse)
@@ -224,3 +230,34 @@ export function useVerseReferences(bookId: string, chapter: number, verse: numbe
 }
 
 export type VerseReferences = ReturnType<typeof useVerseReferences>
+
+/**
+ * The half page for a verse: the kinds that have something to show of it, in
+ * the order of its line, and the one in hand. A commentator silent on the
+ * verse and a kind nothing in cites it are left off the line; where that is
+ * the kind last chosen, the first on the line stands in and the choice is
+ * kept for the verses that have it.
+ */
+export function useVersePane(
+  bookId: string,
+  chapter: number,
+  verse: number | undefined,
+  commentary: ReturnType<typeof useChapterCommentary>,
+) {
+  const chosen = useBibleStore((s) => s.paneKind)
+  const references = useVerseReferences(bookId, chapter, verse ?? 0, verse !== undefined)
+  // A kind still being read keeps its place, so the line does not jump as it fills.
+  const kinds = [
+    ...commentary.sources
+      .filter(
+        (s) =>
+          commentary.isLoading ||
+          entriesForVerse(commentary.bySource[s.id] ?? [], verse ?? 0).length > 0,
+      )
+      .map((s) => s.id),
+    ...referenceKinds.filter((id) => references.status[id].isLoading || references.counts[id] > 0),
+  ]
+  return { references, kinds, kind: kinds.includes(chosen) ? chosen : kinds[0] }
+}
+
+export type VersePaneState = ReturnType<typeof useVersePane>

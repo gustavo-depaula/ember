@@ -26,7 +26,13 @@ import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { spanForVerse } from '../commentary'
-import { useBooks, useChapter, useChapterCommentary, usePrefetchAdjacentChapters } from '../hooks'
+import {
+  useBooks,
+  useChapter,
+  useChapterCommentary,
+  usePrefetchAdjacentChapters,
+  useVersePane,
+} from '../hooks'
 import { isReferenceKind } from '../references'
 import { BibleDrawer } from './BibleDrawer'
 import { ChapterContent } from './ChapterContent'
@@ -54,7 +60,6 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
 
   const translation = usePreferencesStore((s) => s.translation)
   const { bookId, chapter, setPosition, recordReading } = useBibleStore()
-  const paneKind = useBibleStore((s) => s.paneKind)
 
   const slideX = useSharedValue(initialDrawerOpen ? drawerWidth : 0)
   const startX = useSharedValue(0)
@@ -75,6 +80,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   // The places citations were followed from, the last one first to go back to.
   const [trail, setTrail] = useState<Place[]>([])
   const commentary = useChapterCommentary(bookId, chapter, commentedVerse !== undefined)
+  const pane = useVersePane(bookId, chapter, commentedVerse, commentary)
   const closeCommentary = useCallback(() => setCommentedVerse(undefined), [])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: a new chapter is the trigger
@@ -94,11 +100,10 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
 
   const marked = (() => {
     if (commentedVerse === undefined) return undefined
-    const source = commentary.sources.find((s) => s.id === paneKind) ?? commentary.sources[0]
     // Only a commentator speaks of a passage; what cites a verse is listed by the verse.
-    const span = isReferenceKind(paneKind)
+    const span = isReferenceKind(pane.kind)
       ? undefined
-      : spanForVerse(commentary.bySource[source.id] ?? [], commentedVerse)
+      : spanForVerse(commentary.bySource[pane.kind] ?? [], commentedVerse)
     return {
       verse: commentedVerse,
       from: span?.from ?? commentedVerse,
@@ -337,6 +342,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
                 chapter={chapter}
                 verse={commentedVerse}
                 commentary={commentary}
+                pane={pane}
                 initialHeight={paneHeight}
                 maxHeight={Math.round(screenHeight * 0.8)}
                 cameFrom={cameFrom}

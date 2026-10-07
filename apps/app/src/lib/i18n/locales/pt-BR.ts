@@ -657,7 +657,6 @@ export default {
     commentary: {
       title: 'Comentário',
       silent: '{{source}} não comenta o versículo {{verse}}.',
-      elsewhere: 'Sobre este versículo:',
       none: 'Ainda não há comentário sobre o versículo {{verse}}.',
       readOn_one: 'Continuar · {{count}} min',
       readOn_other: 'Continuar · {{count}} min',
@@ -691,14 +690,6 @@ export default {
       rest: 'O restante da passagem',
       inPortuguese: 'Em português',
       summa: 'Suma',
-      none: {
-        catechism: 'O Catecismo não cita o versículo {{verse}}.',
-        summa: 'Santo Tomás não cita o versículo {{verse}} na Suma.',
-        homilies: 'Não há na biblioteca homilia dos Padres sobre esta passagem.',
-        councils: 'Nenhum concílio ou encíclica daqui cita o versículo {{verse}}.',
-        popes: 'Nenhuma homilia ou discurso papal daqui cita o versículo {{verse}}.',
-        mass: 'O versículo {{verse}} não é lido na Missa.',
-      },
       part: {
         firstReading: 'Primeira leitura',
         secondReading: 'Segunda leitura',

@@ -25,8 +25,8 @@ import {
   spanForVerse,
   spanLabel,
 } from '../commentary'
-import { type useChapterCommentary, useEntryVoices, useVerseReferences } from '../hooks'
-import { isReferenceKind, referenceKinds } from '../references'
+import { type useChapterCommentary, useEntryVoices, type VersePaneState } from '../hooks'
+import { isReferenceKind } from '../references'
 import { CommentaryVoices } from './CommentaryVoices'
 import { VerseReferenceList } from './VerseReferences'
 
@@ -39,17 +39,15 @@ function Commentary({
   source,
   verse,
   commentary,
-  onChoose,
   onReadOn,
 }: {
   source: CommentarySource
   verse: number
   commentary: ReturnType<typeof useChapterCommentary>
-  onChoose: (id: string) => void
   onReadOn: (sourceId: string) => void
 }) {
   const { t } = useTranslation()
-  const { sources, bySource } = commentary
+  const { bySource } = commentary
   const entries = entriesForVerse(bySource[source.id] ?? [], verse)
   const words = useEntryVoices(entries)
   const voices = words.byEntry.flat()
@@ -59,36 +57,12 @@ function Commentary({
     return <Typography variant="annotation">{t('common.couldntLoad')}</Typography>
   }
   if (commentary.isLoading || words.isLoading) return <PrayerSpinner />
+  // A lecture with no Father named in it: the line offered it, so say so.
   if (voices.length === 0) {
-    const elsewhere = sources.filter(
-      (s) => s.id !== source.id && entriesForVerse(bySource[s.id] ?? [], verse).length > 0,
-    )
     return (
-      <YStack gap="$sm">
-        <Typography variant="caption" fontSize="$3">
-          {t('bible.commentary.silent', { source: source.name, verse })}
-        </Typography>
-        {elsewhere.length > 0 ? (
-          <XStack gap="$md" flexWrap="wrap" alignItems="baseline">
-            <Typography variant="annotation" fontSize="$2">
-              {t('bible.commentary.elsewhere')}
-            </Typography>
-            {elsewhere.map((s) => (
-              <Pressable
-                key={s.id}
-                onPress={() => onChoose(s.id)}
-                hitSlop={12}
-                accessibilityRole="button"
-                accessibilityLabel={s.name}
-              >
-                <Typography fontSize="$3" color="$colorBurgundy">
-                  {s.name}
-                </Typography>
-              </Pressable>
-            ))}
-          </XStack>
-        ) : undefined}
-      </YStack>
+      <Typography variant="caption" fontSize="$3">
+        {t('bible.commentary.silent', { source: source.name, verse })}
+      </Typography>
     )
   }
   const shown = excerpt(voices, excerptBudget)
@@ -130,6 +104,7 @@ export function VersePane({
   chapter,
   verse,
   commentary,
+  pane,
   initialHeight,
   maxHeight,
   cameFrom,
@@ -144,6 +119,7 @@ export function VersePane({
   chapter: number
   verse: number
   commentary: ReturnType<typeof useChapterCommentary>
+  pane: VersePaneState
   initialHeight: number
   maxHeight: number
   /** The place a citation was followed from, to go back to. */
@@ -159,32 +135,23 @@ export function VersePane({
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const bottomClearance = useBottomClearance()
-  const chosen = useBibleStore((s) => s.paneKind)
   const setKind = useBibleStore((s) => s.setPaneKind)
-  const references = useVerseReferences(bookId, chapter, verse)
+  const { references, kind } = pane
 
   const { sources, bySource } = commentary
-  // The commentator last chosen may not comment this book (the Catena outside
-  // the Gospels): the first that does stands in, and the choice is kept.
-  const referenceKind = isReferenceKind(chosen) ? chosen : undefined
-  const source = sources.find((s) => s.id === chosen) ?? sources[0]
-  const kind = referenceKind ?? source.id
-  const span = referenceKind ? undefined : spanForVerse(bySource[source.id] ?? [], verse)
-  const tabs = [
-    ...sources.map((s) => ({
-      id: s.id,
-      label: s.name,
-      count: undefined,
-      speaks: entriesForVerse(bySource[s.id] ?? [], verse).length > 0,
-    })),
-    ...referenceKinds.map((id) => ({
+  const referenceKind = isReferenceKind(kind) ? kind : undefined
+  const source = sources.find((s) => s.id === kind)
+  const span = source ? spanForVerse(bySource[source.id] ?? [], verse) : undefined
+  const tabs = pane.kinds.map((id) => {
+    const commentator = sources.find((s) => s.id === id)
+    if (commentator) return { id, label: commentator.name, count: undefined }
+    return {
       id,
       label: t(`bible.kinds.${id}`),
       // Every verse has its other editions: a count of them would say nothing.
-      count: id === 'translations' ? undefined : references.counts[id] || undefined,
-      speaks: references.counts[id] > 0,
-    })),
-  ]
+      count: isReferenceKind(id) && id !== 'translations' ? references.counts[id] : undefined,
+    }
+  })
 
   const minHeight = 120
   const height = useSharedValue(initialHeight)
@@ -255,7 +222,6 @@ export function VersePane({
           >
             {tabs.map((tab) => {
               const selected = tab.id === kind
-              const resting = tab.speaks ? '$color' : '$colorSecondary'
               return (
                 <Pressable
                   key={tab.id}
@@ -280,7 +246,7 @@ export function VersePane({
                       variant="label"
                       fontSize="$1"
                       letterSpacing={1.5}
-                      color={selected ? '$colorBurgundy' : resting}
+                      color={selected ? '$colorBurgundy' : '$color'}
                     >
                       {tab.label.toUpperCase()}
                     </Typography>
@@ -333,15 +299,10 @@ export function VersePane({
               references={references}
               onOpenPlace={onOpenPlace}
             />
-          ) : (
-            <Commentary
-              source={source}
-              verse={verse}
-              commentary={commentary}
-              onChoose={setKind}
-              onReadOn={onReadOn}
-            />
-          )}
+          ) : undefined}
+          {source ? (
+            <Commentary source={source} verse={verse} commentary={commentary} onReadOn={onReadOn} />
+          ) : undefined}
         </ScrollView>
       </YStack>
     </Animated.View>

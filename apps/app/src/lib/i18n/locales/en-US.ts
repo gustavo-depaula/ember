@@ -652,7 +652,6 @@ export default {
     commentary: {
       title: 'Commentary',
       silent: '{{source}} has no note on verse {{verse}}.',
-      elsewhere: 'On this verse:',
       none: 'No commentary on verse {{verse}} yet.',
       readOn_one: 'Read on · {{count}} min',
       readOn_other: 'Read on · {{count}} min',
@@ -686,14 +685,6 @@ export default {
       rest: 'The rest of the passage',
       inPortuguese: 'In Portuguese',
       summa: 'Summa',
-      none: {
-        catechism: 'The Catechism does not cite verse {{verse}}.',
-        summa: 'St Thomas does not quote verse {{verse}} in the Summa.',
-        homilies: 'No homily of the Fathers on this passage is in the library.',
-        councils: 'No council or encyclical here cites verse {{verse}}.',
-        popes: 'No papal homily or address here quotes verse {{verse}}.',
-        mass: 'Verse {{verse}} is not read at Mass.',
-      },
       part: {
         firstReading: 'First reading',
         secondReading: 'Second reading',
