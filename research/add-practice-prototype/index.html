@@ -155,6 +155,34 @@
   .beyond .n { flex: 1; }
   .ghostrow { display: flex; align-items: center; gap: 14px; min-height: 48px; font-size: 21px; opacity: .35; }
   .ghostrow i { width: 22px; height: 22px; border-radius: 6px; border: 1.2px solid var(--accent); }
+  .trow { display: flex; align-items: stretch; gap: 6px; }
+  .trow svg { flex: none; }
+  .trow .t { flex: 1; min-width: 0; padding: 12px 0; }
+  .trow .t b { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; font-weight: 400; font-size: 21px; line-height: 26px; }
+  .trow .t b small { font-size: 14px; color: var(--muted); white-space: nowrap; }
+  .trow .t p { font-size: 15.5px; line-height: 21px; color: var(--muted); padding-top: 2px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .trow button { background: none; border: 0; padding: 0; cursor: pointer; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px 16px; padding-top: 14px; }
+  .grid2 .cw { --s: 163px; }
+  .crow { display: flex; align-items: center; gap: 14px; min-height: 56px; border-bottom: 0.5px solid #5c524866; }
+  .crow .n { flex: 1; font-size: 21px; }
+  .crow small { font-size: 14px; color: var(--muted); }
+  .open { background: var(--surface); border-radius: 16px; margin: 6px -12px; padding: 4px 12px 16px; box-shadow: 0 6px 16px #0006; }
+  .open .crow { border: 0; }
+  .open p { font-size: 17px; line-height: 24px; color: var(--muted); }
+  .chips { display: flex; gap: 8px; padding: 14px 0; }
+  .chip { border: 1px solid var(--accentSubtle); border-radius: 8px; padding: 6px 12px; font-size: 17px; line-height: 24px; color: var(--accent); }
+  .deck { display: flex; gap: 14px; margin-right: -24px; overflow: hidden; padding: 12px 0 6px; }
+  .dcard { flex: none; width: 296px; background: var(--surface); border-radius: 18px; padding: 18px; box-shadow: 0 8px 18px #0007; display: flex; flex-direction: column; gap: 12px; }
+  .dcard .why2 { font: 400 12px/16px var(--display); letter-spacing: 2.5px; text-transform: uppercase; color: var(--accent); }
+  .dcard .top { display: flex; gap: 14px; align-items: center; }
+  .dcard .cw { --s: 104px; }
+  .dcard h5 { font: italic 400 27px/30px var(--title); }
+  .dcard .fact { font-size: 15px; line-height: 20px; color: var(--muted); padding-top: 4px; }
+  .dcard p { font-size: 17px; line-height: 24px; color: var(--muted); }
+  .dots { display: flex; gap: 6px; justify-content: center; padding: 6px 0 2px; }
+  .dots i { width: 6px; height: 6px; border-radius: 3px; background: var(--border); }
+  .dots i.on { background: var(--accent); }
   .note { border-top: 0.5px solid var(--border); padding-top: 20px; color: var(--muted); max-width: 68ch; }
   .note b { color: var(--ink); font-weight: 400; }
   .note ul { padding-left: 20px; display: flex; flex-direction: column; gap: 8px; padding-top: 8px; }
@@ -164,8 +192,17 @@
 <main>
   <header>
     <h1>Acrescentar à regra</h1>
-    <p><b style="color:var(--ink);font-weight:400">Round four is at the top:</b> one proposal, reasoned from what the page is for. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
+    <p><b style="color:var(--ink);font-weight:400">Round five is at the top:</b> the listing itself, four ways. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
   </header>
+
+  <section class="q">
+    <h2>Rodada 5 · A listagem</h2>
+    <h3>Four ways to lay a practice on the page</h3>
+    <p>What I think is wrong with the row used so far: the 72px holy card repeats the title in type too small to read, its colour is arbitrary, every row looks the same, and nothing on it says what the practice is, so a list of them teaches nothing. Each option below fixes that differently. Same content throughout (the “De cada dia” tab, descriptions from the manifests); beads and buttons are live.</p>
+    <div class="strip" id="r5"></div>
+  </section>
+
+  <div class="round">Rodada 4</div>
 
   <section class="q">
     <h2>Rodada 4 · Do princípio</h2>
@@ -611,6 +648,68 @@
     const phone = b.closest('.phone'), bar = phone.querySelector('.bar')
     if (!bar) return
     const n = phone.querySelectorAll('button.add[data-on="1"]').length
+    bar.hidden = n === 0
+    bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
+  })
+
+  // ── Round five: the listing ──
+  const D = {
+    angelus: ['Comemora a Encarnação, rezado três vezes ao dia ao som do sino: o anúncio do anjo a Maria e o seu fiat.', '3 min'],
+    'gospel-of-the-day': ['O Evangelho da Missa de hoje. Um breve encontro com as palavras de Cristo proclamadas nas igrejas do mundo.', '5 min'],
+    'examination-of-conscience': ['Uma revisão diária da alma diante de Deus: trazer o dia para receber Sua luz e acolher Sua misericórdia.', '21h'],
+    'spiritual-reading': ['Um tempo diário para vidas de santos, clássicos espirituais, os Padres. Forma a mente nas coisas de Deus.', '15 min'],
+    'morning-offering': ['Ato matinal de adoração e oferecimento, entregando a Deus os pensamentos, palavras e obras do dia.', '6h30'],
+    rosary: ['A mais amada devoção mariana: os mistérios da vida de Cristo, meditados ao lado de Sua Mãe.', '18h30'],
+    'visit-blessed-sacrament': ['Uma breve paragem diária diante do sacrário, de preferência ao meio-dia, depois do almoço.', '3 min'],
+    'chaplet-of-divine-mercy': ['Um terço curto rezado nas contas do rosário, suplicando a misericórdia do Pai pela Paixão de Cristo.', '10 min'],
+    'stations-cross': ['A Paixão de Cristo meditada em quatorze passos, da condenação ao sepultamento.', '30 min'],
+  }
+  const order = ['angelus', 'gospel-of-the-day', 'examination-of-conscience', 'spiritual-reading', 'morning-offering', 'rosary', 'visit-blessed-sacrament']
+  const held = { 'examination-of-conscience': hue.night, 'morning-offering': hue.dawn, rosary: hue.dusk }
+  // A · candidates as open beads on a thread, the rule sheet's own drawing.
+  const trow = (id, i, n) => {
+    const c = held[id], h = 96, x = 26 + 9 * Math.sin(i * 1.1), xp = 26 + 9 * Math.sin((i - 1) * 1.1), xn = 26 + 9 * Math.sin((i + 1) * 1.1)
+    const path = `${i > 0 ? `M${(xp + x) / 2},0 L` : 'M'}${x},${h / 2}${i < n - 1 ? ` L${(x + xn) / 2},${h}` : ''}`
+    const bead = c ? `<circle cx="${x}" cy="${h / 2}" r="9" fill="${c}"/>` : `<circle cx="${x}" cy="${h / 2}" r="11" fill="#0e0d0c" stroke="#d4a63a" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M${x - 4},${h / 2}h8M${x},${h / 2 - 4}v8" stroke="#d4a63a" stroke-width="1.4" stroke-linecap="round"/>`
+    const svg = `<svg width="52" height="${h}" data-x="${x}"><path d="${path}" stroke="#d4a63a" stroke-opacity=".4" stroke-dasharray="3 4" fill="none"/>${bead}</svg>`
+    return `<div class="trow">${c ? svg : `<button class="tb" aria-label="Acrescentar ${R[id][2]}">${svg}</button>`}<div class="t"><b>${R[id][2]}<small>${c ? 'na regra · ' : ''}${D[id][1]}</small></b><p>${D[id][0]}</p></div></div>`
+  }
+  const listA = `<div style="padding-top:6px">${order.map((id, i) => trow(id, i, order.length)).join('')}</div>`
+  const listB = `<div class="grid2">${order.map((id) => big(id, 163, held[id] ?? 'add')).join('')}</div>`
+  const crow = (id) => `<div class="crow">${icon(R[id][1], 22)}<span class="n">${R[id][2]}</span><small>${held[id] ? 'na regra · ' : ''}${D[id][1]}</small></div>`
+  const listC = `<div style="padding-top:6px">${crow('angelus')}<div class="open">${crow('gospel-of-the-day')}<p>${D['gospel-of-the-day'][0]}</p><div class="chips"><span class="chip">todo dia</span><span class="chip">às 7h00</span><span class="chip" style="border-color:var(--border);color:var(--muted)">ideal</span></div><div class="btn" data-btn>Acrescentar à regra</div></div>${order.slice(2).map(crow).join('')}</div>`
+  const dcard = (id, why, fact, cta) => `<div class="dcard"><div class="why2">${why}</div><div class="top">${big(id, 104)}<div><h5>${R[id][2]}</h5><div class="fact">${fact}</div></div></div><p>${D[id][0]}</p><div class="btn" data-btn>${cta}</div></div>`
+  const listD = lsec('Sugeridas para você') + `<div class="deck">${dcard('chaplet-of-divine-mercy', 'Você já reza', '6 vezes neste mês, sempre perto das 15h', 'Acrescentar · todo dia às 15h')}${dcard('angelus', 'Falta no seu dia', 'Nada ainda ao meio-dia', 'Acrescentar · às 12h')}</div><div class="dots"><i class="on"></i><i></i><i></i><i></i><i></i></div>` + lsec('De cada dia · 65') + `<div>${order.slice(0, 4).map((id, i) => trow(id, i, 4)).join('')}</div>`
+  const tabs5 = (on) => facetRow(ruleTabs, on)
+  document.getElementById('r5').innerHTML = [
+    col('A · O cordão por pendurar', 'The list is drawn like the rule sheet: a thread down the left, an open bead for each practice not yet hung, a filled one in its hour\'s hue for those that are. Each says in two lines what it is. No tile at all.', page('Acrescentar à regra', tabs5(1) + listA, bar3), true),
+    col('B · Santinhos em grade', 'The holy cards at the size they are legible, two across, bead on the corner. The card is the whole row, so nothing is said twice. Prettiest, but still tells you only a name and a duration.', page('Acrescentar à regra', tabs5(1) + listB, bar3)),
+    col('C · A linha que se abre', 'Plain one-line rows; tapping one opens it in place with its description, when it would fall, and one button. Nothing is added without being read first, and the “when” question is answered in the row instead of a sheet.', page('Acrescentar à regra', tabs5(1) + listC, bar3)),
+    col('D · Sugestões em cartas', 'For the first tab only: each suggestion is a large card you swipe sideways, with its reason, its description and a button that already names the hour. The fuller list (drawn as A) continues below.', page('Acrescentar à regra', tabs5(0) + listD, bar3)),
+  ].join('')
+  document.getElementById('r5').addEventListener('click', (e) => {
+    const tb = e.target.closest('button.tb'), btn = e.target.closest('[data-btn]')
+    if (tb) {
+      const svg = tb.querySelector('svg'), x = svg.dataset.x, on = tb.dataset.on === '1'
+      tb.dataset.on = on ? '' : '1'
+      svg.querySelectorAll('circle, path:not(:first-child)').forEach((n) => n.remove())
+      svg.insertAdjacentHTML('beforeend', on ? `<circle cx="${x}" cy="48" r="11" fill="#0e0d0c" stroke="#d4a63a" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M${x - 4},48h8M${x},44v8" stroke="#d4a63a" stroke-width="1.4" stroke-linecap="round"/>` : `<circle cx="${x}" cy="48" r="9" fill="#e3b04b"/>`)
+    } else if (btn) {
+      const on = btn.dataset.on === '1'
+      btn.dataset.on = on ? '' : '1'
+      if (!on) btn.dataset.label = btn.textContent
+      btn.textContent = on ? btn.dataset.label : '✓ Na regra'
+      btn.classList.toggle('outline', !on)
+    } else {
+      const b = e.target.closest('button.add')
+      if (!b) return
+      const on = b.dataset.on === '1'
+      b.dataset.on = on ? '' : '1'
+      b.innerHTML = on ? plusBead() : doneBead(b.dataset.c)
+    }
+    const phone = e.target.closest('.phone'), bar = phone?.querySelector('.bar')
+    if (!bar) return
+    const n = phone.querySelectorAll('[data-on="1"]').length
     bar.hidden = n === 0
     bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
   })
