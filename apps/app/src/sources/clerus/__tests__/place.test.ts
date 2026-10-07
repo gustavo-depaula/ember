@@ -34,3 +34,46 @@ describe('parseClerusPlace', () => {
     expect(parseClerusPlace(page, 'zz9')).toEqual([])
   })
 })
+
+describe('parseClerusPlace, the other ways a page is set', () => {
+  // The last section of Evangelii nuntiandi: its note is "135. …", called as
+  // "(135)", and the page's footer follows it.
+  const last = parseClerusPlace(
+    decodeWindows1252(
+      new Uint8Array(readFileSync(join(__dirname, '../__fixtures__/evangelii-nuntiandi.htm'))),
+    ),
+    'gd',
+  )
+
+  it('stops before a note set as a numbered line, and before the footer', () => {
+    const text = last.join(' ')
+    expect(text).toMatch(/PAULUS PP\. VI$/)
+    expect(text).not.toMatch(/Ph 1,3-4|Evangelii nuntiandi PT/)
+  })
+
+  it('drops a call set in brackets', () => {
+    expect(last.join(' ')).toMatch(/ternura de Cristo Jesus"\. Dado em Roma/)
+  })
+
+  it('reads past a heading set inside a section, to the next numbered one', () => {
+    const page =
+      '<a name=ab><b>7</b> First.[12]<br><br><a Name=q><h2><a href=s.htm#q>A heading</a></h2>Second.' +
+      '<br><br>[12] A note.<br><br><a name=ac><b>8</b> Next.'
+    expect(parseClerusPlace(page, 'ab')).toEqual(['First.', 'Second.'])
+  })
+
+  it('drops bare calls wherever the documents set them', () => {
+    const page =
+      '<a name=ab><b>7</b> Se Cristo « se uniu a cada homem », 115 a Igreja vive. 116 Se este Corpo, ' +
+      'como disse Paulo de Tarso46, tem 12 apóstolos e 3 pessoas.<br><br><a name=ac><b>8</b> Next.'
+    expect(parseClerusPlace(page, 'ab')).toEqual([
+      'Se Cristo « se uniu a cada homem », a Igreja vive. Se este Corpo, como disse Paulo de Tarso, tem 12 apóstolos e 3 pessoas.',
+    ])
+  })
+
+  it('keeps a numbered line that no call in the text points to', () => {
+    const page =
+      '<a name=ab><b>7</b> Three things:<br><br> 1. The first.<br><br><a name=ac><b>8</b> Next.'
+    expect(parseClerusPlace(page, 'ab')).toEqual(['Three things:', '1. The first.'])
+  })
+})

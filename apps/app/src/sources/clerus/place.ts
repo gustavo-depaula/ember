@@ -26,33 +26,62 @@ export function decodeWindows1252(bytes: Uint8Array): string {
 
 const entities: Record<string, string> = { amp: '&', lt: '<', gt: '>', quot: '"', nbsp: ' ' }
 
+// A footnote where it is printed, in the ways the documents set one:
+// "<b>95</b>. …", "(95) …", "[95] …" and "95. …".
+const note = /<br>\s*(?:<b>(\d+)<\/b>\.?|\((\d+)\)|\[(\d+)\]|(\d+)\.) /gi
+
+/** Where a section's footnotes begin, or its whole length when it prints none. */
+function notesStart(section: string): number {
+  for (const match of section.matchAll(note)) {
+    const before = section.slice(0, match.index)
+    // "12. …" opening a line is a footnote only if the text above calls it:
+    // a section can number its own points.
+    const plain = match[4]
+    if (plain === undefined || before.includes(`(${plain})`) || before.includes(`[${plain}]`)) {
+      return match.index
+    }
+  }
+  return section.length
+}
+
 /**
  * The section of a Clerus page that sits under `anchor`, as paragraphs of
- * plain text. A section runs to the next anchor; a document's footnotes are
- * printed after the section that calls them ("<b>95</b>. Conc. Ecum. …"), and
- * are left out, as are the numbers that call them.
+ * plain text. A section runs to the next numbered one or the page's footer; a
+ * document's footnotes are printed after a section that calls them, and are
+ * left out, as are the numbers that call them and the headings set between
+ * sections.
  */
 export function parseClerusPlace(page: string, anchor: string): string[] {
-  const opening = new RegExp(`<a name=${anchor}>`, 'i').exec(page)
+  const opening = new RegExp(`<a name=${anchor}>`).exec(page)
   if (!opening) return []
   const rest = page.slice(opening.index + opening[0].length)
-  const next = rest.search(/<a name=\w+>/i)
-  const section = (next < 0 ? rest : rest.slice(0, next))
+  // A heading has an anchor of its own ("<a Name=dq><h2>"), so only a
+  // numbered anchor ends the section.
+  const next = rest.search(/<a name=\w+><b>\d+<\/b>|<hr><center>/)
+  const block = (next < 0 ? rest : rest.slice(0, next))
     // The section's own number opens it; the reader has it in the label.
     .replace(/^\s*<b>\d+<\/b>\.?/, '')
-    .split(/<br>\s*<b>\d+<\/b>\./i)[0]
-  return section
+    .replace(/<h\d>.*?<\/h\d>/gis, '<br><br>')
+  return block
+    .slice(0, notesStart(block))
     .split(/(?:<br\s*\/?>\s*){2,}/i)
     .map((paragraph) =>
       paragraph
         .replace(/<br\s*\/?>/gi, ' ')
         .replace(/<[^>]+>/g, '')
         .replace(/&(\w+);/g, (whole, name: string) => entities[name] ?? whole)
-        .replace(/­/g, '')
-        // A footnote's call: a bare number after a word or a closing quotation
-        // mark, glued to the stop that ends a sentence, or closing the paragraph.
-        .replace(/(?<=[»”"\p{L}]) \d{1,3}(?=[\s,.;:)])/gu, '')
-        .replace(/(?<=[»”"][.,;:])\d{1,3}(?=\s|$)/g, '')
+        .replace(/\u00ad/g, '')
+        // A footnote's call: a number in brackets, or a bare one after a word
+        // or a closing quotation mark, glued to a word ("Tarso46") or to the
+        // stop that ends a sentence, between a stop and the next sentence
+        // (". 116 Se"), or closing the paragraph.
+        .replace(/ ?[([]\d{1,3}[)\]]/g, '')
+        // After a word, only before a stop: "tem 12 apóstolos" is the text's own.
+        .replace(/(?<=[»”"]) \d{1,3}(?=[\s,.;:)])/g, '')
+        .replace(/(?<=\p{L}) \d{1,3}(?=[,.;:)])/gu, '')
+        .replace(/(?<=[»”"][.,;:]) ?\d{1,3}(?=\s|$)/g, '')
+        .replace(/(?<=\p{Ll}{3})\d{1,3}(?=[\s,.;:)]|$)/gu, '')
+        .replace(/(?<=[\p{L}»”"][.!?]) \d{1,3}(?= \p{Lu})/gu, '')
         .replace(/(?<=[.!?»”"]) \d{1,3}$/, '')
         .replace(/\s+/g, ' ')
         .trim(),

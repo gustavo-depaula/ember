@@ -43,7 +43,7 @@ In the app, on the verse's own page in the Bible reader:
 
 - **The Fathers preaching on the passage**, for the works the corpus holds in English: 733 passages link to a homily of Chrysostom (on Matthew, John, Acts and fourteen of Paul's letters) or of Augustine (the Tractates on John, the Expositions of the Psalms, the homilies on 1 John, On the Sermon on the Mount). Each opens in the book reader.
 - **The Catechism's paragraphs**: 4,130 citations on 1,126 passages. Not from Clerus's index (see below) but from the Catechism's own footnotes on Clerus's pages.
-- **Councils and popes**: 8,226 citations of 112 documents Clerus has in Portuguese (Vatican II, encyclicals and exhortations from Leo XIII to Francis). A section's text is read from Clerus when opened.
+- **Councils and popes**: 7,776 citations of 102 documents Clerus has in Portuguese (Vatican II, encyclicals and exhortations from Leo XIII to Francis), taken from the documents' own pages, not from the index. A section's text is read from Clerus when opened.
 
 ## What was checked
 
@@ -54,11 +54,14 @@ Samples drawn at random and checked by hand-reading (by Sonnet subagents, each i
 | Homilies → the corpus's books | 48 | 44 right. Clerus's homily numbers are the corpus's for every series checked. The misses: one off by one in Acts (Clerus's own); two in On the Sermon on the Mount, since fixed by taking the book from the chapter; one where the corpus's text of Augustine's tenth homily on 1 John is cut short. |
 | Catechism, as Clerus indexes it | 40 | **19 right, 21 wrong.** Clerus prints a section's footnotes after the section's last paragraph and credits them all to it. The paragraph numbers are real; the attributions are not. |
 | Catechism, rebuilt from its footnotes | 40 | **40 right.** Each was checked against the paragraph's own footnote marks in the English Catechism, Psalms renumbered. It tests that a paragraph cites a verse inside the passage, not that the slice has every citation. |
-| Councils and popes | 30 | See the note below the table. |
+| Councils and popes, as Clerus indexes them | 30 | 25 right. One credited to the last section of Mediator Dei, which prints the whole encyclical's notes after it; four on a passage the section does not cite (three of them a passage that runs across two chapters, shown under the chapter the citation is not in). Both of Redemptor hominis's links named the page beside the one the section is on. Three of the 25 rest on a chapter cited whole ("cf. Mt 5-7"). |
+| Councils and popes, rebuilt from the documents | 30 | **30 right**, on a fresh sample: 21 cited in the section's own text, 9 in a note the section calls (one of them printed on the next page). |
 
 The Catechism slice was rebuilt: `catechism()` in the script reads the Catechism's pages, and takes each footnote back to the paragraph that calls it. Fourteen of fifteen corrections the first check named are in the rebuilt slice, and none of the wrong attributions it named.
 
-**The fault very likely runs through the rest of the index**, wherever a work's notes are gathered at the end of a group of sections. Anything taken from `index.jsonl.gz` for a work with footnotes should be checked the same way before it is shown.
+The councils' and popes' documents were rebuilt the same way: `document()` walks a document's pages from any one of them, takes each note back to the section that calls it, and takes a section's page from where it is. A chapter cited whole is left out, except a psalm. Of the first sample's five faults, the rebuilt slice drops the three that were wrong and keeps the two cross-chapter ones, which are right for the passage as Clerus divides it. Miranda prorsus (14 citations) is lost: its sections are headings, not numbers.
+
+**The fault runs through the index**, wherever a work's notes are gathered at the end of a group of sections, and its links can name the wrong page. Anything taken from `index.jsonl.gz` for a work with footnotes should be rebuilt from the work's own pages before it is shown.
 ## What it is not
 
 - **By passage, not by verse.** A citation of John 1:14 is filed under John 1:1–18. The app says so in the heading.

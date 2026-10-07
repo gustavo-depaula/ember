@@ -256,15 +256,10 @@ def catechism(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, i
     library = fetch(cache, "66m")
     contents = re.search(r"<a href=(\w+)\.htm target=m>Catecismo Igreja Cat", library).group(1)
     pages = dict.fromkeys(re.findall(r'href="?([a-z0-9]+)\.htm#', fetch(cache, contents), re.I))
-    reference = re.compile(r"<a href=\w+\.htm#\w+>(\w+) (\d+)(?:,(\d+)(?:-(\d+))?)?[^<]*</a>")
     found: list[tuple[int, str, int, int | None, int | None]] = []
 
     def cite(paragraph: int, markup: str) -> None:
-        for book, chapter, first, last in reference.findall(markup):
-            if book in slugs:
-                found.append(
-                    (paragraph, slugs[book], int(chapter), int(first) if first else None, int(last or first) if first else None)
-                )
+        found.extend((paragraph, *reference) for reference in references(markup, slugs))
 
     for page in pages:
         text = fetch(cache, page)
@@ -290,19 +285,110 @@ def catechism(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, i
     return found
 
 
-def magisterium(cited: list[dict]) -> list[dict]:
-    """The councils' and popes' documents that cite a passage, for those Clerus
-    has in Portuguese (it marks them " PT"): {work, places: [[number, file,
-    anchor]]}. The app reads the numbered section from Clerus, at that anchor."""
-    out: dict[str, list] = {}
-    for entry in cited:
-        if not entry["work"].endswith(" PT"):
+REFERENCE = re.compile(r"<a href=\w+\.htm#\w+>(\w+) (\d+)(?:,(\d+)(?:-(?:(\d+),)?(\d+))?)?[^<]*</a>")
+
+
+def references(markup: str, slugs: dict[str, str]) -> list[tuple[str, int, int | None, int | None]]:
+    """The Scripture a stretch of a page links to: (book, chapter, first verse,
+    last verse), the verses None where a chapter is cited whole. A reference
+    that runs into another chapter ("Sb 11,23-12,2") is given as two."""
+    out: list[tuple[str, int, int | None, int | None]] = []
+    for book, chapter, first, end_chapter, last in REFERENCE.findall(markup):
+        if book not in slugs:
             continue
-        places = out.setdefault(entry["work"][:-3], [])
-        for file, anchor, label in entry["places"]:
-            if label.isdigit() and [label, file, anchor] not in places:
-                places.append([label, file, anchor])
-    return [{"work": work, "places": places} for work, places in out.items() if places]
+        if not first:
+            out.append((slugs[book], int(chapter), None, None))
+        elif end_chapter and int(end_chapter) > int(chapter):
+            out.append((slugs[book], int(chapter), int(first), END))
+            out.append((slugs[book], int(end_chapter), 1, int(last)))
+        else:
+            out.append((slugs[book], int(chapter), int(first), int(last or first)))
+    return out
+# A footnote where it is printed, in the four ways the documents set one:
+# "<b>95</b>. …", "(95) …", "[95] …" and "95. …".
+NOTE = re.compile(r"<br>\s*(?:<b>(\d+)</b>\.?|\((\d+)\)|\[(\d+)\]|(\d+)\.) ")
+CALLS = {
+    "paren": re.compile(r"\((\d{1,3})\)"),
+    "bracket": re.compile(r"\[(\d{1,3})\]"),
+    # A bare number after a word or a closing quotation mark.
+    "bare": re.compile(r"(?:(?<=[»”\"\w.,;:!?] )|(?<=[»”\"a-zà-ú][.,;:])|(?<=[a-zà-ú]{3}))(\d{1,3})(?=[\s,.;:)<])"),
+}
+
+
+def pages_of(cache: Path, work: str, seed: str) -> list[str]:
+    """A document's pages in order, from any one of them. A page names its
+    document in its footer and links the pages before and after it."""
+    def of_work(page: str) -> bool:
+        footer = re.search(r"<hr><center><font[^>]*><b> ([^<]+)</b>", fetch(cache, page))
+        return footer is not None and (footer.group(1) == work or footer.group(1).startswith(work + " "))
+
+    def beside(page: str, title: str) -> str | None:
+        link = re.search(rf"<a href=(\w+)\.htm><img title={title} ", fetch(cache, page))
+        return link.group(1) if link and of_work(link.group(1)) else None
+
+    first = seed
+    while (before := beside(first, "Vor")) is not None:
+        first = before
+    pages = [first]
+    while (after := beside(pages[-1], "Nach")) is not None:
+        pages.append(after)
+    return pages
+
+
+def document(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[tuple]:
+    """Every Scripture reference in a document, from its own text on Clerus:
+    (number, file, anchor, book, chapter, first verse, last verse) for the
+    numbered section that makes it.
+
+    Clerus's citation pages cannot be used for this either. A document's notes
+    are printed after a section, a group of sections or the whole document, and
+    are indexed to the section they are printed after; some links name the page
+    beside the one the section is on. Here a note goes back to the section that
+    calls it, and a section is where its page has it.
+    """
+    pages = [(page, fetch(cache, page)) for page in pages_of(cache, work, seed)]
+    whole = "".join(text for _page, text in pages)
+    notes_printed = len(NOTE.findall(whole))
+    # How the document calls its notes: "(95)", "[95]", or the bare number. A
+    # note can open with the same mark, so the notes' own are not counted.
+    called = NOTE.sub(" ", whole)
+    style = next(
+        (name for name in ("paren", "bracket") if len(CALLS[name].findall(called)) * 2 >= max(notes_printed, 1)),
+        "bare",
+    )
+    found: list[tuple] = []
+    calls: dict[str, tuple[str, str, str]] = {}
+
+    def cite(section: tuple[str, str, str], markup: str) -> None:
+        # A chapter cited whole ("cf. Mt 5-7") says nothing of a passage in
+        # it; a psalm cited whole is its passage.
+        found.extend(
+            (*section, *reference)
+            for reference in references(markup, slugs)
+            if reference[2] or reference[0] == "psalms"
+        )
+
+    for page, text in pages:
+        text = text.split("<hr><center>")[0]
+        blocks = re.split(r"<a name=(\w+)><b>(\d+)</b>", text)
+        for anchor, number, block in zip(blocks[1::3], blocks[2::3], blocks[3::3]):
+            section = (number, page, anchor)
+            parts = NOTE.split(block)
+            body = parts[0]
+            notes = [(next(n for n in parts[i : i + 4] if n), parts[i + 4]) for i in range(1, len(parts), 5)]
+            own = set(CALLS[style].findall(body))
+            # A bare number is often not a call, so an earlier section is
+            # believed over this one only where the notes are plainly not its
+            # own: a list for the sections before, or for the whole document.
+            listed = style != "bare" or sum(n in own for n, _ in notes) * 2 < len(notes)
+            cite(section, body)
+            for n in own:
+                calls[n] = section
+            for n, markup in notes:
+                caller = section if n in own or not listed else calls.get(n, section)
+                calls.pop(n, None)
+                cite(caller, markup)
+    return found
 
 
 def citations(page: str) -> list[dict]:
@@ -344,6 +430,17 @@ def main() -> None:
     cited_by_catechism: dict[tuple[str, int], list[tuple[int, int | None, int | None]]] = {}
     for paragraph, book, c, first, last in catechism(cache, slugs):
         cited_by_catechism.setdefault((book, c), []).append((paragraph, first, last))
+    # The documents Clerus has in Portuguese (it marks them " PT"), in the
+    # order its citation pages first name them, each with a page to start from.
+    seeds: dict[str, str] = {}
+    for _slug, _reference, cite in passages:
+        for entry in citations(fetch(cache, cite)):
+            if entry["work"].endswith(" PT") and any(label.isdigit() for _f, _a, label in entry["places"]):
+                seeds.setdefault(entry["work"], entry["places"][0][0])
+    cited_by_documents: dict[tuple[str, int], list[tuple]] = {}
+    for work, seed in seeds.items():
+        for number, file, anchor, book, c, first, last in document(cache, work, seed, slugs):
+            cited_by_documents.setdefault((book, c), []).append((work[:-3], [number, file, anchor], first, last))
     works: Counter[tuple[str, str]] = Counter()
     by_book: dict[str, dict[str, list]] = {}
     links = 0
@@ -377,7 +474,14 @@ def main() -> None:
                 }
             )
             homilies = homilies_on(slug, chapter, cited, books)
-            documents = magisterium(cited)
+            by_work: dict[str, list] = {}
+            for c in range(chapter, end_chapter + 1):
+                for work, place, first, last in cited_by_documents.get((slug, c), []):
+                    if first is None or ((c, last) >= (chapter, verse) and (c, first) <= (end_chapter, end_verse)):
+                        places = by_work.setdefault(work, [])
+                        if place not in places:
+                            places.append(place)
+            documents = [{"work": work, "places": places} for work, places in by_work.items()]
             # A passage that runs into the next chapter is listed under each
             # chapter it touches, with the verses it covers there.
             for c in range(chapter, end_chapter + 1):
