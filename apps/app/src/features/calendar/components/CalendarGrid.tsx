@@ -6,6 +6,7 @@ import { AnimatedPressable } from '@/components'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { type DayCalendar, getLiturgicalDayName, rankColors } from '@/lib/liturgical'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 const dayKeys = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'] as const
 
@@ -81,6 +82,7 @@ export function CalendarGrid({
   onSelectDay: (day: number) => void
 }) {
   const { t } = useTranslation()
+  const transfers = useOfTransfers()
   const today = useToday()
   const isCurrentMonth = today.getFullYear() === year && today.getMonth() + 1 === month
   const todayDay = isCurrentMonth ? today.getDate() : -1
@@ -141,9 +143,12 @@ export function CalendarGrid({
               // named in the calendar data, so fall back to the day name.
               const celebrationName = celebration?.principal
                 ? localizeContent(celebration.principal.entry.name) ||
-                  getLiturgicalDayName(new Date(year, month - 1, day), 'of', {
-                    t: (k, o) => t(k, o) as string,
-                  })
+                  getLiturgicalDayName(
+                    new Date(year, month - 1, day),
+                    'of',
+                    { t: (k, o) => t(k, o) as string },
+                    transfers,
+                  )
                 : undefined
               const label = celebrationName ? `${day}, ${celebrationName}` : String(day)
               return (

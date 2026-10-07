@@ -16,6 +16,7 @@ import {
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import { useStableToday, useToday } from '@/hooks/useToday'
 import { getCelebrationsForDate, getLiturgicalSeason } from '@/lib/liturgical'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 /**
  * The plan of life as it stands on the day Today shows: the slots due that day
@@ -28,7 +29,8 @@ export function useTodayPlan() {
   const now = useToday()
   const selectedDate = format(now, 'yyyy-MM-dd')
   const anchorDate = format(useStableToday(), 'yyyy-MM-dd')
-  const season = useMemo(() => getLiturgicalSeason(now), [now])
+  const transfers = useOfTransfers()
+  const season = useMemo(() => getLiturgicalSeason(now, 'of', transfers), [now, transfers])
 
   const slots = useSlots()
   const completedIds = useCompletedSlots(selectedDate)

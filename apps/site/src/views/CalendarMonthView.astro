@@ -1,5 +1,6 @@
 ---
 import { getLiturgicalDayName, rankColors } from '@ember/liturgical'
+import { transfersForContentLang } from '@/lib/missal/loaders'
 import Base from '~/layouts/Base.astro'
 import { calendarYears, monthName } from '~/lib/dates'
 import { efYear, loadOfMonth } from '~/lib/liturgy'
@@ -16,6 +17,7 @@ interface Props {
 
 const { locale, alternates, year, month } = Astro.props
 const t = translator(locale)
+const transfers = transfersForContentLang(locale)
 const pt = locale === 'pt-BR'
 const days = await loadOfMonth(year, month, locale)
 const ef = await efYear(year)
@@ -60,7 +62,7 @@ const description = pt
             <span>{d.date.getDate()}</span>
             <i style={d.principal ? `background:${rankColors[d.principal.rank as keyof typeof rankColors]}` : undefined} class={d.principal?.rank === 'feast' ? 'ring' : ''} />
           </span>
-          <span class="cell-name">{d.principal?.name ?? (d.date.getDay() === 0 ? getLiturgicalDayName(d.date, 'of', { t }) : '')}</span>
+          <span class="cell-name">{d.principal?.name ?? (d.date.getDay() === 0 ? getLiturgicalDayName(d.date, 'of', { t }, transfers) : '')}</span>
           <span class="cell-old" lang="la">{ef.get(`${d.date.getMonth() + 1}-${d.date.getDate()}`)?.name}</span>
         </a>
       ))}
@@ -82,7 +84,7 @@ const description = pt
                     <span class="t-kicker" style="display:block">{t(`calendar.rank.${d.principal.rank}`)}</span>
                   </>
                 )}
-                {!d.principal && sunday && <span class="row-title">{getLiturgicalDayName(d.date, 'of', { t })}</span>}
+                {!d.principal && sunday && <span class="row-title">{getLiturgicalDayName(d.date, 'of', { t }, transfers)}</span>}
                 {old && <span class="t-annotation old" lang="la">1962 · {old.name}</span>}
               </span>
             </a>

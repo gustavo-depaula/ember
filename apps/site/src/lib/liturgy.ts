@@ -29,7 +29,12 @@ import { QueryClient } from '@tanstack/react-query'
 import type { Primitive } from '@/content/primitives'
 import { getAlternativeGroup } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
-import { corpusMissal, loadMissalCalendar, regionsForContentLang } from '@/lib/missal/loaders'
+import {
+  corpusMissal,
+  loadMissalCalendar,
+  regionsForContentLang,
+  transfersForContentLang,
+} from '@/lib/missal/loaders'
 import { doHourSource } from '@/sources/divinum-officium/do-hour'
 import { createCorpusDoLoader } from '@/sources/divinum-officium/loader'
 import type { SourceFetchContext } from '@/sources/types'
@@ -98,7 +103,8 @@ export async function loadOfDay(date: Date, locale: Locale): Promise<OfDayView> 
   const day = resolveOfDay(date, missal, { regions: regionsForContentLang(locale) })
   const calendar = await ofYear(date.getFullYear(), locale)
   return withLocale(locale, async () => {
-    const dayName = getLiturgicalDayName(date, 'of', { t })
+    const transfers = transfersForContentLang(locale)
+    const dayName = getLiturgicalDayName(date, 'of', { t }, transfers)
     const lang = locale as Lang
     const principal = day.celebrations[0]
     const plan = principal
@@ -130,8 +136,8 @@ export async function loadOfDay(date: Date, locale: Locale): Promise<OfDayView> 
     return {
       date,
       dayName,
-      season: getLiturgicalSeason(date, 'of'),
-      seasonName: t(`home.seasonName.${getLiturgicalSeason(date, 'of')}`),
+      season: getLiturgicalSeason(date, 'of', transfers),
+      seasonName: t(`home.seasonName.${getLiturgicalSeason(date, 'of', transfers)}`),
       color: celebrations[0]?.color,
       cycle: date.getDay() === 0 ? day.cycle : `${day.cycle} · ${day.weekdayCycle}`,
       celebrations,
@@ -160,7 +166,7 @@ export async function loadOfMonth(year: number, month: number, locale: Locale) {
       principal: entry && {
         name:
           withLocale(locale, () => localizeContent(entry.entry.name as Localized)) ||
-          getLiturgicalDayName(date, 'of', { t }),
+          getLiturgicalDayName(date, 'of', { t }, transfersForContentLang(locale)),
         rank: entry.rank,
       },
     })

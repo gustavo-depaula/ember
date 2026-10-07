@@ -22,6 +22,7 @@ import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason } from '@/lib/liturgical'
 import { useGospelOfTheDay } from '@/lib/missal/use-gospel-of-the-day'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 import { ArtCarousel } from './ArtCarousel'
 import { artFor } from './artMap'
 import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'
@@ -55,7 +56,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
   const today = useToday()
-  const season = getLiturgicalSeason(today)
+  const season = getLiturgicalSeason(today, 'of', useOfTransfers())
   const saint = useSaintOfDay()
   const celebrationDisplay = useCelebrationDisplay(saint?.celebration)
   const { data: gospel } = useGospelOfTheDay()
@@ -194,7 +195,7 @@ export function DailyMeditations() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
   const today = useToday()
-  const featured = pickFeatured(getLiturgicalSeason(today), today)
+  const featured = pickFeatured(getLiturgicalSeason(today, 'of', useOfTransfers()), today)
   const prayed = usePrayedOn(format(today, 'yyyy-MM-dd'))
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion

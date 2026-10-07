@@ -1,7 +1,15 @@
 // Loaders for the Ordinary Form missal in the corpus. Every item is one
 // multilingual blob whose catalog entry points straight at the data.
 
-import type { Doc, Formulary, Lectionary, MissalCalendar, MissalSource } from '@ember/missal'
+import {
+  type Doc,
+  type Formulary,
+  type Lectionary,
+  type MissalCalendar,
+  type MissalSource,
+  type Transfers,
+  transfersFor,
+} from '@ember/missal'
 import { getEntry } from '@/content/contentIndex'
 import { getJson } from '@/content/store'
 
@@ -39,4 +47,11 @@ export function regionsForContentLang(lang: string): string[] {
   if (lang === 'pt-BR') return ['brazil']
   if (lang === 'en' || lang === 'en-US') return ['united-states']
   return []
+}
+
+// Where that calendar keeps Epiphany, the Ascension and Corpus Christi. Every
+// surface that names a day or a season passes this on, so none of them places
+// a day differently from the Mass.
+export function transfersForContentLang(lang: string): Transfers {
+  return transfersFor({ regions: regionsForContentLang(lang) })
 }

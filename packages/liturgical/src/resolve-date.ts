@@ -1,6 +1,13 @@
-import { addDays } from 'date-fns'
+import { addDays, startOfDay } from 'date-fns'
 
 import type { LiturgicalAnchor } from './calendar-types'
+import {
+  ascensionOffset,
+  corpusChristiOffset,
+  epiphany,
+  holyFamily,
+  universalTransfers,
+} from './of-temporal'
 import {
   computeEaster,
   getAshWednesday,
@@ -9,6 +16,8 @@ import {
   getSeptuagesimaSunday,
 } from './season'
 
+// The dates of the General Calendar: Epiphany on 6 January, the Ascension and
+// Corpus Christi on their Thursdays.
 export function computeAnchors(year: number): Record<LiturgicalAnchor, Date> {
   const easter = computeEaster(year)
   const ashWednesday = getAshWednesday(year)
@@ -17,9 +26,9 @@ export function computeAnchors(year: number): Record<LiturgicalAnchor, Date> {
   return {
     easter,
     pentecost: addDays(easter, 49),
-    ascension: addDays(easter, 39),
+    ascension: addDays(easter, ascensionOffset(universalTransfers)),
     trinity_sunday: addDays(easter, 56),
-    corpus_christi: addDays(easter, 60),
+    corpus_christi: addDays(easter, corpusChristiOffset(universalTransfers)),
     sacred_heart: addDays(easter, 68),
 
     advent_1: advent1,
@@ -45,18 +54,8 @@ export function computeAnchors(year: number): Record<LiturgicalAnchor, Date> {
 
     christ_the_king: addDays(advent1, -7),
     christmas: new Date(year, 11, 25),
-    holy_family: computeHolyFamily(year),
-    epiphany: new Date(year, 0, 6),
+    holy_family: startOfDay(holyFamily(year)),
+    epiphany: startOfDay(epiphany(year, universalTransfers)),
     baptism_of_the_lord: getBaptismOfTheLord(year),
   }
-}
-
-// The Sunday within the octave of Christmas, or 30 December when Christmas
-// itself is the Sunday.
-function computeHolyFamily(year: number): Date {
-  for (let day = 26; day <= 31; day++) {
-    const candidate = new Date(year, 11, day)
-    if (candidate.getDay() === 0) return candidate
-  }
-  return new Date(year, 11, 30)
 }

@@ -17,6 +17,7 @@ import { useYearCalendar } from '@/features/calendar'
 import { useMinuteOfDay } from '@/hooks/useCurrentHour'
 import { useToday } from '@/hooks/useToday'
 import { getCelebrationsForDate, getLiturgicalSeason } from '@/lib/liturgical'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 import { type ChronicleDay, type ChronicleProgram, chronicleDay } from './chronicle'
 import { programDayDates } from './program'
@@ -56,15 +57,16 @@ function useContextFor() {
   const today = useToday()
   const { data: thisYear } = useYearCalendar(today.getFullYear())
   const { data: lastYear } = useYearCalendar(today.getFullYear() - 1)
+  const transfers = useOfTransfers()
   return useMemo(
     () => (date: Date) => {
       const year = date.getFullYear() === today.getFullYear() ? thisYear : lastYear
       return {
-        season: getLiturgicalSeason(date),
+        season: getLiturgicalSeason(date, 'of', transfers),
         dayCalendar: year ? getCelebrationsForDate(year, date) : undefined,
       }
     },
-    [today, thisYear, lastYear],
+    [today, thisYear, lastYear, transfers],
   )
 }
 
