@@ -676,6 +676,8 @@ export default {
     church: {
       title: 'A Igreja sobre {{passage}}',
       catechism: 'O Catecismo cita esta passagem em:',
+      catechismVerse: 'O Catecismo cita este versículo em:',
+      catechismElsewhere: 'O Catecismo sobre o resto da passagem, em:',
       homilies: 'Os Padres pregando sobre ela (em inglês):',
       'john-chrysostom': {
         homily: 'São João Crisóstomo, Homilia {{n}}',
@@ -687,7 +689,9 @@ export default {
         book: 'Santo Agostinho, O Sermão da Montanha, Livro {{n}}',
       },
       catechismName: 'Catecismo da Igreja Católica',
-      magisterium: 'Concílios e papas que a citam:',
+      magisterium: 'Concílios e papas que citam a passagem:',
+      magisteriumVerse: 'Concílios e papas que citam este versículo:',
+      magisteriumElsewhere: 'Concílios e papas sobre o resto da passagem:',
     },
     references: {
       mass: 'Lido na Missa',

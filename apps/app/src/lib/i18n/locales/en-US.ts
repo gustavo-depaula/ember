@@ -670,6 +670,8 @@ export default {
     church: {
       title: 'The Church on {{passage}}',
       catechism: 'The Catechism cites this passage at:',
+      catechismVerse: 'The Catechism cites this verse at:',
+      catechismElsewhere: 'The Catechism on the rest of the passage, at:',
       homilies: 'The Fathers preaching on it:',
       'john-chrysostom': {
         homily: 'St John Chrysostom, Homily {{n}}',
@@ -681,7 +683,9 @@ export default {
         book: 'St Augustine, On the Sermon on the Mount, Book {{n}}',
       },
       catechismName: 'Catechism of the Catholic Church',
-      magisterium: 'Councils and popes citing it (in Portuguese):',
+      magisterium: 'Councils and popes citing the passage (in Portuguese):',
+      magisteriumVerse: 'Councils and popes citing this verse (in Portuguese):',
+      magisteriumElsewhere: 'Councils and popes on the rest of the passage:',
     },
     references: {
       mass: 'Read at Mass',

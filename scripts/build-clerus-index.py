@@ -971,7 +971,18 @@ def main() -> None:
             # chapter it touches, with the verses it covers there.
             for c in range(chapter, end_chapter + 1):
                 runs = douay(slug, c, verse if c == chapter else 1, end_verse if c == end_chapter else END)
+                # Which of the passage's verses each place cites, so a verse
+                # can tell what cites it from what cites its neighbours: by
+                # the paragraph's number, or a document's "page#anchor".
+                here = [(str(paragraph), first, last) for paragraph, first, last in cited_by_catechism.get((slug, c), [])]
+                here += [(f"{place[1]}#{place[2]}", first, last) for _work, place, first, last in cited_by_documents.get((slug, c), [])]
                 for douay_chapter, start, end, label in runs:
+                    cited_verses: dict[str, list] = {}
+                    for key, first, last in here:
+                        for at_chapter, at_first, at_last, _label in douay(slug, c, first or 1, last or END):
+                            run = [at_first, at_last]
+                            if at_chapter == douay_chapter and at_last >= start and at_first <= end and run not in cited_verses.setdefault(key, []):
+                                cited_verses[key].append(run)
                     by_book.setdefault(slug, {}).setdefault(str(douay_chapter), []).append(
                         {
                             "from": start,
@@ -980,6 +991,7 @@ def main() -> None:
                             "ccc": paragraphs,
                             **({"homilies": homilies} if homilies else {}),
                             **({"magisterium": documents} if documents else {}),
+                            **({"verses": {k: v for k, v in cited_verses.items() if v}} if any(cited_verses.values()) else {}),
                         }
                     )
 

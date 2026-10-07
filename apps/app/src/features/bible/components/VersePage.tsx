@@ -11,7 +11,13 @@ import { fetchParagraphs } from '@/sources/ccc/extract'
 import { fetchClerusPlace } from '@/sources/clerus/place'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { citationsForVerse, getChapterCitations, passageLabel } from '../citations'
+import {
+  type CitingDocument,
+  citationsForVerse,
+  getChapterCitations,
+  passageLabel,
+  splitByVerse,
+} from '../citations'
 import {
   type CommentaryEntry,
   type CommentarySource,
@@ -65,6 +71,57 @@ function SourceCommentary({
   )
 }
 
+/** Paragraphs of the Catechism, each opening to its text and the Scripture it cites. */
+function CatechismParagraphs({ label, paragraphs }: { label: string; paragraphs: number[] }) {
+  const { t, i18n } = useTranslation()
+  if (paragraphs.length === 0) return undefined
+  // vatican.va has the Catechism in both of the app's languages.
+  const language = i18n.language === 'pt-BR' ? 'pt-BR' : 'en-US'
+  return (
+    <YStack gap="$sm">
+      <Typography variant="annotation" fontSize="$2">
+        {label}
+      </Typography>
+      <CitedSections
+        work={t('bible.church.catechismName')}
+        language={language}
+        sections={paragraphs.map((n) => ({ id: String(n), n: String(n) }))}
+        load={async ({ n }) => (await fetchParagraphs(Number(n), 1, language)).map((p) => p.text)}
+        after={({ n }) => <ParagraphScripture paragraph={Number(n)} />}
+      />
+    </YStack>
+  )
+}
+
+/** Documents of the councils and popes, each with its numbered sections opening to their text. */
+function CitingDocuments({ label, documents }: { label: string; documents: CitingDocument[] }) {
+  if (documents.length === 0) return undefined
+  return (
+    <YStack gap="$sm">
+      <Typography variant="annotation" fontSize="$2">
+        {label}
+      </Typography>
+      {documents.map((document) => (
+        <YStack key={document.work} gap="$xs">
+          <Typography variant="section-title" fontSize="$3">
+            {document.work}
+          </Typography>
+          <CitedSections
+            work={document.work}
+            sections={document.places.map(([n, file, anchor]) => ({ id: `${file}#${anchor}`, n }))}
+            // Clerus holds these documents in Portuguese.
+            language="pt-BR"
+            load={({ id }) => {
+              const [file, anchor] = id.split('#')
+              return fetchClerusPlace(file, anchor)
+            }}
+          />
+        </YStack>
+      ))}
+    </YStack>
+  )
+}
+
 /**
  * A verse's own page: the verse set large, then everything said of it, one
  * commentator after another and each in full. Where the half page beside the
@@ -79,7 +136,7 @@ export function VersePage({
   chapter: number
   verse: number
 }) {
-  const { t, i18n } = useTranslation()
+  const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
@@ -95,6 +152,9 @@ export function VersePage({
     staleTime: Number.POSITIVE_INFINITY,
   })
   const cited = citationsForVerse(passages ?? [], verse)
+  const split = cited ? splitByVerse(cited, verse) : undefined
+  // Whether anything cites the verse itself, which the rest is then "elsewhere" to.
+  const nearby = Boolean(split && (split.ccc.here.length || split.magisterium.here.length))
   const { data: lectures } = useQuery({
     queryKey: ['bible', 'lectures', bookId, chapter],
     queryFn: () => getLectures(bookId, chapter),
@@ -188,7 +248,9 @@ export function VersePage({
           </YStack>
         ) : undefined}
 
-        {cited && (cited.ccc.length > 0 || cited.homilies?.length || cited.magisterium?.length) ? (
+        {cited &&
+        split &&
+        (cited.ccc.length > 0 || cited.homilies?.length || cited.magisterium?.length) ? (
           <YStack gap="$md">
             <Typography variant="label" color="$colorBurgundy" letterSpacing={1.5}>
               {t('bible.church.title', {
@@ -218,56 +280,23 @@ export function VersePage({
                 })}
               </YStack>
             ) : undefined}
-            {cited.ccc.length > 0 ? (
-              <YStack gap="$sm">
-                <Typography variant="annotation" fontSize="$2">
-                  {t('bible.church.catechism')}
-                </Typography>
-                <CitedSections
-                  work={t('bible.church.catechismName')}
-                  language={i18n.language === 'pt-BR' ? 'pt-BR' : 'en-US'}
-                  sections={cited.ccc.map((n) => ({ id: String(n), n: String(n) }))}
-                  // vatican.va has the Catechism in both of the app's languages.
-                  load={async ({ n }) =>
-                    (
-                      await fetchParagraphs(
-                        Number(n),
-                        1,
-                        i18n.language === 'pt-BR' ? 'pt-BR' : 'en-US',
-                      )
-                    ).map((p) => p.text)
-                  }
-                  after={({ n }) => <ParagraphScripture paragraph={Number(n)} />}
-                />
-              </YStack>
-            ) : undefined}
-            {cited.magisterium?.length ? (
-              <YStack gap="$sm">
-                <Typography variant="annotation" fontSize="$2">
-                  {t('bible.church.magisterium')}
-                </Typography>
-                {cited.magisterium.map((document) => (
-                  <YStack key={document.work} gap="$xs">
-                    <Typography variant="section-title" fontSize="$3">
-                      {document.work}
-                    </Typography>
-                    <CitedSections
-                      work={document.work}
-                      sections={document.places.map(([n, file, anchor]) => ({
-                        id: `${file}#${anchor}`,
-                        n,
-                      }))}
-                      // Clerus holds these documents in Portuguese.
-                      language="pt-BR"
-                      load={({ id }) => {
-                        const [file, anchor] = id.split('#')
-                        return fetchClerusPlace(file, anchor)
-                      }}
-                    />
-                  </YStack>
-                ))}
-              </YStack>
-            ) : undefined}
+            {/* What cites this verse itself, then what cites only its neighbours. */}
+            <CatechismParagraphs
+              label={t('bible.church.catechismVerse')}
+              paragraphs={split.ccc.here}
+            />
+            <CitingDocuments
+              label={t('bible.church.magisteriumVerse')}
+              documents={split.magisterium.here}
+            />
+            <CatechismParagraphs
+              label={t(nearby ? 'bible.church.catechismElsewhere' : 'bible.church.catechism')}
+              paragraphs={split.ccc.elsewhere}
+            />
+            <CitingDocuments
+              label={t(nearby ? 'bible.church.magisteriumElsewhere' : 'bible.church.magisterium')}
+              documents={split.magisterium.elsewhere}
+            />
           </YStack>
         ) : undefined}
 
