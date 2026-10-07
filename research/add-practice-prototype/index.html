@@ -290,6 +290,31 @@
   .lrow mark { background: none; color: var(--accent); }
   .empty { text-align: center; color: var(--muted); font-style: italic; padding: 36px 20px; }
   button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  /* round 8 · the time widget */
+  .ban { position: relative; overflow: hidden; border-radius: 18px; margin-top: 10px; padding: 16px 16px 14px; background: linear-gradient(135deg, #1e3a5c, #0a1626); box-shadow: 0 8px 18px #0007; }
+  .ban .gh { position: absolute; right: -14px; top: -14px; opacity: .1; }
+  .ban .kick { position: relative; font: 400 11.5px/16px var(--display); letter-spacing: 2.5px; text-transform: uppercase; color: #e8c97a; }
+  .ban h5 { position: relative; font: italic 400 26px/30px var(--title); color: var(--blockInk); padding-top: 2px; }
+  .ban .sl { margin: 8px 24px 0; }
+  .ban .sl::before { border-color: #f5efe244; }
+  .ban .sl button { color: #dacab2; }
+  .ban .sl button::before { background: #f5efe288; }
+  .ban .sl button.on { color: #e8c97a; }
+  .ban .moments { position: relative; padding: 2px 0 0; }
+  .ban .moments button { border-color: #f5efe233; color: #dacab2; padding: 4px 10px; font-size: 15px; }
+  .ban .moments button.on { border-color: #e8c97a; color: var(--blockInk); }
+  .ban .foot { position: relative; display: flex; justify-content: space-between; align-items: center; padding-top: 12px; font-size: 15px; line-height: 20px; color: #dacab2; font-style: italic; }
+  .ban .foot button { background: none; border: 0; padding: 4px 0; font: 400 12px/16px var(--display); letter-spacing: 1.5px; text-transform: uppercase; color: #e8c97a; cursor: pointer; }
+  .fit { position: relative; display: flex; gap: 10px; overflow-x: auto; scrollbar-width: none; margin: 12px -16px 0; padding: 0 16px 2px; }
+  .fit > div { flex: none; width: 118px; height: 96px; border-radius: 12px; background: #06101c99; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; position: relative; }
+  .fit b { font: 400 16px/17px var(--title); color: var(--blockInk); }
+  .fit small { font-size: 13px; color: #dacab2; }
+  .fit .sw { position: absolute; top: 2px; right: 2px; width: 36px; height: 36px; }
+  .fit svg.bead { width: 36px; height: 36px; }
+  .fit .none { width: auto; flex: 1; height: auto; background: none; font-style: italic; color: #dacab2; font-size: 15px; padding: 6px 0; }
+  .line { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; border-radius: 14px; margin-top: 10px; padding: 10px 14px; background: linear-gradient(135deg, #1e3a5c, #0a1626); box-shadow: 0 6px 14px #0006; font: italic 400 21px/28px var(--title); color: var(--blockInk); }
+  .line button { background: #06101c99; border: 1px solid #f5efe233; border-radius: 8px; padding: 3px 10px; font: 400 17px/24px var(--body); color: #e8c97a; cursor: pointer; }
+  .line .x { margin-left: auto; background: none; border: 0; color: #dacab2; font-size: 15px; padding: 3px 0; }
   .note { border-top: 0.5px solid var(--border); padding-top: 20px; color: var(--muted); max-width: 68ch; }
   .note b { color: var(--ink); font-weight: 400; }
   .note ul { padding-left: 20px; display: flex; flex-direction: column; gap: 8px; padding-top: 8px; }
@@ -299,8 +324,17 @@
 <main>
   <header>
     <h1>Acrescentar à regra</h1>
-    <p><b style="color:var(--ink);font-weight:400">Round seven is at the top:</b> direction 6 over an ordered list, working. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
+    <p><b style="color:var(--ink);font-weight:400">Round eight is at the top:</b> the time question as a widget, the ordered list beneath it. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
   </header>
+
+  <section class="q">
+    <h2>Rodada 8 · O tempo como um quadro, a lista embaixo</h2>
+    <h3>A widget for “how long do you have”, then the list</h3>
+    <p>The time question is now one self-contained block above the list, in the jewel ground the app uses for feature blocks. The list below is the same in all three: search, sections by kind with names to jump by, the bead on each row. All three work. They differ in what the widget does.</p>
+    <div class="strip" id="r8"></div>
+  </section>
+
+  <div class="round">Rodada 7</div>
 
   <section class="q">
     <h2>Rodada 7 · Tempo, e uma lista em ordem</h2>
@@ -994,6 +1028,78 @@
   ].join('')
   mount(document.getElementById('p7a'), 'kind', 'a')
   mount(document.getElementById('p7b'), 'time', 'b')
+
+  // ── Round eight: the time widget over the list ──
+  glyphs.clock = '<circle cx="12" cy="12" r="8.5"/><path d="M12 7v5l3 2"/>'
+  function mount8(phone, variant, n) {
+    const st = { at: variant === 'own' ? 2 : 0, moment: variant === 'own' ? 'dia' : undefined, q: '', added: new Set(), mi: -1 }
+    const scr = phone.querySelector('.screen')
+    const slider = `<div class="sl">${stops.map(([, l], i) => `<button data-i="${i}" style="left:${i * 20}%">${l}</button>`).join('')}<span class="knob"></span></div><div class="moments">${all4.map((m) => `<button data-m="${m}"><i style="background:${momentHue[m]}"></i>${m}</button>`).join('')}</div>`
+    const widget = variant === 'line'
+      ? `<div class="line">Tenho <button data-cycle="t"></button> <button data-cycle="m"></button><button class="x" data-clear hidden>limpar ✕</button></div>`
+      : `<div class="ban"><span class="gh">${icon('clock', 120, '#f5efe2')}</span><div class="kick">Para o seu dia</div><h5>Quanto tempo você tem?</h5>${slider}${variant === 'own' ? `<div class="fit"></div>` : `<div class="foot"><span></span><button data-clear hidden>limpar</button></div>`}</div>`
+    scr.innerHTML = `<div class="back">‹</div><div class="ptitle">Acrescentar à regra</div>
+      <label class="search" style="margin-top:8px"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#a89a8c" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input id="q8-${n}" type="search" placeholder="Buscar pelo nome" autocomplete="off" aria-label="Buscar pelo nome" /></label>
+      ${widget}<div class="jump"></div><div class="res"></div><div class="list"></div>`
+    const $ = (q) => scr.querySelector(q)
+    const beadBtn = (it, c) => `<button class="sw ${st.added.has(it[0]) ? 'on' : ''}" data-n="${it[0]}" aria-label="Acrescentar ${it[0]}"><span class="a">${plusBead(40).replace('<svg', '<svg class="bead"')}</span><span class="b">${doneBead(c).replace('<svg', '<svg class="bead"')}</span></button>`
+    function render() {
+      const max = stops[st.at][0], q = norm(st.q.trim())
+      const fits = (it) => (!max || it[1] <= max) && (!st.moment || it[2].includes(st.moment))
+      const shown = items7.filter((it) => (variant === 'own' || fits(it)) && (!q || norm(it[0]).includes(q)))
+      const phrase = `${max ? (max === 60 ? 'uma hora' : max === 1 ? '1 minuto' : max + ' minutos') : ''}${st.moment ? `${max ? ', ' : ''}${st.moment === 'dia' ? 'de dia' : st.moment === 'manhã' ? 'pela manhã' : 'à ' + st.moment}` : ''}`
+      if (variant === 'line') {
+        scr.querySelector('[data-cycle="t"]').textContent = max ? stops[st.at][1] : 'qualquer tempo'
+        scr.querySelector('[data-cycle="m"]').textContent = st.moment ? (st.moment === 'dia' ? 'de dia' : st.moment === 'manhã' ? 'pela manhã' : 'à ' + st.moment) : 'a qualquer hora'
+      } else {
+        scr.querySelectorAll('.sl button').forEach((b, i) => b.classList.toggle('on', i === st.at))
+        $('.knob').style.left = `${st.at * 20}%`
+        scr.querySelectorAll('.moments button').forEach((b) => b.classList.toggle('on', b.dataset.m === st.moment))
+      }
+      if (variant === 'own') {
+        const f = items7.filter((it) => fits(it) && !it[6]).sort((a, b) => b[1] - a[1])
+        $('.fit').innerHTML = !max && !st.moment ? `<div class="none">Mova a conta para ver o que cabe.</div>` : f.length === 0 ? `<div class="none">Nada cabe nisso ainda.</div>` : f.map((it) => `<div>${icon(it[4], 20, '#e8c97a')}<b>${it[0]}</b><small>${it[1] === 60 ? '1 h' : it[1] + ' min'}</small>${beadBtn(it, momentHue[st.moment] ?? momentHue[it[2][0]])}</div>`).join('')
+      } else {
+        const foot = $('.ban .foot span')
+        if (foot) foot.textContent = phrase ? `${shown.length} cabem em ${phrase}` : 'Mova a conta, ou escolha a hora do dia.'
+        scr.querySelector('[data-clear]').hidden = !max && !st.moment
+      }
+      const by = (g) => shown.filter((it) => it[3] === g)
+      $('.jump').innerHTML = kindsOf.map(([g, name]) => `<button data-g="${g}" ${by(g).length ? '' : 'disabled'}>${name}</button>`).join('')
+      $('.res').textContent = `${variant !== 'own' && phrase ? `O que cabe em ${phrase}` : 'Tudo o que cabe numa regra'}${q ? `, com “${st.q.trim()}”` : ''} · ${shown.length}`
+      const hl = (name) => { const i = q ? norm(name).indexOf(q) : -1; return i < 0 ? name : `${name.slice(0, i)}<mark>${name.slice(i, i + q.length)}</mark>${name.slice(i + q.length)}` }
+      $('.list').innerHTML = shown.length === 0 ? `<div class="empty">Nada com esse nome cabe nisso.</div>` : kindsOf.map(([g, name]) => {
+        const rows = by(g).sort((a, b) => a[1] - b[1])
+        return rows.length === 0 ? '' : `<div class="ghead" data-h="${g}">${name}<small>${rows.length}</small></div>` + rows.map((it) => `<div class="lrow">${icon(it[4])}<div class="t"><b>${hl(it[0])}</b><span>${it[6] ? `na regra · todo dia às ${it[6][1]}` : it[5]}</span></div><span class="m">${it[1] === 60 ? '1 h' : it[1] + ' min'}</span>${it[6] ? inBead(it[6][0]) : beadBtn(it, momentHue[st.moment] ?? momentHue[it[2][0]])}</div>`).join('')
+      }).join('')
+      const bar = phone.querySelector('.bar')
+      bar.hidden = st.added.size === 0
+      bar.querySelector('span').textContent = st.added.size === 1 ? '1 prática acrescentada' : `${st.added.size} práticas acrescentadas`
+    }
+    scr.addEventListener('input', (e) => { if (e.target.matches('input')) { st.q = e.target.value; render() } })
+    scr.addEventListener('click', (e) => {
+      const s = e.target.closest('.sl button'), m = e.target.closest('.moments button'), j = e.target.closest('.jump button'), b = e.target.closest('.sw'), c = e.target.closest('[data-cycle]'), x = e.target.closest('[data-clear]')
+      if (s) st.at = +s.dataset.i
+      else if (m) st.moment = st.moment === m.dataset.m ? undefined : m.dataset.m
+      else if (c && c.dataset.cycle === 't') st.at = (st.at + 1) % stops.length
+      else if (c) { st.mi = st.mi >= 3 ? -1 : st.mi + 1; st.moment = all4[st.mi] }
+      else if (x) { st.at = 0; st.moment = undefined; st.mi = -1 }
+      else if (b) st.added.has(b.dataset.n) ? st.added.delete(b.dataset.n) : st.added.add(b.dataset.n)
+      else if (j) { const h = scr.querySelector(`[data-h="${j.dataset.g}"]`); if (h) scr.scrollTo({ top: h.offsetTop - 44, behavior: 'smooth' }); return }
+      else return
+      render()
+    })
+    render()
+  }
+  const live = (id) => `<div class="phone" id="${id}"><div class="screen" style="gap:6px"></div>${bar3}</div>`
+  document.getElementById('r8').innerHTML = [
+    col('A · O quadro responde por si', 'The widget answers inside itself: move the bead and the practices that fit appear as small cards in the block, ready to add. The list below never changes, so it stays the place to find a prayer by name or kind.', live('p8a'), true),
+    col('B · O quadro estreita a lista', 'The widget is a control for the list: move the bead and the list beneath keeps only what fits, with the count said in the block. One place to look, but the list is no longer the whole list until you clear it.', live('p8b')),
+    col('C · Uma linha só', 'The smallest widget that still reads as a banner: one sentence with two words you tap to change. The list starts almost at the top of the screen. It narrows the list like B.', live('p8c')),
+  ].join('')
+  mount8(document.getElementById('p8a'), 'own', 'a')
+  mount8(document.getElementById('p8b'), 'filter', 'b')
+  mount8(document.getElementById('p8c'), 'line', 'c')
 
   // Live marks on page A: an open bead fills, and the bar counts.
   let added = 0
