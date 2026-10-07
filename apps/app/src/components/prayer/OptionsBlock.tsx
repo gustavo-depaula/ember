@@ -29,7 +29,8 @@ export function OptionsBlock<T>({
 
   return (
     <YStack gap="$sm">
-      <SectionHeading>{label}</SectionHeading>
+      {/* A choice set under a title of its own needs no second one. */}
+      {label !== '' && <SectionHeading>{label}</SectionHeading>}
 
       {pickerStyle === 'cards' ? (
         <YStack gap="$xs">

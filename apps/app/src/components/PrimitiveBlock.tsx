@@ -59,6 +59,7 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
               text={text}
               fontStyle={primitive.style === 'italic' ? 'italic' : undefined}
               markup={primitive.markup}
+              ragged={primitive.layout === 'verse'}
             />
           )}
         />

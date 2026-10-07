@@ -46,6 +46,7 @@ export function PrayerLines({
   fontStyle,
   language,
   markup,
+  ragged,
 }: {
   text: string
   fontWeight?: ComponentProps<typeof Text>['fontWeight']
@@ -54,6 +55,8 @@ export function PrayerLines({
   // 'do' renders each line with the Divinum Officium inline renderer (verse
   // numbers, pointing marks, small caps) instead of the markdown one.
   markup?: 'do'
+  // Lines of verse: never justified, whatever the reader's alignment.
+  ragged?: boolean
 }) {
   const reading = useReadingStyle()
   const lang = useReadingLanguage(language)
@@ -75,12 +78,20 @@ export function PrayerLines({
           // children, so its last-line guard can't see the text change and
           // would keep a minHeight measured for a longer line, a blank gap.
           return (
-            <ReadingParagraph key={`${i}|${line}`} base={base} language={lang}>
+            <ReadingParagraph key={`${i}|${line}`} base={base} language={lang} ragged={ragged}>
               <DoInlineLine text={line} language={lang} reading={reading} />
             </ReadingParagraph>
           )
         }
-        return <ReadingParagraph key={`${i}`} source={segments[i]} base={base} language={lang} />
+        return (
+          <ReadingParagraph
+            key={`${i}`}
+            source={segments[i]}
+            base={base}
+            language={lang}
+            ragged={ragged}
+          />
+        )
       })}
     </YStack>
   )

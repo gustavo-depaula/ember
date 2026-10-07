@@ -75,8 +75,8 @@ async function invitatory(
 
 export async function lothHour(date: Date, hour: Hour, source: LothSource): Promise<Primitive[]> {
   const [calendar, extras] = await Promise.all([source.calendar(), source.extras()])
-  const ctx: RenderContext = { extras }
   const office = officeOf(date, hour, calendar)
+  const ctx: RenderContext = { extras, celebration: office.celebration?.title }
   const options = await Promise.all(
     formsOf(office).map(async (form) => {
       const parts = await assembleHour(office, form, source)

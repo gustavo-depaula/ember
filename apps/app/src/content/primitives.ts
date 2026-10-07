@@ -13,6 +13,10 @@ export type TextPrimitive = {
   text: BilingualText
   voice?: 'priest' | 'people' | 'all'
   style?: 'normal' | 'italic'
+  // 'verse' sets each line as a line of verse (a psalm, a hymn): ragged, never
+  // justified, so a line that wraps does not spread its words across the
+  // column. Default (undefined) follows the reader's alignment.
+  layout?: 'verse'
   // 'do' routes the text through the Divinum Officium inline renderer, which
   // styles verse numbers, mediant/pointing marks and small caps. Default
   // (undefined) uses the standard markdown inline renderer.

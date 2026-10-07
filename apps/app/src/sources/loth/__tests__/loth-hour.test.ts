@@ -112,9 +112,10 @@ describe('the Liturgy of the Hours in Brazilian Portuguese', () => {
       'Tempo litúrgico',
       'São Bruno, presbítero',
     ])
-    expect(shown(select?.options[0].children ?? [])).not.toContain('BRUNO')
+    expect(shown(select?.options[0].children ?? [])).not.toContain('Bruno')
     const saint = shown(select?.options[1].children ?? [])
-    expect(saint).toContain('SÃO BRUNO, PRESBÍTERO')
+    // The title is the calendar's, not the capitals the hour prints.
+    expect(saint).toMatch(/^São Bruno, presbítero$/m)
     // The memorial keeps the weekday's psalms and takes the saint's prayer.
     expect(saint).toContain('Salmo 84(85)')
   })
@@ -129,8 +130,8 @@ describe('the Liturgy of the Hours in Brazilian Portuguese', () => {
     // 12 October: Our Lady of Aparecida, patroness of Brazil.
     const lauds = await hourOn('2026-10-12', 'lauds')
     expect(officeSelect(lauds)).toBeUndefined()
-    expect(shown(lauds)).toContain('APARECIDA')
-    expect(shown(await hourOn('2026-10-11', 'vespers'))).toContain('APARECIDA')
+    expect(shown(lauds)).toContain('Aparecida')
+    expect(shown(await hourOn('2026-10-11', 'vespers'))).toContain('Aparecida')
   })
 
   it('prays the first Vespers of Sunday on Saturday evening', async () => {
@@ -167,11 +168,58 @@ describe('the Liturgy of the Hours in Brazilian Portuguese', () => {
     ).toHaveLength(2)
     expect(shown(primitives)).not.toContain('Coleta salmódica')
     const text = shown(primitives)
-    expect(text).toMatch(/^Ant\. 1 \S/m)
+    expect(text).toMatch(/^Ant\.\u00A01 \S/m)
     expect(text).toMatch(/^℣\. Vinde, ó Deus/m)
     expect(text).toMatch(/^℟\. Socorrei-me sem demora\.$/m)
-    // A verse number is a small red run, the asterisk left for the renderer to colour.
-    expect(text).toMatch(/–\/:\d+:\/ .+ \*$/m)
+    // A verse number is a small red run; the asterisk is left for the renderer
+    // to colour and tied to the word before it.
+    expect(text).toMatch(/–\/:\d+:\/ .+\u00A0\*$/m)
+  })
+
+  it('sets a psalm as verse and a reading as prose', async () => {
+    const primitives = await hourOn('2026-10-08', 'lauds')
+    const texts = primitives.filter((p) => p.type === 'text')
+    const psalm = texts.find((p) => p.text.primary.includes('\u00A0*'))
+    expect(psalm?.layout).toBe('verse')
+    const reading = texts.find((p) => p.text.primary.length > 200 && !p.text.primary.includes('\n'))
+    expect(reading?.layout).toBeUndefined()
+  })
+
+  it('titles each part, with its citation beneath', async () => {
+    const headings = (await hourOn('2026-10-06', 'lauds')).flatMap((p) =>
+      p.type === 'container' && p.behavior.kind === 'select' ? p.behavior.options[0].children : [p],
+    )
+    const titles = headings.flatMap((p) =>
+      p.type === 'heading' ? [`${p.text.primary}${p.note ? ` | ${p.note.primary}` : ''}`] : [],
+    )
+    expect(titles).toEqual([
+      'Hino',
+      'Salmodia',
+      'Leitura breve | 1Jo 4,14-15',
+      'Responsório breve',
+      'Cântico evangélico | Benedictus · Lc 1,68-79',
+      'Preces',
+      'Oração',
+      'Conclusão da Hora',
+    ])
+    const compline = (await hourOn('2026-10-08', 'compline')).flatMap((p) =>
+      p.type === 'heading' ? [p.text.primary] : [],
+    )
+    expect(compline).toContain('Antífonas finais de Nossa Senhora')
+  })
+
+  it('makes a choice of the texts the book offers one of', async () => {
+    const options = find(await hourOn('2026-10-08', 'compline'), 'options')
+    // The two hymns of Night Prayer; the antiphons of Our Lady, and their Latin.
+    expect(options.map((o) => o.options.length)).toEqual([2, 5, 4])
+    expect(options.map((o) => o.label.primary)).toEqual(['Hino', '', ''])
+    expect(options[1].options.map((o) => o.label.primary)).toEqual([
+      'Ó Mãe do Redentor, do céu ó porta',
+      'Ave, Rainha do céu',
+      'Salve, Rainha, Mãe de misericórdia',
+      'À vossa proteção recorremos, santa…',
+      'Salve Rainha mãe de Deus',
+    ])
   })
 
   it('unfolds the Latin texts the hour links to', async () => {
