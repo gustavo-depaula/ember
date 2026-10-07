@@ -119,8 +119,17 @@ export function summaLabel(chapterId: string): string {
 export type Talk = [collection: string, title: string, page: string, anchor: string]
 
 /** The popes' homilies and addresses that quote a verse, as Clerus orders them. */
-export function getTalks(bookId: string, chapter: number, verse: number): Promise<Talk[]> {
-  return citing<Talk>(`bible/clerus/talks/${bookId}.json`, chapter, verse)
+export async function getTalks(bookId: string, chapter: number, verse: number): Promise<Talk[]> {
+  const talks = await citing<Talk>(`bible/clerus/talks/${bookId}.json`, chapter, verse)
+  // Clerus breaks a long text over several places, each under the text's
+  // title: the first of them is where it opens.
+  const seen = new Set<string>()
+  return talks.filter(([collection, title]) => {
+    const key = `${collection}|${title}`
+    if (seen.has(key)) return false
+    seen.add(key)
+    return true
+  })
 }
 
 /** A run of verses a paragraph of the Catechism cites; `to` is 999 for "to the chapter's end". */

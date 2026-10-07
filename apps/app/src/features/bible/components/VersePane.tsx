@@ -1,5 +1,5 @@
 import { ChevronLeft, X } from 'lucide-react-native'
-import { useMemo } from 'react'
+import { useEffect, useMemo, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
@@ -153,6 +153,17 @@ export function VersePane({
     }
   })
 
+  // The kind in hand is brought onto the line's visible stretch: it may be
+  // the last of eight, chosen on another verse.
+  const lineRef = useRef<ScrollView>(null)
+  const tabLefts = useRef(new Map<string, number>())
+  function showOnLine(id: string) {
+    const left = tabLefts.current.get(id)
+    if (left !== undefined) lineRef.current?.scrollTo({ x: Math.max(0, left - 72) })
+  }
+  // biome-ignore lint/correctness/useExhaustiveDependencies: the kind in hand is the trigger
+  useEffect(() => showOnLine(kind), [kind])
+
   const minHeight = 120
   const height = useSharedValue(initialHeight)
   const startHeight = useSharedValue(initialHeight)
@@ -215,6 +226,7 @@ export function VersePane({
         </GestureDetector>
         <View borderBottomWidth={1} borderBottomColor="$borderColor">
           <ScrollView
+            ref={lineRef}
             horizontal
             showsHorizontalScrollIndicator={false}
             contentContainerStyle={{ paddingHorizontal: 24, gap: 20 }}
@@ -225,6 +237,10 @@ export function VersePane({
               return (
                 <Pressable
                   key={tab.id}
+                  onLayout={(e) => {
+                    tabLefts.current.set(tab.id, e.nativeEvent.layout.x)
+                    if (selected) showOnLine(tab.id)
+                  }}
                   onPress={() => setKind(tab.id)}
                   accessibilityRole="tab"
                   accessibilityLabel={

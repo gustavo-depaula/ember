@@ -656,6 +656,97 @@ def summa(cache: Path, seeds: dict[str, str], slugs: dict[str, str]) -> tuple[li
 TALKS = re.compile(r"Homilias JOÃO PAULO II|Bento XVI Homilias|Audiências [\d-]+|Discursos Bento XVI|Discursos João Paulo II \d+")
 
 
+MONTHS = "janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro".split()
+DATE = re.compile(
+    r"\(?(?:(?:(?:segunda|terça|quarta|quinta|sexta)-feira|sábado|domingo)(?: santa)?,? )?"
+    r"(\d{1,2})[º°]? de (%s)(?: de)? (\d{4})\)?" % "|".join(MONTHS),
+    re.I,
+)
+ROMAN = re.compile(r"M{0,3}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})")
+WORDS = re.compile(r"[^\W\d_]+")
+# What heads every text of a pope and names none, and the first words of the
+# text itself where a page sets them as it does its headings.
+UNNAMING = re.compile(r"\s*\b(?:D[OE]\s+)?(?:(?:SANTO PADRE|PAPA)(?:\s+(?:JOÃO PAULO II|BENTO XVI))?|JOÃO PAULO II|BENTO XVI)\b", re.I)
+OPENING = re.compile(
+    r"^\d+\. |\b(?:irmãos|irmãs|senhor(?:es|as)?\b|excelência|eminência|caríssim|prezad|amad[oa]s|querid|venerad|ilustres|no episcopado)",
+    re.I,
+)
+# A heading is printed over several lines, and so are several headings one
+# after another: a line opens a heading of its own with one of these words
+# (whom the pope speaks to, what is celebrated), and otherwise carries on the
+# line before it. "AO" after two or three words is still the first heading
+# ("VIAGEM APOSTÓLICA / AO ZIMBÁBUE").
+OPENS = re.compile(
+    r"(?:DURANTE|POR OCASIÃO|PARA|SANTA MISSA|MISSA|CERIM[ÓO]NIA|ENCONTRO|CELEBRAÇÃO|CONCELEBRAÇÃO|VISITA|DISCURSO|HOMILIA"
+    r"|MENSAGEM|SAUDAÇÃO|ORAÇÃO|VÉSPERAS|LITURGIA|VIGÍLIA|SOLENIDADE|FESTA|JUBILEU|PEREGRINAÇÃO|VIAGEM)\b"
+)
+ADDRESSES = re.compile(r"(?:A|AOS?|ÀS?)\b")
+SHOUTED = re.compile(r"((?:[^\Wa-zà-ÿ]+(?:-[^\Wa-zà-ÿ]+)*[ ,]+){2,})(?=[A-ZÀ-Ý][a-zà-ÿ])")
+LEFT_OPEN = re.compile(r"(?:\b(?:DE|DA|DO|DAS|DOS|E|EM|A|À|AO|AOS|ÀS|O|OS|AS|NA|NO|NAS|NOS|COM|PARA|POR|PELO|PELA|UM|UMA|SÃO|SANTA|SANTO)|,)$", re.I)
+
+
+def learn_casing(casing: dict[str, Counter], text: str) -> None:
+    """Count how each word is written inside a sentence, where a capital is
+    the word's own and not the sentence's."""
+    for word in WORDS.finditer(text):
+        form = word.group()
+        before = text[max(0, word.start() - 2) : word.start()]
+        if len(before) == 2 and before[1] == " " and (before[0].isalnum() or before[0] == ",") and not (len(form) > 1 and form.isupper()):
+            casing.setdefault(form.lower(), Counter())[form] += 1
+
+
+def tidy_title(title: str, casing: dict[str, Counter]) -> str:
+    """A text's headings as a line that says what it is: its day first, then
+    the occasion once, in the capitals the popes' own sentences give its words.
+    Clerus prints the headings line by line and in capitals ("AOS MEMBROS DO /
+    COLÉGIO INTERNACIONAL"), the day somewhere among them, sometimes twice."""
+    day = DATE.search(title)
+    parts: list[str] = []
+    lines = re.split(r" — |(?<=\d{4}): ?", DATE.sub(" — ", title))
+    # "CERIMÓNIA DE BOAS-VINDAS Silao, Aeroporto de Guanajuato" is two lines run together.
+    lines = [piece for line in lines for piece in SHOUTED.sub(r"\1 — ", line.strip(), count=1).split(" — ")]
+    for part in lines:
+        part = UNNAMING.sub("", part.strip(" ,;:-—")).strip(" ,;:-—")
+        letters = [c for c in part if c.isalpha()]
+        shouting = sum(c.isupper() for c in letters) > len(letters) / 2
+        if not part or re.fullmatch(r"\d{4}", part) or (not shouting and (OPENING.search(part) or len(part) > 110)):
+            continue
+        # A heading broken over lines is one heading.
+        before = parts[-1][:-1] if parts and parts[-1].endswith("\0") else None
+        opens = OPENS.match(part) or (ADDRESSES.match(part) and before is not None and len(before.split()) > 3)
+        if shouting and before is not None and (LEFT_OPEN.search(before) or not opens):
+            parts[-1] = f"{parts[-1][:-1]} {part}\0"
+        else:
+            parts.append(part + "\0" if shouting else part)
+    named: list[str] = []
+    for part in parts:
+        shouting = part.endswith("\0")
+
+        def cased(word: re.Match) -> str:
+            form = word.group()
+            seen = casing.get(form.lower())
+            if not form.isupper():
+                return form
+            if not shouting:  # capitals among lower case are an acronym
+                return form
+            if len(form) > 1 and ROMAN.fullmatch(form) and not seen:
+                return form
+            if seen:
+                return seen.most_common(1)[0][0]
+            # A word the popes never use inside a sentence is a name, and a short one an acronym.
+            return form.capitalize() if len(form) > 4 else form
+
+        part = WORDS.sub(cased, part.rstrip("\0"))
+        named.append(part[0].upper() + part[1:] if shouting else part)
+    # The same occasion printed twice, once in capitals: the fuller stays.
+    kept = [p for i, p in enumerate(named) if not any(j != i and p.lower() in q.lower() and (len(q) > len(p) or j < i) for j, q in enumerate(named))]
+    occasion = " — ".join(kept)[:200]
+    if not day:
+        return occasion or title[:200]
+    date = f"{int(day.group(1))} de {day.group(2).capitalize()} de {day.group(3)}"
+    return f"{date}: {occasion}" if occasion else date
+
+
 def talks(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[tuple]:
     """Every Scripture reference in a collection of homilies or addresses, by
     the text that makes it: (title, page, anchor, book, chapter, first verse,
@@ -697,10 +788,14 @@ def talks(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[tupl
             if lines and (fresh or titles):
                 titles.extend(t for t in (words(line) for line in re.split(r"</center>|<br>", lines)) if t)
             texts.setdefault(place, []).append((title(), markup))
+    casing: dict[str, Counter] = {}
+    for stretches in texts.values():
+        for _title, markup in stretches:
+            learn_casing(casing, words(markup))
     for place, stretches in texts.items():
         numbering = psalm_numbering([markup for _title, markup in stretches])
         found.extend(
-            (name, *place, *r)
+            (tidy_title(name, casing), *place, *r)
             for name, markup in stretches
             for r in references(markup, slugs, numbering)
             if r[2] or r[0] == "psalms"
