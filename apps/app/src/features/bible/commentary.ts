@@ -145,8 +145,37 @@ export async function loadVoices(entry: CommentaryEntry): Promise<Voice[]> {
   return parseCatenaLecture(text, fathers)
 }
 
+/** A lecture of a commentary kept as a book, on a run of verses: read in the book. */
+export type Lecture = { from: number; to: number; bookId: string; chapterId: string }
+
+type LectureIndex = {
+  book: string
+  chapters: Record<string, { from: number; to: number; lecture: string }[]>
+}
+
+/**
+ * St Thomas's lectures on the chapter, for the books of the Bible whose
+ * commentary is divided finely enough to place (John, Matthew, Job and some of
+ * Paul). His lectures run long and unbroken, so they are offered as a way into
+ * the book rather than set beside the text.
+ */
+export async function getLectures(bookId: string, chapter: number): Promise<Lecture[]> {
+  const indexed = await fetchHearth<string[]>('bible/aquinas/index.json')
+  if (!indexed.includes(bookId)) return []
+  const index = await fetchHearth<LectureIndex>(`bible/aquinas/${bookId}.json`)
+  return (index.chapters[String(chapter)] ?? []).map(({ from, to, lecture }) => ({
+    from,
+    to,
+    bookId: index.book,
+    chapterId: lecture,
+  }))
+}
+
 /** Every entry that speaks of the verse, in reading order. */
-export function entriesForVerse(entries: CommentaryEntry[], verse: number): CommentaryEntry[] {
+export function entriesForVerse<T extends { from: number; to: number }>(
+  entries: T[],
+  verse: number,
+): T[] {
   return entries.filter((e) => e.from <= verse && verse <= e.to)
 }
 

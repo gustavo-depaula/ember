@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
-import { ChevronLeft } from 'lucide-react-native'
+import { ChevronLeft, ChevronRight } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
@@ -14,6 +14,7 @@ import {
   type CommentaryEntry,
   type CommentarySource,
   entriesForVerse,
+  getLectures,
   readingMinutes,
   spanLabel,
 } from '../commentary'
@@ -91,6 +92,12 @@ export function VersePage({
     staleTime: Number.POSITIVE_INFINITY,
   })
   const cited = citationsForVerse(passages ?? [], verse)
+  const { data: lectures } = useQuery({
+    queryKey: ['bible', 'lectures', bookId, chapter],
+    queryFn: () => getLectures(bookId, chapter),
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+  const onVerse = entriesForVerse(lectures ?? [], verse)
 
   const text = chapterData?.verses.find((v) => v.verse === verse)?.text
   // A stand-in chapter is the Douay-Rheims, whatever the edition chosen.
@@ -129,7 +136,11 @@ export function VersePage({
           <Typography variant="annotation">{t('common.couldntLoad')}</Typography>
         ) : undefined}
         {isLoading ? <PrayerSpinner /> : undefined}
-        {!isLoading && !error && spoken.length === 0 && !cited?.ccc.length ? (
+        {!isLoading &&
+        !error &&
+        spoken.length === 0 &&
+        onVerse.length === 0 &&
+        !cited?.ccc.length ? (
           <Typography variant="caption" fontSize="$3">
             {t('bible.commentary.none', { verse })}
           </Typography>
@@ -138,6 +149,37 @@ export function VersePage({
         {spoken.map(({ source, entries }) => (
           <SourceCommentary key={source.id} source={source} entries={entries} chapter={chapter} />
         ))}
+
+        {onVerse.length > 0 ? (
+          <YStack gap="$sm">
+            <Typography variant="label" color="$colorBurgundy" letterSpacing={1.5}>
+              {t('bible.commentary.aquinas').toUpperCase()}
+            </Typography>
+            {onVerse.map((lecture) => {
+              const label = t('bible.commentary.lecture', {
+                verses: `${chapter}:${spanLabel(lecture)}`,
+              })
+              return (
+                <Pressable
+                  key={lecture.chapterId}
+                  onPress={() =>
+                    router.push({
+                      pathname: '/browse/book/[bookId]/read',
+                      params: { bookId: lecture.bookId, chapter: lecture.chapterId },
+                    })
+                  }
+                  accessibilityRole="link"
+                  accessibilityLabel={label}
+                >
+                  <XStack alignItems="center" gap="$xs" minHeight={44}>
+                    <Typography fontSize="$3">{label}</Typography>
+                    <ChevronRight size={16} color={theme.colorSecondary.val} />
+                  </XStack>
+                </Pressable>
+              )
+            })}
+          </YStack>
+        ) : undefined}
 
         {cited && cited.ccc.length > 0 ? (
           <YStack gap="$md">

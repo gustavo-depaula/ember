@@ -664,6 +664,8 @@ export default {
       minutes_one: '{{count}} min',
       minutes_other: '{{count}} min',
       onVerses: 'On {{verses}}',
+      aquinas: 'St Thomas Aquinas',
+      lecture: 'His lecture on {{verses}}',
     },
     church: {
       title: 'The Church on {{passage}}',

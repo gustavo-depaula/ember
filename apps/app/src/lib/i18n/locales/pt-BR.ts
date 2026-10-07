@@ -670,6 +670,8 @@ export default {
       minutes_one: '{{count}} min',
       minutes_other: '{{count}} min',
       onVerses: 'Sobre {{verses}}',
+      aquinas: 'Santo Tomás de Aquino',
+      lecture: 'Sua lição sobre {{verses}} (em inglês)',
     },
     church: {
       title: 'A Igreja sobre {{passage}}',
