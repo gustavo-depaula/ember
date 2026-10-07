@@ -151,7 +151,7 @@ describe('a memorial in Lent, on 17-24 December and in the octave of Christmas (
   it('is a memorial like any other outside those days', async () => {
     const office = officeOf(on('2020-01-17'), 'lauds', calendar)
     expect(isCommemoration(office)).toBe(false)
-    expect(formsOf(office)).toEqual(['celebration', 'season'])
+    expect(formsOf(office)).toEqual(['celebration', 'season', 'celebration-of-the-weekday'])
   })
 })
 
@@ -259,5 +259,71 @@ describe('the two hymns of a little hour and of Night Prayer', () => {
   it('offers none where the season has a hymn of its own', async () => {
     const easter = (await hour('2026-04-21', 'terce')).parts.find((part) => part.slot === 'hymn')
     expect(easter?.choices).toBeUndefined()
+  })
+})
+
+describe('a memorial with the weekday’s in place of the Common’s (235)', () => {
+  const taken = [
+    'hymn',
+    'reading',
+    'responsory',
+    'canticle-ant',
+    'canticle-ant-end',
+    'intercessions',
+  ]
+  const said = (parts: HourPart[], slot: string) => text(parts, slot)
+
+  it('keeps what the saint has of his own, his reading and his prayer', async () => {
+    // Saint Augustine: a hymn and antiphons of his own, the rest from the
+    // Common of pastors.
+    const [saint, weekday, mixed] = await Promise.all(
+      (['celebration', 'season', 'celebration-of-the-weekday'] as const).map((form) =>
+        hour('2026-08-28', 'lauds', form),
+      ),
+    )
+    expect(said(mixed.parts, 'hymn')).toBe(said(saint.parts, 'hymn'))
+    expect(said(mixed.parts, 'canticle-ant')).toBe(said(saint.parts, 'canticle-ant'))
+    expect(said(mixed.parts, 'prayer')).toBe(said(saint.parts, 'prayer'))
+    expect(said(mixed.parts, 'reading')).toBe(said(weekday.parts, 'reading'))
+    expect(said(mixed.parts, 'responsory')).toBe(said(weekday.parts, 'responsory'))
+    expect(said(mixed.parts, 'intercessions')).toBe(said(weekday.parts, 'intercessions'))
+    expect(said(mixed.parts, 'head-title')).toMatch(/^SANTO AGOSTINHO/)
+    expect(mixed.slots).not.toContain('head-common')
+    const readings = await hour('2026-08-28', 'readings', 'celebration-of-the-weekday')
+    expect(said(readings.parts, 'reading-2')).toBe(
+      said((await hour('2026-08-28', 'readings', 'celebration')).parts, 'reading-2'),
+    )
+  })
+
+  it('is, part for part, the saint’s office or the weekday’s, in every memorial of ten years', async () => {
+    const differences: string[] = []
+    for (let date = on('2041-01-01'); date.getFullYear() <= 2050; date = addDays(date, 1)) {
+      for (const of of ['readings', 'lauds', 'vespers'] as const) {
+        const office = officeOf(date, of, calendar)
+        if (!formsOf(office).includes('celebration-of-the-weekday') || isCommemoration(office))
+          continue
+        const [saint, weekday, mixed] = await Promise.all(
+          (['celebration', 'season', 'celebration-of-the-weekday'] as const).map((form) =>
+            assembleHour(office, form, corpus),
+          ),
+        )
+        for (const part of mixed) {
+          if (part.slot === 'head-common')
+            differences.push(`${date.toDateString()} ${of} names a Common`)
+          const from = taken.includes(part.slot.replace(/~\d+$/, '')) ? [saint, weekday] : [saint]
+          if (!from.some((parts) => said(parts, part.slot) === said(mixed, part.slot)))
+            differences.push(`${date.toDateString()} ${of} ${part.slot}`)
+        }
+        // The antiphon before its canticle and after it are one saint's or
+        // one weekday's, and no hour is left without a part the saint's has.
+        const antiphons = (parts: HourPart[]) =>
+          `${said(parts, 'canticle-ant')}|${said(parts, 'canticle-ant-end')}`
+        if (![saint, weekday].some((parts) => antiphons(parts) === antiphons(mixed)))
+          differences.push(`${date.toDateString()} ${of} antiphon`)
+        for (const slot of ['hymn', 'prayer'])
+          if (!said(mixed, slot)) differences.push(`${date.toDateString()} ${of} no ${slot}`)
+      }
+    }
+    expect(differences).toEqual([])
   })
 })

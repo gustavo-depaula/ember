@@ -491,6 +491,22 @@ const holdout = process.argv.includes('--holdout')
 
 // What tells one weekday from another, whatever is celebrated on it.
 const weekday: Field[] = ['s', 'w', 'd', 'p', 'y', 'k', 'g', 'a', 'v']
+// A part filed under a saint is his Common's all the same where the Commons
+// have it: they offer several hymns, readings and antiphons, and each saint's
+// day prints the one the archive chose. It is known by how it begins, since
+// the archive's wordings of one text differ further on (`variants.py`).
+const theCommons = wordsOfBlocks(
+  (JSON.parse(readFileSync(join(out, 'library/offices.json'), 'utf8')) as { entries: { name: string; texts: { blocks: Block[] }[] }[] }).entries
+    .filter((entry) => entry.name.startsWith('Comum '))
+    .flatMap((entry) => entry.texts.flatMap((text) => text.blocks)),
+)
+function isOfTheCommons(part: string): boolean {
+  if (!part) return false
+  const blocks = parts.get(part) as Block[]
+  const body = wordsOfBlocks(blocks[0]?.k === 'title' ? blocks.slice(1) : blocks).replace(/^ant\d?/, '')
+  return body.length >= 12 && theCommons.includes(body.slice(0, 48))
+}
+
 // The Ordinary gives each little hour and Night Prayer two hymns, and either
 // may be said. The archive prints now one, now the other, and at Night Prayer
 // in Ordinary Time both, with "Ou:" between: they are the two an ordinary
@@ -682,7 +698,19 @@ for (const hour of hours) {
   }
   if (disordered.size > 0) console.log(`  ${disordered.size} hours of memorials out of their order, put together as any other`)
   const choices = hymnsToChooseAmong(hour, list)
-  indexes.set(hour, { order, slots, ...(choices ? { choices: { hymn: [choices] } } : {}) })
+  indexes.set(hour, {
+    order,
+    slots,
+    ...(choices ? { choices: { hymn: [choices] } } : {}),
+    ofTheCommons: Object.fromEntries(
+      ['hymn', 'reading', 'canticle-ant', 'intercessions']
+        .map((slot): [string, string[]] => [
+          slot,
+          [...new Set((slots[slot] ?? []).filter((layer) => layer.fields.includes('C')).flatMap((layer) => Object.values(layer.entries)))].filter(isOfTheCommons),
+        ])
+        .filter(([, list]) => list.length > 0),
+    ),
+  })
 
   // Every observed hour must come back part for part.
   let wrong = 0
@@ -924,6 +952,16 @@ for (const [hour, index] of indexes) {
   write(`index/${hour}.json`, {
     id: hour,
     order: index.order,
+    ...(index.ofTheCommons
+      ? {
+          ofTheCommons: Object.fromEntries(
+            Object.entries(index.ofTheCommons).map(([slot, list]) => [
+              slot,
+              list.map((part) => bundleOf.get(part) as string).sort(),
+            ]),
+          ),
+        }
+      : {}),
     ...(index.choices
       ? {
           choices: Object.fromEntries(

@@ -62,7 +62,9 @@ describe('every hour against the reference, 2020-2040', () => {
         // The reference opens the Invitatory of an optional memorial with the
         // saint's antiphon, where every other hour opens with the weekday.
         const first: Form = hour === 'invitatory' && forms.length > 1 ? 'celebration' : forms[0]
-        const second = forms.find((form) => form !== first)
+        // The reference's other office is the weekday's wherever it has one,
+        // at the little hours of an obligatory memorial too.
+        const second = forms.find((form) => form !== first) ?? 'season'
         const expected = [
           [first, at(own, i, h)],
           [second, at(other, i, h)],

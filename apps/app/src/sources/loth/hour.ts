@@ -47,6 +47,8 @@ function select(label: string, overrideKey: string, options: ContainerOption[]):
 
 function formLabel(office: Office, form: Form): string {
   if (form === 'season') return 'Tempo litúrgico'
+  // What the saint has not of his own, from the weekday instead of the Common.
+  if (form === 'celebration-of-the-weekday') return 'Memória com os textos da féria'
   const saint = office.celebration?.title.replace(/\s*\n\s*/g, ' — ') ?? 'Memória'
   // In Lent and the like the saint is not kept, only added to the weekday.
   return isCommemoration(office) ? `Com a comemoração de ${saint}` : saint
@@ -80,9 +82,19 @@ export async function lothHour(date: Date, hour: Hour, source: LothSource): Prom
   const [calendar, extras] = await Promise.all([source.calendar(), source.extras()])
   const office = officeOf(date, hour, calendar)
   const ctx: RenderContext = { extras, celebration: office.celebration?.title }
+  const forms = await Promise.all(
+    formsOf(office).map(async (form) => ({
+      form,
+      parts: await assembleHour(office, form, source),
+    })),
+  )
+  // A saint whose every part is his own has one office, not two alike.
+  const distinct = forms.filter(
+    ({ parts }, i) =>
+      !forms.slice(0, i).some((other) => JSON.stringify(other.parts) === JSON.stringify(parts)),
+  )
   const options = await Promise.all(
-    formsOf(office).map(async (form) => {
-      const parts = await assembleHour(office, form, source)
+    distinct.map(async ({ form, parts }) => {
       if (parts.length === 0) {
         throw new Error(`Liturgy of the Hours: no ${hour} in the corpus for ${date.toDateString()}`)
       }

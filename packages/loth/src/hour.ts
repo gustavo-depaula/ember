@@ -3,12 +3,15 @@
 
 import type { LothCalendar } from './day'
 import {
+  answering,
   type Form,
   type HourIndex,
   type InvitatoryPsalm,
   lookup,
+  type OfficeKey,
   officeKey,
   type PartBundle,
+  project,
 } from './index-types'
 import type { Hour, Office } from './office'
 import { partOf } from './rules'
@@ -72,6 +75,10 @@ export function isCommemoration(office: Office): boolean {
  * leaves the weekday first. The Invitatory is always the saint's. Where the
  * saint may only be commemorated, the second is the weekday's with the
  * commemoration added.
+ *
+ * What a memorial has not of its own is taken "from the Common or from the
+ * current weekday" (General Instruction, 235): the saint's office is the
+ * first of the two, and last comes the same office with the weekday's.
  */
 export function formsOf(office: Office): Form[] {
   const c = office.celebration
@@ -80,7 +87,34 @@ export function formsOf(office: Office): Form[] {
     return hoursOfAMemorial.has(office.hour) ? ['season', 'celebration'] : ['season']
   if (c.rank !== 'memorial' || office.hour === 'invitatory') return ['celebration']
   if (!hoursOfAMemorial.has(office.hour)) return [c.obligatory ? 'celebration' : 'season']
-  return c.obligatory ? ['celebration', 'season'] : ['season', 'celebration']
+  return c.obligatory
+    ? ['celebration', 'season', 'celebration-of-the-weekday']
+    : ['season', 'celebration', 'celebration-of-the-weekday']
+}
+
+// The parts a memorial takes from the Common or from the weekday where the
+// saint has none of his own (235). The responsory goes with its reading, and
+// the antiphon is one before and after its canticle.
+const fromCommonOrWeekday = ['hymn', 'reading', 'responsory', 'canticle-ant', 'intercessions']
+const together: Record<string, string> = {
+  responsory: 'reading',
+  'canticle-ant-end': 'canticle-ant',
+}
+
+/**
+ * Whether the saint has this part of his own, and not from his Common: it is
+ * filed under him, and is neither what a layer of a Common or a rank gives nor
+ * a text of the Commons themselves.
+ */
+function isTheSaintsOwn(index: HourIndex, slot: string, key: OfficeKey): boolean {
+  const layers = index.slots[slot]
+  const layer = answering(layers, key)
+  if (!layer?.fields.includes('C')) return false
+  const part = layer.entries[project(key, layer.fields)]
+  if (index.ofTheCommons?.[slot]?.includes(part)) return false
+  return !layers.some(
+    (other) => !other.fields.includes('C') && Object.values(other.entries).includes(part),
+  )
 }
 
 async function parts(
@@ -96,11 +130,26 @@ async function parts(
   const whole = lookup(index.slots.whole, key)
   // What opens the hour is arranged day by day; the rest keeps one order.
   const opening = lookup(index.slots['@head'], key)?.split(' ') ?? []
+  const find = (name: string, at: OfficeKey) => lookup(index.slots[name], at)
+  // With the weekday's in place of the Common's: what the saint has of his
+  // own stays, and the Common is not named over the hour.
+  const ofTheWeekday = (slot: string) => {
+    if (form !== 'celebration-of-the-weekday') return false
+    if (slot === 'head-common') return true
+    const name = slot.replace(/~\d+$/, '')
+    const decides = together[name] ?? name
+    return fromCommonOrWeekday.includes(decides) && !isTheSaintsOwn(index, decides, key)
+  }
+  const weekday = officeKey(office, 'season', psalm)
   // Whose each part is, the saint's or the weekday's, is the rule's to say.
   const refs = (whole ? ['whole'] : [...opening, ...index.order])
     .map((slot) => ({
       slot,
-      ref: partOf(office.hour, slot, key, (name, at) => lookup(index.slots[name], at)),
+      ref: ofTheWeekday(slot)
+        ? slot.startsWith('head')
+          ? undefined
+          : find(slot, weekday)
+        : partOf(office.hour, slot, key, find),
     }))
     .filter((part): part is { slot: string; ref: string } => Boolean(part.ref))
   const blocksOf = async (ref: string) => {
@@ -184,7 +233,7 @@ export async function assembleHour(
   source: LothSource,
   psalm?: InvitatoryPsalm,
 ): Promise<HourPart[]> {
-  return form === 'celebration' && isCommemoration(office)
+  return form !== 'season' && isCommemoration(office)
     ? withTheCommemoration(office, source)
     : parts(office, form, source, psalm)
 }

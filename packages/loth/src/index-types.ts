@@ -49,13 +49,14 @@ export type OfficeKey = Record<Field, string>
 export const invitatoryPsalms = ['94c', '94s', '23c', '23s', '66c', '66s', '99c', '99s'] as const
 export type InvitatoryPsalm = (typeof invitatoryPsalms)[number]
 
-// Whose office is prayed where the day allows two: the season's weekday, or
-// the saint's.
-export type Form = 'season' | 'celebration'
+// Whose office is prayed where the day allows more than one: the season's
+// weekday; the saint's, with what he lacks from his Common; or the saint's
+// with what he lacks from the weekday.
+export type Form = 'season' | 'celebration' | 'celebration-of-the-weekday'
 
 export function officeKey(office: Office, form: Form, psalm: InvitatoryPsalm = '94c'): OfficeKey {
   const { day } = office
-  const kept = form === 'celebration' ? office.celebration : undefined
+  const kept = form === 'season' ? undefined : office.celebration
   return {
     s: day.season,
     w: String(day.week),
@@ -92,6 +93,10 @@ export interface HourIndex {
   // Where the book leaves a part to choice (the two hymns of a little hour),
   // slot -> the sets of parts one of which is said.
   choices?: Record<string, Choice[]>
+  // Slot -> the parts filed under a saint that are a Common's all the same
+  // (the Commons offer more texts than one, and no layer of a Common holds
+  // what only some of its saints take).
+  ofTheCommons?: Record<string, string[]>
 }
 
 export interface Choice {
@@ -108,16 +113,20 @@ export interface PartBundle {
 
 export const project = (key: OfficeKey, fields: Field[]) => fields.map((f) => key[f]).join('|')
 
-/** The entry of the most particular layer that knows this key. */
-export function lookup(layers: Layer[] | undefined, key: OfficeKey): string | undefined {
+/** The most particular layer that knows this key. */
+export function answering(layers: Layer[] | undefined, key: OfficeKey): Layer | undefined {
   if (!layers) return undefined
   for (let i = layers.length - 1; i >= 0; i--) {
     const layer = layers[i]
-    if (!applies(layer, key)) continue
-    const hit = layer.entries[project(key, layer.fields)]
-    if (hit !== undefined) return hit
+    if (applies(layer, key) && layer.entries[project(key, layer.fields)] !== undefined) return layer
   }
   return undefined
+}
+
+/** The entry of the most particular layer that knows this key. */
+export function lookup(layers: Layer[] | undefined, key: OfficeKey): string | undefined {
+  const layer = answering(layers, key)
+  return layer?.entries[project(key, layer.fields)]
 }
 
 // What a day must share with a day already checked for its hour to be taken

@@ -111,6 +111,7 @@ describe('the Liturgy of the Hours in Brazilian Portuguese', () => {
     expect(select?.options.map((o) => o.label.primary)).toEqual([
       'Tempo litúrgico',
       'São Bruno, presbítero',
+      'Memória com os textos da féria',
     ])
     expect(shown(select?.options[0].children ?? [])).not.toContain('Bruno')
     const saint = shown(select?.options[1].children ?? [])
@@ -118,12 +119,27 @@ describe('the Liturgy of the Hours in Brazilian Portuguese', () => {
     expect(saint).toMatch(/^São Bruno, presbítero$/m)
     // The memorial keeps the weekday's psalms and takes the saint's prayer.
     expect(saint).toContain('Salmo 84(85)')
+    // What he has not of his own may be the weekday's instead of the Common's
+    // (General Instruction, 235): the hymn and the reading change, the saint's
+    // name, his antiphon and his prayer stay.
+    const [weekday, , mixed] = (select?.options ?? []).map((o) => shown(o.children))
+    expect(mixed).toMatch(/^São Bruno, presbítero$/m)
+    expect(mixed).not.toContain('Do Comum')
+    const hymn = (text: string) => text.slice(text.indexOf('Hino'), text.indexOf('Salmodia'))
+    expect(hymn(mixed)).toBe(hymn(weekday))
+    expect(hymn(mixed)).not.toBe(hymn(saint))
+    const prayer = (text: string) => text.slice(text.lastIndexOf('Oração'))
+    expect(prayer(mixed)).toBe(prayer(saint))
   })
 
   it('offers the saint first on an obligatory memorial', async () => {
     // 7 October: Our Lady of the Rosary.
     const select = officeSelect(await hourOn('2026-10-07', 'lauds'))
-    expect(select?.options.map((o) => o.id)).toEqual(['celebration', 'season'])
+    expect(select?.options.map((o) => o.id)).toEqual([
+      'celebration',
+      'season',
+      'celebration-of-the-weekday',
+    ])
   })
 
   it('gives a solemnity one office, and its first Vespers the evening before', async () => {
