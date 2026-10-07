@@ -287,9 +287,15 @@ function renderBlock(block: Block, ctx: RenderContext, out: Primitive[], options
         const above = out[out.length - 1]
         const over = above?.type === 'heading' ? capitalTitles.get(above) : undefined
         // A title too long for its line runs on into the next: "…, BISPO" /
-        // "E DOUTOR DA IGREJA".
+        // "E DOUTOR DA IGREJA", "NOSSO SENHOR JESUS CRISTO," / "REI DO UNIVERSO".
         const runOn =
-          over && /^(E|DE|DA|DO|DAS|DOS|NA|NO)\s/.test(text) ? over[over.length - 1] : undefined
+          over &&
+          (/^(E|DE|DA|DO|DAS|DOS|NA|NO)\s/.test(text) ||
+            over[over.length - 1].endsWith(',') ||
+            (ctx.celebration !== undefined &&
+              letters(`${over[over.length - 1]}${text}`) === letters(ctx.celebration)))
+            ? over[over.length - 1]
+            : undefined
         const title = named(runOn ? `${runOn} ${text}` : text, ctx.celebration)
         if (above?.type === 'heading' && over && runOn) {
           over[over.length - 1] = `${runOn} ${text}`
