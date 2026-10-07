@@ -1,4 +1,4 @@
-import { PixelRatio } from 'react-native'
+import { PixelRatio, Platform } from 'react-native'
 
 /**
  * How a justified paragraph's measure is fitted to the platform that draws it.
@@ -48,6 +48,32 @@ export type MeasureFit = { key: string; shrinkPx: number }
  * moves in by less than a hair, and lines still meet it flush.
  */
 const headroomPx = () => 1 / PixelRatio.get() + 1
+
+/**
+ * The size a font is drawn at when asked for `sizePx`.
+ *
+ * Android sets type in whole device pixels and rounds a size up to the next
+ * one (`ceil(toPixelFromDIP(fontSize))` in React Native's text attributes):
+ * 22 at a density of 2.625 is 57.75 px and is drawn at 58. Every glyph is that
+ * much wider than the tables say at the nominal size, which on a full line is
+ * more than the headroom, so the line's last word wrapped. The breaker prices
+ * advances at this size instead.
+ */
+export function drawnFontSize(sizePx: number): number {
+  if (Platform.OS !== 'android') return sizePx
+  const ratio = PixelRatio.get()
+  return Math.ceil(sizePx * ratio) / ratio
+}
+
+/**
+ * Whether the platform measures a line by its ink. Android 15 does: a line's
+ * width runs to the edge of its last glyph's outline, so the hook of an `f`
+ * at the end of a line counts against the measure where its advance alone
+ * would have fit.
+ */
+export function measuresInk(): boolean {
+  return Platform.OS === 'android' && Number(Platform.Version) >= 35
+}
 
 /**
  * The most a paragraph's measure is narrowed, a pixel per attempt, before it
