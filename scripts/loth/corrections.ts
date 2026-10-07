@@ -13,6 +13,9 @@ const slips: [RegExp, string][] = [
   [/\bdipersastes\b/g, 'dispersastes'],
   [/\bsarcedotes\b/g, 'sacerdotes'],
   [/\bminhíalma\b/g, "minh'alma"],
+  // A letter typed for the figure one in a citation.
+  [/\b[lI](Cor|Pd|Sm)\b/g, '1$1'],
+  [/\bPG 6l,/g, 'PG 61,'],
 ]
 
 export const withoutSlips = (html: string): string => slips.reduce((text, [slip, right]) => text.replace(slip, right), html)

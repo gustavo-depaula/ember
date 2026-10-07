@@ -1,5 +1,5 @@
 import { addDays } from '@ember/liturgical'
-import { expect, it } from 'vitest'
+import { describe, expect, it } from 'vitest'
 import { assembleHour, formsOf, type HourPart } from '../hour'
 import { type Hour, hours, officeOf } from '../office'
 import { blockText, wordsOfBlocks } from '../text'
@@ -72,3 +72,14 @@ it('holds for every year of the reference', async () => {
 it('assembles every hour of 2041-2050', async () => {
   expect(await sweep(2041, 2050)).toEqual([])
 }, 300_000)
+
+// Found against the Latin edition: 11 January fell on a Saturday in every
+// year I of the reference, and the layers took that for the day's reading.
+describe('a day the reference never had', () => {
+  it('reads the Friday after the Epiphany as a Friday, whatever its year of the readings', async () => {
+    const office = officeOf(on('2041-01-11'), 'readings', calendar)
+    const parts = await assembleHour(office, 'season', corpus)
+    const reading = parts.find((part) => part.slot === 'reading-1')
+    expect(reading?.blocks.map(blockText).join('\n')).toContain('Isaías 65,13-25')
+  })
+})

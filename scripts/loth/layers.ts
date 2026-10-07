@@ -32,13 +32,18 @@ function tiers({ hour, slot }: Slot): Tier[] {
   // The Office of Readings has a two-year cycle of its own, for the first
   // reading and what answers it.
   const biennial = hour === 'readings' && /^(reading-1|responsory-1|verse)/.test(slot)
+  // A year of the readings is filed straight after the layer it divides, so
+  // that it never outweighs a later, more particular one: 11 January fell on
+  // a Saturday in every year I of 2020-2040, and "a weekday of 11 January in
+  // year I" must not answer for the Friday that the date and weekday tell.
+  const byYear = (fields: Field[]): Field[][] => (biennial ? [fields, [...fields, 'y']] : [fields])
   const ofSeason: Field[][] = [
     [],
     ['p', 'd', 'g'],
     ['s'],
     ['s', 'd', 'g'],
     ['s', 'p', 'd', 'g'],
-    ['s', 'w', 'd', 'g'],
+    ...byYear(['s', 'w', 'd', 'g']),
     ...(cycle ? ([['s', 'w', 'd', 'g', 'c']] as Field[][]) : []),
     // Advent's third week is by the week until the 17th comes.
     ['s', 'w', 'd', 'g', 'k'],
@@ -46,10 +51,9 @@ function tiers({ hour, slot }: Slot): Tier[] {
     // From 17 December the days go by date, and a date's weekday is like any
     // other but for the Sunday.
     ['s', 'k', 'g'],
-    ['s', 'k', 'D', 'g'],
-    ['s', 'k', 'd', 'g'],
+    ...byYear(['s', 'k', 'D', 'g']),
+    ...byYear(['s', 'k', 'd', 'g']),
     ...(cycle ? ([['s', 'k', 'd', 'g', 'c']] as Field[][]) : []),
-    ...(biennial ? ([['s', 'w', 'd', 'g', 'y'], ['s', 'k', 'D', 'g', 'y'], ['s', 'k', 'd', 'g', 'y']] as Field[][]) : []),
     ...(hour === 'compline' ? ([['p', 'd', 'g', 'a'], ['s', 'p', 'd', 'g', 'a']] as Field[][]) : []),
   ]
   // What a rank brings whatever the celebration: Night Prayer of a solemnity

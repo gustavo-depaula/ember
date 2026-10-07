@@ -55,6 +55,20 @@ describe("the Sunday's antiphon of the Gospel canticle", () => {
   })
 })
 
+describe('the fourth Sunday of Advent on 18-23 December', () => {
+  // 22 December was a Sunday twice in the reference, both times in a year C.
+  it('keeps at Lauds the antiphon of its year of the cycle, on a date met only in another', async () => {
+    expect((await antiphon('2041-12-22', 'lauds')).text).toMatch(
+      /^Ant\. O anjo Gabriel foi enviado/,
+    )
+    expect((await antiphon('2030-12-22', 'lauds')).text).toMatch(/^Ant\. Levantou-se Maria/)
+  })
+
+  it('has at Vespers the antiphon of the date all the same', async () => {
+    expect((await antiphon('2041-12-22', 'vespers')).text).toMatch(/^Ant\. Ó Rei das nações/)
+  })
+})
+
 describe('second Vespers of Christ the King', () => {
   it('go on past the responsory', async () => {
     const { text, slots } = await antiphon('2025-11-23', 'vespers')

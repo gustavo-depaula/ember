@@ -460,6 +460,22 @@ for (const hour of hours) {
         }
       }
     }
+    // At Lauds the fourth Sunday of Advent keeps its own antiphon of the
+    // Benedictus on 18-23 December, by the year of the cycle. A date meets a
+    // Sunday in years six or eleven apart, as like as not in one year of the
+    // cycle only (22 December: a year C both times), and what was seen there
+    // would pass for the date's.
+    if (hour === 'lauds' && (slot === 'canticle-ant' || slot === 'canticle-ant-end')) {
+      const fields: Field[] = ['s', 'k', 'd', 'g', 'c']
+      const found = built.layers.find((layer) => layer.fields.join('') === fields.join(''))
+      const byDateAndCycle = found ?? { fields, entries: {} }
+      if (!found) {
+        const ofCelebrations = built.layers.findIndex((layer) => layer.fields.some((f) => 'rKC'.includes(f)))
+        built.layers.splice(ofCelebrations < 0 ? built.layers.length : ofCelebrations, 0, byDateAndCycle)
+      }
+      for (const [c, antiphon] of Object.entries(sundays.Advento.laudes4))
+        for (let day = 18; day <= 23; day++) byDateAndCycle.entries[['advent', `12-${day}`, '0', '', c].join('|')] ??= antiphonPart(antiphon)
+    }
     slots[slot] = built.layers
     if (built.untold > 0) untold.set(slot, built.untold)
   }
