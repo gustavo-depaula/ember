@@ -183,6 +183,83 @@
   .dots { display: flex; gap: 6px; justify-content: center; padding: 6px 0 2px; }
   .dots i { width: 6px; height: 6px; border-radius: 3px; background: var(--border); }
   .dots i.on { background: var(--accent); }
+  .sw { background: none; border: 0; padding: 0; cursor: pointer; display: grid; place-items: center; }
+  .sw .b, .sw.on .a { display: none; }
+  .sw.on .b { display: block; }
+  /* 1 · the day */
+  .tl { display: grid; grid-template-columns: 44px 34px 1fr; align-items: center; }
+  .tl .h { font-size: 14px; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+  .tl .rl { align-self: stretch; position: relative; display: grid; place-items: center; }
+  .tl .rl::before { content: ''; position: absolute; top: 0; bottom: 0; left: 50%; border-left: 1.3px solid var(--c, var(--accentSubtle)); opacity: .6; }
+  .tl.c .rl::before { border-left-style: dashed; --c: var(--accent); opacity: .4; }
+  .tl .rl > * { position: relative; }
+  .tl .dot { width: 18px; height: 18px; border-radius: 9px; background: var(--c); }
+  .tl .x { padding: 9px 0; }
+  .tl .x b { display: block; font-weight: 400; font-size: 20px; line-height: 25px; }
+  .tl.c .x b { color: var(--muted); }
+  .tl.c .x span { display: block; font-size: 14px; line-height: 18px; font-style: italic; color: var(--muted); opacity: .8; }
+  .tl.gap .x { font: 400 12px/16px var(--display); letter-spacing: 2px; text-transform: uppercase; color: var(--accent); padding: 12px 0 2px; }
+  /* 2 · drag */
+  .drag { display: grid; grid-template-columns: 92px 1fr; gap: 12px; position: relative; padding-top: 10px; }
+  .drag .str { position: relative; height: 600px; }
+  .drag .str::before { content: ''; position: absolute; left: 22px; top: 0; bottom: 0; border-left: 1.3px solid var(--accentSubtle); }
+  .drag .str div { position: absolute; left: 13px; display: flex; align-items: center; gap: 10px; font-size: 14px; color: var(--muted); }
+  .drag .str i { width: 18px; height: 18px; border-radius: 9px; flex: none; }
+  .drag .slot i { background: var(--bg); border: 1.3px dashed var(--accent); width: 24px; height: 24px; border-radius: 12px; margin-left: -3px; box-shadow: 0 0 0 6px #d4a63a22; }
+  .drag .slot { color: var(--accent) !important; font-size: 17px !important; }
+  .drag .pile { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; align-content: start; }
+  .drag .pile .cw { --s: 112px; }
+  .drag .hole { width: 112px; height: 112px; border: 1px dashed var(--border); border-radius: 4px; }
+  .drag .lift { position: absolute; left: 46px; top: 196px; --s: 124px; transform: rotate(-7deg); filter: drop-shadow(0 18px 22px #000c); }
+  /* 3 · deck */
+  .bigcard { flex: none; width: 306px; border-radius: 22px; overflow: hidden; background: var(--surface); box-shadow: 0 12px 26px #0009; display: flex; flex-direction: column; }
+  .bigcard .hero { height: 230px; display: grid; place-items: center; }
+  .bigcard .hero .cw { --s: 168px; filter: drop-shadow(0 10px 14px #0008); }
+  .bigcard .bd { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 10px; }
+  .bigcard h5 { font: italic 400 32px/34px var(--title); }
+  .bigcard .meta { font: 400 12px/16px var(--display); letter-spacing: 2px; text-transform: uppercase; color: var(--accent); }
+  .bigcard p { font-size: 17px; line-height: 24px; color: var(--muted); }
+  /* 4 · index */
+  .idx h6 { font: 400 13px/18px var(--display); letter-spacing: 3px; text-transform: uppercase; color: #d45a4c; text-align: center; padding: 18px 0 6px; }
+  .idx h6::before, .idx h6::after { content: ' · '; color: var(--accentSubtle); }
+  .idx .e { display: flex; align-items: baseline; gap: 6px; min-height: 40px; font-size: 20px; line-height: 40px; }
+  .idx .e i { flex: 1; border-bottom: 1.5px dotted var(--border); transform: translateY(-6px); min-width: 12px; }
+  .idx .e small { font-size: 15px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .idx .e .sw, .idx .e .in { align-self: center; width: 36px; height: 36px; display: grid; place-items: center; margin-right: -8px; }
+  .idx .e svg { width: 36px; height: 36px; }
+  /* 5 · mosaic */
+  .mos { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; padding-top: 12px; }
+  .mt { position: relative; height: 100px; border-radius: 16px; display: flex; align-items: flex-end; background-size: cover; background-position: center 25%; box-shadow: 0 4px 10px #0004; }
+  .mt.w2 { grid-column: span 2; height: 150px; }
+  .mt.w3 { grid-column: span 3; height: 170px; }
+  .mt.art::before { content: ''; position: absolute; inset: 0; border-radius: 16px; background: linear-gradient(#0000 30%, #000c); }
+  .mt b { position: relative; font: 400 17px/18px var(--title); color: var(--blockInk); padding: 11px; }
+  .mt.w2 b, .mt.w3 b { font-size: 26px; line-height: 27px; padding: 14px; }
+  .mt b small { display: block; font: italic 400 14px/18px var(--body); opacity: .8; padding-top: 2px; }
+  .mt .gh { position: absolute; top: 8px; left: 10px; opacity: .2; }
+  .mt .sw, .mt .in { position: absolute; top: -8px; right: -8px; width: 34px; height: 34px; border-radius: 17px; background: var(--bg); display: grid; place-items: center; }
+  .mt svg.bead { width: 34px; height: 34px; }
+  /* 6 · how long */
+  .ask { font: italic 400 30px/34px var(--title); padding-top: 6px; }
+  .slider { position: relative; height: 64px; margin: 8px 6px 0; }
+  .slider::before { content: ''; position: absolute; left: 0; right: 0; top: 20px; border-top: 1.3px solid var(--accentSubtle); }
+  .slider span { position: absolute; top: 34px; transform: translateX(-50%); font-size: 14px; color: var(--muted); white-space: nowrap; }
+  .slider span::before { content: ''; position: absolute; left: 50%; top: -18px; width: 7px; height: 7px; margin-left: -3.5px; border-radius: 4px; background: var(--accentSubtle); }
+  .slider span.on { color: var(--accent); font-size: 17px; }
+  .slider span.on::before { width: 22px; height: 22px; border-radius: 11px; margin-left: -11px; top: -25px; background: var(--day); box-shadow: 0 0 0 7px #e3b04b2e; }
+  .moments { display: flex; gap: 8px; padding: 6px 0 4px; }
+  .moments span { display: flex; align-items: center; gap: 6px; border: 1px solid var(--border); border-radius: 8px; padding: 6px 11px; font-size: 16px; line-height: 22px; color: var(--muted); }
+  .moments span.on { border-color: var(--accentSubtle); color: var(--ink); }
+  .moments i { width: 8px; height: 8px; border-radius: 4px; }
+  /* 7 · painted pages */
+  .hero7 { margin: -58px -24px 0; height: 330px; background-size: cover; background-position: center 18%; position: relative; display: flex; flex-direction: column; justify-content: flex-end; padding: 0 24px 16px; }
+  .hero7::before { content: ''; position: absolute; inset: 0; background: linear-gradient(#0e0d0c66, #0e0d0c00 30%, #0e0d0c00 45%, #0e0d0c); }
+  .hero7 > * { position: relative; }
+  .hero7 .bk { position: absolute; top: 58px; left: 24px; color: var(--blockInk); font-size: 26px; }
+  .hero7 .kick { font: 400 12px/16px var(--display); letter-spacing: 2.5px; text-transform: uppercase; color: #e8c97a; }
+  .hero7 h5 { font: italic 400 46px/48px var(--title); color: var(--blockInk); }
+  .hero7 p { font-size: 16px; line-height: 22px; color: #dacab2; padding-top: 4px; }
+  .pager { display: flex; justify-content: space-between; align-items: center; font-size: 15px; color: var(--muted); padding: 2px 0; }
   .note { border-top: 0.5px solid var(--border); padding-top: 20px; color: var(--muted); max-width: 68ch; }
   .note b { color: var(--ink); font-weight: 400; }
   .note ul { padding-left: 20px; display: flex; flex-direction: column; gap: 8px; padding-top: 8px; }
@@ -192,8 +269,18 @@
 <main>
   <header>
     <h1>Acrescentar à regra</h1>
-    <p><b style="color:var(--ink);font-weight:400">Round five is at the top:</b> the listing itself, four ways. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
+    <p><b style="color:var(--ink);font-weight:400">Round six is at the top:</b> seven directions, deliberately far apart. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
   </header>
+
+  <section class="q">
+    <h2>Rodada 6 · Sete direções</h2>
+    <h3>Seven different answers to “show me what I could add”</h3>
+    <p>Wider apart than before, on purpose: each one organises the candidates by a different idea, so you can point at a direction instead of a detail. All are the page the open bead opens. Beads are live where drawn; the drag in 2 is a still.</p>
+    <div class="strip" id="r6a"></div>
+    <div class="strip" id="r6b"></div>
+  </section>
+
+  <div class="round">Rodada 5</div>
 
   <section class="q">
     <h2>Rodada 5 · A listagem</h2>
@@ -710,6 +797,66 @@
     const phone = e.target.closest('.phone'), bar = phone?.querySelector('.bar')
     if (!bar) return
     const n = phone.querySelectorAll('[data-on="1"]').length
+    bar.hidden = n === 0
+    bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
+  })
+
+  // ── Round six: seven directions ──
+  Object.assign(D, {
+    'three-hail-marys-opus-dei': ['Três Ave-Marias antes de dormir, pedindo a Nossa Senhora a pureza.', '2 min'],
+    'three-oclock-prayer': ['Uma breve oração na Hora da Misericórdia, a hora em que Cristo morreu.', '2 min'],
+    'mental-prayer': ['Um tempo de conversa silenciosa com Deus: preparação, meditação, conclusão.', '15 min'],
+  })
+  const sw = (c = 'var(--day)') => `<button class="sw" aria-label="Acrescentar"><span class="a">${plusBead(40).replace('<svg', '<svg class="bead"')}</span><span class="b">${doneBead(c).replace('<svg', '<svg class="bead"')}</span></button>`
+  const inBead = (c) => `<span class="in">${doneBead(c).replace('<svg', '<svg class="bead"')}</span>`
+  const pg = (title, body) => page(title, body, bar3)
+
+  // 1 · O dia: the rule and what could join it, on one clock.
+  const tlr = (h, n, c) => `<div class="tl" style="--c:${c}"><span class="h">${h}</span><span class="rl"><span class="dot"></span></span><div class="x"><b>${n}</b></div></div>`
+  const tlc = (id, c) => `<div class="tl c"><span class="h"></span><span class="rl">${sw(c)}</span><div class="x"><b>${R[id][2]}</b><span>${D[id][1].includes('min') ? D[id][1] : R[id][3] + ' min'}</span></div></div>`
+  const tlg = (n) => `<div class="tl gap c"><span class="h"></span><span class="rl"></span><div class="x">${n}</div></div>`
+  const d1 = `<div style="padding-top:8px">` + tlr('6h30', 'Oferecimento do Dia', hue.dawn) + tlr('7h30', 'Oração Mental', hue.day) + tlg('Cabe pela manhã') + tlc('gospel-of-the-day', hue.day) + tlg('Nada ainda ao meio-dia') + tlc('angelus', hue.day) + tlc('visit-blessed-sacrament', hue.day) + tlg('À tarde') + tlc('chaplet-of-divine-mercy', hue.day) + tlr('18h30', 'Santo Rosário', hue.dusk) + tlg('Depois do jantar') + tlc('spiritual-reading', hue.dusk) + tlr('21h', 'Exame de Consciência', hue.night) + tlg('Antes de dormir') + tlc('three-hail-marys-opus-dei', hue.night) + `</div>`
+
+  // 2 · Arrastar: a still of a card held over the string.
+  const pile = ['gospel-of-the-day', 'visit-blessed-sacrament', 'spiritual-reading', 'chaplet-of-divine-mercy', 'stations-cross', 'three-hail-marys-opus-dei', 'seven-sorrows']
+  const d2 = `<div class="whisper" style="text-align:left">Arraste um santinho até a hora em que quer rezá-lo.</div><div class="drag"><div class="str">${[[10, '6h30', hue.dawn], [70, '7h30', hue.day], [390, '18h30', hue.dusk], [470, '21h', hue.night]].map(([t, h, c]) => `<div style="top:${t}px"><i style="background:${c}"></i>${h}</div>`).join('')}<div class="slot" style="top:228px"><i></i>12h15</div></div><div class="pile">${big(pile[0], 112)}${big(pile[1], 112)}<div class="hole"></div>${pile.slice(2).map((id) => big(id, 112)).join('')}</div><div class="cw lift">${cover('angelus')}</div></div>`
+
+  // 3 · Baralho: one practice per card, swiped sideways.
+  const bigcard = (id, tone, meta, cta) => `<div class="bigcard"><div class="hero" style="background:linear-gradient(160deg,${tone[0]},${tone[1]})">${big(id, 168)}</div><div class="bd"><div class="meta">${meta}</div><h5>${R[id][2]}</h5><p>${D[id][0]}</p><div class="btn" data-btn style="margin-top:6px">${cta}</div></div></div>`
+  const d3 = facetRow(ruleTabs, 1) + `<div class="deck" style="padding-top:16px;gap:16px">${bigcard('angelus', ['#1E3A5C', '#0A1626'], '3 min · três vezes ao dia', 'Acrescentar · às 12h')}${bigcard('gospel-of-the-day', ['#5A1722', '#24090E'], '5 min · todo dia', 'Acrescentar')}</div><div class="dots" style="padding-top:14px"><i class="on"></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div class="whisper" style="padding-top:6px">1 de 65 · deslize</div>`
+
+  // 4 · Índice: the contents page of a prayer book.
+  const e = (n, m, c) => `<div class="e">${n}<i></i><small>${m}</small>${c ? inBead(c) : sw()}</div>`
+  const d4 = `<div class="idx"><h6>De cada dia</h6>${e('Oferecimento do Dia', '6h30', hue.dawn)}${e('Oração Mental', '7h30', hue.day)}${e('Evangelho do Dia', '5 min')}${e('Angelus', '3 min')}${e('Leitura Espiritual', '15 min')}${e('Exame de Consciência', '21h', hue.night)}<h6>A Nossa Senhora</h6>${e('Santo Rosário', '18h30', hue.dusk)}${e('Ladainha de Nossa Senhora', '10 min')}${e('Coroa das Sete Dores', '25 min')}${e('Três Ave-Marias', '2 min')}<h6>Diante do Santíssimo</h6>${e('Visita ao Santíssimo', '3 min')}${e('Hora Santa', '60 min')}${e('Ação de Graças após a Missa', '10 min')}</div>`
+
+  // 5 · Mosaico: Search's tiles, sized by how much each matters to you.
+  const mt = (cls, name, sub, art, tone, ic, c) => `<div class="mt ${cls} ${art ? 'art' : ''}" style="${art ? `background-image:url(art/${art}.jpg)` : `background:linear-gradient(${tone[0]},${tone[1]})`}">${ic ? `<span class="gh">${icon(ic, cls ? 70 : 46, '#f5efe2')}</span>` : ''}<b>${name}${sub ? `<small>${sub}</small>` : ''}</b>${c ? inBead(c) : sw()}</div>`
+  const d5 = `<div class="mos">` + mt('w3', 'Terço da Divina Misericórdia', 'Você já reza · 6 vezes neste mês', 'sacred-heart') + mt('w2', 'Angelus', 'Falta ao meio-dia', '', ['#24466c', '#12233a'], 'bell') + mt('', 'Via Sacra', '', 'way-of-the-cross') + mt('', 'Santo Rosário', '', 'marian', 0, 0, hue.dusk) + mt('', 'Evangelho do Dia', '', '', ['#27573d', '#173826'], 'book') + mt('', 'Visita ao Santíssimo', '', 'eucharistic') + mt('w2', 'Oração Mental', 'na regra · 7h30', 'mental-prayer', 0, 0, hue.day) + mt('', 'Leitura Espiritual', '', '', ['#6b2a35', '#3a141c'], 'book') + mt('', 'Ladainhas', '', 'litanies') + mt('', 'Exame de Consciência', '', '', ['#3a4658', '#1c232e'], 'prayer', hue.night) + mt('', 'Novenas', '', 'novenas') + `</div>`
+
+  // 6 · Quanto tempo: narrow by the one thing the person knows for sure.
+  const short = ['angelus', 'visit-blessed-sacrament', 'gospel-of-the-day', 'three-hail-marys-opus-dei', 'three-oclock-prayer']
+  const d6 = `<div class="ask">Quanto tempo você tem?</div><div class="slider">${[['0%', '1 min'], ['25%', '5 min', 1], ['50%', '15 min'], ['75%', '30 min'], ['100%', '1 h']].map(([l, t, on]) => `<span class="${on ? 'on' : ''}" style="left:${l}">${t}</span>`).join('')}</div><div class="moments">${[['manhã', hue.dawn], ['dia', hue.day, 1], ['tarde', hue.dusk], ['noite', hue.night]].map(([n, c, on]) => `<span class="${on ? 'on' : ''}"><i style="background:${c}"></i>${n}</span>`).join('')}</div>` + lsec('Cabem em 5 minutos, de dia · 9') + short.map((id) => `<div class="prow">${icon(R[id][1])}<div class="t"><b>${R[id][2]}</b><span style="font-style:normal">${D[id][0].split(/[:.,]/)[0]}</span></div>${sw()}</div>`).join('')
+
+  // 7 · Páginas pintadas: one category per page, turned sideways.
+  const d7 = `<div class="hero7" style="background-image:url(art/marian.jpg)"><span class="bk">‹</span><div class="kick">Acrescentar à regra</div><h5>A Nossa Senhora</h5><p>O Rosário, as antífonas, os pequenos ofícios.</p></div><div class="pager"><span>‹ De cada dia</span><div class="dots"><i></i><i class="on"></i><i></i><i></i><i></i><i></i></div><span>Eucarísticas ›</span></div>` + [['rosary', 'na regra · todo dia às 18h30', hue.dusk], ['litany-loreto', 'As invocações de Loreto · 10 min'], ['seven-sorrows', 'As sete dores de Maria · 25 min'], ['three-hail-marys-opus-dei', 'Antes de dormir · 2 min'], ['little-office-bvm', 'O Ofício abreviado de Maria · 15 min']].map(([id, sub, c]) => `<div class="prow">${icon(R[id][1] || 'mary')}<div class="t"><b>${R[id][2]}</b><span style="font-style:normal">${sub}</span></div>${c ? `<span class="add">${doneBead(c)}</span>` : sw()}</div>`).join('')
+
+  document.getElementById('r6a').innerHTML = [
+    col('1 · O dia', 'One clock. Your rule stands on it as it does in the sheet, and between its beads sit the practices that fit that stretch of the day, each an open bead. You add by seeing where your day is empty.', pg('Acrescentar à regra', d1)),
+    col('2 · Arrastar ao cordão', 'The string stays on screen and the candidates are a pile of holy cards beside it. You drag one onto the string; where you drop it is its hour. One gesture answers both “what” and “when”.', pg('Acrescentar à regra', d2)),
+    col('3 · O baralho', 'One practice at a time, large, with room to say what it is. Swipe to the next; the button already names the hour. Slow for 65, right for a dozen suggestions.', pg('Acrescentar à regra', d3)),
+    col('4 · O índice', 'The contents page of a devocionário: rubric headings, names, dotted leaders, the bead where the page number would be. No pictures. A whole category fits one screen and reads in seconds.', pg('Acrescentar à regra', d4)),
+  ].join('')
+  document.getElementById('r6b').innerHTML = [
+    col('5 · O mosaico', 'Search\'s painted tiles, sized by how much each matters to you: what you already pray is widest, a gap in your day next, the rest small. The bead rides the corner.', pg('Acrescentar à regra', d5)),
+    col('6 · Quanto tempo', 'Starts from what the person knows for sure: how many minutes they have, and when. A bead slides along a line; the list is only what fits. Each row says in a phrase what it is.', pg('Acrescentar à regra', d6)),
+    col('7 · Páginas pintadas', 'No row of tabs. Each kind of practice is a page under its painting, and you turn pages sideways. The list beneath is short and plain.', `<div class="phone"><div class="screen" style="gap:6px">${d7}</div>${bar3}</div>`),
+  ].join('')
+  for (const id of ['r6a', 'r6b']) document.getElementById(id).addEventListener('click', (ev) => {
+    const b = ev.target.closest('.sw'), btn = ev.target.closest('[data-btn]')
+    if (b) b.classList.toggle('on')
+    else if (btn) { const on = btn.classList.toggle('outline'); if (on) btn.dataset.label = btn.textContent; btn.textContent = on ? '✓ Na regra' : btn.dataset.label }
+    else return
+    const phone = ev.target.closest('.phone'), bar = phone.querySelector('.bar'), n = phone.querySelectorAll('.sw.on, .btn.outline[data-btn]').length
     bar.hidden = n === 0
     bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
   })
