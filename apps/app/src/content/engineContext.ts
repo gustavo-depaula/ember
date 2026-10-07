@@ -1,7 +1,7 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
 import { getResidentBook, loadBookChapterText, loadBooks } from '@/content/books'
 import { getProseText, resolveCanticle, resolvePrayer } from '@/content/resolver'
-import i18n, { localizeBilingual, localizeContent } from '@/lib/i18n'
+import i18n, { localizeBilingual } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -64,7 +64,6 @@ export function createEngineContext(
     language: i18n.language,
     contentLanguage,
     localize: (text) => localizeBilingual(text, contentLanguage, secondaryLanguage),
-    localizeUI: localizeContent,
     t: (k, o) => i18n.t(k, o) as string,
     parsePsalmRef,
     parseTrackEntry,

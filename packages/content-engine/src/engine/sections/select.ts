@@ -125,7 +125,7 @@ export function resolveSelectFromData(
   ec: EngineContext,
   resolveSection: SectionResolver,
 ): RenderedSection[] {
-  const fromPath = substituteTemplateVars(section.from, composeVars(context))
+  const fromPath = substituteTemplateVars(section.from, composeVars(context), ec.contentLanguage)
   const value = resolvePath(context, fromPath)
   const items = Array.isArray(value) ? value : []
   if (items.length === 0) return []
@@ -143,7 +143,7 @@ export function resolveSelectFromData(
     }
     const downstreamVars = composeVars(downstreamContext)
     return section.body.flatMap((s) => {
-      const substituted = substituteInFlowSection(s, downstreamVars)
+      const substituted = substituteInFlowSection(s, downstreamVars, ec.contentLanguage)
       return resolveSection(substituted, downstreamContext, ec)
     })
   }

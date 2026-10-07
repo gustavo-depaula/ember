@@ -1,3 +1,5 @@
+import type { LocalizedText } from '../types'
+
 export const ordinalsEn = [
   'First',
   'Second',
@@ -44,7 +46,7 @@ export const ordinalsPtBR = [
   'Vigésimo',
 ]
 
-export function getOrdinal(index: number, language: string): string {
-  const ordinals = language === 'pt-BR' ? ordinalsPtBR : ordinalsEn
-  return ordinals[index] ?? String(index + 1)
+export function getOrdinal(index: number): LocalizedText {
+  const numeral = String(index + 1)
+  return { 'en-US': ordinalsEn[index] ?? numeral, 'pt-BR': ordinalsPtBR[index] ?? numeral }
 }

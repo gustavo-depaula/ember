@@ -43,16 +43,6 @@ export function FlowPreview({ flow }: { flow: FlowDefinition }) {
       },
     })
 
-    const localizeUI = (text: Record<string, string | undefined>): string => {
-      return (
-        text[primaryLang] ??
-        text['en-US'] ??
-        text['pt-BR'] ??
-        Object.values(text).find((v) => v) ??
-        ''
-      )
-    }
-
     const localize = (
       text: string | Record<string, string | undefined>,
     ): { primary: string; secondary?: string } => {
@@ -66,7 +56,6 @@ export function FlowPreview({ flow }: { flow: FlowDefinition }) {
       language: primaryLang,
       contentLanguage: primaryLang,
       localize,
-      localizeUI,
       t: (key: string) => key,
       parsePsalmRef: (ref: number | string) =>
         ({

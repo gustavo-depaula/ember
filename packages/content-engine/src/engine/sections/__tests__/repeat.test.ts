@@ -58,6 +58,57 @@ describe('resolveFlow — repeat from', () => {
     ])
   })
 
+  // The app can run its interface in one language and its prayers in another;
+  // a heading must not take its template from one and its values from the other.
+  it('fills each language of a template with that language’s values', () => {
+    expect(
+      resolveFlow(
+        flow({
+          type: 'repeat',
+          from: 'mysteries',
+          sections: [
+            {
+              type: 'heading',
+              text: {
+                'en-US': '{{ordinal}} Mystery: {{name}}',
+                'pt-BR': '{{ordinal}} Mistério: {{name}}',
+              },
+            },
+            { type: 'meditation', text: '{{meditation}}' },
+          ],
+        }),
+        makeContext({
+          flowData: {
+            mysteries: [
+              {
+                name: { 'en-US': 'The Agony in the Garden', 'pt-BR': 'A Agonia no Horto' },
+                meditation: { 'en-US': 'Jesus prays.', 'pt-BR': 'Jesus ora.' },
+              },
+            ],
+          },
+        }),
+        {
+          ...makeEngineContext(),
+          language: 'pt-BR',
+          contentLanguage: 'en-US',
+          localize: (text) =>
+            typeof text === 'string'
+              ? { primary: text }
+              : { primary: text['en-US'] ?? '', secondary: text['pt-BR'] },
+        },
+      ),
+    ).toEqual([
+      {
+        type: 'heading',
+        text: {
+          primary: 'First Mystery: The Agony in the Garden',
+          secondary: 'Primeiro Mistério: A Agonia no Horto',
+        },
+      },
+      { type: 'meditation', text: { primary: 'Jesus prays.', secondary: 'Jesus ora.' } },
+    ])
+  })
+
   it('template-substitutes the from field before lookup', () => {
     expect(
       resolveFlow(

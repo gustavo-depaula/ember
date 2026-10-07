@@ -23,7 +23,6 @@ export type EngineContext = {
   language: string
   contentLanguage: ContentLanguage
   localize: (text: string | { 'en-US'?: string; 'pt-BR'?: string; la?: string }) => BilingualText
-  localizeUI: (text: { 'en-US'?: string; 'pt-BR'?: string }) => string
   t: (key: string, opts?: Record<string, unknown>) => string
   parsePsalmRef: (ref: number | string) => PsalmRef
   parseTrackEntry: (
@@ -78,7 +77,7 @@ export type FlowContext = {
   trackState?: Record<string, { current_index: number }>
   cycleData?: Record<string, CycleData>
   programDay?: number
-  templateVars?: Record<string, string>
+  templateVars?: Record<string, string | LocalizedText>
   resolvedProse?: ResolvedProse
   // Holds both repeat-iteration arrays (RepeatEntry[]) and DataSource load results (arbitrary objects).
   flowData?: Record<string, unknown>
@@ -173,28 +172,13 @@ export function composeVars(
   }
 }
 
-export function resolveEntryVars(
-  entry: Record<string, unknown>,
-  ec: EngineContext,
-): Record<string, unknown> {
-  const vars: Record<string, unknown> = {}
-  for (const [k, v] of Object.entries(entry)) {
-    if (
-      typeof v === 'object' &&
-      v !== null &&
-      !Array.isArray(v) &&
-      ('en-US' in v || 'pt-BR' in v)
-    ) {
-      vars[k] = ec.localizeUI(v as LocalizedText)
-    } else if (typeof v === 'number') {
-      vars[k] = String(v)
-    } else {
-      // Pass arrays, objects, strings, etc. through unchanged so whole-string
-      // template substitution can pick them up as raw values.
-      vars[k] = v
-    }
-  }
-  return vars
+// Numbers become strings; everything else (strings, arrays, localized text)
+// passes through unchanged, so substitution can pick a localized value's
+// language at the point of use and whole-string templates get the raw value.
+export function resolveEntryVars(entry: Record<string, unknown>): Record<string, unknown> {
+  return Object.fromEntries(
+    Object.entries(entry).map(([k, v]) => [k, typeof v === 'number' ? String(v) : v]),
+  )
 }
 
 export const bilingualEmpty: BilingualText = { primary: '' }

@@ -105,7 +105,7 @@ function executeResolveSteps(
 
     const firstLabel = entries[0]?.label
     const strategyVars = strategyResult.templateVars ?? {}
-    const mergedVars: Record<string, string> = {
+    const mergedVars: FlowContext['templateVars'] = {
       ...strategyVars,
       meditationTitle:
         typeof firstLabel === 'string'
@@ -180,6 +180,7 @@ function assertSupportedFlowVersion(flow: FlowDefinition): void {
 function collectBookChapterRefs(
   flow: FlowDefinition,
   context: FlowContext,
+  ec: EngineContext,
 ): { book: string; chapterId: string }[] {
   const refs: { book: string; chapterId: string }[] = []
 
@@ -214,7 +215,7 @@ function collectBookChapterRefs(
           if (typeof v === 'string') vars[k] = v
         }
         for (const s of section.sections) {
-          const substituted = substituteInFlowSection(s, vars)
+          const substituted = substituteInFlowSection(s, vars, ec.contentLanguage)
           walkSection(substituted)
         }
         break
@@ -284,7 +285,7 @@ function resolveFlowWithContext(
   const vars = composeVars(ctx)
   const hasVars = Object.keys(vars).length > 0
   const sections = hasVars
-    ? flow.sections.map((s) => substituteInFlowSection(s, vars))
+    ? flow.sections.map((s) => substituteInFlowSection(s, vars, engineContext.contentLanguage))
     : flow.sections
 
   // Process sequentially so select `as` variables propagate to subsequent sections
@@ -302,7 +303,11 @@ function resolveFlowWithContext(
         // path-access it as `{{celebration.title}}` etc. Do NOT also bind the
         // selected id into templateVars[as] — that would shadow the object via
         // composeVars's templateVars-wins precedence and break path access.
-        const fromPath = substituteTemplateVars(section.from, composeVars(ctx))
+        const fromPath = substituteTemplateVars(
+          section.from,
+          composeVars(ctx),
+          engineContext.contentLanguage,
+        )
         const value = resolvePath(ctx, fromPath)
         const items = Array.isArray(value) ? value : []
         if (items.length > 0) {
@@ -372,7 +377,7 @@ export async function resolveFlowAsync(
   // bound by resolve steps and write into flowData under their own `as` keys.
   ctx = await executeLoadSteps(flow, ctx, engineContext)
 
-  const sectionBookChapterRefs = collectBookChapterRefs(flow, ctx)
+  const sectionBookChapterRefs = collectBookChapterRefs(flow, ctx, engineContext)
   const allBookChapterRefs = [...dynamicBookChapters, ...sectionBookChapterRefs]
 
   if (allBookChapterRefs.length === 0) {

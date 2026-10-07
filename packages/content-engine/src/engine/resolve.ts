@@ -28,7 +28,7 @@ import { getCycleIndex } from './sections/cycle'
 import { resolveCanticleRef, resolveInlinePrayer, resolvePrayerRef } from './sections/prayer'
 import { resolveRepeat } from './sections/repeat'
 import { computeSelectedId, resolveSelectFromData } from './sections/select'
-import { substituteInFlowSection, substituteTemplateVars } from './vars'
+import { isLocalized, substituteInFlowSection, substituteTemplateVars } from './vars'
 
 // Lectio's parsed ReadingReference becomes an `include` of a content source.
 // The source IDs come from EngineContext.contentSources — engine doesn't
@@ -225,10 +225,10 @@ export function resolveSection(
       const index = getCycleIndex(cycleData.indexBy, context.date, entries.length, context)
       const entry = entries[index] as Record<string, unknown>
 
-      const entryVars = resolveEntryVars(entry, ec)
+      const entryVars = resolveEntryVars(entry)
       const substVars = composeVars(context, entryVars)
       return section.sections.flatMap((s) => {
-        const substituted = substituteInFlowSection(s, substVars)
+        const substituted = substituteInFlowSection(s, substVars, ec.contentLanguage)
         return resolveSection(substituted, context, ec)
       })
     }
@@ -258,24 +258,28 @@ export function resolveSection(
 
     case 'options': {
       if ('from' in section) {
-        const fromPath = substituteTemplateVars(section.from, composeVars(context))
+        const fromPath = substituteTemplateVars(
+          section.from,
+          composeVars(context),
+          ec.contentLanguage,
+        )
         const value = resolvePath(context, fromPath)
         const entries = (Array.isArray(value) ? value : []) as RepeatEntry[]
         if (!entries.length) return []
 
         const resolved = entries
           .map((entry, i) => {
-            const vars = resolveEntryVars(entry, ec)
-            const labelText = typeof vars.label === 'string' ? vars.label : undefined
-            if (!labelText) return undefined
+            const vars = resolveEntryVars(entry)
+            const label = vars.label
+            if (!label || (typeof label !== 'string' && !isLocalized(label))) return undefined
             const entryId = typeof vars.id === 'string' ? vars.id : String(i)
             const overlay = { ...vars, index: String(i) }
             const substVars = composeVars(context, overlay)
             return {
               id: entryId,
-              label: ec.localize({ 'pt-BR': labelText, 'en-US': labelText }),
+              label: ec.localize(label as string | LocalizedText),
               sections: section.sections.flatMap((s) => {
-                const substituted = substituteInFlowSection(s, substVars)
+                const substituted = substituteInFlowSection(s, substVars, ec.contentLanguage)
                 return resolveSection(substituted, context, ec)
               }),
             }
@@ -410,7 +414,8 @@ export function resolveSection(
       if (!frag) return []
       const vars = composeVars(context)
       return frag.flatMap((s) => {
-        const substituted = Object.keys(vars).length > 0 ? substituteInFlowSection(s, vars) : s
+        const substituted =
+          Object.keys(vars).length > 0 ? substituteInFlowSection(s, vars, ec.contentLanguage) : s
         return resolveSection(substituted, context, ec)
       })
     }
@@ -438,7 +443,7 @@ export function resolveSection(
       const args = section.args ?? {}
       const vars = composeVars(context, args)
       return frag.flatMap((s) => {
-        const substituted = substituteInFlowSection(s, vars)
+        const substituted = substituteInFlowSection(s, vars, ec.contentLanguage)
         return resolveSection(substituted, context, ec)
       })
     }

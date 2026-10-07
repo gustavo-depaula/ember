@@ -23,7 +23,7 @@ export function resolveRepeat(
   resolveSection: SectionResolver,
 ): RenderedSection[] {
   if ('from' in section) {
-    const fromPath = substituteTemplateVars(section.from, composeVars(context))
+    const fromPath = substituteTemplateVars(section.from, composeVars(context), ec.contentLanguage)
     const value = resolvePath(context, fromPath)
     const entries = (Array.isArray(value) ? value : []) as RepeatEntry[]
     if (!entries.length) return []
@@ -31,24 +31,24 @@ export function resolveRepeat(
     const iterCount = section.count ? Math.min(section.count, entries.length) : entries.length
     return Array.from({ length: iterCount }, (_, i) => {
       const entry = entries[i]
-      const resolved = entry ? resolveEntryVars(entry, ec) : {}
+      const resolved = entry ? resolveEntryVars(entry) : {}
       const overlay: Record<string, unknown> = {
         ...resolved,
         index: String(i),
-        ordinal: getOrdinal(i, ec.language),
+        ordinal: getOrdinal(i),
       }
-      const definedTemplateVars: Record<string, string> = {
+      const definedTemplateVars: FlowContext['templateVars'] = {
         ...context.templateVars,
         ...Object.fromEntries(
           Object.entries(resolved).filter((e): e is [string, string] => e[1] !== undefined),
         ),
         index: String(i),
-        ordinal: getOrdinal(i, ec.language),
+        ordinal: getOrdinal(i),
       }
       const iterContext = { ...context, templateVars: definedTemplateVars }
       const substVars = composeVars(context, overlay)
       return section.sections.flatMap((s) => {
-        const substituted = substituteInFlowSection(s, substVars)
+        const substituted = substituteInFlowSection(s, substVars, ec.contentLanguage)
         return resolveSection(substituted, iterContext, ec)
       })
     }).flat()
@@ -68,9 +68,9 @@ export function resolveRepeat(
   }
 
   return Array.from({ length: count }, (_, i) => {
-    const overlay: Record<string, string> = {
+    const overlay = {
       index: String(i),
-      ordinal: getOrdinal(i, ec.language),
+      ordinal: getOrdinal(i),
     }
     const iterContext = {
       ...context,
@@ -78,7 +78,7 @@ export function resolveRepeat(
     }
     const substVars = composeVars(context, overlay)
     return templateSections.flatMap((s) => {
-      const substituted = substituteInFlowSection(s, substVars)
+      const substituted = substituteInFlowSection(s, substVars, ec.contentLanguage)
       return resolveSection(substituted, iterContext, ec)
     })
   }).flat()

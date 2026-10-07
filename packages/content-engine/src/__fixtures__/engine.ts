@@ -13,7 +13,6 @@ export function makeEngineContext(prose: Record<string, { 'pt-BR'?: string }> = 
       if (typeof text === 'string') return { primary: text }
       return { primary: text['pt-BR'] ?? '' }
     },
-    localizeUI: (text) => text['pt-BR'] ?? '',
     t: (key) => key,
     parsePsalmRef: () => ({ book: 'psalms', chapter: 1, numbering: 'hebrew' }) as never,
     parseTrackEntry: () => [],
