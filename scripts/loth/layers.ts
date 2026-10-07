@@ -40,6 +40,9 @@ function tiers({ hour, slot }: Slot): Tier[] {
     ['s', 'p', 'd', 'g'],
     ['s', 'w', 'd', 'g'],
     ...(cycle ? ([['s', 'w', 'd', 'g', 'c']] as Field[][]) : []),
+    // Advent's third week is by the week until the 17th comes.
+    ['s', 'w', 'd', 'g', 'k'],
+    ...(cycle ? ([['s', 'w', 'd', 'g', 'k', 'c']] as Field[][]) : []),
     // From 17 December the days go by date, and a date's weekday is like any
     // other but for the Sunday.
     ['s', 'k', 'g'],

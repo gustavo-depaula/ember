@@ -116,13 +116,17 @@ describe('whose office an evening is', () => {
 
   it('opens Advent on the Saturday evening before', () => {
     const vespers = office('2026-11-28', 'vespers')
-    expect(vespers).toMatchObject({ firstVespers: true, dateKey: '11-29' })
+    expect(vespers).toMatchObject({ firstVespers: true })
     expect(vespers.day.season).toBe('advent')
     expect(office('2026-11-28', 'compline').adventEve).toBe(true)
   })
 
-  it('goes by date through Advent and Christmas time', () => {
+  it('goes by date from 17 December through Christmas time', () => {
     expect(office('2026-12-19', 'vespers').dateKey).toBe('12-20')
+    expect(office('2026-12-05', 'vespers').dateKey).toBeUndefined()
+    // The evening and the night before a Sunday that is the 17th are that Sunday's.
+    expect(office('2028-12-16', 'vespers').dateKey).toBe('12-17')
+    expect(office('2028-12-16', 'compline').dateKey).toBe('12-17')
     expect(office('2026-10-06', 'vespers').dateKey).toBeUndefined()
   })
 })

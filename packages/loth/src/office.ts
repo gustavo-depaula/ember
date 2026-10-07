@@ -31,7 +31,8 @@ export interface Office {
   firstVespers: boolean
   // Saturday evening: first Vespers of the Sunday, from the psalter.
   sundayEve: boolean
-  // 'MM-DD' in Advent and Christmas time, where the days go by date.
+  // 'MM-DD' from 17 December to the end of Christmas time, where the days go
+  // by date.
   dateKey?: string
   // Night Prayer on the eve of Advent already has the Advent antiphon.
   adventEve?: boolean
@@ -75,7 +76,10 @@ const keepsSaturdayEvening = new Set<string>([
 
 const mmdd = (date: Date) =>
   `${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`
-const byDate = (day: LothDay) => day.season === 'advent' || day.season === 'christmas'
+// Advent goes by the week until 17 December and by the date from then on.
+const byDate = (day: LothDay) =>
+  day.season === 'christmas' ||
+  (day.season === 'advent' && day.date.getMonth() === 11 && day.date.getDate() >= 17)
 
 export function officeOf(date: Date, hour: Hour, calendar: LothCalendar): Office {
   const today = lothDay(date, calendar)
@@ -134,7 +138,7 @@ export function officeOf(date: Date, hour: Hour, calendar: LothCalendar): Office
       return {
         ...rest,
         sundayEve: true,
-        ...(byDate(today) ? { dateKey: mmdd(tomorrowDate) } : {}),
+        ...(byDate(tomorrow) ? { dateKey: mmdd(tomorrowDate) } : {}),
       }
     }
     return own
@@ -148,6 +152,10 @@ export function officeOf(date: Date, hour: Hour, calendar: LothCalendar): Office
       (!sunday || overSundayNight.has(next))
     )
       return ofTomorrow
+    // The night of 16 December, when the 17th is a Sunday, is already that
+    // Sunday's.
+    if (saturday && !byDate(today) && byDate(tomorrow))
+      return { ...own, dateKey: mmdd(tomorrowDate) }
   }
   return own
 }

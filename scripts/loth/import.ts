@@ -20,6 +20,7 @@ import {
 } from '../../packages/loth/src/index-types'
 import { type Hour, hours, officeOf } from '../../packages/loth/src/office'
 import { type Block, wordsOf, wordsOfBlocks } from '../../packages/loth/src/text'
+import { withoutSlips } from './corrections'
 import { buildLayers, type Observation, setDiffUntold } from './layers'
 import { normalize } from './normalize'
 import { slotsOf } from './slots'
@@ -106,7 +107,7 @@ const textParts = new Map<string, [string, string][]>()
 for (const line of readFileSync(join(dumps, 'textos.jsonl'), 'utf8').split('\n')) {
   if (!line) continue
   const text = JSON.parse(line) as { id: string; hora: string; html: string }
-  const cut = slotsOf(relink(normalize(text.html)), text.hora)
+  const cut = slotsOf(relink(normalize(withoutSlips(text.html))), text.hora)
   // One Sunday's Lauds has the antiphon's label run into the line above it,
   // and so the canticle's own title left with the heading.
   for (const [i, part] of cut.entries()) {
@@ -683,7 +684,7 @@ const htmlOf = new Map<string, string>()
 for (const line of readFileSync(join(dumps, 'textos.jsonl'), 'utf8').split('\n')) {
   if (!line) continue
   const text = JSON.parse(line) as { id: string; html: string }
-  htmlOf.set(text.id, text.html)
+  htmlOf.set(text.id, withoutSlips(text.html))
 }
 const none = Buffer.from([0, 0, 0])
 const own: Buffer[] = []

@@ -11,6 +11,7 @@ import { assembleHour, formsOf, type LothSource } from '../../packages/loth/src/
 import { type Hour, officeOf } from '../../packages/loth/src/office'
 import { wordsOf, wordsOfBlocks } from '../../packages/loth/src/text'
 import { amended, asInTheReference } from '../../packages/loth/src/__tests__/corpus'
+import { withoutSlips } from './corrections'
 
 const site = process.argv[2]
 const corpus = join(__dirname, '../../content/loth')
@@ -42,7 +43,7 @@ const hourOf: Record<string, Hour> = {
 
 const ofHtml = (html: string) =>
   wordsOf(
-    html
+    withoutSlips(html)
       .replace(/<br\s*\/?>|<\/(p|div)>/g, '\n')
       .replace(/<[^>]+>/g, '')
       .replace(/&nbsp;/g, ' ')

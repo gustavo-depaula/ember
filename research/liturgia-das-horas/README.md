@@ -2,7 +2,7 @@
 
 **Question.** Can the Brazilian Liturgy of the Hours be prayed in Ember from the corpus, by an engine of our own that gives, hour for hour, what the breviary app its text was drawn from gives?
 
-**Answer.** Yes for every hour of 2020–2040, which is as far as that app was ever run: 61,368 hours and the 8,849 second offices a memorial allows, none different. The result is `content/loth/`, `packages/loth` and the importer in `scripts/loth/`.
+**Answer.** Yes for every hour of 2020–2040, which is as far as that app was ever run: 61,368 hours and the 8,849 second offices a memorial allows, none different but where the archive is itself at fault (below), and there the corpus has the book's text. The result is `content/loth/`, `packages/loth` and the importer in `scripts/loth/`.
 
 ## What there was to work from
 
@@ -12,15 +12,15 @@ The archive (`liriocatolico.com.br/liturgia_horas.zip`, not in this repo) holds 
 - a harness that runs that code under a fake runtime, for every day of 2020–2040, and stores the HTML of each hour in parquet under a key of sixteen liturgical coordinates;
 - the site built from it, `liriocatolico.com.br/liturgia_horas/`.
 
-The four thousand files themselves are not in it. So the only form the text exists in is the *assembled hour*: 7,106 distinct ones, 144 MB of HTML, in which Psalm 94 occurs some thousands of times.
+The four thousand files themselves are not in it. So the only form the text exists in is the *assembled hour*: 7,106 distinct ones, 144 MB of HTML, in which Psalm 94 occurs some thousands of times. One text is the exception: the Sunday's antiphon of the Gospel canticle, which the app keeps in a table by year of the cycle and sets into the hour only as it is shown (`dump.py` reads the table).
 
 ## What was built instead
 
-Not a port. The app's code was read to learn what an hour depends on and was never run, translated or kept.
+Not a port. The app's code and the harness were read to learn what an hour depends on (which celebration keeps a day, which evenings are tomorrow's) and were never run, translated or kept.
 
-**The day** (`packages/loth/src/day.ts`, `office.ts`). The year is reckoned by `temporalDay`, which the Mass uses too. On top of it: the week of the psalter, the calendar of the Brazilian breviary (`content/loth/calendar.json`), which celebration keeps a day, and whether an evening already belongs to tomorrow. Written from the General Instruction and the breviary's own habits, then held against the archive's calendar for all 7,671 days until nothing differed.
+**The day** (`packages/loth/src/day.ts`, `office.ts`). The year is reckoned by `temporalDay`, which the Mass uses too. On top of it: the week of the psalter, the calendar of the Brazilian breviary (`content/loth/calendar.json`), which celebration keeps a day, and whether an evening already belongs to tomorrow. Written to the cases the harness distinguishes and held against the archive's calendar for all 7,671 days until nothing differed; it has not been derived afresh from the General Instruction (the archive has it, `000InsGeralLH.pdf`), which is the way to settle a case the two sources leave open.
 
-**The text** (`scripts/loth/normalize.ts`, `slots.ts`). Each hour's HTML becomes blocks of lines with five marks (rubric, verse number, note, bold, italic), and is cut line by line into slots at the titles and labels the book prints: what opens the hour (one slot to each kind of line), the opening versicle, hymn, each antiphon, each psalm, each psalm-prayer, reading, responsory, Gospel canticle and its antiphon, intercessions, prayer, conclusion. The cut reads the words, not the markup: the source loses a red label in one hour and runs a psalm into its antiphon in another, and if the cut followed that, a saint's day would seem to have psalms of its own. Parts with the same letters and digits are one part: 10,109 of them, 13 MB.
+**The text** (`scripts/loth/normalize.ts`, `slots.ts`). Each hour's HTML becomes blocks of lines with five marks (rubric, verse number, note, bold, italic), and is cut line by line into slots at the titles and labels the book prints: what opens the hour (one slot to each kind of line), the opening versicle, hymn, each antiphon, each psalm, each psalm-prayer, reading, responsory, Gospel canticle and its antiphon, intercessions, prayer, conclusion. The cut reads the words, not the markup: the source loses a red label in one hour and runs a psalm into its antiphon in another, and if the cut followed that, a saint's day would seem to have psalms of its own. Parts with the same letters and digits are one part: 10,105 of them, 13 MB.
 
 **The layers** (`scripts/loth/layers.ts`, `packages/loth/src/index-types.ts`). For each slot of each hour, a part is filed under the coordinates of the day that are enough to tell it, in four tiers that are the book's own: the season (Ordinary, Psalter, Proper of Time), the rank (what any solemnity or memorial brings), the Common, the celebration. Which coordinates a slot may depend on is written down, not found: left to itself the data decides, from a handful of days, that a saint's psalms follow the Sunday cycle. A rank or a Common gives what most of its celebrations have, each of them always; the few with something of their own say so in the tier above. The engine looks a slot up from the most particular tier down.
 
@@ -29,14 +29,33 @@ In 21 years, six parts are told by no layer and are filed under their whole day.
 ## How it is checked
 
 - `packages/loth/src/__tests__/reference.test.ts`: every hour of every day of 2020–2040, and the second office of every memorial, assembled from `content/loth/` by the engine and compared with a hash of the letters and digits of the archive's HTML. The calendar likewise, day by day.
-- `scripts/loth/compare-site.ts`: the same against the day files the site serves (2020–2030): 32,144 hours and 2,695 second offices, none different. Seven days fetched from the live site on 2026-10-06 agreed too.
-- `scripts/loth/import.ts --holdout 2035 [--misses]`: the layers built from 2020–2034 alone, asked for the days of 2035–2040 of a kind they had never met. Of 4,983 such hours (the Invitatory aside, which counts each of its psalms), 84 differ: 98.3%, where the first cut of the corpus gave 95–99% by hour and 274 misses in all. `--misses` prints each with the slot that differs and the layer that answered. What is left is of three kinds: a text those years never had (the antiphon of a Sunday that falls before Lent only when Easter is late); a saint met in a season for the first time, whose antiphons change there in no regular way; and the hymn of a little hour on a memorial, which the source chooses by the day of the psalter with exceptions of its own.
+- `scripts/loth/compare-site.ts`: the same against the day files the site serves (2020–2030): 32,130 hours and 2,695 second offices, none different. Seven days fetched from the live site on 2026-10-06 agreed too.
+- `beyond.test.ts`: every hour of 2020–2050 is whole. It has what an hour of its kind never goes without (psalmody, reading, Gospel canticle with its antiphon, intercessions, prayer), and no part is a label with nothing after it. This is the check that found the archive's own gaps.
+- `supplied.test.ts`: the texts the archive lacks or has wrong, by name, each as `liturgiadashoras.online` has it.
+- `scripts/loth/import.ts --holdout 2035 [--misses]`: the layers built from 2020–2034 alone, asked for the days of 2035–2040 of a kind they had never met. Of 4,729 such hours (the Invitatory aside, which counts each of its psalms), 74 differ: 98.4%, where the first cut of the corpus gave 274 misses. `--misses` prints each with the slot that differs and the layer that answered. What is left: a saint met in a season for the first time, whose antiphons change there in no regular way; the hymn of a little hour on a memorial, which the source chooses by the day of the psalter with exceptions of its own; and a good many that are no difference of the book's at all, but the archive having one text in two wordings (`variants.tsv`) and a saint's day drawing now one and now the other.
 - So after 2040 it is not 100%: a day of a kind 2020–2040 never had may read differently from the book. The app says so above any hour outside those years.
-- `beyond.test.ts`: every hour of 2041–2050 still assembles into an hour.
 
-## Where the archive itself is doubtful
+## A second source
 
-Agreeing with the archive is not always being right. On 6 October (Saint Bruno, Ordinary Time) the archive ends the antiphon of the Benedictus "…que em vós há de falar. Aleluia.", and on other days of Ordinary Time gives the same antiphon of the same Common without it. `liturgiadashoras.online`, a second transcription of the same edition kept by hand and indexed by liturgical day (its WordPress API lists some 3,400 hours), has it without "Aleluia" outside Easter time and with it inside. The corpus keeps what the archive has; the cases are not yet listed.
+`liturgiadashoras.online` is a second transcription of the same breviary, kept by hand, one post to an hour (its WordPress API lists some 3,400). `scripts/loth/compare-second.ts` cuts each post into the same slots and sets it beside the engine's hour for the day. It is a witness, not an authority: it follows a later printing in places (the Gospel canticles, the doxology), keeps the spelling of before 2009, has slips of its own, and a post written for one year is often served again in another with the wrong year's antiphon. Fifteen of 3,256 hours agree word for word; the rest differ in some 2,600 distinct places, nearly all of them the edition, the spelling, or what one of the two sets out in full (the doxology, the response after each intercession, both hymns of a little hour).
+
+It is used for two things. Where the archive has *nothing* and it has a text, the text can be taken from it. Where the archive has a text and it has another, the archive is kept unless the book's own rule, or the archive's other hours, show which is the slip.
+
+## Where the archive is at fault, and what the corpus has instead
+
+- **The Sunday's antiphon of the Gospel canticle** is blank in every generated hour of Advent, Lent, Easter, Palm Sunday and the Holy Family (a label and nothing after: some 900 hours in 21 years). The importer supplies it from the archive's own table, and files from the same table the Sundays of Ordinary Time that 2020–2040 never had in a given year of the cycle. Against the second source, wherever its post names the year: 118 the same, 6 different, each of the 6 a slip or a misdated post of its own.
+- **From 17 December the Magnificat has the antiphon of the date**, on a Sunday as on any day. The archive leaves it blank on those Sundays and their eves, and on two evenings has it a day late ("Ó Adonai" on a Sunday that is the 17th, "Ó Emanuel" on a Saturday that is the 22nd). The corpus has the antiphon the weekday of that date has, as the second source does.
+- **Second Vespers of Christ the King** stop after the responsory. The rest is as at first Vespers, whose intercessions and prayer the second source also gives for the second; the antiphon of the Magnificat, which the archive has nowhere, is the second source's.
+- **Six misspellings** (`scripts/loth/corrections.ts`) are put right in the archive's HTML before anything reads it, so the reference is the archive as corrected.
+- **A title run into the line beside it** ("em latim" and then "Oração", a responsory's last word and then "Hino", "Segunda leitura" after the end of the first) is cut as a title. The words are the archive's; the prayer is no longer filed with the intercessions.
+
+Parts that were supplied are bundled apart (`parts/supplied-*`), the engine marks them, and the reference test takes them out again before comparing, so the rest of each such hour is still held to the archive.
+
+## What is still open
+
+- `variants.tsv` (`scripts/loth/variants.py`): 473 places where the archive has one text in two wordings, each with how often it is used and whether the second source has it. 177 have one wording there and not the other; that is a witness, not yet a verdict (it reads "A minha alma engrandece ao Senhor" where the archive has "A minh'alma engrandece o Senhor", which is the printing, not a slip). None of these is corrected yet.
+- On 6 October (Saint Bruno, Ordinary Time) the archive ends the antiphon of the Benedictus "…que em vós há de falar. Aleluia."; the second source has "Aleluia" only in Easter time. Kept as the archive has it.
+- On a Sunday that is 17 December the archive gives Lauds the weekday's antiphon of the Benedictus, where on the Sundays of 18–23 December it gives the Sunday's. Kept as the archive has it; the second source has no such Sunday.
 
 ## What differs from the app, on purpose
 
@@ -58,10 +77,12 @@ Where the same celebration is in both, it has the same id. Bringing the missal's
 ## Running it again
 
 ```bash
-python3 scripts/loth/dump.py <archive>/liturgia_horas_motor/parquet /tmp/dumps   # needs pyarrow
+python3 scripts/loth/dump.py <archive>/liturgia_horas_motor/parquet /tmp/dumps   # needs pyarrow; reads ../fonte_js/lib/gx.js too
 npx tsx scripts/loth/import.ts /tmp/dumps            # content/loth/{index,parts,extras.json} and the tests' reference
 npx tsx scripts/loth/import-library.ts /tmp/dumps    # content/loth/library/
 npx tsx scripts/loth/compare-site.ts <archive>/liturgia_horas/dados
+npx tsx scripts/loth/compare-second.ts <posts>       # the second source; the API call is in the file's head
+python3 scripts/loth/variants.py <posts> > research/liturgia-das-horas/variants.tsv
 ```
 
 `content/loth/calendar.json` is edited by hand; the importer reads it and does not write it.

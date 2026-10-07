@@ -1,8 +1,8 @@
 import { addDays } from '@ember/liturgical'
 import { expect, it } from 'vitest'
-import { assembleHour, formsOf } from '../hour'
-import { hours, officeOf } from '../office'
-import { blockText } from '../text'
+import { assembleHour, formsOf, type HourPart } from '../hour'
+import { type Hour, hours, officeOf } from '../office'
+import { blockText, wordsOfBlocks } from '../text'
 import { calendar, corpus, on } from './corpus'
 
 // The reference ends in 2040. After it, a saint's day falls on a day of the
@@ -15,6 +15,37 @@ const isAnHour = (slots: string[], text: string) =>
   text.length >= 800 &&
   slots.some((slot) => slot === 'whole' || slot === 'intro' || slot.startsWith('head'))
 
+// And it must be whole: an hour of its kind never goes without these, and no
+// part is a label with nothing after it. (The archive the corpus was drawn
+// from had both faults: second Vespers of Christ the King that stopped at the
+// responsory, and the Sunday's antiphon of the Gospel canticle left blank.)
+const always: Record<Hour, string[]> = {
+  invitatory: [],
+  readings: ['psalm-1', 'reading-1', 'reading-2', 'prayer'],
+  lauds: ['psalm-1', 'reading', 'canticle', 'intercessions', 'prayer'],
+  vespers: ['psalm-1', 'reading', 'canticle', 'intercessions', 'prayer'],
+  terce: ['psalm-1', 'reading', 'prayer'],
+  sext: ['psalm-1', 'reading', 'prayer'],
+  none: ['psalm-1', 'reading', 'prayer'],
+  compline: ['psalm-1', 'reading', 'canticle', 'prayer'],
+}
+const label = /^(ant\d?|[rv])?$/
+
+function faults(hour: Hour, parts: HourPart[]): string[] {
+  const slots = parts.map((part) => part.slot.replace(/~\d+$/, ''))
+  if (slots.includes('whole')) return []
+  const missing = always[hour].filter((slot) => !slots.includes(slot)).map((slot) => `no ${slot}`)
+  const blank = parts
+    .filter((part) => !part.slot.startsWith('head') && part.slot !== 'psalmody')
+    .filter((part) => label.test(wordsOfBlocks(part.blocks)))
+    .map((part) => `${part.slot} is blank`)
+  // The Gospel canticle has an antiphon: before it, or (Saint Mary on
+  // Saturday) several to choose from under its name and again after it.
+  const canticle = hour === 'lauds' || hour === 'vespers'
+  const antiphon = !canticle || slots.includes('canticle-ant') || slots.includes('canticle-ant-end')
+  return [...missing, ...blank, ...(antiphon ? [] : ['no antiphon to the Gospel canticle'])]
+}
+
 async function sweep(from: number, to: number): Promise<string[]> {
   const broken: string[] = []
   for (let date = on(`${from}-01-01`); date.getFullYear() <= to; date = addDays(date, 1)) {
@@ -26,14 +57,16 @@ async function sweep(from: number, to: number): Promise<string[]> {
         const text = parts.flatMap((part) => part.blocks.map(blockText)).join('\n')
         if (!isAnHour(slots, text))
           broken.push(`${date.toDateString()} ${hour} ${form}: ${slots.join(' ')}`)
+        for (const fault of faults(hour, parts))
+          broken.push(`${date.toDateString()} ${hour} ${form}: ${fault}`)
       }
     }
   }
   return broken
 }
 
-it('holds for the last ten years of the reference', async () => {
-  expect(await sweep(2031, 2040)).toEqual([])
+it('holds for every year of the reference', async () => {
+  expect(await sweep(2020, 2040)).toEqual([])
 }, 300_000)
 
 it('assembles every hour of 2041-2050', async () => {
