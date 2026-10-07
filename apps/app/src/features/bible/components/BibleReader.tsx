@@ -218,13 +218,22 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
   const paneReach = commentedVerse === undefined || !paneInPage ? 0 : paneHeight
   // What the chapter's last verses must clear to be read with the pane open.
   const openFoot = paneInPage ? 24 : Math.round(screenHeight * paneFraction) + 24
+  const pageHeight = useSharedValue(screenHeight)
+  const paneReachPx = useSharedValue(0)
+  useEffect(() => {
+    paneReachPx.value = paneReach
+  }, [paneReach, paneReachPx])
   const pan = useMemo(
     () =>
       Gesture.Pan()
         .activeOffsetX([-15, 15])
-        // The lower half has a line of its own to slide sideways: a drag that
-        // begins there is not for the drawer.
-        .hitSlop({ bottom: -paneReach })
+        // The lower half has a line and pages of its own to slide sideways:
+        // a touch that lands there is not for the drawer. Refused as it
+        // lands, since a pan that has begun takes the touch from the
+        // scrolling under it whether or not it ever opens anything.
+        .onTouchesDown((e, state) => {
+          if (e.allTouches[0].y > pageHeight.value - paneReachPx.value) state.fail()
+        })
         .onStart(() => {
           startX.value = slideX.value
         })
@@ -240,7 +249,7 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
           slideX.value = withSpring(open ? drawerWidth : 0, springConfig)
           runOnJS(setPanelOpen)(open)
         }),
-    [slideX, startX, drawerWidth, paneReach],
+    [slideX, startX, drawerWidth, pageHeight, paneReachPx],
   )
 
   const stripStyle = useAnimatedStyle(() => ({
@@ -297,7 +306,12 @@ export function BibleReader({ initialDrawerOpen = false }: { initialDrawerOpen?:
         />
       ) : undefined}
       <GestureDetector gesture={pan}>
-        <Animated.View style={[styles.strip, { width: stripWidth }, stripStyle]}>
+        <Animated.View
+          style={[styles.strip, { width: stripWidth }, stripStyle]}
+          onLayout={(e) => {
+            pageHeight.value = e.nativeEvent.layout.height
+          }}
+        >
           <View style={styles.drawer}>
             <BibleDrawer
               width={drawerWidth}

@@ -1,4 +1,5 @@
 import { useMemo } from 'react'
+import { useWindowDimensions } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import Animated, {
   clamp,
@@ -6,13 +7,14 @@ import Animated, {
   runOnJS,
   useAnimatedStyle,
   useSharedValue,
+  withSpring,
 } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { View, YStack } from 'tamagui'
 
 import { useBottomClearance } from '@/components/tabAccessory'
 
-import { PaneBar, PaneKinds, type VersePaneProps } from './VersePaneContent'
+import { PaneBar, PaneKinds, paneFraction, type VersePaneProps } from './VersePaneContent'
 
 /**
  * The lower half of the divided page, where the platform has no sheet that
@@ -36,6 +38,8 @@ function DividedPane({
   const insets = useSafeAreaInsets()
   const bottomClearance = useBottomClearance()
 
+  const { height: screenHeight } = useWindowDimensions()
+  const halfHeight = Math.round(screenHeight * paneFraction)
   const minHeight = 120
   const height = useSharedValue(initialHeight)
   const startHeight = useSharedValue(initialHeight)
@@ -49,11 +53,19 @@ function DividedPane({
         .onUpdate((e) => {
           height.value = clamp(startHeight.value - e.translationY, 0, maxHeight)
         })
-        .onEnd(() => {
-          if (height.value < minHeight) runOnJS(onClose)()
-          else runOnJS(onResize)(height.value)
+        .onEnd((e) => {
+          // Let go, it settles as a sheet does: at its half, drawn up tall,
+          // or away, whichever the hand was making for.
+          const making = height.value - e.velocityY * 0.15
+          if (making < minHeight) {
+            runOnJS(onClose)()
+            return
+          }
+          const rest = making > (halfHeight + maxHeight) / 2 ? maxHeight : halfHeight
+          height.value = withSpring(rest, { damping: 26, stiffness: 240, mass: 0.8 })
+          runOnJS(onResize)(rest)
         }),
-    [height, startHeight, maxHeight, onClose, onResize],
+    [height, startHeight, halfHeight, maxHeight, onClose, onResize],
   )
   const heightStyle = useAnimatedStyle(() => ({ height: height.value }))
 
@@ -62,8 +74,19 @@ function DividedPane({
       <YStack
         flex={1}
         backgroundColor="$background"
+        // Set off from the page as a sheet is: rounded shoulders and a soft
+        // shadow cast up onto the chapter.
+        borderTopLeftRadius={18}
+        borderTopRightRadius={18}
         borderTopWidth={1}
-        borderTopColor="$borderColor"
+        borderLeftWidth={1}
+        borderRightWidth={1}
+        borderColor="$borderColor"
+        shadowColor="#000"
+        shadowOpacity={0.12}
+        shadowRadius={12}
+        shadowOffset={{ width: 0, height: -4 }}
+        elevation={12}
       >
         <GestureDetector gesture={drag}>
           <YStack paddingHorizontal="$lg" paddingTop={6}>
