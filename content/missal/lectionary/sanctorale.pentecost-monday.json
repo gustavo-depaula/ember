@@ -679,6 +679,22 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O praise the Lord, all you nations;"
+       ],
+       [
+        "acclaim him, all you peoples!"
+       ],
+       [
+        "for his merciful love has prevailed over us, and the Lord's faithfulness endures for ever."
+       ]
+      ]
+     }
     ]
    },
    "part": "psalm",
@@ -1059,6 +1075,31 @@
        ],
        [
         "Aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Come, Holy Spirit, fill the hearts of your faithful and kindle in them the fire of your love."
+       ],
+       [
+        "Alleluia."
        ]
       ]
      }
@@ -2067,6 +2108,16 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will tell of your name to my brethren and praise you where they are assembled. 'You who fear the Lord give him praise; all sons of Jacob, give him glory. Revere him, Israel's sons.'"
+       ]
+      ]
+     }
     ]
    },
    "part": "psalm",
@@ -2223,6 +2274,28 @@
        ],
        [
         "\"Seus corações tenham a vida para sempre\"!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "My vows I will pay before those who fear him."
+       ],
+       [
+        "The poor shall eat and shall have their fill."
+       ],
+       [
+        "They shall praise the Lord,"
+       ],
+       [
+        "those who seek him."
+       ],
+       [
+        "May their hearts live for ever and ever!"
        ]
       ]
      }
@@ -2764,6 +2837,31 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Come, Holy Spirit, fill the hearts of your faithful and kindle in them the fire of your love."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
     ]
    },
    "part": "acclamation",
@@ -3046,6 +3144,25 @@
       "lines": [
        [
         "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It was then that, filled with joy by the Holy Spirit, Jesus said, 'I bless you, Father, Lord of heaven and of earth, for hiding these things from the learned and the clever and revealing them to mere children. Yes, Father, for that is what it pleased you to do. Everything has been entrusted to me by my Father; and no one knows who the Son is except the Father, and who the Father is except the Son and those to whom the Son chooses to reveal him.' Then turning to his disciples he spoke to them in private, 'Happy the eyes that see what you see, for I tell you that many prophets and kings wanted to see what you see, and never saw it; to hear what you hear, and never heard it'."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
        ]
       ],
       "role": "conclusion"
@@ -3862,6 +3979,16 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Age to age shall proclaim your works, shall declare your mighty deeds, shall speak of your splendour and glory, tell the tale of your wonderful works."
+       ]
+      ]
+     }
     ]
    },
    "part": "psalm",
@@ -4012,6 +4139,16 @@
        ],
        [
         "sua ternura abraça toda criatura."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord is kind and full of compassion, slow to anger, abounding in love. How good is the Lord to all, compassionate to all his creatures."
        ]
       ]
      }
@@ -4168,6 +4305,16 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "All your creatures shall thank you, O Lord, and your friends shall repeat their blessing. They shall speak of the glory of your reign and declare your might, O God."
+       ]
+      ]
+     }
     ]
    },
    "part": "psalm",
@@ -4318,6 +4465,16 @@
        ],
        [
         "e saciais todo ser vivo com fartura."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The eyes of all creatures look to you and you give them their food in due time. You open wide your hand, grant the desires of all who live."
        ]
       ]
      }
@@ -4704,6 +4861,31 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Come, Holy Spirit, fill the hearts of your faithful and kindle in them the fire of your love."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
     ]
    },
    "part": "acclamation",
@@ -4977,6 +5159,25 @@
       "lines": [
        [
         "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "God loved the world so much that he gave his only Son, so that everyone who believes in him may not be lost but may have eternal life. For God sent his Son into the world not to condemn the world, but so that through him the world might be saved. No one who believes in him will be condemned; but whoever refuses to believe is condemned already, because he has refused to believe in the name of God's only Son. On these grounds is sentence pronounced: that though the light has come into the world men have shown they prefer darkness to the light because their deeds were evil. And indeed, everybody who does wrong hates the light and avoids it, for fear his actions should be exposed; but the man who lives by the truth comes out into the light, so that it may be plainly seen that what he does is done in God."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
        ]
       ],
       "role": "conclusion"

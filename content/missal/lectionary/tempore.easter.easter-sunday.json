@@ -3829,7 +3829,7 @@
         "No primeiro dia da semana, Maria Madalena foi ao túmulo de Jesus, bem de madrugada, quando ainda estava escuro, e viu que a pedra tinha sido retirada do túmulo."
        ],
        [
-        "Então ela saiu correndo e foi encontrar Simão Pedro e o outro discípulo, aquele que Jesus amava, e lhes disse: \"Tiraram o Senhor do túmulo, e não sabemos onde o puseram\". Saíram, então, Pedro e o outro discípulo e foram ao túmulo. Os dois corriam juntos, mas o outro discípulo correu mais depressa que Pedroe chegou primeiro ao túmulo. Olhando para dentro, viu as faixas de linho no chão, mas não entrou. Chegou também Simão Pedro, que vinha correndo atrás, e entrou no túmulo. Viu as faixas de linho deitadas no chão e o pano que tinha estado sobre a cabeça de Jesus, não posto com as faixas, mas enrolado num lugar à parte. Então entrou também o outro discípulo, que tinha chegado primeiro ao túmulo. Ele viu, e acreditou. De fato, eles ainda não tinham compreendido a Escritura, segundo a qual ele devia ressuscitar dos mortos."
+        "Então ela saiu correndo e foi encontrar Simão Pedro e o outro discípulo, aquele que Jesus amava, e lhes disse: \"Tiraram o Senhor do túmulo, e não sabemos onde o puseram\". Saíram, então, Pedro e o outro discípulo e foram ao túmulo. Os dois corriam juntos, mas o outro discípulo correu mais depressa que Pedro e chegou primeiro ao túmulo. Olhando para dentro, viu as faixas de linho no chão, mas não entrou. Chegou também Simão Pedro, que vinha correndo atrás, e entrou no túmulo. Viu as faixas de linho deitadas no chão e o pano que tinha estado sobre a cabeça de Jesus, não posto com as faixas, mas enrolado num lugar à parte. Então entrou também o outro discípulo, que tinha chegado primeiro ao túmulo. Ele viu, e acreditou. De fato, eles ainda não tinham compreendido a Escritura, segundo a qual ele devia ressuscitar dos mortos."
        ]
       ]
      },
@@ -4233,6 +4233,30 @@
        ]
       ],
       "cite": "28, 1–10",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        }
+       ]
+      ],
+      "cite": "Mt 28:1–10",
       "role": "announcement"
      }
     ]
@@ -4739,6 +4763,30 @@
       "cite": "16, 1–7",
       "role": "announcement"
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        }
+       ]
+      ],
+      "cite": "Mk 16:1–7",
+      "role": "announcement"
+     }
     ]
    },
    "part": "gospel",
@@ -5020,6 +5068,25 @@
       ],
       "role": "conclusion"
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When the sabbath was over, Mary Magdalene, Mary, the mother of James, and Salome bought spices so that they might go and anoint him. Very early when the sun had risen, on the first day of the week, they came to the tomb. They were saying to one another, “Who will roll back the stone for us from the entrance to the tomb?” When they looked up, they saw that the stone had been rolled back; it was very large. On entering the tomb they saw a young man sitting on the right side, clothed in a white robe, and they were utterly amazed. He said to them, “Do not be amazed! You seek Jesus of Nazareth, the crucified. He has been raised; he is not here. Behold the place where they laid him. But go and tell his disciples and Peter, ‘He is going before you to Galilee; there you will see him, as he told you.'”"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
     ]
    },
    "part": "gospel",
@@ -5206,6 +5273,30 @@
        ]
       ],
       "cite": "24, 1–12",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        }
+       ]
+      ],
+      "cite": "Lk 24:1–12",
       "role": "announcement"
      }
     ]
@@ -5504,6 +5595,25 @@
       "lines": [
        [
         "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "At daybreak on the first day of the week the women who had come from Galilee with Jesus took the spices they had prepared and went to the tomb. They found the stone rolled away from the tomb; but when they entered, they did not find the body of the Lord Jesus. While they were puzzling over this, behold, two men in dazzling garments appeared to them. They were terrified and bowed their faces to the ground. They said to them, “Why do you seek the living one among the dead? He is not here, but he has been raised. Remember what he said to you while he was still in Galilee, that the Son of Man must be handed over to sinners and be crucified, and rise on the third day.” And they remembered his words. Then they returned from the tomb and announced all these things to the eleven and to all the others. The women were Mary Magdalene, Joanna, and Mary the mother of James; the others who accompanied them also told this to the apostles, but their story seemed like nonsense and they did not believe them. But Peter got up and ran to the tomb, bent down, and saw the burial cloths alone; then he went home amazed at what had happened."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
        ]
       ],
       "role": "conclusion"
@@ -6158,6 +6268,25 @@
       "lines": [
        [
         "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Two of the disciples of Jesus were on their way to a village called Emmaus, seven miles from Jerusalem, and they were talking together about all that had happened. Now as they talked this over, Jesus himself came up and walked by their side; but something prevented them from recognising him. He said to them, 'What matters are you discussing as you walk along?' They stopped short, their faces downcast. Then one of them, called Cleopas, answered him, 'You must be the only person staying in Jerusalem who does not know the things that have been happening there these last few days'. 'What things?' he asked. 'All about Jesus of Nazareth' they answered 'who proved he was a great prophet by the things he said and did in the sight of God and of the whole people; and how our chief priests and our leaders handed him over to be sentenced to death, and had him crucified. Our own hope had been that he would be the one to set Israel free. And this is not all: two whole days have gone by since it all happened; and some women from our group have astounded us: they went to the tomb in the early morning, and when they did not find the body, they came back to tell us they had seen a vision of angels who declared he was alive. Some of our friends went to the tomb and found everything exactly as the women had reported, but of him they saw nothing.' Then he said to them, 'You foolish men! So slow to believe the full message of the prophets! Was it not ordained that the Christ should suffer and so enter into his glory?' Then, starting with Moses and going through all the prophets, he explained to them the passages throughout the scriptures that were about himself. When they drew near to the village to which they were going, he made as if to go on; but they pressed him to stay with them. 'It is nearly evening' they said 'and the day is almost over.' So he went in to stay with them. Now while he was with them at table, he took the bread and said the blessing; then he broke it and handed it to them. And their eyes were opened and they recognised him; but he had vanished from their sight. Then they said to each other, 'Did not our hearts burn within us as he talked to us on the road and explained the scriptures to us?' They set out that instant and returned to Jerusalem. There they found the Eleven assembled together with their companions, who said to them, 'Yes, it is true. The Lord has risen and has appeared to Simon.' Then they told their story of what had happened on the road and how they had recognised him at the breaking of bread."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
        ]
       ],
       "role": "conclusion"

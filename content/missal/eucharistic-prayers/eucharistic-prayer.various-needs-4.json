@@ -547,7 +547,8 @@
       ]
      }
     ]
-   }
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -3354,6 +3355,22 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "when supper was ended,"
+       ],
+       [
+        "he took the chalice, gave you thanks"
+       ],
+       [
+        "and gave the chalice to his disciples, saying:"
+       ]
+      ]
+     }
     ]
    }
   },
@@ -5709,7 +5726,7 @@
          "m": "rubric",
          "t": "[N."
         },
-        "e ",
+        " e ",
         {
          "m": "rubric",
          "t": "N.]"
@@ -6603,8 +6620,8 @@
  ],
  "title": {
   "la": "PREX EUCHARISTICA QUAE IN MISSIS PRO VARIIS NECESSITATIBUS ADHIBERI POTEST — IV",
-  "pt-BR": "ORAÇÃO EUCARÍSTICA PARA DIVERSAS CIRCUNSTÂNCIAS — IV",
-  "en-US": "Eucharistic Prayer for Masses for Various Needs — IV",
+  "pt-BR": "Oração Eucarística para Diversas Circunstâncias IV",
+  "en-US": "Eucharistic Prayer for Use in Masses for Various Needs IV",
   "es": "Plegaria Eucarística — para Misas por varias necesidades — IV",
   "it": "Preghiera EucarisTica per varie necessità IV",
   "fr": "PRIÈRE EUCHARISTIQUE POUR DES CIRCONSTANCES PARTICULIÈRES — IV"

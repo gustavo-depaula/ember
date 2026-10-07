@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -1339,6 +1339,20 @@
          "t": "R/. "
         },
         "Lass deine Güte über uns walten, o Herr, denn wir schauen aus nach dir."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, let your mercy be on us, as we place all our trust in you."
        ]
       ]
      }

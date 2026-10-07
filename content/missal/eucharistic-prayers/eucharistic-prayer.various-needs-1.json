@@ -547,7 +547,8 @@
       ]
      }
     ]
-   }
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -5393,7 +5394,7 @@
          "m": "rubric",
          "t": "["
         },
-        "che è a",
+        "che è a ",
         {
          "m": "rubric",
          "t": "N.]"
@@ -5406,7 +5407,7 @@
          "m": "rubric",
          "t": "N."
         },
-        ",il nostro vescovo",
+        ",il nostro vescovo ",
         {
          "m": "rubric",
          "t": "N."
@@ -6515,8 +6516,8 @@
  ],
  "title": {
   "la": "PREX EUCHARISTICA QUÆ IN MISSIS PRO VARIIS NECESSITATIBUS ADHIBERI POTEST — I",
-  "pt-BR": "ORAÇÃO EUCARÍSTICA PARA DIVERSAS CIRCUNSTÂNCIAS — I",
-  "en-US": "Eucharistic Prayer for Masses for Various Needs — I",
+  "pt-BR": "Oração Eucarística para Diversas Circunstâncias I",
+  "en-US": "Eucharistic Prayer for Use in Masses for Various Needs I",
   "es": "Plegaria Eucarística — para Misas por varias necesidades — I",
   "it": "Preghiera EucarisTica per varie necessità I",
   "fr": "PRIÈRE EUCHARISTIQUE POUR DES CIRCONSTANCES PARTICULIÈRES — I"

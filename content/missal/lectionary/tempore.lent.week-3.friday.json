@@ -2170,7 +2170,7 @@
       "k": "p",
       "lines": [
        [
-        "O Senhor nosso Deus éo único Senhor. Ama-o."
+        "O Senhor nosso Deus é o único Senhor. Ama-o."
        ]
       ],
       "role": "summary"
@@ -2199,15 +2199,6 @@
        ]
       ],
       "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Il Signore nostro Dio è l'unico Signore: lo amerai."
-       ]
-      ],
-      "role": "summary"
      },
      {
       "k": "p",

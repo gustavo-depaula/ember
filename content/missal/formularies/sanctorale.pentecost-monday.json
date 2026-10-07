@@ -138,6 +138,19 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Christ loved us and washed us clean of our sins by his Blood, and made us into a kingdom,"
+       ],
+       [
+        "priests for his God and Father, alleluia."
+       ]
+      ]
+     }
     ]
    },
    "part": "entranceAntiphon"
@@ -219,6 +232,27 @@
         {
          "m": "rubric",
          "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
         }
        ]
       ]
@@ -434,6 +468,19 @@
       "lines": [
        [
         "Wenn der Geist der Wahrheit kommt, wird er euch in die volle Wahrheit einführen. Halleluja."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When the Spirit of truth comes,"
+       ],
+       [
+        "he will teach you all truth, says the Lord, alleluia."
        ]
       ]
      }

@@ -547,7 +547,8 @@
       ]
      }
     ]
-   }
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -5835,7 +5836,7 @@
          "m": "rubric",
          "t": "[N."
         },
-        "e ",
+        " e ",
         {
          "m": "rubric",
          "t": "N]."
@@ -6729,8 +6730,8 @@
  ],
  "title": {
   "la": "PREX EUCHARISTICA QUAE IN MISSIS PRO VARIIS NECESSITATIBUS ADHIBERI POTEST — III",
-  "pt-BR": "ORAÇÃO EUCARÍSTICA PARA DIVERSAS CIRCUNSTÂNCIAS — III",
-  "en-US": "Eucharistic Prayer for Masses for Various Needs — III",
+  "pt-BR": "Oração Eucarística para Diversas Circunstâncias III",
+  "en-US": "Eucharistic Prayer for Use in Masses for Various Needs III",
   "es": "Plegaria Eucarística — para Misas por varias necesidades — III",
   "it": "Preghiera EucarisTica per varie necessittá III",
   "fr": "PRIÈRE EUCHARISTIQUE POUR DES CIRCONSTANCES PARTICULIÈRES — III"

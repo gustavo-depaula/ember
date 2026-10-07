@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -1121,6 +1121,20 @@
          "t": "R/. "
         },
         "Gnädig und barmherzig ist der Herr."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord is kind and merciful."
        ]
       ]
      }

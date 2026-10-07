@@ -397,6 +397,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people"
@@ -583,6 +597,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people"
@@ -759,6 +787,20 @@
          "t": "R/. "
         },
         "Herr, bewahre meine Seele in deinem Frieden!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
        ]
       ]
      }

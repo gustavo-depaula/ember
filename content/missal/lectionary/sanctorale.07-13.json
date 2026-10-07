@@ -2556,6 +2556,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -2756,6 +2770,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -2946,6 +2974,20 @@
          "t": "R/. "
         },
         "Herr, bewahre meine Seele in deinem Frieden!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
        ]
       ]
      }
@@ -3917,7 +3959,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, disse Jesus a seus discípulos: \"Nem todo aquele que me diz: 'Senhor, senhor', entrará no Reino dos Céus, mas o que põe em prática a vontade de meu Pai que está nos céus. Naquele dia, multos vão me dizer: 'Senhor, Senhor, não foi em teu nome que profetizamos? Não foi em teu nome que expulsamos demõnios? E não foi em teu nome que fizemos muitos milagres?\" Então eu lhes direi publicamente: \"Jamais vos conheci. Afastai-vos de mim, vós que praticais o mal. Portanto, quem ouve estas minhas palavras e as põe em prática, é como um homem prudente, que construiu sua casa sobre a rocha. Caiu a chuva, vieram as enchentes, os ventos deram contra a casa, mas a casa não caiu, porque estava construída sobre a rocha. Por outro lado, quem ouve estas minhas palavras e não as põe em prática, é como um homem sem juízo, que construiu sua casa sobre a areia. Caiu a chuva, vieram as enchentes, os ventos sopraram e deram contra a casa, e a casa caiu, e sua ruína foi completa!\""
+        "Naquele tempo, disse Jesus a seus discípulos: \"Nem todo aquele que me diz: 'Senhor, senhor', entrará no Reino dos Céus, mas o que põe em prática a vontade de meu Pai que está nos céus. Naquele dia, muitos vão me dizer: 'Senhor, Senhor, não foi em teu nome que profetizamos? Não foi em teu nome que expulsamos demônios? E não foi em teu nome que fizemos muitos milagres?\" Então eu lhes direi publicamente: \"Jamais vos conheci. Afastai-vos de mim, vós que praticais o mal. Portanto, quem ouve estas minhas palavras e as põe em prática, é como um homem prudente, que construiu sua casa sobre a rocha. Caiu a chuva, vieram as enchentes, os ventos deram contra a casa, mas a casa não caiu, porque estava construída sobre a rocha. Por outro lado, quem ouve estas minhas palavras e não as põe em prática, é como um homem sem juízo, que construiu sua casa sobre a areia. Caiu a chuva, vieram as enchentes, os ventos sopraram e deram contra a casa, e a casa caiu, e sua ruína foi completa!\""
        ]
       ]
      },

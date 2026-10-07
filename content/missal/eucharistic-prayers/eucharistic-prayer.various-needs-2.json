@@ -537,7 +537,8 @@
       ]
      }
     ]
-   }
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -561,7 +562,7 @@
        [
         {
          "m": "rubric",
-         "t": "Convém usar esta Oração Eucarística com os formulários de Missa, pela Igreja, pelas vocações às ordens sagradas, pelos leigos, pela família, pelos religiosos, pelas vocações à vida religiosa, para pedir caridade, pelos parentes e amigos, em ação de graças e guando houver sintonia com a Liturgia da Palavra."
+         "t": "Convém usar esta Oração Eucarística com os formulários de Missa, pela Igreja, pelas vocações às ordens sagradas, pelos leigos, pela família, pelos religiosos, pelas vocações à vida religiosa, para pedir caridade, pelos parentes e amigos, em ação de graças e quando houver sintonia com a Liturgia da Palavra."
         }
        ]
       ]
@@ -5281,7 +5282,7 @@
       "k": "p",
       "lines": [
        [
-        "Conferma nell'unità, Signore, noi convocati alla tua mensa, perché, camminando sulle tue vie nella fede e nella speranza, in unione con il nostro papa",
+        "Conferma nell'unità, Signore, noi convocati alla tua mensa, perché, camminando sulle tue vie nella fede e nella speranza, in unione con il nostro papa ",
         {
          "m": "rubric",
          "t": "N."
@@ -5493,7 +5494,7 @@
          "m": "rubric",
          "t": "[N."
         },
-        "e",
+        " e ",
         {
          "m": "rubric",
          "t": "N.]"
@@ -6376,8 +6377,8 @@
  ],
  "title": {
   "la": "PREX EUCHARISTICA QUAE IN MISSIS PRO VARIIS NECESSITATIBUS ADHIBERI POTEST — II",
-  "pt-BR": "ORAÇÃO EUCARÍSTICA PARA DIVERSAS CIRCUNSTÂNCIAS — II",
-  "en-US": "Eucharistic Prayer for Masses for Various Needs — II",
+  "pt-BR": "Oração Eucarística para Diversas Circunstâncias II",
+  "en-US": "Eucharistic Prayer for Use in Masses for Various Needs II",
   "es": "Plegaria Eucarística — para Misas por varias necesidades — II",
   "it": "Preghiera EucarisTica per varie necessità II",
   "fr": "PRIÈRE EUCHARISTIQUE POUR DES CIRCONSTANCES PARTICULIÈRES — II"

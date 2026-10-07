@@ -2095,7 +2095,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Proclamação do Evangelho deJesus Cristo segundo Mateus"
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
        ]
       ],
       "cite": "9, 36-38; 10, 1-8",
@@ -8417,6 +8417,31 @@
        ]
       ],
       "cite": "7, 36-50",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Luke"
+       ]
+      ],
+      "cite": "7:36-8:3",
       "role": "announcement"
      }
     ]

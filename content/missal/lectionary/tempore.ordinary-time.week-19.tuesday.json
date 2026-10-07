@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -1037,6 +1037,20 @@
          "t": "R/. "
         },
         "Der Herr nahm sich sein Volk als Anteil."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The portion of the Lord is his people."
        ]
       ]
      }

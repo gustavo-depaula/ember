@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -2944,6 +2944,20 @@
          "t": "R/. "
         },
         "Der Herr blickt vom Himmel auf die Erde nieder."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "From heaven the Lord looks down on the earth."
        ]
       ]
      }
