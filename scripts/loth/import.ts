@@ -6,7 +6,7 @@
 import { createHash } from 'node:crypto'
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import type { LothCalendar } from '../../packages/loth/src/day'
+import { type LothCalendar, lothDay } from '../../packages/loth/src/day'
 import {
   type HourIndex,
   invitatoryPsalms,
@@ -18,9 +18,11 @@ import {
   project,
   seasonCoverage,
 } from '../../packages/loth/src/index-types'
-import { type Hour, hours, officeOf } from '../../packages/loth/src/office'
+import { isCommemoration } from '../../packages/loth/src/hour'
+import { type Hour, hours, type Office, officeOf } from '../../packages/loth/src/office'
 import { type Block, wordsOf, wordsOfBlocks } from '../../packages/loth/src/text'
 import { withoutSlips } from './corrections'
+import { allSaintsOnSaturday, departs, withTheOpeningOfItsSeason } from './departures'
 import { buildLayers, type Observation, setDiffUntold } from './layers'
 import { normalize } from './normalize'
 import { slotsOf } from './slots'
@@ -104,10 +106,10 @@ const marked = (blocks: Block[]) =>
 const parts = new Map<string, Block[]>()
 // text id -> [slot, part id][]
 const textParts = new Map<string, [string, string][]>()
-for (const line of readFileSync(join(dumps, 'textos.jsonl'), 'utf8').split('\n')) {
-  if (!line) continue
-  const text = JSON.parse(line) as { id: string; hora: string; html: string }
-  const cut = slotsOf(relink(normalize(withoutSlips(text.html))), text.hora)
+// The archive's HTML, its slips put right.
+const htmlOf = new Map<string, { hora: string; html: string }>()
+function cutText(text: { id: string; hora: string; html: string }) {
+  const cut = slotsOf(relink(normalize(text.html)), text.hora)
   // One Sunday's Lauds has the antiphon's label run into the line above it,
   // and so the canticle's own title left with the heading.
   for (const [i, part] of cut.entries()) {
@@ -129,6 +131,27 @@ for (const line of readFileSync(join(dumps, 'textos.jsonl'), 'utf8').split('\n')
       return [part.slot, id]
     }),
   )
+}
+for (const line of readFileSync(join(dumps, 'textos.jsonl'), 'utf8').split('\n')) {
+  if (!line) continue
+  const raw = JSON.parse(line) as { id: string; hora: string; html: string }
+  const text = { ...raw, html: withoutSlips(raw.html) }
+  htmlOf.set(text.id, text)
+  cutText(text)
+}
+// The text as the day has it: with the opening its season calls for, where
+// the archive's has the other.
+function ofTheDay(id: string | undefined, office: Office): string | undefined {
+  const text = id === undefined ? undefined : htmlOf.get(id)
+  if (!text) return id
+  const html = withTheOpeningOfItsSeason(text.html, office)
+  if (html === text.html) return id
+  const mine = `${id}~${sha(html)}`
+  if (!htmlOf.has(mine)) {
+    htmlOf.set(mine, { ...text, id: mine, html })
+    cutText({ ...text, id: mine, html })
+  }
+  return mine
 }
 console.log(`${textParts.size} texts, ${parts.size} parts`)
 if (process.env.LOTH_SLOT) {
@@ -220,6 +243,27 @@ const corrected = new Set<string>()
 function cutOf(hour: Hour, key: OfficeKey, text: string): [string, string][] {
   const cut = textParts.get(text) as [string, string][]
   if (cut[0][0] === 'whole') return cut
+  // All Saints is kept on a Sunday but when 1 November is a Saturday, and the
+  // archive gives that Saturday the Sunday's psalm at the little hours. Off a
+  // Sunday a solemnity has the complementary psalms (General Instruction,
+  // 229), here as the Immaculate Conception has them.
+  if (key.C === 'sanctorale.11-01' && key.d === '6' && (hour === 'terce' || hour === 'sext' || hour === 'none')) {
+    const weekday = [...(observed.get(hour)?.values() ?? [])].find((o) => o.key.C === 'sanctorale.12-08' && o.key.d !== '0')
+    if (!weekday) throw new Error(`no solemnity on a weekday to take the complementary psalms of ${hour} from`)
+    const theirs = textParts.get(weekday.text) as [string, string][]
+    const slotOf = ([slot]: [string, string]) => slot
+    const antiphon = cut.find(([slot]) => slot === 'ant-1-end')?.[1]
+    if (!antiphon) throw new Error(`All Saints has no antiphon at ${hour}`)
+    // One antiphon to the three psalms: it closes after the third.
+    const psalms = theirs
+      .slice(theirs.findIndex(([slot]) => slot === 'psalm-1'), theirs.findIndex(([slot]) => slot === 'reading'))
+      .map(([slot, id]): [string, string] => [slot, slot.startsWith('ant-') ? antiphon : id])
+    return [
+      ...cut.slice(0, cut.map(slotOf).indexOf('psalm-1')),
+      ...psalms,
+      ...cut.slice(cut.map(slotOf).indexOf('reading')),
+    ]
+  }
   // The archive's second Vespers of Christ the King stop after the responsory.
   // What follows is as at the first (the book gives both the same
   // intercessions and prayer), but for the antiphon, which is taken from
@@ -283,17 +327,55 @@ function observe(hour: Hour, key: OfficeKey, text: string | undefined, date: str
   if (!seen) byKey.set(at, { key, text, date })
 }
 
-for (const day of days) {
+const dateOf = (day: { data: string }) => {
   const [y, m, d] = day.data.split('-').map(Number)
-  const date = new Date(y, m - 1, d, 12)
+  return new Date(y, m - 1, d, 12)
+}
+for (const [i, day] of days.entries()) {
+  const date = dateOf(day)
   for (const hour of hours) {
     const office = officeOf(date, hour, calendar)
+    // A saint who is only commemorated leaves the Invitatory to the weekday
+    // (General Instruction, 237-239), and the archive has it with the saint's
+    // antiphon. The weekday's is the season's, as the nearest day without a
+    // saint has it.
+    if (hour === 'invitatory' && isCommemoration(office)) {
+      const near = [-1, 1, -2, 2, -3, 3, -4, 4].map((n) => days[i + n]).filter(Boolean)
+      const plain = near.find((other) => {
+        const theirs = officeOf(dateOf(other), hour, calendar)
+        return !theirs.celebration && theirs.day.weekday !== 0 && theirs.day.season === office.day.season && Boolean(theirs.dateKey) === Boolean(office.dateKey)
+      })
+      if (plain)
+        for (const psalm of invitatoryPsalms)
+          observe(
+            hour,
+            officeKey(office, 'season', psalm),
+            ofTheDay(textOfKey.get(plain.chave_invitatorio + (psalm === '94c' ? '' : `|SALMO${psalm}`)), office),
+            day.data,
+          )
+    }
+    // Where the archive keeps another office than the corpus, its hour tells
+    // nothing of ours; All Saints' little hours are still its own, with other
+    // psalms (`cutOf`).
+    if (departs(date, hour) && !(allSaintsOnSaturday(date) && hour !== 'vespers')) {
+      // All Saints' second Vespers are the same on a Saturday as on its Sunday.
+      if (allSaintsOnSaturday(date)) {
+        const sunday = days.find((other) => {
+          const theirs = officeOf(dateOf(other), hour, calendar)
+          return theirs.celebration?.id === office.celebration?.id && theirs.day.weekday === 0 && !theirs.firstVespers
+        })
+        if (!sunday) throw new Error('no Sunday of All Saints to take its second Vespers from')
+        observe(hour, officeKey(office, 'celebration'), ofTheDay(textOfKey.get(sunday.chave_vesperas), office), day.data)
+      }
+      continue
+    }
     const theirs = day[`chave_${theirHour[hour]}`]
-    const base = textOfKey.get(theirs)
+    const textOf = (key: string) => ofTheDay(textOfKey.get(key), office)
+    const base = textOf(theirs)
     const psalms = hour === 'invitatory' ? invitatoryPsalms : (['94c'] as const)
     for (const psalm of psalms) {
       const suffix = psalm === '94c' ? '' : `|SALMO${psalm}`
-      const text = suffix ? textOfKey.get(theirs + suffix) : base
+      const text = suffix ? textOf(theirs + suffix) : base
       const c = office.celebration
       if (!c) {
         observe(hour, officeKey(office, 'season', psalm), text, day.data)
@@ -306,7 +388,7 @@ for (const day of days) {
       if (c.obligatory) {
         observe(hour, officeKey(office, 'celebration', psalm), text, day.data)
         if (!suffix)
-          observe(hour, officeKey(office, 'season', psalm), textOfKey.get(`${theirs}|TEMPO`), day.data)
+          observe(hour, officeKey(office, 'season', psalm), textOf(`${theirs}|TEMPO`), day.data)
         continue
       }
       // The Invitatory of an optional memorial is given with the saint's
@@ -322,7 +404,7 @@ for (const day of days) {
         observe(
           hour,
           officeKey(office, 'celebration', psalm),
-          textOfKey.get(`${theirs}|MEMORIA`) ?? text,
+          textOf(`${theirs}|MEMORIA`) ?? text,
           day.data,
         )
     }
@@ -696,12 +778,6 @@ const signature = (html: string) =>
     )
     .digest()
     .subarray(0, 3)
-const htmlOf = new Map<string, string>()
-for (const line of readFileSync(join(dumps, 'textos.jsonl'), 'utf8').split('\n')) {
-  if (!line) continue
-  const text = JSON.parse(line) as { id: string; html: string }
-  htmlOf.set(text.id, withoutSlips(text.html))
-}
 const none = Buffer.from([0, 0, 0])
 const own: Buffer[] = []
 const other: Buffer[] = []
@@ -709,17 +785,30 @@ const other: Buffer[] = []
 const slug: Record<string, string> = JSON.parse(readFileSync(join(__dirname, 'their-ids.json'), 'utf8'))
 const referenceDays: string[] = []
 for (const day of days) {
+  const date = dateOf(day)
   for (const hour of hours) {
     const theirs = day[`chave_${theirHour[hour]}`]
+    const office = officeOf(date, hour, calendar)
     const sign = (key: string) => {
-      const id = textOfKey.get(key)
-      return id ? signature(htmlOf.get(id) as string) : none
+      const id = ofTheDay(textOfKey.get(key), office)
+      return id ? signature((htmlOf.get(id) as { html: string }).html) : none
     }
-    own.push(sign(theirs))
+    // No hash where the corpus departs from the archive, nor for the second
+    // office of a day the book only lets be commemorated.
+    const weekdayOnly = isCommemoration(office) && (hour === 'invitatory' || office.celebration?.obligatory)
+    own.push(departs(date, hour) || weekdayOnly ? none : sign(theirs))
     const memorial = sign(`${theirs}|MEMORIA`)
-    other.push(memorial.equals(none) ? sign(`${theirs}|TEMPO`) : memorial)
+    other.push(
+      departs(date, hour) || isCommemoration(office) ? none : memorial.equals(none) ? sign(`${theirs}|TEMPO`) : memorial,
+    )
   }
-  referenceDays.push(`${day.proprio ? slug[day.proprio] : ''}|${day.salterio}`)
+  // The day itself is the archive's but where Saint Joseph is moved.
+  const mine = lothDay(date, calendar)
+  referenceDays.push(
+    departs(date, 'lauds') && !allSaintsOnSaturday(date)
+      ? `${mine.celebration?.id ?? ''}|${mine.psalterWeek || ''}`
+      : `${day.proprio ? slug[day.proprio] : ''}|${day.salterio}`,
+  )
 }
 const tests = join(root, 'packages/loth/src/__tests__')
 mkdirSync(tests, { recursive: true })

@@ -6,6 +6,7 @@ import {
   formsOf,
   type Hour,
   type InvitatoryPsalm,
+  isCommemoration,
   isVerified,
   type LothSource,
   type Office,
@@ -46,7 +47,9 @@ function select(label: string, overrideKey: string, options: ContainerOption[]):
 
 function formLabel(office: Office, form: Form): string {
   if (form === 'season') return 'Tempo litúrgico'
-  return office.celebration?.title.replace(/\s*\n\s*/g, ' — ') ?? 'Memória'
+  const saint = office.celebration?.title.replace(/\s*\n\s*/g, ' — ') ?? 'Memória'
+  // In Lent and the like the saint is not kept, only added to the weekday.
+  return isCommemoration(office) ? `Com a comemoração de ${saint}` : saint
 }
 
 async function invitatory(

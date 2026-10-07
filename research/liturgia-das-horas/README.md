@@ -2,7 +2,7 @@
 
 **Question.** Can the Brazilian Liturgy of the Hours be prayed in Ember from the corpus, by an engine of our own that gives, hour for hour, what the breviary app its text was drawn from gives?
 
-**Answer.** Yes for every hour of 2020–2040, which is as far as that app was ever run: 61,368 hours and the 8,849 second offices a memorial allows, none different but where the archive is itself at fault (below), and there the corpus has the book's text. The result is `content/loth/`, `packages/loth` and the importer in `scripts/loth/`.
+**Answer.** Yes for every hour of 2020–2040, which is as far as that app was ever run: 61,029 of the 61,368 hours of those years and some 8,100 second offices a memorial allows are the archive's, none different; the other 339 hours, and the second office of a saint who may only be commemorated, are where the archive goes against the book's own rules (below), and there the corpus follows the rule. The result is `content/loth/`, `packages/loth` and the importer in `scripts/loth/`.
 
 ## What there was to work from
 
@@ -29,10 +29,10 @@ In 21 years, six parts are told by no layer and are filed under their whole day.
 ## How it is checked
 
 - `packages/loth/src/__tests__/reference.test.ts`: every hour of every day of 2020–2040, and the second office of every memorial, assembled from `content/loth/` by the engine and compared with a hash of the letters and digits of the archive's HTML. The calendar likewise, day by day.
-- `scripts/loth/compare-site.ts`: the same against the day files the site serves (2020–2030): 32,130 hours and 2,695 second offices, none different. Seven days fetched from the live site on 2026-10-06 agreed too.
+- `scripts/loth/compare-site.ts`: the same against the day files the site serves (2020–2030): 31,951 hours and 2,321 second offices, none different (the hours the corpus has otherwise than the archive are left out). Seven days fetched from the live site on 2026-10-06 agreed too.
 - `beyond.test.ts`: every hour of 2020–2050 is whole. It has what an hour of its kind never goes without (psalmody, reading, Gospel canticle with its antiphon, intercessions, prayer), and no part is a label with nothing after it. This is the check that found the archive's own gaps.
 - `supplied.test.ts`: the texts the archive lacks or has wrong, by name, each as `liturgiadashoras.online` has it.
-- `scripts/loth/import.ts --holdout 2035 [--misses]`: the layers built from 2020–2034 alone, asked for the days of 2035–2040 of a kind they had never met. Of 4,729 such hours (the Invitatory aside, which counts each of its psalms), 68 differ: 98.6%, where the first cut of the corpus gave 274 misses. `--misses` prints each with the slot that differs and the layer that answered. What is left: a saint met in a season for the first time, whose antiphons change there in no regular way; the hymn of a little hour on a memorial, which the source chooses by the day of the psalter with exceptions of its own; and a good many that are no difference of the book's at all, but the archive having one text in two wordings (`variants.tsv`) and a saint's day drawing now one and now the other.
+- `scripts/loth/import.ts --holdout 2035 [--misses]`: the layers built from 2020–2034 alone, asked for the days of 2035–2040 of a kind they had never met. Of 4,725 such hours (the Invitatory aside, which counts each of its psalms), 69 differ: 98.5%, where the first cut of the corpus gave 274 misses. `--misses` prints each with the slot that differs and the layer that answered. What is left: a saint met in a season for the first time, whose antiphons change there in no regular way; the hymn of a little hour on a memorial, which the source chooses by the day of the psalter with exceptions of its own; and a good many that are no difference of the book's at all, but the archive having one text in two wordings (`variants.tsv`) and a saint's day drawing now one and now the other.
 - So after 2040 it is not 100%: a day of a kind 2020–2040 never had may read differently from the book. The app says so above any hour outside those years.
 
 ## A second source
@@ -62,6 +62,17 @@ It is a rough witness. It keeps the weekday on most saints' days, has the genera
 - **Slips of the archive's**: a letter typed for the figure one in a citation ("lCor", "ICor", "IPd", "ISm", "PG 6l"), now in `corrections.ts`.
 
 It also settled two questions that were open: the Latin and Portugal's have "O Sapientia" at Vespers and the antiphon of the 17th at Lauds on Sunday 17 December 2023, as the corpus does; and all three editions have "All power in heaven and on earth has been given to me" at second Vespers of Christ the King.
+
+## Against the book's rules
+
+The General Instruction of the Liturgy of the Hours (in the archive as a PDF) says what each hour is made of; the Universal Norms on the Liturgical Year say which celebration has a day or an evening. Every day of 2020–2040 was checked against both: where an impeded solemnity lands, every evening against the table of precedence, the psalms of Lauds, the little hours and Compline by rank, the Te Deum, the verse that opens an hour. Where the archive goes against them the corpus follows the rule, the importer learns nothing from the archive's hour (`scripts/loth/departures.ts`), the reference holds no hash for it, and `norms.test.ts` holds it to the rule instead.
+
+- **Saint Joseph** is kept the Monday after when 19 March is a Sunday of Lent (2023, 2028, 2034; the archive has the Saturday before, the norm of before 1990), and the Saturday before Palm Sunday when it falls in Holy Week (2035; the archive leaves him out).
+- **All Saints on a Saturday** (2025, 2031, 2036) has its own second Vespers, where the archive has first Vespers of a Sunday that is not kept, and the complementary psalms at the little hours, where the archive has the Sunday's Psalm 117 (art. 229).
+- **"Aleluia" ends the verse that opens an hour except in Lent** (art. 79). The archive's hours of the saints had it the other way some 1,170 times in 21 years, and "(T.P. Aleluia)" as if it were Easter's alone. It is set by the season in the archive's HTML before anything reads it, so the reference is the archive as corrected.
+- **A memorial in Lent, on 17–24 December or in the octave of Christmas is only commemorated** (arts. 237–239): every hour is the weekday's, the Invitatory too, and the second office offered is the weekday's with the saint added (his reading and responsory after the second reading and his prayer to end the Office of Readings; his antiphon and prayer after the concluding prayer of Lauds and Vespers). The archive lays out a whole memorial there, as in Ordinary Time, without the Te Deum in the octave. The saint's parts are still the archive's.
+
+Found in conformity: the Immaculate Conception on a Sunday that is 8 December (Brazil's own practice), the Annunciation's transfers, the Baptist on 23 June when the Sacred Heart has the 24th, every other evening of the 21 years, and the make-up of the hours by rank. Left as the archive has them, the rule being open to two readings: the whole office of the dead on a Sunday that is 2 November; first Vespers of the Sacred Heart the evening of the Baptist (2022, 2033), and of All Saints the evening of All Souls (2024, 2030), where the two rank alike.
 
 ## What is still open
 

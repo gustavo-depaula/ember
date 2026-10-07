@@ -65,6 +65,7 @@ const feastsWithFirstVespers = new Set<string>([
 ])
 // What a Saturday keeps its own Vespers for.
 const keepsSaturdayEvening = new Set<string>([
+  ids.allSaints,
   ids.johnTheBaptist,
   ids.aparecida,
   ids.transfiguration,

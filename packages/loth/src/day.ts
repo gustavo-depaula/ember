@@ -143,8 +143,17 @@ function celebrationsOfYear(calendar: LothCalendar, year: number): Map<string, s
   const moved = [ids.peterAndPaul, ids.assumption, ids.allSaints, ids.joseph, ids.annunciation]
   for (const [day, id] of [...byDay]) if (moved.includes(id as never)) byDay.delete(day)
 
+  // Saint Joseph gives way to a Sunday of Lent and is kept the Monday after;
+  // in Holy Week he is kept the Saturday before Palm Sunday.
   const joseph = at(year, 3, 19)
-  put(joseph.getDay() === 0 ? addDays(joseph, -1) : joseph, ids.joseph)
+  put(
+    fromEaster(joseph) >= -7
+      ? addDays(easter, -8)
+      : joseph.getDay() === 0
+        ? addDays(joseph, 1)
+        : joseph,
+    ids.joseph,
+  )
 
   const annunciation = at(year, 3, 25)
   const a = fromEaster(annunciation)

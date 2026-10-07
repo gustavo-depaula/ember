@@ -47,19 +47,35 @@ export interface HourPart {
 const hoursOfAMemorial = new Set<Hour>(['readings', 'lauds', 'vespers'])
 
 /**
+ * In Lent, from 17 to 24 December and in the octave of Christmas no memorial
+ * is kept: the office is the weekday's, and one who wishes may add the saint
+ * to it (General Instruction, 237-239).
+ */
+export function isCommemoration(office: Office): boolean {
+  if (office.celebration?.rank !== 'memorial') return false
+  const { season, date } = office.day
+  const december = date.getMonth() === 11 ? date.getDate() : 0
+  return season === 'lent' || (season === 'advent' && december >= 17) || december >= 26
+}
+
+/**
  * The offices an hour may be prayed in, the one the book gives first. A
  * memorial is the saint's office or the season's weekday, and an optional one
- * leaves the weekday first. The Invitatory is always the saint's.
+ * leaves the weekday first. The Invitatory is always the saint's. Where the
+ * saint may only be commemorated, the second is the weekday's with the
+ * commemoration added.
  */
 export function formsOf(office: Office): Form[] {
   const c = office.celebration
   if (!c) return ['season']
+  if (isCommemoration(office))
+    return hoursOfAMemorial.has(office.hour) ? ['season', 'celebration'] : ['season']
   if (c.rank !== 'memorial' || office.hour === 'invitatory') return ['celebration']
   if (!hoursOfAMemorial.has(office.hour)) return [c.obligatory ? 'celebration' : 'season']
   return c.obligatory ? ['celebration', 'season'] : ['season', 'celebration']
 }
 
-export async function assembleHour(
+async function parts(
   office: Office,
   form: Form,
   source: LothSource,
@@ -86,4 +102,67 @@ export async function assembleHour(
         : { slot, blocks }
     }),
   )
+}
+
+// A part's heading ("Segunda leitura", "Oração") is its first block, a title.
+const withoutHeading = (blocks: Block[]) => (blocks[0]?.k === 'title' ? blocks.slice(1) : blocks)
+
+/**
+ * The weekday's hour with the saint commemorated. At the Office of Readings
+ * the saint's reading and responsory follow the weekday's second, and the
+ * saint's prayer ends the hour; at Lauds and Vespers the saint's antiphon and
+ * prayer follow the concluding prayer.
+ */
+async function withTheCommemoration(office: Office, source: LothSource): Promise<HourPart[]> {
+  const [weekday, saint] = await Promise.all([
+    parts(office, 'season', source),
+    parts(office, 'celebration', source),
+  ])
+  const of = (slot: string) => saint.find((part) => part.slot === slot)
+  const name: HourPart = {
+    slot: 'commemoration',
+    blocks: [
+      {
+        k: 'title',
+        lines: [[`Comemoração: ${office.celebration?.title.replace(/\s*\n\s*/g, ' ')}`]],
+      },
+    ],
+  }
+  const prayer = of('prayer')
+  if (!prayer)
+    throw new Error(`Liturgy of the Hours: no prayer to commemorate ${office.celebration?.id} with`)
+  if (office.hour === 'readings') {
+    const reading = of('reading-2')
+    const responsory = of('responsory-2')
+    const after = weekday.findIndex((part) => part.slot === 'responsory-2')
+    if (!reading || after < 0) return weekday
+    return [
+      ...weekday.slice(0, after + 1),
+      name,
+      { slot: 'commemoration-reading', blocks: withoutHeading(reading.blocks) },
+      ...(responsory ? [{ slot: 'commemoration-responsory', blocks: responsory.blocks }] : []),
+      ...weekday.slice(after + 1).map((part) => (part.slot === 'prayer' ? prayer : part)),
+    ]
+  }
+  const antiphon = of('canticle-ant')
+  const after = weekday.findIndex((part) => part.slot === 'prayer')
+  if (after < 0) return weekday
+  return [
+    ...weekday.slice(0, after + 1),
+    name,
+    ...(antiphon ? [{ slot: 'commemoration-ant', blocks: antiphon.blocks }] : []),
+    { slot: 'commemoration-prayer', blocks: prayer.blocks },
+    ...weekday.slice(after + 1),
+  ]
+}
+
+export async function assembleHour(
+  office: Office,
+  form: Form,
+  source: LothSource,
+  psalm?: InvitatoryPsalm,
+): Promise<HourPart[]> {
+  return form === 'celebration' && isCommemoration(office)
+    ? withTheCommemoration(office, source)
+    : parts(office, form, source, psalm)
 }

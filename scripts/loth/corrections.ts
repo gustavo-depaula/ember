@@ -16,6 +16,8 @@ const slips: [RegExp, string][] = [
   // A letter typed for the figure one in a citation.
   [/\b[lI](Cor|Pd|Sm)\b/g, '1$1'],
   [/\bPG 6l,/g, 'PG 61,'],
+  // The doxology that opens an hour, its Amen left out.
+  [/(agora e sempre\.)(\s*Aleluia)/g, '$1 Amém.$2'],
 ]
 
 export const withoutSlips = (html: string): string => slips.reduce((text, [slip, right]) => text.replace(slip, right), html)

@@ -21,9 +21,13 @@ describe('the Brazilian calendar', () => {
   })
 
   it('moves Saint Joseph and the Annunciation off a Sunday and out of Holy Week', () => {
-    // 19 March 2028 is a Sunday of Lent.
-    expect(kept('2028-03-18')).toBe(ids.joseph)
+    // 19 March 2028 is a Sunday of Lent: the Monday after.
+    expect(kept('2028-03-18')).not.toBe(ids.joseph)
     expect(kept('2028-03-19')).toBeUndefined()
+    expect(kept('2028-03-20')).toBe(ids.joseph)
+    // 19 March 2035 is the Monday of Holy Week: the Saturday before Palm Sunday.
+    expect(kept('2035-03-17')).toBe(ids.joseph)
+    expect(kept('2035-03-19')).toBeUndefined()
     // 25 March 2027 is Holy Thursday: the Monday after the Easter octave.
     expect(kept('2027-03-25')).toBe(ids.lordsSupper)
     expect(kept('2027-04-05')).toBe(ids.annunciation)

@@ -7,11 +7,12 @@
 import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import type { LothCalendar } from '../../packages/loth/src/day'
-import { assembleHour, formsOf, type LothSource } from '../../packages/loth/src/hour'
+import { assembleHour, formsOf, isCommemoration, type LothSource } from '../../packages/loth/src/hour'
 import { type Hour, officeOf } from '../../packages/loth/src/office'
 import { wordsOf, wordsOfBlocks } from '../../packages/loth/src/text'
 import { amended, asInTheReference } from '../../packages/loth/src/__tests__/corpus'
 import { withoutSlips } from './corrections'
+import { departs, withTheOpeningOfItsSeason } from './departures'
 
 const site = process.argv[2]
 const corpus = join(__dirname, '../../content/loth')
@@ -69,13 +70,16 @@ async function main() {
         const [first, second] = formsOf(office)
         const mine = async (form: typeof first) =>
           wordsOfBlocks((await assembleHour(office, form, source)).flatMap(asInTheReference))
-        // The site is the archive, faults and all.
-        if (amended(office)) continue
+        // The site is the archive, faults and all: the hours the corpus has
+        // otherwise are left out, and the opening verse is set to its season.
+        if (amended(office) || departs(date, hour)) continue
+        if (hour === 'invitatory' && isCommemoration(office)) continue
+        const ofTheirs = (html: string) => ofHtml(withTheOpeningOfItsSeason(withoutSlips(html), office))
         hours++
-        if ((await mine(first)) !== ofHtml(theirs.html)) differences.push(`${day.data} ${hour}`)
-        if (theirs.alternativa?.html && second) {
+        if ((await mine(first)) !== ofTheirs(theirs.html)) differences.push(`${day.data} ${hour}`)
+        if (theirs.alternativa?.html && second && !isCommemoration(office)) {
           alternatives++
-          if ((await mine(second)) !== ofHtml(theirs.alternativa.html))
+          if ((await mine(second)) !== ofTheirs(theirs.alternativa.html))
             differences.push(`${day.data} ${hour} (${theirs.alternativa.rotulo})`)
         }
       }
