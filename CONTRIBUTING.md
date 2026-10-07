@@ -42,7 +42,7 @@ All content is distributed as a **content-addressed corpus** at `https://ember.d
 To understand the content model:
 - [Authoring practices](docs/content/primitives-guide.md) — how to write a prayer flow
 - [Book format](docs/content/book-format.md)
-- [Content sources & licensing](docs/content/content-sources.md)
+- [Content sources](docs/content/content-sources.md)
 
 Content lives at the corpus root, one folder per kind: `content/practices/`, `content/chapters/`, `content/books/`, `content/collections/`, etc. Just placing a file under the right folder is enough — the next `pnpm build:corpus` picks it up.
 

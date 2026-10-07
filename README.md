@@ -111,7 +111,7 @@ pnpm test           # Run all tests
 - [Contributing](CONTRIBUTING.md) — how to contribute code and content
 - [Authoring practices](docs/content/primitives-guide.md) — writing prayer flows
 - [Book format](docs/content/book-format.md) — book manifest, chapter format, ID conventions
-- [Content sources](docs/content/content-sources.md) — Bible, CCC, hymns, daily readings, licensing
+- [Content sources](docs/content/content-sources.md) — where each Bible translation comes from, credits
 - [Design system](docs/design/design-system.md) — colors, typography, layout
 
 ---
