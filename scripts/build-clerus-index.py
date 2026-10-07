@@ -16,6 +16,16 @@ Writes:
                                         the homilies on it that the corpus
                                         holds, and the councils and popes who
                                         cite it, in the Douay-Rheims' numbering
+  content/bible/clerus/talks/<slug>.json  the popes' homilies and addresses
+                                        that cite each verse
+  content/bible/summa/<slug>.json       the articles of the Summa that do
+  content/bible/catechism.json          what each paragraph of the Catechism
+                                        cites
+
+Only the first two come from Clerus's citation pages. Those credit a note to
+the section it is printed after and are wrong too often to show, so the rest
+is read from the works' own pages on Clerus (and, for the Catechism, from the
+English edition beside it): see research/clerus-index/README.md.
 
 The research index keeps the site's own numbering (the Hebrew: Psalm 23 is "The
 Lord is my shepherd").
@@ -24,7 +34,7 @@ Usage:
     python3 scripts/build-clerus-index.py <cache dir>
 
 The cache dir keeps every page fetched, so a second run only parses. A full
-crawl is about 3,200 requests.
+crawl is about 8,500 requests, at one a second.
 """
 from __future__ import annotations
 
@@ -39,6 +49,9 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import ccc_english  # noqa: E402
+
 BASE = "https://www.clerus.org/bibliaclerusonline/pt/"
 RESEARCH = ROOT / "research" / "clerus-index"
 OUT = ROOT / "content" / "bible" / "clerus"
@@ -243,7 +256,7 @@ def douay(slug: str, chapter: int, start: int, end: int) -> list[tuple[int, int,
     return [(chapter, start, end, None)]
 
 
-def catechism(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, int | None, int | None]]:
+def catechism_portuguese(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, int | None, int | None]]:
     """Every Scripture reference in the Catechism, from its own text on Clerus:
     (paragraph, book, chapter, first verse, last verse), the verses None where
     a whole chapter is cited.
@@ -261,31 +274,121 @@ def catechism(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, i
     def cite(paragraph: int, markup: str) -> None:
         found.extend((paragraph, *reference) for reference in references(markup, slugs))
 
+    # The footnote numbers start again in each part, so a call waits only for
+    # the next note of its number; a section's notes can be on the page after
+    # its first paragraphs, so the calls are kept from page to page.
+    calls: dict[str, int] = {}
+
+    def read(paragraph: int, block: str) -> None:
+        notes = re.split(r"<br>\s*(\d+)\. ", block)
+        body = notes[0]
+        # A numbered line in the paragraph's own text is not a note.
+        start = next((i for i in range(1, len(notes), 2) if notes[i] in calls or f"({notes[i]})" in body), None)
+        if start is not None:
+            body = "".join(notes[:start])
+        for call in re.findall(r"\((\d+)\)", body):
+            calls[call] = paragraph
+        cite(paragraph, body)
+        if start is not None:
+            for note, markup in zip(notes[start::2], notes[start + 1 :: 2]):
+                if note in calls:
+                    cite(calls.pop(note), markup)
+
     for page in pages:
-        text = fetch(cache, page)
-        # The footnote numbers start again in each part, so a call waits only
-        # for the next note of its number.
-        calls: dict[str, int] = {}
+        text = fetch(cache, page).split("<hr><center>")[0]
         blocks = re.split(r"<a name=\w+><b>(\d+)</b>", text)
         for number, block in zip(blocks[1::2], blocks[2::2]):
-            paragraph = int(number)
-            notes = re.split(r"<br>\s*(\d+)\. ", block)
-            body = notes[0]
-            # A numbered line in the paragraph's own text is not a note.
-            start = next((i for i in range(1, len(notes), 2) if notes[i] in calls or f"({notes[i]})" in body), None)
-            if start is not None:
-                body = "".join(notes[:start])
-            for call in re.findall(r"\((\d+)\)", body):
-                calls[call] = paragraph
-            cite(paragraph, body)
-            if start is not None:
-                for note, markup in zip(notes[start::2], notes[start + 1 :: 2]):
-                    if note in calls:
-                        cite(calls.pop(note), markup)
+            # What stands under the headings that close a block (a
+            # commandment's words, with their own note) opens the paragraph
+            # after, not this one.
+            own, heading, epigraph = block.partition("<a Name=")
+            read(int(number), own)
+            if heading:
+                read(int(number) + 1, re.sub(r"<h\d>.*?</h\d>", " ", epigraph, flags=re.S))
     return found
 
 
-REFERENCE = re.compile(r"<a href=\w+\.htm#\w+>(\w+) (\d+)(?:,(\d+)(?:-(?:(\d+),)?(\d+))?)?[^<]*</a>")
+def catechism(cache: Path, slugs: dict[str, str]) -> list[tuple[int, str, int, int | None, int | None]]:
+    """The Catechism's Scripture references, from two editions laid side by
+    side: the Portuguese on Clerus and the English (scripts/ccc_english.py).
+
+    Neither is clean alone. Clerus links the references itself and slips
+    (Jonas read as John, "6,11" cut to "6,1", a reference left unlinked, a
+    call misnumbered in the text so its note falls to a later paragraph); the
+    English transcription has its own ("Deut 6:45" for 6:4-5). Measured against
+    each other, each alone is right about nineteen times in twenty and has
+    nine in ten. Together: what both have is kept; what only the English has
+    is kept if such a verse exists; what only the Portuguese has is kept
+    unless the English shows it to be one of Clerus's slips.
+    """
+    portuguese = dict.fromkeys(catechism_portuguese(cache, slugs))
+    english = dict.fromkeys(ccc_english.english(cache))
+    by_paragraph: dict[int, list[tuple]] = {}
+    for reference in english:
+        by_paragraph.setdefault(reference[0], []).append(reference)
+    verses = {path.stem: json.loads(path.read_text(encoding="utf-8")) for path in (ROOT / "content" / "bible" / "drb").glob("*.json")}
+
+    def exists(reference: tuple) -> bool:
+        """Such a chapter and verse are in the book, by the Douay's count and
+        a little over (the editions number some chapters a verse or two apart)."""
+        _paragraph, book, chapter, first, _last = reference
+        if book == "psalms":
+            return chapter <= 150
+        in_chapter = verses.get(book, {}).get(str(chapter))
+        return in_chapter is not None and (first is None or first <= len(in_chapter) + 3)
+
+    def same(a: tuple, b: tuple) -> bool:
+        """The same citation, in two editions' numbering."""
+        if a[1:3] != b[1:3]:
+            return False
+        if a[3] is None or b[3] is None:
+            return True
+        slack = 2 if a[1] == "psalms" else 1
+        return a[3] - slack <= b[4] and b[3] - slack <= a[4]
+
+    def slip(ours: tuple) -> str | None:
+        """Why the English shows a Portuguese-only reference to be Clerus's error."""
+        paragraph, book, chapter, first, _last = ours
+        here = by_paragraph.get(paragraph, [])
+        if any(e[1] != book and e[2] == chapter and e[3] is not None and same((0, e[1], *ours[2:]), e) for e in here):
+            return "another book"
+        if any(
+            e[1:3] == (book, chapter) and first is not None and e[3] not in (None, first) and str(e[3]).startswith(str(first))
+            for e in here
+        ):
+            return "a digit dropped"
+        near = (e for n in range(paragraph - 8, paragraph + 9) if n != paragraph for e in by_paragraph.get(n, []))
+        if first is not None and any(same(ours, e) and e not in matched for e in near):
+            return "another paragraph"
+        return None
+
+    matched: set[tuple] = set()
+    kept: list[tuple] = []
+    tally: Counter[str] = Counter()
+    for ours in portuguese:
+        twins = [e for e in by_paragraph.get(ours[0], []) if same(ours, e)]
+        matched.update(twins)
+        if twins:
+            tally["in both"] += 1
+            kept.append(ours)
+    for ours in portuguese:
+        if any(same(ours, e) for e in by_paragraph.get(ours[0], [])):
+            continue
+        reason = slip(ours) or (None if exists(ours) else "no such verse")
+        tally[f"Portuguese only, dropped: {reason}" if reason else "Portuguese only, kept"] += 1
+        if not reason:
+            kept.append(ours)
+    for theirs in english:
+        if theirs in matched:
+            continue
+        tally["English only, kept" if exists(theirs) else "English only, dropped: no such verse"] += 1
+        if exists(theirs):
+            kept.append(theirs)
+    print("catechism:", ", ".join(f"{count} {what}" for what, count in tally.most_common()))
+    return kept
+
+
+REFERENCE = re.compile(r"<a href=\w+\.htm#\w+>(\w+) (\d+)(?:,(\d+)(?:-(?:(\d+),)?(\d+))?|-(\d+))?[^<]*</a>")
 
 
 def references(markup: str, slugs: dict[str, str]) -> list[tuple[str, int, int | None, int | None]]:
@@ -293,11 +396,12 @@ def references(markup: str, slugs: dict[str, str]) -> list[tuple[str, int, int |
     last verse), the verses None where a chapter is cited whole. A reference
     that runs into another chapter ("Sb 11,23-12,2") is given as two."""
     out: list[tuple[str, int, int | None, int | None]] = []
-    for book, chapter, first, end_chapter, last in REFERENCE.findall(markup):
+    for book, chapter, first, end_chapter, last, to_chapter in REFERENCE.findall(markup):
         if book not in slugs:
             continue
         if not first:
-            out.append((slugs[book], int(chapter), None, None))
+            # "Mt 5-7": each chapter, whole.
+            out.extend((slugs[book], c, None, None) for c in range(int(chapter), int(to_chapter or chapter) + 1))
         elif end_chapter and int(end_chapter) > int(chapter):
             out.append((slugs[book], int(chapter), int(first), END))
             out.append((slugs[book], int(end_chapter), 1, int(last)))
@@ -391,6 +495,190 @@ def document(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[t
     return found
 
 
+TOKEN = re.compile(r"<a Name=(\w+)>(?:<center>)?<h[12]>(.*?)</h[12]>(?:</center>)?|<a name=(\w+)><b>(\d+)</b>", re.S)
+
+
+def stream(cache: Path, work: str, seed: str):
+    """A work's pages as what they hold, in order: ("heading", page, anchor,
+    title), ("number", page, anchor, number) and ("text", markup)."""
+    for page in pages_of(cache, work, seed):
+        text = fetch(cache, page).split("<hr><center>")[0]
+        at = 0
+        for token in TOKEN.finditer(text):
+            yield ("text", text[at : token.start()])
+            at = token.end()
+            if token.group(1):
+                title = html.unescape(re.sub(r"<[^>]+>", "", token.group(2)))
+                yield ("heading", page, token.group(1), re.sub(r"\s+", " ", title).strip())
+            else:
+                yield ("number", page, token.group(3), token.group(4))
+        yield ("text", text[at:])
+
+
+# Clerus has the Summa in Spanish, a work to each part; the corpus's chapter
+# ids open with these.
+SUMMA = {"Suma Teológica I": "fp", "Suma Teológica I-II": "fs", "Suma Teológica II-II": "ss", "Suma Teológica III": "tp"}
+SUMMA_BOOK = ROOT / "content" / "books" / "aquinas-opera-omnia" / "summa-theologiae" / "en-US"
+
+
+def summa(cache: Path, seeds: dict[str, str], slugs: dict[str, str]) -> tuple[list[tuple], list[str]]:
+    """Every Scripture reference in the Summa, by the article that makes it:
+    (the corpus's chapter id, book, chapter, first verse, last verse), and what
+    could not be placed. The Summa has no notes, so a reference is where it is
+    printed; the question and article are read from the headings above it."""
+    found: list[tuple] = []
+    problems: list[str] = []
+    for work, prefix in SUMMA.items():
+        question = article = None
+        for kind, *rest in stream(cache, work, seeds[work]):
+            if kind == "heading":
+                q = re.match(r"CUESTI[ÓO]N (\d+)", rest[2], re.I)
+                a = re.match(r"[: ]*ART[IÍí]CULO (\d+)", rest[2], re.I)
+                if q:
+                    question, article = int(q.group(1)), None
+                elif a:
+                    # Clerus lost a question's heading (II-II, 17): its
+                    # articles begin again at 1 under the question before.
+                    if int(a.group(1)) == 1 and (article or 0) >= 2 and question is not None:
+                        question += 1
+                    article = int(a.group(1))
+            elif kind == "text" and question is not None:
+                cited = [r for r in references(rest[0], slugs) if r[2] or r[0] == "psalms"]
+                if not cited:
+                    continue
+                chapter = f"{prefix}-q{question:03d}-" + ("pr" if article is None else f"a{article:02d}")
+                if not (SUMMA_BOOK / f"{chapter}.md").exists():
+                    problems.append(f"{work}: no {chapter} in the corpus")
+                    continue
+                found.extend((chapter, *r) for r in cited)
+    return found, problems
+
+
+# The popes' preaching and teaching that Clerus has in Portuguese, a work to a
+# collection (the addresses of John Paul II, a work to each year).
+TALKS = re.compile(r"Homilias JOÃO PAULO II|Bento XVI Homilias|Audiências [\d-]+|Discursos Bento XVI|Discursos João Paulo II \d+")
+
+
+def talks(cache: Path, work: str, seed: str, slugs: dict[str, str]) -> list[tuple]:
+    """Every Scripture reference in a collection of homilies or addresses, by
+    the text that makes it: (title, page, anchor, book, chapter, first verse,
+    last verse). A text runs from its headings (the day, the occasion) to the
+    next; its notes are printed inside it, so they are its own."""
+    found: list[tuple] = []
+    titles: list[str] = []
+    place: tuple[str, str] | None = None
+    fresh = True  # still among the lines that head a text
+
+    def title() -> str:
+        # "HOMILIA DO PAPA JOÃO PAULO II" heads every text of his and names none.
+        named = [t for t in dict.fromkeys(titles) if not re.fullmatch(r"(?:\w+ D[OE] )?(?:SANTO PADRE|PAPA [\w ]+)", t)]
+        return " — ".join(named or titles)[:240]
+
+    def words(markup: str) -> str:
+        return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", markup))).strip()
+
+    for kind, *rest in stream(cache, work, seed):
+        if kind == "heading":
+            page, anchor, heading = rest
+            if not fresh:
+                titles = []
+            fresh = True
+            if heading:
+                titles.append(heading)
+            place = (page, anchor)
+        elif kind == "text" and place is not None:
+            markup = rest[0]
+            # Between its headings a text has lines that are still its title
+            # (the place, the day, set in the middle of the page), and the day
+            # is often the first such line under the last of them.
+            lines = re.match(r"(?:\s|<br>)*((?:<center>.*?</center>(?:\s|<br>)*)*)", markup, re.S).group(1)
+            if fresh and len(words(markup)) < 120 and not REFERENCE.search(markup):
+                lines = markup
+            else:
+                fresh = fresh and not words(markup)
+            if lines and (fresh or titles):
+                titles.extend(t for t in (words(line) for line in re.split(r"</center>|<br>", lines)) if t)
+            found.extend((title(), *place, *r) for r in references(markup, slugs) if r[2] or r[0] == "psalms")
+    return found
+
+
+def write_cited(directory: Path, found: list[tuple], vulgate: bool = False) -> int:
+    """Lay places against the verses they cite, a file to a book: {items:
+    [place], chapters: {chapter: [[first verse, last verse, place's position]]}}
+    in the Douay's numbering. `found` is (place, book, chapter, first, last),
+    the places in the order they are to be listed. `vulgate` is for a work
+    that numbers as the Douay does already (St Thomas cites the Vulgate)."""
+    directory.mkdir(parents=True, exist_ok=True)
+    books: dict[str, tuple[dict, dict[str, list]]] = {}
+    for place, slug, chapter, first, last in found:
+        positions, chapters = books.setdefault(slug, ({}, {}))
+        position = positions.setdefault(place, len(positions))
+        if first is None:  # a psalm cited whole
+            first, last = 1, END
+        placed = [(chapter, first, last, None)] if vulgate else douay(slug, chapter, first, last)
+        for douay_chapter, start, end, _label in placed:
+            run = [start, end, position]
+            runs = chapters.setdefault(str(douay_chapter), [])
+            if run not in runs:
+                runs.append(run)
+    for slug, (positions, chapters) in books.items():
+        for runs in chapters.values():
+            runs.sort()
+        (directory / f"{slug}.json").write_text(
+            json.dumps({"items": list(positions), "chapters": chapters}, ensure_ascii=False, separators=(",", ":")),
+            encoding="utf-8",
+        )
+    return sum(len(runs) for _p, chapters in books.values() for runs in chapters.values())
+
+
+def write_summa(cache: Path, everywhere: dict[str, str], slugs: dict[str, str]) -> None:
+    """content/bible/summa/: the articles of the Summa that quote each verse,
+    as [the corpus's chapter id, the article's question]."""
+    found, problems = summa(cache, everywhere, slugs)
+    toc = json.loads((SUMMA_BOOK.parent / "book.json").read_text(encoding="utf-8"))["toc"]
+    titles: dict[str, str] = {}
+
+    def walk(nodes: list[dict]) -> None:
+        for node in nodes:
+            # "Article 6 — Whether hope is…", "Question 017 — Question 17 — Hope".
+            titles[node["id"]] = node["title"]["en-US"].split(" — ")[-1]
+            walk(node.get("children", []))
+
+    walk(toc)
+    for chapter in {chapter for chapter, *_ in found}:
+        if chapter.endswith("-pr"):
+            titles[chapter] = titles[chapter[:-3]]
+    cited = write_cited(
+        ROOT / "content" / "bible" / "summa",
+        [((chapter, titles[chapter]), *reference) for chapter, *reference in found],
+        vulgate=True,
+    )
+    print(f"summa: {cited} citations by {len({chapter for chapter, *_ in found})} articles, {len(problems)} not placed")
+    for problem, count in Counter(problems).most_common():
+        print(f"   {problem} ({count})")
+
+
+def collection(work: str) -> str:
+    """A collection as the reader is to see it named."""
+    pope = "João Paulo II" if "JO" in work.upper() else "Bento XVI"
+    kind = "homilias" if "Homilias" in work else "audiências" if "Audiências" in work else "discursos"
+    return f"{pope}, {kind}"
+
+
+def write_talks(cache: Path, everywhere: dict[str, str], slugs: dict[str, str]) -> None:
+    """content/bible/clerus/talks/: the popes' homilies, audiences and
+    addresses that quote each verse, as [collection, title, page, anchor]."""
+    found: list[tuple] = []
+    for work in sorted(everywhere):
+        if TALKS.fullmatch(work):
+            found.extend(
+                ((collection(work), title, page, anchor), *reference)
+                for title, page, anchor, *reference in talks(cache, work, everywhere[work], slugs)
+            )
+    cited = write_cited(OUT / "talks", found)
+    print(f"talks: {cited} citations by {len({place for place, *_ in found})} texts")
+
+
 def citations(page: str) -> list[dict]:
     """A citation page as its works, in the site's order: {group, work, places}.
 
@@ -428,13 +716,27 @@ def main() -> None:
     slugs = {reference.split(" ")[0]: slug for slug, reference, _cite in passages}
     # The Catechism's citations, by book and chapter, to lay on the passages.
     cited_by_catechism: dict[tuple[str, int], list[tuple[int, int | None, int | None]]] = {}
+    # The same citations turned around: what each paragraph cites, as [book,
+    # chapter, first verse, last verse] in the Douay's numbering.
+    cited_in_catechism: dict[str, list] = {}
     for paragraph, book, c, first, last in catechism(cache, slugs):
         cited_by_catechism.setdefault((book, c), []).append((paragraph, first, last))
+        for douay_chapter, start, end, _label in douay(book, c, first or 1, last or END):
+            run = [book, douay_chapter, start, end]
+            runs = cited_in_catechism.setdefault(str(paragraph), [])
+            if run not in runs:
+                runs.append(run)
+    (OUT.parent / "catechism.json").write_text(
+        json.dumps(dict(sorted(cited_in_catechism.items(), key=lambda kv: int(kv[0]))), separators=(",", ":")),
+        encoding="utf-8",
+    )
     # The documents Clerus has in Portuguese (it marks them " PT"), in the
     # order its citation pages first name them, each with a page to start from.
     seeds: dict[str, str] = {}
+    everywhere: dict[str, str] = {}  # a page of every work, to walk it from
     for _slug, _reference, cite in passages:
         for entry in citations(fetch(cache, cite)):
+            everywhere.setdefault(entry["work"], entry["places"][0][0])
             if entry["work"].endswith(" PT") and any(label.isdigit() for _f, _a, label in entry["places"]):
                 seeds.setdefault(entry["work"], entry["places"][0][0])
     cited_by_documents: dict[tuple[str, int], list[tuple]] = {}
@@ -497,6 +799,9 @@ def main() -> None:
                             **({"magisterium": documents} if documents else {}),
                         }
                     )
+
+    write_summa(cache, everywhere, slugs)
+    write_talks(cache, everywhere, slugs)
 
     (RESEARCH / "works.json").write_text(
         json.dumps(

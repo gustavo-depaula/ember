@@ -1,12 +1,12 @@
 import { useQuery } from '@tanstack/react-query'
-import { useMemo, useState } from 'react'
+import { type ReactNode, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { XStack, YStack } from 'tamagui'
 
 import { PrayerSpinner, Typography } from '@/components'
-import { ReadingParagraph } from '@/components/ReadingParagraph'
 import type { StyledSegment } from '@/lib/typography/justifyText'
+import { LongParagraph } from './LongParagraph'
 
 /** A numbered section of a document: `id` tells them apart, `n` is what is shown. */
 export type CitedSection = { id: string; n: string }
@@ -21,6 +21,7 @@ export function CitedSections({
   sections,
   load,
   language,
+  after,
 }: {
   /** The document's name, which also heads the text once a section is open. */
   work: string
@@ -28,6 +29,8 @@ export function CitedSections({
   load: (section: CitedSection) => Promise<string[]>
   /** The language the text comes in, when it is not the reader's. */
   language?: string
+  /** What follows a section's text once it is open (the Scripture it cites). */
+  after?: (section: CitedSection) => ReactNode
 }) {
   const { t } = useTranslation()
   const [open, setOpen] = useState<CitedSection>()
@@ -85,12 +88,9 @@ export function CitedSections({
             <Typography variant="annotation">{t('common.couldntLoad')}</Typography>
           ) : undefined}
           {sources?.map((source) => (
-            <ReadingParagraph
-              key={source[0].text.slice(0, 40)}
-              source={source}
-              language={language}
-            />
+            <LongParagraph key={source[0].text.slice(0, 40)} source={source} language={language} />
           ))}
+          {sources && after ? after(open) : undefined}
         </YStack>
       )}
     </YStack>

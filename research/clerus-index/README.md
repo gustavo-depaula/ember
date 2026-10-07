@@ -42,12 +42,16 @@ Only links are kept: no sentence of any cited work is in the dataset.
 In the app, on the verse's own page in the Bible reader:
 
 - **The Fathers preaching on the passage**, for the works the corpus holds in English: 733 passages link to a homily of Chrysostom (on Matthew, John, Acts and fourteen of Paul's letters) or of Augustine (the Tractates on John, the Expositions of the Psalms, the homilies on 1 John, On the Sermon on the Mount). Each opens in the book reader.
-- **The Catechism's paragraphs**: 4,130 citations on 1,126 passages. Not from Clerus's index (see below) but from the Catechism's own footnotes on Clerus's pages.
+- **The Catechism's paragraphs**: 4,493 citations, 4,810 once laid on the 1,271 passages that have one. From two editions reconciled (see below), not from Clerus's index. Under a paragraph, once open, the other verses it cites: the same index turned around (`content/bible/catechism.json`).
 - **Councils and popes**: 7,776 citations of 102 documents Clerus has in Portuguese (Vatican II, encyclicals and exhortations from Leo XIII to Francis), taken from the documents' own pages, not from the index. A section's text is read from Clerus when opened.
+- **The Summa Theologiae, by verse**: 7,514 citations by 1,925 articles, each opening in the corpus's Summa. From the Spanish Summa on Clerus, whose headings give the question and article.
+- **The popes, by verse**: 18,593 citations by 3,708 homilies, audiences and addresses of John Paul II and Benedict XVI in Portuguese, read from Clerus when opened.
+
+Beside these, and not from Clerus: **when a verse is read at Mass** (2,993 readings), from Ember's own lectionary. Clerus has a lectionary too, in French and by its own numbers; the missal in the corpus already knew.
 
 ## What was checked
 
-Samples drawn at random and checked by hand-reading (by Sonnet subagents, each item against the text itself):
+Samples drawn at random and checked by hand-reading (by Sonnet subagents, each item against the text itself), and one census:
 
 | Slice | Sample | Result |
 | --- | ---: | --- |
@@ -55,13 +59,19 @@ Samples drawn at random and checked by hand-reading (by Sonnet subagents, each i
 | Catechism, as Clerus indexes it | 40 | **19 right, 21 wrong.** Clerus prints a section's footnotes after the section's last paragraph and credits them all to it. The paragraph numbers are real; the attributions are not. |
 | Catechism, rebuilt from its footnotes | 40 | **40 right.** Each was checked against the paragraph's own footnote marks in the English Catechism, Psalms renumbered. It tests that a paragraph cites a verse inside the passage, not that the slice has every citation. |
 | Councils and popes, as Clerus indexes them | 30 | 25 right. One credited to the last section of Mediator Dei, which prints the whole encyclical's notes after it; four on a passage the section does not cite (three of them a passage that runs across two chapters, shown under the chapter the citation is not in). Both of Redemptor hominis's links named the page beside the one the section is on. Three of the 25 rest on a chapter cited whole ("cf. Mt 5-7"). |
+| Catechism, the whole of it, against the English edition | 4,148 | **A census, not a sample: 93.9% of ours found in the English, 88.3% of the English found in ours.** The sample of 40 above had missed this. Ours was wrong in four ways: a note credited to a neighbouring paragraph where the Portuguese text misnumbers a call or a section's notes begin on the page before (37); a commandment's own words credited to the paragraph before them (24); Clerus's linker reading one book for another, Jonas as John, 1 for 2 Corinthians (15); a verse's last digit dropped, 6,11 as 6,1 (8). And it lacked what Clerus never linked (about 160). |
+| The Summa, by article | 40 | 33 right, against the corpus's English text. Two are the linker's misreadings (Sir 41:15 as 1:15, Habacuc 2:4 as Hebrews 2:4). Five the English does not print: three are words St Thomas quotes that the Spanish editors gave a reference to and the English does not, one is a neighbouring verse, one has no trace. All twelve psalms in the sample carry the Vulgate's number, which is the Douay's: the Summa is not renumbered. |
+| The popes' homilies and addresses | 30 | 29 right, and every title a fair name for its text. The miss: a 1980 address cites a psalm by the Vulgate's number (136:5, "If I forget thee, Jerusalem"), which Clerus's linker took for the modern one, so it is filed a psalm early. Older texts' psalms may share this. |
 | Councils and popes, rebuilt from the documents | 30 | **30 right**, on a fresh sample: 21 cited in the section's own text, 9 in a note the section calls (one of them printed on the next page). |
 
 The Catechism slice was rebuilt: `catechism()` in the script reads the Catechism's pages, and takes each footnote back to the paragraph that calls it. Fourteen of fifteen corrections the first check named are in the rebuilt slice, and none of the wrong attributions it named.
 
 The councils' and popes' documents were rebuilt the same way: `document()` walks a document's pages from any one of them, takes each note back to the section that calls it, and takes a section's page from where it is. A chapter cited whole is left out, except a psalm. Of the first sample's five faults, the rebuilt slice drops the three that were wrong and keeps the two cross-chapter ones, which are right for the passage as Clerus divides it. Miranda prorsus (14 citations) is lost: its sections are headings, not numbers.
 
-**The fault runs through the index**, wherever a work's notes are gathered at the end of a group of sections, and its links can name the wrong page. Anything taken from `index.jsonl.gz` for a work with footnotes should be rebuilt from the work's own pages before it is shown.
+The census changed the Catechism slice a second time. What could be mended in the reading of Clerus was: calls are kept from page to page, what stands under a heading goes to the paragraph after, "Mt 5-7" is three chapters. What could not (the linker's misreadings, the references it never linked) needed a second witness, so `catechism()` now lays the Portuguese beside the English (`scripts/ccc_english.py`, from scborromeo.org): 3,970 citations are in both; 403 only in the English are kept when such a verse exists; 120 only in the Portuguese are kept, and 71 dropped where the English shows them to be one of Clerus's slips.
+
+**Two faults run through everything taken from Clerus.** Its index credits a note to the section it is printed after, and can name the wrong page; that is mended by reading the works themselves. And its linker misreads about one reference in twenty and misses about one in ten; that is not mended without a second witness, which only the Catechism has so far. The documents, the Summa and the popes' texts carry that error.
+
 ## What it is not
 
 - **By passage, not by verse.** A citation of John 1:14 is filed under John 1:1–18. The app says so in the heading.
@@ -76,7 +86,9 @@ In the order I would build, each step a thing a reader can use:
 
 1. **Catechism on the verse page.** Done, from the Catechism's own footnotes. The paragraph text is read from vatican.va in the reader's language, which makes it the first commentary a Portuguese reader has in Portuguese. The footnotes cite verses, so this could be shown by verse and not by passage.
 2. **"Read the homily."** Done for the twenty series the corpus holds. Still to do: the homilies Clerus lists that the corpus lacks in English (Chrysostom on Genesis, on the Psalms, on Galatians; Hilary on Matthew), and the passages a second homily also treats.
-3. **The Summa by article.** 7,000 citations into the Summa, which Ember has in full. Needs Clerus's article numbers decoded.
-4. **The magisterium in Portuguese.** Done for the documents Clerus marks as Portuguese, read from Clerus at runtime. Papal homilies, audiences and addresses (another 20,000 citations) are not in yet: their places are numbered by Clerus's own scheme.
-5. **The reverse index.** Reading the Catechism or a homily in Ember, show the Scripture it cites and open it in the reader. The same data turned around.
-6. **The lectionary.** Clerus links each passage to where the Missal reads it. With Ember's own calendar, a verse could say "read on the Second Sunday of Lent".
+3. **The Summa by article.** Done, by verse.
+4. **The magisterium in Portuguese.** Done for the documents, and for the homilies, audiences and addresses of John Paul II and Benedict XVI, by verse. Paul VI is in French on Clerus and is left out.
+5. **The reverse index.** Done for the Catechism: a paragraph shows the verses it cites. A homily or an article of the Summa could show its own the same way, from the indexes already built.
+6. **The lectionary.** Done, from Ember's missal and not from Clerus. A reading could open its Mass.
+7. **A second witness for the rest.** The Catechism's index is the only one checked whole. The documents are on vatican.va with their own notes; the corpus's English Summa prints its references. Laying each beside what Clerus links would mend the linker's one in twenty, as it did for the Catechism.
+8. **By verse throughout.** The Catechism and the documents are still shown by Clerus's passage, though both are now known by verse.

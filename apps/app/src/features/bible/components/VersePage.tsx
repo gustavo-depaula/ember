@@ -23,6 +23,7 @@ import {
 import { useBookName, useChapter, useChapterCommentary, useEntryVoices } from '../hooks'
 import { CitedSections } from './CitedSections'
 import { CommentaryVoices } from './CommentaryVoices'
+import { ParagraphScripture, VerseAtMass, VersePopes, VerseSumma } from './VerseReferences'
 
 /** One commentator on the verse, in full: each entry's words, read from where they are kept. */
 function SourceCommentary({
@@ -236,6 +237,7 @@ export function VersePage({
                       )
                     ).map((p) => p.text)
                   }
+                  after={({ n }) => <ParagraphScripture paragraph={Number(n)} />}
                 />
               </YStack>
             ) : undefined}
@@ -268,6 +270,10 @@ export function VersePage({
             ) : undefined}
           </YStack>
         ) : undefined}
+
+        <VerseSumma bookId={bookId} chapter={chapter} verse={verse} />
+        <VersePopes bookId={bookId} chapter={chapter} verse={verse} />
+        <VerseAtMass bookId={bookId} chapter={chapter} verse={verse} />
       </YStack>
     </ScreenLayout>
   )

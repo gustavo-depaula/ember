@@ -1,11 +1,9 @@
 import { useMemo } from 'react'
 import { useTheme, YStack } from 'tamagui'
-
-import { ReadingParagraph } from '@/components/ReadingParagraph'
 import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { StyledSegment } from '@/lib/typography/justifyText'
-
 import type { Voice } from '../commentary'
+import { LongParagraph } from './LongParagraph'
 
 const nameScale = 0.72
 
@@ -50,7 +48,7 @@ export function CommentaryVoices({
     <YStack gap="$sm">
       {paragraphs.map((source, i) => (
         // biome-ignore lint/suspicious/noArrayIndexKey: a fixed run of text, never reordered
-        <ReadingParagraph key={i} source={source} language={language} />
+        <LongParagraph key={i} source={source} language={language} />
       ))}
     </YStack>
   )

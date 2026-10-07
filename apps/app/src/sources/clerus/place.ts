@@ -62,42 +62,64 @@ export function parseClerusPlace(page: string, anchor: string): string[] {
     // The section's own number opens it; the reader has it in the label.
     .replace(/^\s*<b>\d+<\/b>\.?/, '')
     .replace(/<h\d>.*?<\/h\d>/gis, '<br><br>')
-  return block
-    .slice(0, notesStart(block))
+  return paragraphsOf(block)
+}
+
+/**
+ * A stretch of a page as paragraphs of plain text, without the footnotes
+ * printed after it or the numbers that call them.
+ */
+export function paragraphsOf(markup: string): string[] {
+  return markup
+    .slice(0, notesStart(markup))
     .split(/(?:<br\s*\/?>\s*){2,}/i)
-    .map((paragraph) =>
-      paragraph
-        .replace(/<br\s*\/?>/gi, ' ')
-        .replace(/<[^>]+>/g, '')
-        .replace(/&(\w+);/g, (whole, name: string) => entities[name] ?? whole)
-        .replace(/\u00ad/g, '')
-        // A footnote's call: a number in brackets, or a bare one after a word
-        // or a closing quotation mark, glued to a word ("Tarso46") or to the
-        // stop that ends a sentence, between a stop and the next sentence
-        // (". 116 Se"), or closing the paragraph.
-        .replace(/ ?[([]\d{1,3}[)\]]/g, '')
-        // After a word, only before a stop: "tem 12 apóstolos" is the text's own.
-        .replace(/(?<=[»”"]) \d{1,3}(?=[\s,.;:)])/g, '')
-        .replace(/(?<=\p{L}) \d{1,3}(?=[,.;:)])/gu, '')
-        .replace(/(?<=[»”"][.,;:]) ?\d{1,3}(?=\s|$)/g, '')
-        .replace(/(?<=\p{Ll}{3})\d{1,3}(?=[\s,.;:)]|$)/gu, '')
-        .replace(/(?<=[\p{L}»”"][.!?]) \d{1,3}(?= \p{Lu})/gu, '')
-        .replace(/(?<=[.!?»”"]) \d{1,3}$/, '')
-        .replace(/\s+/g, ' ')
-        .trim(),
-    )
+    .map((paragraph) => {
+      // A linked reference ("Ap 1,13") has numbers of its own, which are set
+      // aside (under marks no page uses) while the calls are taken out.
+      const links: string[] = []
+      const held = paragraph.replace(/<a href=[^>]*>([^<]*)<\/a>/gi, (_whole, text: string) => {
+        links.push(text)
+        return `⟦${links.length - 1}⟧`
+      })
+      return (
+        held
+          .replace(/<br\s*\/?>/gi, ' ')
+          .replace(/<[^>]+>/g, '')
+          .replace(/&(\w+);/g, (whole, name: string) => entities[name] ?? whole)
+          .replace(/\u00ad/g, '')
+          // A footnote's call: a number in brackets, or a bare one after a word
+          // or a closing quotation mark, glued to a word ("Tarso46") or to the
+          // stop that ends a sentence, between a stop and the next sentence
+          // (". 116 Se"), or closing the paragraph.
+          .replace(/ ?[([]\d{1,3}[)\]]/g, '')
+          // After a word, only before a stop: "tem 12 apóstolos" is the text's own.
+          .replace(/(?<=[»”"]) \d{1,3}(?=[\s,.;:)])/g, '')
+          .replace(/(?<=\p{L}) \d{1,3}(?=[,.;:)])/gu, '')
+          .replace(/(?<=[»”"][.,;:]) ?\d{1,3}(?=\s|$)/g, '')
+          .replace(/(?<=\p{Ll}{3})\d{1,3}(?=[\s,.;:)]|$)/gu, '')
+          .replace(/(?<=[\p{L}»”"][.!?]) \d{1,3}(?= \p{Lu})/gu, '')
+          .replace(/(?<=[.!?»”"]) \d{1,3}$/, '')
+          .replace(/⟦(\d+)⟧/g, (_whole, i: string) => links[Number(i)])
+          .replace(/\s+/g, ' ')
+          .trim()
+      )
+    })
     .filter(Boolean)
+}
+
+/** A page of the library, decoded. */
+export async function fetchClerusPage(file: string): Promise<string> {
+  const url = `${baseUrl}/${file}.htm`
+  const res = await fetch(url)
+  if (!res.ok) throw new Error(`Biblia Clerus: ${url} answered ${res.status}`)
+  return decodeWindows1252(new Uint8Array(await res.arrayBuffer()))
 }
 
 /** A numbered section of a document on Clerus, read from the site. */
 export async function fetchClerusPlace(file: string, anchor: string): Promise<string[]> {
-  const url = `${baseUrl}/${file}.htm`
-  const res = await fetch(url)
-  if (!res.ok) throw new Error(`Biblia Clerus: ${url} answered ${res.status}`)
-  const paragraphs = parseClerusPlace(
-    decodeWindows1252(new Uint8Array(await res.arrayBuffer())),
-    anchor,
-  )
-  if (paragraphs.length === 0) throw new Error(`Biblia Clerus: nothing at ${url}#${anchor}`)
+  const paragraphs = parseClerusPlace(await fetchClerusPage(file), anchor)
+  if (paragraphs.length === 0) {
+    throw new Error(`Biblia Clerus: nothing at ${baseUrl}/${file}.htm#${anchor}`)
+  }
   return paragraphs
 }
