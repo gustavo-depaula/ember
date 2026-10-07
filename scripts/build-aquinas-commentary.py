@@ -63,33 +63,16 @@ def marked_spans(text: str, drb: dict) -> dict[int, list[int]]:
     return spans
 
 
-def lemma(text: str) -> str:
-    """The words a lecture expounds: what stands before its first paragraph of
-    commentary, the first verse plain and the rest set as quotations."""
-    words = []
+def lemma(text: str) -> list[str]:
+    """The words a lecture expounds, a paragraph to a verse: what stands before
+    its first paragraph of commentary, the first verse plain and the rest set
+    as quotations."""
+    parts = []
     for n, block in enumerate(text.split("\n\n")[1:]):
         if n > 0 and not block.lstrip().startswith(">"):
             break
-        words.append(block.strip().lstrip(">").strip().strip("*"))
-    return " ".join(words)
-
-
-def run_from(words: str, chapter: dict[str, str], start: int) -> int | None:
-    """Where a lecture that begins at `start` ends: the run of verses whose
-    wording covers the words expounded and adds least of its own. The
-    commentary's English is a modern version, not the Douay, so the match is
-    loose; a poor one places nothing."""
-    last = max(int(v) for v in chapter)
-    want = len(catena.words(words))
-    best, end, text = 0.0, None, ""
-    for verse in range(start, min(last, start + 30) + 1):
-        text += " " + chapter.get(str(verse), "")
-        have = len(catena.words(text))
-        # Covered both ways: the lecture's words found in the run, the run's in the lecture's.
-        score = catena.overlap(words, text) * min(1.0, want / have) if have else 0.0
-        if score > best:
-            best, end = score, verse
-    return end if best >= 0.45 else None
+        parts.append(block.strip().lstrip(">").strip().strip("*"))
+    return [part for part in parts if part]
 
 
 def build(directory: str, slug: str) -> tuple[dict | None, str]:
@@ -109,7 +92,7 @@ def build(directory: str, slug: str) -> tuple[dict | None, str]:
         if not opening:
             continue
         group = int(opening.group(1))
-        words = lemma(path.read_text(encoding="utf-8"))
+        words = " ".join(lemma(path.read_text(encoding="utf-8")))
 
         def fit(chapter: int) -> float:
             verses = drb.get(str(chapter), {})
@@ -136,9 +119,9 @@ def build(directory: str, slug: str) -> tuple[dict | None, str]:
             last = max(int(v) for v in drb[str(chapter)])
             start = ends.get(chapter, 0) + 1
             # A lecture takes up where the one before left off.
-            end = run_from(lemma(text), drb[str(chapter)], start) if start <= last else None
-            if end:
-                spans = {chapter: (start, end)}
+            span = catena.place_run(lemma(text), drb[str(chapter)], start - 1, last) if start <= last else None
+            if span:
+                spans = {chapter: span}
                 by_words += 1
             else:
                 unplaced += 1

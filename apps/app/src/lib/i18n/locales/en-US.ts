@@ -670,7 +670,18 @@ export default {
     church: {
       title: 'The Church on {{passage}}',
       catechism: 'The Catechism cites this passage at:',
-      paragraph: 'Catechism of the Catholic Church, {{n}}',
+      homilies: 'The Fathers preaching on it:',
+      'john-chrysostom': {
+        homily: 'St John Chrysostom, Homily {{n}}',
+      },
+      augustine: {
+        homily: 'St Augustine, Homily {{n}}',
+        tractate: 'St Augustine, Tractate {{n}}',
+        exposition: 'St Augustine, on this psalm',
+        book: 'St Augustine, On the Sermon on the Mount, Book {{n}}',
+      },
+      catechismName: 'Catechism of the Catholic Church',
+      magisterium: 'Councils and popes citing it (in Portuguese):',
     },
     editionLanguages: {
       EN: 'English',
@@ -1508,7 +1519,7 @@ export default {
     backToBooks: 'Back to the books',
     verseCommentary: 'Verse {{n}}: open the commentary',
     closeCommentary: 'Close the commentary',
-    catechismParagraph: 'Catechism, paragraph {{n}}',
+    citedSection: '{{work}}, {{n}}',
     chooseCommentator: '{{name}}: choose the commentator',
     selectTranslation: 'Select Bible translation',
     prevChapter: 'Previous chapter',

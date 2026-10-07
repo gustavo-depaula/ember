@@ -16,7 +16,7 @@ The texts are a mixed lot and mostly not ours to take: translations in copyright
 | --- | --- |
 | `index.jsonl.gz` | One passage a line: `{book, from: [chapter, verse], to: [chapter, verse], page, cited: [{group, work, places}]}`. A place is `[file, anchor, label]`: the page and anchor on Clerus, and the number or title Clerus shows for it. |
 | `works.json` | The 707 works with how many places each has, most cited first. |
-| `content/bible/clerus/<book>.json` | What the app reads today: per chapter, each passage with the Catechism paragraphs that cite it. |
+| `content/bible/clerus/<book>.json` | What the app reads today: per chapter, each passage with the Catechism paragraphs that cite it, the homilies on it that the corpus holds, and the councils' and popes' documents that cite it. |
 
 Only links are kept: no sentence of any cited work is in the dataset.
 
@@ -39,12 +39,30 @@ Only links are kept: no sentence of any cited work is in the dataset.
 | *(treats the passage itself)* | 9,006 | The Catena (857 passages), Chrysostom on Matthew, John, Acts, Romans, Genesis; Augustine on John and the Psalms; Hilary on Matthew; St Thomas on John and Paul; Denzinger; the lectionary |
 | Direito, celebração, literatura, other | 13,672 | Canon law, the Missal and lectionary, a few literary authors |
 
-In the app: the Catechism's paragraphs, on the verse's own page in the Bible reader. 1,183 of the 3,154 passages (as the app divides them by chapter) have at least one.
+In the app, on the verse's own page in the Bible reader:
 
+- **The Fathers preaching on the passage**, for the works the corpus holds in English: 733 passages link to a homily of Chrysostom (on Matthew, John, Acts and fourteen of Paul's letters) or of Augustine (the Tractates on John, the Expositions of the Psalms, the homilies on 1 John, On the Sermon on the Mount). Each opens in the book reader.
+- **The Catechism's paragraphs**: 4,130 citations on 1,126 passages. Not from Clerus's index (see below) but from the Catechism's own footnotes on Clerus's pages.
+- **Councils and popes**: 8,226 citations of 112 documents Clerus has in Portuguese (Vatican II, encyclicals and exhortations from Leo XIII to Francis). A section's text is read from Clerus when opened.
+
+## What was checked
+
+Samples drawn at random and checked by hand-reading (by Sonnet subagents, each item against the text itself):
+
+| Slice | Sample | Result |
+| --- | ---: | --- |
+| Homilies → the corpus's books | 48 | 44 right. Clerus's homily numbers are the corpus's for every series checked. The misses: one off by one in Acts (Clerus's own); two in On the Sermon on the Mount, since fixed by taking the book from the chapter; one where the corpus's text of Augustine's tenth homily on 1 John is cut short. |
+| Catechism, as Clerus indexes it | 40 | **19 right, 21 wrong.** Clerus prints a section's footnotes after the section's last paragraph and credits them all to it. The paragraph numbers are real; the attributions are not. |
+| Catechism, rebuilt from its footnotes | 40 | See the note below the table. |
+| Councils and popes | 30 | See the note below the table. |
+
+The Catechism slice was rebuilt: `catechism()` in the script reads the Catechism's pages, and takes each footnote back to the paragraph that calls it. Fourteen of fifteen corrections the first check named are in the rebuilt slice, and none of the wrong attributions it named.
+
+**The fault very likely runs through the rest of the index**, wherever a work's notes are gathered at the end of a group of sections. Anything taken from `index.jsonl.gz` for a work with footnotes should be checked the same way before it is shown.
 ## What it is not
 
 - **By passage, not by verse.** A citation of John 1:14 is filed under John 1:1–18. The app says so in the heading.
-- **Not checked.** No citation has been verified against the work it points to. The Catechism prints its own index of Scripture citations, which is the obvious thing to measure the Catechism slice against.
+- **Wrong in a patterned way for works with endnotes**, as above. The index is a lead to follow, not an authority.
 - **Clerus's place numbers are its own.** `Chrysostome sur Jean: 6801` is homily 68, section 1, in Clerus's scheme; `Suma Teológica III: 1461` is not an article number anyone else uses. Each work needs its numbering decoded before a place can be opened anywhere but on Clerus.
 - **Duplicated by language.** The same work often appears two or three times (`Dei Verbum PT`, `Dei verbum LA`).
 - **A compilation someone made.** The links are facts, and the Catechism's own Scripture index is public; but the selection across 707 works is Clerus's labour. If Ember ever publishes the whole of it as a feature, credit it.
@@ -53,9 +71,9 @@ In the app: the Catechism's paragraphs, on the verse's own page in the Bible rea
 
 In the order I would build, each step a thing a reader can use:
 
-1. **Catechism on the verse page.** Done. The paragraph text is read from vatican.va in the reader's language, which makes it the first commentary a Portuguese reader has in Portuguese.
-2. **"Read the homily."** For the works that treat a passage, Ember holds English texts of several: Augustine's Tractates on John, Chrysostom's Homilies on Matthew and on John, the Enarrations on the Psalms, the whole Catena, St Thomas on John and Paul. The work is one table per book: Clerus's homily number → Ember's chapter id. Start with the two on John, where the numbers are plain homily numbers.
+1. **Catechism on the verse page.** Done, from the Catechism's own footnotes. The paragraph text is read from vatican.va in the reader's language, which makes it the first commentary a Portuguese reader has in Portuguese. The footnotes cite verses, so this could be shown by verse and not by passage.
+2. **"Read the homily."** Done for the twenty series the corpus holds. Still to do: the homilies Clerus lists that the corpus lacks in English (Chrysostom on Genesis, on the Psalms, on Galatians; Hilary on Matthew), and the passages a second homily also treats.
 3. **The Summa by article.** 7,000 citations into the Summa, which Ember has in full. Needs Clerus's article numbers decoded.
-4. **The magisterium in Portuguese.** Councils, encyclicals and papal homilies, section by section, read from the publisher at runtime as the CNBB Bible is. This is where a Portuguese reader gets real depth.
+4. **The magisterium in Portuguese.** Done for the documents Clerus marks as Portuguese, read from Clerus at runtime. Papal homilies, audiences and addresses (another 20,000 citations) are not in yet: their places are numbered by Clerus's own scheme.
 5. **The reverse index.** Reading the Catechism or a homily in Ember, show the Scripture it cites and open it in the reader. The same data turned around.
 6. **The lectionary.** Clerus links each passage to where the Missal reads it. With Ember's own calendar, a verse could say "read on the Second Sunday of Lent".

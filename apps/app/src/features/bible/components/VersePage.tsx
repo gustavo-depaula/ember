@@ -7,6 +7,8 @@ import { useTheme, XStack, YStack } from 'tamagui'
 
 import { PrayerSpinner, ScreenLayout, Typography } from '@/components'
 import { findTranslation } from '@/lib/bibleTranslations'
+import { fetchParagraphs } from '@/sources/ccc/extract'
+import { fetchClerusPlace } from '@/sources/clerus/place'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { citationsForVerse, getChapterCitations, passageLabel } from '../citations'
@@ -19,7 +21,7 @@ import {
   spanLabel,
 } from '../commentary'
 import { useBookName, useChapter, useChapterCommentary, useEntryVoices } from '../hooks'
-import { CatechismCitations } from './CatechismCitations'
+import { CitedSections } from './CitedSections'
 import { CommentaryVoices } from './CommentaryVoices'
 
 /** One commentator on the verse, in full: each entry's words, read from where they are kept. */
@@ -76,7 +78,7 @@ export function VersePage({
   chapter: number
   verse: number
 }) {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const translation = usePreferencesStore((s) => s.translation)
@@ -98,6 +100,13 @@ export function VersePage({
     staleTime: Number.POSITIVE_INFINITY,
   })
   const onVerse = entriesForVerse(lectures ?? [], verse)
+
+  function openInBook(book: string, chapterId: string) {
+    router.push({
+      pathname: '/browse/book/[bookId]/read',
+      params: { bookId: book, chapter: chapterId },
+    })
+  }
 
   const text = chapterData?.verses.find((v) => v.verse === verse)?.text
   // A stand-in chapter is the Douay-Rheims, whatever the edition chosen.
@@ -140,7 +149,9 @@ export function VersePage({
         !error &&
         spoken.length === 0 &&
         onVerse.length === 0 &&
-        !cited?.ccc.length ? (
+        !cited?.ccc.length &&
+        !cited?.homilies?.length &&
+        !cited?.magisterium?.length ? (
           <Typography variant="caption" fontSize="$3">
             {t('bible.commentary.none', { verse })}
           </Typography>
@@ -162,12 +173,7 @@ export function VersePage({
               return (
                 <Pressable
                   key={lecture.chapterId}
-                  onPress={() =>
-                    router.push({
-                      pathname: '/browse/book/[bookId]/read',
-                      params: { bookId: lecture.bookId, chapter: lecture.chapterId },
-                    })
-                  }
+                  onPress={() => openInBook(lecture.bookId, lecture.chapterId)}
                   accessibilityRole="link"
                   accessibilityLabel={label}
                 >
@@ -181,17 +187,82 @@ export function VersePage({
           </YStack>
         ) : undefined}
 
-        {cited && cited.ccc.length > 0 ? (
+        {cited && (cited.ccc.length > 0 || cited.homilies?.length || cited.magisterium?.length) ? (
           <YStack gap="$md">
             <Typography variant="label" color="$colorBurgundy" letterSpacing={1.5}>
               {t('bible.church.title', {
                 passage: `${bookName} ${passageLabel(cited.passage)}`,
               }).toUpperCase()}
             </Typography>
-            <Typography variant="annotation" fontSize="$2">
-              {t('bible.church.catechism')}
-            </Typography>
-            <CatechismCitations paragraphs={cited.ccc} />
+            {cited.homilies?.length ? (
+              <YStack>
+                <Typography variant="annotation" fontSize="$2">
+                  {t('bible.church.homilies')}
+                </Typography>
+                {cited.homilies.map((homily) => {
+                  const label = t(`bible.church.${homily.author}.${homily.kind}`, { n: homily.n })
+                  return (
+                    <Pressable
+                      key={`${homily.book}-${homily.chapter}`}
+                      onPress={() => openInBook(homily.book, homily.chapter)}
+                      accessibilityRole="link"
+                      accessibilityLabel={label}
+                    >
+                      <XStack alignItems="center" gap="$xs" minHeight={44}>
+                        <Typography fontSize="$3">{label}</Typography>
+                        <ChevronRight size={16} color={theme.colorSecondary.val} />
+                      </XStack>
+                    </Pressable>
+                  )
+                })}
+              </YStack>
+            ) : undefined}
+            {cited.ccc.length > 0 ? (
+              <YStack gap="$sm">
+                <Typography variant="annotation" fontSize="$2">
+                  {t('bible.church.catechism')}
+                </Typography>
+                <CitedSections
+                  work={t('bible.church.catechismName')}
+                  sections={cited.ccc.map((n) => ({ id: String(n), n: String(n) }))}
+                  // vatican.va has the Catechism in both of the app's languages.
+                  load={async ({ n }) =>
+                    (
+                      await fetchParagraphs(
+                        Number(n),
+                        1,
+                        i18n.language === 'pt-BR' ? 'pt-BR' : 'en-US',
+                      )
+                    ).map((p) => p.text)
+                  }
+                />
+              </YStack>
+            ) : undefined}
+            {cited.magisterium?.length ? (
+              <YStack gap="$sm">
+                <Typography variant="annotation" fontSize="$2">
+                  {t('bible.church.magisterium')}
+                </Typography>
+                {cited.magisterium.map((document) => (
+                  <YStack key={document.work} gap="$xs">
+                    <Typography variant="section-title" fontSize="$3">
+                      {document.work}
+                    </Typography>
+                    <CitedSections
+                      work={document.work}
+                      sections={document.places.map(([n, file, anchor]) => ({
+                        id: `${file}#${anchor}`,
+                        n,
+                      }))}
+                      load={({ id }) => {
+                        const [file, anchor] = id.split('#')
+                        return fetchClerusPlace(file, anchor)
+                      }}
+                    />
+                  </YStack>
+                ))}
+              </YStack>
+            ) : undefined}
           </YStack>
         ) : undefined}
       </YStack>

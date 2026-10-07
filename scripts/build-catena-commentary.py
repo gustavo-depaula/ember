@@ -13,9 +13,11 @@ the app reads it; `fathers.json` beside these (kept by hand) names the Fathers
 as each transcription abbreviates them.
 
 A lecture states its verses in one of three ways, by gospel and by transcriber:
-"8. The neighbours…" lines, "^1:6^" marks, or only the words commented (a
-lemma), sometimes not even that. The last two are placed by matching the words
-against the Douay-Rheims, between the lectures on either side.
+"8. The neighbours…" lines, "^1:6^" marks, or only the words commented,
+sometimes not even that. Those with only words are placed by their likeness to
+the Douay-Rheims, in order, each from where the one before it ended; those with
+nothing, in the verses left between their neighbours. The numbers are the King
+James's and are moved a verse where the Douay counts differently.
 
 Usage:
     python3 scripts/build-catena-commentary.py
@@ -86,8 +88,9 @@ def voice_of(paragraph: str) -> tuple[str | None, str]:
     return FATHERS[key], paragraph[match.end():].strip()
 
 
-def parse_lecture(text: str) -> tuple[list[tuple[int | None, int]], str, list[dict]]:
-    """The verses a lecture names, the words it comments, and its voices."""
+def parse_lecture(text: str) -> tuple[list[tuple[int | None, int]], list[str], list[dict]]:
+    """The verses a lecture names, the words it comments (a paragraph to a
+    verse, as a rule), and its voices."""
     refs: list[tuple[int | None, int]] = []
     lemma: list[str] = []
     voices: list[dict] = []
@@ -98,32 +101,68 @@ def parse_lecture(text: str) -> tuple[list[tuple[int | None, int]], str, list[di
         who, body = voice_of(p)
         if not voices and who is None:
             # Still the passage itself.
+            # "^6:2^ …", "6:2. …" and "8. …": chapter and verse, or the verse alone.
+            numbered = re.match(r"\**(?:\^(\d+):(\d+)\^|(\d+):(\d+)\.|(\d+)\.) ", p)
             for c, v in re.findall(r"\^(\d+):(\d+)\^", p):
                 refs.append((int(c), int(v)))
+            if numbered and numbered.group(3):
+                refs.append((int(numbered.group(3)), int(numbered.group(4))))
             for v in re.findall(r"(?:^|\s)\**(\d+)\. ", p):
                 refs.append((None, int(v)))
-            lemma.append(re.sub(r"\^[^^]*\^|[*_]|(?:^|\s)\d+\. ", " ", p))
+            lemma.append(re.sub(r"\^[^^]*\^|[*_]|(?:^|\s)\d+(?::\d+)?\. ", " ", p))
             continue
         body = re.sub(r"\^[^^]*\^", "", body).strip()
         if who is None or (voices and voices[-1]["who"] == who and not NAME.match(p)):
             voices[-1]["text"] += "\n\n" + body
         else:
             voices.append({"who": who, "text": body})
-    return refs, " ".join(lemma), voices
+    return refs, [part for part in lemma if part.strip()], voices
 
 
-def place(lemma: str, chapter: dict[str, str], lo: int, hi: int) -> tuple[int, int] | None:
-    """The run of verses in lo..hi whose words the lemma follows best."""
+def likeness(a: str, b: str) -> float:
+    """How far two wordings are the same words (0–1), each way: neither may
+    carry much the other lacks."""
+    x, y = words(a), words(b)
+    if not x or not y:
+        return 0.0
+    left = Counter(y)
+    hits = 0
+    for w in x:
+        if left[w] > 0:
+            left[w] -= 1
+            hits += 1
+    return 2 * hits / (len(x) + len(y))
+
+
+def place_run(parts: list[str], chapter: dict[str, str], after: int, limit: int) -> tuple[int, int] | None:
+    """The verses a lecture comments, given only their words and where the
+    lecture before it ended. It takes up at the next verse or shares the last
+    one, and runs about a verse to a paragraph; among such runs, the one whose
+    wording is most like the lecture's. The commentaries' English is never the
+    Douay's, so a poor likeness places nothing."""
+    text = " ".join(parts)
     best, span = 0.0, None
-    for start in range(lo, hi + 1):
-        text = ""
-        for end in range(start, min(hi, start + 11) + 1):
-            text += " " + chapter.get(str(end), "")
-            # The lemma's words found in the run, less the run's words left over.
-            score = overlap(lemma, text) - 0.15 * max(0, len(words(text)) - len(words(lemma))) / max(1, len(words(lemma)))
+    for start in (after + 1, after, after + 2):
+        if start < 1 or start > limit:
+            continue
+        run = ""
+        for end in range(start, min(limit, start + max(12, len(parts) + 3)) + 1):
+            run += " " + chapter.get(str(end), "")
+            score = likeness(text, run) + 0.04 * (start == after + 1) + 0.08 * (end - start + 1 == len(parts))
             if score > best:
                 best, span = score, (start, end)
-    return span if best >= 0.5 else None
+    return span if best >= 0.45 else None
+
+
+def shift(lecture_words: str, chapter: dict[str, str], first: int, last: int) -> int:
+    """The Catena numbers verses as the King James does, which runs a verse
+    behind or ahead of the Douay in places (John 6 from verse 52). Where the
+    lecture's words sit plainly better a verse along, that is where it is."""
+    def at(d: int) -> float:
+        return likeness(lecture_words, " ".join(chapter.get(str(v), "") for v in range(first + d, last + d + 1)))
+
+    best = max((0, 1, -1), key=at)
+    return best if at(best) > at(0) + 0.08 else 0
 
 
 def build(gospel: str) -> tuple[dict, list[str]]:
@@ -135,36 +174,43 @@ def build(gospel: str) -> tuple[dict, list[str]]:
         if not match:
             continue
         group, n = int(match.group(1)), int(match.group(2))
-        chapter = chapter_of(group)
-        if str(chapter) not in drb:
-            continue
-        refs, lemma, voices = parse_lecture(path.read_text(encoding="utf-8"))
-        if voices:
-            lectures.append({"key": (chapter, n), "id": path.stem, "refs": refs, "lemma": lemma, "voices": voices})
-    lectures.sort(key=lambda l: l["key"])
+        refs, parts, voices = parse_lecture(path.read_text(encoding="utf-8"))
+        # A lecture that marks its verses "^6:2^" says its chapter itself; a
+        # group can run past the end of its chapter (Matthew's fifth, into 6).
+        named = Counter(c for c, _ in refs if c is not None and str(c) in drb)
+        chapter = named.most_common(1)[0][0] if named else chapter_of(group)
+        if str(chapter) in drb and voices:
+            lectures.append(
+                {"order": (group, n), "chapter": chapter, "id": path.stem, "refs": refs, "parts": parts}
+            )
+    lectures.sort(key=lambda l: l["order"])
 
     problems: list[str] = []
     # First the lectures that say their verses.
     for lecture in lectures:
-        chapter = lecture["key"][0]
+        chapter = lecture["chapter"]
         verses = [v for c, v in lecture["refs"] if (c is None or c == chapter) and str(v) in drb[str(chapter)]]
         lecture["span"] = (min(verses), max(verses)) if verses else None
-    # Then those with words to match, each between the placed lectures around
-    # it; last those with nothing to go by, in the verses left between.
+        if verses:
+            d = shift(" ".join(lecture["parts"]), drb[str(chapter)], min(verses), max(verses))
+            if d and str(max(verses) + d) in drb[str(chapter)] and min(verses) + d >= 1:
+                lecture["span"] = (min(verses) + d, max(verses) + d)
+    # Then those with words to match, in order, each from where the one before
+    # ended; last those with nothing to go by, in the verses left between.
     for by_words in (True, False):
         for i, lecture in enumerate(lectures):
-            if lecture["span"] or (by_words and not lecture["lemma"].strip()):
+            if lecture["span"] or (by_words and not lecture["parts"]):
                 continue
-            chapter = lecture["key"][0]
+            chapter = lecture["chapter"]
             last = max(int(v) for v in drb[str(chapter)])
-            before = [l["span"][1] for l in lectures[:i] if l["key"][0] == chapter and l["span"]]
-            after = [l["span"][0] for l in lectures[i + 1:] if l["key"][0] == chapter and l["span"]]
-            lo = before[-1] if before else 1
+            before = [l["span"][1] for l in lectures[:i] if l["chapter"] == chapter and l["span"]]
+            after = [l["span"][0] for l in lectures[i + 1:] if l["chapter"] == chapter and l["span"]]
+            lo = before[-1] if before else 0
             hi = after[0] if after else last
             if by_words:
-                lecture["span"] = place(lecture["lemma"], drb[str(chapter)], lo, hi)
+                lecture["span"] = place_run(lecture["parts"], drb[str(chapter)], lo, hi)
                 continue
-            free_lo = lo + 1 if before else 1
+            free_lo = lo + 1
             free_hi = hi - 1 if after else last
             span = (free_lo, free_hi) if free_lo <= free_hi else (lo, lo) if before else (hi, hi)
             problems.append(f"{gospel} {chapter} {lecture['id']}: placed by position at {span[0]}-{span[1]}")
@@ -172,7 +218,7 @@ def build(gospel: str) -> tuple[dict, list[str]]:
 
     out: dict[str, list] = {}
     for lecture in lectures:
-        chapter = lecture["key"][0]
+        chapter = lecture["chapter"]
         out.setdefault(str(chapter), []).append(
             {"from": lecture["span"][0], "to": lecture["span"][1], "lecture": lecture["id"]}
         )

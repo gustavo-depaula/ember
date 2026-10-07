@@ -676,7 +676,18 @@ export default {
     church: {
       title: 'A Igreja sobre {{passage}}',
       catechism: 'O Catecismo cita esta passagem em:',
-      paragraph: 'Catecismo da Igreja Católica, {{n}}',
+      homilies: 'Os Padres pregando sobre ela (em inglês):',
+      'john-chrysostom': {
+        homily: 'São João Crisóstomo, Homilia {{n}}',
+      },
+      augustine: {
+        homily: 'Santo Agostinho, Homilia {{n}}',
+        tractate: 'Santo Agostinho, Tratado {{n}}',
+        exposition: 'Santo Agostinho, sobre este salmo',
+        book: 'Santo Agostinho, O Sermão da Montanha, Livro {{n}}',
+      },
+      catechismName: 'Catecismo da Igreja Católica',
+      magisterium: 'Concílios e papas que a citam:',
     },
     editionLanguages: {
       EN: 'Ingl\u00eas',
@@ -1516,7 +1527,7 @@ export default {
     backToBooks: 'Voltar aos livros',
     verseCommentary: 'Versículo {{n}}: abrir o comentário',
     closeCommentary: 'Fechar o comentário',
-    catechismParagraph: 'Catecismo, parágrafo {{n}}',
+    citedSection: '{{work}}, {{n}}',
     chooseCommentator: '{{name}}: escolher o comentador',
     selectTranslation: 'Selecionar tradução da Bíblia',
     prevChapter: 'Capítulo anterior',

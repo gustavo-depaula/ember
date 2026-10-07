@@ -11,6 +11,29 @@ export type PassageCitations = {
   passage: string
   /** Paragraphs of the Catechism of the Catholic Church that cite it. */
   ccc: number[]
+  /** The homilies on it that the corpus holds, each a chapter of a book. */
+  homilies?: Homily[]
+  /** The councils' and popes' documents that cite it, in Portuguese on Clerus. */
+  magisterium?: CitingDocument[]
+}
+
+/**
+ * A document and the numbered sections of it that cite a passage. A place is
+ * [number, page, anchor]: the section's number, and where Clerus has its text.
+ */
+export type CitingDocument = { work: string; places: [string, string, string][] }
+
+/**
+ * A Father's treatment of a passage: `kind` is what the work calls its parts
+ * and `n` which one, as its own edition numbers them (an exposition of a psalm
+ * goes by the Hebrew number, one past the Douay's for most).
+ */
+export type Homily = {
+  author: 'john-chrysostom' | 'augustine'
+  kind: 'homily' | 'tractate' | 'exposition' | 'book'
+  n: number
+  book: string
+  chapter: string
 }
 
 export async function getChapterCitations(
