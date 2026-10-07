@@ -1,1 +1,1345 @@
-{"id":"tempore.lent.after-ash-wednesday.thursday","source":"tiempos/tiempos_cuaresma#Q004","kind":"tempore","items":[{"slot":"25","text":{"la":[{"k":"h2","lines":[["Tempus Quadragesimæ"],["Feria quinta post Cineres"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo da Quaresma"],["Quinta-feira depois das Cinzas"]]}],"en-US":[{"k":"h2","lines":[["Season of Lent"],["Thursday after Ash Wednesday"]]}],"es":[{"k":"h2","lines":[["Tiempo de Cuaresma"],["Jueves después de Ceniza"]]}],"it":[{"k":"h2","lines":[["Tempo di Quaresima"],["Giovedì dopo le Ceneri"]]}],"fr":[{"k":"h2","lines":[["Temps de Carême"],["Jeudi après les Cendres"]]}],"de":[{"k":"h2","lines":[["Fastenzeit"],["Donnerstag nach Aschermittwoch"]]}]},"part":"title"},{"slot":"26","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 54, 17-20. 23"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 54, 17-20. 23"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 55 (54): 17-20, 23"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 54, 17-20. 23"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Sal 54, 17-19.23"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 54, 17-20. 23"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Ps 55 (54), 17-20. 23"}]},"part":"entranceAntiphon"},{"slot":"27","text":{"la":[{"k":"p","lines":[["Dum clamárem ad Dóminum, exaudívit vocem meam ab his, qui appropínquant mihi. Iacta cogitátum tuum in Dómino, et ipse te enútriet."]]}],"pt-BR":[{"k":"p","lines":[["Quando clamei pelo Senhor, ele escutou minha voz"],["diante daqueles que me atacam."],["Confia ao Senhor os teus cuidados"],["e ele mesmo te sustentará."]]}],"en-US":[{"k":"p","lines":[["When I cried to the Lord, he heard my voice;"],["he rescued me from those who attack me."],["Entrust your cares to the Lord, and he will support you."]]}],"es":[{"k":"p","lines":[["Cuando invoqué al Señor, él escuchó mi voz y me salvó de los enemigos. Encomienda al Señor tus afanes, que él te sustentará."]]}],"it":[{"k":"p","lines":[["Ho invocato il Signore ed egli ha ascoltato la mia voce: da coloro che mi opprimono mi libera. Affida al Signore la tua sorte ed egli sarà il tuo sostegno."]]}],"fr":[{"k":"p","lines":[["Quand je crie vers Dieu, il entend ma voix,"],["il me met à l'abri de ceux qui me poursuivent."],["Décharge-toi de tes inquiétudes sur le Seigneur :"],["et lui-même te nourrira."]]}],"de":[{"k":"p","lines":[["Ich rufe zum Herrn, er hört mein Klagen."],["Er befreit mich von denen, die gegen mich kämpfen."],["Wirf deine Sorge auf den Herrn, er hält dich aufrecht."]]}]},"part":"entranceAntiphon"},{"slot":"28","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"29","text":{"la":[{"k":"p","lines":[["Actiónes nostras, quǽsumus, Dómine,"],["aspirándo prǽveni et adiuvándo proséquere,"],["ut cuncta nostra operátio a te semper incípiat,"],["et per te coepta finiátur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Nós vos pedimos, Senhor,"],["inspirai as nossas ações e ajudai-nos a realizá-las,"],["para que em vós comece e termine"],["tudo aquilo que fizermos."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Prompt our actions with your inspiration, we pray, O Lord,"],["and further them with your constant help,"],["that all we do may always begin from you"],["and by you be brought to completion."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Te pedimos, Señor, que inspires, sostengas y acompañes nuestras obras, para que nuestro trabajo comience en ti, como en su fuente, y tienda siempre a ti, como a su fin."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Ispira le nostre azioni, o Signore, e accompagnale con il tuo aiuto, perché ogni nostra attività abbia sempre da te il suo inizio e in te il suo compimento. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Que ta grâce inspire et précède notre action,"],["nous t'en prions, Seigneur,"],["qu'elle la soutienne et l'accompagne,"],["pour que toutes nos activités"],["prennent leur source en toi"],["et reçoivent de toi leur achèvement."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, komm unserem Beten und Arbeiten"],["mit deiner Gnade zuvor und begleite es,"],["damit alles, was wir beginnen, bei dir seinen Anfang nehme"],["und durch dich vollendet werde."],["Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"30","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"31","text":{"la":[{"k":"p","lines":[["Hóstias, quǽsumus, Dómine,"],["propítius inténde,"],["quas sacris altáribus exhibémus,"],["ut, nobis indulgéntiam largiéndo,"],["tuo nómini dent honórem."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, olhai com bondade"],["as oferendas que colocamos neste altar,"],["para que, alcançando-nos vossa misericórdia,"],["glorifiquem o vosso nome."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Regard with favor, O Lord, we pray,"],["the offerings we set upon this sacred altar, that, bestowing on us your pardon,"],["our oblations may give honor to your name."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Mira, Señor, propicio las ofrendas que presentamos en tu altar, para que nos obtengan el perdón y proclamen la gloria de tu nombre."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli con bontà, o Signore, l'offerta che presentiamo sul tuo santo altare, perché ottenga a noi il perdono e renda onore al tuo nome. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Regarde avec bonté,"],["Seigneur, nous t'en prions,"],["les offrandes que nous déposons sur l'autel qui t'est consacré ;"],["en nous procurant ton pardon,"],["qu'elles servent à la gloire de ton nom."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, schau gnädig auf die Gaben, die wir auf den Altar legen."],["Das heilige Opfer bringe deinem Namen Ehre und tilge unsere Sünden."],["Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"33","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Ps 50, 12"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Sl 50, 12"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Ps 51 (50): 12"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Sal 50, 12"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Sal 50, 12"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Ps 50, 12"}],"de":[{"k":"h4","lines":[["KommunionversPs 51 (50), 12"]]}]},"part":"communionAntiphon"},{"slot":"34","text":{"la":[{"k":"p","lines":[["Cor mundum crea in me, Deus, et spíritum rectum ínnova in viscéribus meis."]]}],"pt-BR":[{"k":"p","lines":[["Criai em mim um coração que seja puro,"],["dai-me de novo um espírito decidido."]]}],"en-US":[{"k":"p","lines":[["Create a pure heart for me, O God; renew a steadfast spirit within me."]]}],"es":[{"k":"p","lines":[["Oh, Dios, crea en mí un corazón puro, renuévame por dentro con espíritu firme."]]}],"it":[{"k":"p","lines":[["Crea in me, o Dio, un cuore puro, rinnova in me uno spirito saldo. ",{"m":"rubric","t":"Oppure: "}],["Se qualcuno vuol venire dietro a me rinneghi se stesso, prenda la sua croce ogni giorno e mi segua."]],"cite":"Lc 9, 23"}],"fr":[{"k":"p","lines":[["Crée en moi un cœur pur, ô mon Dieu,"],["renouvelle et raffermis au fond de moi mon esprit."]]}],"de":[{"k":"p","lines":[["Erschaffe mir, Gott, ein reines Herz und gib mir einen neuen, beständigen Geist."]]}]},"part":"communionAntiphon"},{"slot":"35","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"36","text":{"la":[{"k":"p","lines":[["Cæléstis doni benedictióne percépta,"],["súpplices te, Deus omnípotens, deprecámur,"],["ut hoc idem nobis semper et indulgéntiæ causa sit et salútis."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus todo-poderoso,"],["tendo recebido a bênção do dom celestial,"],["nós vos suplicamos que ele seja sempre para nós"],["fonte de perdão e salvação."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Having received the blessing of your heavenly gifts,"],["we humbly beseech you, almighty God,"],["that they may always be for us"],["a source both of pardon and of salvation."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te pedimos, Dios todopoderoso, después de recibir la gracia del don celestial, que este sea siempre para nosotros causa de perdón y salvación."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Il pane del cielo che abbiamo ricevuto, Dio onnipotente, ci santifichi e sia per noi sorgente inesauribile di perdono e di salvezza. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant,"],["par ce don venu du ciel,"],["nous avons reçu ta bénédiction ;"],["nous t'en supplions humblement :"],["qu'il ne cesse jamais de nous apporter"],["à la fois ton pardon et notre salut."],["Par le Christ, notre Seigneur"]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du hast uns das Brot des Himmels geschenkt"],["als Beweis deiner Liebe."],["Es erwirke uns immer neu die Vergebung der Sünden"],["und schenke uns dein Heil."],["Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"37","text":{"la":[{"k":"h4","lines":[["Oratio super populum (ad libitum adhibenda)"]]}],"pt-BR":[{"k":"h4","lines":[["Oração sobre o povo (de uso opcional)"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the People for optional use"]]}],"es":[{"k":"h4","lines":[["Oración sobre el pueblo"]]},{"k":"p","lines":[[{"m":"rubric","t":"(Se puede añadir "},{"m":"italic","t":"ad libitum"},{"m":"rubric","t":")"}]]}],"it":[{"k":"h4","lines":[["Orazione sul popolo (ad libitum)"]]}],"fr":[{"k":"h4","lines":[["Prière sur le peuple (Le prêtre peut dire la prière suivante)"]]}]},"part":"prayerOverPeople"},{"slot":"38","text":{"la":[{"k":"p","lines":[["Qui pópulo tuo, omnípotens Deus,"],["notas fecísti vias vitæ ætérnæ,"],["per eas ad te, lumen indefíciens,"],["nos fácias, quǽsumus, perveníre."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Deus todo-poderoso, nós vos pedimos"],["que trilhemos os caminhos da vida eterna,"],["revelados ao vosso povo,"],["e que por eles cheguemos até vós,"],["ó luz que não se apaga."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Almighty God,"],["who have made known to your people the ways of eternal life,"],["lead them by that path, we pray,"],["to you, the unfading light."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso, que has mostrado a tu pueblo el camino de la vida eterna, te pedimos que, a través de él, nos hagas llegar hasta ti, luz indeficiente."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, che al tuo popolo hai rivelato le vie della vita eterna, fa' che percorrendole giunga fino a te, luce senza tramonto. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant,"],["tu as fait connaître à ton peuple"],["les chemins de la vie éternelle ;"],["nous t'en prions,"],["donne-lui de les suivre"],["pour parvenir jusqu'à toi, lumière sans déclin."],["Par le Christ, notre Seigneur."]]}]},"part":"prayerOverPeople"}],"precedence":9,"prefaces":["preface.9","preface.10","preface.11","preface.12","preface.13"],"title":{"la":"Tempus Quadragesimæ — Feria quinta post Cineres","pt-BR":"Tempo da Quaresma — Quinta-feira depois das Cinzas","en-US":"Season of Lent — Thursday after Ash Wednesday","es":"Tiempo de Cuaresma — Jueves después de Ceniza","it":"Tempo di Quaresima — Giovedì dopo le Ceneri","fr":"Temps de Carême — Jeudi après les Cendres","de":"Fastenzeit — Donnerstag nach Aschermittwoch"}}
+{
+ "id": "tempore.lent.after-ash-wednesday.thursday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Quadragesimæ"
+       ],
+       [
+        "Feria quinta post Cineres"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo da Quaresma"
+       ],
+       [
+        "Quinta-feira depois das Cinzas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Season of Lent"
+       ],
+       [
+        "Thursday after Ash Wednesday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo de Cuaresma"
+       ],
+       [
+        "Jueves después de Ceniza"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo di Quaresima"
+       ],
+       [
+        "Giovedì dopo le Ceneri"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps de Carême"
+       ],
+       [
+        "Jeudi après les Cendres"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Fastenzeit"
+       ],
+       [
+        "Donnerstag nach Aschermittwoch"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 54, 17-20. 23"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 54, 17-20. 23"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 55 (54): 17-20, 23"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 54, 17-20. 23"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Sal 54, 17-19.23"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 54, 17-20. 23"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Ps 55 (54), 17-20. 23"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dum clamárem ad Dóminum, exaudívit vocem meam ab his, qui appropínquant mihi. Iacta cogitátum tuum in Dómino, et ipse te enútriet."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando clamei pelo Senhor, ele escutou minha voz"
+       ],
+       [
+        "diante daqueles que me atacam."
+       ],
+       [
+        "Confia ao Senhor os teus cuidados"
+       ],
+       [
+        "e ele mesmo te sustentará."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When I cried to the Lord, he heard my voice;"
+       ],
+       [
+        "he rescued me from those who attack me."
+       ],
+       [
+        "Entrust your cares to the Lord, and he will support you."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cuando invoqué al Señor, él escuchó mi voz y me salvó de los enemigos. Encomienda al Señor tus afanes, que él te sustentará."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho invocato il Signore ed egli ha ascoltato la mia voce: da coloro che mi opprimono mi libera. Affida al Signore la tua sorte ed egli sarà il tuo sostegno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quand je crie vers Dieu, il entend ma voix,"
+       ],
+       [
+        "il me met à l'abri de ceux qui me poursuivent."
+       ],
+       [
+        "Décharge-toi de tes inquiétudes sur le Seigneur :"
+       ],
+       [
+        "et lui-même te nourrira."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich rufe zum Herrn, er hört mein Klagen."
+       ],
+       [
+        "Er befreit mich von denen, die gegen mich kämpfen."
+       ],
+       [
+        "Wirf deine Sorge auf den Herrn, er hält dich aufrecht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Actiónes nostras, quǽsumus, Dómine,"
+       ],
+       [
+        "aspirándo prǽveni et adiuvándo proséquere,"
+       ],
+       [
+        "ut cuncta nostra operátio a te semper incípiat,"
+       ],
+       [
+        "et per te coepta finiátur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nós vos pedimos, Senhor,"
+       ],
+       [
+        "inspirai as nossas ações e ajudai-nos a realizá-las,"
+       ],
+       [
+        "para que em vós comece e termine"
+       ],
+       [
+        "tudo aquilo que fizermos."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prompt our actions with your inspiration, we pray, O Lord,"
+       ],
+       [
+        "and further them with your constant help,"
+       ],
+       [
+        "that all we do may always begin from you"
+       ],
+       [
+        "and by you be brought to completion."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Señor, que inspires, sostengas y acompañes nuestras obras, para que nuestro trabajo comience en ti, como en su fuente, y tienda siempre a ti, como a su fin."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ispira le nostre azioni, o Signore, e accompagnale con il tuo aiuto, perché ogni nostra attività abbia sempre da te il suo inizio e in te il suo compimento. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que ta grâce inspire et précède notre action,"
+       ],
+       [
+        "nous t'en prions, Seigneur,"
+       ],
+       [
+        "qu'elle la soutienne et l'accompagne,"
+       ],
+       [
+        "pour que toutes nos activités"
+       ],
+       [
+        "prennent leur source en toi"
+       ],
+       [
+        "et reçoivent de toi leur achèvement."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, komm unserem Beten und Arbeiten"
+       ],
+       [
+        "mit deiner Gnade zuvor und begleite es,"
+       ],
+       [
+        "damit alles, was wir beginnen, bei dir seinen Anfang nehme"
+       ],
+       [
+        "und durch dich vollendet werde."
+       ],
+       [
+        "Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hóstias, quǽsumus, Dómine,"
+       ],
+       [
+        "propítius inténde,"
+       ],
+       [
+        "quas sacris altáribus exhibémus,"
+       ],
+       [
+        "ut, nobis indulgéntiam largiéndo,"
+       ],
+       [
+        "tuo nómini dent honórem."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, olhai com bondade"
+       ],
+       [
+        "as oferendas que colocamos neste altar,"
+       ],
+       [
+        "para que, alcançando-nos vossa misericórdia,"
+       ],
+       [
+        "glorifiquem o vosso nome."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Regard with favor, O Lord, we pray,"
+       ],
+       [
+        "the offerings we set upon this sacred altar, that, bestowing on us your pardon,"
+       ],
+       [
+        "our oblations may give honor to your name."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mira, Señor, propicio las ofrendas que presentamos en tu altar, para que nos obtengan el perdón y proclamen la gloria de tu nombre."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli con bontà, o Signore, l'offerta che presentiamo sul tuo santo altare, perché ottenga a noi il perdono e renda onore al tuo nome. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Regarde avec bonté,"
+       ],
+       [
+        "Seigneur, nous t'en prions,"
+       ],
+       [
+        "les offrandes que nous déposons sur l'autel qui t'est consacré ;"
+       ],
+       [
+        "en nous procurant ton pardon,"
+       ],
+       [
+        "qu'elles servent à la gloire de ton nom."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, schau gnädig auf die Gaben, die wir auf den Altar legen."
+       ],
+       [
+        "Das heilige Opfer bringe deinem Namen Ehre und tilge unsere Sünden."
+       ],
+       [
+        "Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Ps 50, 12"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Sl 50, 12"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 51 (50): 12"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Sal 50, 12"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Sal 50, 12"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Ps 50, 12"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "KommunionversPs 51 (50), 12"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cor mundum crea in me, Deus, et spíritum rectum ínnova in viscéribus meis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Criai em mim um coração que seja puro,"
+       ],
+       [
+        "dai-me de novo um espírito decidido."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Create a pure heart for me, O God; renew a steadfast spirit within me."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios, crea en mí un corazón puro, renuévame por dentro con espíritu firme."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Crea in me, o Dio, un cuore puro, rinnova in me uno spirito saldo. ",
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "Se qualcuno vuol venire dietro a me rinneghi se stesso, prenda la sua croce ogni giorno e mi segua."
+       ]
+      ],
+      "cite": "Lc 9, 23"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Crée en moi un cœur pur, ô mon Dieu,"
+       ],
+       [
+        "renouvelle et raffermis au fond de moi mon esprit."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erschaffe mir, Gott, ein reines Herz und gib mir einen neuen, beständigen Geist."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cæléstis doni benedictióne percépta,"
+       ],
+       [
+        "súpplices te, Deus omnípotens, deprecámur,"
+       ],
+       [
+        "ut hoc idem nobis semper et indulgéntiæ causa sit et salútis."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus todo-poderoso,"
+       ],
+       [
+        "tendo recebido a bênção do dom celestial,"
+       ],
+       [
+        "nós vos suplicamos que ele seja sempre para nós"
+       ],
+       [
+        "fonte de perdão e salvação."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Having received the blessing of your heavenly gifts,"
+       ],
+       [
+        "we humbly beseech you, almighty God,"
+       ],
+       [
+        "that they may always be for us"
+       ],
+       [
+        "a source both of pardon and of salvation."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Dios todopoderoso, después de recibir la gracia del don celestial, que este sea siempre para nosotros causa de perdón y salvación."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il pane del cielo che abbiamo ricevuto, Dio onnipotente, ci santifichi e sia per noi sorgente inesauribile di perdono e di salvezza. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant,"
+       ],
+       [
+        "par ce don venu du ciel,"
+       ],
+       [
+        "nous avons reçu ta bénédiction ;"
+       ],
+       [
+        "nous t'en supplions humblement :"
+       ],
+       [
+        "qu'il ne cesse jamais de nous apporter"
+       ],
+       [
+        "à la fois ton pardon et notre salut."
+       ],
+       [
+        "Par le Christ, notre Seigneur"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du hast uns das Brot des Himmels geschenkt"
+       ],
+       [
+        "als Beweis deiner Liebe."
+       ],
+       [
+        "Es erwirke uns immer neu die Vergebung der Sünden"
+       ],
+       [
+        "und schenke uns dein Heil."
+       ],
+       [
+        "Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oratio super populum (ad libitum adhibenda)"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração sobre o povo (de uso opcional)"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the People for optional use"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre el pueblo"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(Se puede añadir "
+        },
+        {
+         "m": "italic",
+         "t": "ad libitum"
+        },
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Orazione sul popolo (ad libitum)"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur le peuple (Le prêtre peut dire la prière suivante)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui pópulo tuo, omnípotens Deus,"
+       ],
+       [
+        "notas fecísti vias vitæ ætérnæ,"
+       ],
+       [
+        "per eas ad te, lumen indefíciens,"
+       ],
+       [
+        "nos fácias, quǽsumus, perveníre."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus todo-poderoso, nós vos pedimos"
+       ],
+       [
+        "que trilhemos os caminhos da vida eterna,"
+       ],
+       [
+        "revelados ao vosso povo,"
+       ],
+       [
+        "e que por eles cheguemos até vós,"
+       ],
+       [
+        "ó luz que não se apaga."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty God,"
+       ],
+       [
+        "who have made known to your people the ways of eternal life,"
+       ],
+       [
+        "lead them by that path, we pray,"
+       ],
+       [
+        "to you, the unfading light."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso, que has mostrado a tu pueblo el camino de la vida eterna, te pedimos que, a través de él, nos hagas llegar hasta ti, luz indeficiente."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, che al tuo popolo hai rivelato le vie della vita eterna, fa' che percorrendole giunga fino a te, luce senza tramonto. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant,"
+       ],
+       [
+        "tu as fait connaître à ton peuple"
+       ],
+       [
+        "les chemins de la vie éternelle ;"
+       ],
+       [
+        "nous t'en prions,"
+       ],
+       [
+        "donne-lui de les suivre"
+       ],
+       [
+        "pour parvenir jusqu'à toi, lumière sans déclin."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople"
+  }
+ ],
+ "precedence": 9,
+ "prefaces": [
+  "preface.9",
+  "preface.10",
+  "preface.11",
+  "preface.12",
+  "preface.13"
+ ],
+ "title": {
+  "la": "Tempus Quadragesimæ — Feria quinta post Cineres",
+  "pt-BR": "Tempo da Quaresma — Quinta-feira depois das Cinzas",
+  "en-US": "Season of Lent — Thursday after Ash Wednesday",
+  "es": "Tiempo de Cuaresma — Jueves después de Ceniza",
+  "it": "Tempo di Quaresima — Giovedì dopo le Ceneri",
+  "fr": "Temps de Carême — Jeudi après les Cendres",
+  "de": "Fastenzeit — Donnerstag nach Aschermittwoch"
+ }
+}

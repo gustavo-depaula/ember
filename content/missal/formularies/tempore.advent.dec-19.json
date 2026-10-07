@@ -1,1 +1,1130 @@
-{"id":"tempore.advent.dec-19","source":"tiempos/tiempos_advnav#A119","kind":"tempore","items":[{"slot":"291","text":{"la":[{"k":"h2","lines":[["IN FERIIS ADVENTUS"],["a Die 17 ad diem 24 decembris"],["Die 19 decembris"]]}],"pt-BR":[{"k":"h2","lines":[["PARA OS DIAS DE SEMANA DO ADVENTO"],["de 17 a 24 de dezembro"],["19 de dezembro"]]}],"en-US":[{"k":"h2","lines":[["Weekdays of Advent"],["December 17 to December 24"],["19 December"]]}],"es":[{"k":"h2","lines":[["FERIAS DE ADVIENTO"],["desde el 17 al 24 de diciembre"],["19 de diciembre"]]}],"it":[{"k":"h2","lines":[["FERIE DI AVVENTO"],["dal 17 al 24 dicembre"],["19 dicembre"]]}],"fr":[{"k":"h2","lines":[["IN FERIIS ADVENTUS"],["Du 17 au 24 décembre"],["19 décembre"]]}],"de":[{"k":"h2","lines":[["DIE WOCHENTAGE"],["VOM 17. BIS 24. DEZEMBER"],["19. Dezember"]]}]},"part":"title"},{"slot":"292","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Hebr 10, 37"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Hb 10, 37"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Heb 10: 37"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Hebr 10, 37"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cfr. Eb 10, 37"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Hebr 10, 37"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Hebr 10, 37"}]},"part":"entranceAntiphon"},{"slot":"293","text":{"la":[{"k":"p","lines":[["Qui ventúrus est véniet et non tardábit, et iam non erit timor in fínibus nostris, quóniam ipse est Salvátor noster."]]}],"pt-BR":[{"k":"p","lines":[["Aquele que há de vir, chegará sem demora,"],["e já não haverá mais temor entre nós,"],["porque ele é o nosso Salvador."]]}],"en-US":[{"k":"p","lines":[["He who is to come will come and will not delay, and now there will be no fear within our land, for he is our Savior."]]}],"es":[{"k":"p","lines":[["El que viene llegará sin retraso y ya no habrá temor en nuestra tierra, porque él es nuestro Salvador."]]}],"it":[{"k":"p","lines":[["L'Atteso verrà e non tarderà; non ci sarà più timore sulla nostra terra: egli è il nostro Salvatore."]]}],"fr":[{"k":"p","lines":[["Celui qui doit venir arrivera,"],["il ne tardera pas ;"],["alors, plus de crainte sur notre terre,"],["car il est notre Sauveur."]]}],"de":[{"k":"p","lines":[["Der Herr wird kommen, er lässt nicht auf sich warten. Es wird keine Angst mehr sein in der Welt, denn er ist unser Heiland."]]}]},"part":"entranceAntiphon"},{"slot":"294","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"295","text":{"la":[{"k":"p","lines":[["Deus, qui splendórem glóriæ tuæ per sacræ Vírginis partum mundo dignátus es reveláre, tríbue, quǽsumus, ut tantæ incarnatiónis mystérium et fídei integritáte colámus, et devóto semper obséquio frequentémus. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, pelo parto virginal de Maria"],["revelastes ao mundo o esplendor da vossa glória;"],["concedei-nos venerar com fé pura"],["e celebrar com devoção e amor"],["o mistério tão profundo da encarnação."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who through the child-bearing of the holy Virgin graciously revealed the radiance of your glory to the world, grant, we pray,"],["that we may venerate with integrity of faith"],["the mystery of so wondrous an Incarnation"],["and always celebrate it with due reverence."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que has querido revelar al mundo"],["el resplandor de tu gloria por el parto de la Virgen santa,"],["concédenos proclamar con fe íntegra"],["y celebrar con piedad sincera"],["el gran misterio de la Encarnación."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio che, con il parto della santa Vergine, hai rivelato al mondo lo splendore della tua gloria, fa' che veneriamo con fede viva e celebriamo con fervente amore il grande mistero dell'incarnazione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["par la maternité de la Vierge sainte,"],["tu as voulu révéler au monde la splendeur de ta gloire ;"],["nous t'en prions : accorde-nous de vénérer"],["le mystère si grand de l'Incarnation"],["dans la pureté de la foi"],["et de le célébrer toujours dans l'obéissance du cœur."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Ewiger Gott, durch die Geburt deines Sohnes aus der Jungfrau Maria hast du vor der Welt deine Herrlichkeit offenbar gemacht. Lass uns das unfassbare Geheimnis der Menschwerdung in unverfälschtem Glauben bewahren und in liebender Hingabe feiern. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"296","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"297","text":{"la":[{"k":"p","lines":[["Propítius intuére múnera, Dómine, quǽsumus, quæ tuis altáribus exhibémus, ut, quod nostra fragilitáte defértur, tua virtúte sacrétur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Olhai com bondade, Senhor,"],["os dons que trazemos ao vosso altar,"],["e consagrai com o vosso poder"],["o que em nossa fragilidade apresentamos."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look with favor, we pray, O Lord,"],["on the offerings we lay upon your altars, that what we bring despite our weakness may be sanctified by your power."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor,"],["mira con bondad las ofrendas"],["que presentamos sobre tu altar"],["y consagra con tu poder"],["lo que nuestra debilidad te presenta."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guarda con bontà, o Signore, i doni che deponiamo sul tuo altare, perché ciò che la nostra povertà ti presenta sia consacrato dalla tua potenza. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Regarde avec bonté,"],["nous t'en prions, Seigneur,"],["les offrandes apportées à ton autel :"],["que les dons présentés par nous, dans notre faiblesse,"],["soient consacrés par ta puissance."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, schau gütig auf die Gaben, die wir auf deinen Altar legen. Wir schwache Menschen bringen sie dar; heilige du sie durch deine Kraft. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"299","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Lc 1, 78-79"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Lc 1, 78-79"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Lk 1: 78-79"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Lc 1, 78-79"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Lc 1, 78-79"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Lc 1, 78-79"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Lk 1, 78-79"}]},"part":"communionAntiphon"},{"slot":"300","text":{"la":[{"k":"p","lines":[["Visitábit nos Oriens ex alto, ad dirigéndos pedes nostros in viam pacis."]]}],"pt-BR":[{"k":"p","lines":[["O Sol nascente nos veio visitar,"],["para guiar os nossos passos no caminho da paz."]]}],"en-US":[{"k":"p","lines":[["The Dawn from on high will visit us, guiding our feet in the way of peace."]]}],"es":[{"k":"p","lines":[["Nos visitará el Sol que nace de lo alto, para guiar nuestros pasos por el camino de la paz."]]}],"it":[{"k":"p","lines":[["Verrà a visitarci un sole che sorge dall'alto, per dirigere i nostri passi sulla via della pace."],[{"m":"rubric","t":"Oppure:"}],["Egli ricondurrà i cuori dei padri verso i figli e preparerà al Signore un popolo ben disposto."]],"cite":"Cf. Lc 1, 17"}],"fr":[{"k":"p","lines":[["L'Astre d'en haut nous visitera"],["pour conduire nos pas au chemin de la paix."]]}],"de":[{"k":"p","lines":[["Durch die barmherzige Liebe unseres Gottes wird uns besuchen das aufstrahlende Licht aus der Höhe, um unsere Schritte zu lenken auf den Weg des Friedens."]]}]},"part":"communionAntiphon"},{"slot":"301","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"302","text":{"la":[{"k":"p","lines":[["Grátias de collátis munéribus referéntes, fac nobis propítius, omnípotens Deus, quæ ventúra sunt desideráre præstánda, ut nativitátem Salvatóris nostri purificátis suscipiámus méntibus honorándam. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Graças vos damos, Deus todo-poderoso,"],["pelos dons que recebemos;"],["infundi em nós o desejo da salvação que há de vir,"],["para que possamos celebrar de coração purificado"],["o nascimento do nosso Salvador."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["As we give thanks, almighty God,"],["for these gifts you have bestowed,"],["graciously arouse in us, we pray,"],["the desire for those yet to come,"],["that we may welcome the Nativity of our Savior and honor it with minds made pure."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso,"],["sé propicio con nosotros"],["y, al darte gracias por los dones recibidos,"],["haz que de tal modo deseemos los que están por llegar,"],["que recibamos con el corazón purificado"],["el nacimiento admirable de nuestro Salvador."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Ti ringraziamo, Dio onnipotente, per i doni che ci hai dato; suscita in noi il desiderio dei beni promessi, perché con spirito rinnovato possiamo celebrare la nascita del nostro Salvatore. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Nous te rendons grâce, Dieu tout-puissant,"],["pour les bienfaits déjà reçus ;"],["dans ta bonté, fais-nous désirer"],["ceux que tu vas nous donner bientôt ;"],["nous accueillerons alors d'un esprit purifié"],["la naissance admirable de notre Sauveur."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, wir danken dir für die empfangenen Gaben und bitten dich: Reinige unser Herz und schenke uns Verlangen nach dem kommenden Heil, damit wir in der rechten Weise das Fest der Geburt unseres Erlösers begehen, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"postcommunion"}],"precedence":9,"prefaces":["preface.2","preface.4"],"title":{"la":"IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 19 decembris","pt-BR":"PARA OS DIAS DE SEMANA DO ADVENTO — de 17 a 24 de dezembro — 19 de dezembro","en-US":"Weekdays of Advent — December 17 to December 24 — 19 December","es":"FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 19 de diciembre","it":"FERIE DI AVVENTO — dal 17 al 24 dicembre — 19 dicembre","fr":"IN FERIIS ADVENTUS — Du 17 au 24 décembre — 19 décembre","de":"DIE WOCHENTAGE — VOM 17. BIS 24. DEZEMBER — 19. Dezember"}}
+{
+ "id": "tempore.advent.dec-19",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN FERIIS ADVENTUS"
+       ],
+       [
+        "a Die 17 ad diem 24 decembris"
+       ],
+       [
+        "Die 19 decembris"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "PARA OS DIAS DE SEMANA DO ADVENTO"
+       ],
+       [
+        "de 17 a 24 de dezembro"
+       ],
+       [
+        "19 de dezembro"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Weekdays of Advent"
+       ],
+       [
+        "December 17 to December 24"
+       ],
+       [
+        "19 December"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "FERIAS DE ADVIENTO"
+       ],
+       [
+        "desde el 17 al 24 de diciembre"
+       ],
+       [
+        "19 de diciembre"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "FERIE DI AVVENTO"
+       ],
+       [
+        "dal 17 al 24 dicembre"
+       ],
+       [
+        "19 dicembre"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN FERIIS ADVENTUS"
+       ],
+       [
+        "Du 17 au 24 décembre"
+       ],
+       [
+        "19 décembre"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DIE WOCHENTAGE"
+       ],
+       [
+        "VOM 17. BIS 24. DEZEMBER"
+       ],
+       [
+        "19. Dezember"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Hebr 10, 37"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Hb 10, 37"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Heb 10: 37"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Hebr 10, 37"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cfr. Eb 10, 37"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Hebr 10, 37"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Hebr 10, 37"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui ventúrus est véniet et non tardábit, et iam non erit timor in fínibus nostris, quóniam ipse est Salvátor noster."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aquele que há de vir, chegará sem demora,"
+       ],
+       [
+        "e já não haverá mais temor entre nós,"
+       ],
+       [
+        "porque ele é o nosso Salvador."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He who is to come will come and will not delay, and now there will be no fear within our land, for he is our Savior."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que viene llegará sin retraso y ya no habrá temor en nuestra tierra, porque él es nuestro Salvador."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'Atteso verrà e non tarderà; non ci sarà più timore sulla nostra terra: egli è il nostro Salvatore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Celui qui doit venir arrivera,"
+       ],
+       [
+        "il ne tardera pas ;"
+       ],
+       [
+        "alors, plus de crainte sur notre terre,"
+       ],
+       [
+        "car il est notre Sauveur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr wird kommen, er lässt nicht auf sich warten. Es wird keine Angst mehr sein in der Welt, denn er ist unser Heiland."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui splendórem glóriæ tuæ per sacræ Vírginis partum mundo dignátus es reveláre, tríbue, quǽsumus, ut tantæ incarnatiónis mystérium et fídei integritáte colámus, et devóto semper obséquio frequentémus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, pelo parto virginal de Maria"
+       ],
+       [
+        "revelastes ao mundo o esplendor da vossa glória;"
+       ],
+       [
+        "concedei-nos venerar com fé pura"
+       ],
+       [
+        "e celebrar com devoção e amor"
+       ],
+       [
+        "o mistério tão profundo da encarnação."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who through the child-bearing of the holy Virgin graciously revealed the radiance of your glory to the world, grant, we pray,"
+       ],
+       [
+        "that we may venerate with integrity of faith"
+       ],
+       [
+        "the mystery of so wondrous an Incarnation"
+       ],
+       [
+        "and always celebrate it with due reverence."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que has querido revelar al mundo"
+       ],
+       [
+        "el resplandor de tu gloria por el parto de la Virgen santa,"
+       ],
+       [
+        "concédenos proclamar con fe íntegra"
+       ],
+       [
+        "y celebrar con piedad sincera"
+       ],
+       [
+        "el gran misterio de la Encarnación."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio che, con il parto della santa Vergine, hai rivelato al mondo lo splendore della tua gloria, fa' che veneriamo con fede viva e celebriamo con fervente amore il grande mistero dell'incarnazione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "par la maternité de la Vierge sainte,"
+       ],
+       [
+        "tu as voulu révéler au monde la splendeur de ta gloire ;"
+       ],
+       [
+        "nous t'en prions : accorde-nous de vénérer"
+       ],
+       [
+        "le mystère si grand de l'Incarnation"
+       ],
+       [
+        "dans la pureté de la foi"
+       ],
+       [
+        "et de le célébrer toujours dans l'obéissance du cœur."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ewiger Gott, durch die Geburt deines Sohnes aus der Jungfrau Maria hast du vor der Welt deine Herrlichkeit offenbar gemacht. Lass uns das unfassbare Geheimnis der Menschwerdung in unverfälschtem Glauben bewahren und in liebender Hingabe feiern. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Propítius intuére múnera, Dómine, quǽsumus, quæ tuis altáribus exhibémus, ut, quod nostra fragilitáte defértur, tua virtúte sacrétur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Olhai com bondade, Senhor,"
+       ],
+       [
+        "os dons que trazemos ao vosso altar,"
+       ],
+       [
+        "e consagrai com o vosso poder"
+       ],
+       [
+        "o que em nossa fragilidade apresentamos."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look with favor, we pray, O Lord,"
+       ],
+       [
+        "on the offerings we lay upon your altars, that what we bring despite our weakness may be sanctified by your power."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor,"
+       ],
+       [
+        "mira con bondad las ofrendas"
+       ],
+       [
+        "que presentamos sobre tu altar"
+       ],
+       [
+        "y consagra con tu poder"
+       ],
+       [
+        "lo que nuestra debilidad te presenta."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda con bontà, o Signore, i doni che deponiamo sul tuo altare, perché ciò che la nostra povertà ti presenta sia consacrato dalla tua potenza. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Regarde avec bonté,"
+       ],
+       [
+        "nous t'en prions, Seigneur,"
+       ],
+       [
+        "les offrandes apportées à ton autel :"
+       ],
+       [
+        "que les dons présentés par nous, dans notre faiblesse,"
+       ],
+       [
+        "soient consacrés par ta puissance."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, schau gütig auf die Gaben, die wir auf deinen Altar legen. Wir schwache Menschen bringen sie dar; heilige du sie durch deine Kraft. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Lc 1, 78-79"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 78-79"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Lk 1: 78-79"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Lc 1, 78-79"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Lc 1, 78-79"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Lc 1, 78-79"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Lk 1, 78-79"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Visitábit nos Oriens ex alto, ad dirigéndos pedes nostros in viam pacis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Sol nascente nos veio visitar,"
+       ],
+       [
+        "para guiar os nossos passos no caminho da paz."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Dawn from on high will visit us, guiding our feet in the way of peace."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nos visitará el Sol que nace de lo alto, para guiar nuestros pasos por el camino de la paz."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verrà a visitarci un sole che sorge dall'alto, per dirigere i nostri passi sulla via della pace."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Egli ricondurrà i cuori dei padri verso i figli e preparerà al Signore un popolo ben disposto."
+       ]
+      ],
+      "cite": "Cf. Lc 1, 17"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'Astre d'en haut nous visitera"
+       ],
+       [
+        "pour conduire nos pas au chemin de la paix."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Durch die barmherzige Liebe unseres Gottes wird uns besuchen das aufstrahlende Licht aus der Höhe, um unsere Schritte zu lenken auf den Weg des Friedens."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grátias de collátis munéribus referéntes, fac nobis propítius, omnípotens Deus, quæ ventúra sunt desideráre præstánda, ut nativitátem Salvatóris nostri purificátis suscipiámus méntibus honorándam. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Graças vos damos, Deus todo-poderoso,"
+       ],
+       [
+        "pelos dons que recebemos;"
+       ],
+       [
+        "infundi em nós o desejo da salvação que há de vir,"
+       ],
+       [
+        "para que possamos celebrar de coração purificado"
+       ],
+       [
+        "o nascimento do nosso Salvador."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As we give thanks, almighty God,"
+       ],
+       [
+        "for these gifts you have bestowed,"
+       ],
+       [
+        "graciously arouse in us, we pray,"
+       ],
+       [
+        "the desire for those yet to come,"
+       ],
+       [
+        "that we may welcome the Nativity of our Savior and honor it with minds made pure."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "sé propicio con nosotros"
+       ],
+       [
+        "y, al darte gracias por los dones recibidos,"
+       ],
+       [
+        "haz que de tal modo deseemos los que están por llegar,"
+       ],
+       [
+        "que recibamos con el corazón purificado"
+       ],
+       [
+        "el nacimiento admirable de nuestro Salvador."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti ringraziamo, Dio onnipotente, per i doni che ci hai dato; suscita in noi il desiderio dei beni promessi, perché con spirito rinnovato possiamo celebrare la nascita del nostro Salvatore. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous te rendons grâce, Dieu tout-puissant,"
+       ],
+       [
+        "pour les bienfaits déjà reçus ;"
+       ],
+       [
+        "dans ta bonté, fais-nous désirer"
+       ],
+       [
+        "ceux que tu vas nous donner bientôt ;"
+       ],
+       [
+        "nous accueillerons alors d'un esprit purifié"
+       ],
+       [
+        "la naissance admirable de notre Sauveur."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, wir danken dir für die empfangenen Gaben und bitten dich: Reinige unser Herz und schenke uns Verlangen nach dem kommenden Heil, damit wir in der rechten Weise das Fest der Geburt unseres Erlösers begehen, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 9,
+ "prefaces": [
+  "preface.2",
+  "preface.4"
+ ],
+ "title": {
+  "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 19 decembris",
+  "pt-BR": "PARA OS DIAS DE SEMANA DO ADVENTO — de 17 a 24 de dezembro — 19 de dezembro",
+  "en-US": "Weekdays of Advent — December 17 to December 24 — 19 December",
+  "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 19 de diciembre",
+  "it": "FERIE DI AVVENTO — dal 17 al 24 dicembre — 19 dicembre",
+  "fr": "IN FERIIS ADVENTUS — Du 17 au 24 décembre — 19 décembre",
+  "de": "DIE WOCHENTAGE — VOM 17. BIS 24. DEZEMBER — 19. Dezember"
+ }
+}

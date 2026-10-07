@@ -1,0 +1,612 @@
+{
+ "id": "for-the-dead.gospel.13",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "13"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui manducat ex hoc pane habet vitam æternam, et ego resuscitabo eum in novissimo die."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Ioánnem"
+       ]
+      ],
+      "cite": "6, 51-58",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quem comer deste pão viverá eternamente e Eu o ressuscitarei no último dia"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Evangelho de Nosso Senhor Jesus Cristo segundo São João"
+       ]
+      ],
+      "cite": "6, 51-58",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Anyone who eats this bread has eternal life, and l shall raise him up on the last day."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to John"
+       ]
+      ],
+      "cite": "Jn 6:51-58",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que come de este pan tiene vida eterna, y yo lo resucitaré en el último día"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Juan"
+       ]
+      ],
+      "cite": "6, 51-58",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi mangia la mia carne e beve il mio sangue ha la vita eterna e io lo risusciterò nell'ultimo giorno."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Giovanni"
+       ]
+      ],
+      "cite": "6,51-59 (gr. 51-58)",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Jean"
+       ]
+      ],
+      "cite": "6, 51-58",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Johannes"
+       ]
+      ],
+      "cite": "6, 51-58",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus turbis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Ego sum panis vivus, qui de cælo descéndi. Si quis manducáverit ex hoc pane, vivet in ætérnum; panis autem, quem ego dabo, caro mea est pro mundi vita»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Litigábant ergo Iudǽi ad ínvicem dicéntes: «Quómodo potest hic nobis carnem suam dare ad manducándum?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixit ergo eis Iesus:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Amen, amen dico vobis: Nisi manducavéritis carnem Fílii hóminis et bibéritis eius sánguinem, non habétis vitam in vobismetípsis. Qui mandúcat meam carnem et bibit meum sánguinem, habet vitam ætérnam; et ego resuscitábo eum in novíssimo die."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caro enim mea verus est cibus, et sanguis meus verus est potus. Qui mandúcat meam carnem et bibit meum sánguinem, in me manet, et ego in illo. Sicut misit me vivens Pater, et ego vivo propter Patrem; et, qui mandúcat me, et ipse vivet propter me."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hic est panis, qui de cælo descéndit, non sicut manducavérunt patres et mórtui sunt; qui mandúcat hunc panem, vivet in ætérnum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo: disse Jesus às multidões dos judeus: \"Eu sou o pão vivo descido do céu. Quem comer deste pão viverá eternamente. E o pão que eu darei é a minha carne dada para a vida do mundo\". Os judeus discutiam entre si, dizendo: \"Como é que ele pode dar a sua carne a comer?\" Então Jesus disse: \"Em verdade, em verdade vos digo, se não comerdes a carne do Filho do Homem e não beberdes o seu sangue, não tereis a vida em vós. 5Quem come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia. Porque a minha carne é verdadeira comida e o meu sangue, verdadeira bebida. Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele. Como o Pai, que vive, me enviou, e eu vivo por causa do Pai, assim o que me come viverá por causa de mim. Este é o pão que desceu do céu. Não é como aquele que os vossos pais comeram. Eles morreram. Aquele que come este pão viverá para sempre\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Paalavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to the crowd: `I am the living bread which has come down from heaven. Anyone who eats this bread will live for ever; and the bread that I shall give is my flesh, for the life of the world.' Then the Jews started arguing with one another: `How can this man give us his flesh to eat?' they said. Jesus replied: `I tell you most solemnly, if you do not eat the flesh of the Son of Man and drink his blood, you will not have life in you. Anyone who does eat my flesh and drink my blood has eternal life, and I shall raise him up on the last day. For my flesh is real food and my blood is real drink. He who eats my flesh and drinks my blood lives in me and I live in him. As I, who am sent by the living Father, myself draw life from the Father, so whoever eats me will draw life from me. This is the bread come down from heaven; not like the bread our ancestors ate: they are dead, but anyone who eats this bread will live for ever.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a la gente:"
+       ],
+       [
+        "«Yo soy el pan vivo que ha bajado del cielo; el que coma de este pan vivirá para siempre. Y el pan que yo daré es mi carne por la vida del mundo»."
+       ],
+       [
+        "Disputaban los judíos entre sí:"
+       ],
+       [
+        "«¿Cómo puede este darnos a comer su carne?»."
+       ],
+       [
+        "Entonces Jesús les dijo:"
+       ],
+       [
+        "«En verdad, en verdad os digo: si no coméis la carne del Hijo del hombre y no bebéis su sangre, no tenéis vida en vosotros. El que come mi carne y bebe mi sangre tiene vida eterna, y yo lo resucitaré en el último día."
+       ],
+       [
+        "Mi carne es verdadera comida, y mi sangre es verdadera bebida. El que come mi carne y bebe mi sangre habita en mí y yo en él. Como el Padre que vive me ha enviado, y yo vivo por el Padre, así, del mismo modo, el que me come vivirá por mí."
+       ],
+       [
+        "Este es el pan que ha bajado del cielo: no como el de vuestros padres, que lo comieron y murieron; el que come este pan vivirá para siempre»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse alla folla: «Io sono il pane vivo, disceso dal cielo. Se uno mangia di questo pane vivrà in eterno e il pane che io darò è la mia carne per la vita del mondo». Allora i Giudei si misero a discutere tra di loro: «Come può costui darci la sua carne da mangiare?». Gesù disse: «In verità, in verità vi dico: se non mangiate la carne del Figlio dell'uomo e non bevete il suo sangue, non avrete in voi la vita. Chi mangia la mia carne e beve il mio sangue ha la vita eterna e io lo risusciterò nell'ultimo giorno. Perché la mia carne è vero cibo e il mio sangue vera bevanda. Chi mangia la mia carne e beve il mio sangue dimora in me e io in lui. Come il Padre, che ha la vita, ha mandato me e io vivo per il Padre, così anche colui che mangia di me vivrà per me. Questo è il pane disceso dal cielo, non come quello che mangiarono i padri vostri e morirono. Chi mangia questo pane vivrà in eterno»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait aux foules des juifs :"
+       ],
+       [
+        "\" Moi, je suis le pain vivant, qui est descendu du ciel : si quelqu'un mange de ce pain, il vivra éternellement. Le pain que je donnerai, c'est ma chair, donnée pour la vie du monde. \""
+       ],
+       [
+        "Les Juifs se querellaient entre eux :"
+       ],
+       [
+        "\" Comment celui-là peut-il nous donner sa chair à manger ? \" Jésus leur dit"
+       ],
+       [
+        "alors :"
+       ],
+       [
+        "\" Amen, amen, je vous le dis : si vous ne mangez pas la chair du Fils de l'homme, et si vous ne buvez pas son sang, vous n'avez pas la vie en vous. Celui qui mange ma chair et boit mon sang a la vie éternelle ; et moi, je le ressusciterai au dernier jour. En effet, ma chair est la vraie nourriture, et mon sang est la vraie boisson. Celui qui mange ma chair et boit mon sang demeure en moi, et moi, je demeure en lui. De même que le Père, qui est vivant, m'a envoyé, et que moi je vis par le Père, de même celui qui me mange, lui aussi vivra par moi. Tel est le pain qui est descendu du ciel : il n'est pas comme celui que les pères ont mangé. Eux, ils sont morts ; celui qui mange ce pain vivra éternellement. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu der Menge:"
+       ],
+       [
+        "Ich bin das lebendige Brot, das vom Himmel herabgekommen ist. Wer von diesem Brot isst, wird in Ewigkeit leben. Das Brot, das ich geben werde, ist mein Fleisch, ich gebe es hin für das Leben der Welt."
+       ],
+       [
+        "Da stritten sich die Juden und sagten: Wie kann er uns sein Fleisch zu essen geben?"
+       ],
+       [
+        "Jesus sagte zu ihnen:"
+       ],
+       [
+        "Amen, amen, das sage ich euch: Wenn ihr das Fleisch des Menschensohnes nicht esst und sein Blut nicht trinkt, habt ihr das Leben nicht in euch. Wer mein Fleisch isst und mein Blut trinkt, hat das ewige Leben, und ich werde ihn auferwecken am Letzten Tag."
+       ],
+       [
+        "Denn mein Fleisch ist wirklich eine Speise, und mein Blut ist wirklich ein Trank. Wer mein Fleisch isst und mein Blut trinkt, der bleibt in mir, und ich bleibe in ihm. Wie mich der lebendige Vater gesandt hat und wie ich durch den Vater lebe, so wird jeder, der mich isst, durch mich leben."
+       ],
+       [
+        "Dies ist das Brot, das vom Himmel herabgekommen ist. Mit ihm ist es nicht wie mit dem Brot, das die Väter gegessen haben; sie sind gestorben. Wer aber dieses Brot isst, wird leben in Ewigkeit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

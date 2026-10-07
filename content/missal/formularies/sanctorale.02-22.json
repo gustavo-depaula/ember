@@ -1,1 +1,1482 @@
-{"id":"sanctorale.02-22","source":"santos/santos_feb#0222","kind":"sanctoral","items":[{"slot":"84","text":{"la":[{"k":"h2","lines":[["Die 22 februarii"],["CATHEDRÆ S. PETRI, APOSTOLI"]]},{"k":"h3","lines":[["Festum"]]},{"k":"p","lines":[["Festum Cathedræ Petri hac die iam a sæculo IV Romæ celebratum est, ad unitatem Ecclesiæ super Apostolum fundatæ significandam."]]}],"pt-BR":[{"k":"h2","lines":[["22 de fevereiro"],["CÁTEDRA DE SÃO PEDRO, APÓSTOLO"]]},{"k":"h3","lines":[["Festa"]]},{"k":"p","lines":[["A atual celebração deste dia, sob o símbolo da Cátedra, salienta a missão de mestre e pastor conferida por Cristo a São Pedro. Pelo Senhor, ele e seus sucessores foram constituídos princípio e fundamento visível da unidade da Igreja. A ",{"m":"italic","t":"\"Depositio Martyrum\""}," (354) recorda o ",{"m":"italic","t":"\"Natale Petri de Cathedra\""}," a 22 de fevereiro."]]}],"en-US":[{"k":"h2","lines":[["February 22"],["THE CHAIR OF SAINT PETER, APOSTLE"]]},{"k":"h3","lines":[["Feast"]]}],"es":[{"k":"h2","lines":[["22 de febrero"],["LA CÁTEDRA DEL APÓSTOL SAN PEDRO"]]},{"k":"h3","lines":[["Fiesta"]]},{"k":"p","lines":[["La festividad de la Cátedra de san Pedro se celebraba en Roma ya en el siglo IV, en este día, para poner de manifiesto la unidad de la Iglesia, fundada en la persona del Apóstol."]]}],"it":[{"k":"h2","lines":[["22 febbraio"],["CATTEDRA DI SAN PIETRO APOSTOLO"]]},{"k":"h3","lines":[["FESTA"]]},{"k":"p","lines":[["Nel linguaggio ecclesiastico la «cattedra» indica, in generale, la sede dalla quale il vescovo svolge le funzioni, a lui proprie, di insegnamento, di presidenza e di governo. La cattedra di Pietro, stabilita a Roma, presso la tomba dell'apostolo, «presiede alla comunione universale della carità» (Lumen gentium, 13). Già nella Depositio martyrum (336) la festa è attestata a Roma il 22 febbraio."]]}],"fr":[{"k":"h2","lines":[["22 février"],["CHAIRE DE SAINT PIERRE, APÔTRE"]]},{"k":"h3","lines":[["Fête"]]},{"k":"p","lines":[["La chaire d'un évêque, qui se dresse dans sa cathédrale, est le signe de son autorité de docteur, de souverain prêtre et de pasteur. La Chaire de saint Pierre rappelle la mission que le Christ a confiée à son apôtre. Pierre est le garant infaillible de la foi de ses frères ; la foi de Pierre est le rocher sur lequel le Seigneur a bâti son Église."]]}],"de":[{"k":"h2","lines":[["22. Februar"],["KATHEDRA PETRI"]]},{"k":"h3","lines":[["Fest"]]}]},"part":"title"},{"slot":"85","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Lc 22, 32"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Lc 22, 32"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Lk 22: 32"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Lc 22, 32"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Lc 22, 32"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Lc 22, 32"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Lk 22, 32"}]},"part":"entranceAntiphon"},{"slot":"86","text":{"la":[{"k":"p","lines":[["Dicit Dóminus Simóni Petro:"],["Ego rogávi pro te, ut non defíciat fides tua,"],["et tu aliquándo convérsus confírma fratres tuos."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor disse a Simão Pedro:"],["Eu rezei por ti, para que tua fé não se apague."],["E tu, uma vez convertido, fortalece os teus irmãos."]]}],"en-US":[{"k":"p","lines":[["The Lord says to Simon Peter:"],["I have prayed for you that your faith may not fail,"],["and, once you have turned back, strengthen your brothers."]]}],"es":[{"k":"p","lines":[["El Señor dice a Simón Pedro: «Yo he pedido por ti, para que tu fe no se apague, y tú, cuando te hayas convertido, confirma a tus hermanos»."]]}],"it":[{"k":"p","lines":[["Dice il Signore a Simon Pietro: «Io ho pregato per te, perché la tua fede non venga meno. E tu, una volta convertito, conferma i tuoi fratelli»."]]}],"fr":[{"k":"p","lines":[["Le Seigneur dit à Pierre :"],["« J'ai prié pour toi, afin que ta foi ne défaille pas ;"],["Toi donc, quand tu seras revenu, affermis tes frères. »"]]}],"de":[{"k":"p","lines":[["Der Herr sprach zu Simon Petrus: Ich habe für dich gebetet, damit dein Glaube nicht erlischt. Und wenn du wieder zurückgefunden hast, dann stärke deine Brüder."]]}]},"part":"entranceAntiphon"},{"slot":"87","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},"Glória",{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Das "},{"m":"italic","t":"Gloria "},{"m":"rubric","t":"wird gebetet. "}]]}]},"part":"gloria"},{"slot":"88","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"89","text":{"la":[{"k":"p","lines":[["Præsta, quǽsumus, omnípotens Deus,"],["ut nullis nos permíttas perturbatiónibus cóncuti,"],["quos in apostólicæ confessiónis petra solidásti."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Concedei, ó Deus onipotente,"],["que não sejam abalados por nenhuma perturbação"],["aqueles que edificastes sobre a pedra"],["da apostólica confissão de fé."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, almighty God,"],["that no tempests may disturb us,"],["for you have set us fast"],["on the rock of the Apostle Peter's confession of faith. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso,"],["no permitas que seamos sacudidos por ninguna perturbación"],["quienes hemos sido afianzados"],["sobre la roca de la confesión apostólica."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, concedi che tra gli sconvolgimenti del mondo non si turbi la tua Chiesa, che hai fondato sulla roccia della professione di fede dell'apostolo Pietro. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Dieu tout-puissant :"],["fais que rien ne parvienne à nous ébranler,"],["puisque tu nous as établis solidement"],["sur la pierre de la foi confessée par ton apôtre."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, das gläubige Bekenntnis des Apostels Petrus ist der Felsen, auf den du deine Kirche gegründet hast. Lass nicht zu, dass Verwirrung und Stürme unseren Glauben erschüttern. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"90","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"91","text":{"la":[{"k":"p","lines":[["Ecclésiæ tuæ, quǽsumus, Dómine,"],["preces et hóstias benígnus admítte,"],["ut, beáto Petro pastóre,"],["ad ætérnam pervéniat hereditátem,"],["quo docénte fídei tenet integritátem."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, acolhei com bondade"],["as oferendas e orações da vossa Igreja,"],["para que, tendo Pedro como pastor,"],["alcance a herança eterna,"],["pois seu magistério"],["nos garante a integridade da fé."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Accept with favor, O Lord, we pray,"],["the prayers and offerings of your Church, that, with Saint Peter as her shepherd, she may come to an eternal inheritance, for it is through his teaching"],["that she holds the faith in its integrity."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Acepta con bondad, Señor,"],["las oraciones y ofrendas de tu Iglesia,"],["para que llegue a la heredad eterna"],["bajo el cuidado pastoral de san Pedro,"],["cuyo magisterio sostiene la integridad de la fe."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli con bontà, o Padre, le preghiere e le offerte della tua Chiesa, perché con l'insegnamento del beato apostolo Pietro manteniamo integra la fede e sotto la sua guida giungiamo all'eredità eterna. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dans ta bonté, Seigneur,"],["accepte l'offrande et la prière de ton Église :"],["puisqu'elle tient de l'enseignement du bienheureux Pierre"],["l'intégrité de la foi,"],["fais que, sous la conduite d'un tel pasteur,"],["elle parvienne à l'héritage éternel."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, nimm die Gebete und Gaben deiner Kirche an. Hilf uns, unter der Führung des Apostels Petrus am unverfälschten Glauben festzuhalten, damit wir das ewige Erbe deiner Kinder erlangen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"93","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Mt 16, 16. 18"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Mt 16, 16. 18"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Mt 16: 16, 18"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Mt 16, 16. 18"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Mt 16, 16.18"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Mt 16, 16. 18"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Vgl. Mt 16, 16. 18"}]},"part":"communionAntiphon"},{"slot":"94","text":{"la":[{"k":"p","lines":[["Dixit Petrus ad Iesum: Tu es Christus, Fílius Dei vivi."],["Respondit Iesus: Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam."]]}],"pt-BR":[{"k":"p","lines":[["Simão Pedro disse a Jesus:"],["Tu és o Cristo, o Filho do Deus vivo."],["Jesus então declarou:"],["Tu és Pedro, e sobre esta pedra construirei a minha Igreja."]]}],"en-US":[{"k":"p","lines":[["Peter said to Jesus: You are the Christ, the Son of the living God."],["And Jesus replied: You are Peter, and upon this rock I will build my Church."]]}],"es":[{"k":"p","lines":[["Simón Pedro dijo a Jesús: «Tú eres el Mesías, el Hijo de Dios vivo». Jesús le respondió: «Tú eres Pedro y sobre esta piedra edificaré mi Iglesia»."]]}],"it":[{"k":"p","lines":[["Simon Pietro disse a Gesù: «Tu sei il Cristo, il Figlio del Dio vivente». Rispose Gesù: «Tu sei Pietro, e su questa pietra edificherò la mia Chiesa»."]]}],"fr":[{"k":"p","lines":[["Pierre dit à Jésus : « Tu es le Christ,"],["le Fils du Dieu vivant. »"],["Jésus lui répondit : « Tu es Pierre,"],["et sur cette pierre je bâtirai mon Église. »"]]}],"de":[{"k":"p","lines":[["Petrus sagte zu Jesus: Du bist der Messias, der Sohn des lebendigen Gottes. Jesus antwortete ihm: Du bist Petrus, und auf diesen Felsen werde ich meine Kirche bauen."]]}]},"part":"communionAntiphon"},{"slot":"95","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"96","text":{"la":[{"k":"p","lines":[["Deus, qui nos, beáti Petri apóstoli festivitátem celebrántes,"],["Christi Córporis et Sánguinis communióne vegetásti,"],["præsta, quǽsumus, ut hoc redemptiónis commércium"],["sit sacraméntum nobis unitátis et pacis."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, ao celebrarmos a festa do apóstolo Pedro,"],["nos fortalecestes pela comunhão do Corpo e do Sangue de Cristo;"],["fazei que este convívio redentor"],["seja para nós sacramento de unidade e de paz."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["O God, who at our celebration"],["of the feast day of the blessed Apostle Peter"],["have nourished us by communion in the Body and Blood of Christ, grant, we pray, that this redeeming exchange"],["may be for us a Sacrament of unity and peace."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que nos has alimentado"],["con la comunión del Cuerpo y la Sangre de Cristo"],["al celebrar la festividad de san Pedro, apóstol,"],["concédenos que este intercambio de redención"],["sea para nosotros sacramento de unidad y de paz."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Dio, che nella festa dell'apostolo Pietro ci hai rinvigoriti con la comunione al Corpo e al Sangue di Cristo, fa' che questo santo scambio, nel quale si attua la nostra redenzione, sia per noi sacramento di unità e di pace. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Tu nous as fortifiés, Seigneur Dieu,"],["en cette fête du bienheureux apôtre Pierre,"],["par la communion au Corps et au Sang du Christ ;"],["que cet échange où nous sommes rachetés"],["soit pour nous sacrement d'unité et de paix."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast dem heiligen Petrus aufgetragen, seine Brüder im Glauben zu stärken. An seinem Fest haben wir den Leib und das Blut Christi empfangen. Gib uns durch diese Speise die Kraft, in der Einheit der Kirche zu bleiben und in brüderlicher Liebe miteinander zu leben. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"97","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Adhiberi potest formula sollemnis."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Pode-se usar a fórmula da Solene."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Solemn formula may be used."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se puede utilizar la fórmula de la solemne."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On peut utiliser la formule de la solennelle."}]]}]},"part":"prayerOverPeople","role":"rubric"}],"precedence":7,"lectionary":"sanctorale.02-22","prefaces":["preface.50"],"title":{"la":"CATHEDRÆ S. PETRI, APOSTOLI","pt-BR":"CÁTEDRA DE SÃO PEDRO, APÓSTOLO","en-US":"THE CHAIR OF SAINT PETER, APOSTLE","es":"LA CÁTEDRA DEL APÓSTOL SAN PEDRO","it":"CATTEDRA DI SAN PIETRO APOSTOLO","fr":"CHAIRE DE SAINT PIERRE, APÔTRE","de":"KATHEDRA PETRI"},"subtitle":{"la":"Festum","pt-BR":"Festa","en-US":"Feast","es":"Fiesta","it":"FESTA","fr":"Fête","de":"Fest"}}
+{
+ "id": "sanctorale.02-22",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 22 februarii"
+       ],
+       [
+        "CATHEDRÆ S. PETRI, APOSTOLI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Festum"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Festum Cathedræ Petri hac die iam a sæculo IV Romæ celebratum est, ad unitatem Ecclesiæ super Apostolum fundatæ significandam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "22 de fevereiro"
+       ],
+       [
+        "CÁTEDRA DE SÃO PEDRO, APÓSTOLO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Festa"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A atual celebração deste dia, sob o símbolo da Cátedra, salienta a missão de mestre e pastor conferida por Cristo a São Pedro. Pelo Senhor, ele e seus sucessores foram constituídos princípio e fundamento visível da unidade da Igreja. A ",
+        {
+         "m": "italic",
+         "t": "\"Depositio Martyrum\""
+        },
+        " (354) recorda o ",
+        {
+         "m": "italic",
+         "t": "\"Natale Petri de Cathedra\""
+        },
+        " a 22 de fevereiro."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "February 22"
+       ],
+       [
+        "THE CHAIR OF SAINT PETER, APOSTLE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Feast"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "22 de febrero"
+       ],
+       [
+        "LA CÁTEDRA DEL APÓSTOL SAN PEDRO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fiesta"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La festividad de la Cátedra de san Pedro se celebraba en Roma ya en el siglo IV, en este día, para poner de manifiesto la unidad de la Iglesia, fundada en la persona del Apóstol."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "22 febbraio"
+       ],
+       [
+        "CATTEDRA DI SAN PIETRO APOSTOLO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "FESTA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nel linguaggio ecclesiastico la «cattedra» indica, in generale, la sede dalla quale il vescovo svolge le funzioni, a lui proprie, di insegnamento, di presidenza e di governo. La cattedra di Pietro, stabilita a Roma, presso la tomba dell'apostolo, «presiede alla comunione universale della carità» (Lumen gentium, 13). Già nella Depositio martyrum (336) la festa è attestata a Roma il 22 febbraio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "22 février"
+       ],
+       [
+        "CHAIRE DE SAINT PIERRE, APÔTRE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fête"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La chaire d'un évêque, qui se dresse dans sa cathédrale, est le signe de son autorité de docteur, de souverain prêtre et de pasteur. La Chaire de saint Pierre rappelle la mission que le Christ a confiée à son apôtre. Pierre est le garant infaillible de la foi de ses frères ; la foi de Pierre est le rocher sur lequel le Seigneur a bâti son Église."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "22. Februar"
+       ],
+       [
+        "KATHEDRA PETRI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fest"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Lc 22, 32"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Lc 22, 32"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Lk 22: 32"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Lc 22, 32"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Lc 22, 32"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Lc 22, 32"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Lk 22, 32"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit Dóminus Simóni Petro:"
+       ],
+       [
+        "Ego rogávi pro te, ut non defíciat fides tua,"
+       ],
+       [
+        "et tu aliquándo convérsus confírma fratres tuos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor disse a Simão Pedro:"
+       ],
+       [
+        "Eu rezei por ti, para que tua fé não se apague."
+       ],
+       [
+        "E tu, uma vez convertido, fortalece os teus irmãos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord says to Simon Peter:"
+       ],
+       [
+        "I have prayed for you that your faith may not fail,"
+       ],
+       [
+        "and, once you have turned back, strengthen your brothers."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor dice a Simón Pedro: «Yo he pedido por ti, para que tu fe no se apague, y tú, cuando te hayas convertido, confirma a tus hermanos»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dice il Signore a Simon Pietro: «Io ho pregato per te, perché la tua fede non venga meno. E tu, una volta convertito, conferma i tuoi fratelli»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur dit à Pierre :"
+       ],
+       [
+        "« J'ai prié pour toi, afin que ta foi ne défaille pas ;"
+       ],
+       [
+        "Toi donc, quand tu seras revenu, affermis tes frères. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr sprach zu Simon Petrus: Ich habe für dich gebetet, damit dein Glaube nicht erlischt. Und wenn du wieder zurückgefunden hast, dann stärke deine Brüder."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        "Glória",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria "
+        },
+        {
+         "m": "rubric",
+         "t": "wird gebetet. "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Præsta, quǽsumus, omnípotens Deus,"
+       ],
+       [
+        "ut nullis nos permíttas perturbatiónibus cóncuti,"
+       ],
+       [
+        "quos in apostólicæ confessiónis petra solidásti."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedei, ó Deus onipotente,"
+       ],
+       [
+        "que não sejam abalados por nenhuma perturbação"
+       ],
+       [
+        "aqueles que edificastes sobre a pedra"
+       ],
+       [
+        "da apostólica confissão de fé."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, almighty God,"
+       ],
+       [
+        "that no tempests may disturb us,"
+       ],
+       [
+        "for you have set us fast"
+       ],
+       [
+        "on the rock of the Apostle Peter's confession of faith. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "no permitas que seamos sacudidos por ninguna perturbación"
+       ],
+       [
+        "quienes hemos sido afianzados"
+       ],
+       [
+        "sobre la roca de la confesión apostólica."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, concedi che tra gli sconvolgimenti del mondo non si turbi la tua Chiesa, che hai fondato sulla roccia della professione di fede dell'apostolo Pietro. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Dieu tout-puissant :"
+       ],
+       [
+        "fais que rien ne parvienne à nous ébranler,"
+       ],
+       [
+        "puisque tu nous as établis solidement"
+       ],
+       [
+        "sur la pierre de la foi confessée par ton apôtre."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, das gläubige Bekenntnis des Apostels Petrus ist der Felsen, auf den du deine Kirche gegründet hast. Lass nicht zu, dass Verwirrung und Stürme unseren Glauben erschüttern. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecclésiæ tuæ, quǽsumus, Dómine,"
+       ],
+       [
+        "preces et hóstias benígnus admítte,"
+       ],
+       [
+        "ut, beáto Petro pastóre,"
+       ],
+       [
+        "ad ætérnam pervéniat hereditátem,"
+       ],
+       [
+        "quo docénte fídei tenet integritátem."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, acolhei com bondade"
+       ],
+       [
+        "as oferendas e orações da vossa Igreja,"
+       ],
+       [
+        "para que, tendo Pedro como pastor,"
+       ],
+       [
+        "alcance a herança eterna,"
+       ],
+       [
+        "pois seu magistério"
+       ],
+       [
+        "nos garante a integridade da fé."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accept with favor, O Lord, we pray,"
+       ],
+       [
+        "the prayers and offerings of your Church, that, with Saint Peter as her shepherd, she may come to an eternal inheritance, for it is through his teaching"
+       ],
+       [
+        "that she holds the faith in its integrity."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acepta con bondad, Señor,"
+       ],
+       [
+        "las oraciones y ofrendas de tu Iglesia,"
+       ],
+       [
+        "para que llegue a la heredad eterna"
+       ],
+       [
+        "bajo el cuidado pastoral de san Pedro,"
+       ],
+       [
+        "cuyo magisterio sostiene la integridad de la fe."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli con bontà, o Padre, le preghiere e le offerte della tua Chiesa, perché con l'insegnamento del beato apostolo Pietro manteniamo integra la fede e sotto la sua guida giungiamo all'eredità eterna. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans ta bonté, Seigneur,"
+       ],
+       [
+        "accepte l'offrande et la prière de ton Église :"
+       ],
+       [
+        "puisqu'elle tient de l'enseignement du bienheureux Pierre"
+       ],
+       [
+        "l'intégrité de la foi,"
+       ],
+       [
+        "fais que, sous la conduite d'un tel pasteur,"
+       ],
+       [
+        "elle parvienne à l'héritage éternel."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, nimm die Gebete und Gaben deiner Kirche an. Hilf uns, unter der Führung des Apostels Petrus am unverfälschten Glauben festzuhalten, damit wir das ewige Erbe deiner Kinder erlangen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Mt 16, 16. 18"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Mt 16, 16. 18"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Mt 16: 16, 18"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Mt 16, 16. 18"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Mt 16, 16.18"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Mt 16, 16. 18"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Vgl. Mt 16, 16. 18"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixit Petrus ad Iesum: Tu es Christus, Fílius Dei vivi."
+       ],
+       [
+        "Respondit Iesus: Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Simão Pedro disse a Jesus:"
+       ],
+       [
+        "Tu és o Cristo, o Filho do Deus vivo."
+       ],
+       [
+        "Jesus então declarou:"
+       ],
+       [
+        "Tu és Pedro, e sobre esta pedra construirei a minha Igreja."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Peter said to Jesus: You are the Christ, the Son of the living God."
+       ],
+       [
+        "And Jesus replied: You are Peter, and upon this rock I will build my Church."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Simón Pedro dijo a Jesús: «Tú eres el Mesías, el Hijo de Dios vivo». Jesús le respondió: «Tú eres Pedro y sobre esta piedra edificaré mi Iglesia»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Simon Pietro disse a Gesù: «Tu sei il Cristo, il Figlio del Dio vivente». Rispose Gesù: «Tu sei Pietro, e su questa pietra edificherò la mia Chiesa»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pierre dit à Jésus : « Tu es le Christ,"
+       ],
+       [
+        "le Fils du Dieu vivant. »"
+       ],
+       [
+        "Jésus lui répondit : « Tu es Pierre,"
+       ],
+       [
+        "et sur cette pierre je bâtirai mon Église. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Petrus sagte zu Jesus: Du bist der Messias, der Sohn des lebendigen Gottes. Jesus antwortete ihm: Du bist Petrus, und auf diesen Felsen werde ich meine Kirche bauen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui nos, beáti Petri apóstoli festivitátem celebrántes,"
+       ],
+       [
+        "Christi Córporis et Sánguinis communióne vegetásti,"
+       ],
+       [
+        "præsta, quǽsumus, ut hoc redemptiónis commércium"
+       ],
+       [
+        "sit sacraméntum nobis unitátis et pacis."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, ao celebrarmos a festa do apóstolo Pedro,"
+       ],
+       [
+        "nos fortalecestes pela comunhão do Corpo e do Sangue de Cristo;"
+       ],
+       [
+        "fazei que este convívio redentor"
+       ],
+       [
+        "seja para nós sacramento de unidade e de paz."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who at our celebration"
+       ],
+       [
+        "of the feast day of the blessed Apostle Peter"
+       ],
+       [
+        "have nourished us by communion in the Body and Blood of Christ, grant, we pray, that this redeeming exchange"
+       ],
+       [
+        "may be for us a Sacrament of unity and peace."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que nos has alimentado"
+       ],
+       [
+        "con la comunión del Cuerpo y la Sangre de Cristo"
+       ],
+       [
+        "al celebrar la festividad de san Pedro, apóstol,"
+       ],
+       [
+        "concédenos que este intercambio de redención"
+       ],
+       [
+        "sea para nosotros sacramento de unidad y de paz."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che nella festa dell'apostolo Pietro ci hai rinvigoriti con la comunione al Corpo e al Sangue di Cristo, fa' che questo santo scambio, nel quale si attua la nostra redenzione, sia per noi sacramento di unità e di pace. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu nous as fortifiés, Seigneur Dieu,"
+       ],
+       [
+        "en cette fête du bienheureux apôtre Pierre,"
+       ],
+       [
+        "par la communion au Corps et au Sang du Christ ;"
+       ],
+       [
+        "que cet échange où nous sommes rachetés"
+       ],
+       [
+        "soit pour nous sacrement d'unité et de paix."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast dem heiligen Petrus aufgetragen, seine Brüder im Glauben zu stärken. An seinem Fest haben wir den Leib und das Blut Christi empfangen. Gib uns durch diese Speise die Kraft, in der Einheit der Kirche zu bleiben und in brüderlicher Liebe miteinander zu leben. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Adhiberi potest formula sollemnis."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pode-se usar a fórmula da Solene."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Solemn formula may be used."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se puede utilizar la fórmula de la solemne."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On peut utiliser la formule de la solennelle."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople",
+   "role": "rubric"
+  }
+ ],
+ "precedence": 7,
+ "lectionary": "sanctorale.02-22",
+ "prefaces": [
+  "preface.50"
+ ],
+ "title": {
+  "la": "CATHEDRÆ S. PETRI, APOSTOLI",
+  "pt-BR": "CÁTEDRA DE SÃO PEDRO, APÓSTOLO",
+  "en-US": "THE CHAIR OF SAINT PETER, APOSTLE",
+  "es": "LA CÁTEDRA DEL APÓSTOL SAN PEDRO",
+  "it": "CATTEDRA DI SAN PIETRO APOSTOLO",
+  "fr": "CHAIRE DE SAINT PIERRE, APÔTRE",
+  "de": "KATHEDRA PETRI"
+ },
+ "subtitle": {
+  "la": "Festum",
+  "pt-BR": "Festa",
+  "en-US": "Feast",
+  "es": "Fiesta",
+  "it": "FESTA",
+  "fr": "Fête",
+  "de": "Fest"
+ }
+}

@@ -1,1 +1,1512 @@
-{"id":"votive.14","source":"comunes_votivas/votivas#0014","kind":"votive","items":[{"slot":"161","text":{"la":[{"k":"h2","lines":[["10. DE BEATA MARIA VIRGINE"]]},{"k":"p","lines":[[{"m":"rubric","t":"In his Missis adhibetur color albus."}]]},{"k":"h3","lines":[["C"],["De sanctissimo nomine Maríæ"]]}],"pt-BR":[{"k":"h2","lines":[["10. BEM-AVENTURADA VIRGEM MARIA"]]},{"k":"p","lines":[[{"m":"rubric","t":"Estas Missas celebram-se com vestes sagradas de cor branca."}]]},{"k":"h3","lines":[["C"],["O Santíssimo Nome de Maria"]]}],"en-US":[{"k":"h2","lines":[["10. THE BLESSED VIRGIN MARY"]]},{"k":"p","lines":[[{"m":"rubric","t":"In these Masses, the color white is used."}]]},{"k":"h3","lines":[["C"],["The Most Holy Name of Mary"]]}],"es":[{"k":"h2","lines":[["10. DE LA BIENAVENTURADA VIRGEN MARIA"]]},{"k":"h3","lines":[["C"],["Del Dulce Nombre de María"]]},{"k":"p","lines":[[{"m":"rubric","t":"En estas misas se utiliza el color blanco."}]]}],"it":[{"k":"h2","lines":[["10. DELLA BEATA VERGINE MARIA"]]},{"k":"h3","lines":[["C"],["Del santissimo Nome di Maria"]]}],"fr":[{"k":"h2","lines":[["10. De la Bienheureuse Vierge Marie"]]},{"k":"p","lines":[[{"m":"rubric","t":"Pour cette messe, on emploie la couleur blanche."}]]},{"k":"h3","lines":[["C"],["Du saint Nom de Marie"]]}],"de":[{"k":"h2","lines":[["10. VON DER SELIGEN JUNGFRAU MARIA"]]},{"k":"p","lines":[[{"m":"rubric","t":"Diese Messen werden in weißer Farbe gefeiert."}]]},{"k":"h3","lines":[["C"],["VOM NAMEN MARIÄ"]]}]},"part":"title"},{"slot":"162","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Iudt 13, 18-19"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Jd 13, 18-19"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Jdt 13, 23.25"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Jdt 13, 23.25"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Gdt 13, 18-19"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Iudt 13, 18-19"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Jdt 13, 18-19"}]},"part":"entranceAntiphon"},{"slot":"163","text":{"la":[{"k":"p","lines":[["Benedícta es tu, Virgo María, a Dómino Deo excélso præ ómnibus muliéribus super terram; quia nomen tuum ita magnificávit, ut non recédat laus tua de ore hóminum."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor Deus vos abençoou, Virgem Maria, mais que a todas as mulheres da terra. Ele exaltou o vosso nome; todos os povos cantem vosso louvor."]]}],"en-US":[{"k":"p","lines":[["The Most Holy Name of Mary"],["blessed are you, o virgin Mary, by the Lord God Most high, above all women on the earth;"],["for he has so exalted your Name,"],["that your praise shall be undying on our lips."]]}],"es":[{"k":"p","lines":[["El Señor Dios altísimo te ha bendecido, Virgen María, entre todas las mujeres de la tierra; porque ha sido glorificado tu nombre de tal modo que tu alabanza está siempre en la boca de todos."]]}],"it":[{"k":"p","lines":[["Benedetta sei tu, Vergine Maria, davanti al Dio altissimo più di tutte le donne della terra: egli ha magnificato il tuo nome; non verrà meno la tua lode sulla bocca degli uomini."]]}],"fr":[{"k":"p","lines":[["Tu es bénie, Vierge Marie, par le Seigneur, le Dieu Très-Haut,"],["plus que toutes les femmes de la terre ;"],["il a magnifié ton nom,"],["et jamais ta louange ne quittera la bouche des hommes."]]}],"de":[{"k":"p","lines":[["Gesegnet bist du, Jungfrau Maria, vom Herrn, dem erhabenen Gott, vor allen Frauen auf Erden; denn er hat deinen Namen so verherrlicht, dass dein Lob nicht verstummt im Munde der Menschen."]]}]},"part":"entranceAntiphon"},{"slot":"164","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"165","text":{"la":[{"k":"p","lines":[["Deus, qui beátam Vírginem Maríam, grátia tua plenam, inter mulíeres elegísti, ut Fílii tui, Redemptóris nostri, fíeret Mater; concéde nobis, qui sanctum nomen eius venerámur, præséntis témporis perícula declináre, et vitam cum ipsa cónsequi ætérnam. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, vós escolhestes entre todas as mulheres, a Bem-aventurada Virgem Maria, cheia da vossa graça, para se tornar a Mãe do vosso Filho, nosso Redentor; a nós, que veneramos o seu santo nome, concedei que sejamos preservados dos perigos do tempo presente e alcancemos com ela a vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who chose the Blessed Virgin Mary,"],["full of your grace, from among women"],["to become the mother of your Son, our Redeemer,"],["mercifully grant that, venerating her holy name,"],["we may escape the dangers of this present age"],["and obtain with her life eternal."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que elegiste entre todas las mujeres"],["a la bienaventurada Virgen María, llena de tu gracia,"],["para hacerla Madre de tu Hijo, redentor nuestro,"],["concede a quienes veneramos su santo Nombre"],["superar los peligros del tiempo presente"],["y obtener con ella la vida eterna."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["CO Dio, che fra tutte le donne hai scelto la beata Vergine Maria e l'hai ricolmata della tua grazia perché divenisse Madre del tuo Figlio, nostro redentore, concedi a noi, che veneriamo il suo santo nome, di essere liberati dai mali che oggi ci opprimono e di ottenere con lei la vita eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as choisi entre les femmes"],["la bienheureuse Vierge Marie, pleine de ta grâce,"],["pour qu'elle devienne la mère de ton Fils, notre Rédempteur ;"],["puisque nous vénérons son saint nom,"],["accorde-nous d'échapper aux dangers du temps présent"],["et d'obtenir avec elle la vie éternelle."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, unserer Retter, der Name der seligen Jungfrau Maria ist für uns ein Zeichen der Hoffnung geworden. Befreie uns auf ihre Fürsprache aus allen Gefahren und vollende an uns das Werk der Erlösung. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"166","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"collect","role":"rubric"},{"slot":"167","text":{"la":[{"k":"p","lines":[["Deus, cuius Fílius in ara crucis exspírans beatíssimam Vírginem Maríam Matrem vóluit esse nostram, quam suam elégerat, concéde propítius, ut, qui sub eius præsídium secúre confúgimus, matérno invocáto nómine confortémur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, vosso Filho, ao morrer no altar da cruz, quis que a Bem-aventurada Virgem Maria, escolhida por ele como sua própria Mãe, fosse também nossa Mãe. Fazei que, pela invocação do seu nome materno, nos refugiemos sob seu seguro amparo. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, whose son, dying on the altar of the Cross, willed that the most Blessed Virgin Mary,"],["whom he had chosen as his mother,"],["should be our mother also,"],["graciously grant, we pray,"],["that we, who fly to her protection,"],["may find comfort by invoking our mother's name."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["cuyo Hijo al expirar en el ara de la cruz,"],["quiso que la santísima Virgen María,"],["elegida como Madre suya,"],["fuera también madre nuestra,"],["concédenos en tu bondad"],["que seamos fortalecidos"],["por la invocación de su Nombre maternal"],["quienes nos refugiamos seguros bajo su amparo."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, il tuo unico Figlio, morente sulla croce, ha voluto che la beatissima Vergine Maria, sua Madre, fosse anche Madre nostra: concedi a noi, che cerchiamo rifugio sotto la sua protezione, di trovare conforto nella dolcezza del suo nome. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["ton Fils, en mourant sur l'autel de la croix,"],["a voulu nous donner pour mère"],["la bienheureuse Vierge Marie, la mère qu'il s'était choisie ;"],["puisqu'avec confiance nous cherchons refuge dans sa protection,"],["accorde-nous de trouver un réconfort"],["en invoquant son nom."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr und Gott, dein Sohn hat vor seinem Sterben am Kreuz die selige Jungfrau Maria, die zu seiner Mutter erwählt war, auch uns zur Mutter gegeben. Stärke uns, die wir unter ihrem Schutz(mantel) Zuflucht suchen und ihren mütterlichen Namen anrufen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"168","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"169","text":{"la":[{"k":"p","lines":[["Munéribus, Dómine, oblátis inténde, ut corda nostra, Sancti Spíritus illustratióne perfúsa, beáta María semper Vírgine intercedénte, Christo Fílio tuo iúgiter stúdeant adhærére. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Olhai, Senhor, para os dons que vos apresentamos, para que, penetrados pela luz do Espírito Santo e com a intercessão da Bem-aventurada sempre Virgem Maria, nossos corações procurem sem cessar estar unidos ao vosso Filho Jesus Cristo. Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Look favorably on the offerings made here, o Lord,"],["that through the intercession of Blessed Mary ever-Virgin our hearts, filled with the light of the Holy Spirit,"],["may constantly strive to cling to Christ, your Son."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Mira, Señor, estos dones ofrecidos,"],["para que nuestros corazones,"],["llenos de la luz del Espíritu Santo,"],["por la intercesión de santa María, siempre Virgen,"],["se esfuercen continuamente en adherirse a Cristo tu Hijo."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Accogli, o Padre, i nostri doni e, per intercessione della beata sempre Vergine Maria, fa' che i nostri cuori, illuminati dallo Spirito Santo, siano uniti sempre più a Cristo tuo Figlio. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Regarde, Seigneur, les dons que nous t'offrons ;"],["que, par l'intercession de la bienheureuse Marie toujours vierge,"],["nos cœurs, éclairés par la lumière du Saint-Esprit,"],["s'efforcent de rester attachés à ton Fils, le Christ."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["..."]]}]},"part":"prayerOverOfferings"},{"slot":"170","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"172","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Lc 1, 26-27"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Lc 1, 26-27"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Lk 1: 26-27"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Lc 1, 26-27"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Lc 1, 26-27"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Lc 1, 26-27"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Vgl. Lk 1, 26-27"}]},"part":"communionAntiphon"},{"slot":"173","text":{"la":[{"k":"p","lines":[["Missus est ángelus Gábriel a Deo ad vírginem, et nomen vírginis María."]]}],"pt-BR":[{"k":"p","lines":[["O anjo Gabriel foi enviado por Deus a uma virgem, e o nome da virgem era Maria."]]}],"en-US":[{"k":"p","lines":[["The angel Gabriel was sent from God to a virgin, and the virgin's Name was Mary."]]}],"es":[{"k":"p","lines":[["El ángel Gabriel fue enviado por Dios a una virgen, el nombre de la virgen era María."]]}],"it":[{"k":"p","lines":[["L'angelo Gabriele fu mandato da Dio a una vergine di nome Maria."]]}],"fr":[{"k":"p","lines":[["L'ange Gabriel fut envoyé par Dieu à une vierge,"],["et le nom de la vierge était Marie."]]}],"de":[{"k":"p","lines":[["Der Engel Gabriel wurde von Gott zu einer Jungfrau gesandt. Der Name der Jungfrau war Maria."]]}]},"part":"communionAntiphon"},{"slot":"174","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"175","text":{"la":[{"k":"p","lines":[["Tríbue nobis, quǽsumus, Dómine, quos ad verbi et sacraménti mensam roborásti, ut, beátæ Maríæ ductu et patrocínio, et illa respuámus, quæ Christiáno inimíca sunt nómini et ea, quæ sunt apta, sectémur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Concedei, Senhor, aos que revigorastes na mesa da palavra e do sacramento, conduzidos pela orientação e amparo da Bem-aventurada Virgem Maria, rejeitar o que não convém ao cristão e abraçar tudo o que é digno deste nome. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant us, we pray, o Lord,"],["whom you have strengthened at the table of word and sacrament, that, with Blessed Mary as our patron and guide,"],["we may reject whatever is contrary to the name of Christian"],["and follow whatever accords with it."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te pedimos, Señor, nos concedas"],["que, fortalecidos en la mesa de la palabra y el sacramento,"],["bajo la guía y patrocinio de santa María,"],["rechacemos lo que es contrario al nombre cristiano"],["y cumplamos cuanto en él se significa."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, che ci hai nutriti alla mensa della tua parola e del pane di vita, donaci, con l'aiuto della Vergine Maria, di respingere ciò che è contrario al nome cristiano e di seguire ciò che gli è conforme. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Tu as refait nos forces, Seigneur,"],["à la table de la Parole et du sacrement ;"],["nous t'en prions, accorde-nous,"],["sous la conduite et la protection de la bienheureuse Marie,"],["de rejeter ce qui est contraire au nom de chrétien"],["et de rechercher ce qui lui fait honneur."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["..."]]}]},"part":"postcommunion"}],"prefaces":["preface.43","preface.44","preface.45","preface.46","preface.47"],"title":{"la":"10. DE BEATA MARIA VIRGINE","pt-BR":"10. BEM-AVENTURADA VIRGEM MARIA","en-US":"10. THE BLESSED VIRGIN MARY","es":"10. DE LA BIENAVENTURADA VIRGEN MARIA","it":"10. DELLA BEATA VERGINE MARIA","fr":"10. De la Bienheureuse Vierge Marie","de":"10. VON DER SELIGEN JUNGFRAU MARIA"},"subtitle":{"la":"C De sanctissimo nomine Maríæ","pt-BR":"C O Santíssimo Nome de Maria","en-US":"C The Most Holy Name of Mary","es":"C Del Dulce Nombre de María","it":"C Del santissimo Nome di Maria","fr":"C Du saint Nom de Marie","de":"C VOM NAMEN MARIÄ"}}
+{
+ "id": "votive.14",
+ "kind": "votive",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. DE BEATA MARIA VIRGINE"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In his Missis adhibetur color albus."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "C"
+       ],
+       [
+        "De sanctissimo nomine Maríæ"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. BEM-AVENTURADA VIRGEM MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Estas Missas celebram-se com vestes sagradas de cor branca."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "C"
+       ],
+       [
+        "O Santíssimo Nome de Maria"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. THE BLESSED VIRGIN MARY"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In these Masses, the color white is used."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "C"
+       ],
+       [
+        "The Most Holy Name of Mary"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. DE LA BIENAVENTURADA VIRGEN MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "C"
+       ],
+       [
+        "Del Dulce Nombre de María"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "En estas misas se utiliza el color blanco."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. DELLA BEATA VERGINE MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "C"
+       ],
+       [
+        "Del santissimo Nome di Maria"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. De la Bienheureuse Vierge Marie"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pour cette messe, on emploie la couleur blanche."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "C"
+       ],
+       [
+        "Du saint Nom de Marie"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. VON DER SELIGEN JUNGFRAU MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diese Messen werden in weißer Farbe gefeiert."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "C"
+       ],
+       [
+        "VOM NAMEN MARIÄ"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Iudt 13, 18-19"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Jd 13, 18-19"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Jdt 13, 23.25"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Jdt 13, 23.25"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Gdt 13, 18-19"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Iudt 13, 18-19"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Jdt 13, 18-19"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedícta es tu, Virgo María, a Dómino Deo excélso præ ómnibus muliéribus super terram; quia nomen tuum ita magnificávit, ut non recédat laus tua de ore hóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor Deus vos abençoou, Virgem Maria, mais que a todas as mulheres da terra. Ele exaltou o vosso nome; todos os povos cantem vosso louvor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Most Holy Name of Mary"
+       ],
+       [
+        "blessed are you, o virgin Mary, by the Lord God Most high, above all women on the earth;"
+       ],
+       [
+        "for he has so exalted your Name,"
+       ],
+       [
+        "that your praise shall be undying on our lips."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor Dios altísimo te ha bendecido, Virgen María, entre todas las mujeres de la tierra; porque ha sido glorificado tu nombre de tal modo que tu alabanza está siempre en la boca de todos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedetta sei tu, Vergine Maria, davanti al Dio altissimo più di tutte le donne della terra: egli ha magnificato il tuo nome; non verrà meno la tua lode sulla bocca degli uomini."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu es bénie, Vierge Marie, par le Seigneur, le Dieu Très-Haut,"
+       ],
+       [
+        "plus que toutes les femmes de la terre ;"
+       ],
+       [
+        "il a magnifié ton nom,"
+       ],
+       [
+        "et jamais ta louange ne quittera la bouche des hommes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gesegnet bist du, Jungfrau Maria, vom Herrn, dem erhabenen Gott, vor allen Frauen auf Erden; denn er hat deinen Namen so verherrlicht, dass dein Lob nicht verstummt im Munde der Menschen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui beátam Vírginem Maríam, grátia tua plenam, inter mulíeres elegísti, ut Fílii tui, Redemptóris nostri, fíeret Mater; concéde nobis, qui sanctum nomen eius venerámur, præséntis témporis perícula declináre, et vitam cum ipsa cónsequi ætérnam. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, vós escolhestes entre todas as mulheres, a Bem-aventurada Virgem Maria, cheia da vossa graça, para se tornar a Mãe do vosso Filho, nosso Redentor; a nós, que veneramos o seu santo nome, concedei que sejamos preservados dos perigos do tempo presente e alcancemos com ela a vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who chose the Blessed Virgin Mary,"
+       ],
+       [
+        "full of your grace, from among women"
+       ],
+       [
+        "to become the mother of your Son, our Redeemer,"
+       ],
+       [
+        "mercifully grant that, venerating her holy name,"
+       ],
+       [
+        "we may escape the dangers of this present age"
+       ],
+       [
+        "and obtain with her life eternal."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que elegiste entre todas las mujeres"
+       ],
+       [
+        "a la bienaventurada Virgen María, llena de tu gracia,"
+       ],
+       [
+        "para hacerla Madre de tu Hijo, redentor nuestro,"
+       ],
+       [
+        "concede a quienes veneramos su santo Nombre"
+       ],
+       [
+        "superar los peligros del tiempo presente"
+       ],
+       [
+        "y obtener con ella la vida eterna."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "CO Dio, che fra tutte le donne hai scelto la beata Vergine Maria e l'hai ricolmata della tua grazia perché divenisse Madre del tuo Figlio, nostro redentore, concedi a noi, che veneriamo il suo santo nome, di essere liberati dai mali che oggi ci opprimono e di ottenere con lei la vita eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as choisi entre les femmes"
+       ],
+       [
+        "la bienheureuse Vierge Marie, pleine de ta grâce,"
+       ],
+       [
+        "pour qu'elle devienne la mère de ton Fils, notre Rédempteur ;"
+       ],
+       [
+        "puisque nous vénérons son saint nom,"
+       ],
+       [
+        "accorde-nous d'échapper aux dangers du temps présent"
+       ],
+       [
+        "et d'obtenir avec elle la vie éternelle."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unserer Retter, der Name der seligen Jungfrau Maria ist für uns ein Zeichen der Hoffnung geworden. Befreie uns auf ihre Fürsprache aus allen Gefahren und vollende an uns das Werk der Erlösung. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, cuius Fílius in ara crucis exspírans beatíssimam Vírginem Maríam Matrem vóluit esse nostram, quam suam elégerat, concéde propítius, ut, qui sub eius præsídium secúre confúgimus, matérno invocáto nómine confortémur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, vosso Filho, ao morrer no altar da cruz, quis que a Bem-aventurada Virgem Maria, escolhida por ele como sua própria Mãe, fosse também nossa Mãe. Fazei que, pela invocação do seu nome materno, nos refugiemos sob seu seguro amparo. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, whose son, dying on the altar of the Cross, willed that the most Blessed Virgin Mary,"
+       ],
+       [
+        "whom he had chosen as his mother,"
+       ],
+       [
+        "should be our mother also,"
+       ],
+       [
+        "graciously grant, we pray,"
+       ],
+       [
+        "that we, who fly to her protection,"
+       ],
+       [
+        "may find comfort by invoking our mother's name."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "cuyo Hijo al expirar en el ara de la cruz,"
+       ],
+       [
+        "quiso que la santísima Virgen María,"
+       ],
+       [
+        "elegida como Madre suya,"
+       ],
+       [
+        "fuera también madre nuestra,"
+       ],
+       [
+        "concédenos en tu bondad"
+       ],
+       [
+        "que seamos fortalecidos"
+       ],
+       [
+        "por la invocación de su Nombre maternal"
+       ],
+       [
+        "quienes nos refugiamos seguros bajo su amparo."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, il tuo unico Figlio, morente sulla croce, ha voluto che la beatissima Vergine Maria, sua Madre, fosse anche Madre nostra: concedi a noi, che cerchiamo rifugio sotto la sua protezione, di trovare conforto nella dolcezza del suo nome. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "ton Fils, en mourant sur l'autel de la croix,"
+       ],
+       [
+        "a voulu nous donner pour mère"
+       ],
+       [
+        "la bienheureuse Vierge Marie, la mère qu'il s'était choisie ;"
+       ],
+       [
+        "puisqu'avec confiance nous cherchons refuge dans sa protection,"
+       ],
+       [
+        "accorde-nous de trouver un réconfort"
+       ],
+       [
+        "en invoquant son nom."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr und Gott, dein Sohn hat vor seinem Sterben am Kreuz die selige Jungfrau Maria, die zu seiner Mutter erwählt war, auch uns zur Mutter gegeben. Stärke uns, die wir unter ihrem Schutz(mantel) Zuflucht suchen und ihren mütterlichen Namen anrufen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Munéribus, Dómine, oblátis inténde, ut corda nostra, Sancti Spíritus illustratióne perfúsa, beáta María semper Vírgine intercedénte, Christo Fílio tuo iúgiter stúdeant adhærére. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Olhai, Senhor, para os dons que vos apresentamos, para que, penetrados pela luz do Espírito Santo e com a intercessão da Bem-aventurada sempre Virgem Maria, nossos corações procurem sem cessar estar unidos ao vosso Filho Jesus Cristo. Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look favorably on the offerings made here, o Lord,"
+       ],
+       [
+        "that through the intercession of Blessed Mary ever-Virgin our hearts, filled with the light of the Holy Spirit,"
+       ],
+       [
+        "may constantly strive to cling to Christ, your Son."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mira, Señor, estos dones ofrecidos,"
+       ],
+       [
+        "para que nuestros corazones,"
+       ],
+       [
+        "llenos de la luz del Espíritu Santo,"
+       ],
+       [
+        "por la intercesión de santa María, siempre Virgen,"
+       ],
+       [
+        "se esfuercen continuamente en adherirse a Cristo tu Hijo."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, o Padre, i nostri doni e, per intercessione della beata sempre Vergine Maria, fa' che i nostri cuori, illuminati dallo Spirito Santo, siano uniti sempre più a Cristo tuo Figlio. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Regarde, Seigneur, les dons que nous t'offrons ;"
+       ],
+       [
+        "que, par l'intercession de la bienheureuse Marie toujours vierge,"
+       ],
+       [
+        "nos cœurs, éclairés par la lumière du Saint-Esprit,"
+       ],
+       [
+        "s'efforcent de rester attachés à ton Fils, le Christ."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "..."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 26-27"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 26-27"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Lk 1: 26-27"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 26-27"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 26-27"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 26-27"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Vgl. Lk 1, 26-27"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Missus est ángelus Gábriel a Deo ad vírginem, et nomen vírginis María."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O anjo Gabriel foi enviado por Deus a uma virgem, e o nome da virgem era Maria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The angel Gabriel was sent from God to a virgin, and the virgin's Name was Mary."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El ángel Gabriel fue enviado por Dios a una virgen, el nombre de la virgen era María."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'angelo Gabriele fu mandato da Dio a una vergine di nome Maria."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'ange Gabriel fut envoyé par Dieu à une vierge,"
+       ],
+       [
+        "et le nom de la vierge était Marie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Engel Gabriel wurde von Gott zu einer Jungfrau gesandt. Der Name der Jungfrau war Maria."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tríbue nobis, quǽsumus, Dómine, quos ad verbi et sacraménti mensam roborásti, ut, beátæ Maríæ ductu et patrocínio, et illa respuámus, quæ Christiáno inimíca sunt nómini et ea, quæ sunt apta, sectémur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedei, Senhor, aos que revigorastes na mesa da palavra e do sacramento, conduzidos pela orientação e amparo da Bem-aventurada Virgem Maria, rejeitar o que não convém ao cristão e abraçar tudo o que é digno deste nome. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant us, we pray, o Lord,"
+       ],
+       [
+        "whom you have strengthened at the table of word and sacrament, that, with Blessed Mary as our patron and guide,"
+       ],
+       [
+        "we may reject whatever is contrary to the name of Christian"
+       ],
+       [
+        "and follow whatever accords with it."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Señor, nos concedas"
+       ],
+       [
+        "que, fortalecidos en la mesa de la palabra y el sacramento,"
+       ],
+       [
+        "bajo la guía y patrocinio de santa María,"
+       ],
+       [
+        "rechacemos lo que es contrario al nombre cristiano"
+       ],
+       [
+        "y cumplamos cuanto en él se significa."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, che ci hai nutriti alla mensa della tua parola e del pane di vita, donaci, con l'aiuto della Vergine Maria, di respingere ciò che è contrario al nome cristiano e di seguire ciò che gli è conforme. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu as refait nos forces, Seigneur,"
+       ],
+       [
+        "à la table de la Parole et du sacrement ;"
+       ],
+       [
+        "nous t'en prions, accorde-nous,"
+       ],
+       [
+        "sous la conduite et la protection de la bienheureuse Marie,"
+       ],
+       [
+        "de rejeter ce qui est contraire au nom de chrétien"
+       ],
+       [
+        "et de rechercher ce qui lui fait honneur."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "..."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.43",
+  "preface.44",
+  "preface.45",
+  "preface.46",
+  "preface.47"
+ ],
+ "title": {
+  "la": "10. DE BEATA MARIA VIRGINE",
+  "pt-BR": "10. BEM-AVENTURADA VIRGEM MARIA",
+  "en-US": "10. THE BLESSED VIRGIN MARY",
+  "es": "10. DE LA BIENAVENTURADA VIRGEN MARIA",
+  "it": "10. DELLA BEATA VERGINE MARIA",
+  "fr": "10. De la Bienheureuse Vierge Marie",
+  "de": "10. VON DER SELIGEN JUNGFRAU MARIA"
+ },
+ "subtitle": {
+  "la": "C De sanctissimo nomine Maríæ",
+  "pt-BR": "C O Santíssimo Nome de Maria",
+  "en-US": "C The Most Holy Name of Mary",
+  "es": "C Del Dulce Nombre de María",
+  "it": "C Del santissimo Nome di Maria",
+  "fr": "C Du saint Nom de Marie",
+  "de": "C VOM NAMEN MARIÄ"
+ }
+}

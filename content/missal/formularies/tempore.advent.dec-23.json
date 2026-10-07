@@ -1,1 +1,1178 @@
-{"id":"tempore.advent.dec-23","source":"tiempos/tiempos_advnav#A123","kind":"tempore","items":[{"slot":"339","text":{"la":[{"k":"h2","lines":[["IN FERIIS ADVENTUS"],["a Die 17 ad diem 24 decembris"],["Die 23 decembris"]]}],"pt-BR":[{"k":"h2","lines":[["PARA OS DIAS DE SEMANA DO ADVENTO"],["de 17 a 24 de dezembro"],["23 de dezembro"]]}],"en-US":[{"k":"h2","lines":[["Weekdays of Advent"],["December 17 to December 24"],["23 December"]]}],"es":[{"k":"h2","lines":[["FERIAS DE ADVIENTO"],["desde el 17 al 24 de diciembre"],["23 de diciembre"]]}],"it":[{"k":"h2","lines":[["FERIE DI AVVENTO"],["dal 17 al 24 dicembre"],["23 dicembre"]]}],"fr":[{"k":"h2","lines":[["IN FERIIS ADVENTUS"],["Du 17 au 24 décembre"],["23 décembre"]]}],"de":[{"k":"h2","lines":[["DIE WOCHENTAGE"],["VOM 17. BIS 24. DEZEMBER"],["23. Dezember"]]}]},"part":"title"},{"slot":"340","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Is 9, 6; Ps 71, 17"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Is 9, 6; Sl 71, 17"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Is 9: 5; Ps 72 (71): 17"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Is 9, 6; Ps 71, 17"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cfr. Is 9, 6; Sal 71, 17"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Is 9, 6; Ps 71, 17"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Jes 9, 5; Ps 72 (71), 17"}]},"part":"entranceAntiphon"},{"slot":"341","text":{"la":[{"k":"p","lines":[["Nascétur nobis párvulus, et vocábitur Deus, Fortis; in ipso benedicéntur omnes tribus terræ."]]}],"pt-BR":[{"k":"p","lines":[["Nascerá para nós um pequenino:"],["ele será chamado Deus Forte;"],["nele serão abençoados"],["todos os povos da terra."]]}],"en-US":[{"k":"p","lines":[["A child shall be born for us,"],["and he will be called God, the Almighty; every tribe of the earth shall be blest in him."]]}],"es":[{"k":"p","lines":[["Un niño nos va a nacer y su nombre es: Dios fuerte; él sea la bendición de todos los pueblos."]]}],"it":[{"k":"p","lines":[["Nascerà per noi un bambino e il suo nome sarà: Dio potente; in lui saranno benedette tutte le stirpi della terra."]]}],"fr":[{"k":"p","lines":[["Un enfant va naître pour nous ; on l'appellera Dieu Fort :"],["en lui seront bénies toutes les familles de la terre."]]}],"de":[{"k":"p","lines":[["Ein Kind wird uns geboren, und man nennt ihn: Starker Gott. In ihm werden sich segnen alle Völker der Erde."]]}]},"part":"entranceAntiphon"},{"slot":"342","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"343","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus, nativitátem Fílii tui secúndum carnem propinquáre cernéntes, quǽsumus, ut nobis indígnis fámulis tuis misericórdiam præstet Verbum, quod ex Vírgine María dignátum est caro fíeri, et in nobis habitáre Iesus Christus, Dóminus noster. Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso,"],["ao vermos aproximar-se"],["o nascimento do vosso Filho segundo a carne,"],["nós, vossos indignos servos, pedimos"],["que se compadeça de nós o vosso Verbo,"],["nosso Senhor Jesus Cristo,"],["que se dignou encarnar-se no seio da Virgem Maria"],["e habitar entre nós."],["Ele, que é· Deus, e convosco vive e reina,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God,"],["as we see how the Nativity of your Son"],["according to the flesh draws near,"],["we pray that to us, your unworthy servants,"],["mercy may flow from your Word,"],["who chose to become flesh of the Virgin Mary"],["and establish among us his dwelling,"],["Jesus Christ our Lord."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["al ver que se acerca el nacimiento"],["de tu Hijo según la carne,"],["te pedimos que nosotros,"],["indignos siervos tuyos,"],["recibamos la misericordia"],["del Verbo, Jesucristo, Señor nuestro,"],["que se ha dignado encarnarse en la Virgen María"],["y habitar entre nosotros."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, contemplando ormai vicina la nascita del tuo Figlio, rivolgiamo a te la nostra preghiera: ci soccorra nella nostra indegnità il Verbo che si è fatto uomo nascendo dalla Vergine Maria e si è degnato di abitare in mezzo a noi. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["tandis que nous voyons approcher"],["la naissance de ton Fils selon la chair,"],["nous te prions :"],["que ton Verbe fasse miséricorde"],["aux indignes serviteurs que nous sommes,"],["lui, Jésus le Christ, notre Seigneur,"],["qui daigna prendre chair de la Vierge Marie"],["et habiter parmi nous."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, schon naht das Fest der Geburt deines Sohnes, der aus Maria, der Jungfrau, Fleisch angenommen hat, um unser Los zu teilen. Wir bitten dich: Dein ewiges Wort komme und wohne unter uns mit seinem Erbarmen, unser Herr Jesus Christus, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"344","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"345","text":{"la":[{"k":"p","lines":[["Hæc oblátio, qua divíni cultus nobis est índita plenitúdo, sit tibi, Dómine, perfécta placátio, ut nostri Redemptóris exórdia purificátis méntibus celebrémus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Esta oblação, Senhor,"],["pela qual nos é dada a plenitude do culto divino,"],["nos reconcilie perfeitamente convosco,"],["para que possamos celebrar de coração purificado"],["o nascimento do nosso Redentor."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["May this oblation,"],["by which divine worship in its fullness"],["has been inaugurated for us,"],["be our perfect reconciliation with you, O Lord, that we may celebrate with minds made pure the Nativity of our Redeemer."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Señor, que esta oblación,"],["en la que alcanza su plenitud el culto"],["que el hombre puede tributarte,"],["restablezca nuestra amistad contigo;"],["así celebraremos, con el alma purificada,"],["el nacimiento de nuestro Redentor."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Questo sacrificio, nel quale ci fu data la pienezza del culto divino, sia per noi, o Signore, riconciliazione perfetta con te, perché con animo purificato possiamo celebrare la nascita del nostro redentore. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Que cette offrande te soit agréable, Seigneur,"],["elle qui nous introduit dans la plénitude du culte divin ;"],["puissions-nous ainsi célébrer avec un esprit purifié"],["la naissance de notre Rédempteur."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Heiliger Gott, du hast uns diese Opferfeier geschenkt als höchsten Lobpreis, den wir dir darbringen können. Sie versöhne uns mit dir und reinige uns von unseren Sünden, damit wir mit lauterem Herzen das Geburtsfest unseres Erlösers begehen, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"prayerOverOfferings"},{"slot":"347","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Ap 3, 20"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Ap 3, 20"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Rev 3: 20"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Ap 3, 20"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Ap 3, 20"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Ap 3, 20"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Offb 3, 20"}]},"part":"communionAntiphon"},{"slot":"348","text":{"la":[{"k":"p","lines":[["Ecce sto ad óstium et pulso: si quis audíerit vocem meam, et aperúerit mihi iánuam, intrábo ad illum, et cenábo cum illo, et ipse mecum."]]}],"pt-BR":[{"k":"p","lines":[["Eis que estou à porta e bato;"],["se alguém ouvir minha voz e abrir a porta,"],["eu entrarei na sua casa e tomaremos a refeição,"],["eu com ele e ele comigo."]]}],"en-US":[{"k":"p","lines":[["Behold, I stand at the door and knock:"],["if anyone hears my voice and opens the door to me,"],["I will enter his house and dine with him, and he with me."]]}],"es":[{"k":"p","lines":[["Mira, estoy de pie a la puerta y llamo. Si alguien escucha mi voz y abre la puerta, entraré en su casa y cenaré con él y él conmigo."]]}],"it":[{"k":"p","lines":[["Ecco: sto alla porta e busso. Se qualcuno ascolta la mia voce e mi apre la porta, io verrò da lui, cenerò con lui ed egli con me."],[{"m":"rubric","t":"Oppure:"}],["A Zaccaria si sciolse la lingua e parlava benedicendo Dio. Il popolo che udiva, diceva: «Che sarà mai questo bambino?». Davvero la mano del Signore era con lui."]],"cite":"Cf. Lc 1, 64.66"}],"fr":[{"k":"p","lines":[["Voici que je me tiens à la porte"],["et je frappe, dit le Seigneur ;"],["Si quelqu'un entend ma voix et ouvre la porte,"],["j'entrerai chez lui,"],["je prendrai mon repas avec lui,"],["et lui avec moi."]]}],"de":[{"k":"p","lines":[["Ich stehe an der Tür und klopfe. Wenn einer meine Stimme hört und die Tür öffnet, werde ich bei ihm eintreten, und ich werde mit ihm Mahl halten und er mit mir."]]}]},"part":"communionAntiphon"},{"slot":"349","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"350","text":{"la":[{"k":"p","lines":[["Cælésti múnere satiátis, Dómine, pacem tuam propitiátus indúlge, ut Fílio tuo dilectíssimo veniénti accénsis lampádibus digni præstolémur occúrsum. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Concedei, Senhor, perdão e paz"],["aos que saciastes com os dons celestes,"],["para que possamos, com lâmpadas acesas,"],["ir ao encontro do vosso amado Filho que se aproxima."],["Ele, que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant your peace, O Lord,"],["to those you have nourished with these heavenly gifts, that we may be ready, with lighted lamps,"],["to meet your dearly beloved Son at his coming."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Alimentados con el don del cielo"],["danos benigno tu paz, Señor,"],["para que merezcamos salir,"],["con las lámparas encendidas,"],["al encuentro de tu Hijo muy amado que llega."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["O Signore, che ci hai saziati con il dono del cielo, accordaci la tua pace, perché siamo pronti ad andare incontro con le lampade accese al tuo amatissimo Figlio che viene. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dans ta bonté, accorde ta paix, Seigneur,"],["à ceux que tu as rassasiés d'un aliment venu du ciel,"],["pour que, gardant nos lampes allumées,"],["nous puissions attendre la rencontre"],["avec ton Fils bien-aimé qui vient."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, schenke uns Vergebung und Frieden durch das Sakrament, das wir empfangen haben, damit wir deinem Sohn mit brennenden Lampen entgegengehen können, wenn er kommt. Er, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"postcommunion"}],"precedence":9,"prefaces":["preface.2","preface.4"],"title":{"la":"IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 23 decembris","pt-BR":"PARA OS DIAS DE SEMANA DO ADVENTO — de 17 a 24 de dezembro — 23 de dezembro","en-US":"Weekdays of Advent — December 17 to December 24 — 23 December","es":"FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 23 de diciembre","it":"FERIE DI AVVENTO — dal 17 al 24 dicembre — 23 dicembre","fr":"IN FERIIS ADVENTUS — Du 17 au 24 décembre — 23 décembre","de":"DIE WOCHENTAGE — VOM 17. BIS 24. DEZEMBER — 23. Dezember"}}
+{
+ "id": "tempore.advent.dec-23",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN FERIIS ADVENTUS"
+       ],
+       [
+        "a Die 17 ad diem 24 decembris"
+       ],
+       [
+        "Die 23 decembris"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "PARA OS DIAS DE SEMANA DO ADVENTO"
+       ],
+       [
+        "de 17 a 24 de dezembro"
+       ],
+       [
+        "23 de dezembro"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Weekdays of Advent"
+       ],
+       [
+        "December 17 to December 24"
+       ],
+       [
+        "23 December"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "FERIAS DE ADVIENTO"
+       ],
+       [
+        "desde el 17 al 24 de diciembre"
+       ],
+       [
+        "23 de diciembre"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "FERIE DI AVVENTO"
+       ],
+       [
+        "dal 17 al 24 dicembre"
+       ],
+       [
+        "23 dicembre"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN FERIIS ADVENTUS"
+       ],
+       [
+        "Du 17 au 24 décembre"
+       ],
+       [
+        "23 décembre"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DIE WOCHENTAGE"
+       ],
+       [
+        "VOM 17. BIS 24. DEZEMBER"
+       ],
+       [
+        "23. Dezember"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Is 9, 6; Ps 71, 17"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Is 9, 6; Sl 71, 17"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Is 9: 5; Ps 72 (71): 17"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Is 9, 6; Ps 71, 17"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cfr. Is 9, 6; Sal 71, 17"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Is 9, 6; Ps 71, 17"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Jes 9, 5; Ps 72 (71), 17"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nascétur nobis párvulus, et vocábitur Deus, Fortis; in ipso benedicéntur omnes tribus terræ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nascerá para nós um pequenino:"
+       ],
+       [
+        "ele será chamado Deus Forte;"
+       ],
+       [
+        "nele serão abençoados"
+       ],
+       [
+        "todos os povos da terra."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A child shall be born for us,"
+       ],
+       [
+        "and he will be called God, the Almighty; every tribe of the earth shall be blest in him."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un niño nos va a nacer y su nombre es: Dios fuerte; él sea la bendición de todos los pueblos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nascerà per noi un bambino e il suo nome sarà: Dio potente; in lui saranno benedette tutte le stirpi della terra."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un enfant va naître pour nous ; on l'appellera Dieu Fort :"
+       ],
+       [
+        "en lui seront bénies toutes les familles de la terre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ein Kind wird uns geboren, und man nennt ihn: Starker Gott. In ihm werden sich segnen alle Völker der Erde."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus, nativitátem Fílii tui secúndum carnem propinquáre cernéntes, quǽsumus, ut nobis indígnis fámulis tuis misericórdiam præstet Verbum, quod ex Vírgine María dignátum est caro fíeri, et in nobis habitáre Iesus Christus, Dóminus noster. Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "ao vermos aproximar-se"
+       ],
+       [
+        "o nascimento do vosso Filho segundo a carne,"
+       ],
+       [
+        "nós, vossos indignos servos, pedimos"
+       ],
+       [
+        "que se compadeça de nós o vosso Verbo,"
+       ],
+       [
+        "nosso Senhor Jesus Cristo,"
+       ],
+       [
+        "que se dignou encarnar-se no seio da Virgem Maria"
+       ],
+       [
+        "e habitar entre nós."
+       ],
+       [
+        "Ele, que é· Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "as we see how the Nativity of your Son"
+       ],
+       [
+        "according to the flesh draws near,"
+       ],
+       [
+        "we pray that to us, your unworthy servants,"
+       ],
+       [
+        "mercy may flow from your Word,"
+       ],
+       [
+        "who chose to become flesh of the Virgin Mary"
+       ],
+       [
+        "and establish among us his dwelling,"
+       ],
+       [
+        "Jesus Christ our Lord."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "al ver que se acerca el nacimiento"
+       ],
+       [
+        "de tu Hijo según la carne,"
+       ],
+       [
+        "te pedimos que nosotros,"
+       ],
+       [
+        "indignos siervos tuyos,"
+       ],
+       [
+        "recibamos la misericordia"
+       ],
+       [
+        "del Verbo, Jesucristo, Señor nuestro,"
+       ],
+       [
+        "que se ha dignado encarnarse en la Virgen María"
+       ],
+       [
+        "y habitar entre nosotros."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, contemplando ormai vicina la nascita del tuo Figlio, rivolgiamo a te la nostra preghiera: ci soccorra nella nostra indegnità il Verbo che si è fatto uomo nascendo dalla Vergine Maria e si è degnato di abitare in mezzo a noi. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "tandis que nous voyons approcher"
+       ],
+       [
+        "la naissance de ton Fils selon la chair,"
+       ],
+       [
+        "nous te prions :"
+       ],
+       [
+        "que ton Verbe fasse miséricorde"
+       ],
+       [
+        "aux indignes serviteurs que nous sommes,"
+       ],
+       [
+        "lui, Jésus le Christ, notre Seigneur,"
+       ],
+       [
+        "qui daigna prendre chair de la Vierge Marie"
+       ],
+       [
+        "et habiter parmi nous."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, schon naht das Fest der Geburt deines Sohnes, der aus Maria, der Jungfrau, Fleisch angenommen hat, um unser Los zu teilen. Wir bitten dich: Dein ewiges Wort komme und wohne unter uns mit seinem Erbarmen, unser Herr Jesus Christus, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc oblátio, qua divíni cultus nobis est índita plenitúdo, sit tibi, Dómine, perfécta placátio, ut nostri Redemptóris exórdia purificátis méntibus celebrémus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esta oblação, Senhor,"
+       ],
+       [
+        "pela qual nos é dada a plenitude do culto divino,"
+       ],
+       [
+        "nos reconcilie perfeitamente convosco,"
+       ],
+       [
+        "para que possamos celebrar de coração purificado"
+       ],
+       [
+        "o nascimento do nosso Redentor."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May this oblation,"
+       ],
+       [
+        "by which divine worship in its fullness"
+       ],
+       [
+        "has been inaugurated for us,"
+       ],
+       [
+        "be our perfect reconciliation with you, O Lord, that we may celebrate with minds made pure the Nativity of our Redeemer."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, que esta oblación,"
+       ],
+       [
+        "en la que alcanza su plenitud el culto"
+       ],
+       [
+        "que el hombre puede tributarte,"
+       ],
+       [
+        "restablezca nuestra amistad contigo;"
+       ],
+       [
+        "así celebraremos, con el alma purificada,"
+       ],
+       [
+        "el nacimiento de nuestro Redentor."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questo sacrificio, nel quale ci fu data la pienezza del culto divino, sia per noi, o Signore, riconciliazione perfetta con te, perché con animo purificato possiamo celebrare la nascita del nostro redentore. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que cette offrande te soit agréable, Seigneur,"
+       ],
+       [
+        "elle qui nous introduit dans la plénitude du culte divin ;"
+       ],
+       [
+        "puissions-nous ainsi célébrer avec un esprit purifié"
+       ],
+       [
+        "la naissance de notre Rédempteur."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heiliger Gott, du hast uns diese Opferfeier geschenkt als höchsten Lobpreis, den wir dir darbringen können. Sie versöhne uns mit dir und reinige uns von unseren Sünden, damit wir mit lauterem Herzen das Geburtsfest unseres Erlösers begehen, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Ap 3, 20"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Ap 3, 20"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Rev 3: 20"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Ap 3, 20"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Ap 3, 20"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Ap 3, 20"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Offb 3, 20"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce sto ad óstium et pulso: si quis audíerit vocem meam, et aperúerit mihi iánuam, intrábo ad illum, et cenábo cum illo, et ipse mecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eis que estou à porta e bato;"
+       ],
+       [
+        "se alguém ouvir minha voz e abrir a porta,"
+       ],
+       [
+        "eu entrarei na sua casa e tomaremos a refeição,"
+       ],
+       [
+        "eu com ele e ele comigo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Behold, I stand at the door and knock:"
+       ],
+       [
+        "if anyone hears my voice and opens the door to me,"
+       ],
+       [
+        "I will enter his house and dine with him, and he with me."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mira, estoy de pie a la puerta y llamo. Si alguien escucha mi voz y abre la puerta, entraré en su casa y cenaré con él y él conmigo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecco: sto alla porta e busso. Se qualcuno ascolta la mia voce e mi apre la porta, io verrò da lui, cenerò con lui ed egli con me."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "A Zaccaria si sciolse la lingua e parlava benedicendo Dio. Il popolo che udiva, diceva: «Che sarà mai questo bambino?». Davvero la mano del Signore era con lui."
+       ]
+      ],
+      "cite": "Cf. Lc 1, 64.66"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici que je me tiens à la porte"
+       ],
+       [
+        "et je frappe, dit le Seigneur ;"
+       ],
+       [
+        "Si quelqu'un entend ma voix et ouvre la porte,"
+       ],
+       [
+        "j'entrerai chez lui,"
+       ],
+       [
+        "je prendrai mon repas avec lui,"
+       ],
+       [
+        "et lui avec moi."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich stehe an der Tür und klopfe. Wenn einer meine Stimme hört und die Tür öffnet, werde ich bei ihm eintreten, und ich werde mit ihm Mahl halten und er mit mir."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cælésti múnere satiátis, Dómine, pacem tuam propitiátus indúlge, ut Fílio tuo dilectíssimo veniénti accénsis lampádibus digni præstolémur occúrsum. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedei, Senhor, perdão e paz"
+       ],
+       [
+        "aos que saciastes com os dons celestes,"
+       ],
+       [
+        "para que possamos, com lâmpadas acesas,"
+       ],
+       [
+        "ir ao encontro do vosso amado Filho que se aproxima."
+       ],
+       [
+        "Ele, que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant your peace, O Lord,"
+       ],
+       [
+        "to those you have nourished with these heavenly gifts, that we may be ready, with lighted lamps,"
+       ],
+       [
+        "to meet your dearly beloved Son at his coming."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alimentados con el don del cielo"
+       ],
+       [
+        "danos benigno tu paz, Señor,"
+       ],
+       [
+        "para que merezcamos salir,"
+       ],
+       [
+        "con las lámparas encendidas,"
+       ],
+       [
+        "al encuentro de tu Hijo muy amado que llega."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, che ci hai saziati con il dono del cielo, accordaci la tua pace, perché siamo pronti ad andare incontro con le lampade accese al tuo amatissimo Figlio che viene. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans ta bonté, accorde ta paix, Seigneur,"
+       ],
+       [
+        "à ceux que tu as rassasiés d'un aliment venu du ciel,"
+       ],
+       [
+        "pour que, gardant nos lampes allumées,"
+       ],
+       [
+        "nous puissions attendre la rencontre"
+       ],
+       [
+        "avec ton Fils bien-aimé qui vient."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, schenke uns Vergebung und Frieden durch das Sakrament, das wir empfangen haben, damit wir deinem Sohn mit brennenden Lampen entgegengehen können, wenn er kommt. Er, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 9,
+ "prefaces": [
+  "preface.2",
+  "preface.4"
+ ],
+ "title": {
+  "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 23 decembris",
+  "pt-BR": "PARA OS DIAS DE SEMANA DO ADVENTO — de 17 a 24 de dezembro — 23 de dezembro",
+  "en-US": "Weekdays of Advent — December 17 to December 24 — 23 December",
+  "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 23 de diciembre",
+  "it": "FERIE DI AVVENTO — dal 17 al 24 dicembre — 23 dicembre",
+  "fr": "IN FERIIS ADVENTUS — Du 17 au 24 décembre — 23 décembre",
+  "de": "DIE WOCHENTAGE — VOM 17. BIS 24. DEZEMBER — 23. Dezember"
+ }
+}

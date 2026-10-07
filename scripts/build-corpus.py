@@ -964,7 +964,7 @@ def build_books(b: Builder) -> None:
 
 
 def build_missal(b: Builder) -> None:
-    """The Ordinary Form missal (content/missal/, written by scripts/missal/build.py).
+    """The Ordinary Form missal (content/missal/).
 
     Every item is one multilingual blob; the app picks its languages
     client-side.
@@ -974,7 +974,7 @@ def build_missal(b: Builder) -> None:
       mass-lectionary/<id>         its readings
       mass-eucharistic-prayer/<id>
       mass-order/<id>              the Order of Mass, blessings, universal prayer
-      mass-extra/<id>              the General Instruction, devotionary, indices
+      mass-extra/<id>              the General Instruction, the priest's prayers, the devotionary
       mass-prefaces                every preface
       mass-calendar                the sanctoral table and the formulary index
     """

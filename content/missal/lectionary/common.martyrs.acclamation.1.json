@@ -1,0 +1,4275 @@
+{
+ "id": "common.martyrs.acclamation.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.martyrs.first-reading.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zacharias, quem occidistis inter templum et altare (Mt 23, 35)."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri secúndi Paralipómenon"
+       ]
+      ],
+      "cite": "24, 18-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dereliquérunt templum Dómini, Dei patrum suórum, servierúntque palis et sculptílibus, et facta est ira contra Iudam et Ierúsalem propter hoc peccátum. Mittebátque eis prophétas, ut reverteréntur ad Dóminum, quos protestántes illi audíre nolébant."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Spíritus ítaque Dei índuit Zacharíam fílium Ióiadæ sacerdótis; et stetit in conspéctu pópuli et dixit eis: «Hæc dicit Deus: Quare transgredímini præcépta Dómini, quod vobis non próderit? Quia dereliquístis Dóminum, ipse derelíquit vos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui coniuravérunt advérsus eum et lapidavérunt eum iuxta regis impérium in átrio domus Dómini. Et non est recordátus Ioas rex misericórdiæ, quam fécerat Ióiada pater illíus secum, sed interfécit fílium eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui cum morerétur, ait: «Vídeat Dóminus et requírat!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zacarias, a quem matastes entre o templo e o altar."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Segundo Livro das Crônicas"
+       ]
+      ],
+      "cite": "24, 18-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, os chefes de Judá abandonaram o templo do Senhor, o Deus de seus pais, e prestaram culto a troncos sagrados e a imagens esculpidas, atraindo a ira divina sobre Judá e Jerusalém por causa desse crime. O Senhor mandou-lhes profetas para que se convertessem a ele. Porém, por mais que estes protestassem, não lhe queriam dar ouvidos. Então o espírito de Deus apoderou-se de Zacarias, filho do sacerdote Joiada, e ele apresentou-se ao povo e disse: \"Assim fala Deus: Por que transgredis os preceitos do Senhor? Isto não vos será de nenhum proveito. Porque abandonastes o Senhor, ele também vos abandonará\". Eles, porém, conspiraram contra Zacarias e mataram-no à pedrada por ordem do rei, no pátio do templo do Senhor. O rei Joás não se lembrou do bem que Joiada, pai do profeta, lhe tinha feito, e matou o seu filho. Zacarias, ao morrer, disse: \"Que o Senhor veja e faça justiça!\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second Book of Chronicles"
+       ]
+      ],
+      "cite": "24:18-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Judaeans abandoned the Temple of the Lord, the God of their ancestors, for the worship of sacred poles and idols. Because of their guilt, God's anger fell on Judah and Jerusalem. He sent them prophets to bring them back to the Lord, but when these gave their message, they would not listen. The spirit of God took possession of Zechariah son of Jehoiada the priest. He stood up before the people and said, 'God says this, \"Why do you transgress the commandments of the Lord to no good purpose? You have deserted the Lord, now he deserts you.\"' They then plotted against him and by order of the king stoned him in the court of the Temple of the Lord. King Joash, forgetful of the kindness that Jehoiada, the father of Zechariah, had shown him, killed Jehoiada's son who cried out as he died, 'The Lord sees and he will avenge!'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zacarías, a quien matásteis entre el santuario y el altar"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del segundo libro de las Crónicas"
+       ]
+      ],
+      "cite": "24, 18-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, abandonaron el templo del Señor, Dios de sus padres, y sirvieron a los cipos y a los idolos. Por este pecado la cólera estalló contra Judá y Jerusalén. Les envió profetas para convertirlos al Señor, pero no hicieron caso de sus amonestaciones."
+       ],
+       [
+        "Entonces el Espíritu de Dios vino sobre Zacarías, hijo del sacerdote Joadá, que, erguido ante el pueblo, les dijo:"
+       ],
+       [
+        "«Así dice Dios: “¿Por qué quebrantáis los mandamientos del Señor? ¡No tendréis éxito! Por haber abandonado al Señor, él os abandonará”»."
+       ],
+       [
+        "Pero conspiraron contra él y, por mandato del rey, lo apedrearon en el atrio del templo del Señor. El rey Joás, olvidándose del amor que le profesaba Joadá, mató al hijo de este, que murió diciendo:"
+       ],
+       [
+        "«¡Que lo vea el Señor y lo demande!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Avete ucciso Zaccaria tra il santuario e l'altare (Mt 23, 35)."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal secondo libro delle Cronache"
+       ]
+      ],
+      "cite": "24, 18-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, [i comandanti di Giuda] trascurarono il tempio del Signore, Dio dei loro padri, per venerare i pali sacri e gli idoli. Per questa loro colpa l'ira di Dio fu su Giuda e su Gerusalemme. Il Signore mandò loro profeti perché li facessero ritornare a lui. Questi testimoniavano contro di loro, ma non furono ascoltati."
+       ],
+       [
+        "Allora lo spirito di Dio investì Zaccaria, figlio del sacerdote Ioiadà, che si alzò in mezzo al popolo e disse: «Dice Dio: \"perché trasgredite i comandi del Signore? Per questo non avete successo; poiché avete abbandonato il Signore, anch'egli vi abbandona\"»."
+       ],
+       [
+        "Ma congiurarono contro di lui e per ordine del re lo lapidarono nel cortile del tempio del Signore. Il re Ioas non si ricordò del favore fattogli da Ioiadà, padre di Zaccaria, ma ne uccise il figlio, che morendo disse: «Il Signore veda e ne chieda conto!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième livre des Chroniques"
+       ]
+      ],
+      "cite": "24, 18-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, les gens abandonnèrent la Maison du Seigneur, Dieu de"
+       ],
+       [
+        "leurs pères, pour servir les poteaux sacrés et les idoles. À cause de cette"
+       ],
+       [
+        "infidélité, la colère de Dieu s'abattit sur Juda et sur Jérusalem. Pour les"
+       ],
+       [
+        "ramener à lui, Dieu envoya chez eux des prophètes. Ceux-ci transmirent le"
+       ],
+       [
+        "message, mais personne ne les écouta. Dieu revêtit de son esprit Zacharie,"
+       ],
+       [
+        "le fils du prêtre Joad. Zacharie se présenta devant le peuple et lui dit :"
+       ],
+       [
+        "\" Ainsi parle Dieu : Pourquoi transgressez-vous les commandements du Seigneur ? Cela fera votre malheur : puisque vous avez abandonné le Seigneur, le Seigneur vous abandonne. \""
+       ],
+       [
+        "Ils s'ameutèrent alors contre lui et, par commandement du roi, le lapidèrent"
+       ],
+       [
+        "sur le parvis de la Maison du Seigneur. Le roi Joas, en faisant mourir"
+       ],
+       [
+        "Zacharie, fils de Joad, oubliait la fidélité que Joad lui avait témoignée."
+       ],
+       [
+        "Zacharie s'était écrié en mourant :"
+       ],
+       [
+        "\" Que le Seigneur le voie, et qu'il fasse justice ! \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Buch der Chronik"
+       ]
+      ],
+      "cite": "24, 18-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen"
+       ],
+       [
+        "verließen die führenden Männer Judas den Bund des Herrn, des Gottes ihrer Väter, und verehrten die Kultpfähle und Götzenbilder. Wegen dieser Schuld kam ein Zorngericht über Juda und Jerusalem. Der Herr schickte Propheten zu ihnen, um sie zur Umkehr zum Herrn zu bewegen, aber man hörte nicht auf ihre Warnung."
+       ],
+       [
+        "Da kam der Geist Gottes über Sechárja, den Sohn des Priesters Jojáda. Er trat vor das Volk und hielt ihm vor: So spricht Gott: Warum übertretet ihr die Gebote des Herrn? So könnt ihr kein Glück mehr haben. Weil ihr den Herrn verlassen habt, wird er euch verlassen."
+       ],
+       [
+        "Sie aber taten sich gegen ihn zusammen und steinigten ihn auf Befehl des Königs im Hof des Hauses des Herrn. König Joasch dachte nicht mehr an die Treue, mit der ihm Jojáda, der Vater Sechárjas, gedient hatte, sondern ließ dessen Sohn töten."
+       ],
+       [
+        "Dieser aber rief sterbend aus: Der Herr möge es sehen und vergelten."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.martyrs.first-reading.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.martyrs.first-reading.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.martyrs.first-reading-easter.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Domine Iesu, suscipe spiritum meum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Actuum Apostolórum"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum esset Stéphanus plenus Spíritu Sancto, inténdens in cælum vidit glóriam Dei et Iesum stantem a dextris Dei et ait: «Ecce vídeo cælos apértos et Fílium hóminis a dextris stantem Dei»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exclamántes autem voce magna continuérunt aures suas et ímpetum fecérunt unanímiter in eum et eiciéntes extra civitátem lapidábant. Et testes deposuérunt vestiménta sua secus pedes adulescéntis, qui vocabátur Saulus. Et lapidábant Stéphanum invocántem et dicéntem: «Dómine Iesu, súscipe spíritum meum». Pósitis autem génibus clamávit voce magna: «Dómine, ne státuas illis hoc peccátum»; et cum hoc dixísset, obdormívit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor Jesus, acolhe o meu espírito."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura dos Atos dos Apóstolos"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, Estêvão, cheio do Espírito Santo, olhou para o céu e viu a glória de Deus e Jesus de pé, à direita de Deus. E disse: \"Estou vendo o céu aberto e o Filho do Homem, de pé, à direita de Deus\". Mas eles, dando grandes gritos e tapando os ouvidos, avançavam todos juntos contra Estêvão, arrastaram-no para fora da cidade e começaram a apedrejá-lo. As testemunhas deixaram as suas vestes aos pés de um jovem chamado Saulo. Enquanto o apedrejavam, Estêvão clamou dizendo: \"Senhor Jesus, acolhe o me espirito\" Dobrando os joelhos, gritou com voz forte: \"Senhor, não os condenes por este pecado\" E, ao dizer isto, morreu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Acts of the Apostles"
+       ]
+      ],
+      "cite": "7:55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Stephen, filled with the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at God's right hand. 'I can see heaven thrown open' he said 'and the Son of Man standing at the right hand of God.' At this all the members of the council shouted out and stopped their ears with their hands; then they all rushed at him, sent him out of the city and stoned him. The witnesses put down their clothes at the feet of a young man called Saul. As they were stoning him, Stephen said in invocation, 'Lord Jesus, receive my spirit'. Then he knelt down and said aloud, 'Lord, do not hold this sin against them'; and with these words he fell asleep."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor Jesús, recibe mi espíritu"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de los Hechos de los apóstoles"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, Esteban, lleno de Espíritu Santo, fijando la mirada en el cielo, vio la gloria de Dios, y a Jesús de pie a la derecha de Dios, y dijo:"
+       ],
+       [
+        "«Veo los cielos abiertos y al Hijo del hombre de pie a la derecha de Dios»."
+       ],
+       [
+        "Dando un grito estentóreo, se taparon los oídos; y, çomo un solo hombre, se abalanzaron sobre él, lo empujaron fuera de la ciudad y se pusieron a apedrearlo. Los testigos dejaron sus capas a los pies de un joven llamado Saulo y se pusieron a apedrear a Esteban, que repetía esta invocación:"
+       ],
+       [
+        "«Señor Jesús, recibe mi espíritu»."
+       ],
+       [
+        "Luego, cayendo de rodillas y clamando con voz potente, dijo:"
+       ],
+       [
+        "«Señor, no les tengas en cuenta este pecado»."
+       ],
+       [
+        "Y, con estas palabras, murió."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore Gesù, accogli il mio spirito."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dagli Atti degli Apostoli"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, Stefano, pieno di Spirito Santo, fissando il cielo, vide la gloria di Dio e Gesù che stava alla destra di Dio e disse: «Ecco, contemplo i cieli aperti e il Figlio dell'uomo che sta alla destra di Dio»."
+       ],
+       [
+        "Allora, gridando a gran voce, si turarono gli orecchi e si scagliarono tutti insieme contro di lui, lo trascinarono fuori della città e si misero a lapidarlo. E i testimoni deposero i loro mantelli ai piedi di un giovane, chiamato Saulo."
+       ],
+       [
+        "E lapidavano Stefano, che pregava e diceva: «Signore Gesù, accogli il mio spirito». Poi piegò le ginocchia e gridò a gran voce: «Signore, non imputare loro questo peccato». Detto questo, morì."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre des Actes des Apôtres"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, Étienne était en face de ses accusateurs. Rempli de"
+       ],
+       [
+        "l'Esprit Saint, il fixait le ciel du regard : il vit la gloire de Dieu, et"
+       ],
+       [
+        "Jésus debout à la droite de Dieu. Il déclara :"
+       ],
+       [
+        "\" Voici que je contemple les cieux ouverts et le Fils de l'homme debout à la droite de Dieu. \""
+       ],
+       [
+        "Alors ils poussèrent de grands cris et se bouchèrent les oreilles. Tous"
+       ],
+       [
+        "ensemble, ils se précipitèrent sur lui, l'entraînèrent hors de la ville et"
+       ],
+       [
+        "se mirent à le lapider. Les témoins avaient déposé leurs vêtements aux pieds"
+       ],
+       [
+        "d'un jeune homme appelé Saul. Étienne, pendant qu'on le lapidait, priait"
+       ],
+       [
+        "ainsi : \" Seigneur Jésus, reçois mon esprit. \" Puis, se mettant à genoux, il"
+       ],
+       [
+        "s'écria d'une voix forte : \" Seigneur, ne leur compte pas ce péché. \" Et,"
+       ],
+       [
+        "après cette parole, il s'endormit dans la mort."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Apostelgeschichte"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen"
+       ],
+       [
+        "blickte Stephanus, erfüllt vom Heiligen Geist, zum Himmel empor, sah die Herrlichkeit Gottes und Jesus zur Rechten Gottes stehen und rief: Ich sehe den Himmel offen und den Menschensohn zur Rechten Gottes stehen."
+       ],
+       [
+        "Da erhoben sie ein lautes Geschrei, hielten sich die Ohren zu, stürmten gemeinsam auf ihn los, trieben ihn zur Stadt hinaus und steinigten ihn. Die Zeugen legten ihre Kleider zu Füßen eines jungen Mannes nieder, der Saulus hieß. So steinigten sie Stephanus; er aber betete und rief: Herr Jesus, nimm meinen Geist auf! Dann sank er in die Knie und schrie laut: Herr, rechne ihnen diese Sünde nicht an! Nach diesen Worten starb er."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.martyrs.first-reading-easter.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.martyrs.first-reading-easter.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.martyrs.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 30(31), 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 30, 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Dal Salmo 30 (31)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R: vgl. 6a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.martyrs.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In manus tuas, Dómine, comméndo spíritum meum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Em vossas mãos, Senhor, entrego o meu espírito."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Into your hands, O Lord, I entrust my spirit."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A tus manos, Señor, encomiendo mi espíritu."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Alle tue mani, Signore, affido il mio spirito."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "En tes mains, Seigneur, je remets mon esprit."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, in deine Hände lege ich meinen Geist."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.martyrs.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esto mihi in rupem præsídii,"
+       ],
+       [
+        "et in domum munítam, ut salvum me fácias."
+       ],
+       [
+        "Quóniam fortitúdo mea et refúgium meum es tu,"
+       ],
+       [
+        "et propter nomen tuum dedúces me et pasces me."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sede uma rocha protetora para mim, um abrigo bem seguro que me salve! Sim, sois vós a minha rocha e fortaleza; por vossa honra orientai-me e conduzi-me!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Be a rock of refuge for me, a mighty stronghold to save me, for you are my rock, my stronghold. For your name's sake, lead me and guide me."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sé la roca de mi refugio,"
+       ],
+       [
+        "un baluarte donde me salve,"
+       ],
+       [
+        "tú que eres mi roca y mi baluarte;"
+       ],
+       [
+        "por tu nombre dirígeme y guiame."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sii per me una roccia di rifugio,"
+       ],
+       [
+        "un luogo fortificato che mi salva."
+       ],
+       [
+        "Perché mia rupe e mia fortezza tu sei,"
+       ],
+       [
+        "per il tuo nome guidami e conducimi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sois le rocher qui m'abrite,"
+       ],
+       [
+        "la maison fortifiée qui me sauve."
+       ],
+       [
+        "Ma forteresse et mon roc, c'est toi :"
+       ],
+       [
+        "pour l'honneur de ton nom, tu me guides et me conduis."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sei mir ein schützender Fels,"
+       ],
+       [
+        "eine feste Burg, die mich rettet."
+       ],
+       [
+        "Denn du bist mein Fels und meine Burg;"
+       ],
+       [
+        "um deines Namens willen wirst du mich führen und leiten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": null,
+   "from": "common.martyrs.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In manus tuas, Dómine, comméndo spíritum meum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Em vossas mãos, Senhor, entrego o meu espírito."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Into your hands, O Lord, I entrust my spirit."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A tus manos, Señor, encomiendo mi espíritu."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Alle tue mani, Signore, affido il mio spirito."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "En tes mains, Seigneur, je remets mon esprit."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, in deine Hände lege ich meinen Geist."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.martyrs.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In manus tuas comméndo spíritum meum;"
+       ],
+       [
+        "redemísti me, Dómine, Deus veritátis."
+       ],
+       [
+        "Exsultábo et lætábor in misericórdia tua,"
+       ],
+       [
+        "quóniam respexísti humilitátem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Em vossas mãos, Senhor, entrego o meu espírito, porque vós me salvareis, ó Deus fiel! Vosso amor me faz saltar de alegria, pois olhastes para as minhas aflições."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Into your hands I commend my spirit. It is you who will redeem me, Lord. As for me, I trust in the Lord: let me be glad and rejoice in your love."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A tus manos encomiendo mi espíritu: tú, el Dios leal, me librarás."
+       ],
+       [
+        "Tu misericordia sea mi gozo y mi alegría. Te has fijado en mi aflicción."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alle tue mani affido il mio spirito;"
+       ],
+       [
+        "tu mi hai riscattato, Signore, Dio fedele."
+       ],
+       [
+        "Esulterò e gioirò per la tua grazia,"
+       ],
+       [
+        "perché hai guardato alla mia miseria."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En tes mains je remets mon esprit ;"
+       ],
+       [
+        "tu me rachètes, Seigneur, Dieu de vérité."
+       ],
+       [
+        "Ton amour me fait danser de joie :"
+       ],
+       [
+        "tu vois ma misère et tu sais ma détresse."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In deine Hände lege ich voll Vertrauen meinen Geist;"
+       ],
+       [
+        "du hast mich erlöst, Herr, du treuer Gott."
+       ],
+       [
+        "Ich will jubeln und über deine Huld mich freuen;"
+       ],
+       [
+        "denn du hast mein Elend angesehn,"
+       ],
+       [
+        "du bist mit meiner Not vertraut."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": null,
+   "from": "common.martyrs.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In manus tuas, Dómine, comméndo spíritum meum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Em vossas mãos, Senhor, entrego o meu espírito."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Into your hands, O Lord, I entrust my spirit."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A tus manos, Señor, encomiendo mi espíritu."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Alle tue mani, Signore, affido il mio spirito."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "En tes mains, Seigneur, je remets mon esprit."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, in deine Hände lege ich meinen Geist."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.martyrs.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eripe me de manu inimicórum meórum"
+       ],
+       [
+        "et a persequéntibus me;"
+       ],
+       [
+        "illústra fáciem tuam super servum tuum,"
+       ],
+       [
+        "salvum me fac in misericórdia tua."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu entrego em vossas mãos o meu destino; libertai-me do inimigo e do opressor! Mostrai serena a vossa face ao vosso servo, e salvai-me pela vossa compaixão."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Let your face shine on your servant. Save me in your love. You hide those who trust you in the shelter of your presence from the plotting of men."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Líbrame de mis enemigos que me persiguen;"
+       ],
+       [
+        "haz brillar tu rostro sobre tu siervo,"
+       ],
+       [
+        "sálvame por tu misericordia."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Liberami dalla mano dei miei nemici"
+       ],
+       [
+        "e dai miei persecutori:"
+       ],
+       [
+        "sul tuo servo fa' splendere il tuo volto,"
+       ],
+       [
+        "salvami per la tua misericordia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mes jours sont dans ta main : délivre-moi"
+       ],
+       [
+        "des mains hostiles qui s'acharnent."
+       ],
+       [
+        "Sur ton serviteur, que s'illumine ta face ; +"
+       ],
+       [
+        "sauve-moi par ton amour."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In deiner Hand liegt mein Geschick;"
+       ],
+       [
+        "entreiß mich der Hand meiner Feinde und Verfolger!"
+       ],
+       [
+        "Lass dein Angesicht leuchten über deinem Knecht,"
+       ],
+       [
+        "hilf mir in deiner Güte!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": null,
+   "from": "common.martyrs.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In manus tuas, Dómine, comméndo spíritum meum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Em vossas mãos, Senhor, entrego o meu espírito."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Into your hands, O Lord, I entrust my spirit."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A tus manos, Señor, encomiendo mi espíritu."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Alle tue mani, Signore, affido il mio spirito."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "En tes mains, Seigneur, je remets mon esprit."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, in deine Hände lege ich meinen Geist."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.martyrs.psalm.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.martyrs.second-reading.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloriamur in tribulationibus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ béati Pauli apóstoli ad Romános"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iustificáti ex fide, pacem habémus ad Deum per Dóminum nostrum Iesum Christum, per quem et accéssum habémus fide in grátiam istam, in qua stamus et gloriámur in spe glóriæ Dei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non solum autem, sed et gloriámur in tribulatiónibus, sciéntes quod tribulátio patiéntiam operátur, patiéntia autem probatiónem, probátio vero spem; spes autem non confúndit, quia cáritas Dei diffúsa est in córdibus nostris per Spíritum Sanctum, qui datus est nobis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nós nos gloriamos também de nossas tribulações."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Carta de São Paulo aos Romanos"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Justificados pela fé, estamos em paz com Deus, pela mediação do Senhor nosso Jesus Cristo. Por ele tivemos acesso, pela fé, a esta graça, na qual estamos firmes e nos gloriamos na esperança da glória de Deus. E não só isso, pois nos gloriamos também de nossas tribulações. Sabendo que a tribulação gera a constancia, a constância leva a uma virtude provada, a virtude provada desabrocha em esperança; e a esperança não decepciona, porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Letter of Saint Paul to the Romans"
+       ]
+      ],
+      "cite": "5:1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Through our Lord Jesus Christ, by faith we are judged righteous and at peace with God, since it is by faith and through Jesus that we have entered this state of grace in which we can boast about looking forward to God's glory. But that is not all we can boast about; we can boast about our sufferings. These sufferings bring patience, as we know, and patience brings perseverance, and perseverance brings hope, and this hope is not deceptive, because the love of God has been poured into our hearts by the Holy Spirit which has been given us."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nos gloriamos en las tribulaciones"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la carta del apóstol, san Pablo a los Romanos"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Habiendo sido justificados en virtud de la fe, estamos en paz con Dios, por medio de nuestro Señor Jesucristo, por el cual hemos obtenido además por la fe el acceso a esta gracia, en la cual nos encontramos; y nos gloriamos en la esperanza de la gloria de Dios."
+       ],
+       [
+        "Más aún, nos gloriamos incluso en las tribulaciones, sabiendo que la tribulación produce paciencia, la paciencia, virtud probada, la virtud probada, esperanza, y la esperanza no defrauda, porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que se nos ha dado."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ci vantiamo nelle tribolazioni."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla lettera di san Paolo apostolo ai Romani"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, giustificati per fede, noi siamo in pace con Dio per mezzo del Signore nostro Gesù Cristo. Per mezzo di lui abbiamo anche, mediante la fede, l'accesso a questa grazia nella quale ci troviamo e ci vantiamo, saldi nella speranza della gloria di Dio."
+       ],
+       [
+        "E non solo: ci vantiamo anche nelle tribolazioni, sapendo che la tribolazione produce pazienza, la pazienza una virtù provata e la virtù provata la speranza."
+       ],
+       [
+        "La speranza poi non delude, perché l'amore di Dio è stato riversato nei nostri cuori per mezzo dello Spirito Santo che ci è stato dato."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lettre de saint Paul Apôtre aux Romains"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, nous qui sommes devenus justes par la foi, nous voici en paix avec Dieu par notre Seigneur Jésus Christ, lui qui nous a donné, par la foi, l'accès à cette grâce dans laquelle nous sommes établis ; et nous mettons notre fierté dans l'espérance d'avoir part à la gloire de Dieu. Bien plus, nous mettons notre fierté dans la détresse elle-même, puisque la détresse, nous le savons, produit la persévérance ; la persévérance produit la vertu éprouvée ; la vertu éprouvée produit l'espérance ; et l'espérance ne déçoit pas, puisque l'amour de Dieu a été répandu dans nos cœurs par l'Esprit Saint qui nous a été donné."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Brief des Apostels Paulus an die Römer"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Gerecht gemacht aus Glauben, haben wir Frieden mit Gott durch Jesus Christus, unseren Herrn. Durch ihn haben wir auch den Zugang zu der Gnade erhalten, in der wir stehen, und rühmen uns unserer Hoffnung auf die Herrlichkeit Gottes."
+       ],
+       [
+        "Mehr noch, wir rühmen uns ebenso unserer Bedrängnis; denn wir wissen: Bedrängnis bewirkt Geduld, Geduld aber Bewährung, Bewährung Hoffnung. Die Hoffnung aber lässt nicht zugrunde gehen; denn die Liebe Gottes ist ausgegossen in unsere Herzen durch den Heiligen Geist, der uns gegeben ist."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.martyrs.second-reading.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.martyrs.second-reading.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.martyrs.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non vos estis qui loquimini, sed Spiritus Patris vestri."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "10, 17-22",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vós sereis levados diante de governadores e reis, por minha causa, para dar testemunho diante deles e das nações."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "10, 17-22",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "10:17-22",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os harán comparecer ante gobernadores y reyes por mi causa, para dar testimonio ante ellos y ante los gentiles"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Mateo"
+       ]
+      ],
+      "cite": "10, 17-22",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sarete condotti davanti a governatori e re per causa mia, per dare testimonianza a loro e ai pagani."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "10, 17-22",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "10, 17-22",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "10, 17-22",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.martyrs.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.martyrs.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus discípulis suis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Cavéte ab homínibus; tradent enim vos in concíliis, et in synagógis suis flagellábunt vos; et ad præsides et ad reges ducémini propter me in testimónium illis et géntibus. Cum autem tradent vos, nolíte cogitáre quómodo aut quid loquámini; dábitur enim vobis in illa hora quid loquámini. Non enim vos estis, qui loquímini, sed Spíritus Patris vestri, qui lóquitur in vobis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tradet autem frater fratrem in mortem, et pater fílium; et insúrgent fílii in paréntes et morte eos affícient. Et éritis ódio ómnibus propter nomen meum; qui autem perseveráverit in finem, hic salvus erit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus aos seus apóstolos: \"Cuidado com os homens, porque eles vos entregarão aos tribunais e vos açoitarão nas suas sinagogas. Vós sereis levados diante de governadores e reis, por minha causa, para dar testemunho diante deles e das nações. Quando vos entregarem, não fiqueis preocupados como falar ou o que dizer. Então naquele momento vos será indicado o que deveis dizer. Com efeito, não sereis vós que havereis de falar, mas sim o Espírito do vosso Pai é que falará através de vós. O irmão entregará à morte o próprio irmão; o pai entregará o filho; os filhos se levantarão contra seus pais, e os matarão. Vós sereis odiados por todos, por causa do meu nome. Mas quem perseverar até o fim, esse será salvo\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his apostles: 'Beware of men: they will hand you over to sanhedrins and scourge you in their synagogues. You will be dragged before governors and kings for my sake, to bear witness before them and the pagans. But when they hand you over, do not worry about how to speak or what to say; what you are to say will be given to you when the time comes; because it is not you who will be speaking; the Spirit of your Father will be speaking in you. 'Brother will betray brother to death, and the father his child; children will rise against their parents and have them put to death. You will be hated by all men on account of my name; but the man who stands firm to the end will be saved."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus apóstoles:"
+       ],
+       [
+        "«¡Cuidado con la gente! Porque os entregarán a los tribunales, os azotarán en las sinagogas y os harán comparecer ante gobernadores y reyes por mi causa, para dar testimonio ante ellos y ante los gentiles."
+       ],
+       [
+        "Cuando os entreguen, no os preocupéis de lo que vais a decir o de cómo lo diréis: en aquel momento se os sugerirá lo que tenéis que decir, porque no seréis vosotros los que habléis, sino que el Espíritu de vuestro Padre hablará por vosotros."
+       ],
+       [
+        "El hermano entregará al hermano a la muerte, el padre al hijo; se rebelarán los hijos contra sus padres y los matarán."
+       ],
+       [
+        "Y seréis odiados por todos a causa de mi nombre; pero el que persevere hasta el final, se salvará»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi apostoli:"
+       ],
+       [
+        "«Guardatevi dagli uomini, perché vi consegneranno ai tribunali e vi flagelleranno nelle loro sinagoghe; e sarete condotti davanti a governatori e re per causa mia, per dare testimonianza a loro e ai pagani."
+       ],
+       [
+        "Ma, quando vi consegneranno, non preoccupatevi di come o di che cosa direte, perché vi sarà dato in quell'ora ciò che dovrete dire: infatti non siete voi a parlare, ma è lo Spirito del Padre vostro che parla in voi."
+       ],
+       [
+        "Il fratello farà morire il fratello e il padre il figlio, e i figli si alzeranno ad accusare i genitori e li uccideranno. Sarete odiati da tutti a causa del mio nome. Ma chi avrà perseverato fino alla fine sarà salvato»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses Apôtres :"
+       ],
+       [
+        "\" Méfiez-vous des hommes : ils vous livreront aux tribunaux et vous flagelleront dans leurs synagogues. Vous serez conduits devant des gouverneurs et des rois à cause de moi : il y aura là un témoignage pour eux et pour les païens. Quand on vous livrera, ne vous inquiétez pas de savoir ce que vous direz ni comment vous le direz : ce que vous aurez à dire vous sera donné à cette heure-là. Car ce n'est pas vous qui parlerez, c'est l'Esprit de votre Père qui parlera en vous. Le frère livrera son frère à la mort, et le père, son enfant ; les enfants se dresseront contre leurs parents et les feront mettre à mort. Vous serez détestés de tous à cause de mon nom ; mais celui qui aura persévéré jusqu'à la fin, celui-là sera sauvé. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Nehmt euch vor den Menschen in acht! Denn sie werden euch vor die Gerichte bringen und in ihren Synagogen auspeitschen. Ihr werdet um meinetwillen vor Statthalter und Könige geführt, damit ihr vor ihnen und den Heiden Zeugnis ablegt. Wenn man euch vor Gericht stellt, macht euch keine Sorgen, wie und was ihr reden sollt; denn es wird euch in jener Stunde eingegeben, was ihr sagen sollt. Nicht ihr werdet dann reden, sondern der Geist eures Vaters wird durch euch reden."
+       ],
+       [
+        "Brüder werden einander dem Tod ausliefern und Väter ihre Kinder, und die Kinder werden sich gegen ihre Eltern auflehnen und sie in den Tod schicken. Und ihr werdet um meines Namens willen von allen gehasst werden; wer aber bis zum Ende standhaft bleibt, der wird gerettet."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.martyrs.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.martyrs.gospel.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáti, qui persecutiónem patiúntur propter iustítiam,"
+       ],
+       [
+        "quóniam ipsórum est regnum cælórum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Felizes os que são perseguidos, por causa da justiça do Senhor porque o Reino dos Céus há de ser deles."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5:10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Happy are they who suffer persecution for justice's sake; the kingdom of heaven is theirs."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bienaventurados los perseguidos por causa de la justicia,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, IO",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureux ceux qui sont persécutés pour la justice, car le Royaume des Cieux est à eux !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "vgl. Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig, die um der Gerechtigkeit willen Verfolgung leiden; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Io 17, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Pro eis sanctífico meípsum, dicit Dóminus,"
+       ],
+       [
+        "ut sint et ipsi sanctificáti in veritáte."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jo 17, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Em favor deles eu me entrego a ti, ó Pai, inteiramente, para que eles também sejam consagrados na verdade."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jn 17:19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "I consecrate myself for them, so that they also may be consecrated in truth."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jn 17, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Por ellos yo me santifico a mí mismo —dice el Señor—,"
+       ],
+       [
+        "para que también ellos sean santificados en la verdad."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Gv 17, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Per loro io consacro me stesso, perché siano anch'essi consacrati nella verità."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Io 17, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Pour eux je me sanctifie moi-même, afin qu'ils soient, eux aussi, sanctifiés dans la vérité."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Joh 17, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Ich heilige mich für sie, damit auch sie in der Wahrheit geheiligt sind."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "2 Cor 1, 3b-4a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Benedíctus Pater misericordiárum et Deus tótius consolatiónis,"
+       ],
+       [
+        "qui consolátor nos in omni tribulatióne nostra."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "2 Cor 1, 3b-4a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bendito seja o Pai misericordioso, que em todo sofrimento nos consola!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "2 Cor 1:3b-4a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Blessed the Father of compassion and God of all encouragement, who encourages us in our every affliction."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "2 Cor 1, 3b-4a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bendito sea el Padre de las misericordias"
+       ],
+       [
+        "y Dios de todo consuelo,"
+       ],
+       [
+        "que nos consuela en cualquier tribulación nuestra."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "2 Cor 1, 3b-4a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Sia benedetto Dio, Padre misericordioso e Dio di ogni consolazione! Egli ci consola in ogni nostra tribolazione."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "2 Cor 1, 3b-4a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Béni soit le Père plein de tendresse, le Dieu de qui vient tout réconfort. Dans toutes nos détresses, il nous réconforte."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "2 Kor 1, 3b-4a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Gepriesen sei der Vater des Erbarmens und der Gott allen Trostes. Er tröstet uns in all unserer Not."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "4"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Iac 1, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beátus vir, qui suffert tentatiónem,"
+       ],
+       [
+        "quia, cum probátus fúerit, accípiet corónam vitæ."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Tg 1, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Feliz aquele que suporta a tentação com paciênia, porque, depois de ser provado, alcançará coroa da vida!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "James 1:12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Blessed is the man who perseveres in temptation,* for when he has been proved he will receive the crown of life."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "St 1, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bienaventurado el hombre que aguanta la prueba,"
+       ],
+       [
+        "porque, si sale airoso, recibirá la corona de la vida."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Gc 1, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Beato l'uomo che resiste alla tentazione, perché, dopo averla superata, riceverà la corona della vita."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Iac 1, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureux l'homme qui supporte l'épreuve avec persévérance, car, sa valeur une fois vérifiée, il recevra la couronne de la vie."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jak 1, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig der Mann, der in der Versuchung standhält. Denn wenn er sich bewährt, wird er den Kranz des Lebens erhalten."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "5"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "1 Petr 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si exprobrámini in nómine Christi, beáti,"
+       ],
+       [
+        "quóniam Spíritus Dei super vos requiéscit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "1 Petr 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Felizes sereis vós, se fordes ultrajados, por causa de Jesus, pois, repousa sobre vós o Espírito de Deus!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "1 P 4:14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "If you are insulted for the name of Christ, blessed are you, for the Spirit of God rests upon you."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "1 Petr 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si os ultrajan por el nombre de Cristo, bienaventurados vosotros,"
+       ],
+       [
+        "porque el Espíritu de Dios reposa sobre vosotros."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "1 Pt 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Beati voi, se venite insultati per il nome di Cristo, perché lo Spirito di Dio riposa su di voi."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "1 Petr 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si l'on vous insulte pour le nom du Christ, heureux êtes-vous : l'Esprit de Dieu repose sur vous."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "vgl. 1 Petr 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Wenn man euch um des Namens Christi willen beschimpft, seid ihr selig zu preisen; denn der Geist Gottes ruht auf euch."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "6"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Te Deum laudámus, te Dóminum confitémur;"
+       ],
+       [
+        "Te mártyrum candidátus laudat exércitus, Dómine."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "A vós, ó Deus, louvamos, a vós, Senhor, cantamos, vos louva o exército dos vossos santos Mártires!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "You are God: we praise you; you are the Lord: we acclaim you; the white-robed army of martyrs praise you."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "A ti oh Dios te alabamos,"
+       ],
+       [
+        "a ti, Señor, te reconocemos;"
+       ],
+       [
+        "a ti te ensalza"
+       ],
+       [
+        "el blanco ejército de los mártires, Señor."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Noi ti lodiamo, Dio, ti proclamiamo Signore; ti acclama la candida schiera dei martiri."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "À toi, Dieu, notre louange ! Toi, dont témoignent les martyrs, nous t'acclamons : tu es Seigneur !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Dich, Gott, loben wir, dich, Herr, preisen wir. Dich preist der Märtyrer leuchtendes Heer."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "title": {}
+}

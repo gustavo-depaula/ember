@@ -1,1 +1,2668 @@
-{"id":"tempore.lent.week-1.monday","source":"lecturas/lecturas_q01#Q011D","items":[{"slot":"58","text":{"la":[{"k":"h2","lines":[["Tempus Quadragesimæ"],["Hebdomada I"],["Feria secunda"]]}],"pt-BR":[{"k":"h2","lines":[["1ª Semana da Quaresma"],["Segunda-feira da 1ª Semana da Quaresma"]]}],"en-US":[{"k":"h2","lines":[["Season of Lent"],["1st Week: Monday"]]}],"es":[{"k":"h2","lines":[["Tiempo de Cuaresma"],["Lunes de la I Semana"]]}],"it":[{"k":"h2","lines":[["LUNEDI DELLA I SETTIMANA DI QUARESIMA"]]}],"fr":[{"k":"h2","lines":[["Temps de Carêmebr"],["Lundi de la 1e semaine1e semaine"]]}],"de":[{"k":"h2","lines":[["Fastenzeit"],["1. Woche: Montag"]]}]}},{"slot":"59","text":{"la":[{"k":"p","lines":[["Lectio prior"]],"role":"title"},{"k":"p","lines":[["Iuste iudica proximo tuo"]],"role":"summary"},{"k":"p","lines":[["Léctio libri Levítici"]],"cite":"19, 1-2.11-18","role":"announcement"},{"k":"p","lines":[["Locútus est Dóminus ad Móysen dicens: «Lóquere ad omnem cœtum filiórum Israel et dices ad eos:"]]},{"k":"p","lines":[["Sancti estóte, quia sanctus sum ego, Dóminus Deus vester."]]},{"k":"p","lines":[["Non faciétis furtum. Non mentiémini, nec decípiet unusquísque próximum suum. Non periurábis in nómine meo nec póllues nomen Dei tui. Ego Dóminus."]]},{"k":"p","lines":[["Non fácies calúmniam próximo tuo nec spoliábis eum. Non morábitur merces mercennárii apud te usque mane. Non maledíces surdo nec coram cæco pones offendículum; sed timébis Deum tuum. Ego Dóminus."]]},{"k":"p","lines":[["Non faciétis, quod iníquum est in iudício. Non consíderes persónam páuperis nec honóres vultum poténtis. Iuste iúdica próximo tuo. Non eris criminátor et susúrro in pópulo tuo. Non stabis contra sánguinem próximi tui. Ego Dóminus."]]},{"k":"p","lines":[["Ne óderis fratrem tuum in corde tuo; árgue eum, ne hábeas super illo peccátum. Non quæres ultiónem nec irascéris cívibus tuis. Díliges próximum tuum sicut teípsum. Ego Dóminus»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Primeira Leitura"]],"role":"title"},{"k":"p","lines":[["Julga teu próximo conforme a justiça."]],"role":"summary"},{"k":"p","lines":[["Leitura do Livro do Levítico"]],"cite":"19, 1-2.11-18","role":"announcement"},{"k":"p","lines":[["O Senhor falou a Moisés, dizendo: \"Fala a toda a comunidade dos filhos de Israel, e dize-lhes: Sede santos, porque eu, o Senhor vosso Deus, sou santo. Não furteis, não digais mentiras, nem vos enganeis uns aos outros. Não jureis falso por meu nome, profanando o nome do Senhor teu Deus. Eu sou o Senhor. Não explores o teu próximo nem pratiques extorsão contra ele. Não retenhas contigo a diária do assalariado até o dia seguinte. Não amaldiçoes o surdo, nem ponhas tropeço diante do cego, mas temerás o teu Deus. Eu sou o Senhor. Não cometas injustiças no exercício da justiça; não favoreças o pobre nem prestigieis o poderoso. Julga teu próximo conforme a justiça. Não sejas um maldizente entre o teu povo. Não conspires, caluniando-o, contra a vida do teu próximo. Eu sou o Senhor. Não tenhas no coração ódio contra teu irmão. Repreende o teu próximo, para não te tornares culpado de pecado por causa dele. Não procures vingança, nem guardes rancor aos teus compatriotas. Amarás o teu próximo como a ti mesmo. Eu sou o Senhor."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["First Reading"]],"role":"title"},{"k":"p","lines":[["A reading from the Book of Leviticus"]],"cite":"19:1-2.11-18","role":"announcement"},{"k":"p","lines":[["The Lord spoke to Moses; he said: 'Speak to the whole community of the sons of Israel and say to them: \"Be holy, for I, the Lord your God, am holy. \"You must not steal nor deal deceitfully or fraudulently with your neighbour. You must not swear falsely by my name, profaning the name of your God. I am the Lord. You must not exploit or rob your neighbour. You must not keep back the labourer's wage until next morning. You must not curse the dumb, nor put an obstacle in the blind man's way, but you must fear your God. I am the Lord. \"You must not be guilty of unjust verdicts. You must neither be partial to the little man nor overawed by the great; you must pass judgment on your neighbour according to justice. You must not slander your own people, and you must not jeopardise your neighbour's life. I am the Lord. You must not bear hatred for your brother in your heart. You must openly tell him, your neighbour, of his offence; this way you will not take a sin upon yourself. You must not exact vengeance, nor must you bear a grudge against the children of your people. You must love your neighbour as yourself. I am the Lord."]]},{"k":"p","lines":[["The Word of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Primera Lectura"]],"role":"title"},{"k":"p","lines":[["Juzga con justicia a tu prójimo"]],"role":"summary"},{"k":"p","lines":[["Lectura del libro del Levítico"]],"cite":"19, 1-2.11-18","role":"announcement"},{"k":"p","lines":[["El Señor habló así a Moisés:"],["«Di a la comunidad de los hijos de Israel:"],["“Sed santos, porque yo, el Señor, vuestro Dios, soy santo. No robaréis ni defraudaréis ni os engañaréis unos a otros. No juraréis en falso por mi nombre, profanando el nombre de tu Dios. Yo soy el Señor."],["No explotarás a tu prójimo ni le robarás. No dormirá contigo hasta la mañana siguiente el jornal del obrero."],["No maldecirás al sordo ni pondrás tropiezo al ciego. Teme a tu Dios. Yo soy el Señor."],["No daréis sentencias injustas. No serás parcial ni por favorecer al pobre ni por honrar al rico. Juzga con justicia a tu prójimo."],["No andarás difamando a tu gente, ni declararás en falso contra la vida de tu prójimo. Yo soy el Señor."],["No odiarás de corazón a tu hermano, pero reprenderás a tu prójimo, para que no cargues tú con su pecado."],["No te vengarás de los hijos de tu pueblo ni les guardarás rencor, sino que amarás a tu prójimo como a ti mismo. Yo soy el Señor”»."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Prima lettura"]],"role":"title"},{"k":"p","lines":[["Giudica il tuo prossimo con giustizia."]],"role":"summary"},{"k":"p","lines":[["Dal libro del Levitico"]],"cite":"19, 1-2.11-18","role":"announcement"},{"k":"p","lines":[["Il Signore parlò a Mosè e disse:"],["«Parla a tutta la comunità degli Israeliti dicendo loro: \"Siate santi, perché io, il Signore, vostro Dio, sono santo."],["Non ruberete né userete inganno o menzogna a danno del prossimo."],["Non giurerete il falso servendovi del mio nome: profaneresti il nome del tuo Dio. Io sono il Signore."],["Non opprimerai il tuo prossimo, né lo spoglierai di ciò che è suo; non tratterrai il salario del bracciante al tuo servizio fino al mattino dopo."],["Non maledirai il sordo, né metterai inciampo davanti al cieco, ma temerai il tuo Dio. Io sono il Signore."],["Non commetterete ingiustizia in giudizio; non tratterai con parzialità il povero né userai preferenze verso il potente: giudicherai il tuo prossimo con giustizia. Non andrai in giro a spargere calunnie fra il tuo popolo né coopererai alla morte del tuo prossimo. Io sono il Signore."],["Non coverai nel tuo cuore odio contro il tuo fratello; rimprovera apertamente il tuo prossimo, così non ti caricherai d'un peccato per lui. Non ti vendicherai e non serberai rancore contro i figli del tuo popolo, ma amerai il tuo prossimo come te stesso. Io sono il Signore\"»."]]},{"k":"p","lines":[["Parola di Dio."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Première lecture"]],"role":"title"},{"k":"p","lines":[["Livre du Lévitique"]],"cite":"19, 1-2.11-18","role":"announcement"},{"k":"p","lines":[["Le Seigneur parla à Moïse et dit : « Parle à toute l'assemblée des fils d'Israël. Tu leur diras : Soyez saints, car moi, le Seigneur votre Dieu, je suis saint."]]},{"k":"p","lines":[["Vous ne volerez pas, vous ne mentirez pas, vous ne tromperez aucun de vos compatriotes. Vous ne ferez pas de faux serments par mon nom : tu profanerais le nom de ton Dieu. Je suis le Seigneur."]]},{"k":"p","lines":[["Tu n'exploiteras pas ton prochain, tu ne le dépouilleras pas : tu ne retiendras pas jusqu'au matin la paye du salarié. Tu ne maudiras pas un sourd, tu ne mettras pas d'obstacle devant un aveugle : tu craindras ton Dieu. Je suis le Seigneur."]]},{"k":"p","lines":[["Quand vous siégerez au tribunal, vous ne commettrez pas d'injustice ; tu n'avantageras pas le faible, tu ne favoriseras pas le puissant : tu jugeras ton compatriote avec justice. Tu ne répandras pas de calomnies contre quelqu'un de ton peuple, tu ne réclameras pas la mort de ton prochain. Je suis le Seigneur."]]},{"k":"p","lines":[["Tu ne haïras pas ton frère dans ton cœur. Mais tu devras réprimander ton compatriote, et tu ne toléreras pas la faute qui est en lui. Tu ne te vengeras pas. Tu ne garderas pas de rancune contre les fils de ton peuple. Tu aimeras ton prochain comme toi-même. Je suis le Seigneur. »"]]},{"k":"p","lines":[["Parole du Seigneur."]],"role":"conclusion"}],"de":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch Levitikus"]],"cite":"19, 1-2. 11-18","role":"announcement"},{"k":"p","lines":[["Der Herr sprach zu Mose: Rede zur ganzen Gemeinde der Israeliten, und sag zu ihnen:"],["Seid heilig, denn ich, der Herr, euer Gott, bin heilig."],["Ihr sollt nicht stehlen, nicht täuschen und einander nicht betrügen. Ihr sollt nicht falsch bei meinem Namen schwören; du würdest sonst den Namen deines Gottes entweihen. Ich bin der Herr."],["Du sollst deinen Nächsten nicht ausbeuten und ihn nicht um das Seine bringen. Der Lohn des Tagelöhners soll nicht über Nacht bis zum Morgen bei dir bleiben. Du sollst einen Tauben nicht verfluchen und einem Blinden kein Hindernis in den Weg stellen; vielmehr sollst du deinen Gott fürchten. Ich bin der Herr."],["Ihr sollt in der Rechtsprechung kein Unrecht tun. Du sollst weder für einen Geringen noch für einen Großen Partei nehmen; gerecht sollst du deinen Stammesgenossen richten. Du sollst deinen Stammesgenossen nicht verleumden und dich nicht hinstellen und das Leben deines Nächsten fordern. Ich bin der Herr."],["Du sollst in deinem Herzen keinen Hass gegen deinen Bruder tragen. Weise deinen Stammesgenossen zurecht, so wirst du seinetwegen keine Schuld auf dich laden. An den Kindern deines Volkes sollst du dich nicht rächen und ihnen nichts nachtragen. Du sollst deinen Nächsten lieben wie dich selbst. Ich bin der Herr."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"60","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"slot":"61","text":{"la":[{"k":"p","lines":[["Psalmus Responsorius"]],"cite":"Ps 18, 8. 9. 10. 15 (: Io 6, 63)","role":"title"}],"pt-BR":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sl 18 B (19), 8.9.10.15 (: Jo 6, 63c)","role":"title"}],"en-US":[{"k":"p","lines":[["Responsorial Psalm"]],"cite":"Ps 18, 8. 9. 10. 15 (: Io 6, 63)","role":"title"}],"es":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 18, 8. 9. 10. 15 (: Io 6, 63)","role":"title"}],"it":[{"k":"p","lines":[["Salmo Responsoriale"]],"cite":"Dal Salmo 18 (19)","role":"title"}],"fr":[{"k":"p","lines":[["Psaume"]],"cite":"Ps 18, 8. 9. 10. 15 (: Io 6, 63)","role":"title"}],"de":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 19 (18), 8. 9. 10. 11 u. 15 (R: vgl. Joh 6, 63b)","role":"title"}]},"part":"psalm"},{"slot":"62","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Verba tua, Dómine, Spíritus et vita sunt."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/."},"Ó Senhor, vossas palavras são espírito e vida!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Your words, O Lord, are spirit and life."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tus palabras, Señor, son espíritu y vida."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le tue parole, Signore, sono spirito e vita."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tes paroles, Seigneur, sont esprit et elles sont vie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deine Worte, Herr, sind Geist und Leben."]]}]},"part":"psalm","role":"people"},{"slot":"63","text":{"la":[{"k":"p","lines":[["Lex Dómini immaculáta, refíciens ánimam,"],["testimónium Dómini fidéle, sapiéntiam præstans párvulis."]]}],"pt-BR":[{"k":"p","lines":[["A lei do Senhor Deus é perfeita, conforto para a alma!"],["O testemunho do Senhor é fiel,"],["sabedoria dos humildes."]]}],"en-US":[{"k":"p","lines":[["The law of the Lord is perfect, it revives the soul. The rule of the Lord is to be trusted, it gives wisdom to the simple."]]}],"es":[{"k":"p","lines":[["La ley del Señor es perfecta"],["y es descanso del alma;"],["el precepto del Señor es fiel"],["e instruye a los ignorantes."]]}],"it":[{"k":"p","lines":[["La legge del Signore è perfetta,"],["rinfranca l'anima;"],["la testimonianza del Signore è stabile,"],["rende saggio il semplice."]]}],"fr":[{"k":"p","lines":[["La loi du Seigneur est parfaite,"],["qui redonne vie ; *"],["la charte du Seigneur est sûre,"],["qui rend sages les simples."]]}],"de":[{"k":"p","lines":[["Die Weisung des Herrn ist vollkommen,"],["sie erquickt den Menschen."],["Das Gesetz des Herrn ist verlässlich,"],["den Unwissenden macht es weise."]]}]},"part":"psalm","role":"verse"},{"slot":"64","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Verba tua, Dómine, Spíritus et vita sunt."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/."},"Ó Senhor, vossas palavras são espírito e vida!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Your words, O Lord, are spirit and life."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tus palabras, Señor, son espíritu y vida."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le tue parole, Signore, sono spirito e vita."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tes paroles, Seigneur, sont esprit et elles sont vie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deine Worte, Herr, sind Geist und Leben."]]}]},"part":"psalm","role":"people"},{"slot":"65","text":{"la":[{"k":"p","lines":[["Iustítiæ Dómini rectæ, lætificántes corda,"],["præcéptum Dómini lúcidum, illúminans óculos."]]}],"pt-BR":[{"k":"p","lines":[["Os preceitos do Senhor são precisos,"],["alegria ao coração."],["O mandamento do Senhor é brilhante,"],["para os olhos é uma luz."]]}],"en-US":[{"k":"p","lines":[["The precepts of the Lord are right, they gladden the heart. The command of the Lord is clear, it gives light to the eyes."]]}],"es":[{"k":"p","lines":[["Los mandatos del Señor son rectos"],["y alegran el corazón;"],["la norma del Señor es límpida"],["y da luz a los ojos."]]}],"it":[{"k":"p","lines":[["I precetti del Signore sono retti,"],["fanno gioire il cuore;"],["il comando del Signore è limpido,"],["illumina gli occhi."]]}],"fr":[{"k":"p","lines":[["Les préceptes du Seigneur sont droits,"],["ils réjouissent le cœur ;"],["le commandement du Seigneur est limpide,"],["il clarifie le regard."]]}],"de":[{"k":"p","lines":[["Die Befehle des Herrn sind richtig,"],["sie erfreuen das Herz;"],["das Gebot des Herrn ist lauter,"],["es erleuchtet die Augen."]]}]},"part":"psalm","role":"verse"},{"slot":"66","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Verba tua, Dómine, Spíritus et vita sunt."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/."},"Ó Senhor, vossas palavras são espírito e vida!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Your words, O Lord, are spirit and life."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tus palabras, Señor, son espíritu y vida."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le tue parole, Signore, sono spirito e vita."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tes paroles, Seigneur, sont esprit et elles sont vie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deine Worte, Herr, sind Geist und Leben."]]}]},"part":"psalm","role":"people"},{"slot":"67","text":{"la":[{"k":"p","lines":[["Timor Dómini mundus, pérmanens in sǽculum sǽculi,"],["iudícia Dómini vera, iusta ómnia simul."]]}],"pt-BR":[{"k":"p","lines":[["É puro o temor do Senhor, imutável para sempre."],["Os julgamentos do Senhor são corretos e justos igualmente."]]}],"en-US":[{"k":"p","lines":[["The fear of the Lord is holy, abiding for ever. The decrees of the Lord are truth and all of them just."]]}],"es":[{"k":"p","lines":[["El temor del Señor es puro"],["y eternamente estable;"],["los mandamientos del Señor son verdaderos"],["y enteramente justos."]]}],"it":[{"k":"p","lines":[["Il timore del Signore è puro,"],["rimane per sempre;"],["i giudizi del Signore sono fedeli,"],["sono tutti giusti."]]}],"fr":[{"k":"p","lines":[["La crainte qu'il inspire est pure,"],["elle est là pour toujours ;"],["les décisions du Seigneur sont justes"],["et vraiment équitables."]]}],"de":[{"k":"p","lines":[["Die Furcht des Herrn ist rein,"],["sie besteht für immer."],["Die Urteile des Herrn sind wahr,"],["gerecht sind sie alle."]]}]},"part":"psalm","role":"verse"},{"slot":"68","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Verba tua, Dómine, Spíritus et vita sunt."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/."},"Ó Senhor, vossas palavras são espírito e vida!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Your words, O Lord, are spirit and life."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tus palabras, Señor, son espíritu y vida."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le tue parole, Signore, sono spirito e vita."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tes paroles, Seigneur, sont esprit et elles sont vie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deine Worte, Herr, sind Geist und Leben."]]}]},"part":"psalm","role":"people"},{"slot":"69","text":{"la":[{"k":"p","lines":[["Sint ut compláceant elóquia oris mei,"],["et meditátio cordis mei in conspéctu tuo."],["Dómine, adiútor meus et redémptor meus."]]}],"pt-BR":[{"k":"p","lines":[["Que vos agrade o cantar dos meus lábios"],["e a voz da minha alma;"],["que ela chegue até vós,"],["ó Senhor, meu Rochedo e Redentor!"]]}],"en-US":[{"k":"p","lines":[["May the spoken words of my mouth, the thoughts of my heart, win favor in your sight, O Lord, my rescuer, my rock!"]]}],"es":[{"k":"p","lines":[["Que te agraden las palabras de mi boca,"],["y llegue a tu presencia el meditar de mi corazón,"],["Señor, Roca mía, Redentor mío."]]}],"it":[{"k":"p","lines":[["Ti siano gradite le parole della mia bocca;"],["davanti a te i pensieri del mio cuore."],["Signore, mia roccia e mio redentore."]]}],"fr":[{"k":"p","lines":[["Accueille les paroles de"],["qu'ils parviennent devant toi,"],["Seigneur, mon rocher, mon défenseur !"]]}],"de":[{"k":"p","lines":[["Sie sind kostbarer als Gold, als Feingold in Menge."],["Sie sind süßer als Honig, als Honig aus Waben."],["Die Worte meines Mundes mögen dir gefallen;"],["was ich im Herzen erwäge, stehe dir vor Augen,"],["Herr, mein Fels und mein Erlöser."]]}]},"part":"psalm","role":"verse"},{"slot":"70","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Verba tua, Dómine, Spíritus et vita sunt."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/."},"Ó Senhor, vossas palavras são espírito e vida!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Your words, O Lord, are spirit and life."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tus palabras, Señor, son espíritu y vida."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le tue parole, Signore, sono spirito e vita."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Tes paroles, Seigneur, sont esprit et elles sont vie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deine Worte, Herr, sind Geist und Leben."]]}]},"part":"psalm","role":"people"},{"slot":"71","text":{"la":[{"k":"p","lines":[["Versus ante Evangelium"]],"cite":"2 Cor 6, 2b","role":"title"},{"k":"p","lines":[["Ecce nunc tempus acceptábile,"],["ecce nunc dies salútis."]]}],"pt-BR":[{"k":"p","lines":[["Aclamação ao Evangelho"]],"cite":"2 Cor 6, 2b","role":"title"},{"k":"p","lines":[["Eis o tempo de conversão"],["eis o dia da salvação."]]}],"en-US":[{"k":"p","lines":[["Gospel Acclamation"]],"cite":"2 Co 6:2","role":"title"},{"k":"p","lines":[["This is the favorable time, this is the day of salvation."]]}],"es":[{"k":"p","lines":[["Versículo antes del Evangelio"]],"cite":"2 Cor 6, 2b","role":"title"},{"k":"p","lines":[["Ahora es el tiempo favorable,"],["ahora es el día de la salvación."]]}],"it":[{"k":"p","lines":[["Canto al Vangelo"]],"cite":"(2 Cor 6,2)","role":"title"},{"k":"p","lines":[["Lode a te, o Cristo, re di eterna gloria!"],["Ecco ora il momento favorevole,"],["ecco ora il giorno della salvezza!"],["Lode a te, o Cristo, re di eterna gloria!"]]}],"fr":[{"k":"p","lines":[["Verset avant l'Évangile"]],"cite":"2 Cor 6, 2b","role":"title"},{"k":"p","lines":[["Louange à toi, Seigneur, Roi d'éternelle gloire !"],["Voici maintenant le moment favorable, voici maintenant le jour du salut."],["Louange à toi, Seigneur, Roi d'éternelle gloire !"]]}],"de":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"cite":"2 Kor 6, 2b","role":"title"},{"k":"p","lines":[["Herr Jesus, dir sei Ruhm und Ehre!"],["Jetzt ist sie da, die Zeit der Gnade; jetzt ist er da, der Tag der Rettung."],["Herr Jesus, dir sei Ruhm und Ehre!"]]}]},"part":"acclamation"},{"slot":"72","text":{"la":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[["Quamdiu fecistis uni de his fratribus meis minimis, mihi fecistis"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Matthǽum"]],"cite":"25, 31-46","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Evangelho"]],"role":"title"},{"k":"p","lines":[["Todas as vezes que fizestes isso a um dos menores de meus irmãos foi a mim que o fisestes."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Mateus"]],"cite":"25, 31-46","role":"announcement"}],"en-US":[{"k":"p","lines":[["Gospel"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Matthew"]],"cite":"25:31-46","role":"announcement"}],"es":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["Cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Mateo"]],"cite":"25, 31-46","role":"announcement"}],"it":[{"k":"p","lines":[["Vangelo"]],"role":"title"},{"k":"p","lines":[["Tutto quello che avete fatto a uno solo di questi miei fratelli più piccoli, l'avete fatto a me."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal vangelo secondo Matteo"]],"cite":"25, 31-46","role":"announcement"}],"fr":[{"k":"p","lines":[["Proclamation de l'Évangile"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Matthieu"]],"cite":"25, 31-46","role":"announcement"}],"de":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"25, 31-46","role":"announcement"}]},"part":"gospel"},{"slot":"73","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"74","text":{"la":[{"k":"p","lines":[["In illo témpore: Dixit Iesus discípulis suis:"]]},{"k":"p","lines":[["«Cum vénerit Fílius hóminis in glória sua, et omnes ángeli cum eo, tunc sedébit super thronum glóriæ suæ. Et congregabúntur ante eum omnes gentes; et separábit eos ab ínvicem, sicut pastor ségregat oves ab hædis, et státuet oves quidem a dextris suis, hædos autem a sinístris."]]},{"k":"p","lines":[["Tunc dicet Rex his, qui a dextris eius erunt: “Veníte, benedícti Patris mei; possidéte parátum vobis regnum a constitutióne mundi. Esurívi enim, et dedístis mihi manducáre; sitívi, et dedístis mihi bíbere; hospes eram, et collegístis me; nudus, et operuístis me; infírmus, et visitástis me; in cárcere eram, et venístis ad me”."]]},{"k":"p","lines":[["Tunc respondébunt ei iusti dicéntes: “Dómine, quando te vídimus esuriéntem et pávimus, aut sitiéntem et dédimus tibi potum? Quando autem te vídimus hóspitem et collégimus, aut nudum et cooperúimus? Quando autem te vídimus infírmum aut in cárcere et vénimus ad te?”."]]},{"k":"p","lines":[["Et respóndens Rex dicet illis: “Amen dico vobis: Quámdiu fecístis uni de his frátribus meis mínimis, mihi fecístis”."]]},{"k":"p","lines":[["Tunc dicet et his, qui a sinístris erunt: “Discédite a me, maledícti, in ignem ætérnum, qui præparátus est Diábolo et ángelis eius. Esurívi enim, et non dedístis mihi manducáre; sitívi, et non dedístis mihi potum; hospes eram, et non collegístis me; nudus, et non operuístis me; infírmus et in cárcere, et non visitástis me”."]]},{"k":"p","lines":[["Tunc respondébunt et ipsi dicéntes: “Dómine, quando te vídimus esuriéntem aut sitiéntem aut hóspitem aut nudum aut infírmum vel in cárcere et non ministrávimus tibi?”."]]},{"k":"p","lines":[["Tunc respondébit illis dicens: “Amen dico vobis: Quámdiu non fecístis uni de mínimis his, nec mihi fecístis”."]]},{"k":"p","lines":[["Et ibunt hi in supplícium ætérnum, iusti autem in vitam ætérnam»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, disse Jesus a seus discípulos: Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso. Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos. E colocará as ovelhas à sua direita e os cabritos à sua esquerda. Então o Rei dirá aos que estiverem à sua direita: 'Vinde benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo! Pois eu estava com fome e me destes de comer; eu estava com sede e me destes de beber; eu era estrangeiro e me recebestes em casa; eu estava nu e me vestistes; eu estava doente e cuidastes de mim; eu estava na prisão e fostes me visitar'. Então os justos lhe perguntarão: 'Senhor, quando foi que te vimos com fome e te demos de comer? com sede e te demos de beber? Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos? Quando foi que te vimos doente ou preso, e fomos te visitar?' Então o Rei lhes responderá: 'Em verdade eu vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!' Depois o Rei dirá aos que estiverem à sua esquerda: 'Afastai-vos de mim, malditos! Ide para o fogo eterno, preparado para o diabo e para os seus anjos. Pois eu estava com fome e não me destes de comer; eu estava com sede e não me destes de beber; eu era estrangeiro e não me recebestes em casa; eu estava nu e não me vestistes; eu estava doente e na prisão e não fostes me visitar'. E responderão também eles: 'Senhor, quando foi que te vimos com fome, ou com sede, como estrangeiro, ou nu, doente ou preso, e não te servimos?' Então o Rei lhes responderá: 'Em verdade eu vos digo, todas as vezes que não fizestes isso a um desses pequeninos, foi a mim que não o fizestes!' Portanto, estes irão para o castigo eterno, enquanto os justos irão para a vida eterna\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["Jesus said to his disciples: 'When the Son of Man comes in his glory, escorted by all the angels, then he will take his seat on his throne of glory. All the nations will be assembled before him and he will separate men one from another as the shepherd separates sheep from goats. He will place the sheep on his right hand and the goats on his left. Then the King will say to those on his right hand, \"Come, you whom my Father has blessed, take for your heritage the kingdom prepared for you since the foundation of the world. For I was hungry and you gave me food; I was thirsty and you gave me drink; I was a stranger and you made me welcome; naked and you clothed me, sick and you visited me, in prison and you came to see me.\" Then the virtuous will say to him in reply, \"Lord, when did we see you hungry and feed you; or thirsty and give you drink? When did we see you a stranger and make you welcome; naked and clothe you; sick or in prison and go to see you?\" And the King will answer, \"I tell you solemnly, in so far as you did this to one of the least of these brothers of mine, you did it to me\". Next he will say to those on his left hand, \"Go away from me, with your curse upon you, to the eternal fire prepared for the devil and his angels. For I was hungry and you never gave me food; I was thirsty and you never gave me anything to drink; I was a stranger and you never made me welcome, naked and you never clothed me, sick and in prison and you never visited me.\" Then it will be their turn to ask, \"Lord, when did we see you hungry or thirsty, a stranger or naked, sick or in prison, and did not come to your help?\" Then he will answer, \"I tell you solemnly, in so far as you neglected to do this to one of the least of these, you neglected to do it to me\". And they will go away to eternal punishment, and the virtuous to eternal life.'"]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, dijo Jesús a sus discípulos:"],["«Cuando venga en su gloria el Hijo del hombre, y todos los ángeles con él, se sentará en el trono de su gloria y serán reunidas ante él todas las naciones."],["Él separará a unos de otros, como un pastor separa las ovejas de las cabras."],["Y pondrá las ovejas a su derecha y las cabras a su izquierda. Entonces dirá el rey a los de su derecha:"],["“Venid vosotros, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo."],["Porque tuve hambre y me disteis de comer, tuve sed y me disteis de beber, fui forastero y me hospedasteis, estuve desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme”."],["Entonces los justos le contestarán:"],["“Señor, ¿cuándo te vimos con hambre y te alimentamos, o con sed y te dimos de beber?; ¿cuándo te vimos forastero y te hospedamos, o desnudo y te vestimos?; ¿cuándo te vimos enfermo o en la cárcel y fuimos a verte?”."],["Y el rey les dirá:"],["“En verdad os digo que cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis”."],["Entonces dirá a los de su izquierda:"],["“Apartaos de mí, malditos, id al fuego eterno preparado para el diablo y sus ángeles. Porque tuve hambre y no me disteis de comer, tuve sed y no me disteis de beber, fui forastero y no me hospedasteis, estuve desnudo y no me vestisteis, enfermo y en la cárcel y no me visitasteis”."],["Entonces también estos contestarán:"],["“Señor, ¿cuándo te vimos con hambre o con sed, o forastero o desnudo, o enfermo o en la cárcel, y no te asistimos?”."],["Él les replicará:"],["“En verdad os digo: lo que no hicisteis con uno de estos, los más pequeños, tampoco lo hicisteis conmigo”."],["Y estos irán al castigo eterno y los justos a la vida eterna»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, Gesù disse ai suoi discepoli:"],["«Quando il Figlio dell'uomo verrà nella sua gloria, e tutti gli angeli con lui, siederà sul trono della sua gloria. Davanti a lui verranno radunati tutti i popoli. Egli separerà gli uni dagli altri, come il pastore separa le pecore dalle capre, e porrà le pecore alla sua destra e le capre alla sinistra."],["Allora il re dirà a quelli che saranno alla sua destra: \"Venite, benedetti del Padre mio, ricevete in eredità il regno preparato per voi fin dalla creazione del mondo, perché ho avuto fame e mi avete dato da mangiare, ho avuto sete e mi avete dato da bere, ero straniero e mi avete accolto, nudo e mi avete vestito, malato e mi avete visitato, ero in carcere e siete venuti a trovarmi\"."],["Allora i giusti gli risponderanno: \"Signore, quando ti abbiamo visto affamato e ti abbiamo dato da mangiare, o assetato e ti abbiamo dato da bere? Quando mai ti abbiamo visto straniero e ti abbiamo accolto, o nudo e ti abbiamo vestito? Quando mai ti abbiamo visto malato o in carcere e siamo venuti a visitarti? “E il re risponderà loro: \"In verità io vi dico: tutto quello che avete fatto a uno solo di questi miei fratelli più piccoli, l'avete fatto a me\"."],["Poi dirà anche a quelli che saranno alla sinistra: \"Via, lontano da me, maledetti, nel fuoco eterno, preparato per il diavolo e per i suoi angeli, perché ho avuto fame e non mi avete dato da mangiare, ho avuto sete e non mi avete dato da bere, ero straniero e non mi avete accolto, nudo e non mi avete vestito, malato e in carcere e non mi avete visitato\"."],["Anch'essi allora risponderanno: \"Signore, quando ti abbiamo visto affamato o assetato o straniero o nudo o malato o in carcere, e non ti abbiamo servito?\". Allora egli risponderà loro: \"In verità io vi dico: tutto quello che non avete fatto a uno solo di questi più piccoli, non l'avete fatto a me\"."],["E se ne andranno: questi al supplizio eterno, i giusti invece alla vita eterna»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, Jésus disait à ses disciples :"]]},{"k":"p","lines":[["« Quand le Fils de l'homme viendra dans sa gloire, et tous les anges avec lui, alors il siégera sur son trône de gloire. Toutes les nations seront rassemblées devant lui ; il séparera les hommes les uns des autres, comme le berger sépare les brebis des boucs : il placera les brebis à sa droite, et les boucs à gauche."]]},{"k":"p","lines":[["Alors le Roi dira à ceux qui seront à sa droite : “Venez, les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde. Car j'avais faim, et vous m'avez donné à manger ; j'avais soif, et vous m'avez donné à boire ; j'étais un étranger, et vous m'avez accueilli ; j'étais nu, et vous m'avez habillé ; j'étais malade, et vous m'avez visité ; j'étais en prison, et vous êtes venus jusqu'à moi !” Alors les justes lui répondront : “Seigneur, quand est-ce que nous t'avons vu… ? tu avais donc faim, et nous t'avons nourri ? tu avais soif, et nous t'avons donné à boire ? tu étais un étranger, et nous t'avons accueilli ? tu étais nu, et nous t'avons habillé ? tu étais malade ou en prison… Quand sommes-nous venus jusqu'à toi ?” Et le Roi leur répondra : “Amen, je vous le dis : chaque fois que vous l'avez fait à l'un de ces plus petits de mes frères, c'est à moi que vous l'avez fait.”"]]},{"k":"p","lines":[["Alors il dira à ceux qui seront à sa gauche : “Allez-vous-en loin de moi, vous les maudits, dans le feu éternel préparé pour le diable et ses anges. Car j'avais faim, et vous ne m'avez pas donné à manger ; j'avais soif, et vous ne m'avez pas donné à boire ; j'étais un étranger, et vous ne m'avez pas accueilli ; j'étais nu, et vous ne m'avez pas habillé ; j'étais malade et en prison, et vous ne m'avez pas visité.” Alors ils répondront, eux aussi : “Seigneur, quand t'avons-nous vu avoir faim, avoir soif, être nu, étranger, malade ou en prison, sans nous mettre à ton service ?” Il leur répondra : “Amen, je vous le dis : chaque fois que vous ne l'avez pas fait à l'un de ces plus petits, c'est à moi que vous ne l'avez pas fait.”"]]},{"k":"p","lines":[["Et ils s'en iront, ceux-ci au châtiment éternel, et les justes, à la vie éternelle. »"]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit sprach Jesus zu seinen Jüngern:"],["Wenn der Menschensohn in seiner Herrlichkeit kommt und alle Engel mit ihm, dann wird er sich auf den Thron seiner Herrlichkeit setzen. Und alle Völker werden vor ihm zusammengerufen werden, und er wird sie voneinander scheiden, wie der Hirt die Schafe von den Böcken scheidet. Er wird die Schafe zu seiner Rechten versammeln, die Böcke aber zur Linken."],["Dann wird der König denen auf der rechten Seite sagen: Kommt her, die ihr von meinem Vater gesegnet seid, nehmt das Reich in Besitz, das seit der Erschaffung der Welt für euch bestimmt ist. Denn ich war hungrig, und ihr habt mir zu essen gegeben; ich war durstig, und ihr habt mir zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich aufgenommen; ich war nackt, und ihr habt mir Kleidung gegeben; ich war krank, und ihr habt mich besucht; ich war im Gefängnis, und ihr seid zu mir gekommen."],["Dann werden ihm die Gerechten antworten: Herr, wann haben wir dich hungrig gesehen und dir zu essen gegeben, oder durstig und dir zu trinken gegeben? Und wann haben wir dich fremd und obdachlos gesehen und aufgenommen, oder nackt und dir Kleidung gegeben? Und wann haben wir dich krank oder im Gefängnis gesehen und sind zu dir gekommen?"],["Darauf wird der König ihnen antworten: Amen, ich sage euch: Was ihr für einen meiner geringsten Brüder getan habt, das habt ihr mir getan."],["Dann wird er sich auch an die auf der linken Seite wenden und zu ihnen sagen: Weg von mir, ihr Verfluchten, in das ewige Feuer, das für den Teufel und seine Engel bestimmt ist! Denn ich war hungrig, und ihr habt mir nichts zu essen gegeben; ich war durstig, und ihr habt mir nichts zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich nicht aufgenommen; ich war nackt, und ihr habt mir keine Kleidung gegeben; ich war krank und im Gefängnis, und ihr habt mich nicht besucht."],["Dann werden auch sie antworten: Herr, wann haben wir dich hungrig oder durstig oder obdachlos oder nackt oder krank oder im Gefängnis gesehen und haben dir nicht geholfen?"],["Darauf wird er ihnen antworten: Amen, ich sage euch: Was ihr für einen dieser Geringsten nicht getan habt, das habt ihr auch mir nicht getan."],["Und sie werden weggehen und die ewige Strafe erhalten, die Gerechten aber das ewige Leben."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"75","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"la":"Tempus Quadragesimæ — Hebdomada I — Feria secunda","pt-BR":"Segunda-feira da 1ª Semana da Quaresma","en-US":"Season of Lent — 1st Week: Monday","es":"Tiempo de Cuaresma — Lunes de la I Semana","it":"LUNEDI DELLA I SETTIMANA DI QUARESIMA","fr":"Temps de Carêmebr — Lundi de la 1e semaine1e semaine","de":"Fastenzeit — 1. Woche: Montag"}}
+{
+ "id": "tempore.lent.week-1.monday",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Quadragesimæ"
+       ],
+       [
+        "Hebdomada I"
+       ],
+       [
+        "Feria secunda"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "1ª Semana da Quaresma"
+       ],
+       [
+        "Segunda-feira da 1ª Semana da Quaresma"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Season of Lent"
+       ],
+       [
+        "1st Week: Monday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo de Cuaresma"
+       ],
+       [
+        "Lunes de la I Semana"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "LUNEDI DELLA I SETTIMANA DI QUARESIMA"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps de Carêmebr"
+       ],
+       [
+        "Lundi de la 1e semaine1e semaine"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Fastenzeit"
+       ],
+       [
+        "1. Woche: Montag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iuste iudica proximo tuo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Levítici"
+       ]
+      ],
+      "cite": "19, 1-2.11-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Locútus est Dóminus ad Móysen dicens: «Lóquere ad omnem cœtum filiórum Israel et dices ad eos:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sancti estóte, quia sanctus sum ego, Dóminus Deus vester."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non faciétis furtum. Non mentiémini, nec decípiet unusquísque próximum suum. Non periurábis in nómine meo nec póllues nomen Dei tui. Ego Dóminus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non fácies calúmniam próximo tuo nec spoliábis eum. Non morábitur merces mercennárii apud te usque mane. Non maledíces surdo nec coram cæco pones offendículum; sed timébis Deum tuum. Ego Dóminus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non faciétis, quod iníquum est in iudício. Non consíderes persónam páuperis nec honóres vultum poténtis. Iuste iúdica próximo tuo. Non eris criminátor et susúrro in pópulo tuo. Non stabis contra sánguinem próximi tui. Ego Dóminus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ne óderis fratrem tuum in corde tuo; árgue eum, ne hábeas super illo peccátum. Non quæres ultiónem nec irascéris cívibus tuis. Díliges próximum tuum sicut teípsum. Ego Dóminus»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Julga teu próximo conforme a justiça."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Levítico"
+       ]
+      ],
+      "cite": "19, 1-2.11-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor falou a Moisés, dizendo: \"Fala a toda a comunidade dos filhos de Israel, e dize-lhes: Sede santos, porque eu, o Senhor vosso Deus, sou santo. Não furteis, não digais mentiras, nem vos enganeis uns aos outros. Não jureis falso por meu nome, profanando o nome do Senhor teu Deus. Eu sou o Senhor. Não explores o teu próximo nem pratiques extorsão contra ele. Não retenhas contigo a diária do assalariado até o dia seguinte. Não amaldiçoes o surdo, nem ponhas tropeço diante do cego, mas temerás o teu Deus. Eu sou o Senhor. Não cometas injustiças no exercício da justiça; não favoreças o pobre nem prestigieis o poderoso. Julga teu próximo conforme a justiça. Não sejas um maldizente entre o teu povo. Não conspires, caluniando-o, contra a vida do teu próximo. Eu sou o Senhor. Não tenhas no coração ódio contra teu irmão. Repreende o teu próximo, para não te tornares culpado de pecado por causa dele. Não procures vingança, nem guardes rancor aos teus compatriotas. Amarás o teu próximo como a ti mesmo. Eu sou o Senhor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Leviticus"
+       ]
+      ],
+      "cite": "19:1-2.11-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord spoke to Moses; he said: 'Speak to the whole community of the sons of Israel and say to them: \"Be holy, for I, the Lord your God, am holy. \"You must not steal nor deal deceitfully or fraudulently with your neighbour. You must not swear falsely by my name, profaning the name of your God. I am the Lord. You must not exploit or rob your neighbour. You must not keep back the labourer's wage until next morning. You must not curse the dumb, nor put an obstacle in the blind man's way, but you must fear your God. I am the Lord. \"You must not be guilty of unjust verdicts. You must neither be partial to the little man nor overawed by the great; you must pass judgment on your neighbour according to justice. You must not slander your own people, and you must not jeopardise your neighbour's life. I am the Lord. You must not bear hatred for your brother in your heart. You must openly tell him, your neighbour, of his offence; this way you will not take a sin upon yourself. You must not exact vengeance, nor must you bear a grudge against the children of your people. You must love your neighbour as yourself. I am the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Juzga con justicia a tu prójimo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Levítico"
+       ]
+      ],
+      "cite": "19, 1-2.11-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor habló así a Moisés:"
+       ],
+       [
+        "«Di a la comunidad de los hijos de Israel:"
+       ],
+       [
+        "“Sed santos, porque yo, el Señor, vuestro Dios, soy santo. No robaréis ni defraudaréis ni os engañaréis unos a otros. No juraréis en falso por mi nombre, profanando el nombre de tu Dios. Yo soy el Señor."
+       ],
+       [
+        "No explotarás a tu prójimo ni le robarás. No dormirá contigo hasta la mañana siguiente el jornal del obrero."
+       ],
+       [
+        "No maldecirás al sordo ni pondrás tropiezo al ciego. Teme a tu Dios. Yo soy el Señor."
+       ],
+       [
+        "No daréis sentencias injustas. No serás parcial ni por favorecer al pobre ni por honrar al rico. Juzga con justicia a tu prójimo."
+       ],
+       [
+        "No andarás difamando a tu gente, ni declararás en falso contra la vida de tu prójimo. Yo soy el Señor."
+       ],
+       [
+        "No odiarás de corazón a tu hermano, pero reprenderás a tu prójimo, para que no cargues tú con su pecado."
+       ],
+       [
+        "No te vengarás de los hijos de tu pueblo ni les guardarás rencor, sino que amarás a tu prójimo como a ti mismo. Yo soy el Señor”»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Giudica il tuo prossimo con giustizia."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del Levitico"
+       ]
+      ],
+      "cite": "19, 1-2.11-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore parlò a Mosè e disse:"
+       ],
+       [
+        "«Parla a tutta la comunità degli Israeliti dicendo loro: \"Siate santi, perché io, il Signore, vostro Dio, sono santo."
+       ],
+       [
+        "Non ruberete né userete inganno o menzogna a danno del prossimo."
+       ],
+       [
+        "Non giurerete il falso servendovi del mio nome: profaneresti il nome del tuo Dio. Io sono il Signore."
+       ],
+       [
+        "Non opprimerai il tuo prossimo, né lo spoglierai di ciò che è suo; non tratterrai il salario del bracciante al tuo servizio fino al mattino dopo."
+       ],
+       [
+        "Non maledirai il sordo, né metterai inciampo davanti al cieco, ma temerai il tuo Dio. Io sono il Signore."
+       ],
+       [
+        "Non commetterete ingiustizia in giudizio; non tratterai con parzialità il povero né userai preferenze verso il potente: giudicherai il tuo prossimo con giustizia. Non andrai in giro a spargere calunnie fra il tuo popolo né coopererai alla morte del tuo prossimo. Io sono il Signore."
+       ],
+       [
+        "Non coverai nel tuo cuore odio contro il tuo fratello; rimprovera apertamente il tuo prossimo, così non ti caricherai d'un peccato per lui. Non ti vendicherai e non serberai rancore contro i figli del tuo popolo, ma amerai il tuo prossimo come te stesso. Io sono il Signore\"»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre du Lévitique"
+       ]
+      ],
+      "cite": "19, 1-2.11-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur parla à Moïse et dit : « Parle à toute l'assemblée des fils d'Israël. Tu leur diras : Soyez saints, car moi, le Seigneur votre Dieu, je suis saint."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vous ne volerez pas, vous ne mentirez pas, vous ne tromperez aucun de vos compatriotes. Vous ne ferez pas de faux serments par mon nom : tu profanerais le nom de ton Dieu. Je suis le Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu n'exploiteras pas ton prochain, tu ne le dépouilleras pas : tu ne retiendras pas jusqu'au matin la paye du salarié. Tu ne maudiras pas un sourd, tu ne mettras pas d'obstacle devant un aveugle : tu craindras ton Dieu. Je suis le Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quand vous siégerez au tribunal, vous ne commettrez pas d'injustice ; tu n'avantageras pas le faible, tu ne favoriseras pas le puissant : tu jugeras ton compatriote avec justice. Tu ne répandras pas de calomnies contre quelqu'un de ton peuple, tu ne réclameras pas la mort de ton prochain. Je suis le Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu ne haïras pas ton frère dans ton cœur. Mais tu devras réprimander ton compatriote, et tu ne toléreras pas la faute qui est en lui. Tu ne te vengeras pas. Tu ne garderas pas de rancune contre les fils de ton peuple. Tu aimeras ton prochain comme toi-même. Je suis le Seigneur. »"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Levitikus"
+       ]
+      ],
+      "cite": "19, 1-2. 11-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr sprach zu Mose: Rede zur ganzen Gemeinde der Israeliten, und sag zu ihnen:"
+       ],
+       [
+        "Seid heilig, denn ich, der Herr, euer Gott, bin heilig."
+       ],
+       [
+        "Ihr sollt nicht stehlen, nicht täuschen und einander nicht betrügen. Ihr sollt nicht falsch bei meinem Namen schwören; du würdest sonst den Namen deines Gottes entweihen. Ich bin der Herr."
+       ],
+       [
+        "Du sollst deinen Nächsten nicht ausbeuten und ihn nicht um das Seine bringen. Der Lohn des Tagelöhners soll nicht über Nacht bis zum Morgen bei dir bleiben. Du sollst einen Tauben nicht verfluchen und einem Blinden kein Hindernis in den Weg stellen; vielmehr sollst du deinen Gott fürchten. Ich bin der Herr."
+       ],
+       [
+        "Ihr sollt in der Rechtsprechung kein Unrecht tun. Du sollst weder für einen Geringen noch für einen Großen Partei nehmen; gerecht sollst du deinen Stammesgenossen richten. Du sollst deinen Stammesgenossen nicht verleumden und dich nicht hinstellen und das Leben deines Nächsten fordern. Ich bin der Herr."
+       ],
+       [
+        "Du sollst in deinem Herzen keinen Hass gegen deinen Bruder tragen. Weise deinen Stammesgenossen zurecht, so wirst du seinetwegen keine Schuld auf dich laden. An den Kindern deines Volkes sollst du dich nicht rächen und ihnen nichts nachtragen. Du sollst deinen Nächsten lieben wie dich selbst. Ich bin der Herr."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 15 (: Io 6, 63)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 18 B (19), 8.9.10.15 (: Jo 6, 63c)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 15 (: Io 6, 63)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 18, 8. 9. 10. 15 (: Io 6, 63)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 18 (19)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 15 (: Io 6, 63)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 19 (18), 8. 9. 10. 11 u. 15 (R: vgl. Joh 6, 63b)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Verba tua, Dómine, Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "Ó Senhor, vossas palavras são espírito e vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Your words, O Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tus palabras, Señor, son espíritu y vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lex Dómini immaculáta, refíciens ánimam,"
+       ],
+       [
+        "testimónium Dómini fidéle, sapiéntiam præstans párvulis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A lei do Senhor Deus é perfeita, conforto para a alma!"
+       ],
+       [
+        "O testemunho do Senhor é fiel,"
+       ],
+       [
+        "sabedoria dos humildes."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The law of the Lord is perfect, it revives the soul. The rule of the Lord is to be trusted, it gives wisdom to the simple."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La ley del Señor es perfecta"
+       ],
+       [
+        "y es descanso del alma;"
+       ],
+       [
+        "el precepto del Señor es fiel"
+       ],
+       [
+        "e instruye a los ignorantes."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La legge del Signore è perfetta,"
+       ],
+       [
+        "rinfranca l'anima;"
+       ],
+       [
+        "la testimonianza del Signore è stabile,"
+       ],
+       [
+        "rende saggio il semplice."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La loi du Seigneur est parfaite,"
+       ],
+       [
+        "qui redonne vie ; *"
+       ],
+       [
+        "la charte du Seigneur est sûre,"
+       ],
+       [
+        "qui rend sages les simples."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Weisung des Herrn ist vollkommen,"
+       ],
+       [
+        "sie erquickt den Menschen."
+       ],
+       [
+        "Das Gesetz des Herrn ist verlässlich,"
+       ],
+       [
+        "den Unwissenden macht es weise."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Verba tua, Dómine, Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "Ó Senhor, vossas palavras são espírito e vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Your words, O Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tus palabras, Señor, son espíritu y vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iustítiæ Dómini rectæ, lætificántes corda,"
+       ],
+       [
+        "præcéptum Dómini lúcidum, illúminans óculos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os preceitos do Senhor são precisos,"
+       ],
+       [
+        "alegria ao coração."
+       ],
+       [
+        "O mandamento do Senhor é brilhante,"
+       ],
+       [
+        "para os olhos é uma luz."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The precepts of the Lord are right, they gladden the heart. The command of the Lord is clear, it gives light to the eyes."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los mandatos del Señor son rectos"
+       ],
+       [
+        "y alegran el corazón;"
+       ],
+       [
+        "la norma del Señor es límpida"
+       ],
+       [
+        "y da luz a los ojos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I precetti del Signore sono retti,"
+       ],
+       [
+        "fanno gioire il cuore;"
+       ],
+       [
+        "il comando del Signore è limpido,"
+       ],
+       [
+        "illumina gli occhi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les préceptes du Seigneur sont droits,"
+       ],
+       [
+        "ils réjouissent le cœur ;"
+       ],
+       [
+        "le commandement du Seigneur est limpide,"
+       ],
+       [
+        "il clarifie le regard."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Befehle des Herrn sind richtig,"
+       ],
+       [
+        "sie erfreuen das Herz;"
+       ],
+       [
+        "das Gebot des Herrn ist lauter,"
+       ],
+       [
+        "es erleuchtet die Augen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Verba tua, Dómine, Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "Ó Senhor, vossas palavras são espírito e vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Your words, O Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tus palabras, Señor, son espíritu y vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Timor Dómini mundus, pérmanens in sǽculum sǽculi,"
+       ],
+       [
+        "iudícia Dómini vera, iusta ómnia simul."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "É puro o temor do Senhor, imutável para sempre."
+       ],
+       [
+        "Os julgamentos do Senhor são corretos e justos igualmente."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The fear of the Lord is holy, abiding for ever. The decrees of the Lord are truth and all of them just."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El temor del Señor es puro"
+       ],
+       [
+        "y eternamente estable;"
+       ],
+       [
+        "los mandamientos del Señor son verdaderos"
+       ],
+       [
+        "y enteramente justos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il timore del Signore è puro,"
+       ],
+       [
+        "rimane per sempre;"
+       ],
+       [
+        "i giudizi del Signore sono fedeli,"
+       ],
+       [
+        "sono tutti giusti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La crainte qu'il inspire est pure,"
+       ],
+       [
+        "elle est là pour toujours ;"
+       ],
+       [
+        "les décisions du Seigneur sont justes"
+       ],
+       [
+        "et vraiment équitables."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Furcht des Herrn ist rein,"
+       ],
+       [
+        "sie besteht für immer."
+       ],
+       [
+        "Die Urteile des Herrn sind wahr,"
+       ],
+       [
+        "gerecht sind sie alle."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Verba tua, Dómine, Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "Ó Senhor, vossas palavras são espírito e vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Your words, O Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tus palabras, Señor, son espíritu y vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sint ut compláceant elóquia oris mei,"
+       ],
+       [
+        "et meditátio cordis mei in conspéctu tuo."
+       ],
+       [
+        "Dómine, adiútor meus et redémptor meus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que vos agrade o cantar dos meus lábios"
+       ],
+       [
+        "e a voz da minha alma;"
+       ],
+       [
+        "que ela chegue até vós,"
+       ],
+       [
+        "ó Senhor, meu Rochedo e Redentor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the spoken words of my mouth, the thoughts of my heart, win favor in your sight, O Lord, my rescuer, my rock!"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que te agraden las palabras de mi boca,"
+       ],
+       [
+        "y llegue a tu presencia el meditar de mi corazón,"
+       ],
+       [
+        "Señor, Roca mía, Redentor mío."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti siano gradite le parole della mia bocca;"
+       ],
+       [
+        "davanti a te i pensieri del mio cuore."
+       ],
+       [
+        "Signore, mia roccia e mio redentore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accueille les paroles de"
+       ],
+       [
+        "qu'ils parviennent devant toi,"
+       ],
+       [
+        "Seigneur, mon rocher, mon défenseur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sie sind kostbarer als Gold, als Feingold in Menge."
+       ],
+       [
+        "Sie sind süßer als Honig, als Honig aus Waben."
+       ],
+       [
+        "Die Worte meines Mundes mögen dir gefallen;"
+       ],
+       [
+        "was ich im Herzen erwäge, stehe dir vor Augen,"
+       ],
+       [
+        "Herr, mein Fels und mein Erlöser."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Verba tua, Dómine, Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "Ó Senhor, vossas palavras são espírito e vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Your words, O Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tus palabras, Señor, son espíritu y vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Versus ante Evangelium"
+       ]
+      ],
+      "cite": "2 Cor 6, 2b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce nunc tempus acceptábile,"
+       ],
+       [
+        "ecce nunc dies salútis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "2 Cor 6, 2b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eis o tempo de conversão"
+       ],
+       [
+        "eis o dia da salvação."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "2 Co 6:2",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "This is the favorable time, this is the day of salvation."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Versículo antes del Evangelio"
+       ]
+      ],
+      "cite": "2 Cor 6, 2b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ahora es el tiempo favorable,"
+       ],
+       [
+        "ahora es el día de la salvación."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "(2 Cor 6,2)",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lode a te, o Cristo, re di eterna gloria!"
+       ],
+       [
+        "Ecco ora il momento favorevole,"
+       ],
+       [
+        "ecco ora il giorno della salvezza!"
+       ],
+       [
+        "Lode a te, o Cristo, re di eterna gloria!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verset avant l'Évangile"
+       ]
+      ],
+      "cite": "2 Cor 6, 2b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Louange à toi, Seigneur, Roi d'éternelle gloire !"
+       ],
+       [
+        "Voici maintenant le moment favorable, voici maintenant le jour du salut."
+       ],
+       [
+        "Louange à toi, Seigneur, Roi d'éternelle gloire !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "2 Kor 6, 2b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr Jesus, dir sei Ruhm und Ehre!"
+       ],
+       [
+        "Jetzt ist sie da, die Zeit der Gnade; jetzt ist er da, der Tag der Rettung."
+       ],
+       [
+        "Herr Jesus, dir sei Ruhm und Ehre!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quamdiu fecistis uni de his fratribus meis minimis, mihi fecistis"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Todas as vezes que fizestes isso a um dos menores de meus irmãos foi a mim que o fisestes."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "25:31-46",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tutto quello che avete fatto a uno solo di questi miei fratelli più piccoli, l'avete fatto a me."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus discípulis suis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Cum vénerit Fílius hóminis in glória sua, et omnes ángeli cum eo, tunc sedébit super thronum glóriæ suæ. Et congregabúntur ante eum omnes gentes; et separábit eos ab ínvicem, sicut pastor ségregat oves ab hædis, et státuet oves quidem a dextris suis, hædos autem a sinístris."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc dicet Rex his, qui a dextris eius erunt: “Veníte, benedícti Patris mei; possidéte parátum vobis regnum a constitutióne mundi. Esurívi enim, et dedístis mihi manducáre; sitívi, et dedístis mihi bíbere; hospes eram, et collegístis me; nudus, et operuístis me; infírmus, et visitástis me; in cárcere eram, et venístis ad me”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc respondébunt ei iusti dicéntes: “Dómine, quando te vídimus esuriéntem et pávimus, aut sitiéntem et dédimus tibi potum? Quando autem te vídimus hóspitem et collégimus, aut nudum et cooperúimus? Quando autem te vídimus infírmum aut in cárcere et vénimus ad te?”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et respóndens Rex dicet illis: “Amen dico vobis: Quámdiu fecístis uni de his frátribus meis mínimis, mihi fecístis”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc dicet et his, qui a sinístris erunt: “Discédite a me, maledícti, in ignem ætérnum, qui præparátus est Diábolo et ángelis eius. Esurívi enim, et non dedístis mihi manducáre; sitívi, et non dedístis mihi potum; hospes eram, et non collegístis me; nudus, et non operuístis me; infírmus et in cárcere, et non visitástis me”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc respondébunt et ipsi dicéntes: “Dómine, quando te vídimus esuriéntem aut sitiéntem aut hóspitem aut nudum aut infírmum vel in cárcere et non ministrávimus tibi?”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc respondébit illis dicens: “Amen dico vobis: Quámdiu non fecístis uni de mínimis his, nec mihi fecístis”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ibunt hi in supplícium ætérnum, iusti autem in vitam ætérnam»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus a seus discípulos: Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso. Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos. E colocará as ovelhas à sua direita e os cabritos à sua esquerda. Então o Rei dirá aos que estiverem à sua direita: 'Vinde benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo! Pois eu estava com fome e me destes de comer; eu estava com sede e me destes de beber; eu era estrangeiro e me recebestes em casa; eu estava nu e me vestistes; eu estava doente e cuidastes de mim; eu estava na prisão e fostes me visitar'. Então os justos lhe perguntarão: 'Senhor, quando foi que te vimos com fome e te demos de comer? com sede e te demos de beber? Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos? Quando foi que te vimos doente ou preso, e fomos te visitar?' Então o Rei lhes responderá: 'Em verdade eu vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!' Depois o Rei dirá aos que estiverem à sua esquerda: 'Afastai-vos de mim, malditos! Ide para o fogo eterno, preparado para o diabo e para os seus anjos. Pois eu estava com fome e não me destes de comer; eu estava com sede e não me destes de beber; eu era estrangeiro e não me recebestes em casa; eu estava nu e não me vestistes; eu estava doente e na prisão e não fostes me visitar'. E responderão também eles: 'Senhor, quando foi que te vimos com fome, ou com sede, como estrangeiro, ou nu, doente ou preso, e não te servimos?' Então o Rei lhes responderá: 'Em verdade eu vos digo, todas as vezes que não fizestes isso a um desses pequeninos, foi a mim que não o fizestes!' Portanto, estes irão para o castigo eterno, enquanto os justos irão para a vida eterna\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his disciples: 'When the Son of Man comes in his glory, escorted by all the angels, then he will take his seat on his throne of glory. All the nations will be assembled before him and he will separate men one from another as the shepherd separates sheep from goats. He will place the sheep on his right hand and the goats on his left. Then the King will say to those on his right hand, \"Come, you whom my Father has blessed, take for your heritage the kingdom prepared for you since the foundation of the world. For I was hungry and you gave me food; I was thirsty and you gave me drink; I was a stranger and you made me welcome; naked and you clothed me, sick and you visited me, in prison and you came to see me.\" Then the virtuous will say to him in reply, \"Lord, when did we see you hungry and feed you; or thirsty and give you drink? When did we see you a stranger and make you welcome; naked and clothe you; sick or in prison and go to see you?\" And the King will answer, \"I tell you solemnly, in so far as you did this to one of the least of these brothers of mine, you did it to me\". Next he will say to those on his left hand, \"Go away from me, with your curse upon you, to the eternal fire prepared for the devil and his angels. For I was hungry and you never gave me food; I was thirsty and you never gave me anything to drink; I was a stranger and you never made me welcome, naked and you never clothed me, sick and in prison and you never visited me.\" Then it will be their turn to ask, \"Lord, when did we see you hungry or thirsty, a stranger or naked, sick or in prison, and did not come to your help?\" Then he will answer, \"I tell you solemnly, in so far as you neglected to do this to one of the least of these, you neglected to do it to me\". And they will go away to eternal punishment, and the virtuous to eternal life.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus discípulos:"
+       ],
+       [
+        "«Cuando venga en su gloria el Hijo del hombre, y todos los ángeles con él, se sentará en el trono de su gloria y serán reunidas ante él todas las naciones."
+       ],
+       [
+        "Él separará a unos de otros, como un pastor separa las ovejas de las cabras."
+       ],
+       [
+        "Y pondrá las ovejas a su derecha y las cabras a su izquierda. Entonces dirá el rey a los de su derecha:"
+       ],
+       [
+        "“Venid vosotros, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo."
+       ],
+       [
+        "Porque tuve hambre y me disteis de comer, tuve sed y me disteis de beber, fui forastero y me hospedasteis, estuve desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme”."
+       ],
+       [
+        "Entonces los justos le contestarán:"
+       ],
+       [
+        "“Señor, ¿cuándo te vimos con hambre y te alimentamos, o con sed y te dimos de beber?; ¿cuándo te vimos forastero y te hospedamos, o desnudo y te vestimos?; ¿cuándo te vimos enfermo o en la cárcel y fuimos a verte?”."
+       ],
+       [
+        "Y el rey les dirá:"
+       ],
+       [
+        "“En verdad os digo que cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis”."
+       ],
+       [
+        "Entonces dirá a los de su izquierda:"
+       ],
+       [
+        "“Apartaos de mí, malditos, id al fuego eterno preparado para el diablo y sus ángeles. Porque tuve hambre y no me disteis de comer, tuve sed y no me disteis de beber, fui forastero y no me hospedasteis, estuve desnudo y no me vestisteis, enfermo y en la cárcel y no me visitasteis”."
+       ],
+       [
+        "Entonces también estos contestarán:"
+       ],
+       [
+        "“Señor, ¿cuándo te vimos con hambre o con sed, o forastero o desnudo, o enfermo o en la cárcel, y no te asistimos?”."
+       ],
+       [
+        "Él les replicará:"
+       ],
+       [
+        "“En verdad os digo: lo que no hicisteis con uno de estos, los más pequeños, tampoco lo hicisteis conmigo”."
+       ],
+       [
+        "Y estos irán al castigo eterno y los justos a la vida eterna»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi discepoli:"
+       ],
+       [
+        "«Quando il Figlio dell'uomo verrà nella sua gloria, e tutti gli angeli con lui, siederà sul trono della sua gloria. Davanti a lui verranno radunati tutti i popoli. Egli separerà gli uni dagli altri, come il pastore separa le pecore dalle capre, e porrà le pecore alla sua destra e le capre alla sinistra."
+       ],
+       [
+        "Allora il re dirà a quelli che saranno alla sua destra: \"Venite, benedetti del Padre mio, ricevete in eredità il regno preparato per voi fin dalla creazione del mondo, perché ho avuto fame e mi avete dato da mangiare, ho avuto sete e mi avete dato da bere, ero straniero e mi avete accolto, nudo e mi avete vestito, malato e mi avete visitato, ero in carcere e siete venuti a trovarmi\"."
+       ],
+       [
+        "Allora i giusti gli risponderanno: \"Signore, quando ti abbiamo visto affamato e ti abbiamo dato da mangiare, o assetato e ti abbiamo dato da bere? Quando mai ti abbiamo visto straniero e ti abbiamo accolto, o nudo e ti abbiamo vestito? Quando mai ti abbiamo visto malato o in carcere e siamo venuti a visitarti? “E il re risponderà loro: \"In verità io vi dico: tutto quello che avete fatto a uno solo di questi miei fratelli più piccoli, l'avete fatto a me\"."
+       ],
+       [
+        "Poi dirà anche a quelli che saranno alla sinistra: \"Via, lontano da me, maledetti, nel fuoco eterno, preparato per il diavolo e per i suoi angeli, perché ho avuto fame e non mi avete dato da mangiare, ho avuto sete e non mi avete dato da bere, ero straniero e non mi avete accolto, nudo e non mi avete vestito, malato e in carcere e non mi avete visitato\"."
+       ],
+       [
+        "Anch'essi allora risponderanno: \"Signore, quando ti abbiamo visto affamato o assetato o straniero o nudo o malato o in carcere, e non ti abbiamo servito?\". Allora egli risponderà loro: \"In verità io vi dico: tutto quello che non avete fatto a uno solo di questi più piccoli, non l'avete fatto a me\"."
+       ],
+       [
+        "E se ne andranno: questi al supplizio eterno, i giusti invece alla vita eterna»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses disciples :"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "« Quand le Fils de l'homme viendra dans sa gloire, et tous les anges avec lui, alors il siégera sur son trône de gloire. Toutes les nations seront rassemblées devant lui ; il séparera les hommes les uns des autres, comme le berger sépare les brebis des boucs : il placera les brebis à sa droite, et les boucs à gauche."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors le Roi dira à ceux qui seront à sa droite : “Venez, les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde. Car j'avais faim, et vous m'avez donné à manger ; j'avais soif, et vous m'avez donné à boire ; j'étais un étranger, et vous m'avez accueilli ; j'étais nu, et vous m'avez habillé ; j'étais malade, et vous m'avez visité ; j'étais en prison, et vous êtes venus jusqu'à moi !” Alors les justes lui répondront : “Seigneur, quand est-ce que nous t'avons vu… ? tu avais donc faim, et nous t'avons nourri ? tu avais soif, et nous t'avons donné à boire ? tu étais un étranger, et nous t'avons accueilli ? tu étais nu, et nous t'avons habillé ? tu étais malade ou en prison… Quand sommes-nous venus jusqu'à toi ?” Et le Roi leur répondra : “Amen, je vous le dis : chaque fois que vous l'avez fait à l'un de ces plus petits de mes frères, c'est à moi que vous l'avez fait.”"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors il dira à ceux qui seront à sa gauche : “Allez-vous-en loin de moi, vous les maudits, dans le feu éternel préparé pour le diable et ses anges. Car j'avais faim, et vous ne m'avez pas donné à manger ; j'avais soif, et vous ne m'avez pas donné à boire ; j'étais un étranger, et vous ne m'avez pas accueilli ; j'étais nu, et vous ne m'avez pas habillé ; j'étais malade et en prison, et vous ne m'avez pas visité.” Alors ils répondront, eux aussi : “Seigneur, quand t'avons-nous vu avoir faim, avoir soif, être nu, étranger, malade ou en prison, sans nous mettre à ton service ?” Il leur répondra : “Amen, je vous le dis : chaque fois que vous ne l'avez pas fait à l'un de ces plus petits, c'est à moi que vous ne l'avez pas fait.”"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ils s'en iront, ceux-ci au châtiment éternel, et les justes, à la vie éternelle. »"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Wenn der Menschensohn in seiner Herrlichkeit kommt und alle Engel mit ihm, dann wird er sich auf den Thron seiner Herrlichkeit setzen. Und alle Völker werden vor ihm zusammengerufen werden, und er wird sie voneinander scheiden, wie der Hirt die Schafe von den Böcken scheidet. Er wird die Schafe zu seiner Rechten versammeln, die Böcke aber zur Linken."
+       ],
+       [
+        "Dann wird der König denen auf der rechten Seite sagen: Kommt her, die ihr von meinem Vater gesegnet seid, nehmt das Reich in Besitz, das seit der Erschaffung der Welt für euch bestimmt ist. Denn ich war hungrig, und ihr habt mir zu essen gegeben; ich war durstig, und ihr habt mir zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich aufgenommen; ich war nackt, und ihr habt mir Kleidung gegeben; ich war krank, und ihr habt mich besucht; ich war im Gefängnis, und ihr seid zu mir gekommen."
+       ],
+       [
+        "Dann werden ihm die Gerechten antworten: Herr, wann haben wir dich hungrig gesehen und dir zu essen gegeben, oder durstig und dir zu trinken gegeben? Und wann haben wir dich fremd und obdachlos gesehen und aufgenommen, oder nackt und dir Kleidung gegeben? Und wann haben wir dich krank oder im Gefängnis gesehen und sind zu dir gekommen?"
+       ],
+       [
+        "Darauf wird der König ihnen antworten: Amen, ich sage euch: Was ihr für einen meiner geringsten Brüder getan habt, das habt ihr mir getan."
+       ],
+       [
+        "Dann wird er sich auch an die auf der linken Seite wenden und zu ihnen sagen: Weg von mir, ihr Verfluchten, in das ewige Feuer, das für den Teufel und seine Engel bestimmt ist! Denn ich war hungrig, und ihr habt mir nichts zu essen gegeben; ich war durstig, und ihr habt mir nichts zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich nicht aufgenommen; ich war nackt, und ihr habt mir keine Kleidung gegeben; ich war krank und im Gefängnis, und ihr habt mich nicht besucht."
+       ],
+       [
+        "Dann werden auch sie antworten: Herr, wann haben wir dich hungrig oder durstig oder obdachlos oder nackt oder krank oder im Gefängnis gesehen und haben dir nicht geholfen?"
+       ],
+       [
+        "Darauf wird er ihnen antworten: Amen, ich sage euch: Was ihr für einen dieser Geringsten nicht getan habt, das habt ihr auch mir nicht getan."
+       ],
+       [
+        "Und sie werden weggehen und die ewige Strafe erhalten, die Gerechten aber das ewige Leben."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "la": "Tempus Quadragesimæ — Hebdomada I — Feria secunda",
+  "pt-BR": "Segunda-feira da 1ª Semana da Quaresma",
+  "en-US": "Season of Lent — 1st Week: Monday",
+  "es": "Tiempo de Cuaresma — Lunes de la I Semana",
+  "it": "LUNEDI DELLA I SETTIMANA DI QUARESIMA",
+  "fr": "Temps de Carêmebr — Lundi de la 1e semaine1e semaine",
+  "de": "Fastenzeit — 1. Woche: Montag"
+ }
+}

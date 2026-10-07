@@ -1,1 +1,200 @@
-{"id":"sanctorale.07-28.africa","source":"santos/santos_africa#0728","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In the Dioceses of Africa]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["July 28"],["Saint Victor I, Pope and Martyr"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Martyrs: For One Martyr, or from the Common of Pastors: For a Pope."}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h4","lines":[["Collect"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Almighty ever-living God,"],["who chose Saint Victor to preside over your people"],["and benefit them by word and example,"],["keep safe, we pray, by his intercession, the shepherds of your Church"],["along with the flocks entrusted to their care,"],["and direct them in the way of eternal salvation."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}]},"part":"collect"},{"slot":"17","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.54","preface.55","preface.56"],"title":{"*":"Saint Victor I, Pope and Martyr"}}
+{
+ "id": "sanctorale.07-28.africa",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In the Dioceses of Africa]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "July 28"
+       ],
+       [
+        "Saint Victor I, Pope and Martyr"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Martyrs: For One Martyr, or from the Common of Pastors: For a Pope."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "who chose Saint Victor to preside over your people"
+       ],
+       [
+        "and benefit them by word and example,"
+       ],
+       [
+        "keep safe, we pray, by his intercession, the shepherds of your Church"
+       ],
+       [
+        "along with the flocks entrusted to their care,"
+       ],
+       [
+        "and direct them in the way of eternal salvation."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.54",
+  "preface.55",
+  "preface.56"
+ ],
+ "title": {
+  "*": "Saint Victor I, Pope and Martyr"
+ }
+}

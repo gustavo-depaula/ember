@@ -1,1 +1,325 @@
-{"id":"sanctorale.06-04.france","source":"santos/santos_fran#0604","kind":"sanctoral","items":[{"text":{"*":[{"k":"h2","lines":[["4 juin"],["Sainte Clotilde"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Mémoire facultative en France"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"p","lines":[["Le nom de Clotilde apparaît dans tous les récits relatifs à la conversion de Clovis. On sait moins que l'épouse du roi franc, à qui elle donna cinq enfants, traversa les épreuves les plus tragiques. Devenue veuve (511), elle vit l'un de ses fils égorger les enfants de son frère. Brisée dans son affection, elle se retira à Tours, où elle mourut en 545."]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Pr 31, 30.28"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["La femme qui craint le Seigneur"],["est seule digne de louange ;"],["ses enfants la bénissent,"],["son mari fait son éloge."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Regarde avec bonté, Seigneur,"],["le peuple de France ;"],["toi qui lui as fait le don de la foi"],["sur les instances de sainte Clotilde,"],["accorde-lui maintenant, par son intercession,"],["un attachement sincère à ton service."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l’unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}]},"part":"collect"},{"mark":"readings"},{"text":{"*":[{"k":"h4","lines":[["Prière sur les offrandes"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["En te présentant, Seigneur, ce sacrifice"],["pour fêter la mémoire de sainte Clotilde,"],["nous t’adressons notre prière :"],["Qu’avec ton pardon il nous apporte le salut."],["Par Jésus."]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"h4","lines":[["Préface"]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Des Saints"}]]}]},"part":"preface","role":"rubric"},{"text":{"*":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Mt 13, 45-46"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Le Royaume des cieux est comparable"],["à un négociant qui recherche des perles fines."],["Ayant trouvé une perle de grande valeur,"],["il va vendre tout ce qu’il possède,"],["et il achète la perle."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Prière après la communion"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Que cette eucharistie, Dieu tout-puissant,"],["nous apporte lumière et ferveur en cette fête de sainte Clotilde :"],["Que nos cœurs brûlent toujours du désir de la sainteté,"],["et que notre vie se passe à faire le bien."],["Par Jésus."]]}]},"part":"postcommunion"}],"precedence":10,"lectionary":"sanctorale.06-04.france","prefaces":["preface.52","preface.53"],"title":{"*":"Sainte Clotilde"}}
+{
+ "id": "sanctorale.06-04.france",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "4 juin"
+       ],
+       [
+        "Sainte Clotilde"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Mémoire facultative en France"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le nom de Clotilde apparaît dans tous les récits relatifs à la conversion de Clovis. On sait moins que l'épouse du roi franc, à qui elle donna cinq enfants, traversa les épreuves les plus tragiques. Devenue veuve (511), elle vit l'un de ses fils égorger les enfants de son frère. Brisée dans son affection, elle se retira à Tours, où elle mourut en 545."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Pr 31, 30.28"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La femme qui craint le Seigneur"
+       ],
+       [
+        "est seule digne de louange ;"
+       ],
+       [
+        "ses enfants la bénissent,"
+       ],
+       [
+        "son mari fait son éloge."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Regarde avec bonté, Seigneur,"
+       ],
+       [
+        "le peuple de France ;"
+       ],
+       [
+        "toi qui lui as fait le don de la foi"
+       ],
+       [
+        "sur les instances de sainte Clotilde,"
+       ],
+       [
+        "accorde-lui maintenant, par son intercession,"
+       ],
+       [
+        "un attachement sincère à ton service."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En te présentant, Seigneur, ce sacrifice"
+       ],
+       [
+        "pour fêter la mémoire de sainte Clotilde,"
+       ],
+       [
+        "nous t’adressons notre prière :"
+       ],
+       [
+        "Qu’avec ton pardon il nous apporte le salut."
+       ],
+       [
+        "Par Jésus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Des Saints"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Mt 13, 45-46"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Royaume des cieux est comparable"
+       ],
+       [
+        "à un négociant qui recherche des perles fines."
+       ],
+       [
+        "Ayant trouvé une perle de grande valeur,"
+       ],
+       [
+        "il va vendre tout ce qu’il possède,"
+       ],
+       [
+        "et il achète la perle."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que cette eucharistie, Dieu tout-puissant,"
+       ],
+       [
+        "nous apporte lumière et ferveur en cette fête de sainte Clotilde :"
+       ],
+       [
+        "Que nos cœurs brûlent toujours du désir de la sainteté,"
+       ],
+       [
+        "et que notre vie se passe à faire le bien."
+       ],
+       [
+        "Par Jésus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 10,
+ "lectionary": "sanctorale.06-04.france",
+ "prefaces": [
+  "preface.52",
+  "preface.53"
+ ],
+ "title": {
+  "*": "Sainte Clotilde"
+ }
+}

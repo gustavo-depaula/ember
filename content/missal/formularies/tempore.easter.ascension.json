@@ -1,1 +1,1714 @@
-{"id":"tempore.easter.ascension","source":"tiempos/tiempos_pascua#P064B","kind":"tempore","items":[{"slot":"520","text":{"la":[{"k":"h2","lines":[["Tempus Paschale"],["IN ASCENSIONE DOMINI"]]},{"k":"h3","lines":[["Sollemnitas"],["Ad Missam in Die"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo Pascal"],["ASCENÇÃO DO SENHOR"]]},{"k":"h3","lines":[["Solenidade"],["Missa do Dia"]]}],"en-US":[{"k":"h2","lines":[["Easter Season"],["THE ASCENSION OF THE LORD"]]},{"k":"h3","lines":[["Solemnity"],["At the Mass during the Day"]]},{"k":"h2","lines":[["Easter Season"],["OUR LORD'S ASCENSION"]]},{"k":"h3","lines":[["Solemnity"]]}],"es":[{"k":"h2","lines":[["Tiempo Pascual"],["LA ASCENSIÓN DEL SEÑOR"]]},{"k":"h3","lines":[["Solemnidad"]]}],"it":[{"k":"h2","lines":[["Tempo Pasquale"],["ASCENSIONE DEL SIGNORE"]]},{"k":"h3","lines":[["Solennità"],["Messa del giorno"]]}],"fr":[{"k":"h2","lines":[["Temps pascal"],["SOLENNITÉ DE L'ASCENSION"]]}],"de":[{"k":"h2","lines":[["Osterzeit"],["CHRISTI HIMMELFAHRT"]]},{"k":"h3","lines":[["Hochfest"],["Am Tag"]]}]},"part":"title"},{"slot":"521","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Act 1, 11"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"At 1, 11"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Act 1, 11"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Act 1, 11"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. At 1, 11"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Act 1, 11"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Apg 1, 11"}]},"part":"entranceAntiphon"},{"slot":"522","text":{"la":[{"k":"p","lines":[["Viri Galilǽi, quid admirámini aspiciéntes in cælum?"],["Quemádmodum vidístis eum ascendéntem in cælum,"],["ita véniet, alléluia."]]}],"pt-BR":[{"k":"p","lines":[["Homens da Galileia,"],["por que ficais aqui, parados, olhando para o céu?"],["Esse Jesus virá do mesmo modo"],["como o vistes partir para o céu, aleluia."]]}],"en-US":[{"k":"p","lines":[["Men of Galilee, why gaze in wonder at the heavens? This Jesus whom you saw ascending into heaven will return as you saw him go, alleluia."]]}],"es":[{"k":"p","lines":[["Galileos, ¿qué hacéis ahí mirando al cielo? Volverá como lo habéis visto marcharse al cielo. Aleluya."]]}],"it":[{"k":"p","lines":[["«Uomini di Galilea,"],["perché fissate nel cielo lo sguardo?"],["Come l'avete visto salire al cielo,"],["così il Signore ritornerà». Alleluia.Uomini di Galilea, perché state a guardare il cielo? Come l'avete visto salire al cielo, così il Signore verrà. Alleluia."]]}],"fr":[{"k":"p","lines":[["Hommes de Galilée, pourquoi restez-vous là à regarder vers le ciel ?"],["Il viendra de la même manière,"],["celui que vous avez vu s'en aller vers le ciel, alléluia."]]}],"de":[{"k":"p","lines":[["Ihr Männer von Galiläa, was steht ihr da und schaut zum Himmel? Der Herr wird wiederkommen, wie er jetzt aufgefahren ist. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"523","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}]},"part":"gloria"},{"slot":"524","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"525","text":{"la":[{"k":"p","lines":[["Fac nos, omnípotens Deus, sanctis exsultáre gáudiis,"],["et pia gratiárum actióne lætári,"],["quia Christi Fílii tui ascénsio est nostra provéctio,"],["et quo procéssit glória cápitis, eo spes vocátur et córporis."],["Per Dóminum."],[{"m":"rubric","t":"Vel: "}],["Concéde, quǽsumus, omnípotens Deus,"],["ut, qui hodiérna die"],["Unigénitum tuum Redemptórem nostrum"],["ad cælos ascendísse crédimus,"],["ipsi quoque mente in cæléstibus habitémus."],["Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Deus todo-poderoso, fazei-nos exultar de santa alegria e fervorosa ação de graças, pois na ascensão de Cristo vosso Filho nossa humanidade foi elevada junto a vós e, tendo ele nos precedido como nossa cabeça, nos chama para a glória como membros do seu corpo. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."],[{"m":"rubric","t":"Ou: "}],["Deus todo-poderoso, cremos que vosso Filho Unigênito, nosso Redentor, hoje subiu ao céu. Concedei também a nós habitar desde já nas moradas celestiais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Gladden us with holy joys, almighty God,"],["and make us rejoice with devout thanksgiving,"],["for the Ascension of Christ your Son"],["is our exaltation,"],["and, where the Head has gone before in glory,"],["the Body is called to follow in hope."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."],[{"m":"rubric","t":"Or: "}],["Grant, we pray, almighty God,"],["that we, who believe that your Only Begotten Son, our Redeemer, ascended this day to the heavens,"],["may in spirit dwell already in heavenly realms."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso,"],["concédenos exultar santamente de gozo"],["y alegrarnos con religiosa acción de gracias,"],["porque la ascensión de Jesucristo, tu Hijo,"],["es ya nuestra victoria,"],["y adonde ya se ha adelantado gloriosamente nuestra Cabeza,"],["esperamos llegar también los miembros de su cuerpo."],["Por nuestro Señor Jesucristo."],[{"m":"rubric","t":"O bien: "}],["Dios todopoderoso,"],["concédenos habitar espiritualmente en las moradas celestiales"],["a cuantos creemos que tu Unigénito y Redentor nuestro"],["ascendió hoy a la gloria."],["Él, que vive y reina contigo."]]}],"it":[{"k":"p","lines":[["Esulti di santa gioia la tua Chiesa, o Padre, per il mistero che celebra in questa liturgia di lode, poiché nel tuo Figlio asceso al cielo la nostra umanità è innalzata accanto a te, e noi, membra del suo corpo, viviamo nella speranza di raggiungere Cristo, nostro capo, nella gloria. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."],[{"m":"rubric","t":"Oppure:"}],["Dio onnipotente, concedi che i nostri cuori dimorino nei cieli, dove noi crediamo che oggi è asceso il tuo Unigenito, nostro redentore. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant,"],["fais-nous exulter d'une joie sainte"],["et nous réjouir dans une fervente action de grâce,"],["car l'ascension de ton Fils, le Christ,"],["nous introduit déjà auprès de toi,"],["nous, les membres du corps dont il est la tête,"],["appelés à vivre en espérance"],["dans la gloire où il nous a précédés."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."],[{"m":"rubric","t":"Ou bien: "}],["Nous t'en prions, Dieu tout-puissant :"],["puisque nous croyons que ton Fils unique, notre Rédempteur,"],["est aujourd'hui monté au ciel,"],["accorde-nous d'habiter en esprit"],["dans la demeure des cieux."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, erfülle uns mit Freude und Dankbarkeit, denn in der Himmelfahrt deines Sohnes hast du den Menschen erhöht. Schenke uns das feste Vertrauen, dass auch wir zu der Herrlichkeit gerufen sind, in die Christus uns vorausgegangen ist, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"526","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},"Credo",{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},"Creio",{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Credo"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},"Credo",{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}]},"part":"creed"},{"slot":"527","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"528","text":{"la":[{"k":"p","lines":[["Sacrifícium, Dómine, pro Fílii tui súpplices"],["venerábili nunc ascensióne deférimus:"],["præsta, quǽsumus,"],["ut his commérciis sacrosánctis"],["ad cæléstia consurgámus."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, na festa da venerável ascensão do vosso Filho"],["nós vos apresentamos humildemente este sacrifício."],["Concedei que, por este intercâmbio de dons,"],["sejamos elevados às realidades do céu."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["We offer sacrifice now in supplication, O Lord, to honor the wondrous Ascension of your Son: grant, we pray,"],["that through this most holy exchange"],["we, too, may rise up to the heavenly realms."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te presentamos ahora, Señor, el sacrificio"],["para celebrar la admirable ascensión de tu Hijo;"],["concédenos, por este sagrado intercambio,"],["elevarnos hasta las realidades del cielo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, o Padre, il sacrificio che ti offriamo nella mirabile ascensione del tuo Figlio, e per questo santo scambio di doni fa' che il nostro spirito si innalzi alla gioia del cielo. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur, en ce jour où nous fêtons"],["l'admirable ascension de ton Fils auprès de toi,"],["nous te présentons humblement ce sacrifice ;"],["nous t'en prions, fais que cet échange très saint"],["élève nos cœurs vers les réalités célestes."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, am Fest der Himmelfahrt deines Sohnes bringen wir dieses Opfer dar. Gib uns durch diese heilige Feier die Gnade, dass wir uns über das Irdische erheben und suchen, was droben ist. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"530","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Mt 28, 20"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Mt 28, 20"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Mt 28: 20"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Mt 28, 20"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]]}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Mt 28, 20"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Mt 28, 20"}]},"part":"communionAntiphon"},{"slot":"531","text":{"la":[{"k":"p","lines":[["Ecce ego vobíscum sum ómnibus diébus"],["usque ad consummatiónem sǽculi, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Eis que estarei convosco todos os dias"],["até o fim do mundo, aleluia."]]}],"en-US":[{"k":"p","lines":[["Behold, I am with you always, even to the end of the age, alleluia."]]}],"es":[{"k":"p","lines":[["Sabed que yo estoy con vosotros todos los días, hasta el final de los tiempos. Aleluya."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"★ A "}],["Ecco, io sono con voi tutti i giorni, sino alla fine del mondo. Alleluia."],[{"m":"rubric","t":"★ B "}],["Andate in tutto il mondo e proclamate il Vangelo a ogni creatura. Alleluia."],[{"m":"rubric","t":"★ C "}],["Nel nome del Signore Gesù predicate a tutti i popoli la conversione e il perdono dei peccati. Alleluia."]],"cite":"Cf. Lc 24, 47"}],"fr":[{"k":"p","lines":[["Je suis avec vous tous les jours,"],["jusqu'à la fin du monde, alléluia."]]}],"de":[{"k":"p","lines":[["Ich bin bei euch alle Tage bis zum Ende der Welt. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"532","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"533","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus,"],["qui in terra constitútos divína tractáre concédis,"],["præsta, quǽsumus,"],["ut illuc tendat christiánæ devotiónis afféctus,"],["quo tecum est nostra substántia."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso,"],["que nos concedeis conviver na terra com os mistérios divinos,"],["fazei que nossos corações se voltem com fervor para o alto,"],["onde está, junto de vós, a nossa natureza humana."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God,"],["who allow those on earth to celebrate divine mysteries, grant, we pray,"],["that Christian hope may draw us onward"],["to where our nature is united with you."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["que, mientras vivimos aún en la tierra,"],["nos concedes gustar los divinos misterios,"],["te rogamos que el afecto de nuestra piedad cristiana"],["se dirija allí donde nuestra condición humana está contigo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, che alla tua Chiesa pellegrina sulla terra fai gustare i divini misteri, suscita in noi il desiderio del cielo, dove hai innalzato l'uomo accanto a te nella gloria. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["tu nous donnes d'avoir part aux mystères divins"],["alors que nous sommes encore sur la terre ;"],["mets en nos cœurs un grand désir d'être unis au Christ"],["en qui notre nature humaine est déjà près de toi."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, du hast uns, die wir noch auf Erden leben, deine göttlichen Geheimnisse anvertraut. Lenke unser Sinnen und Verlangen zum Himmel, wo Christus als Erster der Menschen bei dir ist, der mit dir lebt und herrscht in Ewigkeit."]]}]},"part":"postcommunion"},{"slot":"534","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Adhiberi potest formula sollemnis."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Pode-se usar a fórmula da Solene."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Solemn formula may be used."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se puede usar la fórmula de solemne."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Adhiberi potest formulaSi può utilizzare la formula della solenne."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On peut utiliser la formule de la solennelle."}]]}]},"part":"prayerOverPeople","role":"rubric"}],"precedence":2,"prefaces":["preface.21","preface.22"],"title":{"la":"Tempus Paschale — IN ASCENSIONE DOMINI","pt-BR":"Tempo Pascal — ASCENÇÃO DO SENHOR","en-US":"Easter Season — THE ASCENSION OF THE LORD","es":"Tiempo Pascual — LA ASCENSIÓN DEL SEÑOR","it":"Tempo Pasquale — ASCENSIONE DEL SIGNORE","fr":"Temps pascal — SOLENNITÉ DE L'ASCENSION","de":"Osterzeit — CHRISTI HIMMELFAHRT"},"subtitle":{"la":"Sollemnitas Ad Missam in Die","pt-BR":"Solenidade Missa do Dia","en-US":"Solemnity At the Mass during the Day","es":"Solemnidad","it":"Solennità Messa del giorno","de":"Hochfest Am Tag"}}
+{
+ "id": "tempore.easter.ascension",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Paschale"
+       ],
+       [
+        "IN ASCENSIONE DOMINI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Sollemnitas"
+       ],
+       [
+        "Ad Missam in Die"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pascal"
+       ],
+       [
+        "ASCENÇÃO DO SENHOR"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solenidade"
+       ],
+       [
+        "Missa do Dia"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Easter Season"
+       ],
+       [
+        "THE ASCENSION OF THE LORD"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnity"
+       ],
+       [
+        "At the Mass during the Day"
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Easter Season"
+       ],
+       [
+        "OUR LORD'S ASCENSION"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnity"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo Pascual"
+       ],
+       [
+        "LA ASCENSIÓN DEL SEÑOR"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnidad"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pasquale"
+       ],
+       [
+        "ASCENSIONE DEL SIGNORE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solennità"
+       ],
+       [
+        "Messa del giorno"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps pascal"
+       ],
+       [
+        "SOLENNITÉ DE L'ASCENSION"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Osterzeit"
+       ],
+       [
+        "CHRISTI HIMMELFAHRT"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Hochfest"
+       ],
+       [
+        "Am Tag"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Act 1, 11"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "At 1, 11"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Act 1, 11"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Act 1, 11"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. At 1, 11"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Act 1, 11"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Apg 1, 11"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Viri Galilǽi, quid admirámini aspiciéntes in cælum?"
+       ],
+       [
+        "Quemádmodum vidístis eum ascendéntem in cælum,"
+       ],
+       [
+        "ita véniet, alléluia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Homens da Galileia,"
+       ],
+       [
+        "por que ficais aqui, parados, olhando para o céu?"
+       ],
+       [
+        "Esse Jesus virá do mesmo modo"
+       ],
+       [
+        "como o vistes partir para o céu, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Men of Galilee, why gaze in wonder at the heavens? This Jesus whom you saw ascending into heaven will return as you saw him go, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Galileos, ¿qué hacéis ahí mirando al cielo? Volverá como lo habéis visto marcharse al cielo. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Uomini di Galilea,"
+       ],
+       [
+        "perché fissate nel cielo lo sguardo?"
+       ],
+       [
+        "Come l'avete visto salire al cielo,"
+       ],
+       [
+        "così il Signore ritornerà». Alleluia.Uomini di Galilea, perché state a guardare il cielo? Come l'avete visto salire al cielo, così il Signore verrà. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hommes de Galilée, pourquoi restez-vous là à regarder vers le ciel ?"
+       ],
+       [
+        "Il viendra de la même manière,"
+       ],
+       [
+        "celui que vous avez vu s'en aller vers le ciel, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ihr Männer von Galiläa, was steht ihr da und schaut zum Himmel? Der Herr wird wiederkommen, wie er jetzt aufgefahren ist. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fac nos, omnípotens Deus, sanctis exsultáre gáudiis,"
+       ],
+       [
+        "et pia gratiárum actióne lætári,"
+       ],
+       [
+        "quia Christi Fílii tui ascénsio est nostra provéctio,"
+       ],
+       [
+        "et quo procéssit glória cápitis, eo spes vocátur et córporis."
+       ],
+       [
+        "Per Dóminum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ],
+       [
+        "Concéde, quǽsumus, omnípotens Deus,"
+       ],
+       [
+        "ut, qui hodiérna die"
+       ],
+       [
+        "Unigénitum tuum Redemptórem nostrum"
+       ],
+       [
+        "ad cælos ascendísse crédimus,"
+       ],
+       [
+        "ipsi quoque mente in cæléstibus habitémus."
+       ],
+       [
+        "Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus todo-poderoso, fazei-nos exultar de santa alegria e fervorosa ação de graças, pois na ascensão de Cristo vosso Filho nossa humanidade foi elevada junto a vós e, tendo ele nos precedido como nossa cabeça, nos chama para a glória como membros do seu corpo. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ],
+       [
+        "Deus todo-poderoso, cremos que vosso Filho Unigênito, nosso Redentor, hoje subiu ao céu. Concedei também a nós habitar desde já nas moradas celestiais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gladden us with holy joys, almighty God,"
+       ],
+       [
+        "and make us rejoice with devout thanksgiving,"
+       ],
+       [
+        "for the Ascension of Christ your Son"
+       ],
+       [
+        "is our exaltation,"
+       ],
+       [
+        "and, where the Head has gone before in glory,"
+       ],
+       [
+        "the Body is called to follow in hope."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ],
+       [
+        "Grant, we pray, almighty God,"
+       ],
+       [
+        "that we, who believe that your Only Begotten Son, our Redeemer, ascended this day to the heavens,"
+       ],
+       [
+        "may in spirit dwell already in heavenly realms."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "concédenos exultar santamente de gozo"
+       ],
+       [
+        "y alegrarnos con religiosa acción de gracias,"
+       ],
+       [
+        "porque la ascensión de Jesucristo, tu Hijo,"
+       ],
+       [
+        "es ya nuestra victoria,"
+       ],
+       [
+        "y adonde ya se ha adelantado gloriosamente nuestra Cabeza,"
+       ],
+       [
+        "esperamos llegar también los miembros de su cuerpo."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ],
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "concédenos habitar espiritualmente en las moradas celestiales"
+       ],
+       [
+        "a cuantos creemos que tu Unigénito y Redentor nuestro"
+       ],
+       [
+        "ascendió hoy a la gloria."
+       ],
+       [
+        "Él, que vive y reina contigo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esulti di santa gioia la tua Chiesa, o Padre, per il mistero che celebra in questa liturgia di lode, poiché nel tuo Figlio asceso al cielo la nostra umanità è innalzata accanto a te, e noi, membra del suo corpo, viviamo nella speranza di raggiungere Cristo, nostro capo, nella gloria. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Dio onnipotente, concedi che i nostri cuori dimorino nei cieli, dove noi crediamo che oggi è asceso il tuo Unigenito, nostro redentore. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant,"
+       ],
+       [
+        "fais-nous exulter d'une joie sainte"
+       ],
+       [
+        "et nous réjouir dans une fervente action de grâce,"
+       ],
+       [
+        "car l'ascension de ton Fils, le Christ,"
+       ],
+       [
+        "nous introduit déjà auprès de toi,"
+       ],
+       [
+        "nous, les membres du corps dont il est la tête,"
+       ],
+       [
+        "appelés à vivre en espérance"
+       ],
+       [
+        "dans la gloire où il nous a précédés."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ],
+       [
+        "Nous t'en prions, Dieu tout-puissant :"
+       ],
+       [
+        "puisque nous croyons que ton Fils unique, notre Rédempteur,"
+       ],
+       [
+        "est aujourd'hui monté au ciel,"
+       ],
+       [
+        "accorde-nous d'habiter en esprit"
+       ],
+       [
+        "dans la demeure des cieux."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, erfülle uns mit Freude und Dankbarkeit, denn in der Himmelfahrt deines Sohnes hast du den Menschen erhöht. Schenke uns das feste Vertrauen, dass auch wir zu der Herrlichkeit gerufen sind, in die Christus uns vorausgegangen ist, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        "Creio",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Credo"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrifícium, Dómine, pro Fílii tui súpplices"
+       ],
+       [
+        "venerábili nunc ascensióne deférimus:"
+       ],
+       [
+        "præsta, quǽsumus,"
+       ],
+       [
+        "ut his commérciis sacrosánctis"
+       ],
+       [
+        "ad cæléstia consurgámus."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, na festa da venerável ascensão do vosso Filho"
+       ],
+       [
+        "nós vos apresentamos humildemente este sacrifício."
+       ],
+       [
+        "Concedei que, por este intercâmbio de dons,"
+       ],
+       [
+        "sejamos elevados às realidades do céu."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We offer sacrifice now in supplication, O Lord, to honor the wondrous Ascension of your Son: grant, we pray,"
+       ],
+       [
+        "that through this most holy exchange"
+       ],
+       [
+        "we, too, may rise up to the heavenly realms."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te presentamos ahora, Señor, el sacrificio"
+       ],
+       [
+        "para celebrar la admirable ascensión de tu Hijo;"
+       ],
+       [
+        "concédenos, por este sagrado intercambio,"
+       ],
+       [
+        "elevarnos hasta las realidades del cielo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, o Padre, il sacrificio che ti offriamo nella mirabile ascensione del tuo Figlio, e per questo santo scambio di doni fa' che il nostro spirito si innalzi alla gioia del cielo. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, en ce jour où nous fêtons"
+       ],
+       [
+        "l'admirable ascension de ton Fils auprès de toi,"
+       ],
+       [
+        "nous te présentons humblement ce sacrifice ;"
+       ],
+       [
+        "nous t'en prions, fais que cet échange très saint"
+       ],
+       [
+        "élève nos cœurs vers les réalités célestes."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, am Fest der Himmelfahrt deines Sohnes bringen wir dieses Opfer dar. Gib uns durch diese heilige Feier die Gnade, dass wir uns über das Irdische erheben und suchen, was droben ist. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Mt 28, 20"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Mt 28, 20"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Mt 28: 20"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Mt 28, 20"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Mt 28, 20"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Mt 28, 20"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce ego vobíscum sum ómnibus diébus"
+       ],
+       [
+        "usque ad consummatiónem sǽculi, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eis que estarei convosco todos os dias"
+       ],
+       [
+        "até o fim do mundo, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Behold, I am with you always, even to the end of the age, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sabed que yo estoy con vosotros todos los días, hasta el final de los tiempos. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "★ A "
+        }
+       ],
+       [
+        "Ecco, io sono con voi tutti i giorni, sino alla fine del mondo. Alleluia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B "
+        }
+       ],
+       [
+        "Andate in tutto il mondo e proclamate il Vangelo a ogni creatura. Alleluia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C "
+        }
+       ],
+       [
+        "Nel nome del Signore Gesù predicate a tutti i popoli la conversione e il perdono dei peccati. Alleluia."
+       ]
+      ],
+      "cite": "Cf. Lc 24, 47"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je suis avec vous tous les jours,"
+       ],
+       [
+        "jusqu'à la fin du monde, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich bin bei euch alle Tage bis zum Ende der Welt. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus,"
+       ],
+       [
+        "qui in terra constitútos divína tractáre concédis,"
+       ],
+       [
+        "præsta, quǽsumus,"
+       ],
+       [
+        "ut illuc tendat christiánæ devotiónis afféctus,"
+       ],
+       [
+        "quo tecum est nostra substántia."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "que nos concedeis conviver na terra com os mistérios divinos,"
+       ],
+       [
+        "fazei que nossos corações se voltem com fervor para o alto,"
+       ],
+       [
+        "onde está, junto de vós, a nossa natureza humana."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "who allow those on earth to celebrate divine mysteries, grant, we pray,"
+       ],
+       [
+        "that Christian hope may draw us onward"
+       ],
+       [
+        "to where our nature is united with you."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "que, mientras vivimos aún en la tierra,"
+       ],
+       [
+        "nos concedes gustar los divinos misterios,"
+       ],
+       [
+        "te rogamos que el afecto de nuestra piedad cristiana"
+       ],
+       [
+        "se dirija allí donde nuestra condición humana está contigo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, che alla tua Chiesa pellegrina sulla terra fai gustare i divini misteri, suscita in noi il desiderio del cielo, dove hai innalzato l'uomo accanto a te nella gloria. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "tu nous donnes d'avoir part aux mystères divins"
+       ],
+       [
+        "alors que nous sommes encore sur la terre ;"
+       ],
+       [
+        "mets en nos cœurs un grand désir d'être unis au Christ"
+       ],
+       [
+        "en qui notre nature humaine est déjà près de toi."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, du hast uns, die wir noch auf Erden leben, deine göttlichen Geheimnisse anvertraut. Lenke unser Sinnen und Verlangen zum Himmel, wo Christus als Erster der Menschen bei dir ist, der mit dir lebt und herrscht in Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Adhiberi potest formula sollemnis."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pode-se usar a fórmula da Solene."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Solemn formula may be used."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se puede usar la fórmula de solemne."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Adhiberi potest formulaSi può utilizzare la formula della solenne."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On peut utiliser la formule de la solennelle."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople",
+   "role": "rubric"
+  }
+ ],
+ "precedence": 2,
+ "prefaces": [
+  "preface.21",
+  "preface.22"
+ ],
+ "title": {
+  "la": "Tempus Paschale — IN ASCENSIONE DOMINI",
+  "pt-BR": "Tempo Pascal — ASCENÇÃO DO SENHOR",
+  "en-US": "Easter Season — THE ASCENSION OF THE LORD",
+  "es": "Tiempo Pascual — LA ASCENSIÓN DEL SEÑOR",
+  "it": "Tempo Pasquale — ASCENSIONE DEL SIGNORE",
+  "fr": "Temps pascal — SOLENNITÉ DE L'ASCENSION",
+  "de": "Osterzeit — CHRISTI HIMMELFAHRT"
+ },
+ "subtitle": {
+  "la": "Sollemnitas Ad Missam in Die",
+  "pt-BR": "Solenidade Missa do Dia",
+  "en-US": "Solemnity At the Mass during the Day",
+  "es": "Solemnidad",
+  "it": "Solennità Messa del giorno",
+  "de": "Hochfest Am Tag"
+ }
+}

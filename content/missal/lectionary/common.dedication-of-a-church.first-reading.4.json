@@ -1,0 +1,445 @@
+{
+ "id": "common.dedication-of-a-church.first-reading.4",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "4"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Repleta erat gloria Domini domus"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Ezechiélis prophétæ"
+       ]
+      ],
+      "cite": "43, 1-2. 4-7a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Duxit me ángelus ad portam, quæ respiciébat ad viam orientálem, et ecce glória Dei Israel ingrediebátur per viam orientálem, et vox erat ei quasi vox aquárum multárum, et terra splendébat a maiestáte eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et maiéstas Dómini ingréssa est templum per viam portæ, quæ respiciébat ad oriéntem. Et levávit me spíritus et introdúxit me in átrium intérius; et ecce repléta erat glória Dómini domus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et audívi loquéntem ad me de domo, cum vir staret iuxta me, et dixit ad me: «Fili hóminis, locus sólii mei et locus vestigiórum pedum meórum, ubi habitábo in médio filiórum Israel in ætérnum»"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Tmplo ficou cheio da glória do Senhor."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura da profecía de Ezequiel"
+       ]
+      ],
+      "cite": "43, 1-2. 4-7a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O homem conduziu-me até a porta da casa do Senhor que dá para o nascente, e eu vi a glória do Deus de Israel, vinda do oriente; um ruído a acompanhava, semelhante ao ruído de águas caudalosas, e a terra brilhava com a sua glória. A glória do Senhor entrou no Templo pela porta que dá para o nascente. Então o espírito raptou-me e me levou para dentro do pátio interno e eu vi que o Templo ficou cheio da glória do Senhor. Ouvi alguém falando-me de dentro do Templo, enquanto o homem esteve de pé junto a mim. Ele me disse: \"Filho do homem, este é o lugar do meu trono, é o lugar em que coloco a planta dos meus pés, o lugar onde habitarei para sempre no meio dos israelitas\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Prophet Ezekiel"
+       ]
+      ],
+      "cite": "43, 1-2. 4-7a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The angel took me to the gate, the one facing east. I saw the glory of the God of Israel approaching from the east. A sound came with it, like the sound of the ocean, and the earth shone with his glory."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The glory of the Lord arrived at the Temple by the east gate. The spirit lifted me up and brought me into the inner court; I saw the glory of the Lord fill the Temple. And I heard someone speaking to me from the Temple while the man stood beside me. The voice said, 'Son of man, this is the dais of my throne, the step on which I rest my feet. I shall live here among the sons of Israel for ever."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La gloria del Señor llenaba el templo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la profecía de Ezequiel"
+       ]
+      ],
+      "cite": "43, 1-2. 4-7a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El ángel me condujo al pórtico oriental."
+       ],
+       [
+        "Vi la Gloria del Dios de Israel que venía de Oriente, con un estruendo de aguas caudalosas. La tierra se iluminó con su Gloria."
+       ],
+       [
+        "La Gloria del Señor entró en el templo por la puerta oriental."
+       ],
+       [
+        "Entonces me arrebató el espíritu y me llevó al atrio interior."
+       ],
+       [
+        "La Gloria del Señor llenaba el templo."
+       ],
+       [
+        "Entonces oí a uno que me hablaba desde el templo, mientras aquel hombre seguía de pie a mi lado, y me decía:"
+       ],
+       [
+        "«Hijo de hombre, este es el sitio de mi trono, el sitio donde apoyo mis pies, y donde voy a residir para siempre en medio de los hijos de Israel»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La gloria del Signore riempiva il tempio."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Ezechiele"
+       ]
+      ],
+      "cite": "43, 1-2.4-7 a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quell'uomo mi condusse verso la porta che guarda a oriente ed ecco che la gloria del Dio d'Israele giungeva dalla via orientale e il suo rumore era come il rumore delle grandi acque e la terra risplendeva della sua gloria. La gloria del Signore entrò nel tempio per la porta che guarda a oriente."
+       ],
+       [
+        "Lo spirito mi prese e mi condusse nel cortile interno: ecco, la gloria del Signore riempiva il tempio. Mentre quell'uomo stava in piedi accanto a me, sentii che qualcuno entro il tempio mi parlava e mi diceva: «Figlio dell'uomo, questo è il luogo del mio trono e il luogo dove posano i miei piedi, dove io abiterò in mezzo ai figli d'Israele, per sempre»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Ézékiel"
+       ]
+      ],
+      "cite": "43, 1-2. 4-7a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'homme me conduisit vers la porte, celle qui fait face à l'orient ; et"
+       ],
+       [
+        "voici que la gloire du Dieu d'Israël arrivait de l'orient. Le bruit qu'elle"
+       ],
+       [
+        "faisait ressemblait au bruit des grandes eaux, et la terre resplendissait de"
+       ],
+       [
+        "cette gloire. La gloire du Seigneur entra dans la Maison par la porte qui"
+       ],
+       [
+        "fait face à l'orient. L'esprit m'enleva et me transporta dans la cour"
+       ],
+       [
+        "intérieure : voici que la gloire du Seigneur remplissait la Maison. Et"
+       ],
+       [
+        "j'entendis une voix qui venait de la Maison, tandis que l'homme se tenait"
+       ],
+       [
+        "près de moi. Cette voix me disait :"
+       ],
+       [
+        "\" Fils d'homme, c'est ici le lieu de mon trône, le lieu sur lequel je pose les pieds, et là je demeurerai au milieu des fils d'Israël, pour toujours. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Ezéchiel"
+       ]
+      ],
+      "cite": "43, 1-2. 4-7a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Mann, der mich begleitete, führte mich zu einem der Tore, dem Tor, das im Osten lag. Da sah ich, wie die Herrlichkeit des Gottes Israels aus dem Osten herankam. Ihr Rauschen war wie das Rauschen gewaltiger Wassermassen, und die Erde leuchtete auf von seiner Herrlichkeit."
+       ],
+       [
+        "Und die Herrlichkeit des Herrn zog in den Tempel ein durch das Tor, das im Osten lag. Der Geist hob mich empor und brachte mich in den Innenhof. Und die Herrlichkeit des Herrn erfüllte den Tempel."
+       ],
+       [
+        "Dann hörte ich vom Tempel her, während der Mann neben mir stand, einen, der mit mir redete; er sagte zu mir: Menschensohn, das ist der Ort, wo mein Thron steht, und der Ort, wo meine Füße ruhen; hier will ich für immer mitten unter den Israeliten wohnen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

@@ -1,1 +1,160 @@
-{"id":"sanctorale.10-21.german-speaking","source":"santos/santos_oct#1021","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["21. Oktober"],["Hl. Ursula und Gefährtinnen, Märtyrinnen"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Die Legende spricht von der heiligen Ursula und ihren 11000 Gefährtinnen. Auch wenn diese nicht historisch belegbar ist, gibt es in der Ursulakirche in Köln eine Inschrift aus dem 4. oder 5. Jh., die besagt, dass diese Kirche anstelle einer älteren Kirche gebaut wurde und dass an diesem Ort mehrere Jungfrauen den Märtyrertod gefunden haben. Ob es drei oder elf (statt elftausend) Jungfrauen waren, lässt sich nicht genau sagen."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Märtyrer:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}," ",{"m":"rubric","t":", oder für Jungfrauen:"}," ",{"m":"link","t":"für mehrere Jungfrauen","to":"common.virgins.0"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Gott, du hast der heiligen Ursula und ihren Gefährtinnen Kraft und Standhaftigkeit im Martyrium gegeben und sie so zur Schau deiner Herrlichkeit geführt. Stärke uns auf ihre Fürbitte im Glauben und in der Liebe und gib uns ewige Gemeinschaft mit ihnen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"}],"precedence":12,"commons":["common.martyrs.1","common.martyrs.2","common.martyrs.3","common.martyrs.4","common.martyrs.5","common.virgins.0"],"title":{"*":"Hl. Ursula und Gefährtinnen, Märtyrinnen"}}
+{
+ "id": "sanctorale.10-21.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21. Oktober"
+       ],
+       [
+        "Hl. Ursula und Gefährtinnen, Märtyrinnen"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Legende spricht von der heiligen Ursula und ihren 11000 Gefährtinnen. Auch wenn diese nicht historisch belegbar ist, gibt es in der Ursulakirche in Köln eine Inschrift aus dem 4. oder 5. Jh., die besagt, dass diese Kirche anstelle einer älteren Kirche gebaut wurde und dass an diesem Ort mehrere Jungfrauen den Märtyrertod gefunden haben. Ob es drei oder elf (statt elftausend) Jungfrauen waren, lässt sich nicht genau sagen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Märtyrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": ", oder für Jungfrauen:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "für mehrere Jungfrauen",
+         "to": "common.virgins.0"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, du hast der heiligen Ursula und ihren Gefährtinnen Kraft und Standhaftigkeit im Martyrium gegeben und sie so zur Schau deiner Herrlichkeit geführt. Stärke uns auf ihre Fürbitte im Glauben und in der Liebe und gib uns ewige Gemeinschaft mit ihnen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  }
+ ],
+ "precedence": 12,
+ "commons": [
+  "common.martyrs.1",
+  "common.martyrs.2",
+  "common.martyrs.3",
+  "common.martyrs.4",
+  "common.martyrs.5",
+  "common.virgins.0"
+ ],
+ "title": {
+  "*": "Hl. Ursula und Gefährtinnen, Märtyrinnen"
+ }
+}

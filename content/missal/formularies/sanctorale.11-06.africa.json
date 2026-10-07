@@ -1,1 +1,359 @@
-{"id":"sanctorale.11-06.africa","source":"santos/santos_africa#1106","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In the Dioceses of Africa]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["November 6"],["All Saints of Africa"]]}]},"part":"title"},{"text":{"*":[{"k":"h3","lines":[["Memorial"]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Entrance Antiphon"]],"cite":"Ps 92:13-14"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["The righteous will flourish like the palm tree, and grow like a Lebanon cedar."],["Planted in the house of the Lord, they will flourish in the courts of our God."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Collect"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["God, our Father,"],["who raised up in the Church of Africa"],["many men and women outstanding in holiness;"],["grant us, we beseech you, the gift of your grace,"],["that we may follow their example"],["in order to be, one day, their fellow citizens in heaven."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}]},"part":"collect"},{"text":{"*":[{"k":"h4","lines":[["Prayer over the Offerings"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Father of love and mercy,"],["receive our prayers and gifts on this feast of the Saints of Africa,"],["may this celebration bring us closer to you,"],["the source of life and holiness,"],["and give us renewed vigour in living our baptismal call."],["Through Christ our Lord."]]}]},"part":"prayerOverOfferings"},{"slot":"32","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Communion Antiphon"]],"cite":"Mt 25:34"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Come, you whom my Father has blessed."],["Inherit the kingdom prepared for you from the foundation of the world."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Prayer after communion"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Father of life,"],["who has nourished us"],["at the table of the Word and of the Eucharist;"],["strengthened by these gifts,"],["and sustained by the example and prayer of the Saints of Africa,"],["may we work for the spreading of your Kingdom"],["in holiness and love."],["Through Christ our Lord."]]}]},"part":"postcommunion"}],"precedence":11,"prefaces":["preface.52","preface.53"],"title":{"*":"All Saints of Africa"}}
+{
+ "id": "sanctorale.11-06.africa",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In the Dioceses of Africa]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "November 6"
+       ],
+       [
+        "All Saints of Africa"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance Antiphon"
+       ]
+      ],
+      "cite": "Ps 92:13-14"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The righteous will flourish like the palm tree, and grow like a Lebanon cedar."
+       ],
+       [
+        "Planted in the house of the Lord, they will flourish in the courts of our God."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "God, our Father,"
+       ],
+       [
+        "who raised up in the Church of Africa"
+       ],
+       [
+        "many men and women outstanding in holiness;"
+       ],
+       [
+        "grant us, we beseech you, the gift of your grace,"
+       ],
+       [
+        "that we may follow their example"
+       ],
+       [
+        "in order to be, one day, their fellow citizens in heaven."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father of love and mercy,"
+       ],
+       [
+        "receive our prayers and gifts on this feast of the Saints of Africa,"
+       ],
+       [
+        "may this celebration bring us closer to you,"
+       ],
+       [
+        "the source of life and holiness,"
+       ],
+       [
+        "and give us renewed vigour in living our baptismal call."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion Antiphon"
+       ]
+      ],
+      "cite": "Mt 25:34"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Come, you whom my Father has blessed."
+       ],
+       [
+        "Inherit the kingdom prepared for you from the foundation of the world."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father of life,"
+       ],
+       [
+        "who has nourished us"
+       ],
+       [
+        "at the table of the Word and of the Eucharist;"
+       ],
+       [
+        "strengthened by these gifts,"
+       ],
+       [
+        "and sustained by the example and prayer of the Saints of Africa,"
+       ],
+       [
+        "may we work for the spreading of your Kingdom"
+       ],
+       [
+        "in holiness and love."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 11,
+ "prefaces": [
+  "preface.52",
+  "preface.53"
+ ],
+ "title": {
+  "*": "All Saints of Africa"
+ }
+}

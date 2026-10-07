@@ -1,1 +1,227 @@
-{"id":"sanctorale.07-20.german-speaking","source":"santos/santos_jul#0720Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["20. Juli"],["Hl. Margareta, Jungfrau, Märtyrin"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Margareta von Antiochien wurde in der Diokletianischen Verfolgung wegen ihres christlichen Glaubens hingerichtet (um 305). Ihre Verehrung hat sich im 7 Jh. auch im Westen verbreitet. Margareta wird zu den 14 Nothelfern gezählt."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Märtyrer:"}," ",{"m":"link","t":"vm","to":"common.martyrs.13"}," ",{"m":"rubric","t":", oder für Jungfrauen:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Herr, unser Gott, du offenbarst uns in der Bedrängnis die Macht deines Erbarmens. Von dir empfing die heilige Margareta die Gnade, das Martyrium zu bestehen. Stärke auch uns mit deiner Kraft und lass uns in aller Not auf deine Hilfe vertrauen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"89","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.54","preface.55"],"commons":["common.martyrs.13","common.virgins.1","common.virgins.2","common.virgins.3"],"title":{"*":"Hl. Margareta, Jungfrau, Märtyrin"}}
+{
+ "id": "sanctorale.07-20.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20. Juli"
+       ],
+       [
+        "Hl. Margareta, Jungfrau, Märtyrin"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Margareta von Antiochien wurde in der Diokletianischen Verfolgung wegen ihres christlichen Glaubens hingerichtet (um 305). Ihre Verehrung hat sich im 7 Jh. auch im Westen verbreitet. Margareta wird zu den 14 Nothelfern gezählt."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Märtyrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "vm",
+         "to": "common.martyrs.13"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": ", oder für Jungfrauen:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du offenbarst uns in der Bedrängnis die Macht deines Erbarmens. Von dir empfing die heilige Margareta die Gnade, das Martyrium zu bestehen. Stärke auch uns mit deiner Kraft und lass uns in aller Not auf deine Hilfe vertrauen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "commons": [
+  "common.martyrs.13",
+  "common.virgins.1",
+  "common.virgins.2",
+  "common.virgins.3"
+ ],
+ "title": {
+  "*": "Hl. Margareta, Jungfrau, Märtyrin"
+ }
+}

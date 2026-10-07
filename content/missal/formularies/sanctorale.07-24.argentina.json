@@ -1,1 +1,299 @@
-{"id":"sanctorale.07-24.argentina","source":"santos/santos_arg#0724","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de Argentina...)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["24 de julio"],["San Francisco Solano, Presbítero"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["En Argentina: Memoria obligatoria"],["En Bolivia el 14 de julio"]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 17, 50; 21, 23"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Te alabaré entre las naciones, Señor, y anunciaré tu Nombre a mis hermanos."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Señor Dios, que por medio del presbítero san Francisco Solano llevaste a muchos pueblos de América al seno de tu Iglesia por sus méritos e intercesión míranos con bondad y atrae hacia ti a los pueblos que todavía no te reconocen. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."]]}]},"part":"collect"},{"mark":"readings"},{"text":{"*":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Dios todopoderoso, acepta nuestra ofrenda en la fiesta de san Francisco Solano, y concédenos expresar en la vida el misterio de la pasión de tu Hijo que ahora celebramos. Por Jesucristo, nuestro Señor."]]}]},"part":"prayerOverOfferings"},{"slot":"7","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Ez 34, 15"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Apacentaré a mis ovejas y las llevaré a descansar, dice el Señor."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración después de la comunión"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Señor y Padre nuestro, por el misterio que celebramos confirma a tus servidores en aquella fe verdadera que san Francisco Solano difundió incansablemente hasta el fin de su vida, y concédenos profesarla siempre de palabra y de obra. Por Jesucristo, nuestro Señor."]]}]},"part":"postcommunion"}],"precedence":10,"lectionary":"sanctorale.07-24.argentina","prefaces":["preface.56"],"title":{"*":"San Francisco Solano, Presbítero"}}
+{
+ "id": "sanctorale.07-24.argentina",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de Argentina...)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "24 de julio"
+       ],
+       [
+        "San Francisco Solano, Presbítero"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En Argentina: Memoria obligatoria"
+       ],
+       [
+        "En Bolivia el 14 de julio"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 17, 50; 21, 23"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te alabaré entre las naciones, Señor, y anunciaré tu Nombre a mis hermanos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor Dios, que por medio del presbítero san Francisco Solano llevaste a muchos pueblos de América al seno de tu Iglesia por sus méritos e intercesión míranos con bondad y atrae hacia ti a los pueblos que todavía no te reconocen. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso, acepta nuestra ofrenda en la fiesta de san Francisco Solano, y concédenos expresar en la vida el misterio de la pasión de tu Hijo que ahora celebramos. Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Ez 34, 15"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apacentaré a mis ovejas y las llevaré a descansar, dice el Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor y Padre nuestro, por el misterio que celebramos confirma a tus servidores en aquella fe verdadera que san Francisco Solano difundió incansablemente hasta el fin de su vida, y concédenos profesarla siempre de palabra y de obra. Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 10,
+ "lectionary": "sanctorale.07-24.argentina",
+ "prefaces": [
+  "preface.56"
+ ],
+ "title": {
+  "*": "San Francisco Solano, Presbítero"
+ }
+}

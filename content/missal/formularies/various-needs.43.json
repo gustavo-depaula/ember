@@ -1,1 +1,1647 @@
-{"id":"various-needs.43","source":"comunes_votivas/diversas#div043","kind":"various-needs","items":[{"slot":"548","text":{"la":[{"k":"h2","lines":[["II. PRO CIRCUMSTANTIIS PUBLICIS"]]},{"k":"h3","lines":[["31. TEMPORE BELLI VEL EVERSIONIS"]]}],"pt-BR":[{"k":"h2","lines":[["II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA"]]},{"k":"h3","lines":[["31. EM TEMPO DE GUERRA OU CONFLITO"]]}],"en-US":[{"k":"h2","lines":[["II. FOR CIVIL NEEDS"]]},{"k":"h3","lines":[["31. IN TIME OF WAR OR CIVIL DISTURBANCE"]]}],"es":[{"k":"h2","lines":[["II. POR LAS NECESIDADES PÚBLICAS"]]},{"k":"h3","lines":[["31. EN TIEMPO DE GUERRA O DESORDEN"]]}],"it":[{"k":"h2","lines":[["PER LA SOCIETÀ CIVILE"]]},{"k":"h3","lines":[["31. IN TEMPO DI GUERRA O DI DISORDINI"]]}],"fr":[{"k":"h2","lines":[["II. POUR DES CIRCONSTANCES PUBLIQUES"]]},{"k":"h3","lines":[["31. EN TEMPS DE GUERRE OU DE TROUBLES GRAVES"]]}],"de":[{"k":"h2","lines":[["II. FÜR STAAT UND GESELLSCHAFT"]]},{"k":"h3","lines":[["31. BEI KRIEG UND BÜRGERKRIEG"]]}]},"part":"title"},{"slot":"549","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ier 29, 11-12. 14"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Jr 29, 11-12. 14"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Jer 29: 11-12, 14"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Jer 29, 11-12. 14"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Ger 29, 11-12.14"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ier 29, 11-12. 14"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Jer 29, 11. 12. 14"}]},"part":"entranceAntiphon"},{"slot":"550","text":{"la":[{"k":"p","lines":[["Dicit Dóminus: Ego cógito cogitatiónes pacis et non afflictiónis; invocábitis me, et ego exáudiam vos, et redúcam captivitátem vestram de cunctis locis."]]}],"pt-BR":[{"k":"p","lines":[["Meus pensamentos são de paz e não de aflição,"],["diz o Senhor."],["Vós me invocareis e hei de escutar-vos,"],["e de todos os lugares"],["reconduzirei vossos cativos."]]}],"en-US":[{"k":"p","lines":[["The Lord said: I think thoughts of peace and not of affliction."],["you will call upon me, and I will answer you,"],["and I will lead back your captives from every place."]]}],"es":[{"k":"p","lines":[["Dice el Señor: «Tengo designios de paz y no de aflicción, me invocaréis y yo os escucharé, os congregaré sacándoos de los países y comarcas por donde os dispersé»."]]}],"it":[{"k":"p","lines":[["Dice il Signore: «Io ho progetti di pace e non di sventura. Voi mi invocherete e io vi esaudirò: vi radunerò da tutte le nazioni dove vi ho disperso»."]]}],"fr":[{"k":"p","lines":[["Mes pensées, dit le Seigneur,"],["sont des pensées de paix et non de malheur."],["Vous m'invoquerez, et je vous écouterai ;"],["de partout, je ramènerai vos captifs."]]}],"de":[{"k":"p","lines":[["Wort Gottes des Herrn: Ich sinne Gedanken des Friedens und nicht des Unheils. Wenn ihr mich anruft, werde ich euch erhören und euch aus der Gefangenschaft von allen Orten zusammenführen."]]}]},"part":"entranceAntiphon"},{"slot":"551","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Ps 17, 5-7"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Cf. Sl 17, 5-7"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]],"cite":"Cf. Ps 17, 5-7"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Cf. Ps 17, 5-7"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]],"cite":"Sal 17, 5.7"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Ps 17, 5-7"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Ps 18 (17), 5-7"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"552","text":{"la":[{"k":"p","lines":[["Circumdedérunt me gémitus mortis, dolóres inférni circumdedérunt me; et in tribulatióne mea invocávi Dóminum, et exaudívit de templo sancto suo vocem meam."]]}],"pt-BR":[{"k":"p","lines":[["Ondas da morte me envolveram totalmente,"],["e as torrentes da maldade me aterraram;"],["ao Senhor eu invoquei na minha angústia"],["e de seu templo ele escutou a minha voz."]]}],"en-US":[{"k":"p","lines":[["The waves of death rose about me;"],["the pains of the netherworld surrounded me. in my anguish I called to the Lord,"],["and from his holy temple he heard my voice."]]}],"es":[{"k":"p","lines":[["Me cercaban olas mortales, me envolvían las redes del abismo; en el peligro invoqué al Señor, desde su templo él escuchó mi voz."]]}],"it":[{"k":"p","lines":[["Mi circondavano flutti di morte, mi travolgevano torrenti infernali; nell'angoscia ho invocato il Signore: dal suo tempio ha ascoltato la mia voce."]]}],"fr":[{"k":"p","lines":[["Les gémissements de la mort m'entouraient,"],["des tourments infernaux m'étreignaient."],["Dans mon angoisse, j'appelai le Seigneur,"],["de son temple saint, il entendit ma voix."]]}],"de":[{"k":"p","lines":[["Mich umfingen die Fesseln des Todes. Die Bande der Unterwelt umstrickten mich. In meiner Not rief ich zum Herrn. Aus seinem Heiligtum hörte er mein Rufen."]]}]},"part":"entranceAntiphon"},{"slot":"553","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"554","text":{"la":[{"k":"p","lines":[["Deus miséricors et fortis, qui bella cónteris deprimísque supérbos, immanitátes a nobis et lácrimas dignáre festinánter arcére, ut omnes in veritáte tui nominári fílii mereámur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus misericordioso e forte,"],["que rejeitais as guerras e humilhais os soberbos,"],["apressai-vos em afastar de nós a violência e as lágrimas,"],["para merecermos ser chamados de verdade vossos filhos e filhas."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["o God, merciful and strong,"],["who crush wars and cast down the proud,"],["be pleased to banish violence swiftly from our midst"],["and to wipe away all tears,"],["so that we may all truly deserve to be called your children. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios misericordioso y fuerte,"],["que rechazas las guerras"],["y humillas a los soberbios,"],["aparta rápidamente de nosotros la destrucción y las lágrimas,"],["para que todos podamos, en verdad, llamamos hijos tuyos."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio misericordioso e forte, che annienti le guerre e abbassi i superbi, allontana al più presto da noi [dall'umanità] orrori e lacrime, perché tutti possiamo essere chiamati veramente tuoi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu de force et de miséricorde,"],["tu détruis les guerres et tu rabaisses les orgueilleux ;"],["vite, empêche-nous de céder à la cruauté et de provoquer des larmes,"],["afin que tous, nous méritions d'être appelés tes fils en vérité."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Barmherziger und starker Gott, in deiner Macht liegt es, Kriege abzuwenden und den Übermut der Mächtigen zu brechen. Nimm die Not und das Leid des Krieges von uns und lass uns erfahren, dass wir in Wahrheit deine Kinder sind. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"555","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"collect","role":"rubric"},{"slot":"556","text":{"la":[{"k":"p","lines":[["Deus, auctor pacis et amátor, quem nosse vívere, cui servíre regnáre est, prótege ab ómnibus impugnatiónibus súpplices tuos, ut, qui in defensióne tua confídimus, nullíus hostilitátis arma timeámus. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, autor e amigo da paz,"],["conhecer-vos é viver"],["e servir-vos é reinar."],["Protegei os que vos invocam contra toda violência,"],["para que, confiantes em vossa proteção,"],["não sejamos atemorizados pelas armas de nenhum inimigo."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, author and lover of peace,"],["to know you is to live, to serve you is to reign;"],["defend against every attack those who cry to you,"],["so that we, who trust in your protection,"],["may not fear the weapons of any foe."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["autor y amante de la paz, conocerte es vivir y servirte es reinar;"],["protege de todas las hostilidades a los que te invocan,"],["para que, quienes confiamos en tu protección,"],["no temamos las armas de ningún enemigo."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, autore e amante della pace, conoscerti è vivere, servirti è regnare; proteggi da ogni aggressione il popolo che ti invoca, perché, confidando nella tua difesa, non tema le armi di alcun nemico. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu, de qui vient toute paix,"],["Dieu qui aimes la paix,"],["te connaître, c'est vivre,"],["te servir, c'est régner ;"],["défends contre toute agression"],["ceux qui te supplient :"],["et fais que nous n'ayons plus aucun ennemi à redouter,"],["puisque nous mettons notre confiance en ta protection."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du Urheber und Freund des Friedens, wer dich kennt, hat das Leben, wer dir dient, hat Anteil an deiner Herrschaft. Behüte uns in allen Gefahren ",{"m":"rubric","t":"("},"des Krieges",{"m":"rubric","t":")"}," und schenke uns Frieden, damit keine Waffengewalt mehr zu fürchten brauchen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"557","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"558","text":{"la":[{"k":"p","lines":[["Memoráre, Dómine, Fílium tuum, qui est ipse pax, ódia nostra suo sánguine peremísse, et, mala nostra propitiátus aspíciens, da, ut homínibus quos díligis pacem hæc hóstia cum tranquillitáte restítuat. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Lembrai-vos, Senhor, de que vosso Filho,"],["a verdadeira paz,"],["com seu sangue, destruiu nosso ódio."],["Olhai compassivo a nossa tribulação"],["e, aos que tanto amais, concedei que este sacrifício"],["devolva a tranquilidade e a paz."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Be mindful, Lord, that your Son,"],["who himself is peace,"],["has destroyed our hatreds by his Blood;"],["look in mercy on our evil deeds"],["and grant that to those whom you love"],["this sacrifice may restore peace and tranquility."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Recuerda, Señor,"],["a tu Hijo, que es la paz misma"],["que con su Sangre hizo desaparecer nuestros odios,"],["y, al mirar compasivo nuestros males,"],["haz que este sacrificio"],["devuelva la paz y la calma"],["a los hombres que amas."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Ricordati, o Padre, che il tuo Figlio, nostra vera pace, ha vinto nel suo sangue ogni inimicizia: guarda con misericordia le nostre sofferenze, e fa' che questa offerta ridoni pace e tranquillità agli uomini che tu ami. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Rappelle-toi, Seigneur :"],["ton Fils est lui-même notre paix ;"],["par son sang, il a détruit la haine qui nous habitait ;"],["regarde avec compassion"],["les maux qui nous affligent"],["et fais que, par ce sacrifice,"],["les hommes que tu aimes"],["retrouvent la paix et la tranquillité."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gedenke, Herr, dass dein Sohn unser Friede ist und dass er durch sein Blut allen Hass ausgelöscht hat. Sieh an unser Elend und unsere Not. Du liebst die Menschen. Darum schenke ihnen wieder Frieden und Sicherheit durch das Opfer deines Sohnes Jesus Christus, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"prayerOverOfferings"},{"slot":"559","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 14, 27"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 14, 27"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 14, 27"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Jn 14, 27"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gv 14, 27"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 14, 27"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 14, 27"}]},"part":"communionAntiphon"},{"slot":"560","text":{"la":[{"k":"p","lines":[["Pacem relínquo vobis, pacem meam do vobis, dicit Dóminus; non quómodo mundus dat, ego do vobis. Non turbétur cor vestrum neque formídet."]]}],"pt-BR":[{"k":"p","lines":[["Deixo-vos a paz, a minha paz vos dou;"],["mas não a dou como o mundo, diz o Senhor."],["Não se perturbe nem se intimide o vosso coração."]]}],"en-US":[{"k":"p","lines":[["Peace I leave with you;"],["my peace I give to you, says the Lord."],["Not as the world gives do I give it to you. Do not let your hearts be troubled or afraid."]]}],"es":[{"k":"p","lines":[["La paz os dejo, mi paz os doy, dice el Señor; no os la doy yo como la da el mundo. Que no se turbe vuestro corazón ni se acobarde."]]}],"it":[{"k":"p","lines":[["Vi lascio la pace, vi do la mia pace, non come la dà il mondo, io la do a voi. Non si turbi il vostro cuore e non abbia timore."]]}],"fr":[{"k":"p","lines":[["Je vous laisse la paix, je vous donne ma paix, dit le Seigneur ;"],["ce n'est pas à la manière du monde que je vous la donne."],["Que votre cœur ne soit pas bouleversé ni effrayé."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Frieden hinterlasse ich euch, meinen Frieden gebe ich euch; nicht wie die Welt ihn gibt, gebe ich ihn euch. Euer Herz ängstige sich nicht und verzage nicht."]]}]},"part":"communionAntiphon"},{"slot":"561","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"562","text":{"la":[{"k":"p","lines":[["Uno pane, qui cor hóminis confírmat, suáviter satiátis, da nobis, Dómine, et belli furóres superáre felíciter, et tuam amóris ac iustítiæ legem fírmiter custodíre. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, nos saciastes com a suavidade"],["do único pão que fortalece o coração humano;"],["concedei a felicidade de superar os furores da guerra"],["e guardar firmes vossa lei de amor e justiça."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant to us, O Lord,"],["that, nourished with the delights of the one Bread that fortifies the human heart,"],["we may successfully overcome the fury of war and resolutely keep your law of love and justice."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Alimentados gratamente, Señor,"],["con el pan único que conforta el corazón del hombre,"],["concédenos superar felizmente la violencia de la guerra"],["y observar fielmente tu ley de justicia y de amor."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Saziati dalla dolcezza dell'unico pane che fortifica il cuore dell'uomo, ti supplichiamo, o Signore: fa' che superariamo incolumi le violenze della guerra e custodiamo saldamente la tua legge di giustizia e di amore. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Puisque nous avons été rassasiés, Seigneur,"],["par la douceur de l'unique pain"],["qui fortifie le cœur de l'homme,"],["accorde-nous de réussir à vaincre la frénésie de la guerre"],["et de nous attacher fermement à ta loi de justice et d'amour."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, du hast uns mit dem einen Brot getröstet und gestärkt. Hilf uns, die Schrecken des Krieges ",{"m":"rubric","t":"("},"dieser Zeit",{"m":"rubric","t":")"}," zu überstehen, und gib, dass das Gesetz deiner Liebe und der Gerechtigkeit von neuem herrsche. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"title":{"la":"II. PRO CIRCUMSTANTIIS PUBLICIS","pt-BR":"II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA","en-US":"II. FOR CIVIL NEEDS","es":"II. POR LAS NECESIDADES PÚBLICAS","it":"PER LA SOCIETÀ CIVILE","fr":"II. POUR DES CIRCONSTANCES PUBLIQUES","de":"II. FÜR STAAT UND GESELLSCHAFT"},"subtitle":{"la":"31. TEMPORE BELLI VEL EVERSIONIS","pt-BR":"31. EM TEMPO DE GUERRA OU CONFLITO","en-US":"31. IN TIME OF WAR OR CIVIL DISTURBANCE","es":"31. EN TIEMPO DE GUERRA O DESORDEN","it":"31. IN TEMPO DI GUERRA O DI DISORDINI","fr":"31. EN TEMPS DE GUERRE OU DE TROUBLES GRAVES","de":"31. BEI KRIEG UND BÜRGERKRIEG"}}
+{
+ "id": "various-needs.43",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. PRO CIRCUMSTANTIIS PUBLICIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "31. TEMPORE BELLI VEL EVERSIONIS"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "31. EM TEMPO DE GUERRA OU CONFLITO"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. FOR CIVIL NEEDS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "31. IN TIME OF WAR OR CIVIL DISTURBANCE"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. POR LAS NECESIDADES PÚBLICAS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "31. EN TIEMPO DE GUERRA O DESORDEN"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "PER LA SOCIETÀ CIVILE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "31. IN TEMPO DI GUERRA O DI DISORDINI"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. POUR DES CIRCONSTANCES PUBLIQUES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "31. EN TEMPS DE GUERRE OU DE TROUBLES GRAVES"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. FÜR STAAT UND GESELLSCHAFT"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "31. BEI KRIEG UND BÜRGERKRIEG"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ier 29, 11-12. 14"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Jr 29, 11-12. 14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Jer 29: 11-12, 14"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Jer 29, 11-12. 14"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Ger 29, 11-12.14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ier 29, 11-12. 14"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Jer 29, 11. 12. 14"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit Dóminus: Ego cógito cogitatiónes pacis et non afflictiónis; invocábitis me, et ego exáudiam vos, et redúcam captivitátem vestram de cunctis locis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Meus pensamentos são de paz e não de aflição,"
+       ],
+       [
+        "diz o Senhor."
+       ],
+       [
+        "Vós me invocareis e hei de escutar-vos,"
+       ],
+       [
+        "e de todos os lugares"
+       ],
+       [
+        "reconduzirei vossos cativos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord said: I think thoughts of peace and not of affliction."
+       ],
+       [
+        "you will call upon me, and I will answer you,"
+       ],
+       [
+        "and I will lead back your captives from every place."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dice el Señor: «Tengo designios de paz y no de aflicción, me invocaréis y yo os escucharé, os congregaré sacándoos de los países y comarcas por donde os dispersé»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dice il Signore: «Io ho progetti di pace e non di sventura. Voi mi invocherete e io vi esaudirò: vi radunerò da tutte le nazioni dove vi ho disperso»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mes pensées, dit le Seigneur,"
+       ],
+       [
+        "sont des pensées de paix et non de malheur."
+       ],
+       [
+        "Vous m'invoquerez, et je vous écouterai ;"
+       ],
+       [
+        "de partout, je ramènerai vos captifs."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort Gottes des Herrn: Ich sinne Gedanken des Friedens und nicht des Unheils. Wenn ihr mich anruft, werde ich euch erhören und euch aus der Gefangenschaft von allen Orten zusammenführen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 17, 5-7"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Cf. Sl 17, 5-7"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 17, 5-7"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 17, 5-7"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Sal 17, 5.7"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 17, 5-7"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Ps 18 (17), 5-7"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Circumdedérunt me gémitus mortis, dolóres inférni circumdedérunt me; et in tribulatióne mea invocávi Dóminum, et exaudívit de templo sancto suo vocem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ondas da morte me envolveram totalmente,"
+       ],
+       [
+        "e as torrentes da maldade me aterraram;"
+       ],
+       [
+        "ao Senhor eu invoquei na minha angústia"
+       ],
+       [
+        "e de seu templo ele escutou a minha voz."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The waves of death rose about me;"
+       ],
+       [
+        "the pains of the netherworld surrounded me. in my anguish I called to the Lord,"
+       ],
+       [
+        "and from his holy temple he heard my voice."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me cercaban olas mortales, me envolvían las redes del abismo; en el peligro invoqué al Señor, desde su templo él escuchó mi voz."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi circondavano flutti di morte, mi travolgevano torrenti infernali; nell'angoscia ho invocato il Signore: dal suo tempio ha ascoltato la mia voce."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les gémissements de la mort m'entouraient,"
+       ],
+       [
+        "des tourments infernaux m'étreignaient."
+       ],
+       [
+        "Dans mon angoisse, j'appelai le Seigneur,"
+       ],
+       [
+        "de son temple saint, il entendit ma voix."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mich umfingen die Fesseln des Todes. Die Bande der Unterwelt umstrickten mich. In meiner Not rief ich zum Herrn. Aus seinem Heiligtum hörte er mein Rufen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus miséricors et fortis, qui bella cónteris deprimísque supérbos, immanitátes a nobis et lácrimas dignáre festinánter arcére, ut omnes in veritáte tui nominári fílii mereámur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus misericordioso e forte,"
+       ],
+       [
+        "que rejeitais as guerras e humilhais os soberbos,"
+       ],
+       [
+        "apressai-vos em afastar de nós a violência e as lágrimas,"
+       ],
+       [
+        "para merecermos ser chamados de verdade vossos filhos e filhas."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "o God, merciful and strong,"
+       ],
+       [
+        "who crush wars and cast down the proud,"
+       ],
+       [
+        "be pleased to banish violence swiftly from our midst"
+       ],
+       [
+        "and to wipe away all tears,"
+       ],
+       [
+        "so that we may all truly deserve to be called your children. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios misericordioso y fuerte,"
+       ],
+       [
+        "que rechazas las guerras"
+       ],
+       [
+        "y humillas a los soberbios,"
+       ],
+       [
+        "aparta rápidamente de nosotros la destrucción y las lágrimas,"
+       ],
+       [
+        "para que todos podamos, en verdad, llamamos hijos tuyos."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio misericordioso e forte, che annienti le guerre e abbassi i superbi, allontana al più presto da noi [dall'umanità] orrori e lacrime, perché tutti possiamo essere chiamati veramente tuoi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu de force et de miséricorde,"
+       ],
+       [
+        "tu détruis les guerres et tu rabaisses les orgueilleux ;"
+       ],
+       [
+        "vite, empêche-nous de céder à la cruauté et de provoquer des larmes,"
+       ],
+       [
+        "afin que tous, nous méritions d'être appelés tes fils en vérité."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger und starker Gott, in deiner Macht liegt es, Kriege abzuwenden und den Übermut der Mächtigen zu brechen. Nimm die Not und das Leid des Krieges von uns und lass uns erfahren, dass wir in Wahrheit deine Kinder sind. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, auctor pacis et amátor, quem nosse vívere, cui servíre regnáre est, prótege ab ómnibus impugnatiónibus súpplices tuos, ut, qui in defensióne tua confídimus, nullíus hostilitátis arma timeámus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, autor e amigo da paz,"
+       ],
+       [
+        "conhecer-vos é viver"
+       ],
+       [
+        "e servir-vos é reinar."
+       ],
+       [
+        "Protegei os que vos invocam contra toda violência,"
+       ],
+       [
+        "para que, confiantes em vossa proteção,"
+       ],
+       [
+        "não sejamos atemorizados pelas armas de nenhum inimigo."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, author and lover of peace,"
+       ],
+       [
+        "to know you is to live, to serve you is to reign;"
+       ],
+       [
+        "defend against every attack those who cry to you,"
+       ],
+       [
+        "so that we, who trust in your protection,"
+       ],
+       [
+        "may not fear the weapons of any foe."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "autor y amante de la paz, conocerte es vivir y servirte es reinar;"
+       ],
+       [
+        "protege de todas las hostilidades a los que te invocan,"
+       ],
+       [
+        "para que, quienes confiamos en tu protección,"
+       ],
+       [
+        "no temamos las armas de ningún enemigo."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, autore e amante della pace, conoscerti è vivere, servirti è regnare; proteggi da ogni aggressione il popolo che ti invoca, perché, confidando nella tua difesa, non tema le armi di alcun nemico. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu, de qui vient toute paix,"
+       ],
+       [
+        "Dieu qui aimes la paix,"
+       ],
+       [
+        "te connaître, c'est vivre,"
+       ],
+       [
+        "te servir, c'est régner ;"
+       ],
+       [
+        "défends contre toute agression"
+       ],
+       [
+        "ceux qui te supplient :"
+       ],
+       [
+        "et fais que nous n'ayons plus aucun ennemi à redouter,"
+       ],
+       [
+        "puisque nous mettons notre confiance en ta protection."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du Urheber und Freund des Friedens, wer dich kennt, hat das Leben, wer dir dient, hat Anteil an deiner Herrschaft. Behüte uns in allen Gefahren ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "des Krieges",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " und schenke uns Frieden, damit keine Waffengewalt mehr zu fürchten brauchen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Memoráre, Dómine, Fílium tuum, qui est ipse pax, ódia nostra suo sánguine peremísse, et, mala nostra propitiátus aspíciens, da, ut homínibus quos díligis pacem hæc hóstia cum tranquillitáte restítuat. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lembrai-vos, Senhor, de que vosso Filho,"
+       ],
+       [
+        "a verdadeira paz,"
+       ],
+       [
+        "com seu sangue, destruiu nosso ódio."
+       ],
+       [
+        "Olhai compassivo a nossa tribulação"
+       ],
+       [
+        "e, aos que tanto amais, concedei que este sacrifício"
+       ],
+       [
+        "devolva a tranquilidade e a paz."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Be mindful, Lord, that your Son,"
+       ],
+       [
+        "who himself is peace,"
+       ],
+       [
+        "has destroyed our hatreds by his Blood;"
+       ],
+       [
+        "look in mercy on our evil deeds"
+       ],
+       [
+        "and grant that to those whom you love"
+       ],
+       [
+        "this sacrifice may restore peace and tranquility."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recuerda, Señor,"
+       ],
+       [
+        "a tu Hijo, que es la paz misma"
+       ],
+       [
+        "que con su Sangre hizo desaparecer nuestros odios,"
+       ],
+       [
+        "y, al mirar compasivo nuestros males,"
+       ],
+       [
+        "haz que este sacrificio"
+       ],
+       [
+        "devuelva la paz y la calma"
+       ],
+       [
+        "a los hombres que amas."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ricordati, o Padre, che il tuo Figlio, nostra vera pace, ha vinto nel suo sangue ogni inimicizia: guarda con misericordia le nostre sofferenze, e fa' che questa offerta ridoni pace e tranquillità agli uomini che tu ami. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rappelle-toi, Seigneur :"
+       ],
+       [
+        "ton Fils est lui-même notre paix ;"
+       ],
+       [
+        "par son sang, il a détruit la haine qui nous habitait ;"
+       ],
+       [
+        "regarde avec compassion"
+       ],
+       [
+        "les maux qui nous affligent"
+       ],
+       [
+        "et fais que, par ce sacrifice,"
+       ],
+       [
+        "les hommes que tu aimes"
+       ],
+       [
+        "retrouvent la paix et la tranquillité."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gedenke, Herr, dass dein Sohn unser Friede ist und dass er durch sein Blut allen Hass ausgelöscht hat. Sieh an unser Elend und unsere Not. Du liebst die Menschen. Darum schenke ihnen wieder Frieden und Sicherheit durch das Opfer deines Sohnes Jesus Christus, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 14, 27"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 14, 27"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 14, 27"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Jn 14, 27"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gv 14, 27"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 14, 27"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 14, 27"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pacem relínquo vobis, pacem meam do vobis, dicit Dóminus; non quómodo mundus dat, ego do vobis. Non turbétur cor vestrum neque formídet."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deixo-vos a paz, a minha paz vos dou;"
+       ],
+       [
+        "mas não a dou como o mundo, diz o Senhor."
+       ],
+       [
+        "Não se perturbe nem se intimide o vosso coração."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Peace I leave with you;"
+       ],
+       [
+        "my peace I give to you, says the Lord."
+       ],
+       [
+        "Not as the world gives do I give it to you. Do not let your hearts be troubled or afraid."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La paz os dejo, mi paz os doy, dice el Señor; no os la doy yo como la da el mundo. Que no se turbe vuestro corazón ni se acobarde."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vi lascio la pace, vi do la mia pace, non come la dà il mondo, io la do a voi. Non si turbi il vostro cuore e non abbia timore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je vous laisse la paix, je vous donne ma paix, dit le Seigneur ;"
+       ],
+       [
+        "ce n'est pas à la manière du monde que je vous la donne."
+       ],
+       [
+        "Que votre cœur ne soit pas bouleversé ni effrayé."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Frieden hinterlasse ich euch, meinen Frieden gebe ich euch; nicht wie die Welt ihn gibt, gebe ich ihn euch. Euer Herz ängstige sich nicht und verzage nicht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uno pane, qui cor hóminis confírmat, suáviter satiátis, da nobis, Dómine, et belli furóres superáre felíciter, et tuam amóris ac iustítiæ legem fírmiter custodíre. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, nos saciastes com a suavidade"
+       ],
+       [
+        "do único pão que fortalece o coração humano;"
+       ],
+       [
+        "concedei a felicidade de superar os furores da guerra"
+       ],
+       [
+        "e guardar firmes vossa lei de amor e justiça."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant to us, O Lord,"
+       ],
+       [
+        "that, nourished with the delights of the one Bread that fortifies the human heart,"
+       ],
+       [
+        "we may successfully overcome the fury of war and resolutely keep your law of love and justice."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alimentados gratamente, Señor,"
+       ],
+       [
+        "con el pan único que conforta el corazón del hombre,"
+       ],
+       [
+        "concédenos superar felizmente la violencia de la guerra"
+       ],
+       [
+        "y observar fielmente tu ley de justicia y de amor."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Saziati dalla dolcezza dell'unico pane che fortifica il cuore dell'uomo, ti supplichiamo, o Signore: fa' che superariamo incolumi le violenze della guerra e custodiamo saldamente la tua legge di giustizia e di amore. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Puisque nous avons été rassasiés, Seigneur,"
+       ],
+       [
+        "par la douceur de l'unique pain"
+       ],
+       [
+        "qui fortifie le cœur de l'homme,"
+       ],
+       [
+        "accorde-nous de réussir à vaincre la frénésie de la guerre"
+       ],
+       [
+        "et de nous attacher fermement à ta loi de justice et d'amour."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, du hast uns mit dem einen Brot getröstet und gestärkt. Hilf uns, die Schrecken des Krieges ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "dieser Zeit",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " zu überstehen, und gib, dass das Gesetz deiner Liebe und der Gerechtigkeit von neuem herrsche. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "la": "II. PRO CIRCUMSTANTIIS PUBLICIS",
+  "pt-BR": "II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA",
+  "en-US": "II. FOR CIVIL NEEDS",
+  "es": "II. POR LAS NECESIDADES PÚBLICAS",
+  "it": "PER LA SOCIETÀ CIVILE",
+  "fr": "II. POUR DES CIRCONSTANCES PUBLIQUES",
+  "de": "II. FÜR STAAT UND GESELLSCHAFT"
+ },
+ "subtitle": {
+  "la": "31. TEMPORE BELLI VEL EVERSIONIS",
+  "pt-BR": "31. EM TEMPO DE GUERRA OU CONFLITO",
+  "en-US": "31. IN TIME OF WAR OR CIVIL DISTURBANCE",
+  "es": "31. EN TIEMPO DE GUERRA O DESORDEN",
+  "it": "31. IN TEMPO DI GUERRA O DI DISORDINI",
+  "fr": "31. EN TEMPS DE GUERRE OU DE TROUBLES GRAVES",
+  "de": "31. BEI KRIEG UND BÜRGERKRIEG"
+ }
+}

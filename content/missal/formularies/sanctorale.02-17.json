@@ -1,1 +1,656 @@
-{"id":"sanctorale.02-17","source":"santos/santos_feb#0217","kind":"sanctoral","items":[{"slot":"74","text":{"la":[{"k":"h2","lines":[["Die 17 februarii"],["Ss. septem Fundatorum Ordinis Servorum B. M. V."]]},{"k":"p","lines":[["Septem viri Florentiæ nati, prius vitam eremiticam duxerunt in monte Senario, beatam Mariam Virginem præsertim venerantes. Per totam Tusciam deinde prædicantes, instituerunt Ordinem Servorum beatæ Maríæ Virginis, quem Sedes Apostolica anno 1304 approbavit. Eorum memoria hac die celebratur, qua S. Alexius Falconieri, unus ex septem, dicitur obiisse anno 1310."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi sanctorum: pro religiosis"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["17 de fevereiro"],["Os sete Santos fundadores da Ordem dos Servos de Maria"]]},{"k":"p","lines":[["Segundo a tradição, sete leigos retiraram-se para o Monte Senário, perto de Florença (Itália), sua cidade, por volta de 1z33. Buscavam, dessa forma, responder a Deus que os chamava a consagrar-se a ele numa vida de oração e penitência, tendo como guia e modelo a Virgem Maria. De sua obra nasceu a Ordem dos Servos de Maria. Afirma-se que um deles, Aleixo Falconieri, faleceu aos 17 de fevereiro de 1310."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Santos e Santas: para religiosos"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["February 17"],["The Seven Holy Founders of the Servite Order"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Holy Men and Women: For Religious"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["17 de febrero"],["Los siete santos fundadores"],["de la Orden de los Siervos de la Virgen María"]]},{"k":"p","lines":[["Estos siete varones florentinos llevaron primero una vida eremítica en el monte Senario, con particular dedicación al culto de la Virgen. Después se dedicaron a predicar por toda la Toscana y fundaron la Orden de los Siervos de la Virgen María, «Servitas», reconocida por la Santa Sede el año 1304. Su memoria anual se celebra este día, en el que, según se dice, murió uno de ellos, san Alejo Falconieri, el año 1310."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de santos: religiosos"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["17 febbraio"],["SANTI SETTE FONDATORI DELL'ORDINE DEI SERVI DELLA BEATA VERGINE MARIA"]]},{"k":"p","lines":[["Verso la metà del secolo XIII sette laici fiorentini si ritirarono sul monte Senario, presso Firenze, con il desiderio di consacrarsi a Dio e al servizio del prossimo in una vita di preghiera, di penitenza e di carità, sull'esempio della Vergine Maria. Da quel primo gruppo nacque, negli anni successivi, l'Ordine mendicante dei Servi di Maria (Serviti)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei santi: per i religiosi"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["17 février"],["Les sept saints fondateurs de l'ordre des Servites de Marie"]]},{"k":"p","lines":[["Vers 1233, sept commerçants florentins se retirèrent dans la solitude du Monte Senario, afin d'y mener une vie fraternelle de pauvreté et de pénitence dans la contemplation de la Passion de Jésus sous l'égide de Marie. On les appela les « serviteurs de Marie » ou Servites."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun des saints: Religieux"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["17. Februar"],["Die hll. Gründer des Servitenordens"]]},{"k":"p","lines":[["Diese sieben florentinischen Männer lebten zunächst als Eremiten in Monte Senario und widmeten sich insbesondere der Verehrung der Muttergottes. Später predigten sie im ganzen Gebiet der Toskana und gründeten den Servitenorden, welcher 1304 vom heiligen Stuhl anerkannt wurde. Ihr Gedenktag wird am 17. Februar, dem Todestag von Alejo Falconieri (1310), gegangen."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Ordensleute:"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}]},"part":"title"},{"slot":"75","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"76","text":{"la":[{"k":"p","lines":[["Beatórum fratrum, Dómine, pietátem nobis benígnus infúnde,"],["qua et Dei Genetrícem sunt devotíssime veneráti,"],["et tuum ad te pópulum provexérunt."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Infundi em nós, Senhor, a piedade"],["dos Santos Fundadores da Ordem dos Servos de Maria,"],["que se distinguiram pela devoção à Mãe de Deus"],["e a vós conduziram o vosso povo."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Impart to us, O Lord, in kindness"],["the filial devotion with which the holy brothers"],["venerated so devoutly the Mother of God"],["and led your people to yourself."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Señor, infunde benigno en nosotros la piedad"],["con la que estos santos hermanos"],["veneraron devotamente a la Madre de Dios"],["y condujeron a tu pueblo hacia ti."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Infondi in noi, o Padre, la pietà dei Sette santi Fondatori, che li portò a onorare con viva devozione la Madre di Dio e condurre a te il tuo popolo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Mets en nous, Seigneur, cette piété"],["qui portait les saints frères fondateurs des Servites"],["à aimer tendrement la mère de ton Fils"],["et à faire avancer ton peuple vers toi."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, du hast den heiligen Gründern des Servitenordens eine kindliche Liebe zur Mutter Christi geschenkt und sie befähigt, dein Volk näher zu dir zu führen. Gib auch uns den Geist der Frömmigkeit und die Bereitschaft, zu dienen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"77","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.02-17","prefaces":["preface.57"],"commons":["common.holy-men-and-women.10","common.holy-men-and-women.11"],"title":{"la":"Ss. septem Fundatorum Ordinis Servorum B. M. V.","pt-BR":"Os sete Santos fundadores da Ordem dos Servos de Maria","en-US":"The Seven Holy Founders of the Servite Order","es":"Los siete santos fundadores — de la Orden de los Siervos de la Virgen María","it":"SANTI SETTE FONDATORI DELL'ORDINE DEI SERVI DELLA BEATA VERGINE MARIA","fr":"Les sept saints fondateurs de l'ordre des Servites de Marie","de":"Die hll. Gründer des Servitenordens"}}
+{
+ "id": "sanctorale.02-17",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 17 februarii"
+       ],
+       [
+        "Ss. septem Fundatorum Ordinis Servorum B. M. V."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Septem viri Florentiæ nati, prius vitam eremiticam duxerunt in monte Senario, beatam Mariam Virginem præsertim venerantes. Per totam Tusciam deinde prædicantes, instituerunt Ordinem Servorum beatæ Maríæ Virginis, quem Sedes Apostolica anno 1304 approbavit. Eorum memoria hac die celebratur, qua S. Alexius Falconieri, unus ex septem, dicitur obiisse anno 1310."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi sanctorum: pro religiosis"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 de fevereiro"
+       ],
+       [
+        "Os sete Santos fundadores da Ordem dos Servos de Maria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segundo a tradição, sete leigos retiraram-se para o Monte Senário, perto de Florença (Itália), sua cidade, por volta de 1z33. Buscavam, dessa forma, responder a Deus que os chamava a consagrar-se a ele numa vida de oração e penitência, tendo como guia e modelo a Virgem Maria. De sua obra nasceu a Ordem dos Servos de Maria. Afirma-se que um deles, Aleixo Falconieri, faleceu aos 17 de fevereiro de 1310."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Santos e Santas: para religiosos"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "February 17"
+       ],
+       [
+        "The Seven Holy Founders of the Servite Order"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Holy Men and Women: For Religious"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 de febrero"
+       ],
+       [
+        "Los siete santos fundadores"
+       ],
+       [
+        "de la Orden de los Siervos de la Virgen María"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Estos siete varones florentinos llevaron primero una vida eremítica en el monte Senario, con particular dedicación al culto de la Virgen. Después se dedicaron a predicar por toda la Toscana y fundaron la Orden de los Siervos de la Virgen María, «Servitas», reconocida por la Santa Sede el año 1304. Su memoria anual se celebra este día, en el que, según se dice, murió uno de ellos, san Alejo Falconieri, el año 1310."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de santos: religiosos"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 febbraio"
+       ],
+       [
+        "SANTI SETTE FONDATORI DELL'ORDINE DEI SERVI DELLA BEATA VERGINE MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verso la metà del secolo XIII sette laici fiorentini si ritirarono sul monte Senario, presso Firenze, con il desiderio di consacrarsi a Dio e al servizio del prossimo in una vita di preghiera, di penitenza e di carità, sull'esempio della Vergine Maria. Da quel primo gruppo nacque, negli anni successivi, l'Ordine mendicante dei Servi di Maria (Serviti)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei santi: per i religiosi"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 février"
+       ],
+       [
+        "Les sept saints fondateurs de l'ordre des Servites de Marie"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vers 1233, sept commerçants florentins se retirèrent dans la solitude du Monte Senario, afin d'y mener une vie fraternelle de pauvreté et de pénitence dans la contemplation de la Passion de Jésus sous l'égide de Marie. On les appela les « serviteurs de Marie » ou Servites."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun des saints: Religieux"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. Februar"
+       ],
+       [
+        "Die hll. Gründer des Servitenordens"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Diese sieben florentinischen Männer lebten zunächst als Eremiten in Monte Senario und widmeten sich insbesondere der Verehrung der Muttergottes. Später predigten sie im ganzen Gebiet der Toskana und gründeten den Servitenorden, welcher 1304 vom heiligen Stuhl anerkannt wurde. Ihr Gedenktag wird am 17. Februar, dem Todestag von Alejo Falconieri (1310), gegangen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Ordensleute:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beatórum fratrum, Dómine, pietátem nobis benígnus infúnde,"
+       ],
+       [
+        "qua et Dei Genetrícem sunt devotíssime veneráti,"
+       ],
+       [
+        "et tuum ad te pópulum provexérunt."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Infundi em nós, Senhor, a piedade"
+       ],
+       [
+        "dos Santos Fundadores da Ordem dos Servos de Maria,"
+       ],
+       [
+        "que se distinguiram pela devoção à Mãe de Deus"
+       ],
+       [
+        "e a vós conduziram o vosso povo."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Impart to us, O Lord, in kindness"
+       ],
+       [
+        "the filial devotion with which the holy brothers"
+       ],
+       [
+        "venerated so devoutly the Mother of God"
+       ],
+       [
+        "and led your people to yourself."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, infunde benigno en nosotros la piedad"
+       ],
+       [
+        "con la que estos santos hermanos"
+       ],
+       [
+        "veneraron devotamente a la Madre de Dios"
+       ],
+       [
+        "y condujeron a tu pueblo hacia ti."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Infondi in noi, o Padre, la pietà dei Sette santi Fondatori, che li portò a onorare con viva devozione la Madre di Dio e condurre a te il tuo popolo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mets en nous, Seigneur, cette piété"
+       ],
+       [
+        "qui portait les saints frères fondateurs des Servites"
+       ],
+       [
+        "à aimer tendrement la mère de ton Fils"
+       ],
+       [
+        "et à faire avancer ton peuple vers toi."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, du hast den heiligen Gründern des Servitenordens eine kindliche Liebe zur Mutter Christi geschenkt und sie befähigt, dein Volk näher zu dir zu führen. Gib auch uns den Geist der Frömmigkeit und die Bereitschaft, zu dienen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.02-17",
+ "prefaces": [
+  "preface.57"
+ ],
+ "commons": [
+  "common.holy-men-and-women.10",
+  "common.holy-men-and-women.11"
+ ],
+ "title": {
+  "la": "Ss. septem Fundatorum Ordinis Servorum B. M. V.",
+  "pt-BR": "Os sete Santos fundadores da Ordem dos Servos de Maria",
+  "en-US": "The Seven Holy Founders of the Servite Order",
+  "es": "Los siete santos fundadores — de la Orden de los Siervos de la Virgen María",
+  "it": "SANTI SETTE FONDATORI DELL'ORDINE DEI SERVI DELLA BEATA VERGINE MARIA",
+  "fr": "Les sept saints fondateurs de l'ordre des Servites de Marie",
+  "de": "Die hll. Gründer des Servitenordens"
+ }
+}

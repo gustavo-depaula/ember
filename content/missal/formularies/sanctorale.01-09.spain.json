@@ -1,1 +1,233 @@
-{"id":"sanctorale.01-09.spain","source":"santos/santos_ene#0109","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["9 de enero"],["San Eulogio de Córdoba, presbítero y mártir"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Nació en Córdoba a comienzos del siglo IX, y en esta ciudad ejercitó su ministerio. Es el principal escritor de la Iglesia mozárabe. Dada la difícil situación de la comunidad cristiana española, san Eulogio fue siempre consuelo y aliento para todos los perseguidos por su fe. Sufrió el martirio el 11 de marzo del año 859, cuando había sido preconizado arzobispo de Toledo. Murió decapitado. Tras su muerte, muy pronto recibió culto."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Común de pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.6"},{"m":"link","t":"2","to":"common.pastors.7"}," ",{"m":"rubric","t":", mártires"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"}," ",{"m":"rubric","t":"o santos."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Señor y Dios nuestro, que en la difícil situación de la Iglesia mozárabe suscitaste en san Eulogio de Córdoba un espíritu heroico para la confesión valiente de la fe, concédenos superar con gozo y energía, fortalecidos por ese mismo espíritu, todas nuestras situaciones adversas."],["Por nuestro Señor Jesucristo."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"40","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.01-09.spain","prefaces":["preface.56"],"commons":["common.pastors.6","common.pastors.7","common.martyrs.6","common.martyrs.7"],"title":{"*":"San Eulogio de Córdoba, presbítero y mártir"}}
+{
+ "id": "sanctorale.01-09.spain",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "9 de enero"
+       ],
+       [
+        "San Eulogio de Córdoba, presbítero y mártir"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nació en Córdoba a comienzos del siglo IX, y en esta ciudad ejercitó su ministerio. Es el principal escritor de la Iglesia mozárabe. Dada la difícil situación de la comunidad cristiana española, san Eulogio fue siempre consuelo y aliento para todos los perseguidos por su fe. Sufrió el martirio el 11 de marzo del año 859, cuando había sido preconizado arzobispo de Toledo. Murió decapitado. Tras su muerte, muy pronto recibió culto."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.7"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": ", mártires"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "o santos."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor y Dios nuestro, que en la difícil situación de la Iglesia mozárabe suscitaste en san Eulogio de Córdoba un espíritu heroico para la confesión valiente de la fe, concédenos superar con gozo y energía, fortalecidos por ese mismo espíritu, todas nuestras situaciones adversas."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.01-09.spain",
+ "prefaces": [
+  "preface.56"
+ ],
+ "commons": [
+  "common.pastors.6",
+  "common.pastors.7",
+  "common.martyrs.6",
+  "common.martyrs.7"
+ ],
+ "title": {
+  "*": "San Eulogio de Córdoba, presbítero y mártir"
+ }
+}

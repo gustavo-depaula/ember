@@ -1,1 +1,1444 @@
-{"id":"tempore.easter.week-4.sunday","source":"tiempos/tiempos_pascua#P040","kind":"tempore","items":[{"slot":"279","text":{"la":[{"k":"h2","lines":[["DOMINICA IV PASCHÆ"]]}],"pt-BR":[{"k":"h2","lines":[["QUARTO DOMINGO DA PÁSCOA"]]}],"en-US":[{"k":"h2","lines":[["Easter Season"],["FOURTH SUNDAY OF EASTER"]]}],"es":[{"k":"h2","lines":[["IV DOMINGO DE PASCUA"]]}],"it":[{"k":"h2","lines":[["IV DOMENICA DI PASQUA"]]}],"fr":[{"k":"h2","lines":[["4e DIMANCHE DE PÂQUES"]]}],"de":[{"k":"h2","lines":[["VIERTER SONNTAG DER OSTERZEIT"]]}]},"part":"title"},{"slot":"280","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 32, 5-6"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 32, 5-6"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 33 (32): 5-6"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 32, 5-6"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 32, 5-6"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 32, 5-6"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 33 (32), 5-6"}]},"part":"entranceAntiphon"},{"slot":"281","text":{"la":[{"k":"p","lines":[["Misericórdia Dómini plena est terra;"],["verbo Dómini cæli firmáti sunt, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["A terra está repleta da misericórdia do Senhor;"],["por sua palavra os céus foram firmados, aleluia."]]}],"en-US":[{"k":"p","lines":[["The merciful love of the Lord fills the earth;"],["by the word of the Lord the heavens were made, alleluia."]]}],"es":[{"k":"p","lines":[["La misericordia del Señor llena la tierra, la palabra del Señor hizo el cielo."],["Aleluya"]]}],"it":[{"k":"p","lines":[["Dell'amore del Signore è piena la terra; dalla sua parola furono fatti i cieli. Alleluia."]]}],"fr":[{"k":"p","lines":[["Criez au Seigneur votre joie :"],["la terre est remplie de son amour,"],["par sa Parole, les cieux ont été faits, alléluia."]]}],"de":[{"k":"p","lines":[["Die Erde ist voll von der Huld des Herrn. Durch das Wort des Herrn wurden die Himmel geschaffen. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"282","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}]},"part":"gloria"},{"slot":"283","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"284","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus,"],["deduc nos ad societátem cæléstium gaudiórum,"],["ut eo pervéniat humílitas gregis,"],["quo procéssit fortitúdo pastóris."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso,"],["conduzi-nos à comunhão das alegrias celestes,"],["para que a fragilidade do rebanho"],["chegue onde a precedeu"],["a fortaleza do pastor, Jesus Cristo."],["Ele, que é Deus, e convosco vive e reina,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God,"],["lead us to a share in the joys of heaven,"],["so that the humble flock may reach"],["where the brave Shepherd has gone before."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["condúcenos a la asamblea gozosa del cielo,"],["para que la debilidad del rebaño"],["llegue hasta donde le ha precedido la fortaleza del Pastor."],["Él, que vive y reina contigo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente e misericordioso, guidaci al possesso della gioia eterna, perché l'umile gregge dei tuoi fedeli giunga dove lo ha preceduto Cristo, suo pastore. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["guide-nous jusqu'au bonheur du ciel ;"],["Que le troupeau parvienne, malgré sa faiblesse,"],["là où son Pasteur est entré victorieux."],["Lui qui."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, dein Sohn ist der Kirche siegreich vorausgegangen als der Gute Hirt. Geleite auch die Herde, für die er sein Leben dahingab, aus aller Not zur ewigen Freude. Darum bitten wir durch ihn, Jesus Christus."]]}]},"part":"collect"},{"slot":"285","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},"Credo",{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},"Creio",{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Credo"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},"Credo",{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}]},"part":"creed"},{"slot":"286","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"287","text":{"la":[{"k":"p","lines":[["Concéde, quǽsumus, Dómine,"],["semper nos per hæc mystéria paschália gratulári,"],["ut contínua nostræ reparatiónis operátio"],["perpétuæ nobis fiat causa lætítiæ."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Concedei, Senhor,"],["que exultemos sem cessar por estes mistérios pascais,"],["para que a contínua obra de nossa redenção"],["seja causa de eterna alegria."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, O Lord,"],["that we may always find delight in these paschal mysteries, so that the renewal constantly at work within us"],["may be the cause of our unending joy."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Concédenos, Señor,"],["alegrarnos siempre por estos misterios pascuales"],["y que la actualización continua de tu obra redentora"],["sea para nosotros fuente de gozo incesante."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Dio, che in questi santi misteri compi l'opera della nostra redenzione, fa' che questa celebrazione pasquale sia per noi fonte di perenne letizia. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Donne-nous, Seigneur, de te rendre grâce toujours"],["par ces mystères de Pâques ;"],["Ils continuent en nous ton œuvre de rédemption,"],["qu'ils nous soient une source intarissable de joie."],["Par Jésus."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, gib, dass wir dir allzeit danken durch die Feier der österlichen Geheimnisse. In ihnen führst du das Werk der Erlösung fort, mache sie für uns zur Quelle der unvergänglichen Freude. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"289","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]]}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]]}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]]}],"de":[{"k":"h4","lines":[["Kommunionvers"]]}]},"part":"communionAntiphon"},{"slot":"290","text":{"la":[{"k":"p","lines":[["Surréxit Pastor bonus,"],["qui ánimam suam pósuit pro óvibus suis,"],["et pro grege suo mori dignátus est, alléluia."]]}],"pt-BR":[{"k":"p","lines":[["Ressurgiu o bom Pastor"],["que deu a vida por suas ovelhas"],["e quis morrer pelo seu rebanho, aleluia."]]}],"en-US":[{"k":"p","lines":[["The Good Shepherd has risen,"],["who laid down his life for his sheep"],["and willingly died for his flock, alleluia."]]}],"es":[{"k":"p","lines":[["Ha resucitado el Buen Pastor, que dio la vida por sus ovejas y se dignó morir por su rebaño. Aleluya."]]}],"it":[{"k":"p","lines":[["È risorto il buon pastore che ha dato la vita per le sue pecore, e per il suo gregge è andato incontro alla morte. Alleluia."],[{"m":"rubric","t":"★ A B C"}],["Io sono il buon pastore e do la mia vita per le pecore. Alleluia."]],"cite":"Gv 10, 14-15"}],"fr":[{"k":"p","lines":[["-Il est ressuscité, Jésus, le vrai Pasteur,"],["lui qui a donné sa vie pour son troupeau,"],["lui qui a choisi de mourir pour nous sauver, alléluia."]]}],"de":[{"k":"p","lines":[["Auferstanden ist der Gute Hirt. Er gab sein Leben für die Schafe. Er ist für seine Herde gestorben. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"291","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"292","text":{"la":[{"k":"p","lines":[["Gregem tuum, Pastor bone, placátus inténde,"],["et oves, quas pretióso Fílii tui sánguine redemísti,"],["in ætérnis páscuis collocáre dignéris."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó bom Pastor,"],["velai com benevolência, pelo vosso rebanho,"],["e dignai-vos conduzir aos prados eternos"],["as ovelhas que remistes com o precioso sangue do vosso Filho."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Look upon your flock, kind Shepherd, and be pleased to settle in eternal pastures the sheep you have redeemed"],["by the Precious Blood of your Son."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Pastor bueno,"],["vela compasivo sobre tu rebaño"],["y conduce a los pastos eternos"],["a las ovejas que has redimido"],["con la sangre preciosa de tu Hijo."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["O Dio, pastore buono, custodisci nella tua misericordia il gregge che hai redento con il sangue prezioso del tuo Figlio e conducilo ai pascoli della vita eterna. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Père tout-puissant et Pasteur plein de bonté,"],["veille sur tes enfants avec tendresse ;"],["Tu nous as sauvés par le sang de ton Fils :"],["ouvre-nous une demeure dans le Royaume des cieux."],["Par Jésus."]]}],"de":[{"k":"p","lines":[["Gott, du Hirt deines Volkes, sieh voll Huld auf deine Herde, die durch das kostbare Blut deines Sohnes erkauft ist; bleibe bei ihr und führe sie auf die Weide des ewigen Lebens. Darum bitten wir durch ihn, Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"293","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Adhiberi potest formula sollemnis."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Pode-se usar a fórmula da Solene."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Solemn formula may be used."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se puede usar la fórmula de solemne."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si può utilizzare la formula della solenne."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On peut utiliser la formule de la solennelle."}]]}]},"part":"prayerOverPeople","role":"rubric"}],"precedence":2,"prefaces":["preface.16","preface.17","preface.18","preface.19","preface.20"],"title":{"la":"DOMINICA IV PASCHÆ","pt-BR":"QUARTO DOMINGO DA PÁSCOA","en-US":"Easter Season — FOURTH SUNDAY OF EASTER","es":"IV DOMINGO DE PASCUA","it":"IV DOMENICA DI PASQUA","fr":"4e DIMANCHE DE PÂQUES","de":"VIERTER SONNTAG DER OSTERZEIT"}}
+{
+ "id": "tempore.easter.week-4.sunday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMINICA IV PASCHÆ"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "QUARTO DOMINGO DA PÁSCOA"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Easter Season"
+       ],
+       [
+        "FOURTH SUNDAY OF EASTER"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV DOMINGO DE PASCUA"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV DOMENICA DI PASQUA"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "4e DIMANCHE DE PÂQUES"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "VIERTER SONNTAG DER OSTERZEIT"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 32, 5-6"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 32, 5-6"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 33 (32): 5-6"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 32, 5-6"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 32, 5-6"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 32, 5-6"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 33 (32), 5-6"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Misericórdia Dómini plena est terra;"
+       ],
+       [
+        "verbo Dómini cæli firmáti sunt, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A terra está repleta da misericórdia do Senhor;"
+       ],
+       [
+        "por sua palavra os céus foram firmados, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The merciful love of the Lord fills the earth;"
+       ],
+       [
+        "by the word of the Lord the heavens were made, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La misericordia del Señor llena la tierra, la palabra del Señor hizo el cielo."
+       ],
+       [
+        "Aleluya"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dell'amore del Signore è piena la terra; dalla sua parola furono fatti i cieli. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Criez au Seigneur votre joie :"
+       ],
+       [
+        "la terre est remplie de son amour,"
+       ],
+       [
+        "par sa Parole, les cieux ont été faits, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Erde ist voll von der Huld des Herrn. Durch das Wort des Herrn wurden die Himmel geschaffen. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus,"
+       ],
+       [
+        "deduc nos ad societátem cæléstium gaudiórum,"
+       ],
+       [
+        "ut eo pervéniat humílitas gregis,"
+       ],
+       [
+        "quo procéssit fortitúdo pastóris."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "conduzi-nos à comunhão das alegrias celestes,"
+       ],
+       [
+        "para que a fragilidade do rebanho"
+       ],
+       [
+        "chegue onde a precedeu"
+       ],
+       [
+        "a fortaleza do pastor, Jesus Cristo."
+       ],
+       [
+        "Ele, que é Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "lead us to a share in the joys of heaven,"
+       ],
+       [
+        "so that the humble flock may reach"
+       ],
+       [
+        "where the brave Shepherd has gone before."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "condúcenos a la asamblea gozosa del cielo,"
+       ],
+       [
+        "para que la debilidad del rebaño"
+       ],
+       [
+        "llegue hasta donde le ha precedido la fortaleza del Pastor."
+       ],
+       [
+        "Él, que vive y reina contigo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente e misericordioso, guidaci al possesso della gioia eterna, perché l'umile gregge dei tuoi fedeli giunga dove lo ha preceduto Cristo, suo pastore. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "guide-nous jusqu'au bonheur du ciel ;"
+       ],
+       [
+        "Que le troupeau parvienne, malgré sa faiblesse,"
+       ],
+       [
+        "là où son Pasteur est entré victorieux."
+       ],
+       [
+        "Lui qui."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, dein Sohn ist der Kirche siegreich vorausgegangen als der Gute Hirt. Geleite auch die Herde, für die er sein Leben dahingab, aus aller Not zur ewigen Freude. Darum bitten wir durch ihn, Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        "Creio",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Credo"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concéde, quǽsumus, Dómine,"
+       ],
+       [
+        "semper nos per hæc mystéria paschália gratulári,"
+       ],
+       [
+        "ut contínua nostræ reparatiónis operátio"
+       ],
+       [
+        "perpétuæ nobis fiat causa lætítiæ."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedei, Senhor,"
+       ],
+       [
+        "que exultemos sem cessar por estes mistérios pascais,"
+       ],
+       [
+        "para que a contínua obra de nossa redenção"
+       ],
+       [
+        "seja causa de eterna alegria."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, O Lord,"
+       ],
+       [
+        "that we may always find delight in these paschal mysteries, so that the renewal constantly at work within us"
+       ],
+       [
+        "may be the cause of our unending joy."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concédenos, Señor,"
+       ],
+       [
+        "alegrarnos siempre por estos misterios pascuales"
+       ],
+       [
+        "y que la actualización continua de tu obra redentora"
+       ],
+       [
+        "sea para nosotros fuente de gozo incesante."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che in questi santi misteri compi l'opera della nostra redenzione, fa' che questa celebrazione pasquale sia per noi fonte di perenne letizia. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Donne-nous, Seigneur, de te rendre grâce toujours"
+       ],
+       [
+        "par ces mystères de Pâques ;"
+       ],
+       [
+        "Ils continuent en nous ton œuvre de rédemption,"
+       ],
+       [
+        "qu'ils nous soient une source intarissable de joie."
+       ],
+       [
+        "Par Jésus."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, gib, dass wir dir allzeit danken durch die Feier der österlichen Geheimnisse. In ihnen führst du das Werk der Erlösung fort, mache sie für uns zur Quelle der unvergänglichen Freude. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Surréxit Pastor bonus,"
+       ],
+       [
+        "qui ánimam suam pósuit pro óvibus suis,"
+       ],
+       [
+        "et pro grege suo mori dignátus est, alléluia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ressurgiu o bom Pastor"
+       ],
+       [
+        "que deu a vida por suas ovelhas"
+       ],
+       [
+        "e quis morrer pelo seu rebanho, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Good Shepherd has risen,"
+       ],
+       [
+        "who laid down his life for his sheep"
+       ],
+       [
+        "and willingly died for his flock, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ha resucitado el Buen Pastor, que dio la vida por sus ovejas y se dignó morir por su rebaño. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È risorto il buon pastore che ha dato la vita per le sue pecore, e per il suo gregge è andato incontro alla morte. Alleluia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ A B C"
+        }
+       ],
+       [
+        "Io sono il buon pastore e do la mia vita per le pecore. Alleluia."
+       ]
+      ],
+      "cite": "Gv 10, 14-15"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "-Il est ressuscité, Jésus, le vrai Pasteur,"
+       ],
+       [
+        "lui qui a donné sa vie pour son troupeau,"
+       ],
+       [
+        "lui qui a choisi de mourir pour nous sauver, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Auferstanden ist der Gute Hirt. Er gab sein Leben für die Schafe. Er ist für seine Herde gestorben. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gregem tuum, Pastor bone, placátus inténde,"
+       ],
+       [
+        "et oves, quas pretióso Fílii tui sánguine redemísti,"
+       ],
+       [
+        "in ætérnis páscuis collocáre dignéris."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó bom Pastor,"
+       ],
+       [
+        "velai com benevolência, pelo vosso rebanho,"
+       ],
+       [
+        "e dignai-vos conduzir aos prados eternos"
+       ],
+       [
+        "as ovelhas que remistes com o precioso sangue do vosso Filho."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look upon your flock, kind Shepherd, and be pleased to settle in eternal pastures the sheep you have redeemed"
+       ],
+       [
+        "by the Precious Blood of your Son."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pastor bueno,"
+       ],
+       [
+        "vela compasivo sobre tu rebaño"
+       ],
+       [
+        "y conduce a los pastos eternos"
+       ],
+       [
+        "a las ovejas que has redimido"
+       ],
+       [
+        "con la sangre preciosa de tu Hijo."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, pastore buono, custodisci nella tua misericordia il gregge che hai redento con il sangue prezioso del tuo Figlio e conducilo ai pascoli della vita eterna. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Père tout-puissant et Pasteur plein de bonté,"
+       ],
+       [
+        "veille sur tes enfants avec tendresse ;"
+       ],
+       [
+        "Tu nous as sauvés par le sang de ton Fils :"
+       ],
+       [
+        "ouvre-nous une demeure dans le Royaume des cieux."
+       ],
+       [
+        "Par Jésus."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, du Hirt deines Volkes, sieh voll Huld auf deine Herde, die durch das kostbare Blut deines Sohnes erkauft ist; bleibe bei ihr und führe sie auf die Weide des ewigen Lebens. Darum bitten wir durch ihn, Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Adhiberi potest formula sollemnis."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pode-se usar a fórmula da Solene."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Solemn formula may be used."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se puede usar la fórmula de solemne."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si può utilizzare la formula della solenne."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On peut utiliser la formule de la solennelle."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople",
+   "role": "rubric"
+  }
+ ],
+ "precedence": 2,
+ "prefaces": [
+  "preface.16",
+  "preface.17",
+  "preface.18",
+  "preface.19",
+  "preface.20"
+ ],
+ "title": {
+  "la": "DOMINICA IV PASCHÆ",
+  "pt-BR": "QUARTO DOMINGO DA PÁSCOA",
+  "en-US": "Easter Season — FOURTH SUNDAY OF EASTER",
+  "es": "IV DOMINGO DE PASCUA",
+  "it": "IV DOMENICA DI PASQUA",
+  "fr": "4e DIMANCHE DE PÂQUES",
+  "de": "VIERTER SONNTAG DER OSTERZEIT"
+ }
+}

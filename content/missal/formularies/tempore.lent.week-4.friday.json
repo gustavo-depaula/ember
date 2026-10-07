@@ -1,1 +1,1288 @@
-{"id":"tempore.lent.week-4.friday","source":"tiempos/tiempos_cuaresma#Q045","kind":"tempore","items":[{"slot":"453","text":{"la":[{"k":"h2","lines":[["Tempus Quadragesimæ"],["Hebdomada IV"],["Feria sexta"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo da Quaresma"],["Quarta semana"],["Sexta-feira"]]}],"en-US":[{"k":"h2","lines":[["Season of Lent"],["4th Week: Friday"]]}],"es":[{"k":"h2","lines":[["Tiempo de Cuaresma"],["Viernes de la IV Semana"]]}],"it":[{"k":"h2","lines":[["IV SETTIMANA DI QUARESIMA"],["Venerdì"]]}],"fr":[{"k":"h2","lines":[["Temps de Carême"],["4e semaine"],["Vendredi"]]}],"de":[{"k":"h2","lines":[["Fastenzeit"],["Freitag der 4. Woche"]]}]},"part":"title"},{"slot":"454","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 53, 3-4"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 53, 3-4"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 54 (53): 3-4"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 53, 3-4"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 53, 3-4"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 53, 3-4"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 54 (53), 3-4"}]},"part":"entranceAntiphon"},{"slot":"455","text":{"la":[{"k":"p","lines":[["Deus, in nómine tuo salvum me fac, et in virtúte tua líbera me. Deus, exáudi oratiónem meam, áuribus pércipe verba oris mei."]]}],"pt-BR":[{"k":"p","lines":[["Por vosso nome, salvai-me, Senhor;"],["e dai-me a vossa justiça!"],["Ó meu Deus, atendei a minha prece"],["e escutai as palavras que eu digo!"]]}],"en-US":[{"k":"p","lines":[["O God, save me by your name;"],["by your power, defend my cause. O God, hear my prayer;"],["give ear to the words of my mouth."]]}],"es":[{"k":"p","lines":[["Oh, Dios, sálvame por tu nombre, líbrame con tu poder. Oh, Dios, escucha mi súplica, atiende mis palabras."]]}],"it":[{"k":"p","lines":[["Dio, per il tuo nome salvami, per la tua potenza rendimi giustizia. Dio, ascolta la mia preghiera, porgi l'orecchio alle parole della mia bocca."]]}],"fr":[{"k":"p","lines":[["Par ton nom, Dieu, sauve-moi,"],["par ta puissance libère-moi ;"],["Dieu, entends ma prière,"],["écoute les paroles de ma bouche."]]}],"de":[{"k":"p","lines":[["Hilf mir, Gott, durch deinen Namen."],["Verschaff mir Recht mit deiner Kraft."],["Gott, höre mein Flehen, vernimm meine Worte."]]}]},"part":"entranceAntiphon"},{"slot":"456","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"457","text":{"la":[{"k":"p","lines":[["Deus, qui fragilitáti nostræ cóngrua subsídia præparásti, concéde, quǽsumus, ut suæ reparatiónis efféctum et cum exsultatióne suscípiat, et pia conversatióne recénseat. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que preparastes para a nossa fraqueza"],["os auxílios necessários à nossa renovação,"],["dai-nos recebê-los com alegria"],["e vê-los frutificar em nossa vida."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who have prepared"],["fitting helps for us in our weakness,"],["grant, we pray, that we may receive"],["their healing effects with joy"],["and reflect them in a holy way of life."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios que has preparado el remedio adecuado para nuestra fragilidad, concédenos recibir con alegría la salvación que nos otorgas y manifestarla en nuestra propia conducta."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che per la nostra fragilità hai preparato aiuti efficaci, fa' che, accogliendone con gioia la forza rinnovatrice, la manifestiamo in una degna condotta di vita. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as préparé les secours dont notre faiblesse a besoin ;"],["donne-nous d'accueillir avec joie notre relèvement"],["et d'en témoigner par la fidélité de notre vie."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, du kennst unsere Schwachheit und unsere Not."],["Doch je hinfälliger wir sind, umso mächtiger ist deine Hilfe."],["Gib, dass wir das Geschenk dieser Gnadenzeit freudig und dankbar annehmen"],["und dein Wirken in unserem Leben bezeugen."],["Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"458","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"459","text":{"la":[{"k":"p","lines":[["Hæc sacrifícia nos, omnípotens Deus, poténti virtúte mundátos, ad suum fáciant purióres veníre princípium. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus todo-poderoso, fazei que este sacrifício"],["nos santifique com o seu admirável poder"],["e nos faça chegar, de coração purificado,"],["às festas pascais, fonte da nossa salvação."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May this sacrifice, almighty God, cleanse us by its mighty power and lead us to approach its source with ever greater purity."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios Todopoderoso, que este sacrificio nos purifique con su eficacia, para que lleguemos más limpios a ti."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Questo sacrificio, Dio onnipotente, ci purifichi con la sua forza e ci doni di giungere rinnovati alle feste pasquali, principio della nostra salvezza. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant,"],["que le sacrifice dont la force purifie"],["nous achemine jusqu'à sa source"],["en nous purifiant encore."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Wir bitten dich, allmächtiger Gott, das Opfer, das wir feiern, tilge unsere Schuld,"],["damit wir in Lauterkeit den österlichen Tagen entgegengehen,"],["in denen der Ursprung dieses Opfers liegt."],["Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"461","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Eph 1, 7"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Ef 1, 7"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Eph 1: 7"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Ef 1, 7"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Ef 1, 7"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Eph 1, 7"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Eph 1, 7"}]},"part":"communionAntiphon"},{"slot":"462","text":{"la":[{"k":"p","lines":[["In Christo habémus redemptiónem per sánguinem eius, remissiónem peccatórum, secúndum divítias grátiæ eius."]]}],"pt-BR":[{"k":"p","lines":[["Em Cristo, pelo seu sangue, nós somos libertados."],["Nele, as nossas faltas são perdoadas,"],["segundo a riqueza da sua graça."]]}],"en-US":[{"k":"p","lines":[["In Christ, we have redemption by his Blood, and forgiveness of our sins,"],["in accord with the riches of his grace."]]}],"es":[{"k":"p","lines":[["En Cristo, por su sangre, tenemos la redención, el perdón de los pecados, conforme a la riqueza de su gracia."]]}],"it":[{"k":"p","lines":[["In Cristo, mediante il suo sangue, abbiamo la redenzione, il perdono delle colpe, secondo la ricchezza della sua grazia"],[{"m":"rubric","t":"Oppure:"}],["«Non sono venuto da me stesso, ma chi mi ha mandato è veritiero», dice il Signore."]],"cite":"Gv 7, 28"}],"fr":[{"k":"p","lines":[["Dans le Christ, par son sang,"],["nous avons la rédemption, le pardon de nos fautes."],["Telle est la richesse de la grâce de Dieu."]]}],"de":[{"k":"p","lines":[["Durch das Blut Christi haben wir die Erlösung, die Vergebung der Sünden nach seiner reichen Gnade."]]}]},"part":"communionAntiphon"},{"slot":"463","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"464","text":{"la":[{"k":"p","lines":[["Præsta, quǽsumus, Dómine, ut, sicut de prætéritis ad nova transímus, ita, vetustáte depósita, sanctificátis méntibus innovémur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, que nos fizestes passar da antiga para a nova aliança,"],["fazei que este sacramento celeste"],["nos liberte da velha condição do pecado"],["e nos renove com uma vida santa."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, O Lord,"],["that, as we pass from old to new,"],["so, with former ways left behind,"],["we may be renewed in holiness of mind."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, así como pasamos de lo antiguo a lo nuevo, haz que, abandonada la vieja condición de pecado, nos renovemos con un espíritu santificado."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, questo sacramento, che segna il passaggio dall'antica alla nuova alleanza, ci spogli dell'uomo vecchio e ci rinnovi nello spirito. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur,"],["nous qui allons du passé vers ce qui est nouveau :"],["tandis que nous quittons ce qui ne peut que vieillir"],["mets en nous un esprit de renouveau et de sainteté."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott,"],["du hast uns von den alten zu den neuen Zeichen des Heils hinübergeführt."],["Lass uns die Gewohnheiten des alten Menschen ablegen"],["und neu werden in Heiligkeit und Gerechtigkeit."],["Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"465","text":{"la":[{"k":"h4","lines":[["Oratio super populum (ad libitum adhibenda)"]]}],"pt-BR":[{"k":"h4","lines":[["Oração sobre o povo (de uso opcional)"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the People for optional use"]]}],"es":[{"k":"h4","lines":[["Oración sobre el pueblo"]]},{"k":"p","lines":[[{"m":"rubric","t":"(Se puede añadir "},{"m":"italic","t":"ad libitum"},{"m":"rubric","t":")"}]]}],"it":[{"k":"h4","lines":[["Orazione sul popolo (ad libitum)"]]}],"fr":[{"k":"h4","lines":[["Prière sur le peuple (Le prêtre peut dire la prière suivante)"]]}]},"part":"prayerOverPeople"},{"slot":"466","text":{"la":[{"k":"p","lines":[["Réspice, Dómine, super fámulos tuos, et in tua misericórdia confiténtes cælésti prótege benígnus auxílio. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Olhai, benigno, Senhor, os vossos fiéis"],["e protegei com o celeste auxílio"],["os que confiam em vossa misericórdia."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look upon your servants, O Lord,"],["and in your goodness protect with heavenly assistance those who trust in your mercy."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Mira, Señor, a tus siervos, y a los que ponen su confianza en tu misericordia, protégelos generosamente con tu celestial auxilio."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guarda con bontà, o Signore, i tuoi fedeli e proteggi con il tuo benevolo aiuto coloro che confidano nella tua misericordia. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Tourne ton regard, Seigneur, vers ceux qui te servent"],["et se confient en ta miséricorde ;"],["dans ta bienveillance, accorde-leur"],["la protection de ton secours."],["Par le Christ, notre Seigneur."]]}]},"part":"prayerOverPeople"}],"precedence":9,"prefaces":["preface.9","preface.10","preface.11","preface.12","preface.13"],"title":{"la":"Tempus Quadragesimæ — Hebdomada IV — Feria sexta","pt-BR":"Tempo da Quaresma — Quarta semana — Sexta-feira","en-US":"Season of Lent — 4th Week: Friday","es":"Tiempo de Cuaresma — Viernes de la IV Semana","it":"IV SETTIMANA DI QUARESIMA — Venerdì","fr":"Temps de Carême — 4e semaine — Vendredi","de":"Fastenzeit — Freitag der 4. Woche"}}
+{
+ "id": "tempore.lent.week-4.friday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Quadragesimæ"
+       ],
+       [
+        "Hebdomada IV"
+       ],
+       [
+        "Feria sexta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo da Quaresma"
+       ],
+       [
+        "Quarta semana"
+       ],
+       [
+        "Sexta-feira"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Season of Lent"
+       ],
+       [
+        "4th Week: Friday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo de Cuaresma"
+       ],
+       [
+        "Viernes de la IV Semana"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV SETTIMANA DI QUARESIMA"
+       ],
+       [
+        "Venerdì"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps de Carême"
+       ],
+       [
+        "4e semaine"
+       ],
+       [
+        "Vendredi"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Fastenzeit"
+       ],
+       [
+        "Freitag der 4. Woche"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 53, 3-4"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 53, 3-4"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 54 (53): 3-4"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 53, 3-4"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 53, 3-4"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 53, 3-4"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 54 (53), 3-4"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, in nómine tuo salvum me fac, et in virtúte tua líbera me. Deus, exáudi oratiónem meam, áuribus pércipe verba oris mei."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por vosso nome, salvai-me, Senhor;"
+       ],
+       [
+        "e dai-me a vossa justiça!"
+       ],
+       [
+        "Ó meu Deus, atendei a minha prece"
+       ],
+       [
+        "e escutai as palavras que eu digo!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, save me by your name;"
+       ],
+       [
+        "by your power, defend my cause. O God, hear my prayer;"
+       ],
+       [
+        "give ear to the words of my mouth."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios, sálvame por tu nombre, líbrame con tu poder. Oh, Dios, escucha mi súplica, atiende mis palabras."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio, per il tuo nome salvami, per la tua potenza rendimi giustizia. Dio, ascolta la mia preghiera, porgi l'orecchio alle parole della mia bocca."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Par ton nom, Dieu, sauve-moi,"
+       ],
+       [
+        "par ta puissance libère-moi ;"
+       ],
+       [
+        "Dieu, entends ma prière,"
+       ],
+       [
+        "écoute les paroles de ma bouche."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hilf mir, Gott, durch deinen Namen."
+       ],
+       [
+        "Verschaff mir Recht mit deiner Kraft."
+       ],
+       [
+        "Gott, höre mein Flehen, vernimm meine Worte."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui fragilitáti nostræ cóngrua subsídia præparásti, concéde, quǽsumus, ut suæ reparatiónis efféctum et cum exsultatióne suscípiat, et pia conversatióne recénseat. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que preparastes para a nossa fraqueza"
+       ],
+       [
+        "os auxílios necessários à nossa renovação,"
+       ],
+       [
+        "dai-nos recebê-los com alegria"
+       ],
+       [
+        "e vê-los frutificar em nossa vida."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who have prepared"
+       ],
+       [
+        "fitting helps for us in our weakness,"
+       ],
+       [
+        "grant, we pray, that we may receive"
+       ],
+       [
+        "their healing effects with joy"
+       ],
+       [
+        "and reflect them in a holy way of life."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios que has preparado el remedio adecuado para nuestra fragilidad, concédenos recibir con alegría la salvación que nos otorgas y manifestarla en nuestra propia conducta."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che per la nostra fragilità hai preparato aiuti efficaci, fa' che, accogliendone con gioia la forza rinnovatrice, la manifestiamo in una degna condotta di vita. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as préparé les secours dont notre faiblesse a besoin ;"
+       ],
+       [
+        "donne-nous d'accueillir avec joie notre relèvement"
+       ],
+       [
+        "et d'en témoigner par la fidélité de notre vie."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, du kennst unsere Schwachheit und unsere Not."
+       ],
+       [
+        "Doch je hinfälliger wir sind, umso mächtiger ist deine Hilfe."
+       ],
+       [
+        "Gib, dass wir das Geschenk dieser Gnadenzeit freudig und dankbar annehmen"
+       ],
+       [
+        "und dein Wirken in unserem Leben bezeugen."
+       ],
+       [
+        "Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc sacrifícia nos, omnípotens Deus, poténti virtúte mundátos, ad suum fáciant purióres veníre princípium. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus todo-poderoso, fazei que este sacrifício"
+       ],
+       [
+        "nos santifique com o seu admirável poder"
+       ],
+       [
+        "e nos faça chegar, de coração purificado,"
+       ],
+       [
+        "às festas pascais, fonte da nossa salvação."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May this sacrifice, almighty God, cleanse us by its mighty power and lead us to approach its source with ever greater purity."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios Todopoderoso, que este sacrificio nos purifique con su eficacia, para que lleguemos más limpios a ti."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questo sacrificio, Dio onnipotente, ci purifichi con la sua forza e ci doni di giungere rinnovati alle feste pasquali, principio della nostra salvezza. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant,"
+       ],
+       [
+        "que le sacrifice dont la force purifie"
+       ],
+       [
+        "nous achemine jusqu'à sa source"
+       ],
+       [
+        "en nous purifiant encore."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wir bitten dich, allmächtiger Gott, das Opfer, das wir feiern, tilge unsere Schuld,"
+       ],
+       [
+        "damit wir in Lauterkeit den österlichen Tagen entgegengehen,"
+       ],
+       [
+        "in denen der Ursprung dieses Opfers liegt."
+       ],
+       [
+        "Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Eph 1, 7"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Ef 1, 7"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Eph 1: 7"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Ef 1, 7"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Ef 1, 7"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Eph 1, 7"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Eph 1, 7"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Christo habémus redemptiónem per sánguinem eius, remissiónem peccatórum, secúndum divítias grátiæ eius."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Em Cristo, pelo seu sangue, nós somos libertados."
+       ],
+       [
+        "Nele, as nossas faltas são perdoadas,"
+       ],
+       [
+        "segundo a riqueza da sua graça."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Christ, we have redemption by his Blood, and forgiveness of our sins,"
+       ],
+       [
+        "in accord with the riches of his grace."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En Cristo, por su sangre, tenemos la redención, el perdón de los pecados, conforme a la riqueza de su gracia."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Cristo, mediante il suo sangue, abbiamo la redenzione, il perdono delle colpe, secondo la ricchezza della sua grazia"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "«Non sono venuto da me stesso, ma chi mi ha mandato è veritiero», dice il Signore."
+       ]
+      ],
+      "cite": "Gv 7, 28"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans le Christ, par son sang,"
+       ],
+       [
+        "nous avons la rédemption, le pardon de nos fautes."
+       ],
+       [
+        "Telle est la richesse de la grâce de Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Durch das Blut Christi haben wir die Erlösung, die Vergebung der Sünden nach seiner reichen Gnade."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Præsta, quǽsumus, Dómine, ut, sicut de prætéritis ad nova transímus, ita, vetustáte depósita, sanctificátis méntibus innovémur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, que nos fizestes passar da antiga para a nova aliança,"
+       ],
+       [
+        "fazei que este sacramento celeste"
+       ],
+       [
+        "nos liberte da velha condição do pecado"
+       ],
+       [
+        "e nos renove com uma vida santa."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, O Lord,"
+       ],
+       [
+        "that, as we pass from old to new,"
+       ],
+       [
+        "so, with former ways left behind,"
+       ],
+       [
+        "we may be renewed in holiness of mind."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, así como pasamos de lo antiguo a lo nuevo, haz que, abandonada la vieja condición de pecado, nos renovemos con un espíritu santificado."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, questo sacramento, che segna il passaggio dall'antica alla nuova alleanza, ci spogli dell'uomo vecchio e ci rinnovi nello spirito. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur,"
+       ],
+       [
+        "nous qui allons du passé vers ce qui est nouveau :"
+       ],
+       [
+        "tandis que nous quittons ce qui ne peut que vieillir"
+       ],
+       [
+        "mets en nous un esprit de renouveau et de sainteté."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott,"
+       ],
+       [
+        "du hast uns von den alten zu den neuen Zeichen des Heils hinübergeführt."
+       ],
+       [
+        "Lass uns die Gewohnheiten des alten Menschen ablegen"
+       ],
+       [
+        "und neu werden in Heiligkeit und Gerechtigkeit."
+       ],
+       [
+        "Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oratio super populum (ad libitum adhibenda)"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração sobre o povo (de uso opcional)"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the People for optional use"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre el pueblo"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(Se puede añadir "
+        },
+        {
+         "m": "italic",
+         "t": "ad libitum"
+        },
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Orazione sul popolo (ad libitum)"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur le peuple (Le prêtre peut dire la prière suivante)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Réspice, Dómine, super fámulos tuos, et in tua misericórdia confiténtes cælésti prótege benígnus auxílio. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Olhai, benigno, Senhor, os vossos fiéis"
+       ],
+       [
+        "e protegei com o celeste auxílio"
+       ],
+       [
+        "os que confiam em vossa misericórdia."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look upon your servants, O Lord,"
+       ],
+       [
+        "and in your goodness protect with heavenly assistance those who trust in your mercy."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mira, Señor, a tus siervos, y a los que ponen su confianza en tu misericordia, protégelos generosamente con tu celestial auxilio."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda con bontà, o Signore, i tuoi fedeli e proteggi con il tuo benevolo aiuto coloro che confidano nella tua misericordia. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tourne ton regard, Seigneur, vers ceux qui te servent"
+       ],
+       [
+        "et se confient en ta miséricorde ;"
+       ],
+       [
+        "dans ta bienveillance, accorde-leur"
+       ],
+       [
+        "la protection de ton secours."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople"
+  }
+ ],
+ "precedence": 9,
+ "prefaces": [
+  "preface.9",
+  "preface.10",
+  "preface.11",
+  "preface.12",
+  "preface.13"
+ ],
+ "title": {
+  "la": "Tempus Quadragesimæ — Hebdomada IV — Feria sexta",
+  "pt-BR": "Tempo da Quaresma — Quarta semana — Sexta-feira",
+  "en-US": "Season of Lent — 4th Week: Friday",
+  "es": "Tiempo de Cuaresma — Viernes de la IV Semana",
+  "it": "IV SETTIMANA DI QUARESIMA — Venerdì",
+  "fr": "Temps de Carême — 4e semaine — Vendredi",
+  "de": "Fastenzeit — Freitag der 4. Woche"
+ }
+}

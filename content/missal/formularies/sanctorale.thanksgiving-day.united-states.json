@@ -1,1 +1,424 @@
-{"id":"sanctorale.thanksgiving-day.united-states","source":"santos/santos_nov#1130Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In the Dioceses of the United States]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h3","lines":[["Fourth Thursday in November"]]}]},"part":"title"},{"text":{"*":[{"k":"h2","lines":[["Thanksgiving Day"]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Eph 5:19-20"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Sing and make music to the Lord in your hearts, always thanking God the Father for all things"],["in the name of our Lord Jesus Christ."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Collect"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Father all-powerful,"],["your gifts of love are countless"],["and your goodness infinite;"],["as we come before you on Thanksgiving Day with gratitude for your kindness,"],["open our hearts to have concern"],["for every man, woman, and child,"],["so that we may share your gifts in loving service."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}]},"part":"collect"},{"mark":"readings"},{"text":{"*":[{"k":"h4","lines":[["Prayer over the Offerings"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["God our Father,"],["from whose hand we have received generous gifts"],["so that we might learn to share your blessings in gratitude,"],["accept these gifts of bread and wine,"],["and let the perfect sacrifice of Jesus"],["draw us closer to all our brothers and sisters in the human family."],["Through Christ our Lord."]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"h4","lines":[["Preface"]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["It is truly right and just, our duty and our salvation, always and everywhere to give you thanks,"],["Lord, holy Father, almighty and eternal God, through Christ our Lord."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["You have entrusted to us"],["the great gift of freedom,"],["a gift that calls forth"],["responsibility and commitment"],["to the truth that all have a fundamental dignity before you."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["In Jesus, through his death and resurrection,"],["we find our ultimate redemption,"],["freedom from sin,"],["and every blessing."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["As so, with hearts full of love,"],["we join the angels,"],["today and every day of our lives,"],["to sing your glory as we acclaim:"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Ps 138 (137 (138):1"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["I thank you, LORD, with all my heart,"],["for you have heard the words of my mouth."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]],"cite":"Ps 116 (114):12-13"}]},"part":"communionAntiphon","role":"rubric"},{"text":{"*":[{"k":"p","lines":[["How can I repay the Lord for all his goodness to me? The chalice of salvation I will raise,"],["and I will call on the name of the Lord."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Prayer after communion"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["In this celebration, O Lord our God,"],["you have shown us the depths of your love for all your children; help us, we pray, to reach out in love to all your people,"],["so that we may share with them"],["the good things of time and eternity."],["Through Christ our Lord."]]}]},"part":"postcommunion"}],"precedence":12,"lectionary":"sanctorale.thanksgiving-day.united-states","title":{"*":"Thanksgiving Day"}}
+{
+ "id": "sanctorale.thanksgiving-day.united-states",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In the Dioceses of the United States]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fourth Thursday in November"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Thanksgiving Day"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Eph 5:19-20"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sing and make music to the Lord in your hearts, always thanking God the Father for all things"
+       ],
+       [
+        "in the name of our Lord Jesus Christ."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father all-powerful,"
+       ],
+       [
+        "your gifts of love are countless"
+       ],
+       [
+        "and your goodness infinite;"
+       ],
+       [
+        "as we come before you on Thanksgiving Day with gratitude for your kindness,"
+       ],
+       [
+        "open our hearts to have concern"
+       ],
+       [
+        "for every man, woman, and child,"
+       ],
+       [
+        "so that we may share your gifts in loving service."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "God our Father,"
+       ],
+       [
+        "from whose hand we have received generous gifts"
+       ],
+       [
+        "so that we might learn to share your blessings in gratitude,"
+       ],
+       [
+        "accept these gifts of bread and wine,"
+       ],
+       [
+        "and let the perfect sacrifice of Jesus"
+       ],
+       [
+        "draw us closer to all our brothers and sisters in the human family."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is truly right and just, our duty and our salvation, always and everywhere to give you thanks,"
+       ],
+       [
+        "Lord, holy Father, almighty and eternal God, through Christ our Lord."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You have entrusted to us"
+       ],
+       [
+        "the great gift of freedom,"
+       ],
+       [
+        "a gift that calls forth"
+       ],
+       [
+        "responsibility and commitment"
+       ],
+       [
+        "to the truth that all have a fundamental dignity before you."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Jesus, through his death and resurrection,"
+       ],
+       [
+        "we find our ultimate redemption,"
+       ],
+       [
+        "freedom from sin,"
+       ],
+       [
+        "and every blessing."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As so, with hearts full of love,"
+       ],
+       [
+        "we join the angels,"
+       ],
+       [
+        "today and every day of our lives,"
+       ],
+       [
+        "to sing your glory as we acclaim:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Ps 138 (137 (138):1"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I thank you, LORD, with all my heart,"
+       ],
+       [
+        "for you have heard the words of my mouth."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ],
+      "cite": "Ps 116 (114):12-13"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "How can I repay the Lord for all his goodness to me? The chalice of salvation I will raise,"
+       ],
+       [
+        "and I will call on the name of the Lord."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In this celebration, O Lord our God,"
+       ],
+       [
+        "you have shown us the depths of your love for all your children; help us, we pray, to reach out in love to all your people,"
+       ],
+       [
+        "so that we may share with them"
+       ],
+       [
+        "the good things of time and eternity."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.thanksgiving-day.united-states",
+ "title": {
+  "*": "Thanksgiving Day"
+ }
+}

@@ -2,12 +2,12 @@ import { readFileSync } from 'node:fs'
 import { describe, expect, it } from 'vitest'
 import { celebrationsOn, resolveOfDay } from '../calendar/resolve'
 import type { MissalCalendar } from '../types'
-import upstream from './upstream-calendar.json'
+import reference from './reference-calendar.json'
 
 const calendar: MissalCalendar = JSON.parse(
   readFileSync(new URL('../../../../content/missal/calendar.json', import.meta.url), 'utf8'),
 )
-const golden = upstream as unknown as Record<string, { saints: string[] }>
+const golden = reference as unknown as Record<string, { saints: string[] }>
 
 const on = (iso: string) => {
   const [y, m, d] = iso.split('-').map(Number)
@@ -16,18 +16,18 @@ const on = (iso: string) => {
 const ids = (iso: string, regions?: string[]) =>
   resolveOfDay(on(iso), calendar, { regions }).celebrations.map((c) => c.id)
 
-// Slips in upstream's saints switch, which repeats every date in three season
-// blocks: a saint filed under a neighbouring date in one block…
-const upstreamWrongDate: Record<string, string[]> = {
+// Slips in the reference: a saint listed under a neighbouring date in part of
+// the year…
+const referenceWrongDate: Record<string, string[]> = {
   '02-18': ['sanctorale.02-21'],
   '05-04': ['sanctorale.05-02'],
   '05-11': ['sanctorale.05-12', 'sanctorale.05-12.pancras'],
 }
-// …and one left out of the Easter block.
-const upstreamOmits = new Set(['sanctorale.05-10'])
+// …and one left out in Easter time.
+const referenceOmits = new Set(['sanctorale.05-10'])
 
-describe('sanctoral cycle against the upstream calendar', () => {
-  it('keeps the saints upstream lists for the General Calendar, 2020-2040', () => {
+describe('sanctoral cycle against the reference calendar', () => {
+  it('keeps the saints the reference lists for the General Calendar, 2020-2040', () => {
     const days = Object.entries(golden)
     expect(days.length).toBeGreaterThan(7600)
     const wrong: string[] = []
@@ -38,20 +38,20 @@ describe('sanctoral cycle against the upstream calendar', () => {
       const monthDay = iso.slice(5)
       const theirs = saints.filter(
         (id) =>
-          // Upstream shows Opus Dei's propers to everyone and lists a vigil as
-          // a saint of its own; three of its links point at nothing.
+          // The reference shows Opus Dei's propers to everyone and lists a vigil
+          // as a saint of its own; three of its entries point at nothing.
           !id.startsWith('?') &&
           !id.endsWith('.vigil') &&
           !id.includes('opus-dei') &&
-          !upstreamWrongDate[monthDay]?.includes(id),
+          !referenceWrongDate[monthDay]?.includes(id),
       )
       for (const c of mine) {
-        // On the greater days upstream skips the saints altogether.
-        const listed = (temporal?.precedence ?? 13) > 6 && !upstreamOmits.has(c.id)
+        // On the greater days the reference skips the saints altogether.
+        const listed = (temporal?.precedence ?? 13) > 6 && !referenceOmits.has(c.id)
         if (listed && !c.transferred && !theirs.includes(c.id)) wrong.push(`${iso} extra ${c.id}`)
       }
       for (const id of theirs) {
-        // Upstream never moves an impeded solemnity; the new calendar does.
+        // The reference never moves an impeded solemnity; the resolver does.
         const solemnity = (calendar.formularies[id]?.precedence ?? 13) <= 4
         if (!solemnity && !mine.some((c) => c.id === id)) wrong.push(`${iso} missing ${id}`)
       }

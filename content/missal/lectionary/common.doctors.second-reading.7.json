@@ -1,0 +1,396 @@
+{
+ "id": "common.doctors.second-reading.7",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "7"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Opus fac Evangelistæ, ministerium tuum imple."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Timótheum"
+       ]
+      ],
+      "cite": "4, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssime:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Testíficor coram Deo et Christo Iesu, qui iudicatúrus est vivos ac mórtuos, per advéntum ipsíus et regnum eius: prædica verbum, insta opportúne, importúne, árgue, íncrepa, óbsecra in omni longanimitáte et doctrína. Erit enim tempus, cum sanam doctrínam non sustinébunt, sed ad sua desidéria coacervábunt sibi magístros pruriéntes áuribus, et a veritáte quidem audítum avértent, ad fábulas autem converténtur. Tu vero vígila in ómnibus, labóra, opus fac evangelístæ, ministérium tuum imple."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Desempenha o teu serviço de pregador do evangelho, cumpre com perfeição o teu ministério."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Segunda Carta de São Paulo a Timóteo"
+       ]
+      ],
+      "cite": "4, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimo: Diante de Deus e de Cristo Jesus, que há de vir a julgar os vivos e os mortos, e em virtude da sua manifestação gloriosa e do seu Reino, eu te peço com insistência: proclama a palavra, insiste oportuna ou importunamente, argumenta, repreende, aconselha, com toda a paciência e doutrina. Pois vai chegar o tempo em que não suportarão a sã doutrina, mas, com o prurido da curiosidade nos ouvidos, se rodearão de mestres ao sabor de seus próprios caprichos. E assim, deixando de ouvir a verdade, se desviarão para as fábulas. Tu, porém, mostra vigilância em tudo, suporta o sofrimento, desempenha o teu serviço de pregador do evangelho, cumpre com perfeição o teu ministério."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second letter of St. Paul to Timothy"
+       ]
+      ],
+      "cite": "4:1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Before God and before Christ Jesus who is to be judge of the living and the dead, I put this duty to you, in the name of his Appearing and of his kingdom: proclaim the message and, welcome or unwelcome, insist on it. Refute falsehood, correct error, call to obedience - but do all with patience and with the intention of teaching. The time is sure to come when, far from being content with sound teaching, people will be avid for the latest novelty and collect themselves a whole series of teachers according to their own tastes; 4:4and then, instead of listening to the truth, they will turn to myths. Be careful always to choose the right course; be brave under trials; make the preaching of the Good News your life's work, in thoroughgoing service."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cumple tu tarea de evangelizador, desempeña tu ministerio"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la segunda carta del apóstol san Pablo a Timoteo"
+       ]
+      ],
+      "cite": "4, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Querido hermano:"
+       ],
+       [
+        "Te conjuro delante de Dios y de Cristo Jesús, que ha de juzgar a vivos y a muertos, por su manifestación y por su reino: proclama la palabra, insiste a tiempo y a destiempo, arguye, el que permanece en mí y yo en él, ese da fruto abundante."
+       ],
+       [
+        "Reprocha, exhorta con toda magnanimidad y doctrina."
+       ],
+       [
+        "Porque vendrá un tiempo en que no soportarán la sana doctrina, sino que se rodearán de maestros a la medida de sus propios deseos y de lo que les gusta oír; y, apartando el oído de la verdad, se volverán a las fábulas."
+       ],
+       [
+        "Pero tú sé sobrio en todo, soporta los padecimientos, cumple tu tarea de evangelizador, desempeña tu ministerio."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Compi la tua opera di annunciatore del Vangelo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla seconda lettera di san Paolo apostolo a Timoteo"
+       ]
+      ],
+      "cite": "4, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Figlio mio, ti scongiuro davanti a Dio e a Cristo Gesù, che verrà a giudicare i vivi e i morti, per la sua manifestazione e il suo regno: annuncia la Parola, insisti al momento opportuno e non opportuno, ammonisci, rimprovera, esorta con ogni magnanimità e insegnamento."
+       ],
+       [
+        "Verrà giorno, infatti, in cui non si sopporterà più la sana dottrina, ma, pur di udire qualcosa, gli uomini si circonderanno di maestri secondo i propri capricci, rifiutando di dare ascolto alla verità per perdersi dietro alle favole. Tu però vigila attentamente, sopporta le sofferenze, compi la tua opera di annunciatore del Vangelo, adempì il tuo ministero."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lettre de saint Paul Apôtre à Timothée"
+       ]
+      ],
+      "cite": "4, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimé, devant Dieu, et devant le Christ Jésus qui va juger les vivants et les morts, je t'en conjure, au nom de sa Manifestation et de son Règne : proclame la Parole, interviens à temps et à contretemps, dénonce le mal, fais des reproches, encourage, toujours avec patience et souci d'instruire. Un temps viendra où les gens ne supporteront plus l'enseignement de la saine doctrine ; mais, au gré de leurs caprices, ils iront se chercher une foule de maîtres pour calmer leur démangeaison d'entendre du nouveau. Ils refuseront d'entendre la vérité pour se tourner vers des récits mythologiques. Mais toi, en toute chose garde la mesure, supporte la souffrance, fais ton travail d'évangélisateur, accomplis jusqu'au bout ton ministère."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Brief des Apostels Paulus an Timótheus"
+       ]
+      ],
+      "cite": "4, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mein Sohn!"
+       ],
+       [
+        "Ich beschwöre dich bei Gott und bei Christus Jesus, dem kommenden Richter der Lebenden und der Toten, bei seinem Erscheinen und bei seinem Reich: Verkünde das Wort, tritt dafür ein, ob man es hören will oder nicht; weise zurecht, tadle, ermahne, in unermüdlicher und geduldiger Belehrung. Denn es wird eine Zeit kommen, in der man die gesunde Lehre nicht erträgt, sondern sich nach eigenen Wünschen immer neue Lehrer sucht, die den Ohren schmeicheln; und man wird der Wahrheit nicht mehr Gehör schenken, sondern sich Fabeleien zuwenden. Du aber sei in allem nüchtern, ertrage das Leiden, verkünde das Evangelium, erfülle treu deinen Dienst!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

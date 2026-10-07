@@ -1,1 +1,2525 @@
-{"id":"sanctorale.05-20","source":"lecturas/lecturas_santos_may#0520","items":[{"slot":"112","text":{"la":[{"k":"h2","lines":[["Die 20 maii"],["S. Bernardini Senensis, presbyteri"]]}],"pt-BR":[{"k":"h2","lines":[["20 de Maio"],["São Bernardino de Sena, presbítero"]]}],"en-US":[{"k":"h2","lines":[["May 20"],["St. Bernardine of Siena, priest"]]}],"es":[{"k":"h2","lines":[["20 de mayo"],["San Bernardino de Siena, presbítero"]]}],"it":[{"k":"h2","lines":[["20 maggio"],["San Bernardino da Siena, sacerdote"]]}],"fr":[{"k":"h2","lines":[["20 mai"],["Saint Bernardin de Sienne, prêtre"]]}],"de":[{"k":"h2","lines":[["20. Mai"],["Hl. Bernhardin von Siena, Ordenspriester, Volksprediger"]]}]}},{"slot":"113","text":{"la":[{"k":"p","lines":[["Lectio prior"]],"role":"title"},{"k":"p","lines":[["Non est in alio aliquo salus."]],"role":"summary"},{"k":"p","lines":[["Léctio Actuum Apostolórum"]],"cite":"4, 8-12","role":"announcement"},{"k":"p","lines":[["In diébus illis:"]]},{"k":"p","lines":[["Replétus Spíritu Sancto, Petrus dixit: «Príncipes pópuli et senióres, si nos hódie diiudicámur in benefácto hóminis infírmi, in quo iste salvus factus est, notum sit ómnibus vobis et omni plebi Israel quia in nómine Iesu Christi Nazaréni, quem vos crucifixístis, quem Deus suscitávit a mórtuis, in hoc iste astat coram vobis sanus."]]},{"k":"p","lines":[["Hic est lapis, qui reprobátus est a vobis ædificatóribus, qui factus est in caput ánguli. Et non est in álio áliquo salus, nec enim nomen áliud est sub cælo datum in homínibus, in quo opórtet nos salvos fíeri»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Primeira Leitura"]],"role":"title"},{"k":"p","lines":[["Não existe outro nome pelo qual possamos ser salvos."]],"role":"summary"},{"k":"p","lines":[["Leitura dos Atos dos Apóstolos"]],"cite":"4, 8-12","role":"announcement"},{"k":"p","lines":[["Naqueles dias, Pedro, cheio do Espírito Santo, disse: \"Chefes do povo e anciãos, hoje estamos sendo interrogados por termos feito o bem a um enfermo e pelo modo como foi curado. Ficai, pois, sabendo todos vós e todo o povo de Israel: é pelo nome de Jesus Cristo, de Nazaré, - aquele que vós crucificastes e que Deus ressuscitou dos mortos -, que este homem está curado, diante de vós. Jesus é a pedra, que vós, os construtores, desprezastes, e que se tornou a pedra angular. Em nenhum outro há salvação, pois não existe debaixo do céu outro nome dado aos homens pelo qual possamos ser salvos”."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["First Reading"]],"role":"title"},{"k":"p","lines":[["A reading from the Acts of the Apostles"]],"cite":"4:8-12","role":"announcement"},{"k":"p","lines":[["Peter, filled with the Holy Spirit, addressed them, 'Rulers of the people, and elders! If you are questioning us today about an act of kindness to a cripple, and asking us how he was healed, then I am glad to tell you all, and would indeed be glad to tell the whole people of Israel, that it was by the name of Jesus Christ the Nazarene, the one you crucified, whom God raised from the dead, by this name and by no other that this man is able to stand up perfectly healthy, here in your presence, today. This is the stone rejected by you the builders, but which has proved to be the keystone. For of all the names in the world given to men, this is the only one by which we can be saved.'"]]},{"k":"p","lines":[["The Word of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Primera Lectura"]],"role":"title"},{"k":"p","lines":[["No hay salvación en ningún otro"]],"role":"summary"},{"k":"p","lines":[["Lectura del libro de los Hechos de los apóstoles"]],"cite":"4, 8-12","role":"announcement"},{"k":"p","lines":[["En aquellos días, Pedro, lleno de Espíritu Santo, dijo:"],["«Jefes del pueblo y ancianos: Porque le hemos hecho un favor a un enfermo, nos interrogáis hoy para averiguar qué poder ha curado a ese hombre; quede bien claro a todos vosotros y a todo Israel que ha sido el Nombre de Jesucristo el Nazareno, a quien vosotros crucificasteis y a quien Dios resucitó de entre los muertos; por este Nombre, se presenta este sano ante vosotros. Él es ula piedra que desechasteis vosotros, los arquitectos, y que se ha convertido en piedra angular”; no hay salvación en ningún otro, pues bajo el cielo no se ha dado a los hombres otro nombre por el que debamos salvarnos»."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Prima lettura"]],"role":"title"},{"k":"p","lines":[["Dagli Atti degli Apostoli"]],"cite":"4,8-12","role":"announcement"},{"k":"p","lines":[["In quei giorni, Pietro, pieno di Spirito Santo, disse loro: “Capi del popolo e anziani, visto che oggi veniamo interrogati sul beneficio recato ad un uomo infermo e in qual modo egli abbia ottenuto la salute, la cosa sia nota a tutti voi e a tutto il popolo d'Israele: nel nome di Gesù Cristo il Nazareno, che voi avete crocifisso e che Dio ha risuscitato dai morti, costui vi sta innanzi sano e salvo."]]},{"k":"p","lines":[["Questo Gesù è la pietra che, scartata da voi, costruttori, è diventata testata d'angolo. In nessun altro c'è salvezza; non vi è infatti altro nome dato agli uomini sotto il cielo nel quale è stabilito che possiamo essere salvati”."]]},{"k":"p","lines":[["Parola di Dio."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Première lecture"]],"role":"title"},{"k":"p","lines":[["Livre des Actes des Apôtres"]],"cite":"4, 8-12","role":"announcement"},{"k":"p","lines":[["En ces jours-là, Pierre, rempli de l'Esprit Saint, déclara : \" Chefs du peuple et anciens, nous sommes interrogés aujourd'hui pour avoir fait du bien à un infirme, et l'on nous demande comment cet homme a été sauvé. Sachez-le donc, vous tous, ainsi que tout le peuple d'Israël : c'est par le nom de Jésus le Nazaréen, lui que vous avez crucifié mais que Dieu a ressuscité d'entre les morts, c'est par lui que cet homme se trouve là, devant vous, bien portant. Ce Jésus est la pierre méprisée de vous, les bâtisseurs, mais devenue la pierre d'angle. En nul autre que lui, il n'y a de salut, car, sous le ciel, aucun autre nom n'est donné aux hommes, qui puisse nous sauver. \""]]},{"k":"p","lines":[["Parole du Seigneur."]],"role":"conclusion"}],"de":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus der Apostelgeschichte"]],"cite":"4, 8-12","role":"announcement"},{"k":"p","lines":[["In jenen Tagen"],["sagte Petrus, erfüllt vom Heiligen Geist: Ihr Führer des Volkes und ihr Ältesten! Wenn wir heute wegen einer guten Tat an einem kranken Menschen darüber vernommen werden, durch wen er geheilt worden ist, so sollt ihr alle und das ganze Volk Israel wissen: im Namen Jesu Christi, des Nazoräers, den ihr gekreuzigt habt und den Gott von den Toten auferweckt hat. Durch ihn steht dieser Mann gesund vor euch."],["Er – Jesus - ist der Stein, der von euch Bauleuten verworfen wurde, der aber zum Eckstein geworden ist. Und in keinem anderen ist das Heil zu finden. Denn es ist uns Menschen kein anderer Name unter dem Himmel gegeben, durch den wir gerettet werden sollen."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"114","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"3"}]]}]},"role":"rubric","part":"psalm","from":"readings.cps3"},{"slot":"43","text":{"la":[{"k":"p","lines":[],"cite":"Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)","role":"title"}],"pt-BR":[{"k":"p","lines":[],"cite":"Sl 39(40), 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)","role":"title"}],"en-US":[{"k":"p","lines":[],"cite":"Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)","role":"title"}],"es":[{"k":"p","lines":[],"cite":"Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)","role":"title"}],"it":[{"k":"p","lines":[],"cite":"Dal Salmo 39 (40)","role":"title"}],"fr":[{"k":"p","lines":[],"cite":"Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)","role":"title"}],"de":[{"k":"p","lines":[],"cite":"Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: vgl. 8a. 9a)","role":"title"}]},"part":"psalm","from":"readings.cps3"},{"slot":"44","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here I am, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"45","text":{"la":[{"k":"p","lines":[["Exspéctans exspectávi Dóminum,"],["et inténdit mihi."],["Et immísit in os meum cánticum novum,"],["carmen Deo nostro."]]}],"pt-BR":[{"k":"p","lines":[["Esperando, esperei no Senhor, e inclinando-se, ouviu meu clamor. Canto novo ele pôs em meus lábios, um poema em louvor ao Senhor."]]}],"en-US":[{"k":"p","lines":[["I waited, I waited for the Lord and he stooped down to me. He put a new song into my mouth, praise of our God."]]}],"es":[{"k":"p","lines":[["Yo esperaba con ansia al Señor;"],["él se inclinó y escuchó mi grito."],["Me puso en la boca un cántico nuevo,"],["un himno a nuestro Dios."]]}],"it":[{"k":"p","lines":[["Ho sperato, ho sperato nel Signore,"],["ed egli su di me si è chinato,"],["ha dato ascolto al mio grido."],["Mi ha messo sulla bocca un canto nuovo,"],["una lode al nostro Dio."]]}],"fr":[{"k":"p","lines":[["D'un grand espoir j'espérais le Seigneur : *"],["il s'est penché vers moi."],["En ma bouche il a mis un chant nouveau,"],["une louange à notre Dieu. *"]]}],"de":[{"k":"p","lines":[["Ich hoffte, ja ich hoffte auf den Herrn."],["Da neigte er sich mir zu und hörte mein Schreien."],["Er legte mir ein neues Lied in den Mund,"],["einen Lobgesang auf ihn, unsern Gott."]]}]},"role":"verse","part":"psalm","from":"readings.cps3"},{"slot":"46","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here am I, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"47","text":{"la":[{"k":"p","lines":[["Sacrifícium et oblatiónem noluísti,"],["aures autem fodísti mihi."],["Holocáustum et pro peccáto non postulásti,"],["tunc dixi: «Ecce vénio»."]]}],"pt-BR":[{"k":"p","lines":[["Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; Não pedistes ofertas nem vítimas, holocaustos por nossos pecados, e então eu vos disse: “Eis que venho\"!"]]}],"en-US":[{"k":"p","lines":[["You do not ask for sacrifice and offerings, but an open ear. You do not ask for holocaust and victim. Instead, here am I."]]}],"es":[{"k":"p","lines":[["Tú no quieres sacrificios ni ofrendas,"],["y, en cambio, me abriste el oído;"],["no pides holocaustos ni sacrificios expiatorios;"],["entonces yo digo: «Aquí estoy»."]]}],"it":[{"k":"p","lines":[["Sacrificio e offerta non gradisci,"],["gli orecchi mi hai aperto,"],["non hai chiesto olocausto né sacrificio per il peccato."],["Allora ho detto: «Ecco, io vengo."]]}],"fr":[{"k":"p","lines":[["Tu ne voulais ni offrande ni sacrifice,"],["tu as ouvert mes oreilles ; *"],["tu ne demandais ni holocauste ni victime,"],["alors j'ai dit : \" Voici, je viens."]]}],"de":[{"k":"p","lines":[["An Schlacht- und Speiseopfern hast du kein Gefallen,"],["Brand- und Sündopfer forderst du nicht."],["Doch das Gehör hast du mir eingepflanzt;"],["darum sage ich: Ja, ich komme."]]}]},"role":"verse","part":"psalm","from":"readings.cps3"},{"slot":"48","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here am I, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"49","text":{"la":[{"k":"p","lines":[["«In volúmine libri scriptum est de me"],["fácere voluntátem tuam."],["Deus meus, vólui,"],["et lex tua in præcórdiis meis»."]]}],"pt-BR":[{"k":"p","lines":[["Sobre mim está escrito no livro: ”Com prazer faço a vossa vontade, guardo em meu coração vossa lei\"!"]]}],"en-US":[{"k":"p","lines":[["In the scroll of the book it stands written that I should do your will. My God, I delight in your law in the depth of my heart."]]}],"es":[{"k":"p","lines":[["«—Como está escrito en mi libro— para hacer tu voluntad."],["Dios mío, lo quiero, y llevo tu ley en las entrañas»."]]}],"it":[{"k":"p","lines":[["Nel rotolo del libro su di me è scritto"],["di fare la tua volontà:"],["mio Dio, questo io desidero;"],["la tua legge è nel mio intimo»."]]}],"fr":[{"k":"p","lines":[["\" Dans le livre, est écrit pour moi"],["ce que tu veux que je fasse. *"],["Mon Dieu, voilà ce que j'aime :"],["ta loi me tient aux entrailles. \""]]}],"de":[{"k":"p","lines":[["In dieser Schriftrolle steht, was an mir geschehen ist."],["Deinen Willen zu tun, mein Gott, macht mir Freude,"],["deine Weisung trag‘ ich im Herzen."]]}]},"role":"verse","part":"psalm","from":"readings.cps3"},{"slot":"50","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here am I, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"51","text":{"la":[{"k":"p","lines":[["Annuntiávi iustítiam tuam in ecclésia magna;"],["ecce lábia mea non prohibébo, Dómine, tu scisti."]]}],"pt-BR":[{"k":"p","lines":[["Boas-novas de vossa justiça anunciei numa grande assembléia; vós sabeis: não fechei os meus lábios!"]]}],"en-US":[{"k":"p","lines":[["Your justice I have proclaim in the great assembly. My lips I have not sealed; you know it, O Lord."]]}],"es":[{"k":"p","lines":[["He proclamado tu justicia"],["ante la gran asamblea;"],["no he cerrado los labios, Señor, tú lo sabes."]]}],"it":[{"k":"p","lines":[["Ho annunciato la tua giustizia"],["nella grande assemblea; vedi:"],["non tengo chiuse le labbra,"],["Signore, tu lo sai."]]}],"fr":[{"k":"p","lines":[["J'annonce la justice"],["dans la grande assemblée ;"],["vois, je ne retiens pas mes lèvres,"],["Seigneur, tu le sais."]]}],"de":[{"k":"p","lines":[["Gerechtigkeit verkünde ich in großer Gemeinde,"],["meine Lippen verschließe ich nicht; Herr, du weißt es."]]}]},"role":"verse","part":"psalm","from":"readings.cps3"},{"slot":"52","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here am I, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"115","text":{"la":[{"k":"p","lines":[["Alleluia"]],"cite":"Io 8, 12","role":"title"},{"k":"p","lines":[["Allelúia."],["Ego sum lux mundi, dicit Dóminus;"],["qui séquitur me habébit lucem vitæ."],["Allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Aclamação ao Evangelho"]],"cite":"Jo 8, 12b","role":"title"},{"k":"p","lines":[["Aleluia, aleluia."],["Eu sou a luz do mundo, aquele que me segue não caminha entre as trevas, mas terá a luz da vida."],["Aleluia."]]}],"en-US":[{"k":"p","lines":[["Gospel Acclamation"]],"cite":"Jn 8:12","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["I am the light of the world, says the Lord: the man who follows me will have the light of life."],["Alleluia."]]}],"es":[{"k":"p","lines":[["Aleluya"]],"cite":"Jn 8, 12b","role":"title"},{"k":"p","lines":[["Aleluya."],["Yo soy la luz del mundo —dice el Señor—;"],["el que me sigue tendrá la luz de la vida."],["Aleluya."]]}],"it":[{"k":"p","lines":[["Canto al Vangelo"]],"cite":"Cf. Gv 8, 12","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Io sono la luce del mondo, dice il Signore; chi segue me, avrà la luce della vita."],["Alleluia."]]}],"fr":[{"k":"p","lines":[["Alléluia"]],"cite":"Io 8, 12","role":"title"},{"k":"p","lines":[["Alléluia"],["Moi, je suis la lumière du monde, dit le Seigneur. Celui qui me suit aura la lumière de la vie."],["Alléluia"]]}],"de":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"cite":"Joh 8, 12","role":"title"},{"k":"p","lines":[["Halleluja. Halleluja."],["(So spricht der Herr:) Ich bin das Licht der Welt. Wer mir nachfolgt, hat das Licht des Lebens."],["Halleluja."]]}]},"part":"acclamation"},{"slot":"116","text":{"la":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[["Sequar te quocumque ieris."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Lucam"]],"cite":"9, 57-62","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Evangelho"]],"role":"title"},{"k":"p","lines":[["Eu te seguirei para onde quer que fores."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Lucas"]],"cite":"9, 57-62","role":"announcement"}],"en-US":[{"k":"p","lines":[["Gospel"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Luke"]],"cite":"9:57-62","role":"announcement"}],"es":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["Te seguiré adondequiera que vayas"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Lucas"]],"cite":"9, 57-62","role":"announcement"}],"it":[{"k":"p","lines":[["Vangelo"]],"role":"title"},{"k":"p","lines":[["Ti seguirò dovunque tu vada."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal Vangelo secondo Luca"]],"cite":"9, 57-62","role":"announcement"}],"fr":[{"k":"p","lines":[["Proclamation de l'Évangile"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Luc"]],"cite":"9, 57-62","role":"announcement"}],"de":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Lukas"]],"cite":"9, 57-62","role":"announcement"}]},"part":"gospel"},{"slot":"117","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"118","text":{"la":[{"k":"p","lines":[["In illo témpore:"]]},{"k":"p","lines":[["Eúntibus Iesu et discipulis suis in via, dixit quidam ad illum: «Sequar te, quocúmque íeris»."]]},{"k":"p","lines":[["Et ait illi Iesus: «Vulpes fóveas habent, et vólucres cæli nidos, Fílius autem hóminis non habet, ubi caput reclínet»."]]},{"k":"p","lines":[["Ait autem ad álterum: «Séquere me»."]]},{"k":"p","lines":[["Ille autem dixit: «Dómine, permítte mihi primum ire et sepelíre patrem meum»."]]},{"k":"p","lines":[["Dixítque ei Iesus: «Sine, ut mórtui sepéliant mórtuos suos; tu autem vade, annúntia regnum Dei»."]]},{"k":"p","lines":[["Et ait alter: «Sequar te, Dómine, sed primum permítte mihi renuntiáre his, qui domi sunt»."]]},{"k":"p","lines":[["Ait ad illum Iesus: «Nemo mittens manum suam in arátrum et aspíciens retro, aptus est regno Dei»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, enquanto Jesus e seus discípulos caminhavam, alguém na estrada disse a Jesus: \"Eu te seguirei para onde quer que fores\". Jesus lhe respondeu: \"As raposas têm tocas e os pássaros têm ninhos; mas o Filho do Homem não tem onde repousar a cabeça\". Jesus disse a outro: \"Segue-me\". Este respondeu: \"Deixa-me primeiro ir enterrar meu pai\". Jesus respondeu: \"Deixa que os mortos enterrem os seus mortos; mas tu, vai anunciar o Reino de Deus\". Um outro ainda lhe disse: \"Eu te seguirei, Senhor, mas deixa-me primeiro despedir-me dos meus familiares\". Jesus, porém, respondeu-lhe: \"Quem põe a mão no arado e olha para trás, não está apto para o Reino de Deus\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["As Jesus and his disciples traveled along they met a man on the road who said to him, 'I will follow you wherever you go'. Jesus answered, 'Foxes have holes and the birds of the air have nests, but the Son of Man has nowhere to lay his head'. Another to whom he said, 'Follow me', replied, 'Let me go and bury my father first'. But he answered, 'Leave the dead to bury their dead; your duty is to go and spread the news of the kingdom of God '. Another said, 'I will follow you, sir, but first let me go and say good-bye to my people at home'. Jesus said to him, 'Once the hand is laid on the plough, no one who looks back is fit for the kingdom of God '."]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, mientras Jesús y sus discípulos iban de camino, le dijo uno:"],["«Te seguiré adondequiera que vayas»."],["Jesús le respondió:"],["«Las zorras tienen madrigueras, y los pájaros del cielo nidos, pero el Hijo del hombre no tiene donde reclinar la cabeza»."],["A otro le dijo:"],["«Sígueme»."],["Él respondió:"],["«Señor, déjame primero ir a enterrar a mi padre». Le contestó:"],["«Deja que los muertos entierren a sus muertos; tú vete a anunciar el reino de Dios»."],["Otro le dijo:"],["«Te seguiré, Señor. Pero déjame primero despedirme de los de mi casa»."],["Jesús le contestó:"],["«Nadie que pone la mano en el arado y mira hacia atrás vale para el reino de Dios»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, mentre camminavano per la strada, un tale disse a Gesù: «Ti seguirò dovunque tu vada». E Gesù gli rispose: «Le volpi hanno le loro tane e gli uccelli del cielo i loro nidi, ma il Figlio dell'uomo non ha dove posare il capo»."],["A un altro disse: «Seguimi». E costui rispose: «Signore, permettimi di andare prima a seppellire mio padre». Gli replicò: «Lascia che i morti seppelliscano i loro morti; tu invece va' e annuncia il regno di Dio»."],["Un altro disse: «Ti seguirò, Signore; prima però lascia che io mi congedi da quelli di casa mia». Ma Gesù gli rispose: «Nessuno che mette mano all'aratro e poi si volge indietro è adatto per il regno di Dio»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, en cours de route, un homme dit à Jésus : \" Je te suivrai partout où tu iras. \""]]},{"k":"p","lines":[["Jésus lui déclara : \" Les renards ont des terriers, les oiseaux du ciel ont des nids ; mais le Fils de l'homme n'a pas d'endroit où reposer la tête. \""]]},{"k":"p","lines":[["Il dit à un autre : \" Suis-moi. \" L'homme répondit : \" Seigneur, permets-moi d'aller d'abord enterrer mon père. \" Mais Jésus répliqua : \" Laisse les morts enterrer leurs morts. Toi, pars, et annonce le règne de Dieu. \""]]},{"k":"p","lines":[["Un autre encore lui dit : \" Je te suivrai, Seigneur ; mais laisse-moi d'abord faire mes adieux aux gens de ma maison. \" Jésus lui répondit : \" Quiconque met la main à la charrue, puis regarde en arrière, n'est pas fait pour le royaume de Dieu. \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit,"],["als Jesus und seine Jünger auf ihrem Weg nach Jerusalem weiterzogen, redete ein Mann Jesus an und sagte: Ich will dir folgen, wohin du auch gehst."],["Jesus antwortete ihm: Die Füchse haben ihre Höhlen und die Vögel ihre Nester; der Menschensohn aber hat keinen Ort, wo er sein Haupt hinlegen kann."],["Zu einem anderen sagte er: Folge mir nach!"],["Der erwiderte: Lass mich zuerst heimgehen und meinen Vater begraben."],["Jesus sagte zu ihm: Lass die Toten ihre Toten begraben; du aber geh und verkünde das Reich Gottes!"],["Wieder ein anderer sagte: Ich will dir nachfolgen, Herr. Zuvor aber lass mich von meiner Familie Abschied nehmen."],["Jesus erwiderte ihm: Keiner, der die Hand an den Pflug gelegt hat und nochmals zurückblickt, taugt für das Reich Gottes."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"119","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"la":"S. Bernardini Senensis, presbyteri","pt-BR":"São Bernardino de Sena, presbítero","en-US":"St. Bernardine of Siena, priest","es":"San Bernardino de Siena, presbítero","it":"San Bernardino da Siena, sacerdote","fr":"Saint Bernardin de Sienne, prêtre","de":"Hl. Bernhardin von Siena, Ordenspriester, Volksprediger"}}
+{
+ "id": "sanctorale.05-20",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 20 maii"
+       ],
+       [
+        "S. Bernardini Senensis, presbyteri"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 de Maio"
+       ],
+       [
+        "São Bernardino de Sena, presbítero"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "May 20"
+       ],
+       [
+        "St. Bernardine of Siena, priest"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 de mayo"
+       ],
+       [
+        "San Bernardino de Siena, presbítero"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 maggio"
+       ],
+       [
+        "San Bernardino da Siena, sacerdote"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 mai"
+       ],
+       [
+        "Saint Bernardin de Sienne, prêtre"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20. Mai"
+       ],
+       [
+        "Hl. Bernhardin von Siena, Ordenspriester, Volksprediger"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non est in alio aliquo salus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Actuum Apostolórum"
+       ]
+      ],
+      "cite": "4, 8-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Replétus Spíritu Sancto, Petrus dixit: «Príncipes pópuli et senióres, si nos hódie diiudicámur in benefácto hóminis infírmi, in quo iste salvus factus est, notum sit ómnibus vobis et omni plebi Israel quia in nómine Iesu Christi Nazaréni, quem vos crucifixístis, quem Deus suscitávit a mórtuis, in hoc iste astat coram vobis sanus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hic est lapis, qui reprobátus est a vobis ædificatóribus, qui factus est in caput ánguli. Et non est in álio áliquo salus, nec enim nomen áliud est sub cælo datum in homínibus, in quo opórtet nos salvos fíeri»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Não existe outro nome pelo qual possamos ser salvos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura dos Atos dos Apóstolos"
+       ]
+      ],
+      "cite": "4, 8-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, Pedro, cheio do Espírito Santo, disse: \"Chefes do povo e anciãos, hoje estamos sendo interrogados por termos feito o bem a um enfermo e pelo modo como foi curado. Ficai, pois, sabendo todos vós e todo o povo de Israel: é pelo nome de Jesus Cristo, de Nazaré, - aquele que vós crucificastes e que Deus ressuscitou dos mortos -, que este homem está curado, diante de vós. Jesus é a pedra, que vós, os construtores, desprezastes, e que se tornou a pedra angular. Em nenhum outro há salvação, pois não existe debaixo do céu outro nome dado aos homens pelo qual possamos ser salvos”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Acts of the Apostles"
+       ]
+      ],
+      "cite": "4:8-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Peter, filled with the Holy Spirit, addressed them, 'Rulers of the people, and elders! If you are questioning us today about an act of kindness to a cripple, and asking us how he was healed, then I am glad to tell you all, and would indeed be glad to tell the whole people of Israel, that it was by the name of Jesus Christ the Nazarene, the one you crucified, whom God raised from the dead, by this name and by no other that this man is able to stand up perfectly healthy, here in your presence, today. This is the stone rejected by you the builders, but which has proved to be the keystone. For of all the names in the world given to men, this is the only one by which we can be saved.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No hay salvación en ningún otro"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de los Hechos de los apóstoles"
+       ]
+      ],
+      "cite": "4, 8-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, Pedro, lleno de Espíritu Santo, dijo:"
+       ],
+       [
+        "«Jefes del pueblo y ancianos: Porque le hemos hecho un favor a un enfermo, nos interrogáis hoy para averiguar qué poder ha curado a ese hombre; quede bien claro a todos vosotros y a todo Israel que ha sido el Nombre de Jesucristo el Nazareno, a quien vosotros crucificasteis y a quien Dios resucitó de entre los muertos; por este Nombre, se presenta este sano ante vosotros. Él es ula piedra que desechasteis vosotros, los arquitectos, y que se ha convertido en piedra angular”; no hay salvación en ningún otro, pues bajo el cielo no se ha dado a los hombres otro nombre por el que debamos salvarnos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dagli Atti degli Apostoli"
+       ]
+      ],
+      "cite": "4,8-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, Pietro, pieno di Spirito Santo, disse loro: “Capi del popolo e anziani, visto che oggi veniamo interrogati sul beneficio recato ad un uomo infermo e in qual modo egli abbia ottenuto la salute, la cosa sia nota a tutti voi e a tutto il popolo d'Israele: nel nome di Gesù Cristo il Nazareno, che voi avete crocifisso e che Dio ha risuscitato dai morti, costui vi sta innanzi sano e salvo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questo Gesù è la pietra che, scartata da voi, costruttori, è diventata testata d'angolo. In nessun altro c'è salvezza; non vi è infatti altro nome dato agli uomini sotto il cielo nel quale è stabilito che possiamo essere salvati”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre des Actes des Apôtres"
+       ]
+      ],
+      "cite": "4, 8-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, Pierre, rempli de l'Esprit Saint, déclara : \" Chefs du peuple et anciens, nous sommes interrogés aujourd'hui pour avoir fait du bien à un infirme, et l'on nous demande comment cet homme a été sauvé. Sachez-le donc, vous tous, ainsi que tout le peuple d'Israël : c'est par le nom de Jésus le Nazaréen, lui que vous avez crucifié mais que Dieu a ressuscité d'entre les morts, c'est par lui que cet homme se trouve là, devant vous, bien portant. Ce Jésus est la pierre méprisée de vous, les bâtisseurs, mais devenue la pierre d'angle. En nul autre que lui, il n'y a de salut, car, sous le ciel, aucun autre nom n'est donné aux hommes, qui puisse nous sauver. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Apostelgeschichte"
+       ]
+      ],
+      "cite": "4, 8-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen"
+       ],
+       [
+        "sagte Petrus, erfüllt vom Heiligen Geist: Ihr Führer des Volkes und ihr Ältesten! Wenn wir heute wegen einer guten Tat an einem kranken Menschen darüber vernommen werden, durch wen er geheilt worden ist, so sollt ihr alle und das ganze Volk Israel wissen: im Namen Jesu Christi, des Nazoräers, den ihr gekreuzigt habt und den Gott von den Toten auferweckt hat. Durch ihn steht dieser Mann gesund vor euch."
+       ],
+       [
+        "Er – Jesus - ist der Stein, der von euch Bauleuten verworfen wurde, der aber zum Eckstein geworden ist. Und in keinem anderen ist das Heil zu finden. Denn es ist uns Menschen kein anderer Name unter dem Himmel gegeben, durch den wir gerettet werden sollen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 39(40), 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Dal Salmo 39 (40)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: vgl. 8a. 9a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here I am, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exspéctans exspectávi Dóminum,"
+       ],
+       [
+        "et inténdit mihi."
+       ],
+       [
+        "Et immísit in os meum cánticum novum,"
+       ],
+       [
+        "carmen Deo nostro."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esperando, esperei no Senhor, e inclinando-se, ouviu meu clamor. Canto novo ele pôs em meus lábios, um poema em louvor ao Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I waited, I waited for the Lord and he stooped down to me. He put a new song into my mouth, praise of our God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo esperaba con ansia al Señor;"
+       ],
+       [
+        "él se inclinó y escuchó mi grito."
+       ],
+       [
+        "Me puso en la boca un cántico nuevo,"
+       ],
+       [
+        "un himno a nuestro Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho sperato, ho sperato nel Signore,"
+       ],
+       [
+        "ed egli su di me si è chinato,"
+       ],
+       [
+        "ha dato ascolto al mio grido."
+       ],
+       [
+        "Mi ha messo sulla bocca un canto nuovo,"
+       ],
+       [
+        "una lode al nostro Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "D'un grand espoir j'espérais le Seigneur : *"
+       ],
+       [
+        "il s'est penché vers moi."
+       ],
+       [
+        "En ma bouche il a mis un chant nouveau,"
+       ],
+       [
+        "une louange à notre Dieu. *"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich hoffte, ja ich hoffte auf den Herrn."
+       ],
+       [
+        "Da neigte er sich mir zu und hörte mein Schreien."
+       ],
+       [
+        "Er legte mir ein neues Lied in den Mund,"
+       ],
+       [
+        "einen Lobgesang auf ihn, unsern Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrifícium et oblatiónem noluísti,"
+       ],
+       [
+        "aures autem fodísti mihi."
+       ],
+       [
+        "Holocáustum et pro peccáto non postulásti,"
+       ],
+       [
+        "tunc dixi: «Ecce vénio»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; Não pedistes ofertas nem vítimas, holocaustos por nossos pecados, e então eu vos disse: “Eis que venho\"!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You do not ask for sacrifice and offerings, but an open ear. You do not ask for holocaust and victim. Instead, here am I."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tú no quieres sacrificios ni ofrendas,"
+       ],
+       [
+        "y, en cambio, me abriste el oído;"
+       ],
+       [
+        "no pides holocaustos ni sacrificios expiatorios;"
+       ],
+       [
+        "entonces yo digo: «Aquí estoy»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrificio e offerta non gradisci,"
+       ],
+       [
+        "gli orecchi mi hai aperto,"
+       ],
+       [
+        "non hai chiesto olocausto né sacrificio per il peccato."
+       ],
+       [
+        "Allora ho detto: «Ecco, io vengo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu ne voulais ni offrande ni sacrifice,"
+       ],
+       [
+        "tu as ouvert mes oreilles ; *"
+       ],
+       [
+        "tu ne demandais ni holocauste ni victime,"
+       ],
+       [
+        "alors j'ai dit : \" Voici, je viens."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "An Schlacht- und Speiseopfern hast du kein Gefallen,"
+       ],
+       [
+        "Brand- und Sündopfer forderst du nicht."
+       ],
+       [
+        "Doch das Gehör hast du mir eingepflanzt;"
+       ],
+       [
+        "darum sage ich: Ja, ich komme."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«In volúmine libri scriptum est de me"
+       ],
+       [
+        "fácere voluntátem tuam."
+       ],
+       [
+        "Deus meus, vólui,"
+       ],
+       [
+        "et lex tua in præcórdiis meis»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sobre mim está escrito no livro: ”Com prazer faço a vossa vontade, guardo em meu coração vossa lei\"!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In the scroll of the book it stands written that I should do your will. My God, I delight in your law in the depth of my heart."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«—Como está escrito en mi libro— para hacer tu voluntad."
+       ],
+       [
+        "Dios mío, lo quiero, y llevo tu ley en las entrañas»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nel rotolo del libro su di me è scritto"
+       ],
+       [
+        "di fare la tua volontà:"
+       ],
+       [
+        "mio Dio, questo io desidero;"
+       ],
+       [
+        "la tua legge è nel mio intimo»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\" Dans le livre, est écrit pour moi"
+       ],
+       [
+        "ce que tu veux que je fasse. *"
+       ],
+       [
+        "Mon Dieu, voilà ce que j'aime :"
+       ],
+       [
+        "ta loi me tient aux entrailles. \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In dieser Schriftrolle steht, was an mir geschehen ist."
+       ],
+       [
+        "Deinen Willen zu tun, mein Gott, macht mir Freude,"
+       ],
+       [
+        "deine Weisung trag‘ ich im Herzen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annuntiávi iustítiam tuam in ecclésia magna;"
+       ],
+       [
+        "ecce lábia mea non prohibébo, Dómine, tu scisti."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Boas-novas de vossa justiça anunciei numa grande assembléia; vós sabeis: não fechei os meus lábios!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Your justice I have proclaim in the great assembly. My lips I have not sealed; you know it, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He proclamado tu justicia"
+       ],
+       [
+        "ante la gran asamblea;"
+       ],
+       [
+        "no he cerrado los labios, Señor, tú lo sabes."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho annunciato la tua giustizia"
+       ],
+       [
+        "nella grande assemblea; vedi:"
+       ],
+       [
+        "non tengo chiuse le labbra,"
+       ],
+       [
+        "Signore, tu lo sai."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "J'annonce la justice"
+       ],
+       [
+        "dans la grande assemblée ;"
+       ],
+       [
+        "vois, je ne retiens pas mes lèvres,"
+       ],
+       [
+        "Seigneur, tu le sais."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gerechtigkeit verkünde ich in großer Gemeinde,"
+       ],
+       [
+        "meine Lippen verschließe ich nicht; Herr, du weißt es."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 8, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allelúia."
+       ],
+       [
+        "Ego sum lux mundi, dicit Dóminus;"
+       ],
+       [
+        "qui séquitur me habébit lucem vitæ."
+       ],
+       [
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 8, 12b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "Eu sou a luz do mundo, aquele que me segue não caminha entre as trevas, mas terá a luz da vida."
+       ],
+       [
+        "Aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Jn 8:12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "I am the light of the world, says the Lord: the man who follows me will have the light of life."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 8, 12b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya."
+       ],
+       [
+        "Yo soy la luz del mundo —dice el Señor—;"
+       ],
+       [
+        "el que me sigue tendrá la luz de la vida."
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Cf. Gv 8, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Io sono la luce del mondo, dice il Signore; chi segue me, avrà la luce della vita."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 8, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ],
+       [
+        "Moi, je suis la lumière du monde, dit le Seigneur. Celui qui me suit aura la lumière de la vie."
+       ],
+       [
+        "Alléluia"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Joh 8, 12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Halleluja. Halleluja."
+       ],
+       [
+        "(So spricht der Herr:) Ich bin das Licht der Welt. Wer mir nachfolgt, hat das Licht des Lebens."
+       ],
+       [
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sequar te quocumque ieris."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Lucam"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu te seguirei para onde quer que fores."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Luke"
+       ]
+      ],
+      "cite": "9:57-62",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te seguiré adondequiera que vayas"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Lucas"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti seguirò dovunque tu vada."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Luca"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Luc"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Lukas"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eúntibus Iesu et discipulis suis in via, dixit quidam ad illum: «Sequar te, quocúmque íeris»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ait illi Iesus: «Vulpes fóveas habent, et vólucres cæli nidos, Fílius autem hóminis non habet, ubi caput reclínet»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ait autem ad álterum: «Séquere me»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ille autem dixit: «Dómine, permítte mihi primum ire et sepelíre patrem meum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixítque ei Iesus: «Sine, ut mórtui sepéliant mórtuos suos; tu autem vade, annúntia regnum Dei»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ait alter: «Sequar te, Dómine, sed primum permítte mihi renuntiáre his, qui domi sunt»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ait ad illum Iesus: «Nemo mittens manum suam in arátrum et aspíciens retro, aptus est regno Dei»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, enquanto Jesus e seus discípulos caminhavam, alguém na estrada disse a Jesus: \"Eu te seguirei para onde quer que fores\". Jesus lhe respondeu: \"As raposas têm tocas e os pássaros têm ninhos; mas o Filho do Homem não tem onde repousar a cabeça\". Jesus disse a outro: \"Segue-me\". Este respondeu: \"Deixa-me primeiro ir enterrar meu pai\". Jesus respondeu: \"Deixa que os mortos enterrem os seus mortos; mas tu, vai anunciar o Reino de Deus\". Um outro ainda lhe disse: \"Eu te seguirei, Senhor, mas deixa-me primeiro despedir-me dos meus familiares\". Jesus, porém, respondeu-lhe: \"Quem põe a mão no arado e olha para trás, não está apto para o Reino de Deus\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As Jesus and his disciples traveled along they met a man on the road who said to him, 'I will follow you wherever you go'. Jesus answered, 'Foxes have holes and the birds of the air have nests, but the Son of Man has nowhere to lay his head'. Another to whom he said, 'Follow me', replied, 'Let me go and bury my father first'. But he answered, 'Leave the dead to bury their dead; your duty is to go and spread the news of the kingdom of God '. Another said, 'I will follow you, sir, but first let me go and say good-bye to my people at home'. Jesus said to him, 'Once the hand is laid on the plough, no one who looks back is fit for the kingdom of God '."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, mientras Jesús y sus discípulos iban de camino, le dijo uno:"
+       ],
+       [
+        "«Te seguiré adondequiera que vayas»."
+       ],
+       [
+        "Jesús le respondió:"
+       ],
+       [
+        "«Las zorras tienen madrigueras, y los pájaros del cielo nidos, pero el Hijo del hombre no tiene donde reclinar la cabeza»."
+       ],
+       [
+        "A otro le dijo:"
+       ],
+       [
+        "«Sígueme»."
+       ],
+       [
+        "Él respondió:"
+       ],
+       [
+        "«Señor, déjame primero ir a enterrar a mi padre». Le contestó:"
+       ],
+       [
+        "«Deja que los muertos entierren a sus muertos; tú vete a anunciar el reino de Dios»."
+       ],
+       [
+        "Otro le dijo:"
+       ],
+       [
+        "«Te seguiré, Señor. Pero déjame primero despedirme de los de mi casa»."
+       ],
+       [
+        "Jesús le contestó:"
+       ],
+       [
+        "«Nadie que pone la mano en el arado y mira hacia atrás vale para el reino de Dios»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, mentre camminavano per la strada, un tale disse a Gesù: «Ti seguirò dovunque tu vada». E Gesù gli rispose: «Le volpi hanno le loro tane e gli uccelli del cielo i loro nidi, ma il Figlio dell'uomo non ha dove posare il capo»."
+       ],
+       [
+        "A un altro disse: «Seguimi». E costui rispose: «Signore, permettimi di andare prima a seppellire mio padre». Gli replicò: «Lascia che i morti seppelliscano i loro morti; tu invece va' e annuncia il regno di Dio»."
+       ],
+       [
+        "Un altro disse: «Ti seguirò, Signore; prima però lascia che io mi congedi da quelli di casa mia». Ma Gesù gli rispose: «Nessuno che mette mano all'aratro e poi si volge indietro è adatto per il regno di Dio»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, en cours de route, un homme dit à Jésus : \" Je te suivrai partout où tu iras. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jésus lui déclara : \" Les renards ont des terriers, les oiseaux du ciel ont des nids ; mais le Fils de l'homme n'a pas d'endroit où reposer la tête. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il dit à un autre : \" Suis-moi. \" L'homme répondit : \" Seigneur, permets-moi d'aller d'abord enterrer mon père. \" Mais Jésus répliqua : \" Laisse les morts enterrer leurs morts. Toi, pars, et annonce le règne de Dieu. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un autre encore lui dit : \" Je te suivrai, Seigneur ; mais laisse-moi d'abord faire mes adieux aux gens de ma maison. \" Jésus lui répondit : \" Quiconque met la main à la charrue, puis regarde en arrière, n'est pas fait pour le royaume de Dieu. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit,"
+       ],
+       [
+        "als Jesus und seine Jünger auf ihrem Weg nach Jerusalem weiterzogen, redete ein Mann Jesus an und sagte: Ich will dir folgen, wohin du auch gehst."
+       ],
+       [
+        "Jesus antwortete ihm: Die Füchse haben ihre Höhlen und die Vögel ihre Nester; der Menschensohn aber hat keinen Ort, wo er sein Haupt hinlegen kann."
+       ],
+       [
+        "Zu einem anderen sagte er: Folge mir nach!"
+       ],
+       [
+        "Der erwiderte: Lass mich zuerst heimgehen und meinen Vater begraben."
+       ],
+       [
+        "Jesus sagte zu ihm: Lass die Toten ihre Toten begraben; du aber geh und verkünde das Reich Gottes!"
+       ],
+       [
+        "Wieder ein anderer sagte: Ich will dir nachfolgen, Herr. Zuvor aber lass mich von meiner Familie Abschied nehmen."
+       ],
+       [
+        "Jesus erwiderte ihm: Keiner, der die Hand an den Pflug gelegt hat und nochmals zurückblickt, taugt für das Reich Gottes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "la": "S. Bernardini Senensis, presbyteri",
+  "pt-BR": "São Bernardino de Sena, presbítero",
+  "en-US": "St. Bernardine of Siena, priest",
+  "es": "San Bernardino de Siena, presbítero",
+  "it": "San Bernardino da Siena, sacerdote",
+  "fr": "Saint Bernardin de Sienne, prêtre",
+  "de": "Hl. Bernhardin von Siena, Ordenspriester, Volksprediger"
+ }
+}

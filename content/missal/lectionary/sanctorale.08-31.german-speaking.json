@@ -1,1 +1,1356 @@
-{"id":"sanctorale.08-31.german-speaking","source":"lecturas/lecturas_santos_ago#0831","items":[{"slot":"246","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[in den Diözesen deutscher Sprache]"}]]},{"k":"h2","lines":[["31. August"],["Hl. Paulinus, Bischof von Trier, Märtyrer"]]}]}},{"slot":"247","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.cm2l10"}]]}]},"part":"firstReading"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"2"}]]}]},"role":"rubric","part":"psalm","from":"readings.cds2"},{"slot":"23","text":{"la":[{"k":"p","lines":[],"cite":"Ps 36, 3-4. 5-6. 30-31 (: 30a)","role":"title"}],"pt-BR":[{"k":"p","lines":[],"cite":"Sl 36(37), 3-4. 5-6. 30-31 (R.: 30a)","role":"title"}],"en-US":[{"k":"p","lines":[],"cite":"Ps 36, 3-4. 5-6. 30-31 (: 30a)","role":"title"}],"es":[{"k":"p","lines":[],"cite":"Sal 36, 3-4. 5-6. 30-31 (R.: 30a)","role":"title"}],"it":[{"k":"p","lines":[],"cite":"Dal Salmo 36 (37)","role":"title"}],"fr":[{"k":"p","lines":[],"cite":"Ps 36, 3-4. 5-6. 30-31 (: 30a)","role":"title"}],"de":[{"k":"p","lines":[],"cite":"Ps 37 (36), 3-4. 5-6. 30-31 (R: vgl. 30a)","role":"title"}]},"part":"psalm","from":"readings.cds2"},{"slot":"24","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os iusti meditábitur sapiéntiam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O justo tem nos lábios o que é sábio."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"The mouth of the righteous utters wisdom."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La boca del justo expone la sabiduría."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La bocca del giusto medita la sapienza."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La bocca del giusto medita la sapienza."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le lèvres du juste redisent la sagesse."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Mund des Gerechten spricht Worte der Weisheit."]]}]},"role":"people","part":"psalm","from":"readings.cds2"},{"slot":"25","text":{"la":[{"k":"p","lines":[["Spera in Dómino et fac bonitátem,"],["et inhabitábis terram et pascéris in fide."],["Delectáre in Dómino,"],["et dabit tibi petitiónes cordis tui."]]}],"pt-BR":[{"k":"p","lines":[["Confia no Senhor e faze o bem, e sobre a terra habitarás em segurança. Coloca no Senhor tua alegria, e ele dará o que pedir teu coração."]]}],"en-US":[{"k":"p","lines":[["Trust in the Lord and do good"],["that you may dwell in the land and live secure."],["Find your delight in the Lord"],["who will give you your heart's desire."]]}],"es":[{"k":"p","lines":[["Confía en el Señor y haz el bien:"],["habitarás tu tierra y reposarás en ella en fidelidad;"],["sea el Señor tu delicia,"],["y él te dará lo que pide tu corazón."]]}],"it":[{"k":"p","lines":[["Confida nel Signore e fa' il bene:"],["abiterai la terra e vi pascolerai con sicurezza."],["Cerca la gioia nel Signore:"],["esaudirà i desideri del tuo cuore."]]}],"fr":[{"k":"p","lines":[["Fais confiance au Seigneur, agis bien,"],["habite la terre et reste fidèle ;"],["mets ta joie dans le Seigneur :"],["il comblera les désirs de ton cœur."]]}],"de":[{"k":"p","lines":[["Vertrau auf den Herrn und tu das Gute,"],["bleib wohnen im Land und bewahre Treue!"],["Freu dich innig am Herrn!"],["Dann gibt er dir, was dein Herz begehrt."]]}]},"role":"verse","part":"psalm","from":"readings.cds2"},{"slot":"26","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os iusti meditábitur sapiéntiam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O justo tem nos lábios o que é sábio."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"The mouth of the righteous utters wisdom."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La boca del justo expone la sabiduría."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La bocca del giusto medita la sapienza."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le lèvres du juste redisent la sagesse."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Mund des Gerechten spricht Worte der Weisheit."]]}]},"role":"people","part":"psalm","from":"readings.cds2"},{"slot":"27","text":{"la":[{"k":"p","lines":[["Commítte Dómino viam tuam et spera in eo,"],["et ipse fáciet;"],["et edúcet quasi lumen iustítiam tuam,"],["et iudícium tuum tamquam merídiem."]]}],"pt-BR":[{"k":"p","lines":[["Deixa aos cuidados do Senhor o teu destino; confia nele, e com certeza ele agirá. Fará brilhar tua inocência como a luz, e o teu direito, como o sol do meio-dia."]]}],"en-US":[{"k":"p","lines":[["Commit your way to the Lord;"],["trust in him and he will acte"],["and make your righteousness shine like the dawn,"],["your justice like noonday."]]}],"es":[{"k":"p","lines":[["Encomienda tu camino al Señor,"],["confía en él, y él actuará:"],["hará tu justicia como el amanecer,"],["tu derecho como el mediodía."]]}],"it":[{"k":"p","lines":[["Affida al Signore la tua via,"],["confida in lui ed egli agirà:"],["farà brillare come luce la tua giustizia,"],["il tuo diritto come il mezzogiorno."]]}],"fr":[{"k":"p","lines":[["Dirige ton chemin vers le Seigneur,"],["fais-lui confiance, et lui, il agira."],["Il fera lever comme le jour ta justice,"],["et ton droit comme le plein midi."]]}],"de":[{"k":"p","lines":[["Befiehl dem Herrn deinen Weg und vertrau ihm;"],["er wird es fügen."],["Er bringt deine Gerechtigkeit heraus wie das Licht"],["und dein Recht so hell wie den Mittag."]]}]},"role":"verse","part":"psalm","from":"readings.cds2"},{"slot":"28","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os iusti meditábitur sapiéntiam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O justo tem nos lábios o que é sábio."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"The mouth of the righteous utters wisdom."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La boca del justo expone la sabiduría."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La bocca del giusto medita la sapienza."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le lèvres du juste redisent la sagesse."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Mund des Gerechten spricht Worte der Weisheit."]]}]},"role":"people","part":"psalm","from":"readings.cds2"},{"slot":"29","text":{"la":[{"k":"p","lines":[["Os iusti meditábitur sapiéntiam,"],["et lingua eius loquétur iudícium;"],["lex Dei eius in corde ipsíus,"],["et non vacillábunt gressus eius."]]}],"pt-BR":[{"k":"p","lines":[["O justo tem nos lábios o que é sábio, sua língua tem palavras de justiça; traz a Aliança do seu Deus no coração, e seus passos não vacilam no caminho."]]}],"en-US":[{"k":"p","lines":[[";"],["his tongue speaks what is right."],["God's teaching is in his heart;"],["his steps do not falter."]]}],"es":[{"k":"p","lines":[["La boca del justo expone la sabiduría,"],["su lengua explica el derecho;"],["porque lleva en el corazón la ley de su Dios,"],["y sus pasos no vacilan."]]}],"it":[{"k":"p","lines":[["La bocca del giusto medita la sapienza"],["e la sua lingua esprime il diritto;"],["la legge del suo Dio è nel suo cuore:"],["i suoi passi non vacilleranno."]]}],"fr":[{"k":"p","lines":[["Les lèvres du juste redisent la sagesse"],["et sa bouche énonce le droit."],["La loi de son Dieu est dans son cœur ;"],["il va, sans craindre les faux pas."]]}],"de":[{"k":"p","lines":[["Der Mund des Gerechten bewegt Worte der Weisheit,"],["und seine Zunge redet, was recht ist."],["Er hat die Weisung seines Gottes im Herzen,"],["seine Schritte wanken nicht."]]}]},"role":"verse","part":"psalm","from":"readings.cds2"},{"slot":"30","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os iusti meditábitur sapiéntiam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O justo tem nos lábios o que é sábio."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"The mouth of the righteous utters wisdom."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La boca del justo expone la sabiduría."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La bocca del giusto medita la sapienza."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le lèvres du juste redisent la sagesse."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Mund des Gerechten spricht Worte der Weisheit."]]}]},"role":"people","part":"psalm","from":"readings.cds2"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"1"}]]}]},"role":"rubric","part":"acclamation","from":"readings.cmaly1"},{"slot":"77","text":{"la":[{"k":"p","lines":[],"cite":"Mt 5, 10","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}],["Beáti, qui persecutiónem patiúntur propter iustítiam,"],["quóniam ipsórum est regnum cælórum."],[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}]]}],"pt-BR":[{"k":"p","lines":[],"cite":"Mt 5, 10","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluia, aleluia.",{"m":"rubric","t":")"}],["Felizes os que são perseguidos, por causa da justiça do Senhor porque o Reino dos Céus há de ser deles."],[{"m":"rubric","t":"("}," Aleluia.",{"m":"rubric","t":")"}]]}],"en-US":[{"k":"p","lines":[],"cite":"Mt 5:10","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Happy are they who suffer persecution for justice's sake; the kingdom of heaven is theirs."],["Alleluia."]]}],"es":[{"k":"p","lines":[],"cite":"Mt 5, 10","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}],["Bienaventurados los perseguidos por causa de la justicia,"],["porque de ellos es el reino de los cielos."],[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}]]}],"it":[{"k":"p","lines":[],"cite":"Mt 5, IO","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli."],["Alleluia."]]}],"fr":[{"k":"p","lines":[],"cite":"Mt 5, 10","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}],["Heureux ceux qui sont persécutés pour la justice, car le Royaume des Cieux est à eux !"],[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}]]}],"de":[{"k":"p","lines":[],"cite":"vgl. Mt 5, 10","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Halleluja. Halleluja.",{"m":"rubric","t":")"}],["Selig, die um der Gerechtigkeit willen Verfolgung leiden; denn ihnen gehört das Himmelreich."],[{"m":"rubric","t":"("},"Halleluja.",{"m":"rubric","t":")"}]]}]},"part":"acclamation","from":"readings.cmaly1"},{"slot":"248","text":{"*":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"10, 22-25a","role":"announcement"}]},"part":"gospel"},{"slot":"249","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"250","text":{"*":[{"k":"p","lines":[["In jener Zeit sprach Jesus zu seinen Jüngern:"],["Ihr werdet um meines Namens willen von allen gehasst werden; wer aber bis zum Ende standhaft bleibt, der wird gerettet. Wenn man euch in der einen Stadt verfolgt, so flieht in eine andere. Amen, ich sage euch: Ihr werdet nicht zu Ende kommen mit den Städten Israels, bis der Menschensohn kommt."],["Ein Jünger steht nicht über seinem Meister und ein Sklave nicht über seinem Herrn. Der Jünger muss sich damit begnügen, dass es ihm geht wie seinem Meister, und der Sklave, dass es ihm geht wie seinem Herrn."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"251","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"*":"Hl. Paulinus, Bischof von Trier, Märtyrer"}}
+{
+ "id": "sanctorale.08-31.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "31. August"
+       ],
+       [
+        "Hl. Paulinus, Bischof von Trier, Märtyrer"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.cm2l10"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 36(37), 3-4. 5-6. 30-31 (R.: 30a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 36, 3-4. 5-6. 30-31 (R.: 30a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Dal Salmo 36 (37)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R: vgl. 30a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os iusti meditábitur sapiéntiam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O justo tem nos lábios o que é sábio."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The mouth of the righteous utters wisdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La boca del justo expone la sabiduría."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le lèvres du juste redisent la sagesse."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mund des Gerechten spricht Worte der Weisheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Spera in Dómino et fac bonitátem,"
+       ],
+       [
+        "et inhabitábis terram et pascéris in fide."
+       ],
+       [
+        "Delectáre in Dómino,"
+       ],
+       [
+        "et dabit tibi petitiónes cordis tui."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confia no Senhor e faze o bem, e sobre a terra habitarás em segurança. Coloca no Senhor tua alegria, e ele dará o que pedir teu coração."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Trust in the Lord and do good"
+       ],
+       [
+        "that you may dwell in the land and live secure."
+       ],
+       [
+        "Find your delight in the Lord"
+       ],
+       [
+        "who will give you your heart's desire."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confía en el Señor y haz el bien:"
+       ],
+       [
+        "habitarás tu tierra y reposarás en ella en fidelidad;"
+       ],
+       [
+        "sea el Señor tu delicia,"
+       ],
+       [
+        "y él te dará lo que pide tu corazón."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confida nel Signore e fa' il bene:"
+       ],
+       [
+        "abiterai la terra e vi pascolerai con sicurezza."
+       ],
+       [
+        "Cerca la gioia nel Signore:"
+       ],
+       [
+        "esaudirà i desideri del tuo cuore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fais confiance au Seigneur, agis bien,"
+       ],
+       [
+        "habite la terre et reste fidèle ;"
+       ],
+       [
+        "mets ta joie dans le Seigneur :"
+       ],
+       [
+        "il comblera les désirs de ton cœur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vertrau auf den Herrn und tu das Gute,"
+       ],
+       [
+        "bleib wohnen im Land und bewahre Treue!"
+       ],
+       [
+        "Freu dich innig am Herrn!"
+       ],
+       [
+        "Dann gibt er dir, was dein Herz begehrt."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os iusti meditábitur sapiéntiam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O justo tem nos lábios o que é sábio."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The mouth of the righteous utters wisdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La boca del justo expone la sabiduría."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le lèvres du juste redisent la sagesse."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mund des Gerechten spricht Worte der Weisheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Commítte Dómino viam tuam et spera in eo,"
+       ],
+       [
+        "et ipse fáciet;"
+       ],
+       [
+        "et edúcet quasi lumen iustítiam tuam,"
+       ],
+       [
+        "et iudícium tuum tamquam merídiem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deixa aos cuidados do Senhor o teu destino; confia nele, e com certeza ele agirá. Fará brilhar tua inocência como a luz, e o teu direito, como o sol do meio-dia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Commit your way to the Lord;"
+       ],
+       [
+        "trust in him and he will acte"
+       ],
+       [
+        "and make your righteousness shine like the dawn,"
+       ],
+       [
+        "your justice like noonday."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Encomienda tu camino al Señor,"
+       ],
+       [
+        "confía en él, y él actuará:"
+       ],
+       [
+        "hará tu justicia como el amanecer,"
+       ],
+       [
+        "tu derecho como el mediodía."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Affida al Signore la tua via,"
+       ],
+       [
+        "confida in lui ed egli agirà:"
+       ],
+       [
+        "farà brillare come luce la tua giustizia,"
+       ],
+       [
+        "il tuo diritto come il mezzogiorno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dirige ton chemin vers le Seigneur,"
+       ],
+       [
+        "fais-lui confiance, et lui, il agira."
+       ],
+       [
+        "Il fera lever comme le jour ta justice,"
+       ],
+       [
+        "et ton droit comme le plein midi."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Befiehl dem Herrn deinen Weg und vertrau ihm;"
+       ],
+       [
+        "er wird es fügen."
+       ],
+       [
+        "Er bringt deine Gerechtigkeit heraus wie das Licht"
+       ],
+       [
+        "und dein Recht so hell wie den Mittag."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os iusti meditábitur sapiéntiam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O justo tem nos lábios o que é sábio."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The mouth of the righteous utters wisdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La boca del justo expone la sabiduría."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le lèvres du juste redisent la sagesse."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mund des Gerechten spricht Worte der Weisheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os iusti meditábitur sapiéntiam,"
+       ],
+       [
+        "et lingua eius loquétur iudícium;"
+       ],
+       [
+        "lex Dei eius in corde ipsíus,"
+       ],
+       [
+        "et non vacillábunt gressus eius."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O justo tem nos lábios o que é sábio, sua língua tem palavras de justiça; traz a Aliança do seu Deus no coração, e seus passos não vacilam no caminho."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        ";"
+       ],
+       [
+        "his tongue speaks what is right."
+       ],
+       [
+        "God's teaching is in his heart;"
+       ],
+       [
+        "his steps do not falter."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La boca del justo expone la sabiduría,"
+       ],
+       [
+        "su lengua explica el derecho;"
+       ],
+       [
+        "porque lleva en el corazón la ley de su Dios,"
+       ],
+       [
+        "y sus pasos no vacilan."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La bocca del giusto medita la sapienza"
+       ],
+       [
+        "e la sua lingua esprime il diritto;"
+       ],
+       [
+        "la legge del suo Dio è nel suo cuore:"
+       ],
+       [
+        "i suoi passi non vacilleranno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les lèvres du juste redisent la sagesse"
+       ],
+       [
+        "et sa bouche énonce le droit."
+       ],
+       [
+        "La loi de son Dieu est dans son cœur ;"
+       ],
+       [
+        "il va, sans craindre les faux pas."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Mund des Gerechten bewegt Worte der Weisheit,"
+       ],
+       [
+        "und seine Zunge redet, was recht ist."
+       ],
+       [
+        "Er hat die Weisung seines Gottes im Herzen,"
+       ],
+       [
+        "seine Schritte wanken nicht."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os iusti meditábitur sapiéntiam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O justo tem nos lábios o que é sábio."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The mouth of the righteous utters wisdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La boca del justo expone la sabiduría."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le lèvres du juste redisent la sagesse."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mund des Gerechten spricht Worte der Weisheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "acclamation",
+   "from": "common.martyrs.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáti, qui persecutiónem patiúntur propter iustítiam,"
+       ],
+       [
+        "quóniam ipsórum est regnum cælórum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Felizes os que são perseguidos, por causa da justiça do Senhor porque o Reino dos Céus há de ser deles."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5:10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Happy are they who suffer persecution for justice's sake; the kingdom of heaven is theirs."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bienaventurados los perseguidos por causa de la justicia,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, IO",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureux ceux qui sont persécutés pour la justice, car le Royaume des Cieux est à eux !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "vgl. Mt 5, 10",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig, die um der Gerechtigkeit willen Verfolgung leiden; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "common.martyrs.acclamation.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "10, 22-25a",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Ihr werdet um meines Namens willen von allen gehasst werden; wer aber bis zum Ende standhaft bleibt, der wird gerettet. Wenn man euch in der einen Stadt verfolgt, so flieht in eine andere. Amen, ich sage euch: Ihr werdet nicht zu Ende kommen mit den Städten Israels, bis der Menschensohn kommt."
+       ],
+       [
+        "Ein Jünger steht nicht über seinem Meister und ein Sklave nicht über seinem Herrn. Der Jünger muss sich damit begnügen, dass es ihm geht wie seinem Meister, und der Sklave, dass es ihm geht wie seinem Herrn."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "Hl. Paulinus, Bischof von Trier, Märtyrer"
+ }
+}

@@ -1,11 +1,11 @@
-// The shapes of `content/missal/`, as written by `scripts/missal/build.py`.
+// The shapes of `content/missal/`.
 
 export const langs = ['la', 'en-US', 'pt-BR', 'es', 'it', 'fr', 'de'] as const
 export type Lang = (typeof langs)[number]
 
 // `*` is text that is the same whatever language is asked for: a regional
-// proper, which exists in one language only, and the few notes upstream sets
-// once for all languages.
+// proper, which exists in one language only, and the few notes set once for
+// all languages.
 export type TextKey = Lang | '*'
 export type Localized = Partial<Record<TextKey, string>>
 
@@ -66,29 +66,47 @@ export type Part = (typeof parts)[number]
 
 export type Cycle = 'A' | 'B' | 'C' | 'I' | 'II'
 
+// A named stretch of a rite, for the passages the app treats specially.
+export type Tag =
+  // In the Order of Mass
+  | 'sprinkling'
+  | 'sprinkling.outside-easter'
+  | 'sprinkling.easter'
+  | 'penitential-act.1'
+  | 'penitential-act.2'
+  | 'penitential-act.3'
+  | 'gloria'
+  | 'creed.nicene'
+  | 'creed.apostles'
+  | 'universal-prayer.index'
+  // Where the Liturgy of the Eucharist begins.
+  | 'liturgy-of-the-eucharist'
+  | 'bishop-blessing'
+  // In a Eucharistic Prayer: the preface it carries as its own.
+  | 'preface'
+  // In the Easter Vigil's lectionary entry: one of its readings.
+  | `reading.${number}`
+  | 'reading.gospel'
+
 // One passage, the same in every language it exists in, tagged with where it
 // stands in its rite.
 export interface Item {
-  // Upstream's slot number, kept to trace a passage back to its source.
-  slot?: string
   part?: Part
   cycle?: Cycle
   role?: 'rubric' | 'people' | 'verse' | 'all'
   // One of several texts of which one is used. Items of a document that share
   // a `group` are alternatives; those that share an `option` go together.
   alt?: { group: number; option: number; label: 'or' | 'short' | 'long' }
-  // The named stretches of a rite this passage belongs to: `penitential-act.2`,
-  // `creed.nicene`, `sprinkling`, `reading.3`… The list is `sections` in
-  // `scripts/missal/ids.py`.
-  tags?: string[]
-  // Borrowed from this reading of a common.
+  // The named stretches of a rite this passage belongs to.
+  tags?: Tag[]
+  // Borrowed from this reading of a common (a lectionary id).
   from?: string
   // A position, not a passage: in the Order of Mass, where a proper part of
   // the day goes; in a formulary, where its readings stand.
   mark?: Part | 'readings'
   // For a `readings` mark: the tag of the one reading that stands here (the
   // Easter Vigil places each of its nine). Absent, the mark stands for all.
-  at?: string
+  at?: Tag
   text?: Partial<Record<TextKey, Block[]>>
 }
 

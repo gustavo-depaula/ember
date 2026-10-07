@@ -1,1 +1,1124 @@
-{"id":"common.blessed-virgin-mary.easter","source":"comunes_votivas/comunes_bmv#bmvpas","kind":"common","items":[{"slot":"129","text":{"la":[{"k":"h2","lines":[["COMMUNE BEATÆ MARIÆ VIRGINIS"]]},{"k":"h3","lines":[["IV. TEMPORE PASCHALI"],["1"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DA BEM-AVENTURADA VIRGEM MARIA"]]},{"k":"h3","lines":[["IV. No Tempo Pascal"],["1"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF THE BLESSED VIRGIN MARY"]]},{"k":"h3","lines":[["IV. In Easter Time"],["1"]]}],"es":[{"k":"h2","lines":[["COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"]]},{"k":"h3","lines":[["IV. En tiempo pascual"],["1"]]}],"it":[{"k":"h2","lines":[["COMUNE DELLA BEATA VERGINE MARIA"]]},{"k":"h3","lines":[["IV: Tempo di Pasqua"]]}],"fr":[{"k":"h2","lines":[["COMMUN DE LA VIERGE MARIE"]]},{"k":"h3","lines":[["IV. Temps de Pâques"],["1"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE: MARIENMESSEN"]]},{"k":"h3","lines":[["6. In der Osterzeit"]]}]},"part":"title"},{"slot":"130","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Act 1, 14"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. At 1, 14"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Act 1, 14"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Hch 1, 14"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 29, 12"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Act 1, 14"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Apg 1, 14"}]},"part":"entranceAntiphon"},{"slot":"131","text":{"la":[{"k":"p","lines":[["Erant discípuli perseverántes unanímiter in oratióne cum María matre Iesu. Alleluia."]]}],"pt-BR":[{"k":"p","lines":[["Os discípulos perseveraram unânimes em oração"],["com Maria, a Mãe de Jesus, aleluia."]]}],"en-US":[{"k":"p","lines":[["The disciples were constantly at prayer together, with Mary the mother of Jesus, alleluia."]]}],"es":[{"k":"p","lines":[["Los discípulos perseveraban unánimes en la oración con María, la madre de Jesús. Aleluya."]]}],"it":[{"k":"p","lines":[["Hai mutato il mio lamento in danza, o Signore, e mi hai rivestito di gioia. Alleluia."]]}],"fr":[{"k":"p","lines":[["Tu as changé mon deuil en une danse ;"],["Seigneur, tu m'as comblée de joie, alléluia."]]}],"de":[{"k":"p","lines":[["Die Jünger verharrten einmütig im Gebet, zusammen mit Maria, der Mutter Jesu. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"132","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"133","text":{"la":[{"k":"p","lines":[["Deus, qui, per resurrectiónem Fílii tui Dómini nostri Iesu Christi, mundum lætificáre dignátus es, præsta, quǽsumus, ut, per eius Genetrícem Vírginem Maríam, perpétuæ capiámus gáudia vitæ. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus,"],["que destes o Espírito Santo aos vossos Apóstolos"],["reunidos em oração com Maria, Mãe de Jesus,"],["concedei-nos, por sua intercessão,"],["que possamos vos servir fielmente"],["e difundir a glória do vosso nome por palavras e exemplos."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["God our Father, you give joy to the world by the resurrection of your Son, our Lord Jesus Christ. Through the prayers of his mother, the Virgin Mary, bring us to the happiness of eternal life."]]}],"es":[{"k":"p","lines":[["Oh Dios, que por la resurrección de tu Hijo, nuestro Señor Jesucristo, has llenado el mundo de alegría, concédenos, por intercesión de su Madre, la Virgen María, llegar a alcanzar los gozos eternos. Por nuestro Señor Jesucristo."],[{"m":"rubric","t":"O bien:"}],["Dios todopoderoso, que derramaste el Espíritu Santo sobre los apóstoles, reunidos en oración con María, la Madre de Jesús, concédenos, por intercesión de la Virgen, entregarnos fielmente a tu servicio y proclamar la gloria de tu nombre con testimonio de palabra y de vida. Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che nella risurrezione del tuo Figlio, il Signore nostro Gesù Cristo, hai donato al mondo la gioia, per intercessione della Vergine Maria, sua Madre, concedi a noi di godere la felicità della vita senza fine. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["par la résurrection de ton Fils, notre Seigneur Jésus, le Christ,"],["tu as voulu donner la joie au monde :"],["accorde-nous, par sa Mère, la Vierge Marie,"],["d'obtenir le bonheur de la vie éternelle."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, durch die Auferstehung deines Sohnes, unseres Herrn Jesus Christus, hast du die Welt mit Jubel erfüllt. Lass uns durch seine jungfräuliche Mutter Maria zur unvergänglichen Osterfreude gelangen. Darum bitten wir durch ihn, Jesus Christus."]]}]},"part":"collect"},{"slot":"134","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"135","text":{"la":[{"k":"p","lines":[["Súscipe, sancte Pater, oblatiónem humilitátis nostræ, quam tibi læti exhibémus, commemoratiónem beátæ Maríæ Vírginis celebrántes, et præsta, ut nobis, sacrifício Christi sociátis, temporális fiat consolátio et ætérna salvátio. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, em vossa benevolência,"],["concedei, por intercessão da Bem-aventurada Virgem Maria,"],["que esta nossa oblação obtenha para a vossa Igreja"],["a graça de crescer em número de fiéis"],["e sempre resplandecer pela abundância de virtudes."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Father, as we celebrate the memory of the Virgin Mary, we offer you our gifts and prayers. Sustain us by the love of Christ, who offered himself as a perfect sacrifice on the cross, and is Lord for ever and ever."]]}],"es":[{"k":"p","lines":[["Al celebrar la fiesta de santa María, siempre Virgen, te presentamos, Señor, nuestras ofrendas y te suplicamos que tu Hijo Jesucristo, sacerdote y víctima en el altar de la cruz, nos socorra siempre con su gracia. Por Jesucristo nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, Padre santo, l'umile offerta che ti presentiamo con gioia celebrando la memoria della beata Vergine Maria: fa' che, uniti al sacrificio di Cristo, otteniamo consolazione nel tempo presente e salvezza nella vita eterna. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Reçois, Père très saint, l'humble offrande"],["que nous te présentons dans la joie,"],["en célébrant la mémoire de la bienheureuse Vierge Marie ;"],["fais qu'en nous unissant au sacrifice du Christ,"],["nous recevions la consolation dès maintenant"],["et le salut pour l'éternité."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, am Fest (Gedenktag) der seligen Jungfrau Maria (beim Gedenken an die selige Jungfrau Maria) bringen wir unsere Gaben dar. Komm uns zu Hilfe durch deinen Sohn, der Mensch geworden ist und sich für uns am Kreuz als makelloses Opfer dargebracht hat. Darum bitten wir durch ihn, Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"137","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Lc 11, 27-28"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]]}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]]}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]]}],"de":[{"k":"h4","lines":[["Kommunionvers"]]}]},"part":"communionAntiphon"},{"slot":"138","text":{"la":[{"k":"p","lines":[["Lætáre, Virgo Mater, quia surréxit Christus de sepúlcro, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Feliz o ventre"],["que trouxe o Cristo Senhor;"],["felizes sobretudo os que ouvem a palavra de Deus"],["e a colocam em prática, aleluia."]]}],"en-US":[{"k":"p","lines":[["Rejoice, virgin mother, for Christ has risen from his grave, alleluia."]]}],"es":[{"k":"p","lines":[["Alégrate, Virgen Madre, porque Cristo ha resucitado del sepulcro. Aleluya."]]}],"it":[{"k":"p","lines":[["Rallegrati, Vergine Maria: Cristo è risorto dal sepolcro. Alleluia."]]}],"fr":[{"k":"p","lines":[["Réjouis-toi, Vierge Mère,"],["car le Christ s'est relevé du tombeau, alléluia."]]}],"de":[{"k":"p","lines":[["Freu dich, Jungfrau und Mutter, denn der Herr ist aus dem Grab erstanden. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"139","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"140","text":{"la":[{"k":"p","lines":[["Paschálibus sacraméntis refécti, quǽsumus, Dómine, ut, qui Genetrícis Fílii tui memóriam recólimus, vitam Iesu in carne nostra mortáli manifestémus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor,"],["fortalecidos com os sacramentos pascais,"],["concedei aos que celebramos a memória da Mãe do vosso Filho,"],["testemunhar, em nossa carne mortal, a vida de Jesus."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Lord, may this sacrament strengthen the faith in our hearts. May Mary's Son, Jesus Christ, whom we proclaim to be God and man, bring us to eternal life by the saving power of his resurrection, for he is Lord for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso, confírmanos en la fe de estos misterios que hemos celebrado, y pues confesamos a tu Hijo Jesucristo, nacido de la Virgen, Dios y hombre Verdadero, te rogamos que por la fuerza salvadora de su resurrección merezcamos llegar a las alegrías eternas. Por Jesucristo nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Padre, che ci hai nutriti dei sacramenti pasquali nella memoria della Madre del tuo Figlio, fa' che manifestiamo la vita di Gesù nella nostra carne mortale. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Réconfortés par les sacrements de Pâques,"],["nous t'en prions, Seigneur :"],["fais que, célébrant la mémoire de la Mère de ton Fils,"],["nous manifestions dans notre chair vouée à la mort"],["la vie de Jésus."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Ewiger Gott, bewahre, was du uns im Sakrament des Glaubens geschenkt hast. Lass uns festhalten am Bekenntnis, dass dein Sohn, den die Jungfrau empfangen hat, wahrer Gott und wahrer Mensch ist, und führe uns in der Kraft seiner Auferstehung zur ewigen Freude. Darum bitten wir durch ihn, Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"141","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Tempore paschali adhiberi potest etiam Missa de Sancta Maria, Regina Apostolorum."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"No Tempo Pascal, pode-se celebrar também a Missa de Santa Maria, Rainha dos Apóstolos."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"En el tiempo pascual se puede utilizar también la misa de santa María, reina de los Apóstoles"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Nel tempo Pasquale si può utilizzare anche la Messa di santa Maria, Regina degli apostoli,"}]]}]},"role":"rubric"}],"prefaces":["preface.43","preface.44","preface.45","preface.46","preface.47"],"title":{"la":"COMMUNE BEATÆ MARIÆ VIRGINIS","pt-BR":"COMUM DA BEM-AVENTURADA VIRGEM MARIA","en-US":"COMMON OF THE BLESSED VIRGIN MARY","es":"COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA","it":"COMUNE DELLA BEATA VERGINE MARIA","fr":"COMMUN DE LA VIERGE MARIE","de":"COMMUNE-TEXTE: MARIENMESSEN"},"subtitle":{"la":"IV. TEMPORE PASCHALI 1","pt-BR":"IV. No Tempo Pascal 1","en-US":"IV. In Easter Time 1","es":"IV. En tiempo pascual 1","it":"IV: Tempo di Pasqua","fr":"IV. Temps de Pâques 1","de":"6. In der Osterzeit"}}
+{
+ "id": "common.blessed-virgin-mary.easter",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE BEATÆ MARIÆ VIRGINIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. TEMPORE PASCHALI"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DA BEM-AVENTURADA VIRGEM MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. No Tempo Pascal"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF THE BLESSED VIRGIN MARY"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. In Easter Time"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. En tiempo pascual"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DELLA BEATA VERGINE MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV: Tempo di Pasqua"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DE LA VIERGE MARIE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. Temps de Pâques"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE: MARIENMESSEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "6. In der Osterzeit"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Act 1, 14"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. At 1, 14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Act 1, 14"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Hch 1, 14"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 29, 12"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Act 1, 14"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Apg 1, 14"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erant discípuli perseverántes unanímiter in oratióne cum María matre Iesu. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os discípulos perseveraram unânimes em oração"
+       ],
+       [
+        "com Maria, a Mãe de Jesus, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The disciples were constantly at prayer together, with Mary the mother of Jesus, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los discípulos perseveraban unánimes en la oración con María, la madre de Jesús. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hai mutato il mio lamento in danza, o Signore, e mi hai rivestito di gioia. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu as changé mon deuil en une danse ;"
+       ],
+       [
+        "Seigneur, tu m'as comblée de joie, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Jünger verharrten einmütig im Gebet, zusammen mit Maria, der Mutter Jesu. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui, per resurrectiónem Fílii tui Dómini nostri Iesu Christi, mundum lætificáre dignátus es, præsta, quǽsumus, ut, per eius Genetrícem Vírginem Maríam, perpétuæ capiámus gáudia vitæ. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus,"
+       ],
+       [
+        "que destes o Espírito Santo aos vossos Apóstolos"
+       ],
+       [
+        "reunidos em oração com Maria, Mãe de Jesus,"
+       ],
+       [
+        "concedei-nos, por sua intercessão,"
+       ],
+       [
+        "que possamos vos servir fielmente"
+       ],
+       [
+        "e difundir a glória do vosso nome por palavras e exemplos."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "God our Father, you give joy to the world by the resurrection of your Son, our Lord Jesus Christ. Through the prayers of his mother, the Virgin Mary, bring us to the happiness of eternal life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh Dios, que por la resurrección de tu Hijo, nuestro Señor Jesucristo, has llenado el mundo de alegría, concédenos, por intercesión de su Madre, la Virgen María, llegar a alcanzar los gozos eternos. Por nuestro Señor Jesucristo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ],
+       [
+        "Dios todopoderoso, que derramaste el Espíritu Santo sobre los apóstoles, reunidos en oración con María, la Madre de Jesús, concédenos, por intercesión de la Virgen, entregarnos fielmente a tu servicio y proclamar la gloria de tu nombre con testimonio de palabra y de vida. Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che nella risurrezione del tuo Figlio, il Signore nostro Gesù Cristo, hai donato al mondo la gioia, per intercessione della Vergine Maria, sua Madre, concedi a noi di godere la felicità della vita senza fine. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "par la résurrection de ton Fils, notre Seigneur Jésus, le Christ,"
+       ],
+       [
+        "tu as voulu donner la joie au monde :"
+       ],
+       [
+        "accorde-nous, par sa Mère, la Vierge Marie,"
+       ],
+       [
+        "d'obtenir le bonheur de la vie éternelle."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, durch die Auferstehung deines Sohnes, unseres Herrn Jesus Christus, hast du die Welt mit Jubel erfüllt. Lass uns durch seine jungfräuliche Mutter Maria zur unvergänglichen Osterfreude gelangen. Darum bitten wir durch ihn, Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súscipe, sancte Pater, oblatiónem humilitátis nostræ, quam tibi læti exhibémus, commemoratiónem beátæ Maríæ Vírginis celebrántes, et præsta, ut nobis, sacrifício Christi sociátis, temporális fiat consolátio et ætérna salvátio. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, em vossa benevolência,"
+       ],
+       [
+        "concedei, por intercessão da Bem-aventurada Virgem Maria,"
+       ],
+       [
+        "que esta nossa oblação obtenha para a vossa Igreja"
+       ],
+       [
+        "a graça de crescer em número de fiéis"
+       ],
+       [
+        "e sempre resplandecer pela abundância de virtudes."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father, as we celebrate the memory of the Virgin Mary, we offer you our gifts and prayers. Sustain us by the love of Christ, who offered himself as a perfect sacrifice on the cross, and is Lord for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al celebrar la fiesta de santa María, siempre Virgen, te presentamos, Señor, nuestras ofrendas y te suplicamos que tu Hijo Jesucristo, sacerdote y víctima en el altar de la cruz, nos socorra siempre con su gracia. Por Jesucristo nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, Padre santo, l'umile offerta che ti presentiamo con gioia celebrando la memoria della beata Vergine Maria: fa' che, uniti al sacrificio di Cristo, otteniamo consolazione nel tempo presente e salvezza nella vita eterna. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reçois, Père très saint, l'humble offrande"
+       ],
+       [
+        "que nous te présentons dans la joie,"
+       ],
+       [
+        "en célébrant la mémoire de la bienheureuse Vierge Marie ;"
+       ],
+       [
+        "fais qu'en nous unissant au sacrifice du Christ,"
+       ],
+       [
+        "nous recevions la consolation dès maintenant"
+       ],
+       [
+        "et le salut pour l'éternité."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, am Fest (Gedenktag) der seligen Jungfrau Maria (beim Gedenken an die selige Jungfrau Maria) bringen wir unsere Gaben dar. Komm uns zu Hilfe durch deinen Sohn, der Mensch geworden ist und sich für uns am Kreuz als makelloses Opfer dargebracht hat. Darum bitten wir durch ihn, Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Lc 11, 27-28"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lætáre, Virgo Mater, quia surréxit Christus de sepúlcro, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Feliz o ventre"
+       ],
+       [
+        "que trouxe o Cristo Senhor;"
+       ],
+       [
+        "felizes sobretudo os que ouvem a palavra de Deus"
+       ],
+       [
+        "e a colocam em prática, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rejoice, virgin mother, for Christ has risen from his grave, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alégrate, Virgen Madre, porque Cristo ha resucitado del sepulcro. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegrati, Vergine Maria: Cristo è risorto dal sepolcro. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Réjouis-toi, Vierge Mère,"
+       ],
+       [
+        "car le Christ s'est relevé du tombeau, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Freu dich, Jungfrau und Mutter, denn der Herr ist aus dem Grab erstanden. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Paschálibus sacraméntis refécti, quǽsumus, Dómine, ut, qui Genetrícis Fílii tui memóriam recólimus, vitam Iesu in carne nostra mortáli manifestémus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor,"
+       ],
+       [
+        "fortalecidos com os sacramentos pascais,"
+       ],
+       [
+        "concedei aos que celebramos a memória da Mãe do vosso Filho,"
+       ],
+       [
+        "testemunhar, em nossa carne mortal, a vida de Jesus."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lord, may this sacrament strengthen the faith in our hearts. May Mary's Son, Jesus Christ, whom we proclaim to be God and man, bring us to eternal life by the saving power of his resurrection, for he is Lord for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso, confírmanos en la fe de estos misterios que hemos celebrado, y pues confesamos a tu Hijo Jesucristo, nacido de la Virgen, Dios y hombre Verdadero, te rogamos que por la fuerza salvadora de su resurrección merezcamos llegar a las alegrías eternas. Por Jesucristo nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che ci hai nutriti dei sacramenti pasquali nella memoria della Madre del tuo Figlio, fa' che manifestiamo la vita di Gesù nella nostra carne mortale. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Réconfortés par les sacrements de Pâques,"
+       ],
+       [
+        "nous t'en prions, Seigneur :"
+       ],
+       [
+        "fais que, célébrant la mémoire de la Mère de ton Fils,"
+       ],
+       [
+        "nous manifestions dans notre chair vouée à la mort"
+       ],
+       [
+        "la vie de Jésus."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ewiger Gott, bewahre, was du uns im Sakrament des Glaubens geschenkt hast. Lass uns festhalten am Bekenntnis, dass dein Sohn, den die Jungfrau empfangen hat, wahrer Gott und wahrer Mensch ist, und führe uns in der Kraft seiner Auferstehung zur ewigen Freude. Darum bitten wir durch ihn, Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Tempore paschali adhiberi potest etiam Missa de Sancta Maria, Regina Apostolorum."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "No Tempo Pascal, pode-se celebrar também a Missa de Santa Maria, Rainha dos Apóstolos."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "En el tiempo pascual se puede utilizar también la misa de santa María, reina de los Apóstoles"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Nel tempo Pasquale si può utilizzare anche la Messa di santa Maria, Regina degli apostoli,"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  }
+ ],
+ "prefaces": [
+  "preface.43",
+  "preface.44",
+  "preface.45",
+  "preface.46",
+  "preface.47"
+ ],
+ "title": {
+  "la": "COMMUNE BEATÆ MARIÆ VIRGINIS",
+  "pt-BR": "COMUM DA BEM-AVENTURADA VIRGEM MARIA",
+  "en-US": "COMMON OF THE BLESSED VIRGIN MARY",
+  "es": "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA",
+  "it": "COMUNE DELLA BEATA VERGINE MARIA",
+  "fr": "COMMUN DE LA VIERGE MARIE",
+  "de": "COMMUNE-TEXTE: MARIENMESSEN"
+ },
+ "subtitle": {
+  "la": "IV. TEMPORE PASCHALI 1",
+  "pt-BR": "IV. No Tempo Pascal 1",
+  "en-US": "IV. In Easter Time 1",
+  "es": "IV. En tiempo pascual 1",
+  "it": "IV: Tempo di Pasqua",
+  "fr": "IV. Temps de Pâques 1",
+  "de": "6. In der Osterzeit"
+ }
+}

@@ -1,0 +1,390 @@
+{
+ "id": "common.blessed-virgin-mary.first-reading-easter.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erant perseverantes in oratione cum Maria, matre Iesu."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Actuum Apostolórum"
+       ]
+      ],
+      "cite": "1, 12-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "[Postquam assúmptus est Iesus in cælum,] revérsi sunt apóstoli in Ierúsalem a monte, qui vocátur Olivéti, qui est iuxta Ierúsalem sábbati habens iter."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et cum introíssent, in cenáculum ascendérunt, ubi manébant et Petrus et Ioánnes et Iacóbus et Andréas, Philíppus et Thomas, Bartholomæus et Matthæus, Iacóbus Alphǽi et Simon Zelótes et Iudas Iacóbi. Hi omnes erant perseverántes unanímiter in oratióne cum muliéribus et María matre Iesu et frátribus eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Todos eles perseveravam na oração em comum, com Maria, a Mãe de Jesus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura dos Atos dos Apóstolos"
+       ]
+      ],
+      "cite": "1, 12-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Depois que Jesus subiu ao céu, os apóstolos voltaram para Jerusalém, vindo do monte das Oliveiras, que fica perto de Jerusalém, a mais ou menos um quilômetro. Entraram na cidade e subiram para a sala de cima, onde costumavam ficar. Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão Zelota e Judas, filho de Tiago. Todos eles perseveravam na oração em comum, junto com algumas mulheres, entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Acts of the Apostles"
+       ]
+      ],
+      "cite": "1:12-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "After Jesus was taken up into heaven, the apostles went back from the Mount of Olives, as it is called, to Jerusalem, a short distance away, no more than a sabbath walk; and when they reached the city they went to the upper room where they were staying; there were Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus and Simon the Zealot, and Jude son of James. All these joined in continuous prayer, together with several women, including Mary the mother of Jesus, and with his brothers."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perseveraban en la oración junto con María, la madre de Jesús"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de los Hechos de los apóstoles"
+       ]
+      ],
+      "cite": "1, 12-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Después de que Jesús fue levantado al cielo, los apóstoles volvieron a Jerusalén, desde el monte que llaman de los Olivos, que dista de Jerusalén lo que se permite caminar en sábado. Cuando llegaron, subieron a la sala superior, donde se alojaban: Pedro y Juan y Santiago y Andrés, Felipe y Tomás, Bartolomé y Mateo, Santiago el de Alfeo y Simón el Zelotes y Judas el de Santiago."
+       ],
+       [
+        "Todos ellos perseveraban unánimes en la oración, junto con algunas mujeres y María, la madre de Jesús, y con sus hermanos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erano perseveranti e concordi nella preghiera, insieme a Maria, la madre di Gesù."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dagli Atti degli Apostoli"
+       ]
+      ],
+      "cite": "1, 12-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "[Dopo che Gesù fu assunto in cielo, gli apostoli] ritornarono a Gerusalemme dal monte detto degli Ulivi, che è vicino a Gerusalemme quanto il cammino permesso in giorno di sabato."
+       ],
+       [
+        "Entrati in città, salirono nella stanza al piano superiore, dove erano soliti riunirsi: vi erano Pietro e Giovanni, Giacomo e Andrea, Filippo e Tommaso, Bartolomeo e Matteo, Giacomo figlio di Alfeo, Simone lo Zelota e Giuda figlio di Giacomo."
+       ],
+       [
+        "Tutti questi erano perseveranti e concordi nella preghiera, insieme ad alcune donne e a Maria, la madre di Gesù, e ai fratelli di lui."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre des Actes des Apôtres"
+       ]
+      ],
+      "cite": "1, 12-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les Apôtres, après avoir vu Jésus s'en aller vers le ciel, retournèrent à Jérusalem depuis le lieu-dit \" mont des Oliviers \" qui en est proche, - la distance de marche ne dépasse pas ce qui est permis le jour du sabbat. À leur arrivée, ils montèrent dans la chambre haute où ils se tenaient habituellement ; c'était Pierre, Jean, Jacques et André, Philippe et Thomas, Barthélemy et Matthieu, Jacques fils d'Alphée, Simon le Zélote, et Jude fils de Jacques. Tous, d'un même cœur, étaient assidus à la prière, avec des femmes, avec Marie la mère de Jésus, et avec ses frères."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Apostelgeschichte"
+       ]
+      ],
+      "cite": "1, 12-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Als Jesus in den Himmel aufgenommen war, kehrten die Apostel vom Ölberg, der nur einen Sabbatweg von Jerusalem entfernt ist, nach Jerusalem zurück."
+       ],
+       [
+        "Als sie in die Stadt kamen, gingen sie in das Obergemach hinauf, wo sie nun ständig blieben: Petrus und Johannes, Jakobus und Andreas, Philippus und Thomas, Bartholomäus und Matthäus, Jakobus, der Sohn des Alphäus, und Simon, der Zelot, sowie Judas, der Sohn des Jakobus. Sie alle verharrten dort einmütig im Gebet, zusammen mit den Frauen und mit Maria, der Mutter Jesu, und mit seinen Brüdern."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

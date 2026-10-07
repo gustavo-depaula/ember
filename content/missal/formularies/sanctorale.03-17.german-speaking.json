@@ -1,1 +1,208 @@
-{"id":"sanctorale.03-17.german-speaking","source":"santos/santos_mar#0317Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["17. März"],["Hl. Gertrud von Nivelles, Äbtissin"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Die 626 geborene Tochter Pippins d. Ä. trat in das von ihrer Mutter, der hl. Iduberga, gegründete Kloster Nivelles ein und wurde nach dem Tod der Mutter dessen erste Äbtissin. Ausgezeichnet durch Schriftkenntnis, Nächstenliebe und Tugendeifer, vermittelte sie in ihrem Wirkungsbereich Bücher und sorgte für die Schrifterklärung durch Mönche aus Irland. Sie starb am 17. März 653 oder 659. Ihr Reliquienschrein befindet sich in der Kollegiatkirche zu Nivelles."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Ordensleute:"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Herr, unser Gott, du hast im Herzen der heiligen Gertrud das Verlangen geweckt, das Wort der Schrift zu verstehen und deine Weisung zu erkennen. Lehre auch uns, aus der Kraft deines Wortes zu leben und Werke der Liebe zu tun. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"44","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.57"],"commons":["common.holy-men-and-women.10","common.holy-men-and-women.11"],"title":{"*":"Hl. Gertrud von Nivelles, Äbtissin"}}
+{
+ "id": "sanctorale.03-17.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. März"
+       ],
+       [
+        "Hl. Gertrud von Nivelles, Äbtissin"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die 626 geborene Tochter Pippins d. Ä. trat in das von ihrer Mutter, der hl. Iduberga, gegründete Kloster Nivelles ein und wurde nach dem Tod der Mutter dessen erste Äbtissin. Ausgezeichnet durch Schriftkenntnis, Nächstenliebe und Tugendeifer, vermittelte sie in ihrem Wirkungsbereich Bücher und sorgte für die Schrifterklärung durch Mönche aus Irland. Sie starb am 17. März 653 oder 659. Ihr Reliquienschrein befindet sich in der Kollegiatkirche zu Nivelles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Ordensleute:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast im Herzen der heiligen Gertrud das Verlangen geweckt, das Wort der Schrift zu verstehen und deine Weisung zu erkennen. Lehre auch uns, aus der Kraft deines Wortes zu leben und Werke der Liebe zu tun. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.57"
+ ],
+ "commons": [
+  "common.holy-men-and-women.10",
+  "common.holy-men-and-women.11"
+ ],
+ "title": {
+  "*": "Hl. Gertrud von Nivelles, Äbtissin"
+ }
+}

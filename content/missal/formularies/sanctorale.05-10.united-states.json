@@ -1,1 +1,211 @@
-{"id":"sanctorale.05-10.united-states","source":"santos/santos_may#0510Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In the Dioceses of the United States]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["May 10"],["Saint Damien de Veuster, Priest"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Pastors:"}," ",{"m":"link","t":"1","to":"common.pastors.6"},{"m":"link","t":"2","to":"common.pastors.7"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Collect"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Father of mercy,"],["who gave us in Saint Damien"],["a shining witness of love for the poorest and most abandoned, grant that, by his intercession,"],["as faithful witnesses of the heart of your Son Jesus,"],["we too may be servants of the most needy and rejected. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}]},"part":"collect"},{"slot":"49","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.56"],"commons":["common.pastors.6","common.pastors.7"],"title":{"*":"Saint Damien de Veuster, Priest"}}
+{
+ "id": "sanctorale.05-10.united-states",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In the Dioceses of the United States]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "May 10"
+       ],
+       [
+        "Saint Damien de Veuster, Priest"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Pastors:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.7"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father of mercy,"
+       ],
+       [
+        "who gave us in Saint Damien"
+       ],
+       [
+        "a shining witness of love for the poorest and most abandoned, grant that, by his intercession,"
+       ],
+       [
+        "as faithful witnesses of the heart of your Son Jesus,"
+       ],
+       [
+        "we too may be servants of the most needy and rejected. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.56"
+ ],
+ "commons": [
+  "common.pastors.6",
+  "common.pastors.7"
+ ],
+ "title": {
+  "*": "Saint Damien de Veuster, Priest"
+ }
+}

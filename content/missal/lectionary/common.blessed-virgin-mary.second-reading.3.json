@@ -1,0 +1,390 @@
+{
+ "id": "common.blessed-virgin-mary.second-reading.3",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Misit Deus Filium suum, factum ex muliere."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ béati Pauli apóstoli ad Gálatas"
+       ]
+      ],
+      "cite": "4, 4-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ubi venit plenitúdo témporis, misit Deus Fílium suum, factum ex mulíere, factum sub lege, ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus. Quóniam autem estis fílii, misit Deus Spíritum Fílii sui in corda nostra clamántem: «Abba, Pater!». Itaque iam non es servus sed fílius; quod si fílius, et heres per Deum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus enviou o seu Filho, nascido de uma mulher."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Carta de São Paulo aos Gálatas"
+       ]
+      ],
+      "cite": "4, 4-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva. E porque sois filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama: Abá - ó Pai! Assim já não és mais escravo, mas filho; e se és filho, és também herdeiro: tudo isso, por graça de Deus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Letter of Saint Paul to the Galatians"
+       ]
+      ],
+      "cite": "4:4-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When the appointed time came, God sent his Son, born of a woman, born a subject of the Law, to redeem the subjects of the Law and to enable us to be adopted as sons. The proof that you are sons is that God has sent the Spirit of his Son into our hearts: the Spirit that cries, 'Abba, Father', and it is this that makes you a son, you are not a slave any more; and if God has made you son, then he has made you heir."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Envió Dios a su Hijo, nacido de mujer"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la carta del apóstol san Pablo a los Gálatas"
+       ]
+      ],
+      "cite": "4, 4-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Cuando llegó la plenitud del tiempo, envió Dios a su Hijo, nacido de mujer, nacido bajo la ley, para rescatar a los que estaban bajo la ley, para que recibiéramos la adopción filial. Como sois hijos, Dios envió a nuestros corazones el Espíritu de su Hijo, que clama: «Abba, Padre!»."
+       ],
+       [
+        "Así que ya no eres esclavo, sino hijo; y si eres hijo, eres también heredero por voluntad de Dios."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio mandò il suo Figlio, nato da donna."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla Lettera di san Paolo apostolo ai Galati"
+       ]
+      ],
+      "cite": "4, 4-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, quando venne la pienezza del tempo, Dio mandò il suo Figlio, nato da donna, nato sotto la Legge, per riscattare quelli che erano sotto la Legge, perché ricevessimo l'adozione a figli."
+       ],
+       [
+        "E che voi siete figli lo prova il fatto che Dio mandò nei nostri cuori lo Spirito del suo Figlio, il quale grida: «Abbài Padre!» Quindi non sei più schiavo, ma figlio e, se figlio, sei anche erede per grazia di Dio."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lettre de saint Paul Apôtre aux Galates"
+       ]
+      ],
+      "cite": "4, 4-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, lorsqu'est venue la plénitude des temps, Dieu a envoyé son Fils, né d'une femme et soumis à la loi de Moïse, afin de racheter ceux qui étaient soumis à la Loi et pour que nous soyons adoptés comme fils. Et voici la preuve que vous êtes des fils : Dieu a envoyé l'Esprit de son Fils dans nos cœurs, et cet Esprit crie \" Abba ! \", c'est-à-dire : Père ! Ainsi tu n'es plus esclave, mais fils, et puisque tu es fils, tu es aussi héritier : c'est l'œuvre de Dieu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Brief des Apostels Paulus an die Gálater"
+       ]
+      ],
+      "cite": "4, 4-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Als die Zeit erfüllt war, sandte Gott seinen Sohn, geboren von einer Frau und dem Gesetz unterstellt, damit er die freikaufe, die unter dem Gesetz stehen, und damit wir die Sohnschaft erlangen. Weil ihr aber Söhne seid, sandte Gott den Geist seines Sohnes in unser Herz, den Geist, der ruft: Abba, Vater. Daher bist du nicht mehr Sklave, sondern Sohn; bist du aber Sohn, dann auch Erbe, Erbe durch Gott."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

@@ -1,1 +1,1138 @@
-{"id":"tempore.easter.week-7.saturday","source":"tiempos/tiempos_pascua#P076","kind":"tempore","items":[{"slot":"650","text":{"la":[{"k":"h2","lines":[["Tempus Paschale"],["Hebdomada VII"],["Sabbato"]]},{"k":"h3","lines":[["Ad Missam matutinam"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo Pascal"],["Sétima semana"],["Sábado"]]},{"k":"h3","lines":[["Missa Matutina"]]}],"en-US":[{"k":"h2","lines":[["Easter Season"],["Seventh Week"],["Saturday"]]},{"k":"h3","lines":[["At the Morning Mass"]]}],"es":[{"k":"h2","lines":[["Tiempo Pascual"],["VII Semana"],["Sábado"]]}],"it":[{"k":"h2","lines":[["Tempo Pasquale"],["VII Settimana"],["Sabato"],["Messa del mattino"]]}],"fr":[{"k":"h2","lines":[["Temps pascal"],["SAMEDI DE LA 7e SEMAINE"]]}],"de":[{"k":"h2","lines":[["Osterzeit"],["SAMSTAG"],["der siebten Osterwoche"]]}]},"part":"title"},{"slot":"651","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Act 1, 14"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"At 1, 14"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Acts 1: 14"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Act 1, 14"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"At 1, 14"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Act 1, 14"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Apg 1, 14"}]},"part":"entranceAntiphon"},{"slot":"652","text":{"la":[{"k":"p","lines":[["Erant discípuli perseverántes unanímiter in oratióne, cum muliéribus et María Matre Iesu, et frátribus eius, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Os discípulos perseveraram na oração em comum,"],["junto com algumas mulheres"],["entre as quais Maria, mãe de Jesus,"],["e com os irmãos de Jesus, aleluia."]]}],"en-US":[{"k":"p","lines":[["The disciples devoted themselves with one accord to prayer with the women, and Mary the Mother of Jesus,"],["and his brethren, alleluia."]]}],"es":[{"k":"p","lines":[["Los discípulos perseveraban unánimes en la oración, junto con algunas mujeres y María, la madre de Jesús, y con sus hermanos. Aleluya."]]}],"it":[{"k":"p","lines":[["I discepoli erano perseveranti e concordi nella preghiera, insieme ad alcune donne, a Maria, la Madre di Gesù, e ai fratelli di lui. Alleluia."]]}],"fr":[{"k":"p","lines":[["Les disciples, d'un même cœur, étaient assidus à la prière,"],["avec des femmes, avec Marie la mère de Jésus,"],["et avec ses frères, alléluia."]]}],"de":[{"k":"p","lines":[["Die Jünger verharrten einmütig im Gebet, zusammen mit den Frauen und mit Maria, der Mutter Jesu, und mit seinen Brüdern. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"653","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"654","text":{"la":[{"k":"p","lines":[["Præsta, quǽsumus, omnípotens Deus, ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus todo-poderoso, nós vos pedimos"],["que, com vossa ajuda generosa,"],["conservemos, em nossa vida e em nossos costumes,"],["o que celebramos nas festas pascais que estamos para encerrar."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, almighty God,"],["that we, who have celebrated the paschal festivities,"],["may by your gift hold fast to them"],["in the way that we live our lives."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Concédenos, Dios todopoderoso, a los que hemos celebrado"],["las fiestas de Pascua, conservarlas por tu gracia,"],["en las costumbres y en la vida."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, ai tuoi figli, che hanno celebrato con gioia le feste pasquali, concedi, per tua grazia, di testimoniare nella vita e nelle opere la loro forza salvifica. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant,"],["nous te prions au terme de ces fêtes pascales :"],["que, par ta grâce,"],["elles imprègnent nos actes et notre vie."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, am Ende der heiligen fünfzig Tage bitten wir dich: Gib uns die Gnade, dass wir in einem Leben aus dem Glauben das Ostergeheimnis deines Sohnes bewahren, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"655","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"656","text":{"la":[{"k":"p","lines":[["Mentes nostras, quǽsumus, Dómine, Spíritus Sanctus advéniens divínis prǽparet sacraméntis, quia ipse est remíssio ómnium peccatórum. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, nós vos pedimos:"],["o Espírito Santo, que vem,"],["prepare nossos corações para os divinos sacramentos,"],["pois ele mesmo é a remissão de todos os pecados."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May the Holy Spirit coming near, we pray, O Lord, prepare our minds for the divine Sacrament,"],["since the Spirit himself is the remission of all sins."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te pedimos, Señor,"],["que la venida del Espíritu Santo"],["prepare nuestras almas con los sacramentos divinos,"],["porque él mismo es el perdón de todos los pecados."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Venga, o Signore, il tuo santo Spirito e disponga i nostri cuori a celebrare degnamente i santi misteri, perché egli è la remissione di tutti i peccati. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Que l'Esprit Saint, par sa venue,"],["nous t'en prions, Seigneur,"],["prépare nos esprits à recevoir tes sacrements,"],["car il est lui-même le pardon de tout péché."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr und Gott, dein Heiliger Geist komme auf uns herab. Er mache uns bereit für die Feier des heiligen Opfers, denn er ist die Vergebung der Sünden. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"658","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 16, 14"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 16, 14"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 16: 14"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Io 16, 14"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gv 16, 14"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 16, 14"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 16, 14"}]},"part":"communionAntiphon"},{"slot":"659","text":{"la":[{"k":"p","lines":[["Spíritus Sanctus, ille me clarificábit, quia de meo accípiet, et annuntiábit vobis, dicit Dóminus, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["O Espírito Santo me glorificará,"],["porque receberá do que é meu"],["e vo-lo anunciará, diz o Senhor, aleluia."]]}],"en-US":[{"k":"p","lines":[["The Holy Spirit will glorify me,"],["for he will take from what is mine and declare it to you, says the Lord, alleluia."]]}],"es":[{"k":"p","lines":[["El Espíritu Santo me glorificará, porque recibirá de lo mío y os lo anunciará, dice el Señor. Aleluya."]]}],"it":[{"k":"p","lines":[["Lo Spirito Santo mi glorificherà, perché prenderà da quel che è mio e ve lo annuncerà. Alleluia"],[{"m":"rubric","t":"Oppure:"}],["«Se voglio che egli rimanga finché io venga, a te che importa? Tu seguimi», dice il Signore. Alleluia."]],"cite":"Gv 21, 22"}],"fr":[{"k":"p","lines":[["L'Esprit Saint me glorifiera, dit le Seigneur,"],["car il recevra ce qui vient de moi"],["pour vous le faire connaître, alléluia."]]}],"de":[{"k":"p","lines":[["Der Heilige Geist wird mich verherrlichen - so spricht der Herr. Denn von dem, was mein ist, wird er nehmen und euch verkünden. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"660","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"661","text":{"la":[{"k":"p","lines":[["Annue, Dómine, nostris précibus miserátus, ut, sicut de prætéritis ad nova sumus sacraménta transláti, ita, vetustáte depósita, sanctificátis méntibus innovémur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, atendei compassivo as nossas preces"],["e, como nos conduzistes da antiga à nova aliança,"],["sejamos renovados pela santificação dos nossos corações,"],["passando da condição de pecado a uma vida nova."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Hear in your compassion our prayers, O Lord, that, as we have been brought"],["from things of the past to new mysteries,"],["so, with former ways left behind,"],["we may be made new in holiness of mind."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Asiente compasivo, Señor, a nuestras súplicas,"],["para que, abandonada la vieja condición,"],["nos renovemos con el alma santificada,"],["como nos has hecho pasar"],["de los antiguos sacramentos a los nuevos."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, che hai guidato il tuo popolo dall'antica alla nuova alleanza, concedi che, liberati dalla corruzione del peccato, ci rinnoviamo pienamente nel tuo Spirito. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dans ta bonté, Seigneur, exauce nos prières :"],["déjà, nous sommes passés du monde ancien"],["aux sacrements des temps nouveaux :"],["fais-nous quitter ce qui ne peut que vieillir,"],["envoie-nous un esprit de renouveau et de sainteté."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du hast uns von den alten zu den neuen Zeichen des Heils hinübergeführt. Lass uns die Gewohnheiten des alten Menschen ablegen und neu werden in Heiligkeit und Gerechtigkeit. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":13,"prefaces":["preface.16","preface.17","preface.18","preface.19","preface.20","preface.21","preface.22","preface.23"],"title":{"la":"Tempus Paschale — Hebdomada VII — Sabbato","pt-BR":"Tempo Pascal — Sétima semana — Sábado","en-US":"Easter Season — Seventh Week — Saturday","es":"Tiempo Pascual — VII Semana — Sábado","it":"Tempo Pasquale — VII Settimana — Sabato — Messa del mattino","fr":"Temps pascal — SAMEDI DE LA 7e SEMAINE","de":"Osterzeit — SAMSTAG — der siebten Osterwoche"},"subtitle":{"la":"Ad Missam matutinam","pt-BR":"Missa Matutina","en-US":"At the Morning Mass"}}
+{
+ "id": "tempore.easter.week-7.saturday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Paschale"
+       ],
+       [
+        "Hebdomada VII"
+       ],
+       [
+        "Sabbato"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Ad Missam matutinam"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pascal"
+       ],
+       [
+        "Sétima semana"
+       ],
+       [
+        "Sábado"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Missa Matutina"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Easter Season"
+       ],
+       [
+        "Seventh Week"
+       ],
+       [
+        "Saturday"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "At the Morning Mass"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo Pascual"
+       ],
+       [
+        "VII Semana"
+       ],
+       [
+        "Sábado"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pasquale"
+       ],
+       [
+        "VII Settimana"
+       ],
+       [
+        "Sabato"
+       ],
+       [
+        "Messa del mattino"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps pascal"
+       ],
+       [
+        "SAMEDI DE LA 7e SEMAINE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Osterzeit"
+       ],
+       [
+        "SAMSTAG"
+       ],
+       [
+        "der siebten Osterwoche"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Act 1, 14"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "At 1, 14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Acts 1: 14"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Act 1, 14"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "At 1, 14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Act 1, 14"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Apg 1, 14"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erant discípuli perseverántes unanímiter in oratióne, cum muliéribus et María Matre Iesu, et frátribus eius, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os discípulos perseveraram na oração em comum,"
+       ],
+       [
+        "junto com algumas mulheres"
+       ],
+       [
+        "entre as quais Maria, mãe de Jesus,"
+       ],
+       [
+        "e com os irmãos de Jesus, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The disciples devoted themselves with one accord to prayer with the women, and Mary the Mother of Jesus,"
+       ],
+       [
+        "and his brethren, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los discípulos perseveraban unánimes en la oración, junto con algunas mujeres y María, la madre de Jesús, y con sus hermanos. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I discepoli erano perseveranti e concordi nella preghiera, insieme ad alcune donne, a Maria, la Madre di Gesù, e ai fratelli di lui. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les disciples, d'un même cœur, étaient assidus à la prière,"
+       ],
+       [
+        "avec des femmes, avec Marie la mère de Jésus,"
+       ],
+       [
+        "et avec ses frères, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Jünger verharrten einmütig im Gebet, zusammen mit den Frauen und mit Maria, der Mutter Jesu, und mit seinen Brüdern. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Præsta, quǽsumus, omnípotens Deus, ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus todo-poderoso, nós vos pedimos"
+       ],
+       [
+        "que, com vossa ajuda generosa,"
+       ],
+       [
+        "conservemos, em nossa vida e em nossos costumes,"
+       ],
+       [
+        "o que celebramos nas festas pascais que estamos para encerrar."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, almighty God,"
+       ],
+       [
+        "that we, who have celebrated the paschal festivities,"
+       ],
+       [
+        "may by your gift hold fast to them"
+       ],
+       [
+        "in the way that we live our lives."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concédenos, Dios todopoderoso, a los que hemos celebrado"
+       ],
+       [
+        "las fiestas de Pascua, conservarlas por tu gracia,"
+       ],
+       [
+        "en las costumbres y en la vida."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, ai tuoi figli, che hanno celebrato con gioia le feste pasquali, concedi, per tua grazia, di testimoniare nella vita e nelle opere la loro forza salvifica. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant,"
+       ],
+       [
+        "nous te prions au terme de ces fêtes pascales :"
+       ],
+       [
+        "que, par ta grâce,"
+       ],
+       [
+        "elles imprègnent nos actes et notre vie."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, am Ende der heiligen fünfzig Tage bitten wir dich: Gib uns die Gnade, dass wir in einem Leben aus dem Glauben das Ostergeheimnis deines Sohnes bewahren, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mentes nostras, quǽsumus, Dómine, Spíritus Sanctus advéniens divínis prǽparet sacraméntis, quia ipse est remíssio ómnium peccatórum. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, nós vos pedimos:"
+       ],
+       [
+        "o Espírito Santo, que vem,"
+       ],
+       [
+        "prepare nossos corações para os divinos sacramentos,"
+       ],
+       [
+        "pois ele mesmo é a remissão de todos os pecados."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the Holy Spirit coming near, we pray, O Lord, prepare our minds for the divine Sacrament,"
+       ],
+       [
+        "since the Spirit himself is the remission of all sins."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Señor,"
+       ],
+       [
+        "que la venida del Espíritu Santo"
+       ],
+       [
+        "prepare nuestras almas con los sacramentos divinos,"
+       ],
+       [
+        "porque él mismo es el perdón de todos los pecados."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venga, o Signore, il tuo santo Spirito e disponga i nostri cuori a celebrare degnamente i santi misteri, perché egli è la remissione di tutti i peccati. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que l'Esprit Saint, par sa venue,"
+       ],
+       [
+        "nous t'en prions, Seigneur,"
+       ],
+       [
+        "prépare nos esprits à recevoir tes sacrements,"
+       ],
+       [
+        "car il est lui-même le pardon de tout péché."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr und Gott, dein Heiliger Geist komme auf uns herab. Er mache uns bereit für die Feier des heiligen Opfers, denn er ist die Vergebung der Sünden. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 16, 14"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 16, 14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 16: 14"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Io 16, 14"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gv 16, 14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 16, 14"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 16, 14"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Spíritus Sanctus, ille me clarificábit, quia de meo accípiet, et annuntiábit vobis, dicit Dóminus, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Espírito Santo me glorificará,"
+       ],
+       [
+        "porque receberá do que é meu"
+       ],
+       [
+        "e vo-lo anunciará, diz o Senhor, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Holy Spirit will glorify me,"
+       ],
+       [
+        "for he will take from what is mine and declare it to you, says the Lord, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Espíritu Santo me glorificará, porque recibirá de lo mío y os lo anunciará, dice el Señor. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lo Spirito Santo mi glorificherà, perché prenderà da quel che è mio e ve lo annuncerà. Alleluia"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "«Se voglio che egli rimanga finché io venga, a te che importa? Tu seguimi», dice il Signore. Alleluia."
+       ]
+      ],
+      "cite": "Gv 21, 22"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'Esprit Saint me glorifiera, dit le Seigneur,"
+       ],
+       [
+        "car il recevra ce qui vient de moi"
+       ],
+       [
+        "pour vous le faire connaître, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Heilige Geist wird mich verherrlichen - so spricht der Herr. Denn von dem, was mein ist, wird er nehmen und euch verkünden. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annue, Dómine, nostris précibus miserátus, ut, sicut de prætéritis ad nova sumus sacraménta transláti, ita, vetustáte depósita, sanctificátis méntibus innovémur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, atendei compassivo as nossas preces"
+       ],
+       [
+        "e, como nos conduzistes da antiga à nova aliança,"
+       ],
+       [
+        "sejamos renovados pela santificação dos nossos corações,"
+       ],
+       [
+        "passando da condição de pecado a uma vida nova."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hear in your compassion our prayers, O Lord, that, as we have been brought"
+       ],
+       [
+        "from things of the past to new mysteries,"
+       ],
+       [
+        "so, with former ways left behind,"
+       ],
+       [
+        "we may be made new in holiness of mind."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Asiente compasivo, Señor, a nuestras súplicas,"
+       ],
+       [
+        "para que, abandonada la vieja condición,"
+       ],
+       [
+        "nos renovemos con el alma santificada,"
+       ],
+       [
+        "como nos has hecho pasar"
+       ],
+       [
+        "de los antiguos sacramentos a los nuevos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, che hai guidato il tuo popolo dall'antica alla nuova alleanza, concedi che, liberati dalla corruzione del peccato, ci rinnoviamo pienamente nel tuo Spirito. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans ta bonté, Seigneur, exauce nos prières :"
+       ],
+       [
+        "déjà, nous sommes passés du monde ancien"
+       ],
+       [
+        "aux sacrements des temps nouveaux :"
+       ],
+       [
+        "fais-nous quitter ce qui ne peut que vieillir,"
+       ],
+       [
+        "envoie-nous un esprit de renouveau et de sainteté."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du hast uns von den alten zu den neuen Zeichen des Heils hinübergeführt. Lass uns die Gewohnheiten des alten Menschen ablegen und neu werden in Heiligkeit und Gerechtigkeit. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 13,
+ "prefaces": [
+  "preface.16",
+  "preface.17",
+  "preface.18",
+  "preface.19",
+  "preface.20",
+  "preface.21",
+  "preface.22",
+  "preface.23"
+ ],
+ "title": {
+  "la": "Tempus Paschale — Hebdomada VII — Sabbato",
+  "pt-BR": "Tempo Pascal — Sétima semana — Sábado",
+  "en-US": "Easter Season — Seventh Week — Saturday",
+  "es": "Tiempo Pascual — VII Semana — Sábado",
+  "it": "Tempo Pasquale — VII Settimana — Sabato — Messa del mattino",
+  "fr": "Temps pascal — SAMEDI DE LA 7e SEMAINE",
+  "de": "Osterzeit — SAMSTAG — der siebten Osterwoche"
+ },
+ "subtitle": {
+  "la": "Ad Missam matutinam",
+  "pt-BR": "Missa Matutina",
+  "en-US": "At the Morning Mass"
+ }
+}

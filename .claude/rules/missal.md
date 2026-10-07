@@ -1,15 +1,15 @@
 ---
 paths:
   - "content/missal/**"
-  - "scripts/missal/**"
   - "packages/missal/**"
   - "apps/app/src/sources/missal/**"
 ---
 
 # Ordinary Form missal
 
-- `content/missal/**` is output of `scripts/missal/build.py`; never edit it by hand. A text or id fix goes in `scripts/missal/patches.py` or `ids.py`, then `pnpm build:missal` (needs the upstream clone under `research/missale-romanum/consult/upstream`, see that README).
+- `content/missal/**` is the source of truth and is edited in place; its shapes are `packages/missal/src/types.ts`. Nothing regenerates it.
 - Ids are public: holy cards and the calendar refer to them. Renaming one means updating `content/practices/saint-of-the-day/data/holy-cards/`.
-- The importer reads markup, never wording: a part is told by its upstream class, a rubric by its colour. A fact the markup lacks (which text is a sequence, a wrong precedence number) is a named entry in `patches.py`.
-- After changing the calendar, regenerate nothing: `packages/missal/src/__tests__/upstream-calendar.json` is upstream's own answer for 2020-2040 and the test explains every place the new calendar differs from it.
+- `calendar.json` repeats each formulary's title, precedence, colour and lectionary so a day resolves without loading a formulary. Change one, change the other.
+- A passage missing in a language is shown in Latin; one that exists in neither is not shown. The gaps are listed by the snapshot of `packages/missal/src/__tests__/sweep.test.ts`, which changes when one is filled.
+- `packages/missal/src/__tests__/reference-calendar.json` is the calendar the corpus was first checked against, 2020-2040. The tests name every place the resolver differs from it on purpose; a new difference is a bug or a new named exception.
 - Regional propers exist in one language only, filed under the text key `*`.

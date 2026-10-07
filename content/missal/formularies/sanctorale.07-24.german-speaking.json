@@ -1,1 +1,209 @@
-{"id":"sanctorale.07-24.german-speaking","source":"santos/santos_jul#0724Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["24. Juli"],["Hl. Christophorus, Märtyrer"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Der heilige Christophorus hat vermutlich unter Kaiser Decius (um 250) das Martyrium erlitten. In Chalkedon wurde ihm 452 eine Kirche geweiht. Auch in der abendländischen Kirche wurde Christophorus viel verehrt. Er gehört zu den 14 Nothelfern. Aus seinem Namen (Christophorus = Christusträger) hat sich die Legende entwickelt, er habe auf seinen Schultern das Jesuskind über einen Fluss getragen."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Märtyrer:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Allmächtiger Gott, auf unserem Lebensweg bedrohen uns viele Gefahren. Höre auf die Fürsprache des heiligen Märtyrers Christophorus. Gib, dass wir Christus in uns tragen und mit unseren Weggefährten sicher zu dem Ziel gelangen, für das wir geschaffen sind. Darum bitten wir durch ihn, Jesus Christus."]]}]},"part":"collect"},{"slot":"119","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.54","preface.55"],"commons":["common.martyrs.6","common.martyrs.7"],"title":{"*":"Hl. Christophorus, Märtyrer"}}
+{
+ "id": "sanctorale.07-24.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "24. Juli"
+       ],
+       [
+        "Hl. Christophorus, Märtyrer"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der heilige Christophorus hat vermutlich unter Kaiser Decius (um 250) das Martyrium erlitten. In Chalkedon wurde ihm 452 eine Kirche geweiht. Auch in der abendländischen Kirche wurde Christophorus viel verehrt. Er gehört zu den 14 Nothelfern. Aus seinem Namen (Christophorus = Christusträger) hat sich die Legende entwickelt, er habe auf seinen Schultern das Jesuskind über einen Fluss getragen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Märtyrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, auf unserem Lebensweg bedrohen uns viele Gefahren. Höre auf die Fürsprache des heiligen Märtyrers Christophorus. Gib, dass wir Christus in uns tragen und mit unseren Weggefährten sicher zu dem Ziel gelangen, für das wir geschaffen sind. Darum bitten wir durch ihn, Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "commons": [
+  "common.martyrs.6",
+  "common.martyrs.7"
+ ],
+ "title": {
+  "*": "Hl. Christophorus, Märtyrer"
+ }
+}

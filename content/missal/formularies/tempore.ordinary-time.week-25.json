@@ -1,1 +1,1287 @@
-{"id":"tempore.ordinary-time.week-25","source":"tiempos/tiempos_ordinario#OT25","kind":"tempore","items":[{"slot":"312","text":{"la":[{"k":"h2","lines":[["DOMINICA XXV «PER ANNUM»"]]}],"pt-BR":[{"k":"h2","lines":[["25º DOMINGO DO TEMPO COMUM"]]}],"en-US":[{"k":"h2","lines":[["25th SUNDAY IN ORDINARY TIME"]]}],"es":[{"k":"h2","lines":[["XXV DOMINGO DEL TIEMPO ORDINARIO"]]}],"it":[{"k":"h2","lines":[["XXV DOMENICA"]]}],"fr":[{"k":"h2","lines":[["Temps ordinaire"],["25ème DIMANCHE"]]}],"de":[{"k":"h2","lines":[["25. SONNTAG IM JAHRESKREIS"]]}]},"part":"title"},{"slot":"313","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]]}]},"part":"entranceAntiphon"},{"slot":"314","text":{"la":[{"k":"p","lines":[["Salus pópuli ego sum, dicit Dóminus. De quacúmque tribulatióne clamáverint ad me, exáudiam eos, et ero illórum Dóminus in perpétuum."]]}],"pt-BR":[{"k":"p","lines":[["A salvação do povo sou eu, diz o Senhor:"],["de qualquer tribulação em que clamarem por mim,"],["eu os ouvirei e serei seu Deus para sempre."]]}],"en-US":[{"k":"p","lines":[["I am the salvation of the people, says the Lord. Should they cry to me in any distress,"],["I will hear them, and I will be their Lord for ever."]]}],"es":[{"k":"p","lines":[["Yo soy la salvación del pueblo, dice el Señor. Cuando me invoquen en la tribulación, los escucharé y seré para siempre su Señor."]]}],"it":[{"k":"p","lines":[["«Io sono la salvezza del popolo», dice il Signore, «in qualunque prova mi invocheranno, li esaudirò, e sarò il loro Signore per sempre»."]]}],"fr":[{"k":"p","lines":[["Je suis le salut de mon peuple, dit le Seigneur,"],["dans toutes les épreuves, s'il crie vers moi, je l'exaucerai ;"],["je serai son Seigneur pour toujours."]]}],"de":[{"k":"p","lines":[["Das Heil des Volkes bin ich - so spricht der Herr. In jeder Not, aus der sie zu mir rufen, will ich sie erhören. Ich will ihr Herr sein für alle Zeit."]]}]},"part":"entranceAntiphon"},{"slot":"315","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"316","text":{"la":[{"k":"p","lines":[["Deus, qui sacræ legis ómnia constitúta in tua et próximi dilectióne posuísti, da nobis, ut, tua præcépta servántes, ad vitam mereámur perveníre perpétuam. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que resumistes toda a sagrada lei"],["no amor a vós e ao próximo,"],["concedei-nos que, observando os vossos mandamentos,"],["mereçamos chegar à vida eterna."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who founded all the commands of your sacred Law upon love of you and of our neighbor,"],["grant that, by keeping your precepts,"],["we may merit to attain eternal life."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que has puesto la plenitud de la ley divina"],["en el amor a ti y al prójimo,"],["concédenos cumplir tus mandamientos,"],["para que merezcamos llegar a la vida eterna."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che nell'amore verso di te e verso il prossimo hai posto il fondamento di tutta la legge, fa' che osservando i tuoi comandamenti possiamo giungere alla vita eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as voulu que toute la loi de sainteté"],["consiste à t'aimer et à aimer son prochain :"],["donne-nous de garder tes commandements,"],["et de parvenir ainsi à la vie éternelle."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Heiliger Gott, du hast uns das Gebot der Liebe zu dir und zu unserem Nächsten aufgetragen als die Erfüllung des ganzen Gesetzes. Gib uns die Kraft, dieses Gebot treu zu befolgen, damit wir das ewige Leben erlangen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"317","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"318","text":{"la":[{"k":"p","lines":[["Múnera, quǽsumus, Dómine, tuæ plebis propitiátus assúme, ut, quæ fídei pietáte profiténtur, sacraméntis cæléstibus apprehéndant. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Acolhei benigno, Senhor, nós vos pedimos,"],["as oferendas do vosso povo,"],["para que alcancemos pelos celestes sacramentos"],["o que professamos filialmente pela fé."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Receive with favor, O Lord, we pray,"],["the offerings of your people,"],["that what they profess with devotion and faith may be theirs through these heavenly mysteries."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Recibe, Señor, en tu bondad"],["las ofrendas de tu pueblo,"],["para que cuanto creemos por la fe"],["lo alcancemos por el sacramento celestial."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli con bontà, o Signore, l'offerta del tuo popolo e donaci in questo sacramento di salvezza i doni eterni, nei quali crediamo e speriamo con amore di figli. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Reçois favorablement,"],["nous t'en prions, Seigneur,"],["les dons présentés par ton peuple :"],["que tous obtiennent par tes sacrements"],["ce qu'ils proclament dans la ferveur de la foi."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, nimm die Gaben deines Volkes an und gib, dass wir im Geheimnis der heiligen Eucharistie empfangen, was wir im Glauben erkennen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"319","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Ps 118, 4-5"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Sl 118, 4-5"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Ps 119 (118): 4-5"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Ps 118, 4-5"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Sal 118,4-5"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Ps 118, 4-5"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Ps 119 (118), 4-5"}]},"part":"communionAntiphon"},{"slot":"320","text":{"la":[{"k":"p","lines":[["Tu mandásti mandáta tua custodíri nimis; útinam dirigántur viæ meæ ad custodiéndas iustificatiónes tuas."]]}],"pt-BR":[{"k":"p","lines":[["Os vossos mandamentos vós nos destes,"],["para serem fielmente observados."],["Que seja bem firme a minha vida"],["em cumprir vossa vontade e vossa lei!"]]}],"en-US":[{"k":"p","lines":[["You have laid down your precepts to be carefully kept; may my ways be firm in keeping your statutes."]]}],"es":[{"k":"p","lines":[["Tú, Señor, promulgas tus decretos para que se observen exactamente; ojalá esté firme mi camino para cumplir tus consignas."]]}],"it":[{"k":"p","lines":[["Tu hai dato, Signore, i tuoi precetti perché siano osservati interamente. Siano stabili le mie vie nel custodire i tuoi decreti."]]}],"fr":[{"k":"p","lines":[["Toi, tu promulgues des préceptes,"],["à observer entièrement."],["Puissent mes voies s'affermir"],["à observer tes commandements !"]]}],"de":[{"k":"p","lines":[["Herr, du hast deine Befehle gegeben, damit man sie genau beachtet. Wären doch meine Schritte fest darauf gerichtet, deinen Gesetzen zu folgen."]]}]},"part":"communionAntiphon"},{"slot":"321","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Io 10, 14"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Jo 10, 14"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Jn 10: 14"},{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Jo 10: 14"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Jn 10, 14"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Gv 10,14"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Jn 10, 14"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Joh 10, 14"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"322","text":{"la":[{"k":"p","lines":[["Ego sum pastor bonus, dicit Dóminus; et cognósco oves meas, et cognóscunt me meæ."]]}],"pt-BR":[{"k":"p","lines":[["Eu sou o bom pastor."],["Conheço as minhas ovelhas,"],["e elas me conhecem, diz o Senhor."]]}],"en-US":[{"k":"p","lines":[["I am the Good Shepherd, says the Lord; I know my sheep, and mine know me."]]}],"es":[{"k":"p","lines":[["Yo soy el Buen Pastor, dice el Señor, que conozco a mis ovejas, y las mías me conocen."]]}],"it":[{"k":"p","lines":[["Io sono il buon pastore, conosco le mie pecore e le mie pecore conoscono me."],[{"m":"rubric","t":"★ A "}],["«Gli ultimi saranno primi e i primi, ultimi», dice il Signore."],[{"m":"rubric","t":"★ B "}],["«Se uno vuole essere il primo, sia l'ultimo di tutti e il servitore di tutti», dice il Signore."],[{"m":"rubric","t":"★ C "}],["«Non potete servire Dio e la ricchezza», dice il Signore."]],"cite":"Lc 16, 13"}],"fr":[{"k":"p","lines":[["Je suis le bon pasteur, dit le Seigneur,"],["je connais mes brebis,"],["et mes brebis me connaissent."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Ich bin der Gute Hirt, ich kenne die Meinen, und die Meinen kennen mich."]]}]},"part":"communionAntiphon"},{"slot":"323","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"324","text":{"la":[{"k":"p","lines":[["Quos tuis, Dómine, réficis sacraméntis, contínuis attólle benígnus auxíliis, ut redemptiónis efféctum et mystériis capiámus et móribus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Sustentai, Senhor de bondade,"],["com vosso constante auxílio,"],["os que reconfortais com os vossos sacramentos,"],["para podermos colher os frutos da redenção"],["na liturgia e na vida."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Graciously raise up, O Lord,"],["those you renew with this Sacrament,"],["that we may come to possess your redemption both in mystery and in the manner of our life."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, apoya bondadoso con tu ayuda continua"],["a los que alimentas con tus sacramentos,"],["para que consigamos el fruto de la salvación"],["en los sacramentos y en la vida diaria."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guida e sostieni, o Signore, con il tuo continuo aiuto il popolo che hai nutrito con i tuoi sacramenti, perché la redenzione operata da questi misteri trasformi tutta la nostra vita. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dans ta bonté, Seigneur,"],["fais que ton aide soutienne toujours"],["ceux que tu as nourris de tes sacrements,"],["afin qu'ils puissent,"],["dans ces mystères et par toute leur vie,"],["recueillir les fruits de la rédemption."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du erneuerst uns durch deine Sakramente. Gewähre uns deine Hilfe und mache das Werk der Erlösung, das wir gefeiert haben, auch in unserem Leben wirksam. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":6,"title":{"la":"DOMINICA XXV «PER ANNUM»","pt-BR":"25º DOMINGO DO TEMPO COMUM","en-US":"25th SUNDAY IN ORDINARY TIME","es":"XXV DOMINGO DEL TIEMPO ORDINARIO","it":"XXV DOMENICA","fr":"Temps ordinaire — 25ème DIMANCHE","de":"25. SONNTAG IM JAHRESKREIS"},"weekdayPrecedence":13}
+{
+ "id": "tempore.ordinary-time.week-25",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMINICA XXV «PER ANNUM»"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "25º DOMINGO DO TEMPO COMUM"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "25th SUNDAY IN ORDINARY TIME"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "XXV DOMINGO DEL TIEMPO ORDINARIO"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "XXV DOMENICA"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps ordinaire"
+       ],
+       [
+        "25ème DIMANCHE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "25. SONNTAG IM JAHRESKREIS"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salus pópuli ego sum, dicit Dóminus. De quacúmque tribulatióne clamáverint ad me, exáudiam eos, et ero illórum Dóminus in perpétuum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A salvação do povo sou eu, diz o Senhor:"
+       ],
+       [
+        "de qualquer tribulação em que clamarem por mim,"
+       ],
+       [
+        "eu os ouvirei e serei seu Deus para sempre."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I am the salvation of the people, says the Lord. Should they cry to me in any distress,"
+       ],
+       [
+        "I will hear them, and I will be their Lord for ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo soy la salvación del pueblo, dice el Señor. Cuando me invoquen en la tribulación, los escucharé y seré para siempre su Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Io sono la salvezza del popolo», dice il Signore, «in qualunque prova mi invocheranno, li esaudirò, e sarò il loro Signore per sempre»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je suis le salut de mon peuple, dit le Seigneur,"
+       ],
+       [
+        "dans toutes les épreuves, s'il crie vers moi, je l'exaucerai ;"
+       ],
+       [
+        "je serai son Seigneur pour toujours."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Das Heil des Volkes bin ich - so spricht der Herr. In jeder Not, aus der sie zu mir rufen, will ich sie erhören. Ich will ihr Herr sein für alle Zeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui sacræ legis ómnia constitúta in tua et próximi dilectióne posuísti, da nobis, ut, tua præcépta servántes, ad vitam mereámur perveníre perpétuam. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que resumistes toda a sagrada lei"
+       ],
+       [
+        "no amor a vós e ao próximo,"
+       ],
+       [
+        "concedei-nos que, observando os vossos mandamentos,"
+       ],
+       [
+        "mereçamos chegar à vida eterna."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who founded all the commands of your sacred Law upon love of you and of our neighbor,"
+       ],
+       [
+        "grant that, by keeping your precepts,"
+       ],
+       [
+        "we may merit to attain eternal life."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que has puesto la plenitud de la ley divina"
+       ],
+       [
+        "en el amor a ti y al prójimo,"
+       ],
+       [
+        "concédenos cumplir tus mandamientos,"
+       ],
+       [
+        "para que merezcamos llegar a la vida eterna."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che nell'amore verso di te e verso il prossimo hai posto il fondamento di tutta la legge, fa' che osservando i tuoi comandamenti possiamo giungere alla vita eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as voulu que toute la loi de sainteté"
+       ],
+       [
+        "consiste à t'aimer et à aimer son prochain :"
+       ],
+       [
+        "donne-nous de garder tes commandements,"
+       ],
+       [
+        "et de parvenir ainsi à la vie éternelle."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heiliger Gott, du hast uns das Gebot der Liebe zu dir und zu unserem Nächsten aufgetragen als die Erfüllung des ganzen Gesetzes. Gib uns die Kraft, dieses Gebot treu zu befolgen, damit wir das ewige Leben erlangen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Múnera, quǽsumus, Dómine, tuæ plebis propitiátus assúme, ut, quæ fídei pietáte profiténtur, sacraméntis cæléstibus apprehéndant. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acolhei benigno, Senhor, nós vos pedimos,"
+       ],
+       [
+        "as oferendas do vosso povo,"
+       ],
+       [
+        "para que alcancemos pelos celestes sacramentos"
+       ],
+       [
+        "o que professamos filialmente pela fé."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Receive with favor, O Lord, we pray,"
+       ],
+       [
+        "the offerings of your people,"
+       ],
+       [
+        "that what they profess with devotion and faith may be theirs through these heavenly mysteries."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recibe, Señor, en tu bondad"
+       ],
+       [
+        "las ofrendas de tu pueblo,"
+       ],
+       [
+        "para que cuanto creemos por la fe"
+       ],
+       [
+        "lo alcancemos por el sacramento celestial."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli con bontà, o Signore, l'offerta del tuo popolo e donaci in questo sacramento di salvezza i doni eterni, nei quali crediamo e speriamo con amore di figli. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reçois favorablement,"
+       ],
+       [
+        "nous t'en prions, Seigneur,"
+       ],
+       [
+        "les dons présentés par ton peuple :"
+       ],
+       [
+        "que tous obtiennent par tes sacrements"
+       ],
+       [
+        "ce qu'ils proclament dans la ferveur de la foi."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, nimm die Gaben deines Volkes an und gib, dass wir im Geheimnis der heiligen Eucharistie empfangen, was wir im Glauben erkennen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Ps 118, 4-5"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Sl 118, 4-5"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Ps 119 (118): 4-5"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Ps 118, 4-5"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Sal 118,4-5"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Ps 118, 4-5"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Ps 119 (118), 4-5"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu mandásti mandáta tua custodíri nimis; útinam dirigántur viæ meæ ad custodiéndas iustificatiónes tuas."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os vossos mandamentos vós nos destes,"
+       ],
+       [
+        "para serem fielmente observados."
+       ],
+       [
+        "Que seja bem firme a minha vida"
+       ],
+       [
+        "em cumprir vossa vontade e vossa lei!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You have laid down your precepts to be carefully kept; may my ways be firm in keeping your statutes."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tú, Señor, promulgas tus decretos para que se observen exactamente; ojalá esté firme mi camino para cumplir tus consignas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu hai dato, Signore, i tuoi precetti perché siano osservati interamente. Siano stabili le mie vie nel custodire i tuoi decreti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Toi, tu promulgues des préceptes,"
+       ],
+       [
+        "à observer entièrement."
+       ],
+       [
+        "Puissent mes voies s'affermir"
+       ],
+       [
+        "à observer tes commandements !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, du hast deine Befehle gegeben, damit man sie genau beachtet. Wären doch meine Schritte fest darauf gerichtet, deinen Gesetzen zu folgen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Io 10, 14"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Jo 10, 14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Jn 10: 14"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Jo 10: 14"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Jn 10, 14"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Gv 10,14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Jn 10, 14"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Joh 10, 14"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego sum pastor bonus, dicit Dóminus; et cognósco oves meas, et cognóscunt me meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu sou o bom pastor."
+       ],
+       [
+        "Conheço as minhas ovelhas,"
+       ],
+       [
+        "e elas me conhecem, diz o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I am the Good Shepherd, says the Lord; I know my sheep, and mine know me."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo soy el Buen Pastor, dice el Señor, que conozco a mis ovejas, y las mías me conocen."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io sono il buon pastore, conosco le mie pecore e le mie pecore conoscono me."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ A "
+        }
+       ],
+       [
+        "«Gli ultimi saranno primi e i primi, ultimi», dice il Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B "
+        }
+       ],
+       [
+        "«Se uno vuole essere il primo, sia l'ultimo di tutti e il servitore di tutti», dice il Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C "
+        }
+       ],
+       [
+        "«Non potete servire Dio e la ricchezza», dice il Signore."
+       ]
+      ],
+      "cite": "Lc 16, 13"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je suis le bon pasteur, dit le Seigneur,"
+       ],
+       [
+        "je connais mes brebis,"
+       ],
+       [
+        "et mes brebis me connaissent."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Ich bin der Gute Hirt, ich kenne die Meinen, und die Meinen kennen mich."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quos tuis, Dómine, réficis sacraméntis, contínuis attólle benígnus auxíliis, ut redemptiónis efféctum et mystériis capiámus et móribus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sustentai, Senhor de bondade,"
+       ],
+       [
+        "com vosso constante auxílio,"
+       ],
+       [
+        "os que reconfortais com os vossos sacramentos,"
+       ],
+       [
+        "para podermos colher os frutos da redenção"
+       ],
+       [
+        "na liturgia e na vida."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Graciously raise up, O Lord,"
+       ],
+       [
+        "those you renew with this Sacrament,"
+       ],
+       [
+        "that we may come to possess your redemption both in mystery and in the manner of our life."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, apoya bondadoso con tu ayuda continua"
+       ],
+       [
+        "a los que alimentas con tus sacramentos,"
+       ],
+       [
+        "para que consigamos el fruto de la salvación"
+       ],
+       [
+        "en los sacramentos y en la vida diaria."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guida e sostieni, o Signore, con il tuo continuo aiuto il popolo che hai nutrito con i tuoi sacramenti, perché la redenzione operata da questi misteri trasformi tutta la nostra vita. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans ta bonté, Seigneur,"
+       ],
+       [
+        "fais que ton aide soutienne toujours"
+       ],
+       [
+        "ceux que tu as nourris de tes sacrements,"
+       ],
+       [
+        "afin qu'ils puissent,"
+       ],
+       [
+        "dans ces mystères et par toute leur vie,"
+       ],
+       [
+        "recueillir les fruits de la rédemption."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du erneuerst uns durch deine Sakramente. Gewähre uns deine Hilfe und mache das Werk der Erlösung, das wir gefeiert haben, auch in unserem Leben wirksam. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 6,
+ "title": {
+  "la": "DOMINICA XXV «PER ANNUM»",
+  "pt-BR": "25º DOMINGO DO TEMPO COMUM",
+  "en-US": "25th SUNDAY IN ORDINARY TIME",
+  "es": "XXV DOMINGO DEL TIEMPO ORDINARIO",
+  "it": "XXV DOMENICA",
+  "fr": "Temps ordinaire — 25ème DIMANCHE",
+  "de": "25. SONNTAG IM JAHRESKREIS"
+ },
+ "weekdayPrecedence": 13
+}

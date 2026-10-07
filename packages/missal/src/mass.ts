@@ -83,7 +83,7 @@ function ofPart(doc: Doc | undefined, part: Part, cycles: ReadonlySet<Cycle>): I
   const today = all.filter((item) => !item.cycle || cycles.has(item.cycle))
   if (today.length > 0 || all.length === 0) return today
   // The lectionary sometimes gives one text for a single year and another for
-  // "the other years", which upstream files under the last of them.
+  // "the other years", which the corpus files under the last of them.
   const last = all
     .map((item) => item.cycle)
     .sort()

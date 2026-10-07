@@ -1,1 +1,130 @@
-{"id":"sanctorale.10-09.argentina","source":"santos/santos_arg#1009","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de Argentina...)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["9 de octubre"],["San Héctor Valdivielso Sáez, Mártir"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["En Argentina: Memoria libre"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Dios todopoderoso y eterno, que hiciste a San Héctor, mártir, testigo de la fe en la educación de niños y jóvenes hasta dar la vida por Cristo, concédenos, por su intercesión y sus méritos, que, fortalecidos por el Espíritu Santo, nos dediquemos con fervor al anuncio del Evangelio. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."]]}]},"part":"collect"}],"precedence":12,"commons":["common.martyrs.6","common.martyrs.7"],"title":{"*":"San Héctor Valdivielso Sáez, Mártir"}}
+{
+ "id": "sanctorale.10-09.argentina",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de Argentina...)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "9 de octubre"
+       ],
+       [
+        "San Héctor Valdivielso Sáez, Mártir"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En Argentina: Memoria libre"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno, que hiciste a San Héctor, mártir, testigo de la fe en la educación de niños y jóvenes hasta dar la vida por Cristo, concédenos, por su intercesión y sus méritos, que, fortalecidos por el Espíritu Santo, nos dediquemos con fervor al anuncio del Evangelio. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  }
+ ],
+ "precedence": 12,
+ "commons": [
+  "common.martyrs.6",
+  "common.martyrs.7"
+ ],
+ "title": {
+  "*": "San Héctor Valdivielso Sáez, Mártir"
+ }
+}

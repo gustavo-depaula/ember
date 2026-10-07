@@ -1,1 +1,2212 @@
-{"id":"sanctorale.08-02","source":"lecturas/lecturas_santos_ago#0802","items":[{"slot":"4","text":{"la":[{"k":"h2","lines":[["Die 2 augusti"],["S. Eusebii Vercellensis, episcopi"]]}],"pt-BR":[{"k":"h2","lines":[["2 de Agosto"],["São Eusébio de Vercelli, bispo"]]}],"en-US":[{"k":"h2","lines":[["August 2"],["St. Eusebius of Vercelli, bishop"]]}],"es":[{"k":"h2","lines":[["2 de agosto"],["San Eusebio de Vercelli, obispo"]]}],"it":[{"k":"h2","lines":[["2 agosto"],["Sant'Eusebio di Vercelli, vescovo"]]}],"fr":[{"k":"h2","lines":[["2 août"],["Saint Eusèbe de Verceil, évêque"]]}],"de":[{"k":"h2","lines":[["2. August"],["Hl. Eusebius von Vercelli, Bischof, Märtyrer"]]}]}},{"slot":"5","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.css2l18"}]]}]},"part":"firstReading"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"4"}]]}]},"role":"rubric","part":"psalm","from":"readings.cps4"},{"slot":"53","text":{"la":[{"k":"p","lines":[],"cite":"Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)","role":"title"}],"pt-BR":[{"k":"p","lines":[],"cite":"Sl 88(89), 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)","role":"title"}],"en-US":[{"k":"p","lines":[],"cite":"Ps 88:2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)","role":"title"}],"es":[{"k":"p","lines":[],"cite":"Sal 88, 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)","role":"title"}],"it":[{"k":"p","lines":[],"cite":"Dal Salmo 88 (89)","role":"title"}],"fr":[{"k":"p","lines":[],"cite":"Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)","role":"title"}],"de":[{"k":"p","lines":[],"cite":"Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R: 2a)","role":"title"}]},"part":"psalm","from":"readings.cps4"},{"slot":"54","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Misericórdias tuas, Dómine, in ætérnum cantábo."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, eu cantarei eternamente vosso amor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"For ever I will sing the goodness of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Cantaré eternamente tus misericordias, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Canterò per sempre l'amore del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ton amour, Seigneur, sans fin je le chante !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Von den Taten deiner Huld, o Herr, will ich ewig singen."]]}]},"role":"people","part":"psalm","from":"readings.cps4"},{"slot":"55","text":{"la":[{"k":"p","lines":[["Misericórdias Dómini in ætérnum cantábo,"],["in generatiónem et generatiónem"],["annuntiábo veritátem tuam in ore meo."],["Quóniam dixísti: «In ætérnum misericórdia ædificábitur»,"],["in cælis firmábitur véritas tua."]]}],"pt-BR":[{"k":"p","lines":[["Ó Senhor, eu cantarei eternamente o vosso amor, de geração em geração eu cantarei vossa verdade! Porque dissestes: \"O amor é garantido para sempre\"!E a vossa lealdade é tão firme como os céus."]]}],"en-US":[{"k":"p","lines":[["I will sing for ever of your love, O Lord; through all ages my mouth will proclaim your truth. Of this I am sure, that your love lasts for ever, that your truth is firmly established as the heavens."]]}],"es":[{"k":"p","lines":[["Cantaré eternamente las misericordias del Señor,"],["anunciaré tu fidelidad por todas las edades."],["Porque dijiste: «La misericordia es un edificio eterno»,"],["más que el cielo has afianzado tu fidelidad."]]}],"it":[{"k":"p","lines":[["Canterò in eterno l'amore del Signore,"],["di generazione in generazione"],["farò conoscere con la mia bocca la tua fedeltà,"],["perché ho detto: «È un amore edificato per sempre;"],["nel cielo rendi stabile la tua fedeltà»."]]}],"fr":[{"k":"p","lines":[["L'amour du Seigneur, sans fin je le chante ;"],["ta fidélité, je l'annonce d'âge en âge."],["Je le dis : C'est un amour bâti pour toujours ;"],["ta fidélité est plus stable que les cieux."]]}],"de":[{"k":"p","lines":[["Von den Taten deiner Huld, Herr, will ich ewig singen,"],["bis zum fernsten Geschlecht laut deine Treue verkünden."],["Denn ich bekenne: Deine Huld besteht für immer und ewig;"],["deine Treue steht fest im Himmel."]]}]},"role":"verse","part":"psalm","from":"readings.cps4"},{"slot":"56","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Misericórdias tuas, Dómine, in ætérnum cantábo."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, eu cantarei eternamente vosso amor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"For ever I will sing the goodness of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Cantaré eternamente tus misericordias, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Canterò per sempre l'amore del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ton amour, Seigneur, sans fin je le chante !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Von den Taten deiner Huld, o Herr, will ich ewig singen."]]}]},"role":"people","part":"psalm","from":"readings.cps4"},{"slot":"57","text":{"la":[{"k":"p","lines":[["Dispósui testaméntum elécto meo,"],["iurávi David servo meo:"],["Usque in ætérnum confirmábo semen tuum,"],["et ædificábo in generatiónem et generatiónem sedem tuam."]]}],"pt-BR":[{"k":"p","lines":[["\"Eu firmei uma Aliança com meu servo, meu eleito, e eu fiz um juramento a Davi, meu servidor. Para sempre, no teu trono, firmarei tua linhagem, de geração em geração garantirei o teu reinado!\"."]]}],"en-US":[{"k":"p","lines":[["‘I have made a covenant with my chosen one; I have sworn to David my servant: I will establish your dynasty for ever and set up your throne through all ages."]]}],"es":[{"k":"p","lines":[["«Sellé una alianza con mi elegido,"],["jurando a David, mi siervo:"],["Te fundaré un linaje perpetuo,"],["edificaré tu trono para todas las edades»."]]}],"it":[{"k":"p","lines":[["«Ho stretto un'alleanza con il mio eletto,"],["ho giurato a Davide, mio servo."],["Stabilirò per sempre la tua discendenza,"],["di generazione in generazione edificherò il tuo trono."]]}],"fr":[{"k":"p","lines":[["\" Avec mon élu, j'ai fait une alliance,"],["j'ai juré à David, mon serviteur :"],["j'établirai ta dynastie pour toujours,"],["je te bâtis un trône pour la suite des âges. \""]]}],"de":[{"k":"p","lines":[["Einst hast du in einer Vision zu deinen Frommen gesprochen:"],["„Ich habe einen Bund geschlossen mit meinem Erwählten"],["und David, meinem Knecht, geschworen:"],["Deinem Haus gebe ich auf ewig Bestand,"],["und von Geschlecht zu Geschlecht richte ich deinen Thron auf."]]}]},"role":"verse","part":"psalm","from":"readings.cps4"},{"slot":"58","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Misericórdias tuas, Dómine, in ætérnum cantábo."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, eu cantarei eternamente vosso amor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"For ever I will sing the goodness of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Cantaré eternamente tus misericordias, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Canterò per sempre l'amore del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ton amour, Seigneur, sans fin je le chante !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Von den Taten deiner Huld, o Herr, will ich ewig singen."]]}]},"role":"people","part":"psalm","from":"readings.cps4"},{"slot":"59","text":{"la":[{"k":"p","lines":[["Invéni David servum meum;"],["óleo sancto meo unxi eum."],["Manus enim mea firma erit cum eo,"],["et bráchium meum confortábit eum."]]}],"pt-BR":[{"k":"p","lines":[["Encontrei e escolhi a Davi, meu servidor, e o ungi, para ser rei, com meu óleo consagrado. Estará sempre com ele minha mão onipotente, e meu braço poderoso há de ser a sua força."]]}],"en-US":[{"k":"p","lines":[["‘I have found David my servant and with my holy oil anointed him. My hand shall always be with him and my arm shall make him strong."]]}],"es":[{"k":"p","lines":[["Encontré a David, mi siervo,"],["y lo he ungido con óleo sagrado;"],["para que mi mano esté siempre con él"],["y mi brazo lo haga valeroso."]]}],"it":[{"k":"p","lines":[["Ho trovato Davide, mio servo,"],["con il mio santo olio l'ho consacrato;"],["la mia mano è il suo sostegno,"],["il mio braccio è la sua forza."]]}],"fr":[{"k":"p","lines":[["\" J'ai trouvé David, mon serviteur,"],["je l'ai sacré avec mon huile sainte ;"],["et ma main sera pour toujours avec lui,"],["mon bras fortifiera son courage."]]}],"de":[{"k":"p","lines":[["Ich habe David, meinen Knecht, gefunden"],["und ihn mit meinem heiligen Öl gesalbt."],["Beständig wird meine Hand ihn halten"],["und mein Arm ihn stärken."]]}]},"role":"verse","part":"psalm","from":"readings.cps4"},{"slot":"60","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Misericórdias tuas, Dómine, in ætérnum cantábo."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, eu cantarei eternamente vosso amor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"For ever I will sing the goodness of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Cantaré eternamente tus misericordias, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Canterò per sempre l'amore del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ton amour, Seigneur, sans fin je le chante !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Von den Taten deiner Huld, o Herr, will ich ewig singen."]]}]},"role":"people","part":"psalm","from":"readings.cps4"},{"slot":"61","text":{"la":[{"k":"p","lines":[["Et véritas mea et misericórdia mea cum ipso"],["et in nómine meo exaltábitur cornu eius."],["Ipse invocábit me: Pater meus es tu,"],["Deus meus et refúgium salútis meæ."]]}],"pt-BR":[{"k":"p","lines":[["Minha verdade e meu amor estarão sempre com ele, sua força e seu poder por meu nome crescerão. Ele, então, me invocará:'\"Ó Senhor, vos sois mei Pai, sois meu Deus, sois meu Rochedo onde encontro a salvação!\""]]}],"en-US":[{"k":"p","lines":[["‘My truth and my love shall be with him; by my name his might shall be exalted. He will say to me: ‘You are my father, my God, the rock who saves me.'"]]}],"es":[{"k":"p","lines":[["Mi fidelidad y misericordia lo acompañarán,"],["por mi nombre crecerá su poder."],["Él me invocará: «Tú eres mi padre,"],["mi Dios, mi Roca salvadora»."]]}],"it":[{"k":"p","lines":[["La mia fedeltà e il mio amore saranno con lui"],["e nel mio nome s'innalzerà la sua fronte."],["Egli mi invocherà: \"Tu sei mio padre,"],["mio Dio e roccia della mia salvezza\"»."]]}],"fr":[{"k":"p","lines":[["\" Mon amour et ma fidélité sont avec lui,"],["mon nom accroît sa vigueur ;"],["Il me dira : \"Tu es mon Père,"],["mon Dieu, mon roc et mon salut !\" \""]]}],"de":[{"k":"p","lines":[["Meine Treue und meine Huld begleiten ihn,"],["und in meinem Namen erhebt er sein Haupt."],["Er wird zu mir rufen: Mein Vater bist du,"],["mein Gott, der Fels meines Heiles.“"]]}]},"role":"verse","part":"psalm","from":"readings.cps4"},{"slot":"62","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Misericórdias tuas, Dómine, in ætérnum cantábo."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, eu cantarei eternamente vosso amor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"For ever I will sing the goodness of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Cantaré eternamente tus misericordias, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Canterò per sempre l'amore del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ton amour, Seigneur, sans fin je le chante !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Von den Taten deiner Huld, o Herr, will ich ewig singen."]]}]},"role":"people","part":"psalm","from":"readings.cps4"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"1"}]]}]},"role":"rubric","part":"acclamation","from":"readings.cssaly1"},{"slot":"169","text":{"la":[{"k":"p","lines":[],"cite":"Mt 5, 3","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}],["Beáti páuperes spíritu,"],["quóniam ipsórum est regnum cælórum."],[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}]]}],"pt-BR":[{"k":"p","lines":[],"cite":"Mt 5, 3","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluia, aleluia.",{"m":"rubric","t":")"}],["Felizes os humildes de espírito, porque deles é o Reino dos Céus!"],[{"m":"rubric","t":"("}," Aleluia.",{"m":"rubric","t":")"}]]}],"en-US":[{"k":"p","lines":[],"cite":"Mt 5:3","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Happy the poor in spirit; the kingdom of heaven is theirs!"],["Alleluia."]]}],"es":[{"k":"p","lines":[],"cite":"Mt 5, 3","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}],["Bienaventurados los pobres en el espíritu,"],["porque de ellos es el reino de los cielos."],[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}]]}],"it":[{"k":"p","lines":[],"cite":"Mt 5, 3","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Beati i poveri in spirito, perché di essi è il regno dei cieli."],["Alleluia."]]}],"fr":[{"k":"p","lines":[],"cite":"Mt 5, 3","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}],["Beáti páuperes spíritu,"],["quóniam ipsórum est regnum cælórum."],[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}]]}],"de":[{"k":"p","lines":[],"cite":"Mt 5, 3","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Halleluja. Halleluja.",{"m":"rubric","t":")"}],["Selig, die arm sind vor Gott; denn ihnen gehört das Himmelreich."],[{"m":"rubric","t":"("},"Halleluja.",{"m":"rubric","t":")"}]]}]},"part":"acclamation","from":"readings.cssaly1"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"1"}]]}]},"role":"rubric","part":"gospel","from":"readings.cssev1"},{"slot":"182","text":{"la":[{"k":"p","lines":[["Gaudete et exsultate, quoniam merces vestra copiosa est in cælis."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Matthǽum"]],"cite":"5, 1-12a","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Mateus"]],"cite":"5, 1-12a","role":"announcement"}],"en-US":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Matthew"]],"cite":"5:1-12","role":"announcement"}],"es":[{"k":"p","lines":[["Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo evangelio según san Mateo"]],"cite":"5, 1-12a","role":"announcement"}],"it":[{"k":"p","lines":[["Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal Vangelo secondo Matteo"]],"cite":"5, l-12a","role":"announcement"}],"fr":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Matthieu"]],"cite":"5, 1-12a","role":"announcement"}],"de":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"5, 1-12a","role":"announcement"}]},"part":"gospel","from":"readings.cssev1"},{"slot":"183","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"role":"people","part":"gospel","from":"readings.cssev1"},{"slot":"184","text":{"la":[{"k":"p","lines":[["In illo témpore:"]]},{"k":"p","lines":[["Videns Iesus turbas, ascéndit in montem; et cum sedísset, accessérunt ad eum discípuli eius; et apériens os suum docébat eos dicens:"]]},{"k":"p","lines":[["«Beáti páuperes spíritu, quóniam ipsórum est regnum cælórum."]]},{"k":"p","lines":[["Beáti, qui lugent, quóniam ipsi consolabúntur."]]},{"k":"p","lines":[["Beáti mites, quóniam ipsi possidébunt terram."]]},{"k":"p","lines":[["Beáti, qui esúriunt et sítiunt iustítiam, quóniam ipsi saturabúntur."]]},{"k":"p","lines":[["Beáti misericórdes, quia ipsi misericórdiam consequéntur."]]},{"k":"p","lines":[["Beáti mundo corde, quóniam ipsi Deum vidébunt."]]},{"k":"p","lines":[["Beáti pacífici, quóniam fílii Dei vocabúntur."]]},{"k":"p","lines":[["Beáti, qui persecutiónem patiúntur propter iustítiam, quóniam ipsórum est regnum cælórum."]]},{"k":"p","lines":[["Beáti estis cum maledíxerint vobis et persecúti vos fúerint et díxerint omne malum advérsum vos, mentiéntes, propter me. Gaudéte et exsultáte, quóniam merces vestra copiósa est in cælis»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo: vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se, e Jesus começou a ensiná-los: \"Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus. Bem-aventurados os aflitos, porque serão consolados. Bem-aventurados os mansos, porque possuirão a terra. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-aventurados os misericordiosos, porque alcançarão misericórdia. Bem-aventurados os puros de coração, porque verão a Deus. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus. Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus. Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e mentindo, disserem todo tipo de mal contra vós, por causa de mim. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus\"."]]},{"k":"p","lines":[["Palavra da Salvação"]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["Seeing the crowds, Jesus went up the hill. There he sat down and was joined by his disciples. Then he began to speak. This is what he taught them: 'How happy are the poor in spirit; theirs is the kingdom of heaven. Happy the gentle: they shall have the earth for their heritage. Happy those who mourn: they shall be comforted. Happy those who hunger and thirst for what is right: they shall be satisfied. Happy the merciful: they shall have mercy shown them. Happy the pure in heart: they shall see God. Happy the peacemakers: they shall be called sons of God. Happy those who are persecuted in the cause of right: theirs is the kingdom of heaven. 'Happy are you when people abuse you and persecute you and speak all kinds of calumny against you on my account. Rejoice and be glad, for your reward will be great in heaven."]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, al ver Jesús el gentío, subió al monte, se sentó y se acercaron sus discípulos; y, abriendo su boca, les enseñaba diciendo:"],["«Bienaventurados los pobres en el espíritu,"],["porque de ellos es el reino de los cielos."],["Bienaventurados los mansos,"],["porque ellos heredarán la tierra."],["Bienaventurados los que lloran,"],["porque ellos serán consolados."],["Bienaventurados los que tienen hambre y sed de la justicia,"],["porque ellos quedarán saciados."],["Bienaventurados los misericordiosos,"],["porque ellos alcanzarán misericordia."],["Bienaventurados los limpios de corazón,"],["porque ellos verán a Dios."],["Bienaventurados los que trabajan por la paz,"],["porque ellos serán llamados hijos de Dios."],["Bienaventurados los perseguidos por causa de la justicia,"],["porque de ellos es el reino de los cielos."],["Bienaventurados vosotros cuando os insulten y os persigan y os calumnien de cualquier modo por mi causa. Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, vedendo Le folle, Gesù salì sul monte: si pose a sedere e si avvicinarono a lui i suoi discepoli. Si mise a parlare e insegnava loro dicendo:"],["«Beati i poveri in spirito, perché di essi è il regno dei cieli."],["Beati quelli che sono nel pianto, perché saranno consolati."],["Beati i miti, perché avranno in eredità la terra."],["Beati quelli che hanno fame e sete della giustizia, perché saranno saziati."],["Beati i misericordiosi, perché troveranno misericordia."],["Beati i puri di cuore, perché vedranno Dio."],["Beati gli operatori di pace, perché saranno chiamati figli di Dio."],["Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli."],["Beati voi quando vi insulteranno, vi perseguiteranno e, mentendo, diranno, ogni sorta di male contro di voi per causa mia. Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, voyant les foules, Jésus gravit la montagne. Il s'assit, et ses disciples s'approchèrent de lui. Alors, ouvrant la bouche, il les enseignait. Il disait : \" Heureux les pauvres de cœur, car le royaume des Cieux est à eux. Heureux ceux qui pleurent, car ils seront consolés. Heureux les doux, car ils recevront la terre en héritage. Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés. Heureux les miséricordieux, car ils obtiendront miséricorde. Heureux les cœurs purs, car ils verront Dieu. Heureux les artisans de paix, car ils seront appelés fils de Dieu. Heureux ceux qui sont persécutés pour la justice, car le royaume des Cieux est à eux. Heureux êtes-vous si l'on vous insulte, si l'on vous persécute et si l'on dit faussement toute sorte de mal contre vous, à cause de moi. Réjouissez-vous, soyez dans l'allégresse, car votre récompense est grande dans les cieux ! \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit,"],["als Jesus die vielen Menschen sah, die ihm folgten, stieg er auf einen Berg. Er setzte sich, und seine Jünger traten zu ihm. Dann begann er zu reden und lehrte sie. Er sagte:"],["Selig, die arm sind vor Gott; denn ihnen gehört das Himmelreich."],["Selig die Trauernden; denn sie werden getröstet werden."],["Selig, die keine Gewalt anwenden; denn sie werden das Land erben."],["Selig, die hungern und dürsten nach der Gerechtigkeit; denn sie werden satt werden."],["Selig die Barmherzigen; denn sie werden Erbarmen finden."],["Selig, die ein reines Herz haben; denn sie werden Gott schauen."],["Selig, die Frieden stiften; denn sie werden Söhne Gottes genannt werden."],["Selig, die um der Gerechtigkeit willen verfolgt werden; denn ihnen gehört das Himmelreich."],["Selig seid ihr, wenn ihr um meinetwillen beschimpft und verfolgt und auf alle mögliche Weise verleumdet werdet. Freut euch und jubelt: Euer Lohn im Himmel wird groß sein."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel","from":"readings.cssev1"},{"slot":"185","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel","from":"readings.cssev1"}],"title":{"la":"S. Eusebii Vercellensis, episcopi","pt-BR":"São Eusébio de Vercelli, bispo","en-US":"St. Eusebius of Vercelli, bishop","es":"San Eusebio de Vercelli, obispo","it":"Sant'Eusebio di Vercelli, vescovo","fr":"Saint Eusèbe de Verceil, évêque","de":"Hl. Eusebius von Vercelli, Bischof, Märtyrer"}}
+{
+ "id": "sanctorale.08-02",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 2 augusti"
+       ],
+       [
+        "S. Eusebii Vercellensis, episcopi"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 de Agosto"
+       ],
+       [
+        "São Eusébio de Vercelli, bispo"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "August 2"
+       ],
+       [
+        "St. Eusebius of Vercelli, bishop"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 de agosto"
+       ],
+       [
+        "San Eusebio de Vercelli, obispo"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 agosto"
+       ],
+       [
+        "Sant'Eusebio di Vercelli, vescovo"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 août"
+       ],
+       [
+        "Saint Eusèbe de Verceil, évêque"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2. August"
+       ],
+       [
+        "Hl. Eusebius von Vercelli, Bischof, Märtyrer"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.css2l18"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "4"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 88(89), 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 88:2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 88, 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Dal Salmo 88 (89)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R: 2a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Misericórdias tuas, Dómine, in ætérnum cantábo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, eu cantarei eternamente vosso amor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "For ever I will sing the goodness of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Cantaré eternamente tus misericordias, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Canterò per sempre l'amore del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ton amour, Seigneur, sans fin je le chante !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Von den Taten deiner Huld, o Herr, will ich ewig singen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Misericórdias Dómini in ætérnum cantábo,"
+       ],
+       [
+        "in generatiónem et generatiónem"
+       ],
+       [
+        "annuntiábo veritátem tuam in ore meo."
+       ],
+       [
+        "Quóniam dixísti: «In ætérnum misericórdia ædificábitur»,"
+       ],
+       [
+        "in cælis firmábitur véritas tua."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Senhor, eu cantarei eternamente o vosso amor, de geração em geração eu cantarei vossa verdade! Porque dissestes: \"O amor é garantido para sempre\"!E a vossa lealdade é tão firme como os céus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will sing for ever of your love, O Lord; through all ages my mouth will proclaim your truth. Of this I am sure, that your love lasts for ever, that your truth is firmly established as the heavens."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantaré eternamente las misericordias del Señor,"
+       ],
+       [
+        "anunciaré tu fidelidad por todas las edades."
+       ],
+       [
+        "Porque dijiste: «La misericordia es un edificio eterno»,"
+       ],
+       [
+        "más que el cielo has afianzado tu fidelidad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canterò in eterno l'amore del Signore,"
+       ],
+       [
+        "di generazione in generazione"
+       ],
+       [
+        "farò conoscere con la mia bocca la tua fedeltà,"
+       ],
+       [
+        "perché ho detto: «È un amore edificato per sempre;"
+       ],
+       [
+        "nel cielo rendi stabile la tua fedeltà»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'amour du Seigneur, sans fin je le chante ;"
+       ],
+       [
+        "ta fidélité, je l'annonce d'âge en âge."
+       ],
+       [
+        "Je le dis : C'est un amour bâti pour toujours ;"
+       ],
+       [
+        "ta fidélité est plus stable que les cieux."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Von den Taten deiner Huld, Herr, will ich ewig singen,"
+       ],
+       [
+        "bis zum fernsten Geschlecht laut deine Treue verkünden."
+       ],
+       [
+        "Denn ich bekenne: Deine Huld besteht für immer und ewig;"
+       ],
+       [
+        "deine Treue steht fest im Himmel."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Misericórdias tuas, Dómine, in ætérnum cantábo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, eu cantarei eternamente vosso amor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "For ever I will sing the goodness of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Cantaré eternamente tus misericordias, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Canterò per sempre l'amore del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ton amour, Seigneur, sans fin je le chante !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Von den Taten deiner Huld, o Herr, will ich ewig singen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dispósui testaméntum elécto meo,"
+       ],
+       [
+        "iurávi David servo meo:"
+       ],
+       [
+        "Usque in ætérnum confirmábo semen tuum,"
+       ],
+       [
+        "et ædificábo in generatiónem et generatiónem sedem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\"Eu firmei uma Aliança com meu servo, meu eleito, e eu fiz um juramento a Davi, meu servidor. Para sempre, no teu trono, firmarei tua linhagem, de geração em geração garantirei o teu reinado!\"."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "‘I have made a covenant with my chosen one; I have sworn to David my servant: I will establish your dynasty for ever and set up your throne through all ages."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Sellé una alianza con mi elegido,"
+       ],
+       [
+        "jurando a David, mi siervo:"
+       ],
+       [
+        "Te fundaré un linaje perpetuo,"
+       ],
+       [
+        "edificaré tu trono para todas las edades»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Ho stretto un'alleanza con il mio eletto,"
+       ],
+       [
+        "ho giurato a Davide, mio servo."
+       ],
+       [
+        "Stabilirò per sempre la tua discendenza,"
+       ],
+       [
+        "di generazione in generazione edificherò il tuo trono."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\" Avec mon élu, j'ai fait une alliance,"
+       ],
+       [
+        "j'ai juré à David, mon serviteur :"
+       ],
+       [
+        "j'établirai ta dynastie pour toujours,"
+       ],
+       [
+        "je te bâtis un trône pour la suite des âges. \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Einst hast du in einer Vision zu deinen Frommen gesprochen:"
+       ],
+       [
+        "„Ich habe einen Bund geschlossen mit meinem Erwählten"
+       ],
+       [
+        "und David, meinem Knecht, geschworen:"
+       ],
+       [
+        "Deinem Haus gebe ich auf ewig Bestand,"
+       ],
+       [
+        "und von Geschlecht zu Geschlecht richte ich deinen Thron auf."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Misericórdias tuas, Dómine, in ætérnum cantábo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, eu cantarei eternamente vosso amor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "For ever I will sing the goodness of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Cantaré eternamente tus misericordias, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Canterò per sempre l'amore del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ton amour, Seigneur, sans fin je le chante !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Von den Taten deiner Huld, o Herr, will ich ewig singen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Invéni David servum meum;"
+       ],
+       [
+        "óleo sancto meo unxi eum."
+       ],
+       [
+        "Manus enim mea firma erit cum eo,"
+       ],
+       [
+        "et bráchium meum confortábit eum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Encontrei e escolhi a Davi, meu servidor, e o ungi, para ser rei, com meu óleo consagrado. Estará sempre com ele minha mão onipotente, e meu braço poderoso há de ser a sua força."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "‘I have found David my servant and with my holy oil anointed him. My hand shall always be with him and my arm shall make him strong."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Encontré a David, mi siervo,"
+       ],
+       [
+        "y lo he ungido con óleo sagrado;"
+       ],
+       [
+        "para que mi mano esté siempre con él"
+       ],
+       [
+        "y mi brazo lo haga valeroso."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho trovato Davide, mio servo,"
+       ],
+       [
+        "con il mio santo olio l'ho consacrato;"
+       ],
+       [
+        "la mia mano è il suo sostegno,"
+       ],
+       [
+        "il mio braccio è la sua forza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\" J'ai trouvé David, mon serviteur,"
+       ],
+       [
+        "je l'ai sacré avec mon huile sainte ;"
+       ],
+       [
+        "et ma main sera pour toujours avec lui,"
+       ],
+       [
+        "mon bras fortifiera son courage."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich habe David, meinen Knecht, gefunden"
+       ],
+       [
+        "und ihn mit meinem heiligen Öl gesalbt."
+       ],
+       [
+        "Beständig wird meine Hand ihn halten"
+       ],
+       [
+        "und mein Arm ihn stärken."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Misericórdias tuas, Dómine, in ætérnum cantábo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, eu cantarei eternamente vosso amor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "For ever I will sing the goodness of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Cantaré eternamente tus misericordias, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Canterò per sempre l'amore del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ton amour, Seigneur, sans fin je le chante !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Von den Taten deiner Huld, o Herr, will ich ewig singen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et véritas mea et misericórdia mea cum ipso"
+       ],
+       [
+        "et in nómine meo exaltábitur cornu eius."
+       ],
+       [
+        "Ipse invocábit me: Pater meus es tu,"
+       ],
+       [
+        "Deus meus et refúgium salútis meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Minha verdade e meu amor estarão sempre com ele, sua força e seu poder por meu nome crescerão. Ele, então, me invocará:'\"Ó Senhor, vos sois mei Pai, sois meu Deus, sois meu Rochedo onde encontro a salvação!\""
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "‘My truth and my love shall be with him; by my name his might shall be exalted. He will say to me: ‘You are my father, my God, the rock who saves me.'"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi fidelidad y misericordia lo acompañarán,"
+       ],
+       [
+        "por mi nombre crecerá su poder."
+       ],
+       [
+        "Él me invocará: «Tú eres mi padre,"
+       ],
+       [
+        "mi Dios, mi Roca salvadora»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La mia fedeltà e il mio amore saranno con lui"
+       ],
+       [
+        "e nel mio nome s'innalzerà la sua fronte."
+       ],
+       [
+        "Egli mi invocherà: \"Tu sei mio padre,"
+       ],
+       [
+        "mio Dio e roccia della mia salvezza\"»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\" Mon amour et ma fidélité sont avec lui,"
+       ],
+       [
+        "mon nom accroît sa vigueur ;"
+       ],
+       [
+        "Il me dira : \"Tu es mon Père,"
+       ],
+       [
+        "mon Dieu, mon roc et mon salut !\" \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Meine Treue und meine Huld begleiten ihn,"
+       ],
+       [
+        "und in meinem Namen erhebt er sein Haupt."
+       ],
+       [
+        "Er wird zu mir rufen: Mein Vater bist du,"
+       ],
+       [
+        "mein Gott, der Fels meines Heiles.“"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Misericórdias tuas, Dómine, in ætérnum cantábo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, eu cantarei eternamente vosso amor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "For ever I will sing the goodness of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Cantaré eternamente tus misericordias, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Canterò per sempre l'amore del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ton amour, Seigneur, sans fin je le chante !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Von den Taten deiner Huld, o Herr, will ich ewig singen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.4"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "acclamation",
+   "from": "common.holy-men-and-women.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáti páuperes spíritu,"
+       ],
+       [
+        "quóniam ipsórum est regnum cælórum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Felizes os humildes de espírito, porque deles é o Reino dos Céus!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5:3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Happy the poor in spirit; the kingdom of heaven is theirs!"
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bienaventurados los pobres en el espíritu,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Beati i poveri in spirito, perché di essi è il regno dei cieli."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáti páuperes spíritu,"
+       ],
+       [
+        "quóniam ipsórum est regnum cælórum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig, die arm sind vor Gott; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "common.holy-men-and-women.acclamation.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gaudete et exsultate, quoniam merces vestra copiosa est in cælis."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "5:1-12",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Mateo"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "5, l-12a",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Videns Iesus turbas, ascéndit in montem; et cum sedísset, accessérunt ad eum discípuli eius; et apériens os suum docébat eos dicens:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Beáti páuperes spíritu, quóniam ipsórum est regnum cælórum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti, qui lugent, quóniam ipsi consolabúntur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti mites, quóniam ipsi possidébunt terram."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti, qui esúriunt et sítiunt iustítiam, quóniam ipsi saturabúntur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti misericórdes, quia ipsi misericórdiam consequéntur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti mundo corde, quóniam ipsi Deum vidébunt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti pacífici, quóniam fílii Dei vocabúntur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti, qui persecutiónem patiúntur propter iustítiam, quóniam ipsórum est regnum cælórum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti estis cum maledíxerint vobis et persecúti vos fúerint et díxerint omne malum advérsum vos, mentiéntes, propter me. Gaudéte et exsultáte, quóniam merces vestra copiósa est in cælis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo: vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se, e Jesus começou a ensiná-los: \"Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus. Bem-aventurados os aflitos, porque serão consolados. Bem-aventurados os mansos, porque possuirão a terra. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-aventurados os misericordiosos, porque alcançarão misericórdia. Bem-aventurados os puros de coração, porque verão a Deus. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus. Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus. Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e mentindo, disserem todo tipo de mal contra vós, por causa de mim. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seeing the crowds, Jesus went up the hill. There he sat down and was joined by his disciples. Then he began to speak. This is what he taught them: 'How happy are the poor in spirit; theirs is the kingdom of heaven. Happy the gentle: they shall have the earth for their heritage. Happy those who mourn: they shall be comforted. Happy those who hunger and thirst for what is right: they shall be satisfied. Happy the merciful: they shall have mercy shown them. Happy the pure in heart: they shall see God. Happy the peacemakers: they shall be called sons of God. Happy those who are persecuted in the cause of right: theirs is the kingdom of heaven. 'Happy are you when people abuse you and persecute you and speak all kinds of calumny against you on my account. Rejoice and be glad, for your reward will be great in heaven."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, al ver Jesús el gentío, subió al monte, se sentó y se acercaron sus discípulos; y, abriendo su boca, les enseñaba diciendo:"
+       ],
+       [
+        "«Bienaventurados los pobres en el espíritu,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        "Bienaventurados los mansos,"
+       ],
+       [
+        "porque ellos heredarán la tierra."
+       ],
+       [
+        "Bienaventurados los que lloran,"
+       ],
+       [
+        "porque ellos serán consolados."
+       ],
+       [
+        "Bienaventurados los que tienen hambre y sed de la justicia,"
+       ],
+       [
+        "porque ellos quedarán saciados."
+       ],
+       [
+        "Bienaventurados los misericordiosos,"
+       ],
+       [
+        "porque ellos alcanzarán misericordia."
+       ],
+       [
+        "Bienaventurados los limpios de corazón,"
+       ],
+       [
+        "porque ellos verán a Dios."
+       ],
+       [
+        "Bienaventurados los que trabajan por la paz,"
+       ],
+       [
+        "porque ellos serán llamados hijos de Dios."
+       ],
+       [
+        "Bienaventurados los perseguidos por causa de la justicia,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        "Bienaventurados vosotros cuando os insulten y os persigan y os calumnien de cualquier modo por mi causa. Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, vedendo Le folle, Gesù salì sul monte: si pose a sedere e si avvicinarono a lui i suoi discepoli. Si mise a parlare e insegnava loro dicendo:"
+       ],
+       [
+        "«Beati i poveri in spirito, perché di essi è il regno dei cieli."
+       ],
+       [
+        "Beati quelli che sono nel pianto, perché saranno consolati."
+       ],
+       [
+        "Beati i miti, perché avranno in eredità la terra."
+       ],
+       [
+        "Beati quelli che hanno fame e sete della giustizia, perché saranno saziati."
+       ],
+       [
+        "Beati i misericordiosi, perché troveranno misericordia."
+       ],
+       [
+        "Beati i puri di cuore, perché vedranno Dio."
+       ],
+       [
+        "Beati gli operatori di pace, perché saranno chiamati figli di Dio."
+       ],
+       [
+        "Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli."
+       ],
+       [
+        "Beati voi quando vi insulteranno, vi perseguiteranno e, mentendo, diranno, ogni sorta di male contro di voi per causa mia. Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, voyant les foules, Jésus gravit la montagne. Il s'assit, et ses disciples s'approchèrent de lui. Alors, ouvrant la bouche, il les enseignait. Il disait : \" Heureux les pauvres de cœur, car le royaume des Cieux est à eux. Heureux ceux qui pleurent, car ils seront consolés. Heureux les doux, car ils recevront la terre en héritage. Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés. Heureux les miséricordieux, car ils obtiendront miséricorde. Heureux les cœurs purs, car ils verront Dieu. Heureux les artisans de paix, car ils seront appelés fils de Dieu. Heureux ceux qui sont persécutés pour la justice, car le royaume des Cieux est à eux. Heureux êtes-vous si l'on vous insulte, si l'on vous persécute et si l'on dit faussement toute sorte de mal contre vous, à cause de moi. Réjouissez-vous, soyez dans l'allégresse, car votre récompense est grande dans les cieux ! \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit,"
+       ],
+       [
+        "als Jesus die vielen Menschen sah, die ihm folgten, stieg er auf einen Berg. Er setzte sich, und seine Jünger traten zu ihm. Dann begann er zu reden und lehrte sie. Er sagte:"
+       ],
+       [
+        "Selig, die arm sind vor Gott; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        "Selig die Trauernden; denn sie werden getröstet werden."
+       ],
+       [
+        "Selig, die keine Gewalt anwenden; denn sie werden das Land erben."
+       ],
+       [
+        "Selig, die hungern und dürsten nach der Gerechtigkeit; denn sie werden satt werden."
+       ],
+       [
+        "Selig die Barmherzigen; denn sie werden Erbarmen finden."
+       ],
+       [
+        "Selig, die ein reines Herz haben; denn sie werden Gott schauen."
+       ],
+       [
+        "Selig, die Frieden stiften; denn sie werden Söhne Gottes genannt werden."
+       ],
+       [
+        "Selig, die um der Gerechtigkeit willen verfolgt werden; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        "Selig seid ihr, wenn ihr um meinetwillen beschimpft und verfolgt und auf alle mögliche Weise verleumdet werdet. Freut euch und jubelt: Euer Lohn im Himmel wird groß sein."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.1"
+  }
+ ],
+ "title": {
+  "la": "S. Eusebii Vercellensis, episcopi",
+  "pt-BR": "São Eusébio de Vercelli, bispo",
+  "en-US": "St. Eusebius of Vercelli, bishop",
+  "es": "San Eusebio de Vercelli, obispo",
+  "it": "Sant'Eusebio di Vercelli, vescovo",
+  "fr": "Saint Eusèbe de Verceil, évêque",
+  "de": "Hl. Eusebius von Vercelli, Bischof, Märtyrer"
+ }
+}

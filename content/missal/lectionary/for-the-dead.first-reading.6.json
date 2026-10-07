@@ -1,0 +1,521 @@
+{
+ "id": "for-the-dead.first-reading.6",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "6"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bonum est præstolari cum silentio salutare Domini"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Lamentatiónum"
+       ]
+      ],
+      "cite": "3, 17-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Repúlsa est a pace ánima mea, oblítus sum bonórum. Et dixi: «Périit splendor meus et spes mea a Dómino »."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recordáre paupertátis et peregrinatiónis meæ, absínthii et fellis. Memória memor est et tabéscit in me ánima mea. Hæc récolam in corde meo, ídeo sperábo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Misericórdiæ Dómini, quia non sumus consúmpti, quia non defecérunt miseratiónes eius. Novæ sunt omni mane, magna est fides tua."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Pars mea Dóminus, dixit ánima mea; proptérea exspectábo eum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bonus est Dóminus sperántibus in eum, ánimæ quærénti illum. Bonum est præstolári cum siléntio salutáre Dómini."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "É bom esperar em silêncio a salvação do Senhor"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro das Lamentações"
+       ]
+      ],
+      "cite": "3, 17-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A minha alma não conhece a paz, não sei o que seja a felicidade. Eu disse: «Desapareceu a minha força e a esperança que me vinha do Senhor». A recordação da minha miséria e da minha vida errante é absinto e veneno.A pensar nisto constantemente, a minha alma desfalece dentro de mim. Eis o que vou recordar em meu coração para reavivar a esperança: A misericórdia do Senhor não tem fim, não tem limites a sua compaixão, mas renova-se todas as manhãs; é grande a sua fidelidade. «O Senhor é a minha herança» – diz a minha alma – por isso Eu espero n'Ele. O Senhor é bom para quem n'Ele confia, para a alma que O procura. É bom esperar em silêncio a salvação do Senhor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is good to wait in silence for the Lord to save."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the book of Lamentations"
+       ]
+      ],
+      "cite": "3:17-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "My soul is shut out from peace; I have forgotten happiness. And now I say, ‘My strength is gone, that hope which came from the Lord'. Brooding on my anguish and affliction is gall and wormwood. My spirit ponders it continually and sinks within me. This is what I shall tell my heart, and so recover hope: the favours of the Lord are not all past, his kindnesses are not exhausted; every morning they are renewed; great is his faithfulness. ‘My portion is the Lord' says my soul ‘and so I will hope in him.' The Lord is good to those who trust him, to the soul that searches for him. It is good to wait in silence for the Lord to save."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Es bueno esperar en silencio la salvación del Señor"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de las Lamentaciones"
+       ]
+      ],
+      "cite": "3, 17-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He perdido la paz,"
+       ],
+       [
+        "me he olvidado de la dicha;"
+       ],
+       [
+        "me dije: «Ha sucumbido mi esplendor"
+       ],
+       [
+        "y mi esperanza en el Señor»."
+       ],
+       [
+        "Recordar mí aflicción y mi vida errante"
+       ],
+       [
+        "es ajenjo y veneno;"
+       ],
+       [
+        "no dejo de pensar en ello,"
+       ],
+       [
+        "estoy desolado;"
+       ],
+       [
+        "hay algo que traigo a la memoria,"
+       ],
+       [
+        "por eso esperaré:"
+       ],
+       [
+        "Que no se agota la bondad del Señor,"
+       ],
+       [
+        "no se acaba su misericordia;"
+       ],
+       [
+        "se renuevan cada mañana,"
+       ],
+       [
+        "¡qué grande es tu fidelidad!;"
+       ],
+       [
+        "me digo: «Mi lote es el Señor,"
+       ],
+       [
+        "por eso esperaré en él!»."
+       ],
+       [
+        "El Señor es bueno para quien espera en él,"
+       ],
+       [
+        "para quien lo busca;"
+       ],
+       [
+        "es bueno esperar en silencio"
+       ],
+       [
+        "la salvación del Señor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È bene aspettare in silenzio la salvezza del Signore."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro delle Lamentazioni"
+       ]
+      ],
+      "cite": "3, 17-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Son rimasto lontano dalla pace, ho dimenticato il benessere. E dico: «È scomparsa la mia gloria, la speranza che mi veniva dal Signore». Il ricordo della mia miseria e del mio vagare è come assenzio e veleno. Ben se ne ricorda e si accascia dentro di me la mia anima. Questo intendo richiamare alla mia mente, e per questo voglio riprendere speranza. Le misericordie del Signore non sono finite, non è esaurita la sua compassione; esse son rinnovate ogni mattina, grande è la sua fedeltà. «Mia parte è il Signore - io esclamo - per questo in lui voglio sperare». Buono è il Signore con chi spera in lui, con l'anima che lo cerca. È bene aspettare in silenzio la salvezza del Signore."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Lamentatiónum"
+       ]
+      ],
+      "cite": "3, 17-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu enlèves la paix à mon âme, j'ai oublié le bonheur ; j'ai dit : \" Mon assurance a disparu, et l'espoir qui me venait du Seigneur. \" Zaïn"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rappelle-toi ma misère et mon errance, l'absinthe et le poison. Elle se rappelle, mon âme, elle se rappelle ; en moi, elle défaille. Voici ce que je redis en mon cœur, et c'est pourquoi j'espère : Heth"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grâce à l'amour du Seigneur, nous ne sommes pas anéantis ; ses tendresses"
+       ],
+       [
+        "ne s'épuisent pas ; elles se renouvellent chaque matin, - oui, ta fidélité"
+       ],
+       [
+        "surabonde. Je me dis :"
+       ],
+       [
+        "\" Le Seigneur est mon partage, c'est pourquoi j'espère en lui. \" Teth"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Pars mea Dóminus, dixit ánima mea; proptérea exspectábo eum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur est bon pour qui se tourne vers lui, pour celui qui le cherche. Il est bon d'espérer en silence le salut du Seigneur ;"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch der Klagelieder"
+       ]
+      ],
+      "cite": "3, 17-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, du hast mich aus dem Frieden hinausgestoßen; ich habe vergessen, was Glück ist. Ich sprach: Dahin ist mein Glanz und mein Vertrauen auf den Herrn."
+       ],
+       [
+        "An meine Not und Unrast denken ist Wermut und Gift. Immer denkt meine Seele daran und ist betrübt in mir. Das will ich mir zu Herzen nehmen, darauf darf ich harren:"
+       ],
+       [
+        "Die Huld des Herrn ist nicht erschöpft, sein Erbarmen ist nicht zu Ende. Neu ist es an jedem Morgen; groß ist deine Treue."
+       ],
+       [
+        "Mein Anteil ist der Herr, sagt meine Seele, darum harre ich auf ihn."
+       ],
+       [
+        "Gut ist der Herr zu dem, der auf ihn hofft, zur Seele, die ihn sucht. Gut ist es, schweigend zu harren auf die Hilfe des Herrn."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

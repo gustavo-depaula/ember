@@ -1,1 +1,1678 @@
-{"id":"common.pastors.5","source":"comunes_votivas/comunes_past#past5","kind":"common","items":[{"slot":"70","text":{"la":[{"k":"h2","lines":[["COMMUNE PASTORUM"]]},{"k":"h3","lines":[["III. PRO PASTORIBUS"],["A. Pro pluribus pastoribus"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DOS PASTORES"]]},{"k":"h3","lines":[["III. PARA PASTORES"],["A. Para vários pastores"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF PASTORS"]]},{"k":"h3","lines":[["III. For Pastors"],["A. For Several Pastors"]]}],"es":[{"k":"h2","lines":[["COMÚN DE PASTORES"]]},{"k":"h3","lines":[["III. PASTORES"],["A. Para varios pastores"]]}],"it":[{"k":"h2","lines":[["COMUNE DEI PASTORI"]]},{"k":"h3","lines":[["III. Per i pastori"],["A. Per più pastori"]]}],"fr":[{"k":"h2","lines":[["COMMUN DES PASTEURS"]]},{"k":"h3","lines":[["III. POUR DES PASTEURS"],["A. Pour plusieurs pasteurs"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE FÜR HIRTEN DER KIRCHE"]]},{"k":"h3","lines":[["III. Für Seelsorger"],["A. Für mehrere Seelsorger"]]}]},"part":"title"},{"slot":"71","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ier 3, 15"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Jr 3, 15"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Jer 3: 15"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Jr 3, 15"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Ger 3, 15"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ier 3, 15"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Jer 3, 15"}]},"part":"entranceAntiphon"},{"slot":"72","text":{"la":[{"k":"p","lines":[["Dabo vobis pastóres iuxta cor meum, et pascent vos sciéntia et doctrína ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"pt-BR":[{"k":"p","lines":[["Eu vos darei pastores segundo o meu coração, que vos apascentarão com clarividência e sabedoria ",{"m":"rubric","t":"(T. P. "},"aleluia",{"m":"rubric","t":")"},"."]]}],"en-US":[{"k":"p","lines":[["I will appoint over you shepherds after my own heart, who will shepherd you wisely and prudently ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Os daré pastores según mi corazón, que os apacienten con ciencia y"],["doctrina ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Vi darò pastori secondo il mio cuore, che vi guideranno con scienza e intelligenza ",{"m":"rubric","t":"( T. P."},"Alleluia ",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Je vous donnerai des pasteurs selon mon cœur ;"],["ils vous conduiront avec sagesse et intelligence ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}],"de":[{"k":"p","lines":[["Ich gebe euch Hirten nach meinem Herzen; mit Einsicht und Klugheit werden sie euch weiden."]]}]},"part":"entranceAntiphon"},{"slot":"73","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Dan 3, 84. 87"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Cf. Dn 3, 84. 87"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Dn 3: 84, 87"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Cf. Dan 3, 84. 87"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Cf. Dn 3, 84.87"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Dan 3, 84. 87"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Dan 3, 84. 87"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"74","text":{"la":[{"k":"p","lines":[["Sacerdótes Dei, benedícite Dóminum; sancti et húmiles corde, laudáte Deum ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"pt-BR":[{"k":"p","lines":[["Sacerdotes de Deus, bendizei o Senhor; santos e humildes, louvai o Senhor ",{"m":"rubric","t":"(T. P. "},"aleluia",{"m":"rubric","t":")"},"."]]}],"en-US":[{"k":"p","lines":[["Priests of God, bless the Lord; praise the Lord, all who are holy and humble of heart ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Sacerdotes del Señor, bendecid al Señor, santos y humildes de corazón, bendecid al Señor ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Benedite, sacerdoti del Signore, il Signore; lodate Dio, santi e umili di cuore ",{"m":"rubric","t":"( T. P."},"Alleluia ",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Prêtres du Seigneur, bénissez le Seigneur !"],["Saints et humbles de cœur, louez Dieu ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}],"de":[{"k":"p","lines":[["Preist den Herrn, ihr Priester; preist den Herrn, ihr Frommen und Demütigen."]]}]},"part":"entranceAntiphon"},{"slot":"75","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"76","text":{"la":[{"k":"p","lines":[["Deus, qui beátos ",{"m":"rubric","t":"("}," epíscopos ",{"m":"rubric","t":"N. "},"et ",{"m":"rubric","t":"N. "},"ad pascéndum pópulum tuum spíritu veritátis et dilectiónis implevísti, præsta, ut, quorum festivitátem venerándo ágimus, eórum imitatióne proficiámus, et intercessióne sublevémur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que infundistes nos Santos ",{"m":"rubric","t":"("},"bispos",{"m":"rubric","t":")N."}," e ",{"m":"rubric","t":"N."}," o espírito de verdade e amor para apascentarem o vosso povo, ao venerarmos sua memória, concedei-nos imitar seu exemplo e receber o auxílio de sua intercessão. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who to pasture your people filled (the Bishops) blessed ",{"m":"rubric","t":"N."}," and ",{"m":"rubric","t":"N."}," with a spirit of truth and of love, grant that, as we celebrate their feast day with honor, we may benefit by imitating them and be given relief through their intercession."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que infundiste en los santos ",{"m":"rubric","t":"["},"obispos",{"m":"rubric","t":"]N."}," y ",{"m":"rubric","t":"N."}],["el espíritu de la verdad y del amor para apacentar a tu pueblo,"],["concede, a cuantos celebramos con veneración su fiesta,"],["imitarles cada día más y recibir la ayuda de su intercesión."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che hai plasmato con il tuo Spirito di verità e di amore i santi ",{"m":"rubric","t":"["}," vescovi ",{"m":"rubric","t":"] N. "},"e ",{"m":"rubric","t":"N. "},"perché fossero pastori del tuo popolo, concedi a noi, che ne celebriamo la memoria, di imitare il loro esempio e di trarre sostegno dalla loro intercessione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["pour que les saints ",{"m":"rubric","t":"("},"évêques",{"m":"rubric","t":")N."}," et ",{"m":"rubric","t":"N."}],["soient les pasteurs de ton peuple,"],["tu les as comblés d'un esprit d'amour et de vérité ;"],["puisque nous célébrons leur fête,"],["accorde-nous de progresser en les imitant,"],["et de trouver dans leur intercession"],["un soutien inébranlable."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, du hast die heiligen (Bischöfe) ",{"m":"rubric","t":"N."}," und ",{"m":"rubric","t":"N."}," mit dem Geist der Wahrheit und der Liebe erfüllt und sie befähigt, dein Volk zu leiten. Höre auf ihre Fürsprache, lass uns nach ihrem Vorbild leben und stets deine Hilfe erfahren. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"77","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"78","text":{"la":[{"k":"p","lines":[["Laudis tibi, Dómine, hóstias offérimus in tuórum commemoratióne Sanctórum, quibus nos et præséntibus éxui malis confídimus et futúris. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, na comemoração dos vossos santos,"],["nós vos oferecemos este sacrifício de louvor;"],["por ele confiamos ser libertos"],["dos males presentes e futuros."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["We offer you a sacrifice of praise in commemoration of your Saints, O Lord, by which we trust to be delivered from evils both present and to come."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te ofrecemos, Señor,"],["este sacrificio de alabanza"],["en la conmemoración de tus santos;"],["por ellos confiamos vernos libres"],["de los males presentes y futuros."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Ti offriamo, o Signore, il sacrificio di lode nella memoria dei tuoi santi: donaci per loro intercessione di essere liberati dai mali presenti e futuri. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["En célébrant, Seigneur, la mémoire des saints,"],["nous t'offrons ce sacrifice de louange ;"],["par lui, délivre-nous du mal aujourd'hui et demain,"],["comme nous en avons l'espérance."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, nimm die Gaben deines Volkes an, die es dir am Gedenktag der heiligen (Bischöfe) ",{"m":"rubric","t":"N."}," und ",{"m":"rubric","t":"N."}," darbringt. Nimm sie entgegen und schenke uns durch dieses Opfer das ewige Heil. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"79","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"81","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Mt 20, 28"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Mt 20, 28"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Mt 20: 28"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]]}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Mt 20, 28"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Mt 20, 28"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Mt 28, 20"}]},"part":"communionAntiphon"},{"slot":"82","text":{"la":[{"k":"p","lines":[["Fílius hóminis non venit ministrári, sed ministráre, et dare ánimam suam redemptiónem pro multis ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":")."}]]}],"pt-BR":[{"k":"p","lines":[["O Filho do homem não veio para ser servido, mas para servir e dar a sua vida como resgate em favor de muitos ",{"m":"rubric","t":"(T. P. "},"aleluia",{"m":"rubric","t":")"},"."]]}],"en-US":[{"k":"p","lines":[["The Son of Man did not come to be served but to serve, and to give his life as a ransom for many ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["El Hijo del Hombre ha venido a dar su vida en rescate por muchos ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Il Figlio dell'uomo non è venuto per essere servito, ma per servire e dare la propria vita in riscatto per molti ",{"m":"rubric","t":"( T. P."},"Alleluia ",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Le Fils de l'homme n'est pas venu pour être servi, mais pour servir,"],["et donner sa vie en rançon pour la multitude ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":")."}]]}],"de":[{"k":"p","lines":[["Der Menschensohn ist nicht gekommen, um sich bedienen zu lassen, sondern um zu dienen und sein Leben hinzugeben als Lösegeld für viele."]]}]},"part":"communionAntiphon"},{"slot":"83","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"84","text":{"la":[{"k":"p","lines":[["Súmpsimus, Dómine, sanctórum tuórum ",{"m":"rubric","t":"N. "},"et ",{"m":"rubric","t":"N. "},"memóriam celebrántes, sacraménta cæléstia; præsta, quǽsumus, ut, quod temporáliter gérimus, ætérnis gáudiis consequámur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, pelos celestes sacramentos que recebemos na comemoração dos vossos Santos ",{"m":"rubric","t":"N."}," e ",{"m":"rubric","t":"N."},", nós vos pedimos que esta celebração na terra nos alcance as alegrias do céu. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["We have received this heavenly Sacrament, O Lord, as we commemorate your Saints ",{"m":"rubric","t":"N."}," and ",{"m":"rubric","t":"N."},"; grant, we pray, that what we celebrate in time we may attain with eternal joy."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Hemos recibido, Señor, los sacramentos del cielo"],["celebrando la memoria de tus santos ",{"m":"rubric","t":"N."}," y ",{"m":"rubric","t":"N."},";"],["concédenos gozar en la eternidad"],["de lo que hemos celebrado en este mundo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Ci siamo nutriti, o Signore, dei tuoi sacramenti celebrando la memoria dei santi ",{"m":"rubric","t":"N. "},"e ",{"m":"rubric","t":"N. "},": fa' che gustiamo nella gioia eterna il mistero che ci conforta nel pellegrinaggio terreno. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous avons reçu, Seigneur, le sacrement du ciel"],["en faisant mémoire des saints ",{"m":"rubric","t":"N."}," et ",{"m":"rubric","t":"N."}," ;"],["nous t'en prions :"],["donne-nous de posséder dans la joie éternelle"],["ce que nous célébrons dans le temps de cette vie."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, am Gedenktag der heiligen (Bischöfe) ",{"m":"rubric","t":"N."}," und ",{"m":"rubric","t":"N."}," haben wir das Sakrament des Altares empfangen. Gib, dass wir im Himmel unverhüllt schauen, was wir auf Erden unter heiligen Zeichen empfangen haben. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.56"],"title":{"la":"COMMUNE PASTORUM","pt-BR":"COMUM DOS PASTORES","en-US":"COMMON OF PASTORS","es":"COMÚN DE PASTORES","it":"COMUNE DEI PASTORI","fr":"COMMUN DES PASTEURS","de":"COMMUNE-TEXTE FÜR HIRTEN DER KIRCHE"},"subtitle":{"la":"III. PRO PASTORIBUS A. Pro pluribus pastoribus","pt-BR":"III. PARA PASTORES A. Para vários pastores","en-US":"III. For Pastors A. For Several Pastors","es":"III. PASTORES A. Para varios pastores","it":"III. Per i pastori A. Per più pastori","fr":"III. POUR DES PASTEURS A. Pour plusieurs pasteurs","de":"III. Für Seelsorger A. Für mehrere Seelsorger"}}
+{
+ "id": "common.pastors.5",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE PASTORUM"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. PRO PASTORIBUS"
+       ],
+       [
+        "A. Pro pluribus pastoribus"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DOS PASTORES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. PARA PASTORES"
+       ],
+       [
+        "A. Para vários pastores"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF PASTORS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. For Pastors"
+       ],
+       [
+        "A. For Several Pastors"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE PASTORES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. PASTORES"
+       ],
+       [
+        "A. Para varios pastores"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DEI PASTORI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. Per i pastori"
+       ],
+       [
+        "A. Per più pastori"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DES PASTEURS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. POUR DES PASTEURS"
+       ],
+       [
+        "A. Pour plusieurs pasteurs"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE FÜR HIRTEN DER KIRCHE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. Für Seelsorger"
+       ],
+       [
+        "A. Für mehrere Seelsorger"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ier 3, 15"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Jr 3, 15"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Jer 3: 15"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Jr 3, 15"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Ger 3, 15"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ier 3, 15"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Jer 3, 15"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dabo vobis pastóres iuxta cor meum, et pascent vos sciéntia et doctrína ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu vos darei pastores segundo o meu coração, que vos apascentarão com clarividência e sabedoria ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "aleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will appoint over you shepherds after my own heart, who will shepherd you wisely and prudently ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os daré pastores según mi corazón, que os apacienten con ciencia y"
+       ],
+       [
+        "doctrina ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vi darò pastori secondo il mio cuore, che vi guideranno con scienza e intelligenza ",
+        {
+         "m": "rubric",
+         "t": "( T. P."
+        },
+        "Alleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je vous donnerai des pasteurs selon mon cœur ;"
+       ],
+       [
+        "ils vous conduiront avec sagesse et intelligence ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich gebe euch Hirten nach meinem Herzen; mit Einsicht und Klugheit werden sie euch weiden."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Dan 3, 84. 87"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Cf. Dn 3, 84. 87"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Dn 3: 84, 87"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Dan 3, 84. 87"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Cf. Dn 3, 84.87"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Dan 3, 84. 87"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Dan 3, 84. 87"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacerdótes Dei, benedícite Dóminum; sancti et húmiles corde, laudáte Deum ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacerdotes de Deus, bendizei o Senhor; santos e humildes, louvai o Senhor ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "aleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Priests of God, bless the Lord; praise the Lord, all who are holy and humble of heart ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacerdotes del Señor, bendecid al Señor, santos y humildes de corazón, bendecid al Señor ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedite, sacerdoti del Signore, il Signore; lodate Dio, santi e umili di cuore ",
+        {
+         "m": "rubric",
+         "t": "( T. P."
+        },
+        "Alleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prêtres du Seigneur, bénissez le Seigneur !"
+       ],
+       [
+        "Saints et humbles de cœur, louez Dieu ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preist den Herrn, ihr Priester; preist den Herrn, ihr Frommen und Demütigen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui beátos ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " epíscopos ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "et ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "ad pascéndum pópulum tuum spíritu veritátis et dilectiónis implevísti, præsta, ut, quorum festivitátem venerándo ágimus, eórum imitatióne proficiámus, et intercessióne sublevémur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que infundistes nos Santos ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "bispos",
+        {
+         "m": "rubric",
+         "t": ")N."
+        },
+        " e ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " o espírito de verdade e amor para apascentarem o vosso povo, ao venerarmos sua memória, concedei-nos imitar seu exemplo e receber o auxílio de sua intercessão. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who to pasture your people filled (the Bishops) blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " and ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " with a spirit of truth and of love, grant that, as we celebrate their feast day with honor, we may benefit by imitating them and be given relief through their intercession."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que infundiste en los santos ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "obispos",
+        {
+         "m": "rubric",
+         "t": "]N."
+        },
+        " y ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "el espíritu de la verdad y del amor para apacentar a tu pueblo,"
+       ],
+       [
+        "concede, a cuantos celebramos con veneración su fiesta,"
+       ],
+       [
+        "imitarles cada día más y recibir la ayuda de su intercesión."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che hai plasmato con il tuo Spirito di verità e di amore i santi ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        " vescovi ",
+        {
+         "m": "rubric",
+         "t": "] N. "
+        },
+        "e ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "perché fossero pastori del tuo popolo, concedi a noi, che ne celebriamo la memoria, di imitare il loro esempio e di trarre sostegno dalla loro intercessione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "pour que les saints ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "évêques",
+        {
+         "m": "rubric",
+         "t": ")N."
+        },
+        " et ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "soient les pasteurs de ton peuple,"
+       ],
+       [
+        "tu les as comblés d'un esprit d'amour et de vérité ;"
+       ],
+       [
+        "puisque nous célébrons leur fête,"
+       ],
+       [
+        "accorde-nous de progresser en les imitant,"
+       ],
+       [
+        "et de trouver dans leur intercession"
+       ],
+       [
+        "un soutien inébranlable."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, du hast die heiligen (Bischöfe) ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " und ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " mit dem Geist der Wahrheit und der Liebe erfüllt und sie befähigt, dein Volk zu leiten. Höre auf ihre Fürsprache, lass uns nach ihrem Vorbild leben und stets deine Hilfe erfahren. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Laudis tibi, Dómine, hóstias offérimus in tuórum commemoratióne Sanctórum, quibus nos et præséntibus éxui malis confídimus et futúris. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, na comemoração dos vossos santos,"
+       ],
+       [
+        "nós vos oferecemos este sacrifício de louvor;"
+       ],
+       [
+        "por ele confiamos ser libertos"
+       ],
+       [
+        "dos males presentes e futuros."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We offer you a sacrifice of praise in commemoration of your Saints, O Lord, by which we trust to be delivered from evils both present and to come."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te ofrecemos, Señor,"
+       ],
+       [
+        "este sacrificio de alabanza"
+       ],
+       [
+        "en la conmemoración de tus santos;"
+       ],
+       [
+        "por ellos confiamos vernos libres"
+       ],
+       [
+        "de los males presentes y futuros."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti offriamo, o Signore, il sacrificio di lode nella memoria dei tuoi santi: donaci per loro intercessione di essere liberati dai mali presenti e futuri. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En célébrant, Seigneur, la mémoire des saints,"
+       ],
+       [
+        "nous t'offrons ce sacrifice de louange ;"
+       ],
+       [
+        "par lui, délivre-nous du mal aujourd'hui et demain,"
+       ],
+       [
+        "comme nous en avons l'espérance."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, nimm die Gaben deines Volkes an, die es dir am Gedenktag der heiligen (Bischöfe) ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " und ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " darbringt. Nimm sie entgegen und schenke uns durch dieses Opfer das ewige Heil. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Mt 20, 28"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Mt 20, 28"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Mt 20: 28"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Mt 20, 28"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Mt 20, 28"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Mt 28, 20"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fílius hóminis non venit ministrári, sed ministráre, et dare ánimam suam redemptiónem pro multis ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Filho do homem não veio para ser servido, mas para servir e dar a sua vida como resgate em favor de muitos ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "aleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Son of Man did not come to be served but to serve, and to give his life as a ransom for many ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Hijo del Hombre ha venido a dar su vida en rescate por muchos ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Figlio dell'uomo non è venuto per essere servito, ma per servire e dare la propria vita in riscatto per molti ",
+        {
+         "m": "rubric",
+         "t": "( T. P."
+        },
+        "Alleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Fils de l'homme n'est pas venu pour être servi, mais pour servir,"
+       ],
+       [
+        "et donner sa vie en rançon pour la multitude ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Menschensohn ist nicht gekommen, um sich bedienen zu lassen, sondern um zu dienen und sein Leben hinzugeben als Lösegeld für viele."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súmpsimus, Dómine, sanctórum tuórum ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "et ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "memóriam celebrántes, sacraménta cæléstia; præsta, quǽsumus, ut, quod temporáliter gérimus, ætérnis gáudiis consequámur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, pelos celestes sacramentos que recebemos na comemoração dos vossos Santos ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " e ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", nós vos pedimos que esta celebração na terra nos alcance as alegrias do céu. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We have received this heavenly Sacrament, O Lord, as we commemorate your Saints ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " and ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        "; grant, we pray, that what we celebrate in time we may attain with eternal joy."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hemos recibido, Señor, los sacramentos del cielo"
+       ],
+       [
+        "celebrando la memoria de tus santos ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " y ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ";"
+       ],
+       [
+        "concédenos gozar en la eternidad"
+       ],
+       [
+        "de lo que hemos celebrado en este mundo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ci siamo nutriti, o Signore, dei tuoi sacramenti celebrando la memoria dei santi ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "e ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        ": fa' che gustiamo nella gioia eterna il mistero che ci conforta nel pellegrinaggio terreno. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous avons reçu, Seigneur, le sacrement du ciel"
+       ],
+       [
+        "en faisant mémoire des saints ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " et ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " ;"
+       ],
+       [
+        "nous t'en prions :"
+       ],
+       [
+        "donne-nous de posséder dans la joie éternelle"
+       ],
+       [
+        "ce que nous célébrons dans le temps de cette vie."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, am Gedenktag der heiligen (Bischöfe) ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " und ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " haben wir das Sakrament des Altares empfangen. Gib, dass wir im Himmel unverhüllt schauen, was wir auf Erden unter heiligen Zeichen empfangen haben. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.56"
+ ],
+ "title": {
+  "la": "COMMUNE PASTORUM",
+  "pt-BR": "COMUM DOS PASTORES",
+  "en-US": "COMMON OF PASTORS",
+  "es": "COMÚN DE PASTORES",
+  "it": "COMUNE DEI PASTORI",
+  "fr": "COMMUN DES PASTEURS",
+  "de": "COMMUNE-TEXTE FÜR HIRTEN DER KIRCHE"
+ },
+ "subtitle": {
+  "la": "III. PRO PASTORIBUS A. Pro pluribus pastoribus",
+  "pt-BR": "III. PARA PASTORES A. Para vários pastores",
+  "en-US": "III. For Pastors A. For Several Pastors",
+  "es": "III. PASTORES A. Para varios pastores",
+  "it": "III. Per i pastori A. Per più pastori",
+  "fr": "III. POUR DES PASTEURS A. Pour plusieurs pasteurs",
+  "de": "III. Für Seelsorger A. Für mehrere Seelsorger"
+ }
+}

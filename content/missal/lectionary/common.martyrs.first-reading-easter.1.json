@@ -1,0 +1,446 @@
+{
+ "id": "common.martyrs.first-reading-easter.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Domine Iesu, suscipe spiritum meum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Actuum Apostolórum"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum esset Stéphanus plenus Spíritu Sancto, inténdens in cælum vidit glóriam Dei et Iesum stantem a dextris Dei et ait: «Ecce vídeo cælos apértos et Fílium hóminis a dextris stantem Dei»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exclamántes autem voce magna continuérunt aures suas et ímpetum fecérunt unanímiter in eum et eiciéntes extra civitátem lapidábant. Et testes deposuérunt vestiménta sua secus pedes adulescéntis, qui vocabátur Saulus. Et lapidábant Stéphanum invocántem et dicéntem: «Dómine Iesu, súscipe spíritum meum». Pósitis autem génibus clamávit voce magna: «Dómine, ne státuas illis hoc peccátum»; et cum hoc dixísset, obdormívit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor Jesus, acolhe o meu espírito."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura dos Atos dos Apóstolos"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, Estêvão, cheio do Espírito Santo, olhou para o céu e viu a glória de Deus e Jesus de pé, à direita de Deus. E disse: \"Estou vendo o céu aberto e o Filho do Homem, de pé, à direita de Deus\". Mas eles, dando grandes gritos e tapando os ouvidos, avançavam todos juntos contra Estêvão, arrastaram-no para fora da cidade e começaram a apedrejá-lo. As testemunhas deixaram as suas vestes aos pés de um jovem chamado Saulo. Enquanto o apedrejavam, Estêvão clamou dizendo: \"Senhor Jesus, acolhe o me espirito\" Dobrando os joelhos, gritou com voz forte: \"Senhor, não os condenes por este pecado\" E, ao dizer isto, morreu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Acts of the Apostles"
+       ]
+      ],
+      "cite": "7:55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Stephen, filled with the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at God's right hand. 'I can see heaven thrown open' he said 'and the Son of Man standing at the right hand of God.' At this all the members of the council shouted out and stopped their ears with their hands; then they all rushed at him, sent him out of the city and stoned him. The witnesses put down their clothes at the feet of a young man called Saul. As they were stoning him, Stephen said in invocation, 'Lord Jesus, receive my spirit'. Then he knelt down and said aloud, 'Lord, do not hold this sin against them'; and with these words he fell asleep."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor Jesús, recibe mi espíritu"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de los Hechos de los apóstoles"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, Esteban, lleno de Espíritu Santo, fijando la mirada en el cielo, vio la gloria de Dios, y a Jesús de pie a la derecha de Dios, y dijo:"
+       ],
+       [
+        "«Veo los cielos abiertos y al Hijo del hombre de pie a la derecha de Dios»."
+       ],
+       [
+        "Dando un grito estentóreo, se taparon los oídos; y, çomo un solo hombre, se abalanzaron sobre él, lo empujaron fuera de la ciudad y se pusieron a apedrearlo. Los testigos dejaron sus capas a los pies de un joven llamado Saulo y se pusieron a apedrear a Esteban, que repetía esta invocación:"
+       ],
+       [
+        "«Señor Jesús, recibe mi espíritu»."
+       ],
+       [
+        "Luego, cayendo de rodillas y clamando con voz potente, dijo:"
+       ],
+       [
+        "«Señor, no les tengas en cuenta este pecado»."
+       ],
+       [
+        "Y, con estas palabras, murió."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore Gesù, accogli il mio spirito."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dagli Atti degli Apostoli"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, Stefano, pieno di Spirito Santo, fissando il cielo, vide la gloria di Dio e Gesù che stava alla destra di Dio e disse: «Ecco, contemplo i cieli aperti e il Figlio dell'uomo che sta alla destra di Dio»."
+       ],
+       [
+        "Allora, gridando a gran voce, si turarono gli orecchi e si scagliarono tutti insieme contro di lui, lo trascinarono fuori della città e si misero a lapidarlo. E i testimoni deposero i loro mantelli ai piedi di un giovane, chiamato Saulo."
+       ],
+       [
+        "E lapidavano Stefano, che pregava e diceva: «Signore Gesù, accogli il mio spirito». Poi piegò le ginocchia e gridò a gran voce: «Signore, non imputare loro questo peccato». Detto questo, morì."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre des Actes des Apôtres"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, Étienne était en face de ses accusateurs. Rempli de"
+       ],
+       [
+        "l'Esprit Saint, il fixait le ciel du regard : il vit la gloire de Dieu, et"
+       ],
+       [
+        "Jésus debout à la droite de Dieu. Il déclara :"
+       ],
+       [
+        "\" Voici que je contemple les cieux ouverts et le Fils de l'homme debout à la droite de Dieu. \""
+       ],
+       [
+        "Alors ils poussèrent de grands cris et se bouchèrent les oreilles. Tous"
+       ],
+       [
+        "ensemble, ils se précipitèrent sur lui, l'entraînèrent hors de la ville et"
+       ],
+       [
+        "se mirent à le lapider. Les témoins avaient déposé leurs vêtements aux pieds"
+       ],
+       [
+        "d'un jeune homme appelé Saul. Étienne, pendant qu'on le lapidait, priait"
+       ],
+       [
+        "ainsi : \" Seigneur Jésus, reçois mon esprit. \" Puis, se mettant à genoux, il"
+       ],
+       [
+        "s'écria d'une voix forte : \" Seigneur, ne leur compte pas ce péché. \" Et,"
+       ],
+       [
+        "après cette parole, il s'endormit dans la mort."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Apostelgeschichte"
+       ]
+      ],
+      "cite": "7, 55-60",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen"
+       ],
+       [
+        "blickte Stephanus, erfüllt vom Heiligen Geist, zum Himmel empor, sah die Herrlichkeit Gottes und Jesus zur Rechten Gottes stehen und rief: Ich sehe den Himmel offen und den Menschensohn zur Rechten Gottes stehen."
+       ],
+       [
+        "Da erhoben sie ein lautes Geschrei, hielten sich die Ohren zu, stürmten gemeinsam auf ihn los, trieben ihn zur Stadt hinaus und steinigten ihn. Die Zeugen legten ihre Kleider zu Füßen eines jungen Mannes nieder, der Saulus hieß. So steinigten sie Stephanus; er aber betete und rief: Herr Jesus, nimm meinen Geist auf! Dann sank er in die Knie und schrie laut: Herr, rechne ihnen diese Sünde nicht an! Nach diesen Worten starb er."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

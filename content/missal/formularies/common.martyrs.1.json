@@ -1,1 +1,1628 @@
-{"id":"common.martyrs.1","source":"comunes_votivas/comunes_mart#mart1","kind":"common","items":[{"slot":"1","text":{"la":[{"k":"h2","lines":[["COMMUNE MARTYRUM"]]},{"k":"h3","lines":[["I. EXTRA TEMPUS PASCHALE"],["A. Pro pluribus martyribus"],["1"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DOS MÁRTIRES"]]},{"k":"h3","lines":[["I. FORA DO TEMPO PASCAL"],["A. Para vários mártires"],["1"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF MARTYRS"]]},{"k":"h3","lines":[["I. Outside Easter Time"],["A. For Several Martyrs"],["1"]]}],"es":[{"k":"h2","lines":[["COMÚN DE MÁRTIRES"]]},{"k":"h3","lines":[["I. Fuera del tiempo pascual"],["A. Para varios mártires"],["1"]]}],"it":[{"k":"h2","lines":[["COMUNE DEI MARTIRI"]]},{"k":"h3","lines":[["I. Fuori del Tempo Pasquale"],["A. Per più martiri"],["1."]]}],"fr":[{"k":"h2","lines":[["COMMUN DES MARTYRS"]]},{"k":"h3","lines":[["I. HORS DU TEMPS PASCAL"],["A. Pour plusieurs martyrs"],["1"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE FÜR MÄRTYRER"]]},{"k":"h3","lines":[["1. Für mehrere Märtyrer außerhalb der Osterzeit"]]}]},"part":"title"},{"slot":"2","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]]}]},"part":"entranceAntiphon"},{"slot":"3","text":{"la":[{"k":"p","lines":[["Gaudent in cælis ánimæ Sanctórum, qui Christi vestígia sunt secúti; et quia pro eius amóre sánguinem suum fudérunt, ídeo cum Christo exsúltant sine fine."]]}],"pt-BR":[{"k":"p","lines":[["Alegram-se nos céus os santos"],["que seguiram os passos de Cristo."],["Por seu amor derramaram o próprio sangue;"],["por isso, com ele exultam eternamente."]]}],"en-US":[{"k":"p","lines":[["The souls of the Saints are rejoicing in heaven, the Saints who followed the footsteps of Christ, and since for love of him they shed their blood, they now exult with Christ for ever."]]}],"es":[{"k":"p","lines":[["Las almas de los santos, que siguieron las huellas de Cristo, viven gozosas en el cielo. Derramaron la sangre por su amor, por eso se alegran con Cristo para siempre."]]}],"it":[{"k":"p","lines":[["Esultano in cielo le anime dei santi, che hanno seguito le orme di Cristo; per suo amore hanno effuso il proprio sangue, ora con Cristo gioiscono per sempre."]]}],"fr":[{"k":"p","lines":[["Elles se réjouissent dans les cieux,"],["les âmes des saints qui ont suivi les traces du Christ ;"],["ils ont répandu leur sang par amour pour lui :"],["c'est pourquoi ils exultent avec lui pour l'éternité."]]}],"de":[{"k":"p","lines":[["Im Himmel freuen sich die Heiligen, die Christus nachgefolgt sind bis in den Tod. Aus Liebe zu Christus haben sie ihr Blut vergossen; nun herrschen sie mit ihm in Ewigkeit."]]}]},"part":"entranceAntiphon"},{"slot":"4","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel:"}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou:"}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien:"}]]}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"5","text":{"la":[{"k":"p","lines":[["Viri sancti gloriósum sánguinem fudérunt pro Dómino, amavérunt Christum in vita sua, imitáti sunt eum in morte sua: et ídeo corónas triumpháles meruérunt."]]}],"pt-BR":[{"k":"p","lines":[["Por causa do Senhor"],["homens santos derramaram seu sangue glorioso,"],["amaram Cristo em sua vida e, na sua morte, o imitaram;"],["por isso, mereceram coroas de vitória."]]}],"en-US":[{"k":"p","lines":[["Holy men shed their glorious blood for the Lord; they loved Christ in their life, they imitated him in their death, and therefore were crowned in triumph."]]}],"es":[{"k":"p","lines":[["Los santos derramaron su gloriosa sangre por el Señor, amaron a Cristo en su vida, lo imitaron en su muerte: por eso merecieron la corona triunfal."]]}],"it":[{"k":"p","lines":[["Hanno effuso per il Signore il loro sangue: hanno amato Cristo nella vita, lo hanno imitato nella morte; per questo hanno meritato la corona trionfale."]]}],"fr":[{"k":"p","lines":[["Les saints martyrs ont versé leur sang pour le Seigneur ;"],["par leur vie ils ont aimé le Christ,"],["ils l'ont imité dans leur mort,"],["méritant ainsi les couronnes des vainqueurs."]]}]},"part":"entranceAntiphon"},{"slot":"6","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"7","text":{"la":[{"k":"p","lines":[["Præsta, Dómine, précibus nostris cum exsultatióne provéntum, ut sanctórum mártyrum ",{"m":"rubric","t":"N. "},"et ",{"m":"rubric","t":"N."},", quorum diem passiónis ánnua devotióne recólimus, étiam fídei constántiam subsequámur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, ao comemorarmos todos os anos a paixão dos mártires ",{"m":"rubric","t":"N. "},"e ",{"m":"rubric","t":"N."},", dai-nos a alegria de ver atendidas as nossas preces, para também imitarmos sua constância na fé. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant a joyful outcome to our prayers, O Lord, so that we, who each year devoutly honor the day of the passion of the holy Martyrs ",{"m":"rubric","t":"N."}," and ",{"m":"rubric","t":"N."},", may also imitate the constancy of their faith."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Escucha, Señor, las oraciones"],["que te dirigimos con alegría,"],["para que, al celebrar devotamente cada año"],["el día del martirio de los santos ",{"m":"rubric","t":"N."}," y ",{"m":"rubric","t":"N."},","],["imitemos también su constancia en la fe."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Donaci, o Signore, la gioia di essere esauditi nelle nostre preghiere perché, celebrando l'annuale memoria del martirio dei santi ",{"m":"rubric","t":"N. "},"e ",{"m":"rubric","t":"N."},", possiamo imitare la loro costanza nella fede. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Accorde-nous, Seigneur,"],["de récolter dans la joie le fruit de nos prières :"],["fais qu'en célébrant chaque année,"],["au jour de leur passion,"],["les saints martyrs ",{"m":"rubric","t":"N."}," et ",{"m":"rubric","t":"N."},","],["nous imitions aussi leur fermeté dans la foi."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, wir gedenken der heiligen Märtyrer ",{"m":"rubric","t":"N."}," und ",{"m":"rubric","t":"N."}," Sie haben für Christus das Leben geopfert: Gib auch uns die Kraft, dir im Glauben treu zu bleiben. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"8","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"9","text":{"la":[{"k":"p","lines":[["Súscipe, sancte Pater, múnera quæ in sanctórum mártyrum commemoratióne deférimus, et nobis fámulis tuis concéde, ut in confessióne tui nóminis inveníri stábiles mereámur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Pai santo, aceitai as oferendas que vos apresentamos"],["na comemoração dos santos mártires"],["e a nós, vossos servos e servas,"],["concedei a graça de permanecer firmes na confissão do vosso nome."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Receive, holy Father, the offerings we bring in commemoration of the holy Martyrs, and grant that we, your servants, may be found steadfast in confessing your name."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Recibe, Padre santo,"],["las ofrendas que te presentamos en la fiesta de tus santos mártires"],["y concédenos a nosotros, siervos tuyos,"],["permanecer siempre firmes"],["en la confesión de tu nombre."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, Padre santo, i doni che ti presentiamo nella memoria dei santi martiri ",{"m":"rubric","t":"N."}," e ",{"m":"rubric","t":"N."},"e concedi a noi, tuoi fedeli, di perseverare nella confessione del tuo nome. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Reçois, Père très saint,"],["les offrandes que nous te présentons"],["en faisant mémoire de tes saints martyrs ;"],["accorde aux serviteurs que nous sommes"],["d'être inébranlables"],["dans la confession de ton nom."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gott, unser Vater, am Gedenktag deiner heiligen Märtyrer ",{"m":"rubric","t":"N."}," und ",{"m":"rubric","t":"N."}," rufen wir zu dir: Gewähre uns jene Treue im Bekenntnis zu deinem Namen, die du ihnen geschenkt hast, und nimm unsere Gaben an, wie du das Opfer ihres Lebens angenommen hast. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"10","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"12","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Lc 22, 28-30"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Lc 22, 28-30"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Lk 22, 28-30"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Lc 22, 28-30"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Lc 22, 28-30"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Lc 22, 28-30"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Lk 22, 28-30"}]},"part":"communionAntiphon"},{"slot":"13","text":{"la":[{"k":"p","lines":[["Vos estis qui permansístis mecum in tentatiónibus meis, et ego dispóno vobis regnum, dicit Dóminus, ut edátis et bibátis super mensam meam in regno meo."]]}],"pt-BR":[{"k":"p","lines":[["Vós ficastes comigo em minhas provações."],["Por isso vos confio o reino."],["Vós havereis de comer e beber à minha mesa"],["no meu reino, diz o Senhor."]]}],"en-US":[{"k":"p","lines":[["It is you who have stood by me in my trials; and I confer a kingdom on you, says the Lord, that you may eat and drink at my table in my kingdom."]]}],"es":[{"k":"p","lines":[["Vosotros sois los que habéis perseverado conmigo en mis pruebas, y yo preparo para vosotros el reino, dice el Señor, para que comáis y bebáis a mi mesa en mi reino."]]}],"it":[{"k":"p","lines":[["«Voi siete quelli che avete perseverato con me nelle prove e io preparo per voi un regno perché mangiate e beviate alla mia mensa», dice il Signore."]]}],"fr":[{"k":"p","lines":[["Vous avez tenu bon avec moi dans mes épreuves."],["Et moi, je dispose pour vous du Royaume, dit le Seigneur ;"],["ainsi vous mangerez et boirez à ma table dans mon Royaume."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: In allen meinen Prüfungen seid ihr bei mir geblieben. Darum vererbe ich euch das Reich. Ihr sollt in meinem Reich mit mir an meinem Tisch essen und trinken."]]}]},"part":"communionAntiphon"},{"slot":"14","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel:"}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou:"}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien:"}]]}]},"part":"communionAntiphon","role":"rubric"},{"slot":"15","text":{"la":[{"k":"p","lines":[["Ecce merces Sanctórum copiósa est apud Deum: ipsi vero mórtui sunt pro Christo, et vivent in ætérnum."]]}],"pt-BR":[{"k":"p","lines":[["Como é grande a recompensa dos santos junto de Deus:"],["eles morreram por Cristo, e vivem eternamente."]]}],"en-US":[{"k":"p","lines":[["See how rich is the Saints' reward from God; they died for Christ and will live for ever."]]}],"es":[{"k":"p","lines":[["Esta es la gran recompensa de los santos junto a Dios: en verdad murieron por Cristo y viven eternamente."]]}],"it":[{"k":"p","lines":[["Traboccante è il premio dei santi presso Dio: morti per Cristo, vivranno in eterno."]]}],"fr":[{"k":"p","lines":[["Elle est grande auprès de Dieu, la récompense des saints :"],["ils sont morts pour le Christ et vivent à jamais."]]}]},"part":"communionAntiphon"},{"slot":"16","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"17","text":{"la":[{"k":"p","lines":[["Deus, qui crucis mystérium in sanctis martýribus tuis mirabíliter illustrásti, concéde propítius, ut, ex hoc sacrifício roboráti, Christo fidéliter hæreámus, et in Ecclésia ad salútem ómnium operémur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, manifestastes de modo admirável"],["o mistério da cruz em vossos santos mártires,"],["concedei-nos benigno que,"],["fortalecidos por este sacrifício,"],["permaneçamos fielmente unidos a Cristo"],["e trabalhemos na Igreja para a salvação de todos."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["O God, who in your holy Martyrs have wonderfully made known the mystery of the Cross, graciously grant that, drawing strength from this sacrifice, we may cling faithfully to Christ and labor in the Church for the salvation of all."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que iluminaste de modo admirable"],["el misterio de la cruz en tus santos mártires,"],["concédenos, por tu bondad, que, fortalecidos por este sacrificio,"],["permanezcamos siempre fieles a Cristo y trabajemos en la Iglesia"],["por la salvación de todos."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Dio, che nei tuoi santi martiri ci hai dato mirabili testimoni del mistero della croce, concedi che, rinvigoriti dalla comunione a questo sacrificio, aderiamo con piena fedeltà a Cristo e operiamo, nella Chiesa, per la salvezza di tutti. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["en tes saints martyrs"],["tu as fait resplendir de manière admirable"],["le mystère de la croix ;"],["puisque nous sommes fortifiés par ce sacrifice,"],["accorde-nous de rester fidèlement unis au Christ,"],["et de travailler dans l'Église au salut de tous."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast im Leben deiner heiligen Märtyrer das Geheimnis des Kreuzes aufleuchten lassen. Stärke uns durch das Opfer, das wir gefeiert haben, damit wir in der Nachfolge Christi ausharren und in deiner Kirche zum Heil der Menschen wirken. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.54","preface.55"],"title":{"la":"COMMUNE MARTYRUM","pt-BR":"COMUM DOS MÁRTIRES","en-US":"COMMON OF MARTYRS","es":"COMÚN DE MÁRTIRES","it":"COMUNE DEI MARTIRI","fr":"COMMUN DES MARTYRS","de":"COMMUNE-TEXTE FÜR MÄRTYRER"},"subtitle":{"la":"I. EXTRA TEMPUS PASCHALE A. Pro pluribus martyribus 1","pt-BR":"I. FORA DO TEMPO PASCAL A. Para vários mártires 1","en-US":"I. Outside Easter Time A. For Several Martyrs 1","es":"I. Fuera del tiempo pascual A. Para varios mártires 1","it":"I. Fuori del Tempo Pasquale A. Per più martiri 1.","fr":"I. HORS DU TEMPS PASCAL A. Pour plusieurs martyrs 1","de":"1. Für mehrere Märtyrer außerhalb der Osterzeit"}}
+{
+ "id": "common.martyrs.1",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE MARTYRUM"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. EXTRA TEMPUS PASCHALE"
+       ],
+       [
+        "A. Pro pluribus martyribus"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DOS MÁRTIRES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. FORA DO TEMPO PASCAL"
+       ],
+       [
+        "A. Para vários mártires"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF MARTYRS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Outside Easter Time"
+       ],
+       [
+        "A. For Several Martyrs"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE MÁRTIRES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Fuera del tiempo pascual"
+       ],
+       [
+        "A. Para varios mártires"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DEI MARTIRI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Fuori del Tempo Pasquale"
+       ],
+       [
+        "A. Per più martiri"
+       ],
+       [
+        "1."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DES MARTYRS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. HORS DU TEMPS PASCAL"
+       ],
+       [
+        "A. Pour plusieurs martyrs"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE FÜR MÄRTYRER"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. Für mehrere Märtyrer außerhalb der Osterzeit"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gaudent in cælis ánimæ Sanctórum, qui Christi vestígia sunt secúti; et quia pro eius amóre sánguinem suum fudérunt, ídeo cum Christo exsúltant sine fine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegram-se nos céus os santos"
+       ],
+       [
+        "que seguiram os passos de Cristo."
+       ],
+       [
+        "Por seu amor derramaram o próprio sangue;"
+       ],
+       [
+        "por isso, com ele exultam eternamente."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The souls of the Saints are rejoicing in heaven, the Saints who followed the footsteps of Christ, and since for love of him they shed their blood, they now exult with Christ for ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Las almas de los santos, que siguieron las huellas de Cristo, viven gozosas en el cielo. Derramaron la sangre por su amor, por eso se alegran con Cristo para siempre."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esultano in cielo le anime dei santi, che hanno seguito le orme di Cristo; per suo amore hanno effuso il proprio sangue, ora con Cristo gioiscono per sempre."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Elles se réjouissent dans les cieux,"
+       ],
+       [
+        "les âmes des saints qui ont suivi les traces du Christ ;"
+       ],
+       [
+        "ils ont répandu leur sang par amour pour lui :"
+       ],
+       [
+        "c'est pourquoi ils exultent avec lui pour l'éternité."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Im Himmel freuen sich die Heiligen, die Christus nachgefolgt sind bis in den Tod. Aus Liebe zu Christus haben sie ihr Blut vergossen; nun herrschen sie mit ihm in Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Viri sancti gloriósum sánguinem fudérunt pro Dómino, amavérunt Christum in vita sua, imitáti sunt eum in morte sua: et ídeo corónas triumpháles meruérunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por causa do Senhor"
+       ],
+       [
+        "homens santos derramaram seu sangue glorioso,"
+       ],
+       [
+        "amaram Cristo em sua vida e, na sua morte, o imitaram;"
+       ],
+       [
+        "por isso, mereceram coroas de vitória."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Holy men shed their glorious blood for the Lord; they loved Christ in their life, they imitated him in their death, and therefore were crowned in triumph."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los santos derramaron su gloriosa sangre por el Señor, amaron a Cristo en su vida, lo imitaron en su muerte: por eso merecieron la corona triunfal."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hanno effuso per il Signore il loro sangue: hanno amato Cristo nella vita, lo hanno imitato nella morte; per questo hanno meritato la corona trionfale."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les saints martyrs ont versé leur sang pour le Seigneur ;"
+       ],
+       [
+        "par leur vie ils ont aimé le Christ,"
+       ],
+       [
+        "ils l'ont imité dans leur mort,"
+       ],
+       [
+        "méritant ainsi les couronnes des vainqueurs."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Præsta, Dómine, précibus nostris cum exsultatióne provéntum, ut sanctórum mártyrum ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "et ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", quorum diem passiónis ánnua devotióne recólimus, étiam fídei constántiam subsequámur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, ao comemorarmos todos os anos a paixão dos mártires ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "e ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", dai-nos a alegria de ver atendidas as nossas preces, para também imitarmos sua constância na fé. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant a joyful outcome to our prayers, O Lord, so that we, who each year devoutly honor the day of the passion of the holy Martyrs ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " and ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", may also imitate the constancy of their faith."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escucha, Señor, las oraciones"
+       ],
+       [
+        "que te dirigimos con alegría,"
+       ],
+       [
+        "para que, al celebrar devotamente cada año"
+       ],
+       [
+        "el día del martirio de los santos ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " y ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "imitemos también su constancia en la fe."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Donaci, o Signore, la gioia di essere esauditi nelle nostre preghiere perché, celebrando l'annuale memoria del martirio dei santi ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "e ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", possiamo imitare la loro costanza nella fede. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accorde-nous, Seigneur,"
+       ],
+       [
+        "de récolter dans la joie le fruit de nos prières :"
+       ],
+       [
+        "fais qu'en célébrant chaque année,"
+       ],
+       [
+        "au jour de leur passion,"
+       ],
+       [
+        "les saints martyrs ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " et ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "nous imitions aussi leur fermeté dans la foi."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, wir gedenken der heiligen Märtyrer ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " und ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " Sie haben für Christus das Leben geopfert: Gib auch uns die Kraft, dir im Glauben treu zu bleiben. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súscipe, sancte Pater, múnera quæ in sanctórum mártyrum commemoratióne deférimus, et nobis fámulis tuis concéde, ut in confessióne tui nóminis inveníri stábiles mereámur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pai santo, aceitai as oferendas que vos apresentamos"
+       ],
+       [
+        "na comemoração dos santos mártires"
+       ],
+       [
+        "e a nós, vossos servos e servas,"
+       ],
+       [
+        "concedei a graça de permanecer firmes na confissão do vosso nome."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Receive, holy Father, the offerings we bring in commemoration of the holy Martyrs, and grant that we, your servants, may be found steadfast in confessing your name."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recibe, Padre santo,"
+       ],
+       [
+        "las ofrendas que te presentamos en la fiesta de tus santos mártires"
+       ],
+       [
+        "y concédenos a nosotros, siervos tuyos,"
+       ],
+       [
+        "permanecer siempre firmes"
+       ],
+       [
+        "en la confesión de tu nombre."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, Padre santo, i doni che ti presentiamo nella memoria dei santi martiri ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " e ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        "e concedi a noi, tuoi fedeli, di perseverare nella confessione del tuo nome. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reçois, Père très saint,"
+       ],
+       [
+        "les offrandes que nous te présentons"
+       ],
+       [
+        "en faisant mémoire de tes saints martyrs ;"
+       ],
+       [
+        "accorde aux serviteurs que nous sommes"
+       ],
+       [
+        "d'être inébranlables"
+       ],
+       [
+        "dans la confession de ton nom."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Vater, am Gedenktag deiner heiligen Märtyrer ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " und ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " rufen wir zu dir: Gewähre uns jene Treue im Bekenntnis zu deinem Namen, die du ihnen geschenkt hast, und nimm unsere Gaben an, wie du das Opfer ihres Lebens angenommen hast. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Lc 22, 28-30"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Lc 22, 28-30"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Lk 22, 28-30"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Lc 22, 28-30"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Lc 22, 28-30"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Lc 22, 28-30"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Lk 22, 28-30"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vos estis qui permansístis mecum in tentatiónibus meis, et ego dispóno vobis regnum, dicit Dóminus, ut edátis et bibátis super mensam meam in regno meo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vós ficastes comigo em minhas provações."
+       ],
+       [
+        "Por isso vos confio o reino."
+       ],
+       [
+        "Vós havereis de comer e beber à minha mesa"
+       ],
+       [
+        "no meu reino, diz o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is you who have stood by me in my trials; and I confer a kingdom on you, says the Lord, that you may eat and drink at my table in my kingdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vosotros sois los que habéis perseverado conmigo en mis pruebas, y yo preparo para vosotros el reino, dice el Señor, para que comáis y bebáis a mi mesa en mi reino."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Voi siete quelli che avete perseverato con me nelle prove e io preparo per voi un regno perché mangiate e beviate alla mia mensa», dice il Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vous avez tenu bon avec moi dans mes épreuves."
+       ],
+       [
+        "Et moi, je dispose pour vous du Royaume, dit le Seigneur ;"
+       ],
+       [
+        "ainsi vous mangerez et boirez à ma table dans mon Royaume."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: In allen meinen Prüfungen seid ihr bei mir geblieben. Darum vererbe ich euch das Reich. Ihr sollt in meinem Reich mit mir an meinem Tisch essen und trinken."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce merces Sanctórum copiósa est apud Deum: ipsi vero mórtui sunt pro Christo, et vivent in ætérnum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Como é grande a recompensa dos santos junto de Deus:"
+       ],
+       [
+        "eles morreram por Cristo, e vivem eternamente."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "See how rich is the Saints' reward from God; they died for Christ and will live for ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esta es la gran recompensa de los santos junto a Dios: en verdad murieron por Cristo y viven eternamente."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Traboccante è il premio dei santi presso Dio: morti per Cristo, vivranno in eterno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Elle est grande auprès de Dieu, la récompense des saints :"
+       ],
+       [
+        "ils sont morts pour le Christ et vivent à jamais."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui crucis mystérium in sanctis martýribus tuis mirabíliter illustrásti, concéde propítius, ut, ex hoc sacrifício roboráti, Christo fidéliter hæreámus, et in Ecclésia ad salútem ómnium operémur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, manifestastes de modo admirável"
+       ],
+       [
+        "o mistério da cruz em vossos santos mártires,"
+       ],
+       [
+        "concedei-nos benigno que,"
+       ],
+       [
+        "fortalecidos por este sacrifício,"
+       ],
+       [
+        "permaneçamos fielmente unidos a Cristo"
+       ],
+       [
+        "e trabalhemos na Igreja para a salvação de todos."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who in your holy Martyrs have wonderfully made known the mystery of the Cross, graciously grant that, drawing strength from this sacrifice, we may cling faithfully to Christ and labor in the Church for the salvation of all."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que iluminaste de modo admirable"
+       ],
+       [
+        "el misterio de la cruz en tus santos mártires,"
+       ],
+       [
+        "concédenos, por tu bondad, que, fortalecidos por este sacrificio,"
+       ],
+       [
+        "permanezcamos siempre fieles a Cristo y trabajemos en la Iglesia"
+       ],
+       [
+        "por la salvación de todos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che nei tuoi santi martiri ci hai dato mirabili testimoni del mistero della croce, concedi che, rinvigoriti dalla comunione a questo sacrificio, aderiamo con piena fedeltà a Cristo e operiamo, nella Chiesa, per la salvezza di tutti. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "en tes saints martyrs"
+       ],
+       [
+        "tu as fait resplendir de manière admirable"
+       ],
+       [
+        "le mystère de la croix ;"
+       ],
+       [
+        "puisque nous sommes fortifiés par ce sacrifice,"
+       ],
+       [
+        "accorde-nous de rester fidèlement unis au Christ,"
+       ],
+       [
+        "et de travailler dans l'Église au salut de tous."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast im Leben deiner heiligen Märtyrer das Geheimnis des Kreuzes aufleuchten lassen. Stärke uns durch das Opfer, das wir gefeiert haben, damit wir in der Nachfolge Christi ausharren und in deiner Kirche zum Heil der Menschen wirken. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "title": {
+  "la": "COMMUNE MARTYRUM",
+  "pt-BR": "COMUM DOS MÁRTIRES",
+  "en-US": "COMMON OF MARTYRS",
+  "es": "COMÚN DE MÁRTIRES",
+  "it": "COMUNE DEI MARTIRI",
+  "fr": "COMMUN DES MARTYRS",
+  "de": "COMMUNE-TEXTE FÜR MÄRTYRER"
+ },
+ "subtitle": {
+  "la": "I. EXTRA TEMPUS PASCHALE A. Pro pluribus martyribus 1",
+  "pt-BR": "I. FORA DO TEMPO PASCAL A. Para vários mártires 1",
+  "en-US": "I. Outside Easter Time A. For Several Martyrs 1",
+  "es": "I. Fuera del tiempo pascual A. Para varios mártires 1",
+  "it": "I. Fuori del Tempo Pasquale A. Per più martiri 1.",
+  "fr": "I. HORS DU TEMPS PASCAL A. Pour plusieurs martyrs 1",
+  "de": "1. Für mehrere Märtyrer außerhalb der Osterzeit"
+ }
+}

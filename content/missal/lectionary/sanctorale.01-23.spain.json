@@ -1,1 +1,39 @@
-{"id":"sanctorale.01-23.spain","source":"lecturas/lecturas_santos_ene#0123","items":[{"slot":"139","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["23 de enero"],["San Ildefonso, obispo"]]}]}},{"mark":"readings"}],"title":{"*":"San Ildefonso, obispo"}}
+{
+ "id": "sanctorale.01-23.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "23 de enero"
+       ],
+       [
+        "San Ildefonso, obispo"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "title": {
+  "*": "San Ildefonso, obispo"
+ }
+}

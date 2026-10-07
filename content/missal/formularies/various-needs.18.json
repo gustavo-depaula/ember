@@ -1,1 +1,1418 @@
-{"id":"various-needs.18","source":"comunes_votivas/diversas#div018","kind":"various-needs","items":[{"slot":"254","text":{"la":[{"k":"h2","lines":[["I. PRO SANCTA ECCLESIA"]]},{"k":"h3","lines":[["13. PRO RELIGIOSIS"],["A"]]}],"pt-BR":[{"k":"h2","lines":[["I. PELA SANTA IGREJA"]]},{"k":"h3","lines":[["13. PELOS RELIGIOSOS"],["A"]]}],"en-US":[{"k":"h2","lines":[["I. FOR HOLY CHURCH"]]},{"k":"h3","lines":[["13. FOR RELIGIOUS"],["A"]]}],"es":[{"k":"h2","lines":[["I. POR LA SANTA IGLESIA"]]},{"k":"h3","lines":[["13. POR LOS RELIGIOSOS"],["A"]]}],"it":[{"k":"h2","lines":[["I. PER LA SANTA CHIESA"]]},{"k":"h3","lines":[["13. PER I RELIGIOSI"],["A"]]}],"fr":[{"k":"h2","lines":[["I. POUR LA SAINTE ÉGLISE"]]},{"k":"h3","lines":[["13. POUR LES RELIGIEUX"],["A"]]}],"de":[{"k":"h2","lines":[["I. FÜR DIE HEILIGE KIRCHE"]]},{"k":"h3","lines":[["13. FÜR DIE ORDENSLEUTE"],["A"]]}]},"part":"title"},{"slot":"255","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ps 36, 3-4"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 36, 3-4"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Ps 37 (36): 3-4"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 36, 3-4"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 36, 3-4"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ps 36, 3-4"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 37 (36), 3-4"}]},"part":"entranceAntiphon"},{"slot":"256","text":{"la":[{"k":"p","lines":[["Spera in Dómino et fac bonitátem, et inhabitábis terram et pascéris in fide. Delectáre in Dómino, et dabit tibi petitiónes cordis tui."]]}],"pt-BR":[{"k":"p","lines":[["Confia no Senhor e faze o bem"],["e sobre a terra habitarás em segurança."],["Coloca no Senhor tua alegria"],["e ele dará o que pedir teu coração."]]}],"en-US":[{"k":"p","lines":[["Trust in the Lord and do good,"],["and you will dwell in the land and be secure. find your delight in the Lord,"],["and he will grant your heart's desire."]]}],"es":[{"k":"p","lines":[["Confía en el Señor y haz el bien: habitarás tu tierra y reposarás en ella en fidelidad; sea el Señor tu delicia, y él te dará lo que pide tu corazón."]]}],"fr":[{"k":"p","lines":[["Espère dans le Seigneur, agis bien :"],["tu habiteras la terre et tu seras nourri dans la confiance."],["Mets ta joie dans le Seigneur :"],["il comblera les désirs de ton cœur."]]}],"de":[{"k":"p","lines":[["Vertrau auf den Herrn und tu das Gute, bleib wohnen im Land und bewahre Treue! Freu dich innig am Herrn! Dann gibt er dir, was dein Herz begehrt."]]}]},"part":"entranceAntiphon"},{"slot":"257","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"258","text":{"la":[{"k":"p","lines":[["Deus, omnis boni propósiti inspirátor atque perféctor, dírige fámulos tuos in viam salútis ætérnæ, et, quos, relíctis ómnibus, tibi se totos devovérunt, fac, ut Christum sequéntes et ea quæ sunt sǽculi abnegántes, in spíritu paupertátis et cordis humilitáte tibi et frátribus suis fidéliter minístrent. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que inspirais e levais à perfeição todo o bom propósito,"],["guiai vossos servos e servas no caminho da salvação eterna."],["Aos que deixaram tudo"],["e se consagraram totalmente a vós,"],["seguindo a Cristo e renunciando aos bens deste mundo,"],["concedei que sirvam fielmente a vós e a seus irmãos e irmãs"],["em espírito de pobreza e humildade de coração."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who inspire and bring to fulfillment every good intention, direct your servants into the way of eternal salvation,"],["and, as they have left all things to devote themselves entirely to you, grant that, following Christ and renouncing the things of this world, they may faithfully serve you and their neighbor"],["in a spirit of poverty and in humility of heart."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que inspiras y realizas todo buen propósito,"],["dirige a tus hijos por el camino de la salvación eterna,"],["y haz que cuantos se entregaron a ti, abandonándolo todo,"],["sigan a Cristo, renuncien al mundo"],["y te sirvan a ti y a sus hermanos"],["con espíritu de pobreza y humildad de corazón."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che ispiri e porti a compimento ogni santo proposito, guida i tuoi fedeli sulla via della salvezza eterna, e a coloro che, lasciata ogni cosa, hanno votato a te la loro vita, concedi di seguire Cristo, rinunciando a quanto appartiene alla terra, per servire te e i loro fratelli in spirito di povertà e umiltà di cuore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["toi qui inspires et mènes à son accomplissement"],["tout engagement à la vie religieuse,"],["dirige tes serviteurs sur le chemin du salut éternel ;"],["regarde ceux qui ont tout quitté"],["pour se consacrer entièrement à toi ;"],["fais qu'en suivant le Christ et en renonçant au monde,"],["ils se donnent fidèlement à ton service"],["et à celui de leurs frères,"],["dans un esprit de pauvreté et l'humilité du cœur."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles"]]}],"de":[{"k":"p","lines":[["Gott, alles Gute, das wir wollen, hast du uns eingegeben, und du hilfst uns, es zu vollbringen. Du berufst Männer und Frauen, alles zu verlassen, um Christus nachzufolgen. Führe sie auf dem Weg des Heiles, gib, dass sie sich um den Geist der Armut und der Demut mühen und dir und den Menschen dienen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"259","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"260","text":{"la":[{"k":"p","lines":[["Sanctífica, quǽsumus, Dómine, per hæc sancta quæ tibi offérimus, fámulos tuos, quos in nómine tuo congregásti, ut, fidéliter vota sua tibi reddéntes, maiestáti tuæ sincéro corde desérviant. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, pelo sacrifício que vos apresentamos,"],["santificai os vossos servos e servas, congregados em vosso nome,"],["para que, vos oferecendo fielmente os seus votos,"],["sirvam de coração sincero à vossa majestade."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Sanctify, we pray, O Lord,"],["through these holy things we offer you,"],["the servants you have gathered in your name,"],["so that, faithfully fulfilling their vows to you, they may serve your majesty in sincerity of heart."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, por estos dones santos que te ofrecemos,"],["santifica a tus hijos,"],["a los que has congregado en tu nombre,"],["para que cumpliendo fielmente sus votos"],["puedan servirte con sincero corazón."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Per questi santi doni a te offerti santifica, o Signore, i tuoi figli ",{"m":"rubric","t":"["},"le tue figlie",{"m":"rubric","t":"]"}," che hai radunato nel tuo nome, perché, nel fedele adempimento dei voti professati, si pongano con cuore sincero a servizio della tua gloria. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Par les offrandes qui te sont consacrées,"],["sanctifie, nous t'en prions, Seigneur,"],["tes serviteurs que tu as rassemblés en ton nom :"],["qu'ils soient fidèles à leurs vœux,"],["et servent ta gloire d'un cœur sincère."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, durch die Opfergaben. die wir dir darbringen, heilige alle, die du zum Ordensleben berufen hast. Gib, dass sie ihren Gelübden treu bleiben und dir, dem Gott der Herrlichkeit, mit aufrichtigem Herzen dienen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"261","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"1 Reg 19, 7"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"1Rs 19, 7"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"1 Kgs 19: 7"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"1 Reg 19, 7"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"1 Re 19, 7"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"1 Reg 19, 7"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"1 Kön 19, 7"}]},"part":"communionAntiphon"},{"slot":"262","text":{"la":[{"k":"p","lines":[["Angelus Dómini dixit Elíæ: Surge, cómede; grandis enim tibi restat via."]]}],"pt-BR":[{"k":"p","lines":[["O anjo do Senhor disse a Elias:"],["Levanta-te e come!"],["Ainda tens um caminho longo a percorrer."]]}],"en-US":[{"k":"p","lines":[["The angel of the Lord said to elijah:"],["get up and eat, else the journey will be too much for you!"]]}],"es":[{"k":"p","lines":[["El ángel del Señor dijo a Elías: «Levántate y come, pues el camino es largo»."]]}],"it":[{"k":"p","lines":[["L'angelo del Signore disse a Elia: «Alzati, mangia, troppo lungo è per te il cammino»."]]}],"fr":[{"k":"p","lines":[["L'ange du Seigneur dit au prophète Élie :"],["« Lève-toi et mange,"],["car long est le chemin qui te reste. »"]]}],"de":[{"k":"p","lines":[["Der Engel des Herrn sprach zu Elija: Steh auf und iss! Sonst ist der Weg zu weit für dich."]]}]},"part":"communionAntiphon"},{"slot":"263","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Ap 22, 17. 20"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Ap 22, 17. 20"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]],"cite":"Rev 22: 17, 20"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Ap 22, 17. 20"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]],"cite":"Cf. Ap 22, 17.20"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Ap 22, 17. 20"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Offb 22, 17a. 20"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"264","text":{"la":[{"k":"p","lines":[["Spíritus et sponsa dicunt: Veni. Amen. Veni, Dómine Iesu."]]}],"pt-BR":[{"k":"p","lines":[["O Espírito e a Esposa dizem: Vem!"],["Amém! Vem, Senhor Jesus!"]]}],"en-US":[{"k":"p","lines":[["The Spirit and the bride say: come. Amen. come, Lord Jesus."]]}],"es":[{"k":"p","lines":[["El Espíritu y la esposa dicen: «Ven. Amén. Ven, Señor Jesús»."]]}],"it":[{"k":"p","lines":[["Lo Spirito e la sposa dicono: «Vieni! Amen. Vieni, Signore Gesù»."]]}],"fr":[{"k":"p","lines":[["L'Esprit et l'Épouse disent : « Viens ! »"],["Amen ! Viens, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[["Der Geist und die Braut sagen: Komm! Amen! Komm, Herr Jesus!"]]}]},"part":"communionAntiphon"},{"slot":"265","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"266","text":{"la":[{"k":"p","lines":[["Servos tuos, Dómine, in amóre tuo congregátos et de uno pane participántes, da unánimes consideráre ínvicem in provocatiónem caritátis et bonórum óperum, ut eórum sancta conversatióne Christi testes veri ubíque exhibeántur. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, concedei a vossos servos e servas,"],["congregados em vosso amor e participantes do mesmo pão,"],["animar-se mutuamente na caridade e nas boas obras,"],["para que, em toda parte, pela santidade de sua vida,"],["se apresentem como verdadeiras testemunhas de Cristo,"],["que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, O Lord, that your servants,"],["gathered in your love and partaking of the one Bread,"],["may be of one heart in prompting each other"],["in the pursuit of charity and good works,"],["so that through a holy way of life"],["they may always and everywhere be true witnesses to Christ. Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Concede, Señor, a tus siervos,"],["unidos en tu amor"],["y partícipe&de un mismo pan,"],["animarse mutuamente unos a otros"],["en la práctica de la caridad y de las buenas obras,"],["para que puedan presentarse en todas partes"],["como verdaderos testigos de Cristo"],["por su conducta santa."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Ai tuoi figli riuniti [alle tue figlie riunite] nel tuo amore e partecipi di un solo pane, dona, o Signore, di essere unanimi nell'incoraggiarsi a vicenda alla carità e alle buone opere, perché con la santità della loro vita siano in ogni luogo testimoni autentici ",{"m":"rubric","t":"["},"autentiche",{"m":"rubric","t":"]"}," di Cristo. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Tu rassembles tes serviteurs dans ton amour, Seigneur,"],["et tu leur donnes d'avoir part à un seul pain ;"],["accorde-leur de porter les uns sur les autres"],["un regard qui construise l'unité ;"],["qu'ils s'entraînent mutuellement à vivre dans la charité"],["et à faire le bien,"],["de sorte que, par la sainteté de leur vie,"],["on reconnaisse partout en eux"],["de vrais témoins du Christ."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du verbindest deine Söhne ",{"m":"rubric","t":"("},"Töchter",{"m":"rubric","t":")"}," zur Gemeinschaft in deiner Liebe und reichst ihnen das eine Brot des Lebens. Gib, dass sie einander hochschätzen, in gegenseitigem Ansporn reich werden an guten Werken und so Christus vor den Menschen bezeugen, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"postcommunion"}],"title":{"la":"I. PRO SANCTA ECCLESIA","pt-BR":"I. PELA SANTA IGREJA","en-US":"I. FOR HOLY CHURCH","es":"I. POR LA SANTA IGLESIA","it":"I. PER LA SANTA CHIESA","fr":"I. POUR LA SAINTE ÉGLISE","de":"I. FÜR DIE HEILIGE KIRCHE"},"subtitle":{"la":"13. PRO RELIGIOSIS A","pt-BR":"13. PELOS RELIGIOSOS A","en-US":"13. FOR RELIGIOUS A","es":"13. POR LOS RELIGIOSOS A","it":"13. PER I RELIGIOSI A","fr":"13. POUR LES RELIGIEUX A","de":"13. FÜR DIE ORDENSLEUTE A"}}
+{
+ "id": "various-needs.18",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PRO SANCTA ECCLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "13. PRO RELIGIOSIS"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PELA SANTA IGREJA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "13. PELOS RELIGIOSOS"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FOR HOLY CHURCH"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "13. FOR RELIGIOUS"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POR LA SANTA IGLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "13. POR LOS RELIGIOSOS"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PER LA SANTA CHIESA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "13. PER I RELIGIOSI"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POUR LA SAINTE ÉGLISE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "13. POUR LES RELIGIEUX"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FÜR DIE HEILIGE KIRCHE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "13. FÜR DIE ORDENSLEUTE"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ps 36, 3-4"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 36, 3-4"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Ps 37 (36): 3-4"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 36, 3-4"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 36, 3-4"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ps 36, 3-4"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 37 (36), 3-4"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Spera in Dómino et fac bonitátem, et inhabitábis terram et pascéris in fide. Delectáre in Dómino, et dabit tibi petitiónes cordis tui."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confia no Senhor e faze o bem"
+       ],
+       [
+        "e sobre a terra habitarás em segurança."
+       ],
+       [
+        "Coloca no Senhor tua alegria"
+       ],
+       [
+        "e ele dará o que pedir teu coração."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Trust in the Lord and do good,"
+       ],
+       [
+        "and you will dwell in the land and be secure. find your delight in the Lord,"
+       ],
+       [
+        "and he will grant your heart's desire."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confía en el Señor y haz el bien: habitarás tu tierra y reposarás en ella en fidelidad; sea el Señor tu delicia, y él te dará lo que pide tu corazón."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Espère dans le Seigneur, agis bien :"
+       ],
+       [
+        "tu habiteras la terre et tu seras nourri dans la confiance."
+       ],
+       [
+        "Mets ta joie dans le Seigneur :"
+       ],
+       [
+        "il comblera les désirs de ton cœur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vertrau auf den Herrn und tu das Gute, bleib wohnen im Land und bewahre Treue! Freu dich innig am Herrn! Dann gibt er dir, was dein Herz begehrt."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, omnis boni propósiti inspirátor atque perféctor, dírige fámulos tuos in viam salútis ætérnæ, et, quos, relíctis ómnibus, tibi se totos devovérunt, fac, ut Christum sequéntes et ea quæ sunt sǽculi abnegántes, in spíritu paupertátis et cordis humilitáte tibi et frátribus suis fidéliter minístrent. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que inspirais e levais à perfeição todo o bom propósito,"
+       ],
+       [
+        "guiai vossos servos e servas no caminho da salvação eterna."
+       ],
+       [
+        "Aos que deixaram tudo"
+       ],
+       [
+        "e se consagraram totalmente a vós,"
+       ],
+       [
+        "seguindo a Cristo e renunciando aos bens deste mundo,"
+       ],
+       [
+        "concedei que sirvam fielmente a vós e a seus irmãos e irmãs"
+       ],
+       [
+        "em espírito de pobreza e humildade de coração."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who inspire and bring to fulfillment every good intention, direct your servants into the way of eternal salvation,"
+       ],
+       [
+        "and, as they have left all things to devote themselves entirely to you, grant that, following Christ and renouncing the things of this world, they may faithfully serve you and their neighbor"
+       ],
+       [
+        "in a spirit of poverty and in humility of heart."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que inspiras y realizas todo buen propósito,"
+       ],
+       [
+        "dirige a tus hijos por el camino de la salvación eterna,"
+       ],
+       [
+        "y haz que cuantos se entregaron a ti, abandonándolo todo,"
+       ],
+       [
+        "sigan a Cristo, renuncien al mundo"
+       ],
+       [
+        "y te sirvan a ti y a sus hermanos"
+       ],
+       [
+        "con espíritu de pobreza y humildad de corazón."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che ispiri e porti a compimento ogni santo proposito, guida i tuoi fedeli sulla via della salvezza eterna, e a coloro che, lasciata ogni cosa, hanno votato a te la loro vita, concedi di seguire Cristo, rinunciando a quanto appartiene alla terra, per servire te e i loro fratelli in spirito di povertà e umiltà di cuore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "toi qui inspires et mènes à son accomplissement"
+       ],
+       [
+        "tout engagement à la vie religieuse,"
+       ],
+       [
+        "dirige tes serviteurs sur le chemin du salut éternel ;"
+       ],
+       [
+        "regarde ceux qui ont tout quitté"
+       ],
+       [
+        "pour se consacrer entièrement à toi ;"
+       ],
+       [
+        "fais qu'en suivant le Christ et en renonçant au monde,"
+       ],
+       [
+        "ils se donnent fidèlement à ton service"
+       ],
+       [
+        "et à celui de leurs frères,"
+       ],
+       [
+        "dans un esprit de pauvreté et l'humilité du cœur."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, alles Gute, das wir wollen, hast du uns eingegeben, und du hilfst uns, es zu vollbringen. Du berufst Männer und Frauen, alles zu verlassen, um Christus nachzufolgen. Führe sie auf dem Weg des Heiles, gib, dass sie sich um den Geist der Armut und der Demut mühen und dir und den Menschen dienen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sanctífica, quǽsumus, Dómine, per hæc sancta quæ tibi offérimus, fámulos tuos, quos in nómine tuo congregásti, ut, fidéliter vota sua tibi reddéntes, maiestáti tuæ sincéro corde desérviant. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, pelo sacrifício que vos apresentamos,"
+       ],
+       [
+        "santificai os vossos servos e servas, congregados em vosso nome,"
+       ],
+       [
+        "para que, vos oferecendo fielmente os seus votos,"
+       ],
+       [
+        "sirvam de coração sincero à vossa majestade."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sanctify, we pray, O Lord,"
+       ],
+       [
+        "through these holy things we offer you,"
+       ],
+       [
+        "the servants you have gathered in your name,"
+       ],
+       [
+        "so that, faithfully fulfilling their vows to you, they may serve your majesty in sincerity of heart."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, por estos dones santos que te ofrecemos,"
+       ],
+       [
+        "santifica a tus hijos,"
+       ],
+       [
+        "a los que has congregado en tu nombre,"
+       ],
+       [
+        "para que cumpliendo fielmente sus votos"
+       ],
+       [
+        "puedan servirte con sincero corazón."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per questi santi doni a te offerti santifica, o Signore, i tuoi figli ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "le tue figlie",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " che hai radunato nel tuo nome, perché, nel fedele adempimento dei voti professati, si pongano con cuore sincero a servizio della tua gloria. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Par les offrandes qui te sont consacrées,"
+       ],
+       [
+        "sanctifie, nous t'en prions, Seigneur,"
+       ],
+       [
+        "tes serviteurs que tu as rassemblés en ton nom :"
+       ],
+       [
+        "qu'ils soient fidèles à leurs vœux,"
+       ],
+       [
+        "et servent ta gloire d'un cœur sincère."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, durch die Opfergaben. die wir dir darbringen, heilige alle, die du zum Ordensleben berufen hast. Gib, dass sie ihren Gelübden treu bleiben und dir, dem Gott der Herrlichkeit, mit aufrichtigem Herzen dienen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "1 Reg 19, 7"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "1Rs 19, 7"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "1 Kgs 19: 7"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "1 Reg 19, 7"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "1 Re 19, 7"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "1 Reg 19, 7"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "1 Kön 19, 7"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Angelus Dómini dixit Elíæ: Surge, cómede; grandis enim tibi restat via."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O anjo do Senhor disse a Elias:"
+       ],
+       [
+        "Levanta-te e come!"
+       ],
+       [
+        "Ainda tens um caminho longo a percorrer."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The angel of the Lord said to elijah:"
+       ],
+       [
+        "get up and eat, else the journey will be too much for you!"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El ángel del Señor dijo a Elías: «Levántate y come, pues el camino es largo»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'angelo del Signore disse a Elia: «Alzati, mangia, troppo lungo è per te il cammino»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'ange du Seigneur dit au prophète Élie :"
+       ],
+       [
+        "« Lève-toi et mange,"
+       ],
+       [
+        "car long est le chemin qui te reste. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Engel des Herrn sprach zu Elija: Steh auf und iss! Sonst ist der Weg zu weit für dich."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Ap 22, 17. 20"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Ap 22, 17. 20"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ],
+      "cite": "Rev 22: 17, 20"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Ap 22, 17. 20"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Cf. Ap 22, 17.20"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Ap 22, 17. 20"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Offb 22, 17a. 20"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Spíritus et sponsa dicunt: Veni. Amen. Veni, Dómine Iesu."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Espírito e a Esposa dizem: Vem!"
+       ],
+       [
+        "Amém! Vem, Senhor Jesus!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Spirit and the bride say: come. Amen. come, Lord Jesus."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Espíritu y la esposa dicen: «Ven. Amén. Ven, Señor Jesús»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lo Spirito e la sposa dicono: «Vieni! Amen. Vieni, Signore Gesù»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'Esprit et l'Épouse disent : « Viens ! »"
+       ],
+       [
+        "Amen ! Viens, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Geist und die Braut sagen: Komm! Amen! Komm, Herr Jesus!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Servos tuos, Dómine, in amóre tuo congregátos et de uno pane participántes, da unánimes consideráre ínvicem in provocatiónem caritátis et bonórum óperum, ut eórum sancta conversatióne Christi testes veri ubíque exhibeántur. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, concedei a vossos servos e servas,"
+       ],
+       [
+        "congregados em vosso amor e participantes do mesmo pão,"
+       ],
+       [
+        "animar-se mutuamente na caridade e nas boas obras,"
+       ],
+       [
+        "para que, em toda parte, pela santidade de sua vida,"
+       ],
+       [
+        "se apresentem como verdadeiras testemunhas de Cristo,"
+       ],
+       [
+        "que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, O Lord, that your servants,"
+       ],
+       [
+        "gathered in your love and partaking of the one Bread,"
+       ],
+       [
+        "may be of one heart in prompting each other"
+       ],
+       [
+        "in the pursuit of charity and good works,"
+       ],
+       [
+        "so that through a holy way of life"
+       ],
+       [
+        "they may always and everywhere be true witnesses to Christ. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concede, Señor, a tus siervos,"
+       ],
+       [
+        "unidos en tu amor"
+       ],
+       [
+        "y partícipe&de un mismo pan,"
+       ],
+       [
+        "animarse mutuamente unos a otros"
+       ],
+       [
+        "en la práctica de la caridad y de las buenas obras,"
+       ],
+       [
+        "para que puedan presentarse en todas partes"
+       ],
+       [
+        "como verdaderos testigos de Cristo"
+       ],
+       [
+        "por su conducta santa."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ai tuoi figli riuniti [alle tue figlie riunite] nel tuo amore e partecipi di un solo pane, dona, o Signore, di essere unanimi nell'incoraggiarsi a vicenda alla carità e alle buone opere, perché con la santità della loro vita siano in ogni luogo testimoni autentici ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "autentiche",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " di Cristo. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu rassembles tes serviteurs dans ton amour, Seigneur,"
+       ],
+       [
+        "et tu leur donnes d'avoir part à un seul pain ;"
+       ],
+       [
+        "accorde-leur de porter les uns sur les autres"
+       ],
+       [
+        "un regard qui construise l'unité ;"
+       ],
+       [
+        "qu'ils s'entraînent mutuellement à vivre dans la charité"
+       ],
+       [
+        "et à faire le bien,"
+       ],
+       [
+        "de sorte que, par la sainteté de leur vie,"
+       ],
+       [
+        "on reconnaisse partout en eux"
+       ],
+       [
+        "de vrais témoins du Christ."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du verbindest deine Söhne ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Töchter",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " zur Gemeinschaft in deiner Liebe und reichst ihnen das eine Brot des Lebens. Gib, dass sie einander hochschätzen, in gegenseitigem Ansporn reich werden an guten Werken und so Christus vor den Menschen bezeugen, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "la": "I. PRO SANCTA ECCLESIA",
+  "pt-BR": "I. PELA SANTA IGREJA",
+  "en-US": "I. FOR HOLY CHURCH",
+  "es": "I. POR LA SANTA IGLESIA",
+  "it": "I. PER LA SANTA CHIESA",
+  "fr": "I. POUR LA SAINTE ÉGLISE",
+  "de": "I. FÜR DIE HEILIGE KIRCHE"
+ },
+ "subtitle": {
+  "la": "13. PRO RELIGIOSIS A",
+  "pt-BR": "13. PELOS RELIGIOSOS A",
+  "en-US": "13. FOR RELIGIOUS A",
+  "es": "13. POR LOS RELIGIOSOS A",
+  "it": "13. PER I RELIGIOSI A",
+  "fr": "13. POUR LES RELIGIEUX A",
+  "de": "13. FÜR DIE ORDENSLEUTE A"
+ }
+}

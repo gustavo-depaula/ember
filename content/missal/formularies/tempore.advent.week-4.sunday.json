@@ -1,1 +1,1433 @@
-{"id":"tempore.advent.week-4.sunday","source":"tiempos/tiempos_advnav#A040","kind":"tempore","items":[{"slot":"252","text":{"la":[{"k":"h2","lines":[["DOMINICA IV ADVENTUS"]]}],"pt-BR":[{"k":"h2","lines":[["QUARTO DOMINGO DO ADVENTO"]]}],"en-US":[{"k":"h2","lines":[["Advent Season"],["4th Week: Sunday"]]}],"es":[{"k":"h2","lines":[["IV DOMINGO DE ADVIENTO"]]}],"it":[{"k":"h2","lines":[["IV DOMENICA DI AVVENTO"]]}],"fr":[{"k":"h2","lines":[["4ème DIMANCHE DE L'AVENT"]]}],"de":[{"k":"h2","lines":[["4. ADVENTSONNTAG"]]}]},"part":"title"},{"slot":"253","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Is 45, 8"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Is 45, 8"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Is 45: 8"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Is 45, 8"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Is 45, 8"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Is 45, 8"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Jes 45, 8"}]},"part":"entranceAntiphon"},{"slot":"254","text":{"la":[{"k":"p","lines":[["Roráte, cæli, désuper, et nubes pluant iustum; aperiátur terra et gérminet Salvatórem."]]}],"pt-BR":[{"k":"p","lines":[["Céus, deixai cair o orvalho,"],["as nuvens façam chover o justo;"],["abra-se a terra, e deixe germinar o Salvador!"]]}],"en-US":[{"k":"p","lines":[["Drop down dew from above, you heavens,"],["and let the clouds rain down the Just One;"],["let the earth be opened and bring forth a Savior."]]}],"es":[{"k":"p","lines":[["Cielos, destilad desde lo alto; nubes derramad al Justo; ábrase la tierra y brote al Salvador."]]}],"it":[{"k":"p","lines":[["Stillate, cieli, dall'alto, le nubi facciano piovere il Giusto; si apra la terra e germogli il Salvatore."]]}],"fr":[{"k":"p","lines":[["Cieux, distillez d'en haut votre rosée,"],["que descende le Juste, comme une pluie,"],["que la terre s'ouvre, et que germe le Sauveur."]]}],"de":[{"k":"p","lines":[["Tauet, ihr Himmel, von oben! Ihr Wolken, regnet herab den Gerechten! Tu dich auf, o Erde, und sprosse den Heiland hervor!"]]}]},"part":"entranceAntiphon"},{"slot":"255","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Non dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Não se diz o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is not said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"No se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Non si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On ne dit pas le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Kein "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}]},"part":"gloria"},{"slot":"256","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"257","text":{"la":[{"k":"p","lines":[["Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde, ut qui, Angelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, per passiónem eius et crucem ad resurrectiónis glóriam perducámur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Infundi, Senhor, a vossa graça em nossos corações"],["para que, conhecendo pela anunciação do anjo"],["a encarnação de Jesus Cristo, vosso Filho,"],["cheguemos, por sua paixão e cruz,"],["à glória da ressurreição."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Pour forth, we beseech you, O Lord,"],["your grace into our hearts,"],["that we, to whom the Incarnation of Christ your Son"],["was made known by the message of an Angel,"],["may by his Passion and Cross"],["be brought to the glory of his Resurrection."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Derrama, Señor,"],["tu gracia en nuestros corazones,"],["para que, quienes hemos conocido, por el anuncio del ángel,"],["la encarnación de Cristo, tu Hijo,"],["lleguemos, por su pasión y su cruz,"],["a la gloria de la resurrección."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Infondi nel nostro spirito la tua grazia, o Padre: tu, che all'annuncio dell'angelo ci hai rivelato l'incarnazione di Cristo tuo Figlio, per la sua passione e la sua croce guidaci alla gloria della risurrezione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Nous te prions, Seigneur, de répandre ta grâce en nos cœurs ;"],["par le message de l'Ange, tu nous as fait connaître"],["l'incarnation de ton Fils bien-aimé ;"],["conduis-nous par sa passion et par sa croix"],["jusqu'à la gloire de la résurrection."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, gieße deine Gnade in unsere Herzen ein. Durch die Botschaft des Engels haben wir die Menschwerdung Christi, deines Sohnes, erkannt. Führe uns durch sein Leiden und Kreuz zur Herrlichkeit der Auferstehung. Darum bitten wir durch ihn, Jesus Christus."]]}]},"part":"collect"},{"slot":"258","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur Credo."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o Creio."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Credo"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le Credo."}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Credo."}]]}]},"part":"creed"},{"slot":"259","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"260","text":{"la":[{"k":"p","lines":[["Altári tuo, Dómine, superpósita múnera Spíritus ille sanctíficet, qui beátæ Maríæ víscera sua virtúte replévit. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, o mesmo Espírito Santo"],["que com seu poder fecundou o seio de Maria,"],["santifique estas oferendas,"],["colocadas sobre o vosso altar."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May the Holy Spirit, O Lord,"],["sanctify these gifts laid upon your altar,"],["just as he filled with his power the womb of the Blessed Virgin Mary."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["El mismo Espíritu,"],["que colmó con su poder las entrañas de santa María,"],["santifique, Señor,"],["estos dones que hemos colocado sobre tu altar."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, o Signore, i doni che abbiamo deposto sull'altare e consacrali con la potenza del tuo Spirito che santificò il grembo della Vergine Maria. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Ces offrandes déposées sur ton autel, Seigneur,"],["que l'Esprit les sanctifie,"],["lui dont la puissance a fécondé"],["le sein de la bienheureuse Marie."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, wir legen die Gaben auf den Altar. Heilige sie durch deinen Geist, der mit seiner Kraft die Jungfrau Maria überschattet hat. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"262","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Is 7, 14"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Is 7, 14"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Is 7: 14"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Is 7, 14"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Is 7, 14"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Is 7, 14"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Jes 7, 14"}]},"part":"communionAntiphon"},{"slot":"263","text":{"la":[{"k":"p","lines":[["Ecce Virgo concípiet, et páriet fílium; et vocábitur nomen eius Emmánuel."]]}],"pt-BR":[{"k":"p","lines":[["Eis que uma virgem conceberá e dará à luz um filho;"],["e lhe porá o nome de Emanuel."]]}],"en-US":[{"k":"p","lines":[["Behold a Virgin shall conceive and bear a son; and his name will be called Emmanuel."]]}],"es":[{"k":"p","lines":[["Mirad: la Virgen está encinta y da a luz un hijo, y le pondrá por nombre Enmanuel."]]}],"it":[{"k":"p","lines":[["Ecco, la Vergine concepirà e darà alla luce un figlio: chiamerà Emmanuele, Dio con noi."],[{"m":"rubric","t":"★ A "}],["Giuseppe, non temere: Maria darà alla luce un figlio e tu lo chiamerai Gesù. Egli salverà il suo popolo."],[{"m":"rubric","t":"★ B "}],["Ecco la serva del Signore: avvenga per me secondo la tua parola."],[{"m":"rubric","t":"★ C "}],["Beata sei tu, Vergine Maria, perché hai creduto: in te si è compiuta la parola del Signore."]],"cite":"Cf. Lc 1, 45"}],"fr":[{"k":"p","lines":[["Voici que la Vierge concevra,"],["elle enfantera un fils,"],["auquel on donnera le nom d'Emmanuel :"],["Dieu-avec-nous."]]}],"de":[{"k":"p","lines":[["Seht, die Jungfrau wird empfangen und einen Sohn gebären. Sein Name ist Immanuel, Gott mit uns."]]}]},"part":"communionAntiphon"},{"slot":"264","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"265","text":{"la":[{"k":"p","lines":[["Sumpto pígnore redemptiónis ætérnæ, quǽsumus, omnípotens Deus, ut quanto magis dies salutíferæ festivitátis accédit, tanto devótius proficiámus ad Fílii tui digne nativitátis mystérium celebrándum. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus todo-poderoso,"],["tendo recebido o penhor da eterna redenção,"],["nós vos pedimos que, quanto mais se aproxima a festa da salvação,"],["tanto mais cresça o nosso fervor para celebrar dignamente"],["o mistério do Natal do vosso Filho."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Having received this pledge of eternal redemption,"],["we pray, almighty God,"],["that, as the feast day of our salvation draws ever nearer, so we may press forward all the more eagerly"],["to the worthy celebration of the mystery of your Son's Nativity. Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso,"],["después de recibir la prenda de la redención eterna,"],["te pedimos que crezca en nosotros"],["tanto el fervor para celebrar dignamente"],["el misterio del nacimiento de tu Hijo,"],["cuanto más se acerca"],["la gran fiesta de la salvación."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, che ci hai dato il pegno della redenzione eterna, ascolta la nostra preghiera: quanto più si avvicina il grande giorno della nostra salvezza, tanto più cresca il nostro fervore, per celebrare degnamente il mistero della nascita del tuo Figlio. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Après avoir reçu le gage de la rédemption éternelle,"],["Dieu tout-puissant, nous te prions :"],["à mesure qu'approche le jour où nous fêterons le salut,"],["donne-nous une ferveur de plus en plus grande,"],["pour célébrer dignement le mystère de la nativité de ton Fils."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du hast uns in diesem Mahl das Heil zugesagt und uns schon jetzt Anteil daran gegeben. Lass uns das Kommen deines Sohnes in Freude erwarten und mache uns umso eifriger in deinem Dienst, je näher das Fest seiner Geburt heranrückt. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"266","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Adhiberi potest formula sollemnis."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Pode-se usar a fórmula da Solene."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Solemn formula may be used."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se puede utilizar la fórmula de la solemne."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On peut utiliser la formule de la solennelle."}]]}]},"part":"prayerOverPeople","role":"rubric"}],"precedence":2,"prefaces":["preface.2","preface.4"],"title":{"la":"DOMINICA IV ADVENTUS","pt-BR":"QUARTO DOMINGO DO ADVENTO","en-US":"Advent Season — 4th Week: Sunday","es":"IV DOMINGO DE ADVIENTO","it":"IV DOMENICA DI AVVENTO","fr":"4ème DIMANCHE DE L'AVENT","de":"4. ADVENTSONNTAG"}}
+{
+ "id": "tempore.advent.week-4.sunday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMINICA IV ADVENTUS"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "QUARTO DOMINGO DO ADVENTO"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Advent Season"
+       ],
+       [
+        "4th Week: Sunday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV DOMINGO DE ADVIENTO"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV DOMENICA DI AVVENTO"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "4ème DIMANCHE DE L'AVENT"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "4. ADVENTSONNTAG"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Is 45, 8"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Is 45, 8"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Is 45: 8"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Is 45, 8"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Is 45, 8"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Is 45, 8"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Jes 45, 8"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Roráte, cæli, désuper, et nubes pluant iustum; aperiátur terra et gérminet Salvatórem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Céus, deixai cair o orvalho,"
+       ],
+       [
+        "as nuvens façam chover o justo;"
+       ],
+       [
+        "abra-se a terra, e deixe germinar o Salvador!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Drop down dew from above, you heavens,"
+       ],
+       [
+        "and let the clouds rain down the Just One;"
+       ],
+       [
+        "let the earth be opened and bring forth a Savior."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cielos, destilad desde lo alto; nubes derramad al Justo; ábrase la tierra y brote al Salvador."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Stillate, cieli, dall'alto, le nubi facciano piovere il Giusto; si apra la terra e germogli il Salvatore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cieux, distillez d'en haut votre rosée,"
+       ],
+       [
+        "que descende le Juste, comme une pluie,"
+       ],
+       [
+        "que la terre s'ouvre, et que germe le Sauveur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tauet, ihr Himmel, von oben! Ihr Wolken, regnet herab den Gerechten! Tu dich auf, o Erde, und sprosse den Heiland hervor!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Non dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Não se diz o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is not said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "No se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Non si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On ne dit pas le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Kein "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde, ut qui, Angelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, per passiónem eius et crucem ad resurrectiónis glóriam perducámur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Infundi, Senhor, a vossa graça em nossos corações"
+       ],
+       [
+        "para que, conhecendo pela anunciação do anjo"
+       ],
+       [
+        "a encarnação de Jesus Cristo, vosso Filho,"
+       ],
+       [
+        "cheguemos, por sua paixão e cruz,"
+       ],
+       [
+        "à glória da ressurreição."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pour forth, we beseech you, O Lord,"
+       ],
+       [
+        "your grace into our hearts,"
+       ],
+       [
+        "that we, to whom the Incarnation of Christ your Son"
+       ],
+       [
+        "was made known by the message of an Angel,"
+       ],
+       [
+        "may by his Passion and Cross"
+       ],
+       [
+        "be brought to the glory of his Resurrection."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Derrama, Señor,"
+       ],
+       [
+        "tu gracia en nuestros corazones,"
+       ],
+       [
+        "para que, quienes hemos conocido, por el anuncio del ángel,"
+       ],
+       [
+        "la encarnación de Cristo, tu Hijo,"
+       ],
+       [
+        "lleguemos, por su pasión y su cruz,"
+       ],
+       [
+        "a la gloria de la resurrección."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Infondi nel nostro spirito la tua grazia, o Padre: tu, che all'annuncio dell'angelo ci hai rivelato l'incarnazione di Cristo tuo Figlio, per la sua passione e la sua croce guidaci alla gloria della risurrezione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous te prions, Seigneur, de répandre ta grâce en nos cœurs ;"
+       ],
+       [
+        "par le message de l'Ange, tu nous as fait connaître"
+       ],
+       [
+        "l'incarnation de ton Fils bien-aimé ;"
+       ],
+       [
+        "conduis-nous par sa passion et par sa croix"
+       ],
+       [
+        "jusqu'à la gloire de la résurrection."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, gieße deine Gnade in unsere Herzen ein. Durch die Botschaft des Engels haben wir die Menschwerdung Christi, deines Sohnes, erkannt. Führe uns durch sein Leiden und Kreuz zur Herrlichkeit der Auferstehung. Darum bitten wir durch ihn, Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o Creio."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Credo"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Credo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Altári tuo, Dómine, superpósita múnera Spíritus ille sanctíficet, qui beátæ Maríæ víscera sua virtúte replévit. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, o mesmo Espírito Santo"
+       ],
+       [
+        "que com seu poder fecundou o seio de Maria,"
+       ],
+       [
+        "santifique estas oferendas,"
+       ],
+       [
+        "colocadas sobre o vosso altar."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the Holy Spirit, O Lord,"
+       ],
+       [
+        "sanctify these gifts laid upon your altar,"
+       ],
+       [
+        "just as he filled with his power the womb of the Blessed Virgin Mary."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El mismo Espíritu,"
+       ],
+       [
+        "que colmó con su poder las entrañas de santa María,"
+       ],
+       [
+        "santifique, Señor,"
+       ],
+       [
+        "estos dones que hemos colocado sobre tu altar."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, o Signore, i doni che abbiamo deposto sull'altare e consacrali con la potenza del tuo Spirito che santificò il grembo della Vergine Maria. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ces offrandes déposées sur ton autel, Seigneur,"
+       ],
+       [
+        "que l'Esprit les sanctifie,"
+       ],
+       [
+        "lui dont la puissance a fécondé"
+       ],
+       [
+        "le sein de la bienheureuse Marie."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, wir legen die Gaben auf den Altar. Heilige sie durch deinen Geist, der mit seiner Kraft die Jungfrau Maria überschattet hat. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Is 7, 14"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Is 7, 14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Is 7: 14"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Is 7, 14"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Is 7, 14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Is 7, 14"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Jes 7, 14"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce Virgo concípiet, et páriet fílium; et vocábitur nomen eius Emmánuel."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eis que uma virgem conceberá e dará à luz um filho;"
+       ],
+       [
+        "e lhe porá o nome de Emanuel."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Behold a Virgin shall conceive and bear a son; and his name will be called Emmanuel."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mirad: la Virgen está encinta y da a luz un hijo, y le pondrá por nombre Enmanuel."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecco, la Vergine concepirà e darà alla luce un figlio: chiamerà Emmanuele, Dio con noi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ A "
+        }
+       ],
+       [
+        "Giuseppe, non temere: Maria darà alla luce un figlio e tu lo chiamerai Gesù. Egli salverà il suo popolo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B "
+        }
+       ],
+       [
+        "Ecco la serva del Signore: avvenga per me secondo la tua parola."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C "
+        }
+       ],
+       [
+        "Beata sei tu, Vergine Maria, perché hai creduto: in te si è compiuta la parola del Signore."
+       ]
+      ],
+      "cite": "Cf. Lc 1, 45"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici que la Vierge concevra,"
+       ],
+       [
+        "elle enfantera un fils,"
+       ],
+       [
+        "auquel on donnera le nom d'Emmanuel :"
+       ],
+       [
+        "Dieu-avec-nous."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seht, die Jungfrau wird empfangen und einen Sohn gebären. Sein Name ist Immanuel, Gott mit uns."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sumpto pígnore redemptiónis ætérnæ, quǽsumus, omnípotens Deus, ut quanto magis dies salutíferæ festivitátis accédit, tanto devótius proficiámus ad Fílii tui digne nativitátis mystérium celebrándum. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus todo-poderoso,"
+       ],
+       [
+        "tendo recebido o penhor da eterna redenção,"
+       ],
+       [
+        "nós vos pedimos que, quanto mais se aproxima a festa da salvação,"
+       ],
+       [
+        "tanto mais cresça o nosso fervor para celebrar dignamente"
+       ],
+       [
+        "o mistério do Natal do vosso Filho."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Having received this pledge of eternal redemption,"
+       ],
+       [
+        "we pray, almighty God,"
+       ],
+       [
+        "that, as the feast day of our salvation draws ever nearer, so we may press forward all the more eagerly"
+       ],
+       [
+        "to the worthy celebration of the mystery of your Son's Nativity. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "después de recibir la prenda de la redención eterna,"
+       ],
+       [
+        "te pedimos que crezca en nosotros"
+       ],
+       [
+        "tanto el fervor para celebrar dignamente"
+       ],
+       [
+        "el misterio del nacimiento de tu Hijo,"
+       ],
+       [
+        "cuanto más se acerca"
+       ],
+       [
+        "la gran fiesta de la salvación."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, che ci hai dato il pegno della redenzione eterna, ascolta la nostra preghiera: quanto più si avvicina il grande giorno della nostra salvezza, tanto più cresca il nostro fervore, per celebrare degnamente il mistero della nascita del tuo Figlio. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Après avoir reçu le gage de la rédemption éternelle,"
+       ],
+       [
+        "Dieu tout-puissant, nous te prions :"
+       ],
+       [
+        "à mesure qu'approche le jour où nous fêterons le salut,"
+       ],
+       [
+        "donne-nous une ferveur de plus en plus grande,"
+       ],
+       [
+        "pour célébrer dignement le mystère de la nativité de ton Fils."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du hast uns in diesem Mahl das Heil zugesagt und uns schon jetzt Anteil daran gegeben. Lass uns das Kommen deines Sohnes in Freude erwarten und mache uns umso eifriger in deinem Dienst, je näher das Fest seiner Geburt heranrückt. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Adhiberi potest formula sollemnis."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pode-se usar a fórmula da Solene."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Solemn formula may be used."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se puede utilizar la fórmula de la solemne."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On peut utiliser la formule de la solennelle."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople",
+   "role": "rubric"
+  }
+ ],
+ "precedence": 2,
+ "prefaces": [
+  "preface.2",
+  "preface.4"
+ ],
+ "title": {
+  "la": "DOMINICA IV ADVENTUS",
+  "pt-BR": "QUARTO DOMINGO DO ADVENTO",
+  "en-US": "Advent Season — 4th Week: Sunday",
+  "es": "IV DOMINGO DE ADVIENTO",
+  "it": "IV DOMENICA DI AVVENTO",
+  "fr": "4ème DIMANCHE DE L'AVENT",
+  "de": "4. ADVENTSONNTAG"
+ }
+}

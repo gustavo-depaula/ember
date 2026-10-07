@@ -1,1 +1,1433 @@
-{"id":"common.holy-men-and-women.7","source":"comunes_votivas/comunes_sant#sanct7","kind":"common","items":[{"slot":"83","text":{"la":[{"k":"h2","lines":[["COMMUNE SANCTORUM ET SANCTARUM"]]},{"k":"h3","lines":[["II. PRO MONACHIS ET RELIGIOSIS"],["A. Pro abbate"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF HOLY MEN AND WOMEN"]]},{"k":"h3","lines":[["II. For Monks and Religious"],["A. For an Abbot"]]}],"es":[{"k":"h2","lines":[["COMÚN DE SANTOS Y SANTAS"]]},{"k":"h3","lines":[["II. Para monjes y religiosos"],["A. Para un abad"]]}],"it":[{"k":"h2","lines":[["COMUNE DEI SANTI E DELLE SANTE"]]},{"k":"h3","lines":[["II. Per i monaci e i religiosi"],["A. Per un abate"]]}],"fr":[{"k":"h2","lines":[["COMMUN DES SAINTS ET DES SAINTES"]]},{"k":"h3","lines":[["II. POUR LES RELIGIEUX"],["A. Père abbé"]]}]},"part":"title"},{"slot":"84","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 91, 13-14"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Ps 92 (91): 13-14"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 91, 13-14"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 91, 13-14"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 91, 13-14"}]},"part":"entranceAntiphon"},{"slot":"85","text":{"la":[{"k":"p","lines":[["Iustus ut palma florébit, sicut cedrus Líbani multiplicábitur; plantátus in domo Dómini, in átriis domus Dei nostri ",{"m":"rubric","t":"(T. P. "},"allelúia ",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["The just will flourish like the palm tree, and grow like a Lebanon cedar, planted in the house of the Lord, in the courts of the house of our God ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["El justo crecerá como una palmera, se alzará como un cedro del Líbano:"],["plantado en la casa del Señor, en los atrios de la casa de nuestro Dios ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Il giusto fiorirà come palma, crescerà come cedro del Libano: piantati nella casa del Signore, fioriranno negli atri del nostro Dio ",{"m":"rubric","t":"(T. P."}," Alleluia",{"m":"rubric","t":")(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"fr":[{"k":"p","lines":[["Le juste fleurira comme un palmier,"],["il se multipliera comme un cèdre du Liban ;"],["planté dans les parvis du Seigneur,"],["il grandira dans la maison de notre Dieu ",{"m":"rubric","t":"(T. P. "},"alléluia ",{"m":"rubric","t":")."}]]}]},"part":"entranceAntiphon"},{"slot":"86","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Ps 36, 30-31"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Ps 37 (36): 30-31"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]],"cite":"Sal 36, 30-31"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]],"cite":"Cf Sal 36, 30-31"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Ps 36, 30-31"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"87","text":{"la":[{"k":"p","lines":[["Os iusti meditábitur sapiéntiam, et lingua eius loquétur iudícium; lex Dei eius in corde ipsíus ",{"m":"rubric","t":"( T. P. "},"allelúia ",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["The mouth of the just man utters wisdom, and his tongue tells forth what is right. The law of his God is in his heart ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["La boca del justo expone la sabiduría, su lengua explica el derecho, porque lleva en el corazón la ley de su Dios ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["La bocca del giusto medita sapienza e la sua lingua esprime verità; la legge del suo Dio è nel suo cuore ",{"m":"rubric","t":"( T. P. "},"Alleluia ",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Les lèvres du juste méditent la sagesse"],["et sa bouche énonce le droit."],["La loi de son Dieu est dans son cœur ",{"m":"rubric","t":"( T. P. "},"alléluia ",{"m":"rubric","t":")."}]]}]},"part":"entranceAntiphon"},{"slot":"88","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}]},"part":"collect"},{"slot":"89","text":{"la":[{"k":"p","lines":[["Da nobis, quǽsumus, Dómine, inter mundi huius varietátes toto corde rebus cæléstibus adhærére, qui per beátum ",{"m":"rubric","t":"N. "},"abbátem evangélicæ nobis perfectiónis documénta donásti. Per Dóminum."]]}],"en-US":[{"k":"p","lines":[["Grant us, O Lord, that amid the uncertainties of this world we may cling with all our heart to the things of heaven, for through the Abbot blessed ",{"m":"rubric","t":"N."}," you have given us a model of evangelical perfection."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Señor, que nos has enseñado la perfección evangélica"],["por medio del abad san ",{"m":"rubric","t":"N."},","],["concédenos, en medio de las vicisitudes de este mundo,"],["adherirnos de corazón a las realidades del cielo."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che nel santo abate ",{"m":"rubric","t":"N."},","],["hai offerto alla tua Chiesa un modello di perfezione evangelica, concedi anche a noi, che viviamo tra le vicende di questo mondo, di aderire con cuore indiviso alle realtà del cielo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Accorde-nous, Seigneur,"],["au milieu des changements de ce monde,"],["de nous attacher de tout cœur aux réalités du ciel,"],["toi qui nous as donné dans le saint abbé ",{"m":"rubric","t":"N."}],["un modèle de perfection évangélique."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}]},"part":"collect"},{"slot":"90","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}]},"part":"prayerOverOfferings"},{"slot":"91","text":{"la":[{"k":"p","lines":[["Ad altáre tuum accedéntibus, Dómine, da nobis illum pietátis afféctum, quo beátus ",{"m":"rubric","t":"N."},", abbas, exársit, ut, mundi corde et caritáte fervéntes, tibi sacrifícium offérre valeámus. Per Christum."]]}],"en-US":[{"k":"p","lines":[["Grant those who approach your altar, O Lord, that spirit of devotion with which the blessed Abbot ",{"m":"rubric","t":"N."}," was on fire, so that, pure of heart and fervent in charity, we may offer you a worthy sacrifice."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Concede, Señor,"],["a cuantos nos acercamos a tu altar,"],["el amor apasionado que enardeció al abad san ",{"m":"rubric","t":"N."},","],["para que, limpios de corazón y ardientes en caridad,"],["podamos ofrecerte este sacrificio."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["A noi che veniamo al tuo altare, o Signore, dona il desiderio del bene che infiammò il santo abate ",{"m":"rubric","t":"N."},","],["perché possiamo offrirti il sacrificio con ardore di carità e purezza di cuore. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Tandis que nous approchons de ton autel, Seigneur,"],["donne-nous ce sentiment d'amour pour toi"],["qui consumait saint ",{"m":"rubric","t":"N."},", abbé,"],["afin que nous puissions t'offrir ce sacrifice,"],["d'un cœur pur et brûlant de charité."],["Par le Christ, notre Seigneur."]]}]},"part":"prayerOverOfferings"},{"slot":"92","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"94","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Lc 12, 42"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Lk 12: 42"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]]}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Lc 12, 42"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Lc 12, 42"}]},"part":"communionAntiphon"},{"slot":"95","text":{"la":[{"k":"p","lines":[["Fidélis servus et prudens, quem constítuit Dóminus super famíliam suam, ut det illis in témpore trítici mensúram ",{"m":"rubric","t":"( T. P. "},"allelúia ",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["This is the steward, faithful and prudent, whom the Lord set over his household, to give them their allowance of food at the proper time ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Este es el siervo fiel y prudente a quien el Señor puso al frente de su servidumbre para que reparta la ración de alimento a sus horas ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Ecco il servo fedele e prudente, che il Signore ha messo a capo della sua famiglia, per nutrirla al tempo opportuno ",{"m":"rubric","t":"(T. P."}," Alleluia",{"m":"rubric","t":")"},"."]]}],"fr":[{"k":"p","lines":[["Voici le serviteur fidèle et avisé"],["que le maître a établi sur sa maison,"],["pour donner à chacun, en temps voulu, sa part de blé ",{"m":"rubric","t":"( T. P. "},"alléluia ",{"m":"rubric","t":")."}]]}]},"part":"communionAntiphon"},{"slot":"96","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Mt 23, 11"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Mt 23: 11"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]],"cite":"Cf. Mt 23, 11"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]],"cite":"Mt 23, 11"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Mt 23, 11"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"97","text":{"la":[{"k":"p","lines":[["Qui maior est vestrum, erit miníster vester, dicit Dóminus ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["The greatest among you must be your servant, says the Lord ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["El primero entre vosotros será vuestro servidor, dice el Señor ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["«Chi tra voi è più grande, sarà vostro servo», dice il Signore ",{"m":"rubric","t":"(T. P."}," Alleluia",{"m":"rubric","t":")"},"."]]}],"fr":[{"k":"p","lines":[["Le plus grand parmi vous sera votre serviteur,"],["dit le Seigneur ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":")."}]]}]},"part":"communionAntiphon"},{"slot":"98","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}]},"part":"postcommunion"},{"slot":"99","text":{"la":[{"k":"p","lines":[["Huius quod súmpsimus, Dómine, virtúte sacraménti, rénova corda nostra, ut exémplo beáti ",{"m":"rubric","t":"N."},", abbátis, quæ sursum sunt, non quæ super terram, sapiéntes, cum Christo in glória mereámur apparére. Qui vivit et regnat in sǽcula sæculórum."]]}],"en-US":[{"k":"p","lines":[["By the power of this Sacrament which we have received, renew our hearts, O Lord, so that by the example of the Abbot blessed ",{"m":"rubric","t":"N."},", being wise in the things above and not in the things of earth here below, we may merit to appear in glory with Christ. Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Por la fuerza del sacramento que hemos recibido"],["renueva, Señor, nuestros corazones"],["para que, a ejemplo del abad san ",{"m":"rubric","t":"N."},","],["por la sabiduría de las cosas de arriba y no de las de la tierra,"],["merezcamos aparecer juntamente con Cristo en la gloria."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Rinnova, o Signore, i nostri cuori con la forza del sacramento che abbiamo ricevuto, perché, sull'esempio del santo abate ",{"m":"rubric","t":"N."},","],["gustando le cose del cielo, non quelle della terra, possiamo comparire con Cristo nella gloria. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Par la puissance du sacrement que nous avons reçu, Seigneur,"],["renouvelle nos cœurs,"],["afin qu'à l'exemple de saint ",{"m":"rubric","t":"N."},", abbé,"],["nous soyons tournés vers les réalités d'en haut,"],["non pas vers celles de la terre,"],["et méritions de paraître avec le Christ dans la gloire."],["Lui qui vit et règne pour les siècles des siècles."]]}]},"part":"postcommunion"}],"prefaces":["preface.57"],"title":{"la":"COMMUNE SANCTORUM ET SANCTARUM","en-US":"COMMON OF HOLY MEN AND WOMEN","es":"COMÚN DE SANTOS Y SANTAS","it":"COMUNE DEI SANTI E DELLE SANTE","fr":"COMMUN DES SAINTS ET DES SAINTES"},"subtitle":{"la":"II. PRO MONACHIS ET RELIGIOSIS A. Pro abbate","en-US":"II. For Monks and Religious A. For an Abbot","es":"II. Para monjes y religiosos A. Para un abad","it":"II. Per i monaci e i religiosi A. Per un abate","fr":"II. POUR LES RELIGIEUX A. Père abbé"}}
+{
+ "id": "common.holy-men-and-women.7",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE SANCTORUM ET SANCTARUM"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. PRO MONACHIS ET RELIGIOSIS"
+       ],
+       [
+        "A. Pro abbate"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF HOLY MEN AND WOMEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. For Monks and Religious"
+       ],
+       [
+        "A. For an Abbot"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE SANTOS Y SANTAS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. Para monjes y religiosos"
+       ],
+       [
+        "A. Para un abad"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DEI SANTI E DELLE SANTE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. Per i monaci e i religiosi"
+       ],
+       [
+        "A. Per un abate"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DES SAINTS ET DES SAINTES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. POUR LES RELIGIEUX"
+       ],
+       [
+        "A. Père abbé"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 91, 13-14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Ps 92 (91): 13-14"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 91, 13-14"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 91, 13-14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 91, 13-14"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iustus ut palma florébit, sicut cedrus Líbani multiplicábitur; plantátus in domo Dómini, in átriis domus Dei nostri ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The just will flourish like the palm tree, and grow like a Lebanon cedar, planted in the house of the Lord, in the courts of the house of our God ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El justo crecerá como una palmera, se alzará como un cedro del Líbano:"
+       ],
+       [
+        "plantado en la casa del Señor, en los atrios de la casa de nuestro Dios ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il giusto fiorirà come palma, crescerà come cedro del Libano: piantati nella casa del Signore, fioriranno negli atri del nostro Dio ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Alleluia",
+        {
+         "m": "rubric",
+         "t": ")(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le juste fleurira comme un palmier,"
+       ],
+       [
+        "il se multipliera comme un cèdre du Liban ;"
+       ],
+       [
+        "planté dans les parvis du Seigneur,"
+       ],
+       [
+        "il grandira dans la maison de notre Dieu ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Ps 36, 30-31"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Ps 37 (36): 30-31"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ],
+      "cite": "Sal 36, 30-31"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Cf Sal 36, 30-31"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Ps 36, 30-31"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os iusti meditábitur sapiéntiam, et lingua eius loquétur iudícium; lex Dei eius in corde ipsíus ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "allelúia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The mouth of the just man utters wisdom, and his tongue tells forth what is right. The law of his God is in his heart ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La boca del justo expone la sabiduría, su lengua explica el derecho, porque lleva en el corazón la ley de su Dios ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La bocca del giusto medita sapienza e la sua lingua esprime verità; la legge del suo Dio è nel suo cuore ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "Alleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les lèvres du juste méditent la sagesse"
+       ],
+       [
+        "et sa bouche énonce le droit."
+       ],
+       [
+        "La loi de son Dieu est dans son cœur ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "alléluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Da nobis, quǽsumus, Dómine, inter mundi huius varietátes toto corde rebus cæléstibus adhærére, qui per beátum ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "abbátem evangélicæ nobis perfectiónis documénta donásti. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant us, O Lord, that amid the uncertainties of this world we may cling with all our heart to the things of heaven, for through the Abbot blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " you have given us a model of evangelical perfection."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, que nos has enseñado la perfección evangélica"
+       ],
+       [
+        "por medio del abad san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "concédenos, en medio de las vicisitudes de este mundo,"
+       ],
+       [
+        "adherirnos de corazón a las realidades del cielo."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che nel santo abate ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "hai offerto alla tua Chiesa un modello di perfezione evangelica, concedi anche a noi, che viviamo tra le vicende di questo mondo, di aderire con cuore indiviso alle realtà del cielo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accorde-nous, Seigneur,"
+       ],
+       [
+        "au milieu des changements de ce monde,"
+       ],
+       [
+        "de nous attacher de tout cœur aux réalités du ciel,"
+       ],
+       [
+        "toi qui nous as donné dans le saint abbé ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "un modèle de perfection évangélique."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ad altáre tuum accedéntibus, Dómine, da nobis illum pietátis afféctum, quo beátus ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", abbas, exársit, ut, mundi corde et caritáte fervéntes, tibi sacrifícium offérre valeámus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant those who approach your altar, O Lord, that spirit of devotion with which the blessed Abbot ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " was on fire, so that, pure of heart and fervent in charity, we may offer you a worthy sacrifice."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concede, Señor,"
+       ],
+       [
+        "a cuantos nos acercamos a tu altar,"
+       ],
+       [
+        "el amor apasionado que enardeció al abad san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "para que, limpios de corazón y ardientes en caridad,"
+       ],
+       [
+        "podamos ofrecerte este sacrificio."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A noi che veniamo al tuo altare, o Signore, dona il desiderio del bene che infiammò il santo abate ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "perché possiamo offrirti il sacrificio con ardore di carità e purezza di cuore. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tandis que nous approchons de ton autel, Seigneur,"
+       ],
+       [
+        "donne-nous ce sentiment d'amour pour toi"
+       ],
+       [
+        "qui consumait saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", abbé,"
+       ],
+       [
+        "afin que nous puissions t'offrir ce sacrifice,"
+       ],
+       [
+        "d'un cœur pur et brûlant de charité."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Lc 12, 42"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Lk 12: 42"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Lc 12, 42"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Lc 12, 42"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fidélis servus et prudens, quem constítuit Dóminus super famíliam suam, ut det illis in témpore trítici mensúram ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "allelúia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "This is the steward, faithful and prudent, whom the Lord set over his household, to give them their allowance of food at the proper time ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Este es el siervo fiel y prudente a quien el Señor puso al frente de su servidumbre para que reparta la ración de alimento a sus horas ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecco il servo fedele e prudente, che il Signore ha messo a capo della sua famiglia, per nutrirla al tempo opportuno ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici le serviteur fidèle et avisé"
+       ],
+       [
+        "que le maître a établi sur sa maison,"
+       ],
+       [
+        "pour donner à chacun, en temps voulu, sa part de blé ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "alléluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Mt 23, 11"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Mt 23: 11"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ],
+      "cite": "Cf. Mt 23, 11"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ],
+      "cite": "Mt 23, 11"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Mt 23, 11"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui maior est vestrum, erit miníster vester, dicit Dóminus ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The greatest among you must be your servant, says the Lord ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El primero entre vosotros será vuestro servidor, dice el Señor ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Chi tra voi è più grande, sarà vostro servo», dice il Signore ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le plus grand parmi vous sera votre serviteur,"
+       ],
+       [
+        "dit le Seigneur ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Huius quod súmpsimus, Dómine, virtúte sacraménti, rénova corda nostra, ut exémplo beáti ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", abbátis, quæ sursum sunt, non quæ super terram, sapiéntes, cum Christo in glória mereámur apparére. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "By the power of this Sacrament which we have received, renew our hearts, O Lord, so that by the example of the Abbot blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", being wise in the things above and not in the things of earth here below, we may merit to appear in glory with Christ. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por la fuerza del sacramento que hemos recibido"
+       ],
+       [
+        "renueva, Señor, nuestros corazones"
+       ],
+       [
+        "para que, a ejemplo del abad san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "por la sabiduría de las cosas de arriba y no de las de la tierra,"
+       ],
+       [
+        "merezcamos aparecer juntamente con Cristo en la gloria."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rinnova, o Signore, i nostri cuori con la forza del sacramento che abbiamo ricevuto, perché, sull'esempio del santo abate ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "gustando le cose del cielo, non quelle della terra, possiamo comparire con Cristo nella gloria. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Par la puissance du sacrement que nous avons reçu, Seigneur,"
+       ],
+       [
+        "renouvelle nos cœurs,"
+       ],
+       [
+        "afin qu'à l'exemple de saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", abbé,"
+       ],
+       [
+        "nous soyons tournés vers les réalités d'en haut,"
+       ],
+       [
+        "non pas vers celles de la terre,"
+       ],
+       [
+        "et méritions de paraître avec le Christ dans la gloire."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.57"
+ ],
+ "title": {
+  "la": "COMMUNE SANCTORUM ET SANCTARUM",
+  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "es": "COMÚN DE SANTOS Y SANTAS",
+  "it": "COMUNE DEI SANTI E DELLE SANTE",
+  "fr": "COMMUN DES SAINTS ET DES SAINTES"
+ },
+ "subtitle": {
+  "la": "II. PRO MONACHIS ET RELIGIOSIS A. Pro abbate",
+  "en-US": "II. For Monks and Religious A. For an Abbot",
+  "es": "II. Para monjes y religiosos A. Para un abad",
+  "it": "II. Per i monaci e i religiosi A. Per un abate",
+  "fr": "II. POUR LES RELIGIEUX A. Père abbé"
+ }
+}

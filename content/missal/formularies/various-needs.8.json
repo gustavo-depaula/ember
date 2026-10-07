@@ -1,1 +1,1205 @@
-{"id":"various-needs.8","source":"comunes_votivas/diversas#div008","kind":"various-needs","items":[{"slot":"95","text":{"la":[{"k":"h2","lines":[["I. PRO SANCTA ECCLESIA"]]},{"k":"h3","lines":[["4. PRO ELIGENDO PAPA VEL EPISCOPO"]]}],"pt-BR":[{"k":"h2","lines":[["I. PELA SANTA IGREJA"]]},{"k":"h3","lines":[["4. PARA A ELEIÇÃO DO PAPA OU DO BISPO"]]}],"en-US":[{"k":"h2","lines":[["I. FOR HOLY CHURCH"]]},{"k":"h3","lines":[["4. FOR THE ELECTION OF A POPE OR A BISHOP"]]}],"es":[{"k":"h2","lines":[["I. POR LA SANTA IGLESIA"]]},{"k":"h3","lines":[["4. PARA ELEGIR UN PAPA O UN OBISPO"]]}],"it":[{"k":"h2","lines":[["I. PER LA SANTA CHIESA"]]},{"k":"h3","lines":[["4. PER L'ELEZIONE DEL PAPA O DEL VESCOVO"]]}],"fr":[{"k":"h2","lines":[["I. POUR LA SAINTE ÉGLISE"]]},{"k":"h3","lines":[["4. POUR L'ÉLECTION D'UN PAPE OU D'UN ÉVÊQUE"]]}],"de":[{"k":"h2","lines":[["I. FÜR DIE HEILIGE KIRCHE"]]},{"k":"h3","lines":[["4. ZUR WAHL EINES PAPSTES ODER EINES BISCHOFS"]]}]},"part":"title"},{"slot":"96","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"1 Sam 2, 35"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. 1 Sm 2, 35"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"1 Sm 2: 35"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"1 Sam 2, 35"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. 1 Sam 2, 35"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"1 Sam 2, 35"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"1 Sam 2, 35"}]},"part":"entranceAntiphon"},{"slot":"97","text":{"la":[{"k":"p","lines":[["Suscitábo mihi sacerdótem fidélem, qui iuxta cor meum et ánimam meam fáciet; et ædificábo ei domum fidélem, et ambulábit coram me cunctis diébus."]]}],"pt-BR":[{"k":"p","lines":[["Farei surgir para mim um sacerdote fiel"],["que agirá segundo o meu coração e a minha vontade;"],["e lhe darei uma casa que permaneça para sempre,"],["e ele caminhará na minha presença todos os dias."]]}],"en-US":[{"k":"p","lines":[["I will raise up for myself a faithful priest,"],["who shall do according to my heart and mind; I will establish a lasting house for him"],["and he shall walk before me all his days."]]}],"es":[{"k":"p","lines":[["Suscitaré un sacerdote fiel, que obre según mi corazón y mi deseo. Le construiré una casa estable, y caminará siempre en mi presencia."]]}],"it":[{"k":"p","lines":[["Farò sorgere al mio servizio un sacerdote fedele, che agirà secondo i desideri del mio cuore. Io gli darò una casa stabile e camminerà per sempre alla mia presenza."]]}],"fr":[{"k":"p","lines":[["Ainsi parle le Seigneur Dieu :"],["Je susciterai pour moi un prêtre fidèle"],["qui agira selon mon cœur et mon désir."],["Je bâtirai pour lui une maison stable,"],["et il marchera en ma présence pour toujours"]]}],"de":[{"k":"p","lines":[["Wort Gottes des Herrn: Ich werde mir einen zuverlässigen Priester einsetzen, der nach meinem Willen handelt, und ich werde ihm ein Haus bauen, das Bestand hat, und er wird immer vor mir leben."]]}]},"part":"entranceAntiphon"},{"slot":"98","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"99","text":{"la":[{"k":"p","lines":[["Deus, qui, pastor ætérnus, gregem tuum assídua custódia gubérnas, eum imménsa tua pietáte concédas Ecclésiæ pastórem, qui tibi sanctitáte pláceat, et vígili nobis sollicitúdine prosit. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, pastor eterno,"],["que com zelo constante governais o vosso rebanho,"],["concedei à Igreja, em vossa imensa bondade,"],["um pastor que vos seja agradável pela santidade"],["e, com solicitude, sirva o vosso povo."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, eternal shepherd,"],["who govern your flock with unfailing care,"],["grant in your boundless fatherly love"],["a pastor for your Church"],["who will please you by his holiness"],["and to us show watchful care."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios, Pastor eterno,"],["que gobiernas a tu grey con protección constante,"],["te rogamos, por tu misericordia infinita,"],["que concedas a la Iglesia"],["un pastor que te agrade por la santidad,"],["y nos ayude con vigilante solicitud."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, pastore eterno, che guidi il tuo gregge con sollecitudine di padre, dona alla tua Chiesa un pastore a te gradito per santità di vita, vigile e premuroso nella cura del tuo popolo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Pasteur éternel, notre Dieu,"],["toi qui gouvernes ton peuple"],["et ne cesses de veiller sur lui,"],["accorde à ton Église, dans ton immense bonté,"],["le pasteur qui saura te plaire par sa sainteté"],["et nous soutiendra avec sollicitude et vigilance."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles"]]}],"de":[{"k":"p","lines":[["Ewiger Gott, du bist der Hirt, der seine Herde beschützt und durch die Zeiten führt. Gib der Kirche einen Papst ",{"m":"rubric","t":"("},"der Kirche von ",{"m":"rubric","t":"N."}," einen Bischof",{"m":"rubric","t":")"},", dessen heiliges Leben dir gefällt und dessen Hirtensorge deinem Volk den rechten Weg weist. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"100","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"101","text":{"la":[{"k":"p","lines":[["Tuæ nobis, Dómine, abundántia pietátis indúlgeat, ut, per sacra múnera quæ tibi reverénter offérimus, gratum maiestáti tuæ pastórem Ecclésiæ sanctæ præésse gaudeámus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, a abundância do vosso amor nos favoreça"],["e, pelos dons sagrados que vos apresentamos com reverência,"],["dai-nos a alegria de ver à frente da santa Igreja"],["um pastor agradável ao vosso coração."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May your abundant kindness favor us, O Lord,"],["that, through the sacred offerings we reverently bring to you, we may come to rejoice that a pastor pleasing to your majesty presides over your holy Church."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, la abundancia de tu amor nos conceda,"],["por medio de los dones sagrados"],["que te ofrecemos humildemente,"],["alegrarnos de que presida tu Iglesia santa"],["un pastor agradable a tu majestad."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Apri a noi, o Signore, i tesori della tua misericordia, e per questi santi doni a te offerti con fede, fa' che ci rallegriamo del dono di un pastore secondo il tuo cuore, posto a guida della santa Chiesa. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur, Dieu de majesté,"],["par le sacrifice que nous t'offrons avec respect,"],["que ton immense amour nous obtienne"],["la joie d'avoir à la tête de la sainte Église"],["un pasteur qui te plaise."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, gewähre in deiner Güte, was wir durch die heiligen Opfergaben erbitten, und schenke der Kirche ",{"m":"rubric","t":"("},"der Kirche von ",{"m":"rubric","t":"N.)"}," einen Hirten nach deinem Herzen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"102","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 15, 16"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 15, 16"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 15: 16"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Jn 15, 16"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gv 15, 16"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 15, 16"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 15, 16"}]},"part":"communionAntiphon"},{"slot":"103","text":{"la":[{"k":"p","lines":[["Ego elégi vos et pósui vos, ut fructum afferátis, et fructus vester máneat, dicit Dóminus."]]}],"pt-BR":[{"k":"p","lines":[["Eu que vos escolhi"],["e vos designei para irdes e para que produzais fruto"],["e o vosso fruto permaneça, diz o Senhor."]]}],"en-US":[{"k":"p","lines":[["I chose you and appointed you to go and bear fruit, says the Lord, fruit that will last."]]}],"es":[{"k":"p","lines":[["Yo os he elegido y os he destinado para que deis fruto, y vuestro fruto permanezca, dice el Señor."]]}],"it":[{"k":"p","lines":[["Dice il Signore: «Io ho scelto voi e vi ho costituiti perché andiate e portiate frutto e il vostro frutto rimanga»."]]}],"fr":[{"k":"p","lines":[["C'est moi qui vous ai choisis et établis,"],["afin que vous portiez du fruit,"],["et que votre fruit demeure, dit le Seigneur."]]}],"de":[{"k":"p","lines":[["Ich habe euch erwählt, und ich habe euch dazu bestimmt, dass ihr hingeht und Frucht bringt und dass eure Frucht bleibt - so spricht der Herr."]]}]},"part":"communionAntiphon"},{"slot":"104","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"105","text":{"la":[{"k":"p","lines":[["Reféctos, Dómine, Córporis et Sánguinis Unigéniti tui salubérrimo sacraménto, nos mirífica tuæ maiestátis grátia de illíus pastóris concessióne lætíficet, qui et plebem tuam virtútibus ínstruat, et fidélium mentes evangélica veritáte perfúndat. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, por vossa graça admirável,"],["alegrai os refeitos pelo sacramento salutar"],["do Corpo e do Sangue do vosso Filho,"],["com o dom de um pastor"],["que instrua vosso povo nas virtudes"],["e faça penetrar no coração dos fiéis"],["a verdade do Evangelho."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["As we have been renewed, O Lord,"],["with the supreme sacrament of salvation,"],["the Body and Blood of your only Begotten son,"],["may the wondrous grace of your majesty"],["gladden us with the gift of a shepherd"],["who will instruct your people by his virtues"],["and imbue the minds of the faithful with the truth of the Gospel."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["A los que has alimentado, Señor,"],["con el sacramento saludable"],["del Cuerpo y de la Sangre de tu Unigénito,"],["nos llene de alegría la admirable gracia de tu majestad"],["por la asignación de un pastor"],["que, con sus virtudes, edifique a tu pueblo"],["e ilumine los corazones de los fieles"],["con la verdad del Evangelio."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Padre, che in questo sacramento di salvezza ci hai nutriti con il Corpo e il Sangue del tuo Figlio, donaci un pastore santo, che illumini il tuo popolo con la verità del Vangelo e lo edifichi con la testimonianza della vita. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Tu as refait nos forces, Seigneur,"],["par le sacrement du Corps et du Sang de ton Fils unique,"],["qui apporte le salut ;"],["augmente la joie de ton Église"],["en lui donnant, par ta grâce admirable, Dieu de majesté,"],["le pasteur qui saura instruire ton peuple par la sainteté de sa vie,"],["et répandre dans les cœurs des fidèles la vérité de l'Évangile."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast uns gestärkt mit dem Leib und dem Blut unseres Erlösers. Schenke uns einen Hirten, der deinem Volk die Wahrheit des Evangeliums verkündet und es zu einem christlichen Leben anleitet. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"title":{"la":"I. PRO SANCTA ECCLESIA","pt-BR":"I. PELA SANTA IGREJA","en-US":"I. FOR HOLY CHURCH","es":"I. POR LA SANTA IGLESIA","it":"I. PER LA SANTA CHIESA","fr":"I. POUR LA SAINTE ÉGLISE","de":"I. FÜR DIE HEILIGE KIRCHE"},"subtitle":{"la":"4. PRO ELIGENDO PAPA VEL EPISCOPO","pt-BR":"4. PARA A ELEIÇÃO DO PAPA OU DO BISPO","en-US":"4. FOR THE ELECTION OF A POPE OR A BISHOP","es":"4. PARA ELEGIR UN PAPA O UN OBISPO","it":"4. PER L'ELEZIONE DEL PAPA O DEL VESCOVO","fr":"4. POUR L'ÉLECTION D'UN PAPE OU D'UN ÉVÊQUE","de":"4. ZUR WAHL EINES PAPSTES ODER EINES BISCHOFS"}}
+{
+ "id": "various-needs.8",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PRO SANCTA ECCLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "4. PRO ELIGENDO PAPA VEL EPISCOPO"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PELA SANTA IGREJA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "4. PARA A ELEIÇÃO DO PAPA OU DO BISPO"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FOR HOLY CHURCH"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "4. FOR THE ELECTION OF A POPE OR A BISHOP"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POR LA SANTA IGLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "4. PARA ELEGIR UN PAPA O UN OBISPO"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PER LA SANTA CHIESA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "4. PER L'ELEZIONE DEL PAPA O DEL VESCOVO"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POUR LA SAINTE ÉGLISE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "4. POUR L'ÉLECTION D'UN PAPE OU D'UN ÉVÊQUE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FÜR DIE HEILIGE KIRCHE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "4. ZUR WAHL EINES PAPSTES ODER EINES BISCHOFS"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "1 Sam 2, 35"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. 1 Sm 2, 35"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "1 Sm 2: 35"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "1 Sam 2, 35"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. 1 Sam 2, 35"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "1 Sam 2, 35"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "1 Sam 2, 35"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Suscitábo mihi sacerdótem fidélem, qui iuxta cor meum et ánimam meam fáciet; et ædificábo ei domum fidélem, et ambulábit coram me cunctis diébus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Farei surgir para mim um sacerdote fiel"
+       ],
+       [
+        "que agirá segundo o meu coração e a minha vontade;"
+       ],
+       [
+        "e lhe darei uma casa que permaneça para sempre,"
+       ],
+       [
+        "e ele caminhará na minha presença todos os dias."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will raise up for myself a faithful priest,"
+       ],
+       [
+        "who shall do according to my heart and mind; I will establish a lasting house for him"
+       ],
+       [
+        "and he shall walk before me all his days."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Suscitaré un sacerdote fiel, que obre según mi corazón y mi deseo. Le construiré una casa estable, y caminará siempre en mi presencia."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Farò sorgere al mio servizio un sacerdote fedele, che agirà secondo i desideri del mio cuore. Io gli darò una casa stabile e camminerà per sempre alla mia presenza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi parle le Seigneur Dieu :"
+       ],
+       [
+        "Je susciterai pour moi un prêtre fidèle"
+       ],
+       [
+        "qui agira selon mon cœur et mon désir."
+       ],
+       [
+        "Je bâtirai pour lui une maison stable,"
+       ],
+       [
+        "et il marchera en ma présence pour toujours"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort Gottes des Herrn: Ich werde mir einen zuverlässigen Priester einsetzen, der nach meinem Willen handelt, und ich werde ihm ein Haus bauen, das Bestand hat, und er wird immer vor mir leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui, pastor ætérnus, gregem tuum assídua custódia gubérnas, eum imménsa tua pietáte concédas Ecclésiæ pastórem, qui tibi sanctitáte pláceat, et vígili nobis sollicitúdine prosit. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, pastor eterno,"
+       ],
+       [
+        "que com zelo constante governais o vosso rebanho,"
+       ],
+       [
+        "concedei à Igreja, em vossa imensa bondade,"
+       ],
+       [
+        "um pastor que vos seja agradável pela santidade"
+       ],
+       [
+        "e, com solicitude, sirva o vosso povo."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, eternal shepherd,"
+       ],
+       [
+        "who govern your flock with unfailing care,"
+       ],
+       [
+        "grant in your boundless fatherly love"
+       ],
+       [
+        "a pastor for your Church"
+       ],
+       [
+        "who will please you by his holiness"
+       ],
+       [
+        "and to us show watchful care."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios, Pastor eterno,"
+       ],
+       [
+        "que gobiernas a tu grey con protección constante,"
+       ],
+       [
+        "te rogamos, por tu misericordia infinita,"
+       ],
+       [
+        "que concedas a la Iglesia"
+       ],
+       [
+        "un pastor que te agrade por la santidad,"
+       ],
+       [
+        "y nos ayude con vigilante solicitud."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, pastore eterno, che guidi il tuo gregge con sollecitudine di padre, dona alla tua Chiesa un pastore a te gradito per santità di vita, vigile e premuroso nella cura del tuo popolo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pasteur éternel, notre Dieu,"
+       ],
+       [
+        "toi qui gouvernes ton peuple"
+       ],
+       [
+        "et ne cesses de veiller sur lui,"
+       ],
+       [
+        "accorde à ton Église, dans ton immense bonté,"
+       ],
+       [
+        "le pasteur qui saura te plaire par sa sainteté"
+       ],
+       [
+        "et nous soutiendra avec sollicitude et vigilance."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ewiger Gott, du bist der Hirt, der seine Herde beschützt und durch die Zeiten führt. Gib der Kirche einen Papst ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "der Kirche von ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " einen Bischof",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        ", dessen heiliges Leben dir gefällt und dessen Hirtensorge deinem Volk den rechten Weg weist. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tuæ nobis, Dómine, abundántia pietátis indúlgeat, ut, per sacra múnera quæ tibi reverénter offérimus, gratum maiestáti tuæ pastórem Ecclésiæ sanctæ præésse gaudeámus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, a abundância do vosso amor nos favoreça"
+       ],
+       [
+        "e, pelos dons sagrados que vos apresentamos com reverência,"
+       ],
+       [
+        "dai-nos a alegria de ver à frente da santa Igreja"
+       ],
+       [
+        "um pastor agradável ao vosso coração."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May your abundant kindness favor us, O Lord,"
+       ],
+       [
+        "that, through the sacred offerings we reverently bring to you, we may come to rejoice that a pastor pleasing to your majesty presides over your holy Church."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, la abundancia de tu amor nos conceda,"
+       ],
+       [
+        "por medio de los dones sagrados"
+       ],
+       [
+        "que te ofrecemos humildemente,"
+       ],
+       [
+        "alegrarnos de que presida tu Iglesia santa"
+       ],
+       [
+        "un pastor agradable a tu majestad."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apri a noi, o Signore, i tesori della tua misericordia, e per questi santi doni a te offerti con fede, fa' che ci rallegriamo del dono di un pastore secondo il tuo cuore, posto a guida della santa Chiesa. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, Dieu de majesté,"
+       ],
+       [
+        "par le sacrifice que nous t'offrons avec respect,"
+       ],
+       [
+        "que ton immense amour nous obtienne"
+       ],
+       [
+        "la joie d'avoir à la tête de la sainte Église"
+       ],
+       [
+        "un pasteur qui te plaise."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, gewähre in deiner Güte, was wir durch die heiligen Opfergaben erbitten, und schenke der Kirche ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "der Kirche von ",
+        {
+         "m": "rubric",
+         "t": "N.)"
+        },
+        " einen Hirten nach deinem Herzen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 15, 16"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 15, 16"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 15: 16"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Jn 15, 16"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gv 15, 16"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 15, 16"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 15, 16"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego elégi vos et pósui vos, ut fructum afferátis, et fructus vester máneat, dicit Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu que vos escolhi"
+       ],
+       [
+        "e vos designei para irdes e para que produzais fruto"
+       ],
+       [
+        "e o vosso fruto permaneça, diz o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I chose you and appointed you to go and bear fruit, says the Lord, fruit that will last."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo os he elegido y os he destinado para que deis fruto, y vuestro fruto permanezca, dice el Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dice il Signore: «Io ho scelto voi e vi ho costituiti perché andiate e portiate frutto e il vostro frutto rimanga»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est moi qui vous ai choisis et établis,"
+       ],
+       [
+        "afin que vous portiez du fruit,"
+       ],
+       [
+        "et que votre fruit demeure, dit le Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich habe euch erwählt, und ich habe euch dazu bestimmt, dass ihr hingeht und Frucht bringt und dass eure Frucht bleibt - so spricht der Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reféctos, Dómine, Córporis et Sánguinis Unigéniti tui salubérrimo sacraménto, nos mirífica tuæ maiestátis grátia de illíus pastóris concessióne lætíficet, qui et plebem tuam virtútibus ínstruat, et fidélium mentes evangélica veritáte perfúndat. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, por vossa graça admirável,"
+       ],
+       [
+        "alegrai os refeitos pelo sacramento salutar"
+       ],
+       [
+        "do Corpo e do Sangue do vosso Filho,"
+       ],
+       [
+        "com o dom de um pastor"
+       ],
+       [
+        "que instrua vosso povo nas virtudes"
+       ],
+       [
+        "e faça penetrar no coração dos fiéis"
+       ],
+       [
+        "a verdade do Evangelho."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As we have been renewed, O Lord,"
+       ],
+       [
+        "with the supreme sacrament of salvation,"
+       ],
+       [
+        "the Body and Blood of your only Begotten son,"
+       ],
+       [
+        "may the wondrous grace of your majesty"
+       ],
+       [
+        "gladden us with the gift of a shepherd"
+       ],
+       [
+        "who will instruct your people by his virtues"
+       ],
+       [
+        "and imbue the minds of the faithful with the truth of the Gospel."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A los que has alimentado, Señor,"
+       ],
+       [
+        "con el sacramento saludable"
+       ],
+       [
+        "del Cuerpo y de la Sangre de tu Unigénito,"
+       ],
+       [
+        "nos llene de alegría la admirable gracia de tu majestad"
+       ],
+       [
+        "por la asignación de un pastor"
+       ],
+       [
+        "que, con sus virtudes, edifique a tu pueblo"
+       ],
+       [
+        "e ilumine los corazones de los fieles"
+       ],
+       [
+        "con la verdad del Evangelio."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che in questo sacramento di salvezza ci hai nutriti con il Corpo e il Sangue del tuo Figlio, donaci un pastore santo, che illumini il tuo popolo con la verità del Vangelo e lo edifichi con la testimonianza della vita. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu as refait nos forces, Seigneur,"
+       ],
+       [
+        "par le sacrement du Corps et du Sang de ton Fils unique,"
+       ],
+       [
+        "qui apporte le salut ;"
+       ],
+       [
+        "augmente la joie de ton Église"
+       ],
+       [
+        "en lui donnant, par ta grâce admirable, Dieu de majesté,"
+       ],
+       [
+        "le pasteur qui saura instruire ton peuple par la sainteté de sa vie,"
+       ],
+       [
+        "et répandre dans les cœurs des fidèles la vérité de l'Évangile."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast uns gestärkt mit dem Leib und dem Blut unseres Erlösers. Schenke uns einen Hirten, der deinem Volk die Wahrheit des Evangeliums verkündet und es zu einem christlichen Leben anleitet. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "la": "I. PRO SANCTA ECCLESIA",
+  "pt-BR": "I. PELA SANTA IGREJA",
+  "en-US": "I. FOR HOLY CHURCH",
+  "es": "I. POR LA SANTA IGLESIA",
+  "it": "I. PER LA SANTA CHIESA",
+  "fr": "I. POUR LA SAINTE ÉGLISE",
+  "de": "I. FÜR DIE HEILIGE KIRCHE"
+ },
+ "subtitle": {
+  "la": "4. PRO ELIGENDO PAPA VEL EPISCOPO",
+  "pt-BR": "4. PARA A ELEIÇÃO DO PAPA OU DO BISPO",
+  "en-US": "4. FOR THE ELECTION OF A POPE OR A BISHOP",
+  "es": "4. PARA ELEGIR UN PAPA O UN OBISPO",
+  "it": "4. PER L'ELEZIONE DEL PAPA O DEL VESCOVO",
+  "fr": "4. POUR L'ÉLECTION D'UN PAPE OU D'UN ÉVÊQUE",
+  "de": "4. ZUR WAHL EINES PAPSTES ODER EINES BISCHOFS"
+ }
+}

@@ -1,1 +1,40 @@
-{"id":"sanctorale.04-13.spain","source":"lecturas/lecturas_santos_abr#0413Z","items":[{"slot":"41","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["13 de abril"],["San Hermenegildo, mártir"]]}]}},{"mark":"readings"}],"lectionary":"readings.cm1f1","title":{"*":"San Hermenegildo, mártir"}}
+{
+ "id": "sanctorale.04-13.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13 de abril"
+       ],
+       [
+        "San Hermenegildo, mártir"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.cm1f1",
+ "title": {
+  "*": "San Hermenegildo, mártir"
+ }
+}

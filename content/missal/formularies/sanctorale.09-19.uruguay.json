@@ -1,1 +1,143 @@
-{"id":"sanctorale.09-19.uruguay","source":"santos/santos_arg#0919","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de Uruguay)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["19 de septiembre"],["Beatas Dolores y Consuelo Aguiar-Mella y Díaz y compañeras, Mártires"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["En Uruguay: Memoria libre"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Oh Dios, que coronaste con glorioso martirio a las beatas Dolores, Consuelo y compañeras, que vivían entregadas a la educación de las jóvenes; concédenos, por su intercesión, amarte a Ti sobre todas las cosas, y que sepamos servir con humildad a los hermanos. Por nuestro Señor Jesucristo, tu Hijo que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."]]}]},"part":"collect"}],"precedence":12,"commons":["common.martyrs.1","common.martyrs.2","common.martyrs.3","common.martyrs.4","common.martyrs.5"],"title":{"*":"Beatas Dolores y Consuelo Aguiar-Mella y Díaz y compañeras, Mártires"}}
+{
+ "id": "sanctorale.09-19.uruguay",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de Uruguay)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de septiembre"
+       ],
+       [
+        "Beatas Dolores y Consuelo Aguiar-Mella y Díaz y compañeras, Mártires"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En Uruguay: Memoria libre"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh Dios, que coronaste con glorioso martirio a las beatas Dolores, Consuelo y compañeras, que vivían entregadas a la educación de las jóvenes; concédenos, por su intercesión, amarte a Ti sobre todas las cosas, y que sepamos servir con humildad a los hermanos. Por nuestro Señor Jesucristo, tu Hijo que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  }
+ ],
+ "precedence": 12,
+ "commons": [
+  "common.martyrs.1",
+  "common.martyrs.2",
+  "common.martyrs.3",
+  "common.martyrs.4",
+  "common.martyrs.5"
+ ],
+ "title": {
+  "*": "Beatas Dolores y Consuelo Aguiar-Mella y Díaz y compañeras, Mártires"
+ }
+}

@@ -1,1 +1,1356 @@
-{"id":"sanctorale.12-28","source":"santos/santos_dic#1228","kind":"sanctoral","items":[{"slot":"141","text":{"la":[{"k":"h2","lines":[["Die 28 decembris"],["SS. INNOCENTIUM, MARTYRUM"]]},{"k":"h3","lines":[["Festum"]]}],"pt-BR":[{"k":"h2","lines":[["28 de dezembro"],["OS SANTOS INOCENTES, MÁRTIRES"]]},{"k":"h3","lines":[["Festa"]]},{"k":"p","lines":[["Os Inocentes, que dão testemunho de Cristo, não com palavras, mas com o sangue, lembram-nos que o martírio é dom gratuito do Senhor. As vítimas imoladas pela ferocidade de Herodes pertencem, juntamente com Santo Estêvão e com o evangelista João, ao cortejo do rei messiânico e lembram a eminente dignidade das crianças na Igreja. A memória deles aos 28 de dezembro é recordada no Martirológio Jeronimiano (séc. VI)."]]}],"en-US":[{"k":"h2","lines":[["December 28"],["THE HOLY INNOCENTS, MARTYRS"]]},{"k":"h3","lines":[["Feast"]]}],"es":[{"k":"h2","lines":[["28 de diciembre"],["LOS SANTOS INOCENTES, MÁRTIRES"]]},{"k":"h3","lines":[["Fiesta"]]}],"it":[{"k":"h2","lines":[["28 dicembre"],["SANTI INNOCENTI MARTIRI"]]},{"k":"h3","lines":[["FESTA"]]},{"k":"p","lines":[["Erode il Grande teme che la venuta di Cristo metta in pericolo il suo potere e manda a uccidere «tutti i bambini che stavano a Betlemme e in tutto il suo territorio e che avevano da due anni in giù» (Mt 2, 16), compiendo così la profezia di Geremia (cf. Ger 31, 15). Fin dal secolo V la memoria di queste vittime incolpevoli e inconsapevoli è legata al Natale del Signore; la data del 28 dicembre è indicata nel Martirologio geronimiano (sec. V-VI)."]]}],"fr":[{"k":"h2","lines":[["28 décembre"],["LES SAINTS INNOCENTS, MARTYRS"]]},{"k":"h3","lines":[["Fête"]]}],"de":[{"k":"h2","lines":[["28. Dezember"],["UNSCHULDIGE KINDER, MÄRTYRER"]]},{"k":"h3","lines":[["Fest"]]},{"k":"p","lines":[["Einen liturgischen Gedenktag dieser kindlichen “Blutzeugen” im Anschluss an Weihnachten gibt es seit dem 5. Jh.. Er erinnert an den Kindermord in Bethlehem und rühmt die kindlichen Märtyrer, denen es vergönnt war, nicht nur als Zeugen für Jesus, sondern stellvertretend für ihn zu sterben."]]}]},"part":"title"},{"slot":"142","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]]}]},"part":"entranceAntiphon"},{"slot":"143","text":{"la":[{"k":"p","lines":[["Innocéntes pro Christo infántes occísi sunt, ipsum sequúntur Agnum sine mácula, et dicunt semper: Glória tibi, Dómine."]]}],"pt-BR":[{"k":"p","lines":[["Inocentes, as crianças foram mortas por causa de Cristo,"],["seguem o Cordeiro sem mancha,"],["e cantam sem cessar: Glória a vós, Senhor!"]]}],"en-US":[{"k":"p","lines":[["The innocents were slaughtered as infants for Christ; spotless, they follow the Lamb"],["and sing for ever: Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[["Los niños inocentes murieron por Cristo, siguieron al Cordero sin mancha, a quien alaban por siempre: Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[["I santi Innocenti furono uccisi per Cristo, Agnello senza macchia, e in cielo lo seguono cantando sempre: Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[["Pour le Christ, des enfants innocents furent mis à mort ;"],["ils suivent l'Agneau sans tache,"],["et ne cessent de chanter : « Gloire à toi, Seigneur ! »"]]}],"de":[{"k":"p","lines":[["Die Unschuldigen Kinder erlitten für Christus den Tod. Nun folgen sie dem Lamm und singen sein Lob."]]}]},"part":"entranceAntiphon"},{"slot":"144","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Das "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":" wird gebetet."}]]}]},"part":"gloria"},{"slot":"145","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"146","text":{"la":[{"k":"p","lines":[["Deus, cuius hodiérna die præcónium Innocéntes mártyres non loquéndo sed moriéndo conféssi sunt, da, quǽsumus, ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus,"],["hoje os mártires Inocentes proclamaram o vosso louvor,"],["não por palavras, mas pela morte;"],["concedei que também nossa vida testemunhe"],["a fé que nossos lábios professam."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, whom the Holy Innocents confessed and proclaimed on this day,"],["not by speaking but by dying,"],["grant, we pray,"],["that the faith in you which we confess with our lips"],["may also speak through our manner of life."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["los mártires inocentes pregonan hoy"],["tu gloria no de palabra,"],["sino con su muerte;"],["concédenos dar testimonio con nuestra vida"],["de la fe que confesamos con los labios."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che oggi nei santi Innocenti sei stato glorificato non a parole ma con il martirio, concedi anche a noi di esprimere nella vita la fede che professiamo con le labbra. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["aujourd'hui, sans parler mais en mourant,"],["les martyrs innocents ont proclamé ta louange ;"],["fais que notre vie tout entière"],["témoigne de la foi que notre bouche proclame."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Vater im Himmel, nicht mit Worten haben die Unschuldigen Kinder dich gepriesen, sie haben dich verherrlicht durch ihr Sterben. Gib uns die Gnade, dass wir in Worten und Taten unseren Glauben an dich bekennen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"147","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"148","text":{"la":[{"k":"p","lines":[["Súscipe, Dómine, quǽsumus, devotórum múnera famulórum, et eos tuis purífica serviéntes pietáte mystériis, quibus étiam iustíficas ignorántes. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Aceitai, Senhor, nós vos pedimos,"],["os dons da devoção dos vossos fiéis,"],["e purificai os que, com piedade,"],["servem aos vossos mistérios,"],["pelos quais são salvos também"],["os que não vos conhecem."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Receive, O Lord, we pray,"],["the offerings of your devoted servants"],["and purify us as we faithfully serve these, your mysteries,"],["by which you grant justification"],["even to those who lack understanding."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Recibe, Señor,"],["las ofrendas de tus fieles siervos y purifícalos"],["al celebrar piadosamente tus misterios,"],["con los que santificas incluso a aquellos que no te conocen."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, o Signore, i doni dei tuoi servi fedeli e purifica coloro che celebrano con devozione i tuoi misteri, fonte di salvezza anche per quelli che ancora non ti conoscono. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Reçois, Seigneur, nous t'en prions,"],["les offrandes de tes fidèles serviteurs ;"],["purifie-les quand ils célèbrent avec amour tes mystères,"],["par lesquels tu rends justes"],["même ceux qui ne te connaissent pas."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, nimm diese Gaben an und heilige uns durch die Erlösungstat deines Sohnes, der auch die Unschuldigen Kinder gerechtfertigt und zu seinen Zeugen erwählt hat, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"prayerOverOfferings"},{"slot":"150","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Ap 14, 4"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Ap 14, 4"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Rev 14: 4"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Ap 14, 4"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Ap 14, 4"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Ap 14, 4"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Offb 14, 4"}]},"part":"communionAntiphon"},{"slot":"151","text":{"la":[{"k":"p","lines":[["Hi empti sunt ex homínibus, primítiæ Deo et Agno; hi sequúntur Agnum quocúmque íerit."]]}],"pt-BR":[{"k":"p","lines":[["Estes são os que foram resgatados do meio da humanidade"],["como primeira oferta a Deus e ao Cordeiro."],["Eles seguem o Cordeiro aonde quer que vá."]]}],"en-US":[{"k":"p","lines":[["Behold those redeemed as the first fruits"],["of the human race for God and the Lamb, and who follow the Lamb wherever he goes."]]}],"es":[{"k":"p","lines":[["Estos fueron rescatados como primicias de los hombres para Dios y el Cordero. Estos son los que siguen al Cordero adonde quiera que vaya."]]}],"it":[{"k":"p","lines":[["Sono stati redenti tra gli uomini come primizie per Dio e per l'Agnello e lo seguono ovunque vada."]]}],"fr":[{"k":"p","lines":[["Les enfants de Bethléem ont été rachetés d'entre les hommes"],["comme prémices pour Dieu et pour l'Agneau."],["Ils suivent l'Agneau partout où il va."]]}],"de":[{"k":"p","lines":[["Sie sind es, die aus den Menschen losgekauft wurden als Weihegabe für Gott und das Lamm. Sie folgen dem Lamm, wohin immer es geht."]]}]},"part":"communionAntiphon"},{"slot":"152","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"153","text":{"la":[{"k":"p","lines":[["Salvatiónis abundántiam tríbue, Dómine, fidélibus in eórum festivitáte tua sancta suméntibus, qui, Fílium tuum humána necdum voce profiténtes, cælésti sunt grátia pro eius nativitáte coronáti. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Concedei, Senhor, a plenitude da salvação"],["aos fiéis que se alimentaram dos vossos mistérios"],["na festa dos que, ainda sem falar,"],["professaram a fé e foram glorificados"],["pela graça do nascimento do vosso Filho."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, O Lord, abundant salvation to your faithful"],["as they receive your holy gifts"],["on the feast day of these, your Saints,"],["who, though still unable to profess your Son in speech, were crowned with heavenly grace"],["on account of his birth."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Concede, Señor,"],["las riquezas de la salvación a los fieles"],["que han recibido tu alimento santo en la fiesta de quienes,"],["incapaces todavía de confesar de palabra a tu Hijo,"],["han sido coronados con la gracia celestial"],["en virtud del nacimiento de Cristo."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["O Padre, concedi con abbondanza la tua salvezza ai fedeli nutriti dei tuoi santi misteri nella festa dei martiri Innocenti che, ancora incapaci di confessare il nome del tuo Figlio, per la sua nascita furono coronati di grazia celeste. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur, accorde les richesses du salut"],["aux fidèles qui ont reçu ta nourriture sainte,"],["en ce jour où nous fêtons des enfants"],["incapables encore de prononcer le nom de ton Fils"],["et pourtant couronnés par une grâce céleste"],["venue de sa naissance."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast den Unschuldigen Kindern die Krone der Märtyrer geschenkt, obwohl sie noch nicht fähig waren, deinen Sohn mit dem Munde zu bekennen. Christus, für den sie gestorben sind, schenke auch uns im Sakrament die Fülle des Heiles. Er, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"postcommunion"}],"precedence":7,"lectionary":"sanctorale.12-28","prefaces":["preface.5","preface.6","preface.7"],"title":{"la":"SS. INNOCENTIUM, MARTYRUM","pt-BR":"OS SANTOS INOCENTES, MÁRTIRES","en-US":"THE HOLY INNOCENTS, MARTYRS","es":"LOS SANTOS INOCENTES, MÁRTIRES","it":"SANTI INNOCENTI MARTIRI","fr":"LES SAINTS INNOCENTS, MARTYRS","de":"UNSCHULDIGE KINDER, MÄRTYRER"},"subtitle":{"la":"Festum","pt-BR":"Festa","en-US":"Feast","es":"Fiesta","it":"FESTA","fr":"Fête","de":"Fest"}}
+{
+ "id": "sanctorale.12-28",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 28 decembris"
+       ],
+       [
+        "SS. INNOCENTIUM, MARTYRUM"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Festum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28 de dezembro"
+       ],
+       [
+        "OS SANTOS INOCENTES, MÁRTIRES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Festa"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os Inocentes, que dão testemunho de Cristo, não com palavras, mas com o sangue, lembram-nos que o martírio é dom gratuito do Senhor. As vítimas imoladas pela ferocidade de Herodes pertencem, juntamente com Santo Estêvão e com o evangelista João, ao cortejo do rei messiânico e lembram a eminente dignidade das crianças na Igreja. A memória deles aos 28 de dezembro é recordada no Martirológio Jeronimiano (séc. VI)."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "December 28"
+       ],
+       [
+        "THE HOLY INNOCENTS, MARTYRS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Feast"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28 de diciembre"
+       ],
+       [
+        "LOS SANTOS INOCENTES, MÁRTIRES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fiesta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28 dicembre"
+       ],
+       [
+        "SANTI INNOCENTI MARTIRI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "FESTA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erode il Grande teme che la venuta di Cristo metta in pericolo il suo potere e manda a uccidere «tutti i bambini che stavano a Betlemme e in tutto il suo territorio e che avevano da due anni in giù» (Mt 2, 16), compiendo così la profezia di Geremia (cf. Ger 31, 15). Fin dal secolo V la memoria di queste vittime incolpevoli e inconsapevoli è legata al Natale del Signore; la data del 28 dicembre è indicata nel Martirologio geronimiano (sec. V-VI)."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28 décembre"
+       ],
+       [
+        "LES SAINTS INNOCENTS, MARTYRS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fête"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28. Dezember"
+       ],
+       [
+        "UNSCHULDIGE KINDER, MÄRTYRER"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fest"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Einen liturgischen Gedenktag dieser kindlichen “Blutzeugen” im Anschluss an Weihnachten gibt es seit dem 5. Jh.. Er erinnert an den Kindermord in Bethlehem und rühmt die kindlichen Märtyrer, denen es vergönnt war, nicht nur als Zeugen für Jesus, sondern stellvertretend für ihn zu sterben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Innocéntes pro Christo infántes occísi sunt, ipsum sequúntur Agnum sine mácula, et dicunt semper: Glória tibi, Dómine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Inocentes, as crianças foram mortas por causa de Cristo,"
+       ],
+       [
+        "seguem o Cordeiro sem mancha,"
+       ],
+       [
+        "e cantam sem cessar: Glória a vós, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The innocents were slaughtered as infants for Christ; spotless, they follow the Lamb"
+       ],
+       [
+        "and sing for ever: Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los niños inocentes murieron por Cristo, siguieron al Cordero sin mancha, a quien alaban por siempre: Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I santi Innocenti furono uccisi per Cristo, Agnello senza macchia, e in cielo lo seguono cantando sempre: Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pour le Christ, des enfants innocents furent mis à mort ;"
+       ],
+       [
+        "ils suivent l'Agneau sans tache,"
+       ],
+       [
+        "et ne cessent de chanter : « Gloire à toi, Seigneur ! »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Unschuldigen Kinder erlitten für Christus den Tod. Nun folgen sie dem Lamm und singen sein Lob."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": " wird gebetet."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, cuius hodiérna die præcónium Innocéntes mártyres non loquéndo sed moriéndo conféssi sunt, da, quǽsumus, ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus,"
+       ],
+       [
+        "hoje os mártires Inocentes proclamaram o vosso louvor,"
+       ],
+       [
+        "não por palavras, mas pela morte;"
+       ],
+       [
+        "concedei que também nossa vida testemunhe"
+       ],
+       [
+        "a fé que nossos lábios professam."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, whom the Holy Innocents confessed and proclaimed on this day,"
+       ],
+       [
+        "not by speaking but by dying,"
+       ],
+       [
+        "grant, we pray,"
+       ],
+       [
+        "that the faith in you which we confess with our lips"
+       ],
+       [
+        "may also speak through our manner of life."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "los mártires inocentes pregonan hoy"
+       ],
+       [
+        "tu gloria no de palabra,"
+       ],
+       [
+        "sino con su muerte;"
+       ],
+       [
+        "concédenos dar testimonio con nuestra vida"
+       ],
+       [
+        "de la fe que confesamos con los labios."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che oggi nei santi Innocenti sei stato glorificato non a parole ma con il martirio, concedi anche a noi di esprimere nella vita la fede che professiamo con le labbra. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "aujourd'hui, sans parler mais en mourant,"
+       ],
+       [
+        "les martyrs innocents ont proclamé ta louange ;"
+       ],
+       [
+        "fais que notre vie tout entière"
+       ],
+       [
+        "témoigne de la foi que notre bouche proclame."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vater im Himmel, nicht mit Worten haben die Unschuldigen Kinder dich gepriesen, sie haben dich verherrlicht durch ihr Sterben. Gib uns die Gnade, dass wir in Worten und Taten unseren Glauben an dich bekennen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súscipe, Dómine, quǽsumus, devotórum múnera famulórum, et eos tuis purífica serviéntes pietáte mystériis, quibus étiam iustíficas ignorántes. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aceitai, Senhor, nós vos pedimos,"
+       ],
+       [
+        "os dons da devoção dos vossos fiéis,"
+       ],
+       [
+        "e purificai os que, com piedade,"
+       ],
+       [
+        "servem aos vossos mistérios,"
+       ],
+       [
+        "pelos quais são salvos também"
+       ],
+       [
+        "os que não vos conhecem."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Receive, O Lord, we pray,"
+       ],
+       [
+        "the offerings of your devoted servants"
+       ],
+       [
+        "and purify us as we faithfully serve these, your mysteries,"
+       ],
+       [
+        "by which you grant justification"
+       ],
+       [
+        "even to those who lack understanding."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recibe, Señor,"
+       ],
+       [
+        "las ofrendas de tus fieles siervos y purifícalos"
+       ],
+       [
+        "al celebrar piadosamente tus misterios,"
+       ],
+       [
+        "con los que santificas incluso a aquellos que no te conocen."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, o Signore, i doni dei tuoi servi fedeli e purifica coloro che celebrano con devozione i tuoi misteri, fonte di salvezza anche per quelli che ancora non ti conoscono. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reçois, Seigneur, nous t'en prions,"
+       ],
+       [
+        "les offrandes de tes fidèles serviteurs ;"
+       ],
+       [
+        "purifie-les quand ils célèbrent avec amour tes mystères,"
+       ],
+       [
+        "par lesquels tu rends justes"
+       ],
+       [
+        "même ceux qui ne te connaissent pas."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, nimm diese Gaben an und heilige uns durch die Erlösungstat deines Sohnes, der auch die Unschuldigen Kinder gerechtfertigt und zu seinen Zeugen erwählt hat, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Ap 14, 4"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Ap 14, 4"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Rev 14: 4"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Ap 14, 4"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Ap 14, 4"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Ap 14, 4"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Offb 14, 4"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hi empti sunt ex homínibus, primítiæ Deo et Agno; hi sequúntur Agnum quocúmque íerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Estes são os que foram resgatados do meio da humanidade"
+       ],
+       [
+        "como primeira oferta a Deus e ao Cordeiro."
+       ],
+       [
+        "Eles seguem o Cordeiro aonde quer que vá."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Behold those redeemed as the first fruits"
+       ],
+       [
+        "of the human race for God and the Lamb, and who follow the Lamb wherever he goes."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Estos fueron rescatados como primicias de los hombres para Dios y el Cordero. Estos son los que siguen al Cordero adonde quiera que vaya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sono stati redenti tra gli uomini come primizie per Dio e per l'Agnello e lo seguono ovunque vada."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les enfants de Bethléem ont été rachetés d'entre les hommes"
+       ],
+       [
+        "comme prémices pour Dieu et pour l'Agneau."
+       ],
+       [
+        "Ils suivent l'Agneau partout où il va."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sie sind es, die aus den Menschen losgekauft wurden als Weihegabe für Gott und das Lamm. Sie folgen dem Lamm, wohin immer es geht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salvatiónis abundántiam tríbue, Dómine, fidélibus in eórum festivitáte tua sancta suméntibus, qui, Fílium tuum humána necdum voce profiténtes, cælésti sunt grátia pro eius nativitáte coronáti. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedei, Senhor, a plenitude da salvação"
+       ],
+       [
+        "aos fiéis que se alimentaram dos vossos mistérios"
+       ],
+       [
+        "na festa dos que, ainda sem falar,"
+       ],
+       [
+        "professaram a fé e foram glorificados"
+       ],
+       [
+        "pela graça do nascimento do vosso Filho."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, O Lord, abundant salvation to your faithful"
+       ],
+       [
+        "as they receive your holy gifts"
+       ],
+       [
+        "on the feast day of these, your Saints,"
+       ],
+       [
+        "who, though still unable to profess your Son in speech, were crowned with heavenly grace"
+       ],
+       [
+        "on account of his birth."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concede, Señor,"
+       ],
+       [
+        "las riquezas de la salvación a los fieles"
+       ],
+       [
+        "que han recibido tu alimento santo en la fiesta de quienes,"
+       ],
+       [
+        "incapaces todavía de confesar de palabra a tu Hijo,"
+       ],
+       [
+        "han sido coronados con la gracia celestial"
+       ],
+       [
+        "en virtud del nacimiento de Cristo."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, concedi con abbondanza la tua salvezza ai fedeli nutriti dei tuoi santi misteri nella festa dei martiri Innocenti che, ancora incapaci di confessare il nome del tuo Figlio, per la sua nascita furono coronati di grazia celeste. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, accorde les richesses du salut"
+       ],
+       [
+        "aux fidèles qui ont reçu ta nourriture sainte,"
+       ],
+       [
+        "en ce jour où nous fêtons des enfants"
+       ],
+       [
+        "incapables encore de prononcer le nom de ton Fils"
+       ],
+       [
+        "et pourtant couronnés par une grâce céleste"
+       ],
+       [
+        "venue de sa naissance."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast den Unschuldigen Kindern die Krone der Märtyrer geschenkt, obwohl sie noch nicht fähig waren, deinen Sohn mit dem Munde zu bekennen. Christus, für den sie gestorben sind, schenke auch uns im Sakrament die Fülle des Heiles. Er, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 7,
+ "lectionary": "sanctorale.12-28",
+ "prefaces": [
+  "preface.5",
+  "preface.6",
+  "preface.7"
+ ],
+ "title": {
+  "la": "SS. INNOCENTIUM, MARTYRUM",
+  "pt-BR": "OS SANTOS INOCENTES, MÁRTIRES",
+  "en-US": "THE HOLY INNOCENTS, MARTYRS",
+  "es": "LOS SANTOS INOCENTES, MÁRTIRES",
+  "it": "SANTI INNOCENTI MARTIRI",
+  "fr": "LES SAINTS INNOCENTS, MARTYRS",
+  "de": "UNSCHULDIGE KINDER, MÄRTYRER"
+ },
+ "subtitle": {
+  "la": "Festum",
+  "pt-BR": "Festa",
+  "en-US": "Feast",
+  "es": "Fiesta",
+  "it": "FESTA",
+  "fr": "Fête",
+  "de": "Fest"
+ }
+}

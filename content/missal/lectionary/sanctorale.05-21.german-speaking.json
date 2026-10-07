@@ -1,1 +1,663 @@
-{"id":"sanctorale.05-21.german-speaking","source":"lecturas/lecturas_santos_may#0521Z","items":[{"slot":"122","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[in den Diözesen deutscher Sprache]"}]]},{"k":"h2","lines":[["21. Mai"],["Hl. Hermann Josef, Ordenspriester, Mystiker"]]}]}},{"slot":"123","text":{"*":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch Jesus Sirach"]],"cite":"42, 15-21b","role":"announcement"},{"k":"p","lines":[["Ich will der Werke Gottes gedenken; was ich gesehen habe, will ich erzählen: Durch Gottes Wort entstanden seine Werke; seine Lehre ist ein Ausfluss seiner Liebe. Über allem strahlt die leuchtende Sonne, die Herrlichkeit des Herrn erfüllt alle seine Werke."],["Die Heiligen Gottes vermögen nicht, alle seine Wunder zu erzählen. Gott gibt seinen Heerscharen die Kraft, vor seiner Herrlichkeit zu bestehen."],["Meerestiefe und Menschenherz durchforscht er, und er kennt alle ihre Geheimnisse. Der Höchste hat Kenntnis von allem, bis in die fernste Zeit sieht er das Kommende. Vergangenheit und Zukunft macht er kund und enthüllt die Rätsel des Verborgenen. Es fehlt ihm keine Einsicht, kein Ding entgeht ihm."],["Seine machtvolle Weisheit hat er fest gegründet, er ist der Einzige von Ewigkeit her."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"124","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"slot":"125","text":{"*":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 19 (18A.B), 2-3. 4-5b. 8 (R: 15b)","role":"title"}]},"part":"psalm"},{"slot":"126","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Was ich im Herzen erwäge, stehe dir vor Augen, Herr."]]}]},"part":"psalm","role":"people"},{"slot":"127","text":{"*":[{"k":"p","lines":[["Die Himmel rühmen die Herrlichkeit Gottes,"],["vom Werk seiner Hände kündet das Firmament."],["Ein Tag sagt es dem andern,"],["eine Nacht tut es der andern kund,"]]}]},"part":"psalm","role":"verse"},{"slot":"128","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Was ich im Herzen erwäge, stehe dir vor Augen, Herr."]]}]},"part":"psalm","role":"people"},{"slot":"129","text":{"*":[{"k":"p","lines":[["ohne Worte und ohne Reden,"],["unhörbar bleibt ihre Stimme."],["Doch ihre Botschaft geht in die ganze Welt hinaus,"],["ihre Kunde bis zu den Enden der Erde."]]}]},"part":"psalm","role":"verse"},{"slot":"130","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Was ich im Herzen erwäge, stehe dir vor Augen, Herr."]]}]},"part":"psalm","role":"people"},{"slot":"131","text":{"*":[{"k":"p","lines":[["Die Weisung des Herrn ist vollkommen,"],["sie erquickt den Menschen."],["Das Gesetz des Herrn ist verlässlich,"],["den Unwissenden macht es weise."]]}]},"part":"psalm","role":"verse"},{"slot":"132","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Was ich im Herzen erwäge, stehe dir vor Augen, Herr."]]}]},"part":"psalm","role":"people"},{"slot":"133","text":{"*":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"cite":"Mt 11, 27b","role":"title"},{"k":"p","lines":[["Halleluja. Halleluja."],["(So spricht der Herr:) Niemand kennt den Vater, nur der Sohn und der, dem es der Sohn offenbaren will."],["Halleluja."]]}]},"part":"acclamation"},{"slot":"134","text":{"*":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"11, 25-30","role":"announcement"}]},"part":"gospel"},{"slot":"135","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"136","text":{"*":[{"k":"p","lines":[["In jener Zeit sprach Jesus:"],["Ich preise dich, Vater, Herr des Himmels und der Erde, weil du all das den Weisen und Klugen verborgen, den Unmündigen aber offenbart hast. Ja, Vater, so hat es dir gefallen. Mir ist von meinem Vater alles übergeben worden; niemand kennt den Sohn, nur der Vater, und niemand kennt den Vater, nur der Sohn und der, dem es der Sohn offenbaren will."],["Kommt alle zu mir, die ihr euch plagt und schwere Lasten zu tragen habt. Ich werde euch Ruhe verschaffen. Nehmt mein Joch auf euch und lernt von mir; denn ich bin gütig und von Herzen demütig; so werdet ihr Ruhe finden für eure Seele. Denn mein Joch drückt nicht, und meine Last ist leicht."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"137","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"*":"Hl. Hermann Josef, Ordenspriester, Mystiker"}}
+{
+ "id": "sanctorale.05-21.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21. Mai"
+       ],
+       [
+        "Hl. Hermann Josef, Ordenspriester, Mystiker"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesus Sirach"
+       ]
+      ],
+      "cite": "42, 15-21b",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich will der Werke Gottes gedenken; was ich gesehen habe, will ich erzählen: Durch Gottes Wort entstanden seine Werke; seine Lehre ist ein Ausfluss seiner Liebe. Über allem strahlt die leuchtende Sonne, die Herrlichkeit des Herrn erfüllt alle seine Werke."
+       ],
+       [
+        "Die Heiligen Gottes vermögen nicht, alle seine Wunder zu erzählen. Gott gibt seinen Heerscharen die Kraft, vor seiner Herrlichkeit zu bestehen."
+       ],
+       [
+        "Meerestiefe und Menschenherz durchforscht er, und er kennt alle ihre Geheimnisse. Der Höchste hat Kenntnis von allem, bis in die fernste Zeit sieht er das Kommende. Vergangenheit und Zukunft macht er kund und enthüllt die Rätsel des Verborgenen. Es fehlt ihm keine Einsicht, kein Ding entgeht ihm."
+       ],
+       [
+        "Seine machtvolle Weisheit hat er fest gegründet, er ist der Einzige von Ewigkeit her."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 19 (18A.B), 2-3. 4-5b. 8 (R: 15b)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Was ich im Herzen erwäge, stehe dir vor Augen, Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Himmel rühmen die Herrlichkeit Gottes,"
+       ],
+       [
+        "vom Werk seiner Hände kündet das Firmament."
+       ],
+       [
+        "Ein Tag sagt es dem andern,"
+       ],
+       [
+        "eine Nacht tut es der andern kund,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Was ich im Herzen erwäge, stehe dir vor Augen, Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "ohne Worte und ohne Reden,"
+       ],
+       [
+        "unhörbar bleibt ihre Stimme."
+       ],
+       [
+        "Doch ihre Botschaft geht in die ganze Welt hinaus,"
+       ],
+       [
+        "ihre Kunde bis zu den Enden der Erde."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Was ich im Herzen erwäge, stehe dir vor Augen, Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Weisung des Herrn ist vollkommen,"
+       ],
+       [
+        "sie erquickt den Menschen."
+       ],
+       [
+        "Das Gesetz des Herrn ist verlässlich,"
+       ],
+       [
+        "den Unwissenden macht es weise."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Was ich im Herzen erwäge, stehe dir vor Augen, Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Mt 11, 27b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Halleluja. Halleluja."
+       ],
+       [
+        "(So spricht der Herr:) Niemand kennt den Vater, nur der Sohn und der, dem es der Sohn offenbaren will."
+       ],
+       [
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "11, 25-30",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus:"
+       ],
+       [
+        "Ich preise dich, Vater, Herr des Himmels und der Erde, weil du all das den Weisen und Klugen verborgen, den Unmündigen aber offenbart hast. Ja, Vater, so hat es dir gefallen. Mir ist von meinem Vater alles übergeben worden; niemand kennt den Sohn, nur der Vater, und niemand kennt den Vater, nur der Sohn und der, dem es der Sohn offenbaren will."
+       ],
+       [
+        "Kommt alle zu mir, die ihr euch plagt und schwere Lasten zu tragen habt. Ich werde euch Ruhe verschaffen. Nehmt mein Joch auf euch und lernt von mir; denn ich bin gütig und von Herzen demütig; so werdet ihr Ruhe finden für eure Seele. Denn mein Joch drückt nicht, und meine Last ist leicht."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "Hl. Hermann Josef, Ordenspriester, Mystiker"
+ }
+}

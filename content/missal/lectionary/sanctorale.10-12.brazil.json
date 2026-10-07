@@ -1,1 +1,506 @@
-{"id":"sanctorale.10-12.brazil","source":"lecturas/lecturas_santos_brasil#1012Z","items":[{"slot":"1","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(nas dioceses de Brasil)"}]]},{"k":"h2","lines":[["12 de outubro"],["Nossa Senhora da Conceição Aparecida"]]}]}},{"slot":"2","text":{"*":[{"k":"p","lines":[["Primeira Leitura"]],"role":"title"},{"k":"p","lines":[["Concede-me a vida do meu povo - eis o meu desejo!"]],"role":"summary"},{"k":"p","lines":[["Leitura do Livro de Ester"]],"cite":"4, 4-7","role":"announcement"},{"k":"p","lines":[["Ester revestiu-se com vestes de rainha e foi coolocar-se no vestibulo interno do palacio real, diante da residência do rei. O rei estava sentado no trono real, na sala do trono, dianate da entrada. Ao ver a rainha Ester parada no vestíbulo, olhou para ela com agrado e estendei-lhe o cetro de ouro que tinha na mão, Ester aproximou-se para tocar a ponta do cetro. Então, o rei lhe disse: \"Que me pedes, Ester; que queres que eu faça? Ainda que me pedisses a metade do meu reino, ela te seria concedida\". Ester respondeu-lhe: \"Se ganhei as tuas boas graças, ó rei, e se for de teu agrado, concede-me a vida - eis o meu pedido! e a vida do meu povo - eis o meu desejo!"]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"3","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}]},"role":"people","part":"firstReading"},{"slot":"4","text":{"*":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sl 44(45), 11-12a.12b-13.14-15a.15b-16","role":"title"}]},"part":"psalm"},{"slot":"5","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/."},"Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"]]}]},"part":"psalm","role":"people"},{"slot":"6","text":{"*":[{"k":"p","lines":[["Escutai, minha filha, olhai, ouvi isto:"],["\"Esquecei vosso povo e a casa paterna!"],["Que o Rei se encante com vossa beleza!"],["Prestai-lhe homenagem: é vosso Senhor!"]]}]},"part":"psalm","role":"verse"},{"slot":"7","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/."},"Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"]]}]},"part":"psalm","role":"people"},{"slot":"8","text":{"*":[{"k":"p","lines":[["O povo de Tiro vos traz seus presentes,"],["os grandes do povo vos pedem favores."],["Majestosa, a princesa real vem chegando,"],["vestida de ricos brocados de ouro."]]}]},"part":"psalm","role":"verse"},{"slot":"9","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/."},"Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"]]}]},"part":"psalm","role":"people"},{"slot":"10","text":{"*":[{"k":"p","lines":[["Em vestes vistosas ao Rei se dirige,"],["e as virgens amigas lhe formam cortejo;"],["entre cantos de festa e com grande alegria,"],["ingressam, então, no palácio real\"."]]}]},"part":"psalm","role":"verse"},{"slot":"11","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/."},"Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"]]}]},"part":"psalm","role":"people"},{"slot":"12","text":{"*":[{"k":"p","lines":[["Segunda Leitura"]],"role":"title"},{"k":"p","lines":[["Um grande sinal apareceu no céu."]],"role":"summary"},{"k":"p","lines":[["Leitura do Livro do Apocalipse de São João"]],"cite":"12,1.5.13a.15-16a","role":"announcement"},{"k":"p","lines":[["Apareceu no céu um grande sinal: uma mulher vestida do sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas. E ela deu a luz um filho homem, que veio para governar todas as nações com cetro de ferro. Mas o filho foi levado para junto de Deus e do seu trono. Quando viu que tinha sido expulso para a terra, o dragão começou a perseguir a mulher que tinha dado à luz o menino. A serpente, então, vomitou como um rio de água atrás da mulher, a fim de a submergir. A terra, porem, veio em socorro da mulher."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}]},"part":"secondReading"},{"slot":"13","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}]},"role":"people","part":"secondReading"},{"slot":"14","text":{"*":[{"k":"p","lines":[["Aclamação ao Evangelho"]],"role":"title"},{"k":"p","lines":[["Aleluia, aleluia."],["Disse a Mãe de Jesus aos serventes: Façam tudo o que Ele disser!"],["Aleluia."]]}]},"part":"acclamation"},{"text":{"*":[{"k":"p","lines":[["Evangelho"]],"role":"title"}]},"part":"gospel"},{"text":{"*":[{"k":"p","lines":[["Fazei o que ele vos disser."]],"role":"summary"}]},"part":"gospel"},{"text":{"*":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo João."]],"cite":"2,1 -11","role":"announcement"}]},"part":"gospel"},{"slot":"15","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}]},"part":"gospel","role":"people"},{"text":{"*":[{"k":"p","lines":[["Naquele tempo, houve um casamento em Caná da Galiléia. A mãe de Jesus estava presente. Também Jesus e seus discípulos tinham sido convidados para o casamento. Como o vinho veio a faltar, a mãe de Jesus lhe disse: \"Eles não tem mais vinho\". Jesus respondeu-lhe: \"Mulher, por que dizes isto a mim? Minha hora ainda não chegou\". Sua mãe disse aos que estavam servindo: \"Fazei o que ele vos disser\". Estavam seis talhas de pedra postas ali para a purificação que os judeus costumam fazer. Em cada uma delas cabiam mais ou menos cem litros. Jesus disse aos que estavam servindo: \"Enchei as talhas de água\". Encheram-nas até a boca. Jesus disse: \"Agora tirai e levai ao mestre-sala\". E eles levaram. O mestre-sala experimentou a água, que se tinha transformado em vinho. Ele não sabia de onde vinha, mas os que estavam servindo sabiam, pois eram eles que tinham tirado a água. O mestre-sala chamou então o noivo e lhe disse: \"Todo mundo serve primeiro o vinho melhor e, quando os convidados já estão embriagados, serve o vinho menos bom. Mas tu guardaste o vinho melhor até agora!\" Este foi o início dos sinais de Jesus, ele o realizou em Caná da Galiléia e manifestou a sua glória, e seus discípulos creram nele."]]}]},"part":"gospel"},{"text":{"*":[{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"16","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}]},"role":"people","part":"gospel"}],"title":{"*":"Nossa Senhora da Conceição Aparecida"}}
+{
+ "id": "sanctorale.10-12.brazil",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(nas dioceses de Brasil)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "12 de outubro"
+       ],
+       [
+        "Nossa Senhora da Conceição Aparecida"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concede-me a vida do meu povo - eis o meu desejo!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro de Ester"
+       ]
+      ],
+      "cite": "4, 4-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ester revestiu-se com vestes de rainha e foi coolocar-se no vestibulo interno do palacio real, diante da residência do rei. O rei estava sentado no trono real, na sala do trono, dianate da entrada. Ao ver a rainha Ester parada no vestíbulo, olhou para ela com agrado e estendei-lhe o cetro de ouro que tinha na mão, Ester aproximou-se para tocar a ponta do cetro. Então, o rei lhe disse: \"Que me pedes, Ester; que queres que eu faça? Ainda que me pedisses a metade do meu reino, ela te seria concedida\". Ester respondeu-lhe: \"Se ganhei as tuas boas graças, ó rei, e se for de teu agrado, concede-me a vida - eis o meu pedido! e a vida do meu povo - eis o meu desejo!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 44(45), 11-12a.12b-13.14-15a.15b-16",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escutai, minha filha, olhai, ouvi isto:"
+       ],
+       [
+        "\"Esquecei vosso povo e a casa paterna!"
+       ],
+       [
+        "Que o Rei se encante com vossa beleza!"
+       ],
+       [
+        "Prestai-lhe homenagem: é vosso Senhor!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O povo de Tiro vos traz seus presentes,"
+       ],
+       [
+        "os grandes do povo vos pedem favores."
+       ],
+       [
+        "Majestosa, a princesa real vem chegando,"
+       ],
+       [
+        "vestida de ricos brocados de ouro."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Em vestes vistosas ao Rei se dirige,"
+       ],
+       [
+        "e as virgens amigas lhe formam cortejo;"
+       ],
+       [
+        "entre cantos de festa e com grande alegria,"
+       ],
+       [
+        "ingressam, então, no palácio real\"."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Um grande sinal apareceu no céu."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Apocalipse de São João"
+       ]
+      ],
+      "cite": "12,1.5.13a.15-16a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apareceu no céu um grande sinal: uma mulher vestida do sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas. E ela deu a luz um filho homem, que veio para governar todas as nações com cetro de ferro. Mas o filho foi levado para junto de Deus e do seu trono. Quando viu que tinha sido expulso para a terra, o dragão começou a perseguir a mulher que tinha dado à luz o menino. A serpente, então, vomitou como um rio de água atrás da mulher, a fim de a submergir. A terra, porem, veio em socorro da mulher."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "secondReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "secondReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "Disse a Mãe de Jesus aos serventes: Façam tudo o que Ele disser!"
+       ],
+       [
+        "Aleluia."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fazei o que ele vos disser."
+       ]
+      ],
+      "role": "summary"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo João."
+       ]
+      ],
+      "cite": "2,1 -11",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, houve um casamento em Caná da Galiléia. A mãe de Jesus estava presente. Também Jesus e seus discípulos tinham sido convidados para o casamento. Como o vinho veio a faltar, a mãe de Jesus lhe disse: \"Eles não tem mais vinho\". Jesus respondeu-lhe: \"Mulher, por que dizes isto a mim? Minha hora ainda não chegou\". Sua mãe disse aos que estavam servindo: \"Fazei o que ele vos disser\". Estavam seis talhas de pedra postas ali para a purificação que os judeus costumam fazer. Em cada uma delas cabiam mais ou menos cem litros. Jesus disse aos que estavam servindo: \"Enchei as talhas de água\". Encheram-nas até a boca. Jesus disse: \"Agora tirai e levai ao mestre-sala\". E eles levaram. O mestre-sala experimentou a água, que se tinha transformado em vinho. Ele não sabia de onde vinha, mas os que estavam servindo sabiam, pois eram eles que tinham tirado a água. O mestre-sala chamou então o noivo e lhe disse: \"Todo mundo serve primeiro o vinho melhor e, quando os convidados já estão embriagados, serve o vinho menos bom. Mas tu guardaste o vinho melhor até agora!\" Este foi o início dos sinais de Jesus, ele o realizou em Caná da Galiléia e manifestou a sua glória, e seus discípulos creram nele."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "Nossa Senhora da Conceição Aparecida"
+ }
+}

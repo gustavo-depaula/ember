@@ -1,1 +1,208 @@
-{"id":"sanctorale.02-25.german-speaking","source":"santos/santos_feb#0225","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["25. Februar"],["Hl. Walburga, Äbtissin"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Die Schwester der heiligen Willibald und Wunibald gehört zur Gruppe jener Missionshelferinnen des heiligen Bonifatius, die durch ihre Glaubenskraft, angesehene Stellung, Bildung und Wohltätigkeit Zentren der Christianisierung Deutschlands schufen. Sie leitete als Äbtissin in Heidenheim (Franken) mit ihrem Bruder Wunibald das benediktinische Doppelkloster. Gestorben am 25. Februar 779 in Heidenheim. Übertragung der Gebeine nach Eichstätt (St. Walburg) um 870."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Ordensleute:"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Barmherziger Gott, du hast der heiligen Äbtissin Walburga einen starken Glauben und ein mütterliches Herz gegeben. Hilf uns auf ihre Fürsprache, an deinen Wort festzuhalten und in der Welt deine Güte sichtbar zu machen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"104","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.57"],"commons":["common.holy-men-and-women.10","common.holy-men-and-women.11"],"title":{"*":"Hl. Walburga, Äbtissin"}}
+{
+ "id": "sanctorale.02-25.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "25. Februar"
+       ],
+       [
+        "Hl. Walburga, Äbtissin"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Schwester der heiligen Willibald und Wunibald gehört zur Gruppe jener Missionshelferinnen des heiligen Bonifatius, die durch ihre Glaubenskraft, angesehene Stellung, Bildung und Wohltätigkeit Zentren der Christianisierung Deutschlands schufen. Sie leitete als Äbtissin in Heidenheim (Franken) mit ihrem Bruder Wunibald das benediktinische Doppelkloster. Gestorben am 25. Februar 779 in Heidenheim. Übertragung der Gebeine nach Eichstätt (St. Walburg) um 870."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Ordensleute:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, du hast der heiligen Äbtissin Walburga einen starken Glauben und ein mütterliches Herz gegeben. Hilf uns auf ihre Fürsprache, an deinen Wort festzuhalten und in der Welt deine Güte sichtbar zu machen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.57"
+ ],
+ "commons": [
+  "common.holy-men-and-women.10",
+  "common.holy-men-and-women.11"
+ ],
+ "title": {
+  "*": "Hl. Walburga, Äbtissin"
+ }
+}

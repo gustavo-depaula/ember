@@ -1,1 +1,352 @@
-{"id":"sanctorale.12-10.spain","source":"santos/santos_dic#1210Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["10 de diciembre"],["Santa Eulalia de Mérida, virgen y mártir"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Eulalia, de esclarecido linaje por su nacimiento, pero más todavía por su muerte, nació en Mérida a finales del siglo III. Prudencio hace una primorosa descripción de su martirio, coincidiendo admirablemente con las actas escritas por un testigo ocular. Murió, tras crueles torturas, a la edad de doce años, un día 10 de diciembre. Es una de las mártires españolas más veneradas. Murió con tan sólo doce años de edad, en el año 305, bajo el emperador Maximiano."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"vm","to":"common.martyrs.13"}," ",{"m":"rubric","t":", o de vírgenes:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Oh, Dios,"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["fuente de todos los bienes,"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["que para llevarnos a la\nconfesión de tu nombre"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["te has servido incluso del martirio de los\nniños,"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["haz que tu Iglesia,"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["alentada por el ejemplo de santa\nEulalia de Mérida, mártir,"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["no tema sufrir por ti"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["y desee\nardientemente la gloria del premio eterno."]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Por nuestro Señor\nJesucristo."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"69","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.12-10.spain","prefaces":["preface.54","preface.55","preface.57"],"commons":["common.martyrs.13","common.virgins.1","common.virgins.2","common.virgins.3"],"title":{"*":"Santa Eulalia de Mérida, virgen y mártir"}}
+{
+ "id": "sanctorale.12-10.spain",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10 de diciembre"
+       ],
+       [
+        "Santa Eulalia de Mérida, virgen y mártir"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eulalia, de esclarecido linaje por su nacimiento, pero más todavía por su muerte, nació en Mérida a finales del siglo III. Prudencio hace una primorosa descripción de su martirio, coincidiendo admirablemente con las actas escritas por un testigo ocular. Murió, tras crueles torturas, a la edad de doce años, un día 10 de diciembre. Es una de las mártires españolas más veneradas. Murió con tan sólo doce años de edad, en el año 305, bajo el emperador Maximiano."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "vm",
+         "to": "common.martyrs.13"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": ", o de vírgenes:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "fuente de todos los bienes,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "que para llevarnos a la\nconfesión de tu nombre"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "te has servido incluso del martirio de los\nniños,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "haz que tu Iglesia,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "alentada por el ejemplo de santa\nEulalia de Mérida, mártir,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "no tema sufrir por ti"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "y desee\nardientemente la gloria del premio eterno."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por nuestro Señor\nJesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.12-10.spain",
+ "prefaces": [
+  "preface.54",
+  "preface.55",
+  "preface.57"
+ ],
+ "commons": [
+  "common.martyrs.13",
+  "common.virgins.1",
+  "common.virgins.2",
+  "common.virgins.3"
+ ],
+ "title": {
+  "*": "Santa Eulalia de Mérida, virgen y mártir"
+ }
+}

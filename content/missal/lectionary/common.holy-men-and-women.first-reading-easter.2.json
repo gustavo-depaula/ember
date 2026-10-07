@@ -1,0 +1,407 @@
+{
+ "id": "common.holy-men-and-women.first-reading-easter.2",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cenabo cum illo et ipse mecum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Apocalýpsis beáti Ioánnis apóstoli"
+       ]
+      ],
+      "cite": "3, 14b. 20-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc dicit Amen, testis fidélis et verus, princípium creatúræ Dei: «Ecce sto ad óstium et pulso. Si quis audíerit vocem meam et aperúerit iánuam, introíbo ad illum et cenábo cum illo, et ipse mecum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui vícerit, dabo ei sedére mecum in throno meo, sicut et ego vici et sedi cum Patre meo in throno eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui habet aurem, áudiat quid Spíritus dicat Ecclésiis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tomaremos a refeição, eu com ele e ele comigo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Apocalipse de São João"
+       ]
+      ],
+      "cite": "3, 14b. 20-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Assim fala o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:'Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, eu entrarei na sua casa, e tomaremos a refeição, eu com ele e ele comigo. Ao vencedor farei sentar-se comigo no meu trono, como também eu venci e estou sentado com meu Pai no seu trono. Quem tem ouvidos, ouça o que o Espírito diz às Igrejas\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the book of the Apocalypse"
+       ]
+      ],
+      "cite": "3:14.20-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Here is the message of the Amen, the faithful, the true witness, the ultimate source of God's creation: Look, I am standing at the door, knocking. If one of you hears me calling and opens the door, I will come in to share his meal, side by side with him. Those who prove victorious I will allow to share my throne, just as I was victorious myself and took my place with my Father on his throne. If anyone has ears to hear, let him listen to what the Spirit is saying to the churches.\"'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cenaré con él y él conmigo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Apocalipsis"
+       ]
+      ],
+      "cite": "3, 14b. 20-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esto dice el Amén, el testigo fiel y veraz, el principio de la creación de Dios:"
+       ],
+       [
+        "«Mira, estoy de pie a la puerta y llamo. Si alguien escucha mi voz y abre la puerta, entraré en su casa y cenaré con él y él conmigo."
+       ],
+       [
+        "Al vencedor le concederé sentarse conmigo en mi trono, como yo he vencido y me he sentado con mi Padre en su trono."
+       ],
+       [
+        "El que tenga oídos, oiga lo que el Espíritu dice a las iglesias»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cenerò con lui ed egli con me."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro dell'Apocalisse di san Giovanni apostolo"
+       ]
+      ],
+      "cite": "3, 14b. 20-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Così parla l'Amen, il Testimone degno di fede e veritiero, il Principio della creazione di Dio. Ecco: sto alla porta e busso. Se qualcuno ascolta la mia voce e mi apre la porta, io verrò da lui, cenerò con lui ed egli con me."
+       ],
+       [
+        "II vincitore lo farò sedere con me, sul mio trono, come anche io ho vinto e siedo con il Padre mio sul suo trono."
+       ],
+       [
+        "Chi ha orecchi, ascolti ciò che lo Spirito dice alle Chiese."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de l'Apocalypse de saint Jean"
+       ]
+      ],
+      "cite": "3, 14b. 20-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi parle celui qui est l'Amen, le témoin fidèle et vrai, le principe de la création de Dieu : Voici que je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui ; je prendrai mon repas avec lui, et lui avec moi. Le vainqueur, je lui donnerai de siéger avec moi sur mon Trône, comme moi-même, après ma victoire, j'ai siégé avec mon Père sur son Trône. Celui qui a des oreilles, qu'il entende ce que l'Esprit dit aux Églises."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Offenbarung des Johannes"
+       ]
+      ],
+      "cite": "3, 14b. 20-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht Er, der „Amen“ heißt, der treue und zuverlässige Zeuge, der Anfang der Schöpfung Gottes: Ich stehe vor der Tür und klopfe an. Wer meine Stimme hört und die Tür öffnet, bei dem werde ich eintreten, und wir werden Mahl halten, ich mit ihm und er mit mir."
+       ],
+       [
+        "Wer siegt, der darf mit mir auf meinem Thron sitzen, so wie auch ich gesiegt habe und mich mit meinem Vater auf seinen Thron gesetzt habe."
+       ],
+       [
+        "Wer Ohren hat, der höre, was der Geist den Gemeinden sagt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

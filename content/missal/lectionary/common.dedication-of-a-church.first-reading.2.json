@@ -1,0 +1,503 @@
+{
+ "id": "common.dedication-of-a-church.first-reading.2",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ædificavi domum in habitaculum tuum, ut habitares ibi in perpetuum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri secúndi Paralipómenon"
+       ]
+      ],
+      "cite": "5, 6-10. 13 — 6, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rex Sálomon et univérsus cœtus Israel, omnes, qui fuérunt congregáti ad eum ante arcam, immolábant oves et boves absque ullo número: tanta enim erat multitúdo victimárum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et intulérunt sacerdótes arcam fœderis Dómini in locum suum ad Dabir templi, in sancta sanctórum subter alas Chérubim, ita ut Chérubim expánderent alas suas super locum, in quo pósita erat arca, et ipsam arcam tégerent cum véctibus suis ab alto. Véctium autem, quibus portabátur arca, quia páululum longióres erant, cápita parébant ante Dabir; si vero quis erat extrínsecus eos vidére non póterat. Fuit ítaque arca ibi usque in præséntem diem. Nihílque erat áliud in arca, nisi duæ tábulæ, quas posúerat Móyses in Horeb, quando fecit Dóminus fœdus cum fíliis Israel egrediéntibus ex Ægýpto."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Igitur cunctis páriter et tubis et voce et cýmbalis et órganis et divérsi géneris musicórum concinéntibus et vocem in sublíme tolléntibus, cum una voce Dóminum laudáre cœpíssent et dícere: «Confitémini Dómino quóniam bonus, quóniam in ætérnum misericórdia eius», impléta est domus Dei nube, nec potuérunt sacerdótes stare et ministráre propter nubem; compléverat enim glória Dómini domum Dei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc Sálomon ait: «Dóminus pollícitus est, ut habitáret in calígine; ego autem ædificávi domum in habitáculum tuum, ut habitáres ibi in perpétuum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu contruí para ti uma casa que será tua morada para sempre,"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Segundo Livro das Crônicas"
+       ]
+      ],
+      "cite": "5, 6-8. 9b. 13 - 6, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, o rei Salomão e toda a comunidade de Israel e todos os que se haviam reunido diante da arca, sacrificaram ovelhas e bois em tão grande quantidade, que não se podia contar nem calcular. Os sacerdotes levaram a arca da Aliança do Senhor ao seu lugar, no santuário do templo, o Santo dos Santos, sob as asas dos querubins. Os querubins estendiam as asas sobre o lugar da arca, e do alto cobriam a arca e seus varais. Estes eram muito compridos, de tal modo que, da entrada do santuário, se podiam ver suas extremidades, mas não de fora. A arca permaneceu ali até ao dia de hoje. Dentro da arca só havia as duas tábuas, que Moisés, no Horeb, tinha posto ali, quando o Senhor concluiu a Aliança com os filhos de Israel, depois da saída do Egito. Em coro, como se fossem um só homem, os tocadores de trombeta e os cantores louvavam e exaltavam o Senhor. Enquanto ressoavam as trombetas, os címbalos e os outros instrumentos de música, ecoava o louvor ao Senhor: \"Bendizei ao Senhor, porque ele é bom e porque a sua misericórdia é eterna\". E o templo encheu-se de uma nuvem tão espessa que os sacerdotes não puderam continuar sua função, pois a glória do Senhor enchia a casa de Deus. Então Salomão disse: \"O Senhor quis habitar na escuridão; e eu construí para ti uma casa que será tua morada para sempre\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second Book of Chronicles"
+       ]
+      ],
+      "cite": "5, 6-8. 9b. 13 - 6, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "King Solomon and the entire community of Israel, gathered for the occasion before the ark, sacrificed sheep and oxen too many to number or count. The priests brought the ark of the covenant of the Lord to its place: the inner sanctuary of the house, the holy of holies, beneath the wings of the cherubim. The cherubim had their wings spread out over the place of the ark, covering the ark and its poles from above. They remain there to this day."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When the trumpeters and singers were heard as a single voice praising and giving thanks to the Lord, and when they raised the sound of the trumpets, cymbals, and other musical instruments to “Praise the Lord, who is so good, whose love endures forever,” the cloud filled the house of the Lord. The priests could no longer minister because of the cloud, since the glory of the Lord had filled the house of God.Then Solomon said: “The Lord intends to dwell in the dark cloud; I have built you a princely house, the base for your enthronement forever."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te he construido una casa para morada tuya, un lugar donde habites para siempre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del segundo libro de las Crónicas"
+       ]
+      ],
+      "cite": "5, 6-8. 9b. 13 - 6, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, el rey Salomón y toda la comunidad de Israel reunida en torno a él sacrificaron ante el Arca ovejas y bueyes en número incalculable e incontable."
+       ],
+       [
+        "Los sacerdotes llevaron el Arca de la Alianza del Señor a su sitio, a la cámara del Santo de los Santos, situado bajo las alas de los querubines; los querubines extendían sus alas sobre el lugar del Arca, y cubrían el Arca y las andas por encima. Las andas se alargaban hasta dejar ver sus extremos desde la nave, delante de la cámara, pero no desde fuera. (Han estado allí hasta el día de hoy). En el Arca tan solo estaban las dos tablas puestas por Moisés en el Horeb, cuando el Señor pactó con los hijos de Israel al salir de Egipto."
+       ],
+       [
+        "Trompeteros y cantores entonaron al unísono la alabanza y la acción de gracias al Señor; cuando ellos elevaban la voz — al son de trompetas, platillos y de instrumentos musicales para alabar al Señor «porque es bueno, porque es eterna su misericordia»—, una nube llenó el templo, el templo del Señor. Los sacerdotes no pudieron seguir oficiando, porque la gloria del Señor había llenado el templo de Dios."
+       ],
+       [
+        "Entonces dijo Salomón:"
+       ],
+       [
+        "«El Señor quiere habitar en la oscuridad, pero yo te he construido una casa para morada tuya, un lugar donde habites para siempre»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti ho costruito una casa eccelsa, un luogo per la tua dimora in eterno."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal secondo libro delle Cronache"
+       ]
+      ],
+      "cite": "5, 6-10.13-6, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, il re Salomone e tutta la comunità d'Israele, convenuta presso di lui, immolavano davanti all'arca pecore e giovenchi, che non si potevano contare né si potevano calcolare per la quantità."
+       ],
+       [
+        "I sacerdoti introdussero l'arca dell'alleanza del Signore al suo posto nel sacrario del tempio, nel Santo dei Santi, sotto le ali dei cherubini. Difatti i cherubini stendevano le ali sul luogo dell'arca; i cherubini, cioè, coprivano l'arca e le sue stanghe dall'alto. Le stanghe sporgevano e le punte delle stanghe si vedevano dall'arca di fronte al sacrario, ma non si vedevano di fuori. Vi è rimasta fino ad oggi. Nell'arca non c'era nulla se non le due tavole, che vi aveva posto Mosè sull'Oreb, dove il Signore concluse l'alleanza con gli Israeliti quando uscirono dall'Egitto."
+       ],
+       [
+        "Avvenne che, quando i suonatori e i cantori fecero udire all'unisono la voce per lodare e celebrare il Signore e il suono delle trombe, dei cimbali e degli altri strumenti si levò per lodare il Signore perché è buono, perché il suo amore è per sempre, allora il tempio, il tempio del Signore, si riempì di una nube, e i sacerdoti non poterono rimanervi per compiere il servizio a causa della nube, perché la gloria del Signore riempiva il tempio di Dio."
+       ],
+       [
+        "Allora Salomone disse:"
+       ],
+       [
+        "«Il Signore ha deciso di abitare nella nube oscura. Ti ho costruito una casa eccelsa, un luogo per la tua dimora in eterno»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ædificavi domum in habitaculum tuum, ut habitares ibi in perpetuum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième livre des Chroniques"
+       ]
+      ],
+      "cite": "5, 6-10. 13 — 6, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, le roi Salomon, et toute la communauté d'Israël qu'il"
+       ],
+       [
+        "avait convoquée devant l'Arche, offrirent en sacrifice des moutons et des"
+       ],
+       [
+        "bœufs : il y en avait tant qu'on ne pouvait les compter. Puis les prêtres"
+       ],
+       [
+        "transportèrent l'Arche de l'alliance du Seigneur à sa place, dans la chambre"
+       ],
+       [
+        "sacrée que l'on appelle le Saint des saints, sous les ailes des kéroubim."
+       ],
+       [
+        "Ceux-ci étendaient leurs ailes au-dessus de l'emplacement de l'Arche : ils"
+       ],
+       [
+        "abritaient l'Arche et ses barres. Dans l'Arche, il n'y avait rien, sinon les"
+       ],
+       [
+        "deux tables de la Loi que Moïse y avait placées, au mont Horeb, quand le"
+       ],
+       [
+        "Seigneur avait conclu alliance avec les fils d'Israël à leur sortie"
+       ],
+       [
+        "d'Égypte. Tous ensemble, ceux qui jouaient de la trompette et ceux qui"
+       ],
+       [
+        "chantaient louaient et célébraient le Seigneur d'une seule voix. Élevant la"
+       ],
+       [
+        "voix au son des trompettes, des cymbales et des instruments de musique, ils"
+       ],
+       [
+        "louaient le Seigneur : \" Car il est bon, éternel est son amour. \" Alors la"
+       ],
+       [
+        "Maison, la Maison du Seigneur, fut remplie par une nuée, et, à cause d'elle,"
+       ],
+       [
+        "les prêtres durent interrompre le service divin : la gloire du Seigneur"
+       ],
+       [
+        "remplissait la Maison de Dieu. Alors Salomon s'écria :"
+       ],
+       [
+        "\" Le Seigneur déclare demeurer dans la nuée obscure. Et maintenant, je t'ai construit, Seigneur, une maison somptueuse, un lieu où tu habiteras éternellement. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Buch der Chronik"
+       ]
+      ],
+      "cite": "5, 6-8. 10. 13 – 6, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen"
+       ],
+       [
+        "schlachteten König Sálomo und die ganze Gemeinde Israels, die bei ihm vor der Lade versammelt war, Schafe und Rinder, die man wegen ihrer Menge nicht zählen und nicht berechnen konnte."
+       ],
+       [
+        "Darauf stellten die Priester die Bundeslade des Herrn an ihren Platz, in die Gotteswohnung des Hauses, in das Allerheiligste, unter die Flügel der Kerubim. Denn die Kerubim breiteten ihre Flügel über den Ort, wo die Lade stand, und bedeckten sie von oben her. In der Lade befanden sich nur die zwei Tafeln, die Mose am Horeb hineingelegt hatte, die Tafeln des Bundes, den der Herr mit den Israeliten beim Auszug aus Ägypten geschlossen hatte."
+       ],
+       [
+        "Es kam wie aus einem Mund, wenn die Trompeter und Sänger gleichzeitig zum Lob und Preis des Herrn sich vernehmen ließen. Als sie mit ihren Trompeten, Zimbeln und Musikinstrumenten einsetzten und den Herrn priesen, „Denn er ist gütig, denn seine Huld währt ewig“, erfüllte eine Wolke den Tempel, das Haus des Herrn. Die Priester konnten wegen der Wolke ihren Dienst nicht verrichten; denn die Herrlichkeit des Herrn erfüllte das Haus Gottes."
+       ],
+       [
+        "Damals sagte Sálomo: Der Herr sprach, er wolle im Dunkel wohnen. Ich habe ein fürstliches Haus für dich gebaut, eine Wohnstätte für ewige Zeiten."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

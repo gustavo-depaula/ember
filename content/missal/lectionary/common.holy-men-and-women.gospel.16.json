@@ -1,0 +1,595 @@
+{
+ "id": "common.holy-men-and-women.gospel.16",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Para los educadores:"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "[Pro educatoribus]"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "16"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sinite parvulos venire ad me."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Marcum"
+       ]
+      ],
+      "cite": "10, 13-16",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deixar vir a mim as crianças."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+       ]
+      ],
+      "cite": "10, 13-16",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Mark"
+       ]
+      ],
+      "cite": "10:13-16",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dejad que los niños se acerquen a mi"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Marcos"
+       ]
+      ],
+      "cite": "10, 13-16",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lasciate che i bambini vengano a me."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Marco"
+       ]
+      ],
+      "cite": "10, 13-16",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Marc"
+       ]
+      ],
+      "cite": "10, 13-16",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Markus"
+       ]
+      ],
+      "cite": "10, 13-16",
+      "role": "announcement"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Offerébant Iesu párvulos, ut tángeret illos; discípuli autem comminabántur eis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "At videns Iesus, indígne tulit et ait illis: «Sínite párvulos veníre ad me. Ne prohibuéritis eos; tálium est enim regnum Dei. Amen dico vobis: Quisquis non recéperit regnum Dei velut párvulus, non intrábit in illud»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et compléxans eos benedicébat impónens manus super illos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo: Traziam crianças para que Jesus as tocasse. Mas os discípulos as repreendiam. Vendo isso, Jesus se aborreceu e disse: \"Deixai vir a mim as crianças. Não as proibais, porque o Reino de Deus é dos que são como elas. Em verdade vos digo: quem não receber o Reino de Deus como uma criança, não entrará nele\". Ele abraçava as crianças e as abençoava, impondo-lhes as mãos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "People were bringing little children to Jesus, for him to touch them. The disciples turned them away, but when Jesus saw this he was indignant and said to them, 'Let the little children come to me; do not stop them; for it is to such as these that the kingdom of God belongs. I tell you solemnly, anyone who does not welcome the kingdom of God like a little child will never enter it.' Then he put his arms round them, laid his hands on them and gave them his blessing."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, le acercaban a Jesús niños para que los tocara, pero los discípulos los regañaban."
+       ],
+       [
+        "Al verlo, Jesús se enfadó y les dijo:"
+       ],
+       [
+        "«Dejad que los niños se acerquen a mí: no se lo impidáis, pues de los que son como ellos es el reino de Dios. En verdad os digo que quien no reciba el reino de Dios como un niño, no entrará en él»."
+       ],
+       [
+        "Y tomándolos en brazos los bendecía imponiéndoles las manos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, presentavano a Gesù dei bambini perché li toccasse, ma i discepoli li rimproverarono."
+       ],
+       [
+        "Gesù, al vedere questo, s'indignò e disse loro: «Lasciate che i bambini vengano a me, non glielo impedite: a chi è come loro infatti appartiene il regno di Dio. In verità io vi dico: chi non accoglie il regno di Dio come lo accoglie un bambino, non entrerà in esso»."
+       ],
+       [
+        "E, prendendoli tra le braccia, li benediceva, imponendo le mani su di loro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, des gens présentaient à Jésus des enfants pour qu'il pose la main sur eux ; mais les disciples les écartèrent vivement. Voyant cela, Jésus se fâcha et leur dit : \" Laissez les enfants venir à moi, ne les empêchez pas, car le royaume de Dieu est à ceux qui leur ressemblent. Amen, je vous le dis : celui qui n'accueille pas le royaume de Dieu à la manière d'un enfant n'y entrera pas. \" Il les embrassait et les bénissait en leur imposant les mains."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "brachte man Kinder zu Jesus, damit er ihnen die Hände auflegte. Die Jünger aber wiesen die Leute schroff ab."
+       ],
+       [
+        "Als Jesus das sah, wurde er unwillig und sagte zu ihnen: Lasst die Kinder zu mir kommen; hindert sie nicht daran! Denn Menschen wie ihnen gehört das Reich Gottes. Amen, das sage ich euch: Wer das Reich Gottes nicht so annimmt, wie ein Kind, der wird nicht hineinkommen."
+       ],
+       [
+        "Und er nahm die Kinder in seine Arme; dann legte er ihnen die Hände auf und segnete sie."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

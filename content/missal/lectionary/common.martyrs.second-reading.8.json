@@ -1,0 +1,390 @@
+{
+ "id": "common.martyrs.second-reading.8",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "8"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Timorem eorum ne timueritis et non conturbemini."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Petri apóstoli"
+       ]
+      ],
+      "cite": "3, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimi:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si patímini propter iustítiam, beáti! Timórem autem eórum ne timuéritis et non conturbémini, Dóminum autem Christum sanctificáte in córdibus vestris, paráti semper ad defensiónem omni poscénti vos ratiónem de ea, quæ in vobis est spe; sed cum mansuetúdine et timóre, consciéntiam habéntes bonam, ut in quo de vobis detrectátur, confundántur, qui calumniántur vestram bonam in Christo conversatiónem. Mélius est enim benefaciéntes, si velit volúntas Dei, pati quam malefaciéntes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Não tenhais medo das suas intimidações, nem vos deixeis perturbar."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Pedro"
+       ]
+      ],
+      "cite": "3, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimos: Se tiverdes de sofrer por causa da justiça, sereis felizes. Não tenhais medo de suas intimidações, nem vos deixeis perturbar. Antes, santificai em vossos corações o Senhor Jesus Cristo, e estai sempre prontosa dar razão da vossa esperança a todo aquele que vo-la pedir. Fazei-o, porém, com mansidao e respeito e com boa consciência. Então, se em alguma coisa fordes difamados, ficarão com vergonha aqueles que ultrajam o vosso bom procedimento em Cristo. Pois será melhor sofrer praticando o bem, se esta for a vontade de Deus, do que praticando o mal."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first letter of St. Peter"
+       ]
+      ],
+      "cite": "3:14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "But even if you should suffer because of righteousness, blessed are you. Do not be afraid or terrified with fear of them, but sanctify Christ as Lord in your hearts. Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence, keeping your conscience clear, so that, when you are maligned, those who defame your good conduct in Christ may themselves be put to shame. For it is better to suffer for doing good, if that be the will of God, than for doing evil."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No les tengáis miedo ni os amedrentéis"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pedro"
+       ]
+      ],
+      "cite": "3, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Queridos hermanos:"
+       ],
+       [
+        "Si tuvierais que sufrir por causa de la justicia, bienaventurados vosotros. No les tengáis miedo ni os amedrentéis. Más bien, glorificad a Cristo el Señor en vuestros corazones, dispuestos siempre para dar explicación a todo el que os pida una razón de vuestra esperanza, pero con delicadeza y con respeto, teniendo buena conciencia, para que, cuando os calumnien, queden en ridículo los que atentan contra vuestra buena conducta en Cristo."
+       ],
+       [
+        "Pues es mejor sufrir haciendo el bien, si así lo quiere Dios, que sufrir haciendo el mal."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non sgomentatevi per paura di loro e non turbatevi."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima Lettera di san Pietro apostolo"
+       ]
+      ],
+      "cite": "3, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Carissimi, se doveste soffrire per la giustizia, beati voi! Non sgomentatevi per paura di loro e non turbatevi, ma adorate il Signore, Cristo, nei vostri cuori, pronti sempre a rispondere a chiunque vi domandi ragione della speranza che è in voi."
+       ],
+       [
+        "Tuttavia questo sia fatto con dolcezza e rispetto, con una retta coscienza, perché, nel momento stesso in cui si parla male di voi, rimangano svergognati quelli che malignano sulla vostra buona condotta in Cristo. Se questa infatti è la volontà di Dio, è meglio soffrire operando il bene, che facendo il male."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Pierre Apôtre"
+       ]
+      ],
+      "cite": "3, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimés, s'il vous arrivait de souffrir pour la justice, heureux seriez-vous ! Comme dit l'Écriture : N'ayez aucune crainte de ces gens-là, ne vous laissez pas troubler. Honorez dans vos cœurs la sainteté du Seigneur, le Christ. Soyez prêts à tout moment à présenter une défense devant quiconque vous demande de rendre raison de l'espérance qui est en vous ; mais faites-le avec douceur et respect. Ayez une conscience droite, afin que vos adversaires soient pris de honte sur le point même où ils disent du mal de vous pour la bonne conduite que vous avez dans le Christ. Car mieux vaudrait souffrir en faisant le bien, si c'était la volonté de Dieu, plutôt qu'en faisant le mal."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Petrus"
+       ]
+      ],
+      "cite": "3, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Liebe Brüder!"
+       ],
+       [
+        "Wenn ihr um der Gerechtigkeit willen leiden müsst, seid ihr selig zu preisen. Fürchtet euch nicht vor ihnen, und lasst euch nicht erschrecken, sondern haltet in eurem Herzen Christus, den Herrn, heilig! Seid stets bereit, jedem Rede und Antwort zu stehen, der nach der Hoffnung fragt, die euch erfüllt; aber antwortet bescheiden und ehrfürchtig, denn ihr habt ein reines Gewissen. Dann werden die, die euch beschimpfen, weil ihr in der Gemeinschaft mit Christus ein rechtschaffenes Leben führt, sich wegen ihrer Verleumdungen schämen müssen. Es ist besser, für gute Taten zu leiden, wenn es Gottes Wille ist, als für böse."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

@@ -1,1 +1,872 @@
-{"id":"sanctorale.05-12","source":"santos/santos_may#0512","kind":"sanctoral","items":[{"slot":"51","text":{"la":[{"k":"h2","lines":[["Die 12 maii"],["Ss. Nerei et Achillei, martyrum"]]},{"k":"p","lines":[["Milites tribunali addicti, protinus ad fidem conversi, militiam abiecerunt; propter quod ad mortem damnati sunt, probabiliter tempore Diocletiani. Eorum sepulcrum in cœmeterio ad viam Ardeatinam asservatur, ubi et basilica est ædificata in eorum honorem."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi martyrum:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}," ",{"m":"rubric","t":"vel, tempore paschali:"}," ",{"m":"link","t":"mtp 1","to":"common.martyrs.8"},{"m":"link","t":"mtp 2","to":"common.martyrs.9"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["12 de maio"],["Santos Nereu e Aquiles, mártires"]]},{"k":"p","lines":[["Nereu e Aquiles, segundo a tradição relatada pelo Papa Dâmaso, eram dois militares conquistados à fé pela fortaleza dos mártires cristãos. Degolados em Roma sob Diocleciano em 304, foram sepultados no cemitério de Domitila na Via Ardeatina e honrados também numa basílica perto das termas de Caracala. Seu sepultamento aos 12 de maio é lembrado no Martirológio Jeronimiano (séc. VI)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Mártires:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}," ",{"m":"rubric","t":"ou, tempo pascal::"}," ",{"m":"link","t":"mtp 1","to":"common.martyrs.8"},{"m":"link","t":"mtp 2","to":"common.martyrs.9"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["May 12"],["Ss. Nereus and Achilleus, martyrs"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Martyrs:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}," ",{"m":"rubric","t":"or, during Easter Time:"}," ",{"m":"link","t":"met 1","to":"common.martyrs.8"},{"m":"link","t":"met 2","to":"common.martyrs.9"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["12 de mayo"],["San Nereo y san Aquiles, mártires"]]},{"k":"p","lines":[["Militares de profesión, abandonaron el ejército a raíz de su conversión a la fe; por ello fueron condenados a muerte, probablemente en tiempos de Diocleciano. Su sepulcro se conserva en la vía Ardeatina, donde se edificó en su honor una basílica."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}," ",{"m":"rubric","t":"o, en tiempo de pascua:"}," ",{"m":"link","t":"mtp 1","to":"common.martyrs.8"},{"m":"link","t":"mtp 2","to":"common.martyrs.9"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["12 maggio"],["SANTI NEREO e ACHILLEO, martiri"]]},{"k":"p","lines":[["Nereo e Achilleo, secondo la tradizione, erano due militari conquistati alla fede dall'esempio di fortezza dei cristiani torturati e condotti al martirio. Decapitati sulla via Ardeatina, vennero sepolti nel cimitero di Domitilla. Del loro martirio, avvenuto probabilmente durante la prima persecuzione di Diocleziano (303-305), scrive papa Damaso nell'epigrafe da lui posta sulla loro tomba. I due martiri, il cui culto è attestato fin dal secolo VI, sono ricordati il 12 maggio nel Martirologio geronimiano (sec. V-VI)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei martiri."}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"},{"m":"rubric","t":" o nel Tempo di Pasqua:"}," ",{"m":"link","t":"mtp 1","to":"common.martyrs.8"},{"m":"link","t":"mtp 2","to":"common.martyrs.9"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["12 mai"],["Saints Nérée et Achille, martyrs"]]},{"k":"p","lines":[["Nérée et Achille servaient dans l'armée au temps de Dioclétien. Si l'on en croit le pape Damase, ils n'étaient pas chrétiens quand éclata la persécution, mais c'est le courage des martyrs qui les gagna à la foi en Jésus Christ. Ils furent décapités à Rome (sans doute en 304)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun d'un Martyr:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}," ",{"m":"rubric","t":"ou, temps pascal:"}," ",{"m":"link","t":"mtp 1","to":"common.martyrs.8"},{"m":"link","t":"mtp 2","to":"common.martyrs.9"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["12. Mai"],["Hl. Nereus und hl. Achilleus, Märtyrer"]]},{"k":"p","lines":[["Nach ihrer Bekehrung zum Christentum verließen die beiden Heiligen das Militär und wurden deshalb zum Tode verurteilt (vermutlich während der Verfolgung unter Diokletian). An der Ruhestätte ihrer Gebeine wurde zu ihren Ehren eine Kirche errichtet."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Märtyrer:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}," ",{"m":"rubric","t":"oder, in der österl. Zeit:"}," ",{"m":"link","t":"mtp 1","to":"common.martyrs.8"},{"m":"link","t":"mtp 2","to":"common.martyrs.9"},{"m":"rubric","t":"."}]]}]},"part":"title"},{"slot":"52","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"53","text":{"la":[{"k":"p","lines":[["Præsta, quǽsumus, omnípotens Deus, ut, qui gloriósos mártyres Néreum et Achílleum fortes in sua confessióne cognóvimus, pios apud te in nostra intercessióne sentiámus. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus todo-poderoso,"],["ao proclamarmos a coragem e o testemunho"],["dos gloriosos mártires Nereu e Aquiles,"],["concedei-nos experimentar sua intercessão em nosso favor."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, almighty God,"],["that we, who know the great courage"],["of the glorious Martyrs Nereus and Achilleus"],["in confessing you,"],["may experience their loving intercession for us in your presence. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso,"],["concede a quienes hemos conocido"],["la fortaleza de los gloriosos mártires Nereo y Aquiles"],["en la confesión de su fe,"],["que sintamos su piadosa intercesión ante ti."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, concedi a noi, che veneriamo i santi martiri Nereo e Achilleo, di avere sempre come amici e intercessori presso di te questi gloriosi testimoni della fede. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Connaissant le courageux témoignage"],["de tes martyrs Nérée et Achille,"],["nous t'en prions, Dieu tout-puissant :"],["accorde-nous d'éprouver les effets"],["de leur bienveillante intercession auprès de toi."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, deine heiligen Märtyrer Nereus und Achilleus haben dich bis in den Tod mutig bekannt. Auf ihre Fürsprache hin stärke unseren Glauben und unsere Treue, damit auch wir ausharren bis ans Ende. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"54","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.05-12","prefaces":["preface.54","preface.55"],"commons":["common.martyrs.1","common.martyrs.2","common.martyrs.3","common.martyrs.4","common.martyrs.5","common.martyrs.8","common.martyrs.9"],"title":{"la":"Ss. Nerei et Achillei, martyrum","pt-BR":"Santos Nereu e Aquiles, mártires","en-US":"Ss. Nereus and Achilleus, martyrs","es":"San Nereo y san Aquiles, mártires","it":"SANTI NEREO e ACHILLEO, martiri","fr":"Saints Nérée et Achille, martyrs","de":"Hl. Nereus und hl. Achilleus, Märtyrer"}}
+{
+ "id": "sanctorale.05-12",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 12 maii"
+       ],
+       [
+        "Ss. Nerei et Achillei, martyrum"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Milites tribunali addicti, protinus ad fidem conversi, militiam abiecerunt; propter quod ad mortem damnati sunt, probabiliter tempore Diocletiani. Eorum sepulcrum in cœmeterio ad viam Ardeatinam asservatur, ubi et basilica est ædificata in eorum honorem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi martyrum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "vel, tempore paschali:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp 1",
+         "to": "common.martyrs.8"
+        },
+        {
+         "m": "link",
+         "t": "mtp 2",
+         "to": "common.martyrs.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "12 de maio"
+       ],
+       [
+        "Santos Nereu e Aquiles, mártires"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nereu e Aquiles, segundo a tradição relatada pelo Papa Dâmaso, eram dois militares conquistados à fé pela fortaleza dos mártires cristãos. Degolados em Roma sob Diocleciano em 304, foram sepultados no cemitério de Domitila na Via Ardeatina e honrados também numa basílica perto das termas de Caracala. Seu sepultamento aos 12 de maio é lembrado no Martirológio Jeronimiano (séc. VI)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "ou, tempo pascal::"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp 1",
+         "to": "common.martyrs.8"
+        },
+        {
+         "m": "link",
+         "t": "mtp 2",
+         "to": "common.martyrs.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "May 12"
+       ],
+       [
+        "Ss. Nereus and Achilleus, martyrs"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Martyrs:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "or, during Easter Time:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "met 1",
+         "to": "common.martyrs.8"
+        },
+        {
+         "m": "link",
+         "t": "met 2",
+         "to": "common.martyrs.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "12 de mayo"
+       ],
+       [
+        "San Nereo y san Aquiles, mártires"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Militares de profesión, abandonaron el ejército a raíz de su conversión a la fe; por ello fueron condenados a muerte, probablemente en tiempos de Diocleciano. Su sepulcro se conserva en la vía Ardeatina, donde se edificó en su honor una basílica."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "o, en tiempo de pascua:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp 1",
+         "to": "common.martyrs.8"
+        },
+        {
+         "m": "link",
+         "t": "mtp 2",
+         "to": "common.martyrs.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "12 maggio"
+       ],
+       [
+        "SANTI NEREO e ACHILLEO, martiri"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nereo e Achilleo, secondo la tradizione, erano due militari conquistati alla fede dall'esempio di fortezza dei cristiani torturati e condotti al martirio. Decapitati sulla via Ardeatina, vennero sepolti nel cimitero di Domitilla. Del loro martirio, avvenuto probabilmente durante la prima persecuzione di Diocleziano (303-305), scrive papa Damaso nell'epigrafe da lui posta sulla loro tomba. I due martiri, il cui culto è attestato fin dal secolo VI, sono ricordati il 12 maggio nel Martirologio geronimiano (sec. V-VI)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei martiri."
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        {
+         "m": "rubric",
+         "t": " o nel Tempo di Pasqua:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp 1",
+         "to": "common.martyrs.8"
+        },
+        {
+         "m": "link",
+         "t": "mtp 2",
+         "to": "common.martyrs.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "12 mai"
+       ],
+       [
+        "Saints Nérée et Achille, martyrs"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nérée et Achille servaient dans l'armée au temps de Dioclétien. Si l'on en croit le pape Damase, ils n'étaient pas chrétiens quand éclata la persécution, mais c'est le courage des martyrs qui les gagna à la foi en Jésus Christ. Ils furent décapités à Rome (sans doute en 304)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun d'un Martyr:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "ou, temps pascal:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp 1",
+         "to": "common.martyrs.8"
+        },
+        {
+         "m": "link",
+         "t": "mtp 2",
+         "to": "common.martyrs.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "12. Mai"
+       ],
+       [
+        "Hl. Nereus und hl. Achilleus, Märtyrer"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nach ihrer Bekehrung zum Christentum verließen die beiden Heiligen das Militär und wurden deshalb zum Tode verurteilt (vermutlich während der Verfolgung unter Diokletian). An der Ruhestätte ihrer Gebeine wurde zu ihren Ehren eine Kirche errichtet."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Märtyrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "oder, in der österl. Zeit:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp 1",
+         "to": "common.martyrs.8"
+        },
+        {
+         "m": "link",
+         "t": "mtp 2",
+         "to": "common.martyrs.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Præsta, quǽsumus, omnípotens Deus, ut, qui gloriósos mártyres Néreum et Achílleum fortes in sua confessióne cognóvimus, pios apud te in nostra intercessióne sentiámus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus todo-poderoso,"
+       ],
+       [
+        "ao proclamarmos a coragem e o testemunho"
+       ],
+       [
+        "dos gloriosos mártires Nereu e Aquiles,"
+       ],
+       [
+        "concedei-nos experimentar sua intercessão em nosso favor."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, almighty God,"
+       ],
+       [
+        "that we, who know the great courage"
+       ],
+       [
+        "of the glorious Martyrs Nereus and Achilleus"
+       ],
+       [
+        "in confessing you,"
+       ],
+       [
+        "may experience their loving intercession for us in your presence. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "concede a quienes hemos conocido"
+       ],
+       [
+        "la fortaleza de los gloriosos mártires Nereo y Aquiles"
+       ],
+       [
+        "en la confesión de su fe,"
+       ],
+       [
+        "que sintamos su piadosa intercesión ante ti."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, concedi a noi, che veneriamo i santi martiri Nereo e Achilleo, di avere sempre come amici e intercessori presso di te questi gloriosi testimoni della fede. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Connaissant le courageux témoignage"
+       ],
+       [
+        "de tes martyrs Nérée et Achille,"
+       ],
+       [
+        "nous t'en prions, Dieu tout-puissant :"
+       ],
+       [
+        "accorde-nous d'éprouver les effets"
+       ],
+       [
+        "de leur bienveillante intercession auprès de toi."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, deine heiligen Märtyrer Nereus und Achilleus haben dich bis in den Tod mutig bekannt. Auf ihre Fürsprache hin stärke unseren Glauben und unsere Treue, damit auch wir ausharren bis ans Ende. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.05-12",
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "commons": [
+  "common.martyrs.1",
+  "common.martyrs.2",
+  "common.martyrs.3",
+  "common.martyrs.4",
+  "common.martyrs.5",
+  "common.martyrs.8",
+  "common.martyrs.9"
+ ],
+ "title": {
+  "la": "Ss. Nerei et Achillei, martyrum",
+  "pt-BR": "Santos Nereu e Aquiles, mártires",
+  "en-US": "Ss. Nereus and Achilleus, martyrs",
+  "es": "San Nereo y san Aquiles, mártires",
+  "it": "SANTI NEREO e ACHILLEO, martiri",
+  "fr": "Saints Nérée et Achille, martyrs",
+  "de": "Hl. Nereus und hl. Achilleus, Märtyrer"
+ }
+}

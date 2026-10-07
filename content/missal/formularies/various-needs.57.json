@@ -1,1 +1,1156 @@
-{"id":"various-needs.57","source":"comunes_votivas/diversas#div057","kind":"various-needs","items":[{"slot":"688","text":{"la":[{"k":"h2","lines":[["III. AD DIVERSA"]]},{"k":"h3","lines":[["43. PRO CAPTIVITATE DETENTIS"]]}],"pt-BR":[{"k":"h2","lines":[["III. EM DIVERSAS NECESSIDADES"]]},{"k":"h3","lines":[["43. PELOS SUBMETIDOS AO CATIVEIRO"]]}],"en-US":[{"k":"h2","lines":[["III. FOR VARIOUS OCCASIONS"]]},{"k":"h3","lines":[["43. FOR THOSE HELD IN CAPTIVITY"]]}],"es":[{"k":"h2","lines":[["III. EN DIVERSAS NECESIDADES"]]},{"k":"h3","lines":[["43. POR LOS CAUTIVOS"]]}],"it":[{"k":"h2","lines":[["IN DIVERSE NECESSITÀ"]]},{"k":"h3","lines":[["43. PER I PRIGIONIERI"]]}],"fr":[{"k":"h2","lines":[["III. POUR DIVERSES CIRCONSTANCES"]]},{"k":"h3","lines":[["43. POUR CEUX QUI SONT EN CAPTIVITÉ"]]}],"de":[{"k":"h2","lines":[["III. IN BESONDEREN ANLIEGEN"]]},{"k":"h3","lines":[["43. FÜR KRIEGSGEFANGENE UND UNGERECHT VERURTEILTE STRAFGEFANGENE"]]}]},"part":"title"},{"slot":"689","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ps 87, 2-3"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 87, 2-3"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Ps 87, 2-3"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 87, 2-3"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 87, 2-3"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ps 87, 2-3"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 88 (87), 2-3"}]},"part":"entranceAntiphon"},{"slot":"690","text":{"la":[{"k":"p","lines":[["Dómine, Deus salútis meæ, in die clamávi et nocte coram te. Intret in conspéctu tuo orátio mea, inclína aurem tuam ad precem meam."]]}],"pt-BR":[{"k":"p","lines":[["A vós clamo, Senhor, sem cessar todo o dia"],["e de noite se eleva até vós meu gemido."],["Chegue a minha oração até a vossa presença,"],["inclinai vosso ouvido a meu triste clamor."]]}],"en-US":[{"k":"p","lines":[["O Lord and god of my salvation,"],["I have cried before you day and night. Let my prayer come into your presence. incline your ear to my cry."]]}],"es":[{"k":"p","lines":[["Señor, Dios Salvador mío, día y noche grito en tu presencia; llegue hasta ti mi súplica, inclina tu oído a mi clamor."]]}],"it":[{"k":"p","lines":[["Signore, Dio della mia salvezza, davanti a te grido giorno e notte. Giunga fino a te la mia preghiera, tendi l'orecchio alla mia supplica."]]}],"fr":[{"k":"p","lines":[["Seigneur, Dieu de mon salut,"],["le jour et la nuit, j'ai crié en ta présence,"],["que ma prière parvienne jusqu'à toi :"],["tends l'oreille à ma plainte !"]]}],"de":[{"k":"p","lines":[["Herr, du Gott meines Heils, zu dir schreie ich am Tag und bei der Nacht. Lass mein Gebet zu dir dringen, wende dein Ohr meinem Flehen zu."]]}]},"part":"entranceAntiphon"},{"slot":"691","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"692","text":{"la":[{"k":"p","lines":[["Deus, cuius Fílius, ad rediméndum genus humánuma captivitáte peccáti, formam servi accípere dignátus est, da fámulis tuis in vínculis constitútis, ut illa libertáte potiántur, qua omnes hómines, fílios tuos, voluísti donári. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, vosso Filho dignou-se"],["assumir a condição de escravo,"],["para redimir o gênero humano da escravidão do pecado;"],["concedei a vossos servos mantidos em cativeiro"],["alcançar a liberdade,"],["que quisestes para todos os vossos filhos e filhas."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, whose Son humbled himself"],["and took the form of a slave"],["to redeem the human race from being captive to sin,"],["grant to your servants held in confinement"],["that they may obtain the freedom you destine to all,"],["for we are your Sons and daughters."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["cuyo Hijo se ha dignado tomar la condición de siervo"],["para redimir al género humano de la esclavitud del pecado;"],["concede, a cuantos se hallan cautivos,"],["alcanzar aquella libertad"],["que otorgaste a todos los hombres, tus hijos."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Padre, il tuo Figlio ha voluto assumere la condizione di servo per liberare l'umanità dalla schiavitù del peccato: concedi ai nostri fratelli prigionieri di godere quella libertà che hai donato a tutti gli uomini, tuoi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["pour racheter le genre humain de la captivité du péché,"],["ton Fils a daigné prendre la condition d'esclave ;"],["accorde à tes serviteurs retenus captifs"],["d'accéder à cette liberté que tu as voulu donner"],["à tous les hommes, tes enfants."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, unser Retter, dein Sohn hat Knechtsgestalt angenommen, um die Menschheit aus der Knechtschaft der Sünde loszukaufen. Gib allen, die in Gefangenschaft sind, die Freiheit wieder und lass die Menschen erkennen, dass du deinen Kindern jene Freiheit geschenkt hast, die ihnen niemand nehmen kann. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"693","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"694","text":{"la":[{"k":"p","lines":[["Per humánæ redemptiónis salutáre sacraméntum, quod tibi, Dómine, offérimus, præsta, ut fámuli tui a captivitáte solvántur, et ánimæ perpétua gáudeant libertáte. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, por este sacramento da nossa redenção,"],["que vos oferecemos,"],["concedei que vossos servos se vejam livres do cativeiro"],["e gozem sempre de liberdade de espírito."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Through the saving sacrament of human redemption which we offer you, Lord,"],["grant that your servants may be released from captivity and rejoice in lasting freedom of soul."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Por el sacramento de la redención humana"],["que te ofrecemos, Señor,"],["te pedimos que tus siervos sean liberados de su cautividad"],["y puedan gozar de una perpetua libertad de espíritu."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Per questo sacramento di redenzione e di salvezza che ti offriamo, o Signore, concedi che i tuoi fedeli siano liberati dalla prigionia e vivano in perenne libertà di spirito. Per Cristo nostro Signore. Ant. alla comunione Loderò con"]]}],"fr":[{"k":"p","lines":[["Nous te présentons, Seigneur,"],["le sacrement de la rédemption qui nous obtient le salut,"],["et nous te prions :"],["que tes serviteurs soient libérés de la captivité"],["et connaissent toujours la joie de la liberté intérieure."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, in diesem Opfer feiern wir die Erlösungstag deines Sohnes und bitten dich: Befreie deine Diener aus der Not der Gefangenschaft und schenke uns allen die unverlierbare Freiheit in Christus, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"prayerOverOfferings"},{"slot":"695","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Ps 68, 31. 34"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Sl 68, 31. 34"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Ps 68, 31. 34"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Sal 68, 31. 34"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Sal 68, 31.34"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Ps 68, 31. 34"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Ps 69 (68), 31. 34"}]},"part":"communionAntiphon"},{"slot":"696","text":{"la":[{"k":"p","lines":[["Laudábo nomen Dei cum cántico, et magnificábo eum in laude. Quóniam exaudívit páuperes Dóminus, et vinctos suos non despéxit."]]}],"pt-BR":[{"k":"p","lines":[["Cantando eu louvarei o vosso nome"],["e agradecido exultarei de alegria!"],["Pois nosso Deus atende à prece dos seus pobres,"],["e não despreza o clamor de seus cativos."]]}],"en-US":[{"k":"p","lines":[["I will praise god's name with a song,"],["and I will glorify him with thanksgiving. for the Lord listens to the needy"],["and does not spurn his own in their chains."]]}],"es":[{"k":"p","lines":[["Alabaré el nombre de Dios con cantos, proclamaré su grandeza con acción de gracias; que el Señor escucha a sus pobres, no desprecia a sus cautivos."]]}],"it":[{"k":"p","lines":[["Loderò con il canto il nome di Dio, lo magnificherò con azioni di grazie. Il Signore ascolta i miseri e non disprezza la voce dei prigionieri."]]}],"fr":[{"k":"p","lines":[["Je louerai le nom de Dieu par un cantique,"],["je vais le magnifier, lui rendre grâce."],["Car le Seigneur écoute les humbles,"],["il n'oublie pas les siens emprisonnés."]]}],"de":[{"k":"p","lines":[["Ich will den Namen Gottes rühmen im Lied, in meinem Danklied ihn preisen. Denn der Herr hört auf die Armen, er verachtet die Gefangenen nicht."]]}]},"part":"communionAntiphon"},{"slot":"697","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"698","text":{"la":[{"k":"p","lines":[["Nostræ libertátis prétium recoléntes, tuam, Dómine, pro frátribus nostris implorámus cleméntiam, ut a vínculis solvántur, et servi fiant iustítiæ tuæ. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, ao recordar o preço da nossa liberdade,"],["imploramos vossa clemência"],["em favor de nossos irmãos e irmãs"],["submetidos ao cativeiro"],["para que se vejam livres de seus grilhões"],["e se tornem servidores da vossa justiça."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Mindful of the price paid for our deliverance, we implore your mercy, O Lord,"],["upon our brothers and sisters,"],["that they may be released from captivity"],["and become servants of your justice."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Al celebrar el precio de nuestra libertad,"],["imploramos, Señor,"],["tu clemencia en favor de nuestros hermanos,"],["para que sean liberados de sus cadenas"],["y se conviertan en servidores de tu justicia."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Facendo memoria del prezzo della nostra libertà, imploriamo per i nostri fratelli la tua clemenza, o Signore, perché, liberati da ogni vincolo, si pongano al servizio della tua giustizia. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Alors que nous célébrons le prix offert pour notre liberté,"],["nous implorons, Seigneur, ta bonté pour nos frères,"],["afin qu'ils soient libérés de leurs chaînes"],["et se mettent au service de ta justice."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, wir haben den Leib und das Blut Christi empfangen, den Preis für unsere Freiheit. Erhöre unser Gebet für unsere Brüder, die in Gefangenschaft sind. Löse ihre Fesseln, damit sie dir freudig dienen und wir alle nur deiner Gerechtigkeit dienstbar sind. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"title":{"la":"III. AD DIVERSA","pt-BR":"III. EM DIVERSAS NECESSIDADES","en-US":"III. FOR VARIOUS OCCASIONS","es":"III. EN DIVERSAS NECESIDADES","it":"IN DIVERSE NECESSITÀ","fr":"III. POUR DIVERSES CIRCONSTANCES","de":"III. IN BESONDEREN ANLIEGEN"},"subtitle":{"la":"43. PRO CAPTIVITATE DETENTIS","pt-BR":"43. PELOS SUBMETIDOS AO CATIVEIRO","en-US":"43. FOR THOSE HELD IN CAPTIVITY","es":"43. POR LOS CAUTIVOS","it":"43. PER I PRIGIONIERI","fr":"43. POUR CEUX QUI SONT EN CAPTIVITÉ","de":"43. FÜR KRIEGSGEFANGENE UND UNGERECHT VERURTEILTE STRAFGEFANGENE"}}
+{
+ "id": "various-needs.57",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. AD DIVERSA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "43. PRO CAPTIVITATE DETENTIS"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. EM DIVERSAS NECESSIDADES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "43. PELOS SUBMETIDOS AO CATIVEIRO"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. FOR VARIOUS OCCASIONS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "43. FOR THOSE HELD IN CAPTIVITY"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. EN DIVERSAS NECESIDADES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "43. POR LOS CAUTIVOS"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN DIVERSE NECESSITÀ"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "43. PER I PRIGIONIERI"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. POUR DIVERSES CIRCONSTANCES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "43. POUR CEUX QUI SONT EN CAPTIVITÉ"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. IN BESONDEREN ANLIEGEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "43. FÜR KRIEGSGEFANGENE UND UNGERECHT VERURTEILTE STRAFGEFANGENE"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ps 87, 2-3"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 87, 2-3"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Ps 87, 2-3"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 87, 2-3"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 87, 2-3"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ps 87, 2-3"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 88 (87), 2-3"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dómine, Deus salútis meæ, in die clamávi et nocte coram te. Intret in conspéctu tuo orátio mea, inclína aurem tuam ad precem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A vós clamo, Senhor, sem cessar todo o dia"
+       ],
+       [
+        "e de noite se eleva até vós meu gemido."
+       ],
+       [
+        "Chegue a minha oração até a vossa presença,"
+       ],
+       [
+        "inclinai vosso ouvido a meu triste clamor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Lord and god of my salvation,"
+       ],
+       [
+        "I have cried before you day and night. Let my prayer come into your presence. incline your ear to my cry."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, Dios Salvador mío, día y noche grito en tu presencia; llegue hasta ti mi súplica, inclina tu oído a mi clamor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore, Dio della mia salvezza, davanti a te grido giorno e notte. Giunga fino a te la mia preghiera, tendi l'orecchio alla mia supplica."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, Dieu de mon salut,"
+       ],
+       [
+        "le jour et la nuit, j'ai crié en ta présence,"
+       ],
+       [
+        "que ma prière parvienne jusqu'à toi :"
+       ],
+       [
+        "tends l'oreille à ma plainte !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, du Gott meines Heils, zu dir schreie ich am Tag und bei der Nacht. Lass mein Gebet zu dir dringen, wende dein Ohr meinem Flehen zu."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, cuius Fílius, ad rediméndum genus humánuma captivitáte peccáti, formam servi accípere dignátus est, da fámulis tuis in vínculis constitútis, ut illa libertáte potiántur, qua omnes hómines, fílios tuos, voluísti donári. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, vosso Filho dignou-se"
+       ],
+       [
+        "assumir a condição de escravo,"
+       ],
+       [
+        "para redimir o gênero humano da escravidão do pecado;"
+       ],
+       [
+        "concedei a vossos servos mantidos em cativeiro"
+       ],
+       [
+        "alcançar a liberdade,"
+       ],
+       [
+        "que quisestes para todos os vossos filhos e filhas."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, whose Son humbled himself"
+       ],
+       [
+        "and took the form of a slave"
+       ],
+       [
+        "to redeem the human race from being captive to sin,"
+       ],
+       [
+        "grant to your servants held in confinement"
+       ],
+       [
+        "that they may obtain the freedom you destine to all,"
+       ],
+       [
+        "for we are your Sons and daughters."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "cuyo Hijo se ha dignado tomar la condición de siervo"
+       ],
+       [
+        "para redimir al género humano de la esclavitud del pecado;"
+       ],
+       [
+        "concede, a cuantos se hallan cautivos,"
+       ],
+       [
+        "alcanzar aquella libertad"
+       ],
+       [
+        "que otorgaste a todos los hombres, tus hijos."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, il tuo Figlio ha voluto assumere la condizione di servo per liberare l'umanità dalla schiavitù del peccato: concedi ai nostri fratelli prigionieri di godere quella libertà che hai donato a tutti gli uomini, tuoi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "pour racheter le genre humain de la captivité du péché,"
+       ],
+       [
+        "ton Fils a daigné prendre la condition d'esclave ;"
+       ],
+       [
+        "accorde à tes serviteurs retenus captifs"
+       ],
+       [
+        "d'accéder à cette liberté que tu as voulu donner"
+       ],
+       [
+        "à tous les hommes, tes enfants."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Retter, dein Sohn hat Knechtsgestalt angenommen, um die Menschheit aus der Knechtschaft der Sünde loszukaufen. Gib allen, die in Gefangenschaft sind, die Freiheit wieder und lass die Menschen erkennen, dass du deinen Kindern jene Freiheit geschenkt hast, die ihnen niemand nehmen kann. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per humánæ redemptiónis salutáre sacraméntum, quod tibi, Dómine, offérimus, præsta, ut fámuli tui a captivitáte solvántur, et ánimæ perpétua gáudeant libertáte. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, por este sacramento da nossa redenção,"
+       ],
+       [
+        "que vos oferecemos,"
+       ],
+       [
+        "concedei que vossos servos se vejam livres do cativeiro"
+       ],
+       [
+        "e gozem sempre de liberdade de espírito."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Through the saving sacrament of human redemption which we offer you, Lord,"
+       ],
+       [
+        "grant that your servants may be released from captivity and rejoice in lasting freedom of soul."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por el sacramento de la redención humana"
+       ],
+       [
+        "que te ofrecemos, Señor,"
+       ],
+       [
+        "te pedimos que tus siervos sean liberados de su cautividad"
+       ],
+       [
+        "y puedan gozar de una perpetua libertad de espíritu."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per questo sacramento di redenzione e di salvezza che ti offriamo, o Signore, concedi che i tuoi fedeli siano liberati dalla prigionia e vivano in perenne libertà di spirito. Per Cristo nostro Signore. Ant. alla comunione Loderò con"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous te présentons, Seigneur,"
+       ],
+       [
+        "le sacrement de la rédemption qui nous obtient le salut,"
+       ],
+       [
+        "et nous te prions :"
+       ],
+       [
+        "que tes serviteurs soient libérés de la captivité"
+       ],
+       [
+        "et connaissent toujours la joie de la liberté intérieure."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, in diesem Opfer feiern wir die Erlösungstag deines Sohnes und bitten dich: Befreie deine Diener aus der Not der Gefangenschaft und schenke uns allen die unverlierbare Freiheit in Christus, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Ps 68, 31. 34"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Sl 68, 31. 34"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Ps 68, 31. 34"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Sal 68, 31. 34"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Sal 68, 31.34"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Ps 68, 31. 34"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Ps 69 (68), 31. 34"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Laudábo nomen Dei cum cántico, et magnificábo eum in laude. Quóniam exaudívit páuperes Dóminus, et vinctos suos non despéxit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantando eu louvarei o vosso nome"
+       ],
+       [
+        "e agradecido exultarei de alegria!"
+       ],
+       [
+        "Pois nosso Deus atende à prece dos seus pobres,"
+       ],
+       [
+        "e não despreza o clamor de seus cativos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will praise god's name with a song,"
+       ],
+       [
+        "and I will glorify him with thanksgiving. for the Lord listens to the needy"
+       ],
+       [
+        "and does not spurn his own in their chains."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alabaré el nombre de Dios con cantos, proclamaré su grandeza con acción de gracias; que el Señor escucha a sus pobres, no desprecia a sus cautivos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Loderò con il canto il nome di Dio, lo magnificherò con azioni di grazie. Il Signore ascolta i miseri e non disprezza la voce dei prigionieri."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je louerai le nom de Dieu par un cantique,"
+       ],
+       [
+        "je vais le magnifier, lui rendre grâce."
+       ],
+       [
+        "Car le Seigneur écoute les humbles,"
+       ],
+       [
+        "il n'oublie pas les siens emprisonnés."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich will den Namen Gottes rühmen im Lied, in meinem Danklied ihn preisen. Denn der Herr hört auf die Armen, er verachtet die Gefangenen nicht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nostræ libertátis prétium recoléntes, tuam, Dómine, pro frátribus nostris implorámus cleméntiam, ut a vínculis solvántur, et servi fiant iustítiæ tuæ. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, ao recordar o preço da nossa liberdade,"
+       ],
+       [
+        "imploramos vossa clemência"
+       ],
+       [
+        "em favor de nossos irmãos e irmãs"
+       ],
+       [
+        "submetidos ao cativeiro"
+       ],
+       [
+        "para que se vejam livres de seus grilhões"
+       ],
+       [
+        "e se tornem servidores da vossa justiça."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mindful of the price paid for our deliverance, we implore your mercy, O Lord,"
+       ],
+       [
+        "upon our brothers and sisters,"
+       ],
+       [
+        "that they may be released from captivity"
+       ],
+       [
+        "and become servants of your justice."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al celebrar el precio de nuestra libertad,"
+       ],
+       [
+        "imploramos, Señor,"
+       ],
+       [
+        "tu clemencia en favor de nuestros hermanos,"
+       ],
+       [
+        "para que sean liberados de sus cadenas"
+       ],
+       [
+        "y se conviertan en servidores de tu justicia."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Facendo memoria del prezzo della nostra libertà, imploriamo per i nostri fratelli la tua clemenza, o Signore, perché, liberati da ogni vincolo, si pongano al servizio della tua giustizia. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors que nous célébrons le prix offert pour notre liberté,"
+       ],
+       [
+        "nous implorons, Seigneur, ta bonté pour nos frères,"
+       ],
+       [
+        "afin qu'ils soient libérés de leurs chaînes"
+       ],
+       [
+        "et se mettent au service de ta justice."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, wir haben den Leib und das Blut Christi empfangen, den Preis für unsere Freiheit. Erhöre unser Gebet für unsere Brüder, die in Gefangenschaft sind. Löse ihre Fesseln, damit sie dir freudig dienen und wir alle nur deiner Gerechtigkeit dienstbar sind. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "la": "III. AD DIVERSA",
+  "pt-BR": "III. EM DIVERSAS NECESSIDADES",
+  "en-US": "III. FOR VARIOUS OCCASIONS",
+  "es": "III. EN DIVERSAS NECESIDADES",
+  "it": "IN DIVERSE NECESSITÀ",
+  "fr": "III. POUR DIVERSES CIRCONSTANCES",
+  "de": "III. IN BESONDEREN ANLIEGEN"
+ },
+ "subtitle": {
+  "la": "43. PRO CAPTIVITATE DETENTIS",
+  "pt-BR": "43. PELOS SUBMETIDOS AO CATIVEIRO",
+  "en-US": "43. FOR THOSE HELD IN CAPTIVITY",
+  "es": "43. POR LOS CAUTIVOS",
+  "it": "43. PER I PRIGIONIERI",
+  "fr": "43. POUR CEUX QUI SONT EN CAPTIVITÉ",
+  "de": "43. FÜR KRIEGSGEFANGENE UND UNGERECHT VERURTEILTE STRAFGEFANGENE"
+ }
+}

@@ -1,1 +1,1189 @@
-{"id":"various-needs.4","source":"comunes_votivas/diversas#div004","kind":"various-needs","items":[{"slot":"41","text":{"la":[{"k":"h2","lines":[["I. PRO SANCTA ECCLESIA"]]},{"k":"h3","lines":[["1. PRO ECCLESIA"],["D"]]}],"pt-BR":[{"k":"h2","lines":[["I. PELA SANTA IGREJA"]]},{"k":"h3","lines":[["1. PELA IGREJA"],["D"]]}],"en-US":[{"k":"h2","lines":[["I. FOR HOLY CHURCH"]]},{"k":"h3","lines":[["1. For the Church"],["D"]]}],"es":[{"k":"h2","lines":[["I. POR LA SANTA IGLESIA"]]},{"k":"h3","lines":[["1. POR LA IGLESIA"],["D"]]}],"it":[{"k":"h2","lines":[["I. PER LA SANTA CHIESA"]]},{"k":"h3","lines":[["1. Per la Santa Chiesa"],["D"]]}],"fr":[{"k":"h2","lines":[["I. POUR LA SAINTE ÉGLISE"]]},{"k":"h3","lines":[["1. POUR L'ÉGLISE"],["D"]]}],"de":[{"k":"h2","lines":[["I. FÜR DIE HEILIGE KIRCHE"]]},{"k":"h3","lines":[["1. FÜR DIE HEILIGE KIRCHE"],["D"]]}]},"part":"title"},{"slot":"42","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Io 17, 20-21"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Jo 17, 20-21"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Jn 17: 20-21"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Jn 17, 20-21"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Gv 17, 20-21"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Io 17, 20-21"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Joh 17, 20-21"}]},"part":"entranceAntiphon"},{"slot":"43","text":{"la":[{"k":"p","lines":[["Rogo, Pater, pro eis qui creditúri sunt in me, ut ipsi in nobis unum sint, ut credat mundus quia tu me misísti."]]}],"pt-BR":[{"k":"p","lines":[["Pai, rogo por eles, para que sejam um em nós,"],["a fim de que o mundo creia que tu me enviaste,"],["diz o Senhor."]]}],"en-US":[{"k":"p","lines":[["Father, I pray for those who will believe in me,"],["that they may be one in us,"],["so that the world may believe it was you who sent me."]]}],"es":[{"k":"p","lines":[["Padre, ruego por los que crean en mí, que sean uno en nosotros, para que el mundo crea que tú me has enviado."]]}],"it":[{"k":"p","lines":[["«Padre, prego per quelli che crederanno in me, Cf. Gv 17, 20-21 perché tutti siano una cosa sola, e il mondo creda che tu mi hai mandato», dice il Signore."]]}],"fr":[{"k":"p","lines":[["Père, je prie pour ceux qui croiront en moi :"],["qu'ils soient un en nous,"],["pour que le monde croie que tu m'as envoyé."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Ich bitte dich, Vater, für sie: Lass sie eins sein in uns, damit die Welt glaubt, dass du mich gesandt hast."]]}]},"part":"entranceAntiphon"},{"slot":"44","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"45","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus, qui glóriam tuam ómnibus in Christo géntibus revelásti, custódi ópera misericórdiæ tuæ, ut Ecclésia sancta, toto orbe diffúsa, stábili fide in confessióne tui nóminis persevéret. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso,"],["que em Cristo revelastes a vossa glória a todas as nações;"],["velai pela obra da vossa misericórdia"],["para que a santa Igreja, dispersa por todo o orbe,"],["com fé inabalável, persevere na confissão do vosso nome."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God,"],["who in Christ revealed your glory to all the nations,"],["watch over the works of your mercy,"],["that holy Church, spread throughout the whole world,"],["may persevere with steadfast faith in confessing your name. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["que en Cristo revelaste tu gloria a todas las nacionés,"],["guarda la obra de tu misericordia,"],["para que la santa Iglesia,"],["extendida por toda la tierra,"],["persevere con fe firme en la confesión de tu nombre."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, che hai rivelato in Cristo la tua gloria a tutte le genti, custodisci l'opera della tua misericordia, perché la santa Chiesa, diffusa su tutta la terra, salda nella fede, perseveri nella confessione del tuo nome. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["dans le Christ tu as révélé ta gloire à toutes les nations ;"],["veille sur l'œuvre de ton amour :"],["que ton Église sainte répandue dans le monde entier"],["demeure inébranlable dans la foi"],["pour proclamer ton nom."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, du hast in Christus allen Völkern deine Herrlichkeit geoffenbart. Behüte, was du in deinem Erbarmen an uns gewirkt hast: Lass deine Kirche auf der ganzen Erde im Glauben feststehen und deinen Namen loben. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"46","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"47","text":{"la":[{"k":"p","lines":[["Deus, qui eódem sacrifício Ecclésiam tuam iúgiter sanctíficas, quo eam mundásti, da, ut, cápiti suo Christo uníta, cum eo se tibi ófferat, et pura tibi voluntáte concórdet. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que santificais sem cessar a vossa Igreja"],["com o mesmo sacrifício pelo qual a purificastes;"],["concedei que, unida a Cristo, sua cabeça,"],["com ele se ofereça a vós"],["e, de coração puro,"],["se conforme à vossa vontade."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["O God, who constantly sanctify your Church"],["through the same sacrifice by which you have made her clean, grant that, united to Christ her head,"],["she may offer herself to you with him"],["and be united with you in purity of will."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que santificas sin cesar a tu Iglesia con el mismo sacrificio"],["con que un día la purificaste,"],["haz que, unida a Cristo, su cabeza,"],["se ofrezca a ti juntamente con él,"],["y te obedezca con voluntad sincera."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Dio, che sempre santifichi la tua Chiesa con il sacrificio che l'ha purificata, fa' che, unita a Cristo suo capo, con lui si offra a te e aderisca docilmente al tuo volere. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu ne cesses de sanctifier ton Église"],["par le sacrifice qui l'a déjà purifiée ;"],["puisqu'elle est le corps du Christ,"],["et qu'elle est unie à lui, la tête du Corps,"],["fais qu'avec lui, elle s'offre à toi"],["et s'accorde à ta seule volonté."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, aus dem einen Opfer Jesu Christi hast du die Kirche rein und makellos erstehen lassen; aus demselben Opfer strömt ihr immer wieder Leben und Heiligung zu. Gib, dass sie in Gemeinschaft mit Christus, ihrem Haupt, sich dir darbringt und nach dem Beispiel seines Gehorsams deinen Willen erfüllt. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"49","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 15, 5"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 15, 5"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 15: 5"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Jn 15, 5"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gv 15, 5"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 15, 5"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 15, 5"}]},"part":"communionAntiphon"},{"slot":"50","text":{"la":[{"k":"p","lines":[["Qui manet in me et ego in eo, hic fert fructum multum, quia sine me nihil potéstis fácere, dicit Dóminus."]]}],"pt-BR":[{"k":"p","lines":[["Aquele que permanece em mim, e eu nele,"],["esse produz muito fruto;"],["porque sem mim nada podeis fazer, diz o Senhor."]]}],"en-US":[{"k":"p","lines":[["Whoever remains in me and i in him bears fruit in plenty, because without me you can do nothing, says the Lord."]]}],"es":[{"k":"p","lines":[["El que permanece en mí y yo en él, ese da fruto abundante; porque sin mí no podéis hacer nada, dice el Señor."]]}],"it":[{"k":"p","lines":[["Chi rimane in me, e io in lui, porta molto frutto: senza di me non potete far nulla."]]}],"fr":[{"k":"p","lines":[["Celui qui demeure en moi"],["et en qui je demeure, dit le Seigneur,"],["celui-là porte beaucoup de fruit,"],["car, en dehors de moi, vous ne pouvez rien faire."]]}],"de":[{"k":"p","lines":[["(So spricht der Herr:) Wer in mir bleibt und in wem ich bleibe, der bringt reiche Frucht; denn getrennt von mir könnt ihr nichts vollbringen."]]}]},"part":"communionAntiphon"},{"slot":"51","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"52","text":{"la":[{"k":"p","lines":[["Refectióne sancta enutrítam, gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam, ut, poténti moderatióne recta, et increménta libertátis accípiat, et in religiónis integritáte persístat. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, governai com bondade a vossa Igreja"],["alimentada nesta santa ceia,"],["para que, conduzida por vossa mão poderosa,"],["cresça na liberdade"],["e permaneça firme na integridade da fé."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Be pleased, O Lord, we pray,"],["to govern the Church you have nourished by this holy meal, so that, firmly directed,"],["she may enjoy ever greater freedom"],["and persevere in integrity of religion."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, gobierna con bondad a tu Iglesia,"],["alimentada en esta mesa santa,"],["para que, dirigida por tu mano poderosa,"],["tenga cada vez mayor libertad"],["y persevere en la integridad de la fe."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guida con bontà, o Signore, la tua Chiesa, nutrita da questo santo convito, perché, retta dalla tua mano sicura, cresca nella vera libertà e perseveri nell'integrità della fede. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["À la table sainte, Seigneur,"],["tu refais les forces de ton Église,"],["nous t'en prions :"],["dans ta bienveillance, dirige-la :"],["sous ta forte impulsion,"],["qu'elle voie grandir sa liberté"],["et demeure dans la pureté de la foi."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, lenke deine Kirche, die du im heiligen Mahl gestärkt hast. Deine sichere Führung bewahre sie im rechten Glauben und schenke ihr Wachstum in Freiheit. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.31"],"title":{"la":"I. PRO SANCTA ECCLESIA","pt-BR":"I. PELA SANTA IGREJA","en-US":"I. FOR HOLY CHURCH","es":"I. POR LA SANTA IGLESIA","it":"I. PER LA SANTA CHIESA","fr":"I. POUR LA SAINTE ÉGLISE","de":"I. FÜR DIE HEILIGE KIRCHE"},"subtitle":{"la":"1. PRO ECCLESIA D","pt-BR":"1. PELA IGREJA D","en-US":"1. For the Church D","es":"1. POR LA IGLESIA D","it":"1. Per la Santa Chiesa D","fr":"1. POUR L'ÉGLISE D","de":"1. FÜR DIE HEILIGE KIRCHE D"}}
+{
+ "id": "various-needs.4",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PRO SANCTA ECCLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. PRO ECCLESIA"
+       ],
+       [
+        "D"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PELA SANTA IGREJA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. PELA IGREJA"
+       ],
+       [
+        "D"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FOR HOLY CHURCH"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. For the Church"
+       ],
+       [
+        "D"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POR LA SANTA IGLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. POR LA IGLESIA"
+       ],
+       [
+        "D"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PER LA SANTA CHIESA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. Per la Santa Chiesa"
+       ],
+       [
+        "D"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POUR LA SAINTE ÉGLISE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. POUR L'ÉGLISE"
+       ],
+       [
+        "D"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FÜR DIE HEILIGE KIRCHE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. FÜR DIE HEILIGE KIRCHE"
+       ],
+       [
+        "D"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Io 17, 20-21"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Jo 17, 20-21"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Jn 17: 20-21"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Jn 17, 20-21"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Gv 17, 20-21"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Io 17, 20-21"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Joh 17, 20-21"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rogo, Pater, pro eis qui creditúri sunt in me, ut ipsi in nobis unum sint, ut credat mundus quia tu me misísti."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pai, rogo por eles, para que sejam um em nós,"
+       ],
+       [
+        "a fim de que o mundo creia que tu me enviaste,"
+       ],
+       [
+        "diz o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father, I pray for those who will believe in me,"
+       ],
+       [
+        "that they may be one in us,"
+       ],
+       [
+        "so that the world may believe it was you who sent me."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre, ruego por los que crean en mí, que sean uno en nosotros, para que el mundo crea que tú me has enviado."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Padre, prego per quelli che crederanno in me, Cf. Gv 17, 20-21 perché tutti siano una cosa sola, e il mondo creda che tu mi hai mandato», dice il Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Père, je prie pour ceux qui croiront en moi :"
+       ],
+       [
+        "qu'ils soient un en nous,"
+       ],
+       [
+        "pour que le monde croie que tu m'as envoyé."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Ich bitte dich, Vater, für sie: Lass sie eins sein in uns, damit die Welt glaubt, dass du mich gesandt hast."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus, qui glóriam tuam ómnibus in Christo géntibus revelásti, custódi ópera misericórdiæ tuæ, ut Ecclésia sancta, toto orbe diffúsa, stábili fide in confessióne tui nóminis persevéret. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "que em Cristo revelastes a vossa glória a todas as nações;"
+       ],
+       [
+        "velai pela obra da vossa misericórdia"
+       ],
+       [
+        "para que a santa Igreja, dispersa por todo o orbe,"
+       ],
+       [
+        "com fé inabalável, persevere na confissão do vosso nome."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "who in Christ revealed your glory to all the nations,"
+       ],
+       [
+        "watch over the works of your mercy,"
+       ],
+       [
+        "that holy Church, spread throughout the whole world,"
+       ],
+       [
+        "may persevere with steadfast faith in confessing your name. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "que en Cristo revelaste tu gloria a todas las nacionés,"
+       ],
+       [
+        "guarda la obra de tu misericordia,"
+       ],
+       [
+        "para que la santa Iglesia,"
+       ],
+       [
+        "extendida por toda la tierra,"
+       ],
+       [
+        "persevere con fe firme en la confesión de tu nombre."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, che hai rivelato in Cristo la tua gloria a tutte le genti, custodisci l'opera della tua misericordia, perché la santa Chiesa, diffusa su tutta la terra, salda nella fede, perseveri nella confessione del tuo nome. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "dans le Christ tu as révélé ta gloire à toutes les nations ;"
+       ],
+       [
+        "veille sur l'œuvre de ton amour :"
+       ],
+       [
+        "que ton Église sainte répandue dans le monde entier"
+       ],
+       [
+        "demeure inébranlable dans la foi"
+       ],
+       [
+        "pour proclamer ton nom."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, du hast in Christus allen Völkern deine Herrlichkeit geoffenbart. Behüte, was du in deinem Erbarmen an uns gewirkt hast: Lass deine Kirche auf der ganzen Erde im Glauben feststehen und deinen Namen loben. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui eódem sacrifício Ecclésiam tuam iúgiter sanctíficas, quo eam mundásti, da, ut, cápiti suo Christo uníta, cum eo se tibi ófferat, et pura tibi voluntáte concórdet. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que santificais sem cessar a vossa Igreja"
+       ],
+       [
+        "com o mesmo sacrifício pelo qual a purificastes;"
+       ],
+       [
+        "concedei que, unida a Cristo, sua cabeça,"
+       ],
+       [
+        "com ele se ofereça a vós"
+       ],
+       [
+        "e, de coração puro,"
+       ],
+       [
+        "se conforme à vossa vontade."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who constantly sanctify your Church"
+       ],
+       [
+        "through the same sacrifice by which you have made her clean, grant that, united to Christ her head,"
+       ],
+       [
+        "she may offer herself to you with him"
+       ],
+       [
+        "and be united with you in purity of will."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que santificas sin cesar a tu Iglesia con el mismo sacrificio"
+       ],
+       [
+        "con que un día la purificaste,"
+       ],
+       [
+        "haz que, unida a Cristo, su cabeza,"
+       ],
+       [
+        "se ofrezca a ti juntamente con él,"
+       ],
+       [
+        "y te obedezca con voluntad sincera."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che sempre santifichi la tua Chiesa con il sacrificio che l'ha purificata, fa' che, unita a Cristo suo capo, con lui si offra a te e aderisca docilmente al tuo volere. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu ne cesses de sanctifier ton Église"
+       ],
+       [
+        "par le sacrifice qui l'a déjà purifiée ;"
+       ],
+       [
+        "puisqu'elle est le corps du Christ,"
+       ],
+       [
+        "et qu'elle est unie à lui, la tête du Corps,"
+       ],
+       [
+        "fais qu'avec lui, elle s'offre à toi"
+       ],
+       [
+        "et s'accorde à ta seule volonté."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, aus dem einen Opfer Jesu Christi hast du die Kirche rein und makellos erstehen lassen; aus demselben Opfer strömt ihr immer wieder Leben und Heiligung zu. Gib, dass sie in Gemeinschaft mit Christus, ihrem Haupt, sich dir darbringt und nach dem Beispiel seines Gehorsams deinen Willen erfüllt. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 15, 5"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 15, 5"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 15: 5"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Jn 15, 5"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gv 15, 5"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 15, 5"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 15, 5"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui manet in me et ego in eo, hic fert fructum multum, quia sine me nihil potéstis fácere, dicit Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aquele que permanece em mim, e eu nele,"
+       ],
+       [
+        "esse produz muito fruto;"
+       ],
+       [
+        "porque sem mim nada podeis fazer, diz o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Whoever remains in me and i in him bears fruit in plenty, because without me you can do nothing, says the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que permanece en mí y yo en él, ese da fruto abundante; porque sin mí no podéis hacer nada, dice el Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi rimane in me, e io in lui, porta molto frutto: senza di me non potete far nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Celui qui demeure en moi"
+       ],
+       [
+        "et en qui je demeure, dit le Seigneur,"
+       ],
+       [
+        "celui-là porte beaucoup de fruit,"
+       ],
+       [
+        "car, en dehors de moi, vous ne pouvez rien faire."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "(So spricht der Herr:) Wer in mir bleibt und in wem ich bleibe, der bringt reiche Frucht; denn getrennt von mir könnt ihr nichts vollbringen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Refectióne sancta enutrítam, gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam, ut, poténti moderatióne recta, et increménta libertátis accípiat, et in religiónis integritáte persístat. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, governai com bondade a vossa Igreja"
+       ],
+       [
+        "alimentada nesta santa ceia,"
+       ],
+       [
+        "para que, conduzida por vossa mão poderosa,"
+       ],
+       [
+        "cresça na liberdade"
+       ],
+       [
+        "e permaneça firme na integridade da fé."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Be pleased, O Lord, we pray,"
+       ],
+       [
+        "to govern the Church you have nourished by this holy meal, so that, firmly directed,"
+       ],
+       [
+        "she may enjoy ever greater freedom"
+       ],
+       [
+        "and persevere in integrity of religion."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, gobierna con bondad a tu Iglesia,"
+       ],
+       [
+        "alimentada en esta mesa santa,"
+       ],
+       [
+        "para que, dirigida por tu mano poderosa,"
+       ],
+       [
+        "tenga cada vez mayor libertad"
+       ],
+       [
+        "y persevere en la integridad de la fe."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guida con bontà, o Signore, la tua Chiesa, nutrita da questo santo convito, perché, retta dalla tua mano sicura, cresca nella vera libertà e perseveri nell'integrità della fede. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "À la table sainte, Seigneur,"
+       ],
+       [
+        "tu refais les forces de ton Église,"
+       ],
+       [
+        "nous t'en prions :"
+       ],
+       [
+        "dans ta bienveillance, dirige-la :"
+       ],
+       [
+        "sous ta forte impulsion,"
+       ],
+       [
+        "qu'elle voie grandir sa liberté"
+       ],
+       [
+        "et demeure dans la pureté de la foi."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, lenke deine Kirche, die du im heiligen Mahl gestärkt hast. Deine sichere Führung bewahre sie im rechten Glauben und schenke ihr Wachstum in Freiheit. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.31"
+ ],
+ "title": {
+  "la": "I. PRO SANCTA ECCLESIA",
+  "pt-BR": "I. PELA SANTA IGREJA",
+  "en-US": "I. FOR HOLY CHURCH",
+  "es": "I. POR LA SANTA IGLESIA",
+  "it": "I. PER LA SANTA CHIESA",
+  "fr": "I. POUR LA SAINTE ÉGLISE",
+  "de": "I. FÜR DIE HEILIGE KIRCHE"
+ },
+ "subtitle": {
+  "la": "1. PRO ECCLESIA D",
+  "pt-BR": "1. PELA IGREJA D",
+  "en-US": "1. For the Church D",
+  "es": "1. POR LA IGLESIA D",
+  "it": "1. Per la Santa Chiesa D",
+  "fr": "1. POUR L'ÉGLISE D",
+  "de": "1. FÜR DIE HEILIGE KIRCHE D"
+ }
+}

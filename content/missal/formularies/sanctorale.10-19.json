@@ -1,1 +1,570 @@
-{"id":"sanctorale.10-19","source":"santos/santos_oct#1019","kind":"sanctoral","items":[{"slot":"119","text":{"la":[{"k":"h2","lines":[["Die 19 octobris"],["Ss. Ioannis de Brébeuf et Isaac Jogues, presbyterorum, et sociorum, martyrum"]]},{"k":"p","lines":[["Inter annos 1642 et 1649 in America Septentrionali occisi sunt ab indigenis Huronibus et Irochenis, post terrifica tormenta, octo sodales Societatis Iesu, qui ethnicos illius regionis ad veram fidem perducere satagebant. Isaac Jogues die 18 octobris 1647 occubuit, Ioannes de Brébeuf autem die 16 martii 1648."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi martyrum:"}," ",{"m":"link","t":"pro missionariis martyribus","to":"common.martyrs.11"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["19 de outubro"],["Santos João de Brébeuf e Isaac Jogues, presbíteros, e companheiros, mártires"]]},{"k":"p","lines":[["Entre os apóstolos que evangelizaram o Canadá, oito jesuítas, que se encontravam em missão junto aos índios hurões e iroqueses, morreram mártires (1642-1649). O irmão coadjutor Renato Goupil, em 1642; o sacerdote Isaac Jogues e o outro irmão coadjutor, João de La Loude, em 1647; o sacerdote Carlos Daniel, em 1648, e João de Brébeuf, Gabriel Lalement, Carlos Carnier, Natal Chabanel, em 1649."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Mártires:"}," ",{"m":"link","t":"para missionários mártires","to":"common.martyrs.11"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["October 19"],["Ss. John de Brebeuf and Isaac Jogues, priests and martyrs, and Companions, martyrs"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Martyrs:"}," ",{"m":"link","t":"Missionary Martyrs","to":"common.martyrs.11"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["19 de octubre"],["San Juan de Breveuf y san Isaac Jogues, presbíteros, y compañeros mártires"]]},{"k":"p","lines":[["Entre los años 1642 y 1649, ocho miembros de la Compañía de Jesús, que evangelizaban la parte septentrional de América, fueron muertos, después de atroces tormentos, por los indígenas hurones e iroqueses. Isaac Jogues fue martirizado el día 18 de octubre de 1647; Juan de Brébeuf, el día 16 de marzo de 1648."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"Misioneros mártires","to":"common.martyrs.11"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["Die 19 octobris"],["SANTI GIOVANNI DE BRÉBEUF e ISACCO JOGUES, presbiteri, e COMPAGNI, martiri"]]},{"k":"p","lines":[["Giovanni (Condé-sur-Vire, Francia, 15 marzo 1594 - Midland, Canada, 16 marzo 1649), missionario gesuita tra gli Uroni, nell'attuale Canada, fu ucciso in un assalto alla missione da parte di altre tribù nemiche. Pochi mesi più tardi lo seguì nel martirio il suo compagno nella missione Isacco Jogues (Orléans, Francia, 10 gennaio 1607 - Auriesville, USA, 18 ottobre 1649); con loro si ricordano altri sei martiri gesuiti. Condivisero con mitezza evangelica la vita di quelle popolazioni, fino al dono totale di sé."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei martiri:"}," ",{"m":"link","t":"per i missionari","to":"common.martyrs.11"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["19 octobre"],["Saint Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons, martyrs"]]},{"k":"p","lines":[["Jean de Brébeuf et Isaac Jogues sont les chefs de file des huit jésuites français, envoyés en mission en Amérique du Nord. Ils furent massacrés pour le Christ entre 1642 et 1649. Isaac Jogues, le premier, subit le martyre au pays des Iroquois près d'Auriesville, dans l'actuel État de New York ; Jean de Brébeuf, au pays des Hurons en territoire canadien."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun des Martyr:"}," ",{"m":"link","t":"pour des missionnaires martyrs","to":"common.martyrs.11"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["19. Oktober"],["Hl. Johannes de Brébeuf und hl. Isaak Jogues und Gefährten, Märtyrer"]]},{"k":"p","lines":[["Von 1642 bis 1649 starben acht Mitglieder des Jesuitenordens in der Mission in Amerika (Grenzgebiet Kanada und der USA). Nach grausamer Folter durch die Irokesen und Huronen erlitten so auch Johannes und Isaak das Martyrium."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Märtyrer,"}," ",{"m":"link","t":"die Glaubensboten waren","to":"common.martyrs.11"},{"m":"rubric","t":"."}]]}],"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In the Dioceses of the United States: Memorial]"}]]}]},"part":"title"},{"slot":"120","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"121","text":{"la":[{"k":"p","lines":[["Deus, qui spem beátam regni ætérni sanctórum Ioánnis et Isaac eorúmque sociórum ópere et sánguinis effusióne manifestáre voluísti, concéde propítius, ut, eórum intercessióne, fides christianórum in dies firmétur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, quisestes manifestar a feliz esperança do reino eterno"],["pela obra e pelo sangue derramado"],["dos Santos João, Isaac e seus companheiros;"],["concedei benigno, por sua intercessão,"],["que a fé dos cristãos se torne cada dia mais firme."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who chose to manifest"],["the blessed hope of your eternal kingdom"],["by the toil of Saints John de Brébeuf,"],["Isaac Jogues and their companions"],["and by the shedding of their blood,"],["graciously grant that through their intercession"],["the faith of Christians may be strengthened day by day. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que has querido manifestar la feliz esperanza del reino eterno"],["en la vida y el martirio"],["de los santos Juan, Isaac y compañeros,"],["concédenos, por su intercesión, en tu bondad,"],["que se fortalezca, de día en día,"],["la fe de los cristianos."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che con l'opera e l'effusione del sangue dei santi Giovanni e Isacco e dei loro compagni hai voluto manifestare la beata speranza del regno eterno, concedi che, per la loro intercessione, la fede dei cristiani sempre più cresca e si rafforzi. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as voulu manifester"],["la bienheureuse espérance du Royaume éternel"],["par l'action missionnaire et le sang versé de tes martyrs,"],["saints Jean de Brébeuf, Isaac Jogues et leurs compagnons ;"],["à leur intercession, donne aux chrétiens"],["une foi qui s'affermisse de jour en jour."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, du hast durch die Predigt und das Martyrium des heiligen Johannes und Isaak und ihrer Gefährten die Anfänge der Kirche in Nordamerika geheiligt. Lass auf ihre Fürsprache in der ganzen Welt die Saat des Glaubens aufblühen und reifen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"}],"precedence":12,"lectionary":"sanctorale.10-19","commons":["common.martyrs.11"],"title":{"la":"Ss. Ioannis de Brébeuf et Isaac Jogues, presbyterorum, et sociorum, martyrum","pt-BR":"Santos João de Brébeuf e Isaac Jogues, presbíteros, e companheiros, mártires","en-US":"Ss. John de Brebeuf and Isaac Jogues, priests and martyrs, and Companions, martyrs","es":"San Juan de Breveuf y san Isaac Jogues, presbíteros, y compañeros mártires","it":"SANTI GIOVANNI DE BRÉBEUF e ISACCO JOGUES, presbiteri, e COMPAGNI, martiri","fr":"Saint Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons, martyrs","de":"Hl. Johannes de Brébeuf und hl. Isaak Jogues und Gefährten, Märtyrer"}}
+{
+ "id": "sanctorale.10-19",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 19 octobris"
+       ],
+       [
+        "Ss. Ioannis de Brébeuf et Isaac Jogues, presbyterorum, et sociorum, martyrum"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Inter annos 1642 et 1649 in America Septentrionali occisi sunt ab indigenis Huronibus et Irochenis, post terrifica tormenta, octo sodales Societatis Iesu, qui ethnicos illius regionis ad veram fidem perducere satagebant. Isaac Jogues die 18 octobris 1647 occubuit, Ioannes de Brébeuf autem die 16 martii 1648."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi martyrum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "pro missionariis martyribus",
+         "to": "common.martyrs.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de outubro"
+       ],
+       [
+        "Santos João de Brébeuf e Isaac Jogues, presbíteros, e companheiros, mártires"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entre os apóstolos que evangelizaram o Canadá, oito jesuítas, que se encontravam em missão junto aos índios hurões e iroqueses, morreram mártires (1642-1649). O irmão coadjutor Renato Goupil, em 1642; o sacerdote Isaac Jogues e o outro irmão coadjutor, João de La Loude, em 1647; o sacerdote Carlos Daniel, em 1648, e João de Brébeuf, Gabriel Lalement, Carlos Carnier, Natal Chabanel, em 1649."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "para missionários mártires",
+         "to": "common.martyrs.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "October 19"
+       ],
+       [
+        "Ss. John de Brebeuf and Isaac Jogues, priests and martyrs, and Companions, martyrs"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Martyrs:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "Missionary Martyrs",
+         "to": "common.martyrs.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de octubre"
+       ],
+       [
+        "San Juan de Breveuf y san Isaac Jogues, presbíteros, y compañeros mártires"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entre los años 1642 y 1649, ocho miembros de la Compañía de Jesús, que evangelizaban la parte septentrional de América, fueron muertos, después de atroces tormentos, por los indígenas hurones e iroqueses. Isaac Jogues fue martirizado el día 18 de octubre de 1647; Juan de Brébeuf, el día 16 de marzo de 1648."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "Misioneros mártires",
+         "to": "common.martyrs.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 19 octobris"
+       ],
+       [
+        "SANTI GIOVANNI DE BRÉBEUF e ISACCO JOGUES, presbiteri, e COMPAGNI, martiri"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Giovanni (Condé-sur-Vire, Francia, 15 marzo 1594 - Midland, Canada, 16 marzo 1649), missionario gesuita tra gli Uroni, nell'attuale Canada, fu ucciso in un assalto alla missione da parte di altre tribù nemiche. Pochi mesi più tardi lo seguì nel martirio il suo compagno nella missione Isacco Jogues (Orléans, Francia, 10 gennaio 1607 - Auriesville, USA, 18 ottobre 1649); con loro si ricordano altri sei martiri gesuiti. Condivisero con mitezza evangelica la vita di quelle popolazioni, fino al dono totale di sé."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei martiri:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "per i missionari",
+         "to": "common.martyrs.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 octobre"
+       ],
+       [
+        "Saint Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons, martyrs"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jean de Brébeuf et Isaac Jogues sont les chefs de file des huit jésuites français, envoyés en mission en Amérique du Nord. Ils furent massacrés pour le Christ entre 1642 et 1649. Isaac Jogues, le premier, subit le martyre au pays des Iroquois près d'Auriesville, dans l'actuel État de New York ; Jean de Brébeuf, au pays des Hurons en territoire canadien."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun des Martyr:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "pour des missionnaires martyrs",
+         "to": "common.martyrs.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19. Oktober"
+       ],
+       [
+        "Hl. Johannes de Brébeuf und hl. Isaak Jogues und Gefährten, Märtyrer"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Von 1642 bis 1649 starben acht Mitglieder des Jesuitenordens in der Mission in Amerika (Grenzgebiet Kanada und der USA). Nach grausamer Folter durch die Irokesen und Huronen erlitten so auch Johannes und Isaak das Martyrium."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Märtyrer,"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "die Glaubensboten waren",
+         "to": "common.martyrs.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In the Dioceses of the United States: Memorial]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui spem beátam regni ætérni sanctórum Ioánnis et Isaac eorúmque sociórum ópere et sánguinis effusióne manifestáre voluísti, concéde propítius, ut, eórum intercessióne, fides christianórum in dies firmétur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, quisestes manifestar a feliz esperança do reino eterno"
+       ],
+       [
+        "pela obra e pelo sangue derramado"
+       ],
+       [
+        "dos Santos João, Isaac e seus companheiros;"
+       ],
+       [
+        "concedei benigno, por sua intercessão,"
+       ],
+       [
+        "que a fé dos cristãos se torne cada dia mais firme."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who chose to manifest"
+       ],
+       [
+        "the blessed hope of your eternal kingdom"
+       ],
+       [
+        "by the toil of Saints John de Brébeuf,"
+       ],
+       [
+        "Isaac Jogues and their companions"
+       ],
+       [
+        "and by the shedding of their blood,"
+       ],
+       [
+        "graciously grant that through their intercession"
+       ],
+       [
+        "the faith of Christians may be strengthened day by day. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que has querido manifestar la feliz esperanza del reino eterno"
+       ],
+       [
+        "en la vida y el martirio"
+       ],
+       [
+        "de los santos Juan, Isaac y compañeros,"
+       ],
+       [
+        "concédenos, por su intercesión, en tu bondad,"
+       ],
+       [
+        "que se fortalezca, de día en día,"
+       ],
+       [
+        "la fe de los cristianos."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che con l'opera e l'effusione del sangue dei santi Giovanni e Isacco e dei loro compagni hai voluto manifestare la beata speranza del regno eterno, concedi che, per la loro intercessione, la fede dei cristiani sempre più cresca e si rafforzi. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as voulu manifester"
+       ],
+       [
+        "la bienheureuse espérance du Royaume éternel"
+       ],
+       [
+        "par l'action missionnaire et le sang versé de tes martyrs,"
+       ],
+       [
+        "saints Jean de Brébeuf, Isaac Jogues et leurs compagnons ;"
+       ],
+       [
+        "à leur intercession, donne aux chrétiens"
+       ],
+       [
+        "une foi qui s'affermisse de jour en jour."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, du hast durch die Predigt und das Martyrium des heiligen Johannes und Isaak und ihrer Gefährten die Anfänge der Kirche in Nordamerika geheiligt. Lass auf ihre Fürsprache in der ganzen Welt die Saat des Glaubens aufblühen und reifen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.10-19",
+ "commons": [
+  "common.martyrs.11"
+ ],
+ "title": {
+  "la": "Ss. Ioannis de Brébeuf et Isaac Jogues, presbyterorum, et sociorum, martyrum",
+  "pt-BR": "Santos João de Brébeuf e Isaac Jogues, presbíteros, e companheiros, mártires",
+  "en-US": "Ss. John de Brebeuf and Isaac Jogues, priests and martyrs, and Companions, martyrs",
+  "es": "San Juan de Breveuf y san Isaac Jogues, presbíteros, y compañeros mártires",
+  "it": "SANTI GIOVANNI DE BRÉBEUF e ISACCO JOGUES, presbiteri, e COMPAGNI, martiri",
+  "fr": "Saint Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons, martyrs",
+  "de": "Hl. Johannes de Brébeuf und hl. Isaak Jogues und Gefährten, Märtyrer"
+ }
+}

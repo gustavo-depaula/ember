@@ -1,1 +1,794 @@
-{"id":"sanctorale.04-11","source":"santos/santos_abr#0411","kind":"sanctoral","items":[{"slot":"21","text":{"la":[{"k":"h2","lines":[["Die 11 aprilis"],["S. Stanislai, episcopi et martyris"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["Natus in oppido Szczepanów, in Polonia, circa annum 1036, Leodio (Liège) studiis incubuit. Presbyter factus, Lamberto episcopo Cracoviensi successit anno 1072. Ut bonus pastor Ecclesiam rexit, pauperes adiuvit, clericos quotannis invisit. A rege Boleslao, quem increpaverat, occisus fuit anno 1079."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi martyrum:"}," ",{"m":"link","t":"mtp","to":"common.martyrs.10"},{"m":"rubric","t":", vel de Communi pastorum:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["11 de abril"],["Santo Estanislau, bispo e mártir"]]},{"k":"h3","lines":[["Memória"]]},{"k":"p","lines":[["Estanislau (Szczepanów, Polônia, por volta de 1030 - Cracóvia, 11 de abril 1079), bispo de Cracóvia, foi um pastor sábio e dedicado. Sucedeu ao bispo Lamberto, em 1072. Intrépido defensor da liberdade da Igreja e da dignidade do homem, dos pequenos e dos pobres, foi martirizado pelo rei Boleslau II. Foi canonizado pelo Papa Inocêncio IV, em Assis, no ano de 1253. É padroeiro da Polônia. Os seus restos mortais, conservados na catedral de Cracóvia, São objeto de muitas peregrinações."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Mártires:"}," ",{"m":"link","t":"mtp","to":"common.martyrs.10"},{"m":"rubric","t":", ou Comum dos Pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["April 11"],["Saint Stanislaus, bishop and martyr"]]},{"k":"h3","lines":[["Memorial"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Martyrs:"}," ",{"m":"link","t":"met","to":"common.martyrs.10"},{"m":"rubric","t":", or from the Common of Pastors:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["11 de abril"],["San Estanislao, obispo y mártir"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["Nacido en Szczepanowski (Polonia) hacia el año 1030, hizo sus estudios en París. Ordenado presbítero, sucedió a Lamberlo, obispo de Cracovia, el año 1071. Fue un buen pastor al frente de su Iglesia, ayudó a los pobres y visitó a sus clérigos todos los años. El año 1079, fue asesinado por el rey Boleslao, a quien había increpado por su mala conducta."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"mtp","to":"common.martyrs.10"},{"m":"rubric","t":", o de pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["11 aprile"],["SANTO STANISLAO, vescovo e martire"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["Stanislao (Szczepanowice, Polonia, 1030 ca. - Cracovia, 11 aprile 1079), vescovo di Cracovia, fu pastore sollecito del suo gregge: completò la cristianizzazione del paese, riformò il clero, ebbe cura dei poveri. In seguito a contrasti con il re Boleslao II, venne da questi fatto uccidere. Proclamato patrono della nazione, Stanislao fu sempre venerato dal popolo polacco; le sue spoglie, nella cattedrale di Cracovia, divennero meta di un continuo pellegrinaggio."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei martiri:"}," ",{"m":"link","t":"mtp","to":"common.martyrs.10"},{"m":"rubric","t":", oppure Comune dei pastori:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["11 avril"],["Saint Stanislas, évêque et martyr"]]},{"k":"h3","lines":[["Mémoire"]]},{"k":"p","lines":[["Stanislas (1030-1079) devint évêque de Cracovie (Pologne) peu après le martyre de Thomas Becket (1071). Bientôt Grégoire VII accéderait à la Chaire de Pierre. Stanislas devait mener, lui aussi, le combat pour la liberté de l'Église, en excommuniant un prince autocrate et corrompu. Celui-ci le fit assassiner."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun d'un Martyr:"}," ",{"m":"link","t":"mtp","to":"common.martyrs.10"},{"m":"rubric","t":", ou des Pasteurs:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["11. April"],["Hl. Stanislaus, Bischof, Märtyrer"]]},{"k":"h3","lines":[["Gedenktag"]]},{"k":"p","lines":[["Er wurde um das Jahr 1030 in Polen geboren, studierte in Paris und wurde zum Priester geweiht. 1071 wurde er als Nachfolger von Lambert zum Bischof von Krakau geweiht. Er war ein guter Seelsorger, half den Armen und besuchte jedes Jahr alle Kleriker seiner Diözese. Im Jahr 1079 wurde er von König Boleslav ermordet, welchen er zuvor für seine schlechten Handlungen angeprangert hatte."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Märtyrer:"}," ",{"m":"link","t":"met","to":"common.martyrs.10"},{"m":"rubric","t":", oder für Bischöfe:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}]},"part":"title"},{"slot":"22","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"23","text":{"la":[{"k":"p","lines":[["Deus, pro cuius honóre beátus epíscopus Stanisláus"],["gládiis persecutórum occúbuit,"],["præsta, quǽsumus, ut fortes in fide"],["usque ad mortem perseveráre valeámus."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, em cuja honra"],["o bispo Santo Estanislau"],["tombou sob a espada dos perseguidores,"],["concedei-nos perseverar firmes na fé até a morte."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, for whose honor the Bishop Saint Stanislaus fell beneath the swords of his persecutors,"],["grant, we pray,"],["that we may persevere strong in faith even until death. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["el santo obispo Estanislao sucumbió por tu gloria"],["bajo la espada de los perseguidores,"],["concédenos perseverar firmes en la fe hasta la muerte."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, per la tua gloria il santo vescovo Stanislao ha donato la vita colpito dalla spada dei suoi persecutori: concedi anche a noi di perseverare forti nella fede sino alla morte. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["pour l'honneur de ton nom,"],["l'évêque saint Stanislas"],["est tombé sous les coups de ses persécuteurs ;"],["accorde-nous la force de persévérer jusqu'à la mort,"],["fermes dans la foi."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott und Herr, der heilige Bischof Stanislaus hat sich unerschrocken für deine Ehre eingesetzt und ist unter dem Schwert der Verfolger gefallen. Gib auch uns die Kraft, bis zu unserem Tode im Glauben standhaft zu bleiben. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"24","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":10,"lectionary":"sanctorale.04-11","prefaces":["preface.54","preface.55","preface.56"],"commons":["common.martyrs.10","common.pastors.3","common.pastors.4"],"title":{"la":"S. Stanislai, episcopi et martyris","pt-BR":"Santo Estanislau, bispo e mártir","en-US":"Saint Stanislaus, bishop and martyr","es":"San Estanislao, obispo y mártir","it":"SANTO STANISLAO, vescovo e martire","fr":"Saint Stanislas, évêque et martyr","de":"Hl. Stanislaus, Bischof, Märtyrer"},"subtitle":{"la":"Memoria","pt-BR":"Memória","en-US":"Memorial","es":"Memoria","it":"Memoria","fr":"Mémoire","de":"Gedenktag"}}
+{
+ "id": "sanctorale.04-11",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 11 aprilis"
+       ],
+       [
+        "S. Stanislai, episcopi et martyris"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Natus in oppido Szczepanów, in Polonia, circa annum 1036, Leodio (Liège) studiis incubuit. Presbyter factus, Lamberto episcopo Cracoviensi successit anno 1072. Ut bonus pastor Ecclesiam rexit, pauperes adiuvit, clericos quotannis invisit. A rege Boleslao, quem increpaverat, occisus fuit anno 1079."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi martyrum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp",
+         "to": "common.martyrs.10"
+        },
+        {
+         "m": "rubric",
+         "t": ", vel de Communi pastorum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "11 de abril"
+       ],
+       [
+        "Santo Estanislau, bispo e mártir"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Estanislau (Szczepanów, Polônia, por volta de 1030 - Cracóvia, 11 de abril 1079), bispo de Cracóvia, foi um pastor sábio e dedicado. Sucedeu ao bispo Lamberto, em 1072. Intrépido defensor da liberdade da Igreja e da dignidade do homem, dos pequenos e dos pobres, foi martirizado pelo rei Boleslau II. Foi canonizado pelo Papa Inocêncio IV, em Assis, no ano de 1253. É padroeiro da Polônia. Os seus restos mortais, conservados na catedral de Cracóvia, São objeto de muitas peregrinações."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp",
+         "to": "common.martyrs.10"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou Comum dos Pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "April 11"
+       ],
+       [
+        "Saint Stanislaus, bishop and martyr"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Martyrs:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "met",
+         "to": "common.martyrs.10"
+        },
+        {
+         "m": "rubric",
+         "t": ", or from the Common of Pastors:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "11 de abril"
+       ],
+       [
+        "San Estanislao, obispo y mártir"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nacido en Szczepanowski (Polonia) hacia el año 1030, hizo sus estudios en París. Ordenado presbítero, sucedió a Lamberlo, obispo de Cracovia, el año 1071. Fue un buen pastor al frente de su Iglesia, ayudó a los pobres y visitó a sus clérigos todos los años. El año 1079, fue asesinado por el rey Boleslao, a quien había increpado por su mala conducta."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp",
+         "to": "common.martyrs.10"
+        },
+        {
+         "m": "rubric",
+         "t": ", o de pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "11 aprile"
+       ],
+       [
+        "SANTO STANISLAO, vescovo e martire"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Stanislao (Szczepanowice, Polonia, 1030 ca. - Cracovia, 11 aprile 1079), vescovo di Cracovia, fu pastore sollecito del suo gregge: completò la cristianizzazione del paese, riformò il clero, ebbe cura dei poveri. In seguito a contrasti con il re Boleslao II, venne da questi fatto uccidere. Proclamato patrono della nazione, Stanislao fu sempre venerato dal popolo polacco; le sue spoglie, nella cattedrale di Cracovia, divennero meta di un continuo pellegrinaggio."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei martiri:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp",
+         "to": "common.martyrs.10"
+        },
+        {
+         "m": "rubric",
+         "t": ", oppure Comune dei pastori:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "11 avril"
+       ],
+       [
+        "Saint Stanislas, évêque et martyr"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Stanislas (1030-1079) devint évêque de Cracovie (Pologne) peu après le martyre de Thomas Becket (1071). Bientôt Grégoire VII accéderait à la Chaire de Pierre. Stanislas devait mener, lui aussi, le combat pour la liberté de l'Église, en excommuniant un prince autocrate et corrompu. Celui-ci le fit assassiner."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun d'un Martyr:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "mtp",
+         "to": "common.martyrs.10"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou des Pasteurs:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "11. April"
+       ],
+       [
+        "Hl. Stanislaus, Bischof, Märtyrer"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Gedenktag"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er wurde um das Jahr 1030 in Polen geboren, studierte in Paris und wurde zum Priester geweiht. 1071 wurde er als Nachfolger von Lambert zum Bischof von Krakau geweiht. Er war ein guter Seelsorger, half den Armen und besuchte jedes Jahr alle Kleriker seiner Diözese. Im Jahr 1079 wurde er von König Boleslav ermordet, welchen er zuvor für seine schlechten Handlungen angeprangert hatte."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Märtyrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "met",
+         "to": "common.martyrs.10"
+        },
+        {
+         "m": "rubric",
+         "t": ", oder für Bischöfe:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, pro cuius honóre beátus epíscopus Stanisláus"
+       ],
+       [
+        "gládiis persecutórum occúbuit,"
+       ],
+       [
+        "præsta, quǽsumus, ut fortes in fide"
+       ],
+       [
+        "usque ad mortem perseveráre valeámus."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, em cuja honra"
+       ],
+       [
+        "o bispo Santo Estanislau"
+       ],
+       [
+        "tombou sob a espada dos perseguidores,"
+       ],
+       [
+        "concedei-nos perseverar firmes na fé até a morte."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, for whose honor the Bishop Saint Stanislaus fell beneath the swords of his persecutors,"
+       ],
+       [
+        "grant, we pray,"
+       ],
+       [
+        "that we may persevere strong in faith even until death. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "el santo obispo Estanislao sucumbió por tu gloria"
+       ],
+       [
+        "bajo la espada de los perseguidores,"
+       ],
+       [
+        "concédenos perseverar firmes en la fe hasta la muerte."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, per la tua gloria il santo vescovo Stanislao ha donato la vita colpito dalla spada dei suoi persecutori: concedi anche a noi di perseverare forti nella fede sino alla morte. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "pour l'honneur de ton nom,"
+       ],
+       [
+        "l'évêque saint Stanislas"
+       ],
+       [
+        "est tombé sous les coups de ses persécuteurs ;"
+       ],
+       [
+        "accorde-nous la force de persévérer jusqu'à la mort,"
+       ],
+       [
+        "fermes dans la foi."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott und Herr, der heilige Bischof Stanislaus hat sich unerschrocken für deine Ehre eingesetzt und ist unter dem Schwert der Verfolger gefallen. Gib auch uns die Kraft, bis zu unserem Tode im Glauben standhaft zu bleiben. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 10,
+ "lectionary": "sanctorale.04-11",
+ "prefaces": [
+  "preface.54",
+  "preface.55",
+  "preface.56"
+ ],
+ "commons": [
+  "common.martyrs.10",
+  "common.pastors.3",
+  "common.pastors.4"
+ ],
+ "title": {
+  "la": "S. Stanislai, episcopi et martyris",
+  "pt-BR": "Santo Estanislau, bispo e mártir",
+  "en-US": "Saint Stanislaus, bishop and martyr",
+  "es": "San Estanislao, obispo y mártir",
+  "it": "SANTO STANISLAO, vescovo e martire",
+  "fr": "Saint Stanislas, évêque et martyr",
+  "de": "Hl. Stanislaus, Bischof, Märtyrer"
+ },
+ "subtitle": {
+  "la": "Memoria",
+  "pt-BR": "Memória",
+  "en-US": "Memorial",
+  "es": "Memoria",
+  "it": "Memoria",
+  "fr": "Mémoire",
+  "de": "Gedenktag"
+ }
+}

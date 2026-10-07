@@ -1,0 +1,410 @@
+{
+ "id": "for-the-dead.second-reading.15",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "15"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Transivimus de morte ad vitam, quoniam diligimus fratres."
+        }
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Ioánnis apóstoli"
+       ]
+      ],
+      "cite": "3, 14-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimi:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nos scimus quóniam transívimus de morte in vitam, quóniam dilígimus fratres; qui non díligit, manet in morte. Omnis, qui odit fratrem suum, homicída est, et scitis quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In hoc nóvimus caritátem, quóniam ille pro nobis ánimam suam pósuit; et nos debémus pro frátribus ánimas pónere."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nós sabemos que passamos da morte para a vida, porque amamos os irmãos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Epístola de São João"
+       ]
+      ],
+      "cite": "3, 14-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimos: nós sabemos que passamos da morte para a vida, porque amamos os irmãos. Quem não ama, permanece na morte. Todo aquele que odeia o seu irmão é um homicida. E vós sabeis que nenhum homicida conserva a vida eterna dentro de si. Nisto conhecemos o amor: Jesus deu a sua vida por nós. Portanto, também nós devemos dar a vida pelos irmãos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We have passed out of death and into life because we love our brothers."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first letter of St John"
+       ]
+      ],
+      "cite": "3:14-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We have passed out of death and into life, and of this we can be sure because we love our brothers. If you refuse to love, you must remain dead; to hate your brother is to be a murderer, and murderers, as you know, do not have eternal life in them. This has taught us love - that he gave up his life for us; and we, too, ought to give up our lives for our brothers."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hemos pasado de la muerte a la vida, porque amamos a los hermanos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Juan"
+       ]
+      ],
+      "cite": "3, 14-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Queridos hermanos:"
+       ],
+       [
+        "Nosotros sabemos que hemos pasado de la muerte a la vida porque amamos a los hermanos. El que no ama permanece en la muerte."
+       ],
+       [
+        "El que odia a su hermano es un homicida. Y sabéis que ningún homicida lleva permanentemente en sí vida eterna. En esto hemos conocido el amor: en que él dio su vida por nosotros. También nosotros debemos dar nuestra vida por los hermanos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Siamo passati dalla morte alla vita perché amiamo i fratelli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla. prima lettera di san Giovanni apostolo"
+       ]
+      ],
+      "cite": "3, 14-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Carissimi, noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli. Chi non ama rimane nella morte. Chiunque odia il proprio fratello è omicida, e voi sapete che nessun omicida possiede in se stesso la vita eterna. Da questo abbiamo conosciuto l'amore: Egli ha dato la sua vita per noi; quindi anche noi dobbiamo dare la vita per i fratelli."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Jean"
+       ]
+      ],
+      "cite": "3, 14-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimés, nous savons que nous sommes passés de la mort à la vie, parce que nous aimons nos frères. Celui qui n'aime pas demeure dans la mort. Quiconque a de la haine contre son frère est un meurtrier, et vous savez que pas un meurtrier n'a la vie éternelle demeurant en lui. Voici comment nous avons reconnu l'amour : lui, Jésus, a donné sa vie pour nous. Nous aussi, nous devons donner notre vie pour nos frères."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Johannesbrief"
+       ]
+      ],
+      "cite": "3, 14-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Liebe Brüder!"
+       ],
+       [
+        "Wir wissen, dass wir aus dem Tod in das Leben hinübergegangen sind, weil wir die Brüder lieben. Wer nicht liebt, bleibt im Tod. Jeder, der seinen Bruder hasst, ist ein Mörder, und ihr wisst: Kein Mörder hat ewiges Leben, das in ihm bleibt."
+       ],
+       [
+        "Daran haben wir die Liebe erkannt, dass Er sein Leben für uns hingegeben hat. So müssen auch wir für die Brüder das Leben hingeben."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

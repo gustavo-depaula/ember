@@ -1,1 +1,452 @@
-{"id":"sanctorale.christ-eternal-high-priest","source":"santos/santos_may#0533","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["Jueves después de Pentecostés:"],["NUESTRO SEÑOR JESUCRISTO,"],["SUMO Y ETERNO SACERDOTE"]]}]},"part":"title"},{"text":{"*":[{"k":"h3","lines":[["Fiesta"]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Hb 7, 24"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Cristo, mediador de una nueva alianza, como permanece para siempre, tiene el sacerdocio que no pasa."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Oh, Dios,"],["que para gloria tuya y salvación del género humano"],["constituiste a tu Hijo único sumo y eterno Sacerdote,"],["concede, por la acción del Espíritu Santo,"],["a quienes él eligió para ministros y dispensadores de sus misterios la gracia de ser fieles"],["en el cumplimiento del ministerio recibido."],["Por nuestro Señor Jesucristo."]]}]},"part":"collect"},{"mark":"readings"},{"text":{"*":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Jesucristo, nuestro Mediador,"],["te haga aceptables estos dones, Señor,"],["y nos presente juntamente con él"],["como ofrenda agradable a tus ojos."],["Por Jesucristo, nuestro Señor."]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"h4","lines":[["Prefacio"]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Jesucristo, Sumo y Eterno Sacerdote"}]]}]},"part":"preface","role":"rubric"},{"text":{"*":[{"k":"p","lines":[["En verdad es justo y necesario,"],["es nuestro deber y salvación,"],["darte gracias siempre y en todo lugar,"],["Señor, Padre santo,"],["Dios todopoderoso y eterno."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["Que constituiste a tu único Hijo"],["Pontífice de la Alianza nueva y eterna"],["por la unción del Espíritu Santo,"],["y determinaste, en tu designio salvífico,"],["perpetuar en la Iglesia su único sacerdocio."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["Él no sólo ha conferido el honor del sacerdocio real"],["a todo su pueblo santo,"],["sino también, con amor de hermano,"],["elige hombres de este pueblo"],["para que, por la imposición de las manos,"],["participen de su sagrada misión."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["Ellos renuevan en nombre de Cristo el sacrificio de la redención,"],["preparan a tus hijos el banquete pascual,"],["presiden a tu pueblo santo en el amor,"],["lo alimentan con tu palabra"],["y lo fortalecen con tus sacramentos."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["Tus sacerdotes, Señor,"],["al entregar su vida por ti y por la salvación de los hermanos,"],["van configurándose a Cristo,"],["y han de darle así testimonio constante de fidelidad y amor."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["Por eso, nosotros, Señor,"],["con los ángeles y los santos,"],["cantamos tu gloria diciendo:"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antífona de la comunión"]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Sabed que yo estoy con vosotros todos los días, hasta el final del mundo, dice el Señor."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración después de la comunión"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["La eucaristía que hemos ofrecido y recibido"],["nos dé la vida, Señor,"],["para que, unidos a ti en caridad perpetua,"],["demos frutos que siempre permanezcan."],["Por Jesucristo, nuestro Señor."]]}]},"part":"postcommunion"}],"precedence":8,"lectionary":"sanctorale.christ-eternal-high-priest","title":{"*":"Jueves después de Pentecostés: — NUESTRO SEÑOR JESUCRISTO, — SUMO Y ETERNO SACERDOTE"}}
+{
+ "id": "sanctorale.christ-eternal-high-priest",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Jueves después de Pentecostés:"
+       ],
+       [
+        "NUESTRO SEÑOR JESUCRISTO,"
+       ],
+       [
+        "SUMO Y ETERNO SACERDOTE"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fiesta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Hb 7, 24"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cristo, mediador de una nueva alianza, como permanece para siempre, tiene el sacerdocio que no pasa."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que para gloria tuya y salvación del género humano"
+       ],
+       [
+        "constituiste a tu Hijo único sumo y eterno Sacerdote,"
+       ],
+       [
+        "concede, por la acción del Espíritu Santo,"
+       ],
+       [
+        "a quienes él eligió para ministros y dispensadores de sus misterios la gracia de ser fieles"
+       ],
+       [
+        "en el cumplimiento del ministerio recibido."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesucristo, nuestro Mediador,"
+       ],
+       [
+        "te haga aceptables estos dones, Señor,"
+       ],
+       [
+        "y nos presente juntamente con él"
+       ],
+       [
+        "como ofrenda agradable a tus ojos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Jesucristo, Sumo y Eterno Sacerdote"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En verdad es justo y necesario,"
+       ],
+       [
+        "es nuestro deber y salvación,"
+       ],
+       [
+        "darte gracias siempre y en todo lugar,"
+       ],
+       [
+        "Señor, Padre santo,"
+       ],
+       [
+        "Dios todopoderoso y eterno."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que constituiste a tu único Hijo"
+       ],
+       [
+        "Pontífice de la Alianza nueva y eterna"
+       ],
+       [
+        "por la unción del Espíritu Santo,"
+       ],
+       [
+        "y determinaste, en tu designio salvífico,"
+       ],
+       [
+        "perpetuar en la Iglesia su único sacerdocio."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Él no sólo ha conferido el honor del sacerdocio real"
+       ],
+       [
+        "a todo su pueblo santo,"
+       ],
+       [
+        "sino también, con amor de hermano,"
+       ],
+       [
+        "elige hombres de este pueblo"
+       ],
+       [
+        "para que, por la imposición de las manos,"
+       ],
+       [
+        "participen de su sagrada misión."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ellos renuevan en nombre de Cristo el sacrificio de la redención,"
+       ],
+       [
+        "preparan a tus hijos el banquete pascual,"
+       ],
+       [
+        "presiden a tu pueblo santo en el amor,"
+       ],
+       [
+        "lo alimentan con tu palabra"
+       ],
+       [
+        "y lo fortalecen con tus sacramentos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tus sacerdotes, Señor,"
+       ],
+       [
+        "al entregar su vida por ti y por la salvación de los hermanos,"
+       ],
+       [
+        "van configurándose a Cristo,"
+       ],
+       [
+        "y han de darle así testimonio constante de fidelidad y amor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por eso, nosotros, Señor,"
+       ],
+       [
+        "con los ángeles y los santos,"
+       ],
+       [
+        "cantamos tu gloria diciendo:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sabed que yo estoy con vosotros todos los días, hasta el final del mundo, dice el Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La eucaristía que hemos ofrecido y recibido"
+       ],
+       [
+        "nos dé la vida, Señor,"
+       ],
+       [
+        "para que, unidos a ti en caridad perpetua,"
+       ],
+       [
+        "demos frutos que siempre permanezcan."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 8,
+ "lectionary": "sanctorale.christ-eternal-high-priest",
+ "title": {
+  "*": "Jueves después de Pentecostés: — NUESTRO SEÑOR JESUCRISTO, — SUMO Y ETERNO SACERDOTE"
+ }
+}

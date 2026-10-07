@@ -1,1 +1,1864 @@
-{"id":"sanctorale.11-23.columban","source":"lecturas/lecturas_santos_nov#1123Z","items":[{"slot":"179","text":{"la":[{"k":"h2","lines":[["S. Columbani, abbatis"]]}],"pt-BR":[{"k":"h2","lines":[["23 de Novembro"],["São Columbano, abade"]]}],"en-US":[{"k":"h2","lines":[["November 23"],["St. Columban, abbot"]]}],"es":[{"k":"h2","lines":[["23 de noviembre"],["San Columbano, abad"]]}],"it":[{"k":"h2","lines":[["23 novembre"],["San Colombano, abate"]]}],"fr":[{"k":"h2","lines":[["Saint Colomban, abbé"]]}],"de":[{"k":"h2","lines":[["23. November"],["Hl. Kolumban, Abt, Glaubensbote"]]}]}},{"slot":"180","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.cp1f5"}]]}]},"part":"firstReading"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"5"}]]}]},"role":"rubric","part":"psalm","from":"readings.cps5"},{"slot":"63","text":{"la":[{"k":"p","lines":[],"cite":"Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)","role":"title"}],"pt-BR":[{"k":"p","lines":[],"cite":"Sl 95(96), 1-2a. 2b-3. 7-8a. 10 (R.: 3)","role":"title"}],"en-US":[{"k":"p","lines":[],"cite":"Ps 95:1-2a. 2b-3. 7-8a. 10 (: 3)","role":"title"}],"es":[{"k":"p","lines":[],"cite":"Sal 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)","role":"title"}],"it":[{"k":"p","lines":[],"cite":"Dal Salmo 95 (96)","role":"title"}],"fr":[{"k":"p","lines":[],"cite":"Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)","role":"title"}],"de":[{"k":"p","lines":[],"cite":"Ps 96 (95), 1-2. 3 u. 7. 8 u. 10 (R: vgl. 3a)","role":"title"}]},"part":"psalm","from":"readings.cps5"},{"slot":"64","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annuntiáte in ómnibus pópulis mirabília Dómini."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Anunciai entre as nações os grandes feitos do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Proclaim his marvellous deeds to all the nations."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Contad las maravillas del Señor a todas las naciones."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annunciate a tutti i popoli le meraviglie del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Racontez à tous les peuples les merveilles du Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Kündet den Völkern die Herrlichkeit des Herrn!"]]}]},"role":"people","part":"psalm","from":"readings.cps5"},{"slot":"65","text":{"la":[{"k":"p","lines":[["Cantáte Dómino cánticum novum,"],["cantáte Dómino, omnis terra."],["Cantáte Dómino, benedícite nómini eius"]]}],"pt-BR":[{"k":"p","lines":[["Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Cantai e bendizei seu santo nome!"]]}],"en-US":[{"k":"p","lines":[["O sing a new song to the Lord, sing to the Lord al the earth. O sing to the Lord, bless his name."]]}],"es":[{"k":"p","lines":[["Cantad al Señor un cántico nuevo,"],["cantad al Señor, toda la tierra;"],["cantad al Señor, bendecid su nombre."]]}],"it":[{"k":"p","lines":[["Cantate al Signore un canto nuovo,"],["cantate al Signore, uomini di tutta la terra."],["Cantate al Signore, benedite il suo nome."]]}],"fr":[{"k":"p","lines":[["Chantez au Seigneur un chant nouveau,"],["chantez au Seigneur, terre entière,"],["chantez au Seigneur et bénissez son nom !"]]}],"de":[{"k":"p","lines":[["Singet dem Herrn ein neues Lied,"],["singt dem Herrn, alle Länder der Erde!"],["Singt dem Herrn und preist seinen Namen,"]]}]},"role":"verse","part":"psalm","from":"readings.cps5"},{"slot":"66","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annuntiáte in ómnibus pópulis mirabília Dómini."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Anunciai entre as nações os grandes feitos do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Proclaim his marvellous deeds to all the nations."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Contad las maravillas del Señor a todas las naciones."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annunciate a tutti i popoli le meraviglie del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Racontez à tous les peuples les merveilles du Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Kündet den Völkern die Herrlichkeit des Herrn!"]]}]},"role":"people","part":"psalm","from":"readings.cps5"},{"slot":"67","text":{"la":[{"k":"p","lines":[["Annuntiáte de die in diem salutáre eius."],["Annuntiáte inter gentes glóriam eius,"],["in ómnibus pópulis mirabília eius."]]}],"pt-BR":[{"k":"p","lines":[["Dia após dia anunciai sua salvação, manifestai a sua glória entre as nações, e entre os povos do universo seus prodígios!"]]}],"en-US":[{"k":"p","lines":[["Proclaim his help day by day, tell among the nations his glory and his wonders among all the peoples."]]}],"es":[{"k":"p","lines":[["Proclamad día tras día su victoria."],["Contad a los pueblos su gloria,"],["sus maravillas a todas las naciones."]]}],"it":[{"k":"p","lines":[["Annunciate di giorno in giorno la sua salvezza."],["In mezzo alle genti narrate la sua gloria,"],["a tutti i popoli dite le sue meraviglie."]]}],"fr":[{"k":"p","lines":[["De jour en jour, proclamez son salut,"],["racontez à tous les peuples sa gloire,"],["à toutes les nations ses merveilles !"]]}],"de":[{"k":"p","lines":[["verkündet sein Heil von Tag zu Tag!"],["Erzählt bei den Völkern von seiner Herrlichkeit,"],["bei allen Nationen von seinen Wundern!"]]}]},"role":"verse","part":"psalm","from":"readings.cps5"},{"slot":"68","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annuntiáte in ómnibus pópulis mirabília Dómini."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Anunciai entre as nações os grandes feitos do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Proclaim his marvellous deeds to all the nations."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Contad las maravillas del Señor a todas las naciones."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annunciate a tutti i popoli le meraviglie del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Racontez à tous les peuples les merveilles du Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Kündet den Völkern die Herrlichkeit des Herrn!"]]}]},"role":"people","part":"psalm","from":"readings.cps5"},{"slot":"69","text":{"la":[{"k":"p","lines":[["Afférte Dómino, famíliæ populórum,"],["afférte Dómino glóriam et poténtiam,"],["afférte Dómino glóriam nóminis eius."]]}],"pt-BR":[{"k":"p","lines":[["Ó família das nações, dai ao Senhor, ó nações, dai ao Senhor poder e glória, dai-lhe a glória que é devida ao seu nome!"]]}],"en-US":[{"k":"p","lines":[["Give the Lord, you families of peoples, give the Lord glory and power, give the Lord the glory of his name."]]}],"es":[{"k":"p","lines":[["Familias de los pueblos, aclamad al Señor,"],["aclamad la gloria y el poder del Señor;"],["aclamad la gloria del nombre del Señor."]]}],"it":[{"k":"p","lines":[["Date al Signore, o famiglie dei popoli,"],["date al Signore gloria e potenza,"],["date al Signore la gloria del suo nome."]]}],"fr":[{"k":"p","lines":[["Rendez au Seigneur, familles des peuples,"],["rendez au Seigneur, la gloire et la puissance,"],["rendez au Seigneur la gloire de son nom."]]}],"de":[{"k":"p","lines":[["Bringt dar dem Herrn, ihr Stämme der Völker,"],["bringt dar dem Herrn Lob und Ehre!"],["Bringt dar dem Herrn die Ehre seines Namens,"],["spendet Opfergaben, und tretet ein in sein Heiligtum!"]]}]},"role":"verse","part":"psalm","from":"readings.cps5"},{"slot":"70","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annuntiáte in ómnibus pópulis mirabília Dómini."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Anunciai entre as nações os grandes feitos do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Proclaim his marvellous deeds to all the nations."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Contad las maravillas del Señor a todas las naciones."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annunciate a tutti i popoli le meraviglie del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Racontez à tous les peuples les merveilles du Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Kündet den Völkern die Herrlichkeit des Herrn!"]]}]},"role":"people","part":"psalm","from":"readings.cps5"},{"slot":"71","text":{"la":[{"k":"p","lines":[["Dícite in géntibus: «Dóminus regnávit»."],["Etenim corréxit orbem terræ qui non commovébitur;"],["iudicábit pópulos in æquitáte."]]}],"pt-BR":[{"k":"p","lines":[["Publicai entre as nações:\"Reina o Senhor! Ele firmou o universo inabalável, e os povos ele julga com justiça."]]}],"en-US":[{"k":"p","lines":[["Proclaim to the nations: 'God is king.' The world he made firm in its place; he will judge the peoples in fairness."]]}],"es":[{"k":"p","lines":[["Decid a los pueblos: «El Señor es rey:"],["él afianzó el orbe, y no se moverá;"],["él gobierna a los pueblos rectamente»."]]}],"it":[{"k":"p","lines":[["Dite tra le genti: «Il Signore regna!»."],["È stabile il mondo, non potrà vacillare!"],["Egli giudica i popoli con rettitudine."]]}],"fr":[{"k":"p","lines":[["Adorez le Seigneur, éblouissant de sainteté."],["tremblez devant lui, terre entière."],["Allez dire aux nations : \" Le Seigneur est roi ! \""]]}],"de":[{"k":"p","lines":[["Verkündet bei den Völkern: Der Herr ist König."],["Den Erdkreis hat er gegründet, so dass er nicht wankt."],["Er richtet die Nationen so, wie es recht ist."]]}]},"role":"verse","part":"psalm","from":"readings.cps5"},{"slot":"72","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annuntiáte in ómnibus pópulis mirabília Dómini."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Anunciai entre as nações os grandes feitos do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Proclaim his marvellous deeds to all the nations."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Contad las maravillas del Señor a todas las naciones."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Annunciate a tutti i popoli le meraviglie del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Racontez à tous les peuples les merveilles du Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Kündet den Völkern die Herrlichkeit des Herrn!"]]}]},"role":"people","part":"psalm","from":"readings.cps5"},{"slot":"181","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.cssaly1"}]]}]},"part":"acclamation"},{"text":{"*":[{"k":"p","lines":[["[Pro religiosis]"]]}]},"part":"gospel","from":"readings.cssev19"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"19"}]]}]},"role":"rubric","part":"gospel","from":"readings.cssev19"},{"slot":"263","text":{"la":[{"k":"p","lines":[["Sequar te quocumque ieris."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Lucam"]],"cite":"9, 57-62","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Eu te seguirei para onde quer que fores."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação doEvangelho de Jesus Cristo segundo Lucas"]],"cite":"9, 57-62","role":"announcement"}],"en-US":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Luke"]],"cite":"9:57-62","role":"announcement"}],"es":[{"k":"p","lines":[["Te seguiré adondequiera que vayas"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Lucas"]],"cite":"9, 57-62","role":"announcement"}],"it":[{"k":"p","lines":[["Ti seguirò dovunque tu vada."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal Vangelo secondo Luca"]],"cite":"9, 57-62","role":"announcement"}],"fr":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Luc"]],"cite":"9, 57-62","role":"announcement"}],"de":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Lukas"]],"cite":"9, 57-62","role":"announcement"}]},"part":"gospel","from":"readings.cssev19"},{"slot":"264","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"role":"people","part":"gospel","from":"readings.cssev19"},{"slot":"265","text":{"la":[{"k":"p","lines":[["In illo témpore:"]]},{"k":"p","lines":[["Eúntibus Iesu et discipulis suis in via, dixit quidam ad illum: «Sequar te, quocúmque íeris»."]]},{"k":"p","lines":[["Et ait illi Iesus: «Vulpes fóveas habent, et vólucres cæli nidos, Fílius autem hóminis non habet, ubi caput reclínet»."]]},{"k":"p","lines":[["Ait autem ad álterum: «Séquere me»."]]},{"k":"p","lines":[["Ille autem dixit: «Dómine, permítte mihi primum ire et sepelíre patrem meum»."]]},{"k":"p","lines":[["Dixítque ei Iesus: «Sine, ut mórtui sepéliant mórtuos suos; tu autem vade, annúntia regnum Dei»."]]},{"k":"p","lines":[["Et ait alter: «Sequar te, Dómine, sed primum permítte mihi renuntiáre his, qui domi sunt»."]]},{"k":"p","lines":[["Ait ad illum Iesus: «Nemo mittens manum suam in arátrum et aspíciens retro, aptus est regno Dei»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, enquanto Jesus e seus discípulos caminhavam, alguém na estrada disse a Jesus: \"Eu te seguirei para onde quer que fores\". Jesus lhe respondeu: \"As raposas têm tocas e os pássaros têm ninhos; mas o Filho do Homem não tem onde repousar a cabeça\". Jesus disse a outro: \"Segue-me\". \"Este respondeu: \"Deixa-me primeiro ir enterrar meu pai\". Jesus respondeu: \"Deixa que os mortos enterrem os seus mortos; mas tu, vai anunciar o Reino de Deus\". Um outro ainda lhe disse: \"Eu te seguirei, Senhor, mas deixa-me primeiro despedir-me dos meus familiares\" Jesus, porém, respondeu-lhe: \"Quem põe a mão no arado e olha para trás, não está apto para o Reino de Deus\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["As Jesus and his disciples traveled along they met a man on the road who said to him, 'I will follow you wherever you go'. Jesus answered, 'Foxes have holes and the birds of the air have nests, but the Son of Man has nowhere to lay his head'. Another to whom he said, 'Follow me', replied, 'Let me go and bury my father first'. But he answered, 'Leave the dead to bury their dead; your duty is to go and spread the news of the kingdom of God '. Another said, 'I will follow you, sir, but first let me go and say good-bye to my people at home'. Jesus said to him, 'Once the hand is laid on the plough, no one who looks back is fit for the kingdom of God '."]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, mientras Jesús y sus discípulos iban de camino, le dijo uno:"],["«Te seguiré adondequiera que vayas»."],["Jesús le respondió:"],["«Las zorras tienen madrigueras, y los pájaros del cielo nidos, pero el Hijo del hombre no tiene donde reclinar la cabeza»."],["A otro le dijo:"],["«Sígueme»."],["Él respondió:"],["«Señor, déjame primero ir a enterrar a mi padre»."],["Le contestó:"],["«Deja que los muertos entierren a sus muertos; tú vete a anunciar el reino de Dios»."],["Otro le dijo:"],["«Te seguiré, Señor. Pero déjame primero despedirme de los de mi casa»."],["Jesús le contestó:"],["«Nadie que pone la mano en el arado y mira hacia atrás vale para el reino de Dios»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, mentre camminavano per la strada, un tale disse a Gesù: «Ti seguirò dovunque tu vada». E Gesù gli rispose: «Le volpi hanno le loro tane e gli uccelli del cielo i loro nidi, ma il Figlio dell'uomo non ha dove posare il capo»."],["A un altro disse: «Seguimi». E costui rispose: «Signore, permettimi di andare prima a seppellire mio padre». Gli replicò: «Lascia che i morti seppelliscano i loro morti; tu invece va' e annuncia il regno di Dio»."],["Un altro disse: «Ti seguirò, Signore; prima però lascia che io mi congedi da quelli di casa mia». Ma Gesù gli rispose: «Nessuno che mette mano all'aratro e poi si volge indietro è adatto per il regno di Dio»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, en cours de route, un homme dit à Jésus : \" Je te suivrai partout où tu iras. \""]]},{"k":"p","lines":[["Jésus lui déclara : \" Les renards ont des terriers, les oiseaux du ciel ont des nids ; mais le Fils de l'homme n'a pas d'endroit où reposer la tête. \""]]},{"k":"p","lines":[["Il dit à un autre : \" Suis-moi. \" L'homme répondit : \" Seigneur, permets-moi d'aller d'abord enterrer mon père. \" Mais Jésus répliqua : \" Laisse les morts enterrer leurs morts. Toi, pars, et annonce le règne de Dieu. \""]]},{"k":"p","lines":[["Un autre encore lui dit : \" Je te suivrai, Seigneur ; mais laisse-moi d'abord faire mes adieux aux gens de ma maison. \" Jésus lui répondit : \" Quiconque met la main à la charrue, puis regarde en arrière, n'est pas fait pour le royaume de Dieu. \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit,"],["als Jesus und seine Jünger auf ihrem Weg nach Jerusalem weiterzogen, redete ein Mann Jesus an und sagte: Ich will dir folgen, wohin du auch gehst."],["Jesus antwortete ihm: Die Füchse haben ihre Höhlen und die Vögel ihre Nester; der Menschensohn aber hat keinen Ort, wo er sein Haupt hinlegen kann."],["Zu einem anderen sagte er: Folge mir nach!"],["Der erwiderte: Lass mich zuerst heimgehen und meinen Vater begraben."],["Jesus sagte zu ihm: Lass die Toten ihre Toten begraben; du aber geh und verkünde das Reich Gottes!"],["Wieder ein anderer sagte: Ich will dir nachfolgen, Herr. Zuvor aber lass mich von meiner Familie Abschied nehmen."],["Jesus erwiderte ihm: Keiner, der die Hand an den Pflug gelegt hat und nochmals zurückblickt, taugt für das Reich Gottes."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel","from":"readings.cssev19"},{"slot":"266","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel","from":"readings.cssev19"}],"title":{"la":"S. Columbani, abbatis","pt-BR":"São Columbano, abade","en-US":"St. Columban, abbot","es":"San Columbano, abad","it":"San Colombano, abate","fr":"Saint Colomban, abbé","de":"Hl. Kolumban, Abt, Glaubensbote"}}
+{
+ "id": "sanctorale.11-23.columban",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "S. Columbani, abbatis"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "23 de Novembro"
+       ],
+       [
+        "São Columbano, abade"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "November 23"
+       ],
+       [
+        "St. Columban, abbot"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "23 de noviembre"
+       ],
+       [
+        "San Columbano, abad"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "23 novembre"
+       ],
+       [
+        "San Colombano, abate"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Saint Colomban, abbé"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "23. November"
+       ],
+       [
+        "Hl. Kolumban, Abt, Glaubensbote"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.cp1f5"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "5"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 95(96), 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 95:1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Dal Salmo 95 (96)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 96 (95), 1-2. 3 u. 7. 8 u. 10 (R: vgl. 3a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annuntiáte in ómnibus pópulis mirabília Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Anunciai entre as nações os grandes feitos do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Proclaim his marvellous deeds to all the nations."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Contad las maravillas del Señor a todas las naciones."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annunciate a tutti i popoli le meraviglie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Racontez à tous les peuples les merveilles du Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Kündet den Völkern die Herrlichkeit des Herrn!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantáte Dómino cánticum novum,"
+       ],
+       [
+        "cantáte Dómino, omnis terra."
+       ],
+       [
+        "Cantáte Dómino, benedícite nómini eius"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Cantai e bendizei seu santo nome!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O sing a new song to the Lord, sing to the Lord al the earth. O sing to the Lord, bless his name."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantad al Señor un cántico nuevo,"
+       ],
+       [
+        "cantad al Señor, toda la tierra;"
+       ],
+       [
+        "cantad al Señor, bendecid su nombre."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantate al Signore un canto nuovo,"
+       ],
+       [
+        "cantate al Signore, uomini di tutta la terra."
+       ],
+       [
+        "Cantate al Signore, benedite il suo nome."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chantez au Seigneur un chant nouveau,"
+       ],
+       [
+        "chantez au Seigneur, terre entière,"
+       ],
+       [
+        "chantez au Seigneur et bénissez son nom !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Singet dem Herrn ein neues Lied,"
+       ],
+       [
+        "singt dem Herrn, alle Länder der Erde!"
+       ],
+       [
+        "Singt dem Herrn und preist seinen Namen,"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annuntiáte in ómnibus pópulis mirabília Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Anunciai entre as nações os grandes feitos do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Proclaim his marvellous deeds to all the nations."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Contad las maravillas del Señor a todas las naciones."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annunciate a tutti i popoli le meraviglie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Racontez à tous les peuples les merveilles du Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Kündet den Völkern die Herrlichkeit des Herrn!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annuntiáte de die in diem salutáre eius."
+       ],
+       [
+        "Annuntiáte inter gentes glóriam eius,"
+       ],
+       [
+        "in ómnibus pópulis mirabília eius."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dia após dia anunciai sua salvação, manifestai a sua glória entre as nações, e entre os povos do universo seus prodígios!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclaim his help day by day, tell among the nations his glory and his wonders among all the peoples."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamad día tras día su victoria."
+       ],
+       [
+        "Contad a los pueblos su gloria,"
+       ],
+       [
+        "sus maravillas a todas las naciones."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annunciate di giorno in giorno la sua salvezza."
+       ],
+       [
+        "In mezzo alle genti narrate la sua gloria,"
+       ],
+       [
+        "a tutti i popoli dite le sue meraviglie."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "De jour en jour, proclamez son salut,"
+       ],
+       [
+        "racontez à tous les peuples sa gloire,"
+       ],
+       [
+        "à toutes les nations ses merveilles !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "verkündet sein Heil von Tag zu Tag!"
+       ],
+       [
+        "Erzählt bei den Völkern von seiner Herrlichkeit,"
+       ],
+       [
+        "bei allen Nationen von seinen Wundern!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annuntiáte in ómnibus pópulis mirabília Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Anunciai entre as nações os grandes feitos do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Proclaim his marvellous deeds to all the nations."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Contad las maravillas del Señor a todas las naciones."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annunciate a tutti i popoli le meraviglie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Racontez à tous les peuples les merveilles du Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Kündet den Völkern die Herrlichkeit des Herrn!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Afférte Dómino, famíliæ populórum,"
+       ],
+       [
+        "afférte Dómino glóriam et poténtiam,"
+       ],
+       [
+        "afférte Dómino glóriam nóminis eius."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó família das nações, dai ao Senhor, ó nações, dai ao Senhor poder e glória, dai-lhe a glória que é devida ao seu nome!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Give the Lord, you families of peoples, give the Lord glory and power, give the Lord the glory of his name."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Familias de los pueblos, aclamad al Señor,"
+       ],
+       [
+        "aclamad la gloria y el poder del Señor;"
+       ],
+       [
+        "aclamad la gloria del nombre del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Date al Signore, o famiglie dei popoli,"
+       ],
+       [
+        "date al Signore gloria e potenza,"
+       ],
+       [
+        "date al Signore la gloria del suo nome."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rendez au Seigneur, familles des peuples,"
+       ],
+       [
+        "rendez au Seigneur, la gloire et la puissance,"
+       ],
+       [
+        "rendez au Seigneur la gloire de son nom."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bringt dar dem Herrn, ihr Stämme der Völker,"
+       ],
+       [
+        "bringt dar dem Herrn Lob und Ehre!"
+       ],
+       [
+        "Bringt dar dem Herrn die Ehre seines Namens,"
+       ],
+       [
+        "spendet Opfergaben, und tretet ein in sein Heiligtum!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annuntiáte in ómnibus pópulis mirabília Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Anunciai entre as nações os grandes feitos do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Proclaim his marvellous deeds to all the nations."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Contad las maravillas del Señor a todas las naciones."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annunciate a tutti i popoli le meraviglie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Racontez à tous les peuples les merveilles du Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Kündet den Völkern die Herrlichkeit des Herrn!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dícite in géntibus: «Dóminus regnávit»."
+       ],
+       [
+        "Etenim corréxit orbem terræ qui non commovébitur;"
+       ],
+       [
+        "iudicábit pópulos in æquitáte."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Publicai entre as nações:\"Reina o Senhor! Ele firmou o universo inabalável, e os povos ele julga com justiça."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclaim to the nations: 'God is king.' The world he made firm in its place; he will judge the peoples in fairness."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Decid a los pueblos: «El Señor es rey:"
+       ],
+       [
+        "él afianzó el orbe, y no se moverá;"
+       ],
+       [
+        "él gobierna a los pueblos rectamente»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dite tra le genti: «Il Signore regna!»."
+       ],
+       [
+        "È stabile il mondo, non potrà vacillare!"
+       ],
+       [
+        "Egli giudica i popoli con rettitudine."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Adorez le Seigneur, éblouissant de sainteté."
+       ],
+       [
+        "tremblez devant lui, terre entière."
+       ],
+       [
+        "Allez dire aux nations : \" Le Seigneur est roi ! \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verkündet bei den Völkern: Der Herr ist König."
+       ],
+       [
+        "Den Erdkreis hat er gegründet, so dass er nicht wankt."
+       ],
+       [
+        "Er richtet die Nationen so, wie es recht ist."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annuntiáte in ómnibus pópulis mirabília Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Anunciai entre as nações os grandes feitos do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Proclaim his marvellous deeds to all the nations."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Contad las maravillas del Señor a todas las naciones."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Annunciate a tutti i popoli le meraviglie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Racontez à tous les peuples les merveilles du Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Kündet den Völkern die Herrlichkeit des Herrn!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.5"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.cssaly1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "[Pro religiosis]"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.19"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "19"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.19"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sequar te quocumque ieris."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Lucam"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu te seguirei para onde quer que fores."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação doEvangelho de Jesus Cristo segundo Lucas"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Luke"
+       ]
+      ],
+      "cite": "9:57-62",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te seguiré adondequiera que vayas"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Lucas"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti seguirò dovunque tu vada."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Luca"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Luc"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Lukas"
+       ]
+      ],
+      "cite": "9, 57-62",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.19"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.19"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eúntibus Iesu et discipulis suis in via, dixit quidam ad illum: «Sequar te, quocúmque íeris»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ait illi Iesus: «Vulpes fóveas habent, et vólucres cæli nidos, Fílius autem hóminis non habet, ubi caput reclínet»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ait autem ad álterum: «Séquere me»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ille autem dixit: «Dómine, permítte mihi primum ire et sepelíre patrem meum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixítque ei Iesus: «Sine, ut mórtui sepéliant mórtuos suos; tu autem vade, annúntia regnum Dei»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ait alter: «Sequar te, Dómine, sed primum permítte mihi renuntiáre his, qui domi sunt»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ait ad illum Iesus: «Nemo mittens manum suam in arátrum et aspíciens retro, aptus est regno Dei»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, enquanto Jesus e seus discípulos caminhavam, alguém na estrada disse a Jesus: \"Eu te seguirei para onde quer que fores\". Jesus lhe respondeu: \"As raposas têm tocas e os pássaros têm ninhos; mas o Filho do Homem não tem onde repousar a cabeça\". Jesus disse a outro: \"Segue-me\". \"Este respondeu: \"Deixa-me primeiro ir enterrar meu pai\". Jesus respondeu: \"Deixa que os mortos enterrem os seus mortos; mas tu, vai anunciar o Reino de Deus\". Um outro ainda lhe disse: \"Eu te seguirei, Senhor, mas deixa-me primeiro despedir-me dos meus familiares\" Jesus, porém, respondeu-lhe: \"Quem põe a mão no arado e olha para trás, não está apto para o Reino de Deus\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As Jesus and his disciples traveled along they met a man on the road who said to him, 'I will follow you wherever you go'. Jesus answered, 'Foxes have holes and the birds of the air have nests, but the Son of Man has nowhere to lay his head'. Another to whom he said, 'Follow me', replied, 'Let me go and bury my father first'. But he answered, 'Leave the dead to bury their dead; your duty is to go and spread the news of the kingdom of God '. Another said, 'I will follow you, sir, but first let me go and say good-bye to my people at home'. Jesus said to him, 'Once the hand is laid on the plough, no one who looks back is fit for the kingdom of God '."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, mientras Jesús y sus discípulos iban de camino, le dijo uno:"
+       ],
+       [
+        "«Te seguiré adondequiera que vayas»."
+       ],
+       [
+        "Jesús le respondió:"
+       ],
+       [
+        "«Las zorras tienen madrigueras, y los pájaros del cielo nidos, pero el Hijo del hombre no tiene donde reclinar la cabeza»."
+       ],
+       [
+        "A otro le dijo:"
+       ],
+       [
+        "«Sígueme»."
+       ],
+       [
+        "Él respondió:"
+       ],
+       [
+        "«Señor, déjame primero ir a enterrar a mi padre»."
+       ],
+       [
+        "Le contestó:"
+       ],
+       [
+        "«Deja que los muertos entierren a sus muertos; tú vete a anunciar el reino de Dios»."
+       ],
+       [
+        "Otro le dijo:"
+       ],
+       [
+        "«Te seguiré, Señor. Pero déjame primero despedirme de los de mi casa»."
+       ],
+       [
+        "Jesús le contestó:"
+       ],
+       [
+        "«Nadie que pone la mano en el arado y mira hacia atrás vale para el reino de Dios»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, mentre camminavano per la strada, un tale disse a Gesù: «Ti seguirò dovunque tu vada». E Gesù gli rispose: «Le volpi hanno le loro tane e gli uccelli del cielo i loro nidi, ma il Figlio dell'uomo non ha dove posare il capo»."
+       ],
+       [
+        "A un altro disse: «Seguimi». E costui rispose: «Signore, permettimi di andare prima a seppellire mio padre». Gli replicò: «Lascia che i morti seppelliscano i loro morti; tu invece va' e annuncia il regno di Dio»."
+       ],
+       [
+        "Un altro disse: «Ti seguirò, Signore; prima però lascia che io mi congedi da quelli di casa mia». Ma Gesù gli rispose: «Nessuno che mette mano all'aratro e poi si volge indietro è adatto per il regno di Dio»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, en cours de route, un homme dit à Jésus : \" Je te suivrai partout où tu iras. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jésus lui déclara : \" Les renards ont des terriers, les oiseaux du ciel ont des nids ; mais le Fils de l'homme n'a pas d'endroit où reposer la tête. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il dit à un autre : \" Suis-moi. \" L'homme répondit : \" Seigneur, permets-moi d'aller d'abord enterrer mon père. \" Mais Jésus répliqua : \" Laisse les morts enterrer leurs morts. Toi, pars, et annonce le règne de Dieu. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un autre encore lui dit : \" Je te suivrai, Seigneur ; mais laisse-moi d'abord faire mes adieux aux gens de ma maison. \" Jésus lui répondit : \" Quiconque met la main à la charrue, puis regarde en arrière, n'est pas fait pour le royaume de Dieu. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit,"
+       ],
+       [
+        "als Jesus und seine Jünger auf ihrem Weg nach Jerusalem weiterzogen, redete ein Mann Jesus an und sagte: Ich will dir folgen, wohin du auch gehst."
+       ],
+       [
+        "Jesus antwortete ihm: Die Füchse haben ihre Höhlen und die Vögel ihre Nester; der Menschensohn aber hat keinen Ort, wo er sein Haupt hinlegen kann."
+       ],
+       [
+        "Zu einem anderen sagte er: Folge mir nach!"
+       ],
+       [
+        "Der erwiderte: Lass mich zuerst heimgehen und meinen Vater begraben."
+       ],
+       [
+        "Jesus sagte zu ihm: Lass die Toten ihre Toten begraben; du aber geh und verkünde das Reich Gottes!"
+       ],
+       [
+        "Wieder ein anderer sagte: Ich will dir nachfolgen, Herr. Zuvor aber lass mich von meiner Familie Abschied nehmen."
+       ],
+       [
+        "Jesus erwiderte ihm: Keiner, der die Hand an den Pflug gelegt hat und nochmals zurückblickt, taugt für das Reich Gottes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.19"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.19"
+  }
+ ],
+ "title": {
+  "la": "S. Columbani, abbatis",
+  "pt-BR": "São Columbano, abade",
+  "en-US": "St. Columban, abbot",
+  "es": "San Columbano, abad",
+  "it": "San Colombano, abate",
+  "fr": "Saint Colomban, abbé",
+  "de": "Hl. Kolumban, Abt, Glaubensbote"
+ }
+}

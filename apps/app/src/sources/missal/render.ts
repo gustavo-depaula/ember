@@ -47,7 +47,7 @@ function segMarkdown(seg: Seg): string {
     case 'bold':
       return wrap('**')
     case 'cross':
-      // Upstream sets the cross tight against the word that follows it.
+      // The corpus sets the cross tight against the word that follows it.
       return `${text.trim()} `
     default:
       return text
@@ -116,7 +116,7 @@ function emit(kind: Kind, text: BilingualText, out: Primitive[]) {
     out.push({ type: 'divider' })
     return
   }
-  // A stray full stop left between two blocks upstream is not a passage.
+  // A stray full stop left between two blocks of the corpus is not a passage.
   if (!/[\p{L}\p{N}✠]/u.test(text.primary)) return
   if (kind === 'response' || kind === 'versicle') {
     const entry: VersesPrimitive['items'][number] = { role: kind === 'response' ? 'r' : 'v', text }
@@ -153,7 +153,7 @@ function splitVoices(line: Line): Line[] {
 }
 
 // An acclamation of the people that closes a prayer, and the rubric that
-// introduces it, are set inside the prayer's own paragraph upstream. Each is
+// introduces it, are set inside the prayer's own paragraph in the corpus. Each is
 // given a paragraph of its own, so the acclamation reads as the people's.
 function splitAcclamations(blocks: Block[]): Block[] {
   return blocks.flatMap((block) => {
@@ -202,7 +202,7 @@ export function renderItem(item: Item, ctx: RenderContext, out: Primitive[] = []
   return out
 }
 
-// A passage upstream lacks in the reader's language is shown in Latin rather
+// A passage the corpus lacks in the reader's language is shown in Latin rather
 // than dropped. One it has in neither is another language's own insertion (the
 // German Sunday Communicantes, Spain's extra prefaces) and is not shown.
 function fallbackBlocks(item: Item): Block[] {

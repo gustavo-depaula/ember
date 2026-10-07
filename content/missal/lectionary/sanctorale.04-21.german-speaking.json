@@ -1,1 +1,39 @@
-{"id":"sanctorale.04-21.german-speaking","source":"lecturas/lecturas_santos_abr#0421Z","items":[{"slot":"51","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[in den Diözesen deutscher Sprache]"}]]},{"k":"h2","lines":[["21. April"],["Hl. Konrad von Parzham, Ordensbruder"]]}]}},{"mark":"readings"}],"title":{"*":"Hl. Konrad von Parzham, Ordensbruder"}}
+{
+ "id": "sanctorale.04-21.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21. April"
+       ],
+       [
+        "Hl. Konrad von Parzham, Ordensbruder"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "title": {
+  "*": "Hl. Konrad von Parzham, Ordensbruder"
+ }
+}

@@ -1,0 +1,934 @@
+{
+ "id": "common.blessed-virgin-mary.psalm.3",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 44(45), 11-12.14-15.16-17 (: 11a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Salmo 44 (45)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 45 (44), 11-12. 14-15. 16-17 (R: 11a)",
+      "role": "title"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Audi, fília, et vide, et inclína aurem tuam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ],
+       [
+        "Ecce sponsus: éxite óbviam Christo Dómino."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escutai, minha filha, olhai, ouvi isto."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Listen to me, daughter; see and bend your ear."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escucha, hija, mira: inclina el oído."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascolta, figlia, guarda, porgi l'orecchio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "La figlia del re è tutta splendore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Écoute, ma fille, regarde et tends l'oreille."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Höre, Tochter, sieh her und neige dein Ohr!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Audi, fília, et vide, et inclína aurem tuam,"
+       ],
+       [
+        "et oblivíscere pópulum tuum et domum patris tui;"
+       ],
+       [
+        "et concupíscet rex spéciem tuam."
+       ],
+       [
+        "Quóniam ipse est dóminus tuus et adóra eum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escutai, minha filha, olhai, ouvi isto: “Esquecei vosso povo e a casa paterna! Que o Rei se encante com vossa beleza! Prestai-lhe homenagem: é vosso Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Listen, O daughter, give ear to my words: forget your own people and your father's house. So will the king desire your beauty: He is your Lord, pay homage to him."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escucha, hija, mira: inclina el oído,"
+       ],
+       [
+        "olvida tu pueblo y la casa paterna;"
+       ],
+       [
+        "prendado está el rey de tu belleza:"
+       ],
+       [
+        "póstrate ante él, que él es tu señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ascolta, figlia, guarda, porgi l'orecchio:"
+       ],
+       [
+        "dimentica il tuo popolo e la casa di tuo padre;"
+       ],
+       [
+        "il re è invaghito della tua bellezza."
+       ],
+       [
+        "È lui il tuo signore: rendigli omaggio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Écoute, ma fille, regarde et tends l'oreille ;"
+       ],
+       [
+        "oublie ton peuple et la maison de ton père :"
+       ],
+       [
+        "le roi sera séduit par ta beauté."
+       ],
+       [
+        "Il est ton Seigneur : prosterne-toi devant lui."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Höre, Tochter, sieh her und neige dein Ohr,"
+       ],
+       [
+        "vergiss dein Volk und dein Vaterhaus!"
+       ],
+       [
+        "Der König verlangt nach deiner Schönheit;"
+       ],
+       [
+        "er ist ja dein Herr, verneig dich vor ihm!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Audi, fília, et vide, et inclína aurem tuam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ],
+       [
+        "Ecce sponsus: éxite óbviam Christo Dómino."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escutai, minha filha, olhai, ouvi isto."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Listen to me, daughter; see and bend your ear."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escucha, hija, mira: inclina el oído."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascolta, figlia, guarda, porgi l'orecchio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "La figlia del re è tutta splendore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Écoute, ma fille, regarde et tends l'oreille."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Höre, Tochter, sieh her und neige dein Ohr!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloriósa nimis fília regis intrínsecus,"
+       ],
+       [
+        "textúris áureis circumamícta."
+       ],
+       [
+        "In véstibus variegátis adducétur regi;"
+       ],
+       [
+        "vírgines post eam, próximæ eius, afferúntur tibi."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Majestosa, a princesa real vem chegando, vestida de ricos brocados de ouro. Em vestes vistosas ao Rei se dirige, e as virgens amigas lhe formam cortejo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The daughter of the king is clothed with splendour, her robes embroidered with pearls set in gold. She is led to the king with her maiden companions."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ya entra la princesa, bellísima,"
+       ],
+       [
+        "vestida de perlas y brocado;"
+       ],
+       [
+        "la llevan ante el rey, con séquito de vírgenes, la siguen sus compañeras."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entra la figlia del re: è tutta splendore,"
+       ],
+       [
+        "tessuto d'oro è il suo vestito."
+       ],
+       [
+        "È condotta al re in broccati preziosi;"
+       ],
+       [
+        "dietro a lei le vergini, sue compagne,"
+       ],
+       [
+        "a te sono presentate."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloriósa nimis fília regis intrínsecus,"
+       ],
+       [
+        "textúris áureis circFille de roi, elle est là, dans sa gloire,"
+       ],
+       [
+        "vêtue d'étoffes d'or ;"
+       ],
+       [
+        "on la conduit, toute parée, vers le roi."
+       ],
+       [
+        "Des jeunes filles, ses compagnes, lui font cortège."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Königstochter ist herrlich geschmückt,"
+       ],
+       [
+        "ihr Gewand ist durchwirkt mit Gold und Perlen."
+       ],
+       [
+        "Man geleitet sie in buntgestickten Kleidern zum König,"
+       ],
+       [
+        "Jungfrauen sind ihr Gefolge,"
+       ],
+       [
+        "ihre Freundinnen führt man zu dir."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Audi, fília, et vide, et inclína aurem tuam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ],
+       [
+        "Ecce sponsus: éxite óbviam Christo Dómino."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escutai, minha filha, olhai, ouvi isto."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Listen to me, daughter; see and bend your ear."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escucha, hija, mira: inclina el oído."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascolta, figlia, guarda, porgi l'orecchio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "La figlia del re è tutta splendore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Écoute, ma fille, regarde et tends l'oreille."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Höre, Tochter, sieh her und neige dein Ohr!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Afferúntur in lætítia et exsultatióne,"
+       ],
+       [
+        "adducúntur in domum regis."
+       ],
+       [
+        "Pro pátribus tuis erunt tibi fílii;"
+       ],
+       [
+        "constítues eos príncipes super omnem terram."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entre cantos de festa e com grande alegria, ingressam, então, no palácio real”. Deixareis vossos pais, mas tereis muito filhos: farei deles os reis soberanos da terra."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "They are escorted amid gladness and joy; they pass within the palace of the king. Sons shall be yours in place of your fathers; you will make them princes over all the earth."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Las traen entre alegría y algazara,"
+       ],
+       [
+        "van entrando en el palacio real."
+       ],
+       [
+        "«A cambio de tus padres tendrás hijos,"
+       ],
+       [
+        "que nombrarás príncipes por toda la tierra»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Condotte in gioia ed esultanza,"
+       ],
+       [
+        "sono presentate nel palazzo del re."
+       ],
+       [
+        "Ai tuoi padri succederanno i tuoi figli;"
+       ],
+       [
+        "li farai principi di tutta la terra."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "On les conduit parmi les chants de fête :"
+       ],
+       [
+        "elles entrent au palais du roi."
+       ],
+       [
+        "À la place de tes pères se lèveront tes fils ;"
+       ],
+       [
+        "sur toute la terre tu feras d'eux des princes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Man geleitet sie mit Freude und Jubel,"
+       ],
+       [
+        "sie ziehen ein in den Palast des Königs."
+       ],
+       [
+        "An die Stelle deiner Väter treten einst deine Söhne;"
+       ],
+       [
+        "du bestellst sie zu Fürsten im ganzen Land."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Audi, fília, et vide, et inclína aurem tuam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ],
+       [
+        "Ecce sponsus: éxite óbviam Christo Dómino."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escutai, minha filha, olhai, ouvi isto."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Listen to me, daughter; see and bend your ear."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escucha, hija, mira: inclina el oído."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascolta, figlia, guarda, porgi l'orecchio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "La figlia del re è tutta splendore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Écoute, ma fille, regarde et tends l'oreille."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Höre, Tochter, sieh her und neige dein Ohr!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

@@ -1,1 +1,1560 @@
-{"id":"common.holy-men-and-women.1","source":"comunes_votivas/comunes_sant#sanct1","kind":"common","items":[{"slot":"1","text":{"la":[{"k":"h2","lines":[["COMMUNE SANCTORUM ET SANCTARUM"]]},{"k":"h3","lines":[["I. PRO OMNIBUS SANCTORUM ORDINIBUS"],["A. Pro pluribus Sanctis"],["1"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DAS VIRGENS"]]},{"k":"h3","lines":[["I. Para várias virgens"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF HOLY MEN AND WOMEN"]]},{"k":"h3","lines":[["I. For All Categories of Saints"],["A. For Several Saints"],["1"]]}],"es":[{"k":"h2","lines":[["COMÚN DE SANTOS Y SANTAS"]]},{"k":"h3","lines":[["I. Para toda categoría de santos"],["A. Para varios santos"],["1"]]}],"it":[{"k":"h2","lines":[["COMUNE DEI SANTI E DELLE SANTE"]]},{"k":"h3","lines":[["I. Per tutte le categorie di santi"],["A. Per più santi"],["1"]]}],"fr":[{"k":"h2","lines":[["COMMUN DES SAINTS ET DES SAINTES"]]},{"k":"h3","lines":[["I. POUR LES SAINTS DE TOUS ORDRES"],["A. Pour plusieurs saints"],["1"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE FÜR HL. MÄNNER UND HL. FRAUEN"]]},{"k":"h3","lines":[["1."]]}]},"part":"title"},{"slot":"2","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 144, 10-11"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 148, 12-14"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 144, 10-11"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 144, 10-11"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Sal 144, 10-11"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 144, 10-11"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 145 (144), 10-11"}]},"part":"entranceAntiphon"},{"slot":"3","text":{"la":[{"k":"p","lines":[["Confiteántur tibi, Dómine, ómnia ópera tua, et Sancti tui benedícant tibi: glóriam regni tui dicent, et poténtiam tuam loquéntur ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"pt-BR":[{"k":"p","lines":[["Louvem as virgens o nome do Senhor, porque somente o seu nome é excelso. Sua glória resplandece sobre o céu e a terra ",{"m":"rubric","t":"( T. P. "},"aleluia ",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["May all your works thank you, O Lord, and all your Holy ones bless you. They shall speak of the glory of your reign, and declare your mighty deeds ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Que todas tus criaturas te den gracias, Señor; que te bendigan tus santos."],["Que proclamen la gloria de tu reinado, que hablen de tus hazañas ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Ti lodino, o Signore, le tue opere e ti benedicano i tuoi santi. Dicano la gloria del tuo regno e parlino della tua potenza ",{"m":"rubric","t":"( T. P."},"Alleluia ",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Que tes œuvres, Seigneur, te rendent grâce"],["et que tes fidèles te bénissent !"],["Ils diront la gloire de ton règne,"],["ils parleront de tes exploits ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}],"de":[{"k":"p","lines":[["Danken sollen dir, Herr, all deine Werke und deine Frommen dich preisen. Sie sollen von der Herrlichkeit deines Königtums reden, sollen sprechen von deiner Macht."]]}]},"part":"entranceAntiphon"},{"slot":"4","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Cf. Sl 44, 16"}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"5","text":{"la":[{"k":"p","lines":[["Omnípotens ætérne Deus, qui per glorificatiónem Sanctórum novíssima dilectiónis tuæ nobis arguménta largíris, concéde propítius, ut, ad Unigénitum tuum fidéliter imitándum, et ipsórum intercessióne commendémur, et incitémur exémplo. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["As virgens serão conduzidas à presença do Rei com alegria e exultação; serão apresentadas no templo ao Rei e Senhor ",{"m":"rubric","t":"(T. P. "},"aleluia",{"m":"rubric","t":"). "}]]}],"en-US":[{"k":"p","lines":[["Almighty and eternal God, who by glorifying the Saints, bestow on us fresh proofs of your love, graciously grant that, commended by their intercession and spurred on by their example, we may be faithful in imitating your Only Begotten Son. Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["que en la glorificación de los santos"],["nos das continuas pruebas de tu amor,"],["concédenos en tu bondad encomendarnos a su intercesión"],["y que nos sintamos estimulados por su ejemplo,"],["para imitar fielmente a tu Unigénito."],["Él, que vive y reina contigo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, che nella gloria dei santi doni a noi segni sempre nuovi del tuo amore, fa' che la loro intercessione ci aiuti e il loro esempio ci spinga a imitare fedelmente il tuo unico Figlio. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["tu nous donnes des preuves toujours nouvelles de ton amour"],["quand tu glorifies les saints dans le ciel ;"],["accorde-nous dans ta bonté"],["d'être soutenus par leur prière"],["et encouragés par leur exemple"],["pour imiter fidèlement ton Fils unique."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, du offenbarst deine Herrlichkeit in den Heiligen und gibst uns in ihnen immer neue Zeichen deiner Liebe. Gib, dass ihr Beispiel und ihre Fürsprache uns helfen, deinem Sohn in Treue nachzufolgen, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"6","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"7","text":{"la":[{"k":"p","lines":[["Preces nostras, Dómine, quǽsumus, propitiátus admítte, et, ut digne tuis famulémur altáribus, Sanctórum tuórum nos intercessióne custódi. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, multiplicai sobre nós a vossa misericórdia e, como na festividade das santas virgens ",{"m":"rubric","t":"N. "},"e ",{"m":"rubric","t":"N. "}," nos alegramos com piedosa devoção, concedei-nos, por vossa graça, o seu eterno convívio. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Give favorable hearing to our prayers, O Lord, we pray, and safeguard us through the intercession of your Saints, that we may give worthy service at your altar."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, escucha con bondad nuestras súplicas"],["y protégenos con la intercesión de tus santos,"],["para que sirvamos dignamente en tu altar."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli benigno, o Signore, le nostre preghiere e per l'intercessione dei tuoi santi donaci la tua protezione, perché siamo degni di servire al tuo altare. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous te le demandons, Seigneur :"],["sois favorable à nos prières,"],["et pour nous rendre dignes de servir à ton autel,"],["garde-nous par l'intercession des saints."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, höre auf die Fürsprache des heiligen ",{"m":"rubric","t":"N."}," und bewahre uns vor allem Bösen, damit wir deinem Altar würdig dienen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"8","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"10","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Ps 67, 4"}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Ps 67, 4"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Sal 67, 4"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Sal 67, 4"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Ps 67, 4"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Ps 68 (67), 4"}]},"part":"communionAntiphon"},{"slot":"11","text":{"la":[{"k":"p","lines":[["Iusti epuléntur, et exsúltent in conspéctu Dei, et delecténtur in lætítia ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Das Santas Virgens e Religiosos "},{"m":"link","t":"...Recordando os Santos e Santas...","to":"preface.57"}]]}],"en-US":[{"k":"p","lines":[["The just shall rejoice at the presence of God; they shall exult with glad rejoicing ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Los justos se alegran, gozan en la presencia de Dios, rebosando de alegría ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["I giusti si rallegrano, esultano davanti a Dio e cantano di gioia ",{"m":"rubric","t":"( T. P."},"Alleluia ",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Que les justes soient en fête,"],["qu'ils exultent devant la face de Dieu,"],["débordants de joie ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}],"de":[{"k":"p","lines":[["Die Gerechten freuen sich und jubeln vor Gott; sie jauchzen in heller Freude."]]}]},"part":"communionAntiphon"},{"slot":"12","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Lc 12, 37"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Mt 25, 10"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Lk 12: 37"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Lc 12, 37"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Lc 12, 37"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Lc 12, 37"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"communionAntiphon"},{"slot":"13","text":{"la":[{"k":"p","lines":[["Beáti servi illi, quos, cum vénerit Dóminus, invénerit vigilántes. Amen dico vobis, quod præcínget se, et fáciet illos discúmbere, et tránsiens ministrábit illis ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":")."}]]}],"pt-BR":[{"k":"p","lines":[["O noivo chegou, e as virgens que estavam preparadas entraram com ele para a festa do casamento ",{"m":"rubric","t":"(T. P. "},"aleluia",{"m":"rubric","t":"). "}]]}],"en-US":[{"k":"p","lines":[["Blessed are those servants whom the lord finds vigilant on his arrival. Amen, I say to you: He will gird himself, seat them at table, and proceed to wait on them ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Bienaventurados aquellos criados a quienes el Señor, al llegar, los encuentre en vela; en verdad os digo que se ceñirá y los hará sentar a la mesa y, acercándose, les irá sirviendo ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Beati quei servi che il padrone al suo ritorno troverà ancora svegli; in verità io vi dico, si stringerà le vesti ai fianchi, li farà mettere a tavola e passerà a servirli ",{"m":"rubric","t":"( T. P."},"Alleluia ",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Heureux les serviteurs que le maître, à son arrivée,"],["trouvera en train de veiller."],["Amen, je vous le dis : c'est lui qui, la ceinture autour des reins,"],["les fera prendre place à table et passera pour les servir ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":")."}]]}],"de":[{"k":"p","lines":[["Selig die Knechte, die der Herr wach findet, wenn er kommt. Amen, ich sage euch: Er wird sie am Tisch Platz nehmen lassen und sie alle bedienen."]]}]},"part":"communionAntiphon"},{"slot":"14","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Jo 14, 21. 23"}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"15","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus, Pater totíus consolatiónis et pacis, præsta famíliæ tuæ in celebritáte Sanctórum ad laudem tui nóminis congregátæ, ut, per Unigéniti tui sumpta mystéria, pignus accípiat redemptiónis ætérnæ. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Quem me ama, será amado por meu Pai, e nós viremos e faremos nele a nossa morada ",{"m":"rubric","t":"( T. P. "},"aleluia ",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God, Father of all consolation and peace, grant your family, gathered to praise your name in celebration of the Saints, that through the mysteries of your Only Begotten Son, which they have here received, they may obtain the pledge of eternal redemption."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["Padre del consuelo y de la paz,"],["concede a tu familia,"],["reunida en la fiesta de los santos para alabar tu nombre,"],["recibir la prenda de la salvación eterna"],["en la comunión del sacramento de tu Unigénito."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, Padre di ogni consolazione e pace, guarda questa tua famiglia riunita per la lode del tuo nome nella festa dei santi",{"m":"rubric","t":"[N."}," e ",{"m":"rubric","t":"N.]"}," e per la partecipazione ai misteri del tuo Figlio unigenito, donale il pegno della redenzione eterna. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["Père de tout réconfort et de toute paix,"],["accorde à ta famille,"],["assemblée pour la louange de ton nom en cette fête des saints,"],["de recueillir dans sa communion à ton Fils unique"],["le gage de l'éternelle rédemption."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, Vater des Erbarmens und Gott allen Trostes, am Gedenktag des heiligen ",{"m":"rubric","t":"N."}," haben wir uns zum Lob deines Namens versammelt. Schenke uns durch den Leib und das Blut deines Sohnes das Unterpfand jener Vollendung, die allen verheißen ist, die dich lieben. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.52","preface.53","preface.57"],"title":{"la":"COMMUNE SANCTORUM ET SANCTARUM","pt-BR":"COMUM DAS VIRGENS","en-US":"COMMON OF HOLY MEN AND WOMEN","es":"COMÚN DE SANTOS Y SANTAS","it":"COMUNE DEI SANTI E DELLE SANTE","fr":"COMMUN DES SAINTS ET DES SAINTES","de":"COMMUNE-TEXTE FÜR HL. MÄNNER UND HL. FRAUEN"},"subtitle":{"la":"I. PRO OMNIBUS SANCTORUM ORDINIBUS A. Pro pluribus Sanctis 1","pt-BR":"I. Para várias virgens","en-US":"I. For All Categories of Saints A. For Several Saints 1","es":"I. Para toda categoría de santos A. Para varios santos 1","it":"I. Per tutte le categorie di santi A. Per più santi 1","fr":"I. POUR LES SAINTS DE TOUS ORDRES A. Pour plusieurs saints 1","de":"1."}}
+{
+ "id": "common.holy-men-and-women.1",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE SANCTORUM ET SANCTARUM"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. PRO OMNIBUS SANCTORUM ORDINIBUS"
+       ],
+       [
+        "A. Pro pluribus Sanctis"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DAS VIRGENS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Para várias virgens"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF HOLY MEN AND WOMEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. For All Categories of Saints"
+       ],
+       [
+        "A. For Several Saints"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE SANTOS Y SANTAS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Para toda categoría de santos"
+       ],
+       [
+        "A. Para varios santos"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DEI SANTI E DELLE SANTE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Per tutte le categorie di santi"
+       ],
+       [
+        "A. Per più santi"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DES SAINTS ET DES SAINTES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. POUR LES SAINTS DE TOUS ORDRES"
+       ],
+       [
+        "A. Pour plusieurs saints"
+       ],
+       [
+        "1"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE FÜR HL. MÄNNER UND HL. FRAUEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 144, 10-11"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 148, 12-14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 144, 10-11"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 144, 10-11"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Sal 144, 10-11"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 144, 10-11"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 145 (144), 10-11"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confiteántur tibi, Dómine, ómnia ópera tua, et Sancti tui benedícant tibi: glóriam regni tui dicent, et poténtiam tuam loquéntur ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Louvem as virgens o nome do Senhor, porque somente o seu nome é excelso. Sua glória resplandece sobre o céu e a terra ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "aleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May all your works thank you, O Lord, and all your Holy ones bless you. They shall speak of the glory of your reign, and declare your mighty deeds ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que todas tus criaturas te den gracias, Señor; que te bendigan tus santos."
+       ],
+       [
+        "Que proclamen la gloria de tu reinado, que hablen de tus hazañas ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti lodino, o Signore, le tue opere e ti benedicano i tuoi santi. Dicano la gloria del tuo regno e parlino della tua potenza ",
+        {
+         "m": "rubric",
+         "t": "( T. P."
+        },
+        "Alleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que tes œuvres, Seigneur, te rendent grâce"
+       ],
+       [
+        "et que tes fidèles te bénissent !"
+       ],
+       [
+        "Ils diront la gloire de ton règne,"
+       ],
+       [
+        "ils parleront de tes exploits ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Danken sollen dir, Herr, all deine Werke und deine Frommen dich preisen. Sie sollen von der Herrlichkeit deines Königtums reden, sollen sprechen von deiner Macht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Cf. Sl 44, 16"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens ætérne Deus, qui per glorificatiónem Sanctórum novíssima dilectiónis tuæ nobis arguménta largíris, concéde propítius, ut, ad Unigénitum tuum fidéliter imitándum, et ipsórum intercessióne commendémur, et incitémur exémplo. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As virgens serão conduzidas à presença do Rei com alegria e exultação; serão apresentadas no templo ao Rei e Senhor ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "aleluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty and eternal God, who by glorifying the Saints, bestow on us fresh proofs of your love, graciously grant that, commended by their intercession and spurred on by their example, we may be faithful in imitating your Only Begotten Son. Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "que en la glorificación de los santos"
+       ],
+       [
+        "nos das continuas pruebas de tu amor,"
+       ],
+       [
+        "concédenos en tu bondad encomendarnos a su intercesión"
+       ],
+       [
+        "y que nos sintamos estimulados por su ejemplo,"
+       ],
+       [
+        "para imitar fielmente a tu Unigénito."
+       ],
+       [
+        "Él, que vive y reina contigo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, che nella gloria dei santi doni a noi segni sempre nuovi del tuo amore, fa' che la loro intercessione ci aiuti e il loro esempio ci spinga a imitare fedelmente il tuo unico Figlio. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "tu nous donnes des preuves toujours nouvelles de ton amour"
+       ],
+       [
+        "quand tu glorifies les saints dans le ciel ;"
+       ],
+       [
+        "accorde-nous dans ta bonté"
+       ],
+       [
+        "d'être soutenus par leur prière"
+       ],
+       [
+        "et encouragés par leur exemple"
+       ],
+       [
+        "pour imiter fidèlement ton Fils unique."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, du offenbarst deine Herrlichkeit in den Heiligen und gibst uns in ihnen immer neue Zeichen deiner Liebe. Gib, dass ihr Beispiel und ihre Fürsprache uns helfen, deinem Sohn in Treue nachzufolgen, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preces nostras, Dómine, quǽsumus, propitiátus admítte, et, ut digne tuis famulémur altáribus, Sanctórum tuórum nos intercessióne custódi. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, multiplicai sobre nós a vossa misericórdia e, como na festividade das santas virgens ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "e ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        " nos alegramos com piedosa devoção, concedei-nos, por vossa graça, o seu eterno convívio. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Give favorable hearing to our prayers, O Lord, we pray, and safeguard us through the intercession of your Saints, that we may give worthy service at your altar."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, escucha con bondad nuestras súplicas"
+       ],
+       [
+        "y protégenos con la intercesión de tus santos,"
+       ],
+       [
+        "para que sirvamos dignamente en tu altar."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli benigno, o Signore, le nostre preghiere e per l'intercessione dei tuoi santi donaci la tua protezione, perché siamo degni di servire al tuo altare. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous te le demandons, Seigneur :"
+       ],
+       [
+        "sois favorable à nos prières,"
+       ],
+       [
+        "et pour nous rendre dignes de servir à ton autel,"
+       ],
+       [
+        "garde-nous par l'intercession des saints."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, höre auf die Fürsprache des heiligen ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " und bewahre uns vor allem Bösen, damit wir deinem Altar würdig dienen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Ps 67, 4"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 67, 4"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Sal 67, 4"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Sal 67, 4"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Ps 67, 4"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Ps 68 (67), 4"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iusti epuléntur, et exsúltent in conspéctu Dei, et delecténtur in lætítia ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das Santas Virgens e Religiosos "
+        },
+        {
+         "m": "link",
+         "t": "...Recordando os Santos e Santas...",
+         "to": "preface.57"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The just shall rejoice at the presence of God; they shall exult with glad rejoicing ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los justos se alegran, gozan en la presencia de Dios, rebosando de alegría ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I giusti si rallegrano, esultano davanti a Dio e cantano di gioia ",
+        {
+         "m": "rubric",
+         "t": "( T. P."
+        },
+        "Alleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que les justes soient en fête,"
+       ],
+       [
+        "qu'ils exultent devant la face de Dieu,"
+       ],
+       [
+        "débordants de joie ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Gerechten freuen sich und jubeln vor Gott; sie jauchzen in heller Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Lc 12, 37"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Mt 25, 10"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Lk 12: 37"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Lc 12, 37"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Lc 12, 37"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Lc 12, 37"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti servi illi, quos, cum vénerit Dóminus, invénerit vigilántes. Amen dico vobis, quod præcínget se, et fáciet illos discúmbere, et tránsiens ministrábit illis ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O noivo chegou, e as virgens que estavam preparadas entraram com ele para a festa do casamento ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "aleluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Blessed are those servants whom the lord finds vigilant on his arrival. Amen, I say to you: He will gird himself, seat them at table, and proceed to wait on them ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bienaventurados aquellos criados a quienes el Señor, al llegar, los encuentre en vela; en verdad os digo que se ceñirá y los hará sentar a la mesa y, acercándose, les irá sirviendo ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beati quei servi che il padrone al suo ritorno troverà ancora svegli; in verità io vi dico, si stringerà le vesti ai fianchi, li farà mettere a tavola e passerà a servirli ",
+        {
+         "m": "rubric",
+         "t": "( T. P."
+        },
+        "Alleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureux les serviteurs que le maître, à son arrivée,"
+       ],
+       [
+        "trouvera en train de veiller."
+       ],
+       [
+        "Amen, je vous le dis : c'est lui qui, la ceinture autour des reins,"
+       ],
+       [
+        "les fera prendre place à table et passera pour les servir ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Selig die Knechte, die der Herr wach findet, wenn er kommt. Amen, ich sage euch: Er wird sie am Tisch Platz nehmen lassen und sie alle bedienen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Jo 14, 21. 23"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus, Pater totíus consolatiónis et pacis, præsta famíliæ tuæ in celebritáte Sanctórum ad laudem tui nóminis congregátæ, ut, per Unigéniti tui sumpta mystéria, pignus accípiat redemptiónis ætérnæ. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quem me ama, será amado por meu Pai, e nós viremos e faremos nele a nossa morada ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "aleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God, Father of all consolation and peace, grant your family, gathered to praise your name in celebration of the Saints, that through the mysteries of your Only Begotten Son, which they have here received, they may obtain the pledge of eternal redemption."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "Padre del consuelo y de la paz,"
+       ],
+       [
+        "concede a tu familia,"
+       ],
+       [
+        "reunida en la fiesta de los santos para alabar tu nombre,"
+       ],
+       [
+        "recibir la prenda de la salvación eterna"
+       ],
+       [
+        "en la comunión del sacramento de tu Unigénito."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, Padre di ogni consolazione e pace, guarda questa tua famiglia riunita per la lode del tuo nome nella festa dei santi",
+        {
+         "m": "rubric",
+         "t": "[N."
+        },
+        " e ",
+        {
+         "m": "rubric",
+         "t": "N.]"
+        },
+        " e per la partecipazione ai misteri del tuo Figlio unigenito, donale il pegno della redenzione eterna. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "Père de tout réconfort et de toute paix,"
+       ],
+       [
+        "accorde à ta famille,"
+       ],
+       [
+        "assemblée pour la louange de ton nom en cette fête des saints,"
+       ],
+       [
+        "de recueillir dans sa communion à ton Fils unique"
+       ],
+       [
+        "le gage de l'éternelle rédemption."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, Vater des Erbarmens und Gott allen Trostes, am Gedenktag des heiligen ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " haben wir uns zum Lob deines Namens versammelt. Schenke uns durch den Leib und das Blut deines Sohnes das Unterpfand jener Vollendung, die allen verheißen ist, die dich lieben. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.52",
+  "preface.53",
+  "preface.57"
+ ],
+ "title": {
+  "la": "COMMUNE SANCTORUM ET SANCTARUM",
+  "pt-BR": "COMUM DAS VIRGENS",
+  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "es": "COMÚN DE SANTOS Y SANTAS",
+  "it": "COMUNE DEI SANTI E DELLE SANTE",
+  "fr": "COMMUN DES SAINTS ET DES SAINTES",
+  "de": "COMMUNE-TEXTE FÜR HL. MÄNNER UND HL. FRAUEN"
+ },
+ "subtitle": {
+  "la": "I. PRO OMNIBUS SANCTORUM ORDINIBUS A. Pro pluribus Sanctis 1",
+  "pt-BR": "I. Para várias virgens",
+  "en-US": "I. For All Categories of Saints A. For Several Saints 1",
+  "es": "I. Para toda categoría de santos A. Para varios santos 1",
+  "it": "I. Per tutte le categorie di santi A. Per più santi 1",
+  "fr": "I. POUR LES SAINTS DE TOUS ORDRES A. Pour plusieurs saints 1",
+  "de": "1."
+ }
+}

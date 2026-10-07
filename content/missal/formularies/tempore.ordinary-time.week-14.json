@@ -1,1 +1,1275 @@
-{"id":"tempore.ordinary-time.week-14","source":"tiempos/tiempos_ordinario#OT14","kind":"tempore","items":[{"slot":"169","text":{"la":[{"k":"h2","lines":[["DOMINICA XIV «PER ANNUM»"]]}],"pt-BR":[{"k":"h2","lines":[["14º DOMINGO DO TEMPO COMUM"]]}],"en-US":[{"k":"h2","lines":[["14th SUNDAY IN ORDINARY TIME"]]}],"es":[{"k":"h2","lines":[["XIV DOMINGO DEL TIEMPO ORDINARIO"]]}],"it":[{"k":"h2","lines":[["XIV DOMENICA"]]}],"fr":[{"k":"h2","lines":[["Temps ordinaire"],["14ème DIMANCHE"]]}],"de":[{"k":"h2","lines":[["14. SONNTAG IM JAHRESKREIS"]]}]},"part":"title"},{"slot":"170","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 47, 10-11"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 47, 10-11"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 48 (47): 10-11"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 47, 10-11"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 47,10-11"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 47, 10-11"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 48 (47), 10-11"}]},"part":"entranceAntiphon"},{"slot":"171","text":{"la":[{"k":"p","lines":[["Suscépimus, Deus, misericórdiam tuam in médio templi tui. Secúndum nomen tuum, Deus, ita et laus tua in fines terræ; iustítia plena est déxtera tua."]]}],"pt-BR":[{"k":"p","lines":[["Recebemos, Senhor, vossa misericórdia"],["no meio do vosso templo."],["Como vosso nome, ó Deus,"],["assim vosso louvor ressoa até os confins da terra;"],["vossa destra está cheia de justiça."]]}],"en-US":[{"k":"p","lines":[["Your merciful love, O God,"],["we have received in the midst of your temple. Your praise, O God, like your name,"],["reaches the ends of the earth;"],["your right hand is filled with saving justice."]]}],"es":[{"k":"p","lines":[["Oh, Dios, meditamos tu misericordia en medio de tu templo; como tu nombre, oh, Dios, tu alabanza llega al confín de la tierra. Tu diestra está llena de justicia."]]}],"it":[{"k":"p","lines":[["O Dio, accogliamo il tuo amore nel tuo tempio. Come il tuo nome, o Dio, così la tua lode si estende sino ai confini della terra; è piena di giustizia la tua destra."]]}],"fr":[{"k":"p","lines":[["Dieu, nous accueillons ta miséricorde"],["au milieu de ton temple."],["Ta louange, comme ton nom, Seigneur Dieu,"],["couvre l'étendue de la terre."],["Ta main droite est pleine de justice."]]}],"de":[{"k":"p","lines":[["Deiner Huld, o Gott, gedenken wir in deinem heiligen Tempel. Wie dein Name, Gott, so reicht dein Ruhm bis an die Enden der Erde; deine rechte Hand ist voll von Gerechtigkeit."]]}]},"part":"entranceAntiphon"},{"slot":"172","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"173","text":{"la":[{"k":"p","lines":[["Deus, qui in Fílii tui humilitáte iacéntem mundum erexísti, fidélibus tuis sanctam concéde lætítiam, ut, quos eripuísti a servitúte peccáti, gáudiis fácias pérfrui sempitérnis. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, pela humilhação do vosso Filho"],["reerguestes o mundo decaído,"],["dai-nos uma santa alegria,"],["para que, livres da servidão do pecado,"],["cheguemos à felicidade eterna."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito 􀁄anto,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who in the abasement of your Son"],["have raised up a fallen world,"],["fill your faithful with holy joy,"],["for on those you have rescued from slavery to sin you bestow eternal gladness."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios, que en la humillación de tu Hijo"],["levantaste a la humanidad caída,"],["concede a tus fieles una santa alegría,"],["para que disfruten del gozo eterno"],["los que liberaste de la esclavitud del pecado."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Padre, che nell'umiliazione del tuo Figlio hai risollevato l'umanità dalla sua caduta, dona ai tuoi fedeli una gioia santa, perché, liberati dalla schiavitù del peccato, godano della felicità eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["par l'abaissement de ton Fils,"],["tu as relevé le monde déchu ;"],["donne à tes fidèles une joie sainte :"],["tu les as tirés de l'esclavage du péché ;"],["fais-leur connaître le bonheur éternel."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, durch die Erniedrigung deines Sohnes hast du die gefallene Menschheit wieder aufgerichtet und aus der Knechtschaft der Sünde befreit. Erfülle uns mit Freude über die Erlösung und führe uns zur ewigen Seligkeit. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"174","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"175","text":{"la":[{"k":"p","lines":[["Oblátio nos, Dómine, tuo nómini dicáta puríficet, et de die in diem ad cæléstis vitæ tránsferat actiónem. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Fazei, Senhor, que este sacrifício"],["celebrado em honra do vosso nome,"],["nos purifique e nos leve, cada vez mais,"],["a viver a vida do vosso reino."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May this oblation dedicated to your name purify us, O Lord,"],["and day by day bring our conduct"],["closer to the life of heaven."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Que la oblación consagrada a tu nombre"],["nos purifique, Señor,"],["y nos lleve, de día en día,"],["a participar en la vida del cielo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Ci purifichi, o Signore, quest'offerta che consacriamo al tuo nome, e ci conduca di giorno in giorno più vicini alle realtà del cielo. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Puissions-nous être purifiés, Seigneur,"],["par l'offrande consacrée à ton nom ;"],["qu'elle nous conduise, de jour en jour,"],["à vivre de la vie du ciel."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, zu deiner Ehre feiern wir dieses Opfer. Es befreie uns vom Bösen und helfe uns, Tag für Tag das neue Leben sichtbar zu machen, das wir von dir empfangen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"176","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Ps 33, 9"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Sl 33, 9"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Ps 34 (33): 9"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Ps 33, 9"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Sal 33,9"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Ps 33, 9"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Ps 34 (33), 9"}]},"part":"communionAntiphon"},{"slot":"177","text":{"la":[{"k":"p","lines":[["Gustáte et vidéte, quóniam suávis est Dóminus; beátus vir, qui sperat in eo."]]}],"pt-BR":[{"k":"p","lines":[["Provai e vede quão suave é o Senhor."],["Feliz o homem que tem nele o seu refúgio!"]]}],"en-US":[{"k":"p","lines":[["Taste and see that the Lord is good; blessed the man who seeks refuge in him."]]}],"es":[{"k":"p","lines":[["Gustad y ved qué bueno es el Señor, dichoso el que se acoge a él."]]}],"it":[{"k":"p","lines":[["Gustate e vedete com'è buono il Signore; beato l'uomo che in lui si rifugia."]]}],"fr":[{"k":"p","lines":[["Goûtez et voyez : le Seigneur est bon !"],["Heureux qui trouve en lui son refuge !"]]}],"de":[{"k":"p","lines":[["Kostet und seht, wie gütig der Herr ist. Selig der Mensch, der bei ihm seine Zuflucht nimmt."]]}]},"part":"communionAntiphon"},{"slot":"178","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Mt 11, 28"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Mt 11, 28"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Mt 11: 28"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Mt 11, 28"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Mt 11,28"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Mt 11, 28"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Mt 11, 28"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"179","text":{"la":[{"k":"p","lines":[["Veníte ad me, omnes qui laborátis et oneráti estis, et ego refíciam vos, dicit Dóminus."]]}],"pt-BR":[{"k":"p","lines":[["Vinde a mim todos vós que estais cansados e fatigados,"],["e eu vos darei descanso, diz o Senhor."]]}],"en-US":[{"k":"p","lines":[["Come to me, all who labor and are burdened, and I will refresh you, says the Lord."]]}],"es":[{"k":"p","lines":[["Venid a mí todos los que estáis cansados y agobiados, y yo os aliviaré, dice el Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"★ A Mt 11, 28"}],["«Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro», dice il Signore."],[{"m":"rubric","t":"★ B Cf. Mc 6, 2"}],["Gesù insegnava nella sinagoga e molti rimanevano stupiti della sua sapienza."],[{"m":"rubric","t":"★ C Cf. Lc 10, 1"}],["Il Signore designò altri settantadue discepoli e li inviò a predicare il Regno."]]}],"fr":[{"k":"p","lines":[["Venez à moi, vous tous qui peinez sous le poids du fardeau,"],["et moi, je vous procurerai le repos, dit le Seigneur."]]}],"de":[{"k":"p","lines":[["Kommt alle zu mir, die ihr euch plagt und unter Lasten stöhnt! Ich will euch Ruhe verschaffen – so spricht der Herr."]]}]},"part":"communionAntiphon"},{"slot":"180","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"181","text":{"la":[{"k":"p","lines":[["Tantis, Dómine, repléti munéribus, præsta, quǽsumus, ut et salutária dona capiámus, et a tua numquam laude cessémus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Nós vos pedimos, Senhor,"],["que, enriquecidos por essa tão grande dádiva,"],["possamos colher os frutos da salvação"],["sem jamais cessar vosso louvor."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, O Lord,"],["that, having been replenished by such great gifts, we may gain the prize of salvation"],["and never cease to praise you."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Colmados de tan grandes bienes,"],["concédenos, Señor,"],["alcanzar los dones de la salvación"],["y no cesar nunca en tu alabanza."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, che ci hai nutriti con i doni della tua carità senza limiti, fa' che godiamo i benefici della salvezza e viviamo sempre in rendimento di grazie. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Comblés de si grands bienfaits,"],["nous te supplions, Seigneur :"],["fais que nous en retirions des fruits pour notre salut"],["et que jamais nous ne cessions de chanter ta louange."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, du hast uns mit reichen Gaben beschenkt. Lass uns in der Danksagung verharren und einst die Fülle des Heils erlangen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":6,"title":{"la":"DOMINICA XIV «PER ANNUM»","pt-BR":"14º DOMINGO DO TEMPO COMUM","en-US":"14th SUNDAY IN ORDINARY TIME","es":"XIV DOMINGO DEL TIEMPO ORDINARIO","it":"XIV DOMENICA","fr":"Temps ordinaire — 14ème DIMANCHE","de":"14. SONNTAG IM JAHRESKREIS"},"weekdayPrecedence":13}
+{
+ "id": "tempore.ordinary-time.week-14",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMINICA XIV «PER ANNUM»"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "14º DOMINGO DO TEMPO COMUM"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "14th SUNDAY IN ORDINARY TIME"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "XIV DOMINGO DEL TIEMPO ORDINARIO"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "XIV DOMENICA"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps ordinaire"
+       ],
+       [
+        "14ème DIMANCHE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "14. SONNTAG IM JAHRESKREIS"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 47, 10-11"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 47, 10-11"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 48 (47): 10-11"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 47, 10-11"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 47,10-11"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 47, 10-11"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 48 (47), 10-11"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Suscépimus, Deus, misericórdiam tuam in médio templi tui. Secúndum nomen tuum, Deus, ita et laus tua in fines terræ; iustítia plena est déxtera tua."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recebemos, Senhor, vossa misericórdia"
+       ],
+       [
+        "no meio do vosso templo."
+       ],
+       [
+        "Como vosso nome, ó Deus,"
+       ],
+       [
+        "assim vosso louvor ressoa até os confins da terra;"
+       ],
+       [
+        "vossa destra está cheia de justiça."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Your merciful love, O God,"
+       ],
+       [
+        "we have received in the midst of your temple. Your praise, O God, like your name,"
+       ],
+       [
+        "reaches the ends of the earth;"
+       ],
+       [
+        "your right hand is filled with saving justice."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios, meditamos tu misericordia en medio de tu templo; como tu nombre, oh, Dios, tu alabanza llega al confín de la tierra. Tu diestra está llena de justicia."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, accogliamo il tuo amore nel tuo tempio. Come il tuo nome, o Dio, così la tua lode si estende sino ai confini della terra; è piena di giustizia la tua destra."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu, nous accueillons ta miséricorde"
+       ],
+       [
+        "au milieu de ton temple."
+       ],
+       [
+        "Ta louange, comme ton nom, Seigneur Dieu,"
+       ],
+       [
+        "couvre l'étendue de la terre."
+       ],
+       [
+        "Ta main droite est pleine de justice."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deiner Huld, o Gott, gedenken wir in deinem heiligen Tempel. Wie dein Name, Gott, so reicht dein Ruhm bis an die Enden der Erde; deine rechte Hand ist voll von Gerechtigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui in Fílii tui humilitáte iacéntem mundum erexísti, fidélibus tuis sanctam concéde lætítiam, ut, quos eripuísti a servitúte peccáti, gáudiis fácias pérfrui sempitérnis. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, pela humilhação do vosso Filho"
+       ],
+       [
+        "reerguestes o mundo decaído,"
+       ],
+       [
+        "dai-nos uma santa alegria,"
+       ],
+       [
+        "para que, livres da servidão do pecado,"
+       ],
+       [
+        "cheguemos à felicidade eterna."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito 􀁄anto,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who in the abasement of your Son"
+       ],
+       [
+        "have raised up a fallen world,"
+       ],
+       [
+        "fill your faithful with holy joy,"
+       ],
+       [
+        "for on those you have rescued from slavery to sin you bestow eternal gladness."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios, que en la humillación de tu Hijo"
+       ],
+       [
+        "levantaste a la humanidad caída,"
+       ],
+       [
+        "concede a tus fieles una santa alegría,"
+       ],
+       [
+        "para que disfruten del gozo eterno"
+       ],
+       [
+        "los que liberaste de la esclavitud del pecado."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che nell'umiliazione del tuo Figlio hai risollevato l'umanità dalla sua caduta, dona ai tuoi fedeli una gioia santa, perché, liberati dalla schiavitù del peccato, godano della felicità eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "par l'abaissement de ton Fils,"
+       ],
+       [
+        "tu as relevé le monde déchu ;"
+       ],
+       [
+        "donne à tes fidèles une joie sainte :"
+       ],
+       [
+        "tu les as tirés de l'esclavage du péché ;"
+       ],
+       [
+        "fais-leur connaître le bonheur éternel."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, durch die Erniedrigung deines Sohnes hast du die gefallene Menschheit wieder aufgerichtet und aus der Knechtschaft der Sünde befreit. Erfülle uns mit Freude über die Erlösung und führe uns zur ewigen Seligkeit. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oblátio nos, Dómine, tuo nómini dicáta puríficet, et de die in diem ad cæléstis vitæ tránsferat actiónem. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fazei, Senhor, que este sacrifício"
+       ],
+       [
+        "celebrado em honra do vosso nome,"
+       ],
+       [
+        "nos purifique e nos leve, cada vez mais,"
+       ],
+       [
+        "a viver a vida do vosso reino."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May this oblation dedicated to your name purify us, O Lord,"
+       ],
+       [
+        "and day by day bring our conduct"
+       ],
+       [
+        "closer to the life of heaven."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que la oblación consagrada a tu nombre"
+       ],
+       [
+        "nos purifique, Señor,"
+       ],
+       [
+        "y nos lleve, de día en día,"
+       ],
+       [
+        "a participar en la vida del cielo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ci purifichi, o Signore, quest'offerta che consacriamo al tuo nome, e ci conduca di giorno in giorno più vicini alle realtà del cielo. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Puissions-nous être purifiés, Seigneur,"
+       ],
+       [
+        "par l'offrande consacrée à ton nom ;"
+       ],
+       [
+        "qu'elle nous conduise, de jour en jour,"
+       ],
+       [
+        "à vivre de la vie du ciel."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, zu deiner Ehre feiern wir dieses Opfer. Es befreie uns vom Bösen und helfe uns, Tag für Tag das neue Leben sichtbar zu machen, das wir von dir empfangen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Ps 33, 9"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Sl 33, 9"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Ps 34 (33): 9"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Ps 33, 9"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Sal 33,9"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Ps 33, 9"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Ps 34 (33), 9"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gustáte et vidéte, quóniam suávis est Dóminus; beátus vir, qui sperat in eo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Provai e vede quão suave é o Senhor."
+       ],
+       [
+        "Feliz o homem que tem nele o seu refúgio!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Taste and see that the Lord is good; blessed the man who seeks refuge in him."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gustad y ved qué bueno es el Señor, dichoso el que se acoge a él."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gustate e vedete com'è buono il Signore; beato l'uomo che in lui si rifugia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Goûtez et voyez : le Seigneur est bon !"
+       ],
+       [
+        "Heureux qui trouve en lui son refuge !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Kostet und seht, wie gütig der Herr ist. Selig der Mensch, der bei ihm seine Zuflucht nimmt."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Mt 11, 28"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Mt 11, 28"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Mt 11: 28"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Mt 11, 28"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Mt 11,28"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Mt 11, 28"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Mt 11, 28"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Veníte ad me, omnes qui laborátis et oneráti estis, et ego refíciam vos, dicit Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vinde a mim todos vós que estais cansados e fatigados,"
+       ],
+       [
+        "e eu vos darei descanso, diz o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Come to me, all who labor and are burdened, and I will refresh you, says the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venid a mí todos los que estáis cansados y agobiados, y yo os aliviaré, dice el Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "★ A Mt 11, 28"
+        }
+       ],
+       [
+        "«Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro», dice il Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B Cf. Mc 6, 2"
+        }
+       ],
+       [
+        "Gesù insegnava nella sinagoga e molti rimanevano stupiti della sua sapienza."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C Cf. Lc 10, 1"
+        }
+       ],
+       [
+        "Il Signore designò altri settantadue discepoli e li inviò a predicare il Regno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venez à moi, vous tous qui peinez sous le poids du fardeau,"
+       ],
+       [
+        "et moi, je vous procurerai le repos, dit le Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Kommt alle zu mir, die ihr euch plagt und unter Lasten stöhnt! Ich will euch Ruhe verschaffen – so spricht der Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tantis, Dómine, repléti munéribus, præsta, quǽsumus, ut et salutária dona capiámus, et a tua numquam laude cessémus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nós vos pedimos, Senhor,"
+       ],
+       [
+        "que, enriquecidos por essa tão grande dádiva,"
+       ],
+       [
+        "possamos colher os frutos da salvação"
+       ],
+       [
+        "sem jamais cessar vosso louvor."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, O Lord,"
+       ],
+       [
+        "that, having been replenished by such great gifts, we may gain the prize of salvation"
+       ],
+       [
+        "and never cease to praise you."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Colmados de tan grandes bienes,"
+       ],
+       [
+        "concédenos, Señor,"
+       ],
+       [
+        "alcanzar los dones de la salvación"
+       ],
+       [
+        "y no cesar nunca en tu alabanza."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, che ci hai nutriti con i doni della tua carità senza limiti, fa' che godiamo i benefici della salvezza e viviamo sempre in rendimento di grazie. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Comblés de si grands bienfaits,"
+       ],
+       [
+        "nous te supplions, Seigneur :"
+       ],
+       [
+        "fais que nous en retirions des fruits pour notre salut"
+       ],
+       [
+        "et que jamais nous ne cessions de chanter ta louange."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, du hast uns mit reichen Gaben beschenkt. Lass uns in der Danksagung verharren und einst die Fülle des Heils erlangen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 6,
+ "title": {
+  "la": "DOMINICA XIV «PER ANNUM»",
+  "pt-BR": "14º DOMINGO DO TEMPO COMUM",
+  "en-US": "14th SUNDAY IN ORDINARY TIME",
+  "es": "XIV DOMINGO DEL TIEMPO ORDINARIO",
+  "it": "XIV DOMENICA",
+  "fr": "Temps ordinaire — 14ème DIMANCHE",
+  "de": "14. SONNTAG IM JAHRESKREIS"
+ },
+ "weekdayPrecedence": 13
+}

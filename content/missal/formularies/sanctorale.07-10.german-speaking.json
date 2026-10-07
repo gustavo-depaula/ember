@@ -1,1 +1,227 @@
-{"id":"sanctorale.07-10.german-speaking","source":"santos/santos_jul#0710","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["10. Juli"],["Hl. Knud von Dänemark, Märtyrer, Hl. Erich von Schweden, Märtyrer, Hl. Olaf von Norwegen"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Von den skandinavischen Königen ist Olaf II. von Norwegen der früheste. Er vollendete die von Olaf I. begonnene Christianisierung Norwegens. Wegen seiner Strenge gegen alle, die sich nicht taufen lassen wollten oder sonst gegen die Gesetze verstießen, wurde er 1028 vertrieben. Bei dem Versuch, sein Reich zurückzuerobern, fiel er am 29. Juli 1030 bei Stiklestad im Werdal. Über Erich von Schweden gibt es keine zeitgenössischen Nachrichten. Nach der Legende unternahm er einen Kreuzzug gegen die Finnen und fiel 1160 bei Uppsala. Knud IV., geboren 1040, war von 1080 an König von Dänemark und erwies sich als tüchtiger Herrscher. Er förderte den Kirchenbau und sorgte für kirchliche Zucht und Ordnung. Bei einem Aufstand 1086 kam er ums Leben."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Märtyrer:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Herr, unser Gott, höre auf die Fürsprache der heiligen Könige Knud, Erich und Olaf, die in ihren Ländern die Botschaft von Christus verbreitet haben. Gib, dass wir mit den Völkern des Nordens im Glauben an Christus verbunden bleiben, und stärke in uns allen die Bereitschaft zur Einheit, wie du sie willst. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"44","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.54","preface.55"],"commons":["common.martyrs.1","common.martyrs.2","common.martyrs.3","common.martyrs.4","common.martyrs.5"],"title":{"*":"Hl. Knud von Dänemark, Märtyrer, Hl. Erich von Schweden, Märtyrer, Hl. Olaf von Norwegen"}}
+{
+ "id": "sanctorale.07-10.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. Juli"
+       ],
+       [
+        "Hl. Knud von Dänemark, Märtyrer, Hl. Erich von Schweden, Märtyrer, Hl. Olaf von Norwegen"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Von den skandinavischen Königen ist Olaf II. von Norwegen der früheste. Er vollendete die von Olaf I. begonnene Christianisierung Norwegens. Wegen seiner Strenge gegen alle, die sich nicht taufen lassen wollten oder sonst gegen die Gesetze verstießen, wurde er 1028 vertrieben. Bei dem Versuch, sein Reich zurückzuerobern, fiel er am 29. Juli 1030 bei Stiklestad im Werdal. Über Erich von Schweden gibt es keine zeitgenössischen Nachrichten. Nach der Legende unternahm er einen Kreuzzug gegen die Finnen und fiel 1160 bei Uppsala. Knud IV., geboren 1040, war von 1080 an König von Dänemark und erwies sich als tüchtiger Herrscher. Er förderte den Kirchenbau und sorgte für kirchliche Zucht und Ordnung. Bei einem Aufstand 1086 kam er ums Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Märtyrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, höre auf die Fürsprache der heiligen Könige Knud, Erich und Olaf, die in ihren Ländern die Botschaft von Christus verbreitet haben. Gib, dass wir mit den Völkern des Nordens im Glauben an Christus verbunden bleiben, und stärke in uns allen die Bereitschaft zur Einheit, wie du sie willst. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "commons": [
+  "common.martyrs.1",
+  "common.martyrs.2",
+  "common.martyrs.3",
+  "common.martyrs.4",
+  "common.martyrs.5"
+ ],
+ "title": {
+  "*": "Hl. Knud von Dänemark, Märtyrer, Hl. Erich von Schweden, Märtyrer, Hl. Olaf von Norwegen"
+ }
+}

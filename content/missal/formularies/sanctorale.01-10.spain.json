@@ -1,1 +1,224 @@
-{"id":"sanctorale.01-10.spain","source":"santos/santos_ene#0110","kind":"sanctoral","items":[{"text":{"*":[{"k":"h2","lines":[["10 de enero"],["Beata Ana de los Ángeles Monteagudo, virgen"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Común de vírgenes:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Oh Dios,"],["que, en tu bondad,"],["otorgaste a la beata Ana de los Ángeles, virgen,"],["los dones de la contemplación, el espíritu de penitencia"],["y el continuo servicio de amor al prójimo,"],["concédenos, por su intercesión,"],["que, imitándola, te adoremos con el sacrificio de alabanza,"],["y, a través de los signos de nuestro tiempo,"],["sepamos conocer, con diligencia, tu voluntad."],["Por nuestro Señor Jesucristo."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"42","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.57"],"commons":["common.virgins.1","common.virgins.2","common.virgins.3"],"title":{"*":"Beata Ana de los Ángeles Monteagudo, virgen"}}
+{
+ "id": "sanctorale.01-10.spain",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10 de enero"
+       ],
+       [
+        "Beata Ana de los Ángeles Monteagudo, virgen"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de vírgenes:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh Dios,"
+       ],
+       [
+        "que, en tu bondad,"
+       ],
+       [
+        "otorgaste a la beata Ana de los Ángeles, virgen,"
+       ],
+       [
+        "los dones de la contemplación, el espíritu de penitencia"
+       ],
+       [
+        "y el continuo servicio de amor al prójimo,"
+       ],
+       [
+        "concédenos, por su intercesión,"
+       ],
+       [
+        "que, imitándola, te adoremos con el sacrificio de alabanza,"
+       ],
+       [
+        "y, a través de los signos de nuestro tiempo,"
+       ],
+       [
+        "sepamos conocer, con diligencia, tu voluntad."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.57"
+ ],
+ "commons": [
+  "common.virgins.1",
+  "common.virgins.2",
+  "common.virgins.3"
+ ],
+ "title": {
+  "*": "Beata Ana de los Ángeles Monteagudo, virgen"
+ }
+}

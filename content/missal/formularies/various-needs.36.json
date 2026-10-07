@@ -1,1 +1,1283 @@
-{"id":"various-needs.36","source":"comunes_votivas/diversas#div036","kind":"various-needs","items":[{"slot":"463","text":{"la":[{"k":"h2","lines":[["II. PRO CIRCUMSTANTIIS PUBLICIS"]]},{"k":"h3","lines":[["26. PRO HUMANO LABORE SANCTIFICANDO"],["B"]]}],"pt-BR":[{"k":"h2","lines":[["II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA"]]},{"k":"h3","lines":[["26. PELA SANTIFICAÇÃO DO TRABALHO HUMANO"],["B"]]}],"en-US":[{"k":"h2","lines":[["II. FOR CIVIL NEEDS"]]},{"k":"h3","lines":[["26. FOR THE SANCTIFICATION OF HUMAN LABOR"],["B Other Prayers"]]}],"es":[{"k":"h2","lines":[["II. POR LAS NECESIDADES PÚBLICAS"]]},{"k":"h3","lines":[["26. POR LA SANTIFICACIÓN DEL TRABAJO HUMANO"],["B"]]}],"it":[{"k":"h2","lines":[["PER LA SOCIETÀ CIVILE"]]},{"k":"h3","lines":[["26. PER LA SANTIFICAZIONE DEL LAVORO"],["B. AlTre orazioni"]]}],"fr":[{"k":"h2","lines":[["II. POUR DES CIRCONSTANCES PUBLIQUES"]]},{"k":"h3","lines":[["26. POUR LA SANCTIFICATION DU TRAVAIL HUMAIN"],["B"]]}],"de":[{"k":"h2","lines":[["II. FÜR STAAT UND GESELLSCHAFT"]]},{"k":"h3","lines":[["26. UM SEGEN FÜR DIE ARBEIT"],["B"],["Weitere Orationen"]]}]},"part":"title"},{"slot":"464","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Gen 1, 1. 27. 31"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Gn 1, 1. 27. 31"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Gn 1: 1, 27, 31"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Gen 1, 1. 27. 31"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Gen 1, 1. 27. 31"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Gen 1, 27. 31"}]},"part":"entranceAntiphon"},{"slot":"465","text":{"la":[{"k":"p","lines":[["In princípio creávit Deus cælum et terram. Et creávit Deus hóminem ad imáginem suam. Vidítque Deus cuncta quæ fécerat, et erant valde bona."]]}],"pt-BR":[{"k":"p","lines":[["No princípio, Deus criou o céu e a terra."],["E Deus criou o ser humano à sua imagem."],["E Deus viu tudo quanto havia feito,"],["e era muito bom."]]}],"en-US":[{"k":"p","lines":[["In the beginning, when god created the heavens and the earth,"],["God created man in his image;"],["God looked at everything he had made, and he found it very good."]]}],"es":[{"k":"p","lines":[["Al principio creó Dios el cielo y la tierra. Y creó Dios al hombre a su imagen. Y vio Dios todo lo que había hecho, y era muy bueno."]]}],"fr":[{"k":"p","lines":[["Au commencement, Dieu créa le ciel et la terre."],["Dieu créa l'homme à son image."],["Dieu vit tout ce qu'il avait fait :"],["cela était très bon."]]}],"de":[{"k":"p","lines":[["Im Anfang schuf Gott Himmel und Erde. Und Gott schuf den Menschen als sein Abbild. Gott sah alles an, was er gemacht hatte, und es war sehr gut."]]}]},"part":"entranceAntiphon"},{"slot":"466","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Ps 89, 17"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Cf. Sl 89, 17"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]],"cite":"Cf. Ps 89, 17"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Cf. Ps 89, 17"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Ps 89, 17"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Vgl. Ps 90 (89), 17"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"467","text":{"la":[{"k":"p","lines":[["Bónitas tua, Dómine, sit super nos, et opus mánuum nostrárum secúnda nobis."]]}],"pt-BR":[{"k":"p","lines":[["Vossa bondade, Senhor, repouse sobre nós"],["e fazei dar frutos o labor de nossas mãos."]]}],"en-US":[{"k":"p","lines":[["May your favor, O Lord, be upon us,"],["and may you give success to the work of our hands."]]},{"k":"p","lines":[["May the goodness of the Lord be upon us, and give success to the work of our hands."]]}],"es":[{"k":"p","lines":[["Baje a nosotros la bondad del Señor y haga prósperas las obras de nuestras manos."]]}],"fr":[{"k":"p","lines":[["Que vienne sur nous ta douceur, Seigneur !"],["Consolide pour nous l'ouvrage de nos mains."]]}],"de":[{"k":"p","lines":[["Deine Güte, Herr, komme über uns; lass das Werk unserer Hände gedeihen."]]}]},"part":"entranceAntiphon"},{"slot":"468","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"469","text":{"la":[{"k":"p","lines":[["Deus, qui naturálium rerum virtútes hóminum labóri súbdere voluísti, concéde propítius, ut, opéribus nostris christiáno spíritu inténti, sincéram caritátem cum frátribus exercére, et creatióni divínæ perficiéndæ sóciam óperam præstáre mereámur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus,"],["quisestes submeter as forças da natureza ao trabalho humano;"],["concedei propício que,"],["animados com espírito cristão em nosso labor"],["e exercendo sincera caridade para com os irmãos e irmãs,"],["colaboremos no aperfeiçoamento da vossa criação."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who willed to subject"],["the forces of nature to human labor,"],["mercifully grant"],["that, undertaking in a Christian spirit what we are to do,"],["we may merit to join our brothers and sisters"],["in practicing sincere charity"],["and in advancing the fulfillment of your divine work of creation. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["tú quisiste someter las fuerzas de la naturaleza"],["al trabajo del hombre,"],["concédenos, por tu bondad,"],["entregados a nuestras tareas con espíritu cristiano,"],["practicar la caridad sincera con nuestros hermanos"],["y colaborar al perfeccionamiento de tu creación."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che hai voluto affidare le risorse della natura al lavoro dell'uomo, donaci di svolgere le nostre attività con spirito cristiano e di vivere con i fratelli nella carità sincera, collaborando con te al compimento della creazione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu veux que l'homme, par son labeur,"],["s'emploie à maîtriser les énergies du monde ;"],["dans ta bonté, fais que nos travaux"],["soient animés par l'esprit du Christ,"],["pour que nous puissions pratiquer"],["une authentique charité envers nos frères"],["et travailler ensemble à l'achèvement de ta création."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du hast deine Schöpfung mit ihren Kräften der Arbeit des Menschen anvertraut. Gib, dass wir in christlichem Geist unsere Aufgabe erfüllen, unseren Brüdern in selbstloser Liebe dienen und Mitarbeiter werden an der Vollendung deines Werkes. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"470","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"471","text":{"la":[{"k":"p","lines":[["Súscipe, Dómine, múnera supplicántis Ecclésiæ, et præsta, ut, per humánum quem tibi offérimus labórem, óperi Christi redemptóris consociári mereámur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Aceitai, Senhor, os dons da Igreja em oração"],["e, pelo trabalho humano que vos oferecemos,"],["mereçamos ser associados à obra de Cristo redentor."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Receive, O Lord, the offerings and supplications of your Church and grant that, through the human labor we offer you,"],["we may have a part in the work of Christ the Redeemer."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Acepta, Señor,"],["los dones de tu Iglesia en oración,"],["y haz que, por el trabajo del hombre que ahora te ofrecemos,"],["merezcamos asociarnos a la obra redentora de Cristo."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Accogli, o Signore, i doni della tua Chiesa in preghiera, perché con l'offerta del lavoro umano possiamo essere associati all'opera di Cristo redentore. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Reçois, Seigneur, les dons de l'Église qui te supplie :"],["accorde-nous, par le travail humain que nous t'offrons,"],["d'être associés à l'œuvre du Christ, le Rédempteur."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, höre auf das Gebet deiner Kirche: Nimm unsere Arbeit und unsere Mühen, die wir dir weihen, in das Werk des Erlösers Jesus Christus auf, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"prayerOverOfferings"},{"slot":"473","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Col 3, 17"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cl 3, 17"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Col 3, 17"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Col 3, 17"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Col 3, 17"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Kol 3, 17"}]},"part":"communionAntiphon"},{"slot":"474","text":{"la":[{"k":"p","lines":[["Omne quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Iesu Christi, grátias agéntes Deo et Patri per ipsum."]]}],"pt-BR":[{"k":"p","lines":[["Tudo o que fizerdes, em palavras ou obras,"],["seja feito em nome do Senhor Jesus Cristo."],["Por meio dele, dai graças a Deus, o Pai."]]}],"en-US":[{"k":"p","lines":[["Whatever you do in word or deed,"],["do everything in the name of the Lord Jesus Christ, giving thanks to god the father through him"]]}],"es":[{"k":"p","lines":[["Todo lo que de palabra o de obra realicéis, sea todo en nombre del Señor Jesucristo, dando gracias a Dios Padre por medio de él."]]}],"fr":[{"k":"p","lines":[["out ce que vous dites, tout ce que vous faites,"],["que ce soit toujours au nom du Seigneur Jésus Christ,"],["en offrant par lui votre action de grâce à Dieu le Père."]]}],"de":[{"k":"p","lines":[["Alles, was ihr in Worten und Werken tut, geschehe im Namen Jesu, des Herrn; durch ihn dankt Gott, dem Vater."]]}]},"part":"communionAntiphon"},{"slot":"475","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"476","text":{"la":[{"k":"p","lines":[["Gubérna, quǽsumus, Dómine, temporálibus adiuméntis quos dignáris ætérnis recreáre mystériis. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Conduzi, Senhor, com vosso auxílio"],["aqueles que vos dignais recriar"],["com os sacramentos da vida eterna."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Govern with temporal assistance, we pray, O Lord,"],["those you graciously renew with these eternal mysteries."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te rogamos, Señor,"],["que gobiernes con los auxilios temporales"],["a quienes te dignas renovar con los misterios eternos."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Sostieni, o Signore, con il nutrimento quotidiano coloro che rinnovi con il pane di vita eterna. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur :"],["ceux que tu as voulu renouveler par tes mystères éternels,"],["dirige-les en leur donnant des secours temporels."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast uns im heiligen Sakrament mit dem Brot gestärkt, das vom Himmel kommt. Sichere auch unser zeitliches Wohl durch deine väterliche Sorge. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.28"],"title":{"la":"II. PRO CIRCUMSTANTIIS PUBLICIS","pt-BR":"II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA","en-US":"II. FOR CIVIL NEEDS","es":"II. POR LAS NECESIDADES PÚBLICAS","it":"PER LA SOCIETÀ CIVILE","fr":"II. POUR DES CIRCONSTANCES PUBLIQUES","de":"II. FÜR STAAT UND GESELLSCHAFT"},"subtitle":{"la":"26. PRO HUMANO LABORE SANCTIFICANDO B","pt-BR":"26. PELA SANTIFICAÇÃO DO TRABALHO HUMANO B","en-US":"26. FOR THE SANCTIFICATION OF HUMAN LABOR B Other Prayers","es":"26. POR LA SANTIFICACIÓN DEL TRABAJO HUMANO B","it":"26. PER LA SANTIFICAZIONE DEL LAVORO B. AlTre orazioni","fr":"26. POUR LA SANCTIFICATION DU TRAVAIL HUMAIN B","de":"26. UM SEGEN FÜR DIE ARBEIT B Weitere Orationen"}}
+{
+ "id": "various-needs.36",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. PRO CIRCUMSTANTIIS PUBLICIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "26. PRO HUMANO LABORE SANCTIFICANDO"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "26. PELA SANTIFICAÇÃO DO TRABALHO HUMANO"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. FOR CIVIL NEEDS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "26. FOR THE SANCTIFICATION OF HUMAN LABOR"
+       ],
+       [
+        "B Other Prayers"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. POR LAS NECESIDADES PÚBLICAS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "26. POR LA SANTIFICACIÓN DEL TRABAJO HUMANO"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "PER LA SOCIETÀ CIVILE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "26. PER LA SANTIFICAZIONE DEL LAVORO"
+       ],
+       [
+        "B. AlTre orazioni"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. POUR DES CIRCONSTANCES PUBLIQUES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "26. POUR LA SANCTIFICATION DU TRAVAIL HUMAIN"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. FÜR STAAT UND GESELLSCHAFT"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "26. UM SEGEN FÜR DIE ARBEIT"
+       ],
+       [
+        "B"
+       ],
+       [
+        "Weitere Orationen"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Gen 1, 1. 27. 31"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Gn 1, 1. 27. 31"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Gn 1: 1, 27, 31"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Gen 1, 1. 27. 31"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Gen 1, 1. 27. 31"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Gen 1, 27. 31"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In princípio creávit Deus cælum et terram. Et creávit Deus hóminem ad imáginem suam. Vidítque Deus cuncta quæ fécerat, et erant valde bona."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No princípio, Deus criou o céu e a terra."
+       ],
+       [
+        "E Deus criou o ser humano à sua imagem."
+       ],
+       [
+        "E Deus viu tudo quanto havia feito,"
+       ],
+       [
+        "e era muito bom."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In the beginning, when god created the heavens and the earth,"
+       ],
+       [
+        "God created man in his image;"
+       ],
+       [
+        "God looked at everything he had made, and he found it very good."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al principio creó Dios el cielo y la tierra. Y creó Dios al hombre a su imagen. Y vio Dios todo lo que había hecho, y era muy bueno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Au commencement, Dieu créa le ciel et la terre."
+       ],
+       [
+        "Dieu créa l'homme à son image."
+       ],
+       [
+        "Dieu vit tout ce qu'il avait fait :"
+       ],
+       [
+        "cela était très bon."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Im Anfang schuf Gott Himmel und Erde. Und Gott schuf den Menschen als sein Abbild. Gott sah alles an, was er gemacht hatte, und es war sehr gut."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 89, 17"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Cf. Sl 89, 17"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 89, 17"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 89, 17"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 89, 17"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Vgl. Ps 90 (89), 17"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bónitas tua, Dómine, sit super nos, et opus mánuum nostrárum secúnda nobis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vossa bondade, Senhor, repouse sobre nós"
+       ],
+       [
+        "e fazei dar frutos o labor de nossas mãos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May your favor, O Lord, be upon us,"
+       ],
+       [
+        "and may you give success to the work of our hands."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the goodness of the Lord be upon us, and give success to the work of our hands."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Baje a nosotros la bondad del Señor y haga prósperas las obras de nuestras manos."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que vienne sur nous ta douceur, Seigneur !"
+       ],
+       [
+        "Consolide pour nous l'ouvrage de nos mains."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deine Güte, Herr, komme über uns; lass das Werk unserer Hände gedeihen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui naturálium rerum virtútes hóminum labóri súbdere voluísti, concéde propítius, ut, opéribus nostris christiáno spíritu inténti, sincéram caritátem cum frátribus exercére, et creatióni divínæ perficiéndæ sóciam óperam præstáre mereámur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus,"
+       ],
+       [
+        "quisestes submeter as forças da natureza ao trabalho humano;"
+       ],
+       [
+        "concedei propício que,"
+       ],
+       [
+        "animados com espírito cristão em nosso labor"
+       ],
+       [
+        "e exercendo sincera caridade para com os irmãos e irmãs,"
+       ],
+       [
+        "colaboremos no aperfeiçoamento da vossa criação."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who willed to subject"
+       ],
+       [
+        "the forces of nature to human labor,"
+       ],
+       [
+        "mercifully grant"
+       ],
+       [
+        "that, undertaking in a Christian spirit what we are to do,"
+       ],
+       [
+        "we may merit to join our brothers and sisters"
+       ],
+       [
+        "in practicing sincere charity"
+       ],
+       [
+        "and in advancing the fulfillment of your divine work of creation. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "tú quisiste someter las fuerzas de la naturaleza"
+       ],
+       [
+        "al trabajo del hombre,"
+       ],
+       [
+        "concédenos, por tu bondad,"
+       ],
+       [
+        "entregados a nuestras tareas con espíritu cristiano,"
+       ],
+       [
+        "practicar la caridad sincera con nuestros hermanos"
+       ],
+       [
+        "y colaborar al perfeccionamiento de tu creación."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che hai voluto affidare le risorse della natura al lavoro dell'uomo, donaci di svolgere le nostre attività con spirito cristiano e di vivere con i fratelli nella carità sincera, collaborando con te al compimento della creazione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu veux que l'homme, par son labeur,"
+       ],
+       [
+        "s'emploie à maîtriser les énergies du monde ;"
+       ],
+       [
+        "dans ta bonté, fais que nos travaux"
+       ],
+       [
+        "soient animés par l'esprit du Christ,"
+       ],
+       [
+        "pour que nous puissions pratiquer"
+       ],
+       [
+        "une authentique charité envers nos frères"
+       ],
+       [
+        "et travailler ensemble à l'achèvement de ta création."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du hast deine Schöpfung mit ihren Kräften der Arbeit des Menschen anvertraut. Gib, dass wir in christlichem Geist unsere Aufgabe erfüllen, unseren Brüdern in selbstloser Liebe dienen und Mitarbeiter werden an der Vollendung deines Werkes. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súscipe, Dómine, múnera supplicántis Ecclésiæ, et præsta, ut, per humánum quem tibi offérimus labórem, óperi Christi redemptóris consociári mereámur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aceitai, Senhor, os dons da Igreja em oração"
+       ],
+       [
+        "e, pelo trabalho humano que vos oferecemos,"
+       ],
+       [
+        "mereçamos ser associados à obra de Cristo redentor."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Receive, O Lord, the offerings and supplications of your Church and grant that, through the human labor we offer you,"
+       ],
+       [
+        "we may have a part in the work of Christ the Redeemer."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acepta, Señor,"
+       ],
+       [
+        "los dones de tu Iglesia en oración,"
+       ],
+       [
+        "y haz que, por el trabajo del hombre que ahora te ofrecemos,"
+       ],
+       [
+        "merezcamos asociarnos a la obra redentora de Cristo."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, o Signore, i doni della tua Chiesa in preghiera, perché con l'offerta del lavoro umano possiamo essere associati all'opera di Cristo redentore. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reçois, Seigneur, les dons de l'Église qui te supplie :"
+       ],
+       [
+        "accorde-nous, par le travail humain que nous t'offrons,"
+       ],
+       [
+        "d'être associés à l'œuvre du Christ, le Rédempteur."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, höre auf das Gebet deiner Kirche: Nimm unsere Arbeit und unsere Mühen, die wir dir weihen, in das Werk des Erlösers Jesus Christus auf, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Col 3, 17"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cl 3, 17"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Col 3, 17"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Col 3, 17"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Col 3, 17"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Kol 3, 17"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omne quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Iesu Christi, grátias agéntes Deo et Patri per ipsum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tudo o que fizerdes, em palavras ou obras,"
+       ],
+       [
+        "seja feito em nome do Senhor Jesus Cristo."
+       ],
+       [
+        "Por meio dele, dai graças a Deus, o Pai."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Whatever you do in word or deed,"
+       ],
+       [
+        "do everything in the name of the Lord Jesus Christ, giving thanks to god the father through him"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Todo lo que de palabra o de obra realicéis, sea todo en nombre del Señor Jesucristo, dando gracias a Dios Padre por medio de él."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "out ce que vous dites, tout ce que vous faites,"
+       ],
+       [
+        "que ce soit toujours au nom du Seigneur Jésus Christ,"
+       ],
+       [
+        "en offrant par lui votre action de grâce à Dieu le Père."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alles, was ihr in Worten und Werken tut, geschehe im Namen Jesu, des Herrn; durch ihn dankt Gott, dem Vater."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gubérna, quǽsumus, Dómine, temporálibus adiuméntis quos dignáris ætérnis recreáre mystériis. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Conduzi, Senhor, com vosso auxílio"
+       ],
+       [
+        "aqueles que vos dignais recriar"
+       ],
+       [
+        "com os sacramentos da vida eterna."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Govern with temporal assistance, we pray, O Lord,"
+       ],
+       [
+        "those you graciously renew with these eternal mysteries."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te rogamos, Señor,"
+       ],
+       [
+        "que gobiernes con los auxilios temporales"
+       ],
+       [
+        "a quienes te dignas renovar con los misterios eternos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sostieni, o Signore, con il nutrimento quotidiano coloro che rinnovi con il pane di vita eterna. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur :"
+       ],
+       [
+        "ceux que tu as voulu renouveler par tes mystères éternels,"
+       ],
+       [
+        "dirige-les en leur donnant des secours temporels."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast uns im heiligen Sakrament mit dem Brot gestärkt, das vom Himmel kommt. Sichere auch unser zeitliches Wohl durch deine väterliche Sorge. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.28"
+ ],
+ "title": {
+  "la": "II. PRO CIRCUMSTANTIIS PUBLICIS",
+  "pt-BR": "II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA",
+  "en-US": "II. FOR CIVIL NEEDS",
+  "es": "II. POR LAS NECESIDADES PÚBLICAS",
+  "it": "PER LA SOCIETÀ CIVILE",
+  "fr": "II. POUR DES CIRCONSTANCES PUBLIQUES",
+  "de": "II. FÜR STAAT UND GESELLSCHAFT"
+ },
+ "subtitle": {
+  "la": "26. PRO HUMANO LABORE SANCTIFICANDO B",
+  "pt-BR": "26. PELA SANTIFICAÇÃO DO TRABALHO HUMANO B",
+  "en-US": "26. FOR THE SANCTIFICATION OF HUMAN LABOR B Other Prayers",
+  "es": "26. POR LA SANTIFICACIÓN DEL TRABAJO HUMANO B",
+  "it": "26. PER LA SANTIFICAZIONE DEL LAVORO B. AlTre orazioni",
+  "fr": "26. POUR LA SANCTIFICATION DU TRAVAIL HUMAIN B",
+  "de": "26. UM SEGEN FÜR DIE ARBEIT B Weitere Orationen"
+ }
+}

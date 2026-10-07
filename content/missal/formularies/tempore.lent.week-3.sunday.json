@@ -1,1 +1,2147 @@
-{"id":"tempore.lent.week-3.sunday","source":"tiempos/tiempos_cuaresma#Q030","kind":"tempore","items":[{"slot":"271","text":{"la":[{"k":"h2","lines":[["DOMINICA III IN QUADRAGESIMA"]]},{"k":"p","lines":[[{"m":"rubric","t":"Hac dominica celebratur primum scrutinium præparatorium ad baptismum pro catechumenis, qui in Vigilia paschali ad sacramenta initiationis christianæ admittentur, adhibitis orationibus et intercessionibus propriis, ut infra."}]]}],"pt-BR":[{"k":"h2","lines":[["TERCEIRO DOMINGO DA QUARESMA"]]},{"k":"p","lines":[[{"m":"rubric","t":"Neste domingo, celebra-se o primeiro escrutínio em preparação ao Batismo dos catecúmenos que na Vigília Pascal serão admitidos aos sacramentos da Iniciação cristã. Rezam-se as orações próprias."}]]}],"en-US":[{"k":"h2","lines":[["Season of Lent"],["3rd Week: Sunday"]]},{"k":"p","lines":[[{"m":"rubric","t":"On this Sunday is celebrated the first scrutiny in preparation for the Baptism of the catechumens who are to be admitted to the Sacraments of Christian Initiation at the Easter Vigil, using the proper prayers and intercessions as given below."}]]}],"es":[{"k":"h2","lines":[["III DOMINGO DE CUARESMA"]]},{"k":"p","lines":[[{"m":"rubric","t":"Este domingo se celebra el primer escrutinio preparatorio al bautismo de los catecúmenos que en la Vigilia pascual serán admitidos a los sacramentos de la Iniciación cristiana, con oraciones e intercesiones propias."}]]}],"it":[{"k":"h2","lines":[["III DOMENICA DI QUARESIMA"]]},{"k":"p","lines":[[{"m":"rubric","t":"In questa domenica, dove si celebra il primo degli scrutini di preparazione al Battesimo per i catecumeni che, nella Veglia Pasquale, saranno ammessi ai sacramenti dell'iniziazione cristiana, si utilizzi il formulario proprio"}]]}],"fr":[{"k":"h2","lines":[["3e DIMANCHE DE CARÊME"]]},{"k":"p","lines":[[{"m":"rubric","t":"Dans les assemblées où, ce dimanche, a lieu un des scrutins préparatoires au baptême des adultes, on peut employer, au lieu du formulaire du dimanche, le formulaire prévu pour ce scrutin parmi les messes rituelles. Dans une assemblée où n'a pas lieu un tel scrutin, mais qui veut s'associer à la prière de l'Église pour les futurs baptisés de Pâques, on peut choisir de dire la collecte pour les catéchumènes."}]]}],"de":[{"k":"h2","lines":[["3. FASTENSONNTAG"]]},{"k":"p","lines":[[{"m":"rubric","t":"Wenn an diesem Sonntag Skrutinien zur Vorbereitung Erwachsener auf die Taufe stattfinden, können die dafür vorgesehenen Orationen und die Einschübe im Hochgebet genommen werden."}]]}]},"part":"title"},{"slot":"272","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ps 24, 15-16"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 24, 15-16"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 25 (24): 15-16"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 24, 15-16"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Sal 24, 15-16"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ps 24, 15-16"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 25 (24), 15-16"}]},"part":"entranceAntiphon"},{"slot":"273","text":{"la":[{"k":"p","lines":[["Oculi mei semper ad Dóminum, quia ipse evéllet de láqueo pedes meos. Réspice in me et miserére mei, quóniam únicus et pauper sum ego."]]}],"pt-BR":[{"k":"p","lines":[["Tenho os olhos sempre fitas no Senhor,"],["pois ele tira os meus pés das armadilhas."],["Voltai-vos para mim, tende piedade,"],["porque sou pobre, estou sozinho e infeliz!"]]}],"en-US":[{"k":"p","lines":[["My eyes are always on the Lord,"],["for he rescues my feet from the snare. Turn to me and have mercy on me, for I am alone and poor."]]}],"es":[{"k":"p","lines":[["Tengo los ojos puestos en el Señor, porque él saca mis pies de la red. Mírame, oh Dios, y ten piedad de mí, que estoy solo y afligido."]]}],"it":[{"k":"p","lines":[["I miei occhi sono sempre rivolti al Signore: egli libera dal laccio il mio piede. Volgiti a me e abbi pietà, perché sono povero e solo."]]}],"fr":[{"k":"p","lines":[["J'ai toujours les yeux sur le Seigneur,"],["lui qui dégage mes pieds du filet :"],["Regarde, Seigneur, et prends pitié de moi,"],["car je suis seul et misérable."]]}],"de":[{"k":"p","lines":[["Meine Augen schauen stets auf den Herrn;"],["denn er befreit meine Füße aus dem Netz."],["Wende dich zu mir und sei mir gnädig;"],["denn ich bin einsam und gebeugt."]]}]},"part":"entranceAntiphon"},{"slot":"274","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Ez 36, 23-26"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Cf. Ez 36, 23-26"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Cf. Ez 36, 23-26"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Cf. Ez 36, 23-26"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Cf. Ez 36, 23-26"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Ez 36, 23-26"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Ez 36, 22-26"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"275","text":{"la":[{"k":"p","lines":[["Cum sanctificátus fúero in vobis, congregábo vos de univérsis terris; et effúndam super vos aquam mundam, et mundabímini ab ómnibus inquinaméntis vestris, et dabo vobis spíritum novum, dicit Dóminus."]]}],"pt-BR":[{"k":"p","lines":[["Quando, por meio de vós, mostrar minha santidade,"],["eu vos tomarei dentre as nações."],["Haverei de derramar sobre vós uma água pura,"],["e de vossas imundices sereis purificados;"],["dar-vos-ei um novo espírito e um novo coração, diz o Senhor."]]}],"en-US":[{"k":"p","lines":[["I will gather you from all the foreign lands; and I will pour clean water upon you"],["and cleanse you from all your impurities,"],["and I will give you a new spirit, says the Lord."]]}],"es":[{"k":"p","lines":[["Cuando, por medio de vosotros, haga ver mi santidad, os reuniré de todos los países; derramaré sobre vosotros un agua pura que os purificará de todas vuestras inmundicias, y os daré un espíritu nuevo, dice el Señor."]]}],"it":[{"k":"p","lines":[["Quando mostrerò la mia santità in voi, vi radunerò da ogni terra; vi aspergerò con acqua pura e sarete purificati da tutte le vostre impurità e metterò dentro di voi uno spirito nuovo."]]}],"fr":[{"k":"p","lines":[["« Je vous rassemblerai de tous les pays, dit le Seigneur,"],["je verserai sur vous une eau pure, et vous serez purifiés,"],["Je vous donnerai un esprit nouveau."],["Ainsi, par vous, je montrerai que je suis le Dieu Saint. »"]]}],"de":[{"k":"p","lines":[["Wort Gottes, des Herrn:"],["Ich werde euch beweisen, dass ich heilig bin."],["Ich sammle euch aus allen Ländern."],["Ich gieße reines Wasser über euch, damit ihr rein werdet,"],["und gebe euch einen neuen Geist."]]}]},"part":"entranceAntiphon"},{"slot":"276","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Non dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Não se diz o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is not said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"No se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Non si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On ne dit pas le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Kein "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}]},"part":"gloria"},{"slot":"277","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"278","text":{"la":[{"k":"p","lines":[["Deus, ómnium misericordiárum et totíus bonitátis auctor, qui peccatórum remédia in ieiúniis, oratiónibus et eleemósynis demonstrásti, hanc humilitátis nostræ confessiónem propítius intuére, ut, qui inclinámur consciéntia nostra, tua semper misericórdia sublevémur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, autor de toda misericórdia e bondade,"],["que indicastes o jejum, a oração e a esmola"],["como remédio contra o pecado,"],["acolhei benigno esta confissão da nossa humildade,"],["para que, reconhecendo as nossas faltas,"],["sejamos sempre regenerados pela vossa misericórdia."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, author of every mercy and of all goodness, who in fasting, prayer and almsgiving"],["have shown us a remedy for sin,"],["look graciously on this confession of our lowliness, that we, who are bowed down by our conscience, may always be lifted up by your mercy."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios, autor de toda misericordia y bondad, que aceptas el ayuno, la oración y la limosna como remedio de nuestros pecados, mira con amor el reconocimiento de nuestra pequeñez y levanta con tu misericordia a los que nos sentimos abatidos por nuestra conciencia."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, fonte di misericordia e di ogni bene, che hai proposto a rimedio dei peccati il digiuno, la preghiera e le opere di carità fraterna, accogli la confessione della nostra miseria perché, oppressi dal peso della colpa, siamo sempre sollevati dalla tua misericordia. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Tu es la source de toute bonté, Seigneur,"],["et toute miséricorde vient de toi ;"],["Tu nous as dit comment guérir du péché"],["par le jeûne, la prière et le partage ;"],["Écoute l'aveu de notre faiblesse :"],["nous avons conscience de nos fautes,"],["patiemment, relève-nous avec amour."],["Par Jésus Christ"]]}],"de":[{"k":"p","lines":[["Gott, unser Vater, du bist der Quell des Erbarmens und der Güte,"],["wir stehen als Sünder vor dir, und unser Gewissen klagt uns an."],["Sieh auf unsere Not und lass uns Vergebung finden"],["durch Fasten, Gebet und Werke der Liebe."],["Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"279","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur Credo."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o Creio."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Credo"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le Credo."}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Credo."}]]}]},"part":"creed"},{"slot":"280","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"281","text":{"la":[{"k":"p","lines":[["His sacrifíciis, Dómine, concéde placátus, ut, qui própriis orámus absólvi delíctis, fratérna dimíttere studeámus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor de bondade,"],["concedei-nos por este sacrifício"],["que, pedindo perdão de nossos pecados,"],["saibamos perdoar os nossos irmãos."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Be pleased, O Lord, with these sacrificial offerings, and grant that we who beseech pardon for our own sins, may take care to forgive our neighbor."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, por la celebración de este sacrificio"],["concédenos en tu bondad"],["que, al pedirte el perdón de nuestras ofensas,"],["nos esforcemos en perdonar las de nuestros hermanos."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Per questo sacrificio di riconciliazione, o Padre, rimetti i nostri debiti e donaci la forza di perdonare ai nostri fratelli. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Que cette eucharistie nous obtienne, Seigneur,"],["à nous qui implorons ton pardon,"],["la grâce de savoir pardonner à nos frères."],["Par Jésus."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, befreie uns durch dieses Opfer von unseren Sünden"],["und schenke uns die Kraft, auch den Brüdern zu vergeben,"],["wenn sie an uns schuldig geworden sind."],["Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"283","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]]}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]]}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]]}],"de":[{"k":"h4","lines":[["Kommunionvers"]]}]},"part":"communionAntiphon"},{"slot":"284","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Quando legitur Evangelium de Samaritana:"}]],"cite":"Io 4, 13-14"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Quando for proclamado o Evangelho da Samaritana:"}]],"cite":"Cf. Jo 4, 14"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"When the gospel of the Samaritan woman is read:"}]],"cite":"Jn 4: 13-14"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Cuando se lee el evangelio de la Samaritana:"}]],"cite":"Cf. Jn 4, 13-14"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"★ A"}]],"cite":"Cf. Gv 4, 14"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Quand on a lu l'évangile de la Samaritaine :"}]],"cite":"Jn 4, 13-14"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Wenn das Evangelium von der Samariterin gelesen wurde:"}]],"cite":"Joh 4, 13-14"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"285","text":{"la":[{"k":"p","lines":[["Qui bíberit aquam, quam ego dabo ei, dicit Dóminus, fiet in eo fons aquæ saliéntis in vitam ætérnam."]]}],"pt-BR":[{"k":"p","lines":[["Daquele que beber da água que eu darei,"],["diz o Senhor, brotará uma fonte que jorra para a vida eterna."]]}],"en-US":[{"k":"p","lines":[["For anyone who drinks it, says the Lord, the water I shall give will become in him a spring welling up to eternal life."]]}],"es":[{"k":"p","lines":[["El que beba del agua que yo le daré, dice el Señor, se convertirá dentro de él en un surtidor de agua que salta hasta la vida eterna."]]}],"it":[{"k":"p","lines":[["«Chi berrà dell'acqua che io gli darò», dice il Signore, «avrà in sé una sorgente che zampilla per la vita eterna»."]]}],"fr":[{"k":"p","lines":[["« Qui boira de l'eau que je lui donnerai"],["n'aura plus jamais soif, dit le Seigneur ;"],["Cette eau deviendra en lui"],["source jaillissante pour la vie éternelle. »"]]}],"de":[{"k":"p","lines":[["Wer von dem Wasser trinkt, das ich ihm geben werde, wird niemals mehr Durst haben. Es wird in ihm zur Quelle, deren Wasser ins ewige Leben sprudelt – so spricht der Herr."]]}]},"part":"communionAntiphon"},{"slot":"286","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Quando legitur aliud Evangelium:"}]],"cite":"Cf. Ps 83, 4-5"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Quando for proclamado outro Evangelho:"}]],"cite":"Cf. Sl 83, 4-5"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"When other gospels are read:"}]],"cite":"Cf. Ps 84 (83): 4-5"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Cuando se lee otro evangelio:"}]],"cite":"Sal 83, 4-5"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"★ B"}]],"cite":"Gv 2, 23"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Dans les autres cas :"}]],"cite":"Cf. Ps 83, 4-5"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Wenn ein anderes Evangelium gelesen wurde:"}]],"cite":"Ps 84 (83), 4-5"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"287","text":{"la":[{"k":"p","lines":[["Passer invénit sibi domum, et turtur nidum, ubi repónat pullos suos: altária tua, Dómine virtútum, Rex meus, et Deus meus! Beáti qui hábitant in domo tua, in sǽculum sǽculi laudábunt te."]]}],"pt-BR":[{"k":"p","lines":[["O pássaro encontra abrigo"],["e a andorinha um ninho para pôr os seus filhotes:"],["os vossos altares, Senhor do universo, meu rei e meu Deus!"],["Felizes os que habitam em vossa casa:"],["sem cessar vos louvarão."]]}],"en-US":[{"k":"p","lines":[["The sparrow finds a home,"],["and the swallow a nest for her young:"],["by your altars, O Lord of hosts, my King and my God. Blessed are they who dwell in your house,"],["for ever singing your praise."]]}],"es":[{"k":"p","lines":[["Hasta el gorrión ha encontrado una casa; la golondrina, un nido donde colocar sus polluelos: tus altares, Señor del universo, Rey mío y Dios mío. Dichosos los que viven en tu casa, alabándote siempre."]]}],"it":[{"k":"p","lines":[["Molti, vedendo i segni che egli compiva, credettero nel suo nome."]]},{"k":"p","lines":[[{"m":"rubric","t":"★ C"}]],"cite":"Lc 13, 5"},{"k":"p","lines":[["«Se non vi convertite, perirete tutti», dice il Signore."]]},{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]],"cite":"Sal 83, 4-5"},{"k":"p","lines":[["Anche il passero trova una casa e la rondine il nido dove porre i suoi piccoli, presso i tuoi altari, Signore degli eserciti, mio re e mio Dio. Beato chi abita nella tua casa: senza fine canta le tue lodi."]]}],"fr":[{"k":"p","lines":[["Heureux ceux qui approchent de ton autel, Seigneur ;"],["Heureux les habitants de ta maison :"],["ils peuvent toujours te louer,"],["mon Roi, mon Dieu !"]]}],"de":[{"k":"p","lines":[["Der Sperling findet ein Haus und die Schwalbe ein Nest für ihre Jungen – deine Altäre, Herr der Heerscharen, mein Gott und mein König! Selig, die wohnen in deinem Haus, die dich allzeit loben!"]]}]},"part":"communionAntiphon"},{"slot":"288","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"289","text":{"la":[{"k":"p","lines":[["Suméntes pignus cæléstis arcáni, et in terra pósiti iam supérno pane satiáti, te, Dómine, súpplices deprecámur, ut, quod in nobis mystério géritur, ópere impleátur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, tendo recebido o penhor do mistério celeste,"],["e já saciados na terra com o pão do céu,"],["nós vos pedimos humildemente"],["que se manifeste em nossa vida"],["o que o sacramento realizou em nós."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["As we receive the pledge"],["of things yet hidden in heaven"],["and are nourished while still on earth"],["with the Bread that comes from on high,"],["we humbly entreat you, O Lord,"],["that what is being brought about in us in mystery may come to true completion."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Alimentados ya en la tierra con el pan del cielo, prenda de eterna salvación, te suplicamos, Señor, que se haga realidad en nuestra vida lo que hemos recibido en este sacramento."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Dio, che ci nutri in questa vita con il pane del cielo, pegno della tua gloria, fa' che manifestiamo nelle nostre opere la realtà presente nel sacramento che celebriamo. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous avons reçu de toi, Seigneur, un avant-goût du ciel"],["en mangeant dés ici-bas le pain du Royaume,"],["et nous te supplions encore :"],["Fais-nous manifester par toute notre vie"],["ce que le sacrement vient d'accomplir en nous."],["Par Jésus."]]}],"de":[{"k":"p","lines":[["Herr und Gott, du hast uns mit dem Brot des Himmels gesättigt"],["und uns in dieser Speise ein Unterpfand dessen gegeben,"],["was unseren Augen noch verborgen ist."],["Lass in unserem Leben sichtbar werden, was wir im Sakrament empfangen haben."],["Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"290","text":{"la":[{"k":"h4","lines":[["Oratio super populum"]]}],"pt-BR":[{"k":"h4","lines":[["Oração sobre o povo"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the People"]]}],"es":[{"k":"h4","lines":[["Oración sobre el pueblo"]]}],"it":[{"k":"h4","lines":[["Orazione sul popolo (ad libitum)"]]}],"fr":[{"k":"h4","lines":[["Prière sur le peuple"]]}]},"part":"prayerOverPeople"},{"slot":"291","text":{"la":[{"k":"p","lines":[["Rege, Dómine, quǽsumus, tuórum corda fidélium, et servis tuis hanc grátiam largíre propítius, ut in tui et próximi dilectióne manéntes, plenitúdinem mandatórum tuórum adímpleant. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Dirigi, Senhor, nós vos pedimos,"],["os corações dos vossos fiéis,"],["e concedei benigno a vossos servos a graça de,"],["permanecendo no amor a vós e ao próximo,"],["cumprir plenamente os vossos mandamentos."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Direct, O Lord, we pray, the hearts of your faithful, and in your kindness grant your servants this grace: that, abiding in the love of you and their neighbor, they may fulfill the whole of your commands."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te pedimos, Señor, que dirijas los corazones de tus fieles y les concedas benigno la gracia de permanecer firmes en el amor a ti y al prójimo, y de cumplir plenamente tus mandamientos."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guida, o Signore, i cuori dei tuoi fedeli: nella tua bontà concedi loro la grazia di rimanere nel tuo amore e nella carità fraterna per adempiere la pienezza dei tuoi comandamenti. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dirige, Seigneur, le cœur de tes fidèles"],["et, dans ta bienveillance, donne à ceux qui te servent"],["la grâce d'accomplir la plénitude de tes commandements"],["en demeurant dans l'amour pour toi et pour le prochain."],["Par le Christ, notre Seigneur."]]}]},"part":"prayerOverPeople"}],"precedence":2,"prefaces":["preface.9","preface.10"],"title":{"la":"DOMINICA III IN QUADRAGESIMA","pt-BR":"TERCEIRO DOMINGO DA QUARESMA","en-US":"Season of Lent — 3rd Week: Sunday","es":"III DOMINGO DE CUARESMA","it":"III DOMENICA DI QUARESIMA","fr":"3e DIMANCHE DE CARÊME","de":"3. FASTENSONNTAG"}}
+{
+ "id": "tempore.lent.week-3.sunday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMINICA III IN QUADRAGESIMA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Hac dominica celebratur primum scrutinium præparatorium ad baptismum pro catechumenis, qui in Vigilia paschali ad sacramenta initiationis christianæ admittentur, adhibitis orationibus et intercessionibus propriis, ut infra."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "TERCEIRO DOMINGO DA QUARESMA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Neste domingo, celebra-se o primeiro escrutínio em preparação ao Batismo dos catecúmenos que na Vigília Pascal serão admitidos aos sacramentos da Iniciação cristã. Rezam-se as orações próprias."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Season of Lent"
+       ],
+       [
+        "3rd Week: Sunday"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On this Sunday is celebrated the first scrutiny in preparation for the Baptism of the catechumens who are to be admitted to the Sacraments of Christian Initiation at the Easter Vigil, using the proper prayers and intercessions as given below."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III DOMINGO DE CUARESMA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Este domingo se celebra el primer escrutinio preparatorio al bautismo de los catecúmenos que en la Vigilia pascual serán admitidos a los sacramentos de la Iniciación cristiana, con oraciones e intercesiones propias."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III DOMENICA DI QUARESIMA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In questa domenica, dove si celebra il primo degli scrutini di preparazione al Battesimo per i catecumeni che, nella Veglia Pasquale, saranno ammessi ai sacramenti dell'iniziazione cristiana, si utilizzi il formulario proprio"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "3e DIMANCHE DE CARÊME"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dans les assemblées où, ce dimanche, a lieu un des scrutins préparatoires au baptême des adultes, on peut employer, au lieu du formulaire du dimanche, le formulaire prévu pour ce scrutin parmi les messes rituelles. Dans une assemblée où n'a pas lieu un tel scrutin, mais qui veut s'associer à la prière de l'Église pour les futurs baptisés de Pâques, on peut choisir de dire la collecte pour les catéchumènes."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "3. FASTENSONNTAG"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Wenn an diesem Sonntag Skrutinien zur Vorbereitung Erwachsener auf die Taufe stattfinden, können die dafür vorgesehenen Orationen und die Einschübe im Hochgebet genommen werden."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ps 24, 15-16"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 24, 15-16"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 25 (24): 15-16"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 24, 15-16"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Sal 24, 15-16"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ps 24, 15-16"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 25 (24), 15-16"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oculi mei semper ad Dóminum, quia ipse evéllet de láqueo pedes meos. Réspice in me et miserére mei, quóniam únicus et pauper sum ego."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tenho os olhos sempre fitas no Senhor,"
+       ],
+       [
+        "pois ele tira os meus pés das armadilhas."
+       ],
+       [
+        "Voltai-vos para mim, tende piedade,"
+       ],
+       [
+        "porque sou pobre, estou sozinho e infeliz!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "My eyes are always on the Lord,"
+       ],
+       [
+        "for he rescues my feet from the snare. Turn to me and have mercy on me, for I am alone and poor."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tengo los ojos puestos en el Señor, porque él saca mis pies de la red. Mírame, oh Dios, y ten piedad de mí, que estoy solo y afligido."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I miei occhi sono sempre rivolti al Signore: egli libera dal laccio il mio piede. Volgiti a me e abbi pietà, perché sono povero e solo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "J'ai toujours les yeux sur le Seigneur,"
+       ],
+       [
+        "lui qui dégage mes pieds du filet :"
+       ],
+       [
+        "Regarde, Seigneur, et prends pitié de moi,"
+       ],
+       [
+        "car je suis seul et misérable."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Meine Augen schauen stets auf den Herrn;"
+       ],
+       [
+        "denn er befreit meine Füße aus dem Netz."
+       ],
+       [
+        "Wende dich zu mir und sei mir gnädig;"
+       ],
+       [
+        "denn ich bin einsam und gebeugt."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ez 36, 23-26"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ez 36, 23-26"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ez 36, 23-26"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ez 36, 23-26"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ez 36, 23-26"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ez 36, 23-26"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Ez 36, 22-26"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum sanctificátus fúero in vobis, congregábo vos de univérsis terris; et effúndam super vos aquam mundam, et mundabímini ab ómnibus inquinaméntis vestris, et dabo vobis spíritum novum, dicit Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando, por meio de vós, mostrar minha santidade,"
+       ],
+       [
+        "eu vos tomarei dentre as nações."
+       ],
+       [
+        "Haverei de derramar sobre vós uma água pura,"
+       ],
+       [
+        "e de vossas imundices sereis purificados;"
+       ],
+       [
+        "dar-vos-ei um novo espírito e um novo coração, diz o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will gather you from all the foreign lands; and I will pour clean water upon you"
+       ],
+       [
+        "and cleanse you from all your impurities,"
+       ],
+       [
+        "and I will give you a new spirit, says the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cuando, por medio de vosotros, haga ver mi santidad, os reuniré de todos los países; derramaré sobre vosotros un agua pura que os purificará de todas vuestras inmundicias, y os daré un espíritu nuevo, dice el Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando mostrerò la mia santità in voi, vi radunerò da ogni terra; vi aspergerò con acqua pura e sarete purificati da tutte le vostre impurità e metterò dentro di voi uno spirito nuovo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "« Je vous rassemblerai de tous les pays, dit le Seigneur,"
+       ],
+       [
+        "je verserai sur vous une eau pure, et vous serez purifiés,"
+       ],
+       [
+        "Je vous donnerai un esprit nouveau."
+       ],
+       [
+        "Ainsi, par vous, je montrerai que je suis le Dieu Saint. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort Gottes, des Herrn:"
+       ],
+       [
+        "Ich werde euch beweisen, dass ich heilig bin."
+       ],
+       [
+        "Ich sammle euch aus allen Ländern."
+       ],
+       [
+        "Ich gieße reines Wasser über euch, damit ihr rein werdet,"
+       ],
+       [
+        "und gebe euch einen neuen Geist."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Non dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Não se diz o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is not said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "No se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Non si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On ne dit pas le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Kein "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, ómnium misericordiárum et totíus bonitátis auctor, qui peccatórum remédia in ieiúniis, oratiónibus et eleemósynis demonstrásti, hanc humilitátis nostræ confessiónem propítius intuére, ut, qui inclinámur consciéntia nostra, tua semper misericórdia sublevémur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, autor de toda misericórdia e bondade,"
+       ],
+       [
+        "que indicastes o jejum, a oração e a esmola"
+       ],
+       [
+        "como remédio contra o pecado,"
+       ],
+       [
+        "acolhei benigno esta confissão da nossa humildade,"
+       ],
+       [
+        "para que, reconhecendo as nossas faltas,"
+       ],
+       [
+        "sejamos sempre regenerados pela vossa misericórdia."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, author of every mercy and of all goodness, who in fasting, prayer and almsgiving"
+       ],
+       [
+        "have shown us a remedy for sin,"
+       ],
+       [
+        "look graciously on this confession of our lowliness, that we, who are bowed down by our conscience, may always be lifted up by your mercy."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios, autor de toda misericordia y bondad, que aceptas el ayuno, la oración y la limosna como remedio de nuestros pecados, mira con amor el reconocimiento de nuestra pequeñez y levanta con tu misericordia a los que nos sentimos abatidos por nuestra conciencia."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, fonte di misericordia e di ogni bene, che hai proposto a rimedio dei peccati il digiuno, la preghiera e le opere di carità fraterna, accogli la confessione della nostra miseria perché, oppressi dal peso della colpa, siamo sempre sollevati dalla tua misericordia. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu es la source de toute bonté, Seigneur,"
+       ],
+       [
+        "et toute miséricorde vient de toi ;"
+       ],
+       [
+        "Tu nous as dit comment guérir du péché"
+       ],
+       [
+        "par le jeûne, la prière et le partage ;"
+       ],
+       [
+        "Écoute l'aveu de notre faiblesse :"
+       ],
+       [
+        "nous avons conscience de nos fautes,"
+       ],
+       [
+        "patiemment, relève-nous avec amour."
+       ],
+       [
+        "Par Jésus Christ"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Vater, du bist der Quell des Erbarmens und der Güte,"
+       ],
+       [
+        "wir stehen als Sünder vor dir, und unser Gewissen klagt uns an."
+       ],
+       [
+        "Sieh auf unsere Not und lass uns Vergebung finden"
+       ],
+       [
+        "durch Fasten, Gebet und Werke der Liebe."
+       ],
+       [
+        "Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o Creio."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Credo"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Credo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "His sacrifíciis, Dómine, concéde placátus, ut, qui própriis orámus absólvi delíctis, fratérna dimíttere studeámus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor de bondade,"
+       ],
+       [
+        "concedei-nos por este sacrifício"
+       ],
+       [
+        "que, pedindo perdão de nossos pecados,"
+       ],
+       [
+        "saibamos perdoar os nossos irmãos."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Be pleased, O Lord, with these sacrificial offerings, and grant that we who beseech pardon for our own sins, may take care to forgive our neighbor."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, por la celebración de este sacrificio"
+       ],
+       [
+        "concédenos en tu bondad"
+       ],
+       [
+        "que, al pedirte el perdón de nuestras ofensas,"
+       ],
+       [
+        "nos esforcemos en perdonar las de nuestros hermanos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per questo sacrificio di riconciliazione, o Padre, rimetti i nostri debiti e donaci la forza di perdonare ai nostri fratelli. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que cette eucharistie nous obtienne, Seigneur,"
+       ],
+       [
+        "à nous qui implorons ton pardon,"
+       ],
+       [
+        "la grâce de savoir pardonner à nos frères."
+       ],
+       [
+        "Par Jésus."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, befreie uns durch dieses Opfer von unseren Sünden"
+       ],
+       [
+        "und schenke uns die Kraft, auch den Brüdern zu vergeben,"
+       ],
+       [
+        "wenn sie an uns schuldig geworden sind."
+       ],
+       [
+        "Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando legitur Evangelium de Samaritana:"
+        }
+       ]
+      ],
+      "cite": "Io 4, 13-14"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando for proclamado o Evangelho da Samaritana:"
+        }
+       ]
+      ],
+      "cite": "Cf. Jo 4, 14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "When the gospel of the Samaritan woman is read:"
+        }
+       ]
+      ],
+      "cite": "Jn 4: 13-14"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Cuando se lee el evangelio de la Samaritana:"
+        }
+       ]
+      ],
+      "cite": "Cf. Jn 4, 13-14"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "★ A"
+        }
+       ]
+      ],
+      "cite": "Cf. Gv 4, 14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quand on a lu l'évangile de la Samaritaine :"
+        }
+       ]
+      ],
+      "cite": "Jn 4, 13-14"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Wenn das Evangelium von der Samariterin gelesen wurde:"
+        }
+       ]
+      ],
+      "cite": "Joh 4, 13-14"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui bíberit aquam, quam ego dabo ei, dicit Dóminus, fiet in eo fons aquæ saliéntis in vitam ætérnam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Daquele que beber da água que eu darei,"
+       ],
+       [
+        "diz o Senhor, brotará uma fonte que jorra para a vida eterna."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For anyone who drinks it, says the Lord, the water I shall give will become in him a spring welling up to eternal life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que beba del agua que yo le daré, dice el Señor, se convertirá dentro de él en un surtidor de agua que salta hasta la vida eterna."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Chi berrà dell'acqua che io gli darò», dice il Signore, «avrà in sé una sorgente che zampilla per la vita eterna»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "« Qui boira de l'eau que je lui donnerai"
+       ],
+       [
+        "n'aura plus jamais soif, dit le Seigneur ;"
+       ],
+       [
+        "Cette eau deviendra en lui"
+       ],
+       [
+        "source jaillissante pour la vie éternelle. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wer von dem Wasser trinkt, das ich ihm geben werde, wird niemals mehr Durst haben. Es wird in ihm zur Quelle, deren Wasser ins ewige Leben sprudelt – so spricht der Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando legitur aliud Evangelium:"
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 83, 4-5"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando for proclamado outro Evangelho:"
+        }
+       ]
+      ],
+      "cite": "Cf. Sl 83, 4-5"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "When other gospels are read:"
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 84 (83): 4-5"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Cuando se lee otro evangelio:"
+        }
+       ]
+      ],
+      "cite": "Sal 83, 4-5"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "★ B"
+        }
+       ]
+      ],
+      "cite": "Gv 2, 23"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dans les autres cas :"
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 83, 4-5"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Wenn ein anderes Evangelium gelesen wurde:"
+        }
+       ]
+      ],
+      "cite": "Ps 84 (83), 4-5"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Passer invénit sibi domum, et turtur nidum, ubi repónat pullos suos: altária tua, Dómine virtútum, Rex meus, et Deus meus! Beáti qui hábitant in domo tua, in sǽculum sǽculi laudábunt te."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O pássaro encontra abrigo"
+       ],
+       [
+        "e a andorinha um ninho para pôr os seus filhotes:"
+       ],
+       [
+        "os vossos altares, Senhor do universo, meu rei e meu Deus!"
+       ],
+       [
+        "Felizes os que habitam em vossa casa:"
+       ],
+       [
+        "sem cessar vos louvarão."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The sparrow finds a home,"
+       ],
+       [
+        "and the swallow a nest for her young:"
+       ],
+       [
+        "by your altars, O Lord of hosts, my King and my God. Blessed are they who dwell in your house,"
+       ],
+       [
+        "for ever singing your praise."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hasta el gorrión ha encontrado una casa; la golondrina, un nido donde colocar sus polluelos: tus altares, Señor del universo, Rey mío y Dios mío. Dichosos los que viven en tu casa, alabándote siempre."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Molti, vedendo i segni che egli compiva, credettero nel suo nome."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "★ C"
+        }
+       ]
+      ],
+      "cite": "Lc 13, 5"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Se non vi convertite, perirete tutti», dice il Signore."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Sal 83, 4-5"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Anche il passero trova una casa e la rondine il nido dove porre i suoi piccoli, presso i tuoi altari, Signore degli eserciti, mio re e mio Dio. Beato chi abita nella tua casa: senza fine canta le tue lodi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureux ceux qui approchent de ton autel, Seigneur ;"
+       ],
+       [
+        "Heureux les habitants de ta maison :"
+       ],
+       [
+        "ils peuvent toujours te louer,"
+       ],
+       [
+        "mon Roi, mon Dieu !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Sperling findet ein Haus und die Schwalbe ein Nest für ihre Jungen – deine Altäre, Herr der Heerscharen, mein Gott und mein König! Selig, die wohnen in deinem Haus, die dich allzeit loben!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Suméntes pignus cæléstis arcáni, et in terra pósiti iam supérno pane satiáti, te, Dómine, súpplices deprecámur, ut, quod in nobis mystério géritur, ópere impleátur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, tendo recebido o penhor do mistério celeste,"
+       ],
+       [
+        "e já saciados na terra com o pão do céu,"
+       ],
+       [
+        "nós vos pedimos humildemente"
+       ],
+       [
+        "que se manifeste em nossa vida"
+       ],
+       [
+        "o que o sacramento realizou em nós."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As we receive the pledge"
+       ],
+       [
+        "of things yet hidden in heaven"
+       ],
+       [
+        "and are nourished while still on earth"
+       ],
+       [
+        "with the Bread that comes from on high,"
+       ],
+       [
+        "we humbly entreat you, O Lord,"
+       ],
+       [
+        "that what is being brought about in us in mystery may come to true completion."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alimentados ya en la tierra con el pan del cielo, prenda de eterna salvación, te suplicamos, Señor, que se haga realidad en nuestra vida lo que hemos recibido en este sacramento."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che ci nutri in questa vita con il pane del cielo, pegno della tua gloria, fa' che manifestiamo nelle nostre opere la realtà presente nel sacramento che celebriamo. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous avons reçu de toi, Seigneur, un avant-goût du ciel"
+       ],
+       [
+        "en mangeant dés ici-bas le pain du Royaume,"
+       ],
+       [
+        "et nous te supplions encore :"
+       ],
+       [
+        "Fais-nous manifester par toute notre vie"
+       ],
+       [
+        "ce que le sacrement vient d'accomplir en nous."
+       ],
+       [
+        "Par Jésus."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr und Gott, du hast uns mit dem Brot des Himmels gesättigt"
+       ],
+       [
+        "und uns in dieser Speise ein Unterpfand dessen gegeben,"
+       ],
+       [
+        "was unseren Augen noch verborgen ist."
+       ],
+       [
+        "Lass in unserem Leben sichtbar werden, was wir im Sakrament empfangen haben."
+       ],
+       [
+        "Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oratio super populum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração sobre o povo"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the People"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre el pueblo"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Orazione sul popolo (ad libitum)"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur le peuple"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rege, Dómine, quǽsumus, tuórum corda fidélium, et servis tuis hanc grátiam largíre propítius, ut in tui et próximi dilectióne manéntes, plenitúdinem mandatórum tuórum adímpleant. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dirigi, Senhor, nós vos pedimos,"
+       ],
+       [
+        "os corações dos vossos fiéis,"
+       ],
+       [
+        "e concedei benigno a vossos servos a graça de,"
+       ],
+       [
+        "permanecendo no amor a vós e ao próximo,"
+       ],
+       [
+        "cumprir plenamente os vossos mandamentos."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Direct, O Lord, we pray, the hearts of your faithful, and in your kindness grant your servants this grace: that, abiding in the love of you and their neighbor, they may fulfill the whole of your commands."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Señor, que dirijas los corazones de tus fieles y les concedas benigno la gracia de permanecer firmes en el amor a ti y al prójimo, y de cumplir plenamente tus mandamientos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guida, o Signore, i cuori dei tuoi fedeli: nella tua bontà concedi loro la grazia di rimanere nel tuo amore e nella carità fraterna per adempiere la pienezza dei tuoi comandamenti. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dirige, Seigneur, le cœur de tes fidèles"
+       ],
+       [
+        "et, dans ta bienveillance, donne à ceux qui te servent"
+       ],
+       [
+        "la grâce d'accomplir la plénitude de tes commandements"
+       ],
+       [
+        "en demeurant dans l'amour pour toi et pour le prochain."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople"
+  }
+ ],
+ "precedence": 2,
+ "prefaces": [
+  "preface.9",
+  "preface.10"
+ ],
+ "title": {
+  "la": "DOMINICA III IN QUADRAGESIMA",
+  "pt-BR": "TERCEIRO DOMINGO DA QUARESMA",
+  "en-US": "Season of Lent — 3rd Week: Sunday",
+  "es": "III DOMINGO DE CUARESMA",
+  "it": "III DOMENICA DI QUARESIMA",
+  "fr": "3e DIMANCHE DE CARÊME",
+  "de": "3. FASTENSONNTAG"
+ }
+}

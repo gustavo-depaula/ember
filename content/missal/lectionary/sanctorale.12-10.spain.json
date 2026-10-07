@@ -1,1 +1,43 @@
-{"id":"sanctorale.12-10.spain","source":"lecturas/lecturas_santos_dic#1210Z","items":[{"slot":"43","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["10 de diciembre"],["Santa Eulalia de Mérida, virgen y mártir"]]}]}},{"mark":"readings"},{"mark":"readings"}],"lectionary":"readings.cv1f1","title":{"*":"Santa Eulalia de Mérida, virgen y mártir"}}
+{
+ "id": "sanctorale.12-10.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10 de diciembre"
+       ],
+       [
+        "Santa Eulalia de Mérida, virgen y mártir"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.cv1f1",
+ "title": {
+  "*": "Santa Eulalia de Mérida, virgen y mártir"
+ }
+}

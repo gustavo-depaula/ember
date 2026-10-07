@@ -1,1 +1,1428 @@
-{"id":"common.holy-men-and-women.8","source":"comunes_votivas/comunes_sant#sanct8","kind":"common","items":[{"slot":"100","text":{"la":[{"k":"h2","lines":[["COMMUNE SANCTORUM ET SANCTARUM"]]},{"k":"h3","lines":[["II. PRO MONACHIS ET RELIGIOSIS"],["B. Pro monacho"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF HOLY MEN AND WOMEN"]]},{"k":"h3","lines":[["II. For Monks and Religious"],["B. For a Monk"]]}],"es":[{"k":"h2","lines":[["COMÚN DE SANTOS Y SANTAS"]]},{"k":"h3","lines":[["II. Para monjes y religiosos"],["A. Para un monje"]]}],"it":[{"k":"h2","lines":[["COMUNE DEI SANTI E DELLE SANTE"]]},{"k":"h3","lines":[["II. Per i monaci e i religiosi"],["B. Per un monaco"]]}],"fr":[{"k":"h2","lines":[["COMMUN DES SAINTS ET DES SAINTES"]]},{"k":"h3","lines":[["II. POUR LES RELIGIEUX"],["B. Pour un moine"]]}]},"part":"title"},{"slot":"101","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}]},"part":"entranceAntiphon"},{"slot":"102","text":{"la":[{"k":"p","lines":[["Ubi fratres in unum gloríficant Deum, ibi dabit Dóminus benedictiónem ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"en-US":[{"k":"p","lines":[["Where brothers unite to glorify God, there the Lord will give blessing ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Donde se reúnen los hermanos para glorificar a Dios, allí el Señor les dará la bendición ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Dove i fratelli glorificano Dio in unità, lì il Signore darà benedizione ",{"m":"rubric","t":"(T. P."}," Alleluia",{"m":"rubric","t":")"},"."]]}],"fr":[{"k":"p","lines":[["Là où des frères, tous ensemble, glorifient Dieu,"],["le Seigneur donnera sa bénédiction ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}]},"part":"entranceAntiphon"},{"slot":"103","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Ps 70, 8. 23"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Ps 71 (70): 8, 23"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]],"cite":"Cf. Sal 70, 8. 23"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Sal 70, 8.23"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Ps 70, 8. 23"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"104","text":{"la":[{"k":"p","lines":[["Repleátur os meum laude tua, ut possim cantáre; gaudébunt lábia mea, dum cantávero tibi ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["Let my mouth be filled with your praise, that I may sing aloud; my lips shall shout for joy, when I sing to you ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Llena está mi boca de tu alabanza para poder cantar. Se alegrarán mis labios, mientras canto para ti ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Della tua lode è piena la mia bocca: tutto il giorno canto il tuo splendore; cantando le tue lodi esulteranno le mie labbra ",{"m":"rubric","t":"(T. P."}," Alleluia",{"m":"rubric","t":")"},"."]]}],"fr":[{"k":"p","lines":[["Je n'avais que ta louange à la bouche,"],["pour te chanter."],["Joie sur mes lèvres qui chantent pour toi ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":")."}]]}]},"part":"entranceAntiphon"},{"slot":"105","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}]},"part":"collect"},{"slot":"106","text":{"la":[{"k":"p","lines":[["Deus, qui fámulum tuum beátum ",{"m":"rubric","t":"N. "},"ad Christi sequélam benígnus vocásti, eius, quǽsumus, intercessióne, concéde, ut, nosmetípsos abnegántes, tibi toto corde adhærére valeámus. Per Dóminum."]]}],"en-US":[{"k":"p","lines":[["O God, who in your kindness called your servant blessed ",{"m":"rubric","t":"N."}," to the following of Christ, grant, we pray, through his intercession, that, denying ourselves, we may hold fast to you with all our heart."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que invitaste bondadosamente a tu siervo san ",{"m":"rubric","t":"N."}," a seguir a Cristo,"],["te pedimos, por su intercesión,"],["que, negándonos a nosotros mismos,"],["podamos adherirnos a ti de todo corazón."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che nella tua benevolenza hai chiamato il tuo servo san ",{"m":"rubric","t":"N."}," alla sequela di Cristo, per sua intercessione concedi che, rinnegando noi stessi, possiamo aderire a te con tutto il cuore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["dans ta bonté, tu as appelé ton serviteur, saint ",{"m":"rubric","t":"N."},","],["à marcher à la suite du Christ ;"],["accorde-nous, par son intercession,"],["la force de renoncer à nous-mêmes,"],["et de nous attacher à toi de tout notre cœur."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}]},"part":"collect"},{"slot":"107","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}]},"part":"prayerOverOfferings"},{"slot":"108","text":{"la":[{"k":"p","lines":[["Súscipe, Dómine, quǽsumus, hóstias pro salúte tuæ plebis oblátas, quibus nos, intercedénte beáto ",{"m":"rubric","t":"N."},", et peccándi illécebras fúgere valeámus et cæléstibus propinquáre consórtiis. Per Christum."]]}],"en-US":[{"k":"p","lines":[["Receive, O Lord, we pray, the offerings made for the salvation of your people, so that through the intercession of blessed ",{"m":"rubric","t":"N."}," we may flee the enticements of sin and draw near to the company of heaven."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Recibe, Señor, las ofrendas que te presentamos"],["por la salvación de tu pueblo;"],["con ellas te pedimos,"],["por intercesión de san ",{"m":"rubric","t":"N."},","],["alejarnos de la seducción del pecado"],["y tomar parte en los bienes del cielo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Recibe, Señor, las ofrendas que te presentamos"],["por la salvación de tu pueblo;"],["con ellas te pedimos,"],["por intercesión de sanAccogli, o Signore, l'offerta che ti presentiamo per la salvezza del tuo popolo e concedi che, per l'intercessione di san ",{"m":"rubric","t":"N."},","],["il sacrificio che celebriamo ci renda capaci di fuggire le seduzioni del peccato e affretti in noi la partecipazione ai beni del cielo. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Reçois, nous t'en prions, Seigneur,"],["le sacrifice offert pour le salut de ton peuple :"],["qu'il nous obtienne, par l'intercession de saint ",{"m":"rubric","t":"N."},","],["d'éviter les séductions du péché"],["et de nous rapprocher de la vie du ciel."],["Par le Christ, notre Seigneur."]]}]},"part":"prayerOverOfferings"},{"slot":"109","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"111","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]]},{"k":"p","lines":[],"cite":"Cf. Lc 8, 15"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Lk 8: 15"}],"es":[{"k":"h4","lines":[["Antífona de comunión"]],"cite":"Cf. L.c 8, 15"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Lc 8, 15"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]]},{"k":"p","lines":[],"cite":"Cf. Lc 8, 15"}]},"part":"communionAntiphon"},{"slot":"112","text":{"la":[{"k":"p","lines":[["Qui verbum Dei rétinent corde perfécto et óptimo, fructum áfferunt in patiéntia ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"en-US":[{"k":"p","lines":[["Those who keep God's word with a good and perfect heart patiently bring forth fruit ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Los que guardan la palabra de Dios con un corazón noble y generoso, dan fruto con paciencia ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Coloro che custodiscono la parola di Dio con cuore integro e buono producono frutto con perseveranza ",{"m":"rubric","t":"(T. P."}," Alleluia",{"m":"rubric","t":")"},"."]]}],"fr":[{"k":"p","lines":[["Ceux qui ont entendu la Parole dans un cœur bon et généreux,"],["portent du fruit par leur persévérance ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}]},"part":"communionAntiphon"},{"slot":"113","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Ps 83, 5"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Ps 84 (83): 5"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]],"cite":"Cf.Sal 83,5"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]],"cite":"Sal 83,5"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Ps 83, 5"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"114","text":{"la":[{"k":"p","lines":[["Beáti qui hábitant in domo tua, Dómine, in perpétuum laudábunt te ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"en-US":[{"k":"p","lines":[["Blessed are they who dwell in your house, for ever singing your praise ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Bienaventurados los que viven en tu casa, Señor, alabándote siempre ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Beato chi abita nella tua casa: senza fine canta le tue lodi ",{"m":"rubric","t":"(T. P."}," Alleliya",{"m":"rubric","t":")"},"."]]}],"fr":[{"k":"p","lines":[["Heureux les habitants de ta maison, Seigneur :"],["ils pourront te chanter à jamais ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}]},"part":"communionAntiphon"},{"slot":"115","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}]},"part":"postcommunion"},{"slot":"116","text":{"la":[{"k":"p","lines":[["Annue, quǽsumus, Dómine, Deus noster, ut, beáti ",{"m":"rubric","t":"N. "},"fulti præsídio, per hoc tuæ sapiéntiæ sacraméntum æqua moderatióne vivámus. Per Christum."]]}],"en-US":[{"k":"p","lines":[["Grant our request, we pray, O Lord our God, that, defended by the protection of blessed ",{"m":"rubric","t":"N."},", we may live by this Sacrament of your wisdom in serenity and moderation."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Concédenos, Señor Dios nuestro,"],["que, sostenidos por la protección de san ",{"m":"rubric","t":"N."},","],["vivamos, por este sacramento, regalo de tu sabiduría,"],["con justa austeridad."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Per la forza di questo sacramento, dono della tua sapienza, fa', Signore Dio nostro, che sorretti dall'aiuto di san ",{"m":"rubric","t":"N. "},"viviamo in sobrietà e giustizia. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur notre Dieu :"],["forts du soutien de saint ",{"m":"rubric","t":"N."},","],["puissions-nous garder un juste équilibre de vie"],["grâce au sacrement que nous offre ta sagesse."],["Par le Christ, notre Seigneur."]]}]},"part":"postcommunion"}],"prefaces":["preface.57"],"title":{"la":"COMMUNE SANCTORUM ET SANCTARUM","en-US":"COMMON OF HOLY MEN AND WOMEN","es":"COMÚN DE SANTOS Y SANTAS","it":"COMUNE DEI SANTI E DELLE SANTE","fr":"COMMUN DES SAINTS ET DES SAINTES"},"subtitle":{"la":"II. PRO MONACHIS ET RELIGIOSIS B. Pro monacho","en-US":"II. For Monks and Religious B. For a Monk","es":"II. Para monjes y religiosos A. Para un monje","it":"II. Per i monaci e i religiosi B. Per un monaco","fr":"II. POUR LES RELIGIEUX B. Pour un moine"}}
+{
+ "id": "common.holy-men-and-women.8",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE SANCTORUM ET SANCTARUM"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. PRO MONACHIS ET RELIGIOSIS"
+       ],
+       [
+        "B. Pro monacho"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF HOLY MEN AND WOMEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. For Monks and Religious"
+       ],
+       [
+        "B. For a Monk"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE SANTOS Y SANTAS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. Para monjes y religiosos"
+       ],
+       [
+        "A. Para un monje"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DEI SANTI E DELLE SANTE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. Per i monaci e i religiosi"
+       ],
+       [
+        "B. Per un monaco"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DES SAINTS ET DES SAINTES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. POUR LES RELIGIEUX"
+       ],
+       [
+        "B. Pour un moine"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ubi fratres in unum gloríficant Deum, ibi dabit Dóminus benedictiónem ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Where brothers unite to glorify God, there the Lord will give blessing ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Donde se reúnen los hermanos para glorificar a Dios, allí el Señor les dará la bendición ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dove i fratelli glorificano Dio in unità, lì il Signore darà benedizione ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Là où des frères, tous ensemble, glorifient Dieu,"
+       ],
+       [
+        "le Seigneur donnera sa bénédiction ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 70, 8. 23"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Ps 71 (70): 8, 23"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ],
+      "cite": "Cf. Sal 70, 8. 23"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Sal 70, 8.23"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 70, 8. 23"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Repleátur os meum laude tua, ut possim cantáre; gaudébunt lábia mea, dum cantávero tibi ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Let my mouth be filled with your praise, that I may sing aloud; my lips shall shout for joy, when I sing to you ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Llena está mi boca de tu alabanza para poder cantar. Se alegrarán mis labios, mientras canto para ti ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Della tua lode è piena la mia bocca: tutto il giorno canto il tuo splendore; cantando le tue lodi esulteranno le mie labbra ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je n'avais que ta louange à la bouche,"
+       ],
+       [
+        "pour te chanter."
+       ],
+       [
+        "Joie sur mes lèvres qui chantent pour toi ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui fámulum tuum beátum ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "ad Christi sequélam benígnus vocásti, eius, quǽsumus, intercessióne, concéde, ut, nosmetípsos abnegántes, tibi toto corde adhærére valeámus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who in your kindness called your servant blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " to the following of Christ, grant, we pray, through his intercession, that, denying ourselves, we may hold fast to you with all our heart."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que invitaste bondadosamente a tu siervo san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " a seguir a Cristo,"
+       ],
+       [
+        "te pedimos, por su intercesión,"
+       ],
+       [
+        "que, negándonos a nosotros mismos,"
+       ],
+       [
+        "podamos adherirnos a ti de todo corazón."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che nella tua benevolenza hai chiamato il tuo servo san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " alla sequela di Cristo, per sua intercessione concedi che, rinnegando noi stessi, possiamo aderire a te con tutto il cuore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "dans ta bonté, tu as appelé ton serviteur, saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "à marcher à la suite du Christ ;"
+       ],
+       [
+        "accorde-nous, par son intercession,"
+       ],
+       [
+        "la force de renoncer à nous-mêmes,"
+       ],
+       [
+        "et de nous attacher à toi de tout notre cœur."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súscipe, Dómine, quǽsumus, hóstias pro salúte tuæ plebis oblátas, quibus nos, intercedénte beáto ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", et peccándi illécebras fúgere valeámus et cæléstibus propinquáre consórtiis. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Receive, O Lord, we pray, the offerings made for the salvation of your people, so that through the intercession of blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " we may flee the enticements of sin and draw near to the company of heaven."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recibe, Señor, las ofrendas que te presentamos"
+       ],
+       [
+        "por la salvación de tu pueblo;"
+       ],
+       [
+        "con ellas te pedimos,"
+       ],
+       [
+        "por intercesión de san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "alejarnos de la seducción del pecado"
+       ],
+       [
+        "y tomar parte en los bienes del cielo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recibe, Señor, las ofrendas que te presentamos"
+       ],
+       [
+        "por la salvación de tu pueblo;"
+       ],
+       [
+        "con ellas te pedimos,"
+       ],
+       [
+        "por intercesión de sanAccogli, o Signore, l'offerta che ti presentiamo per la salvezza del tuo popolo e concedi che, per l'intercessione di san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "il sacrificio che celebriamo ci renda capaci di fuggire le seduzioni del peccato e affretti in noi la partecipazione ai beni del cielo. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reçois, nous t'en prions, Seigneur,"
+       ],
+       [
+        "le sacrifice offert pour le salut de ton peuple :"
+       ],
+       [
+        "qu'il nous obtienne, par l'intercession de saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "d'éviter les séductions du péché"
+       ],
+       [
+        "et de nous rapprocher de la vie du ciel."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Cf. Lc 8, 15"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Lk 8: 15"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de comunión"
+       ]
+      ],
+      "cite": "Cf. L.c 8, 15"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Lc 8, 15"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Cf. Lc 8, 15"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui verbum Dei rétinent corde perfécto et óptimo, fructum áfferunt in patiéntia ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Those who keep God's word with a good and perfect heart patiently bring forth fruit ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los que guardan la palabra de Dios con un corazón noble y generoso, dan fruto con paciencia ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Coloro che custodiscono la parola di Dio con cuore integro e buono producono frutto con perseveranza ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ceux qui ont entendu la Parole dans un cœur bon et généreux,"
+       ],
+       [
+        "portent du fruit par leur persévérance ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 83, 5"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Ps 84 (83): 5"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ],
+      "cite": "Cf.Sal 83,5"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Sal 83,5"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Ps 83, 5"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti qui hábitant in domo tua, Dómine, in perpétuum laudábunt te ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Blessed are they who dwell in your house, for ever singing your praise ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bienaventurados los que viven en tu casa, Señor, alabándote siempre ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beato chi abita nella tua casa: senza fine canta le tue lodi ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Alleliya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureux les habitants de ta maison, Seigneur :"
+       ],
+       [
+        "ils pourront te chanter à jamais ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annue, quǽsumus, Dómine, Deus noster, ut, beáti ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "fulti præsídio, per hoc tuæ sapiéntiæ sacraméntum æqua moderatióne vivámus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant our request, we pray, O Lord our God, that, defended by the protection of blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", we may live by this Sacrament of your wisdom in serenity and moderation."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concédenos, Señor Dios nuestro,"
+       ],
+       [
+        "que, sostenidos por la protección de san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "vivamos, por este sacramento, regalo de tu sabiduría,"
+       ],
+       [
+        "con justa austeridad."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per la forza di questo sacramento, dono della tua sapienza, fa', Signore Dio nostro, che sorretti dall'aiuto di san ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "viviamo in sobrietà e giustizia. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur notre Dieu :"
+       ],
+       [
+        "forts du soutien de saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "puissions-nous garder un juste équilibre de vie"
+       ],
+       [
+        "grâce au sacrement que nous offre ta sagesse."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.57"
+ ],
+ "title": {
+  "la": "COMMUNE SANCTORUM ET SANCTARUM",
+  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "es": "COMÚN DE SANTOS Y SANTAS",
+  "it": "COMUNE DEI SANTI E DELLE SANTE",
+  "fr": "COMMUN DES SAINTS ET DES SAINTES"
+ },
+ "subtitle": {
+  "la": "II. PRO MONACHIS ET RELIGIOSIS B. Pro monacho",
+  "en-US": "II. For Monks and Religious B. For a Monk",
+  "es": "II. Para monjes y religiosos A. Para un monje",
+  "it": "II. Per i monaci e i religiosi B. Per un monaco",
+  "fr": "II. POUR LES RELIGIEUX B. Pour un moine"
+ }
+}

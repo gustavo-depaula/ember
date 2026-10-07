@@ -1,1 +1,140 @@
-{"id":"sanctorale.04-19.uruguay","source":"santos/santos_arg#0419","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de Uruguay...)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["19 de abril"],["Nuestra Señora, la Virgen del Verdún"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"En Uruguay: Memoria libre"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Común de santa María Virgen:"}," ",{"m":"link","t":"1","to":"common.blessed-virgin-mary.1"},{"m":"link","t":"2","to":"common.blessed-virgin-mary.2"},{"m":"link","t":"3","to":"common.blessed-virgin-mary.3"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Dios todopoderoso, que derramaste el Espíritu Santo sobre los Apóstoles reunidos en oración con María, concédenos, por intercesión de la Virgen del Verdún, mantenernos siempre firmes en el seguimiento de tu Hijo, y proclamar la gloria de tu Nombre con el testimonio de nuestra palabra y de nuestra vida. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos."]]}]},"part":"collect"}],"precedence":12,"commons":["common.blessed-virgin-mary.1","common.blessed-virgin-mary.2","common.blessed-virgin-mary.3"],"title":{"*":"Nuestra Señora, la Virgen del Verdún"}}
+{
+ "id": "sanctorale.04-19.uruguay",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de Uruguay...)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de abril"
+       ],
+       [
+        "Nuestra Señora, la Virgen del Verdún"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "En Uruguay: Memoria libre"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de santa María Virgen:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.blessed-virgin-mary.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.blessed-virgin-mary.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.blessed-virgin-mary.3"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso, que derramaste el Espíritu Santo sobre los Apóstoles reunidos en oración con María, concédenos, por intercesión de la Virgen del Verdún, mantenernos siempre firmes en el seguimiento de tu Hijo, y proclamar la gloria de tu Nombre con el testimonio de nuestra palabra y de nuestra vida. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  }
+ ],
+ "precedence": 12,
+ "commons": [
+  "common.blessed-virgin-mary.1",
+  "common.blessed-virgin-mary.2",
+  "common.blessed-virgin-mary.3"
+ ],
+ "title": {
+  "*": "Nuestra Señora, la Virgen del Verdún"
+ }
+}

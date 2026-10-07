@@ -1,1 +1,227 @@
-{"id":"sanctorale.11-13.spain","source":"santos/santos_nov#1113","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["13 de noviembre"],["San Leandro, obispo"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Leandro, arzobispo de Sevilla, hermano de los santos Fulgencio, Florentina e Isidoro, presidió el Concilio III de Toledo (año 589), en el que se logró la conversión del rey visigodo Recaredo y la unidad católica de la nación. Murió hacia el año 600, y su cuerpo fue trasladado a la catedral hispalense."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Común de pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Oh, Dios,"],["que por medio de tu obispo san Leandro"],["mantuviste en tu Iglesia la integridad de la fe,"],["concede a tu pueblo"],["permanecer siempre libre de todos los errores."],["Por nuestro Señor Jesucristo."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"142","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.11-13.spain","prefaces":["preface.56"],"commons":["common.pastors.3","common.pastors.4"],"title":{"*":"San Leandro, obispo"}}
+{
+ "id": "sanctorale.11-13.spain",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13 de noviembre"
+       ],
+       [
+        "San Leandro, obispo"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leandro, arzobispo de Sevilla, hermano de los santos Fulgencio, Florentina e Isidoro, presidió el Concilio III de Toledo (año 589), en el que se logró la conversión del rey visigodo Recaredo y la unidad católica de la nación. Murió hacia el año 600, y su cuerpo fue trasladado a la catedral hispalense."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que por medio de tu obispo san Leandro"
+       ],
+       [
+        "mantuviste en tu Iglesia la integridad de la fe,"
+       ],
+       [
+        "concede a tu pueblo"
+       ],
+       [
+        "permanecer siempre libre de todos los errores."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.11-13.spain",
+ "prefaces": [
+  "preface.56"
+ ],
+ "commons": [
+  "common.pastors.3",
+  "common.pastors.4"
+ ],
+ "title": {
+  "*": "San Leandro, obispo"
+ }
+}

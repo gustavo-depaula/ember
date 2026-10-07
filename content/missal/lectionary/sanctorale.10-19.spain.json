@@ -1,1 +1,40 @@
-{"id":"sanctorale.10-19.spain","source":"lecturas/lecturas_santos_oct#1019Y","items":[{"slot":"171","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["19 de octubre"],["San Pedro de Alcántara, presbítero"]]}]}},{"mark":"readings"}],"lectionary":"readings.cp1f1","title":{"*":"San Pedro de Alcántara, presbítero"}}
+{
+ "id": "sanctorale.10-19.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de octubre"
+       ],
+       [
+        "San Pedro de Alcántara, presbítero"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.cp1f1",
+ "title": {
+  "*": "San Pedro de Alcántara, presbítero"
+ }
+}

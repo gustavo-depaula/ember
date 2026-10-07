@@ -1,1 +1,209 @@
-{"id":"sanctorale.11-15.german-speaking","source":"santos/santos_nov#1115Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["15. November"],["Hl. Leopold, Markgraf von Österreich"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Leopold III. wurde 1075 geboren und von Bischof Altmann von Passau erzogen. 1105 heiratete er Agnes, die Tochter Heinrich IV. In seiner mehr als vierzigjährigen Regierungszeit hat Leopold, mitten in einer wirren Zeit, die Grundlage für die künftige Größe Österreichs geschaffen. Er stiftete mehrere Klöster und galt als Mann des Glaubens und des Gebetes, aber auch als Herrscher, der zu regieren verstand. Er starb 1136 auf der Jagd."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für heilige Männer:"}," ",{"m":"link","t":"A","to":"common.holy-men-and-women.5"},{"m":"link","t":"B","to":"common.holy-men-and-women.6"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Allherrschender Gott, du hast dem heiligen Markgrafen Leopold für die Ausübung seines Amtes die Gaben deines Geistes geschenkt. Hilf uns, unsere Pflichten treu zu erfüllen, und nimm uns einst auf in dein himmlisches Reich. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"151","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.52","preface.53"],"commons":["common.holy-men-and-women.5","common.holy-men-and-women.6"],"title":{"*":"Hl. Leopold, Markgraf von Österreich"}}
+{
+ "id": "sanctorale.11-15.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15. November"
+       ],
+       [
+        "Hl. Leopold, Markgraf von Österreich"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leopold III. wurde 1075 geboren und von Bischof Altmann von Passau erzogen. 1105 heiratete er Agnes, die Tochter Heinrich IV. In seiner mehr als vierzigjährigen Regierungszeit hat Leopold, mitten in einer wirren Zeit, die Grundlage für die künftige Größe Österreichs geschaffen. Er stiftete mehrere Klöster und galt als Mann des Glaubens und des Gebetes, aber auch als Herrscher, der zu regieren verstand. Er starb 1136 auf der Jagd."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für heilige Männer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "A",
+         "to": "common.holy-men-and-women.5"
+        },
+        {
+         "m": "link",
+         "t": "B",
+         "to": "common.holy-men-and-women.6"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allherrschender Gott, du hast dem heiligen Markgrafen Leopold für die Ausübung seines Amtes die Gaben deines Geistes geschenkt. Hilf uns, unsere Pflichten treu zu erfüllen, und nimm uns einst auf in dein himmlisches Reich. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.52",
+  "preface.53"
+ ],
+ "commons": [
+  "common.holy-men-and-women.5",
+  "common.holy-men-and-women.6"
+ ],
+ "title": {
+  "*": "Hl. Leopold, Markgraf von Österreich"
+ }
+}

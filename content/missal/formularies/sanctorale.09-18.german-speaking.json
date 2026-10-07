@@ -1,1 +1,270 @@
-{"id":"sanctorale.09-18.german-speaking","source":"santos/santos_sep#0918","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["18. September"],["Hl. Lambert, Bischof, Glaubensbote, Märtyrer"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Lambert, in Maastricht geboren, wurde Nachfolger des Bischofs Theodard von Maastricht, seines Onkels, als dieser um 670 ermordet wurde. Als 676 sein Freund, der austrasische König Childerich II. erschlagen wurde, musste Lambert in die Verbannung gehen und lebte sieben Jahre in Stablo streng nach der Klosterregel. 681 konnte er in seine Bischofsstadt zurückkehren. Er begann, die Diözese wieder in Ordnung zu bringen und arbeitete zusammen mit dem heiligen Willibrord an der Bekehrung der Heiden. 705 wurde Lambert ermordet, während er in einer Kirche betete."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Bischöfe:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"}," ",{"m":"rubric","t":", oder für Glaubensboten:"}," ",{"m":"link","t":"1","to":"common.pastors.10"},{"m":"link","t":"2","to":"common.pastors.11"},{"m":"link","t":"3","to":"common.pastors.12"}," ",{"m":"rubric","t":", oder für Märtyrer:"}," ",{"m":"link","t":"1","to":"common.martyrs.1"},{"m":"link","t":"2","to":"common.martyrs.2"},{"m":"link","t":"3","to":"common.martyrs.3"},{"m":"link","t":"4","to":"common.martyrs.4"},{"m":"link","t":"5","to":"common.martyrs.5"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Gott, von dem alles Gute kommt, aus Liebe zu dir hat der heilige Bischof und Märtyrer Lambert Besitz und Leben gering geachtet. Gib uns auf seine Fürsprache die Freiheit des Geistes, damit wir uns ohne Zögern deiner Führung überlassen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"105","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.54","preface.55","preface.56"],"commons":["common.pastors.3","common.pastors.4","common.pastors.10","common.pastors.11","common.pastors.12","common.martyrs.1","common.martyrs.2","common.martyrs.3","common.martyrs.4","common.martyrs.5"],"title":{"*":"Hl. Lambert, Bischof, Glaubensbote, Märtyrer"}}
+{
+ "id": "sanctorale.09-18.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "18. September"
+       ],
+       [
+        "Hl. Lambert, Bischof, Glaubensbote, Märtyrer"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lambert, in Maastricht geboren, wurde Nachfolger des Bischofs Theodard von Maastricht, seines Onkels, als dieser um 670 ermordet wurde. Als 676 sein Freund, der austrasische König Childerich II. erschlagen wurde, musste Lambert in die Verbannung gehen und lebte sieben Jahre in Stablo streng nach der Klosterregel. 681 konnte er in seine Bischofsstadt zurückkehren. Er begann, die Diözese wieder in Ordnung zu bringen und arbeitete zusammen mit dem heiligen Willibrord an der Bekehrung der Heiden. 705 wurde Lambert ermordet, während er in einer Kirche betete."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Bischöfe:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": ", oder für Glaubensboten:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.11"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.pastors.12"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": ", oder für Märtyrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.martyrs.3"
+        },
+        {
+         "m": "link",
+         "t": "4",
+         "to": "common.martyrs.4"
+        },
+        {
+         "m": "link",
+         "t": "5",
+         "to": "common.martyrs.5"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, von dem alles Gute kommt, aus Liebe zu dir hat der heilige Bischof und Märtyrer Lambert Besitz und Leben gering geachtet. Gib uns auf seine Fürsprache die Freiheit des Geistes, damit wir uns ohne Zögern deiner Führung überlassen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.54",
+  "preface.55",
+  "preface.56"
+ ],
+ "commons": [
+  "common.pastors.3",
+  "common.pastors.4",
+  "common.pastors.10",
+  "common.pastors.11",
+  "common.pastors.12",
+  "common.martyrs.1",
+  "common.martyrs.2",
+  "common.martyrs.3",
+  "common.martyrs.4",
+  "common.martyrs.5"
+ ],
+ "title": {
+  "*": "Hl. Lambert, Bischof, Glaubensbote, Märtyrer"
+ }
+}

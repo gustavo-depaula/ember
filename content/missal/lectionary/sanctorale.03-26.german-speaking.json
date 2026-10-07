@@ -1,1 +1,920 @@
-{"id":"sanctorale.03-26.german-speaking","source":"lecturas/lecturas_santos_mar#0326","items":[{"slot":"155","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[in den Diözesen deutscher Sprache]"}]]},{"k":"h2","lines":[["26. März"],["Hl. Liudger, Bischof"]]}]}},{"slot":"156","text":{"*":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem ersten Brief des Apostels Paulus an die Thessalonicher"]],"cite":"2, 8-13","role":"announcement"},{"k":"p","lines":[["Brüder!"],["Wir waren euch zugetan und und wollten euch nicht nur am Evangelium Gottes teilhaben lassen, sondern auch an unserem eigenen Leben; denn ihr wart uns sehr lieb geworden."],["Ihr erinnert euch, Brüder, wie wir uns gemüht und geplagt haben. Bei Tag und Nacht haben wir gearbeitet, um keinem von euch zur Last zu fallen, und haben euch so das Evangelium Gottes verkündet. Ihr seid Zeugen, und auch Gott ist Zeuge, wie gottgefällig, gerecht und untadelig wir uns euch, den Gläubigen, gegenüber verhalten haben. Ihr wisst auch, dass wir, wie ein Vater seine Kinder, jeden einzelnen von euch ermahnt, ermutigt und beschworen haben zu leben, wie es Gottes würdig ist, der euch zu seinem Reich und zu seiner Herrlichkeit beruft."],["Darum danken wir Gott unablässig dafür, dass ihr das Wort Gottes, das ihr durch unsere Verkündigung empfangen habt, nicht als Menschenwort, sondern - was es in Wahrheit ist - als Gottes Wort angenommen habt; und jetzt ist es in euch, den Gläubigen, wirksam."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"157","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"slot":"158","text":{"*":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 44 (43), 2. 3. 4 (R: Joh 12, 36b)","role":"title"}]},"part":"psalm"},{"slot":"159","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glaubt an das Licht, damit ihr Söhne des Lichtes werdet."]]}]},"part":"psalm","role":"people"},{"slot":"160","text":{"*":[{"k":"p","lines":[["Gott, wir hörten es mit eigenen Ohren,"],["unsere Väter erzählten uns"],["von dem Werk, das du in ihren Tagen vollbracht hast,"],["in den Tagen der Vorzeit."]]}]},"part":"psalm","role":"verse"},{"slot":"161","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glaubt an das Licht, damit ihr Söhne des Lichtes werdet."]]}]},"part":"psalm","role":"people"},{"slot":"162","text":{"*":[{"k":"p","lines":[["Mit eigener Hand hast du Völker vertrieben,"],["sie aber eingepflanzt."],["Du hast Nationen zerschlagen,"],["sie aber ausgesät."]]}]},"part":"psalm","role":"verse"},{"slot":"163","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glaubt an das Licht, damit ihr Söhne des Lichtes werdet."]]}]},"part":"psalm","role":"people"},{"slot":"164","text":{"*":[{"k":"p","lines":[["Denn sie gewannen das Land nicht mit ihrem Schwert,"],["noch verschaffte ihr Arm ihnen den Sieg;"],["nein, deine Rechte war es,"],["dein Arm und dein leuchtendes Angesicht;"],["denn du hattest an ihnen Gefallen."]]}]},"part":"psalm","role":"verse"},{"slot":"165","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glaubt an das Licht, damit ihr Söhne des Lichtes werdet."]]}]},"part":"psalm","role":"people"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"2"}]]}]},"role":"rubric","part":"acclamation","from":"readings.cpaly1"},{"slot":"124","text":{"la":[{"k":"p","lines":[],"cite":"Mt 28, 19a. 20b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}],["Eúntes docéte omnes gentes, dicit Dóminus;"],["ego vobíscum sum ómnibus diébus"],["usque ad consummatiónem sǽculi."],[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}]]}],"pt-BR":[{"k":"p","lines":[],"cite":"Mt 28, 19a. 20b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluia, aleluia.",{"m":"rubric","t":")"}],["Ide ao mundo e ensinai a todas as nações! Eis que eu estou convosco, até o fim do mundo!"],[{"m":"rubric","t":"("},"Aleluia. ",{"m":"rubric","t":")"}]]}],"en-US":[{"k":"p","lines":[],"cite":"Mt 28, 19a. 20b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Alleluia, alleluia.",{"m":"rubric","t":")"}],["Go and teach all people my gospel. I am with you always, until the end of the world."],[{"m":"rubric","t":"("},"Alleluia.",{"m":"rubric","t":")"}]]}],"es":[{"k":"p","lines":[],"cite":"Mt 28, 19a. 20b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}],["Id y haced discípulos a todos los pueblos —dice el Señor—;"],["yo estoy con vosotros todos los días,"],["hasta el final de los tiempos."],[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}]]}],"it":[{"k":"p","lines":[],"cite":"Mt 28, 19a.20b","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Andate e fate discepoli tutti i popoli, dice il Signore; ecco, io sono con voi tutti i giorni, fino alla fine del mondo."],["Alleluia."]]}],"fr":[{"k":"p","lines":[],"cite":"Mt 28, 19a. 20b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}],["Allez ! De toutes les nations faites des disciples, dit le Seigneur. Moi, je suis avec vous tous les jours jusqu'à la fin du monde."],[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}]]}],"de":[{"k":"p","lines":[],"cite":"Mt 28, 19a. 20b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Halleluja. Halleluja.",{"m":"rubric","t":")"}],["(So spricht der Herr:) Geht zu allen Völkern, und macht alle Menschen zu meinen Jüngern. Ich bin bei euch alle Tage bis zum Ende der Welt."],[{"m":"rubric","t":"("},"Halleluja.",{"m":"rubric","t":")"}]]}]},"part":"acclamation","from":"readings.cpaly1"},{"slot":"166","text":{"*":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Lukas"]],"cite":"4, 16-21","role":"announcement"}]},"part":"gospel"},{"slot":"167","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"168","text":{"*":[{"k":"p","lines":[["In jener Zeit"],["kam Jesus nach Nazaret, wo er aufgewachsen war, und ging, wie gewohnt, am Sabbat in die Synagoge. Als er aufstand, um aus der Schrift vorzulesen, reichte man ihm das Buch des Propheten Jesája. Er schlug das Buch auf und fand die Stelle, wo es heißt: Der Geist des Herrn ruht auf mir; denn der Herr hat mich gesalbt. Er hat mich gesandt, damit ich den Armen eine gute Nachricht bringe; damit ich den Gefangenen die Entlassung verkünde und den Blinden das Augenlicht; damit ich die Zerschlagenen in Freiheit setze und ein Gnadenjahr des Herrn ausrufe. Dann schloss er das Buch, gab es dem Synagogendiener und setzte sich. Die Augen aller in der Synagoge waren auf ihn gerichtet. Da begann er, ihnen darzulegen: Heute hat sich das Schriftwort, das ihr eben gehört habt, erfüllt."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"169","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"*":"Hl. Liudger, Bischof"}}
+{
+ "id": "sanctorale.03-26.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "26. März"
+       ],
+       [
+        "Hl. Liudger, Bischof"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Thessalonicher"
+       ]
+      ],
+      "cite": "2, 8-13",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Wir waren euch zugetan und und wollten euch nicht nur am Evangelium Gottes teilhaben lassen, sondern auch an unserem eigenen Leben; denn ihr wart uns sehr lieb geworden."
+       ],
+       [
+        "Ihr erinnert euch, Brüder, wie wir uns gemüht und geplagt haben. Bei Tag und Nacht haben wir gearbeitet, um keinem von euch zur Last zu fallen, und haben euch so das Evangelium Gottes verkündet. Ihr seid Zeugen, und auch Gott ist Zeuge, wie gottgefällig, gerecht und untadelig wir uns euch, den Gläubigen, gegenüber verhalten haben. Ihr wisst auch, dass wir, wie ein Vater seine Kinder, jeden einzelnen von euch ermahnt, ermutigt und beschworen haben zu leben, wie es Gottes würdig ist, der euch zu seinem Reich und zu seiner Herrlichkeit beruft."
+       ],
+       [
+        "Darum danken wir Gott unablässig dafür, dass ihr das Wort Gottes, das ihr durch unsere Verkündigung empfangen habt, nicht als Menschenwort, sondern - was es in Wahrheit ist - als Gottes Wort angenommen habt; und jetzt ist es in euch, den Gläubigen, wirksam."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 44 (43), 2. 3. 4 (R: Joh 12, 36b)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glaubt an das Licht, damit ihr Söhne des Lichtes werdet."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, wir hörten es mit eigenen Ohren,"
+       ],
+       [
+        "unsere Väter erzählten uns"
+       ],
+       [
+        "von dem Werk, das du in ihren Tagen vollbracht hast,"
+       ],
+       [
+        "in den Tagen der Vorzeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glaubt an das Licht, damit ihr Söhne des Lichtes werdet."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mit eigener Hand hast du Völker vertrieben,"
+       ],
+       [
+        "sie aber eingepflanzt."
+       ],
+       [
+        "Du hast Nationen zerschlagen,"
+       ],
+       [
+        "sie aber ausgesät."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glaubt an das Licht, damit ihr Söhne des Lichtes werdet."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Denn sie gewannen das Land nicht mit ihrem Schwert,"
+       ],
+       [
+        "noch verschaffte ihr Arm ihnen den Sieg;"
+       ],
+       [
+        "nein, deine Rechte war es,"
+       ],
+       [
+        "dein Arm und dein leuchtendes Angesicht;"
+       ],
+       [
+        "denn du hattest an ihnen Gefallen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glaubt an das Licht, damit ihr Söhne des Lichtes werdet."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "acclamation",
+   "from": "common.pastors.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 28, 19a. 20b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Eúntes docéte omnes gentes, dicit Dóminus;"
+       ],
+       [
+        "ego vobíscum sum ómnibus diébus"
+       ],
+       [
+        "usque ad consummatiónem sǽculi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 28, 19a. 20b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Ide ao mundo e ensinai a todas as nações! Eis que eu estou convosco, até o fim do mundo!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 28, 19a. 20b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Go and teach all people my gospel. I am with you always, until the end of the world."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 28, 19a. 20b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Id y haced discípulos a todos los pueblos —dice el Señor—;"
+       ],
+       [
+        "yo estoy con vosotros todos los días,"
+       ],
+       [
+        "hasta el final de los tiempos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 28, 19a.20b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Andate e fate discepoli tutti i popoli, dice il Signore; ecco, io sono con voi tutti i giorni, fino alla fine del mondo."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 28, 19a. 20b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Allez ! De toutes les nations faites des disciples, dit le Seigneur. Moi, je suis avec vous tous les jours jusqu'à la fin du monde."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 28, 19a. 20b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Geht zu allen Völkern, und macht alle Menschen zu meinen Jüngern. Ich bin bei euch alle Tage bis zum Ende der Welt."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "common.pastors.acclamation.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Lukas"
+       ]
+      ],
+      "cite": "4, 16-21",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "kam Jesus nach Nazaret, wo er aufgewachsen war, und ging, wie gewohnt, am Sabbat in die Synagoge. Als er aufstand, um aus der Schrift vorzulesen, reichte man ihm das Buch des Propheten Jesája. Er schlug das Buch auf und fand die Stelle, wo es heißt: Der Geist des Herrn ruht auf mir; denn der Herr hat mich gesalbt. Er hat mich gesandt, damit ich den Armen eine gute Nachricht bringe; damit ich den Gefangenen die Entlassung verkünde und den Blinden das Augenlicht; damit ich die Zerschlagenen in Freiheit setze und ein Gnadenjahr des Herrn ausrufe. Dann schloss er das Buch, gab es dem Synagogendiener und setzte sich. Die Augen aller in der Synagoge waren auf ihn gerichtet. Da begann er, ihnen darzulegen: Heute hat sich das Schriftwort, das ihr eben gehört habt, erfüllt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "Hl. Liudger, Bischof"
+ }
+}

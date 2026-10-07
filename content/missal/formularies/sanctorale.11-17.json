@@ -1,1 +1,601 @@
-{"id":"sanctorale.11-17","source":"santos/santos_nov#1117","kind":"sanctoral","items":[{"slot":"163","text":{"la":[{"k":"h2","lines":[["Die 17 novembris"],["S. Elisabeth Hungariæ"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["Anno 1207 ex Andrea, rege Hungariæ, nata, adhuc puellula nuptui tradita est Ludovico Lantgravio Thuringiæ, cui tres genuit filios. Rerum cælestium meditationi intenta et post viri mortem paupertatem amplexa, valetudinarium erexit in quo ipsa ægrotis inserviebat. Mortua est Marburgi anno 1231."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi sanctorum:"}," ",{"m":"link","t":"pro iis","to":"common.holy-men-and-women.12"}," ",{"m":"rubric","t":"qui opera misericordiæ exercuerunt."}]]}],"pt-BR":[{"k":"h2","lines":[["17 de novembro"],["Santa Isabel da Hungria, religiosa"]]},{"k":"h3","lines":[["Memória"]]},{"k":"p","lines":[["Isabel (Hungria, 1207 - Marburgo, Alemanha, 17 de novembro de 1231), esposa de Luís IV, Landgrave da Turíngia, foi mãe de três filhos. Após a morte do marido, se consagrou inteiramente à penitência, à oração e à caridade. Inscrita na Ordem Terceira Franciscana, fundou em honra de São Francisco o hospital de Marburgo, no qual, pessoalmente, servia aos enfermos."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Santos e Santas:"}," ",{"m":"link","t":"pro iis","to":"common.holy-men-and-women.12"}," ",{"m":"rubric","t":"qui opera misericordiæ exercuerunt."}]]}],"en-US":[{"k":"h2","lines":[["November 17"],["Saint Elizabeth of Hungary, religious"]]},{"k":"h3","lines":[["Memorial"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Holy Women:"}," ",{"m":"link","t":"For Those","to":"common.holy-men-and-women.12"}," ",{"m":"rubric","t":"Who Practiced Works of Mercy."}]]}],"es":[{"k":"h2","lines":[["17 de noviembre"],["Santa Isabel de Hungría, religiosa"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["Era hija de Andrés, rey de Hungría, y nació el año 1207; siendo aún niña, fue dada en matrimonio a Luis, landgrave de Turingia, del que tuvo tres hijos. Vivía entregada a la meditación de las cosas celestiales y, después de la muerte de su esposo, abrazó la pobreza y erigió un hospital en el que ella misma servía a los enfermos. Murió en Marburgo el año 1231."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de santas:"}," ",{"m":"link","t":"consagrada","to":"common.holy-men-and-women.12"}," ",{"m":"rubric","t":"a una actividad caritativa."}]]}],"it":[{"k":"h2","lines":[["17 novembre"],["SANTA ELISABETTA DI UNGHERIA, religiosa"]]},{"k":"h3","lines":[["MEMORIA"]]},{"k":"p","lines":[["Elisabetta (Ungheria, 1207 - Marburg, Germania, 17 novembre 1231), sposa di Ludovico IV, conte di Turingia (Germania), fu animata da intensa carità, soccorrendo i miseri con i propri beni e assistendo gli ammalati. A loro, dopo la precoce morte del marito, si dedicò totalmente. Attratta dallo spirito francescano, fondò a Marburg un ospedale dove accoglieva i più bisognosi, mettendosi personalmente al loro servizio."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei santi e delle sante :[per gli"},{"m":"link","t":"operatori","to":"common.holy-men-and-women.12"}," ",{"m":"rubric","t":"di misericordia]."}]]}],"fr":[{"k":"h2","lines":[["17 novembre"],["Sainte Élisabeth de Hongrie, religieuse"]]},{"k":"h3","lines":[["Mémoire"]]},{"k":"p","lines":[["Élisabeth de Hongrie (1207-1231) épousa à quatorze ans Louis IV de Thuringe avec qui elle connut six années de bonheur, les deux époux s'essayant à vivre en foyer l'idéal franciscain. En 1227, Louis mourut, laissant Élisabeth enceinte. Vint alors pour elle l'appel à une vie de pauvreté, où elle s'usa prématurément dans le service des plus déshérités."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun des"}," ",{"m":"link","t":"saints","to":"common.holy-men-and-women.12"},{"m":"rubric","t":" ayant exercé une activité caritativ"}]]}]},"part":"title"},{"slot":"164","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}]},"part":"collect"},{"slot":"165","text":{"la":[{"k":"p","lines":[["Deus, qui beátæ Elísabeth tribuísti in paupéribus Christum cognóscere ac venerári, da nobis, eius intercessióne, egénis et tribulátis iugi caritáte servíre. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que destes a Santa Isabel da Hungria"],["o dom de reconhecer e venerar o Cristo nos pobres,"],["concedei-nos, por sua intercessão,"],["servir os necessitados e aflitos com incansável caridade."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, by whose gift Saint Elizabeth of Hungary recognized and revered Christ in the poor,"],["grant, through her intercession,"],["that we may serve with unfailing charity"],["the needy and those afflicted."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que concediste a santa Isabel de Hungría"],["reconocer y venerar a Cristo en los pobres,"],["concédenos, por su intercesión,"],["servir con amor infatigable a los indigentes y a los atribulados."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che a santa Elisabetta hai dato la grazia di riconoscere e onorare Cristo nei poveri, concedi a noi, per sua intercessione, di servire con instancabile carità coloro che si trovano nella sofferenza e nel bisogno. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as donné à sainte Élisabeth de Hongrie"],["de reconnaître et de vénérer le Christ dans les pauvres ;"],["accorde-nous, à son intercession,"],["de servir avec une inépuisable charité"],["ceux qui sont dans le besoin et dans l'épreuve."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}]},"part":"collect"},{"slot":"166","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}]},"part":"preface"}],"precedence":10,"prefaces":["preface.52","preface.53"],"commons":["common.holy-men-and-women.12"],"title":{"la":"S. Elisabeth Hungariæ","pt-BR":"Santa Isabel da Hungria, religiosa","en-US":"Saint Elizabeth of Hungary, religious","es":"Santa Isabel de Hungría, religiosa","it":"SANTA ELISABETTA DI UNGHERIA, religiosa","fr":"Sainte Élisabeth de Hongrie, religieuse"},"subtitle":{"la":"Memoria","pt-BR":"Memória","en-US":"Memorial","es":"Memoria","it":"MEMORIA","fr":"Mémoire"}}
+{
+ "id": "sanctorale.11-17",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 17 novembris"
+       ],
+       [
+        "S. Elisabeth Hungariæ"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Anno 1207 ex Andrea, rege Hungariæ, nata, adhuc puellula nuptui tradita est Ludovico Lantgravio Thuringiæ, cui tres genuit filios. Rerum cælestium meditationi intenta et post viri mortem paupertatem amplexa, valetudinarium erexit in quo ipsa ægrotis inserviebat. Mortua est Marburgi anno 1231."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi sanctorum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "pro iis",
+         "to": "common.holy-men-and-women.12"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "qui opera misericordiæ exercuerunt."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 de novembro"
+       ],
+       [
+        "Santa Isabel da Hungria, religiosa"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Isabel (Hungria, 1207 - Marburgo, Alemanha, 17 de novembro de 1231), esposa de Luís IV, Landgrave da Turíngia, foi mãe de três filhos. Após a morte do marido, se consagrou inteiramente à penitência, à oração e à caridade. Inscrita na Ordem Terceira Franciscana, fundou em honra de São Francisco o hospital de Marburgo, no qual, pessoalmente, servia aos enfermos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Santos e Santas:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "pro iis",
+         "to": "common.holy-men-and-women.12"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "qui opera misericordiæ exercuerunt."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "November 17"
+       ],
+       [
+        "Saint Elizabeth of Hungary, religious"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Holy Women:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "For Those",
+         "to": "common.holy-men-and-women.12"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "Who Practiced Works of Mercy."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 de noviembre"
+       ],
+       [
+        "Santa Isabel de Hungría, religiosa"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Era hija de Andrés, rey de Hungría, y nació el año 1207; siendo aún niña, fue dada en matrimonio a Luis, landgrave de Turingia, del que tuvo tres hijos. Vivía entregada a la meditación de las cosas celestiales y, después de la muerte de su esposo, abrazó la pobreza y erigió un hospital en el que ella misma servía a los enfermos. Murió en Marburgo el año 1231."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de santas:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "consagrada",
+         "to": "common.holy-men-and-women.12"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "a una actividad caritativa."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 novembre"
+       ],
+       [
+        "SANTA ELISABETTA DI UNGHERIA, religiosa"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "MEMORIA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Elisabetta (Ungheria, 1207 - Marburg, Germania, 17 novembre 1231), sposa di Ludovico IV, conte di Turingia (Germania), fu animata da intensa carità, soccorrendo i miseri con i propri beni e assistendo gli ammalati. A loro, dopo la precoce morte del marito, si dedicò totalmente. Attratta dallo spirito francescano, fondò a Marburg un ospedale dove accoglieva i più bisognosi, mettendosi personalmente al loro servizio."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei santi e delle sante :[per gli"
+        },
+        {
+         "m": "link",
+         "t": "operatori",
+         "to": "common.holy-men-and-women.12"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "di misericordia]."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 novembre"
+       ],
+       [
+        "Sainte Élisabeth de Hongrie, religieuse"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Élisabeth de Hongrie (1207-1231) épousa à quatorze ans Louis IV de Thuringe avec qui elle connut six années de bonheur, les deux époux s'essayant à vivre en foyer l'idéal franciscain. En 1227, Louis mourut, laissant Élisabeth enceinte. Vint alors pour elle l'appel à une vie de pauvreté, où elle s'usa prématurément dans le service des plus déshérités."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun des"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "saints",
+         "to": "common.holy-men-and-women.12"
+        },
+        {
+         "m": "rubric",
+         "t": " ayant exercé une activité caritativ"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui beátæ Elísabeth tribuísti in paupéribus Christum cognóscere ac venerári, da nobis, eius intercessióne, egénis et tribulátis iugi caritáte servíre. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que destes a Santa Isabel da Hungria"
+       ],
+       [
+        "o dom de reconhecer e venerar o Cristo nos pobres,"
+       ],
+       [
+        "concedei-nos, por sua intercessão,"
+       ],
+       [
+        "servir os necessitados e aflitos com incansável caridade."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, by whose gift Saint Elizabeth of Hungary recognized and revered Christ in the poor,"
+       ],
+       [
+        "grant, through her intercession,"
+       ],
+       [
+        "that we may serve with unfailing charity"
+       ],
+       [
+        "the needy and those afflicted."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que concediste a santa Isabel de Hungría"
+       ],
+       [
+        "reconocer y venerar a Cristo en los pobres,"
+       ],
+       [
+        "concédenos, por su intercesión,"
+       ],
+       [
+        "servir con amor infatigable a los indigentes y a los atribulados."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che a santa Elisabetta hai dato la grazia di riconoscere e onorare Cristo nei poveri, concedi a noi, per sua intercessione, di servire con instancabile carità coloro che si trovano nella sofferenza e nel bisogno. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as donné à sainte Élisabeth de Hongrie"
+       ],
+       [
+        "de reconnaître et de vénérer le Christ dans les pauvres ;"
+       ],
+       [
+        "accorde-nous, à son intercession,"
+       ],
+       [
+        "de servir avec une inépuisable charité"
+       ],
+       [
+        "ceux qui sont dans le besoin et dans l'épreuve."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 10,
+ "prefaces": [
+  "preface.52",
+  "preface.53"
+ ],
+ "commons": [
+  "common.holy-men-and-women.12"
+ ],
+ "title": {
+  "la": "S. Elisabeth Hungariæ",
+  "pt-BR": "Santa Isabel da Hungria, religiosa",
+  "en-US": "Saint Elizabeth of Hungary, religious",
+  "es": "Santa Isabel de Hungría, religiosa",
+  "it": "SANTA ELISABETTA DI UNGHERIA, religiosa",
+  "fr": "Sainte Élisabeth de Hongrie, religieuse"
+ },
+ "subtitle": {
+  "la": "Memoria",
+  "pt-BR": "Memória",
+  "en-US": "Memorial",
+  "es": "Memoria",
+  "it": "MEMORIA",
+  "fr": "Mémoire"
+ }
+}

@@ -1,1 +1,849 @@
-{"id":"sanctorale.02-10","source":"santos/santos_feb#0210","kind":"sanctoral","items":[{"slot":"51","text":{"la":[{"k":"h2","lines":[["Die 10 februarii"],["S. Scholasticæ, virginis"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["Soror sancti Benedicti, nata est Nursiæ in Umbria, circa annum 480. Una cum fratre Deo se devovit eumque secuta est Casinum, ubi mortua est circa annum 547."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi virginum:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":", vel de Communi sanctorum:"}," ",{"m":"link","t":"pro moniali","to":"common.holy-men-and-women.9"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["10 de fevereiro"],["Santa Escolástica, virgem"]]},{"k":"h3","lines":[["Memória"]]},{"k":"p","lines":[["Escolástica (Núrsia, região da Umbria, Itália, por volta de 480 - Montecassino, Frosinone, por volta de 547) é conhecida através dos \"Diálogos\" de São Gregório Magno. Virgem sábia, antepôs a caridade e a contemplação às simples regras e instituições humanas, como manifestou no último colóquio com seu irmão São Bento. Com a força da oração, \"pôde mais porque amou mais\". Seu sepultamento é lembrado no dia 10 de fevereiro pelo \"Calendário Marmóreo\" de Nápoles (séc. IX) e pelo Martirológio de Usuardo (e. 870)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum das Virgens:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":", ou Comum dos Santos e Santas:"}," ",{"m":"link","t":"para uma monja","to":"common.holy-men-and-women.9"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["February 10"],["Saint Scholastica, virgin"]]},{"k":"h3","lines":[["Memorial"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Virgins:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":", or from the Common of Holy"}],[{"m":"rubric","t":"Men and Women:"}," ",{"m":"link","t":"For a Nun","to":"common.holy-men-and-women.9"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["10 de febrero"],["Santa Escolástica, virgen"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["Hermana de san Benito, nació en Nursia (Italia), hacia el año 480. Se entregó a Dios como su hermano y le siguió a Monte Casino, donde murió hacia el año 547."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de vírgenes:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":", o de santos: religiosos"}," ",{"m":"link","t":"10","to":"common.holy-men-and-women.10"},{"m":"link","t":"11","to":"common.holy-men-and-women.11"}]]}],"it":[{"k":"h2","lines":[["10 febbraio"],["SANTA SCOLASTICA, vergine"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["Scolastica (Norcia, Perugia, 480 ca. - Montecassino, Frosinone, 547 ca.) viene indicata dalla tradizione come sorella di san Benedetto. I Dialoghi di Gregorio Magno la descrivono come vergine amante della contemplazione, sapiente nell'anteporre la carità a ogni regola umana. È ricordata il 10 febbraio nel Calendario marmoreo di Napoli (sec. IX) e nel Martirologio di Usuardo (870 ca.)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune delle vergini:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":", oppure Comune dei santi e delle sante:"}," ",{"m":"link","t":"per i religiosi","to":"common.holy-men-and-women.9"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["10 février"],["Sainte Scholastique, vierge"]]},{"k":"h3","lines":[["Mémoire"]]},{"k":"p","lines":[["Scholastique était la sœur de saint Benoît, le législateur des moines d'Occident. Elle mena la vie consacrée au pied du Mont-Cassin, où Benoît avait fondé son célèbre monastère, et elle précéda de peu son frère dans la mort († 547). C'est pourquoi les moniales bénédictines honorent Scholastique comme leur Mère spirituelle."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun des vierges:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":", ou des saints:"}," ",{"m":"link","t":"moniale","to":"common.holy-men-and-women.9"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["10. Februar"],["Hl. Scholastika, Jungfrau"]]},{"k":"h3","lines":[["Gedenktag"]]},{"k":"p","lines":[["Scholastika, die Schwester des heiligen Benedikt, wurde um das Jahr 480 in Nursia (Italien) geboren. Wie ihr Bruder schenkte sie ihr Leben ganz Gott und folgte ihm ins Kloster von Montecassino, wo sie im Jahr 547 starb."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Jungfrauen:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":", oder für Ordensfrauen:"}," ",{"m":"link","t":"→","to":"common.holy-men-and-women.9"},{"m":"rubric","t":"."}]]}]},"part":"title"},{"slot":"52","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"53","text":{"la":[{"k":"p","lines":[["Beátæ Scholásticæ vírginis memóriam recoléntes,"],["quǽsumus, Dómine, ut, eius exémplo,"],["tibi intemeráta caritáte serviámus"],["et felíces obtineámus tuæ dilectiónis efféctus."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Celebrando a memória da virgem Santa Escolástica,"],["nós vos pedimos, Senhor, a graça de imitá-la,"],["para que, a seu exemplo, vos sirvamos com sincera caridade"],["e, alegres, obtenhamos os frutos do vosso amor."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["As we celebrate anew the Memorial of the Virgin Saint Scholastica, we pray, O Lord,"],["that, following her example,"],["we may serve you with pure love"],["and happily receive what comes from loving you."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Al celebrar la fiesta de santa Escolástica, virgen,"],["te rogamos, Señor,"],["que, por su ejemplo,"],["te sirvamos con caridad pura"],["y alcancemos los saludables efectos de tu amor."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Nella memoria della santa vergine Scolastica, ti preghiamo, o Padre: dona anche a noi, sul suo esempio, di amarti e servirti con cuore puro e di gustare la dolcezza del tuo amore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["En célébrant la mémoire"],["de la bienheureuse vierge Scholastique,"],["Seigneur, nous te prions :"],["fais qu'à son exemple, nous te servions"],["avec une charité sans faille"],["et que nous obtenions avec bonheur"],["les bienfaits de ton amour."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Erhabener Gott, wir begehen das Gedächtnis der heiligen Jungfrau Scholastika. Lass uns nach ihrem Beispiel dir stets in aufrichtiger Liebe dienen und gewähre uns in deiner Güte einst einen seligen Heimgang zu dir. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"54","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":10,"lectionary":"sanctorale.02-10","prefaces":["preface.57"],"commons":["common.virgins.1","common.virgins.2","common.virgins.3","common.holy-men-and-women.9","common.holy-men-and-women.10","common.holy-men-and-women.11"],"title":{"la":"S. Scholasticæ, virginis","pt-BR":"Santa Escolástica, virgem","en-US":"Saint Scholastica, virgin","es":"Santa Escolástica, virgen","it":"SANTA SCOLASTICA, vergine","fr":"Sainte Scholastique, vierge","de":"Hl. Scholastika, Jungfrau"},"subtitle":{"la":"Memoria","pt-BR":"Memória","en-US":"Memorial","es":"Memoria","it":"Memoria","fr":"Mémoire","de":"Gedenktag"}}
+{
+ "id": "sanctorale.02-10",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 10 februarii"
+       ],
+       [
+        "S. Scholasticæ, virginis"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Soror sancti Benedicti, nata est Nursiæ in Umbria, circa annum 480. Una cum fratre Deo se devovit eumque secuta est Casinum, ubi mortua est circa annum 547."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi virginum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": ", vel de Communi sanctorum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "pro moniali",
+         "to": "common.holy-men-and-women.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10 de fevereiro"
+       ],
+       [
+        "Santa Escolástica, virgem"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escolástica (Núrsia, região da Umbria, Itália, por volta de 480 - Montecassino, Frosinone, por volta de 547) é conhecida através dos \"Diálogos\" de São Gregório Magno. Virgem sábia, antepôs a caridade e a contemplação às simples regras e instituições humanas, como manifestou no último colóquio com seu irmão São Bento. Com a força da oração, \"pôde mais porque amou mais\". Seu sepultamento é lembrado no dia 10 de fevereiro pelo \"Calendário Marmóreo\" de Nápoles (séc. IX) e pelo Martirológio de Usuardo (e. 870)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum das Virgens:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou Comum dos Santos e Santas:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "para uma monja",
+         "to": "common.holy-men-and-women.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "February 10"
+       ],
+       [
+        "Saint Scholastica, virgin"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Virgins:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": ", or from the Common of Holy"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Men and Women:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "For a Nun",
+         "to": "common.holy-men-and-women.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10 de febrero"
+       ],
+       [
+        "Santa Escolástica, virgen"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermana de san Benito, nació en Nursia (Italia), hacia el año 480. Se entregó a Dios como su hermano y le siguió a Monte Casino, donde murió hacia el año 547."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de vírgenes:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": ", o de santos: religiosos"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "10",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "11",
+         "to": "common.holy-men-and-women.11"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10 febbraio"
+       ],
+       [
+        "SANTA SCOLASTICA, vergine"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scolastica (Norcia, Perugia, 480 ca. - Montecassino, Frosinone, 547 ca.) viene indicata dalla tradizione come sorella di san Benedetto. I Dialoghi di Gregorio Magno la descrivono come vergine amante della contemplazione, sapiente nell'anteporre la carità a ogni regola umana. È ricordata il 10 febbraio nel Calendario marmoreo di Napoli (sec. IX) e nel Martirologio di Usuardo (870 ca.)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune delle vergini:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": ", oppure Comune dei santi e delle sante:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "per i religiosi",
+         "to": "common.holy-men-and-women.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10 février"
+       ],
+       [
+        "Sainte Scholastique, vierge"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scholastique était la sœur de saint Benoît, le législateur des moines d'Occident. Elle mena la vie consacrée au pied du Mont-Cassin, où Benoît avait fondé son célèbre monastère, et elle précéda de peu son frère dans la mort († 547). C'est pourquoi les moniales bénédictines honorent Scholastique comme leur Mère spirituelle."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun des vierges:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou des saints:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "moniale",
+         "to": "common.holy-men-and-women.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. Februar"
+       ],
+       [
+        "Hl. Scholastika, Jungfrau"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Gedenktag"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scholastika, die Schwester des heiligen Benedikt, wurde um das Jahr 480 in Nursia (Italien) geboren. Wie ihr Bruder schenkte sie ihr Leben ganz Gott und folgte ihm ins Kloster von Montecassino, wo sie im Jahr 547 starb."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Jungfrauen:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": ", oder für Ordensfrauen:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "→",
+         "to": "common.holy-men-and-women.9"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beátæ Scholásticæ vírginis memóriam recoléntes,"
+       ],
+       [
+        "quǽsumus, Dómine, ut, eius exémplo,"
+       ],
+       [
+        "tibi intemeráta caritáte serviámus"
+       ],
+       [
+        "et felíces obtineámus tuæ dilectiónis efféctus."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Celebrando a memória da virgem Santa Escolástica,"
+       ],
+       [
+        "nós vos pedimos, Senhor, a graça de imitá-la,"
+       ],
+       [
+        "para que, a seu exemplo, vos sirvamos com sincera caridade"
+       ],
+       [
+        "e, alegres, obtenhamos os frutos do vosso amor."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As we celebrate anew the Memorial of the Virgin Saint Scholastica, we pray, O Lord,"
+       ],
+       [
+        "that, following her example,"
+       ],
+       [
+        "we may serve you with pure love"
+       ],
+       [
+        "and happily receive what comes from loving you."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al celebrar la fiesta de santa Escolástica, virgen,"
+       ],
+       [
+        "te rogamos, Señor,"
+       ],
+       [
+        "que, por su ejemplo,"
+       ],
+       [
+        "te sirvamos con caridad pura"
+       ],
+       [
+        "y alcancemos los saludables efectos de tu amor."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nella memoria della santa vergine Scolastica, ti preghiamo, o Padre: dona anche a noi, sul suo esempio, di amarti e servirti con cuore puro e di gustare la dolcezza del tuo amore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En célébrant la mémoire"
+       ],
+       [
+        "de la bienheureuse vierge Scholastique,"
+       ],
+       [
+        "Seigneur, nous te prions :"
+       ],
+       [
+        "fais qu'à son exemple, nous te servions"
+       ],
+       [
+        "avec une charité sans faille"
+       ],
+       [
+        "et que nous obtenions avec bonheur"
+       ],
+       [
+        "les bienfaits de ton amour."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erhabener Gott, wir begehen das Gedächtnis der heiligen Jungfrau Scholastika. Lass uns nach ihrem Beispiel dir stets in aufrichtiger Liebe dienen und gewähre uns in deiner Güte einst einen seligen Heimgang zu dir. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 10,
+ "lectionary": "sanctorale.02-10",
+ "prefaces": [
+  "preface.57"
+ ],
+ "commons": [
+  "common.virgins.1",
+  "common.virgins.2",
+  "common.virgins.3",
+  "common.holy-men-and-women.9",
+  "common.holy-men-and-women.10",
+  "common.holy-men-and-women.11"
+ ],
+ "title": {
+  "la": "S. Scholasticæ, virginis",
+  "pt-BR": "Santa Escolástica, virgem",
+  "en-US": "Saint Scholastica, virgin",
+  "es": "Santa Escolástica, virgen",
+  "it": "SANTA SCOLASTICA, vergine",
+  "fr": "Sainte Scholastique, vierge",
+  "de": "Hl. Scholastika, Jungfrau"
+ },
+ "subtitle": {
+  "la": "Memoria",
+  "pt-BR": "Memória",
+  "en-US": "Memorial",
+  "es": "Memoria",
+  "it": "Memoria",
+  "fr": "Mémoire",
+  "de": "Gedenktag"
+ }
+}

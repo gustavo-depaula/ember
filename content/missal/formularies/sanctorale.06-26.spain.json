@@ -1,1 +1,234 @@
-{"id":"sanctorale.06-26.spain","source":"santos/santos_jun#0626Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["26 de junio"],["San Pelayo, mártir"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Pelayo (o Pelagio) es el mártir de la castidad en el umbral de la juventud. Nacido en Galicia, fue llevado a la cárcel de Córdoba con su tío Hermigio, obispo de Tuy. El califa se sintió atraído por su figura y, al no poder doblegar su virtud, lo hizo martirizar, a los catorce años de edad, el 26 de junio del año 925. Su cuerpo fue trasladado a León, y más tarde a Oviedo, donde se venera actualmente en el monasterio de benedictinas que lleva su nombre."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Señor, Padre nuestro,"],["que prometiste a los limpios de corazón"],["la recompensa de ver tu rostro,"],["concédenos tu gracia y tu fuerza"],["para que, a ejemplo de san Pelayo, mártir,"],["antepongamos tu amor a las seducciones del mundo"],["y guardemos el corazón limpio de todo pecado."],["Por nuestro Señor Jesucristo."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"142","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.06-26.spain","prefaces":["preface.54","preface.55"],"commons":["common.martyrs.6","common.martyrs.7"],"title":{"*":"San Pelayo, mártir"}}
+{
+ "id": "sanctorale.06-26.spain",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "26 de junio"
+       ],
+       [
+        "San Pelayo, mártir"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pelayo (o Pelagio) es el mártir de la castidad en el umbral de la juventud. Nacido en Galicia, fue llevado a la cárcel de Córdoba con su tío Hermigio, obispo de Tuy. El califa se sintió atraído por su figura y, al no poder doblegar su virtud, lo hizo martirizar, a los catorce años de edad, el 26 de junio del año 925. Su cuerpo fue trasladado a León, y más tarde a Oviedo, donde se venera actualmente en el monasterio de benedictinas que lleva su nombre."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, Padre nuestro,"
+       ],
+       [
+        "que prometiste a los limpios de corazón"
+       ],
+       [
+        "la recompensa de ver tu rostro,"
+       ],
+       [
+        "concédenos tu gracia y tu fuerza"
+       ],
+       [
+        "para que, a ejemplo de san Pelayo, mártir,"
+       ],
+       [
+        "antepongamos tu amor a las seducciones del mundo"
+       ],
+       [
+        "y guardemos el corazón limpio de todo pecado."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.06-26.spain",
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "commons": [
+  "common.martyrs.6",
+  "common.martyrs.7"
+ ],
+ "title": {
+  "*": "San Pelayo, mártir"
+ }
+}

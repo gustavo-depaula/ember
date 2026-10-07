@@ -1,0 +1,427 @@
+{
+ "id": "common.dedication-of-a-church.first-reading-easter.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non Altissimus in manufactis habitat."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Actuum Apostolórum"
+       ]
+      ],
+      "cite": "7, 44-50",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "[Dicebat Stephanus plebi et senioribus et scribis:]"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Tabernáculum testimónii erat pátribus nostris in desérto, sicut dispósuit, qui loquebátur ad Móysen, ut fáceret illud secúndum formam, quam víderat; quod et induxérunt suscipiéntes patres nostri cum Iesu in possessiónem géntium, quas éxpulit Deus a fácie patrum nostrórum, usque in diébus David, qui invénit grátiam ante Deum et pétiit, ut inveníret tabernáculum dómui Iacob."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sálomon autem ædificávit illi domum. Sed non Altíssimus in manufáctis hábitat, sicut prophéta dicit: “Cælum mihi thronus est, terra autem scabéllum pedum meórum. Quam domum ædificábitis mihi, dicit Dóminus, aut quis locus requietiónis meæ? Nonne manus mea fecit hæc ómnia?”»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Altíssimono mora em casa feita por mâos humanas."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura dos Actos dos Apóstolos"
+       ]
+      ],
+      "cite": "7, 44-50",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, Estêvão disse ao povo, aos anciãos e aos mestres da lei: \"Nossos antepassados no deserto tinham a Tenda do testemunho. Deus falando com Moises, mandou que a construisse conforme o modelo que tinha visto. Nossos pais receberam a Tenda e sob a direção de Josué, e levaram para a terra daquelas nações que Deus expulsou diante de nosos pais. E a Tenda ficou ali até o templo de Davi. Mas Davi encontro graça diante de Deus e lhe pediu permissão para construir uma casa para o Deus de Jacó. No entanto, foi Salomão quem construiu a casa. Mas o Altissimo não mora em casa feita por mãos humanas, conforme diz o profeta: 'O céu é o meu trono e a terra é o estrado de meus pés. Que casa construireis para mim? diz o Senhor. E qual será o lugar do meu descanso? Não foi minha mão que fez todas assas coisas?'\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Acts of the Apostles"
+       ]
+      ],
+      "cite": "7:44-50",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "“Our ancestors had the tent of testimony in the desert just as the One who spoke to Moses directed him to make it according to the pattern he had seen. Our ancestors who inherited it brought it with Joshua when they dispossessed the nations that God drove out from before our ancestors, up to the time of David, who found favor in the sight of God and asked that he might find a dwelling place for the house of Jacob. But Solomon built a house for him. Yet the Most High does not dwell in houses made by human hands. As the prophet says: ‘The heavens are my throne, the earth is my footstool. What kind of house can you build for me? says the Lord, or what is to be my resting place? Did not my hand make all these things?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Altísimo no habita en edificios construidos por manos humanas"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de los Hechos de los apóstoles"
+       ]
+      ],
+      "cite": "7, 44-50",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, Esteban dijo al pueblo, a los ancianos y a los escribas:"
+       ],
+       [
+        "«Nuestros padres tenían en el desierto la Tienda del Testimonio, como mandó el que dijo a Moisés que “la construyera, copiando el modelo que había visto”. Nuestros padres recibieron como herencia esta tienda y la introdujeron, guiados por Josué, en el territorio de los gentiles, a los que Dios expulsó delante de ellos. Así estuvieron las cosas hasta el tiempo de David, que alcanzó el favor de Dios, y le pidió “encontrar” una morada “para” la casa de “Jacob”."
+       ],
+       [
+        "Pero fue Salomón el que le construyó la casa, aunque el Altísimo no habita en edificios construidos por manos humanas, como dice el profeta:"
+       ],
+       [
+        "“Mi trono es el cielo; la tierra, el estrado de mis pies. ¿Qué casa me vais a construir —dice el Señor—, o qué lugar para que descanse? ¿No ha hecho mi mano todo esto?”»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'Altìssimo non abita in costruzioni fatte da mano d'uomo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dagli Atti degli Apostoli"
+       ]
+      ],
+      "cite": "7, 44-50",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, [Stefano diceva al popolo, agli anziani e agli scribi]:"
+       ],
+       [
+        "«Nel deserto i nostri padri avevano la tenda della testimonianza, come colui che parlava a Mosè aveva ordinato di costruirla secondo il modello che aveva visto. E dopo averla ricevuta, i nostri padri con Giosuè la portarono con sé nel territorio delle nazioni che Dio scacciò davanti a loro, fino ai tempi di Davide. Costui trovò grazia dinanzi a Dio e domandò di poter trovare una dimora per la casa di Giacobbe; ma fu Salomone che gli costruì una casa."
+       ],
+       [
+        "L'Altissimo tuttavia non abita in costruzioni fatte da mano d'uomo, come dice il profeta:"
+       ],
+       [
+        "\"Il cielo è il mio trono e la terra sgabello dei miei piedi."
+       ],
+       [
+        "Quale casa potrete costruirmi, dice il Signore,"
+       ],
+       [
+        "O quale sarà il luogo del mio riposo?"
+       ],
+       [
+        "Non è forse La mia mano che ha creato tutte queste cose?\"»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre des Actes des Apôtres"
+       ]
+      ],
+      "cite": "7, 44-50",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, Étienne disait au peuple, aux anciens et aux scribes : \" Nos pères, dans le désert, avaient la tente Elle avait été faite d'après les ordres de Celui qui parlait à Moïse et qui lui en avait montré le modèle. Après avoir reçu cette tente, nos pères, avec Josué, la firent entrer dans le pays que les nations possédaient avant que Dieu les chasse loin du visage de nos pères. Cela dura jusqu'au temps de David. Celui-ci trouva grâce devant Dieu et il pria afin de trouver une demeure au Dieu de Jacob. Mais ce fut Salomon qui lui construisit une maison. Pourtant, le Très-Haut n'habite pas dans ce qui est fait de main d'homme, comme le dit le prophète : Le ciel est mon trône, et la terre, l'escabeau de mes pieds. Quelle maison me bâtirez-vous, dit le Seigneur, quel sera le lieu de mon repos ? N'est-ce pas ma main qui a fait tout cela ? \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Apostelgeschichte"
+       ]
+      ],
+      "cite": "7, 44-50",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen sagte Stephanus zum Volk und zu den Ältesten und den Schriftgelehrten:"
+       ],
+       [
+        "Unsere Väter hatten in der Wüste das Bundeszelt. So hat Gott es angeordnet; er hat dem Mose befohlen, es nach dem Vorbild zu errichten, das er geschaut hatte. Und unsere Väter haben es übernommen und mitgebracht, als sie unter Jósua das Land der Heidenvölker besetzten, die Gott vor den Augen unserer Väter vertrieb, bis zu den Tagen Davids. Dieser fand Gnade vor Gott und bat für das Haus Jakob um ein Zeltheiligtum."
+       ],
+       [
+        "Sálomo aber baute ihm ein Haus. Doch der Höchste wohnt nicht in dem, was von Menschenhand gemacht ist, wie der Prophet sagt: Der Himmel ist mein Thron und die Erde der Schemel für meine Füße. Was für ein Haus könnt ihr mir bauen?, spricht der Herr. Oder welcher Ort kann mir als Ruhestätte dienen? Hat nicht meine Hand dies alles gemacht?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

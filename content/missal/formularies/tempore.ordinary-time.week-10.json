@@ -1,1 +1,1216 @@
-{"id":"tempore.ordinary-time.week-10","source":"tiempos/tiempos_ordinario#OT10","kind":"tempore","items":[{"slot":"118","text":{"la":[{"k":"h2","lines":[["DOMINICA X «PER ANNUM»"]]}],"pt-BR":[{"k":"h2","lines":[["10º DOMINGO DO TEMPO COMUM"]]}],"en-US":[{"k":"h2","lines":[["10th SUNDAY IN ORDINARY TIME"]]}],"es":[{"k":"h2","lines":[["X DOMINGO DEL TIEMPO ORDINARIO"]]}],"it":[{"k":"h2","lines":[["X DOMENICA"]]}],"fr":[{"k":"h2","lines":[["Temps ordinaire"],["10ème DIMANCHE"]]}],"de":[{"k":"h2","lines":[["10. SONNTAG IM JAHRESKREIS"]]}]},"part":"title"},{"slot":"119","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 26, 1-2"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 26, 1-2"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 27 (26): 1-2"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 26, 1-2"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 26,1-2"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 26, 1-2"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 27 (26), 1-2"}]},"part":"entranceAntiphon"},{"slot":"120","text":{"la":[{"k":"p","lines":[["Dóminus illuminátio mea, et salus mea, quem timébo? Dóminus defénsor vitæ meæ, a quo trepidábo? Qui tríbulant me inimíci mei, ipsi infirmáti sunt."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor é minha luz e salvação,"],["de quem eu terei medo?"],["O Senhor é a proteção da minha vida;"],["perante quem eu tremerei?"],["São eles, inimigos e opressores,"],["que tropeçam e sucumbem."]]}],"en-US":[{"k":"p","lines":[["The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; whom should I dread? When those who do evil draw near, they stumble and fall."]]}],"es":[{"k":"p","lines":[["El Señor es mi luz y mi salvación, ¿a quién temeré? El Señor es la defensa de mi vida, ¿quién me hará temblar? Ellos, mis enemigos y adversarios, tropiezan y caen."]]}],"it":[{"k":"p","lines":[["Il Signore è mia luce e mia salvezza: di chi avrò timore? Il Signore è difesa della mia vita: di chi avrò paura? Gli avversari e i nemici, sono essi a cadere."]]}],"fr":[{"k":"p","lines":[["Le Seigneur est ma lumière et mon salut ;"],["de qui aurais-je crainte ?"],["Le Seigneur est le rempart de ma vie ;"],["devant qui tremblerais-je ?"],["Mes ennemis, mes adversaires,"],["perdent pied et succombent."]]}],"de":[{"k":"p","lines":[["Der Herr ist mein Licht und mein Heil; vor wem sollte ich mich fürchten? Der Herr ist die Kraft meines Lebens; vor wem sollte mir bangen? Meine Bedränger und Feinde, sie müssen straucheln und fallen."]]}]},"part":"entranceAntiphon"},{"slot":"121","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"122","text":{"la":[{"k":"p","lines":[["Deus, a quo bona cuncta procédunt, tuis largíre supplícibus, ut cogitémus, te inspiránte, quæ recta sunt, et, te gubernánte, éadem faciámus. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, fonte de todo o bem,"],["atendei ao nosso apelo"],["e fazei-nos, por vossa inspiração,"],["pensar o que é certo"],["e realizá-lo com vossa ajuda."],["Por nosso Senhor Jesus Cristo, vosso Filho, que􀁈 Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, from whom all good things come, grant that we, who call on you in our need, may at your prompting discern what is right, and by your guidance do it."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios, fuente de todo bien,"],["escucha a los que te invocamos,"],["para que, inspirados por ti,"],["consideremos lo que es justo"],["y lo cumplamos según tu voluntad."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, sorgente di ogni bene, ispiraci propositi giusti e santi e donaci il tuo aiuto, perché possiamo attuarli nella nostra vita. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu, source de tout bien,"],["réponds sans te lasser à notre appel :"],["inspire-nous de discerner ce qui est juste"],["et dirige-nous pour que nous puissions l'accomplir."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, unser Vater, alles Gute kommt allein von dir. Schenke uns deinen Geist, damit wir erkennen, was recht ist, und es mit deiner Hilfe auch tun. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"123","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"124","text":{"la":[{"k":"p","lines":[["Réspice, Dómine, quǽsumus, nostram propítius servitútem, ut quod offérimus sit tibi munus accéptum, et nostræ caritátis augméntum. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Olhai, Senhor, com bondade"],["nossa disposição em vos servir,"],["para que nossa oferenda vos seja agradável"],["e nos faça crescer no amor."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look kindly upon our service, O Lord, we pray, that what we offer"],["may be an acceptable oblation to you"],["and lead us to grow in charity."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Mira complacido, Señor,"],["nuestro humilde servicio,"],["para que esta ofrenda sea grata a tus ojos"],["y nos haga crecer en el amor."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Volgi il tuo sguardo, o Signore, al nostro servizio sacerdotale, perché questa offerta ti sia gradita e accresca il nostro amore per te. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Regarde favorablement tes serviteurs,"],["Seigneur, nous t'en prions :"],["que notre offrande soit pour toi un présent agréable"],["et nous fasse grandir en charité."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, sieh gütig auf dein Volk, das sich zu deinem Lob versammelt hat. Nimm an, was wir darbringen, und mehre durch diese Feier unsere Liebe. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"125","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Ps 17, 3"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Sl 17, 3"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Ps 18 (17): 3"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Ps 17, 3"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Sal 17,3"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Ps 17, 3"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Ps 18 (17), 3"}]},"part":"communionAntiphon"},{"slot":"126","text":{"la":[{"k":"p","lines":[["Dóminus firmaméntum meum, et refúgium meum, et liberátor meus. Deus meus adiútor meus."]]}],"pt-BR":[{"k":"p","lines":[["Ó meu Deus, sois o rochedo que me abriga,"],["minha força e poderosa salvação,"],["sois meu escudo e proteção, em vós espero!"]]}],"en-US":[{"k":"p","lines":[["The Lord is my rock, my fortress, and my deliverer; my God is my saving strength"]]}],"es":[{"k":"p","lines":[["Señor, mi roca, mi alcázar, mi libertador. Dios mío, peña mía."]]}],"it":[{"k":"p","lines":[["Signore, mia roccia, mia fortezza, mio liberatore, mio Dio, mia rupe, in cui mi rifugio."]]}],"fr":[{"k":"p","lines":[["Le Seigneur est ma forteresse,"],["mon refuge et mon libérateur."],["Mon Dieu vient à mon aide."]]}],"de":[{"k":"p","lines":[["Herr, du bist mein Fels, meine Burg, mein Retter, mein Gott, meine Zuflucht."]]}]},"part":"communionAntiphon"},{"slot":"127","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"1 Io 4, 16"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"1 Jo 4, 16"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"1 Jn 4: 16"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"1 Jn 4, 16"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"1Gv 4,16"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}],["Dieu est amour :"],["qui demeure dans l'amour"],["demeure en Dieu, et Dieu demeure en lui."]],"cite":"1 Io 4, 16"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"1 Joh 4,16"}]},"part":"communionAntiphon"},{"slot":"127a","text":{"en-US":[{"k":"p","lines":[["God is love, and whoever abides in love abides in God, and God in him."]]}],"it":[{"k":"p","lines":[["Dio è amore; chi rimane nell'amore, rimane in Dio e Dio rimane in lui."],[{"m":"rubric","t":"★ A Mt 9, 13"}],["«Misericordia io voglio e non sacrifici», dice il Signore. «Non sono venuto a chiamare i giusti, ma i peccatori»."],[{"m":"rubric","t":"★ B Mc 3, 35"}],["«Chi fa la volontà di Dio, è per me fratello, sorella e madre», dice il Signore."],[{"m":"rubric","t":"★ C Lc 7, 14-15"}],["«Ragazzo, dico a te, alzati!». Il morto si mise seduto e cominciò a parlare. E Gesù lo restituì a sua madre."]]}],"de":[{"k":"p","lines":[["Gott ist Liebe, und wer in der Liebe bleibt, bleibt in Gott, und Gott bleibt in ihm."]]}]},"part":"communionAntiphon"},{"slot":"128","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"129","text":{"la":[{"k":"p","lines":[["Tua nos, Dómine, medicinális operátio, et a nostris perversitátibus cleménter expédiat, et ad ea quæ sunt recta perdúcat. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor de bondade,"],["a vossa força salvadora"],["nos liberte das más inclinações"],["e nos conduza pelo caminho do bem."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May your healing work, O Lord, free us, we pray, from doing evil and lead us to what is right."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Que tu acción medicinal, Señor,"],["nos libere, misericordiosamente, de nuestra maldad"],["y nos conduzca hacia lo que es justo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, la tua forza risanatrice, operante in questo sacramento, ci guarisca dal male e ci guidi sulla via del bene. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Par ta force de guérison, Seigneur,"],["dans ta bonté, libère-nous de nos égarements,"],["et conduis-nous sur le droit chemin."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, die heilende Kraft dieses Sakramentes befreie uns von allem verkehrten Streben und führe uns auf den rechten Weg. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":6,"title":{"la":"DOMINICA X «PER ANNUM»","pt-BR":"10º DOMINGO DO TEMPO COMUM","en-US":"10th SUNDAY IN ORDINARY TIME","es":"X DOMINGO DEL TIEMPO ORDINARIO","it":"X DOMENICA","fr":"Temps ordinaire — 10ème DIMANCHE","de":"10. SONNTAG IM JAHRESKREIS"},"weekdayPrecedence":13}
+{
+ "id": "tempore.ordinary-time.week-10",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMINICA X «PER ANNUM»"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10º DOMINGO DO TEMPO COMUM"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10th SUNDAY IN ORDINARY TIME"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "X DOMINGO DEL TIEMPO ORDINARIO"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "X DOMENICA"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps ordinaire"
+       ],
+       [
+        "10ème DIMANCHE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10. SONNTAG IM JAHRESKREIS"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 26, 1-2"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 26, 1-2"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 27 (26): 1-2"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 26, 1-2"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 26,1-2"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 26, 1-2"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 27 (26), 1-2"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dóminus illuminátio mea, et salus mea, quem timébo? Dóminus defénsor vitæ meæ, a quo trepidábo? Qui tríbulant me inimíci mei, ipsi infirmáti sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor é minha luz e salvação,"
+       ],
+       [
+        "de quem eu terei medo?"
+       ],
+       [
+        "O Senhor é a proteção da minha vida;"
+       ],
+       [
+        "perante quem eu tremerei?"
+       ],
+       [
+        "São eles, inimigos e opressores,"
+       ],
+       [
+        "que tropeçam e sucumbem."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; whom should I dread? When those who do evil draw near, they stumble and fall."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor es mi luz y mi salvación, ¿a quién temeré? El Señor es la defensa de mi vida, ¿quién me hará temblar? Ellos, mis enemigos y adversarios, tropiezan y caen."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore è mia luce e mia salvezza: di chi avrò timore? Il Signore è difesa della mia vita: di chi avrò paura? Gli avversari e i nemici, sono essi a cadere."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur est ma lumière et mon salut ;"
+       ],
+       [
+        "de qui aurais-je crainte ?"
+       ],
+       [
+        "Le Seigneur est le rempart de ma vie ;"
+       ],
+       [
+        "devant qui tremblerais-je ?"
+       ],
+       [
+        "Mes ennemis, mes adversaires,"
+       ],
+       [
+        "perdent pied et succombent."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr ist mein Licht und mein Heil; vor wem sollte ich mich fürchten? Der Herr ist die Kraft meines Lebens; vor wem sollte mir bangen? Meine Bedränger und Feinde, sie müssen straucheln und fallen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, a quo bona cuncta procédunt, tuis largíre supplícibus, ut cogitémus, te inspiránte, quæ recta sunt, et, te gubernánte, éadem faciámus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, fonte de todo o bem,"
+       ],
+       [
+        "atendei ao nosso apelo"
+       ],
+       [
+        "e fazei-nos, por vossa inspiração,"
+       ],
+       [
+        "pensar o que é certo"
+       ],
+       [
+        "e realizá-lo com vossa ajuda."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que􀁈 Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, from whom all good things come, grant that we, who call on you in our need, may at your prompting discern what is right, and by your guidance do it."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios, fuente de todo bien,"
+       ],
+       [
+        "escucha a los que te invocamos,"
+       ],
+       [
+        "para que, inspirados por ti,"
+       ],
+       [
+        "consideremos lo que es justo"
+       ],
+       [
+        "y lo cumplamos según tu voluntad."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, sorgente di ogni bene, ispiraci propositi giusti e santi e donaci il tuo aiuto, perché possiamo attuarli nella nostra vita. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu, source de tout bien,"
+       ],
+       [
+        "réponds sans te lasser à notre appel :"
+       ],
+       [
+        "inspire-nous de discerner ce qui est juste"
+       ],
+       [
+        "et dirige-nous pour que nous puissions l'accomplir."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Vater, alles Gute kommt allein von dir. Schenke uns deinen Geist, damit wir erkennen, was recht ist, und es mit deiner Hilfe auch tun. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Réspice, Dómine, quǽsumus, nostram propítius servitútem, ut quod offérimus sit tibi munus accéptum, et nostræ caritátis augméntum. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Olhai, Senhor, com bondade"
+       ],
+       [
+        "nossa disposição em vos servir,"
+       ],
+       [
+        "para que nossa oferenda vos seja agradável"
+       ],
+       [
+        "e nos faça crescer no amor."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look kindly upon our service, O Lord, we pray, that what we offer"
+       ],
+       [
+        "may be an acceptable oblation to you"
+       ],
+       [
+        "and lead us to grow in charity."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mira complacido, Señor,"
+       ],
+       [
+        "nuestro humilde servicio,"
+       ],
+       [
+        "para que esta ofrenda sea grata a tus ojos"
+       ],
+       [
+        "y nos haga crecer en el amor."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Volgi il tuo sguardo, o Signore, al nostro servizio sacerdotale, perché questa offerta ti sia gradita e accresca il nostro amore per te. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Regarde favorablement tes serviteurs,"
+       ],
+       [
+        "Seigneur, nous t'en prions :"
+       ],
+       [
+        "que notre offrande soit pour toi un présent agréable"
+       ],
+       [
+        "et nous fasse grandir en charité."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, sieh gütig auf dein Volk, das sich zu deinem Lob versammelt hat. Nimm an, was wir darbringen, und mehre durch diese Feier unsere Liebe. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Ps 17, 3"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Sl 17, 3"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Ps 18 (17): 3"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Ps 17, 3"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Sal 17,3"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Ps 17, 3"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Ps 18 (17), 3"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dóminus firmaméntum meum, et refúgium meum, et liberátor meus. Deus meus adiútor meus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó meu Deus, sois o rochedo que me abriga,"
+       ],
+       [
+        "minha força e poderosa salvação,"
+       ],
+       [
+        "sois meu escudo e proteção, em vós espero!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord is my rock, my fortress, and my deliverer; my God is my saving strength"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, mi roca, mi alcázar, mi libertador. Dios mío, peña mía."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore, mia roccia, mia fortezza, mio liberatore, mio Dio, mia rupe, in cui mi rifugio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur est ma forteresse,"
+       ],
+       [
+        "mon refuge et mon libérateur."
+       ],
+       [
+        "Mon Dieu vient à mon aide."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, du bist mein Fels, meine Burg, mein Retter, mein Gott, meine Zuflucht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "1 Io 4, 16"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "1 Jo 4, 16"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "1 Jn 4: 16"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "1 Jn 4, 16"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "1Gv 4,16"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ],
+       [
+        "Dieu est amour :"
+       ],
+       [
+        "qui demeure dans l'amour"
+       ],
+       [
+        "demeure en Dieu, et Dieu demeure en lui."
+       ]
+      ],
+      "cite": "1 Io 4, 16"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "1 Joh 4,16"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "God is love, and whoever abides in love abides in God, and God in him."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio è amore; chi rimane nell'amore, rimane in Dio e Dio rimane in lui."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ A Mt 9, 13"
+        }
+       ],
+       [
+        "«Misericordia io voglio e non sacrifici», dice il Signore. «Non sono venuto a chiamare i giusti, ma i peccatori»."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B Mc 3, 35"
+        }
+       ],
+       [
+        "«Chi fa la volontà di Dio, è per me fratello, sorella e madre», dice il Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C Lc 7, 14-15"
+        }
+       ],
+       [
+        "«Ragazzo, dico a te, alzati!». Il morto si mise seduto e cominciò a parlare. E Gesù lo restituì a sua madre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott ist Liebe, und wer in der Liebe bleibt, bleibt in Gott, und Gott bleibt in ihm."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tua nos, Dómine, medicinális operátio, et a nostris perversitátibus cleménter expédiat, et ad ea quæ sunt recta perdúcat. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor de bondade,"
+       ],
+       [
+        "a vossa força salvadora"
+       ],
+       [
+        "nos liberte das más inclinações"
+       ],
+       [
+        "e nos conduza pelo caminho do bem."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May your healing work, O Lord, free us, we pray, from doing evil and lead us to what is right."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que tu acción medicinal, Señor,"
+       ],
+       [
+        "nos libere, misericordiosamente, de nuestra maldad"
+       ],
+       [
+        "y nos conduzca hacia lo que es justo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, la tua forza risanatrice, operante in questo sacramento, ci guarisca dal male e ci guidi sulla via del bene. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Par ta force de guérison, Seigneur,"
+       ],
+       [
+        "dans ta bonté, libère-nous de nos égarements,"
+       ],
+       [
+        "et conduis-nous sur le droit chemin."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, die heilende Kraft dieses Sakramentes befreie uns von allem verkehrten Streben und führe uns auf den rechten Weg. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 6,
+ "title": {
+  "la": "DOMINICA X «PER ANNUM»",
+  "pt-BR": "10º DOMINGO DO TEMPO COMUM",
+  "en-US": "10th SUNDAY IN ORDINARY TIME",
+  "es": "X DOMINGO DEL TIEMPO ORDINARIO",
+  "it": "X DOMENICA",
+  "fr": "Temps ordinaire — 10ème DIMANCHE",
+  "de": "10. SONNTAG IM JAHRESKREIS"
+ },
+ "weekdayPrecedence": 13
+}

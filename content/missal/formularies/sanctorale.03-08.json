@@ -1,1 +1,735 @@
-{"id":"sanctorale.03-08","source":"santos/santos_mar#0308","kind":"sanctoral","items":[{"slot":"23","text":{"la":[{"k":"h2","lines":[["Die 8 martii"],["S. Ioannis a Deo, religiosi"]]},{"k":"p","lines":[["In Lusitania natus est anno 1495; post vitam periculorum plenam in militia, meliora exoptans servitio ægrotorum totum se dedit. Granatæ in Hispania valetudinarium fundavit et sibi adscivit socios, qui postea Ordinem Hospitalarium sancti Ioannis a Deo constituerunt. Caritate præcipue erga egenos et infirmos enituit. Mortuus est in eadem civitate anno 1550."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi sanctorum: pro religiosis"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":", vel"}," ",{"m":"link","t":"pro iis qui opera misericordiæ exercuerunt","to":"common.holy-men-and-women.12"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["8 de março"],["São João de Deus, religioso"]]},{"k":"p","lines":[["João (Montemor-o-Novo, Portugal, 1495 - Granada, Espanha, 8 de março de 1550), sucessivamente camponês, militar e comerciante, sentiu-se, enfim, chamado a servir a Cristo nos doentes. Fundou hospitais, onde, cheio de confiança na Providência de Deus e solicitando a cooperação dos bons (\"Fazei o bem, irmãos, a vós mesmos\"), cuidava com extraordinária solicitude dos enfermos do corpo e do espírito. Continua sua obra o instituto religioso por ele fundado (Ordem Hospitalar de São João de Deus)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Santos e Santas: para religiosos"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":", ou"}," ",{"m":"link","t":"para os que praticaram obras de misericórdia","to":"common.holy-men-and-women.12"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["March 8"],["Saint John of God, religious"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Holy Men and Women: For Religious"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":", or"}," ",{"m":"link","t":"For Those","to":"common.holy-men-and-women.12"}," ",{"m":"rubric","t":"Who Practiced Works of Mercy."}]]}],"es":[{"k":"h2","lines":[["8 de marzo"],["San Juan de Dios, religioso"]]},{"k":"p","lines":[["Nació en Portugal el año 1495. Después de una milicia llena de peligros, se entregó por completo al servicio de los enfermos. Fundó un hospital en Granada y vinculó a su obra un grupo de compañeros, los cuales constituyeron después la Orden de los Hospitalarios de San Juan de Dios. Destacó, sobre todo, por su caridad con los enfermos y necesitados. Murió en Granada el año 1550."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de santos: religiosos"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":", o de santos"}," ",{"m":"link","t":"que se han consagrado a una actividad caritativa","to":"common.holy-men-and-women.12"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["8 marzo"],["SAN GIOVANNI DI DIO, religioso"]]},{"k":"p","lines":[["Giovanni Ciudad (Montemor-o-Novo, Portogallo, 1495 - Granada, Spagna, 8 marzo 1550), dopo una gioventù disordinata, si convertì, facendosi tutto «di Dio», povero tra i poveri. In seguito a tale brusco cambiamento, lo si credette impazzito: ricoverato tra i malati di mente, condivise le loro miserabili condizioni. Dopo tale drammatica esperienza, aprì luoghi di assistenza per i bisognosi e fu l'ispiratore dell'Ordine degli Ospedalieri di san Giovanni di Dio (Fatebenefratelli)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei santi: per i religiosi"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":", oppure"}," ",{"m":"link","t":"per gli operatori di misericordia","to":"common.holy-men-and-women.12"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["8 mars"],["Saint Jean de Dieu, religieux"]]},{"k":"p","lines":[["Jean de Dieu (1495-1550), qui était d'origine portugaise, se fixa à Grenade (Espagne) après une jeunesse Aventureuse. Bouleversé à la vue du dénuement des hôpitaux, il se mit à recueillir les malades chez lui et à les soigner, mendiant leur nourriture quotidienne. Ainsi naquit l'Ordre des Frères de saint Jean de Dieu, qui perpétue encore de nos jours son action."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun des saints: Religieux"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":", ou"}," ",{"m":"link","t":"des saints ayant exercé une activité caritative","to":"common.holy-men-and-women.12"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["8. März"],["Hl. Johannes von Gott, Ordensgründer"]]},{"k":"p","lines":[["Er wurde im Jahr 1495 in Portugal geboren. Nach einer Zeit des Wehrdienstes voller Gefahren entschied er sein Leben ganz Gott hinzugeben und sich dem Dienst an den Armen zu widmen. Er gründete ein Krankenhaus in Granada und gewann einige Gefährten, die sich zunächst diesem Werk widmeten und später den Malteserorden gründeten. Er ragte besonders heraus durch seine Liebe zu den Armen und Hilfsbedürftigen. Er starb in Granada im Jahr 1550."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Ordensleute:"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":", oder"}," ",{"m":"link","t":"für Heilige","to":"common.holy-men-and-women.12"}," ",{"m":"rubric","t":"der Nächstenliebe."}]]}]},"part":"title"},{"slot":"24","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"25","text":{"la":[{"k":"p","lines":[["Deus, qui beátum Ioánnem misericórdiæ spíritu perfudísti,"],["da, quǽsumus, ut, caritátis ópera exercéntes,"],["inter eléctos in regno tuo inveníri mereámur."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que enchestes de misericórdia"],["o coração de São João de Deus,"],["concedei-nos que, praticando as obras de caridade,"],["mereçamos ser contados entre os eleitos no vosso Reino."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who filled Saint John of God"],["with a spirit of compassion,"],["grant, we pray,"],["that, giving ourselves to works of charity,"],["we may merit to be found among the elect in your Kingdom. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que colmaste a san Juan de Dios"],["de espíritu de misericordia,"],["te pedimos que, practicando las obras de caridad,"],["merezcamos encontrarnos"],["entre los elegidos de tu reino."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Padre, che hai riempito il cuore di san Giovanni [di Dio] dello spirito di misericordia, concedi a noi di praticare le opere di carità per essere accolti tra gli eletti nel tuo regno. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Toi qui as répandu un esprit de compassion"],["sur saint Jean de Dieu,"],["nous te prions, Seigneur :"],["donne-nous de mettre en œuvre ta charité,"],["et ainsi de trouver place parmi les élus dans ton Royaume."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, die Liebe zu dir hat den heiligen Johannes gedrängt, an den Leiden der Kranken Anteil zu nehmen und ihnen zu helfen. Dränge auch uns zu Werken der Barmherzigkeit und lass uns zu denen gehören, die dein Reich besitzen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"26","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.03-08","prefaces":["preface.57"],"commons":["common.holy-men-and-women.10","common.holy-men-and-women.11","common.holy-men-and-women.12"],"title":{"la":"S. Ioannis a Deo, religiosi","pt-BR":"São João de Deus, religioso","en-US":"Saint John of God, religious","es":"San Juan de Dios, religioso","it":"SAN GIOVANNI DI DIO, religioso","fr":"Saint Jean de Dieu, religieux","de":"Hl. Johannes von Gott, Ordensgründer"}}
+{
+ "id": "sanctorale.03-08",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 8 martii"
+       ],
+       [
+        "S. Ioannis a Deo, religiosi"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Lusitania natus est anno 1495; post vitam periculorum plenam in militia, meliora exoptans servitio ægrotorum totum se dedit. Granatæ in Hispania valetudinarium fundavit et sibi adscivit socios, qui postea Ordinem Hospitalarium sancti Ioannis a Deo constituerunt. Caritate præcipue erga egenos et infirmos enituit. Mortuus est in eadem civitate anno 1550."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi sanctorum: pro religiosis"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": ", vel"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "pro iis qui opera misericordiæ exercuerunt",
+         "to": "common.holy-men-and-women.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8 de março"
+       ],
+       [
+        "São João de Deus, religioso"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "João (Montemor-o-Novo, Portugal, 1495 - Granada, Espanha, 8 de março de 1550), sucessivamente camponês, militar e comerciante, sentiu-se, enfim, chamado a servir a Cristo nos doentes. Fundou hospitais, onde, cheio de confiança na Providência de Deus e solicitando a cooperação dos bons (\"Fazei o bem, irmãos, a vós mesmos\"), cuidava com extraordinária solicitude dos enfermos do corpo e do espírito. Continua sua obra o instituto religioso por ele fundado (Ordem Hospitalar de São João de Deus)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Santos e Santas: para religiosos"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "para os que praticaram obras de misericórdia",
+         "to": "common.holy-men-and-women.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "March 8"
+       ],
+       [
+        "Saint John of God, religious"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Holy Men and Women: For Religious"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": ", or"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "For Those",
+         "to": "common.holy-men-and-women.12"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "Who Practiced Works of Mercy."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8 de marzo"
+       ],
+       [
+        "San Juan de Dios, religioso"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nació en Portugal el año 1495. Después de una milicia llena de peligros, se entregó por completo al servicio de los enfermos. Fundó un hospital en Granada y vinculó a su obra un grupo de compañeros, los cuales constituyeron después la Orden de los Hospitalarios de San Juan de Dios. Destacó, sobre todo, por su caridad con los enfermos y necesitados. Murió en Granada el año 1550."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de santos: religiosos"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": ", o de santos"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "que se han consagrado a una actividad caritativa",
+         "to": "common.holy-men-and-women.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8 marzo"
+       ],
+       [
+        "SAN GIOVANNI DI DIO, religioso"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Giovanni Ciudad (Montemor-o-Novo, Portogallo, 1495 - Granada, Spagna, 8 marzo 1550), dopo una gioventù disordinata, si convertì, facendosi tutto «di Dio», povero tra i poveri. In seguito a tale brusco cambiamento, lo si credette impazzito: ricoverato tra i malati di mente, condivise le loro miserabili condizioni. Dopo tale drammatica esperienza, aprì luoghi di assistenza per i bisognosi e fu l'ispiratore dell'Ordine degli Ospedalieri di san Giovanni di Dio (Fatebenefratelli)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei santi: per i religiosi"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": ", oppure"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "per gli operatori di misericordia",
+         "to": "common.holy-men-and-women.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8 mars"
+       ],
+       [
+        "Saint Jean de Dieu, religieux"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jean de Dieu (1495-1550), qui était d'origine portugaise, se fixa à Grenade (Espagne) après une jeunesse Aventureuse. Bouleversé à la vue du dénuement des hôpitaux, il se mit à recueillir les malades chez lui et à les soigner, mendiant leur nourriture quotidienne. Ainsi naquit l'Ordre des Frères de saint Jean de Dieu, qui perpétue encore de nos jours son action."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun des saints: Religieux"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "des saints ayant exercé une activité caritative",
+         "to": "common.holy-men-and-women.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8. März"
+       ],
+       [
+        "Hl. Johannes von Gott, Ordensgründer"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er wurde im Jahr 1495 in Portugal geboren. Nach einer Zeit des Wehrdienstes voller Gefahren entschied er sein Leben ganz Gott hinzugeben und sich dem Dienst an den Armen zu widmen. Er gründete ein Krankenhaus in Granada und gewann einige Gefährten, die sich zunächst diesem Werk widmeten und später den Malteserorden gründeten. Er ragte besonders heraus durch seine Liebe zu den Armen und Hilfsbedürftigen. Er starb in Granada im Jahr 1550."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Ordensleute:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": ", oder"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "für Heilige",
+         "to": "common.holy-men-and-women.12"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "der Nächstenliebe."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui beátum Ioánnem misericórdiæ spíritu perfudísti,"
+       ],
+       [
+        "da, quǽsumus, ut, caritátis ópera exercéntes,"
+       ],
+       [
+        "inter eléctos in regno tuo inveníri mereámur."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que enchestes de misericórdia"
+       ],
+       [
+        "o coração de São João de Deus,"
+       ],
+       [
+        "concedei-nos que, praticando as obras de caridade,"
+       ],
+       [
+        "mereçamos ser contados entre os eleitos no vosso Reino."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who filled Saint John of God"
+       ],
+       [
+        "with a spirit of compassion,"
+       ],
+       [
+        "grant, we pray,"
+       ],
+       [
+        "that, giving ourselves to works of charity,"
+       ],
+       [
+        "we may merit to be found among the elect in your Kingdom. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que colmaste a san Juan de Dios"
+       ],
+       [
+        "de espíritu de misericordia,"
+       ],
+       [
+        "te pedimos que, practicando las obras de caridad,"
+       ],
+       [
+        "merezcamos encontrarnos"
+       ],
+       [
+        "entre los elegidos de tu reino."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che hai riempito il cuore di san Giovanni [di Dio] dello spirito di misericordia, concedi a noi di praticare le opere di carità per essere accolti tra gli eletti nel tuo regno. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Toi qui as répandu un esprit de compassion"
+       ],
+       [
+        "sur saint Jean de Dieu,"
+       ],
+       [
+        "nous te prions, Seigneur :"
+       ],
+       [
+        "donne-nous de mettre en œuvre ta charité,"
+       ],
+       [
+        "et ainsi de trouver place parmi les élus dans ton Royaume."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, die Liebe zu dir hat den heiligen Johannes gedrängt, an den Leiden der Kranken Anteil zu nehmen und ihnen zu helfen. Dränge auch uns zu Werken der Barmherzigkeit und lass uns zu denen gehören, die dein Reich besitzen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.03-08",
+ "prefaces": [
+  "preface.57"
+ ],
+ "commons": [
+  "common.holy-men-and-women.10",
+  "common.holy-men-and-women.11",
+  "common.holy-men-and-women.12"
+ ],
+ "title": {
+  "la": "S. Ioannis a Deo, religiosi",
+  "pt-BR": "São João de Deus, religioso",
+  "en-US": "Saint John of God, religious",
+  "es": "San Juan de Dios, religioso",
+  "it": "SAN GIOVANNI DI DIO, religioso",
+  "fr": "Saint Jean de Dieu, religieux",
+  "de": "Hl. Johannes von Gott, Ordensgründer"
+ }
+}

@@ -1,1 +1,1418 @@
-{"id":"for-the-dead.8","source":"comunes_votivas/difuntos#dif008","kind":"for-the-dead","items":[{"slot":"89","text":{"la":[{"k":"h2","lines":[["II. IN ANNIVERSARIO"]]},{"k":"h3","lines":[["A. EXTRA TEMPUS PASCHALE"]]},{"k":"p","lines":[[{"m":"rubric","t":"Hæc Missa celebrari potest in primo anniversario die etiam diebus infra octavam Nativitatis et diebus quibus occurrit memoria obligatoria aut feria quæ non sit IV Cinerum aut Hebdomadæ sanctæ. In aliis anniversariis, celebrari potest in feriis «per annum», etiamsi occurrit memoria ad libitum."}]]}],"pt-BR":[{"k":"h2","lines":[["II. NO ANIVERSÁRIO"]]},{"k":"h3","lines":[["A. Fora do Tempo Pascal"]]},{"k":"p","lines":[[{"m":"rubric","t":"Esta Missa pode ser celebrada no primeiro aniversário, também nos dias da oitava de Natal e nos dias em que ocorre uma memória obrigatória, ou num dia de semana, com exceção da Quarta-feira de Cinzas ou dos dias da Semana Santa. Nos outros aniversários, pode ser celebrada nos dias de semana do Tempo Comum, mesmo ocorrendo uma memória facultativa."}]]}],"en-US":[{"k":"h2","lines":[["II. ON THE ANNIVERSARY MASS"]]},{"k":"p","lines":[[{"m":"rubric","t":"This Mass may be celebrated on the first anniversary even on days within the octave of the Nativity of the Lord, and on days when an obligatory Memorial occurs and on weekdays, with the exception of ash Wednesday and weekdays during holy Week."}],[{"m":"rubric","t":"on other anniversaries, this Mass may be celebrated on weekdays in ordinary time even when an optional Memorial occurs."}]]},{"k":"h3","lines":[["A. Outside Easter Time"]]}],"es":[{"k":"h2","lines":[["II. EN EL ANIVERSARIO"]]},{"k":"h3","lines":[["A. Fuera del tiempo pascual"]]},{"k":"p","lines":[[{"m":"rubric","t":"Esta misa se puede celebrar en el día del primer aniversario, incluso en los días de la octava de la Natividad del Señor, en los que concurre una memoria obligatoria, o en las ferias que no sean el Miércoles de Ceniza o la Semana Santa."}],[{"m":"rubric","t":"En otros aniversarios, se puede celebrar en las ferias del tiempo ordinario aunque concurra una memoria libre."}]]}],"it":[{"k":"h2","lines":[["II. NELL'ANNIVERSARIO"]]},{"k":"p","lines":[[{"m":"rubric","t":"Questo formulario si può utilizzare nel primo anniversario, anche nei giorni fra l'Ottava di Natale e nei giorni in cui ricorre una memoria obbligatoria o un giorno feriale che non sia il Mercoledì delle Ceneri o nella Settimana Santa. Negli altri anniversari, si può utilizzare nelle ferie del Tempo Ordinario, anche se ricorre una memoria facoltativa."}]]},{"k":"h3","lines":[["A. Fuori del tempo pasquale"]]}],"fr":[{"k":"h2","lines":[["II. MESSE ANNIVERSAIRE DE DÉCÈS"]]},{"k":"h3","lines":[["A. HORS DU TEMPS PASCAL"]]},{"k":"p","lines":[[{"m":"rubric","t":"Pour les messes célébrées au huitième et au trentième jours après les funérailles, le prêtre pourra employer en les adaptant les prières de la messe anniversaire."}]]}],"de":[{"k":"h2","lines":[["II. BEIM JAHRESGEDÄCHTNIS"]]},{"k":"h3","lines":[["A. Außerhalb der Osterzeit"]]}]},"part":"title"},{"slot":"90","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ap 21, 4"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Ap 21, 4"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Rev 21, 4"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Ap 21, 4"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Ap 21, 4"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ap 21, 4"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Offb 21, 4"}]},"part":"entranceAntiphon"},{"slot":"91","text":{"la":[{"k":"p","lines":[["Abstérget Deus omnem lácrimam ab óculis eórum, et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima transiérunt."]]}],"pt-BR":[{"k":"p","lines":[["Deus enxugará toda lágrima dos seus olhos. A morte não existirá mais, e não haverá mais luto, nem choro, nem dor, porque passou o que havia antes."]]}],"en-US":[{"k":"p","lines":[["God will wipe every tear from their eyes, and there shall be no more death"],["or mourning, crying or pain,"],["for former things have passed away."]]}],"es":[{"k":"p","lines":[["Dios enjugará toda lágrima de sus ojos, y ya no habrá más muerte, ni duelo, ni llanto ni dolor, porque lo primero ha desaparecido."]]}],"it":[{"k":"p","lines":[["Dio asciugherà ogni lacrima dai loro occhi e non vi sarà più la morte né lutto né lamento né affanno, perché le cose di prima sono passate"]]}],"fr":[{"k":"p","lines":[["Dieu essuiera toute larme de leurs yeux,"],["et la mort ne sera plus,"],["et il n'y aura plus ni deuil, ni cri, ni douleur :"],["ce qui existait en premier s'en est allé."]]}],"de":[{"k":"p","lines":[["Der Herr wird jede Träne aus ihren Augen wischen: der Tod wird nicht mehr sein, nicht Trauer noch Klage, noch Mühsal; denn die alte Welt ist vergangen."]]}]},"part":"entranceAntiphon"},{"slot":"92","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"93","text":{"la":[{"k":"p","lines":[["Deus, glória fidélium et vita iustórum, cuius Fílii morte et resurrectióne redémpti sumus, propitiáre fámulo tuo ",{"m":"rubric","t":"N."},", ut, qui resurrectiónis nostræ mystérium agnóvit, ætérnæ beatitúdinis gáudia percípere mereátur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, glória dos fiéis e vida dos justos, que nos remistes pela morte e ressurreição do vosso Filho, concedei benigno ao vosso servo ",{"m":"rubric","t":"N."}," que, tendo acreditado no mistério da nossa ressurreição, mereça alcançar as alegrias da bem-aventurança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, glory of the faithful and life of the just, by the Death and Resurrection of whose son we have been redeemed,"],["look mercifully on your departed servant ",{"m":"rubric","t":"N."},", that, just as he ",{"m":"rubric","t":"("},"she",{"m":"rubric","t":")"}," professed"],["the mystery of our resurrection,"],["so he ",{"m":"rubric","t":"("},"she",{"m":"rubric","t":")"}," may merit to receive"],["the joys of eternal happiness."],["Through our lord Jesus Christ, your son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["gloria de los fieles y vida de los justos,"],["los redimidos por la muerte y resurrección de tu Hijo"],["te pedimos que acojas con bondad a tu siervo ",{"m":"rubric","t":"N."}],["para que, quien profesó el misterio de nuestra resurrección,"],["merezca alcanzar los gozos de la eterna bienaventuranza."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, gloria dei credenti e vita dei giusti, che ci hai salvati con la morte e la risurrezione del tuo Figlio, sii misericordioso con il nostro fratello [la nostra sorella] N.",{"m":"rubric","t":"["},"la nostra sorella",{"m":"rubric","t":"] N."},": a lui ",{"m":"rubric","t":"["},"lei",{"m":"rubric","t":"]"},", che ha creduto nel mistero della nostra risurrezione, dona la gioia della beatitudine futura. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu es la gloire de tes fidèles,"],["tu es la vie des justes,"],["et ton propre Fils nous a rachetés"],["par sa mort et sa résurrection ;"],["regarde avec bienveillance ton serviteur ",{"m":"rubric","t":"N."}," défunt :"],["puisqu'il a reconnu la vérité du mystère de notre résurrection,"],["accorde-lui de goûter les joies de la béatitude éternelle."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du bist das Licht der Glaubenden und das Leben der Heiligen. Du hast uns durch den Tod und die Auferstehung deines Sohnes erlöst. Sei deinem Diener ",{"m":"rubric","t":"("},"deiner Dienerin",{"m":"rubric","t":") N."}," gnädig, der ",{"m":"rubric","t":"("},"die",{"m":"rubric","t":")"}," das Geheimnis unserer Auferstehung gläubig bekannt hat, und lass ihn ",{"m":"rubric","t":"("},"sie",{"m":"rubric","t":")"}," auf ewig deine Herrlichkeit schauen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"94","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"95","text":{"la":[{"k":"p","lines":[["Múnera, quǽsumus, Dómine, quæ tibi pro ánima fámuli tui ",{"m":"rubric","t":"N."}," offérimus, placátus inténde, ut, remédiis purgáta cæléstibus, in tua glória semper viva sit et beáta. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Olhai com bondade, Senhor, para as oferendas que vos apresentamos pelo vosso servo ",{"m":"rubric","t":"N."},", para que, purificado por este sacrifício, viva sempre feliz na vossa glória. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look with favor, we pray, O Lord,"],["on the offerings we make for the soul of your servant ",{"m":"rubric","t":"N."},", that, being cleansed by heavenly remedies,"],["his ",{"m":"rubric","t":"("},"her",{"m":"rubric","t":")"}," soul may be ever alive"],["and blessed in your glory."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Mira con bondad, Señor,"],["las ofrendas que te presentamos"],["por el alma de tu siervo ",{"m":"rubric","t":"N."},";"],["haz que, purificada por los auxilios celestiales,"],["viva por siempre feliz en tu gloria."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guarda con bontà, o Signore, i doni che ti offriamo per l'anima del nostro fratello ",{"m":"rubric","t":"["},"della nostra sorella",{"m":"rubric","t":"] N."},", perché, purificato[a] da questo divino sacrificio, viva felice per sempre nella tua gloria. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Jette un regard favorable, nous t'en prions, Seigneur,"],["sur les offrandes que nous te présentons"],["pour l'âme de ton serviteur ",{"m":"rubric","t":"N."}," ;"],["qu'elle soit purifiée par les secours venant du ciel"],["et connaisse dans ta gloire la vie et le bonheur à jamais."],["Par le Christ, notre Seigneur"]]}],"de":[{"k":"p","lines":[["Herr, sieh gnädig auf die Gaben, die wir für deinen Diener ",{"m":"rubric","t":"("},"deine Dienerin",{"m":"rubric","t":") N."}," darbringen. Reinige ihn ",{"m":"rubric","t":"("},"sie",{"m":"rubric","t":")"}," durch das heilige Opfer und schenk ihm ",{"m":"rubric","t":"("},"ihr",{"m":"rubric","t":")"}," bei dir Leben und Seligkeit. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"97","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 11, 25; 3, 36; 5, 24"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 11, 25; 3, 36; 5, 24"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 11: 25; 3: 36; 5: 24"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Jn 11, 25; 3, 36; 5, 24"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Gv 11, 25; 3, 36; 5, 24"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 11, 25; 3, 36; 5, 24"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 11, 25; 3, 36; 5, 24"}]},"part":"communionAntiphon"},{"slot":"98","text":{"la":[{"k":"p","lines":[["Ego sum resurréctio et vita, dicit Dóminus. Qui credit in me, habet vitam ætérnam, et in iudícium non venit, sed tránsiet de morte ad vitam."]]}],"pt-BR":[{"k":"p","lines":[["Eu sou a ressurreição e a vida, diz o Senhor. Quem crê em mim tem a vida eterna, e não vai a julgamento, mas passou da morte para a vida."]]}],"en-US":[{"k":"p","lines":[["I am the resurrection and the Life, says the Lord. Whoever believes in me has eternal life"],["and does not come to condemnation,"],["but has passed from death to life."]]}],"es":[{"k":"p","lines":[["Yo soy la resurrección y la vida, dice el Señor; el que cree en mí posee la vida eterna y no incurre en juicio, sino que ha pasado ya de la muerte a la vida."]]}],"it":[{"k":"p","lines":[["«Io sono la risurrezione e la vita», dice il Signore. «Chi crede in me ha la vita eterna e non va incontro al giudizio, ma passa dalla morte alla vita»."]]}],"fr":[{"k":"p","lines":[["Je suis la résurrection et la vie, dit le Seigneur."],["Celui qui croit en moi a la vie éternelle,"],["et il échappe au jugement,"],["car déjà il est passé de la mort à la vie."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Ich bin die Auferstehung und das Leben. Wer an mich glaubt, hat das ewige Leben, und er kommt nicht ins Gericht, sondern er ist aus dem Tod ins Leben hinübergegangen."]]}]},"part":"communionAntiphon"},{"slot":"99","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"100","text":{"la":[{"k":"p","lines":[["Sacris reparáti mystériis, te, Dómine, supplíciter exorámus, ut fámulus tuus ",{"m":"rubric","t":"N."},", a delíctis ómnibus emundátus, ætérno resurrectiónis múnere ditári mereátur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Restaurados por estes santos mistérios, nós vos pedimos humildemente, Senhor, que o vosso servo ",{"m":"rubric","t":"N."},", purificado de toda a culpa, mereça alcançar o dom eterno da ressurreição. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Restored by these sacred mysteries,"],["we humbly beseech you, O Lord,"],["that your servant ",{"m":"rubric","t":"N."}," may be cleansed from all offenses and merit for all eternity"],["the precious gift of the Resurrection."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Confortados con los misterios sagrados,"],["te pedimos humildemente que tu siervo ",{"m":"rubric","t":"N."},","],["purificado de todos los pecados,"],["merezca recibir el don eterno de la resurrección."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Rinnovati dai santi misteri, ti supplichiamo, o Signore, perché il nostro fratello",{"m":"rubric","t":"["},"la nostra sorella",{"m":"rubric","t":"] N."},", purificato",{"m":"rubric","t":"["},"a",{"m":"rubric","t":"]"}," da ogni colpa, possa godere del dono eterno della risurrezione. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous t'en supplions, Seigneur,"],["toi qui refais nos forces par ces mystères très saints :"],["accorde à ton serviteur ",{"m":"rubric","t":"N."},","],["purifié de toutes ses fautes,"],["d'être comblé par le don éternel de la résurrection."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, durch die Feier der heiligen Geheimnisse schenkst du uns Verzeihung und neues Leben. Wir beten für unseren verstorbenen Bruder ",{"m":"rubric","t":"N. ("},"unsere verstorbene Schwester ",{"m":"rubric","t":"N.)"},". Gib, dass er ",{"m":"rubric","t":"("},"sie",{"m":"rubric","t":")"},", gereinigt von aller Schuld, zur Fülle des Lebens aufersteht. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.67","preface.68","preface.69","preface.70","preface.71"],"title":{"la":"II. IN ANNIVERSARIO","pt-BR":"II. NO ANIVERSÁRIO","en-US":"II. ON THE ANNIVERSARY MASS","es":"II. EN EL ANIVERSARIO","it":"II. NELL'ANNIVERSARIO","fr":"II. MESSE ANNIVERSAIRE DE DÉCÈS","de":"II. BEIM JAHRESGEDÄCHTNIS"},"subtitle":{"la":"A. EXTRA TEMPUS PASCHALE","pt-BR":"A. Fora do Tempo Pascal","en-US":"A. Outside Easter Time","es":"A. Fuera del tiempo pascual","it":"A. Fuori del tempo pasquale","fr":"A. HORS DU TEMPS PASCAL","de":"A. Außerhalb der Osterzeit"}}
+{
+ "id": "for-the-dead.8",
+ "kind": "for-the-dead",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. IN ANNIVERSARIO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "A. EXTRA TEMPUS PASCHALE"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Hæc Missa celebrari potest in primo anniversario die etiam diebus infra octavam Nativitatis et diebus quibus occurrit memoria obligatoria aut feria quæ non sit IV Cinerum aut Hebdomadæ sanctæ. In aliis anniversariis, celebrari potest in feriis «per annum», etiamsi occurrit memoria ad libitum."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. NO ANIVERSÁRIO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "A. Fora do Tempo Pascal"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Esta Missa pode ser celebrada no primeiro aniversário, também nos dias da oitava de Natal e nos dias em que ocorre uma memória obrigatória, ou num dia de semana, com exceção da Quarta-feira de Cinzas ou dos dias da Semana Santa. Nos outros aniversários, pode ser celebrada nos dias de semana do Tempo Comum, mesmo ocorrendo uma memória facultativa."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. ON THE ANNIVERSARY MASS"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "This Mass may be celebrated on the first anniversary even on days within the octave of the Nativity of the Lord, and on days when an obligatory Memorial occurs and on weekdays, with the exception of ash Wednesday and weekdays during holy Week."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "on other anniversaries, this Mass may be celebrated on weekdays in ordinary time even when an optional Memorial occurs."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "A. Outside Easter Time"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. EN EL ANIVERSARIO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "A. Fuera del tiempo pascual"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Esta misa se puede celebrar en el día del primer aniversario, incluso en los días de la octava de la Natividad del Señor, en los que concurre una memoria obligatoria, o en las ferias que no sean el Miércoles de Ceniza o la Semana Santa."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "En otros aniversarios, se puede celebrar en las ferias del tiempo ordinario aunque concurra una memoria libre."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. NELL'ANNIVERSARIO"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Questo formulario si può utilizzare nel primo anniversario, anche nei giorni fra l'Ottava di Natale e nei giorni in cui ricorre una memoria obbligatoria o un giorno feriale che non sia il Mercoledì delle Ceneri o nella Settimana Santa. Negli altri anniversari, si può utilizzare nelle ferie del Tempo Ordinario, anche se ricorre una memoria facoltativa."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "A. Fuori del tempo pasquale"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. MESSE ANNIVERSAIRE DE DÉCÈS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "A. HORS DU TEMPS PASCAL"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pour les messes célébrées au huitième et au trentième jours après les funérailles, le prêtre pourra employer en les adaptant les prières de la messe anniversaire."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "II. BEIM JAHRESGEDÄCHTNIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "A. Außerhalb der Osterzeit"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ap 21, 4"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Ap 21, 4"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Rev 21, 4"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Ap 21, 4"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Ap 21, 4"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ap 21, 4"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Offb 21, 4"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Abstérget Deus omnem lácrimam ab óculis eórum, et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima transiérunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus enxugará toda lágrima dos seus olhos. A morte não existirá mais, e não haverá mais luto, nem choro, nem dor, porque passou o que havia antes."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "God will wipe every tear from their eyes, and there shall be no more death"
+       ],
+       [
+        "or mourning, crying or pain,"
+       ],
+       [
+        "for former things have passed away."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios enjugará toda lágrima de sus ojos, y ya no habrá más muerte, ni duelo, ni llanto ni dolor, porque lo primero ha desaparecido."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio asciugherà ogni lacrima dai loro occhi e non vi sarà più la morte né lutto né lamento né affanno, perché le cose di prima sono passate"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu essuiera toute larme de leurs yeux,"
+       ],
+       [
+        "et la mort ne sera plus,"
+       ],
+       [
+        "et il n'y aura plus ni deuil, ni cri, ni douleur :"
+       ],
+       [
+        "ce qui existait en premier s'en est allé."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr wird jede Träne aus ihren Augen wischen: der Tod wird nicht mehr sein, nicht Trauer noch Klage, noch Mühsal; denn die alte Welt ist vergangen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, glória fidélium et vita iustórum, cuius Fílii morte et resurrectióne redémpti sumus, propitiáre fámulo tuo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", ut, qui resurrectiónis nostræ mystérium agnóvit, ætérnæ beatitúdinis gáudia percípere mereátur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, glória dos fiéis e vida dos justos, que nos remistes pela morte e ressurreição do vosso Filho, concedei benigno ao vosso servo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " que, tendo acreditado no mistério da nossa ressurreição, mereça alcançar as alegrias da bem-aventurança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, glory of the faithful and life of the just, by the Death and Resurrection of whose son we have been redeemed,"
+       ],
+       [
+        "look mercifully on your departed servant ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", that, just as he ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "she",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " professed"
+       ],
+       [
+        "the mystery of our resurrection,"
+       ],
+       [
+        "so he ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "she",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " may merit to receive"
+       ],
+       [
+        "the joys of eternal happiness."
+       ],
+       [
+        "Through our lord Jesus Christ, your son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "gloria de los fieles y vida de los justos,"
+       ],
+       [
+        "los redimidos por la muerte y resurrección de tu Hijo"
+       ],
+       [
+        "te pedimos que acojas con bondad a tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "para que, quien profesó el misterio de nuestra resurrección,"
+       ],
+       [
+        "merezca alcanzar los gozos de la eterna bienaventuranza."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, gloria dei credenti e vita dei giusti, che ci hai salvati con la morte e la risurrezione del tuo Figlio, sii misericordioso con il nostro fratello [la nostra sorella] N.",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "la nostra sorella",
+        {
+         "m": "rubric",
+         "t": "] N."
+        },
+        ": a lui ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "lei",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        ", che ha creduto nel mistero della nostra risurrezione, dona la gioia della beatitudine futura. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu es la gloire de tes fidèles,"
+       ],
+       [
+        "tu es la vie des justes,"
+       ],
+       [
+        "et ton propre Fils nous a rachetés"
+       ],
+       [
+        "par sa mort et sa résurrection ;"
+       ],
+       [
+        "regarde avec bienveillance ton serviteur ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " défunt :"
+       ],
+       [
+        "puisqu'il a reconnu la vérité du mystère de notre résurrection,"
+       ],
+       [
+        "accorde-lui de goûter les joies de la béatitude éternelle."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du bist das Licht der Glaubenden und das Leben der Heiligen. Du hast uns durch den Tod und die Auferstehung deines Sohnes erlöst. Sei deinem Diener ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "deiner Dienerin",
+        {
+         "m": "rubric",
+         "t": ") N."
+        },
+        " gnädig, der ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "die",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " das Geheimnis unserer Auferstehung gläubig bekannt hat, und lass ihn ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "sie",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " auf ewig deine Herrlichkeit schauen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Múnera, quǽsumus, Dómine, quæ tibi pro ánima fámuli tui ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " offérimus, placátus inténde, ut, remédiis purgáta cæléstibus, in tua glória semper viva sit et beáta. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Olhai com bondade, Senhor, para as oferendas que vos apresentamos pelo vosso servo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", para que, purificado por este sacrifício, viva sempre feliz na vossa glória. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look with favor, we pray, O Lord,"
+       ],
+       [
+        "on the offerings we make for the soul of your servant ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", that, being cleansed by heavenly remedies,"
+       ],
+       [
+        "his ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "her",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " soul may be ever alive"
+       ],
+       [
+        "and blessed in your glory."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mira con bondad, Señor,"
+       ],
+       [
+        "las ofrendas que te presentamos"
+       ],
+       [
+        "por el alma de tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ";"
+       ],
+       [
+        "haz que, purificada por los auxilios celestiales,"
+       ],
+       [
+        "viva por siempre feliz en tu gloria."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda con bontà, o Signore, i doni che ti offriamo per l'anima del nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "della nostra sorella",
+        {
+         "m": "rubric",
+         "t": "] N."
+        },
+        ", perché, purificato[a] da questo divino sacrificio, viva felice per sempre nella tua gloria. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jette un regard favorable, nous t'en prions, Seigneur,"
+       ],
+       [
+        "sur les offrandes que nous te présentons"
+       ],
+       [
+        "pour l'âme de ton serviteur ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " ;"
+       ],
+       [
+        "qu'elle soit purifiée par les secours venant du ciel"
+       ],
+       [
+        "et connaisse dans ta gloire la vie et le bonheur à jamais."
+       ],
+       [
+        "Par le Christ, notre Seigneur"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, sieh gnädig auf die Gaben, die wir für deinen Diener ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "deine Dienerin",
+        {
+         "m": "rubric",
+         "t": ") N."
+        },
+        " darbringen. Reinige ihn ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "sie",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " durch das heilige Opfer und schenk ihm ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "ihr",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " bei dir Leben und Seligkeit. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 11, 25; 3, 36; 5, 24"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 11, 25; 3, 36; 5, 24"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 11: 25; 3: 36; 5: 24"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Jn 11, 25; 3, 36; 5, 24"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Gv 11, 25; 3, 36; 5, 24"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 11, 25; 3, 36; 5, 24"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 11, 25; 3, 36; 5, 24"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego sum resurréctio et vita, dicit Dóminus. Qui credit in me, habet vitam ætérnam, et in iudícium non venit, sed tránsiet de morte ad vitam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu sou a ressurreição e a vida, diz o Senhor. Quem crê em mim tem a vida eterna, e não vai a julgamento, mas passou da morte para a vida."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I am the resurrection and the Life, says the Lord. Whoever believes in me has eternal life"
+       ],
+       [
+        "and does not come to condemnation,"
+       ],
+       [
+        "but has passed from death to life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo soy la resurrección y la vida, dice el Señor; el que cree en mí posee la vida eterna y no incurre en juicio, sino que ha pasado ya de la muerte a la vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Io sono la risurrezione e la vita», dice il Signore. «Chi crede in me ha la vita eterna e non va incontro al giudizio, ma passa dalla morte alla vita»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je suis la résurrection et la vie, dit le Seigneur."
+       ],
+       [
+        "Celui qui croit en moi a la vie éternelle,"
+       ],
+       [
+        "et il échappe au jugement,"
+       ],
+       [
+        "car déjà il est passé de la mort à la vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Ich bin die Auferstehung und das Leben. Wer an mich glaubt, hat das ewige Leben, und er kommt nicht ins Gericht, sondern er ist aus dem Tod ins Leben hinübergegangen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacris reparáti mystériis, te, Dómine, supplíciter exorámus, ut fámulus tuus ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", a delíctis ómnibus emundátus, ætérno resurrectiónis múnere ditári mereátur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Restaurados por estes santos mistérios, nós vos pedimos humildemente, Senhor, que o vosso servo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", purificado de toda a culpa, mereça alcançar o dom eterno da ressurreição. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Restored by these sacred mysteries,"
+       ],
+       [
+        "we humbly beseech you, O Lord,"
+       ],
+       [
+        "that your servant ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " may be cleansed from all offenses and merit for all eternity"
+       ],
+       [
+        "the precious gift of the Resurrection."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confortados con los misterios sagrados,"
+       ],
+       [
+        "te pedimos humildemente que tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "purificado de todos los pecados,"
+       ],
+       [
+        "merezca recibir el don eterno de la resurrección."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rinnovati dai santi misteri, ti supplichiamo, o Signore, perché il nostro fratello",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "la nostra sorella",
+        {
+         "m": "rubric",
+         "t": "] N."
+        },
+        ", purificato",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "a",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " da ogni colpa, possa godere del dono eterno della risurrezione. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en supplions, Seigneur,"
+       ],
+       [
+        "toi qui refais nos forces par ces mystères très saints :"
+       ],
+       [
+        "accorde à ton serviteur ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "purifié de toutes ses fautes,"
+       ],
+       [
+        "d'être comblé par le don éternel de la résurrection."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, durch die Feier der heiligen Geheimnisse schenkst du uns Verzeihung und neues Leben. Wir beten für unseren verstorbenen Bruder ",
+        {
+         "m": "rubric",
+         "t": "N. ("
+        },
+        "unsere verstorbene Schwester ",
+        {
+         "m": "rubric",
+         "t": "N.)"
+        },
+        ". Gib, dass er ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "sie",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        ", gereinigt von aller Schuld, zur Fülle des Lebens aufersteht. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.67",
+  "preface.68",
+  "preface.69",
+  "preface.70",
+  "preface.71"
+ ],
+ "title": {
+  "la": "II. IN ANNIVERSARIO",
+  "pt-BR": "II. NO ANIVERSÁRIO",
+  "en-US": "II. ON THE ANNIVERSARY MASS",
+  "es": "II. EN EL ANIVERSARIO",
+  "it": "II. NELL'ANNIVERSARIO",
+  "fr": "II. MESSE ANNIVERSAIRE DE DÉCÈS",
+  "de": "II. BEIM JAHRESGEDÄCHTNIS"
+ },
+ "subtitle": {
+  "la": "A. EXTRA TEMPUS PASCHALE",
+  "pt-BR": "A. Fora do Tempo Pascal",
+  "en-US": "A. Outside Easter Time",
+  "es": "A. Fuera del tiempo pascual",
+  "it": "A. Fuori del tempo pasquale",
+  "fr": "A. HORS DU TEMPS PASCAL",
+  "de": "A. Außerhalb der Osterzeit"
+ }
+}

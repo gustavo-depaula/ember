@@ -1,1 +1,2117 @@
-{"id":"sanctorale.12-08","source":"santos/santos_dic#1208","kind":"sanctoral","items":[{"slot":"44","text":{"la":[{"k":"h2","lines":[["Die 8 decembris"],["IN CONCEPTIONE IMMACULATA BEATÆ MARIÆ VIRGINIS"]]},{"k":"h3","lines":[["Sollemnitas"]]}],"pt-BR":[{"k":"h2","lines":[["8 de dezembro"],["IMACULADA CONCEIÇÃO DA BEM-AVENTURADA VIRGEM MARIA"]]},{"k":"h3","lines":[["Solenidade"]]},{"k":"p","lines":[["Já celebrada desde o séc. XI, esta solenidade se insere no contexto do Advento-Natal, unindo a espera messiânica e o retorno glorioso de Cristo com a admirável memória da Mãe. Em tal sentido, este período litúrgico deve ser considerado tempo particularmente oportuno para o culto da Mãe do Senhor (cf. São Paulo VI, \"Marialis Cultus\" 4). Maria é a toda santa, isenta de toda mancha de pecado, pelo Espírito Santo como que plasmada e feita nova criatura (cf. LG 56). Já profeticamente \"anunciada\" na promessa feita aos progenitores da vitória sobre a serpente, Maria é a Virgem que conceberá e dará à luz um filho cujo nome será Emanuel. O dogma da Imaculada Conceição foi proclamado por Pio IX em 1854."]]}],"en-US":[{"k":"h2","lines":[["December 8"],["THE IMMACULATE CONCEPTION OF THE BLESSED VIRGIN MARY"]]},{"k":"h3","lines":[["Solemnity"]]}],"es":[{"k":"h2","lines":[["8 de diciembre"],["LA INMACULADA CONCEPCIÓN DE SANTA MARÍA VIRGEN"]]},{"k":"h3","lines":[["Solemnidad"]]}],"it":[{"k":"h2","lines":[["8 dicembre"],["IMMACOLARA CONCEZIONE DELLA BEATA VERGINE MARIA"]]},{"k":"h3","lines":[["SOLENNITÀ"]]},{"k":"p","lines":[["Fin dai secoli VII-VIII in Oriente, nove mesi esatti prima della festa della Natività (8 settembre), veniva celebrata una festa della «concezione» di Maria. Celebrata poi in Occidente dal sec. XI, questa solennità si inserisce nel contesto dell'Avvento-Natale, congiungendo l'attesa messianica e il ritorno glorioso di Cristo con l'ammirata memoria della Madre. In tal senso questo periodo liturgico deve essere considerato un tempo particolarmente adatto per il culto della Madre del Signore (cf. Paolo VI, Marialis cultus, 4). Maria è la Tuttasanta, immune da ogni macchia di peccato, dallo Spirito Santo quasi plasmata e resa nuova creatura (cf. Lumen gentium, 56). Già profeticamente adombrata nella promessa fatta ai progenitori della vittoria sul serpente, Maria è la Vergine che concepirà e partorirà un figlio il cui nome sarà Emmanuele. Il dogma dell'Immacolata Concezione fu proclamato da Pio IX nel 1854."]]}],"fr":[{"k":"h2","lines":[["8 décembre"],["IMMACULÉE CONCEPTION DE LA BIENHEUREUSE VIERGE MARIE"]]},{"k":"h3","lines":[["Solennité"]]}],"de":[{"k":"h2","lines":[["8. Dezember"],["HOCHFEST DER OHNE ERBSÜNDE EMPFANGENEN JUNGFRAU UND GOTTESMUTTER MARIA (MARIÄ EMPFÄNGNIS)"]]},{"k":"h3","lines":[["Hochfest"]]}]},"part":"title"},{"slot":"45","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Is 61, 10"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Is 61, 10"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Is 61: 10"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Is 61, 10"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Is 61,10"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Is 61, 10"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Jes 61, 10"}]},"part":"entranceAntiphon"},{"slot":"46","text":{"la":[{"k":"p","lines":[["Gaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo; quia índuit me vestiméntis salútis, et induménto iustítiæ circúmdedit me, quasi sponsam ornátam monílibus suis."]]}],"pt-BR":[{"k":"p","lines":[["Exulto de alegria no Senhor"],["e minha alma regozija-se em meu Deus;"],["ele me vestiu com as vestes da salvação,"],["envolveu-me com o manto da justiça"],["e adornou-me como uma noiva com suas joias."]]}],"en-US":[{"k":"p","lines":[["I rejoice heartily in the Lord,"],["in my God is the joy of my soul;"],["for he has clothed me with a robe of salvation, and wrapped me in a mantle of justice,"],["like a bride adorned with her jewels."]]}],"es":[{"k":"p","lines":[["Desbordo de gozo con el Señor y me alegro con mi Dios: porque me ha puesto un traje de salvación y me ha envuelto con un manto de justicia, como novia que se adorna con sus joyas."]]}],"it":[{"k":"p","lines":[["Io gioisco pienamente nel Signore, la mia anima esulta nel mio Dio: mi ha rivestito delle vesti di salvezza, mi ha avvolto con il manto della giustizia, come una sposa si adorna di gioielli."]]}],"fr":[{"k":"p","lines":[["Je tressaille de joie dans le Seigneur,"],["mon âme exulte en mon Dieu."],["Car il m'a vêtue des vêtements du salut,"],["il m'a couverte du manteau de la justice,"],["comme la fiancée que parent ses joyaux."]]}],"de":[{"k":"p","lines":[["Von Herzen will ich mich freuen über den Herrn. Meine Seele soll jubeln über meinen Gott. Denn er kleidet mich in Gewänder des Heils, er hüllt mich in den Mantel der Rettung und schmückt mich köstlich wie eine Braut."]]}]},"part":"entranceAntiphon"},{"slot":"47","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Das "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":" wird gebetet."}]]}]},"part":"gloria"},{"slot":"48","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"49","text":{"la":[{"k":"p","lines":[["Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti, quǽsumus, ut, qui ex morte eiúsdem Fílii tui prævísa, eam ab omni labe præservásti, nos quoque mundos, eius intercessióne, ad te perveníre concédas.Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, pela Imaculada Conceição da Virgem Maria,"],["preparastes para o vosso Filho uma digna habitação"],["e a preservastes de toda mancha de pecado"],["em previsão da morte salvadora de Cristo;"],["concedei-nos chegar até vós"],["purificados também de toda culpa por sua materna intercessão."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who by the Immaculate Conception of the Blessed Virgin prepared a worthy dwelling for your Son,"],["grant, we pray,"],["that, as you preserved her from every stain"],["by virtue of the Death of your Son, which you foresaw, so, through her intercession,"],["we, too, may be cleansed and admitted to your presence. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que por la Concepción Inmaculada de la Virgen"],["preparaste a tu Hijo una digna morada"],["y, en previsión de la muerte de tu Hijo,"],["la preservaste de todo pecado,"],["concédenos, por su intercesión,"],["llegar a ti limpios de todas nuestras culpas."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Padre, che nell'Immacolata Concezione della Vergine hai preparato una degna dimora per il tuo Figlio, e in previsione della morte di lui l'hai preservata da ogni macchia di peccato, concedi anche a noi, per sua intercessione, di venire incontro a te in santità e purezza di spirito. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as préparé à ton Fils une demeure digne de lui"],["par la Conception immaculée de la Vierge,"],["que tu as préservée de tout péché"],["par une grâce venant déjà de la mort de ton Fils ;"],["à son intercession,"],["accorde-nous d'être purs, nous aussi,"],["et de parvenir jusqu'à toi."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Großer und heiliger Gott, im Hinblick auf den Erlösertod Christi hast du die selige Jungfrau Maria schon im ersten Augenblick ihres Daseins vor jeder Sünde bewahrt, um deinem Sohn eine würdige Wohnung zu bereiten. Höre auf ihre Fürsprache: Mache uns frei von Sünden und erhalte uns in deiner Gnade, damit wir mit reinem Herzen zu dir gelangen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"50","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},"Credo",{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},"Creio",{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il"}," Credo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},"Credo",{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Credo."}]]}]},"part":"creed"},{"slot":"51","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"52","text":{"la":[{"k":"p","lines":[["Salutárem hóstiam, quam in sollemnitáte immaculátæ Conceptiónis beátæ Vírginis Maríæ tibi, Dómine, offérimus, súscipe dignánter, et præsta, ut, sicut illam tua grátia præveniénte ab omni labe profitémur immúnem, ita, eius intercessióne, a culpis ómnibus liberémur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, dignai-vos aceitar o sacrifício de salvação"],["que vos oferecemos na Solenidade da Imaculada Conceição"],["da Bem-aventurada Virgem Maria;"],["assim como proclamamos que ela, por vossa graça,"],["foi preservada de toda mancha de pecado,"],["sejamos também nós, por sua intercessão,"],["libertos de toda a culpa."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Graciously accept the saving sacrifice"],["which we offer you, O Lord,"],["on the Solemnity of the Immaculate Conception of the Blessed Virgin Mary,"],["and grant that, as we profess her,"],["on account of your prevenient grace,"],["to be untouched by any stain of sin,"],["so, through her intercession,"],["we may be delivered from all our faults."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor,"],["recibe complacido el sacrificio salvador que te ofrecemos"],["en la solemnidad de la Inmaculada Concepción de santa María Virgen"],["y, así como reconocemos que la preservaste,"],["por tu gracia, limpia de toda mancha,"],["guárdanos también a nosotros, por su intercesión, libres de todo pecado."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accetta con benevolenza, o Signore, il sacrificio di salvezza che ti offriamo nella solennità dell'Immacolata Concezione della beata Vergine Maria, e come noi la riconosciamo preservata per tua grazia da ogni macchia di peccato, così, per sua intercessione, fa' che siamo liberati da ogni colpa. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Accueille avec bienveillance, Seigneur, le sacrifice du salut"],["que nous t'offrons en fêtant"],["la Conception immaculée de la bienheureuse Vierge Marie ;"],["puisque nous reconnaissons"],["que la prévenance de ta grâce"],["l'a gardée pure de tout péché,"],["accorde-nous, à son intercession,"],["d'être libérés de toute faute."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, in deiner Gnade hast du die selige Jungfrau Maria auserwählt und vor jeder Sünde bewahrt. An ihrem Fest feiern wir das Opfer, das alle Schuld der Menschen tilgt. Befreie uns auf ihre Fürsprache aus der Verstrickung in das Böse, damit auch wir heilig und makellos vor dir stehen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"53","text":{"la":[{"k":"h4","lines":[["Præfatio"]]},{"k":"p","lines":[[{"m":"rubric","t":"Præfatio: De mysterio Maríæ et Ecclesiæ. "}]]},{"k":"p","lines":[["Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:"]]},{"k":"p","lines":[["Qui beatíssimam Vírginem Maríam ab omni originális culpæ labe præservásti, ut in ea, grátiæ tuæ plenitúdine ditáta, dignam Fílio tuo Genetrícem præparáres, et Sponsæ eius Ecclésiæ, sine ruga vel mácula formósæ, signáres exórdium."]]},{"k":"p","lines":[["Fílium enim erat puríssima Virgo datúra, qui crímina nostra Agnus ínnocens aboléret; et ipsam præ ómnibus tuo pópulo disponébas advocátam grátiæ et sanctitátis exémplar."]]},{"k":"p","lines":[["Et ídeo, choris angélicis sociáti, te laudámus in gáudio confiténtes:"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]},{"k":"p","lines":[[{"m":"rubric","t":"Do mistério de Maria e da Igreja. "}]]},{"k":"p","lines":[["Na verdade, é digno e justo,"],["é nosso dever e salvação dar-vos graças,"],["sempre e em todo lugar,"],["Senhor, Pai santo,"],["Deus eterno e todo-poderoso."]]},{"k":"p","lines":[["A fim de preparar para o vosso Filho"],["Mãe que fosse digna dele,"],["preservastes a Bem-aventurada Virgem Maria"],["de toda mancha da culpa original"],["e a enriquecestes com a plenitude da vossa graça."],["Nela nos destes as primícias da Igreja,"],["Esposa de Cristo, sem ruga e sem mancha,"],["resplandecente de beleza."]]},{"k":"p","lines":[["De fato, dela, Virgem puríssima,"],["devia nascer o Filho, Cordeiro inocente,"],["que tira os nossos pecados;"],["vós a colocastes acima de todas as criaturas,"],["em favor de vosso povo,"],["como advogada da graça e modelo de santidade."]]},{"k":"p","lines":[["Por isso, unidos aos coros dos anjos,"],["nós vos louvamos e cantamos ",{"m":"rubric","t":"("},"dizemos",{"m":"rubric","t":")"},")"],["alegres a uma só voz:"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]},{"k":"p","lines":[[{"m":"rubric","t":"Preface: The mystery of Mary and the Church."}]]},{"k":"p","lines":[["It is truly right and just,"],["our duty and our salvation,"],["always and everywhere to give you thanks,"],["Lord, holy Father, almighty and eternal God."]]},{"k":"p","lines":[["For you preserved the most Blessed Virgin Mary"],["from all stain of original sin,"],["so that in her, endowed with the rich fullness of your grace,"],["you might prepare a worthy Mother for your Son,"],["and signify the beginning of the Church,"],["his beautiful Bride without spot or wrinkle."]]},{"k":"p","lines":[["She, the most pure Virgin, was to bring forth a Son,"],["the innocent Lamb who would wipe away our offences;"],["you placed her above all others"],["to be for your people an advocate of grace"],["and a model of holiness."]]},{"k":"p","lines":[["And so, in company with the choirs of Angels,"],["we praise you, and with joy we proclaim:"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]},{"k":"p","lines":[[{"m":"rubric","t":"Prefacio: El misterio de María y de la Iglesia"}]]},{"k":"p","lines":[["En verdad es justo y necesario,"],["es nuestro deber y salvación"],["darte gracias siempre y en todo lugar,"],["Señor, Padre santo, Dios todopoderoso y eterno."]]},{"k":"p","lines":[["Porque preservaste a la santísima Virgen María"],["de toda mancha de pecado original,"],["para preparar en ella,"],["enriquecida con la plenitud de tu gracia,"],["la digna madre de tu Hijo,"],["y mostrar el comienzo de la Iglesia,"],["su bella esposa, sin mancha ni arruga."]]},{"k":"p","lines":[["Purísima había de ser la Virgen"],["que nos diera al Cordero inocente"],["que quita el pecado del mundo."],["Purísima la que destinabas entre todos,"],["para tu pueblo, como abogada de gracia,"],["y ejemplo de santidad."]]},{"k":"p","lines":[["Por eso,"],["unidos a los coros de los ángeles,"],["te alabamos proclamando llenos de alegría:"]]}],"it":[{"k":"h4","lines":[["PREFAZIO"]]},{"k":"p","lines":[[{"m":"rubric","t":"Maria felice inizio della Chiesa."}]]},{"k":"p","lines":[["È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno."]]},{"k":"p","lines":[["Tu hai preservato la beata Vergine Maria da ogni macchia di peccato originale, per fare di lei, colmata di grazia, la degna Madre del tuo Figlio e segnare l'inizio della Chiesa, sposa di Cristo senza macchia e senza ruga, splendente di bellezza."]]},{"k":"p","lines":[["Da lei vergine purissima doveva nascere il tuo Figlio, Agnello innocente che toglie i nostri peccati e sopra ogni altra creatura l'hai predestinata, per il tuo popolo, sublime modello di santità e avvocata di grazia."]]},{"k":"p","lines":[["E noi, uniti ai cori degli angeli, proclamiamo esultanti la tua lode:"]]}],"fr":[{"k":"h4","lines":[["Préface"]]},{"k":"p","lines":[["Vraiment, il est juste et bon,"],["pour ta gloire et notre salut,"],["de t'offrir notre action de grâce,"],["toujours et en tout lieu,"],["Seigneur, Père très saint,"],["Dieu éternel et tout-puissant."]]},{"k":"p","lines":[["Car tu as préservé la bienheureuse Vierge Marie"],["de toute souillure du péché originel,"],["tu l'as comblée de ta grâce en plénitude"],["pour préparer en elle une mère vraiment digne de ton Fils"],["et manifester l'origine de l'Église,"],["l'Épouse sans tache ni ride,"],["resplendissante de beauté."]]},{"k":"p","lines":[["Cette vierge très pure devait nous donner le Fils,"],["l'Agneau innocent qui effacerait nos fautes."],["Pour ton peuple, tu la disposais à être, parmi toutes les femmes,"],["l'avocate de la grâce et le modèle de la sainteté."]]},{"k":"p","lines":[["C'est pourquoi,"],["unissant nos voix à celles des anges,"],["nous te louons dans la joie en proclamant :"]]}],"de":[{"k":"h4","lines":[["Präfation"]]},{"k":"p","lines":[[{"m":"rubric","t":"Das Bild der Kirche"}]]},{"k":"p","lines":[["In Wahrheit ist es würdig und recht, dir, Vater im Himmel, zu danken und das Werk deiner Liebe zu rühmen."],["Denn du hast Maria vor der Erbschuld bewahrt, du hast sie mit der Fülle der Gnade beschenkt, da sie erwählt war, die Mutter deines Sohnes zu werden."],["In unversehrter Jungfräulichkeit hat sie Christus geboren, der als schuldloses Lamm die Sünde der Welt hinwegnimmt. Sie ist Urbild und Anfang der Kirche, der makellosen Braut deines Sohnes."],["Vor allen Heiligen ist sie ein Vorbild der Heiligkeit, ihre Fürsprache erfleht uns deine Gnade durch unseren Herrn Jesus Christus."],["Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"]]}]},"part":"preface"},{"slot":"54","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]]}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]]}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]]}],"de":[{"k":"h4","lines":[["Kommunionvers"]]}]},"part":"communionAntiphon"},{"slot":"55","text":{"la":[{"k":"p","lines":[["Gloriósa dicta sunt de te, María, quia ex te ortus est sol iustítiæ, Christus Deus noster."]]}],"pt-BR":[{"k":"p","lines":[["Coisas gloriosas dizem de vós, ó Virgem Maria,"],["porque de vós nasceu o Sol da Justiça,"],["o Cristo, nosso Deus."]]}],"en-US":[{"k":"p","lines":[["Glorious things are spoken of you, O Mary, for from you arose the sun of justice, Christ our God."]]}],"es":[{"k":"p","lines":[["Qué pregón tan glorioso para ti, Virgen María, porque de ti ha nacido el sol de justicia, Cristo, nuestro Dios."]]}],"it":[{"k":"p","lines":[["Grandi cose di te si cantano, o Maria: da te è nato il sole di giustizia, Cristo, nostro Dio."]]}],"fr":[{"k":"p","lines":[["Pour ta gloire, on parle de toi, Marie :"],["par toi s'est levé le Soleil de justice,"],["le Christ, notre Dieu."]]}],"de":[{"k":"p","lines":[["Großes hat man von dir gesagt, Maria, denn aus dir ging hervor die Sonne der Gerechtigkeit, Christus, unser Gott."]]}]},"part":"communionAntiphon"},{"slot":"56","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"57","text":{"la":[{"k":"p","lines":[["Sacraménta quæ súmpsimus, Dómine Deus noster, illíus in nobis culpæ vúlnera réparent, a qua immaculátam beátæ Maríæ Conceptiónem singuláriter præservásti. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor nosso Deus, o sacramento que recebemos"],["cure em nós as feridas daquela culpa,"],["da qual preservastes de modo singular"],["a concepção imaculada da Bem-aventurada Virgem Maria."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May the Sacrament we have received, O Lord our God,"],["heal in us the wounds of that fault from which in a singular way"],["you preserved Blessed Mary in her Immaculate Conception."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor Dios nuestro,"],["el sacramento que hemos recibido"],["repare en nosotros las heridas de aquel primer pecado"],["del que preservaste de modo singular"],["la Concepción inmaculada de la santísima Virgen María."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["I sacramenti che abbiamo ricevuto, Signore Dio nostro, guariscano in noi le ferite di quella colpa da cui, in modo singolare, hai preservato la beata Vergine Maria nella sua Immacolata Concezione. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Que notre participation à ces sacrements,"],["Seigneur notre Dieu,"],["guérisse en nous les blessures de la faute originelle"],["dont tu as préservé de manière unique la bienheureuse Marie"],["en sa conception immaculée."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr und Gott, das Sakrament, das wir empfangen haben, heile in uns die Wunden jener Schuld, vor der du die allerseligste Jungfrau Maria vom ersten Augenblick ihres Daseins an auf einzigartige Weise bewahrt hast. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"58","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Adhiberi potest formula sollemnis."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Pode-se usar a fórmula da Solene."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Solemn formula may be used."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se puede utilizar la fórmula de la solemne."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On peut utiliser la formule de la solennelle."}]]}]},"part":"prayerOverPeople","role":"rubric"}],"precedence":3,"lectionary":"sanctorale.12-08","title":{"la":"IN CONCEPTIONE IMMACULATA BEATÆ MARIÆ VIRGINIS","pt-BR":"IMACULADA CONCEIÇÃO DA BEM-AVENTURADA VIRGEM MARIA","en-US":"THE IMMACULATE CONCEPTION OF THE BLESSED VIRGIN MARY","es":"LA INMACULADA CONCEPCIÓN DE SANTA MARÍA VIRGEN","it":"IMMACOLARA CONCEZIONE DELLA BEATA VERGINE MARIA","fr":"IMMACULÉE CONCEPTION DE LA BIENHEUREUSE VIERGE MARIE","de":"HOCHFEST DER OHNE ERBSÜNDE EMPFANGENEN JUNGFRAU UND GOTTESMUTTER MARIA (MARIÄ EMPFÄNGNIS)"},"subtitle":{"la":"Sollemnitas","pt-BR":"Solenidade","en-US":"Solemnity","es":"Solemnidad","it":"SOLENNITÀ","fr":"Solennité","de":"Hochfest"}}
+{
+ "id": "sanctorale.12-08",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 8 decembris"
+       ],
+       [
+        "IN CONCEPTIONE IMMACULATA BEATÆ MARIÆ VIRGINIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Sollemnitas"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8 de dezembro"
+       ],
+       [
+        "IMACULADA CONCEIÇÃO DA BEM-AVENTURADA VIRGEM MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solenidade"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Já celebrada desde o séc. XI, esta solenidade se insere no contexto do Advento-Natal, unindo a espera messiânica e o retorno glorioso de Cristo com a admirável memória da Mãe. Em tal sentido, este período litúrgico deve ser considerado tempo particularmente oportuno para o culto da Mãe do Senhor (cf. São Paulo VI, \"Marialis Cultus\" 4). Maria é a toda santa, isenta de toda mancha de pecado, pelo Espírito Santo como que plasmada e feita nova criatura (cf. LG 56). Já profeticamente \"anunciada\" na promessa feita aos progenitores da vitória sobre a serpente, Maria é a Virgem que conceberá e dará à luz um filho cujo nome será Emanuel. O dogma da Imaculada Conceição foi proclamado por Pio IX em 1854."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "December 8"
+       ],
+       [
+        "THE IMMACULATE CONCEPTION OF THE BLESSED VIRGIN MARY"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnity"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8 de diciembre"
+       ],
+       [
+        "LA INMACULADA CONCEPCIÓN DE SANTA MARÍA VIRGEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnidad"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8 dicembre"
+       ],
+       [
+        "IMMACOLARA CONCEZIONE DELLA BEATA VERGINE MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "SOLENNITÀ"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fin dai secoli VII-VIII in Oriente, nove mesi esatti prima della festa della Natività (8 settembre), veniva celebrata una festa della «concezione» di Maria. Celebrata poi in Occidente dal sec. XI, questa solennità si inserisce nel contesto dell'Avvento-Natale, congiungendo l'attesa messianica e il ritorno glorioso di Cristo con l'ammirata memoria della Madre. In tal senso questo periodo liturgico deve essere considerato un tempo particolarmente adatto per il culto della Madre del Signore (cf. Paolo VI, Marialis cultus, 4). Maria è la Tuttasanta, immune da ogni macchia di peccato, dallo Spirito Santo quasi plasmata e resa nuova creatura (cf. Lumen gentium, 56). Già profeticamente adombrata nella promessa fatta ai progenitori della vittoria sul serpente, Maria è la Vergine che concepirà e partorirà un figlio il cui nome sarà Emmanuele. Il dogma dell'Immacolata Concezione fu proclamato da Pio IX nel 1854."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8 décembre"
+       ],
+       [
+        "IMMACULÉE CONCEPTION DE LA BIENHEUREUSE VIERGE MARIE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solennité"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "8. Dezember"
+       ],
+       [
+        "HOCHFEST DER OHNE ERBSÜNDE EMPFANGENEN JUNGFRAU UND GOTTESMUTTER MARIA (MARIÄ EMPFÄNGNIS)"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Hochfest"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Is 61, 10"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Is 61, 10"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Is 61: 10"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Is 61, 10"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Is 61,10"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Is 61, 10"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Jes 61, 10"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo; quia índuit me vestiméntis salútis, et induménto iustítiæ circúmdedit me, quasi sponsam ornátam monílibus suis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exulto de alegria no Senhor"
+       ],
+       [
+        "e minha alma regozija-se em meu Deus;"
+       ],
+       [
+        "ele me vestiu com as vestes da salvação,"
+       ],
+       [
+        "envolveu-me com o manto da justiça"
+       ],
+       [
+        "e adornou-me como uma noiva com suas joias."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I rejoice heartily in the Lord,"
+       ],
+       [
+        "in my God is the joy of my soul;"
+       ],
+       [
+        "for he has clothed me with a robe of salvation, and wrapped me in a mantle of justice,"
+       ],
+       [
+        "like a bride adorned with her jewels."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Desbordo de gozo con el Señor y me alegro con mi Dios: porque me ha puesto un traje de salvación y me ha envuelto con un manto de justicia, como novia que se adorna con sus joyas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io gioisco pienamente nel Signore, la mia anima esulta nel mio Dio: mi ha rivestito delle vesti di salvezza, mi ha avvolto con il manto della giustizia, come una sposa si adorna di gioielli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je tressaille de joie dans le Seigneur,"
+       ],
+       [
+        "mon âme exulte en mon Dieu."
+       ],
+       [
+        "Car il m'a vêtue des vêtements du salut,"
+       ],
+       [
+        "il m'a couverte du manteau de la justice,"
+       ],
+       [
+        "comme la fiancée que parent ses joyaux."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Von Herzen will ich mich freuen über den Herrn. Meine Seele soll jubeln über meinen Gott. Denn er kleidet mich in Gewänder des Heils, er hüllt mich in den Mantel der Rettung und schmückt mich köstlich wie eine Braut."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": " wird gebetet."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti, quǽsumus, ut, qui ex morte eiúsdem Fílii tui prævísa, eam ab omni labe præservásti, nos quoque mundos, eius intercessióne, ad te perveníre concédas.Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, pela Imaculada Conceição da Virgem Maria,"
+       ],
+       [
+        "preparastes para o vosso Filho uma digna habitação"
+       ],
+       [
+        "e a preservastes de toda mancha de pecado"
+       ],
+       [
+        "em previsão da morte salvadora de Cristo;"
+       ],
+       [
+        "concedei-nos chegar até vós"
+       ],
+       [
+        "purificados também de toda culpa por sua materna intercessão."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who by the Immaculate Conception of the Blessed Virgin prepared a worthy dwelling for your Son,"
+       ],
+       [
+        "grant, we pray,"
+       ],
+       [
+        "that, as you preserved her from every stain"
+       ],
+       [
+        "by virtue of the Death of your Son, which you foresaw, so, through her intercession,"
+       ],
+       [
+        "we, too, may be cleansed and admitted to your presence. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que por la Concepción Inmaculada de la Virgen"
+       ],
+       [
+        "preparaste a tu Hijo una digna morada"
+       ],
+       [
+        "y, en previsión de la muerte de tu Hijo,"
+       ],
+       [
+        "la preservaste de todo pecado,"
+       ],
+       [
+        "concédenos, por su intercesión,"
+       ],
+       [
+        "llegar a ti limpios de todas nuestras culpas."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che nell'Immacolata Concezione della Vergine hai preparato una degna dimora per il tuo Figlio, e in previsione della morte di lui l'hai preservata da ogni macchia di peccato, concedi anche a noi, per sua intercessione, di venire incontro a te in santità e purezza di spirito. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as préparé à ton Fils une demeure digne de lui"
+       ],
+       [
+        "par la Conception immaculée de la Vierge,"
+       ],
+       [
+        "que tu as préservée de tout péché"
+       ],
+       [
+        "par une grâce venant déjà de la mort de ton Fils ;"
+       ],
+       [
+        "à son intercession,"
+       ],
+       [
+        "accorde-nous d'être purs, nous aussi,"
+       ],
+       [
+        "et de parvenir jusqu'à toi."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Großer und heiliger Gott, im Hinblick auf den Erlösertod Christi hast du die selige Jungfrau Maria schon im ersten Augenblick ihres Daseins vor jeder Sünde bewahrt, um deinem Sohn eine würdige Wohnung zu bereiten. Höre auf ihre Fürsprache: Mache uns frei von Sünden und erhalte uns in deiner Gnade, damit wir mit reinem Herzen zu dir gelangen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        "Creio",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il"
+        },
+        " Credo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Credo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salutárem hóstiam, quam in sollemnitáte immaculátæ Conceptiónis beátæ Vírginis Maríæ tibi, Dómine, offérimus, súscipe dignánter, et præsta, ut, sicut illam tua grátia præveniénte ab omni labe profitémur immúnem, ita, eius intercessióne, a culpis ómnibus liberémur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, dignai-vos aceitar o sacrifício de salvação"
+       ],
+       [
+        "que vos oferecemos na Solenidade da Imaculada Conceição"
+       ],
+       [
+        "da Bem-aventurada Virgem Maria;"
+       ],
+       [
+        "assim como proclamamos que ela, por vossa graça,"
+       ],
+       [
+        "foi preservada de toda mancha de pecado,"
+       ],
+       [
+        "sejamos também nós, por sua intercessão,"
+       ],
+       [
+        "libertos de toda a culpa."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Graciously accept the saving sacrifice"
+       ],
+       [
+        "which we offer you, O Lord,"
+       ],
+       [
+        "on the Solemnity of the Immaculate Conception of the Blessed Virgin Mary,"
+       ],
+       [
+        "and grant that, as we profess her,"
+       ],
+       [
+        "on account of your prevenient grace,"
+       ],
+       [
+        "to be untouched by any stain of sin,"
+       ],
+       [
+        "so, through her intercession,"
+       ],
+       [
+        "we may be delivered from all our faults."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor,"
+       ],
+       [
+        "recibe complacido el sacrificio salvador que te ofrecemos"
+       ],
+       [
+        "en la solemnidad de la Inmaculada Concepción de santa María Virgen"
+       ],
+       [
+        "y, así como reconocemos que la preservaste,"
+       ],
+       [
+        "por tu gracia, limpia de toda mancha,"
+       ],
+       [
+        "guárdanos también a nosotros, por su intercesión, libres de todo pecado."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accetta con benevolenza, o Signore, il sacrificio di salvezza che ti offriamo nella solennità dell'Immacolata Concezione della beata Vergine Maria, e come noi la riconosciamo preservata per tua grazia da ogni macchia di peccato, così, per sua intercessione, fa' che siamo liberati da ogni colpa. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accueille avec bienveillance, Seigneur, le sacrifice du salut"
+       ],
+       [
+        "que nous t'offrons en fêtant"
+       ],
+       [
+        "la Conception immaculée de la bienheureuse Vierge Marie ;"
+       ],
+       [
+        "puisque nous reconnaissons"
+       ],
+       [
+        "que la prévenance de ta grâce"
+       ],
+       [
+        "l'a gardée pure de tout péché,"
+       ],
+       [
+        "accorde-nous, à son intercession,"
+       ],
+       [
+        "d'être libérés de toute faute."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, in deiner Gnade hast du die selige Jungfrau Maria auserwählt und vor jeder Sünde bewahrt. An ihrem Fest feiern wir das Opfer, das alle Schuld der Menschen tilgt. Befreie uns auf ihre Fürsprache aus der Verstrickung in das Böse, damit auch wir heilig und makellos vor dir stehen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Præfatio: De mysterio Maríæ et Ecclesiæ. "
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui beatíssimam Vírginem Maríam ab omni originális culpæ labe præservásti, ut in ea, grátiæ tuæ plenitúdine ditáta, dignam Fílio tuo Genetrícem præparáres, et Sponsæ eius Ecclésiæ, sine ruga vel mácula formósæ, signáres exórdium."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fílium enim erat puríssima Virgo datúra, qui crímina nostra Agnus ínnocens aboléret; et ipsam præ ómnibus tuo pópulo disponébas advocátam grátiæ et sanctitátis exémplar."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ídeo, choris angélicis sociáti, te laudámus in gáudio confiténtes:"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Do mistério de Maria e da Igreja. "
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Na verdade, é digno e justo,"
+       ],
+       [
+        "é nosso dever e salvação dar-vos graças,"
+       ],
+       [
+        "sempre e em todo lugar,"
+       ],
+       [
+        "Senhor, Pai santo,"
+       ],
+       [
+        "Deus eterno e todo-poderoso."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A fim de preparar para o vosso Filho"
+       ],
+       [
+        "Mãe que fosse digna dele,"
+       ],
+       [
+        "preservastes a Bem-aventurada Virgem Maria"
+       ],
+       [
+        "de toda mancha da culpa original"
+       ],
+       [
+        "e a enriquecestes com a plenitude da vossa graça."
+       ],
+       [
+        "Nela nos destes as primícias da Igreja,"
+       ],
+       [
+        "Esposa de Cristo, sem ruga e sem mancha,"
+       ],
+       [
+        "resplandecente de beleza."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "De fato, dela, Virgem puríssima,"
+       ],
+       [
+        "devia nascer o Filho, Cordeiro inocente,"
+       ],
+       [
+        "que tira os nossos pecados;"
+       ],
+       [
+        "vós a colocastes acima de todas as criaturas,"
+       ],
+       [
+        "em favor de vosso povo,"
+       ],
+       [
+        "como advogada da graça e modelo de santidade."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por isso, unidos aos coros dos anjos,"
+       ],
+       [
+        "nós vos louvamos e cantamos ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "dizemos",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        ")"
+       ],
+       [
+        "alegres a uma só voz:"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Preface: The mystery of Mary and the Church."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is truly right and just,"
+       ],
+       [
+        "our duty and our salvation,"
+       ],
+       [
+        "always and everywhere to give you thanks,"
+       ],
+       [
+        "Lord, holy Father, almighty and eternal God."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For you preserved the most Blessed Virgin Mary"
+       ],
+       [
+        "from all stain of original sin,"
+       ],
+       [
+        "so that in her, endowed with the rich fullness of your grace,"
+       ],
+       [
+        "you might prepare a worthy Mother for your Son,"
+       ],
+       [
+        "and signify the beginning of the Church,"
+       ],
+       [
+        "his beautiful Bride without spot or wrinkle."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "She, the most pure Virgin, was to bring forth a Son,"
+       ],
+       [
+        "the innocent Lamb who would wipe away our offences;"
+       ],
+       [
+        "you placed her above all others"
+       ],
+       [
+        "to be for your people an advocate of grace"
+       ],
+       [
+        "and a model of holiness."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And so, in company with the choirs of Angels,"
+       ],
+       [
+        "we praise you, and with joy we proclaim:"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Prefacio: El misterio de María y de la Iglesia"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En verdad es justo y necesario,"
+       ],
+       [
+        "es nuestro deber y salvación"
+       ],
+       [
+        "darte gracias siempre y en todo lugar,"
+       ],
+       [
+        "Señor, Padre santo, Dios todopoderoso y eterno."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Porque preservaste a la santísima Virgen María"
+       ],
+       [
+        "de toda mancha de pecado original,"
+       ],
+       [
+        "para preparar en ella,"
+       ],
+       [
+        "enriquecida con la plenitud de tu gracia,"
+       ],
+       [
+        "la digna madre de tu Hijo,"
+       ],
+       [
+        "y mostrar el comienzo de la Iglesia,"
+       ],
+       [
+        "su bella esposa, sin mancha ni arruga."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Purísima había de ser la Virgen"
+       ],
+       [
+        "que nos diera al Cordero inocente"
+       ],
+       [
+        "que quita el pecado del mundo."
+       ],
+       [
+        "Purísima la que destinabas entre todos,"
+       ],
+       [
+        "para tu pueblo, como abogada de gracia,"
+       ],
+       [
+        "y ejemplo de santidad."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por eso,"
+       ],
+       [
+        "unidos a los coros de los ángeles,"
+       ],
+       [
+        "te alabamos proclamando llenos de alegría:"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "PREFAZIO"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Maria felice inizio della Chiesa."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu hai preservato la beata Vergine Maria da ogni macchia di peccato originale, per fare di lei, colmata di grazia, la degna Madre del tuo Figlio e segnare l'inizio della Chiesa, sposa di Cristo senza macchia e senza ruga, splendente di bellezza."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Da lei vergine purissima doveva nascere il tuo Figlio, Agnello innocente che toglie i nostri peccati e sopra ogni altra creatura l'hai predestinata, per il tuo popolo, sublime modello di santità e avvocata di grazia."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E noi, uniti ai cori degli angeli, proclamiamo esultanti la tua lode:"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vraiment, il est juste et bon,"
+       ],
+       [
+        "pour ta gloire et notre salut,"
+       ],
+       [
+        "de t'offrir notre action de grâce,"
+       ],
+       [
+        "toujours et en tout lieu,"
+       ],
+       [
+        "Seigneur, Père très saint,"
+       ],
+       [
+        "Dieu éternel et tout-puissant."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Car tu as préservé la bienheureuse Vierge Marie"
+       ],
+       [
+        "de toute souillure du péché originel,"
+       ],
+       [
+        "tu l'as comblée de ta grâce en plénitude"
+       ],
+       [
+        "pour préparer en elle une mère vraiment digne de ton Fils"
+       ],
+       [
+        "et manifester l'origine de l'Église,"
+       ],
+       [
+        "l'Épouse sans tache ni ride,"
+       ],
+       [
+        "resplendissante de beauté."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cette vierge très pure devait nous donner le Fils,"
+       ],
+       [
+        "l'Agneau innocent qui effacerait nos fautes."
+       ],
+       [
+        "Pour ton peuple, tu la disposais à être, parmi toutes les femmes,"
+       ],
+       [
+        "l'avocate de la grâce et le modèle de la sainteté."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est pourquoi,"
+       ],
+       [
+        "unissant nos voix à celles des anges,"
+       ],
+       [
+        "nous te louons dans la joie en proclamant :"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das Bild der Kirche"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Wahrheit ist es würdig und recht, dir, Vater im Himmel, zu danken und das Werk deiner Liebe zu rühmen."
+       ],
+       [
+        "Denn du hast Maria vor der Erbschuld bewahrt, du hast sie mit der Fülle der Gnade beschenkt, da sie erwählt war, die Mutter deines Sohnes zu werden."
+       ],
+       [
+        "In unversehrter Jungfräulichkeit hat sie Christus geboren, der als schuldloses Lamm die Sünde der Welt hinwegnimmt. Sie ist Urbild und Anfang der Kirche, der makellosen Braut deines Sohnes."
+       ],
+       [
+        "Vor allen Heiligen ist sie ein Vorbild der Heiligkeit, ihre Fürsprache erfleht uns deine Gnade durch unseren Herrn Jesus Christus."
+       ],
+       [
+        "Durch ihn preisen dich Himmel und Erde, Engel und Menschen und singen wie aus einem Munde das Lob deiner Herrlichkeit:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloriósa dicta sunt de te, María, quia ex te ortus est sol iustítiæ, Christus Deus noster."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Coisas gloriosas dizem de vós, ó Virgem Maria,"
+       ],
+       [
+        "porque de vós nasceu o Sol da Justiça,"
+       ],
+       [
+        "o Cristo, nosso Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Glorious things are spoken of you, O Mary, for from you arose the sun of justice, Christ our God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qué pregón tan glorioso para ti, Virgen María, porque de ti ha nacido el sol de justicia, Cristo, nuestro Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grandi cose di te si cantano, o Maria: da te è nato il sole di giustizia, Cristo, nostro Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pour ta gloire, on parle de toi, Marie :"
+       ],
+       [
+        "par toi s'est levé le Soleil de justice,"
+       ],
+       [
+        "le Christ, notre Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Großes hat man von dir gesagt, Maria, denn aus dir ging hervor die Sonne der Gerechtigkeit, Christus, unser Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacraménta quæ súmpsimus, Dómine Deus noster, illíus in nobis culpæ vúlnera réparent, a qua immaculátam beátæ Maríæ Conceptiónem singuláriter præservásti. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor nosso Deus, o sacramento que recebemos"
+       ],
+       [
+        "cure em nós as feridas daquela culpa,"
+       ],
+       [
+        "da qual preservastes de modo singular"
+       ],
+       [
+        "a concepção imaculada da Bem-aventurada Virgem Maria."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the Sacrament we have received, O Lord our God,"
+       ],
+       [
+        "heal in us the wounds of that fault from which in a singular way"
+       ],
+       [
+        "you preserved Blessed Mary in her Immaculate Conception."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor Dios nuestro,"
+       ],
+       [
+        "el sacramento que hemos recibido"
+       ],
+       [
+        "repare en nosotros las heridas de aquel primer pecado"
+       ],
+       [
+        "del que preservaste de modo singular"
+       ],
+       [
+        "la Concepción inmaculada de la santísima Virgen María."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I sacramenti che abbiamo ricevuto, Signore Dio nostro, guariscano in noi le ferite di quella colpa da cui, in modo singolare, hai preservato la beata Vergine Maria nella sua Immacolata Concezione. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que notre participation à ces sacrements,"
+       ],
+       [
+        "Seigneur notre Dieu,"
+       ],
+       [
+        "guérisse en nous les blessures de la faute originelle"
+       ],
+       [
+        "dont tu as préservé de manière unique la bienheureuse Marie"
+       ],
+       [
+        "en sa conception immaculée."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr und Gott, das Sakrament, das wir empfangen haben, heile in uns die Wunden jener Schuld, vor der du die allerseligste Jungfrau Maria vom ersten Augenblick ihres Daseins an auf einzigartige Weise bewahrt hast. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Adhiberi potest formula sollemnis."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pode-se usar a fórmula da Solene."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Solemn formula may be used."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se puede utilizar la fórmula de la solemne."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On peut utiliser la formule de la solennelle."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople",
+   "role": "rubric"
+  }
+ ],
+ "precedence": 3,
+ "lectionary": "sanctorale.12-08",
+ "title": {
+  "la": "IN CONCEPTIONE IMMACULATA BEATÆ MARIÆ VIRGINIS",
+  "pt-BR": "IMACULADA CONCEIÇÃO DA BEM-AVENTURADA VIRGEM MARIA",
+  "en-US": "THE IMMACULATE CONCEPTION OF THE BLESSED VIRGIN MARY",
+  "es": "LA INMACULADA CONCEPCIÓN DE SANTA MARÍA VIRGEN",
+  "it": "IMMACOLARA CONCEZIONE DELLA BEATA VERGINE MARIA",
+  "fr": "IMMACULÉE CONCEPTION DE LA BIENHEUREUSE VIERGE MARIE",
+  "de": "HOCHFEST DER OHNE ERBSÜNDE EMPFANGENEN JUNGFRAU UND GOTTESMUTTER MARIA (MARIÄ EMPFÄNGNIS)"
+ },
+ "subtitle": {
+  "la": "Sollemnitas",
+  "pt-BR": "Solenidade",
+  "en-US": "Solemnity",
+  "es": "Solemnidad",
+  "it": "SOLENNITÀ",
+  "fr": "Solennité",
+  "de": "Hochfest"
+ }
+}

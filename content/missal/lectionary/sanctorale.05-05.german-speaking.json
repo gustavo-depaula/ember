@@ -1,1 +1,39 @@
-{"id":"sanctorale.05-05.german-speaking","source":"lecturas/lecturas_santos_may#0505","items":[{"slot":"41","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[in den Diözesen deutscher Sprache]"}]]},{"k":"h2","lines":[["5. Mai"],["Hl. Godehard, Bischof"]]}]}},{"mark":"readings"}],"title":{"*":"Hl. Godehard, Bischof"}}
+{
+ "id": "sanctorale.05-05.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "5. Mai"
+       ],
+       [
+        "Hl. Godehard, Bischof"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "title": {
+  "*": "Hl. Godehard, Bischof"
+ }
+}

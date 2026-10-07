@@ -1,0 +1,623 @@
+{
+ "id": "for-the-dead.gospel.6",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "6"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Feretro cogitationis efferebat, ut diceres filio viduæ: Iuvenis, tibi dico, surge (S. Augustini, Confess., lib. 6, n. 2)."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Lucam"
+       ]
+      ],
+      "cite": "7, 11-17",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jovem, eu te ordeno, levanta-te"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas"
+       ]
+      ],
+      "cite": "7, 11-17",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Young man, I tell you to get up."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Luke"
+       ]
+      ],
+      "cite": "7:11-17",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "¡Muchacho, a ti te lo digo, levántate!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Lucas"
+       ]
+      ],
+      "cite": "7, 11-17",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Giovinetto, dico a te, àlzati."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Luca"
+       ]
+      ],
+      "cite": "7, 11-17",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Luc"
+       ]
+      ],
+      "cite": "7, 11-17",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Lukas"
+       ]
+      ],
+      "cite": "7, 11-17",
+      "role": "announcement"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ivit Iesus in civitátem, quæ vocátur Naim, et ibant cum illo discípuli eius et turba copiósa. Cum autem appropinquáret portæ civitátis, et ecce defúnctus efferebátur fílius únicus matri suæ; et hæc vídua erat, et turba civitátis multa cum illa."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quam cum vidísset Dóminus, misericórdia motus super ea dixit illi: «Noli flere!». Et accéssit et tétigit lóculum; hi autem, qui portábant, stetérunt. Et ait: «Aduléscens, tibi dico: Surge!». Et resédit, qui erat mórtuus, et cœpit loqui; et dedit illum matri suæ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accépit autem omnes timor, et magnificábant Deum dicéntes: «Prophéta magnus surréxit in nobis» et: «Deus visitávit plebem suam». Et éxiit hic sermo in univérsam Iudǽam de eo et omnem circa regiónem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo: Jesus dirigiu-se a uma cidade chamada Naim. Com ele iam seus discípulos e uma grande multidão. Quando chegou à porta da cidade, eis que levavam um defunto, filho único; e sua mãe era viúva. Grande multidão da cidade a acompanhava. Ao vê-la, o Senhor sentiu compaixão para com ela e lhe disse: \"Não chore\"! Aproximou-se, tocou o caixão, e os que o carregavam pararam. Então, Jesus disse: \"Jovem, eu te ordeno, levanta-te\"! O que estava morto sentou-se e começou a falar. E Jesus o entregou à sua mãe. Todos ficaram com muito medo e glorificavam a Deus, dizendo: \"Um grande profeta apareceu entre nós e Deus veio visitar o seu povo\". E a notícia do fato espalhou-se pela Judeia inteira, e por toda a redondeza."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus went to a town called Nain, accompanied by his disciples and a great number of people. When he was near the gate of the town it happened that a dead man was being carried out for burial, the only son of his mother, and she was a widow. And a considerable number of the townspeople were with her. When the Lord saw her he felt sorry for her. `Do not cry,' he said. Then he went up and put his hand on the bier and the bearers stood still, and he said, `Young man, I tell you to get up'. And the dead man sat up and began to talk, and Jesus gave him to his mother. Everyone was filled with awe and praised God saying, `A great prophet has appeared among us; God has visited his people'. And this opinion of him spread throughout Judaea and all over the countryside."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, Jesús se fue a una ciudad llamada Naín,"
+       ],
+       [
+        "y caminaban con él sus discípulos y mucho gentío."
+       ],
+       [
+        "Cuando se acercaba a la puerta de la ciudad, resultó que sacaban a enterrar a un muerto, hijo único de su madre, que era viuda; y un gentío considerable de la ciudad la acompañaba."
+       ],
+       [
+        "Al verla el Señor, se compadeció de ella y le dijo:"
+       ],
+       [
+        "«No llores»."
+       ],
+       [
+        "Y acercándose al ataúd, lo tocó (los que lo llevaban se pararon) y dijo:"
+       ],
+       [
+        "«¡Muchacho, a ti te lo digo, levántate!»."
+       ],
+       [
+        "El muerto se incorporó y empezó a hablar, y se lo entregó a su madre."
+       ],
+       [
+        "Todos, sobrecogidos de temor, daban gloria a Dios diciendo:"
+       ],
+       [
+        "«Un gran Profeta ha surgido entre nosotros», y «Dios ha visitado a su pueblo»."
+       ],
+       [
+        "Este hecho se divulgó por toda Judea y por toda la comarca circundante."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù si recò in una città chiamata Nain e facevano la strada con lui i discepoli e grande folla. Quando fu vicino alla porta della città, ecco che veniva portato al sepolcro un morto, figlio unico di madre vedova; e molta gente della città era con lei. Vedendola, il Signore ne ebbe compassione e le disse: «Non piangere!». E accostatosi toccò la bara, mentre i portatori si fermarono. Poi disse: «Giovinetto, dico a te, àlzati!». Il morto si levò a sedere e incominciò a parlare. Ed egli lo diede alla madre. Tutti furono presi da timore e glorificavano Dio dicendo: «Un grande profeta è sorto tra noi e Dio ha visitato il suo popolo». La fama di questi fatti si diffuse in tutta la Giudea e per tutta la regione."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus se rendit dans une ville appelée Naïm. Ses disciples"
+       ],
+       [
+        "faisaient route avec lui, ainsi qu'une grande foule. Il arriva près de la"
+       ],
+       [
+        "porte de la ville au moment où l'on emportait un mort pour l'enterrer ;"
+       ],
+       [
+        "c'était un fils unique, et sa mère était veuve. Une foule importante de la"
+       ],
+       [
+        "ville accompagnait cette femme. Voyant celle-ci, le Seigneur fut saisi de"
+       ],
+       [
+        "compassion pour elle et lui dit : \" Ne pleure pas. \" Il s'approcha et toucha"
+       ],
+       [
+        "le cercueil ; les porteurs s'arrêtèrent, et Jésus dit :"
+       ],
+       [
+        "\" Jeune homme, je te l'ordonne, lève-toi. \" Alors le mort se redressa et se"
+       ],
+       [
+        "mit à parler. Et Jésus le rendit à sa mère."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La crainte s'empara de tous, et ils rendaient gloire à Dieu en disant : \" Un grand prophète s'est levé parmi nous, et Dieu a visité son peuple. \" Et cette parole sur Jésus se répandit dans la Judée entière et dans toute la région."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "ging Jesus in eine Stadt namens Naïn; seine Jünger und eine große Menschenmenge folgten ihm. Als er in die Nähe des Stadttors kam, trug man gerade einen Toten heraus. Es war der einzige Sohn seiner Mutter, einer Witwe. Und viele Leute aus der Stadt begleiteten sie."
+       ],
+       [
+        "Als der Herr die Frau sah, hatte er Mitleid mit ihr und sagte zu ihr: Weine nicht! Dann ging er zu der Bahre hin und fasste sie an. Die Träger blieben stehen, und er sagte: Ich befehle dir, junger Mann: Steh auf! Da richtete sich der Tote auf und begann zu sprechen, und Jesus gab ihn seiner Mutter zurück."
+       ],
+       [
+        "Alle wurden von Furcht ergriffen; sie priesen Gott und sagten: Ein großer Prophet ist unter uns aufgetreten: Gott hat sich seines Volkes angenommen. Und die Kunde davon verbreitete sich überall in Judäa und im ganzen Gebiet ringsum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

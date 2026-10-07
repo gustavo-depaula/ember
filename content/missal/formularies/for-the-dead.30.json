@@ -1,1 +1,1621 @@
-{"id":"for-the-dead.30","source":"comunes_votivas/difuntos#dif030","kind":"for-the-dead","items":[{"slot":"403","text":{"la":[{"k":"h2","lines":[["IV. ORATIONES DIVERSÆ PRO DEFUNCTIS"]]},{"k":"h3","lines":[["2. PRO EPISCOPO"],["A. Pro Episcopo diœcesano"]]}],"pt-BR":[{"k":"h2","lines":[["IV. ORAÇÕES DIVERSAS PELOS DEFUNTOS"]]},{"k":"h3","lines":[["2. POR UM BISPO"],["A. Pelo Bispo diocesano"]]}],"en-US":[{"k":"h2","lines":[["IV. VARIOUS PRAYERS FOR THE DEAD"]]},{"k":"h3","lines":[["2. FOR A BISHOP"],["A. For a Diocesan Bishop"]]},{"k":"h2","lines":[["IV. VARIOUS PRAYERS FOR THE DEAD"]]},{"k":"h3","lines":[["2. For a Bishop"],["A) For the Diocesan Bishop"]]}],"es":[{"k":"h2","lines":[["IV. DIVERSAS ORACIONES POR LOS DIFUNTOS"]]},{"k":"h3","lines":[["2. POR EL OBISPO"],["A. Por el obispo diocesano"]]}],"it":[{"k":"h2","lines":[["IV. ORAZIONI DIVERSE PER I DEFUNTI"]]},{"k":"h3","lines":[["2.PER IL VESCOVO"],["A. Per il Vescovo diocesano"]]}],"fr":[{"k":"h2","lines":[["IV. PRIÈRES DIVERSES POUR LES DÉFUNTS"]]},{"k":"h3","lines":[["2. POUR UN ÉVÊQUE"],["A. Pour l'évêque du diocèse"]]}],"de":[{"k":"h2","lines":[["IV. WEITERE ORATIONEN FÜR VERSTORBENE"]]},{"k":"h3","lines":[["2. FÜR EINEN BISCHOF"],["A. Für einen Diözesanbischof"]]}]},"part":"title"},{"slot":"404","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]]}]},"part":"entranceAntiphon"},{"slot":"405","text":{"la":[{"k":"p","lines":[["Apériat ei Dóminus paradísi iánuam, ut ad illam pátriam revertátur, ubi mors non est, ubi gáudium ætérnum persevérat."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor lhe abra a porta do paraíso, para que possa voltar àquela pátria onde não há morte, e reina eterna alegria."]]}],"en-US":[{"k":"p","lines":[["May the Lord open to him ",{"m":"rubric","t":"("},"her",{"m":"rubric","t":")"}," the gates of paradise, that he ",{"m":"rubric","t":"("},"she",{"m":"rubric","t":")"}," may return to that homeland,"],["where there is no death, where eternal joy endures."]]}],"es":[{"k":"p","lines":[["El Señor le abra las puertas del paraíso para que pueda volver a aquella patria donde no hay muerte, donde permanece la alegría sin fin."]]}],"it":[{"k":"p","lines":[["L'eterno riposo dona loro, Signore, e splenda ad essi la luce perpetua."]]}],"fr":[{"k":"p","lines":[["Que le Seigneur ouvre à notre frère la porte du Paradis,"],["l'entrée dans cette patrie où la mort n'existe plus,"],["où s'épanouit une joie éternelle."]]}],"de":[{"k":"p","lines":[["Der Herr tue ihm ",{"m":"rubric","t":"("},"ihr",{"m":"rubric","t":")"}," das Tor zum Paradies auf, zur Heimkehr in das Land, wo kein Tod mehr ist, in das Land der ewigen Freude."]]}]},"part":"entranceAntiphon"},{"slot":"406","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"vel"}]],"cite":"Iob 19, 25. 26"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"ou"}]],"cite":"Jó 19, 25. 26"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]],"cite":"Job 19: 25. 26"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]],"cite":"Jb 19, 25. 26"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"vel"}]],"cite":"Iob 19, 25. 26"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder:"}]]}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"407","text":{"la":[{"k":"p","lines":[["Scio quod Redémptor meus vivit, et in novíssimo die de terra surrectúrus sum, et in carne mea vidébo Deum meum."]]}],"pt-BR":[{"k":"p","lines":[["Eu sei que o meu Redentor está vivo e que, por último, se levantará sobre o pó; e, na minha carne, verei a Deus."]]}],"en-US":[{"k":"p","lines":[["I know that my redeemer lives,"],["and that he will at last stand forth upon the dust; and from my flesh i shall see god."]]}],"es":[{"k":"p","lines":[["Sé que mi Redentor vive, y que en el último día me alzaré de la tierra y en mi propia carne veré a mi Dios."]]}],"it":[{"k":"p","lines":[["Io so che il mio Redentore è vivo nell'ultimo giorno risorgerò dalla polvere con la mia carne vedrò il mio Dio."]]}],"fr":[{"k":"p","lines":[["Je sais que mon Rédempteur est vivant"],["et qu'au dernier jour je surgirai de la terre ;"],["dans ma propre chair, je verrai mon Dieu."]]}],"de":[{"k":"p","lines":[["Ich weiß, dass mein Erlöser lebt, darum werde ich auferstehn am Letzten Tag und Gott anschauen in meinem Leib."]]}]},"part":"entranceAntiphon"},{"slot":"408","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"409","text":{"la":[{"k":"p","lines":[["Da, quǽsumus, omnípotens Deus, ut ánima fámuli tui ",{"m":"rubric","t":"N."}," epíscopi, cui famíliæ tuæ curam tradidísti, cum multíplici labóris fructu gáudia Dómini sui ingrediátur ætérna. Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus todo-poderoso, concedei ao vosso servo, o bispo ",{"m":"rubric","t":"N."},", a quem confiastes o cuidado da vossa família, entrar, com os abundantes frutos do seu trabalho, na alegria eterna do seu Senhor. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, almighty God,"],["that the soul of your departed servant Bishop ",{"m":"rubric","t":"N."},","],["to whom you committed the care of your family,"],["may, with the manifold fruit of his labors,"],["enter into the eternal gladness of his lord."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Te pedimos, Dios todopoderoso,"],["por el alma de tu siervo ",{"m":"rubric","t":"N."},", obispo,"],["a quien encomendaste el cuidado de tu familia,"],["para que entre en los gozos eternos de su Señor,"],["acompañado del abundante fruto de su trabajo."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, concedi al tuo servo, il vescovo ",{"m":"rubric","t":"N."},", al quale hai affidato la cura della tua famiglia, di entrare con gli abbondanti frutti delle sue fatiche apostoliche nella gioia della vita eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant, nous te prions"],["pour l'âme de ton serviteur ",{"m":"rubric","t":"N."},", notre évêque,"],["à qui tu avais confié le soin de ta famille ;"],["donne-lui de recueillir les fruits nombreux de son travail"],["et d'entrer pour toujours dans la joie de son maître."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, erbarme dich unseres verstorbenen Bischofs ",{"m":"rubric","t":"N."}," Ihm hast du die Sorge für die Kirche von ",{"m":"rubric","t":"N."}," anvertraut. Schenke ihm nun den Lohn für seine Mühen und nimm ihn auf in deine Freude. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"410","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"411","text":{"la":[{"k":"p","lines":[["Imménsam cleméntiam tuam, Dómine, supplíciter implorámus, ut hoc sacrifícium, quod fámulus tuus ",{"m":"rubric","t":"N."}," epíscopus, dum esset in córpore, maiestáti tuæ pro salúte fidélium óbtulit, ipsi nunc prosit ad véniam. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, imploramos humildemente a vossa imensa misericórdia, para que este sacrifício, tantas vezes oferecido por vosso servo, o bispo ",{"m":"rubric","t":"N."},", pela salvação dos fiéis, lhe obtenha agora o vosso perdão. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["We humbly beseech your boundless mercy, lord, that this sacrifice,"],["which your departed servant and Bishop ",{"m":"rubric","t":"N."},", while in the body, offered to your majesty"],["for the salvation of the faithful,"],["may now bring him, too, your pardon. Through Christ our Lord"]]}],"es":[{"k":"p","lines":[["Señor, imploramos humildemente"],["tu inagotable clemencia,"],["para que este sacrificio sirva ahora de perdón"],["a tu siervo ",{"m":"rubric","t":"N."},", obispo,"],["que lo ofreció a tu divina majestad durante su vida mortal por la salvación de los fieles."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, umilmente invochiamo la tua infinita clemenza: questo sacrificio, che il tuo servo, il vescovo ",{"m":"rubric","t":"N."},", nella sua vita terrena ha offerto alla tua gloria per la salvezza dei fedeli, sia ora per lui sorgente di perdono e di pace. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous implorons humblement, Seigneur, ton immense bonté,"],["en t'offrant ce sacrifice pour ton serviteur ",{"m":"rubric","t":"N."},", notre évêque ;"],["de son vivant, il l'offrait lui-même à ta gloire"],["pour le salut des fidèles :"],["que ce sacrifice lui procure maintenant le pardon."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, erweise deinem Diener, unserem Bischof ",{"m":"rubric","t":"N."},", dein reiches Erbarmen. Dieses Opfer, das er so oft für das Heil der Gläubigen gefeiert hat, bringe auch ihm die Vergebung aller Schuld. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"413","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 6, 37"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 6, 37"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 6: 37"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Jn 6, 37"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gv 6, 37"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 6, 37"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 6, 37"}]},"part":"communionAntiphon"},{"slot":"414","text":{"la":[{"k":"p","lines":[["Omne quod dat mihi Pater, ad me véniet, dicit Dóminus, et eum qui venit ad me, non eíciam foras."]]}],"pt-BR":[{"k":"p","lines":[["Todos os que o Pai me confia virão a mim, diz o Senhor, e quando vierem, não os afastarei."]]}],"en-US":[{"k":"p","lines":[["Everything that the father gives me will come to me, says the Lord, and i will not reject anyone who comes to me."]]}],"es":[{"k":"p","lines":[["Todo lo que me da el Padre vendrá a mí, dice el Señor, y al que venga a mí no lo echaré fuera."]]}],"it":[{"k":"p","lines":[["«Tutto ciò che il Padre mi dà, verrà a me; colui che viene a me, io non lo respingerò», dice il Signore."]]}],"fr":[{"k":"p","lines":[["Tous ceux que le Père me donne viendront à moi, dit le Seigneur,"],["et celui qui vient à moi, je ne vais pas le jeter dehors."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Alle, die der Vater mir gibt, werden zu mir kommen, und wer zu mir kommt, den werde ich nicht abweisen."]]}]},"part":"communionAntiphon"},{"slot":"415","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel:"}]],"cite":"Cf. Io 6, 50"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou:"}]],"cite":"Cf. Jo 6,50"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]],"cite":"Cf. Jn 6: 50"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]],"cite":"Cf. Jn 6, 50"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien:"}]],"cite":"Cf. Io 6, 50"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder:"}]]}]},"part":"communionAntiphon","role":"rubric"},{"slot":"416","text":{"la":[{"k":"p","lines":[["Hic est panis de cælo descéndens, dicit Dóminus; si quis ex ipso manducáverit, non moriétur in ætérnum."]]}],"pt-BR":[{"k":"p","lines":[["Este é o pão que desce do céu, diz o Senhor; quem dele comer, não morrerá para sempre."]]}],"en-US":[{"k":"p","lines":[["This is the bread that comes down from heaven, says the Lord; so that one may eat it and not die."]]}],"es":[{"k":"p","lines":[["Este es el pan que baja del cielo, para que el hombre coma de él y no muera para siempre, dice el Señor."]]}],"it":[{"k":"p","lines":[["«Questo è il pane disceso dal cielo», dice il Signore; «chi mangia di questo pane, non morrà in eterno»."]]}],"fr":[{"k":"p","lines":[["Voici le pain qui descend du ciel, dit le Seigneur ;"],["celui qui mange de ce pain ne mourra jamais."]]}],"de":[{"k":"p","lines":[["Dieses ist das Brot, das vom Himmel herabkommt; wer von diesem Brot isst, wird nicht sterben in Ewigkeit."]]}]},"part":"communionAntiphon"},{"slot":"417","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"418","text":{"la":[{"k":"p","lines":[["Prosit, quǽsumus, Dómine, ánimæ fámuli tui ",{"m":"rubric","t":"N."}," epíscopi misericórdiæ tuæ imploráta cleméntia, ut Christi, in quo sperávit et quem prædicávit, ætérnum cápiat, his sacrifíciis, consórtium. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, nós vos pedimos que aproveite ao vosso servo, o bispo ",{"m":"rubric","t":"N."},", a implorada clemência da vossa misericórdia para que obtenha, por este sacrifício, a eterna companhia de Cristo, que ele anunciou, no qual pôs a sua esperança e que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["May your merciful kindness,"],["which we have implored, O Lord,"],["benefit the soul of your departed servant Bishop ",{"m":"rubric","t":"N."},", that, by these sacrificial gifts,"],["he may know the eternal company of Christ,"],["in whom he hoped and whom he preached."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Señor,"],["la implorada clemencia de tu misericordia"],["sea provechosa al alma de tu siervo ",{"m":"rubric","t":"N."},", obispo,"],["para que alcance, por este sacrificio,"],["la unión eterna con Cristo,"],["en quien esperó y a quien predicó."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["La tua clemenza, Signore misericordioso, si effonda sull'anima del tuo servo, il vescovo ",{"m":"rubric","t":"N."},", perché giunga, per la forza di questo sacrificio, all'eterna comunione con il Cristo che ha annunciato e nel quale ha sperato. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Nous implorons, Seigneur, ta miséricordieuse bonté"],["pour l'âme de ton serviteur ",{"m":"rubric","t":"N."},", notre évêque ;"],["puisqu'il a mis son espérance dans le Christ,"],["et l'a annoncé,,"],["que ce sacrifice lui obtienne"],["d'être avec lui pour toujours."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Erhöre unser Gebet, barmherziger Gott, und wende unserem verstorbenen Bischof ",{"m":"rubric","t":"N."}," dein Erbarmen zu. Auf Christus hat er gehofft, ihn hat er verkündigt. Gib ihm durch dieses Opfer Anteil an der Herrlichkeit deines Sohnes, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"postcommunion"}],"prefaces":["preface.67","preface.68","preface.69","preface.70","preface.71"],"title":{"la":"IV. ORATIONES DIVERSÆ PRO DEFUNCTIS","pt-BR":"IV. ORAÇÕES DIVERSAS PELOS DEFUNTOS","en-US":"IV. VARIOUS PRAYERS FOR THE DEAD","es":"IV. DIVERSAS ORACIONES POR LOS DIFUNTOS","it":"IV. ORAZIONI DIVERSE PER I DEFUNTI","fr":"IV. PRIÈRES DIVERSES POUR LES DÉFUNTS","de":"IV. WEITERE ORATIONEN FÜR VERSTORBENE"},"subtitle":{"la":"2. PRO EPISCOPO A. Pro Episcopo diœcesano","pt-BR":"2. POR UM BISPO A. Pelo Bispo diocesano","en-US":"2. FOR A BISHOP A. For a Diocesan Bishop","es":"2. POR EL OBISPO A. Por el obispo diocesano","it":"2.PER IL VESCOVO A. Per il Vescovo diocesano","fr":"2. POUR UN ÉVÊQUE A. Pour l'évêque du diocèse","de":"2. FÜR EINEN BISCHOF A. Für einen Diözesanbischof"}}
+{
+ "id": "for-the-dead.30",
+ "kind": "for-the-dead",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. ORATIONES DIVERSÆ PRO DEFUNCTIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2. PRO EPISCOPO"
+       ],
+       [
+        "A. Pro Episcopo diœcesano"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. ORAÇÕES DIVERSAS PELOS DEFUNTOS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2. POR UM BISPO"
+       ],
+       [
+        "A. Pelo Bispo diocesano"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. VARIOUS PRAYERS FOR THE DEAD"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2. FOR A BISHOP"
+       ],
+       [
+        "A. For a Diocesan Bishop"
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. VARIOUS PRAYERS FOR THE DEAD"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2. For a Bishop"
+       ],
+       [
+        "A) For the Diocesan Bishop"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. DIVERSAS ORACIONES POR LOS DIFUNTOS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2. POR EL OBISPO"
+       ],
+       [
+        "A. Por el obispo diocesano"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. ORAZIONI DIVERSE PER I DEFUNTI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2.PER IL VESCOVO"
+       ],
+       [
+        "A. Per il Vescovo diocesano"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. PRIÈRES DIVERSES POUR LES DÉFUNTS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2. POUR UN ÉVÊQUE"
+       ],
+       [
+        "A. Pour l'évêque du diocèse"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. WEITERE ORATIONEN FÜR VERSTORBENE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2. FÜR EINEN BISCHOF"
+       ],
+       [
+        "A. Für einen Diözesanbischof"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apériat ei Dóminus paradísi iánuam, ut ad illam pátriam revertátur, ubi mors non est, ubi gáudium ætérnum persevérat."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor lhe abra a porta do paraíso, para que possa voltar àquela pátria onde não há morte, e reina eterna alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the Lord open to him ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "her",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " the gates of paradise, that he ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "she",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " may return to that homeland,"
+       ],
+       [
+        "where there is no death, where eternal joy endures."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor le abra las puertas del paraíso para que pueda volver a aquella patria donde no hay muerte, donde permanece la alegría sin fin."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'eterno riposo dona loro, Signore, e splenda ad essi la luce perpetua."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que le Seigneur ouvre à notre frère la porte du Paradis,"
+       ],
+       [
+        "l'entrée dans cette patrie où la mort n'existe plus,"
+       ],
+       [
+        "où s'épanouit une joie éternelle."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr tue ihm ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "ihr",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " das Tor zum Paradies auf, zur Heimkehr in das Land, wo kein Tod mehr ist, in das Land der ewigen Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ]
+      ],
+      "cite": "Iob 19, 25. 26"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "ou"
+        }
+       ]
+      ],
+      "cite": "Jó 19, 25. 26"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ],
+      "cite": "Job 19: 25. 26"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ],
+      "cite": "Jb 19, 25. 26"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ]
+      ],
+      "cite": "Iob 19, 25. 26"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scio quod Redémptor meus vivit, et in novíssimo die de terra surrectúrus sum, et in carne mea vidébo Deum meum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu sei que o meu Redentor está vivo e que, por último, se levantará sobre o pó; e, na minha carne, verei a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I know that my redeemer lives,"
+       ],
+       [
+        "and that he will at last stand forth upon the dust; and from my flesh i shall see god."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sé que mi Redentor vive, y que en el último día me alzaré de la tierra y en mi propia carne veré a mi Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io so che il mio Redentore è vivo nell'ultimo giorno risorgerò dalla polvere con la mia carne vedrò il mio Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je sais que mon Rédempteur est vivant"
+       ],
+       [
+        "et qu'au dernier jour je surgirai de la terre ;"
+       ],
+       [
+        "dans ma propre chair, je verrai mon Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich weiß, dass mein Erlöser lebt, darum werde ich auferstehn am Letzten Tag und Gott anschauen in meinem Leib."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Da, quǽsumus, omnípotens Deus, ut ánima fámuli tui ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " epíscopi, cui famíliæ tuæ curam tradidísti, cum multíplici labóris fructu gáudia Dómini sui ingrediátur ætérna. Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus todo-poderoso, concedei ao vosso servo, o bispo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", a quem confiastes o cuidado da vossa família, entrar, com os abundantes frutos do seu trabalho, na alegria eterna do seu Senhor. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, almighty God,"
+       ],
+       [
+        "that the soul of your departed servant Bishop ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "to whom you committed the care of your family,"
+       ],
+       [
+        "may, with the manifold fruit of his labors,"
+       ],
+       [
+        "enter into the eternal gladness of his lord."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Dios todopoderoso,"
+       ],
+       [
+        "por el alma de tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", obispo,"
+       ],
+       [
+        "a quien encomendaste el cuidado de tu familia,"
+       ],
+       [
+        "para que entre en los gozos eternos de su Señor,"
+       ],
+       [
+        "acompañado del abundante fruto de su trabajo."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, concedi al tuo servo, il vescovo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", al quale hai affidato la cura della tua famiglia, di entrare con gli abbondanti frutti delle sue fatiche apostoliche nella gioia della vita eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant, nous te prions"
+       ],
+       [
+        "pour l'âme de ton serviteur ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", notre évêque,"
+       ],
+       [
+        "à qui tu avais confié le soin de ta famille ;"
+       ],
+       [
+        "donne-lui de recueillir les fruits nombreux de son travail"
+       ],
+       [
+        "et d'entrer pour toujours dans la joie de son maître."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, erbarme dich unseres verstorbenen Bischofs ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " Ihm hast du die Sorge für die Kirche von ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " anvertraut. Schenke ihm nun den Lohn für seine Mühen und nimm ihn auf in deine Freude. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Imménsam cleméntiam tuam, Dómine, supplíciter implorámus, ut hoc sacrifícium, quod fámulus tuus ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " epíscopus, dum esset in córpore, maiestáti tuæ pro salúte fidélium óbtulit, ipsi nunc prosit ad véniam. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, imploramos humildemente a vossa imensa misericórdia, para que este sacrifício, tantas vezes oferecido por vosso servo, o bispo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", pela salvação dos fiéis, lhe obtenha agora o vosso perdão. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We humbly beseech your boundless mercy, lord, that this sacrifice,"
+       ],
+       [
+        "which your departed servant and Bishop ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", while in the body, offered to your majesty"
+       ],
+       [
+        "for the salvation of the faithful,"
+       ],
+       [
+        "may now bring him, too, your pardon. Through Christ our Lord"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, imploramos humildemente"
+       ],
+       [
+        "tu inagotable clemencia,"
+       ],
+       [
+        "para que este sacrificio sirva ahora de perdón"
+       ],
+       [
+        "a tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", obispo,"
+       ],
+       [
+        "que lo ofreció a tu divina majestad durante su vida mortal por la salvación de los fieles."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, umilmente invochiamo la tua infinita clemenza: questo sacrificio, che il tuo servo, il vescovo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", nella sua vita terrena ha offerto alla tua gloria per la salvezza dei fedeli, sia ora per lui sorgente di perdono e di pace. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous implorons humblement, Seigneur, ton immense bonté,"
+       ],
+       [
+        "en t'offrant ce sacrifice pour ton serviteur ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", notre évêque ;"
+       ],
+       [
+        "de son vivant, il l'offrait lui-même à ta gloire"
+       ],
+       [
+        "pour le salut des fidèles :"
+       ],
+       [
+        "que ce sacrifice lui procure maintenant le pardon."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, erweise deinem Diener, unserem Bischof ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", dein reiches Erbarmen. Dieses Opfer, das er so oft für das Heil der Gläubigen gefeiert hat, bringe auch ihm die Vergebung aller Schuld. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 6, 37"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 6, 37"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 6: 37"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Jn 6, 37"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gv 6, 37"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 6, 37"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 6, 37"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omne quod dat mihi Pater, ad me véniet, dicit Dóminus, et eum qui venit ad me, non eíciam foras."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Todos os que o Pai me confia virão a mim, diz o Senhor, e quando vierem, não os afastarei."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Everything that the father gives me will come to me, says the Lord, and i will not reject anyone who comes to me."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Todo lo que me da el Padre vendrá a mí, dice el Señor, y al que venga a mí no lo echaré fuera."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Tutto ciò che il Padre mi dà, verrà a me; colui che viene a me, io non lo respingerò», dice il Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tous ceux que le Père me donne viendront à moi, dit le Seigneur,"
+       ],
+       [
+        "et celui qui vient à moi, je ne vais pas le jeter dehors."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Alle, die der Vater mir gibt, werden zu mir kommen, und wer zu mir kommt, den werde ich nicht abweisen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ],
+      "cite": "Cf. Io 6, 50"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ],
+      "cite": "Cf. Jo 6,50"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ],
+      "cite": "Cf. Jn 6: 50"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ],
+      "cite": "Cf. Jn 6, 50"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien:"
+        }
+       ]
+      ],
+      "cite": "Cf. Io 6, 50"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hic est panis de cælo descéndens, dicit Dóminus; si quis ex ipso manducáverit, non moriétur in ætérnum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Este é o pão que desce do céu, diz o Senhor; quem dele comer, não morrerá para sempre."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "This is the bread that comes down from heaven, says the Lord; so that one may eat it and not die."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Este es el pan que baja del cielo, para que el hombre coma de él y no muera para siempre, dice el Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Questo è il pane disceso dal cielo», dice il Signore; «chi mangia di questo pane, non morrà in eterno»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici le pain qui descend du ciel, dit le Seigneur ;"
+       ],
+       [
+        "celui qui mange de ce pain ne mourra jamais."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieses ist das Brot, das vom Himmel herabkommt; wer von diesem Brot isst, wird nicht sterben in Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prosit, quǽsumus, Dómine, ánimæ fámuli tui ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " epíscopi misericórdiæ tuæ imploráta cleméntia, ut Christi, in quo sperávit et quem prædicávit, ætérnum cápiat, his sacrifíciis, consórtium. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, nós vos pedimos que aproveite ao vosso servo, o bispo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", a implorada clemência da vossa misericórdia para que obtenha, por este sacrifício, a eterna companhia de Cristo, que ele anunciou, no qual pôs a sua esperança e que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May your merciful kindness,"
+       ],
+       [
+        "which we have implored, O Lord,"
+       ],
+       [
+        "benefit the soul of your departed servant Bishop ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", that, by these sacrificial gifts,"
+       ],
+       [
+        "he may know the eternal company of Christ,"
+       ],
+       [
+        "in whom he hoped and whom he preached."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor,"
+       ],
+       [
+        "la implorada clemencia de tu misericordia"
+       ],
+       [
+        "sea provechosa al alma de tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", obispo,"
+       ],
+       [
+        "para que alcance, por este sacrificio,"
+       ],
+       [
+        "la unión eterna con Cristo,"
+       ],
+       [
+        "en quien esperó y a quien predicó."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La tua clemenza, Signore misericordioso, si effonda sull'anima del tuo servo, il vescovo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", perché giunga, per la forza di questo sacrificio, all'eterna comunione con il Cristo che ha annunciato e nel quale ha sperato. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous implorons, Seigneur, ta miséricordieuse bonté"
+       ],
+       [
+        "pour l'âme de ton serviteur ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", notre évêque ;"
+       ],
+       [
+        "puisqu'il a mis son espérance dans le Christ,"
+       ],
+       [
+        "et l'a annoncé,,"
+       ],
+       [
+        "que ce sacrifice lui obtienne"
+       ],
+       [
+        "d'être avec lui pour toujours."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erhöre unser Gebet, barmherziger Gott, und wende unserem verstorbenen Bischof ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " dein Erbarmen zu. Auf Christus hat er gehofft, ihn hat er verkündigt. Gib ihm durch dieses Opfer Anteil an der Herrlichkeit deines Sohnes, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.67",
+  "preface.68",
+  "preface.69",
+  "preface.70",
+  "preface.71"
+ ],
+ "title": {
+  "la": "IV. ORATIONES DIVERSÆ PRO DEFUNCTIS",
+  "pt-BR": "IV. ORAÇÕES DIVERSAS PELOS DEFUNTOS",
+  "en-US": "IV. VARIOUS PRAYERS FOR THE DEAD",
+  "es": "IV. DIVERSAS ORACIONES POR LOS DIFUNTOS",
+  "it": "IV. ORAZIONI DIVERSE PER I DEFUNTI",
+  "fr": "IV. PRIÈRES DIVERSES POUR LES DÉFUNTS",
+  "de": "IV. WEITERE ORATIONEN FÜR VERSTORBENE"
+ },
+ "subtitle": {
+  "la": "2. PRO EPISCOPO A. Pro Episcopo diœcesano",
+  "pt-BR": "2. POR UM BISPO A. Pelo Bispo diocesano",
+  "en-US": "2. FOR A BISHOP A. For a Diocesan Bishop",
+  "es": "2. POR EL OBISPO A. Por el obispo diocesano",
+  "it": "2.PER IL VESCOVO A. Per il Vescovo diocesano",
+  "fr": "2. POUR UN ÉVÊQUE A. Pour l'évêque du diocèse",
+  "de": "2. FÜR EINEN BISCHOF A. Für einen Diözesanbischof"
+ }
+}

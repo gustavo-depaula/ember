@@ -1,1 +1,1748 @@
-{"id":"various-needs.59","source":"comunes_votivas/diversas#div059","kind":"various-needs","items":[{"slot":"703","text":{"la":[{"k":"h2","lines":[["III. AD DIVERSA"]]},{"k":"h3","lines":[["45. PRO INFIRMIS"]]}],"pt-BR":[{"k":"h2","lines":[["III. EM DIVERSAS NECESSIDADES"]]},{"k":"h3","lines":[["45. PELOS ENFERMOS"]]}],"en-US":[{"k":"h2","lines":[["III. FOR VARIOUS OCCASIONS"]]},{"k":"h3","lines":[["45. FOR THE SICK"]]},{"k":"h2","lines":[["III. FOR VARIOUS PUBLIC NEEDS"]]},{"k":"h3","lines":[["45. For the Sick"]]}],"es":[{"k":"h2","lines":[["III. EN DIVERSAS NECESIDADES"]]},{"k":"h3","lines":[["45. POR LOS ENFERMOS"]]}],"it":[{"k":"h2","lines":[["IN DIVERSE NECESSITÀ"]]},{"k":"h3","lines":[["45. PER GLI INFERMI"]]}],"fr":[{"k":"h2","lines":[["III. POUR DIVERSES CIRCONSTANCES"]]},{"k":"h3","lines":[["45. POUR LES MALADES OU LES INFIRMES"]]}],"de":[{"k":"h2","lines":[["III. IN BESONDEREN ANLIEGEN"]]},{"k":"h3","lines":[["45. FÜR KRANKE"]]}]},"part":"title"},{"slot":"704","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ps 6, 3-4"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 6, 3-4"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Ps 6, 3-4"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 6, 3-4"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 6, 3-4"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ps 6, 3-4"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 6, 3"}]},"part":"entranceAntiphon"},{"slot":"705","text":{"la":[{"k":"p","lines":[["Miserére mei, Dómine, quóniam infírmus sum; sana me, Dómine, quóniam conturbáta sunt ossa mea, et ánima mea turbáta est valde."]]}],"pt-BR":[{"k":"p","lines":[["Piedade de mim, estou enfermo;"],["curai o meu corpo doente!"],["Minha alma está muito abatida!"]]}],"en-US":[{"k":"p","lines":[["Have mercy on me, God, for I am sick; heal me, Lord, my bones are racked with pain."]]},{"k":"p","lines":[["Have mercy on me, Lord, for I languish; Lord, heal me; my bones are trembling, and my soul is greatly shaken."]]}],"es":[{"k":"p","lines":[["Misericordia, Señor, que desfallezco; cura, Señor, mis huesos dislocados. Tengo el alma en delirio."]]}],"it":[{"k":"p","lines":[["Pietà di me, Signore, sono sfinito; guariscimi, Signore: tremano le mie ossa. Trema la mia anima"]]}],"fr":[{"k":"p","lines":[["Pitié, Seigneur, je dépéris !"],["Seigneur, guéris-moi !"],["Car je tremble de tous mes os,"],["de toute mon âme, je tremble."]]}],"de":[{"k":"p","lines":[["Sei mir gnädig, Herr, ich sieche dahin; heile mich, Herr, denn meine Glieder zerfallen."]]}]},"part":"entranceAntiphon"},{"slot":"706","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Is 53, 4"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Cf. Is 53, 4"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]],"cite":"Cf. Is 53, 4"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Cf. Is 53, 4"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]],"cite":"Cf. Is 53, 4"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Is 53, 4"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Vgl. Jes 53, 4"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"707","text":{"la":[{"k":"p","lines":[["Vere languóres nostros Dóminus tulit, et dolóres nostros ipse portávit."]]}],"pt-BR":[{"k":"p","lines":[["Na verdade, o Senhor assumiu nossos sofrimentos,"],["e carregou as nossas dores."]]}],"en-US":[{"k":"p","lines":[["Truly the Lord has borne our infirmities, and he has carried our sorrows."]]}],"es":[{"k":"p","lines":[["El Señor soportó nuestros sufrimientos y aguantó nuestros dolores."]]}],"it":[{"k":"p","lines":[["Il Signore si è caricato delle nostre sofferenze, si è addossato i nostri dolori."]]}],"fr":[{"k":"p","lines":[["Vraiment, c'étaient nos souffrances que portait le Seigneur,"],["nos douleurs dont il était chargé."]]}],"de":[{"k":"p","lines":[["Christus, der Herr, hat unsere Krankheiten getragen, unsre Schmerzen hat er auf sich genommen."]]}]},"part":"entranceAntiphon"},{"slot":"708","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"709","text":{"la":[{"k":"p","lines":[["Deus, qui languóres nostros voluísti ab Unigénito Fílio tuo portári, ut infirmitátis et patiéntiæ virtútem osténderes humánæ, preces nostras pro frátribus in ægritúdine pósitis benígnus exáudi, et præsta, ut, qui dolóribus, ærúmnis aliísve morbis premúntur, et inter eos qui beáti prædicántur se séntiant eléctos, et Christo pro mundi salúte patiénti se sciant unítos. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, quisestes que vosso Filho Unigênito"],["carregasse as nossas dores,"],["para mostrar o valor da enfermidade e da paciência humana."],["Atendei benigno as preces"],["em favor dos nossos irmãos e irmãs enfermos,"],["para que, oprimidos por dores, provações ou outros males,"],["sintam-se contados entre os Bem-aventurados do Evangelho"],["e saibam que estão unidos à paixão de Cristo pela salvação do mundo."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who willed that our infirmities be borne by your only Begotten son"],["to show the value of human suffering, listen in kindness to our prayers"],["for our brothers and sisters who are sick;"],["grant that all who are oppressed by pain, distress or"],["other afflictions"],["may know that they are chosen"],["among those proclaimed blessed"],["and are united to Christ"],["in his suffering for the salvation of the world."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["tú quisiste que tu Hijo unigénito soportara nuestras debilidades"],["para manifestar el valor de la enfermedad y la paciencia humana;"],["escucha benévolo nuestras plegarias por los hermanos enfermos,"],["y concede a cuantos se hallan sometidos al dolor,"],["la aflicción o la enfermedad,"],["la gracia de sentirse elegidos"],["entre aquellos que tu Hijo ha llamado dichosos,"],["y de saberse unidos a Cristo en su pasión"],["para la redención del mundo."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Padre, nel tuo Figlio unigenito, che ha preso su di sé le nostre infermità, hai voluto manifestare la forza della debolezza e della sofferenza umana: ascolta con benevolenza le preghiere che ti rivolgiamo per i nostri fratelli infermi, e concedi a coloro che si trovano nel dolore, nell'angoscia o nella malattia di sentirsi chiamati alla beatitudine promessa agli afflitti, e di riconoscersi uniti a Cristo che ha sofferto per la salvezza del mondo. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as voulu que ton Fils unique porte nos infirmités"],["pour montrer la force cachée dans la faiblesse"],["et dans la patience humaine ;"],["toi qui es bon, exauce nos prières"],["pour nos frères et sœurs malades ;"],["à ceux qui sont accablés par les douleurs,"],["les souffrances et la maladie,"],["donne de découvrir"],["qu'ils font partie de ceux que l'on proclame bienheureux ;"],["accorde-leur de se savoir unis au Christ"],["souffrant pour le salut du monde."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, dein Sohn hat unsere Schmerzen auf sich genommen und uns den geheimnisvollen Wert des Leidens gezeigt. Wir bitten dich für unseren kranken Bruder ",{"m":"rubric","t":"N. ("},"unsere kranke Schwester ",{"m":"rubric","t":"N.)"}," und für alle unsere Kranken: Lass sie erkennen, dass sie zu denen gehören, denen das Evangelium Trost verheißt, und dass sie eins sind mit dem, der für das Heil der Welt gelitten hat, unserem Herrn Jesus Christus, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"710","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"collect","role":"rubric"},{"slot":"711","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus, salus ætérna credéntium, exáudi nos pro fámulis tuis infírmis, pro quibus misericórdiæ tuæ implorámus auxílium, ut, réddita sibi sanitáte, gratiárum tibi in Ecclésia tua réferant actiónes. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, Deus onipotente,"],["salvação eterna dos que creem em vós,"],["atendei nossa oração em favor dos vossos filhos e filhas enfermos,"],["por quem imploramos o auxílio da vossa misericórdia;"],["para que,-recuperada a saúde, vos rendam graças na vossa Igreja."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God, eternal health of believers, hear our prayers for your servants who are sick:"],["grant them, we implore you, your merciful help,"],["so that, with their health restored,"],["they may give you thanks in the midst of your Church. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["salvación eterna de cuantos creen en ti,"],["escucha las oraciones que te dirigimos"],["por tus siervos enfermos,"],["para quienes imploramos el auxilio de tu misericordia,"],["para que, recuperada su salud,"],["puedan ofrecer la acción gracias en tu Iglesia."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, salvezza dei credenti, ascolta le preghiere che ti rivolgiamo implorando l'aiuto della tua misericordia per i nostri fratelli infermi, perché, recuperata la salute, possano renderti grazie nella tua Chiesa. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["salut éternel de ceux qui croient en toi,"],["exauce-nous quand nous implorons le secours de ta miséricorde"],["pour tes serviteurs éprouvés par la maladie :"],["qu'après avoir retrouvé la santé,"],["ils te rendent grâce dans ton Église."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, du bist das ewige Heil aller Gläubigen; erhöre unser Gebet für unsere kranken Brüder und Schwestern. Richte sie auf in deiner Barmherzigkeit und gib ihnen die Gesundheit wieder, damit sie dir in deiner Gemeinde danken. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"712","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"713","text":{"la":[{"k":"p","lines":[["Deus, cuius nútibus vitæ nostræ moménta decúrrunt, súscipe preces et hóstias, quibus tuam pro frátribus ægrotántibus misericórdiam implorámus, ut, de quorum perículo metúimus, de eórum salúte lætémur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, por cuja vontade transcorrem os momentos da nossa vida;"],["acolhei as preces e oferendas"],["com as quais imploramos a vossa misericórdia"],["em favor dos nossos irmãos e irmãs enfermos,"],["para que nos alegremos com a recuperação"],["daqueles cuja saúde em perigo agora nos preocupa."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Since the moments of our life unfold, o God, according to your good pleasure,"],["receive the prayers and sacrificial offerings by which we implore your mercy"],["for our brothers and sisters who are ill,"],["that, having been anxious for them in their danger, we may rejoice at their recovery of health."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["bajo cuya providencia transcurre cada instante de la vida,"],["recibe las súplicas y oblaciones que te ofrecemos"],["implorando tu misericordia a favor de los hermanos enfermos,"],["y así, quienes tememos por su enfermedad,"],["nos alegremos de su salud."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Dio, che vegli sul trascorrere della nostra vita, accogli le preghiere e le offerte che ti presentiamo implorando la tua misericordia per i fratelli infermi, e fa' che, dopo aver trepidato per la loro malattia, possiamo rallegrarci della loro guarigione. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["de ta volonté dépend le cours de notre existence ;"],["accueille nos prières et nos sacrifices"],["offerts pour implorer ta miséricorde"],["en faveur de nos frères et sœurs malades :"],["tandis que nous craignons pour leur santé,"],["puissions-nous nous réjouir de leur guérison."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du lenkst den Lauf unseres Lebens, in deiner Hand liegen Gesundheit und Krankheit. Wir bringen dir Gebete und Gaben dar für unseren Bruder ",{"m":"rubric","t":"("},"unsere Schwester",{"m":"rubric","t":") N."},", der ",{"m":"rubric","t":"("},"die",{"m":"rubric","t":")"}," krank darniederliegt. Gib ihm ",{"m":"rubric","t":"("},"ihr",{"m":"rubric","t":")"}," die Kraft, sein ",{"m":"rubric","t":"("},"ihr",{"m":"rubric","t":")"}," Leiden anzunehmen und in Geduld zu ertragen, und wandle unsere Sorge in Freude über seine ",{"m":"rubric","t":"("},"ihre",{"m":"rubric","t":")"}," Genesung. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"714","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Col 1, 24"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cl 1, 24"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Col 1, 24"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Col 1, 24"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Col 1, 24"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Col 1, 24"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Kol 1, 24"}]},"part":"communionAntiphon"},{"slot":"715","text":{"la":[{"k":"p","lines":[["Adímpleo, quæ desunt passiónum Christi in carne mea, pro córpore eius, quod est Ecclésia."]]}],"pt-BR":[{"k":"p","lines":[["Procuro completar na minha própria carne"],["o que falta das tribulações de Cristo,"],["em solidariedade com o seu corpo, isto é, a Igreja."]]}],"en-US":[{"k":"p","lines":[["In my flesh I am completing what is lacking in the afflictions of Christ on behalf of his body, which is the church."]]}],"es":[{"k":"p","lines":[["Completo en mi carne lo que falta a los padecimientos de Cristo, en favor de su cuerpo que es la Iglesia."]]}],"it":[{"k":"p","lines":[["Do compimento a ciò che, dei patimenti di Cristo, manca nella mia carne, a favore del suo corpo che è la Chiesa."]]}],"fr":[{"k":"p","lines":[["Ce qui reste à souffrir des épreuves du Christ dans ma propre chair,"],["je l'accomplis pour son corps qui est l'Église."]]}],"de":[{"k":"p","lines":[["Für den Leib Christi, die Kirche, erfülle ich in meinem irdischen Leben das Maß seiner Leiden."]]}]},"part":"communionAntiphon"},{"slot":"716","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"717","text":{"la":[{"k":"p","lines":[["Deus, infirmitátis humánæ singuláre præsídium, auxílii tui super infírmos fámulos tuos osténde virtútem, ut, ope misericórdiæ tuæ adiúti, Ecclésiæ tuæ sanctæ incólumes repræsentári mereántur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, único refúgio na enfermidade humana,"],["mostrai a força do vosso auxílio"],["para com vossos filhos e filhas enfermos,"],["a fim de que, ajudados por vossa misericórdia,"],["mereçam frequentar de novo, sãos e salvos,"],["a vossa santa Igreja."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["O God, only support of our human weakness, show the power of your protection"],["over your servants who are sick,"],["that, sustained by your merciful help,"],["they may be restored to your holy Church in good health."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Oh, Dios, singular protector en la enfermedad humana,"],["muestra el poder de tu auxilio con tus siervos enfermos,"],["para que, aliviados con el auxilio de tu misericordia,"],["merezcan presentarse sanos en tu santa Iglesia."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Dio, rifugio sicuro dei sofferenti, manifesta la potenza del tuo soccorso sui tuoi fedeli infermi perché, con l'aiuto della tua misericordia, possano rallegrarsi nella santa Chiesa per la salute ritrovata. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["vrai rempart de la faiblesse humaine,"],["manifeste à nos malades"],["la force de ton secours,"],["afin que, soutenus par ta miséricorde,"],["ils puissent revenir, guéris,"],["au milieu de ton assemblée sainte."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gott, du allein bist unsere sichere Zuflucht in den Tagen der Krankheit. Wir flehen dich an um dein Erbarmen: Erweise deine Macht an unseren kranken Brüdern ",{"m":"rubric","t":"("},"und Schwestern",{"m":"rubric","t":")"},", damit sie gesund und heil der Kirche wiedergegeben werden und dir zusammen mit uns das Opfer des Lobes darbringen. Darum bitten wir durch Christus, unseren Herrn."],[{"m":"rubric","t":"Oder (für unheilbar Kranke): "}],["Gott, du alleinbist unsere sichere Zuflucht in den Tagen der Krankheit. Hilf unseren kranken Brüdern und Schwestern durch dieses Sakrament, damit sie die Hoffnung bewahren und den Glauben an deine Liebe nicht verlieren. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"title":{"la":"III. AD DIVERSA","pt-BR":"III. EM DIVERSAS NECESSIDADES","en-US":"III. FOR VARIOUS OCCASIONS","es":"III. EN DIVERSAS NECESIDADES","it":"IN DIVERSE NECESSITÀ","fr":"III. POUR DIVERSES CIRCONSTANCES","de":"III. IN BESONDEREN ANLIEGEN"},"subtitle":{"la":"45. PRO INFIRMIS","pt-BR":"45. PELOS ENFERMOS","en-US":"45. FOR THE SICK","es":"45. POR LOS ENFERMOS","it":"45. PER GLI INFERMI","fr":"45. POUR LES MALADES OU LES INFIRMES","de":"45. FÜR KRANKE"}}
+{
+ "id": "various-needs.59",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. AD DIVERSA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "45. PRO INFIRMIS"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. EM DIVERSAS NECESSIDADES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "45. PELOS ENFERMOS"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. FOR VARIOUS OCCASIONS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "45. FOR THE SICK"
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. FOR VARIOUS PUBLIC NEEDS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "45. For the Sick"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. EN DIVERSAS NECESIDADES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "45. POR LOS ENFERMOS"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN DIVERSE NECESSITÀ"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "45. PER GLI INFERMI"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. POUR DIVERSES CIRCONSTANCES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "45. POUR LES MALADES OU LES INFIRMES"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. IN BESONDEREN ANLIEGEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "45. FÜR KRANKE"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ps 6, 3-4"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 6, 3-4"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Ps 6, 3-4"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 6, 3-4"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 6, 3-4"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ps 6, 3-4"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 6, 3"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Miserére mei, Dómine, quóniam infírmus sum; sana me, Dómine, quóniam conturbáta sunt ossa mea, et ánima mea turbáta est valde."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Piedade de mim, estou enfermo;"
+       ],
+       [
+        "curai o meu corpo doente!"
+       ],
+       [
+        "Minha alma está muito abatida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Have mercy on me, God, for I am sick; heal me, Lord, my bones are racked with pain."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Have mercy on me, Lord, for I languish; Lord, heal me; my bones are trembling, and my soul is greatly shaken."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Misericordia, Señor, que desfallezco; cura, Señor, mis huesos dislocados. Tengo el alma en delirio."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pietà di me, Signore, sono sfinito; guariscimi, Signore: tremano le mie ossa. Trema la mia anima"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pitié, Seigneur, je dépéris !"
+       ],
+       [
+        "Seigneur, guéris-moi !"
+       ],
+       [
+        "Car je tremble de tous mes os,"
+       ],
+       [
+        "de toute mon âme, je tremble."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sei mir gnädig, Herr, ich sieche dahin; heile mich, Herr, denn meine Glieder zerfallen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Is 53, 4"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Cf. Is 53, 4"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ],
+      "cite": "Cf. Is 53, 4"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Is 53, 4"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Cf. Is 53, 4"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Is 53, 4"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Vgl. Jes 53, 4"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vere languóres nostros Dóminus tulit, et dolóres nostros ipse portávit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Na verdade, o Senhor assumiu nossos sofrimentos,"
+       ],
+       [
+        "e carregou as nossas dores."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Truly the Lord has borne our infirmities, and he has carried our sorrows."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor soportó nuestros sufrimientos y aguantó nuestros dolores."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore si è caricato delle nostre sofferenze, si è addossato i nostri dolori."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vraiment, c'étaient nos souffrances que portait le Seigneur,"
+       ],
+       [
+        "nos douleurs dont il était chargé."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Christus, der Herr, hat unsere Krankheiten getragen, unsre Schmerzen hat er auf sich genommen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui languóres nostros voluísti ab Unigénito Fílio tuo portári, ut infirmitátis et patiéntiæ virtútem osténderes humánæ, preces nostras pro frátribus in ægritúdine pósitis benígnus exáudi, et præsta, ut, qui dolóribus, ærúmnis aliísve morbis premúntur, et inter eos qui beáti prædicántur se séntiant eléctos, et Christo pro mundi salúte patiénti se sciant unítos. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, quisestes que vosso Filho Unigênito"
+       ],
+       [
+        "carregasse as nossas dores,"
+       ],
+       [
+        "para mostrar o valor da enfermidade e da paciência humana."
+       ],
+       [
+        "Atendei benigno as preces"
+       ],
+       [
+        "em favor dos nossos irmãos e irmãs enfermos,"
+       ],
+       [
+        "para que, oprimidos por dores, provações ou outros males,"
+       ],
+       [
+        "sintam-se contados entre os Bem-aventurados do Evangelho"
+       ],
+       [
+        "e saibam que estão unidos à paixão de Cristo pela salvação do mundo."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who willed that our infirmities be borne by your only Begotten son"
+       ],
+       [
+        "to show the value of human suffering, listen in kindness to our prayers"
+       ],
+       [
+        "for our brothers and sisters who are sick;"
+       ],
+       [
+        "grant that all who are oppressed by pain, distress or"
+       ],
+       [
+        "other afflictions"
+       ],
+       [
+        "may know that they are chosen"
+       ],
+       [
+        "among those proclaimed blessed"
+       ],
+       [
+        "and are united to Christ"
+       ],
+       [
+        "in his suffering for the salvation of the world."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "tú quisiste que tu Hijo unigénito soportara nuestras debilidades"
+       ],
+       [
+        "para manifestar el valor de la enfermedad y la paciencia humana;"
+       ],
+       [
+        "escucha benévolo nuestras plegarias por los hermanos enfermos,"
+       ],
+       [
+        "y concede a cuantos se hallan sometidos al dolor,"
+       ],
+       [
+        "la aflicción o la enfermedad,"
+       ],
+       [
+        "la gracia de sentirse elegidos"
+       ],
+       [
+        "entre aquellos que tu Hijo ha llamado dichosos,"
+       ],
+       [
+        "y de saberse unidos a Cristo en su pasión"
+       ],
+       [
+        "para la redención del mundo."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, nel tuo Figlio unigenito, che ha preso su di sé le nostre infermità, hai voluto manifestare la forza della debolezza e della sofferenza umana: ascolta con benevolenza le preghiere che ti rivolgiamo per i nostri fratelli infermi, e concedi a coloro che si trovano nel dolore, nell'angoscia o nella malattia di sentirsi chiamati alla beatitudine promessa agli afflitti, e di riconoscersi uniti a Cristo che ha sofferto per la salvezza del mondo. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as voulu que ton Fils unique porte nos infirmités"
+       ],
+       [
+        "pour montrer la force cachée dans la faiblesse"
+       ],
+       [
+        "et dans la patience humaine ;"
+       ],
+       [
+        "toi qui es bon, exauce nos prières"
+       ],
+       [
+        "pour nos frères et sœurs malades ;"
+       ],
+       [
+        "à ceux qui sont accablés par les douleurs,"
+       ],
+       [
+        "les souffrances et la maladie,"
+       ],
+       [
+        "donne de découvrir"
+       ],
+       [
+        "qu'ils font partie de ceux que l'on proclame bienheureux ;"
+       ],
+       [
+        "accorde-leur de se savoir unis au Christ"
+       ],
+       [
+        "souffrant pour le salut du monde."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, dein Sohn hat unsere Schmerzen auf sich genommen und uns den geheimnisvollen Wert des Leidens gezeigt. Wir bitten dich für unseren kranken Bruder ",
+        {
+         "m": "rubric",
+         "t": "N. ("
+        },
+        "unsere kranke Schwester ",
+        {
+         "m": "rubric",
+         "t": "N.)"
+        },
+        " und für alle unsere Kranken: Lass sie erkennen, dass sie zu denen gehören, denen das Evangelium Trost verheißt, und dass sie eins sind mit dem, der für das Heil der Welt gelitten hat, unserem Herrn Jesus Christus, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus, salus ætérna credéntium, exáudi nos pro fámulis tuis infírmis, pro quibus misericórdiæ tuæ implorámus auxílium, ut, réddita sibi sanitáte, gratiárum tibi in Ecclésia tua réferant actiónes. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, Deus onipotente,"
+       ],
+       [
+        "salvação eterna dos que creem em vós,"
+       ],
+       [
+        "atendei nossa oração em favor dos vossos filhos e filhas enfermos,"
+       ],
+       [
+        "por quem imploramos o auxílio da vossa misericórdia;"
+       ],
+       [
+        "para que,-recuperada a saúde, vos rendam graças na vossa Igreja."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God, eternal health of believers, hear our prayers for your servants who are sick:"
+       ],
+       [
+        "grant them, we implore you, your merciful help,"
+       ],
+       [
+        "so that, with their health restored,"
+       ],
+       [
+        "they may give you thanks in the midst of your Church. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "salvación eterna de cuantos creen en ti,"
+       ],
+       [
+        "escucha las oraciones que te dirigimos"
+       ],
+       [
+        "por tus siervos enfermos,"
+       ],
+       [
+        "para quienes imploramos el auxilio de tu misericordia,"
+       ],
+       [
+        "para que, recuperada su salud,"
+       ],
+       [
+        "puedan ofrecer la acción gracias en tu Iglesia."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, salvezza dei credenti, ascolta le preghiere che ti rivolgiamo implorando l'aiuto della tua misericordia per i nostri fratelli infermi, perché, recuperata la salute, possano renderti grazie nella tua Chiesa. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "salut éternel de ceux qui croient en toi,"
+       ],
+       [
+        "exauce-nous quand nous implorons le secours de ta miséricorde"
+       ],
+       [
+        "pour tes serviteurs éprouvés par la maladie :"
+       ],
+       [
+        "qu'après avoir retrouvé la santé,"
+       ],
+       [
+        "ils te rendent grâce dans ton Église."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, du bist das ewige Heil aller Gläubigen; erhöre unser Gebet für unsere kranken Brüder und Schwestern. Richte sie auf in deiner Barmherzigkeit und gib ihnen die Gesundheit wieder, damit sie dir in deiner Gemeinde danken. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, cuius nútibus vitæ nostræ moménta decúrrunt, súscipe preces et hóstias, quibus tuam pro frátribus ægrotántibus misericórdiam implorámus, ut, de quorum perículo metúimus, de eórum salúte lætémur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, por cuja vontade transcorrem os momentos da nossa vida;"
+       ],
+       [
+        "acolhei as preces e oferendas"
+       ],
+       [
+        "com as quais imploramos a vossa misericórdia"
+       ],
+       [
+        "em favor dos nossos irmãos e irmãs enfermos,"
+       ],
+       [
+        "para que nos alegremos com a recuperação"
+       ],
+       [
+        "daqueles cuja saúde em perigo agora nos preocupa."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Since the moments of our life unfold, o God, according to your good pleasure,"
+       ],
+       [
+        "receive the prayers and sacrificial offerings by which we implore your mercy"
+       ],
+       [
+        "for our brothers and sisters who are ill,"
+       ],
+       [
+        "that, having been anxious for them in their danger, we may rejoice at their recovery of health."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "bajo cuya providencia transcurre cada instante de la vida,"
+       ],
+       [
+        "recibe las súplicas y oblaciones que te ofrecemos"
+       ],
+       [
+        "implorando tu misericordia a favor de los hermanos enfermos,"
+       ],
+       [
+        "y así, quienes tememos por su enfermedad,"
+       ],
+       [
+        "nos alegremos de su salud."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che vegli sul trascorrere della nostra vita, accogli le preghiere e le offerte che ti presentiamo implorando la tua misericordia per i fratelli infermi, e fa' che, dopo aver trepidato per la loro malattia, possiamo rallegrarci della loro guarigione. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "de ta volonté dépend le cours de notre existence ;"
+       ],
+       [
+        "accueille nos prières et nos sacrifices"
+       ],
+       [
+        "offerts pour implorer ta miséricorde"
+       ],
+       [
+        "en faveur de nos frères et sœurs malades :"
+       ],
+       [
+        "tandis que nous craignons pour leur santé,"
+       ],
+       [
+        "puissions-nous nous réjouir de leur guérison."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du lenkst den Lauf unseres Lebens, in deiner Hand liegen Gesundheit und Krankheit. Wir bringen dir Gebete und Gaben dar für unseren Bruder ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "unsere Schwester",
+        {
+         "m": "rubric",
+         "t": ") N."
+        },
+        ", der ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "die",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " krank darniederliegt. Gib ihm ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "ihr",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " die Kraft, sein ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "ihr",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " Leiden anzunehmen und in Geduld zu ertragen, und wandle unsere Sorge in Freude über seine ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "ihre",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " Genesung. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Col 1, 24"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cl 1, 24"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Col 1, 24"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Col 1, 24"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Col 1, 24"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Col 1, 24"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Kol 1, 24"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Adímpleo, quæ desunt passiónum Christi in carne mea, pro córpore eius, quod est Ecclésia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Procuro completar na minha própria carne"
+       ],
+       [
+        "o que falta das tribulações de Cristo,"
+       ],
+       [
+        "em solidariedade com o seu corpo, isto é, a Igreja."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In my flesh I am completing what is lacking in the afflictions of Christ on behalf of his body, which is the church."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Completo en mi carne lo que falta a los padecimientos de Cristo, en favor de su cuerpo que es la Iglesia."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Do compimento a ciò che, dei patimenti di Cristo, manca nella mia carne, a favore del suo corpo che è la Chiesa."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ce qui reste à souffrir des épreuves du Christ dans ma propre chair,"
+       ],
+       [
+        "je l'accomplis pour son corps qui est l'Église."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Für den Leib Christi, die Kirche, erfülle ich in meinem irdischen Leben das Maß seiner Leiden."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, infirmitátis humánæ singuláre præsídium, auxílii tui super infírmos fámulos tuos osténde virtútem, ut, ope misericórdiæ tuæ adiúti, Ecclésiæ tuæ sanctæ incólumes repræsentári mereántur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, único refúgio na enfermidade humana,"
+       ],
+       [
+        "mostrai a força do vosso auxílio"
+       ],
+       [
+        "para com vossos filhos e filhas enfermos,"
+       ],
+       [
+        "a fim de que, ajudados por vossa misericórdia,"
+       ],
+       [
+        "mereçam frequentar de novo, sãos e salvos,"
+       ],
+       [
+        "a vossa santa Igreja."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, only support of our human weakness, show the power of your protection"
+       ],
+       [
+        "over your servants who are sick,"
+       ],
+       [
+        "that, sustained by your merciful help,"
+       ],
+       [
+        "they may be restored to your holy Church in good health."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios, singular protector en la enfermedad humana,"
+       ],
+       [
+        "muestra el poder de tu auxilio con tus siervos enfermos,"
+       ],
+       [
+        "para que, aliviados con el auxilio de tu misericordia,"
+       ],
+       [
+        "merezcan presentarse sanos en tu santa Iglesia."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, rifugio sicuro dei sofferenti, manifesta la potenza del tuo soccorso sui tuoi fedeli infermi perché, con l'aiuto della tua misericordia, possano rallegrarsi nella santa Chiesa per la salute ritrovata. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "vrai rempart de la faiblesse humaine,"
+       ],
+       [
+        "manifeste à nos malades"
+       ],
+       [
+        "la force de ton secours,"
+       ],
+       [
+        "afin que, soutenus par ta miséricorde,"
+       ],
+       [
+        "ils puissent revenir, guéris,"
+       ],
+       [
+        "au milieu de ton assemblée sainte."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, du allein bist unsere sichere Zuflucht in den Tagen der Krankheit. Wir flehen dich an um dein Erbarmen: Erweise deine Macht an unseren kranken Brüdern ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "und Schwestern",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        ", damit sie gesund und heil der Kirche wiedergegeben werden und dir zusammen mit uns das Opfer des Lobes darbringen. Darum bitten wir durch Christus, unseren Herrn."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder (für unheilbar Kranke): "
+        }
+       ],
+       [
+        "Gott, du alleinbist unsere sichere Zuflucht in den Tagen der Krankheit. Hilf unseren kranken Brüdern und Schwestern durch dieses Sakrament, damit sie die Hoffnung bewahren und den Glauben an deine Liebe nicht verlieren. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "la": "III. AD DIVERSA",
+  "pt-BR": "III. EM DIVERSAS NECESSIDADES",
+  "en-US": "III. FOR VARIOUS OCCASIONS",
+  "es": "III. EN DIVERSAS NECESIDADES",
+  "it": "IN DIVERSE NECESSITÀ",
+  "fr": "III. POUR DIVERSES CIRCONSTANCES",
+  "de": "III. IN BESONDEREN ANLIEGEN"
+ },
+ "subtitle": {
+  "la": "45. PRO INFIRMIS",
+  "pt-BR": "45. PELOS ENFERMOS",
+  "en-US": "45. FOR THE SICK",
+  "es": "45. POR LOS ENFERMOS",
+  "it": "45. PER GLI INFERMI",
+  "fr": "45. POUR LES MALADES OU LES INFIRMES",
+  "de": "45. FÜR KRANKE"
+ }
+}

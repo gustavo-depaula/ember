@@ -1,1 +1,303 @@
-{"id":"sanctorale.04-13.spain","source":"santos/santos_abr#0413Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["13 de abril"],["San Hermenegildo, mártir"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["San Hermenegildo es el gran defensor de la fe católica de España contra los durísimos ataques de la herejía arriana. Al margen de sus campañas militares, su verdadera gloria consiste en haber padecido el martirio por negarse a recibir la comunión arriana y en ser, de hecho, el primer pilar de la unidad religiosa de la nación, que llegaría poco después con la conversión de Recaredo. Muere el año 586."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Oh, Dios,"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["que suscitaste en tu Iglesia a san Hermenegildo, mártir,"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["como\nvaliente defensor de la fe,"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["concede a cuantos veneramos hoy la\nmemoria de su martirio,"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["la unidad en la confesión de tu nombre"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["y\nla perseverancia en tu amor."]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Por nuestro Señor Jesucristo."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"33","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.04-13.spain","prefaces":["preface.54","preface.55"],"commons":["common.martyrs.6","common.martyrs.7"],"title":{"*":"San Hermenegildo, mártir"}}
+{
+ "id": "sanctorale.04-13.spain",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13 de abril"
+       ],
+       [
+        "San Hermenegildo, mártir"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Hermenegildo es el gran defensor de la fe católica de España contra los durísimos ataques de la herejía arriana. Al margen de sus campañas militares, su verdadera gloria consiste en haber padecido el martirio por negarse a recibir la comunión arriana y en ser, de hecho, el primer pilar de la unidad religiosa de la nación, que llegaría poco después con la conversión de Recaredo. Muere el año 586."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "que suscitaste en tu Iglesia a san Hermenegildo, mártir,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "como\nvaliente defensor de la fe,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "concede a cuantos veneramos hoy la\nmemoria de su martirio,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "la unidad en la confesión de tu nombre"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "y\nla perseverancia en tu amor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.04-13.spain",
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "commons": [
+  "common.martyrs.6",
+  "common.martyrs.7"
+ ],
+ "title": {
+  "*": "San Hermenegildo, mártir"
+ }
+}

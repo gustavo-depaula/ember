@@ -1,1 +1,714 @@
-{"id":"sanctorale.04-05","source":"santos/santos_abr#0405","kind":"sanctoral","items":[{"slot":"11","text":{"la":[{"k":"h2","lines":[["Die 5 aprilis"],["S. Vincentii Ferrer, presbyteri"]]},{"k":"p","lines":[["Natus est Valentiæ, in Hispania, anno 1350; inter Fratres Prædicatores adscitus, theologiam docuit. Munus prædicatoris exercens, multas peragravit regiones, fructusque copiosos collegit in vera fide tuenda et in moribus corrigendis. Mortuus est Venetiæ (Vannes) in Gallia, anno 1419."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi pastorum: pro missionariis"}," ",{"m":"link","t":"1","to":"common.pastors.10"},{"m":"link","t":"2","to":"common.pastors.11"},{"m":"link","t":"3","to":"common.pastors.12"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["5 de abril"],["São Vicente Ferrer, presbítero"]]},{"k":"p","lines":[["Vicente (Valença, Espanha, 1350 - Vannes, França, 5 de abril de 1419), religioso, dominicano, mestre de teologia, por sua pregação popular e missionária, acompanhada de numerosos prodígios, atraiu multidões enormes à meditação das verdades eternas e à renovação da vida cristã. Especialmente Espanha, França e Itália do Norte se beneficiaram com o seu apostolado."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Pastores: para missionários"}," ",{"m":"link","t":"1","to":"common.pastors.10"},{"m":"link","t":"2","to":"common.pastors.11"},{"m":"link","t":"3","to":"common.pastors.12"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["April 5"],["Saint Vincent Ferrer, priest"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Pastors: For Missionaries"}," ",{"m":"link","t":"1","to":"common.pastors.10"},{"m":"link","t":"2","to":"common.pastors.11"},{"m":"link","t":"3","to":"common.pastors.12"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["5 de abril"],["San Vicente Ferrer, presbítero"]]},{"k":"p","lines":[["Nació en Valencia el año 1350. Miembro de la Orden de Predicadores, enseñó teología. Como predicador recorrió muchas comarcas con gran fruto, tanto en la defensa de la verdadera fe como en la reforma de las costumbres. Murió en Vannes (Francia), el año 1419."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de pastores: misioneros"}," ",{"m":"link","t":"6","to":"common.pastors.10"},{"m":"link","t":"11","to":"common.pastors.7"},{"m":"link","t":"12","to":"common.pastors.12"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["5 aprile"],["SAN VINCENZO FERRER, presbitero"]]},{"k":"p","lines":[["Vincenzo (València, Spagna, 1350 - Vannes, Francia, 5 aprile 1419), domenicano, dopo essere stato guarito da una grave malattia, si dedicò con fervore alla predicazione del Vangelo. In una Chiesa disorientata dalla contrapposizione interna al papato, tra Roma e Avignone, i suoi pressanti inviti alla conversione attirarono le folle, soprattutto in Spagna, Francia e Italia settentrionale."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei pastori: per i missionari"}," ",{"m":"link","t":"1","to":"common.pastors.10"},{"m":"link","t":"2","to":"common.pastors.11"},{"m":"link","t":"3","to":"common.pastors.12"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["5 avril"],["Saint Vincent Ferrier, prêtre"]]},{"k":"p","lines":[["En vrai fils de saint Dominique, Vincent Ferrier fut avant tout un prêcheur. De Valence (Espagne) où il naquit (1350) à Vannes où il mourut (1419), il chemina sans cesse à travers la France, l'Italie, la Suisse, exhortant les foules à la conversion, dans l'attente du retour du Christ que semblaient annoncer les calamités de son temps, la guerre et le schisme."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun des Pasteurs: missionnaire"}," ",{"m":"link","t":"1","to":"common.pastors.10"},{"m":"link","t":"2","to":"common.pastors.11"},{"m":"link","t":"3","to":"common.pastors.12"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["5. April"],["Hl. Vinzenz Ferrer, Ordenspriester, Bußprediger"]]},{"k":"p","lines":[["Der heilige Vinzenz wurde in Valencia im Jahr 1350 geboren. Als Mitglied des Predigerordens lehrte er Theologie und durchwanderte als Glaubensbote viele Teile des Landes. Seine Predigten trugen Früchte und er wirkte aktiv in der Verteidigung des wahren Glaubens sowie der Reform einiger Gewohnheiten mit. 1419 starb er in Vannes (Frankreich)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Glaubensboten:"}," ",{"m":"link","t":"1","to":"common.pastors.10"},{"m":"link","t":"2","to":"common.pastors.11"},{"m":"link","t":"3","to":"common.pastors.12"},{"m":"rubric","t":"."}]]}]},"part":"title"},{"slot":"12","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"13","text":{"la":[{"k":"p","lines":[["Deus, qui beátum Vincéntium presbýterum"],["minístrum prædicatiónis evangélicæ suscitásti,"],["præsta, quǽsumus, ut, quem ventúrum iúdicem nuntiávit in terris,"],["beáti videámus regnántem in cælis."],["Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que suscitastes na Igreja"],["o presbítero São Vicente Ferrer,"],["ministro da pregação do Evangelho,"],["concedei-nos a alegria de contemplar, reinando no céu,"],["aquele cuja vinda, como juiz, foi por ele anunciada na terra."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who raised up the Priest Saint Vincent Ferrer to minister by the preaching of the Gospel,"],["grant, we pray,"],["that, when the Judge comes,"],["whom Saint Vincent proclaimed on earth,"],["we may be among those blessed"],["to behold him reigning in heaven."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que hiciste al presbítero san Vicente Ferrer"],["ministro de la predicación evangélica,"],["concédenos el gozo de contemplar en el cielo"],["a quien él anunció en la tierra"],["como el juez que ha de venir."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, tu hai suscitato nella Chiesa il presbitero san Vincenzo [Ferrer], infaticabile predicatore del Vangelo, che annunciò la venuta sulla terra di Cristo giudice: concedi a noi di contemplare il tuo Figlio nella beatitudine dei cieli. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as appelé le prêtre saint Vincent Ferrier"],["comme prédicateur de l'Évangile ;"],["donne-nous le bonheur de voir un jour"],["dans le royaume des Cieux"],["celui dont il annonçait ici-bas"],["la venue comme juge,"],["le Christ Jésus, notre Seigneur."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast deiner Kirche im heiligen Vinzenz Ferrer einen machtvollen Prediger geschenkt, der Jesus Christus als den kommenden Richter verkündet hat. Gib, dass wir deinem Sohn freudig entgegengehen und ihn als unseren König schauen, wenn er in Herrlichkeit wiederkommt, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"14","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.04-05","prefaces":["preface.56"],"commons":["common.pastors.10","common.pastors.11","common.pastors.12","common.pastors.7"],"title":{"la":"S. Vincentii Ferrer, presbyteri","pt-BR":"São Vicente Ferrer, presbítero","en-US":"Saint Vincent Ferrer, priest","es":"San Vicente Ferrer, presbítero","it":"SAN VINCENZO FERRER, presbitero","fr":"Saint Vincent Ferrier, prêtre","de":"Hl. Vinzenz Ferrer, Ordenspriester, Bußprediger"}}
+{
+ "id": "sanctorale.04-05",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 5 aprilis"
+       ],
+       [
+        "S. Vincentii Ferrer, presbyteri"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Natus est Valentiæ, in Hispania, anno 1350; inter Fratres Prædicatores adscitus, theologiam docuit. Munus prædicatoris exercens, multas peragravit regiones, fructusque copiosos collegit in vera fide tuenda et in moribus corrigendis. Mortuus est Venetiæ (Vannes) in Gallia, anno 1419."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi pastorum: pro missionariis"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.11"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.pastors.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "5 de abril"
+       ],
+       [
+        "São Vicente Ferrer, presbítero"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vicente (Valença, Espanha, 1350 - Vannes, França, 5 de abril de 1419), religioso, dominicano, mestre de teologia, por sua pregação popular e missionária, acompanhada de numerosos prodígios, atraiu multidões enormes à meditação das verdades eternas e à renovação da vida cristã. Especialmente Espanha, França e Itália do Norte se beneficiaram com o seu apostolado."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Pastores: para missionários"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.11"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.pastors.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "April 5"
+       ],
+       [
+        "Saint Vincent Ferrer, priest"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Pastors: For Missionaries"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.11"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.pastors.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "5 de abril"
+       ],
+       [
+        "San Vicente Ferrer, presbítero"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nació en Valencia el año 1350. Miembro de la Orden de Predicadores, enseñó teología. Como predicador recorrió muchas comarcas con gran fruto, tanto en la defensa de la verdadera fe como en la reforma de las costumbres. Murió en Vannes (Francia), el año 1419."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de pastores: misioneros"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "6",
+         "to": "common.pastors.10"
+        },
+        {
+         "m": "link",
+         "t": "11",
+         "to": "common.pastors.7"
+        },
+        {
+         "m": "link",
+         "t": "12",
+         "to": "common.pastors.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "5 aprile"
+       ],
+       [
+        "SAN VINCENZO FERRER, presbitero"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vincenzo (València, Spagna, 1350 - Vannes, Francia, 5 aprile 1419), domenicano, dopo essere stato guarito da una grave malattia, si dedicò con fervore alla predicazione del Vangelo. In una Chiesa disorientata dalla contrapposizione interna al papato, tra Roma e Avignone, i suoi pressanti inviti alla conversione attirarono le folle, soprattutto in Spagna, Francia e Italia settentrionale."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei pastori: per i missionari"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.11"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.pastors.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "5 avril"
+       ],
+       [
+        "Saint Vincent Ferrier, prêtre"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En vrai fils de saint Dominique, Vincent Ferrier fut avant tout un prêcheur. De Valence (Espagne) où il naquit (1350) à Vannes où il mourut (1419), il chemina sans cesse à travers la France, l'Italie, la Suisse, exhortant les foules à la conversion, dans l'attente du retour du Christ que semblaient annoncer les calamités de son temps, la guerre et le schisme."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun des Pasteurs: missionnaire"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.11"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.pastors.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "5. April"
+       ],
+       [
+        "Hl. Vinzenz Ferrer, Ordenspriester, Bußprediger"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der heilige Vinzenz wurde in Valencia im Jahr 1350 geboren. Als Mitglied des Predigerordens lehrte er Theologie und durchwanderte als Glaubensbote viele Teile des Landes. Seine Predigten trugen Früchte und er wirkte aktiv in der Verteidigung des wahren Glaubens sowie der Reform einiger Gewohnheiten mit. 1419 starb er in Vannes (Frankreich)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Glaubensboten:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.11"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.pastors.12"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui beátum Vincéntium presbýterum"
+       ],
+       [
+        "minístrum prædicatiónis evangélicæ suscitásti,"
+       ],
+       [
+        "præsta, quǽsumus, ut, quem ventúrum iúdicem nuntiávit in terris,"
+       ],
+       [
+        "beáti videámus regnántem in cælis."
+       ],
+       [
+        "Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que suscitastes na Igreja"
+       ],
+       [
+        "o presbítero São Vicente Ferrer,"
+       ],
+       [
+        "ministro da pregação do Evangelho,"
+       ],
+       [
+        "concedei-nos a alegria de contemplar, reinando no céu,"
+       ],
+       [
+        "aquele cuja vinda, como juiz, foi por ele anunciada na terra."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who raised up the Priest Saint Vincent Ferrer to minister by the preaching of the Gospel,"
+       ],
+       [
+        "grant, we pray,"
+       ],
+       [
+        "that, when the Judge comes,"
+       ],
+       [
+        "whom Saint Vincent proclaimed on earth,"
+       ],
+       [
+        "we may be among those blessed"
+       ],
+       [
+        "to behold him reigning in heaven."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que hiciste al presbítero san Vicente Ferrer"
+       ],
+       [
+        "ministro de la predicación evangélica,"
+       ],
+       [
+        "concédenos el gozo de contemplar en el cielo"
+       ],
+       [
+        "a quien él anunció en la tierra"
+       ],
+       [
+        "como el juez que ha de venir."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, tu hai suscitato nella Chiesa il presbitero san Vincenzo [Ferrer], infaticabile predicatore del Vangelo, che annunciò la venuta sulla terra di Cristo giudice: concedi a noi di contemplare il tuo Figlio nella beatitudine dei cieli. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as appelé le prêtre saint Vincent Ferrier"
+       ],
+       [
+        "comme prédicateur de l'Évangile ;"
+       ],
+       [
+        "donne-nous le bonheur de voir un jour"
+       ],
+       [
+        "dans le royaume des Cieux"
+       ],
+       [
+        "celui dont il annonçait ici-bas"
+       ],
+       [
+        "la venue comme juge,"
+       ],
+       [
+        "le Christ Jésus, notre Seigneur."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast deiner Kirche im heiligen Vinzenz Ferrer einen machtvollen Prediger geschenkt, der Jesus Christus als den kommenden Richter verkündet hat. Gib, dass wir deinem Sohn freudig entgegengehen und ihn als unseren König schauen, wenn er in Herrlichkeit wiederkommt, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.04-05",
+ "prefaces": [
+  "preface.56"
+ ],
+ "commons": [
+  "common.pastors.10",
+  "common.pastors.11",
+  "common.pastors.12",
+  "common.pastors.7"
+ ],
+ "title": {
+  "la": "S. Vincentii Ferrer, presbyteri",
+  "pt-BR": "São Vicente Ferrer, presbítero",
+  "en-US": "Saint Vincent Ferrer, priest",
+  "es": "San Vicente Ferrer, presbítero",
+  "it": "SAN VINCENZO FERRER, presbitero",
+  "fr": "Saint Vincent Ferrier, prêtre",
+  "de": "Hl. Vinzenz Ferrer, Ordenspriester, Bußprediger"
+ }
+}

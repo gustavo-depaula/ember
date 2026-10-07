@@ -1,1 +1,1425 @@
-{"id":"tempore.easter.week-6.saturday","source":"tiempos/tiempos_pascua#P066","kind":"tempore","items":[{"slot":"561","text":{"la":[{"k":"h2","lines":[["Tempus Paschale"],["Hebdomada VI"],["Sabbato"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo Pascal"],["Sexta semana"],["Sábado"]]}],"en-US":[{"k":"h2","lines":[["Easter Season"],["Sixth Week"],["Saturday"]]}],"es":[{"k":"h2","lines":[["Tiempo Pascual"],["VI Semana"],["Sábado"]]}],"it":[{"k":"h2","lines":[["Tempo Pasquale"],["VI Settimana"],["Sabato"]]}],"fr":[{"k":"h2","lines":[["Temps pascal"],["SAMEDI DE LA 6e SEMAINE"]]}],"de":[{"k":"h2","lines":[["Osterzeit"],["SAMSTAG"],["der sechsten Osterwoche"]]}]},"part":"title"},{"slot":"562","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. 1 Petr 2, 9"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. 1 Pd 2, 9"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. 1 Pt 2: 9"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. 1 Petr 2, 9"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"1 Pt 2, 9"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. 1 Petr 2, 9"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. 1 Petr 2, 9"}]},"part":"entranceAntiphon"},{"slot":"563","text":{"la":[{"k":"p","lines":[["Pópulus acquisitiónis, annuntiáte virtútes eius,"],["qui vos de ténebris vocávit in admirábile lumen suum, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Povo adquirido por Deus,"],["anunciai os grandes feitos"],["daquele que vos chamou das trevas"],["à sua luz maravilhosa, aleluia."]]}],"en-US":[{"k":"p","lines":[["O chosen people, proclaim the mighty works of him"],["who called you out of darkness into his wonderful light, alleluia."]]}],"es":[{"k":"p","lines":[["Pueblo adquirido por Dios, anunciad las proezas del que os llamó de las tinieblas a su luz maravillosa. Aleluya."]]}],"it":[{"k":"p","lines":[["Voi, popolo che Dio si è acquistato, proclamate le sue opere meravigliose: dalle tenebre vi ha chiamati alla sua ammirabile luce. Alleluia."]]}],"fr":[{"k":"p","lines":[["Peuple racheté par Dieu,"],["vous tous, annoncez les merveilles"],["de celui qui vous a appelés des ténèbres"],["à son admirable lumière, alléluia."]]}],"de":[{"k":"p","lines":[["Volk Gottes, verkünde die großen Taten des Herrn. Er hat uns aus der Finsternis herausgeführt in sein wunderbares Licht. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"564","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"565","text":{"la":[{"k":"p","lines":[["Deus, cuius Fílius ad cælos ascéndens"],["Apóstolis Sanctum Spíritum dignátus est pollicéri,"],["præsta, quǽsumus,"],["ut, sicut illi multifária doctrínæ cæléstis múnera percepérunt,"],["ita nobis quoque spiritália dona concédas."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, vosso Filho, antes de subir ao céu,"],["se dignou prometer aos Apóstolos o Espírito Santo."],["Nós vos pedimos, assim como lhes concedestes"],["inumeráveis riquezas da sabedoria divina,"],["derramai também sobre nós os dons do mesmo Espírito."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, whose Son, at his Ascension to the heavens,"],["was pleased to promise the Holy Spirit to the Apostles,"],["grant, we pray,"],["that, just as they received manifold gifts of heavenly teaching, so on us, too, you may bestow spiritual gifts."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["tu Hijo, al subir a los cielos,"],["prometió el Espíritu Santo a los apóstoles;"],["te pedimos que, así como ellos recibieron"],["los incontables dones de la sabiduría del cielo,"],["nos concedas también a nosotros"],["las mismas gracias espirituales."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Signore, disponi sempre al bene i nostri cuori, perché, nel continuo desiderio di elevarci a te, possiamo vivere pienamente il mistero pasquale. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["en montant au ciel,"],["ton Fils a promis l'Esprit Saint aux Apôtres ;"],["nous t'en prions :"],["de même qu'ils reçurent des grâces multiples"],["leur apprenant les réalités d'en haut,"],["répands maintenant sur nous"],["les dons de l'Esprit."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, dein Sohn hat vor seiner Himmelfahrt seinen Aposteln den Heiligen Geist verheißen. Sie haben den Reichtum der göttlichen Weisheit empfangen; schenke auch uns die Gaben deines Geistes. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"566","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"In regionibus ubi sollemnitas Ascensionis fit dominica sequenti ad Missam matutinam dicitur:"}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Nas regiões onde a Solenidade da Ascensão se celebra no domingo seguinte, diz-se na Missa matutina:"}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"In regions where the Solemnity of the Ascension is celebrated on the following Sunday:"}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Donde la solemnidad de la Ascensión se celebra el domingo siguiente, en la Misa matutina se dice:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Dove la solennità dell'Ascensione è celebrata il giovedì, si dice la colletta seguente:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"ou bien, dans les pays où l'Ascension est célébrée le dimanche ::"}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Wo Christi Himmelfahrt am darauffolgenden Sonntag gefeiert wird, lautet das Tagesgebet am Samstagmorgen:"}]]}]},"part":"collect","role":"rubric"},{"slot":"567","text":{"la":[{"k":"p","lines":[["Mentes nostras, quǽsumus, Dómine,"],["bonis opéribus semper infórma,"],["ut, ad melióra iúgiter contendéntes,"],["paschále mystérium studeámus habére perpétuum."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Nós vos pedimos, Senhor:"],["inspirai nossos corações à prática de boas obras,"],["para que, buscando sempre o que é melhor,"],["vivamos constantemente o mistério pascal."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Constantly shape our minds, we pray, O Lord,"],["by the practice of good works,"],["that, trying always for what is better,"],["we may strive to hold ever fast to the Paschal Mystery. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Instruye siempre, Señor, nuestros corazones con las buenas obras,"],["para que, orientándonos hacia lo mejor,"],["aspiremos a disfrutar plenamente el Misterio pascual."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Padre, il tuo Figlio unigenito, prima di salire al cielo, ha promesso ai suoi apostoli lo Spirito Santo: tu, che hai dato loro la multiforme ricchezza della Sapienza eterna, concedi anche a noi di ricevere i doni del tuo Spirito. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli"]]}],"fr":[{"k":"p","lines":[["Forme toujours nos esprits, Seigneur,"],["par la pratique des œuvres bonnes ;"],["fais-nous rechercher inlassablement ce qui est le meilleur"],["et vivre en permanence du mystère pascal."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, unser Heil, du hast uns im österlichen Geheimnis die Quelle der Gnade erschlossen. Hilf uns, im Guten voranzuschreiten, damit wir immer aus der Ostergnade leben. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"568","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"569","text":{"la":[{"k":"p","lines":[["Propítius, Dómine, quǽsumus, hæc dona sanctífica,"],["et, hóstiæ spiritális oblatióne suscépta,"],["nosmetípsos tibi pérfice munus ætérnum. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, nós vos pedimos,"],["santificai com benevolência estes dons"],["e, aceitando a oblação do sacrifício espiritual,"],["fazei de nós uma eterna oferenda para vós."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Graciously sanctify these gifts, O Lord, we pray, and, accepting the oblation of this spiritual sacrifice, make of us an eternal offering to you."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te pedimos, Señor,"],["que, en tu bondad, santifiques estos dones,"],["aceptes la ofrenda de este sacrificio espiritual"],["y nos transformes en oblación perenne."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Santifica, o Signore, i doni che ti presentiamo e, accogliendo questo sacrificio spirituale, trasforma anche noi in offerta perenne a te gradita. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dans ta bonté, sanctifie ces dons,"],["nous t'en prions, Seigneur ;"],["accepte le sacrifice spirituel que nous t'offrons,"],["et fais de nous-mêmes"],["une éternelle offrande pour toi."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, heilige diese Gaben. Nimm das Opfer an, das dir im Heiligen Geist dargebracht wird, und mache uns selbst zu einer Gabe, die für immer dir gehört. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"571","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 17, 24"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Jo 17, 24"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 17: 24"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Io 17, 24"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gv 17, 24"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 17, 24"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 17, 24"}]},"part":"communionAntiphon"},{"slot":"572","text":{"la":[{"k":"p","lines":[["Pater, quos dedísti mihi, volo ut ubi sum ego, et illi sint mecum,"],["ut vídeant claritátem quam dedísti mihi, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Pai, aqueles que me destes"],["estejam comigo, onde eu estou,"],["para que contemplem a minha glória,"],["a glória que me destes, aleluia."]]}],"en-US":[{"k":"p","lines":[["Father, I wish that, where I am,"],["those you gave me may also be with me,"],["that they may see the glory that you gave me, alleluia."]]}],"es":[{"k":"p","lines":[["Padre, este es mi deseo: que los que me has dado estén conmigo donde yo estoy y contemplen mi gloria, la que me diste. Aleluya."]]}],"it":[{"k":"p","lines":[["Padre, quelli che mi hai dato siano anch'essi con me dove sono io, perché contemplino la gloria che mi hai dato. Alleluia."],[{"m":"rubric","t":"Oppure:"}],["Il Padre stesso vi ama, perché voi avete amato me e avete creduto che io sono venuto da Dio. Alleluia."]],"cite":"Gv 16, 27"}],"fr":[{"k":"p","lines":[["Père, ceux que tu m'as donnés,"],["je veux que là où je suis,"],["ils soient eux aussi avec moi,"],["et qu'ils contemplent ma gloire,"],["celle que tu m'as donnée, alléluia."]]}],"de":[{"k":"p","lines":[["Vater, ich will, dass alle, die du mir gegeben hast, dort bei mir sind, wo ich bin; sie sollen meine Herrlichkeit schauen, die du mir gegeben hast. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"573","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"574","text":{"la":[{"k":"p","lines":[["Súmpsimus, Dómine, sacri dona mystérii,"],["humíliter deprecántes, ut, quæ in sui commemoratiónem"],["nos Fílius tuus fácere præcépit,"],["in nostræ profíciant caritátis augméntum."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor,"],["alimentados com os dons deste sagrado mistério,"],["humildemente vos pedimos:"],["a Eucaristia que vosso Filho"],["nos mandou celebrar em sua memória"],["nos faça crescer no amor."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["We have partaken of the gifts of this sacred mystery, humbly imploring, O Lord,"],["that what your Son commanded us to do in memory of him may bring us growth in charity."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, después de recibir el don sagrado del sacramento,"],["te pedimos humildemente que nos haga crecer en el amor"],["lo que tu Hijo nos mandó realizar en memoria suya."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["O Padre, che ci hai nutriti con questo sacramento, ascolta la nostra umile preghiera: il memoriale della Pasqua, che Cristo tuo Figlio ci ha comandato di celebrare, ci edifichi sempre nel vincolo della tua carità. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur, nous avons reçu"],["les dons qui nous ont fait participer aux saints mystères,"],["et nous te prions humblement :"],["ton Fils nous a demandé de les célébrer en mémoire de lui,"],["qu'ils augmentent en nous la charité."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, wir haben den Auftrag deines Sohnes erfüllt und sein Gedächtnis begangen. Die heilige Gabe, die wir in dieser Feier empfangen haben, helfe uns, dass wir in der Liebe zu dir und unseren Brüdern Christus nachfolgen, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"postcommunion"}],"precedence":13,"prefaces":["preface.16","preface.17","preface.18","preface.19","preface.20","preface.21","preface.22","preface.23"],"title":{"la":"Tempus Paschale — Hebdomada VI — Sabbato","pt-BR":"Tempo Pascal — Sexta semana — Sábado","en-US":"Easter Season — Sixth Week — Saturday","es":"Tiempo Pascual — VI Semana — Sábado","it":"Tempo Pasquale — VI Settimana — Sabato","fr":"Temps pascal — SAMEDI DE LA 6e SEMAINE","de":"Osterzeit — SAMSTAG — der sechsten Osterwoche"}}
+{
+ "id": "tempore.easter.week-6.saturday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Paschale"
+       ],
+       [
+        "Hebdomada VI"
+       ],
+       [
+        "Sabbato"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pascal"
+       ],
+       [
+        "Sexta semana"
+       ],
+       [
+        "Sábado"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Easter Season"
+       ],
+       [
+        "Sixth Week"
+       ],
+       [
+        "Saturday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo Pascual"
+       ],
+       [
+        "VI Semana"
+       ],
+       [
+        "Sábado"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pasquale"
+       ],
+       [
+        "VI Settimana"
+       ],
+       [
+        "Sabato"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps pascal"
+       ],
+       [
+        "SAMEDI DE LA 6e SEMAINE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Osterzeit"
+       ],
+       [
+        "SAMSTAG"
+       ],
+       [
+        "der sechsten Osterwoche"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. 1 Petr 2, 9"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. 1 Pd 2, 9"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. 1 Pt 2: 9"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. 1 Petr 2, 9"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "1 Pt 2, 9"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. 1 Petr 2, 9"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. 1 Petr 2, 9"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pópulus acquisitiónis, annuntiáte virtútes eius,"
+       ],
+       [
+        "qui vos de ténebris vocávit in admirábile lumen suum, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Povo adquirido por Deus,"
+       ],
+       [
+        "anunciai os grandes feitos"
+       ],
+       [
+        "daquele que vos chamou das trevas"
+       ],
+       [
+        "à sua luz maravilhosa, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O chosen people, proclaim the mighty works of him"
+       ],
+       [
+        "who called you out of darkness into his wonderful light, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pueblo adquirido por Dios, anunciad las proezas del que os llamó de las tinieblas a su luz maravillosa. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voi, popolo che Dio si è acquistato, proclamate le sue opere meravigliose: dalle tenebre vi ha chiamati alla sua ammirabile luce. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Peuple racheté par Dieu,"
+       ],
+       [
+        "vous tous, annoncez les merveilles"
+       ],
+       [
+        "de celui qui vous a appelés des ténèbres"
+       ],
+       [
+        "à son admirable lumière, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Volk Gottes, verkünde die großen Taten des Herrn. Er hat uns aus der Finsternis herausgeführt in sein wunderbares Licht. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, cuius Fílius ad cælos ascéndens"
+       ],
+       [
+        "Apóstolis Sanctum Spíritum dignátus est pollicéri,"
+       ],
+       [
+        "præsta, quǽsumus,"
+       ],
+       [
+        "ut, sicut illi multifária doctrínæ cæléstis múnera percepérunt,"
+       ],
+       [
+        "ita nobis quoque spiritália dona concédas."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, vosso Filho, antes de subir ao céu,"
+       ],
+       [
+        "se dignou prometer aos Apóstolos o Espírito Santo."
+       ],
+       [
+        "Nós vos pedimos, assim como lhes concedestes"
+       ],
+       [
+        "inumeráveis riquezas da sabedoria divina,"
+       ],
+       [
+        "derramai também sobre nós os dons do mesmo Espírito."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, whose Son, at his Ascension to the heavens,"
+       ],
+       [
+        "was pleased to promise the Holy Spirit to the Apostles,"
+       ],
+       [
+        "grant, we pray,"
+       ],
+       [
+        "that, just as they received manifold gifts of heavenly teaching, so on us, too, you may bestow spiritual gifts."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "tu Hijo, al subir a los cielos,"
+       ],
+       [
+        "prometió el Espíritu Santo a los apóstoles;"
+       ],
+       [
+        "te pedimos que, así como ellos recibieron"
+       ],
+       [
+        "los incontables dones de la sabiduría del cielo,"
+       ],
+       [
+        "nos concedas también a nosotros"
+       ],
+       [
+        "las mismas gracias espirituales."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, disponi sempre al bene i nostri cuori, perché, nel continuo desiderio di elevarci a te, possiamo vivere pienamente il mistero pasquale. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "en montant au ciel,"
+       ],
+       [
+        "ton Fils a promis l'Esprit Saint aux Apôtres ;"
+       ],
+       [
+        "nous t'en prions :"
+       ],
+       [
+        "de même qu'ils reçurent des grâces multiples"
+       ],
+       [
+        "leur apprenant les réalités d'en haut,"
+       ],
+       [
+        "répands maintenant sur nous"
+       ],
+       [
+        "les dons de l'Esprit."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, dein Sohn hat vor seiner Himmelfahrt seinen Aposteln den Heiligen Geist verheißen. Sie haben den Reichtum der göttlichen Weisheit empfangen; schenke auch uns die Gaben deines Geistes. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In regionibus ubi sollemnitas Ascensionis fit dominica sequenti ad Missam matutinam dicitur:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Nas regiões onde a Solenidade da Ascensão se celebra no domingo seguinte, diz-se na Missa matutina:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In regions where the Solemnity of the Ascension is celebrated on the following Sunday:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Donde la solemnidad de la Ascensión se celebra el domingo siguiente, en la Misa matutina se dice:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dove la solennità dell'Ascensione è celebrata il giovedì, si dice la colletta seguente:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "ou bien, dans les pays où l'Ascension est célébrée le dimanche ::"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Wo Christi Himmelfahrt am darauffolgenden Sonntag gefeiert wird, lautet das Tagesgebet am Samstagmorgen:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mentes nostras, quǽsumus, Dómine,"
+       ],
+       [
+        "bonis opéribus semper infórma,"
+       ],
+       [
+        "ut, ad melióra iúgiter contendéntes,"
+       ],
+       [
+        "paschále mystérium studeámus habére perpétuum."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nós vos pedimos, Senhor:"
+       ],
+       [
+        "inspirai nossos corações à prática de boas obras,"
+       ],
+       [
+        "para que, buscando sempre o que é melhor,"
+       ],
+       [
+        "vivamos constantemente o mistério pascal."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Constantly shape our minds, we pray, O Lord,"
+       ],
+       [
+        "by the practice of good works,"
+       ],
+       [
+        "that, trying always for what is better,"
+       ],
+       [
+        "we may strive to hold ever fast to the Paschal Mystery. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Instruye siempre, Señor, nuestros corazones con las buenas obras,"
+       ],
+       [
+        "para que, orientándonos hacia lo mejor,"
+       ],
+       [
+        "aspiremos a disfrutar plenamente el Misterio pascual."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, il tuo Figlio unigenito, prima di salire al cielo, ha promesso ai suoi apostoli lo Spirito Santo: tu, che hai dato loro la multiforme ricchezza della Sapienza eterna, concedi anche a noi di ricevere i doni del tuo Spirito. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Forme toujours nos esprits, Seigneur,"
+       ],
+       [
+        "par la pratique des œuvres bonnes ;"
+       ],
+       [
+        "fais-nous rechercher inlassablement ce qui est le meilleur"
+       ],
+       [
+        "et vivre en permanence du mystère pascal."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Heil, du hast uns im österlichen Geheimnis die Quelle der Gnade erschlossen. Hilf uns, im Guten voranzuschreiten, damit wir immer aus der Ostergnade leben. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Propítius, Dómine, quǽsumus, hæc dona sanctífica,"
+       ],
+       [
+        "et, hóstiæ spiritális oblatióne suscépta,"
+       ],
+       [
+        "nosmetípsos tibi pérfice munus ætérnum. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, nós vos pedimos,"
+       ],
+       [
+        "santificai com benevolência estes dons"
+       ],
+       [
+        "e, aceitando a oblação do sacrifício espiritual,"
+       ],
+       [
+        "fazei de nós uma eterna oferenda para vós."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Graciously sanctify these gifts, O Lord, we pray, and, accepting the oblation of this spiritual sacrifice, make of us an eternal offering to you."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Señor,"
+       ],
+       [
+        "que, en tu bondad, santifiques estos dones,"
+       ],
+       [
+        "aceptes la ofrenda de este sacrificio espiritual"
+       ],
+       [
+        "y nos transformes en oblación perenne."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santifica, o Signore, i doni che ti presentiamo e, accogliendo questo sacrificio spirituale, trasforma anche noi in offerta perenne a te gradita. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans ta bonté, sanctifie ces dons,"
+       ],
+       [
+        "nous t'en prions, Seigneur ;"
+       ],
+       [
+        "accepte le sacrifice spirituel que nous t'offrons,"
+       ],
+       [
+        "et fais de nous-mêmes"
+       ],
+       [
+        "une éternelle offrande pour toi."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, heilige diese Gaben. Nimm das Opfer an, das dir im Heiligen Geist dargebracht wird, und mache uns selbst zu einer Gabe, die für immer dir gehört. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 17, 24"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Jo 17, 24"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 17: 24"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Io 17, 24"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gv 17, 24"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 17, 24"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 17, 24"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pater, quos dedísti mihi, volo ut ubi sum ego, et illi sint mecum,"
+       ],
+       [
+        "ut vídeant claritátem quam dedísti mihi, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pai, aqueles que me destes"
+       ],
+       [
+        "estejam comigo, onde eu estou,"
+       ],
+       [
+        "para que contemplem a minha glória,"
+       ],
+       [
+        "a glória que me destes, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father, I wish that, where I am,"
+       ],
+       [
+        "those you gave me may also be with me,"
+       ],
+       [
+        "that they may see the glory that you gave me, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre, este es mi deseo: que los que me has dado estén conmigo donde yo estoy y contemplen mi gloria, la que me diste. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre, quelli che mi hai dato siano anch'essi con me dove sono io, perché contemplino la gloria che mi hai dato. Alleluia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Il Padre stesso vi ama, perché voi avete amato me e avete creduto che io sono venuto da Dio. Alleluia."
+       ]
+      ],
+      "cite": "Gv 16, 27"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Père, ceux que tu m'as donnés,"
+       ],
+       [
+        "je veux que là où je suis,"
+       ],
+       [
+        "ils soient eux aussi avec moi,"
+       ],
+       [
+        "et qu'ils contemplent ma gloire,"
+       ],
+       [
+        "celle que tu m'as donnée, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vater, ich will, dass alle, die du mir gegeben hast, dort bei mir sind, wo ich bin; sie sollen meine Herrlichkeit schauen, die du mir gegeben hast. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súmpsimus, Dómine, sacri dona mystérii,"
+       ],
+       [
+        "humíliter deprecántes, ut, quæ in sui commemoratiónem"
+       ],
+       [
+        "nos Fílius tuus fácere præcépit,"
+       ],
+       [
+        "in nostræ profíciant caritátis augméntum."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor,"
+       ],
+       [
+        "alimentados com os dons deste sagrado mistério,"
+       ],
+       [
+        "humildemente vos pedimos:"
+       ],
+       [
+        "a Eucaristia que vosso Filho"
+       ],
+       [
+        "nos mandou celebrar em sua memória"
+       ],
+       [
+        "nos faça crescer no amor."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We have partaken of the gifts of this sacred mystery, humbly imploring, O Lord,"
+       ],
+       [
+        "that what your Son commanded us to do in memory of him may bring us growth in charity."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, después de recibir el don sagrado del sacramento,"
+       ],
+       [
+        "te pedimos humildemente que nos haga crecer en el amor"
+       ],
+       [
+        "lo que tu Hijo nos mandó realizar en memoria suya."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che ci hai nutriti con questo sacramento, ascolta la nostra umile preghiera: il memoriale della Pasqua, che Cristo tuo Figlio ci ha comandato di celebrare, ci edifichi sempre nel vincolo della tua carità. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, nous avons reçu"
+       ],
+       [
+        "les dons qui nous ont fait participer aux saints mystères,"
+       ],
+       [
+        "et nous te prions humblement :"
+       ],
+       [
+        "ton Fils nous a demandé de les célébrer en mémoire de lui,"
+       ],
+       [
+        "qu'ils augmentent en nous la charité."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, wir haben den Auftrag deines Sohnes erfüllt und sein Gedächtnis begangen. Die heilige Gabe, die wir in dieser Feier empfangen haben, helfe uns, dass wir in der Liebe zu dir und unseren Brüdern Christus nachfolgen, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 13,
+ "prefaces": [
+  "preface.16",
+  "preface.17",
+  "preface.18",
+  "preface.19",
+  "preface.20",
+  "preface.21",
+  "preface.22",
+  "preface.23"
+ ],
+ "title": {
+  "la": "Tempus Paschale — Hebdomada VI — Sabbato",
+  "pt-BR": "Tempo Pascal — Sexta semana — Sábado",
+  "en-US": "Easter Season — Sixth Week — Saturday",
+  "es": "Tiempo Pascual — VI Semana — Sábado",
+  "it": "Tempo Pasquale — VI Settimana — Sabato",
+  "fr": "Temps pascal — SAMEDI DE LA 6e SEMAINE",
+  "de": "Osterzeit — SAMSTAG — der sechsten Osterwoche"
+ }
+}

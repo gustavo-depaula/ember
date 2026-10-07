@@ -1,1 +1,996 @@
-{"id":"common.blessed-virgin-mary.4","source":"comunes_votivas/comunes_bmv#bmv4","kind":"common","items":[{"slot":"37","text":{"la":[{"k":"h2","lines":[["COMMUNE BEATÆ MARIÆ VIRGINIS"]]},{"k":"h3","lines":[["I. TEMPORE « PER ANNUM »"],["4"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DA BEM-AVENTURADA VIRGEM MARIA"]]},{"k":"h3","lines":[["I. No Tempo \"Comum\""],["4"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF THE BLESSED VIRGIN MARY"]]},{"k":"h3","lines":[["I. In Ordinary Time"],["4"]]}],"es":[{"k":"h2","lines":[["COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"]]},{"k":"h3","lines":[["I. Tiempo ordinario"],["4"]]}],"it":[{"k":"h2","lines":[["COMUNE DELLA BEATA VERGINE MARIA"]]},{"k":"h3","lines":[["I. Nel Tempo Ordinario"],["4"]]}],"fr":[{"k":"h2","lines":[["COMMUN DE LA VIERGE MARIE"]]},{"k":"h3","lines":[["I. Temps Ordinaire"],["4"]]}]},"part":"title"},{"slot":"38","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 44, 13. 15. 16"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 44, 13. 15. 16"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Ps 45 (44): 13, 15, 16"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 44, 13. 15. 16"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Sal 44, 13.15.16"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 44, 13. 15. 16"}]},"part":"entranceAntiphon"},{"slot":"39","text":{"la":[{"k":"p","lines":[["Vultum tuum deprecabúntur omnes dívites plebis: adducéntur Regi vírgines post eam: próximæ eius adducéntur tibi in lætítia et exsultatióne."]]}],"pt-BR":[{"k":"p","lines":[["Os grandes do povo vos pedem favores;"],["virgens amigas vos formam cortejo;"],["entre cantos de festa e com grande alegria,"],["ingressam então no palácio real."]]}],"en-US":[{"k":"p","lines":[["All the richest of the people long to see your face: behind her, her maiden companions are escorted to the King; her attendants are escorted to you amid gladness and joy."]]}],"es":[{"k":"p","lines":[["Los pueblos más ricos buscan tu favor: la llevan ante el rey con séquito de vírgenes, las traen entre alegría y algazara."]]}],"it":[{"k":"p","lines":[["I più ricchi del popolo cercano il tuo favore, vergine Regina; con te le giovani compagne al Re sono condotte in gioia ed esultanza."]]}],"fr":[{"k":"p","lines":[["Les plus riches du peuple quêteront ton visage :"],["des jeunes filles, tes compagnes, te font cortège ;"],["on les conduit parmi les chants de fête :"],["elles entrent au palais du roi."]]}]},"part":"entranceAntiphon"},{"slot":"40","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}]},"part":"collect"},{"slot":"41","text":{"la":[{"k":"p","lines":[["Famulórum tuórum, quǽsumus, Dómine, delícta ignósce, ut, qui tibi placére de áctibus nostris non valémus, Genetrícis Fílii tui Dómini nostri intercessióne salvémur. Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, perdoai os pecados dos vossos servos e servas,"],["e, como não podemos agradar-vos por nossas obras,"],["sejamos salvos pela intercessão"],["da Mãe do vosso Filho, nosso Senhor."],["Ele, que é Deus, e convosco vive e reina,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Pardon the faults of your servants, we pray, O Lord, that we, who cannot please you by our own deeds, may be saved through the intercession of the Mother of your Son and our Lord. Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Perdona, Señor, los pecados de tus siervos"],["y, ya que no podemos complacerte con nuestras obras, concédenos la salvación"],["por intercesión de la Madre de tu Hijo, nuestro Señor."],["Él, que vive y reina contigo."]]}],"it":[{"k":"p","lines":[["Perdona, o Padre, le colpe dei tuoi figli e poiché non possiamo salvarci con le nostre opere, interceda per noi la Madre del tuo Figlio e Signore nostro Gesù Cristo. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur, nous t'en prions,"],["pardonne les péchés de tes serviteurs :"],["puisque nous ne pouvons te plaire par nos propres actes,"],["que l'intercession de la Mère de ton Fils, notre Seigneur,"],["nous obtienne le salut."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}]},"part":"collect"},{"slot":"42","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}]},"part":"prayerOverOfferings"},{"slot":"43","text":{"la":[{"k":"p","lines":[["Súscipe, Dómine, múnera quæ tibi offérimus, et præsta, ut corda nostra, Sancti Spíritus luce irradiáta, exémplo beátæ Vírginis Maríæ, tua semper váleant perquírere et conserváre. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Aceitai, Senhor, os dons que vos apresentamos"],["para que nossos corações, iluminados pela luz do Espírito Santo,"],["a exemplo da Bem-aventurada Virgem Maria,"],["saibam procurar e guardar a vossa vontade."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Accept, O Lord, the offerings we bring you and grant that, enlightened by the Holy Spirit and encouraged by the example of the Blessed Virgin Mary, our hearts may always seek out and treasure the things that are yours."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Acepta, Señor, los dones que te ofrecemos"],["y concédenos que nuestros corazones,"],["estimulados por la luz del Espíritu Santo,"],["a ejemplo de la bienaventurada Virgen María,"],["puedan escrutar y guardar siempre tu palabra."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accetta, o Signore, i doni che ti offriamo e irradia nei nostri cuori la luce del tuo santo Spirito, perché, sull'esempio della beata Vergine Maria, sappiamo meditare e custodire sempre le tue parole. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Accueille, Seigneur, les dons que nous t'offrons ;"],["fais qu'à l'exemple de la bienheureuse Vierge Marie,"],["nos cœurs, irradiés par la lumière du Saint-Esprit,"],["recherchent toujours ce qui vient de toi"],["et le gardent fidèlement."],["Par le Christ, notre Seigneur."]]}]},"part":"prayerOverOfferings"},{"slot":"45","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de comunión"]]}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]]}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]]}]},"part":"communionAntiphon"},{"slot":"46","text":{"la":[{"k":"p","lines":[["Laudáte Dóminum Deum nostrum, quia in María ancílla sua adimplévit misericórdiam suam, quam promísit dómui Israel."]]}],"pt-BR":[{"k":"p","lines":[["Louvai o Senhor, nosso Deus,"],["pois em Maria, sua serva,"],["realizou plenamente a sua misericórdia,"],["conforme prometera à casa de Israel."]]}],"en-US":[{"k":"p","lines":[["Praise the Lord our God, for in Mary his handmaid he has fulfilled his promise of mercy to the house of Israel."]]}],"es":[{"k":"p","lines":[["Alabad al Señor, nuestro Dios, porque en María, esclava suya, manifestó su misericordia, como lo había prometido a la casa de Israel."]]}],"it":[{"k":"p","lines":[["Lodate il Signore Dio nostro, che in Maria, sua serva, ha compiuto la sua misericordia, come aveva promesso alla casa d'Israele."]]}],"fr":[{"k":"p","lines":[["Louez le Seigneur notre Dieu :"],["en Marie, sa servante,"],["il a pleinement réalisé sa miséricorde,"],["comme il l'avait promis à la maison d'Israël."]]}]},"part":"communionAntiphon"},{"slot":"47","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}]},"part":"postcommunion"},{"slot":"48","text":{"la":[{"k":"p","lines":[["Sumptis, Dómine, salútis et fídei sacraméntis, súpplices te deprecámur, ut, beátam Vírginem Maríam devóte recoléntes, supérnæ caritátis cum ipsa partícipes fíeri mereámur. Per Chrístum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, saciados com o sacramento da salvação e da fé,"],["humildemente vos pedimos que,"],["recordando com sincera piedade a Santa Virgem Maria,"],["mereçamos com ela participar do vosso amor eterno."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Having received the Sacrament of salvation and of faith, we humbly beseech you, O Lord, that we, who devoutly honor the Blessed Virgin Mary, may be worthy to share with her in the charity of heaven."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Después de recibir, Señor,"],["los sacramentos de la fe y de la salvación,"],["te pedimos humildemente"],["que, al celebrar con devoción"],["la memoria de santa María Virgen,"],["merezcamos participar con ella del amor del cielo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, che ci hai nutriti con i sacramenti della fede e della salvezza, fa' che, venerando la beata Vergine Maria, con lei siamo resi partecipi del tuo eterno amore. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Ayant reçu les sacrements du salut et de la foi,"],["Seigneur, nous te supplions humblement :"],["tandis que nous célébrons avec ferveur"],["la bienheureuse Vierge Marie,"],["accorde-nous d'accueillir comme elle"],["l'amour qui vient d'en haut."],["Par le Christ, notre Seigneur."]]}]},"part":"postcommunion"}],"prefaces":["preface.44","preface.43","preface.45","preface.46","preface.47"],"title":{"la":"COMMUNE BEATÆ MARIÆ VIRGINIS","pt-BR":"COMUM DA BEM-AVENTURADA VIRGEM MARIA","en-US":"COMMON OF THE BLESSED VIRGIN MARY","es":"COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA","it":"COMUNE DELLA BEATA VERGINE MARIA","fr":"COMMUN DE LA VIERGE MARIE"},"subtitle":{"la":"I. TEMPORE « PER ANNUM » 4","pt-BR":"I. No Tempo \"Comum\" 4","en-US":"I. In Ordinary Time 4","es":"I. Tiempo ordinario 4","it":"I. Nel Tempo Ordinario 4","fr":"I. Temps Ordinaire 4"}}
+{
+ "id": "common.blessed-virgin-mary.4",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE BEATÆ MARIÆ VIRGINIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. TEMPORE « PER ANNUM »"
+       ],
+       [
+        "4"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DA BEM-AVENTURADA VIRGEM MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. No Tempo \"Comum\""
+       ],
+       [
+        "4"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF THE BLESSED VIRGIN MARY"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. In Ordinary Time"
+       ],
+       [
+        "4"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Tiempo ordinario"
+       ],
+       [
+        "4"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DELLA BEATA VERGINE MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Nel Tempo Ordinario"
+       ],
+       [
+        "4"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DE LA VIERGE MARIE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Temps Ordinaire"
+       ],
+       [
+        "4"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 44, 13. 15. 16"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 44, 13. 15. 16"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Ps 45 (44): 13, 15, 16"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 44, 13. 15. 16"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Sal 44, 13.15.16"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 44, 13. 15. 16"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vultum tuum deprecabúntur omnes dívites plebis: adducéntur Regi vírgines post eam: próximæ eius adducéntur tibi in lætítia et exsultatióne."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os grandes do povo vos pedem favores;"
+       ],
+       [
+        "virgens amigas vos formam cortejo;"
+       ],
+       [
+        "entre cantos de festa e com grande alegria,"
+       ],
+       [
+        "ingressam então no palácio real."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "All the richest of the people long to see your face: behind her, her maiden companions are escorted to the King; her attendants are escorted to you amid gladness and joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los pueblos más ricos buscan tu favor: la llevan ante el rey con séquito de vírgenes, las traen entre alegría y algazara."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I più ricchi del popolo cercano il tuo favore, vergine Regina; con te le giovani compagne al Re sono condotte in gioia ed esultanza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les plus riches du peuple quêteront ton visage :"
+       ],
+       [
+        "des jeunes filles, tes compagnes, te font cortège ;"
+       ],
+       [
+        "on les conduit parmi les chants de fête :"
+       ],
+       [
+        "elles entrent au palais du roi."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Famulórum tuórum, quǽsumus, Dómine, delícta ignósce, ut, qui tibi placére de áctibus nostris non valémus, Genetrícis Fílii tui Dómini nostri intercessióne salvémur. Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, perdoai os pecados dos vossos servos e servas,"
+       ],
+       [
+        "e, como não podemos agradar-vos por nossas obras,"
+       ],
+       [
+        "sejamos salvos pela intercessão"
+       ],
+       [
+        "da Mãe do vosso Filho, nosso Senhor."
+       ],
+       [
+        "Ele, que é Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pardon the faults of your servants, we pray, O Lord, that we, who cannot please you by our own deeds, may be saved through the intercession of the Mother of your Son and our Lord. Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perdona, Señor, los pecados de tus siervos"
+       ],
+       [
+        "y, ya que no podemos complacerte con nuestras obras, concédenos la salvación"
+       ],
+       [
+        "por intercesión de la Madre de tu Hijo, nuestro Señor."
+       ],
+       [
+        "Él, que vive y reina contigo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perdona, o Padre, le colpe dei tuoi figli e poiché non possiamo salvarci con le nostre opere, interceda per noi la Madre del tuo Figlio e Signore nostro Gesù Cristo. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, nous t'en prions,"
+       ],
+       [
+        "pardonne les péchés de tes serviteurs :"
+       ],
+       [
+        "puisque nous ne pouvons te plaire par nos propres actes,"
+       ],
+       [
+        "que l'intercession de la Mère de ton Fils, notre Seigneur,"
+       ],
+       [
+        "nous obtienne le salut."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súscipe, Dómine, múnera quæ tibi offérimus, et præsta, ut corda nostra, Sancti Spíritus luce irradiáta, exémplo beátæ Vírginis Maríæ, tua semper váleant perquírere et conserváre. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aceitai, Senhor, os dons que vos apresentamos"
+       ],
+       [
+        "para que nossos corações, iluminados pela luz do Espírito Santo,"
+       ],
+       [
+        "a exemplo da Bem-aventurada Virgem Maria,"
+       ],
+       [
+        "saibam procurar e guardar a vossa vontade."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accept, O Lord, the offerings we bring you and grant that, enlightened by the Holy Spirit and encouraged by the example of the Blessed Virgin Mary, our hearts may always seek out and treasure the things that are yours."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acepta, Señor, los dones que te ofrecemos"
+       ],
+       [
+        "y concédenos que nuestros corazones,"
+       ],
+       [
+        "estimulados por la luz del Espíritu Santo,"
+       ],
+       [
+        "a ejemplo de la bienaventurada Virgen María,"
+       ],
+       [
+        "puedan escrutar y guardar siempre tu palabra."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accetta, o Signore, i doni che ti offriamo e irradia nei nostri cuori la luce del tuo santo Spirito, perché, sull'esempio della beata Vergine Maria, sappiamo meditare e custodire sempre le tue parole. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accueille, Seigneur, les dons que nous t'offrons ;"
+       ],
+       [
+        "fais qu'à l'exemple de la bienheureuse Vierge Marie,"
+       ],
+       [
+        "nos cœurs, irradiés par la lumière du Saint-Esprit,"
+       ],
+       [
+        "recherchent toujours ce qui vient de toi"
+       ],
+       [
+        "et le gardent fidèlement."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Laudáte Dóminum Deum nostrum, quia in María ancílla sua adimplévit misericórdiam suam, quam promísit dómui Israel."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Louvai o Senhor, nosso Deus,"
+       ],
+       [
+        "pois em Maria, sua serva,"
+       ],
+       [
+        "realizou plenamente a sua misericórdia,"
+       ],
+       [
+        "conforme prometera à casa de Israel."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Praise the Lord our God, for in Mary his handmaid he has fulfilled his promise of mercy to the house of Israel."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alabad al Señor, nuestro Dios, porque en María, esclava suya, manifestó su misericordia, como lo había prometido a la casa de Israel."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lodate il Signore Dio nostro, che in Maria, sua serva, ha compiuto la sua misericordia, come aveva promesso alla casa d'Israele."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Louez le Seigneur notre Dieu :"
+       ],
+       [
+        "en Marie, sa servante,"
+       ],
+       [
+        "il a pleinement réalisé sa miséricorde,"
+       ],
+       [
+        "comme il l'avait promis à la maison d'Israël."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sumptis, Dómine, salútis et fídei sacraméntis, súpplices te deprecámur, ut, beátam Vírginem Maríam devóte recoléntes, supérnæ caritátis cum ipsa partícipes fíeri mereámur. Per Chrístum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, saciados com o sacramento da salvação e da fé,"
+       ],
+       [
+        "humildemente vos pedimos que,"
+       ],
+       [
+        "recordando com sincera piedade a Santa Virgem Maria,"
+       ],
+       [
+        "mereçamos com ela participar do vosso amor eterno."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Having received the Sacrament of salvation and of faith, we humbly beseech you, O Lord, that we, who devoutly honor the Blessed Virgin Mary, may be worthy to share with her in the charity of heaven."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Después de recibir, Señor,"
+       ],
+       [
+        "los sacramentos de la fe y de la salvación,"
+       ],
+       [
+        "te pedimos humildemente"
+       ],
+       [
+        "que, al celebrar con devoción"
+       ],
+       [
+        "la memoria de santa María Virgen,"
+       ],
+       [
+        "merezcamos participar con ella del amor del cielo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, che ci hai nutriti con i sacramenti della fede e della salvezza, fa' che, venerando la beata Vergine Maria, con lei siamo resi partecipi del tuo eterno amore. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ayant reçu les sacrements du salut et de la foi,"
+       ],
+       [
+        "Seigneur, nous te supplions humblement :"
+       ],
+       [
+        "tandis que nous célébrons avec ferveur"
+       ],
+       [
+        "la bienheureuse Vierge Marie,"
+       ],
+       [
+        "accorde-nous d'accueillir comme elle"
+       ],
+       [
+        "l'amour qui vient d'en haut."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.44",
+  "preface.43",
+  "preface.45",
+  "preface.46",
+  "preface.47"
+ ],
+ "title": {
+  "la": "COMMUNE BEATÆ MARIÆ VIRGINIS",
+  "pt-BR": "COMUM DA BEM-AVENTURADA VIRGEM MARIA",
+  "en-US": "COMMON OF THE BLESSED VIRGIN MARY",
+  "es": "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA",
+  "it": "COMUNE DELLA BEATA VERGINE MARIA",
+  "fr": "COMMUN DE LA VIERGE MARIE"
+ },
+ "subtitle": {
+  "la": "I. TEMPORE « PER ANNUM » 4",
+  "pt-BR": "I. No Tempo \"Comum\" 4",
+  "en-US": "I. In Ordinary Time 4",
+  "es": "I. Tiempo ordinario 4",
+  "it": "I. Nel Tempo Ordinario 4",
+  "fr": "I. Temps Ordinaire 4"
+ }
+}

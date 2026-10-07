@@ -1,0 +1,1144 @@
+{
+ "id": "for-the-dead.psalm.10",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "10"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 142, 1-2. 5-6. 7ab et 8ab. 10 (: 1a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Salmo 142, 1-2. 5-6. 7ab y 8ab. 10 (R.: 1a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 142:1-2. 5-6. 7ab et 8ab. 10 (: 1a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 142, 1-2. 5-6. 7ab y 8ab. 10 (R.: 1a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Salmo 142:1-2. 5-6. 7ab et 8ab. 10 (: 1a)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 142, 1-2. 5-6. 7ab et 8ab. 10 (: 1a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 143 (142), 1-2. 5-6. 7ab u. 8ab. 10-11 (R: vgl. 8 oder 1a)",
+      "role": "title"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dómine, exáudi oratiónem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tende piedade mim, atendei à minha prece!."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, listen to my prayer."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Señor, escucha mi oración."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascoltami, Signore, Dio dei viventi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, entends ma prière."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, lass mich deine Huld erfahren; denn ich vertraue auf dich."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Herr, erhöre mein Gebet!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dómine, exáudi oratiónem meam,"
+       ],
+       [
+        "áuribus pércipe obsecratiónem meam in veritáte tua;"
+       ],
+       [
+        "exáudi me in tua iustítia."
+       ],
+       [
+        "Et non intres in iudícium cum servo tuo,"
+       ],
+       [
+        "quia non iustificábitur in conspéctu tuo omnis vivens"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ouvi, Senhor, a minha oração, pela vossa fidelidade, escutai a minha súplica, atendei-me pela vossa justiça. Não chameis a juízo o vosso servo, porque ninguém é justo diante de Vós."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lord, listen to my prayer: turn your ear to my appeal. You are faithful, you are just; give answer. Do not call your servant to judgement for no one is just in your sight."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, escucha mi oración;"
+       ],
+       [
+        "tú, que eres fiel, atiende a mi súplica;"
+       ],
+       [
+        "tú, que eres justo, escúchame."
+       ],
+       [
+        "No llames a juicio a tu siervo,"
+       ],
+       [
+        "pues ningún hombre vivo es inocente frente a ti."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore, ascolta la mia preghiera,"
+       ],
+       [
+        "porgi l'orecchio alla mia supplica,"
+       ],
+       [
+        "tu che sei fedele,"
+       ],
+       [
+        "e per la tua giustizia rispondimi."
+       ],
+       [
+        "Non chiamare in giudizio il tuo servo:"
+       ],
+       [
+        "nessun vivente davanti a te è giusto"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, entends ma prière ;"
+       ],
+       [
+        "dans ta justice écoute mes appels,"
+       ],
+       [
+        "dans ta fidélité réponds-moi."
+       ],
+       [
+        "N'entre pas en jugement avec ton serviteur :"
+       ],
+       [
+        "aucun vivant n'est juste devant toi."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, höre mein Gebet, vernimm mein Flehen;"
+       ],
+       [
+        "in deiner Treue erhöre mich, in deiner Gerechtigkeit!"
+       ],
+       [
+        "Geh mit deinem Knecht nicht ins Gericht;"
+       ],
+       [
+        "denn keiner, der lebt, ist gerecht vor dir."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dómine, exáudi oratiónem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tende piedade mim, atendei à minha prece!."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, listen to my prayer."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Señor, escucha mi oración."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascoltami, Signore, Dio dei viventi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, entends ma prière."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, lass mich deine Huld erfahren; denn ich vertraue auf dich."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Herr, erhöre mein Gebet!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Memor fui diérum antiquórum,"
+       ],
+       [
+        "meditátus sum in ómnibus opéribus tuis,"
+       ],
+       [
+        "in factis mánuum tuárum recogitábam."
+       ],
+       [
+        "Expándi manus meas ad te,"
+       ],
+       [
+        "ánima mea sicut terra sine aqua tibi."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recordo os dias de outrora, medito em todas as vossas obras e considero as maravilhas que operastes. Estendo para Vós as minhas mãos: como terra sem água, a minha alma tem sede de Vós."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I remember the days that are past: I ponder all your works. I muse on what your hand has wrought and to you I stretch out my hands. Like a parched land my soul thirsts for you."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recuerdo los tiempos antiguos,"
+       ],
+       [
+        "medito todas tus acciones,"
+       ],
+       [
+        "considero las obras de tus manos"
+       ],
+       [
+        "y extiendo mis brazos hacia ti:"
+       ],
+       [
+        "tengo sed de ti como tierra reseca."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ricordo i giorni antichi,"
+       ],
+       [
+        "ripenso a tutte le tue opere,"
+       ],
+       [
+        "medito sui tuoi prodigi."
+       ],
+       [
+        "A te protendo le mie mani,"
+       ],
+       [
+        "sono davanti a te come terra riarsa"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je me souviens des jours d'autrefois,"
+       ],
+       [
+        "je me redis toutes tes actions,"
+       ],
+       [
+        "sur l'œuvre de tes mains je médite."
+       ],
+       [
+        "Je tends les mains vers toi,"
+       ],
+       [
+        "me voici devant toi comme une terre assoiffée."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich denke an die vergangenen Tage,"
+       ],
+       [
+        "sinne nach über all deine Taten,"
+       ],
+       [
+        "erwäge das Werk deiner Hände."
+       ],
+       [
+        "Ich breite die Hände aus zu dir;"
+       ],
+       [
+        "meine Seele dürstet nach dir wie lechzendes Land."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dómine, exáudi oratiónem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tende piedade mim, atendei à minha prece!."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, listen to my prayer."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Señor, escucha mi oración."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascoltami, Signore, Dio dei viventi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, entends ma prière."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, lass mich deine Huld erfahren; denn ich vertraue auf dich."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Herr, erhöre mein Gebet!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Velóciter exáudi me, Dómine;"
+       ],
+       [
+        "defécit spíritus meus."
+       ],
+       [
+        "Audítam fac mihi mane misericórdiam tuam,"
+       ],
+       [
+        "quia in te sperávi."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ouvi-me, Senhor, sem demora, porque se apaga a minha vida. Fazei-me sentir desde a manhã a vossa bondade, porque em Vós confio."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lord, make haste and give me answer: for my spirit fails within me. In the morning let me know your love for I put my trust in you."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escúchame enseguida, Señor,"
+       ],
+       [
+        "que me falta el aliento."
+       ],
+       [
+        "En la mañana hazme escuchar tu gracia,"
+       ],
+       [
+        "ya que confío en ti."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rispondimi presto, Signore, viene meno il mio spirito."
+       ],
+       [
+        "Non nascondermi il tuo volto,"
+       ],
+       [
+        "perché non sia come chi scende nella fossa."
+       ],
+       [
+        "Al mattino fammi sentire la tua grazia,"
+       ],
+       [
+        "perché in te confido"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vite, réponds-moi, Seigneur :"
+       ],
+       [
+        "je suis à bout de souffle !"
+       ],
+       [
+        "Fais que j'entende au matin ton amour,"
+       ],
+       [
+        "car je compte sur toi."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, erhöre mich bald,"
+       ],
+       [
+        "denn mein Geist wird müde."
+       ],
+       [
+        "Lass mich deine Huld erfahren am frühen Morgen;"
+       ],
+       [
+        "denn ich vertraue auf dich."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dómine, exáudi oratiónem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tende piedade mim, atendei à minha prece!."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, listen to my prayer."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Señor, escucha mi oración."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascoltami, Signore, Dio dei viventi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, entends ma prière."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, lass mich deine Huld erfahren; denn ich vertraue auf dich."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Herr, erhöre mein Gebet!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Doce me fácere beneplácitum tuum,"
+       ],
+       [
+        "quia Deus meus es tu."
+       ],
+       [
+        "Spíritus tuus bonus dedúcet me in terram rectam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ensinai-me a cumprir a vossa vontade, porque sois o meu Deus. O vosso espírito de bondade me conduza por caminho recto."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Teach me to do your will for you, O Lord, are my God. Let your good spirit guide me in ways that are level and smooth."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Enséñame a cumplir tu ley,"
+       ],
+       [
+        "ya que tú eres mi Dios."
+       ],
+       [
+        "Tu espíritu, que es bueno,"
+       ],
+       [
+        "me guíe por tierra llana."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Insegnami a compiere il tuo volere,"
+       ],
+       [
+        "perché sei tu il mio Dio."
+       ],
+       [
+        "Il tuo spirito buono"
+       ],
+       [
+        "mi guidi in terra piana"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apprends-moi à faire ta volonté,"
+       ],
+       [
+        "car tu es mon Dieu."
+       ],
+       [
+        "Ton souffle est bienfaisant :"
+       ],
+       [
+        "qu'il me guide en un pays de plaines."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lehre mich, deine Willen zu tun; denn du bist mein Gott."
+       ],
+       [
+        "Dein guter Geist leite mich auf ebenem Pfad."
+       ],
+       [
+        "Um deines Namens willen, Herr, erhalt mich am Leben,"
+       ],
+       [
+        "führe mich heraus aus der Not in deiner Gerechtigkeit!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dómine, exáudi oratiónem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tende piedade mim, atendei à minha prece!."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, listen to my prayer."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Señor, escucha mi oración."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascoltami, Signore, Dio dei viventi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, entends ma prière."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, lass mich deine Huld erfahren; denn ich vertraue auf dich."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Herr, erhöre mein Gebet!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

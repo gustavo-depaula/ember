@@ -102,7 +102,7 @@ describe('an ordinary weekday', () => {
   })
 
   it('shows nothing that exists only in a third language', async () => {
-    // Upstream's German Eucharistic Prayers carry Sunday insertions of their own.
+    // The German Eucharistic Prayers carry Sunday insertions of their own.
     const all = JSON.stringify(await massOn('2026-10-04', 'en-US'))
     expect(all).not.toContain('Darum kommen wir')
     expect(all).not.toContain('Prefacio III')
@@ -134,7 +134,7 @@ describe('an ordinary weekday', () => {
       'Enviai o vosso Espírito Santo!',
       'Aceitai, ó Senhor, a nossa oferta!',
       'O Espírito nos una num só corpo!',
-      // Set inside the intercession's own paragraph upstream.
+      // Set inside the intercession's own paragraph in the corpus.
       'Lembrai-vos, ó Pai, da vossa Igreja!',
     ]) {
       expect(responses).toContain(acclamation)

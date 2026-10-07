@@ -1,1 +1,203 @@
-{"id":"sanctorale.01-07.german-speaking","source":"santos/santos_ene#0107Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["7. Januar"],["Hl. Valentin, Bischof"]]}]}},{"text":{"*":[{"k":"p","lines":[["Vor der Mitte des 5. Jh. als Abt und Bischof in Rätien tätig, erhielt Valentin nach seinem Tod zuerst in der Zenoburg zu Mais-Meran im heutigen Südtirol sein Grab. Im 8. Jh. kamen seine Reliquien in den Stephansdom zu Passau, wo er zusammen mit dem heiligen Maximilian zum besonderen Schutzheiligen der Diözese erwählt wurde."]]}]}},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Bischöfe:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"}," ",{"m":"rubric","t":"."}]]}]}},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Allmächtiger Gott, du hast den heiligen Valentin befähigt, als Missionar und Bischof unseren Vorfahren ein treuer Helfer zu sein. Wecke in uns das Bewusstsein, dass wir füreinander verantwortlich sind, und hilf uns, einander im Glauben zu stützen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"36","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"prefaces":["preface.56"],"commons":["common.pastors.3","common.pastors.4"],"title":{"*":"Hl. Valentin, Bischof"}}
+{
+ "id": "sanctorale.01-07.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "7. Januar"
+       ],
+       [
+        "Hl. Valentin, Bischof"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vor der Mitte des 5. Jh. als Abt und Bischof in Rätien tätig, erhielt Valentin nach seinem Tod zuerst in der Zenoburg zu Mais-Meran im heutigen Südtirol sein Grab. Im 8. Jh. kamen seine Reliquien in den Stephansdom zu Passau, wo er zusammen mit dem heiligen Maximilian zum besonderen Schutzheiligen der Diözese erwählt wurde."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Bischöfe:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du hast den heiligen Valentin befähigt, als Missionar und Bischof unseren Vorfahren ein treuer Helfer zu sein. Wecke in uns das Bewusstsein, dass wir füreinander verantwortlich sind, und hilf uns, einander im Glauben zu stützen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "prefaces": [
+  "preface.56"
+ ],
+ "commons": [
+  "common.pastors.3",
+  "common.pastors.4"
+ ],
+ "title": {
+  "*": "Hl. Valentin, Bischof"
+ }
+}

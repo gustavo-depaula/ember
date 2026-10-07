@@ -1,1 +1,2357 @@
-{"id":"sanctorale.07-15","source":"lecturas/lecturas_santos_jul#0715","items":[{"slot":"61","text":{"la":[{"k":"h2","lines":[["Die 15 iulii"],["S. Bonaventuræ, episcopi et Ecclesiæ doctoris"]]},{"k":"h3","lines":[["Memoria"]]}],"pt-BR":[{"k":"h2","lines":[["15 de Julho"],["São Boaventura, bispo e doutor da Igreja"]]},{"k":"h3","lines":[["Memória"]]}],"en-US":[{"k":"h2","lines":[["July 15"],["St. Bonaventure, bishop and doctor of the Church"]]},{"k":"h3","lines":[["Memorial"]]}],"es":[{"k":"h2","lines":[["15 de julio"],["San Buenaventura, obispo y doctor de la Iglesia"]]},{"k":"h3","lines":[["Memoria"]]}],"it":[{"k":"h2","lines":[["15 luglio"],["San Bonaventura, vescovo e dottore della Chiesa"]]},{"k":"h3","lines":[["Memoria"]]}],"fr":[{"k":"h2","lines":[["15 juillet"],["Saint Bonaventure, évêque et docteur de l'Église"]]},{"k":"h3","lines":[["Mémoire"]]}],"de":[{"k":"h2","lines":[["15. Juli"],["Hl. Bonaventura, Bischof, Kirchenlehrer"]]},{"k":"h3","lines":[["Gedenktag"]]}]}},{"slot":"62","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.css2l7"}]]}]},"part":"firstReading"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"3"}]]}]},"role":"rubric","part":"psalm","from":"readings.cds3"},{"slot":"31","text":{"la":[{"k":"p","lines":[],"cite":"Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)","role":"title"}],"pt-BR":[{"k":"p","lines":[],"cite":"Sl 118(119), 9. 10. 11. 12. 13. 14 (R.: 12b)","role":"title"}],"en-US":[{"k":"p","lines":[],"cite":"Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)","role":"title"}],"es":[{"k":"p","lines":[],"cite":"Sal 118, 9. 10. 11. 12. 13. 14 (R.: 12b)","role":"title"}],"it":[{"k":"p","lines":[],"cite":"Dal Salmo 118 (119)","role":"title"}],"fr":[{"k":"p","lines":[],"cite":"Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)","role":"title"}],"de":[{"k":"p","lines":[],"cite":"Ps 119 (118), 9-10. 11-12. 13-14 (R: 12b)","role":"title"}]},"part":"psalm","from":"readings.cds3"},{"slot":"32","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Doce me, Dómine, iustificatiónes tuas."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, ensinai-me os vossos mandamentos!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lord, teach me your decrees."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Enséñame, Señor, tus decretos."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Insegnami, Signore, i tuoi decreti."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Apprends-moi, Seigneur, tes commandements."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herr, lehre mich deine Gesetze!"]]}]},"role":"people","part":"psalm","from":"readings.cds3"},{"slot":"33","text":{"la":[{"k":"p","lines":[["In quo mundábit adulescéntior viam suam?"],["In custodiéndo sermónes tuos."]]}],"pt-BR":[{"k":"p","lines":[["Como um jovem poderá ter vida pura? Observando, ó Senhor, vossa palavra."]]}],"en-US":[{"k":"p","lines":[["How shall the young remain sinless? By obeying your word."]]}],"es":[{"k":"p","lines":[["¿Cómo podrá un joven andar honestamente?"],["Cumpliendo tus palabras."]]}],"it":[{"k":"p","lines":[["Come potrà un giovane tenere pura la sua via?"],["Osservando la tua parola."]]}],"fr":[{"k":"p","lines":[["Comment, jeune, garder pur son chemin ?"],["En observant ta parole."]]}],"de":[{"k":"p","lines":[["Wie geht ein junger Mann seinen Pfad ohne Tadel?"],["Wenn er sich hält an dein Wort."]]}]},"role":"verse","part":"psalm","from":"readings.cds3"},{"slot":"34","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Doce me, Dómine, iustificatiónes tuas."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, ensinai-me os vossos mandamentos!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lord, teach me your decrees."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Enséñame, Señor, tus decretos."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Insegnami, Signore, i tuoi decreti."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Apprends-moi, Seigneur, tes commandements."]]}]},"role":"people","part":"psalm","from":"readings.cds3"},{"slot":"35","text":{"la":[{"k":"p","lines":[["In toto corde meo exquisívi te,"],["ne erráre me fácias a præcéptis tuis."]]}],"pt-BR":[{"k":"p","lines":[["De todo o coração eu vos procuro, não deixeis que eu abandone a vossa lei!"]]}],"en-US":[{"k":"p","lines":[["I have sought you with all my heart: let me not stray from your commands."]]}],"es":[{"k":"p","lines":[["Te busco de todo corazón,"],["no consientas que me desvíe de tus mandamientos."]]}],"it":[{"k":"p","lines":[["Con tutto il mio cuore ti cerco:"],["non lasciarmi deviare dai tuoi comandi."]]}],"fr":[{"k":"p","lines":[["De tout mon cœur, je te cherche ;"],["garde-moi de fuir tes volontés."]]}],"de":[{"k":"p","lines":[["Ich suche dich von ganzem Herzen."],["Lass mich nicht abirren von deinen Geboten!"]]}]},"role":"verse","part":"psalm","from":"readings.cds3"},{"slot":"36","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Doce me, Dómine, iustificatiónes tuas."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, ensinai-me os vossos mandamentos!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lord, teach me your decrees."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Enséñame, Señor, tus decretos."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Insegnami, Signore, i tuoi decreti."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Apprends-moi, Seigneur, tes commandements."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herr, lehre mich deine Gesetze!"]]}]},"role":"people","part":"psalm","from":"readings.cds3"},{"slot":"37","text":{"la":[{"k":"p","lines":[["In corde meo abscóndi elóquia tua,"],["ut non peccem tibi."]]}],"pt-BR":[{"k":"p","lines":[["Conservei no coração vossas palavras, a fim de que eu não peque contra vos."]]}],"en-US":[{"k":"p","lines":[["I treasure your promise in my heart lest I sin against you."]]}],"es":[{"k":"p","lines":[["En mi corazón escondo tus consignas,"],["así no pecaré contra ti."]]}],"it":[{"k":"p","lines":[["Ripongo nel cuore la tua promessa"],["per non peccare contro di te."]]}],"fr":[{"k":"p","lines":[["Dans mon cœur, je conserve tes promesses"],["pour ne pas faillir envers toi."]]}],"de":[{"k":"p","lines":[["Ich berge deinen Spruch im Herzen,"],["damit ich gegen dich nicht sündige."]]}]},"role":"verse","part":"psalm","from":"readings.cds3"},{"slot":"38","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Doce me, Dómine, iustificatiónes tuas."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, ensinai-me os vossos mandamentos!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lord, teach me your decrees."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Enséñame, Señor, tus decretos."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Insegnami, Signore, i tuoi decreti."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Apprends-moi, Seigneur, tes commandements."]]}]},"role":"people","part":"psalm","from":"readings.cds3"},{"slot":"39","text":{"la":[{"k":"p","lines":[["Benedíctus es, Dómine;"],["doce me iustificatiónes tuas."]]}],"pt-BR":[{"k":"p","lines":[["Ó Senhor, vós sois bendito para sempre; os vossos mandamentos ensinai-me!"]]}],"en-US":[{"k":"p","lines":[["Blessed are you, O Lord; teach me your statutes."]]}],"es":[{"k":"p","lines":[["Bendito eres, Señor,"],["enséñame tus decretos."]]}],"it":[{"k":"p","lines":[["Benedetto sei tu, Signore:"],["insegnami i tuoi decreti."]]}],"fr":[{"k":"p","lines":[["Toi, Seigneur, tu es béni :"],["apprends-moi tes commandements."]]}],"de":[{"k":"p","lines":[["Gepriesen seist du, Herr."],["Lehre mich deine Gesetze!"]]}]},"role":"verse","part":"psalm","from":"readings.cds3"},{"slot":"40","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Doce me, Dómine, iustificatiónes tuas."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, ensinai-me os vossos mandamentos!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lord, teach me your decrees."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Enséñame, Señor, tus decretos."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Insegnami, Signore, i tuoi decreti."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Apprends-moi, Seigneur, tes commandements."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herr, lehre mich deine Gesetze!"]]}]},"role":"people","part":"psalm","from":"readings.cds3"},{"slot":"41","text":{"la":[{"k":"p","lines":[["In lábiis meis"],["numerávi ómnia iudícia oris tui."]]}],"pt-BR":[{"k":"p","lines":[["Com meus lábios, ó Senhor, eu enumero os decretos que ditou a vossa boca."]]}],"en-US":[{"k":"p","lines":[["With my tongue I have recounted the decrees of your lips."]]}],"es":[{"k":"p","lines":[["Mis labios van enumerando"],["todos los mandamientos de tu boca."]]}],"it":[{"k":"p","lines":[["Con le mie labbra ho raccontato"],["tutti i giudizi della tua bocca."]]}],"fr":[{"k":"p","lines":[["Je fais repasser sur mes lèvres"],["chaque décision de ta bouche."]]}],"de":[{"k":"p","lines":[["Mit meinen Lippen verkünde ich"],["alle Urteile deines Mundes."]]}]},"role":"verse","part":"psalm","from":"readings.cds3"},{"slot":"42","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Doce me, Dómine, iustificatiónes tuas."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, ensinai-me os vossos mandamentos!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lord, teach me your decrees."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Enséñame, Señor, tus decretos."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Insegnami, Signore, i tuoi decreti."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Apprends-moi, Seigneur, tes commandements."]]}]},"role":"people","part":"psalm","from":"readings.cds3"},{"slot":"43","text":{"la":[{"k":"p","lines":[["In via testimoniórum tuórum delectátus sum"],["sicut in ómnibus divítiis."]]}],"pt-BR":[{"k":"p","lines":[["Seguindo vossa lei me rejubilo muito mais do que em todas as riquezas."]]}],"en-US":[{"k":"p","lines":[["I rejoiced to do your will as though all riches were mine."]]}],"es":[{"k":"p","lines":[["Mi alegría es el camino de tus preceptos,"],["más que todas las riquezas."]]}],"it":[{"k":"p","lines":[["Nella via dei tuoi insegnamenti è la mia gioia,"],["più che in tutte le ricchezze."]]}],"fr":[{"k":"p","lines":[["Je trouve dans la voie de tes exigences"],["plus de joie que dans toutes les richesses."]]}],"de":[{"k":"p","lines":[["Nach deinen Vorschriften zu leben"],["freut mich mehr als großer Besitz."]]}]},"role":"verse","part":"psalm","from":"readings.cds3"},{"slot":"44","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Doce me, Dómine, iustificatiónes tuas."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ó Senhor, ensinai-me os vossos mandamentos!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lord, teach me your decrees."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Enséñame, Señor, tus decretos."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Insegnami, Signore, i tuoi decreti."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Apprends-moi, Seigneur, tes commandements."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herr, lehre mich deine Gesetze!"]]}]},"role":"people","part":"psalm","from":"readings.cds3"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"1"}]]}]},"role":"rubric","part":"acclamation","from":"readings.cpaly1"},{"slot":"123","text":{"la":[{"k":"p","lines":[],"cite":"Mt 23, 9b. 10b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}],["Unus est Pater vester, cæléstis;"],["et Magíster vester unus est, Christus."],[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}]]}],"pt-BR":[{"k":"p","lines":[],"cite":"Mt 23, 9b. 10b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluia, aleluia.",{"m":"rubric","t":")"}],["Vós tendes um só Pai, que está no céu, vosso Guia é um somente, é o Mesias."],[{"m":"rubric","t":"("},"Aleluia.",{"m":"rubric","t":")"}]]}],"en-US":[{"k":"p","lines":[],"cite":"Mt 23, 9b. 10b","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["You have one Father, your Father in heaven, you have one teacher: the Lord Jesus Christ!"],["Alleluia."]]}],"es":[{"k":"p","lines":[],"cite":"Mt 23, 9b. 10b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}],["Uno solo es vuestro Padre, el del cielo;"],["y uno solo es vuestro maestro, el Mesías."],[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}]]}],"it":[{"k":"p","lines":[],"cite":"Mt 23, 9b. 1 Ob","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Uno solo è il Padre vostro, quello celeste; e uno solo è la vostra Guida, il Cristo."],["Alleluia."]]}],"fr":[{"k":"p","lines":[],"cite":"Mt 23, 9b. 10b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}],["Vous n'avez qu'un seul Père, celui qui est aux cieux ; vous n'avez qu'un seul maître."],[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}]]}],"de":[{"k":"p","lines":[],"cite":"Mt 23, 9b. 10b","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Halleluja. Halleluja.",{"m":"rubric","t":")"}],["Einer ist euer Vater, der im Himmel. Einer ist euer Lehrer, Christus."],[{"m":"rubric","t":"("},"Halleluja.",{"m":"rubric","t":")"}]]}]},"part":"acclamation","from":"readings.cpaly1"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"3"}]]}]},"role":"rubric","part":"gospel","from":"readings.cpev3"},{"slot":"139","text":{"la":[{"k":"p","lines":[["Qui maior est vestrum, erit miníster vester."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Matthǽum"]],"cite":"23, 8-12","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["O maior dentre vós será aquele que vos serve."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Mateus"]],"cite":"23, 8-12","role":"announcement"}],"en-US":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Matthew"]],"cite":"23:8-12","role":"announcement"}],"es":[{"k":"p","lines":[["El primero entre vosotros será vuestro servidor"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo evangelio según san Mateo"]],"cite":"23, 8-12","role":"announcement"}],"it":[{"k":"p","lines":[["Chi tra voi è più grande, sarà vostro servo."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal Vangelo secondo Matteo"]],"cite":"23, 8-12","role":"announcement"}],"fr":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Matthieu"]],"cite":"23, 8-12","role":"announcement"}],"de":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"23, 8-12","role":"announcement"}]},"part":"gospel","from":"readings.cpev3"},{"slot":"140","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"role":"people","part":"gospel","from":"readings.cpev3"},{"slot":"141","text":{"la":[{"k":"p","lines":[["In illo témpore:"]]},{"k":"p","lines":[["Dixit Iesus ad discípulos suos:"]]},{"k":"p","lines":[["Vos nolíte vocári Rabbi; unus enim est Magíster vester, omnes autem vos fratres estis. Et Patrem nolíte vocáre vobis super terram, unus enim est Pater vester, cæléstis. Nec vocémini Magístri, quia Magíster vester unus est, Christus."]]},{"k":"p","lines":[["Qui maior est vestrum, erit miníster vester. Qui autem se exaltáverit, humiliábitur; et, qui se humiliáverit, exaltábitur»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, disse Jesus aos seus discípulos: \"Quanto a vós, nunca vos deixeis chamar de Mestre, pois um só é vosso Mestre e todos vós sois irmãos. Na terra, não chameis a ninguém de pai, pois um só é vosso Pai, aquele que está nos céus. Não deixeis que vos chamem de guias, pois um só é o vosso Guia, Cristo. Pelo contrário, o maior dentre vós deve ser aquele que vos serve. Quem se exaltar será humilhado, e quem se humilhar será exaltado\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["Jesus said to his disciples: 'You must not allow yourselves to be called Rabbi, since you have only one master, and you are all brothers. You must call no one on earth your father, since you have only one Father, and he is in heaven. Nor must you allow yourselves to be called teachers, for you have only one Teacher, the Christ. The greatest among you must be your servant. Anyone who exalts himself will be humbled, and anyone who humbles himself will exalted."]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, dijo Jesús a sus discípulos:"],["«Vosotros no os dejéis llamar “rabbí”, porque uno solo es vuestro maestro y todos vosotros sois hermanos."],["Y no llaméis padre vuestro a nadie en la tierra, porque uno solo es vuestro Padre, el del cielo."],["No os dejéis llamar maestros, porque uno solo es vuestro maestro, el Mesías."],["El primero entre vosotros será vuestro servidor."],["El que se enaltece será humillado, y el que se humilla será enaltecido»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, Gesù disse alla folla e ai suoi discepoli:"],["«Voi non fatevi chiamare \"rabbi\", perché uno solo è il vostro Maestro e voi siete tutti fratelli. E non chiamate \"padre\" nessuno di voi sulla terra, perché uno solo è il Padre vostro, quello celeste. E non fatevi chiamare \"guide\", perché uno solo è la vostra Guida, il Cristo."],["Chi tra voi è più grande, sarà vostro servo; chi invece si esalterà, sarà umiliato e chi si umilierà sarà esaltato»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, Jésus disait à ses disciples :"],["\" Ne vous faites pas donner le titre de Rabbi, car vous n'avez qu'un seul maître pour vous enseigner, et vous êtes tous frères. Ne donnez à personne sur terre le nom de père, car vous n'avez qu'un seul Père, celui qui est aux cieux. Ne vous faites pas non plus donner le titre de maîtres, car vous n'avez qu'un seul maître, le Christ. Le plus grand parmi vous sera votre serviteur. Qui s'élèvera sera abaissé, qui s'abaissera sera élevé. \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit"],["sprach Jesus zu seinen Jüngern:"],["Ihr sollt euch nicht Rabbi nennen lassen; denn nur einer ist euer Meister, ihr alle aber seid Brüder. Auch sollt ihr niemand auf Erden euren Vater nennen; denn nur einer ist euer Vater, der im Himmel. Auch sollt ihr euch nicht Lehrer nennen lassen; denn nur einer ist euer Lehrer, Christus."],["Der Größte von euch soll euer Diener sein. Denn wer sich selbst erhöht, wird erniedrigt, und wer sich selbst erniedrigt, wird erhöht werden."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel","from":"readings.cpev3"},{"slot":"142","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel","from":"readings.cpev3"}],"title":{"la":"S. Bonaventuræ, episcopi et Ecclesiæ doctoris","pt-BR":"São Boaventura, bispo e doutor da Igreja","en-US":"St. Bonaventure, bishop and doctor of the Church","es":"San Buenaventura, obispo y doctor de la Iglesia","it":"San Bonaventura, vescovo e dottore della Chiesa","fr":"Saint Bonaventure, évêque et docteur de l'Église","de":"Hl. Bonaventura, Bischof, Kirchenlehrer"}}
+{
+ "id": "sanctorale.07-15",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 15 iulii"
+       ],
+       [
+        "S. Bonaventuræ, episcopi et Ecclesiæ doctoris"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 de Julho"
+       ],
+       [
+        "São Boaventura, bispo e doutor da Igreja"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "July 15"
+       ],
+       [
+        "St. Bonaventure, bishop and doctor of the Church"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 de julio"
+       ],
+       [
+        "San Buenaventura, obispo y doctor de la Iglesia"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 luglio"
+       ],
+       [
+        "San Bonaventura, vescovo e dottore della Chiesa"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 juillet"
+       ],
+       [
+        "Saint Bonaventure, évêque et docteur de l'Église"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15. Juli"
+       ],
+       [
+        "Hl. Bonaventura, Bischof, Kirchenlehrer"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Gedenktag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.css2l7"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 118(119), 9. 10. 11. 12. 13. 14 (R.: 12b)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 118, 9. 10. 11. 12. 13. 14 (R.: 12b)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Dal Salmo 118 (119)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 119 (118), 9-10. 11-12. 13-14 (R: 12b)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Doce me, Dómine, iustificatiónes tuas."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, ensinai-me os vossos mandamentos!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, teach me your decrees."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Enséñame, Señor, tus decretos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Insegnami, Signore, i tuoi decreti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Apprends-moi, Seigneur, tes commandements."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, lehre mich deine Gesetze!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quo mundábit adulescéntior viam suam?"
+       ],
+       [
+        "In custodiéndo sermónes tuos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Como um jovem poderá ter vida pura? Observando, ó Senhor, vossa palavra."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "How shall the young remain sinless? By obeying your word."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "¿Cómo podrá un joven andar honestamente?"
+       ],
+       [
+        "Cumpliendo tus palabras."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Come potrà un giovane tenere pura la sua via?"
+       ],
+       [
+        "Osservando la tua parola."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Comment, jeune, garder pur son chemin ?"
+       ],
+       [
+        "En observant ta parole."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wie geht ein junger Mann seinen Pfad ohne Tadel?"
+       ],
+       [
+        "Wenn er sich hält an dein Wort."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Doce me, Dómine, iustificatiónes tuas."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, ensinai-me os vossos mandamentos!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, teach me your decrees."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Enséñame, Señor, tus decretos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Insegnami, Signore, i tuoi decreti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Apprends-moi, Seigneur, tes commandements."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In toto corde meo exquisívi te,"
+       ],
+       [
+        "ne erráre me fácias a præcéptis tuis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "De todo o coração eu vos procuro, não deixeis que eu abandone a vossa lei!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I have sought you with all my heart: let me not stray from your commands."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te busco de todo corazón,"
+       ],
+       [
+        "no consientas que me desvíe de tus mandamientos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Con tutto il mio cuore ti cerco:"
+       ],
+       [
+        "non lasciarmi deviare dai tuoi comandi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "De tout mon cœur, je te cherche ;"
+       ],
+       [
+        "garde-moi de fuir tes volontés."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich suche dich von ganzem Herzen."
+       ],
+       [
+        "Lass mich nicht abirren von deinen Geboten!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Doce me, Dómine, iustificatiónes tuas."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, ensinai-me os vossos mandamentos!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, teach me your decrees."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Enséñame, Señor, tus decretos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Insegnami, Signore, i tuoi decreti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Apprends-moi, Seigneur, tes commandements."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, lehre mich deine Gesetze!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In corde meo abscóndi elóquia tua,"
+       ],
+       [
+        "ut non peccem tibi."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Conservei no coração vossas palavras, a fim de que eu não peque contra vos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I treasure your promise in my heart lest I sin against you."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En mi corazón escondo tus consignas,"
+       ],
+       [
+        "así no pecaré contra ti."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ripongo nel cuore la tua promessa"
+       ],
+       [
+        "per non peccare contro di te."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans mon cœur, je conserve tes promesses"
+       ],
+       [
+        "pour ne pas faillir envers toi."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich berge deinen Spruch im Herzen,"
+       ],
+       [
+        "damit ich gegen dich nicht sündige."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Doce me, Dómine, iustificatiónes tuas."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, ensinai-me os vossos mandamentos!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, teach me your decrees."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Enséñame, Señor, tus decretos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Insegnami, Signore, i tuoi decreti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Apprends-moi, Seigneur, tes commandements."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedíctus es, Dómine;"
+       ],
+       [
+        "doce me iustificatiónes tuas."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Senhor, vós sois bendito para sempre; os vossos mandamentos ensinai-me!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Blessed are you, O Lord; teach me your statutes."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bendito eres, Señor,"
+       ],
+       [
+        "enséñame tus decretos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedetto sei tu, Signore:"
+       ],
+       [
+        "insegnami i tuoi decreti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Toi, Seigneur, tu es béni :"
+       ],
+       [
+        "apprends-moi tes commandements."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gepriesen seist du, Herr."
+       ],
+       [
+        "Lehre mich deine Gesetze!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Doce me, Dómine, iustificatiónes tuas."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, ensinai-me os vossos mandamentos!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, teach me your decrees."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Enséñame, Señor, tus decretos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Insegnami, Signore, i tuoi decreti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Apprends-moi, Seigneur, tes commandements."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, lehre mich deine Gesetze!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In lábiis meis"
+       ],
+       [
+        "numerávi ómnia iudícia oris tui."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Com meus lábios, ó Senhor, eu enumero os decretos que ditou a vossa boca."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "With my tongue I have recounted the decrees of your lips."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mis labios van enumerando"
+       ],
+       [
+        "todos los mandamientos de tu boca."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Con le mie labbra ho raccontato"
+       ],
+       [
+        "tutti i giudizi della tua bocca."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je fais repasser sur mes lèvres"
+       ],
+       [
+        "chaque décision de ta bouche."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mit meinen Lippen verkünde ich"
+       ],
+       [
+        "alle Urteile deines Mundes."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Doce me, Dómine, iustificatiónes tuas."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, ensinai-me os vossos mandamentos!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, teach me your decrees."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Enséñame, Señor, tus decretos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Insegnami, Signore, i tuoi decreti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Apprends-moi, Seigneur, tes commandements."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In via testimoniórum tuórum delectátus sum"
+       ],
+       [
+        "sicut in ómnibus divítiis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seguindo vossa lei me rejubilo muito mais do que em todas as riquezas."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I rejoiced to do your will as though all riches were mine."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi alegría es el camino de tus preceptos,"
+       ],
+       [
+        "más que todas las riquezas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nella via dei tuoi insegnamenti è la mia gioia,"
+       ],
+       [
+        "più che in tutte le ricchezze."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je trouve dans la voie de tes exigences"
+       ],
+       [
+        "plus de joie que dans toutes les richesses."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nach deinen Vorschriften zu leben"
+       ],
+       [
+        "freut mich mehr als großer Besitz."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Doce me, Dómine, iustificatiónes tuas."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ó Senhor, ensinai-me os vossos mandamentos!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lord, teach me your decrees."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Enséñame, Señor, tus decretos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Insegnami, Signore, i tuoi decreti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Apprends-moi, Seigneur, tes commandements."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, lehre mich deine Gesetze!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.3"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "acclamation",
+   "from": "common.pastors.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 23, 9b. 10b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Unus est Pater vester, cæléstis;"
+       ],
+       [
+        "et Magíster vester unus est, Christus."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 23, 9b. 10b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Vós tendes um só Pai, que está no céu, vosso Guia é um somente, é o Mesias."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 23, 9b. 10b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "You have one Father, your Father in heaven, you have one teacher: the Lord Jesus Christ!"
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 23, 9b. 10b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Uno solo es vuestro Padre, el del cielo;"
+       ],
+       [
+        "y uno solo es vuestro maestro, el Mesías."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 23, 9b. 1 Ob",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Uno solo è il Padre vostro, quello celeste; e uno solo è la vostra Guida, il Cristo."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 23, 9b. 10b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Vous n'avez qu'un seul Père, celui qui est aux cieux ; vous n'avez qu'un seul maître."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Mt 23, 9b. 10b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Einer ist euer Vater, der im Himmel. Einer ist euer Lehrer, Christus."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "common.pastors.acclamation.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "gospel",
+   "from": "common.pastors.gospel.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui maior est vestrum, erit miníster vester."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "23, 8-12",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O maior dentre vós será aquele que vos serve."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "23, 8-12",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "23:8-12",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El primero entre vosotros será vuestro servidor"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Mateo"
+       ]
+      ],
+      "cite": "23, 8-12",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi tra voi è più grande, sarà vostro servo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "23, 8-12",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "23, 8-12",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "23, 8-12",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixit Iesus ad discípulos suos:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vos nolíte vocári Rabbi; unus enim est Magíster vester, omnes autem vos fratres estis. Et Patrem nolíte vocáre vobis super terram, unus enim est Pater vester, cæléstis. Nec vocémini Magístri, quia Magíster vester unus est, Christus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui maior est vestrum, erit miníster vester. Qui autem se exaltáverit, humiliábitur; et, qui se humiliáverit, exaltábitur»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus aos seus discípulos: \"Quanto a vós, nunca vos deixeis chamar de Mestre, pois um só é vosso Mestre e todos vós sois irmãos. Na terra, não chameis a ninguém de pai, pois um só é vosso Pai, aquele que está nos céus. Não deixeis que vos chamem de guias, pois um só é o vosso Guia, Cristo. Pelo contrário, o maior dentre vós deve ser aquele que vos serve. Quem se exaltar será humilhado, e quem se humilhar será exaltado\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his disciples: 'You must not allow yourselves to be called Rabbi, since you have only one master, and you are all brothers. You must call no one on earth your father, since you have only one Father, and he is in heaven. Nor must you allow yourselves to be called teachers, for you have only one Teacher, the Christ. The greatest among you must be your servant. Anyone who exalts himself will be humbled, and anyone who humbles himself will exalted."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus discípulos:"
+       ],
+       [
+        "«Vosotros no os dejéis llamar “rabbí”, porque uno solo es vuestro maestro y todos vosotros sois hermanos."
+       ],
+       [
+        "Y no llaméis padre vuestro a nadie en la tierra, porque uno solo es vuestro Padre, el del cielo."
+       ],
+       [
+        "No os dejéis llamar maestros, porque uno solo es vuestro maestro, el Mesías."
+       ],
+       [
+        "El primero entre vosotros será vuestro servidor."
+       ],
+       [
+        "El que se enaltece será humillado, y el que se humilla será enaltecido»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse alla folla e ai suoi discepoli:"
+       ],
+       [
+        "«Voi non fatevi chiamare \"rabbi\", perché uno solo è il vostro Maestro e voi siete tutti fratelli. E non chiamate \"padre\" nessuno di voi sulla terra, perché uno solo è il Padre vostro, quello celeste. E non fatevi chiamare \"guide\", perché uno solo è la vostra Guida, il Cristo."
+       ],
+       [
+        "Chi tra voi è più grande, sarà vostro servo; chi invece si esalterà, sarà umiliato e chi si umilierà sarà esaltato»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses disciples :"
+       ],
+       [
+        "\" Ne vous faites pas donner le titre de Rabbi, car vous n'avez qu'un seul maître pour vous enseigner, et vous êtes tous frères. Ne donnez à personne sur terre le nom de père, car vous n'avez qu'un seul Père, celui qui est aux cieux. Ne vous faites pas non plus donner le titre de maîtres, car vous n'avez qu'un seul maître, le Christ. Le plus grand parmi vous sera votre serviteur. Qui s'élèvera sera abaissé, qui s'abaissera sera élevé. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Ihr sollt euch nicht Rabbi nennen lassen; denn nur einer ist euer Meister, ihr alle aber seid Brüder. Auch sollt ihr niemand auf Erden euren Vater nennen; denn nur einer ist euer Vater, der im Himmel. Auch sollt ihr euch nicht Lehrer nennen lassen; denn nur einer ist euer Lehrer, Christus."
+       ],
+       [
+        "Der Größte von euch soll euer Diener sein. Denn wer sich selbst erhöht, wird erniedrigt, und wer sich selbst erniedrigt, wird erhöht werden."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.3"
+  }
+ ],
+ "title": {
+  "la": "S. Bonaventuræ, episcopi et Ecclesiæ doctoris",
+  "pt-BR": "São Boaventura, bispo e doutor da Igreja",
+  "en-US": "St. Bonaventure, bishop and doctor of the Church",
+  "es": "San Buenaventura, obispo y doctor de la Iglesia",
+  "it": "San Bonaventura, vescovo e dottore della Chiesa",
+  "fr": "Saint Bonaventure, évêque et docteur de l'Église",
+  "de": "Hl. Bonaventura, Bischof, Kirchenlehrer"
+ }
+}

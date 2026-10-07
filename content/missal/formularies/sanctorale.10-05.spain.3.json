@@ -1,1 +1,314 @@
-{"id":"sanctorale.10-05.spain.3","source":"santos/santos_oct#10053","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["5 de octubre"],["Témporas de acción de gracias y de petición"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Misas para cuando las Témporas se celebran en tres días"]]}]},"part":"title"},{"text":{"*":[{"k":"h3","lines":[["Día penitencial"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"La celebración del día penitencial se hará, si es posible, el viernes siguiente al de octubre o, si el 5 de octubre es viernes, el día 6 o uno de los días de la semana siguiente. Es de alabar que en este día tenga lugar, además de la misa por el perdón de los pecados, una celebración comunitaria del sacramento de la penitencia."}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sb 11, 24. 25. 27"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Te compadeces de todos, Señor, y no aborreces nada de lo que hiciste: pasas por alto los pecados de los hombres para que se arrepientan, y los perdonas, porque tú eres nuestro Dios y Señor."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Te pedimos, Señor, que bondadosamente"],["escuches las súplicas y perdones las culpas"],["de quienes ante ti nos reconocemos pecadores,"],["y nos concedas benigno la misericordia y la paz."],["Por nuestro Señor Jesucristo."]]}]},"part":"collect"},{"text":{"*":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Te ofrecemos, Señor,"],["estos dones de expiación y alabanza,"],["para que perdones misericordiosamente nuestros pecados"],["y dirijas nuestros corazones vacilantes."],["Por Jesucristo, nuestro Señor."]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"h4","lines":[["Prefacio"]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["El más apropiado es el Prefacio común"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Lc 15, 10"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Habrá gran alegría entre los ángeles de Dios por un solo pecador que se convierta."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración después de la comunión"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Concédenos, Dios misericordioso,"],["que, al apreciar por esta comunión el perdón de los pecados,"],["en adelante podamos evitarlos con tu ayuda"],["y servirte con sincero corazón."],["Por Jesucristo, nuestro Señor."]]}]},"part":"postcommunion"}],"precedence":12,"title":{"*":"Témporas de acción de gracias y de petición"}}
+{
+ "id": "sanctorale.10-05.spain.3",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "5 de octubre"
+       ],
+       [
+        "Témporas de acción de gracias y de petición"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Misas para cuando las Témporas se celebran en tres días"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Día penitencial"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "La celebración del día penitencial se hará, si es posible, el viernes siguiente al de octubre o, si el 5 de octubre es viernes, el día 6 o uno de los días de la semana siguiente. Es de alabar que en este día tenga lugar, además de la misa por el perdón de los pecados, una celebración comunitaria del sacramento de la penitencia."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sb 11, 24. 25. 27"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te compadeces de todos, Señor, y no aborreces nada de lo que hiciste: pasas por alto los pecados de los hombres para que se arrepientan, y los perdonas, porque tú eres nuestro Dios y Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Señor, que bondadosamente"
+       ],
+       [
+        "escuches las súplicas y perdones las culpas"
+       ],
+       [
+        "de quienes ante ti nos reconocemos pecadores,"
+       ],
+       [
+        "y nos concedas benigno la misericordia y la paz."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te ofrecemos, Señor,"
+       ],
+       [
+        "estos dones de expiación y alabanza,"
+       ],
+       [
+        "para que perdones misericordiosamente nuestros pecados"
+       ],
+       [
+        "y dirijas nuestros corazones vacilantes."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El más apropiado es el Prefacio común"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Lc 15, 10"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habrá gran alegría entre los ángeles de Dios por un solo pecador que se convierta."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concédenos, Dios misericordioso,"
+       ],
+       [
+        "que, al apreciar por esta comunión el perdón de los pecados,"
+       ],
+       [
+        "en adelante podamos evitarlos con tu ayuda"
+       ],
+       [
+        "y servirte con sincero corazón."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 12,
+ "title": {
+  "*": "Témporas de acción de gracias y de petición"
+ }
+}

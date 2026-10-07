@@ -1,1 +1,1828 @@
-{"id":"sanctorale.09-20","source":"lecturas/lecturas_santos_sep#0920","items":[{"slot":"92","text":{"la":[{"k":"h2","lines":[["Die 20 septembris"],["Ss. Andreæ Kim Tae-gon, presbyteri, et Pauli Chong Ha-sang, et sociorum, martyrum"]]},{"k":"h3","lines":[["Memoria"]]}],"pt-BR":[{"k":"h2","lines":[["20 de Setembro"],["Santos André Kim Taegón, presbítero, Paulo Chóng Hasang, e seus Companheiros, mártires"]]},{"k":"h3","lines":[["Memória"]]}],"en-US":[{"k":"h2","lines":[["September 20"],["Ss Andrew Kim Taegon, priest, Paul Chong Hasang, and companions, martyrs"]]}],"es":[{"k":"h2","lines":[["20 de septiembre"],["San Andrés Kim Taegon, presbítero, y san Pablo Chong Hasang y compañeros, mártires"]]},{"k":"h3","lines":[["Memoria"]]}],"it":[{"k":"h2","lines":[["Die 20 septembris"],["Santi Andrea Kim Taegŏn, sacerdote e Paolo Chŏng Hasang e Compagni martiri"]]},{"k":"h3","lines":[["Memoria"]]}],"fr":[{"k":"h2","lines":[["20 septembre"],["Saint André Kim Tae-gon, prêtre, saint Paul Chong Ha-sang et leurs compagnons, martyrs"]]},{"k":"h3","lines":[["Mémoire"]]}],"de":[{"k":"h2","lines":[["20. September"],["Hl. Andreas Kim Taegon, Priester, und hl. Paulus Chong Hasang und Gefährten, Märtyrer"]]},{"k":"h3","lines":[["Gedenktag"]]}]}},{"slot":"93","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.cm1f5"}]]}]},"part":"firstReading"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"4"}]]}]},"role":"rubric","part":"psalm","from":"readings.cms4"},{"slot":"47","text":{"la":[{"k":"p","lines":[],"cite":"Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"pt-BR":[{"k":"p","lines":[],"cite":"Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"en-US":[{"k":"p","lines":[],"cite":"Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"es":[{"k":"p","lines":[],"cite":"Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"it":[{"k":"p","lines":[],"cite":"Salmo 125 (126)","role":"title"}],"fr":[{"k":"p","lines":[],"cite":"Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"de":[{"k":"p","lines":[],"cite":"Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 5)","role":"title"}]},"part":"psalm","from":"readings.cms4"},{"slot":"48","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"49","text":{"la":[{"k":"p","lines":[["In converténdo Dóminus captivitátem Sion,"],["facti sumus quasi somniántes."],["Tunc replétum est gáudio os nostrum,"],["et lingua nostra exsultatióne."]]}],"pt-BR":[{"k":"p","lines":[["Quando o Senhor reconduziu nossos cativos, parecíamos sonhar; encheu-se de sorriso nossa boca, nossos lábios, de canções."]]}],"en-US":[{"k":"p","lines":[["When the Lord delivered Zion from bondage, it seemed like a dream. Then was our mouth filled with laughter, on our lips there were songs."]]}],"es":[{"k":"p","lines":[["Cuando el Señor hizo volver a los cautivos de Sion, nos parecía soñar:"],["la boca se nos llenaba de risas,"],["la lengua de cantares."]]}],"it":[{"k":"p","lines":[["Quando il Signore ristabilì la sorte di Sion,"],["ci sembrava di sognare."],["Allora la nostra bocca si riempì di sorriso,"],["la nostra lingua di gioia."]]}],"fr":[{"k":"p","lines":[["Quand le Seigneur ramena les captifs à Sion, *"],["nous étions comme en rêve !"],["Alors notre bouche était pleine de rires,"],["nous poussions des cris de joie"]]}],"de":[{"k":"p","lines":[["Als der Herr das Los der Gefangenschaft Zion wendete,"],["da waren wir alle wie Träumende."],["Da war unser Mund voll Lachen"],["und unsere Zunge voll Jubel."]]}]},"role":"verse","part":"psalm","from":"readings.cms4"},{"slot":"50","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"51","text":{"la":[{"k":"p","lines":[["Tunc dicébant inter gentes:"],["«Magnificávit Dóminus fácere cum eis»."],["Magnificávit Dóminus fácere nobíscum;"],["facti sumus lætántes."]]}],"pt-BR":[{"k":"p","lines":[["Entre os gentios se dizia: \"Maravilhas fez com eles o Senhor!\" Sim, maravilhas fez conosco o Senhor, exultemos de alegria!"]]}],"en-US":[{"k":"p","lines":[["The heathens themselves said: 'What marvels the Lord worked for them!' What marvels the Lord worked for us! Indeed we were glad."]]}],"es":[{"k":"p","lines":[["Hasta los gentiles decían:"],["«El Señor ha estado grande con ellos»."],["El Señor ha estado grande con nosotros,"],["y estamos alegres."]]}],"it":[{"k":"p","lines":[["Allora si diceva tra le genti:"],["«Il Signore ha fatto grandi cose per loro»."],["Grandi cose ha fatto il Signore per noi:"],["eravamo pieni di gioia."]]}],"fr":[{"k":"p","lines":[["Alors on disait parmi les nations :"],["\" Quelles merveilles fait pour eux le Seigneur ! \""],["Quelles merveilles le Seigneur fit pour nous :"],["nous étions en grande fête !"]]}],"de":[{"k":"p","lines":[["Da sagte man unter den andern Völkern:"],["„Der Herr hat an ihnen Großes getan.“"],["Ja, Großes hat der Herr an uns getan."],["Da waren wir fröhlich."]]}]},"role":"verse","part":"psalm","from":"readings.cms4"},{"slot":"52","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"53","text":{"la":[{"k":"p","lines":[["Convérte, Dómine, captivitátem nostram,"],["sicut torréntes in austro."],["Qui séminant in lácrimis,"],["in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[["Mudai a nossa sorte, ó Senhor, como torrentes no deserto. Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[["Deliver us, O Lord, from our bondage as streams in dry land. Those who are sowing in tears will sing when they reap."]]}],"es":[{"k":"p","lines":[["Recoge, Señor, a nuestros cautivos"],["como los torrentes del Negueb."],["Los que sembraban con lágrimas"],["cosechan entre cantares."]]}],"it":[{"k":"p","lines":[["Ristabilisci, Signore, la nostra sorte,"],["come i torrenti del Negheb."],["Chi semina nelle lacrime mieterà"],["nella gioia."]]}],"fr":[{"k":"p","lines":[["Ramène, Seigneur, nos captifs,"],["comme les torrents au désert."],["Qui sème dans les larmes"],["moissonne dans la joie. +"]]}],"de":[{"k":"p","lines":[["Wende doch, Herr, unser Geschick,"],["wie du versiegte Bäche wieder füllst im Südland."],["Die mit Tränen säen,"],["werden mit Jubel ernten."]]}]},"role":"verse","part":"psalm","from":"readings.cms4"},{"slot":"54","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"55","text":{"la":[{"k":"p","lines":[["Eúntes ibant et flebant,"],["semen spargéndum portántes;"],["veniéntes autem vénient in exsultatióne"],["portántes manípulos suos."]]}],"pt-BR":[{"k":"p","lines":[["Chorando de tristeza sairão, espalhando suas sementes; cantando de alegria voltarão, carregando os seus feixes!"]]}],"en-US":[{"k":"p","lines":[["They go out, they go our, full of tears, carrying seed for the sowing: they come back, they come back, full of song, carrying their sheaves."]]}],"es":[{"k":"p","lines":[["Al ir, iba llorando,"],["llevando la semilla;"],["al volver, vuelve cantando,"],["trayendo sus gavillas."]]}],"it":[{"k":"p","lines":[["Nell'andare, se ne va piangendo,"],["portando la semente da gettare,"],["ma nel tornare, viene con gioia,"],["portando i suoi covoni."]]}],"fr":[{"k":"p","lines":[["Il s'en va, il s'en va en pleurant,"],["il jette la semence ;"],["il s'en vient, il s'en vient dans la joie,"],["il rapporte les gerbes."]]}],"de":[{"k":"p","lines":[["Sie gehen hin unter Tränen"],["und tragen den Samen zur Aussaat."],["Sie kommen wieder mit Jubel"],["und bringen ihre Garben ein."]]}]},"role":"verse","part":"psalm","from":"readings.cms4"},{"slot":"56","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"94","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.cmaly1"}]]}]},"part":"acclamation"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"4"}]]}]},"role":"rubric","part":"gospel","from":"readings.cmev4"},{"slot":"95","text":{"la":[{"k":"p","lines":[["Qui perdiderit animam suam propter me, hic salvem faciet illam."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Lucam"]],"cite":"9, 23-26","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Quem perder a sua vida por causa de mim, esse a salvará."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Lucas"]],"cite":"9, 23-26","role":"announcement"}],"en-US":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Luke"]],"cite":"9:23-26","role":"announcement"}],"es":[{"k":"p","lines":[["El que pierda su vida por mi causa la salvará"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Lucas"]],"cite":"9, 23-26","role":"announcement"}],"it":[{"k":"p","lines":[["Chi perderà la propria vita per causa mia, la salverà"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal Vangelo secondo Luca"]],"cite":"9, 23-26","role":"announcement"}],"fr":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Luc"]],"cite":"9, 23-26","role":"announcement"}],"de":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Lukas"]],"cite":"9, 23-26","role":"announcement"}]},"part":"gospel","from":"readings.cmev4"},{"slot":"96","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"role":"people","part":"gospel","from":"readings.cmev4"},{"slot":"97","text":{"la":[{"k":"p","lines":[["In illo témpore: Dicébat Iesus ad omnes:"]]},{"k":"p","lines":[["«Si quis vult post me veníre, ábneget semetípsum et tollat crucem suam cotídie et sequátur me. Qui enim volúerit ánimam suam salvam fácere, perdet illam; qui autem perdíderit ánimam suam propter me, hic salvam fáciet illam. Quid enim próficit homo, si lucrétur univérsum mundum, se autem ipsum perdat vel detriméntum sui fáciat? Nam qui me erubúerit et meos sermónes, hunc Fílius hóminis erubéscet, cum vénerit in glória sua et Patris et sanctórum angelórum»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, Jesus disse a todos: \"Se alguém me quer seguir, renuncie a si mesmo, tome a sua cruz cada dia, e siga-me. Pois quem quiser salvar a sua vida, vai perdê-la; e quem perder a sua vida por causa de mim, esse a salvará. Com efeito, de que adianta ao homem ganhar o mundo inteiro, se se perde e se destroi a si mesmo? Se alguém se envergonhar de mim e das minhas palavras, o Filho do homem também se enevergonhará dele, quando vier na sua glória, na glória do Pai e dos santos Anjos\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["Then he said to all, “If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it. What profit is there for one to gain the whole world yet lose or forfeit himself? Whoever is ashamed of me and of my words, the Son of Man will be ashamed of when he comes in his glory and in the glory of the Father and of the holy angels.”"]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, decía Jesús a todos:"],["«Si alguno quiere venir en pos de mí, que se niegue a sí mismo, tome su cruz cada día y me siga. Pues el que quiera salvar su vida la perderá; pero el que pierda su vida por mi causa la salvará. ¿De qué le sirve a uno ganar el mundo entero sí se pierde o se arruina a sí mismo?"],["Pues si uno se avergüenza de mí y de mis palabras, también el Hijo del hombre se avergonzará de él cuando venga en su gloria, en la del Padre y en la de los ángeles santos»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, Gesù, a tutti, diceva:"],["«Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce ogni giorno e mi segua."],["Chi vuole salvare la propria vita, la perderà, ma chi perderà la propria vita per causa mia, la salverà."],["Infatti, quale vantaggio ha un uomo che guadagna il mondo intero, ma perde o rovina se stesso?"],["Chi si vergognerà di me e delle mie parole, di lui si vergognerà il Figlio dell'uomo quando verrà nella gloria sua e del Padre e degli angeli santi»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, Jésus disait à tous :"],["\" Celui qui veut marcher à ma suite, qu'il renonce à lui-même, qu'il prenne sa croix chaque jour et qu'il me suive. Car celui qui veut sauver sa vie la perdra ; mais celui qui perdra sa vie à cause de moi la sauvera. Quel avantage un homme aura-t-il à gagner le monde entier, s'il se perd ou se ruine lui-même ? Celui qui a honte de moi et de mes paroles, le Fils de l'homme aura honte de lui, quand il viendra dans la gloire, la sienne, celle du Père et des saints anges. \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit sprach Jesus zu der Menge:"],["Wer mein Jünger sein will, der verleugne sich selbst, nehme täglich sein Kreuz auf sich und folge mir nach. Denn wer sein Leben retten will, wird es verlieren; wer aber sein Leben um meinetwillen verliert, der wird es retten. Was nützt es einem Menschen, wenn er die ganze Welt gewinnt, dabei aber sich selbst verliert und Schaden nimmt? Denn wer sich meiner und meiner Worte schämt, dessen wird sich der Menschensohn schämen, wenn er in seiner Hoheit kommt und in der Hoheit des Vaters und der heiligen Engel."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel","from":"readings.cmev4"},{"slot":"98","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel","from":"readings.cmev4"}],"title":{"la":"Ss. Andreæ Kim Tae-gon, presbyteri, et Pauli Chong Ha-sang, et sociorum, martyrum","pt-BR":"Santos André Kim Taegón, presbítero, Paulo Chóng Hasang, e seus Companheiros, mártires","en-US":"Ss Andrew Kim Taegon, priest, Paul Chong Hasang, and companions, martyrs","es":"San Andrés Kim Taegon, presbítero, y san Pablo Chong Hasang y compañeros, mártires","it":"Santi Andrea Kim Taegŏn, sacerdote e Paolo Chŏng Hasang e Compagni martiri","fr":"Saint André Kim Tae-gon, prêtre, saint Paul Chong Ha-sang et leurs compagnons, martyrs","de":"Hl. Andreas Kim Taegon, Priester, und hl. Paulus Chong Hasang und Gefährten, Märtyrer"}}
+{
+ "id": "sanctorale.09-20",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 20 septembris"
+       ],
+       [
+        "Ss. Andreæ Kim Tae-gon, presbyteri, et Pauli Chong Ha-sang, et sociorum, martyrum"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 de Setembro"
+       ],
+       [
+        "Santos André Kim Taegón, presbítero, Paulo Chóng Hasang, e seus Companheiros, mártires"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "September 20"
+       ],
+       [
+        "Ss Andrew Kim Taegon, priest, Paul Chong Hasang, and companions, martyrs"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 de septiembre"
+       ],
+       [
+        "San Andrés Kim Taegon, presbítero, y san Pablo Chong Hasang y compañeros, mártires"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 20 septembris"
+       ],
+       [
+        "Santi Andrea Kim Taegŏn, sacerdote e Paolo Chŏng Hasang e Compagni martiri"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 septembre"
+       ],
+       [
+        "Saint André Kim Tae-gon, prêtre, saint Paul Chong Ha-sang et leurs compagnons, martyrs"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20. September"
+       ],
+       [
+        "Hl. Andreas Kim Taegon, Priester, und hl. Paulus Chong Hasang und Gefährten, Märtyrer"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Gedenktag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.cm1f5"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "4"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Salmo 125 (126)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 5)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In converténdo Dóminus captivitátem Sion,"
+       ],
+       [
+        "facti sumus quasi somniántes."
+       ],
+       [
+        "Tunc replétum est gáudio os nostrum,"
+       ],
+       [
+        "et lingua nostra exsultatióne."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando o Senhor reconduziu nossos cativos, parecíamos sonhar; encheu-se de sorriso nossa boca, nossos lábios, de canções."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When the Lord delivered Zion from bondage, it seemed like a dream. Then was our mouth filled with laughter, on our lips there were songs."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cuando el Señor hizo volver a los cautivos de Sion, nos parecía soñar:"
+       ],
+       [
+        "la boca se nos llenaba de risas,"
+       ],
+       [
+        "la lengua de cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando il Signore ristabilì la sorte di Sion,"
+       ],
+       [
+        "ci sembrava di sognare."
+       ],
+       [
+        "Allora la nostra bocca si riempì di sorriso,"
+       ],
+       [
+        "la nostra lingua di gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quand le Seigneur ramena les captifs à Sion, *"
+       ],
+       [
+        "nous étions comme en rêve !"
+       ],
+       [
+        "Alors notre bouche était pleine de rires,"
+       ],
+       [
+        "nous poussions des cris de joie"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Als der Herr das Los der Gefangenschaft Zion wendete,"
+       ],
+       [
+        "da waren wir alle wie Träumende."
+       ],
+       [
+        "Da war unser Mund voll Lachen"
+       ],
+       [
+        "und unsere Zunge voll Jubel."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc dicébant inter gentes:"
+       ],
+       [
+        "«Magnificávit Dóminus fácere cum eis»."
+       ],
+       [
+        "Magnificávit Dóminus fácere nobíscum;"
+       ],
+       [
+        "facti sumus lætántes."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entre os gentios se dizia: \"Maravilhas fez com eles o Senhor!\" Sim, maravilhas fez conosco o Senhor, exultemos de alegria!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The heathens themselves said: 'What marvels the Lord worked for them!' What marvels the Lord worked for us! Indeed we were glad."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hasta los gentiles decían:"
+       ],
+       [
+        "«El Señor ha estado grande con ellos»."
+       ],
+       [
+        "El Señor ha estado grande con nosotros,"
+       ],
+       [
+        "y estamos alegres."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allora si diceva tra le genti:"
+       ],
+       [
+        "«Il Signore ha fatto grandi cose per loro»."
+       ],
+       [
+        "Grandi cose ha fatto il Signore per noi:"
+       ],
+       [
+        "eravamo pieni di gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors on disait parmi les nations :"
+       ],
+       [
+        "\" Quelles merveilles fait pour eux le Seigneur ! \""
+       ],
+       [
+        "Quelles merveilles le Seigneur fit pour nous :"
+       ],
+       [
+        "nous étions en grande fête !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Da sagte man unter den andern Völkern:"
+       ],
+       [
+        "„Der Herr hat an ihnen Großes getan.“"
+       ],
+       [
+        "Ja, Großes hat der Herr an uns getan."
+       ],
+       [
+        "Da waren wir fröhlich."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Convérte, Dómine, captivitátem nostram,"
+       ],
+       [
+        "sicut torréntes in austro."
+       ],
+       [
+        "Qui séminant in lácrimis,"
+       ],
+       [
+        "in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mudai a nossa sorte, ó Senhor, como torrentes no deserto. Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deliver us, O Lord, from our bondage as streams in dry land. Those who are sowing in tears will sing when they reap."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recoge, Señor, a nuestros cautivos"
+       ],
+       [
+        "como los torrentes del Negueb."
+       ],
+       [
+        "Los que sembraban con lágrimas"
+       ],
+       [
+        "cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ristabilisci, Signore, la nostra sorte,"
+       ],
+       [
+        "come i torrenti del Negheb."
+       ],
+       [
+        "Chi semina nelle lacrime mieterà"
+       ],
+       [
+        "nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ramène, Seigneur, nos captifs,"
+       ],
+       [
+        "comme les torrents au désert."
+       ],
+       [
+        "Qui sème dans les larmes"
+       ],
+       [
+        "moissonne dans la joie. +"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wende doch, Herr, unser Geschick,"
+       ],
+       [
+        "wie du versiegte Bäche wieder füllst im Südland."
+       ],
+       [
+        "Die mit Tränen säen,"
+       ],
+       [
+        "werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eúntes ibant et flebant,"
+       ],
+       [
+        "semen spargéndum portántes;"
+       ],
+       [
+        "veniéntes autem vénient in exsultatióne"
+       ],
+       [
+        "portántes manípulos suos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chorando de tristeza sairão, espalhando suas sementes; cantando de alegria voltarão, carregando os seus feixes!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "They go out, they go our, full of tears, carrying seed for the sowing: they come back, they come back, full of song, carrying their sheaves."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al ir, iba llorando,"
+       ],
+       [
+        "llevando la semilla;"
+       ],
+       [
+        "al volver, vuelve cantando,"
+       ],
+       [
+        "trayendo sus gavillas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nell'andare, se ne va piangendo,"
+       ],
+       [
+        "portando la semente da gettare,"
+       ],
+       [
+        "ma nel tornare, viene con gioia,"
+       ],
+       [
+        "portando i suoi covoni."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il s'en va, il s'en va en pleurant,"
+       ],
+       [
+        "il jette la semence ;"
+       ],
+       [
+        "il s'en vient, il s'en vient dans la joie,"
+       ],
+       [
+        "il rapporte les gerbes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sie gehen hin unter Tränen"
+       ],
+       [
+        "und tragen den Samen zur Aussaat."
+       ],
+       [
+        "Sie kommen wieder mit Jubel"
+       ],
+       [
+        "und bringen ihre Garben ein."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.cmaly1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "4"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "gospel",
+   "from": "common.martyrs.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui perdiderit animam suam propter me, hic salvem faciet illam."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Lucam"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quem perder a sua vida por causa de mim, esse a salvará."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Luke"
+       ]
+      ],
+      "cite": "9:23-26",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que pierda su vida por mi causa la salvará"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Lucas"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi perderà la propria vita per causa mia, la salverà"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Luca"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Luc"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Lukas"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.martyrs.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.martyrs.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dicébat Iesus ad omnes:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Si quis vult post me veníre, ábneget semetípsum et tollat crucem suam cotídie et sequátur me. Qui enim volúerit ánimam suam salvam fácere, perdet illam; qui autem perdíderit ánimam suam propter me, hic salvam fáciet illam. Quid enim próficit homo, si lucrétur univérsum mundum, se autem ipsum perdat vel detriméntum sui fáciat? Nam qui me erubúerit et meos sermónes, hunc Fílius hóminis erubéscet, cum vénerit in glória sua et Patris et sanctórum angelórum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, Jesus disse a todos: \"Se alguém me quer seguir, renuncie a si mesmo, tome a sua cruz cada dia, e siga-me. Pois quem quiser salvar a sua vida, vai perdê-la; e quem perder a sua vida por causa de mim, esse a salvará. Com efeito, de que adianta ao homem ganhar o mundo inteiro, se se perde e se destroi a si mesmo? Se alguém se envergonhar de mim e das minhas palavras, o Filho do homem também se enevergonhará dele, quando vier na sua glória, na glória do Pai e dos santos Anjos\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Then he said to all, “If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it. What profit is there for one to gain the whole world yet lose or forfeit himself? Whoever is ashamed of me and of my words, the Son of Man will be ashamed of when he comes in his glory and in the glory of the Father and of the holy angels.”"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, decía Jesús a todos:"
+       ],
+       [
+        "«Si alguno quiere venir en pos de mí, que se niegue a sí mismo, tome su cruz cada día y me siga. Pues el que quiera salvar su vida la perderá; pero el que pierda su vida por mi causa la salvará. ¿De qué le sirve a uno ganar el mundo entero sí se pierde o se arruina a sí mismo?"
+       ],
+       [
+        "Pues si uno se avergüenza de mí y de mis palabras, también el Hijo del hombre se avergonzará de él cuando venga en su gloria, en la del Padre y en la de los ángeles santos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù, a tutti, diceva:"
+       ],
+       [
+        "«Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce ogni giorno e mi segua."
+       ],
+       [
+        "Chi vuole salvare la propria vita, la perderà, ma chi perderà la propria vita per causa mia, la salverà."
+       ],
+       [
+        "Infatti, quale vantaggio ha un uomo che guadagna il mondo intero, ma perde o rovina se stesso?"
+       ],
+       [
+        "Chi si vergognerà di me e delle mie parole, di lui si vergognerà il Figlio dell'uomo quando verrà nella gloria sua e del Padre e degli angeli santi»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à tous :"
+       ],
+       [
+        "\" Celui qui veut marcher à ma suite, qu'il renonce à lui-même, qu'il prenne sa croix chaque jour et qu'il me suive. Car celui qui veut sauver sa vie la perdra ; mais celui qui perdra sa vie à cause de moi la sauvera. Quel avantage un homme aura-t-il à gagner le monde entier, s'il se perd ou se ruine lui-même ? Celui qui a honte de moi et de mes paroles, le Fils de l'homme aura honte de lui, quand il viendra dans la gloire, la sienne, celle du Père et des saints anges. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu der Menge:"
+       ],
+       [
+        "Wer mein Jünger sein will, der verleugne sich selbst, nehme täglich sein Kreuz auf sich und folge mir nach. Denn wer sein Leben retten will, wird es verlieren; wer aber sein Leben um meinetwillen verliert, der wird es retten. Was nützt es einem Menschen, wenn er die ganze Welt gewinnt, dabei aber sich selbst verliert und Schaden nimmt? Denn wer sich meiner und meiner Worte schämt, dessen wird sich der Menschensohn schämen, wenn er in seiner Hoheit kommt und in der Hoheit des Vaters und der heiligen Engel."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.martyrs.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.martyrs.gospel.4"
+  }
+ ],
+ "title": {
+  "la": "Ss. Andreæ Kim Tae-gon, presbyteri, et Pauli Chong Ha-sang, et sociorum, martyrum",
+  "pt-BR": "Santos André Kim Taegón, presbítero, Paulo Chóng Hasang, e seus Companheiros, mártires",
+  "en-US": "Ss Andrew Kim Taegon, priest, Paul Chong Hasang, and companions, martyrs",
+  "es": "San Andrés Kim Taegon, presbítero, y san Pablo Chong Hasang y compañeros, mártires",
+  "it": "Santi Andrea Kim Taegŏn, sacerdote e Paolo Chŏng Hasang e Compagni martiri",
+  "fr": "Saint André Kim Tae-gon, prêtre, saint Paul Chong Ha-sang et leurs compagnons, martyrs",
+  "de": "Hl. Andreas Kim Taegon, Priester, und hl. Paulus Chong Hasang und Gefährten, Märtyrer"
+ }
+}

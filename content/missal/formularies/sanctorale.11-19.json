@@ -1,1 +1,273 @@
-{"id":"sanctorale.11-19","source":"santos/santos_nov#1119","kind":"sanctoral","items":[{"text":{"*":[{"k":"h2","lines":[["19 de novembro"],["São Roque González, Santo Afonso Rodriguez e São João del Castilho, prebíteros, mártires"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Roque González de Santa Cruz nasceu em 1576 na cidade de Assunção (Paraguai). Era já sacerdote quando entrou na Companhia de Jesus em 1609, e, durante quase vinte anos, procurou civilizar os habitantes das florestas daquelas regiões, agrupando-os nas \"Reduções\" e instruindo-os na fé e nos costumes cristãos. Foi morto traiçoeiramente por causa da fé a 15 de novembro de 1628, juntamente com Afonso Rodríguez, espanhol. Dois dias mais tarde, noutra \"Redução\", sofreu cruel martírio João del Castillo, também espanhol, que tinha sido ardente defensor dos índios contra seus opressores. Estes três sacerdotes jesuítas, martirizados na região do Rio da Prata, foram beatificados por Pio XI em 1937, e canonizados pelo Papa João Paulo II, quando da sua visita apostólica ao Paraguai, no dia 16 de maio de 1988, em Assunção."]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Antífona de entrada"]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Por amor de Cristo, o sangue dos mártires foi derramado na terra. Por isso, sua recompensa é eterna."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oração do dia"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Senhor, que a vossa palavra cresça nas terras onde os vossos mártires a semearam e seja multiplicada em frutos de justiça e de paz. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo."]]}]},"part":"collect"},{"text":{"*":[{"k":"h4","lines":[["Oração sobre as oferendas"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Com alegria, Senhor, nós vos oferecemos os frutos da terra, a fim de que pelo sacrifício que vosso Filho ofereceu por todos, nos concedais a bênção e a santidade.Por Cristo, nosso Senhor"]]}]},"part":"prayerOverOfferings"},{"slot":"182","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Lc 22, 28-30"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Foste vós que permancestes comigo nas minhas tribulações. E eu disponho do Reino para vós, diz o Senhor. No meu Reino comereis e bebereis à minha mesa."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oração depois da comunhão"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Senhor, que os vossos fiéis, vivam na fé e na caridade, pois repartem com os irmãos o pão da vida e, até a vossa vinda, bebam o cálice da salvação. Por Cristo, nosso Senhor."]]}]},"part":"postcommunion"}],"precedence":12,"prefaces":["preface.54","preface.55"],"title":{"*":"São Roque González, Santo Afonso Rodriguez e São João del Castilho, prebíteros, mártires"}}
+{
+ "id": "sanctorale.11-19",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de novembro"
+       ],
+       [
+        "São Roque González, Santo Afonso Rodriguez e São João del Castilho, prebíteros, mártires"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Roque González de Santa Cruz nasceu em 1576 na cidade de Assunção (Paraguai). Era já sacerdote quando entrou na Companhia de Jesus em 1609, e, durante quase vinte anos, procurou civilizar os habitantes das florestas daquelas regiões, agrupando-os nas \"Reduções\" e instruindo-os na fé e nos costumes cristãos. Foi morto traiçoeiramente por causa da fé a 15 de novembro de 1628, juntamente com Afonso Rodríguez, espanhol. Dois dias mais tarde, noutra \"Redução\", sofreu cruel martírio João del Castillo, também espanhol, que tinha sido ardente defensor dos índios contra seus opressores. Estes três sacerdotes jesuítas, martirizados na região do Rio da Prata, foram beatificados por Pio XI em 1937, e canonizados pelo Papa João Paulo II, quando da sua visita apostólica ao Paraguai, no dia 16 de maio de 1988, em Assunção."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por amor de Cristo, o sangue dos mártires foi derramado na terra. Por isso, sua recompensa é eterna."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração do dia"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, que a vossa palavra cresça nas terras onde os vossos mártires a semearam e seja multiplicada em frutos de justiça e de paz. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração sobre as oferendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Com alegria, Senhor, nós vos oferecemos os frutos da terra, a fim de que pelo sacrifício que vosso Filho ofereceu por todos, nos concedais a bênção e a santidade.Por Cristo, nosso Senhor"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Lc 22, 28-30"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Foste vós que permancestes comigo nas minhas tribulações. E eu disponho do Reino para vós, diz o Senhor. No meu Reino comereis e bebereis à minha mesa."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração depois da comunhão"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, que os vossos fiéis, vivam na fé e na caridade, pois repartem com os irmãos o pão da vida e, até a vossa vinda, bebam o cálice da salvação. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "title": {
+  "*": "São Roque González, Santo Afonso Rodriguez e São João del Castilho, prebíteros, mártires"
+ }
+}

@@ -1,1 +1,2773 @@
-{"id":"common.dedication-of-a-church.1","source":"comunes_votivas/comunes_ded#ded1","kind":"common","items":[{"slot":"1","text":{"la":[{"k":"h2","lines":[["COMMUNE DEDICATIONIS ECCLESIÆ"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DA DEDICAÇÃO DE UMA IGREJA"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF THE DEDICATION OF A CHURCH"]]}],"es":[{"k":"h2","lines":[["COMÚN DE LA DEDICACIÓN DE UNA IGLESIA"]]}],"it":[{"k":"h2","lines":[["COMUNE DELLA DEDICAZIONE DELLA CHIESA"]]}],"fr":[{"k":"h2","lines":[["COMMUN DE LA DÉDICACE"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE FÜR KIRCHWEIHE"]]}]},"part":"title"},{"slot":"2","text":{"la":[{"k":"h2","lines":[["IN ANNIVERSARIO DEDICATIONIS"]]}],"pt-BR":[{"k":"h2","lines":[["NO ANIVERSÁRIO DA DEDICAÇÃO"]]}],"en-US":[{"k":"h2","lines":[["ON THE ANNIVERSARY OF THE DEDICATION"]]}],"es":[{"k":"h2","lines":[["En el aniversario de la Dedicación"]]}],"it":[{"k":"h2","lines":[["NELL'ANNIVERSARIO DELLA DEDICAZIONE"]]}],"fr":[{"k":"h2","lines":[["POUR L'ANNIVERSAIRE DE LA DÉDICACE"]]}],"de":[{"k":"h2","lines":[["BEIM JAHRESGEDÄCHTNIS EINER KIRCHWEIHE"]]}]},"part":"title"},{"slot":"3","text":{"la":[{"k":"h3","lines":[["I. In ipsa ecclesia dedicata"]]}],"pt-BR":[{"k":"h3","lines":[["I. Na própria igreja dedicada"]]}],"en-US":[{"k":"h3","lines":[["I. In the Church that was Dedicated"]]}],"es":[{"k":"h3","lines":[["I. En la misma iglesia dedicada"]]}],"it":[{"k":"h3","lines":[["I. Nella chiesa di cui si celebra la dedicazione"]]}],"fr":[{"k":"h3","lines":[["I. Dans l'église consacrée"]]}],"de":[{"k":"h3","lines":[["A. In der Kirche, deren Weihefest begangen wird"]]}]},"part":"title"},{"slot":"4","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ps 67, 36"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Sl 67, 36"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Ps 67, 36"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 67, 36"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 67, 36"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ps 67, 36"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 68 (67), 36"}]},"part":"entranceAntiphon"},{"slot":"5","text":{"la":[{"k":"p","lines":[["Mirábilis, Deus, de sanctuário tuo! Deus Israel ipse tríbuet virtútem et fortitúdinem plebi suæ. Benedíctus Deus! ",{"m":"rubric","t":"(T. P. "},"allelúia ",{"m":"rubric","t":")."}]]}],"pt-BR":[{"k":"p","lines":[["Deus em seu templo é admirável e a seu povo dá poder. Bendito seja o Senhor Deus, agora e sempre, amém ",{"m":"rubric","t":"(T. P. "},"aleluia ",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["Wonderful are you, O God in your holy place. The God of Israel himself gives his people strength and courage. Blessed be God! ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Desde el santuario, Dios impone reverencia: es el Dios de Israel quien da fuerza y poder a su pueblo. ¡Dios sea bendito! ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Terribile tu sei, o Dio, nel tuo santuario. È lui, il Dio d'Israele, che dà forza e vigore al suo popolo. Sia benedetto Dio ",{"m":"rubric","t":"(T. P. "},"alleluia ",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Dieu est admirable dans son temple saint,"],["le Dieu d'Israël,"],["c'est lui qui donne à son peuple force et puissance."],["Béni soit Dieu ! ",{"m":"rubric","t":"(T. P. "},"alléluia ",{"m":"rubric","t":")."}]]}],"de":[{"k":"p","lines":[["Gott in seinem Heiligtum ist voll Majestät, Israels Gott; seinem Volk verleiht er Stärke und Kraft. Gepriesen sei Gott ",{"m":"rubric","t":"(Österl. Zeit "},"Halleluja",{"m":"rubric","t":")"},"."]]}]},"part":"entranceAntiphon"},{"slot":"6","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},"Glória in excélsis."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},"Glória."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The GLORIA can be said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Gloria."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},"Gloria."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Gloria."}]]}]},"part":"gloria"},{"slot":"7","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"8","text":{"la":[{"k":"p","lines":[["Deus, qui nobis per síngulos annos huius sancti templi tui consecratiónis réparas diem, exáudi preces pópuli tui, et præsta, ut fiat hic tibi semper purum servítium et nobis plena redémptio. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, cada ano nos fazeis reviver a dedicação deste templo santo;"],["ouvi as preces do vosso povo"],["e concedei que, neste lugar, celebremos um culto perfeito"],["e alcancemos plenamente os frutos da redenção."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who year by year renew for us the day when this your holy temple was consecrated, hear the prayers of your people and grant that in this place for you there may always be pure worship and for us, fullness of redemption."],["Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Señor, que nos haces revivir cada año"],["el día de la consagración de este santo templo tuyo,"],["escucha las plegarias de tu pueblo,"],["y haz que en este lugar"],["se te ofrezca siempre un servicio digno"],["y obtengamos la plenitud de la redención."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Ascolta, o Padre, le preghiere del tuo popolo che ricorda con gioia il giorno della dedicazione di questo santo tempio, perché la comunità che qui si raduna possa offrirti un servizio puro e irreprensibile e ottenga pienamente i frutti della redenzione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["chaque année, tu fais revivre pour nous"],["le jour où cette église a été consacrée ;"],["écoute les prières de ton peuple :"],["fais que l'on te serve toujours en ce lieu"],["dans la pureté du cœur"],["et que nous obtenions ici la plénitude de la rédemption."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles"]]}],"de":[{"k":"p","lines":[["Großer und heiliger Gott, jedes Jahr feiern wir den Weihetag dieses heiligen Hauses. Höre auf die Bitten deines Volkes. Hilf uns, dass wir an diesem Ort in rechter Gesinnung den heiligen Dienst vollziehen und den Reichtum der Erlösungsgnade empfangen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"9","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},"Credo."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},"Creio."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Credo"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On dit le "},"Credo",{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Credo."}]]}]},"part":"creed"},{"slot":"10","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"11","text":{"la":[{"k":"p","lines":[["Mémores diéi quo domum tuam, Dómine, glória dignátus es ac sanctitáte replére, nosmetípsos, quǽsumus, fac hóstias tibi semper accéptas. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, ao celebrar o dia"],["em que enchestes de glória e santidade a vossa casa,"],["fazei de nós oferendas que sempre vos agradem."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Recalling the day when you were pleased to fill your house with glory and holiness, O Lord, we pray that you may make of us a sacrificial offering always acceptable to you."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Al conmemorar el día"],["en que te dignaste llenar tu casa de gloria y santidad,"],["te rogamos, Señor, que hagas de nosotros"],["una ofrenda siempre agradable a ti."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accetta, o Signore, il sacrificio che ti offriamo nella memoria del giorno santo in cui hai riempito della tua presenza questo luogo a te dedicato, e fa' di noi un'offerta spirituale a te gradita. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Alors que nous rappelons devant toi, Seigneur,"],["le jour où tu as rempli ta maison"],["de gloire et de sainteté,"],["nous te prions de nous transformer nous-mêmes"],["en offrandes qui te soient toujours agréables."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Heiliger Gott, wir gedenken des Tages, an dem du dieses Haus zu eigen genommen und mit deiner Gegenwart erfüllt hast. Nimm die Gaben an, die wir an dieser Stätte darbringen, und mache auch uns selbst zu einer Gabe, die dir wohlgefällt. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"12","text":{"la":[{"k":"h4","lines":[["Præfatio"]]},{"k":"p","lines":[[{"m":"rubric","t":"De mysterio templi Dei, quod est Ecclesia."}]]},{"k":"p","lines":[["Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum."]]},{"k":"p","lines":[["Quia in domo visíbili quam nobis exstrúere concessísti, ubi famíliæ in hoc loco ad te peregrinánti favére non désinis, mystérium tuæ nobíscum communiónis mire figúras et operáris: hic enim tibi templum illud quod nos sumus ædíficas, et Ecclésiam per orbem diffúsam in domínici compágem córporis facis augéri, in pacis visióne compléndam, cælésti civitáte Ierúsalem."]]},{"k":"p","lines":[["Et ídeo, cum multitúdine órdinum beatórum, in templo glóriæ tuæ, te collaudámus, benedícimus et magnificámus, dicéntes:"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]},{"k":"p","lines":[[{"m":"rubric","t":"O mistério do templo de Deus, que é a Igreja."}]]},{"k":"p","lines":[["Na verdade, é digno e justo,"],["é nosso dever e salvação dar-vos graças,"],["sempre e em todo lugar,"],["Senhor, Pai santo,"],["Deus eterno e todo-poderoso,"],["por Cristo, Senhor nosso."]]},{"k":"p","lines":[["Pois, nesta casa visível,"],["que nos destes a graça de construir,"],["não deixais de conceder os vossos favores"],["à família que peregrina ao vosso encontro."]]},{"k":"p","lines":[["Neste lugar, manifestais e realizais de modo admirável"],["o mistério da vossa comunhão conosco,"],["porque aqui edificais para vós o templo que somos nós"],["e fazeis crescer a Igreja,"],["presente no mundo inteiro,"],["unida como corpo do Senhor,"],["até atingir a plenitude da paz, na Jerusalém celeste."]]},{"k":"p","lines":[["Por isso, nós vos louvamos"],["no templo da vossa glória"],["e, com a multidão dos Bem-aventurados,"],["vos bendizemos e vos glorificamos,"],["cantando (dizendo) a uma só voz:"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]},{"k":"p","lines":[[{"m":"rubric","t":"The mystery of the Temple of God, which is the Church. "}]]},{"k":"p","lines":[["It is truly right and just, our duty and our salvation,"],["always and everywhere to give you thanks,"],["Lord, holy Father, almighty and eternal God,"],["through Christ our Lord."]]},{"k":"p","lines":[["For in this visible house that you have let us build"],["and where you never cease to show favour"],["to the family on pilgrimage to you in this place,"],["you wonderfully manifest and accomplish"],["the mystery of your communion with us."]]},{"k":"p","lines":[["Here you build up for yourself the temple that we are"],["and cause your Church, spread throughout the world,"],["to grow ever more and more as the Lord's own Body,"],["till she reaches her fullness in the vision of peace,"],["the heavenly city of Jerusalem."]]},{"k":"p","lines":[["And so, with the countless ranks of the blessed,"],["in the temple of your glory we praise you,"],["we bless you and proclaim your greatness as we acclaim:"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]},{"k":"p","lines":[[{"m":"rubric","t":"EL MISTERIO DEL TEMPLO DE DIOS, QUE ES LA IGLESIA"}]]},{"k":"p","lines":[["En verdad es justo y necesario, es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo, Dios todopoderoso y eterno, por Cristo, Señor nuestro."]]},{"k":"p","lines":[["Porque en esta casa visible que hemos construido, donde reúnes y proteges sin cesar a esta familia que hacia ti peregrina, manifiestas y realizas de manera admirable el misterio de tu comunión con nosotros."]]},{"k":"p","lines":[["En este lugar, Señor, tú vas edificando aquel templo que somos nosotros, y así Ia Iglesia, extendida por toda la tierra, crece unida, como Cuerpo de Cristo, hasta llegar a ser la nueva Jerusalén, verdadera visión de paz."]]},{"k":"p","lines":[["Por eso, Señor, te celebramos en el templo de tu gloria, y con todos los ángeles te bendecimos y te glorificamos, diciendo:"]]}],"it":[{"k":"h4","lines":[["PREFAZIO"]]},{"k":"p","lines":[[{"m":"rubric","t":" Il mistero del tempio di Dio che è la Chiesa"}]]},{"k":"p","lines":[["È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."]]},{"k":"p","lines":[["Tu ci hai dato la gioia di costruirti una dimora visibile dove continui a colmare di favori la tua famiglia in cammino verso di te."]]},{"k":"p","lines":[["Qui manifesti e operi in modo mirabile il mistero della tua comunione con noi. Qui ci edifichi come tempio vivo, e fai crescere come corpo del Signore la tua Chiesa diffusa nel mondo, finché raggiunga la sua pienezza nella visione di pace della santa Gerusalemme del cielo."]]},{"k":"p","lines":[["E noi, uniti alle schiere degli angeli e dei santi, nel tempio della tua gloria ti lodiamo e ti benediciamo cantando la tua grandezza:"]]}],"fr":[{"k":"h4","lines":[["Préface"]]},{"k":"p","lines":[[{"m":"rubric","t":"Le mystère du temple de Dieu, qu'est l'Église"}]]},{"k":"p","lines":[["Vraiment, il est juste et bon,"],["pour ta gloire et notre salut,"],["de t'offrir notre action de grâce,"],["toujours et en tout lieu,"],["Seigneur, Père très saint,"],["Dieu éternel et tout-puissant,"],["par le Christ, notre Seigneur."]]},{"k":"p","lines":[["Dans la maison visible que tu nous as donné de construire,"],["en ce lieu où tu ne cesses d'accueillir"],["ta famille dans son pèlerinage vers toi,"],["tu nous offres le signe et la réalité admirables"],["du mystère de ta communion avec nous :"],["ici, tu construis pour toi le temple vivant que nous sommes,"],["et tu fais grandir l'Église, répandue dans le monde,"],["à la mesure du Corps du Seigneur,"],["pour qu'elle devienne, en plénitude,"],["vision de paix, cité céleste, Jérusalem."]]},{"k":"p","lines":[["C'est pourquoi, avec la multitude des bienheureux,"],["nous te louons, nous te bénissons et nous te glorifions"],["dans le temple de ta gloire, en proclamant :"]]}],"de":[{"k":"h4","lines":[["Präfation"]]},{"k":"p","lines":[[{"m":"rubric","t":"Die Kirche als Tempel Gottes"}]]},{"k":"p","lines":[["In Wahrheit ist es würdig uns recht, dir, Herr, heiliger Vater, allmächtiger, ewiger Gott, immer und überall zu danken."],["Zu deiner Ehre wurde dieses Haus errichtet, in dem du deine pilgernde Kirche versammelst, um ihr darin ein Bild deiner Gegenwart zu zeigen und ihr die Gnade deiner Gemeinschaft zu schenken."],["Denn du selbst erbaust dir einen Tempel aus lebendigen Steinen. Von allen Orten rufst du deine Kinder zusammen und fügst sie ein in den geheimnisvollen Leib deines Sohnes."],["Hier lenkst du unseren Blick auf das himmlische Jerusalem und gibst uns die Hoffnung, dort deinen Frieden zu schauen."],["Darum preisen wir dich in deiner Kirche und vereinen uns mit allen Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"]]}]},"part":"preface"},{"slot":"13","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. 1 Cor 3, 16-17"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. 1 Cor 3, 16-17"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. 1 Cor 3, 16-17"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"1Co 3, 16-17"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. 1 Cor 3, 16-17"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. 1 Cor 3, 16-17"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"1 Kor 3, 16-17"}]},"part":"communionAntiphon"},{"slot":"14","text":{"la":[{"k":"p","lines":[["Templum Dei estis, et Spíritus Dei hábitat in vobis. Templum Dei sanctum est, quod estis vos ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":")."}]]}],"pt-BR":[{"k":"p","lines":[["Sois o templo de Deus, e o Espírito de Deus habita em vós. O templo de Deus é santo. Esse templo sois vós ",{"m":"rubric","t":"(T. P. "},"aleluia ",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["You are the temple of God, and the Spirit of God dwells in you. The temple of God, which you are, is holy ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Sois templos de Dios y el Espíritu de Dios habita en vosotros. El templo de Dios es santo: y ese templo sois vosotros ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Siete tempio di Dio e lo Spirito di Dio abita in voi. Il tempio di Dio è santo, e questo tempio siete voi ",{"m":"rubric","t":"(T. P. "},"alleluia",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Vous êtes un sanctuaire de Dieu,"],["et l'Esprit de Dieu habite en vous."],["Le sanctuaire de Dieu est saint,"],["et ce sanctuaire, c'est vous ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":")."}]]}],"de":[{"k":"p","lines":[["Ihr seid Gottes Tempel, und der Geist Gottes wohnt in euch. Der Tempel Gottes ist heilig, und der seid ihr ",{"m":"rubric","t":"(Österl. Zeit "},"Halleluja",{"m":"rubric","t":")"},"."]]}]},"part":"communionAntiphon"},{"slot":"15","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"16","text":{"la":[{"k":"p","lines":[["Benedictiónis tuæ, quǽsumus, Dómine, plebs tibi sacra fructus repórtet et gáudium, ut, quod in huius festivitátis die corporáli servítio exhíbuit, spiritáliter se rettulísse cognóscat. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, concedei que o vosso povo santo"],["receba os frutos e a alegria da vossa bênção,"],["de modo que reconheça nesta celebração festiva"],["o dom espiritual de vossa graça."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May the people consecrated to you, O Lord, we pray, receive the fruits and joy of your blessing, that the festive homage they have offered you today in the body may redound upon them as a spiritual gift."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te rogamos, Señor,"],["que el pueblo a ti consagrado"],["reciba los frutos y el gozo de tu bendición,"],["para que vea recompensado en el espíritu el trabajo material"],["que ha ofrecido en este día de fiesta."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Concedi, o Padre i frutti e la gioia della tua benedizione al popolo a te consacrato, perché riconosca il dono spirituale ricevuto nei santi misteri che ha celebrato in questo giorno di festa. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Accorde au peuple qui t'est consacré, Seigneur,"],["de recueillir les fruits et la joie de ta bénédiction,"],["afin qu'ayant pris part à la liturgie de cette fête,"],["il sache en vivre spirituellement."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, am Weihetag dieser Kirche haben wir das Opfer des Lobes dargebracht. Mache diese Feier für uns zur Quelle der Gnade und der Freude, damit deine Gemeinde im Heiligen Geist zum Tempel deiner Herrlichkeit wird. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"17","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Benedictio in fine Missæ"}]]},{"k":"p","lines":[["Deus, Dóminus cæli et terræ, qui vos hódie ad huius domus dedicatiónis memóriam adunávit, ipse vos cælésti benedictióne fáciat abundáre."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["Concedátque vobis fíeri templum suum et habitáculum Spíritus Sancti, qui omnes fílios dispérsos vóluit in Fílio suo congregári."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["Quátenus felíciter emundáti, habitatórem Deum in vobismetípsis possítis habére, et ætérnæ beatitúdinis hereditátem cum ómnibus Sanctis possidére."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["Et benedíctio Dei omnipoténtis, Patris, et Fílii, ",{"m":"cross","t":"✠"}," et Spíritus Sancti, descéndat super vos et máneat semper."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Bênção Solene"}]]},{"k":"p","lines":[["Deus, o Senhor do céu e da terra,"],["que hoje vos reuniu para o aniversário da dedicação desta igreja,"],["vos conceda copiosas bênçãos do céu."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amém."]]},{"k":"p","lines":[["Deus, que em seu Filho quis congregar todos os filhos dispersos, faça de vós seu templo e morada do Espírito Santo."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amém."]]},{"k":"p","lines":[["E, assim, na felicidade de serdes purificados,"],["possais ser o templo em que Deus habita,"],["e possuir, com todos os santos,"],["a herança da felicidade eterna."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amém."]]},{"k":"p","lines":[["E a bênção de Deus todo-poderoso, Pai e Filho ",{"m":"cross","t":"✠"}," e Espírito Santo, desça sobre vós e permaneça para sempre."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amém."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"SOLEMN BLESSING"}]]},{"k":"p","lines":[["May God, the Lord of heaven and earth, who has gathered you today in memory of the dedication of this church, make you abound in heavenly blessings."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["And may he, who has willed that all his scattered children be gathered together in his Son, grant that you may become his temple and the dwelling place of the Holy Spirit."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["Thus, may you be made thoroughly clean, so that God may dwell within you and you may possess with all the Saints the inheritance of eternal happiness."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["And may the blessing of almighty God, the Father, and the Son, ",{"m":"cross","t":"✠"}," and the Holy Spirit, come down on you and remain with you for ever."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Bendición al final de la misa"}]]},{"k":"p","lines":[["Dios, Señor del cielo y de la tierra,"],["que os ha congregado hoy"],["para celebrar el aniversario de la dedicación de esta iglesia,"],["multiplique sobre vosotros las bendiciones del cielo."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amén."]]},{"k":"p","lines":[["Él, que quiso reunir en su Hijo"],["a todos los hijos dispersos,"],["haga de vosotros templo suyo"],["y morada del Espíritu Santo."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amén."]]},{"k":"p","lines":[["Para que así, felizmente purificados de toda mancha,"],["podáis tener en vosotros a Dios como huésped"],["y poseer, con todos los santos,"],["la herencia de la eterna dicha."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amén."]]},{"k":"p","lines":[["Y la bendición de Dios todopoderoso,"],["Padre, Hijo ",{"m":"cross","t":"✠"},", y Espíritu Santo,"],["descienda sobre vosotros y permanezca siempre."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amén."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"BENEDIZIONE SOLENNE"}]]},{"k":"p","lines":[["Dio, Signore del cielo e della terra, che oggi vi ha riuniti per celebrare la memoria della dedicazione di questa casa, vi colmi di ogni benedizione del cielo."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["Dio, che ha voluto radunare nel suo Figlio tutti i figli dispersi, faccia di voi il suo tempio e l'abitazione dello Spirito Santo."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["Dio vi purifichi, ponga in voi la sua dimora, e vi conceda con tutti i santi il possesso della beatitudine eterna."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["E la benedizione di Dio onnipotente, Padre e Figlio",{"m":"cross","t":"✠"}," e Spirito Santo, discenda su di voi e con voi rimanga sempre."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Bénédiction solennelle"}]]},{"k":"p","lines":[["Dieu, le Seigneur du ciel et de la terre"],["vous a rassemblés aujourd'hui"],["pour fêter la dédicace de cette maison de Dieu :"],["qu'il multiplie sur vous la bénédiction du ciel"]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["Il a voulu rassembler en son Fils"],["tous ses enfants dispersés :"],["qu'il fasse de vous son temple"],["et la demeure de l'Esprit Saint."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["Dans la joie d'un cœur purifié,"],["laissez Dieu habiter en vous,"],["afin de posséder, avec tous les saints,"],["l'héritage de la béatitude éternelle."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]},{"k":"p","lines":[["Et que la bénédiction de Dieu tout-puissant,"],["le Père, et le Fils, ",{"m":"cross","t":"✠"}," et le Saint-Esprit,"],["descende sur vous et y demeure toujours."]]},{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Amen."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Feierlicher Schlusssegen"}]]},{"k":"p","lines":[["Den Reichtum seines Segens schenke euch der Herr des Himmels und der Erde, der uns versammelt hat zum Weihefest dieses heiligen Hauses."]]},{"k":"p","lines":[[{"m":"rubric","t":"A/. "},"Amen."]]},{"k":"p","lines":[["Er hat Christus zum Eckstein seiner Kirche gemacht; euch füge er darin ein als lebendige Steine."]]},{"k":"p","lines":[[{"m":"rubric","t":"A/. "},"Amen."]]},{"k":"p","lines":[["Der Heilige Geist wohne in euren Herzen und mache sie zum Tempel Gottes, damit ihr einst wohnen dürft im himmlischen Jerusalem."]]},{"k":"p","lines":[[{"m":"rubric","t":"A/. "},"Amen."]]},{"k":"p","lines":[["Das gewähre euch der dreieinige Gott, der Vater und der Sohn ",{"m":"cross","t":"✠"}," und der Heilige Geist."]]},{"k":"p","lines":[[{"m":"rubric","t":"A/. "},"Amen."]]}]},"part":"prayerOverPeople"}],"title":{"la":"COMMUNE DEDICATIONIS ECCLESIÆ","pt-BR":"COMUM DA DEDICAÇÃO DE UMA IGREJA","en-US":"COMMON OF THE DEDICATION OF A CHURCH","es":"COMÚN DE LA DEDICACIÓN DE UNA IGLESIA","it":"COMUNE DELLA DEDICAZIONE DELLA CHIESA","fr":"COMMUN DE LA DÉDICACE","de":"COMMUNE-TEXTE FÜR KIRCHWEIHE"}}
+{
+ "id": "common.dedication-of-a-church.1",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE DEDICATIONIS ECCLESIÆ"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DA DEDICAÇÃO DE UMA IGREJA"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF THE DEDICATION OF A CHURCH"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE LA DEDICACIÓN DE UNA IGLESIA"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DELLA DEDICAZIONE DELLA CHIESA"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DE LA DÉDICACE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE FÜR KIRCHWEIHE"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN ANNIVERSARIO DEDICATIONIS"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "NO ANIVERSÁRIO DA DEDICAÇÃO"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "ON THE ANNIVERSARY OF THE DEDICATION"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "En el aniversario de la Dedicación"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "NELL'ANNIVERSARIO DELLA DEDICAZIONE"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "POUR L'ANNIVERSAIRE DE LA DÉDICACE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "BEIM JAHRESGEDÄCHTNIS EINER KIRCHWEIHE"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. In ipsa ecclesia dedicata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Na própria igreja dedicada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. In the Church that was Dedicated"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. En la misma iglesia dedicada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Nella chiesa di cui si celebra la dedicazione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Dans l'église consacrée"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "A. In der Kirche, deren Weihefest begangen wird"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ps 67, 36"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Sl 67, 36"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Ps 67, 36"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 67, 36"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 67, 36"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ps 67, 36"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 68 (67), 36"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mirábilis, Deus, de sanctuário tuo! Deus Israel ipse tríbuet virtútem et fortitúdinem plebi suæ. Benedíctus Deus! ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus em seu templo é admirável e a seu povo dá poder. Bendito seja o Senhor Deus, agora e sempre, amém ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "aleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wonderful are you, O God in your holy place. The God of Israel himself gives his people strength and courage. Blessed be God! ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Desde el santuario, Dios impone reverencia: es el Dios de Israel quien da fuerza y poder a su pueblo. ¡Dios sea bendito! ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Terribile tu sei, o Dio, nel tuo santuario. È lui, il Dio d'Israele, che dà forza e vigore al suo popolo. Sia benedetto Dio ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu est admirable dans son temple saint,"
+       ],
+       [
+        "le Dieu d'Israël,"
+       ],
+       [
+        "c'est lui qui donne à son peuple force et puissance."
+       ],
+       [
+        "Béni soit Dieu ! ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott in seinem Heiligtum ist voll Majestät, Israels Gott; seinem Volk verleiht er Stärke und Kraft. Gepriesen sei Gott ",
+        {
+         "m": "rubric",
+         "t": "(Österl. Zeit "
+        },
+        "Halleluja",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        "Glória in excélsis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        "Glória."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The GLORIA can be said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Gloria."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        "Gloria."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Gloria."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui nobis per síngulos annos huius sancti templi tui consecratiónis réparas diem, exáudi preces pópuli tui, et præsta, ut fiat hic tibi semper purum servítium et nobis plena redémptio. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, cada ano nos fazeis reviver a dedicação deste templo santo;"
+       ],
+       [
+        "ouvi as preces do vosso povo"
+       ],
+       [
+        "e concedei que, neste lugar, celebremos um culto perfeito"
+       ],
+       [
+        "e alcancemos plenamente os frutos da redenção."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who year by year renew for us the day when this your holy temple was consecrated, hear the prayers of your people and grant that in this place for you there may always be pure worship and for us, fullness of redemption."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, que nos haces revivir cada año"
+       ],
+       [
+        "el día de la consagración de este santo templo tuyo,"
+       ],
+       [
+        "escucha las plegarias de tu pueblo,"
+       ],
+       [
+        "y haz que en este lugar"
+       ],
+       [
+        "se te ofrezca siempre un servicio digno"
+       ],
+       [
+        "y obtengamos la plenitud de la redención."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ascolta, o Padre, le preghiere del tuo popolo che ricorda con gioia il giorno della dedicazione di questo santo tempio, perché la comunità che qui si raduna possa offrirti un servizio puro e irreprensibile e ottenga pienamente i frutti della redenzione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "chaque année, tu fais revivre pour nous"
+       ],
+       [
+        "le jour où cette église a été consacrée ;"
+       ],
+       [
+        "écoute les prières de ton peuple :"
+       ],
+       [
+        "fais que l'on te serve toujours en ce lieu"
+       ],
+       [
+        "dans la pureté du cœur"
+       ],
+       [
+        "et que nous obtenions ici la plénitude de la rédemption."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Großer und heiliger Gott, jedes Jahr feiern wir den Weihetag dieses heiligen Hauses. Höre auf die Bitten deines Volkes. Hilf uns, dass wir an diesem Ort in rechter Gesinnung den heiligen Dienst vollziehen und den Reichtum der Erlösungsgnade empfangen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        "Credo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        "Creio."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Credo"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On dit le "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Credo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mémores diéi quo domum tuam, Dómine, glória dignátus es ac sanctitáte replére, nosmetípsos, quǽsumus, fac hóstias tibi semper accéptas. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, ao celebrar o dia"
+       ],
+       [
+        "em que enchestes de glória e santidade a vossa casa,"
+       ],
+       [
+        "fazei de nós oferendas que sempre vos agradem."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recalling the day when you were pleased to fill your house with glory and holiness, O Lord, we pray that you may make of us a sacrificial offering always acceptable to you."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al conmemorar el día"
+       ],
+       [
+        "en que te dignaste llenar tu casa de gloria y santidad,"
+       ],
+       [
+        "te rogamos, Señor, que hagas de nosotros"
+       ],
+       [
+        "una ofrenda siempre agradable a ti."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accetta, o Signore, il sacrificio che ti offriamo nella memoria del giorno santo in cui hai riempito della tua presenza questo luogo a te dedicato, e fa' di noi un'offerta spirituale a te gradita. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors que nous rappelons devant toi, Seigneur,"
+       ],
+       [
+        "le jour où tu as rempli ta maison"
+       ],
+       [
+        "de gloire et de sainteté,"
+       ],
+       [
+        "nous te prions de nous transformer nous-mêmes"
+       ],
+       [
+        "en offrandes qui te soient toujours agréables."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heiliger Gott, wir gedenken des Tages, an dem du dieses Haus zu eigen genommen und mit deiner Gegenwart erfüllt hast. Nimm die Gaben an, die wir an dieser Stätte darbringen, und mache auch uns selbst zu einer Gabe, die dir wohlgefällt. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De mysterio templi Dei, quod est Ecclesia."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quia in domo visíbili quam nobis exstrúere concessísti, ubi famíliæ in hoc loco ad te peregrinánti favére non désinis, mystérium tuæ nobíscum communiónis mire figúras et operáris: hic enim tibi templum illud quod nos sumus ædíficas, et Ecclésiam per orbem diffúsam in domínici compágem córporis facis augéri, in pacis visióne compléndam, cælésti civitáte Ierúsalem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ídeo, cum multitúdine órdinum beatórum, in templo glóriæ tuæ, te collaudámus, benedícimus et magnificámus, dicéntes:"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O mistério do templo de Deus, que é a Igreja."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Na verdade, é digno e justo,"
+       ],
+       [
+        "é nosso dever e salvação dar-vos graças,"
+       ],
+       [
+        "sempre e em todo lugar,"
+       ],
+       [
+        "Senhor, Pai santo,"
+       ],
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "por Cristo, Senhor nosso."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pois, nesta casa visível,"
+       ],
+       [
+        "que nos destes a graça de construir,"
+       ],
+       [
+        "não deixais de conceder os vossos favores"
+       ],
+       [
+        "à família que peregrina ao vosso encontro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Neste lugar, manifestais e realizais de modo admirável"
+       ],
+       [
+        "o mistério da vossa comunhão conosco,"
+       ],
+       [
+        "porque aqui edificais para vós o templo que somos nós"
+       ],
+       [
+        "e fazeis crescer a Igreja,"
+       ],
+       [
+        "presente no mundo inteiro,"
+       ],
+       [
+        "unida como corpo do Senhor,"
+       ],
+       [
+        "até atingir a plenitude da paz, na Jerusalém celeste."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por isso, nós vos louvamos"
+       ],
+       [
+        "no templo da vossa glória"
+       ],
+       [
+        "e, com a multidão dos Bem-aventurados,"
+       ],
+       [
+        "vos bendizemos e vos glorificamos,"
+       ],
+       [
+        "cantando (dizendo) a uma só voz:"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The mystery of the Temple of God, which is the Church. "
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is truly right and just, our duty and our salvation,"
+       ],
+       [
+        "always and everywhere to give you thanks,"
+       ],
+       [
+        "Lord, holy Father, almighty and eternal God,"
+       ],
+       [
+        "through Christ our Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For in this visible house that you have let us build"
+       ],
+       [
+        "and where you never cease to show favour"
+       ],
+       [
+        "to the family on pilgrimage to you in this place,"
+       ],
+       [
+        "you wonderfully manifest and accomplish"
+       ],
+       [
+        "the mystery of your communion with us."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Here you build up for yourself the temple that we are"
+       ],
+       [
+        "and cause your Church, spread throughout the world,"
+       ],
+       [
+        "to grow ever more and more as the Lord's own Body,"
+       ],
+       [
+        "till she reaches her fullness in the vision of peace,"
+       ],
+       [
+        "the heavenly city of Jerusalem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And so, with the countless ranks of the blessed,"
+       ],
+       [
+        "in the temple of your glory we praise you,"
+       ],
+       [
+        "we bless you and proclaim your greatness as we acclaim:"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "EL MISTERIO DEL TEMPLO DE DIOS, QUE ES LA IGLESIA"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En verdad es justo y necesario, es nuestro deber y salvación darte gracias siempre y en todo lugar, Señor, Padre santo, Dios todopoderoso y eterno, por Cristo, Señor nuestro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Porque en esta casa visible que hemos construido, donde reúnes y proteges sin cesar a esta familia que hacia ti peregrina, manifiestas y realizas de manera admirable el misterio de tu comunión con nosotros."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En este lugar, Señor, tú vas edificando aquel templo que somos nosotros, y así Ia Iglesia, extendida por toda la tierra, crece unida, como Cuerpo de Cristo, hasta llegar a ser la nueva Jerusalén, verdadera visión de paz."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por eso, Señor, te celebramos en el templo de tu gloria, y con todos los ángeles te bendecimos y te glorificamos, diciendo:"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "PREFAZIO"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": " Il mistero del tempio di Dio che è la Chiesa"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu ci hai dato la gioia di costruirti una dimora visibile dove continui a colmare di favori la tua famiglia in cammino verso di te."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui manifesti e operi in modo mirabile il mistero della tua comunione con noi. Qui ci edifichi come tempio vivo, e fai crescere come corpo del Signore la tua Chiesa diffusa nel mondo, finché raggiunga la sua pienezza nella visione di pace della santa Gerusalemme del cielo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E noi, uniti alle schiere degli angeli e dei santi, nel tempio della tua gloria ti lodiamo e ti benediciamo cantando la tua grandezza:"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le mystère du temple de Dieu, qu'est l'Église"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vraiment, il est juste et bon,"
+       ],
+       [
+        "pour ta gloire et notre salut,"
+       ],
+       [
+        "de t'offrir notre action de grâce,"
+       ],
+       [
+        "toujours et en tout lieu,"
+       ],
+       [
+        "Seigneur, Père très saint,"
+       ],
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "par le Christ, notre Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans la maison visible que tu nous as donné de construire,"
+       ],
+       [
+        "en ce lieu où tu ne cesses d'accueillir"
+       ],
+       [
+        "ta famille dans son pèlerinage vers toi,"
+       ],
+       [
+        "tu nous offres le signe et la réalité admirables"
+       ],
+       [
+        "du mystère de ta communion avec nous :"
+       ],
+       [
+        "ici, tu construis pour toi le temple vivant que nous sommes,"
+       ],
+       [
+        "et tu fais grandir l'Église, répandue dans le monde,"
+       ],
+       [
+        "à la mesure du Corps du Seigneur,"
+       ],
+       [
+        "pour qu'elle devienne, en plénitude,"
+       ],
+       [
+        "vision de paix, cité céleste, Jérusalem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est pourquoi, avec la multitude des bienheureux,"
+       ],
+       [
+        "nous te louons, nous te bénissons et nous te glorifions"
+       ],
+       [
+        "dans le temple de ta gloire, en proclamant :"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Die Kirche als Tempel Gottes"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Wahrheit ist es würdig uns recht, dir, Herr, heiliger Vater, allmächtiger, ewiger Gott, immer und überall zu danken."
+       ],
+       [
+        "Zu deiner Ehre wurde dieses Haus errichtet, in dem du deine pilgernde Kirche versammelst, um ihr darin ein Bild deiner Gegenwart zu zeigen und ihr die Gnade deiner Gemeinschaft zu schenken."
+       ],
+       [
+        "Denn du selbst erbaust dir einen Tempel aus lebendigen Steinen. Von allen Orten rufst du deine Kinder zusammen und fügst sie ein in den geheimnisvollen Leib deines Sohnes."
+       ],
+       [
+        "Hier lenkst du unseren Blick auf das himmlische Jerusalem und gibst uns die Hoffnung, dort deinen Frieden zu schauen."
+       ],
+       [
+        "Darum preisen wir dich in deiner Kirche und vereinen uns mit allen Engeln und Heiligen zum Hochgesang von deiner göttlichen Herrlichkeit:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 3, 16-17"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 3, 16-17"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 3, 16-17"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "1Co 3, 16-17"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 3, 16-17"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 3, 16-17"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "1 Kor 3, 16-17"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Templum Dei estis, et Spíritus Dei hábitat in vobis. Templum Dei sanctum est, quod estis vos ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sois o templo de Deus, e o Espírito de Deus habita em vós. O templo de Deus é santo. Esse templo sois vós ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "aleluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You are the temple of God, and the Spirit of God dwells in you. The temple of God, which you are, is holy ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sois templos de Dios y el Espíritu de Dios habita en vosotros. El templo de Dios es santo: y ese templo sois vosotros ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Siete tempio di Dio e lo Spirito di Dio abita in voi. Il tempio di Dio è santo, e questo tempio siete voi ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vous êtes un sanctuaire de Dieu,"
+       ],
+       [
+        "et l'Esprit de Dieu habite en vous."
+       ],
+       [
+        "Le sanctuaire de Dieu est saint,"
+       ],
+       [
+        "et ce sanctuaire, c'est vous ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ihr seid Gottes Tempel, und der Geist Gottes wohnt in euch. Der Tempel Gottes ist heilig, und der seid ihr ",
+        {
+         "m": "rubric",
+         "t": "(Österl. Zeit "
+        },
+        "Halleluja",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedictiónis tuæ, quǽsumus, Dómine, plebs tibi sacra fructus repórtet et gáudium, ut, quod in huius festivitátis die corporáli servítio exhíbuit, spiritáliter se rettulísse cognóscat. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, concedei que o vosso povo santo"
+       ],
+       [
+        "receba os frutos e a alegria da vossa bênção,"
+       ],
+       [
+        "de modo que reconheça nesta celebração festiva"
+       ],
+       [
+        "o dom espiritual de vossa graça."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the people consecrated to you, O Lord, we pray, receive the fruits and joy of your blessing, that the festive homage they have offered you today in the body may redound upon them as a spiritual gift."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te rogamos, Señor,"
+       ],
+       [
+        "que el pueblo a ti consagrado"
+       ],
+       [
+        "reciba los frutos y el gozo de tu bendición,"
+       ],
+       [
+        "para que vea recompensado en el espíritu el trabajo material"
+       ],
+       [
+        "que ha ofrecido en este día de fiesta."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedi, o Padre i frutti e la gioia della tua benedizione al popolo a te consacrato, perché riconosca il dono spirituale ricevuto nei santi misteri che ha celebrato in questo giorno di festa. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accorde au peuple qui t'est consacré, Seigneur,"
+       ],
+       [
+        "de recueillir les fruits et la joie de ta bénédiction,"
+       ],
+       [
+        "afin qu'ayant pris part à la liturgie de cette fête,"
+       ],
+       [
+        "il sache en vivre spirituellement."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, am Weihetag dieser Kirche haben wir das Opfer des Lobes dargebracht. Mache diese Feier für uns zur Quelle der Gnade und der Freude, damit deine Gemeinde im Heiligen Geist zum Tempel deiner Herrlichkeit wird. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Benedictio in fine Missæ"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, Dóminus cæli et terræ, qui vos hódie ad huius domus dedicatiónis memóriam adunávit, ipse vos cælésti benedictióne fáciat abundáre."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedátque vobis fíeri templum suum et habitáculum Spíritus Sancti, qui omnes fílios dispérsos vóluit in Fílio suo congregári."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quátenus felíciter emundáti, habitatórem Deum in vobismetípsis possítis habére, et ætérnæ beatitúdinis hereditátem cum ómnibus Sanctis possidére."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et benedíctio Dei omnipoténtis, Patris, et Fílii, ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " et Spíritus Sancti, descéndat super vos et máneat semper."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Bênção Solene"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, o Senhor do céu e da terra,"
+       ],
+       [
+        "que hoje vos reuniu para o aniversário da dedicação desta igreja,"
+       ],
+       [
+        "vos conceda copiosas bênçãos do céu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amém."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, que em seu Filho quis congregar todos os filhos dispersos, faça de vós seu templo e morada do Espírito Santo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amém."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E, assim, na felicidade de serdes purificados,"
+       ],
+       [
+        "possais ser o templo em que Deus habita,"
+       ],
+       [
+        "e possuir, com todos os santos,"
+       ],
+       [
+        "a herança da felicidade eterna."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amém."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E a bênção de Deus todo-poderoso, Pai e Filho ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e Espírito Santo, desça sobre vós e permaneça para sempre."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amém."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "SOLEMN BLESSING"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May God, the Lord of heaven and earth, who has gathered you today in memory of the dedication of this church, make you abound in heavenly blessings."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And may he, who has willed that all his scattered children be gathered together in his Son, grant that you may become his temple and the dwelling place of the Holy Spirit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Thus, may you be made thoroughly clean, so that God may dwell within you and you may possess with all the Saints the inheritance of eternal happiness."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And may the blessing of almighty God, the Father, and the Son, ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " and the Holy Spirit, come down on you and remain with you for ever."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Bendición al final de la misa"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios, Señor del cielo y de la tierra,"
+       ],
+       [
+        "que os ha congregado hoy"
+       ],
+       [
+        "para celebrar el aniversario de la dedicación de esta iglesia,"
+       ],
+       [
+        "multiplique sobre vosotros las bendiciones del cielo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Él, que quiso reunir en su Hijo"
+       ],
+       [
+        "a todos los hijos dispersos,"
+       ],
+       [
+        "haga de vosotros templo suyo"
+       ],
+       [
+        "y morada del Espíritu Santo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Para que así, felizmente purificados de toda mancha,"
+       ],
+       [
+        "podáis tener en vosotros a Dios como huésped"
+       ],
+       [
+        "y poseer, con todos los santos,"
+       ],
+       [
+        "la herencia de la eterna dicha."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Y la bendición de Dios todopoderoso,"
+       ],
+       [
+        "Padre, Hijo ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        ", y Espíritu Santo,"
+       ],
+       [
+        "descienda sobre vosotros y permanezca siempre."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "BENEDIZIONE SOLENNE"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio, Signore del cielo e della terra, che oggi vi ha riuniti per celebrare la memoria della dedicazione di questa casa, vi colmi di ogni benedizione del cielo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio, che ha voluto radunare nel suo Figlio tutti i figli dispersi, faccia di voi il suo tempio e l'abitazione dello Spirito Santo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio vi purifichi, ponga in voi la sua dimora, e vi conceda con tutti i santi il possesso della beatitudine eterna."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E la benedizione di Dio onnipotente, Padre e Figlio",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e Spirito Santo, discenda su di voi e con voi rimanga sempre."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Bénédiction solennelle"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu, le Seigneur du ciel et de la terre"
+       ],
+       [
+        "vous a rassemblés aujourd'hui"
+       ],
+       [
+        "pour fêter la dédicace de cette maison de Dieu :"
+       ],
+       [
+        "qu'il multiplie sur vous la bénédiction du ciel"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il a voulu rassembler en son Fils"
+       ],
+       [
+        "tous ses enfants dispersés :"
+       ],
+       [
+        "qu'il fasse de vous son temple"
+       ],
+       [
+        "et la demeure de l'Esprit Saint."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans la joie d'un cœur purifié,"
+       ],
+       [
+        "laissez Dieu habiter en vous,"
+       ],
+       [
+        "afin de posséder, avec tous les saints,"
+       ],
+       [
+        "l'héritage de la béatitude éternelle."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et que la bénédiction de Dieu tout-puissant,"
+       ],
+       [
+        "le Père, et le Fils, ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " et le Saint-Esprit,"
+       ],
+       [
+        "descende sur vous et y demeure toujours."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Feierlicher Schlusssegen"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Den Reichtum seines Segens schenke euch der Herr des Himmels und der Erde, der uns versammelt hat zum Weihefest dieses heiligen Hauses."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er hat Christus zum Eckstein seiner Kirche gemacht; euch füge er darin ein als lebendige Steine."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Heilige Geist wohne in euren Herzen und mache sie zum Tempel Gottes, damit ihr einst wohnen dürft im himmlischen Jerusalem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A/. "
+        },
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Das gewähre euch der dreieinige Gott, der Vater und der Sohn ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " und der Heilige Geist."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople"
+  }
+ ],
+ "title": {
+  "la": "COMMUNE DEDICATIONIS ECCLESIÆ",
+  "pt-BR": "COMUM DA DEDICAÇÃO DE UMA IGREJA",
+  "en-US": "COMMON OF THE DEDICATION OF A CHURCH",
+  "es": "COMÚN DE LA DEDICACIÓN DE UNA IGLESIA",
+  "it": "COMUNE DELLA DEDICAZIONE DELLA CHIESA",
+  "fr": "COMMUN DE LA DÉDICACE",
+  "de": "COMMUNE-TEXTE FÜR KIRCHWEIHE"
+ }
+}

@@ -1,1 +1,1553 @@
-{"id":"tempore.solemnity.corpus-christi","source":"tiempos/tiempos_ordinario#OT52","kind":"tempore","items":[{"slot":"456","text":{"la":[{"k":"h2","lines":[["IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS"],["Feria V post Ss. mam Trinitatem"],["SANCTISSIMI CORPORIS ET SANGUINIS CHRISTI"]]},{"k":"h3","lines":[["Sollemnitas"]]},{"k":"p","lines":[[{"m":"rubric","t":"Ubi sollemnitas Ss. mi Corporis et Sanguinis Christi non est de præcepto servanda, assignatur, tamquam diei proprio, dominicæ post Ss. mam Trinitatem."}]]}],"pt-BR":[{"k":"h2","lines":[["SOLENIDADES DO SENHOR NO TEMPO COMUM"],["Quinta-feira depois da Santíssima Trindade"],["SANTÍSSIMO CORPO E SANGUE DE CRISTO"]]},{"k":"h3","lines":[["Solenidade"]]},{"k":"p","lines":[[{"m":"rubric","t":"Onde a Solenidade do Santíssimo Corpo e Sangue de Cristo não for dia de preceito na quinta-Feira, ela será celebrada, como no seu dia próprio, no domingo depois da Santíssima Trindade."}]]}],"en-US":[{"k":"h2","lines":[["THE MOST HOLY BODY AND BLOOD OF CHRIST"],["(CORPUS CHRISTI)"]]},{"k":"h3","lines":[["Solemnity"]]}],"es":[{"k":"h2","lines":[["SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO"],["Domingo después de la Santísima Trinidad"],["SANTÍSIMO CUERPO Y SANGRE DE CRISTO"]]},{"k":"h3","lines":[["Solemnidad"]]}],"it":[{"k":"h2","lines":[["SOLENNITA' DEL SIGNORE NEL TEMPO ORDINARIO"],["SANTISSIMO CORPO E SANGUE DI CRISTO"]]},{"k":"h3","lines":[["SOLENNITÀ"]]},{"k":"p","lines":[[{"m":"rubric","t":"Dove è di precetto, la solennità del Santissimo Corpo e Sangue di Cristo si celebra il Giovedì dopo la Ss.ma Trinità, altrimenti come a suo giorno proprio, la seconda domenica dopo Pentecoste."}]]}],"fr":[{"k":"h2","lines":[["Temps ordinaire"],["SOLENNITÉ DU SAINT SACREMENT"]]},{"k":"h3","lines":[["Sollemnitas"]]},{"k":"p","lines":[[{"m":"rubric","t":"Dans les pays où la fête du Saint-Sacrement n'est pas de précepte, elle est transférée au dimanche après la Sainte Trinité, qui devient son jour propre."}]]}],"de":[{"k":"h2","lines":[["HERRENFESTE IM JAHRESKREIS"],["Donnerstag der 2. Woche nach Pfingsten"],["HOCHFEST DES LEIBES UND BLUTES CHRISTI"],["FRONLEICHNAM"]]}]},"part":"title"},{"slot":"457","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 80, 17"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 80, 17"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 81 (80): 17"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 80, 17"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 80, 17"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 80, 17"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Ps 81 (80), 17"}]},"part":"entranceAntiphon"},{"slot":"458","text":{"la":[{"k":"p","lines":[["Cibávit eos ex ádipe fruménti, et de petra melle saturávit eos."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor os alimentou com a flor do trigo"],["e com o mel do rochedo os saciou."]]}],"en-US":[{"k":"p","lines":[["He fed them with the finest wheat"],["and satisfied them with honey from the rock."]]}],"es":[{"k":"p","lines":[["El Señor los alimentó con flor de harina y los sació con miel silvestre."]]}],"it":[{"k":"p","lines":[["Il Signore ha nutrito il suo popolo con fiore di frumento e lo ha saziato con miele dalla roccia."]]}],"fr":[{"k":"p","lines":[["Le Seigneur a nourri son peuple de la fleur du froment,"],["il l'a rassasié avec le miel du rocher."]]}],"de":[{"k":"p","lines":[["Er hat uns mit bestem Weizen genährt und mit Honig aus dem Felsen gesättigt."]]}]},"part":"entranceAntiphon"},{"slot":"459","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Das "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":" wird gebetet."}]]}]},"part":"gloria"},{"slot":"460","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"461","text":{"la":[{"k":"p","lines":[["Deus, qui nobis sub sacraménto mirábili passiónis tuæ memóriam reliquísti, tríbue, quǽsumus, ita nos Córporis et Sánguinis tui sacra mystéria venerári, ut redemptiónis tuæ fructum in nobis iúgiter sentiámus. Qui vivis et regnas cum Deo Patre in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor Jesus Cristo,"],["neste admirável sacramento"],["nos deixastes o memorial da vossa paixão;"],["dai-nos venerar de tal modo"],["o sagrado mistério do vosso Corpo e Sangue,"],["que experimentemos continuamente"],["os frutos da vossa redenção."],["Vós, que sois Deus,"],["e viveis e reinais com o Pai,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who in this wonderful Sacrament"],["have left us a memorial of your Passion,"],["grant us, we pray,"],["so to revere the sacred mysteries of your Body and Blood that we may always experience in ourselves"],["the fruits of your redemption."],["Who live and reign with God the Father in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que en este sacramento admirable nos dejaste el memorial de tu pasión,"],["te pedimos nos concedas venerar"],["de tal modo los sagrados misterios de tu Cuerpo y de tu Sangre,"],["que experimentemos constantemente en nosotros el fruto de tu redención."],["Tú, que vives y reinas con el Padre."]]}],"it":[{"k":"p","lines":[["Signore Gesù Cristo, che nel mirabile sacramento dell'Eucaristia ci hai lasciato il memoriale della tua Pasqua, fa' che adoriamo con viva fede il santo mistero del tuo Corpo e del tuo Sangue, per sentire sempre in noi i benefici della redenzione. Tu sei Dio, e vivi e regni con Dio Padre, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Jésus Christ,"],["dans cet admirable sacrement,"],["tu nous as laissé le mémorial de ta passion ;"],["donne-nous de vénérer avec une telle ferveur"],["les saints mystères de ton Corps et de ton Sang,"],["que nous puissions goûter sans cesse en nous"],["le fruit de ta rédemption."],["Toi qui vis et règnes avec le Père dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr Jesus Christus, im wunderbaren Sakrament des Altares hast du uns das Gedächtnis deines Leidens und deiner Auferstehung hinterlassen. Gib uns die Gnade, die heiligen Geheimnisse deines Leibes und Blutes so zu verehren, dass uns die Frucht der Erlösung zuteil wird. Der du in der Einheit des Heiligen Geistes mit Gott dem Vater lebst und herrschest in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"462","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur Credo."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o Creio."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},"Credo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le Credo."}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Das Credo wird gebetet."}]]}]},"part":"creed"},{"slot":"463","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"464","text":{"la":[{"k":"p","lines":[["Ecclésiæ tuæ, quǽsumus, Dómine, unitátis et pacis propítius dona concéde, quæ sub oblátis munéribus mýstice designántur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, nós vos pedimos,"],["concedei benigno à vossa Igreja os dons da unidade e da paz,"],["misticamente simbolizados por estas oferendas."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant your Church, O Lord, we pray, the gifts of unity and peace,"],["whose signs are to be seen in mystery in the offerings we here present."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, concede propicio a tu Iglesia"],["los dones de la paz y de la unidad,"],["místicamente representados"],["en los dones que hemos ofrecido."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Concedi benigno alla tua Chiesa, o Signore, i doni dell'unità e della pace, misticamente significati nelle offerte che ti presentiamo. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur :"],["dans ta bonté accorde à ton Église"],["les dons de l'unité et de la paix,"],["signifiés mystérieusement"],["par les présents que nous t'offrons."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, wir bringen das Brot dar, das aus vielen Körnern bereitet, und den Wein, der aus vielen Trauben gewonnen ist. Schenke deiner Kirche, was diese Gaben geheimnisvoll bezeichnen: die Einheit und den Frieden. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"466","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 6, 57"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 6, 56"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 6: 57"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Io 6, 57"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]]}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 6, 57"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 6, 57"}]},"part":"communionAntiphon"},{"slot":"467","text":{"la":[{"k":"p","lines":[["Qui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in eo, dicit Dóminus."]]}],"pt-BR":[{"k":"p","lines":[["Quem come a minha carne e bebe o meu sangue,"],["permanece em mim e eu nele, diz o Senhor."]]}],"en-US":[{"k":"p","lines":[["Whoever eats my flesh and drinks my blood remains in me and I in him, says the Lord."]]}],"es":[{"k":"p","lines":[["El que come mi carne y bebe mi sangre habita en mí y yo en él, dice el Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"★ A "}],["Dice il Signore: «Chi mangia la mia carne e beve il mio sangue rimane in me e io in lui». Alleluia"],[{"m":"rubric","t":"★ B "}],["«Prendete, questo è il mio corpo. Questo è il mio sangue dell'alleanza», dice il Signore. Alleluia."],[{"m":"rubric","t":"★ C "}],["Gesù prese i cinque pani e i due pesci e li diede ai discepoli perché li distribuissero alla folla. Alleluia"]],"cite":"Cf. Lc 9, 16"}],"fr":[{"k":"p","lines":[["Celui qui mange ma chair et boit mon sang"],["demeure en moi, et moi en lui, dit le Seigneur."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Wer mein Fleisch isst und mein Blut trinkt, der bleibt in mir, und ich bleibe in ihm."]]}]},"part":"communionAntiphon"},{"slot":"468","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"469","text":{"la":[{"k":"p","lines":[["Fac nos, quǽsumus, Dómine, divinitátis tuæ sempitérna fruitióne repléri, quam pretiósi Córporis et Sánguinis tui temporális percéptio præfigúrat. Qui vivis et regnas in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Concedei-nos, Senhor,"],["a participação eterna na vossa divindade"],["que, no tempo presente,"],["é prefigurada na comunhão do vosso precioso Corpo e Sangue."],["Vós que viveis e reinais pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, O Lord, we pray,"],["that we may delight for all eternity"],["in that share in your divine life,"],["which is foreshadowed in the present age"],["by our reception of your precious Body and Blood. Who live and reign for ever and ever."]]}],"es":[{"k":"p","lines":[["Concédenos, Señor,"],["saciarnos del gozo eterno de tu divinidad,"],["anticipado en la recepción actual"],["de tu precioso Cuerpo y Sangre."],["Tú, que vives y reinas por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Donaci, o Signore, di godere pienamente della tua vita divina nel convito eterno, che ci hai fatto pregustare in questo sacramento del tuo Corpo e del tuo Sangue. Tu che vivi e regni nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur Jésus Christ :"],["donne-nous de goûter pleinement"],["à ta vie divine dans l'éternité,"],["ce que préfigure dans le temps"],["la communion à ton Corps et à ton Sang précieux."],["Toi qui vis et règnes pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr Jesus Christus, der Empfang deines Leibes und Blutes ist für uns ein Vorgeschmack der kommenden Herrlichkeit. Sättige uns im ewigen Leben durch den vollen Genuss deiner Gottheit. Der du lebst und herrschest in alle Ewigkeit."]]}]},"part":"postcommunion"},{"slot":"470","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Expedit ut processio fiat post Missam, in qua hostia in processione deferenda consecretur. Nihil tamen impedit quominus processio peragatur etiam post publicam et protractam adorationem quæ Missam sequatur. Si processio fit post Missam, expleta fidelium Communione, ostensorium, in quo posita est hostia consecrata, in altari collocatur. Dicta oratione post Communionem, omissis ritibus conclusionis, instruitur processio."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"A procissão se faça depois da Missa, na qual se consagra a hóstia que será levada processionalmente. Nada impede, no entanto, que a procissão se realize também em seguida a uma prolongada adoração pública depois da Missa. 5e a procissão se faz logo depois da Missa, coloca-se, ao término da comunhão dos fiéis, o ostensório com a hóstia consagrada no altar. Terminada a oração depois da comunhão, omitindo-se os ritos finais, começa a procissão."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"It is desirable that a procession take place after the Mass in which the Host to be carried in the procession is consecrated. However, nothing prohibits a procession from taking place even after a public and lengthy period of adoration following the Mass. If a procession takes place after Mass, when the Communion of the faithful is over, the monstrance in which the consecrated host has been placed is set on the altar. When the Prayer after Communion has been said, the Concluding Rites are omitted and the procession forms."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Conviene que la procesión tenga lugar después de la misa en la que se consagra la hostia que se ha de llevar en ella. Pero nada impide que la procesión se haga después de una adoración pública y prolongada que siga a la misa. Si la procesión se tiene inmediatamente después de la misa, concluida la comunión de los fieles se coloca sobre el altar la custodia en la cual se pone la hostia consagrada."}],[{"m":"rubric","t":"Dicha la oración después de la comunión y omitidos los ritos conclusivos, se organiza la procesión."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"È opportuno che la solenne processione eucaristica si svolga dopo la Messa nella quale si consacra l'ostia che si porterà in processione. Tuttavia nulla impedisce che la processione abbia luogo dopo una pubblica e prolungata adorazione che segue la Messa. Se la processione si svolge dopo la Messa, terminata la comunione dei fedeli, si colloca sull'altare un ostensorio, nel quale viene posta l'ostia consacrata. Detta l'Dopo la comunione e omessi i riti di conclusione, si avvia la processione."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Il convient de faire une procession après la messe au cours de laquelle l'hostie portée en procession a été consacrée. Rien n'empêche cependant que la procession se déroule même après l'adoration publique et prolongée qui suit la messe. Si la procession a lieu après la messe, une fois terminée la communion des fidèles, on place sur l'autel l'ostensoir dans lequel se trouve l'hostie consacrée. La procession se met en marche après la prière après la communion et l'on omet les rites de conclusion."}]]}]},"role":"rubric"}],"precedence":3,"prefaces":["preface.36","preface.37","preface.38"],"title":{"la":"IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS — Feria V post Ss. mam Trinitatem — SANCTISSIMI CORPORIS ET SANGUINIS CHRISTI","pt-BR":"SOLENIDADES DO SENHOR NO TEMPO COMUM — Quinta-feira depois da Santíssima Trindade — SANTÍSSIMO CORPO E SANGUE DE CRISTO","en-US":"THE MOST HOLY BODY AND BLOOD OF CHRIST — (CORPUS CHRISTI)","es":"SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO — Domingo después de la Santísima Trinidad — SANTÍSIMO CUERPO Y SANGRE DE CRISTO","it":"SOLENNITA' DEL SIGNORE NEL TEMPO ORDINARIO — SANTISSIMO CORPO E SANGUE DI CRISTO","fr":"Temps ordinaire — SOLENNITÉ DU SAINT SACREMENT","de":"HERRENFESTE IM JAHRESKREIS — Donnerstag der 2. Woche nach Pfingsten — HOCHFEST DES LEIBES UND BLUTES CHRISTI — FRONLEICHNAM"},"subtitle":{"la":"Sollemnitas","pt-BR":"Solenidade","en-US":"Solemnity","es":"Solemnidad","it":"SOLENNITÀ","fr":"Sollemnitas"}}
+{
+ "id": "tempore.solemnity.corpus-christi",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS"
+       ],
+       [
+        "Feria V post Ss. mam Trinitatem"
+       ],
+       [
+        "SANCTISSIMI CORPORIS ET SANGUINIS CHRISTI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Sollemnitas"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ubi sollemnitas Ss. mi Corporis et Sanguinis Christi non est de præcepto servanda, assignatur, tamquam diei proprio, dominicæ post Ss. mam Trinitatem."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SOLENIDADES DO SENHOR NO TEMPO COMUM"
+       ],
+       [
+        "Quinta-feira depois da Santíssima Trindade"
+       ],
+       [
+        "SANTÍSSIMO CORPO E SANGUE DE CRISTO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solenidade"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Onde a Solenidade do Santíssimo Corpo e Sangue de Cristo não for dia de preceito na quinta-Feira, ela será celebrada, como no seu dia próprio, no domingo depois da Santíssima Trindade."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "THE MOST HOLY BODY AND BLOOD OF CHRIST"
+       ],
+       [
+        "(CORPUS CHRISTI)"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnity"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO"
+       ],
+       [
+        "Domingo después de la Santísima Trinidad"
+       ],
+       [
+        "SANTÍSIMO CUERPO Y SANGRE DE CRISTO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnidad"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SOLENNITA' DEL SIGNORE NEL TEMPO ORDINARIO"
+       ],
+       [
+        "SANTISSIMO CORPO E SANGUE DI CRISTO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "SOLENNITÀ"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dove è di precetto, la solennità del Santissimo Corpo e Sangue di Cristo si celebra il Giovedì dopo la Ss.ma Trinità, altrimenti come a suo giorno proprio, la seconda domenica dopo Pentecoste."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps ordinaire"
+       ],
+       [
+        "SOLENNITÉ DU SAINT SACREMENT"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Sollemnitas"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dans les pays où la fête du Saint-Sacrement n'est pas de précepte, elle est transférée au dimanche après la Sainte Trinité, qui devient son jour propre."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "HERRENFESTE IM JAHRESKREIS"
+       ],
+       [
+        "Donnerstag der 2. Woche nach Pfingsten"
+       ],
+       [
+        "HOCHFEST DES LEIBES UND BLUTES CHRISTI"
+       ],
+       [
+        "FRONLEICHNAM"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 80, 17"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 80, 17"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 81 (80): 17"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 80, 17"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 80, 17"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 80, 17"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Ps 81 (80), 17"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cibávit eos ex ádipe fruménti, et de petra melle saturávit eos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor os alimentou com a flor do trigo"
+       ],
+       [
+        "e com o mel do rochedo os saciou."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He fed them with the finest wheat"
+       ],
+       [
+        "and satisfied them with honey from the rock."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor los alimentó con flor de harina y los sació con miel silvestre."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore ha nutrito il suo popolo con fiore di frumento e lo ha saziato con miele dalla roccia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur a nourri son peuple de la fleur du froment,"
+       ],
+       [
+        "il l'a rassasié avec le miel du rocher."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er hat uns mit bestem Weizen genährt und mit Honig aus dem Felsen gesättigt."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": " wird gebetet."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui nobis sub sacraménto mirábili passiónis tuæ memóriam reliquísti, tríbue, quǽsumus, ita nos Córporis et Sánguinis tui sacra mystéria venerári, ut redemptiónis tuæ fructum in nobis iúgiter sentiámus. Qui vivis et regnas cum Deo Patre in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor Jesus Cristo,"
+       ],
+       [
+        "neste admirável sacramento"
+       ],
+       [
+        "nos deixastes o memorial da vossa paixão;"
+       ],
+       [
+        "dai-nos venerar de tal modo"
+       ],
+       [
+        "o sagrado mistério do vosso Corpo e Sangue,"
+       ],
+       [
+        "que experimentemos continuamente"
+       ],
+       [
+        "os frutos da vossa redenção."
+       ],
+       [
+        "Vós, que sois Deus,"
+       ],
+       [
+        "e viveis e reinais com o Pai,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who in this wonderful Sacrament"
+       ],
+       [
+        "have left us a memorial of your Passion,"
+       ],
+       [
+        "grant us, we pray,"
+       ],
+       [
+        "so to revere the sacred mysteries of your Body and Blood that we may always experience in ourselves"
+       ],
+       [
+        "the fruits of your redemption."
+       ],
+       [
+        "Who live and reign with God the Father in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que en este sacramento admirable nos dejaste el memorial de tu pasión,"
+       ],
+       [
+        "te pedimos nos concedas venerar"
+       ],
+       [
+        "de tal modo los sagrados misterios de tu Cuerpo y de tu Sangre,"
+       ],
+       [
+        "que experimentemos constantemente en nosotros el fruto de tu redención."
+       ],
+       [
+        "Tú, que vives y reinas con el Padre."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore Gesù Cristo, che nel mirabile sacramento dell'Eucaristia ci hai lasciato il memoriale della tua Pasqua, fa' che adoriamo con viva fede il santo mistero del tuo Corpo e del tuo Sangue, per sentire sempre in noi i benefici della redenzione. Tu sei Dio, e vivi e regni con Dio Padre, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Jésus Christ,"
+       ],
+       [
+        "dans cet admirable sacrement,"
+       ],
+       [
+        "tu nous as laissé le mémorial de ta passion ;"
+       ],
+       [
+        "donne-nous de vénérer avec une telle ferveur"
+       ],
+       [
+        "les saints mystères de ton Corps et de ton Sang,"
+       ],
+       [
+        "que nous puissions goûter sans cesse en nous"
+       ],
+       [
+        "le fruit de ta rédemption."
+       ],
+       [
+        "Toi qui vis et règnes avec le Père dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr Jesus Christus, im wunderbaren Sakrament des Altares hast du uns das Gedächtnis deines Leidens und deiner Auferstehung hinterlassen. Gib uns die Gnade, die heiligen Geheimnisse deines Leibes und Blutes so zu verehren, dass uns die Frucht der Erlösung zuteil wird. Der du in der Einheit des Heiligen Geistes mit Gott dem Vater lebst und herrschest in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o Creio."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        "Credo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das Credo wird gebetet."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecclésiæ tuæ, quǽsumus, Dómine, unitátis et pacis propítius dona concéde, quæ sub oblátis munéribus mýstice designántur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, nós vos pedimos,"
+       ],
+       [
+        "concedei benigno à vossa Igreja os dons da unidade e da paz,"
+       ],
+       [
+        "misticamente simbolizados por estas oferendas."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant your Church, O Lord, we pray, the gifts of unity and peace,"
+       ],
+       [
+        "whose signs are to be seen in mystery in the offerings we here present."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, concede propicio a tu Iglesia"
+       ],
+       [
+        "los dones de la paz y de la unidad,"
+       ],
+       [
+        "místicamente representados"
+       ],
+       [
+        "en los dones que hemos ofrecido."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedi benigno alla tua Chiesa, o Signore, i doni dell'unità e della pace, misticamente significati nelle offerte che ti presentiamo. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur :"
+       ],
+       [
+        "dans ta bonté accorde à ton Église"
+       ],
+       [
+        "les dons de l'unité et de la paix,"
+       ],
+       [
+        "signifiés mystérieusement"
+       ],
+       [
+        "par les présents que nous t'offrons."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, wir bringen das Brot dar, das aus vielen Körnern bereitet, und den Wein, der aus vielen Trauben gewonnen ist. Schenke deiner Kirche, was diese Gaben geheimnisvoll bezeichnen: die Einheit und den Frieden. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 6, 57"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 6, 56"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 6: 57"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Io 6, 57"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 6, 57"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 6, 57"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in eo, dicit Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quem come a minha carne e bebe o meu sangue,"
+       ],
+       [
+        "permanece em mim e eu nele, diz o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Whoever eats my flesh and drinks my blood remains in me and I in him, says the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que come mi carne y bebe mi sangre habita en mí y yo en él, dice el Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "★ A "
+        }
+       ],
+       [
+        "Dice il Signore: «Chi mangia la mia carne e beve il mio sangue rimane in me e io in lui». Alleluia"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B "
+        }
+       ],
+       [
+        "«Prendete, questo è il mio corpo. Questo è il mio sangue dell'alleanza», dice il Signore. Alleluia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C "
+        }
+       ],
+       [
+        "Gesù prese i cinque pani e i due pesci e li diede ai discepoli perché li distribuissero alla folla. Alleluia"
+       ]
+      ],
+      "cite": "Cf. Lc 9, 16"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Celui qui mange ma chair et boit mon sang"
+       ],
+       [
+        "demeure en moi, et moi en lui, dit le Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Wer mein Fleisch isst und mein Blut trinkt, der bleibt in mir, und ich bleibe in ihm."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fac nos, quǽsumus, Dómine, divinitátis tuæ sempitérna fruitióne repléri, quam pretiósi Córporis et Sánguinis tui temporális percéptio præfigúrat. Qui vivis et regnas in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedei-nos, Senhor,"
+       ],
+       [
+        "a participação eterna na vossa divindade"
+       ],
+       [
+        "que, no tempo presente,"
+       ],
+       [
+        "é prefigurada na comunhão do vosso precioso Corpo e Sangue."
+       ],
+       [
+        "Vós que viveis e reinais pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, O Lord, we pray,"
+       ],
+       [
+        "that we may delight for all eternity"
+       ],
+       [
+        "in that share in your divine life,"
+       ],
+       [
+        "which is foreshadowed in the present age"
+       ],
+       [
+        "by our reception of your precious Body and Blood. Who live and reign for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concédenos, Señor,"
+       ],
+       [
+        "saciarnos del gozo eterno de tu divinidad,"
+       ],
+       [
+        "anticipado en la recepción actual"
+       ],
+       [
+        "de tu precioso Cuerpo y Sangre."
+       ],
+       [
+        "Tú, que vives y reinas por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Donaci, o Signore, di godere pienamente della tua vita divina nel convito eterno, che ci hai fatto pregustare in questo sacramento del tuo Corpo e del tuo Sangue. Tu che vivi e regni nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur Jésus Christ :"
+       ],
+       [
+        "donne-nous de goûter pleinement"
+       ],
+       [
+        "à ta vie divine dans l'éternité,"
+       ],
+       [
+        "ce que préfigure dans le temps"
+       ],
+       [
+        "la communion à ton Corps et à ton Sang précieux."
+       ],
+       [
+        "Toi qui vis et règnes pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr Jesus Christus, der Empfang deines Leibes und Blutes ist für uns ein Vorgeschmack der kommenden Herrlichkeit. Sättige uns im ewigen Leben durch den vollen Genuss deiner Gottheit. Der du lebst und herrschest in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Expedit ut processio fiat post Missam, in qua hostia in processione deferenda consecretur. Nihil tamen impedit quominus processio peragatur etiam post publicam et protractam adorationem quæ Missam sequatur. Si processio fit post Missam, expleta fidelium Communione, ostensorium, in quo posita est hostia consecrata, in altari collocatur. Dicta oratione post Communionem, omissis ritibus conclusionis, instruitur processio."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A procissão se faça depois da Missa, na qual se consagra a hóstia que será levada processionalmente. Nada impede, no entanto, que a procissão se realize também em seguida a uma prolongada adoração pública depois da Missa. 5e a procissão se faz logo depois da Missa, coloca-se, ao término da comunhão dos fiéis, o ostensório com a hóstia consagrada no altar. Terminada a oração depois da comunhão, omitindo-se os ritos finais, começa a procissão."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "It is desirable that a procession take place after the Mass in which the Host to be carried in the procession is consecrated. However, nothing prohibits a procession from taking place even after a public and lengthy period of adoration following the Mass. If a procession takes place after Mass, when the Communion of the faithful is over, the monstrance in which the consecrated host has been placed is set on the altar. When the Prayer after Communion has been said, the Concluding Rites are omitted and the procession forms."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Conviene que la procesión tenga lugar después de la misa en la que se consagra la hostia que se ha de llevar en ella. Pero nada impide que la procesión se haga después de una adoración pública y prolongada que siga a la misa. Si la procesión se tiene inmediatamente después de la misa, concluida la comunión de los fieles se coloca sobre el altar la custodia en la cual se pone la hostia consagrada."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Dicha la oración después de la comunión y omitidos los ritos conclusivos, se organiza la procesión."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "È opportuno che la solenne processione eucaristica si svolga dopo la Messa nella quale si consacra l'ostia che si porterà in processione. Tuttavia nulla impedisce che la processione abbia luogo dopo una pubblica e prolungata adorazione che segue la Messa. Se la processione si svolge dopo la Messa, terminata la comunione dei fedeli, si colloca sull'altare un ostensorio, nel quale viene posta l'ostia consacrata. Detta l'Dopo la comunione e omessi i riti di conclusione, si avvia la processione."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il convient de faire une procession après la messe au cours de laquelle l'hostie portée en procession a été consacrée. Rien n'empêche cependant que la procession se déroule même après l'adoration publique et prolongée qui suit la messe. Si la procession a lieu après la messe, une fois terminée la communion des fidèles, on place sur l'autel l'ostensoir dans lequel se trouve l'hostie consacrée. La procession se met en marche après la prière après la communion et l'on omet les rites de conclusion."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  }
+ ],
+ "precedence": 3,
+ "prefaces": [
+  "preface.36",
+  "preface.37",
+  "preface.38"
+ ],
+ "title": {
+  "la": "IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS — Feria V post Ss. mam Trinitatem — SANCTISSIMI CORPORIS ET SANGUINIS CHRISTI",
+  "pt-BR": "SOLENIDADES DO SENHOR NO TEMPO COMUM — Quinta-feira depois da Santíssima Trindade — SANTÍSSIMO CORPO E SANGUE DE CRISTO",
+  "en-US": "THE MOST HOLY BODY AND BLOOD OF CHRIST — (CORPUS CHRISTI)",
+  "es": "SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO — Domingo después de la Santísima Trinidad — SANTÍSIMO CUERPO Y SANGRE DE CRISTO",
+  "it": "SOLENNITA' DEL SIGNORE NEL TEMPO ORDINARIO — SANTISSIMO CORPO E SANGUE DI CRISTO",
+  "fr": "Temps ordinaire — SOLENNITÉ DU SAINT SACREMENT",
+  "de": "HERRENFESTE IM JAHRESKREIS — Donnerstag der 2. Woche nach Pfingsten — HOCHFEST DES LEIBES UND BLUTES CHRISTI — FRONLEICHNAM"
+ },
+ "subtitle": {
+  "la": "Sollemnitas",
+  "pt-BR": "Solenidade",
+  "en-US": "Solemnity",
+  "es": "Solemnidad",
+  "it": "SOLENNITÀ",
+  "fr": "Sollemnitas"
+ }
+}

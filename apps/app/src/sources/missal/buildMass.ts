@@ -15,6 +15,7 @@ import {
   type MassRef,
   type Part,
   type PartOption,
+  type Tag,
 } from '@ember/missal'
 import type { ContainerOption, Primitive } from '@/content/primitives'
 import { type LangPrefs, labelOf, type RenderContext, renderItems } from './render'
@@ -154,7 +155,7 @@ const smallWords = new Set(
   ),
 )
 
-// Upstream sets solemnities and prefaces in capitals; a chip reads better in
+// The corpus sets solemnities and prefaces in capitals; a chip reads better in
 // sentence case. Roman numerals keep theirs.
 function tidyTitle(text: string): string {
   return text
@@ -201,7 +202,7 @@ const collapsible = (title: BilingualText, children: Primitive[]): Primitive => 
   children,
 })
 
-// The alternatives inside one source's text for a part: upstream shows one of
+// The alternatives inside one source's text for a part: one of
 // several ("or", short and long forms) at a time.
 function alternatives(
   items: Item[],
@@ -312,7 +313,7 @@ function prefaceBlock(plan: MassPlan, docs: MassDocs, ctx: RenderContext): Primi
       children: renderItems(printed.items, ctx),
     })
   }
-  // A preface upstream has in another language only (Spain's extra Marian
+  // A preface the corpus has in another language only (Spain's extra Marian
   // prefaces) is no choice for this reader.
   for (const preface of plan.prefaces) {
     const title = preface.title ?? {}
@@ -418,8 +419,8 @@ function description(plan: MassPlan, ctx: RenderContext): Primitive[] {
   )
 }
 
-const penitentialForms = ['penitential-act.1', 'penitential-act.2', 'penitential-act.3']
-const creedForms = ['creed.nicene', 'creed.apostles']
+const penitentialForms: Tag[] = ['penitential-act.1', 'penitential-act.2', 'penitential-act.3']
+const creedForms: Tag[] = ['creed.nicene', 'creed.apostles']
 // The rites a formulary places after the homily are filed before one of these.
 const afterHomily = new Set<Part | undefined>([
   'creed',
@@ -428,7 +429,7 @@ const afterHomily = new Set<Part | undefined>([
 ])
 
 // Whether an item belongs to one of these named stretches of the rite.
-const within = (item: Item, tags: string[]) => tags.some((tag) => item.tags?.includes(tag))
+const within = (item: Item, tags: Tag[]) => tags.some((tag) => item.tags?.includes(tag))
 
 function takeWhile(items: Item[], from: number, test: (item: Item) => boolean): Item[] {
   const taken: Item[] = []
@@ -524,7 +525,7 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
       else if (part === 'eucharisticPrayer') out.push(...eucharisticPrayerBlock(plan, docs, ctx))
       else out.push(...partBlock(part, plan, ctx))
       // The Order's own text for a part is its fallback (and, for the preface
-      // and the Eucharistic Prayer, upstream's index of them).
+      // and the Eucharistic Prayer, an index of them).
       const own = takeWhile(items, i, (next) => next.part === part)
       const reading = part === 'firstReading' || part === 'secondReading' || part === 'gospel'
       const replaced =

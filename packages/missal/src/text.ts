@@ -25,7 +25,7 @@ export function localize(text: Localized | undefined, lang: Lang): string | unde
 }
 
 /**
- * Drop the words said only on other days. Upstream marks them inline (the
+ * Drop the words said only on other days. The corpus marks them inline (the
  * proper Communicantes of the Roman Canon, the insertions for Holy Thursday);
  * `active` names the conditions that hold today.
  */

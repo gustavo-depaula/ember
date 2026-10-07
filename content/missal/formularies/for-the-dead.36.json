@@ -1,1 +1,380 @@
-{"id":"for-the-dead.36","source":"comunes_votivas/difuntos#dif036","kind":"for-the-dead","items":[{"slot":"486","text":{"la":[{"k":"h2","lines":[["IV. ORATIONES DIVERSÆ PRO DEFUNCTIS"]]},{"k":"h3","lines":[["6. PRO DEFUNCTO QUI IN SERVITIO EVANGELII LABORAVIT"]]}],"pt-BR":[{"k":"h2","lines":[["IV. ORAÇÕES DIVERSAS PELOS DEFUNTOS"]]},{"k":"h3","lines":[["6. POR QUEM TRABALHOU NO SERVIÇO DO EVANGELHO"]]}],"en-US":[{"k":"h2","lines":[["IV. VARIOUS PRAYERS FOR THE DEAD"]]},{"k":"h3","lines":[["6. FOR ONE WHO WORKED IN THE SERVICE OF THE GOSPEL"]]}],"es":[{"k":"h2","lines":[["IV. DIVERSAS ORACIONES POR LOS DIFUNTOS"]]},{"k":"h3","lines":[["6. POR UN DIFUNTO QUE HA TRABAJADO EN EL SERVICIO DEL EVANGELIO"]]}],"it":[{"k":"h2","lines":[["IV. ORAZIONI DIVERSE PER I DEFUNTI"]]},{"k":"h3","lines":[["6. PER UN DEFUNTO CHE HA LAAVORATO A SERVIZIO DEL VANGELO"]]}],"fr":[{"k":"h2","lines":[["IV. PRIÈRES DIVERSES POUR LES DÉFUNTS"]]},{"k":"h3","lines":[["6. POUR QUELQU'UN QUI S'EST DÉPENSÉ AU SERVICE DE L'ÉVANGILE"]]}],"de":[{"k":"h2","lines":[["IV. WEITERE ORATIONEN FÜR VERSTORBENE"]]},{"k":"h3","lines":[["6. FÜR EINEN VERSTORBENEN, DER IN DER VERKÜNDIGUNG TÄTIG WAR"]]}]},"part":"title"},{"slot":"487","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"488","text":{"la":[{"k":"p","lines":[["Misericórdiam tuam, Dómine, pro fámulo tuo ",{"m":"rubric","t":"N."}," súpplices deprecámur, ut, qui pro Evangélio dilatándo allaborávit assíduus, ad prǽmia regni mereátur intráre secúrus. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, humildemente imploramos a vossa misericórdia, para que nosso irmão ",{"m":"rubric","t":"N."},", trabalhador incansável na difusão do Evangelho, mereça receber o prêmio do Reino. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["We humbly beseech your mercy, O Lord, for your servant ",{"m":"rubric","t":"N."},", that, having worked tirelessly for the spread of the Gospel, he ",{"m":"rubric","t":"("},"she",{"m":"rubric","t":")"}," may merit to enter into the rewards of the Kingdom. Through our lord Jesus Christ, your son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Imploramos humildemente tu misericordia, Señor,"],["por tu siervo ",{"m":"rubric","t":"N."},","],["que trabajó fielmente en la propagación del Evangelio,"],["para que alcance seguro el premio de tu reino."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Invochiamo umilmente, Signore, la tua misericordia per il nostro fratello [nostra sorella] N., che si è speso[a] per la diffusione del Vangelo, perché possa entrare con fiducia nel regno promesso. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Sûrs de ton amour, nous te prions, Seigneur."],["Ton serviteur ",{"m":"rubric","t":"N."}," s'est dépensé"],["pour le rayonnement de l'Évangile :"],["qu'il obtienne maintenant la joie du Royaume."],["Par Jésus Christ."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, wir bitten dich für deinen verstorbenen Diener ",{"m":"rubric","t":"N. ("},"deine verstorbene Dienerin ",{"m":"rubric","t":"N.)"},". Er (sie) hat sich auf Erden um die Verkündigung deines Wortes gemüht; nimm ihn (sie) in deine Freude auf und gib ihm (ihr) in deinem Reich den verheißenen Lohn. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"}],"title":{"la":"IV. ORATIONES DIVERSÆ PRO DEFUNCTIS","pt-BR":"IV. ORAÇÕES DIVERSAS PELOS DEFUNTOS","en-US":"IV. VARIOUS PRAYERS FOR THE DEAD","es":"IV. DIVERSAS ORACIONES POR LOS DIFUNTOS","it":"IV. ORAZIONI DIVERSE PER I DEFUNTI","fr":"IV. PRIÈRES DIVERSES POUR LES DÉFUNTS","de":"IV. WEITERE ORATIONEN FÜR VERSTORBENE"},"subtitle":{"la":"6. PRO DEFUNCTO QUI IN SERVITIO EVANGELII LABORAVIT","pt-BR":"6. POR QUEM TRABALHOU NO SERVIÇO DO EVANGELHO","en-US":"6. FOR ONE WHO WORKED IN THE SERVICE OF THE GOSPEL","es":"6. POR UN DIFUNTO QUE HA TRABAJADO EN EL SERVICIO DEL EVANGELIO","it":"6. PER UN DEFUNTO CHE HA LAAVORATO A SERVIZIO DEL VANGELO","fr":"6. POUR QUELQU'UN QUI S'EST DÉPENSÉ AU SERVICE DE L'ÉVANGILE","de":"6. FÜR EINEN VERSTORBENEN, DER IN DER VERKÜNDIGUNG TÄTIG WAR"}}
+{
+ "id": "for-the-dead.36",
+ "kind": "for-the-dead",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. ORATIONES DIVERSÆ PRO DEFUNCTIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "6. PRO DEFUNCTO QUI IN SERVITIO EVANGELII LABORAVIT"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. ORAÇÕES DIVERSAS PELOS DEFUNTOS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "6. POR QUEM TRABALHOU NO SERVIÇO DO EVANGELHO"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. VARIOUS PRAYERS FOR THE DEAD"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "6. FOR ONE WHO WORKED IN THE SERVICE OF THE GOSPEL"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. DIVERSAS ORACIONES POR LOS DIFUNTOS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "6. POR UN DIFUNTO QUE HA TRABAJADO EN EL SERVICIO DEL EVANGELIO"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. ORAZIONI DIVERSE PER I DEFUNTI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "6. PER UN DEFUNTO CHE HA LAAVORATO A SERVIZIO DEL VANGELO"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. PRIÈRES DIVERSES POUR LES DÉFUNTS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "6. POUR QUELQU'UN QUI S'EST DÉPENSÉ AU SERVICE DE L'ÉVANGILE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IV. WEITERE ORATIONEN FÜR VERSTORBENE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "6. FÜR EINEN VERSTORBENEN, DER IN DER VERKÜNDIGUNG TÄTIG WAR"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Misericórdiam tuam, Dómine, pro fámulo tuo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " súpplices deprecámur, ut, qui pro Evangélio dilatándo allaborávit assíduus, ad prǽmia regni mereátur intráre secúrus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, humildemente imploramos a vossa misericórdia, para que nosso irmão ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", trabalhador incansável na difusão do Evangelho, mereça receber o prêmio do Reino. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We humbly beseech your mercy, O Lord, for your servant ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", that, having worked tirelessly for the spread of the Gospel, he ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "she",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " may merit to enter into the rewards of the Kingdom. Through our lord Jesus Christ, your son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Imploramos humildemente tu misericordia, Señor,"
+       ],
+       [
+        "por tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "que trabajó fielmente en la propagación del Evangelio,"
+       ],
+       [
+        "para que alcance seguro el premio de tu reino."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Invochiamo umilmente, Signore, la tua misericordia per il nostro fratello [nostra sorella] N., che si è speso[a] per la diffusione del Vangelo, perché possa entrare con fiducia nel regno promesso. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sûrs de ton amour, nous te prions, Seigneur."
+       ],
+       [
+        "Ton serviteur ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " s'est dépensé"
+       ],
+       [
+        "pour le rayonnement de l'Évangile :"
+       ],
+       [
+        "qu'il obtienne maintenant la joie du Royaume."
+       ],
+       [
+        "Par Jésus Christ."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, wir bitten dich für deinen verstorbenen Diener ",
+        {
+         "m": "rubric",
+         "t": "N. ("
+        },
+        "deine verstorbene Dienerin ",
+        {
+         "m": "rubric",
+         "t": "N.)"
+        },
+        ". Er (sie) hat sich auf Erden um die Verkündigung deines Wortes gemüht; nimm ihn (sie) in deine Freude auf und gib ihm (ihr) in deinem Reich den verheißenen Lohn. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  }
+ ],
+ "title": {
+  "la": "IV. ORATIONES DIVERSÆ PRO DEFUNCTIS",
+  "pt-BR": "IV. ORAÇÕES DIVERSAS PELOS DEFUNTOS",
+  "en-US": "IV. VARIOUS PRAYERS FOR THE DEAD",
+  "es": "IV. DIVERSAS ORACIONES POR LOS DIFUNTOS",
+  "it": "IV. ORAZIONI DIVERSE PER I DEFUNTI",
+  "fr": "IV. PRIÈRES DIVERSES POUR LES DÉFUNTS",
+  "de": "IV. WEITERE ORATIONEN FÜR VERSTORBENE"
+ },
+ "subtitle": {
+  "la": "6. PRO DEFUNCTO QUI IN SERVITIO EVANGELII LABORAVIT",
+  "pt-BR": "6. POR QUEM TRABALHOU NO SERVIÇO DO EVANGELHO",
+  "en-US": "6. FOR ONE WHO WORKED IN THE SERVICE OF THE GOSPEL",
+  "es": "6. POR UN DIFUNTO QUE HA TRABAJADO EN EL SERVICIO DEL EVANGELIO",
+  "it": "6. PER UN DEFUNTO CHE HA LAAVORATO A SERVIZIO DEL VANGELO",
+  "fr": "6. POUR QUELQU'UN QUI S'EST DÉPENSÉ AU SERVICE DE L'ÉVANGILE",
+  "de": "6. FÜR EINEN VERSTORBENEN, DER IN DER VERKÜNDIGUNG TÄTIG WAR"
+ }
+}

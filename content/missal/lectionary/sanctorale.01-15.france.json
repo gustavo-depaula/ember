@@ -1,1 +1,744 @@
-{"id":"sanctorale.01-15.france","source":"lecturas/lecturas_santos_fran#0115","items":[{"text":{"*":[{"k":"h2","lines":[["15 janvier"],["Saint Remi, évêque"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Mémoire facultative en France"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"p","lines":[["Première lecture"]],"role":"title"}]},"part":"firstReading"},{"text":{"*":[{"k":"p","lines":[["Lettre de saint Paul Apôtre aux Romains"]],"cite":"15, 14-19a","role":"announcement"}]},"part":"firstReading"},{"text":{"*":[{"k":"p","lines":[["Je suis convaincu, mes frères, que vous êtes pleins de bonnes qualités, remplis de toute connaissance de Dieu, et capables aussi de vous reprendre les uns les autres. Mais je vous ai écrit avec un peu d’audace, comme pour raviver votre mémoire sur certains points, et c’est en raison de la grâce que Dieu m’a donnée. Cette grâce, c’est d’être ministre du Christ Jésus pour les nations, avec la fonction sacrée d’annoncer l’Évangile de Dieu, afin que l’offrande des nations soit acceptée par Dieu, sanctifiée dans l’Esprit Saint. Je mets donc ma fierté dans le Christ Jésus, pour ce qui est du service de Dieu. Car je n’oserais rien dire s’il ne s’agissait de ce que le Christ a mis en œuvre par moi afin d’amener les nations païennes à l’obéissance de la foi, par la parole et l’action, la puissance des signes et des prodiges, la puissance de l’Esprit de Dieu."]]}]},"part":"firstReading"},{"text":{"*":[{"k":"p","lines":[["Parole du Seigneur."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"1","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"text":{"*":[{"k":"p","lines":[["Psaume"]],"cite":"40(39), 2.4ab, 7-8a, 8b-9, 10, 11","role":"title"}]},"part":"psalm"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}]},"part":"psalm","role":"people"},{"text":{"*":[{"k":"p","lines":[["D'un grand espoir j'espérais le Seigneur :"],["il s'est penché vers moi pour entendre mon cri."],["Dans ma bouche il a mis un chant nouveau,"],["une louange à notre Dieu."]]}]},"part":"psalm","role":"verse"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}]},"part":"psalm","role":"people"},{"text":{"*":[{"k":"p","lines":[["Tu ne voulais ni offrande ni sacrifice,"],["tu as ouvert mes oreilles ; *"],["tu ne demandais ni holocauste ni victime,"],["alors j’ai dit : « Voici, je viens."]]}]},"part":"psalm","role":"verse"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}]},"part":"psalm","role":"people"},{"text":{"*":[{"k":"p","lines":[["« Dans le livre, est écrit pour moi"],["ce que tu veux que je fasse. *"],["Mon Dieu, voilà ce que j’aime :"],["ta loi me tient aux entrailles. »"]]}]},"part":"psalm","role":"verse"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}]},"part":"psalm","role":"people"},{"text":{"*":[{"k":"p","lines":[["J’annonce la justice"],["dans la grande assemblée ; *"],["vois, je ne retiens pas mes lèvres,"],["Seigneur, tu le sais."]]}]},"part":"psalm","role":"verse"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}]},"part":"psalm","role":"people"},{"text":{"*":[{"k":"p","lines":[["Alléluia"]],"role":"title"}]},"part":"acclamation"},{"text":{"*":[{"k":"p","lines":[["Alléluia."],["Le Seigneur a choisi Rémi, son serviteur, comme berger de son peuple, pour le conduire aux eaux du salut."],["Alléluia."]]}]},"part":"acclamation","role":"verse"},{"text":{"*":[{"k":"p","lines":[["Proclamation de l'Évangile"]],"role":"title"}]},"part":"gospel"},{"text":{"*":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Jean"]],"cite":"14, 12-14","role":"announcement"}]},"part":"gospel"},{"slot":"2","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"text":{"*":[{"k":"p","lines":[["En ce temps-là, Jésus disait à ses disciples : « Croyez-moi : je suis dans le Père, et le Père est en moi ; si vous ne me croyez pas, croyez du moins à cause des œuvres elles-mêmes. Amen, amen, je vous le dis : celui qui croit en moi fera les œuvres que je fais. Il en fera même de plus grandes, parce que je pars vers le Père, et tout ce que vous demanderez en mon nom, je le ferai, afin que le Père soit glorifié dans le Fils. Quand vous me demanderez quelque chose en mon nom, moi, je le ferai. »"]]}]},"part":"gospel"},{"text":{"*":[{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}]},"part":"gospel"},{"slot":"3","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"*":"Saint Remi, évêque"}}
+{
+ "id": "sanctorale.01-15.france",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 janvier"
+       ],
+       [
+        "Saint Remi, évêque"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Mémoire facultative en France"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lettre de saint Paul Apôtre aux Romains"
+       ]
+      ],
+      "cite": "15, 14-19a",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je suis convaincu, mes frères, que vous êtes pleins de bonnes qualités, remplis de toute connaissance de Dieu, et capables aussi de vous reprendre les uns les autres. Mais je vous ai écrit avec un peu d’audace, comme pour raviver votre mémoire sur certains points, et c’est en raison de la grâce que Dieu m’a donnée. Cette grâce, c’est d’être ministre du Christ Jésus pour les nations, avec la fonction sacrée d’annoncer l’Évangile de Dieu, afin que l’offrande des nations soit acceptée par Dieu, sanctifiée dans l’Esprit Saint. Je mets donc ma fierté dans le Christ Jésus, pour ce qui est du service de Dieu. Car je n’oserais rien dire s’il ne s’agissait de ce que le Christ a mis en œuvre par moi afin d’amener les nations païennes à l’obéissance de la foi, par la parole et l’action, la puissance des signes et des prodiges, la puissance de l’Esprit de Dieu."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "40(39), 2.4ab, 7-8a, 8b-9, 10, 11",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "D'un grand espoir j'espérais le Seigneur :"
+       ],
+       [
+        "il s'est penché vers moi pour entendre mon cri."
+       ],
+       [
+        "Dans ma bouche il a mis un chant nouveau,"
+       ],
+       [
+        "une louange à notre Dieu."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu ne voulais ni offrande ni sacrifice,"
+       ],
+       [
+        "tu as ouvert mes oreilles ; *"
+       ],
+       [
+        "tu ne demandais ni holocauste ni victime,"
+       ],
+       [
+        "alors j’ai dit : « Voici, je viens."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "« Dans le livre, est écrit pour moi"
+       ],
+       [
+        "ce que tu veux que je fasse. *"
+       ],
+       [
+        "Mon Dieu, voilà ce que j’aime :"
+       ],
+       [
+        "ta loi me tient aux entrailles. »"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "J’annonce la justice"
+       ],
+       [
+        "dans la grande assemblée ; *"
+       ],
+       [
+        "vois, je ne retiens pas mes lèvres,"
+       ],
+       [
+        "Seigneur, tu le sais."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "role": "title"
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia."
+       ],
+       [
+        "Le Seigneur a choisi Rémi, son serviteur, comme berger de son peuple, pour le conduire aux eaux du salut."
+       ],
+       [
+        "Alléluia."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Jean"
+       ]
+      ],
+      "cite": "14, 12-14",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses disciples : « Croyez-moi : je suis dans le Père, et le Père est en moi ; si vous ne me croyez pas, croyez du moins à cause des œuvres elles-mêmes. Amen, amen, je vous le dis : celui qui croit en moi fera les œuvres que je fais. Il en fera même de plus grandes, parce que je pars vers le Père, et tout ce que vous demanderez en mon nom, je le ferai, afin que le Père soit glorifié dans le Fils. Quand vous me demanderez quelque chose en mon nom, moi, je le ferai. »"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "Saint Remi, évêque"
+ }
+}

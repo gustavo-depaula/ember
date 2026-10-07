@@ -1,1 +1,2447 @@
-{"id":"tempore.solemnity.sacred-heart-of-jesus","source":"tiempos/tiempos_ordinario#OT53","kind":"tempore","items":[{"slot":"471","text":{"la":[{"k":"h2","lines":[["IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS"],["Feria VI post Dominicam II post Pentecosten"],["SACRATISSIMI CORDIS IESU"]]},{"k":"h3","lines":[["Sollemnitas"]]}],"pt-BR":[{"k":"h2","lines":[["SOLENIDADES DO SENHOR NO TEMPO COMUM"],["Sexta-feira após o 2º domingo depois de Pentecostes"],["SAGRADO CORAÇÃO DE JESUS"]]},{"k":"h3","lines":[["Solenidade"]]}],"en-US":[{"k":"h2","lines":[["THE MOST SACRED HEART OF JESUS"]]},{"k":"h3","lines":[["Friday after the Second Sunday after Pentecost"],["Solemnity"]]}],"es":[{"k":"h2","lines":[["SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO"],["Viernes posterior al segundo domingo de Pentecostés"],["SAGRADO CORAZÓN DE JESÚS"]]},{"k":"h3","lines":[["Solemnidad"]]}],"it":[{"k":"h2","lines":[["SOLENNITÀ DEL SIGNORE NEL TEMPO ORDINARIO"],["Venerdì dopo la II domenica dopo Pentecoste"],["SACRATISSIMO CUORE DI GESÙ"]]},{"k":"h3","lines":[["SOLENNITÀ"]]}],"fr":[{"k":"h2","lines":[["Temps ordinaire"],["SOLENNITÉ DU SACRÉ CŒUR"]]}],"de":[{"k":"h2","lines":[["HERRENFESTE IM JAHRESKREIS"],["Freitag der 3. Woche nach Pfingsten"],["HEILIGSTES HERZ JESU"]]},{"k":"h3","lines":[["Hochfest"]]}]},"part":"title"},{"slot":"472","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ps 32, 11. 19"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 32, 11. 19"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Ps 32, 11. 19"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 32, 11. 19"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Sal 32, 11.19"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ps 32, 11. 19"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 33 (32), 11. 19"}]},"part":"entranceAntiphon"},{"slot":"473","text":{"la":[{"k":"p","lines":[["Cogitatiónes Cordis eius in generatióne et generatiónem, ut éruat a morte ánimas eórum et alat eos in fame."]]}],"pt-BR":[{"k":"p","lines":[["Os desígnios do Coração do Senhor"],["perduram de geração em geração,"],["para da morte libertar as suas vidas"],["e alimentá-los quando é tempo de penúria."]]}],"en-US":[{"k":"p","lines":[["The designs of his Heart are from age to age, to rescue their souls from death,"],["and to keep them alive in famine."]]}],"es":[{"k":"p","lines":[["Los proyectos de su Corazón subsisten de edad en edad, para librar sus vidas de la muerte y reanimarlos en tiempo de hambre."]]}],"it":[{"k":"p","lines":[["I disegni del suo cuore sussistono per sempre, per liberare i suoi figli dalla morte e nutrirli in tempo di fame."]]}],"fr":[{"k":"p","lines":[["Les pensées de son Cœur subsistent d'âge en âge :"],["il veut délivrer de la mort les âmes de ceux qui le craignent,"],["et les nourrir aux jours de famine."]]}],"de":[{"k":"p","lines":[["Der Ratschluss des Herrn bleibt ewig bestehen, die Pläne seines Herzens überdauern die Zeiten: Er will uns dem Tod entreißen und in der Hungersnot unser Leben erhalten."]]}]},"part":"entranceAntiphon"},{"slot":"474","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Das "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":" wird gebetet."}]]}]},"part":"gloria"},{"slot":"475","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"476","text":{"la":[{"k":"p","lines":[["Concéde, quǽsumus, omnípotens Deus, ut qui, dilécti Fílii tui Corde gloriántes, eius præcípua in nos benefícia recólimus caritátis, de illo donórum fonte cælésti supereffluéntem grátiam mereámur accípere. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus todo-poderoso,"],["alegrando-nos com a solenidade do Coração do vosso amado Filho,"],["recordamos os grandes benefícios do seu amor para conosco."],["Concedei que mereçamos receber desta fonte divina"],["uma torrente de graças."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, almighty God,"],["that we, who glory in the Heart of your beloved Son"],["and recall the wonders of his love for us,"],["may be made worthy to receive"],["an overflowing measure of grace"],["from that fount of heavenly gifts."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso,"],["concede a quienes,"],["alegrándonos en el Corazón de tu Hijo amado,"],["recordamos los inmensos beneficios de su amor hacia nosotros,"],["merecer recibir una inagotable abundancia de gracia"],["de aquella fuente celestial de los dones."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Padre, che nel Cuore del tuo dilettissimo Figlio ci dai la gioia di celebrare le grandi opere del tuo amore per noi, fa' che da questa fonte inesauribile attingiamo l'abbondanza dei tuoi doni. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant,"],["en glorifiant le Cœur de ton Fils bien-aimé,"],["nous rappelons les admirables bienfaits de son amour pour nous ;"],["nous t'en prions, accorde-nous"],["de puiser à cette source divine"],["une surabondance de grâce."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, wir verehren das Herz deines geliebten Sohnes und preisen die großen Taten seiner Liebe. Gib, dass wir aus dieser Quelle göttlichen Erbarmens die Fülle der Gnade und des Lebens empfangen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"477","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"collect","role":"rubric"},{"slot":"478","text":{"la":[{"k":"p","lines":[["Deus, qui nobis in Corde Fílii tui, nostris vulneráto peccátis, infinítos dilectiónis thesáuros misericórditer largíri dignáris, concéde, quǽsumus, ut, illi devótum pietátis nostræ præstántes obséquium, dignæ quoque satisfactiónis exhibeámus offícium. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, no Coração do vosso Filho"],["ferido por nossos pecados"],["vos dignais em vossa misericórdia"],["abrir-nos infinitos tesouros de amor."],["Concedei, nós vos pedimos,"],["que, prestando-lhe nossa fervorosa homenagem de piedade,"],["cumpramos também o dever de uma digna reparação."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who in the Heart of your Son, wounded by our sins,"],["bestow on us in mercy"],["the boundless treasures of your love, grant, we pray,"],["that, in paying him the homage of our devotion,"],["we may also offer worthy reparation."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios, que en el Corazón de tu Hijo,"],["herido por nuestros pecados,"],["te has dignado regalarnos misericordiosamente infinitos tesoros de amor,"],["te pedimos que,"],["al rendirle el homenaje de nuestra piedad,"],["manifestemos también una conveniente reparación."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Padre misericordioso, che nel Cuore del tuo Figlio trafitto dai nostri peccati ci hai aperto i tesori infiniti del tuo amore, fa' che rendendogli l'omaggio della nostra fede adempiamo anche al dovere di una degna riparazione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur notre Dieu,"],["dans le Cœur de ton Fils meurtri par nos péchés,"],["tu nous prodigues avec miséricorde"],["les trésors infinis de ta tendresse ;"],["nous t'en prions :"],["fais que, dans l'hommage fervent de notre piété,"],["nous lui rendions aussi les devoirs d'une juste réparation."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, du öffnest uns den unendlichen Reichtum der Liebe im Herzen deines Sohnes, das unsere Sünden verwundet haben. Gib, dass wir durch aufrichtige Umkehr Christus Genugtuung leisten und ihm mit ganzer Hingabe dienen, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"479","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur Credo."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o Creio."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},"Credo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le Credo."}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Das Credo wird gebetet."}]]}]},"part":"creed"},{"slot":"480","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"481","text":{"la":[{"k":"p","lines":[["Réspice, quǽsumus, Dómine, ad ineffábilem Cordis dilécti Fílii tui caritátem, ut quod offérimus sit tibi munus accéptum et nostrórum expiátio delictórum. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, nós vos pedimos,"],["olhai para o inefável amor do Coração do vosso amado Filho,"],["a fim de que nossa oferenda vos seja agradável"],["e sirva de reparação pelos nossos pecados."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look, O Lord, we pray, on the surpassing charity in the Heart of your beloved Son,"],["that what we offer may be a gift acceptable to you and an expiation of our offenses."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Mira, Señor, el inefable amor"],["del Corazón de tu Hijo predilecto,"],["para que los dones que te presentamos"],["sean ofrenda aceptable a ti y expiación de nuestras culpas."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guarda, o Padre, all'immensa carità del Cuore del tuo Figlio, perché la nostra offerta sia a te gradita e ci ottenga il perdono di tutti i peccati. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Regarde, nous t'en prions, Seigneur,"],["l'amour inexprimable du Cœur de ton Fils bien-aimé,"],["pour que le don que nous t'offrons te soit agréable"],["et contribue à l'expiation de nos péchés."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, sieh auf das durchbohrte Herz deines Sohnes, der uns geliebt und sich für uns hingegeben hat. Lass unser Opfer dir wohlgefallen und zur Sühne für unsere Sünden werden. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"482","text":{"la":[{"k":"h4","lines":[["Præfatio"]]},{"k":"p","lines":[[{"m":"rubric","t":"Præfatio: De immensa caritate Christi."}]]},{"k":"p","lines":[["Vere dignum et iustum est,"],["æquum et salutáre,"],["nos tibi semper et ubíque grátias ágere:"],["Dómine, sancte Pater, omnípotens ætérne Deus:"],["per Christum Dóminum nostrum."]]},{"k":"p","lines":[["Qui, mira caritáte, exaltátus in cruce,"],["pro nobis trádidit semetípsum,"],["atque de transfíxo látere sánguinem fudit et aquam,"],["ex quo manárent Ecclésiæ sacraménta,"],["ut omnes, ad Cor apértum Salvatóris attrácti,"],["iúgiter haurírent e fóntibus salútis in gáudio."]]},{"k":"p","lines":[["Et ídeo,"],["cum Sanctis et Angelis univérsis,"],["te collaudámus, sine fine dicéntes:"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]},{"k":"p","lines":[[{"m":"rubric","t":"Prefácio: O imenso amor de Cristo."}]]},{"k":"p","lines":[["Na verdade, é digno e justo,"],["é nosso dever e salvação dar-vos graças,"],["sempre e em todo lugar,"],["Senhor, Pai santo,"],["Deus eterno e todo-poderoso,"],["Por Cristo, nosso Senhor."]]},{"k":"p","lines":[["Elevado na cruz, entregou-se a si mesmo com admirável amor;"],["do seu lado transpassado"],["jorraram sangue e água"],["e nasceram os sacramentos da Igreja,"],["para que todos, atraídos ao Coração aberto do Salvador,"],["pudessem beber com perene alegria das fontes da salvação."]]},{"k":"p","lines":[["Por isso, com a multidão dos anjos e dos santos,"],["nós vos louvamos, cantando ",{"m":"rubric","t":"("},"dizendo",{"m":"rubric","t":")"}," a uma só voz:"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]},{"k":"p","lines":[[{"m":"rubric","t":"Preface: The Boundless Charity of Christ."}]]},{"k":"p","lines":[["It is truly right and just, our duty and our salvation,"],["always and everywhere to give you thanks,"],["Lord, holy Father, almighty and eternal God,"],["through Christ our Lord."]]},{"k":"p","lines":[["For raised up high on the Cross,"],["he gave himself up for us with a wonderful love"],["and poured out blood and water from his pierced side,"],["the wellspring of the Church's Sacraments,"],["so that, won over to the open heart of the Saviour,"],["all might draw water joyfully from the springs of salvation."]]},{"k":"p","lines":[["And so, with all the Angels and Saints,"],["we praise you, as without end we acclaim:"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]},{"k":"p","lines":[[{"m":"rubric","t":"Prefacio: El inmenso amor de Cristo"}]]},{"k":"p","lines":[["En verdad es justo y necesario,"],["es nuestro deber y salvación"],["darte gracias siempre y en todo lugar,"],["Señor, Padre santo,"],["Dios todopoderoso y eterno,"],["por Cristo, Señor nuestro."]]},{"k":"p","lines":[["El cual, con amor admirable,"],["se entregó por nosotros"],["y, elevado sobre la cruz,"],["hizo que de la herida de su costado"],["brotaran, con el agua y la sangre,"],["los sacramentos de la Iglesia,"],["para que así,"],["acercándose al corazón abierto del Salvador,"],["todos puedan beber siempre con gozo"],["de las fuentes de salvación."]]},{"k":"p","lines":[["Por eso,"],["con los santos"],["y con todos los ángeles"],["te glorificamos diciendo sin cesar:"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]},{"k":"p","lines":[[{"m":"rubric","t":"Prefazio: L'immenso amore di Cristo"}]]},{"k":"p","lines":[["È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"],["rendere grazie sempre e in ogni luogo"],["a te, Signore, Padre santo,"],["Dio onnipotente ed eterno,"],["per Cristo Signore nostro."]]},{"k":"p","lines":[["Innalzato sulla croce,"],["nel suo amore senza limiti donò la vita per noi,"],["e dalla ferita del suo fianco effuse sangue e acqua,"],["simbolo dei sacramenti della Chiesa,"],["perché tutti gli uomini, attirati al Cuore del Salvatore,"],["attingessero con gioia alla fonte perenne della salvezza."]]},{"k":"p","lines":[["Per questo mistero,"],["uniti agli angeli e ai santi,"],["proclamiamo senza fine"],["l'inno della tua gloria:"]]}],"fr":[{"k":"h4","lines":[["Préface"]]},{"k":"p","lines":[[{"m":"rubric","t":"Préface: L'immense amour du Christ."}]]},{"k":"p","lines":[["Vraiment, il est juste et bon,"],["pour ta gloire et notre salut,"],["de t'offrir notre action de grâce,"],["toujours et en tout lieu,"],["Seigneur, Père très saint,"],["Dieu éternel et tout-puissant,"],["par le Christ, notre Seigneur."]]},{"k":"p","lines":[["Dans son amour admirable,"],["quand il fut élevé sur la croix,"],["il s'est livré lui-même pour nous"],["et, de son côté transpercé,"],["il répandit le sang et l'eau"],["d'où jaillirent les sacrements de l'Église,"],["afin que tous, attirés vers le Cœur ouvert du Sauveur,"],["ne cessent de venir puiser dans la joie"],["aux sources vives du salut."]]},{"k":"p","lines":[["C'est pourquoi, avec les saints et tous les anges,"],["nous te louons"],["et sans fin nous proclamons :"]]}],"de":[{"k":"h4","lines":[["Präfation"]]},{"k":"p","lines":[[{"m":"rubric","t":"Das Herz des Erlösers und die Gläubigen"}]]},{"k":"p","lines":[["In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und dich mit der ganzen Schöpfung zu loben durch unseren Herrn Jesus Christus."]]},{"k":"p","lines":[["Am Kreuz erhöht, hat er sich für uns dahingegeben aus unendlicher Liebe und alle an sich gezogen. Aus seiner geöffneten Seite strömen Blut und Wasser, aus seinem durchbohrten Herzen entspringen die Sakramente der Kirche. Das Herz des Erlösers steht offen für alle, damit sie freudig schöpfen aus den Quellen des Heiles."]]},{"k":"p","lines":[["Durch ihn rühmen dich deine Erlösten und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"]]}]},"part":"preface"},{"slot":"483","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 7, 37-38"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 7, 37-38"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Jn 7: 37-38"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Io 7, 37-38"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]]}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 7, 37-38"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 7, 37-38"}]},"part":"communionAntiphon"},{"slot":"484","text":{"la":[{"k":"p","lines":[["Dicit Dóminus: Si quis sitit, véniat ad me et bibat. Qui credit in me, flúmina de ventre eius fluent aquæ vivæ."]]}],"pt-BR":[{"k":"p","lines":[["Assim diz o Senhor;"],["Se alguém tem sede, venha a mim e beba."],["Aquele que crê em mim,"],["rios de água viva jorrarão do seu interior."]]}],"en-US":[{"k":"p","lines":[["Thus says the Lord:"],["Let whoever is thirsty come to me and drink. Streams of living water will flow"],["from within the one who believes in me."]]}],"es":[{"k":"p","lines":[["Dice el Señor: «El que tenga sed que venga a mí, y que beba el que cree en mí: de sus entrañas manarán ríos de agua viva»."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"★ A "}],["Imparate da me, che sono mite e umile di cuore, e troverete ristoro per la vostra vita."],[{"m":"rubric","t":"★ B "}],["Gesù gridò: «Se qualcuno ha sete, venga a me, e beva chi crede in me; dal suo grembo sgorgheranno fiumi di acqua viva»."],[{"m":"rubric","t":"★ C "}],["Rallegratevi con me, perché la mia pecora perduta è stata ritrovata."],[{"m":"rubric","t":"★ C "}],["Rallegratevi con me, perché la mia pecora perduta è stata ritrovata."]],"cite":"Cf. Lc 15, 6"}],"fr":[{"k":"p","lines":[["Si quelqu'un a soif, dit le Seigneur,"],["qu'il vienne à moi, et qu'il boive."],["Si quelqu'un croit en moi,"],["de son cœur couleront des fleuves d'eau vive."]]}],"de":[{"k":"p","lines":[["Wer Durst hat, komme zu mir, und es trinke, wer an mich glaubt! Die Schrift sagt: Aus seinem Inneren werden Ströme von lebendigem Wasser fließen."]]}]},"part":"communionAntiphon"},{"slot":"485","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Io 19, 34"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Jo 19, 34"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Jn 19: 34"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Jn 19, 34"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Gv 19, 34"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Jn 19, 34"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Joh 19, 34"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"486","text":{"la":[{"k":"p","lines":[["Unus mílitum láncea latus eius apéruit, et contínuo exívit sanguis et aqua."]]}],"pt-BR":[{"k":"p","lines":[["Um soldado abriu-lhe o lado com uma lança,"],["e logo saiu sangue e água."]]}],"en-US":[{"k":"p","lines":[["One of the soldiers opened his side with a lance, and at once there came forth blood and water."]]}],"es":[{"k":"p","lines":[["Uno de los soldados, con la lanza, le traspasó el costado, y al punto salió sangre y agua."]]}],"it":[{"k":"p","lines":[["Uno dei soldati con una lancia gli colpì il fianco, e subito ne uscì sangue e acqua."]]}],"fr":[{"k":"p","lines":[["Un des soldats avec sa lance lui perça le côté ;"],["et aussitôt, il en sortit du sang et de l'eau."]]}],"de":[{"k":"p","lines":[["Ein Soldat stieß mit der Lanze in seine Seite, und sogleich floss Blut und Wasser heraus."]]}]},"part":"communionAntiphon"},{"slot":"487","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"488","text":{"la":[{"k":"p","lines":[["Sacraméntum caritátis, Dómine, sancta nos fáciat dilectióne fervére, qua, ad Fílium tuum semper attrácti, ipsum in frátribus agnóscere discámus. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, o sacramento da caridade"],["nos inflame de santo amor;"],["e assim, sempre atraídos ao vosso Filho,"],["aprendamos a reconhecê-lo em nossos irmãos."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May this sacrament of charity, O Lord, make us fervent with the fire of holy love, so that, drawn always to your Son,"],["we may learn to see him in our neighbor."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, que el sacramento de la caridad"],["encienda en nosotros el fuego del amor santo"],["por el que, cautivados siempre por tu Hijo,"],["aprendamos a reconocerle en los hermanos."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Il sacramento della carità, o Padre, ci infiammi di santo amore, perché, attratti sempre dal tuo Figlio, impariamo a riconoscerlo nei fratelli. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Par ce sacrement de ton amour, Seigneur,"],["fais-nous brûler d'une charité"],["qui nous attire toujours vers ton Fils,"],["et nous apprenne ainsi à le reconnaître en nos frères."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast uns gestärkt mit dem Sakrament jener Liebe, durch die dein Sohn alles an sich zieht. Entzünde auch in uns das Feuer seiner Liebe, damit wir in unseren Brüdern ihn erkennen und ihm dienen. Darum bitten wir durch ihn, Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":3,"title":{"la":"IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS — Feria VI post Dominicam II post Pentecosten — SACRATISSIMI CORDIS IESU","pt-BR":"SOLENIDADES DO SENHOR NO TEMPO COMUM — Sexta-feira após o 2º domingo depois de Pentecostes — SAGRADO CORAÇÃO DE JESUS","en-US":"THE MOST SACRED HEART OF JESUS","es":"SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO — Viernes posterior al segundo domingo de Pentecostés — SAGRADO CORAZÓN DE JESÚS","it":"SOLENNITÀ DEL SIGNORE NEL TEMPO ORDINARIO — Venerdì dopo la II domenica dopo Pentecoste — SACRATISSIMO CUORE DI GESÙ","fr":"Temps ordinaire — SOLENNITÉ DU SACRÉ CŒUR","de":"HERRENFESTE IM JAHRESKREIS — Freitag der 3. Woche nach Pfingsten — HEILIGSTES HERZ JESU"},"subtitle":{"la":"Sollemnitas","pt-BR":"Solenidade","en-US":"Friday after the Second Sunday after Pentecost Solemnity","es":"Solemnidad","it":"SOLENNITÀ","de":"Hochfest"}}
+{
+ "id": "tempore.solemnity.sacred-heart-of-jesus",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS"
+       ],
+       [
+        "Feria VI post Dominicam II post Pentecosten"
+       ],
+       [
+        "SACRATISSIMI CORDIS IESU"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Sollemnitas"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SOLENIDADES DO SENHOR NO TEMPO COMUM"
+       ],
+       [
+        "Sexta-feira após o 2º domingo depois de Pentecostes"
+       ],
+       [
+        "SAGRADO CORAÇÃO DE JESUS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solenidade"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "THE MOST SACRED HEART OF JESUS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Friday after the Second Sunday after Pentecost"
+       ],
+       [
+        "Solemnity"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO"
+       ],
+       [
+        "Viernes posterior al segundo domingo de Pentecostés"
+       ],
+       [
+        "SAGRADO CORAZÓN DE JESÚS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnidad"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SOLENNITÀ DEL SIGNORE NEL TEMPO ORDINARIO"
+       ],
+       [
+        "Venerdì dopo la II domenica dopo Pentecoste"
+       ],
+       [
+        "SACRATISSIMO CUORE DI GESÙ"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "SOLENNITÀ"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps ordinaire"
+       ],
+       [
+        "SOLENNITÉ DU SACRÉ CŒUR"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "HERRENFESTE IM JAHRESKREIS"
+       ],
+       [
+        "Freitag der 3. Woche nach Pfingsten"
+       ],
+       [
+        "HEILIGSTES HERZ JESU"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Hochfest"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ps 32, 11. 19"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 32, 11. 19"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Ps 32, 11. 19"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 32, 11. 19"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Sal 32, 11.19"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ps 32, 11. 19"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 33 (32), 11. 19"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cogitatiónes Cordis eius in generatióne et generatiónem, ut éruat a morte ánimas eórum et alat eos in fame."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os desígnios do Coração do Senhor"
+       ],
+       [
+        "perduram de geração em geração,"
+       ],
+       [
+        "para da morte libertar as suas vidas"
+       ],
+       [
+        "e alimentá-los quando é tempo de penúria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The designs of his Heart are from age to age, to rescue their souls from death,"
+       ],
+       [
+        "and to keep them alive in famine."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los proyectos de su Corazón subsisten de edad en edad, para librar sus vidas de la muerte y reanimarlos en tiempo de hambre."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I disegni del suo cuore sussistono per sempre, per liberare i suoi figli dalla morte e nutrirli in tempo di fame."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les pensées de son Cœur subsistent d'âge en âge :"
+       ],
+       [
+        "il veut délivrer de la mort les âmes de ceux qui le craignent,"
+       ],
+       [
+        "et les nourrir aux jours de famine."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Ratschluss des Herrn bleibt ewig bestehen, die Pläne seines Herzens überdauern die Zeiten: Er will uns dem Tod entreißen und in der Hungersnot unser Leben erhalten."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": " wird gebetet."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concéde, quǽsumus, omnípotens Deus, ut qui, dilécti Fílii tui Corde gloriántes, eius præcípua in nos benefícia recólimus caritátis, de illo donórum fonte cælésti supereffluéntem grátiam mereámur accípere. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus todo-poderoso,"
+       ],
+       [
+        "alegrando-nos com a solenidade do Coração do vosso amado Filho,"
+       ],
+       [
+        "recordamos os grandes benefícios do seu amor para conosco."
+       ],
+       [
+        "Concedei que mereçamos receber desta fonte divina"
+       ],
+       [
+        "uma torrente de graças."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, almighty God,"
+       ],
+       [
+        "that we, who glory in the Heart of your beloved Son"
+       ],
+       [
+        "and recall the wonders of his love for us,"
+       ],
+       [
+        "may be made worthy to receive"
+       ],
+       [
+        "an overflowing measure of grace"
+       ],
+       [
+        "from that fount of heavenly gifts."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "concede a quienes,"
+       ],
+       [
+        "alegrándonos en el Corazón de tu Hijo amado,"
+       ],
+       [
+        "recordamos los inmensos beneficios de su amor hacia nosotros,"
+       ],
+       [
+        "merecer recibir una inagotable abundancia de gracia"
+       ],
+       [
+        "de aquella fuente celestial de los dones."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che nel Cuore del tuo dilettissimo Figlio ci dai la gioia di celebrare le grandi opere del tuo amore per noi, fa' che da questa fonte inesauribile attingiamo l'abbondanza dei tuoi doni. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant,"
+       ],
+       [
+        "en glorifiant le Cœur de ton Fils bien-aimé,"
+       ],
+       [
+        "nous rappelons les admirables bienfaits de son amour pour nous ;"
+       ],
+       [
+        "nous t'en prions, accorde-nous"
+       ],
+       [
+        "de puiser à cette source divine"
+       ],
+       [
+        "une surabondance de grâce."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, wir verehren das Herz deines geliebten Sohnes und preisen die großen Taten seiner Liebe. Gib, dass wir aus dieser Quelle göttlichen Erbarmens die Fülle der Gnade und des Lebens empfangen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui nobis in Corde Fílii tui, nostris vulneráto peccátis, infinítos dilectiónis thesáuros misericórditer largíri dignáris, concéde, quǽsumus, ut, illi devótum pietátis nostræ præstántes obséquium, dignæ quoque satisfactiónis exhibeámus offícium. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, no Coração do vosso Filho"
+       ],
+       [
+        "ferido por nossos pecados"
+       ],
+       [
+        "vos dignais em vossa misericórdia"
+       ],
+       [
+        "abrir-nos infinitos tesouros de amor."
+       ],
+       [
+        "Concedei, nós vos pedimos,"
+       ],
+       [
+        "que, prestando-lhe nossa fervorosa homenagem de piedade,"
+       ],
+       [
+        "cumpramos também o dever de uma digna reparação."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who in the Heart of your Son, wounded by our sins,"
+       ],
+       [
+        "bestow on us in mercy"
+       ],
+       [
+        "the boundless treasures of your love, grant, we pray,"
+       ],
+       [
+        "that, in paying him the homage of our devotion,"
+       ],
+       [
+        "we may also offer worthy reparation."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios, que en el Corazón de tu Hijo,"
+       ],
+       [
+        "herido por nuestros pecados,"
+       ],
+       [
+        "te has dignado regalarnos misericordiosamente infinitos tesoros de amor,"
+       ],
+       [
+        "te pedimos que,"
+       ],
+       [
+        "al rendirle el homenaje de nuestra piedad,"
+       ],
+       [
+        "manifestemos también una conveniente reparación."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre misericordioso, che nel Cuore del tuo Figlio trafitto dai nostri peccati ci hai aperto i tesori infiniti del tuo amore, fa' che rendendogli l'omaggio della nostra fede adempiamo anche al dovere di una degna riparazione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur notre Dieu,"
+       ],
+       [
+        "dans le Cœur de ton Fils meurtri par nos péchés,"
+       ],
+       [
+        "tu nous prodigues avec miséricorde"
+       ],
+       [
+        "les trésors infinis de ta tendresse ;"
+       ],
+       [
+        "nous t'en prions :"
+       ],
+       [
+        "fais que, dans l'hommage fervent de notre piété,"
+       ],
+       [
+        "nous lui rendions aussi les devoirs d'une juste réparation."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, du öffnest uns den unendlichen Reichtum der Liebe im Herzen deines Sohnes, das unsere Sünden verwundet haben. Gib, dass wir durch aufrichtige Umkehr Christus Genugtuung leisten und ihm mit ganzer Hingabe dienen, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o Creio."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        "Credo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das Credo wird gebetet."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Réspice, quǽsumus, Dómine, ad ineffábilem Cordis dilécti Fílii tui caritátem, ut quod offérimus sit tibi munus accéptum et nostrórum expiátio delictórum. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, nós vos pedimos,"
+       ],
+       [
+        "olhai para o inefável amor do Coração do vosso amado Filho,"
+       ],
+       [
+        "a fim de que nossa oferenda vos seja agradável"
+       ],
+       [
+        "e sirva de reparação pelos nossos pecados."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look, O Lord, we pray, on the surpassing charity in the Heart of your beloved Son,"
+       ],
+       [
+        "that what we offer may be a gift acceptable to you and an expiation of our offenses."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mira, Señor, el inefable amor"
+       ],
+       [
+        "del Corazón de tu Hijo predilecto,"
+       ],
+       [
+        "para que los dones que te presentamos"
+       ],
+       [
+        "sean ofrenda aceptable a ti y expiación de nuestras culpas."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda, o Padre, all'immensa carità del Cuore del tuo Figlio, perché la nostra offerta sia a te gradita e ci ottenga il perdono di tutti i peccati. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Regarde, nous t'en prions, Seigneur,"
+       ],
+       [
+        "l'amour inexprimable du Cœur de ton Fils bien-aimé,"
+       ],
+       [
+        "pour que le don que nous t'offrons te soit agréable"
+       ],
+       [
+        "et contribue à l'expiation de nos péchés."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, sieh auf das durchbohrte Herz deines Sohnes, der uns geliebt und sich für uns hingegeben hat. Lass unser Opfer dir wohlgefallen und zur Sühne für unsere Sünden werden. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Præfatio: De immensa caritate Christi."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vere dignum et iustum est,"
+       ],
+       [
+        "æquum et salutáre,"
+       ],
+       [
+        "nos tibi semper et ubíque grátias ágere:"
+       ],
+       [
+        "Dómine, sancte Pater, omnípotens ætérne Deus:"
+       ],
+       [
+        "per Christum Dóminum nostrum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui, mira caritáte, exaltátus in cruce,"
+       ],
+       [
+        "pro nobis trádidit semetípsum,"
+       ],
+       [
+        "atque de transfíxo látere sánguinem fudit et aquam,"
+       ],
+       [
+        "ex quo manárent Ecclésiæ sacraménta,"
+       ],
+       [
+        "ut omnes, ad Cor apértum Salvatóris attrácti,"
+       ],
+       [
+        "iúgiter haurírent e fóntibus salútis in gáudio."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ídeo,"
+       ],
+       [
+        "cum Sanctis et Angelis univérsis,"
+       ],
+       [
+        "te collaudámus, sine fine dicéntes:"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Prefácio: O imenso amor de Cristo."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Na verdade, é digno e justo,"
+       ],
+       [
+        "é nosso dever e salvação dar-vos graças,"
+       ],
+       [
+        "sempre e em todo lugar,"
+       ],
+       [
+        "Senhor, Pai santo,"
+       ],
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Elevado na cruz, entregou-se a si mesmo com admirável amor;"
+       ],
+       [
+        "do seu lado transpassado"
+       ],
+       [
+        "jorraram sangue e água"
+       ],
+       [
+        "e nasceram os sacramentos da Igreja,"
+       ],
+       [
+        "para que todos, atraídos ao Coração aberto do Salvador,"
+       ],
+       [
+        "pudessem beber com perene alegria das fontes da salvação."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por isso, com a multidão dos anjos e dos santos,"
+       ],
+       [
+        "nós vos louvamos, cantando ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "dizendo",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " a uma só voz:"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Preface: The Boundless Charity of Christ."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is truly right and just, our duty and our salvation,"
+       ],
+       [
+        "always and everywhere to give you thanks,"
+       ],
+       [
+        "Lord, holy Father, almighty and eternal God,"
+       ],
+       [
+        "through Christ our Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For raised up high on the Cross,"
+       ],
+       [
+        "he gave himself up for us with a wonderful love"
+       ],
+       [
+        "and poured out blood and water from his pierced side,"
+       ],
+       [
+        "the wellspring of the Church's Sacraments,"
+       ],
+       [
+        "so that, won over to the open heart of the Saviour,"
+       ],
+       [
+        "all might draw water joyfully from the springs of salvation."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And so, with all the Angels and Saints,"
+       ],
+       [
+        "we praise you, as without end we acclaim:"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Prefacio: El inmenso amor de Cristo"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En verdad es justo y necesario,"
+       ],
+       [
+        "es nuestro deber y salvación"
+       ],
+       [
+        "darte gracias siempre y en todo lugar,"
+       ],
+       [
+        "Señor, Padre santo,"
+       ],
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "por Cristo, Señor nuestro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El cual, con amor admirable,"
+       ],
+       [
+        "se entregó por nosotros"
+       ],
+       [
+        "y, elevado sobre la cruz,"
+       ],
+       [
+        "hizo que de la herida de su costado"
+       ],
+       [
+        "brotaran, con el agua y la sangre,"
+       ],
+       [
+        "los sacramentos de la Iglesia,"
+       ],
+       [
+        "para que así,"
+       ],
+       [
+        "acercándose al corazón abierto del Salvador,"
+       ],
+       [
+        "todos puedan beber siempre con gozo"
+       ],
+       [
+        "de las fuentes de salvación."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por eso,"
+       ],
+       [
+        "con los santos"
+       ],
+       [
+        "y con todos los ángeles"
+       ],
+       [
+        "te glorificamos diciendo sin cesar:"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Prefazio: L'immenso amore di Cristo"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza,"
+       ],
+       [
+        "rendere grazie sempre e in ogni luogo"
+       ],
+       [
+        "a te, Signore, Padre santo,"
+       ],
+       [
+        "Dio onnipotente ed eterno,"
+       ],
+       [
+        "per Cristo Signore nostro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Innalzato sulla croce,"
+       ],
+       [
+        "nel suo amore senza limiti donò la vita per noi,"
+       ],
+       [
+        "e dalla ferita del suo fianco effuse sangue e acqua,"
+       ],
+       [
+        "simbolo dei sacramenti della Chiesa,"
+       ],
+       [
+        "perché tutti gli uomini, attirati al Cuore del Salvatore,"
+       ],
+       [
+        "attingessero con gioia alla fonte perenne della salvezza."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per questo mistero,"
+       ],
+       [
+        "uniti agli angeli e ai santi,"
+       ],
+       [
+        "proclamiamo senza fine"
+       ],
+       [
+        "l'inno della tua gloria:"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Préface: L'immense amour du Christ."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vraiment, il est juste et bon,"
+       ],
+       [
+        "pour ta gloire et notre salut,"
+       ],
+       [
+        "de t'offrir notre action de grâce,"
+       ],
+       [
+        "toujours et en tout lieu,"
+       ],
+       [
+        "Seigneur, Père très saint,"
+       ],
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "par le Christ, notre Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans son amour admirable,"
+       ],
+       [
+        "quand il fut élevé sur la croix,"
+       ],
+       [
+        "il s'est livré lui-même pour nous"
+       ],
+       [
+        "et, de son côté transpercé,"
+       ],
+       [
+        "il répandit le sang et l'eau"
+       ],
+       [
+        "d'où jaillirent les sacrements de l'Église,"
+       ],
+       [
+        "afin que tous, attirés vers le Cœur ouvert du Sauveur,"
+       ],
+       [
+        "ne cessent de venir puiser dans la joie"
+       ],
+       [
+        "aux sources vives du salut."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est pourquoi, avec les saints et tous les anges,"
+       ],
+       [
+        "nous te louons"
+       ],
+       [
+        "et sans fin nous proclamons :"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das Herz des Erlösers und die Gläubigen"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und dich mit der ganzen Schöpfung zu loben durch unseren Herrn Jesus Christus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Am Kreuz erhöht, hat er sich für uns dahingegeben aus unendlicher Liebe und alle an sich gezogen. Aus seiner geöffneten Seite strömen Blut und Wasser, aus seinem durchbohrten Herzen entspringen die Sakramente der Kirche. Das Herz des Erlösers steht offen für alle, damit sie freudig schöpfen aus den Quellen des Heiles."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Durch ihn rühmen dich deine Erlösten und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 7, 37-38"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 7, 37-38"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Jn 7: 37-38"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Io 7, 37-38"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 7, 37-38"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 7, 37-38"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit Dóminus: Si quis sitit, véniat ad me et bibat. Qui credit in me, flúmina de ventre eius fluent aquæ vivæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Assim diz o Senhor;"
+       ],
+       [
+        "Se alguém tem sede, venha a mim e beba."
+       ],
+       [
+        "Aquele que crê em mim,"
+       ],
+       [
+        "rios de água viva jorrarão do seu interior."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Thus says the Lord:"
+       ],
+       [
+        "Let whoever is thirsty come to me and drink. Streams of living water will flow"
+       ],
+       [
+        "from within the one who believes in me."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dice el Señor: «El que tenga sed que venga a mí, y que beba el que cree en mí: de sus entrañas manarán ríos de agua viva»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "★ A "
+        }
+       ],
+       [
+        "Imparate da me, che sono mite e umile di cuore, e troverete ristoro per la vostra vita."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B "
+        }
+       ],
+       [
+        "Gesù gridò: «Se qualcuno ha sete, venga a me, e beva chi crede in me; dal suo grembo sgorgheranno fiumi di acqua viva»."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C "
+        }
+       ],
+       [
+        "Rallegratevi con me, perché la mia pecora perduta è stata ritrovata."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C "
+        }
+       ],
+       [
+        "Rallegratevi con me, perché la mia pecora perduta è stata ritrovata."
+       ]
+      ],
+      "cite": "Cf. Lc 15, 6"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si quelqu'un a soif, dit le Seigneur,"
+       ],
+       [
+        "qu'il vienne à moi, et qu'il boive."
+       ],
+       [
+        "Si quelqu'un croit en moi,"
+       ],
+       [
+        "de son cœur couleront des fleuves d'eau vive."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wer Durst hat, komme zu mir, und es trinke, wer an mich glaubt! Die Schrift sagt: Aus seinem Inneren werden Ströme von lebendigem Wasser fließen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Io 19, 34"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Jo 19, 34"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Jn 19: 34"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Jn 19, 34"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Gv 19, 34"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Jn 19, 34"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Joh 19, 34"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Unus mílitum láncea latus eius apéruit, et contínuo exívit sanguis et aqua."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Um soldado abriu-lhe o lado com uma lança,"
+       ],
+       [
+        "e logo saiu sangue e água."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "One of the soldiers opened his side with a lance, and at once there came forth blood and water."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uno de los soldados, con la lanza, le traspasó el costado, y al punto salió sangre y agua."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uno dei soldati con una lancia gli colpì il fianco, e subito ne uscì sangue e acqua."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un des soldats avec sa lance lui perça le côté ;"
+       ],
+       [
+        "et aussitôt, il en sortit du sang et de l'eau."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ein Soldat stieß mit der Lanze in seine Seite, und sogleich floss Blut und Wasser heraus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacraméntum caritátis, Dómine, sancta nos fáciat dilectióne fervére, qua, ad Fílium tuum semper attrácti, ipsum in frátribus agnóscere discámus. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, o sacramento da caridade"
+       ],
+       [
+        "nos inflame de santo amor;"
+       ],
+       [
+        "e assim, sempre atraídos ao vosso Filho,"
+       ],
+       [
+        "aprendamos a reconhecê-lo em nossos irmãos."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May this sacrament of charity, O Lord, make us fervent with the fire of holy love, so that, drawn always to your Son,"
+       ],
+       [
+        "we may learn to see him in our neighbor."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, que el sacramento de la caridad"
+       ],
+       [
+        "encienda en nosotros el fuego del amor santo"
+       ],
+       [
+        "por el que, cautivados siempre por tu Hijo,"
+       ],
+       [
+        "aprendamos a reconocerle en los hermanos."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il sacramento della carità, o Padre, ci infiammi di santo amore, perché, attratti sempre dal tuo Figlio, impariamo a riconoscerlo nei fratelli. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Par ce sacrement de ton amour, Seigneur,"
+       ],
+       [
+        "fais-nous brûler d'une charité"
+       ],
+       [
+        "qui nous attire toujours vers ton Fils,"
+       ],
+       [
+        "et nous apprenne ainsi à le reconnaître en nos frères."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast uns gestärkt mit dem Sakrament jener Liebe, durch die dein Sohn alles an sich zieht. Entzünde auch in uns das Feuer seiner Liebe, damit wir in unseren Brüdern ihn erkennen und ihm dienen. Darum bitten wir durch ihn, Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 3,
+ "title": {
+  "la": "IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS — Feria VI post Dominicam II post Pentecosten — SACRATISSIMI CORDIS IESU",
+  "pt-BR": "SOLENIDADES DO SENHOR NO TEMPO COMUM — Sexta-feira após o 2º domingo depois de Pentecostes — SAGRADO CORAÇÃO DE JESUS",
+  "en-US": "THE MOST SACRED HEART OF JESUS",
+  "es": "SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO — Viernes posterior al segundo domingo de Pentecostés — SAGRADO CORAZÓN DE JESÚS",
+  "it": "SOLENNITÀ DEL SIGNORE NEL TEMPO ORDINARIO — Venerdì dopo la II domenica dopo Pentecoste — SACRATISSIMO CUORE DI GESÙ",
+  "fr": "Temps ordinaire — SOLENNITÉ DU SACRÉ CŒUR",
+  "de": "HERRENFESTE IM JAHRESKREIS — Freitag der 3. Woche nach Pfingsten — HEILIGSTES HERZ JESU"
+ },
+ "subtitle": {
+  "la": "Sollemnitas",
+  "pt-BR": "Solenidade",
+  "en-US": "Friday after the Second Sunday after Pentecost Solemnity",
+  "es": "Solemnidad",
+  "it": "SOLENNITÀ",
+  "de": "Hochfest"
+ }
+}

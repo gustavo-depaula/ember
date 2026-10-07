@@ -1,1 +1,61 @@
-{"id":"sanctorale.01-09.spain","source":"lecturas/lecturas_santos_ene#0109","items":[{"slot":"58","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["9 de enero"],["San Eulogio de Córdoba, presbítero y mártir"]]}]}},{"mark":"readings"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]]}]},"role":"rubric"},{"mark":"readings"}],"lectionary":"readings.css1f1","title":{"*":"San Eulogio de Córdoba, presbítero y mártir"}}
+{
+ "id": "sanctorale.01-09.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "9 de enero"
+       ],
+       [
+        "San Eulogio de Córdoba, presbítero y mártir"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.css1f1",
+ "title": {
+  "*": "San Eulogio de Córdoba, presbítero y mártir"
+ }
+}

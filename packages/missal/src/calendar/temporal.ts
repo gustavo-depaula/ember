@@ -1,7 +1,7 @@
 // The temporal cycle: a date to its place in the liturgical year and the ids
 // of the Mass formulary and lectionary entry that go with it.
 //
-// Ids follow `scripts/missal/ids.py`. Weekday formularies of Ordinary Time are
+// Weekday formularies of Ordinary Time are
 // the week's Sunday formulary (`tempore.ordinary-time.week-5`), while every
 // day has its own lectionary entry (`tempore.ordinary-time.week-5.tuesday`).
 

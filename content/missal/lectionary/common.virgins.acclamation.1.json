@@ -1,0 +1,3758 @@
+{
+ "id": "common.virgins.acclamation.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.virgins.first-reading.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fortis est ut mors dilectio."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Cántici Canticórum"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pone me ut signáculum super cor tuum, ut signáculum super bráchium tuum, quia fortis est ut mors diléctio, dura sicut inférnus æmulátio; lámpades eius lámpades ignis atque flammæ divínæ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aquæ multæ non potuérunt exstínguere caritátem, nec flúmina óbruent illam; si déderit homo omnem substántiam domus suæ pro dilectióne, quasi nihil despícient eum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O amor é forte como a morte."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Cântico dos Cânticos"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grava-me como um selo em teu coração, como um selo no teu braço! Porque o amor é forte como a morte e a paixão é cruel como a morada dos mortos; suas faíscas são de fogo, uma labareda divina. As águas torrenciais jamais apagarão o amor, nem rios poderão afogá-lo. Se alguém oferecesse todas as riquezas de sua casa para comprar o amor, seria tratado com desprezo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Song of Songs"
+       ]
+      ],
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Set me as a seal upon your heart,"
+       ],
+       [
+        "as a seal upon your arm;"
+       ],
+       [
+        "For Love is strong as Death,"
+       ],
+       [
+        "longing is fierce as Sheol."
+       ],
+       [
+        "Its arrows are arrows of fire,"
+       ],
+       [
+        "flames of the divine."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deep waters cannot quench love,"
+       ],
+       [
+        "nor rivers sweep it away."
+       ],
+       [
+        "Were one to offer all the wealth of his house for love,"
+       ],
+       [
+        "he would be utterly despised."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Es fuerte el amor como la muerte"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Cantar de los Cantares"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grábame como sello en tu corazón, grábame como sello en tu brazo, porque es fuerte el amor como la muerte, es cruel la pasión como el abismo; sus dardos son dardos de fuego, llamaradas divinas."
+       ],
+       [
+        "Las aguas caudalosas no podrán apagar el amor, ni anegarlo los ríos. Quien quisiera comprar el amor con todas las riquezas de su casa, sería sumamente despreciable."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Forte come la morte è l'amore."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal Cantico dei Cantici"
+       ]
+      ],
+      "cite": "8,6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mettimi come sigillo sul tuo cuore, come sigillo sul tuo braccio; perché forte come la morte è l'amore, tenace come il regno dei morti è la passione: le sue vampe sono vampe di fuoco, una fiamma divina!"
+       ],
+       [
+        "Le grandi acque non possono spegnere l'amore né i fiumi travolgerlo."
+       ],
+       [
+        "Se uno desse tutte le ricchezze della sua casa in cambio dell'amore, non ne avrebbe che disprezzo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre du Cantique des cantiques"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "ELLE"
+       ],
+       [
+        "Pose-moi comme un sceau sur ton cœur, comme un sceau sur ton bras."
+       ],
+       [
+        "CHŒUR"
+       ],
+       [
+        "Car l'amour est fort comme la Mort, la passion, implacable comme l'Abîme : ses flammes sont des flammes de feu, fournaise divine. Les grandes eaux ne pourront éteindre l'amour, ni les fleuves l'emporter."
+       ],
+       [
+        "CHŒUR"
+       ],
+       [
+        "Un homme donnerait-il toutes les richesses de sa maison pour acheter l'amour, il ne recueillerait que mépris."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Hohenlied"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leg mich wie ein Siegel auf dein Herz, wie ein Siegel an deinen Arm! Stark wie der Tod ist die Liebe, die Leidenschaft ist hart wie die Unterwelt. Ihre Gluten sind Feuergluten, gewaltige Flammen."
+       ],
+       [
+        "Auch mächtige Wasser können die Liebe nicht löschen; auch Ströme schwemmen sie nicht weg. Böte einer für die Liebe den ganzen Reichtum seines Hauses, nur verachten würde man ihn."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.virgins.first-reading.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.virgins.first-reading.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.virgins.first-reading-easter.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beati qui ad cenam nuptiarum Agni vocati sunt."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Apocalýpsis beáti Ioánnis apóstoli"
+       ]
+      ],
+      "cite": "19, 1. 5-9a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego, Ioannes, audívi quasi vocem magnam turbæ multæ in cælo dicéntium: «Alleluía! Salus et glória et virtus Deo nostro»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et vox de throno exívit dicens: «Laudem dícite Deo nostro, omnes servi eius et qui timétis eum, pusílli et magni!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et audívi quasi vocem turbæ magnæ et sicut vocem aquárum multárum et sicut vocem tonítruum magnórum dicéntium: «Alleluía, quóniam regnávit Dóminus, Deus noster omnípotens. Gaudeámus et exsultémus et demus glóriam ei, quia venérunt núptiæ Agni, et uxor eius præparávit se. Et datum est illi, ut coopériat se býssino splendénti mundo: býssinum enim iustificatiónes sunt sanctórum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et dicit mihi: «Scribe: Beáti, qui ad cenam nuptiárum Agni vocáti sunt!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Felizes são os convidados para o banquete das núpcias do Cordeiro."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Apocalipse de São João"
+       ]
+      ],
+      "cite": "19, 1. 5-9a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu, João, ouvi um forte rumor, de uma grande multidão no céu, que clamava:\"Aleluia! A salvação, a glória e o poder pertencem ao nosso Deus\". Então, uma voz saiu do trono, convidando: \"Louvai o nosso Deus, todos os seus servos e todos os que o temeis, pequenos e grandes\". Ouvi também o rumor de uma grande multidão. Parecia o fragor de águas torrenciais e o ribombar de fortes trovões. A multidão aclamava: \"Aleluia! O Senhor, nosso Deus, o Todo-poderoso passou a reinar. Fiquemos alegres e contentes, e demos glória a Deus, porque chegou o tempo das núpcias do Cordeiro. Sua esposa já se preparou. Foi-lhe dado vestir-se com linho brilhante e puro\". (O linho significa as obras justas dos santos.) E um anjo me disse: \"Escreve: Felizes são os convidados para o banquete das núpcias do Cordeiro\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the book of Apocalypse"
+       ]
+      ],
+      "cite": "19:1.5-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "John, seemed to hear the great sound of a huge crowd in heaven, singing, 'Alleluia! Victory and glory and power to our God! Then a voice came from the throne; it said, 'Praise our God, you servants of his and all who, great or small, revere him'. And I seemed to hear the voices of a huge crowd, like the sound of the ocean or the great roar of thunder, answering, 'Alleluia! The reign of the Lord our God Almighty has begun; let us be glad and joyful and give praise to God, because this is the time for the marriage of the Lamb. His bride is ready, and she has been able to dress herself in dazzling white linen, because her linen is made of the good deeds of the saints.' The angel said, 'Write this: Happy are those who are invited to the wedding feast of the Lamb'."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bienaventurados los invitados al banquete de bodas del Cordero"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Apocalipsis"
+       ]
+      ],
+      "cite": "19, 1. 5-9a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo, Juan, oí en el cielo como el vocerío de una gran muchedumbre, que decía:"
+       ],
+       [
+        "«¡Aleluya! La salvación, la gloria y el poder son de nuestro Dios»."
+       ],
+       [
+        "Y salió una voz del trono que decía:"
+       ],
+       [
+        "«Alabad a nuestro Dios sus siervos todos, los que lo teméis, pequeños y grandes»."
+       ],
+       [
+        "Y oí como el rumor de una muchedumbre inmensa, como el rumor de muchas aguas, y como el fragor de fuertes truenos, que decían:"
+       ],
+       [
+        "«Aleluya. Porque reina el Señor, nuestro Dios, dueño de todo, alegrémonos y gocemos y démosle gracias."
+       ],
+       [
+        "Llegó la boda del Cordero, su esposa se ha embellecido, y se le ha concedido vestirse de lino resplandeciente y puro —el lino son las buenas obras de los santos—»."
+       ],
+       [
+        "Y me dijo:"
+       ],
+       [
+        "«Escribe: “Bienaventurados los invitados al banquete de bodas del Cordero”»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beati gli invitati al banchetto di nozze dell'Agnello!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro dell'Apocalisse di san Giovanni apostolo"
+       ]
+      ],
+      "cite": "19,1.5-9a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io, Giovanni, udii come una voce potente di folla immensa nel cielo che diceva: «Alleluia!"
+       ],
+       [
+        "Salvezza, gloria e potenza sono del nostro Dio»."
+       ],
+       [
+        "Dal trono venne una voce che diceva:"
+       ],
+       [
+        "«Lodate il nostro Dio, voi tutti, suoi servi, voi che lo temete, piccoli e grandi!»."
+       ],
+       [
+        "Udii poi come una voce di una folla immensa, simile a fragore di grandi acque e a rombo di tuoni possenti, che gridavano: «Alleluia!"
+       ],
+       [
+        "Ha preso possesso del suo regno il Signore, il nostro Dio, l'Onnipotente."
+       ],
+       [
+        "Rallegriamoci ed esultiamo,"
+       ],
+       [
+        "rendiamo a lui gloria,"
+       ],
+       [
+        "perché sono giunte le nozze dell'Agnello;"
+       ],
+       [
+        "la sua sposa è pronta: le fu data una veste di lino puro e splendente»."
+       ],
+       [
+        "La veste di lino sono le opere giuste dei santi."
+       ],
+       [
+        "Allora l'angelo mi disse: «Scrivi: Beati gli invitati al banchetto di nozze dell'Agnello!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de l'Apocalypse de saint Jean"
+       ]
+      ],
+      "cite": "19, 1. 5-9a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Moi, Jean, j'ai entendu comme la voix forte d'une foule immense dans le"
+       ],
+       [
+        "ciel, qui proclamait :"
+       ],
+       [
+        "\" Alléluia ! Le salut, la gloire, la puissance à notre Dieu. \" Et du Trône"
+       ],
+       [
+        "sortit une voix qui disait :"
+       ],
+       [
+        "\" Louez notre Dieu, vous tous qui le servez, vous tous qui le craignez, les petits et les grands. \""
+       ],
+       [
+        "Alors j'entendis comme la voix d'une foule immense, comme la voix des"
+       ],
+       [
+        "grandes eaux, ou celle de violents coups de tonnerre. Elle proclamait :"
+       ],
+       [
+        "\" Alléluia ! Il règne, le Seigneur notre Dieu, le Souverain de l'univers. Soyons dans la joie, exultons, et rendons gloire à Dieu ! Car elles sont venues, les Noces de l'Agneau, et pour lui son épouse a revêtu sa parure. Un vêtement de lin fin lui a été donné, splendide et pur. \""
+       ],
+       [
+        "Car le lin, ce sont les actions justes des saints. Puis l'ange me dit :"
+       ],
+       [
+        "\" Écris : Heureux les invités au repas des noces de l'Agneau ! \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Offenbarung des Johannes"
+       ]
+      ],
+      "cite": "19, 1. 5-9a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich, Johannes, hörte etwas wie den lauten Ruf einer großen Schar im Himmel: Halleluja! Das Heil und die Herrlichkeit und die Macht ist bei unserm Gott."
+       ],
+       [
+        "Und eine Stimme kam vom Thron her: Preist unsern Gott, all seine Knechte und alle, die ihn fürchten, Kleine und Große!"
+       ],
+       [
+        "Da hörte ich etwas wie den Ruf einer großen Schar und wie das Rauschen gewaltiger Wassermassen und wie das Rollen mächtiger Donner: Halleluja! Denn König geworden ist der Herr, unser Gott, der Herrscher über die ganze Schöpfung. Wir wollen uns freuen und jubeln und ihm die Ehre erweisen. Denn gekommen ist die Hochzeit des Lammes, und seine Frau hat sich bereit gemacht. Sie durfte sich kleiden in strahlend reines Leinen. Das Leinen bedeutet die gerechten Taten der Heiligen."
+       ],
+       [
+        "Jemand sagte zu mir: Schreib auf: Selig, wer zum Hochzeitsmahl des Lammes eingeladen ist."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.virgins.first-reading-easter.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.virgins.first-reading-easter.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.virgins.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Salmo 44 (45)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 45 (44), 11-12. 14-15. 16-17 (R: 11a oder Mt 25, 6b)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.virgins.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Audi, fília, et vide, et inclína aurem tuam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ],
+       [
+        "Ecce sponsus: éxite óbviam Christo Dómino."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escutai, minha filha, olhai, ouvi isto!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Listen to me, daughter; see and bend your ear."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escucha, hija, mira: inclina el oído."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "¡Que llega el esposo, salid al encuentro de Cristo, el Señor!"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascolta, figlia, guarda, porgi l'orecchio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "Ecco lo sposo: andate incontro a Cristo Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Écoute, ma fille, regarde et tends l'oreille."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Höre, Tochter, sieh her und neige dein Ohr!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Der Bräutigam kommt! Geht Christus, dem Herrn, entgegen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.virgins.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Audi, fília, et vide, et inclína aurem tuam,"
+       ],
+       [
+        "et oblivíscere pópulum tuum et domum patris tui;"
+       ],
+       [
+        "et concupíscet rex spéciem tuam."
+       ],
+       [
+        "Quóniam ipse est dóminus tuus et adóra eum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escutai, minha filha, olhai, ouvi isto: \"Esquecei vosso povo e a casa paterna! Que o Rei se encante com vossa beleza! Prestai-lhe homenagem: é vosso Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Listen, O daughter, give ear to my words: forget your own people and your father's house. So will the king desire your beauty: He is your Lord, pay homage to him."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escucha, hija, mira: inclina el oído, olvida tu pueblo y la casa paterna; prendado está el rey de tu belleza:"
+       ],
+       [
+        "póstrate ante él, que él es tu señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ascolta, figlia, guarda, porgi l'orecchio:"
+       ],
+       [
+        "dimentica il tuo popolo e la casa di tuo padre;"
+       ],
+       [
+        "il re è invaghito della tua bellezza."
+       ],
+       [
+        "È lui il tuo signore: rendigli omaggio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Écoute, ma fille, regarde et tends l'oreille :"
+       ],
+       [
+        "le roi sera séduit par ta beauté."
+       ],
+       [
+        "Il est ton Seigneur : prosterne-toi devant lui."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Höre, Tochter, sieh her und neige dein Ohr,"
+       ],
+       [
+        "vergiss dein Volk und dein Vaterhaus!"
+       ],
+       [
+        "Der König verlangt nach deiner Schönheit;"
+       ],
+       [
+        "er ist ja dein Herr, verneig dich vor ihm!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": null,
+   "from": "common.virgins.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Audi, fília, et vide, et inclína aurem tuam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ],
+       [
+        "Ecce sponsus: éxite óbviam Christo Dómino."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escutai, minha filha, olhai, ouvi isto!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Listen to me, daughter; see and bend your ear."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escucha, hija, mira: inclina el oído."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "¡Que llega el esposo, salid al encuentro de Cristo, el Señor!"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascolta, figlia, guarda, porgi l'orecchio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "Ecco lo sposo: andate incontro a Cristo Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Écoute, ma fille, regarde et tends l'oreille."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Höre, Tochter, sieh her und neige dein Ohr!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Der Bräutigam kommt! Geht Christus, dem Herrn, entgegen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.virgins.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloriósa nimis fília regis intrínsecus,"
+       ],
+       [
+        "textúris áureis circumamícta."
+       ],
+       [
+        "In véstibus variegátis adducétur regi;"
+       ],
+       [
+        "vírgines post eam, próximæ eius, afferúntur tibi."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Majestosa, a princesa real vem chegando, vestida de ricos brocados de ouro. Em vestes vistosas ao Rei se dirige, e as virgens amigas lhe formam cortejo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The daughter of the king is clothed with splendour, her robes embroidered with pearls set in gold. She is led to the king with her maiden companions."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ya entra la princesa, bellísima,"
+       ],
+       [
+        "vestida de perlas y brocado;"
+       ],
+       [
+        "la llevan ante el rey, con séquito de vírgenes, la siguen sus compañeras."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entra la figlia del re: è tutta splendore,"
+       ],
+       [
+        "tessuto d'oro è il suo vestito."
+       ],
+       [
+        "È condotta al re in broccati preziosi;"
+       ],
+       [
+        "dietro a lei le vergini, sue compagne,"
+       ],
+       [
+        "a te sono presentate."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fille de roi, elle est là, dans sa gloire,"
+       ],
+       [
+        "vêtue d'étoffes d'or ;"
+       ],
+       [
+        "on la conduit, toute parée, vers le roi."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Königstochter ist herrlich geschmückt,"
+       ],
+       [
+        "ihr Gewand ist durchwirkt mit Gold und Perlen."
+       ],
+       [
+        "Man geleitet sie in buntgestickten Kleidern zum König,"
+       ],
+       [
+        "Jungfrauen sind ihr Gefolge,"
+       ],
+       [
+        "ihre Freundinnen führt man zu dir."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": null,
+   "from": "common.virgins.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Audi, fília, et vide, et inclína aurem tuam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ],
+       [
+        "Ecce sponsus: éxite óbviam Christo Dómino."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escutai, minha filha, olhai, ouvi isto!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Listen to me, daughter; see and bend your ear."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escucha, hija, mira: inclina el oído."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "¡Que llega el esposo, salid al encuentro de Cristo, el Señor!"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascolta, figlia, guarda, porgi l'orecchio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "Ecco lo sposo: andate incontro a Cristo Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Écoute, ma fille, regarde et tends l'oreille."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Höre, Tochter, sieh her und neige dein Ohr!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Der Bräutigam kommt! Geht Christus, dem Herrn, entgegen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.virgins.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Afferúntur in lætítia et exsultatióne,"
+       ],
+       [
+        "adducúntur in domum regis."
+       ],
+       [
+        "Pro pátribus tuis erunt tibi fílii;"
+       ],
+       [
+        "constítues eos príncipes super omnem terram."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entre cantos de festa e com grande alegria, ingressam, então, no palácio real\".Deixareis vossos pais, mas tereis muito filhos; fareis deles os reis soberanos da terra."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "They are escorted amid gladness and joy; they pass within the palace of the king. Sons shall be yours in place of your fathers; you will make them princes over all the earth."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Las traen entre alegría y algazara,"
+       ],
+       [
+        "van entrando en el palacio real."
+       ],
+       [
+        "«A cambio de tus padres tendrás hijos, que nombrarás príncipes por toda la tierra»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Condotte in gioia ed esultanza,"
+       ],
+       [
+        "sono presentate nel palazzo del re."
+       ],
+       [
+        "Ai tuoi padri succederanno i tuoi figli;"
+       ],
+       [
+        "li farai principi di tutta la terra."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Des jeunes filles, ses compagnes, lui font cortège ;"
+       ],
+       [
+        "on les conduit parmi les chants de fête :"
+       ],
+       [
+        "elles entrent au palais du roi."
+       ],
+       [
+        "À la place de tes pères se lèveront tes fils ;"
+       ],
+       [
+        "Je ferai vivre ton nom pour les âges des âges :"
+       ],
+       [
+        "que les peuples te rendent grâce, toujours, à jamais !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Man geleitet sie mit Freude und Jubel,"
+       ],
+       [
+        "sie ziehen ein in den Palast des Königs."
+       ],
+       [
+        "An die Stelle deiner Väter treten einst deine Söhne;"
+       ],
+       [
+        "du bestellst sie zu Fürsten im ganzen Land."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": null,
+   "from": "common.virgins.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Audi, fília, et vide, et inclína aurem tuam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel"
+        }
+       ],
+       [
+        "Ecce sponsus: éxite óbviam Christo Dómino."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escutai, minha filha, olhai, ouvi isto!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Listen to me, daughter; see and bend your ear."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Escucha, hija, mira: inclina el oído."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "¡Que llega el esposo, salid al encuentro de Cristo, el Señor!"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascolta, figlia, guarda, porgi l'orecchio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "Ecco lo sposo: andate incontro a Cristo Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Écoute, ma fille, regarde et tends l'oreille."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Höre, Tochter, sieh her und neige dein Ohr!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Der Bräutigam kommt! Geht Christus, dem Herrn, entgegen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.virgins.psalm.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.virgins.second-reading.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Virgo cogitat quæ Domini sunt."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "7, 25-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "De virgínibus præcéptum Dómini non hábeo; consílium autem do, tamquam misericórdiam consecútus a Dómino, ut sim fidélis. Exístimo ergo hoc bonum esse propter instántem necessitátem, quóniam bonum est hómini sic esse. Alligátus es uxóri? Noli quærere solutiónem. Solútus es ab uxóre? Noli quærere uxórem. Si autem accéperis uxórem, non peccásti; et si núpserit virgo, non peccávit. Tribulatiónem tamen carnis habébunt huiúsmodi, ego autem vobis parco."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hoc ítaque dico, fratres, tempus breviátum est; réliquum est, ut et qui habent uxóres, tamquam non habéntes sint, et qui flent, tamquam non flentes, et qui gaudent, tamquam non gaudéntes, et qui emunt, tamquam non possidéntes, et qui utúntur hoc mundo, tamquam non abuténtes; prǽterit enim figúra huius mundi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Volo autem vos sine sollicitúdine esse. Qui sine uxóre est, sollícitus est, quæ Dómini sunt, quómodo pláceat Dómino; qui autem cum uxóre est, sollícitus est, quæ sunt mundi, quómodo pláceat uxóri, et divísus est. Et múlier innúpta et virgo cógitat, quæ Dómini sunt, ut sit sancta et córpore et spíritu; quæ autem nupta est, cógitat, quæ sunt mundi, quómodo pláceat viro. Porro hoc ad utilitátem vestram dico, non ut láqueum vobis iníciam, sed ad id quod honéstum est, et ut assídue cum Dómino sitis sine distractióne."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A jovem solteira tem zelo pelas coisas do Senhor."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "7, 25-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: a respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas, como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: Penso que, em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. Estás ligado a uma mulher? Não procures desligar-te.Não estás ligado a nenhuma mulher? Nãoprocures ligar-te. Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas as pessoas casadas terão as tribulações da vida matrimonial: e eu gostaria de poupar-vos isso. Eu digo, irmãos: o tempo está abreviado. Então que, doravante, os que têm mulher vivam como se não tivessem mulher; e os que choram, como se não chorassem, e os que estão alegres, como se não estivessem alegres; e os que fazem compras, como se não possuíssem coisa alguma; e os que usam do mundo, como se dele não estivessem gozando. Pois a figura deste mundo passa. Eu gostaria que estivésseis livres de preocupações. O homem não casado é solícito pelas coisas do Senhor e procura agradar ao Senhor. O casado preocupa-se com as coisas do mundo e procura agradar à sua mulher e, assim, está dividido. Do mesmo modo, a mulher não-casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar ao seu marido. Digo isto para o vosso próprio bem e não para vos armar um laço. O que eu desejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Plavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first letter of St. Paul to the Corinthians 7:25-35"
+       ]
+      ],
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "About remaining celibate, I have no directions from the Lord but give my own opinion as one who, by the Lord's mercy, has stayed faithful. Well then, I believe that in these present times of stress this is right: that it is good for a man to stay as he is. If you are tied to a wife, do not look for freedom; if you are free of a wife, then do not look for one. But if you marry, it is no sin, and it is not a sin for a young girl to get married. They will have their troubles, though, in their married life, and I should like to spare you that. Brothers, this is what I mean: our time is growing short. Those who have wives should live as though they had none, and those who mourn should live as though they had nothing to mourn for; those who are enjoying life should live as though there were nothing to laugh about; those whose life is buying things should live as though they had nothing of their own; and those who have to deal with the world should not become engrossed in it. I say this because the world as we know it is passing away. I would like to see you free from all worry. An unmarried man can devote himself to the Lord's affairs, all he need worry about is pleasing the Lord; but a married man has to bother about the world's affairs and devote himself to pleasing his wife: he is torn two ways. In the same way an unmarried woman, like a young girl, can devote herself to the Lord's affairs; all she need worry about is being holy in body and spirit. The married woman, on the other hand, has to worry about the world's affairs and devote herself to pleasing her husband. I say this only to help you, not to put a halter round your necks, but simply to make sure that everything is as it should be, and that you give your undivided attention to the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La soltera se preocupa de los asuntos del Señor"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "7, 25-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Acerca de los célibes no tengo precepto del Señor, pero doy mi parecer como alguien que, por la misericordia del Señor, es fiel."
+       ],
+       [
+        "Considero que, por la angustia que apremia, es bueno para un hombre quedarse así."
+       ],
+       [
+        "¿Estás unido a una mujer? No busques la separación. ¿Estás libre de mujer? No busques mujer; pero, site casas, no pecas; y, si una soltera se casa, tampoco peca. Aunque estos tales sufrirán la tribulación de la carne; y yo quiero ahorrársela."
+       ],
+       [
+        "Digo esto, hermanos, que el momento es apremiante. Queda como solución que los que tienen mujer vivan como si no la tuvieran; los que lloran, como si no lloraran; los que están alegres, como si no se alegraran; los que compran, como si no poseyeran; los que negocian en el mundo, como si no disfrutaran de él: porque la representación de este mundo se termina."
+       ],
+       [
+        "Quiero que os ahorréis preocupaciones: el no casado se preocupa de los asuntos del Señor, buscando contentar al Señor; en cambio, el casado se preocupa de los asuntos del mundo buscando contentar a su mujer, y anda dividido. . El que me ama guardará mi palabra —dice el Señor—,"
+       ],
+       [
+        "También la mujer sin marido y la soltera se preocupan de los asuntos del Señor, de ser santa en cuerpo y alma; en cambio, la casada se preocupa de los asuntos del mundo, buscando contentar a su marido."
+       ],
+       [
+        "Os digo todo esto para vuestro bien; no para poneros una trampa, sino para induciros a una cosa noble y al trato con el Señor sin preocupaciones."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La vergine si preoccupa delle cose del Signore."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "7, 25-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "riguardo alle vergini, non ho alcun comando dal Signore, ma do un consiglio, come uno che ha ottenuto misericordia dal Signore e merita fiducia. Penso dunque che sia bene per l'uomo, a causa delle presenti difficoltà, rimanere così com'è."
+       ],
+       [
+        "Ti trovi legato a una donna? Non cercare di scioglierti. Sei libero da donna? Non andare a cercarla. Però se ti sposi non fai peccato; e se la giovane prende marito, non fa peccato. Tuttavia costoro avranno tribolazioni nella loro vita, e io vorrei risparmiarvele."
+       ],
+       [
+        "Questo vi dico, fratelli: il tempo si è fatto breve; d'ora innanzi, quelli che hanno moglie, vivano come se non l'avessero; quelli che piangono, come se non piangessero; quelli che gioiscono, come se non gioissero; quelli che comprano, come se non possedessero; quelli che usano i beni del mondo, come se non li usassero pienamente: passa infatti la figura di questo mondo!"
+       ],
+       [
+        "Io vorrei che foste senza preoccupazioni: chi non è sposato si preoccupa delle cose del Signore, come possa piacere al Signore; chi è sposato invece si preoccupa delle cose del mondo, come possa piacere alla moglie, e si trova diviso!"
+       ],
+       [
+        "Così la donna non sposata, come la vergine, si preoccupa delle cose del Signore, per essere santa nel corpo e nello spirito; la donna sposata invece si preoccupa delle cose del mondo, come possa piacere al marito."
+       ],
+       [
+        "Questo lo dico per il vostro bene: non per gettarvi un laccio, ma perché vi comportiate degnamente e restiate fedeli al Signore, senza deviazioni."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "7, 25-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, au sujet du célibat, je n'ai pas un ordre du Seigneur, mais je donne mon avis, moi qui suis devenu digne de confiance grâce à la miséricorde du Seigneur. Je pense que le célibat est une chose bonne, étant donné les nécessités présentes ; oui, c'est une chose bonne de vivre ainsi. Tu es marié ? ne cherche pas à te séparer de ta femme. Tu n'as pas de femme ? ne cherche pas à te marier. Si cependant tu te maries, ce n'est pas un péché ; et si une jeune fille se marie, ce n'est pas un péché. Mais ceux qui font ce choix y trouveront les épreuves correspondantes, et c'est cela que moi, je voudrais vous éviter."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, je dois vous le dire : le temps est limité. Dès lors, que ceux qui ont une femme soient comme s'ils n'avaient pas de femme, ceux qui pleurent, comme s'ils ne pleuraient pas, ceux qui ont de la joie, comme s'ils n'en avaient pas, ceux qui font des achats, comme s'ils ne possédaient rien, ceux qui profitent de ce monde, comme s'ils n'en profitaient pas vraiment. Car il passe, ce monde tel que nous le voyons. J'aimerais vous voir libres de tout souci. Celui qui n'est pas marié a le souci des affaires du Seigneur, il cherche comment plaire au Seigneur. Celui qui est marié a le souci des affaires de ce monde, il cherche comment plaire à sa femme, et il se trouve divisé. La femme sans mari, ou celle qui reste vierge, a le souci des affaires du Seigneur, afin d'être sanctifiée dans son corps et son esprit. Celle qui est mariée a le souci des affaires de ce monde, elle cherche comment plaire à son mari. C'est dans votre intérêt que je dis cela ; ce n'est pas pour vous tendre un piège, mais pour vous proposer ce qui est bien, afin que vous soyez attachés au Seigneur sans partage."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "7, 25-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Was die Frage der Ehelosigkeit angeht, so habe ich kein Gebot vom Herrn. Ich gebe euch nur einen Rat als einer, den der Herr durch sein Erbarmen vertrauenswürdig gemacht hat. Ich meine, es ist gut wegen der bevorstehenden Not, ja, es ist gut für den Menschen, so zu sein. Bist du an eine Frau gebunden, suche dich nicht zu lösen; bist du ohne Frau, dann suche keine. Heiratest du aber, so sündigst du nicht; und heiratet eine Jungfrau, sündigt auch sie nicht. Freilich werden solche Leute irdischen Nöten nicht entgehen; ich aber möchte sie euch ersparen."
+       ],
+       [
+        "Denn ich sage euch, Brüder: Die Zeit ist kurz. Daher soll, wer eine Frau hat, sich in Zukunft so verhalten, als habe er keine, wer weint, als weine er nicht, wer sich freut, als freue er sich nicht, wer kauft, als würde er nicht Eigentümer, wer sich die Welt zunutze macht, als nutze er sie nicht; denn die Gestalt dieser Welt vergeht."
+       ],
+       [
+        "Ich wünschte aber, ihr wäret ohne Sorgen. Der Unverheiratete sorgt sich um die Sache des Herrn; er will dem Herrn gefallen. Der Verheiratete sorgt sich um die Dinge der Welt; er will seiner Frau gefallen. So ist er geteilt. Die unverheiratete Frau aber und die Jungfrau sorgen sich um die Sache des Herrn, um heilig zu sein an Leib und Geist. Die Verheiratete sorgt sich um die Dinge der Welt; sie will ihrem Mann gefallen. Das sage ich zu eurem Nutzen: nicht um euch eine Fessel anzulegen, vielmehr, damit ihr in rechter Weise und ungestört immer dem Herrn dienen könnt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.virgins.second-reading.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.virgins.second-reading.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": null,
+   "from": "common.virgins.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Propter regnum cælorum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "19, 3-12",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por causa do Reino dos Céus"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "19, 3-12",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "19:3-12",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por el reino de los cielos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Mateo"
+       ]
+      ],
+      "cite": "19, 3-12",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per il regno dei cieli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "19, 3-12",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "19, 3-12",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "19, 3-12",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.virgins.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.virgins.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accessérunt ad Iesum pharisæi tentántes eum et dicéntes: «Licet hómini dimíttere uxórem suam quacúmque ex causa?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui respóndens ait: «Non legístis quia, qui creávit ab inítio, másculum et féminam fecit eos et dixit: “Propter hoc dimíttet homo patrem et matrem et adhærébit uxóri suæ, et erunt duo in carne una?”. Itaque iam non sunt duo sed una caro. Quod ergo Deus coniúnxit, homo non séparet»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicunt illi: «Quid ergo Móyses mandávit dari libéllum repúdii et dimíttere?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ait illis: «Móyses ad durítiam cordis vestri permísit vobis dimíttere uxóres vestras; ab inítio autem non sic fuit. Dico autem vobis quia quicúmque dimíserit uxórem suam, nisi ob fornicatiónem, et áliam dúxerit, mœchátur»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicunt ei discípuli eius: «Si ita est causa hóminis cum uxóre, non éxpedit núbere»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui dixit eis: «Non omnes cápiunt verbum istud, sed quibus datum est. Sunt enim eunúchi, qui de matris útero sic nati sunt; et sunt eunúchi, qui facti sunt ab homínibus; et sunt eunúchi, qui seípsos castravérunt propter regnum cælórum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui potest cápere, cápiat»"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, alguns fariseus aproximaram-se de Jesus, e perguntaram, para o tentar: \"É permitido ao homem despedir sua esposa por qualquer motivo?\"Jesus respondeu:\"Nunca lestes que o Criador, desde o início os fez homem e mulher? E disse: 'Por isso, o homem deixará pai e mãe, e se unirá à sua mulher, e os dois serão uma só carne'? De modo que eles já não são dois, mas uma só carne. Portanto, o que Deus uniu, o homem não separe\". Os fariseus perguntaram: \"Então, como é que Moisés mandou dar certidão de divórcio e despedir a mulher?\" Jesus respondeu: \"Moisés permitiu despedir a mulher, por causa da dureza do vosso coração. Mas não foi assim desde o início. Por isso, eu vos digo: quem despedir a sua mulher - a não ser em caso de união ilegítima - e se casar com outra, comete adultério\". Os discípulos disseram a Jesus: \"Se a situação do homem com a mulher é assim, não vale a pena casar-se\". Jesus respondeu: \"Nem todos são capazes de entender isso, a não ser aqueles a quem é concedido. Com efeito, existem homens incapazes para o casamento, porque nasceram assim; outros, porque os homens assim os fizeram; outros, ainda, se fizeram incapazes disso por causa do Reino dos Céus. Quem puder entender, entenda\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Some Pharisees approached Jesus, and to test him they said, 'Is it against the Law for a man to divorce his wife on any pretext whatever?' He answered, 'Have you not read that the creator from the beginning made them male and female and that he said: This is why a man must leave father and mother, and cling to his wife, and the two become one body? They are no longer two, therefore, but one body. So then, what God has united, man must not divide'. They said to him, 'Then why did Moses command that a writ of dismissal should be given in cases of divorce?' 'It was because you were so unteachable' he said 'that Moses allowed you to divorce your wives, but it was not like this from the beginning. Now I say this to you: the man who divorces his wife - I am not speaking of fornication - and marries another, is guilty of adultery.' The disciples said to him, 'If that is how things are between husband and wife, it is not advisable to marry'. But he replied, 'It is not everyone who can accept what I have said, but only those to whom it is granted. There are eunuchs born that way from their mother's womb, there are eunuchs made so by men and there are eunuchs who have made themselves that way for the sake of the kingdom of heaven. Let anyone accept this who can.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, se acercaron a Jesús unos fariseos y le preguntaron, para ponerlo a prueba:"
+       ],
+       [
+        "«¿Es lícito a un hombre repudiar a su mujer por cualquier motivo?»."
+       ],
+       [
+        "El les respondió:"
+       ],
+       [
+        "«¿No habéis leído que el Creador, en el principio, los creó hombre y mujer, y dijo: “Por eso dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán los dos una sola carne”? De modo que ya no son dos, sino una sola carne."
+       ],
+       [
+        "Pues lo que Dios ha unido, que no lo separe el hombre»."
+       ],
+       [
+        "Ellos insistieron:"
+       ],
+       [
+        "«¿Y por qué mandó Moisés darle acta de divorcio y repudiarla?»."
+       ],
+       [
+        "Él les contestó:"
+       ],
+       [
+        "«Por la dureza de vuestro corazón os permitió Moisés repudiar a vuestras mujeres; pero, al principio, no era así. Pero yo os digo que, si uno repudia a su mujer —no hablo de unión ilegítima— y se casa con otra, comete adulterio»."
+       ],
+       [
+        "Los discípulos le replicaron:"
+       ],
+       [
+        "«Si esa es la situación del hombre con la mujer, no trae cuenta casarse»."
+       ],
+       [
+        "Pero él les dijo:"
+       ],
+       [
+        "«No todos entienden esto, solo los que han recibido ese don. Hay eunucos que salieron así del vientre de su madre, a otros los hicieron los hombres, y hay quienes se hacen eunucos ellos mismos por el reino de los cielos. El que pueda entender, entienda»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, si avvicinarono a Gesù alcuni farisei per metterlo alla prova e gli chiesero: «È lecito a un uomo ripudiare la propria moglie per qualsiasi motivo?»."
+       ],
+       [
+        "Egli rispose: «Non avete letto che il Creatore da principio li fece maschio e femmina e disse: \"Per questo l'uomo lascerà il padre e la madre e si unirà a sua moglie e i due diventeranno una sola carne\"? Così non sono più due, ma una sola carne. Dunque l'uomo non divida quello che Dio ha congiunto». Gli domandarono: «Perché allora Mosè ha ordinato di darle l'atto di ripudio e di ripudiarla?»."
+       ],
+       [
+        "Rispose loro: «Per la durezza del vostro cuore Mosè vi ha permesso di ripudiare le vostre mogli; all'inizio però non fu cosi. Ma io vi dico: chiunque ripudia la propria moglie, se non in caso di unione illegittima, e ne sposa un'altra, commette adulterio»."
+       ],
+       [
+        "Gli dissero i suoi discepoli: «Se questa è la situazione dell'uomo rispetto alla donna, non conviene sposarsi»."
+       ],
+       [
+        "Egli rispose loro: «Non tutti capiscono questa parola, ma solo coloro ai quali è stato concesso. Infatti vi sono eunuchi che sono nati così dal grembo della madre, e ve ne sono altri che sono stati resi tali dagli uomini, e ve ne sono altri ancora che si sono resi tali per il regno dei cieli. Chi può capire, capisca»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, des pharisiens s'approchèrent de Jésus pour le mettre à"
+       ],
+       [
+        "l'épreuve ; ils lui demandèrent :"
+       ],
+       [
+        "\" Est-il permis à un homme de renvoyer sa femme pour n'importe quel motif ? \""
+       ],
+       [
+        "Il répondit :"
+       ],
+       [
+        "\" N'avez-vous pas lu ceci ? Dès le commencement, le Créateur les fit homme et femme, et dit : \"À"
+       ],
+       [
+        "cause de cela, l'homme quittera son père et sa mère, il s'attachera à sa"
+       ],
+       [
+        "femme, et tous deux deviendront une seule"
+       ],
+       [
+        "chair.\" Ainsi, ils ne sont plus deux, mais une seule chair. Donc, ce que Dieu a uni, que l'homme ne le sépare pas ! \""
+       ],
+       [
+        "Les pharisiens lui répliquent :"
+       ],
+       [
+        "\" Pourquoi donc Moïse a-t-il prescrit la remise d'un acte de divorce avant la répudiation ? \""
+       ],
+       [
+        "Jésus leur répond :"
+       ],
+       [
+        "\" C'est en raison de la dureté de votre cœur que Moïse vous a permis de renvoyer vos femmes. Mais au commencement, il n'en était pas ainsi. Or je vous le dis : si quelqu'un renvoie sa femme - sauf en cas d'union illégitime - et qu'il en épouse une autre, il est adultère. \""
+       ],
+       [
+        "Ses disciples lui disent :"
+       ],
+       [
+        "\" Si telle est la situation de l'homme par rapport à sa femme, mieux vaut ne pas se marier. \""
+       ],
+       [
+        "Il leur répondit :"
+       ],
+       [
+        "\" Tous ne comprennent pas cette parole, mais seulement ceux à qui cela est donné. Il y a des gens qui ne se marient pas car, de naissance, ils en sont incapables ; il y en a qui ne peuvent pas se marier car ils ont été mutilés par les hommes ; il y en a qui ont choisi de ne pas se marier à cause du royaume des Cieux. Celui qui peut comprendre, qu'il comprenne ! \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "kamen Pharisäer zu Jesus, die ihm eine Falle stellen wollten, und fragten: Darf man seine Frau aus jedem beliebigen Grund aus der Ehe entlassen?"
+       ],
+       [
+        "Er antwortete: Habt ihr nicht gelesen, dass der Schöpfer die Menschen am Anfang als Mann und Frau geschaffen hat und dass er gesagt hat: Darum wird der Mann Vater und Mutter verlassen und sich an seine Frau binden, und die zwei werden ein Fleisch sein? Sie sind also nicht mehr zwei, sondern eins. Was aber Gott verbunden hat, das darf der Mensch nicht trennen."
+       ],
+       [
+        "Da sagten sie zu ihm: Wozu hat dann Mose vorgeschrieben, dass man der Frau eine Scheidungsurkunde geben muss, wenn man sich trennen will?"
+       ],
+       [
+        "Er antwortete: Nur weil ihr so hartherzig seid, hat Mose euch erlaubt, eure Frauen aus der Ehe zu entlassen. Am Anfang war das nicht so. Ich sage euch: Wer seine Frau entlässt, obwohl kein Fall von Unzucht vorliegt, und eine andere heiratet, der begeht Ehebruch."
+       ],
+       [
+        "Da sagten die Jünger zu ihm: Wenn das die Stellung des Mannes in der Ehe ist, dann ist es nicht gut zu heiraten."
+       ],
+       [
+        "Jesus sagte zu ihnen: Nicht alle können dieses Wort erfassen, sondern nur die, denen es gegeben ist. Denn es ist so: Manche sind von Geburt an zur Ehe unfähig, manche sind von den Menschen dazu gemacht, und manche haben sich selbst dazu gemacht - um des Himmelreiches willen."
+       ],
+       [
+        "Wer das erfassen kann, der erfasse es."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": null,
+   "from": "common.virgins.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": null,
+   "from": "common.virgins.gospel.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Io 14, 23",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si quis díligit me, sermónem meum servábit, dicit Dóminus,"
+       ],
+       [
+        "et Pater meus díliget eum, et ad eum veniémus."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jo 14, 23",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Quem me ama, realmente, guardará minha palavra e meu Pai o amará e a ele nós viremos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jn 14:23",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "If anyone loves me, he will hold to my words, and my Father will love him, and we will come to him."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jn 14, 23",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "El que me ama guardará mi palabra -dice el Señor-,"
+       ],
+       [
+        "y mi Padre lo amará, y vendremos a él."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Gv 14, 23",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Se uno mi ama, osserverà la mia parola, dice il Signore, e il Padre mio lo amerà e noi verremo a lui."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Io 14, 23",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si quelqu'un m'aime, il gardera ma parole, dit le Seigneur ; mon Père l'aimera, et nous viendrons vers lui."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "vgl. Joh 14, 23",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Wer mich liebt, hält fest an meinem Wort. Mein Vater wird ihn lieben, und wir werden bei ihm wohnen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Hæc est virgo sápiens,"
+       ],
+       [
+        "quam Dóminus vigilántem invénit;"
+       ],
+       [
+        "veniénte Dómino, introívit cum eo ad núptias."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Esta é a virgem prudente, que o Senhor encontrou vigilante; chegando o noivo, ela entrou para a festa do seu casamento."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "This is a wise bridesmaid, whom the Lord found waiting; at his coming, she went in with him to the wedding feast."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Ésta es la virgen sabia, a quien el Señor encontró velando;"
+       ],
+       [
+        "al llegar el Señor, entró con él al banquete de bodas."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Questa è La vergine saggia che il Signore ha trovato vigilante; all'arrivo dello Sposo è entrata con lui alle nozze."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Hæc est virgo sápiens,"
+       ],
+       [
+        "quam Dóminus vigilántem invénit;"
+       ],
+       [
+        "veniénte Dómino, introívit cum eo ad núptias."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Sie ist die kluge Jungfrau, die der Herr wachend antraf, als er kam: sie trat mit ihm ein in den Hochzeitssaal."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Veni, sponsa Christi, áccipe corónam,"
+       ],
+       [
+        "quam tibi Dóminus præparávit in ætérnum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Ó vinde, esposa de Cristo, recebei a coroa da glória, que o Senhor preparou para sempre!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Ven, esposa de Cristo, recibe la corona,"
+       ],
+       [
+        "que el Señor te preparó para toda la eternidad."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Vieni, sposa di Cristo, ricevi la corona, che il Signore ti ha preparato per la vita eterna."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Viens, épouse du Christ, reçois la couronne que le Seigneur t'a préparée pour l'éternité."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Braut Christi, komm und empfange die Krone, die der Herr dir bereithält auf ewig."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "title": {}
+}

@@ -1,0 +1,556 @@
+{
+ "id": "for-the-dead.gospel.12",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "12"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui credit in Filium habet vitam æternam, et resuscitabo ego eum in novissimo die."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Ioánnem"
+       ]
+      ],
+      "cite": "6, 37-40",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quem acredita no Filho tenha a vida eterna;e Eu o ressuscitarei no último dia»"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Evangelho de Nosso Senhor Jesus Cristo segundo São João"
+       ]
+      ],
+      "cite": "6, 37-40",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Whoever believes in the Son has eternal life, and I shall raise him up on the last day."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to John"
+       ]
+      ],
+      "cite": "6:37-40",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que cree en el Hijo tiene vida eterna, y yo lo resucitaré en el último día"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Juan"
+       ]
+      ],
+      "cite": "6, 37-40",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi crede nel Figlio ha la vita eterna, e io lo risusciterò nell'ultimo giorno."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Giovanni"
+       ]
+      ],
+      "cite": "6, 37-40",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Jean"
+       ]
+      ],
+      "cite": "6, 37-40",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Johannes"
+       ]
+      ],
+      "cite": "6, 37-40",
+      "role": "announcement"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus turbis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Omne, quod dat mihi Pater, ad me véniet; et eum, qui venit ad me, non eíciam foras, quia descéndi de cælo, non ut fáciam voluntátem meam sed voluntátem eius, qui misit me. Hæc est autem volúntas eius, qui misit me, ut omne, quod dedit mihi, non perdam ex eo, sed resúscitem illud in novíssimo die."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc est enim volúntas Patris mei, ut omnis, qui videt Fílium et credit in eum, hábeat vitam ætérnam; et resuscitábo ego eum in novíssimo die»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus à multidão: «Todos aqueles que o Pai Me dá virão a Mim e àqueles que vêm a Mim não os rejeitarei, porque desci do Céu, não para fazer a minha vontade, mas a vontade d'Aquele que Me enviou. E a vontade d'Aquele que Me enviou é esta: que Eu não perca nenhum dos que Ele Me deu, mas os ressuscite no último dia. De facto, é esta a vontade de meu Pai: que todo aquele que vê o Filho e acredita n'Ele tenha a vida eterna; e Eu o ressuscitarei no último dia»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to the crowd: `All that the Father gives me will come to me, and whoever comes to me I shall not turn him away; because I have come from heaven, not to do my own will, but to do the will of the one who sent me. Now the will of him who sent me is that I should lose nothing of all that he has given to me, and that I should raise it up on the last day. Yes, it is my Father's will that whoever sees the Son and believes in him shall have eternal life, and that I shall raise him up on the last day.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús al gentío:"
+       ],
+       [
+        "«Todo lo que me da el Padre vendrá a mí, y al que venga a mí no lo echaré afuera, porque he bajado del cielo no para hacer mi voluntad, sino la voluntad del que me ha enviado. Esta es la voluntad del que me ha enviado: que no pierda nada de lo que me dio, sino que lo resucite en el último día. Esta es la voluntad de mi Padre: que todo el que ve al Hijo y cree en él tenga vida eterna, y yo lo resucitaré en el último día»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse alle folle: «Tutto ciò che il Padre mi dà, verrà a me; colui che viene a me, non lo respingerò, perché sono disceso dal cielo non per fare la mia volontà, ma la volontà di colui che mi ha mandato. E questa è la volontà di colui che mi ha mandato, che io non perda nulla di quanto egli mi ha dato, ma lo risusciti nell'ultimo giorno. Questa infatti è la volontà del Padre mio, che chiunque vede il Figlio e crede in lui abbia la vita eterna; io lo risusciterò nell'ultimo giorno»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait aux foules :"
+       ],
+       [
+        "\" Tous ceux que me donne le Père viendront jusqu'à moi ; et celui qui vient à moi, je ne vais pas le jeter dehors. Car je suis descendu du ciel pour faire non pas ma volonté, mais la volonté de Celui qui m'a envoyé. Or, telle est la volonté de Celui qui m'a envoyé : que je ne perde aucun de ceux qu'il m'a donnés, mais que je les ressuscite au dernier jour. Telle est la volonté de mon Père : que celui qui voit le Fils et croit en lui ait la vie éternelle ; et moi, je le ressusciterai au dernier jour. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu der Menge:"
+       ],
+       [
+        "Alles, was der Vater mir gibt, wird zu mir kommen, und wer zu mir kommt, den werde ich nicht abweisen; denn ich bin nicht vom Himmel herabgekommen, um meinen Willen zu tun, sondern den Willen dessen, der mich gesandt hat. Es ist aber der Wille dessen, der mich gesandt hat, dass ich keinen von denen, die er mir gegeben hat, zugrunde gehen lasse, sondern dass ich sie auferwecke am Letzten Tag."
+       ],
+       [
+        "Denn es ist der Wille meines Vaters, dass alle, die den Sohn sehen und an ihn glauben, das ewige Leben haben und dass ich sie auferwecke am Letzten Tag."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

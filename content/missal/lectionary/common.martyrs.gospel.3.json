@@ -1,0 +1,550 @@
+{
+ "id": "common.martyrs.gospel.3",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non veni pacem mittere sed gladium."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "10, 34-39",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Não vim trazer a paz, mas sim a espada."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "10, 34-39",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "10:34-39",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No he venido a sembrar paz, sino espada"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "10, 34-39",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sono venuto a portare non pace, ma spada"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "10, 34-39",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "10, 34-39",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "10, 34-39",
+      "role": "announcement"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus apóstolis suis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nolíte arbitrári quia vénerim míttere pacem in terram; non veni pacem míttere sed gládium. Veni enim “separáre hóminem advérsus patrem suum et fíliam advérsus matrem suam et nurum advérsus socrum suam: et inimíci hóminis doméstici eius”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui amat patrem aut matrem plus quam me, non est me dignus; et, qui amat fílium aut fíliam super me, non est me dignus; et, qui non áccipit crucem suam et séquitur me, non est me dignus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui invénerit ánimam suam, perdet illam; et, qui perdíderit ánimam suam propter me, invéniet eam."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus aos seus apóstolos: \"Não penseis que vim trazer a paz à terra. Não vim trazer a paz, mas sim a espada. De facto, vim separar o filho de seu pai, a filha de sua mãe, a nora da sua sogra. E os inimigos do homem serão os seus próprios familiares. Quem ama seu pai ou sua mãe mais do que a mim, não é digno de mim. Quem ama seu filho ou sua filha mais do que a mim, não é digno de mim. Quem não toma a sua cruz e não me segue não é digno de mim. Quem procura conservar a sua vida vai perdê-la. E quem perder a sua vida por causa de mim, vai encontrá-la\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his disciples: 'Do not suppose that I have come to bring peace to the earth: it is not peace I have come to bring, but a sword. For I have come to set a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law. A man's enemies will be those of his own household. 'Anyone who prefers father or mother to me is not worthy of me. Anyone who prefers son or daughter to me is not worthy of me. Anyone who does not take his cross and follow in my footsteps is not worthy of me. Anyone who finds his life will lose it; anyone who loses his life for my sake will find it."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus apóstoles:"
+       ],
+       [
+        "«No penséis que he venido a la tierra a sembrar paz:"
+       ],
+       [
+        "no he venido a sembrar paz, sino espada. He venido a enemistar al hombre con su padre, a la hija con su madre, a la nuera con su suegra; los enemigos de cada uno serán los de su propia casa."
+       ],
+       [
+        "El que quiere a su padre o a su madre más que a mí, no es digno de mí; el que quiere a su hijo o a su hija más que a mí, no es digno de mí; y el que no carga con su cruz y me sigue, no es digno de mí. El que encuentre su vida la perderá, y el que pierda su vida por mí, la encontrará»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi apostoli:"
+       ],
+       [
+        "«Non crediate che io sia venuto a portare pace sulla terra; sono venuto a portare non pace, ma spada. Sono infatti venuto a separare l'uomo da suo padre e la figlia da sua madre e la nuora da sua suocera; e nemici dell'uomo saranno quelli della sua casa."
+       ],
+       [
+        "Chi ama padre o madre più di me, non è degno di me; chi ama figlio o figlia più di me, non è degno di me; chi non prende la propria croce e non mi segue, non è degno di me."
+       ],
+       [
+        "Chi avrà tenuto per sé la propria vita, la perderà, e chi avrà perduto la propria vita per causa mia, la troverà»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses Apôtres :"
+       ],
+       [
+        "\" Ne pensez pas que je sois venu apporter la paix sur la terre : je ne suis pas venu apporter la paix, mais le glaive. Oui, je suis venu séparer l'homme de son père, la fille de sa mère, la belle-fille de sa belle-mère : on aura pour ennemis les gens de sa propre maison. Celui qui aime son père ou sa mère plus que moi n'est pas digne de moi ; celui qui aime son fils ou sa fille plus que moi n'est pas digne de moi ; celui qui ne prend pas sa croix et ne me suit pas n'est pas digne de moi. Qui a trouvé sa vie la perdra ; qui a perdu sa vie à cause de moi la trouvera. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Aposteln:"
+       ],
+       [
+        "Denkt nicht, ich sei gekommen, um Frieden auf die Erde zu bringen. Ich bin nicht gekommen, um Frieden zu bringen, sondern das Schwert. Denn ich bin gekommen, um den Sohn mit seinem Vater zu entzweien und die Tochter mit ihrer Mutter und die Schwiegertochter mit ihrer Schwiegermutter; und die Hausgenossen eines Menschen werden seine Feinde sein."
+       ],
+       [
+        "Wer Vater oder Mutter mehr liebt als mich, ist meiner nicht würdig, und wer Sohn oder Tochter mehr liebt als mich, ist meiner nicht würde. Und wer nicht sein Kreuz auf sich nimmt und mir nachfolgt, ist meiner nicht würdig."
+       ],
+       [
+        "Wer das Leben gewinnen will, wird es verlieren; wer aber das Leben um meinetwillen verliert, wird es gewinnen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

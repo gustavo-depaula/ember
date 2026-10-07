@@ -1,1 +1,1824 @@
-{"id":"sanctorale.10-19","source":"lecturas/lecturas_santos_oct#1019","items":[{"slot":"161","text":{"la":[{"k":"h2","lines":[["Die 19 octobris"],["Ss. Ioannis de Brébeuf et Isaac Jogues, presbyterorum, et sociorum, martyrum"]]}],"pt-BR":[{"k":"h2","lines":[["19 de Outubro"],["São João de Brébeuf e Isaac Jogues, presbíteros, e Companheiros, mártires"]]}],"en-US":[{"k":"h2","lines":[["October 19"],["Ss John de Brebeuf and Isaac Jogues, priests and martyrs, and companions, martyrs"]]}],"es":[{"k":"h2","lines":[["19 de octubre"],["San Juan de Breveuf y san Isaac Jogues, presbíteros, y compañeros mártires"]]}],"it":[{"k":"h2","lines":[["Die 19 octobris"],["Santi Giovanni de Brébeuf e Isacco Jogues, sacerdoti, e Compagni, martiri"]]}],"fr":[{"k":"h2","lines":[["19 octobre"],["Saint Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons, martyrs"]]}],"de":[{"k":"h2","lines":[["19. Oktober"],["Hl. Johannes de Brébeuf und Isaak Jogues und Gefährten, Märtyrer"]]}]}},{"slot":"162","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.cm2l3"}]]}]},"part":"firstReading"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"4"}]]}]},"role":"rubric","part":"psalm","from":"readings.cms4"},{"slot":"47","text":{"la":[{"k":"p","lines":[],"cite":"Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"pt-BR":[{"k":"p","lines":[],"cite":"Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"en-US":[{"k":"p","lines":[],"cite":"Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"es":[{"k":"p","lines":[],"cite":"Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"it":[{"k":"p","lines":[],"cite":"Salmo 125 (126)","role":"title"}],"fr":[{"k":"p","lines":[],"cite":"Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)","role":"title"}],"de":[{"k":"p","lines":[],"cite":"Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 5)","role":"title"}]},"part":"psalm","from":"readings.cms4"},{"slot":"48","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"49","text":{"la":[{"k":"p","lines":[["In converténdo Dóminus captivitátem Sion,"],["facti sumus quasi somniántes."],["Tunc replétum est gáudio os nostrum,"],["et lingua nostra exsultatióne."]]}],"pt-BR":[{"k":"p","lines":[["Quando o Senhor reconduziu nossos cativos, parecíamos sonhar; encheu-se de sorriso nossa boca, nossos lábios, de canções."]]}],"en-US":[{"k":"p","lines":[["When the Lord delivered Zion from bondage, it seemed like a dream. Then was our mouth filled with laughter, on our lips there were songs."]]}],"es":[{"k":"p","lines":[["Cuando el Señor hizo volver a los cautivos de Sion, nos parecía soñar:"],["la boca se nos llenaba de risas,"],["la lengua de cantares."]]}],"it":[{"k":"p","lines":[["Quando il Signore ristabilì la sorte di Sion,"],["ci sembrava di sognare."],["Allora la nostra bocca si riempì di sorriso,"],["la nostra lingua di gioia."]]}],"fr":[{"k":"p","lines":[["Quand le Seigneur ramena les captifs à Sion, *"],["nous étions comme en rêve !"],["Alors notre bouche était pleine de rires,"],["nous poussions des cris de joie"]]}],"de":[{"k":"p","lines":[["Als der Herr das Los der Gefangenschaft Zion wendete,"],["da waren wir alle wie Träumende."],["Da war unser Mund voll Lachen"],["und unsere Zunge voll Jubel."]]}]},"role":"verse","part":"psalm","from":"readings.cms4"},{"slot":"50","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"51","text":{"la":[{"k":"p","lines":[["Tunc dicébant inter gentes:"],["«Magnificávit Dóminus fácere cum eis»."],["Magnificávit Dóminus fácere nobíscum;"],["facti sumus lætántes."]]}],"pt-BR":[{"k":"p","lines":[["Entre os gentios se dizia: \"Maravilhas fez com eles o Senhor!\" Sim, maravilhas fez conosco o Senhor, exultemos de alegria!"]]}],"en-US":[{"k":"p","lines":[["The heathens themselves said: 'What marvels the Lord worked for them!' What marvels the Lord worked for us! Indeed we were glad."]]}],"es":[{"k":"p","lines":[["Hasta los gentiles decían:"],["«El Señor ha estado grande con ellos»."],["El Señor ha estado grande con nosotros,"],["y estamos alegres."]]}],"it":[{"k":"p","lines":[["Allora si diceva tra le genti:"],["«Il Signore ha fatto grandi cose per loro»."],["Grandi cose ha fatto il Signore per noi:"],["eravamo pieni di gioia."]]}],"fr":[{"k":"p","lines":[["Alors on disait parmi les nations :"],["\" Quelles merveilles fait pour eux le Seigneur ! \""],["Quelles merveilles le Seigneur fit pour nous :"],["nous étions en grande fête !"]]}],"de":[{"k":"p","lines":[["Da sagte man unter den andern Völkern:"],["„Der Herr hat an ihnen Großes getan.“"],["Ja, Großes hat der Herr an uns getan."],["Da waren wir fröhlich."]]}]},"role":"verse","part":"psalm","from":"readings.cms4"},{"slot":"52","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"53","text":{"la":[{"k":"p","lines":[["Convérte, Dómine, captivitátem nostram,"],["sicut torréntes in austro."],["Qui séminant in lácrimis,"],["in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[["Mudai a nossa sorte, ó Senhor, como torrentes no deserto. Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[["Deliver us, O Lord, from our bondage as streams in dry land. Those who are sowing in tears will sing when they reap."]]}],"es":[{"k":"p","lines":[["Recoge, Señor, a nuestros cautivos"],["como los torrentes del Negueb."],["Los que sembraban con lágrimas"],["cosechan entre cantares."]]}],"it":[{"k":"p","lines":[["Ristabilisci, Signore, la nostra sorte,"],["come i torrenti del Negheb."],["Chi semina nelle lacrime mieterà"],["nella gioia."]]}],"fr":[{"k":"p","lines":[["Ramène, Seigneur, nos captifs,"],["comme les torrents au désert."],["Qui sème dans les larmes"],["moissonne dans la joie. +"]]}],"de":[{"k":"p","lines":[["Wende doch, Herr, unser Geschick,"],["wie du versiegte Bäche wieder füllst im Südland."],["Die mit Tränen säen,"],["werden mit Jubel ernten."]]}]},"role":"verse","part":"psalm","from":"readings.cms4"},{"slot":"54","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"55","text":{"la":[{"k":"p","lines":[["Eúntes ibant et flebant,"],["semen spargéndum portántes;"],["veniéntes autem vénient in exsultatióne"],["portántes manípulos suos."]]}],"pt-BR":[{"k":"p","lines":[["Chorando de tristeza sairão, espalhando suas sementes; cantando de alegria voltarão, carregando os seus feixes!"]]}],"en-US":[{"k":"p","lines":[["They go out, they go our, full of tears, carrying seed for the sowing: they come back, they come back, full of song, carrying their sheaves."]]}],"es":[{"k":"p","lines":[["Al ir, iba llorando,"],["llevando la semilla;"],["al volver, vuelve cantando,"],["trayendo sus gavillas."]]}],"it":[{"k":"p","lines":[["Nell'andare, se ne va piangendo,"],["portando la semente da gettare,"],["ma nel tornare, viene con gioia,"],["portando i suoi covoni."]]}],"fr":[{"k":"p","lines":[["Il s'en va, il s'en va en pleurant,"],["il jette la semence ;"],["il s'en vient, il s'en vient dans la joie,"],["il rapporte les gerbes."]]}],"de":[{"k":"p","lines":[["Sie gehen hin unter Tränen"],["und tragen den Samen zur Aussaat."],["Sie kommen wieder mit Jubel"],["und bringen ihre Garben ein."]]}]},"role":"verse","part":"psalm","from":"readings.cms4"},{"slot":"56","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séminant in lácrimis, in exsultatióne metent."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Os que lançam as sementes entre lágrimas, ceifarão com alegria."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who sow in tears, shall reap with shouts of joy."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Los que sembraban con lágrimas cosechan entre cantares."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi semina nelle lacrime mieterà nella gioia."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ceux qui sèment dans les larmes moissonnent dans la joie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Die mit Tränen säen, werden mit Jubel ernten."]]}]},"role":"people","part":"psalm","from":"readings.cms4"},{"slot":"163","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.cpaly1"}]]}]},"part":"acclamation"},{"text":{"*":[{"k":"p","lines":[["[Pro missionariis]"]]}]},"part":"gospel","from":"readings.cpev4"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"4"}]]}]},"role":"rubric","part":"gospel","from":"readings.cpev4"},{"slot":"143","text":{"la":[{"k":"p","lines":[["Euntes docete omnes gentes."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Matthǽum"]],"cite":"28, 16-20","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Ide e fazei discípulos meus todos os povos."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Mateus"]],"cite":"28, 16-20","role":"announcement"}],"en-US":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Matthew"]],"cite":"28:16-20","role":"announcement"}],"es":[{"k":"p","lines":[["Id y haced discípulos de todos los pueblos"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo evangelio según san Mateo"]],"cite":"28, 16-20","role":"announcement"}],"it":[{"k":"p","lines":[["Andate e fate discepoli tutti i popoli."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal Vangelo secondo Matteo"]],"cite":"28, 16-20","role":"announcement"}],"fr":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Matthieu"]],"cite":"28, 16-20","role":"announcement"}],"de":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"28, 16-20","role":"announcement"}]},"part":"gospel","from":"readings.cpev4"},{"slot":"144","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"role":"people","part":"gospel","from":"readings.cpev4"},{"slot":"145","text":{"la":[{"k":"p","lines":[["In illo témpore:"]]},{"k":"p","lines":[["Undecim discípuli abiérunt in Galilæam, in montem ubi constitúerat illis Iesus, et vidéntes eum adoravérunt; quidam autem dubitavérunt."]]},{"k":"p","lines":[["Et accédens Iesus locútus est eis dicens: «Data est mihi omnis potéstas in cælo et in terra. Eúntes ergo docéte omnes gentes, baptizántes eos in nómine Patris et Fílii et Spíritus Sancti, docéntes eos serváre ómnia, quæcúmque mandávi vobis. Et ecce ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, os onze discípulos foram para a Galiléia, ao monte que Jesus lhes tinha indicado. Quando viram Jesus, postraram-se diante dele. Ainda assim alguns duvidaram. Então Jesus aproximou-se e falou: \"Toda autoridade me foi dada no céu e sobre a terra. Portanto, ide e fazei discípulos meus todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo, e ensinando-os a observar tudo o que vos ordenei! Eis que estarei convosco todos os dias, até o fim do mundo\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["The eleven disciples set out for Galilee, to the mountain where Jesus had arranged to meet them. When they saw him they fell down before him, though some hesitated. Jesus came up and spoke to them. He said, 'All authority in heaven and on earth has been given to me. Go, therefore, make disciples of all the nations; baptise them in the name of the Father and of the Son and of the Holy Spirit, and teach them to observe all the commands I gave you. And know that I am with you always; yes, to the end of time.'"]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, los once discípulos se fueron a Galilea, al monte que Jesús les había indicado."],["Al verlo, ellos se postraron, pero algunos dudaron. Acercándose a ellos, Jesús les dijo:"],["«Se me ha dado todo poder en el cielo y en la tierra. Id, pues, y haced discípulos a todos los pueblos, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo; enseñándoles a guardar todo lo que os he mandado."],["Y sabed que yo estoy con vosotros todos los días, hasta el final de los tiempos»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, gli undici discepoli andarono in Galilea, sul monte che Gesù aveva loro indicato."],["Quando lo videro, si prostrarono. Essi però dubitarono. Gesù si avvicinò e disse loro: «A me è stato dato ogni potere in cielo e sulla terra. Andate dunque e fate discepoli tutti i popoli, battezzandoli nel nome del Padre e del Figlio e dello Spirito Santo, insegnando loro a osservare tutto dò che vi ho comandato. Ed ecco, io sono con voi tutti i giorni, fino alla fine del mondo»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, les onze disciples s'en allèrent en Galilée, à la montagne"],["où Jésus leur avait ordonné de se rendre. Quand ils le virent, ils se"],["prosternèrent, mais certains eurent des doutes. Jésus s'approcha d'eux et"],["leur adressa ces paroles :"],["\" Tout pouvoir m'a été donné au ciel et sur la terre. Allez ! De toutes les nations faites des disciples : baptisez-les au nom du Père, et du Fils, et du Saint-Esprit, apprenez-leur à observer tout ce que je vous ai commandé. Et moi, je suis avec vous tous les jours jusqu'à la fin du monde. \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit"],["gingen die elf Jünger nach Galiläa auf den Berg, den Jesus ihnen genannt hatte. Und als sie Jesus sahen, fielen sie vor ihm nieder. Einige aber hatten Zweifel."],["Da trat Jesus auf sie zu und sagte zu ihnen: Mir ist alle Macht gegeben im Himmel und auf der Erde. Darum geht zu allen Völkern, und macht alle Menschen zu meinen Jüngern; tauft sie auf den Namen des Vaters und des Sohnes und des Heiligen Geistes, und lehrt sie, alles zu befolgen, was ich euch geboten habe. Seid gewiss: Ich bin bei euch alle Tage bis zum Ende der Welt."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel","from":"readings.cpev4"},{"slot":"146","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel","from":"readings.cpev4"}],"title":{"la":"Ss. Ioannis de Brébeuf et Isaac Jogues, presbyterorum, et sociorum, martyrum","pt-BR":"São João de Brébeuf e Isaac Jogues, presbíteros, e Companheiros, mártires","en-US":"Ss John de Brebeuf and Isaac Jogues, priests and martyrs, and companions, martyrs","es":"San Juan de Breveuf y san Isaac Jogues, presbíteros, y compañeros mártires","it":"Santi Giovanni de Brébeuf e Isacco Jogues, sacerdoti, e Compagni, martiri","fr":"Saint Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons, martyrs","de":"Hl. Johannes de Brébeuf und Isaak Jogues und Gefährten, Märtyrer"}}
+{
+ "id": "sanctorale.10-19",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 19 octobris"
+       ],
+       [
+        "Ss. Ioannis de Brébeuf et Isaac Jogues, presbyterorum, et sociorum, martyrum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de Outubro"
+       ],
+       [
+        "São João de Brébeuf e Isaac Jogues, presbíteros, e Companheiros, mártires"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "October 19"
+       ],
+       [
+        "Ss John de Brebeuf and Isaac Jogues, priests and martyrs, and companions, martyrs"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de octubre"
+       ],
+       [
+        "San Juan de Breveuf y san Isaac Jogues, presbíteros, y compañeros mártires"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 19 octobris"
+       ],
+       [
+        "Santi Giovanni de Brébeuf e Isacco Jogues, sacerdoti, e Compagni, martiri"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 octobre"
+       ],
+       [
+        "Saint Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons, martyrs"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19. Oktober"
+       ],
+       [
+        "Hl. Johannes de Brébeuf und Isaak Jogues und Gefährten, Märtyrer"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.cm2l3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "4"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Salmo 125 (126)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 5)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In converténdo Dóminus captivitátem Sion,"
+       ],
+       [
+        "facti sumus quasi somniántes."
+       ],
+       [
+        "Tunc replétum est gáudio os nostrum,"
+       ],
+       [
+        "et lingua nostra exsultatióne."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando o Senhor reconduziu nossos cativos, parecíamos sonhar; encheu-se de sorriso nossa boca, nossos lábios, de canções."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When the Lord delivered Zion from bondage, it seemed like a dream. Then was our mouth filled with laughter, on our lips there were songs."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cuando el Señor hizo volver a los cautivos de Sion, nos parecía soñar:"
+       ],
+       [
+        "la boca se nos llenaba de risas,"
+       ],
+       [
+        "la lengua de cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando il Signore ristabilì la sorte di Sion,"
+       ],
+       [
+        "ci sembrava di sognare."
+       ],
+       [
+        "Allora la nostra bocca si riempì di sorriso,"
+       ],
+       [
+        "la nostra lingua di gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quand le Seigneur ramena les captifs à Sion, *"
+       ],
+       [
+        "nous étions comme en rêve !"
+       ],
+       [
+        "Alors notre bouche était pleine de rires,"
+       ],
+       [
+        "nous poussions des cris de joie"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Als der Herr das Los der Gefangenschaft Zion wendete,"
+       ],
+       [
+        "da waren wir alle wie Träumende."
+       ],
+       [
+        "Da war unser Mund voll Lachen"
+       ],
+       [
+        "und unsere Zunge voll Jubel."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc dicébant inter gentes:"
+       ],
+       [
+        "«Magnificávit Dóminus fácere cum eis»."
+       ],
+       [
+        "Magnificávit Dóminus fácere nobíscum;"
+       ],
+       [
+        "facti sumus lætántes."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entre os gentios se dizia: \"Maravilhas fez com eles o Senhor!\" Sim, maravilhas fez conosco o Senhor, exultemos de alegria!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The heathens themselves said: 'What marvels the Lord worked for them!' What marvels the Lord worked for us! Indeed we were glad."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hasta los gentiles decían:"
+       ],
+       [
+        "«El Señor ha estado grande con ellos»."
+       ],
+       [
+        "El Señor ha estado grande con nosotros,"
+       ],
+       [
+        "y estamos alegres."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allora si diceva tra le genti:"
+       ],
+       [
+        "«Il Signore ha fatto grandi cose per loro»."
+       ],
+       [
+        "Grandi cose ha fatto il Signore per noi:"
+       ],
+       [
+        "eravamo pieni di gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors on disait parmi les nations :"
+       ],
+       [
+        "\" Quelles merveilles fait pour eux le Seigneur ! \""
+       ],
+       [
+        "Quelles merveilles le Seigneur fit pour nous :"
+       ],
+       [
+        "nous étions en grande fête !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Da sagte man unter den andern Völkern:"
+       ],
+       [
+        "„Der Herr hat an ihnen Großes getan.“"
+       ],
+       [
+        "Ja, Großes hat der Herr an uns getan."
+       ],
+       [
+        "Da waren wir fröhlich."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Convérte, Dómine, captivitátem nostram,"
+       ],
+       [
+        "sicut torréntes in austro."
+       ],
+       [
+        "Qui séminant in lácrimis,"
+       ],
+       [
+        "in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mudai a nossa sorte, ó Senhor, como torrentes no deserto. Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deliver us, O Lord, from our bondage as streams in dry land. Those who are sowing in tears will sing when they reap."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recoge, Señor, a nuestros cautivos"
+       ],
+       [
+        "como los torrentes del Negueb."
+       ],
+       [
+        "Los que sembraban con lágrimas"
+       ],
+       [
+        "cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ristabilisci, Signore, la nostra sorte,"
+       ],
+       [
+        "come i torrenti del Negheb."
+       ],
+       [
+        "Chi semina nelle lacrime mieterà"
+       ],
+       [
+        "nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ramène, Seigneur, nos captifs,"
+       ],
+       [
+        "comme les torrents au désert."
+       ],
+       [
+        "Qui sème dans les larmes"
+       ],
+       [
+        "moissonne dans la joie. +"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wende doch, Herr, unser Geschick,"
+       ],
+       [
+        "wie du versiegte Bäche wieder füllst im Südland."
+       ],
+       [
+        "Die mit Tränen säen,"
+       ],
+       [
+        "werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eúntes ibant et flebant,"
+       ],
+       [
+        "semen spargéndum portántes;"
+       ],
+       [
+        "veniéntes autem vénient in exsultatióne"
+       ],
+       [
+        "portántes manípulos suos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chorando de tristeza sairão, espalhando suas sementes; cantando de alegria voltarão, carregando os seus feixes!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "They go out, they go our, full of tears, carrying seed for the sowing: they come back, they come back, full of song, carrying their sheaves."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al ir, iba llorando,"
+       ],
+       [
+        "llevando la semilla;"
+       ],
+       [
+        "al volver, vuelve cantando,"
+       ],
+       [
+        "trayendo sus gavillas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nell'andare, se ne va piangendo,"
+       ],
+       [
+        "portando la semente da gettare,"
+       ],
+       [
+        "ma nel tornare, viene con gioia,"
+       ],
+       [
+        "portando i suoi covoni."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il s'en va, il s'en va en pleurant,"
+       ],
+       [
+        "il jette la semence ;"
+       ],
+       [
+        "il s'en vient, il s'en vient dans la joie,"
+       ],
+       [
+        "il rapporte les gerbes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sie gehen hin unter Tränen"
+       ],
+       [
+        "und tragen den Samen zur Aussaat."
+       ],
+       [
+        "Sie kommen wieder mit Jubel"
+       ],
+       [
+        "und bringen ihre Garben ein."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.cpaly1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "[Pro missionariis]"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "4"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Euntes docete omnes gentes."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ide e fazei discípulos meus todos os povos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "28:16-20",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Id y haced discípulos de todos los pueblos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Mateo"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Andate e fate discepoli tutti i popoli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Undecim discípuli abiérunt in Galilæam, in montem ubi constitúerat illis Iesus, et vidéntes eum adoravérunt; quidam autem dubitavérunt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et accédens Iesus locútus est eis dicens: «Data est mihi omnis potéstas in cælo et in terra. Eúntes ergo docéte omnes gentes, baptizántes eos in nómine Patris et Fílii et Spíritus Sancti, docéntes eos serváre ómnia, quæcúmque mandávi vobis. Et ecce ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, os onze discípulos foram para a Galiléia, ao monte que Jesus lhes tinha indicado. Quando viram Jesus, postraram-se diante dele. Ainda assim alguns duvidaram. Então Jesus aproximou-se e falou: \"Toda autoridade me foi dada no céu e sobre a terra. Portanto, ide e fazei discípulos meus todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo, e ensinando-os a observar tudo o que vos ordenei! Eis que estarei convosco todos os dias, até o fim do mundo\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The eleven disciples set out for Galilee, to the mountain where Jesus had arranged to meet them. When they saw him they fell down before him, though some hesitated. Jesus came up and spoke to them. He said, 'All authority in heaven and on earth has been given to me. Go, therefore, make disciples of all the nations; baptise them in the name of the Father and of the Son and of the Holy Spirit, and teach them to observe all the commands I gave you. And know that I am with you always; yes, to the end of time.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, los once discípulos se fueron a Galilea, al monte que Jesús les había indicado."
+       ],
+       [
+        "Al verlo, ellos se postraron, pero algunos dudaron. Acercándose a ellos, Jesús les dijo:"
+       ],
+       [
+        "«Se me ha dado todo poder en el cielo y en la tierra. Id, pues, y haced discípulos a todos los pueblos, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo; enseñándoles a guardar todo lo que os he mandado."
+       ],
+       [
+        "Y sabed que yo estoy con vosotros todos los días, hasta el final de los tiempos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, gli undici discepoli andarono in Galilea, sul monte che Gesù aveva loro indicato."
+       ],
+       [
+        "Quando lo videro, si prostrarono. Essi però dubitarono. Gesù si avvicinò e disse loro: «A me è stato dato ogni potere in cielo e sulla terra. Andate dunque e fate discepoli tutti i popoli, battezzandoli nel nome del Padre e del Figlio e dello Spirito Santo, insegnando loro a osservare tutto dò che vi ho comandato. Ed ecco, io sono con voi tutti i giorni, fino alla fine del mondo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, les onze disciples s'en allèrent en Galilée, à la montagne"
+       ],
+       [
+        "où Jésus leur avait ordonné de se rendre. Quand ils le virent, ils se"
+       ],
+       [
+        "prosternèrent, mais certains eurent des doutes. Jésus s'approcha d'eux et"
+       ],
+       [
+        "leur adressa ces paroles :"
+       ],
+       [
+        "\" Tout pouvoir m'a été donné au ciel et sur la terre. Allez ! De toutes les nations faites des disciples : baptisez-les au nom du Père, et du Fils, et du Saint-Esprit, apprenez-leur à observer tout ce que je vous ai commandé. Et moi, je suis avec vous tous les jours jusqu'à la fin du monde. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "gingen die elf Jünger nach Galiläa auf den Berg, den Jesus ihnen genannt hatte. Und als sie Jesus sahen, fielen sie vor ihm nieder. Einige aber hatten Zweifel."
+       ],
+       [
+        "Da trat Jesus auf sie zu und sagte zu ihnen: Mir ist alle Macht gegeben im Himmel und auf der Erde. Darum geht zu allen Völkern, und macht alle Menschen zu meinen Jüngern; tauft sie auf den Namen des Vaters und des Sohnes und des Heiligen Geistes, und lehrt sie, alles zu befolgen, was ich euch geboten habe. Seid gewiss: Ich bin bei euch alle Tage bis zum Ende der Welt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  }
+ ],
+ "title": {
+  "la": "Ss. Ioannis de Brébeuf et Isaac Jogues, presbyterorum, et sociorum, martyrum",
+  "pt-BR": "São João de Brébeuf e Isaac Jogues, presbíteros, e Companheiros, mártires",
+  "en-US": "Ss John de Brebeuf and Isaac Jogues, priests and martyrs, and companions, martyrs",
+  "es": "San Juan de Breveuf y san Isaac Jogues, presbíteros, y compañeros mártires",
+  "it": "Santi Giovanni de Brébeuf e Isacco Jogues, sacerdoti, e Compagni, martiri",
+  "fr": "Saint Jean de Brébeuf et Isaac Jogues, prêtres, et leurs compagnons, martyrs",
+  "de": "Hl. Johannes de Brébeuf und Isaak Jogues und Gefährten, Märtyrer"
+ }
+}

@@ -1,1 +1,40 @@
-{"id":"sanctorale.11-13.spain","source":"lecturas/lecturas_santos_nov#1113","items":[{"slot":"130","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["13 de noviembre"],["San Leandro, obispo"]]}]}},{"mark":"readings"}],"lectionary":"readings.cp1f1","title":{"*":"San Leandro, obispo"}}
+{
+ "id": "sanctorale.11-13.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13 de noviembre"
+       ],
+       [
+        "San Leandro, obispo"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.cp1f1",
+ "title": {
+  "*": "San Leandro, obispo"
+ }
+}

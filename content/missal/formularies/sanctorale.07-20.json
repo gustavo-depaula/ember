@@ -1,1 +1,780 @@
-{"id":"sanctorale.07-20","source":"santos/santos_jul#0720","kind":"sanctoral","items":[{"slot":"83","text":{"la":[{"k":"h2","lines":[["Die 20 iulii"],["S. Apollinaris, episcopi et martyris"]]},{"k":"p","lines":[["Investigabiles divitias Christi ínter gentes propagans, secundo sæculo exeunte, ut videtur, Ecclesiam Classensem apud Ravennam in Flaminia episcopus duxisse et inclito martyrii honore decoravisse traditur. Die vero 23 iulii ad Dominum migravit."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi martyrum:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"},{"m":"rubric","t":", vel de Communi pastorum:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["20 de julho"],["Santo Apolinário, bispo e mártir"]]},{"k":"p","lines":[["Apolinário, bispo da Igreja de Classe, em Ravena, Emília-Romanha, Itália, propagou entre os pagãos as inesgotáveis riquezas de Cristo. Sofreu o martírio no dia 23 de julho, por volta do final do século II."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Mártires:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"},{"m":"rubric","t":", ou Comum dos Pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["July 20"],["Saint Apollinaris, bishop and martyr"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Martyrs:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"},{"m":"rubric","t":", or from the Common of Pastors:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["20 de julio"],["San Apolinar, obispo y mártir"]]},{"k":"p","lines":[["Según la tradición parece que, a finales del siglo II, guió como obispo la Iglesia de Classe en Rávena, en la región de Flaminia, dando a conocer entre los paganos las inescrutables riquezas de Cristo, y fue honrado con el honor del eximio martirio. Marchó hacia el Señor un día 23 de julio."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"},{"m":"rubric","t":", o de pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["20 luglio"],["SANT'APOLLINARE, vescovo e martire"]]},{"k":"p","lines":[["Apollinare (seconda metà sec. II) fu il primo vescovo di Ravenna e uno tra i primi pastori di tutta l'Italia settentrionale. Fu anche martire per la fede, come attesta uno dei suoi successori, san Pietro Crisologo (sec. V). Sulla sua tomba venne edificata la basilica di Sant'Apollinare in Classe (sec. VI)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei martiri:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"},{"m":"rubric","t":", oppure Comune dei pastori:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["20 juillet"],["Saint Apollinaire, évêque et martyr"]]},{"k":"p","lines":[["À la fin du IIe siècle, Apollinaire est ordonné évêque et envoyé à Ravenne pour y prêcher la foi. Sa prédication rencontre la contradiction des païens qui le font arrêter, torturer et exiler à plusieurs reprises. Chaque exil lui donne d'annoncer ailleurs les insondables richesses du Christ. Finalement, de retour à Ravenne, il reçoit la couronne du martyre."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun d'un Martyr:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"},{"m":"rubric","t":", ou des Pasteurs:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["20. Juli"],["Hl. Apollinaris, Bischof und Märtyrer"]]},{"k":"p","lines":[["Nach der Tradition soll der heilige Apollinaris im 2. Jh. als Bischof die Kirche von Classe in Ravenna geleitet haben. Dort verkündete er unter den Heiden die Lehre Christi und erlitt dafür das Martyrium. Er starb an einem 23. Juli."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Märtyrer:"}," ",{"m":"link","t":"1","to":"common.martyrs.6"},{"m":"link","t":"2","to":"common.martyrs.7"},{"m":"rubric","t":", oder für Bischöfe:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}]},"part":"title"},{"slot":"84","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"85","text":{"la":[{"k":"p","lines":[["Dírige fidéles tuos, Dómine, in viam salútis ætérnæ, quam beátus Apollináris epíscopus doctrína et martýrio monstrávit, et fac nos, eódem intercedénte, sic in mandátis tuis perseveráre, ut cum ipso coronári mereámur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, conduzi os vossos fiéis"],["no caminho da salvação eterna,"],["que o bispo Santo Apolinário"],["mostrou com seu ensinamento e martírio;"],["concedei-nos, por sua intercessão,"],["perseverar de tal modo em vossos mandamentos"],["que mereçamos com ele receber a coroa da glória."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Direct your faithful, Lord, in the way of eternal salvation,"],["which the Bishop Saint Apollinaris showed by his teaching and martyrdom, and grant, through his intercession,"],["that we may so persevere in keeping your commandments"],["as to merit being crowned with him."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Conduce, Señor, a tus fieles,"],["por el camino de la salvacion eterna"],["que el obispo san Apolinar enseñó"],["con su doctrina y martirio,"],["y haz que, perseverando en tus mandamientos,"],["merezcamos, por su intercesión,"],["recibir con él la corona de gloria."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Guida i tuoi fedeli, o Signore, sulla via dell'eterna salvezza che il santo vescovo Apollinare ha indicato con l'insegnamento e il martirio, e, per sua intercessione, fa' che restiamo sempre fedeli ai tuoi comandamenti, per ricevere con lui la corona della gloria. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Conduis tes fidèles, Seigneur,"],["sur la voie du salut éternel"],["que le bienheureux évêque Apollinaire a montrée"],["par son enseignement et son martyre ;"],["accorde-nous, à son intercession,"],["d'observer tes commandements avec persévérance"],["pour obtenir d'être couronnés avec lui dans le ciel."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Leite deine Gläubigen, Herr, auf den Weg des ewigen Heiles, den der heilige Bischof Apollinaris durch seine Lehre und sein Martyrium gewiesen hat. Lass uns auf seine Fürsprache so in deinen Geboten verharren, dass wir würdig werden, mit ihm die Krone des ewigen Lebens zu empfangen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"86","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.07-20","prefaces":["preface.54","preface.55","preface.56"],"commons":["common.martyrs.6","common.martyrs.7","common.pastors.3","common.pastors.4"],"title":{"la":"S. Apollinaris, episcopi et martyris","pt-BR":"Santo Apolinário, bispo e mártir","en-US":"Saint Apollinaris, bishop and martyr","es":"San Apolinar, obispo y mártir","it":"SANT'APOLLINARE, vescovo e martire","fr":"Saint Apollinaire, évêque et martyr","de":"Hl. Apollinaris, Bischof und Märtyrer"}}
+{
+ "id": "sanctorale.07-20",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 20 iulii"
+       ],
+       [
+        "S. Apollinaris, episcopi et martyris"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Investigabiles divitias Christi ínter gentes propagans, secundo sæculo exeunte, ut videtur, Ecclesiam Classensem apud Ravennam in Flaminia episcopus duxisse et inclito martyrii honore decoravisse traditur. Die vero 23 iulii ad Dominum migravit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi martyrum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", vel de Communi pastorum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 de julho"
+       ],
+       [
+        "Santo Apolinário, bispo e mártir"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apolinário, bispo da Igreja de Classe, em Ravena, Emília-Romanha, Itália, propagou entre os pagãos as inesgotáveis riquezas de Cristo. Sofreu o martírio no dia 23 de julho, por volta do final do século II."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou Comum dos Pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "July 20"
+       ],
+       [
+        "Saint Apollinaris, bishop and martyr"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Martyrs:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", or from the Common of Pastors:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 de julio"
+       ],
+       [
+        "San Apolinar, obispo y mártir"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Según la tradición parece que, a finales del siglo II, guió como obispo la Iglesia de Classe en Rávena, en la región de Flaminia, dando a conocer entre los paganos las inescrutables riquezas de Cristo, y fue honrado con el honor del eximio martirio. Marchó hacia el Señor un día 23 de julio."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", o de pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 luglio"
+       ],
+       [
+        "SANT'APOLLINARE, vescovo e martire"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apollinare (seconda metà sec. II) fu il primo vescovo di Ravenna e uno tra i primi pastori di tutta l'Italia settentrionale. Fu anche martire per la fede, come attesta uno dei suoi successori, san Pietro Crisologo (sec. V). Sulla sua tomba venne edificata la basilica di Sant'Apollinare in Classe (sec. VI)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei martiri:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", oppure Comune dei pastori:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 juillet"
+       ],
+       [
+        "Saint Apollinaire, évêque et martyr"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "À la fin du IIe siècle, Apollinaire est ordonné évêque et envoyé à Ravenne pour y prêcher la foi. Sa prédication rencontre la contradiction des païens qui le font arrêter, torturer et exiler à plusieurs reprises. Chaque exil lui donne d'annoncer ailleurs les insondables richesses du Christ. Finalement, de retour à Ravenne, il reçoit la couronne du martyre."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun d'un Martyr:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou des Pasteurs:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20. Juli"
+       ],
+       [
+        "Hl. Apollinaris, Bischof und Märtyrer"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nach der Tradition soll der heilige Apollinaris im 2. Jh. als Bischof die Kirche von Classe in Ravenna geleitet haben. Dort verkündete er unter den Heiden die Lehre Christi und erlitt dafür das Martyrium. Er starb an einem 23. Juli."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Märtyrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.martyrs.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.martyrs.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", oder für Bischöfe:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dírige fidéles tuos, Dómine, in viam salútis ætérnæ, quam beátus Apollináris epíscopus doctrína et martýrio monstrávit, et fac nos, eódem intercedénte, sic in mandátis tuis perseveráre, ut cum ipso coronári mereámur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, conduzi os vossos fiéis"
+       ],
+       [
+        "no caminho da salvação eterna,"
+       ],
+       [
+        "que o bispo Santo Apolinário"
+       ],
+       [
+        "mostrou com seu ensinamento e martírio;"
+       ],
+       [
+        "concedei-nos, por sua intercessão,"
+       ],
+       [
+        "perseverar de tal modo em vossos mandamentos"
+       ],
+       [
+        "que mereçamos com ele receber a coroa da glória."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Direct your faithful, Lord, in the way of eternal salvation,"
+       ],
+       [
+        "which the Bishop Saint Apollinaris showed by his teaching and martyrdom, and grant, through his intercession,"
+       ],
+       [
+        "that we may so persevere in keeping your commandments"
+       ],
+       [
+        "as to merit being crowned with him."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Conduce, Señor, a tus fieles,"
+       ],
+       [
+        "por el camino de la salvacion eterna"
+       ],
+       [
+        "que el obispo san Apolinar enseñó"
+       ],
+       [
+        "con su doctrina y martirio,"
+       ],
+       [
+        "y haz que, perseverando en tus mandamientos,"
+       ],
+       [
+        "merezcamos, por su intercesión,"
+       ],
+       [
+        "recibir con él la corona de gloria."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guida i tuoi fedeli, o Signore, sulla via dell'eterna salvezza che il santo vescovo Apollinare ha indicato con l'insegnamento e il martirio, e, per sua intercessione, fa' che restiamo sempre fedeli ai tuoi comandamenti, per ricevere con lui la corona della gloria. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Conduis tes fidèles, Seigneur,"
+       ],
+       [
+        "sur la voie du salut éternel"
+       ],
+       [
+        "que le bienheureux évêque Apollinaire a montrée"
+       ],
+       [
+        "par son enseignement et son martyre ;"
+       ],
+       [
+        "accorde-nous, à son intercession,"
+       ],
+       [
+        "d'observer tes commandements avec persévérance"
+       ],
+       [
+        "pour obtenir d'être couronnés avec lui dans le ciel."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leite deine Gläubigen, Herr, auf den Weg des ewigen Heiles, den der heilige Bischof Apollinaris durch seine Lehre und sein Martyrium gewiesen hat. Lass uns auf seine Fürsprache so in deinen Geboten verharren, dass wir würdig werden, mit ihm die Krone des ewigen Lebens zu empfangen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.07-20",
+ "prefaces": [
+  "preface.54",
+  "preface.55",
+  "preface.56"
+ ],
+ "commons": [
+  "common.martyrs.6",
+  "common.martyrs.7",
+  "common.pastors.3",
+  "common.pastors.4"
+ ],
+ "title": {
+  "la": "S. Apollinaris, episcopi et martyris",
+  "pt-BR": "Santo Apolinário, bispo e mártir",
+  "en-US": "Saint Apollinaris, bishop and martyr",
+  "es": "San Apolinar, obispo y mártir",
+  "it": "SANT'APOLLINARE, vescovo e martire",
+  "fr": "Saint Apollinaire, évêque et martyr",
+  "de": "Hl. Apollinaris, Bischof und Märtyrer"
+ }
+}

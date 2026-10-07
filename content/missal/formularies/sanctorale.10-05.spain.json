@@ -1,1 +1,372 @@
-{"id":"sanctorale.10-05.spain","source":"santos/santos_oct#1005","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["5 de octubre"],["Témporas de acción de gracias y de petición"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Feria mayor"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Las Témporas son días de acción de gracias y de petición que la comunidad cristiana ofrece a Dios, terminadas las vacaciones y la recolección de las cosechas, al reemprender la actividad habitual. Se celebrarán, al menos, el día 5 de octubre (o el día 6, cuando el día 5 sea domingo), y, siempre que sea posible, es aconsejable celebrarlas también otros dos días de la misma semana."}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Misa para cuando las Témporas se celebran solo el día 5 de octubre"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Cuando la celebración de las Témporas se limita a un solo día, se elegirán, de entre las diversas misas que se proponen para los tres días, aquellos formularios que abarquen los tres aspectos de esta celebración, es decir, la acción de gracias, la petición y la conversión. Para esta celebración de las Témporas en un solo día están indicados principalmente los siguientes textos:"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Ef 5, 19-20"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Cantad y tocad con toda el alma para el Señor, dad siempre gracias a Dios Padre por todo, en nombre de nuestro Señor Jesucristo."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Señor Dios, lleno de amor,"],["que diste a nuestros padres de Israel"],["una tierra buena y fértil,"],["para que en ella encontraran descanso y bienestar,"],["y con el mismo amor"],["nos das a nosotros fuerza para dominar la creación"],["y sacar de ella nuestro progreso y nuestro sustento,"],["al darte gracias por todas tus maravillas,"],["te pedimos que tu luz nos haga descubrir siempre"],["que has sido tú, y no nuestro poder,"],["quien nos ha dado fuerza"],["para crear las riquezas de la tierra."],["Por nuestro Señor Jesucristo."]]}]},"part":"collect"},{"mark":"readings"},{"text":{"*":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Te ofrecemos, Señor, este sacrificio de alabanza"],["en acción de gracias por los dones que nos has dado,"],["concédenos ofrecer, para gloria de tu nombre,"],["lo que hemos recibido sin merecerlo."],["Por Jesucristo, nuestro Señor."]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"h4","lines":[["Prefacio"]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["El más apropiado es el Prefacio común"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Sal 66, 12.6"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Coronas el año con tus bienes, Señor, y serás la esperanza del confín de la tierra."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración después de la comunión"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Señor, tú que nos has hecho participar"],["en la mesa de la unidad y del amor,"],["danos tu fuerza para que, con nuestra actividad,"],["cooperemos en la construcción de la ciudad terrena"],["y trabajemos con fe para la llegada de tu reino."],["Por Jesucristo, nuestro Señor."]]}]},"part":"postcommunion"}],"precedence":12,"lectionary":"sanctorale.10-05.spain","title":{"*":"Témporas de acción de gracias y de petición"}}
+{
+ "id": "sanctorale.10-05.spain",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "5 de octubre"
+       ],
+       [
+        "Témporas de acción de gracias y de petición"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Feria mayor"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Las Témporas son días de acción de gracias y de petición que la comunidad cristiana ofrece a Dios, terminadas las vacaciones y la recolección de las cosechas, al reemprender la actividad habitual. Se celebrarán, al menos, el día 5 de octubre (o el día 6, cuando el día 5 sea domingo), y, siempre que sea posible, es aconsejable celebrarlas también otros dos días de la misma semana."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Misa para cuando las Témporas se celebran solo el día 5 de octubre"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Cuando la celebración de las Témporas se limita a un solo día, se elegirán, de entre las diversas misas que se proponen para los tres días, aquellos formularios que abarquen los tres aspectos de esta celebración, es decir, la acción de gracias, la petición y la conversión. Para esta celebración de las Témporas en un solo día están indicados principalmente los siguientes textos:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Ef 5, 19-20"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantad y tocad con toda el alma para el Señor, dad siempre gracias a Dios Padre por todo, en nombre de nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor Dios, lleno de amor,"
+       ],
+       [
+        "que diste a nuestros padres de Israel"
+       ],
+       [
+        "una tierra buena y fértil,"
+       ],
+       [
+        "para que en ella encontraran descanso y bienestar,"
+       ],
+       [
+        "y con el mismo amor"
+       ],
+       [
+        "nos das a nosotros fuerza para dominar la creación"
+       ],
+       [
+        "y sacar de ella nuestro progreso y nuestro sustento,"
+       ],
+       [
+        "al darte gracias por todas tus maravillas,"
+       ],
+       [
+        "te pedimos que tu luz nos haga descubrir siempre"
+       ],
+       [
+        "que has sido tú, y no nuestro poder,"
+       ],
+       [
+        "quien nos ha dado fuerza"
+       ],
+       [
+        "para crear las riquezas de la tierra."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te ofrecemos, Señor, este sacrificio de alabanza"
+       ],
+       [
+        "en acción de gracias por los dones que nos has dado,"
+       ],
+       [
+        "concédenos ofrecer, para gloria de tu nombre,"
+       ],
+       [
+        "lo que hemos recibido sin merecerlo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El más apropiado es el Prefacio común"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Sal 66, 12.6"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Coronas el año con tus bienes, Señor, y serás la esperanza del confín de la tierra."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, tú que nos has hecho participar"
+       ],
+       [
+        "en la mesa de la unidad y del amor,"
+       ],
+       [
+        "danos tu fuerza para que, con nuestra actividad,"
+       ],
+       [
+        "cooperemos en la construcción de la ciudad terrena"
+       ],
+       [
+        "y trabajemos con fe para la llegada de tu reino."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.10-05.spain",
+ "title": {
+  "*": "Témporas de acción de gracias y de petición"
+ }
+}

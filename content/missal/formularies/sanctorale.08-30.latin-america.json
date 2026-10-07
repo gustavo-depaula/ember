@@ -1,1 +1,304 @@
-{"id":"sanctorale.08-30.latin-america","source":"santos/santos_arg#0830","kind":"sanctoral","items":[{"text":{"*":[{"k":"h3","lines":[["Fiesta"]]}]},"part":"title"},{"text":{"*":[{"k":"h2","lines":[["30 de agosto"],["Santa Rosa de Lima, Virgen"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de América)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h4","lines":[["Antífona de entrada"]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Alegrémonos todos en el Señor, al celebrar esta festividad en honor de santa Rosa. Los ángeles se regocijan por esta festividad y alaban al Hijo de Dios."],[{"m":"rubric","t":"O bien: "}],["Ven, esposa de Cristo, recibe la corona que el Señor te preparó desde toda la eternidad."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Dios nuestro, que encendiste en tu amor a santa Rosa y la llamaste a vivir sólo para ti en la austeridad y la penitencia, concédenos, por su intercesión, que siguiendo en la tierra el camino de la vida podamos gozar en el cielo de la abundancia de tu gracia. Por nuestro Señor Jesucristo, tu Hijo que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."]]}]},"part":"collect"},{"mark":"readings"},{"text":{"*":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["En la fiesta de santa Rosa, te ofrecemos, Señor, el sacrificio de tu Hijo único, en el cual anunciamos su muerte hasta que vuelva. Que vive y reina por los siglos de los siglos."]]}]},"part":"prayerOverOfferings"},{"slot":"9","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Eclo 39, 14"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Florezcan como el lirio, derramen el aroma y entonen un canto, bendigan al Señor por todas sus obras."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración después de la comunión"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Señor y Dios nuestro, fortalecidos con esta eucaristía te pedimos que, a ejemplo de santa Rosa, asumiendo en nuestro cuerpo los sufrimientos de Cristo, nos esforcemos por vivir unidos solamente a ti. Por Jesucristo, nuestro Señor."]]}]},"part":"postcommunion"}],"precedence":8,"lectionary":"sanctorale.08-30.latin-america","prefaces":["preface.57"],"title":{"*":"Santa Rosa de Lima, Virgen"}}
+{
+ "id": "sanctorale.08-30.latin-america",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fiesta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "30 de agosto"
+       ],
+       [
+        "Santa Rosa de Lima, Virgen"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de América)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegrémonos todos en el Señor, al celebrar esta festividad en honor de santa Rosa. Los ángeles se regocijan por esta festividad y alaban al Hijo de Dios."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ],
+       [
+        "Ven, esposa de Cristo, recibe la corona que el Señor te preparó desde toda la eternidad."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios nuestro, que encendiste en tu amor a santa Rosa y la llamaste a vivir sólo para ti en la austeridad y la penitencia, concédenos, por su intercesión, que siguiendo en la tierra el camino de la vida podamos gozar en el cielo de la abundancia de tu gracia. Por nuestro Señor Jesucristo, tu Hijo que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En la fiesta de santa Rosa, te ofrecemos, Señor, el sacrificio de tu Hijo único, en el cual anunciamos su muerte hasta que vuelva. Que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Eclo 39, 14"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Florezcan como el lirio, derramen el aroma y entonen un canto, bendigan al Señor por todas sus obras."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor y Dios nuestro, fortalecidos con esta eucaristía te pedimos que, a ejemplo de santa Rosa, asumiendo en nuestro cuerpo los sufrimientos de Cristo, nos esforcemos por vivir unidos solamente a ti. Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 8,
+ "lectionary": "sanctorale.08-30.latin-america",
+ "prefaces": [
+  "preface.57"
+ ],
+ "title": {
+  "*": "Santa Rosa de Lima, Virgen"
+ }
+}

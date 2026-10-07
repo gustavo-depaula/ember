@@ -1,1 +1,2398 @@
-{"id":"tempore.christmas.baptism-of-the-lord","source":"tiempos/tiempos_advnav#A810","kind":"tempore","items":[{"slot":"632","text":{"la":[{"k":"h2","lines":[["DOMINICA post diem 6 ianuarii occurrente"],["IN BAPTISMATE DOMINI"]]},{"k":"h3","lines":[["Festum"]]},{"k":"p","lines":[[{"m":"rubric","t":"Ubi sollemnitas Epiphaniæ ad dominicam transfertur, quæ die 7 vel 8 ianuarii occurrit, festum Baptismatis Domini celebratur feria secunda sequenti."}]]}],"pt-BR":[{"k":"h2","lines":[["Domingo depois do dia 6 de janeiro"],["BATISMO DO SENHOR"]]},{"k":"h3","lines":[["Festa"]]},{"k":"p","lines":[[{"m":"rubric","t":"Quando a Solenidade da Epifania é transferida para o domingo, dia 7 ou 8 de janeiro, a festa do Batismo do Senhor celebra-se na segunda-feira seguinte."}]]}],"en-US":[{"k":"h2","lines":[["Sunday after the Epiphany of the Lord"],["THE BAPTISM OF THE LORD"]]},{"k":"h3","lines":[["Feast"]]},{"k":"p","lines":[[{"m":"rubric","t":"Where the Solemnity of the Epiphany is transferred to Sunday, if this Sunday occurs on 7 or 8 January, the Feast of the Baptism of the Lord is celebrated on the following Monday."}]]}],"es":[{"k":"h2","lines":[["Domingo después del 6 de enero"],["EL BAUTISMO DEL SEÑOR"]]},{"k":"h3","lines":[["Fiesta"]]}],"it":[{"k":"h2","lines":[["DOMENICA dopo il 6 gennaio"],["BATTESIMO DEL SIGNORE"]]},{"k":"h3","lines":[["FESTA"]]},{"k":"p","lines":[[{"m":"rubric","t":"Quando l'Epifania si celebra la domenica 7 o 8 gennaio, la festa del Battesimo del Signore si celebra il lunedì immediatamente seguente. Non si dice il «Credo»."}]]}],"fr":[{"k":"h2","lines":[["BAPTÊME DU SEIGNEUR"]]},{"k":"h3","lines":[["Fête"]]},{"k":"p","lines":[[{"m":"rubric","t":"Dans les pays où l'Épiphanie est reportée au dimanche, si ce dimanche tombe le 7 ou le 8 janvier, la fête du Baptême du Seigneur est célébrée le lundi suivant."}]]}],"de":[{"k":"h2","lines":[["SONNTAG nach dem 6. Januar"],["TAUFE DES HERRN"]]},{"k":"h3","lines":[["Fest"]]}]},"part":"title"},{"slot":"633","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Mt 3, 16-17"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Mt 3, 16-17"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Mt 3: 16-17"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Mt 3, 16-17"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Mt 3, 16-17"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Mt 3, 16-17"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Mt 3, 16-17"}]},"part":"entranceAntiphon"},{"slot":"634","text":{"la":[{"k":"p","lines":[["Baptizáto Dómino, apérti sunt cæli, et sicut colúmba super eum Spíritus mansit, et vox Patris intónuit: Hic est Fílius meus diléctus, in quo mihi bene complácui."]]}],"pt-BR":[{"k":"p","lines":[["Batizado o Senhor, os céus se abriram"],["e, como uma pomba, o Espírito pairou sobre ele."],["Então a voz do Pai se fez ouvir:"],["Este é o meu Filho dileto,"],["nele está todo o meu amor."]]}],"en-US":[{"k":"p","lines":[["After the Lord was baptized, the heavens were opened, and the Spirit descended upon him like a dove,"],["and the voice of the Father thundered:"],["This is my beloved Son, with whom I am well pleased."]]}],"es":[{"k":"p","lines":[["Apenas se bautizó el Señor, se abrieron los cielos y el Espíritu se posó sobre él como una paloma, y se oyó la voz del Padre que decía: «Este es mi Hijo amado, en quien me complazco»."]]}],"it":[{"k":"p","lines":[["Battezzato il Signore, si aprirono i cieli e come una colomba lo Spirito discese su di lui, e la voce del Padre disse: «Questi è il mio Figlio, l'amato: in lui ho posto il mio compiacimento»."]]}],"fr":[{"k":"p","lines":[["Dès que Jésus fut baptisé, les cieux s'ouvrirent :"],["l'Esprit, comme une colombe, reposa sur lui."],["Et la voix du Père retentit :"],["« Celui-ci est mon Fils bien-aimé"],["en qui je trouve ma joie. »"]]}],"de":[{"k":"p","lines":[["Als Jesus getauft war, öffnete sich der Himmel, und er sah den Geist Gottes wie eine Taube auf sich herabkommen. Und die Stimme des Vaters aus dem Himmel sprach: Das ist mein geliebter Sohn, an dem ich Gefallen habe."]]}]},"part":"entranceAntiphon"},{"slot":"635","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}]},"part":"gloria"},{"slot":"636","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"637","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus, qui Christum, in Iordáne flúmine baptizátum, Spíritu Sancto super eum descendénte, diléctum Fílium tuum sollémniter declarásti, concéde fíliis adoptiónis tuæ, ex aqua et Spíritu Sancto renátis, ut in beneplácito tuo iúgiter persevérent. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso,"],["que, tendo sido o Cristo batizado no rio Jordão,"],["e descendo sobre ele o Espírito Santo,"],["o declarastes solenemente vosso dileto Filho,"],["concedei aos vossos filhos adotivos,"],["renascidos da água e do Espírito Santo,"],["perseverar constantemente em vosso amor."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God,"],["who, when Christ had been baptized in the River Jordan"],["and as the Holy Spirit descended upon him,"],["solemnly declared him your beloved Son,"],["grant that your children by adoption,"],["reborn of water and the Holy Spirit,"],["may always be well pleasing to you."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["que en el bautismo de Cristo, en el Jordán,"],["al enviar sobre él tu Espíritu Santo,"],["quisiste revelar solemnemente a tu Hijo amado,"],["concede a tus hijos de adopción,"],["renacidos del agua y del Espíritu Santo,"],["perseverar siempre en tu benevolencia."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, che dopo il battesimo nel fiume Giordano proclamasti il Cristo tuo amato Figlio mentre discendeva su di lui lo Spirito Santo, concedi ai tuoi figli di adozione, rinati dall'acqua e dallo Spirito, di vivere sempre nel tuo amore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["quand le Christ fut baptisé dans le Jourdain,"],["et que l'Esprit Saint descendit sur lui,"],["tu l'as manifesté solennellement comme ton Fils bien-aimé ;"],["accorde à tes enfants d'adoption,"],["qui ont reçu la nouvelle naissance de l'eau et de l'Esprit,"],["d'être toujours fidèles à ce qui te plaît."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger ewiger Gott, bei der Taufe im Jordan kam der Heilige Geist auf unseren Herrn Jesus Christus herab, und du hast ihn als deinen geliebten Sohn geoffenbart. Gib, dass auch wir, die aus dem Wasser und dem Heiligen Geist wiedergeboren sind, in deinem Wohlgefallen stehen und als deine Kinder aus der Fülle dieses Geistes leben. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"638","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder:"}]]}]},"part":"collect","role":"rubric"},{"slot":"639","text":{"la":[{"k":"p","lines":[["Deus, cuius Unigénitus in substántia nostræ carnis appáruit, præsta, quǽsumus, ut, per eum, quem símilem nobis foris agnóvimus, intus reformári mereámur. Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, cujo Filho Unigênito se manifestou"],["na realidade da nossa carne,"],["concedei-nos que,"],["reconhecendo-o exteriormente semelhante a nós,"],["sejamos interiormente renovados por ele,"],["que é Deus, e convosco vive e reina,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, whose Only Begotten Son"],["has appeared in our very flesh,"],["grant, we pray, that we may be inwardly transformed"],["through him whom we recognize as outwardly like ourselves. Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["cuyo Unigénito se manifestó en la realidad de nuestra carne,"],["haz que merezcamos ser transformados interiormente"],["por aquel que hemos conocido"],["semejante a nosotros en su humanidad."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Padre, il tuo Figlio unigenito si è manifestato nella nostra carne mortale: concedi a noi, che lo abbiamo conosciuto come vero uomo, di essere interiormente rinnovati a sua immagine. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["c'est dans la réalité de notre chair"],["que ton Fils unique est apparu ;"],["puisqu'à son aspect extérieur,"],["nous l'avons reconnu semblable à nous,"],["fais que par lui nous soyons intérieurement transformés."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, dein einziger Sohn, vor aller Zeit aus dir geboren, ist in unserem Fleisch sichtbar erschienen. Wie er uns gleichgeworden ist in der menschlichen Gestalt, so werde unser Inneres neu geschaffen nach seinem Bild. Darum bitten wir durch ihn, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"640","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur Credo."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o Creio."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Credo"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le Credo."}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Credo."}]]}]},"part":"creed"},{"slot":"641","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"642","text":{"la":[{"k":"p","lines":[["Súscipe múnera, Dómine, in dilécti Fílii tui revelatióne deláta, ut fidélium tuórum oblátio in eius sacrifícium tránseat, qui mundi vóluit peccáta miserátus ablúere. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Recebei, Senhor, as oferendas que vos apresentamos"],["no dia em que revelastes vosso Filho,"],["para que a oblação dos vossos fiéis"],["se torne o sacrifício daquele"],["que, em sua misericórdia,"],["quis lavar os pecados do mundo."],["Ele, que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Accept, O Lord, the offerings"],["we have brought to honor the revealing of your beloved Son, so that the oblation of your faithful"],["may be transformed into the sacrifice of him"],["who willed in his compassion"],["to wash away the sins of the world."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Recibe, Señor,"],["los dones en este día"],["en que manifestaste a tu Hijo predilecto,"],["y haz que esta ofrenda de tu pueblo"],["se convierta en el sacrificio de aquel"],["que quiso borrar los pecados del mundo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, o Padre, i doni che la Chiesa ti offre celebrando la manifestazione del tuo amato Figlio, e trasformali per noi nel sacrificio perfetto che ha lavato il mondo da ogni colpa. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Accueille, Seigneur, les offrandes que nous te présentons"],["en ce jour où nous est révélé ton Fils bien-aimé :"],["que les dons de tes fidèles deviennent ainsi le sacrifice"],["de celui qui, dans sa miséricorde,"],["a voulu laver le monde de ses péchés : Jésus, le Christ."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, unser Vater, wir feiern den Tag, an dem du Jesus als deinen geliebten Sohn geoffenbart hast. Nimm unsere Gaben an und mache sie zum Opfer Christi, der die Sünden der ganzen Welt abgewaschen hat. Er, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"prayerOverOfferings"},{"slot":"643","text":{"la":[{"k":"h4","lines":[["Præfatio"]]},{"k":"p","lines":[[{"m":"rubric","t":"De Baptismate Domini."}]]},{"k":"p","lines":[["Vere dignum et iustum est,"],["æquum et salutáre,"],["nos tibi semper et ubíque grátias ágere:"],["Dómine, sancte Pater,"],["omnípotens ætérne Deus:"]]},{"k":"p","lines":[["Qui miris signásti mystériis novum in Iordáne lavácrum,"],["ut, per vocem de cælo delápsam,"],["habitáre Verbum tuum inter hómines crederétur;"],["et, per Spíritum in colúmbæ spécie descendéntem,"],["Christus Servus tuus óleo perúngi"],["lætítiæ ac mitti ad evangelizándum paupéribus noscerétur."]]},{"k":"p","lines":[["Et ídeo cum cælórum virtútibus"],["in terris te iúgiter celebrámus,"],["maiestáti tuæ sine fine clamántes:"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]},{"k":"p","lines":[[{"m":"rubric","t":"O Batismo do Senhor."}]]},{"k":"p","lines":[["Na verdade, é digno e justo,"],["é nosso dever e salvação dar-vos graças,"],["sempre e em todo lugar,"],["Senhor, Pai santo,"],["Deus eterno e todo-poderoso."]]},{"k":"p","lines":[["Hoje, nas águas do rio Jordão,"],["revelais o novo Batismo"],["com sinais admiráveis:"],["pela voz descida do céu,"],["fazeis o mundo acreditar que vosso Verbo"],["habita entre os seres humanos;"],["e, pelo Espírito Santo,"],["descendo em forma de pomba,"],["fazeis saber que vosso Servo, Jesus Cristo,"],["foi ungido com o óleo da alegria"],["e enviado para evangelizar os pobres."]]},{"k":"p","lines":[["Por isso, hoje e sempre,"],["nós nos unimos aos anjos e a todos os santos do céu,"],["e proclamamos na terra a vossa glória,"],["cantando ",{"m":"rubric","t":"("},"dizendo",{"m":"rubric","t":")"}," a uma só voz:"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]},{"k":"p","lines":[[{"m":"rubric","t":"The Baptism of the Lord."}]]},{"k":"p","lines":[["It is truly right and just, our duty and our salvation,"],["always and everywhere to give you thanks,"],["Lord, holy Father, almighty and eternal God."]]},{"k":"p","lines":[["For in the waters of the Jordan"],["you revealed with signs and wonders a new Baptism,"],["so that through the voice that came down from heaven"],["we might come to believe in your Word's dwelling among us,"],["and by the Spirit's descending in the likeness of a dove"],["we might know that Christ your Servant"],["has been anointed with the oil of gladness"],["and sent to bring the good news to the poor."]]},{"k":"p","lines":[["And so, with the Powers of heaven,"],["we worship you constantly on earth,"],["and before your majesty"],["without end we acclaim:"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]},{"k":"p","lines":[[{"m":"rubric","t":"El Bautismo del Señor."}]]},{"k":"p","lines":[["En verdad es justo y necesario,"],["es nuestro deber y salvación"],["darte gracias siempre y en todo lugar,"],["Señor, Padre santo, Dios todopoderoso y eterno."]]},{"k":"p","lines":[["Porque estableciste un nuevo bautismo"],["con señales admirables en el Jordán,"],["para que, mediante la voz venida del cielo,"],["se creyera que tu Verbo habitaba entre los hombres;"],["y, por el Espíritu que descendió en forma de paloma,"],["fuese reconocido Cristo, tu Siervo,"],["ungido con óleo de alegría,"],["y enviado a evangelizar a los pobres."]]},{"k":"p","lines":[["Por eso, con las virtudes del cielo"],["te aclamamos continuamente en la tierra"],["alabando tu gloria sin cesar:"]]}],"it":[{"k":"h4","lines":[["Pefazio"]]},{"k":"p","lines":[[{"m":"rubric","t":"Il Battesimo del Signore"}]]},{"k":"p","lines":[["È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno."]]},{"k":"p","lines":[["Nel battesimo di Cristo al Giordano tu hai operato segni prodigiosi per manifestare il mistero del nuovo lavacro: dal cielo hai fatto udire la tua voce, perché il mondo credesse che il tuo Verbo abitava in mezzo a noi; con lo Spirito che si posava su di lui come colomba hai consacrato Cristo tuo Servo con olio di letizia, perché gli uomini riconoscessero in lui il Messia, inviato a portare ai poveri il lieto annuncio."]]},{"k":"p","lines":[["E noi, uniti alle potenze dei cieli, con voce incessante proclamiamo la tua lode:"]]}],"fr":[{"k":"h4","lines":[["Préface"]]},{"k":"p","lines":[[{"m":"rubric","t":"Baptême du Seigneur."}]]},{"k":"p","lines":[["Vraiment, il est juste et bon,"],["pour ta gloire et notre salut,"],["de t'offrir notre action de grâce,"],["toujours et en tout lieu,"],["Seigneur, Père très saint,"],["Dieu éternel et tout-puissant."]]},{"k":"p","lines":[["Dans les eaux du Jourdain,"],["tu as préfiguré par d'admirables mystères le baptême nouveau."],["Une voix venue du ciel"],["atteste que ton Verbe habite parmi les hommes."],["Par l'Esprit descendu sous l'aspect d'une colombe,"],["le Christ, ton Serviteur, reçoit l'onction d'allégresse :"],["il est reconnu comme le messager de la Bonne Nouvelle aux pauvres."]]},{"k":"p","lines":[["C'est pourquoi, avec les puissances des cieux,"],["nous pouvons te bénir sur la terre"],["et t'adorer sans fin en proclamant :"]]}],"de":[{"k":"h4","lines":[["Präfation"]]},{"k":"p","lines":[[{"m":"rubric","t":"Die Offenbarung des Geheimnisses Jesu am Jordan"}]]},{"k":"p","lines":[["In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und deine Größe zu preisen."],["Denn bei der Taufe im Jordan offenbarst du das Geheimnis deines Sohnes durch wunderbare Zeichen:"],["Die Stimme vom Himmel verkündet ihn als deinen geliebten Sohn, der auf Erden erschienen ist, als dein ewiges Wort, das unter uns Menschen wohnt."],["Der Geist schwebt über ihm in Gestalt einer Taube und bezeugt ihn als deinen Knecht, den du gesalbt hast, den Armen die Botschaft der Freude zu bringen."],["Darum singen wir mit den Engeln und Erzengeln, den Thronen und Mächten und mit all den Scharen des himmlischen Heeres den Hochgesang von deiner göttlichen Herrlichkeit:"]]}]},"part":"preface"},{"slot":"644","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 1, 32. 34"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Jo 1, 32. 34"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 1: 32, 34"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Io 1, 32. 34"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gv 1, 32-34"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 1, 32. 34"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 1, 30. 34"}]},"part":"communionAntiphon"},{"slot":"645","text":{"la":[{"k":"p","lines":[["Ecce de quo dicébat Ioánnes: Ego vidi et testimónium perhíbui, quia hic est Fílius Dei."]]}],"pt-BR":[{"k":"p","lines":[["Eis aquele de quem João dizia:"],["Eu vi, e dou testemunho:"],["este é o Filho de Deus!"]]}],"en-US":[{"k":"p","lines":[["Behold the One of whom John said:"],["I have seen and testified that this is the Son of God."]]}],"es":[{"k":"p","lines":[["Este es de quien decía Juan: «Yo lo he visto y he dado testimonio de que este es el Hijo de Dios»."]]}],"it":[{"k":"p","lines":[["Questa è la testimonianza di Giovanni: «Ho contemplato lo Spirito discendere e rimanere su di lui: egli è il Figlio di Dio»."],[{"m":"rubric","t":"★ A "}],["Giovanni disse: «Sono io che ho bisogno di essere battezzato da te, e tu vieni da me?». «Lascia fare per ora – rispose Gesù – perché conviene che adempiamo ogni giustizia»."],[{"m":"rubric","t":"★ B "}],["Io vi ho battezzato con acqua, ma egli vi battezzerà in Spirito Santo."],[{"m":"rubric","t":"★ C "}],["Giovanni disse: «Io vi battezzo con acqua; ma viene colui che è più forte di me. Egli vi battezzerà in Spirito Santo e fuoco»."]],"cite":"Lc 3, 16"}],"fr":[{"k":"p","lines":[["Voici celui dont Jean Baptiste disait :"],["« Moi, j'ai vu et je rends témoignage :"],["c'est lui le Fils de Dieu. »"]]}],"de":[{"k":"p","lines":[["Dieser ist es, über den Johannes gesagt hat: Ich habe es gesehen und lege Zeugnis ab: Dieser ist der Sohn Gottes."]]}]},"part":"communionAntiphon"},{"slot":"646","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"647","text":{"la":[{"k":"p","lines":[["Sacro múnere satiáti, cleméntiam tuam, Dómine, supplíciter exorámus, ut, Unigénitum tuum fidéliter audiéntes, fílii tui vere nominémur et simus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Nutridos pelo vosso sacramento,"],["suplicamos humildemente, Senhor, a vossa clemência,"],["para que, ouvindo fielmente o vosso Filho Unigênito,"],["sejamos chamados filhos de Deus,"],["e o sejamos de fato."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Nourished with these sacred gifts,"],["we humbly entreat your mercy, O Lord,"],["that, faithfully listening to your Only Begotten Son, we may be your children in name and in truth."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor,"],["alimentados con estos dones sagrados,"],["imploramos de tu bondad,"],["que, escuchando fielmente a tu Unigénito,"],["de verdad nos llamemos y seamos hijos tuyos."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Padre misericordioso, che ci hai saziati con il tuo dono, concedi a noi di ascoltare fedelmente il tuo Figlio unigenito, per chiamarci ed essere realmente tuoi figli. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Rassasiés par ce don sacré,"],["nous implorons ta bonté, Seigneur :"],["accorde-nous d'écouter fidèlement ton Fils unique,"],["afin de pouvoir être appelés tes fils,"],["et de l'être vraiment."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, du hast uns mit deinem Wort und dem Brot des Lebens genährt. Gib, dass wir gläubig auf deinen Sohn hören, damit wir deine Kinder heißen und es in Wahrheit sind. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"648","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"A feria II post hanc dominicam usque ad feriam III ante Quadragesimam decurrit tempus «per annum». In Missis tum de dominica tum de feria adhibentur textus infra propositi."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Da segunda-feira após este domingo até a terça-feira antes da Quaresma, transcorre o Tempo Comum. Para as Missas de domingo e dos dias de semana, usam-se os textos indicados."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Ordinary Time lasts from the Monday after this Sunday to the Tuesday before Lent. For Masses both on Sundays and on weekdays, the texts given below are used."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Los días que van desde el lunes de este domingo hasta el martes antes de comenzar la Cuaresma forman parte del tiempo ordinario. En estos días, tanto en las misas de domingo como en las de feria, se utilizan los textos que se proponen más adelante."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Dal lunedì dopo questa domenica fino al martedì prima dell'inizio della Quaresima decorre il Tempo Ordinario. Nelle Messe sia della domenica sia della feria si usano i testi alle"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Le lendemain de la fête du Baptême du Seigneur, commence le temps ordinaire, qui court jusqu'au mercredi des Cendres. Pour les messes, tant des dimanches que de la férie, on prend les textes propres."}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Vom darauffolgenden Montag bis zum Dienstag vor Aschermittwoch werden die Sonntags- und Wochentagsmessen von der Zeit im Jahreskreis genommen; siehe die Texte im betreffenden Abschnitt."}]]}]},"role":"rubric"}],"precedence":5,"title":{"la":"DOMINICA post diem 6 ianuarii occurrente — IN BAPTISMATE DOMINI","pt-BR":"Domingo depois do dia 6 de janeiro — BATISMO DO SENHOR","en-US":"Sunday after the Epiphany of the Lord — THE BAPTISM OF THE LORD","es":"Domingo después del 6 de enero — EL BAUTISMO DEL SEÑOR","it":"DOMENICA dopo il 6 gennaio — BATTESIMO DEL SIGNORE","fr":"BAPTÊME DU SEIGNEUR","de":"SONNTAG nach dem 6. Januar — TAUFE DES HERRN"},"subtitle":{"la":"Festum","pt-BR":"Festa","en-US":"Feast","es":"Fiesta","it":"FESTA","fr":"Fête","de":"Fest"}}
+{
+ "id": "tempore.christmas.baptism-of-the-lord",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMINICA post diem 6 ianuarii occurrente"
+       ],
+       [
+        "IN BAPTISMATE DOMINI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Festum"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ubi sollemnitas Epiphaniæ ad dominicam transfertur, quæ die 7 vel 8 ianuarii occurrit, festum Baptismatis Domini celebratur feria secunda sequenti."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Domingo depois do dia 6 de janeiro"
+       ],
+       [
+        "BATISMO DO SENHOR"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Festa"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando a Solenidade da Epifania é transferida para o domingo, dia 7 ou 8 de janeiro, a festa do Batismo do Senhor celebra-se na segunda-feira seguinte."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Sunday after the Epiphany of the Lord"
+       ],
+       [
+        "THE BAPTISM OF THE LORD"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Feast"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Where the Solemnity of the Epiphany is transferred to Sunday, if this Sunday occurs on 7 or 8 January, the Feast of the Baptism of the Lord is celebrated on the following Monday."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Domingo después del 6 de enero"
+       ],
+       [
+        "EL BAUTISMO DEL SEÑOR"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fiesta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMENICA dopo il 6 gennaio"
+       ],
+       [
+        "BATTESIMO DEL SIGNORE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "FESTA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando l'Epifania si celebra la domenica 7 o 8 gennaio, la festa del Battesimo del Signore si celebra il lunedì immediatamente seguente. Non si dice il «Credo»."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "BAPTÊME DU SEIGNEUR"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fête"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dans les pays où l'Épiphanie est reportée au dimanche, si ce dimanche tombe le 7 ou le 8 janvier, la fête du Baptême du Seigneur est célébrée le lundi suivant."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SONNTAG nach dem 6. Januar"
+       ],
+       [
+        "TAUFE DES HERRN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fest"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Mt 3, 16-17"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Mt 3, 16-17"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Mt 3: 16-17"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Mt 3, 16-17"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Mt 3, 16-17"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Mt 3, 16-17"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Mt 3, 16-17"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Baptizáto Dómino, apérti sunt cæli, et sicut colúmba super eum Spíritus mansit, et vox Patris intónuit: Hic est Fílius meus diléctus, in quo mihi bene complácui."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Batizado o Senhor, os céus se abriram"
+       ],
+       [
+        "e, como uma pomba, o Espírito pairou sobre ele."
+       ],
+       [
+        "Então a voz do Pai se fez ouvir:"
+       ],
+       [
+        "Este é o meu Filho dileto,"
+       ],
+       [
+        "nele está todo o meu amor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "After the Lord was baptized, the heavens were opened, and the Spirit descended upon him like a dove,"
+       ],
+       [
+        "and the voice of the Father thundered:"
+       ],
+       [
+        "This is my beloved Son, with whom I am well pleased."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apenas se bautizó el Señor, se abrieron los cielos y el Espíritu se posó sobre él como una paloma, y se oyó la voz del Padre que decía: «Este es mi Hijo amado, en quien me complazco»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Battezzato il Signore, si aprirono i cieli e come una colomba lo Spirito discese su di lui, e la voce del Padre disse: «Questi è il mio Figlio, l'amato: in lui ho posto il mio compiacimento»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dès que Jésus fut baptisé, les cieux s'ouvrirent :"
+       ],
+       [
+        "l'Esprit, comme une colombe, reposa sur lui."
+       ],
+       [
+        "Et la voix du Père retentit :"
+       ],
+       [
+        "« Celui-ci est mon Fils bien-aimé"
+       ],
+       [
+        "en qui je trouve ma joie. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Als Jesus getauft war, öffnete sich der Himmel, und er sah den Geist Gottes wie eine Taube auf sich herabkommen. Und die Stimme des Vaters aus dem Himmel sprach: Das ist mein geliebter Sohn, an dem ich Gefallen habe."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus, qui Christum, in Iordáne flúmine baptizátum, Spíritu Sancto super eum descendénte, diléctum Fílium tuum sollémniter declarásti, concéde fíliis adoptiónis tuæ, ex aqua et Spíritu Sancto renátis, ut in beneplácito tuo iúgiter persevérent. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "que, tendo sido o Cristo batizado no rio Jordão,"
+       ],
+       [
+        "e descendo sobre ele o Espírito Santo,"
+       ],
+       [
+        "o declarastes solenemente vosso dileto Filho,"
+       ],
+       [
+        "concedei aos vossos filhos adotivos,"
+       ],
+       [
+        "renascidos da água e do Espírito Santo,"
+       ],
+       [
+        "perseverar constantemente em vosso amor."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "who, when Christ had been baptized in the River Jordan"
+       ],
+       [
+        "and as the Holy Spirit descended upon him,"
+       ],
+       [
+        "solemnly declared him your beloved Son,"
+       ],
+       [
+        "grant that your children by adoption,"
+       ],
+       [
+        "reborn of water and the Holy Spirit,"
+       ],
+       [
+        "may always be well pleasing to you."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "que en el bautismo de Cristo, en el Jordán,"
+       ],
+       [
+        "al enviar sobre él tu Espíritu Santo,"
+       ],
+       [
+        "quisiste revelar solemnemente a tu Hijo amado,"
+       ],
+       [
+        "concede a tus hijos de adopción,"
+       ],
+       [
+        "renacidos del agua y del Espíritu Santo,"
+       ],
+       [
+        "perseverar siempre en tu benevolencia."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, che dopo il battesimo nel fiume Giordano proclamasti il Cristo tuo amato Figlio mentre discendeva su di lui lo Spirito Santo, concedi ai tuoi figli di adozione, rinati dall'acqua e dallo Spirito, di vivere sempre nel tuo amore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "quand le Christ fut baptisé dans le Jourdain,"
+       ],
+       [
+        "et que l'Esprit Saint descendit sur lui,"
+       ],
+       [
+        "tu l'as manifesté solennellement comme ton Fils bien-aimé ;"
+       ],
+       [
+        "accorde à tes enfants d'adoption,"
+       ],
+       [
+        "qui ont reçu la nouvelle naissance de l'eau et de l'Esprit,"
+       ],
+       [
+        "d'être toujours fidèles à ce qui te plaît."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger ewiger Gott, bei der Taufe im Jordan kam der Heilige Geist auf unseren Herrn Jesus Christus herab, und du hast ihn als deinen geliebten Sohn geoffenbart. Gib, dass auch wir, die aus dem Wasser und dem Heiligen Geist wiedergeboren sind, in deinem Wohlgefallen stehen und als deine Kinder aus der Fülle dieses Geistes leben. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, cuius Unigénitus in substántia nostræ carnis appáruit, præsta, quǽsumus, ut, per eum, quem símilem nobis foris agnóvimus, intus reformári mereámur. Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, cujo Filho Unigênito se manifestou"
+       ],
+       [
+        "na realidade da nossa carne,"
+       ],
+       [
+        "concedei-nos que,"
+       ],
+       [
+        "reconhecendo-o exteriormente semelhante a nós,"
+       ],
+       [
+        "sejamos interiormente renovados por ele,"
+       ],
+       [
+        "que é Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, whose Only Begotten Son"
+       ],
+       [
+        "has appeared in our very flesh,"
+       ],
+       [
+        "grant, we pray, that we may be inwardly transformed"
+       ],
+       [
+        "through him whom we recognize as outwardly like ourselves. Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "cuyo Unigénito se manifestó en la realidad de nuestra carne,"
+       ],
+       [
+        "haz que merezcamos ser transformados interiormente"
+       ],
+       [
+        "por aquel que hemos conocido"
+       ],
+       [
+        "semejante a nosotros en su humanidad."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, il tuo Figlio unigenito si è manifestato nella nostra carne mortale: concedi a noi, che lo abbiamo conosciuto come vero uomo, di essere interiormente rinnovati a sua immagine. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "c'est dans la réalité de notre chair"
+       ],
+       [
+        "que ton Fils unique est apparu ;"
+       ],
+       [
+        "puisqu'à son aspect extérieur,"
+       ],
+       [
+        "nous l'avons reconnu semblable à nous,"
+       ],
+       [
+        "fais que par lui nous soyons intérieurement transformés."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, dein einziger Sohn, vor aller Zeit aus dir geboren, ist in unserem Fleisch sichtbar erschienen. Wie er uns gleichgeworden ist in der menschlichen Gestalt, so werde unser Inneres neu geschaffen nach seinem Bild. Darum bitten wir durch ihn, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o Creio."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Credo"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Credo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súscipe múnera, Dómine, in dilécti Fílii tui revelatióne deláta, ut fidélium tuórum oblátio in eius sacrifícium tránseat, qui mundi vóluit peccáta miserátus ablúere. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recebei, Senhor, as oferendas que vos apresentamos"
+       ],
+       [
+        "no dia em que revelastes vosso Filho,"
+       ],
+       [
+        "para que a oblação dos vossos fiéis"
+       ],
+       [
+        "se torne o sacrifício daquele"
+       ],
+       [
+        "que, em sua misericórdia,"
+       ],
+       [
+        "quis lavar os pecados do mundo."
+       ],
+       [
+        "Ele, que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accept, O Lord, the offerings"
+       ],
+       [
+        "we have brought to honor the revealing of your beloved Son, so that the oblation of your faithful"
+       ],
+       [
+        "may be transformed into the sacrifice of him"
+       ],
+       [
+        "who willed in his compassion"
+       ],
+       [
+        "to wash away the sins of the world."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recibe, Señor,"
+       ],
+       [
+        "los dones en este día"
+       ],
+       [
+        "en que manifestaste a tu Hijo predilecto,"
+       ],
+       [
+        "y haz que esta ofrenda de tu pueblo"
+       ],
+       [
+        "se convierta en el sacrificio de aquel"
+       ],
+       [
+        "que quiso borrar los pecados del mundo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, o Padre, i doni che la Chiesa ti offre celebrando la manifestazione del tuo amato Figlio, e trasformali per noi nel sacrificio perfetto che ha lavato il mondo da ogni colpa. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accueille, Seigneur, les offrandes que nous te présentons"
+       ],
+       [
+        "en ce jour où nous est révélé ton Fils bien-aimé :"
+       ],
+       [
+        "que les dons de tes fidèles deviennent ainsi le sacrifice"
+       ],
+       [
+        "de celui qui, dans sa miséricorde,"
+       ],
+       [
+        "a voulu laver le monde de ses péchés : Jésus, le Christ."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Vater, wir feiern den Tag, an dem du Jesus als deinen geliebten Sohn geoffenbart hast. Nimm unsere Gaben an und mache sie zum Opfer Christi, der die Sünden der ganzen Welt abgewaschen hat. Er, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Baptismate Domini."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vere dignum et iustum est,"
+       ],
+       [
+        "æquum et salutáre,"
+       ],
+       [
+        "nos tibi semper et ubíque grátias ágere:"
+       ],
+       [
+        "Dómine, sancte Pater,"
+       ],
+       [
+        "omnípotens ætérne Deus:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui miris signásti mystériis novum in Iordáne lavácrum,"
+       ],
+       [
+        "ut, per vocem de cælo delápsam,"
+       ],
+       [
+        "habitáre Verbum tuum inter hómines crederétur;"
+       ],
+       [
+        "et, per Spíritum in colúmbæ spécie descendéntem,"
+       ],
+       [
+        "Christus Servus tuus óleo perúngi"
+       ],
+       [
+        "lætítiæ ac mitti ad evangelizándum paupéribus noscerétur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ídeo cum cælórum virtútibus"
+       ],
+       [
+        "in terris te iúgiter celebrámus,"
+       ],
+       [
+        "maiestáti tuæ sine fine clamántes:"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O Batismo do Senhor."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Na verdade, é digno e justo,"
+       ],
+       [
+        "é nosso dever e salvação dar-vos graças,"
+       ],
+       [
+        "sempre e em todo lugar,"
+       ],
+       [
+        "Senhor, Pai santo,"
+       ],
+       [
+        "Deus eterno e todo-poderoso."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hoje, nas águas do rio Jordão,"
+       ],
+       [
+        "revelais o novo Batismo"
+       ],
+       [
+        "com sinais admiráveis:"
+       ],
+       [
+        "pela voz descida do céu,"
+       ],
+       [
+        "fazeis o mundo acreditar que vosso Verbo"
+       ],
+       [
+        "habita entre os seres humanos;"
+       ],
+       [
+        "e, pelo Espírito Santo,"
+       ],
+       [
+        "descendo em forma de pomba,"
+       ],
+       [
+        "fazeis saber que vosso Servo, Jesus Cristo,"
+       ],
+       [
+        "foi ungido com o óleo da alegria"
+       ],
+       [
+        "e enviado para evangelizar os pobres."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por isso, hoje e sempre,"
+       ],
+       [
+        "nós nos unimos aos anjos e a todos os santos do céu,"
+       ],
+       [
+        "e proclamamos na terra a vossa glória,"
+       ],
+       [
+        "cantando ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "dizendo",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " a uma só voz:"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Baptism of the Lord."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is truly right and just, our duty and our salvation,"
+       ],
+       [
+        "always and everywhere to give you thanks,"
+       ],
+       [
+        "Lord, holy Father, almighty and eternal God."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For in the waters of the Jordan"
+       ],
+       [
+        "you revealed with signs and wonders a new Baptism,"
+       ],
+       [
+        "so that through the voice that came down from heaven"
+       ],
+       [
+        "we might come to believe in your Word's dwelling among us,"
+       ],
+       [
+        "and by the Spirit's descending in the likeness of a dove"
+       ],
+       [
+        "we might know that Christ your Servant"
+       ],
+       [
+        "has been anointed with the oil of gladness"
+       ],
+       [
+        "and sent to bring the good news to the poor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And so, with the Powers of heaven,"
+       ],
+       [
+        "we worship you constantly on earth,"
+       ],
+       [
+        "and before your majesty"
+       ],
+       [
+        "without end we acclaim:"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "El Bautismo del Señor."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En verdad es justo y necesario,"
+       ],
+       [
+        "es nuestro deber y salvación"
+       ],
+       [
+        "darte gracias siempre y en todo lugar,"
+       ],
+       [
+        "Señor, Padre santo, Dios todopoderoso y eterno."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Porque estableciste un nuevo bautismo"
+       ],
+       [
+        "con señales admirables en el Jordán,"
+       ],
+       [
+        "para que, mediante la voz venida del cielo,"
+       ],
+       [
+        "se creyera que tu Verbo habitaba entre los hombres;"
+       ],
+       [
+        "y, por el Espíritu que descendió en forma de paloma,"
+       ],
+       [
+        "fuese reconocido Cristo, tu Siervo,"
+       ],
+       [
+        "ungido con óleo de alegría,"
+       ],
+       [
+        "y enviado a evangelizar a los pobres."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por eso, con las virtudes del cielo"
+       ],
+       [
+        "te aclamamos continuamente en la tierra"
+       ],
+       [
+        "alabando tu gloria sin cesar:"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Pefazio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il Battesimo del Signore"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nel battesimo di Cristo al Giordano tu hai operato segni prodigiosi per manifestare il mistero del nuovo lavacro: dal cielo hai fatto udire la tua voce, perché il mondo credesse che il tuo Verbo abitava in mezzo a noi; con lo Spirito che si posava su di lui come colomba hai consacrato Cristo tuo Servo con olio di letizia, perché gli uomini riconoscessero in lui il Messia, inviato a portare ai poveri il lieto annuncio."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E noi, uniti alle potenze dei cieli, con voce incessante proclamiamo la tua lode:"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Baptême du Seigneur."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vraiment, il est juste et bon,"
+       ],
+       [
+        "pour ta gloire et notre salut,"
+       ],
+       [
+        "de t'offrir notre action de grâce,"
+       ],
+       [
+        "toujours et en tout lieu,"
+       ],
+       [
+        "Seigneur, Père très saint,"
+       ],
+       [
+        "Dieu éternel et tout-puissant."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans les eaux du Jourdain,"
+       ],
+       [
+        "tu as préfiguré par d'admirables mystères le baptême nouveau."
+       ],
+       [
+        "Une voix venue du ciel"
+       ],
+       [
+        "atteste que ton Verbe habite parmi les hommes."
+       ],
+       [
+        "Par l'Esprit descendu sous l'aspect d'une colombe,"
+       ],
+       [
+        "le Christ, ton Serviteur, reçoit l'onction d'allégresse :"
+       ],
+       [
+        "il est reconnu comme le messager de la Bonne Nouvelle aux pauvres."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est pourquoi, avec les puissances des cieux,"
+       ],
+       [
+        "nous pouvons te bénir sur la terre"
+       ],
+       [
+        "et t'adorer sans fin en proclamant :"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Die Offenbarung des Geheimnisses Jesu am Jordan"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und deine Größe zu preisen."
+       ],
+       [
+        "Denn bei der Taufe im Jordan offenbarst du das Geheimnis deines Sohnes durch wunderbare Zeichen:"
+       ],
+       [
+        "Die Stimme vom Himmel verkündet ihn als deinen geliebten Sohn, der auf Erden erschienen ist, als dein ewiges Wort, das unter uns Menschen wohnt."
+       ],
+       [
+        "Der Geist schwebt über ihm in Gestalt einer Taube und bezeugt ihn als deinen Knecht, den du gesalbt hast, den Armen die Botschaft der Freude zu bringen."
+       ],
+       [
+        "Darum singen wir mit den Engeln und Erzengeln, den Thronen und Mächten und mit all den Scharen des himmlischen Heeres den Hochgesang von deiner göttlichen Herrlichkeit:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 1, 32. 34"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Jo 1, 32. 34"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 1: 32, 34"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Io 1, 32. 34"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gv 1, 32-34"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 1, 32. 34"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 1, 30. 34"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce de quo dicébat Ioánnes: Ego vidi et testimónium perhíbui, quia hic est Fílius Dei."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eis aquele de quem João dizia:"
+       ],
+       [
+        "Eu vi, e dou testemunho:"
+       ],
+       [
+        "este é o Filho de Deus!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Behold the One of whom John said:"
+       ],
+       [
+        "I have seen and testified that this is the Son of God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Este es de quien decía Juan: «Yo lo he visto y he dado testimonio de que este es el Hijo de Dios»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questa è la testimonianza di Giovanni: «Ho contemplato lo Spirito discendere e rimanere su di lui: egli è il Figlio di Dio»."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ A "
+        }
+       ],
+       [
+        "Giovanni disse: «Sono io che ho bisogno di essere battezzato da te, e tu vieni da me?». «Lascia fare per ora – rispose Gesù – perché conviene che adempiamo ogni giustizia»."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B "
+        }
+       ],
+       [
+        "Io vi ho battezzato con acqua, ma egli vi battezzerà in Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C "
+        }
+       ],
+       [
+        "Giovanni disse: «Io vi battezzo con acqua; ma viene colui che è più forte di me. Egli vi battezzerà in Spirito Santo e fuoco»."
+       ]
+      ],
+      "cite": "Lc 3, 16"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici celui dont Jean Baptiste disait :"
+       ],
+       [
+        "« Moi, j'ai vu et je rends témoignage :"
+       ],
+       [
+        "c'est lui le Fils de Dieu. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieser ist es, über den Johannes gesagt hat: Ich habe es gesehen und lege Zeugnis ab: Dieser ist der Sohn Gottes."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacro múnere satiáti, cleméntiam tuam, Dómine, supplíciter exorámus, ut, Unigénitum tuum fidéliter audiéntes, fílii tui vere nominémur et simus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nutridos pelo vosso sacramento,"
+       ],
+       [
+        "suplicamos humildemente, Senhor, a vossa clemência,"
+       ],
+       [
+        "para que, ouvindo fielmente o vosso Filho Unigênito,"
+       ],
+       [
+        "sejamos chamados filhos de Deus,"
+       ],
+       [
+        "e o sejamos de fato."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nourished with these sacred gifts,"
+       ],
+       [
+        "we humbly entreat your mercy, O Lord,"
+       ],
+       [
+        "that, faithfully listening to your Only Begotten Son, we may be your children in name and in truth."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor,"
+       ],
+       [
+        "alimentados con estos dones sagrados,"
+       ],
+       [
+        "imploramos de tu bondad,"
+       ],
+       [
+        "que, escuchando fielmente a tu Unigénito,"
+       ],
+       [
+        "de verdad nos llamemos y seamos hijos tuyos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre misericordioso, che ci hai saziati con il tuo dono, concedi a noi di ascoltare fedelmente il tuo Figlio unigenito, per chiamarci ed essere realmente tuoi figli. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rassasiés par ce don sacré,"
+       ],
+       [
+        "nous implorons ta bonté, Seigneur :"
+       ],
+       [
+        "accorde-nous d'écouter fidèlement ton Fils unique,"
+       ],
+       [
+        "afin de pouvoir être appelés tes fils,"
+       ],
+       [
+        "et de l'être vraiment."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, du hast uns mit deinem Wort und dem Brot des Lebens genährt. Gib, dass wir gläubig auf deinen Sohn hören, damit wir deine Kinder heißen und es in Wahrheit sind. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A feria II post hanc dominicam usque ad feriam III ante Quadragesimam decurrit tempus «per annum». In Missis tum de dominica tum de feria adhibentur textus infra propositi."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Da segunda-feira após este domingo até a terça-feira antes da Quaresma, transcorre o Tempo Comum. Para as Missas de domingo e dos dias de semana, usam-se os textos indicados."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ordinary Time lasts from the Monday after this Sunday to the Tuesday before Lent. For Masses both on Sundays and on weekdays, the texts given below are used."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Los días que van desde el lunes de este domingo hasta el martes antes de comenzar la Cuaresma forman parte del tiempo ordinario. En estos días, tanto en las misas de domingo como en las de feria, se utilizan los textos que se proponen más adelante."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dal lunedì dopo questa domenica fino al martedì prima dell'inizio della Quaresima decorre il Tempo Ordinario. Nelle Messe sia della domenica sia della feria si usano i testi alle"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le lendemain de la fête du Baptême du Seigneur, commence le temps ordinaire, qui court jusqu'au mercredi des Cendres. Pour les messes, tant des dimanches que de la férie, on prend les textes propres."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vom darauffolgenden Montag bis zum Dienstag vor Aschermittwoch werden die Sonntags- und Wochentagsmessen von der Zeit im Jahreskreis genommen; siehe die Texte im betreffenden Abschnitt."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  }
+ ],
+ "precedence": 5,
+ "title": {
+  "la": "DOMINICA post diem 6 ianuarii occurrente — IN BAPTISMATE DOMINI",
+  "pt-BR": "Domingo depois do dia 6 de janeiro — BATISMO DO SENHOR",
+  "en-US": "Sunday after the Epiphany of the Lord — THE BAPTISM OF THE LORD",
+  "es": "Domingo después del 6 de enero — EL BAUTISMO DEL SEÑOR",
+  "it": "DOMENICA dopo il 6 gennaio — BATTESIMO DEL SIGNORE",
+  "fr": "BAPTÊME DU SEIGNEUR",
+  "de": "SONNTAG nach dem 6. Januar — TAUFE DES HERRN"
+ },
+ "subtitle": {
+  "la": "Festum",
+  "pt-BR": "Festa",
+  "en-US": "Feast",
+  "es": "Fiesta",
+  "it": "FESTA",
+  "fr": "Fête",
+  "de": "Fest"
+ }
+}

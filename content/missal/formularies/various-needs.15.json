@@ -1,1 +1,1135 @@
-{"id":"various-needs.15","source":"comunes_votivas/diversas#div015","kind":"various-needs","items":[{"slot":"177","text":{"la":[{"k":"h2","lines":[["I. PRO SANCTA ECCLESIA"]]},{"k":"h3","lines":[["9. PRO VOCATIONIBUS AD SACROS ORDINES"]]}],"pt-BR":[{"k":"h2","lines":[["I. PELA SANTA IGREJA"]]},{"k":"h3","lines":[["9. PELAS VOCAÇÕES ÀS SAGRADAS ORDENS"]]}],"en-US":[{"k":"h2","lines":[["I. FOR HOLY CHURCH"]]},{"k":"h3","lines":[["9. FOR VOCATIONS TO HOLY ORDERS"]]}],"es":[{"k":"h2","lines":[["I. POR LA SANTA IGLESIA"]]},{"k":"h3","lines":[["9. POR LAS VOCACIONES A LAS SAGRADAS ÓRDENES"]]}],"it":[{"k":"h2","lines":[["I. PER LA SANTA CHIESA"]]},{"k":"h3","lines":[["9. PER LE VOCAZIONI AGLI ORDINI SACRI"]]}],"fr":[{"k":"h2","lines":[["I. POUR LA SAINTE ÉGLISE"]]},{"k":"h3","lines":[["9. POUR LES VOCATIONS AUX ORDRES SACRÉS"]]}],"de":[{"k":"h2","lines":[["I. FÜR DIE HEILIGE KIRCHE"]]},{"k":"h3","lines":[["9. UM PRIESTERBERUFE"]]}]},"part":"title"},{"slot":"178","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Mt 9, 38"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Mt 9, 38"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Mt 9: 38"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Mt 9, 38"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Mt 9, 38"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Mt 9, 38"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Mt 9, 38"}]},"part":"entranceAntiphon"},{"slot":"179","text":{"la":[{"k":"p","lines":[["Rogáte Dóminum messis, ut mittat operários in messem suam, dicit Iesus discípulis suis."]]}],"pt-BR":[{"k":"p","lines":[["Pedi, pois, ao dono da messe"],["que envie trabalhadores para a sua colheita."]]}],"en-US":[{"k":"p","lines":[["Ask the Lord of the harvest"],["to send out laborers for his harvest, says Jesus to his disciples."]]}],"es":[{"k":"p","lines":[["Rogad al Señor de la mies que mande trabajadores a su mies, dijo Jesús a sus discípulos."]]}],"it":[{"k":"p","lines":[["«Pregate il Signore della messe, perché mandi operai nella sua messe», dice Gesù."]]}],"fr":[{"k":"p","lines":[["Jésus dit à ses disciples :"],["« Priez le maître de la moisson"],["d'envoyer des ouvriers pour sa moisson. »"]]}],"de":[{"k":"p","lines":[["Jesus sagte zu seinen Jüngern: Bittet den Herrn der Ernte, dass er Arbeiter in seine Ernte sende."]]}]},"part":"entranceAntiphon"},{"slot":"180","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"181","text":{"la":[{"k":"p","lines":[["Deus, qui pastóres pópulo tuo providére voluísti, effúnde in Ecclésia tua spíritum pietátis et fortitúdinis, qui dignos altáribus tuis éxcitet minístros, et Evangélii tui strénuos ac mites assertóres effíciat. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, quisestes prover de pastores o vosso povo;"],["infundi na Igreja o espírito de piedade e fortaleza,"],["que suscite dignos ministros do vosso altar"],["e pregadores do Evangelho corajosos e mansos."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who willed to provide shepherds for your people, pour out in your Church a spirit of piety and fortitude,"],["to raise up worthy ministers for your altars"],["and make them ardent yet gentle heralds of your Gospel. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever"]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que quisiste dar pastores a tu pueblo,"],["derrama sobre tu Iglesia el espíritu de piedad y fortaleza,"],["que suscite dignos ministros de tu altar"],["y los haga testigos valientes y humildes de tu Evangelio."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che sempre provvedi pastori per il tuo popolo, effondi sulla tua Chiesa lo Spirito di pietà e di fortezza perché susciti degni ministri dell'altare e li renda annunciatori forti e miti del tuo Vangelo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as voulu procurer à ton peuple des pasteurs ;"],["répands dans ton Église un esprit de piété et de force"],["qui suscite des ministres dignes de servir à ton autel"],["et en fasse pour ton Évangile"],["des prédicateurs infatigables et remplis de douceur."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du sorgst für dein Volk durch die Hirten, die du ihm gibst. Erwecke in der Kirche den Geist des Glaubens und der Bereitschaft und berufe auch in unseren Tagen Menschen, die dem Altar dienen und die Frohe Botschaft mit Festigkeit und Güte verkünden. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"182","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"183","text":{"la":[{"k":"p","lines":[["Plebis tuæ, quǽsumus, Dómine, preces et múnera benígnus inténde, ut dispensatóres mysteriórum tuórum multiplicéntur, et in amóre tuo iúgiter persevérent. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, acolhei benigno"],["as orações e as oferendas do vosso povo,"],["para que se multipliquem os dispensadores dos vossos mistérios"],["e perseverem sempre no vosso amor."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look kindly, we pray, O Lord,"],["on the prayers and offerings of your people,"],["that the stewards of your mysteries may grow in number and persevere always in your love."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Acepta, Señor, las oraciones y ofrendas de tu pueblo"],["y haz que los dispensadores de tus misterios"],["sean cada vez más numerosos"],["y perseveren siempre en tu amor."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guarda con bontà, o Signore, le preghiere e le offerte del tuo popolo: moltiplica i dispensatori dei tuoi misteri e rendili perseveranti nel tuo amore. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous te le demandons, Seigneur :"],["sois attentif aux prières et aux offrandes de ton peuple,"],["rends plus nombreux les intendants de tes mystères,"],["et fais qu'ils persévèrent fidèlement dans ton amour."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, nimm die Gebete und Gaben deines Volkes an. Mehre die Zahl deiner Diener, denen die Ausspendung der heiligen Geheimnisse anvertraut ist, und erhalte sie in der Liebe und Treue zu dir. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"184","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"1 Io 3, 16"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"1 Jo 3, 16"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"1 Jn 3: 16"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"1 Jn 3, 16"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"1 Gv 3, 16"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"1 Io 3, 16"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"1 Joh 3, 16"}]},"part":"communionAntiphon"},{"slot":"185","text":{"la":[{"k":"p","lines":[["In hoc cognóvimus caritátem Dei: quóniam ille ánimam suam pro nobis pósuit, et nos debémus pro frátribus ánimas pónere."]]}],"pt-BR":[{"k":"p","lines":[["Nisto conhecemos o amor:"],["Jesus deu a sua vida por nós."],["Portanto, também nós devemos dar a vida pelos irmãos."]]}],"en-US":[{"k":"p","lines":[["By this we came to know the love of god:"],["that Christ laid down his life for us;"],["so we ought to lay down our lives for our brothers."]]}],"es":[{"k":"p","lines":[["En esto hemos conocido el amor de Dios: en que él dio su vida por nosotros. También nosotros debemos dar nuestras vidas por los hermanos."]]}],"it":[{"k":"p","lines":[["In questo abbiamo conosciuto l'amore: egli ha dato la sua vita per noi; anche noi dobbiamo dare la vita per i fratelli."]]}],"fr":[{"k":"p","lines":[["Voici comment nous avons reconnu l'amour de Dieu :"],["lui, Jésus, a donné sa vie pour nous."],["Nous aussi, nous devons donner notre vie pour nos frères."]]}],"de":[{"k":"p","lines":[["Die Liebe haben wir daran erkannt, dass Jesus Christus sein Leben für uns gegeben hat. So müssen auch wir das Leben hingeben für die Brüder."]]}]},"part":"communionAntiphon"},{"slot":"186","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"187","text":{"la":[{"k":"p","lines":[["Pane mensæ cæléstis refécti, te, Dómine, deprecámur, ut, per hoc sacraméntum caritátis, illa sémina maturéscant, quæ magna in agrum Ecclésiæ tuæ largitáte dispérgis, quátenus multi sorte sibi éligant tibi in frátribus ministráre. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Alimentados com o pão da mesa celeste,"],["nós vos pedimos, Senhor:"],["por este sacramento do amor,"],["fazei amadurecer as sementes"],["que lançastes com grande largueza"],["no campo da vossa Igreja,"],["a fim de que muitos escolham"],["vos servir nos irmãos e irmãs."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Renewed with the Bread of the heavenly table,"],["we entreat you, O Lord,"],["that through this sacrament of charity"],["the seeds you sow with great abundance in the field of your Church may come to maturity,"],["so that many may make it their choice in life to serve you in their brothers and sisters."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, alimentados con el pan de la mesa celestial"],["te pedimos que, por este sacramento de amor,"],["germinen las semillas"],["que esparces generosamente en el campo de tu Iglesia,"],["de manera que sean cada vez más numerosos"],["los que elijan el camino de servirte en los hermanos."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Saziati dal pane del cielo, o Signore, ti chiediamo che, per la forza di questo sacramento di carità, maturino quei semi che in abbondanza spargi nel campo della tua Chiesa, perché molti scelgano nella loro vita di servire te nei fratelli. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Tu nous as donné, Seigneur,"],["la nourriture du ciel, et nous te prions encore :"],["que ce sacrement de l'amour fasse mûrir les semences"],["répandues largement dans le champ de ton Église,"],["et suscite en grand nombre"],["ceux qui choisiront de te servir dans leurs frères."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast uns mit dem Brot des Lebens gestärkt. Lass den Samen, den du in den Acker der Kirche gesät hast, aufgehen und lass in vielen den Entschluss reifen, im priesterlichen Amt dir und den Brüdern zu dienen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"title":{"la":"I. PRO SANCTA ECCLESIA","pt-BR":"I. PELA SANTA IGREJA","en-US":"I. FOR HOLY CHURCH","es":"I. POR LA SANTA IGLESIA","it":"I. PER LA SANTA CHIESA","fr":"I. POUR LA SAINTE ÉGLISE","de":"I. FÜR DIE HEILIGE KIRCHE"},"subtitle":{"la":"9. PRO VOCATIONIBUS AD SACROS ORDINES","pt-BR":"9. PELAS VOCAÇÕES ÀS SAGRADAS ORDENS","en-US":"9. FOR VOCATIONS TO HOLY ORDERS","es":"9. POR LAS VOCACIONES A LAS SAGRADAS ÓRDENES","it":"9. PER LE VOCAZIONI AGLI ORDINI SACRI","fr":"9. POUR LES VOCATIONS AUX ORDRES SACRÉS","de":"9. UM PRIESTERBERUFE"}}
+{
+ "id": "various-needs.15",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PRO SANCTA ECCLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "9. PRO VOCATIONIBUS AD SACROS ORDINES"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PELA SANTA IGREJA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "9. PELAS VOCAÇÕES ÀS SAGRADAS ORDENS"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FOR HOLY CHURCH"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "9. FOR VOCATIONS TO HOLY ORDERS"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POR LA SANTA IGLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "9. POR LAS VOCACIONES A LAS SAGRADAS ÓRDENES"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PER LA SANTA CHIESA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "9. PER LE VOCAZIONI AGLI ORDINI SACRI"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POUR LA SAINTE ÉGLISE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "9. POUR LES VOCATIONS AUX ORDRES SACRÉS"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FÜR DIE HEILIGE KIRCHE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "9. UM PRIESTERBERUFE"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Mt 9, 38"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Mt 9, 38"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Mt 9: 38"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Mt 9, 38"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Mt 9, 38"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Mt 9, 38"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Mt 9, 38"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rogáte Dóminum messis, ut mittat operários in messem suam, dicit Iesus discípulis suis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pedi, pois, ao dono da messe"
+       ],
+       [
+        "que envie trabalhadores para a sua colheita."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ask the Lord of the harvest"
+       ],
+       [
+        "to send out laborers for his harvest, says Jesus to his disciples."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rogad al Señor de la mies que mande trabajadores a su mies, dijo Jesús a sus discípulos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Pregate il Signore della messe, perché mandi operai nella sua messe», dice Gesù."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jésus dit à ses disciples :"
+       ],
+       [
+        "« Priez le maître de la moisson"
+       ],
+       [
+        "d'envoyer des ouvriers pour sa moisson. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus sagte zu seinen Jüngern: Bittet den Herrn der Ernte, dass er Arbeiter in seine Ernte sende."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui pastóres pópulo tuo providére voluísti, effúnde in Ecclésia tua spíritum pietátis et fortitúdinis, qui dignos altáribus tuis éxcitet minístros, et Evangélii tui strénuos ac mites assertóres effíciat. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, quisestes prover de pastores o vosso povo;"
+       ],
+       [
+        "infundi na Igreja o espírito de piedade e fortaleza,"
+       ],
+       [
+        "que suscite dignos ministros do vosso altar"
+       ],
+       [
+        "e pregadores do Evangelho corajosos e mansos."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who willed to provide shepherds for your people, pour out in your Church a spirit of piety and fortitude,"
+       ],
+       [
+        "to raise up worthy ministers for your altars"
+       ],
+       [
+        "and make them ardent yet gentle heralds of your Gospel. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que quisiste dar pastores a tu pueblo,"
+       ],
+       [
+        "derrama sobre tu Iglesia el espíritu de piedad y fortaleza,"
+       ],
+       [
+        "que suscite dignos ministros de tu altar"
+       ],
+       [
+        "y los haga testigos valientes y humildes de tu Evangelio."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che sempre provvedi pastori per il tuo popolo, effondi sulla tua Chiesa lo Spirito di pietà e di fortezza perché susciti degni ministri dell'altare e li renda annunciatori forti e miti del tuo Vangelo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as voulu procurer à ton peuple des pasteurs ;"
+       ],
+       [
+        "répands dans ton Église un esprit de piété et de force"
+       ],
+       [
+        "qui suscite des ministres dignes de servir à ton autel"
+       ],
+       [
+        "et en fasse pour ton Évangile"
+       ],
+       [
+        "des prédicateurs infatigables et remplis de douceur."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du sorgst für dein Volk durch die Hirten, die du ihm gibst. Erwecke in der Kirche den Geist des Glaubens und der Bereitschaft und berufe auch in unseren Tagen Menschen, die dem Altar dienen und die Frohe Botschaft mit Festigkeit und Güte verkünden. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Plebis tuæ, quǽsumus, Dómine, preces et múnera benígnus inténde, ut dispensatóres mysteriórum tuórum multiplicéntur, et in amóre tuo iúgiter persevérent. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, acolhei benigno"
+       ],
+       [
+        "as orações e as oferendas do vosso povo,"
+       ],
+       [
+        "para que se multipliquem os dispensadores dos vossos mistérios"
+       ],
+       [
+        "e perseverem sempre no vosso amor."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look kindly, we pray, O Lord,"
+       ],
+       [
+        "on the prayers and offerings of your people,"
+       ],
+       [
+        "that the stewards of your mysteries may grow in number and persevere always in your love."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acepta, Señor, las oraciones y ofrendas de tu pueblo"
+       ],
+       [
+        "y haz que los dispensadores de tus misterios"
+       ],
+       [
+        "sean cada vez más numerosos"
+       ],
+       [
+        "y perseveren siempre en tu amor."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda con bontà, o Signore, le preghiere e le offerte del tuo popolo: moltiplica i dispensatori dei tuoi misteri e rendili perseveranti nel tuo amore. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous te le demandons, Seigneur :"
+       ],
+       [
+        "sois attentif aux prières et aux offrandes de ton peuple,"
+       ],
+       [
+        "rends plus nombreux les intendants de tes mystères,"
+       ],
+       [
+        "et fais qu'ils persévèrent fidèlement dans ton amour."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, nimm die Gebete und Gaben deines Volkes an. Mehre die Zahl deiner Diener, denen die Ausspendung der heiligen Geheimnisse anvertraut ist, und erhalte sie in der Liebe und Treue zu dir. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "1 Io 3, 16"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "1 Jo 3, 16"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "1 Jn 3: 16"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "1 Jn 3, 16"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "1 Gv 3, 16"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "1 Io 3, 16"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "1 Joh 3, 16"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In hoc cognóvimus caritátem Dei: quóniam ille ánimam suam pro nobis pósuit, et nos debémus pro frátribus ánimas pónere."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nisto conhecemos o amor:"
+       ],
+       [
+        "Jesus deu a sua vida por nós."
+       ],
+       [
+        "Portanto, também nós devemos dar a vida pelos irmãos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "By this we came to know the love of god:"
+       ],
+       [
+        "that Christ laid down his life for us;"
+       ],
+       [
+        "so we ought to lay down our lives for our brothers."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En esto hemos conocido el amor de Dios: en que él dio su vida por nosotros. También nosotros debemos dar nuestras vidas por los hermanos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In questo abbiamo conosciuto l'amore: egli ha dato la sua vita per noi; anche noi dobbiamo dare la vita per i fratelli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici comment nous avons reconnu l'amour de Dieu :"
+       ],
+       [
+        "lui, Jésus, a donné sa vie pour nous."
+       ],
+       [
+        "Nous aussi, nous devons donner notre vie pour nos frères."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Liebe haben wir daran erkannt, dass Jesus Christus sein Leben für uns gegeben hat. So müssen auch wir das Leben hingeben für die Brüder."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pane mensæ cæléstis refécti, te, Dómine, deprecámur, ut, per hoc sacraméntum caritátis, illa sémina maturéscant, quæ magna in agrum Ecclésiæ tuæ largitáte dispérgis, quátenus multi sorte sibi éligant tibi in frátribus ministráre. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alimentados com o pão da mesa celeste,"
+       ],
+       [
+        "nós vos pedimos, Senhor:"
+       ],
+       [
+        "por este sacramento do amor,"
+       ],
+       [
+        "fazei amadurecer as sementes"
+       ],
+       [
+        "que lançastes com grande largueza"
+       ],
+       [
+        "no campo da vossa Igreja,"
+       ],
+       [
+        "a fim de que muitos escolham"
+       ],
+       [
+        "vos servir nos irmãos e irmãs."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Renewed with the Bread of the heavenly table,"
+       ],
+       [
+        "we entreat you, O Lord,"
+       ],
+       [
+        "that through this sacrament of charity"
+       ],
+       [
+        "the seeds you sow with great abundance in the field of your Church may come to maturity,"
+       ],
+       [
+        "so that many may make it their choice in life to serve you in their brothers and sisters."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, alimentados con el pan de la mesa celestial"
+       ],
+       [
+        "te pedimos que, por este sacramento de amor,"
+       ],
+       [
+        "germinen las semillas"
+       ],
+       [
+        "que esparces generosamente en el campo de tu Iglesia,"
+       ],
+       [
+        "de manera que sean cada vez más numerosos"
+       ],
+       [
+        "los que elijan el camino de servirte en los hermanos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Saziati dal pane del cielo, o Signore, ti chiediamo che, per la forza di questo sacramento di carità, maturino quei semi che in abbondanza spargi nel campo della tua Chiesa, perché molti scelgano nella loro vita di servire te nei fratelli. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu nous as donné, Seigneur,"
+       ],
+       [
+        "la nourriture du ciel, et nous te prions encore :"
+       ],
+       [
+        "que ce sacrement de l'amour fasse mûrir les semences"
+       ],
+       [
+        "répandues largement dans le champ de ton Église,"
+       ],
+       [
+        "et suscite en grand nombre"
+       ],
+       [
+        "ceux qui choisiront de te servir dans leurs frères."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast uns mit dem Brot des Lebens gestärkt. Lass den Samen, den du in den Acker der Kirche gesät hast, aufgehen und lass in vielen den Entschluss reifen, im priesterlichen Amt dir und den Brüdern zu dienen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "la": "I. PRO SANCTA ECCLESIA",
+  "pt-BR": "I. PELA SANTA IGREJA",
+  "en-US": "I. FOR HOLY CHURCH",
+  "es": "I. POR LA SANTA IGLESIA",
+  "it": "I. PER LA SANTA CHIESA",
+  "fr": "I. POUR LA SAINTE ÉGLISE",
+  "de": "I. FÜR DIE HEILIGE KIRCHE"
+ },
+ "subtitle": {
+  "la": "9. PRO VOCATIONIBUS AD SACROS ORDINES",
+  "pt-BR": "9. PELAS VOCAÇÕES ÀS SAGRADAS ORDENS",
+  "en-US": "9. FOR VOCATIONS TO HOLY ORDERS",
+  "es": "9. POR LAS VOCACIONES A LAS SAGRADAS ÓRDENES",
+  "it": "9. PER LE VOCAZIONI AGLI ORDINI SACRI",
+  "fr": "9. POUR LES VOCATIONS AUX ORDRES SACRÉS",
+  "de": "9. UM PRIESTERBERUFE"
+ }
+}

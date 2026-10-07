@@ -1,0 +1,412 @@
+{
+ "id": "common.holy-men-and-women.first-reading.2",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Diliges proximum tuum sicut teipsum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Levítici"
+       ]
+      ],
+      "cite": "19, 1-2. 17-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Locútus est Dóminus ad Móysen dicens:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Lóquere ad omnem cœtum filiórum Israel et dices ad eos:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sancti estóte, quia sanctus sum ego, Dóminus Deus vester."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ne óderis fratrem tuum in corde tuo; árgue eum, ne hábeas super illo peccátum. Non quæres ultiónem nec irascéris cívibus tuis. Díliges próximum tuum sicut teípsum. Ego Dóminus»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Amarás a teu próximo como a ti mesmo!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Levítico"
+       ]
+      ],
+      "cite": "19, 1-2. 17-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor falou a Moisés, dizendo: \"Fala a toda a comunidade dos filhos de Israel, e dize-lhes: Sede santos, porque eu, o Senhor vosso Deus, sou santo. Não tenhas no coração ódio contra teu irmão. Repreende o teu próximo, para não te tornares culpado de pecado por causa dele. Não procures vingança, nem guardes rancor dos teus compatriotas. Amarás o teu próximo como a ti mesmo. Eu sou o Senhor\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Leviticus"
+       ]
+      ],
+      "cite": "19:1-2.17-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord spoke to Moses; he said: 'Speak to the whole community of the sons of Israel and say to them: \"Be holy, for I, the Lord your God, am holy. You must not bear hatred for your brother in your heart. You must openly tell him, your neighbour, of his offence; this way you will not take a sin upon yourself. You must not exact vengeance, nor must you bear a grudge against the children of your people. You must love your neighbour as yourself. I am the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Amarás a tu prójimo como a ti mismo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Levítico"
+       ]
+      ],
+      "cite": "19, 1-2. 17-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor habló así a Moisés:"
+       ],
+       [
+        "«Di a la comunidad de los hijos de Israel:"
+       ],
+       [
+        "“Sed santos, porque yo, el Señor, vuestro Dios, soy santo. No odiarás de corazón a tu hermano, pero reprenderás a tu prójimo, para que no cargues tú con su pecado. No te vengarás de los hijos de tu pueblo ni les guardarás rencor, sino que amarás a tu prójimo como a ti mismo. Yo soy el Señor”»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Amerai il tuo prossimo come te stesso."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del Levitico"
+       ]
+      ],
+      "cite": "19, 1-2.17-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore parlò a Mosè e disse: «Parla a tutta la comunità degli Israeliti dicendo loro: \"Siate santi, perché io, il Signore, vostro Dio, sono santo. Non coverai nel tuo cuore odio contro il tuo fratello; rimprovera apertamente il tuo prossimo, così non ti caricherai di un peccato per lui."
+       ],
+       [
+        "Non ti vendicherai e non serberai rancore contro i figli del tuo popolo, ma amerai il tuo prossimo come te stesso. Io sono il Signore\"»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre du Lévitique"
+       ]
+      ],
+      "cite": "19, 1-2. 17-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur parla à Moïse et dit : \" Parle à toute l'assemblée des fils d'Israël. Tu leur diras : Soyez saints, car moi, le Seigneur votre Dieu, je suis saint. Tu ne haïras pas ton frère dans ton cœur. Mais tu devras réprimander ton compatriote, et tu ne toléreras pas la faute qui est en lui. Tu ne te vengeras pas. Tu ne garderas pas de rancune contre les fils de ton peuple. Tu aimeras ton prochain comme toi-même. Je suis le Seigneur. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Levítikus"
+       ]
+      ],
+      "cite": "19, 1-2. 17-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr sprach zu Mose:"
+       ],
+       [
+        "Rede zur ganzen Gemeinde der Israeliten, und sag zu ihnen:"
+       ],
+       [
+        "Seid heilig, denn ich, der Herr, euer Gott, bin heilig."
+       ],
+       [
+        "Du sollst in deinem Herzen keinen Hass gegen deinen Bruder tragen. Weise deinen Stammesgenossen zurecht, so wirst du seinetwegen keine Schuld auf dich laden. An den Kindern deines Volkes sollst du dich nicht rächen und ihnen nichts nachtragen. Du sollst deinen Nächsten lieben wie dich selbst. Ich bin der Herr."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

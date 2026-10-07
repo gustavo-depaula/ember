@@ -1,1 +1,1974 @@
-{"id":"sanctorale.mary-mother-of-the-church","source":"lecturas/lecturas_santos_may#0535","items":[{"slot":"306","text":{"la":[{"k":"h2","lines":[["Feria II post Pentecosten"],["Beatæ Mariæ Virginis, Ecclesiæ Matris"]]},{"k":"h3","lines":[["Memoria"]]}],"pt-BR":[{"k":"h2","lines":[["Bem-aventurada Virgem Maria, Mãe da Igreja"]]},{"k":"h3","lines":[["Memoria"]]}],"en-US":[{"k":"h2","lines":[["Blessed Virgin Mary Mother of the Church"]]},{"k":"h3","lines":[["Memorial"]]}],"es":[{"k":"h2","lines":[["Bienaventurada Virgen María, Madre de la Iglesia"]]},{"k":"h3","lines":[["Memoria"]]}],"it":[{"k":"h2","lines":[["Beata Vergine Maria Madre della Chiesa"]]},{"k":"h3","lines":[["Memoria"]]}],"fr":[{"k":"h2","lines":[["Lundi de Pentecôte"],["Bienheureuse Vierge Marie, Mère de l'Église"]]},{"k":"h3","lines":[["Mémoire"]]}],"de":[{"k":"h2","lines":[["Selige Jungfrau Maria, Mutter der Kirche"]]},{"k":"h3","lines":[["Gedenktag"]]}]}},{"slot":"307","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"GenesisGênesisGénesisGenesisGenesiGenesisGenèse","to":"readings.csmv1f1"},{"m":"link","t":"ActsAtosHechosApostelgeschichteAttiActuumActes","to":"readings.csmv1p1"}]]}]},"part":"firstReading"},{"slot":"308","text":{"la":[{"k":"p","lines":[["Psalmus Responsorius"]],"cite":"Ps 86, 1-2. 3 et 5. 6-7 (R/.: 3)","role":"title"}],"pt-BR":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sl 86, 1-2. 3 5. 6-7 (R/.:3)","role":"title"}],"en-US":[{"k":"p","lines":[["Responsorial Psalm"]],"cite":"Sl 86, 1-2. 3 5. 6-7 (R/.:3)","role":"title"}],"es":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 86, 1-2. 3 y 5. 6-7 (R/.: S)","role":"title"}],"it":[{"k":"p","lines":[["Salmo Responsoriale"]],"cite":"Sal 86","role":"title"}],"fr":[{"k":"p","lines":[["Psaume"]],"cite":"Ps 86, 1-2. 3 et 5. 6-7 (R/.: 3)","role":"title"}],"de":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 86, 1-2. 3 5. 6-7 (R: 3)","role":"title"}]},"part":"psalm"},{"slot":"309","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloriósa dicta sunt de te, cívitas Dei!"]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dizem coisas gloriosas da Cidade do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Of you are told glorious things, O city of God!"]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"¡Qué pregón tan glorioso para ti, ciudad de Dios!"]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Di te si dicono cose stupende, città di Dio!"]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Pour ta gloire on parle de toi, ville de Dieu !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herrliches sagt man von dir,"],["du Stadt unseres Gottes!"]]}]},"part":"psalm","role":"people"},{"slot":"310","text":{"la":[{"k":"p","lines":[["Fundaménta eius in móntibus sanctis;"],["díligit Dóminus portas Sion"],["super ómnia tabernácula Iacob."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor ama a cidade que fundou no Monte santo;"],["ama as portas de Sião"],["mais que as casas de Jacó."]]}],"en-US":[{"k":"p","lines":[["On the holy mountain is his city"],["cherished by the Lord."],["The Lord prefers the gates of Zion"],["to all Jacob's dwellings."]]}],"es":[{"k":"p","lines":[["Él la ha cimentado sobre el monte santo;"],["y el Señor prefiere las puertas de Sion"],["a todas las moradas de Jacob."]]}],"it":[{"k":"p","lines":[["Le sue fondamenta sono sui monti santi;"],["il Signore ama le porte di Sion"],["più di tutte le dimore di Giacobbe."]]}],"fr":[{"k":"p","lines":[["Elle est fondée sur les montagnes saintes. +"],["Le Seigneur aime les portes de Sion *"],["plus que toutes les demeures de Jacob."]]}],"de":[{"k":"p","lines":[["Der Herr liebt Zion, seine Gründung auf heiligen Bergen;"],["mehr als all seine Stätten in Jakob liebt er die Tore Zions."]]}]},"part":"psalm","role":"verse"},{"slot":"311","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloriósa dicta sunt de te, cívitas Dei!"]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dizem coisas gloriosas da Cidade do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Of you are told glorious things, O city of God!"]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"¡Qué pregón tan glorioso para ti, ciudad de Dios!"]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Di te si dicono cose stupende, città di Dio!"]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Pour ta gloire on parle de toi, ville de Dieu !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herrliches sagt man von dir,"],["du Stadt unseres Gottes!"]]}]},"part":"psalm","role":"people"},{"slot":"312","text":{"la":[{"k":"p","lines":[["Gloriósa dicta sunt de te, cívitas Dei."],["Et de Sion dicétur: «Hic et ille natus est in ea,"],["et ipse firmávit eam Altíssimus»."]]}],"pt-BR":[{"k":"p","lines":[["Dizem coisas gloriosas da Cidade do Senhor."],["De Sião, porém, se diz:"],["\"Nasceu nela todo homem; Deus é sua segurança\"."]]}],"en-US":[{"k":"p","lines":[["'Of you are told glorious things,"],["O city of God!"],["Zion shall be called 'Mother'"],["for all shall be her children.'"],["It is he, the Lord Most High,"],["who gives each his place."]]}],"es":[{"k":"p","lines":[["¡Qué pregón tan glorioso para ti,"],["ciudad de Dios!"],["Se dirá de Sion: «Uno por uno,"],["todos han nacido en ella;"],["el Altísimo en persona la ha fundado»."]]}],"it":[{"k":"p","lines":[["Di te si dicono cose stupende, città di Dio."],["Si dirà di Sion: « L'uno e l'altro è nato in essa"],["e l'Altissimo la tiene salda»."]]}],"fr":[{"k":"p","lines":[["Pour ta gloire on parle de toi, ville de Dieu ! *"],["Mais on appelle Sion : \" Ma mère ! \""],["car en elle, tout homme est né."],["C'est lui, le Très-Haut, qui la maintient. +"]]}],"de":[{"k":"p","lines":[["Herrliches sagt man von dir,"],["du Stadt unseres Gottes."],["Von Zion wird man sagen:"],["Jeder ist dort geboren."]]}]},"part":"psalm","role":"verse"},{"slot":"313","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloriósa dicta sunt de te, cívitas Dei!"]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dizem coisas gloriosas da Cidade do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Of you are told glorious things, O city of God!"]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"¡Qué pregón tan glorioso para ti, ciudad de Dios!"]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Di te si dicono cose stupende, città di Dio!"]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Pour ta gloire on parle de toi, ville de Dieu !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herrliches sagt man von dir,"],["du Stadt unseres Gottes!"]]}]},"part":"psalm","role":"people"},{"slot":"314","text":{"la":[{"k":"p","lines":[["Dóminus réferet in librum populórum:"],["«Hi nati sunt illic»."],["Et cantant sicut choros ducéntes:"],["«Omnes fontes mei in te»."]]}],"pt-BR":[{"k":"p","lines":[["Deus anota no seu livro, onde inscreve os povos todos:"],["\"Foi ali que estes nasceram\"."],["E por isso todos juntos"],["a cantar se alegrarão; e, dançando, exclamarão:"],["\"Estão em ti as nossas fontes!\"."]]}],"en-US":[{"k":"p","lines":[["In his register of peoples he writes:"],["'These are her children'"],["and while they dance they will sing:"],["'In you all find their home.'"]]}],"es":[{"k":"p","lines":[["El Señor escribirá en el registro de los pueblos:"],["«Este ha nacido allí»."],["Y cantarán mientras danzan:"],["«Todas mis fuentes están en ti»."]]}],"it":[{"k":"p","lines":[["Il Signore scriverà nel libro dei popoli:"],["“Là costui è nato”."],["E danzando canteranno:"],["“Sono in te tutte le mie sorgenti”."]]}],"fr":[{"k":"p","lines":[["Au registre des peuples, le Seigneur écrit :"],["\" Chacun est né là-bas. \" *"],["Tous ensemble ils dansent, et ils chantent :"],["\" En toi, toutes nos sources ! \""]]}],"de":[{"k":"p","lines":[["Er, der Höchste, hat Zion gegründet."],["Und sie werden beim Reigentanz singen:"],["All meine Quellen entspringen in dir."]]}]},"part":"psalm","role":"verse"},{"slot":"315","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloriósa dicta sunt de te, cívitas Dei!"]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dizem coisas gloriosas da Cidade do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Of you are told glorious things, O city of God!"]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"¡Qué pregón tan glorioso para ti, ciudad de Dios!"]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Di te si dicono cose stupende, città di Dio!"]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Pour ta gloire on parle de toi, ville de Dieu !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herrliches sagt man von dir,"],["du Stadt unseres Gottes!"]]}]},"part":"psalm","role":"people"},{"slot":"316","text":{"la":[{"k":"p","lines":[["Alleluia"]],"role":"title"},{"k":"p","lines":[["Allelúia."],["O felix Virgo, quæ Dóminum genuísti;"],["o beáta Mater Ecclésiæ,"],["quæ in nobis foves Spíritum"],["Fílii tui Iesu Christi!"],["Allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Aclamação ao Evangelho"]],"role":"title"},{"k":"p","lines":[["Aleluia, aleluia."],["Aleluia."]]}],"en-US":[{"k":"p","lines":[["Gospel Acclamation"]],"role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Alleluia."]]}],"es":[{"k":"p","lines":[["Aleluya"]],"role":"title"},{"k":"p","lines":[["Aleluya."],["¡Oh, feliz Virgen que engendraste al Señor!"],["¡Oh, Bienaventurada Madre de la Iglesia,"],["que infundes en nosotros el Espíritu"],["de tu Hijo Jesucristo!"],["Aleluya."]]}],"it":[{"k":"p","lines":[["Canto al Vangelo"]],"role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Vergine felice, che hai generato il Signore;"],["beata Madre della Chiesa che fai ardere in noi"],["lo Spirito del tuo Figlio Gesù Cristo."],["Alleluia."]]}],"fr":[{"k":"p","lines":[["Alléluia"]],"role":"title"},{"k":"p","lines":[["Alléluia"],["Heureuse es-tu, sainte Vierge Marie, toi qui as engendré le Seigneur. Tu entretiens en nous l'Esprit de ton Fils Jésus Christ !"],["Alléluia"]]}],"de":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"role":"title"},{"k":"p","lines":[["Halleluja. Halleluja."],["Halleluja."]]}]},"part":"acclamation"},{"slot":"317","text":{"la":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[["Ecce filius tuus. Ecce mater tua."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Ioánnem"]],"cite":"19, 25-34","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["Este é o teu filho. Esta é a tua mãe."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo João"]],"cite":"19, 25-34","role":"announcement"}],"en-US":[{"k":"p","lines":[["Gospel"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to John"]],"cite":"19:25-34","role":"announcement"}],"es":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["Ahí tienes a tu hijo. Ahí tienes a tu madre"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo evangelio según san Juan"]],"cite":"19, 25-34","role":"announcement"}],"it":[{"k":"p","lines":[["Vangelo"]],"role":"title"},{"k":"p","lines":[["Ecco tuo figlio! Ecco tua madre!"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal vangelo secondo Giovanni"]],"cite":"19, 25-34","role":"announcement"}],"fr":[{"k":"p","lines":[["Proclamation de l'Évangile"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Jean"]],"cite":"19, 25-34","role":"announcement"}],"de":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Johannes"]],"cite":"19, 25-34","role":"announcement"}]},"part":"gospel"},{"slot":"318","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"319","text":{"la":[{"k":"p","lines":[["Stabant iuxta crucem Iesu mater eius et soror matris eius, María Cléopæ, et María Magdaléne."]]},{"k":"p","lines":[["Cum vidísset ergo Iesus matrem et discípulum stantem, quem diligébat, dicit matri:"]]},{"k":"p","lines":[["«Múlier, ecce fílius tuus»."]]},{"k":"p","lines":[["Deínde dicit discípulo:"]]},{"k":"p","lines":[["«Ecce mater tua»."]]},{"k":"p","lines":[["Et ex illa hora accépit eam discípulus in sua. Post hoc sciens Iesus quia iam ómnia consummáta sunt, ut consummarétur Scriptúra, dicit: «Sítio». Vas pósitum erat acéto plenum; spóngiam ergo plenam acéto hyssópo circumponéntes, obtulérunt ori eius. Cum ergo accepísset acétum, Iesus dixit: «Consummátum est!». Et inclináto cápite trádidit spíritum."]]},{"k":"p","lines":[["Iudǽi ergo, quóniam Parascéve erat, ut non remanérent in cruce córpora sábbato, erat enim magnus dies illíus sábbati, rogavérunt Pilátum, ut frangeréntur eórum crura, et tolleréntur. Venérunt ergo mílites et primi quidem fregérunt crura et alteríus, qui crucifíxus est cum eo; ad Iesum autem cum veníssent, ut vidérunt eum iam mórtuum, non fregérunt eius crura, sed unus mílitum láncea latus eius apéruit, et contínuo exívit sanguis et aqua."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, perto da cruz de Jesus, estavam de pé a sua mãe, a irmã da sua mãe, Maria de Cléofas, e Maria Madalena. Jesus, ao ver sua mãe e, ao lado dela, o discípulo que ele amava, disse à mãe: \"Mulher, este é o teu filho\". Depois disse ao discípulo: \"Esta é a tua mãe\". Daquela hora em diante, o discípulo a acolheu consigo. Em seguida, sabendo Jesus que tudo estava consumado, para se cumprir plenamente a Escritura, disse: Tenho sede. Havia ali um vaso cheio de vinagre. Os soldados encheram de vinagre uma esponja e, fixando-a numa vara de hissopo, chegaram-lhe à boca. Havendo Jesus tomado do vinagre, disse: Tudo está consumado. Inclinou a cabeça e rendeu o espírito. Os judeus temeram que os corpos ficassem na cruz durante o sábado, porque já era a Preparação e esse sábado era particularmente solene. Rogaram a Pilatos que se lhes quebrassem as pernas e fossem retirados. Vieram os soldados e quebraram as pernas do primeiro e do outro, que com ele foram crucificados. Chegando, porém, a Jesus, como o vissem já morto, não lhe quebraram as pernas, mas um dos soldados abriu-lhe o lado com uma lança e, imediatamente, saiu sangue e água."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["Near the cross of Jesus stood his mother and his mother's sister, Mary the wife of Clopas, and Mary of Magdala. Seeing his mother and the disciple he loved standing near her, Jesus said to his mother, 'Woman, this is your son. Then to the disciple he said, 'This is your mother'. And from that moment the disciple made a place for her in his home. After this, Jesus knew that everything had now been completed, and to fulfil the scripture perfectly he said: 'I am thirsty'. A jar-full of vinegar stood there, so putting a sponge soaked in the vinegar on a hyssop stick they held it up to his mouth. After Jesus had taken the vinegar he said, 'It is accomplished'; and bowing his head he gave up his spirit."],[{"m":"rubric","t":"All kneel and pause a moment"}],["It was Preparation Day, and to prevent the bodies remaining on the cross during the sabbath - since that sabbath was a day of special solemnity - the Jews asked Pilate to have the legs broken and the bodies taken away. Consequently the soldiers came and broke the legs of the first man who had been crucified with him and then of the other. When they came to Jesus, they found he was already dead, and so instead of breaking his legs one of the soldiers pierced his side with a lance; and immediately there came out blood and water."]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, junto a la cruz de Jesús estaban su madre, la hermana de su madre, María, la de Cleofás, y María, la Magdalena."],["Jesús, al ver a su madre y junto a ella al discípulo al que amaba, dijo a su madre:"],["«Mujer, ahí tienes a tu hijo»."],["Luego, dijo al discípulo:"],["«Ahí tienes a tu madre»."],["Y desde aquella hora, el discípulo la recibió como algo propio."],["Después de esto, sabiendo Jesús que ya todo estaba cumplido, para que se cumpliera la Escritura, dijo:"],["«Tengo sed»."],["Había allí un jarro lleno de vinagre. Y, sujetando una esponja empapada en vinagre a una caña de hisopo, se la acercaron a la boca. Jesús, cuando tomó el vinagre, dijo:"],["«Está cumplido»."],["E inclinando la cabeza, entregó el espíritu."],["Los judíos entonces, como era el día de la Preparación, para que no se quedaran los cuerpos en la cruz el sábado, porque aquel sábado era un día grande, pidieron a Pilato que les quebraran las piernas y que los quitaran. Fueron los soldados, le quebraron las piernas al primero y luego al otro que habían crucificado con él; pero al llegar a Jesús, viendo que ya había muerto, no le quebraron las piernas, sino que uno de los soldados, con la lanza, le traspasó el costado, y al punto salió sangre y agua."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, stavano presso la croce di Gesù sua madre, la sorella di sua madre, Maria madre di Clèopa e Maria di Màgdala."],["Gesù allora, vedendo la madre e accanto a lei il discepolo che egli amava, disse alla madre: «Donna, ecco tuo figlio!». Poi disse al discepolo: «Ecco tua madre!». E da quell'ora il discepolo l'accolse con sé."],["Dopo questo, Gesù, sapendo che ormai tutto era compiuto, affinché si compisse la Scrittura, disse: «Ho sete». Vi era lì un vaso pieno di aceto; posero perciò una spugna, imbevuta di aceto, in cima a una canna e gliela accostarono alla bocca. Dopo aver preso l'aceto, Gesù disse: «È compiuto!». E, chinato il capo, consegnò lo spirito."],["Era il giorno della Parasceve e i Giudei, perché i corpi non rimanessero sulla croce durante il sabato – era infatti un giorno solenne quel sabato –, chiesero a Pilato che fossero spezzate loro le gambe e fossero portati via. Vennero dunque i soldati e spezzarono le gambe all'uno e all'altro che erano stati crocifissi insieme con lui. Venuti però da Gesù, vedendo che era già morto, non gli spezzarono le gambe, ma uno dei soldati con una lancia gli colpì il fianco, e subito ne uscì sangue e acqua."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, près de la croix de Jésus se tenaient sa mère et la sœur de sa mère, Marie, femme de Cléophas, et Marie Madeleine. Jésus, voyant sa mère, et près d'elle le disciple qu'il aimait, dit à sa mère : \" Femme, voici ton fils. \" Puis il dit au disciple : \" Voici ta mère. \" Et à partir de cette heure-là, le disciple la prit chez lui. Après cela, sachant que tout, désormais, était achevé pour que l'Écriture s'accomplisse jusqu'au bout, Jésus dit : \" J'ai soif. \" Il y avait là un récipient plein d'une boisson vinaigrée. On fixa donc une éponge remplie de ce vinaigre à une branche d'hysope, et on l'approcha de sa bouche. Quand il eut pris le vinaigre, Jésus dit : \" Tout est accompli. \" Puis, inclinant la tête, il remit l'esprit."]]},{"k":"p","lines":[["Comme c'était le jour de la Préparation (c'est-à-dire le vendredi), il ne fallait pas laisser les corps en croix durant le sabbat, d'autant plus que ce sabbat était le grand jour de la Pâque. Aussi les Juifs demandèrent à Pilate qu'on enlève les corps après leur avoir brisé les jambes. Les soldats allèrent donc briser les jambes du premier, puis de l'autre homme crucifié avec Jésus. Quand ils arrivèrent à Jésus, voyant qu'il était déjà mort, ils ne lui brisèrent pas les jambes, mais un des soldats avec sa lance lui perça le côté ; et aussitôt, il en sortit du sang et de l'eau."]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit standen bei dem Kreuz Jesu seine Mutter und die Schwester seiner Mutter, Maria, die Frau des Klopas, und Maria von Mágdala."],["Als Jesus seine Mutter sah und bei ihr den Jünger, den er liebte, sagte er zu seiner Mutter:"],["Frau, siehe, dein Sohn!"],["Dann sagte er zu dem Jünger:"],["Siehe, deine Mutter!"],["Und von jener Stunde an nahm sie der Jünger zu sich. Danach, als Jesus wusste, dass nun alles vollbracht war, sagte er, damit sich die Schrift erfüllte: «Mich dürstet». Ein Gefäß mit Essig stand da. Sie steckten einen Schwamm mit Essig auf einen Ysopzweig und hielten ihn an seinen Mund. Als Jesus von dem Essig genommen hatte, sprach er: «Es ist vollbracht!» Und er neigte das Haupt und gab seinen Geist auf."]]},{"k":"p","lines":[["Weil Rüsttag war und die Körper während des Sabbats nicht am Kreuz bleiben sollten, baten die Juden Pilatus, man möge den Gekreuzigten die Beine zerschlagen und ihre Leichen dann abnehmen; denn dieser Sabbat war ein großer Feiertag. Also kamen die Soldaten und zerschlugen dem Ersten die Beine, dann dem andern, der mit ihm gekreuzigt worden war. Als sie aber zu Jesus kamen und sahen, dass er schon tot war, zerschlugen sie ihm die Beine nicht, sondern einer der Soldaten stieß mit der Lanze in seine Seite, und sogleich floss Blut und Wasser heraus."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"320","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"part":"gospel","role":"people"}],"title":{"la":"Feria II post Pentecosten — Beatæ Mariæ Virginis, Ecclesiæ Matris","pt-BR":"Bem-aventurada Virgem Maria, Mãe da Igreja","en-US":"Blessed Virgin Mary Mother of the Church","es":"Bienaventurada Virgen María, Madre de la Iglesia","it":"Beata Vergine Maria Madre della Chiesa","fr":"Lundi de Pentecôte — Bienheureuse Vierge Marie, Mère de l'Église","de":"Selige Jungfrau Maria, Mutter der Kirche"}}
+{
+ "id": "sanctorale.mary-mother-of-the-church",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Feria II post Pentecosten"
+       ],
+       [
+        "Beatæ Mariæ Virginis, Ecclesiæ Matris"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Bem-aventurada Virgem Maria, Mãe da Igreja"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Blessed Virgin Mary Mother of the Church"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Bienaventurada Virgen María, Madre de la Iglesia"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Beata Vergine Maria Madre della Chiesa"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Lundi de Pentecôte"
+       ],
+       [
+        "Bienheureuse Vierge Marie, Mère de l'Église"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Selige Jungfrau Maria, Mutter der Kirche"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Gedenktag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "GenesisGênesisGénesisGenesisGenesiGenesisGenèse",
+         "to": "readings.csmv1f1"
+        },
+        {
+         "m": "link",
+         "t": "ActsAtosHechosApostelgeschichteAttiActuumActes",
+         "to": "readings.csmv1p1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 86, 1-2. 3 et 5. 6-7 (R/.: 3)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 86, 1-2. 3 5. 6-7 (R/.:3)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Sl 86, 1-2. 3 5. 6-7 (R/.:3)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 86, 1-2. 3 y 5. 6-7 (R/.: S)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Sal 86",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 86, 1-2. 3 et 5. 6-7 (R/.: 3)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 86, 1-2. 3 5. 6-7 (R: 3)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloriósa dicta sunt de te, cívitas Dei!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dizem coisas gloriosas da Cidade do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Of you are told glorious things, O city of God!"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "¡Qué pregón tan glorioso para ti, ciudad de Dios!"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Di te si dicono cose stupende, città di Dio!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Pour ta gloire on parle de toi, ville de Dieu !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herrliches sagt man von dir,"
+       ],
+       [
+        "du Stadt unseres Gottes!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fundaménta eius in móntibus sanctis;"
+       ],
+       [
+        "díligit Dóminus portas Sion"
+       ],
+       [
+        "super ómnia tabernácula Iacob."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor ama a cidade que fundou no Monte santo;"
+       ],
+       [
+        "ama as portas de Sião"
+       ],
+       [
+        "mais que as casas de Jacó."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "On the holy mountain is his city"
+       ],
+       [
+        "cherished by the Lord."
+       ],
+       [
+        "The Lord prefers the gates of Zion"
+       ],
+       [
+        "to all Jacob's dwellings."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Él la ha cimentado sobre el monte santo;"
+       ],
+       [
+        "y el Señor prefiere las puertas de Sion"
+       ],
+       [
+        "a todas las moradas de Jacob."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le sue fondamenta sono sui monti santi;"
+       ],
+       [
+        "il Signore ama le porte di Sion"
+       ],
+       [
+        "più di tutte le dimore di Giacobbe."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Elle est fondée sur les montagnes saintes. +"
+       ],
+       [
+        "Le Seigneur aime les portes de Sion *"
+       ],
+       [
+        "plus que toutes les demeures de Jacob."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr liebt Zion, seine Gründung auf heiligen Bergen;"
+       ],
+       [
+        "mehr als all seine Stätten in Jakob liebt er die Tore Zions."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloriósa dicta sunt de te, cívitas Dei!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dizem coisas gloriosas da Cidade do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Of you are told glorious things, O city of God!"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "¡Qué pregón tan glorioso para ti, ciudad de Dios!"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Di te si dicono cose stupende, città di Dio!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Pour ta gloire on parle de toi, ville de Dieu !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herrliches sagt man von dir,"
+       ],
+       [
+        "du Stadt unseres Gottes!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloriósa dicta sunt de te, cívitas Dei."
+       ],
+       [
+        "Et de Sion dicétur: «Hic et ille natus est in ea,"
+       ],
+       [
+        "et ipse firmávit eam Altíssimus»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dizem coisas gloriosas da Cidade do Senhor."
+       ],
+       [
+        "De Sião, porém, se diz:"
+       ],
+       [
+        "\"Nasceu nela todo homem; Deus é sua segurança\"."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "'Of you are told glorious things,"
+       ],
+       [
+        "O city of God!"
+       ],
+       [
+        "Zion shall be called 'Mother'"
+       ],
+       [
+        "for all shall be her children.'"
+       ],
+       [
+        "It is he, the Lord Most High,"
+       ],
+       [
+        "who gives each his place."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "¡Qué pregón tan glorioso para ti,"
+       ],
+       [
+        "ciudad de Dios!"
+       ],
+       [
+        "Se dirá de Sion: «Uno por uno,"
+       ],
+       [
+        "todos han nacido en ella;"
+       ],
+       [
+        "el Altísimo en persona la ha fundado»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Di te si dicono cose stupende, città di Dio."
+       ],
+       [
+        "Si dirà di Sion: « L'uno e l'altro è nato in essa"
+       ],
+       [
+        "e l'Altissimo la tiene salda»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pour ta gloire on parle de toi, ville de Dieu ! *"
+       ],
+       [
+        "Mais on appelle Sion : \" Ma mère ! \""
+       ],
+       [
+        "car en elle, tout homme est né."
+       ],
+       [
+        "C'est lui, le Très-Haut, qui la maintient. +"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herrliches sagt man von dir,"
+       ],
+       [
+        "du Stadt unseres Gottes."
+       ],
+       [
+        "Von Zion wird man sagen:"
+       ],
+       [
+        "Jeder ist dort geboren."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloriósa dicta sunt de te, cívitas Dei!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dizem coisas gloriosas da Cidade do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Of you are told glorious things, O city of God!"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "¡Qué pregón tan glorioso para ti, ciudad de Dios!"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Di te si dicono cose stupende, città di Dio!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Pour ta gloire on parle de toi, ville de Dieu !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herrliches sagt man von dir,"
+       ],
+       [
+        "du Stadt unseres Gottes!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dóminus réferet in librum populórum:"
+       ],
+       [
+        "«Hi nati sunt illic»."
+       ],
+       [
+        "Et cantant sicut choros ducéntes:"
+       ],
+       [
+        "«Omnes fontes mei in te»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus anota no seu livro, onde inscreve os povos todos:"
+       ],
+       [
+        "\"Foi ali que estes nasceram\"."
+       ],
+       [
+        "E por isso todos juntos"
+       ],
+       [
+        "a cantar se alegrarão; e, dançando, exclamarão:"
+       ],
+       [
+        "\"Estão em ti as nossas fontes!\"."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In his register of peoples he writes:"
+       ],
+       [
+        "'These are her children'"
+       ],
+       [
+        "and while they dance they will sing:"
+       ],
+       [
+        "'In you all find their home.'"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor escribirá en el registro de los pueblos:"
+       ],
+       [
+        "«Este ha nacido allí»."
+       ],
+       [
+        "Y cantarán mientras danzan:"
+       ],
+       [
+        "«Todas mis fuentes están en ti»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore scriverà nel libro dei popoli:"
+       ],
+       [
+        "“Là costui è nato”."
+       ],
+       [
+        "E danzando canteranno:"
+       ],
+       [
+        "“Sono in te tutte le mie sorgenti”."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Au registre des peuples, le Seigneur écrit :"
+       ],
+       [
+        "\" Chacun est né là-bas. \" *"
+       ],
+       [
+        "Tous ensemble ils dansent, et ils chantent :"
+       ],
+       [
+        "\" En toi, toutes nos sources ! \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er, der Höchste, hat Zion gegründet."
+       ],
+       [
+        "Und sie werden beim Reigentanz singen:"
+       ],
+       [
+        "All meine Quellen entspringen in dir."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloriósa dicta sunt de te, cívitas Dei!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dizem coisas gloriosas da Cidade do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Of you are told glorious things, O city of God!"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "¡Qué pregón tan glorioso para ti, ciudad de Dios!"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Di te si dicono cose stupende, città di Dio!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Pour ta gloire on parle de toi, ville de Dieu !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herrliches sagt man von dir,"
+       ],
+       [
+        "du Stadt unseres Gottes!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allelúia."
+       ],
+       [
+        "O felix Virgo, quæ Dóminum genuísti;"
+       ],
+       [
+        "o beáta Mater Ecclésiæ,"
+       ],
+       [
+        "quæ in nobis foves Spíritum"
+       ],
+       [
+        "Fílii tui Iesu Christi!"
+       ],
+       [
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "Aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya."
+       ],
+       [
+        "¡Oh, feliz Virgen que engendraste al Señor!"
+       ],
+       [
+        "¡Oh, Bienaventurada Madre de la Iglesia,"
+       ],
+       [
+        "que infundes en nosotros el Espíritu"
+       ],
+       [
+        "de tu Hijo Jesucristo!"
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Vergine felice, che hai generato il Signore;"
+       ],
+       [
+        "beata Madre della Chiesa che fai ardere in noi"
+       ],
+       [
+        "lo Spirito del tuo Figlio Gesù Cristo."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ],
+       [
+        "Heureuse es-tu, sainte Vierge Marie, toi qui as engendré le Seigneur. Tu entretiens en nous l'Esprit de ton Fils Jésus Christ !"
+       ],
+       [
+        "Alléluia"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Halleluja. Halleluja."
+       ],
+       [
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce filius tuus. Ecce mater tua."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Ioánnem"
+       ]
+      ],
+      "cite": "19, 25-34",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Este é o teu filho. Esta é a tua mãe."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo João"
+       ]
+      ],
+      "cite": "19, 25-34",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to John"
+       ]
+      ],
+      "cite": "19:25-34",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ahí tienes a tu hijo. Ahí tienes a tu madre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Juan"
+       ]
+      ],
+      "cite": "19, 25-34",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecco tuo figlio! Ecco tua madre!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Giovanni"
+       ]
+      ],
+      "cite": "19, 25-34",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Jean"
+       ]
+      ],
+      "cite": "19, 25-34",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Johannes"
+       ]
+      ],
+      "cite": "19, 25-34",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Stabant iuxta crucem Iesu mater eius et soror matris eius, María Cléopæ, et María Magdaléne."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum vidísset ergo Iesus matrem et discípulum stantem, quem diligébat, dicit matri:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Múlier, ecce fílius tuus»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deínde dicit discípulo:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Ecce mater tua»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ex illa hora accépit eam discípulus in sua. Post hoc sciens Iesus quia iam ómnia consummáta sunt, ut consummarétur Scriptúra, dicit: «Sítio». Vas pósitum erat acéto plenum; spóngiam ergo plenam acéto hyssópo circumponéntes, obtulérunt ori eius. Cum ergo accepísset acétum, Iesus dixit: «Consummátum est!». Et inclináto cápite trádidit spíritum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iudǽi ergo, quóniam Parascéve erat, ut non remanérent in cruce córpora sábbato, erat enim magnus dies illíus sábbati, rogavérunt Pilátum, ut frangeréntur eórum crura, et tolleréntur. Venérunt ergo mílites et primi quidem fregérunt crura et alteríus, qui crucifíxus est cum eo; ad Iesum autem cum veníssent, ut vidérunt eum iam mórtuum, non fregérunt eius crura, sed unus mílitum láncea latus eius apéruit, et contínuo exívit sanguis et aqua."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, perto da cruz de Jesus, estavam de pé a sua mãe, a irmã da sua mãe, Maria de Cléofas, e Maria Madalena. Jesus, ao ver sua mãe e, ao lado dela, o discípulo que ele amava, disse à mãe: \"Mulher, este é o teu filho\". Depois disse ao discípulo: \"Esta é a tua mãe\". Daquela hora em diante, o discípulo a acolheu consigo. Em seguida, sabendo Jesus que tudo estava consumado, para se cumprir plenamente a Escritura, disse: Tenho sede. Havia ali um vaso cheio de vinagre. Os soldados encheram de vinagre uma esponja e, fixando-a numa vara de hissopo, chegaram-lhe à boca. Havendo Jesus tomado do vinagre, disse: Tudo está consumado. Inclinou a cabeça e rendeu o espírito. Os judeus temeram que os corpos ficassem na cruz durante o sábado, porque já era a Preparação e esse sábado era particularmente solene. Rogaram a Pilatos que se lhes quebrassem as pernas e fossem retirados. Vieram os soldados e quebraram as pernas do primeiro e do outro, que com ele foram crucificados. Chegando, porém, a Jesus, como o vissem já morto, não lhe quebraram as pernas, mas um dos soldados abriu-lhe o lado com uma lança e, imediatamente, saiu sangue e água."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Near the cross of Jesus stood his mother and his mother's sister, Mary the wife of Clopas, and Mary of Magdala. Seeing his mother and the disciple he loved standing near her, Jesus said to his mother, 'Woman, this is your son. Then to the disciple he said, 'This is your mother'. And from that moment the disciple made a place for her in his home. After this, Jesus knew that everything had now been completed, and to fulfil the scripture perfectly he said: 'I am thirsty'. A jar-full of vinegar stood there, so putting a sponge soaked in the vinegar on a hyssop stick they held it up to his mouth. After Jesus had taken the vinegar he said, 'It is accomplished'; and bowing his head he gave up his spirit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "All kneel and pause a moment"
+        }
+       ],
+       [
+        "It was Preparation Day, and to prevent the bodies remaining on the cross during the sabbath - since that sabbath was a day of special solemnity - the Jews asked Pilate to have the legs broken and the bodies taken away. Consequently the soldiers came and broke the legs of the first man who had been crucified with him and then of the other. When they came to Jesus, they found he was already dead, and so instead of breaking his legs one of the soldiers pierced his side with a lance; and immediately there came out blood and water."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, junto a la cruz de Jesús estaban su madre, la hermana de su madre, María, la de Cleofás, y María, la Magdalena."
+       ],
+       [
+        "Jesús, al ver a su madre y junto a ella al discípulo al que amaba, dijo a su madre:"
+       ],
+       [
+        "«Mujer, ahí tienes a tu hijo»."
+       ],
+       [
+        "Luego, dijo al discípulo:"
+       ],
+       [
+        "«Ahí tienes a tu madre»."
+       ],
+       [
+        "Y desde aquella hora, el discípulo la recibió como algo propio."
+       ],
+       [
+        "Después de esto, sabiendo Jesús que ya todo estaba cumplido, para que se cumpliera la Escritura, dijo:"
+       ],
+       [
+        "«Tengo sed»."
+       ],
+       [
+        "Había allí un jarro lleno de vinagre. Y, sujetando una esponja empapada en vinagre a una caña de hisopo, se la acercaron a la boca. Jesús, cuando tomó el vinagre, dijo:"
+       ],
+       [
+        "«Está cumplido»."
+       ],
+       [
+        "E inclinando la cabeza, entregó el espíritu."
+       ],
+       [
+        "Los judíos entonces, como era el día de la Preparación, para que no se quedaran los cuerpos en la cruz el sábado, porque aquel sábado era un día grande, pidieron a Pilato que les quebraran las piernas y que los quitaran. Fueron los soldados, le quebraron las piernas al primero y luego al otro que habían crucificado con él; pero al llegar a Jesús, viendo que ya había muerto, no le quebraron las piernas, sino que uno de los soldados, con la lanza, le traspasó el costado, y al punto salió sangre y agua."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, stavano presso la croce di Gesù sua madre, la sorella di sua madre, Maria madre di Clèopa e Maria di Màgdala."
+       ],
+       [
+        "Gesù allora, vedendo la madre e accanto a lei il discepolo che egli amava, disse alla madre: «Donna, ecco tuo figlio!». Poi disse al discepolo: «Ecco tua madre!». E da quell'ora il discepolo l'accolse con sé."
+       ],
+       [
+        "Dopo questo, Gesù, sapendo che ormai tutto era compiuto, affinché si compisse la Scrittura, disse: «Ho sete». Vi era lì un vaso pieno di aceto; posero perciò una spugna, imbevuta di aceto, in cima a una canna e gliela accostarono alla bocca. Dopo aver preso l'aceto, Gesù disse: «È compiuto!». E, chinato il capo, consegnò lo spirito."
+       ],
+       [
+        "Era il giorno della Parasceve e i Giudei, perché i corpi non rimanessero sulla croce durante il sabato – era infatti un giorno solenne quel sabato –, chiesero a Pilato che fossero spezzate loro le gambe e fossero portati via. Vennero dunque i soldati e spezzarono le gambe all'uno e all'altro che erano stati crocifissi insieme con lui. Venuti però da Gesù, vedendo che era già morto, non gli spezzarono le gambe, ma uno dei soldati con una lancia gli colpì il fianco, e subito ne uscì sangue e acqua."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, près de la croix de Jésus se tenaient sa mère et la sœur de sa mère, Marie, femme de Cléophas, et Marie Madeleine. Jésus, voyant sa mère, et près d'elle le disciple qu'il aimait, dit à sa mère : \" Femme, voici ton fils. \" Puis il dit au disciple : \" Voici ta mère. \" Et à partir de cette heure-là, le disciple la prit chez lui. Après cela, sachant que tout, désormais, était achevé pour que l'Écriture s'accomplisse jusqu'au bout, Jésus dit : \" J'ai soif. \" Il y avait là un récipient plein d'une boisson vinaigrée. On fixa donc une éponge remplie de ce vinaigre à une branche d'hysope, et on l'approcha de sa bouche. Quand il eut pris le vinaigre, Jésus dit : \" Tout est accompli. \" Puis, inclinant la tête, il remit l'esprit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Comme c'était le jour de la Préparation (c'est-à-dire le vendredi), il ne fallait pas laisser les corps en croix durant le sabbat, d'autant plus que ce sabbat était le grand jour de la Pâque. Aussi les Juifs demandèrent à Pilate qu'on enlève les corps après leur avoir brisé les jambes. Les soldats allèrent donc briser les jambes du premier, puis de l'autre homme crucifié avec Jésus. Quand ils arrivèrent à Jésus, voyant qu'il était déjà mort, ils ne lui brisèrent pas les jambes, mais un des soldats avec sa lance lui perça le côté ; et aussitôt, il en sortit du sang et de l'eau."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit standen bei dem Kreuz Jesu seine Mutter und die Schwester seiner Mutter, Maria, die Frau des Klopas, und Maria von Mágdala."
+       ],
+       [
+        "Als Jesus seine Mutter sah und bei ihr den Jünger, den er liebte, sagte er zu seiner Mutter:"
+       ],
+       [
+        "Frau, siehe, dein Sohn!"
+       ],
+       [
+        "Dann sagte er zu dem Jünger:"
+       ],
+       [
+        "Siehe, deine Mutter!"
+       ],
+       [
+        "Und von jener Stunde an nahm sie der Jünger zu sich. Danach, als Jesus wusste, dass nun alles vollbracht war, sagte er, damit sich die Schrift erfüllte: «Mich dürstet». Ein Gefäß mit Essig stand da. Sie steckten einen Schwamm mit Essig auf einen Ysopzweig und hielten ihn an seinen Mund. Als Jesus von dem Essig genommen hatte, sprach er: «Es ist vollbracht!» Und er neigte das Haupt und gab seinen Geist auf."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Weil Rüsttag war und die Körper während des Sabbats nicht am Kreuz bleiben sollten, baten die Juden Pilatus, man möge den Gekreuzigten die Beine zerschlagen und ihre Leichen dann abnehmen; denn dieser Sabbat war ein großer Feiertag. Also kamen die Soldaten und zerschlugen dem Ersten die Beine, dann dem andern, der mit ihm gekreuzigt worden war. Als sie aber zu Jesus kamen und sahen, dass er schon tot war, zerschlugen sie ihm die Beine nicht, sondern einer der Soldaten stieß mit der Lanze in seine Seite, und sogleich floss Blut und Wasser heraus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  }
+ ],
+ "title": {
+  "la": "Feria II post Pentecosten — Beatæ Mariæ Virginis, Ecclesiæ Matris",
+  "pt-BR": "Bem-aventurada Virgem Maria, Mãe da Igreja",
+  "en-US": "Blessed Virgin Mary Mother of the Church",
+  "es": "Bienaventurada Virgen María, Madre de la Iglesia",
+  "it": "Beata Vergine Maria Madre della Chiesa",
+  "fr": "Lundi de Pentecôte — Bienheureuse Vierge Marie, Mère de l'Église",
+  "de": "Selige Jungfrau Maria, Mutter der Kirche"
+ }
+}

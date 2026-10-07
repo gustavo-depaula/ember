@@ -1,0 +1,433 @@
+{
+ "id": "for-the-dead.second-reading.8",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "8"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Absorpta est mors in victoria"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "15, 51-57",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce mystérium vobis dico: Non omnes quidem dormiémus, sed omnes immutábimur, in moménto, in ictu óculi, in novíssima tuba; canet enim, et mórtui suscitabúntur incorrúpti, et nos immutábimur. Opórtet enim corruptíbile hoc indúere incorrúptelam, et mortále indúere immortalitátem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum autem corruptíbile hoc indúerit incorrúptelam, et mortále hoc indúerit immortalitátem, tunc fiet sermo, qui scriptus est: «Absórpta est mors in victória. Ubi est, mors, victória tua? Ubi est, mors, stímulus tuus?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Stímulus autem mortis peccátum est, virtus vero peccáti lex. Deo autem grátias, qui dedit nobis victóriam per Dóminum nostrum Iesum Christum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A morte foi absorvida na vitória"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Epístola do apóstolo São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "15, 51-57",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Vou dar-vos a conhecer um mistério: nem todos morreremos, mas todos seremos transformados. Num momento, num abrir e fechar de olhos, ao som da trombeta final – porque a trombeta soará –, os mortos ressuscitarão incorruptíveis e nós seremos transformados. É necessário que este nosso corpo corruptível se torne incorruptível e que este nosso corpo mortal se torne imortal. Quando este nosso corpo corruptível se tornar incorruptível e este nosso corpo mortal se tornar imortal, então se realizará a palavra da Escritura: «A morte foi absorvida na vitória. Ó morte, onde está a tua vitória? Ó morte, onde está o teu aguilhão?». O aguilhão da morte é o pecado e a força do pecado é a Lei. Mas dêmos graças a Deus, que nos dá a vitória por Nosso Senhor Jesus Cristo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Death is swallowed up in victory"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first letter of St Paul to the Corinthians"
+       ]
+      ],
+      "cite": "15:51-57",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will tell you something that has been secret: that we are not all going to die, but we shall all be changed. This will be instantaneous, in the twinkling of an eye, when the last trumpet sounds. It will sound, and the dead will be raised, imperishable, and we shall be changed as well, because our present perishable nature must put on imperishability and this mortal nature must put on immortality. When this perishable nature has put on imperishability, and when this mortal nature has put on immortality, then the words of scripture will come true: Death is swallowed up in victory. Death, where is your victory? Death, where is your sting? Now the sting of death is sin, and sin gets its power from the Law. So let us thank God for giving us the victory through our Lord Jesus Christ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La muerte ha sido absorbida en la victoria"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "15, 51-57",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Mirad, os voy a declarar un misterio: No todos moriremos, pero todos seremos transformados."
+       ],
+       [
+        "En un instante, en un abrir y cerrar de ojos, cuando suene la última trompeta; porque sonará, y los muertos resucitarán incorruptibles, y nosotros seremos transformados."
+       ],
+       [
+        "Porque es preciso que esto que es corruptible se vista de incorrupción, y que esto que es mortal se vista de inmortalidad."
+       ],
+       [
+        "Y cuando esto corruptible se vista de incorrupción, y esto mortal se vista de inmortalidad, entonces se cumplirá la palabra que está escrita:"
+       ],
+       [
+        "«La muerte ha sido absorbida en la victoria. ¿Dónde está, muerte, tu victoria? ¿Dónde está, muerte, tu aguijón?»."
+       ],
+       [
+        "El aguijón de la muerte es el pecado, y la fuerza del pecado, la ley."
+       ],
+       [
+        "¡Gracias a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La morte è stata ingoiata per la vittoria."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "15, 51-57",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, ecco io vi annunzio un mistero: non tutti, certo, moriremo, ma tutti saremo trasformati, in un istante, in un batter d'occhio, al suono dell'ultima tromba; suonerà infatti la tromba e i morti risorgeranno incorrotti e noi saremo trasformati. È necessario infatti che questo corpo corruttibile si vesta di incorruttibilità e questo corpo mortale si vesta di immortalità. Quando questo corpo corruttibile si sarà vestito d'incorruttibilità e questo corpo mortale d'immortalità, si compirà la parola della Scrittura: \" La morte è stata ingoiata per la vittoria. Dov'è, o morte, la tua vittoria? Dov'è, o morte, il tuo pungiglione? \". Il pungiglione della morte è il peccato e la forza del peccato è la legge. Siano rese grazie a Dio che ci dà la vittoria per mezzo del Signore nostro Gesù Cristo!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "15, 51-57",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, c'est un mystère que je vous annonce : nous ne mourrons pas tous, mais tous nous serons transformés, et cela en un instant, en un clin d'œil, quand, à la fin, la trompette retentira. Car elle retentira, et les morts ressusciteront, impérissables, et nous, nous serons transformés. Il faut en effet que cet être périssable que nous sommes revête ce qui est impérissable ; il faut que cet être mortel revête l'immortalité. Et quand cet être périssable aura revêtu ce qui est impérissable, quand cet être mortel aura revêtu l'immortalité, alors se réalisera la parole de l'Écriture : La mort a été engloutie dans la victoire. Ô Mort, où est ta victoire ? Ô Mort, où est-il, ton aiguillon ? L'aiguillon de la mort, c'est le péché ; ce qui donne force au péché, c'est la Loi. Rendons grâce à Dieu qui nous donne la victoire par notre Seigneur Jésus Christ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "15, 51-57",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Seht, ich enthülle euch ein Geheimnis: Wir werden nicht alle entschlafen, aber wir werden alle verwandelt werden - plötzlich, in einem Augenblick, beim letzten Posaunenschall. Die Posaune wird erschallen, die Toten werden zur Unvergänglichkeit auferweckt, wir aber werden verwandelt werden. Denn dieses Vergängliche muss sich mit Unvergänglichkeit bekleiden und dieses Sterbliche mit Unsterblichkeit."
+       ],
+       [
+        "Wenn sich aber dieses Vergängliche mit Unvergänglichkeit bekleidet und dieses Sterbliche mit Unsterblichkeit, dann erfüllt sich das Wort der Schrift: Verschlungen ist der Tod vom Sieg. Tod, wo ist dein Sieg? Tod, wo ist dein Stachel?"
+       ],
+       [
+        "Der Stachel des Todes aber ist die Sünde, die Kraft der Sünde ist das Gesetz. Gott aber sei Dank, der uns den Sieg geschenkt hat durch Jesus Christus, unseren Herrn."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

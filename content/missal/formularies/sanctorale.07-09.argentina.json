@@ -1,1 +1,295 @@
-{"id":"sanctorale.07-09.argentina","source":"santos/santos_arg#0709","kind":"sanctoral","items":[{"text":{"*":[{"k":"h3","lines":[["En Argentina: Memoria obligatoria"]]}]},"part":"title"},{"text":{"*":[{"k":"h2","lines":[["9 de julio"],["Nuestra Señora de Itatí"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de Argentina...)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Lc 1, 48"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Me llamarán feliz todas las generaciones, porque Dios miró con bondad la pequeñez de su servidora."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Dios misericordioso, que para honrar la pura y limpia Concepción de la Virgen María y como defensa y custodia de tu pueblo suscitaste la advocación de Nuestra Señora de Itatí; concédenos que, bajo su protección, nos veamos libres de todo peligro y seamos conducidos al gozo de la vida eterna. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."]]}]},"part":"collect"},{"text":{"*":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Recibe, Señor, nuestras oraciones y ofrendas y, al invocar la maternal intercesión de la santísima Virgen María, ayúdanos a celebrar dignamente el sacrificio de nuestra redención. Por Jesucristo, nuestro Señor."]]}]},"part":"prayerOverOfferings"},{"slot":"5","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antífona de la comunión"]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Yo soy la Madre del amor hermoso, del temor de Dios, de la ciencia y de la santa esperanza."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración después de la comunión"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Padre santo, alimentados con el sacramento de la salvación, concédenos que quienes veneramos a la Virgen María en su advocación de Nuestra Señora de Itatí, experimentemos el auxilio de tu gracia para crecer en el amor a Jesucristo, tu Hijo. Que vive y reina por los siglos de los siglos."]]}]},"part":"postcommunion"}],"precedence":10,"prefaces":["preface.43","preface.44","preface.45","preface.46","preface.47"],"title":{"*":"Nuestra Señora de Itatí"}}
+{
+ "id": "sanctorale.07-09.argentina",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "En Argentina: Memoria obligatoria"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "9 de julio"
+       ],
+       [
+        "Nuestra Señora de Itatí"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de Argentina...)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 48"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me llamarán feliz todas las generaciones, porque Dios miró con bondad la pequeñez de su servidora."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios misericordioso, que para honrar la pura y limpia Concepción de la Virgen María y como defensa y custodia de tu pueblo suscitaste la advocación de Nuestra Señora de Itatí; concédenos que, bajo su protección, nos veamos libres de todo peligro y seamos conducidos al gozo de la vida eterna. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recibe, Señor, nuestras oraciones y ofrendas y, al invocar la maternal intercesión de la santísima Virgen María, ayúdanos a celebrar dignamente el sacrificio de nuestra redención. Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo soy la Madre del amor hermoso, del temor de Dios, de la ciencia y de la santa esperanza."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre santo, alimentados con el sacramento de la salvación, concédenos que quienes veneramos a la Virgen María en su advocación de Nuestra Señora de Itatí, experimentemos el auxilio de tu gracia para crecer en el amor a Jesucristo, tu Hijo. Que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 10,
+ "prefaces": [
+  "preface.43",
+  "preface.44",
+  "preface.45",
+  "preface.46",
+  "preface.47"
+ ],
+ "title": {
+  "*": "Nuestra Señora de Itatí"
+ }
+}

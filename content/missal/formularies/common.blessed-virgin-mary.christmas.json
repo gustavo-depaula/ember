@@ -1,1 +1,1501 @@
-{"id":"common.blessed-virgin-mary.christmas","source":"comunes_votivas/comunes_bmv#bmvnav","kind":"common","items":[{"slot":"113","text":{"la":[{"k":"h2","lines":[["COMMUNE BEATÆ MARIÆ VIRGINIS"]]},{"k":"h3","lines":[["III. TEMPORE NATIVITATIS"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DA BEM-AVENTURADA VIRGEM MARIA"]]},{"k":"h3","lines":[["III. No Tempo do Natal"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF THE BLESSED VIRGIN MARY"]]},{"k":"h3","lines":[["III. In Christmas Time"]]}],"es":[{"k":"h2","lines":[["COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"]]},{"k":"h3","lines":[["III. Tiempo de Navidad"]]}],"it":[{"k":"h2","lines":[["COMUNE DELLA BEATA VERGINE MARIA"]]},{"k":"h3","lines":[["III: Tempo di Natale"]]}],"fr":[{"k":"h2","lines":[["COMMUN DE LA VIERGE MARIE"]]},{"k":"h3","lines":[["III. Temps de Noël"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE: MARIENMESSEN"]]},{"k":"h3","lines":[["5. In der Weihnachtszeit"]]}]},"part":"title"},{"slot":"114","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]]}]},"part":"entranceAntiphon"},{"slot":"115","text":{"la":[{"k":"p","lines":[["Génuit puérpera Regem, cui nomen ætérnum, et gáudia matris habens cum virginitátis honóre: nec primam símilem visa est, nec habére sequéntem."]]}],"pt-BR":[{"k":"p","lines":[["Maria deu à luz o Rei eterno,"],["uniu as alegrias de mãe à glória da virgindade."],["Jamais houve nem haverá quem a ela se compare."]]}],"en-US":[{"k":"p","lines":[["In childbirth she brought forth the King, whose name is eternal. She keeps a mother's joy with a virgin's honor. None like her was seen before, and none thereafter."]]}],"es":[{"k":"p","lines":[["La Madre engendró al Rey, que tiene un nombre eterno; al gozo de la maternidad se une el honor de la virginidad. Nadie ha sido semejante a ella, ni antes ni después."]]}],"it":[{"k":"p","lines":[["Maria ha dato alla luce il Re dal nome eterno e unisce al gaudio della madre l'onore della verginità: né prima né mai vi sarà donna simile a lei."]]}],"fr":[{"k":"p","lines":[["La jeune fille a enfanté le Roi dont le nom est éternel ;"],["connaissant la joie d'être mère, elle garde l'honneur d'être vierge ;"],["femme à nulle autre pareille, elle restera sans égale."]]}],"de":[{"k":"p","lines":[["Maria, du hast den König geboren, den Herrscher in Ewigkeit. Mutter und Jungfrau, unvergleichlich bist du."]]}]},"part":"entranceAntiphon"},{"slot":"116","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel:"}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou:"}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien:"}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"117","text":{"la":[{"k":"p","lines":[["Virgo Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo."]]}],"pt-BR":[{"k":"p","lines":[["Virgem Mãe de Deus,"],["em vosso ventre se fez homem"],["aquele que não cabe em todo o universo."]]}],"en-US":[{"k":"p","lines":[["O Virgin Mother of God, he whom the whole world cannot contain cloistered himself within your womb, made man for us."]]}],"es":[{"k":"p","lines":[["Virgen Madre de Dios, el que no cabe en el universo, al hacerse hombre, se encerró en tu seno."]]}],"it":[{"k":"p","lines":[["Vergine Madre di Dio, colui che il mondo non può contenere si chiuse nel tuo grembo, facendosi uomo."]]}],"fr":[{"k":"p","lines":[["Vierge Marie, Mère de Dieu,"],["celui que l'univers entier ne peut contenir,"],["tu l'as reçu dans tes entrailles quand il s'est fait homme."]]}],"de":[{"k":"p","lines":[["Jungfrau und Mutter, Gott, den die ganze Welt nicht fasst, er schloss sich ein als Kind in deinen Schoß."]]}]},"part":"entranceAntiphon"},{"slot":"118","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"119","text":{"la":[{"k":"p","lines":[["Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti, tríbue, quǽsumus, ut ipsam pro nobis intercédere sentiámus, per quam merúimus Fílium tuum auctórem vitæ suscípere. Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que pela virgindade fecunda de Maria,"],["destes à humanidade o dom da salvação eterna,"],["dai-nos contar sempre com a intercessão"],["daquela que nos trouxe o autor da vida, Jesus Cristo."],["Ele, que é Deus, e convosco vive e reina,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who through the fruitful virginity of Blessed Mary bestowed on the human race the grace of eternal salvation, grant, we pray, that we may experience the intercession of her, through whom we were found worthy to receive the author of life, our Lord Jesus Christ, your Son. Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que por la maternidad virginal de santa María"],["entregaste a los hombres los bienes de la salvación eterna,"],["concédenos experimentar la intercesión de aquella"],["por quien hemos merecido recibir al autor de la vida,"],["tu Hijo, nuestro Señor Jesucristo."],["Él, que vive y reina contigo."]]}],"it":[{"k":"p","lines":[["O Dio, che nella verginità feconda di Maria hai donato agli uomini i beni della salvezza eterna, fa' che sperimentiamo la sua intercessione, poiché per mezzo di lei abbiamo ricevuto l'autore della vita, il nostro Signore Gesù Cristo, tuo Figlio. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["par la virginité féconde de la bienheureuse Marie,"],["tu as offert au genre humain les bienfaits du salut éternel ;"],["accorde-nous d'éprouver qu'intercède en notre faveur"],["celle qui nous permit d'accueillir l'auteur de la vie,"],["Jésus Christ, ton Fils, notre Seigneur."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, durch die Mutterschaft der seligen Jungfrau Maria hast du der Menschheit das ewige Heil geschenkt. Komm uns zu Hilfe auf die Fürsprache deiner demütigen Magd, die uns den Urheber des Lebens geboren hat, Jesus Christus, deinen Sohn, unseren Herrn und Gott, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"120","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel:"}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou:"}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien:"}]]}]},"part":"collect","role":"rubric"},{"slot":"121","text":{"la":[{"k":"p","lines":[["Deus, cuius Verbum ab ætérno génitum ex Vírginis útero procédere voluísti, concéde, quǽsumus, ut, beáta María intercedénte, splendóre præséntiæ suæ nostras illúminet ténebras, ac de sua plenitúdine donet nobis lætítiam et pacem. Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, quisestes que o vosso Verbo,"],["gerado desde a eternidade, nascesse do ventre da Virgem;"],["nós vos pedimos que ele, por intercessão da Bem-aventurada Maria,"],["ilumine nossas trevas com o esplendor de sua presença"],["e, da sua plenitude, nos dê alegria e paz."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who willed that your Word, begotten from all eternity, should come forth from the womb of the Blessed Virgin Mary, grant, we pray, through her intercession, that he may light up our darkness with the splendor of his presence, and from his fullness give us joy and peace. Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["tú quisiste que naciera del seno de una Virgen"],["el Verbo engendrado por ti desde la eternidad;"],["concédenos, por intercesión de santa María,"],["que ilumine nuestras tinieblas"],["con el resplandor de su presencia"],["y que, de su plenitud, recibamos la alegría y la paz."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, tu hai voluto che il Verbo generato dall'eternità nascesse dal grembo della Vergine: fa' che per intercessione di Maria egli illumini le nostre tenebre con lo splendore della sua presenza e dalla sua pienezza doni a noi letizia e pace. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as voulu que le Verbe engendré de toute éternité"],["naisse du sein de la Vierge ;"],["par l'intercession de la bienheureuse Marie, nous te prions :"],["fais que le Verbe illumine nos ténèbres"],["par la splendeur de sa présence,"],["et nous donne, de sa plénitude, la joie et la paix."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}]},"part":"collect"},{"slot":"122","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"123","text":{"la":[{"k":"p","lines":[["Beáta témpora celebrántes, quæ per temporálem Unigéniti tui nativitátem et partum Maríæ Vírginis consecrásti, hæc oblátio, quǽsumus, Dómine, nos sanctíficet, atque in illo tríbuat renásci. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor,"],["ao celebrarmos os dias felizes que consagrastes"],["com o nascimento, no tempo, do vosso Unigênito"],["e com o parto da Virgem Maria,"],["nós vos pedimos que esta oblação nos santifique"],["e nos faça renascer em Cristo."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["As we celebrate the blessed days which you made sacred by the Nativity of your Only Begotten Son, born into time as the offspring of the Virgin Mary, we pray, O Lord, that this oblation may sanctify us, and may grant us new birth in him. Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Al celebrar, Señor, los días santos consagrados"],["por el nacimiento de tu Unigénito en el tiempo"],["y por el parto de la Virgen María,"],["te pedimos que esta ofrenda"],["nos santifique y nos conceda renacer en él."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Questa offerta che ti presentiamo, o Padre, nella celebrazione del tempo di grazia che hai consacrato con il parto della Vergine Maria e con la nascita al mondo del tuo Figlio unigenito, ci santifichi e ci faccia in lui rinascere. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["En célébrant les jours bénis que tu as consacrés"],["par la naissance, dans le cours du temps,"],["de ton Fils unique"],["et son enfantement par la Vierge Marie,"],["nous te prions, Seigneur :"],["que cette offrande nous sanctifie"],["et nous donne de renaître en lui,"],["qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, nimm unsere Gaben an und erleuchte uns mit deinem Heiligen Geist, damit wir nach dem Beispiel der seligen Jungfrau Maria dein Wort in unserem Herzen erwägen und bewahren. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"125","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Lc 11, 27"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Lc 11, 27"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Lk 11: 27"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Jn 1, 14"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Lc 11, 27"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Lc 11, 27"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 1, 14"}]},"part":"communionAntiphon"},{"slot":"126","text":{"la":[{"k":"p","lines":[["Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium."]]}],"pt-BR":[{"k":"p","lines":[["Feliz o ventre da Virgem Maria"],["que trouxe o Filho do Pai eterno."]]}],"en-US":[{"k":"p","lines":[["Blessed is the womb of the Virgin Mary, which bore the Son of the eternal Father."]]}],"es":[{"k":"p","lines":[["Bienaventurado el vientre de la Virgen María, porque llevó al Hijo del eterno Padre."]]}],"it":[{"k":"p","lines":[["Beato il grembo della Vergine Maria, che ha portato il Figlio dell'eterno Padre."]]}],"fr":[{"k":"p","lines":[["Heureuse la Vierge Marie,"],["qui a porté dans son sein le Fils du Père éternel."]]}],"de":[{"k":"p","lines":[["Das Wort ist Fleisch geworden und hat unter uns gewohnt, voll Gnade und Wahrheit."]]}]},"part":"communionAntiphon"},{"slot":"127","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"128","text":{"la":[{"k":"p","lines":[["Incarnáti Verbi tui Córpore et Sánguine refécti, quǽsumus, Dómine, ut hæc divína mystéria, quæ in commemoratióne beátæ Vírginis Maríæ lætánter accépimus, eiúsdem Fílii tui divinitátis partícipes nos semper effíciant. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Saciados pelo Corpo e Sangue do vosso Verbo encarnado,"],["nós vos pedimos, Senhor,"],["que estes divinos mistérios, recebidos com alegria"],["na memória da Bem-aventurada Virgem Maria,"],["sempre nos tornem participantes da divindade de vosso Filho."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Renewed by the Body and Blood of your incarnate Word, we pray, O Lord, that these divine mysteries, which we have joyfully received as we commemorate the Blessed Virgin Mary, may make us sharers for eternity in the divinity of your Son. Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Alimentados por el Cuerpo y la Sangre"],["de tu Verbo encarnado,"],["te pedimos, Señor,"],["que estos divinos misterios,"],["recibidos con gozo en la memoria de la santísima Virgen María,"],["nos hagan siempre partícipes de la divinidad de tu Hijo."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Nutriti del Corpo e Sangue del tuo Verbo fatto uomo, ti preghiamo, o Padre: questi divini misteri, ricevuti con gioia nella memoria della beata Vergine Maria, ci rendano sempre partecipi della divinità del tuo Figlio. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Réconfortés par le Corps et le Sang de ton Verbe incarné,"],["nous t'en prions, Seigneur :"],["que ces mystères divins reçus dans la joie,"],["en célébrant la mémoire de la bienheureuse Vierge Marie,"],["nous fassent toujours participer à la divinité de ton Fils."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Menschenfreundlicher Gott, in Freude haben wir am Fest (Gedenktag) der seligen Jungfrau Maria (beim Gedenken an die selige Jungfrau Maria) den Leib und das Blut deines Sohnes empfangen, der für uns Mensch geworden ist. Lass uns durch diese geheimnisvollen Gaben seiner Gottheit teilhaftig werden. Darum bitten wir durch ihn, Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.43","preface.44","preface.45","preface.46","preface.47"],"title":{"la":"COMMUNE BEATÆ MARIÆ VIRGINIS","pt-BR":"COMUM DA BEM-AVENTURADA VIRGEM MARIA","en-US":"COMMON OF THE BLESSED VIRGIN MARY","es":"COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA","it":"COMUNE DELLA BEATA VERGINE MARIA","fr":"COMMUN DE LA VIERGE MARIE","de":"COMMUNE-TEXTE: MARIENMESSEN"},"subtitle":{"la":"III. TEMPORE NATIVITATIS","pt-BR":"III. No Tempo do Natal","en-US":"III. In Christmas Time","es":"III. Tiempo de Navidad","it":"III: Tempo di Natale","fr":"III. Temps de Noël","de":"5. In der Weihnachtszeit"}}
+{
+ "id": "common.blessed-virgin-mary.christmas",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE BEATÆ MARIÆ VIRGINIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. TEMPORE NATIVITATIS"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DA BEM-AVENTURADA VIRGEM MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. No Tempo do Natal"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF THE BLESSED VIRGIN MARY"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. In Christmas Time"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. Tiempo de Navidad"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DELLA BEATA VERGINE MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III: Tempo di Natale"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DE LA VIERGE MARIE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "III. Temps de Noël"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE: MARIENMESSEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "5. In der Weihnachtszeit"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Génuit puérpera Regem, cui nomen ætérnum, et gáudia matris habens cum virginitátis honóre: nec primam símilem visa est, nec habére sequéntem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Maria deu à luz o Rei eterno,"
+       ],
+       [
+        "uniu as alegrias de mãe à glória da virgindade."
+       ],
+       [
+        "Jamais houve nem haverá quem a ela se compare."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In childbirth she brought forth the King, whose name is eternal. She keeps a mother's joy with a virgin's honor. None like her was seen before, and none thereafter."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La Madre engendró al Rey, que tiene un nombre eterno; al gozo de la maternidad se une el honor de la virginidad. Nadie ha sido semejante a ella, ni antes ni después."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Maria ha dato alla luce il Re dal nome eterno e unisce al gaudio della madre l'onore della verginità: né prima né mai vi sarà donna simile a lei."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La jeune fille a enfanté le Roi dont le nom est éternel ;"
+       ],
+       [
+        "connaissant la joie d'être mère, elle garde l'honneur d'être vierge ;"
+       ],
+       [
+        "femme à nulle autre pareille, elle restera sans égale."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Maria, du hast den König geboren, den Herrscher in Ewigkeit. Mutter und Jungfrau, unvergleichlich bist du."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Virgo Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Virgem Mãe de Deus,"
+       ],
+       [
+        "em vosso ventre se fez homem"
+       ],
+       [
+        "aquele que não cabe em todo o universo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Virgin Mother of God, he whom the whole world cannot contain cloistered himself within your womb, made man for us."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Virgen Madre de Dios, el que no cabe en el universo, al hacerse hombre, se encerró en tu seno."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vergine Madre di Dio, colui che il mondo non può contenere si chiuse nel tuo grembo, facendosi uomo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vierge Marie, Mère de Dieu,"
+       ],
+       [
+        "celui que l'univers entier ne peut contenir,"
+       ],
+       [
+        "tu l'as reçu dans tes entrailles quand il s'est fait homme."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jungfrau und Mutter, Gott, den die ganze Welt nicht fasst, er schloss sich ein als Kind in deinen Schoß."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti, tríbue, quǽsumus, ut ipsam pro nobis intercédere sentiámus, per quam merúimus Fílium tuum auctórem vitæ suscípere. Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que pela virgindade fecunda de Maria,"
+       ],
+       [
+        "destes à humanidade o dom da salvação eterna,"
+       ],
+       [
+        "dai-nos contar sempre com a intercessão"
+       ],
+       [
+        "daquela que nos trouxe o autor da vida, Jesus Cristo."
+       ],
+       [
+        "Ele, que é Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who through the fruitful virginity of Blessed Mary bestowed on the human race the grace of eternal salvation, grant, we pray, that we may experience the intercession of her, through whom we were found worthy to receive the author of life, our Lord Jesus Christ, your Son. Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que por la maternidad virginal de santa María"
+       ],
+       [
+        "entregaste a los hombres los bienes de la salvación eterna,"
+       ],
+       [
+        "concédenos experimentar la intercesión de aquella"
+       ],
+       [
+        "por quien hemos merecido recibir al autor de la vida,"
+       ],
+       [
+        "tu Hijo, nuestro Señor Jesucristo."
+       ],
+       [
+        "Él, que vive y reina contigo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che nella verginità feconda di Maria hai donato agli uomini i beni della salvezza eterna, fa' che sperimentiamo la sua intercessione, poiché per mezzo di lei abbiamo ricevuto l'autore della vita, il nostro Signore Gesù Cristo, tuo Figlio. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "par la virginité féconde de la bienheureuse Marie,"
+       ],
+       [
+        "tu as offert au genre humain les bienfaits du salut éternel ;"
+       ],
+       [
+        "accorde-nous d'éprouver qu'intercède en notre faveur"
+       ],
+       [
+        "celle qui nous permit d'accueillir l'auteur de la vie,"
+       ],
+       [
+        "Jésus Christ, ton Fils, notre Seigneur."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, durch die Mutterschaft der seligen Jungfrau Maria hast du der Menschheit das ewige Heil geschenkt. Komm uns zu Hilfe auf die Fürsprache deiner demütigen Magd, die uns den Urheber des Lebens geboren hat, Jesus Christus, deinen Sohn, unseren Herrn und Gott, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, cuius Verbum ab ætérno génitum ex Vírginis útero procédere voluísti, concéde, quǽsumus, ut, beáta María intercedénte, splendóre præséntiæ suæ nostras illúminet ténebras, ac de sua plenitúdine donet nobis lætítiam et pacem. Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, quisestes que o vosso Verbo,"
+       ],
+       [
+        "gerado desde a eternidade, nascesse do ventre da Virgem;"
+       ],
+       [
+        "nós vos pedimos que ele, por intercessão da Bem-aventurada Maria,"
+       ],
+       [
+        "ilumine nossas trevas com o esplendor de sua presença"
+       ],
+       [
+        "e, da sua plenitude, nos dê alegria e paz."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who willed that your Word, begotten from all eternity, should come forth from the womb of the Blessed Virgin Mary, grant, we pray, through her intercession, that he may light up our darkness with the splendor of his presence, and from his fullness give us joy and peace. Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "tú quisiste que naciera del seno de una Virgen"
+       ],
+       [
+        "el Verbo engendrado por ti desde la eternidad;"
+       ],
+       [
+        "concédenos, por intercesión de santa María,"
+       ],
+       [
+        "que ilumine nuestras tinieblas"
+       ],
+       [
+        "con el resplandor de su presencia"
+       ],
+       [
+        "y que, de su plenitud, recibamos la alegría y la paz."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, tu hai voluto che il Verbo generato dall'eternità nascesse dal grembo della Vergine: fa' che per intercessione di Maria egli illumini le nostre tenebre con lo splendore della sua presenza e dalla sua pienezza doni a noi letizia e pace. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as voulu que le Verbe engendré de toute éternité"
+       ],
+       [
+        "naisse du sein de la Vierge ;"
+       ],
+       [
+        "par l'intercession de la bienheureuse Marie, nous te prions :"
+       ],
+       [
+        "fais que le Verbe illumine nos ténèbres"
+       ],
+       [
+        "par la splendeur de sa présence,"
+       ],
+       [
+        "et nous donne, de sa plénitude, la joie et la paix."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáta témpora celebrántes, quæ per temporálem Unigéniti tui nativitátem et partum Maríæ Vírginis consecrásti, hæc oblátio, quǽsumus, Dómine, nos sanctíficet, atque in illo tríbuat renásci. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor,"
+       ],
+       [
+        "ao celebrarmos os dias felizes que consagrastes"
+       ],
+       [
+        "com o nascimento, no tempo, do vosso Unigênito"
+       ],
+       [
+        "e com o parto da Virgem Maria,"
+       ],
+       [
+        "nós vos pedimos que esta oblação nos santifique"
+       ],
+       [
+        "e nos faça renascer em Cristo."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As we celebrate the blessed days which you made sacred by the Nativity of your Only Begotten Son, born into time as the offspring of the Virgin Mary, we pray, O Lord, that this oblation may sanctify us, and may grant us new birth in him. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al celebrar, Señor, los días santos consagrados"
+       ],
+       [
+        "por el nacimiento de tu Unigénito en el tiempo"
+       ],
+       [
+        "y por el parto de la Virgen María,"
+       ],
+       [
+        "te pedimos que esta ofrenda"
+       ],
+       [
+        "nos santifique y nos conceda renacer en él."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questa offerta che ti presentiamo, o Padre, nella celebrazione del tempo di grazia che hai consacrato con il parto della Vergine Maria e con la nascita al mondo del tuo Figlio unigenito, ci santifichi e ci faccia in lui rinascere. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En célébrant les jours bénis que tu as consacrés"
+       ],
+       [
+        "par la naissance, dans le cours du temps,"
+       ],
+       [
+        "de ton Fils unique"
+       ],
+       [
+        "et son enfantement par la Vierge Marie,"
+       ],
+       [
+        "nous te prions, Seigneur :"
+       ],
+       [
+        "que cette offrande nous sanctifie"
+       ],
+       [
+        "et nous donne de renaître en lui,"
+       ],
+       [
+        "qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, nimm unsere Gaben an und erleuchte uns mit deinem Heiligen Geist, damit wir nach dem Beispiel der seligen Jungfrau Maria dein Wort in unserem Herzen erwägen und bewahren. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Lc 11, 27"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Lc 11, 27"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Lk 11: 27"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Jn 1, 14"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Lc 11, 27"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Lc 11, 27"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 1, 14"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Feliz o ventre da Virgem Maria"
+       ],
+       [
+        "que trouxe o Filho do Pai eterno."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Blessed is the womb of the Virgin Mary, which bore the Son of the eternal Father."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bienaventurado el vientre de la Virgen María, porque llevó al Hijo del eterno Padre."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beato il grembo della Vergine Maria, che ha portato il Figlio dell'eterno Padre."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureuse la Vierge Marie,"
+       ],
+       [
+        "qui a porté dans son sein le Fils du Père éternel."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Das Wort ist Fleisch geworden und hat unter uns gewohnt, voll Gnade und Wahrheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Incarnáti Verbi tui Córpore et Sánguine refécti, quǽsumus, Dómine, ut hæc divína mystéria, quæ in commemoratióne beátæ Vírginis Maríæ lætánter accépimus, eiúsdem Fílii tui divinitátis partícipes nos semper effíciant. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Saciados pelo Corpo e Sangue do vosso Verbo encarnado,"
+       ],
+       [
+        "nós vos pedimos, Senhor,"
+       ],
+       [
+        "que estes divinos mistérios, recebidos com alegria"
+       ],
+       [
+        "na memória da Bem-aventurada Virgem Maria,"
+       ],
+       [
+        "sempre nos tornem participantes da divindade de vosso Filho."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Renewed by the Body and Blood of your incarnate Word, we pray, O Lord, that these divine mysteries, which we have joyfully received as we commemorate the Blessed Virgin Mary, may make us sharers for eternity in the divinity of your Son. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alimentados por el Cuerpo y la Sangre"
+       ],
+       [
+        "de tu Verbo encarnado,"
+       ],
+       [
+        "te pedimos, Señor,"
+       ],
+       [
+        "que estos divinos misterios,"
+       ],
+       [
+        "recibidos con gozo en la memoria de la santísima Virgen María,"
+       ],
+       [
+        "nos hagan siempre partícipes de la divinidad de tu Hijo."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nutriti del Corpo e Sangue del tuo Verbo fatto uomo, ti preghiamo, o Padre: questi divini misteri, ricevuti con gioia nella memoria della beata Vergine Maria, ci rendano sempre partecipi della divinità del tuo Figlio. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Réconfortés par le Corps et le Sang de ton Verbe incarné,"
+       ],
+       [
+        "nous t'en prions, Seigneur :"
+       ],
+       [
+        "que ces mystères divins reçus dans la joie,"
+       ],
+       [
+        "en célébrant la mémoire de la bienheureuse Vierge Marie,"
+       ],
+       [
+        "nous fassent toujours participer à la divinité de ton Fils."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Menschenfreundlicher Gott, in Freude haben wir am Fest (Gedenktag) der seligen Jungfrau Maria (beim Gedenken an die selige Jungfrau Maria) den Leib und das Blut deines Sohnes empfangen, der für uns Mensch geworden ist. Lass uns durch diese geheimnisvollen Gaben seiner Gottheit teilhaftig werden. Darum bitten wir durch ihn, Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.43",
+  "preface.44",
+  "preface.45",
+  "preface.46",
+  "preface.47"
+ ],
+ "title": {
+  "la": "COMMUNE BEATÆ MARIÆ VIRGINIS",
+  "pt-BR": "COMUM DA BEM-AVENTURADA VIRGEM MARIA",
+  "en-US": "COMMON OF THE BLESSED VIRGIN MARY",
+  "es": "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA",
+  "it": "COMUNE DELLA BEATA VERGINE MARIA",
+  "fr": "COMMUN DE LA VIERGE MARIE",
+  "de": "COMMUNE-TEXTE: MARIENMESSEN"
+ },
+ "subtitle": {
+  "la": "III. TEMPORE NATIVITATIS",
+  "pt-BR": "III. No Tempo do Natal",
+  "en-US": "III. In Christmas Time",
+  "es": "III. Tiempo de Navidad",
+  "it": "III: Tempo di Natale",
+  "fr": "III. Temps de Noël",
+  "de": "5. In der Weihnachtszeit"
+ }
+}

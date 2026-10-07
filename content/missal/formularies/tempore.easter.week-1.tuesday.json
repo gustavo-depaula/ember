@@ -1,1 +1,1316 @@
-{"id":"tempore.easter.week-1.tuesday","source":"tiempos/tiempos_pascua#P012","kind":"tempore","items":[{"slot":"34","text":{"la":[{"k":"h2","lines":[["Tempus Paschale"],["FERIA III"],["INFRA OCTAVAM PASCHÆ"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo Pascal"],["TERÇA-FEIRA"],["NA OITAVA DA PÁSCOA"]]}],"en-US":[{"k":"h2","lines":[["Easter Season"],["TUESDAY WITHIN THE OCTAVE OF EASTER"]]}],"es":[{"k":"h2","lines":[["Tiempo Pascual"],["MARTES"],["DE LA OCTAVA DE PASCUA"]]}],"it":[{"k":"h2","lines":[["OTTAVA DI PASQUA"],["Martedì"],["fra l'ottava di Pasqua"]]}],"fr":[{"k":"h2","lines":[["Temps pascal"],["MARDI DE LA 1e SEMAINE"]]}],"de":[{"k":"h2","lines":[["DIENSTAG"],["der Osteroktav"]]}]},"part":"title"},{"slot":"35","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Sir 15, 3-4"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Eclo 15, 3-4"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Sir 15: 3-4"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sir 15, 3-4"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Sir 15, 3-4"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Sir 15, 3-4"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Sir 15, 3-4"}]},"part":"entranceAntiphon"},{"slot":"36","text":{"la":[{"k":"p","lines":[["Aqua sapiéntiæ potávit eos;"],["firmábitur in illis, et non flectétur,"],["exaltábit eos in ætérnum, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor deu-lhes a água da sabedoria,"],["tornou-se a sua força, e não vacilam;"],["vai exaltá-los para sempre, aleluia!"]]}],"en-US":[{"k":"p","lines":[["He gave them the water of wisdom to drink;"],["it will be made strong in them and will not be moved; it will raise them up for ever, alleluia."]]}],"es":[{"k":"p","lines":[["Les dio a beber agua de sabiduría; si se apoyan en ella, no vacilarán; los ensalzará para siempre. Aleluya."]]}],"it":[{"k":"p","lines":[["L'acqua della sapienza li ha dissetati, li ha resi saldi e non verrà mai meno: a loro sarà data gloria eterna. Alleluia."]]}],"fr":[{"k":"p","lines":[["L'eau de la sagesse les a désaltérés ;"],["en eux la sagesse s'affermira et ne fléchira pas,"],["elle les exaltera pour toujours, alléluia."]]}],"de":[{"k":"p","lines":[["Gott hat euch getränkt aus den Quellen der Weisheit. In seiner Gnade werdet ihr stark. Er wird euch krönen mit ewiger Herrlichkeit. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"37","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}]},"part":"gloria"},{"slot":"38","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"39","text":{"la":[{"k":"p","lines":[["Deus, qui paschália nobis remédia contulísti,"],["pópulum tuum cælésti dono proséquere,"],["ut, perféctam libertátem assecútus,"],["in cælis gáudeat, unde nunc in terris exsúltat."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que nos concedestes a salvação pascal,"],["acompanhai o vosso povo com os dons celestiais,"],["para que, tendo conseguido a perfeita liberdade,"],["possa alegrar-se no céu,"],["como agora exulta na terra."],["Por nosso Senhor Jesus Cristo, vosso Filho, que -é Deus,"],["e convosco vive e reina, na unidade do Espírito $anta,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who have bestowed on us paschal remedies, endow your people with heavenly gifts,"],["so that, possessed of perfect freedom,"],["they may rejoice in heaven"],["over what gladdens them now on earth."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que nos entregaste los auxilios pascuales,"],["continúa favoreciendo a tu pueblo con estos dones celestes,"],["para que, habiendo alcanzado la libertad verdadera,"],["pueda gozar en el cielo de la alegría"],["que ya ha empezado a gustar en la tierra."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che ci hai donato i sacramenti pasquali, assisti questo popolo con la tua grazia, perché, raggiunta la libertà perfetta, possa godere in cielo quella gioia che ora pregusta sulla terra. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu nous guéris par les célébrations pascales ;"],["poursuis toujours l'œuvre de ta grâce :"],["que ton peuple trouve une liberté parfaite,"],["et parvienne à la joie du ciel"],["dont il exulte déjà sur la terre."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du hast dein Volk durch die österlichen Geheimnisse befreit und gestärkt. Bleibe bei uns mit deiner Gnade und führe uns zur vollkommenen Freiheit, damit der Osterjubel, der uns heute erfüllt, sich in der Freude des Himmels vollendet. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"40","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"41","text":{"la":[{"k":"p","lines":[["Oblatiónes famíliæ tuæ,"],["quǽsumus, Dómine, súscipe miserátus,"],["ut, sub tuæ protectiónis auxílio,"],["et colláta non perdat, et ad ætérna dona pervéniat."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, aceitai compassivo as oferendas da vossa família"],["e concedei que, sob o auxílio de vossa proteção,"],["não percamos os dons que nos destes"],["e alcancemos os bens eternos."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Accept in compassion, Lord, we pray,"],["the offerings of your family,"],["that under your protective care"],["they may never lose what they have received, but attain the gifts that are eternal."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Acoge, Señor, con bondad, las ofrendas de tu familia, para que, bajo tu protección, no pierda los dones ya recibidos y alcance los eternos."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, Padre misericordioso, le offerte di questa famiglia, perché con l'aiuto della tua protezione custodisca i doni ricevuti e raggiunga quelli eterni. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Reçois avec bonté les offrandes de ta famille,"],["nous t'en prions, Seigneur,"],["garde-la sous ta protection :"],["qu'elle ne perde aucun des bienfaits déjà reçus,"],["et parvienne aux dons éternels."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, nimm unsere Gaben an und gewähre uns deinen Schutz, damit wir die Taufgnade, die wir empfangen haben, nicht verlieren und zur ewigen Freude gelangen, die du für uns bereitet hast. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"43","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Col 3, 1-2"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cl 3, 1-2"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Col 3: 1-2"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Col 3, 1-2"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Col 3, 1-2"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Col 3, 1-2"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Kol 3, 1-2"}]},"part":"communionAntiphon"},{"slot":"44","text":{"la":[{"k":"p","lines":[["Si consurrexístis cum Christo,"],["quæ sursum sunt quǽrite,"],["ubi Christus est in déxtera Dei sedens;"],["quæ sursum sunt sápite, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Se ressuscitastes com Cristo,"],["esforçai-vos por alcançar as coisas do alto,"],["onde está Cristo, sentado à direita de Deus;"],["aspirai às coisas celestes, aleluia."]]}],"en-US":[{"k":"p","lines":[["If you have risen with Christ, seek the things that are above, where Christ is seated at the right hand of God;"],["mind the things that are above, alleluia."]]}],"es":[{"k":"p","lines":[["Si habéis resucitado con Cristo, buscad los bienes de allá arriba, donde"],["Cristo está sentado a la derecha de Dios; aspirad a los bienes de arriba."],["Aleluya."]]}],"it":[{"k":"p","lines":[["Se siete risorti con Cristo, cercate le cose di lassù, dove Cristo siede alla destra di Dio; gustate le cose di lassù. Alleluia."],[{"m":"rubric","t":"Oppure:"}],["Maria di Magdala andò ad annunciare ai discepoli: «Ho visto il Signore!». Alleluia."]],"cite":"Gv 20, 18"}],"fr":[{"k":"p","lines":[["Ressuscités avec le Christ,"],["recherchez les réalités d'en haut :"],["c'est là qu'est le Christ, assis à la droite de Dieu ;"],["pensez aux réalités d'en haut, alléluia."]]}],"de":[{"k":"p","lines":[["Ihr seid mit Christus auferstanden; darum strebt nach dem, was im Himmel ist, wo Christus zur Rechten Gottes sitzt. Richtet euren Sinn auf das Himmlische und nicht auf das Irdische. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"45","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"46","text":{"la":[{"k":"p","lines":[["Exáudi nos, omnípotens Deus, et famíliæ tuæ corda,"],["cui perféctam baptísmatis grátiam contulísti,"],["ad promeréndam beatitúdinem aptes ætérnam. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ouvi-nos, ó Deus todo-poderoso,"],["e preparai os corações de vossos filhos"],["que enriquecestes com a graça do Batismo,"],["para merecerem a felicidade eterna."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Hear us, almighty God,"],["and, as you have bestowed on your family the perfect grace of Baptism,"],["so prepare their hearts"],["for the reward of eternal happiness."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Escúchanos, Dios todopoderoso,"],["y, para merecer la felicidad eterna,"],["prepara los corazones de tu familia"],["a la que otorgaste la gracia incomparable del bautismo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Esaudisci, Dio onnipotente, le nostre preghiere e guida alla beatitudine eterna questa tua famiglia che hai ricolmato della grazia del Battesimo. Per Cristo nostro Signore."],[{"m":"rubric","t":"Congedo come nel giorno di Pasqua."}]]}],"fr":[{"k":"p","lines":[["Écoute notre prière, Dieu tout-puissant :"],["tu as donné à ta famille"],["la grâce incomparable du baptême ;"],["dispose nos cœurs à recevoir"],["le bonheur éternel."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, in der Taufe hast du uns das Heil geschenkt. Mache unsere Herzen würdig, die Freude des kommenden Heils zu erlangen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":2,"prefaces":["preface.16"],"title":{"la":"Tempus Paschale — FERIA III — INFRA OCTAVAM PASCHÆ","pt-BR":"Tempo Pascal — TERÇA-FEIRA — NA OITAVA DA PÁSCOA","en-US":"Easter Season — TUESDAY WITHIN THE OCTAVE OF EASTER","es":"Tiempo Pascual — MARTES — DE LA OCTAVA DE PASCUA","it":"OTTAVA DI PASQUA — Martedì — fra l'ottava di Pasqua","fr":"Temps pascal — MARDI DE LA 1e SEMAINE","de":"DIENSTAG — der Osteroktav"}}
+{
+ "id": "tempore.easter.week-1.tuesday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Paschale"
+       ],
+       [
+        "FERIA III"
+       ],
+       [
+        "INFRA OCTAVAM PASCHÆ"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pascal"
+       ],
+       [
+        "TERÇA-FEIRA"
+       ],
+       [
+        "NA OITAVA DA PÁSCOA"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Easter Season"
+       ],
+       [
+        "TUESDAY WITHIN THE OCTAVE OF EASTER"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo Pascual"
+       ],
+       [
+        "MARTES"
+       ],
+       [
+        "DE LA OCTAVA DE PASCUA"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "OTTAVA DI PASQUA"
+       ],
+       [
+        "Martedì"
+       ],
+       [
+        "fra l'ottava di Pasqua"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps pascal"
+       ],
+       [
+        "MARDI DE LA 1e SEMAINE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DIENSTAG"
+       ],
+       [
+        "der Osteroktav"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Sir 15, 3-4"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Eclo 15, 3-4"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Sir 15: 3-4"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sir 15, 3-4"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Sir 15, 3-4"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Sir 15, 3-4"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Sir 15, 3-4"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aqua sapiéntiæ potávit eos;"
+       ],
+       [
+        "firmábitur in illis, et non flectétur,"
+       ],
+       [
+        "exaltábit eos in ætérnum, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor deu-lhes a água da sabedoria,"
+       ],
+       [
+        "tornou-se a sua força, e não vacilam;"
+       ],
+       [
+        "vai exaltá-los para sempre, aleluia!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He gave them the water of wisdom to drink;"
+       ],
+       [
+        "it will be made strong in them and will not be moved; it will raise them up for ever, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les dio a beber agua de sabiduría; si se apoyan en ella, no vacilarán; los ensalzará para siempre. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'acqua della sapienza li ha dissetati, li ha resi saldi e non verrà mai meno: a loro sarà data gloria eterna. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'eau de la sagesse les a désaltérés ;"
+       ],
+       [
+        "en eux la sagesse s'affermira et ne fléchira pas,"
+       ],
+       [
+        "elle les exaltera pour toujours, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott hat euch getränkt aus den Quellen der Weisheit. In seiner Gnade werdet ihr stark. Er wird euch krönen mit ewiger Herrlichkeit. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui paschália nobis remédia contulísti,"
+       ],
+       [
+        "pópulum tuum cælésti dono proséquere,"
+       ],
+       [
+        "ut, perféctam libertátem assecútus,"
+       ],
+       [
+        "in cælis gáudeat, unde nunc in terris exsúltat."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que nos concedestes a salvação pascal,"
+       ],
+       [
+        "acompanhai o vosso povo com os dons celestiais,"
+       ],
+       [
+        "para que, tendo conseguido a perfeita liberdade,"
+       ],
+       [
+        "possa alegrar-se no céu,"
+       ],
+       [
+        "como agora exulta na terra."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que -é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito $anta,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who have bestowed on us paschal remedies, endow your people with heavenly gifts,"
+       ],
+       [
+        "so that, possessed of perfect freedom,"
+       ],
+       [
+        "they may rejoice in heaven"
+       ],
+       [
+        "over what gladdens them now on earth."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que nos entregaste los auxilios pascuales,"
+       ],
+       [
+        "continúa favoreciendo a tu pueblo con estos dones celestes,"
+       ],
+       [
+        "para que, habiendo alcanzado la libertad verdadera,"
+       ],
+       [
+        "pueda gozar en el cielo de la alegría"
+       ],
+       [
+        "que ya ha empezado a gustar en la tierra."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che ci hai donato i sacramenti pasquali, assisti questo popolo con la tua grazia, perché, raggiunta la libertà perfetta, possa godere in cielo quella gioia che ora pregusta sulla terra. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu nous guéris par les célébrations pascales ;"
+       ],
+       [
+        "poursuis toujours l'œuvre de ta grâce :"
+       ],
+       [
+        "que ton peuple trouve une liberté parfaite,"
+       ],
+       [
+        "et parvienne à la joie du ciel"
+       ],
+       [
+        "dont il exulte déjà sur la terre."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du hast dein Volk durch die österlichen Geheimnisse befreit und gestärkt. Bleibe bei uns mit deiner Gnade und führe uns zur vollkommenen Freiheit, damit der Osterjubel, der uns heute erfüllt, sich in der Freude des Himmels vollendet. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oblatiónes famíliæ tuæ,"
+       ],
+       [
+        "quǽsumus, Dómine, súscipe miserátus,"
+       ],
+       [
+        "ut, sub tuæ protectiónis auxílio,"
+       ],
+       [
+        "et colláta non perdat, et ad ætérna dona pervéniat."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, aceitai compassivo as oferendas da vossa família"
+       ],
+       [
+        "e concedei que, sob o auxílio de vossa proteção,"
+       ],
+       [
+        "não percamos os dons que nos destes"
+       ],
+       [
+        "e alcancemos os bens eternos."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accept in compassion, Lord, we pray,"
+       ],
+       [
+        "the offerings of your family,"
+       ],
+       [
+        "that under your protective care"
+       ],
+       [
+        "they may never lose what they have received, but attain the gifts that are eternal."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acoge, Señor, con bondad, las ofrendas de tu familia, para que, bajo tu protección, no pierda los dones ya recibidos y alcance los eternos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, Padre misericordioso, le offerte di questa famiglia, perché con l'aiuto della tua protezione custodisca i doni ricevuti e raggiunga quelli eterni. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reçois avec bonté les offrandes de ta famille,"
+       ],
+       [
+        "nous t'en prions, Seigneur,"
+       ],
+       [
+        "garde-la sous ta protection :"
+       ],
+       [
+        "qu'elle ne perde aucun des bienfaits déjà reçus,"
+       ],
+       [
+        "et parvienne aux dons éternels."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, nimm unsere Gaben an und gewähre uns deinen Schutz, damit wir die Taufgnade, die wir empfangen haben, nicht verlieren und zur ewigen Freude gelangen, die du für uns bereitet hast. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Col 3, 1-2"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cl 3, 1-2"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Col 3: 1-2"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Col 3, 1-2"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Col 3, 1-2"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Col 3, 1-2"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Kol 3, 1-2"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si consurrexístis cum Christo,"
+       ],
+       [
+        "quæ sursum sunt quǽrite,"
+       ],
+       [
+        "ubi Christus est in déxtera Dei sedens;"
+       ],
+       [
+        "quæ sursum sunt sápite, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se ressuscitastes com Cristo,"
+       ],
+       [
+        "esforçai-vos por alcançar as coisas do alto,"
+       ],
+       [
+        "onde está Cristo, sentado à direita de Deus;"
+       ],
+       [
+        "aspirai às coisas celestes, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "If you have risen with Christ, seek the things that are above, where Christ is seated at the right hand of God;"
+       ],
+       [
+        "mind the things that are above, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si habéis resucitado con Cristo, buscad los bienes de allá arriba, donde"
+       ],
+       [
+        "Cristo está sentado a la derecha de Dios; aspirad a los bienes de arriba."
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se siete risorti con Cristo, cercate le cose di lassù, dove Cristo siede alla destra di Dio; gustate le cose di lassù. Alleluia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Maria di Magdala andò ad annunciare ai discepoli: «Ho visto il Signore!». Alleluia."
+       ]
+      ],
+      "cite": "Gv 20, 18"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ressuscités avec le Christ,"
+       ],
+       [
+        "recherchez les réalités d'en haut :"
+       ],
+       [
+        "c'est là qu'est le Christ, assis à la droite de Dieu ;"
+       ],
+       [
+        "pensez aux réalités d'en haut, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ihr seid mit Christus auferstanden; darum strebt nach dem, was im Himmel ist, wo Christus zur Rechten Gottes sitzt. Richtet euren Sinn auf das Himmlische und nicht auf das Irdische. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exáudi nos, omnípotens Deus, et famíliæ tuæ corda,"
+       ],
+       [
+        "cui perféctam baptísmatis grátiam contulísti,"
+       ],
+       [
+        "ad promeréndam beatitúdinem aptes ætérnam. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ouvi-nos, ó Deus todo-poderoso,"
+       ],
+       [
+        "e preparai os corações de vossos filhos"
+       ],
+       [
+        "que enriquecestes com a graça do Batismo,"
+       ],
+       [
+        "para merecerem a felicidade eterna."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hear us, almighty God,"
+       ],
+       [
+        "and, as you have bestowed on your family the perfect grace of Baptism,"
+       ],
+       [
+        "so prepare their hearts"
+       ],
+       [
+        "for the reward of eternal happiness."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escúchanos, Dios todopoderoso,"
+       ],
+       [
+        "y, para merecer la felicidad eterna,"
+       ],
+       [
+        "prepara los corazones de tu familia"
+       ],
+       [
+        "a la que otorgaste la gracia incomparable del bautismo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esaudisci, Dio onnipotente, le nostre preghiere e guida alla beatitudine eterna questa tua famiglia che hai ricolmato della grazia del Battesimo. Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Congedo come nel giorno di Pasqua."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Écoute notre prière, Dieu tout-puissant :"
+       ],
+       [
+        "tu as donné à ta famille"
+       ],
+       [
+        "la grâce incomparable du baptême ;"
+       ],
+       [
+        "dispose nos cœurs à recevoir"
+       ],
+       [
+        "le bonheur éternel."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, in der Taufe hast du uns das Heil geschenkt. Mache unsere Herzen würdig, die Freude des kommenden Heils zu erlangen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 2,
+ "prefaces": [
+  "preface.16"
+ ],
+ "title": {
+  "la": "Tempus Paschale — FERIA III — INFRA OCTAVAM PASCHÆ",
+  "pt-BR": "Tempo Pascal — TERÇA-FEIRA — NA OITAVA DA PÁSCOA",
+  "en-US": "Easter Season — TUESDAY WITHIN THE OCTAVE OF EASTER",
+  "es": "Tiempo Pascual — MARTES — DE LA OCTAVA DE PASCUA",
+  "it": "OTTAVA DI PASQUA — Martedì — fra l'ottava di Pasqua",
+  "fr": "Temps pascal — MARDI DE LA 1e SEMAINE",
+  "de": "DIENSTAG — der Osteroktav"
+ }
+}

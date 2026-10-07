@@ -1,1 +1,1171 @@
-{"id":"tempore.easter.week-3.monday","source":"tiempos/tiempos_pascua#P031","kind":"tempore","items":[{"slot":"207","text":{"la":[{"k":"h2","lines":[["Tempus Paschale"],["Hebdomada III"],["Feria secunda"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo Pascal"],["Terceira semana"],["Segunda-feira"]]}],"en-US":[{"k":"h2","lines":[["Easter Season"],["Third Week"],["Monday"]]}],"es":[{"k":"h2","lines":[["Tiempo Pascual"],["III Semana"],["Lunes"]]}],"it":[{"k":"h2","lines":[["Tempo Pasquale"],["III Settimana"],["Lunedì"]]}],"fr":[{"k":"h2","lines":[["Temps pascal"],["LUNDI DE LA 3e SEMAINE"]]}],"de":[{"k":"h2","lines":[["Osterzeit"],["MONTAG"],["der dritten Osterwoche"]]}]},"part":"title"},{"slot":"208","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]]}]},"part":"entranceAntiphon"},{"slot":"209","text":{"la":[{"k":"p","lines":[["Surréxit pastor bonus,"],["qui ánimam suam pósuit pro óvibus suis,"],["et pro grege suo mori dignátus est, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Ressurgiu o bom Pastor"],["que deu a vida por suas ovelhas"],["e quis morrer pelo seu rebanho, aleluia."]]}],"en-US":[{"k":"p","lines":[["The Good Shepherd has risen,"],["who laid down his life for his sheep"],["and willingly died for his flock, alleluia."]]}],"es":[{"k":"p","lines":[["Ha resucitado el Buen Pastor, que dio la vida por sus ovejas y se dignó morir por su rebaño. Aleluya."]]}],"it":[{"k":"p","lines":[["È risorto il buon pastore che ha dato la vita per le sue pecore, e per il suo gregge è andato incontro alla morte. Alleluia."]]}],"fr":[{"k":"p","lines":[["Le bon Pasteur est ressuscité,"],["lui qui a donné sa vie pour ses brebis,"],["lui qui a choisi de mourir pour son troupeau, alléluia."]]}],"de":[{"k":"p","lines":[["Auferstanden ist der Gute Hirt. Er gab sein Leben für die Schafe. Er ist für seine Herde gestorben. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"210","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"211","text":{"la":[{"k":"p","lines":[["Concéde, quǽsumus, omnípotens Deus,"],["ut, véterem cum suis ratiónibus hóminem deponéntes,"],["illíus conversatióne vivámus,"],["ad cuius nos substántiam paschálibus remédiis transtulísti."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Concedei-nos, Deus todo-poderoso,"],["que, despojando-nos do velho homem com suas tendências,"],["vivamos em comunhão com Jesus Cristo,"],["de cuja natureza nos fizestes participantes"],["pelos sacramentos pascais."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, almighty God,"],["that, putting off our old self with all its ways,"],["we may live as Christ did,"],["for through the healing paschal remedies"],["you have conformed us to his nature."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Te pedimos, Dios todopoderoso,"],["que, despojándonos del hombre viejo con sus inclinaciones,"],["vivamos en la obediencia de aquel"],["a quien nos has incorporado por los sacramentos pascuales."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, fa' che, spogliati dell'uomo vecchio con le sue passioni ingannevoli, viviamo come veri discepoli di Cristo, al quale ci hai resi conformi con i sacramenti pasquali. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli.."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Dieu tout-puissant :"],["par la guérison obtenue dans le mystère pascal,"],["tu nous as conformés à la nature de ton Fils ;"],["fais qu'en nous dépouillant de l'homme ancien"],["et de ses façons d'agir,"],["nous vivions de la vie du Christ."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, du bist unser Ziel, du zeigst den Irrenden das Licht der Wahrheit und führst sie auf den rechten Weg zurück. Gib allen, die sich Christen nennen, die Kraft, zu meiden, was diesem Namen widerspricht, und zu tun, was unserem Glauben entspricht. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"212","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"213","text":{"la":[{"k":"p","lines":[["Ascéndant ad te, Dómine, preces nostræ"],["cum oblatiónibus hostiárum,"],["ut, tua dignatióne mundáti,"],["sacraméntis magnæ pietátis aptémur."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Subam até vós, Senhor, nossas preces"],["com as oferendas para o sacrifício,"],["a fim de que, purificados por vossa graça,"],["sejamos dignos dos sacramentos do vosso grande amor."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May our prayers rise up to you, O Lord,"],["together with the sacrificial offerings,"],["so that, purified by your graciousness,"],["we may be conformed to the mysteries of your mighty love."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Suban hasta ti, Señor,"],["nuestras súplicas con la ofrenda del sacrificio,"],["para que, purificados por tu bondad,"],["nos preparemos para el sacramento de tu inmenso amor."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Salgano a te, o Signore, le nostre preghiere insieme all'offerta di questo sacrificio, perché, purificati dal tuo amore, possiamo accostarci al sacramento della tua grande misericordia. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Que nos prières montent vers toi, Seigneur,"],["avec ces offrandes pour le sacrifice ;"],["dans ta bonté, purifie-nous,"],["et nous serons mieux préparés"],["au sacrement de ton amour infini."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr und Gott, lass unser Gebet zu dir aufsteigen und nimm unsere Gaben an. Reinige uns durch deine Gnade, damit wir fähig werden, das Sakrament deiner großen Liebe zu empfangen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"215","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 14, 27"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 14, 27"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 14: 27"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Jn 14, 27"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gv 14, 27"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 14, 27"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 14, 27"}]},"part":"communionAntiphon"},{"slot":"216","text":{"la":[{"k":"p","lines":[["Pacem relínquo vobis, pacem meam do vobis;"],["non quómodo mundus dat, ego do vobis,"],["dicit Dóminus, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Deixo-vos a paz, a minha paz vos dou;"],["mas não a dou como o mundo, diz o Senhor, aleluia."]]}],"en-US":[{"k":"p","lines":[["Peace I leave with you; my peace I give to you."],["Not as the world gives do I give it to you, says the Lord, alleluia."]]}],"es":[{"k":"p","lines":[["La paz os dejo, mi paz os doy; no os la doy yo como la da el mundo, dice el Señor. Aleluya."]]}],"it":[{"k":"p","lines":[["«Vi lascio la pace, vi do la mia pace. Non come la dà il mondo, io la do a voi», dice il Signore. Alleluia."],[{"m":"rubric","t":"Oppure:"}],["Questa è l'opera di Dio: che crediate in colui che egli ha mandato. Alleluia."]],"cite":"Gv 6, 29"}],"fr":[{"k":"p","lines":[["Je vous laisse la paix, je vous donne ma paix ;"],["ce n'est pas à la manière du monde que je vous la donne,"],["dit le Seigneur, alléluia."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Frieden hinterlasse ich euch, meinen Frieden gebe ich euch; nicht wie die Welt ihn gibt, gebe ich ihn euch. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"217","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"218","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus,"],["qui ad ætérnam vitam"],["in Christi resurrectióne nos réparas,"],["fructus in nobis paschális multíplica sacraménti,"],["et fortitúdinem cibi salutáris nostris infúnde pectóribus."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso,"],["pela ressurreição de Cristo nos recriais para a vida eterna:"],["fazei frutificar em nós o sacramento pascal"],["e infundi em nossos corações"],["a força deste alimento salutar."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God,"],["who restore us to eternal life"],["in the Resurrection of Christ,"],["increase in us, we pray, the fruits of this paschal Sacrament and pour into our hearts the strength of this saving food."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["que en la resurrección de Jesucristo"],["nos has renovado para la vida eterna,"],["multiplica en nosotros los frutos del Misterio pascual"],["e infunde en nuestros corazones"],["la fortaleza del alimento de salvación."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, che nella risurrezione di Cristo ci fai nuove creature per la vita eterna, accresci in noi i frutti del sacramento pasquale e infondi nei nostri cuori la forza di questo nutrimento di salvezza. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["dans la résurrection du Christ,"],["tu nous recrées pour la vie éternelle ;"],["multiplie en nous les fruits du sacrement pascal :"],["répands en nos cœurs la force"],["de cette nourriture qui apporte le salut."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du hast uns durch die Auferstehung Christi neu geschaffen für das ewige Leben. Erfülle uns mit der Kraft dieser heilbringenden Speise, damit das österliche Geheimnis in uns reiche Frucht bringt. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":13,"prefaces":["preface.16","preface.17","preface.18","preface.19","preface.20"],"title":{"la":"Tempus Paschale — Hebdomada III — Feria secunda","pt-BR":"Tempo Pascal — Terceira semana — Segunda-feira","en-US":"Easter Season — Third Week — Monday","es":"Tiempo Pascual — III Semana — Lunes","it":"Tempo Pasquale — III Settimana — Lunedì","fr":"Temps pascal — LUNDI DE LA 3e SEMAINE","de":"Osterzeit — MONTAG — der dritten Osterwoche"}}
+{
+ "id": "tempore.easter.week-3.monday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Paschale"
+       ],
+       [
+        "Hebdomada III"
+       ],
+       [
+        "Feria secunda"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pascal"
+       ],
+       [
+        "Terceira semana"
+       ],
+       [
+        "Segunda-feira"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Easter Season"
+       ],
+       [
+        "Third Week"
+       ],
+       [
+        "Monday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo Pascual"
+       ],
+       [
+        "III Semana"
+       ],
+       [
+        "Lunes"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pasquale"
+       ],
+       [
+        "III Settimana"
+       ],
+       [
+        "Lunedì"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps pascal"
+       ],
+       [
+        "LUNDI DE LA 3e SEMAINE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Osterzeit"
+       ],
+       [
+        "MONTAG"
+       ],
+       [
+        "der dritten Osterwoche"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Surréxit pastor bonus,"
+       ],
+       [
+        "qui ánimam suam pósuit pro óvibus suis,"
+       ],
+       [
+        "et pro grege suo mori dignátus est, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ressurgiu o bom Pastor"
+       ],
+       [
+        "que deu a vida por suas ovelhas"
+       ],
+       [
+        "e quis morrer pelo seu rebanho, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Good Shepherd has risen,"
+       ],
+       [
+        "who laid down his life for his sheep"
+       ],
+       [
+        "and willingly died for his flock, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ha resucitado el Buen Pastor, que dio la vida por sus ovejas y se dignó morir por su rebaño. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È risorto il buon pastore che ha dato la vita per le sue pecore, e per il suo gregge è andato incontro alla morte. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le bon Pasteur est ressuscité,"
+       ],
+       [
+        "lui qui a donné sa vie pour ses brebis,"
+       ],
+       [
+        "lui qui a choisi de mourir pour son troupeau, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Auferstanden ist der Gute Hirt. Er gab sein Leben für die Schafe. Er ist für seine Herde gestorben. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concéde, quǽsumus, omnípotens Deus,"
+       ],
+       [
+        "ut, véterem cum suis ratiónibus hóminem deponéntes,"
+       ],
+       [
+        "illíus conversatióne vivámus,"
+       ],
+       [
+        "ad cuius nos substántiam paschálibus remédiis transtulísti."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedei-nos, Deus todo-poderoso,"
+       ],
+       [
+        "que, despojando-nos do velho homem com suas tendências,"
+       ],
+       [
+        "vivamos em comunhão com Jesus Cristo,"
+       ],
+       [
+        "de cuja natureza nos fizestes participantes"
+       ],
+       [
+        "pelos sacramentos pascais."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, almighty God,"
+       ],
+       [
+        "that, putting off our old self with all its ways,"
+       ],
+       [
+        "we may live as Christ did,"
+       ],
+       [
+        "for through the healing paschal remedies"
+       ],
+       [
+        "you have conformed us to his nature."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Dios todopoderoso,"
+       ],
+       [
+        "que, despojándonos del hombre viejo con sus inclinaciones,"
+       ],
+       [
+        "vivamos en la obediencia de aquel"
+       ],
+       [
+        "a quien nos has incorporado por los sacramentos pascuales."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, fa' che, spogliati dell'uomo vecchio con le sue passioni ingannevoli, viviamo come veri discepoli di Cristo, al quale ci hai resi conformi con i sacramenti pasquali. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli.."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Dieu tout-puissant :"
+       ],
+       [
+        "par la guérison obtenue dans le mystère pascal,"
+       ],
+       [
+        "tu nous as conformés à la nature de ton Fils ;"
+       ],
+       [
+        "fais qu'en nous dépouillant de l'homme ancien"
+       ],
+       [
+        "et de ses façons d'agir,"
+       ],
+       [
+        "nous vivions de la vie du Christ."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, du bist unser Ziel, du zeigst den Irrenden das Licht der Wahrheit und führst sie auf den rechten Weg zurück. Gib allen, die sich Christen nennen, die Kraft, zu meiden, was diesem Namen widerspricht, und zu tun, was unserem Glauben entspricht. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ascéndant ad te, Dómine, preces nostræ"
+       ],
+       [
+        "cum oblatiónibus hostiárum,"
+       ],
+       [
+        "ut, tua dignatióne mundáti,"
+       ],
+       [
+        "sacraméntis magnæ pietátis aptémur."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Subam até vós, Senhor, nossas preces"
+       ],
+       [
+        "com as oferendas para o sacrifício,"
+       ],
+       [
+        "a fim de que, purificados por vossa graça,"
+       ],
+       [
+        "sejamos dignos dos sacramentos do vosso grande amor."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May our prayers rise up to you, O Lord,"
+       ],
+       [
+        "together with the sacrificial offerings,"
+       ],
+       [
+        "so that, purified by your graciousness,"
+       ],
+       [
+        "we may be conformed to the mysteries of your mighty love."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Suban hasta ti, Señor,"
+       ],
+       [
+        "nuestras súplicas con la ofrenda del sacrificio,"
+       ],
+       [
+        "para que, purificados por tu bondad,"
+       ],
+       [
+        "nos preparemos para el sacramento de tu inmenso amor."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salgano a te, o Signore, le nostre preghiere insieme all'offerta di questo sacrificio, perché, purificati dal tuo amore, possiamo accostarci al sacramento della tua grande misericordia. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que nos prières montent vers toi, Seigneur,"
+       ],
+       [
+        "avec ces offrandes pour le sacrifice ;"
+       ],
+       [
+        "dans ta bonté, purifie-nous,"
+       ],
+       [
+        "et nous serons mieux préparés"
+       ],
+       [
+        "au sacrement de ton amour infini."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr und Gott, lass unser Gebet zu dir aufsteigen und nimm unsere Gaben an. Reinige uns durch deine Gnade, damit wir fähig werden, das Sakrament deiner großen Liebe zu empfangen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 14, 27"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 14, 27"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 14: 27"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Jn 14, 27"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gv 14, 27"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 14, 27"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 14, 27"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pacem relínquo vobis, pacem meam do vobis;"
+       ],
+       [
+        "non quómodo mundus dat, ego do vobis,"
+       ],
+       [
+        "dicit Dóminus, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deixo-vos a paz, a minha paz vos dou;"
+       ],
+       [
+        "mas não a dou como o mundo, diz o Senhor, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Peace I leave with you; my peace I give to you."
+       ],
+       [
+        "Not as the world gives do I give it to you, says the Lord, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La paz os dejo, mi paz os doy; no os la doy yo como la da el mundo, dice el Señor. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Vi lascio la pace, vi do la mia pace. Non come la dà il mondo, io la do a voi», dice il Signore. Alleluia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Questa è l'opera di Dio: che crediate in colui che egli ha mandato. Alleluia."
+       ]
+      ],
+      "cite": "Gv 6, 29"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je vous laisse la paix, je vous donne ma paix ;"
+       ],
+       [
+        "ce n'est pas à la manière du monde que je vous la donne,"
+       ],
+       [
+        "dit le Seigneur, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Frieden hinterlasse ich euch, meinen Frieden gebe ich euch; nicht wie die Welt ihn gibt, gebe ich ihn euch. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus,"
+       ],
+       [
+        "qui ad ætérnam vitam"
+       ],
+       [
+        "in Christi resurrectióne nos réparas,"
+       ],
+       [
+        "fructus in nobis paschális multíplica sacraménti,"
+       ],
+       [
+        "et fortitúdinem cibi salutáris nostris infúnde pectóribus."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "pela ressurreição de Cristo nos recriais para a vida eterna:"
+       ],
+       [
+        "fazei frutificar em nós o sacramento pascal"
+       ],
+       [
+        "e infundi em nossos corações"
+       ],
+       [
+        "a força deste alimento salutar."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "who restore us to eternal life"
+       ],
+       [
+        "in the Resurrection of Christ,"
+       ],
+       [
+        "increase in us, we pray, the fruits of this paschal Sacrament and pour into our hearts the strength of this saving food."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "que en la resurrección de Jesucristo"
+       ],
+       [
+        "nos has renovado para la vida eterna,"
+       ],
+       [
+        "multiplica en nosotros los frutos del Misterio pascual"
+       ],
+       [
+        "e infunde en nuestros corazones"
+       ],
+       [
+        "la fortaleza del alimento de salvación."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, che nella risurrezione di Cristo ci fai nuove creature per la vita eterna, accresci in noi i frutti del sacramento pasquale e infondi nei nostri cuori la forza di questo nutrimento di salvezza. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "dans la résurrection du Christ,"
+       ],
+       [
+        "tu nous recrées pour la vie éternelle ;"
+       ],
+       [
+        "multiplie en nous les fruits du sacrement pascal :"
+       ],
+       [
+        "répands en nos cœurs la force"
+       ],
+       [
+        "de cette nourriture qui apporte le salut."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du hast uns durch die Auferstehung Christi neu geschaffen für das ewige Leben. Erfülle uns mit der Kraft dieser heilbringenden Speise, damit das österliche Geheimnis in uns reiche Frucht bringt. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 13,
+ "prefaces": [
+  "preface.16",
+  "preface.17",
+  "preface.18",
+  "preface.19",
+  "preface.20"
+ ],
+ "title": {
+  "la": "Tempus Paschale — Hebdomada III — Feria secunda",
+  "pt-BR": "Tempo Pascal — Terceira semana — Segunda-feira",
+  "en-US": "Easter Season — Third Week — Monday",
+  "es": "Tiempo Pascual — III Semana — Lunes",
+  "it": "Tempo Pasquale — III Settimana — Lunedì",
+  "fr": "Temps pascal — LUNDI DE LA 3e SEMAINE",
+  "de": "Osterzeit — MONTAG — der dritten Osterwoche"
+ }
+}

@@ -1,0 +1,459 @@
+{
+ "id": "common.holy-men-and-women.first-reading.10",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "10"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloriam hominis ne ponerem super gloriam Dei mei."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Esther"
+       ]
+      ],
+      "cite": "4, 17b-17g. 17l",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mardochæus dixit: «Deus Abraham et Deus Isaac et Deus Iacob, benedíctus es. Dómine, Dómine, rex omnípotens, in dicióne enim tua cuncta sunt pósita, et non est qui possit tuæ resístere voluntáti, si decréveris salváre Israel."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu enim fecísti cælum et terram et quidquid mirábile cæli ámbitu continétur; Dóminus ómnium es, nec est qui resístat maiestáti tuæ. Tu scis, Dómine, quia libénter adorárem plantas pedum Aman pro salúte Israel; hoc autem non feci, ne glóriam hóminis pónerem super glóriam Dei mei, et álium non adorábo nisi te, Dómine, Deus meus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exáudi deprecatiónem meam et propítius esto sorti tuæ; et convérte luctum nostrum in gáudium, ut vivéntes laudémus nomen tuum, Dómine, et ne claudas ora te canéntium»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Agi assim para não colocar a glória de um homem acima da glória de Deus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro de Ester"
+       ]
+      ],
+      "cite": "4, 17b-17g. 17l",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, Mardoqueu disse: \"Deus de Abraão, Deus de Isaac e Deus de Jacó, tu és bendito. Senhor, Senhor, Rei Todo-poderoso, tudo está sujeito ao teu poder e ninguém se pode opor à tu vontade, quando queres salvar Israel. Fizestes o céu e a terra e todas as maravilhas que estão debaixo do firmamento. És o Senhor de tudo e não há quem possa resistir a tua majestade. Tu sabes, Senhor, que para a salvação de Israel, estaria pronto a beijar a planta dos pés de Amã. Se me neguei a fazê-lo, foi para não colocar a glória de um homem acima da glória de Deus. Jamais me inclinarei diante de ninguém, senão diante de ti, Senhor meu Deus. Escuta a minha suplica, sê favoravel àqueles que te pertencem e muda o nosso luto em alegria. Então nós viveremos e poderemos celebrar o teu nome, Senhor. Mas não deixes emudecer a boca dos que te louvam\" ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Esther"
+       ]
+      ],
+      "cite": "4:17b-17g. 17l",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recalling all that the Lord had done, Mordecai prayed to the Lord and said: “Lord, Lord, King and Ruler of all, everything is in your power, and there is no one to oppose you when it is your will to save Israel. You made heaven and earth and every wonderful thing under heaven. You are Lord of all, and there is no one who can resist you, the Lord. You know all things. You know, Lord, that it was not out of insolence or arrogance or desire for glory that I acted thus in not bowing down to the arrogant Haman. I would have gladly kissed the soles of his feet for the salvation of Israel. But I acted as I did so as not to place the honor of a mortal above that of God. I will not bow down to anyone but you, my Lord. It is not out of arrogance that I am acting thus. Hear my prayer; have pity on your inheritance and turn our mourning into feasting, that we may live to sing praise to your name, Lord. Do not silence the mouths of those who praise you.”"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No poner la gloria de los hombres por encima de la gloria de Dios"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de Ester"
+       ]
+      ],
+      "cite": "4, 17b-17g. 17l",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, Mardoquedo dijo:"
+       ],
+       [
+        "«Bendito seas, Dios de Abrahán y Dios de Isaac y Dios de Jacob."
+       ],
+       [
+        "¡Señor, Señor, rey omnipotente! El mundo entero está sometido a tu poder. Cuando te propones salvar a Israel, no hay quien pueda volverse contra ti."
+       ],
+       [
+        "Porque tú creaste el cielo y la tierra y las maravillas que existen bajo el cielo. Eres Señor de todo, y nadie puede oponerse a ti, Señor."
+       ],
+       [
+        "Tú sabes, Señor, que por la salvación de Israel yo me habría postrado gustosamente a los pies de Amán; no lo hice por no poner la gloria de los hombres por encima de la gloria de Dios. ¡Y nunca me postraré sino delante de ti, Señor, Dios mío!"
+       ],
+       [
+        "Escucha mi oración y ten misericordia de tu heredad; convierte nuestro duelo en alegría, para que, conservando la vida, alabemos tu nombre, Señor. No cierres los labios de los que te alaban»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non porre la gloria dell'uomo al di sopra della gloria di Dio."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro di Ester"
+       ]
+      ],
+      "cite": "4, 17b-17g. 171 (NV) [gr 4, 17b-17e.l7h]",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, Mardocheo disse:"
+       ],
+       [
+        "«Tu sei benedetto, Dio di Abramo e Dio di Isacco e Dio di Giacobbe. Signore, Signore, re che dòmini l'universo, tutte le cose sono sottoposte al tuo potere e non c'è nessuno che possa opporsi a te nella tua volontà di salvare Israele. Tu hai fatto il cielo e la terra e tutte le meraviglie che si trovano sotto il firmamento. Tu sei il Signore di tutte le cose e non c'è nessuno che possa resistere a te, Signore."
+       ],
+       [
+        "Tu sai, Signore, che per la salvezza di Israele io mi sarei prostrato volentieri davanti alla pianta dei piedi di Aman; ma non l'ho fatto per non porre la gloria dell'uomo al di sopra della gloria di Dio. E non mi prostrerò mai, se non davanti a te, Signore mio Dio!"
+       ],
+       [
+        "Ascolta la mia preghiera e sii propizio alla tua eredità; cambia il nostro lutto in gioia, perché, vivi, possiamo cantare inni al tuo nome, Signore, e non far scomparire quelli che ti lodano con la loro bocca»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Esther"
+       ]
+      ],
+      "cite": "4, 17b-17g. 17l",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, Mardochée dit : \" Seigneur, Seigneur, Roi souverain de l'univers, tout est soumis à ton pouvoir, personne ne peut s'opposer à toi quand tu veux sauver Israël."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est toi qui as fait le ciel et la terre et toutes les merveilles qui sont sous le ciel. Tu es le Seigneur de l'univers, et il n'est personne qui puisse te résister, Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu le sais, ô Seigneur, toi qui connais tout : ce n'est pas insolence, orgueil ou vanité, si j'ai refusé de me prosterner devant l'orgueilleux Amane. - Volontiers je lui baiserais les pieds pour le salut d'Israël."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mais j'ai refusé pour ne pas mettre la gloire d'un homme plus haut que la gloire de Dieu : je ne me prosternerai devant personne, sauf devant toi, mon Seigneur, et ce n'est pas là de l'orgueil."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exauce ma prière, sois favorable à ceux qui sont ta part d'héritage ; change notre deuil en joie, afin que nous vivions pour chanter ton nom, Seigneur. Ne laisse pas disparaître ceux dont la bouche te célèbre. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Ester"
+       ]
+      ],
+      "cite": "4, 17b-17e. 17h (17b-17g. 17l)",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen betete Mórdechai:"
+       ],
+       [
+        "Herr, Herr, König, du Herrscher über alles! Deiner Macht ist das All unterworfen, und niemand kann sich dir widersetzen, wenn du Israel retten willst;"
+       ],
+       [
+        "denn du hast Himmel und Erde gemacht und alles, was wir unter dem Himmel bestaunen. Du bist der Herr über alles, und niemand kann es wagen, sich dir, dem Herrn, entgegenzustellen: Du kennst alles. Du weißt, Herr, dass es weder aus Hochmut, noch aus Überheblichkeit, noch aus Ruhmsucht geschah, wenn ich mich vor dem überheblichen Haman nicht niedergeworfen habe. Denn ich würde gern seine Fußsohlen küssen, wenn es für die Rettung Israels von Nutzen wäre. Ich habe so gehandelt, weil ich nicht die Ehre eines Menschen über die Ehre Gottes stellen wollte. Ich werde mich vor niemand niederwerfen, außer vor dir, meinem Gott."
+       ],
+       [
+        "Hör auf mein Flehen, hab Erbarmen mit deinem Erbbesitz und verwandle unsere Trauer in Freude, damit wir am Leben bleiben und deinen Namen preisen, Herr; lass den Mund derer, die dich loben, nicht verstummen!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

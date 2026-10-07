@@ -1,1 +1,1129 @@
-{"id":"tempore.advent.dec-20","source":"tiempos/tiempos_advnav#A120","kind":"tempore","items":[{"slot":"303","text":{"la":[{"k":"h2","lines":[["IN FERIIS ADVENTUS"],["a Die 17 ad diem 24 decembris"],["Die 20 decembris"]]}],"pt-BR":[{"k":"h2","lines":[["PARA OS DIAS DE SEMANA DO ADVENTO"],["de 17 a 24 de dezembro"],["20 de dezembro"]]}],"en-US":[{"k":"h2","lines":[["Weekdays of Advent"],["December 17 to December 24"],["20 December"]]}],"es":[{"k":"h2","lines":[["FERIAS DE ADVIENTO"],["desde el 17 al 24 de diciembre"],["20 de diciembre"]]}],"it":[{"k":"h2","lines":[["FERIE DI AVVENTO"],["dal 17 al 24 dicembre"],["20 dicembre"]]}],"fr":[{"k":"h2","lines":[["IN FERIIS ADVENTUS"],["Du 17 au 24 décembre"],["20 décembre"]]}],"de":[{"k":"h2","lines":[["DIE WOCHENTAGE"],["VOM 17. BIS 24. DEZEMBER"],["20. Dezember"]]}]},"part":"title"},{"slot":"304","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Is 11, 1; 40, 5; Lc 3, 6"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Is 11, 1; 40, 5; Lc 3, 6"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Is 11: 1; 40: 5; Lk 3: 6"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Is 11, 1; 40, 5; Lc 3, 6"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cfr. Is 11, 1; 40, 5; Lc 3, 6"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Is 11, 1; 40, 5; Lc 3, 6"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Jes 11, 1; 40, 5; Lk 3, 6"}]},"part":"entranceAntiphon"},{"slot":"305","text":{"la":[{"k":"p","lines":[["Egrediétur virga de radíce Iesse, et replébitur omnis terra glória Dómini, et vidébit omnis caro salutáre Dei."]]}],"pt-BR":[{"k":"p","lines":[["Um ramo brotará da raiz de Jessé;"],["a glória do Senhor encherá a terra inteira,"],["e toda criatura verá a salvação de Deus."]]}],"en-US":[{"k":"p","lines":[["A branch shall sprout from the root of Jesse,"],["and the glory of the Lord will fill the whole earth, and all flesh will see the salvation of God."]]}],"es":[{"k":"p","lines":[["Brotará un renuevo de la raíz de Jesé y la gloria del Señor llenará toda la tierra. Toda carne verá la salvación de Dios."]]}],"it":[{"k":"p","lines":[["Un germoglio spunterà dal tronco di Iesse: tutta la terra sarà piena della gloria del Signore e ogni uomo vedrà la salvezza di Dio."]]}],"fr":[{"k":"p","lines":[["Un rameau sortira de la souche de Jessé,"],["la gloire du Seigneur remplira toute la terre,"],["et tout être de chair verra le salut de Dieu."]]}],"de":[{"k":"p","lines":[["Aus der Wurzel Jesse wächst ein Zweig hervor. Die Welt erstrahlt im Licht des Herrn, und alle Menschen erfahren Gottes Heil."]]}]},"part":"entranceAntiphon"},{"slot":"306","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"307","text":{"la":[{"k":"p","lines":[["Deus, æterna maiéstas, cuius ineffábile Verbum, Angelo nuntiánte, Virgo immaculáta suscépit, et, domus divinitátis effécta, Sancti Spíritus luce replétur, quǽsumus, ut nos, eius exémplo, voluntáti tuæ humíliter adhærére valeámus. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso, pela anunciação do anjo,"],["a Virgem imaculada acolheu vosso Verbo inefável"],["e, como habitação da divindade,"],["ficou repleta da luz do Espírito Santo."],["Concedei que, a seu exemplo,"],["abracemos humildemente a vossa vontade."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, eternal majesty, whose ineffable Word"],["the immaculate Virgin received through the message of an Angel and so became the dwelling-place of divinity,"],["filled with the light of the Holy Spirit,"],["grant, we pray, that by her example"],["we may in humility hold fast to your will."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios de eterna grandeza,"],["ya que la Virgen Inmaculada,"],["por el anuncio del ángel,"],["acogió tu Verbo inefable"],["y, transformada en templo de tu divinidad,"],["se llenó con la luz del Espíritu Santo,"],["concédenos que, a ejemplo suyo,"],["aceptemos humildemente tu voluntad."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Tu hai voluto, o Padre, che all'annuncio dell'angelo la Vergine immacolata concepisse il tuo Verbo eterno, e avvolta dalla luce dello Spirito Santo divenisse tempio della nuova alleanza: fa' che aderiamo umilmente al tuo volere, come la Vergine si affidò alla tua parola. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu d'éternelle majesté,"],["à l'annonce de l'Ange,"],["la Vierge immaculée accueillit ton Verbe indicible,"],["et, devenue la demeure de Dieu,"],["elle fut remplie de la lumière de l'Esprit Saint ;"],["nous te demandons qu'à son exemple"],["nous puissions nous attacher humblement à ta volonté."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Vater im Himmel, du hast die selige, ohne Sünde empfangene Jungfrau Maria dazu erwählt, dein ewiges Wort aufzunehmen. Du hast sie zur Wohnstatt Gottes gemacht und mit dem Licht des Heiligen Geistes erfüllt. Gib uns die Gnade, gleich deiner demütigen Magd stets deinem Willen zu gehorchen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"308","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"309","text":{"la":[{"k":"p","lines":[["Inténde, quǽsumus, Dómine, sacrifícium singuláre, ut, huius participatióne mystérii, quæ speránda crédimus, exspectáta sumámus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Aceitai, Senhor, nós vos pedimos,"],["este admirável sacrifício que vos oferecemos"],["para que, pela participação neste sacramento,"],["recebamos os bens desejados"],["que a fé nos faz esperar."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look, O Lord, we pray,"],["upon the one sacrifice of your Son,"],["that, by participating in this mystery,"],["we may possess at last the gifts we have awaited and for which our faith bids us hope."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Acepta, Señor,"],["este sacrificio único,"],["para que, al participar en este misterio,"],["recibamos los dones"],["que la fe nos hace esperar."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guarda, o Signore, quest'unico mirabile sacrificio e concedi che per la partecipazione a questo santo mistero riceviamo i beni che la fede ci fa sperare. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur,"],["regarde ce sacrifice unique,"],["et, par notre communion à ce mystère,"],["accorde-nous de recevoir les biens que nous attendons"],["et que notre foi nous donne d'espérer."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, sieh auf das einzigartige Opfer, durch das uns Christus heiligt und zur Vollendung beruft. Gib uns in dieser Feier Anteil an den kommenden Gütern, die wir im Glauben erhoffen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"311","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Lc 1, 31"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Lc 1, 31"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Lk 1: 31"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Lc 1, 31"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Lc 1, 31"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Lc 1, 31"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Lk 1, 31"}]},"part":"communionAntiphon"},{"slot":"312","text":{"la":[{"k":"p","lines":[["Dixit Angelus ad Maríam: Ecce concípies et páries fílium, et vocábis nomen eius Iesum."]]}],"pt-BR":[{"k":"p","lines":[["O Anjo disse a Maria:"],["Eis que conceberás e darás à luz um filho,"],["a quem porás o nome de Jesus."]]}],"en-US":[{"k":"p","lines":[["The Angel said to Mary:"],["Behold, you will conceive and bear a son, and you shall name him Jesus."]]}],"es":[{"k":"p","lines":[["El ángel dijo a María: «Concebirás y darás a luz un hijo, y le pondrás por nombre Jesús»."]]}],"it":[{"k":"p","lines":[["L'angelo disse a Maria: «Ecco, concepirai un figlio, lo darai alla luce e lo chiamerai Gesù»."]]}],"fr":[{"k":"p","lines":[["L'Ange dit à Marie :"],["« Voici que tu vas concevoir et enfanter un fils ;"],["tu lui donneras le nom de Jésus. »"]]}],"de":[{"k":"p","lines":[["Der Engel sprach zu Maria: Du wirst ein Kind bekommen, einen Sohn wirst du gebären; dem sollst du den Namen Jesus geben."]]}]},"part":"communionAntiphon"},{"slot":"313","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"314","text":{"la":[{"k":"p","lines":[["Quos múnere cælésti réficis, Dómine, divíno tuére præsídio, ut, tuis mystériis perfruéntes, in vera fácias pace gaudére. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Guardai, ó Senhor, sob a vossa proteção,"],["aqueles que alimentastes com o pão celestial,"],["para que encontrem em vossos mistérios"],["a alegria da verdadeira paz."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant divine protection, O Lord,"],["to those you renew with this heavenly gift, that to those who delight in your mysteries you may give the joy of true peace."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Protege, Señor,"],["con tu poder divino a los que alimentas"],["con los dones del cielo,"],["para que, al participar en tus misterios,"],["les concedas gozar de la paz verdadera."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, che ci nutri con i doni del cielo, custodisci con la divina protezione coloro che partecipano ai tuoi misteri perché possano godere la vera pace. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Ceux que tu renouvelles par le don venu du ciel,"],["garde-les, Seigneur, en ta divine protection :"],["qu'ils trouvent, en communiant à tes mystères,"],["la joie dans la paix véritable."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, das heilige Sakrament, das wir empfangen haben, sei uns Nahrung und Schutz. Es mache uns froh und schenke uns den wahren Frieden. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":9,"prefaces":["preface.2","preface.4"],"title":{"la":"IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 20 decembris","pt-BR":"PARA OS DIAS DE SEMANA DO ADVENTO — de 17 a 24 de dezembro — 20 de dezembro","en-US":"Weekdays of Advent — December 17 to December 24 — 20 December","es":"FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 20 de diciembre","it":"FERIE DI AVVENTO — dal 17 al 24 dicembre — 20 dicembre","fr":"IN FERIIS ADVENTUS — Du 17 au 24 décembre — 20 décembre","de":"DIE WOCHENTAGE — VOM 17. BIS 24. DEZEMBER — 20. Dezember"}}
+{
+ "id": "tempore.advent.dec-20",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN FERIIS ADVENTUS"
+       ],
+       [
+        "a Die 17 ad diem 24 decembris"
+       ],
+       [
+        "Die 20 decembris"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "PARA OS DIAS DE SEMANA DO ADVENTO"
+       ],
+       [
+        "de 17 a 24 de dezembro"
+       ],
+       [
+        "20 de dezembro"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Weekdays of Advent"
+       ],
+       [
+        "December 17 to December 24"
+       ],
+       [
+        "20 December"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "FERIAS DE ADVIENTO"
+       ],
+       [
+        "desde el 17 al 24 de diciembre"
+       ],
+       [
+        "20 de diciembre"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "FERIE DI AVVENTO"
+       ],
+       [
+        "dal 17 al 24 dicembre"
+       ],
+       [
+        "20 dicembre"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN FERIIS ADVENTUS"
+       ],
+       [
+        "Du 17 au 24 décembre"
+       ],
+       [
+        "20 décembre"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DIE WOCHENTAGE"
+       ],
+       [
+        "VOM 17. BIS 24. DEZEMBER"
+       ],
+       [
+        "20. Dezember"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Is 11, 1; 40, 5; Lc 3, 6"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Is 11, 1; 40, 5; Lc 3, 6"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Is 11: 1; 40: 5; Lk 3: 6"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Is 11, 1; 40, 5; Lc 3, 6"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cfr. Is 11, 1; 40, 5; Lc 3, 6"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Is 11, 1; 40, 5; Lc 3, 6"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Jes 11, 1; 40, 5; Lk 3, 6"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Egrediétur virga de radíce Iesse, et replébitur omnis terra glória Dómini, et vidébit omnis caro salutáre Dei."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Um ramo brotará da raiz de Jessé;"
+       ],
+       [
+        "a glória do Senhor encherá a terra inteira,"
+       ],
+       [
+        "e toda criatura verá a salvação de Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A branch shall sprout from the root of Jesse,"
+       ],
+       [
+        "and the glory of the Lord will fill the whole earth, and all flesh will see the salvation of God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brotará un renuevo de la raíz de Jesé y la gloria del Señor llenará toda la tierra. Toda carne verá la salvación de Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un germoglio spunterà dal tronco di Iesse: tutta la terra sarà piena della gloria del Signore e ogni uomo vedrà la salvezza di Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un rameau sortira de la souche de Jessé,"
+       ],
+       [
+        "la gloire du Seigneur remplira toute la terre,"
+       ],
+       [
+        "et tout être de chair verra le salut de Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aus der Wurzel Jesse wächst ein Zweig hervor. Die Welt erstrahlt im Licht des Herrn, und alle Menschen erfahren Gottes Heil."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, æterna maiéstas, cuius ineffábile Verbum, Angelo nuntiánte, Virgo immaculáta suscépit, et, domus divinitátis effécta, Sancti Spíritus luce replétur, quǽsumus, ut nos, eius exémplo, voluntáti tuæ humíliter adhærére valeámus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso, pela anunciação do anjo,"
+       ],
+       [
+        "a Virgem imaculada acolheu vosso Verbo inefável"
+       ],
+       [
+        "e, como habitação da divindade,"
+       ],
+       [
+        "ficou repleta da luz do Espírito Santo."
+       ],
+       [
+        "Concedei que, a seu exemplo,"
+       ],
+       [
+        "abracemos humildemente a vossa vontade."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, eternal majesty, whose ineffable Word"
+       ],
+       [
+        "the immaculate Virgin received through the message of an Angel and so became the dwelling-place of divinity,"
+       ],
+       [
+        "filled with the light of the Holy Spirit,"
+       ],
+       [
+        "grant, we pray, that by her example"
+       ],
+       [
+        "we may in humility hold fast to your will."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios de eterna grandeza,"
+       ],
+       [
+        "ya que la Virgen Inmaculada,"
+       ],
+       [
+        "por el anuncio del ángel,"
+       ],
+       [
+        "acogió tu Verbo inefable"
+       ],
+       [
+        "y, transformada en templo de tu divinidad,"
+       ],
+       [
+        "se llenó con la luz del Espíritu Santo,"
+       ],
+       [
+        "concédenos que, a ejemplo suyo,"
+       ],
+       [
+        "aceptemos humildemente tu voluntad."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu hai voluto, o Padre, che all'annuncio dell'angelo la Vergine immacolata concepisse il tuo Verbo eterno, e avvolta dalla luce dello Spirito Santo divenisse tempio della nuova alleanza: fa' che aderiamo umilmente al tuo volere, come la Vergine si affidò alla tua parola. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu d'éternelle majesté,"
+       ],
+       [
+        "à l'annonce de l'Ange,"
+       ],
+       [
+        "la Vierge immaculée accueillit ton Verbe indicible,"
+       ],
+       [
+        "et, devenue la demeure de Dieu,"
+       ],
+       [
+        "elle fut remplie de la lumière de l'Esprit Saint ;"
+       ],
+       [
+        "nous te demandons qu'à son exemple"
+       ],
+       [
+        "nous puissions nous attacher humblement à ta volonté."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vater im Himmel, du hast die selige, ohne Sünde empfangene Jungfrau Maria dazu erwählt, dein ewiges Wort aufzunehmen. Du hast sie zur Wohnstatt Gottes gemacht und mit dem Licht des Heiligen Geistes erfüllt. Gib uns die Gnade, gleich deiner demütigen Magd stets deinem Willen zu gehorchen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Inténde, quǽsumus, Dómine, sacrifícium singuláre, ut, huius participatióne mystérii, quæ speránda crédimus, exspectáta sumámus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aceitai, Senhor, nós vos pedimos,"
+       ],
+       [
+        "este admirável sacrifício que vos oferecemos"
+       ],
+       [
+        "para que, pela participação neste sacramento,"
+       ],
+       [
+        "recebamos os bens desejados"
+       ],
+       [
+        "que a fé nos faz esperar."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look, O Lord, we pray,"
+       ],
+       [
+        "upon the one sacrifice of your Son,"
+       ],
+       [
+        "that, by participating in this mystery,"
+       ],
+       [
+        "we may possess at last the gifts we have awaited and for which our faith bids us hope."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acepta, Señor,"
+       ],
+       [
+        "este sacrificio único,"
+       ],
+       [
+        "para que, al participar en este misterio,"
+       ],
+       [
+        "recibamos los dones"
+       ],
+       [
+        "que la fe nos hace esperar."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda, o Signore, quest'unico mirabile sacrificio e concedi che per la partecipazione a questo santo mistero riceviamo i beni che la fede ci fa sperare. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur,"
+       ],
+       [
+        "regarde ce sacrifice unique,"
+       ],
+       [
+        "et, par notre communion à ce mystère,"
+       ],
+       [
+        "accorde-nous de recevoir les biens que nous attendons"
+       ],
+       [
+        "et que notre foi nous donne d'espérer."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, sieh auf das einzigartige Opfer, durch das uns Christus heiligt und zur Vollendung beruft. Gib uns in dieser Feier Anteil an den kommenden Gütern, die wir im Glauben erhoffen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Lc 1, 31"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Lc 1, 31"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Lk 1: 31"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Lc 1, 31"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Lc 1, 31"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Lc 1, 31"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Lk 1, 31"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixit Angelus ad Maríam: Ecce concípies et páries fílium, et vocábis nomen eius Iesum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Anjo disse a Maria:"
+       ],
+       [
+        "Eis que conceberás e darás à luz um filho,"
+       ],
+       [
+        "a quem porás o nome de Jesus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Angel said to Mary:"
+       ],
+       [
+        "Behold, you will conceive and bear a son, and you shall name him Jesus."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El ángel dijo a María: «Concebirás y darás a luz un hijo, y le pondrás por nombre Jesús»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'angelo disse a Maria: «Ecco, concepirai un figlio, lo darai alla luce e lo chiamerai Gesù»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'Ange dit à Marie :"
+       ],
+       [
+        "« Voici que tu vas concevoir et enfanter un fils ;"
+       ],
+       [
+        "tu lui donneras le nom de Jésus. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Engel sprach zu Maria: Du wirst ein Kind bekommen, einen Sohn wirst du gebären; dem sollst du den Namen Jesus geben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quos múnere cælésti réficis, Dómine, divíno tuére præsídio, ut, tuis mystériis perfruéntes, in vera fácias pace gaudére. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guardai, ó Senhor, sob a vossa proteção,"
+       ],
+       [
+        "aqueles que alimentastes com o pão celestial,"
+       ],
+       [
+        "para que encontrem em vossos mistérios"
+       ],
+       [
+        "a alegria da verdadeira paz."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant divine protection, O Lord,"
+       ],
+       [
+        "to those you renew with this heavenly gift, that to those who delight in your mysteries you may give the joy of true peace."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Protege, Señor,"
+       ],
+       [
+        "con tu poder divino a los que alimentas"
+       ],
+       [
+        "con los dones del cielo,"
+       ],
+       [
+        "para que, al participar en tus misterios,"
+       ],
+       [
+        "les concedas gozar de la paz verdadera."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, che ci nutri con i doni del cielo, custodisci con la divina protezione coloro che partecipano ai tuoi misteri perché possano godere la vera pace. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ceux que tu renouvelles par le don venu du ciel,"
+       ],
+       [
+        "garde-les, Seigneur, en ta divine protection :"
+       ],
+       [
+        "qu'ils trouvent, en communiant à tes mystères,"
+       ],
+       [
+        "la joie dans la paix véritable."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, das heilige Sakrament, das wir empfangen haben, sei uns Nahrung und Schutz. Es mache uns froh und schenke uns den wahren Frieden. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 9,
+ "prefaces": [
+  "preface.2",
+  "preface.4"
+ ],
+ "title": {
+  "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 20 decembris",
+  "pt-BR": "PARA OS DIAS DE SEMANA DO ADVENTO — de 17 a 24 de dezembro — 20 de dezembro",
+  "en-US": "Weekdays of Advent — December 17 to December 24 — 20 December",
+  "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 20 de diciembre",
+  "it": "FERIE DI AVVENTO — dal 17 al 24 dicembre — 20 dicembre",
+  "fr": "IN FERIIS ADVENTUS — Du 17 au 24 décembre — 20 décembre",
+  "de": "DIE WOCHENTAGE — VOM 17. BIS 24. DEZEMBER — 20. Dezember"
+ }
+}

@@ -1,0 +1,453 @@
+{
+ "id": "common.blessed-virgin-mary.first-reading.11",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "11"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lætare, filia Sion, ecce ego venio."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Zacharíæ prophétæ"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Iúbila et lætáre, fília Sion, quia ecce ego vénio et habitábo in médio tui, ait Dóminus. Et applicabúntur gentes multæ ad Dóminum in die illa et erunt ei in pópulum. Et habitábo in médio tui, et scies quia Dóminus exercítuum misit me ad te."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et possidébit Dóminus Iudam partem suam super terram sanctam et éliget adhuc Ierúsalem. Síleat omnis caro a fácie Dómini, quia consurréxit de habitáculo sancto suo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Profecia de Zacarias"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\"Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti, diz o Senhor. Muitas nações se aproximarão do Senhor, naquele dia, e serão o seu povo. Habitarei no meio de ti, e saberás que o Senhor dos exércitos me enviou a ti. O Senhor entrará em posse de Judá, como sua porção na terra santa, e escolherá de novo Jerusalém. Emudeça todo mortal diante do Senhor, ele acaba de levantar-se de sua santa habitação\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Prophecy of Zechariah"
+       ]
+      ],
+      "cite": "2:14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sing, rejoice, daughter of Zion; for I am coming to dwell in the middle of you - it is the Lord who speaks. Many nations will join the Lord, on that day; they will become his people. (But he will remain among you, and you will know that the Lord of hosts has sent me to you.) But the Lord will hold Judah as his portion in the Holy Land, and again make Jerusalem his very own. Let all mankind be silent before the Lord! For he is awaking and is coming from his holy dwelling."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Goza, Sion, que yo vengo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la profecía de Zacarías"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alégrate y goza, Sion,"
+       ],
+       [
+        "pues voy a habitar en medio de ti"
+       ],
+       [
+        "—oráculo del Señor—."
+       ],
+       [
+        "Aquel día se asociarán al Señor"
+       ],
+       [
+        "pueblos sin número;"
+       ],
+       [
+        "ellos serán mi pueblo,"
+       ],
+       [
+        "y habitaré en medio de ti."
+       ],
+       [
+        "Entonces reconocerás"
+       ],
+       [
+        "que el Señor del universo"
+       ],
+       [
+        "me ha enviado a ti."
+       ],
+       [
+        "Judá será la herencia del Señor,"
+       ],
+       [
+        "su lote en la tierra santa,"
+       ],
+       [
+        "y volverá a elegir a Jerusalén."
+       ],
+       [
+        "¡Silencio todo el mundo"
+       ],
+       [
+        "ante el Señor que se levanta"
+       ],
+       [
+        "de su morada santa!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegrati, figlia di Sion, perché, ecco, io vengo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Zaccaria"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegrati, esulta, figlia di Sion,"
+       ],
+       [
+        "perché, ecco, io vengo ad abitare in mezzo a te."
+       ],
+       [
+        "Oracolo del Signore."
+       ],
+       [
+        "Nazioni numerose aderiranno in quel giorno al Signore"
+       ],
+       [
+        "e diverranno suo popolo,"
+       ],
+       [
+        "ed egli dimorerà in mezzo a te"
+       ],
+       [
+        "e tu saprai che il Signore degli eserciti"
+       ],
+       [
+        "mi ha inviato a te."
+       ],
+       [
+        "Il Signore si terrà Giuda come eredità nella terra santa ed eleggerà di nuovo Gerusalemme."
+       ],
+       [
+        "Taccia ogni mortale davanti al Signore, poiché egli si è destato dalla sua santa dimora."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de Zacharie"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chante et réjouis-toi, fille de Sion ; voici que je viens, j'habiterai au milieu de toi - oracle du Seigneur. Ce jour-là, des nations nombreuses s'attacheront au Seigneur ; elles seront pour moi un peuple, et j'habiterai au milieu de toi. Alors tu sauras que le Seigneur de l'univers m'a envoyé vers toi. Le Seigneur prendra possession de Juda, son domaine sur la terre sainte ; il choisira de nouveau Jérusalem. Que tout être de chair fasse silence devant le Seigneur, car il se réveille et sort de sa Demeure sainte."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Sachárja"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Juble und freue dich, Tochter Zion; denn siehe, ich komme und wohne in deiner Mitte – Spruch des Herrn. An jenem Tag werden sich viele Völker dem Herrn anschließen, und sie werden mein Volk sein, und ich werde in deiner Mitte wohnen. Dann wirst du erkennen, dass der Herr der Heere mich zu dir gesandt hat."
+       ],
+       [
+        "Der Herr aber wird Juda in Besitz nehmen; es wird sein Anteil im Heiligen Land sein. Und er wird Jerusalem wieder auserwählen. Alle Welt schweige in der Gegenwart des Herrn. Denn er tritt hervor aus seiner heiligen Wohnung."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

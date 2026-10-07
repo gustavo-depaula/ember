@@ -1,1 +1,1357 @@
-{"id":"various-needs.66","source":"comunes_votivas/diversas#div066","kind":"various-needs","items":[{"slot":"794","text":{"la":[{"k":"h2","lines":[["III. AD DIVERSA"]]},{"k":"h3","lines":[["49. PRO GRATIIS DEO REDDENDIS"],["B"],[{"m":"rubric","t":"Aliæ orationes"}]]}],"pt-BR":[{"k":"h2","lines":[["III. EM DIVERSAS NECESSIDADES"]]},{"k":"h3","lines":[["49. EM AÇÃO DE GRAÇAS"],["B"],[{"m":"rubric","t":"Outras orações"}]]}],"en-US":[{"k":"h2","lines":[["III. FOR VARIOUS PUBLIC NEEDS"]]},{"k":"h3","lines":[["49. FOR GIVING THANKS TO GOD"],["B Other prayers"]]}],"es":[{"k":"h2","lines":[["III. EN DIVERSAS NECESIDADES"]]},{"k":"h3","lines":[["49. PARA DAR GRACIAS A DIOS"],["B"],[{"m":"rubric","t":"Otras oraciones"}]]}],"it":[{"k":"h2","lines":[["III. EN DIVERSAS NECESIDADES"]]},{"k":"h3","lines":[["49. PER IL RENDIMENTO DI GRAZIE"],["B. ALTRE ORAZIONI"]]}],"fr":[{"k":"h2","lines":[["III. POUR DIVERSES CIRCONSTANCES"]]},{"k":"h3","lines":[["49. POUR RENDRE GRÂCE"],["B"],[{"m":"rubric","t":"Aliæ orationes"}]]}],"de":[{"k":"h2","lines":[["III. IN BESONDEREN ANLIEGEN"]]},{"k":"h3","lines":[["49. ZUR DANKSAGUNG"],["B"],[{"m":"rubric","t":"Weitere Orationen"}]]}]},"part":"title"},{"slot":"795","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Eph 5, 19-20"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Ef 5, 19-20"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Eph 5, 19-20"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Eph 5, 19-20"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Eph 5, 19-20"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Eph 5, 19-20"}]},"part":"entranceAntiphon"},{"slot":"796","text":{"la":[{"k":"p","lines":[["Cantáte et psállite in córdibus vestris Dómino, grátias agéntes semper pro ómnibus in nómine Dómini nostri Iesu Christi Deo et Patri."]]}],"pt-BR":[{"k":"p","lines":[["Cantai e celebrai o Senhor de todo o vosso coração."],["Em todo o tempo e a propósito de tudo"],["rendei graças a Deus Pai"],["em nome de nosso Senhor Jesus Cristo."]]}],"en-US":[{"k":"p","lines":[["Sing and make music to the Lord in your hearts, always thanking god the father for all things"],["in the name of our Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[["Cantad y tocad con toda el alma para el Señor. Dad siempre gracias a"],["Dios Padre por todo, en nombre de nuestro Señor Jesucristo."]]}],"fr":[{"k":"p","lines":[["Chantez le Seigneur et célébrez-le de tout votre cœur."],["À tout moment et pour toutes choses,"],["au nom de notre Seigneur Jésus Christ,"],["rendez grâce à Dieu le Père."]]}],"de":[{"k":"p","lines":[["Singt und jubelt aus vollen Herzen zum Lob des Herrn! Sagt Gott, dem Vater, jederzeit Dank für alles im Namen unseres Herrn Jesus Christus."]]}]},"part":"entranceAntiphon"},{"slot":"797","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"798","text":{"la":[{"k":"p","lines":[["Deus, Pater donórum ómnium, a quo descéndere confitémur quidquid habémus aut sumus, benefícia doce nos imménsæ tuæ pietátis agnóscere, ac te sincéro corde totáque nostra virtúte dilígere. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, Pai de todos os dons,"],["fonte de tudo o que temos e somos,"],["1127"],["ensinai-nos a reconhecer os benefícios da vossa imensa bondade"],["e amar-vos de coração sincero e com todas as nossas forças."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, the Father of every gift,"],["we confess that all we have and are comes down from you; teach us to recognize the effects of your boundless care"],["and to love you with a sincere heart and with all our strength. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["Padre de todos los dones,"],["de quien procede cuanto somos y tenemos,"],["enséñanos a reconocer los beneficios de tu inmensa bondad"],["y a amarte con sincero corazón y con todas nuestras fuerzas."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio, Padre di ogni dono, da te discende tutto ciò che siamo e abbiamo: insegnaci a riconoscere i benefici della tua immensa bontà e ad amare te con tutto il cuore e con tutte le forze. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu notre Père,"],["nous proclamons que tout don vient de toi,"],["ce que nous avons et ce que nous sommes ;"],["apprends-nous à reconnaître les bienfaits de ton immense amour"],["et à t'aimer d'un cœur sincère et de toute notre force."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, unser Vater, du Ursprung alles Guten, was wir sind und haben, kommt von dir. Lehre uns, die Wohltaten deiner Güte zu sehen, und gib, dass wir dich mit aufrichtigem Herzen und mit allen unseren Kräften lieben. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"799","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"800","text":{"la":[{"k":"p","lines":[["Pro collátis donis sacrifícium tibi, Dómine, laudis offérimus, supplíciter deprecántes, ut, quod imméritis contulísti, ad nóminis tui glóriam referámus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, ao oferecermos este sacrifício de louvor"],["pelos benefícios recebidos,"],["humildemente vos pedimos"],["atribuir à glória do vosso nome"],["o que a nós, sem mérito algum, nos concedestes."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["For the gifts you have bestowed, O Lord,"],["we offer you the sacrifice of praise,"],["humbly begging"],["that what you have conferred upon us in our unworthiness we may give back, to the glory of your name."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te ofrecemos, Señor,"],["el sacrificio de alabanza"],["para darte gracias por los beneficios recibidos,"],["y te suplicamos que, lo que nos diste sin merecerlo,"],["lo ofrezcamos a gloria de tu nombre."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Ti offriamo, o Signore, il sacrificio di lode per i benefici che ci hai elargito, e ti chiediamo che i doni da te gratuitamente ricevuti diventino azione di grazie a gloria del tuo nome. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Pour les dons que nous avons reçus de toi, Seigneur,"],["nous t'offrons le sacrifice de louange ;"],["nous t'en supplions humblement :"],["ce que tu nous as accordé"],["sans mérite de notre part,"],["puissions-nous le rapporter à la gloire de ton nom."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, ohne unser Verdienst hast du uns reiche Gaben geschenkt. Wir bringen dieses Opfer des Lobes dar und danken dir. Gib, dass wir auf allen Wegen unseres Lebens deine gnädige Fügung erkennen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"802","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Ps 137, 1"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Sl 137, 1"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Ps 137, 1"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Sal 137, 1"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Ps 137, 1"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Ps 138 (137), 1-2"}]},"part":"communionAntiphon"},{"slot":"803","text":{"la":[{"k":"p","lines":[["Confitébor tibi, Dómine, in toto corde meo, quóniam audísti verba oris mei."]]}],"pt-BR":[{"k":"p","lines":[["Ó Senhor, de coração eu vos dou graças"],["porque ouvistes as palavras dos meus lábios."]]}],"en-US":[{"k":"p","lines":[["I will thank you, Lord, with all my heart, for you have heard the words of my mouth."]]}],"es":[{"k":"p","lines":[["Te doy gracias, Señor, de todo corazón, porque escuchaste las palabras de mi boca."]]}],"fr":[{"k":"p","lines":[["De tout mon cœur, Seigneur, je te rends grâce :"],["tu as entendu les paroles de ma bouche."]]}],"de":[{"k":"p","lines":[["Ich will dir danken, Herr, aus ganzem Herzen, denn du hast die Worte meines Mundes gehört."]]}]},"part":"communionAntiphon"},{"slot":"804","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Ps 115, 12-13"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Cf. Sl 115, 12-13"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]],"cite":"Ps 115, 12-13"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Ps 115, 12-13"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":":"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Ps 115, 12-13"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Ps 116 (115), 12-13"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"805","text":{"la":[{"k":"p","lines":[["Quid retríbuam Dómino pro ómnibus quæ retríbuit mihi? Cálicem salutáris accípiam, et nomen Dómini invocábo."]]}],"pt-BR":[{"k":"p","lines":[["Que poderei retribuir ao Senhor Deus"],["por tudo aquilo que ele fez em meu favor?"],["Elevo o cálice da minha salvação,"],["invocando o nome santo do Senhor."]]}],"en-US":[{"k":"p","lines":[["How can I repay the Lord for all his goodness to me? the chalice of salvation I will raise,"],["and I will call on the name of the Lord."]]}],"es":[{"k":"p","lines":[["¿Cómo pagaré al Señor todo el bien que me ha hecho? Alzaré la copa de la salvación, invocando el nombre del Señor."]]}],"fr":[{"k":"p","lines":[["Comment rendrai-je au Seigneur"],["tout le bien qu'il m'a fait ?"],["J'élèverai la coupe du salut,"],["j'invoquerai le nom du Seigneur."]]}],"de":[{"k":"p","lines":[["Wie kann ich dem Herrn all das vergelten, was er mir Gutes getan hat? Ich will den Kelch des Heils erheben und anrufen den Namen des Herrn."]]}]},"part":"communionAntiphon"},{"slot":"806","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"807","text":{"la":[{"k":"p","lines":[["Deus, qui nobis in cibum spiritálem reddidísti Fílii tui sacraméntum salutáre, quod tibi in actiónem obtúlimus gratiárum, da nobis ita virtútis et gáudii munéribus confirmári, ut tibi servíre devótius et nova benefícia cónsequi mereámur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, vós nos destes como alimento espiritual"],["o sacramento salutar do vosso Filho,"],["que vos oferecemos em ação de graças."],["Confirmai-nos com os dons da fortaleza e da alegria,"],["de tal modo que vos sirvamos com maior dedicação"],["e mereçamos receber novos benefícios."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["O God, who have given to us as spiritual food"],["the saving sacrament of your Son,"],["which we have offered you in thanksgiving,"],["grant that, being strengthened by gifts of courage and joy, we may serve you more devotedly"],["and be worthy of still further blessings."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["tú nos entregaste como alimento espiritual"],["este sacramento salvador de tu Hijo"],["que te hemos ofrecido en acción de gracias;"],["confírmanos de tal manera con los dones de tu poder y de tu gozo,"],["que te sirvamos devotamente"],["y merezcamos conseguir nuevos beneficios."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Padre, che ci hai ridonato come cibo spirituale il sacramento di salvezza del tuo Figlio a te offerto in rendimento di grazie, confermaci con questo dono di forza e di gioia, perché possiamo servirti sempre più in santità di vita e sperimentare ancora nuovi benefici. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["nous t'avons offert en action de grâce"],["le sacrement de notre salut accompli par ton Fils,"],["et tu nous l'as rendu en nourriture spirituelle ;"],["accorde-nous d'être affermis"],["par la force et la joie que tu donnes,"],["afin de pouvoir te servir avec plus d'ardeur"],["et obtenir de nouveaux bienfaits."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, um dir zu danken, haben wir unsere Gaben dargebracht, und du hast sie uns im Sakrament deines Sohnes wiedergeschenkt. Stärke uns durch diese geistliche Speise und schenke uns ein freudiges Herz, damit wir dir mit ganzer Hingabe dienen und immer neu deine Güte erfahren. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.61"],"title":{"la":"III. AD DIVERSA","pt-BR":"III. EM DIVERSAS NECESSIDADES","en-US":"III. FOR VARIOUS PUBLIC NEEDS","es":"III. EN DIVERSAS NECESIDADES","it":"III. EN DIVERSAS NECESIDADES","fr":"III. POUR DIVERSES CIRCONSTANCES","de":"III. IN BESONDEREN ANLIEGEN"},"subtitle":{"la":"49. PRO GRATIIS DEO REDDENDIS B Aliæ orationes","pt-BR":"49. EM AÇÃO DE GRAÇAS B Outras orações","en-US":"49. FOR GIVING THANKS TO GOD B Other prayers","es":"49. PARA DAR GRACIAS A DIOS B Otras oraciones","it":"49. PER IL RENDIMENTO DI GRAZIE B. ALTRE ORAZIONI","fr":"49. POUR RENDRE GRÂCE B Aliæ orationes","de":"49. ZUR DANKSAGUNG B Weitere Orationen"}}
+{
+ "id": "various-needs.66",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. AD DIVERSA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "49. PRO GRATIIS DEO REDDENDIS"
+       ],
+       [
+        "B"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Aliæ orationes"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. EM DIVERSAS NECESSIDADES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "49. EM AÇÃO DE GRAÇAS"
+       ],
+       [
+        "B"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Outras orações"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. FOR VARIOUS PUBLIC NEEDS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "49. FOR GIVING THANKS TO GOD"
+       ],
+       [
+        "B Other prayers"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. EN DIVERSAS NECESIDADES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "49. PARA DAR GRACIAS A DIOS"
+       ],
+       [
+        "B"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Otras oraciones"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. EN DIVERSAS NECESIDADES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "49. PER IL RENDIMENTO DI GRAZIE"
+       ],
+       [
+        "B. ALTRE ORAZIONI"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. POUR DIVERSES CIRCONSTANCES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "49. POUR RENDRE GRÂCE"
+       ],
+       [
+        "B"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Aliæ orationes"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. IN BESONDEREN ANLIEGEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "49. ZUR DANKSAGUNG"
+       ],
+       [
+        "B"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Weitere Orationen"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Eph 5, 19-20"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Ef 5, 19-20"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Eph 5, 19-20"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Eph 5, 19-20"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Eph 5, 19-20"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Eph 5, 19-20"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantáte et psállite in córdibus vestris Dómino, grátias agéntes semper pro ómnibus in nómine Dómini nostri Iesu Christi Deo et Patri."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantai e celebrai o Senhor de todo o vosso coração."
+       ],
+       [
+        "Em todo o tempo e a propósito de tudo"
+       ],
+       [
+        "rendei graças a Deus Pai"
+       ],
+       [
+        "em nome de nosso Senhor Jesus Cristo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sing and make music to the Lord in your hearts, always thanking god the father for all things"
+       ],
+       [
+        "in the name of our Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantad y tocad con toda el alma para el Señor. Dad siempre gracias a"
+       ],
+       [
+        "Dios Padre por todo, en nombre de nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chantez le Seigneur et célébrez-le de tout votre cœur."
+       ],
+       [
+        "À tout moment et pour toutes choses,"
+       ],
+       [
+        "au nom de notre Seigneur Jésus Christ,"
+       ],
+       [
+        "rendez grâce à Dieu le Père."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Singt und jubelt aus vollen Herzen zum Lob des Herrn! Sagt Gott, dem Vater, jederzeit Dank für alles im Namen unseres Herrn Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, Pater donórum ómnium, a quo descéndere confitémur quidquid habémus aut sumus, benefícia doce nos imménsæ tuæ pietátis agnóscere, ac te sincéro corde totáque nostra virtúte dilígere. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, Pai de todos os dons,"
+       ],
+       [
+        "fonte de tudo o que temos e somos,"
+       ],
+       [
+        "1127"
+       ],
+       [
+        "ensinai-nos a reconhecer os benefícios da vossa imensa bondade"
+       ],
+       [
+        "e amar-vos de coração sincero e com todas as nossas forças."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, the Father of every gift,"
+       ],
+       [
+        "we confess that all we have and are comes down from you; teach us to recognize the effects of your boundless care"
+       ],
+       [
+        "and to love you with a sincere heart and with all our strength. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "Padre de todos los dones,"
+       ],
+       [
+        "de quien procede cuanto somos y tenemos,"
+       ],
+       [
+        "enséñanos a reconocer los beneficios de tu inmensa bondad"
+       ],
+       [
+        "y a amarte con sincero corazón y con todas nuestras fuerzas."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio, Padre di ogni dono, da te discende tutto ciò che siamo e abbiamo: insegnaci a riconoscere i benefici della tua immensa bontà e ad amare te con tutto il cuore e con tutte le forze. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu notre Père,"
+       ],
+       [
+        "nous proclamons que tout don vient de toi,"
+       ],
+       [
+        "ce que nous avons et ce que nous sommes ;"
+       ],
+       [
+        "apprends-nous à reconnaître les bienfaits de ton immense amour"
+       ],
+       [
+        "et à t'aimer d'un cœur sincère et de toute notre force."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Vater, du Ursprung alles Guten, was wir sind und haben, kommt von dir. Lehre uns, die Wohltaten deiner Güte zu sehen, und gib, dass wir dich mit aufrichtigem Herzen und mit allen unseren Kräften lieben. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pro collátis donis sacrifícium tibi, Dómine, laudis offérimus, supplíciter deprecántes, ut, quod imméritis contulísti, ad nóminis tui glóriam referámus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, ao oferecermos este sacrifício de louvor"
+       ],
+       [
+        "pelos benefícios recebidos,"
+       ],
+       [
+        "humildemente vos pedimos"
+       ],
+       [
+        "atribuir à glória do vosso nome"
+       ],
+       [
+        "o que a nós, sem mérito algum, nos concedestes."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For the gifts you have bestowed, O Lord,"
+       ],
+       [
+        "we offer you the sacrifice of praise,"
+       ],
+       [
+        "humbly begging"
+       ],
+       [
+        "that what you have conferred upon us in our unworthiness we may give back, to the glory of your name."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te ofrecemos, Señor,"
+       ],
+       [
+        "el sacrificio de alabanza"
+       ],
+       [
+        "para darte gracias por los beneficios recibidos,"
+       ],
+       [
+        "y te suplicamos que, lo que nos diste sin merecerlo,"
+       ],
+       [
+        "lo ofrezcamos a gloria de tu nombre."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti offriamo, o Signore, il sacrificio di lode per i benefici che ci hai elargito, e ti chiediamo che i doni da te gratuitamente ricevuti diventino azione di grazie a gloria del tuo nome. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pour les dons que nous avons reçus de toi, Seigneur,"
+       ],
+       [
+        "nous t'offrons le sacrifice de louange ;"
+       ],
+       [
+        "nous t'en supplions humblement :"
+       ],
+       [
+        "ce que tu nous as accordé"
+       ],
+       [
+        "sans mérite de notre part,"
+       ],
+       [
+        "puissions-nous le rapporter à la gloire de ton nom."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, ohne unser Verdienst hast du uns reiche Gaben geschenkt. Wir bringen dieses Opfer des Lobes dar und danken dir. Gib, dass wir auf allen Wegen unseres Lebens deine gnädige Fügung erkennen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Ps 137, 1"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Sl 137, 1"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Ps 137, 1"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Sal 137, 1"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Ps 137, 1"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Ps 138 (137), 1-2"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confitébor tibi, Dómine, in toto corde meo, quóniam audísti verba oris mei."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Senhor, de coração eu vos dou graças"
+       ],
+       [
+        "porque ouvistes as palavras dos meus lábios."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will thank you, Lord, with all my heart, for you have heard the words of my mouth."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te doy gracias, Señor, de todo corazón, porque escuchaste las palabras de mi boca."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "De tout mon cœur, Seigneur, je te rends grâce :"
+       ],
+       [
+        "tu as entendu les paroles de ma bouche."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich will dir danken, Herr, aus ganzem Herzen, denn du hast die Worte meines Mundes gehört."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Ps 115, 12-13"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Cf. Sl 115, 12-13"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ],
+      "cite": "Ps 115, 12-13"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Ps 115, 12-13"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": ":"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Ps 115, 12-13"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Ps 116 (115), 12-13"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quid retríbuam Dómino pro ómnibus quæ retríbuit mihi? Cálicem salutáris accípiam, et nomen Dómini invocábo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que poderei retribuir ao Senhor Deus"
+       ],
+       [
+        "por tudo aquilo que ele fez em meu favor?"
+       ],
+       [
+        "Elevo o cálice da minha salvação,"
+       ],
+       [
+        "invocando o nome santo do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "How can I repay the Lord for all his goodness to me? the chalice of salvation I will raise,"
+       ],
+       [
+        "and I will call on the name of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "¿Cómo pagaré al Señor todo el bien que me ha hecho? Alzaré la copa de la salvación, invocando el nombre del Señor."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Comment rendrai-je au Seigneur"
+       ],
+       [
+        "tout le bien qu'il m'a fait ?"
+       ],
+       [
+        "J'élèverai la coupe du salut,"
+       ],
+       [
+        "j'invoquerai le nom du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wie kann ich dem Herrn all das vergelten, was er mir Gutes getan hat? Ich will den Kelch des Heils erheben und anrufen den Namen des Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui nobis in cibum spiritálem reddidísti Fílii tui sacraméntum salutáre, quod tibi in actiónem obtúlimus gratiárum, da nobis ita virtútis et gáudii munéribus confirmári, ut tibi servíre devótius et nova benefícia cónsequi mereámur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, vós nos destes como alimento espiritual"
+       ],
+       [
+        "o sacramento salutar do vosso Filho,"
+       ],
+       [
+        "que vos oferecemos em ação de graças."
+       ],
+       [
+        "Confirmai-nos com os dons da fortaleza e da alegria,"
+       ],
+       [
+        "de tal modo que vos sirvamos com maior dedicação"
+       ],
+       [
+        "e mereçamos receber novos benefícios."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who have given to us as spiritual food"
+       ],
+       [
+        "the saving sacrament of your Son,"
+       ],
+       [
+        "which we have offered you in thanksgiving,"
+       ],
+       [
+        "grant that, being strengthened by gifts of courage and joy, we may serve you more devotedly"
+       ],
+       [
+        "and be worthy of still further blessings."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "tú nos entregaste como alimento espiritual"
+       ],
+       [
+        "este sacramento salvador de tu Hijo"
+       ],
+       [
+        "que te hemos ofrecido en acción de gracias;"
+       ],
+       [
+        "confírmanos de tal manera con los dones de tu poder y de tu gozo,"
+       ],
+       [
+        "que te sirvamos devotamente"
+       ],
+       [
+        "y merezcamos conseguir nuevos beneficios."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che ci hai ridonato come cibo spirituale il sacramento di salvezza del tuo Figlio a te offerto in rendimento di grazie, confermaci con questo dono di forza e di gioia, perché possiamo servirti sempre più in santità di vita e sperimentare ancora nuovi benefici. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "nous t'avons offert en action de grâce"
+       ],
+       [
+        "le sacrement de notre salut accompli par ton Fils,"
+       ],
+       [
+        "et tu nous l'as rendu en nourriture spirituelle ;"
+       ],
+       [
+        "accorde-nous d'être affermis"
+       ],
+       [
+        "par la force et la joie que tu donnes,"
+       ],
+       [
+        "afin de pouvoir te servir avec plus d'ardeur"
+       ],
+       [
+        "et obtenir de nouveaux bienfaits."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, um dir zu danken, haben wir unsere Gaben dargebracht, und du hast sie uns im Sakrament deines Sohnes wiedergeschenkt. Stärke uns durch diese geistliche Speise und schenke uns ein freudiges Herz, damit wir dir mit ganzer Hingabe dienen und immer neu deine Güte erfahren. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.61"
+ ],
+ "title": {
+  "la": "III. AD DIVERSA",
+  "pt-BR": "III. EM DIVERSAS NECESSIDADES",
+  "en-US": "III. FOR VARIOUS PUBLIC NEEDS",
+  "es": "III. EN DIVERSAS NECESIDADES",
+  "it": "III. EN DIVERSAS NECESIDADES",
+  "fr": "III. POUR DIVERSES CIRCONSTANCES",
+  "de": "III. IN BESONDEREN ANLIEGEN"
+ },
+ "subtitle": {
+  "la": "49. PRO GRATIIS DEO REDDENDIS B Aliæ orationes",
+  "pt-BR": "49. EM AÇÃO DE GRAÇAS B Outras orações",
+  "en-US": "49. FOR GIVING THANKS TO GOD B Other prayers",
+  "es": "49. PARA DAR GRACIAS A DIOS B Otras oraciones",
+  "it": "49. PER IL RENDIMENTO DI GRAZIE B. ALTRE ORAZIONI",
+  "fr": "49. POUR RENDRE GRÂCE B Aliæ orationes",
+  "de": "49. ZUR DANKSAGUNG B Weitere Orationen"
+ }
+}

@@ -1,1 +1,797 @@
-{"id":"sanctorale.05-15.spain","source":"lecturas/lecturas_santos_may#0515","items":[{"slot":"85","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["15 de mayo"],["San Isidro, labrador"]]}]}},{"text":{"*":[{"k":"p","lines":[["Primera Lectura ",{"m":"rubric","t":"(en tiempo pascual)"}]],"role":"title"}]},"part":"firstReading","alt":{"group":1,"option":1,"label":"or"}},{"text":{"*":[{"k":"p","lines":[["El labrador aguarda el fruto precioso de la tierra, esperando con paciencia"]],"role":"summary"}]},"part":"firstReading","alt":{"group":1,"option":1,"label":"or"}},{"text":{"*":[{"k":"p","lines":[["Lectura de la carta del apóstol Santiago"]],"cite":"5, 7-8. 11. 16-18","role":"announcement"}]},"part":"firstReading","alt":{"group":1,"option":1,"label":"or"}},{"text":{"*":[{"k":"p","lines":[["Hermanos, esperad con paciencia hasta la venida del Señor."],["Mirad: el labrador aguarda el fruto precioso de la tierra, esperando con paciencia hasta que recibe la lluvia temprana y la tardía."],["Esperad con paciencia también vosotros, y fortaleced vuestros corazones, porque la venida del Señor está cerca."],["Mirad: nosotros proclamamos dichosos a los que tuvieron paciencia. Habéis oído hablar de la paciencia de Job y ya sabéis el final que le concedió el Señor, porque el Señor es compasivo y misericordioso."],["Por tanto, confesaos mutuamente los pecados y rezad unos por otros para que os curéis: mucho puede la oración insistente del justo. Elías era semejante a nosotros en el sufrimiento, y rezó insistentemente para que no lloviera, y no llovió sobre la tierra durante tres años y seis meses. Volvió a rezar, y el cielo dio la lluvia y la tierra produjo su fruto."]]}]},"part":"firstReading","alt":{"group":1,"option":1,"label":"or"}},{"text":{"*":[{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}]},"part":"firstReading","alt":{"group":1,"option":1,"label":"or"}},{"text":{"*":[{"k":"p","lines":[["Primera Lectura ",{"m":"rubric","t":"(fuera del tiempo pascual)"}]],"role":"title"}]},"part":"firstReading","alt":{"group":1,"option":2,"label":"or"}},{"text":{"*":[{"k":"p","lines":[["Someted la tierra"]],"role":"summary"}]},"part":"firstReading","alt":{"group":1,"option":2,"label":"or"}},{"text":{"*":[{"k":"p","lines":[["Lectura del libro del Génesis"]],"cite":"1, 1-2. 11-13. 26-28","role":"announcement"}]},"part":"firstReading","alt":{"group":1,"option":2,"label":"or"}},{"text":{"*":[{"k":"p","lines":[["Al principio creó Dios el cielo y la tierra. La tierra estaba informe y vacía; la tiniebla cubría la superficie del abismo, mientras el espíritu de Dios se cernía sobre la faz de las aguas. Dijo Dios:"],["«Cúbrase la tierra de verdor, de hierba verde que engendre semilla, y de árboles frutales que den fruto según su especie y que lleven semilla sobre la tierra»."],["Y así fue."],["La tierra brotó hierba verde que engendraba semilla según su especie, y árboles que daban fruto y llevaban semilla según su especie."],["Y vio Dios que era bueno."],["Pasó una tarde, pasó una mañana: el día tercero."],["Dijo Dios:"],["«Hagamos al hombre a nuestra imagen y semejanza; que domine los peces del mar, las aves del cielo, los ganados y los reptiles de la tierra»."],["Y creó Dios al hombre a su imagen, a imagen de Dios lo creó, varón y mujer los creó."],["Dios los bendijo; y les dijo Dios:"],["«Sed fecundos y multiplicaos, llenad la tierra y sometedla; dominad los peces del mar, las aves del cielo y todos los animales que se mueven sobre la tierra»."]]}]},"part":"firstReading","alt":{"group":1,"option":2,"label":"or"}},{"text":{"*":[{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}]},"part":"firstReading","alt":{"group":1,"option":2,"label":"or"}},{"slot":"86","text":{"*":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 1","role":"title"}]},"part":"psalm"},{"slot":"87","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Su gozo es la ley del Señor."]]}]},"part":"psalm","role":"people"},{"slot":"88","text":{"*":[{"k":"p","lines":[["Dichoso el hombre"],["que no sigue el consejo de los impíos,"],["ni entra por la senda de los pecadores,"],["ni se sienta en la reunión de los cínicos;"],["sino que su gozo es la ley del Señor,"],["y medita su ley día y noche."]]}]},"part":"psalm","role":"verse"},{"slot":"89","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Su gozo es la ley del Señor."]]}]},"part":"psalm","role":"people"},{"slot":"90","text":{"*":[{"k":"p","lines":[["Será como un árbol"],["plantado al borde de la acequia:"],["da fruto en su sazón"],["y no se marchitan sus hojas;"],["y cuanto emprende tiene buen fin."]]}]},"part":"psalm","role":"verse"},{"slot":"91","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Su gozo es la ley del Señor."]]}]},"part":"psalm","role":"people"},{"slot":"92","text":{"*":[{"k":"p","lines":[["No así los impíos, no así;"],["serán paja que arrebata el viento."],["Porque el Señor protege el camino de los justos,"],["pero el camino de los impíos acaba mal."]]}]},"part":"psalm","role":"verse"},{"slot":"93","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Su gozo es la ley del Señor."]]}]},"part":"psalm","role":"people"},{"slot":"94","text":{"*":[{"k":"p","lines":[["Aleluya"]],"cite":"Jn 15, 9b. 5b","role":"title"},{"k":"p","lines":[["Aleluya."],["Permaneced en mi amor —dice el Señor—;"],["el que permanece en mí y yo en él,"],["ese da fruto abundante."],["Aleluya."]]}]},"part":"acclamation"},{"slot":"95","text":{"*":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["Yo soy la verdadera vid, y mi Padre es el labrador"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Juan"]],"cite":"15, 1-7","role":"announcement"}]},"part":"gospel"},{"slot":"96","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"97","text":{"*":[{"k":"p","lines":[["En aquel tiempo, dijo Jesús a sus discípulos:"],["«Yo soy la verdadera vid, y mi Padre es el labrador. A todo sarmiento que no da fruto en mí lo arranca, y a todo el que da fruto lo poda, para que dé más fruto. Vosotros ya estáis limpios por la palabra que os he hablado; permaneced en mí, y yo en vosotros."],["Como el sarmiento no puede dar fruto por sí, si no permanece en la vid, así tampoco vosotros, si no permanecéis en mí."],["Yo soy la vid, vosotros los sarmientos; el que permanece en mí y yo en él, ese da fruto abundante; porque sin mí no podéis hacer nada. Al que no permanece en mí lo tiran fuera, como el sarmiento, y se seca; luego los recogen y los echan al fuego, y arden."],["Si permanecéis en mí y mis palabras permanecen en vosotros, pedid lo que deseáis, y se realizará»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"98","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"*":"San Isidro, labrador"}}
+{
+ "id": "sanctorale.05-15.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 de mayo"
+       ],
+       [
+        "San Isidro, labrador"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura ",
+        {
+         "m": "rubric",
+         "t": "(en tiempo pascual)"
+        }
+       ]
+      ],
+      "role": "title"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El labrador aguarda el fruto precioso de la tierra, esperando con paciencia"
+       ]
+      ],
+      "role": "summary"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la carta del apóstol Santiago"
+       ]
+      ],
+      "cite": "5, 7-8. 11. 16-18",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos, esperad con paciencia hasta la venida del Señor."
+       ],
+       [
+        "Mirad: el labrador aguarda el fruto precioso de la tierra, esperando con paciencia hasta que recibe la lluvia temprana y la tardía."
+       ],
+       [
+        "Esperad con paciencia también vosotros, y fortaleced vuestros corazones, porque la venida del Señor está cerca."
+       ],
+       [
+        "Mirad: nosotros proclamamos dichosos a los que tuvieron paciencia. Habéis oído hablar de la paciencia de Job y ya sabéis el final que le concedió el Señor, porque el Señor es compasivo y misericordioso."
+       ],
+       [
+        "Por tanto, confesaos mutuamente los pecados y rezad unos por otros para que os curéis: mucho puede la oración insistente del justo. Elías era semejante a nosotros en el sufrimiento, y rezó insistentemente para que no lloviera, y no llovió sobre la tierra durante tres años y seis meses. Volvió a rezar, y el cielo dio la lluvia y la tierra produjo su fruto."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura ",
+        {
+         "m": "rubric",
+         "t": "(fuera del tiempo pascual)"
+        }
+       ]
+      ],
+      "role": "title"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Someted la tierra"
+       ]
+      ],
+      "role": "summary"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Génesis"
+       ]
+      ],
+      "cite": "1, 1-2. 11-13. 26-28",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al principio creó Dios el cielo y la tierra. La tierra estaba informe y vacía; la tiniebla cubría la superficie del abismo, mientras el espíritu de Dios se cernía sobre la faz de las aguas. Dijo Dios:"
+       ],
+       [
+        "«Cúbrase la tierra de verdor, de hierba verde que engendre semilla, y de árboles frutales que den fruto según su especie y que lleven semilla sobre la tierra»."
+       ],
+       [
+        "Y así fue."
+       ],
+       [
+        "La tierra brotó hierba verde que engendraba semilla según su especie, y árboles que daban fruto y llevaban semilla según su especie."
+       ],
+       [
+        "Y vio Dios que era bueno."
+       ],
+       [
+        "Pasó una tarde, pasó una mañana: el día tercero."
+       ],
+       [
+        "Dijo Dios:"
+       ],
+       [
+        "«Hagamos al hombre a nuestra imagen y semejanza; que domine los peces del mar, las aves del cielo, los ganados y los reptiles de la tierra»."
+       ],
+       [
+        "Y creó Dios al hombre a su imagen, a imagen de Dios lo creó, varón y mujer los creó."
+       ],
+       [
+        "Dios los bendijo; y les dijo Dios:"
+       ],
+       [
+        "«Sed fecundos y multiplicaos, llenad la tierra y sometedla; dominad los peces del mar, las aves del cielo y todos los animales que se mueven sobre la tierra»."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 1",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Su gozo es la ley del Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dichoso el hombre"
+       ],
+       [
+        "que no sigue el consejo de los impíos,"
+       ],
+       [
+        "ni entra por la senda de los pecadores,"
+       ],
+       [
+        "ni se sienta en la reunión de los cínicos;"
+       ],
+       [
+        "sino que su gozo es la ley del Señor,"
+       ],
+       [
+        "y medita su ley día y noche."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Su gozo es la ley del Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Será como un árbol"
+       ],
+       [
+        "plantado al borde de la acequia:"
+       ],
+       [
+        "da fruto en su sazón"
+       ],
+       [
+        "y no se marchitan sus hojas;"
+       ],
+       [
+        "y cuanto emprende tiene buen fin."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Su gozo es la ley del Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No así los impíos, no así;"
+       ],
+       [
+        "serán paja que arrebata el viento."
+       ],
+       [
+        "Porque el Señor protege el camino de los justos,"
+       ],
+       [
+        "pero el camino de los impíos acaba mal."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Su gozo es la ley del Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 15, 9b. 5b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya."
+       ],
+       [
+        "Permaneced en mi amor —dice el Señor—;"
+       ],
+       [
+        "el que permanece en mí y yo en él,"
+       ],
+       [
+        "ese da fruto abundante."
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo soy la verdadera vid, y mi Padre es el labrador"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Juan"
+       ]
+      ],
+      "cite": "15, 1-7",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus discípulos:"
+       ],
+       [
+        "«Yo soy la verdadera vid, y mi Padre es el labrador. A todo sarmiento que no da fruto en mí lo arranca, y a todo el que da fruto lo poda, para que dé más fruto. Vosotros ya estáis limpios por la palabra que os he hablado; permaneced en mí, y yo en vosotros."
+       ],
+       [
+        "Como el sarmiento no puede dar fruto por sí, si no permanece en la vid, así tampoco vosotros, si no permanecéis en mí."
+       ],
+       [
+        "Yo soy la vid, vosotros los sarmientos; el que permanece en mí y yo en él, ese da fruto abundante; porque sin mí no podéis hacer nada. Al que no permanece en mí lo tiran fuera, como el sarmiento, y se seca; luego los recogen y los echan al fuego, y arden."
+       ],
+       [
+        "Si permanecéis en mí y mis palabras permanecen en vosotros, pedid lo que deseáis, y se realizará»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "San Isidro, labrador"
+ }
+}

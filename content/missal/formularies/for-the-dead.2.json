@@ -1,1 +1,1580 @@
-{"id":"for-the-dead.2","source":"comunes_votivas/difuntos#dif002","kind":"for-the-dead","items":[{"slot":"15","text":{"la":[{"k":"h2","lines":[["I. IN EXSEQUIIS"]]},{"k":"h3","lines":[["B. EXTRA TEMPUS PASCHALE"]]}],"pt-BR":[{"k":"h2","lines":[["1. NAS EXÉQUIAS"]]},{"k":"h3","lines":[["B. Fora do Tempo Pascal"]]}],"en-US":[{"k":"h2","lines":[["I. FOR THE FUNERAL"]]},{"k":"h3","lines":[["B. Outside Easter Time"]]}],"es":[{"k":"h2","lines":[["I. EN LAS EXEQUIAS"]]},{"k":"h3","lines":[["B. Fuera del tiempo pascual"]]}],"it":[{"k":"h2","lines":[["I. NELLE ESEQUIE"]]},{"k":"h3","lines":[["B. Fuori del tempo pasquale"]]}],"fr":[{"k":"h2","lines":[["I. MESSE DES FUNÉRAILLES"]]},{"k":"h3","lines":[["B. HORS DU TEMPS PASCAL"]]}],"de":[{"k":"h2","lines":[["I. AM BEGRÄBNISTAG"]]},{"k":"h3","lines":[["B. Außerhalb der Osterzeit"]]}]},"part":"title"},{"slot":"16","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]]}]},"part":"entranceAntiphon"},{"slot":"17","text":{"la":[{"k":"p","lines":[["Apériat ei Dóminus paradísi iánuam, ut ad illam pátriam revertátur, ubi mors non est, ubi ætérnum gáudium persevérat."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor lhe abra a porta do paraíso, para que volte àquela pátria onde não há morte, mas eterna alegria."]]}],"en-US":[{"k":"p","lines":[["May the Lord open to him ",{"m":"rubric","t":"("},"her",{"m":"rubric","t":")"}," the gates of paradise, that he ",{"m":"rubric","t":"("},"she",{"m":"rubric","t":")"}," may return to that homeland"],["where there is no death, where eternal joy endures."]]}],"es":[{"k":"p","lines":[["El Señor le abra las puertas del paraíso para que pueda volver a aquella patria donde no hay muerte, donde permanece la alegría sin fin."]]}],"it":[{"k":"p","lines":[["Il Signore gli",{"m":"rubric","t":"["},"le",{"m":"rubric","t":"]"}," apra le porte del paradiso, perché possa tornare a quella patria in cui non vi è morte, ma gioia eterna."]]}],"fr":[{"k":"p","lines":[["Que le Seigneur ouvre à notre frère la porte du Paradis,"],["l'entrée dans cette patrie où la mort n'existe plus,"],["où s'épanouit une joie éternelle."]]}],"de":[{"k":"p","lines":[["Der Herr tue ihm ",{"m":"rubric","t":"("},"ihr",{"m":"rubric","t":")"}," das Tor zum Paradies auf, zur Heimkehr in das Land, wo kein Tod mehr ist, in das Land der ewigen Freude."]]}]},"part":"entranceAntiphon"},{"slot":"18","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"19","text":{"la":[{"k":"p","lines":[["Deus, misericórdia peccatórum et tuórum beatitúdo Sanctórum, da, quǽsumus, fámulo tuo ",{"m":"rubric","t":"N."},", cuius depositiónis ",{"m":"rubric","t":"("},"hódie",{"m":"rubric","t":")"}," offícia humanitátis persólvimus, cum eléctis tuis beáti múneris portiónem, ut eum, a mortalitátis néxibus absolútum, in die resurrectiónis ante fáciem tuam præsentári concédas. Per Dóminum."],[{"m":"rubric","t":"Vel: "}],["Deus, qui posuísti præséntis vitæ términum, ut æternitátis réseres intróitum, te súpplices deprecámur, ut nomen fámuli tui ",{"m":"rubric","t":"N."}," in libro vitæ miseratiónis tuæ gratia iúbeas cónscribi. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, misericórdia para os pecadores e felicidade dos vossos santos, concedei ao vosso servo ",{"m":"rubric","t":"N."},", que ",{"m":"rubric","t":"("},"hoje",{"m":"rubric","t":")"}," piedosamente sepultamos, receber o prêmio com os vossos santos e, livre dos laços da morte, apresentar-se diante da vossa face no dia da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."],[{"m":"rubric","t":"Ou: "}],["Ó Deus, que estabelecestes o termo da vida presente para abrir a porta da eternidade; humildemente vos suplicamos, pela vossa benigna misericórdia, seja inscrito no livro da vida o nome do vosso servo N .. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who are mercy for sinners"],["and the happiness of your saints,"],["give, we pray, to your servant ",{"m":"rubric","t":"N."},","],["for whom ",{"m":"rubric","t":"("},"today",{"m":"rubric","t":")"}," we perform the fraternal offices of burial, a share with your chosen ones in the blessedness you give, so that on the day of resurrection,"],["freed from the bonds of mortality,"],["he ",{"m":"rubric","t":"("},"she",{"m":"rubric","t":")"}," may come before your face."],["Through our lord Jesus Christ, your son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."],[{"m":"rubric","t":"Or: "}],["O God, who have set a limit to this present life, so as to open up an entry into eternity,"],["we humbly beseech you,"],["that by the grace of your mercy"],["you may command the name of your servant ",{"m":"rubric","t":"N."}],["to be inscribed in the book of life."],["Through our lord Jesus Christ, your son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["misericordia de los pecadores"],["y felicidad de tus santos,"],["al cumplir ",{"m":"rubric","t":"["},"hoy",{"m":"rubric","t":"]"}," el deber humano"],["de dar sepultura al cuerpo de tu siervo ",{"m":"rubric","t":"N."},","],["te pedimos le des parte"],["en el gozo de tus elegidos"],["y que, libre de las ataduras de la muerte,"],["pueda presentarse ante ti"],["el día de la resurrección."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che sei misericordia per i peccatori e gioia eterna dei tuoi santi, concedi al nostro fratello ",{"m":"rubric","t":"["},"alla nostra sorella",{"m":"rubric","t":"] N."}," ,a cui oggi diamo l'estremo saluto, di avere parte, insieme ai tuoi eletti, al dono della beatitudine, perché, liberato",{"m":"rubric","t":"["},"a",{"m":"rubric","t":"]"}," dai vincoli della condizione mortale, nel giorno della risurrezione possa contemplare il tuo volto. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."],[{"m":"rubric","t":"Oppure:"}],["O Dio, che hai posto un limite alla vita terrena per aprirci il passaggio all'eternità, supplichiamo la tua infinita misericordia perché il nome del nostro fratello ",{"m":"rubric","t":"["},"alla nostra sorella",{"m":"rubric","t":"] N."}," sia scritto nel libro della vita. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu d'amour, source de tout amour,"],["l'affection que tu as mise en nos cœurs"],["pour ton serviteur ",{"m":"rubric","t":"N."}],["nous invite à te prier avec confiance :"],["tu veux pardonner à tout homme pécheur"],["et tu fais vivre ceux que tu sanctifies ;"],["Accorde à notre ami"],["le bonheur que tu réserves à tes fidèles :"],["Délivre-le totalement"],["de ce qui le retient loin de toi,"],["et donne-lui de se tenir devant ta face"],["au jour de la résurrection."],["Par Jésus Christ."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, du Zuflucht der Sünder, du ewige Freude deiner Heiligen. Befreie deinen Diener ",{"m":"rubric","t":"("},"deine Dienerin",{"m":"rubric","t":") N."},", den (die) wir heute zu Grabe geleiten (geleitet haben), von den Fesseln des Todes. Gib ihm (ihr) mit deinen Heiligen Anteil am ewigen Leben und rufe ihn (sie) am Tag der Auferstehung vor dein Angesicht. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"20","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"21","text":{"la":[{"k":"p","lines":[["Adésto, Dómine, quǽsumus, pro fámulo tuo ",{"m":"rubric","t":"N."},", cuius in die depositiónis hoc sacrifícium tibi placatiónis offérimus, ut, si qua ei peccáti mácula inhǽsit aut vítium humánum infécit, dono tuæ pietátis indúlgeas et abstérgeas. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, sede propício ao vosso servo ",{"m":"rubric","t":"N."}," pelo qual vos oferecemos este sacrifício de reconciliação no dia do seu sepultamento; e, se ainda nele resta alguma mancha de pecado ou imperfeição própria da fragilidade humana, perdoai-lhe e purificai-o pelo dom da vossa misericórdia. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Be near, O Lord, we pray, to your servant ",{"m":"rubric","t":"N."},","],["on whose funeral day"],["we offer you this sacrifice of conciliation,"],["so that, should any stain of sin have clung to him ",{"m":"rubric","t":"("},"her",{"m":"rubric","t":")"}," or any human fault have affected him ",{"m":"rubric","t":"("},"her",{"m":"rubric","t":")"},","],["it may, by your loving gift, be forgiven and wiped away."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Muéstrate propicio, Señor,"],["con tu siervo ",{"m":"rubric","t":"N."},","],["por quien te ofrecemos este sacrificio expiatorio"],["en el día de su sepultura,"],["y, si en algo quedó manchado por la culpa"],["o por debilidad de su condición humana,"],["que tu misericordia le perdone y purifique."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guarda, o Signore, il nostro fratello ",{"m":"rubric","t":"["},"alla nostra sorella",{"m":"rubric","t":"] N."}," per il ",{"m":"rubric","t":"["},"la",{"m":"rubric","t":"]"}," quale ",{"m":"rubric","t":"["},"nel giorno della sepoltura",{"m":"rubric","t":"]"}," ti offriamo questo sacrificio di riconciliazione: se qualche macchia di peccato lo ha contaminato ",{"m":"rubric","t":"["},"l'ha contaminata]",{"m":"rubric","t":"]"},", e qualche umana fragilità lo ha ferito ",{"m":"rubric","t":"["},"l'ha ferita",{"m":"rubric","t":"]"},", il tuo amore misericordioso lo ",{"m":"rubric","t":"["},"la",{"m":"rubric","t":"]"}," perdoni e lo ",{"m":"rubric","t":"["},"la",{"m":"rubric","t":"]"}," purifichi. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Prends pitié, Dieu très bon,"],["de celui qui vient de mourir ;"],["C'est pour lui que nous t'offrons"],["le sacrifice qui donne la paix :"],["Si le péché a pu l'atteindre,"],["si la faiblesse humaine l'a marqué,"],["que ton amour lui pardonne,"],["que ton amour le purifie."],["Par Jésus."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, wir feiern das Opfer der Versöhnung für deinen Diener ",{"m":"rubric","t":"("},"deine Dienerin",{"m":"rubric","t":") N."},", den (die) wir heute bestatten (bestattet haben). Wenn noch Makel und Sünden an ihm (ihr) haften, so tilge seine (ihre) Schuld in deinem Erbarmen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"23","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Phil 3, 20-21"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Fl 3, 20-21"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Flp-3, 20-21"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"f. Fil 3, 20-21"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Phil 3, 20-21"}],"de":[{"k":"h4","lines":[["KommunionversPhil 3, 20-21"]]}]},"part":"communionAntiphon"},{"slot":"24","text":{"la":[{"k":"p","lines":[["Salvatórem exspectámus Dóminum nostrum Iesum Christum, qui reformábit corpus humilitátis nostræ configurátum córpori claritátis suæ."]]}],"pt-BR":[{"k":"p","lines":[["Aguardamos o nosso Salvador, o Senhor, Jesus Cristo. Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso."]]}],"en-US":[{"k":"p","lines":[["We await a savior, the Lord Jesus christ, who will change our mortal bodies,"],["to conform with his glorified body."]]}],"es":[{"k":"p","lines":[["Aguardamos un Salvador: el Señor Jesucristo. Él transformará nuestro cuerpo humilde, según el modelo de su cuerpo glorioso."]]}],"it":[{"k":"p","lines":[["Aspettiamo il nostro salvatore Gesù Cristo: Cegli trasfigurerà il nostro corpo mortale a immagine del suo corpo glorioso."]]}],"fr":[{"k":"p","lines":[["Nous attendons notre Sauveur, le Seigneur Jésus Christ,"],["lui qui transformera nos corps mortels"],["à l'image de son corps glorieux"]]}],"de":[{"k":"p","lines":[["Wir erwarten den Retter, den Herrn Jesus Christus, der unseren armseligen Leib verwandeln wird in die Gestalt seines verherrlichten Leibes."]]}]},"part":"communionAntiphon"},{"slot":"25","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"26","text":{"la":[{"k":"p","lines":[["Præsta, quǽsumus, omnípotens Deus, ut fámulus tuus ",{"m":"rubric","t":"N."},", qui ",{"m":"rubric","t":"("},"hódie",{"m":"rubric","t":")"}," de hoc sǽculo migrávit, his sacrifíciis purgátus et a peccátis expedítus, resurrectiónis suscípiat gáudia sempitérna. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Deus onipotente, ao vosso servo ",{"m":"rubric","t":"N."},", que ",{"m":"rubric","t":"("},"hoje",{"m":"rubric","t":")"}," partiu deste mundo, concedei que, purificado por este sacrifício e livre de todo pecado, receba a alegria eterna da ressurreição. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, almighty God,"],["that your servant ",{"m":"rubric","t":"N."},","],["who ",{"m":"rubric","t":"("},"today",{"m":"rubric","t":")"}," has journeyed from this world,"],["may by this sacrifice be cleansed and freed from sin and so receive the everlasting joys of the Resurrection."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso, te pedimos por tu siervo ",{"m":"rubric","t":"N."}],["que ",{"m":"rubric","t":"["},"hoy",{"m":"rubric","t":"]"}," ha partido de este mundo,"],["para que, purificado por este sacrificio y libre de pecado,"],["lo admitas a las alegrías eternas de la resurrección."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Concedi, Dio onnipotente, al nostro fratello ",{"m":"rubric","t":"["},"alla nostra sorella",{"m":"rubric","t":"] N."},", ",{"m":"rubric","t":"["},"oggi",{"m":"rubric","t":"]"}," passato ",{"m":"rubric","t":"["},"a",{"m":"rubric","t":"]"}," da questo sacrificio e liberato",{"m":"rubric","t":"["},"a",{"m":"rubric","t":"]"}," da ogni peccato, possa partecipare alla gloria eterna della risurrezione. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Toi qui es plus fort que la mort, Seigneur,"],["nous te supplions pour ",{"m":"rubric","t":"N."}],["qui vient de quitter cette vie :"],["Permets que purifié par cette eucharistie"],["et dégagé de ses fautes,"],["il connaisse les joies de la résurrection."],["Par Jésus"]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, unser Bruder ",{"m":"rubric","t":"("},"unsere Schwester",{"m":"rubric","t":") N."}," ist (heute) aus dieser Welt zu dir heimgekehrt. Reinige ihn (sie) durch die Kraft dieses Opfers, befreie ihn (sie) von der Last seiner (ihrer) Sünden und lass ihn (sie) auferstehen zur ewigen Freude. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.67","preface.68","preface.69","preface.70","preface.71"],"title":{"la":"I. IN EXSEQUIIS","pt-BR":"1. NAS EXÉQUIAS","en-US":"I. FOR THE FUNERAL","es":"I. EN LAS EXEQUIAS","it":"I. NELLE ESEQUIE","fr":"I. MESSE DES FUNÉRAILLES","de":"I. AM BEGRÄBNISTAG"},"subtitle":{"la":"B. EXTRA TEMPUS PASCHALE","pt-BR":"B. Fora do Tempo Pascal","en-US":"B. Outside Easter Time","es":"B. Fuera del tiempo pascual","it":"B. Fuori del tempo pasquale","fr":"B. HORS DU TEMPS PASCAL","de":"B. Außerhalb der Osterzeit"}}
+{
+ "id": "for-the-dead.2",
+ "kind": "for-the-dead",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. IN EXSEQUIIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "B. EXTRA TEMPUS PASCHALE"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "1. NAS EXÉQUIAS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "B. Fora do Tempo Pascal"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FOR THE FUNERAL"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "B. Outside Easter Time"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. EN LAS EXEQUIAS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "B. Fuera del tiempo pascual"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. NELLE ESEQUIE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "B. Fuori del tempo pasquale"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. MESSE DES FUNÉRAILLES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "B. HORS DU TEMPS PASCAL"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. AM BEGRÄBNISTAG"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "B. Außerhalb der Osterzeit"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apériat ei Dóminus paradísi iánuam, ut ad illam pátriam revertátur, ubi mors non est, ubi ætérnum gáudium persevérat."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor lhe abra a porta do paraíso, para que volte àquela pátria onde não há morte, mas eterna alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the Lord open to him ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "her",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " the gates of paradise, that he ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "she",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " may return to that homeland"
+       ],
+       [
+        "where there is no death, where eternal joy endures."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor le abra las puertas del paraíso para que pueda volver a aquella patria donde no hay muerte, donde permanece la alegría sin fin."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore gli",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "le",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " apra le porte del paradiso, perché possa tornare a quella patria in cui non vi è morte, ma gioia eterna."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que le Seigneur ouvre à notre frère la porte du Paradis,"
+       ],
+       [
+        "l'entrée dans cette patrie où la mort n'existe plus,"
+       ],
+       [
+        "où s'épanouit une joie éternelle."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr tue ihm ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "ihr",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " das Tor zum Paradies auf, zur Heimkehr in das Land, wo kein Tod mehr ist, in das Land der ewigen Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, misericórdia peccatórum et tuórum beatitúdo Sanctórum, da, quǽsumus, fámulo tuo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", cuius depositiónis ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "hódie",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " offícia humanitátis persólvimus, cum eléctis tuis beáti múneris portiónem, ut eum, a mortalitátis néxibus absolútum, in die resurrectiónis ante fáciem tuam præsentári concédas. Per Dóminum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ],
+       [
+        "Deus, qui posuísti præséntis vitæ términum, ut æternitátis réseres intróitum, te súpplices deprecámur, ut nomen fámuli tui ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " in libro vitæ miseratiónis tuæ gratia iúbeas cónscribi. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, misericórdia para os pecadores e felicidade dos vossos santos, concedei ao vosso servo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", que ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "hoje",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " piedosamente sepultamos, receber o prêmio com os vossos santos e, livre dos laços da morte, apresentar-se diante da vossa face no dia da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ],
+       [
+        "Ó Deus, que estabelecestes o termo da vida presente para abrir a porta da eternidade; humildemente vos suplicamos, pela vossa benigna misericórdia, seja inscrito no livro da vida o nome do vosso servo N .. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who are mercy for sinners"
+       ],
+       [
+        "and the happiness of your saints,"
+       ],
+       [
+        "give, we pray, to your servant ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "for whom ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "today",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " we perform the fraternal offices of burial, a share with your chosen ones in the blessedness you give, so that on the day of resurrection,"
+       ],
+       [
+        "freed from the bonds of mortality,"
+       ],
+       [
+        "he ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "she",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " may come before your face."
+       ],
+       [
+        "Through our lord Jesus Christ, your son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ],
+       [
+        "O God, who have set a limit to this present life, so as to open up an entry into eternity,"
+       ],
+       [
+        "we humbly beseech you,"
+       ],
+       [
+        "that by the grace of your mercy"
+       ],
+       [
+        "you may command the name of your servant ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "to be inscribed in the book of life."
+       ],
+       [
+        "Through our lord Jesus Christ, your son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "misericordia de los pecadores"
+       ],
+       [
+        "y felicidad de tus santos,"
+       ],
+       [
+        "al cumplir ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "hoy",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " el deber humano"
+       ],
+       [
+        "de dar sepultura al cuerpo de tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "te pedimos le des parte"
+       ],
+       [
+        "en el gozo de tus elegidos"
+       ],
+       [
+        "y que, libre de las ataduras de la muerte,"
+       ],
+       [
+        "pueda presentarse ante ti"
+       ],
+       [
+        "el día de la resurrección."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che sei misericordia per i peccatori e gioia eterna dei tuoi santi, concedi al nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "alla nostra sorella",
+        {
+         "m": "rubric",
+         "t": "] N."
+        },
+        " ,a cui oggi diamo l'estremo saluto, di avere parte, insieme ai tuoi eletti, al dono della beatitudine, perché, liberato",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "a",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " dai vincoli della condizione mortale, nel giorno della risurrezione possa contemplare il tuo volto. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "O Dio, che hai posto un limite alla vita terrena per aprirci il passaggio all'eternità, supplichiamo la tua infinita misericordia perché il nome del nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "alla nostra sorella",
+        {
+         "m": "rubric",
+         "t": "] N."
+        },
+        " sia scritto nel libro della vita. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu d'amour, source de tout amour,"
+       ],
+       [
+        "l'affection que tu as mise en nos cœurs"
+       ],
+       [
+        "pour ton serviteur ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "nous invite à te prier avec confiance :"
+       ],
+       [
+        "tu veux pardonner à tout homme pécheur"
+       ],
+       [
+        "et tu fais vivre ceux que tu sanctifies ;"
+       ],
+       [
+        "Accorde à notre ami"
+       ],
+       [
+        "le bonheur que tu réserves à tes fidèles :"
+       ],
+       [
+        "Délivre-le totalement"
+       ],
+       [
+        "de ce qui le retient loin de toi,"
+       ],
+       [
+        "et donne-lui de se tenir devant ta face"
+       ],
+       [
+        "au jour de la résurrection."
+       ],
+       [
+        "Par Jésus Christ."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, du Zuflucht der Sünder, du ewige Freude deiner Heiligen. Befreie deinen Diener ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "deine Dienerin",
+        {
+         "m": "rubric",
+         "t": ") N."
+        },
+        ", den (die) wir heute zu Grabe geleiten (geleitet haben), von den Fesseln des Todes. Gib ihm (ihr) mit deinen Heiligen Anteil am ewigen Leben und rufe ihn (sie) am Tag der Auferstehung vor dein Angesicht. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Adésto, Dómine, quǽsumus, pro fámulo tuo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", cuius in die depositiónis hoc sacrifícium tibi placatiónis offérimus, ut, si qua ei peccáti mácula inhǽsit aut vítium humánum infécit, dono tuæ pietátis indúlgeas et abstérgeas. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, sede propício ao vosso servo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " pelo qual vos oferecemos este sacrifício de reconciliação no dia do seu sepultamento; e, se ainda nele resta alguma mancha de pecado ou imperfeição própria da fragilidade humana, perdoai-lhe e purificai-o pelo dom da vossa misericórdia. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Be near, O Lord, we pray, to your servant ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "on whose funeral day"
+       ],
+       [
+        "we offer you this sacrifice of conciliation,"
+       ],
+       [
+        "so that, should any stain of sin have clung to him ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "her",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " or any human fault have affected him ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "her",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        ","
+       ],
+       [
+        "it may, by your loving gift, be forgiven and wiped away."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Muéstrate propicio, Señor,"
+       ],
+       [
+        "con tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "por quien te ofrecemos este sacrificio expiatorio"
+       ],
+       [
+        "en el día de su sepultura,"
+       ],
+       [
+        "y, si en algo quedó manchado por la culpa"
+       ],
+       [
+        "o por debilidad de su condición humana,"
+       ],
+       [
+        "que tu misericordia le perdone y purifique."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda, o Signore, il nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "alla nostra sorella",
+        {
+         "m": "rubric",
+         "t": "] N."
+        },
+        " per il ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "la",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " quale ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "nel giorno della sepoltura",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " ti offriamo questo sacrificio di riconciliazione: se qualche macchia di peccato lo ha contaminato ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "l'ha contaminata]",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        ", e qualche umana fragilità lo ha ferito ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "l'ha ferita",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        ", il tuo amore misericordioso lo ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "la",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " perdoni e lo ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "la",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " purifichi. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prends pitié, Dieu très bon,"
+       ],
+       [
+        "de celui qui vient de mourir ;"
+       ],
+       [
+        "C'est pour lui que nous t'offrons"
+       ],
+       [
+        "le sacrifice qui donne la paix :"
+       ],
+       [
+        "Si le péché a pu l'atteindre,"
+       ],
+       [
+        "si la faiblesse humaine l'a marqué,"
+       ],
+       [
+        "que ton amour lui pardonne,"
+       ],
+       [
+        "que ton amour le purifie."
+       ],
+       [
+        "Par Jésus."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, wir feiern das Opfer der Versöhnung für deinen Diener ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "deine Dienerin",
+        {
+         "m": "rubric",
+         "t": ") N."
+        },
+        ", den (die) wir heute bestatten (bestattet haben). Wenn noch Makel und Sünden an ihm (ihr) haften, so tilge seine (ihre) Schuld in deinem Erbarmen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Phil 3, 20-21"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Fl 3, 20-21"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Flp-3, 20-21"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "f. Fil 3, 20-21"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Phil 3, 20-21"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "KommunionversPhil 3, 20-21"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salvatórem exspectámus Dóminum nostrum Iesum Christum, qui reformábit corpus humilitátis nostræ configurátum córpori claritátis suæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aguardamos o nosso Salvador, o Senhor, Jesus Cristo. Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We await a savior, the Lord Jesus christ, who will change our mortal bodies,"
+       ],
+       [
+        "to conform with his glorified body."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aguardamos un Salvador: el Señor Jesucristo. Él transformará nuestro cuerpo humilde, según el modelo de su cuerpo glorioso."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aspettiamo il nostro salvatore Gesù Cristo: Cegli trasfigurerà il nostro corpo mortale a immagine del suo corpo glorioso."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous attendons notre Sauveur, le Seigneur Jésus Christ,"
+       ],
+       [
+        "lui qui transformera nos corps mortels"
+       ],
+       [
+        "à l'image de son corps glorieux"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wir erwarten den Retter, den Herrn Jesus Christus, der unseren armseligen Leib verwandeln wird in die Gestalt seines verherrlichten Leibes."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Præsta, quǽsumus, omnípotens Deus, ut fámulus tuus ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", qui ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "hódie",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " de hoc sǽculo migrávit, his sacrifíciis purgátus et a peccátis expedítus, resurrectiónis suscípiat gáudia sempitérna. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus onipotente, ao vosso servo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", que ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "hoje",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " partiu deste mundo, concedei que, purificado por este sacrifício e livre de todo pecado, receba a alegria eterna da ressurreição. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, almighty God,"
+       ],
+       [
+        "that your servant ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "who ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "today",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " has journeyed from this world,"
+       ],
+       [
+        "may by this sacrifice be cleansed and freed from sin and so receive the everlasting joys of the Resurrection."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso, te pedimos por tu siervo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "que ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "hoy",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " ha partido de este mundo,"
+       ],
+       [
+        "para que, purificado por este sacrificio y libre de pecado,"
+       ],
+       [
+        "lo admitas a las alegrías eternas de la resurrección."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedi, Dio onnipotente, al nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "alla nostra sorella",
+        {
+         "m": "rubric",
+         "t": "] N."
+        },
+        ", ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "oggi",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " passato ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "a",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " da questo sacrificio e liberato",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "a",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " da ogni peccato, possa partecipare alla gloria eterna della risurrezione. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Toi qui es plus fort que la mort, Seigneur,"
+       ],
+       [
+        "nous te supplions pour ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "qui vient de quitter cette vie :"
+       ],
+       [
+        "Permets que purifié par cette eucharistie"
+       ],
+       [
+        "et dégagé de ses fautes,"
+       ],
+       [
+        "il connaisse les joies de la résurrection."
+       ],
+       [
+        "Par Jésus"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, unser Bruder ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "unsere Schwester",
+        {
+         "m": "rubric",
+         "t": ") N."
+        },
+        " ist (heute) aus dieser Welt zu dir heimgekehrt. Reinige ihn (sie) durch die Kraft dieses Opfers, befreie ihn (sie) von der Last seiner (ihrer) Sünden und lass ihn (sie) auferstehen zur ewigen Freude. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.67",
+  "preface.68",
+  "preface.69",
+  "preface.70",
+  "preface.71"
+ ],
+ "title": {
+  "la": "I. IN EXSEQUIIS",
+  "pt-BR": "1. NAS EXÉQUIAS",
+  "en-US": "I. FOR THE FUNERAL",
+  "es": "I. EN LAS EXEQUIAS",
+  "it": "I. NELLE ESEQUIE",
+  "fr": "I. MESSE DES FUNÉRAILLES",
+  "de": "I. AM BEGRÄBNISTAG"
+ },
+ "subtitle": {
+  "la": "B. EXTRA TEMPUS PASCHALE",
+  "pt-BR": "B. Fora do Tempo Pascal",
+  "en-US": "B. Outside Easter Time",
+  "es": "B. Fuera del tiempo pascual",
+  "it": "B. Fuori del tempo pasquale",
+  "fr": "B. HORS DU TEMPS PASCAL",
+  "de": "B. Außerhalb der Osterzeit"
+ }
+}

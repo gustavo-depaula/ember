@@ -1,0 +1,707 @@
+{
+ "id": "common.holy-men-and-women.gospel.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gaudete et exsultate, quoniam merces vestra copiosa est in cælis."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "5:1-12",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Mateo"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "5, l-12a",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Videns Iesus turbas, ascéndit in montem; et cum sedísset, accessérunt ad eum discípuli eius; et apériens os suum docébat eos dicens:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Beáti páuperes spíritu, quóniam ipsórum est regnum cælórum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti, qui lugent, quóniam ipsi consolabúntur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti mites, quóniam ipsi possidébunt terram."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti, qui esúriunt et sítiunt iustítiam, quóniam ipsi saturabúntur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti misericórdes, quia ipsi misericórdiam consequéntur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti mundo corde, quóniam ipsi Deum vidébunt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti pacífici, quóniam fílii Dei vocabúntur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti, qui persecutiónem patiúntur propter iustítiam, quóniam ipsórum est regnum cælórum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáti estis cum maledíxerint vobis et persecúti vos fúerint et díxerint omne malum advérsum vos, mentiéntes, propter me. Gaudéte et exsultáte, quóniam merces vestra copiósa est in cælis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo: vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se, e Jesus começou a ensiná-los: \"Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus. Bem-aventurados os aflitos, porque serão consolados. Bem-aventurados os mansos, porque possuirão a terra. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-aventurados os misericordiosos, porque alcançarão misericórdia. Bem-aventurados os puros de coração, porque verão a Deus. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus. Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus. Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e mentindo, disserem todo tipo de mal contra vós, por causa de mim. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seeing the crowds, Jesus went up the hill. There he sat down and was joined by his disciples. Then he began to speak. This is what he taught them: 'How happy are the poor in spirit; theirs is the kingdom of heaven. Happy the gentle: they shall have the earth for their heritage. Happy those who mourn: they shall be comforted. Happy those who hunger and thirst for what is right: they shall be satisfied. Happy the merciful: they shall have mercy shown them. Happy the pure in heart: they shall see God. Happy the peacemakers: they shall be called sons of God. Happy those who are persecuted in the cause of right: theirs is the kingdom of heaven. 'Happy are you when people abuse you and persecute you and speak all kinds of calumny against you on my account. Rejoice and be glad, for your reward will be great in heaven."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, al ver Jesús el gentío, subió al monte, se sentó y se acercaron sus discípulos; y, abriendo su boca, les enseñaba diciendo:"
+       ],
+       [
+        "«Bienaventurados los pobres en el espíritu,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        "Bienaventurados los mansos,"
+       ],
+       [
+        "porque ellos heredarán la tierra."
+       ],
+       [
+        "Bienaventurados los que lloran,"
+       ],
+       [
+        "porque ellos serán consolados."
+       ],
+       [
+        "Bienaventurados los que tienen hambre y sed de la justicia,"
+       ],
+       [
+        "porque ellos quedarán saciados."
+       ],
+       [
+        "Bienaventurados los misericordiosos,"
+       ],
+       [
+        "porque ellos alcanzarán misericordia."
+       ],
+       [
+        "Bienaventurados los limpios de corazón,"
+       ],
+       [
+        "porque ellos verán a Dios."
+       ],
+       [
+        "Bienaventurados los que trabajan por la paz,"
+       ],
+       [
+        "porque ellos serán llamados hijos de Dios."
+       ],
+       [
+        "Bienaventurados los perseguidos por causa de la justicia,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        "Bienaventurados vosotros cuando os insulten y os persigan y os calumnien de cualquier modo por mi causa. Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, vedendo Le folle, Gesù salì sul monte: si pose a sedere e si avvicinarono a lui i suoi discepoli. Si mise a parlare e insegnava loro dicendo:"
+       ],
+       [
+        "«Beati i poveri in spirito, perché di essi è il regno dei cieli."
+       ],
+       [
+        "Beati quelli che sono nel pianto, perché saranno consolati."
+       ],
+       [
+        "Beati i miti, perché avranno in eredità la terra."
+       ],
+       [
+        "Beati quelli che hanno fame e sete della giustizia, perché saranno saziati."
+       ],
+       [
+        "Beati i misericordiosi, perché troveranno misericordia."
+       ],
+       [
+        "Beati i puri di cuore, perché vedranno Dio."
+       ],
+       [
+        "Beati gli operatori di pace, perché saranno chiamati figli di Dio."
+       ],
+       [
+        "Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli."
+       ],
+       [
+        "Beati voi quando vi insulteranno, vi perseguiteranno e, mentendo, diranno, ogni sorta di male contro di voi per causa mia. Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, voyant les foules, Jésus gravit la montagne. Il s'assit, et ses disciples s'approchèrent de lui. Alors, ouvrant la bouche, il les enseignait. Il disait : \" Heureux les pauvres de cœur, car le royaume des Cieux est à eux. Heureux ceux qui pleurent, car ils seront consolés. Heureux les doux, car ils recevront la terre en héritage. Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés. Heureux les miséricordieux, car ils obtiendront miséricorde. Heureux les cœurs purs, car ils verront Dieu. Heureux les artisans de paix, car ils seront appelés fils de Dieu. Heureux ceux qui sont persécutés pour la justice, car le royaume des Cieux est à eux. Heureux êtes-vous si l'on vous insulte, si l'on vous persécute et si l'on dit faussement toute sorte de mal contre vous, à cause de moi. Réjouissez-vous, soyez dans l'allégresse, car votre récompense est grande dans les cieux ! \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit,"
+       ],
+       [
+        "als Jesus die vielen Menschen sah, die ihm folgten, stieg er auf einen Berg. Er setzte sich, und seine Jünger traten zu ihm. Dann begann er zu reden und lehrte sie. Er sagte:"
+       ],
+       [
+        "Selig, die arm sind vor Gott; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        "Selig die Trauernden; denn sie werden getröstet werden."
+       ],
+       [
+        "Selig, die keine Gewalt anwenden; denn sie werden das Land erben."
+       ],
+       [
+        "Selig, die hungern und dürsten nach der Gerechtigkeit; denn sie werden satt werden."
+       ],
+       [
+        "Selig die Barmherzigen; denn sie werden Erbarmen finden."
+       ],
+       [
+        "Selig, die ein reines Herz haben; denn sie werden Gott schauen."
+       ],
+       [
+        "Selig, die Frieden stiften; denn sie werden Söhne Gottes genannt werden."
+       ],
+       [
+        "Selig, die um der Gerechtigkeit willen verfolgt werden; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        "Selig seid ihr, wenn ihr um meinetwillen beschimpft und verfolgt und auf alle mögliche Weise verleumdet werdet. Freut euch und jubelt: Euer Lohn im Himmel wird groß sein."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

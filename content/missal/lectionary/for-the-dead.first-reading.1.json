@@ -1,0 +1,396 @@
+{
+ "id": "for-the-dead.first-reading.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bene et honeste de resurrectione cogitans."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri secúndi Maccabæórum"
+       ]
+      ],
+      "cite": "12, 43-46",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Facta collatióne ad duo mília drachmas argénti, misit Iudas [princeps Israel] Hierosólymam offérri pro peccátis sacrifícium, valde bene et honéste de resurrectióne cógitans. Nisi enim eos, qui cecíderant, resurrectúros speráret, supérfluum et vanum esset oráre pro mórtuis. Deínde consíderans quod hi, qui cum pietáte dormitiónem accéperant, óptimum habérent repósitum grátiæ donum: sancta et pia cogitátio. Unde pro defúnctis expiatiónem fecit, ut a peccáto solveréntur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uma ação digna e nobre, inspirada na esperança da ressurreição"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Segundo Livro dos Macabeus"
+       ]
+      ],
+      "cite": "12, 43-46",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, Judas mandou fazer uma coleta, recolhendo cerca de dez mil dracmas, que enviou a Jerusalém para que se oferecesse um sacrifício pelo pecado. Ação justa e nobre, inspirada na sua crença na ressurreição. Pois, se ele não esperasse que os soldados mortos haviam de ressuscitar, teria sido em vão e supérfluo rezar por eles.Considerava, porém, que aos que morrem piedosamente está reservada uma bela recompensa. Santo e piedoso pensamento este de orar pelos mortos. Por isso, ele ofereceu um sacrifício expiatório pelos defuntos, para que fossem livres dos seus pecados."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A fine and noble action, in which he took account of the resurrection."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second Book of Maccabees"
+       ]
+      ],
+      "cite": "12:43-46",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Judas, the leader of the Jews, took a collection from the people individually, amounting to nearly two thousand drachmae, and sent it to Jerusalem to have a sacrifice for sin offered, an altogether fine and noble action, in which he took full account of the resurrection. For if he had not expected the fallen to rise again it would have been superfluous and foolish to pray for the dead, whereas if he had in view the splendid recompense reserved for those who make a pious end, the thought was holy and devout. This was why he had this atonement sacrifice offered for the dead, so that they might be released from their sin."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Obró con gran rectitud y nobleza, pensando en la resurrección"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del segundo libro de los Macabeos"
+       ]
+      ],
+      "cite": "12, 43-46",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, Judas, jefe de Israel, recogió dos mil dracmas de plata entre sus hombres y las envió a Jerusalén para que ofreciesen un sacrificio de expiación."
+       ],
+       [
+        "Obró con gran rectitud y nobleza, pensando en la resurrección. Si no hubiera esperado la resurrección de los caídos, habría sido inútil y ridículo rezar por los muertos."
+       ],
+       [
+        "Pero, considerando que a los que habían muerto piadosamente les estaba reservado un magnífico premio, la idea era piadosa y santa. Por eso, encargó un sacrificio de expiación por los muertos, para que fueran liberados del pecado."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Giuda agì in modo buono e nobile, pensando alla risurrezione."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal secondo libro dei Maccabèi"
+       ]
+      ],
+      "cite": "12, 43-46",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, fatta una colletta per circa duemila dramme d'argento, Giuda, capo d'Israele, la inviò a Gerusalemme perché fosse offerto un sacrificio espiatorio, compiendo così un'azione molto buona e nobile, suggerita dal pensiero della risurrezione. Se infatti non avesse avuto ferma fiducia che i caduti sarebbero risuscitati, sarebbe stato superfluo e vano pregare per i morti. Ma se egli considerava la magnifica ricompensa riservata a coloro che si addormentano nella morte con sentimenti di pietà, la sua considerazione era santa e devota. Perciò egli fece offrire il sacrificio espiatorio per i morti, perché fossero assolti dal peccato."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième livre des Martyrs d'Israël"
+       ]
+      ],
+      "cite": "12, 43-46",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, Judas, chef d'Israël, organisa une collecte auprès de chacun et envoya deux mille pièces d'argent à Jérusalem afin d'offrir un sacrifice pour le péché. C'était un fort beau geste, plein de délicatesse, inspiré par la pensée de la résurrection. Car, s'il n'avait pas espéré que ceux qui avaient succombé ressusciteraient, la prière pour les morts était superflue et absurde. Mais il jugeait qu'une très belle récompense est réservée à ceux qui meurent avec piété : c'était là une pensée religieuse et sainte. Voilà pourquoi il fit ce sacrifice d'expiation, afin que les morts soient délivrés de leurs péchés."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Buch der Makkabäer"
+       ]
+      ],
+      "cite": "12, 43-45",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen"
+       ],
+       [
+        "veranstaltete Judas, der Makkabäer, eine Sammlung, an der sich alle beteiligten, und schickte etwa zweitausend Silberdrachmen nach Jerusalem, damit man dort ein Sündopfer darbringe. Damit handelte er sehr schön und edel; denn er dachte an die Auferstehung. Hätte er nicht erwartet, dass die Gefallenen auferstehen werden, wäre es nämlich überflüssig und sinnlos gewesen, für die Toten zu beten. Auch hielt er sich den herrlichen Lohn vor Augen, der für die hinterlegt ist, die in Frömmigkeit sterben. Ein heiliger und frommer Gedanke! Darum ließ er die Toten entsühnen, damit sie von der Sünde befreit werden."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

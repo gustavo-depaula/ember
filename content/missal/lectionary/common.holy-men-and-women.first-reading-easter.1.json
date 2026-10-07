@@ -1,0 +1,404 @@
+{
+ "id": "common.holy-men-and-women.first-reading-easter.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Para los religiosos: [Pro religiosis]"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cor et anima una."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Actuum Apostolórum"
+       ]
+      ],
+      "cite": "4, 32-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Multitúdinis credéntium erat cor et ánima una, nec quisquam eórum, quæ possidébant, áliquid suum esse dicébat, sed erant illis ómnia commúnia. Et virtúte magna reddébant apóstoli testimónium resurrectiónis Dómini Iesu, et grátia magna erat super ómnibus illis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Neque enim quisquam egens erat inter illos; quotquot enim possessóres agrórum aut domórum erant, vendéntes afferébant prétia eórum, quæ vendébant, et ponébant ante pedes apostólorum; dividebátur autem síngulis, prout cuíque opus erat."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Um só coração e uma só alma."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura dos Atos dos Apóstolos"
+       ]
+      ],
+      "cite": "4, 32-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A multidão dos fiéis era um só coração e uma só alma. Ninguém considerava como próprias as coisas que possuía, mas tudo entre eles era posto em comum. Com grandes sinais de poder, os apóstolos davam testemunho da ressurreição do Senhor Jesus. E os fiéis eram estimados por todos. Entre eles ninguém passava necessidade, pois aqueles que possuíam terras ou casas, vendiam-nas, levavam o dinheiro, e o colocavam aos pés dos apóstolos. Depois, era distribuído conforme a necessidade de cada um."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Acts of the Apostles"
+       ]
+      ],
+      "cite": "4:32-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The whole group of believers was united, heart and soul; no one claimed for his own use anything that he had, as everything they owned was held in common. The apostles continued to testify to the resurrection of the Lord Jesus with great power, and they were all given great respect. None of their members was ever in want, as all those who owned land or houses would sell them, and bring the money from them, to present it to the apostles; it was then distributed to any members who might be in need."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un solo corazón y una sola alma"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de los Hechos de los apóstoles"
+       ]
+      ],
+      "cite": "4, 32-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El grupo de los creyentes tenía un solo corazón y una sola alma: nadie llamaba suyo propio nada de lo que tenía, pues lo poseían todo en común."
+       ],
+       [
+        "Los apóstoles daban testimonio de la resurrección del Señor Jesús con mucho valor. Y se los miraba a todos con mucho agrado. Entre ellos no había necesitados, pues los que poseían tierras o casas las vendían, traían el dinero de lo vendido y lo ponían a los pies de los apóstoles; luego se distribuía a cada uno según lo que necesitaba."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un cuore solo e un'anima sola."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dagli Atti degli Apostoli"
+       ]
+      ],
+      "cite": "4, 32-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La moltitudine di coloro che erano diventati credenti aveva un cuore solo e un'anima sola e nessuno considerava sua proprietà quello che gli apparteneva, ma fra loro tutto era comune."
+       ],
+       [
+        "Con grande forza gli apostoli davano testimonianza della risurrezione del Signore Gesù e tutti godevano di grande favore."
+       ],
+       [
+        "Nessuno infatti tra loro era bisognoso, perché quanti possedevano campi o case li vendevano, portavano il ricavato di ciò che era stato venduto e lo deponevano ai piedi degli apostoli; poi veniva distribuito a ciascuno secondo il suo bisogno."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre des Actes des Apôtres"
+       ]
+      ],
+      "cite": "4, 32-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La multitude de ceux qui étaient devenus croyants avait un seul cœur et une seule âme ; et personne ne disait que ses biens lui appartenaient en propre, mais ils avaient tout en commun. C'est avec une grande puissance que les Apôtres rendaient témoignage de la résurrection du Seigneur Jésus, et une grâce abondante reposait sur eux tous. Aucun d'entre eux n'était dans l'indigence, car tous ceux qui étaient propriétaires de domaines ou de maisons les vendaient, et ils apportaient le montant de la vente pour le déposer aux pieds des Apôtres ; puis on le distribuait en fonction des besoins de chacun."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Apostelgeschichte"
+       ]
+      ],
+      "cite": "4, 32-35",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Gemeinde der Gläubigen war ein Herz und eine Seele. Keiner nannte etwas von dem, was er hatte, sein Eigentum, sondern sie hatten alles gemeinsam. Mit großer Kraft legten die Apostel Zeugnis ab von der Auferstehung Jesu, des Herrn, und reiche Gnade ruhte auf ihnen allen."
+       ],
+       [
+        "Es gab auch keinen unter ihnen, der Not litt. Denn alle, die Grundstücke oder Häuser besaßen, verkauften ihren Besitz, brachten den Erlös und legten ihn den Aposteln zu Füßen. Jedem wurde davon so viel zugeteilt, wie er nötig hatte."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

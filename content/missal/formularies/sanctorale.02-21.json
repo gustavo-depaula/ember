@@ -1,1 +1,787 @@
-{"id":"sanctorale.02-21","source":"santos/santos_feb#0221","kind":"sanctoral","items":[{"slot":"79","text":{"la":[{"k":"h2","lines":[["Die 21 februarii"],["S. Petri Damiani, episcopi et Ecclesiæ doctoris"]]},{"k":"p","lines":[["Natus est Ravennæ anno 1007; studiis absolutis, munus docendi suscepit, sed statim dimisit et eremum Fontis Avellanæ intravit; ubi, prior electus, vitam religiosam promovit strenue, quod etiam in aliis regionibus Italiæ fecit. Temporibus calamitosis Pontifices romanos adiuvit opera, scriptis, legationibus in Ecclesiæ reformatione provehenda. A Stephano IX cardinalis et episcopus Ostiensis creatus, mortuus est anno 1072 et statim ut sanctus excultus."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi doctorum Ecclesiæ"}," ",{"m":"link","t":"1","to":"common.doctors.1"},{"m":"link","t":"2","to":"common.doctors.2"},{"m":"rubric","t":", vel de Communi pastorum:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["21 de fevereiro"],["São Pedro Damião, bispo e doutor da Igreja"]]},{"k":"p","lines":[["Pedro Damião (Ravena, Itália, 1007 - Faenza, Itália, 22 de fevereiro de 1072), homem de dura penitência e prolongada oração, saiu de sua solidão contemplativa de Fonte Avelana, aceitando ser bispo e cardeal para melhor promover a renovação da Igreja afetada por graves abusos. É autor de importantes escritos litúrgicos, teológicos e morais."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Doutores da Igreja"}," ",{"m":"link","t":"1","to":"common.doctors.1"},{"m":"link","t":"2","to":"common.doctors.2"},{"m":"rubric","t":", ou Comum dos Pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["February 21"],["Saint Peter Damian, bishop and doctor of the Church"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Doctors of the Church"}," ",{"m":"link","t":"1","to":"common.doctors.1"},{"m":"link","t":"2","to":"common.doctors.2"},{"m":"rubric","t":", or from the Common of Pastors:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["21 de febrero"],["San Pedro Damiani, obispo y doctor de la Iglesia"]]},{"k":"p","lines":[["Nació en Ravena, el año 1007; acabados los estudios, ejerció la docencia, pero se retiró en seguida al yermo de Fonte Avellana, donde fue elegido prior. Fue gran propagador de la vida religiosa allí y en otras regiones de Italia. En aquella dura época ayudó eficazmente a los papas, con sus escritos y legaciones, en la reforma de la Iglesia. Creado por Esteban IX cardenal y obispo de Ostia, murió el año 1072 y al poco tiempo era venerado como santo."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de doctores de la Iglesia:"}," ",{"m":"link","t":"1","to":"common.doctors.1"},{"m":"link","t":"2","to":"common.doctors.2"},{"m":"rubric","t":", o de pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["21 febbraio"],["SAN PIER DAMIANI, vescovo e dottore della Chiesa"]]},{"k":"p","lines":[["Pier Damiani (Ravenna, 1007 - Faenza, Ravenna, 23 febbraio 1072), sull'esempio di san Romualdo, entrò nell'eremo di Fonte Avellana, nelle Marche. Scrisse numerosi e importanti testi teologici, morali, agiografici. Creato cardinale vescovo di Ostia (1057), rinunciò all'amata solitudine per collaborare alla riforma della Chiesa, soprattutto del clero. Tornò, infine, all'eremo prediletto."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei dottori della Chiesa"}," ",{"m":"link","t":"1","to":"common.doctors.1"},{"m":"link","t":"2","to":"common.doctors.2"},{"m":"rubric","t":", oppure Comune dei pastori:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["21 février"],["Saint Pierre Damien, évêque et docteur de l'Église"]]},{"k":"p","lines":[["Pierre Damien, né à Ravenne (1007), mena la vie érémitique à Font-Avellane avant de devenir le collaborateur des papes pour la réforme de l'Église. Fait cardinal-évêque d'Ostie (1057), chargé de multiples légations en Italie, en France et en Allemagne, il mena une lutte énergique pour rendre au clergé sa dignité et à l'Église la liberté († 1072)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun des Docteurs"}," ",{"m":"link","t":"1","to":"common.doctors.1"},{"m":"link","t":"2","to":"common.doctors.2"},{"m":"rubric","t":", ou des Pasteurs:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["21. Februar"],["Hl. Petrus Damiani, Bischof, Kirchenlehrer"]]},{"k":"p","lines":[["Er wurde 1007 in Ravenna geboren und übte nach dem Abschluss seiner Studien den Lehrberuf aus, bis er sich schließlich nach Fonte Avellana zurückzog und zum Prior gewählt wurde. Dort und in vielen anderen Regionen Italiens wirkte er bei der Ausbreitung des geistlichen Lebens mit. In jenen schweren Zeiten wurde er, durch seine Schriften und Gesandtschaften, zu einer Stütze der Päpste bei der Reform der Kirche. Nach seiner Ernennung zum Kardinal und Bischof von Ostia, durch Papst Stephan IX, starb er im Jahre 1072."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Kirchenlehrer:"}," ",{"m":"link","t":"1","to":"common.doctors.1"},{"m":"link","t":"2","to":"common.doctors.2"},{"m":"rubric","t":", oder für Bischöfe:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"},{"m":"rubric","t":"."}]]}]},"part":"title"},{"slot":"80","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"81","text":{"la":[{"k":"p","lines":[["Concéde nos, quǽsumus, omnípotens Deus,"],["beáti Petri epíscopi mónita et exémpla sectári,"],["ut, Christo nihil præponéntes"],["et Ecclésiæ tuæ servítio semper inténti,"],["ad ætérnæ lucis gáudia perducámur."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Pai todo-poderoso,"],["dai-nos seguir as exortações"],["e o exemplo do bispo São Pedro Damião,"],["para que, nada antepondo a Cristo"],["e sempre empenhados no serviço da vossa Igreja,"],["cheguemos às alegrias da luz eterna."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, almighty God,"],["that we may so follow the teaching and example"],["of the Bishop Saint Peter Damian,"],["that, putting nothing before Christ"],["and always ardent in the service of your Church,"],["we may be led to the joys of eternal light."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso,"],["concédenos seguir los consejos y ejemplos de san Pedro Damián, obispo,"],["para que, no anteponiendo nada a Cristo"],["y dedicados siempre al servicio de tu Iglesia,"],["lleguemos a los gozos de la luz eterna."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, concedi a noi di seguire gli insegnamenti e gli esempi del vescovo san Pier Damiani, perché, nulla anteponendo a Cristo e sempre dediti al servizio della tua Chiesa, giungiamo alla gioia della luce eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Accorde-nous, Dieu tout-puissant,"],["de suivre les exemples et les exhortations"],["de l'évêque saint Pierre Damien,"],["afin que, sans rien préférer au Christ,"],["et toujours attentifs à servir ton Église,"],["nous parvenions aux joies de la lumière éternelle."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, lehre uns, nach der Weisung des heiligen Petrus Damiani Christus über alles zu lieben und für deine Kirche einzutreten, damit wir zur ewigen Freude gelangen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"82","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.02-21","prefaces":["preface.56"],"commons":["common.doctors.1","common.doctors.2","common.pastors.3","common.pastors.4"],"title":{"la":"S. Petri Damiani, episcopi et Ecclesiæ doctoris","pt-BR":"São Pedro Damião, bispo e doutor da Igreja","en-US":"Saint Peter Damian, bishop and doctor of the Church","es":"San Pedro Damiani, obispo y doctor de la Iglesia","it":"SAN PIER DAMIANI, vescovo e dottore della Chiesa","fr":"Saint Pierre Damien, évêque et docteur de l'Église","de":"Hl. Petrus Damiani, Bischof, Kirchenlehrer"}}
+{
+ "id": "sanctorale.02-21",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 21 februarii"
+       ],
+       [
+        "S. Petri Damiani, episcopi et Ecclesiæ doctoris"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Natus est Ravennæ anno 1007; studiis absolutis, munus docendi suscepit, sed statim dimisit et eremum Fontis Avellanæ intravit; ubi, prior electus, vitam religiosam promovit strenue, quod etiam in aliis regionibus Italiæ fecit. Temporibus calamitosis Pontifices romanos adiuvit opera, scriptis, legationibus in Ecclesiæ reformatione provehenda. A Stephano IX cardinalis et episcopus Ostiensis creatus, mortuus est anno 1072 et statim ut sanctus excultus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi doctorum Ecclesiæ"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.doctors.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.doctors.2"
+        },
+        {
+         "m": "rubric",
+         "t": ", vel de Communi pastorum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21 de fevereiro"
+       ],
+       [
+        "São Pedro Damião, bispo e doutor da Igreja"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pedro Damião (Ravena, Itália, 1007 - Faenza, Itália, 22 de fevereiro de 1072), homem de dura penitência e prolongada oração, saiu de sua solidão contemplativa de Fonte Avelana, aceitando ser bispo e cardeal para melhor promover a renovação da Igreja afetada por graves abusos. É autor de importantes escritos litúrgicos, teológicos e morais."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Doutores da Igreja"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.doctors.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.doctors.2"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou Comum dos Pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "February 21"
+       ],
+       [
+        "Saint Peter Damian, bishop and doctor of the Church"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Doctors of the Church"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.doctors.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.doctors.2"
+        },
+        {
+         "m": "rubric",
+         "t": ", or from the Common of Pastors:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21 de febrero"
+       ],
+       [
+        "San Pedro Damiani, obispo y doctor de la Iglesia"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nació en Ravena, el año 1007; acabados los estudios, ejerció la docencia, pero se retiró en seguida al yermo de Fonte Avellana, donde fue elegido prior. Fue gran propagador de la vida religiosa allí y en otras regiones de Italia. En aquella dura época ayudó eficazmente a los papas, con sus escritos y legaciones, en la reforma de la Iglesia. Creado por Esteban IX cardenal y obispo de Ostia, murió el año 1072 y al poco tiempo era venerado como santo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de doctores de la Iglesia:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.doctors.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.doctors.2"
+        },
+        {
+         "m": "rubric",
+         "t": ", o de pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21 febbraio"
+       ],
+       [
+        "SAN PIER DAMIANI, vescovo e dottore della Chiesa"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pier Damiani (Ravenna, 1007 - Faenza, Ravenna, 23 febbraio 1072), sull'esempio di san Romualdo, entrò nell'eremo di Fonte Avellana, nelle Marche. Scrisse numerosi e importanti testi teologici, morali, agiografici. Creato cardinale vescovo di Ostia (1057), rinunciò all'amata solitudine per collaborare alla riforma della Chiesa, soprattutto del clero. Tornò, infine, all'eremo prediletto."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei dottori della Chiesa"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.doctors.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.doctors.2"
+        },
+        {
+         "m": "rubric",
+         "t": ", oppure Comune dei pastori:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21 février"
+       ],
+       [
+        "Saint Pierre Damien, évêque et docteur de l'Église"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pierre Damien, né à Ravenne (1007), mena la vie érémitique à Font-Avellane avant de devenir le collaborateur des papes pour la réforme de l'Église. Fait cardinal-évêque d'Ostie (1057), chargé de multiples légations en Italie, en France et en Allemagne, il mena une lutte énergique pour rendre au clergé sa dignité et à l'Église la liberté († 1072)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun des Docteurs"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.doctors.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.doctors.2"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou des Pasteurs:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21. Februar"
+       ],
+       [
+        "Hl. Petrus Damiani, Bischof, Kirchenlehrer"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er wurde 1007 in Ravenna geboren und übte nach dem Abschluss seiner Studien den Lehrberuf aus, bis er sich schließlich nach Fonte Avellana zurückzog und zum Prior gewählt wurde. Dort und in vielen anderen Regionen Italiens wirkte er bei der Ausbreitung des geistlichen Lebens mit. In jenen schweren Zeiten wurde er, durch seine Schriften und Gesandtschaften, zu einer Stütze der Päpste bei der Reform der Kirche. Nach seiner Ernennung zum Kardinal und Bischof von Ostia, durch Papst Stephan IX, starb er im Jahre 1072."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Kirchenlehrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.doctors.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.doctors.2"
+        },
+        {
+         "m": "rubric",
+         "t": ", oder für Bischöfe:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concéde nos, quǽsumus, omnípotens Deus,"
+       ],
+       [
+        "beáti Petri epíscopi mónita et exémpla sectári,"
+       ],
+       [
+        "ut, Christo nihil præponéntes"
+       ],
+       [
+        "et Ecclésiæ tuæ servítio semper inténti,"
+       ],
+       [
+        "ad ætérnæ lucis gáudia perducámur."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Pai todo-poderoso,"
+       ],
+       [
+        "dai-nos seguir as exortações"
+       ],
+       [
+        "e o exemplo do bispo São Pedro Damião,"
+       ],
+       [
+        "para que, nada antepondo a Cristo"
+       ],
+       [
+        "e sempre empenhados no serviço da vossa Igreja,"
+       ],
+       [
+        "cheguemos às alegrias da luz eterna."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, almighty God,"
+       ],
+       [
+        "that we may so follow the teaching and example"
+       ],
+       [
+        "of the Bishop Saint Peter Damian,"
+       ],
+       [
+        "that, putting nothing before Christ"
+       ],
+       [
+        "and always ardent in the service of your Church,"
+       ],
+       [
+        "we may be led to the joys of eternal light."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "concédenos seguir los consejos y ejemplos de san Pedro Damián, obispo,"
+       ],
+       [
+        "para que, no anteponiendo nada a Cristo"
+       ],
+       [
+        "y dedicados siempre al servicio de tu Iglesia,"
+       ],
+       [
+        "lleguemos a los gozos de la luz eterna."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, concedi a noi di seguire gli insegnamenti e gli esempi del vescovo san Pier Damiani, perché, nulla anteponendo a Cristo e sempre dediti al servizio della tua Chiesa, giungiamo alla gioia della luce eterna. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accorde-nous, Dieu tout-puissant,"
+       ],
+       [
+        "de suivre les exemples et les exhortations"
+       ],
+       [
+        "de l'évêque saint Pierre Damien,"
+       ],
+       [
+        "afin que, sans rien préférer au Christ,"
+       ],
+       [
+        "et toujours attentifs à servir ton Église,"
+       ],
+       [
+        "nous parvenions aux joies de la lumière éternelle."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, lehre uns, nach der Weisung des heiligen Petrus Damiani Christus über alles zu lieben und für deine Kirche einzutreten, damit wir zur ewigen Freude gelangen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.02-21",
+ "prefaces": [
+  "preface.56"
+ ],
+ "commons": [
+  "common.doctors.1",
+  "common.doctors.2",
+  "common.pastors.3",
+  "common.pastors.4"
+ ],
+ "title": {
+  "la": "S. Petri Damiani, episcopi et Ecclesiæ doctoris",
+  "pt-BR": "São Pedro Damião, bispo e doutor da Igreja",
+  "en-US": "Saint Peter Damian, bishop and doctor of the Church",
+  "es": "San Pedro Damiani, obispo y doctor de la Iglesia",
+  "it": "SAN PIER DAMIANI, vescovo e dottore della Chiesa",
+  "fr": "Saint Pierre Damien, évêque et docteur de l'Église",
+  "de": "Hl. Petrus Damiani, Bischof, Kirchenlehrer"
+ }
+}

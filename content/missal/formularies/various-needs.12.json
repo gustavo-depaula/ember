@@ -1,1 +1,1198 @@
-{"id":"various-needs.12","source":"comunes_votivas/diversas#div012","kind":"various-needs","items":[{"slot":"144","text":{"la":[{"k":"h2","lines":[["I. PRO SANCTA ECCLESIA"]]},{"k":"h3","lines":[["7. PRO SEIPSO SACERDOTE"],["B"]]}],"pt-BR":[{"k":"h2","lines":[["I. PELA SANTA IGREJA"]]},{"k":"h3","lines":[["7. PELO PRÓPRIO SACERDOTE CELEBRANTE"],["B"]]}],"en-US":[{"k":"h2","lines":[["I. FOR HOLY CHURCH"]]},{"k":"h3","lines":[["7. FOR THE PRIEST HIMSELF"],["B"]]}],"es":[{"k":"h2","lines":[["I. POR LA SANTA IGLESIA"]]},{"k":"h3","lines":[["7. POR EL PROPIO SACERDOTE CELEBRANTE"],["B"]]}],"it":[{"k":"h2","lines":[["I. PER LA SANTA CHIESA"]]},{"k":"h3","lines":[["7. PER IL SACERDOTE CELEBRANTE"],["B"]]}],"fr":[{"k":"h2","lines":[["I. POUR LA SAINTE ÉGLISE"]]},{"k":"h3","lines":[["7. POUR LE PRÊTRE LUI-MÊME"],["B"]]}],"de":[{"k":"h2","lines":[["I. FÜR DIE HEILIGE KIRCHE"]]},{"k":"h3","lines":[["7. DER PRIESTER FÜR SICH SELBST"],["B"]]}]},"part":"title"},{"slot":"145","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ps 15, 2. 5"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Sl 15, 2. 5"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Ps 16 (15): 2, 5"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 15, 2. 5"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Sal 15, 5.2"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ps 15, 2. 5"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 16 (15), 2. 5"}]},"part":"entranceAntiphon"},{"slot":"146","text":{"la":[{"k":"p","lines":[["Dixi Dómino: Dóminus meus es tu, bonum mihi non est sine te. Dóminus pars hereditátis meæ et cálicis mei: tu es qui détines sortem meam."]]}],"pt-BR":[{"k":"p","lines":[["Digo ao Senhor: Somente vós sois meu Senhor,"],["nenhum bem eu posso achar fora de vós."],["Ó Senhor, sois minha herança e minha taça,"],["meu destino está seguro em vossas mãos."]]}],"en-US":[{"k":"p","lines":[["I say to the Lord: you are my Lord."],["My goodness lies in you alone. O Lord it is you who are my portion and cup; you yourself who secure my lot."]]}],"es":[{"k":"p","lines":[["Yo digo al Señor: Tú eres mi Dios. No hay bien para mí fuera de ti. El Señor es el lote de mi heredad y mi copa, mi suerte está en tu mano."]]}],"it":[{"k":"p","lines":[["Il Signore è mia parte di eredità e mio calice: nelle tue mani è la mia vita, senza di te non ho alcun bene."]]}],"fr":[{"k":"p","lines":[["J'ai dit au Seigneur : Tu es mon Dieu !"],["je n'ai pas d'autre bonheur que toi."],["Seigneur, mon partage et ma coupe :"],["de toi dépend mon sort."]]}],"de":[{"k":"p","lines":[["Ich sage zum Herrn: „Du bist mein Herr; mein ganzes Glück bist du allein.“ Du, Herr, gibst mir das Erbe und reichst mir den Becher; du hältst mein Los in deinen Händen."]]}]},"part":"entranceAntiphon"},{"slot":"147","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"148","text":{"la":[{"k":"p","lines":[["Aures tuæ pietátis, clementíssime Deus, inclína précibus meis, et grátia Sancti Spíritus illúmina cor meum, ut tuis mystériis digne ministráre, Ecclésiæ tuæ fidéliter servíre, teque mérear ætérna caritáte dilígere. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Clementíssimo Deus,"],["inclinai bondoso o vosso ouvido às minhas súplicas"],["e iluminai o meu coração com a graça do Espírito Santo,"],["para que eu mereça ministrar dignamente os vossos mistérios,"],["servir com fidelidade a vossa Igreja"],["e amar-vos com eterna caridade."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Incline your merciful ear to my prayers,"],["O God of all compassion,"],["and enlighten my heart by the grace of the Holy Spirit,"],["that I may worthily celebrate your mysteries,"],["faithfully serve your Church"],["and love you with eternal charity."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios de misericordia,"],["inclina amorosamente tu oído a mis plegarias,"],["e ilumina mi corazón con la gracia del Espíritu Santo,"],["para celebrar dignamente tus misterios,"],["servir fielmente a tu Iglesia"],["y merecer amarte con eterno amor."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Padre clementissimo, nella tua pietà tendi l'orecchio alla mia preghiera e illumina il mio cuore con la grazia dello Spirito Santo, perché possa celebrare degnamente i tuoi misteri, servire con fedeltà la tua Chiesa e amarti in eterno. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu très aimant,"],["dans ta bonté, prête l'oreille à ma prière :"],["ouvre mon cœur à la lumière de l'Esprit Saint,"],["afin que je puisse célébrer dignement tes mystères,"],["servir ton Église dans la fidélité"],["et t'aimer d'un amour sans fin."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles"]]}],"de":[{"k":"p","lines":[["Barmherziger Gott und Vater, erhöre mein Gebet und erleuchte mein Herz durch die Gnade des Heiligen Geistes. Hilf mir, deine Geheimnisse würdig zu feiern, der Kirche treu zu dienen und dich allezeit zu lieben. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"149","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"150","text":{"la":[{"k":"p","lines":[["Súscipe, Deus omnípotens, hæc múnera, quæ tibi offérimus veneránter, et respíciens Christum tuum, sacerdótem simul et hóstiam, da, ut, eius sacerdótii párticeps efféctus, oblatiónem spiritálem me tibi semper exhíbeam placéntem. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Acolhei, Deus onipotente,"],["estes dons que com veneração vos apresentamos"],["e, olhando o vosso Cristo, sacerdote e vítima,"],["concedei que, assim como participo do seu sacerdócio,"],["sempre me ofereça em oblação espiritual"],["agradável aos vossos olhos."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Receive, almighty God,"],["these offerings we bring you in veneration and, as you look upon your Christ,"],["who is both Priest and Victim,"],["grant that I, who share in his priesthood, may always offer myself"],["as a spiritual sacrifice pleasing to you."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Recibe, Dios todopoderoso,"],["estos dones que te ofrecemos humildemente;"],["y, al mirar a Cristo, tu sacerdote y víctima,"],["concédeme, al participar de su sacerdocio,"],["la gracia de ofrecerme cada día"],["como víctima agradable en tu presencia."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, Dio onnipotente, questi doni presentati in tuo onore e, guardando al tuo Cristo, sacerdote e vittima, concedi che, reso partecipe del suo sacerdozio, possa offrirmi in sacrificio spirituale a te gradito. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant,"],["accueille ces dons que nous te présentons avec respect ;"],["regarde ton Christ,"],["à la fois prêtre et victime :"],["puisque tu m'as fait participer à son sacerdoce,"],["donne-moi de m'offrir toujours à toi"],["comme une offrande spirituelle qui te plaise."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, nimm diese Gaben an, die wir zu deiner Ehre darbringen. Sieh auf Christus, der Priester und Opfergabe zugleich ist. An seinem Priestertum hast du mir Anteil geschenkt; gib mir die Gnade, mich selber als geistliche Opfergabe dir darzubringen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"151","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Lc 22, 28-30"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Lc 22, 28-30"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Lk 22: 28-30"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Lc 22, 28-30"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Lc 22, 28-30"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Lc 22, 28-30"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Lk 22, 28-30"}]},"part":"communionAntiphon"},{"slot":"152","text":{"la":[{"k":"p","lines":[["Dixit Iesus illis qui permansérunt in tentatiónibus suis: Ego dispóno vobis regnum, ut edátis et bibátis super mensam meam."]]}],"pt-BR":[{"k":"p","lines":[["Disse Jesus aos que permaneceram com ele em suas provações: confio a vós o reino, para comerdes e beberdes à minha mesa."]]}],"en-US":[{"k":"p","lines":[["Jesus said to those who stood by him in his trials:"],["I confer a kingdom on you, that you may eat and drink at my table."]]}],"es":[{"k":"p","lines":[["Jesús dijo a los que han perseverado en sus pruebas: «Yo preparo para vosotros el reino de forma que comáis y bebáis a mi mesa»."]]}],"it":[{"k":"p","lines":[["Dice il Signore a coloro che hanno perseverato nelle prove: «Io preparo per voi un regno, perché mangiate e beviate alla mia mensa»."]]}],"fr":[{"k":"p","lines":[["À ceux qui avaient tenu bon avec lui dans les épreuves,"],["Jésus déclara :"],["« Je dispose pour vous du Royaume"],["où vous mangerez et boirez à ma table. »"]]}],"de":[{"k":"p","lines":[["So spricht der Herr: In allen meinen Prüfungen seid ihr bei mir geblieben. Darum vererbe ich euch das Reich. Ihr sollt in meinem Reich mit mir an meinem Tisch essen und trinken."]]}]},"part":"communionAntiphon"},{"slot":"153","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"154","text":{"la":[{"k":"p","lines":[["Pane cælésti confirmátum et novi testaménti cálice congaudéntem, fac me, Pater sancte, tibi servíre fidéliter, et in salútem hóminum vitam fórtiter devotéque consúmere. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Pai santo, que me fortalecestes com o pão do céu"],["e me alegrastes com o cálice da nova aliança,"],["fazei que eu vos sirva fielmente"],["e dedique com ardor e generosidade a minha vida"],["para a salvação de meus irmãos e irmãs."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["As you strengthen me with the Bread of heaven"],["and gladden me with the chalice of the new covenant, bring me, holy Father, to serve you faithfully"],["and to spend my life boldly and zealously"],["for the salvation of all humanity."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Padre santo,"],["concédeme, fortalecido con el pan del cielo"],["y gozoso con el cáliz de la nueva alianza,"],["servirte con fidelidad"],["y gastar mi vida con fortaleza y entrega"],["a la salvación de los hombres."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Padre santo, che mi hai dato forza con il pane del cielo e allietato con il calice della nuova alleanza, fa' che ti serva fedelmente e spenda la vita con dedizione e coraggio per la salvezza degli uomini. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Père très saint,"],["tu m'as réconforté par le pain du ciel"],["et tu m'as réjoui par la coupe de l'Alliance nouvelle ;"],["fais que je te serve dans la fidélité"],["et que je donne ma vie pour le salut des hommes"],["avec courage et dévouement."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Heiliger Vater, ewiger Gott, das Brot vom Himmel hat mich gestärkt, der Kelch des Neuen Bundes erfüllt mich mit Freude. Schenke mir Treue in deinem Dienst und die Bereitschaft, mein ganzes Leben der Sorge für das Heil der Menschen zu weihen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"title":{"la":"I. PRO SANCTA ECCLESIA","pt-BR":"I. PELA SANTA IGREJA","en-US":"I. FOR HOLY CHURCH","es":"I. POR LA SANTA IGLESIA","it":"I. PER LA SANTA CHIESA","fr":"I. POUR LA SAINTE ÉGLISE","de":"I. FÜR DIE HEILIGE KIRCHE"},"subtitle":{"la":"7. PRO SEIPSO SACERDOTE B","pt-BR":"7. PELO PRÓPRIO SACERDOTE CELEBRANTE B","en-US":"7. FOR THE PRIEST HIMSELF B","es":"7. POR EL PROPIO SACERDOTE CELEBRANTE B","it":"7. PER IL SACERDOTE CELEBRANTE B","fr":"7. POUR LE PRÊTRE LUI-MÊME B","de":"7. DER PRIESTER FÜR SICH SELBST B"}}
+{
+ "id": "various-needs.12",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PRO SANCTA ECCLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "7. PRO SEIPSO SACERDOTE"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PELA SANTA IGREJA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "7. PELO PRÓPRIO SACERDOTE CELEBRANTE"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FOR HOLY CHURCH"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "7. FOR THE PRIEST HIMSELF"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POR LA SANTA IGLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "7. POR EL PROPIO SACERDOTE CELEBRANTE"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PER LA SANTA CHIESA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "7. PER IL SACERDOTE CELEBRANTE"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POUR LA SAINTE ÉGLISE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "7. POUR LE PRÊTRE LUI-MÊME"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FÜR DIE HEILIGE KIRCHE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "7. DER PRIESTER FÜR SICH SELBST"
+       ],
+       [
+        "B"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ps 15, 2. 5"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Sl 15, 2. 5"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Ps 16 (15): 2, 5"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 15, 2. 5"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Sal 15, 5.2"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ps 15, 2. 5"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 16 (15), 2. 5"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixi Dómino: Dóminus meus es tu, bonum mihi non est sine te. Dóminus pars hereditátis meæ et cálicis mei: tu es qui détines sortem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Digo ao Senhor: Somente vós sois meu Senhor,"
+       ],
+       [
+        "nenhum bem eu posso achar fora de vós."
+       ],
+       [
+        "Ó Senhor, sois minha herança e minha taça,"
+       ],
+       [
+        "meu destino está seguro em vossas mãos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I say to the Lord: you are my Lord."
+       ],
+       [
+        "My goodness lies in you alone. O Lord it is you who are my portion and cup; you yourself who secure my lot."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo digo al Señor: Tú eres mi Dios. No hay bien para mí fuera de ti. El Señor es el lote de mi heredad y mi copa, mi suerte está en tu mano."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore è mia parte di eredità e mio calice: nelle tue mani è la mia vita, senza di te non ho alcun bene."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "J'ai dit au Seigneur : Tu es mon Dieu !"
+       ],
+       [
+        "je n'ai pas d'autre bonheur que toi."
+       ],
+       [
+        "Seigneur, mon partage et ma coupe :"
+       ],
+       [
+        "de toi dépend mon sort."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich sage zum Herrn: „Du bist mein Herr; mein ganzes Glück bist du allein.“ Du, Herr, gibst mir das Erbe und reichst mir den Becher; du hältst mein Los in deinen Händen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aures tuæ pietátis, clementíssime Deus, inclína précibus meis, et grátia Sancti Spíritus illúmina cor meum, ut tuis mystériis digne ministráre, Ecclésiæ tuæ fidéliter servíre, teque mérear ætérna caritáte dilígere. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Clementíssimo Deus,"
+       ],
+       [
+        "inclinai bondoso o vosso ouvido às minhas súplicas"
+       ],
+       [
+        "e iluminai o meu coração com a graça do Espírito Santo,"
+       ],
+       [
+        "para que eu mereça ministrar dignamente os vossos mistérios,"
+       ],
+       [
+        "servir com fidelidade a vossa Igreja"
+       ],
+       [
+        "e amar-vos com eterna caridade."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Incline your merciful ear to my prayers,"
+       ],
+       [
+        "O God of all compassion,"
+       ],
+       [
+        "and enlighten my heart by the grace of the Holy Spirit,"
+       ],
+       [
+        "that I may worthily celebrate your mysteries,"
+       ],
+       [
+        "faithfully serve your Church"
+       ],
+       [
+        "and love you with eternal charity."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios de misericordia,"
+       ],
+       [
+        "inclina amorosamente tu oído a mis plegarias,"
+       ],
+       [
+        "e ilumina mi corazón con la gracia del Espíritu Santo,"
+       ],
+       [
+        "para celebrar dignamente tus misterios,"
+       ],
+       [
+        "servir fielmente a tu Iglesia"
+       ],
+       [
+        "y merecer amarte con eterno amor."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre clementissimo, nella tua pietà tendi l'orecchio alla mia preghiera e illumina il mio cuore con la grazia dello Spirito Santo, perché possa celebrare degnamente i tuoi misteri, servire con fedeltà la tua Chiesa e amarti in eterno. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu très aimant,"
+       ],
+       [
+        "dans ta bonté, prête l'oreille à ma prière :"
+       ],
+       [
+        "ouvre mon cœur à la lumière de l'Esprit Saint,"
+       ],
+       [
+        "afin que je puisse célébrer dignement tes mystères,"
+       ],
+       [
+        "servir ton Église dans la fidélité"
+       ],
+       [
+        "et t'aimer d'un amour sans fin."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott und Vater, erhöre mein Gebet und erleuchte mein Herz durch die Gnade des Heiligen Geistes. Hilf mir, deine Geheimnisse würdig zu feiern, der Kirche treu zu dienen und dich allezeit zu lieben. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súscipe, Deus omnípotens, hæc múnera, quæ tibi offérimus veneránter, et respíciens Christum tuum, sacerdótem simul et hóstiam, da, ut, eius sacerdótii párticeps efféctus, oblatiónem spiritálem me tibi semper exhíbeam placéntem. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acolhei, Deus onipotente,"
+       ],
+       [
+        "estes dons que com veneração vos apresentamos"
+       ],
+       [
+        "e, olhando o vosso Cristo, sacerdote e vítima,"
+       ],
+       [
+        "concedei que, assim como participo do seu sacerdócio,"
+       ],
+       [
+        "sempre me ofereça em oblação espiritual"
+       ],
+       [
+        "agradável aos vossos olhos."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Receive, almighty God,"
+       ],
+       [
+        "these offerings we bring you in veneration and, as you look upon your Christ,"
+       ],
+       [
+        "who is both Priest and Victim,"
+       ],
+       [
+        "grant that I, who share in his priesthood, may always offer myself"
+       ],
+       [
+        "as a spiritual sacrifice pleasing to you."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recibe, Dios todopoderoso,"
+       ],
+       [
+        "estos dones que te ofrecemos humildemente;"
+       ],
+       [
+        "y, al mirar a Cristo, tu sacerdote y víctima,"
+       ],
+       [
+        "concédeme, al participar de su sacerdocio,"
+       ],
+       [
+        "la gracia de ofrecerme cada día"
+       ],
+       [
+        "como víctima agradable en tu presencia."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, Dio onnipotente, questi doni presentati in tuo onore e, guardando al tuo Cristo, sacerdote e vittima, concedi che, reso partecipe del suo sacerdozio, possa offrirmi in sacrificio spirituale a te gradito. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant,"
+       ],
+       [
+        "accueille ces dons que nous te présentons avec respect ;"
+       ],
+       [
+        "regarde ton Christ,"
+       ],
+       [
+        "à la fois prêtre et victime :"
+       ],
+       [
+        "puisque tu m'as fait participer à son sacerdoce,"
+       ],
+       [
+        "donne-moi de m'offrir toujours à toi"
+       ],
+       [
+        "comme une offrande spirituelle qui te plaise."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, nimm diese Gaben an, die wir zu deiner Ehre darbringen. Sieh auf Christus, der Priester und Opfergabe zugleich ist. An seinem Priestertum hast du mir Anteil geschenkt; gib mir die Gnade, mich selber als geistliche Opfergabe dir darzubringen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Lc 22, 28-30"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Lc 22, 28-30"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Lk 22: 28-30"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Lc 22, 28-30"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Lc 22, 28-30"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Lc 22, 28-30"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Lk 22, 28-30"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixit Iesus illis qui permansérunt in tentatiónibus suis: Ego dispóno vobis regnum, ut edátis et bibátis super mensam meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Disse Jesus aos que permaneceram com ele em suas provações: confio a vós o reino, para comerdes e beberdes à minha mesa."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to those who stood by him in his trials:"
+       ],
+       [
+        "I confer a kingdom on you, that you may eat and drink at my table."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesús dijo a los que han perseverado en sus pruebas: «Yo preparo para vosotros el reino de forma que comáis y bebáis a mi mesa»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dice il Signore a coloro che hanno perseverato nelle prove: «Io preparo per voi un regno, perché mangiate e beviate alla mia mensa»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "À ceux qui avaient tenu bon avec lui dans les épreuves,"
+       ],
+       [
+        "Jésus déclara :"
+       ],
+       [
+        "« Je dispose pour vous du Royaume"
+       ],
+       [
+        "où vous mangerez et boirez à ma table. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: In allen meinen Prüfungen seid ihr bei mir geblieben. Darum vererbe ich euch das Reich. Ihr sollt in meinem Reich mit mir an meinem Tisch essen und trinken."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pane cælésti confirmátum et novi testaménti cálice congaudéntem, fac me, Pater sancte, tibi servíre fidéliter, et in salútem hóminum vitam fórtiter devotéque consúmere. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pai santo, que me fortalecestes com o pão do céu"
+       ],
+       [
+        "e me alegrastes com o cálice da nova aliança,"
+       ],
+       [
+        "fazei que eu vos sirva fielmente"
+       ],
+       [
+        "e dedique com ardor e generosidade a minha vida"
+       ],
+       [
+        "para a salvação de meus irmãos e irmãs."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As you strengthen me with the Bread of heaven"
+       ],
+       [
+        "and gladden me with the chalice of the new covenant, bring me, holy Father, to serve you faithfully"
+       ],
+       [
+        "and to spend my life boldly and zealously"
+       ],
+       [
+        "for the salvation of all humanity."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre santo,"
+       ],
+       [
+        "concédeme, fortalecido con el pan del cielo"
+       ],
+       [
+        "y gozoso con el cáliz de la nueva alianza,"
+       ],
+       [
+        "servirte con fidelidad"
+       ],
+       [
+        "y gastar mi vida con fortaleza y entrega"
+       ],
+       [
+        "a la salvación de los hombres."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre santo, che mi hai dato forza con il pane del cielo e allietato con il calice della nuova alleanza, fa' che ti serva fedelmente e spenda la vita con dedizione e coraggio per la salvezza degli uomini. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Père très saint,"
+       ],
+       [
+        "tu m'as réconforté par le pain du ciel"
+       ],
+       [
+        "et tu m'as réjoui par la coupe de l'Alliance nouvelle ;"
+       ],
+       [
+        "fais que je te serve dans la fidélité"
+       ],
+       [
+        "et que je donne ma vie pour le salut des hommes"
+       ],
+       [
+        "avec courage et dévouement."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heiliger Vater, ewiger Gott, das Brot vom Himmel hat mich gestärkt, der Kelch des Neuen Bundes erfüllt mich mit Freude. Schenke mir Treue in deinem Dienst und die Bereitschaft, mein ganzes Leben der Sorge für das Heil der Menschen zu weihen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "la": "I. PRO SANCTA ECCLESIA",
+  "pt-BR": "I. PELA SANTA IGREJA",
+  "en-US": "I. FOR HOLY CHURCH",
+  "es": "I. POR LA SANTA IGLESIA",
+  "it": "I. PER LA SANTA CHIESA",
+  "fr": "I. POUR LA SAINTE ÉGLISE",
+  "de": "I. FÜR DIE HEILIGE KIRCHE"
+ },
+ "subtitle": {
+  "la": "7. PRO SEIPSO SACERDOTE B",
+  "pt-BR": "7. PELO PRÓPRIO SACERDOTE CELEBRANTE B",
+  "en-US": "7. FOR THE PRIEST HIMSELF B",
+  "es": "7. POR EL PROPIO SACERDOTE CELEBRANTE B",
+  "it": "7. PER IL SACERDOTE CELEBRANTE B",
+  "fr": "7. POUR LE PRÊTRE LUI-MÊME B",
+  "de": "7. DER PRIESTER FÜR SICH SELBST B"
+ }
+}

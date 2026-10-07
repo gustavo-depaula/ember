@@ -1,0 +1,665 @@
+{
+ "id": "common.pastors.gospel.2",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Para un papa:"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "[Pro papa]"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "16, 13-19",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu és Pedro, e sobre esta pedra construirei a minha Igreja."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "16, 13-19",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "16:13-19",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tú eres Pedro, y sobre esta piedra edificaré mi Iglesia"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Mateo"
+       ]
+      ],
+      "cite": "16, 13-19",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu sei Pietro, e a te darò le chiavi del regno dei cieli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "16, 13-19",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "16, 13-19",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "16, 13-19",
+      "role": "announcement"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venit Iesus in partes Cæsaréæ Philíppi et interrogábat discípulos suos dicens: «Quem dicunt hómines esse Fílium hóminis?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "At illi dixérunt: «Alii Ioánnem Baptístam, álii autem Elíam, álii vero Ieremíam, aut unum ex prophétis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit illis: «Vos autem quem me esse dícitis?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Respóndens Simon Petrus dixit: «Tu es Christus, Fílius Dei vivi»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Respóndens autem Iesus dixit ei: «Beátus es, Simon Barióna, quia caro et sanguis non revelávit tibi sed Pater meus, qui in cælis est. Et ego dico tibi: Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam; et portæ ínferi non prævalébunt advérsum eam. Tibi dabo claves regni cælórum; et quodcúmque ligáveris super terram, erit ligátum in cælis, et quodcúmque sólveris super terram, erit solútum in cælis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo: Jesus foi à região de Cesareia de Filipe e ali perguntou aos seus discípulos: \"Quem dizem os homens ser o Filho do Homem?\" Eles responderam: \"Alguns dizem que é João Batista; outros que é Elias; outros ainda, que é Jeremias ou algum dos profetas\". Então Jesus lhes perguntou: \"E vós, quem dizeis que eu sou?\" Simão Pedro respondeu: \"Tu és o Messias, o Filho do Deus vivo\".Respondendo, Jesus lhe disse: \"Feliz és tu, Simão, filho de Jonas, porque não foi um ser humano que te revelou isso, mas o meu Pai que está no céu. Por isso eu te digo que tu és Pedro, e sobre esta pedra construirei a minha Igreja, e o poder do inferno nunca poderá vencê-la. Eu te darei as chaves do Reino dos Céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When Jesus came to the region of Caesarea Philippi he put this question to his disciples, 'Who do people say the Son of Man is?' And they said, 'Some say he is John the Baptist, some Elijah, and others Jeremiah or one of the prophets'. 'But you,' he said 'who do you say I am?' Then Simon Peter spoke up, 'You are the Christ,' he said 'the Son of the living God'. Jesus replied, 'Simon son of Jonah, you are a happy man! Because it was not flesh and blood that revealed this to you but my Father in heaven. So I now say to you: You are Peter and on this rock I will build my Church. And the gates of the underworld can never hold out against it. I will give you the keys of the kingdom of heaven: whatever you bind on earth shall be considered bound in heaven; whatever you loose on earth shall be considered loosed in heaven.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, al llegar a la región de Cesarea de Filipo, Jesús preguntó a sus discípulos:"
+       ],
+       [
+        "«¿Quién dice la gente que es el Hijo del hombre?»."
+       ],
+       [
+        "Ellos contestaron:"
+       ],
+       [
+        "«Unos que Juan el Bautista, otros que Elías, otros que Jeremías o uno de los profetas»."
+       ],
+       [
+        "Él les preguntó:"
+       ],
+       [
+        "«Y vosotros, ¿quién decís que soy yo?»."
+       ],
+       [
+        "Simón Pedro tomó la palabra y dijo:"
+       ],
+       [
+        "«Tú eres el Mesías, el Hijo del Dios vivo»."
+       ],
+       [
+        "Jesús le respondió:"
+       ],
+       [
+        "«¡Bienaventurado tú, Simón, hijo de Jonás!, porque eso no te lo ha revelado ni la carne ni la sangre, sino mi Padre que está en los cielos."
+       ],
+       [
+        "Ahora yo te digo: tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y el poder del infierno no la derrotará."
+       ],
+       [
+        "Te daré las llaves del reino de los cielos; lo que ates en la tierra quedará atado en los cielos, y lo que desates en la tierra quedará desatado en los cielos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù, giunto nella regione di Cesarea di Filippo, domandò ai suoi discepoli: «La gente, chi dice che sia il Figlio dell'uomo?». Risposero: «Alcuni dicono Giovanni il Battista, altri Elia, altri Geremia o qualcuno dei profeti»."
+       ],
+       [
+        "Disse loro: «Ma voi, chi dite che io sia?». Rispose Simon Pietro: «Tu sei il Cristo, il Figlio del Dio vivente»."
+       ],
+       [
+        "E Gesù gli disse: «Beato sei tu, Simone, figlio di Giona, perché né carne né sangue te lo hanno rivelato, ma il Padre mio che è nei cieli. E io a te dico: tu sei Pietro e su questa pietra edificherò la mia Chiesa e le potenze degli inferì non prevarranno su di essa. A te darò le chiavi del regno dei cieli: tutto ciò che legherai sulla terra sarà legato nei cieli, e tutto ciò che scioglierai sulla terra sarà sciolto nei cieli»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus, arrivé dans la région de Césarée-de-Philippe,"
+       ],
+       [
+        "demandait à ses disciples :"
+       ],
+       [
+        "\" Au dire des gens, qui est le Fils de l'homme ? \" Ils répondirent :"
+       ],
+       [
+        "\" Pour les uns, Jean le Baptiste ; pour d'autres, Élie ; pour d'autres encore, Jérémie ou l'un des prophètes. \""
+       ],
+       [
+        "Jésus leur demanda : \" Et vous, que dites-vous ? Pour vous, qui suis-je ? \""
+       ],
+       [
+        "Alors Simon-Pierre prit la parole et dit :"
+       ],
+       [
+        "\" Tu es le Christ, le Fils du Dieu vivant ! \" Prenant la parole à son tour,"
+       ],
+       [
+        "Jésus lui dit :"
+       ],
+       [
+        "\" Heureux es-tu, Simon fils de Yonas : ce n'est pas la chair et le sang qui t'ont révélé cela, mais mon Père qui est aux cieux. Et moi, je te le déclare : Tu es Pierre, et sur cette pierre je bâtirai mon Église ; et la puissance de la Mort ne l'emportera pas sur elle. Je te donnerai les clés du royaume des Cieux : tout ce que tu auras lié sur la terre sera lié dans les cieux, et tout ce que tu auras délié sur la terre sera délié dans les cieux. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit,"
+       ],
+       [
+        "als Jesus in das Gebiet von Cäsarea Philippi kam, fragte er seine Jünger: Für wen halten die Leute den Menschensohn?"
+       ],
+       [
+        "Sie sagten: Die einen für Johannes den Täufer, andere für Elíja, wieder andere für Jeremía oder sonst einen Propheten."
+       ],
+       [
+        "Da sagte er zu ihnen: Ihr aber, für wen haltet ihr mich?"
+       ],
+       [
+        "Simon Petrus antwortete: Du bist der Messias, der Sohn des lebendigen Gottes!"
+       ],
+       [
+        "Jesus sagte zu ihm: Selig bist du, Simon Barjóna; denn nicht Fleisch und Blut haben dir das offenbart, sondern mein Vater im Himmel. Ich aber sage dir: Du bist Petrus – der Fels -, und auf diesen Felsen werde ich meine Kirche bauen, und die Mächte der Unterwelt werden sie nicht überwältigen. Ich werde dir die Schlüssel des Himmelreichs geben; was du auf Erden binden wirst, das wird auch im Himmel gebunden sein, und was du auf Erden lösen wirst, das wird auch im Himmel gelöst sein."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

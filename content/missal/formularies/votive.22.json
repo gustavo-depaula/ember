@@ -1,1 +1,1112 @@
-{"id":"votive.22","source":"comunes_votivas/votivas#0022","kind":"votive","items":[{"slot":"262","text":{"la":[{"k":"h2","lines":[["17. DE S. PAULO, APOSTOLO"]]},{"k":"p","lines":[[{"m":"rubric","t":"In hac Missa adhibetur color ruber."}]]}],"pt-BR":[{"k":"h2","lines":[["17. SÃO PAULO, APÓSTOLO"]]},{"k":"p","lines":[[{"m":"rubric","t":"Esta Missa celebra-se com vestes sagradas de cor vermelha."}]]}],"en-US":[{"k":"h2","lines":[["17. SAINT PAUL, APOSTLE"]]},{"k":"p","lines":[[{"m":"rubric","t":"In this Mass, the color red is used."}]]}],"es":[{"k":"h2","lines":[["17. DE SAN PABLO, APÓSTOL"]]},{"k":"p","lines":[[{"m":"rubric","t":"Esta misa se dice con vestiduras de color rojo."}]]}],"it":[{"k":"h2","lines":[["17. SAN PAOLO APOSTOLO"]]},{"k":"p","lines":[[{"m":"rubric","t":"Colore liturgico rosso."}]]}],"fr":[{"k":"h2","lines":[["17. SAINT PAUL, APÔTRE"]]},{"k":"p","lines":[[{"m":"rubric","t":"Pour cette messe, on emploie la couleur rouge."}]]}],"de":[{"k":"h2","lines":[["17. VOM HEILIGEN PAULUS"]]},{"k":"p","lines":[[{"m":"rubric","t":"Diese Messe wird in roter Farbe gefeiert."}]]}]},"part":"title"},{"slot":"263","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"2 Tim 1, 12; 4, 8"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"2Tm 1, 12; 4, 8"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"2 Tm 1: 12; 4: 8"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"2 Tm 1, 12; 4, 8"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]},{"k":"p","lines":[],"cite":"Cf. 2 Tm 1, 12; 4, 8"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"2 Tim 1, 12; 4, 8"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"2 Tim 1, 12; 4, 8"}]},"part":"entranceAntiphon"},{"slot":"264","text":{"la":[{"k":"p","lines":[["Scio cui crédidi, et certus sum quia potens est depósitum meum serváre in illum diem iustus iudex."]]}],"pt-BR":[{"k":"p","lines":[["Sei em quem coloquei a minha fé. E tenho a certeza de que ele é capaz de guardar aquilo que me foi confiado até o grande dia, o Senhor, justo juiz."]]}],"en-US":[{"k":"p","lines":[["I know the one in whom i have believed"],["and i am sure that he, the just judge, the mighty, will keep safe what is my due until that day."]]}],"es":[{"k":"p","lines":[["Sé de quién me he fiado, y estoy firmemente persuadido de que el juez justo tiene poder para velar, hasta aquel día, por el depósito que se me confió."]]}],"it":[{"k":"p","lines":[["So in chi ho posto la mia fede e sono convinto che egli, giusto giudice, è capace di custodire fino a quel giorno ciò che mi è stato affidato."]]}],"fr":[{"k":"p","lines":[["Je sais en qui j'ai cru ;"],["et j'ai la conviction qu'il est assez puissant"],["pour sauvegarder, jusqu'au jour de sa venue,"],["le dépôt de la foi qu'il m'a confié,"],["lui, le juste Juge."]]}],"de":[{"k":"p","lines":[["Ich weiß, auf wen ich mein Vertrauen gesetzt habe, und ich bin überzeugt, dass er die Macht hat, das mir anvertraute Gut zu bewahren bis zu seinem Tag, er, der gerechte Richter."]]}]},"part":"entranceAntiphon"},{"slot":"265","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"266","text":{"la":[{"k":"p","lines":[["Dómine Deus, qui beátum Paulum apóstolum ad prædicándum Evangélium mirabíliter designásti, da fide mundum univérsum ímbui, quam ipse coram régibus gentibúsque portávit, ut iúgiter Ecclésia tua cápiat augméntum. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor Deus, que escolhestes o apóstolo São Paulo para pregar o Evangelho de modo admirável, fazei que o mundo inteiro seja impregnado pela fé que ele levou diante de reis e povos, a fim de que vossa Igreja cresça cada vez mais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Lord God, who in a wondrous way"],["chose the blessed apostle Paul to preach the Gospel,"],["grant, we pray, that the whole world"],["may be imbued with that faith"],["which he brought before rulers and nations,"],["for the unceasing growth of your Church."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Señor y Dios nuestro,"],["que de modo admirable elegiste"],["al apóstol san Pablo para predicar el Evangelio,"],["haz que penetre en todo el mundo"],["la fe que el Apóstol llevó a los reyes y a las naciones,"],["para que tu Iglesia crezca sin cesar."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Signore nostro Dio, che hai mirabilmente scelto l'apostolo Paolo per la predicazione del Vangelo, concedi all'umanità intera il dono della fede, che egli annunciò davanti ai re e alle nazioni, affinché la tua Chiesa si accresca sempre di nuovi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["d'une manière admirable,"],["tu as choisi le bienheureux apôtre Paul"],["pour qu'il prêche l'Évangile ;"],["accorde au monde entier d'être comblé par cette foi"],["qu'il a portée devant les rois et les nations,"],["afin que ton Église ne cesse de grandir."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast den heiligen Apostel Paulus auf wunderbare Weise berufen und dazu auserwählt, den Heiden das Evangelium zu verkünden. Lass den Glauben, den er Königen und Völkern gepredigt hat, in der ganzen Welt Aufnahme finden, damit deine Kirche überall gedeihe und wachse. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"267","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"268","text":{"la":[{"k":"p","lines":[["Illo nos, quǽsumus, Dómine, divína tractántes, fídei lúmine Spíritus perfúndat, quo beátum Paulum apóstolum ad glóriæ tuæ propagatiónem collustrávit. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, ao celebrarmos os divinos mistérios, nós vos pedimos que o Espírito Santo infunda em nós aquela luz da fé que iluminou o apóstolo São Paulo para proclamar sempre a vossa glória. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["As we celebrate the divine mysteries, o Lord, we pray,"],["may the spirit fill us with that light of faith"],["by which he constantly enlightened the blessed apostle Paul for the spreading of your glory."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Al celebrar estos divinos misterios,"],["te pedimos, Señor,"],["que el Espíritu nos ilumine con aquella luz de la fe"],["que alumbró al apóstol san Pablo para propagar tu gloria."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, lo Spirito Santo infonda in noi, che celebriamo i divini misteri, la stessa luce di fede che illuminò sempre il beato apostolo Paolo per la diffusione della tua gloria. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Tandis que nous célébrons tes mystères, Seigneur,"],["que ton Esprit Saint répande sur nous la lumière de la foi,"],["dont il n'a cessé d'éclairer le bienheureux apôtre Paul,"],["pour le rayonnement de ta gloire."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, schenke uns in dieser Opferfeier den Heiligen Geist, der den Apostel Paulus befähigt hat, deine Herrlichkeit zu verkünden. Lass auch uns im Licht des Glaubens bleiben und dich vor der Welt bezeugen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"270","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Gal 2, 20"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Gl 2, 20"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Gal 2: 20"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Ga 2, 20"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gal 2, 20"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Gal 2, 20"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Gal 2, 20"}]},"part":"communionAntiphon"},{"slot":"271","text":{"la":[{"k":"p","lines":[["In fide vivo Fílii Dei, qui diléxit me, et trádidit semetípsum pro me."]]}],"pt-BR":[{"k":"p","lines":[["Vivo na fé, crendo no Filho de Deus, que me amou e por mim se entregou."]]}],"en-US":[{"k":"p","lines":[["I live by faith in the Son of God,"],["who has loved me and given himself up for me."]]}],"es":[{"k":"p","lines":[["Vivo en la fe del Hijo de Dios, que me amó y se entregó por mí."]]}],"it":[{"k":"p","lines":[["Vivo nella fede del Figlio di Dio, che mi ha amato e ha consegnato se stesso per me."]]}],"fr":[{"k":"p","lines":[["Je vis dans la foi au Fils de Dieu"],["qui m'a aimé et s'est livré lui-même pour moi."]]}],"de":[{"k":"p","lines":[["Ich lebe im Glauben an den Sohn Gottes, der mich geliebt und sich für mich hingegeben hat."]]}]},"part":"communionAntiphon"},{"slot":"272","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"273","text":{"la":[{"k":"p","lines":[["Córporis et Sánguinis Fílii tui, Dómine, communióne reféctis, concéde, ut ipse Christus sit nobis vívere, nihílque ab eius nos séparet caritáte, et, beáto monénte Apóstolo, in dilectióne cum frátribus ambulémus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Revigorados pela comunhão do Corpo e do Sangue do vosso Filho, nós vos pedimos, Senhor, que o próprio Cristo seja a nossa vida e nada nos separe do seu amor; fiéis aos ensinamentos do santo Apóstolo, caminhemos na caridade fraterna. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant Lord, to those refreshed"],["by communion in the Body and Blood of your Son,"],["that Christ himself may be life to us,"],["that nothing may separate us from his love,"],["and that, attentive to the teaching of the blessed apostle Paul, we may walk in charity with our neighbor."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Alimentados con el Cuerpo y la Sangre de tu Hijo,"],["te pedimos, Señor,"],["que la vida para nosotros sea Cristo"],["y nada nos separe de su amor;"],["y haz que vivamos en caridad con los hermanos,"],["fieles al consejo del Apóstol."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Padre, che ci hai nutriti con il Corpo e il Sangue del tuo Figlio, fa' che Cristo sia la nostra vita, nulla ci separi dal suo amore, e camminiamo nella carità come l'apostolo ci ha insegnato. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur, tu nous as rendu des forces"],["par cette communion au Corps et au Sang de ton Fils ;"],["fais que le Christ soit vraiment notre vie,"],["que rien ne nous sépare de son amour,"],["et que nous marchions dans la charité avec nos frères,"],["comme nous y encourage le bienheureux apôtre Paul."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, du hast uns mit dem Leib und Blut deines Sohnes gestärkt. Gib, dass Christus wahrhaft unser Leben ist und dass uns nichts von seiner Liebe trennt. Hilf uns, dass wir nach dem Wort des Apostels uns in der Liebe zu den Brüdern bewähren. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.50"],"title":{"la":"17. DE S. PAULO, APOSTOLO","pt-BR":"17. SÃO PAULO, APÓSTOLO","en-US":"17. SAINT PAUL, APOSTLE","es":"17. DE SAN PABLO, APÓSTOL","it":"17. SAN PAOLO APOSTOLO","fr":"17. SAINT PAUL, APÔTRE","de":"17. VOM HEILIGEN PAULUS"}}
+{
+ "id": "votive.22",
+ "kind": "votive",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. DE S. PAULO, APOSTOLO"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In hac Missa adhibetur color ruber."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. SÃO PAULO, APÓSTOLO"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Esta Missa celebra-se com vestes sagradas de cor vermelha."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. SAINT PAUL, APOSTLE"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In this Mass, the color red is used."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. DE SAN PABLO, APÓSTOL"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Esta misa se dice con vestiduras de color rojo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. SAN PAOLO APOSTOLO"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Colore liturgico rosso."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. SAINT PAUL, APÔTRE"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pour cette messe, on emploie la couleur rouge."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. VOM HEILIGEN PAULUS"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diese Messe wird in roter Farbe gefeiert."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "2 Tim 1, 12; 4, 8"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "2Tm 1, 12; 4, 8"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "2 Tm 1: 12; 4: 8"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "2 Tm 1, 12; 4, 8"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Cf. 2 Tm 1, 12; 4, 8"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "2 Tim 1, 12; 4, 8"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "2 Tim 1, 12; 4, 8"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scio cui crédidi, et certus sum quia potens est depósitum meum serváre in illum diem iustus iudex."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sei em quem coloquei a minha fé. E tenho a certeza de que ele é capaz de guardar aquilo que me foi confiado até o grande dia, o Senhor, justo juiz."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I know the one in whom i have believed"
+       ],
+       [
+        "and i am sure that he, the just judge, the mighty, will keep safe what is my due until that day."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sé de quién me he fiado, y estoy firmemente persuadido de que el juez justo tiene poder para velar, hasta aquel día, por el depósito que se me confió."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So in chi ho posto la mia fede e sono convinto che egli, giusto giudice, è capace di custodire fino a quel giorno ciò che mi è stato affidato."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je sais en qui j'ai cru ;"
+       ],
+       [
+        "et j'ai la conviction qu'il est assez puissant"
+       ],
+       [
+        "pour sauvegarder, jusqu'au jour de sa venue,"
+       ],
+       [
+        "le dépôt de la foi qu'il m'a confié,"
+       ],
+       [
+        "lui, le juste Juge."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich weiß, auf wen ich mein Vertrauen gesetzt habe, und ich bin überzeugt, dass er die Macht hat, das mir anvertraute Gut zu bewahren bis zu seinem Tag, er, der gerechte Richter."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dómine Deus, qui beátum Paulum apóstolum ad prædicándum Evangélium mirabíliter designásti, da fide mundum univérsum ímbui, quam ipse coram régibus gentibúsque portávit, ut iúgiter Ecclésia tua cápiat augméntum. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor Deus, que escolhestes o apóstolo São Paulo para pregar o Evangelho de modo admirável, fazei que o mundo inteiro seja impregnado pela fé que ele levou diante de reis e povos, a fim de que vossa Igreja cresça cada vez mais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lord God, who in a wondrous way"
+       ],
+       [
+        "chose the blessed apostle Paul to preach the Gospel,"
+       ],
+       [
+        "grant, we pray, that the whole world"
+       ],
+       [
+        "may be imbued with that faith"
+       ],
+       [
+        "which he brought before rulers and nations,"
+       ],
+       [
+        "for the unceasing growth of your Church."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor y Dios nuestro,"
+       ],
+       [
+        "que de modo admirable elegiste"
+       ],
+       [
+        "al apóstol san Pablo para predicar el Evangelio,"
+       ],
+       [
+        "haz que penetre en todo el mundo"
+       ],
+       [
+        "la fe que el Apóstol llevó a los reyes y a las naciones,"
+       ],
+       [
+        "para que tu Iglesia crezca sin cesar."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore nostro Dio, che hai mirabilmente scelto l'apostolo Paolo per la predicazione del Vangelo, concedi all'umanità intera il dono della fede, che egli annunciò davanti ai re e alle nazioni, affinché la tua Chiesa si accresca sempre di nuovi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "d'une manière admirable,"
+       ],
+       [
+        "tu as choisi le bienheureux apôtre Paul"
+       ],
+       [
+        "pour qu'il prêche l'Évangile ;"
+       ],
+       [
+        "accorde au monde entier d'être comblé par cette foi"
+       ],
+       [
+        "qu'il a portée devant les rois et les nations,"
+       ],
+       [
+        "afin que ton Église ne cesse de grandir."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast den heiligen Apostel Paulus auf wunderbare Weise berufen und dazu auserwählt, den Heiden das Evangelium zu verkünden. Lass den Glauben, den er Königen und Völkern gepredigt hat, in der ganzen Welt Aufnahme finden, damit deine Kirche überall gedeihe und wachse. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Illo nos, quǽsumus, Dómine, divína tractántes, fídei lúmine Spíritus perfúndat, quo beátum Paulum apóstolum ad glóriæ tuæ propagatiónem collustrávit. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, ao celebrarmos os divinos mistérios, nós vos pedimos que o Espírito Santo infunda em nós aquela luz da fé que iluminou o apóstolo São Paulo para proclamar sempre a vossa glória. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As we celebrate the divine mysteries, o Lord, we pray,"
+       ],
+       [
+        "may the spirit fill us with that light of faith"
+       ],
+       [
+        "by which he constantly enlightened the blessed apostle Paul for the spreading of your glory."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al celebrar estos divinos misterios,"
+       ],
+       [
+        "te pedimos, Señor,"
+       ],
+       [
+        "que el Espíritu nos ilumine con aquella luz de la fe"
+       ],
+       [
+        "que alumbró al apóstol san Pablo para propagar tu gloria."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, lo Spirito Santo infonda in noi, che celebriamo i divini misteri, la stessa luce di fede che illuminò sempre il beato apostolo Paolo per la diffusione della tua gloria. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tandis que nous célébrons tes mystères, Seigneur,"
+       ],
+       [
+        "que ton Esprit Saint répande sur nous la lumière de la foi,"
+       ],
+       [
+        "dont il n'a cessé d'éclairer le bienheureux apôtre Paul,"
+       ],
+       [
+        "pour le rayonnement de ta gloire."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, schenke uns in dieser Opferfeier den Heiligen Geist, der den Apostel Paulus befähigt hat, deine Herrlichkeit zu verkünden. Lass auch uns im Licht des Glaubens bleiben und dich vor der Welt bezeugen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Gal 2, 20"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Gl 2, 20"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Gal 2: 20"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Ga 2, 20"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gal 2, 20"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Gal 2, 20"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Gal 2, 20"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In fide vivo Fílii Dei, qui diléxit me, et trádidit semetípsum pro me."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vivo na fé, crendo no Filho de Deus, que me amou e por mim se entregou."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I live by faith in the Son of God,"
+       ],
+       [
+        "who has loved me and given himself up for me."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vivo en la fe del Hijo de Dios, que me amó y se entregó por mí."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vivo nella fede del Figlio di Dio, che mi ha amato e ha consegnato se stesso per me."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je vis dans la foi au Fils de Dieu"
+       ],
+       [
+        "qui m'a aimé et s'est livré lui-même pour moi."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich lebe im Glauben an den Sohn Gottes, der mich geliebt und sich für mich hingegeben hat."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Córporis et Sánguinis Fílii tui, Dómine, communióne reféctis, concéde, ut ipse Christus sit nobis vívere, nihílque ab eius nos séparet caritáte, et, beáto monénte Apóstolo, in dilectióne cum frátribus ambulémus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Revigorados pela comunhão do Corpo e do Sangue do vosso Filho, nós vos pedimos, Senhor, que o próprio Cristo seja a nossa vida e nada nos separe do seu amor; fiéis aos ensinamentos do santo Apóstolo, caminhemos na caridade fraterna. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant Lord, to those refreshed"
+       ],
+       [
+        "by communion in the Body and Blood of your Son,"
+       ],
+       [
+        "that Christ himself may be life to us,"
+       ],
+       [
+        "that nothing may separate us from his love,"
+       ],
+       [
+        "and that, attentive to the teaching of the blessed apostle Paul, we may walk in charity with our neighbor."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alimentados con el Cuerpo y la Sangre de tu Hijo,"
+       ],
+       [
+        "te pedimos, Señor,"
+       ],
+       [
+        "que la vida para nosotros sea Cristo"
+       ],
+       [
+        "y nada nos separe de su amor;"
+       ],
+       [
+        "y haz que vivamos en caridad con los hermanos,"
+       ],
+       [
+        "fieles al consejo del Apóstol."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che ci hai nutriti con il Corpo e il Sangue del tuo Figlio, fa' che Cristo sia la nostra vita, nulla ci separi dal suo amore, e camminiamo nella carità come l'apostolo ci ha insegnato. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, tu nous as rendu des forces"
+       ],
+       [
+        "par cette communion au Corps et au Sang de ton Fils ;"
+       ],
+       [
+        "fais que le Christ soit vraiment notre vie,"
+       ],
+       [
+        "que rien ne nous sépare de son amour,"
+       ],
+       [
+        "et que nous marchions dans la charité avec nos frères,"
+       ],
+       [
+        "comme nous y encourage le bienheureux apôtre Paul."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, du hast uns mit dem Leib und Blut deines Sohnes gestärkt. Gib, dass Christus wahrhaft unser Leben ist und dass uns nichts von seiner Liebe trennt. Hilf uns, dass wir nach dem Wort des Apostels uns in der Liebe zu den Brüdern bewähren. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.50"
+ ],
+ "title": {
+  "la": "17. DE S. PAULO, APOSTOLO",
+  "pt-BR": "17. SÃO PAULO, APÓSTOLO",
+  "en-US": "17. SAINT PAUL, APOSTLE",
+  "es": "17. DE SAN PABLO, APÓSTOL",
+  "it": "17. SAN PAOLO APOSTOLO",
+  "fr": "17. SAINT PAUL, APÔTRE",
+  "de": "17. VOM HEILIGEN PAULUS"
+ }
+}

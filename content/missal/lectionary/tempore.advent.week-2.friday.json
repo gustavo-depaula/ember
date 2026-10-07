@@ -1,1 +1,2295 @@
-{"id":"tempore.advent.week-2.friday","source":"lecturas/lecturas_adv_02#A025","items":[{"slot":"123","text":{"la":[{"k":"h2","lines":[["Tempus Adventus"],["Hebdomada II"],["Feria sexta"]]}],"pt-BR":[{"k":"h2","lines":[["2ª Semana do Advento"],["Sexta-feira"]]}],"en-US":[{"k":"h2","lines":[["Advent Season"],["2nd Week: Friday"]]}],"es":[{"k":"h2","lines":[["Tiempo de Adviento"],["Viernes de la II Semana"]]}],"it":[{"k":"h2","lines":[["VENERDI della II settimana di Avvento"]]}],"fr":[{"k":"h2","lines":[["Temps de l'Avent"],["2e semaine"],["Vendredi"]]}],"de":[{"k":"h2","lines":[["Advent"],["2. Woche: Freitag"]]}]}},{"slot":"124","text":{"la":[{"k":"p","lines":[["Lectio prior"]],"role":"title"},{"k":"p","lines":[["Utinam attendisses mandata mea!"]],"role":"summary"},{"k":"p","lines":[["Léctio libri Isaíæ prophétæ"]],"cite":"48, 17-19","role":"announcement"},{"k":"p","lines":[["Hæc dicit Dóminus, redémptor tuus, Sanctus Israel:"]]},{"k":"p","lines":[["«Ego Dóminus Deus tuus docens te utília, gubérnans te in via, qua ámbulas. Utinam attendísses mandáta mea! Facta fuísset sicut flumen pax tua, et iustítia tua sicut gúrgites maris; et fuísset quasi aréna semen tuum, et stirps úteri tui ut lapílli eius; non interísset et non fuísset attrítum nomen eius a fácie mea»."]]},{"k":"p","lines":[["Verbum Dómini."]]}],"pt-BR":[{"k":"p","lines":[["Primeira Leitura"]],"role":"title"},{"k":"p","lines":[["Ah, se tivesses observado os meus mandamentos!"]],"role":"summary"},{"k":"p","lines":[["Leitura do Livro do Profeta Isaías"]],"cite":"48, 17-19","role":"announcement"},{"k":"p","lines":[["Isto diz o Senhor, o teu libertador, o Santo de Israel: \"Eu, o Senhor teu Deus, te ensino coisas úteis, te conduzo pelo caminho em que andas. Ah, se tivesses observado os meus mandamentos! Tua paz teria sido como um rio e tua justiça como as ondas do mar; tua descendência seria como a areia do mar e os filhos do teu ventre como os grãos de areia; este nome não teria desaparecido nem teria sido cancelado de minha presença\"."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["First Reading"]],"role":"title"},{"k":"p","lines":[["A reading from the book of Isaiah"]],"cite":"48:17-19","role":"announcement"},{"k":"p","lines":[["Thus says the Lord, your redeemer, the Holy One of Israel: I, the Lord, your God, teach you what is good for you, I lead you in the way that you must go. If only you had been alert to my commandments, your happiness would have been like a river, your integrity like the waves of the sea. Your children would have been numbered like the sand, your descendants as many as its grains. Never would your name have been cut off or blotted out before me."]]},{"k":"p","lines":[["The Word of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Primera Lectura"]],"role":"title"},{"k":"p","lines":[["Si hubieras atendido a mis mandatos"]],"role":"summary"},{"k":"p","lines":[["Lectura del libro del profeta Isaías"]],"cite":"48, 17-19","role":"announcement"},{"k":"p","lines":[["Esto dice el Señor, tu libertador,"],["el Santo de Israel:"],["«Yo, el Señor, tu Dios,"],["te instruyo por tu bien,"],["te marco el camino a seguir."],["Si hubieras atendido a mis mandatos,"],["tu bienestar sería como un río,"],["tu justicia como las olas del mar,"],["tu descendencia como la arena,"],["como sus granos, el fruto de tus entrañas;"],["tu nombre no habría sido aniquilado,"],["ni eliminado de mi presencia»."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Prima lettura"]],"role":"title"},{"k":"p","lines":[["Se tu avessi prestato attenzione ai miei comandi!"]],"role":"summary"},{"k":"p","lines":[["Dal libro del profeta Isaia"]],"cite":"48,17-19","role":"announcement"},{"k":"p","lines":[["Così dice il Signore tuo redentore, il Santo di Israele:"],["«Io sono il Signore tuo Dio che ti insegno per il tuo bene, che ti guido per la strada su cui devi andare."],["Se avessi prestato attenzione ai miei comandi, il tuo benessere sarebbe come un fiume, la tua giustizia come le onde del mare. La tua discendenza sarebbe come la sabbia e i nati dalle tue viscere come i granelli d'arena; non sarebbe mai radiato né cancellato il tuo nome davanti a me»."]]},{"k":"p","lines":[["Parola di Dio."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Première lecture"]],"role":"title"},{"k":"p","lines":[["Livre d'Isaïe"]],"cite":"48, 17-19","role":"announcement"},{"k":"p","lines":[["Ainsi parle le Seigneur, ton rédempteur, Saint d'Israël : Je suis le Seigneur ton Dieu, je te donne un enseignement utile, je te guide sur le chemin où tu marches. Si seulement tu avais prêté attention à mes commandements, ta paix serait comme un fleuve, ta justice, comme les flots de la mer. Ta postérité serait comme le sable, comme les grains de sable, ta descendance ; son nom ne serait ni retranché ni effacé devant moi."]]},{"k":"p","lines":[["Parole du Seigneur."]]}],"de":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch Jesája"]],"cite":"48, 17-19","role":"announcement"},{"k":"p","lines":[["So spricht der Herr, dein Erlöser, der Heilige Israels:"],["Ich bin der Herr, dein Gott, der dich lehrt, was Nutzen bringt, und der dich auf den Weg führt, den du gehen sollst. Hättest du doch auf meine Gebote geachtet! Dein Glück wäre wie ein Strom und dein Heil wie die Wogen des Meeres. Deine Nachkommen wären zahlreich wie der Sand und deine leiblichen Kinder wie seine Körner. Ihr Name wäre in meinen Augen nicht getilgt und gelöscht."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"125","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"slot":"126","text":{"la":[{"k":"p","lines":[["Psalmus Responsorius"]],"cite":"Ps 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)","role":"title"}],"pt-BR":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sl 1, 1-2.3.4 e 6 (R. cf. Jo 8, 12)","role":"title"}],"en-US":[{"k":"p","lines":[["Responsorial Psalm"]],"cite":"Ps 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)","role":"title"}],"es":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)","role":"title"}],"it":[{"k":"p","lines":[["Salmo Responsoriale"]],"cite":"Dal Salmo 1","role":"title"}],"fr":[{"k":"p","lines":[["Psaume"]],"cite":"Ps 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)","role":"title"}],"de":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 1, 1-2. 3. 4 u. 6 (R: vgl. Joh 8, 12)","role":"title"}]},"part":"psalm"},{"slot":"127","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séquitur te, Dómine, habébit lucem vitæ."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Senhor, quem vos seguir, terá a luz da vida."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who follow you, Lord, will have the light of life."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El que te sigue, Señor, tendrá la luz de la vida."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi ti segue, Signore, avrà la luce della vita."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui marche à ta suite, Seigneur, aura la lumière de la vie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herr, wer dir nachfolgt, hat das Licht des Lebens."]]}]},"part":"psalm","role":"people"},{"slot":"128","text":{"la":[{"k":"p","lines":[["Beátus vir qui non ábiit in consílio impiórum,"],["et in via peccatórum non stetit,"],["et in convéntu derisórum non sedit;"],["sed in lege Dómini volúntas eius,"],["et in lege eius meditátur die ac nocte."]]}],"pt-BR":[{"k":"p","lines":[["Feliz é todo aquele que não anda"],["conforme os conselhos dos perversos;"],["que não entra no caminho dos malvados,"],["nem junto aos zombadores vai sentar-se;"],["mas encontra seu prazer na lei de Deus"],["a medita, dia e noite, sem cessar."]]}],"en-US":[{"k":"p","lines":[["Happy indeed is the man who follows not the counsel of the wicked; nor lingers in the way of sinners nor sits in the company of scorners, but whose delight is the law of the Lord and who ponders his law day and night."]]}],"es":[{"k":"p","lines":[["Dichoso el hombre"],["que no sigue el consejo de los impíos,"],["ni entra por la senda de los pecadores,"],["ni se sienta en la reunión de los cínicos;"],["sino que su gozo es la ley del Señor,"],["y medita su ley día y noche."]]}],"it":[{"k":"p","lines":[["Beato l'uomo che non entra nel consiglio dei malvagi,"],["non resta nella via dei peccatori"],["e non siede in compagnia degli arroganti,"],["ma nella legge del Signore trova la sua gioia,"],["la sua legge medita giorno e notte."]]}],"fr":[{"k":"p","lines":[["Heureux est l'homme"],["qui n'entre pas au conseil des méchants,"],["qui ne suit pas le chemin des pécheurs,"],["ne siège pas avec ceux qui ricanent,"],["mais se plaît dans la loi du Seigneur"],["et murmure sa loi jour et nuit !"]]}],"de":[{"k":"p","lines":[["Wohl dem Mann, der nicht dem Rat der Frevler folgt,"],["nicht auf dem Weg der Sünder geht,"],["nicht im Kreis der Spötter sitzt,"],["sondern Freude hat an der Weisung des Herrn,"],["über seine Weisung nachsinnt bei Tag und bei Nacht."]]}]},"part":"psalm","role":"verse"},{"slot":"129","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séquitur te, Dómine, habébit lucem vitæ."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Senhor, quem vos seguir, terá a luz da vida."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who follow you, Lord, will have the light of life."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El que te sigue, Señor, tendrá la luz de la vida."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi ti segue, Signore, avrà la luce della vita."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui marche à ta suite, Seigneur, aura la lumière de la vie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herr, wer dir nachfolgt, hat das Licht des Lebens."]]}]},"part":"psalm","role":"people"},{"slot":"130","text":{"la":[{"k":"p","lines":[["Et erit tamquam lignum plantátum secus decúrsus aquárum,"],["quod fructum suum dabit in témpore suo;"],["et fólium eius non défluet,"],["et ómnia quæcúmque fáciet prosperabúntur."]]}],"pt-BR":[{"k":"p","lines":[["Eis que ele é semelhante a uma árvore,"],["que à beira da torrente está plantada;"],["ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar."],["Eis que tudo o que ele faz vai prosperar."]]}],"en-US":[{"k":"p","lines":[["He is like a tree that is planted beside the flowing waters, that yields its fruit in due season and whose leaves shall never fade; and all that he does shall prosper."]]}],"es":[{"k":"p","lines":[["Será como un árbol"],["plantado al borde de la acequia:"],["da fruto en su sazón"],["y no se marchitan sus hojas;"],["y cuanto emprende tiene buen fin."]]}],"it":[{"k":"p","lines":[["È come albero piantato lungo corsi d'acqua,"],["che dà frutto a suo tempo:"],["le sue foglie non appassiscono"],["e tutto quello che fa, riesce bene."]]}],"fr":[{"k":"p","lines":[["Il est comme un arbre"],["planté près d'un ruisseau,"],["qui donne du fruit en son temps,"],["et jamais son feuillage ne meurt ;"],["tout ce qu'il entreprend réussira."],["Tel n'est pas le sort des méchants."]]}],"de":[{"k":"p","lines":[["Er ist wie ein Baum, der an Wasserbächen gepflanzt ist,"],["der zur rechten Zeit seine Frucht bringt"],["und dessen Blätter nicht welken."],["Alles, was er tut, wird ihm gut gelingen."]]}]},"part":"psalm","role":"verse"},{"slot":"131","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séquitur te, Dómine, habébit lucem vitæ."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Senhor, quem vos seguir, terá a luz da vida."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who follow you, Lord, will have the light of life."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El que te sigue, Señor, tendrá la luz de la vida."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi ti segue, Signore, avrà la luce della vita."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui marche à ta suite, Seigneur, aura la lumière de la vie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herr, wer dir nachfolgt, hat das Licht des Lebens."]]}]},"part":"psalm","role":"people"},{"slot":"132","text":{"la":[{"k":"p","lines":[["Non sic ímpii, non sic,"],["sed tamquam pulvis quem próicit ventus."],["Quóniam novit Dóminus viam iustórum,"],["et iter impiórum períbit."]]}],"pt-BR":[{"k":"p","lines":[["Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca"],["espalhada e dispersada pelo vento."],["Pois Deus vigia o caminho dos eleitos,"],["mas a estrada dos malvados leva à morte."]]}],"en-US":[{"k":"p","lines":[["Not so are the wicked, not so! For they like winnowed chaff shall be driven away by the wind. For the Lord guards the way of the just but the way of the wicked leads to doom."]]}],"es":[{"k":"p","lines":[["No así los impíos, no así;"],["serán paja que arrebata el viento."],["Porque el Señor protege el camino de los justos,"],["pero el camino de los impíos acaba mal."]]}],"it":[{"k":"p","lines":[["Non così, non così i malvagi,"],["ma come pula che il vento disperde;"],["poiché il Signore veglia sul cammino dei giusti,"],["mentre la via dei malvagi va in rovina."]]}],"fr":[{"k":"p","lines":[["Mais ils sont comme la paille"],["balayée par le vent."],["Le Seigneur connaît le chemin des justes,"],["mais le chemin des méchants se perdra."]]}],"de":[{"k":"p","lines":[["Nicht so die Frevler:"],["Sie sind wie Spreu, die der Wind verweht."],["Denn der Herr kennt den Weg der Gerechten,"],["der Weg der Frevler aber führt in den Abgrund."]]}]},"part":"psalm","role":"verse"},{"slot":"133","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui séquitur te, Dómine, habébit lucem vitæ."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Senhor, quem vos seguir, terá a luz da vida."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Those who follow you, Lord, will have the light of life."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El que te sigue, Señor, tendrá la luz de la vida."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Chi ti segue, Signore, avrà la luce della vita."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Qui marche à ta suite, Seigneur, aura la lumière de la vie."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Herr, wer dir nachfolgt, hat das Licht des Lebens."]]}]},"part":"psalm","role":"people"},{"slot":"134","text":{"la":[{"k":"p","lines":[["Alleluia"]],"role":"title"},{"k":"p","lines":[["Allelúia."],["Dóminus véniet, occúrrite illi:"],["ipse est princeps pacis."],["Allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Aclamação ao Evangelho"]],"role":"title"},{"k":"p","lines":[["Aleluia, aleluia."],["O Senhor há de vir, acorrei-lhe ao encontro; é o Principe da paz."],["Aleluia."]]}],"en-US":[{"k":"p","lines":[["Gospel Acclamation"]],"role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["The Lord will come; go out to meet him! He is the prince of peace."],["Alleluia."]]}],"es":[{"k":"p","lines":[["Aleluya"]],"role":"title"},{"k":"p","lines":[["Aleluya."],["El Señor llega, salid a su encuentro;"],["él es el Príncipe de la paz."],["Aleluya."]]}],"it":[{"k":"p","lines":[["Canto al Vangelo"]],"role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Il Signore viene, andiamogli incontro:"],["egli è il principe della pace."],["Alleluia."]]}],"fr":[{"k":"p","lines":[["Alléluia"]],"role":"title"},{"k":"p","lines":[["Alléluia. Alléluia."],["Le Seigneur vient : allez à sa rencontre ! C'est lui le Prince de la paix."],["Alléluia."]]}],"de":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"role":"title"},{"k":"p","lines":[["Halleluja. Halleluja."],["Der Herr wird kommen, eilt ihm entgegen; er ist es, der Friedensfürst."],["Halleluja."]]}]},"part":"acclamation"},{"slot":"135","text":{"la":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[["Neque Ioannem neque Filium hominis audiunt"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Matthǽum"]],"cite":"11, 16-19","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Evangelho"]],"role":"title"},{"k":"p","lines":[["Não ouvem nem a João nem ao Filho do Homem."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Mateus"]],"cite":"11, 16-19","role":"announcement"}],"en-US":[{"k":"p","lines":[["Gospel"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Matthew"]],"cite":"11:16-19","role":"announcement"}],"es":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["No escuchan ni a Juan ni al Hijo del hombre"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Mateo"]],"cite":"11, 16-19","role":"announcement"}],"it":[{"k":"p","lines":[["Vangelo"]],"role":"title"},{"k":"p","lines":[["Non ascoltano né Giovanni né il Figlio dell'uomo."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal vangelo secondo Matteo"]],"cite":"11, 16-19","role":"announcement"}],"fr":[{"k":"p","lines":[["Proclamation de l'Évangile"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Matthieu"]],"cite":"11, 16-19","role":"announcement"}],"de":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"11, 16-19","role":"announcement"}]},"part":"gospel"},{"slot":"136","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"137","text":{"la":[{"k":"p","lines":[["In illo témpore: Dixit Iesus ad turbas:"]]},{"k":"p","lines":[["«Cui símilem æstimábo generatiónem istam? Símilis est púeris sedéntibus in foro, qui clamántes coæquálibus dicunt: “Cecínimus vobis, et non saltástis; lamentávimus, et non planxístis”."]]},{"k":"p","lines":[["Venit enim Ioánnes neque mandúcans neque bibens, et dicunt: “Dæmónium habet!”; venit Fílius hóminis mandúcans et bibens, et dicunt: “Ecce homo vorax et potátor vini, publicanórum amícus et peccatórum!”."]]},{"k":"p","lines":[["Et iustificáta est sapiéntia ab opéribus suis»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, disse Jesus às multidões: \"Com quem vou comparar esta geração? São como crianças sentadas nas praças, que gritam para os colegas, dizendo: 'Tocamos flauta e vós não dançastes. Entoamos lamentações e vós não batestes no peito!' Veio João, que não come nem bebe, e dizem: 'Ele está com um demônio'. Veio o Filho do Homem, que come e bebe, e dizem: 'É um comilão e beberrão, amigo de cobradores de impostos e de pecadores'. Mas a sabedoria foi reconhecida com base em suas obras\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["Jesus spoke to the crowds: 'What description can I find for this generation? It is like children shouting to each other as they sit in the market place: \"We played the pipes for you, and you wouldn't dance; we sang dirges, and you wouldn't be mourners\". 'For John came, neither eating nor drinking, and they say, \"He is possessed\". The Son of Man came, eating and drinking, and they say, \"Look, a glutton and a drunkard, a friend of tax collectors and sinners\". Yet wisdom has been proved right by her actions.'"]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, dijo Jesús al gentío:"],["«¿A quién compararé esta generación? Se asemeja a unos niños sentados en la plaza, que gritan diciendo: “Hemos tocado la flauta, y no habéis bailado; hemos entonado lamentaciones, y no habéis llorado”."],["Porque vino Juan, que ni comía ni bebía, y dicen: “Tiene un demonio”. Vino el Hijo del hombre, que come y bebe, y dicen: “Ahí tenéis a un comilón y borracho, amigo de publicanos y pecadores”."],["Pero la sabiduría se ha acreditado por sus obras»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, Gesù disse alle folle: «A chi posso paragonare questa generazione? È simile a bambini che stanno seduti in piazza e, rivolti ai compagni, gridano: Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non vi siete battuti il petto!. È venuto Giovanni, che non mangia e non beve, e dicono: È indemoniato. È venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco, è un mangione e un beone, un amico di pubblicani e di peccatori. Ma la sapienza è stata riconosciuta giusta per le opere che essa compie»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, Jésus déclarait aux foules : « À qui vais-je comparer cette génération ? Elle ressemble à des gamins assis sur les places, qui en interpellent d'autres en disant : “Nous vous avons joué de la flûte, et vous n'avez pas dansé. Nous avons chanté des lamentations, et vous ne vous êtes pas frappé la poitrine.” Jean est venu, en effet ; il ne mange pas, il ne boit pas, et l'on dit : “C'est un possédé !” Le Fils de l'homme est venu ; il mange et il boit, et l'on dit : “Voilà un glouton et un ivrogne, un ami des publicains et des pécheurs.” Mais la sagesse de Dieu a été reconnue juste à travers ce qu'elle fait. »"]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit sprach Jesus zu der Menge:"],["Mit wem soll ich diese Generation vergleichen? Sie gleicht Kindern, die auf dem Marktplatz sitzen und anderen Kindern zurufen: Wir haben für euch auf der Flöte Hochzeitslieder gespielt, und ihr habt nicht getanzt; wir haben Klagelieder gesungen, und ihr habt euch nicht an die Brust geschlagen."],["Johannes der Täufer ist gekommen, er isst nicht und trinkt nicht, und sie sagen: Er ist von einem Dämon besessen. Der Menschensohn ist gekommen, er isst und trinkt; darauf sagen sie: Dieser Fresser und Säufer, dieser Freund der Zöllner und Sünder!"],["Und doch hat die Weisheit durch die Taten, die sie bewirkt hat, recht bekommen."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"138","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"la":"Tempus Adventus — Hebdomada II — Feria sexta","pt-BR":"Sexta-feira","en-US":"Advent Season — 2nd Week: Friday","es":"Tiempo de Adviento — Viernes de la II Semana","it":"VENERDI della II settimana di Avvento","fr":"Temps de l'Avent — 2e semaine — Vendredi","de":"Advent — 2. Woche: Freitag"}}
+{
+ "id": "tempore.advent.week-2.friday",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Adventus"
+       ],
+       [
+        "Hebdomada II"
+       ],
+       [
+        "Feria sexta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2ª Semana do Advento"
+       ],
+       [
+        "Sexta-feira"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Advent Season"
+       ],
+       [
+        "2nd Week: Friday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo de Adviento"
+       ],
+       [
+        "Viernes de la II Semana"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "VENERDI della II settimana di Avvento"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps de l'Avent"
+       ],
+       [
+        "2e semaine"
+       ],
+       [
+        "Vendredi"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Advent"
+       ],
+       [
+        "2. Woche: Freitag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Utinam attendisses mandata mea!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Isaíæ prophétæ"
+       ]
+      ],
+      "cite": "48, 17-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc dicit Dóminus, redémptor tuus, Sanctus Israel:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Ego Dóminus Deus tuus docens te utília, gubérnans te in via, qua ámbulas. Utinam attendísses mandáta mea! Facta fuísset sicut flumen pax tua, et iustítia tua sicut gúrgites maris; et fuísset quasi aréna semen tuum, et stirps úteri tui ut lapílli eius; non interísset et non fuísset attrítum nomen eius a fácie mea»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ah, se tivesses observado os meus mandamentos!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Profeta Isaías"
+       ]
+      ],
+      "cite": "48, 17-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Isto diz o Senhor, o teu libertador, o Santo de Israel: \"Eu, o Senhor teu Deus, te ensino coisas úteis, te conduzo pelo caminho em que andas. Ah, se tivesses observado os meus mandamentos! Tua paz teria sido como um rio e tua justiça como as ondas do mar; tua descendência seria como a areia do mar e os filhos do teu ventre como os grãos de areia; este nome não teria desaparecido nem teria sido cancelado de minha presença\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the book of Isaiah"
+       ]
+      ],
+      "cite": "48:17-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Thus says the Lord, your redeemer, the Holy One of Israel: I, the Lord, your God, teach you what is good for you, I lead you in the way that you must go. If only you had been alert to my commandments, your happiness would have been like a river, your integrity like the waves of the sea. Your children would have been numbered like the sand, your descendants as many as its grains. Never would your name have been cut off or blotted out before me."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si hubieras atendido a mis mandatos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del profeta Isaías"
+       ]
+      ],
+      "cite": "48, 17-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esto dice el Señor, tu libertador,"
+       ],
+       [
+        "el Santo de Israel:"
+       ],
+       [
+        "«Yo, el Señor, tu Dios,"
+       ],
+       [
+        "te instruyo por tu bien,"
+       ],
+       [
+        "te marco el camino a seguir."
+       ],
+       [
+        "Si hubieras atendido a mis mandatos,"
+       ],
+       [
+        "tu bienestar sería como un río,"
+       ],
+       [
+        "tu justicia como las olas del mar,"
+       ],
+       [
+        "tu descendencia como la arena,"
+       ],
+       [
+        "como sus granos, el fruto de tus entrañas;"
+       ],
+       [
+        "tu nombre no habría sido aniquilado,"
+       ],
+       [
+        "ni eliminado de mi presencia»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se tu avessi prestato attenzione ai miei comandi!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Isaia"
+       ]
+      ],
+      "cite": "48,17-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Così dice il Signore tuo redentore, il Santo di Israele:"
+       ],
+       [
+        "«Io sono il Signore tuo Dio che ti insegno per il tuo bene, che ti guido per la strada su cui devi andare."
+       ],
+       [
+        "Se avessi prestato attenzione ai miei comandi, il tuo benessere sarebbe come un fiume, la tua giustizia come le onde del mare. La tua discendenza sarebbe come la sabbia e i nati dalle tue viscere come i granelli d'arena; non sarebbe mai radiato né cancellato il tuo nome davanti a me»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Isaïe"
+       ]
+      ],
+      "cite": "48, 17-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi parle le Seigneur, ton rédempteur, Saint d'Israël : Je suis le Seigneur ton Dieu, je te donne un enseignement utile, je te guide sur le chemin où tu marches. Si seulement tu avais prêté attention à mes commandements, ta paix serait comme un fleuve, ta justice, comme les flots de la mer. Ta postérité serait comme le sable, comme les grains de sable, ta descendance ; son nom ne serait ni retranché ni effacé devant moi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesája"
+       ]
+      ],
+      "cite": "48, 17-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr, dein Erlöser, der Heilige Israels:"
+       ],
+       [
+        "Ich bin der Herr, dein Gott, der dich lehrt, was Nutzen bringt, und der dich auf den Weg führt, den du gehen sollst. Hättest du doch auf meine Gebote geachtet! Dein Glück wäre wie ein Strom und dein Heil wie die Wogen des Meeres. Deine Nachkommen wären zahlreich wie der Sand und deine leiblichen Kinder wie seine Körner. Ihr Name wäre in meinen Augen nicht getilgt und gelöscht."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 1, 1-2.3.4 e 6 (R. cf. Jo 8, 12)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 1",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (: cf. Io 8, 12)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: vgl. Joh 8, 12)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séquitur te, Dómine, habébit lucem vitæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, quem vos seguir, terá a luz da vida."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who follow you, Lord, will have the light of life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El que te sigue, Señor, tendrá la luz de la vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi ti segue, Signore, avrà la luce della vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui marche à ta suite, Seigneur, aura la lumière de la vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, wer dir nachfolgt, hat das Licht des Lebens."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beátus vir qui non ábiit in consílio impiórum,"
+       ],
+       [
+        "et in via peccatórum non stetit,"
+       ],
+       [
+        "et in convéntu derisórum non sedit;"
+       ],
+       [
+        "sed in lege Dómini volúntas eius,"
+       ],
+       [
+        "et in lege eius meditátur die ac nocte."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Feliz é todo aquele que não anda"
+       ],
+       [
+        "conforme os conselhos dos perversos;"
+       ],
+       [
+        "que não entra no caminho dos malvados,"
+       ],
+       [
+        "nem junto aos zombadores vai sentar-se;"
+       ],
+       [
+        "mas encontra seu prazer na lei de Deus"
+       ],
+       [
+        "a medita, dia e noite, sem cessar."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Happy indeed is the man who follows not the counsel of the wicked; nor lingers in the way of sinners nor sits in the company of scorners, but whose delight is the law of the Lord and who ponders his law day and night."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dichoso el hombre"
+       ],
+       [
+        "que no sigue el consejo de los impíos,"
+       ],
+       [
+        "ni entra por la senda de los pecadores,"
+       ],
+       [
+        "ni se sienta en la reunión de los cínicos;"
+       ],
+       [
+        "sino que su gozo es la ley del Señor,"
+       ],
+       [
+        "y medita su ley día y noche."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beato l'uomo che non entra nel consiglio dei malvagi,"
+       ],
+       [
+        "non resta nella via dei peccatori"
+       ],
+       [
+        "e non siede in compagnia degli arroganti,"
+       ],
+       [
+        "ma nella legge del Signore trova la sua gioia,"
+       ],
+       [
+        "la sua legge medita giorno e notte."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureux est l'homme"
+       ],
+       [
+        "qui n'entre pas au conseil des méchants,"
+       ],
+       [
+        "qui ne suit pas le chemin des pécheurs,"
+       ],
+       [
+        "ne siège pas avec ceux qui ricanent,"
+       ],
+       [
+        "mais se plaît dans la loi du Seigneur"
+       ],
+       [
+        "et murmure sa loi jour et nuit !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wohl dem Mann, der nicht dem Rat der Frevler folgt,"
+       ],
+       [
+        "nicht auf dem Weg der Sünder geht,"
+       ],
+       [
+        "nicht im Kreis der Spötter sitzt,"
+       ],
+       [
+        "sondern Freude hat an der Weisung des Herrn,"
+       ],
+       [
+        "über seine Weisung nachsinnt bei Tag und bei Nacht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séquitur te, Dómine, habébit lucem vitæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, quem vos seguir, terá a luz da vida."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who follow you, Lord, will have the light of life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El que te sigue, Señor, tendrá la luz de la vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi ti segue, Signore, avrà la luce della vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui marche à ta suite, Seigneur, aura la lumière de la vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, wer dir nachfolgt, hat das Licht des Lebens."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et erit tamquam lignum plantátum secus decúrsus aquárum,"
+       ],
+       [
+        "quod fructum suum dabit in témpore suo;"
+       ],
+       [
+        "et fólium eius non défluet,"
+       ],
+       [
+        "et ómnia quæcúmque fáciet prosperabúntur."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eis que ele é semelhante a uma árvore,"
+       ],
+       [
+        "que à beira da torrente está plantada;"
+       ],
+       [
+        "ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar."
+       ],
+       [
+        "Eis que tudo o que ele faz vai prosperar."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He is like a tree that is planted beside the flowing waters, that yields its fruit in due season and whose leaves shall never fade; and all that he does shall prosper."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Será como un árbol"
+       ],
+       [
+        "plantado al borde de la acequia:"
+       ],
+       [
+        "da fruto en su sazón"
+       ],
+       [
+        "y no se marchitan sus hojas;"
+       ],
+       [
+        "y cuanto emprende tiene buen fin."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È come albero piantato lungo corsi d'acqua,"
+       ],
+       [
+        "che dà frutto a suo tempo:"
+       ],
+       [
+        "le sue foglie non appassiscono"
+       ],
+       [
+        "e tutto quello che fa, riesce bene."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il est comme un arbre"
+       ],
+       [
+        "planté près d'un ruisseau,"
+       ],
+       [
+        "qui donne du fruit en son temps,"
+       ],
+       [
+        "et jamais son feuillage ne meurt ;"
+       ],
+       [
+        "tout ce qu'il entreprend réussira."
+       ],
+       [
+        "Tel n'est pas le sort des méchants."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er ist wie ein Baum, der an Wasserbächen gepflanzt ist,"
+       ],
+       [
+        "der zur rechten Zeit seine Frucht bringt"
+       ],
+       [
+        "und dessen Blätter nicht welken."
+       ],
+       [
+        "Alles, was er tut, wird ihm gut gelingen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séquitur te, Dómine, habébit lucem vitæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, quem vos seguir, terá a luz da vida."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who follow you, Lord, will have the light of life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El que te sigue, Señor, tendrá la luz de la vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi ti segue, Signore, avrà la luce della vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui marche à ta suite, Seigneur, aura la lumière de la vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, wer dir nachfolgt, hat das Licht des Lebens."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non sic ímpii, non sic,"
+       ],
+       [
+        "sed tamquam pulvis quem próicit ventus."
+       ],
+       [
+        "Quóniam novit Dóminus viam iustórum,"
+       ],
+       [
+        "et iter impiórum períbit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca"
+       ],
+       [
+        "espalhada e dispersada pelo vento."
+       ],
+       [
+        "Pois Deus vigia o caminho dos eleitos,"
+       ],
+       [
+        "mas a estrada dos malvados leva à morte."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Not so are the wicked, not so! For they like winnowed chaff shall be driven away by the wind. For the Lord guards the way of the just but the way of the wicked leads to doom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No así los impíos, no así;"
+       ],
+       [
+        "serán paja que arrebata el viento."
+       ],
+       [
+        "Porque el Señor protege el camino de los justos,"
+       ],
+       [
+        "pero el camino de los impíos acaba mal."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non così, non così i malvagi,"
+       ],
+       [
+        "ma come pula che il vento disperde;"
+       ],
+       [
+        "poiché il Signore veglia sul cammino dei giusti,"
+       ],
+       [
+        "mentre la via dei malvagi va in rovina."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mais ils sont comme la paille"
+       ],
+       [
+        "balayée par le vent."
+       ],
+       [
+        "Le Seigneur connaît le chemin des justes,"
+       ],
+       [
+        "mais le chemin des méchants se perdra."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nicht so die Frevler:"
+       ],
+       [
+        "Sie sind wie Spreu, die der Wind verweht."
+       ],
+       [
+        "Denn der Herr kennt den Weg der Gerechten,"
+       ],
+       [
+        "der Weg der Frevler aber führt in den Abgrund."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séquitur te, Dómine, habébit lucem vitæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, quem vos seguir, terá a luz da vida."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who follow you, Lord, will have the light of life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El que te sigue, Señor, tendrá la luz de la vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi ti segue, Signore, avrà la luce della vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui marche à ta suite, Seigneur, aura la lumière de la vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Herr, wer dir nachfolgt, hat das Licht des Lebens."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allelúia."
+       ],
+       [
+        "Dóminus véniet, occúrrite illi:"
+       ],
+       [
+        "ipse est princeps pacis."
+       ],
+       [
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "O Senhor há de vir, acorrei-lhe ao encontro; é o Principe da paz."
+       ],
+       [
+        "Aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "The Lord will come; go out to meet him! He is the prince of peace."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya."
+       ],
+       [
+        "El Señor llega, salid a su encuentro;"
+       ],
+       [
+        "él es el Príncipe de la paz."
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Il Signore viene, andiamogli incontro:"
+       ],
+       [
+        "egli è il principe della pace."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia. Alléluia."
+       ],
+       [
+        "Le Seigneur vient : allez à sa rencontre ! C'est lui le Prince de la paix."
+       ],
+       [
+        "Alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Halleluja. Halleluja."
+       ],
+       [
+        "Der Herr wird kommen, eilt ihm entgegen; er ist es, der Friedensfürst."
+       ],
+       [
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Neque Ioannem neque Filium hominis audiunt"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "11, 16-19",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Não ouvem nem a João nem ao Filho do Homem."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "11, 16-19",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "11:16-19",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No escuchan ni a Juan ni al Hijo del hombre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "11, 16-19",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non ascoltano né Giovanni né il Figlio dell'uomo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "11, 16-19",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "11, 16-19",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "11, 16-19",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus ad turbas:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Cui símilem æstimábo generatiónem istam? Símilis est púeris sedéntibus in foro, qui clamántes coæquálibus dicunt: “Cecínimus vobis, et non saltástis; lamentávimus, et non planxístis”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venit enim Ioánnes neque mandúcans neque bibens, et dicunt: “Dæmónium habet!”; venit Fílius hóminis mandúcans et bibens, et dicunt: “Ecce homo vorax et potátor vini, publicanórum amícus et peccatórum!”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et iustificáta est sapiéntia ab opéribus suis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus às multidões: \"Com quem vou comparar esta geração? São como crianças sentadas nas praças, que gritam para os colegas, dizendo: 'Tocamos flauta e vós não dançastes. Entoamos lamentações e vós não batestes no peito!' Veio João, que não come nem bebe, e dizem: 'Ele está com um demônio'. Veio o Filho do Homem, que come e bebe, e dizem: 'É um comilão e beberrão, amigo de cobradores de impostos e de pecadores'. Mas a sabedoria foi reconhecida com base em suas obras\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus spoke to the crowds: 'What description can I find for this generation? It is like children shouting to each other as they sit in the market place: \"We played the pipes for you, and you wouldn't dance; we sang dirges, and you wouldn't be mourners\". 'For John came, neither eating nor drinking, and they say, \"He is possessed\". The Son of Man came, eating and drinking, and they say, \"Look, a glutton and a drunkard, a friend of tax collectors and sinners\". Yet wisdom has been proved right by her actions.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús al gentío:"
+       ],
+       [
+        "«¿A quién compararé esta generación? Se asemeja a unos niños sentados en la plaza, que gritan diciendo: “Hemos tocado la flauta, y no habéis bailado; hemos entonado lamentaciones, y no habéis llorado”."
+       ],
+       [
+        "Porque vino Juan, que ni comía ni bebía, y dicen: “Tiene un demonio”. Vino el Hijo del hombre, que come y bebe, y dicen: “Ahí tenéis a un comilón y borracho, amigo de publicanos y pecadores”."
+       ],
+       [
+        "Pero la sabiduría se ha acreditado por sus obras»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse alle folle: «A chi posso paragonare questa generazione? È simile a bambini che stanno seduti in piazza e, rivolti ai compagni, gridano: Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non vi siete battuti il petto!. È venuto Giovanni, che non mangia e non beve, e dicono: È indemoniato. È venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco, è un mangione e un beone, un amico di pubblicani e di peccatori. Ma la sapienza è stata riconosciuta giusta per le opere che essa compie»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus déclarait aux foules : « À qui vais-je comparer cette génération ? Elle ressemble à des gamins assis sur les places, qui en interpellent d'autres en disant : “Nous vous avons joué de la flûte, et vous n'avez pas dansé. Nous avons chanté des lamentations, et vous ne vous êtes pas frappé la poitrine.” Jean est venu, en effet ; il ne mange pas, il ne boit pas, et l'on dit : “C'est un possédé !” Le Fils de l'homme est venu ; il mange et il boit, et l'on dit : “Voilà un glouton et un ivrogne, un ami des publicains et des pécheurs.” Mais la sagesse de Dieu a été reconnue juste à travers ce qu'elle fait. »"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu der Menge:"
+       ],
+       [
+        "Mit wem soll ich diese Generation vergleichen? Sie gleicht Kindern, die auf dem Marktplatz sitzen und anderen Kindern zurufen: Wir haben für euch auf der Flöte Hochzeitslieder gespielt, und ihr habt nicht getanzt; wir haben Klagelieder gesungen, und ihr habt euch nicht an die Brust geschlagen."
+       ],
+       [
+        "Johannes der Täufer ist gekommen, er isst nicht und trinkt nicht, und sie sagen: Er ist von einem Dämon besessen. Der Menschensohn ist gekommen, er isst und trinkt; darauf sagen sie: Dieser Fresser und Säufer, dieser Freund der Zöllner und Sünder!"
+       ],
+       [
+        "Und doch hat die Weisheit durch die Taten, die sie bewirkt hat, recht bekommen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "la": "Tempus Adventus — Hebdomada II — Feria sexta",
+  "pt-BR": "Sexta-feira",
+  "en-US": "Advent Season — 2nd Week: Friday",
+  "es": "Tiempo de Adviento — Viernes de la II Semana",
+  "it": "VENERDI della II settimana di Avvento",
+  "fr": "Temps de l'Avent — 2e semaine — Vendredi",
+  "de": "Advent — 2. Woche: Freitag"
+ }
+}

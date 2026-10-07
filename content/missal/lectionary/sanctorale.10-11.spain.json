@@ -1,1 +1,40 @@
-{"id":"sanctorale.10-11.spain","source":"lecturas/lecturas_santos_oct#1011B","items":[{"slot":"71","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["11 de octubre"],["Santa Soledad Torres Acosta, virgen"]]}]}},{"mark":"readings"}],"lectionary":"readings.cv1f1","title":{"*":"Santa Soledad Torres Acosta, virgen"}}
+{
+ "id": "sanctorale.10-11.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "11 de octubre"
+       ],
+       [
+        "Santa Soledad Torres Acosta, virgen"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.cv1f1",
+ "title": {
+  "*": "Santa Soledad Torres Acosta, virgen"
+ }
+}

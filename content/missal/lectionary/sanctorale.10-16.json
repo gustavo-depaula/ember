@@ -1,1 +1,1587 @@
-{"id":"sanctorale.10-16","source":"lecturas/lecturas_santos_oct#1016","items":[{"slot":"116","text":{"la":[{"k":"h2","lines":[["Die 16 octobris"],["S. Hedvigis, religiosæ"]]}],"pt-BR":[{"k":"h2","lines":[["16 de outubro"],["Santa Edviges, religiosa"]]}],"en-US":[{"k":"h2","lines":[["October 16"],["St. Hedwig, religious"]]}],"es":[{"k":"h2","lines":[["16 de octubre"],["Santa Eduvigis, religiosa"]]}],"it":[{"k":"h2","lines":[["16 ottobre"],["Santa Edvige, religiosa"]]}],"fr":[{"k":"h2","lines":[["16 octobre"],["Sainte Edwige, religieuse"]]}],"de":[{"k":"h2","lines":[["16. Oktober"],["Hl. Hedwig, Herzogin"]]}]}},{"slot":"117","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.css1f14"}]]}]},"part":"firstReading"},{"slot":"118","text":{"la":[{"k":"p","lines":[["Psalmus Responsorius"]],"cite":"Ps 127, 1-2. 3. 4-5 (: cf. 1a)","role":"title"}],"pt-BR":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sl 127, 1-2. 3. 4-5 (R.: 1a)","role":"title"}],"en-US":[{"k":"p","lines":[["Responsorial Psalm"]],"cite":"Ps 127, 1-2. 3. 4-5 (: cf. la)","role":"title"}],"es":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 127, 1-2. 3. 4-5 (R.: 1a)","role":"title"}],"it":[{"k":"p","lines":[["Salmo Responsoriale"]],"cite":"Dal Salmo 127 (128)","role":"title"}],"fr":[{"k":"p","lines":[["Psaume"]],"cite":"Ps 127, 1-2. 3. 4-5 (: cf. 1a)","role":"title"}],"de":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 128 (127), 1-2. 3. 4-5 (R: vgl. 1a)","role":"title"}]},"part":"psalm"},{"slot":"119","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Beáti omnes qui timent Dóminum."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Felizes todos que respeitam o Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Happy are those who fear the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dichosos los que temen al Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Beato chi cammina nelle vie del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Heureux qui craint le Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Selig die Menschen, die Gottes Wege gehen!"]]}]},"part":"psalm","role":"people"},{"slot":"120","text":{"la":[{"k":"p","lines":[["Beátus omnis qui timet Dóminum,"],["qui ámbulat in viis eius."],["Labóres mánuum tuárum manducábis,"],["beátus es, et bene tibi erit."]]}],"pt-BR":[{"k":"p","lines":[["Feliz és tu se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem."]]}],"en-US":[{"k":"p","lines":[["O blessed are those who fear the Lord and walk in his ways! By the labor of your hands you shall eat. You will be happy and prosper."]]}],"es":[{"k":"p","lines":[["Dichoso el que teme al Señor"],["y sigue sus caminos."],["Comerás del fruto de tu trabajo,"],["serás dichoso, te irá bien."]]}],"it":[{"k":"p","lines":[["Beato chi teme il Signore"],["e cammina nelle sue vie."],["Della fatica delle tue mani ti nutrirai,"],["sarai felice e avrai ogni bene."]]}],"fr":[{"k":"p","lines":[["Heureux qui craint le Seigneur"],["et marche selon ses voies !"],["Tu te nourriras du travail de tes mains :"],["Heureux es-tu ! À toi, le bonheur !"]]}],"de":[{"k":"p","lines":[["Wohl dem Mann, der den Herrn fürchtet und ehrt"],["und der auf seinen Wegen geht!"],["Was deine Hände erwarben, kannst du genießen;"],["wohl dir, es wird dir gut ergehn."]]}]},"part":"psalm","role":"verse"},{"slot":"121","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Beáti omnes qui timent Dóminum."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Felizes os que temem o Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Happy are those who fear the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dichosos los que temen al Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Beato chi cammina nelle vie del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Heureux qui craint le Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Selig die Menschen, die Gottes Wege gehen!"]]}]},"part":"psalm","role":"people"},{"slot":"122","text":{"la":[{"k":"p","lines":[["Uxor tua sicut vitis fructífera"],["in latéribus domus tuæ;"],["fílii tui sicut novéllæ olivárum"],["in circúitu mensæ tuæ."]]}],"pt-BR":[{"k":"p","lines":[["A tua esposa é uma videira bem fecunda no coração da tua casa; os teus filhos são rebentos de oliveira ao redor de tua mesa."]]}],"en-US":[{"k":"p","lines":[["Your wife like a fruitful vine in the heart of your house; your children like shoots of the olive, around your table."]]}],"es":[{"k":"p","lines":[["Tu mujer, como parra fecunda,"],["en medio de tu casa;"],["tus hijos, como renuevos de olivo,"],["alrededor de tu mesa."]]}],"it":[{"k":"p","lines":[["La tua sposa come vite feconda"],["nell'intimità della tua casa;"],["i tuoi figli come virgulti d'ulivo"],["intorno alla tua mensa."]]}],"fr":[{"k":"p","lines":[["Ta femme sera dans ta maison"],["comme une vigne généreuse, *"],["et tes fils, autour de la table,"],["comme des plants d'olivier."]]}],"de":[{"k":"p","lines":[["Wie ein fruchtbarer Weinstock ist deine Frau"],["drinnen in deinem Haus."],["Wie junge Ölbäume sind deine Kinder"],["rings um deinen Tisch."]]}]},"part":"psalm","role":"verse"},{"slot":"123","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Beáti omnes qui timent Dóminum."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Felizes os que temem o Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Happy are those who fear the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dichosos los que temen al Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Beato chi cammina nelle vie del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Heureux qui craint le Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Selig die Menschen, die Gottes Wege gehen!"]]}]},"part":"psalm","role":"people"},{"slot":"124","text":{"la":[{"k":"p","lines":[["Ecce sic benedicétur homo,"],["qui timet Dóminum."],["Benedícat tibi Dóminus ex Sion,"],["et vídeas bona Ierúsalem"],["ómnibus diébus vitæ tuæ."]]}],"pt-BR":[{"k":"p","lines":[["Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião, cada dia de tua vida."]]}],"en-US":[{"k":"p","lines":[["Indeed thus shall be blessed the man who fears the Lord. May the Lord bless you from Zion in a happy Jerusalem all the days of your life."]]}],"es":[{"k":"p","lines":[["Esta es la bendición del hombre que teme al Señor."],["Que el Señor te bendiga desde Sion,"],["que veas la prosperidad de Jerusalén"],["todos los días de tu vida."]]}],"it":[{"k":"p","lines":[["Ecco com'è benedetto"],["l'uomo che teme il Signore."],["Ti benedica il Signore da Sion."],["Possa tu vedere il bene di Gerusalemme"],["tutti i giorni della tua vita!"]]}],"fr":[{"k":"p","lines":[["Voilà comment sera béni"],["l'homme qui craint le Seigneur. *"],["De Sion, que le Seigneur te bénisse !"],["Tu verras le bonheur de Jérusalem tous les jours de ta vie. *"]]}],"de":[{"k":"p","lines":[["So wird der Mann gesegnet,"],["der den Herrn fürchtet und ehrt."],["Es segne dich der Herr vom Zion her."],["Du sollst dein Leben lang das Glück Jerusalems schauen."]]}]},"part":"psalm","role":"verse"},{"slot":"125","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Beáti omnes qui timent Dóminum."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Felizes os que temem o Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Happy are those who fear the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dichosos los que temen al Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Beato chi cammina nelle vie del Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Heureux qui craint le Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Selig die Menschen, die Gottes Wege gehen!"]]}]},"part":"psalm","role":"people"},{"slot":"126","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.cssaly1"}]]}]},"part":"acclamation"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"14"}]]}]},"role":"rubric","part":"gospel","from":"readings.cssev14"},{"slot":"240","text":{"la":[{"k":"p","lines":[["Qui fecerit voluntatem Dei, hic frater meus et soror mea et mater est."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Marcum"]],"cite":"3, 31-35","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Marcos"]],"cite":"3, 31-35","role":"announcement"}],"en-US":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Mark"]],"cite":"3:31-35","role":"announcement"}],"es":[{"k":"p","lines":[["El que haga la voluntad de Dios, ese es mi hermano y mi hermana y mi madre"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Marcos"]],"cite":"3, 31-35","role":"announcement"}],"it":[{"k":"p","lines":[["Chi fa la volontà di Dio, costui per me è fratello, sorella e madre."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal Vangelo secondo Marco"]],"cite":"3, 31-35","role":"announcement"}],"fr":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Marc"]],"cite":"3, 31-35","role":"announcement"}],"de":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Markus"]],"cite":"3, 31-35","role":"announcement"}]},"part":"gospel","from":"readings.cssev14"},{"slot":"241","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"role":"people","part":"gospel","from":"readings.cssev14"},{"slot":"242","text":{"la":[{"k":"p","lines":[["In illo témpore:"]]},{"k":"p","lines":[["Venit mater Iesu et fratres eius, et foris stantes misérunt ad eum vocántes eum. Et sedébat circa eum turba, et dicunt ei: «Ecce mater tua et fratres tui et soróres tuæ foris quærunt te»."]]},{"k":"p","lines":[["Et respóndens eis ait: «Quæ est mater mea et fratres mei?». Et circumspíciens eos, qui in circúitu eius sedébant, ait: «Ecce mater mea et fratres mei. Qui enim fécerit voluntátem Dei, hic frater meus et soror mea et mater est»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, chegaram a mãe de Jesus e seus irmãos. Eles ficaram do lado de fora e mandaram chamá-lo. Havia uma multidão sentada ao redor dele. Então lhe disseram: \"Tua mãe e teus irmãos estão lá fora à tua procura\". Ele respondeu: \"Quem é minha mãe, e quem são meus irmãos?\" E, olhando para os que estavam sentados ao seu redor, disse: \"Aqui estão minha mãe e meus irmãos. Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["The mother and brothers of Jesus arrived and, standing outside, sent in a message asking for him. A crowd was sitting round him at the time the message was passed to him, 'Your mother and brothers and sisters are outside asking for you'. He replied, 'Who are my mother and my brothers?' And looking round at those sitting in a circle about him, he said, 'Here are my mother and my brothers. Anyone who does the will of God, that person is my brother and sister and mother.'"]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, llegaron la madre de Jesús y sus hermanos y, desde fuera, lo mandaron llamar."],["La gente que tenía sentada alrededor le dice:"],["«Mira, tu madre y tus hermanos y tus hermanas están fuera y te buscan»."],["Él les pregunta:"],["«c!,Quiénes son mi madre y mis hermanos?»."],["Y mirando a los que estaban sentados alrededor, dice:"],["«Estos son mi madre y mis hermanos. El que haga la voluntad de Dios, ese es mi hermano y mi hermana y mi madre»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, giunsero la madre di Gesù e i suoi fratelli e, stando fuori, mandarono a chiamarlo."],["Attorno a lui era seduta una folla, e gli dissero: «Ecco, tua madre, i tuoi fratelli e le tue sorelle stanno fuori e ti cercano». Ma egli rispose loro: «Chi è mia madre e chi sono i miei fratelli?». Girando lo sguardo su quelli che erano seduti attorno a lui, disse: «Ecco mia madre e i miei fratelli! Perché chi fa la volontà di Dio, costui per me è fratello, sorella e madre»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, comme Jésus était dans une maison, arrivent sa mère et ses frères. Restant au-dehors, ils le font appeler. Une foule était assise autour de lui ; et on lui dit : \" Voici que ta mère et tes frères sont là dehors : ils te cherchent. \" Mais il leur répond : \" Qui est ma mère ? qui sont mes frères ? \" Et parcourant du regard ceux qui étaient assis en cercle autour de lui, il dit : \" Voici ma mère et mes frères. Celui qui fait la volonté de Dieu, celui-là est pour moi un frère, une sœur, une mère. \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit"],["kamen die Mutter Jesu und seine Brüder; sie blieben vor dem Haus stehen und ließen ihn herausrufen. Es saßen viele Leute um ihn herum, und man sagte zu ihm: Deine Mutter und deine Brüder stehen draußen und fragen nach dir."],["Er erwiderte: Wer ist meine Mutter, und wer sind meine Brüder? Und er blickte auf die Menschen, die im Kreis um ihn herumsaßen, und sagte: Das hier sind meine Mutter und meine Brüder. Wer den Willen Gottes erfüllt, der ist für mich Bruder und Schwester und Mutter."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel","from":"readings.cssev14"},{"slot":"243","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel","from":"readings.cssev14"}],"title":{"la":"S. Hedvigis, religiosæ","pt-BR":"Santa Edviges, religiosa","en-US":"St. Hedwig, religious","es":"Santa Eduvigis, religiosa","it":"Santa Edvige, religiosa","fr":"Sainte Edwige, religieuse","de":"Hl. Hedwig, Herzogin"}}
+{
+ "id": "sanctorale.10-16",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 16 octobris"
+       ],
+       [
+        "S. Hedvigis, religiosæ"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 de outubro"
+       ],
+       [
+        "Santa Edviges, religiosa"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "October 16"
+       ],
+       [
+        "St. Hedwig, religious"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 de octubre"
+       ],
+       [
+        "Santa Eduvigis, religiosa"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 ottobre"
+       ],
+       [
+        "Santa Edvige, religiosa"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 octobre"
+       ],
+       [
+        "Sainte Edwige, religieuse"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16. Oktober"
+       ],
+       [
+        "Hl. Hedwig, Herzogin"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.css1f14"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 127, 1-2. 3. 4-5 (R.: 1a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. la)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 127, 1-2. 3. 4-5 (R.: 1a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 127 (128)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R: vgl. 1a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beáti omnes qui timent Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Felizes todos que respeitam o Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Happy are those who fear the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dichosos los que temen al Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beato chi cammina nelle vie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Heureux qui craint le Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Selig die Menschen, die Gottes Wege gehen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beátus omnis qui timet Dóminum,"
+       ],
+       [
+        "qui ámbulat in viis eius."
+       ],
+       [
+        "Labóres mánuum tuárum manducábis,"
+       ],
+       [
+        "beátus es, et bene tibi erit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Feliz és tu se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O blessed are those who fear the Lord and walk in his ways! By the labor of your hands you shall eat. You will be happy and prosper."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dichoso el que teme al Señor"
+       ],
+       [
+        "y sigue sus caminos."
+       ],
+       [
+        "Comerás del fruto de tu trabajo,"
+       ],
+       [
+        "serás dichoso, te irá bien."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beato chi teme il Signore"
+       ],
+       [
+        "e cammina nelle sue vie."
+       ],
+       [
+        "Della fatica delle tue mani ti nutrirai,"
+       ],
+       [
+        "sarai felice e avrai ogni bene."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureux qui craint le Seigneur"
+       ],
+       [
+        "et marche selon ses voies !"
+       ],
+       [
+        "Tu te nourriras du travail de tes mains :"
+       ],
+       [
+        "Heureux es-tu ! À toi, le bonheur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wohl dem Mann, der den Herrn fürchtet und ehrt"
+       ],
+       [
+        "und der auf seinen Wegen geht!"
+       ],
+       [
+        "Was deine Hände erwarben, kannst du genießen;"
+       ],
+       [
+        "wohl dir, es wird dir gut ergehn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beáti omnes qui timent Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Felizes os que temem o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Happy are those who fear the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dichosos los que temen al Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beato chi cammina nelle vie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Heureux qui craint le Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Selig die Menschen, die Gottes Wege gehen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uxor tua sicut vitis fructífera"
+       ],
+       [
+        "in latéribus domus tuæ;"
+       ],
+       [
+        "fílii tui sicut novéllæ olivárum"
+       ],
+       [
+        "in circúitu mensæ tuæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A tua esposa é uma videira bem fecunda no coração da tua casa; os teus filhos são rebentos de oliveira ao redor de tua mesa."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Your wife like a fruitful vine in the heart of your house; your children like shoots of the olive, around your table."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu mujer, como parra fecunda,"
+       ],
+       [
+        "en medio de tu casa;"
+       ],
+       [
+        "tus hijos, como renuevos de olivo,"
+       ],
+       [
+        "alrededor de tu mesa."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La tua sposa come vite feconda"
+       ],
+       [
+        "nell'intimità della tua casa;"
+       ],
+       [
+        "i tuoi figli come virgulti d'ulivo"
+       ],
+       [
+        "intorno alla tua mensa."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ta femme sera dans ta maison"
+       ],
+       [
+        "comme une vigne généreuse, *"
+       ],
+       [
+        "et tes fils, autour de la table,"
+       ],
+       [
+        "comme des plants d'olivier."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wie ein fruchtbarer Weinstock ist deine Frau"
+       ],
+       [
+        "drinnen in deinem Haus."
+       ],
+       [
+        "Wie junge Ölbäume sind deine Kinder"
+       ],
+       [
+        "rings um deinen Tisch."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beáti omnes qui timent Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Felizes os que temem o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Happy are those who fear the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dichosos los que temen al Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beato chi cammina nelle vie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Heureux qui craint le Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Selig die Menschen, die Gottes Wege gehen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce sic benedicétur homo,"
+       ],
+       [
+        "qui timet Dóminum."
+       ],
+       [
+        "Benedícat tibi Dóminus ex Sion,"
+       ],
+       [
+        "et vídeas bona Ierúsalem"
+       ],
+       [
+        "ómnibus diébus vitæ tuæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião, cada dia de tua vida."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Indeed thus shall be blessed the man who fears the Lord. May the Lord bless you from Zion in a happy Jerusalem all the days of your life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esta es la bendición del hombre que teme al Señor."
+       ],
+       [
+        "Que el Señor te bendiga desde Sion,"
+       ],
+       [
+        "que veas la prosperidad de Jerusalén"
+       ],
+       [
+        "todos los días de tu vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecco com'è benedetto"
+       ],
+       [
+        "l'uomo che teme il Signore."
+       ],
+       [
+        "Ti benedica il Signore da Sion."
+       ],
+       [
+        "Possa tu vedere il bene di Gerusalemme"
+       ],
+       [
+        "tutti i giorni della tua vita!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voilà comment sera béni"
+       ],
+       [
+        "l'homme qui craint le Seigneur. *"
+       ],
+       [
+        "De Sion, que le Seigneur te bénisse !"
+       ],
+       [
+        "Tu verras le bonheur de Jérusalem tous les jours de ta vie. *"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So wird der Mann gesegnet,"
+       ],
+       [
+        "der den Herrn fürchtet und ehrt."
+       ],
+       [
+        "Es segne dich der Herr vom Zion her."
+       ],
+       [
+        "Du sollst dein Leben lang das Glück Jerusalems schauen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beáti omnes qui timent Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Felizes os que temem o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Happy are those who fear the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dichosos los que temen al Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beato chi cammina nelle vie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Heureux qui craint le Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Selig die Menschen, die Gottes Wege gehen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.cssaly1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "14"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.14"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui fecerit voluntatem Dei, hic frater meus et soror mea et mater est."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Marcum"
+       ]
+      ],
+      "cite": "3, 31-35",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+       ]
+      ],
+      "cite": "3, 31-35",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Mark"
+       ]
+      ],
+      "cite": "3:31-35",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que haga la voluntad de Dios, ese es mi hermano y mi hermana y mi madre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Marcos"
+       ]
+      ],
+      "cite": "3, 31-35",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi fa la volontà di Dio, costui per me è fratello, sorella e madre."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Marco"
+       ]
+      ],
+      "cite": "3, 31-35",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Marc"
+       ]
+      ],
+      "cite": "3, 31-35",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Markus"
+       ]
+      ],
+      "cite": "3, 31-35",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.14"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.14"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venit mater Iesu et fratres eius, et foris stantes misérunt ad eum vocántes eum. Et sedébat circa eum turba, et dicunt ei: «Ecce mater tua et fratres tui et soróres tuæ foris quærunt te»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et respóndens eis ait: «Quæ est mater mea et fratres mei?». Et circumspíciens eos, qui in circúitu eius sedébant, ait: «Ecce mater mea et fratres mei. Qui enim fécerit voluntátem Dei, hic frater meus et soror mea et mater est»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, chegaram a mãe de Jesus e seus irmãos. Eles ficaram do lado de fora e mandaram chamá-lo. Havia uma multidão sentada ao redor dele. Então lhe disseram: \"Tua mãe e teus irmãos estão lá fora à tua procura\". Ele respondeu: \"Quem é minha mãe, e quem são meus irmãos?\" E, olhando para os que estavam sentados ao seu redor, disse: \"Aqui estão minha mãe e meus irmãos. Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The mother and brothers of Jesus arrived and, standing outside, sent in a message asking for him. A crowd was sitting round him at the time the message was passed to him, 'Your mother and brothers and sisters are outside asking for you'. He replied, 'Who are my mother and my brothers?' And looking round at those sitting in a circle about him, he said, 'Here are my mother and my brothers. Anyone who does the will of God, that person is my brother and sister and mother.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, llegaron la madre de Jesús y sus hermanos y, desde fuera, lo mandaron llamar."
+       ],
+       [
+        "La gente que tenía sentada alrededor le dice:"
+       ],
+       [
+        "«Mira, tu madre y tus hermanos y tus hermanas están fuera y te buscan»."
+       ],
+       [
+        "Él les pregunta:"
+       ],
+       [
+        "«c!,Quiénes son mi madre y mis hermanos?»."
+       ],
+       [
+        "Y mirando a los que estaban sentados alrededor, dice:"
+       ],
+       [
+        "«Estos son mi madre y mis hermanos. El que haga la voluntad de Dios, ese es mi hermano y mi hermana y mi madre»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, giunsero la madre di Gesù e i suoi fratelli e, stando fuori, mandarono a chiamarlo."
+       ],
+       [
+        "Attorno a lui era seduta una folla, e gli dissero: «Ecco, tua madre, i tuoi fratelli e le tue sorelle stanno fuori e ti cercano». Ma egli rispose loro: «Chi è mia madre e chi sono i miei fratelli?». Girando lo sguardo su quelli che erano seduti attorno a lui, disse: «Ecco mia madre e i miei fratelli! Perché chi fa la volontà di Dio, costui per me è fratello, sorella e madre»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, comme Jésus était dans une maison, arrivent sa mère et ses frères. Restant au-dehors, ils le font appeler. Une foule était assise autour de lui ; et on lui dit : \" Voici que ta mère et tes frères sont là dehors : ils te cherchent. \" Mais il leur répond : \" Qui est ma mère ? qui sont mes frères ? \" Et parcourant du regard ceux qui étaient assis en cercle autour de lui, il dit : \" Voici ma mère et mes frères. Celui qui fait la volonté de Dieu, celui-là est pour moi un frère, une sœur, une mère. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "kamen die Mutter Jesu und seine Brüder; sie blieben vor dem Haus stehen und ließen ihn herausrufen. Es saßen viele Leute um ihn herum, und man sagte zu ihm: Deine Mutter und deine Brüder stehen draußen und fragen nach dir."
+       ],
+       [
+        "Er erwiderte: Wer ist meine Mutter, und wer sind meine Brüder? Und er blickte auf die Menschen, die im Kreis um ihn herumsaßen, und sagte: Das hier sind meine Mutter und meine Brüder. Wer den Willen Gottes erfüllt, der ist für mich Bruder und Schwester und Mutter."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.14"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.14"
+  }
+ ],
+ "title": {
+  "la": "S. Hedvigis, religiosæ",
+  "pt-BR": "Santa Edviges, religiosa",
+  "en-US": "St. Hedwig, religious",
+  "es": "Santa Eduvigis, religiosa",
+  "it": "Santa Edvige, religiosa",
+  "fr": "Sainte Edwige, religieuse",
+  "de": "Hl. Hedwig, Herzogin"
+ }
+}

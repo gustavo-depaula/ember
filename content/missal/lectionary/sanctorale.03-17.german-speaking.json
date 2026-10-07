@@ -1,1 +1,764 @@
-{"id":"sanctorale.03-17.german-speaking","source":"lecturas/lecturas_santos_mar#0317Z","items":[{"slot":"80","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[in den Diözesen deutscher Sprache]"}]]},{"k":"h2","lines":[["17. März"],["Hl. Gertrud von Nivelles, Äbtissin"]]}]}},{"slot":"81","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.css2l2"}]]}]},"part":"firstReading"},{"slot":"82","text":{"*":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 132 (131), 13-14. 15-16. 17-18 (R: 1 Kor 1, 31a)","role":"title"}]},"part":"psalm"},{"slot":"83","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Wer sich rühmen will, der rühme sich des Herrn."]]}]},"part":"psalm","role":"people"},{"slot":"84","text":{"*":[{"k":"p","lines":[["Der Herr hat den Zion erwählt,"],["ihn zu seinem Wohnsitz erkoren:"],["„Das ist für immer der Ort meiner Ruhe;"],["hier will ich wohnen, ich hab‘ ihn erkoren."]]}]},"part":"psalm","role":"verse"},{"slot":"85","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Wer sich rühmen will, der rühme sich des Herrn."]]}]},"part":"psalm","role":"people"},{"slot":"86","text":{"*":[{"k":"p","lines":[["Zions Nahrung will ich reichlich segnen,"],["mit Brot seine Armen sättigen."],["Seine Priester will ich bekleiden mit Heil,"],["seine Frommen sollen jauchzen und jubeln."]]}]},"part":"psalm","role":"verse"},{"slot":"87","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Wer sich rühmen will, der rühme sich des Herrn."]]}]},"part":"psalm","role":"people"},{"slot":"88","text":{"*":[{"k":"p","lines":[["Dort lasse ich Davids Macht erstarken"],["und stelle für meinen Gesalbten ein Licht auf."],["Ich bedecke seine Feinde mit Schande;"],["doch auf ihm erglänzt seine Krone.“"]]}]},"part":"psalm","role":"verse"},{"slot":"89","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Wer sich rühmen will, der rühme sich des Herrn."]]}]},"part":"psalm","role":"people"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"6"}]]}]},"role":"rubric","part":"acclamation","from":"readings.cpaly1"},{"slot":"128","text":{"la":[{"k":"p","lines":[],"cite":"Io 15, 5","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}],["Ego sum vitis, vos pálmites, dicit Dóminus;"],["qui manet in me, et ego in eo, hic fert fructum multum."],[{"m":"rubric","t":"("},"Allelúia.",{"m":"rubric","t":")"}]]}],"pt-BR":[{"k":"p","lines":[],"cite":"Jo 15, 5","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluia, aleluia.",{"m":"rubric","t":")"}],["Eu sou a videira, vós sois os ramos; quem em mim permanece e no qual permaneço dará muito fruto."],[{"m":"rubric","t":"("},"Aleluia. ",{"m":"rubric","t":")"}]]}],"en-US":[{"k":"p","lines":[],"cite":"Jn 15:5","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["I am the wine and you are the branches, says the Lord; those who live in me, and I in them, will bear much fruit."],["Alleluia."]]}],"es":[{"k":"p","lines":[],"cite":"Jn 15, 5","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}],["Yo soy la vid, vosotros los sarmientos —dice el Señor—;"],["el que permanece en mí y yo en él, ese da fruto abundante."],[{"m":"rubric","t":"("},"Aleluya.",{"m":"rubric","t":")"}]]}],"it":[{"k":"p","lines":[],"cite":"Gv 15, 5","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Io sono la vite, voi i tralci, dice il Signore; chi rimane in me, e io in lui, porta molto frutto."],["Alleluia."]]}],"fr":[{"k":"p","lines":[],"cite":"Io 15, 5","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}],["Moi, je suis la vigne, et vous les sarments, dit le Seigneur. Celui qui demeure en moi et en qui je demeure, celui-là porte beaucoup de fruit."],[{"m":"rubric","t":"("},"Alléluia",{"m":"rubric","t":")"}]]}],"de":[{"k":"p","lines":[],"cite":"Joh 15, 5","role":"title"},{"k":"p","lines":[[{"m":"rubric","t":"("},"Halleluja. Halleluja.",{"m":"rubric","t":")"}],["(So spricht der Herr:) Ich bin der Weinstock, ihr seid die Reben. Wer in mir bleibt und in wem ich bleibe, der bringt reiche Frucht."],[{"m":"rubric","t":"("},"Halleluja.",{"m":"rubric","t":")"}]]}]},"part":"acclamation","from":"readings.cpaly1"},{"slot":"90","text":{"*":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Johannes"]],"cite":"15, 7-11","role":"announcement"}]},"part":"gospel"},{"slot":"91","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"92","text":{"*":[{"k":"p","lines":[["In jener Zeit sprach Jesus zu seinen Jüngern:"],["Wenn ihr in mir bleibt und wenn meine Worte in euch bleiben, dann bittet um alles, was ihr wollt: Ihr werdet es erhalten. Mein Vater wird dadurch verherrlicht, dass ihr reiche Frucht bringt und meine Jünger werdet."],["Wie mich der Vater geliebt hat, so habe auch ich euch geliebt. Bleibt in meiner Liebe! Wenn ihr meine Gebote haltet, werdet ihr in meiner Liebe bleiben, so wie ich die Gebote meines Vaters gehalten habe und in seiner Liebe bleibe."],["Dies habe ich euch gesagt, damit meine Freude in euch ist und damit eure Freude vollkommen wird."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"93","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"*":"Hl. Gertrud von Nivelles, Äbtissin"}}
+{
+ "id": "sanctorale.03-17.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. März"
+       ],
+       [
+        "Hl. Gertrud von Nivelles, Äbtissin"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.css2l2"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 132 (131), 13-14. 15-16. 17-18 (R: 1 Kor 1, 31a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Wer sich rühmen will, der rühme sich des Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr hat den Zion erwählt,"
+       ],
+       [
+        "ihn zu seinem Wohnsitz erkoren:"
+       ],
+       [
+        "„Das ist für immer der Ort meiner Ruhe;"
+       ],
+       [
+        "hier will ich wohnen, ich hab‘ ihn erkoren."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Wer sich rühmen will, der rühme sich des Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zions Nahrung will ich reichlich segnen,"
+       ],
+       [
+        "mit Brot seine Armen sättigen."
+       ],
+       [
+        "Seine Priester will ich bekleiden mit Heil,"
+       ],
+       [
+        "seine Frommen sollen jauchzen und jubeln."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Wer sich rühmen will, der rühme sich des Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dort lasse ich Davids Macht erstarken"
+       ],
+       [
+        "und stelle für meinen Gesalbten ein Licht auf."
+       ],
+       [
+        "Ich bedecke seine Feinde mit Schande;"
+       ],
+       [
+        "doch auf ihm erglänzt seine Krone.“"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Wer sich rühmen will, der rühme sich des Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "6"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "acclamation",
+   "from": "common.pastors.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Io 15, 5",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Ego sum vitis, vos pálmites, dicit Dóminus;"
+       ],
+       [
+        "qui manet in me, et ego in eo, hic fert fructum multum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jo 15, 5",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Eu sou a videira, vós sois os ramos; quem em mim permanece e no qual permaneço dará muito fruto."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jn 15:5",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "I am the wine and you are the branches, says the Lord; those who live in me, and I in them, will bear much fruit."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Jn 15, 5",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Yo soy la vid, vosotros los sarmientos —dice el Señor—;"
+       ],
+       [
+        "el que permanece en mí y yo en él, ese da fruto abundante."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Gv 15, 5",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Io sono la vite, voi i tralci, dice il Signore; chi rimane in me, e io in lui, porta molto frutto."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Io 15, 5",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Moi, je suis la vigne, et vous les sarments, dit le Seigneur. Celui qui demeure en moi et en qui je demeure, celui-là porte beaucoup de fruit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Joh 15, 5",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Ich bin der Weinstock, ihr seid die Reben. Wer in mir bleibt und in wem ich bleibe, der bringt reiche Frucht."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "common.pastors.acclamation.1"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Johannes"
+       ]
+      ],
+      "cite": "15, 7-11",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Wenn ihr in mir bleibt und wenn meine Worte in euch bleiben, dann bittet um alles, was ihr wollt: Ihr werdet es erhalten. Mein Vater wird dadurch verherrlicht, dass ihr reiche Frucht bringt und meine Jünger werdet."
+       ],
+       [
+        "Wie mich der Vater geliebt hat, so habe auch ich euch geliebt. Bleibt in meiner Liebe! Wenn ihr meine Gebote haltet, werdet ihr in meiner Liebe bleiben, so wie ich die Gebote meines Vaters gehalten habe und in seiner Liebe bleibe."
+       ],
+       [
+        "Dies habe ich euch gesagt, damit meine Freude in euch ist und damit eure Freude vollkommen wird."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "Hl. Gertrud von Nivelles, Äbtissin"
+ }
+}

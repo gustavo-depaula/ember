@@ -1,1 +1,713 @@
-{"id":"sanctorale.08-09.z","source":"lecturas/lecturas_santos_ago#0809Z","items":[{"slot":"55","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[in den Diözesen deutscher Sprache]"}]]},{"k":"h2","lines":[["9. August"],["HL. TERESIA BENEDICTA VOM KREUZ (EDITH STEIN), Märtyrin, Ordensfrau, Ko-Patronin Europas"]]},{"k":"h3","lines":[["Fest"]]}]}},{"slot":"56","text":{"de":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch Ester"]],"cite":"4, 17k. 17l-m. 17r-t (4, 17n. p-r. aa-bb. gg-hh)","role":"announcement"},{"k":"p","lines":[["Die Königin Ester wurde von Todesangst ergriffen und suchte Zuflucht beim Herrn. Sie legte ihre prächtigen Gewänder ab und zog die Kleider der Notzeit und Trauer an. Statt der kostbaren Salben tat sie Asche und Staub auf ihr Haupt, vernachlässigte ihren Körper, und wo sie sonst ihren prunkvollen Schmuck trug, hingen jetzt ihre Haare in Strähnen herab. Und sie betete zum Herrn, dem Gott Israels:"],["Herr, unser König, du bist der Einzige. Hilf mir! Denn ich bin allein und habe keinen Helfer außer dir; die Gefahr steht greifbar vor mir. Von Kindheit an habe ich in meiner Familie und meinem Stamm gehört, dass du, Herr, Israel aus allen Völkern erwählt hast; du hast dir unsere Väter aus allen ihren Vorfahren als deinen ewigen Erbbesitz ausgesucht und hast an ihnen gehandelt, wie du es versprochen hattest. Denk an uns, Herr! Offenbare dich in der Zeit unserer Not, und gib mir Mut, König der Götter und Herrscher über alle Mächte! Leg mir in Gegenwart des Löwen die passenden Worte in den Mund, und stimm sein Herz um, damit er unseren Feind hasst und ihn und seine Gesinnungsgenossen vernichtet. Uns aber rette mit deiner Hand! Hilf mir, denn ich bin allein und habe niemand außer dir, o Herr!"]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"57","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"slot":"58","text":{"de":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 18 (17), 2-3. 5. 7a. 17. 20. 29. 50 (R: vgl. 20. 29)","role":"title"}]},"part":"psalm"},{"slot":"59","text":{"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Du führst mich hinaus ins Weite; du machst meine Finsternis hell."]]}]},"part":"psalm","role":"people"},{"slot":"60","text":{"de":[{"k":"p","lines":[["Ich will dich rühmen, Herr, meine Stärke."],["Herr, du mein Fels, meine Burg, mein Retter,"],["mein Gott, meine Feste, in der ich mich berge,"],["mein Schild und sicheres Heil, meine Zuflucht."]]}]},"part":"psalm","role":"verse"},{"slot":"61","text":{"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Du führst mich hinaus ins Weite; du machst meine Finsternis hell."]]}]},"part":"psalm","role":"people"},{"slot":"62","text":{"de":[{"k":"p","lines":[["Mich umfingen die Fesseln des Todes,"],["mich erschreckten die Fluten des Verderbens."],["In meiner Not rief ich zum Herrn"],["und schrie zu meinem Gott."]]}]},"part":"psalm","role":"verse"},{"slot":"63","text":{"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Du führst mich hinaus ins Weite; du machst meine Finsternis hell."]]}]},"part":"psalm","role":"people"},{"slot":"64","text":{"de":[{"k":"p","lines":[["Er griff aus der Höhe herab und fasste mich,"],["zog mich heraus aus gewaltigen Wassern."],["Er führte mich hinaus ins Weite,"],["er befreite mich, denn er hatte an mir Gefallen."]]}]},"part":"psalm","role":"verse"},{"slot":"65","text":{"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Du führst mich hinaus ins Weite; du machst meine Finsternis hell."]]}]},"part":"psalm","role":"people"},{"slot":"66","text":{"de":[{"k":"p","lines":[["Du, Herr, lässt meine Leuchte erstrahlen,"],["mein Gott macht meine Finsternis hell."],["Darum will ich dir danken, Herr, vor den Völkern,"],["ich will deinem Namen singen und spielen."]]}]},"part":"psalm","role":"verse"},{"slot":"67","text":{"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Du führst mich hinaus ins Weite; du machst meine Finsternis hell."]]}]},"part":"psalm","role":"people"},{"slot":"68","text":{"de":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"cite":"Ez 37, 27","role":"title"},{"k":"p","lines":[["Halleluja. Halleluja."],["(So spricht Gott, der Herr:) Bei ihnen wird meine Wohnung sein. Ich werde ihr Gott sein, und sie werden mein Volk sein."],["Halleluja."]]}]},"part":"acclamation"},{"slot":"69","text":{"*":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Johannes"]],"cite":"4, 19-24","role":"announcement"}]},"part":"gospel"},{"slot":"70","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"71","text":{"*":[{"k":"p","lines":[["In jener Zeit"],["sagte die samaritische Frau zu Jesus: Herr, ich sehe, dass du ein Prophet bist. Unsere Väter haben auf diesem Berg Gott angebetet; ihr aber sagt, in Jerusalem sei die Stätte, wo man anbeten muss."],["Jesus sprach zu ihr: Glaube mir, Frau, die Stunde kommt, zu der ihr weder auf diesem Berg noch in Jerusalem den Vater anbeten werdet. Ihr betet an, was ihr nicht kennt, wir beten an, was wir kennen; denn das Heil kommt von den Juden."],["Aber die Stunde kommt, und sie ist schon da, zu der die wahren Beter den Vater anbeten werden im Geist und in der Wahrheit; denn so will der Vater angebetet werden. Gott ist Geist, und alle, die ihn anbeten, müssen im Geist und in der Wahrheit anbeten."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"72","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"*":"HL. TERESIA BENEDICTA VOM KREUZ (EDITH STEIN), Märtyrin, Ordensfrau, Ko-Patronin Europas"}}
+{
+ "id": "sanctorale.08-09.z",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "9. August"
+       ],
+       [
+        "HL. TERESIA BENEDICTA VOM KREUZ (EDITH STEIN), Märtyrin, Ordensfrau, Ko-Patronin Europas"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fest"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Ester"
+       ]
+      ],
+      "cite": "4, 17k. 17l-m. 17r-t (4, 17n. p-r. aa-bb. gg-hh)",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Königin Ester wurde von Todesangst ergriffen und suchte Zuflucht beim Herrn. Sie legte ihre prächtigen Gewänder ab und zog die Kleider der Notzeit und Trauer an. Statt der kostbaren Salben tat sie Asche und Staub auf ihr Haupt, vernachlässigte ihren Körper, und wo sie sonst ihren prunkvollen Schmuck trug, hingen jetzt ihre Haare in Strähnen herab. Und sie betete zum Herrn, dem Gott Israels:"
+       ],
+       [
+        "Herr, unser König, du bist der Einzige. Hilf mir! Denn ich bin allein und habe keinen Helfer außer dir; die Gefahr steht greifbar vor mir. Von Kindheit an habe ich in meiner Familie und meinem Stamm gehört, dass du, Herr, Israel aus allen Völkern erwählt hast; du hast dir unsere Väter aus allen ihren Vorfahren als deinen ewigen Erbbesitz ausgesucht und hast an ihnen gehandelt, wie du es versprochen hattest. Denk an uns, Herr! Offenbare dich in der Zeit unserer Not, und gib mir Mut, König der Götter und Herrscher über alle Mächte! Leg mir in Gegenwart des Löwen die passenden Worte in den Mund, und stimm sein Herz um, damit er unseren Feind hasst und ihn und seine Gesinnungsgenossen vernichtet. Uns aber rette mit deiner Hand! Hilf mir, denn ich bin allein und habe niemand außer dir, o Herr!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 18 (17), 2-3. 5. 7a. 17. 20. 29. 50 (R: vgl. 20. 29)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du führst mich hinaus ins Weite; du machst meine Finsternis hell."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich will dich rühmen, Herr, meine Stärke."
+       ],
+       [
+        "Herr, du mein Fels, meine Burg, mein Retter,"
+       ],
+       [
+        "mein Gott, meine Feste, in der ich mich berge,"
+       ],
+       [
+        "mein Schild und sicheres Heil, meine Zuflucht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du führst mich hinaus ins Weite; du machst meine Finsternis hell."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mich umfingen die Fesseln des Todes,"
+       ],
+       [
+        "mich erschreckten die Fluten des Verderbens."
+       ],
+       [
+        "In meiner Not rief ich zum Herrn"
+       ],
+       [
+        "und schrie zu meinem Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du führst mich hinaus ins Weite; du machst meine Finsternis hell."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er griff aus der Höhe herab und fasste mich,"
+       ],
+       [
+        "zog mich heraus aus gewaltigen Wassern."
+       ],
+       [
+        "Er führte mich hinaus ins Weite,"
+       ],
+       [
+        "er befreite mich, denn er hatte an mir Gefallen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du führst mich hinaus ins Weite; du machst meine Finsternis hell."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Du, Herr, lässt meine Leuchte erstrahlen,"
+       ],
+       [
+        "mein Gott macht meine Finsternis hell."
+       ],
+       [
+        "Darum will ich dir danken, Herr, vor den Völkern,"
+       ],
+       [
+        "ich will deinem Namen singen und spielen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du führst mich hinaus ins Weite; du machst meine Finsternis hell."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Ez 37, 27",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Halleluja. Halleluja."
+       ],
+       [
+        "(So spricht Gott, der Herr:) Bei ihnen wird meine Wohnung sein. Ich werde ihr Gott sein, und sie werden mein Volk sein."
+       ],
+       [
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Johannes"
+       ]
+      ],
+      "cite": "4, 19-24",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "sagte die samaritische Frau zu Jesus: Herr, ich sehe, dass du ein Prophet bist. Unsere Väter haben auf diesem Berg Gott angebetet; ihr aber sagt, in Jerusalem sei die Stätte, wo man anbeten muss."
+       ],
+       [
+        "Jesus sprach zu ihr: Glaube mir, Frau, die Stunde kommt, zu der ihr weder auf diesem Berg noch in Jerusalem den Vater anbeten werdet. Ihr betet an, was ihr nicht kennt, wir beten an, was wir kennen; denn das Heil kommt von den Juden."
+       ],
+       [
+        "Aber die Stunde kommt, und sie ist schon da, zu der die wahren Beter den Vater anbeten werden im Geist und in der Wahrheit; denn so will der Vater angebetet werden. Gott ist Geist, und alle, die ihn anbeten, müssen im Geist und in der Wahrheit anbeten."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "HL. TERESIA BENEDICTA VOM KREUZ (EDITH STEIN), Märtyrin, Ordensfrau, Ko-Patronin Europas"
+ }
+}

@@ -1,0 +1,862 @@
+{
+ "id": "common.holy-men-and-women.psalm.8",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "8"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 127(128), 1-2. 3. 4-5 (R.: 1a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. la)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 127, 1-2. 3. 4-5 (R.: 1a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Dal Salmo 127 (128)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R: vgl. 1a)",
+      "role": "title"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beáti omnes qui timent Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Felizes todos que respeitam o Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Happy are those who fear the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dichosos los que temen al Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beato chi cammina nelle vie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Heureux qui craint le Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Selig die Menschen, die Gottes Wege gehen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beátus omnis qui timet Dóminum,"
+       ],
+       [
+        "qui ámbulat in viis eius."
+       ],
+       [
+        "Labóres mánuum tuárum manducábis,"
+       ],
+       [
+        "beátus es, et bene tibi erit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Feliz és tu se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O blessed are those who fear the Lord and walk in his ways! By the labor of your hands you shall eat. You will be happy and prosper."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dichoso el que teme al Señor"
+       ],
+       [
+        "y sigue sus caminos."
+       ],
+       [
+        "Comerás del fruto de tu trabajo,"
+       ],
+       [
+        "serás dichoso, te irá bien."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beato chi teme il Signore"
+       ],
+       [
+        "e cammina nelle sue vie."
+       ],
+       [
+        "Della fatica delle tue mani ti nutrirai,"
+       ],
+       [
+        "sarai felice e avrai ogni bene."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureux qui craint le Seigneur"
+       ],
+       [
+        "et marche selon ses voies !"
+       ],
+       [
+        "Tu te nourriras du travail de tes mains :"
+       ],
+       [
+        "Heureux es-tu ! À toi, le bonheur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wohl dem Mann, der den Herrn fürchtet und ehrt"
+       ],
+       [
+        "und der auf seinen Wegen geht!"
+       ],
+       [
+        "Was deine Hände erwarben, kannst du genießen;"
+       ],
+       [
+        "wohl dir, es wird dir gut ergehn."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beáti omnes qui timent Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Felizes os que temem o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Happy are those who fear the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dichosos los que temen al Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beato chi cammina nelle vie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Heureux qui craint le Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Selig die Menschen, die Gottes Wege gehen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uxor tua sicut vitis fructífera"
+       ],
+       [
+        "in latéribus domus tuæ;"
+       ],
+       [
+        "fílii tui sicut novéllæ olivárum"
+       ],
+       [
+        "in circúitu mensæ tuæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A tua esposa é uma videira bem fecunda no coração da tua casa; os teus filhos são rebentos de oliveira ao redor de tua mesa."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Your wife like a fruitful vine in the heart of your house; your children like shoots of the olive, around your table."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu mujer, como parra fecunda,"
+       ],
+       [
+        "en medio de tu casa;"
+       ],
+       [
+        "tus hijos, como renuevos de olivo,"
+       ],
+       [
+        "alrededor de tu mesa."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La tua sposa come vite feconda"
+       ],
+       [
+        "nell'intimità della tua casa;"
+       ],
+       [
+        "i tuoi figli come virgulti d'ulivo"
+       ],
+       [
+        "intorno alla tua mensa."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ta femme sera dans ta maison"
+       ],
+       [
+        "comme une vigne généreuse, *"
+       ],
+       [
+        "et tes fils, autour de la table,"
+       ],
+       [
+        "comme des plants d'olivier."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wie ein fruchtbarer Weinstock ist deine Frau"
+       ],
+       [
+        "drinnen in deinem Haus."
+       ],
+       [
+        "Wie junge Ölbäume sind deine Kinder"
+       ],
+       [
+        "rings um deinen Tisch."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beáti omnes qui timent Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Felizes os que temem o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Happy are those who fear the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dichosos los que temen al Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beato chi cammina nelle vie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Heureux qui craint le Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Selig die Menschen, die Gottes Wege gehen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce sic benedicétur homo,"
+       ],
+       [
+        "qui timet Dóminum."
+       ],
+       [
+        "Benedícat tibi Dóminus ex Sion,"
+       ],
+       [
+        "et vídeas bona Ierúsalem"
+       ],
+       [
+        "ómnibus diébus vitæ tuæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião, cada dia de tua vida."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Indeed thus shall be blessed the man who fears the Lord. May the Lord bless you from Zion in a happy Jerusalem all the days of your life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esta es la bendición del hombre que teme al Señor."
+       ],
+       [
+        "Que el Señor te bendiga desde Sion,"
+       ],
+       [
+        "que veas la prosperidad de Jerusalén"
+       ],
+       [
+        "todos los días de tu vida."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecco com'è benedetto"
+       ],
+       [
+        "l'uomo che teme il Signore."
+       ],
+       [
+        "Ti benedica il Signore da Sion."
+       ],
+       [
+        "Possa tu vedere il bene di Gerusalemme"
+       ],
+       [
+        "tutti i giorni della tua vita!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voilà comment sera béni"
+       ],
+       [
+        "l'homme qui craint le Seigneur. *"
+       ],
+       [
+        "De Sion, que le Seigneur te bénisse !"
+       ],
+       [
+        "Tu verras le bonheur de Jérusalem tous les jours de ta vie. *"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So wird der Mann gesegnet,"
+       ],
+       [
+        "der den Herrn fürchtet und ehrt."
+       ],
+       [
+        "Es segne dich der Herr vom Zion her."
+       ],
+       [
+        "Du sollst dein Leben lang das Glück Jerusalems schauen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beáti omnes qui timent Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Felizes os que temem o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Happy are those who fear the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dichosos los que temen al Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Beato chi cammina nelle vie del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Heureux qui craint le Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Selig die Menschen, die Gottes Wege gehen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

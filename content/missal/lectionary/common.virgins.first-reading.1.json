@@ -1,0 +1,436 @@
+{
+ "id": "common.virgins.first-reading.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fortis est ut mors dilectio."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Cántici Canticórum"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pone me ut signáculum super cor tuum, ut signáculum super bráchium tuum, quia fortis est ut mors diléctio, dura sicut inférnus æmulátio; lámpades eius lámpades ignis atque flammæ divínæ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aquæ multæ non potuérunt exstínguere caritátem, nec flúmina óbruent illam; si déderit homo omnem substántiam domus suæ pro dilectióne, quasi nihil despícient eum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O amor é forte como a morte."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Cântico dos Cânticos"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grava-me como um selo em teu coração, como um selo no teu braço! Porque o amor é forte como a morte e a paixão é cruel como a morada dos mortos; suas faíscas são de fogo, uma labareda divina. As águas torrenciais jamais apagarão o amor, nem rios poderão afogá-lo. Se alguém oferecesse todas as riquezas de sua casa para comprar o amor, seria tratado com desprezo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Song of Songs"
+       ]
+      ],
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Set me as a seal upon your heart,"
+       ],
+       [
+        "as a seal upon your arm;"
+       ],
+       [
+        "For Love is strong as Death,"
+       ],
+       [
+        "longing is fierce as Sheol."
+       ],
+       [
+        "Its arrows are arrows of fire,"
+       ],
+       [
+        "flames of the divine."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deep waters cannot quench love,"
+       ],
+       [
+        "nor rivers sweep it away."
+       ],
+       [
+        "Were one to offer all the wealth of his house for love,"
+       ],
+       [
+        "he would be utterly despised."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Es fuerte el amor como la muerte"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Cantar de los Cantares"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grábame como sello en tu corazón, grábame como sello en tu brazo, porque es fuerte el amor como la muerte, es cruel la pasión como el abismo; sus dardos son dardos de fuego, llamaradas divinas."
+       ],
+       [
+        "Las aguas caudalosas no podrán apagar el amor, ni anegarlo los ríos. Quien quisiera comprar el amor con todas las riquezas de su casa, sería sumamente despreciable."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Forte come la morte è l'amore."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal Cantico dei Cantici"
+       ]
+      ],
+      "cite": "8,6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mettimi come sigillo sul tuo cuore, come sigillo sul tuo braccio; perché forte come la morte è l'amore, tenace come il regno dei morti è la passione: le sue vampe sono vampe di fuoco, una fiamma divina!"
+       ],
+       [
+        "Le grandi acque non possono spegnere l'amore né i fiumi travolgerlo."
+       ],
+       [
+        "Se uno desse tutte le ricchezze della sua casa in cambio dell'amore, non ne avrebbe che disprezzo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre du Cantique des cantiques"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "ELLE"
+       ],
+       [
+        "Pose-moi comme un sceau sur ton cœur, comme un sceau sur ton bras."
+       ],
+       [
+        "CHŒUR"
+       ],
+       [
+        "Car l'amour est fort comme la Mort, la passion, implacable comme l'Abîme : ses flammes sont des flammes de feu, fournaise divine. Les grandes eaux ne pourront éteindre l'amour, ni les fleuves l'emporter."
+       ],
+       [
+        "CHŒUR"
+       ],
+       [
+        "Un homme donnerait-il toutes les richesses de sa maison pour acheter l'amour, il ne recueillerait que mépris."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Hohenlied"
+       ]
+      ],
+      "cite": "8, 6-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leg mich wie ein Siegel auf dein Herz, wie ein Siegel an deinen Arm! Stark wie der Tod ist die Liebe, die Leidenschaft ist hart wie die Unterwelt. Ihre Gluten sind Feuergluten, gewaltige Flammen."
+       ],
+       [
+        "Auch mächtige Wasser können die Liebe nicht löschen; auch Ströme schwemmen sie nicht weg. Böte einer für die Liebe den ganzen Reichtum seines Hauses, nur verachten würde man ihn."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

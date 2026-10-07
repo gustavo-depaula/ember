@@ -1,1 +1,1793 @@
-{"id":"common.virgins.2","source":"comunes_votivas/comunes_virg#virg2","kind":"common","items":[{"slot":"35","text":{"la":[{"k":"h2","lines":[["COMMUNE VIRGINUM"]]},{"k":"h3","lines":[["II. PRO UNA VIRGINE"],["2"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DAS VIRGENS"]]},{"k":"h3","lines":[["2"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF VIRGINS"]]},{"k":"h3","lines":[["II. For One Virgin"],["2"]]}],"es":[{"k":"h2","lines":[["COMÚN DE VÍRGENES"]]},{"k":"h3","lines":[["II. Para una virgen"],["2"]]}],"it":[{"k":"h2","lines":[["COMUNE DELLE VERGINI"]]},{"k":"h3","lines":[["II. PRO UNA VIRGINE"],["2"]]}],"fr":[{"k":"h2","lines":[["COMMUN DES VIERGES"]]},{"k":"h3","lines":[["II. POUR UNE VIERGE"],["2"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE FÜR JUNGFRAUEN"]]},{"k":"h3","lines":[["2."]]}]},"part":"title"},{"slot":"36","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]]}]},"part":"entranceAntiphon"},{"slot":"37","text":{"la":[{"k":"p","lines":[["Gaudeámus et exsultémus, quia Dóminus ómnium diléxit vírginem sanctam atque gloriósam ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"pt-BR":[{"k":"p","lines":[["Exultemos de alegria, pois o Senhor do universo amou esta virgem santa e gloriosa."]]}],"en-US":[{"k":"p","lines":[["Let us rejoice and exult for joy: for the Lord of all has shown his love for a holy and glorious virgin ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Alegrémonos, exultemos, porque el Señor ha amado a esta virgen santa y gloriosa ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Rallegriamoci ed esultiamo: il Signore ha amato questa vergine santa e gloriosa",{"m":"rubric","t":"(T. P. "},"Alleluia",{"m":"rubric","t":"). "}]]}],"fr":[{"k":"p","lines":[["Voici la vierge sage,"],["elle est au nombre des jeunes filles prévoyantes ;"],["sa lampe allumée,"],["elle est sortie à la rencontre du Christ ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}],"de":[{"k":"p","lines":[["Freuen wir uns: Christus, der Herr, hat eine aus uns erwählt ",{"m":"rubric","t":"(Österl. Zeit "},"Halleluja",{"m":"rubric","t":")"},"."]]}]},"part":"entranceAntiphon"},{"slot":"38","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel:"}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]],"cite":"Cf. Mt 25, 1-13"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien:"}]]}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"39","text":{"la":[{"k":"p","lines":[["Hæc est virgo sápiens, quam Dóminus vigilántem invénit, quæ accéptis lampádibus sumpsit secum óleum et, veniénte Dómino, introívit cum eo ad núptias ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"en-US":[{"k":"p","lines":[["Here is a wise virgin whom the Lord found watching; when they took up their lamps she brought oil with her and when the Lord came she went in with him to the wedding feast ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Esta es la virgen sabia que el Señor encontró vigilante, con el aceite de su lámpara preparado y, al llegar el Señor, entró con él en el banquete de bodas ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Esta es la virgen sabia que el Señor encontró vigilante, con el aceite de su lámpara preparado y, al llegar el Señor, entró con él en el banquete de bodas ",{"m":"rubric","t":"(T. P."}," Alleluia",{"m":"rubric","t":")"},"."]]}],"fr":[{"k":"p","lines":[["Que tu es belle, vierge du Christ !"],["Tu as mérité de recevoir la couronne du Seigneur,"],["la couronne de la virginité à jamais ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}]},"part":"entranceAntiphon"},{"slot":"40","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Oração do dia"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"41","text":{"la":[{"k":"p","lines":[["Dómine Deus, qui beátam ",{"m":"rubric","t":"N. "},"vírginem cæléstibus donis cumulásti, tríbue, quǽsumus, ut, eius virtútes æmulántes in terris, gáudiis cum ipsa perfruámur ætérnis. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor nosso Deus, que cumulastes de graça a santa virgem ",{"m":"rubric","t":"N."},", fazei que, incentivados na terra por suas virtudes, sejamos a ela associados na felicidade do céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo."]]}],"en-US":[{"k":"p","lines":[["Lord God, who gave the holy Virgin ",{"m":"rubric","t":"N."}," gift upon gift from heaven, grant, we pray, that, imitating her virtues on earth, we may delight with her in the joys of eternity."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Señor, Dios nuestro,"],["que has derramado sobre la virgen santa ",{"m":"rubric","t":"N."}],["la abundancia de dones del cielo,"],["concédenos imitar en la tierra sus virtudes,"],["para que gocemos con ella de las alegrías eternas."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Signore Dio nostro, che hai colmato dei tuoi doni la santa vergine ",{"m":"rubric","t":"N. "},", concedi a noi tuoi fedeli di imitare le sue virtù sulla terra, per godere con lei la gioia del cielo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Exauce nos prières, Dieu notre Sauveur,"],["afin qu'en célébrant dans la joie"],["la mémoire de la vierge sainte ",{"m":"rubric","t":"N."},","],["nous apprenions à te servir"],["avec un amour sincère."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast die heilige Jungfrau ",{"m":"rubric","t":"N."}," mit deiner reichen Gnade beschenkt. Lass uns nach ihrem Beispiel im Glauben und in der Liebe wachsen, damit wir einst an ihrer Freude teilhaben in deiner Herrlichkeit. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"42","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel, pro virgine fundatrice: "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou, para virgem fundadora:"}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or, for a Virgin foundress:"}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien, para una virgen fundadora:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure, per una vergine fondatrice: "}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou pour une fondatrice : "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder (für eine heilige Gründerin):"}]]}]},"part":"collect","role":"rubric"},{"slot":"43","text":{"la":[{"k":"p","lines":[["Fac, Dómine Deus noster, ut beáta virgo ",{"m":"rubric","t":"N."},", sponsa tibi fidélis, divínæ caritátis flammam éxcitet in córdibus nostris, quam, ad perénnem Ecclésiæ tuæ glóriam, áliis virgínibus inséruit. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor nosso Deus, que a santa virgem ",{"m":"rubric","t":"N."},", vossa fiel esposa, desperte em nosso coração a chama da caridade, que ela transmitiu a outras virgens para a glória perene de vossa Igreja. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo."]]}],"en-US":[{"k":"p","lines":[["Grant, O Lord our God, that the Virgin blessed ",{"m":"rubric","t":"N."},", your faithful spouse, may stir up in our hearts the flame of divine love, which she inspired in other virgins to the enduring glory of your Church."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Señor, Dios nuestro,"],["haz que santa ",{"m":"rubric","t":"N."},", virgen, tu fiel esposa,"],["avive en nuestros corazones"],["la llama del mismo amor divino"],["que encendió en otras vírgenes,"],["para gloria perpetua de tu Iglesia."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Donaci, Signore Dio nostro, la fiamma di carità che la santa vergine ",{"m":"rubric","t":"N."},", sposa a te fedele, fece ardere nel cuore delle sue sorelle a gloria perenne della tua Chiesa. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur notre Dieu,"],["fais que la vierge sainte ",{"m":"rubric","t":"N."},", ton épouse fidèle,"],["attise en nos cœurs ce foyer d'amour"],["qu'elle fit brûler dans l'âme de ses compagnes,"],["pour la gloire éternelle de ton Église."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast die heilige Jungfrau ",{"m":"rubric","t":"N."}," zu deiner getreuen Braut erwählt. Entflamme auch in unseren Herzen das Feuer der göttlichen Liebe, das sie ihren Gefährtinnen weitergegeben hat zum Ruhm deiner Kirche. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"44","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Oração sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"45","text":{"la":[{"k":"p","lines":[["Dicátæ, quǽsumus, Dómine, capiámus oblatiónis efféctum, ut, beátæ ",{"m":"rubric","t":"N. "},"exémplo, terrénæ vetustátis conversatióne mundáti, cæléstis vitæ proféctibus innovémur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Fazei-nos, ó Pai, alcançar os frutos dos dons que vos consagramos, e, a exemplo de santa",{"m":"rubric","t":"N."},", sejamos purificados de todo o mal, e orientados para uma vida nova. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May we receive, O Lord, we pray, the effects of this offering dedicated to you, so that we may be cleansed from old earthly ways and, through the example of blessed ",{"m":"rubric","t":"N."},", be renewed by growth in heavenly life."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, concédenos recibir el fruto"],["de estas ofrendas que te presentamos,"],["para que, a ejemplo de santa ",{"m":"rubric","t":"N."},","],["limpios de la antigua condición pecadora,"],["nos renovemos con la prenda de la vida celestial."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["L'offerta di questo sacrificio, o Signore, ci liberi dall'antica schiavitù del peccato, perché, sull'esempio di santa",{"m":"rubric","t":"N. "},", possiamo camminare in novità di vita. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous proclamons tes merveilles,"],["accomplies en la bienheureuse vierge, sainte ",{"m":"rubric","t":"N."},","],["Seigneur, Dieu de majesté,"],["et nous te supplions humblement :"],["toi qui appréciais les mérites de sa vie,"],["accepte l'hommage de notre service."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, nimmt die Gaben an, die wir darbringen, und mache das heilige Opfer in uns wirksam. Befreie uns, gleich der heiligen ",{"m":"rubric","t":"N."},", von der alten Anhänglichkeit an das Böse und lass das neue Leben der Gnade in uns wachsen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"46","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"48","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Mt 25, 4. 6"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Mt 25, 4. 6"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Mt 25, 4. 6"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Mt 25, 4.6"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Mt 25, 4. 6"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Vgl. Mt 25, 4. 6"}]},"part":"communionAntiphon"},{"slot":"49","text":{"la":[{"k":"p","lines":[["Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus. Média autem nocte clamor factus est: Ecce sponsus venit, exíte óbviam Christo Dómino ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"pt-BR":[{"k":"p","lines":[["As cinco virgens prudentes, ao tomarem suas lâmpadas, levaram óleo consigo. Ouviu-se um grito na noite: Eis que chega o Esposo, ide ao encontro do Cristo!"]]}],"en-US":[{"k":"p","lines":[["The five wise virgins brought flasks of oil with their lamps. Then at midnight, the cry went up: Behold, the Bridegroom is coming; come out to meet Christ the Lord ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Las cinco vírgenes prudentes se llevaron alcuzas de aceite con las lámparas. A media noche se oyó una voz: «Que llega el esposo, salid al encuentro de Cristo, el Señor» ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Le cinque vergini prudenti, insieme alle lampade, Cf. Mt 25, 4.6 presero con sé l'olio in piccoli vasi. A mezzanotte si levò un grido: «Ecco lo sposo! Andate incontro a Cristo Signore»",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Voici l'Époux qui vient !"],["Sortez à la rencontre du Christ, le Seigneur ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}],"de":[{"k":"p","lines":[["Die fünf klugen Jungfrauen nahmen außer den Lampen noch Öl in Krügen mit. Mitten in der Nacht wurde laut gerufen: Der Bräutigam kommt! Geht Christus, dem Herrn, entgegen! ",{"m":"rubric","t":"(Österl. Zeit "},"Halleluja",{"m":"rubric","t":")"},"."]]}]},"part":"communionAntiphon"},{"slot":"50","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Oração depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"51","text":{"la":[{"k":"p","lines":[["Córporis et Sánguinis Unigéniti tui sacra percéptio, Dómine, ab ómnibus nos cadúcis rebus avértat, ut exémplo beátæ ",{"m":"rubric","t":"N. "},"valeámus tui et sincéra in terris caritáte profícere, et perpétua in cælis visióne gaudére. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Pai, que a comunhão do Corpo e Sangue do vosso Filho nos desprenda das coisas perecíveis para que, a exemplo de santa",{"m":"rubric","t":"N."},", sempre mais vos amemos na terra e vos contemplemos eternamente no céu. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May the holy reception of the Body and Blood of your Only Begotten Son, O Lord, turn us away from the cares of this fleeting world, so that, following the example of blessed ",{"m":"rubric","t":"N."},", we may grow in sincere love for you on earth and rejoice to behold you for eternity in heaven."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, que la santa comunión"],["del Cuerpo y de la Sangre de tu Unigénito"],["nos aparte de todas las cosas perecederas,"],["para que, a ejemplo de santa ",{"m":"rubric","t":"N."},","],["podamos servirte en la tierra con amor sincero"],["y gozar eternamente de tu contemplación en el cielo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["La comunione al Corpo e al Sangue del tuo unigenito Figlio ci liberi, o Padre, dagli affanni delle cose che passano, perché, sull'esempio di santa ",{"m":"rubric","t":"N. "},"progrediamo in terra nella vera carità e godiamo in cielo della tua visione senza fine. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["En participant au don que tu nous as fait,"],["Seigneur notre Dieu,"],["nous avons renouvelé nos forces,"],["et nous te supplions encore :"],["qu'à l'exemple de sainte ",{"m":"rubric","t":"N."},","],["portant dans notre corps la mort de Jésus,"],["nous cherchions à nous attacher à toi seul."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Ewiger Gott, der Empfang des Leibes und Blutes Christi lenke unseren Sinn von den vergänglichen Dingen auf das, was bleibt. Gib, dass wir nach dem Beispiel der heiligen ",{"m":"rubric","t":"N."}," in aufrichtiger Liebe unsere Lebensaufgabe erfüllen und einst zur Anschauung deiner Herrlichkeit gelangen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.57"],"title":{"la":"COMMUNE VIRGINUM","pt-BR":"COMUM DAS VIRGENS","en-US":"COMMON OF VIRGINS","es":"COMÚN DE VÍRGENES","it":"COMUNE DELLE VERGINI","fr":"COMMUN DES VIERGES","de":"COMMUNE-TEXTE FÜR JUNGFRAUEN"},"subtitle":{"la":"II. PRO UNA VIRGINE 2","pt-BR":"2","en-US":"II. For One Virgin 2","es":"II. Para una virgen 2","it":"II. PRO UNA VIRGINE 2","fr":"II. POUR UNE VIERGE 2","de":"2."}}
+{
+ "id": "common.virgins.2",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE VIRGINUM"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. PRO UNA VIRGINE"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DAS VIRGENS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF VIRGINS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. For One Virgin"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE VÍRGENES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. Para una virgen"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DELLE VERGINI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. PRO UNA VIRGINE"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DES VIERGES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. POUR UNE VIERGE"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE FÜR JUNGFRAUEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "2."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gaudeámus et exsultémus, quia Dóminus ómnium diléxit vírginem sanctam atque gloriósam ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exultemos de alegria, pois o Senhor do universo amou esta virgem santa e gloriosa."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Let us rejoice and exult for joy: for the Lord of all has shown his love for a holy and glorious virgin ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegrémonos, exultemos, porque el Señor ha amado a esta virgen santa y gloriosa ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegriamoci ed esultiamo: il Signore ha amato questa vergine santa e gloriosa",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "Alleluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici la vierge sage,"
+       ],
+       [
+        "elle est au nombre des jeunes filles prévoyantes ;"
+       ],
+       [
+        "sa lampe allumée,"
+       ],
+       [
+        "elle est sortie à la rencontre du Christ ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Freuen wir uns: Christus, der Herr, hat eine aus uns erwählt ",
+        {
+         "m": "rubric",
+         "t": "(Österl. Zeit "
+        },
+        "Halleluja",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Cf. Mt 25, 1-13"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc est virgo sápiens, quam Dóminus vigilántem invénit, quæ accéptis lampádibus sumpsit secum óleum et, veniénte Dómino, introívit cum eo ad núptias ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Here is a wise virgin whom the Lord found watching; when they took up their lamps she brought oil with her and when the Lord came she went in with him to the wedding feast ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esta es la virgen sabia que el Señor encontró vigilante, con el aceite de su lámpara preparado y, al llegar el Señor, entró con él en el banquete de bodas ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esta es la virgen sabia que el Señor encontró vigilante, con el aceite de su lámpara preparado y, al llegar el Señor, entró con él en el banquete de bodas ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que tu es belle, vierge du Christ !"
+       ],
+       [
+        "Tu as mérité de recevoir la couronne du Seigneur,"
+       ],
+       [
+        "la couronne de la virginité à jamais ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração do dia"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dómine Deus, qui beátam ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "vírginem cæléstibus donis cumulásti, tríbue, quǽsumus, ut, eius virtútes æmulántes in terris, gáudiis cum ipsa perfruámur ætérnis. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor nosso Deus, que cumulastes de graça a santa virgem ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", fazei que, incentivados na terra por suas virtudes, sejamos a ela associados na felicidade do céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lord God, who gave the holy Virgin ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " gift upon gift from heaven, grant, we pray, that, imitating her virtues on earth, we may delight with her in the joys of eternity."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, Dios nuestro,"
+       ],
+       [
+        "que has derramado sobre la virgen santa ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "la abundancia de dones del cielo,"
+       ],
+       [
+        "concédenos imitar en la tierra sus virtudes,"
+       ],
+       [
+        "para que gocemos con ella de las alegrías eternas."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore Dio nostro, che hai colmato dei tuoi doni la santa vergine ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        ", concedi a noi tuoi fedeli di imitare le sue virtù sulla terra, per godere con lei la gioia del cielo. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exauce nos prières, Dieu notre Sauveur,"
+       ],
+       [
+        "afin qu'en célébrant dans la joie"
+       ],
+       [
+        "la mémoire de la vierge sainte ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "nous apprenions à te servir"
+       ],
+       [
+        "avec un amour sincère."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast die heilige Jungfrau ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " mit deiner reichen Gnade beschenkt. Lass uns nach ihrem Beispiel im Glauben und in der Liebe wachsen, damit wir einst an ihrer Freude teilhaben in deiner Herrlichkeit. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel, pro virgine fundatrice: "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou, para virgem fundadora:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or, for a Virgin foundress:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien, para una virgen fundadora:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure, per una vergine fondatrice: "
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou pour une fondatrice : "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder (für eine heilige Gründerin):"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fac, Dómine Deus noster, ut beáta virgo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", sponsa tibi fidélis, divínæ caritátis flammam éxcitet in córdibus nostris, quam, ad perénnem Ecclésiæ tuæ glóriam, áliis virgínibus inséruit. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor nosso Deus, que a santa virgem ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", vossa fiel esposa, desperte em nosso coração a chama da caridade, que ela transmitiu a outras virgens para a glória perene de vossa Igreja. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, O Lord our God, that the Virgin blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", your faithful spouse, may stir up in our hearts the flame of divine love, which she inspired in other virgins to the enduring glory of your Church."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, Dios nuestro,"
+       ],
+       [
+        "haz que santa ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", virgen, tu fiel esposa,"
+       ],
+       [
+        "avive en nuestros corazones"
+       ],
+       [
+        "la llama del mismo amor divino"
+       ],
+       [
+        "que encendió en otras vírgenes,"
+       ],
+       [
+        "para gloria perpetua de tu Iglesia."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Donaci, Signore Dio nostro, la fiamma di carità che la santa vergine ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", sposa a te fedele, fece ardere nel cuore delle sue sorelle a gloria perenne della tua Chiesa. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur notre Dieu,"
+       ],
+       [
+        "fais que la vierge sainte ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", ton épouse fidèle,"
+       ],
+       [
+        "attise en nos cœurs ce foyer d'amour"
+       ],
+       [
+        "qu'elle fit brûler dans l'âme de ses compagnes,"
+       ],
+       [
+        "pour la gloire éternelle de ton Église."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast die heilige Jungfrau ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " zu deiner getreuen Braut erwählt. Entflamme auch in unseren Herzen das Feuer der göttlichen Liebe, das sie ihren Gefährtinnen weitergegeben hat zum Ruhm deiner Kirche. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicátæ, quǽsumus, Dómine, capiámus oblatiónis efféctum, ut, beátæ ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "exémplo, terrénæ vetustátis conversatióne mundáti, cæléstis vitæ proféctibus innovémur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fazei-nos, ó Pai, alcançar os frutos dos dons que vos consagramos, e, a exemplo de santa",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", sejamos purificados de todo o mal, e orientados para uma vida nova. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May we receive, O Lord, we pray, the effects of this offering dedicated to you, so that we may be cleansed from old earthly ways and, through the example of blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", be renewed by growth in heavenly life."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, concédenos recibir el fruto"
+       ],
+       [
+        "de estas ofrendas que te presentamos,"
+       ],
+       [
+        "para que, a ejemplo de santa ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "limpios de la antigua condición pecadora,"
+       ],
+       [
+        "nos renovemos con la prenda de la vida celestial."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'offerta di questo sacrificio, o Signore, ci liberi dall'antica schiavitù del peccato, perché, sull'esempio di santa",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        ", possiamo camminare in novità di vita. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous proclamons tes merveilles,"
+       ],
+       [
+        "accomplies en la bienheureuse vierge, sainte ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "Seigneur, Dieu de majesté,"
+       ],
+       [
+        "et nous te supplions humblement :"
+       ],
+       [
+        "toi qui appréciais les mérites de sa vie,"
+       ],
+       [
+        "accepte l'hommage de notre service."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, nimmt die Gaben an, die wir darbringen, und mache das heilige Opfer in uns wirksam. Befreie uns, gleich der heiligen ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", von der alten Anhänglichkeit an das Böse und lass das neue Leben der Gnade in uns wachsen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Mt 25, 4. 6"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Mt 25, 4. 6"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Mt 25, 4. 6"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Mt 25, 4.6"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Mt 25, 4. 6"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Vgl. Mt 25, 4. 6"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus. Média autem nocte clamor factus est: Ecce sponsus venit, exíte óbviam Christo Dómino ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As cinco virgens prudentes, ao tomarem suas lâmpadas, levaram óleo consigo. Ouviu-se um grito na noite: Eis que chega o Esposo, ide ao encontro do Cristo!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The five wise virgins brought flasks of oil with their lamps. Then at midnight, the cry went up: Behold, the Bridegroom is coming; come out to meet Christ the Lord ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Las cinco vírgenes prudentes se llevaron alcuzas de aceite con las lámparas. A media noche se oyó una voz: «Que llega el esposo, salid al encuentro de Cristo, el Señor» ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le cinque vergini prudenti, insieme alle lampade, Cf. Mt 25, 4.6 presero con sé l'olio in piccoli vasi. A mezzanotte si levò un grido: «Ecco lo sposo! Andate incontro a Cristo Signore»",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici l'Époux qui vient !"
+       ],
+       [
+        "Sortez à la rencontre du Christ, le Seigneur ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die fünf klugen Jungfrauen nahmen außer den Lampen noch Öl in Krügen mit. Mitten in der Nacht wurde laut gerufen: Der Bräutigam kommt! Geht Christus, dem Herrn, entgegen! ",
+        {
+         "m": "rubric",
+         "t": "(Österl. Zeit "
+        },
+        "Halleluja",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Córporis et Sánguinis Unigéniti tui sacra percéptio, Dómine, ab ómnibus nos cadúcis rebus avértat, ut exémplo beátæ ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "valeámus tui et sincéra in terris caritáte profícere, et perpétua in cælis visióne gaudére. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Pai, que a comunhão do Corpo e Sangue do vosso Filho nos desprenda das coisas perecíveis para que, a exemplo de santa",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", sempre mais vos amemos na terra e vos contemplemos eternamente no céu. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the holy reception of the Body and Blood of your Only Begotten Son, O Lord, turn us away from the cares of this fleeting world, so that, following the example of blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", we may grow in sincere love for you on earth and rejoice to behold you for eternity in heaven."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, que la santa comunión"
+       ],
+       [
+        "del Cuerpo y de la Sangre de tu Unigénito"
+       ],
+       [
+        "nos aparte de todas las cosas perecederas,"
+       ],
+       [
+        "para que, a ejemplo de santa ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "podamos servirte en la tierra con amor sincero"
+       ],
+       [
+        "y gozar eternamente de tu contemplación en el cielo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La comunione al Corpo e al Sangue del tuo unigenito Figlio ci liberi, o Padre, dagli affanni delle cose che passano, perché, sull'esempio di santa ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "progrediamo in terra nella vera carità e godiamo in cielo della tua visione senza fine. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En participant au don que tu nous as fait,"
+       ],
+       [
+        "Seigneur notre Dieu,"
+       ],
+       [
+        "nous avons renouvelé nos forces,"
+       ],
+       [
+        "et nous te supplions encore :"
+       ],
+       [
+        "qu'à l'exemple de sainte ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "portant dans notre corps la mort de Jésus,"
+       ],
+       [
+        "nous cherchions à nous attacher à toi seul."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ewiger Gott, der Empfang des Leibes und Blutes Christi lenke unseren Sinn von den vergänglichen Dingen auf das, was bleibt. Gib, dass wir nach dem Beispiel der heiligen ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " in aufrichtiger Liebe unsere Lebensaufgabe erfüllen und einst zur Anschauung deiner Herrlichkeit gelangen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.57"
+ ],
+ "title": {
+  "la": "COMMUNE VIRGINUM",
+  "pt-BR": "COMUM DAS VIRGENS",
+  "en-US": "COMMON OF VIRGINS",
+  "es": "COMÚN DE VÍRGENES",
+  "it": "COMUNE DELLE VERGINI",
+  "fr": "COMMUN DES VIERGES",
+  "de": "COMMUNE-TEXTE FÜR JUNGFRAUEN"
+ },
+ "subtitle": {
+  "la": "II. PRO UNA VIRGINE 2",
+  "pt-BR": "2",
+  "en-US": "II. For One Virgin 2",
+  "es": "II. Para una virgen 2",
+  "it": "II. PRO UNA VIRGINE 2",
+  "fr": "II. POUR UNE VIERGE 2",
+  "de": "2."
+ }
+}

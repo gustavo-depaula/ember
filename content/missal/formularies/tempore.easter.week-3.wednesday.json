@@ -1,1 +1,1126 @@
-{"id":"tempore.easter.week-3.wednesday","source":"tiempos/tiempos_pascua#P033","kind":"tempore","items":[{"slot":"231","text":{"la":[{"k":"h2","lines":[["Tempus Paschale"],["Hebdomada III"],["Feria quarta"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo Pascal"],["Terceira semana"],["Quarta-feira"]]}],"en-US":[{"k":"h2","lines":[["Easter Season"],["Third Week"],["Wednesday"]]}],"es":[{"k":"h2","lines":[["Tiempo Pascual"],["III Semana"],["Miércoles"]]}],"it":[{"k":"h2","lines":[["Tempo Pasquale"],["III Settimana"],["Mercoledì"]]}],"fr":[{"k":"h2","lines":[["Temps pascal"],["MERCREDI DE LA 3e SEMAINE"]]}],"de":[{"k":"h2","lines":[["Osterzeit"],["MITTWOCH"],["der dritten Osterwoche"]]}]},"part":"title"},{"slot":"232","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 70, 8. 23"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 70, 8. 23"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 71 (70): 8, 23"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 70, 8. 23"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 70, 8.23"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 70, 8. 23"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 71 (70), 8. 23"}]},"part":"entranceAntiphon"},{"slot":"233","text":{"la":[{"k":"p","lines":[["Repleátur os meum laude tua, ut possim cantáre;"],["gaudébunt lábia mea, dum cantávero tibi, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Vosso louvor é transbordante em minha boca,"],["a alegria cantará sobre meus lábios, aleluia."]]}],"en-US":[{"k":"p","lines":[["Let my mouth be filled with your praise, that I may sing aloud; my lips shall shout for joy, when I sing to you, alleluia."]]}],"es":[{"k":"p","lines":[["Llena estaba mi boca de tu alabanza para poder cantar. Te aclamarán mis labios, Señor. Aleluya."]]}],"it":[{"k":"p","lines":[["Della tua lode è piena la mia bocca: tutto il giorno canto il tuo splendore; cantando le tue lodi esulteranno le mie labbra. Alleluia."]]}],"fr":[{"k":"p","lines":[["Que ma bouche soit remplie de ta louange,"],["pour que je puisse chanter ;"],["joie sur mes lèvres qui chantent pour toi, alléluia."]]}],"de":[{"k":"p","lines":[["Mein Mund ist erfüllt von deinem Lob, von deinem Ruhm den ganzen Tag, meine Lippen sollen jubeln, denn dir will ich singen und spielen. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"234","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"235","text":{"la":[{"k":"p","lines":[["Adésto, quǽsumus, Dómine, famíliæ tuæ,"],["et dignánter impénde,"],["ut, quibus fídei grátiam contulísti,"],["in resurrectióne Unigéniti tui"],["portiónem largiáris ætérnam."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Permanecei, Senhor, com vossa família"],["e na vossa bondade concedei"],["àqueles a quem destes a graça da fé,"],["ter parte na herança eterna"],["pela ressurreição do vosso Filho."],["Ele, que é Deus, e convosco vive e reina,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Be present to your family, O Lord, we pray,"],["and graciously ensure"],["those you have endowed with the grace of faith"],["an eternal share in the Resurrection of your Only Begotten Son. Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Atiende, Señor, a tu familia y ayúdala como conviene,"],["y concede participar en la resurrección de tu Unigénito a quienes has dado la gracia de la fe."],["Él, que vive y reina contigo."]]}],"it":[{"k":"p","lines":[["Assisti, o Padre, la tua famiglia, e a quanti nella tua bontà hai donato la grazia della fede concedi di aver parte all'eredità eterna nella risurrezione del tuo Figlio unigenito. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Viens au secours de ta famille, Seigneur,"],["sois généreux pour elle :"],["toi qui lui as donné la grâce de la foi,"],["accorde-lui d'avoir part, pour toujours,"],["à la résurrection de ton Fils unique."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, erhöre die Bitten deines Volkes und komm uns zu Hilfe. Du hast uns die Gnade des Glaubens geschenkt, gib uns durch die Auferstehung deines Sohnes auch Anteil am ewigen Leben. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"236","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"237","text":{"la":[{"k":"p","lines":[["Concéde, quǽsumus, Dómine,"],["semper nos per hæc mystéria paschália gratulári,"],["ut contínua nostræ reparatiónis operátio"],["perpétuæ nobis fiat causa lætítiæ."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Concedei, Senhor,"],["que exultemos sem cessar por estes mistérios pascais,"],["para que a contínua obra de nossa redenção"],["seja causa de eterna alegria."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, O Lord,"],["that we may always find delight in these paschal mysteries, so that the renewal constantly at work within us"],["may be the cause of our unending joy."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Concédenos, Señor,"],["alegrarnos siempre por estos misterios pascuales,"],["y que la actualización continua de tu obra redentora"],["sea para nosotros fuente de gozo incesante."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Dio, che in questi santi misteri compi l'opera della nostra redenzione, fa' che questa celebrazione pasquale sia per noi fonte di perenne letizia. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Donne-nous, Seigneur, nous t'en prions,"],["de toujours te rendre grâce"],["par ces mystères de Pâques ;"],["qu'ils continuent l'œuvre de notre relèvement"],["et deviennent pour nous"],["une source intarissable de joie."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, gib, dass wir dir allzeit danken durch die Feier der österlichen Geheimnisse. In ihnen führst du das Werk der Erlösung fort, mache sie für uns zur Quelle der unvergänglichen Freude. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"239","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]]}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]]}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]]}],"de":[{"k":"h4","lines":[["Kommunionvers"]]}]},"part":"communionAntiphon"},{"slot":"240","text":{"la":[{"k":"p","lines":[["Surréxit Dóminus et illúxit nobis,"],["quos redémit sánguine suo, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Ressurgiu o Senhor e nos iluminou,"],["a nós que remiu com seu sangue, aleluia."]]}],"en-US":[{"k":"p","lines":[["The Lord has risen and shone his light upon us, whom he has redeemed by his Blood, alleluia."]]}],"es":[{"k":"p","lines":[["Ha resucitado el Señor e ilumina a los que hemos sido redimidos con su sangre. Aleluya."]]}],"it":[{"k":"p","lines":[["Il Signore è risorto e ha fatto splendere su di noi la sua luce: egli ci ha redenti con il suo sangue. Alleluia."],[{"m":"rubric","t":"Oppure:"}],["Chiunque vede il Figlio e crede in lui ha la vita eterna. Alleluia."]],"cite":"Cf. Gv 6, 40"}],"fr":[{"k":"p","lines":[["Le Seigneur est ressuscité,"],["il nous a rachetés par son sang,"],["et nous remplit de sa lumière, alléluia."]]}],"de":[{"k":"p","lines":[["Der Herr ist auferstanden, er hat uns erlöst durch sein Blut. Er ist unser Licht und Heil. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"241","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"242","text":{"la":[{"k":"p","lines":[["Exáudi, Dómine, preces nostras,"],["ut redemptiónis nostræ sacrosáncta commércia"],["et vitæ nobis cónferant præséntis auxílium"],["et gáudia sempitérna concílient."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Escutai, Senhor, as nossas preces,"],["a fim de que, por este sacramento,"],["intercâmbio da nossa redenção,"],["recebamos o auxílio para a vida presente"],["e o dom da eterna alegria."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Hear, O Lord, our prayers,"],["that this most holy exchange,"],["by which you have redeemed us,"],["may bring your help in this present life and ensure for us eternal gladness."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Escucha, Señor, nuestras oraciones"],["para que el santo intercambio de nuestra redención"],["nos sostenga durante la vida presente"],["y nos dé las alegrías eternas."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Esaudisci, o Signore, le nostre preghiere, perché la partecipazione al mistero della redenzione sia per noi aiuto nella vita presente e ci ottenga la gioia eterna. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Écoute nos prières, Seigneur :"],["que cet échange très saint où l'homme est racheté"],["nous soutienne durant la vie présente"],["et nous procure les joies éternelles."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, durch das Werk der Erlösung hast du unsere Schuld getilgt und uns deine Gnade geschenkt. Die Feier der Geheimnisse Christi stärke uns in diesem Leben und schenke uns die ewige Freude. Darum bitten wir durch ihn, Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":13,"prefaces":["preface.16","preface.17","preface.18","preface.19","preface.20"],"title":{"la":"Tempus Paschale — Hebdomada III — Feria quarta","pt-BR":"Tempo Pascal — Terceira semana — Quarta-feira","en-US":"Easter Season — Third Week — Wednesday","es":"Tiempo Pascual — III Semana — Miércoles","it":"Tempo Pasquale — III Settimana — Mercoledì","fr":"Temps pascal — MERCREDI DE LA 3e SEMAINE","de":"Osterzeit — MITTWOCH — der dritten Osterwoche"}}
+{
+ "id": "tempore.easter.week-3.wednesday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Paschale"
+       ],
+       [
+        "Hebdomada III"
+       ],
+       [
+        "Feria quarta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pascal"
+       ],
+       [
+        "Terceira semana"
+       ],
+       [
+        "Quarta-feira"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Easter Season"
+       ],
+       [
+        "Third Week"
+       ],
+       [
+        "Wednesday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo Pascual"
+       ],
+       [
+        "III Semana"
+       ],
+       [
+        "Miércoles"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pasquale"
+       ],
+       [
+        "III Settimana"
+       ],
+       [
+        "Mercoledì"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps pascal"
+       ],
+       [
+        "MERCREDI DE LA 3e SEMAINE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Osterzeit"
+       ],
+       [
+        "MITTWOCH"
+       ],
+       [
+        "der dritten Osterwoche"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 70, 8. 23"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 70, 8. 23"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 71 (70): 8, 23"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 70, 8. 23"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 70, 8.23"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 70, 8. 23"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 71 (70), 8. 23"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Repleátur os meum laude tua, ut possim cantáre;"
+       ],
+       [
+        "gaudébunt lábia mea, dum cantávero tibi, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vosso louvor é transbordante em minha boca,"
+       ],
+       [
+        "a alegria cantará sobre meus lábios, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Let my mouth be filled with your praise, that I may sing aloud; my lips shall shout for joy, when I sing to you, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Llena estaba mi boca de tu alabanza para poder cantar. Te aclamarán mis labios, Señor. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Della tua lode è piena la mia bocca: tutto il giorno canto il tuo splendore; cantando le tue lodi esulteranno le mie labbra. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que ma bouche soit remplie de ta louange,"
+       ],
+       [
+        "pour que je puisse chanter ;"
+       ],
+       [
+        "joie sur mes lèvres qui chantent pour toi, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mein Mund ist erfüllt von deinem Lob, von deinem Ruhm den ganzen Tag, meine Lippen sollen jubeln, denn dir will ich singen und spielen. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Adésto, quǽsumus, Dómine, famíliæ tuæ,"
+       ],
+       [
+        "et dignánter impénde,"
+       ],
+       [
+        "ut, quibus fídei grátiam contulísti,"
+       ],
+       [
+        "in resurrectióne Unigéniti tui"
+       ],
+       [
+        "portiónem largiáris ætérnam."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Permanecei, Senhor, com vossa família"
+       ],
+       [
+        "e na vossa bondade concedei"
+       ],
+       [
+        "àqueles a quem destes a graça da fé,"
+       ],
+       [
+        "ter parte na herança eterna"
+       ],
+       [
+        "pela ressurreição do vosso Filho."
+       ],
+       [
+        "Ele, que é Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Be present to your family, O Lord, we pray,"
+       ],
+       [
+        "and graciously ensure"
+       ],
+       [
+        "those you have endowed with the grace of faith"
+       ],
+       [
+        "an eternal share in the Resurrection of your Only Begotten Son. Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Atiende, Señor, a tu familia y ayúdala como conviene,"
+       ],
+       [
+        "y concede participar en la resurrección de tu Unigénito a quienes has dado la gracia de la fe."
+       ],
+       [
+        "Él, que vive y reina contigo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Assisti, o Padre, la tua famiglia, e a quanti nella tua bontà hai donato la grazia della fede concedi di aver parte all'eredità eterna nella risurrezione del tuo Figlio unigenito. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Viens au secours de ta famille, Seigneur,"
+       ],
+       [
+        "sois généreux pour elle :"
+       ],
+       [
+        "toi qui lui as donné la grâce de la foi,"
+       ],
+       [
+        "accorde-lui d'avoir part, pour toujours,"
+       ],
+       [
+        "à la résurrection de ton Fils unique."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, erhöre die Bitten deines Volkes und komm uns zu Hilfe. Du hast uns die Gnade des Glaubens geschenkt, gib uns durch die Auferstehung deines Sohnes auch Anteil am ewigen Leben. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concéde, quǽsumus, Dómine,"
+       ],
+       [
+        "semper nos per hæc mystéria paschália gratulári,"
+       ],
+       [
+        "ut contínua nostræ reparatiónis operátio"
+       ],
+       [
+        "perpétuæ nobis fiat causa lætítiæ."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedei, Senhor,"
+       ],
+       [
+        "que exultemos sem cessar por estes mistérios pascais,"
+       ],
+       [
+        "para que a contínua obra de nossa redenção"
+       ],
+       [
+        "seja causa de eterna alegria."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, O Lord,"
+       ],
+       [
+        "that we may always find delight in these paschal mysteries, so that the renewal constantly at work within us"
+       ],
+       [
+        "may be the cause of our unending joy."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concédenos, Señor,"
+       ],
+       [
+        "alegrarnos siempre por estos misterios pascuales,"
+       ],
+       [
+        "y que la actualización continua de tu obra redentora"
+       ],
+       [
+        "sea para nosotros fuente de gozo incesante."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che in questi santi misteri compi l'opera della nostra redenzione, fa' che questa celebrazione pasquale sia per noi fonte di perenne letizia. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Donne-nous, Seigneur, nous t'en prions,"
+       ],
+       [
+        "de toujours te rendre grâce"
+       ],
+       [
+        "par ces mystères de Pâques ;"
+       ],
+       [
+        "qu'ils continuent l'œuvre de notre relèvement"
+       ],
+       [
+        "et deviennent pour nous"
+       ],
+       [
+        "une source intarissable de joie."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, gib, dass wir dir allzeit danken durch die Feier der österlichen Geheimnisse. In ihnen führst du das Werk der Erlösung fort, mache sie für uns zur Quelle der unvergänglichen Freude. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Surréxit Dóminus et illúxit nobis,"
+       ],
+       [
+        "quos redémit sánguine suo, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ressurgiu o Senhor e nos iluminou,"
+       ],
+       [
+        "a nós que remiu com seu sangue, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord has risen and shone his light upon us, whom he has redeemed by his Blood, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ha resucitado el Señor e ilumina a los que hemos sido redimidos con su sangre. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore è risorto e ha fatto splendere su di noi la sua luce: egli ci ha redenti con il suo sangue. Alleluia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Chiunque vede il Figlio e crede in lui ha la vita eterna. Alleluia."
+       ]
+      ],
+      "cite": "Cf. Gv 6, 40"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur est ressuscité,"
+       ],
+       [
+        "il nous a rachetés par son sang,"
+       ],
+       [
+        "et nous remplit de sa lumière, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr ist auferstanden, er hat uns erlöst durch sein Blut. Er ist unser Licht und Heil. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exáudi, Dómine, preces nostras,"
+       ],
+       [
+        "ut redemptiónis nostræ sacrosáncta commércia"
+       ],
+       [
+        "et vitæ nobis cónferant præséntis auxílium"
+       ],
+       [
+        "et gáudia sempitérna concílient."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escutai, Senhor, as nossas preces,"
+       ],
+       [
+        "a fim de que, por este sacramento,"
+       ],
+       [
+        "intercâmbio da nossa redenção,"
+       ],
+       [
+        "recebamos o auxílio para a vida presente"
+       ],
+       [
+        "e o dom da eterna alegria."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hear, O Lord, our prayers,"
+       ],
+       [
+        "that this most holy exchange,"
+       ],
+       [
+        "by which you have redeemed us,"
+       ],
+       [
+        "may bring your help in this present life and ensure for us eternal gladness."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escucha, Señor, nuestras oraciones"
+       ],
+       [
+        "para que el santo intercambio de nuestra redención"
+       ],
+       [
+        "nos sostenga durante la vida presente"
+       ],
+       [
+        "y nos dé las alegrías eternas."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esaudisci, o Signore, le nostre preghiere, perché la partecipazione al mistero della redenzione sia per noi aiuto nella vita presente e ci ottenga la gioia eterna. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Écoute nos prières, Seigneur :"
+       ],
+       [
+        "que cet échange très saint où l'homme est racheté"
+       ],
+       [
+        "nous soutienne durant la vie présente"
+       ],
+       [
+        "et nous procure les joies éternelles."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, durch das Werk der Erlösung hast du unsere Schuld getilgt und uns deine Gnade geschenkt. Die Feier der Geheimnisse Christi stärke uns in diesem Leben und schenke uns die ewige Freude. Darum bitten wir durch ihn, Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 13,
+ "prefaces": [
+  "preface.16",
+  "preface.17",
+  "preface.18",
+  "preface.19",
+  "preface.20"
+ ],
+ "title": {
+  "la": "Tempus Paschale — Hebdomada III — Feria quarta",
+  "pt-BR": "Tempo Pascal — Terceira semana — Quarta-feira",
+  "en-US": "Easter Season — Third Week — Wednesday",
+  "es": "Tiempo Pascual — III Semana — Miércoles",
+  "it": "Tempo Pasquale — III Settimana — Mercoledì",
+  "fr": "Temps pascal — MERCREDI DE LA 3e SEMAINE",
+  "de": "Osterzeit — MITTWOCH — der dritten Osterwoche"
+ }
+}

@@ -1,0 +1,436 @@
+{
+ "id": "common.pastors.first-reading-easter.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Para los misioneros: [Pro missionariis]"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce convertimur ad gentes."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Actuum Apostolórum"
+       ]
+      ],
+      "cite": "13, 46-49",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis: Paulus et Bárnabas dixérunt Iudæis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Vobis oportébat primum loqui verbum Dei; sed quóniam repéllitis illud et indígnos vos iudicátis ætérnæ vitæ, ecce convértimur ad gentes. Sic enim præcépit nobis Dóminus: “Pósui te in lumen géntium, ut sis in salútem usque ad extrémum terræ”»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Audiéntes autem gentes gaudébant et glorificábant verbum Dómini, et credidérunt, quotquot erant præordináti ad vitam ætérnam; ferebátur autem verbum Dómini per univérsam regiónem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vamos dirigir-nos aos pagãos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura dos Atos dos Apóstolos"
+       ]
+      ],
+      "cite": "13, 46-49",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, Paulo e Barnabé declararam: \"Era preciso anunciar a palavra de Deus primeiro a vós. Mas, como a rejeitais e vos considerais indignos da vida eterna, sabei que nos vamos dirigir aos pagãos. 'Porque esta é a ordem que o Senhor nos deu: Eu te coloquei como luz para as nações, para que leves a salvação até os confins da terra'\". Os pagãos ficaram muito contentes, quando ouviram isso, e glorificavam a Palavra do Senhor. Todos os que eram destinados à vida eterna, abraçaram a fé. Desse modo, a palavra do Senhor espalhava-se por toda a região."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Acts of the Apostles"
+       ]
+      ],
+      "cite": "13:46-49",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Paul and Barnabas spoke out boldly to the Jews, 'We had to proclaim the word of God to you first, but since you have rejected it, since you do not think yourselves worthy of eternal life, we must turn to the pagans. For this is what the Lord commanded us to do when he said: I have made you a light for the nations, so that my salvation may reach the ends of the earth.' It made the pagans very happy to hear this and they thanked the Lord for his message; all who were destined for eternal life became believers. Thus the word of the Lord spread through the whole countryside."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sabed que nos dedicamos a los gentiles"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de los Hechos de los Apóstoles"
+       ]
+      ],
+      "cite": "13, 46-49",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, Pablo y Bernabé dijeron a los judíos:"
+       ],
+       [
+        "«Teníamos que anunciaros primero a vosotros la palabra de Dios; pero como la rechazáis y no os consideráis dignos de la vida eterna, sabed que nos dedicamos a los gentiles. Así nos lo ha mandado el Señor: “Yo te he puesto como luz de los gentiles, para que lleves la salvación hasta el confín de la tierra”». Cuando los gentiles oyeron esto, se alegraron y alababan la palabra del Señor; y creyeron los que estaban destinados a la vida eterna."
+       ],
+       [
+        "La palabra del Señor se iba difundiendo por toda la región."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Noi ci rivolgiamo ai pagani."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dagli Atti degli Apostoli"
+       ]
+      ],
+      "cite": "13, 46-49",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, [ad Antiochia di Pisìdia] Paolo e Barnaba con franchezza dichiararono [ai Giudei]: «Era necessario che fosse proclamata prima di tutto a voi la parola di Dio, ma poiché la respingete e non vi giudicate degni della vita eterna, ecco: noi ci rivolgiamo ai pagani. Così infatti ci ha ordinato il Signore:"
+       ],
+       [
+        "\"Io ti ho posto per essere luce delle genti, perché tu porti La salvezza sino all'estremità della terra\"»."
+       ],
+       [
+        "Nell'udire ciò, i pagani si rallegravano e glorificavano la parola del Signore, e tutti quelli che erano destinati alla vita eterna credettero. La parola del Signore si diffondeva per tutta la regione."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre des Actes des Apôtres"
+       ]
+      ],
+      "cite": "13, 46-49",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, à Antioche de Pisidie, Paul et Barnabé déclarèrent aux"
+       ],
+       [
+        "Juifs avec assurance :"
+       ],
+       [
+        "\" C'est à vous d'abord qu'il était nécessaire d'adresser la parole de Dieu. Puisque vous la rejetez et que vous-mêmes ne vous jugez pas dignes de la vie éternelle, eh bien ! nous nous tournons vers les nations païennes. C'est le commandement que le Seigneur nous a donné : J'ai fait de toi la lumière des nations pour que, grâce à toi, le salut parvienne jusqu'aux extrémités de la terre. \""
+       ],
+       [
+        "En entendant cela, les païens étaient dans la joie et rendaient gloire à la"
+       ],
+       [
+        "parole du Seigneur ; tous ceux qui étaient destinés à la vie éternelle"
+       ],
+       [
+        "devinrent croyants. Ainsi la parole du Seigneur se répandait dans toute la"
+       ],
+       [
+        "région."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Apostelgeschichte"
+       ]
+      ],
+      "cite": "13, 46-49",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen sagten Paulus und Bárnabas zu den Juden:"
+       ],
+       [
+        "Euch musste das Wort Gottes zuerst verkündet werden. Da ihr es aber zurückstoßt und euch des ewigen Lebens unwürdig zeigt, wenden wir uns jetzt an die Heiden. Denn so hat uns der Herr aufgetragen: Ich habe dich zum Licht für die Völker gemacht, bis an das Ende der Erde sollst du das Heil sein."
+       ],
+       [
+        "Als die Heiden das hörten, freuten sie sich und priesen das Wort des Herrn; und alle wurden gläubig, die für das ewige Leben bestimmt waren. Das Wort des Herrn aber verbreitete sich in der ganzen Gegend."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

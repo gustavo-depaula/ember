@@ -1,1 +1,494 @@
-{"id":"sanctorale.05-10","source":"lecturas/lecturas_santos_may#0510","items":[{"slot":"42","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["10 de mayo"],["San Juan de Ávila, presbítero y Doctor de la Iglesia"]]}]}},{"slot":"43","text":{"*":[{"k":"p","lines":[["Primera Lectura"]],"role":"title"},{"k":"p","lines":[["Sabed que nos dedicamos a los gentiles"]],"role":"summary"},{"k":"p","lines":[["Lectura del libro de los Hechos de los apóstoles"]],"cite":"13, 46-49","role":"announcement"},{"k":"p","lines":[["En aquellos días, Pablo y Bernabé dijeron a los judíos:"],["«Teníamos que anunciaros primero a vosotros la palabra de Dios; pero como la rechazáis y no os consideráis dignos de la vida eterna, sabed que nos dedicamos a los gentiles. Así nos lo ha mandado el Señor: “Yo te he puesto como luz de los gentiles, para que lleves la salvación hasta el confín de la tierra”». Cuando los gentiles oyeron esto, se alegraron y alababan la palabra del Señor; y creyeron los que estaban destinados a la vida eterna."],["La palabra del Señor se iba difundiendo por toda la región."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"44","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}]},"role":"people","part":"firstReading"},{"slot":"45","text":{"*":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 22","role":"title"}]},"part":"psalm"},{"slot":"46","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}]},"part":"psalm","role":"people"},{"slot":"47","text":{"*":[{"k":"p","lines":[["El Señor es mi pastor, nada me falta:"],["en verdes praderas me hace recostar;"],["me conduce hacia fuentes tranquilas"],["y repara mis fuerzas;"],["me guía por el sendero justo,"],["por el honor de su nombre."]]}]},"part":"psalm","role":"verse"},{"slot":"48","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}]},"part":"psalm","role":"people"},{"slot":"49","text":{"*":[{"k":"p","lines":[["Aunque camine por cañadas oscuras,"],["nada temo, porque tú vas conmigo:"],["tu vara y tu cayado me sosiegan."]]}]},"part":"psalm","role":"verse"},{"slot":"50","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}]},"part":"psalm","role":"people"},{"slot":"51","text":{"*":[{"k":"p","lines":[["Preparas una mesa ante mí,"],["enfrente de mis enemigos;"],["me unges la cabeza con perfume,"],["y mi copa rebosa."]]}]},"part":"psalm","role":"verse"},{"slot":"52","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}]},"part":"psalm","role":"people"},{"slot":"53","text":{"*":[{"k":"p","lines":[["Tu bondad y tu misericordia me acompañan todos los días de mi vida,"],["y habitaré en la casa del Señor"],["por años sin término."]]}]},"part":"psalm","role":"verse"},{"slot":"54","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}]},"part":"psalm","role":"people"},{"slot":"55","text":{"*":[{"k":"p","lines":[["Aleluya"]],"cite":"Mt 5, 16","role":"title"},{"k":"p","lines":[["Aleluya."],["Brille así vuestra luz ante los hombres,"],["para que vean vuestras buenas obras"],["y den gloria a vuestro Padre."],["Aleluya."]]}]},"part":"acclamation"},{"text":{"*":[{"k":"p","lines":[["Evangelio"]],"role":"title"}]},"part":"gospel"},{"text":{"*":[{"k":"p","lines":[["Vosotros sois la luz del mundo"]],"role":"summary"}]},"part":"gospel"},{"text":{"*":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Mateo"]],"cite":"5, 13-16","role":"announcement"}]},"part":"gospel"},{"slot":"56","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}]},"part":"gospel","role":"people"},{"text":{"*":[{"k":"p","lines":[["En aquel tiempo, dijo Jesús a sus discípulos:"],["«Vosotros sois la sal de la tierra. Pero si la sal se vuelve sosa, ¿con qué la salarán? No sirve más que para tirarla fuera y que la pise la gente. Vosotros sois la luz del mundo. No se puede ocultar una ciudad puesta en lo alto de un monte."],["Tampoco se enciende una lámpara para meterla debajo del celemín, sino para ponerla en el candelero y que alumbre a todos los de casa."],["Brille así vuestra luz ante los hombres, para que vean vuestras buenas obras y den gloria a vuestro Padre que está en los cielos."],["No creáis que he venido a abolir la Ley y los Profetas: no he venido a abolir, sino a dar plenitud."],["En verdad os digo que antes pasarán el cielo y la tierra que deje de cumplirse hasta la última letra o tilde de la ley."],["El que se salte uno solo de los preceptos menos importantes y se lo enseñe así a los hombres será el menos importante en el reino de los cielos. Pero quien los cumpla y enseñe será grande en el reino de los cielos»."]]}]},"part":"gospel"},{"slot":"57","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}]},"role":"people","part":"gospel"}],"title":{"*":"San Juan de Ávila, presbítero y Doctor de la Iglesia"}}
+{
+ "id": "sanctorale.05-10",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "10 de mayo"
+       ],
+       [
+        "San Juan de Ávila, presbítero y Doctor de la Iglesia"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sabed que nos dedicamos a los gentiles"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de los Hechos de los apóstoles"
+       ]
+      ],
+      "cite": "13, 46-49",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, Pablo y Bernabé dijeron a los judíos:"
+       ],
+       [
+        "«Teníamos que anunciaros primero a vosotros la palabra de Dios; pero como la rechazáis y no os consideráis dignos de la vida eterna, sabed que nos dedicamos a los gentiles. Así nos lo ha mandado el Señor: “Yo te he puesto como luz de los gentiles, para que lleves la salvación hasta el confín de la tierra”». Cuando los gentiles oyeron esto, se alegraron y alababan la palabra del Señor; y creyeron los que estaban destinados a la vida eterna."
+       ],
+       [
+        "La palabra del Señor se iba difundiendo por toda la región."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 22",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor es mi pastor, nada me falta:"
+       ],
+       [
+        "en verdes praderas me hace recostar;"
+       ],
+       [
+        "me conduce hacia fuentes tranquilas"
+       ],
+       [
+        "y repara mis fuerzas;"
+       ],
+       [
+        "me guía por el sendero justo,"
+       ],
+       [
+        "por el honor de su nombre."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aunque camine por cañadas oscuras,"
+       ],
+       [
+        "nada temo, porque tú vas conmigo:"
+       ],
+       [
+        "tu vara y tu cayado me sosiegan."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preparas una mesa ante mí,"
+       ],
+       [
+        "enfrente de mis enemigos;"
+       ],
+       [
+        "me unges la cabeza con perfume,"
+       ],
+       [
+        "y mi copa rebosa."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu bondad y tu misericordia me acompañan todos los días de mi vida,"
+       ],
+       [
+        "y habitaré en la casa del Señor"
+       ],
+       [
+        "por años sin término."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Mt 5, 16",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya."
+       ],
+       [
+        "Brille así vuestra luz ante los hombres,"
+       ],
+       [
+        "para que vean vuestras buenas obras"
+       ],
+       [
+        "y den gloria a vuestro Padre."
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vosotros sois la luz del mundo"
+       ]
+      ],
+      "role": "summary"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "5, 13-16",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus discípulos:"
+       ],
+       [
+        "«Vosotros sois la sal de la tierra. Pero si la sal se vuelve sosa, ¿con qué la salarán? No sirve más que para tirarla fuera y que la pise la gente. Vosotros sois la luz del mundo. No se puede ocultar una ciudad puesta en lo alto de un monte."
+       ],
+       [
+        "Tampoco se enciende una lámpara para meterla debajo del celemín, sino para ponerla en el candelero y que alumbre a todos los de casa."
+       ],
+       [
+        "Brille así vuestra luz ante los hombres, para que vean vuestras buenas obras y den gloria a vuestro Padre que está en los cielos."
+       ],
+       [
+        "No creáis que he venido a abolir la Ley y los Profetas: no he venido a abolir, sino a dar plenitud."
+       ],
+       [
+        "En verdad os digo que antes pasarán el cielo y la tierra que deje de cumplirse hasta la última letra o tilde de la ley."
+       ],
+       [
+        "El que se salte uno solo de los preceptos menos importantes y se lo enseñe así a los hombres será el menos importante en el reino de los cielos. Pero quien los cumpla y enseñe será grande en el reino de los cielos»."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "San Juan de Ávila, presbítero y Doctor de la Iglesia"
+ }
+}

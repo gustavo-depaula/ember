@@ -1,1 +1,304 @@
-{"id":"sanctorale.11-17.argentina-paraguay-uruguay","source":"santos/santos_arg#1117","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de Argentina...)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["17 de noviembre"],["Santos Roque González, Alfonso Rodríguez y Juan del Castillo"],["Presbíteros y mártires"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"En Argentina y Uruguay: Memoria"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 33, 18"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Los justos clamaron, y el Señor los escuchó y los libró de todas sus angustias."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Dios nuestro, te pedimos que tu palabra, sembrada por san Roque González y sus compañeros mártires, produzca el ciento por uno en frutos de santidad y justicia. Por nuestro Señor Jesucristo, tu Hijo que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."]]}]},"part":"collect"},{"mark":"readings"},{"text":{"*":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Señor, al recordar el martirio de tus santos Roque y compañeros, haz que por este sacrificio anunciemos dignamente la muerte de tu Hijo unigénito, que no sólo exhortó de palabra a sus testigos sino que los precedió con el ejemplo. Por Jesucristo, nuestro Señor."]]}]},"part":"prayerOverOfferings"},{"slot":"11","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Rom 8, 38-39"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Ni la muerte ni la vida, ni criatura alguna podrá separarnos jamás del amor de Cristo."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración después de la comunión"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Saciados con el pan del cielo, te suplicamos, Padre, que, a ejemplo de los santos Roque y compañeros, imprimas en nuestros corazones los signos del amor y de la pasión de tu Hijo y nos permitas gozar siempre de tu paz. El que vive y reina por los siglos de los siglos."]]}]},"part":"postcommunion"}],"precedence":12,"lectionary":"sanctorale.11-17.argentina-paraguay-uruguay","prefaces":["preface.54","preface.55"],"title":{"*":"Santos Roque González, Alfonso Rodríguez y Juan del Castillo — Presbíteros y mártires"}}
+{
+ "id": "sanctorale.11-17.argentina-paraguay-uruguay",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de Argentina...)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 de noviembre"
+       ],
+       [
+        "Santos Roque González, Alfonso Rodríguez y Juan del Castillo"
+       ],
+       [
+        "Presbíteros y mártires"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "En Argentina y Uruguay: Memoria"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 33, 18"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los justos clamaron, y el Señor los escuchó y los libró de todas sus angustias."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios nuestro, te pedimos que tu palabra, sembrada por san Roque González y sus compañeros mártires, produzca el ciento por uno en frutos de santidad y justicia. Por nuestro Señor Jesucristo, tu Hijo que vive y reina contigo en la unidad del Espíritu Santo, y es Dios, por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, al recordar el martirio de tus santos Roque y compañeros, haz que por este sacrificio anunciemos dignamente la muerte de tu Hijo unigénito, que no sólo exhortó de palabra a sus testigos sino que los precedió con el ejemplo. Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Rom 8, 38-39"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ni la muerte ni la vida, ni criatura alguna podrá separarnos jamás del amor de Cristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Saciados con el pan del cielo, te suplicamos, Padre, que, a ejemplo de los santos Roque y compañeros, imprimas en nuestros corazones los signos del amor y de la pasión de tu Hijo y nos permitas gozar siempre de tu paz. El que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.11-17.argentina-paraguay-uruguay",
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "title": {
+  "*": "Santos Roque González, Alfonso Rodríguez y Juan del Castillo — Presbíteros y mártires"
+ }
+}

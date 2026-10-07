@@ -1,1 +1,175 @@
-{"id":"sanctorale.07-17.brazil","source":"santos/santos_brasil#0717","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(nas dioceses de Brasil)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["17 de julho"],["Bem-aventurado Inácio de Azevedo, presbítero, e seus companheiros, mártires"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Inácio de Azevedo nasceu no Porto, de família ilustre, em 1526; entrou na Companhia de Jesus em 1548 e foi ordenado sacerdote em 1553. Mais tarde partiu para o Brasil, a fim de se consagrar ao apostolado missionário. Tendo voltado à pátria, conseguiu recrutar numerosos colaboradores para sua obra evangelizadora. Na viagem de regresso, ao largo das ilhas Canárias, interceptados pelos corsários anticatólicos no dia 15 de julho de 1570, sofreu o martírio. Os trinta e nove companheiros que iam na mesma nau (31 portugueses o 8 espanhois) foram também martirizados no mesmo dia ou no dia seguinte. Foram Beatificados pelo Papa Pio IX em 1854."]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Oração do dia"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Ó Deus, que escolhestes Inácio de Azevedo e seus trinta e nove companheiros para regarem com seu sangue as primeiras sementes do Evangelho lançadas na Terra de Santa Cruz, concedei-nos professar constantemente, para vossa maior gloria, a fé que recebemos de nossos antepassados. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"3","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"lectionary":"sanctorale.07-17.brazil","prefaces":["preface.54","preface.55"],"title":{"*":"Bem-aventurado Inácio de Azevedo, presbítero, e seus companheiros, mártires"}}
+{
+ "id": "sanctorale.07-17.brazil",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(nas dioceses de Brasil)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 de julho"
+       ],
+       [
+        "Bem-aventurado Inácio de Azevedo, presbítero, e seus companheiros, mártires"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Inácio de Azevedo nasceu no Porto, de família ilustre, em 1526; entrou na Companhia de Jesus em 1548 e foi ordenado sacerdote em 1553. Mais tarde partiu para o Brasil, a fim de se consagrar ao apostolado missionário. Tendo voltado à pátria, conseguiu recrutar numerosos colaboradores para sua obra evangelizadora. Na viagem de regresso, ao largo das ilhas Canárias, interceptados pelos corsários anticatólicos no dia 15 de julho de 1570, sofreu o martírio. Os trinta e nove companheiros que iam na mesma nau (31 portugueses o 8 espanhois) foram também martirizados no mesmo dia ou no dia seguinte. Foram Beatificados pelo Papa Pio IX em 1854."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração do dia"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que escolhestes Inácio de Azevedo e seus trinta e nove companheiros para regarem com seu sangue as primeiras sementes do Evangelho lançadas na Terra de Santa Cruz, concedei-nos professar constantemente, para vossa maior gloria, a fé que recebemos de nossos antepassados. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.07-17.brazil",
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "title": {
+  "*": "Bem-aventurado Inácio de Azevedo, presbítero, e seus companheiros, mártires"
+ }
+}

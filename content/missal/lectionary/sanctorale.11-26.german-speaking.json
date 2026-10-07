@@ -1,1 +1,1868 @@
-{"id":"sanctorale.11-26.german-speaking","source":"lecturas/lecturas_santos_nov#1126","items":[{"slot":"189","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[in den Diözesen deutscher Sprache]"}]]},{"k":"h2","lines":[["26. November"],["Hl. Konrad und hl. Gebhard, Bischöfe"]]}]}},{"slot":"190","text":{"*":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch Jesus Sirach"]],"cite":"44, 1-2. 3b-4. 7. 10. 14-15","role":"announcement"},{"k":"p","lines":[["Die ehrwürdigen Männer will ich preisen, unsere Väter, wie sie aufeinander folgten. Viel Ehre hat der Höchste ausgeteilt, viel von seiner Größe, seit den Tagen der Vorzeit:"],["Männer, die berühmt waren durch ihre Macht; die Rat erteilten durch ihre Einsicht, die prophetisch alle Dinge erschauten; Fürsten des Volkes wegen ihrer Klugheit, angesehen wegen ihres Scharfsinns; redekundig durch ihre Kenntnis der Schriften, Lehrer von Sinnsprüchen durch ihre Lebenserfahrung."],["Sie alle waren geehrt zu ihrer Zeit, und ihr Ruhm blühte in ihren Tagen. Sie sind die ehrwürdigen Männer, deren Hoffnung nicht vergeht."],["Ihr Leib ist in Frieden bestattet, ihr Name lebt fort von Geschlecht zu Geschlecht. Von ihrer Weisheit erzählt die Gemeinde, ihr Lob verkündet das versammelte Volk."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"191","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"3"}]]}]},"role":"rubric","part":"psalm","from":"readings.cps3"},{"slot":"43","text":{"la":[{"k":"p","lines":[],"cite":"Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)","role":"title"}],"pt-BR":[{"k":"p","lines":[],"cite":"Sl 39(40), 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)","role":"title"}],"en-US":[{"k":"p","lines":[],"cite":"Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)","role":"title"}],"es":[{"k":"p","lines":[],"cite":"Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)","role":"title"}],"it":[{"k":"p","lines":[],"cite":"Dal Salmo 39 (40)","role":"title"}],"fr":[{"k":"p","lines":[],"cite":"Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)","role":"title"}],"de":[{"k":"p","lines":[],"cite":"Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: vgl. 8a. 9a)","role":"title"}]},"part":"psalm","from":"readings.cps3"},{"slot":"44","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here I am, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"45","text":{"la":[{"k":"p","lines":[["Exspéctans exspectávi Dóminum,"],["et inténdit mihi."],["Et immísit in os meum cánticum novum,"],["carmen Deo nostro."]]}],"pt-BR":[{"k":"p","lines":[["Esperando, esperei no Senhor, e inclinando-se, ouviu meu clamor. Canto novo ele pôs em meus lábios, um poema em louvor ao Senhor."]]}],"en-US":[{"k":"p","lines":[["I waited, I waited for the Lord and he stooped down to me. He put a new song into my mouth, praise of our God."]]}],"es":[{"k":"p","lines":[["Yo esperaba con ansia al Señor;"],["él se inclinó y escuchó mi grito."],["Me puso en la boca un cántico nuevo,"],["un himno a nuestro Dios."]]}],"it":[{"k":"p","lines":[["Ho sperato, ho sperato nel Signore,"],["ed egli su di me si è chinato,"],["ha dato ascolto al mio grido."],["Mi ha messo sulla bocca un canto nuovo,"],["una lode al nostro Dio."]]}],"fr":[{"k":"p","lines":[["D'un grand espoir j'espérais le Seigneur : *"],["il s'est penché vers moi."],["En ma bouche il a mis un chant nouveau,"],["une louange à notre Dieu. *"]]}],"de":[{"k":"p","lines":[["Ich hoffte, ja ich hoffte auf den Herrn."],["Da neigte er sich mir zu und hörte mein Schreien."],["Er legte mir ein neues Lied in den Mund,"],["einen Lobgesang auf ihn, unsern Gott."]]}]},"role":"verse","part":"psalm","from":"readings.cps3"},{"slot":"46","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here am I, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"47","text":{"la":[{"k":"p","lines":[["Sacrifícium et oblatiónem noluísti,"],["aures autem fodísti mihi."],["Holocáustum et pro peccáto non postulásti,"],["tunc dixi: «Ecce vénio»."]]}],"pt-BR":[{"k":"p","lines":[["Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; Não pedistes ofertas nem vítimas, holocaustos por nossos pecados, e então eu vos disse: “Eis que venho\"!"]]}],"en-US":[{"k":"p","lines":[["You do not ask for sacrifice and offerings, but an open ear. You do not ask for holocaust and victim. Instead, here am I."]]}],"es":[{"k":"p","lines":[["Tú no quieres sacrificios ni ofrendas,"],["y, en cambio, me abriste el oído;"],["no pides holocaustos ni sacrificios expiatorios;"],["entonces yo digo: «Aquí estoy»."]]}],"it":[{"k":"p","lines":[["Sacrificio e offerta non gradisci,"],["gli orecchi mi hai aperto,"],["non hai chiesto olocausto né sacrificio per il peccato."],["Allora ho detto: «Ecco, io vengo."]]}],"fr":[{"k":"p","lines":[["Tu ne voulais ni offrande ni sacrifice,"],["tu as ouvert mes oreilles ; *"],["tu ne demandais ni holocauste ni victime,"],["alors j'ai dit : \" Voici, je viens."]]}],"de":[{"k":"p","lines":[["An Schlacht- und Speiseopfern hast du kein Gefallen,"],["Brand- und Sündopfer forderst du nicht."],["Doch das Gehör hast du mir eingepflanzt;"],["darum sage ich: Ja, ich komme."]]}]},"role":"verse","part":"psalm","from":"readings.cps3"},{"slot":"48","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here am I, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"49","text":{"la":[{"k":"p","lines":[["«In volúmine libri scriptum est de me"],["fácere voluntátem tuam."],["Deus meus, vólui,"],["et lex tua in præcórdiis meis»."]]}],"pt-BR":[{"k":"p","lines":[["Sobre mim está escrito no livro: ”Com prazer faço a vossa vontade, guardo em meu coração vossa lei\"!"]]}],"en-US":[{"k":"p","lines":[["In the scroll of the book it stands written that I should do your will. My God, I delight in your law in the depth of my heart."]]}],"es":[{"k":"p","lines":[["«—Como está escrito en mi libro— para hacer tu voluntad."],["Dios mío, lo quiero, y llevo tu ley en las entrañas»."]]}],"it":[{"k":"p","lines":[["Nel rotolo del libro su di me è scritto"],["di fare la tua volontà:"],["mio Dio, questo io desidero;"],["la tua legge è nel mio intimo»."]]}],"fr":[{"k":"p","lines":[["\" Dans le livre, est écrit pour moi"],["ce que tu veux que je fasse. *"],["Mon Dieu, voilà ce que j'aime :"],["ta loi me tient aux entrailles. \""]]}],"de":[{"k":"p","lines":[["In dieser Schriftrolle steht, was an mir geschehen ist."],["Deinen Willen zu tun, mein Gott, macht mir Freude,"],["deine Weisung trag‘ ich im Herzen."]]}]},"role":"verse","part":"psalm","from":"readings.cps3"},{"slot":"50","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here am I, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"51","text":{"la":[{"k":"p","lines":[["Annuntiávi iustítiam tuam in ecclésia magna;"],["ecce lábia mea non prohibébo, Dómine, tu scisti."]]}],"pt-BR":[{"k":"p","lines":[["Boas-novas de vossa justiça anunciei numa grande assembléia; vós sabeis: não fechei os meus lábios!"]]}],"en-US":[{"k":"p","lines":[["Your justice I have proclaim in the great assembly. My lips I have not sealed; you know it, O Lord."]]}],"es":[{"k":"p","lines":[["He proclamado tu justicia"],["ante la gran asamblea;"],["no he cerrado los labios, Señor, tú lo sabes."]]}],"it":[{"k":"p","lines":[["Ho annunciato la tua giustizia"],["nella grande assemblea; vedi:"],["non tengo chiuse le labbra,"],["Signore, tu lo sai."]]}],"fr":[{"k":"p","lines":[["J'annonce la justice"],["dans la grande assemblée ;"],["vois, je ne retiens pas mes lèvres,"],["Seigneur, tu le sais."]]}],"de":[{"k":"p","lines":[["Gerechtigkeit verkünde ich in großer Gemeinde,"],["meine Lippen verschließe ich nicht; Herr, du weißt es."]]}]},"role":"verse","part":"psalm","from":"readings.cps3"},{"slot":"52","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecce vénio, Dómine, ut fáciam voluntátem tuam."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Eis que venho fazer com prazer a vossa vontade, Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Here am I, Lord; I come to do your will."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Aquí estoy, Señor, para hacer tu voluntad."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ecco, Signore, io vengo per fare la tua volontà."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Me voici, Seigneur, je viens faire ta volonté."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."]]}]},"role":"people","part":"psalm","from":"readings.cps3"},{"slot":"192","text":{"*":[{"k":"p","lines":[[{"m":"link","t":"→","to":"readings.cpaly1"}]]}]},"part":"acclamation"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"8"}]]}]},"role":"rubric","part":"gospel","from":"readings.cpev8"},{"slot":"159","text":{"la":[{"k":"p","lines":[["Messis quidem multa, operarii autem pauci."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Lucam"]],"cite":"10, 1-9","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["A messe é grande, mas os trabalhadores são poucos."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Lucas"]],"cite":"10, 1-9","role":"announcement"}],"en-US":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Luke"]],"cite":"10:1-9","role":"announcement"}],"es":[{"k":"p","lines":[["La mies es abundante y los obreros pocos"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Lucas"]],"cite":"10, 1-9","role":"announcement"}],"it":[{"k":"p","lines":[["La messe è abbondante, ma sono pochi gli operai."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal Vangelo secondo Luca"]],"cite":"10, 1-9","role":"announcement"}],"fr":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Luc"]],"cite":"10, 1-9","role":"announcement"}],"de":[{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Lukas"]],"cite":"10, 1-9","role":"announcement"}]},"part":"gospel","from":"readings.cpev8"},{"slot":"160","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"role":"people","part":"gospel","from":"readings.cpev8"},{"slot":"161","text":{"la":[{"k":"p","lines":[["In illo témpore:"]]},{"k":"p","lines":[["Designávit Dóminus álios septuagínta duos et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. Et dicébat illis:"]]},{"k":"p","lines":[["«Messis quidem multa, operárii autem pauci; rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite; ecce ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta et néminem per viam salutavéritis."]]},{"k":"p","lines":[["In quamcúmque domum intravéritis, primum dícite: “Pax huic dómui”. Et si ibi fúerit fílius pacis, requiéscet super illam pax vestra; sin autem, ad vos revertétur. In eádem autem domo manéte edéntes et bibéntes, quæ apud illos sunt: dignus enim est operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte, quæ apponúntur vobis, et curáte infírmos, qui in illa sunt, et dícite illis: “Appropinquávit in vos regnum Dei”."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo: o Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir. E dizia-lhes: \"A messe é grande, mas os trabalhadores são poucos. Por isso, pedi ao dono da messe que mande trabalhadores para a colheita. Eis que vos envio como cordeiros para o meio de lobos. Não leveis bolsa, nem sacola, nem sandálias, e não cumprimenteis ninguém pelo caminho! Em qualquer casa em que entrardes, dizei primeiro: 'A paz esteja nesta casa!' Se ali morar um amigo da paz, a vossa paz repousará sobre ele; se não, ela voltará para vós. Permanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário. Não passeis de casa em casa. Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, curai os doentes que nela houver e dizei ao povo: 'O Reino de Deus está próximo de vós'\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["The Lord appointed seventy-two others and sent them out ahead of him, in pairs, to all the towns and places he himself was to visit. He said to them, 'The harvest is rich but the labourers are few, so ask the Lord of the harvest to send labourers to his harvest. Start off now, but remember, I am sending you out like lambs among wolves. Carry no purse, no haversack, no sandals. Salute no one on the road. Whatever house you go into, let your first words be, \"Peace to this house!\" And if a man of peace lives there, your peace will go and rest on him; if not, it will come back to you. Stay in the same house, taking what food and drink they have to offer, for the labourer deserves his wages; do not move from house to house. Whenever you go into a town where they make you welcome, eat what is set before you. Cure those in it who are sick, and say, \"The kingdom of God is very near to you\"."]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, designó el Señor otros setenta y dos, y los mandó delante de él, de dos en dos, a todos los pueblos y lugares adonde pensaba ir él."],["Y les decía:"],["«La mies es abundante y los obreros pocos; rogad, pues, al dueño de la mies que envíe obreros a su mies."],["¡Poneos en camino! Mirad que os envío como corderos en medio de lobos. No llevéis bolsa, ni alforja, ni sandalias; y no saludéis a nadie por el camino."],["Cuando entréis en una casa, decid primero: “Paz a esta casa”. Y si allí hay gente de paz, descansará sobre ellos vuestra paz; si no, volverá a vosotros."],["Quedaos en la misma casa, comiendo y bebiendo de lo que tengan: porque el obrero merece su salario. No andéis cambiando de casa en casa."],["Si entráis en una ciudad y os reciben, comed lo que os pongan, curad a los enfermos que haya en ella, y decidles: “El reino de Dios ha llegado a vosotros”»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, il Signore designò altri settantadue e li inviò a due a due davanti a sé in ogni città e luogo dove stava per recarsi."],["Diceva loro: «La messe è abbondante, ma sono pochi gli operai! Pregate dunque il signore della messe, perché mandi operai nella sua messe! Andate: ecco, vi mando come agnelli in mezzo a lupi; non portate borsa, né sacca, né sandali e non fermatevi a salutare nessuno lungo la strada."],["In qualunque casa entriate, prima dite: \"Pace a questa casa!\" Se vi sarà un figlio della pace, la vostra pace scenderà su di lui, altrimenti ritornerà su di voi. Restate in quella casa, mangiando e bevendo di quello che hanno, perché chi lavora ha diritto alla sua ricompensa. Non passate da una casa all'altra."],["Quando entrerete in una città e vi accoglieranno, mangiate quello che vi sarà offerto, guarite i malati che vi si trovano, e dite loro: \"È vicino a voi il regno di Dio\"»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, parmi les disciples, le Seigneur en désigna encore soixante-douze, et il les envoya deux par deux, en avant de lui, en toute ville et localité où lui-même allait se rendre. Il leur dit : \" La moisson est abondante, mais les ouvriers sont peu nombreux. Priez donc le maître de la moisson d'envoyer des ouvriers pour sa moisson. Allez ! Voici que je vous envoie comme des agneaux au milieu des loups. Ne portez ni bourse, ni sac, ni sandales, et ne saluez personne en chemin. Mais dans toute maison où vous entrerez, dites d'abord : \"Paix à cette maison.\" S'il y a là un ami de la paix, votre paix ira reposer sur lui ; sinon, elle reviendra sur vous. Restez dans cette maison, mangeant et buvant ce que l'on vous sert ; car l'ouvrier mérite son salaire. Ne passez pas de maison en maison. Dans toute ville où vous entrerez et où vous serez accueillis, mangez ce qui vous est présenté. Guérissez les malades qui s'y trouvent et dites-leur : \"Le règne de Dieu s'est approché de vous.\" \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit"],["suchte der Herr zweiundsiebzig andere Jünger aus und sandte sie zu zweit voraus in alle Städte und Ortschaften, in die er selbst gehen wollte. Er sagte zu ihnen:"],["Die Ernte ist groß, aber es gibt nur wenig Arbeiter. Bittet also den Herrn der Ernte, Arbeiter für seine Ernte auszusenden. Geht! Ich sende euch wie Schafe mitten unter die Wölfe. Nehmt keinen Geldbeutel mit, keine Vorratstasche und keine Schuhe! Grüßt niemand unterwegs!"],["Wenn ihr in ein Haus kommt, so sagt als Erstes: Friede diesem Haus! Und wenn dort ein Mann des Friedens wohnt, wird der Friede, den ihr ihm wünscht, auf ihm ruhen; andernfalls wird er zu euch zurückkehren. Bleibt in diesem Haus, esst und trinkt, was man euch anbietet; denn wer arbeitet, hat ein Recht auf seinen Lohn. Zieht nicht von einem Haus in ein anderes! Wenn ihr in eine Stadt kommt und man euch aufnimmt, so esst, was man euch vorsetzt. Heilt die Kranken, die dort sind, und sagt den Leuten: Das Reich Gottes ist euch nahe."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel","from":"readings.cpev8"},{"slot":"162","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel","from":"readings.cpev8"}],"title":{"*":"Hl. Konrad und hl. Gebhard, Bischöfe"}}
+{
+ "id": "sanctorale.11-26.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "26. November"
+       ],
+       [
+        "Hl. Konrad und hl. Gebhard, Bischöfe"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesus Sirach"
+       ]
+      ],
+      "cite": "44, 1-2. 3b-4. 7. 10. 14-15",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die ehrwürdigen Männer will ich preisen, unsere Väter, wie sie aufeinander folgten. Viel Ehre hat der Höchste ausgeteilt, viel von seiner Größe, seit den Tagen der Vorzeit:"
+       ],
+       [
+        "Männer, die berühmt waren durch ihre Macht; die Rat erteilten durch ihre Einsicht, die prophetisch alle Dinge erschauten; Fürsten des Volkes wegen ihrer Klugheit, angesehen wegen ihres Scharfsinns; redekundig durch ihre Kenntnis der Schriften, Lehrer von Sinnsprüchen durch ihre Lebenserfahrung."
+       ],
+       [
+        "Sie alle waren geehrt zu ihrer Zeit, und ihr Ruhm blühte in ihren Tagen. Sie sind die ehrwürdigen Männer, deren Hoffnung nicht vergeht."
+       ],
+       [
+        "Ihr Leib ist in Frieden bestattet, ihr Name lebt fort von Geschlecht zu Geschlecht. Von ihrer Weisheit erzählt die Gemeinde, ihr Lob verkündet das versammelte Volk."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 39(40), 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Dal Salmo 39 (40)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: vgl. 8a. 9a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here I am, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exspéctans exspectávi Dóminum,"
+       ],
+       [
+        "et inténdit mihi."
+       ],
+       [
+        "Et immísit in os meum cánticum novum,"
+       ],
+       [
+        "carmen Deo nostro."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esperando, esperei no Senhor, e inclinando-se, ouviu meu clamor. Canto novo ele pôs em meus lábios, um poema em louvor ao Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I waited, I waited for the Lord and he stooped down to me. He put a new song into my mouth, praise of our God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo esperaba con ansia al Señor;"
+       ],
+       [
+        "él se inclinó y escuchó mi grito."
+       ],
+       [
+        "Me puso en la boca un cántico nuevo,"
+       ],
+       [
+        "un himno a nuestro Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho sperato, ho sperato nel Signore,"
+       ],
+       [
+        "ed egli su di me si è chinato,"
+       ],
+       [
+        "ha dato ascolto al mio grido."
+       ],
+       [
+        "Mi ha messo sulla bocca un canto nuovo,"
+       ],
+       [
+        "una lode al nostro Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "D'un grand espoir j'espérais le Seigneur : *"
+       ],
+       [
+        "il s'est penché vers moi."
+       ],
+       [
+        "En ma bouche il a mis un chant nouveau,"
+       ],
+       [
+        "une louange à notre Dieu. *"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich hoffte, ja ich hoffte auf den Herrn."
+       ],
+       [
+        "Da neigte er sich mir zu und hörte mein Schreien."
+       ],
+       [
+        "Er legte mir ein neues Lied in den Mund,"
+       ],
+       [
+        "einen Lobgesang auf ihn, unsern Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrifícium et oblatiónem noluísti,"
+       ],
+       [
+        "aures autem fodísti mihi."
+       ],
+       [
+        "Holocáustum et pro peccáto non postulásti,"
+       ],
+       [
+        "tunc dixi: «Ecce vénio»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; Não pedistes ofertas nem vítimas, holocaustos por nossos pecados, e então eu vos disse: “Eis que venho\"!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You do not ask for sacrifice and offerings, but an open ear. You do not ask for holocaust and victim. Instead, here am I."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tú no quieres sacrificios ni ofrendas,"
+       ],
+       [
+        "y, en cambio, me abriste el oído;"
+       ],
+       [
+        "no pides holocaustos ni sacrificios expiatorios;"
+       ],
+       [
+        "entonces yo digo: «Aquí estoy»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrificio e offerta non gradisci,"
+       ],
+       [
+        "gli orecchi mi hai aperto,"
+       ],
+       [
+        "non hai chiesto olocausto né sacrificio per il peccato."
+       ],
+       [
+        "Allora ho detto: «Ecco, io vengo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu ne voulais ni offrande ni sacrifice,"
+       ],
+       [
+        "tu as ouvert mes oreilles ; *"
+       ],
+       [
+        "tu ne demandais ni holocauste ni victime,"
+       ],
+       [
+        "alors j'ai dit : \" Voici, je viens."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "An Schlacht- und Speiseopfern hast du kein Gefallen,"
+       ],
+       [
+        "Brand- und Sündopfer forderst du nicht."
+       ],
+       [
+        "Doch das Gehör hast du mir eingepflanzt;"
+       ],
+       [
+        "darum sage ich: Ja, ich komme."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«In volúmine libri scriptum est de me"
+       ],
+       [
+        "fácere voluntátem tuam."
+       ],
+       [
+        "Deus meus, vólui,"
+       ],
+       [
+        "et lex tua in præcórdiis meis»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sobre mim está escrito no livro: ”Com prazer faço a vossa vontade, guardo em meu coração vossa lei\"!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In the scroll of the book it stands written that I should do your will. My God, I delight in your law in the depth of my heart."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«—Como está escrito en mi libro— para hacer tu voluntad."
+       ],
+       [
+        "Dios mío, lo quiero, y llevo tu ley en las entrañas»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nel rotolo del libro su di me è scritto"
+       ],
+       [
+        "di fare la tua volontà:"
+       ],
+       [
+        "mio Dio, questo io desidero;"
+       ],
+       [
+        "la tua legge è nel mio intimo»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\" Dans le livre, est écrit pour moi"
+       ],
+       [
+        "ce que tu veux que je fasse. *"
+       ],
+       [
+        "Mon Dieu, voilà ce que j'aime :"
+       ],
+       [
+        "ta loi me tient aux entrailles. \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In dieser Schriftrolle steht, was an mir geschehen ist."
+       ],
+       [
+        "Deinen Willen zu tun, mein Gott, macht mir Freude,"
+       ],
+       [
+        "deine Weisung trag‘ ich im Herzen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annuntiávi iustítiam tuam in ecclésia magna;"
+       ],
+       [
+        "ecce lábia mea non prohibébo, Dómine, tu scisti."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Boas-novas de vossa justiça anunciei numa grande assembléia; vós sabeis: não fechei os meus lábios!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Your justice I have proclaim in the great assembly. My lips I have not sealed; you know it, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He proclamado tu justicia"
+       ],
+       [
+        "ante la gran asamblea;"
+       ],
+       [
+        "no he cerrado los labios, Señor, tú lo sabes."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho annunciato la tua giustizia"
+       ],
+       [
+        "nella grande assemblea; vedi:"
+       ],
+       [
+        "non tengo chiuse le labbra,"
+       ],
+       [
+        "Signore, tu lo sai."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "J'annonce la justice"
+       ],
+       [
+        "dans la grande assemblée ;"
+       ],
+       [
+        "vois, je ne retiens pas mes lèvres,"
+       ],
+       [
+        "Seigneur, tu le sais."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gerechtigkeit verkünde ich in großer Gemeinde,"
+       ],
+       [
+        "meine Lippen verschließe ich nicht; Herr, du weißt es."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "link",
+         "t": "→",
+         "to": "readings.cpaly1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "8"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "gospel",
+   "from": "common.pastors.gospel.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Messis quidem multa, operarii autem pauci."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Lucam"
+       ]
+      ],
+      "cite": "10, 1-9",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A messe é grande, mas os trabalhadores são poucos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+       ]
+      ],
+      "cite": "10, 1-9",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Luke"
+       ]
+      ],
+      "cite": "10:1-9",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La mies es abundante y los obreros pocos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Lucas"
+       ]
+      ],
+      "cite": "10, 1-9",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La messe è abbondante, ma sono pochi gli operai."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Luca"
+       ]
+      ],
+      "cite": "10, 1-9",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Luc"
+       ]
+      ],
+      "cite": "10, 1-9",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Lukas"
+       ]
+      ],
+      "cite": "10, 1-9",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Designávit Dóminus álios septuagínta duos et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. Et dicébat illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Messis quidem multa, operárii autem pauci; rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite; ecce ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta et néminem per viam salutavéritis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quamcúmque domum intravéritis, primum dícite: “Pax huic dómui”. Et si ibi fúerit fílius pacis, requiéscet super illam pax vestra; sin autem, ad vos revertétur. In eádem autem domo manéte edéntes et bibéntes, quæ apud illos sunt: dignus enim est operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte, quæ apponúntur vobis, et curáte infírmos, qui in illa sunt, et dícite illis: “Appropinquávit in vos regnum Dei”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo: o Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir. E dizia-lhes: \"A messe é grande, mas os trabalhadores são poucos. Por isso, pedi ao dono da messe que mande trabalhadores para a colheita. Eis que vos envio como cordeiros para o meio de lobos. Não leveis bolsa, nem sacola, nem sandálias, e não cumprimenteis ninguém pelo caminho! Em qualquer casa em que entrardes, dizei primeiro: 'A paz esteja nesta casa!' Se ali morar um amigo da paz, a vossa paz repousará sobre ele; se não, ela voltará para vós. Permanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário. Não passeis de casa em casa. Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, curai os doentes que nela houver e dizei ao povo: 'O Reino de Deus está próximo de vós'\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord appointed seventy-two others and sent them out ahead of him, in pairs, to all the towns and places he himself was to visit. He said to them, 'The harvest is rich but the labourers are few, so ask the Lord of the harvest to send labourers to his harvest. Start off now, but remember, I am sending you out like lambs among wolves. Carry no purse, no haversack, no sandals. Salute no one on the road. Whatever house you go into, let your first words be, \"Peace to this house!\" And if a man of peace lives there, your peace will go and rest on him; if not, it will come back to you. Stay in the same house, taking what food and drink they have to offer, for the labourer deserves his wages; do not move from house to house. Whenever you go into a town where they make you welcome, eat what is set before you. Cure those in it who are sick, and say, \"The kingdom of God is very near to you\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, designó el Señor otros setenta y dos, y los mandó delante de él, de dos en dos, a todos los pueblos y lugares adonde pensaba ir él."
+       ],
+       [
+        "Y les decía:"
+       ],
+       [
+        "«La mies es abundante y los obreros pocos; rogad, pues, al dueño de la mies que envíe obreros a su mies."
+       ],
+       [
+        "¡Poneos en camino! Mirad que os envío como corderos en medio de lobos. No llevéis bolsa, ni alforja, ni sandalias; y no saludéis a nadie por el camino."
+       ],
+       [
+        "Cuando entréis en una casa, decid primero: “Paz a esta casa”. Y si allí hay gente de paz, descansará sobre ellos vuestra paz; si no, volverá a vosotros."
+       ],
+       [
+        "Quedaos en la misma casa, comiendo y bebiendo de lo que tengan: porque el obrero merece su salario. No andéis cambiando de casa en casa."
+       ],
+       [
+        "Si entráis en una ciudad y os reciben, comed lo que os pongan, curad a los enfermos que haya en ella, y decidles: “El reino de Dios ha llegado a vosotros”»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, il Signore designò altri settantadue e li inviò a due a due davanti a sé in ogni città e luogo dove stava per recarsi."
+       ],
+       [
+        "Diceva loro: «La messe è abbondante, ma sono pochi gli operai! Pregate dunque il signore della messe, perché mandi operai nella sua messe! Andate: ecco, vi mando come agnelli in mezzo a lupi; non portate borsa, né sacca, né sandali e non fermatevi a salutare nessuno lungo la strada."
+       ],
+       [
+        "In qualunque casa entriate, prima dite: \"Pace a questa casa!\" Se vi sarà un figlio della pace, la vostra pace scenderà su di lui, altrimenti ritornerà su di voi. Restate in quella casa, mangiando e bevendo di quello che hanno, perché chi lavora ha diritto alla sua ricompensa. Non passate da una casa all'altra."
+       ],
+       [
+        "Quando entrerete in una città e vi accoglieranno, mangiate quello che vi sarà offerto, guarite i malati che vi si trovano, e dite loro: \"È vicino a voi il regno di Dio\"»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, parmi les disciples, le Seigneur en désigna encore soixante-douze, et il les envoya deux par deux, en avant de lui, en toute ville et localité où lui-même allait se rendre. Il leur dit : \" La moisson est abondante, mais les ouvriers sont peu nombreux. Priez donc le maître de la moisson d'envoyer des ouvriers pour sa moisson. Allez ! Voici que je vous envoie comme des agneaux au milieu des loups. Ne portez ni bourse, ni sac, ni sandales, et ne saluez personne en chemin. Mais dans toute maison où vous entrerez, dites d'abord : \"Paix à cette maison.\" S'il y a là un ami de la paix, votre paix ira reposer sur lui ; sinon, elle reviendra sur vous. Restez dans cette maison, mangeant et buvant ce que l'on vous sert ; car l'ouvrier mérite son salaire. Ne passez pas de maison en maison. Dans toute ville où vous entrerez et où vous serez accueillis, mangez ce qui vous est présenté. Guérissez les malades qui s'y trouvent et dites-leur : \"Le règne de Dieu s'est approché de vous.\" \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "suchte der Herr zweiundsiebzig andere Jünger aus und sandte sie zu zweit voraus in alle Städte und Ortschaften, in die er selbst gehen wollte. Er sagte zu ihnen:"
+       ],
+       [
+        "Die Ernte ist groß, aber es gibt nur wenig Arbeiter. Bittet also den Herrn der Ernte, Arbeiter für seine Ernte auszusenden. Geht! Ich sende euch wie Schafe mitten unter die Wölfe. Nehmt keinen Geldbeutel mit, keine Vorratstasche und keine Schuhe! Grüßt niemand unterwegs!"
+       ],
+       [
+        "Wenn ihr in ein Haus kommt, so sagt als Erstes: Friede diesem Haus! Und wenn dort ein Mann des Friedens wohnt, wird der Friede, den ihr ihm wünscht, auf ihm ruhen; andernfalls wird er zu euch zurückkehren. Bleibt in diesem Haus, esst und trinkt, was man euch anbietet; denn wer arbeitet, hat ein Recht auf seinen Lohn. Zieht nicht von einem Haus in ein anderes! Wenn ihr in eine Stadt kommt und man euch aufnimmt, so esst, was man euch vorsetzt. Heilt die Kranken, die dort sind, und sagt den Leuten: Das Reich Gottes ist euch nahe."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.8"
+  }
+ ],
+ "title": {
+  "*": "Hl. Konrad und hl. Gebhard, Bischöfe"
+ }
+}

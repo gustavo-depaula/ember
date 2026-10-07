@@ -1,0 +1,518 @@
+{
+ "id": "common.holy-men-and-women.first-reading.13",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "13"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Humilia te, et coram Deo invenies gratiam."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Ecclesiástici"
+       ]
+      ],
+      "cite": "3, 19-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fili, in mansuetúdine ópera tua pérfice et super hóminem datórem diligéris. Quanto magnus es, humília te in ómnibus et coram Deo invénies grátiam. Multi sunt excélsi et gloriósi, sed mansuétis revélat mystéria sua. Quóniam magna poténtia Dei solíus, et ab humílibus honorátur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Altióra te ne quæsíeris et fortióra te ne scrutátus fúeris; sed, quæ præcépit tibi Deus, illa cógita semper et in plúribus opéribus eius ne fúeris curiósus. Non est enim tibi necessárium ea, quæ abscóndita sunt, vidére óculis tuis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In supervácuis rebus noli scrutári multiplíciter; plúrima enim super sensum hóminum osténsa sunt tibi. Multos quoque supplantávit suspício illórum, et spécies vana decépit sensus illórum. Sine pupílla déerit lux, sine sciéntia déerit sapiéntia."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deverás praticar a humildade, e assim encontrarás graça diante do Senhor."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Eclesiástico"
+       ]
+      ],
+      "cite": "3, 19-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Filho, realiza teus trabahos com mansidão e serás amado mais do que um homem generoso. Na medida em que fores grande, deverás praticar a humildade e assim encontrarás graça diante do Senhor. Muitos são altaneiros e ilustres, mas é aos humildes que ele revela seus mistérios. Pois grande é o poder do Senhor, mas ele é glorificado pelos humildes. Não procures o que é muito difícil para ti, nem investigues o que ultrapassa as tuas forças; pensa apenas no que te foi mandado por Deus, e não sejas curioso acerca das suas várias obras, pois tu não precisas ver com os teus olhos o que está oculto. Não te esgotes com o que ultrapassa tuas forças pois já te foi mostrado mais do que os homens compreendem. A opinião propria já extraviou a muitos; más teorias desviaram seus pensamentos. Sem a pupila, falta-te a luz; sem o conhecimento, não terás sabedoria."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the the Book of Sirach"
+       ]
+      ],
+      "cite": "3:17-24",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "My son, conduct your affairs with humility,"
+       ],
+       [
+        "and you will be loved more than a giver of gifts."
+       ],
+       [
+        "Humble yourself the more, the greater you are,"
+       ],
+       [
+        "and you will find mercy in the sight of God."
+       ],
+       [
+        "For great is the power of the Lord;"
+       ],
+       [
+        "by the humble he is glorified."
+       ],
+       [
+        "What is too sublime for you, do not seek;"
+       ],
+       [
+        "do not reach into things that are hidden from you."
+       ],
+       [
+        "What is committed to you, pay heed to;"
+       ],
+       [
+        "what is hidden is not your concern."
+       ],
+       [
+        "In matters that are beyond you do not meddle,"
+       ],
+       [
+        "when you have been shown more than you can understand."
+       ],
+       [
+        "Indeed, many are the conceits of human beings;"
+       ],
+       [
+        "evil imaginations lead them astray."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Humíllate, y así alcanzarás el favor del Señor"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Eclesiástico"
+       ]
+      ],
+      "cite": "3, 17-24",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hijo, actúa con humildad en tus quehaceres,"
+       ],
+       [
+        "y te querrán más que al hombre generoso."
+       ],
+       [
+        "Cuanto más grande seas, más debes humillarte,"
+       ],
+       [
+        "y así alcanzarás el favor del Señor."
+       ],
+       [
+        "«Muchos son los altivos e ilustres,"
+       ],
+       [
+        "pero él revela sus secretos a los mansos»."
+       ],
+       [
+        "Porque grande es el poder del Señor"
+       ],
+       [
+        "y es glorificado por los humildes."
+       ],
+       [
+        "No pretendas lo que te sobrepasa,"
+       ],
+       [
+        "ni investigues lo que te excede."
+       ],
+       [
+        "Pon atención a lo que se te encomienda,"
+       ],
+       [
+        "y no seas indiscreto queriendo conocer sus muchas obras."
+       ],
+       [
+        "No necesitas ver con tus ojos las cosas que están escondidas."
+       ],
+       [
+        "No te afanes por lo que supera tus capacidades,"
+       ],
+       [
+        "pues ya te han enseñado cosas que te desbordan."
+       ],
+       [
+        "Pues a muchos desvió su presunción,"
+       ],
+       [
+        "y las falsas ilusiones extraviaron sus pensamientos."
+       ],
+       [
+        "Si no tienes pupilas, te faltará la luz;"
+       ],
+       [
+        "si careces de ciencia, no la proclames."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fatti umile, e troverai grazia davanti al Signore."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del Siracide"
+       ]
+      ],
+      "cite": "3, 19-26 (NV) [gr. 3, 17-25]",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Figlio, compi le tue opere con mitezza, e sarai amato più dì un uomo generoso. Quanto più sei grande, tanto più fatti umile, e troverai grazia davanti al Signore."
+       ],
+       [
+        "Molti sono gli uomini orgogliosi e superbi, ma ai miti Dio rivela i suoi segreti."
+       ],
+       [
+        "Perché grande è la potenza del Signore, e dagli umili egli è glorificato."
+       ],
+       [
+        "Non cercare cose troppo difficili per te e non scrutare cose troppo grandi per te."
+       ],
+       [
+        "Le cose che ti sono comandate, queste considera e non essere indiscreto nel voler conoscere le sue molteplici opere:"
+       ],
+       [
+        "non è per te necessario vedere con i tuoi occhi le cose che ti sono nascoste."
+       ],
+       [
+        "Non affaticarti in opere superflue, ti è stato mostrato infatti più di quanto possa comprendere la mente umana."
+       ],
+       [
+        "La presunzione ha fatto smarrire molti e le cattive illusioni hanno fuorviato i loro pensieri."
+       ],
+       [
+        "Se non hai le pupille, tu manchi di luce; se ti manca la scienza, non dare consigli."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de Ben Sirac le Sage"
+       ]
+      ],
+      "cite": "3, 19-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mon fils, accomplis toute chose dans l'humilité, et tu seras aimé plus qu'un bienfaiteur. Plus tu es grand, plus il faut t'abaisser : tu trouveras grâce devant le Seigneur. Beaucoup sont haut placés et glorieux, mais c'est aux humbles que le Seigneur révèle ses secrets. Grande est la puissance du Seigneur, et les humbles lui rendent gloire. Ne cherche pas ce qui est trop difficile pour toi, ne scrute pas ce qui est au-dessus de tes forces. Médite ce qu'on t'a prescrit : tu n'as pas à t'occuper des choses cachées. Ne sois pas curieux de ce qui te dépasse : déjà ce qu'on t'a enseigné est au-delà de l'esprit humain. Leur présomption a égaré bien des gens, leur manque de jugement a fait dévier leurs pensées."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesus Sirach"
+       ]
+      ],
+      "cite": "3, 17-25 (19-26)",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mein Sohn, bei all deinem Tun bleibe bescheiden, und du wirst mehr geliebt werden als einer, der Gaben verteilt. Je größer du bist, umso mehr bescheide dich, dann wirst du Gnade finden bei Gott. Denn groß ist die Macht Gottes, und von den Demütigen wird er verherrlicht."
+       ],
+       [
+        "Such nicht zu ergründen, was dir zu wunderbar ist, untersuch nicht, was dir verhüllt ist. Was dir zugewiesen ist, magst du durchforschen, doch das Verborgene hast du nicht nötig."
+       ],
+       [
+        "Such nicht hartnäckig zu erfahren, was deine Kraft übersteigt. Es ist schon zu viel, was du sehen darfst. Vielfältig sind die Gedanken der Menschen, schlimmer Wahn führt in die Irre. Wer kein Auge hat, dem fehlt das Licht, wer keine Einsicht hat, dem fehlt die Weisheit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

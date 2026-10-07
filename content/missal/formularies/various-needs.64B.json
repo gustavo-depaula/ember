@@ -1,1 +1,250 @@
-{"id":"various-needs.64B","source":"comunes_votivas/diversas#div064B","kind":"various-needs","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In the Dioceses of the United States]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["III. FOR VARIOUS OCCASIONS"]]}]},"part":"title"},{"text":{"*":[{"k":"h3","lines":[["48/1. FOR GIVING THANKS TO GOD FOR THE GIFT OF HUMAN LIFE"],["A"]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Entrance antiphon"]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["For the sake of your name, O Lord, give me life."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Collect"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["God our Creator,"],["we give thanks to you,"],["who alone have the power to impart the breath of life"],["as you form each of us in our mother's womb;"],["grant, we pray,"],["that we, whom you have made stewards of creation,"],["may remain faithful to this sacred trust"],["and constant in safeguarding the dignity of every human life. Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}]},"part":"collect"},{"text":{"*":[{"k":"h4","lines":[["Prayer over the Offerings"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Accept our humble offerings, O lord of the living,"],["and unite us to the perfect sacrifice of your Son, through whom you have made all creation new. Who lives and reigns for ever and ever."]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"h4","lines":[["Communion antiphon"]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["With you, O Lord, is the fountain of life, and in your light, we see light."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Prayer after communion"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Increase your love within us, lord God,"],["by the saving mysteries we have celebrated, and bring people everywhere"],["to respect your gift of human life."],["Through Christ our Lord."]]}]},"part":"postcommunion"}],"title":{"*":"III. FOR VARIOUS OCCASIONS"}}
+{
+ "id": "various-needs.64B",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In the Dioceses of the United States]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "III. FOR VARIOUS OCCASIONS"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "48/1. FOR GIVING THANKS TO GOD FOR THE GIFT OF HUMAN LIFE"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For the sake of your name, O Lord, give me life."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "God our Creator,"
+       ],
+       [
+        "we give thanks to you,"
+       ],
+       [
+        "who alone have the power to impart the breath of life"
+       ],
+       [
+        "as you form each of us in our mother's womb;"
+       ],
+       [
+        "grant, we pray,"
+       ],
+       [
+        "that we, whom you have made stewards of creation,"
+       ],
+       [
+        "may remain faithful to this sacred trust"
+       ],
+       [
+        "and constant in safeguarding the dignity of every human life. Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accept our humble offerings, O lord of the living,"
+       ],
+       [
+        "and unite us to the perfect sacrifice of your Son, through whom you have made all creation new. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "With you, O Lord, is the fountain of life, and in your light, we see light."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Increase your love within us, lord God,"
+       ],
+       [
+        "by the saving mysteries we have celebrated, and bring people everywhere"
+       ],
+       [
+        "to respect your gift of human life."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "*": "III. FOR VARIOUS OCCASIONS"
+ }
+}

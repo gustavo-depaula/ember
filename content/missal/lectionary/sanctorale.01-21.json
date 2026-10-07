@@ -1,1 +1,2495 @@
-{"id":"sanctorale.01-21","source":"lecturas/lecturas_santos_ene#0121","items":[{"slot":"115","text":{"la":[{"k":"h2","lines":[["Die 21 ianuarii"],["S. Agnetis, virginis et martyris"]]},{"k":"h3","lines":[["Memoria"]]}],"pt-BR":[{"k":"h2","lines":[["21 de Janeiro"],["Santa Inês, virgem e mártir"]]},{"k":"h3","lines":[["Memória"]]}],"en-US":[{"k":"h2","lines":[["Ianuary 21"],["St. Agnes, virgin and martyr"]]},{"k":"h3","lines":[["Memorial"]]}],"es":[{"k":"h2","lines":[["21 de enero"],["Santa Inés, virgen y mártir"]]},{"k":"h3","lines":[["Memoria"]]}],"it":[{"k":"h2","lines":[["21 Gennaio"],["Sant'Agnese, vergine e martire"]]},{"k":"h3","lines":[["Memoria"]]}],"fr":[{"k":"h2","lines":[["21 janvier"],["Sainte Agnès, vierge et martyre"]]},{"k":"h3","lines":[["Mémoire"]]}],"de":[{"k":"h2","lines":[["21. Januar"],["Hl. Agnes, Jungfrau, Märtyrin"]]},{"k":"h3","lines":[["Gedenktag"]]}]}},{"slot":"116","text":{"la":[{"k":"p","lines":[["Lectio prior"]],"role":"title"},{"k":"p","lines":[["Infirma mundi elegit Deus."]],"role":"summary"},{"k":"p","lines":[["Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"]],"cite":"1, 26-31","role":"announcement"},{"k":"p","lines":[["Vidéte vocatiónem vestram, fratres; quia non multi sapiéntes secúndum carnem, non multi poténtes, non multi nóbiles; sed, quæ stulta sunt mundi, elégit Deus, ut confúndat sapiéntes, et infírma mundi elégit Deus, ut confúndat fórtia, et ignobília mundi et contemptibília elégit Deus, quæ non sunt, ut ea, quæ sunt, destrúeret, ut non gloriétur omnis caro in conspéctu Dei."]]},{"k":"p","lines":[["Ex ipso autem vos estis in Christo Iesu, qui factus est sapiéntia nobis a Deo et iustítia et sanctificátio et redémptio, ut quemádmodum scriptum est: «Qui gloriátur, in Dómino gloriétur»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Primeira Leitura"]],"role":"title"},{"k":"p","lines":[["Deus escolheu o que o mundo considera como fraco."]],"role":"summary"},{"k":"p","lines":[["Leitura da Primeira Carta de São Paulo aos Coríntios"]],"cite":"1, 26-31","role":"announcement"},{"k":"p","lines":[["Irmãos, considerai vós mesmos, como fostes chamados por Deus. Pois entre vós não há muitos sábios de sabedoria humana nem muitos poderosos nem muitos nobres. Na verdade, Deus escolheu o que o mundo considera como estúpido, para assim confundir os sábios; Deus escolheu o que o mundo considera como fraco, para assim confundir o que é forte; Deus escolheu o que para o mundo é sem importância e desprezado, o que não tem nenhuma serventia, para assim mostrar a inutilidade do que é considerado importante, para que ninguém possa gloriar-se diante dele. É graças a ele que vós estais em Cristo Jesus, o qual se tornou para nós, da parte de Deus: sabedoria, justiça, santificação e libertação, para que, como está escrito, \"quem se gloria, glorie-se no Senhor\"."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["First Reading"]],"role":"title"},{"k":"p","lines":[["A reading from the first Letter of Saint Paul to the Corinthians"]],"cite":"1:26-31","role":"announcement"},{"k":"p","lines":[["Take yourselves for instance, brothers, at the time when you were called: how many of you were wise in the ordinary sense of the word, how many were influential people, or came from noble families? No, it was to shame the wise that God chose what is foolish by human reckoning, and to shame what is strong that he chose what is weak by human reckoning; those whom the world thinks common and contemptible are the ones that God has chosen - those who are nothing at all to show up those who are everything. The human race has nothing to boast about to God, but you, God has made members of Christ Jesus and by God's doing he has become our wisdom, and our virtue, and our holiness, and our freedom. As scripture says: if anyone wants to boast, let him boast about the Lord."]]},{"k":"p","lines":[["The Word of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Primera Lectura"]],"role":"title"},{"k":"p","lines":[["Dios ha escogido lo débil del mundo"]],"role":"summary"},{"k":"p","lines":[["Lectura de la primera carta del apóstol san Pablo a los Corintios"]],"cite":"1, 26-31","role":"announcement"},{"k":"p","lines":[["Fijaos en vuestra asamblea, hermanos: no hay en ella muchos sabios en lo humano, ni muchos poderosos, ni muchos aristócratas; sino que, lo necio del mundo lo ha escogido Dios para humillar a los sabios, y lo débil del mundo lo ha escogido Dios para humillar lo poderoso."],["Aún más, ha escogido la gente baja del mundo, lo despreciable, lo que no cuenta, para anular a lo que cuenta, de modo que nadie pueda gloriarse en presencia del Señor."],["A él se debe que vosotros estéis en Cristo Jesús, el cual se ha hecho para nosotros sabiduría de parte de Dios, justicia, santificación y redención."],["Y así —como está escrito—: «el que se gloríe, que se gloríe en el Señor»."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Prima lettura"]],"role":"title"},{"k":"p","lines":[["Dio ha scelto quello che è debole per il mondo."]],"role":"summary"},{"k":"p","lines":[["Dalla prima lettera di san Paolo apostolo ai Corinzi"]],"cite":"1, 26-31","role":"announcement"},{"k":"p","lines":[["Considerate la vostra chiamata, fratelli: non ci sono fra voi molti sapienti dal punto di vista umano, né molti potenti, né molti nobili."],["Ma quello che è stolto per il mondo, Dio lo ha scelto per confondere i sapienti; quello che è debole per il mondo, Dio lo ha scelto per confondere i forti; quello che è ignobile e disprezzato per il mondo, quello che è nulla, Dio lo ha scelto per ridurre al nulla le cose che sono, perché nessuno possa vantarsi di fronte a Dio."],["Grazie a lui voi siete in Cristo Gesù, il quale per noi è diventato sapienza per opera di Dio, giustizia, santificazione e redenzione, perché, come sta scritto, chi si vanta, si vanti nel Signore."]]},{"k":"p","lines":[["Parola di Dio."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Première lecture"]],"role":"title"},{"k":"p","lines":[["Première lettre de saint Paul Apôtre aux Corinthiens"]],"cite":"1, 26-31","role":"announcement"},{"k":"p","lines":[["Frères, vous qui avez été appelés par Dieu, regardez bien : parmi vous, il n'y a pas beaucoup de sages aux yeux des hommes, ni de gens puissants ou de haute naissance. Au contraire, ce qu'il y a de fou dans le monde, voilà ce que Dieu a choisi, pour couvrir de confusion les sages ; ce qu'il y a de faible dans le monde, voilà ce que Dieu a choisi, pour couvrir de confusion ce qui est fort ; ce qui est d'origine modeste, méprisé dans le monde, ce qui n'est pas, voilà ce que Dieu a choisi, pour réduire à rien ce qui est ; ainsi aucun être de chair ne pourra s'enorgueillir devant Dieu. C'est grâce à Dieu, en effet, que vous êtes dans le Christ Jésus, lui qui est devenu pour nous sagesse venant de Dieu, justice, sanctification, rédemption. Ainsi, comme il est écrit : Celui qui veut être fier, qu'il mette sa fierté dans le Seigneur."]]},{"k":"p","lines":[["Parole du Seigneur."]],"role":"conclusion"}],"de":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"]],"cite":"1, 26-31","role":"announcement"},{"k":"p","lines":[["Seht auf eure Berufung, Brüder! Da sind nicht viele Weise im irdischen Sinn, nicht viele Mächtige, nicht viele Vornehme, sondern das Törichte in der Welt hat Gott erwählt, um die Weisen zuschanden zu machen, und das Schwache in der Welt hat Gott erwählt, um das Starke zuschanden zu machen. Und das Niedrige in der Welt und das Verachtete hat Gott erwählt: das, was nichts ist, um das, was etwas ist, zu vernichten, damit kein Mensch sich rühmen kann vor Gott."],["Von ihm her seid ihr in Christus Jesus, den Gott für uns zur Weisheit gemacht hat, zur Gerechtigkeit, Heiligung und Erlösung. Wer sich also rühmen will, der rühme sich des Herrn; so heißt es schon in der Schrift."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"117","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"4"}]]}]},"role":"rubric","part":"psalm","from":"readings.csss4"},{"slot":"69","text":{"la":[{"k":"p","lines":[],"cite":"Ps 22, 1-3a. 3b-4. 5. 6 (: 1)","role":"title"}],"pt-BR":[{"k":"p","lines":[],"cite":"Sl 22, 1-3. 4. 5. 6 (R.: 1)","role":"title"}],"es":[{"k":"p","lines":[],"cite":"Sal 22, 1-3. 4. 5. 6 (R.: 1)","role":"title"}],"it":[{"k":"p","lines":[],"cite":"Dal Salmo 22 (23)","role":"title"}],"fr":[{"k":"p","lines":[],"cite":"Ps 22, 1-3a. 3b-4. 5. 6 (: 1)","role":"title"}],"de":[{"k":"p","lines":[],"cite":"Ps 23 (22), 1-3. 4. 5. 6 (R: 1)","role":"title"}]},"part":"psalm","from":"readings.csss4"},{"slot":"70","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dóminus pascit me, et nihil mihi déerit."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor é o pastor que me conduz, não me falta coisa alguma."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"The Lord is my shepherd; there is nothing I shall want."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore è il mio pastore: non manco di nulla."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le Seigneur est mon berger : rien ne saurait me manquer."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr ist mein Hirte, nichts wird mir fehlen."]]}]},"role":"people","part":"psalm","from":"readings.csss4"},{"slot":"71","text":{"la":[{"k":"p","lines":[["Dóminus pascit me, et nihil mihi déerit:"],["in páscuis viréntibus me collocávit,"],["super aquas quiétis edúxit me,"],["ánimam meam refécit."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha, e restaura as minhas forças."]]}],"en-US":[{"k":"p","lines":[["The Lord is my shepherd; there is nothing I shall want. Fresh and green are the pastures where he gives me repose. Near restful waters he leads me, to revive my drooping spirit."]]}],"es":[{"k":"p","lines":[["El Señor es mi pastor, nada me falta:"],["en verdes praderas me hace recostar;"],["me conduce hacia fuentes tranquilas"],["y repara mis fuerzas."]]}],"it":[{"k":"p","lines":[["Su pascoli erbosi mi fa riposare,"],["ad acque tranquille mi conduce."],["Rinfranca l'anima mia,"],["mi guida per il giusto cammino a motivo del suo nome."]]}],"fr":[{"k":"p","lines":[["Le Seigneur est mon berger :"],["je ne manque de rien. *"],["Sur des prés d'herbe fraîche,"],["il me fait reposer."]]}],"de":[{"k":"p","lines":[["Der Herr ist mein Hirte, nichts wird mir fehlen."],["Er lässt mich lagern auf grünen Auen"],["und führt mich zum Ruheplatz am Wasser."],["Er stillt mein Verlangen;"],["er leitet mich auf rechten Pfaden, treu seinem Namen."]]}]},"role":"verse","part":"psalm","from":"readings.csss4"},{"slot":"72","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dóminus pascit me, et nihil mihi déerit."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor é o pastor que me conduz, não me falta coisa alguma."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"The Lord is my shepherd; there is nothing I shall want."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore è il mio pastore: non manco di nulla."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le Seigneur est mon berger : rien ne saurait me manquer."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr ist mein Hirte, nichts wird mir fehlen."]]}]},"role":"people","part":"psalm","from":"readings.csss4"},{"slot":"73","text":{"la":[{"k":"p","lines":[["Dedúxit me super sémitas iustítiæ propter nomen suum."],["Nam et si ambulávero in valle umbræ mortis,"],["non timébo mala, quóniam tu mecum es."],["Virga tua et báculus tuus"],["ipsa me consoláta sunt."]]}],"pt-BR":[{"k":"p","lines":[["Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei. Estais comigo com bastão e com cajado, eles me dão a segurança!"]]}],"en-US":[{"k":"p","lines":[["He guides me along the right path; he is true to his name. If I should walk in the valley of darkness no evil would I fear. You are there with your crook and your staff; with these you give me comfort."]]}],"es":[{"k":"p","lines":[["Me guía por el sendero justo,"],["por el honor de su nombre."],["Aunque camine por cañadas oscuras,"],["nada temo, porque tú vas conmigo:"],["tu vara y tu cayado me sosiegan."]]}],"it":[{"k":"p","lines":[["Anche se vado per una valle oscura,"],["non temo alcun male, perché tu sei con me."],["Il tuo bastone e il tuo vincastro"],["mi danno sicurezza."]]}],"fr":[{"k":"p","lines":[["Il me mène vers les eaux tranquilles"],["et me fait revivre ; *"],["il me conduit par le juste chemin"],["pour l'honneur de son nom."]]}],"de":[{"k":"p","lines":[["Muss ich auch wandern in finsterer Schlucht,"],["ich fürchte kein Unheil;"],["denn du bist bei mir,"],["dein Stock und dein Stab geben mir Zuversicht."]]}]},"role":"verse","part":"psalm","from":"readings.csss4"},{"slot":"74","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dóminus pascit me, et nihil mihi déerit."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor é o pastor que me conduz, não me falta coisa alguma."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"The Lord is my shepherd; there is nothing I shall want."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore è il mio pastore: non manco di nulla."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le Seigneur est mon berger : rien ne saurait me manquer."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr ist mein Hirte, nichts wird mir fehlen."]]}]},"role":"people","part":"psalm","from":"readings.csss4"},{"slot":"75","text":{"la":[{"k":"p","lines":[["Parásti in conspéctu meo mensam"],["advérsus eos qui tríbulant me;"],["impinguásti in óleo caput meum,"],["et calix meus redúndat."]]}],"pt-BR":[{"k":"p","lines":[["Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça, e o meu cálice transborda."]]}],"en-US":[{"k":"p","lines":[["You have prepared a banquet for me in the sight of my foes. My head you have anointed with oil; my cup is overflowing."]]}],"es":[{"k":"p","lines":[["Preparas una mesa ante mí,"],["enfrente de mis enemigos;"],["me unges la cabeza con perfume,"],["y mi copa rebosa."]]}],"it":[{"k":"p","lines":[["Davanti a me tu prepari una mensa"],["sotto gli occhi dei miei nemici."],["Ungi di olio il mio capo;"],["il mio calice trabocca."]]}],"fr":[{"k":"p","lines":[["Si je traverse les ravins de la mort,"],["je ne crains aucun mal, *"],["car tu es avec moi :"],["ton bâton me guide et me rassure."]]}],"de":[{"k":"p","lines":[["Du deckst mir den Tisch"],["vor den Augen meiner Feinde."],["Du salbst mein Haupt mit Öl,"],["du füllst mir reichlich den Becher."]]}]},"role":"verse","part":"psalm","from":"readings.csss4"},{"slot":"76","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dóminus pascit me, et nihil mihi déerit."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor é o pastor que me conduz, não me falta coisa alguma."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"The Lord is my shepherd; there is nothing I shall want."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore è il mio pastore: non manco di nulla."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le Seigneur est mon berger : rien ne saurait me manquer."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr ist mein Hirte, nichts wird mir fehlen."]]}]},"role":"people","part":"psalm","from":"readings.csss4"},{"slot":"77","text":{"la":[{"k":"p","lines":[["Etenim benígnitas et misericórdia subsequéntur me"],["ómnibus diébus vitæ meæ,"],["et inhabitábo in domo Dómini"],["in longitúdinem diérum."]]}],"pt-BR":[{"k":"p","lines":[["Felicidade e todo bem hão de seguir-me, por toda a minha vida; e na casa do Senhor, habitarei pelos tempos infinitos."]]}],"en-US":[{"k":"p","lines":[["Surely goodness and kindness shall follow me all the days of my life. In the Lord's own house shall I dwell for ever and ever."]]}],"es":[{"k":"p","lines":[["Tu bondad y tu misericordia me acompañan"],["todos los días de mi vida,"],["y habitaré en la casa del Señor"],["por años sin término."]]}],"it":[{"k":"p","lines":[["Sì, bontà e fedeltà mi saranno compagne"],["tutti i giorni della mia vita,"],["abiterò ancora nella casa del Signore"],["per lunghi giorni."]]}],"fr":[{"k":"p","lines":[["Tu prépares la table pour moi"],["devant mes ennemis ; *"],["tu répands le parfum sur ma tête,"],["ma coupe est débordante."],["Grâce et bonheur m'accompagnent"],["tous les jours de ma vie ; *"],["j'habiterai la maison du Seigneur"],["pour la durée de mes jours."]]}],"de":[{"k":"p","lines":[["Lauter Güte und Huld"],["werden mir folgen mein Leben lang,"],["und im Haus des Herrn"],["darf ich wohnen für lange Zeit."]]}]},"role":"verse","part":"psalm","from":"readings.csss4"},{"slot":"78","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dóminus pascit me, et nihil mihi déerit."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor é o pastor que me conduz, não me falta coisa alguma."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"The Lord is my shepherd; there is nothing I shall want."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El Señor es mi pastor, nada me falta."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore è il mio pastore: non manco di nulla."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Le Seigneur est mon berger : rien ne saurait me manquer."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr ist mein Hirte, nichts wird mir fehlen."]]}]},"role":"people","part":"psalm","from":"readings.csss4"},{"slot":"118","text":{"la":[{"k":"p","lines":[["Alleluia"]],"cite":"Io 15, 9b. 5b","role":"title"},{"k":"p","lines":[["Allelúia."],["Mánete in dilectióne mea, dicit Dóminus;"],["qui manet in me et ego in eo, hic fert fructum multum."],["Allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Aclamação ao Evangelho"]],"cite":"Jo 15, 9b. 5b","role":"title"},{"k":"p","lines":[["Aleluia, aleluia."],["Ficai em meu amor, assim fala o Senhor, quem em mim permanece e no qual permaneço esse dá muito fruto!"],["Aleluia."]]}],"en-US":[{"k":"p","lines":[["Gospel Acclamation"]],"cite":"Jn 15:9.5","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Remain in my love, says the Lord; Whoever remains in me and I in him will bear much fruit."],["Alleluia."]]}],"es":[{"k":"p","lines":[["Aleluya"]],"cite":"Jn 15, 9b. 5b","role":"title"},{"k":"p","lines":[["Aleluya."],["Permaneced en mi amor —dice el Señor—;"],["el que permanece en mí y yo en él, ese da fruto abundante."],["Aleluya."]]}],"it":[{"k":"p","lines":[["Canto al Vangelo"]],"cite":"Gv 15, 9b.5b","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Rimanete nel mio amore, dice il Signore, chi rimane in me, e io in lui, porta molto frutto."],["Alleluia."]]}],"fr":[{"k":"p","lines":[["Alléluia"]],"cite":"Io 15, 9b. 5b","role":"title"},{"k":"p","lines":[["Alléluia"],["Demeurez dans mon amour, dit le Seigneur. Celui qui demeure en moi et en qui je demeure, celui-là porte beaucoup de fruit."],["Alléluia"]]}],"de":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"cite":"Joh 15, 9b. 5b","role":"title"},{"k":"p","lines":[["Halleluja. Halleluja."],["(So spricht der Herr:) Bleibt in meiner Liebe! Wer in mir bleibt und in wem ich bleibe, der bringt reiche Frucht."],["Halleluja."]]}]},"part":"acclamation"},{"slot":"119","text":{"la":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[["Vendit universa, quæ habet, et emit agrum illum."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Matthǽum"]],"cite":"13, 44-46","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Evangelho"]],"role":"title"},{"k":"p","lines":[["Ele vende todos os seus bens e compra aquele campo."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Mateus"]],"cite":"Mt 13, 44-46","role":"announcement"}],"en-US":[{"k":"p","lines":[["Gospel"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Matthew"]],"cite":"13:44-46","role":"announcement"}],"es":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["Vende todo lo que tiene y compra el campo"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Mateo"]],"cite":"Mt 13, 44-46","role":"announcement"}],"it":[{"k":"p","lines":[["Vangelo"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal vangelo secondo Matteo"]],"cite":"13, 44-46","role":"announcement"}],"fr":[{"k":"p","lines":[["Proclamation de l'Évangile"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Matthieu"]],"cite":"13, 44-46","role":"announcement"}],"de":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"13, 44-46","role":"announcement"}]},"part":"gospel"},{"slot":"120","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"121","text":{"la":[{"k":"p","lines":[["In illo témpore: Dixit Iesus turbis:"]]},{"k":"p","lines":[["«Símile est regnum cælórum thesáuro abscóndito in agro; quem qui invénit homo abscóndit et præ gáudio illíus vadit et vendit univérsa, quæ habet, et emit agrum illum."]]},{"k":"p","lines":[["Iterum símile est regnum cælórum hómini negotiatóri quærénti bonas margarítas. Invénta autem una pretiósa margaríta, ábiit et véndidit ómnia, quæ hábuit, et emit eam»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, disse Jesus à multidão: \"O Reino dos Céus é como um tesouro escondido no campo. Um homem o encontra e o mantém escondido. Cheio de alegria, ele vai, vende todos os seus bens e compra aquele campo. O Reino dos Céus também é como um comprador que procura pérolas preciosas. Quando encontra uma pérola de grande valor, ele vai, vende todos os seus bens e compra aquela pérola\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["Jesus said to the crowds: 'The kingdom of heaven is like treasure hidden in a field which someone has found; he hides it again, goes off happy, sells everything he owns and buys the field. 'Again, the kingdom of heaven is like a merchant looking for fine pearls; when he finds one of great value he goes and sells everything he owns and buys it."]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, dijo Jesús a la gente:"],["«El reino de los cielos se parece a un tesoro escondido en el campo: el que lo encuentra, lo vuelve a esconder y, lleno de alegría, va a vender todo lo que tiene y compra el campo. El reino de los cielos se parece también a un comerciante de perlas finas, que al encontrar una de gran valor se va a vender todo lo que tiene y la compra»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo Gesù disse ai suoi discepoli:"],["«Il regno dei cieli è simile a un tesoro nascosto nel campo; un uomo lo trova e lo nasconde; poi va, pieno di gioia, vende tutti i suoi averi e compra quel campo."],["Il regno dei cieli è simile anche a un mercante che va in cerca di perle preziose; trovata una perla di grande valore, va, vende tutti i suoi averi e la compra»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, Jésus disait aux foules : \" Le royaume des Cieux est comparable à un trésor caché dans un champ ; l'homme qui l'a découvert le cache de nouveau. Dans sa joie, il va vendre tout ce qu'il possède, et il achète ce champ."]]},{"k":"p","lines":[["Ou encore : Le royaume des Cieux est comparable à un négociant qui recherche des perles fines. Ayant trouvé une perle de grande valeur, il va vendre tout ce qu'il possède, et il achète la perle. \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit sprach Jesus zu der Menge:"],["Mit dem Himmelreich ist es wie mit einem Schatz, der in einem Acker vergraben war. Ein Mann entdeckte ihn, grub ihn aber wieder ein. Und in seiner Freude verkaufte er alles, was er besaß, und kaufte den Acker."],["Auch ist es mit dem Himmelreich wie mit einem Kaufmann, der schöne Perlen suchte. Als er eine besonders wertvolle Perle fand, verkaufte er alles, was er besaß, und kaufte sie."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"122","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"la":"S. Agnetis, virginis et martyris","pt-BR":"Santa Inês, virgem e mártir","en-US":"St. Agnes, virgin and martyr","es":"Santa Inés, virgen y mártir","it":"Sant'Agnese, vergine e martire","fr":"Sainte Agnès, vierge et martyre","de":"Hl. Agnes, Jungfrau, Märtyrin"}}
+{
+ "id": "sanctorale.01-21",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 21 ianuarii"
+       ],
+       [
+        "S. Agnetis, virginis et martyris"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21 de Janeiro"
+       ],
+       [
+        "Santa Inês, virgem e mártir"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Ianuary 21"
+       ],
+       [
+        "St. Agnes, virgin and martyr"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21 de enero"
+       ],
+       [
+        "Santa Inés, virgen y mártir"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21 Gennaio"
+       ],
+       [
+        "Sant'Agnese, vergine e martire"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21 janvier"
+       ],
+       [
+        "Sainte Agnès, vierge et martyre"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "21. Januar"
+       ],
+       [
+        "Hl. Agnes, Jungfrau, Märtyrin"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Gedenktag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Infirma mundi elegit Deus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vidéte vocatiónem vestram, fratres; quia non multi sapiéntes secúndum carnem, non multi poténtes, non multi nóbiles; sed, quæ stulta sunt mundi, elégit Deus, ut confúndat sapiéntes, et infírma mundi elégit Deus, ut confúndat fórtia, et ignobília mundi et contemptibília elégit Deus, quæ non sunt, ut ea, quæ sunt, destrúeret, ut non gloriétur omnis caro in conspéctu Dei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ex ipso autem vos estis in Christo Iesu, qui factus est sapiéntia nobis a Deo et iustítia et sanctificátio et redémptio, ut quemádmodum scriptum est: «Qui gloriátur, in Dómino gloriétur»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus escolheu o que o mundo considera como fraco."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos, considerai vós mesmos, como fostes chamados por Deus. Pois entre vós não há muitos sábios de sabedoria humana nem muitos poderosos nem muitos nobres. Na verdade, Deus escolheu o que o mundo considera como estúpido, para assim confundir os sábios; Deus escolheu o que o mundo considera como fraco, para assim confundir o que é forte; Deus escolheu o que para o mundo é sem importância e desprezado, o que não tem nenhuma serventia, para assim mostrar a inutilidade do que é considerado importante, para que ninguém possa gloriar-se diante dele. É graças a ele que vós estais em Cristo Jesus, o qual se tornou para nós, da parte de Deus: sabedoria, justiça, santificação e libertação, para que, como está escrito, \"quem se gloria, glorie-se no Senhor\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to the Corinthians"
+       ]
+      ],
+      "cite": "1:26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Take yourselves for instance, brothers, at the time when you were called: how many of you were wise in the ordinary sense of the word, how many were influential people, or came from noble families? No, it was to shame the wise that God chose what is foolish by human reckoning, and to shame what is strong that he chose what is weak by human reckoning; those whom the world thinks common and contemptible are the ones that God has chosen - those who are nothing at all to show up those who are everything. The human race has nothing to boast about to God, but you, God has made members of Christ Jesus and by God's doing he has become our wisdom, and our virtue, and our holiness, and our freedom. As scripture says: if anyone wants to boast, let him boast about the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios ha escogido lo débil del mundo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fijaos en vuestra asamblea, hermanos: no hay en ella muchos sabios en lo humano, ni muchos poderosos, ni muchos aristócratas; sino que, lo necio del mundo lo ha escogido Dios para humillar a los sabios, y lo débil del mundo lo ha escogido Dios para humillar lo poderoso."
+       ],
+       [
+        "Aún más, ha escogido la gente baja del mundo, lo despreciable, lo que no cuenta, para anular a lo que cuenta, de modo que nadie pueda gloriarse en presencia del Señor."
+       ],
+       [
+        "A él se debe que vosotros estéis en Cristo Jesús, el cual se ha hecho para nosotros sabiduría de parte de Dios, justicia, santificación y redención."
+       ],
+       [
+        "Y así —como está escrito—: «el que se gloríe, que se gloríe en el Señor»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio ha scelto quello che è debole per il mondo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Considerate la vostra chiamata, fratelli: non ci sono fra voi molti sapienti dal punto di vista umano, né molti potenti, né molti nobili."
+       ],
+       [
+        "Ma quello che è stolto per il mondo, Dio lo ha scelto per confondere i sapienti; quello che è debole per il mondo, Dio lo ha scelto per confondere i forti; quello che è ignobile e disprezzato per il mondo, quello che è nulla, Dio lo ha scelto per ridurre al nulla le cose che sono, perché nessuno possa vantarsi di fronte a Dio."
+       ],
+       [
+        "Grazie a lui voi siete in Cristo Gesù, il quale per noi è diventato sapienza per opera di Dio, giustizia, santificazione e redenzione, perché, come sta scritto, chi si vanta, si vanti nel Signore."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, vous qui avez été appelés par Dieu, regardez bien : parmi vous, il n'y a pas beaucoup de sages aux yeux des hommes, ni de gens puissants ou de haute naissance. Au contraire, ce qu'il y a de fou dans le monde, voilà ce que Dieu a choisi, pour couvrir de confusion les sages ; ce qu'il y a de faible dans le monde, voilà ce que Dieu a choisi, pour couvrir de confusion ce qui est fort ; ce qui est d'origine modeste, méprisé dans le monde, ce qui n'est pas, voilà ce que Dieu a choisi, pour réduire à rien ce qui est ; ainsi aucun être de chair ne pourra s'enorgueillir devant Dieu. C'est grâce à Dieu, en effet, que vous êtes dans le Christ Jésus, lui qui est devenu pour nous sagesse venant de Dieu, justice, sanctification, rédemption. Ainsi, comme il est écrit : Celui qui veut être fier, qu'il mette sa fierté dans le Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seht auf eure Berufung, Brüder! Da sind nicht viele Weise im irdischen Sinn, nicht viele Mächtige, nicht viele Vornehme, sondern das Törichte in der Welt hat Gott erwählt, um die Weisen zuschanden zu machen, und das Schwache in der Welt hat Gott erwählt, um das Starke zuschanden zu machen. Und das Niedrige in der Welt und das Verachtete hat Gott erwählt: das, was nichts ist, um das, was etwas ist, zu vernichten, damit kein Mensch sich rühmen kann vor Gott."
+       ],
+       [
+        "Von ihm her seid ihr in Christus Jesus, den Gott für uns zur Weisheit gemacht hat, zur Gerechtigkeit, Heiligung und Erlösung. Wer sich also rühmen will, der rühme sich des Herrn; so heißt es schon in der Schrift."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "4"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sl 22, 1-3. 4. 5. 6 (R.: 1)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Sal 22, 1-3. 4. 5. 6 (R.: 1)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Dal Salmo 22 (23)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [],
+      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R: 1)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dóminus pascit me, et nihil mihi déerit:"
+       ],
+       [
+        "in páscuis viréntibus me collocávit,"
+       ],
+       [
+        "super aquas quiétis edúxit me,"
+       ],
+       [
+        "ánimam meam refécit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha, e restaura as minhas forças."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord is my shepherd; there is nothing I shall want. Fresh and green are the pastures where he gives me repose. Near restful waters he leads me, to revive my drooping spirit."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor es mi pastor, nada me falta:"
+       ],
+       [
+        "en verdes praderas me hace recostar;"
+       ],
+       [
+        "me conduce hacia fuentes tranquilas"
+       ],
+       [
+        "y repara mis fuerzas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Su pascoli erbosi mi fa riposare,"
+       ],
+       [
+        "ad acque tranquille mi conduce."
+       ],
+       [
+        "Rinfranca l'anima mia,"
+       ],
+       [
+        "mi guida per il giusto cammino a motivo del suo nome."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur est mon berger :"
+       ],
+       [
+        "je ne manque de rien. *"
+       ],
+       [
+        "Sur des prés d'herbe fraîche,"
+       ],
+       [
+        "il me fait reposer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ],
+       [
+        "Er lässt mich lagern auf grünen Auen"
+       ],
+       [
+        "und führt mich zum Ruheplatz am Wasser."
+       ],
+       [
+        "Er stillt mein Verlangen;"
+       ],
+       [
+        "er leitet mich auf rechten Pfaden, treu seinem Namen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dedúxit me super sémitas iustítiæ propter nomen suum."
+       ],
+       [
+        "Nam et si ambulávero in valle umbræ mortis,"
+       ],
+       [
+        "non timébo mala, quóniam tu mecum es."
+       ],
+       [
+        "Virga tua et báculus tuus"
+       ],
+       [
+        "ipsa me consoláta sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei. Estais comigo com bastão e com cajado, eles me dão a segurança!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He guides me along the right path; he is true to his name. If I should walk in the valley of darkness no evil would I fear. You are there with your crook and your staff; with these you give me comfort."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me guía por el sendero justo,"
+       ],
+       [
+        "por el honor de su nombre."
+       ],
+       [
+        "Aunque camine por cañadas oscuras,"
+       ],
+       [
+        "nada temo, porque tú vas conmigo:"
+       ],
+       [
+        "tu vara y tu cayado me sosiegan."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Anche se vado per una valle oscura,"
+       ],
+       [
+        "non temo alcun male, perché tu sei con me."
+       ],
+       [
+        "Il tuo bastone e il tuo vincastro"
+       ],
+       [
+        "mi danno sicurezza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il me mène vers les eaux tranquilles"
+       ],
+       [
+        "et me fait revivre ; *"
+       ],
+       [
+        "il me conduit par le juste chemin"
+       ],
+       [
+        "pour l'honneur de son nom."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Muss ich auch wandern in finsterer Schlucht,"
+       ],
+       [
+        "ich fürchte kein Unheil;"
+       ],
+       [
+        "denn du bist bei mir,"
+       ],
+       [
+        "dein Stock und dein Stab geben mir Zuversicht."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parásti in conspéctu meo mensam"
+       ],
+       [
+        "advérsus eos qui tríbulant me;"
+       ],
+       [
+        "impinguásti in óleo caput meum,"
+       ],
+       [
+        "et calix meus redúndat."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça, e o meu cálice transborda."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You have prepared a banquet for me in the sight of my foes. My head you have anointed with oil; my cup is overflowing."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preparas una mesa ante mí,"
+       ],
+       [
+        "enfrente de mis enemigos;"
+       ],
+       [
+        "me unges la cabeza con perfume,"
+       ],
+       [
+        "y mi copa rebosa."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Davanti a me tu prepari una mensa"
+       ],
+       [
+        "sotto gli occhi dei miei nemici."
+       ],
+       [
+        "Ungi di olio il mio capo;"
+       ],
+       [
+        "il mio calice trabocca."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si je traverse les ravins de la mort,"
+       ],
+       [
+        "je ne crains aucun mal, *"
+       ],
+       [
+        "car tu es avec moi :"
+       ],
+       [
+        "ton bâton me guide et me rassure."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Du deckst mir den Tisch"
+       ],
+       [
+        "vor den Augen meiner Feinde."
+       ],
+       [
+        "Du salbst mein Haupt mit Öl,"
+       ],
+       [
+        "du füllst mir reichlich den Becher."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Etenim benígnitas et misericórdia subsequéntur me"
+       ],
+       [
+        "ómnibus diébus vitæ meæ,"
+       ],
+       [
+        "et inhabitábo in domo Dómini"
+       ],
+       [
+        "in longitúdinem diérum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Felicidade e todo bem hão de seguir-me, por toda a minha vida; e na casa do Senhor, habitarei pelos tempos infinitos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Surely goodness and kindness shall follow me all the days of my life. In the Lord's own house shall I dwell for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu bondad y tu misericordia me acompañan"
+       ],
+       [
+        "todos los días de mi vida,"
+       ],
+       [
+        "y habitaré en la casa del Señor"
+       ],
+       [
+        "por años sin término."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sì, bontà e fedeltà mi saranno compagne"
+       ],
+       [
+        "tutti i giorni della mia vita,"
+       ],
+       [
+        "abiterò ancora nella casa del Signore"
+       ],
+       [
+        "per lunghi giorni."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu prépares la table pour moi"
+       ],
+       [
+        "devant mes ennemis ; *"
+       ],
+       [
+        "tu répands le parfum sur ma tête,"
+       ],
+       [
+        "ma coupe est débordante."
+       ],
+       [
+        "Grâce et bonheur m'accompagnent"
+       ],
+       [
+        "tous les jours de ma vie ; *"
+       ],
+       [
+        "j'habiterai la maison du Seigneur"
+       ],
+       [
+        "pour la durée de mes jours."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lauter Güte und Huld"
+       ],
+       [
+        "werden mir folgen mein Leben lang,"
+       ],
+       [
+        "und im Haus des Herrn"
+       ],
+       [
+        "darf ich wohnen für lange Zeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 15, 9b. 5b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allelúia."
+       ],
+       [
+        "Mánete in dilectióne mea, dicit Dóminus;"
+       ],
+       [
+        "qui manet in me et ego in eo, hic fert fructum multum."
+       ],
+       [
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 15, 9b. 5b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "Ficai em meu amor, assim fala o Senhor, quem em mim permanece e no qual permaneço esse dá muito fruto!"
+       ],
+       [
+        "Aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Jn 15:9.5",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Remain in my love, says the Lord; Whoever remains in me and I in him will bear much fruit."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 15, 9b. 5b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya."
+       ],
+       [
+        "Permaneced en mi amor —dice el Señor—;"
+       ],
+       [
+        "el que permanece en mí y yo en él, ese da fruto abundante."
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Gv 15, 9b.5b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Rimanete nel mio amore, dice il Signore, chi rimane in me, e io in lui, porta molto frutto."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 15, 9b. 5b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ],
+       [
+        "Demeurez dans mon amour, dit le Seigneur. Celui qui demeure en moi et en qui je demeure, celui-là porte beaucoup de fruit."
+       ],
+       [
+        "Alléluia"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Joh 15, 9b. 5b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Halleluja. Halleluja."
+       ],
+       [
+        "(So spricht der Herr:) Bleibt in meiner Liebe! Wer in mir bleibt und in wem ich bleibe, der bringt reiche Frucht."
+       ],
+       [
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vendit universa, quæ habet, et emit agrum illum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "13, 44-46",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ele vende todos os seus bens e compra aquele campo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "Mt 13, 44-46",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "13:44-46",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vende todo lo que tiene y compra el campo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "Mt 13, 44-46",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "13, 44-46",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "13, 44-46",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "13, 44-46",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus turbis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Símile est regnum cælórum thesáuro abscóndito in agro; quem qui invénit homo abscóndit et præ gáudio illíus vadit et vendit univérsa, quæ habet, et emit agrum illum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iterum símile est regnum cælórum hómini negotiatóri quærénti bonas margarítas. Invénta autem una pretiósa margaríta, ábiit et véndidit ómnia, quæ hábuit, et emit eam»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus à multidão: \"O Reino dos Céus é como um tesouro escondido no campo. Um homem o encontra e o mantém escondido. Cheio de alegria, ele vai, vende todos os seus bens e compra aquele campo. O Reino dos Céus também é como um comprador que procura pérolas preciosas. Quando encontra uma pérola de grande valor, ele vai, vende todos os seus bens e compra aquela pérola\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to the crowds: 'The kingdom of heaven is like treasure hidden in a field which someone has found; he hides it again, goes off happy, sells everything he owns and buys the field. 'Again, the kingdom of heaven is like a merchant looking for fine pearls; when he finds one of great value he goes and sells everything he owns and buys it."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a la gente:"
+       ],
+       [
+        "«El reino de los cielos se parece a un tesoro escondido en el campo: el que lo encuentra, lo vuelve a esconder y, lleno de alegría, va a vender todo lo que tiene y compra el campo. El reino de los cielos se parece también a un comerciante de perlas finas, que al encontrar una de gran valor se va a vender todo lo que tiene y la compra»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo Gesù disse ai suoi discepoli:"
+       ],
+       [
+        "«Il regno dei cieli è simile a un tesoro nascosto nel campo; un uomo lo trova e lo nasconde; poi va, pieno di gioia, vende tutti i suoi averi e compra quel campo."
+       ],
+       [
+        "Il regno dei cieli è simile anche a un mercante che va in cerca di perle preziose; trovata una perla di grande valore, va, vende tutti i suoi averi e la compra»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait aux foules : \" Le royaume des Cieux est comparable à un trésor caché dans un champ ; l'homme qui l'a découvert le cache de nouveau. Dans sa joie, il va vendre tout ce qu'il possède, et il achète ce champ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ou encore : Le royaume des Cieux est comparable à un négociant qui recherche des perles fines. Ayant trouvé une perle de grande valeur, il va vendre tout ce qu'il possède, et il achète la perle. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu der Menge:"
+       ],
+       [
+        "Mit dem Himmelreich ist es wie mit einem Schatz, der in einem Acker vergraben war. Ein Mann entdeckte ihn, grub ihn aber wieder ein. Und in seiner Freude verkaufte er alles, was er besaß, und kaufte den Acker."
+       ],
+       [
+        "Auch ist es mit dem Himmelreich wie mit einem Kaufmann, der schöne Perlen suchte. Als er eine besonders wertvolle Perle fand, verkaufte er alles, was er besaß, und kaufte sie."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "la": "S. Agnetis, virginis et martyris",
+  "pt-BR": "Santa Inês, virgem e mártir",
+  "en-US": "St. Agnes, virgin and martyr",
+  "es": "Santa Inés, virgen y mártir",
+  "it": "Sant'Agnese, vergine e martire",
+  "fr": "Sainte Agnès, vierge et martyre",
+  "de": "Hl. Agnes, Jungfrau, Märtyrin"
+ }
+}

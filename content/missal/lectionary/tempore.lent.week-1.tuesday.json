@@ -1,1 +1,2617 @@
-{"id":"tempore.lent.week-1.tuesday","source":"lecturas/lecturas_q01#Q012D","items":[{"slot":"76","text":{"la":[{"k":"h2","lines":[["Tempus Quadragesimæ"],["Hebdomada I"],["Feria tertia"]]}],"pt-BR":[{"k":"h2","lines":[["1ª Semana da Quaresma"],["Terça-feira da 1ª Semana da Quaresma"]]}],"en-US":[{"k":"h2","lines":[["Season of Lent"],["1st Week: Tuesday"]]}],"es":[{"k":"h2","lines":[["Tiempo de Cuaresma"],["Martes de la I Semana"]]}],"it":[{"k":"h2","lines":[["MARTEDI DELLA I SETTIMANA DI QUARESIMA"]]}],"fr":[{"k":"h2","lines":[["Temps de Carêmebr"],[">1e semaine"],["Mardi"]]}],"de":[{"k":"h2","lines":[["Fastenzeit"],["1. Woche: Dienstag"]]}]}},{"slot":"77","text":{"la":[{"k":"p","lines":[["Lectio prior"]],"role":"title"},{"k":"p","lines":[["Verbum meum faciet quæcumque volui"]],"role":"summary"},{"k":"p","lines":[["Léctio libri Isaíæ prophétæ"]],"cite":"55, 10-11","role":"announcement"},{"k":"p","lines":[["Hæc dicit Dóminus:"]]},{"k":"p","lines":[["«Quómodo descéndit imber et nix de cælo et illuc ultra non revértitur, sed inébriat terram et infúndit eam et germináre eam facit et dat semen serénti et panem comedénti, sic erit verbum meum, quod egrediétur de ore meo: non revertétur ad me vácuum, sed fáciet, quæcúmque vólui, et prosperábitur in his, ad quæ misi illud»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Primeira Leitura"]],"role":"title"},{"k":"p","lines":[["A palavra que sair da minha boca realizará tudo que for de minha vontade."]],"role":"summary"},{"k":"p","lines":[["Leitura do Livro do Profeta Isaías"]],"cite":"55, 10-11","role":"announcement"},{"k":"p","lines":[["Isto diz o Senhor: Assim como a chuva e a neve descem do céu e para lá não voltam mais, mas vêm irrigar e fecundar a terra, e fazê-la germinar e dar semente, para o plantio e para a alimentação, assim a palavra que sair de minha boca: não voltará para mim vazia; antes, realizará tudo que for de minha vontade e produzirá os efeitos que pretendi, ao enviá-la."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["First Reading"]],"role":"title"},{"k":"p","lines":[["A reading from the Book of the Prophet Isaiah"]],"cite":"55:10-11","role":"announcement"},{"k":"p","lines":[["Thus says the Lord: As the rain and the snow come down from the heavens and do not return without watering the earth, making it yield and giving growth to provide seed for the sower and bread for the eating, so the word that goes from my mouth does not return to me empty, without carrying out my will and succeeding in what it was sent to do."]]},{"k":"p","lines":[["The Word of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Primera Lectura"]],"role":"title"},{"k":"p","lines":[["Mi palabra cumplirá mi deseo"]],"role":"summary"},{"k":"p","lines":[["Lectura del libro del profeta Isaías"]],"cite":"55, 10-11","role":"announcement"},{"k":"p","lines":[["Esto dice el Señor:"],["«Como bajan la lluvia y la nieve desde el cielo,"],["y no vuelven allá sino después de empapar la tierra,"],["de fecundarla y hacerla germinar,"],["para que dé semilla al sembrador"],["y pan al que come,"],["así será mi palabra que sale de mi boca:"],["no volverá a mí vacía,"],["sino que cumplirá mi deseo"],["y llevará a cabo mi encargo»."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Prima lettura"]],"role":"title"},{"k":"p","lines":[["La mia parola opera ciò che desidero."]],"role":"summary"},{"k":"p","lines":[["Dal libro del profeta Isaia"]],"cite":"55,10-11","role":"announcement"},{"k":"p","lines":[["Così dice il Signore:"],["«Come la pioggia e la neve scendono dal cielo"],["e non vi ritornano senza avere irrigato la terra,"],["senza averla fecondata e fatta germogliare,"],["perché dia il seme a chi semina"],["e il pane a chi mangia,"],["così sarà della mia parola uscita dalla mia bocca:"],["non ritornerà a me senza effetto,"],["senza aver operato ciò che desidero"],["e senza aver compiuto ciò per cui l'ho mandata»."]]},{"k":"p","lines":[["Parola di Dio."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Première lecture"]],"role":"title"},{"k":"p","lines":[["Livre d'Isaïe"]],"cite":"55, 10-11","role":"announcement"},{"k":"p","lines":[["Ainsi parle le Seigneur :"]]},{"k":"p","lines":[["« La pluie et la neige qui descendent des cieux n'y retournent pas sans avoir abreuvé la terre, sans l'avoir fécondée et l'avoir fait germer, donnant la semence au semeur et le pain à celui qui doit manger ; ainsi ma parole, qui sort de ma bouche, ne me reviendra pas sans résultat, sans avoir fait ce qui me plaît, sans avoir accompli sa mission. »"]]},{"k":"p","lines":[["Parole du Seigneur."]],"role":"conclusion"}],"de":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch Jesája"]],"cite":"55, 10-11","role":"announcement"},{"k":"p","lines":[["So spricht der Herr:"],["Wie der Regen und der Schnee vom Himmel fällt und nicht dorthin zurückkehrt, sondern die Erde tränkt und sie zum Keimen und Sprossen bringt, wie er dem Sämann Samen gibt und Brot zum Essen, so ist es auch mit dem Wort, das meinen Mund verlässt: Es kehrt nicht leer zu mir zurück, sondern bewirkt, was ich will, und erreicht all das, wozu ich es ausgesandt habe."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"78","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"slot":"79","text":{"la":[{"k":"p","lines":[["Psalmus Responsorius"]],"cite":"Ps 33, 4-5. 6-7. 16-17. 18-19 (: 18b)","role":"title"}],"pt-BR":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sl 33 (34), 4-5.6-7.16-17.18-19 (: 18b)","role":"title"}],"en-US":[{"k":"p","lines":[["Responsorial Psalm"]],"cite":"Ps 33, 4-5. 6-7. 16-17. 18-19 (: 18b)","role":"title"}],"es":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 33, 4-5. 6-7. 16-17. 18-19 (: 18b)","role":"title"}],"it":[{"k":"p","lines":[["Salmo Responsoriale"]],"cite":"Dal Salmo 33 (34)","role":"title"}],"fr":[{"k":"p","lines":[["Psaume"]],"cite":"Ps 33, 4-5. 6-7. 16-17. 18-19 (: 18b)","role":"title"}],"de":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 34 (33), 4-5. 6-7. 16-17. 18-19 (R: vgl. 18)","role":"title"}]},"part":"psalm"},{"slot":"80","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ex ómnibus tribulatiónibus eórum Deus líberat iustos."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor liberta os justos de todas as angústias."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"From all their distress God rescues the just."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dios libra a los justos de sus angustias."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore libera i giusti da tutte le loro angosce."],[{"m":"rubric","t":"Oppure:"}],["Chi spera nel Signore non resta confuso."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ex ómnibus tribulatiónibus eórum Deus líberat iustos.De toutes leurs angoisses, Dieu délivre les justes."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."]]}]},"part":"psalm","role":"people"},{"slot":"81","text":{"la":[{"k":"p","lines":[["Magnificáte Dóminum mecum,"],["et exaltémus nomen eius in idípsum."],["Exquisívi Dóminum, et exaudívit me,"],["et ex ómnibus terróribus meis erípuit me."]]}],"pt-BR":[{"k":"p","lines":[["Comigo engrandecei ao Senhor Deus,"],["exaltemos todos juntos o seu nome!"],["Todas as vezes que o busquei, ele me ouviu,"],["e de todos os temores me livrou."]]}],"en-US":[{"k":"p","lines":[["Glorify the Lord with me. Together let us praise his name. I sought the Lord and he answered me; from all my terrors he set me free."]]}],"es":[{"k":"p","lines":[["Proclamad conmigo la grandeza del Señor,"],["ensalcemos juntos su nombre."],["Yo consulté al Señor, y me respondió,"],["me libró de todas mis ansias."]]}],"it":[{"k":"p","lines":[["Magnificate con me il Signore,"],["esaltiamo insieme il suo nome."],["Ho cercato il Signore: mi ha risposto"],["e da ogni mia paura mi ha liberato."]]}],"fr":[{"k":"p","lines":[["Magnifiez avec moi le Seigneur,"],["exaltons tous ensemble son nom."],["Je cherche le Seigneur, il me répond :"],["de toutes mes frayeurs, il me délivre."]]}],"de":[{"k":"p","lines":[["Verherrlicht mit mir den Herrn,"],["lasst uns gemeinsam seinen Namen rühmen."],["Ich suchte den Herrn, und er hat mich erhört,"],["er hat mich all meinen Ängsten entrissen."]]}]},"part":"psalm","role":"verse"},{"slot":"82","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ex ómnibus tribulatiónibus eórum Deus líberat iustos."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor liberta os justos de todas as angústias."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"From all their distress God rescues the just."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dios libra a los justos de sus angustias."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore libera i giusti da tutte le loro angosce."],[{"m":"rubric","t":"Oppure:"}],["Chi spera nel Signore non resta confuso."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"De toutes leurs angoisses, Dieu délivre les justes."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."]]}]},"part":"psalm","role":"people"},{"slot":"83","text":{"la":[{"k":"p","lines":[["Respícite ad eum, et illuminámini,"],["et fácies vestræ non confundéntur."],["Iste pauper clamávit, et Dóminus exaudívit eum,"],["et de ómnibus tribulatiónibus eius salvávit eum."]]}],"pt-BR":[{"k":"p","lines":[["Contemplai a sua face e alegrai-vos,"],["e vosso rosto não se cubra de vergonha!"],["Este infeliz gritou a Deus, e foi ouvido,"],["e o Senhor o libertou de toda angústia."]]}],"en-US":[{"k":"p","lines":[["Look towards him and be radiant; let your faces not be abashed. This poor man called; the Lord heard him and rescued him from all his distress."]]}],"es":[{"k":"p","lines":[["Contempladlo, y quedaréis radiantes,"],["vuestro rostro no se avergonzará."],["El afligido invocó al Señor,"],["él lo escuchó y lo salvó de sus angustias."]]}],"it":[{"k":"p","lines":[["Guardate a lui e sarete raggianti,"],["i vostri volti non dovranno arrossire."],["Questo povero grida e il Signore lo ascolta,"],["lo salva da tutte le sue angosce."]]}],"fr":[{"k":"p","lines":[["Qui regarde vers lui resplendira,"],["sans ombre ni trouble au visage."],["Un pauvre crie ; le Seigneur entend :"],["il le sauve de toutes ses angoisses."]]}],"de":[{"k":"p","lines":[["Blickt auf zu ihm, so wird euer Gesicht leuchten,"],["und ihr braucht nicht zu erröten."],["Da ist ein Armer; er rief, und der Herr erhörte ihn."],["Er half ihm aus all seinen Nöten."]]}]},"part":"psalm","role":"verse"},{"slot":"84","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ex ómnibus tribulatiónibus eórum Deus líberat iustos."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor liberta os justos de todas as angústias."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"From all their distress God rescues the just."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dios libra a los justos de sus angustias."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore libera i giusti da tutte le loro angosce."],[{"m":"rubric","t":"Oppure:"}],["Chi spera nel Signore non resta confuso."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"De toutes leurs angoisses, Dieu délivre les justes."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."]]}]},"part":"psalm","role":"people"},{"slot":"85","text":{"la":[{"k":"p","lines":[["Oculi Dómini super iustos,"],["et aures eius in clamórem eórum."],["Vultus autem Dómini super faciéntes mala,"],["ut perdat de terra memóriam eórum."]]}],"pt-BR":[{"k":"p","lines":[["O Senhor pousa seus olhos sobre os justos,"],["e seu ouvido está atento ao seu chamado;"],["mas ele volta a sua face contra os maus,"],["para da terra apagar sua lembrança."]]}],"en-US":[{"k":"p","lines":[["The Lord turns his eyes to the just and his ears to their appeal. The Lord turns his face against the wicked to destroy their remembrance from the earth."]]}],"es":[{"k":"p","lines":[["Los ojos del Señor miran a los justos,"],["sus oídos escuchan sus gritos;"],["pero el Señor se enfrenta con los malhechores,"],["para borrar de la tierra su memoria."]]}],"it":[{"k":"p","lines":[["Gli occhi del Signore sui giusti,"],["i suoi orecchi al loro grido di aiuto."],["Il volto del Signore contro i malfattori,"],["per eliminarne dalla terra il ricordo."]]}],"fr":[{"k":"p","lines":[["Le Seigneur regarde les justes,"],["il écoute, attentif à leurs cris."],["Le Seigneur affronte les méchants"],["pour effacer de la terre leur mémoire."]]}],"de":[{"k":"p","lines":[["Die Augen des Herrn blicken auf die Gerechten,"],["seine Ohren hören ihr Schreien."],["Das Antlitz des Herrn richtet sich gegen die Bösen,"],["um ihr Andenken von der Erde zu tilgen."]]}]},"part":"psalm","role":"verse"},{"slot":"86","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ex ómnibus tribulatiónibus eórum Deus líberat iustos."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor liberta os justos de todas as angústias."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"From all their distress God rescues the just."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dios libra a los justos de sus angustias."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore libera i giusti da tutte le loro angosce."],[{"m":"rubric","t":"Oppure:"}],["Chi spera nel Signore non resta confuso."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"De toutes leurs angoisses, Dieu délivre les justes."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."]]}]},"part":"psalm","role":"people"},{"slot":"87","text":{"la":[{"k":"p","lines":[["Clamavérunt, et Dóminus exaudívit,"],["et ex ómnibus tribulatiónibus eórum liberávit eos."],["Iuxta est Dóminus iis qui contríto sunt corde,"],["et confráctos spíritu salvábit."]]}],"pt-BR":[{"k":"p","lines":[["Clamam os justos, e o Senhor bondoso escuta"],["e de todas as angústias os liberta."],["Do coração atribulado ele está perto"],["e conforta os de espírito abatido."]]}],"en-US":[{"k":"p","lines":[["They call and the Lord hears and rescues them in all their distress. The Lord is close to the broken-hearted; those whose spirit is crushed he will save."]]}],"es":[{"k":"p","lines":[["Cuando uno grita, el Señor lo escucha"],["y lo libra de sus angustias;"],["el Señor está cerca de los atribulados,"],["salva a los abatidos."]]}],"it":[{"k":"p","lines":[["Gridano i giusti e il Signore li ascolta,"],["li libera da tutte le loro angosce."],["Il Signore è vicino a chi ha il cuore spezzato,"],["egli salva gli spiriti affranti."]]}],"fr":[{"k":"p","lines":[["Le Seigneur entend ceux qui l'appellent :"],["de toutes leurs angoisses, il les délivre."],["Il est proche du cœur brisé,"],["il sauve l'esprit abattu."]]}],"de":[{"k":"p","lines":[["Schreien die Gerechten, so hört sie der Herr;"],["er entreißt sie all ihren Ängsten."],["Nahe ist der Herr den zerbrochenen Herzen,"],["er hilft denen auf, die zerknirscht sind."]]}]},"part":"psalm","role":"verse"},{"slot":"88","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Ex ómnibus tribulatiónibus eórum Deus líberat iustos."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O Senhor liberta os justos de todas as angústias."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"From all their distress God rescues the just."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dios libra a los justos de sus angustias."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il Signore libera i giusti da tutte le loro angosce."],[{"m":"rubric","t":"Oppure:"}],["Chi spera nel Signore non resta confuso."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"De toutes leurs angoisses, Dieu délivre les justes."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."]]}]},"part":"psalm","role":"people"},{"slot":"89","text":{"la":[{"k":"p","lines":[["Versus ante Evangelium"]],"cite":"Mt 4, 4b","role":"title"},{"k":"p","lines":[["Non in pane solo vivet homo,"],["sed in omni verbo quod procédit de ore Dei."]]}],"pt-BR":[{"k":"p","lines":[["Aclamação ao Evangelho"]],"cite":"Mt 4, 4b","role":"title"},{"k":"p","lines":[["O homem não vive somente de pão,"],["mas de toda palavra da boca de Deus."]]}],"en-US":[{"k":"p","lines":[["Gospel Acclamation"]],"cite":"Mt 4:4","role":"title"},{"k":"p","lines":[["Man does not live on bread alone, but on every word that comes from the mouth of God."]]}],"es":[{"k":"p","lines":[["Versículo antes del Evangelio"]],"cite":"Mt 4, 4b","role":"title"},{"k":"p","lines":[["No solo de pan vive el hombre,"],["sino de toda palabra que sale de la boca de Dios."]]}],"it":[{"k":"p","lines":[["Canto al Vangelo"]],"cite":"(Mt 4,4b)","role":"title"},{"k":"p","lines":[["ode a te, o Cristo, re di eterna gloria!"],["Non di solo pane vivrà l'uomo,"],["ma di ogni parola che esce dalla bocca di Dio."],["Lode a te, o Cristo, re di eterna gloria!"]]}],"fr":[{"k":"p","lines":[["Verset avant l'Évangile"]],"cite":"Mt 4, 4b","role":"title"},{"k":"p","lines":[["Ta Parole, Seigneur, est vérité, et ta loi, délivrance."],["L'homme ne vit pas seulement de pain, mais de toute parole qui sort de la bouche de Dieu."],["Ta Parole, Seigneur, est vérité, et ta loi, délivrance."]]}],"de":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"cite":"vgl. Mt 4, 4b","role":"title"},{"k":"p","lines":[["Herr Jesus, dir sei Ruhm und Ehre!"],["Nicht nur von Brot lebt der Mensch, sondern von jedem Wort aus Gottes Mund."],["Herr Jesus, dir sei Ruhm und Ehre!"]]}]},"part":"acclamation"},{"slot":"90","text":{"la":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[["Sic ergo vos orabitis"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Matthǽum"]],"cite":"6, 7-15","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Evangelho"]],"role":"title"},{"k":"p","lines":[["Vós deveis rezar assim."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Mateus"]],"cite":"6, 7-15","role":"announcement"}],"en-US":[{"k":"p","lines":[["Gospel"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Matthew"]],"cite":"6:7-15","role":"announcement"}],"es":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["Vosotros orad así"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Mateo"]],"cite":"6, 7-15","role":"announcement"}],"it":[{"k":"p","lines":[["Vangelo"]],"role":"title"},{"k":"p","lines":[["Voi dunque pregate così."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal vangelo secondo Matteo"]],"cite":"6, 7-15","role":"announcement"}],"fr":[{"k":"p","lines":[["Proclamation de l'Évangile"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Matthieu"]],"cite":"6, 7-15","role":"announcement"}],"de":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"6, 7-15","role":"announcement"}]},"part":"gospel"},{"slot":"91","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"92","text":{"la":[{"k":"p","lines":[["In illo témpore: Dixit Iesus discípulis suis:"]]},{"k":"p","lines":[["«Orántes nolíte multum loqui sicut éthnici; putant enim quia in multilóquio suo exaudiántur. Nolíte ergo assimilári eis; scit enim Pater vester, quibus opus sit vobis, ántequam petátis eum. Sic ergo vos orábitis:"]]},{"k":"p","lines":[["Pater noster, qui es in cælis, sanctificétur nomen tuum, advéniat regnum tuum, fiat volúntas tua, sicut in cælo, et in terra. Panem nostrum supersubstantiálem da nobis hódie; et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris; et ne indúcas nos in tentatiónem, sed líbera nos a Malo."]]},{"k":"p","lines":[["Si enim dimiséritis homínibus peccáta eórum, dimíttet et vobis Pater vester cæléstis; si autem non dimiséritis homínibus, nec Pater vester dimíttet peccáta vestra»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, disse Jesus aos seus discípulos: \"Quando orardes, não useis muitas palavras, como fazem os pagãos. Eles pensam que serão ouvidos por força das muitas palavras. Não sejais como eles, pois vosso Pai sabe do que precisais, muito antes que vós o peçais. Vós deveis rezar assim: Pai Nosso que estás nos céus, santificado seja o teu nome; venha o teu Reino; seja feita a tua vontade, assim na terra como nos céus. O pão nosso de cada dia dá-nos hoje. Perdoa as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido. E não nos deixes cair em tentação, mas livra-nos do mal. De fato, se vós perdoardes aos homens as faltas que eles cometeram, vosso Pai que está nos céus também vos perdoará. Mas, se vós não perdoardes aos homens, vosso Pai também não perdoará as faltas que vós cometestes\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["Jesus said to his disciples: In your prayers do not babble as the pagans do, for they think that by using many words they will make themselves heard. Do not be like them; your Father knows what you need before you ask him. So you should pray like this: 'Our Father in heaven, may your name be held holy, your kingdom come, your will be done, on earth as in heaven. Give us today our daily bread. And forgive us our debts, as we have forgiven those who are in debt to us. And do not put us to the test, but save us from the evil one. Yes, if you forgive others their failings, your heavenly Father will forgive you yours; but if you do not forgive others, your Father will not forgive your failings either."]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, dijo Jesús a sus discípulos:"],["«Cuando recéis, no uséis muchas palabras, como los gentiles, que se imaginan que por hablar mucho les harán caso. No seáis como ellos, pues vuestro Padre sabe lo que os hace falta antes de que lo pidáis. Vosotros orad así:"],["“Padre nuestro que estás en el cielo,"],["santificado sea tu nombre,"],["venga a nosotros tu reino,"],["hágase tu voluntad en la tierra como en el cielo,"],["danos hoy nuestro pan de cada día,"],["perdona nuestras ofensas,"],["como también nosotros perdonamos a los que nos ofenden, no nos dejes caer en la tentación,"],["y líbranos del mal”."],["Porque si perdonáis a los hombres sus ofensas, también os perdonará vuestro Padre celestial, pero si no perdonáis a los hombres, tampoco vuestro Padre perdonará vuestras ofensas»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, Gesù disse ai suoi discepoli:"],["«Pregando, non sprecate parole come i pagani: essi credono di venire ascoltati a forza di parole. Non siate dunque come loro, perché il Padre vostro sa di quali cose avete bisogno prima ancora che gliele chiediate."],["Voi dunque pregate così:"],["Padre nostro che sei nei cieli,"],["sia santificato il tuo nome,"],["venga il tuo regno,"],["sia fatta la tua volontà,"],["come in cielo così in terra."],["Dacci oggi il nostro pane quotidiano,"],["e rimetti a noi i nostri debiti"],["come anche noi li rimettiamo ai nostri debitori,"],["e non abbandonarci alla tentazione,"],["ma liberaci dal male."],["Se voi infatti perdonerete agli altri le loro colpe, il Padre vostro che è nei cieli perdonerà anche a voi; ma se voi non perdonerete agli altri, neppure il Padre vostro perdonerà le vostre colpe»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, Jésus disait à ses disciples :"]]},{"k":"p","lines":[["« Lorsque vous priez, ne rabâchez pas comme les païens : ils s'imaginent qu'à force de paroles ils seront exaucés. Ne les imitez donc pas, car votre Père sait de quoi vous avez besoin, avant même que vous l'ayez demandé. Vous donc, priez ainsi : Notre Père, qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain de ce jour. Remets-nous nos dettes, comme nous-mêmes nous remettons leurs dettes à nos débiteurs. Et ne nous laisse pas entrer en tentation, mais délivre-nous du Mal. Car, si vous pardonnez aux hommes leurs fautes, votre Père céleste vous pardonnera aussi. Mais si vous ne pardonnez pas aux hommes, votre Père non plus ne pardonnera pas vos fautes. »"]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit sprach Jesus zu seinen Jüngern:"],["Wenn ihr betet, sollt ihr nicht plappern wie die Heiden, die meinen, sie werden nur erhört, wenn sie viele Worte machen. Macht es nicht wie sie; denn euer Vater weiß, was ihr braucht, noch ehe ihr ihn bittet. So sollt ihr beten:"],["Unser Vater im Himmel, dein Name werde geheiligt, dein Reich komme, dein Wille geschehe wie im Himmel, so auf der Erde. Gib uns heute das Brot, das wir brauchen. Und erlass uns unsere Schulden, wie auch wir sie unseren Schuldnern erlassen haben. Und führe uns nicht in Versuchung, sondern rette uns vor dem Bösen."],["Denn wenn ihr den Menschen ihre Verfehlungen vergebt, dann wird euer himmlischer Vater auch euch vergeben. Wenn ihr aber den Menschen nicht vergebt, dann wird euch euer Vater eure Verfehlungen auch nicht vergeben."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"93","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"la":"Tempus Quadragesimæ — Hebdomada I — Feria tertia","pt-BR":"Terça-feira da 1ª Semana da Quaresma","en-US":"Season of Lent — 1st Week: Tuesday","es":"Tiempo de Cuaresma — Martes de la I Semana","it":"MARTEDI DELLA I SETTIMANA DI QUARESIMA","fr":"Temps de Carêmebr — >1e semaine — Mardi","de":"Fastenzeit — 1. Woche: Dienstag"}}
+{
+ "id": "tempore.lent.week-1.tuesday",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Quadragesimæ"
+       ],
+       [
+        "Hebdomada I"
+       ],
+       [
+        "Feria tertia"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "1ª Semana da Quaresma"
+       ],
+       [
+        "Terça-feira da 1ª Semana da Quaresma"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Season of Lent"
+       ],
+       [
+        "1st Week: Tuesday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo de Cuaresma"
+       ],
+       [
+        "Martes de la I Semana"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "MARTEDI DELLA I SETTIMANA DI QUARESIMA"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps de Carêmebr"
+       ],
+       [
+        ">1e semaine"
+       ],
+       [
+        "Mardi"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Fastenzeit"
+       ],
+       [
+        "1. Woche: Dienstag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum meum faciet quæcumque volui"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Isaíæ prophétæ"
+       ]
+      ],
+      "cite": "55, 10-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc dicit Dóminus:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Quómodo descéndit imber et nix de cælo et illuc ultra non revértitur, sed inébriat terram et infúndit eam et germináre eam facit et dat semen serénti et panem comedénti, sic erit verbum meum, quod egrediétur de ore meo: non revertétur ad me vácuum, sed fáciet, quæcúmque vólui, et prosperábitur in his, ad quæ misi illud»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A palavra que sair da minha boca realizará tudo que for de minha vontade."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Profeta Isaías"
+       ]
+      ],
+      "cite": "55, 10-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Isto diz o Senhor: Assim como a chuva e a neve descem do céu e para lá não voltam mais, mas vêm irrigar e fecundar a terra, e fazê-la germinar e dar semente, para o plantio e para a alimentação, assim a palavra que sair de minha boca: não voltará para mim vazia; antes, realizará tudo que for de minha vontade e produzirá os efeitos que pretendi, ao enviá-la."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of the Prophet Isaiah"
+       ]
+      ],
+      "cite": "55:10-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Thus says the Lord: As the rain and the snow come down from the heavens and do not return without watering the earth, making it yield and giving growth to provide seed for the sower and bread for the eating, so the word that goes from my mouth does not return to me empty, without carrying out my will and succeeding in what it was sent to do."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi palabra cumplirá mi deseo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del profeta Isaías"
+       ]
+      ],
+      "cite": "55, 10-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esto dice el Señor:"
+       ],
+       [
+        "«Como bajan la lluvia y la nieve desde el cielo,"
+       ],
+       [
+        "y no vuelven allá sino después de empapar la tierra,"
+       ],
+       [
+        "de fecundarla y hacerla germinar,"
+       ],
+       [
+        "para que dé semilla al sembrador"
+       ],
+       [
+        "y pan al que come,"
+       ],
+       [
+        "así será mi palabra que sale de mi boca:"
+       ],
+       [
+        "no volverá a mí vacía,"
+       ],
+       [
+        "sino que cumplirá mi deseo"
+       ],
+       [
+        "y llevará a cabo mi encargo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La mia parola opera ciò che desidero."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Isaia"
+       ]
+      ],
+      "cite": "55,10-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Così dice il Signore:"
+       ],
+       [
+        "«Come la pioggia e la neve scendono dal cielo"
+       ],
+       [
+        "e non vi ritornano senza avere irrigato la terra,"
+       ],
+       [
+        "senza averla fecondata e fatta germogliare,"
+       ],
+       [
+        "perché dia il seme a chi semina"
+       ],
+       [
+        "e il pane a chi mangia,"
+       ],
+       [
+        "così sarà della mia parola uscita dalla mia bocca:"
+       ],
+       [
+        "non ritornerà a me senza effetto,"
+       ],
+       [
+        "senza aver operato ciò che desidero"
+       ],
+       [
+        "e senza aver compiuto ciò per cui l'ho mandata»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Isaïe"
+       ]
+      ],
+      "cite": "55, 10-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi parle le Seigneur :"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "« La pluie et la neige qui descendent des cieux n'y retournent pas sans avoir abreuvé la terre, sans l'avoir fécondée et l'avoir fait germer, donnant la semence au semeur et le pain à celui qui doit manger ; ainsi ma parole, qui sort de ma bouche, ne me reviendra pas sans résultat, sans avoir fait ce qui me plaît, sans avoir accompli sa mission. »"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesája"
+       ]
+      ],
+      "cite": "55, 10-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr:"
+       ],
+       [
+        "Wie der Regen und der Schnee vom Himmel fällt und nicht dorthin zurückkehrt, sondern die Erde tränkt und sie zum Keimen und Sprossen bringt, wie er dem Sämann Samen gibt und Brot zum Essen, so ist es auch mit dem Wort, das meinen Mund verlässt: Es kehrt nicht leer zu mir zurück, sondern bewirkt, was ich will, und erreicht all das, wozu ich es ausgesandt habe."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 33, 4-5. 6-7. 16-17. 18-19 (: 18b)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 33 (34), 4-5.6-7.16-17.18-19 (: 18b)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 33, 4-5. 6-7. 16-17. 18-19 (: 18b)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 33, 4-5. 6-7. 16-17. 18-19 (: 18b)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 33 (34)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 33, 4-5. 6-7. 16-17. 18-19 (: 18b)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 34 (33), 4-5. 6-7. 16-17. 18-19 (R: vgl. 18)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus tribulatiónibus eórum Deus líberat iustos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor liberta os justos de todas as angústias."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "From all their distress God rescues the just."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dios libra a los justos de sus angustias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore libera i giusti da tutte le loro angosce."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Chi spera nel Signore non resta confuso."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus tribulatiónibus eórum Deus líberat iustos.De toutes leurs angoisses, Dieu délivre les justes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Magnificáte Dóminum mecum,"
+       ],
+       [
+        "et exaltémus nomen eius in idípsum."
+       ],
+       [
+        "Exquisívi Dóminum, et exaudívit me,"
+       ],
+       [
+        "et ex ómnibus terróribus meis erípuit me."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Comigo engrandecei ao Senhor Deus,"
+       ],
+       [
+        "exaltemos todos juntos o seu nome!"
+       ],
+       [
+        "Todas as vezes que o busquei, ele me ouviu,"
+       ],
+       [
+        "e de todos os temores me livrou."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Glorify the Lord with me. Together let us praise his name. I sought the Lord and he answered me; from all my terrors he set me free."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamad conmigo la grandeza del Señor,"
+       ],
+       [
+        "ensalcemos juntos su nombre."
+       ],
+       [
+        "Yo consulté al Señor, y me respondió,"
+       ],
+       [
+        "me libró de todas mis ansias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Magnificate con me il Signore,"
+       ],
+       [
+        "esaltiamo insieme il suo nome."
+       ],
+       [
+        "Ho cercato il Signore: mi ha risposto"
+       ],
+       [
+        "e da ogni mia paura mi ha liberato."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Magnifiez avec moi le Seigneur,"
+       ],
+       [
+        "exaltons tous ensemble son nom."
+       ],
+       [
+        "Je cherche le Seigneur, il me répond :"
+       ],
+       [
+        "de toutes mes frayeurs, il me délivre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verherrlicht mit mir den Herrn,"
+       ],
+       [
+        "lasst uns gemeinsam seinen Namen rühmen."
+       ],
+       [
+        "Ich suchte den Herrn, und er hat mich erhört,"
+       ],
+       [
+        "er hat mich all meinen Ängsten entrissen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus tribulatiónibus eórum Deus líberat iustos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor liberta os justos de todas as angústias."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "From all their distress God rescues the just."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dios libra a los justos de sus angustias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore libera i giusti da tutte le loro angosce."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Chi spera nel Signore non resta confuso."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De toutes leurs angoisses, Dieu délivre les justes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Respícite ad eum, et illuminámini,"
+       ],
+       [
+        "et fácies vestræ non confundéntur."
+       ],
+       [
+        "Iste pauper clamávit, et Dóminus exaudívit eum,"
+       ],
+       [
+        "et de ómnibus tribulatiónibus eius salvávit eum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Contemplai a sua face e alegrai-vos,"
+       ],
+       [
+        "e vosso rosto não se cubra de vergonha!"
+       ],
+       [
+        "Este infeliz gritou a Deus, e foi ouvido,"
+       ],
+       [
+        "e o Senhor o libertou de toda angústia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look towards him and be radiant; let your faces not be abashed. This poor man called; the Lord heard him and rescued him from all his distress."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Contempladlo, y quedaréis radiantes,"
+       ],
+       [
+        "vuestro rostro no se avergonzará."
+       ],
+       [
+        "El afligido invocó al Señor,"
+       ],
+       [
+        "él lo escuchó y lo salvó de sus angustias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guardate a lui e sarete raggianti,"
+       ],
+       [
+        "i vostri volti non dovranno arrossire."
+       ],
+       [
+        "Questo povero grida e il Signore lo ascolta,"
+       ],
+       [
+        "lo salva da tutte le sue angosce."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui regarde vers lui resplendira,"
+       ],
+       [
+        "sans ombre ni trouble au visage."
+       ],
+       [
+        "Un pauvre crie ; le Seigneur entend :"
+       ],
+       [
+        "il le sauve de toutes ses angoisses."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Blickt auf zu ihm, so wird euer Gesicht leuchten,"
+       ],
+       [
+        "und ihr braucht nicht zu erröten."
+       ],
+       [
+        "Da ist ein Armer; er rief, und der Herr erhörte ihn."
+       ],
+       [
+        "Er half ihm aus all seinen Nöten."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus tribulatiónibus eórum Deus líberat iustos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor liberta os justos de todas as angústias."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "From all their distress God rescues the just."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dios libra a los justos de sus angustias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore libera i giusti da tutte le loro angosce."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Chi spera nel Signore non resta confuso."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De toutes leurs angoisses, Dieu délivre les justes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oculi Dómini super iustos,"
+       ],
+       [
+        "et aures eius in clamórem eórum."
+       ],
+       [
+        "Vultus autem Dómini super faciéntes mala,"
+       ],
+       [
+        "ut perdat de terra memóriam eórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor pousa seus olhos sobre os justos,"
+       ],
+       [
+        "e seu ouvido está atento ao seu chamado;"
+       ],
+       [
+        "mas ele volta a sua face contra os maus,"
+       ],
+       [
+        "para da terra apagar sua lembrança."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord turns his eyes to the just and his ears to their appeal. The Lord turns his face against the wicked to destroy their remembrance from the earth."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los ojos del Señor miran a los justos,"
+       ],
+       [
+        "sus oídos escuchan sus gritos;"
+       ],
+       [
+        "pero el Señor se enfrenta con los malhechores,"
+       ],
+       [
+        "para borrar de la tierra su memoria."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gli occhi del Signore sui giusti,"
+       ],
+       [
+        "i suoi orecchi al loro grido di aiuto."
+       ],
+       [
+        "Il volto del Signore contro i malfattori,"
+       ],
+       [
+        "per eliminarne dalla terra il ricordo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur regarde les justes,"
+       ],
+       [
+        "il écoute, attentif à leurs cris."
+       ],
+       [
+        "Le Seigneur affronte les méchants"
+       ],
+       [
+        "pour effacer de la terre leur mémoire."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Augen des Herrn blicken auf die Gerechten,"
+       ],
+       [
+        "seine Ohren hören ihr Schreien."
+       ],
+       [
+        "Das Antlitz des Herrn richtet sich gegen die Bösen,"
+       ],
+       [
+        "um ihr Andenken von der Erde zu tilgen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus tribulatiónibus eórum Deus líberat iustos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor liberta os justos de todas as angústias."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "From all their distress God rescues the just."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dios libra a los justos de sus angustias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore libera i giusti da tutte le loro angosce."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Chi spera nel Signore non resta confuso."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De toutes leurs angoisses, Dieu délivre les justes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Clamavérunt, et Dóminus exaudívit,"
+       ],
+       [
+        "et ex ómnibus tribulatiónibus eórum liberávit eos."
+       ],
+       [
+        "Iuxta est Dóminus iis qui contríto sunt corde,"
+       ],
+       [
+        "et confráctos spíritu salvábit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Clamam os justos, e o Senhor bondoso escuta"
+       ],
+       [
+        "e de todas as angústias os liberta."
+       ],
+       [
+        "Do coração atribulado ele está perto"
+       ],
+       [
+        "e conforta os de espírito abatido."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "They call and the Lord hears and rescues them in all their distress. The Lord is close to the broken-hearted; those whose spirit is crushed he will save."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cuando uno grita, el Señor lo escucha"
+       ],
+       [
+        "y lo libra de sus angustias;"
+       ],
+       [
+        "el Señor está cerca de los atribulados,"
+       ],
+       [
+        "salva a los abatidos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gridano i giusti e il Signore li ascolta,"
+       ],
+       [
+        "li libera da tutte le loro angosce."
+       ],
+       [
+        "Il Signore è vicino a chi ha il cuore spezzato,"
+       ],
+       [
+        "egli salva gli spiriti affranti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur entend ceux qui l'appellent :"
+       ],
+       [
+        "de toutes leurs angoisses, il les délivre."
+       ],
+       [
+        "Il est proche du cœur brisé,"
+       ],
+       [
+        "il sauve l'esprit abattu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Schreien die Gerechten, so hört sie der Herr;"
+       ],
+       [
+        "er entreißt sie all ihren Ängsten."
+       ],
+       [
+        "Nahe ist der Herr den zerbrochenen Herzen,"
+       ],
+       [
+        "er hilft denen auf, die zerknirscht sind."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus tribulatiónibus eórum Deus líberat iustos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor liberta os justos de todas as angústias."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "From all their distress God rescues the just."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dios libra a los justos de sus angustias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore libera i giusti da tutte le loro angosce."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Chi spera nel Signore non resta confuso."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De toutes leurs angoisses, Dieu délivre les justes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr hört die Gerechten, er entreißt sie all ihren Ängsten."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Versus ante Evangelium"
+       ]
+      ],
+      "cite": "Mt 4, 4b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non in pane solo vivet homo,"
+       ],
+       [
+        "sed in omni verbo quod procédit de ore Dei."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Mt 4, 4b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O homem não vive somente de pão,"
+       ],
+       [
+        "mas de toda palavra da boca de Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Mt 4:4",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Man does not live on bread alone, but on every word that comes from the mouth of God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Versículo antes del Evangelio"
+       ]
+      ],
+      "cite": "Mt 4, 4b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No solo de pan vive el hombre,"
+       ],
+       [
+        "sino de toda palabra que sale de la boca de Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "(Mt 4,4b)",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "ode a te, o Cristo, re di eterna gloria!"
+       ],
+       [
+        "Non di solo pane vivrà l'uomo,"
+       ],
+       [
+        "ma di ogni parola che esce dalla bocca di Dio."
+       ],
+       [
+        "Lode a te, o Cristo, re di eterna gloria!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verset avant l'Évangile"
+       ]
+      ],
+      "cite": "Mt 4, 4b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ta Parole, Seigneur, est vérité, et ta loi, délivrance."
+       ],
+       [
+        "L'homme ne vit pas seulement de pain, mais de toute parole qui sort de la bouche de Dieu."
+       ],
+       [
+        "Ta Parole, Seigneur, est vérité, et ta loi, délivrance."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "vgl. Mt 4, 4b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr Jesus, dir sei Ruhm und Ehre!"
+       ],
+       [
+        "Nicht nur von Brot lebt der Mensch, sondern von jedem Wort aus Gottes Mund."
+       ],
+       [
+        "Herr Jesus, dir sei Ruhm und Ehre!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sic ergo vos orabitis"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "6, 7-15",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vós deveis rezar assim."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "6, 7-15",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "6:7-15",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vosotros orad así"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "6, 7-15",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voi dunque pregate così."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "6, 7-15",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "6, 7-15",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "6, 7-15",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus discípulis suis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Orántes nolíte multum loqui sicut éthnici; putant enim quia in multilóquio suo exaudiántur. Nolíte ergo assimilári eis; scit enim Pater vester, quibus opus sit vobis, ántequam petátis eum. Sic ergo vos orábitis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pater noster, qui es in cælis, sanctificétur nomen tuum, advéniat regnum tuum, fiat volúntas tua, sicut in cælo, et in terra. Panem nostrum supersubstantiálem da nobis hódie; et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris; et ne indúcas nos in tentatiónem, sed líbera nos a Malo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si enim dimiséritis homínibus peccáta eórum, dimíttet et vobis Pater vester cæléstis; si autem non dimiséritis homínibus, nec Pater vester dimíttet peccáta vestra»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus aos seus discípulos: \"Quando orardes, não useis muitas palavras, como fazem os pagãos. Eles pensam que serão ouvidos por força das muitas palavras. Não sejais como eles, pois vosso Pai sabe do que precisais, muito antes que vós o peçais. Vós deveis rezar assim: Pai Nosso que estás nos céus, santificado seja o teu nome; venha o teu Reino; seja feita a tua vontade, assim na terra como nos céus. O pão nosso de cada dia dá-nos hoje. Perdoa as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido. E não nos deixes cair em tentação, mas livra-nos do mal. De fato, se vós perdoardes aos homens as faltas que eles cometeram, vosso Pai que está nos céus também vos perdoará. Mas, se vós não perdoardes aos homens, vosso Pai também não perdoará as faltas que vós cometestes\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his disciples: In your prayers do not babble as the pagans do, for they think that by using many words they will make themselves heard. Do not be like them; your Father knows what you need before you ask him. So you should pray like this: 'Our Father in heaven, may your name be held holy, your kingdom come, your will be done, on earth as in heaven. Give us today our daily bread. And forgive us our debts, as we have forgiven those who are in debt to us. And do not put us to the test, but save us from the evil one. Yes, if you forgive others their failings, your heavenly Father will forgive you yours; but if you do not forgive others, your Father will not forgive your failings either."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus discípulos:"
+       ],
+       [
+        "«Cuando recéis, no uséis muchas palabras, como los gentiles, que se imaginan que por hablar mucho les harán caso. No seáis como ellos, pues vuestro Padre sabe lo que os hace falta antes de que lo pidáis. Vosotros orad así:"
+       ],
+       [
+        "“Padre nuestro que estás en el cielo,"
+       ],
+       [
+        "santificado sea tu nombre,"
+       ],
+       [
+        "venga a nosotros tu reino,"
+       ],
+       [
+        "hágase tu voluntad en la tierra como en el cielo,"
+       ],
+       [
+        "danos hoy nuestro pan de cada día,"
+       ],
+       [
+        "perdona nuestras ofensas,"
+       ],
+       [
+        "como también nosotros perdonamos a los que nos ofenden, no nos dejes caer en la tentación,"
+       ],
+       [
+        "y líbranos del mal”."
+       ],
+       [
+        "Porque si perdonáis a los hombres sus ofensas, también os perdonará vuestro Padre celestial, pero si no perdonáis a los hombres, tampoco vuestro Padre perdonará vuestras ofensas»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi discepoli:"
+       ],
+       [
+        "«Pregando, non sprecate parole come i pagani: essi credono di venire ascoltati a forza di parole. Non siate dunque come loro, perché il Padre vostro sa di quali cose avete bisogno prima ancora che gliele chiediate."
+       ],
+       [
+        "Voi dunque pregate così:"
+       ],
+       [
+        "Padre nostro che sei nei cieli,"
+       ],
+       [
+        "sia santificato il tuo nome,"
+       ],
+       [
+        "venga il tuo regno,"
+       ],
+       [
+        "sia fatta la tua volontà,"
+       ],
+       [
+        "come in cielo così in terra."
+       ],
+       [
+        "Dacci oggi il nostro pane quotidiano,"
+       ],
+       [
+        "e rimetti a noi i nostri debiti"
+       ],
+       [
+        "come anche noi li rimettiamo ai nostri debitori,"
+       ],
+       [
+        "e non abbandonarci alla tentazione,"
+       ],
+       [
+        "ma liberaci dal male."
+       ],
+       [
+        "Se voi infatti perdonerete agli altri le loro colpe, il Padre vostro che è nei cieli perdonerà anche a voi; ma se voi non perdonerete agli altri, neppure il Padre vostro perdonerà le vostre colpe»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses disciples :"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "« Lorsque vous priez, ne rabâchez pas comme les païens : ils s'imaginent qu'à force de paroles ils seront exaucés. Ne les imitez donc pas, car votre Père sait de quoi vous avez besoin, avant même que vous l'ayez demandé. Vous donc, priez ainsi : Notre Père, qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain de ce jour. Remets-nous nos dettes, comme nous-mêmes nous remettons leurs dettes à nos débiteurs. Et ne nous laisse pas entrer en tentation, mais délivre-nous du Mal. Car, si vous pardonnez aux hommes leurs fautes, votre Père céleste vous pardonnera aussi. Mais si vous ne pardonnez pas aux hommes, votre Père non plus ne pardonnera pas vos fautes. »"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Wenn ihr betet, sollt ihr nicht plappern wie die Heiden, die meinen, sie werden nur erhört, wenn sie viele Worte machen. Macht es nicht wie sie; denn euer Vater weiß, was ihr braucht, noch ehe ihr ihn bittet. So sollt ihr beten:"
+       ],
+       [
+        "Unser Vater im Himmel, dein Name werde geheiligt, dein Reich komme, dein Wille geschehe wie im Himmel, so auf der Erde. Gib uns heute das Brot, das wir brauchen. Und erlass uns unsere Schulden, wie auch wir sie unseren Schuldnern erlassen haben. Und führe uns nicht in Versuchung, sondern rette uns vor dem Bösen."
+       ],
+       [
+        "Denn wenn ihr den Menschen ihre Verfehlungen vergebt, dann wird euer himmlischer Vater auch euch vergeben. Wenn ihr aber den Menschen nicht vergebt, dann wird euch euer Vater eure Verfehlungen auch nicht vergeben."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "la": "Tempus Quadragesimæ — Hebdomada I — Feria tertia",
+  "pt-BR": "Terça-feira da 1ª Semana da Quaresma",
+  "en-US": "Season of Lent — 1st Week: Tuesday",
+  "es": "Tiempo de Cuaresma — Martes de la I Semana",
+  "it": "MARTEDI DELLA I SETTIMANA DI QUARESIMA",
+  "fr": "Temps de Carêmebr — >1e semaine — Mardi",
+  "de": "Fastenzeit — 1. Woche: Dienstag"
+ }
+}

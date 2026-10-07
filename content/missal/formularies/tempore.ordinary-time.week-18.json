@@ -1,1 +1,1257 @@
-{"id":"tempore.ordinary-time.week-18","source":"tiempos/tiempos_ordinario#OT18","kind":"tempore","items":[{"slot":"221","text":{"la":[{"k":"h2","lines":[["DOMINICA XVIII «PER ANNUM»"]]}],"pt-BR":[{"k":"h2","lines":[["18º DOMINGO DO TEMPO COMUM"]]}],"en-US":[{"k":"h2","lines":[["18th SUNDAY IN ORDINARY TIME"]]}],"es":[{"k":"h2","lines":[["XVIII DOMINGO DEL TIEMPO ORDINARIO"]]}],"it":[{"k":"h2","lines":[["XVIII DOMENICA"]]}],"fr":[{"k":"h2","lines":[["Temps ordinaire"],["18ème DIMANCHE"]]}],"de":[{"k":"h2","lines":[["18. SONNTAG IM JAHRESKREIS"]]}]},"part":"title"},{"slot":"222","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ps 69, 2. 6"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Sl 69, 2. 6"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Ps 70 (69): 2, 6"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Sal 69, 2. 6"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 69,2.6"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ps 69, 2. 6"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 70 (69), 2. 6"}]},"part":"entranceAntiphon"},{"slot":"223","text":{"la":[{"k":"p","lines":[["Deus, in adiutórium meum inténde; Dómine, ad adiuvándum me festína. Adiútor meus et liberátor meus es tu; Dómine, ne moréris."]]}],"pt-BR":[{"k":"p","lines":[["Vinde ó Deus em meu auxílio,"],["apressai-vos, ó Senhor, em socorrer-me."],["Sois meu Deus libertador e meu auxílio."],["Não tardeis em socorrer-me, ó Senhor!"]]}],"en-US":[{"k":"p","lines":[["O God, come to my assistance; O Lord, make haste to help me! You are my rescuer, my help; O Lord, do not delay."]]}],"es":[{"k":"p","lines":[["Dios mío, ven en mi auxilio; Señor, date prisa en socorrerme. Que tú eres mi auxilio y mi liberación. Señor, no tardes."]]}],"it":[{"k":"p","lines":[["O Dio, vieni a salvarmi, Signore, vieni presto in mio aiuto. Tu sei mio aiuto e mio liberatore: Signore, non tardare."]]}],"fr":[{"k":"p","lines":[["Dieu, viens à mon aide,"],["Seigneur, viens vite à mon secours."],["Tu es mon secours, mon libérateur,"],["Seigneur, ne tarde pas !"]]}],"de":[{"k":"p","lines":[["Gott, komm mir zu Hilfe; Herr, eile, mir zu helfen. Meine Hilfe und mein Retter bist du, Herr, säume nicht."]]}]},"part":"entranceAntiphon"},{"slot":"224","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"225","text":{"la":[{"k":"p","lines":[["Adésto, Dómine, fámulis tuis, et perpétuam benignitátem largíre poscéntibus, ut his, qui te auctórem et gubernatórem gloriántur habére, et creáta restáures, et restauráta consérves. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Assisti, Senhor, os vossos fiéis"],["e cumulai com vossa inesgotável bondade,"],["aqueles que vos imploram"],["e se gloriam de vos ter como criador e guia,"],["restaurando para eles a vossa criação e conservando-a renovada."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Draw near to your servants, O Lord,"],["and answer their prayers with unceasing kindness,"],["that, for those who glory in you as their Creator and guide, you may restore what you have created"],["and keep safe what you have restored."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Atiende, Señor, a tus siervos"],["y derrama tu bondad imperecedera sobre los que te suplican,"],["para que renueves lo que creaste y conserves lo renovado"],["en estos que te alaban como autor y como guía."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Mostra la tua continua benevolenza, o Padre, e assisti il tuo popolo, che ti riconosce creatore e guida; rinnova l'opera della tua creazione e custodisci ciò che hai rinnovato. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Sois proche, Seigneur, de ceux qui te servent"],["et montre à ceux qui t'implorent ton éternelle bonté ;"],["c'est leur fierté d'avoir en toi leur Créateur et leur Guide :"],["restaure pour eux ta création,"],["et l'ayant renouvelée, protège-la."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, unser Vater, steh deinen Dienern bei und erweise allen, die zu dir rufen, Tag für Tag deine Liebe. Du bist unser Schöpfer und der Lenker unseres Lebens. Erneuere deine Gnade in uns, damit wir dir gefallen, und erhalte, was du erneuert hast. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"226","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"227","text":{"la":[{"k":"p","lines":[["Propítius, Dómine, quǽsumus, hæc dona sanctífica, et, hóstiæ spiritális oblatióne suscépta, nosmetípsos tibi pérfice munus ætérnum. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Nós vos pedimos, Senhor de bondade,"],["santificai estes dons"],["e, aceitando a oblação do sacrifício espiritual,"],["fazei de nós mesmos uma eterna oferenda para vós."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Graciously sanctify these gifts, O Lord, we pray, and, accepting the oblation of this spiritual sacrifice, make of us an eternal offering to you."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te pedimos, Señor,"],["que, en tu bondad, santifiques estos dones,"],["aceptes la ofrenda de este sacrificio espiritual"],["y nos transformes en oblación perenne."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Santifica, o Signore, i doni che ti presentiamo e, accogliendo questo sacrificio spirituale, trasforma anche noi in offerta perenne a te gradita. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dans ta bonté, sanctifie ces dons,"],["nous t'en prions, Seigneur ;"],["accepte le sacrifice spirituel que nous t'offrons,"],["et fais de nous-mêmes"],["une éternelle offrande pour toi."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, heilige diese Gaben. Nimm das Opfer an, das dir im Heiligen Geist dargebracht wird, und mache uns selbst zu einer Gabe, die für immer dir gehört. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"228","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Sap 16, 20"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Sb 16, 20"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Wis 16: 20"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Sap 16, 20"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Sap 16,20"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Sap 16, 20"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Weish 16, 20"}]},"part":"communionAntiphon"},{"slot":"229","text":{"la":[{"k":"p","lines":[["Panem de cælo dedísti nobis, Dómine, habéntem omne delectaméntum, et omnem sapórem suavitátis."]]}],"pt-BR":[{"k":"p","lines":[["Vós nos destes, Senhor, o pão do Céu,"],["que contém toda delícia e suave sabor."]]}],"en-US":[{"k":"p","lines":[["You have given us, O Lord, bread from heaven, endowed with all delights and sweetness in every taste."]]}],"es":[{"k":"p","lines":[["Señor, nos diste el pan del cielo, lleno de toda delicia y grato a cualquier gusto."]]}],"it":[{"k":"p","lines":[["Ci hai mandato, Signore, un pane dal cielo, un pane che porta in sé ogni dolcezza e soddisfa ogni desiderio."]]}],"fr":[{"k":"p","lines":[["Tu nous as donné, Seigneur, le pain venu du ciel,"],["pain aux multiples saveurs"],["qui comble tous les goûts."]]}],"de":[{"k":"p","lines":[["Herr, du hast uns Brot vom Himmel gegeben, das allen Wohlgeschmack in sich enthält:"]]}]},"part":"communionAntiphon"},{"slot":"230","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Io 6, 35"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Jo 6, 35"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Jn 6: 35"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Jn 6, 35"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Jn 6, 35"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Joh 6, 35"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"231","text":{"la":[{"k":"p","lines":[["Ego sum panis vitæ, dicit Dóminus. Qui venit ad me non esúriet, et qui credit in me non sítiet."]]}],"pt-BR":[{"k":"p","lines":[["Eu sou o pão da vida, diz o Senhor."],["Quem vem a mim não terá mais fome"],["e quem crê em mim nunca mais terá sede."]]}],"en-US":[{"k":"p","lines":[["I am the bread of life, says the Lord; whoever comes to me will not hunger"],["and whoever believes in me will not thirst."]]}],"es":[{"k":"p","lines":[["Yo soy el pan de vida. El que viene a mí no tendrá hambre y el que cree en mí no tendrá sed jamás, dice el Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"★ A "}],["Gesù prese i cinque pani e i due pesci, li diede ai discepoli, e i discepoli alla folla."],[{"m":"rubric","t":"★ B "}],["Io sono il pane della vita; chi viene a me non avrà più fame e chi crede in me non avrà più sete."],[{"m":"rubric","t":"★ C "}],["«Fatevi un tesoro sicuro nei cieli», dice il Signore."]],"cite":"Lc 12, 33"}],"fr":[{"k":"p","lines":[["Je suis le pain de la vie, dit le Seigneur,"],["celui qui vient à moi n'aura jamais faim,"],["celui qui croit en moi n'aura jamais soif."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Ich bin das Brot des Lebens, wer zu mir kommt, wird nicht mehr hungern, und wer an mich glaubt, wird nicht mehr Durst haben."]]}]},"part":"communionAntiphon"},{"slot":"232","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"233","text":{"la":[{"k":"p","lines":[["Quos cælésti récreas múnere, perpétuo, Dómine, comitáre præsídio, et, quos fovére non désinis, dignos fíeri sempitérna redemptióne concéde. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Acompanhai, Senhor, com vossa constante proteção"],["aqueles que restaurais com os dons do céu"],["e, como não cessais de protegê-los,"],["concedei que se tornem dignos da eterna redenção."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Accompany with constant protection, O Lord, those you renew with these heavenly gifts and, in your never-failing care for them, make them worthy of eternal redemption."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["A quienes has renovado con el don del cielo,"],["acompáñalos siempre con tu auxilio, Señor,"],["y, ya que no cesas de reconfortarlos,"],["haz que sean dignos de la redención eterna."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accompagna con la tua continua protezione, o Signore, i tuoi fedeli che nutri con il pane del cielo, e rendi degni della salvezza eterna coloro che non privi del tuo aiuto. Per Cristo nostro Signore. Tempo Ordinario"]]}],"fr":[{"k":"p","lines":[["Seigneur, entoure d'une constante protection"],["ceux que tu as renouvelés par le don du ciel ;"],["puisque tu ne cesses de les réconforter,"],["rends-les dignes de la rédemption éternelle."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, in den heiligen Gaben empfangen wir neue Kraft. Bleibe bei uns in aller Gefahr und versage uns nie deine Hilfe, damit wir der ewigen Erlösung würdig werden. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":6,"title":{"la":"DOMINICA XVIII «PER ANNUM»","pt-BR":"18º DOMINGO DO TEMPO COMUM","en-US":"18th SUNDAY IN ORDINARY TIME","es":"XVIII DOMINGO DEL TIEMPO ORDINARIO","it":"XVIII DOMENICA","fr":"Temps ordinaire — 18ème DIMANCHE","de":"18. SONNTAG IM JAHRESKREIS"},"weekdayPrecedence":13}
+{
+ "id": "tempore.ordinary-time.week-18",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMINICA XVIII «PER ANNUM»"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "18º DOMINGO DO TEMPO COMUM"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "18th SUNDAY IN ORDINARY TIME"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "XVIII DOMINGO DEL TIEMPO ORDINARIO"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "XVIII DOMENICA"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps ordinaire"
+       ],
+       [
+        "18ème DIMANCHE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "18. SONNTAG IM JAHRESKREIS"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ps 69, 2. 6"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Sl 69, 2. 6"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Ps 70 (69): 2, 6"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 69, 2. 6"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 69,2.6"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ps 69, 2. 6"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 70 (69), 2. 6"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, in adiutórium meum inténde; Dómine, ad adiuvándum me festína. Adiútor meus et liberátor meus es tu; Dómine, ne moréris."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vinde ó Deus em meu auxílio,"
+       ],
+       [
+        "apressai-vos, ó Senhor, em socorrer-me."
+       ],
+       [
+        "Sois meu Deus libertador e meu auxílio."
+       ],
+       [
+        "Não tardeis em socorrer-me, ó Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, come to my assistance; O Lord, make haste to help me! You are my rescuer, my help; O Lord, do not delay."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios mío, ven en mi auxilio; Señor, date prisa en socorrerme. Que tú eres mi auxilio y mi liberación. Señor, no tardes."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, vieni a salvarmi, Signore, vieni presto in mio aiuto. Tu sei mio aiuto e mio liberatore: Signore, non tardare."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu, viens à mon aide,"
+       ],
+       [
+        "Seigneur, viens vite à mon secours."
+       ],
+       [
+        "Tu es mon secours, mon libérateur,"
+       ],
+       [
+        "Seigneur, ne tarde pas !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, komm mir zu Hilfe; Herr, eile, mir zu helfen. Meine Hilfe und mein Retter bist du, Herr, säume nicht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Adésto, Dómine, fámulis tuis, et perpétuam benignitátem largíre poscéntibus, ut his, qui te auctórem et gubernatórem gloriántur habére, et creáta restáures, et restauráta consérves. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Assisti, Senhor, os vossos fiéis"
+       ],
+       [
+        "e cumulai com vossa inesgotável bondade,"
+       ],
+       [
+        "aqueles que vos imploram"
+       ],
+       [
+        "e se gloriam de vos ter como criador e guia,"
+       ],
+       [
+        "restaurando para eles a vossa criação e conservando-a renovada."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Draw near to your servants, O Lord,"
+       ],
+       [
+        "and answer their prayers with unceasing kindness,"
+       ],
+       [
+        "that, for those who glory in you as their Creator and guide, you may restore what you have created"
+       ],
+       [
+        "and keep safe what you have restored."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Atiende, Señor, a tus siervos"
+       ],
+       [
+        "y derrama tu bondad imperecedera sobre los que te suplican,"
+       ],
+       [
+        "para que renueves lo que creaste y conserves lo renovado"
+       ],
+       [
+        "en estos que te alaban como autor y como guía."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mostra la tua continua benevolenza, o Padre, e assisti il tuo popolo, che ti riconosce creatore e guida; rinnova l'opera della tua creazione e custodisci ciò che hai rinnovato. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sois proche, Seigneur, de ceux qui te servent"
+       ],
+       [
+        "et montre à ceux qui t'implorent ton éternelle bonté ;"
+       ],
+       [
+        "c'est leur fierté d'avoir en toi leur Créateur et leur Guide :"
+       ],
+       [
+        "restaure pour eux ta création,"
+       ],
+       [
+        "et l'ayant renouvelée, protège-la."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Vater, steh deinen Dienern bei und erweise allen, die zu dir rufen, Tag für Tag deine Liebe. Du bist unser Schöpfer und der Lenker unseres Lebens. Erneuere deine Gnade in uns, damit wir dir gefallen, und erhalte, was du erneuert hast. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Propítius, Dómine, quǽsumus, hæc dona sanctífica, et, hóstiæ spiritális oblatióne suscépta, nosmetípsos tibi pérfice munus ætérnum. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nós vos pedimos, Senhor de bondade,"
+       ],
+       [
+        "santificai estes dons"
+       ],
+       [
+        "e, aceitando a oblação do sacrifício espiritual,"
+       ],
+       [
+        "fazei de nós mesmos uma eterna oferenda para vós."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Graciously sanctify these gifts, O Lord, we pray, and, accepting the oblation of this spiritual sacrifice, make of us an eternal offering to you."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Señor,"
+       ],
+       [
+        "que, en tu bondad, santifiques estos dones,"
+       ],
+       [
+        "aceptes la ofrenda de este sacrificio espiritual"
+       ],
+       [
+        "y nos transformes en oblación perenne."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santifica, o Signore, i doni che ti presentiamo e, accogliendo questo sacrificio spirituale, trasforma anche noi in offerta perenne a te gradita. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans ta bonté, sanctifie ces dons,"
+       ],
+       [
+        "nous t'en prions, Seigneur ;"
+       ],
+       [
+        "accepte le sacrifice spirituel que nous t'offrons,"
+       ],
+       [
+        "et fais de nous-mêmes"
+       ],
+       [
+        "une éternelle offrande pour toi."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, heilige diese Gaben. Nimm das Opfer an, das dir im Heiligen Geist dargebracht wird, und mache uns selbst zu einer Gabe, die für immer dir gehört. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Sap 16, 20"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Sb 16, 20"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Wis 16: 20"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Sap 16, 20"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Sap 16,20"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Sap 16, 20"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Weish 16, 20"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Panem de cælo dedísti nobis, Dómine, habéntem omne delectaméntum, et omnem sapórem suavitátis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vós nos destes, Senhor, o pão do Céu,"
+       ],
+       [
+        "que contém toda delícia e suave sabor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You have given us, O Lord, bread from heaven, endowed with all delights and sweetness in every taste."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, nos diste el pan del cielo, lleno de toda delicia y grato a cualquier gusto."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ci hai mandato, Signore, un pane dal cielo, un pane che porta in sé ogni dolcezza e soddisfa ogni desiderio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu nous as donné, Seigneur, le pain venu du ciel,"
+       ],
+       [
+        "pain aux multiples saveurs"
+       ],
+       [
+        "qui comble tous les goûts."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, du hast uns Brot vom Himmel gegeben, das allen Wohlgeschmack in sich enthält:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Io 6, 35"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Jo 6, 35"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Jn 6: 35"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Jn 6, 35"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Jn 6, 35"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Joh 6, 35"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego sum panis vitæ, dicit Dóminus. Qui venit ad me non esúriet, et qui credit in me non sítiet."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu sou o pão da vida, diz o Senhor."
+       ],
+       [
+        "Quem vem a mim não terá mais fome"
+       ],
+       [
+        "e quem crê em mim nunca mais terá sede."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I am the bread of life, says the Lord; whoever comes to me will not hunger"
+       ],
+       [
+        "and whoever believes in me will not thirst."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo soy el pan de vida. El que viene a mí no tendrá hambre y el que cree en mí no tendrá sed jamás, dice el Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "★ A "
+        }
+       ],
+       [
+        "Gesù prese i cinque pani e i due pesci, li diede ai discepoli, e i discepoli alla folla."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B "
+        }
+       ],
+       [
+        "Io sono il pane della vita; chi viene a me non avrà più fame e chi crede in me non avrà più sete."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C "
+        }
+       ],
+       [
+        "«Fatevi un tesoro sicuro nei cieli», dice il Signore."
+       ]
+      ],
+      "cite": "Lc 12, 33"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je suis le pain de la vie, dit le Seigneur,"
+       ],
+       [
+        "celui qui vient à moi n'aura jamais faim,"
+       ],
+       [
+        "celui qui croit en moi n'aura jamais soif."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Ich bin das Brot des Lebens, wer zu mir kommt, wird nicht mehr hungern, und wer an mich glaubt, wird nicht mehr Durst haben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quos cælésti récreas múnere, perpétuo, Dómine, comitáre præsídio, et, quos fovére non désinis, dignos fíeri sempitérna redemptióne concéde. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acompanhai, Senhor, com vossa constante proteção"
+       ],
+       [
+        "aqueles que restaurais com os dons do céu"
+       ],
+       [
+        "e, como não cessais de protegê-los,"
+       ],
+       [
+        "concedei que se tornem dignos da eterna redenção."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accompany with constant protection, O Lord, those you renew with these heavenly gifts and, in your never-failing care for them, make them worthy of eternal redemption."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A quienes has renovado con el don del cielo,"
+       ],
+       [
+        "acompáñalos siempre con tu auxilio, Señor,"
+       ],
+       [
+        "y, ya que no cesas de reconfortarlos,"
+       ],
+       [
+        "haz que sean dignos de la redención eterna."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accompagna con la tua continua protezione, o Signore, i tuoi fedeli che nutri con il pane del cielo, e rendi degni della salvezza eterna coloro che non privi del tuo aiuto. Per Cristo nostro Signore. Tempo Ordinario"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, entoure d'une constante protection"
+       ],
+       [
+        "ceux que tu as renouvelés par le don du ciel ;"
+       ],
+       [
+        "puisque tu ne cesses de les réconforter,"
+       ],
+       [
+        "rends-les dignes de la rédemption éternelle."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, in den heiligen Gaben empfangen wir neue Kraft. Bleibe bei uns in aller Gefahr und versage uns nie deine Hilfe, damit wir der ewigen Erlösung würdig werden. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 6,
+ "title": {
+  "la": "DOMINICA XVIII «PER ANNUM»",
+  "pt-BR": "18º DOMINGO DO TEMPO COMUM",
+  "en-US": "18th SUNDAY IN ORDINARY TIME",
+  "es": "XVIII DOMINGO DEL TIEMPO ORDINARIO",
+  "it": "XVIII DOMENICA",
+  "fr": "Temps ordinaire — 18ème DIMANCHE",
+  "de": "18. SONNTAG IM JAHRESKREIS"
+ },
+ "weekdayPrecedence": 13
+}

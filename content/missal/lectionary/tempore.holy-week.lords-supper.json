@@ -1,1 +1,2872 @@
-{"id":"tempore.holy-week.lords-supper","source":"lecturas/lecturas_s01#S004D","items":[{"slot":"69","text":{"la":[{"k":"h2","lines":[["Hebdomada Sancta"],["SACRUM TRIDUUM PASCHALE"],["FERIA V IN CENA DOMINI"]]},{"k":"h3","lines":[["Ad Missam vespertinam"]]}],"pt-BR":[{"k":"h2","lines":[["SACRO TRÍDUO PASCAL"],["QUINTA-FEIRA"],["MISSA VESPERTINA DA CEIA DO SENHOR"]]}],"en-US":[{"k":"h2","lines":[["THE SACRED PASCHAL TRIDUUM"],["THURSDAY OF THE LORD'S SUPPER"]]},{"k":"h3","lines":[["At the Evening Mass"]]}],"es":[{"k":"h2","lines":[["SANTO TRIDUO PASCUAL"],["JUEVES SANTO"],["MISA VESPERTINA DE LA CENA DEL SEÑOR"]]}],"it":[{"k":"h2","lines":[["GIOVEDI SANTO"]]},{"k":"h3","lines":[["Alla Messa vespertina"]]}],"fr":[{"k":"h2","lines":[["Jeudi Saint"],["Cène du Seigneur"],["Semaine Sainte"]]},{"k":"h3","lines":[["Messe de la Veille au soir"]]}],"de":[{"k":"h2","lines":[["DIE DREI ÖSTERLICHEN TAGE VOM LEIDEN, VOM TOD UND VON DER AUFERSTEHUNG DES HERRN"],["GRÜNDONNERSTAG"],["MESSE VOM LETZTEN ABENDMAHL"]]}]}},{"slot":"70","text":{"la":[{"k":"p","lines":[["Lectio prior"]],"role":"title"},{"k":"p","lines":[["Præcepta de cena paschali"]],"role":"summary"},{"k":"p","lines":[["Léctio libri Exodi"]],"cite":"12, 1-8.11-14","role":"announcement"},{"k":"p","lines":[["In diébus illis:"]]},{"k":"p","lines":[["Dixit Dóminus ad Móysen et Aaron in terra Ægýpti: «Mensis iste vobis princípium ménsium, primus erit in ménsibus anni. Loquímini ad univérsum cœtum filiórum Israel et dícite eis:"]]},{"k":"p","lines":[["Décima die mensis huius tollat unusquísque agnum per famílias et domos suas. Sin autem minor est númerus, ut suffícere possit ad vescéndum agnum, assúmet vicínum suum, qui iunctus est dómui suæ, iuxta númerum animárum, quæ suffícere possunt ad esum agni. Erit autem vobis agnus absque mácula, másculus, annículus; quem de agnis vel hædis tollétis et servábitis eum usque ad quartam décimam diem mensis huius; immolabítque eum univérsa congregátio filiórum Israel ad vésperam. Et sument de sánguine eius ac ponent super utrúmque postem et in superlimináribus domórum, in quibus cómedent illum; et edent carnes nocte illa assas igni et ázymos panes cum lactúcis amáris."]]},{"k":"p","lines":[["Sic autem comedétis illum: renes vestros accingétis, calceaménta habébitis in pédibus, tenéntes báculos in mánibus, et comedétis festinánter; est enim Pascha (id est Tránsitus) Dómini! Et transíbo per terram Ægýpti nocte illa percutiámque omne primogénitum in terra Ægýpti ab hómine usque ad pecus; et in cunctis diis Ægýpti fáciam iudícia, ego Dóminus. Erit autem sanguis vobis in signum in aédibus, in quibus éritis; et vidébo sánguinem et transíbo vos, nec erit in vobis plaga dispérdens, quando percússero terram Ægýpti."]]},{"k":"p","lines":[["Habébitis autem hanc diem in monuméntum et celebrábitis eam sollémnem Dómino in generatiónibus vestris cultu sempitérno»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Primeira Leitura"]],"role":"title"},{"k":"p","lines":[["Ritual da ceia pascal"]],"role":"summary"},{"k":"p","lines":[["Leitura do Livro do Êxodo"]],"cite":"12, 1-8.11-14","role":"announcement"},{"k":"p","lines":[["Naqueles dias: O Senhor disse a Moisés e a Aarão no Egito: \"Este mês será para vós o começo dos meses; será o primeiro mês do ano. Falai a toda a comunidade dos filhos de Israel, dizendo: \"No décimo dia deste mês, cada um tome um cordeiro por família, um cordeiro para cada casa. Se a família não for bastante numerosa para comer um cordeiro, convidará também o vizinho mais próximo, de acordo com o número de pessoas. Deveis calcular o número de comensais, conforme o tamanho do cordeiro. O cordeiro será sem defeito, macho, de um ano. Podereis escolher tanto um cordeiro, como um cabrito: e devereis guardá-lo preso até ao dia catorze deste mês. Então toda a comunidade de Israel reunida o imolará ao cair da tarde. Tomareis um pouco do seu sangue e untareis os marcos e a travessa da porta, nas casas em que o comerem. Comereis a carne nessa mesma noite, assada ao fogo, com pães ázimos e ervas amargas. Assim devereis comê-lo: com os rins cingidos, sandálias nos pés e cajado na mão. E comereis às pressas, pois é a Páscoa, isto é, a \"Passagem\" do Senhor! E naquela noite passarei pela terra do Egito e ferirei na terra do Egito todos os primogênitos, desde os homens até os animais; e infligirei castigos contra todos os deuses do Egito, eu, o Senhor. O sangue servirá de sinal nas casas onde estiverdes. Ao ver o sangue, passarei adiante, e não vos atingirá a praga exterminadora, quando eu ferir a terra do Egito. Este dia será para vós uma festa memorável em honra do Senhor, que haveis de celebrar por todas as gerações, como instituição perpétua."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["First Reading"]],"role":"title"},{"k":"p","lines":[["A reading from the Book of Exodus"]],"cite":"12:1-8.11-14","role":"announcement"},{"k":"p","lines":[["The Lord said to Moses and Aaron in the land of Egypt, 'This month is the first of all the others for you, the first month of your year. Speak to the whole community of Israel and say, \"On the tenth day of this month each man must take an animal from the flock, one for each family: one animal for each household. If the household is too small to eat the animal, a man must join with his neighbour, the nearest to his house, as the number of persons requires. You must take into account what each can eat in deciding the number for the animal. It must be an animal without blemish, a male one year old; you may take it from either sheep or goats. You must keep it till the fourteenth day of the month when the whole assembly of the community of Israel shall slaughter it between the two evenings. Some of the blood must then be taken and put on the two doorposts and the lintel of the houses where it is eaten. That night, the flesh is to be eaten, roasted over the fire; it must be eaten with unleavened bread and bitter herbs. You shall eat it like this: with a girdle round your waist, sandals on your feet, a staff in your hand. You shall eat it hastily: it is a passover in honour of the Lord. That night, I will go through the land of Egypt and strike down all the first-born in the land of Egypt, man and beast alike, and I shall deal out punishment to all the gods of Egypt, I am the Lord! The blood shall serve to mark the houses that you live in. When I see the blood I will pass over you and you shall escape the destroying plague when I strike the land of Egypt. This day is to be a day of remembrance for you, and you must celebrate it as a feast in the Lord's honour. For all generations you are to declare it a day of festival, for ever."]]},{"k":"p","lines":[["The Word of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Primera Lectura"]],"role":"title"},{"k":"p","lines":[["Prescripciones sobre la cena pascual"]],"role":"summary"},{"k":"p","lines":[["Lectura del libro del Éxodo"]],"cite":"12, 1-8.11-14","role":"announcement"},{"k":"p","lines":[["En aquellos días, dijo el Señor a Moisés y a Aarón en tierra de Egipto:"],["«Este mes será para vosotros el principal de los meses; será para vosotros el primer mes del año. Decid a toda la asamblea de los hijos de Israel: “El diez de este mes cada uno procurará un animal para su familia, uno por casa. Si la familia es demasiado pequeña para comérselo, que se junte con el vecino más próximo a su casa, hasta completar el número de personas; y cada uno comerá su parte hasta terminarlo."],["Será un animal sin defecto, macho, de un año; lo escogeréis entre los corderos o los cabritos."],["Lo guardaréis hasta el día catorce del mes y toda la asamblea de los hijos de Israel lo matará al atardecer”. Tomaréis la sangre y rociaréis las dos jambas y el dintel de la casa donde lo comáis. Esa noche comeréis la carne, asada a fuego, y comeréis panes sin fermentar y hierbas amargas."],["Y lo comeréis así: la cintura ceñida, las sandalias en los pies, un bastón en la mano; y os lo comeréis a toda prisa, porque es la Pascua, el Paso del Señor."],["Yo pasaré esta noche por la tierra de Egipto y heriré a todos los primogénitos de la tierra de Egipto, desde los hombres hasta los ganados, y me tomaré justicia de todos los dioses de Egipto. Yo, el Señor."],["La sangre será vuestra señal en las casas donde habitáis. Cuando yo vea la sangre, pasaré de largo ante vosotros, y no habrá entre vosotros plaga exterminadora, cuando yo hiera a la tierra de Egipto."],["Este será un día memorable para vosotros; en él celebraréis fiesta en honor del Señor. De generación en generación, como ley perpetua lo festejaréis."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Prima lettura"]],"role":"title"},{"k":"p","lines":[["Prescrizioni per la cena pasquale."]],"role":"summary"},{"k":"p","lines":[["Dal libro dell'Esodo"]],"cite":"12, 1-8.11-14","role":"announcement"},{"k":"p","lines":[["In quei giorni, il Signore disse a Mosè e ad Aronne in terra d'Egitto:"],["«Questo mese sarà per voi l'inizio dei mesi, sarà per voi il primo mese dell'anno. Parlate a tutta la comunità d'Israele e dite: \"Il dieci di questo mese ciascuno si procuri un agnello per famiglia, un agnello per casa. Se la famiglia fosse troppo piccola per un agnello, si unirà al vicino, il più prossimo alla sua casa, secondo il numero delle persone; calcolerete come dovrà essere l'agnello secondo quanto ciascuno può mangiarne."],["Il vostro agnello sia senza difetto, maschio, nato nell'anno; potrete sceglierlo tra le pecore o tra le capre e lo conserverete fino al quattordici di questo mese: allora tutta l'assemblea della comunità d'Israele lo immolerà al tramonto. Preso un po' del suo sangue, lo porranno sui due stipiti e sull'architrave delle case nelle quali lo mangeranno. In quella notte ne mangeranno la carne arrostita al fuoco; la mangeranno con azzimi e con erbe amare. Ecco in qual modo lo mangerete: con i fianchi cinti, i sandali ai piedi, il bastone in mano; lo mangerete in fretta. È la Pasqua del Signore!"],["In quella notte io passerò per la terra d'Egitto e colpirò ogni primogenito nella terra d'Egitto, uomo o animale; così farò giustizia di tutti gli dèi dell'Egitto. Io sono il Signore! Il sangue sulle case dove vi troverete servirà da segno in vostro favore: io vedrò il sangue e passerò oltre; non vi sarà tra voi flagello di sterminio quando io colpirò la terra d'Egitto. Questo giorno sarà per voi un memoriale; lo celebrerete come festa del Signore: di generazione in generazione lo celebrerete come un rito perenne\"»."]]},{"k":"p","lines":[["Parola di Dio."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Première lecture"]],"role":"title"},{"k":"p","lines":[["Livre de l'Exode"]],"cite":"12, 1-8.11-14","role":"announcement"},{"k":"p","lines":[["En ces jours-là, dans le pays d'Égypte, le Seigneur dit à Moïse et à son frère Aaron : \" Ce mois-ci sera pour vous le premier des mois, il marquera pour vous le commencement de l'année. Parlez ainsi à toute la communauté d'Israël : le dix de ce mois, que l'on prenne un agneau par famille, un agneau par maison. Si la maisonnée est trop peu nombreuse pour un agneau, elle le prendra avec son voisin le plus proche, selon le nombre des personnes. Vous choisirez l'agneau d'après ce que chacun peut manger. Ce sera une bête sans défaut, un mâle, de l'année. Vous prendrez un agneau ou un chevreau. Vous le garderez jusqu'au quatorzième jour du mois. Dans toute l'assemblée de la communauté d'Israël, on l'immolera au coucher du soleil. On prendra du sang, que l'on mettra sur les deux montants et sur le linteau des maisons où on le mangera. On mangera sa chair cette nuit-là, on la mangera rôtie au feu, avec des pains sans levain et des herbes amères. Vous mangerez ainsi : la ceinture aux reins, les sandales aux pieds, le bâton à la main. Vous mangerez en toute hâte : c'est la Pâque du Seigneur. Je traverserai le pays d'Égypte, cette nuit-là ; je frapperai tout premier-né au pays d'Égypte, depuis les hommes jusqu'au bétail. Contre tous les dieux de l'Égypte j'exercerai mes jugements : Je suis le Seigneur. Le sang sera pour vous un signe, sur les maisons où vous serez. Je verrai le sang, et je passerai : vous ne serez pas atteints par le fléau dont je frapperai le pays d'Égypte."]]},{"k":"p","lines":[["Parole du Seigneur."]],"role":"conclusion"}],"de":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch Éxodus"]],"cite":",","role":"announcement"},{"k":"p","lines":[["In jenen Tagen"],["sprach der Herr zu Mose und Aaron in Ägypten: Dieser Monat soll die Reihe eurer Monate eröffnen, er soll euch als der Erste unter den Monaten des Jahres gelten. Sagt der ganzen Gemeinde Israel:"],["Am Zehnten dieses Monats soll jeder ein Lamm für seine Familie holen, ein Lamm für jedes Haus. Ist die Hausgemeinschaft für ein Lamm zu klein, so nehme er es zusammen mit dem Nachbarn, der seinem Haus am nächsten wohnt, nach der Anzahl der Personen. Bei der Aufteilung des Lammes müsst ihr berücksichtigen, wie viel der Einzelne essen kann. Nur ein fehlerfreies, männliches, einjähriges Lamm darf es sein, das Junge eines Schafes oder einer Ziege müsst ihr nehmen. Ihr sollt es bis zum vierzehnten Tag dieses Monats aufbewahren. Gegen Abend soll die ganze versammelte Gemeinde Israel die Lämmer schlachten. Man nehme etwas von dem Blut und bestreiche damit die beiden Türpfosten und den Türsturz an den Häusern, in denen man das Lamm essen will. Noch in der gleichen Nacht soll man das Fleisch essen. Über dem Feuer gebraten und zusammen mit ungesäuertem Brot und Bitterkräutern soll man es essen."],["So aber sollt ihr es essen: eure Hüften gegürtet, Schuhe an den Füßen, den Stab in der Hand. Esst es hastig! Es ist die Paschafeier für den Herrn. In dieser Nacht gehe ich durch Ägypten und erschlage in Ägypten jeden Erstgeborenen bei Mensch und Vieh. Über alle Götter Ägyptens halte ich Gericht, ich, der Herr. Das Blut an den Häusern, in denen ihr wohnt, soll ein Zeichen zu eurem Schutz sein. Wenn ich das Blut sehe, werde ich an euch vorübergehen, und das vernichtende Unheil wird euch nicht treffen, wenn ich in Ägypten dreinschlage."],["Diesen Tag sollt ihr als Gedenktag begehen. Feiert ihn als Fest zur Ehre des Herrn! Für die kommenden Generationen macht euch diese Feier zur festen Regel!"]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"71","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"slot":"72","text":{"la":[{"k":"p","lines":[["Psalmus Responsorius"]],"cite":"Ps 116, 12-13.15-16bc.17-18","role":"title"}],"pt-BR":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Salmo 115 (116), 12-13.15-16bc.17-18","role":"title"}],"en-US":[{"k":"p","lines":[["Responsorial Psalm"]],"cite":"Ps 116, 12-13.15-16bc.17-18","role":"title"}],"es":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 116, 12-13.15-16bc.17-18","role":"title"}],"it":[{"k":"p","lines":[["Salmo Responsoriale"]],"cite":"Sal 115","role":"title"}],"fr":[{"k":"p","lines":[["Psaume"]],"cite":"Ps 116, 12-13.15-16bc.17-18","role":"title"}],"de":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 116, 12-13.15-16bc.17-18","role":"title"}]},"part":"psalm"},{"slot":"73","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Calix benedictiónis communicátio Sánguinis Christi est."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Our blessing-cup is a communion with the blood of Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El cáliz de la bendición es comunión de la sangre de Cristo."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il tuo calice, Signore, è dono di salvezza."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La coupe de bénédiction est communion au sang du Christ."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Kelch des Segens gibt uns Anteil am Blut Christi."]]}]},"part":"psalm","role":"people"},{"slot":"74","text":{"la":[{"k":"p","lines":[["Quid retríbuam Dómino"],["pro ómnibus quæ retríbuit mihi?"],["Cálicem salutáris accípiam,"],["et nomen Dómini invocábo."]]}],"pt-BR":[{"k":"p","lines":[["Que poderei retribuir ao Senhor Deus"],["por tudo aquilo que ele fez em meu favor?"],["Elevo o cálice da minha salvação, invocando o nome santo do Senhor."]]}],"en-US":[{"k":"p","lines":[["How can I repay the Lord for his goodness to me? The cup of salvation I will raise; I will call on the Lord's name."]]}],"es":[{"k":"p","lines":[["¿Cómo pagaré al Señor"],["todo el bien que me ha hecho?"],["Alzaré la copa de la salvación,"],["invocando el nombre del Señor."]]}],"it":[{"k":"p","lines":[["Che cosa renderò al Signore,"],["per tutti i benefici che mi ha fatto?"],["Alzerò il calice della salvezza"],["e invocherò il nome del Signore."]]}],"fr":[{"k":"p","lines":[["Comment rendrai-je au Seigneur"],["tout le bien qu'il m'a fait ?"],["J'élèverai la coupe du salut,"],["j'invoquerai le nom du Seigneur."]]}],"de":[{"k":"p","lines":[["Wie kann ich dem Herrn all das vergelten,"],["was er mir Gutes getan hat?"],["Ich will den Kelch des Heils erheben"],["und anrufen den Namen des Herrn."]]}]},"part":"psalm","role":"verse"},{"slot":"75","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Calix benedictiónis communicátio Sánguinis Christi est."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Our blessing-cup is a communion with the blood of Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El cáliz de la bendición es comunión de la sangre de Cristo."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il tuo calice, Signore, è dono di salvezza."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La coupe de bénédiction est communion au sang du Christ."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Kelch des Segens gibt uns Anteil am Blut Christi."]]}]},"part":"psalm","role":"people"},{"slot":"76","text":{"la":[{"k":"p","lines":[["Pretiósa in conspéctu Dómini"],["mors sanctórum eius."],["Ego servus tuus et fílius ancíllæ tuæ."],["Dirupísti víncula mea."]]}],"pt-BR":[{"k":"p","lines":[["É sentida por demais pelo Senhor"],["a morte de seus santos, seus amigos."],["Eis que sou o vosso servo,"],["ó Senhor mas me quebrastes os grilhões da escravidão!"]]}],"en-US":[{"k":"p","lines":[["O precious in the eyes of the Lord is the death of his faithful. Your servant, Lord, your servant am I; you have loosened my bonds."]]}],"es":[{"k":"p","lines":[["Mucho le cuesta al Señor"],["la muerte de sus fieles."],["Señor, yo soy tu siervo,"],["hijo de tu esclava:"],["rompiste mis cadenas."]]}],"it":[{"k":"p","lines":[["Agli occhi del Signore è preziosa"],["la morte dei suoi fedeli."],["Io sono tuo servo, figlio della tua schiava:"],["tu hai spezzato le mie catene."]]}],"fr":[{"k":"p","lines":[["Il en coûte au Seigneur"],["de voir mourir les siens !"],["Ne suis-je pas, Seigneur, ton serviteur,"],["moi, dont tu brisas les chaînes ?"]]}],"de":[{"k":"p","lines":[["Kostbar ist in den Augen des Herrn"],["das Sterben seiner Frommen."],["Ach Herr, ich bin dein Knecht,"],["dein Knecht bin ich, der Sohn deiner Magd."],["Du hast meine Fesseln gelöst."]]}]},"part":"psalm","role":"verse"},{"slot":"77","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Calix benedictiónis communicátio Sánguinis Christi est."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Our blessing-cup is a communion with the blood of Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El cáliz de la bendición es comunión de la sangre de Cristo."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il tuo calice, Signore, è dono di salvezza."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La coupe de bénédiction est communion au sang du Christ."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Kelch des Segens gibt uns Anteil am Blut Christi."]]}]},"part":"psalm","role":"people"},{"slot":"78","text":{"la":[{"k":"p","lines":[["Tibi sacrificábo hóstiam laudis,"],["et nomen Dómini invocábo."],["Vota mea Dómino reddam"],["coram omni pópulo eius."]]}],"pt-BR":[{"k":"p","lines":[["Por isso oferto um sacrifício de louvor,"],["invocando o nome santo do Senhor."],["Vou cumprir minhas promessas ao Senhor na presença de seu povo reunido.."]]}],"en-US":[{"k":"p","lines":[["A thanksgiving sacrifice I make: I will call on the Lord's name. My vows to the Lord I will fulfill before all his people."]]}],"es":[{"k":"p","lines":[["Te ofreceré un sacrificio de alabanza,"],["invocando el nombre del Señor."],["Cumpliré al Señor mis votos"],["en presencia de todo el pueblo."]]}],"it":[{"k":"p","lines":[["A te offrirò un sacrificio di ringraziamento"],["e invocherò il nome del Signore."],["Adempirò i miei voti al Signore"],["davanti a tutto il suo popolo."]]}],"fr":[{"k":"p","lines":[["Je t'offrirai le sacrifice d'action de grâce,"],["j'invoquerai le nom du Seigneur."],["Je tiendrai mes promesses au Seigneur,"],["oui, devant tout son peuple."]]}],"de":[{"k":"p","lines":[["Ich will dir ein Opfer des Dankes bringen"],["und anrufen den Namen des Herrn."],["Ich will dem Herrn meine Gelübde erfüllen"],["offen vor seinem ganzen Volk."]]}]},"part":"psalm","role":"verse"},{"slot":"79","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Calix benedictiónis communicátio Sánguinis Christi est."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Our blessing-cup is a communion with the blood of Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"El cáliz de la bendición es comunión de la sangre de Cristo."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Il tuo calice, Signore, è dono di salvezza."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"La coupe de bénédiction est communion au sang du Christ."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Der Kelch des Segens gibt uns Anteil am Blut Christi."]]}]},"part":"psalm","role":"people"},{"slot":"80","text":{"la":[{"k":"p","lines":[["Lectio secunda"]],"role":"title"},{"k":"p","lines":[["Quotiescumque manducabitis et bibetis, mortem Domini annuntiatis"]],"role":"summary"},{"k":"p","lines":[["Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"]],"cite":"11, 23-26","role":"announcement"},{"k":"p","lines":[["Fratres:"]]},{"k":"p","lines":[["Ego accépi a Dómino, quod et trádidi vobis, quóniam Dóminus Iesus, in qua nocte tradebátur, accépit panem et grátias agens fregit et dixit: «Hoc est corpus meum, quod pro vobis est; hoc fácite in meam commemoratiónem»; simíliter et cálicem, postquam cenátum est, dicens: «Hic calix novum testaméntum est in meo sánguine; hoc fácite, quotiescúmque bibétis, in meam commemoratiónem». Quotiescúmque enim manducábitis panem hunc et cálicem bibétis, mortem Dómini annuntiátis, donec véniat."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Segunda Leitura"]],"role":"title"},{"k":"p","lines":[["Todas as vezes que comerdes deste pão e beberdes deste cálice, proclamais a morte do Senhor"]],"role":"summary"},{"k":"p","lines":[["Leitura da Primeira Epístola do apóstolo São Paulo aos Coríntios"]],"cite":"11, 23-26","role":"announcement"},{"k":"p","lines":[["Irmãos: O que eu recebi do Senhor foi isso que eu vos transmiti: Na noite em que foi entregue, o Senhor Jesus tomou o pão e, depois de dar graças, partiu-o e disse: \"Isto é o meu corpo que é dado por vós. Fazei isto em minha memória\".Do mesmo modo, depois da ceia, tomou também o cálice e disse: \"Este cálice é a nova aliança, em meu sangue. Todas as vezes que dele beberdes, fazei-o em memória de mim\". Todas as vezes, de fato, que comerdes deste pão e beberdes deste cálice, estareis proclamando a morte do Senhor, até que ele venha."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["Second Reading"]],"role":"title"},{"k":"p","lines":[["A reading from the first Letter of Saint Paul to the Corinthians"]],"cite":"11:23-26","role":"announcement"},{"k":"p","lines":[["This is what I received from the Lord, and in turn passed on to you: that on the same night that he was betrayed, the Lord Jesus took some bread, and thanked God for it and broke it, and he said, 'This is my body, which is for you; do this as a memorial of me'. In the same way he took the cup after supper, and said, 'This cup is the new covenant in my blood. Whenever you drink it, do this as a memorial of me.' Until the Lord comes, therefore, every time you eat this bread and drink this cup, you are proclaiming his death,"]]},{"k":"p","lines":[["The Word of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Segunda Lectura"]],"role":"title"},{"k":"p","lines":[["Cada vez que coméis y bebéis, proclamáis la muerte del Señor"]],"role":"summary"},{"k":"p","lines":[["Lectura de la primera carta del apóstol san Pablo a los Corintios"]],"cite":"11, 23-26","role":"announcement"},{"k":"p","lines":[["Hermanos:"],["Yo he recibido una tradición, que procede del Señor y que a mi vez os he transmitido: que el Señor Jesús, en la noche en que iba a ser entregado, tomó pan y, pronunciando la Acción de Gracias, lo partió y dijo:"],["«Esto es mi cuerpo, que se entrega por vosotros. Haced esto en memoria mía»."],["Lo mismo hizo con el cáliz, después de cenar, diciendo:"],["«Este cáliz es la nueva alianza en mi sangre; haced esto cada vez que lo bebáis, en memoria mía»."],["Por eso, cada vez que coméis de este pan y bebéis del cáliz, proclamáis la muerte del Señor, hasta que vuelva."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Seconda lettura"]],"role":"title"},{"k":"p","lines":[["Ogni volta che mangiate questo pane e bevete al calice, voi annunciate la morte del Signore."]],"role":"summary"},{"k":"p","lines":[["Dalla prima lettera di san Paolo apostolo ai Corinzi"]],"cite":"11,23-26","role":"announcement"},{"k":"p","lines":[["Fratelli, io ho ricevuto dal Signore quello che a mia volta vi ho trasmesso: il Signore Gesù, nella notte in cui veniva tradito, prese del pane e, dopo aver reso grazie, lo spezzò e disse: «Questo è il mio corpo, che è per voi; fate questo in memoria di me»."],["Allo stesso modo, dopo aver cenato, prese anche il calice, dicendo: «Questo calice è la nuova alleanza nel mio sangue; fate questo, ogni volta che ne bevete, in memoria di me»."],["Ogni volta infatti che mangiate questo pane e bevete al calice, voi annunciate la morte del Signore, finché egli venga."]]},{"k":"p","lines":[["Parola di Dio."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Deuxième lecture"]],"role":"title"},{"k":"p","lines":[["Première lettre de saint Paul Apôtre aux Corinthiens"]],"cite":"11, 23-26","role":"announcement"},{"k":"p","lines":[["Frères, moi, Paul, j'ai moi-même reçu ce qui vient du Seigneur, et je vous l'ai transmis : la nuit où il était livré, le Seigneur Jésus prit du pain, puis, ayant rendu grâce, il le rompit, et dit : \" Ceci est mon corps, qui est pour vous. Faites cela en mémoire de moi. \" Après le repas, il fit de même avec la coupe, en disant : \" Cette coupe est la nouvelle Alliance en mon sang. Chaque fois que vous en boirez, faites cela en mémoire de moi. \""]]},{"k":"p","lines":[["Ainsi donc, chaque fois que vous mangez ce pain et que vous buvez cette coupe, vous proclamez la mort du Seigneur, jusqu'à ce qu'il vienne."]]},{"k":"p","lines":[["Parole du Seigneur."]],"role":"conclusion"}],"de":[{"k":"p","lines":[["Zweite Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem ersten Brief des Apostels Paulus an die Korínther"]],"cite":"11, 23-26","role":"announcement"},{"k":"p","lines":[["Brüder!"],["Ich habe vom Herrn empfangen, was ich euch dann überliefert habe: Jesus, der Herr, nahm in der Nacht, in der er ausgeliefert wurde, Brot, sprach das Dankgebet, brach das Brot und sagte: Das ist mein Leib für euch. Tut dies zu meinem Gedächtnis! Ebenso nahm er nach dem Mahl den Kelch und sprach: Dieser Kelch ist der Neue Bund in meinem Blut. Tut dies, sooft ihr daraus trinkt, zu meinem Gedächtnis! Denn sooft ihr von diesem Brot esst und aus dem Kelch trinkt, verkündet ihr den Tod des Herrn, bis er kommt."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"secondReading"},{"slot":"81","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"secondReading"},{"slot":"82","text":{"la":[{"k":"p","lines":[["Versus ante Evangelium"]],"cite":"Io 13, 34","role":"title"},{"k":"p","lines":[["Mandátum novum do vobis dicit Dóminus, ut diligátis ínvicem, sicut diléxi vos."]]}],"pt-BR":[{"k":"p","lines":[["Aclamação ao Evangelho"]],"cite":"Jo 13, 34","role":"title"},{"k":"p","lines":[["Dou-vos um mandamento novo, diz o Senhor: amai-vos uns aos outros como Eu vos amei."]]}],"en-US":[{"k":"p","lines":[["Gospel Acclamation"]],"cite":"Jn 13:34","role":"title"},{"k":"p","lines":[["I give you a new commandment: Love one another as I have loved you."]]}],"es":[{"k":"p","lines":[["Aleluya"]],"cite":"Jn 13, 34","role":"title"},{"k":"p","lines":[["Os doy un mandamiento nuevo —dice el Señor—:"],["que os améis unos a otros, como yo os he amado."]]}],"it":[{"k":"p","lines":[["Canto al Vangelo"]],"cite":"Cf. Gv 13,34","role":"title"},{"k":"p","lines":[["Gloria e lode e onore a te, Cristo Signore!"],["Vi do un comandamento nuovo, dice il Signore:"],["come io ho amato voi, così amatevi anche voi gli uni gli altri. (Cfr. Gv 13,34)"],["Gloria e lode e onore a te, Cristo Signore!"]]}],"fr":[{"k":"p","lines":[["Verset avant l'Évangile"]],"cite":"Io 13, 34","role":"title"},{"k":"p","lines":[["Gloire et louange à toi, Seigneur Jésus !"],["Je vous donne un commandement nouveau, dit le Seigneur : \" Aimez-vous les uns les autres comme je vous ai aimés. \""],["Gloire et louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[["Ruf vor dem EvangeliumJoh 13, 34"]],"role":"title"},{"k":"p","lines":[["Herr Jesus, dir sei Ruhm und Ehre!"],["Ein neues Gebot gebe ich euch."],["Wie ich euch geliebt habe, so sollt auch ihr einander lieben."]]}]},"part":"acclamation"},{"slot":"83","text":{"la":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[["In finem diléxit eos"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Ioánnem"]],"cite":"13, 1-15","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Evangelho"]],"role":"title"},{"k":"p","lines":[["Amou-os até o fim"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Evangelho de Nosso Senhor Jesus Cristo segundo São João"]],"cite":"13, 1-15","role":"announcement"}],"en-US":[{"k":"p","lines":[["Gospel"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to John"]],"cite":"13:1-15","role":"announcement"}],"es":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["Los amó hasta el extremo"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Juan"]],"cite":"13, 1-15","role":"announcement"}],"it":[{"k":"p","lines":[["Vangelo"]],"role":"title"},{"k":"p","lines":[["Li amò sino alla fine."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal vangelo secondo Giovanni"]],"cite":"13, 1-15","role":"announcement"}],"fr":[{"k":"p","lines":[["Proclamation de l'Évangile"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Évangile de Jésus-Christ selon saint Jean"]],"cite":"13, 1-15","role":"announcement"}],"de":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Johannes"]],"cite":"13, 1-15","role":"announcement"}]},"part":"gospel"},{"slot":"84","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"85","text":{"la":[{"k":"p","lines":[["Ante diem festum Paschæ, sciens Iesus quia venit eius hora, ut tránseat ex hoc mundo ad Patrem, cum dilexísset suos, qui erant in mundo, in finem diléxit eos."]]},{"k":"p","lines":[["Et in cena, cum Diábolus iam misísset in corde, ut tráderet eum Iudas Simónis Iscariótis, sciens quia ómnia dedit ei Pater in manus, et quia a Deo exívit et ad Deum vadit, surgit a cena et ponit vestiménta sua et, cum accepísset línteum, præcínxit se. Deínde mittit aquam in pelvem et cœpit laváre pedes discipulórum et extérgere línteo, quo erat præcínctus."]]},{"k":"p","lines":[["Venit ergo ad Simónem Petrum. Dicit ei: «Dómine, tu mihi lavas pedes?»."]]},{"k":"p","lines":[["Respóndit Iesus et dixit ei: «Quod ego fácio, tu nescis modo, scies autem póstea»."]]},{"k":"p","lines":[["Dicit ei Petrus: «Non lavábis mihi pedes in ætérnum!»."]]},{"k":"p","lines":[["Respóndit Iesus ei: «Si non lávero te, non habes partem mecum»."]]},{"k":"p","lines":[["Dicit ei Simon Petrus: «Dómine, non tantum pedes meos sed et manus et caput!»."]]},{"k":"p","lines":[["Dicit ei Iesus: «Qui lotus est, non índiget nisi ut pedes lavet, sed est mundus totus; et vos mundi estis sed non omnes». Sciébat enim quisnam esset, qui tráderet eum; proptérea dixit: «Non estis mundi omnes»."]]},{"k":"p","lines":[["Postquam ergo lavit pedes eórum et accépit vestiménta sua, cum recubuísset íterum, dixit eis: «Scitis quid fécerim vobis? Vos vocátis me: «Magíster» et: «Dómine», et bene dícitis; sum étenim. Si ergo ego lavi vestros pedes, Dóminus et Magíster, et vos debétis alter alteríus laváre pedes. Exémplum enim dedi vobis, ut, quemádmodum ego feci vobis, et vos faciátis»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Antes da festa da Páscoa. Jesus sabia que tinha chegado a sua hora de passar deste mundo para o Pai; tendo amado os seus que estavam no mundo, amou-os até o fim.Estavam tomando a ceia. O diabo já tinha posto no coração de Judas, filho de Simão Iscariotes, o propósito de entregar Jesus. Jesus, sabendo que o Pai tinha colocado tudo em suas mãos e que de Deus tinha saído e para Deus voltava, levantou-se da mesa, tirou o manto, pegou uma toalha e amarrou-a na cintura. Derramou água numa bacia e começou a lavar os pés dos discípulos, enxugando-os com a toalha com que estava cingido. Chegou a vez de Simão Pedro. Pedro disse: \"Senhor, tu, me lavas os pés?\" Respondeu Jesus: \"Agora, não entendes o que estou fazendo; mais tarde compreenderás\". Disse-lhe Pedro: \"Tu nunca me lavarás os pés\"! Mas Jesus respondeu: \"Se eu não te lavar, não terás parte comigo\".Simão Pedro disse: \"Senhor, então lava não somente os meus pés, mas também as mãos e a cabeça\". Jesus respondeu: \"Quem já se banhou não precisa lavar senão os pés, porque já está todo limpo. Também vós estais limpos, mas não todos\". Jesus sabia quem o ia entregar; por isso disse: \"Nem todos estais limpos\". Depois de ter lavado os pés dos discípulos, Jesus vestiu o manto e sentou-se de novo. E disse aos discípulos: \"Compreendeis o que acabo de fazer?\"Vós me chamais Mestre e Senhor, e dizeis bem, pois eu o sou. Portanto, se eu, o Senhor e Mestre, vos lavei os pés, também vós deveis lavar os pés uns dos outros. Dei-vos o exemplo, para que façais a mesma coisa que eu fiz."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["It was before the festival of the Passover, and Jesus knew that the hour had come for him to pass from this world to the Father. He had always loved those who were his in the world, but now he showed how perfect his love was. They were at supper, and the devil had already put it into the mind of Judas Iscariot son of Simon, to betray him. Jesus knew that the Father had put everything into his hands, and that he had come from God and was returning to God, and he got up from table, removed his outer garment and, taking a towel, wrapped it round his waist; he then poured water into a basin and began to wash the disciples' feet and to wipe them with the towel he was wearing. He came to Simon Peter, who said to him, 'Lord, are you going to wash my feet?' Jesus answered, 'At the moment you do not know what I am doing, but later you will understand'. 'Never!' said Peter 'You shall never wash my feet.' Jesus replied, 'If I do not wash you, you can have nothing in common with me'. 'Then, Lord,' said Simon Peter 'not only my feet, but my hands and my head as well!' Jesus said, 'No one who has taken a bath needs washing, he is clean all over. You too are clean, though not all of you are.' He knew who was going to betray him, that was why he said, 'though not all of you are'. When he had washed their feet and put on his clothes again he went back to the table. 'Do you understand' he said 'what I have done to you? You call me Master and Lord, and rightly; so I am. If I, then, the Lord and Master, have washed your feet, you should wash each other's feet. I have given you an example so that you may copy what I have done to you."]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Antes de la fiesta de la Pascua, sabiendo Jesús que había llegado su hora de pasar de este mundo al Padre, habiendo amado a los suyos que estaban en el mundo, los amó hasta el extremo."],["Estaban cenando; ya el diablo había suscitado en el corazón de Judas, hijo de Simón Iscariote, la intención de entregarlo; y Jesús, sabiendo que el Padre había puesto todo en sus manos, que venía de Dios y a Dios volvía, se levanta de la cena, se quita el manto y, tomando una toalla, se la ciñe; luego echa agua en la jofaina y se pone a lavarles los pies a los discípulos, secándoselos con la toalla que se había ceñido."],["Llegó a Simón Pedro, y este le dice:"],["«Señor, ¿lavarme los pies tú a mí?»."],["Jesús le replicó:"],["«Lo que yo hago, tú no lo entiendes ahora, pero lo comprenderás más tarde»."],["Pedro le dice:"],["«No me lavarás los pies jamás»."],["Jesús le contestó:"],["«Si no te lavo, no tienes parte conmigo»."],["Simón Pedro le dice:"],["«Señor, no solo los pies, sino también las manos y la cabeza». Jesús le dice:"],["«Uno que se ha bañado no necesita lavarse más que los pies, porque todo él está limpio. También vosotros estáis limpios, aunque no todos»."],["Porque sabía quién lo iba a entregar, por eso dijo: «No todos estáis limpios»."],["Cuando acabó de lavarles los pies, tomó el manto, se lo puso otra vez y les dijo:"],["«¿Comprendéis lo que he hecho con vosotros? Vosotros me llamáis “el Maestro” y “el Señor”, y decís bien, porque lo soy. Pues si yo, el Maestro y el Señor, os he lavado los pies, también vosotros debéis lavaros los pies unos a otros: os he dado ejemplo para que lo que yo he hecho con vosotros, vosotros también lo hagáis»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Prima della festa di Pasqua, Gesù, sapendo che era venuta la sua ora di passare da questo mondo al Padre, avendo amato i suoi che erano nel mondo, li amò sino alla fine."],["Durante la cena, quando il diavolo aveva già messo in cuore a Giuda, figlio di Simone Iscariota, di tradirlo, Gesù, sapendo che il Padre gli aveva dato tutto nelle mani e che era venuto da Dio e a Dio ritornava, si alzò da tavola, depose le vesti, prese un asciugamano e se lo cinse attorno alla vita. Poi versò dell'acqua nel catino e cominciò a lavare i piedi dei discepoli e ad asciugarli con l'asciugamano di cui si era cinto."],["Venne dunque da Simon Pietro e questi gli disse: «Signore, tu lavi i piedi a me?». Rispose Gesù: «Quello che io faccio, tu ora non lo capisci; lo capirai dopo». Gli disse Pietro: «Tu non mi laverai i piedi in eterno!». Gli rispose Gesù: «Se non ti laverò, non avrai parte con me». Gli disse Simon Pietro: «Signore, non solo i miei piedi, ma anche le mani e il capo!». Soggiunse Gesù: «Chi ha fatto il bagno, non ha bisogno di lavarsi se non i piedi ed è tutto puro; e voi siete puri, ma non tutti». Sapeva infatti chi lo tradiva; per questo disse: «Non tutti siete puri»."],["Quando ebbe lavato loro i piedi, riprese le sue vesti, sedette di nuovo e disse loro: «Capite quello che ho fatto per voi? Voi mi chiamate il Maestro e il Signore, e dite bene, perché lo sono. Se dunque io, il Signore e il Maestro, ho lavato i piedi a voi, anche voi dovete lavare i piedi gli uni agli altri. Vi ho dato un esempio, infatti, perché anche voi facciate come io ho fatto a voi»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Avant la fête de la Pâque, sachant que l'heure était venue pour lui de passer de ce monde à son Père, Jésus, ayant aimé les siens qui étaient dans le monde, les aima jusqu'au bout."]]},{"k":"p","lines":[["Au cours du repas, alors que le diable a déjà mis dans le cœur de Judas, fils de Simon l'Iscariote, l'intention de le livrer, Jésus, sachant que le Père a tout remis entre ses mains, qu'il est sorti de Dieu et qu'il s'en va vers Dieu, se lève de table, dépose son vêtement, et prend un linge qu'il se noue à la ceinture ; puis il verse de l'eau dans un bassin. Alors il se mit à laver les pieds des disciples et à les essuyer avec le linge qu'il avait à la ceinture. Il arrive donc à Simon-Pierre, qui lui dit : \" C'est toi, Seigneur, qui me laves les pieds ? \" Jésus lui répondit : \" Ce que je veux faire, tu ne le sais pas maintenant ; plus tard tu comprendras. \" Pierre lui dit : \" Tu ne me laveras pas les pieds ; non, jamais ! \" Jésus lui répondit : \" Si je ne te lave pas, tu n'auras pas de part avec moi. \" Simon-Pierre lui dit : \" Alors, Seigneur, pas seulement les pieds, mais aussi les mains et la tête ! \" Jésus lui dit : \" Quand on vient de prendre un bain, on n'a pas besoin de se laver, sinon les pieds : on est pur tout entier. Vous-mêmes, vous êtes purs, mais non pas tous. \" Il savait bien qui allait le livrer ; et c'est pourquoi il disait : \" Vous n'êtes pas tous purs. \""]]},{"k":"p","lines":[["Quand il leur eut lavé les pieds, il reprit son vêtement, se remit à table et leur dit : \" Comprenez-vous ce que je viens de faire pour vous ? Vous m'appelez \"Maître\" et \"Seigneur\", et vous avez raison, car vraiment je le suis. Si donc moi, le Seigneur et le Maître, je vous ai lavé les pieds, vous aussi, vous devez vous laver les pieds les uns aux autres. C'est un exemple que je vous ai donné afin que vous fassiez, vous aussi, comme j'ai fait pour vous. \""]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["Es war vor dem Paschafest. Jesus wusste, dass seine Stunde gekommen war, um aus dieser Welt zum Vater hinüberzugehen. Da er die Seinen, die in der Welt waren, liebte, erwies er ihnen seine Liebe bis zur Vollendung."],["Es fand ein Mahl statt, und der Teufel hatte Judas, dem Sohn des Simon Iskariot, schon ins Herz gegeben, ihn zu verraten und auszuliefern. Jesus, der wusste, dass ihm der Vater alles in die Hand gegeben hatte und dass er von Gott gekommen war und zu Gott zurückkehrte, stand vom Mahl auf, legte sein Gewand ab und umgürtete sich mit einem Leinentuch. Dann goss er Wasser in eine Schüssel und begann, den Jüngern die Füße zu waschen und mit dem Leinentuch abzutrocknen, mit dem er umgürtet war."],["Als er zu Simon Petrus kam, sagte dieser zu ihm: Du, Herr, willst mir die Füße waschen?"],["Jesus antwortete ihm: Was ich tue, verstehst du jetzt noch nicht; doch später wirst du es begreifen."],["Petrus entgegnete ihm: Niemals sollst du mir die Füße waschen!"],["Jesus erwiderte ihm: Wenn ich dich nicht wasche, hast du keinen Anteil an mir."],["Da sagte Simon Petrus zu ihm: Herr, dann nicht nur meine Füße, sondern auch die Hände und das Haupt."],["Jesus sagte zu ihm: Wer vom Bad kommt, ist ganz rein und braucht sich nur noch die Füße zu waschen. Auch ihr seid rein, aber nicht alle. Er wusste nämlich, wer ihn verraten würde; darum sagte er: Ihr seid nicht alle rein."],["Als er ihnen die Füße gewaschen, sein Gewand wieder angelegt und Platz genommen hatte, sagte er zu ihnen: Begreift ihr, was ich an euch getan habe? Ihr sagt zu mir Meister und Herr, und ihr nennt mich mit Recht so; denn ich bin es. Wenn nun ich, der Herr und Meister, euch die Füße gewaschen habe, dann müsst auch ihr einander die Füße waschen. Ich habe euch ein Beispiel gegeben, damit auch ihr so handelt, wie ich an euch gehandelt habe."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"86","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"la":"Hebdomada Sancta — SACRUM TRIDUUM PASCHALE — FERIA V IN CENA DOMINI","pt-BR":"SACRO TRÍDUO PASCAL — QUINTA-FEIRA — MISSA VESPERTINA DA CEIA DO SENHOR","en-US":"THE SACRED PASCHAL TRIDUUM — THURSDAY OF THE LORD'S SUPPER","es":"SANTO TRIDUO PASCUAL — JUEVES SANTO — MISA VESPERTINA DE LA CENA DEL SEÑOR","it":"GIOVEDI SANTO","fr":"Jeudi Saint — Cène du Seigneur — Semaine Sainte","de":"DIE DREI ÖSTERLICHEN TAGE VOM LEIDEN, VOM TOD UND VON DER AUFERSTEHUNG DES HERRN — GRÜNDONNERSTAG — MESSE VOM LETZTEN ABENDMAHL"}}
+{
+ "id": "tempore.holy-week.lords-supper",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Hebdomada Sancta"
+       ],
+       [
+        "SACRUM TRIDUUM PASCHALE"
+       ],
+       [
+        "FERIA V IN CENA DOMINI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Ad Missam vespertinam"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SACRO TRÍDUO PASCAL"
+       ],
+       [
+        "QUINTA-FEIRA"
+       ],
+       [
+        "MISSA VESPERTINA DA CEIA DO SENHOR"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "THE SACRED PASCHAL TRIDUUM"
+       ],
+       [
+        "THURSDAY OF THE LORD'S SUPPER"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "At the Evening Mass"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SANTO TRIDUO PASCUAL"
+       ],
+       [
+        "JUEVES SANTO"
+       ],
+       [
+        "MISA VESPERTINA DE LA CENA DEL SEÑOR"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "GIOVEDI SANTO"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Alla Messa vespertina"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Jeudi Saint"
+       ],
+       [
+        "Cène du Seigneur"
+       ],
+       [
+        "Semaine Sainte"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Messe de la Veille au soir"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DIE DREI ÖSTERLICHEN TAGE VOM LEIDEN, VOM TOD UND VON DER AUFERSTEHUNG DES HERRN"
+       ],
+       [
+        "GRÜNDONNERSTAG"
+       ],
+       [
+        "MESSE VOM LETZTEN ABENDMAHL"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Præcepta de cena paschali"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Exodi"
+       ]
+      ],
+      "cite": "12, 1-8.11-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixit Dóminus ad Móysen et Aaron in terra Ægýpti: «Mensis iste vobis princípium ménsium, primus erit in ménsibus anni. Loquímini ad univérsum cœtum filiórum Israel et dícite eis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Décima die mensis huius tollat unusquísque agnum per famílias et domos suas. Sin autem minor est númerus, ut suffícere possit ad vescéndum agnum, assúmet vicínum suum, qui iunctus est dómui suæ, iuxta númerum animárum, quæ suffícere possunt ad esum agni. Erit autem vobis agnus absque mácula, másculus, annículus; quem de agnis vel hædis tollétis et servábitis eum usque ad quartam décimam diem mensis huius; immolabítque eum univérsa congregátio filiórum Israel ad vésperam. Et sument de sánguine eius ac ponent super utrúmque postem et in superlimináribus domórum, in quibus cómedent illum; et edent carnes nocte illa assas igni et ázymos panes cum lactúcis amáris."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sic autem comedétis illum: renes vestros accingétis, calceaménta habébitis in pédibus, tenéntes báculos in mánibus, et comedétis festinánter; est enim Pascha (id est Tránsitus) Dómini! Et transíbo per terram Ægýpti nocte illa percutiámque omne primogénitum in terra Ægýpti ab hómine usque ad pecus; et in cunctis diis Ægýpti fáciam iudícia, ego Dóminus. Erit autem sanguis vobis in signum in aédibus, in quibus éritis; et vidébo sánguinem et transíbo vos, nec erit in vobis plaga dispérdens, quando percússero terram Ægýpti."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habébitis autem hanc diem in monuméntum et celebrábitis eam sollémnem Dómino in generatiónibus vestris cultu sempitérno»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ritual da ceia pascal"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Êxodo"
+       ]
+      ],
+      "cite": "12, 1-8.11-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias: O Senhor disse a Moisés e a Aarão no Egito: \"Este mês será para vós o começo dos meses; será o primeiro mês do ano. Falai a toda a comunidade dos filhos de Israel, dizendo: \"No décimo dia deste mês, cada um tome um cordeiro por família, um cordeiro para cada casa. Se a família não for bastante numerosa para comer um cordeiro, convidará também o vizinho mais próximo, de acordo com o número de pessoas. Deveis calcular o número de comensais, conforme o tamanho do cordeiro. O cordeiro será sem defeito, macho, de um ano. Podereis escolher tanto um cordeiro, como um cabrito: e devereis guardá-lo preso até ao dia catorze deste mês. Então toda a comunidade de Israel reunida o imolará ao cair da tarde. Tomareis um pouco do seu sangue e untareis os marcos e a travessa da porta, nas casas em que o comerem. Comereis a carne nessa mesma noite, assada ao fogo, com pães ázimos e ervas amargas. Assim devereis comê-lo: com os rins cingidos, sandálias nos pés e cajado na mão. E comereis às pressas, pois é a Páscoa, isto é, a \"Passagem\" do Senhor! E naquela noite passarei pela terra do Egito e ferirei na terra do Egito todos os primogênitos, desde os homens até os animais; e infligirei castigos contra todos os deuses do Egito, eu, o Senhor. O sangue servirá de sinal nas casas onde estiverdes. Ao ver o sangue, passarei adiante, e não vos atingirá a praga exterminadora, quando eu ferir a terra do Egito. Este dia será para vós uma festa memorável em honra do Senhor, que haveis de celebrar por todas as gerações, como instituição perpétua."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Exodus"
+       ]
+      ],
+      "cite": "12:1-8.11-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord said to Moses and Aaron in the land of Egypt, 'This month is the first of all the others for you, the first month of your year. Speak to the whole community of Israel and say, \"On the tenth day of this month each man must take an animal from the flock, one for each family: one animal for each household. If the household is too small to eat the animal, a man must join with his neighbour, the nearest to his house, as the number of persons requires. You must take into account what each can eat in deciding the number for the animal. It must be an animal without blemish, a male one year old; you may take it from either sheep or goats. You must keep it till the fourteenth day of the month when the whole assembly of the community of Israel shall slaughter it between the two evenings. Some of the blood must then be taken and put on the two doorposts and the lintel of the houses where it is eaten. That night, the flesh is to be eaten, roasted over the fire; it must be eaten with unleavened bread and bitter herbs. You shall eat it like this: with a girdle round your waist, sandals on your feet, a staff in your hand. You shall eat it hastily: it is a passover in honour of the Lord. That night, I will go through the land of Egypt and strike down all the first-born in the land of Egypt, man and beast alike, and I shall deal out punishment to all the gods of Egypt, I am the Lord! The blood shall serve to mark the houses that you live in. When I see the blood I will pass over you and you shall escape the destroying plague when I strike the land of Egypt. This day is to be a day of remembrance for you, and you must celebrate it as a feast in the Lord's honour. For all generations you are to declare it a day of festival, for ever."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prescripciones sobre la cena pascual"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Éxodo"
+       ]
+      ],
+      "cite": "12, 1-8.11-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, dijo el Señor a Moisés y a Aarón en tierra de Egipto:"
+       ],
+       [
+        "«Este mes será para vosotros el principal de los meses; será para vosotros el primer mes del año. Decid a toda la asamblea de los hijos de Israel: “El diez de este mes cada uno procurará un animal para su familia, uno por casa. Si la familia es demasiado pequeña para comérselo, que se junte con el vecino más próximo a su casa, hasta completar el número de personas; y cada uno comerá su parte hasta terminarlo."
+       ],
+       [
+        "Será un animal sin defecto, macho, de un año; lo escogeréis entre los corderos o los cabritos."
+       ],
+       [
+        "Lo guardaréis hasta el día catorce del mes y toda la asamblea de los hijos de Israel lo matará al atardecer”. Tomaréis la sangre y rociaréis las dos jambas y el dintel de la casa donde lo comáis. Esa noche comeréis la carne, asada a fuego, y comeréis panes sin fermentar y hierbas amargas."
+       ],
+       [
+        "Y lo comeréis así: la cintura ceñida, las sandalias en los pies, un bastón en la mano; y os lo comeréis a toda prisa, porque es la Pascua, el Paso del Señor."
+       ],
+       [
+        "Yo pasaré esta noche por la tierra de Egipto y heriré a todos los primogénitos de la tierra de Egipto, desde los hombres hasta los ganados, y me tomaré justicia de todos los dioses de Egipto. Yo, el Señor."
+       ],
+       [
+        "La sangre será vuestra señal en las casas donde habitáis. Cuando yo vea la sangre, pasaré de largo ante vosotros, y no habrá entre vosotros plaga exterminadora, cuando yo hiera a la tierra de Egipto."
+       ],
+       [
+        "Este será un día memorable para vosotros; en él celebraréis fiesta en honor del Señor. De generación en generación, como ley perpetua lo festejaréis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prescrizioni per la cena pasquale."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro dell'Esodo"
+       ]
+      ],
+      "cite": "12, 1-8.11-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, il Signore disse a Mosè e ad Aronne in terra d'Egitto:"
+       ],
+       [
+        "«Questo mese sarà per voi l'inizio dei mesi, sarà per voi il primo mese dell'anno. Parlate a tutta la comunità d'Israele e dite: \"Il dieci di questo mese ciascuno si procuri un agnello per famiglia, un agnello per casa. Se la famiglia fosse troppo piccola per un agnello, si unirà al vicino, il più prossimo alla sua casa, secondo il numero delle persone; calcolerete come dovrà essere l'agnello secondo quanto ciascuno può mangiarne."
+       ],
+       [
+        "Il vostro agnello sia senza difetto, maschio, nato nell'anno; potrete sceglierlo tra le pecore o tra le capre e lo conserverete fino al quattordici di questo mese: allora tutta l'assemblea della comunità d'Israele lo immolerà al tramonto. Preso un po' del suo sangue, lo porranno sui due stipiti e sull'architrave delle case nelle quali lo mangeranno. In quella notte ne mangeranno la carne arrostita al fuoco; la mangeranno con azzimi e con erbe amare. Ecco in qual modo lo mangerete: con i fianchi cinti, i sandali ai piedi, il bastone in mano; lo mangerete in fretta. È la Pasqua del Signore!"
+       ],
+       [
+        "In quella notte io passerò per la terra d'Egitto e colpirò ogni primogenito nella terra d'Egitto, uomo o animale; così farò giustizia di tutti gli dèi dell'Egitto. Io sono il Signore! Il sangue sulle case dove vi troverete servirà da segno in vostro favore: io vedrò il sangue e passerò oltre; non vi sarà tra voi flagello di sterminio quando io colpirò la terra d'Egitto. Questo giorno sarà per voi un memoriale; lo celebrerete come festa del Signore: di generazione in generazione lo celebrerete come un rito perenne\"»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de l'Exode"
+       ]
+      ],
+      "cite": "12, 1-8.11-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, dans le pays d'Égypte, le Seigneur dit à Moïse et à son frère Aaron : \" Ce mois-ci sera pour vous le premier des mois, il marquera pour vous le commencement de l'année. Parlez ainsi à toute la communauté d'Israël : le dix de ce mois, que l'on prenne un agneau par famille, un agneau par maison. Si la maisonnée est trop peu nombreuse pour un agneau, elle le prendra avec son voisin le plus proche, selon le nombre des personnes. Vous choisirez l'agneau d'après ce que chacun peut manger. Ce sera une bête sans défaut, un mâle, de l'année. Vous prendrez un agneau ou un chevreau. Vous le garderez jusqu'au quatorzième jour du mois. Dans toute l'assemblée de la communauté d'Israël, on l'immolera au coucher du soleil. On prendra du sang, que l'on mettra sur les deux montants et sur le linteau des maisons où on le mangera. On mangera sa chair cette nuit-là, on la mangera rôtie au feu, avec des pains sans levain et des herbes amères. Vous mangerez ainsi : la ceinture aux reins, les sandales aux pieds, le bâton à la main. Vous mangerez en toute hâte : c'est la Pâque du Seigneur. Je traverserai le pays d'Égypte, cette nuit-là ; je frapperai tout premier-né au pays d'Égypte, depuis les hommes jusqu'au bétail. Contre tous les dieux de l'Égypte j'exercerai mes jugements : Je suis le Seigneur. Le sang sera pour vous un signe, sur les maisons où vous serez. Je verrai le sang, et je passerai : vous ne serez pas atteints par le fléau dont je frapperai le pays d'Égypte."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Éxodus"
+       ]
+      ],
+      "cite": ",",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen"
+       ],
+       [
+        "sprach der Herr zu Mose und Aaron in Ägypten: Dieser Monat soll die Reihe eurer Monate eröffnen, er soll euch als der Erste unter den Monaten des Jahres gelten. Sagt der ganzen Gemeinde Israel:"
+       ],
+       [
+        "Am Zehnten dieses Monats soll jeder ein Lamm für seine Familie holen, ein Lamm für jedes Haus. Ist die Hausgemeinschaft für ein Lamm zu klein, so nehme er es zusammen mit dem Nachbarn, der seinem Haus am nächsten wohnt, nach der Anzahl der Personen. Bei der Aufteilung des Lammes müsst ihr berücksichtigen, wie viel der Einzelne essen kann. Nur ein fehlerfreies, männliches, einjähriges Lamm darf es sein, das Junge eines Schafes oder einer Ziege müsst ihr nehmen. Ihr sollt es bis zum vierzehnten Tag dieses Monats aufbewahren. Gegen Abend soll die ganze versammelte Gemeinde Israel die Lämmer schlachten. Man nehme etwas von dem Blut und bestreiche damit die beiden Türpfosten und den Türsturz an den Häusern, in denen man das Lamm essen will. Noch in der gleichen Nacht soll man das Fleisch essen. Über dem Feuer gebraten und zusammen mit ungesäuertem Brot und Bitterkräutern soll man es essen."
+       ],
+       [
+        "So aber sollt ihr es essen: eure Hüften gegürtet, Schuhe an den Füßen, den Stab in der Hand. Esst es hastig! Es ist die Paschafeier für den Herrn. In dieser Nacht gehe ich durch Ägypten und erschlage in Ägypten jeden Erstgeborenen bei Mensch und Vieh. Über alle Götter Ägyptens halte ich Gericht, ich, der Herr. Das Blut an den Häusern, in denen ihr wohnt, soll ein Zeichen zu eurem Schutz sein. Wenn ich das Blut sehe, werde ich an euch vorübergehen, und das vernichtende Unheil wird euch nicht treffen, wenn ich in Ägypten dreinschlage."
+       ],
+       [
+        "Diesen Tag sollt ihr als Gedenktag begehen. Feiert ihn als Fest zur Ehre des Herrn! Für die kommenden Generationen macht euch diese Feier zur festen Regel!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 116, 12-13.15-16bc.17-18",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Salmo 115 (116), 12-13.15-16bc.17-18",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 116, 12-13.15-16bc.17-18",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 116, 12-13.15-16bc.17-18",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Sal 115",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 116, 12-13.15-16bc.17-18",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 116, 12-13.15-16bc.17-18",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Calix benedictiónis communicátio Sánguinis Christi est."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Our blessing-cup is a communion with the blood of Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El cáliz de la bendición es comunión de la sangre de Cristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il tuo calice, Signore, è dono di salvezza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La coupe de bénédiction est communion au sang du Christ."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Kelch des Segens gibt uns Anteil am Blut Christi."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quid retríbuam Dómino"
+       ],
+       [
+        "pro ómnibus quæ retríbuit mihi?"
+       ],
+       [
+        "Cálicem salutáris accípiam,"
+       ],
+       [
+        "et nomen Dómini invocábo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que poderei retribuir ao Senhor Deus"
+       ],
+       [
+        "por tudo aquilo que ele fez em meu favor?"
+       ],
+       [
+        "Elevo o cálice da minha salvação, invocando o nome santo do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "How can I repay the Lord for his goodness to me? The cup of salvation I will raise; I will call on the Lord's name."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "¿Cómo pagaré al Señor"
+       ],
+       [
+        "todo el bien que me ha hecho?"
+       ],
+       [
+        "Alzaré la copa de la salvación,"
+       ],
+       [
+        "invocando el nombre del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Che cosa renderò al Signore,"
+       ],
+       [
+        "per tutti i benefici che mi ha fatto?"
+       ],
+       [
+        "Alzerò il calice della salvezza"
+       ],
+       [
+        "e invocherò il nome del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Comment rendrai-je au Seigneur"
+       ],
+       [
+        "tout le bien qu'il m'a fait ?"
+       ],
+       [
+        "J'élèverai la coupe du salut,"
+       ],
+       [
+        "j'invoquerai le nom du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wie kann ich dem Herrn all das vergelten,"
+       ],
+       [
+        "was er mir Gutes getan hat?"
+       ],
+       [
+        "Ich will den Kelch des Heils erheben"
+       ],
+       [
+        "und anrufen den Namen des Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Calix benedictiónis communicátio Sánguinis Christi est."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Our blessing-cup is a communion with the blood of Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El cáliz de la bendición es comunión de la sangre de Cristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il tuo calice, Signore, è dono di salvezza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La coupe de bénédiction est communion au sang du Christ."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Kelch des Segens gibt uns Anteil am Blut Christi."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pretiósa in conspéctu Dómini"
+       ],
+       [
+        "mors sanctórum eius."
+       ],
+       [
+        "Ego servus tuus et fílius ancíllæ tuæ."
+       ],
+       [
+        "Dirupísti víncula mea."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "É sentida por demais pelo Senhor"
+       ],
+       [
+        "a morte de seus santos, seus amigos."
+       ],
+       [
+        "Eis que sou o vosso servo,"
+       ],
+       [
+        "ó Senhor mas me quebrastes os grilhões da escravidão!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O precious in the eyes of the Lord is the death of his faithful. Your servant, Lord, your servant am I; you have loosened my bonds."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mucho le cuesta al Señor"
+       ],
+       [
+        "la muerte de sus fieles."
+       ],
+       [
+        "Señor, yo soy tu siervo,"
+       ],
+       [
+        "hijo de tu esclava:"
+       ],
+       [
+        "rompiste mis cadenas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Agli occhi del Signore è preziosa"
+       ],
+       [
+        "la morte dei suoi fedeli."
+       ],
+       [
+        "Io sono tuo servo, figlio della tua schiava:"
+       ],
+       [
+        "tu hai spezzato le mie catene."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il en coûte au Seigneur"
+       ],
+       [
+        "de voir mourir les siens !"
+       ],
+       [
+        "Ne suis-je pas, Seigneur, ton serviteur,"
+       ],
+       [
+        "moi, dont tu brisas les chaînes ?"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Kostbar ist in den Augen des Herrn"
+       ],
+       [
+        "das Sterben seiner Frommen."
+       ],
+       [
+        "Ach Herr, ich bin dein Knecht,"
+       ],
+       [
+        "dein Knecht bin ich, der Sohn deiner Magd."
+       ],
+       [
+        "Du hast meine Fesseln gelöst."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Calix benedictiónis communicátio Sánguinis Christi est."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Our blessing-cup is a communion with the blood of Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El cáliz de la bendición es comunión de la sangre de Cristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il tuo calice, Signore, è dono di salvezza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La coupe de bénédiction est communion au sang du Christ."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Kelch des Segens gibt uns Anteil am Blut Christi."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tibi sacrificábo hóstiam laudis,"
+       ],
+       [
+        "et nomen Dómini invocábo."
+       ],
+       [
+        "Vota mea Dómino reddam"
+       ],
+       [
+        "coram omni pópulo eius."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por isso oferto um sacrifício de louvor,"
+       ],
+       [
+        "invocando o nome santo do Senhor."
+       ],
+       [
+        "Vou cumprir minhas promessas ao Senhor na presença de seu povo reunido.."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A thanksgiving sacrifice I make: I will call on the Lord's name. My vows to the Lord I will fulfill before all his people."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te ofreceré un sacrificio de alabanza,"
+       ],
+       [
+        "invocando el nombre del Señor."
+       ],
+       [
+        "Cumpliré al Señor mis votos"
+       ],
+       [
+        "en presencia de todo el pueblo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A te offrirò un sacrificio di ringraziamento"
+       ],
+       [
+        "e invocherò il nome del Signore."
+       ],
+       [
+        "Adempirò i miei voti al Signore"
+       ],
+       [
+        "davanti a tutto il suo popolo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je t'offrirai le sacrifice d'action de grâce,"
+       ],
+       [
+        "j'invoquerai le nom du Seigneur."
+       ],
+       [
+        "Je tiendrai mes promesses au Seigneur,"
+       ],
+       [
+        "oui, devant tout son peuple."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich will dir ein Opfer des Dankes bringen"
+       ],
+       [
+        "und anrufen den Namen des Herrn."
+       ],
+       [
+        "Ich will dem Herrn meine Gelübde erfüllen"
+       ],
+       [
+        "offen vor seinem ganzen Volk."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Calix benedictiónis communicátio Sánguinis Christi est."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Our blessing-cup is a communion with the blood of Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El cáliz de la bendición es comunión de la sangre de Cristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il tuo calice, Signore, è dono di salvezza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La coupe de bénédiction est communion au sang du Christ."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Kelch des Segens gibt uns Anteil am Blut Christi."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio secunda"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quotiescumque manducabitis et bibetis, mortem Domini annuntiatis"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "11, 23-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego accépi a Dómino, quod et trádidi vobis, quóniam Dóminus Iesus, in qua nocte tradebátur, accépit panem et grátias agens fregit et dixit: «Hoc est corpus meum, quod pro vobis est; hoc fácite in meam commemoratiónem»; simíliter et cálicem, postquam cenátum est, dicens: «Hic calix novum testaméntum est in meo sánguine; hoc fácite, quotiescúmque bibétis, in meam commemoratiónem». Quotiescúmque enim manducábitis panem hunc et cálicem bibétis, mortem Dómini annuntiátis, donec véniat."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Todas as vezes que comerdes deste pão e beberdes deste cálice, proclamais a morte do Senhor"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Epístola do apóstolo São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "11, 23-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: O que eu recebi do Senhor foi isso que eu vos transmiti: Na noite em que foi entregue, o Senhor Jesus tomou o pão e, depois de dar graças, partiu-o e disse: \"Isto é o meu corpo que é dado por vós. Fazei isto em minha memória\".Do mesmo modo, depois da ceia, tomou também o cálice e disse: \"Este cálice é a nova aliança, em meu sangue. Todas as vezes que dele beberdes, fazei-o em memória de mim\". Todas as vezes, de fato, que comerdes deste pão e beberdes deste cálice, estareis proclamando a morte do Senhor, até que ele venha."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to the Corinthians"
+       ]
+      ],
+      "cite": "11:23-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "This is what I received from the Lord, and in turn passed on to you: that on the same night that he was betrayed, the Lord Jesus took some bread, and thanked God for it and broke it, and he said, 'This is my body, which is for you; do this as a memorial of me'. In the same way he took the cup after supper, and said, 'This cup is the new covenant in my blood. Whenever you drink it, do this as a memorial of me.' Until the Lord comes, therefore, every time you eat this bread and drink this cup, you are proclaiming his death,"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cada vez que coméis y bebéis, proclamáis la muerte del Señor"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "11, 23-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Yo he recibido una tradición, que procede del Señor y que a mi vez os he transmitido: que el Señor Jesús, en la noche en que iba a ser entregado, tomó pan y, pronunciando la Acción de Gracias, lo partió y dijo:"
+       ],
+       [
+        "«Esto es mi cuerpo, que se entrega por vosotros. Haced esto en memoria mía»."
+       ],
+       [
+        "Lo mismo hizo con el cáliz, después de cenar, diciendo:"
+       ],
+       [
+        "«Este cáliz es la nueva alianza en mi sangre; haced esto cada vez que lo bebáis, en memoria mía»."
+       ],
+       [
+        "Por eso, cada vez que coméis de este pan y bebéis del cáliz, proclamáis la muerte del Señor, hasta que vuelva."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ogni volta che mangiate questo pane e bevete al calice, voi annunciate la morte del Signore."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "11,23-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, io ho ricevuto dal Signore quello che a mia volta vi ho trasmesso: il Signore Gesù, nella notte in cui veniva tradito, prese del pane e, dopo aver reso grazie, lo spezzò e disse: «Questo è il mio corpo, che è per voi; fate questo in memoria di me»."
+       ],
+       [
+        "Allo stesso modo, dopo aver cenato, prese anche il calice, dicendo: «Questo calice è la nuova alleanza nel mio sangue; fate questo, ogni volta che ne bevete, in memoria di me»."
+       ],
+       [
+        "Ogni volta infatti che mangiate questo pane e bevete al calice, voi annunciate la morte del Signore, finché egli venga."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "11, 23-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, moi, Paul, j'ai moi-même reçu ce qui vient du Seigneur, et je vous l'ai transmis : la nuit où il était livré, le Seigneur Jésus prit du pain, puis, ayant rendu grâce, il le rompit, et dit : \" Ceci est mon corps, qui est pour vous. Faites cela en mémoire de moi. \" Après le repas, il fit de même avec la coupe, en disant : \" Cette coupe est la nouvelle Alliance en mon sang. Chaque fois que vous en boirez, faites cela en mémoire de moi. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi donc, chaque fois que vous mangez ce pain et que vous buvez cette coupe, vous proclamez la mort du Seigneur, jusqu'à ce qu'il vienne."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korínther"
+       ]
+      ],
+      "cite": "11, 23-26",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Ich habe vom Herrn empfangen, was ich euch dann überliefert habe: Jesus, der Herr, nahm in der Nacht, in der er ausgeliefert wurde, Brot, sprach das Dankgebet, brach das Brot und sagte: Das ist mein Leib für euch. Tut dies zu meinem Gedächtnis! Ebenso nahm er nach dem Mahl den Kelch und sprach: Dieser Kelch ist der Neue Bund in meinem Blut. Tut dies, sooft ihr daraus trinkt, zu meinem Gedächtnis! Denn sooft ihr von diesem Brot esst und aus dem Kelch trinkt, verkündet ihr den Tod des Herrn, bis er kommt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "secondReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "secondReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Versus ante Evangelium"
+       ]
+      ],
+      "cite": "Io 13, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mandátum novum do vobis dicit Dóminus, ut diligátis ínvicem, sicut diléxi vos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 13, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dou-vos um mandamento novo, diz o Senhor: amai-vos uns aos outros como Eu vos amei."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Jn 13:34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I give you a new commandment: Love one another as I have loved you."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 13, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os doy un mandamiento nuevo —dice el Señor—:"
+       ],
+       [
+        "que os améis unos a otros, como yo os he amado."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Cf. Gv 13,34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloria e lode e onore a te, Cristo Signore!"
+       ],
+       [
+        "Vi do un comandamento nuovo, dice il Signore:"
+       ],
+       [
+        "come io ho amato voi, così amatevi anche voi gli uni gli altri. (Cfr. Gv 13,34)"
+       ],
+       [
+        "Gloria e lode e onore a te, Cristo Signore!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verset avant l'Évangile"
+       ]
+      ],
+      "cite": "Io 13, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloire et louange à toi, Seigneur Jésus !"
+       ],
+       [
+        "Je vous donne un commandement nouveau, dit le Seigneur : \" Aimez-vous les uns les autres comme je vous ai aimés. \""
+       ],
+       [
+        "Gloire et louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem EvangeliumJoh 13, 34"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr Jesus, dir sei Ruhm und Ehre!"
+       ],
+       [
+        "Ein neues Gebot gebe ich euch."
+       ],
+       [
+        "Wie ich euch geliebt habe, so sollt auch ihr einander lieben."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In finem diléxit eos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Ioánnem"
+       ]
+      ],
+      "cite": "13, 1-15",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Amou-os até o fim"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Evangelho de Nosso Senhor Jesus Cristo segundo São João"
+       ]
+      ],
+      "cite": "13, 1-15",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to John"
+       ]
+      ],
+      "cite": "13:1-15",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los amó hasta el extremo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Juan"
+       ]
+      ],
+      "cite": "13, 1-15",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Li amò sino alla fine."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Giovanni"
+       ]
+      ],
+      "cite": "13, 1-15",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Jean"
+       ]
+      ],
+      "cite": "13, 1-15",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Johannes"
+       ]
+      ],
+      "cite": "13, 1-15",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ante diem festum Paschæ, sciens Iesus quia venit eius hora, ut tránseat ex hoc mundo ad Patrem, cum dilexísset suos, qui erant in mundo, in finem diléxit eos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et in cena, cum Diábolus iam misísset in corde, ut tráderet eum Iudas Simónis Iscariótis, sciens quia ómnia dedit ei Pater in manus, et quia a Deo exívit et ad Deum vadit, surgit a cena et ponit vestiménta sua et, cum accepísset línteum, præcínxit se. Deínde mittit aquam in pelvem et cœpit laváre pedes discipulórum et extérgere línteo, quo erat præcínctus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venit ergo ad Simónem Petrum. Dicit ei: «Dómine, tu mihi lavas pedes?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Respóndit Iesus et dixit ei: «Quod ego fácio, tu nescis modo, scies autem póstea»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit ei Petrus: «Non lavábis mihi pedes in ætérnum!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Respóndit Iesus ei: «Si non lávero te, non habes partem mecum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit ei Simon Petrus: «Dómine, non tantum pedes meos sed et manus et caput!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit ei Iesus: «Qui lotus est, non índiget nisi ut pedes lavet, sed est mundus totus; et vos mundi estis sed non omnes». Sciébat enim quisnam esset, qui tráderet eum; proptérea dixit: «Non estis mundi omnes»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Postquam ergo lavit pedes eórum et accépit vestiménta sua, cum recubuísset íterum, dixit eis: «Scitis quid fécerim vobis? Vos vocátis me: «Magíster» et: «Dómine», et bene dícitis; sum étenim. Si ergo ego lavi vestros pedes, Dóminus et Magíster, et vos debétis alter alteríus laváre pedes. Exémplum enim dedi vobis, ut, quemádmodum ego feci vobis, et vos faciátis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antes da festa da Páscoa. Jesus sabia que tinha chegado a sua hora de passar deste mundo para o Pai; tendo amado os seus que estavam no mundo, amou-os até o fim.Estavam tomando a ceia. O diabo já tinha posto no coração de Judas, filho de Simão Iscariotes, o propósito de entregar Jesus. Jesus, sabendo que o Pai tinha colocado tudo em suas mãos e que de Deus tinha saído e para Deus voltava, levantou-se da mesa, tirou o manto, pegou uma toalha e amarrou-a na cintura. Derramou água numa bacia e começou a lavar os pés dos discípulos, enxugando-os com a toalha com que estava cingido. Chegou a vez de Simão Pedro. Pedro disse: \"Senhor, tu, me lavas os pés?\" Respondeu Jesus: \"Agora, não entendes o que estou fazendo; mais tarde compreenderás\". Disse-lhe Pedro: \"Tu nunca me lavarás os pés\"! Mas Jesus respondeu: \"Se eu não te lavar, não terás parte comigo\".Simão Pedro disse: \"Senhor, então lava não somente os meus pés, mas também as mãos e a cabeça\". Jesus respondeu: \"Quem já se banhou não precisa lavar senão os pés, porque já está todo limpo. Também vós estais limpos, mas não todos\". Jesus sabia quem o ia entregar; por isso disse: \"Nem todos estais limpos\". Depois de ter lavado os pés dos discípulos, Jesus vestiu o manto e sentou-se de novo. E disse aos discípulos: \"Compreendeis o que acabo de fazer?\"Vós me chamais Mestre e Senhor, e dizeis bem, pois eu o sou. Portanto, se eu, o Senhor e Mestre, vos lavei os pés, também vós deveis lavar os pés uns dos outros. Dei-vos o exemplo, para que façais a mesma coisa que eu fiz."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It was before the festival of the Passover, and Jesus knew that the hour had come for him to pass from this world to the Father. He had always loved those who were his in the world, but now he showed how perfect his love was. They were at supper, and the devil had already put it into the mind of Judas Iscariot son of Simon, to betray him. Jesus knew that the Father had put everything into his hands, and that he had come from God and was returning to God, and he got up from table, removed his outer garment and, taking a towel, wrapped it round his waist; he then poured water into a basin and began to wash the disciples' feet and to wipe them with the towel he was wearing. He came to Simon Peter, who said to him, 'Lord, are you going to wash my feet?' Jesus answered, 'At the moment you do not know what I am doing, but later you will understand'. 'Never!' said Peter 'You shall never wash my feet.' Jesus replied, 'If I do not wash you, you can have nothing in common with me'. 'Then, Lord,' said Simon Peter 'not only my feet, but my hands and my head as well!' Jesus said, 'No one who has taken a bath needs washing, he is clean all over. You too are clean, though not all of you are.' He knew who was going to betray him, that was why he said, 'though not all of you are'. When he had washed their feet and put on his clothes again he went back to the table. 'Do you understand' he said 'what I have done to you? You call me Master and Lord, and rightly; so I am. If I, then, the Lord and Master, have washed your feet, you should wash each other's feet. I have given you an example so that you may copy what I have done to you."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antes de la fiesta de la Pascua, sabiendo Jesús que había llegado su hora de pasar de este mundo al Padre, habiendo amado a los suyos que estaban en el mundo, los amó hasta el extremo."
+       ],
+       [
+        "Estaban cenando; ya el diablo había suscitado en el corazón de Judas, hijo de Simón Iscariote, la intención de entregarlo; y Jesús, sabiendo que el Padre había puesto todo en sus manos, que venía de Dios y a Dios volvía, se levanta de la cena, se quita el manto y, tomando una toalla, se la ciñe; luego echa agua en la jofaina y se pone a lavarles los pies a los discípulos, secándoselos con la toalla que se había ceñido."
+       ],
+       [
+        "Llegó a Simón Pedro, y este le dice:"
+       ],
+       [
+        "«Señor, ¿lavarme los pies tú a mí?»."
+       ],
+       [
+        "Jesús le replicó:"
+       ],
+       [
+        "«Lo que yo hago, tú no lo entiendes ahora, pero lo comprenderás más tarde»."
+       ],
+       [
+        "Pedro le dice:"
+       ],
+       [
+        "«No me lavarás los pies jamás»."
+       ],
+       [
+        "Jesús le contestó:"
+       ],
+       [
+        "«Si no te lavo, no tienes parte conmigo»."
+       ],
+       [
+        "Simón Pedro le dice:"
+       ],
+       [
+        "«Señor, no solo los pies, sino también las manos y la cabeza». Jesús le dice:"
+       ],
+       [
+        "«Uno que se ha bañado no necesita lavarse más que los pies, porque todo él está limpio. También vosotros estáis limpios, aunque no todos»."
+       ],
+       [
+        "Porque sabía quién lo iba a entregar, por eso dijo: «No todos estáis limpios»."
+       ],
+       [
+        "Cuando acabó de lavarles los pies, tomó el manto, se lo puso otra vez y les dijo:"
+       ],
+       [
+        "«¿Comprendéis lo que he hecho con vosotros? Vosotros me llamáis “el Maestro” y “el Señor”, y decís bien, porque lo soy. Pues si yo, el Maestro y el Señor, os he lavado los pies, también vosotros debéis lavaros los pies unos a otros: os he dado ejemplo para que lo que yo he hecho con vosotros, vosotros también lo hagáis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima della festa di Pasqua, Gesù, sapendo che era venuta la sua ora di passare da questo mondo al Padre, avendo amato i suoi che erano nel mondo, li amò sino alla fine."
+       ],
+       [
+        "Durante la cena, quando il diavolo aveva già messo in cuore a Giuda, figlio di Simone Iscariota, di tradirlo, Gesù, sapendo che il Padre gli aveva dato tutto nelle mani e che era venuto da Dio e a Dio ritornava, si alzò da tavola, depose le vesti, prese un asciugamano e se lo cinse attorno alla vita. Poi versò dell'acqua nel catino e cominciò a lavare i piedi dei discepoli e ad asciugarli con l'asciugamano di cui si era cinto."
+       ],
+       [
+        "Venne dunque da Simon Pietro e questi gli disse: «Signore, tu lavi i piedi a me?». Rispose Gesù: «Quello che io faccio, tu ora non lo capisci; lo capirai dopo». Gli disse Pietro: «Tu non mi laverai i piedi in eterno!». Gli rispose Gesù: «Se non ti laverò, non avrai parte con me». Gli disse Simon Pietro: «Signore, non solo i miei piedi, ma anche le mani e il capo!». Soggiunse Gesù: «Chi ha fatto il bagno, non ha bisogno di lavarsi se non i piedi ed è tutto puro; e voi siete puri, ma non tutti». Sapeva infatti chi lo tradiva; per questo disse: «Non tutti siete puri»."
+       ],
+       [
+        "Quando ebbe lavato loro i piedi, riprese le sue vesti, sedette di nuovo e disse loro: «Capite quello che ho fatto per voi? Voi mi chiamate il Maestro e il Signore, e dite bene, perché lo sono. Se dunque io, il Signore e il Maestro, ho lavato i piedi a voi, anche voi dovete lavare i piedi gli uni agli altri. Vi ho dato un esempio, infatti, perché anche voi facciate come io ho fatto a voi»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Avant la fête de la Pâque, sachant que l'heure était venue pour lui de passer de ce monde à son Père, Jésus, ayant aimé les siens qui étaient dans le monde, les aima jusqu'au bout."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Au cours du repas, alors que le diable a déjà mis dans le cœur de Judas, fils de Simon l'Iscariote, l'intention de le livrer, Jésus, sachant que le Père a tout remis entre ses mains, qu'il est sorti de Dieu et qu'il s'en va vers Dieu, se lève de table, dépose son vêtement, et prend un linge qu'il se noue à la ceinture ; puis il verse de l'eau dans un bassin. Alors il se mit à laver les pieds des disciples et à les essuyer avec le linge qu'il avait à la ceinture. Il arrive donc à Simon-Pierre, qui lui dit : \" C'est toi, Seigneur, qui me laves les pieds ? \" Jésus lui répondit : \" Ce que je veux faire, tu ne le sais pas maintenant ; plus tard tu comprendras. \" Pierre lui dit : \" Tu ne me laveras pas les pieds ; non, jamais ! \" Jésus lui répondit : \" Si je ne te lave pas, tu n'auras pas de part avec moi. \" Simon-Pierre lui dit : \" Alors, Seigneur, pas seulement les pieds, mais aussi les mains et la tête ! \" Jésus lui dit : \" Quand on vient de prendre un bain, on n'a pas besoin de se laver, sinon les pieds : on est pur tout entier. Vous-mêmes, vous êtes purs, mais non pas tous. \" Il savait bien qui allait le livrer ; et c'est pourquoi il disait : \" Vous n'êtes pas tous purs. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quand il leur eut lavé les pieds, il reprit son vêtement, se remit à table et leur dit : \" Comprenez-vous ce que je viens de faire pour vous ? Vous m'appelez \"Maître\" et \"Seigneur\", et vous avez raison, car vraiment je le suis. Si donc moi, le Seigneur et le Maître, je vous ai lavé les pieds, vous aussi, vous devez vous laver les pieds les uns aux autres. C'est un exemple que je vous ai donné afin que vous fassiez, vous aussi, comme j'ai fait pour vous. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Es war vor dem Paschafest. Jesus wusste, dass seine Stunde gekommen war, um aus dieser Welt zum Vater hinüberzugehen. Da er die Seinen, die in der Welt waren, liebte, erwies er ihnen seine Liebe bis zur Vollendung."
+       ],
+       [
+        "Es fand ein Mahl statt, und der Teufel hatte Judas, dem Sohn des Simon Iskariot, schon ins Herz gegeben, ihn zu verraten und auszuliefern. Jesus, der wusste, dass ihm der Vater alles in die Hand gegeben hatte und dass er von Gott gekommen war und zu Gott zurückkehrte, stand vom Mahl auf, legte sein Gewand ab und umgürtete sich mit einem Leinentuch. Dann goss er Wasser in eine Schüssel und begann, den Jüngern die Füße zu waschen und mit dem Leinentuch abzutrocknen, mit dem er umgürtet war."
+       ],
+       [
+        "Als er zu Simon Petrus kam, sagte dieser zu ihm: Du, Herr, willst mir die Füße waschen?"
+       ],
+       [
+        "Jesus antwortete ihm: Was ich tue, verstehst du jetzt noch nicht; doch später wirst du es begreifen."
+       ],
+       [
+        "Petrus entgegnete ihm: Niemals sollst du mir die Füße waschen!"
+       ],
+       [
+        "Jesus erwiderte ihm: Wenn ich dich nicht wasche, hast du keinen Anteil an mir."
+       ],
+       [
+        "Da sagte Simon Petrus zu ihm: Herr, dann nicht nur meine Füße, sondern auch die Hände und das Haupt."
+       ],
+       [
+        "Jesus sagte zu ihm: Wer vom Bad kommt, ist ganz rein und braucht sich nur noch die Füße zu waschen. Auch ihr seid rein, aber nicht alle. Er wusste nämlich, wer ihn verraten würde; darum sagte er: Ihr seid nicht alle rein."
+       ],
+       [
+        "Als er ihnen die Füße gewaschen, sein Gewand wieder angelegt und Platz genommen hatte, sagte er zu ihnen: Begreift ihr, was ich an euch getan habe? Ihr sagt zu mir Meister und Herr, und ihr nennt mich mit Recht so; denn ich bin es. Wenn nun ich, der Herr und Meister, euch die Füße gewaschen habe, dann müsst auch ihr einander die Füße waschen. Ich habe euch ein Beispiel gegeben, damit auch ihr so handelt, wie ich an euch gehandelt habe."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "la": "Hebdomada Sancta — SACRUM TRIDUUM PASCHALE — FERIA V IN CENA DOMINI",
+  "pt-BR": "SACRO TRÍDUO PASCAL — QUINTA-FEIRA — MISSA VESPERTINA DA CEIA DO SENHOR",
+  "en-US": "THE SACRED PASCHAL TRIDUUM — THURSDAY OF THE LORD'S SUPPER",
+  "es": "SANTO TRIDUO PASCUAL — JUEVES SANTO — MISA VESPERTINA DE LA CENA DEL SEÑOR",
+  "it": "GIOVEDI SANTO",
+  "fr": "Jeudi Saint — Cène du Seigneur — Semaine Sainte",
+  "de": "DIE DREI ÖSTERLICHEN TAGE VOM LEIDEN, VOM TOD UND VON DER AUFERSTEHUNG DES HERRN — GRÜNDONNERSTAG — MESSE VOM LETZTEN ABENDMAHL"
+ }
+}

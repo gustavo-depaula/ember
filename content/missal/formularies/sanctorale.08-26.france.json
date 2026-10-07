@@ -1,1 +1,307 @@
-{"id":"sanctorale.08-26.france","source":"santos/santos_fran#0826","kind":"sanctoral","items":[{"text":{"*":[{"k":"h2","lines":[["26 août"],["Saint Césaire d’Arles, évêque"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Mémoire facultative en France"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"p","lines":[["Moine de Lérins, puis évêque d'Arles pendant quarante ans (503-543), Césaire s'affirma comme un chef, dont l'influence s'exerça sur la Gaule méridionale et l'Espagne. Il sut à la fois protéger son peuple contre les exactions des Barbares et l'enseigner par des homélies simples et vivantes. Mais il parla aussi en docteur dans les conciles qu'il présida."]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Antienne d'ouverture"]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Le Seigneur s’est choisi saint Césaire d'Arles comme prêtre,"],["et, lui ouvrant ses trésors,"],["il lui a donné de faire beaucoup de bien."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Tu as donné, Seigneur, au bienheureux Césaire d'Arles"],["une grande aptitude pour enseigner au peuple ta Parole ;"],["daigne ouvrir nos cœurs"],["au message qu'il nous a transmis"],["avec fidélité et conviction."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l’unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}]},"part":"collect"},{"mark":"readings"},{"text":{"*":[{"k":"h4","lines":[["Prière sur les offrandes"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["En célébrant, Seigneur, la mémoire des saints,"],["nous offrons ce sacrifice à ta louange ;"],["C’est en lui que nous mettons notre espoir :"],["qu’il nous délivre du mal aujourd’hui et demain."],["Par Jésus."],[{"m":"rubric","t":"Ou bien :"}],["Accueille, Seigneur, les offrandes"],["que ton peuple te présente en l’honneur de saint Césaire d'Arles,"],["qu’elles nous obtiennent de ta bonté"],["les secours que nous attendons."],["Par Jésus."]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"h4","lines":[["Préface"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Jn 10, 11"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["Le bon pasteur, le vrai berger, donne sa vie pour ses brebis."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Prière après la communion"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Que cette communion, Seigneur notre Dieu,"],["ravive en nous l’ardeur de charité"],["et nous brûle de ce feu qui dévorait saint Césaire d'Arles,"],["alors qu’il se dépensait pour ton Église."],["Par Jésus."]]}]},"part":"postcommunion"}],"precedence":10,"lectionary":"sanctorale.08-26.france","prefaces":["preface.56"],"title":{"*":"Saint Césaire d’Arles, évêque"}}
+{
+ "id": "sanctorale.08-26.france",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "26 août"
+       ],
+       [
+        "Saint Césaire d’Arles, évêque"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Mémoire facultative en France"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Moine de Lérins, puis évêque d'Arles pendant quarante ans (503-543), Césaire s'affirma comme un chef, dont l'influence s'exerça sur la Gaule méridionale et l'Espagne. Il sut à la fois protéger son peuple contre les exactions des Barbares et l'enseigner par des homélies simples et vivantes. Mais il parla aussi en docteur dans les conciles qu'il présida."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur s’est choisi saint Césaire d'Arles comme prêtre,"
+       ],
+       [
+        "et, lui ouvrant ses trésors,"
+       ],
+       [
+        "il lui a donné de faire beaucoup de bien."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu as donné, Seigneur, au bienheureux Césaire d'Arles"
+       ],
+       [
+        "une grande aptitude pour enseigner au peuple ta Parole ;"
+       ],
+       [
+        "daigne ouvrir nos cœurs"
+       ],
+       [
+        "au message qu'il nous a transmis"
+       ],
+       [
+        "avec fidélité et conviction."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En célébrant, Seigneur, la mémoire des saints,"
+       ],
+       [
+        "nous offrons ce sacrifice à ta louange ;"
+       ],
+       [
+        "C’est en lui que nous mettons notre espoir :"
+       ],
+       [
+        "qu’il nous délivre du mal aujourd’hui et demain."
+       ],
+       [
+        "Par Jésus."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ],
+       [
+        "Accueille, Seigneur, les offrandes"
+       ],
+       [
+        "que ton peuple te présente en l’honneur de saint Césaire d'Arles,"
+       ],
+       [
+        "qu’elles nous obtiennent de ta bonté"
+       ],
+       [
+        "les secours que nous attendons."
+       ],
+       [
+        "Par Jésus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Jn 10, 11"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le bon pasteur, le vrai berger, donne sa vie pour ses brebis."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que cette communion, Seigneur notre Dieu,"
+       ],
+       [
+        "ravive en nous l’ardeur de charité"
+       ],
+       [
+        "et nous brûle de ce feu qui dévorait saint Césaire d'Arles,"
+       ],
+       [
+        "alors qu’il se dépensait pour ton Église."
+       ],
+       [
+        "Par Jésus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 10,
+ "lectionary": "sanctorale.08-26.france",
+ "prefaces": [
+  "preface.56"
+ ],
+ "title": {
+  "*": "Saint Césaire d’Arles, évêque"
+ }
+}

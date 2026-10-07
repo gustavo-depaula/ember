@@ -1,1 +1,1890 @@
-{"id":"common.martyrs.7","source":"comunes_votivas/comunes_mart#mart7","kind":"common","items":[{"slot":"111","text":{"la":[{"k":"h2","lines":[["COMMUNE MARTYRUM"]]},{"k":"h3","lines":[["I. EXTRA TEMPUS PASCHALE"],["B. Pro uno martyre"],["2"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DOS MÁRTIRES"]]},{"k":"h3","lines":[["I. FORA DO TEMPO PASCAL"],["B. Para um mártir"],["2"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF MARTYRS"]]},{"k":"h3","lines":[["I. Outside Easter Time"],["B. For One Martyr"],["2"]]}],"es":[{"k":"h2","lines":[["COMÚN DE MÁRTIRES"]]},{"k":"h3","lines":[["I. Fuera del tiempo pascual"],["B. Para un mártir"],["2"]]}],"it":[{"k":"h2","lines":[["COMUNE DEI MARTIRI"]]},{"k":"h3","lines":[["I. Fuori del Tempo Pasquale"],["B. Per un martire"],["2."]]}],"fr":[{"k":"h2","lines":[["COMMUN DES MARTYRS"]]},{"k":"h3","lines":[["I. HORS DU TEMPS PASCAL"],["B. Pour un martyr"],["2"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE FÜR MÄRTYRER"]]},{"k":"h3","lines":[["7. Für einen Märtyrer außerhalb der Osterzeit"]]}]},"part":"title"},{"slot":"112","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]]}]},"part":"entranceAntiphon"},{"slot":"113","text":{"la":[{"k":"p","lines":[["Hic est vere martyr, qui pro Christi nómine sánguinem suum fudit, qui minas iúdicum non tímuit, sed ad cæléstia regna pervénit."]]}],"pt-BR":[{"k":"p","lines":[["Eis uma verdadeira testemunha"],["que derramou seu sangue pelo nome de Cristo;"],["não temeu as ameaças dos juízes e alcançou o reino dos"],["céus."]]}],"en-US":[{"k":"p","lines":[["This truly is a Martyr, who shed his ",{"m":"rubric","t":"("},"her",{"m":"rubric","t":")"}," blood for the name of Christ, who did not fear the threats of judges but attained the heavenly kingdom."]]}],"es":[{"k":"p","lines":[["Este es un verdadero mártir que derramó su sangre por el nombre de Cristo, no temió las amenazas de los jueces y así alcanzó el reino de los cielos."]]}],"it":[{"k":"p","lines":[["Questo è un vero martire; per il nome di Cristo ha versato il proprio sangue, non ha temuto le minacce dei giudici: così è giunto nel regno dei cieli."]]}],"fr":[{"k":"p","lines":[["Il est vraiment martyr,"],["celui qui a versé son sang pour le nom du Christ ;"],["il n'a pas craint les menaces des juges,"],["il est parvenu au royaume des Cieux."]]}],"de":[{"k":"p","lines":[["Dieser Märtyrer hat für Christus sein Blut vergossen. Er hat sich nicht gefürchtet vor den Drohungen der Richter. Darum durfte er eingehen in die Herrlichkeit des Herrn."]]}]},"part":"entranceAntiphon"},{"slot":"114","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Phil 3, 8. 10"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Cf. Fl 3, 8. 10"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Phil 3: 8,10"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]],"cite":"Fil 3, 8. 10"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]],"cite":"Cf. Fil 3, 8.10"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Phil 3, 8. 10"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"115","text":{"la":[{"k":"p","lines":[["Omnia detriméntum fecit ad cognoscéndum Christum, et communiónem passiónum illíus, confórmans se morti eius."]]}],"pt-BR":[{"k":"p","lines":[["Tudo considerou como perda"],["a fim de conhecer o Cristo"],["e estar em comunhão com os seus sofrimentos,"],["configurando-se a ele na sua morte."]]}],"en-US":[{"k":"p","lines":[["He ",{"m":"rubric","t":"("},"She",{"m":"rubric","t":")"}," counted all as loss in order to know Christ and to have a share in his sufferings, conforming himself ",{"m":"rubric","t":"("},"herself",{"m":"rubric","t":")"}," to his death."]]}],"es":[{"k":"p","lines":[["Todo lo considero pérdida comparado con la excelencia del conocimiento de Cristo y la comunión con sus padecimientos, muriendo su misma muerte."]]}],"it":[{"k":"p","lines":[["Tutto considero una perdita a motivo della conoscenza di Cristo e della comunione alle sue sofferenze, per rendermi conforme alla sua morte."]]}],"fr":[{"k":"p","lines":[["Il a tout considéré comme une perte"],["pour connaître le Christ,"],["et communier aux souffrances de sa passion,"],["en lui devenant semblable dans la mort."]]}]},"part":"entranceAntiphon"},{"slot":"116","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"117","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus, qui beáto ",{"m":"rubric","t":"N. "},"usque ad mortem pro iustítia certáre tribuísti, fac nos, eius intercessióne, pro amóre tuo ómnia advérsa toleráre et ad te, qui solus es vita, tota virtúte properáre. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Onipotente e eterno Deus, destes a Santo ",{"m":"rubric","t":"N."}," lutar pela justiça até a morte. Concedei-nos, com sua intercessão, suportar por vosso amor todas as adversidades e caminhar corajosamente ao vosso encontro, pois somente vós sois a vida. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God, by whose gift blessed ",{"m":"rubric","t":"N."}," fought for righteousness' sake even until death, grant, we pray, through his ",{"m":"rubric","t":"("},"her",{"m":"rubric","t":")"}," intercession, that we may bear every adversity for the sake of your love and hasten with all our strength towards you who alone are life."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["que otorgaste a san ",{"m":"rubric","t":"N."}],["luchar hasta la muerte por causa de la justicia,"],["concédenos, por su intercesión,"],["soportar por tu amor todas las adversidades"],["y caminar con presteza hacia ti, que eres la vida."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, che hai concesso a san ",{"m":"rubric","t":"N. "},"di combattere per la giustizia fino alla morte, concedi a noi, con la sua intercessione, di sopportare per tuo amore ogni avversità e di camminare con rinnovato vigore incontro a te, che sei la vita. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["tu as donné à saint ",{"m":"rubric","t":"N."}],["de combattre jusqu'à la mort pour la justice ;"],["à son intercession, accorde-nous"],["de supporter par amour pour toi toutes les adversités,"],["et de mettre toute notre force à nous hâter vers toi,"],["qui seul es la vie."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, du hast dem heiligen ",{"m":"rubric","t":"N."}," die Kraft gegeben, durch seinen Tod für Recht und Wahrheit einzutreten. Höre auf seine Fürsprache und hilf uns, alle Mühe und Last zu ertragen und dich, unser wahres Leben, mit ungeteiltem Herzen zu suchen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"118","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"119","text":{"la":[{"k":"p","lines":[["Clementíssime Deus, múnera hæc tua benedictióne perfúnde et nos in fide confírma, quam beátus ",{"m":"rubric","t":"N. "},"effúso sánguine asséruit. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus de clemência, infundi vossa bênção sobre estas oferendas e confirmai-nos na fé que Santo ",{"m":"rubric","t":"N."}," testemunhou ao derramar o próprio sangue. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Most merciful God, pour out your blessing upon these offerings and confirm us in the faith that blessed ",{"m":"rubric","t":"N."}," professed by the shedding of his ",{"m":"rubric","t":"("},"her",{"m":"rubric","t":")"}," blood."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios clementísimo,"],["derrama tu bendición sobre estos dones"],["y fortalécenos en la fe que confirmó san ",{"m":"rubric","t":"N."}],["con el derramamiento de su sangre."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Padre clementissimo, effondi su queste offerte la tua benedizione, e confermaci nella fede che san",{"m":"rubric","t":"N. "}," testimoniò versando il suo sangue. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu de toute clémence,"],["répands ta bénédiction sur nos offrandes,"],["rends-nous fermes dans la foi"],["que saint ",{"m":"rubric","t":"N."}," défendit"],["jusqu'à répandre son sang pour toi."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, erfülle diese Gaben mit deinem Segen und mache uns treu im Glauben, den der heilige ",{"m":"rubric","t":"N."}," mit seinem Blut bezeugt hat. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"120","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel:"}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou:"}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien:"}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"prayerOverOfferings","role":"rubric"},{"slot":"121","text":{"la":[{"k":"p","lines":[["Hóstias tibi, Dómine, pro commemoratióne beáti mártyris tui ",{"m":"rubric","t":"N. "},"offérimus, quem a Christi córporis unitáte nulla tentátio separávit. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Apresentamos, Senhor, estas oferendas na comemoração do vosso Santo mártir ",{"m":"rubric","t":"N."},", a quem nenhuma tentação conseguiu separar da unidade do Corpo de Cristo. Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["We offer you sacrificial gifts, O Lord, to commemorate your blessed Martyr ",{"m":"rubric","t":"N."},", whom no temptation could separate from the unity of the Body of Christ. Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Te presentamos, Señor, estas ofrendas"],["en la fiesta de tu mártir san ",{"m":"rubric","t":"N."},","],["a quien ninguna tentación"],["pudo separar de la unidad del Cuerpo de Cristo."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Ti presentiamo, o Signore, queste offerte nella memoria del tuo santo martire ",{"m":"rubric","t":"N. "},", che nessuna prova poté separare dall'unità del corpo di Cristo. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur, nous t'offrons ce sacrifice"],["pour fêter la mémoire de saint ",{"m":"rubric","t":"N."},", ton martyr,"],["lui que nulle épreuve n'a pu séparer"],["de l'unité du corps du Christ."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, wir bringen diese Gaben dar am Gedenktag des heiligen ",{"m":"rubric","t":"N."},", den weder Verfolgung noch Tod von der Einheit deiner Kirche trennen konnten. Erhalte auch uns in dieser Treue. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"122","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"124","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Io 15, 5"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Jo 15, 5"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Jn 15, 5"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Jn 15, 5"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Gv 15, 1.5"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Io 15, 5"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 15, 5"}]},"part":"communionAntiphon"},{"slot":"125","text":{"la":[{"k":"p","lines":[["Ego sum vitis vera et vos pálmites, dicit Dóminus; qui manet in me et ego in eo, hic fert fructum multum."]]}],"pt-BR":[{"k":"p","lines":[["Eu sou a verdadeira videira"],["e vós sois os ramos, diz o Senhor;"],["quem permanece em mim e eu nele, esse dá muito fruto."]]}],"en-US":[{"k":"p","lines":[["I am the true vine and you are the branches, says the Lord. Whoever remains in me, and I in him, bears fruit in plenty."]]}],"es":[{"k":"p","lines":[["Yo soy la verdadera vid y vosotros los sarmientos, dice el Señor; el que permanece en mí y yo en él, ese da fruto abundante."]]}],"it":[{"k":"p","lines":[["Chi rimane in me, e io in lui, porta molto frutto: senza di me non potete far nulla."]]}],"fr":[{"k":"p","lines":[["Je suis la vraie vigne et vous êtes les sarments,"],["dit le Seigneur."],["Celui qui demeure en moi et en qui je demeure,"],["celui-là porte beaucoup de fruit."]]}],"de":[{"k":"p","lines":[["Ich bin der Weinstock, ihr seid die Rebzweige. Wer in mir bleibt und in wem ich bleibe, der bringt reiche Frucht."]]}]},"part":"communionAntiphon"},{"slot":"126","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Io 8, 12"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Jo 8, 12"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Jn 8: 12"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]],"cite":"Gv 8, 12"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Jn 8, 12"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"127","text":{"la":[{"k":"p","lines":[["Qui séquitur me, non ámbulat in ténebris, sed habébit lumen vitæ, dicit Dóminus."]]}],"pt-BR":[{"k":"p","lines":[["Quem me segue não andará nas trevas,"],["mas terá a luz da vida, diz o Senhor."]]}],"en-US":[{"k":"p","lines":[["Whoever follows me will not walk in darkness, but will have the light of life, says the Lord."]]}],"es":[{"k":"p","lines":[["El que me sigue no camina en las tinieblas, sino que tendrá la luz de la vida, dice el Señor."]]}],"it":[{"k":"p","lines":[["«Chi segue me, non camminerà nelle tenebre, ma avrà la luce della vita», dice il Signore."]]}],"fr":[{"k":"p","lines":[["Celui qui me suit ne marchera pas dans les ténèbres :"],["il aura la lumière de la vie, dit le Seigneur."]]}]},"part":"communionAntiphon"},{"slot":"128","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"129","text":{"la":[{"k":"p","lines":[["Sacris, Dómine, recreáti mystériis, quǽsumus, ut, miram beáti ",{"m":"rubric","t":"N. "},"constántiam æmulántes, patiéntiæ prǽmium cónsequi mereámur ætérnum. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, nós vos pedimos que, refeitos pelos sagrados mistérios e imitando a admirável constância de Santo ",{"m":"rubric","t":"N."},", mereçamos alcançar o prêmio eterno, prometido aos que sofrem por vosso nome. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Made new by these sacred mysteries, we pray, O Lord, that, imitating the wondrous constancy of blessed ",{"m":"rubric","t":"N."},", we may merit an eternal reward for suffering endured."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Renovados por estos santos misterios te rogamos, Señor,"],["que, imitando la admirable fortaleza de san ",{"m":"rubric","t":"N."},","],["merezcamos conseguir"],["el premio eterno a la perseverancia."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Rinnovati dai santi misteri, ti preghiamo, o Signore: fa' che, imitando la mirabile costanza di san ",{"m":"rubric","t":"N. "},", per otteniamo il premio eterno promesso a chi soffre a causa del tuo nome. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Déjà renouvelés par tes mystères très saints,"],["nous te supplions, Seigneur :"],["puissions-nous imiter le courage admirable de saint ",{"m":"rubric","t":"N."},","],["et obtenir la récompense éternelle"],["promise à ceux qui souffrent pour toi."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, du hast uns mit den heiligen Gaben gestärkt. Gib, dass wir standhaft bleiben wie der heilige ",{"m":"rubric","t":"N."},", und mach uns bereit, Trägheit und Feigheit abzulegen, damit wir am Lohn deiner Märtyrer Anteil erlangen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.54","preface.55"],"title":{"la":"COMMUNE MARTYRUM","pt-BR":"COMUM DOS MÁRTIRES","en-US":"COMMON OF MARTYRS","es":"COMÚN DE MÁRTIRES","it":"COMUNE DEI MARTIRI","fr":"COMMUN DES MARTYRS","de":"COMMUNE-TEXTE FÜR MÄRTYRER"},"subtitle":{"la":"I. EXTRA TEMPUS PASCHALE B. Pro uno martyre 2","pt-BR":"I. FORA DO TEMPO PASCAL B. Para um mártir 2","en-US":"I. Outside Easter Time B. For One Martyr 2","es":"I. Fuera del tiempo pascual B. Para un mártir 2","it":"I. Fuori del Tempo Pasquale B. Per un martire 2.","fr":"I. HORS DU TEMPS PASCAL B. Pour un martyr 2","de":"7. Für einen Märtyrer außerhalb der Osterzeit"}}
+{
+ "id": "common.martyrs.7",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE MARTYRUM"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. EXTRA TEMPUS PASCHALE"
+       ],
+       [
+        "B. Pro uno martyre"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DOS MÁRTIRES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. FORA DO TEMPO PASCAL"
+       ],
+       [
+        "B. Para um mártir"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF MARTYRS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Outside Easter Time"
+       ],
+       [
+        "B. For One Martyr"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE MÁRTIRES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Fuera del tiempo pascual"
+       ],
+       [
+        "B. Para un mártir"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DEI MARTIRI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Fuori del Tempo Pasquale"
+       ],
+       [
+        "B. Per un martire"
+       ],
+       [
+        "2."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DES MARTYRS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. HORS DU TEMPS PASCAL"
+       ],
+       [
+        "B. Pour un martyr"
+       ],
+       [
+        "2"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE FÜR MÄRTYRER"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "7. Für einen Märtyrer außerhalb der Osterzeit"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hic est vere martyr, qui pro Christi nómine sánguinem suum fudit, qui minas iúdicum non tímuit, sed ad cæléstia regna pervénit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eis uma verdadeira testemunha"
+       ],
+       [
+        "que derramou seu sangue pelo nome de Cristo;"
+       ],
+       [
+        "não temeu as ameaças dos juízes e alcançou o reino dos"
+       ],
+       [
+        "céus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "This truly is a Martyr, who shed his ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "her",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " blood for the name of Christ, who did not fear the threats of judges but attained the heavenly kingdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Este es un verdadero mártir que derramó su sangre por el nombre de Cristo, no temió las amenazas de los jueces y así alcanzó el reino de los cielos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questo è un vero martire; per il nome di Cristo ha versato il proprio sangue, non ha temuto le minacce dei giudici: così è giunto nel regno dei cieli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il est vraiment martyr,"
+       ],
+       [
+        "celui qui a versé son sang pour le nom du Christ ;"
+       ],
+       [
+        "il n'a pas craint les menaces des juges,"
+       ],
+       [
+        "il est parvenu au royaume des Cieux."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieser Märtyrer hat für Christus sein Blut vergossen. Er hat sich nicht gefürchtet vor den Drohungen der Richter. Darum durfte er eingehen in die Herrlichkeit des Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Phil 3, 8. 10"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Cf. Fl 3, 8. 10"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Phil 3: 8,10"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ],
+      "cite": "Fil 3, 8. 10"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Cf. Fil 3, 8.10"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Phil 3, 8. 10"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnia detriméntum fecit ad cognoscéndum Christum, et communiónem passiónum illíus, confórmans se morti eius."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tudo considerou como perda"
+       ],
+       [
+        "a fim de conhecer o Cristo"
+       ],
+       [
+        "e estar em comunhão com os seus sofrimentos,"
+       ],
+       [
+        "configurando-se a ele na sua morte."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "She",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " counted all as loss in order to know Christ and to have a share in his sufferings, conforming himself ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "herself",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " to his death."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Todo lo considero pérdida comparado con la excelencia del conocimiento de Cristo y la comunión con sus padecimientos, muriendo su misma muerte."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tutto considero una perdita a motivo della conoscenza di Cristo e della comunione alle sue sofferenze, per rendermi conforme alla sua morte."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il a tout considéré comme une perte"
+       ],
+       [
+        "pour connaître le Christ,"
+       ],
+       [
+        "et communier aux souffrances de sa passion,"
+       ],
+       [
+        "en lui devenant semblable dans la mort."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus, qui beáto ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "usque ad mortem pro iustítia certáre tribuísti, fac nos, eius intercessióne, pro amóre tuo ómnia advérsa toleráre et ad te, qui solus es vita, tota virtúte properáre. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Onipotente e eterno Deus, destes a Santo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " lutar pela justiça até a morte. Concedei-nos, com sua intercessão, suportar por vosso amor todas as adversidades e caminhar corajosamente ao vosso encontro, pois somente vós sois a vida. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God, by whose gift blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " fought for righteousness' sake even until death, grant, we pray, through his ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "her",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " intercession, that we may bear every adversity for the sake of your love and hasten with all our strength towards you who alone are life."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "que otorgaste a san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "luchar hasta la muerte por causa de la justicia,"
+       ],
+       [
+        "concédenos, por su intercesión,"
+       ],
+       [
+        "soportar por tu amor todas las adversidades"
+       ],
+       [
+        "y caminar con presteza hacia ti, que eres la vida."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, che hai concesso a san ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "di combattere per la giustizia fino alla morte, concedi a noi, con la sua intercessione, di sopportare per tuo amore ogni avversità e di camminare con rinnovato vigore incontro a te, che sei la vita. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "tu as donné à saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "de combattre jusqu'à la mort pour la justice ;"
+       ],
+       [
+        "à son intercession, accorde-nous"
+       ],
+       [
+        "de supporter par amour pour toi toutes les adversités,"
+       ],
+       [
+        "et de mettre toute notre force à nous hâter vers toi,"
+       ],
+       [
+        "qui seul es la vie."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, du hast dem heiligen ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " die Kraft gegeben, durch seinen Tod für Recht und Wahrheit einzutreten. Höre auf seine Fürsprache und hilf uns, alle Mühe und Last zu ertragen und dich, unser wahres Leben, mit ungeteiltem Herzen zu suchen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Clementíssime Deus, múnera hæc tua benedictióne perfúnde et nos in fide confírma, quam beátus ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "effúso sánguine asséruit. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus de clemência, infundi vossa bênção sobre estas oferendas e confirmai-nos na fé que Santo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " testemunhou ao derramar o próprio sangue. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Most merciful God, pour out your blessing upon these offerings and confirm us in the faith that blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " professed by the shedding of his ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "her",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " blood."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios clementísimo,"
+       ],
+       [
+        "derrama tu bendición sobre estos dones"
+       ],
+       [
+        "y fortalécenos en la fe que confirmó san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "con el derramamiento de su sangre."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre clementissimo, effondi su queste offerte la tua benedizione, e confermaci nella fede che san",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        " testimoniò versando il suo sangue. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu de toute clémence,"
+       ],
+       [
+        "répands ta bénédiction sur nos offrandes,"
+       ],
+       [
+        "rends-nous fermes dans la foi"
+       ],
+       [
+        "que saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " défendit"
+       ],
+       [
+        "jusqu'à répandre son sang pour toi."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, erfülle diese Gaben mit deinem Segen und mache uns treu im Glauben, den der heilige ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " mit seinem Blut bezeugt hat. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hóstias tibi, Dómine, pro commemoratióne beáti mártyris tui ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "offérimus, quem a Christi córporis unitáte nulla tentátio separávit. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apresentamos, Senhor, estas oferendas na comemoração do vosso Santo mártir ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", a quem nenhuma tentação conseguiu separar da unidade do Corpo de Cristo. Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We offer you sacrificial gifts, O Lord, to commemorate your blessed Martyr ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", whom no temptation could separate from the unity of the Body of Christ. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te presentamos, Señor, estas ofrendas"
+       ],
+       [
+        "en la fiesta de tu mártir san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "a quien ninguna tentación"
+       ],
+       [
+        "pudo separar de la unidad del Cuerpo de Cristo."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti presentiamo, o Signore, queste offerte nella memoria del tuo santo martire ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        ", che nessuna prova poté separare dall'unità del corpo di Cristo. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, nous t'offrons ce sacrifice"
+       ],
+       [
+        "pour fêter la mémoire de saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", ton martyr,"
+       ],
+       [
+        "lui que nulle épreuve n'a pu séparer"
+       ],
+       [
+        "de l'unité du corps du Christ."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, wir bringen diese Gaben dar am Gedenktag des heiligen ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", den weder Verfolgung noch Tod von der Einheit deiner Kirche trennen konnten. Erhalte auch uns in dieser Treue. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Io 15, 5"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Jo 15, 5"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Jn 15, 5"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Jn 15, 5"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Gv 15, 1.5"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Io 15, 5"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 15, 5"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego sum vitis vera et vos pálmites, dicit Dóminus; qui manet in me et ego in eo, hic fert fructum multum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu sou a verdadeira videira"
+       ],
+       [
+        "e vós sois os ramos, diz o Senhor;"
+       ],
+       [
+        "quem permanece em mim e eu nele, esse dá muito fruto."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I am the true vine and you are the branches, says the Lord. Whoever remains in me, and I in him, bears fruit in plenty."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo soy la verdadera vid y vosotros los sarmientos, dice el Señor; el que permanece en mí y yo en él, ese da fruto abundante."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi rimane in me, e io in lui, porta molto frutto: senza di me non potete far nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je suis la vraie vigne et vous êtes les sarments,"
+       ],
+       [
+        "dit le Seigneur."
+       ],
+       [
+        "Celui qui demeure en moi et en qui je demeure,"
+       ],
+       [
+        "celui-là porte beaucoup de fruit."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich bin der Weinstock, ihr seid die Rebzweige. Wer in mir bleibt und in wem ich bleibe, der bringt reiche Frucht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Io 8, 12"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Jo 8, 12"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Jn 8: 12"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Gv 8, 12"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Jn 8, 12"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui séquitur me, non ámbulat in ténebris, sed habébit lumen vitæ, dicit Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quem me segue não andará nas trevas,"
+       ],
+       [
+        "mas terá a luz da vida, diz o Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Whoever follows me will not walk in darkness, but will have the light of life, says the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que me sigue no camina en las tinieblas, sino que tendrá la luz de la vida, dice el Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Chi segue me, non camminerà nelle tenebre, ma avrà la luce della vita», dice il Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Celui qui me suit ne marchera pas dans les ténèbres :"
+       ],
+       [
+        "il aura la lumière de la vie, dit le Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacris, Dómine, recreáti mystériis, quǽsumus, ut, miram beáti ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "constántiam æmulántes, patiéntiæ prǽmium cónsequi mereámur ætérnum. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, nós vos pedimos que, refeitos pelos sagrados mistérios e imitando a admirável constância de Santo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", mereçamos alcançar o prêmio eterno, prometido aos que sofrem por vosso nome. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Made new by these sacred mysteries, we pray, O Lord, that, imitating the wondrous constancy of blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", we may merit an eternal reward for suffering endured."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Renovados por estos santos misterios te rogamos, Señor,"
+       ],
+       [
+        "que, imitando la admirable fortaleza de san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "merezcamos conseguir"
+       ],
+       [
+        "el premio eterno a la perseverancia."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rinnovati dai santi misteri, ti preghiamo, o Signore: fa' che, imitando la mirabile costanza di san ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        ", per otteniamo il premio eterno promesso a chi soffre a causa del tuo nome. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Déjà renouvelés par tes mystères très saints,"
+       ],
+       [
+        "nous te supplions, Seigneur :"
+       ],
+       [
+        "puissions-nous imiter le courage admirable de saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "et obtenir la récompense éternelle"
+       ],
+       [
+        "promise à ceux qui souffrent pour toi."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast uns mit den heiligen Gaben gestärkt. Gib, dass wir standhaft bleiben wie der heilige ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", und mach uns bereit, Trägheit und Feigheit abzulegen, damit wir am Lohn deiner Märtyrer Anteil erlangen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.54",
+  "preface.55"
+ ],
+ "title": {
+  "la": "COMMUNE MARTYRUM",
+  "pt-BR": "COMUM DOS MÁRTIRES",
+  "en-US": "COMMON OF MARTYRS",
+  "es": "COMÚN DE MÁRTIRES",
+  "it": "COMUNE DEI MARTIRI",
+  "fr": "COMMUN DES MARTYRS",
+  "de": "COMMUNE-TEXTE FÜR MÄRTYRER"
+ },
+ "subtitle": {
+  "la": "I. EXTRA TEMPUS PASCHALE B. Pro uno martyre 2",
+  "pt-BR": "I. FORA DO TEMPO PASCAL B. Para um mártir 2",
+  "en-US": "I. Outside Easter Time B. For One Martyr 2",
+  "es": "I. Fuera del tiempo pascual B. Para un mártir 2",
+  "it": "I. Fuori del Tempo Pasquale B. Per un martire 2.",
+  "fr": "I. HORS DU TEMPS PASCAL B. Pour un martyr 2",
+  "de": "7. Für einen Märtyrer außerhalb der Osterzeit"
+ }
+}

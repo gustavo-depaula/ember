@@ -1,1 +1,1525 @@
-{"id":"various-needs.23","source":"comunes_votivas/diversas#div023","kind":"various-needs","items":[{"slot":"323","text":{"la":[{"k":"h2","lines":[["I. PRO SANCTA ECCLESIA"]]},{"k":"h3","lines":[["17. PRO UNITATE CHRISTIANORUM"],["A"]]},{"k":"p","lines":[[{"m":"rubric","t":"Hæc Missa adhiberi potest, quando peculiares celebrationes pro unitate christianorum habentur, dummodo non occurrat dominica Adventus, Quadragesimæ vel Paschæ, aut sollemnitas quædam."}]]}],"pt-BR":[{"k":"h2","lines":[["I. PELA SANTA IGREJA"]]},{"k":"h3","lines":[["17. PELA UNIDADE DOS CRISTÃOS"],["A"]]},{"k":"p","lines":[[{"m":"rubric","t":"Esta Missa pode ser rezada quando se realizam celebrações especiais pela unidade dos cristãos, desde que não ocorra num domingo do Advento, da Quaresma ou da Páscoa, ou em alguma Solenidade."}]]}],"en-US":[{"k":"h2","lines":[["I. FOR HOLY CHURCH"]]},{"k":"h3","lines":[["17. FOR THE UNITY OF CHRISTIANS"],["A"]]},{"k":"p","lines":[[{"m":"rubric","t":"This Mass may be used whenever there are special celebrations for the unity of Christians, provided it does not occur on a Sunday of Advent, Lent or Easter, or on any Solemnity."}]]}],"es":[{"k":"h2","lines":[["I. POR LA SANTA IGLESIA"]]},{"k":"h3","lines":[["17. POR LA UNIDAD DE LOS CRISTIANOS"],["A"]]},{"k":"p","lines":[[{"m":"rubric","t":"Esta misa puede decirse, incluso en los domingos del tiempo ordinario, cuando tienen lugar especiales celebraciones por la unidad de los cristianos, fuera de los domingos de Adviento, Cuaresma y Pascua, y de las solemnidades."}]]}],"it":[{"k":"h2","lines":[["I. PER LA SANTA CHIESA"]]},{"k":"h3","lines":[["17. PER L'UNITÀ DEI CRISTIANI"],["A"]]},{"k":"p","lines":[[{"m":"rubric","t":"Questa Messa si può utilizzare quando si fanno particolari celebrazioni per l'unità dei cristiani, sempre che non ricorra una domenica di Avvento, Quaresima o Pasqua o una qualsiasi solennità."}]]}],"fr":[{"k":"h2","lines":[["I. POUR LA SAINTE ÉGLISE"]]},{"k":"h3","lines":[["17. POUR L'UNITÉ DES CHRÉTIENS"],["A"]]},{"k":"p","lines":[[{"m":"rubric","t":"On peut dire cette messe lors des célébrations particulières pour l'unité des chrétiens, sauf un dimanche de l'Avent, du Carême, du Temps pascal, ou une solennité. "}]]}],"de":[{"k":"h2","lines":[["I. FÜR DIE HEILIGE KIRCHE"]]},{"k":"h3","lines":[["17. FÜR DIE EINHEIT DER CHRISTEN"],["A"]]},{"k":"p","lines":[[{"m":"rubric","t":"Diese Messe kann auch an den Sonntagen im Jahreskreis genommen werden, wenn eigene Feiern für die Einheit der Christen gehalten werden."}]]}]},"part":"title"},{"slot":"324","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Io 10, 14-15"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Jo 10, 14-15"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Jn 10, 14-15"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Jn 10, 14-15"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Gv 10, 14-15"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Jn 10, 14-15"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Joh 10, 14-15"}]},"part":"entranceAntiphon"},{"slot":"325","text":{"la":[{"k":"p","lines":[["Ego sum pastor bonus, et cognósco oves meas, et cognóscunt me meæ, dicit Dóminus. Sicut novit me Pater, et ego cognósco Patrem; et ánimam meam pono pro óvibus meis."]]}],"pt-BR":[{"k":"p","lines":[["Eu sou o bom pastor."],["Conheço as minhas ovelhas,"],["e elas me conhecem, diz o Senhor."],["Assim como o Pai me conhece e eu conheço o Pai."],["Eu dou minha vida pelas ovelhas."]]}],"en-US":[{"k":"p","lines":[["I am the good Shepherd,"],["and I know my sheep and mine know me, says the Lord, just as the Father knows me and I know the Father;"],["and I lay down my life for the sheep."]]}],"es":[{"k":"p","lines":[["Yo soy el Buen Pastor que conozco a las ovejas, y las mías me conocen, dice el Señor; igual que el Padre me conoce, y yo conozco al Padre; yo doy mi vida por las ovejas."]]}],"it":[{"k":"p","lines":[["Io sono il buon pastore, conosco le mie pecore e le mie pecore conoscono me, così come il Padre conosce me e io conosco il Padre, e do la mia vita per le pecore."]]}],"fr":[{"k":"p","lines":[["Je suis le bon pasteur, dit le Seigneur ;"],["je connais mes brebis, et mes brebis me connaissent,"],["comme le Père me connaît, et que je connais le Père ;"],["et je donne ma vie pour mes brebis."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Ich bin der gute Hirt; ich kenne die Meinen, und die Meinen kennen mich, wie mich der Vater kennt und ich den Vater kenne; und ich gebe mein Leben für meine Schafe."]]}]},"part":"entranceAntiphon"},{"slot":"326","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"327","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus, qui dispérsa cóngregas et congregáta consérvas, ad gregem Fílii tui placátus inténde, ut, quos unum sacrávit baptísma, eos et fídei iungat intégritas, et vínculum sóciet caritátis. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso,"],["que reunis o que está disperso"],["e conservais o que está unido,"],["velai sobre o rebanho do vosso Filho."],["Que a integridade da fé e os laços da caridade"],["unam os que foram consagrados por um só Batismo."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God,"],["who gather what is scattered"],["and keep together what you have gathered,"],["look kindly on the flock of your Son,"],["that those whom one Baptism has consecrated"],["may be joined together by integrity of faith"],["and united in the bond of charity."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["que vas reuniendo a tus hijos dispersos"],["y velas por la unidad ya lograda,"],["mira con amor a la grey de tu Hijo,"],["para que la integridad de la fe"],["y el vínculo de la caridad"],["congregue a los que consagró un solo bautismo."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio creatore e Padre, che riunisci i dispersi e li custodisci nell'unità, guarda con bontà il gregge del tuo Figlio, perché quanti sono consacrati da un solo Battesimo formino una sola famiglia nel vincolo dell'amore e della vera fede. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["toi qui rassembles ce qui est dispersé,"],["et qui gardes ce que tu as rassemblé,"],["jette un regard de paix sur le troupeau conduit par ton Fils :"],["accorde à ceux qu'un même baptême a consacrés"],["d'être unis dans la plénitude de la foi"],["et de demeurer en communion"],["par le lien de la charité."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, du führst zusammen, was getrennt ist, und bewahrst in der Einheit, was du verbunden hast. Schau voll Erbarmen auf alle, die durch die eine Taufe geheiligt sind und Christus angehören. Mache sie eins durch das Band des unversehrten Glaubens und der brüderlichen Liebe. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"328","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure:"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"collect","role":"rubric"},{"slot":"329","text":{"la":[{"k":"p","lines":[["Súpplices te rogámus, amátor hóminum, Dómine: pleniórem Spíritus tui grátiam super nos effúnde benígnus, et præsta, ut, digne qua nos vocásti vocatióne ambulántes, testimónium veritátis exhibeámus homínibus, et ómnium credéntium unitátem in vínculo pacis fidéntes inquirámus. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, que amais todas as pessoas, suplicantes vos pedimos:"],["infundi compassivo sobre nós"],["a plenitude da graça do vosso Espírito;"],["concedei-nos caminhar de maneira digna"],["da vocação a que fomos chamados"],["para testemunhar a todos a verdade"],["e buscar confiantes a unidade dos cristãos"],["no vínculo da paz."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["We humbly ask you, Lord, lover of the human family,"],["to pour out more fully upon us the grace of your spirit,"],["and grant that, walking worthily in the vocation"],["to which you have called us,"],["we may bear witness to the truth before others"],["and seek with confidence"],["the unity of all believers in the bond of peace."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever"]]}],"es":[{"k":"p","lines":[["Oh, Señor,"],["que amas a los hombres,"],["te rogamos derrames con bondad sobre nosotros"],["la gracia abundante de tu Espíritu,"],["y concédenos que, caminando en santidad"],["según la vocación a que nos llamas,"],["demos testimonio de la verdad a los hombres,"],["y busquemos confiados,"],["en el vínculo de la paz,"],["la unidad de todos los creyentes."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Signore, che ami l'umana famiglia, effondi benevolo su di noi la grazia sovrabbondante del tuo Spirito, perché, camminando in maniera degna della vocazione alla quale ci hai chiamati, offriamo agli uomini la testimonianza della verità e, nel vincolo della pace, ricerchiamo con fiducia l'unità di tutti i cristiani. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur, ami des hommes, nous t'en supplions :"],["dans ta bonté, répands plus largement sur nous"],["la grâce de ton Esprit ;"],["aide-nous à répondre fidèlement à notre vocation,"],["pour rendre témoignage à la vérité devant les hommes,"],["et rechercher avec confiance dans le lien de la paix"],["l'unité de ceux qui croient au Christ."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, unser Vater, gieße die Gnade deines Geistes von neuen über uns aus, damit wir unserer Berufung würdig leben und vor den Menschen für deine Wahrheit Zeugnis ablegen. Hilf uns, dass wir voll Zuversicht nach der Einheit aller Christen und nach der Gemeinschaft in der einen Kirche streben. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"330","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"331","text":{"la":[{"k":"p","lines":[["Qui una semel hóstia, Dómine, adoptiónis tibi pópulum acquisísti, unitátis et pacis in Ecclésia tua propítius nobis dona concédas. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, pelo único sacrifício do vosso Filho,"],["adquiristes para vós um povo de adoção filial;"],["concedei-nos benigno, na vossa Igreja,"],["os dons da unidade e da paz."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["O Lord, who gained for yourself a people by adoption through the one sacrifice offered once for all,"],["bestow graciously on us, we pray,"],["the gifts of unity and peace in your Church."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, que adquiriste para ti un pueblo de adopción"],["con el sacrificio de una vez para siempre,"],["concédenos propicio"],["los dones de la unidad y de la paz en tu Iglesia."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Padre, che nell'unico sacrificio del tuo Figlio ti sei acquistato un popolo di adozione, concedi e custodisci sempre nella tua Chiesa i doni dell'unità e della pace. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Par l'unique sacrifice, offert une fois pour toutes,"],["tu t'es donné, Seigneur, le peuple que tu as adopté ;"],["en ta bienveillance, accorde-nous"],["la grâce de l'unité et de la paix dans ton Église."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr und Gott, du hast dir das eine Volk des Neuen Bundes erworben durch das Opfer deines Sohnes, das er ein für allemal dargebracht hat. Sieh gnädig auf uns und schenke uns in deiner Kirche Einheit und Frieden. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"333","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. 1 Cor 10, 17"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. 1 Cor 10, 17"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. 1 Cor 10, 17"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. 1 Cor 10, 17"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cfr 1 Cor 10, 17"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. 1 Cor 10, 17"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Vgl. 1 Kor 10, 17"}]},"part":"communionAntiphon"},{"slot":"334","text":{"la":[{"k":"p","lines":[["Unus panis, et unum corpus multi sumus, omnes qui de uno pane et de uno cálice participámus."]]}],"pt-BR":[{"k":"p","lines":[["Há um só pão e, embora sendo muitos,"],["formamos um só corpo, todos os que participamos"],["do mesmo pão e do mesmo cálice."]]}],"en-US":[{"k":"p","lines":[["Though many, we are one bread, one body,"],["for we all partake of the one bread and one chalice."]]}],"es":[{"k":"p","lines":[["Porque el pan es uno, nosotros, siendo muchos, formamos un solo cuerpo, pues todos participamos del mismo pan y del mismo cáliz."]]}],"it":[{"k":"p","lines":[["Uno solo è il pane, e noi, pur essendo molti, siamo un corpo solo: tutti partecipiamo all'unico pane e all'unico calice."]]}],"fr":[{"k":"p","lines":[["Puisqu'il y a un seul pain, la multitude que nous sommes est un seul corps,"],["car nous avons tous part à un seul pain et à un seul calice."]]}],"de":[{"k":"p","lines":[["Ein Brot ist es. Darum sind wir viele e i n Leib; denn wir alle haben teil an dem e i n e n Brot und dem e i n e n Kelch."]]}]},"part":"communionAntiphon"},{"slot":"335","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"336","text":{"la":[{"k":"p","lines":[["Hæc tua, Dómine, sumpta sacra commúnio, sicut fidélium in te uniónem præsígnat, sic in Ecclésia tua unitátis operétur efféctum. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Fazei, Senhor,"],["que a sagrada comunhão dos vossos mistérios,"],["sinal da nossa união convosco,"],["realize a unidade na vossa Igreja"],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["As this reception of your holy Communion, O Lord, foreshadows the union of the faithful in you,"],["so may it bring about unity in your Church."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor, esta santa comunión contigo que hemos recibido,"],["anticipo de la unión de los fieles en ti,"],["realice también la unidad en tu Iglesia."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["La partecipazione ai tuoi santi misteri, o Signore, come prefigura la nostra unione in te, così realizzi l'unità nella tua Chiesa. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Cette communion à tes mystères, Seigneur,"],["préfigure l'union des fidèles en toi ;"],["fais qu'elle produise un fruit d'unité"],["dans ton Église."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, das heilige Mahl ist ein sichtbares Zeichen, dass deine Gläubigen in dir eins sind. Lass diese Feier wirksam werden für die Einheit der Kirche. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.83"],"title":{"la":"I. PRO SANCTA ECCLESIA","pt-BR":"I. PELA SANTA IGREJA","en-US":"I. FOR HOLY CHURCH","es":"I. POR LA SANTA IGLESIA","it":"I. PER LA SANTA CHIESA","fr":"I. POUR LA SAINTE ÉGLISE","de":"I. FÜR DIE HEILIGE KIRCHE"},"subtitle":{"la":"17. PRO UNITATE CHRISTIANORUM A","pt-BR":"17. PELA UNIDADE DOS CRISTÃOS A","en-US":"17. FOR THE UNITY OF CHRISTIANS A","es":"17. POR LA UNIDAD DE LOS CRISTIANOS A","it":"17. PER L'UNITÀ DEI CRISTIANI A","fr":"17. POUR L'UNITÉ DES CHRÉTIENS A","de":"17. FÜR DIE EINHEIT DER CHRISTEN A"}}
+{
+ "id": "various-needs.23",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PRO SANCTA ECCLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "17. PRO UNITATE CHRISTIANORUM"
+       ],
+       [
+        "A"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Hæc Missa adhiberi potest, quando peculiares celebrationes pro unitate christianorum habentur, dummodo non occurrat dominica Adventus, Quadragesimæ vel Paschæ, aut sollemnitas quædam."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PELA SANTA IGREJA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "17. PELA UNIDADE DOS CRISTÃOS"
+       ],
+       [
+        "A"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Esta Missa pode ser rezada quando se realizam celebrações especiais pela unidade dos cristãos, desde que não ocorra num domingo do Advento, da Quaresma ou da Páscoa, ou em alguma Solenidade."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FOR HOLY CHURCH"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "17. FOR THE UNITY OF CHRISTIANS"
+       ],
+       [
+        "A"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "This Mass may be used whenever there are special celebrations for the unity of Christians, provided it does not occur on a Sunday of Advent, Lent or Easter, or on any Solemnity."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POR LA SANTA IGLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "17. POR LA UNIDAD DE LOS CRISTIANOS"
+       ],
+       [
+        "A"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Esta misa puede decirse, incluso en los domingos del tiempo ordinario, cuando tienen lugar especiales celebraciones por la unidad de los cristianos, fuera de los domingos de Adviento, Cuaresma y Pascua, y de las solemnidades."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PER LA SANTA CHIESA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "17. PER L'UNITÀ DEI CRISTIANI"
+       ],
+       [
+        "A"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Questa Messa si può utilizzare quando si fanno particolari celebrazioni per l'unità dei cristiani, sempre che non ricorra una domenica di Avvento, Quaresima o Pasqua o una qualsiasi solennità."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POUR LA SAINTE ÉGLISE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "17. POUR L'UNITÉ DES CHRÉTIENS"
+       ],
+       [
+        "A"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On peut dire cette messe lors des célébrations particulières pour l'unité des chrétiens, sauf un dimanche de l'Avent, du Carême, du Temps pascal, ou une solennité. "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FÜR DIE HEILIGE KIRCHE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "17. FÜR DIE EINHEIT DER CHRISTEN"
+       ],
+       [
+        "A"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diese Messe kann auch an den Sonntagen im Jahreskreis genommen werden, wenn eigene Feiern für die Einheit der Christen gehalten werden."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Io 10, 14-15"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Jo 10, 14-15"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Jn 10, 14-15"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Jn 10, 14-15"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Gv 10, 14-15"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Jn 10, 14-15"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Joh 10, 14-15"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego sum pastor bonus, et cognósco oves meas, et cognóscunt me meæ, dicit Dóminus. Sicut novit me Pater, et ego cognósco Patrem; et ánimam meam pono pro óvibus meis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu sou o bom pastor."
+       ],
+       [
+        "Conheço as minhas ovelhas,"
+       ],
+       [
+        "e elas me conhecem, diz o Senhor."
+       ],
+       [
+        "Assim como o Pai me conhece e eu conheço o Pai."
+       ],
+       [
+        "Eu dou minha vida pelas ovelhas."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I am the good Shepherd,"
+       ],
+       [
+        "and I know my sheep and mine know me, says the Lord, just as the Father knows me and I know the Father;"
+       ],
+       [
+        "and I lay down my life for the sheep."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo soy el Buen Pastor que conozco a las ovejas, y las mías me conocen, dice el Señor; igual que el Padre me conoce, y yo conozco al Padre; yo doy mi vida por las ovejas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io sono il buon pastore, conosco le mie pecore e le mie pecore conoscono me, così come il Padre conosce me e io conosco il Padre, e do la mia vita per le pecore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je suis le bon pasteur, dit le Seigneur ;"
+       ],
+       [
+        "je connais mes brebis, et mes brebis me connaissent,"
+       ],
+       [
+        "comme le Père me connaît, et que je connais le Père ;"
+       ],
+       [
+        "et je donne ma vie pour mes brebis."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Ich bin der gute Hirt; ich kenne die Meinen, und die Meinen kennen mich, wie mich der Vater kennt und ich den Vater kenne; und ich gebe mein Leben für meine Schafe."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus, qui dispérsa cóngregas et congregáta consérvas, ad gregem Fílii tui placátus inténde, ut, quos unum sacrávit baptísma, eos et fídei iungat intégritas, et vínculum sóciet caritátis. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "que reunis o que está disperso"
+       ],
+       [
+        "e conservais o que está unido,"
+       ],
+       [
+        "velai sobre o rebanho do vosso Filho."
+       ],
+       [
+        "Que a integridade da fé e os laços da caridade"
+       ],
+       [
+        "unam os que foram consagrados por um só Batismo."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "who gather what is scattered"
+       ],
+       [
+        "and keep together what you have gathered,"
+       ],
+       [
+        "look kindly on the flock of your Son,"
+       ],
+       [
+        "that those whom one Baptism has consecrated"
+       ],
+       [
+        "may be joined together by integrity of faith"
+       ],
+       [
+        "and united in the bond of charity."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "que vas reuniendo a tus hijos dispersos"
+       ],
+       [
+        "y velas por la unidad ya lograda,"
+       ],
+       [
+        "mira con amor a la grey de tu Hijo,"
+       ],
+       [
+        "para que la integridad de la fe"
+       ],
+       [
+        "y el vínculo de la caridad"
+       ],
+       [
+        "congregue a los que consagró un solo bautismo."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio creatore e Padre, che riunisci i dispersi e li custodisci nell'unità, guarda con bontà il gregge del tuo Figlio, perché quanti sono consacrati da un solo Battesimo formino una sola famiglia nel vincolo dell'amore e della vera fede. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "toi qui rassembles ce qui est dispersé,"
+       ],
+       [
+        "et qui gardes ce que tu as rassemblé,"
+       ],
+       [
+        "jette un regard de paix sur le troupeau conduit par ton Fils :"
+       ],
+       [
+        "accorde à ceux qu'un même baptême a consacrés"
+       ],
+       [
+        "d'être unis dans la plénitude de la foi"
+       ],
+       [
+        "et de demeurer en communion"
+       ],
+       [
+        "par le lien de la charité."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, du führst zusammen, was getrennt ist, und bewahrst in der Einheit, was du verbunden hast. Schau voll Erbarmen auf alle, die durch die eine Taufe geheiligt sind und Christus angehören. Mache sie eins durch das Band des unversehrten Glaubens und der brüderlichen Liebe. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Súpplices te rogámus, amátor hóminum, Dómine: pleniórem Spíritus tui grátiam super nos effúnde benígnus, et præsta, ut, digne qua nos vocásti vocatióne ambulántes, testimónium veritátis exhibeámus homínibus, et ómnium credéntium unitátem in vínculo pacis fidéntes inquirámus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, que amais todas as pessoas, suplicantes vos pedimos:"
+       ],
+       [
+        "infundi compassivo sobre nós"
+       ],
+       [
+        "a plenitude da graça do vosso Espírito;"
+       ],
+       [
+        "concedei-nos caminhar de maneira digna"
+       ],
+       [
+        "da vocação a que fomos chamados"
+       ],
+       [
+        "para testemunhar a todos a verdade"
+       ],
+       [
+        "e buscar confiantes a unidade dos cristãos"
+       ],
+       [
+        "no vínculo da paz."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We humbly ask you, Lord, lover of the human family,"
+       ],
+       [
+        "to pour out more fully upon us the grace of your spirit,"
+       ],
+       [
+        "and grant that, walking worthily in the vocation"
+       ],
+       [
+        "to which you have called us,"
+       ],
+       [
+        "we may bear witness to the truth before others"
+       ],
+       [
+        "and seek with confidence"
+       ],
+       [
+        "the unity of all believers in the bond of peace."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Señor,"
+       ],
+       [
+        "que amas a los hombres,"
+       ],
+       [
+        "te rogamos derrames con bondad sobre nosotros"
+       ],
+       [
+        "la gracia abundante de tu Espíritu,"
+       ],
+       [
+        "y concédenos que, caminando en santidad"
+       ],
+       [
+        "según la vocación a que nos llamas,"
+       ],
+       [
+        "demos testimonio de la verdad a los hombres,"
+       ],
+       [
+        "y busquemos confiados,"
+       ],
+       [
+        "en el vínculo de la paz,"
+       ],
+       [
+        "la unidad de todos los creyentes."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, che ami l'umana famiglia, effondi benevolo su di noi la grazia sovrabbondante del tuo Spirito, perché, camminando in maniera degna della vocazione alla quale ci hai chiamati, offriamo agli uomini la testimonianza della verità e, nel vincolo della pace, ricerchiamo con fiducia l'unità di tutti i cristiani. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, ami des hommes, nous t'en supplions :"
+       ],
+       [
+        "dans ta bonté, répands plus largement sur nous"
+       ],
+       [
+        "la grâce de ton Esprit ;"
+       ],
+       [
+        "aide-nous à répondre fidèlement à notre vocation,"
+       ],
+       [
+        "pour rendre témoignage à la vérité devant les hommes,"
+       ],
+       [
+        "et rechercher avec confiance dans le lien de la paix"
+       ],
+       [
+        "l'unité de ceux qui croient au Christ."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Vater, gieße die Gnade deines Geistes von neuen über uns aus, damit wir unserer Berufung würdig leben und vor den Menschen für deine Wahrheit Zeugnis ablegen. Hilf uns, dass wir voll Zuversicht nach der Einheit aller Christen und nach der Gemeinschaft in der einen Kirche streben. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui una semel hóstia, Dómine, adoptiónis tibi pópulum acquisísti, unitátis et pacis in Ecclésia tua propítius nobis dona concédas. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, pelo único sacrifício do vosso Filho,"
+       ],
+       [
+        "adquiristes para vós um povo de adoção filial;"
+       ],
+       [
+        "concedei-nos benigno, na vossa Igreja,"
+       ],
+       [
+        "os dons da unidade e da paz."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Lord, who gained for yourself a people by adoption through the one sacrifice offered once for all,"
+       ],
+       [
+        "bestow graciously on us, we pray,"
+       ],
+       [
+        "the gifts of unity and peace in your Church."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, que adquiriste para ti un pueblo de adopción"
+       ],
+       [
+        "con el sacrificio de una vez para siempre,"
+       ],
+       [
+        "concédenos propicio"
+       ],
+       [
+        "los dones de la unidad y de la paz en tu Iglesia."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che nell'unico sacrificio del tuo Figlio ti sei acquistato un popolo di adozione, concedi e custodisci sempre nella tua Chiesa i doni dell'unità e della pace. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Par l'unique sacrifice, offert une fois pour toutes,"
+       ],
+       [
+        "tu t'es donné, Seigneur, le peuple que tu as adopté ;"
+       ],
+       [
+        "en ta bienveillance, accorde-nous"
+       ],
+       [
+        "la grâce de l'unité et de la paix dans ton Église."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr und Gott, du hast dir das eine Volk des Neuen Bundes erworben durch das Opfer deines Sohnes, das er ein für allemal dargebracht hat. Sieh gnädig auf uns und schenke uns in deiner Kirche Einheit und Frieden. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 10, 17"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 10, 17"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 10, 17"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 10, 17"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cfr 1 Cor 10, 17"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 10, 17"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Vgl. 1 Kor 10, 17"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Unus panis, et unum corpus multi sumus, omnes qui de uno pane et de uno cálice participámus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Há um só pão e, embora sendo muitos,"
+       ],
+       [
+        "formamos um só corpo, todos os que participamos"
+       ],
+       [
+        "do mesmo pão e do mesmo cálice."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Though many, we are one bread, one body,"
+       ],
+       [
+        "for we all partake of the one bread and one chalice."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Porque el pan es uno, nosotros, siendo muchos, formamos un solo cuerpo, pues todos participamos del mismo pan y del mismo cáliz."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uno solo è il pane, e noi, pur essendo molti, siamo un corpo solo: tutti partecipiamo all'unico pane e all'unico calice."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Puisqu'il y a un seul pain, la multitude que nous sommes est un seul corps,"
+       ],
+       [
+        "car nous avons tous part à un seul pain et à un seul calice."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ein Brot ist es. Darum sind wir viele e i n Leib; denn wir alle haben teil an dem e i n e n Brot und dem e i n e n Kelch."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc tua, Dómine, sumpta sacra commúnio, sicut fidélium in te uniónem præsígnat, sic in Ecclésia tua unitátis operétur efféctum. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fazei, Senhor,"
+       ],
+       [
+        "que a sagrada comunhão dos vossos mistérios,"
+       ],
+       [
+        "sinal da nossa união convosco,"
+       ],
+       [
+        "realize a unidade na vossa Igreja"
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As this reception of your holy Communion, O Lord, foreshadows the union of the faithful in you,"
+       ],
+       [
+        "so may it bring about unity in your Church."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, esta santa comunión contigo que hemos recibido,"
+       ],
+       [
+        "anticipo de la unión de los fieles en ti,"
+       ],
+       [
+        "realice también la unidad en tu Iglesia."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La partecipazione ai tuoi santi misteri, o Signore, come prefigura la nostra unione in te, così realizzi l'unità nella tua Chiesa. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cette communion à tes mystères, Seigneur,"
+       ],
+       [
+        "préfigure l'union des fidèles en toi ;"
+       ],
+       [
+        "fais qu'elle produise un fruit d'unité"
+       ],
+       [
+        "dans ton Église."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, das heilige Mahl ist ein sichtbares Zeichen, dass deine Gläubigen in dir eins sind. Lass diese Feier wirksam werden für die Einheit der Kirche. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.83"
+ ],
+ "title": {
+  "la": "I. PRO SANCTA ECCLESIA",
+  "pt-BR": "I. PELA SANTA IGREJA",
+  "en-US": "I. FOR HOLY CHURCH",
+  "es": "I. POR LA SANTA IGLESIA",
+  "it": "I. PER LA SANTA CHIESA",
+  "fr": "I. POUR LA SAINTE ÉGLISE",
+  "de": "I. FÜR DIE HEILIGE KIRCHE"
+ },
+ "subtitle": {
+  "la": "17. PRO UNITATE CHRISTIANORUM A",
+  "pt-BR": "17. PELA UNIDADE DOS CRISTÃOS A",
+  "en-US": "17. FOR THE UNITY OF CHRISTIANS A",
+  "es": "17. POR LA UNIDAD DE LOS CRISTIANOS A",
+  "it": "17. PER L'UNITÀ DEI CRISTIANI A",
+  "fr": "17. POUR L'UNITÉ DES CHRÉTIENS A",
+  "de": "17. FÜR DIE EINHEIT DER CHRISTEN A"
+ }
+}

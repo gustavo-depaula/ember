@@ -1,1 +1,708 @@
-{"id":"sanctorale.03-14.german-speaking","source":"lecturas/lecturas_santos_mar#0314","items":[{"slot":"56","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[in den Diözesen deutscher Sprache]"}]]},{"k":"h2","lines":[["14. März"],["Hl. Mathilde, Königin"]]}]}},{"slot":"57","text":{"*":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch der Sprichwörter"]],"cite":"16, 1-12","role":"announcement"},{"k":"p","lines":[["Der Mensch entwirft die Pläne im Herzen, doch vom Herrn kommt die Antwort auf der Zunge. Jeder meint, sein Verhalten sei fehlerlos, doch der Herr prüft die Geister. Befiehl dem Herrn dein Tun an, so werden deine Pläne gelingen."],["Alles hat der Herr für seinen Zweck erschaffen, so auch den Frevler für den Tag des Unheils. Ein Gräuel ist dem Herrn jeder Hochmütige; er bleibt gewiss nicht ungestraft. Durch Liebe und Treue wird Schuld gesühnt, durch Gottesfurcht weicht man dem Bösen aus. Gefallen dem Herrn die Wege eines Menschen, so versöhnt er auch seine Feinde mit ihm."],["Besser wenig und gerecht als viel Besitz und Unrecht. Des Menschen Herz plant seinen Weg, doch der Herr lenkt seinen Schritt. Gottesentscheid kommt von den Lippen des Königs, sein Mund verfehlt sich nicht, wenn er ein Urteil fällt. Rechte Waage und Waagschalen sind Sache des Herrn, sein Werk sind alle Gewichtssteine im Beutel. Frevlerisches Tun ist Königen ein Gräuel; denn ein Thron steht fest durch Gerechtigkeit."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading"},{"slot":"58","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading"},{"slot":"59","text":{"*":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Spr 31, 10-11. 15 u. 20. 26-27. 28-29 (R: 29)","role":"title"}]},"part":"psalm"},{"slot":"60","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."]]}]},"part":"psalm","role":"people"},{"slot":"61","text":{"*":[{"k":"p","lines":[["Eine tüchtige Frau, wer findet sie?"],["Sie übertrifft alle Perlen an Wert."],["Das Herz ihres Mannes vertraut auf sie,"],["und es fehlt ihm nicht an Gewinn."]]}]},"part":"psalm","role":"verse"},{"slot":"62","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."]]}]},"part":"psalm","role":"people"},{"slot":"63","text":{"*":[{"k":"p","lines":[["Noch bei Nacht steht sie auf,"],["um ihrem Haus Speise zu geben."],["Sie öffnet ihre Hand für den Bedürftigen"],["und reicht ihre Hände dem Armen."]]}]},"part":"psalm","role":"verse"},{"slot":"64","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."]]}]},"part":"psalm","role":"people"},{"slot":"65","text":{"*":[{"k":"p","lines":[["Öffnet sie ihren Mund, dann redet sie klug,"],["und gütige Lehre ist auf ihrer Zunge."],["Sie achtet auf das, was vorgeht im Haus,"],["und isst nicht träge ihr Brot."]]}]},"part":"psalm","role":"verse"},{"slot":"66","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."]]}]},"part":"psalm","role":"people"},{"slot":"67","text":{"*":[{"k":"p","lines":[["Ihre Söhne stehen auf und preisen sie glücklich,"],["auch ihr Mann erhebt sich und rühmt sie:"],["Viele Frauen erwiesen sich tüchtig,"],["doch du übertriffst sie alle."]]}]},"part":"psalm","role":"verse"},{"slot":"68","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."]]}]},"part":"psalm","role":"people"},{"slot":"69","text":{"*":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"cite":"Ps 26 (25), 8","role":"title"},{"k":"p","lines":[["Lob sei dir, Herr, König der ewigen Herrlichkeit!"],["Herr, ich liebe den Ort, wo dein Tempel steht, die Stätte, wo deine Herrlichkeit wohnt."],["Lob sei dir, Herr, König der ewigen Herrlichkeit!"]]}]},"part":"acclamation"},{"slot":"70","text":{"*":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"5, 21-24","role":"announcement"}]},"part":"gospel"},{"slot":"71","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"72","text":{"*":[{"k":"p","lines":[["In jener Zeit sprach Jesus zu seinen Jüngern:"],["Ihr habt gehört, dass zu den Alten gesagt worden ist: Du sollst nicht töten; wer aber jemand tötet, soll dem Gericht verfallen sein."],["Ich aber sage euch: Jeder, der seinem Bruder auch nur zürnt, soll dem Gericht verfallen sein; und wer zu seinem Bruder sagt: Du Dummkopf!, soll dem Spruch des Hohen Rates verfallen sein; wer aber zu ihm sagt: Du gottloser Narr!, soll dem Feuer der Hölle verfallen sein."],["Wenn du deine Opfergabe zum Altar bringst und dir dabei einfällt, dass dein Bruder etwas gegen dich hat, so lass deine Gabe dort vor dem Altar liegen; geh und versöhne dich zuerst mit deinem Bruder, dann komm und opfere deine Gabe."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"73","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"*":"Hl. Mathilde, Königin"}}
+{
+ "id": "sanctorale.03-14.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "14. März"
+       ],
+       [
+        "Hl. Mathilde, Königin"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch der Sprichwörter"
+       ]
+      ],
+      "cite": "16, 1-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Mensch entwirft die Pläne im Herzen, doch vom Herrn kommt die Antwort auf der Zunge. Jeder meint, sein Verhalten sei fehlerlos, doch der Herr prüft die Geister. Befiehl dem Herrn dein Tun an, so werden deine Pläne gelingen."
+       ],
+       [
+        "Alles hat der Herr für seinen Zweck erschaffen, so auch den Frevler für den Tag des Unheils. Ein Gräuel ist dem Herrn jeder Hochmütige; er bleibt gewiss nicht ungestraft. Durch Liebe und Treue wird Schuld gesühnt, durch Gottesfurcht weicht man dem Bösen aus. Gefallen dem Herrn die Wege eines Menschen, so versöhnt er auch seine Feinde mit ihm."
+       ],
+       [
+        "Besser wenig und gerecht als viel Besitz und Unrecht. Des Menschen Herz plant seinen Weg, doch der Herr lenkt seinen Schritt. Gottesentscheid kommt von den Lippen des Königs, sein Mund verfehlt sich nicht, wenn er ein Urteil fällt. Rechte Waage und Waagschalen sind Sache des Herrn, sein Werk sind alle Gewichtssteine im Beutel. Frevlerisches Tun ist Königen ein Gräuel; denn ein Thron steht fest durch Gerechtigkeit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Spr 31, 10-11. 15 u. 20. 26-27. 28-29 (R: 29)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eine tüchtige Frau, wer findet sie?"
+       ],
+       [
+        "Sie übertrifft alle Perlen an Wert."
+       ],
+       [
+        "Das Herz ihres Mannes vertraut auf sie,"
+       ],
+       [
+        "und es fehlt ihm nicht an Gewinn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Noch bei Nacht steht sie auf,"
+       ],
+       [
+        "um ihrem Haus Speise zu geben."
+       ],
+       [
+        "Sie öffnet ihre Hand für den Bedürftigen"
+       ],
+       [
+        "und reicht ihre Hände dem Armen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Öffnet sie ihren Mund, dann redet sie klug,"
+       ],
+       [
+        "und gütige Lehre ist auf ihrer Zunge."
+       ],
+       [
+        "Sie achtet auf das, was vorgeht im Haus,"
+       ],
+       [
+        "und isst nicht träge ihr Brot."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ihre Söhne stehen auf und preisen sie glücklich,"
+       ],
+       [
+        "auch ihr Mann erhebt sich und rühmt sie:"
+       ],
+       [
+        "Viele Frauen erwiesen sich tüchtig,"
+       ],
+       [
+        "doch du übertriffst sie alle."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Viele Frauen erwiesen sich tüchtig, doch du übertriffst sie alle."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Ps 26 (25), 8",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lob sei dir, Herr, König der ewigen Herrlichkeit!"
+       ],
+       [
+        "Herr, ich liebe den Ort, wo dein Tempel steht, die Stätte, wo deine Herrlichkeit wohnt."
+       ],
+       [
+        "Lob sei dir, Herr, König der ewigen Herrlichkeit!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "5, 21-24",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Ihr habt gehört, dass zu den Alten gesagt worden ist: Du sollst nicht töten; wer aber jemand tötet, soll dem Gericht verfallen sein."
+       ],
+       [
+        "Ich aber sage euch: Jeder, der seinem Bruder auch nur zürnt, soll dem Gericht verfallen sein; und wer zu seinem Bruder sagt: Du Dummkopf!, soll dem Spruch des Hohen Rates verfallen sein; wer aber zu ihm sagt: Du gottloser Narr!, soll dem Feuer der Hölle verfallen sein."
+       ],
+       [
+        "Wenn du deine Opfergabe zum Altar bringst und dir dabei einfällt, dass dein Bruder etwas gegen dich hat, so lass deine Gabe dort vor dem Altar liegen; geh und versöhne dich zuerst mit deinem Bruder, dann komm und opfere deine Gabe."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "Hl. Mathilde, Königin"
+ }
+}

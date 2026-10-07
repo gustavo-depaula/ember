@@ -1,0 +1,435 @@
+{
+ "id": "common.pastors.second-reading.1",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habentes donationes secundum gratiam differentes."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ béati Pauli apóstoli ad Romános"
+       ]
+      ],
+      "cite": "12, 3-13",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dico per grátiam, quæ data est mihi, ómnibus, qui sunt inter vos, non áltius sápere quam opórtet sápere, sed sápere ad sobrietátem, unicuíque sicut Deus divísit mensúram fídei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sicut enim in uno córpore multa membra habémus, ómnia autem membra non eúndem actum habent, ita multi unum corpus sumus in Christo, sínguli autem alter alteríus membra."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habéntes autem donatiónes secúndum grátiam, quæ data est nobis, differéntes: sive prophetíam, secúndum ratiónem fídei; sive ministérium, in ministrándo; sive qui docet, in doctrína; sive qui exhortátur, in exhortándo; qui tríbuit, in simplicitáte; qui præest, in sollicitúdine; qui miserétur, in hilaritáte."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Diléctio sine simulatióne. Odiéntes malum, adhæréntes bono; caritáte fraternitátis ínvicem diligéntes, honóre ínvicem præveniéntes, sollicitúdine non pigri, spíritu fervéntes, Dómino serviéntes, spe gaudéntes, in tribulatióne patiéntes, oratióni instántes, necessitátibus sanctórum communicántes, hospitalitátem sectántes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Temos dons diferentes, de acordo com a graça que nos foi dada."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Carta de São Paulo aos Romanos"
+       ]
+      ],
+      "cite": "12, 3-13",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Pela graça que nos foi dada, recomendo a cada um de vós: Ninguém faça de si uma idéia muito elevada, mas tenha de si uma justa estima ditada pela sabedoria, conforme a medida da fé que Deus repartiu a cada um. Como um só corpo temos muitos membros, cada qual com uma função diferente, asim nós, embora muitos, somos em Cristo um só corpo e todos membros uns dos outros. Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé; se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino; se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside presida com solicitude; quem se dedica a obras de misericordia, faça-o com alegria. O amor seja sincero. Detestai o mal, apegai-vos ao bem. Que o amor fraterno vos una aos outros com terna afeição, prevenindo-vos com atenções reciprocas. Sede zelosos ediligentes, fervorosos de espirito, servido sempre ao Senhor, alegres por causa da esperança, fortes nas tribulações, perseverates na oração. Socorrei os santos em suas necessidades, persisti na prática da hospitalidade."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the letter of St. Paul to the Romans"
+       ]
+      ],
+      "cite": "12:3-13",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In the light of the grace I have received I want to urge each one among you not to exaggerate his real importance. Each of you must judge himself soberly by the standard of the faith God has given him. Just as each of our bodies has several parts and each part has a separate function, so all of us, in union with Christ, form one body, and as parts of it we belong to each other. Our gifts differ according to the grace given us. If your gift is prophecy, then use it as your faith suggests; if administration, then use it for administration; if teaching, then use it for teaching. Let the preachers deliver sermons, the almsgivers give freely, the officials be diligent, and those who do works of mercy do them cheerfully. Do not let your love be a pretence, but sincerely prefer good to evil. Love each other as much as brothers should, and have a profound respect for each other. Work for the Lord with untiring effort and with great earnestness of spirit. If you have hope, this will make you cheerful. Do not give up if trials come; and keep on praying. If any of the saints are in need you must share with them; and you should make hospitality your special care."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Teniendo dones diferentes, según la gracia que se nos ha dado"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la carta del apóstol san Pablo a los Romanos"
+       ]
+      ],
+      "cite": "12, 3-13",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Por la gracia de Dios que me ha sido dada os digo a todos y a cada uno de vosotros: No os estiméis en más de lo que conviene, sino estimaos moderadamente, según la medida de la fe que Dios otorgó a cada cual. Pues, así como en un solo cuerpo tenemos muchos miembros, y no todos los miembros cumplen la misma función, así nosotros, siendo muchos, somos un solo cuerpo en Cristo, pero cada cual existe en relación con los otros miembros."
+       ],
+       [
+        "Teniendo dones diferentes, según la gracia que se nos ha dado, deben ejercerse así: la profecía, de acuerdo con la regla de la fe; el servicio, dedicándose a servir; el que enseña, aplicándose a la enseñanza; el que exhorta, ocupándose en la exhortación; el que se dedica a distribuir los bienes, hágalo con generosidad; el que preside, con solicitud; el que hace obras de misericordia, con gusto."
+       ],
+       [
+        "Que vuestro amor no sea fingido; aborreciendo lo malo, apegaos a lo bueno."
+       ],
+       [
+        "Amaos cordialmente unos a otros; que cada cual estime a los otros más que a sí mismo; en la actividad, no seáis negligentes; en el espíritu, manteneos fervorosos, sirviendo constantemente al Señor."
+       ],
+       [
+        "Que la esperanza os tenga alegres; manteneos firmes en la tribulación, sed asiduos en la oración; compartid las necesidades de los santos; practicad la hospitalidad."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Abbiamo doni diversi secondo la grazia data a ciascuno di noi."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla lettera di san Paolo apostolo ai Romani"
+       ]
+      ],
+      "cite": "12, 3-13",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, per la grazia che mi è stata data, io dico a ciascuno di voi: non valutatevi più di quanto conviene, ma valutatevi in modo saggio e giusto, ciascuno secondo la misura di fede che Dio gli ha dato. Poiché, come in un solo corpo abbiamo molte membra e queste membra non hanno tutte la medesima funzione, così anche noi, pur essendo molti, siamo un solo corpo in Cristo e, ciascuno per la sua parte, siamo membra gli uni degli altri."
+       ],
+       [
+        "Abbiamo doni diversi secondo La grazia data a ciascuno di noi: chi ha il dono della profezia la eserciti secondo ciò che detta la fede; chi ha un ministero attenda al ministero; chi insegna si dedichi all'insegnamento; chi esorta si dedichi all'esortazione. Chi dona, lo faccia con semplicità; chi presiede, presieda con diligenza; chi fa opere di misericordia, le compia con gioia."
+       ],
+       [
+        "La carità non sia ipocrita: detestate il male, attaccatevi al bene; amatevi gli uni gli altri con affetto fraterno, gareggiate nello stimarvi a vicenda. Non siate pigri nel fare il bene, siate invece ferventi nello spirito; servite il Signore. Siate lieti nella speranza, costanti nella tribolazione, perseveranti nella preghiera. Condividete le necessità dei santi; siate premurosi nell'ospitalità."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lettre de saint Paul Apôtre aux Romains"
+       ]
+      ],
+      "cite": "12, 3-13",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, par la grâce qui m'a été accordée, je dis à chacun d'entre vous : n'ayez pas de prétentions déraisonnables, mais pensez à être raisonnables, chacun dans la mesure de la mission que Dieu lui a confiée. Prenons une comparaison : en un corps unique, nous avons plusieurs membres, qui n'ont pas tous la même fonction ; nous qui sommes plusieurs, nous sommes un seul corps dans le Christ, et membres les uns des autres, chacun pour sa part. Et selon la grâce que Dieu nous a accordée, nous avons reçu des dons qui sont différents. Si c'est le don de prophétie, que ce soit à proportion du message confié ; si c'est le don de servir, que l'on serve ; si l'on est fait pour enseigner, que l'on enseigne ; pour réconforter, que l'on réconforte. Celui qui donne, qu'il soit généreux ; celui qui dirige, qu'il soit empressé ; celui qui pratique la miséricorde, qu'il ait le sourire. Que votre amour soit sans hypocrisie. Fuyez le mal avec horreur, attachez-vous au bien. Soyez unis les uns aux autres par l'affection fraternelle, rivalisez de respect les uns pour les autres. Ne ralentissez pas votre élan, restez dans la ferveur de l'Esprit, servez le Seigneur, ayez la joie de l'espérance, tenez bon dans l'épreuve, soyez assidus à la prière. Partagez avec les fidèles qui sont dans le besoin, pratiquez l'hospitalité avec empressement."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Brief des Apostels Paulus an die Römer"
+       ]
+      ],
+      "cite": "12, 3-13",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Aufgrund der Gnade, die mir gegeben ist, sage ich einem jeden von euch: Strebt nicht über das hinaus, was euch zukommt, sondern strebt danach, besonnen zu sein, jeder nach dem Maß des Glaubens, das Gott ihm zugeteilt hat."
+       ],
+       [
+        "Denn wie wir an dem einen Leib viele Glieder haben, aber nicht alle Glieder denselben Dienst leisten, so sind wir, die vielen, e i n Leib in Christus, als Einzelne aber sind wir Glieder, die zueinander gehören."
+       ],
+       [
+        "Wir haben unterschiedliche Gaben, je nach der uns verliehenen Gnade. Hat einer die Gabe prophetischer Rede, dann rede er in Übereinstimmung mit dem Glauben; hat einer die Gabe des Dienens, dann diene er. Wer zum Lehren berufen ist, der lehre; wer zum Trösten und Ermahnen berufen ist, der tröste und ermahne. Wer gibt, gebe ohne Hintergedanken; wer Vorsteher ist, setze sich eifrig ein; wer Barmherzigkeit übt, der tue es freudig."
+       ],
+       [
+        "Eure Liebe sei ohne Heuchelei. Verabscheut das Böse, haltet fest am Guten! Seid einander in brüderlicher Liebe zugetan, übertrefft euch in gegenseitiger Achtung! Lasst nicht nach in eurem Eifer, lasst euch vom Geist entflammen und dient dem Herrn! Seid fröhlich in der Hoffnung, geduldig in der Bedrängnis, beharrlich im Gebet! Helft den Heiligen, wenn sie in Not sind; gewährt jederzeit Gastfreundschaft!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

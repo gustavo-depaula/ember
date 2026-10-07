@@ -1,1 +1,1602 @@
-{"id":"common.holy-men-and-women.13","source":"comunes_votivas/comunes_sant#sanct13","kind":"common","items":[{"slot":"187","text":{"la":[{"k":"h2","lines":[["COMMUNE SANCTORUM ET SANCTARUM"]]},{"k":"h3","lines":[["IV. PRO EDUCATORIBUS"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF HOLY MEN AND WOMEN"]]},{"k":"h3","lines":[["IV. For Educators"]]}],"es":[{"k":"h2","lines":[["COMÚN DE SANTOS Y SANTAS"]]},{"k":"h3","lines":[["IV. Para Educadores"]]}],"it":[{"k":"h2","lines":[["COMUNE DEI SANTI E DELLE SANTE"]]},{"k":"h3","lines":[["IV. Per gli educatori"]]}],"fr":[{"k":"h2","lines":[["COMMUN DES SAINTS ET DES SAINTES"]]},{"k":"h3","lines":[["IV. SAINTS ÉDUCATEURS"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE FÜR HL. MÄNNER UND HL. FRAUEN"]]},{"k":"h3","lines":[["10. Für Erzieher"]]}]},"part":"title"},{"slot":"188","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Mc 10, 14"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Mk 10, 14"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Mc 10, 14"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Mc 10, 14"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Mc 10, 14"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Mk 10, 14"}]},"part":"entranceAntiphon"},{"slot":"189","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Mt 5, 19"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Mt 5: 19"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Cf. Mt 5, 19"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Cf. Mt 5, 19"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Mt 5, 19"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Mt 5, 19"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"190","text":{"la":[{"k":"p","lines":[["Sínite párvulos veníre ad me, et ne prohibuéritis eos: tálium est enim regnum Dei, dicit Dóminus ",{"m":"rubric","t":"( T. P. "},"allelúia ",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["Let the children come to me; do not prevent them, for the kingdom of God belongs to such as these ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Dejad que los niños se acerquen a mí: no se lo impidáis, de los que son como ellos es el reino de Dios, dice el Señor ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["«Lasciate che i bambini vengano a me, non glielo impedite: dice il Signore ",{"m":"rubric","t":"(E. T. "},"Alleluia)."]]}],"fr":[{"k":"p","lines":[["Laissez les enfants venir à moi, dit le Seigneur."],["Ne les empêchez pas,"],["car le royaume de Dieu est à ceux qui leur ressemblent ",{"m":"rubric","t":"( T. P. "},"alléluia ",{"m":"rubric","t":")."}]]}],"de":[{"k":"p","lines":[["Lasst die Kinder zu mir kommen, hindert sie nicht daran! Denn Menschen wie ihnen gehört das Reich Gottes."]]}]},"part":"entranceAntiphon"},{"slot":"191","text":{"la":[{"k":"p","lines":[["Qui fécerit et docúerit mandáta Dómini, hic magnus vocábitur in regno cælórum, dicit Dóminus ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["Whoever obeys and teaches the commandments of the Lord will be called great in the Kingdom of Heaven, says the Lord ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Quien cumple y enseña los mandatos del Señor, será grande en el reino de los cielos, dice el Señor ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["Chi osserverà e insegnerà i precetti del Signore sarà grande nel regno dei cieli ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"fr":[{"k":"p","lines":[["Celui qui observera et enseignera les commandements du Seigneur,"],["celui-là sera déclaré grand dans le royaume des Cieux,"],["dit le Seigneur ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":")."}]]}],"de":[{"k":"p","lines":[["Wer die Gebote hält und halten lehrt, der wird groß sein im Himmelreich."]]}]},"part":"entranceAntiphon"},{"slot":"192","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"193","text":{"la":[{"k":"p","lines":[["Deus, qui in Ecclésia tua beátum ",{"m":"rubric","t":"N. "},"suscitásti, ut próximis viam salútis monstráret, da nobis, eius exémplo, Christum magístrum ita sequi, ut ad te cum frátribus nostris perveníre valeámus. Per Dóminum."]]}],"en-US":[{"k":"p","lines":[["O God, who raised up blessed ",{"m":"rubric","t":"N."}," in your Church to show others the way of salvation, grant us, by his ",{"m":"rubric","t":"("},"her",{"m":"rubric","t":")"}," example, so to follow Christ the master, that we may come with our neighbor into your presence."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que suscitaste en tu Iglesia a san ",{"m":"rubric","t":"N."}],["para que mostrara a los demás"],["el camino de la salvación,"],["concédenos, con su ejemplo,"],["seguir de tal modo a Cristo Maestro"],["que logremos llegar a ti"],["junto con nuestros hermanos."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio, che hai suscitato nella tua Chiesa san ",{"m":"rubric","t":"N."}," perché indicasse ai giovani la via della salvezza, dona a noi, sul suo esempio, di seguire Cristo maestro, per giungere presso di te insieme ai nostri fratelli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as suscité saint ",{"m":"rubric","t":"N."}," dans ton Église"],["pour qu'il enseigne le chemin du salut"],["à ceux qui lui étaient confiés ;"],["accorde-nous, à son exemple, de suivre le Christ, le seul Maître,"],["afin de parvenir jusqu'à toi en compagnie de nos frères."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles"]]}],"de":[{"k":"p","lines":[["Gott, du teilst in deiner Kirche jedem seine Aufgabe zu. Den heiligen ",{"m":"rubric","t":"N."}," hast du berufen, jungen Menschen den Weg des Heiles zu zeigen. Durch sein Beispiel hilf uns, Christus, unserem Lehrer und Meister, nachzufolgen und in der Gemeinschaft seiner Jünger zu dir zu gelangen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"194","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"195","text":{"la":[{"k":"p","lines":[["Accépta tibi sit, quǽsumus, Dómine, sacrátæ plebis oblátio pro beáti ",{"m":"rubric","t":"N. "},"commemoratióne et præsta, ut, ex huius participatióne mystérii, exémpla tuæ caritátis referámus. Per Christum."]]}],"en-US":[{"k":"p","lines":[["May the oblation made by your consecrated people in commemoration of blessed ",{"m":"rubric","t":"N."}," be acceptable to you, we pray, O Lord, and grant that by participation in this mystery we may reflect the pattern of your love."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Acepta, Señor, los dones de tu pueblo santo"],["en la conmemoración de san ",{"m":"rubric","t":"N."},","],["y concédenos,"],["por la participación en este misterio,"],["dar testimonio de tu amor."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, o Signore, l'offerta che il popolo a te consacrato ti presenta nella memoria di san ",{"m":"rubric","t":"N. "},", e per la partecipazione a questi misteri donaci di esprimere nella vita la forza del tuo amore. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Accepte, Seigneur, nous t'en prions,"],["le sacrifice que ton peuple consacré"],["t'offre aujourd'hui en mémoire de saint ",{"m":"rubric","t":"N."}," ;"],["fais qu'en ayant participé à ce mystère,"],["nous devenions des témoins de ta charité."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, nimm die Gaben an, die wir am Gedenktag des heiligen ",{"m":"rubric","t":"N."}," dir weihen. Die Opferfeier, an der wir teilnehmen, schenke uns die Gnade, durch gute Taten deine Liebe zu bezeugen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"196","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"198","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Mt 18, 3"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Mt 18, 3"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Mt 18, 3"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Mt 18, 3"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Mt 18, 3"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Mt 18, 3"}]},"part":"communionAntiphon"},{"slot":"199","text":{"la":[{"k":"p","lines":[["Nisi convérsi fuéritis et efficiámini sicut párvuli, non intrábitis in regnum cælórum, dicit Dóminus ",{"m":"rubric","t":"( T. P. "},"allelúia ",{"m":"rubric","t":")."}]]}],"en-US":[{"k":"p","lines":[["Unless you turn and become like children, you will not enter the Kingdom of Heaven, says the Lord ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["Si no os convertís y os hacéis como niños, no entraréis en el reino de los cielos, dice el Señor ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["«Se non vi convertirete e non diventerete come i bambini, non entrerete nel regno dei cieli», dice il Signore ",{"m":"rubric","t":"( T. P. "},"allelúia ",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Si vous ne changez pas,"],["pour devenir comme les enfants, dit le Seigneur,"],["vous n'entrerez pas dans le royaume des Cieux ",{"m":"rubric","t":"( T. P. "},"alléluia ",{"m":"rubric","t":")."}]]}],"de":[{"k":"p","lines":[["Wenn ihr nicht umkehrt und wie Kinder werdet, könnt ihr nicht in das Himmelreich kommen."]]}]},"part":"communionAntiphon"},{"slot":"200","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Io 8, 12"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Jn 8: 12"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Jn 8, 12"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Gv 8, 12"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Jn 8, 12"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Joh 8, 12"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"201","text":{"la":[{"k":"p","lines":[["Qui séquitur me, non ámbulat in ténebris, sed habébit lumen vitæ, dicit Dóminus ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":"). "}]]}],"en-US":[{"k":"p","lines":[["Whoever follows me will not walk in darkness, but will have the light of life, says the Lord ",{"m":"rubric","t":"(E. T. "},"alleluia",{"m":"rubric","t":")"},"."]]}],"es":[{"k":"p","lines":[["El que me sigue no camina en tinieblas, sino que tendrá la luz de la vida ",{"m":"rubric","t":"(T. P."}," Aleluya",{"m":"rubric","t":")"},"."]]}],"it":[{"k":"p","lines":[["«Chi segue me, non camminerà nelle tenebre, ma avrà la luce della vita», dice il Signore ",{"m":"rubric","t":"(T. P. "},"allelúia",{"m":"rubric","t":")."}]]}],"fr":[{"k":"p","lines":[["Celui qui me suit ne marche pas dans les ténèbres,"],["mais il aura la lumière de la vie, dit le Seigneur ",{"m":"rubric","t":"(T. P. "},"alléluia",{"m":"rubric","t":"). "}]]}],"de":[{"k":"p","lines":[["Wer mir nachfolgt, wird nicht in der Finsternis gehen, sondern er wird das Licht des Lebens haben – so spricht der Herr."]]}]},"part":"communionAntiphon"},{"slot":"202","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"203","text":{"la":[{"k":"p","lines":[["Tríbuat nobis, omnípotens Deus, reféctio sancta subsídium, ut, exémplo beáti ",{"m":"rubric","t":"N."},", et fraternitátis caritátem et lumen veritátis in corde exhibeámus et ópere. Per Christum."]]}],"en-US":[{"k":"p","lines":[["May this holy meal give us strength, almighty God, so that, by the example of blessed ",{"m":"rubric","t":"N."},", we may show in our hearts and by our deeds both fraternal charity and the light of truth."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso,"],["que este sagrado banquete nos ayude a manifestar"],["con el corazón y las obras"],["el amor fraterno y la luz de la verdad,"],["siguiendo el ejemplo de san ",{"m":"rubric","t":"N."}],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Questo santo convito ci sostenga, Dio onnipotente, perché, sull'esempio di san ",{"m":"rubric","t":"N."},", testimoniamo nelle intenzioni e nelle opere la luce della tua verità e l'amore verso i fratelli. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant,"],["fais que nous trouvions un soutien dans ce repas sacré,"],["pour qu'à l'exemple de saint ",{"m":"rubric","t":"N."},","],["nous manifestions dans notre cœur et par nos actes"],["la charité fraternelle et la lumière de la vérité."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, die heilige Speise schenke uns neue Kraft, damit wir nach dem Vorbild des heiligen ",{"m":"rubric","t":"N."}," die Werke der Barmherzigkeit tun: die Unwissenden lehren, die Trauernden trösten, den Suchenden raten und so allen Menschen auf dem Weg zu dir helfen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.52","preface.53"],"title":{"la":"COMMUNE SANCTORUM ET SANCTARUM","en-US":"COMMON OF HOLY MEN AND WOMEN","es":"COMÚN DE SANTOS Y SANTAS","it":"COMUNE DEI SANTI E DELLE SANTE","fr":"COMMUN DES SAINTS ET DES SAINTES","de":"COMMUNE-TEXTE FÜR HL. MÄNNER UND HL. FRAUEN"},"subtitle":{"la":"IV. PRO EDUCATORIBUS","en-US":"IV. For Educators","es":"IV. Para Educadores","it":"IV. Per gli educatori","fr":"IV. SAINTS ÉDUCATEURS","de":"10. Für Erzieher"}}
+{
+ "id": "common.holy-men-and-women.13",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE SANCTORUM ET SANCTARUM"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. PRO EDUCATORIBUS"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF HOLY MEN AND WOMEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. For Educators"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE SANTOS Y SANTAS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. Para Educadores"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DEI SANTI E DELLE SANTE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. Per gli educatori"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DES SAINTS ET DES SAINTES"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "IV. SAINTS ÉDUCATEURS"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE FÜR HL. MÄNNER UND HL. FRAUEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "10. Für Erzieher"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Mc 10, 14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Mk 10, 14"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Mc 10, 14"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Mc 10, 14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Mc 10, 14"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Mk 10, 14"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Mt 5, 19"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Mt 5: 19"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Mt 5, 19"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Cf. Mt 5, 19"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Mt 5, 19"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Mt 5, 19"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sínite párvulos veníre ad me, et ne prohibuéritis eos: tálium est enim regnum Dei, dicit Dóminus ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "allelúia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Let the children come to me; do not prevent them, for the kingdom of God belongs to such as these ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dejad que los niños se acerquen a mí: no se lo impidáis, de los que son como ellos es el reino de Dios, dice el Señor ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Lasciate che i bambini vengano a me, non glielo impedite: dice il Signore ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "Alleluia)."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Laissez les enfants venir à moi, dit le Seigneur."
+       ],
+       [
+        "Ne les empêchez pas,"
+       ],
+       [
+        "car le royaume de Dieu est à ceux qui leur ressemblent ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "alléluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lasst die Kinder zu mir kommen, hindert sie nicht daran! Denn Menschen wie ihnen gehört das Reich Gottes."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui fécerit et docúerit mandáta Dómini, hic magnus vocábitur in regno cælórum, dicit Dóminus ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Whoever obeys and teaches the commandments of the Lord will be called great in the Kingdom of Heaven, says the Lord ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quien cumple y enseña los mandatos del Señor, será grande en el reino de los cielos, dice el Señor ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi osserverà e insegnerà i precetti del Signore sarà grande nel regno dei cieli ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Celui qui observera et enseignera les commandements du Seigneur,"
+       ],
+       [
+        "celui-là sera déclaré grand dans le royaume des Cieux,"
+       ],
+       [
+        "dit le Seigneur ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wer die Gebote hält und halten lehrt, der wird groß sein im Himmelreich."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui in Ecclésia tua beátum ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "suscitásti, ut próximis viam salútis monstráret, da nobis, eius exémplo, Christum magístrum ita sequi, ut ad te cum frátribus nostris perveníre valeámus. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who raised up blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " in your Church to show others the way of salvation, grant us, by his ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "her",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " example, so to follow Christ the master, that we may come with our neighbor into your presence."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que suscitaste en tu Iglesia a san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "para que mostrara a los demás"
+       ],
+       [
+        "el camino de la salvación,"
+       ],
+       [
+        "concédenos, con su ejemplo,"
+       ],
+       [
+        "seguir de tal modo a Cristo Maestro"
+       ],
+       [
+        "que logremos llegar a ti"
+       ],
+       [
+        "junto con nuestros hermanos."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio, che hai suscitato nella tua Chiesa san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " perché indicasse ai giovani la via della salvezza, dona a noi, sul suo esempio, di seguire Cristo maestro, per giungere presso di te insieme ai nostri fratelli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as suscité saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " dans ton Église"
+       ],
+       [
+        "pour qu'il enseigne le chemin du salut"
+       ],
+       [
+        "à ceux qui lui étaient confiés ;"
+       ],
+       [
+        "accorde-nous, à son exemple, de suivre le Christ, le seul Maître,"
+       ],
+       [
+        "afin de parvenir jusqu'à toi en compagnie de nos frères."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, du teilst in deiner Kirche jedem seine Aufgabe zu. Den heiligen ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " hast du berufen, jungen Menschen den Weg des Heiles zu zeigen. Durch sein Beispiel hilf uns, Christus, unserem Lehrer und Meister, nachzufolgen und in der Gemeinschaft seiner Jünger zu dir zu gelangen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accépta tibi sit, quǽsumus, Dómine, sacrátæ plebis oblátio pro beáti ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        "commemoratióne et præsta, ut, ex huius participatióne mystérii, exémpla tuæ caritátis referámus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the oblation made by your consecrated people in commemoration of blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " be acceptable to you, we pray, O Lord, and grant that by participation in this mystery we may reflect the pattern of your love."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acepta, Señor, los dones de tu pueblo santo"
+       ],
+       [
+        "en la conmemoración de san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "y concédenos,"
+       ],
+       [
+        "por la participación en este misterio,"
+       ],
+       [
+        "dar testimonio de tu amor."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, o Signore, l'offerta che il popolo a te consacrato ti presenta nella memoria di san ",
+        {
+         "m": "rubric",
+         "t": "N. "
+        },
+        ", e per la partecipazione a questi misteri donaci di esprimere nella vita la forza del tuo amore. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accepte, Seigneur, nous t'en prions,"
+       ],
+       [
+        "le sacrifice que ton peuple consacré"
+       ],
+       [
+        "t'offre aujourd'hui en mémoire de saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " ;"
+       ],
+       [
+        "fais qu'en ayant participé à ce mystère,"
+       ],
+       [
+        "nous devenions des témoins de ta charité."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, nimm die Gaben an, die wir am Gedenktag des heiligen ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " dir weihen. Die Opferfeier, an der wir teilnehmen, schenke uns die Gnade, durch gute Taten deine Liebe zu bezeugen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Mt 18, 3"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Mt 18, 3"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Mt 18, 3"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Mt 18, 3"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Mt 18, 3"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Mt 18, 3"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nisi convérsi fuéritis et efficiámini sicut párvuli, non intrábitis in regnum cælórum, dicit Dóminus ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "allelúia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Unless you turn and become like children, you will not enter the Kingdom of Heaven, says the Lord ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si no os convertís y os hacéis como niños, no entraréis en el reino de los cielos, dice el Señor ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Se non vi convertirete e non diventerete come i bambini, non entrerete nel regno dei cieli», dice il Signore ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "allelúia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si vous ne changez pas,"
+       ],
+       [
+        "pour devenir comme les enfants, dit le Seigneur,"
+       ],
+       [
+        "vous n'entrerez pas dans le royaume des Cieux ",
+        {
+         "m": "rubric",
+         "t": "( T. P. "
+        },
+        "alléluia ",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wenn ihr nicht umkehrt und wie Kinder werdet, könnt ihr nicht in das Himmelreich kommen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Io 8, 12"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Jn 8: 12"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Jn 8, 12"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Gv 8, 12"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Jn 8, 12"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Joh 8, 12"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui séquitur me, non ámbulat in ténebris, sed habébit lumen vitæ, dicit Dóminus ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Whoever follows me will not walk in darkness, but will have the light of life, says the Lord ",
+        {
+         "m": "rubric",
+         "t": "(E. T. "
+        },
+        "alleluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que me sigue no camina en tinieblas, sino que tendrá la luz de la vida ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " Aleluya",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Chi segue me, non camminerà nelle tenebre, ma avrà la luce della vita», dice il Signore ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "allelúia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Celui qui me suit ne marche pas dans les ténèbres,"
+       ],
+       [
+        "mais il aura la lumière de la vie, dit le Seigneur ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "alléluia",
+        {
+         "m": "rubric",
+         "t": "). "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wer mir nachfolgt, wird nicht in der Finsternis gehen, sondern er wird das Licht des Lebens haben – so spricht der Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tríbuat nobis, omnípotens Deus, reféctio sancta subsídium, ut, exémplo beáti ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", et fraternitátis caritátem et lumen veritátis in corde exhibeámus et ópere. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May this holy meal give us strength, almighty God, so that, by the example of blessed ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", we may show in our hearts and by our deeds both fraternal charity and the light of truth."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "que este sagrado banquete nos ayude a manifestar"
+       ],
+       [
+        "con el corazón y las obras"
+       ],
+       [
+        "el amor fraterno y la luz de la verdad,"
+       ],
+       [
+        "siguiendo el ejemplo de san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questo santo convito ci sostenga, Dio onnipotente, perché, sull'esempio di san ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", testimoniamo nelle intenzioni e nelle opere la luce della tua verità e l'amore verso i fratelli. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant,"
+       ],
+       [
+        "fais que nous trouvions un soutien dans ce repas sacré,"
+       ],
+       [
+        "pour qu'à l'exemple de saint ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "nous manifestions dans notre cœur et par nos actes"
+       ],
+       [
+        "la charité fraternelle et la lumière de la vérité."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, die heilige Speise schenke uns neue Kraft, damit wir nach dem Vorbild des heiligen ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " die Werke der Barmherzigkeit tun: die Unwissenden lehren, die Trauernden trösten, den Suchenden raten und so allen Menschen auf dem Weg zu dir helfen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.52",
+  "preface.53"
+ ],
+ "title": {
+  "la": "COMMUNE SANCTORUM ET SANCTARUM",
+  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "es": "COMÚN DE SANTOS Y SANTAS",
+  "it": "COMUNE DEI SANTI E DELLE SANTE",
+  "fr": "COMMUN DES SAINTS ET DES SAINTES",
+  "de": "COMMUNE-TEXTE FÜR HL. MÄNNER UND HL. FRAUEN"
+ },
+ "subtitle": {
+  "la": "IV. PRO EDUCATORIBUS",
+  "en-US": "IV. For Educators",
+  "es": "IV. Para Educadores",
+  "it": "IV. Per gli educatori",
+  "fr": "IV. SAINTS ÉDUCATEURS",
+  "de": "10. Für Erzieher"
+ }
+}

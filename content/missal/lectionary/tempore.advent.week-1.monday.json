@@ -1,1 +1,4334 @@
-{"id":"tempore.advent.week-1.monday","source":"lecturas/lecturas_adv_01#A011","items":[{"slot":"55","text":{"la":[{"k":"h2","lines":[["Tempus Adventus"],["Hebdomada I"],["Feria secunda"]]}],"pt-BR":[{"k":"h2","lines":[["1ª Semana do Advento"],["Segunda-feira"]]}],"en-US":[{"k":"h2","lines":[["Advent Season"],["1st Week: Monday"]]}],"es":[{"k":"h2","lines":[["Tiempo de Adviento"],["Lunes de la I Semana"]]}],"it":[{"k":"h2","lines":[["LUNEDI della I settimana di Avvento"]]}],"fr":[{"k":"h2","lines":[["Temps de l'Avent"],["1e semaine"],["Lundi"]]}],"de":[{"k":"h2","lines":[["Advent"],["1. Woche: Montag"]]}]}},{"slot":"56","text":{"la":[{"k":"p","lines":[["Ad libitum, quando anno A Isaíæ 2,1-5 in dominica prima Adventus legitur:"]]}],"pt-BR":[{"k":"p","lines":[["No ano A,em que Isaias 2,1-5 se le no primeiro domingo de Advento pode ler-se Is 4, 2-6:"]]}],"en-US":[{"k":"p","lines":[["Alternative READING, for use in Year A when Isaiah 2:1-5 has been read on the First Sunday of Advent."]]}],"es":[{"k":"p","lines":[["En el año A, en que Isaías 2,1-5 se lee el primer domingo de Adviento, puede leerse la siguiente:"]]}],"fr":[{"k":"p","lines":[["autre lecture si année A"],["Parole d'Isaïe, – ce qu'il a vu au sujet de Juda et de Jérusalem."]]}],"de":[{"k":"p","lines":[["Oder zur Wahl, wenn im Lesejahr A die Perikope Jes 2, 1-5 am 1. Adventsonntag schon gelesen wurde:"]]}]},"cycle":"A","alt":{"group":1,"option":1,"label":"or"}},{"slot":"57","text":{"la":[{"k":"p","lines":[["Lectio prior"]],"role":"title"},{"k":"p","lines":[["Erit exsultatio his qui salvati fuerint."]],"role":"summary"},{"k":"p","lines":[["Léctio libri Isaíæ prophétæ"]],"cite":"4, 2-6","role":"announcement"},{"k":"p","lines":[["In die illa erit germen Dómini in splendórem et glóriam, et fructus terræ sublímis et exsultátio his, qui salváti fúerint de Israel. Et erit: omnis, qui relíctus fúerit in Sion, et resíduus in Ierúsalem, sanctus vocábitur, omnis, qui scriptus est ad vitam in Ierúsalem."]]},{"k":"p","lines":[["Cum ablúerit Dóminus sordem filiárum Sion et sánguinem Ierúsalem láverit de médio eius spíritu iudícii et spíritu ardóris, et creábit Dóminus super omnem locum montis Sion et super cœtum eius nubem per diem et fumum et splendórem ignis flammántis in nocte: super omnem enim glóriam protéctio, et tabernáculum erit in umbráculum diéi ab æstu et in securitátem et absconsiónem a túrbine et a plúvia."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Primeira Leitura"]],"role":"title"},{"k":"p","lines":[["Haverá grande alegria para os sobreviventes de Israel."]],"role":"summary"},{"k":"p","lines":[["Leitura do Livro do Profeta Isaías"]],"cite":"4, 2-6","role":"announcement"},{"k":"p","lines":[["Naquele dia, o povo do Senhor terá esplendor e glória, e o fruto da terra será de grande alegria para os sobreviventes de Israel. Então, os que forem deixados em Sião, os sobreviventes de Jerusalém, serão chamados santos, a saber, todos os destinados à vida em Jerusalém. Quando o Senhor tiver lavado as imundícies das filhas de Sião, e limpado as manchas de sangue dentro de Jerusalém, com espírito de justiça e de purificação, ele criará em todo lugar do monte Sião e em suas assembleias uma nuvem durante o dia, e fumaça e clarão de chamas durante a noite: e será proteção para toda a sua glória, uma tenda para dar sombra contra o calor do dia, abrigo e refúgio contra a ventania e a chuva."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["First Reading"]],"role":"title"},{"k":"p","lines":[["A reading from the book of Isaiah"]],"cite":"4:2-6","role":"announcement"},{"k":"p","lines":[["That day, the branch of the Lord shall be beauty and glory, and the fruit of the earth shall be the pride and adornment of Israel's survivors. Those who are left of Zionand remain of Jerusalem shall be called holy and those left in Jerusalem, noted down for survival. When the Lord has washed away the filth of the daughter of Zion and cleansed Jerusalem of the blood shed in her with the blast of judgment and the blast of destruction, The Lord will come and rest on the whole stretch of Mount Zion and on those who are gathered there, a cloud by day, and smoke, and by night the brightness of a flaring fire. For, over all, the glory of the Lord will be a canopy and a tent to give shade by day from the heat, refuge and shelter from the storm and the rain."]]},{"k":"p","lines":[["The Word of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Primera Lectura"]],"role":"title"},{"k":"p","lines":[["Será ornamento para los redimidos"]],"role":"summary"},{"k":"p","lines":[["Lectura del libro de Isaías"]],"cite":"4, 2-6","role":"announcement"},{"k":"p","lines":[["Aquel día, el vástago del Señor será el esplendor y la gloria, y el fruto del país será orgullo y ornamento para los redimidos de Israel."],["A los que queden en Sion y al resto en Jerusalén"],["los llamarán santos: todos los que en Jerusalén están inscritos"],["para la vida."],["Cuando el Señor haya lavado la impureza de las hijas de Sion y purificado la sangre derramada en Jerusalén,"],["con viento justiciero, con un soplo ardiente,"],["creará el Señor sobre toda la extensión del monte Sion y"],["sobre su asamblea"],["una nube de día, un humo y un resplandor de fuego llameante de noche."],["Y por encima, la gloria será un baldaquino"],["y una tienda, sombra en la canícula,"],["refugio y abrigo de la tempestad y de la lluvia."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Prima lettura"]],"role":"title"},{"k":"p","lines":[["Ci sarà gioia per gli scampati d'Israele."]],"role":"summary"},{"k":"p","lines":[["Dal libro del profeta Isaia"]],"cite":"4,2-6","role":"announcement"},{"k":"p","lines":[["In quel giorno, il germoglio del Signore crescerà in onore e gloria e il frutto della terra sarà a magnificenza e ornamento per i superstiti d'Israele. Chi sarà rimasto in Sion e chi sarà superstite in Gerusalemme sarà chiamato santo: quanti saranno iscritti per restare in vita in Gerusalemme."],["Quando il Signore avrà lavato le brutture delle figlie di Sion e avrà pulito Gerusalemme dal sangue che vi è stato versato, con il soffio del giudizio e con il soffio dello sterminio, allora creerà il Signore su ogni punto del monte Sion e su tutti i luoghi delle sue assemblee una nube di fumo durante il giorno e un bagliore di fuoco fiammeggiante durante la notte, perché la gloria del Signore sarà sopra ogni cosa come protezione, come una tenda sarà ombra contro il caldo di giorno e rifugio e riparo contro la bufera e contro la pioggia."]]},{"k":"p","lines":[["Parola di Dio."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Première lecture"]],"role":"title"},{"k":"p","lines":[["Livre d'Isaïe"]],"cite":"4, 2-6","role":"announcement"},{"k":"p","lines":[["Ce jour-là, le Germe que fera grandir le Seigneur sera l'honneur et la gloire des rescapés d'Israël, le Fruit de la terre sera leur fierté et leur splendeur. Alors, ceux qui seront restés dans Sion, les survivants de Jérusalem, seront appelés saints : tous seront inscrits à Jérusalem pour y vivre. Quand le Seigneur aura lavé la souillure des filles de Sion, purifié Jérusalem du sang répandu, en y faisant passer le souffle du jugement, un souffle d'incendie, alors, sur toute la montagne de Sion, sur les assemblées qui s'y tiennent, le Seigneur créera une nuée pendant le jour et, pendant la nuit, une fumée avec un feu de flammes éclatantes. Et au-dessus de tout, comme un dais, la gloire du Seigneur : elle sera, contre la chaleur du jour, l'ombre d'une hutte, un refuge, un abri contre l'orage et la pluie."]]},{"k":"p","lines":[["Parole du Seigneur."]],"role":"conclusion"}],"de":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch Jesája"]],"cite":"4, 2-6","role":"announcement"},{"k":"p","lines":[["An jenem Tag wird, was der Herr sprossen lässt, für alle Israeliten, die entronnen sind, eine Zierde und Ehre sein; die Früchte des Landes sind ihr Stolz und Ruhm. Dann wird der Rest von Zion, und wer in Jerusalem noch übrig ist, heilig genannt werden, jeder, der in Jerusalem in das Verzeichnis derer, die am Leben bleiben sollen, eingetragen ist."],["Wenn der Herr durch den Sturm des Gerichts und den Sturm der Läuterung von den Töchtern Zions den Kot abgewaschen und aus Jerusalems Mitte die Blutschuld weggespült hat, dann kommt er, und über dem ganzen Gebiet des Berges Zion und seinen Festplätzen erscheint bei Tag eine Wolke und bei Nacht Rauch und eine strahlende Feuerflamme. Denn über allem liegt als Schutz und Schirm die Herrlichkeit des Herrn; sie spendet bei Tag Schatten vor der Hitze und ist Zuflucht und Obdach bei Unwetter und Regen."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"cycle":"A","alt":{"group":1,"option":1,"label":"or"}},{"slot":"58","text":{"la":[{"k":"p","lines":[["Ad libitum, quando anno A Isaíæ 2,1-5 in dominica prima Adventus legitur."]]}],"en-US":[{"k":"p","lines":[["Alternative READING, for use in Year A when Isaiah 2:1-5 has been read on the First Sunday of Advent."]]}],"es":[{"k":"p","lines":[["En el año A, en que Isaías 2,1-5 se lee el primer domingo de Adviento, puede leerse:"]]}],"fr":[{"k":"p","lines":[["Ou bien si Année A"]]}],"de":[{"k":"p","lines":[["Oder zur Wahl, wenn im Lesejahr A die Perikope Jes 2, 1-5 am 1. Adventsonntag schon gelesen wurde:"]]}]},"cycle":"A","alt":{"group":1,"option":2,"label":"or"}},{"slot":"59","text":{"la":[{"k":"p","lines":[["Lectio prior"]],"role":"title"},{"k":"p","lines":[["Congregat Dóminus omnes nationes in pacem æternam Regni Dei."]],"role":"summary"},{"k":"p","lines":[["Léctio libri Isaíæ prophétæ"]],"cite":"2, 1-5","role":"announcement"},{"k":"p","lines":[["Verbum, quod vidit Isaías fílius Amos super Iudam et Ierúsalem."]]},{"k":"p","lines":[["Et erit in novíssimis diébus præparátus mons domus Dómini in vértice móntium, et elevábitur super colles; et fluent ad eum omnes gentes. Et ibunt pópuli multi et dicent: «Veníte, et ascendámus ad montem Dómini, ad domum Dei Iacob, ut dóceat nos vias suas, et ambulémus in sémitis eius»; quia de Sion exíbit lex, et verbum Dómini de Ierúsalem."]]},{"k":"p","lines":[["Et iudicábit gentes et árguet pópulos multos; et conflábunt gládios suos in vómeres et lánceas suas in falces; non levábit gens contra gentem gládium, nec exercebúntur ultra ad prœlium."]]},{"k":"p","lines":[["Domus Iacob, veníte, et ambulémus in lúmine Dómini."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Primeira Leitura"]],"role":"title"},{"k":"p","lines":[["O Senhor reúne todas as nações para a paz eterna do Reino"]],"role":"summary"},{"k":"p","lines":[["Leitura do Livro do Profeta Isaías"]],"cite":"2, 1-5","role":"announcement"},{"k":"p","lines":[["Visão de Isaías, filho de Amós, sobre Judá e Jerusalém. Acontecerá, nos últimos tempos, que o monte da casa do Senhor estará firmemente estabelecido no ponto mais alto das montanhas e dominará as colinas. A ele acorrerão todas as nações, para lá irão numerosos povos e dirão: \"Vamos subir ao monte do Senhor, à casa do Deus de Jacó, para que ele nos mostre seus caminhos e nos ensine a cumprir seus preceitos\"; porque de Sião provém a lei e de Jerusalém, a Palavra do Senhor. Ele há de julgar as nações e arguir numerosos povos; estes transformarão suas espadas em arados e suas lanças em foices: não pegarão em armas uns contra os outros e não mais travarão combate. Vinde, todos da casa de Jacó, e deixemo-nos guiar pela luz do Senhor."]]},{"k":"p","lines":[["Palavra do Senhor."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["First Reading"]],"role":"title"},{"k":"p","lines":[["A reading from the book of Isaiah"]],"cite":"2:1-5","role":"announcement"},{"k":"p","lines":[["The vision of Isaiah son of Amoz, concerning Judah and Jerusalem. In the days to come the mountain of the Temple of the Lord shall tower above the mountains and be lifted higher than the hills. All the nations will stream to it, peoples without number will come to it; and they will say: 'Come, let us go up to the mountain of the Lord, to the Temple of the God of Jacob that he may teach us his ways so that we may walk in his paths; since the Law will go out from Zion, and the oracle of the Lord from Jerusalem'. He will wield authority over the nations and adjudicate between many peoples; these will hammer their swords into ploughshares, their spears into sickles. Nation will not lift sword against nation, there will be no more training for war. House of Jacob, come, let us walk in the light of the Lord."]]},{"k":"p","lines":[["The Word of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["Primera Lectura"]],"role":"title"},{"k":"p","lines":[["El Señor congrega a todas las naciones en la paz eterna del Reino de Dios"]],"role":"summary"},{"k":"p","lines":[["Lectura del libro de Isaías"]],"cite":"2, 1-5","role":"announcement"},{"k":"p","lines":[["Visión de Isaías, hijo de Amós, acerca de Judá y de Jerusalén."],["En los días futuros estará firme"],["el monte de la casa del Señor,"],["en la cumbre de las montañas,"],["más elevado que las colinas."],["Hacia él confluirán todas las naciones,"],["caminarán pueblos numerosos y dirán:"],["«Venid, subamos al monte del Señor,"],["a la casa del Dios de Jacob."],["Él nos instruirá en sus caminos"],["y marcharemos por sus sendas;"],["porque de Sion saldrá la ley,"],["la palabra del Señor de Jerusalén»."],["Juzgará entre las naciones,"],["será árbitro de pueblos numerosos."],["De las espadas forjarán arados,"],["de las lanzas, podaderas."],["No alzará la espada pueblo contra pueblo,"],["no se adiestrarán para la guerra."],["Casa de Jacob, venid;"],["caminemos a la luz del Señor."]]},{"k":"p","lines":[["Palabra de Dios."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["Prima lettura"]],"role":"title"},{"k":"p","lines":[["Il Signore unisce tutti i popoli nella pace eterna del suo Regno."]],"role":"summary"},{"k":"p","lines":[["Dal libro del profeta Isaia"]],"cite":"2,1-5","role":"announcement"},{"k":"p","lines":[["Messaggio che Isaia, figlio di Amoz, ricevette in visione su Giuda e su Gerusalemme."],["Alla fine dei giorni,"],["il monte del tempio del Signore"],["sarà saldo sulla cima dei monti"],["e s'innalzerà sopra i colli,"],["e ad esso affluiranno tutte le genti."],["Verranno molti popoli e diranno:"],["«Venite, saliamo sul monte del Signore,"],["al tempio del Dio di Giacobbe,"],["perché ci insegni le sue vie"],["e possiamo camminare per i suoi sentieri»."],["Poiché da Sion uscirà la legge"],["e da Gerusalemme la parola del Signore."],["Egli sarà giudice fra le genti"],["e arbitro fra molti popoli."],["Spezzeranno le loro spade e ne faranno aratri,"],["delle loro lance faranno falci;"],["una nazione non alzerà più la spada"],["contro un'altra nazione,"],["non impareranno più l'arte della guerra."],["Casa di Giacobbe, venite,"],["camminiamo nella luce del Signore."]]},{"k":"p","lines":[["Parola di Dio."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["Première lecture"]],"role":"title"},{"k":"p","lines":[["Livre d'Isaïe"]],"cite":"2, 1-5","role":"announcement"},{"k":"p","lines":[["Il arrivera dans les derniers jours que la montagne de la maison du Seigneur se tiendra plus haut que les monts, s'élèvera au-dessus des collines. Vers elle, afflueront toutes les nations et viendront des peuples nombreux. Ils diront : « Venez ! montons à la montagne du Seigneur, à la maison du Dieu de Jacob ! Qu'il nous enseigne ses chemins, et nous irons par ses sentiers. » Oui, la loi sortira de Sion, et de Jérusalem, la parole du Seigneur."],["Il sera juge entre les nations et l'arbitre de peuples nombreux. De leurs épées, ils forgeront des socs, et de leurs lances, des faucilles. Jamais nation contre nation ne lèvera l'épée ; ils n'apprendront plus la guerre. Venez, maison de Jacob ! Marchons à la lumière du Seigneur."]]},{"k":"p","lines":[["Parole du Seigneur."]],"role":"conclusion"}],"de":[{"k":"p","lines":[["Erste Lesung"]],"role":"title"},{"k":"p","lines":[["Lesung aus dem Buch Jesája"]],"cite":"2, 1-5","role":"announcement"},{"k":"p","lines":[["Das Wort, das Jesája, der Sohn des Amoz, in einer Vision über Juda und Jerusalem gehört hat."],["Am Ende der Tage wird es geschehen: Der Berg mit dem Haus des Herrn steht fest gegründet als höchster der Berge; er überragt alle Hügel. Zu ihm strömen alle Völker. Viele Nationen machen sich auf den Weg. Sie sagen: Kommt, wir ziehen hinauf zum Berg des Herrn und zum Haus des Gottes Jakobs. Er zeige uns seine Wege, auf seinen Pfaden wollen wir gehen. Denn von Zion kommt die Weisung des Herrn, aus Jerusalem sein Wort."],["Er spricht Recht im Streit der Völker, er weist viele Nationen zurecht. Dann schmieden sie Pflugscharen aus ihren Schwertern und Winzermesser aus ihren Lanzen. Man zieht nicht mehr das Schwert, Volk gegen Volk, und übt nicht mehr für den Krieg."],["Ihr vom Haus Jakob, kommt, wir wollen unsere Wege gehen im Licht des Herrn."]]},{"k":"p","lines":[["Wort des lebendigen Gottes."]],"role":"conclusion"}]},"part":"firstReading","alt":{"group":1,"option":2,"label":"or"}},{"slot":"60","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Deo gratias."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Graças a Deus."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Thanks be to God."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Te alabamos, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Rendiamo grazie a Dio."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Nous rendons grâce à Dieu."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Dank sei Gott."]]}]},"role":"people","part":"firstReading","alt":{"group":1,"option":2,"label":"or"}},{"slot":"61","text":{"la":[{"k":"p","lines":[["Psalmus Responsorius"]],"cite":"Ps 121, 1-2. 3-4a. 4b-5. 6-7. 8-9. (: cf. 1)","role":"title"}],"pt-BR":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sl 121 (122), 1-4a.(4b-7).8-9 (: cf. 1)","role":"title"}],"en-US":[{"k":"p","lines":[["Responsorial Psalm"]],"cite":"Ps 121, 1-2. 3-4a. 4b-5. 6-7. 8-9. (: cf. 1)","role":"title"}],"es":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 121, 1-2. 3-4a. 4b-5. 6-7. 8-9. (: cf. 1)","role":"title"}],"it":[{"k":"p","lines":[["Salmo Responsoriale"]],"cite":"Salmo 121","role":"title"}],"fr":[{"k":"p","lines":[["Psaume"]],"cite":"Ps 121, 1-2. 3-4a. 4b-5. 6-7. 8-9. (: cf. 1)","role":"title"}],"de":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 122 (121), 1-3. 4-5. 6-7. 8-9 (R: 1b)","role":"title"}]},"part":"psalm","alt":{"group":2,"option":1,"label":"short"}},{"slot":"62","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!\""]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":1,"label":"short"}},{"slot":"63","text":{"la":[{"k":"p","lines":[["Lætátus sum in eo, quod dixérunt mihi:"],["«In domum Dómini íbimus»."],["Stantes iam sunt pedes nostri"],["in portis tuis, Ierúsalem."]]}],"pt-BR":[{"k":"p","lines":[["Que alegria, quando ouvi que me disseram:"],["\"Vamos à casa do Senhor!\""],["E agora nossos pés já se detêm,"],["Jerusalém, em tuas portas."]]}],"en-US":[{"k":"p","lines":[["I rejoiced when I heard them say: 'Let us go to God's house.' And now our feet are standing within your gates, O Jerusalem."]]}],"es":[{"k":"p","lines":[["Qué alegría cuando me dijeron:"],["«¡Vamos a la casa del Señor!»"],["Ya están pisando nuestros pies"],["tus umbrales, Jerusalén."]]}],"it":[{"k":"p","lines":[["Quale gioia, quando mi dissero:"],["«Andremo alla casa del Signore!»."],["Già sono fermi i nostri piedi"],["alle tue porte, Gerusalemme!"]]}],"fr":[{"k":"p","lines":[["Quelle joie quand on m'a dit :"],["« Nous irons à la maison du Seigneur ! »"],["Maintenant notre marche prend fin"],["devant tes portes, Jérusalem !"]]}],"de":[{"k":"p","lines":[["Ich freute mich, als man mir sagte:"],["„Zum Haus des Herrn wollen wir pilgern."],["Schon stehen wir in deinen Toren, Jerusalem:"]]}]},"part":"psalm","role":"verse","alt":{"group":2,"option":1,"label":"short"}},{"slot":"64","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":1,"label":"short"}},{"slot":"65","text":{"la":[{"k":"p","lines":[["Ierúsalem, quæ ædificáta est ut cívitas"],["sibi compácta in idípsum."],["Illuc enim ascendérunt tribus, tribus Dómini."]]}],"pt-BR":[{"k":"p","lines":[["Jerusalém, cidade bem edificada num conjunto harmonioso;"],["as tribos do Senhor."]]}],"en-US":[{"k":"p","lines":[["It is there that the tribes go up, the tribes of the Lord."]]}],"es":[{"k":"p","lines":[["Jerusalén está fundada"],["como ciudad bien compacta."],["Allá suben las tribus,"],["las tribus del Señor."]]}],"it":[{"k":"p","lines":[["Gerusalemme è costruita"],["come città unita e compatta."],["È là che salgono le tribù,"],["le tribù del Signore."]]}],"fr":[{"k":"p","lines":[["Jérusalem, te voici dans tes murs :"],["ville où tout ensemble ne fait qu'un !"],["C'est là que montent les tribus,"],["les tribus du Seigneur."]]}],"de":[{"k":"p","lines":[["Jerusalem, du starke Stadt,"],["dich gebaut und fest gefügt."],["Dorthin ziehen die Stämme hinauf, die Stämme des Herrn,"]]}]},"part":"psalm","role":"verse","alt":{"group":2,"option":1,"label":"short"}},{"slot":"66","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":1,"label":"short"}},{"slot":"67","text":{"la":[{"k":"p","lines":[["Testimónium Israel, ad confiténdum nómini Dómini."],["Quia illic sedérunt sedes ad iudícium,"],["sedes domus David."]]}],"pt-BR":[{"k":"p","lines":[["Para louvar, segundo a lei de Israel,"],["o nome do Senhor."],["A sede da justiça lá está"],["e o trono de Davi."]]}],"en-US":[{"k":"p","lines":[["For Israel's law it is, there to praise the Lord's name. There were set the thrones of judgment of the house of David."]]}],"es":[{"k":"p","lines":[["Según la costumbre de Israel,"],["a celebrar el nombre del Señor;"],["en ella están los tribunales de justicia,"],["en el palacio de David."]]}],"it":[{"k":"p","lines":[["È là che salgono le tribù,"],["le tribù del Signore,"],["secondo la legge di Israele,"],["per lodare il nome del Signore."]]}],"fr":[{"k":"p","lines":[["C'est là qu'Israël doit rendre grâce"],["au nom du Seigneur ;"],["c'est là le siège du droit,"],["le siège de la maison de David."]]}],"de":[{"k":"p","lines":[["wie es Israel geboten ist, den Namen des Herrn zu preisen."],["Denn dort stehen Throne bereit für das Gericht,"],["die Throne des Hauses David."]]}]},"part":"psalm","role":"verse","alt":{"group":2,"option":1,"label":"short"}},{"slot":"68","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":1,"label":"short"}},{"slot":"69","text":{"la":[{"k":"p","lines":[["Rogáte, quæ ad pacem sunt Ierúsalem,"],["secúri sint diligéntes te."],["Fiat pax in muris tuis,"],["et secúritas in túrribus tuis."]]}],"pt-BR":[{"k":"p","lines":[["Rogai que viva em paz Jerusalém,"],["e em segurança os que te amam!"],["Que a paz habite dentro de teus muros,"],["tranquilidade em teus palácios!"]]}],"en-US":[{"k":"p","lines":[["For the peace of Jerusalem pray: 'Peace be to your homes! May peace reign in your walls, in your palaces, peace!'"]]}],"es":[{"k":"p","lines":[["Desead la paz a Jerusalén:"],["«Vivan seguros los que te aman,"],["haya paz dentro de tus muros,"],["seguridad en tus palacios»."]]}],"it":[{"k":"p","lines":[["Chiedete pace per Gerusalemme:"],["vivano sicuri quelli che ti amano;"],["sia pace nelle tue mura,"],["sicurezza nei tuoi palazzi."]]}],"fr":[{"k":"p","lines":[["Appelez le bonheur sur Jérusalem :"],["« Paix à ceux qui t'aiment !"],["Que la paix règne dans tes murs,"],["le bonheur dans tes palais ! »"]]}],"de":[{"k":"p","lines":[["Erbittet für Jerusalem Frieden!"],["Wer dich liebt, sei in dir geborgen."],["Friede wohne in deinen Mauern,"],["in deinen Häusern Geborgenheit."]]}]},"part":"psalm","role":"verse","alt":{"group":2,"option":1,"label":"short"}},{"slot":"70","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":1,"label":"short"}},{"slot":"71","text":{"la":[{"k":"p","lines":[["Propter fratres meos et próximos meos"],["loquar: «Pax in te!»."],["Propter domum Dómini Dei nostri"],["exquíram bona tibi."]]}],"pt-BR":[{"k":"p","lines":[["Por amor a meus irmãos e meus amigos,"],["peço: \"A paz esteja em ti!\""],["Pelo amor que tenho à casa do Senhor,"],["eu te desejo todo bem!"]]}],"en-US":[{"k":"p","lines":[["For love of my brethren and friends I say: 'Peace upon you!' For love of the house of the Lord I will ask for your good."]]}],"es":[{"k":"p","lines":[["Por mis hermanos y compañeros,"],["voy a decir: «La paz contigo»."],["Por la casa del Señor, nuestro Dios,"],["te deseo todo bien."]]}],"it":[{"k":"p","lines":[["Per i miei fratelli e i miei amici"],["io dirò: «Su te sia pace!»."],["Per la casa del Signore nostro Dio,"],["chiederò per te il bene."]]}],"fr":[{"k":"p","lines":[["À cause de mes frères et de mes proches,"],["je dirai : « Paix sur toi ! »"],["À cause de la maison du Seigneur notre Dieu,"],["je désire ton bien."]]}],"de":[{"k":"p","lines":[["Wegen meiner Brüder und Freunde"],["will ich sagen: In dir sei Friede."],["Wegen des Hauses des Herrn, unseres Gottes,"],["will ich dir Glück erflehen."]]}]},"part":"psalm","role":"verse","alt":{"group":2,"option":1,"label":"short"}},{"slot":"72","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":1,"label":"short"}},{"slot":"73","text":{"la":[{"k":"p","lines":[["Psalmus Responsorius"]],"cite":"Ps 121, 1-2. 3-4a. 8-9. (: cf. 1)","role":"title"}],"pt-BR":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Salmo 121, 1-2. 3-4a. 8-9. (: cf. 1)","role":"title"}],"en-US":[{"k":"p","lines":[["Responsorial Psalm"]],"cite":"Ps 121, 1-2. 3-4a. 8-9. (: cf. 1)","role":"title"}],"es":[{"k":"p","lines":[["Salmo Responsorial"]],"cite":"Sal 121, 1-2. 3-4a. 8-9. (: cf. 1)","role":"title"}],"it":[{"k":"p","lines":[["Salmo Responsoriale"]],"cite":"Salmo 121","role":"title"}],"fr":[{"k":"p","lines":[["Psaume"]],"cite":"Ps 121, 1-2. 3-4a. 8-9. (: cf. 1)","role":"title"}],"de":[{"k":"p","lines":[["Antwortpsalm"]],"cite":"Ps 122 (121), 1-3. 4-5. 8-9 (R: 1b)","role":"title"}]},"part":"psalm","alt":{"group":2,"option":2,"label":"long"}},{"slot":"74","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":2,"label":"long"}},{"slot":"75","text":{"la":[{"k":"p","lines":[["Lætátus sum in eo, quod dixérunt mihi:"],["«In domum Dómini íbimus»."],["Stantes iam sunt pedes nostri"],["in portis tuis, Ierúsalem."]]}],"pt-BR":[{"k":"p","lines":[["Que alegria, quando ouvi que me disseram:"],["\"Vamos à casa do Senhor!\""],["E agora nossos pés já se detêm,"],["Jerusalém, em tuas portas."]]}],"en-US":[{"k":"p","lines":[["I rejoiced when I heard them say: 'Let us go to God's house.' And now our feet are standing within your gates, O Jerusalem."]]}],"es":[{"k":"p","lines":[["¡Qué alegría cuando me dijeron:"],["«Vamos a la casa del Señor»!"],["Ya están pisando nuestros pies"],["tus umbrales, Jerusalén."]]}],"it":[{"k":"p","lines":[["Quale gioia, quando mi dissero:"],["«Andremo alla casa del Signore!»."],["Già sono fermi i nostri piedi"],["alle tue porte, Gerusalemme!"]]}],"fr":[{"k":"p","lines":[["Quelle joie quand on m'a dit :"],["« Nous irons à la maison du Seigneur ! »"],["Maintenant notre marche prend fin"],["devant tes portes, Jérusalem !"]]}],"de":[{"k":"p","lines":[["Ich freute mich, als man mir sagte:"],["„Zum Haus des Herrn wollen wir pilgern."],["Schon stehen wir in deinen Toren, Jerusalem:"]]}]},"part":"psalm","role":"verse","alt":{"group":2,"option":2,"label":"long"}},{"slot":"76","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":2,"label":"long"}},{"slot":"77","text":{"la":[{"k":"p","lines":[["Ierúsalem, quæ ædificáta est ut cívitas"],["sibi compácta in idípsum."],["Illuc enim ascendérunt tribus, tribus Dómini."]]}],"pt-BR":[{"k":"p","lines":[["Jerusalém, cidade bem edificada num conjunto harmonioso;"],["as tribos do Senhor."]]}],"en-US":[{"k":"p","lines":[["It is there that the tribes go up, the tribes of the Lord."]]}],"es":[{"k":"p","lines":[["Jerusalén está fundada"],["como ciudad bien compacta."],["Allá suben las tribus,"],["las tribus del Señor."]]}],"it":[{"k":"p","lines":[["È là che salgono le tribù,"],["le tribù del Signore."],["secondo la legge di Israele,"],["per lodare il nome del Signore."]]}],"fr":[{"k":"p","lines":[["Jérusalem, te voici dans tes murs :"],["ville où tout ensemble ne fait qu'un !"],["C'est là que montent les tribus,"],["les tribus du Seigneur."]]}],"de":[{"k":"p","lines":[["Jerusalem, du starke Stadt,"],["dich gebaut und fest gefügt."],["Dorthin ziehen die Stämme hinauf, die Stämme des Herrn."]]}]},"part":"psalm","role":"verse","alt":{"group":2,"option":2,"label":"long"}},{"slot":"78","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":2,"label":"long"}},{"slot":"79","text":{"la":[{"k":"p","lines":[["Propter fratres meos et próximos meos"],["loquar: «Pax in te!»."],["Propter domum Dómini Dei nostri"],["exquíram bona tibi."]]}],"pt-BR":[{"k":"p","lines":[["Por amor a meus irmãos e meus amigos,"],["peço: \"A paz esteja em ti!\""],["Pelo amor que tenho à casa do Senhor,"],["eu te desejo todo bem!"]]}],"en-US":[{"k":"p","lines":[["For love of my brethren and friends I say: 'Peace upon you!' For love of the house of the Lord I will ask for your good."]]}],"es":[{"k":"p","lines":[["Por mis hermanos y compañeros,"],["voy a decir: «La paz contigo»."],["Por la casa del Señor, nuestro Dios,"],["te deseo todo bien."]]}],"it":[{"k":"p","lines":[["Per i miei fratelli e i miei amici"],["io dirò: «Su te sia pace!»."],["Per la casa del Signore nostro Dio,"],["chiederò per te il bene."]]}],"fr":[{"k":"p","lines":[["À cause de mes frères et de mes proches,"],["je dirai : « Paix sur toi ! »"],["À cause de la maison du Seigneur notre Dieu,"],["je désire ton bien."]]}],"de":[{"k":"p","lines":[["Wegen meiner Brüder und Freunde"],["will ich sagen: In dir sei Friede."],["Wegen des Hauses des Herrn, unseres Gottes,"],["will ich dir Glück erflehen."]]}]},"part":"psalm","role":"verse","alt":{"group":2,"option":2,"label":"long"}},{"slot":"80","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"In domum Dómini lætántes íbimus."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Que alegria, quando me disseram: \"Vamos à casa do Senhor!"]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"I rejoiced when I heard them say: let us go to the house of the Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Vamos alegres a la casa del Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Andiamo con gioia incontro al Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Dans la joie, nous irons à la maison du Seigneur."]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Zum Haus des Herrn wollen wir pilgern."]]}]},"part":"psalm","role":"people","alt":{"group":2,"option":2,"label":"long"}},{"slot":"81","text":{"la":[{"k":"p","lines":[["Alleluia"]],"cite":"Cf. Ps 79, 4","role":"title"},{"k":"p","lines":[["Allelúia."],["Veni ad liberándum nos, Dómine Deus noster;"],["osténde fáciem tuam, et salvi érimus."],["Allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Aclamação ao Evangelho"]],"cite":"Cf. Salmo 79, 4","role":"title"},{"k":"p","lines":[["Aleluia, aleluia."],["Ó vinde libertar-nos, Senhor e nosso Deus; mostrai a vossa face e nós seremos salvos!"],["Aleluia."]]}],"en-US":[{"k":"p","lines":[["Gospel Acclamation"]],"cite":"Cf. Ps 79, 4","role":"title"},{"k":"p","lines":[["Alleluia, alleluia."],["Come and save us, Lord our God; let us see your face, and we shall be saved."],["Alleluia."]]}],"es":[{"k":"p","lines":[["Aleluya"]],"cite":"Cf. Sal 79, 4","role":"title"},{"k":"p","lines":[["Aleluya."],["Ven a librarnos, Señor, Dios nuestro,"],["que brille tu rostro y nos salve."],["Aleluya."]]}],"it":[{"k":"p","lines":[["Canto al Vangelo"]],"role":"title"},{"k":"p","lines":[["Alleluia, alleluia"],["Signore, nostro Dio, vieni a liberarci:"],["fa' splendere il tuo volto e noi saremo salvi."],["Alleluia."]]}],"fr":[{"k":"p","lines":[["Alléluia"]],"cite":"Cf. Ps 79, 4","role":"title"},{"k":"p","lines":[["Alléluia. Alléluia."],["Viens, Seigneur, notre Dieu, délivre-nous. Montre-nous ton visage et nous serons sauvés."],["Alléluia."]]}],"de":[{"k":"p","lines":[["Ruf vor dem Evangelium"]],"cite":"vgl. Ps 80 (79), 3. 4","role":"title"},{"k":"p","lines":[["Halleluja. Halleluja."],["Komm uns zu Hilfe, Herr, unser Gott! Lass dein Angesicht leuchten, dann sind wir gerettet."],["Halleluja."]]}]},"part":"acclamation"},{"slot":"82","text":{"la":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[["Multi ab oriente et occidente venient in regnum cælorum"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Léctio sancti Evangélii secúndum Matthǽum"]],"cite":"8, 5-11","role":"announcement"}],"pt-BR":[{"k":"p","lines":[["Evangelho"]],"role":"title"},{"k":"p","lines":[["Muitos virão do Oriente e do Ocidente para o Reino do Céu."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Proclamação do Evangelho de Jesus Cristo segundo Mateus"]],"cite":"8, 5-11","role":"announcement"}],"en-US":[{"k":"p","lines":[["Gospel"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," A reading from the holy Gospel according to Matthew"]],"cite":"8:5-11","role":"announcement"}],"es":[{"k":"p","lines":[["Evangelio"]],"role":"title"},{"k":"p","lines":[["Vendrán muchos de oriente y occidente al reino de los cielos"]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Lectura del santo Evangelio según san Mateo"]],"cite":"8, 5-11","role":"announcement"}],"it":[{"k":"p","lines":[["Vangelo"]],"role":"title"},{"k":"p","lines":[["Dall'oriente e dall'occidente verranno nel regno dei cieli."]],"role":"summary"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Dal vangelo secondo Matteo"]],"cite":"8, 5-11","role":"announcement"}],"fr":[{"k":"p","lines":[["Proclamation de l'Évangile"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"},"Évangile de Jésus-Christ selon saint Matthieu"]],"cite":"8, 5-11","role":"announcement"}],"de":[{"k":"p","lines":[["Evangelium"]],"role":"title"},{"k":"p","lines":[[{"m":"cross","t":"✠"}," Aus dem heiligen Evangelium nach Matthäus"]],"cite":"8, 5-11","role":"announcement"}]},"part":"gospel"},{"slot":"83","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria tibi, Domine."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glory to you, O Lord."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a te, o Signore."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloire à toi, Seigneur !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Ehre sei dir, o Herr."]]}]},"part":"gospel","role":"people"},{"slot":"84","text":{"la":[{"k":"p","lines":[["In illo témpore:"]]},{"k":"p","lines":[["Cum introísset Iesus Caphárnaum, accéssit ad eum centúrio rogans eum et dicens: «Dómine, puer meus iacet in domo paralýticus et male torquétur»."]]},{"k":"p","lines":[["Et ait illi: «Ego véniam et curábo eum»."]]},{"k":"p","lines":[["Et respóndens centúrio ait: «Dómine, non sum dignus, ut intres sub tectum meum, sed tantum dic verbo, et sanábitur puer meus. Nam et ego homo sum sub potestáte, habens sub me mílites, et dico huic: «Vade», et vadit; et álii: «Veni», et venit; et servo meo: «Fac hoc», et facit»."]]},{"k":"p","lines":[["Audiens autem Iesus, mirátus est et sequéntibus se dixit: «Amen dico vobis: Apud nullum invéni tantam fidem in Israel! Dico autem vobis quod multi ab oriénte et occidénte vénient et recúmbent cum Abraham et Isaac et Iacob in regno cælórum»."]]},{"k":"p","lines":[["Verbum Dómini."]],"role":"conclusion"}],"pt-BR":[{"k":"p","lines":[["Naquele tempo, quando Jesus entrou em Cafarnaum, um oficial romano aproximou-se dele, suplicando: \"Senhor, o meu empregado está de cama, lá em casa, sofrendo terrivelmente com uma paralisia\". Jesus respondeu: \"Vou curá-lo\". O oficial disse: \"Senhor, eu não sou digno de que entres em minha casa. Dize uma só palavra e o meu empregado ficará curado. Pois eu também sou subordinado e tenho soldados debaixo de minhas ordens. E digo a um: 'Vai!', e ele vai; e a outro: 'Vem!', e ele vem; e digo ao meu escravo: 'Faze isto!', e ele faz\". Quando ouviu isso, Jesus ficou admirado, e disse aos que o seguiam: \"Em verdade, vos digo: nunca encontrei em Israel alguém que tivesse tanta fé. Eu vos digo: muitos virão do Oriente e do Ocidente, e se sentarão à mesa no Reino dos Céus, junto com Abraão, Isaac e Jacó\"."]]},{"k":"p","lines":[["Palavra da Salvação."]],"role":"conclusion"}],"en-US":[{"k":"p","lines":[["When Jesus went into Capernaum a centurion came up and pleaded with him. 'Sir,' he said 'my servant is lying at home paralysed, and in great pain.' 'I will come myself and cure him' said Jesus. The centurion replied, 'Sir, I am not worthy to have you under my roof; just give the word and my servant will be cured. For I am under authority myself, and have soldiers under me; and I say to one man: Go, and he goes; to another: Come here, and he comes; to my servant: Do this, and he does it.' When Jesus heard this he was astonished and said to those following him, 'I tell you solemnly, nowhere in Israel have I found faith like this. And I tell you that many will come from east and west to take their places with Abraham and Isaac and Jacob at the feast in the kingdom of heaven.'"]]},{"k":"p","lines":[["The Gospel of the Lord."]],"role":"conclusion"}],"es":[{"k":"p","lines":[["En aquel tiempo, al entrar Jesús en Cafarnaún, un centurión se le acercó rogándole:"],["«Señor, tengo en casa un criado que está en cama paralítico y sufre mucho»."],["Le contestó:"],["«Voy yo a curarlo»."],["Pero el centurión le replicó:"],["«Señor, no soy digno de que entres bajo mi techo. Basta que lo digas de palabra, y mi criado quedará sano. Porque yo también vivo bajo disciplina y tengo soldados a mis órdenes; y le digo a uno: “Ve”, y va; al otro: “Ven”, y viene; a mi criado: “Haz esto”, y lo hace»."],["Al oírlo, Jesús quedó admirado y dijo a los que lo seguían:"],["«En verdad os digo que en Israel no he encontrado en nadie tanta fe. Os digo que vendrán muchos de oriente y occidente y se sentarán con Abrahán, Isaac y Jacob en el reino de los cielos»."]]},{"k":"p","lines":[["Palabra del Señor."]],"role":"conclusion"}],"it":[{"k":"p","lines":[["In quel tempo, entrato Gesù in Cafarnao, gli venne incontro un centurione che lo scongiurava e diceva: «Signore, il mio servo è in casa, a letto, paralizzato e soffre terribilmente». Gli disse: «Verrò e lo guarirò»."],["Ma il centurione rispose: «Signore, io non sono degno che tu entri sotto il mio tetto, ma di' soltanto una parola e il mio servo sarà guarito. Pur essendo anch'io un subalterno, ho dei soldati sotto di me e dico a uno: “Va'!”, ed egli va; e a un altro: “Vieni!”, ed egli viene; e al mio servo: “Fa' questo!”, ed egli lo fa»."],["Ascoltandolo, Gesù si meravigliò e disse a quelli che lo seguivano: «In verità io vi dico, in Israele non ho trovato nessuno con una fede così grande! Ora io vi dico che molti verranno dall'oriente e dall'occidente e siederanno a mensa con Abramo, Isacco e Giacobbe nel regno dei cieli»."]]},{"k":"p","lines":[["Parola del Signore."]],"role":"conclusion"}],"fr":[{"k":"p","lines":[["En ce temps-là, comme Jésus était entré à Capharnaüm, un centurion s'approcha de lui et le supplia : « Seigneur, mon serviteur est couché, à la maison, paralysé, et il souffre terriblement. » Jésus lui dit : « Je vais aller moi-même le guérir. » Le centurion reprit : « Seigneur, je ne suis pas digne que tu entres sous mon toit, mais dis seulement une parole et mon serviteur sera guéri. Moi-même qui suis soumis à une autorité, j'ai des soldats sous mes ordres ; à l'un, je dis : “Va”, et il va ; à un autre : “Viens”, et il vient, et à mon esclave : “Fais ceci”, et il le fait. » À ces mots, Jésus fut dans l'admiration et dit à ceux qui le suivaient : « Amen, je vous le déclare, chez personne en Israël, je n'ai trouvé une telle foi. Aussi je vous le dis : Beaucoup viendront de l'orient et de l'occident et prendront place avec Abraham, Isaac et Jacob au festin du royaume des Cieux. »"]]},{"k":"p","lines":[["Acclamons la Parole de Dieu !"]],"role":"conclusion"}],"de":[{"k":"p","lines":[["In jener Zeit,"],["als Jesus nach Kafarnaum kam, trat ein Hauptmann an ihn heran und bat ihn: Herr, mein Diener liegt gelähmt zu Hause und hat große Schmerzen."],["Jesus sagte zu ihm: Ich will kommen und ihn gesund machen."],["Da antwortete der Hauptmann: Herr, ich bin es nicht wert, dass du mein Haus betrittst; sprich nur ein Wort, dann wird mein Diener gesund. Auch ich muss Befehlen gehorchen, und ich habe selber Soldaten unter mir; sage ich nun zu einem: Geh!, so geht er, und zu einem andern: Komm!, so kommt er, und zu meinem Diener: Tu das!, so tut er es."],["Jesus war erstaunt, als er das hörte, und sagte zu denen, die ihm nachfolgten: Amen, das sage ich euch: Einen solchen Glauben habe ich in Israel noch bei niemand gefunden. Ich sage euch: Viele werden von Osten und Westen kommen und mit Abraham, Isaak und Jakob im Himmelreich zu Tisch sitzen."]]},{"k":"p","lines":[["Evangelium unseres Herrn Jesus Christus."]],"role":"conclusion"}]},"part":"gospel"},{"slot":"85","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Laus tibi, Christe."]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Glória a vós, Senhor."]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Praise to you, Lord Jesus Christ."]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Gloria a ti, Señor Jesús."]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Lode a te, o Cristo."]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"R/. "},"Louange à toi, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"A: "},"Lob sei dir, Christus."]]}]},"role":"people","part":"gospel"}],"title":{"la":"Tempus Adventus — Hebdomada I — Feria secunda","pt-BR":"Segunda-feira","en-US":"Advent Season — 1st Week: Monday","es":"Tiempo de Adviento — Lunes de la I Semana","it":"LUNEDI della I settimana di Avvento","fr":"Temps de l'Avent — 1e semaine — Lundi","de":"Advent — 1. Woche: Montag"}}
+{
+ "id": "tempore.advent.week-1.monday",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Adventus"
+       ],
+       [
+        "Hebdomada I"
+       ],
+       [
+        "Feria secunda"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "1ª Semana do Advento"
+       ],
+       [
+        "Segunda-feira"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Advent Season"
+       ],
+       [
+        "1st Week: Monday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo de Adviento"
+       ],
+       [
+        "Lunes de la I Semana"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "LUNEDI della I settimana di Avvento"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps de l'Avent"
+       ],
+       [
+        "1e semaine"
+       ],
+       [
+        "Lundi"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Advent"
+       ],
+       [
+        "1. Woche: Montag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ad libitum, quando anno A Isaíæ 2,1-5 in dominica prima Adventus legitur:"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No ano A,em que Isaias 2,1-5 se le no primeiro domingo de Advento pode ler-se Is 4, 2-6:"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alternative READING, for use in Year A when Isaiah 2:1-5 has been read on the First Sunday of Advent."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En el año A, en que Isaías 2,1-5 se lee el primer domingo de Adviento, puede leerse la siguiente:"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "autre lecture si année A"
+       ],
+       [
+        "Parole d'Isaïe, – ce qu'il a vu au sujet de Juda et de Jérusalem."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oder zur Wahl, wenn im Lesejahr A die Perikope Jes 2, 1-5 am 1. Adventsonntag schon gelesen wurde:"
+       ]
+      ]
+     }
+    ]
+   },
+   "cycle": "A",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erit exsultatio his qui salvati fuerint."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Isaíæ prophétæ"
+       ]
+      ],
+      "cite": "4, 2-6",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In die illa erit germen Dómini in splendórem et glóriam, et fructus terræ sublímis et exsultátio his, qui salváti fúerint de Israel. Et erit: omnis, qui relíctus fúerit in Sion, et resíduus in Ierúsalem, sanctus vocábitur, omnis, qui scriptus est ad vitam in Ierúsalem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum ablúerit Dóminus sordem filiárum Sion et sánguinem Ierúsalem láverit de médio eius spíritu iudícii et spíritu ardóris, et creábit Dóminus super omnem locum montis Sion et super cœtum eius nubem per diem et fumum et splendórem ignis flammántis in nocte: super omnem enim glóriam protéctio, et tabernáculum erit in umbráculum diéi ab æstu et in securitátem et absconsiónem a túrbine et a plúvia."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Haverá grande alegria para os sobreviventes de Israel."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Profeta Isaías"
+       ]
+      ],
+      "cite": "4, 2-6",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele dia, o povo do Senhor terá esplendor e glória, e o fruto da terra será de grande alegria para os sobreviventes de Israel. Então, os que forem deixados em Sião, os sobreviventes de Jerusalém, serão chamados santos, a saber, todos os destinados à vida em Jerusalém. Quando o Senhor tiver lavado as imundícies das filhas de Sião, e limpado as manchas de sangue dentro de Jerusalém, com espírito de justiça e de purificação, ele criará em todo lugar do monte Sião e em suas assembleias uma nuvem durante o dia, e fumaça e clarão de chamas durante a noite: e será proteção para toda a sua glória, uma tenda para dar sombra contra o calor do dia, abrigo e refúgio contra a ventania e a chuva."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the book of Isaiah"
+       ]
+      ],
+      "cite": "4:2-6",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "That day, the branch of the Lord shall be beauty and glory, and the fruit of the earth shall be the pride and adornment of Israel's survivors. Those who are left of Zionand remain of Jerusalem shall be called holy and those left in Jerusalem, noted down for survival. When the Lord has washed away the filth of the daughter of Zion and cleansed Jerusalem of the blood shed in her with the blast of judgment and the blast of destruction, The Lord will come and rest on the whole stretch of Mount Zion and on those who are gathered there, a cloud by day, and smoke, and by night the brightness of a flaring fire. For, over all, the glory of the Lord will be a canopy and a tent to give shade by day from the heat, refuge and shelter from the storm and the rain."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Será ornamento para los redimidos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de Isaías"
+       ]
+      ],
+      "cite": "4, 2-6",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aquel día, el vástago del Señor será el esplendor y la gloria, y el fruto del país será orgullo y ornamento para los redimidos de Israel."
+       ],
+       [
+        "A los que queden en Sion y al resto en Jerusalén"
+       ],
+       [
+        "los llamarán santos: todos los que en Jerusalén están inscritos"
+       ],
+       [
+        "para la vida."
+       ],
+       [
+        "Cuando el Señor haya lavado la impureza de las hijas de Sion y purificado la sangre derramada en Jerusalén,"
+       ],
+       [
+        "con viento justiciero, con un soplo ardiente,"
+       ],
+       [
+        "creará el Señor sobre toda la extensión del monte Sion y"
+       ],
+       [
+        "sobre su asamblea"
+       ],
+       [
+        "una nube de día, un humo y un resplandor de fuego llameante de noche."
+       ],
+       [
+        "Y por encima, la gloria será un baldaquino"
+       ],
+       [
+        "y una tienda, sombra en la canícula,"
+       ],
+       [
+        "refugio y abrigo de la tempestad y de la lluvia."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ci sarà gioia per gli scampati d'Israele."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Isaia"
+       ]
+      ],
+      "cite": "4,2-6",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel giorno, il germoglio del Signore crescerà in onore e gloria e il frutto della terra sarà a magnificenza e ornamento per i superstiti d'Israele. Chi sarà rimasto in Sion e chi sarà superstite in Gerusalemme sarà chiamato santo: quanti saranno iscritti per restare in vita in Gerusalemme."
+       ],
+       [
+        "Quando il Signore avrà lavato le brutture delle figlie di Sion e avrà pulito Gerusalemme dal sangue che vi è stato versato, con il soffio del giudizio e con il soffio dello sterminio, allora creerà il Signore su ogni punto del monte Sion e su tutti i luoghi delle sue assemblee una nube di fumo durante il giorno e un bagliore di fuoco fiammeggiante durante la notte, perché la gloria del Signore sarà sopra ogni cosa come protezione, come una tenda sarà ombra contro il caldo di giorno e rifugio e riparo contro la bufera e contro la pioggia."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Isaïe"
+       ]
+      ],
+      "cite": "4, 2-6",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ce jour-là, le Germe que fera grandir le Seigneur sera l'honneur et la gloire des rescapés d'Israël, le Fruit de la terre sera leur fierté et leur splendeur. Alors, ceux qui seront restés dans Sion, les survivants de Jérusalem, seront appelés saints : tous seront inscrits à Jérusalem pour y vivre. Quand le Seigneur aura lavé la souillure des filles de Sion, purifié Jérusalem du sang répandu, en y faisant passer le souffle du jugement, un souffle d'incendie, alors, sur toute la montagne de Sion, sur les assemblées qui s'y tiennent, le Seigneur créera une nuée pendant le jour et, pendant la nuit, une fumée avec un feu de flammes éclatantes. Et au-dessus de tout, comme un dais, la gloire du Seigneur : elle sera, contre la chaleur du jour, l'ombre d'une hutte, un refuge, un abri contre l'orage et la pluie."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesája"
+       ]
+      ],
+      "cite": "4, 2-6",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "An jenem Tag wird, was der Herr sprossen lässt, für alle Israeliten, die entronnen sind, eine Zierde und Ehre sein; die Früchte des Landes sind ihr Stolz und Ruhm. Dann wird der Rest von Zion, und wer in Jerusalem noch übrig ist, heilig genannt werden, jeder, der in Jerusalem in das Verzeichnis derer, die am Leben bleiben sollen, eingetragen ist."
+       ],
+       [
+        "Wenn der Herr durch den Sturm des Gerichts und den Sturm der Läuterung von den Töchtern Zions den Kot abgewaschen und aus Jerusalems Mitte die Blutschuld weggespült hat, dann kommt er, und über dem ganzen Gebiet des Berges Zion und seinen Festplätzen erscheint bei Tag eine Wolke und bei Nacht Rauch und eine strahlende Feuerflamme. Denn über allem liegt als Schutz und Schirm die Herrlichkeit des Herrn; sie spendet bei Tag Schatten vor der Hitze und ist Zuflucht und Obdach bei Unwetter und Regen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "cycle": "A",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ad libitum, quando anno A Isaíæ 2,1-5 in dominica prima Adventus legitur."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alternative READING, for use in Year A when Isaiah 2:1-5 has been read on the First Sunday of Advent."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En el año A, en que Isaías 2,1-5 se lee el primer domingo de Adviento, puede leerse:"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ou bien si Année A"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oder zur Wahl, wenn im Lesejahr A die Perikope Jes 2, 1-5 am 1. Adventsonntag schon gelesen wurde:"
+       ]
+      ]
+     }
+    ]
+   },
+   "cycle": "A",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Congregat Dóminus omnes nationes in pacem æternam Regni Dei."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Isaíæ prophétæ"
+       ]
+      ],
+      "cite": "2, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum, quod vidit Isaías fílius Amos super Iudam et Ierúsalem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et erit in novíssimis diébus præparátus mons domus Dómini in vértice móntium, et elevábitur super colles; et fluent ad eum omnes gentes. Et ibunt pópuli multi et dicent: «Veníte, et ascendámus ad montem Dómini, ad domum Dei Iacob, ut dóceat nos vias suas, et ambulémus in sémitis eius»; quia de Sion exíbit lex, et verbum Dómini de Ierúsalem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et iudicábit gentes et árguet pópulos multos; et conflábunt gládios suos in vómeres et lánceas suas in falces; non levábit gens contra gentem gládium, nec exercebúntur ultra ad prœlium."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Domus Iacob, veníte, et ambulémus in lúmine Dómini."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor reúne todas as nações para a paz eterna do Reino"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Profeta Isaías"
+       ]
+      ],
+      "cite": "2, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Visão de Isaías, filho de Amós, sobre Judá e Jerusalém. Acontecerá, nos últimos tempos, que o monte da casa do Senhor estará firmemente estabelecido no ponto mais alto das montanhas e dominará as colinas. A ele acorrerão todas as nações, para lá irão numerosos povos e dirão: \"Vamos subir ao monte do Senhor, à casa do Deus de Jacó, para que ele nos mostre seus caminhos e nos ensine a cumprir seus preceitos\"; porque de Sião provém a lei e de Jerusalém, a Palavra do Senhor. Ele há de julgar as nações e arguir numerosos povos; estes transformarão suas espadas em arados e suas lanças em foices: não pegarão em armas uns contra os outros e não mais travarão combate. Vinde, todos da casa de Jacó, e deixemo-nos guiar pela luz do Senhor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the book of Isaiah"
+       ]
+      ],
+      "cite": "2:1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The vision of Isaiah son of Amoz, concerning Judah and Jerusalem. In the days to come the mountain of the Temple of the Lord shall tower above the mountains and be lifted higher than the hills. All the nations will stream to it, peoples without number will come to it; and they will say: 'Come, let us go up to the mountain of the Lord, to the Temple of the God of Jacob that he may teach us his ways so that we may walk in his paths; since the Law will go out from Zion, and the oracle of the Lord from Jerusalem'. He will wield authority over the nations and adjudicate between many peoples; these will hammer their swords into ploughshares, their spears into sickles. Nation will not lift sword against nation, there will be no more training for war. House of Jacob, come, let us walk in the light of the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor congrega a todas las naciones en la paz eterna del Reino de Dios"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de Isaías"
+       ]
+      ],
+      "cite": "2, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Visión de Isaías, hijo de Amós, acerca de Judá y de Jerusalén."
+       ],
+       [
+        "En los días futuros estará firme"
+       ],
+       [
+        "el monte de la casa del Señor,"
+       ],
+       [
+        "en la cumbre de las montañas,"
+       ],
+       [
+        "más elevado que las colinas."
+       ],
+       [
+        "Hacia él confluirán todas las naciones,"
+       ],
+       [
+        "caminarán pueblos numerosos y dirán:"
+       ],
+       [
+        "«Venid, subamos al monte del Señor,"
+       ],
+       [
+        "a la casa del Dios de Jacob."
+       ],
+       [
+        "Él nos instruirá en sus caminos"
+       ],
+       [
+        "y marcharemos por sus sendas;"
+       ],
+       [
+        "porque de Sion saldrá la ley,"
+       ],
+       [
+        "la palabra del Señor de Jerusalén»."
+       ],
+       [
+        "Juzgará entre las naciones,"
+       ],
+       [
+        "será árbitro de pueblos numerosos."
+       ],
+       [
+        "De las espadas forjarán arados,"
+       ],
+       [
+        "de las lanzas, podaderas."
+       ],
+       [
+        "No alzará la espada pueblo contra pueblo,"
+       ],
+       [
+        "no se adiestrarán para la guerra."
+       ],
+       [
+        "Casa de Jacob, venid;"
+       ],
+       [
+        "caminemos a la luz del Señor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore unisce tutti i popoli nella pace eterna del suo Regno."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Isaia"
+       ]
+      ],
+      "cite": "2,1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Messaggio che Isaia, figlio di Amoz, ricevette in visione su Giuda e su Gerusalemme."
+       ],
+       [
+        "Alla fine dei giorni,"
+       ],
+       [
+        "il monte del tempio del Signore"
+       ],
+       [
+        "sarà saldo sulla cima dei monti"
+       ],
+       [
+        "e s'innalzerà sopra i colli,"
+       ],
+       [
+        "e ad esso affluiranno tutte le genti."
+       ],
+       [
+        "Verranno molti popoli e diranno:"
+       ],
+       [
+        "«Venite, saliamo sul monte del Signore,"
+       ],
+       [
+        "al tempio del Dio di Giacobbe,"
+       ],
+       [
+        "perché ci insegni le sue vie"
+       ],
+       [
+        "e possiamo camminare per i suoi sentieri»."
+       ],
+       [
+        "Poiché da Sion uscirà la legge"
+       ],
+       [
+        "e da Gerusalemme la parola del Signore."
+       ],
+       [
+        "Egli sarà giudice fra le genti"
+       ],
+       [
+        "e arbitro fra molti popoli."
+       ],
+       [
+        "Spezzeranno le loro spade e ne faranno aratri,"
+       ],
+       [
+        "delle loro lance faranno falci;"
+       ],
+       [
+        "una nazione non alzerà più la spada"
+       ],
+       [
+        "contro un'altra nazione,"
+       ],
+       [
+        "non impareranno più l'arte della guerra."
+       ],
+       [
+        "Casa di Giacobbe, venite,"
+       ],
+       [
+        "camminiamo nella luce del Signore."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Isaïe"
+       ]
+      ],
+      "cite": "2, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il arrivera dans les derniers jours que la montagne de la maison du Seigneur se tiendra plus haut que les monts, s'élèvera au-dessus des collines. Vers elle, afflueront toutes les nations et viendront des peuples nombreux. Ils diront : « Venez ! montons à la montagne du Seigneur, à la maison du Dieu de Jacob ! Qu'il nous enseigne ses chemins, et nous irons par ses sentiers. » Oui, la loi sortira de Sion, et de Jérusalem, la parole du Seigneur."
+       ],
+       [
+        "Il sera juge entre les nations et l'arbitre de peuples nombreux. De leurs épées, ils forgeront des socs, et de leurs lances, des faucilles. Jamais nation contre nation ne lèvera l'épée ; ils n'apprendront plus la guerre. Venez, maison de Jacob ! Marchons à la lumière du Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesája"
+       ]
+      ],
+      "cite": "2, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Das Wort, das Jesája, der Sohn des Amoz, in einer Vision über Juda und Jerusalem gehört hat."
+       ],
+       [
+        "Am Ende der Tage wird es geschehen: Der Berg mit dem Haus des Herrn steht fest gegründet als höchster der Berge; er überragt alle Hügel. Zu ihm strömen alle Völker. Viele Nationen machen sich auf den Weg. Sie sagen: Kommt, wir ziehen hinauf zum Berg des Herrn und zum Haus des Gottes Jakobs. Er zeige uns seine Wege, auf seinen Pfaden wollen wir gehen. Denn von Zion kommt die Weisung des Herrn, aus Jerusalem sein Wort."
+       ],
+       [
+        "Er spricht Recht im Streit der Völker, er weist viele Nationen zurecht. Dann schmieden sie Pflugscharen aus ihren Schwertern und Winzermesser aus ihren Lanzen. Man zieht nicht mehr das Schwert, Volk gegen Volk, und übt nicht mehr für den Krieg."
+       ],
+       [
+        "Ihr vom Haus Jakob, kommt, wir wollen unsere Wege gehen im Licht des Herrn."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 121, 1-2. 3-4a. 4b-5. 6-7. 8-9. (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 121 (122), 1-4a.(4b-7).8-9 (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 121, 1-2. 3-4a. 4b-5. 6-7. 8-9. (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 121, 1-2. 3-4a. 4b-5. 6-7. 8-9. (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 121",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 121, 1-2. 3-4a. 4b-5. 6-7. 8-9. (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 122 (121), 1-3. 4-5. 6-7. 8-9 (R: 1b)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!\""
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lætátus sum in eo, quod dixérunt mihi:"
+       ],
+       [
+        "«In domum Dómini íbimus»."
+       ],
+       [
+        "Stantes iam sunt pedes nostri"
+       ],
+       [
+        "in portis tuis, Ierúsalem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que alegria, quando ouvi que me disseram:"
+       ],
+       [
+        "\"Vamos à casa do Senhor!\""
+       ],
+       [
+        "E agora nossos pés já se detêm,"
+       ],
+       [
+        "Jerusalém, em tuas portas."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I rejoiced when I heard them say: 'Let us go to God's house.' And now our feet are standing within your gates, O Jerusalem."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qué alegría cuando me dijeron:"
+       ],
+       [
+        "«¡Vamos a la casa del Señor!»"
+       ],
+       [
+        "Ya están pisando nuestros pies"
+       ],
+       [
+        "tus umbrales, Jerusalén."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quale gioia, quando mi dissero:"
+       ],
+       [
+        "«Andremo alla casa del Signore!»."
+       ],
+       [
+        "Già sono fermi i nostri piedi"
+       ],
+       [
+        "alle tue porte, Gerusalemme!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quelle joie quand on m'a dit :"
+       ],
+       [
+        "« Nous irons à la maison du Seigneur ! »"
+       ],
+       [
+        "Maintenant notre marche prend fin"
+       ],
+       [
+        "devant tes portes, Jérusalem !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich freute mich, als man mir sagte:"
+       ],
+       [
+        "„Zum Haus des Herrn wollen wir pilgern."
+       ],
+       [
+        "Schon stehen wir in deinen Toren, Jerusalem:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ierúsalem, quæ ædificáta est ut cívitas"
+       ],
+       [
+        "sibi compácta in idípsum."
+       ],
+       [
+        "Illuc enim ascendérunt tribus, tribus Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jerusalém, cidade bem edificada num conjunto harmonioso;"
+       ],
+       [
+        "as tribos do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is there that the tribes go up, the tribes of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jerusalén está fundada"
+       ],
+       [
+        "como ciudad bien compacta."
+       ],
+       [
+        "Allá suben las tribus,"
+       ],
+       [
+        "las tribus del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gerusalemme è costruita"
+       ],
+       [
+        "come città unita e compatta."
+       ],
+       [
+        "È là che salgono le tribù,"
+       ],
+       [
+        "le tribù del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jérusalem, te voici dans tes murs :"
+       ],
+       [
+        "ville où tout ensemble ne fait qu'un !"
+       ],
+       [
+        "C'est là que montent les tribus,"
+       ],
+       [
+        "les tribus du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jerusalem, du starke Stadt,"
+       ],
+       [
+        "dich gebaut und fest gefügt."
+       ],
+       [
+        "Dorthin ziehen die Stämme hinauf, die Stämme des Herrn,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Testimónium Israel, ad confiténdum nómini Dómini."
+       ],
+       [
+        "Quia illic sedérunt sedes ad iudícium,"
+       ],
+       [
+        "sedes domus David."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Para louvar, segundo a lei de Israel,"
+       ],
+       [
+        "o nome do Senhor."
+       ],
+       [
+        "A sede da justiça lá está"
+       ],
+       [
+        "e o trono de Davi."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For Israel's law it is, there to praise the Lord's name. There were set the thrones of judgment of the house of David."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Según la costumbre de Israel,"
+       ],
+       [
+        "a celebrar el nombre del Señor;"
+       ],
+       [
+        "en ella están los tribunales de justicia,"
+       ],
+       [
+        "en el palacio de David."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È là che salgono le tribù,"
+       ],
+       [
+        "le tribù del Signore,"
+       ],
+       [
+        "secondo la legge di Israele,"
+       ],
+       [
+        "per lodare il nome del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est là qu'Israël doit rendre grâce"
+       ],
+       [
+        "au nom du Seigneur ;"
+       ],
+       [
+        "c'est là le siège du droit,"
+       ],
+       [
+        "le siège de la maison de David."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "wie es Israel geboten ist, den Namen des Herrn zu preisen."
+       ],
+       [
+        "Denn dort stehen Throne bereit für das Gericht,"
+       ],
+       [
+        "die Throne des Hauses David."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rogáte, quæ ad pacem sunt Ierúsalem,"
+       ],
+       [
+        "secúri sint diligéntes te."
+       ],
+       [
+        "Fiat pax in muris tuis,"
+       ],
+       [
+        "et secúritas in túrribus tuis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rogai que viva em paz Jerusalém,"
+       ],
+       [
+        "e em segurança os que te amam!"
+       ],
+       [
+        "Que a paz habite dentro de teus muros,"
+       ],
+       [
+        "tranquilidade em teus palácios!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For the peace of Jerusalem pray: 'Peace be to your homes! May peace reign in your walls, in your palaces, peace!'"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Desead la paz a Jerusalén:"
+       ],
+       [
+        "«Vivan seguros los que te aman,"
+       ],
+       [
+        "haya paz dentro de tus muros,"
+       ],
+       [
+        "seguridad en tus palacios»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chiedete pace per Gerusalemme:"
+       ],
+       [
+        "vivano sicuri quelli che ti amano;"
+       ],
+       [
+        "sia pace nelle tue mura,"
+       ],
+       [
+        "sicurezza nei tuoi palazzi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Appelez le bonheur sur Jérusalem :"
+       ],
+       [
+        "« Paix à ceux qui t'aiment !"
+       ],
+       [
+        "Que la paix règne dans tes murs,"
+       ],
+       [
+        "le bonheur dans tes palais ! »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erbittet für Jerusalem Frieden!"
+       ],
+       [
+        "Wer dich liebt, sei in dir geborgen."
+       ],
+       [
+        "Friede wohne in deinen Mauern,"
+       ],
+       [
+        "in deinen Häusern Geborgenheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Propter fratres meos et próximos meos"
+       ],
+       [
+        "loquar: «Pax in te!»."
+       ],
+       [
+        "Propter domum Dómini Dei nostri"
+       ],
+       [
+        "exquíram bona tibi."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por amor a meus irmãos e meus amigos,"
+       ],
+       [
+        "peço: \"A paz esteja em ti!\""
+       ],
+       [
+        "Pelo amor que tenho à casa do Senhor,"
+       ],
+       [
+        "eu te desejo todo bem!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For love of my brethren and friends I say: 'Peace upon you!' For love of the house of the Lord I will ask for your good."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por mis hermanos y compañeros,"
+       ],
+       [
+        "voy a decir: «La paz contigo»."
+       ],
+       [
+        "Por la casa del Señor, nuestro Dios,"
+       ],
+       [
+        "te deseo todo bien."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per i miei fratelli e i miei amici"
+       ],
+       [
+        "io dirò: «Su te sia pace!»."
+       ],
+       [
+        "Per la casa del Signore nostro Dio,"
+       ],
+       [
+        "chiederò per te il bene."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "À cause de mes frères et de mes proches,"
+       ],
+       [
+        "je dirai : « Paix sur toi ! »"
+       ],
+       [
+        "À cause de la maison du Seigneur notre Dieu,"
+       ],
+       [
+        "je désire ton bien."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wegen meiner Brüder und Freunde"
+       ],
+       [
+        "will ich sagen: In dir sei Friede."
+       ],
+       [
+        "Wegen des Hauses des Herrn, unseres Gottes,"
+       ],
+       [
+        "will ich dir Glück erflehen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "short"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 121, 1-2. 3-4a. 8-9. (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Salmo 121, 1-2. 3-4a. 8-9. (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 121, 1-2. 3-4a. 8-9. (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 121, 1-2. 3-4a. 8-9. (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 121",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 121, 1-2. 3-4a. 8-9. (: cf. 1)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 122 (121), 1-3. 4-5. 8-9 (R: 1b)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "long"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "long"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lætátus sum in eo, quod dixérunt mihi:"
+       ],
+       [
+        "«In domum Dómini íbimus»."
+       ],
+       [
+        "Stantes iam sunt pedes nostri"
+       ],
+       [
+        "in portis tuis, Ierúsalem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que alegria, quando ouvi que me disseram:"
+       ],
+       [
+        "\"Vamos à casa do Senhor!\""
+       ],
+       [
+        "E agora nossos pés já se detêm,"
+       ],
+       [
+        "Jerusalém, em tuas portas."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I rejoiced when I heard them say: 'Let us go to God's house.' And now our feet are standing within your gates, O Jerusalem."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "¡Qué alegría cuando me dijeron:"
+       ],
+       [
+        "«Vamos a la casa del Señor»!"
+       ],
+       [
+        "Ya están pisando nuestros pies"
+       ],
+       [
+        "tus umbrales, Jerusalén."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quale gioia, quando mi dissero:"
+       ],
+       [
+        "«Andremo alla casa del Signore!»."
+       ],
+       [
+        "Già sono fermi i nostri piedi"
+       ],
+       [
+        "alle tue porte, Gerusalemme!"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quelle joie quand on m'a dit :"
+       ],
+       [
+        "« Nous irons à la maison du Seigneur ! »"
+       ],
+       [
+        "Maintenant notre marche prend fin"
+       ],
+       [
+        "devant tes portes, Jérusalem !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich freute mich, als man mir sagte:"
+       ],
+       [
+        "„Zum Haus des Herrn wollen wir pilgern."
+       ],
+       [
+        "Schon stehen wir in deinen Toren, Jerusalem:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "long"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "long"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ierúsalem, quæ ædificáta est ut cívitas"
+       ],
+       [
+        "sibi compácta in idípsum."
+       ],
+       [
+        "Illuc enim ascendérunt tribus, tribus Dómini."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jerusalém, cidade bem edificada num conjunto harmonioso;"
+       ],
+       [
+        "as tribos do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is there that the tribes go up, the tribes of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jerusalén está fundada"
+       ],
+       [
+        "como ciudad bien compacta."
+       ],
+       [
+        "Allá suben las tribus,"
+       ],
+       [
+        "las tribus del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È là che salgono le tribù,"
+       ],
+       [
+        "le tribù del Signore."
+       ],
+       [
+        "secondo la legge di Israele,"
+       ],
+       [
+        "per lodare il nome del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jérusalem, te voici dans tes murs :"
+       ],
+       [
+        "ville où tout ensemble ne fait qu'un !"
+       ],
+       [
+        "C'est là que montent les tribus,"
+       ],
+       [
+        "les tribus du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jerusalem, du starke Stadt,"
+       ],
+       [
+        "dich gebaut und fest gefügt."
+       ],
+       [
+        "Dorthin ziehen die Stämme hinauf, die Stämme des Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "long"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "long"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Propter fratres meos et próximos meos"
+       ],
+       [
+        "loquar: «Pax in te!»."
+       ],
+       [
+        "Propter domum Dómini Dei nostri"
+       ],
+       [
+        "exquíram bona tibi."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por amor a meus irmãos e meus amigos,"
+       ],
+       [
+        "peço: \"A paz esteja em ti!\""
+       ],
+       [
+        "Pelo amor que tenho à casa do Senhor,"
+       ],
+       [
+        "eu te desejo todo bem!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For love of my brethren and friends I say: 'Peace upon you!' For love of the house of the Lord I will ask for your good."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por mis hermanos y compañeros,"
+       ],
+       [
+        "voy a decir: «La paz contigo»."
+       ],
+       [
+        "Por la casa del Señor, nuestro Dios,"
+       ],
+       [
+        "te deseo todo bien."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per i miei fratelli e i miei amici"
+       ],
+       [
+        "io dirò: «Su te sia pace!»."
+       ],
+       [
+        "Per la casa del Signore nostro Dio,"
+       ],
+       [
+        "chiederò per te il bene."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "À cause de mes frères et de mes proches,"
+       ],
+       [
+        "je dirai : « Paix sur toi ! »"
+       ],
+       [
+        "À cause de la maison du Seigneur notre Dieu,"
+       ],
+       [
+        "je désire ton bien."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wegen meiner Brüder und Freunde"
+       ],
+       [
+        "will ich sagen: In dir sei Friede."
+       ],
+       [
+        "Wegen des Hauses des Herrn, unseres Gottes,"
+       ],
+       [
+        "will ich dir Glück erflehen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "long"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In domum Dómini lætántes íbimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Que alegria, quando me disseram: \"Vamos à casa do Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I rejoiced when I heard them say: let us go to the house of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vamos alegres a la casa del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andiamo con gioia incontro al Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dans la joie, nous irons à la maison du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zum Haus des Herrn wollen wir pilgern."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "long"
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Cf. Ps 79, 4",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allelúia."
+       ],
+       [
+        "Veni ad liberándum nos, Dómine Deus noster;"
+       ],
+       [
+        "osténde fáciem tuam, et salvi érimus."
+       ],
+       [
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Cf. Salmo 79, 4",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "Ó vinde libertar-nos, Senhor e nosso Deus; mostrai a vossa face e nós seremos salvos!"
+       ],
+       [
+        "Aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Cf. Ps 79, 4",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Come and save us, Lord our God; let us see your face, and we shall be saved."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Cf. Sal 79, 4",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya."
+       ],
+       [
+        "Ven a librarnos, Señor, Dios nuestro,"
+       ],
+       [
+        "que brille tu rostro y nos salve."
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia"
+       ],
+       [
+        "Signore, nostro Dio, vieni a liberarci:"
+       ],
+       [
+        "fa' splendere il tuo volto e noi saremo salvi."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Cf. Ps 79, 4",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia. Alléluia."
+       ],
+       [
+        "Viens, Seigneur, notre Dieu, délivre-nous. Montre-nous ton visage et nous serons sauvés."
+       ],
+       [
+        "Alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "vgl. Ps 80 (79), 3. 4",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Halleluja. Halleluja."
+       ],
+       [
+        "Komm uns zu Hilfe, Herr, unser Gott! Lass dein Angesicht leuchten, dann sind wir gerettet."
+       ],
+       [
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Multi ab oriente et occidente venient in regnum cælorum"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "8, 5-11",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Muitos virão do Oriente e do Ocidente para o Reino do Céu."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "8, 5-11",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "8:5-11",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vendrán muchos de oriente y occidente al reino de los cielos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "8, 5-11",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dall'oriente e dall'occidente verranno nel regno dei cieli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "8, 5-11",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        "Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "8, 5-11",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "8, 5-11",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum introísset Iesus Caphárnaum, accéssit ad eum centúrio rogans eum et dicens: «Dómine, puer meus iacet in domo paralýticus et male torquétur»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ait illi: «Ego véniam et curábo eum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et respóndens centúrio ait: «Dómine, non sum dignus, ut intres sub tectum meum, sed tantum dic verbo, et sanábitur puer meus. Nam et ego homo sum sub potestáte, habens sub me mílites, et dico huic: «Vade», et vadit; et álii: «Veni», et venit; et servo meo: «Fac hoc», et facit»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Audiens autem Iesus, mirátus est et sequéntibus se dixit: «Amen dico vobis: Apud nullum invéni tantam fidem in Israel! Dico autem vobis quod multi ab oriénte et occidénte vénient et recúmbent cum Abraham et Isaac et Iacob in regno cælórum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, quando Jesus entrou em Cafarnaum, um oficial romano aproximou-se dele, suplicando: \"Senhor, o meu empregado está de cama, lá em casa, sofrendo terrivelmente com uma paralisia\". Jesus respondeu: \"Vou curá-lo\". O oficial disse: \"Senhor, eu não sou digno de que entres em minha casa. Dize uma só palavra e o meu empregado ficará curado. Pois eu também sou subordinado e tenho soldados debaixo de minhas ordens. E digo a um: 'Vai!', e ele vai; e a outro: 'Vem!', e ele vem; e digo ao meu escravo: 'Faze isto!', e ele faz\". Quando ouviu isso, Jesus ficou admirado, e disse aos que o seguiam: \"Em verdade, vos digo: nunca encontrei em Israel alguém que tivesse tanta fé. Eu vos digo: muitos virão do Oriente e do Ocidente, e se sentarão à mesa no Reino dos Céus, junto com Abraão, Isaac e Jacó\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When Jesus went into Capernaum a centurion came up and pleaded with him. 'Sir,' he said 'my servant is lying at home paralysed, and in great pain.' 'I will come myself and cure him' said Jesus. The centurion replied, 'Sir, I am not worthy to have you under my roof; just give the word and my servant will be cured. For I am under authority myself, and have soldiers under me; and I say to one man: Go, and he goes; to another: Come here, and he comes; to my servant: Do this, and he does it.' When Jesus heard this he was astonished and said to those following him, 'I tell you solemnly, nowhere in Israel have I found faith like this. And I tell you that many will come from east and west to take their places with Abraham and Isaac and Jacob at the feast in the kingdom of heaven.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, al entrar Jesús en Cafarnaún, un centurión se le acercó rogándole:"
+       ],
+       [
+        "«Señor, tengo en casa un criado que está en cama paralítico y sufre mucho»."
+       ],
+       [
+        "Le contestó:"
+       ],
+       [
+        "«Voy yo a curarlo»."
+       ],
+       [
+        "Pero el centurión le replicó:"
+       ],
+       [
+        "«Señor, no soy digno de que entres bajo mi techo. Basta que lo digas de palabra, y mi criado quedará sano. Porque yo también vivo bajo disciplina y tengo soldados a mis órdenes; y le digo a uno: “Ve”, y va; al otro: “Ven”, y viene; a mi criado: “Haz esto”, y lo hace»."
+       ],
+       [
+        "Al oírlo, Jesús quedó admirado y dijo a los que lo seguían:"
+       ],
+       [
+        "«En verdad os digo que en Israel no he encontrado en nadie tanta fe. Os digo que vendrán muchos de oriente y occidente y se sentarán con Abrahán, Isaac y Jacob en el reino de los cielos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, entrato Gesù in Cafarnao, gli venne incontro un centurione che lo scongiurava e diceva: «Signore, il mio servo è in casa, a letto, paralizzato e soffre terribilmente». Gli disse: «Verrò e lo guarirò»."
+       ],
+       [
+        "Ma il centurione rispose: «Signore, io non sono degno che tu entri sotto il mio tetto, ma di' soltanto una parola e il mio servo sarà guarito. Pur essendo anch'io un subalterno, ho dei soldati sotto di me e dico a uno: “Va'!”, ed egli va; e a un altro: “Vieni!”, ed egli viene; e al mio servo: “Fa' questo!”, ed egli lo fa»."
+       ],
+       [
+        "Ascoltandolo, Gesù si meravigliò e disse a quelli che lo seguivano: «In verità io vi dico, in Israele non ho trovato nessuno con una fede così grande! Ora io vi dico che molti verranno dall'oriente e dall'occidente e siederanno a mensa con Abramo, Isacco e Giacobbe nel regno dei cieli»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, comme Jésus était entré à Capharnaüm, un centurion s'approcha de lui et le supplia : « Seigneur, mon serviteur est couché, à la maison, paralysé, et il souffre terriblement. » Jésus lui dit : « Je vais aller moi-même le guérir. » Le centurion reprit : « Seigneur, je ne suis pas digne que tu entres sous mon toit, mais dis seulement une parole et mon serviteur sera guéri. Moi-même qui suis soumis à une autorité, j'ai des soldats sous mes ordres ; à l'un, je dis : “Va”, et il va ; à un autre : “Viens”, et il vient, et à mon esclave : “Fais ceci”, et il le fait. » À ces mots, Jésus fut dans l'admiration et dit à ceux qui le suivaient : « Amen, je vous le déclare, chez personne en Israël, je n'ai trouvé une telle foi. Aussi je vous le dis : Beaucoup viendront de l'orient et de l'occident et prendront place avec Abraham, Isaac et Jacob au festin du royaume des Cieux. »"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit,"
+       ],
+       [
+        "als Jesus nach Kafarnaum kam, trat ein Hauptmann an ihn heran und bat ihn: Herr, mein Diener liegt gelähmt zu Hause und hat große Schmerzen."
+       ],
+       [
+        "Jesus sagte zu ihm: Ich will kommen und ihn gesund machen."
+       ],
+       [
+        "Da antwortete der Hauptmann: Herr, ich bin es nicht wert, dass du mein Haus betrittst; sprich nur ein Wort, dann wird mein Diener gesund. Auch ich muss Befehlen gehorchen, und ich habe selber Soldaten unter mir; sage ich nun zu einem: Geh!, so geht er, und zu einem andern: Komm!, so kommt er, und zu meinem Diener: Tu das!, so tut er es."
+       ],
+       [
+        "Jesus war erstaunt, als er das hörte, und sagte zu denen, die ihm nachfolgten: Amen, das sage ich euch: Einen solchen Glauben habe ich in Israel noch bei niemand gefunden. Ich sage euch: Viele werden von Osten und Westen kommen und mit Abraham, Isaak und Jakob im Himmelreich zu Tisch sitzen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "la": "Tempus Adventus — Hebdomada I — Feria secunda",
+  "pt-BR": "Segunda-feira",
+  "en-US": "Advent Season — 1st Week: Monday",
+  "es": "Tiempo de Adviento — Lunes de la I Semana",
+  "it": "LUNEDI della I settimana di Avvento",
+  "fr": "Temps de l'Avent — 1e semaine — Lundi",
+  "de": "Advent — 1. Woche: Montag"
+ }
+}

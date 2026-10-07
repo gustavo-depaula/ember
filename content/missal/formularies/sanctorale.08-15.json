@@ -1,1 +1,2352 @@
-{"id":"sanctorale.08-15","source":"santos/santos_ago#0815Z","kind":"sanctoral","items":[{"slot":"131","text":{"la":[{"k":"h2","lines":[["Die 15 augusti"],["IN ASSUMPTIONE BEATÆ MARIÆ VIRGINIS"]]},{"k":"h3","lines":[["Sollemnitas"]]},{"k":"p","lines":[[{"m":"rubric","t":"Ad Missam in Die"}]]}],"pt-BR":[{"k":"h2","lines":[["15 de agosto"],["ASSUNÇÃO DA BEM-AVENTURADA VIRGEM MARIA"]]},{"k":"h3","lines":[["Solenidade"]]},{"k":"p","lines":[[{"m":"rubric","t":"Missa do Dia"}]]},{"k":"p","lines":[["\"A Imaculada Virgem, preservada imune de toda mancha da culpa original, terminado o curso da vida terrestre, foi assunta em corpo e alma à glória celeste e foi exaltada pelo Senhor como Rainha do Universo, para mais plenamente conformar-se a seu Filho, Senhor dos senhores e vencedor do pecado e da morte\" (LG 59). Maria, elevada ao céu, é primícia da Igreja celeste e o sinal da esperança segura e do conforto para a Igreja peregrina (ibidem, 68). A ",{"m":"italic","t":"\"Dormitio Virginis\""}," e a Assunção, no Oriente e no Ocidente, estão entre as mais antigas festas marianas. Este antigo testemunho litúrgico foi explicitado e solenemente proclamado pela definição dogmática de Pio XII em 1950."]]}],"en-US":[{"k":"h2","lines":[["August 15"],["THE ASSUMPTION"],["OF THE BLESSED VIRGIN MARY"]]},{"k":"h3","lines":[["Solemnity"]]},{"k":"p","lines":[[{"m":"rubric","t":"At the Mass during the Day"}]]}],"es":[{"k":"h2","lines":[["15 de agosto"],["La Asunción de la Virgen María"]]},{"k":"h3","lines":[["Solemnidad"]]},{"k":"p","lines":[[{"m":"rubric","t":"Misa del día"}]]}],"it":[{"k":"h2","lines":[["15 agosto"],["ASSUNZIONE DELLA B. V. MARIA"]]},{"k":"h3","lines":[["SOLENNITÀ"]]},{"k":"p","lines":[[{"m":"rubric","t":"Messa del giorno"}]]}],"fr":[{"k":"h2","lines":[["15 août"],["ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE"]]},{"k":"h3","lines":[["Solennité"]]},{"k":"p","lines":[[{"m":"rubric","t":"Messe du jour"}]]}],"de":[{"k":"h2","lines":[["15. August"],["MARIÄ AUFNAHME IN DEN HIMMEL"]]},{"k":"h3","lines":[["Hochfest"]]},{"k":"p","lines":[[{"m":"rubric","t":"Tagesmesse"}]]}]},"part":"title"},{"slot":"132","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Apoc 12, 1"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Ap 12, 1"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Rev 12: 1"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Ap 12, 1"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Ap 12, 1"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Apoc 12, 1"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Offb 12, 1"}]},"part":"entranceAntiphon"},{"slot":"133","text":{"la":[{"k":"p","lines":[["Signum magnum appáruit in cælo: múlier amícta sole, et luna sub pédibus eius, et in cápite eius coróna stellárum duódecim."]]}],"pt-BR":[{"k":"p","lines":[["Um grande sinal apareceu no céu:"],["uma mulher vestida do sol,"],["tendo a lua debaixo dos pés"],["e na cabeça uma coroa de doze estrelas."]]}],"en-US":[{"k":"p","lines":[["A great sign appeared in heaven:"],["a woman clothed with the sun, and the moon beneath her feet, and on her head a crown of twelve stars."]]}],"es":[{"k":"p","lines":[["Un gran signo apareció en el cielo: una mujer vestida de sol, la luna bajo sus pies y una corona de doce estrellas sobre su cabeza."]]}],"it":[{"k":"p","lines":[["Un segno grandioso apparve nel cielo: una donna vestita di sole, con la luna sotto i suoi piedi e sul capo una corona di dodici stelle."]]}],"fr":[{"k":"p","lines":[["Un signe grandiose apparut dans le ciel :"],["une femme, ayant le soleil pour manteau,"],["la lune sous les pieds"],["et, sur la tête, une couronne de douze étoiles."]]}],"de":[{"k":"p","lines":[["Ein großes Zeichen erschien am Himmel: Eine Frau, umgeben von der Sonne, den Mond unter ihren Füßen, und einen Kranz von zwölf Sternen auf ihrem Haupt."]]}]},"part":"entranceAntiphon"},{"slot":"134","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"135","text":{"la":[{"k":"p","lines":[["Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre Maríæ Vírginis, de cuius Assumptióne gaudent Angeli, et colláudant Fílium Dei."]]}],"pt-BR":[{"k":"p","lines":[["Alegremo-nos todos no Senhor,"],["celebrando este dia festivo"],["em honra da Virgem Maria;"],["os Anjos se alegram pela sua Assunção"],["e dão glória ao Filho de Deus."]]}],"en-US":[{"k":"p","lines":[["Let us all rejoice in the Lord,"],["as we celebrate the feast day in honor of the Virgin Mary, at whose Assumption the Angels rejoice"],["and praise the Son of God."]]}],"es":[{"k":"p","lines":[["Alegrémonos todos en el Señor al celebrar este día de fiesta en honor de la Virgen María: de su Asunción se alegran los ángeles y alaban al Hijo de Dios."]]}],"it":[{"k":"p","lines":[["Rallegriamoci tutti nel Signore, in questa solennità della Vergine Maria; della sua Assunzione si allietano gli angeli e lodano il Figlio di Dio."]]}],"fr":[{"k":"p","lines":[["Tous ensemble, réjouissons-nous dans le Seigneur,"],["célébrons ce jour de fête en l'honneur de la Vierge Marie."],["Les anges se réjouissent avec nous de son Assomption dans le ciel"],["et proclament les louanges du Fils de Dieu."]]}],"de":[{"k":"p","lines":[["Freut euch alle im Herrn am Fest der Aufnahme der seligsten Jungfrau Maria in den Himmel. Mit uns freuen sich die Engel und loben Gottes Sohn."]]}]},"part":"entranceAntiphon"},{"slot":"136","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Das "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":" wird gebetet."}]]}]},"part":"gloria"},{"slot":"137","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"138","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus, qui immaculátam Vírginem Maríam, Fílii tui Genetrícem, córpore et ánima ad cæléstem glóriam assumpsísti, concéde, quǽsumus, ut, ad supérna semper inténti, ipsíus glóriæ mereámur esse consórtes. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso,"],["que elevastes à glória do céu em corpo e alma"],["a imaculada Virgem Maria, Mãe do vosso Filho,"],["dai-nos viver sempre atentos às coisas do alto"],["para merecermos participar de sua glória."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["All powerful and ever-living God, you raised the sinless Virgin Mary, mother of your Son, body and soul to the glory of heaven. May we see heaven as our final goal and come to share her glory."]]},{"k":"p","lines":[["Almighty ever-living God,"],["who assumed the Immaculate Virgin Mary, the Mother of your Son, body and soul into heavenly glory,"],["grant, we pray,"],["that, always attentive to the things that are above,"],["we may merit to be sharers of her glory."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["que has elevado en cuerpo y alma a la gloria del cielo"],["a la inmaculada Virgen María, Madre de tu Hijo,"],["concédenos que,"],["aspirando siempre a las realidades divinas,"],["lleguemos a participar con ella de su misma gloria."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, che hai innalzato alla gloria del cielo in corpo e anima l'immacolata Vergine Maria, Madre del tuo Figlio, fa' che viviamo in questo mondo costantemente rivolti ai beni eterni, per condividere la sua stessa gloria. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["tu as élevé jusqu'à la gloire du ciel,"],["dans son âme et son corps,"],["Marie, la Vierge immaculée, la Mère de ton Fils ;"],["fais que, toujours tendus vers les réalités d'en haut,"],["nous obtenions de partager sa gloire."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, du hast die selige Jungfrau Maria, die uns Christus geboren hat, vor aller Sünde bewahrt und sie mit Leib und Seele zur Herrlichkeit des Himmels erhoben. Gib, dass wir auf dieses Zeichen der Hoffnung und des Trostes schauen und auf dem Weg bleiben, der hinführt zu deiner Herrlichkeit. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"139","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},"Credo",{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},"Creio",{"m":"rubric","t":"."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Credo"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On dit le "},"Credo",{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Credo."}]]}]},"part":"creed"},{"slot":"140","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"141","text":{"la":[{"k":"p","lines":[["Ascéndat ad te, Dómine, nostræ devotiónis oblátio, et, beatíssima Vírgine María in cælum assúmpta intercedénte, corda nostra, caritátis igne succénsa, ad te iúgiter aspírent. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Suba até vós, Senhor,"],["a oferenda de nossa devoção"],["e, pela intercessão da Santíssima Virgem Maria, elevada ao céu,"],["os nossos corações, inflamados por vosso amor,"],["se orientem continuamente para vós."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May this oblation, our tribute of homage,"],["rise up to you, O Lord,"],["and, through the intercession of the Most Blessed Virgin Mary, whom you assumed into heaven,"],["may our hearts, aflame with the fire of love,"],["constantly long for you."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Suba a tu presencia, Señor,"],["la ofrenda de nuestra devoción,"],["y, por intercesión de la santísima Virgen María, elevada al cielo,"],["haz que nuestros corazones,"],["encendidos en el fuego de tu amor,"],["tiendan constantemente hacia ti."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Salga a te, o Signore, il nostro sacrificio di lode e per intercessione della beata Vergine Maria assunta in cielo i nostri cuori, ardenti del tuo amore, aspirino continuamente a te. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Que monte vers toi, Seigneur,"],["l'offrande que nous te présentons avec ferveur ;"],["et tandis qu'intercède pour nous"],["la bienheureuse Vierge Marie élevée au ciel,"],["que nos cœurs, brûlants de charité,"],["aspirent toujours à monter vers toi."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, unser Gebet und unser Opfer steige zu dir empor. Höre auf die selige Jungfrau Maria, die du in den Himmel aufgenommen hast, und entzünde in unseren Herzen das Feuer der Liebe, damit wir dich allezeit suchen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"142","text":{"la":[{"k":"h4","lines":[["Præfatio"]]},{"k":"p","lines":[[{"m":"rubric","t":"De gloria Maríæ Assumptæ. "}]]},{"k":"p","lines":[["Vere dignum et iustum est,"],["æquum et salutáre,"],["nos tibi semper et ubíque grátias ágere:"],["Dómine, sancte Pater,"],["omnípotens ætérne Deus:"],["per Christum Dóminum nostrum."]]},{"k":"p","lines":[["Quóniam hódie Virgo Deípara in cælos assúmpta est,"],["Ecclésiæ tuæ consummándæ inítium et imágo,"],["ac pópulo peregrinánti certæ spei et solácii documéntum;"],["corruptiónem enim sepúlcri eam vidére mérito noluísti,"],["quæ Fílium tuum, vitæ omnis auctórem,"],["ineffabíliter de se génuit incarnátum."]]},{"k":"p","lines":[["Et ídeo,"],["choris angélicis sociáti,"],["te laudámus, in gáudio confiténtes:"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]},{"k":"p","lines":[[{"m":"rubric","t":"A glória da Assunção de Maria. "}]]},{"k":"p","lines":[["Na verdade, é digno e justo,"],["é nosso dever e salvação dar-vos graças,"],["sempre e em todo lugar,"],["Senhor, Pai santo,"],["Deus eterno e todo-poderoso,"],["por Cristo, Senhor nosso."]]},{"k":"p","lines":[["Hoje a Virgem Maria, Mãe de Deus,"],["foi elevada ao céu."],["Sinal de inabalável esperança"],["e consolo para o povo peregrino,"],["ela é primícia e imagem da Igreja chamada à glória,"],["pois não quisestes que sofresse a corrupção do sepulcro"],["aquela que gerou, de modo inefável,"],["o vosso Filho feito homem,"],["autor de toda a vida."]]},{"k":"p","lines":[["Por isso, unidos aos coros dos anjos,"],["vos louvamos, cantando ",{"m":"rubric","t":"("},"dizendo",{"m":"rubric","t":")"}," alegres a uma só voz:"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]},{"k":"p","lines":[[{"m":"rubric","t":"The Glory of Mary assumed into heaven."}]]},{"k":"p","lines":[["It is truly right and just, our duty and our salvation,"],["always and everywhere to give you thanks,"],["Lord, holy Father, almighty and eternal God,"],["through Christ our Lord."]]},{"k":"p","lines":[["For today the Virgin Mother of God"],["was assumed into heaven"],["as the beginning and image"],["of your Church's coming to perfection"],["and a sign of sure hope and comfort to your pilgrim people;"],["rightly you would not allow her"],["to see the corruption of the tomb"],["since from her own body she marvelously brought forth"],["your incarnate Son, the Author of all life."]]},{"k":"p","lines":[["And so, in company with the choirs of Angels,"],["we praise you, and with joy we proclaim:"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]},{"k":"p","lines":[[{"m":"rubric","t":"La gloria de la Asunción de María"}]]},{"k":"p","lines":[["En verdad es justo y necesario,"],["es nuestro deber y salvación"],["darte gracias"],["siempre y en todo lugar,"],["Señor, Padre santo,"],["Dios todopoderoso y eterno,"],["por Cristo, Señor nuestro."]]},{"k":"p","lines":[["Porque hoy ha sido elevada a los cielos"],["la Virgen, Madre de Dios;"],["ella es figura y primicia de la Iglesia,"],["que un día será glorificada;"],["ella es ejemplo de esperanza segura"],["y consuelo del pueblo peregrino."],["Con razón no quisiste, Señor,"],["que conociera la corrupción del sepulcro"],["la que, de modo admirable,"],["concibió en su seno al autor de la vida,"],["tu Hijo encarnado."]]},{"k":"p","lines":[["Por eso, unidos a los coros angélicos,"],["te alabamos proclamando llenos de alegría:"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]},{"k":"p","lines":[[{"m":"rubric","t":"La gloria di Maria assunta in cielo"}]]},{"k":"p","lines":[["È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno."]]},{"k":"p","lines":[["Oggi la Vergine Maria, Madre di Dio, è stata assunta in cielo. Segno di sicura speranza e consolazione per il popolo pellegrino sulla terra, risplende come primizia e immagine della Chiesa, chiamata alla gloria. Tu non hai voluto che conoscesse la corruzione del sepolcro colei che in modo ineffabile ha generato nella carne il tuo Figlio, autore della vita."]]},{"k":"p","lines":[["E noi, uniti ai cori degli angeli, cantiamo con gioia l'inno della tua lode:"]]}],"fr":[{"k":"h4","lines":[["Préface"]]},{"k":"p","lines":[["Vraiment, il est juste et bon,"],["pour ta gloire et notre salut,"],["de t'offrir notre action de grâce,"],["toujours et en tout lieu,"],["Seigneur, Père très saint,"],["Dieu éternel et tout-puissant,"],["par le Christ, notre Seigneur."]]},{"k":"p","lines":[["Aujourd'hui, la Vierge Marie, la Mère de Dieu,"],["est élevée au ciel."],["Elle est le commencement et l'image"],["de ce que deviendra ton Église en sa plénitude,"],["elle est signe d'espérance et source de réconfort"],["pour ton peuple encore en chemin."],["Ainsi tu n'as pas voulu qu'elle connaisse"],["la corruption du tombeau,"],["elle qui a porté dans sa chair ton propre Fils"],["et mis au monde d'une manière incomparable"],["l'auteur de la vie."]]},{"k":"p","lines":[["C'est pourquoi,"],["unissant nos voix à celles des anges,"],["nous te louons dans la joie en proclamant :"]]}],"de":[{"k":"h4","lines":[["Präfation"]]},{"k":"p","lines":[[{"m":"rubric","t":"Die Herrlichkeit Marias und die Kirche"}]]},{"k":"p","lines":[["In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und das Werk deiner Gnade zu rühmen."],["Denn heute hast du die jungfräuliche Gottesmutter in den Himmel erhoben, als Erste empfing sie von Christus die Herrlichkeit, die uns allen als verheißen ist, und wurde zum Urbild der Kirche in ihrer ewigen Vollendung."],["Dem pilgernden Volk ist sie ein untrügliches Zeichen der Hoffnung und eine Quelle des Trostes. Denn ihr Leib, der den Urheber des Lebens geboren hat, sollte die Verwesung nicht schauen."],["Darum preisen wir jetzt und in Ewigkeit dein Erbarmen und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"]]}]},"part":"preface"},{"slot":"143","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Lc 1, 48-49"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Lc 1, 48-49"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Lk 1: 48-49"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Lc 1, 48-49"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Lc 1, 48-49"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Lc 1, 48-49"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Lk 1, 48-49"}]},"part":"communionAntiphon"},{"slot":"144","text":{"la":[{"k":"p","lines":[["Beátam me dicent omnes generatiónes, quia fecit mihi magna qui potens est."]]}],"pt-BR":[{"k":"p","lines":[["Desde agora as gerações hão de chamar-me de bendita."],["O Poderoso fez por mim maravilhas."]]}],"en-US":[{"k":"p","lines":[["All generations will call me blessed,"],["for he who is mighty has done great things for me."]]}],"es":[{"k":"p","lines":[["Me felicitarán todas las generaciones, porque el Poderoso ha hecho obras grandes en mí."]]}],"it":[{"k":"p","lines":[["Tutte le generazioni mi chiameranno beata: grandi cose ha fatto per me l'Onnipotente."]]}],"fr":[{"k":"p","lines":[["Tous les âges me diront bienheureuse :"],["le Puissant fit pour moi des merveilles."]]}],"de":[{"k":"p","lines":[["Von nun an preisen mich selig alle Geschlechter. Denn der Mächtige hat Großes an mir getan."]]}]},"part":"communionAntiphon"},{"slot":"145","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"146","text":{"la":[{"k":"p","lines":[["Sumptis, Dómine, salutáribus sacraméntis, da, quǽsumus, ut, intercessióne beátæ Maríæ Vírginis in cælum assúmptæ, ad resurrectiónis glóriam perducámur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, que nos alimentastes"],["com o sacramento da salvação,"],["concedei-nos que,"],["pela intercessão da Virgem Maria, elevada ao céu,"],["sejamos conduzidos à glória da ressurreição."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Having received the Sacrament of salvation,"],["we ask you to grant, O Lord,"],["that, through the intercession of the Blessed Virgin Mary, whom you assumed into heaven,"],["we may be brought to the glory of the resurrection."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Después de recibir los sacramentos que nos salvan,"],["te rogamos, Señor,"],["por intercesión de santa María Virgen,"],["elevada al cielo,"],["llegar a la gloria de la resurrección."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, che ci hai nutriti con i sacramenti della salvezza, fa' che per intercessione della beata Vergine Maria assunta in cielo giungiamo alla gloria della risurrezione. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous avons reçu, Seigneur,"],["le sacrement qui nous sauve ;"],["par l'intercession de la bienheureuse Vierge Marie élevée au ciel,"],["accorde-nous de parvenir à la gloire de la résurrection."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, wir haben das heilbringende Sakrament empfangen. Lass uns auf die Fürsprache der seligen Jungfrau Maria, die du in den Himmel aufgenommen hast, zur Herrlichkeit der Auferstehung gelangen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"147","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Adhiberi potest formula sollemnis."}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Pode-se usar a fórmula da Solene."}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The Solemn formula may be used."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se puede utilizar la fórmula de la solemne."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On peut utiliser la formule de la solennelle."}]]}]},"part":"prayerOverPeople","role":"rubric"}],"precedence":3,"lectionary":"sanctorale.08-15","title":{"la":"IN ASSUMPTIONE BEATÆ MARIÆ VIRGINIS","pt-BR":"ASSUNÇÃO DA BEM-AVENTURADA VIRGEM MARIA","en-US":"THE ASSUMPTION — OF THE BLESSED VIRGIN MARY","es":"La Asunción de la Virgen María","it":"ASSUNZIONE DELLA B. V. MARIA","fr":"ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE","de":"MARIÄ AUFNAHME IN DEN HIMMEL"},"subtitle":{"la":"Sollemnitas","pt-BR":"Solenidade","en-US":"Solemnity","es":"Solemnidad","it":"SOLENNITÀ","fr":"Solennité","de":"Hochfest"}}
+{
+ "id": "sanctorale.08-15",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 15 augusti"
+       ],
+       [
+        "IN ASSUMPTIONE BEATÆ MARIÆ VIRGINIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Sollemnitas"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ad Missam in Die"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 de agosto"
+       ],
+       [
+        "ASSUNÇÃO DA BEM-AVENTURADA VIRGEM MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solenidade"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Missa do Dia"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\"A Imaculada Virgem, preservada imune de toda mancha da culpa original, terminado o curso da vida terrestre, foi assunta em corpo e alma à glória celeste e foi exaltada pelo Senhor como Rainha do Universo, para mais plenamente conformar-se a seu Filho, Senhor dos senhores e vencedor do pecado e da morte\" (LG 59). Maria, elevada ao céu, é primícia da Igreja celeste e o sinal da esperança segura e do conforto para a Igreja peregrina (ibidem, 68). A ",
+        {
+         "m": "italic",
+         "t": "\"Dormitio Virginis\""
+        },
+        " e a Assunção, no Oriente e no Ocidente, estão entre as mais antigas festas marianas. Este antigo testemunho litúrgico foi explicitado e solenemente proclamado pela definição dogmática de Pio XII em 1950."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "August 15"
+       ],
+       [
+        "THE ASSUMPTION"
+       ],
+       [
+        "OF THE BLESSED VIRGIN MARY"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnity"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "At the Mass during the Day"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 de agosto"
+       ],
+       [
+        "La Asunción de la Virgen María"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnidad"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Misa del día"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 agosto"
+       ],
+       [
+        "ASSUNZIONE DELLA B. V. MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "SOLENNITÀ"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Messa del giorno"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15 août"
+       ],
+       [
+        "ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solennité"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Messe du jour"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "15. August"
+       ],
+       [
+        "MARIÄ AUFNAHME IN DEN HIMMEL"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Hochfest"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Tagesmesse"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Apoc 12, 1"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Ap 12, 1"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Rev 12: 1"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Ap 12, 1"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Ap 12, 1"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Apoc 12, 1"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Offb 12, 1"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signum magnum appáruit in cælo: múlier amícta sole, et luna sub pédibus eius, et in cápite eius coróna stellárum duódecim."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Um grande sinal apareceu no céu:"
+       ],
+       [
+        "uma mulher vestida do sol,"
+       ],
+       [
+        "tendo a lua debaixo dos pés"
+       ],
+       [
+        "e na cabeça uma coroa de doze estrelas."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A great sign appeared in heaven:"
+       ],
+       [
+        "a woman clothed with the sun, and the moon beneath her feet, and on her head a crown of twelve stars."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un gran signo apareció en el cielo: una mujer vestida de sol, la luna bajo sus pies y una corona de doce estrellas sobre su cabeza."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un segno grandioso apparve nel cielo: una donna vestita di sole, con la luna sotto i suoi piedi e sul capo una corona di dodici stelle."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Un signe grandiose apparut dans le ciel :"
+       ],
+       [
+        "une femme, ayant le soleil pour manteau,"
+       ],
+       [
+        "la lune sous les pieds"
+       ],
+       [
+        "et, sur la tête, une couronne de douze étoiles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ein großes Zeichen erschien am Himmel: Eine Frau, umgeben von der Sonne, den Mond unter ihren Füßen, und einen Kranz von zwölf Sternen auf ihrem Haupt."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre Maríæ Vírginis, de cuius Assumptióne gaudent Angeli, et colláudant Fílium Dei."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegremo-nos todos no Senhor,"
+       ],
+       [
+        "celebrando este dia festivo"
+       ],
+       [
+        "em honra da Virgem Maria;"
+       ],
+       [
+        "os Anjos se alegram pela sua Assunção"
+       ],
+       [
+        "e dão glória ao Filho de Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Let us all rejoice in the Lord,"
+       ],
+       [
+        "as we celebrate the feast day in honor of the Virgin Mary, at whose Assumption the Angels rejoice"
+       ],
+       [
+        "and praise the Son of God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegrémonos todos en el Señor al celebrar este día de fiesta en honor de la Virgen María: de su Asunción se alegran los ángeles y alaban al Hijo de Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegriamoci tutti nel Signore, in questa solennità della Vergine Maria; della sua Assunzione si allietano gli angeli e lodano il Figlio di Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tous ensemble, réjouissons-nous dans le Seigneur,"
+       ],
+       [
+        "célébrons ce jour de fête en l'honneur de la Vierge Marie."
+       ],
+       [
+        "Les anges se réjouissent avec nous de son Assomption dans le ciel"
+       ],
+       [
+        "et proclament les louanges du Fils de Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Freut euch alle im Herrn am Fest der Aufnahme der seligsten Jungfrau Maria in den Himmel. Mit uns freuen sich die Engel und loben Gottes Sohn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": " wird gebetet."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus, qui immaculátam Vírginem Maríam, Fílii tui Genetrícem, córpore et ánima ad cæléstem glóriam assumpsísti, concéde, quǽsumus, ut, ad supérna semper inténti, ipsíus glóriæ mereámur esse consórtes. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "que elevastes à glória do céu em corpo e alma"
+       ],
+       [
+        "a imaculada Virgem Maria, Mãe do vosso Filho,"
+       ],
+       [
+        "dai-nos viver sempre atentos às coisas do alto"
+       ],
+       [
+        "para merecermos participar de sua glória."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "All powerful and ever-living God, you raised the sinless Virgin Mary, mother of your Son, body and soul to the glory of heaven. May we see heaven as our final goal and come to share her glory."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "who assumed the Immaculate Virgin Mary, the Mother of your Son, body and soul into heavenly glory,"
+       ],
+       [
+        "grant, we pray,"
+       ],
+       [
+        "that, always attentive to the things that are above,"
+       ],
+       [
+        "we may merit to be sharers of her glory."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "que has elevado en cuerpo y alma a la gloria del cielo"
+       ],
+       [
+        "a la inmaculada Virgen María, Madre de tu Hijo,"
+       ],
+       [
+        "concédenos que,"
+       ],
+       [
+        "aspirando siempre a las realidades divinas,"
+       ],
+       [
+        "lleguemos a participar con ella de su misma gloria."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, che hai innalzato alla gloria del cielo in corpo e anima l'immacolata Vergine Maria, Madre del tuo Figlio, fa' che viviamo in questo mondo costantemente rivolti ai beni eterni, per condividere la sua stessa gloria. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "tu as élevé jusqu'à la gloire du ciel,"
+       ],
+       [
+        "dans son âme et son corps,"
+       ],
+       [
+        "Marie, la Vierge immaculée, la Mère de ton Fils ;"
+       ],
+       [
+        "fais que, toujours tendus vers les réalités d'en haut,"
+       ],
+       [
+        "nous obtenions de partager sa gloire."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, du hast die selige Jungfrau Maria, die uns Christus geboren hat, vor aller Sünde bewahrt und sie mit Leib und Seele zur Herrlichkeit des Himmels erhoben. Gib, dass wir auf dieses Zeichen der Hoffnung und des Trostes schauen und auf dem Weg bleiben, der hinführt zu deiner Herrlichkeit. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        "Creio",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Credo"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On dit le "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Credo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ascéndat ad te, Dómine, nostræ devotiónis oblátio, et, beatíssima Vírgine María in cælum assúmpta intercedénte, corda nostra, caritátis igne succénsa, ad te iúgiter aspírent. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Suba até vós, Senhor,"
+       ],
+       [
+        "a oferenda de nossa devoção"
+       ],
+       [
+        "e, pela intercessão da Santíssima Virgem Maria, elevada ao céu,"
+       ],
+       [
+        "os nossos corações, inflamados por vosso amor,"
+       ],
+       [
+        "se orientem continuamente para vós."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May this oblation, our tribute of homage,"
+       ],
+       [
+        "rise up to you, O Lord,"
+       ],
+       [
+        "and, through the intercession of the Most Blessed Virgin Mary, whom you assumed into heaven,"
+       ],
+       [
+        "may our hearts, aflame with the fire of love,"
+       ],
+       [
+        "constantly long for you."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Suba a tu presencia, Señor,"
+       ],
+       [
+        "la ofrenda de nuestra devoción,"
+       ],
+       [
+        "y, por intercesión de la santísima Virgen María, elevada al cielo,"
+       ],
+       [
+        "haz que nuestros corazones,"
+       ],
+       [
+        "encendidos en el fuego de tu amor,"
+       ],
+       [
+        "tiendan constantemente hacia ti."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salga a te, o Signore, il nostro sacrificio di lode e per intercessione della beata Vergine Maria assunta in cielo i nostri cuori, ardenti del tuo amore, aspirino continuamente a te. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que monte vers toi, Seigneur,"
+       ],
+       [
+        "l'offrande que nous te présentons avec ferveur ;"
+       ],
+       [
+        "et tandis qu'intercède pour nous"
+       ],
+       [
+        "la bienheureuse Vierge Marie élevée au ciel,"
+       ],
+       [
+        "que nos cœurs, brûlants de charité,"
+       ],
+       [
+        "aspirent toujours à monter vers toi."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, unser Gebet und unser Opfer steige zu dir empor. Höre auf die selige Jungfrau Maria, die du in den Himmel aufgenommen hast, und entzünde in unseren Herzen das Feuer der Liebe, damit wir dich allezeit suchen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De gloria Maríæ Assumptæ. "
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vere dignum et iustum est,"
+       ],
+       [
+        "æquum et salutáre,"
+       ],
+       [
+        "nos tibi semper et ubíque grátias ágere:"
+       ],
+       [
+        "Dómine, sancte Pater,"
+       ],
+       [
+        "omnípotens ætérne Deus:"
+       ],
+       [
+        "per Christum Dóminum nostrum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quóniam hódie Virgo Deípara in cælos assúmpta est,"
+       ],
+       [
+        "Ecclésiæ tuæ consummándæ inítium et imágo,"
+       ],
+       [
+        "ac pópulo peregrinánti certæ spei et solácii documéntum;"
+       ],
+       [
+        "corruptiónem enim sepúlcri eam vidére mérito noluísti,"
+       ],
+       [
+        "quæ Fílium tuum, vitæ omnis auctórem,"
+       ],
+       [
+        "ineffabíliter de se génuit incarnátum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ídeo,"
+       ],
+       [
+        "choris angélicis sociáti,"
+       ],
+       [
+        "te laudámus, in gáudio confiténtes:"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A glória da Assunção de Maria. "
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Na verdade, é digno e justo,"
+       ],
+       [
+        "é nosso dever e salvação dar-vos graças,"
+       ],
+       [
+        "sempre e em todo lugar,"
+       ],
+       [
+        "Senhor, Pai santo,"
+       ],
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "por Cristo, Senhor nosso."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hoje a Virgem Maria, Mãe de Deus,"
+       ],
+       [
+        "foi elevada ao céu."
+       ],
+       [
+        "Sinal de inabalável esperança"
+       ],
+       [
+        "e consolo para o povo peregrino,"
+       ],
+       [
+        "ela é primícia e imagem da Igreja chamada à glória,"
+       ],
+       [
+        "pois não quisestes que sofresse a corrupção do sepulcro"
+       ],
+       [
+        "aquela que gerou, de modo inefável,"
+       ],
+       [
+        "o vosso Filho feito homem,"
+       ],
+       [
+        "autor de toda a vida."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por isso, unidos aos coros dos anjos,"
+       ],
+       [
+        "vos louvamos, cantando ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "dizendo",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " alegres a uma só voz:"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Glory of Mary assumed into heaven."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is truly right and just, our duty and our salvation,"
+       ],
+       [
+        "always and everywhere to give you thanks,"
+       ],
+       [
+        "Lord, holy Father, almighty and eternal God,"
+       ],
+       [
+        "through Christ our Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For today the Virgin Mother of God"
+       ],
+       [
+        "was assumed into heaven"
+       ],
+       [
+        "as the beginning and image"
+       ],
+       [
+        "of your Church's coming to perfection"
+       ],
+       [
+        "and a sign of sure hope and comfort to your pilgrim people;"
+       ],
+       [
+        "rightly you would not allow her"
+       ],
+       [
+        "to see the corruption of the tomb"
+       ],
+       [
+        "since from her own body she marvelously brought forth"
+       ],
+       [
+        "your incarnate Son, the Author of all life."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And so, in company with the choirs of Angels,"
+       ],
+       [
+        "we praise you, and with joy we proclaim:"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "La gloria de la Asunción de María"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En verdad es justo y necesario,"
+       ],
+       [
+        "es nuestro deber y salvación"
+       ],
+       [
+        "darte gracias"
+       ],
+       [
+        "siempre y en todo lugar,"
+       ],
+       [
+        "Señor, Padre santo,"
+       ],
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "por Cristo, Señor nuestro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Porque hoy ha sido elevada a los cielos"
+       ],
+       [
+        "la Virgen, Madre de Dios;"
+       ],
+       [
+        "ella es figura y primicia de la Iglesia,"
+       ],
+       [
+        "que un día será glorificada;"
+       ],
+       [
+        "ella es ejemplo de esperanza segura"
+       ],
+       [
+        "y consuelo del pueblo peregrino."
+       ],
+       [
+        "Con razón no quisiste, Señor,"
+       ],
+       [
+        "que conociera la corrupción del sepulcro"
+       ],
+       [
+        "la que, de modo admirable,"
+       ],
+       [
+        "concibió en su seno al autor de la vida,"
+       ],
+       [
+        "tu Hijo encarnado."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por eso, unidos a los coros angélicos,"
+       ],
+       [
+        "te alabamos proclamando llenos de alegría:"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "La gloria di Maria assunta in cielo"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oggi la Vergine Maria, Madre di Dio, è stata assunta in cielo. Segno di sicura speranza e consolazione per il popolo pellegrino sulla terra, risplende come primizia e immagine della Chiesa, chiamata alla gloria. Tu non hai voluto che conoscesse la corruzione del sepolcro colei che in modo ineffabile ha generato nella carne il tuo Figlio, autore della vita."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E noi, uniti ai cori degli angeli, cantiamo con gioia l'inno della tua lode:"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vraiment, il est juste et bon,"
+       ],
+       [
+        "pour ta gloire et notre salut,"
+       ],
+       [
+        "de t'offrir notre action de grâce,"
+       ],
+       [
+        "toujours et en tout lieu,"
+       ],
+       [
+        "Seigneur, Père très saint,"
+       ],
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "par le Christ, notre Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aujourd'hui, la Vierge Marie, la Mère de Dieu,"
+       ],
+       [
+        "est élevée au ciel."
+       ],
+       [
+        "Elle est le commencement et l'image"
+       ],
+       [
+        "de ce que deviendra ton Église en sa plénitude,"
+       ],
+       [
+        "elle est signe d'espérance et source de réconfort"
+       ],
+       [
+        "pour ton peuple encore en chemin."
+       ],
+       [
+        "Ainsi tu n'as pas voulu qu'elle connaisse"
+       ],
+       [
+        "la corruption du tombeau,"
+       ],
+       [
+        "elle qui a porté dans sa chair ton propre Fils"
+       ],
+       [
+        "et mis au monde d'une manière incomparable"
+       ],
+       [
+        "l'auteur de la vie."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est pourquoi,"
+       ],
+       [
+        "unissant nos voix à celles des anges,"
+       ],
+       [
+        "nous te louons dans la joie en proclamant :"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Die Herrlichkeit Marias und die Kirche"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Wahrheit ist es würdig und recht, dir, allmächtiger Vater, zu danken und das Werk deiner Gnade zu rühmen."
+       ],
+       [
+        "Denn heute hast du die jungfräuliche Gottesmutter in den Himmel erhoben, als Erste empfing sie von Christus die Herrlichkeit, die uns allen als verheißen ist, und wurde zum Urbild der Kirche in ihrer ewigen Vollendung."
+       ],
+       [
+        "Dem pilgernden Volk ist sie ein untrügliches Zeichen der Hoffnung und eine Quelle des Trostes. Denn ihr Leib, der den Urheber des Lebens geboren hat, sollte die Verwesung nicht schauen."
+       ],
+       [
+        "Darum preisen wir jetzt und in Ewigkeit dein Erbarmen und singen mit den Chören der Engel das Lob deiner Herrlichkeit:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Lc 1, 48-49"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 48-49"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Lk 1: 48-49"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Lc 1, 48-49"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Lc 1, 48-49"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Lc 1, 48-49"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Lk 1, 48-49"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beátam me dicent omnes generatiónes, quia fecit mihi magna qui potens est."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Desde agora as gerações hão de chamar-me de bendita."
+       ],
+       [
+        "O Poderoso fez por mim maravilhas."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "All generations will call me blessed,"
+       ],
+       [
+        "for he who is mighty has done great things for me."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me felicitarán todas las generaciones, porque el Poderoso ha hecho obras grandes en mí."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tutte le generazioni mi chiameranno beata: grandi cose ha fatto per me l'Onnipotente."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tous les âges me diront bienheureuse :"
+       ],
+       [
+        "le Puissant fit pour moi des merveilles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Von nun an preisen mich selig alle Geschlechter. Denn der Mächtige hat Großes an mir getan."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sumptis, Dómine, salutáribus sacraméntis, da, quǽsumus, ut, intercessióne beátæ Maríæ Vírginis in cælum assúmptæ, ad resurrectiónis glóriam perducámur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, que nos alimentastes"
+       ],
+       [
+        "com o sacramento da salvação,"
+       ],
+       [
+        "concedei-nos que,"
+       ],
+       [
+        "pela intercessão da Virgem Maria, elevada ao céu,"
+       ],
+       [
+        "sejamos conduzidos à glória da ressurreição."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Having received the Sacrament of salvation,"
+       ],
+       [
+        "we ask you to grant, O Lord,"
+       ],
+       [
+        "that, through the intercession of the Blessed Virgin Mary, whom you assumed into heaven,"
+       ],
+       [
+        "we may be brought to the glory of the resurrection."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Después de recibir los sacramentos que nos salvan,"
+       ],
+       [
+        "te rogamos, Señor,"
+       ],
+       [
+        "por intercesión de santa María Virgen,"
+       ],
+       [
+        "elevada al cielo,"
+       ],
+       [
+        "llegar a la gloria de la resurrección."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, che ci hai nutriti con i sacramenti della salvezza, fa' che per intercessione della beata Vergine Maria assunta in cielo giungiamo alla gloria della risurrezione. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous avons reçu, Seigneur,"
+       ],
+       [
+        "le sacrement qui nous sauve ;"
+       ],
+       [
+        "par l'intercession de la bienheureuse Vierge Marie élevée au ciel,"
+       ],
+       [
+        "accorde-nous de parvenir à la gloire de la résurrection."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, wir haben das heilbringende Sakrament empfangen. Lass uns auf die Fürsprache der seligen Jungfrau Maria, die du in den Himmel aufgenommen hast, zur Herrlichkeit der Auferstehung gelangen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Adhiberi potest formula sollemnis."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pode-se usar a fórmula da Solene."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The Solemn formula may be used."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se puede utilizar la fórmula de la solemne."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On peut utiliser la formule de la solennelle."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverPeople",
+   "role": "rubric"
+  }
+ ],
+ "precedence": 3,
+ "lectionary": "sanctorale.08-15",
+ "title": {
+  "la": "IN ASSUMPTIONE BEATÆ MARIÆ VIRGINIS",
+  "pt-BR": "ASSUNÇÃO DA BEM-AVENTURADA VIRGEM MARIA",
+  "en-US": "THE ASSUMPTION — OF THE BLESSED VIRGIN MARY",
+  "es": "La Asunción de la Virgen María",
+  "it": "ASSUNZIONE DELLA B. V. MARIA",
+  "fr": "ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE",
+  "de": "MARIÄ AUFNAHME IN DEN HIMMEL"
+ },
+ "subtitle": {
+  "la": "Sollemnitas",
+  "pt-BR": "Solenidade",
+  "en-US": "Solemnity",
+  "es": "Solemnidad",
+  "it": "SOLENNITÀ",
+  "fr": "Solennité",
+  "de": "Hochfest"
+ }
+}

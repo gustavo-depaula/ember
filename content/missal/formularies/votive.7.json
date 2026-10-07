@@ -1,1 +1,1400 @@
-{"id":"votive.7","source":"comunes_votivas/votivas#0007","kind":"votive","items":[{"slot":"75","text":{"la":[{"k":"h2","lines":[["7. DE PRETIOSISSIMO SANGUINE DOMINI NOSTRI IESU ChristI"]]},{"k":"p","lines":[[{"m":"rubric","t":"In hac Missa adhibetur color ruber. "}]]}],"pt-BR":[{"k":"h2","lines":[["7. PRECIOSÍSSIMO SANGUE DE NOSSO SENHOR JESUS CRISTO"]]},{"k":"p","lines":[[{"m":"rubric","t":"Esta Missa celebra-se com vestes sagradas de cor vermelha."}]]}],"en-US":[{"k":"h2","lines":[["7. THE MOST PRECIOUS BLOOD OF OUR LORD JESUS CHRIST"]]},{"k":"p","lines":[[{"m":"rubric","t":"In this Mass, the color red is used."}]]}],"es":[{"k":"h2","lines":[["7. DE LA PRECIOSÍSIMA SANGRE DE NUESTRO SEÑOR JESUCRISTO"]]},{"k":"p","lines":[[{"m":"rubric","t":"Esta misa se dice con vestiduras de color rojo."}]]}],"it":[{"k":"h2","lines":[["7. PREZIOSISSIMO SANGUE DI N. S. GESÙ CRISTO"]]},{"k":"p","lines":[[{"m":"rubric","t":"Colore liturgico rosso."}]]}],"fr":[{"k":"h2","lines":[["7. PRÉCIEUX SANG DE NOTRE SEIGNEUR JÉSUS CHRIST"]]},{"k":"p","lines":[[{"m":"rubric","t":"Pour cette messe, on emploie la couleur rouge."}]]}],"de":[{"k":"h2","lines":[["7. VOM KOSTBAREN BLUT UNSERES HERRN JESUS CHRISTUS"]]},{"k":"p","lines":[[{"m":"rubric","t":"Diese Messe wird in roter Farbe gefeiert."}]]}]},"part":"title"},{"slot":"76","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ap 5, 9-10"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Ap 5, 9-10"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ap 5, 9-10"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Ap 5, 9-10"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Ap 5, 9-10"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ap 5, 9-10"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Offb 5, 9-10"}]},"part":"entranceAntiphon"},{"slot":"77","text":{"la":[{"k":"p","lines":[["Redemísti nos, Dómine, in sánguine tuo, ex omni tribu et lingua et pópulo et natióne, et fecísti nos Deo nostro regnum."]]}],"pt-BR":[{"k":"p","lines":[["Vós nos redimistes, Senhor, pelo vosso sangue, de todas as raças, línguas, povos e nações, e fizestes de nós um reino e sacerdotes para nosso Deus."]]}],"en-US":[{"k":"p","lines":[["You have redeemed us, Lord, by your blood,"],["from every tribe and tongue and people and nation, and have made us into a kingdom for our God."]]}],"es":[{"k":"p","lines":[["Señor, con tu sangre has adquirido para Dios hombres de toda tribu, lengua, pueblo y nación; y has hecho de ellos para nuestro Dios un reino."]]}],"it":[{"k":"p","lines":[["Ci hai riscattati, Signore, con il tuo sangue, uomini di ogni tribù, lingua, popolo e nazione; hai fatto di noi un regno di sacerdoti per il nostro Dio."]]}],"fr":[{"k":"p","lines":[["Seigneur, tu nous as rachetés, par ton sang,"],["de toute tribu, langue, peuple et nation,"],["et tu as fait de nous, pour notre Dieu, un royaume."]]}],"de":[{"k":"p","lines":[["Herr, du hast uns durch dein Blut erkauft aus allen Stämmen und Sprachen, aus allen Völkern und Nationen, und du hast uns für unseren Gott zu Königen und zu Priestern gemacht."]]}]},"part":"entranceAntiphon"},{"slot":"78","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"79","text":{"la":[{"k":"p","lines":[["Deus, qui pretióso Unigéniti tui sánguine univérsos hómines redemísti, consérva in nobis opus misericórdiæ tuæ, ut, nostræ salútis mystérium iúgiter recoléntes, eiúsdem fructum cónsequi mereámur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que redimistes todos os seres humanos pelo precioso Sangue do vosso Filho Unigênito, conservai em nós a obra da vossa misericórdia, para que, celebrando sem cessar o mistério da nossa salvação, alcancemos os seus frutos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who by the Precious Blood of your only Begotten son have redeemed the whole world,"],["preserve in us the work of your mercy,"],["so that, ever honoring the mystery of our salvation,"],["we may merit to obtain its fruits."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que has redimido a todos los hombres"],["con la Sangre preciosa de tu Unigénito,"],["conserva en nosotros la acción de tu misericordia,"],["para que, celebrando siempre el misterio de nuestra salvactón,"],["merezcamos alcanzar sus frutos."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Padre, che nel Sangue prezioso del tuo unigenito Figlio hai redento tutti gli uomini, custodisci in noi l'opera della tua misericordia perché, celebrando sempre il mistero della nostra salvezza, otteniamo il frutto della redenzione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as racheté tous les hommes"],["par le sang précieux de ton Fils unique ;"],["continue en nous l'œuvre de ta miséricorde :"],["fais qu'en célébrant fidèlement le mystère de notre salut,"],["nous méritions d'en recueillir les fruits."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, durch das kostbare Blut deines Sohnes hast du die ganze Menschheit erlöst. Bewahre in uns, was dein Erbarmen gewirkt hat, und schenke uns immer neu die Frucht der Erlösung, sooft wir das Geheimnis unseres Heiles feiern. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"80","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"81","text":{"la":[{"k":"p","lines":[["Maiestáti tuæ, Dómine, oblatiónis nostræ múnera proferéntes, ad novi testaménti Mediatórem Iesum his mystériis accedámus, eiúsque aspersiónem sánguinis salutíferam innovémus. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, ao apresentar-vos os dons da nossa oblação, possamos por estes mistérios aproximar-nos de Jesus, o Mediador da nova aliança, e renovar-nos pela aspersão salutar do seu Sangue. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["As we offer our oblation to your majesty, o Lord, may we draw near in these mysteries"],["to Jesus, the mediator of the new Covenant,"],["and celebrate anew the sprinkling of his Blood, in which lies all our salvation."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Al presentar a tu majestad nuestras ofrendas,"],["te suplicamos, Señor,"],["que en estos misterios"],["nos acerquemos a Jesús,"],["Mediador de la nueva alianza,"],["y renovemos la aspersión salvadora de su Sangre."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Fa', o Padre, che presentando i nostri umili doni alla tua grandezza possiamo accostarci in questi misteri a Gesù, mediatore della nuova alleanza, e rinnovare in noi l'effusione redentrice del suo Sangue. Egli vive e regna nei secoli dei secoli.."]]}],"fr":[{"k":"p","lines":[["Dieu de majesté,"],["nous te présentons ces offrandes ;"],["puissions-nous, par la célébration de ces mystères,"],["nous avancer vers Jésus, le médiateur de l'Alliance nouvelle,"],["et renouveler le don qu'il fit de son sang"],["pour notre salut."],["Lui qui vit et règne pour les siècles des siècles"]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, wir kommen mit unseren Gaben zu deinem Altar. Lass uns durch die Feier dieses Opfers hintreten zum Mittler des Neuen Bundes und zur Besprengung mit seinem Blut. Erneuere in uns das Werk des Heiles, sooft wir diese Feier begehen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"82","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Prefacio"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"slot":"84","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. 1 Cor 10, 16"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. 1 Cor 10, 16"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. 1 Cor 10, 16"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. 1 Co 10, 16"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cfr 1 Cor 10, 16"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. 1 Cor 10, 16"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Vgl. 1 Kor 10, 16"}]},"part":"communionAntiphon"},{"slot":"85","text":{"la":[{"k":"p","lines":[["Calix benedictiónis, cui benedícimus, communicátio Sánguinis Christi est; et panis, quem frángimus, participátio Córporis Dómini est."]]}],"pt-BR":[{"k":"p","lines":[["O cálice de bênção que abençoamos é a comunhão no Sangue de Cristo; e o pão que partimos é a participação no Corpo do Senhor."]]}],"en-US":[{"k":"p","lines":[["The chalice of blessing that we bless"],["is a communion in the Blood of Christ; and the bread that we break"],["is a sharing in the Body of the Lord."]]}],"es":[{"k":"p","lines":[["El cáliz de la bendición que bendecimos es comunión de la Sangre de Cristo; el pan que partimos es participación del Cuerpo del Señor."]]}],"it":[{"k":"p","lines":[["Il calice della benedizione che noi benediciamo è comunione con il Sangue di Cristo. Il pane che noi spezziamo è comunione con il Corpo di Cristo."]]}],"fr":[{"k":"p","lines":[["Le calice de bénédiction que nous bénissons,"],["est communion au sang du Christ ;"],["le pain que nous rompons"],["est participation au corps du Seigneur."]]}],"de":[{"k":"p","lines":[["Der Kelch des Segens, über den wir den Segen sprechen, ist Teilhabe am Blut Christi; und das Brot, das wir brechen, ist Teilhabe am Leib Christi."]]}]},"part":"communionAntiphon"},{"slot":"86","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"87","text":{"la":[{"k":"p","lines":[["Cibo refécti, Dómine, potúque salútis, Salvatóris nostri, quǽsumus, semper sánguine perfundámur, qui fons aquæ nobis fiat in vitam saliéntis ætérnam. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, saciados com o alimento e a bebida da salvação, sejamos sempre banhados no Sangue do nosso Salvador que se faz para nós fonte de água que jorra para a vida eterna. Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Refreshed, o Lord, by this saving food and drink, we pray that we may always be bathed"],["in the Blood of our savior,"],["so that it may become for us"],["a spring of water welling up to eternal life."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Saciados con el alimento y la bebida de salvación,"],["te rogamos, Señor,"],["que derrames siempre sobre nosotros"],["la Sangre de nuestro Salvador,"],["y ella sea, para nosotros,"],["la fuente de agua viva"],["que salta hasta la vida eterna."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Signore, che ci hai nutriti con il pane della vita e il calice della salvezza, fa' che siamo sempre aspersi del Sangue del nostro Salvatore, per noi sorgente che zampilla per la vita eterna. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Tu as refait nos forces, Seigneur,"],["par la nourriture et la boisson qui donnent le salut :"],["que le sang de notre Sauveur"],["se répande toujours en nous,"],["et devienne une source"],["jaillissant pour la vie éternelle."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Heiliger Gott, du hast uns gestärkt durch das Brot des Lebens und den Kelch des Heiles. Das Blut unseres Erlösers reinige uns von aller Schuld und mache uns zu neuen Menschen. Es werde uns zum Quell, der hinüberfließt ins ewige Leben. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"},{"slot":"88","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or:"}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]}]},"part":"postcommunion","role":"rubric"},{"slot":"89","text":{"la":[{"k":"p","lines":[["Refécti cibo potúque cælésti, quǽsumus, omnípotens Deus, ut ab hóstium deféndas formídine, quos pretióso Fílii tui sánguine redemísti. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Saciados com o alimento e a bebida celestiais, nós vos pedimos, Deus todo-poderoso, que livreis do temor dos inimigos os que redimistes pelo precioso Sangue do vosso Filho. Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Restored with heavenly food and drink,"],["we beseech you, almighty God,"],["to protect from fear of their enemies"],["those you have redeemed by the Precious Blood of your Son. Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Saciados con el alimento y la bebida del cielo,"],["te rogamos, Dios todopoderoso,"],["que liberes del temor de los enemigos"],["a cuantos redimiste con la Sangre preciosa de tu Hijo."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, che ci hai nutriti con il cibo e la bevanda del cielo, difendi dal nemico i tuoi fedeli, redenti dal Sangue prezioso del tuo Figlio. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu tout-puissant,"],["tu as refait nos forces"],["par la nourriture et la boisson du ciel,"],["et nous te supplions encore :"],["protège contre la peur de l'Ennemi"],["ceux que tu as rachetés par le sang précieux de ton Fils."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, du hast uns gestärkt mit dem Brot des Lebens und dem Kelch des Heiles. Wie du einst die Kinder Israels durch das Blut des Lammes gerettet hast, so schütze auch uns in jeder Angst und Gefahr durch das kostbare Blut deines Sohnes, durch das wir erlöst sind. Darum bitten wir durch ihn, Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.14"],"title":{"la":"7. DE PRETIOSISSIMO SANGUINE DOMINI NOSTRI IESU ChristI","pt-BR":"7. PRECIOSÍSSIMO SANGUE DE NOSSO SENHOR JESUS CRISTO","en-US":"7. THE MOST PRECIOUS BLOOD OF OUR LORD JESUS CHRIST","es":"7. DE LA PRECIOSÍSIMA SANGRE DE NUESTRO SEÑOR JESUCRISTO","it":"7. PREZIOSISSIMO SANGUE DI N. S. GESÙ CRISTO","fr":"7. PRÉCIEUX SANG DE NOTRE SEIGNEUR JÉSUS CHRIST","de":"7. VOM KOSTBAREN BLUT UNSERES HERRN JESUS CHRISTUS"}}
+{
+ "id": "votive.7",
+ "kind": "votive",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "7. DE PRETIOSISSIMO SANGUINE DOMINI NOSTRI IESU ChristI"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In hac Missa adhibetur color ruber. "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "7. PRECIOSÍSSIMO SANGUE DE NOSSO SENHOR JESUS CRISTO"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Esta Missa celebra-se com vestes sagradas de cor vermelha."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "7. THE MOST PRECIOUS BLOOD OF OUR LORD JESUS CHRIST"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In this Mass, the color red is used."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "7. DE LA PRECIOSÍSIMA SANGRE DE NUESTRO SEÑOR JESUCRISTO"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Esta misa se dice con vestiduras de color rojo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "7. PREZIOSISSIMO SANGUE DI N. S. GESÙ CRISTO"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Colore liturgico rosso."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "7. PRÉCIEUX SANG DE NOTRE SEIGNEUR JÉSUS CHRIST"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pour cette messe, on emploie la couleur rouge."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "7. VOM KOSTBAREN BLUT UNSERES HERRN JESUS CHRISTUS"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diese Messe wird in roter Farbe gefeiert."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ap 5, 9-10"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Ap 5, 9-10"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ap 5, 9-10"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Ap 5, 9-10"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Ap 5, 9-10"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ap 5, 9-10"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Offb 5, 9-10"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Redemísti nos, Dómine, in sánguine tuo, ex omni tribu et lingua et pópulo et natióne, et fecísti nos Deo nostro regnum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vós nos redimistes, Senhor, pelo vosso sangue, de todas as raças, línguas, povos e nações, e fizestes de nós um reino e sacerdotes para nosso Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You have redeemed us, Lord, by your blood,"
+       ],
+       [
+        "from every tribe and tongue and people and nation, and have made us into a kingdom for our God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, con tu sangre has adquirido para Dios hombres de toda tribu, lengua, pueblo y nación; y has hecho de ellos para nuestro Dios un reino."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ci hai riscattati, Signore, con il tuo sangue, uomini di ogni tribù, lingua, popolo e nazione; hai fatto di noi un regno di sacerdoti per il nostro Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, tu nous as rachetés, par ton sang,"
+       ],
+       [
+        "de toute tribu, langue, peuple et nation,"
+       ],
+       [
+        "et tu as fait de nous, pour notre Dieu, un royaume."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, du hast uns durch dein Blut erkauft aus allen Stämmen und Sprachen, aus allen Völkern und Nationen, und du hast uns für unseren Gott zu Königen und zu Priestern gemacht."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui pretióso Unigéniti tui sánguine univérsos hómines redemísti, consérva in nobis opus misericórdiæ tuæ, ut, nostræ salútis mystérium iúgiter recoléntes, eiúsdem fructum cónsequi mereámur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que redimistes todos os seres humanos pelo precioso Sangue do vosso Filho Unigênito, conservai em nós a obra da vossa misericórdia, para que, celebrando sem cessar o mistério da nossa salvação, alcancemos os seus frutos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who by the Precious Blood of your only Begotten son have redeemed the whole world,"
+       ],
+       [
+        "preserve in us the work of your mercy,"
+       ],
+       [
+        "so that, ever honoring the mystery of our salvation,"
+       ],
+       [
+        "we may merit to obtain its fruits."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que has redimido a todos los hombres"
+       ],
+       [
+        "con la Sangre preciosa de tu Unigénito,"
+       ],
+       [
+        "conserva en nosotros la acción de tu misericordia,"
+       ],
+       [
+        "para que, celebrando siempre el misterio de nuestra salvactón,"
+       ],
+       [
+        "merezcamos alcanzar sus frutos."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Padre, che nel Sangue prezioso del tuo unigenito Figlio hai redento tutti gli uomini, custodisci in noi l'opera della tua misericordia perché, celebrando sempre il mistero della nostra salvezza, otteniamo il frutto della redenzione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as racheté tous les hommes"
+       ],
+       [
+        "par le sang précieux de ton Fils unique ;"
+       ],
+       [
+        "continue en nous l'œuvre de ta miséricorde :"
+       ],
+       [
+        "fais qu'en célébrant fidèlement le mystère de notre salut,"
+       ],
+       [
+        "nous méritions d'en recueillir les fruits."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, durch das kostbare Blut deines Sohnes hast du die ganze Menschheit erlöst. Bewahre in uns, was dein Erbarmen gewirkt hat, und schenke uns immer neu die Frucht der Erlösung, sooft wir das Geheimnis unseres Heiles feiern. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Maiestáti tuæ, Dómine, oblatiónis nostræ múnera proferéntes, ad novi testaménti Mediatórem Iesum his mystériis accedámus, eiúsque aspersiónem sánguinis salutíferam innovémus. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, ao apresentar-vos os dons da nossa oblação, possamos por estes mistérios aproximar-nos de Jesus, o Mediador da nova aliança, e renovar-nos pela aspersão salutar do seu Sangue. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As we offer our oblation to your majesty, o Lord, may we draw near in these mysteries"
+       ],
+       [
+        "to Jesus, the mediator of the new Covenant,"
+       ],
+       [
+        "and celebrate anew the sprinkling of his Blood, in which lies all our salvation."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al presentar a tu majestad nuestras ofrendas,"
+       ],
+       [
+        "te suplicamos, Señor,"
+       ],
+       [
+        "que en estos misterios"
+       ],
+       [
+        "nos acerquemos a Jesús,"
+       ],
+       [
+        "Mediador de la nueva alianza,"
+       ],
+       [
+        "y renovemos la aspersión salvadora de su Sangre."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fa', o Padre, che presentando i nostri umili doni alla tua grandezza possiamo accostarci in questi misteri a Gesù, mediatore della nuova alleanza, e rinnovare in noi l'effusione redentrice del suo Sangue. Egli vive e regna nei secoli dei secoli.."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu de majesté,"
+       ],
+       [
+        "nous te présentons ces offrandes ;"
+       ],
+       [
+        "puissions-nous, par la célébration de ces mystères,"
+       ],
+       [
+        "nous avancer vers Jésus, le médiateur de l'Alliance nouvelle,"
+       ],
+       [
+        "et renouveler le don qu'il fit de son sang"
+       ],
+       [
+        "pour notre salut."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, wir kommen mit unseren Gaben zu deinem Altar. Lass uns durch die Feier dieses Opfers hintreten zum Mittler des Neuen Bundes und zur Besprengung mit seinem Blut. Erneuere in uns das Werk des Heiles, sooft wir diese Feier begehen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 10, 16"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 10, 16"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 10, 16"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. 1 Co 10, 16"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cfr 1 Cor 10, 16"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. 1 Cor 10, 16"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Vgl. 1 Kor 10, 16"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Calix benedictiónis, cui benedícimus, communicátio Sánguinis Christi est; et panis, quem frángimus, participátio Córporis Dómini est."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O cálice de bênção que abençoamos é a comunhão no Sangue de Cristo; e o pão que partimos é a participação no Corpo do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The chalice of blessing that we bless"
+       ],
+       [
+        "is a communion in the Blood of Christ; and the bread that we break"
+       ],
+       [
+        "is a sharing in the Body of the Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El cáliz de la bendición que bendecimos es comunión de la Sangre de Cristo; el pan que partimos es participación del Cuerpo del Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il calice della benedizione che noi benediciamo è comunione con il Sangue di Cristo. Il pane che noi spezziamo è comunione con il Corpo di Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le calice de bénédiction que nous bénissons,"
+       ],
+       [
+        "est communion au sang du Christ ;"
+       ],
+       [
+        "le pain que nous rompons"
+       ],
+       [
+        "est participation au corps du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Kelch des Segens, über den wir den Segen sprechen, ist Teilhabe am Blut Christi; und das Brot, das wir brechen, ist Teilhabe am Leib Christi."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cibo refécti, Dómine, potúque salútis, Salvatóris nostri, quǽsumus, semper sánguine perfundámur, qui fons aquæ nobis fiat in vitam saliéntis ætérnam. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, saciados com o alimento e a bebida da salvação, sejamos sempre banhados no Sangue do nosso Salvador que se faz para nós fonte de água que jorra para a vida eterna. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Refreshed, o Lord, by this saving food and drink, we pray that we may always be bathed"
+       ],
+       [
+        "in the Blood of our savior,"
+       ],
+       [
+        "so that it may become for us"
+       ],
+       [
+        "a spring of water welling up to eternal life."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Saciados con el alimento y la bebida de salvación,"
+       ],
+       [
+        "te rogamos, Señor,"
+       ],
+       [
+        "que derrames siempre sobre nosotros"
+       ],
+       [
+        "la Sangre de nuestro Salvador,"
+       ],
+       [
+        "y ella sea, para nosotros,"
+       ],
+       [
+        "la fuente de agua viva"
+       ],
+       [
+        "que salta hasta la vida eterna."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, che ci hai nutriti con il pane della vita e il calice della salvezza, fa' che siamo sempre aspersi del Sangue del nostro Salvatore, per noi sorgente che zampilla per la vita eterna. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu as refait nos forces, Seigneur,"
+       ],
+       [
+        "par la nourriture et la boisson qui donnent le salut :"
+       ],
+       [
+        "que le sang de notre Sauveur"
+       ],
+       [
+        "se répande toujours en nous,"
+       ],
+       [
+        "et devienne une source"
+       ],
+       [
+        "jaillissant pour la vie éternelle."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heiliger Gott, du hast uns gestärkt durch das Brot des Lebens und den Kelch des Heiles. Das Blut unseres Erlösers reinige uns von aller Schuld und mache uns zu neuen Menschen. Es werde uns zum Quell, der hinüberfließt ins ewige Leben. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Refécti cibo potúque cælésti, quǽsumus, omnípotens Deus, ut ab hóstium deféndas formídine, quos pretióso Fílii tui sánguine redemísti. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Saciados com o alimento e a bebida celestiais, nós vos pedimos, Deus todo-poderoso, que livreis do temor dos inimigos os que redimistes pelo precioso Sangue do vosso Filho. Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Restored with heavenly food and drink,"
+       ],
+       [
+        "we beseech you, almighty God,"
+       ],
+       [
+        "to protect from fear of their enemies"
+       ],
+       [
+        "those you have redeemed by the Precious Blood of your Son. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Saciados con el alimento y la bebida del cielo,"
+       ],
+       [
+        "te rogamos, Dios todopoderoso,"
+       ],
+       [
+        "que liberes del temor de los enemigos"
+       ],
+       [
+        "a cuantos redimiste con la Sangre preciosa de tu Hijo."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, che ci hai nutriti con il cibo e la bevanda del cielo, difendi dal nemico i tuoi fedeli, redenti dal Sangue prezioso del tuo Figlio. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu tout-puissant,"
+       ],
+       [
+        "tu as refait nos forces"
+       ],
+       [
+        "par la nourriture et la boisson du ciel,"
+       ],
+       [
+        "et nous te supplions encore :"
+       ],
+       [
+        "protège contre la peur de l'Ennemi"
+       ],
+       [
+        "ceux que tu as rachetés par le sang précieux de ton Fils."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, du hast uns gestärkt mit dem Brot des Lebens und dem Kelch des Heiles. Wie du einst die Kinder Israels durch das Blut des Lammes gerettet hast, so schütze auch uns in jeder Angst und Gefahr durch das kostbare Blut deines Sohnes, durch das wir erlöst sind. Darum bitten wir durch ihn, Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.14"
+ ],
+ "title": {
+  "la": "7. DE PRETIOSISSIMO SANGUINE DOMINI NOSTRI IESU ChristI",
+  "pt-BR": "7. PRECIOSÍSSIMO SANGUE DE NOSSO SENHOR JESUS CRISTO",
+  "en-US": "7. THE MOST PRECIOUS BLOOD OF OUR LORD JESUS CHRIST",
+  "es": "7. DE LA PRECIOSÍSIMA SANGRE DE NUESTRO SEÑOR JESUCRISTO",
+  "it": "7. PREZIOSISSIMO SANGUE DI N. S. GESÙ CRISTO",
+  "fr": "7. PRÉCIEUX SANG DE NOTRE SEIGNEUR JÉSUS CHRIST",
+  "de": "7. VOM KOSTBAREN BLUT UNSERES HERRN JESUS CHRISTUS"
+ }
+}

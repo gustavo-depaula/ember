@@ -1,1 +1,1121 @@
-{"id":"tempore.advent.week-2.saturday","source":"tiempos/tiempos_advnav#A026","kind":"tempore","items":[{"slot":"163","text":{"la":[{"k":"h2","lines":[["Tempus Adventus"],["Hebdomada II"],["Sabbato"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo do Advento"],["Segunda semana"],["Sábado"]]}],"en-US":[{"k":"h2","lines":[["Advent Season"],["2nd Week: Saturday"]]}],"es":[{"k":"h2","lines":[["Tiempo de Adviento"],["Sábado de la II Semana"]]}],"it":[{"k":"h2","lines":[["Tempo di Avvento"],["II SETTIMANA"],["Sabato"]]}],"fr":[{"k":"h2","lines":[["Temps de l'Avent"],["2e semaine"],["Samedi"]]}],"de":[{"k":"h2","lines":[["SAMSTAG"],["der zweiten Adventswoche"]]}]},"part":"title"},{"slot":"164","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 79, 4. 2"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 79, 4. 2"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 80 (79): 4, 2"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 79, 4. 2"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cfr. Sal 79, 4.2"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 79, 4. 2"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Ps 80 (79), 4. 2"}]},"part":"entranceAntiphon"},{"slot":"165","text":{"la":[{"k":"p","lines":[["Veni, et osténde nobis fáciem tuam, Dómine, qui sedes super Chérubim, et salvi érimus."]]}],"pt-BR":[{"k":"p","lines":[["Vinde, Senhor, que estais acima dos querubins;"],["mostrai-nos a vossa face, e seremos salvos."]]}],"en-US":[{"k":"p","lines":[["Come and show us your face, O Lord,"],["who are seated upon the Cherubim, and we will be saved."]]}],"es":[{"k":"p","lines":[["Ven, Señor, tú que te sientas sobre querubines, muéstranos tu rostro y sálvanos."]]}],"it":[{"k":"p","lines":[["Vieni, e fa' splendere il tuo volto su di noi, o Signore, che siedi nei cieli, e noi saremo salvi."]]}],"fr":[{"k":"p","lines":[["Viens, Seigneur,"],["toi qui sièges au-dessus des Kéroubim ;"],["montre-nous ton visage,"],["et nous serons sauvés."]]}],"de":[{"k":"p","lines":[["Komm, Herr, lass dein Antlitz leuchten, so ist uns geholfen. Der du auf den Kerubim thronst, erscheine!"]]}]},"part":"entranceAntiphon"},{"slot":"166","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"167","text":{"la":[{"k":"p","lines":[["Oriátur, quǽsumus, omnípotens Deus, in córdibus nostris splendor glóriæ tuæ, ut, omni noctis obscuritáte subláta, fílios nos esse lucis Unigéniti tui maniféstet advéntus. Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Concedei-nos, ó Deus todo-poderoso,"],["que desponte em nossos corações"],["o esplendor da vossa glória,"],["para que, dissipada toda escuridão da noite,"],["a vinda do vosso Filho Unigênito revele"],["que somos filhos da luz."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["May the splendor of your glory dawn in our hearts, we pray, almighty God,"],["that all shadows of the night may be scattered"],["and we may be shown to be children of light"],["by the advent of your Only Begotten Son."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Amanezca en nuestros corazones, Dios todopoderoso,"],["el resplandor de tu gloria,"],["para que, disipadas las tinieblas de la noche,"],["la llegada de tu Unigénito manifieste"],["que somos hijos de la luz."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Sorga nei nostri cuori, Dio onnipotente, lo splendore della tua gloria, perché, vinta ogni oscurità della notte, la venuta del tuo Figlio unigenito manifesti al mondo che siamo figli della luce. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Que se lève en nos cœurs la splendeur de ta gloire,"],["nous t'en prions, Dieu tout-puissant ;"],["ainsi, l'avènement de ton Fils unique,"],["dissipant les ombres de la nuit,"],["fera voir au grand jour"],["que nous sommes fils de la lumière."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, lass deine Herrlichkeit in unseren Herzen aufstrahlen und nimm den Todesschatten der Sünde von uns, damit wir bei der Ankunft deines Sohnes als Kinder des Lichtes offenbar werden. Darum bitten wir durch ihn, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"168","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"169","text":{"la":[{"k":"p","lines":[["Devotiónis nostræ tibi, Dómine, quǽsumus, hóstia iúgiter immolétur, quæ et sacri péragat institúta mystérii, et salutáre tuum nobis poténter operétur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Possamos, Senhor, oferecer-vos sem cessar"],["este nosso sacrifício,"],["para que, ao celebrarmos o sacramento que nos destes,"],["realizem-se em nós as maravilhas da salvação."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May the sacrifice of our worship, Lord, we pray,"],["be offered to you unceasingly,"],["to complete what was begun in sacred mystery"],["and powerfully accomplish for us your saving work."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Haz, Señor,"],["que te ofrezcamos siempre este sacrificio"],["como expresión de nuestra propia entrega,"],["para que se realice el santo sacramento que tú instituiste"],["y se lleve a cabo en nosotros eficazmente"],["la obra de tu salvación."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Sempre si rinnovi, o Signore, l'offerta di questo sacrificio che attua il santo mistero da te istituito, e con la sua divina potenza renda efficace in noi l'opera della salvezza. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur,"],["accorde-nous de t'offrir toujours"],["ce sacrifice d'un cœur généreux :"],["qu'il réalise le mystère sacré que tu as institué,"],["et opère en nous ton salut avec puissance."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, in dieser Feier erfüllen wir den Auftrag deines Sohnes. Nimm unsere Gaben an und gib deiner Kirche die Gnade, immer und überall sein Opfer zu feiern. Schenke uns durch dieses Geheimnis dein Heil, das du der Welt bereitet hast. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"171","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Ap 22, 12"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Ap 22, 12"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Rev 22: 12"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Ap 22, 12"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Ap 22, 12"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Ap 22, 12"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Offb 22, 12"}]},"part":"communionAntiphon"},{"slot":"172","text":{"la":[{"k":"p","lines":[["Ecce vénio cito et merces mea mecum est, dicit Dóminus, dare unicuíque secúndum ópera sua."]]}],"pt-BR":[{"k":"p","lines":[["Eis que venho logo, diz o Senhor,"],["e trago comigo a recompensa;"],["darei a cada um segundo as suas obras."]]}],"en-US":[{"k":"p","lines":[["Behold, I am coming soon"],["and my recompense is with me, says the Lord,"],["to bestow a reward according to the deeds of each."]]}],"es":[{"k":"p","lines":[["Mira, yo vengo pronto y traeré mi recompensa conmigo, dice el Señor, para dar a cada uno según sus obras."]]}],"it":[{"k":"p","lines":[["«Ecco, io vengo presto e ho con me il mio salario», dice il Signore, «per rendere a ciascuno secondo le sue opere»"],[{"m":"rubric","t":"Oppure: "}],["Elia è già venuto e non l'hanno riconosciuto. Così anche il Figlio dell'uomo."]],"cite":"Mt 17, 12"}],"fr":[{"k":"p","lines":[["Voici que je viens sans tarder, dit le Seigneur,"],["et j'apporte avec moi le salaire"],["que je vais donner à chacun selon ce qu'il a fait."]]}],"de":[{"k":"p","lines":[["Siehe, ich komme bald, und mit mir kommt mein Lohn; und ich werde jedem nach seinem Tun vergelten - so spricht der Herr."]]}]},"part":"communionAntiphon"},{"slot":"173","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"174","text":{"la":[{"k":"p","lines":[["Tuam, Dómine, cleméntiam implorámus, ut hæc divína subsídia, a vítiis expiátos, ad festa ventúra nos prǽparent. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Imploramos, Senhor, vossa clemência,"],["para que estes divinos auxílios"],["nos purifiquem dos pecados"],["e nos preparem para as festas que se aproximam."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["We implore your mercy, Lord,"],["that this divine sustenance"],["may cleanse us of our faults"],["and prepare us for the coming feasts."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Imploramos tu misericordia, Señor,"],["para que este divino alimento"],["que hemos recibido"],["nos purifique del pecado"],["y nos prepare a las fiestas que se acercan."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Imploriamo, o Signore, la tua misericordia: la forza divina di questo sacramento ci purifichi dal peccato e ci prepari alle feste del Natale. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Nous implorons, Seigneur, ta bonté :"],["que ce réconfort divin"],["nous délivre de nos penchants mauvais"],["et nous prépare aux fêtes qui approchent."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, komm durch dieses heilige Mahl uns schwachen Menschen zu Hilfe. Reinige uns von Schuld und mache uns bereit für das kommende Fest. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":13,"prefaces":["preface.1","preface.3"],"title":{"la":"Tempus Adventus — Hebdomada II — Sabbato","pt-BR":"Tempo do Advento — Segunda semana — Sábado","en-US":"Advent Season — 2nd Week: Saturday","es":"Tiempo de Adviento — Sábado de la II Semana","it":"Tempo di Avvento — II SETTIMANA — Sabato","fr":"Temps de l'Avent — 2e semaine — Samedi","de":"SAMSTAG — der zweiten Adventswoche"}}
+{
+ "id": "tempore.advent.week-2.saturday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Adventus"
+       ],
+       [
+        "Hebdomada II"
+       ],
+       [
+        "Sabbato"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo do Advento"
+       ],
+       [
+        "Segunda semana"
+       ],
+       [
+        "Sábado"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Advent Season"
+       ],
+       [
+        "2nd Week: Saturday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo de Adviento"
+       ],
+       [
+        "Sábado de la II Semana"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo di Avvento"
+       ],
+       [
+        "II SETTIMANA"
+       ],
+       [
+        "Sabato"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps de l'Avent"
+       ],
+       [
+        "2e semaine"
+       ],
+       [
+        "Samedi"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "SAMSTAG"
+       ],
+       [
+        "der zweiten Adventswoche"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 79, 4. 2"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 79, 4. 2"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 80 (79): 4, 2"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 79, 4. 2"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cfr. Sal 79, 4.2"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 79, 4. 2"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Ps 80 (79), 4. 2"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Veni, et osténde nobis fáciem tuam, Dómine, qui sedes super Chérubim, et salvi érimus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vinde, Senhor, que estais acima dos querubins;"
+       ],
+       [
+        "mostrai-nos a vossa face, e seremos salvos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Come and show us your face, O Lord,"
+       ],
+       [
+        "who are seated upon the Cherubim, and we will be saved."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ven, Señor, tú que te sientas sobre querubines, muéstranos tu rostro y sálvanos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vieni, e fa' splendere il tuo volto su di noi, o Signore, che siedi nei cieli, e noi saremo salvi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Viens, Seigneur,"
+       ],
+       [
+        "toi qui sièges au-dessus des Kéroubim ;"
+       ],
+       [
+        "montre-nous ton visage,"
+       ],
+       [
+        "et nous serons sauvés."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Komm, Herr, lass dein Antlitz leuchten, so ist uns geholfen. Der du auf den Kerubim thronst, erscheine!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oriátur, quǽsumus, omnípotens Deus, in córdibus nostris splendor glóriæ tuæ, ut, omni noctis obscuritáte subláta, fílios nos esse lucis Unigéniti tui maniféstet advéntus. Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concedei-nos, ó Deus todo-poderoso,"
+       ],
+       [
+        "que desponte em nossos corações"
+       ],
+       [
+        "o esplendor da vossa glória,"
+       ],
+       [
+        "para que, dissipada toda escuridão da noite,"
+       ],
+       [
+        "a vinda do vosso Filho Unigênito revele"
+       ],
+       [
+        "que somos filhos da luz."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the splendor of your glory dawn in our hearts, we pray, almighty God,"
+       ],
+       [
+        "that all shadows of the night may be scattered"
+       ],
+       [
+        "and we may be shown to be children of light"
+       ],
+       [
+        "by the advent of your Only Begotten Son."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Amanezca en nuestros corazones, Dios todopoderoso,"
+       ],
+       [
+        "el resplandor de tu gloria,"
+       ],
+       [
+        "para que, disipadas las tinieblas de la noche,"
+       ],
+       [
+        "la llegada de tu Unigénito manifieste"
+       ],
+       [
+        "que somos hijos de la luz."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sorga nei nostri cuori, Dio onnipotente, lo splendore della tua gloria, perché, vinta ogni oscurità della notte, la venuta del tuo Figlio unigenito manifesti al mondo che siamo figli della luce. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que se lève en nos cœurs la splendeur de ta gloire,"
+       ],
+       [
+        "nous t'en prions, Dieu tout-puissant ;"
+       ],
+       [
+        "ainsi, l'avènement de ton Fils unique,"
+       ],
+       [
+        "dissipant les ombres de la nuit,"
+       ],
+       [
+        "fera voir au grand jour"
+       ],
+       [
+        "que nous sommes fils de la lumière."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, lass deine Herrlichkeit in unseren Herzen aufstrahlen und nimm den Todesschatten der Sünde von uns, damit wir bei der Ankunft deines Sohnes als Kinder des Lichtes offenbar werden. Darum bitten wir durch ihn, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Devotiónis nostræ tibi, Dómine, quǽsumus, hóstia iúgiter immolétur, quæ et sacri péragat institúta mystérii, et salutáre tuum nobis poténter operétur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Possamos, Senhor, oferecer-vos sem cessar"
+       ],
+       [
+        "este nosso sacrifício,"
+       ],
+       [
+        "para que, ao celebrarmos o sacramento que nos destes,"
+       ],
+       [
+        "realizem-se em nós as maravilhas da salvação."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the sacrifice of our worship, Lord, we pray,"
+       ],
+       [
+        "be offered to you unceasingly,"
+       ],
+       [
+        "to complete what was begun in sacred mystery"
+       ],
+       [
+        "and powerfully accomplish for us your saving work."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Haz, Señor,"
+       ],
+       [
+        "que te ofrezcamos siempre este sacrificio"
+       ],
+       [
+        "como expresión de nuestra propia entrega,"
+       ],
+       [
+        "para que se realice el santo sacramento que tú instituiste"
+       ],
+       [
+        "y se lleve a cabo en nosotros eficazmente"
+       ],
+       [
+        "la obra de tu salvación."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sempre si rinnovi, o Signore, l'offerta di questo sacrificio che attua il santo mistero da te istituito, e con la sua divina potenza renda efficace in noi l'opera della salvezza. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur,"
+       ],
+       [
+        "accorde-nous de t'offrir toujours"
+       ],
+       [
+        "ce sacrifice d'un cœur généreux :"
+       ],
+       [
+        "qu'il réalise le mystère sacré que tu as institué,"
+       ],
+       [
+        "et opère en nous ton salut avec puissance."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, in dieser Feier erfüllen wir den Auftrag deines Sohnes. Nimm unsere Gaben an und gib deiner Kirche die Gnade, immer und überall sein Opfer zu feiern. Schenke uns durch dieses Geheimnis dein Heil, das du der Welt bereitet hast. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Ap 22, 12"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Ap 22, 12"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Rev 22: 12"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Ap 22, 12"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Ap 22, 12"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Ap 22, 12"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Offb 22, 12"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce vénio cito et merces mea mecum est, dicit Dóminus, dare unicuíque secúndum ópera sua."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eis que venho logo, diz o Senhor,"
+       ],
+       [
+        "e trago comigo a recompensa;"
+       ],
+       [
+        "darei a cada um segundo as suas obras."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Behold, I am coming soon"
+       ],
+       [
+        "and my recompense is with me, says the Lord,"
+       ],
+       [
+        "to bestow a reward according to the deeds of each."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mira, yo vengo pronto y traeré mi recompensa conmigo, dice el Señor, para dar a cada uno según sus obras."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Ecco, io vengo presto e ho con me il mio salario», dice il Signore, «per rendere a ciascuno secondo le sue opere»"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ],
+       [
+        "Elia è già venuto e non l'hanno riconosciuto. Così anche il Figlio dell'uomo."
+       ]
+      ],
+      "cite": "Mt 17, 12"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici que je viens sans tarder, dit le Seigneur,"
+       ],
+       [
+        "et j'apporte avec moi le salaire"
+       ],
+       [
+        "que je vais donner à chacun selon ce qu'il a fait."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Siehe, ich komme bald, und mit mir kommt mein Lohn; und ich werde jedem nach seinem Tun vergelten - so spricht der Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tuam, Dómine, cleméntiam implorámus, ut hæc divína subsídia, a vítiis expiátos, ad festa ventúra nos prǽparent. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Imploramos, Senhor, vossa clemência,"
+       ],
+       [
+        "para que estes divinos auxílios"
+       ],
+       [
+        "nos purifiquem dos pecados"
+       ],
+       [
+        "e nos preparem para as festas que se aproximam."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We implore your mercy, Lord,"
+       ],
+       [
+        "that this divine sustenance"
+       ],
+       [
+        "may cleanse us of our faults"
+       ],
+       [
+        "and prepare us for the coming feasts."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Imploramos tu misericordia, Señor,"
+       ],
+       [
+        "para que este divino alimento"
+       ],
+       [
+        "que hemos recibido"
+       ],
+       [
+        "nos purifique del pecado"
+       ],
+       [
+        "y nos prepare a las fiestas que se acercan."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Imploriamo, o Signore, la tua misericordia: la forza divina di questo sacramento ci purifichi dal peccato e ci prepari alle feste del Natale. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous implorons, Seigneur, ta bonté :"
+       ],
+       [
+        "que ce réconfort divin"
+       ],
+       [
+        "nous délivre de nos penchants mauvais"
+       ],
+       [
+        "et nous prépare aux fêtes qui approchent."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, komm durch dieses heilige Mahl uns schwachen Menschen zu Hilfe. Reinige uns von Schuld und mache uns bereit für das kommende Fest. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 13,
+ "prefaces": [
+  "preface.1",
+  "preface.3"
+ ],
+ "title": {
+  "la": "Tempus Adventus — Hebdomada II — Sabbato",
+  "pt-BR": "Tempo do Advento — Segunda semana — Sábado",
+  "en-US": "Advent Season — 2nd Week: Saturday",
+  "es": "Tiempo de Adviento — Sábado de la II Semana",
+  "it": "Tempo di Avvento — II SETTIMANA — Sabato",
+  "fr": "Temps de l'Avent — 2e semaine — Samedi",
+  "de": "SAMSTAG — der zweiten Adventswoche"
+ }
+}

@@ -1,0 +1,4027 @@
+{
+ "id": "priest-prayers.fr",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "html"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "TEMPORA"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h1",
+      "lines": [
+       [
+        "Missale Romanum"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Devotionarium"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacerdotale"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "IGMR"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "MR"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Exposition et Bénédiction Eucharistique"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pange, lingua, gloriósi"
+       ],
+       [
+        "Córporis mystérium,"
+       ],
+       [
+        "Sanguinísque pretiósi,"
+       ],
+       [
+        "quem in mundi prétium"
+       ],
+       [
+        "fructus ventris generósi"
+       ],
+       [
+        "Rex effúdit géntium."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chante, ô ma langue, le mystère"
+       ],
+       [
+        "de ce corps très glorieux"
+       ],
+       [
+        "et de ce sang si précieux"
+       ],
+       [
+        "que le Roi de nations"
+       ],
+       [
+        "issu d'une noble lignée"
+       ],
+       [
+        "versa pour le prix de ce monde."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "* * *"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tantum ergo sacraméntum"
+       ],
+       [
+        "venerémur cérnui,"
+       ],
+       [
+        "et antiquum documéntum"
+       ],
+       [
+        "novo cedat rítui;"
+       ],
+       [
+        "præstet fides suppleméntum"
+       ],
+       [
+        "sénsuum deféctui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Adorons donc, prosternés"
+       ],
+       [
+        "Un si grand Sacrement ;"
+       ],
+       [
+        "Que l'ancien rite"
+       ],
+       [
+        "cède la place à ce nouveau mystère :"
+       ],
+       [
+        "que la foi supplée à la faiblesse de nos sens."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Genitóri Genitóque"
+       ],
+       [
+        "laus et iubilátio,"
+       ],
+       [
+        "salus, honor, virtus quoque"
+       ],
+       [
+        "sit et benedíctio;"
+       ],
+       [
+        "procedénti ab utróque"
+       ],
+       [
+        "compar sit laudátio."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qu'au Père et au Fils"
+       ],
+       [
+        "soient honneur et louange, salut,"
+       ],
+       [
+        "gloire, puissance et bénédiction :"
+       ],
+       [
+        "même hommage à Celui qui"
+       ],
+       [
+        "procède de l'un et de l'autre. Amén."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Panem de cælo præstitísti eis ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "Allelúia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Vous leur avez donné un pain descendu du ciel ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Omne delectamén­tum in se habéntem ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "Allelúia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Un pain délicieux ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oraison"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "ORÉMUS"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui nobis sub sacraménto mirábili passiónis"
+       ],
+       [
+        "tuæ"
+       ],
+       [
+        "memóriam Reliquísti, tríbue, quǽsumus, ita nos Córporis et Sánguinis tui"
+       ],
+       [
+        "sacra mystéria venerári, ut redemptiónis tuæ fructum in nobis iúgiter"
+       ],
+       [
+        "sentiámus. Qui vivís et regnas in sǽcula sǽculórum."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu, dans cet admirable sacrement"
+       ],
+       [
+        "tu nous as laissé le mémorial de ta passion ;"
+       ],
+       [
+        "donne-nous de vénérer d'un si grand amour"
+       ],
+       [
+        "les mystères de ton corps et de ton sang,"
+       ],
+       [
+        "que nous puissions recueillir sans cesse"
+       ],
+       [
+        "le fruit de la rédemption."
+       ],
+       [
+        "Toi qui vis et règnes pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/ . "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/ . "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "* * *"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu soit béni."
+       ],
+       [
+        "Béni soit son saint Nom."
+       ],
+       [
+        "Béni soit Jésus Christ, vrai Dieu et vrai homme."
+       ],
+       [
+        "Béni soit le nom de Jésus."
+       ],
+       [
+        "Béni soit son Cœur sacré."
+       ],
+       [
+        "Béni soit son très précieux Sang."
+       ],
+       [
+        "Béni soit Jésus dans le très saint sacrement de l'autel."
+       ],
+       [
+        "Béni soit l'Esprit Saint consolateur."
+       ],
+       [
+        "Bénie soit l'auguste Mère de Dieu, la très sainte Vierge Marie."
+       ],
+       [
+        "Bénie soit sa sainte et immaculée Conception."
+       ],
+       [
+        "Bénie soit sa glorieuse Assomption."
+       ],
+       [
+        "Béni soit le nom de Marie, Vierge et Mère."
+       ],
+       [
+        "Béni soit saint Joseph, son très chaste époux."
+       ],
+       [
+        "Béni soit Dieu en ses anges et en ses saints."
+       ],
+       [
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "* * *"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Laudáte Dóminum omnes gentes:"
+       ],
+       [
+        "laudáte eum, omnes pópuli."
+       ],
+       [
+        "Quóniam confirmáta est super nos misericórdia eius,"
+       ],
+       [
+        "et véritas Dómini manet in ætérnum."
+       ],
+       [
+        "Glória Patri, et Fílio, et Spirítui Sancto."
+       ],
+       [
+        "Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Louez le Seigneur tous les peuples,"
+       ],
+       [
+        "louez le Seigneur toutes les nations,"
+       ],
+       [
+        "sa miséricorde pour nous a été confirmée"
+       ],
+       [
+        "et la fidélité du Seigneur demeure à jamais."
+       ],
+       [
+        "Gloire au Père, et au Fils, et au Saint-Esprit."
+       ],
+       [
+        "Comme il était au commencement, maintenant et toujours,"
+       ],
+       [
+        "pour les siècles des siècles."
+       ],
+       [
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "RITE DE LA PÉNITENCE"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le pénitent fait la salutation habituelle :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Bénissez-moi, mon Père, parce que j’ai péché."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien, commencer par le Je confesse à Dieu."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le pénitent fait le signe de la Croix, en disant :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Au nom du Père, et du Fils, et du Saint-Esprit. Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le prêtre peut inviter à la confiance en Dieu, en disant par exemple :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que le Seigneur vous inspire les paroles justes et les sentiments vrais pour confesser avec contrition vos péchés."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le prêtre, ou le pénitent lui-même, dit quelques mots de la Sainte Écriture ayant trait à la miséricorde de Dieu et au repentir, par exemple :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Seigneur, tu sais tout, tu sais bien que je t’aime."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je confesse à Dieu tout-puissant,"
+       ],
+       [
+        "je reconnais devant vous, frères et sœurs,"
+       ],
+       [
+        "que j'ai péché"
+       ],
+       [
+        "en pensée, en parole,"
+       ],
+       [
+        "par action et par omission"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "en se frappant la poitrine"
+        }
+       ],
+       [
+        "oui, j'ai vraiment péché."
+       ],
+       [
+        "C'est pourquoi je supplie la bienheureuse Vierge Marie,"
+       ],
+       [
+        "les anges et tous les saints,"
+       ],
+       [
+        "et vous aussi, frères et sœurs,"
+       ],
+       [
+        "de prier pour moi le Seigneur notre Dieu."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Le pénitent s’accuse de ses péchés."
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le prêtre lui donne les conseils opportuns et lui impose la pénitence."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Puis le prêtre invite le pénitent à manifester sa contrition."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Le pénitent peut dire par exemple :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Mon Dieu, j’ai un très grand regret de t’avoir offensé, parce que tu es infiniment bon, infiniment aimable et que le péché te déplaît."
+       ],
+       [
+        "Je prends la ferme résolution, avec le secours de ta sainte grâce, de ne plus t’offenser et de faire pénitence. Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Jésus, Fils de Dieu Sauveur, prends pitié de moi pécheur."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le prêtre, étendant les mains (ou au moins la main droite) vers le pénitent, lui donne l’absolution :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que Dieu notre Père vous montre sa miséricorde ; par la mort et la résurrection de son Fils, Il a réconcilié le monde avec Lui et Il a envoyé l’Esprit Saint pour la rémission des péchés ; par le ministère de l’Église qu’Il vous donne le pardon et la paix."
+       ],
+       [
+        "ET MOI, AU NOM DU PÈRE ET DU FILS ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " ET DU SAINT-ESPRIT, JE VOUS PARDONNE TOUS VOS PÉCHÉS."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Après avoir donné l’absolution, le prêtre invite le pénitent à l’action de grâce, en disant :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que la Passion de Jésus Christ, notre Seigneur, l’intercession de la Vierge Marie et de tous les saints, tout ce que vous ferez de bon et supporterez de pénible, contribue au pardon de vos péchés, augmente en vous la grâce pour que vous viviez avec Dieu."
+       ],
+       [
+        "Allez en paix."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "RITE DE LA COMMUNION DES MALADES"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Lorsqu’il arrive auprès du malade, le prêtre le salue ainsi que les personnes qui l’entourent. Il le fait d'une manière simple et amicale. Il peut aussi employer pour cela telle salutaion tirée de l'Écriture."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Paix à cette maison et à tous ceux qui l’habitent."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Et avec votre esprit."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Puis il dépose sur la table le pain consacré et tous observent un temps de silence qui favorise le recueillement et l’adoration."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": " On peut faire usage de l'eau bénite. Le prêtre présente l'eau en disant par exemple :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cette eau nous rappelle notre baptême :"
+       ],
+       [
+        "elle nous fait souvenir du Christ"
+       ],
+       [
+        "qui nous sauve par sa croix et sa résurrection."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Successivement, le prêtre, puis le malade s'il le peut,"
+       ],
+       [
+        "et les assistants prennent de l'eau pour se signer. Cette manière de"
+       ],
+       [
+        "faire semble préférable à l'aspersion toujours possible, mais qui évoque"
+       ],
+       [
+        "les rites funéraires."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le ministre invite à la pénitence le malade et les personnes présentes, par exemple en ces termes :"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "En présence du Seigneur,"
+       ],
+       [
+        "nous qui croyons en lui,"
+       ],
+       [
+        "reconnaissons que nous sommes pécheurs."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On fait une brève pause en silence. Vient ensuite la confession :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je confesse à Dieu tout-puissant,"
+       ],
+       [
+        "je reconnais devant vous, frères et sœurs,"
+       ],
+       [
+        "que j'ai péché"
+       ],
+       [
+        "en pensée, en parole,"
+       ],
+       [
+        "par action et par omission"
+       ],
+       [
+        "oui, j'ai vraiment péché."
+       ],
+       [
+        "C'est pourquoi je supplie la bienheureuse Vierge Marie,"
+       ],
+       [
+        "les anges et tous les saints,"
+       ],
+       [
+        "et vous aussi, frères et sœurs,"
+       ],
+       [
+        "de prier pour moi le Seigneur notre Dieu."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le ministre dit la prière pour le pardon : :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que Dieu tout-puissant"
+       ],
+       [
+        "nous fasse miséricorde ;"
+       ],
+       [
+        "qu’il nous pardonne nos péchés"
+       ],
+       [
+        "et nous conduise à la vie éternelle."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "COURTE LECTURE DE LA PAROLE DE DIEU"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le ministre, s’il est prêtre ou diacre, dit :"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Le Seigneur soit avec vous."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Et avec votre esprit."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": " Le ministre continue :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Après avoir multiplié les pains,"
+       ],
+       [
+        "Jésus disait à la foule :"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "« Je suis le pain vivant,"
+       ],
+       [
+        "qui est descendu du ciel :"
+       ],
+       [
+        "si quelqu'un mange de ce pain,"
+       ],
+       [
+        "il vivra éternellement."
+       ],
+       [
+        "Le pain que je donnerai, c'est ma chair,"
+       ],
+       [
+        "donnée pour que le monde ait la vie. »"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Parole du Seigneur."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ensuite le ministre introduit le Notre Père, en ces termes ou d'autres semblables :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Comme nous l'avons appris du Seigneur,"
+       ],
+       [
+        "et selon son commandement,"
+       ],
+       [
+        "nous osons dire :"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Tous continuent :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Notre Père, qui es aux cieux,"
+       ],
+       [
+        "que ton nom soit sanctifié,"
+       ],
+       [
+        "que ton règne vienne,"
+       ],
+       [
+        "que ta volonté soit faite sur la terre comme au ciel."
+       ],
+       [
+        "Donne-nous aujourd’hui"
+       ],
+       [
+        "notre pain de ce jour."
+       ],
+       [
+        "Pardonne-nous nos offenses,"
+       ],
+       [
+        "comme nous pardonnons aussi"
+       ],
+       [
+        "à ceux qui nous ont offensés."
+       ],
+       [
+        "Et ne nous laisse pas entrer en tentation,"
+       ],
+       [
+        "mais délivre-nous du Mal. Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Puis le ministre montre le pain (le vin) consacré en disant :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Heureux les invités au repas du Seigneur !"
+       ],
+       [
+        "Voici l’Agneau de Dieu"
+       ],
+       [
+        "qui enlève le péché du monde."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, je ne suis pas digne de te recevoir,"
+       ],
+       [
+        "mais dis seulement une parole"
+       ],
+       [
+        "et je serai guéri."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le ministre s’approche du malade et lui montrant le pain (le vin) consacré il dit :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Le Corps du Christ (ou Le Sang du Christ)."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et il communie."
+       ],
+       [
+        "Les autres personnes présentes qui désirent communier reçoivent ensuite la communion de la manière habituelle."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La distribution de la communion achevée, le prêtre, s'il ne doit pas porter la communion ailleurs, fait discrètement les purifications d’usage, s’il y a lieu. On peut alors prier un moment en silence. Le prêtre peut inviter à cette prière en disant, par exemple :"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Prions le Seigneur."
+       ],
+       [
+        "Père très saint, Dieu éternel et tout-puissant, nous te supplions de prendre soin de notre frère ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "sœur",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " :"
+       ],
+       [
+        "Pour le bien de son corps et de son âme,"
+       ],
+       [
+        "donne-lui de trouver un remède éternel"
+       ],
+       [
+        "dans cette communion au Corps ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "au sang",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " de Jésus Christ."
+       ],
+       [
+        "Lui qui règne avec toi et le Saint-Esprit,"
+       ],
+       [
+        "maintenant et pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien, en temps pascal :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Prions. Répands, Seigneur, sur nous ton Esprit de charité, afin que ceux qui ont participé au même Sacrement pascal demeurent toujours unis dans ton amour. Par Jésus-Christ notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "RITE DE CONCLUSION"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Le Seigneur soit avec vous."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Et avec votre esprit."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Que la bénédiction de Dieu tout-puissant, Père, Fils, ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " et Saint-Esprit, descende sur vous et y demeure à jamais."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Bénédiction de l'eau en dehors de la Messe"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Rites initiaux"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le célébrant commence en disant :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Au nom du Père, et du Fils, et du Saint-Esprit."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le célébrant salue les personnes présentes, en disant par exemple :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que Dieu notre Père,"
+       ],
+       [
+        "qui nous fait renaître dans le Christ"
+       ],
+       [
+        "par l’eau et l’Esprit Saint,"
+       ],
+       [
+        "soit toujours avec vous,"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Et avec votre esprit."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il peut préparer les fidèles à la célébration, en disant par exemple :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Par cette bénédiction de l’eau, nous nous souvenons que le Christ est l’eau vive, nous nous souvenons de notre propre baptême, où nous sommes renés de l’eau et de l’Esprit-Saint. Chaque fois que nous prenons cette eau en faisant le signe de la croix, soit en entrant dans l’église, soit à la maison, nous rendons grâce à Dieu pour son don ineffable, nous implorons son secours pour garder dans notre vie le sacrement que nous avons reçu dans la foi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Lecture de la Parole de Dieu"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Une des personnes présentes (ou le célébrant lui-même) lit un court passage de la Bible :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Écoutons la Parole du Seigneur dans l’Évangile selon saint Jean :"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Au jour solennel où se terminait la fête, Jésus, debout, s'écria :"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "« Si quelqu'un a soif, qu'il vienne à moi, et qu'il boive, celui qui croit en moi ! Comme dit l'Écriture : Des fleuves d'eau vive jailliront de son cœur. »"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En disant cela, il parlait de l'Esprit Saint, l'Esprit que devaient recevoir ceux qui croiraient en Jésus. En effet, l'Esprit Saint n'avait pas encore été donné, parce que Jésus n'avait pas encore été glorifié par le Père."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prière de bénédiction"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le célébrant invite à la prière."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Tous prient quelques instants en silence. Puis le célébrant dit la prière de bénédiction, les mains étendues :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prions."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu es béni, Seigneur tout-puissant,"
+       ],
+       [
+        "car tu nous as bénis dans le Christ,"
+       ],
+       [
+        "Tu nous as recréés en lui,"
+       ],
+       [
+        "qui est l’eau vive de notre salut ;"
+       ],
+       [
+        "Accorde à ceux qui seront aspergés de cette eau"
+       ],
+       [
+        "de retrouver la jeunesse de l’âme"
+       ],
+       [
+        "par la puissance du Saint-Esprit"
+       ],
+       [
+        "et d’avancer sur le chemin de la vie nouvelle."
+       ],
+       [
+        "Par Jésus le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, Père saint,"
+       ],
+       [
+        "toi qui nous as rachetés par ton Fils"
+       ],
+       [
+        "et qui nous as fait renaître"
+       ],
+       [
+        "par le baptême d’eau et d’Esprit-Saint,"
+       ],
+       [
+        "regarde vers nous, nous t’en prions :"
+       ],
+       [
+        "accorde à ceux qui seront aspergés de cette eau"
+       ],
+       [
+        "d’être renouvelés dans leur corps et leur esprit"
+       ],
+       [
+        "et de te servir avec un cœur pur."
+       ],
+       [
+        "Par Jésus, le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le célébrant asperge ensuite les personnes présentes en disant, s'il le juge bon :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que cette eau vous rappelle votre baptême dans le Christ,"
+       ],
+       [
+        "lui qui nous a rachetés par sa passion et sa résurrection."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Absolution des censures"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Lorsque le prêtre, conformément au droit, absout un pénitent d'une censure en dehors du sacrement de la pénitence, il utilise la formule suivante :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En vertu du pouvoir qui m'a été accordé, je vous absous d'excommunication ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "ou de suspense, ou d'interdit",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        ", Au nom du Père, et du Fils, ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " et du Saint-Esprit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "BÉNÉDICTION DES PERSONNES"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "En toute circonstance, le prêtre ou le diacre peut bénir une ou plusieurs personnes, en disant, les mains étendues au dessus d'elles :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que le Seigneur vous bénisse et vous garde."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ],
+       [
+        "Que le Seigneur tourne vers vous son visage et vous accorde sa grâce."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ],
+       [
+        "Que le Seigneur tourne vers vous son visage et vous apporte la paix."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ],
+       [
+        "Et que Dieu tout-puissant vous bénisse,"
+       ],
+       [
+        "le Père, le Fils ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        ", et le Saint Esprit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que la paix de Dieu,"
+       ],
+       [
+        "qui dépasse tout ce qu'on peut imaginer,"
+       ],
+       [
+        "garde vos cœurs et vos pensées"
+       ],
+       [
+        "dans le Christ Jésus, notre Seigneur."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ],
+       [
+        "Et que Dieu tout-puissant vous bénisse,"
+       ],
+       [
+        "le Père, le Fils ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        ", et le Saint Esprit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que Dieu le Père vous remplisse"
+       ],
+       [
+        "de joie et d'espérance, dans votre foi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ],
+       [
+        "Que la paix du Christ exulte dans votre coeur."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ],
+       [
+        "Que la puissance de l'Esprit Saint"
+       ],
+       [
+        "développe en vous tous ses dons."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ],
+       [
+        "Et que Dieu tout-puissant vous bénisse,"
+       ],
+       [
+        "le Père, le Fils ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        ", et le Saint Esprit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La grâce de Jésus, notre Seigneur,"
+       ],
+       [
+        "l'amour de Dieu le Père"
+       ],
+       [
+        "et la communion de l'Esprit Saint"
+       ],
+       [
+        "soient toujours avec vous."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Et avec votre esprit."
+       ],
+       [
+        "Et que Dieu tout-puissant vous bénisse,"
+       ],
+       [
+        "le Père, le Fils ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        ", et le Saint Esprit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que Dieu notre Père comble tous vos besoins selon la richesse de sa grâce dans le Christ Jésus, notre Seigneur."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ],
+       [
+        "Et que Dieu tout-puissant vous bénisse,"
+       ],
+       [
+        "le Père, le Fils ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        ", et le Saint Esprit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "L’Onction lorsque l’on doute si le malade est encore"
+       ],
+       [
+        "vivant"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "i l'on doute vraiment que le malade soit mort, on donnera le sacrement. Mais le doute doit être réel et fondé. On pourrait sur ce point prendre en considération l'attitude pratique du médecin ou du corps hospitalier. Donner systématiquement l'Onction sous condition contredirait l'effort d'éducation à ce sacrement."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Si le prêtre doute vraiment que le malade vive encore, il lui donnera l'Onction de cette manière :"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "En arrivant auprès du malade, s’il croit en avoir le temps, il dit d’abord aux personnes présentes :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prions pour notre frère ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " avec toute notre foi. Demandons que l’amour de Dieu vienne à son secours et que l’Onction sainte le fortifie dans son passage vers le Père."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ô Seigneur, écoute et prends pitié."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Et aussitôt, il donne l’Onction, en disant :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " par cette onction sainte,"
+       ],
+       [
+        "que le Seigneur, en sa grande bonté,"
+       ],
+       [
+        "vous réconforte par la grâce de l’Esprit Saint."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ],
+       [
+        "Ainsi, vous voyant libéré de tous péchés,"
+       ],
+       [
+        "qu’il vous sauve et vous relève."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Selon les circonstances, il peut ajouter une prière parmi celles proposées dans le rituel de l’Onction des malades."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "L’ONCTION DES MALADES EN CAS DE PÉRIL PROCHAIN DE MORT ET EN CAS D’URGENCE"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "En cas de péril prochain de mort, si l'on doit donner seulement l'Onction des malades, on se servira du rituel ci-dessous."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "En cas d'urgance ou d'extrême urgence, le rite peut alors se limiter à l'imposition des mains, et à l'Onction d'huile suivie d'une prière. (Un encadrement spécial signale ces actions importantes). Dans ce cas spécialement, le prêtre aura soin que sa présence et les quelques gestes qu'il accomplira soient signes de tout ce qu'il ne peut exprimer autrement."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "ENTRÉE EN CÉLÉBRATION"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "En fonction des circonstances, le prêtre saura trouver les mots simples pour entrer en relation avec le malade et son entourage. S’il doit entendre le malade en confession, il le fera à ce moment."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il introduit ensuite la célébration soit par une intervention libre, soit par une formule telle que :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Paix à cette maison et à ceux qui l’habitent."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Là où c’est la coutume, il peut user de l’eau bénite (cf. rituel Onction des malades)."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Puis, s’il en est besoin, il prépare le malade à recevoir l’Onction des malades. Il le fait d’une manière fraternelle, soit par des suggestions, soit à partir de textes de l’Écriture. Mais il peut également employer la monition suivante ou une autre davantage adaptée à ce qu’il sait du malade (autre) :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères bien-aimés, le Seigneur Jésus Christ nous a recommandé par son Apôtre saint Jacques : « Si l'un de vous est malade, qu'il appelle les prêtres de l'Église : ils prieront sur lui après lui avoir fait une onction d'huile au nom du Seigneur. Cette prière inspirée par la foi sauvera le malade : le Seigneur le relèvera et, s'il a commis des péchés, il recevra le pardon. »"
+       ],
+       [
+        "Nous allons recommander notre frère qui est malade à la grâce et à la puissance du Christ en demandant pour lui soulagement et salut."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Préparation pénitentielle ou encore en s’adressant au malade :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " (frère), nous sommes près de vous au nom de notre amitié pour vous, et aussi pour répondre aux paroles d’espérance de l’Apôtre saint Jacques : « Si l'un de vous est malade, qu'il appelle les prêtres de l'Église : ils prieront sur lui après lui avoir fait une onction d'huile au nom du Seigneur. Cette prière inspirée par la foi sauvera le malade : le Seigneur le relèvera et, s'il a commis des péchés, il recevra le pardon. » Au nom du Seigneur, nous venons vous donner ce signe de l’Onction des malades, et nous venons prier le Christ de vous donner le réconfort et le salut."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ensuite, a lieu la préparation pénitentielle (ou si nécessaire, la confession sacramentelle)."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "S’il y a danger de mort imminente, il suffit que le prêtre dise les paroles essentielles de la formule d’absolution :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Au nom du Père et du Fils ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " et du Saint-Esprit, je vous pardonne tous vos péchés."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le sacrement du pardon ou la préparation pénitentielle peuvent être conclu par l’Indulgence plénière à l’article de la mort :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "(Parce que nous croyons à la communion des saints et) En vertu du pouvoir qui m’est donné, je vous accorde la pleine indulgence de Dieu pour la rémission de vos péchés ; au nom du Père, et du Fils, ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " et du Saint Esprit. Amen !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu dans sa puissance a tout disposé dans son Église pour que le pécheur se relève et qu'il vive. Qu'il vous pardonne vos péchés et lève toute peine qui en découle. Qu'il vous ouvre les portes de la vie et vous attende dans son Royaume."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "IMPOSITION DES MAINS"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le prêtre impose les mains sur la tête du malade, sans rien dire. Pour signifier la portée de ce geste, il pourra dire, avant ou après :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Jésus, toi qui portes la peine des hommes, vois notre frère ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " Accorde-lui le secours de ton Esprit, enracine en son cœur l’amour et la confiance. Toi qui es vivant pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que le Seigneur soit avec vous,"
+       ],
+       [
+        "qu’il affermisse votre foi en son amour."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "L’ONCTION"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "a) Si le prêtre a le temps et si l’huile est déjà bénie, il dit cette prière d’action de grâce :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C’est toi, Seigneur, qui sanctifies toutes choses, c’est toi qui as béni cette huile ; nous te rendons grâce. Manifeste encore ton amour pour ton serviteur ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " qui va recevoir l’Onction avec foi. Accorde-lui, nous t’en prions, le réconfort qui apaise les angoisses (le réconfort et la paix). Par Jésus, le Christ, notre Seigneur."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "b) Si le prêtre ne dispose pas d’Huile des malades, il bénit l’huile en disant :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, tu as créé cette huile, bénis-la,"
+       ],
+       [
+        "et accorde l’abondance de ta grâce"
+       ],
+       [
+        "à ce malade qui va en recevoir l’onction."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ensuite, le prêtre prend de l’Huile des malades et en fait une onction sur le front puis sur les mains du malade, en disant :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", par cette onction sainte, que le Seigneur, en sa grande bonté, vous réconforte par la grâce de l’Esprit Saint."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi, vous voyant libéré de tous péchés, qu’il vous sauve et vous relève."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "PRIÈRE APRÈS L’ONCTION"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Puis le prêtre dit l’une des oraisons ci-dessous, selon la situation :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pour quelqu’un qui est en grand péril (autre)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Jésus-Christ, sauveur de tous les hommes, toi qui dans ta Passion as pris sur toi nos souffrances, nous te prions pour notre frère ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", éprouvé par la maladie ; puisque tu l’as racheté et que tu viens de lui renouveler ta grâce dans l’Onction sainte, accorde-lui le soulagement de ses souffrances, le réconfort au moment de l’épreuve, et affermis en lui l’espérance d’être sauvé. Toi qui vis pour les siècles des siècles."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pour quelqu’un qui reçoit en même temps l’Onction et le Viatique (autre)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Père de toute tendresse et de toute consolation, regarde ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", notre frère (sœur, ami…) atteint ans ses forces vives par la maladie ; il met sa confiance en toi : que la grâce de l’Onction sainte le soulage, que la communion au corps et au sang de ton Fils soit pour lui un viatique pour le chemin qui conduit à la vraie vie. Par Jésus, le Christ, notre Seigneur."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Pour un fidèle qui est à l’agonie (autre)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Père infiniment bon, toi qui sais voir toute bonne volonté et qui ne refuses jamais le pardon à ceux qui le demandent, aie pitié de ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", ton ami, (qui mène son dernier combat contre la mort) ; Nous prions pour lui avec toute notre foi : qu’il soit soulagé dans son âme et son corps, que le pardon demandé lui soit accordé, et que ton amour demeure sa force. Soutiens aussi dans cette épreuve ceux qui l’ont entouré et soigné. Par ton Fils Jésus Christ, qui a vaincu la mort pour nous ouvrir la vie éternelle."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "ou bien :"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Jésus, Tu as souffert la Passion pour le salut des hommes, et tu as promis au bon larron, crucifié à tes côtés, qu’il serait avec toi dans le Paradis ; Nous te prions pour ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " (ce malade) qui est dans une grande détresse : Allège sa souffrance présente, et fais-lui connaître la lumière et la paix. Toi qui règnes pour les siècles des siècles."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        " Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "ABC <=> ABC"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "12 => 13"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "12 => 11"
+       ]
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "title": {
+  "*": "Missale Romanum"
+ }
+}

@@ -1,1 +1,830 @@
-{"id":"sanctorale.12-13","source":"santos/santos_dic#1213","kind":"sanctoral","items":[{"slot":"82","text":{"la":[{"k":"h2","lines":[["Die 13 decembris"],["S. Luciæ, virginis et martyris"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["In persecutione Diocletiani, probabiliter, Syracusis occubuit. Eius cultus ab antiquitate in totam fere Ecclesiam diffusus est, eiusque nomen in Canonem romanum introductum est."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi martyrum:"}," ",{"m":"link","t":"vm","to":"common.martyrs.13"},{"m":"rubric","t":", vel de Communi virginum:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["13 de dezembro"],["Santa Luzia, virgem e mártir"]]},{"k":"h3","lines":[["Memória"]]},{"k":"p","lines":[["Santa Luzia, cujo nome evoca a luz, martirizada provavelmente em Siracusa, na Sicília (Itália), sob Diocleciano por volta do ano 304, faz parte das sete mulheres mencionadas no Cânon Romano. Seu culto universalmente difundido é já atestado desde o séc. V. Uma antífona tirada da narração da sua paixão saúda-a como \"esposa de Cristo\". Seu sepultamento em Siracusa aos 14 de dezembro é lembrado pelo Martirológio Jeronimiano (séc. VI)."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Mártires:"}," ",{"m":"link","t":"vm","to":"common.martyrs.13"},{"m":"rubric","t":", ou Comum das Virgens:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["December 13"],["Saint Lucy, virgin and martyr"]]},{"k":"h3","lines":[["Memorial"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Martyrs:"}," ",{"m":"link","t":"vm","to":"common.martyrs.13"},{"m":"rubric","t":", or from the Common of Virgins:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["13 de diciembre"],["Santa Lucía, virgen y mártir"]]},{"k":"h3","lines":[["Memoria"]]},{"k":"p","lines":[["Murió, probablemente, en Siracusa, durante la persecución de Diocleciano. Su culto se difundió desde la antigüedad a casi toda la Iglesia, y su nombre fue introducido en el Canon romano."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de mártires:"}," ",{"m":"link","t":"vm","to":"common.martyrs.13"},{"m":"rubric","t":", o de vírgenes:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["13 dicembre"],["SANTA LUCIA, vergine e martire"]]},{"k":"h3","lines":[["MEMORIA"]]},{"k":"p","lines":[["Lucia, martirizzata probabilmente durante la persecuzione di Diocleziano (303-305), fu sepolta a Siracusa. Di là il suo culto, attestato già nel secolo V, passò a Roma e si diffuse ovunque. Il nome, evocatore di luce, e la data della memoria, in prossimità del solstizio d'inverno, favorirono la sua fama di protettrice della vista. È ricordata il 13 dicembre nel Martirologio geronimiano (sec. V-VI) ed è ricordata nel Canone Romano."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei martiri:"}," ",{"m":"link","t":"vm","to":"common.martyrs.13"},{"m":"rubric","t":", oppure Comune delle vergini:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["13 décembre"],["Sainte Lucie, vierge et martyre"]]},{"k":"h3","lines":[["Mémoire"]]},{"k":"p","lines":[["Lucie est une vierge martyre de Syracuse, qui dut périr dans les années sanglantes de la persécution de Dioclétien (304). Les Siciliens ont porté à travers le monde le culte de la sainte au nom de lumière."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun d'un Martyr:"}," ",{"m":"link","t":"vm","to":"common.martyrs.13"},{"m":"rubric","t":", ou des vierges:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["13. Dezember"],["Hl. Luzia, Jungfrau, Märtyrin"]]},{"k":"h3","lines":[["Gedenktag"]]},{"k":"p","lines":[["Sie starb vermutlich in Syrakus während der Christenverfolgung unter Diokletian. Ihre Verehrung verbreitete sich in der Kirche seit der Antike und ihr Name wurde in den römischen Kanon aufgenommen."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Märtyrer:"}," ",{"m":"link","t":"vm","to":"common.martyrs.13"},{"m":"rubric","t":", oder für Jungfrauen:"}," ",{"m":"link","t":"1","to":"common.virgins.1"},{"m":"link","t":"2","to":"common.virgins.2"},{"m":"link","t":"3","to":"common.virgins.3"},{"m":"rubric","t":"."}]]}]},"part":"title"},{"slot":"83","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"84","text":{"la":[{"k":"p","lines":[["Intercéssio nos, quǽsumus, Dómine, sanctæ Lúciæ vírginis et mártyris gloriósa confóveat, ut eius natalícia et temporáliter frequentémus, et conspiciámus ætérna. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, a gloriosa intercessão de Santa Luzia,"],["virgem e mártir, reanime o nosso fervor"],["para que, celebrando hoje o seu martírio,"],["contemplemos um dia as realidades eternas."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["May the glorious intercession"],["of the Virgin and Martyr Saint Lucy"],["give us new heart, we pray, O Lord,"],["so that we may celebrate her heavenly birthday"],["in this present age"],["and so behold things eternal."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Te pedimos, Señor,"],["que la gloriosa intercesión de santa Lucía, virgen y mártir,"],["sea nuestro apoyo para celebrar ahora su nacimiento para el cielo"],["y contemplar también las realidades eternas."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Riempi di gioia e di luce il tuo popolo, o Signore, per l'intercessione gloriosa della santa vergine e martire Lucia, perché noi, che festeggiamo qui in terra la sua nascita al cielo, possiamo contemplare con i nostri occhi la tua gloria. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur :"],["que sainte Lucie, vierge et martyre,"],["intercède pour nous dans la gloire"],["et qu'elle ranime notre ferveur,"],["pour que nous chantions aujourd'hui sa naissance au ciel"],["et puissions contempler les réalités éternelles."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, wir feiern den Gedenktag der heiligen Jungfrau und Märtyrin Luzia, die du uns als Fürsprecherin gegeben hast. Gib, dass wir nach ihrem Beispiel als Kinder des Lichtes leben und einst in der Gemeinschaft der Heiligen den Glanz deiner Herrlichkeit schauen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"85","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":10,"lectionary":"sanctorale.12-13","prefaces":["preface.54","preface.55","preface.57"],"commons":["common.martyrs.13","common.virgins.1","common.virgins.2","common.virgins.3"],"title":{"la":"S. Luciæ, virginis et martyris","pt-BR":"Santa Luzia, virgem e mártir","en-US":"Saint Lucy, virgin and martyr","es":"Santa Lucía, virgen y mártir","it":"SANTA LUCIA, vergine e martire","fr":"Sainte Lucie, vierge et martyre","de":"Hl. Luzia, Jungfrau, Märtyrin"},"subtitle":{"la":"Memoria","pt-BR":"Memória","en-US":"Memorial","es":"Memoria","it":"MEMORIA","fr":"Mémoire","de":"Gedenktag"}}
+{
+ "id": "sanctorale.12-13",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 13 decembris"
+       ],
+       [
+        "S. Luciæ, virginis et martyris"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In persecutione Diocletiani, probabiliter, Syracusis occubuit. Eius cultus ab antiquitate in totam fere Ecclesiam diffusus est, eiusque nomen in Canonem romanum introductum est."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi martyrum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "vm",
+         "to": "common.martyrs.13"
+        },
+        {
+         "m": "rubric",
+         "t": ", vel de Communi virginum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13 de dezembro"
+       ],
+       [
+        "Santa Luzia, virgem e mártir"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santa Luzia, cujo nome evoca a luz, martirizada provavelmente em Siracusa, na Sicília (Itália), sob Diocleciano por volta do ano 304, faz parte das sete mulheres mencionadas no Cânon Romano. Seu culto universalmente difundido é já atestado desde o séc. V. Uma antífona tirada da narração da sua paixão saúda-a como \"esposa de Cristo\". Seu sepultamento em Siracusa aos 14 de dezembro é lembrado pelo Martirológio Jeronimiano (séc. VI)."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "vm",
+         "to": "common.martyrs.13"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou Comum das Virgens:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "December 13"
+       ],
+       [
+        "Saint Lucy, virgin and martyr"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Martyrs:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "vm",
+         "to": "common.martyrs.13"
+        },
+        {
+         "m": "rubric",
+         "t": ", or from the Common of Virgins:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13 de diciembre"
+       ],
+       [
+        "Santa Lucía, virgen y mártir"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Murió, probablemente, en Siracusa, durante la persecución de Diocleciano. Su culto se difundió desde la antigüedad a casi toda la Iglesia, y su nombre fue introducido en el Canon romano."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de mártires:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "vm",
+         "to": "common.martyrs.13"
+        },
+        {
+         "m": "rubric",
+         "t": ", o de vírgenes:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13 dicembre"
+       ],
+       [
+        "SANTA LUCIA, vergine e martire"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "MEMORIA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lucia, martirizzata probabilmente durante la persecuzione di Diocleziano (303-305), fu sepolta a Siracusa. Di là il suo culto, attestato già nel secolo V, passò a Roma e si diffuse ovunque. Il nome, evocatore di luce, e la data della memoria, in prossimità del solstizio d'inverno, favorirono la sua fama di protettrice della vista. È ricordata il 13 dicembre nel Martirologio geronimiano (sec. V-VI) ed è ricordata nel Canone Romano."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei martiri:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "vm",
+         "to": "common.martyrs.13"
+        },
+        {
+         "m": "rubric",
+         "t": ", oppure Comune delle vergini:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13 décembre"
+       ],
+       [
+        "Sainte Lucie, vierge et martyre"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lucie est une vierge martyre de Syracuse, qui dut périr dans les années sanglantes de la persécution de Dioclétien (304). Les Siciliens ont porté à travers le monde le culte de la sainte au nom de lumière."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun d'un Martyr:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "vm",
+         "to": "common.martyrs.13"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou des vierges:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13. Dezember"
+       ],
+       [
+        "Hl. Luzia, Jungfrau, Märtyrin"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Gedenktag"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sie starb vermutlich in Syrakus während der Christenverfolgung unter Diokletian. Ihre Verehrung verbreitete sich in der Kirche seit der Antike und ihr Name wurde in den römischen Kanon aufgenommen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Märtyrer:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "vm",
+         "to": "common.martyrs.13"
+        },
+        {
+         "m": "rubric",
+         "t": ", oder für Jungfrauen:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.virgins.1"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.virgins.2"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.virgins.3"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Intercéssio nos, quǽsumus, Dómine, sanctæ Lúciæ vírginis et mártyris gloriósa confóveat, ut eius natalícia et temporáliter frequentémus, et conspiciámus ætérna. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, a gloriosa intercessão de Santa Luzia,"
+       ],
+       [
+        "virgem e mártir, reanime o nosso fervor"
+       ],
+       [
+        "para que, celebrando hoje o seu martírio,"
+       ],
+       [
+        "contemplemos um dia as realidades eternas."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the glorious intercession"
+       ],
+       [
+        "of the Virgin and Martyr Saint Lucy"
+       ],
+       [
+        "give us new heart, we pray, O Lord,"
+       ],
+       [
+        "so that we may celebrate her heavenly birthday"
+       ],
+       [
+        "in this present age"
+       ],
+       [
+        "and so behold things eternal."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te pedimos, Señor,"
+       ],
+       [
+        "que la gloriosa intercesión de santa Lucía, virgen y mártir,"
+       ],
+       [
+        "sea nuestro apoyo para celebrar ahora su nacimiento para el cielo"
+       ],
+       [
+        "y contemplar también las realidades eternas."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Riempi di gioia e di luce il tuo popolo, o Signore, per l'intercessione gloriosa della santa vergine e martire Lucia, perché noi, che festeggiamo qui in terra la sua nascita al cielo, possiamo contemplare con i nostri occhi la tua gloria. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur :"
+       ],
+       [
+        "que sainte Lucie, vierge et martyre,"
+       ],
+       [
+        "intercède pour nous dans la gloire"
+       ],
+       [
+        "et qu'elle ranime notre ferveur,"
+       ],
+       [
+        "pour que nous chantions aujourd'hui sa naissance au ciel"
+       ],
+       [
+        "et puissions contempler les réalités éternelles."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, wir feiern den Gedenktag der heiligen Jungfrau und Märtyrin Luzia, die du uns als Fürsprecherin gegeben hast. Gib, dass wir nach ihrem Beispiel als Kinder des Lichtes leben und einst in der Gemeinschaft der Heiligen den Glanz deiner Herrlichkeit schauen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 10,
+ "lectionary": "sanctorale.12-13",
+ "prefaces": [
+  "preface.54",
+  "preface.55",
+  "preface.57"
+ ],
+ "commons": [
+  "common.martyrs.13",
+  "common.virgins.1",
+  "common.virgins.2",
+  "common.virgins.3"
+ ],
+ "title": {
+  "la": "S. Luciæ, virginis et martyris",
+  "pt-BR": "Santa Luzia, virgem e mártir",
+  "en-US": "Saint Lucy, virgin and martyr",
+  "es": "Santa Lucía, virgen y mártir",
+  "it": "SANTA LUCIA, vergine e martire",
+  "fr": "Sainte Lucie, vierge et martyre",
+  "de": "Hl. Luzia, Jungfrau, Märtyrin"
+ },
+ "subtitle": {
+  "la": "Memoria",
+  "pt-BR": "Memória",
+  "en-US": "Memorial",
+  "es": "Memoria",
+  "it": "MEMORIA",
+  "fr": "Mémoire",
+  "de": "Gedenktag"
+ }
+}

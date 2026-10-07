@@ -1,1 +1,130 @@
-{"id":"sanctorale.10-31.german-speaking","source":"santos/santos_oct#1031","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["31. Oktober"],["Hl. Wolfgang, Bischof"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Wolfgang, um 930 im schwäbischen Pfullingen geboren, erhielt seine Ausbildung in der Klosterschule von Reichenau und in Würzburg. Seit 956 war er Lehrer an der Domschule und Domdechant in Trier. 965 trat er als Mönch ins Kloster Einsiedeln ein und wurde dort zum Priester geweiht. 972 wurde er zum Bischof gewählt und förderte in seiner Amtszeit die Schulen und Klöster und hob das geistige Niveau des Klerus. Er war ein hochgebildeter Mensch mit einem weiten Horizont, zugleich aber auch ein Mann des Gebetes und der strengen Askese. Er starb 994."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Bischöfe:"}," ",{"m":"link","t":"1","to":"common.pastors.3"},{"m":"link","t":"2","to":"common.pastors.4"}," ",{"m":"rubric","t":"."}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Gott, du hast uns im heiligen Wolfgang einen Mann des Geistes und der Tat geschenkt und ihn berufen, als Mönch und Bischof auf vielfache Weise deinem Volk zu dienen. Gib auch der Kirche unserer Zeit die Weite seines Geistes und die Kraft seiner Liebe. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"}],"precedence":12,"commons":["common.pastors.3","common.pastors.4"],"title":{"*":"Hl. Wolfgang, Bischof"}}
+{
+ "id": "sanctorale.10-31.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "31. Oktober"
+       ],
+       [
+        "Hl. Wolfgang, Bischof"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wolfgang, um 930 im schwäbischen Pfullingen geboren, erhielt seine Ausbildung in der Klosterschule von Reichenau und in Würzburg. Seit 956 war er Lehrer an der Domschule und Domdechant in Trier. 965 trat er als Mönch ins Kloster Einsiedeln ein und wurde dort zum Priester geweiht. 972 wurde er zum Bischof gewählt und förderte in seiner Amtszeit die Schulen und Klöster und hob das geistige Niveau des Klerus. Er war ein hochgebildeter Mensch mit einem weiten Horizont, zugleich aber auch ein Mann des Gebetes und der strengen Askese. Er starb 994."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Bischöfe:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.3"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.4"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, du hast uns im heiligen Wolfgang einen Mann des Geistes und der Tat geschenkt und ihn berufen, als Mönch und Bischof auf vielfache Weise deinem Volk zu dienen. Gib auch der Kirche unserer Zeit die Weite seines Geistes und die Kraft seiner Liebe. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  }
+ ],
+ "precedence": 12,
+ "commons": [
+  "common.pastors.3",
+  "common.pastors.4"
+ ],
+ "title": {
+  "*": "Hl. Wolfgang, Bischof"
+ }
+}

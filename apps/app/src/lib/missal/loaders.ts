@@ -32,7 +32,7 @@ export const corpusMissal: MissalSource = {
   prefaces: async () => (await loadById<Record<string, Doc>>('mass-prefaces')) ?? {},
 }
 
-// The calendar a content language follows. The national calendars upstream
+// The calendar a content language follows. The national calendars the corpus
 // carries are keyed by region; until there is a setting for it, the language
 // stands in for where the user is.
 export function regionsForContentLang(lang: string): string[] {

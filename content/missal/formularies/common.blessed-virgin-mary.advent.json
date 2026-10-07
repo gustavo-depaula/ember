@@ -1,1 +1,1550 @@
-{"id":"common.blessed-virgin-mary.advent","source":"comunes_votivas/comunes_bmv#bmvadv","kind":"common","items":[{"slot":"97","text":{"la":[{"k":"h2","lines":[["COMMUNE BEATÆ MARIÆ VIRGINIS"]]},{"k":"h3","lines":[["II. TEMPORE ADVENTUS"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DA BEM-AVENTURADA VIRGEM MARIA"]]},{"k":"h3","lines":[["II. No Tempo do Advento"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF THE BLESSED VIRGIN MARY"]]},{"k":"h3","lines":[["II. In Advent"]]}],"es":[{"k":"h2","lines":[["COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"]]},{"k":"h3","lines":[["II. Tiempo de Adviento"]]}],"it":[{"k":"h2","lines":[["COMUNE DELLA BEATA VERGINE MARIA"]]},{"k":"h3","lines":[["II. Nel Tempo di Avvento"]]}],"fr":[{"k":"h2","lines":[["COMMUN DE LA VIERGE MARIE"]]},{"k":"h3","lines":[["II. Temps de l'Avent"]]}],"de":[{"k":"h2","lines":[["COMMUNE-TEXTE: MARIENMESSEN"]]},{"k":"h3","lines":[["4. Im Advent"]]}]},"part":"title"},{"slot":"98","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Is 45, 8"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Is 45, 8"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Is 45, 8"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Is 45, 8"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Is 45, 8"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Is 45, 8"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Jes 45, 8"}]},"part":"entranceAntiphon"},{"slot":"99","text":{"la":[{"k":"p","lines":[["Roráte, cæli, désuper, et nubes pluant iustum; aperiátur terra, et gérminet Salvatórem."]]}],"pt-BR":[{"k":"p","lines":[["Céus, deixai cair o orvalho,"],["as nuvens façam chover o justo;"],["abra-se a terra, e deixe germinar o Salvador!"]]}],"en-US":[{"k":"p","lines":[["Drop down dew from above, you heavens, and let the clouds rain down the Just One; let the earth be opened and bring forth a Savior."]]}],"es":[{"k":"p","lines":[["Cielos, destilad desde lo alto, nubes derramad al Justo, que se abra la tierra y brote al Salvador."]]}],"it":[{"k":"p","lines":[["Stillate, cieli, dall'alto, le nubi facciano piovere il Giusto; si apra la terra e germogli il Salvatore."]]}],"fr":[{"k":"p","lines":[["Cieux, distillez d'en haut votre rosée,"],["que descende le Juste, comme une pluie,"],["que la terre s'ouvre, et que germe le Sauveur."]]}],"de":[{"k":"p","lines":[["Tauet, ihr Himmel, von oben! Ihr Wolken, regnet herab den Gerechten! Tu dich auf, o Erde, und sprosse den Heiland hervor!"]]}]},"part":"entranceAntiphon"},{"slot":"100","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Cf. Lc 1, 30-32"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Cf. Lc 1, 30-32"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Cf. Lk 1, 30-32"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Cf. Lc 1, 30-32"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Cf. Lc 1, 30-32"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Cf. Lc 1, 30-32"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Lk 1, 30-32"}]},"part":"entranceAntiphon","role":"rubric"},{"slot":"101","text":{"la":[{"k":"p","lines":[["Angelus ad Maríam ait: Invenísti grátiam apud Deum; Ecce concípies et páries fílium, et vocábitur Altíssimi Fílius."]]}],"pt-BR":[{"k":"p","lines":[["O Anjo disse a Maria:"],["Encontraste graça diante de Deus."],["Eis que conceberás e darás à luz um filho,"],["que será chamado Filho do Altíssimo."]]}],"en-US":[{"k":"p","lines":[["The angel said to Mary: You have found favor with God. Behold, you will conceive and bear a son, and he will be called Son of the Most High."]]}],"es":[{"k":"p","lines":[["El ángel dijo a María: «Has encontrado gracia ante Dios. Concebirás y darás a luz un hijo, y le llamarás Hijo del Altísimo»."]]}],"it":[{"k":"p","lines":[["L'angelo disse a Maria: «Hai trovato grazia presso Dio. Ecco, concepirai e partorirai un figlio e lo chiamerai Figlio dell'Altissimo»."]]}],"fr":[{"k":"p","lines":[["L'Ange dit à Marie :"],["« Tu as trouvé grâce auprès de Dieu."],["Voici que tu vas concevoir et enfanter un fils,"],["il sera appelé Fils du Très-Haut. »"]]}],"de":[{"k":"p","lines":[["Der Engel sprach zu Maria: Du hast vor Gott Gnade gefunden. Du wirst ein Kind bekommen; einen Sohn wirst du gebären. Er wird Sohn des Höchsten genannt werden."]]}]},"part":"entranceAntiphon"},{"slot":"102","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"103","text":{"la":[{"k":"p","lines":[["Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti, præsta supplícibus tuis, ut, qui vere eam Dei Genetrícem crédimus, eius apud te intercessiónibus adiuvémur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, pela mensagem do anjo,"],["quisestes que o vosso Verbo se fizesse carne"],["no seio da Bem-aventurada Virgem Maria;"],["concedei que a tenhamos como intercessora junto de vós,"],["pois cremos que ela é verdadeiramente a Mãe de Deus."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who willed that at the message of an Angel your Word should take flesh in the womb of the Blessed Virgin Mary, grant that we, who pray to you and believe her to be truly the Mother of God, may be helped by her interceding before you."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que, por el anuncio del ángel,"],["has querido que tu Verbo"],["se encarnara en el seno de la Virgen santa María,"],["concede a quienes la proclamamos verdadera Madre de Dios"],["ser ayudados por su intercesión delante de ti."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che all'annuncio dell'angelo hai voluto che il tuo Verbo si facesse uomo nel grembo della Vergine Maria, concedi a noi, che la riconosciamo vera Madre di Dio, di godere presso di te della sua intercessione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as voulu qu'à l'annonce de l'ange,"],["ton Verbe prît chair dans le sein de la Vierge Marie ;"],["réponds à nos supplications :"],["puisque nous la croyons vraiment Mère de Dieu,"],["fais que nous trouvions secours dans sa prière auprès de toi."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Heiliger Gott, dein ewiges Wort hat Fleisch angenommen aus dem Schoß der seligen Jungfrau Maria, wie ihr der Engel verkündet hat. Darum verehren wir sie gläubig als wahre Gottesmutter. Höre auf ihre Fürsprache und schenke allen Völkern das Heil in Jesus Christus, deinem Sohn, unserem Herrn und Gott, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"104","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel:"}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou:"}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien:"}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure::"}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien:"}]]}]},"part":"collect","role":"rubric"},{"slot":"105","text":{"la":[{"k":"p","lines":[["Deus, qui promíssa Pátribus adímplens beátam Vírginem Maríam elegísti, ut Mater fíeret Salvatóris, concéde nobis illíus exémpla sectári, cuius humílitas tibi plácuit, et obœdiéntia nobis prófuit. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, cumprindo as promessas feitas a nossos pais,"],["escolhestes a Bem-aventurada Virgem Maria"],["para ser a Mãe do Salvador;"],["concedei-nos seguir o exemplo"],["daquela que vos agradou pela sua humildade"],["e nos ajudou pela sua obediência."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who, fulfilling the promise made to our Fathers, chose the Blessed Virgin Mary to become the Mother of the Savior, grant that we may follow her example, for her humility was pleasing to you and her obedience profitable to us."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que, cumpliendo lo prometido a nuestros padres, elegiste a la bienaventurada Virgen María"],["para ser la Madre del Salvador,"],["concédenos seguir el ejemplo"],["de quien te agradó con su humildad"],["y nos benefició con su obediencia."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che portando a compimento le promesse fatte ai Padri, hai scelto la beata Vergine Maria perché diventasse Madre del Salvatore, donaci di seguire gli esempi della tuttasanta, che a te piacque per l'umiltà e con l'obbedienza giovò alla nostra redenzione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["afin d'accomplir les promesses faites à nos Pères,"],["tu as choisi la bienheureuse Vierge Marie,"],["pour qu'elle devienne la Mère du Sauveur ;"],["accorde-nous de suivre l'exemple"],["de celle qui te fut agréable par son humilité"],["et nous fut secourable en son obéissance."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}]},"part":"collect"},{"slot":"106","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"107","text":{"la":[{"k":"p","lines":[["Accipe, Dómine, hæc múnera, et tua virtúte in sacraméntum salútis convérte, in quo, cessántibus figurálibus Patrum hóstiis, verus Agnus offértur, Iesus Christus Fílius tuus, ex intácta Vírgine ineffabíliter natus. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Aceitai, Senhor, estes dons"],["e, por vossa força, convertei-os em sacramento da salvação;"],["tendo cessado os sacrifícios da antiga aliança,"],["se oferece o verdadeiro Cordeiro,"],["Jesus Cristo, vosso Filho,"],["nascido de modo inefável da Virgem Imaculada."],["Ele, que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Accept, O Lord, these offerings, and by your power change them into the Sacrament of salvation, in which, fulfilling the sacrifices of the Fathers, is offered the true Lamb, Jesus Christ your Son, born of the ever-Virgin Mary in a way beyond all telling. Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Acepta, Señor, estos dones"],["y transfórmalos con tu poder en sacramento de salvación, en el que, al cesar los sacrificios simbólicos que hacían nuestros padres, se ofreció el verdadero Cordero,"],["nacido maravillosamente de la Virgen intacta,"],["Jesucristo tu Hijo."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Accogli, o Padre, questi doni e con la tua potenza trasformali nel sacramento di salvezza nel quale è offerto il vero Agnello prefigurato nei sacrifici dei Padri, il tuo Figlio Gesù Cristo, nato in modo ineffabile da Madre sempre Vergine. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Accueille, Seigneur, les dons que nous te présentons,"],["et, par ta puissance,"],["fais qu'ils deviennent le sacrement du salut,"],["dans lequel les sacrifices de nos pères"],["trouvent leur accomplissement,"],["lorsque l'Agneau véritable est offert,"],["Jésus Christ ton Fils,"],["né admirablement d'une mère qui reste vierge."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott wir legen die Gaben auf den Altar. Heilige sie durch deinen Geist, der mit seiner Kraft die Jungfrau Maria überschattet hat. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"109","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Is 7, 14"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Is 7, 14"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Is 7, 14"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Is 7, 14"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Is 7, 14"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Is 7, 14"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Jes 7, 14"}]},"part":"communionAntiphon"},{"slot":"110","text":{"la":[{"k":"p","lines":[["Ecce Virgo concípiet, et páriet fílium, et vocábitur nomen eius Emmánuel."]]}],"pt-BR":[{"k":"p","lines":[["A Virgem conceberá e dará à luz um filho;"],["e ele será chamado Emanuel, Deus conosco."]]}],"en-US":[{"k":"p","lines":[["Behold, a Virgin shall conceive and bear a son, and his name will be called Emmanuel."]]}],"es":[{"k":"p","lines":[["Mirad: la Virgen está encinta y da a luz un hijo, y le pondrá por nombre Enmanuel."]]}],"it":[{"k":"p","lines":[["Ecco, la Vergine concepirà e darà alla luce un figlio: lo chiamerà Emmanuele, Dio con noi."]]}],"fr":[{"k":"p","lines":[["Voici que la Vierge concevra"],["et elle enfantera un fils ;"],["on lui donnera pour le nom d'Emmanuel."]]}],"de":[{"k":"p","lines":[["Seht, die Jungfrau wird empfangen und einen Sohn gebären; sein Name ist Immanuel - Gott ist mit uns."]]}]},"part":"communionAntiphon"},{"slot":"111","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"112","text":{"la":[{"k":"p","lines":[["Mystéria quæ súmpsimus, Dómine Deus noster, misericórdiam tuam in nobis semper osténdant, ut Fílii tui incarnatióne salvémur, qui Genetrícis eius commemoratiónem fidéli mente celebrámus. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor nosso Deus,"],["a comunhão nos vossos mistérios"],["manifeste sempre em nós a vossa misericórdia"],["para que, celebrando com fé e devoção"],["a memória da Mãe de Deus,"],["sejamos salvos pela encarnação do vosso Filho."],["Que vive e reina pelos séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["May the mysteries we have received, O Lord our God, always show forth your mercy in us, that we, who commemorate in faith the Mother of your Son may be saved by his Incarnation. Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Señor, Dios nuestro,"],["que el sacramento recibido"],["manifieste siempre en nosotros tu misericordia,"],["para que alcancemos la salvación,"],["por la encarnación de tu Hijo,"],["los que hemos celebrado fielmente la memoria de su Madre."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["I santi misteri che abbiamo ricevuto, Signore Dio nostro, manifestino sempre in noi la tua misericordia, perché, celebrando con vera fede la memoria della Vergine Madre, siamo salvati per l'incarnazione del tuo Figlio. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Puissent les mystères que nous avons reçus,"],["Seigneur notre Dieu,"],["manifester toujours en nous ta miséricorde,"],["pour que, célébrant fidèlement la mémoire de sa Mère,"],["nous soyons sauvés par l'incarnation de ton Fils."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, die heiligen Geheimnisse, die wir empfangen haben, sind uns Zeichen deines Erbarmens. Schenke uns Rettung durch deinen Sohn, der für uns Mensch geworden ist aus Maria, der Jungfrau, der mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"postcommunion"}],"prefaces":["preface.43","preface.44","preface.45","preface.46","preface.47","preface.2","preface.4"],"title":{"la":"COMMUNE BEATÆ MARIÆ VIRGINIS","pt-BR":"COMUM DA BEM-AVENTURADA VIRGEM MARIA","en-US":"COMMON OF THE BLESSED VIRGIN MARY","es":"COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA","it":"COMUNE DELLA BEATA VERGINE MARIA","fr":"COMMUN DE LA VIERGE MARIE","de":"COMMUNE-TEXTE: MARIENMESSEN"},"subtitle":{"la":"II. TEMPORE ADVENTUS","pt-BR":"II. No Tempo do Advento","en-US":"II. In Advent","es":"II. Tiempo de Adviento","it":"II. Nel Tempo di Avvento","fr":"II. Temps de l'Avent","de":"4. Im Advent"}}
+{
+ "id": "common.blessed-virgin-mary.advent",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE BEATÆ MARIÆ VIRGINIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. TEMPORE ADVENTUS"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DA BEM-AVENTURADA VIRGEM MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. No Tempo do Advento"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF THE BLESSED VIRGIN MARY"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. In Advent"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. Tiempo de Adviento"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DELLA BEATA VERGINE MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. Nel Tempo di Avvento"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DE LA VIERGE MARIE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "II. Temps de l'Avent"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE-TEXTE: MARIENMESSEN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "4. Im Advent"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Is 45, 8"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Is 45, 8"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Is 45, 8"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Is 45, 8"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Is 45, 8"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Is 45, 8"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Jes 45, 8"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Roráte, cæli, désuper, et nubes pluant iustum; aperiátur terra, et gérminet Salvatórem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Céus, deixai cair o orvalho,"
+       ],
+       [
+        "as nuvens façam chover o justo;"
+       ],
+       [
+        "abra-se a terra, e deixe germinar o Salvador!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Drop down dew from above, you heavens, and let the clouds rain down the Just One; let the earth be opened and bring forth a Savior."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cielos, destilad desde lo alto, nubes derramad al Justo, que se abra la tierra y brote al Salvador."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Stillate, cieli, dall'alto, le nubi facciano piovere il Giusto; si apra la terra e germogli il Salvatore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cieux, distillez d'en haut votre rosée,"
+       ],
+       [
+        "que descende le Juste, comme une pluie,"
+       ],
+       [
+        "que la terre s'ouvre, et que germe le Sauveur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tauet, ihr Himmel, von oben! Ihr Wolken, regnet herab den Gerechten! Tu dich auf, o Erde, und sprosse den Heiland hervor!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Cf. Lc 1, 30-32"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Cf. Lc 1, 30-32"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Cf. Lk 1, 30-32"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Lc 1, 30-32"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Cf. Lc 1, 30-32"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Cf. Lc 1, 30-32"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Lk 1, 30-32"
+     }
+    ]
+   },
+   "part": "entranceAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Angelus ad Maríam ait: Invenísti grátiam apud Deum; Ecce concípies et páries fílium, et vocábitur Altíssimi Fílius."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Anjo disse a Maria:"
+       ],
+       [
+        "Encontraste graça diante de Deus."
+       ],
+       [
+        "Eis que conceberás e darás à luz um filho,"
+       ],
+       [
+        "que será chamado Filho do Altíssimo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The angel said to Mary: You have found favor with God. Behold, you will conceive and bear a son, and he will be called Son of the Most High."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El ángel dijo a María: «Has encontrado gracia ante Dios. Concebirás y darás a luz un hijo, y le llamarás Hijo del Altísimo»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'angelo disse a Maria: «Hai trovato grazia presso Dio. Ecco, concepirai e partorirai un figlio e lo chiamerai Figlio dell'Altissimo»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'Ange dit à Marie :"
+       ],
+       [
+        "« Tu as trouvé grâce auprès de Dieu."
+       ],
+       [
+        "Voici que tu vas concevoir et enfanter un fils,"
+       ],
+       [
+        "il sera appelé Fils du Très-Haut. »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Engel sprach zu Maria: Du hast vor Gott Gnade gefunden. Du wirst ein Kind bekommen; einen Sohn wirst du gebären. Er wird Sohn des Höchsten genannt werden."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti, præsta supplícibus tuis, ut, qui vere eam Dei Genetrícem crédimus, eius apud te intercessiónibus adiuvémur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, pela mensagem do anjo,"
+       ],
+       [
+        "quisestes que o vosso Verbo se fizesse carne"
+       ],
+       [
+        "no seio da Bem-aventurada Virgem Maria;"
+       ],
+       [
+        "concedei que a tenhamos como intercessora junto de vós,"
+       ],
+       [
+        "pois cremos que ela é verdadeiramente a Mãe de Deus."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who willed that at the message of an Angel your Word should take flesh in the womb of the Blessed Virgin Mary, grant that we, who pray to you and believe her to be truly the Mother of God, may be helped by her interceding before you."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que, por el anuncio del ángel,"
+       ],
+       [
+        "has querido que tu Verbo"
+       ],
+       [
+        "se encarnara en el seno de la Virgen santa María,"
+       ],
+       [
+        "concede a quienes la proclamamos verdadera Madre de Dios"
+       ],
+       [
+        "ser ayudados por su intercesión delante de ti."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che all'annuncio dell'angelo hai voluto che il tuo Verbo si facesse uomo nel grembo della Vergine Maria, concedi a noi, che la riconosciamo vera Madre di Dio, di godere presso di te della sua intercessione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as voulu qu'à l'annonce de l'ange,"
+       ],
+       [
+        "ton Verbe prît chair dans le sein de la Vierge Marie ;"
+       ],
+       [
+        "réponds à nos supplications :"
+       ],
+       [
+        "puisque nous la croyons vraiment Mère de Dieu,"
+       ],
+       [
+        "fais que nous trouvions secours dans sa prière auprès de toi."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heiliger Gott, dein ewiges Wort hat Fleisch angenommen aus dem Schoß der seligen Jungfrau Maria, wie ihr der Engel verkündet hat. Darum verehren wir sie gläubig als wahre Gottesmutter. Höre auf ihre Fürsprache und schenke allen Völkern das Heil in Jesus Christus, deinem Sohn, unserem Herrn und Gott, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure::"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui promíssa Pátribus adímplens beátam Vírginem Maríam elegísti, ut Mater fíeret Salvatóris, concéde nobis illíus exémpla sectári, cuius humílitas tibi plácuit, et obœdiéntia nobis prófuit. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, cumprindo as promessas feitas a nossos pais,"
+       ],
+       [
+        "escolhestes a Bem-aventurada Virgem Maria"
+       ],
+       [
+        "para ser a Mãe do Salvador;"
+       ],
+       [
+        "concedei-nos seguir o exemplo"
+       ],
+       [
+        "daquela que vos agradou pela sua humildade"
+       ],
+       [
+        "e nos ajudou pela sua obediência."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who, fulfilling the promise made to our Fathers, chose the Blessed Virgin Mary to become the Mother of the Savior, grant that we may follow her example, for her humility was pleasing to you and her obedience profitable to us."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que, cumpliendo lo prometido a nuestros padres, elegiste a la bienaventurada Virgen María"
+       ],
+       [
+        "para ser la Madre del Salvador,"
+       ],
+       [
+        "concédenos seguir el ejemplo"
+       ],
+       [
+        "de quien te agradó con su humildad"
+       ],
+       [
+        "y nos benefició con su obediencia."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che portando a compimento le promesse fatte ai Padri, hai scelto la beata Vergine Maria perché diventasse Madre del Salvatore, donaci di seguire gli esempi della tuttasanta, che a te piacque per l'umiltà e con l'obbedienza giovò alla nostra redenzione. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "afin d'accomplir les promesses faites à nos Pères,"
+       ],
+       [
+        "tu as choisi la bienheureuse Vierge Marie,"
+       ],
+       [
+        "pour qu'elle devienne la Mère du Sauveur ;"
+       ],
+       [
+        "accorde-nous de suivre l'exemple"
+       ],
+       [
+        "de celle qui te fut agréable par son humilité"
+       ],
+       [
+        "et nous fut secourable en son obéissance."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accipe, Dómine, hæc múnera, et tua virtúte in sacraméntum salútis convérte, in quo, cessántibus figurálibus Patrum hóstiis, verus Agnus offértur, Iesus Christus Fílius tuus, ex intácta Vírgine ineffabíliter natus. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aceitai, Senhor, estes dons"
+       ],
+       [
+        "e, por vossa força, convertei-os em sacramento da salvação;"
+       ],
+       [
+        "tendo cessado os sacrifícios da antiga aliança,"
+       ],
+       [
+        "se oferece o verdadeiro Cordeiro,"
+       ],
+       [
+        "Jesus Cristo, vosso Filho,"
+       ],
+       [
+        "nascido de modo inefável da Virgem Imaculada."
+       ],
+       [
+        "Ele, que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accept, O Lord, these offerings, and by your power change them into the Sacrament of salvation, in which, fulfilling the sacrifices of the Fathers, is offered the true Lamb, Jesus Christ your Son, born of the ever-Virgin Mary in a way beyond all telling. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acepta, Señor, estos dones"
+       ],
+       [
+        "y transfórmalos con tu poder en sacramento de salvación, en el que, al cesar los sacrificios simbólicos que hacían nuestros padres, se ofreció el verdadero Cordero,"
+       ],
+       [
+        "nacido maravillosamente de la Virgen intacta,"
+       ],
+       [
+        "Jesucristo tu Hijo."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, o Padre, questi doni e con la tua potenza trasformali nel sacramento di salvezza nel quale è offerto il vero Agnello prefigurato nei sacrifici dei Padri, il tuo Figlio Gesù Cristo, nato in modo ineffabile da Madre sempre Vergine. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accueille, Seigneur, les dons que nous te présentons,"
+       ],
+       [
+        "et, par ta puissance,"
+       ],
+       [
+        "fais qu'ils deviennent le sacrement du salut,"
+       ],
+       [
+        "dans lequel les sacrifices de nos pères"
+       ],
+       [
+        "trouvent leur accomplissement,"
+       ],
+       [
+        "lorsque l'Agneau véritable est offert,"
+       ],
+       [
+        "Jésus Christ ton Fils,"
+       ],
+       [
+        "né admirablement d'une mère qui reste vierge."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott wir legen die Gaben auf den Altar. Heilige sie durch deinen Geist, der mit seiner Kraft die Jungfrau Maria überschattet hat. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Jes 7, 14"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecce Virgo concípiet, et páriet fílium, et vocábitur nomen eius Emmánuel."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A Virgem conceberá e dará à luz um filho;"
+       ],
+       [
+        "e ele será chamado Emanuel, Deus conosco."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Behold, a Virgin shall conceive and bear a son, and his name will be called Emmanuel."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mirad: la Virgen está encinta y da a luz un hijo, y le pondrá por nombre Enmanuel."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecco, la Vergine concepirà e darà alla luce un figlio: lo chiamerà Emmanuele, Dio con noi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici que la Vierge concevra"
+       ],
+       [
+        "et elle enfantera un fils ;"
+       ],
+       [
+        "on lui donnera pour le nom d'Emmanuel."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seht, die Jungfrau wird empfangen und einen Sohn gebären; sein Name ist Immanuel - Gott ist mit uns."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mystéria quæ súmpsimus, Dómine Deus noster, misericórdiam tuam in nobis semper osténdant, ut Fílii tui incarnatióne salvémur, qui Genetrícis eius commemoratiónem fidéli mente celebrámus. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor nosso Deus,"
+       ],
+       [
+        "a comunhão nos vossos mistérios"
+       ],
+       [
+        "manifeste sempre em nós a vossa misericórdia"
+       ],
+       [
+        "para que, celebrando com fé e devoção"
+       ],
+       [
+        "a memória da Mãe de Deus,"
+       ],
+       [
+        "sejamos salvos pela encarnação do vosso Filho."
+       ],
+       [
+        "Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the mysteries we have received, O Lord our God, always show forth your mercy in us, that we, who commemorate in faith the Mother of your Son may be saved by his Incarnation. Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor, Dios nuestro,"
+       ],
+       [
+        "que el sacramento recibido"
+       ],
+       [
+        "manifieste siempre en nosotros tu misericordia,"
+       ],
+       [
+        "para que alcancemos la salvación,"
+       ],
+       [
+        "por la encarnación de tu Hijo,"
+       ],
+       [
+        "los que hemos celebrado fielmente la memoria de su Madre."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I santi misteri che abbiamo ricevuto, Signore Dio nostro, manifestino sempre in noi la tua misericordia, perché, celebrando con vera fede la memoria della Vergine Madre, siamo salvati per l'incarnazione del tuo Figlio. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Puissent les mystères que nous avons reçus,"
+       ],
+       [
+        "Seigneur notre Dieu,"
+       ],
+       [
+        "manifester toujours en nous ta miséricorde,"
+       ],
+       [
+        "pour que, célébrant fidèlement la mémoire de sa Mère,"
+       ],
+       [
+        "nous soyons sauvés par l'incarnation de ton Fils."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, die heiligen Geheimnisse, die wir empfangen haben, sind uns Zeichen deines Erbarmens. Schenke uns Rettung durch deinen Sohn, der für uns Mensch geworden ist aus Maria, der Jungfrau, der mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.43",
+  "preface.44",
+  "preface.45",
+  "preface.46",
+  "preface.47",
+  "preface.2",
+  "preface.4"
+ ],
+ "title": {
+  "la": "COMMUNE BEATÆ MARIÆ VIRGINIS",
+  "pt-BR": "COMUM DA BEM-AVENTURADA VIRGEM MARIA",
+  "en-US": "COMMON OF THE BLESSED VIRGIN MARY",
+  "es": "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA",
+  "it": "COMUNE DELLA BEATA VERGINE MARIA",
+  "fr": "COMMUN DE LA VIERGE MARIE",
+  "de": "COMMUNE-TEXTE: MARIENMESSEN"
+ },
+ "subtitle": {
+  "la": "II. TEMPORE ADVENTUS",
+  "pt-BR": "II. No Tempo do Advento",
+  "en-US": "II. In Advent",
+  "es": "II. Tiempo de Adviento",
+  "it": "II. Nel Tempo di Avvento",
+  "fr": "II. Temps de l'Avent",
+  "de": "4. Im Advent"
+ }
+}

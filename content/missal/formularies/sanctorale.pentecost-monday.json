@@ -1,1 +1,512 @@
-{"id":"sanctorale.pentecost-monday","source":"santos/santos_may#0534","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["Montag nach Pfingsten"],["PFINGSTMONTAG"]]}]},"part":"title"},{"slot":"191","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Ap 1, 5-6"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Ap 1, 5-6"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Ap 1, 5-6"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Offb 1, 5-6"}]},"part":"entranceAntiphon"},{"slot":"192","text":{"la":[{"k":"p","lines":[["Diléxit nos Christus, et lavit nos a peccátis nostris in sánguine suo, et fecit nos regnum et sacerdótes Deo et Patri suo, allelúia."]]}],"fr":[{"k":"p","lines":[["Diléxit nos Christus, et lavit nos a peccátis nostris in sánguine suo, et fecit nos regnum et sacerdótes Deo et Patri suo, alléluia."]]}],"de":[{"k":"p","lines":[["Christus liebt uns und hat uns durch sein Blut befreit von unseren Sünden; er hat uns die Würde von Königen gegeben und uns zu Priestern gemacht für den Dienst vor seinem Gott und Vater. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"193","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}]},"part":"gloria"},{"slot":"194","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"194a","text":{"de":[{"k":"p","lines":[["Gott und Vater unseres Herrn Jesus Christus, im Neuen Bund berufst du aus allen Völkern dein Volk und führst es zusammen im Heiligen Geist. Gib, dass deine Kirche ihrer Sendung treu bleibt, dass sie ein Sauerteig ist für die Menschheit, die du in Christus erneuern und zu deiner Familie umgestalten willst. Darum bitten wir durch ihn, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"195","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"195a","text":{"de":[{"k":"p","lines":[["Gott, unser Vater, nimm unsere Gaben an, in denen das Opfer deines Sohnes gegenwärtig wird. Aus seiner Seitenwunde ist die Kirche hervorgegangen als Werk des Heiligen Geistes. Lass sie ihren Ursprung nie vergessen, sondern daraus in dieser Feier Heil und Leben schöpfen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"197","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 16, 13"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Jo 16, 13"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 16, 13"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 16, 13"}]},"part":"communionAntiphon"},{"slot":"198","text":{"la":[{"k":"p","lines":[["Cum vénerit Spíritus veritátis, docébit vos omnem veritátem, dicit Dóminus, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Cum vénerit Spíritus veritátis, docébit vos omnem veritátem, dicit Dóminus, aleluia."]]}],"fr":[{"k":"p","lines":[["Cum vénerit Spíritus veritátis, docébit vos omnem veritátem, dicit Dóminus, alléluia."]]}],"de":[{"k":"p","lines":[["Wenn der Geist der Wahrheit kommt, wird er euch in die volle Wahrheit einführen. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"199","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"199a","text":{"de":[{"k":"p","lines":[["Gütiger Gott, bewahre dem Volk der Erlösten deine Liebe und Treue. Das Leiden deines Sohnes hat uns gerettet, sein Geist, der von dir ausgeht, führe uns den rechten Weg. Darum bitten wir durch Christus, unseren Herrn."]]},{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]]},{"k":"p","lines":[["Herr, du hast uns gestärkt durch das Sakrament deines Sohnes. Mache das Werk deiner Kirche fruchtbar und enthülle durch sie den Armen das Geheimnis unserer Erlösung; denn die Armen hast du vor allen dazu berufen, Anteil zu haben an deinem Reich. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":8,"prefaces":["preface.31"],"title":{"*":"Montag nach Pfingsten — PFINGSTMONTAG"}}
+{
+ "id": "sanctorale.pentecost-monday",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Montag nach Pfingsten"
+       ],
+       [
+        "PFINGSTMONTAG"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Ap 1, 5-6"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Ap 1, 5-6"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Ap 1, 5-6"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Offb 1, 5-6"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Diléxit nos Christus, et lavit nos a peccátis nostris in sánguine suo, et fecit nos regnum et sacerdótes Deo et Patri suo, allelúia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Diléxit nos Christus, et lavit nos a peccátis nostris in sánguine suo, et fecit nos regnum et sacerdótes Deo et Patri suo, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Christus liebt uns und hat uns durch sein Blut befreit von unseren Sünden; er hat uns die Würde von Königen gegeben und uns zu Priestern gemacht für den Dienst vor seinem Gott und Vater. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott und Vater unseres Herrn Jesus Christus, im Neuen Bund berufst du aus allen Völkern dein Volk und führst es zusammen im Heiligen Geist. Gib, dass deine Kirche ihrer Sendung treu bleibt, dass sie ein Sauerteig ist für die Menschheit, die du in Christus erneuern und zu deiner Familie umgestalten willst. Darum bitten wir durch ihn, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Vater, nimm unsere Gaben an, in denen das Opfer deines Sohnes gegenwärtig wird. Aus seiner Seitenwunde ist die Kirche hervorgegangen als Werk des Heiligen Geistes. Lass sie ihren Ursprung nie vergessen, sondern daraus in dieser Feier Heil und Leben schöpfen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 16, 13"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Jo 16, 13"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 16, 13"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 16, 13"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum vénerit Spíritus veritátis, docébit vos omnem veritátem, dicit Dóminus, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum vénerit Spíritus veritátis, docébit vos omnem veritátem, dicit Dóminus, aleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum vénerit Spíritus veritátis, docébit vos omnem veritátem, dicit Dóminus, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wenn der Geist der Wahrheit kommt, wird er euch in die volle Wahrheit einführen. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, bewahre dem Volk der Erlösten deine Liebe und Treue. Das Leiden deines Sohnes hat uns gerettet, sein Geist, der von dir ausgeht, führe uns den rechten Weg. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, du hast uns gestärkt durch das Sakrament deines Sohnes. Mache das Werk deiner Kirche fruchtbar und enthülle durch sie den Armen das Geheimnis unserer Erlösung; denn die Armen hast du vor allen dazu berufen, Anteil zu haben an deinem Reich. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 8,
+ "prefaces": [
+  "preface.31"
+ ],
+ "title": {
+  "*": "Montag nach Pfingsten — PFINGSTMONTAG"
+ }
+}

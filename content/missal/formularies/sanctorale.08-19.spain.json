@@ -1,1 +1,352 @@
-{"id":"sanctorale.08-19.spain","source":"santos/santos_ago#0819Z","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["19 de agosto"],["San Ezequiel Moreno Díaz, obispo"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Nacido en la Rioja (España), Ezequiel Moreno se consagró a Dios como agustino recoleto en Monteagudo, Navarra, y allí mismo descansan sus restos desde que murió en 1906. Como religioso y como obispo desarrolló un celo apostólico excepcional en tierras de Colombia. Canonizado en Santo Domingo por el papa Juan Pablo II, el día 11 de octubre de 1992, año del V Centenario de la Evangelización de América."]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Antífona de entradaSal 104, 1"]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["Dad gracias al Señor, invocad su nombre, dad a conocer sus hazañas a los pueblos."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración colecta"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Oh, Dios,"],["que nos ofreces en san Ezequiel, obispo,"],["un modelo de fidelidad al Evangelio"],["y un pastor según el Corazón de tu Hijo,"],["concédenos, por su intercesión,"],["que, viviendo con alegría nuestro testimonio cristiano,"],["estemos plenamente dirigidos hacia ti"],["y nos consagremos al servicio de tu Iglesia."],["Por nuestro Señor Jesucristo."]]}]},"part":"collect"},{"mark":"readings"},{"text":{"*":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Derrama, Señor,"],["tu bendición sobre los dones que te presentamos"],["en la fiesta de san Ezequiel"],["para que, al recibirlos,"],["alcancemos de tu misericordia el perdón de nuestras culpas"],["y la abundancia de los bienes del cielo."],["Por Jesucristo, nuestro Señor."]]}]},"part":"prayerOverOfferings"},{"slot":"160","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Lc 10, 1. 9"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["El Señor mandó a los discípulos que anunciasen a las ciudades: Está cerca de vosotros el Reino de Dios."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Oración después de la comunión"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Vivifícanos, Señor,"],["por estos sacramentos que hemos recibido"],["y, al celebrar con gozo la fiesta de san Ezequiel, obispo,"],["concédenos que el ejemplo de su celo apostólico"],["nos impulse a crecer cada día en gracia y santidad."],["Por Jesucristo, nuestro Señor."]]}]},"part":"postcommunion"}],"precedence":12,"lectionary":"sanctorale.08-19.spain","prefaces":["preface.56"],"title":{"*":"San Ezequiel Moreno Díaz, obispo"}}
+{
+ "id": "sanctorale.08-19.spain",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de agosto"
+       ],
+       [
+        "San Ezequiel Moreno Díaz, obispo"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nacido en la Rioja (España), Ezequiel Moreno se consagró a Dios como agustino recoleto en Monteagudo, Navarra, y allí mismo descansan sus restos desde que murió en 1906. Como religioso y como obispo desarrolló un celo apostólico excepcional en tierras de Colombia. Canonizado en Santo Domingo por el papa Juan Pablo II, el día 11 de octubre de 1992, año del V Centenario de la Evangelización de América."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entradaSal 104, 1"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dad gracias al Señor, invocad su nombre, dad a conocer sus hazañas a los pueblos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que nos ofreces en san Ezequiel, obispo,"
+       ],
+       [
+        "un modelo de fidelidad al Evangelio"
+       ],
+       [
+        "y un pastor según el Corazón de tu Hijo,"
+       ],
+       [
+        "concédenos, por su intercesión,"
+       ],
+       [
+        "que, viviendo con alegría nuestro testimonio cristiano,"
+       ],
+       [
+        "estemos plenamente dirigidos hacia ti"
+       ],
+       [
+        "y nos consagremos al servicio de tu Iglesia."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Derrama, Señor,"
+       ],
+       [
+        "tu bendición sobre los dones que te presentamos"
+       ],
+       [
+        "en la fiesta de san Ezequiel"
+       ],
+       [
+        "para que, al recibirlos,"
+       ],
+       [
+        "alcancemos de tu misericordia el perdón de nuestras culpas"
+       ],
+       [
+        "y la abundancia de los bienes del cielo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Lc 10, 1. 9"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor mandó a los discípulos que anunciasen a las ciudades: Está cerca de vosotros el Reino de Dios."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vivifícanos, Señor,"
+       ],
+       [
+        "por estos sacramentos que hemos recibido"
+       ],
+       [
+        "y, al celebrar con gozo la fiesta de san Ezequiel, obispo,"
+       ],
+       [
+        "concédenos que el ejemplo de su celo apostólico"
+       ],
+       [
+        "nos impulse a crecer cada día en gracia y santidad."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.08-19.spain",
+ "prefaces": [
+  "preface.56"
+ ],
+ "title": {
+  "*": "San Ezequiel Moreno Díaz, obispo"
+ }
+}

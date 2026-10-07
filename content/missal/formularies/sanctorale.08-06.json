@@ -1,1 +1,2018 @@
-{"id":"sanctorale.08-06","source":"santos/santos_ago#0806","kind":"sanctoral","items":[{"slot":"30","text":{"la":[{"k":"h2","lines":[["Die 6 augusti"],["IN TRANSFIGURATIONE DOMINI"]]},{"k":"h3","lines":[["Festum"]]}],"pt-BR":[{"k":"h2","lines":[["6 de agosto"],["TRANSFIGURAÇÃO DO SENHOR"]]},{"k":"h3","lines":[["Festa"]]},{"k":"p","lines":[["Manifestação antecipada da glória do Senhor e profecia de seu êxodo para o Pai, a celebração deste dia traz à luz a dimensão pascal e escatológica da liturgia e de toda a vida cristã. A palavra do Pai preanuncia a adoção filial dos que, escutando e seguindo o Filho predileto, se tornam seus irmãos (Lc 8,21) e partícipes da transfiguração eterna. A festa de 6 de agosto, originariamente celebrada no Oriente, foi estendida a toda a Igreja por Calisto III (1457)."]]}],"en-US":[{"k":"h2","lines":[["August 6"],["THE TRANSFIGURATION OF THE LORD"]]},{"k":"h3","lines":[["Feast"]]}],"es":[{"k":"h2","lines":[["6 de agosto"],["LA TRANSFIGURACIÓN DEL SEÑOR"]]},{"k":"h3","lines":[["Fiesta"]]}],"it":[{"k":"h2","lines":[["6 agosto"],["TRASFIGURAZIONE DEL SIGNORE"]]},{"k":"h3","lines":[["FESTA"]]},{"k":"p","lines":[["Sul monte, in compagnia di Pietro, Giacomo e Giovanni, Gesù viene trasfigurato «davanti a loro» (Mt 17, 2): cade il velo dagli occhi dei discepoli e questi, per dono di Dio, vedono l'identità divina che traspare dall'umanità di Cristo. Il Figlio dell'uomo che si è incamminato verso la croce (cf. Mc 8, 31-34) è il Figlio di Dio, rivelazione definitiva del Padre. La Legge e i Profeti tendono a Cristo e a lui il Padre rende testimonianza: «Questi è il Figlio mio, l'amato: ascoltatelo!» (Mc 9, 7). Avvolto in quella gloria che aveva presso il Padre prima che il mondo fosse (cf. Gv 1, 14), Cristo anticipa e prefigura la sua venuta gloriosa nell'ultimo giorno, per trasfigurare tutte le cose."]]}],"fr":[{"k":"h2","lines":[["6 août"],["TRANSFIGURATION DU SEIGNEUR"]]},{"k":"h3","lines":[["Fête"]]}],"de":[{"k":"h2","lines":[["6. August"],["VERKLÄRUNG DES HERRN"]]},{"k":"h3","lines":[["Fest"]]}]},"part":"title"},{"slot":"31","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Mt 17, 5"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Mt 17, 5"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Mt 17: 5"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Mt 17, 5"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cf. Mt 17, 5"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Mt 17, 5"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Mt 17, 5"}]},"part":"entranceAntiphon"},{"slot":"32","text":{"la":[{"k":"p","lines":[["In splendénti nube Spíritus Sanctus visus est, patérna vox audíta est: Hic est Fílius meus diléctus, in quo mihi bene complácui: ipsum audíte."]]}],"pt-BR":[{"k":"p","lines":[["Numa nuvem luminosa apareceu o Espírito Santo"],["e a voz do Pai se fez ouvir:"],["Este é o meu Filho muito amado,"],["no qual eu coloquei todo o meu amor: escutai-o!"]]}],"en-US":[{"k":"p","lines":[["In a resplendent cloud the Holy Spirit appeared."],["The Father's voice was heard: This is my beloved Son, with whom I am well pleased. Listen to him."]]}],"es":[{"k":"p","lines":[["Se manifestó el Espíritu Santo en una nube luminosa y se oyó la voz del Padre que dijo: «Este es mi Hijo, el amado, en quien me complazco. Escuchadlo»."]]}],"it":[{"k":"p","lines":[["Nella nube luminosa apparve lo Spirito Santo e si udì la voce del Padre: «Questi è il mio Figlio, l'amato: in lui ho posto il mio compiacimento. Ascoltatelo»."]]}],"fr":[{"k":"p","lines":[["L'Esprit Saint apparut dans la nuée lumineuse,"],["et la voix du Père se fit entendre :"],["« Celui-ci est mon Fils bien-aimé, en qui je trouve ma joie :"],["écoutez-le ! »"]]}],"de":[{"k":"p","lines":[["Aus einer leuchtenden Wolke kam die Stimme des Vaters: Dies ist mein geliebter Sohn, an dem ich Gefallen gefunden habe: Auf ihn sollt ihr hören."]]}]},"part":"entranceAntiphon"},{"slot":"33","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Dicitur "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Diz-se o "},{"m":"italic","t":"Glória"},{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"The "},{"m":"italic","t":"Gloria in excelsis"},{"m":"rubric","t":"(Glory to God in the highest) is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Se dice "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Si dice il "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"On récite le "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Das "},{"m":"italic","t":"Gloria"},{"m":"rubric","t":" wird gebetet."}]]}]},"part":"gloria"},{"slot":"34","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"35","text":{"la":[{"k":"p","lines":[["Deus, qui fídei sacraménta, in Unigéniti tui gloriósa Transfiguratióne patrum testimónio roborásti, et adoptiónem filiórum perféctam mirabíliter præsignásti, concéde nobis fámulis tuis, ut, ipsíus dilécti Fílii tui vocem audiéntes, eiúsdem coherédes éffici mereámur. Qui tecum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus,"],["Numa nuvem luminosa apareceu o Espírito Santo"],["e a voz do Pai se fez ouvir:"],["Este é o meu Filho muito amado,"],["no qual eu coloquei todo o meu amor: escutai-o!"],["na gloriosa Transfiguração de vosso Filho Unigênito,"],["confirmastes os mistérios da fé"],["pelo testemunho de Moisés e Elias"],["e mostrastes de modo admirável"],["a plenitude da nossa adoção de filhos;"],["concedei a nós, vossos servos e servas,"],["que, ouvindo a voz do vosso próprio Filho amado,"],["mereçamos ter parte em sua herança."],["Ele, que é Deus, e convosco vive e reina,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who in the glorious Transfiguration"],["of your Only Begotten Son"],["confirmed the mysteries of faith by the witness of the Fathers and wonderfully prefigured our full adoption to sonship, grant, we pray, to your servants,"],["that, listening to the voice of your beloved Son,"],["we may merit to become co-heirs with him."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que en la gloriosa Transfiguración de tu Unigénito"],["confirmaste los misterios de la fe"],["con el testimonio de los que lo precedieron"],["y prefiguraste maravillosamente"],["la perfecta adopción de los hijos,"],["concede a tus siervos que,"],["escuchando la voz de tu Hijo amado,"],["merezcamos ser sus coherederos."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che nella gloriosa Trasfigurazione del tuo Figlio unigenito hai confermato i misteri della fede con la testimonianza di Mosè ed Elia, nostri padri, e hai mirabilmente preannunciato la nostra definitiva adozione a tuoi figli, fa' che, ascoltando la parola del tuo amato Figlio, diventiamo coeredi della sua gloria. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["dans la transfiguration glorieuse de ton Fils unique,"],["tu as confirmé par le témoignage de Moïse et d'Élie"],["la vérité des mystères de la foi,"],["et tu as donné à l'avance"],["un signe merveilleux de notre pleine adoption filiale ;"],["accorde aux serviteurs que nous sommes"],["d'écouter la voix de ton Fils bien-aimé,"],["afin de pouvoir devenir avec lui tes héritiers."],["Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, bei der Verklärung deines eingeborenen Sohnes hast du durch das Zeugnis der Väter die Geheimnisse des Glaubens bekräftigt. Du hast uns gezeigt, was wir erhoffen dürfen, wenn unsere Annahme an Kindes Statt sich einmal vollendet. Hilf uns, auf das Wort deines Sohnes zu hören, damit wir Anteil erhalten an seiner Herrlichkeit. Darum ten wir durch Jesus Christus."]]}]},"part":"collect"},{"mark":"readings"},{"slot":"36","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Quando hoc festum incidit in dominicam, dicitur "},"Credo",{"m":"rubric","t":". "}]]}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Quando esta festa é celebrada no domingo, diz-se o"}," Creio",{"m":"rubric","t":". "}]]}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"When this Feast falls on a Sunday, the Creed is said."}]]}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"Cuando esta fiesta cae en domingo, se dice Credo."}]]}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Quando questa festa cade di domenica, si dice il "},{"m":"italic","t":"Credo"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Si cette fête tombe un dimanche, on récite le "},"Credo",{"m":"rubric","t":". "}]]}],"de":[{"k":"p","lines":[["Wenn dieses Fest auf einen Sonntag fällt, wird das Credo gebetet."]]}]},"part":"creed"},{"slot":"37","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"38","text":{"la":[{"k":"p","lines":[["Obláta múnera, quǽsumus, Dómine, gloriósa Unigéniti tui Transfiguratióne sanctífica, nosque a peccatórum máculis, splendóribus ipsíus illustratiónis, emúnda. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, santificai os dons que apresentamos"],["na gloriosa Transfiguração do vosso Filho Unigênito"],["e purificai-nos das manchas do pecado"],["com o esplendor de sua luz."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Sanctify, O Lord, we pray,"],["these offerings here made to celebrate"],["the glorious Transfiguration of your Only Begotten Son, and by his radiant splendor"],["cleanse us from the stains of sin."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Te rogamos, Señor,"],["que santifiques la ofrenda que te presentamos"],["en la gloriosa Transfiguración de tu Unigénito"],["y que, con los resplandores de su luz,"],["nos limpies de las manchas de los pecados."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Santifica queste offerte, o Padre, per il mistero della gloriosa Trasfigurazione del tuo Figlio unigenito, e cancella i nostri peccati con lo splendore della sua luce. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Sanctifie nos offrandes, Seigneur,"],["par la transfiguration glorieuse de ton Fils unique ;"],["et, dans la splendeur de son rayonnement,"],["purifie-nous des souillures du péché."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gott, unser Vater, sende über uns und diese Gaben das Licht deiner Herrlichkeit, das in deinem Sohn aufgestrahlt ist. Es vertreibe das Dunkel der Sünde und mache uns zu Kindern des Lichtes. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"39","text":{"la":[{"k":"h4","lines":[["Præfatio"]]},{"k":"p","lines":[[{"m":"rubric","t":"De mysterio Transfigurationis. "}]]},{"k":"p","lines":[["Vere dignum et iustum est,"],["æquum et salutáre,"],["nos tibi semper et ubíque grátias ágere:"],["Dómine, sancte Pater, omnípotens ætérne Deus:"],["per Christum Dóminum nostrum."]]},{"k":"p","lines":[["Qui coram eléctis téstibus suam glóriam revelávit,"],["et commúnem illam cum céteris córporis"],["formam máximo splendóre perfúdit,"],["ut de córdibus discipulórum"],["crucis scándalum tollerétur,"],["et in totíus Ecclésiæ córpore declaráret impléndum"],["quod eius mirabíliter præfúlsit in cápite."]]},{"k":"p","lines":[["Et ídeo cum cælórum Virtútibus"],["in terris te iúgiter celebrámus,"],["maiestáti tuæ sine fine clamántes:"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]},{"k":"p","lines":[[{"m":"rubric","t":"O mistério da Transfiguração."}]]},{"k":"p","lines":[["Na verdade, é digno e justo,"],["é nosso dever e salvação dar-vos graças,"],["sempre e em todo lugar,"],["Senhor, Pai santo,"],["Deus eterno e todo-poderoso,"],["por Cristo, Senhor nosso."]]},{"k":"p","lines":[["Perante testemunhas escolhidas,"],["ele manifestou a sua glória"],["e fez resplandecer no mais claro brilho"],["seu corpo igual ao nosso,"],["para tirar do coração dos discípulos o escândalo da cruz."],["Desse modo, brilhou primeiro na cabeça da Igreja"],["o esplendor que iria refulgir"],["em todos os membros de seu corpo."]]},{"k":"p","lines":[["Por isso, com as forças celestiais,"],["vos celebramos sempre aqui na terra"],["e proclamamos sem cessar a vossa grandeza,"],["cantando ",{"m":"rubric","t":"("},"dizendo",{"m":"rubric","t":")"}," a uma só voz:"]]}],"en-US":[{"k":"h4","lines":[["Præface"]]},{"k":"p","lines":[[{"m":"rubric","t":"The mystery of the Transfiguration."}]]},{"k":"p","lines":[["It is truly right and just, our duty and our salvation,"],["always and everywhere to give you thanks,"],["Lord, holy Father, almighty and eternal God,"],["through Christ our Lord."]]},{"k":"p","lines":[["For he revealed his glory in the presence of chosen witnesses"],["and filled with the greatest splendour that bodily form"],["which he shares with all humanity,"],["that the scandal of the Cross"],["might be removed from the hearts of his disciples"],["and that he might show"],["how in the Body of the whole Church is to be fulfilled"],["what so wonderfully shone forth first in its Head."]]},{"k":"p","lines":[["And so, with the Powers of heaven,"],["we worship you constantly on earth,"],["and before your majesty"],["without end we acclaim:"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]},{"k":"p","lines":[[{"m":"rubric","t":"El misterio de la transfiguración"}]]},{"k":"p","lines":[["En verdad es justo y necesario,"],["es nuestro deber y salvación"],["darte gracias siempre y en todo lugar,"],["Señor, Padre santo,"],["Dios todopoderoso y eterno,"],["por Cristo, Señor nuestro."]]},{"k":"p","lines":[["El cual manifestó su gloria"],["delante de unos testigos predilectos,"],["y revistió con gran esplendor"],["la figura de su cuerpo semejante al nuestro,"],["para arrancar del corazón de los discípulos"],["el escándalo de la cruz"],["y manifestar que,"],["en el cuerpo de la Iglesia entera,"],["se cumplirá lo que,"],["de modo maravilloso,"],["se realizó en su Cabeza."]]},{"k":"p","lines":[["Por eso,"],["con las virtudes del cielo"],["te aclamamos continuamente en la tierra"],["alabando tu gloria sin cesar:"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]},{"k":"p","lines":[[{"m":"rubric","t":"Il mistero della Trasfigurazione"}]]},{"k":"p","lines":[["È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."]]},{"k":"p","lines":[["Dinanzi a testimoni da lui prescelti egli rivelò la sua gloria, e nella sua umanità, in tutto simile alla nostra, fece risplendere una luce incomparabile, per preparare il cuore dei discepoli a sostenere lo scandalo della croce e preannunciare il compimento, nel corpo di tutta la Chiesa, della gloria che rifulse in lui, suo capo."]]},{"k":"p","lines":[["E noi, uniti agli angeli e ai santi, a te innalziamo sulla terra il nostro canto e proclamiamo senza fine la tua gloria:"]]}],"fr":[{"k":"h4","lines":[["Préface"]]},{"k":"p","lines":[["Vraiment, il est juste et bon,"],["pour ta gloire et notre salut,"],["de t'offrir notre action de grâce,"],["toujours et en tout lieu,"],["Seigneur, Père très saint,"],["Dieu éternel et tout-puissant,"],["par le Christ, notre Seigneur."]]},{"k":"p","lines":[["Car il a révélé sa gloire"],["aux témoins qu'il avait choisis,"],["le jour où, en son corps semblable au nôtre,"],["se répandit une splendeur incomparable ;"],["il préparait ainsi le cœur de ses disciples"],["à surmonter le scandale de la croix,"],["il manifestait que s'accomplirait"],["dans le Corps tout entier de l'Église"],["ce qui déjà rayonnait de manière admirable"],["en lui qui en est la tête."]]},{"k":"p","lines":[["C'est pourquoi, avec les puissances des cieux,"],["nous pouvons te bénir sur la terre"],["et t'adorer sans fin en proclamant :"]]}],"de":[{"k":"h4","lines":[["Präfation"]]},{"k":"p","lines":[[{"m":"rubric","t":"Die Verklärung Christi als Verheißung"}]]},{"k":"p","lines":[["In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater, allmächtiger, ewiger Gott, immer und überall zu danken durch unseren Herrn Jesus Christus."],["Denn er enthüllte auf dem Berg der Verklärung seine verborgene Herrlichkeit, er ließ vor auserwählten Zeugen seinen sterblichen Leib im Lichtglanz erstrahlen und gab den Jüngern die Kraft, das Ärgernis des Kreuzes zu tragen. So schenkte er der ganzen Kirche die Hoffnung, vereint mit ihrem Haupt die ewige Verklärung zu empfangen."],["Darum preisen wir deine Größe und vereinen uns mit den Chören der Engel zum Hochgesang von deiner göttlichen Herrlichkeit:"]]}]},"part":"preface"},{"slot":"40","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. 1 Io 3, 2"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. 1Jo 3, 2"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. 1 Jn 3: 2"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"1Jn 3, 2"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"1Gv 3, 2"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. 1 Io 3, 2"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"1 Joh 3, 2"}]},"part":"communionAntiphon"},{"slot":"41","text":{"la":[{"k":"p","lines":[["Cum Christus apparúerit, símiles ei érimus, quóniam vidébimus eum sícuti est."]]}],"pt-BR":[{"k":"p","lines":[["Quando o Cristo se manifestar,"],["seremos semelhantes a ele,"],["pois o veremos como ele é."]]}],"en-US":[{"k":"p","lines":[["When Christ appears, we shall be like him, for we shall see him as he is."]]}],"es":[{"k":"p","lines":[["Cuando Cristo se manifieste, seremos semejantes a él, porque lo veremos tal cual es."]]}],"it":[{"k":"p","lines":[["Quando Cristo si sarà manifestato, noi saremo simili a lui, perché lo vedremo così come egli è."]]}],"fr":[{"k":"p","lines":[["Quand le Christ se manifestera,"],["nous lui serons semblables"],["car nous le verrons tel qu'il est."]]}],"de":[{"k":"p","lines":[["Wenn der Herr offenbar wird, werden wir ihm ähnlich sein, denn wir werden ihn sehen, wie er ist."]]}]},"part":"communionAntiphon"},{"slot":"42","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"43","text":{"la":[{"k":"p","lines":[["Cæléstia, quǽsumus, Dómine, aliménta quæ súmpsimus in eius nos transfórment imáginem, cuius claritátem gloriósa Transfiguratióne manifestáre voluísti. Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, nós vos pedimos:"],["o alimento celeste que recebemos"],["nos transforme na imagem de Cristo,"],["cujo esplendor quisestes revelar"],["na sua gloriosa Transfiguração."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May the heavenly nourishment we have received,"],["O Lord, we pray,"],["transform us into the likeness of your Son,"],["whose radiant splendor you willed to make manifest in his glorious Transfiguration."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Que el alimento celestial que hemos recibido, Señor,"],["nos transforme en imagen de tu Hijo,"],["cuya claridad has querido manifestarnos"],["en su gloriosa Transfiguración."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Il pane del cielo che abbiamo ricevuto ci trasformi, o Padre, a immagine di Cristo, che nella Trasfigurazione rivelò agli uomini il mistero della sua gloria. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur :"],["que cette nourriture venue du ciel nous transforme"],["en l'image de ton Fils dont tu as révélé la splendeur"],["par la gloire de la Transfiguration."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, in der Verklärung deines Sohnes wurde der Glanz seiner Gottheit offenbar. Lass uns durch den Empfang der himmlischen Speise seinem verherrlichten Leib gleichgestaltet werden. Darum bitten wir durch ihn, Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":5,"lectionary":"sanctorale.08-06","title":{"la":"IN TRANSFIGURATIONE DOMINI","pt-BR":"TRANSFIGURAÇÃO DO SENHOR","en-US":"THE TRANSFIGURATION OF THE LORD","es":"LA TRANSFIGURACIÓN DEL SEÑOR","it":"TRASFIGURAZIONE DEL SIGNORE","fr":"TRANSFIGURATION DU SEIGNEUR","de":"VERKLÄRUNG DES HERRN"},"subtitle":{"la":"Festum","pt-BR":"Festa","en-US":"Feast","es":"Fiesta","it":"FESTA","fr":"Fête","de":"Fest"}}
+{
+ "id": "sanctorale.08-06",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 6 augusti"
+       ],
+       [
+        "IN TRANSFIGURATIONE DOMINI"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Festum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "6 de agosto"
+       ],
+       [
+        "TRANSFIGURAÇÃO DO SENHOR"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Festa"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Manifestação antecipada da glória do Senhor e profecia de seu êxodo para o Pai, a celebração deste dia traz à luz a dimensão pascal e escatológica da liturgia e de toda a vida cristã. A palavra do Pai preanuncia a adoção filial dos que, escutando e seguindo o Filho predileto, se tornam seus irmãos (Lc 8,21) e partícipes da transfiguração eterna. A festa de 6 de agosto, originariamente celebrada no Oriente, foi estendida a toda a Igreja por Calisto III (1457)."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "August 6"
+       ],
+       [
+        "THE TRANSFIGURATION OF THE LORD"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Feast"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "6 de agosto"
+       ],
+       [
+        "LA TRANSFIGURACIÓN DEL SEÑOR"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fiesta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "6 agosto"
+       ],
+       [
+        "TRASFIGURAZIONE DEL SIGNORE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "FESTA"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sul monte, in compagnia di Pietro, Giacomo e Giovanni, Gesù viene trasfigurato «davanti a loro» (Mt 17, 2): cade il velo dagli occhi dei discepoli e questi, per dono di Dio, vedono l'identità divina che traspare dall'umanità di Cristo. Il Figlio dell'uomo che si è incamminato verso la croce (cf. Mc 8, 31-34) è il Figlio di Dio, rivelazione definitiva del Padre. La Legge e i Profeti tendono a Cristo e a lui il Padre rende testimonianza: «Questi è il Figlio mio, l'amato: ascoltatelo!» (Mc 9, 7). Avvolto in quella gloria che aveva presso il Padre prima che il mondo fosse (cf. Gv 1, 14), Cristo anticipa e prefigura la sua venuta gloriosa nell'ultimo giorno, per trasfigurare tutte le cose."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "6 août"
+       ],
+       [
+        "TRANSFIGURATION DU SEIGNEUR"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fête"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "6. August"
+       ],
+       [
+        "VERKLÄRUNG DES HERRN"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Fest"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Mt 17, 5"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Mt 17, 5"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Mt 17: 5"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Mt 17, 5"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cf. Mt 17, 5"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Mt 17, 5"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Mt 17, 5"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In splendénti nube Spíritus Sanctus visus est, patérna vox audíta est: Hic est Fílius meus diléctus, in quo mihi bene complácui: ipsum audíte."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Numa nuvem luminosa apareceu o Espírito Santo"
+       ],
+       [
+        "e a voz do Pai se fez ouvir:"
+       ],
+       [
+        "Este é o meu Filho muito amado,"
+       ],
+       [
+        "no qual eu coloquei todo o meu amor: escutai-o!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In a resplendent cloud the Holy Spirit appeared."
+       ],
+       [
+        "The Father's voice was heard: This is my beloved Son, with whom I am well pleased. Listen to him."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se manifestó el Espíritu Santo en una nube luminosa y se oyó la voz del Padre que dijo: «Este es mi Hijo, el amado, en quien me complazco. Escuchadlo»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nella nube luminosa apparve lo Spirito Santo e si udì la voce del Padre: «Questi è il mio Figlio, l'amato: in lui ho posto il mio compiacimento. Ascoltatelo»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'Esprit Saint apparut dans la nuée lumineuse,"
+       ],
+       [
+        "et la voix du Père se fit entendre :"
+       ],
+       [
+        "« Celui-ci est mon Fils bien-aimé, en qui je trouve ma joie :"
+       ],
+       [
+        "écoutez-le ! »"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aus einer leuchtenden Wolke kam die Stimme des Vaters: Dies ist mein geliebter Sohn, an dem ich Gefallen gefunden habe: Auf ihn sollt ihr hören."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dicitur "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Diz-se o "
+        },
+        {
+         "m": "italic",
+         "t": "Glória"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria in excelsis"
+        },
+        {
+         "m": "rubric",
+         "t": "(Glory to God in the highest) is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se dice "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "On récite le "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Das "
+        },
+        {
+         "m": "italic",
+         "t": "Gloria"
+        },
+        {
+         "m": "rubric",
+         "t": " wird gebetet."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gloria"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui fídei sacraménta, in Unigéniti tui gloriósa Transfiguratióne patrum testimónio roborásti, et adoptiónem filiórum perféctam mirabíliter præsignásti, concéde nobis fámulis tuis, ut, ipsíus dilécti Fílii tui vocem audiéntes, eiúsdem coherédes éffici mereámur. Qui tecum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus,"
+       ],
+       [
+        "Numa nuvem luminosa apareceu o Espírito Santo"
+       ],
+       [
+        "e a voz do Pai se fez ouvir:"
+       ],
+       [
+        "Este é o meu Filho muito amado,"
+       ],
+       [
+        "no qual eu coloquei todo o meu amor: escutai-o!"
+       ],
+       [
+        "na gloriosa Transfiguração de vosso Filho Unigênito,"
+       ],
+       [
+        "confirmastes os mistérios da fé"
+       ],
+       [
+        "pelo testemunho de Moisés e Elias"
+       ],
+       [
+        "e mostrastes de modo admirável"
+       ],
+       [
+        "a plenitude da nossa adoção de filhos;"
+       ],
+       [
+        "concedei a nós, vossos servos e servas,"
+       ],
+       [
+        "que, ouvindo a voz do vosso próprio Filho amado,"
+       ],
+       [
+        "mereçamos ter parte em sua herança."
+       ],
+       [
+        "Ele, que é Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who in the glorious Transfiguration"
+       ],
+       [
+        "of your Only Begotten Son"
+       ],
+       [
+        "confirmed the mysteries of faith by the witness of the Fathers and wonderfully prefigured our full adoption to sonship, grant, we pray, to your servants,"
+       ],
+       [
+        "that, listening to the voice of your beloved Son,"
+       ],
+       [
+        "we may merit to become co-heirs with him."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que en la gloriosa Transfiguración de tu Unigénito"
+       ],
+       [
+        "confirmaste los misterios de la fe"
+       ],
+       [
+        "con el testimonio de los que lo precedieron"
+       ],
+       [
+        "y prefiguraste maravillosamente"
+       ],
+       [
+        "la perfecta adopción de los hijos,"
+       ],
+       [
+        "concede a tus siervos que,"
+       ],
+       [
+        "escuchando la voz de tu Hijo amado,"
+       ],
+       [
+        "merezcamos ser sus coherederos."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che nella gloriosa Trasfigurazione del tuo Figlio unigenito hai confermato i misteri della fede con la testimonianza di Mosè ed Elia, nostri padri, e hai mirabilmente preannunciato la nostra definitiva adozione a tuoi figli, fa' che, ascoltando la parola del tuo amato Figlio, diventiamo coeredi della sua gloria. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "dans la transfiguration glorieuse de ton Fils unique,"
+       ],
+       [
+        "tu as confirmé par le témoignage de Moïse et d'Élie"
+       ],
+       [
+        "la vérité des mystères de la foi,"
+       ],
+       [
+        "et tu as donné à l'avance"
+       ],
+       [
+        "un signe merveilleux de notre pleine adoption filiale ;"
+       ],
+       [
+        "accorde aux serviteurs que nous sommes"
+       ],
+       [
+        "d'écouter la voix de ton Fils bien-aimé,"
+       ],
+       [
+        "afin de pouvoir devenir avec lui tes héritiers."
+       ],
+       [
+        "Lui qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, bei der Verklärung deines eingeborenen Sohnes hast du durch das Zeugnis der Väter die Geheimnisse des Glaubens bekräftigt. Du hast uns gezeigt, was wir erhoffen dürfen, wenn unsere Annahme an Kindes Statt sich einmal vollendet. Hilf uns, auf das Wort deines Sohnes zu hören, damit wir Anteil erhalten an seiner Herrlichkeit. Darum ten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando hoc festum incidit in dominicam, dicitur "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando esta festa é celebrada no domingo, diz-se o"
+        },
+        " Creio",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "When this Feast falls on a Sunday, the Creed is said."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Cuando esta fiesta cae en domingo, se dice Credo."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando questa festa cade di domenica, si dice il "
+        },
+        {
+         "m": "italic",
+         "t": "Credo"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si cette fête tombe un dimanche, on récite le "
+        },
+        "Credo",
+        {
+         "m": "rubric",
+         "t": ". "
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wenn dieses Fest auf einen Sonntag fällt, wird das Credo gebetet."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "creed"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Obláta múnera, quǽsumus, Dómine, gloriósa Unigéniti tui Transfiguratióne sanctífica, nosque a peccatórum máculis, splendóribus ipsíus illustratiónis, emúnda. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, santificai os dons que apresentamos"
+       ],
+       [
+        "na gloriosa Transfiguração do vosso Filho Unigênito"
+       ],
+       [
+        "e purificai-nos das manchas do pecado"
+       ],
+       [
+        "com o esplendor de sua luz."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sanctify, O Lord, we pray,"
+       ],
+       [
+        "these offerings here made to celebrate"
+       ],
+       [
+        "the glorious Transfiguration of your Only Begotten Son, and by his radiant splendor"
+       ],
+       [
+        "cleanse us from the stains of sin."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te rogamos, Señor,"
+       ],
+       [
+        "que santifiques la ofrenda que te presentamos"
+       ],
+       [
+        "en la gloriosa Transfiguración de tu Unigénito"
+       ],
+       [
+        "y que, con los resplandores de su luz,"
+       ],
+       [
+        "nos limpies de las manchas de los pecados."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santifica queste offerte, o Padre, per il mistero della gloriosa Trasfigurazione del tuo Figlio unigenito, e cancella i nostri peccati con lo splendore della sua luce. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sanctifie nos offrandes, Seigneur,"
+       ],
+       [
+        "par la transfiguration glorieuse de ton Fils unique ;"
+       ],
+       [
+        "et, dans la splendeur de son rayonnement,"
+       ],
+       [
+        "purifie-nous des souillures du péché."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Vater, sende über uns und diese Gaben das Licht deiner Herrlichkeit, das in deinem Sohn aufgestrahlt ist. Es vertreibe das Dunkel der Sünde und mache uns zu Kindern des Lichtes. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De mysterio Transfigurationis. "
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vere dignum et iustum est,"
+       ],
+       [
+        "æquum et salutáre,"
+       ],
+       [
+        "nos tibi semper et ubíque grátias ágere:"
+       ],
+       [
+        "Dómine, sancte Pater, omnípotens ætérne Deus:"
+       ],
+       [
+        "per Christum Dóminum nostrum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui coram eléctis téstibus suam glóriam revelávit,"
+       ],
+       [
+        "et commúnem illam cum céteris córporis"
+       ],
+       [
+        "formam máximo splendóre perfúdit,"
+       ],
+       [
+        "ut de córdibus discipulórum"
+       ],
+       [
+        "crucis scándalum tollerétur,"
+       ],
+       [
+        "et in totíus Ecclésiæ córpore declaráret impléndum"
+       ],
+       [
+        "quod eius mirabíliter præfúlsit in cápite."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ídeo cum cælórum Virtútibus"
+       ],
+       [
+        "in terris te iúgiter celebrámus,"
+       ],
+       [
+        "maiestáti tuæ sine fine clamántes:"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O mistério da Transfiguração."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Na verdade, é digno e justo,"
+       ],
+       [
+        "é nosso dever e salvação dar-vos graças,"
+       ],
+       [
+        "sempre e em todo lugar,"
+       ],
+       [
+        "Senhor, Pai santo,"
+       ],
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "por Cristo, Senhor nosso."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perante testemunhas escolhidas,"
+       ],
+       [
+        "ele manifestou a sua glória"
+       ],
+       [
+        "e fez resplandecer no mais claro brilho"
+       ],
+       [
+        "seu corpo igual ao nosso,"
+       ],
+       [
+        "para tirar do coração dos discípulos o escândalo da cruz."
+       ],
+       [
+        "Desse modo, brilhou primeiro na cabeça da Igreja"
+       ],
+       [
+        "o esplendor que iria refulgir"
+       ],
+       [
+        "em todos os membros de seu corpo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por isso, com as forças celestiais,"
+       ],
+       [
+        "vos celebramos sempre aqui na terra"
+       ],
+       [
+        "e proclamamos sem cessar a vossa grandeza,"
+       ],
+       [
+        "cantando ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "dizendo",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        " a uma só voz:"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "The mystery of the Transfiguration."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is truly right and just, our duty and our salvation,"
+       ],
+       [
+        "always and everywhere to give you thanks,"
+       ],
+       [
+        "Lord, holy Father, almighty and eternal God,"
+       ],
+       [
+        "through Christ our Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For he revealed his glory in the presence of chosen witnesses"
+       ],
+       [
+        "and filled with the greatest splendour that bodily form"
+       ],
+       [
+        "which he shares with all humanity,"
+       ],
+       [
+        "that the scandal of the Cross"
+       ],
+       [
+        "might be removed from the hearts of his disciples"
+       ],
+       [
+        "and that he might show"
+       ],
+       [
+        "how in the Body of the whole Church is to be fulfilled"
+       ],
+       [
+        "what so wonderfully shone forth first in its Head."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And so, with the Powers of heaven,"
+       ],
+       [
+        "we worship you constantly on earth,"
+       ],
+       [
+        "and before your majesty"
+       ],
+       [
+        "without end we acclaim:"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "El misterio de la transfiguración"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En verdad es justo y necesario,"
+       ],
+       [
+        "es nuestro deber y salvación"
+       ],
+       [
+        "darte gracias siempre y en todo lugar,"
+       ],
+       [
+        "Señor, Padre santo,"
+       ],
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "por Cristo, Señor nuestro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El cual manifestó su gloria"
+       ],
+       [
+        "delante de unos testigos predilectos,"
+       ],
+       [
+        "y revistió con gran esplendor"
+       ],
+       [
+        "la figura de su cuerpo semejante al nuestro,"
+       ],
+       [
+        "para arrancar del corazón de los discípulos"
+       ],
+       [
+        "el escándalo de la cruz"
+       ],
+       [
+        "y manifestar que,"
+       ],
+       [
+        "en el cuerpo de la Iglesia entera,"
+       ],
+       [
+        "se cumplirá lo que,"
+       ],
+       [
+        "de modo maravilloso,"
+       ],
+       [
+        "se realizó en su Cabeza."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por eso,"
+       ],
+       [
+        "con las virtudes del cielo"
+       ],
+       [
+        "te aclamamos continuamente en la tierra"
+       ],
+       [
+        "alabando tu gloria sin cesar:"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il mistero della Trasfigurazione"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È veramente cosa buona e giusta, nostro dovere e fonte di salvezza, rendere grazie sempre e in ogni luogo a te, Signore, Padre santo, Dio onnipotente ed eterno, per Cristo Signore nostro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dinanzi a testimoni da lui prescelti egli rivelò la sua gloria, e nella sua umanità, in tutto simile alla nostra, fece risplendere una luce incomparabile, per preparare il cuore dei discepoli a sostenere lo scandalo della croce e preannunciare il compimento, nel corpo di tutta la Chiesa, della gloria che rifulse in lui, suo capo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E noi, uniti agli angeli e ai santi, a te innalziamo sulla terra il nostro canto e proclamiamo senza fine la tua gloria:"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vraiment, il est juste et bon,"
+       ],
+       [
+        "pour ta gloire et notre salut,"
+       ],
+       [
+        "de t'offrir notre action de grâce,"
+       ],
+       [
+        "toujours et en tout lieu,"
+       ],
+       [
+        "Seigneur, Père très saint,"
+       ],
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "par le Christ, notre Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Car il a révélé sa gloire"
+       ],
+       [
+        "aux témoins qu'il avait choisis,"
+       ],
+       [
+        "le jour où, en son corps semblable au nôtre,"
+       ],
+       [
+        "se répandit une splendeur incomparable ;"
+       ],
+       [
+        "il préparait ainsi le cœur de ses disciples"
+       ],
+       [
+        "à surmonter le scandale de la croix,"
+       ],
+       [
+        "il manifestait que s'accomplirait"
+       ],
+       [
+        "dans le Corps tout entier de l'Église"
+       ],
+       [
+        "ce qui déjà rayonnait de manière admirable"
+       ],
+       [
+        "en lui qui en est la tête."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est pourquoi, avec les puissances des cieux,"
+       ],
+       [
+        "nous pouvons te bénir sur la terre"
+       ],
+       [
+        "et t'adorer sans fin en proclamant :"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Die Verklärung Christi als Verheißung"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In Wahrheit ist es würdig und recht, dir, Herr, heiliger Vater, allmächtiger, ewiger Gott, immer und überall zu danken durch unseren Herrn Jesus Christus."
+       ],
+       [
+        "Denn er enthüllte auf dem Berg der Verklärung seine verborgene Herrlichkeit, er ließ vor auserwählten Zeugen seinen sterblichen Leib im Lichtglanz erstrahlen und gab den Jüngern die Kraft, das Ärgernis des Kreuzes zu tragen. So schenkte er der ganzen Kirche die Hoffnung, vereint mit ihrem Haupt die ewige Verklärung zu empfangen."
+       ],
+       [
+        "Darum preisen wir deine Größe und vereinen uns mit den Chören der Engel zum Hochgesang von deiner göttlichen Herrlichkeit:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. 1 Io 3, 2"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. 1Jo 3, 2"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. 1 Jn 3: 2"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "1Jn 3, 2"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "1Gv 3, 2"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. 1 Io 3, 2"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "1 Joh 3, 2"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum Christus apparúerit, símiles ei érimus, quóniam vidébimus eum sícuti est."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando o Cristo se manifestar,"
+       ],
+       [
+        "seremos semelhantes a ele,"
+       ],
+       [
+        "pois o veremos como ele é."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When Christ appears, we shall be like him, for we shall see him as he is."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cuando Cristo se manifieste, seremos semejantes a él, porque lo veremos tal cual es."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando Cristo si sarà manifestato, noi saremo simili a lui, perché lo vedremo così come egli è."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quand le Christ se manifestera,"
+       ],
+       [
+        "nous lui serons semblables"
+       ],
+       [
+        "car nous le verrons tel qu'il est."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wenn der Herr offenbar wird, werden wir ihm ähnlich sein, denn wir werden ihn sehen, wie er ist."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cæléstia, quǽsumus, Dómine, aliménta quæ súmpsimus in eius nos transfórment imáginem, cuius claritátem gloriósa Transfiguratióne manifestáre voluísti. Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, nós vos pedimos:"
+       ],
+       [
+        "o alimento celeste que recebemos"
+       ],
+       [
+        "nos transforme na imagem de Cristo,"
+       ],
+       [
+        "cujo esplendor quisestes revelar"
+       ],
+       [
+        "na sua gloriosa Transfiguração."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May the heavenly nourishment we have received,"
+       ],
+       [
+        "O Lord, we pray,"
+       ],
+       [
+        "transform us into the likeness of your Son,"
+       ],
+       [
+        "whose radiant splendor you willed to make manifest in his glorious Transfiguration."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que el alimento celestial que hemos recibido, Señor,"
+       ],
+       [
+        "nos transforme en imagen de tu Hijo,"
+       ],
+       [
+        "cuya claridad has querido manifestarnos"
+       ],
+       [
+        "en su gloriosa Transfiguración."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il pane del cielo che abbiamo ricevuto ci trasformi, o Padre, a immagine di Cristo, che nella Trasfigurazione rivelò agli uomini il mistero della sua gloria. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur :"
+       ],
+       [
+        "que cette nourriture venue du ciel nous transforme"
+       ],
+       [
+        "en l'image de ton Fils dont tu as révélé la splendeur"
+       ],
+       [
+        "par la gloire de la Transfiguration."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, in der Verklärung deines Sohnes wurde der Glanz seiner Gottheit offenbar. Lass uns durch den Empfang der himmlischen Speise seinem verherrlichten Leib gleichgestaltet werden. Darum bitten wir durch ihn, Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 5,
+ "lectionary": "sanctorale.08-06",
+ "title": {
+  "la": "IN TRANSFIGURATIONE DOMINI",
+  "pt-BR": "TRANSFIGURAÇÃO DO SENHOR",
+  "en-US": "THE TRANSFIGURATION OF THE LORD",
+  "es": "LA TRANSFIGURACIÓN DEL SEÑOR",
+  "it": "TRASFIGURAZIONE DEL SIGNORE",
+  "fr": "TRANSFIGURATION DU SEIGNEUR",
+  "de": "VERKLÄRUNG DES HERRN"
+ },
+ "subtitle": {
+  "la": "Festum",
+  "pt-BR": "Festa",
+  "en-US": "Feast",
+  "es": "Fiesta",
+  "it": "FESTA",
+  "fr": "Fête",
+  "de": "Fest"
+ }
+}

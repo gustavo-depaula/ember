@@ -1,0 +1,413 @@
+{
+ "id": "common.holy-men-and-women.second-reading.18",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "18"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc est victoria, quæ vincit mundum: fides nostra."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Ioánnis apóstoli"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimi:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnis, qui credit quóniam Iesus est Christus, ex Deo natus est; et omnis, qui díligit Deum, qui génuit, díligit et eum, qui natus est ex eo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In hoc cognóscimus quóniam dilígimus natos Dei, cum Deum diligámus et mandáta eius faciámus. Hæc est enim cáritas Dei, ut mandáta eius servémus; et mandáta eius grávia non sunt, quóniam omne, quod natum est ex Deo, vincit mundum; et hæc est victória, quæ vicit mundum: fides nostra. Quis est qui vincit mundum, nisi qui credit quóniam Iesus est Fílius Dei?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esta é a vitória que vence o mundo: a nossa fé."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São João"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimos: Todo o que crê que Jesus é o Cristo, nasceu de Deus, e quem ama aquele que gerou alguém, amará também aquele que dele nasceu. Podemos saber que amamos os filhos de Deus, quando amamos a Deus e guardamos os seus mandamentos. Pois isto é amar a Deus: observar os seus mandamentos. E os seus mandamentos não são pesados, pois todo o que nasceu de Deus vence o mundo. E esta é a vitória que venceu o mundo: a nossa fé. Quem é o vencedor do mundo senão aquele que crê que Jesus é o Filho de Deus?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first letter of St. John"
+       ]
+      ],
+      "cite": "5:1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Everyone who believes that Jesus is the Christ is begotten by God, and everyone who loves the father loves [also] the one begotten by him. In this way we know that we love the children of God when we love God and obey his commandments. For the love of God is this, that we keep his commandments. And his commandments are not burdensome, for whoever is begotten by God conquers the world. And the victory that conquers the world is our faith. Who [indeed] is the victor over the world but the one who believes that Jesus is the Son of God?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lo que ha conseguido la victoria sobre el mundo es nuestra fe"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Juan"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Queridos hermanos:"
+       ],
+       [
+        "Todo el que cree que Jesús es el Cristo ha nacido de Dios; y todo el que ama al que da el ser ama también al que ha nacido de él."
+       ],
+       [
+        "En esto conocemos que amamos a los hijos de Dios: si amamos a Dios y cumplimos sus mandamientos."
+       ],
+       [
+        "Pues en esto consiste el amor de Dios: en que guardemos sus mandamientos. Y sus mandamientos no son pesados, pues todo lo que ha nacido de Dios vence al mundo. Y lo que ha conseguido la victoria sobre el mundo es nuestra fe."
+       ],
+       [
+        "¿Quién es el que vence al mundo sino el que cree que Jesús es el Hijo de Dios?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questa è la vittoria che ha vinto il mondo la nostra fede."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Giovanni apostolo"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Carissimi, chiunque crede che Gesù è il Cristo, è stato generato da Dio; e chi ama colui che ha generato, ama anche chi da lui è stato generato."
+       ],
+       [
+        "In questo conosciamo di amare i figli di Dio: quando amiamo Dio e osserviamo i suoi comandamenti. In questo infatti consiste l'amore di Dio, nell'osservare i suoi comandamenti; e i suoi comandamenti non sono gravosi."
+       ],
+       [
+        "Chiunque è stato generato da Dio vince il mondo; e questa è la vittoria che ha vinto il mondo: la nostra fede."
+       ],
+       [
+        "E chi è che vince il mondo se non chi crede che Gesù è il Figlio di Dio?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Jean"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimé, celui qui croit que Jésus est le Christ, celui-là est né de Dieu ; celui qui aime le Père qui a engendré aime aussi le Fils qui est né de lui. Voici comment nous reconnaissons que nous aimons les enfants de Dieu : lorsque nous aimons Dieu et que nous accomplissons ses commandements. Car tel est l'amour de Dieu : garder ses commandements ; et ses commandements ne sont pas un fardeau, puisque tout être qui est né de Dieu est vainqueur du monde. Or la victoire remportée sur le monde, c'est notre foi. Qui donc est vainqueur du monde ? N'est-ce pas celui qui croit que Jésus est le Fils de Dieu ?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Johannesbrief"
+       ]
+      ],
+      "cite": "5, 1-5",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Jeder, der glaubt, dass Jesus der Christus ist, stammt von Gott, und jeder, der den Vater liebt, liebt auch den, der von ihm stammt."
+       ],
+       [
+        "Wir erkennen, dass wir die Kinder Gottes lieben, wenn wir Gott lieben und seine Gebote erfüllen. Denn die Liebe zu Gott besteht darin, dass wir seine Gebote halten. Seine Gebote sind nicht schwer. Denn alles, was von Gott stammt, besiegt die Welt. Und das ist der Sieg, der die Welt besiegt hat: unser Glaube. Wer sonst besiegt die Welt, außer dem, der glaubt, dass Jesus der Sohn Gottes ist?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

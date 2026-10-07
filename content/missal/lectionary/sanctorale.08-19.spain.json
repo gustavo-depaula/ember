@@ -1,1 +1,40 @@
-{"id":"sanctorale.08-19.spain","source":"lecturas/lecturas_santos_ago#0819Z","items":[{"slot":"164","text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"(en las diócesis de España)"}]]},{"k":"h2","lines":[["19 de agosto"],["San Ezequiel Moreno Díaz, obispo"]]}]}},{"mark":"readings"}],"lectionary":"readings.cp1f1","title":{"*":"San Ezequiel Moreno Díaz, obispo"}}
+{
+ "id": "sanctorale.08-19.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de agosto"
+       ],
+       [
+        "San Ezequiel Moreno Díaz, obispo"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.cp1f1",
+ "title": {
+  "*": "San Ezequiel Moreno Díaz, obispo"
+ }
+}

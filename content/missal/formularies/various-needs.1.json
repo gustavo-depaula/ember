@@ -1,1 +1,1194 @@
-{"id":"various-needs.1","source":"comunes_votivas/diversas#div001","kind":"various-needs","items":[{"slot":"1","text":{"la":[{"k":"h2","lines":[["I. PRO SANCTA ECCLESIA"]]},{"k":"h3","lines":[["1. PRO ECCLESIA"],["A"]]}],"pt-BR":[{"k":"h2","lines":[["I. PELA SANTA IGREJA"]]},{"k":"h3","lines":[["1. PELA IGREJA"],["A"]]}],"en-US":[{"k":"h2","lines":[["I. FOR HOLY CHURCH"]]},{"k":"h3","lines":[["1. For the Church"],["A"]]}],"es":[{"k":"h2","lines":[["I. POR LA SANTA IGLESIA"]]},{"k":"h3","lines":[["1. POR LA IGLESIA"],["A"]]}],"it":[{"k":"p","lines":[["."]]}],"fr":[{"k":"h2","lines":[["I. POUR LA SAINTE ÉGLISE"]]},{"k":"h3","lines":[["1. POUR L'ÉGLISE"],["A"]]}],"de":[{"k":"h2","lines":[["I. FÜR DIE HEILIGE KIRCHE"]]},{"k":"h3","lines":[["1. FÜR DIE HEILIGE KIRCHE"],["A"]]}]},"part":"title"},{"slot":"2","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Eph 1, 9-10"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Ef 1, 9-10"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Eph 1, 9-10"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Ef 1, 9-10"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cfr Ef 1, 9.10"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Eph 1, 9-10"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Eph 1, 9a. 10"}]},"part":"entranceAntiphon"},{"slot":"3","text":{"la":[{"k":"p","lines":[["Deus notum fecit nobis sacraméntum voluntátis suæ instauráre ómnia in Christo, quæ in cælis et quæ in terra sunt, in ipso."]]}],"pt-BR":[{"k":"p","lines":[["Deus nos fez conhecer o mistério de sua vontade:"],["recapitular em Cristo todas as coisas, no céu e na terra."]]}],"en-US":[{"k":"p","lines":[["God has made known to us the mystery of his will, to bring together all things in Christ,"],["all things in heaven and on earth in him."]]}],"es":[{"k":"p","lines":[["Dios nos ha dado a conocer el misterio de su voluntad: recapitular en Cristo todas las cosas del cielo y de la tierra."]]}],"it":[{"k":"p","lines":[["Dio ci ha fatto conoscere il mistero del suo volere: ricondurre a Cristo tutte le cose, quelle nei cieli e quelle sulla terra."]]}],"fr":[{"k":"p","lines":[["Dieu nous a dévoilé le mystère de sa volonté :"],["récapituler toutes choses dans le Christ,"],["celles du ciel et celles de la terre."]]}],"de":[{"k":"p","lines":[["Gott hat uns das Geheimnis seines Willens kundgetan, in Christus alles zu erneuern, alles, was im Himmel und auf Erden ist."]]}]},"part":"entranceAntiphon"},{"slot":"4","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"5","text":{"la":[{"k":"p","lines":[["Deus, qui regnum Christi ubíque terrárum dilatári providéntia mirábili disposuísti, et omnes hómines salutáris éffici redemptiónis partícipes, præsta, quǽsumus, ut Ecclésia tua universále sit salútis sacraméntum, et cunctis homínibus revelétur exspectátio géntium et Salvátor eárum. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, em vossa admirável providência,"],["quisestes que o reino de Cristo se estenda por toda a terra"],["e o gênero humano participe da redenção salvadora;"],["fazei que a vossa Igreja seja sacramento universal de salvação"],["e a todos os homens se revele"],["nosso Senhor Jesus Cristo,"],["o esperado das nações e Salvador dos povos."],["Ele, que é Deus, e convosco vive e reina,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who in your wonderful providence"],["decreed that Christ's kingdom"],["should be extended throughout the earth"],["and that all should become partakers of his saving redemption, grant, we pray, that your Church"],["may be the universal sacrament of salvation"],["and that Christ may be revealed to all"],["as the hope of the nations and their savior."],["Who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que has dispuesto con admirable providencia"],["que el reino de Cristo se extienda por toda la tierra"],["y que todos los hombres participen de la redención salvadora,"],["concédenos que tu Iglesia sea sacramento de salvación universal,"],["y se manifieste a todos los hombres"],["el que es esperanza y Salvador de los pueblos."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che nella tua provvidenza hai voluto estendere il regno di Cristo sino agli estremi confini della terra e rendere tutti gli uomini partecipi dei benefici della redenzione, fa' che la tua Chiesa, sacramento universale di salvezza, manifesti a tutti gli uomini Gesù Cristo tuo Figlio, l'atteso delle genti e loro salvatore. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["dans ton admirable providence,"],["tu veux étendre à l'univers entier le règne du Christ,"],["et sauver tous les hommes en leur donnant part à la rédemption ;"],["accorde à ton Église d'être le sacrement universel du salut,"],["le lieu où se révèle à tous l'espérance des nations, leur Sauveur."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, unser Heil, in deiner wunderbaren Vorsehung hast du bestimmt, dass das Reich Christi sich über die ganze Erde ausbreiten soll. Du willst, dass alle Menschen von ihrer Schuld erlöst und gerettet werden. Lass deine Kirche leuchten als Zeichen des allumfassenden Heiles. Hilf ihr, das Geheimnis deiner Liebe zu verkünden und es an den Menschen wirksam zu machen. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"6","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"7","text":{"la":[{"k":"p","lines":[["Plebis tibi sacrátæ réspice múnera, miséricors Deus, et per huius sacraménti virtútem concéde, ut credéntium in te multitúdo genus eléctum, regále sacerdótium, gens sancta, pópulus acquisitiónis tibi iúgiter efficiátur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Deus misericordioso, volvei vosso olhar"],["para as oferendas do povo a vós consagrado"],["e, pela força deste sacramento,"],["concedei que a multidão dos que creem em vós"],["seja sempre mais raça escolhida, sacerdócio régio,"],["nação santa e povo que vos pertence."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look upon the offerings of the people consecrated to you, o merciful God,"],["and, through the power of this sacrament,"],["grant that the multitude of those who believe in you"],["may constantly be made a chosen race,"],["a royal priesthood, a holy nation, a people of your own."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Dios misericordioso,"],["mira complacido las ofrendas"],["del pueblo que te está consagrado,"],["y, por la eficacia de este sacramento,"],["haz que la muchedumbre de los creyentes en ti"],["sea estirpe elegida, sacerdocio real,"],["nación consagrada, pueblo de tu propiedad."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Volgi il tuo sguardo, Dio misericordioso, sui doni del popolo a te consacrato e, per la forza di questo sacramento, concedi alla moltitudine di coloro che credono in te di manifestarsi sempre più stirpe eletta, sacerdozio regale, gente santa, popolo che ti sei acquistato. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Dieu de miséricorde,"],["regarde les offrandes du peuple qui t'est consacré,"],["et par la force de ce sacrement,"],["accorde à la multitude des croyants"],["d'être toujours pour toi"],["une descendance choisie, un sacerdoce royal,"],["une nation sainte, un peuple racheté."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, sieh gnädig auf die Gaben deiner Kirche und mache deine Gläubigen durch das heilige Sakrament immer mehr zu dem, was sie durch deine Berufung sind: ein auserwähltes Geschlecht, eine königliche Priesterschaft, ein heiliger Stamm, ein Volk, das dir gehört. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"9","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Ap 22, 17-20"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Ap 22, 17-20"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Ap 22, 17-20"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Ap 22, 17-20"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Ap 22, 17.20"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Ap 22, 17-20"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Offb 22, 17a. 20"}]},"part":"communionAntiphon"},{"slot":"10","text":{"la":[{"k":"p","lines":[["Spíritus et sponsa dicunt: Veni. Amen. Veni, Dómine Iesu."]]}],"pt-BR":[{"k":"p","lines":[["O Espírito e a Esposa dizem: Vem!"],["Amém! Vem, Senhor Jesus!"]]}],"en-US":[{"k":"p","lines":[["The Spirit and the bride say: come. amen. come, Lord Jesus."]]}],"es":[{"k":"p","lines":[["El Espíritu y la esposa dicen: «Ven. Amén. Ven, Señor Jesús»."]]}],"it":[{"k":"p","lines":[["Lo Spirito e la sposa dicono: «Vieni! Amen. Vieni, Signore Gesù»."]]}],"fr":[{"k":"p","lines":[["L'Esprit et l'Épouse disent : « Viens ! »"],["Amen ! Viens, Seigneur Jésus !"]]}],"de":[{"k":"p","lines":[["Der Geist und die Braut sagen: Komm! Amen! Komm, Herr Jesus!"]]}]},"part":"communionAntiphon"},{"slot":"11","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"12","text":{"la":[{"k":"p","lines":[["Deus, qui tuis Ecclésiam iúgiter pascis et róboras sacraméntis, concéde nobis mensa cælésti reféctis, ut, caritátis tuæ documéntis obsequéndo, ferméntum vivíficans et salútis instruméntum humáno efficiámur consórtio. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, sempre alimentais"],["e fortificais a Igreja com vossos sacramentos;"],["concedei-nos que, restaurados à mesa celeste"],["e obedecendo aos ensinamentos do vosso amor,"],["sejamos para a família humana"],["fermento de vida e instrumento de salvação."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["O God, who constantly feed and strengthen the Church with your sacraments,"],["grant to us,"],["who have been nourished at the heavenly table,"],["that, by obeying your teachings of love,"],["we may become for the human family"],["a life-giving leaven and a means to salvation."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que alimentas y fortaleces abundantemente a la Iglesia con tus sacramentos,"],["concede a cuantos hemos sido saciados en la mesa celestial"],["que, siguiendo las enseñanzas de tu amor,"],["seamos fermento de vida e instrumento de salvación"],["en la convivencia humana."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["O Dio, che sempre nutri e fortifichi la Chiesa con i tuoi sacramenti, concedi a noi, saziati al convito del cielo, di osservare il comandamento del tuo amore, per essere in mezzo agli uomini lievito di vita e strumento di salvezza. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu nourris et soutiens l'Église"],["en lui donnant jour après jour tes sacrements ;"],["accorde à ceux qui ont refait leurs forces à la table du ciel"],["de suivre l'exemple de ta charité,"],["et d'être pour la communauté humaine"],["ferment de vie et instrument de salut."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, du hast uns mit dem Brot des Himmels gestärkt, mit dem Sakrament, das die Kirche nährt. Gib, dass wir auf diesen Beweis deiner Liebe antworten, mache uns zum Sauerteig für die Welt und zu Dienern am Heil unserer Brüder. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"prefaces":["preface.31"],"title":{"la":"I. PRO SANCTA ECCLESIA","pt-BR":"I. PELA SANTA IGREJA","en-US":"I. FOR HOLY CHURCH","es":"I. POR LA SANTA IGLESIA","fr":"I. POUR LA SAINTE ÉGLISE","de":"I. FÜR DIE HEILIGE KIRCHE"},"subtitle":{"la":"1. PRO ECCLESIA A","pt-BR":"1. PELA IGREJA A","en-US":"1. For the Church A","es":"1. POR LA IGLESIA A","fr":"1. POUR L'ÉGLISE A","de":"1. FÜR DIE HEILIGE KIRCHE A"}}
+{
+ "id": "various-needs.1",
+ "kind": "various-needs",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PRO SANCTA ECCLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. PRO ECCLESIA"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. PELA SANTA IGREJA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. PELA IGREJA"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FOR HOLY CHURCH"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. For the Church"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POR LA SANTA IGLESIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. POR LA IGLESIA"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. POUR LA SAINTE ÉGLISE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. POUR L'ÉGLISE"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "I. FÜR DIE HEILIGE KIRCHE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "1. FÜR DIE HEILIGE KIRCHE"
+       ],
+       [
+        "A"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Eph 1, 9-10"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Ef 1, 9-10"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Eph 1, 9-10"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Ef 1, 9-10"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cfr Ef 1, 9.10"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Eph 1, 9-10"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Eph 1, 9a. 10"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus notum fecit nobis sacraméntum voluntátis suæ instauráre ómnia in Christo, quæ in cælis et quæ in terra sunt, in ipso."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus nos fez conhecer o mistério de sua vontade:"
+       ],
+       [
+        "recapitular em Cristo todas as coisas, no céu e na terra."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "God has made known to us the mystery of his will, to bring together all things in Christ,"
+       ],
+       [
+        "all things in heaven and on earth in him."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios nos ha dado a conocer el misterio de su voluntad: recapitular en Cristo todas las cosas del cielo y de la tierra."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio ci ha fatto conoscere il mistero del suo volere: ricondurre a Cristo tutte le cose, quelle nei cieli e quelle sulla terra."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu nous a dévoilé le mystère de sa volonté :"
+       ],
+       [
+        "récapituler toutes choses dans le Christ,"
+       ],
+       [
+        "celles du ciel et celles de la terre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott hat uns das Geheimnis seines Willens kundgetan, in Christus alles zu erneuern, alles, was im Himmel und auf Erden ist."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui regnum Christi ubíque terrárum dilatári providéntia mirábili disposuísti, et omnes hómines salutáris éffici redemptiónis partícipes, præsta, quǽsumus, ut Ecclésia tua universále sit salútis sacraméntum, et cunctis homínibus revelétur exspectátio géntium et Salvátor eárum. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, em vossa admirável providência,"
+       ],
+       [
+        "quisestes que o reino de Cristo se estenda por toda a terra"
+       ],
+       [
+        "e o gênero humano participe da redenção salvadora;"
+       ],
+       [
+        "fazei que a vossa Igreja seja sacramento universal de salvação"
+       ],
+       [
+        "e a todos os homens se revele"
+       ],
+       [
+        "nosso Senhor Jesus Cristo,"
+       ],
+       [
+        "o esperado das nações e Salvador dos povos."
+       ],
+       [
+        "Ele, que é Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who in your wonderful providence"
+       ],
+       [
+        "decreed that Christ's kingdom"
+       ],
+       [
+        "should be extended throughout the earth"
+       ],
+       [
+        "and that all should become partakers of his saving redemption, grant, we pray, that your Church"
+       ],
+       [
+        "may be the universal sacrament of salvation"
+       ],
+       [
+        "and that Christ may be revealed to all"
+       ],
+       [
+        "as the hope of the nations and their savior."
+       ],
+       [
+        "Who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que has dispuesto con admirable providencia"
+       ],
+       [
+        "que el reino de Cristo se extienda por toda la tierra"
+       ],
+       [
+        "y que todos los hombres participen de la redención salvadora,"
+       ],
+       [
+        "concédenos que tu Iglesia sea sacramento de salvación universal,"
+       ],
+       [
+        "y se manifieste a todos los hombres"
+       ],
+       [
+        "el que es esperanza y Salvador de los pueblos."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che nella tua provvidenza hai voluto estendere il regno di Cristo sino agli estremi confini della terra e rendere tutti gli uomini partecipi dei benefici della redenzione, fa' che la tua Chiesa, sacramento universale di salvezza, manifesti a tutti gli uomini Gesù Cristo tuo Figlio, l'atteso delle genti e loro salvatore. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "dans ton admirable providence,"
+       ],
+       [
+        "tu veux étendre à l'univers entier le règne du Christ,"
+       ],
+       [
+        "et sauver tous les hommes en leur donnant part à la rédemption ;"
+       ],
+       [
+        "accorde à ton Église d'être le sacrement universel du salut,"
+       ],
+       [
+        "le lieu où se révèle à tous l'espérance des nations, leur Sauveur."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, unser Heil, in deiner wunderbaren Vorsehung hast du bestimmt, dass das Reich Christi sich über die ganze Erde ausbreiten soll. Du willst, dass alle Menschen von ihrer Schuld erlöst und gerettet werden. Lass deine Kirche leuchten als Zeichen des allumfassenden Heiles. Hilf ihr, das Geheimnis deiner Liebe zu verkünden und es an den Menschen wirksam zu machen. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Plebis tibi sacrátæ réspice múnera, miséricors Deus, et per huius sacraménti virtútem concéde, ut credéntium in te multitúdo genus eléctum, regále sacerdótium, gens sancta, pópulus acquisitiónis tibi iúgiter efficiátur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus misericordioso, volvei vosso olhar"
+       ],
+       [
+        "para as oferendas do povo a vós consagrado"
+       ],
+       [
+        "e, pela força deste sacramento,"
+       ],
+       [
+        "concedei que a multidão dos que creem em vós"
+       ],
+       [
+        "seja sempre mais raça escolhida, sacerdócio régio,"
+       ],
+       [
+        "nação santa e povo que vos pertence."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look upon the offerings of the people consecrated to you, o merciful God,"
+       ],
+       [
+        "and, through the power of this sacrament,"
+       ],
+       [
+        "grant that the multitude of those who believe in you"
+       ],
+       [
+        "may constantly be made a chosen race,"
+       ],
+       [
+        "a royal priesthood, a holy nation, a people of your own."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios misericordioso,"
+       ],
+       [
+        "mira complacido las ofrendas"
+       ],
+       [
+        "del pueblo que te está consagrado,"
+       ],
+       [
+        "y, por la eficacia de este sacramento,"
+       ],
+       [
+        "haz que la muchedumbre de los creyentes en ti"
+       ],
+       [
+        "sea estirpe elegida, sacerdocio real,"
+       ],
+       [
+        "nación consagrada, pueblo de tu propiedad."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Volgi il tuo sguardo, Dio misericordioso, sui doni del popolo a te consacrato e, per la forza di questo sacramento, concedi alla moltitudine di coloro che credono in te di manifestarsi sempre più stirpe eletta, sacerdozio regale, gente santa, popolo che ti sei acquistato. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu de miséricorde,"
+       ],
+       [
+        "regarde les offrandes du peuple qui t'est consacré,"
+       ],
+       [
+        "et par la force de ce sacrement,"
+       ],
+       [
+        "accorde à la multitude des croyants"
+       ],
+       [
+        "d'être toujours pour toi"
+       ],
+       [
+        "une descendance choisie, un sacerdoce royal,"
+       ],
+       [
+        "une nation sainte, un peuple racheté."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, sieh gnädig auf die Gaben deiner Kirche und mache deine Gläubigen durch das heilige Sakrament immer mehr zu dem, was sie durch deine Berufung sind: ein auserwähltes Geschlecht, eine königliche Priesterschaft, ein heiliger Stamm, ein Volk, das dir gehört. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Ap 22, 17-20"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Ap 22, 17-20"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Ap 22, 17-20"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Ap 22, 17-20"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Ap 22, 17.20"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Ap 22, 17-20"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Offb 22, 17a. 20"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Spíritus et sponsa dicunt: Veni. Amen. Veni, Dómine Iesu."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Espírito e a Esposa dizem: Vem!"
+       ],
+       [
+        "Amém! Vem, Senhor Jesus!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Spirit and the bride say: come. amen. come, Lord Jesus."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Espíritu y la esposa dicen: «Ven. Amén. Ven, Señor Jesús»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lo Spirito e la sposa dicono: «Vieni! Amen. Vieni, Signore Gesù»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'Esprit et l'Épouse disent : « Viens ! »"
+       ],
+       [
+        "Amen ! Viens, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Geist und die Braut sagen: Komm! Amen! Komm, Herr Jesus!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui tuis Ecclésiam iúgiter pascis et róboras sacraméntis, concéde nobis mensa cælésti reféctis, ut, caritátis tuæ documéntis obsequéndo, ferméntum vivíficans et salútis instruméntum humáno efficiámur consórtio. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, sempre alimentais"
+       ],
+       [
+        "e fortificais a Igreja com vossos sacramentos;"
+       ],
+       [
+        "concedei-nos que, restaurados à mesa celeste"
+       ],
+       [
+        "e obedecendo aos ensinamentos do vosso amor,"
+       ],
+       [
+        "sejamos para a família humana"
+       ],
+       [
+        "fermento de vida e instrumento de salvação."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who constantly feed and strengthen the Church with your sacraments,"
+       ],
+       [
+        "grant to us,"
+       ],
+       [
+        "who have been nourished at the heavenly table,"
+       ],
+       [
+        "that, by obeying your teachings of love,"
+       ],
+       [
+        "we may become for the human family"
+       ],
+       [
+        "a life-giving leaven and a means to salvation."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que alimentas y fortaleces abundantemente a la Iglesia con tus sacramentos,"
+       ],
+       [
+        "concede a cuantos hemos sido saciados en la mesa celestial"
+       ],
+       [
+        "que, siguiendo las enseñanzas de tu amor,"
+       ],
+       [
+        "seamos fermento de vida e instrumento de salvación"
+       ],
+       [
+        "en la convivencia humana."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che sempre nutri e fortifichi la Chiesa con i tuoi sacramenti, concedi a noi, saziati al convito del cielo, di osservare il comandamento del tuo amore, per essere in mezzo agli uomini lievito di vita e strumento di salvezza. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu nourris et soutiens l'Église"
+       ],
+       [
+        "en lui donnant jour après jour tes sacrements ;"
+       ],
+       [
+        "accorde à ceux qui ont refait leurs forces à la table du ciel"
+       ],
+       [
+        "de suivre l'exemple de ta charité,"
+       ],
+       [
+        "et d'être pour la communauté humaine"
+       ],
+       [
+        "ferment de vie et instrument de salut."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, du hast uns mit dem Brot des Himmels gestärkt, mit dem Sakrament, das die Kirche nährt. Gib, dass wir auf diesen Beweis deiner Liebe antworten, mache uns zum Sauerteig für die Welt und zu Dienern am Heil unserer Brüder. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.31"
+ ],
+ "title": {
+  "la": "I. PRO SANCTA ECCLESIA",
+  "pt-BR": "I. PELA SANTA IGREJA",
+  "en-US": "I. FOR HOLY CHURCH",
+  "es": "I. POR LA SANTA IGLESIA",
+  "fr": "I. POUR LA SAINTE ÉGLISE",
+  "de": "I. FÜR DIE HEILIGE KIRCHE"
+ },
+ "subtitle": {
+  "la": "1. PRO ECCLESIA A",
+  "pt-BR": "1. PELA IGREJA A",
+  "en-US": "1. For the Church A",
+  "es": "1. POR LA IGLESIA A",
+  "fr": "1. POUR L'ÉGLISE A",
+  "de": "1. FÜR DIE HEILIGE KIRCHE A"
+ }
+}

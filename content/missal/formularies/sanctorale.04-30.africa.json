@@ -1,1 +1,494 @@
-{"id":"sanctorale.04-30.africa","source":"santos/santos_africa#0430","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In the Dioceses of Africa]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["April 30"],["OUR LADY, MOTHER OF AFRICA"]]}]},"part":"title"},{"text":{"*":[{"k":"h3","lines":[["Feast"]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Entrance Antiphon"]],"cite":"Cf. Jdt13:19"}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"p","lines":[["People will never cease to praise you,"],["as they recall the power of the Lord for ever."]]}]},"part":"entranceAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Collect"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Lord, as we honour the glorious memory of the Virgin Mary,"],["Mother of Africa,"],["we ask that by the help of her prayers"],["we too may come to share the fullness of your grace"],["and live in harmony and peace as one family."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}]},"part":"collect"},{"text":{"*":[{"k":"h4","lines":[["Prayer over the Offerings"]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"p","lines":[["Father, receive with this offering the prayers of your people,"],["so that, through the intercession of Mary, Mother of Africa,"],["we may seek to be faithful to Christ,"],["announce his word to others"],["and live as brothers and sisters in your family."],["Through Christ our Lord."]]}]},"part":"prayerOverOfferings"},{"text":{"*":[{"k":"h4","lines":[["Preface"]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Mary is the image and mother of the Church."}]]}]},"part":"preface","role":"rubric"},{"text":{"*":[{"k":"p","lines":[["It is truly right and just, our duty and our salvation,"],["always and everywhere to give you thanks,"],["Lord, holy Father, almighty and eternal God,"],["through Christ our Lord.."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["In your infinit goodness"],["you have given to the virgin Church"],["the model of true worship in the Virgin Mary."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["She is the Virgin who listens,"],["who embraces your words with joy,"],["treasuring them in the silence of her heart."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["She is the Virgin of prayer,"],["who sings of your mercy in her canticle of praise,"],["who shows concern for the bridegroom and bride of Cana"],["and intercedes for them with her Son,"],["who prays with the apostles in oneness of mind and heart."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["She is the Virgin Mother,"],["who gives birth to your Son by the power of the Holy Spirit"],["and at the foot of the Cross is proclaimed as mother"],["of the people of the New Covenant."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["She is the Virgin who offers,"],["presenting the Firstborn in your temple"],["and sharing in his self-offering"],["beside the tree of everlasting life."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["She is the Virgin who keeps vigil,"],["awaiting the resurrection of her Son"],["with unwavering hope"],["and looking forward to the coming of the Holy Spirit"],["with steadfast faith."]]}]},"part":"preface"},{"text":{"*":[{"k":"p","lines":[["And so, in company with the choirs of Angels,"],["we praise you, and with you we proclaim:"]]}]},"part":"preface"},{"text":{"*":[{"k":"h4","lines":[["Communion Antiphon"]],"cite":"Dt 10: 21a"}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"p","lines":[["The Lord, who has done great things for you,"],["is your praise and your God."]]}]},"part":"communionAntiphon"},{"text":{"*":[{"k":"h4","lines":[["Prayer after communion"]]}]},"part":"postcommunion"},{"text":{"*":[{"k":"p","lines":[["Father, whe have received this heavenly Sacrament"],["and now we pray that we,"],["who honour the memory of the Blessed Virgin Mary,"],["Mother of Africa"],["may come to share in the eternal banquet in"],["heaven with all the saints."],["Through Christ our Lord."]]}]},"part":"postcommunion"}],"precedence":8,"title":{"*":"OUR LADY, MOTHER OF AFRICA"}}
+{
+ "id": "sanctorale.04-30.africa",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In the Dioceses of Africa]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "April 30"
+       ],
+       [
+        "OUR LADY, MOTHER OF AFRICA"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Feast"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance Antiphon"
+       ]
+      ],
+      "cite": "Cf. Jdt13:19"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "People will never cease to praise you,"
+       ],
+       [
+        "as they recall the power of the Lord for ever."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lord, as we honour the glorious memory of the Virgin Mary,"
+       ],
+       [
+        "Mother of Africa,"
+       ],
+       [
+        "we ask that by the help of her prayers"
+       ],
+       [
+        "we too may come to share the fullness of your grace"
+       ],
+       [
+        "and live in harmony and peace as one family."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father, receive with this offering the prayers of your people,"
+       ],
+       [
+        "so that, through the intercession of Mary, Mother of Africa,"
+       ],
+       [
+        "we may seek to be faithful to Christ,"
+       ],
+       [
+        "announce his word to others"
+       ],
+       [
+        "and live as brothers and sisters in your family."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Mary is the image and mother of the Church."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It is truly right and just, our duty and our salvation,"
+       ],
+       [
+        "always and everywhere to give you thanks,"
+       ],
+       [
+        "Lord, holy Father, almighty and eternal God,"
+       ],
+       [
+        "through Christ our Lord.."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In your infinit goodness"
+       ],
+       [
+        "you have given to the virgin Church"
+       ],
+       [
+        "the model of true worship in the Virgin Mary."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "She is the Virgin who listens,"
+       ],
+       [
+        "who embraces your words with joy,"
+       ],
+       [
+        "treasuring them in the silence of her heart."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "She is the Virgin of prayer,"
+       ],
+       [
+        "who sings of your mercy in her canticle of praise,"
+       ],
+       [
+        "who shows concern for the bridegroom and bride of Cana"
+       ],
+       [
+        "and intercedes for them with her Son,"
+       ],
+       [
+        "who prays with the apostles in oneness of mind and heart."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "She is the Virgin Mother,"
+       ],
+       [
+        "who gives birth to your Son by the power of the Holy Spirit"
+       ],
+       [
+        "and at the foot of the Cross is proclaimed as mother"
+       ],
+       [
+        "of the people of the New Covenant."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "She is the Virgin who offers,"
+       ],
+       [
+        "presenting the Firstborn in your temple"
+       ],
+       [
+        "and sharing in his self-offering"
+       ],
+       [
+        "beside the tree of everlasting life."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "She is the Virgin who keeps vigil,"
+       ],
+       [
+        "awaiting the resurrection of her Son"
+       ],
+       [
+        "with unwavering hope"
+       ],
+       [
+        "and looking forward to the coming of the Holy Spirit"
+       ],
+       [
+        "with steadfast faith."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And so, in company with the choirs of Angels,"
+       ],
+       [
+        "we praise you, and with you we proclaim:"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion Antiphon"
+       ]
+      ],
+      "cite": "Dt 10: 21a"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord, who has done great things for you,"
+       ],
+       [
+        "is your praise and your God."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father, whe have received this heavenly Sacrament"
+       ],
+       [
+        "and now we pray that we,"
+       ],
+       [
+        "who honour the memory of the Blessed Virgin Mary,"
+       ],
+       [
+        "Mother of Africa"
+       ],
+       [
+        "may come to share in the eternal banquet in"
+       ],
+       [
+        "heaven with all the saints."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 8,
+ "title": {
+  "*": "OUR LADY, MOTHER OF AFRICA"
+ }
+}

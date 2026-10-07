@@ -1,0 +1,432 @@
+{
+ "id": "common.holy-men-and-women.first-reading.16",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "16"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Factus est in corde meo quasi ignis exæstuans."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Ieremíæ prophétæ"
+       ]
+      ],
+      "cite": "20, 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seduxísti me, Dómine, et sedúctus sum; fórtior me fuísti et invaluísti. Factus sum in derísum tota die, omnes subsánnant me. Quia quotiescúmque loquor, vocíferor, iniquitátem et vastitátem clámito; et factus est mihi sermo Dómini in oppróbrium et in derísum tota die."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et dixi: «Non recordábor eius neque loquar ultra in nómine illíus». Et factus est in corde meo quasi ignis exæstuans clausúsque in óssibus meis: et deféci, ferre non sústinens."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senti, dentro de mim, um fogo ardente."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Profeta Jeremias"
+       ]
+      ],
+      "cite": "20, 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seduziste-me, Senhor, e deixei-me seduzir; foste mais forte, tiveste mais poder. Tornei-me alvo de irrisão o dia inteiro, todos zombam de mim. Todas as vezes que falo, levanto a voz, clamando contra a maldade e invocando calamidades; a palavra do Senhor tornou-se para mim fonte de vergonha e de chacota o dia inteiro. Disse comigo: \"Não quero mais lembrar-me disso nem falar mais em nome dele\". Senti, então, dentro de mim um fogo ardente a penetrar-me o corpo todo: desfaleci, sem forças para suportar."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Prophet Jeremiah"
+       ]
+      ],
+      "cite": "20:7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You have seduced me, Lord, and I have let myself be seduced; you have overpowered me: you were the stronger. I am a daily laughing-stock, everybody's butt. Each time I speak the word, I have to howl and proclaim: 'Violence and ruin!' The word of the Lord has meant for me insult, derision, all day long. I used to say, 'I will not think about him, I will not speak in his name any more. Then there seemed to be a fire burning in my heart, imprisoned in my bones. The effort to restrain it wearied me, I could not bear it."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Había en mis entrañas como fuego, algo ardiente"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de Jeremías"
+       ]
+      ],
+      "cite": "20, 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me sedujiste, Señor, y me dejé seducir;"
+       ],
+       [
+        "has sido más fuerte que yo y me has podido."
+       ],
+       [
+        "He sido a diario el hazmerreír,"
+       ],
+       [
+        "todo el mundo se burlaba de mí."
+       ],
+       [
+        "Cuando hablo, tengo que gritar,"
+       ],
+       [
+        "proclamar violencia y destrucción."
+       ],
+       [
+        "La palabra del Señor me ha servido"
+       ],
+       [
+        "de oprobio y desprecio a diario."
+       ],
+       [
+        "Pensé en olvidarme del asunto y dije:"
+       ],
+       [
+        "«No lo recordaré; no volveré a hablar en su nombre»;"
+       ],
+       [
+        "pero había en mis entrañas como fuego,"
+       ],
+       [
+        "algo ardiente encerrado en mis huesos."
+       ],
+       [
+        "Yo intentaba sofocarlo, y no podía."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nel mio cuore c'era come un fuoco ardente."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Geremia"
+       ]
+      ],
+      "cite": "20, 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi hai sedotto, Signore, e io mi sono lasciato sedurre; mi hai fatto violenza e hai prevalso."
+       ],
+       [
+        "Sono diventato oggetto di derisione ogni giorno; ognuno si beffa di me."
+       ],
+       [
+        "Quando parlo, devo gridare, devo urlare: «Violenza! Oppressione!»."
+       ],
+       [
+        "Così la parola del Signore è diventata per me causa di vergogna e di scherno tutto il giorno."
+       ],
+       [
+        "Mi dicevo: «Non penserò più a lui, non parlerò più nel suo nome!»."
+       ],
+       [
+        "Ma nel mio cuore c'era come un fuoco ardente, trattenuto nelle mie ossa; mi sforzavo di contenerlo, ma non potevo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de Jérémie"
+       ]
+      ],
+      "cite": "20, 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, tu m'as séduit, et j'ai été séduit ; tu m'as saisi, et tu as réussi. À longueur de journée je suis exposé à la raillerie, tout le monde se moque de moi. Chaque fois que j'ai à dire la parole, je dois crier, je dois proclamer : \" Violence et dévastation ! \" À longueur de journée, la parole du Seigneur attire sur moi l'insulte et la moquerie. Je me disais : \" Je ne penserai plus à lui, je ne parlerai plus en son nom. \" Mais elle était comme un feu brûlant dans mon cœur, elle était enfermée dans mes os. Je m'épuisais à la maîtriser, sans y réussir."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jeremía"
+       ]
+      ],
+      "cite": "20, 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Du hast mich betört, o Herr, und ich ließ mich betören; du hast mich gepackt und überwältigt. Zum Gespött bin ich geworden den ganzen Tag, ein jeder verhöhnt mich. Ja, sooft ich rede, muss ich schreien, „Gewalt und Unterdrückung!“ muss ich rufen. Denn das Wort des Herrn bringt mir den ganzen Tag nur Spott und Hohn."
+       ],
+       [
+        "Sagte ich aber: Ich will nicht mehr an ihn denken und nicht mehr in seinem Namen sprechen!, so war es mir, als brenne in meinem Herzen ein Feuer, eingeschlossen in meinem Innern. Ich quälte mich, es auszuhalten, und konnte nicht."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people"
+  }
+ ],
+ "title": {}
+}

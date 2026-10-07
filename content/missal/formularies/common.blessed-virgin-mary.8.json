@@ -1,1 +1,1014 @@
-{"id":"common.blessed-virgin-mary.8","source":"comunes_votivas/comunes_bmv#bmv8","kind":"common","items":[{"slot":"85","text":{"la":[{"k":"h2","lines":[["COMMUNE BEATÆ MARIÆ VIRGINIS"]]},{"k":"h3","lines":[["I. TEMPORE « PER ANNUM »"],["8"]]}],"pt-BR":[{"k":"h2","lines":[["COMUM DA BEM-AVENTURADA VIRGEM MARIA"]]},{"k":"h3","lines":[["I. No Tempo \"Comum\""],["8"]]}],"en-US":[{"k":"h2","lines":[["COMMON OF THE BLESSED VIRGIN MARY"]]},{"k":"h3","lines":[["I. In Ordinary Time"],["8"]]}],"es":[{"k":"h2","lines":[["COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"]]},{"k":"h3","lines":[["I. Tiempo ordinario"],["8"]]}],"it":[{"k":"h2","lines":[["COMUNE DELLA BEATA VERGINE MARIA"]]},{"k":"h3","lines":[["I. Nel Tempo Ordinario"],["8."]]}],"fr":[{"k":"h2","lines":[["COMMUN DE LA VIERGE MARIE"]]},{"k":"h3","lines":[["I. Temps Ordinaire"],["8"]]}]},"part":"title"},{"slot":"86","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]]}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]]}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]]}],"es":[{"k":"h4","lines":[["Antífona de entrada"]]}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]]}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]]}]},"part":"entranceAntiphon"},{"slot":"87","text":{"la":[{"k":"p","lines":[["Felix es, sacra Virgo María, et omni laude digníssima: quia ex te ortus est sol iustítiæ, Christus Deus noster, per quem salváti et redémpti sumus."]]}],"pt-BR":[{"k":"p","lines":[["Sois feliz, ó Santa Virgem Maria,"],["e mui digna de todo louvor,"],["pois de vós nasceu o Sol da Justiça,"],["Cristo nosso Deus, por quem fomos salvos e remidos."]]}],"en-US":[{"k":"p","lines":[["Happy are you, holy Virgin Mary, and most worthy of all praise, for from you arose the sun of justice, Christ our God, through whom we have been saved and redeemed."]]}],"es":[{"k":"p","lines":[["Dichosa eres, santa Virgen María, y digna de toda alabanza: porque de ti nació el sol de justicia, Cristo nuestro Dios, por quien fuimos salvados y redimidos."]]}],"it":[{"k":"p","lines":[["Te beata, Vergine Maria, e degna di ogni lode; da te è sorto il sole di giustizia, Cristo nostro Dio: da lui siamo stati salvati e redenti."]]}],"fr":[{"k":"p","lines":[["Heureuse es-tu, sainte Vierge Marie,"],["et digne de toute louange :"],["de toi s'est levé le soleil de justice, le Christ notre Dieu ;"],["il est notre salut et notre rédemption."]]}]},"part":"entranceAntiphon"},{"slot":"88","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}]},"part":"collect"},{"slot":"89","text":{"la":[{"k":"p","lines":[["Concéde, quǽsumus, omnípotens Deus, ut fidéles tui, qui sub sanctíssimæ Vírginis Maríæ patrocínio lætántur, eius pia intercessióne a cunctis malis liberéntur in terris, et ad gáudia ætérna perveníre mereántur in cælis. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus onipotente,"],["aos vossos fiéis, que se alegram"],["pela proteção da Santíssima Virgem Maria,"],["concedei, por sua piedosa intercessão,"],["sejam libertos de todos os males na terra"],["e mereçam chegar às alegrias eternas no céu."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Grant, we pray, almighty God, that your faithful, who rejoice under the patronage of the most holy Virgin Mary, may be freed by her motherly intercession from all evils on earth and merit the attainment of eternal joys in heaven."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso,"],["concede a tus fieles,"],["alegres bajo la protección de la santísima Virgen María,"],["verse libres, por su intercesión,"],["de los males de este mundo"],["y alcanzar los gozos eternos del cielo."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente, ai tuoi fedeli, che si rallegrano per la protezione della santissima Vergine Maria, concedi, per la sua materna intercessione, di essere liberati in terra da tutti i mali e di giungere in cielo alle gioie eterne. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Dieu tout-puissant :"],["puisque tes fidèles sont heureux"],["d'être sous la protection de Marie, la Vierge très sainte,"],["accorde-leur, par sa maternelle intercession,"],["d'être délivrés de tout mal sur la terre"],["et conduits aux joies éternelles dans le ciel."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}]},"part":"collect"},{"slot":"90","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}]},"part":"prayerOverOfferings"},{"slot":"91","text":{"la":[{"k":"p","lines":[["Preces, Dómine, tuórum réspice oblationésque fidélium, in beátæ Maríæ Dei Genetrícis commemoratióne delátas, ut et tibi gratæ sint, et nobis cónferant tuæ propitiatiónis auxílium. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Acolhei, Senhor, as orações e oferendas dos vossos fiéis,"],["que vos apresentamos na comemoração"],["da Bem-aventurada Virgem Maria, Mãe de Deus;"],["que elas vos sejam agradáveis"],["e nos tragam o auxílio da vossa misericórdia."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look, O Lord, upon the prayers and offerings of your faithful, presented in commemoration of Blessed Mary, the Mother of God, that they may be pleasing to you and may confer on us your help and forgiveness."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Acoge, Señor, las súplicas y ofrendas de los fieles, que te presentamos"],["en la memoria de santa María, Madre de Dios,"],["para que te sean agradables"],["y nos obtengan el auxilio de tu protección."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Volgi lo sguardo, o Signore, alle preghiere e alle offerte che i tuoi fedeli ti presentano nella memoria della beata Vergine Maria, Madre di Dio, perché siano a te gradite e portino a noi il soccorso della tua benevolenza. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["En la mémoire de la bienheureuse Marie, Mère de Dieu,"],["regarde, Seigneur, les prières et les offrandes"],["présentées par tes fidèles :"],["qu'elles soient agréables à tes yeux,"],["et nous obtiennent le secours de ta miséricorde."],["Par le Christ, notre Seigneur."]]}]},"part":"prayerOverOfferings"},{"slot":"93","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Lc 1, 48"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Lc 1, 48"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Lk 1: 48"}],"es":[{"k":"h4","lines":[["Antífona de comunión"]],"cite":"Cf . Lc 1, 48"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Lc 1, 48"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Lc 1, 48"}]},"part":"communionAntiphon"},{"slot":"94","text":{"la":[{"k":"p","lines":[["Respéxit Dóminus humilitátem ancíllæ suæ, ecce enim beátam me dicent omnes generatiónes."]]}],"pt-BR":[{"k":"p","lines":[["Pois ele viu a pequenez de sua serva,"],["desde agora as gerações hão de chamar-me de bendita."]]}],"en-US":[{"k":"p","lines":[["The Lord has looked on his lowly handmaid; behold, henceforth all generations will call me blessed."]]}],"es":[{"k":"p","lines":[["El Señor ha mirado la humildad de su esclava, desde ahora me felicitarán todas las generaciones."]]}],"it":[{"k":"p","lines":[["Tutte le generazioni mi chiameranno beata, perché il Signore ha guardato l'umiltà della sua serva."]]}],"fr":[{"k":"p","lines":[["Le Seigneur s'est penché sur son humble servante ;"],["désormais tous les âges me diront bienheureuse."]]}]},"part":"communionAntiphon"},{"slot":"95","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}]},"part":"postcommunion"},{"slot":"96","text":{"la":[{"k":"p","lines":[["Salutáribus refécti sacraméntis, súpplices te, Dómine, deprecámur, ut, qui memóriam beátæ Vírginis Dei Genetrícis Maríæ venerándo égimus, redemptiónis tuæ fructum perpétuo experíri mereámur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor, saciados pelos sacramentos da salvação,"],["súplices vos pedimos que,"],["ao celebrarmos a memória"],["da Bem-aventurada Virgem Maria, Mãe de Deus,"],["mereçamos saborear sempre mais os frutos da vossa redenção."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Renewed by the Sacrament of salvation, we humbly beseech you, Lord, that we, who have honored in veneration the memory of the Blessed Virgin Mary, Mother of God, may merit to experience in perpetuity the fruits of your redemption."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Alimentados con los sacramentos de la salvación"],["te pedimos con humildad, Señor,"],["que, al celebrar piadosamente"],["la memoria de la bienaventurada Virgen María, Madre de Dios,"],["merezcamos gozar siempre"],["del fruto de tu redención."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Nutriti con i sacramenti della salvezza, ti preghiamo umilmente, o Signore: concedi a noi che abbiamo celebrato la memoria della beata Vergine Maria, Madre di Dio, di godere sempre il frutto della tua redenzione. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Fortifiés par les sacrements du salut,"],["nous te supplions, Seigneur :"],["alors que nous vénérons la mémoire"],["de la bienheureuse Vierge Marie, Mère de Dieu,"],["accorde-nous de pouvoir goûter sans cesse"],["les fruits de la rédemption."],["Par le Christ, notre Seigneur."]]}]},"part":"postcommunion"}],"prefaces":["preface.44","preface.43","preface.45","preface.46","preface.47"],"title":{"la":"COMMUNE BEATÆ MARIÆ VIRGINIS","pt-BR":"COMUM DA BEM-AVENTURADA VIRGEM MARIA","en-US":"COMMON OF THE BLESSED VIRGIN MARY","es":"COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA","it":"COMUNE DELLA BEATA VERGINE MARIA","fr":"COMMUN DE LA VIERGE MARIE"},"subtitle":{"la":"I. TEMPORE « PER ANNUM » 8","pt-BR":"I. No Tempo \"Comum\" 8","en-US":"I. In Ordinary Time 8","es":"I. Tiempo ordinario 8","it":"I. Nel Tempo Ordinario 8.","fr":"I. Temps Ordinaire 8"}}
+{
+ "id": "common.blessed-virgin-mary.8",
+ "kind": "common",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUNE BEATÆ MARIÆ VIRGINIS"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. TEMPORE « PER ANNUM »"
+       ],
+       [
+        "8"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUM DA BEM-AVENTURADA VIRGEM MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. No Tempo \"Comum\""
+       ],
+       [
+        "8"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMON OF THE BLESSED VIRGIN MARY"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. In Ordinary Time"
+       ],
+       [
+        "8"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Tiempo ordinario"
+       ],
+       [
+        "8"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMUNE DELLA BEATA VERGINE MARIA"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Nel Tempo Ordinario"
+       ],
+       [
+        "8."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "COMMUN DE LA VIERGE MARIE"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "I. Temps Ordinaire"
+       ],
+       [
+        "8"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Felix es, sacra Virgo María, et omni laude digníssima: quia ex te ortus est sol iustítiæ, Christus Deus noster, per quem salváti et redémpti sumus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sois feliz, ó Santa Virgem Maria,"
+       ],
+       [
+        "e mui digna de todo louvor,"
+       ],
+       [
+        "pois de vós nasceu o Sol da Justiça,"
+       ],
+       [
+        "Cristo nosso Deus, por quem fomos salvos e remidos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Happy are you, holy Virgin Mary, and most worthy of all praise, for from you arose the sun of justice, Christ our God, through whom we have been saved and redeemed."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dichosa eres, santa Virgen María, y digna de toda alabanza: porque de ti nació el sol de justicia, Cristo nuestro Dios, por quien fuimos salvados y redimidos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te beata, Vergine Maria, e degna di ogni lode; da te è sorto il sole di giustizia, Cristo nostro Dio: da lui siamo stati salvati e redenti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureuse es-tu, sainte Vierge Marie,"
+       ],
+       [
+        "et digne de toute louange :"
+       ],
+       [
+        "de toi s'est levé le soleil de justice, le Christ notre Dieu ;"
+       ],
+       [
+        "il est notre salut et notre rédemption."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Concéde, quǽsumus, omnípotens Deus, ut fidéles tui, qui sub sanctíssimæ Vírginis Maríæ patrocínio lætántur, eius pia intercessióne a cunctis malis liberéntur in terris, et ad gáudia ætérna perveníre mereántur in cælis. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus onipotente,"
+       ],
+       [
+        "aos vossos fiéis, que se alegram"
+       ],
+       [
+        "pela proteção da Santíssima Virgem Maria,"
+       ],
+       [
+        "concedei, por sua piedosa intercessão,"
+       ],
+       [
+        "sejam libertos de todos os males na terra"
+       ],
+       [
+        "e mereçam chegar às alegrias eternas no céu."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grant, we pray, almighty God, that your faithful, who rejoice under the patronage of the most holy Virgin Mary, may be freed by her motherly intercession from all evils on earth and merit the attainment of eternal joys in heaven."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso,"
+       ],
+       [
+        "concede a tus fieles,"
+       ],
+       [
+        "alegres bajo la protección de la santísima Virgen María,"
+       ],
+       [
+        "verse libres, por su intercesión,"
+       ],
+       [
+        "de los males de este mundo"
+       ],
+       [
+        "y alcanzar los gozos eternos del cielo."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente, ai tuoi fedeli, che si rallegrano per la protezione della santissima Vergine Maria, concedi, per la sua materna intercessione, di essere liberati in terra da tutti i mali e di giungere in cielo alle gioie eterne. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Dieu tout-puissant :"
+       ],
+       [
+        "puisque tes fidèles sont heureux"
+       ],
+       [
+        "d'être sous la protection de Marie, la Vierge très sainte,"
+       ],
+       [
+        "accorde-leur, par sa maternelle intercession,"
+       ],
+       [
+        "d'être délivrés de tout mal sur la terre"
+       ],
+       [
+        "et conduits aux joies éternelles dans le ciel."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preces, Dómine, tuórum réspice oblationésque fidélium, in beátæ Maríæ Dei Genetrícis commemoratióne delátas, ut et tibi gratæ sint, et nobis cónferant tuæ propitiatiónis auxílium. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acolhei, Senhor, as orações e oferendas dos vossos fiéis,"
+       ],
+       [
+        "que vos apresentamos na comemoração"
+       ],
+       [
+        "da Bem-aventurada Virgem Maria, Mãe de Deus;"
+       ],
+       [
+        "que elas vos sejam agradáveis"
+       ],
+       [
+        "e nos tragam o auxílio da vossa misericórdia."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look, O Lord, upon the prayers and offerings of your faithful, presented in commemoration of Blessed Mary, the Mother of God, that they may be pleasing to you and may confer on us your help and forgiveness."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acoge, Señor, las súplicas y ofrendas de los fieles, que te presentamos"
+       ],
+       [
+        "en la memoria de santa María, Madre de Dios,"
+       ],
+       [
+        "para que te sean agradables"
+       ],
+       [
+        "y nos obtengan el auxilio de tu protección."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Volgi lo sguardo, o Signore, alle preghiere e alle offerte che i tuoi fedeli ti presentano nella memoria della beata Vergine Maria, Madre di Dio, perché siano a te gradite e portino a noi il soccorso della tua benevolenza. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En la mémoire de la bienheureuse Marie, Mère de Dieu,"
+       ],
+       [
+        "regarde, Seigneur, les prières et les offrandes"
+       ],
+       [
+        "présentées par tes fidèles :"
+       ],
+       [
+        "qu'elles soient agréables à tes yeux,"
+       ],
+       [
+        "et nous obtiennent le secours de ta miséricorde."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 48"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 48"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Lk 1: 48"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de comunión"
+       ]
+      ],
+      "cite": "Cf . Lc 1, 48"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 48"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 48"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Respéxit Dóminus humilitátem ancíllæ suæ, ecce enim beátam me dicent omnes generatiónes."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pois ele viu a pequenez de sua serva,"
+       ],
+       [
+        "desde agora as gerações hão de chamar-me de bendita."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord has looked on his lowly handmaid; behold, henceforth all generations will call me blessed."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor ha mirado la humildad de su esclava, desde ahora me felicitarán todas las generaciones."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tutte le generazioni mi chiameranno beata, perché il Signore ha guardato l'umiltà della sua serva."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur s'est penché sur son humble servante ;"
+       ],
+       [
+        "désormais tous les âges me diront bienheureuse."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salutáribus refécti sacraméntis, súpplices te, Dómine, deprecámur, ut, qui memóriam beátæ Vírginis Dei Genetrícis Maríæ venerándo égimus, redemptiónis tuæ fructum perpétuo experíri mereámur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, saciados pelos sacramentos da salvação,"
+       ],
+       [
+        "súplices vos pedimos que,"
+       ],
+       [
+        "ao celebrarmos a memória"
+       ],
+       [
+        "da Bem-aventurada Virgem Maria, Mãe de Deus,"
+       ],
+       [
+        "mereçamos saborear sempre mais os frutos da vossa redenção."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Renewed by the Sacrament of salvation, we humbly beseech you, Lord, that we, who have honored in veneration the memory of the Blessed Virgin Mary, Mother of God, may merit to experience in perpetuity the fruits of your redemption."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alimentados con los sacramentos de la salvación"
+       ],
+       [
+        "te pedimos con humildad, Señor,"
+       ],
+       [
+        "que, al celebrar piadosamente"
+       ],
+       [
+        "la memoria de la bienaventurada Virgen María, Madre de Dios,"
+       ],
+       [
+        "merezcamos gozar siempre"
+       ],
+       [
+        "del fruto de tu redención."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nutriti con i sacramenti della salvezza, ti preghiamo umilmente, o Signore: concedi a noi che abbiamo celebrato la memoria della beata Vergine Maria, Madre di Dio, di godere sempre il frutto della tua redenzione. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fortifiés par les sacrements du salut,"
+       ],
+       [
+        "nous te supplions, Seigneur :"
+       ],
+       [
+        "alors que nous vénérons la mémoire"
+       ],
+       [
+        "de la bienheureuse Vierge Marie, Mère de Dieu,"
+       ],
+       [
+        "accorde-nous de pouvoir goûter sans cesse"
+       ],
+       [
+        "les fruits de la rédemption."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.44",
+  "preface.43",
+  "preface.45",
+  "preface.46",
+  "preface.47"
+ ],
+ "title": {
+  "la": "COMMUNE BEATÆ MARIÆ VIRGINIS",
+  "pt-BR": "COMUM DA BEM-AVENTURADA VIRGEM MARIA",
+  "en-US": "COMMON OF THE BLESSED VIRGIN MARY",
+  "es": "COMÚN DE LA BIENAVENTURADA VIRGEN MARÍA",
+  "it": "COMUNE DELLA BEATA VERGINE MARIA",
+  "fr": "COMMUN DE LA VIERGE MARIE"
+ },
+ "subtitle": {
+  "la": "I. TEMPORE « PER ANNUM » 8",
+  "pt-BR": "I. No Tempo \"Comum\" 8",
+  "en-US": "I. In Ordinary Time 8",
+  "es": "I. Tiempo ordinario 8",
+  "it": "I. Nel Tempo Ordinario 8.",
+  "fr": "I. Temps Ordinaire 8"
+ }
+}

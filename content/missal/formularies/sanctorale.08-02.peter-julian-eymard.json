@@ -1,1 +1,772 @@
-{"id":"sanctorale.08-02.peter-julian-eymard","source":"santos/santos_ago#0802Z","kind":"sanctoral","items":[{"slot":"15","text":{"la":[{"k":"h2","lines":[["Die 2 augusti"],["S. Petri Iuliani Eymard, presbyteri"]]},{"k":"p","lines":[["Natus est in oppido La Mure, in Gallia, anno 1811. Sacerdotio auctus et pastorali curæ per aliquot annos addictus, Societatem Maríæ ingressus est. Eximius eucharistici mystérii cultor, religiosorum, tum virorum cum mulierum, congregationes ad cultum eucharisticum intendentes instituit, atque ad fovendum apud cuiusvis condicionis gentes amorem erga sanctam Eucharistiam plurima atque aptissima duxit incepta. Mortuus est die prima mensis augusti 1868, in oppido natali."]]},{"k":"p","lines":[[{"m":"rubric","t":"De Communi pastorum:"}," ",{"m":"link","t":"1","to":"common.pastors.6"},{"m":"link","t":"2","to":"common.pastors.7"},{"m":"rubric","t":", vel de Communi sanctorum:pro religiosis"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"pt-BR":[{"k":"h2","lines":[["2 de agosto"],["São Pedro Julião Eymard, presbítero"]]},{"k":"p","lines":[["Pedro (La Mure, França, 1811 - 1° de agosto de 1868), ordenado sacerdote e tendo-se dedicado por alguns anos ao ministério pastoral, ingressou na Congregação dos Maristas. Grande devoto do mistério eucarístico, fundou congregações religiosas tanto de homens como de mulheres, dedicadas ao culto eucarístico, e promoveu muitas e apropriadas iniciativas para incentivar o amor para com a Santíssima Eucaristia entre pessoas de todas as condições."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comum dos Pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.6"},{"m":"link","t":"2","to":"common.pastors.7"},{"m":"rubric","t":", ou Comum dos Santos e Santas: para religiosos"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"en-US":[{"k":"h2","lines":[["August 2"],["Saint Peter Julian Eymard, priest"]]},{"k":"p","lines":[[{"m":"rubric","t":"From the Common of Pastors:"}," ",{"m":"link","t":"1","to":"common.pastors.6"},{"m":"link","t":"2","to":"common.pastors.7"},{"m":"rubric","t":", or from the Common of Holy Men and Women: For Religious"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"es":[{"k":"h2","lines":[["2 de agosto"],["San Pedro Julián Eymard, presbítero"]]},{"k":"p","lines":[["Nació en La Mure, Francia, el año 1811. Fue ordenado sacerdote y por unos años se dedicó a la cura pastoral, ingresando más tarde en la Compañía de María. Movido por su intensa devoción a la Eucaristía, fundó varias congregaciones, tanto de hombres como de mujeres, entregadas al culto eucarístico, y puso en práctica una abundante y excelente serie de iniciativas destinadas a promover en personas de toda índole el amor a la sagrada Eucaristía. Murió el día uno de agosto de 1868 en su población natal."]]},{"k":"p","lines":[[{"m":"rubric","t":"Común de pastores:"}," ",{"m":"link","t":"1","to":"common.pastors.6"},{"m":"link","t":"2","to":"common.pastors.7"},{"m":"rubric","t":", o Común de santos: religiosos"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"it":[{"k":"h2","lines":[["2 agosto"],["SAN PIER GIULIANO EYMARD, presbitero"]]},{"k":"p","lines":[["Pietro Giuliano (La Mure, Francia, 4 febbraio 1811 - 1 agosto 1868), presbitero diocesano assiduo alla predicazione, entrò nella Società di Maria (Maristi), dedicandosi alle missioni popolari. Di fronte alla diffusa indifferenza religiosa, nelle periferie urbane come nelle campagne, richiamò la centralità dell'Eucaristia quale sorgente di vita cristiana. Promosse la pratica dell'adorazione eucaristica e la comunione frequente. A tale scopo fondò la Congregazione del Santissimo Sacramento, a cui affiancò le Dame del Santissimo Sacramento e l'Associazione dei preti adoratori."]]},{"k":"p","lines":[[{"m":"rubric","t":"Comune dei pastori:"}," ",{"m":"link","t":"1","to":"common.pastors.6"},{"m":"link","t":"2","to":"common.pastors.7"},{"m":"rubric","t":", oppure Comune dei santi [per i religiosi]"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"fr":[{"k":"h2","lines":[["2 août"],["Saint Pierre-Julien Eymard, prêtre"]]},{"k":"p","lines":[["Pierre-Julien Eymard est né en France, à la Mure-d'Isère, dans le diocèse de Grenoble, en 1811. Son nom est attaché à la congrégation des Prêtres du Saint-Sacrement qu'il fonde en 1856. Son attirance pour le mystère de l'eucharistie détermina son apostolat. Après avoir longuement contemplé son Seigneur sous le voile des espèces eucharistiques, il est enfin appelé au face à face le 1er août 1868."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commun des Pasteurs:"}," ",{"m":"link","t":"1","to":"common.pastors.6"},{"m":"link","t":"2","to":"common.pastors.7"},{"m":"rubric","t":", ou des saints: Religieux"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}],"de":[{"k":"h2","lines":[["2. August"],["Hl. Petrus Julianus Eymard, Ordenspriester"]]},{"k":"p","lines":[["Er wurde 1811 in La Mure (Frankreich) geboren, zum Priester geweiht und war einige Jahre als Seelsorger in seiner Pfarrei tätig. Später trat er in den Marianistenorden ein. Auf Grund seiner brennenden Verehrung für die allerheiligste Eucharistie gründete er mehrere Kongregationen, sowohl von Frauen als auch von Männern, die sich der eucharistischen Anbetung und Frömmigkeit widmeten und gründete Initiativen um Menschen aller Stände die Verehrung des heiligen Altarsakramentes näherzubringen. Er starb im Jahr 1868 in seinem Heimatort."]]},{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Hirten der Kirche:"}," ",{"m":"link","t":"1","to":"common.pastors.6"},{"m":"link","t":"2","to":"common.pastors.7"},{"m":"rubric","t":", oder für Ordensleute:"}," ",{"m":"link","t":"1","to":"common.holy-men-and-women.10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"},{"m":"rubric","t":"."}]]}]},"part":"title"},{"slot":"16","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"17","text":{"la":[{"k":"p","lines":[["Deus, qui beátum Petrum Iuliánum erga sacra mystéria Córporis et Sánguinis Fílii tui dilectióne decorásti mirífica, concéde propítius, ut, quam ille ex hoc divíno percépit pinguédinem, eándem et nos percípere mereámur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus, que destes a São Pedro Julião Eymard"],["um amor admirável pelos sagrados mistérios"],["do Corpo e do Sangue de vosso Filho,"],["concedei, na vossa bondade,"],["que mereçamos saborear o mesmo alimento"],["que ele encontrou nesse divino banquete."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["O God, who adorned Saint Peter Julian Eymard with a wonderful love for the sacred mysteries of the Body and Blood of your Son,"],["graciously grant,"],["that we, too, may be worthy to receive"],["the delights he drew from this divine banquet."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Oh, Dios,"],["que hiciste brillar a san Pedro Julián Eymard"],["por un amor admirable hacia los santos misterios"],["del Cuerpo y de la Sangre de tu Hijo,"],["concédenos en tu bondad"],["recibir la misma riqueza que él encontró"],["en este divino sacramento."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["O Dio, che a san Pietro Giuliano [Eymard] hai dato la grazia di un amore singolare per il mistero del Corpo e Sangue del tuo Figlio, concedi benigno anche a noi di ricevere con abbondanza lo stesso nutrimento che egli attinse da questo divino convito. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Seigneur Dieu,"],["tu as fait rayonner saint Pierre-Julien"],["d'un amour admirable pour le saint sacrement"],["du Corps et du Sang de ton Fils ;"],["accorde-nous de savoir, nous aussi,"],["goûter la richesse du festin auquel tu nous convies."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, du hast den heiligen Petrus Julianus mit einer wunderbaren Liebe zum heiligen Sakrament des Leibes und Blutes deines Sohnes erfüllt. Gewähre gnädig, dass auch wir denselben Reichtum erlangen, den er aus dem göttlichen Geheimnis empfangen hat. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"18","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"},{"mark":"readings"}],"precedence":12,"lectionary":"sanctorale.08-02.peter-julian-eymard","prefaces":["preface.56"],"commons":["common.pastors.6","common.pastors.7","common.holy-men-and-women.10","common.holy-men-and-women.11"],"title":{"la":"S. Petri Iuliani Eymard, presbyteri","pt-BR":"São Pedro Julião Eymard, presbítero","en-US":"Saint Peter Julian Eymard, priest","es":"San Pedro Julián Eymard, presbítero","it":"SAN PIER GIULIANO EYMARD, presbitero","fr":"Saint Pierre-Julien Eymard, prêtre","de":"Hl. Petrus Julianus Eymard, Ordenspriester"}}
+{
+ "id": "sanctorale.08-02.peter-julian-eymard",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 2 augusti"
+       ],
+       [
+        "S. Petri Iuliani Eymard, presbyteri"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Natus est in oppido La Mure, in Gallia, anno 1811. Sacerdotio auctus et pastorali curæ per aliquot annos addictus, Societatem Maríæ ingressus est. Eximius eucharistici mystérii cultor, religiosorum, tum virorum cum mulierum, congregationes ad cultum eucharisticum intendentes instituit, atque ad fovendum apud cuiusvis condicionis gentes amorem erga sanctam Eucharistiam plurima atque aptissima duxit incepta. Mortuus est die prima mensis augusti 1868, in oppido natali."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "De Communi pastorum:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", vel de Communi sanctorum:pro religiosis"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 de agosto"
+       ],
+       [
+        "São Pedro Julião Eymard, presbítero"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pedro (La Mure, França, 1811 - 1° de agosto de 1868), ordenado sacerdote e tendo-se dedicado por alguns anos ao ministério pastoral, ingressou na Congregação dos Maristas. Grande devoto do mistério eucarístico, fundou congregações religiosas tanto de homens como de mulheres, dedicadas ao culto eucarístico, e promoveu muitas e apropriadas iniciativas para incentivar o amor para com a Santíssima Eucaristia entre pessoas de todas as condições."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos Pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou Comum dos Santos e Santas: para religiosos"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "August 2"
+       ],
+       [
+        "Saint Peter Julian Eymard, priest"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From the Common of Pastors:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", or from the Common of Holy Men and Women: For Religious"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 de agosto"
+       ],
+       [
+        "San Pedro Julián Eymard, presbítero"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nació en La Mure, Francia, el año 1811. Fue ordenado sacerdote y por unos años se dedicó a la cura pastoral, ingresando más tarde en la Compañía de María. Movido por su intensa devoción a la Eucaristía, fundó varias congregaciones, tanto de hombres como de mujeres, entregadas al culto eucarístico, y puso en práctica una abundante y excelente serie de iniciativas destinadas a promover en personas de toda índole el amor a la sagrada Eucaristía. Murió el día uno de agosto de 1868 en su población natal."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Común de pastores:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", o Común de santos: religiosos"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 agosto"
+       ],
+       [
+        "SAN PIER GIULIANO EYMARD, presbitero"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pietro Giuliano (La Mure, Francia, 4 febbraio 1811 - 1 agosto 1868), presbitero diocesano assiduo alla predicazione, entrò nella Società di Maria (Maristi), dedicandosi alle missioni popolari. Di fronte alla diffusa indifferenza religiosa, nelle periferie urbane come nelle campagne, richiamò la centralità dell'Eucaristia quale sorgente di vita cristiana. Promosse la pratica dell'adorazione eucaristica e la comunione frequente. A tale scopo fondò la Congregazione del Santissimo Sacramento, a cui affiancò le Dame del Santissimo Sacramento e l'Associazione dei preti adoratori."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comune dei pastori:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", oppure Comune dei santi [per i religiosi]"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 août"
+       ],
+       [
+        "Saint Pierre-Julien Eymard, prêtre"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pierre-Julien Eymard est né en France, à la Mure-d'Isère, dans le diocèse de Grenoble, en 1811. Son nom est attaché à la congrégation des Prêtres du Saint-Sacrement qu'il fonde en 1856. Son attirance pour le mystère de l'eucharistie détermina son apostolat. Après avoir longuement contemplé son Seigneur sous le voile des espèces eucharistiques, il est enfin appelé au face à face le 1er août 1868."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commun des Pasteurs:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", ou des saints: Religieux"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2. August"
+       ],
+       [
+        "Hl. Petrus Julianus Eymard, Ordenspriester"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er wurde 1811 in La Mure (Frankreich) geboren, zum Priester geweiht und war einige Jahre als Seelsorger in seiner Pfarrei tätig. Später trat er in den Marianistenorden ein. Auf Grund seiner brennenden Verehrung für die allerheiligste Eucharistie gründete er mehrere Kongregationen, sowohl von Frauen als auch von Männern, die sich der eucharistischen Anbetung und Frömmigkeit widmeten und gründete Initiativen um Menschen aller Stände die Verehrung des heiligen Altarsakramentes näherzubringen. Er starb im Jahr 1868 in seinem Heimatort."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Hirten der Kirche:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.6"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.7"
+        },
+        {
+         "m": "rubric",
+         "t": ", oder für Ordensleute:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.holy-men-and-women.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui beátum Petrum Iuliánum erga sacra mystéria Córporis et Sánguinis Fílii tui dilectióne decorásti mirífica, concéde propítius, ut, quam ille ex hoc divíno percépit pinguédinem, eándem et nos percípere mereámur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, que destes a São Pedro Julião Eymard"
+       ],
+       [
+        "um amor admirável pelos sagrados mistérios"
+       ],
+       [
+        "do Corpo e do Sangue de vosso Filho,"
+       ],
+       [
+        "concedei, na vossa bondade,"
+       ],
+       [
+        "que mereçamos saborear o mesmo alimento"
+       ],
+       [
+        "que ele encontrou nesse divino banquete."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O God, who adorned Saint Peter Julian Eymard with a wonderful love for the sacred mysteries of the Body and Blood of your Son,"
+       ],
+       [
+        "graciously grant,"
+       ],
+       [
+        "that we, too, may be worthy to receive"
+       ],
+       [
+        "the delights he drew from this divine banquet."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "que hiciste brillar a san Pedro Julián Eymard"
+       ],
+       [
+        "por un amor admirable hacia los santos misterios"
+       ],
+       [
+        "del Cuerpo y de la Sangre de tu Hijo,"
+       ],
+       [
+        "concédenos en tu bondad"
+       ],
+       [
+        "recibir la misma riqueza que él encontró"
+       ],
+       [
+        "en este divino sacramento."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio, che a san Pietro Giuliano [Eymard] hai dato la grazia di un amore singolare per il mistero del Corpo e Sangue del tuo Figlio, concedi benigno anche a noi di ricevere con abbondanza lo stesso nutrimento che egli attinse da questo divino convito. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur Dieu,"
+       ],
+       [
+        "tu as fait rayonner saint Pierre-Julien"
+       ],
+       [
+        "d'un amour admirable pour le saint sacrement"
+       ],
+       [
+        "du Corps et du Sang de ton Fils ;"
+       ],
+       [
+        "accorde-nous de savoir, nous aussi,"
+       ],
+       [
+        "goûter la richesse du festin auquel tu nous convies."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, du hast den heiligen Petrus Julianus mit einer wunderbaren Liebe zum heiligen Sakrament des Leibes und Blutes deines Sohnes erfüllt. Gewähre gnädig, dass auch wir denselben Reichtum erlangen, den er aus dem göttlichen Geheimnis empfangen hat. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "precedence": 12,
+ "lectionary": "sanctorale.08-02.peter-julian-eymard",
+ "prefaces": [
+  "preface.56"
+ ],
+ "commons": [
+  "common.pastors.6",
+  "common.pastors.7",
+  "common.holy-men-and-women.10",
+  "common.holy-men-and-women.11"
+ ],
+ "title": {
+  "la": "S. Petri Iuliani Eymard, presbyteri",
+  "pt-BR": "São Pedro Julião Eymard, presbítero",
+  "en-US": "Saint Peter Julian Eymard, priest",
+  "es": "San Pedro Julián Eymard, presbítero",
+  "it": "SAN PIER GIULIANO EYMARD, presbitero",
+  "fr": "Saint Pierre-Julien Eymard, prêtre",
+  "de": "Hl. Petrus Julianus Eymard, Ordenspriester"
+ }
+}

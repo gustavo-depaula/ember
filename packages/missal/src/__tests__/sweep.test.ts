@@ -61,7 +61,7 @@ describe('every day of 2025-2027 assembles a whole Mass', () => {
           }
         }
       }
-      // What is left are passages upstream itself lacks in a language; the
+      // What is left are passages the corpus lacks in a language; the
       // snapshot is that list, so a new hole or a filled one shows up here.
       expect([...holes].map(([hole, where]) => `${hole} (${where})`)).toMatchSnapshot()
     })

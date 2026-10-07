@@ -1,1 +1,1249 @@
-{"id":"tempore.ordinary-time.week-30","source":"tiempos/tiempos_ordinario#OT30","kind":"tempore","items":[{"slot":"377","text":{"la":[{"k":"h2","lines":[["DOMINICA XXX «PER ANNUM»"]]}],"pt-BR":[{"k":"h2","lines":[["30º DOMINGO DO TEMPO COMUM"]]}],"en-US":[{"k":"h2","lines":[["30th SUNDAY IN ORDINARY TIME"]]}],"es":[{"k":"h2","lines":[["XXX DOMINGO DEL TIEMPO ORDINARIO"]]}],"it":[{"k":"h2","lines":[["XXX DOMENICA"]]}],"fr":[{"k":"h2","lines":[["Temps ordinaire"],["30ème DIMANCHE"]]}],"de":[{"k":"h2","lines":[["30. SONNTAG IM JAHRESKREIS"]]}]},"part":"title"},{"slot":"378","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Ps 104, 3-4"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Sl 104, 3-4"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Ps 105 (104): 3-4"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Sal 104, 3-4"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Sal 104,3-4"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Ps 104, 3-4"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Ps 105 (104), 3-4"}]},"part":"entranceAntiphon"},{"slot":"379","text":{"la":[{"k":"p","lines":[["Lætétur cor quæréntium Dóminum. Quǽrite Dóminum, et confirmámini, quǽrite fáciem eius semper."]]}],"pt-BR":[{"k":"p","lines":[["Exulte o coração que busca a Deus!"],["Procurai o Senhor Deus e seu poder,"],["buscai constantemente a sua face."]]}],"en-US":[{"k":"p","lines":[["Let the hearts that seek the Lord rejoice; turn to the Lord and his strength; constantly seek his face."]]}],"es":[{"k":"p","lines":[["Que se alegren los que buscan al Señor. Recurrid al Señor y a su poder, buscad continuamente su rostro."]]}],"it":[{"k":"p","lines":[["Gioisca il cuore di chi cerca il Signore. Cercate il Signore e la sua potenza, cercate sempre il suo volto."]]}],"fr":[{"k":"p","lines":[["Joie pour les cœurs qui cherchent Dieu."],["Cherchez le Seigneur, et vous serez affermis,"],["recherchez sans trêve sa face."]]}],"de":[{"k":"p","lines":[["Freuen sollen sich alle, die den Herrn suchen. Sucht den Herrn und seine Macht, sucht sein Antlitz allezeit."]]}]},"part":"entranceAntiphon"},{"slot":"380","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"381","text":{"la":[{"k":"p","lines":[["Omnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum, et, ut mereámur ássequi quod promíttis, fac nos amáre quod prǽcipis. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Deus eterno e todo-poderoso,"],["aumentai em nós a fé, a esperança e a caridade"],["e, para merecermos alcançar o que prometeis,"],["fazei-nos amar o que ordenais."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Almighty ever-living God,"],["increase our faith, hope and charity,"],["and make us love what you command,"],["so that we may merit what you promise."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["aumenta nuestra fe, esperanza y caridad,"],["y, para que merezcamos conseguir lo que prometes,"],["concédenos amar tus preceptos."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, accresci in noi la fede, la speranza e la carità, e perché possiamo ottenere ciò che prometti, fa' che amiamo ciò che comandi. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["augmente en nous la foi, l'espérance et la charité ;"],["et pour que nous puissions obtenir ce que tu promets,"],["fais-nous aimer ce que tu commandes."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Allmächtiger, ewiger Gott, mehre in uns den Glauben, die Hoffnung und die Liebe. Gib uns die Gnade, zu lieben, was du gebietest, damit wir erlangen, was du verheißen hast. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"382","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"383","text":{"la":[{"k":"p","lines":[["Réspice, quǽsumus, Dómine, múnera quæ tuæ offérimus maiestáti, ut, quod nostro servítio géritur, ad tuam glóriam pótius dirigátur. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Olhai benigno, nó5 vos pedimos, Senhor,"],["os dons que vos apresentamos,"],["e nossa celebração seja, antes de tudo,"],["para a vossa glória."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Look, we pray, O Lord,"],["on the offerings we make to your majesty, that whatever is done by us in your service may be directed above all to your glory."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Mira Señor,"],["los dones que ofrecemos a tu majestad,"],["para que redunde en tu mayor gloria"],["cuanto se cumple con nuestro ministerio."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Guarda, o Signore, i doni che ti presentiamo, perché il nostro servizio sacerdotale renda gloria al tuo nome. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Regarde les présents que nous t'offrons,"],["nous t'en prions, Seigneur, Dieu de majesté :"],["permets que notre célébration"],["soit d'abord tournée vers ta gloire."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Allmächtiger Gott, sieh gnädig auf die Gaben, die wir darbringen, und lass uns dieses Opfer so feiern, dass es dir zur Ehre gereicht. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"384","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Cf. Ps 19, 6"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Sl 19, 6"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Cf. Ps 20 (19): 6"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Cf. Ps 19, 6"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Sal 19,6"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Cf. Ps 19, 6"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Vgl. Ps 20 (19), 6"}]},"part":"communionAntiphon"},{"slot":"385","text":{"la":[{"k":"p","lines":[["Lætábimur in salutári tuo, et in nómine Dei nostri magnificábimur."]]}],"pt-BR":[{"k":"p","lines":[["Nós nos alegraremos na vossa salvação"],["e no nome do nosso Deus exultaremos."]]}],"en-US":[{"k":"p","lines":[["We will ring out our joy at your saving help and exult in the name of our God."]]}],"es":[{"k":"p","lines":[["Que nos alegremos en tu salvación y glorifiquemos el nombre de nuestro Dios."]]}],"it":[{"k":"p","lines":[["Esulteremo per la tua vittoria e nel nome del nostro Dio alzeremo i vessilli."]]}],"fr":[{"k":"p","lines":[["Nous trouverons la joie en ton salut,"],["et la grandeur dans le nom de notre Dieu."]]}],"de":[{"k":"p","lines":[["Wir jubeln über die Hilfe des Herrn. Wir frohlocken im Namen unseres Gottes."]]}]},"part":"communionAntiphon"},{"slot":"386","text":{"la":[{"k":"p","lines":[[{"m":"rubric","t":"Vel: "}]],"cite":"Eph 5, 2"}],"pt-BR":[{"k":"p","lines":[[{"m":"rubric","t":"Ou: "}]],"cite":"Ef 5, 2"}],"en-US":[{"k":"p","lines":[[{"m":"rubric","t":"Or: "}]],"cite":"Eph 5: 2"}],"es":[{"k":"p","lines":[[{"m":"rubric","t":"O bien: "}]],"cite":"Ef 5, 2"}],"it":[{"k":"p","lines":[[{"m":"rubric","t":"Oppure: "}]],"cite":"Ef 5,2"}],"fr":[{"k":"p","lines":[[{"m":"rubric","t":"Ou bien: "}]],"cite":"Eph 5, 2"}],"de":[{"k":"p","lines":[[{"m":"rubric","t":"Oder: "}]],"cite":"Eph 5, 2"}]},"part":"communionAntiphon","role":"rubric"},{"slot":"387","text":{"la":[{"k":"p","lines":[["Christus diléxit nos, et trádidit semetípsum pro nobis, oblatiónem Deo in odórem suavitátis."]]}],"pt-BR":[{"k":"p","lines":[["Cristo nos amou"],["e se entregou a Deus por nós"],["em oblação de suave odor."]]}],"en-US":[{"k":"p","lines":[["Christ loved us and gave himself up for us, as a fragrant offering to God."]]}],"es":[{"k":"p","lines":[["Cristo nos amó y se entregó por nosotros como oblación de suave olor."]]}],"it":[{"k":"p","lines":[["Cristo ci ha amato e ha dato se stesso per noi, offrendosi a Dio in sacrificio di soave odore."],[{"m":"rubric","t":"★ A "}],["Amerai il Signore tuo Dio con tutto il tuo cuore, con tutta la tua anima e con tutta la tua mente."],[{"m":"rubric","t":"★ B "}],["«Rabbunì, Maestro, che io veda di nuovo». «Va', la tua fede ti ha salvato»."],[{"m":"rubric","t":"★ C "}],["Il pubblicano si batteva il petto dicendo: «O Dio, abbi pietà di me peccatore». E tornò a casa sua giustificato"]],"cite":"Lc 18, 13-14"}],"fr":[{"k":"p","lines":[["Le Christ nous a aimés et s'est livré lui-même pour nous,"],["s'offrant en sacrifice à Dieu, comme un parfum d'agréable odeur."]]}],"de":[{"k":"p","lines":[["Christus hat uns geliebt und sich für uns hingegeben als Gabe und Opfer, das Gott wohlgefällt."]]}]},"part":"communionAntiphon"},{"slot":"388","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"389","text":{"la":[{"k":"p","lines":[["Perfíciant in nobis, Dómine, quǽsumus, tua sacraménta quod cóntinent, ut, quæ nunc spécie gérimus, rerum veritáte capiámus. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Os vossos sacramentos, Senhor,"],["realizem o que significam,"],["a fim de que um dia possamos entrar"],["em plena posse do mistério"],["que agora em ritos celebramos."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["May your Sacraments, O Lord, we pray, perfect in us what lies within them,"],["that what we now celebrate in signs"],["we may one day possess in truth."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Que tus sacramentos, Señor,"],["efectúen en nosotros lo que expresan,"],["para que obtengamos en la realidad"],["lo que celebramos ahora sacramentalmente."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Si compia in noi, o Signore, la realtà significata dai tuoi sacramenti, perché otteniamo in pienezza ciò che ora celebriamo nel mistero. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Que tes sacrements, Seigneur, nous t'en prions,"],["achèvent de produire en nous ce qu'ils contiennent ;"],["puissions-nous saisir dans sa pleine vérité"],["ce que notre célébration préfigure aujourd'hui."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, gib, dass deine Sakramente in uns das Heil wirken, das sie enthalten, damit wir einst als unverhüllte Wirklichkeit empfangen, was wir jetzt in heiligen Zeichen begehen. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":6,"title":{"la":"DOMINICA XXX «PER ANNUM»","pt-BR":"30º DOMINGO DO TEMPO COMUM","en-US":"30th SUNDAY IN ORDINARY TIME","es":"XXX DOMINGO DEL TIEMPO ORDINARIO","it":"XXX DOMENICA","fr":"Temps ordinaire — 30ème DIMANCHE","de":"30. SONNTAG IM JAHRESKREIS"},"weekdayPrecedence":13}
+{
+ "id": "tempore.ordinary-time.week-30",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DOMINICA XXX «PER ANNUM»"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "30º DOMINGO DO TEMPO COMUM"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "30th SUNDAY IN ORDINARY TIME"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "XXX DOMINGO DEL TIEMPO ORDINARIO"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "XXX DOMENICA"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps ordinaire"
+       ],
+       [
+        "30ème DIMANCHE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "30. SONNTAG IM JAHRESKREIS"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Ps 104, 3-4"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 104, 3-4"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 105 (104): 3-4"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Sal 104, 3-4"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Sal 104,3-4"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Ps 104, 3-4"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Ps 105 (104), 3-4"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lætétur cor quæréntium Dóminum. Quǽrite Dóminum, et confirmámini, quǽrite fáciem eius semper."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exulte o coração que busca a Deus!"
+       ],
+       [
+        "Procurai o Senhor Deus e seu poder,"
+       ],
+       [
+        "buscai constantemente a sua face."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Let the hearts that seek the Lord rejoice; turn to the Lord and his strength; constantly seek his face."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que se alegren los que buscan al Señor. Recurrid al Señor y a su poder, buscad continuamente su rostro."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gioisca il cuore di chi cerca il Signore. Cercate il Signore e la sua potenza, cercate sempre il suo volto."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Joie pour les cœurs qui cherchent Dieu."
+       ],
+       [
+        "Cherchez le Seigneur, et vous serez affermis,"
+       ],
+       [
+        "recherchez sans trêve sa face."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Freuen sollen sich alle, die den Herrn suchen. Sucht den Herrn und seine Macht, sucht sein Antlitz allezeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum, et, ut mereámur ássequi quod promíttis, fac nos amáre quod prǽcipis. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso,"
+       ],
+       [
+        "aumentai em nós a fé, a esperança e a caridade"
+       ],
+       [
+        "e, para merecermos alcançar o que prometeis,"
+       ],
+       [
+        "fazei-nos amar o que ordenais."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty ever-living God,"
+       ],
+       [
+        "increase our faith, hope and charity,"
+       ],
+       [
+        "and make us love what you command,"
+       ],
+       [
+        "so that we may merit what you promise."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "aumenta nuestra fe, esperanza y caridad,"
+       ],
+       [
+        "y, para que merezcamos conseguir lo que prometes,"
+       ],
+       [
+        "concédenos amar tus preceptos."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, accresci in noi la fede, la speranza e la carità, e perché possiamo ottenere ciò che prometti, fa' che amiamo ciò che comandi. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "augmente en nous la foi, l'espérance et la charité ;"
+       ],
+       [
+        "et pour que nous puissions obtenir ce que tu promets,"
+       ],
+       [
+        "fais-nous aimer ce que tu commandes."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger, ewiger Gott, mehre in uns den Glauben, die Hoffnung und die Liebe. Gib uns die Gnade, zu lieben, was du gebietest, damit wir erlangen, was du verheißen hast. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Réspice, quǽsumus, Dómine, múnera quæ tuæ offérimus maiestáti, ut, quod nostro servítio géritur, ad tuam glóriam pótius dirigátur. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Olhai benigno, nó5 vos pedimos, Senhor,"
+       ],
+       [
+        "os dons que vos apresentamos,"
+       ],
+       [
+        "e nossa celebração seja, antes de tudo,"
+       ],
+       [
+        "para a vossa glória."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look, we pray, O Lord,"
+       ],
+       [
+        "on the offerings we make to your majesty, that whatever is done by us in your service may be directed above all to your glory."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mira Señor,"
+       ],
+       [
+        "los dones que ofrecemos a tu majestad,"
+       ],
+       [
+        "para que redunde en tu mayor gloria"
+       ],
+       [
+        "cuanto se cumple con nuestro ministerio."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda, o Signore, i doni che ti presentiamo, perché il nostro servizio sacerdotale renda gloria al tuo nome. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Regarde les présents que nous t'offrons,"
+       ],
+       [
+        "nous t'en prions, Seigneur, Dieu de majesté :"
+       ],
+       [
+        "permets que notre célébration"
+       ],
+       [
+        "soit d'abord tournée vers ta gloire."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allmächtiger Gott, sieh gnädig auf die Gaben, die wir darbringen, und lass uns dieses Opfer so feiern, dass es dir zur Ehre gereicht. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Cf. Ps 19, 6"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Sl 19, 6"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Cf. Ps 20 (19): 6"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Cf. Ps 19, 6"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Sal 19,6"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Cf. Ps 19, 6"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Vgl. Ps 20 (19), 6"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lætábimur in salutári tuo, et in nómine Dei nostri magnificábimur."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nós nos alegraremos na vossa salvação"
+       ],
+       [
+        "e no nome do nosso Deus exultaremos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We will ring out our joy at your saving help and exult in the name of our God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que nos alegremos en tu salvación y glorifiquemos el nombre de nuestro Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esulteremo per la tua vittoria e nel nome del nostro Dio alzeremo i vessilli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous trouverons la joie en ton salut,"
+       ],
+       [
+        "et la grandeur dans le nom de notre Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wir jubeln über die Hilfe des Herrn. Wir frohlocken im Namen unseres Gottes."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        }
+       ]
+      ],
+      "cite": "Eph 5, 2"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        }
+       ]
+      ],
+      "cite": "Ef 5, 2"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        }
+       ]
+      ],
+      "cite": "Eph 5: 2"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        }
+       ]
+      ],
+      "cite": "Ef 5, 2"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure: "
+        }
+       ]
+      ],
+      "cite": "Ef 5,2"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        }
+       ]
+      ],
+      "cite": "Eph 5, 2"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        }
+       ]
+      ],
+      "cite": "Eph 5, 2"
+     }
+    ]
+   },
+   "part": "communionAntiphon",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Christus diléxit nos, et trádidit semetípsum pro nobis, oblatiónem Deo in odórem suavitátis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cristo nos amou"
+       ],
+       [
+        "e se entregou a Deus por nós"
+       ],
+       [
+        "em oblação de suave odor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Christ loved us and gave himself up for us, as a fragrant offering to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cristo nos amó y se entregó por nosotros como oblación de suave olor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cristo ci ha amato e ha dato se stesso per noi, offrendosi a Dio in sacrificio di soave odore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ A "
+        }
+       ],
+       [
+        "Amerai il Signore tuo Dio con tutto il tuo cuore, con tutta la tua anima e con tutta la tua mente."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ B "
+        }
+       ],
+       [
+        "«Rabbunì, Maestro, che io veda di nuovo». «Va', la tua fede ti ha salvato»."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "★ C "
+        }
+       ],
+       [
+        "Il pubblicano si batteva il petto dicendo: «O Dio, abbi pietà di me peccatore». E tornò a casa sua giustificato"
+       ]
+      ],
+      "cite": "Lc 18, 13-14"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Christ nous a aimés et s'est livré lui-même pour nous,"
+       ],
+       [
+        "s'offrant en sacrifice à Dieu, comme un parfum d'agréable odeur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Christus hat uns geliebt und sich für uns hingegeben als Gabe und Opfer, das Gott wohlgefällt."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perfíciant in nobis, Dómine, quǽsumus, tua sacraménta quod cóntinent, ut, quæ nunc spécie gérimus, rerum veritáte capiámus. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os vossos sacramentos, Senhor,"
+       ],
+       [
+        "realizem o que significam,"
+       ],
+       [
+        "a fim de que um dia possamos entrar"
+       ],
+       [
+        "em plena posse do mistério"
+       ],
+       [
+        "que agora em ritos celebramos."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "May your Sacraments, O Lord, we pray, perfect in us what lies within them,"
+       ],
+       [
+        "that what we now celebrate in signs"
+       ],
+       [
+        "we may one day possess in truth."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que tus sacramentos, Señor,"
+       ],
+       [
+        "efectúen en nosotros lo que expresan,"
+       ],
+       [
+        "para que obtengamos en la realidad"
+       ],
+       [
+        "lo que celebramos ahora sacramentalmente."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si compia in noi, o Signore, la realtà significata dai tuoi sacramenti, perché otteniamo in pienezza ciò che ora celebriamo nel mistero. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que tes sacrements, Seigneur, nous t'en prions,"
+       ],
+       [
+        "achèvent de produire en nous ce qu'ils contiennent ;"
+       ],
+       [
+        "puissions-nous saisir dans sa pleine vérité"
+       ],
+       [
+        "ce que notre célébration préfigure aujourd'hui."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, gib, dass deine Sakramente in uns das Heil wirken, das sie enthalten, damit wir einst als unverhüllte Wirklichkeit empfangen, was wir jetzt in heiligen Zeichen begehen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 6,
+ "title": {
+  "la": "DOMINICA XXX «PER ANNUM»",
+  "pt-BR": "30º DOMINGO DO TEMPO COMUM",
+  "en-US": "30th SUNDAY IN ORDINARY TIME",
+  "es": "XXX DOMINGO DEL TIEMPO ORDINARIO",
+  "it": "XXX DOMENICA",
+  "fr": "Temps ordinaire — 30ème DIMANCHE",
+  "de": "30. SONNTAG IM JAHRESKREIS"
+ },
+ "weekdayPrecedence": 13
+}

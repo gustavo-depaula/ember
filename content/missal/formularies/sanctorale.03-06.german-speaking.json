@@ -1,1 +1,226 @@
-{"id":"sanctorale.03-06.german-speaking","source":"santos/santos_mar#0306","kind":"sanctoral","items":[{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"[In den Diözesen deutscher Sprache]"}]]}]},"part":"title","role":"rubric"},{"text":{"*":[{"k":"h2","lines":[["6. März"],["Hl. Fridolin von Säckingen, Mönch, Glaubensbote"]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[["Fridolin, der schon in einer Litanei des 9. Jh. angerufen wird, soll aus einer vornehmen irischen Familie gestammt haben. Er wirkte in Poitiers, baute dort die Hilariuskirche wieder auf und ging als Glaubensbote zu den Alemannen. In Säckingen wirkte er um das Jahr 500 oder 600. In der dortigen Stiftskirche wird noch heute sein Reliquienschrein verehrt. Er starb am 6. März eines unbekannten Jahres."]]}]},"part":"title"},{"text":{"*":[{"k":"p","lines":[[{"m":"rubric","t":"Commune-Texte für Ordensleute:"}," ",{"m":"link","t":"1","to":"upstream:comunes_votivas/comunes_mart#sanct10"},{"m":"link","t":"2","to":"common.holy-men-and-women.11"}," ",{"m":"rubric","t":", oder für Glaubensboten:"}," ",{"m":"link","t":"1","to":"common.pastors.10"},{"m":"link","t":"2","to":"common.pastors.11"},{"m":"link","t":"3","to":"common.pastors.12"}]]}]},"part":"title"},{"text":{"*":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"text":{"*":[{"k":"p","lines":[["Herr, unser Gott, du hast den heiligen Fridolin als Glaubensboten in das Gebiet der Alemannen gesandt. Wir bitten dich: Erhalte das Werk, das er begonnen hat, und vollende es am Tag unseres Herrn Jesus Christus, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."]]}]},"part":"collect"},{"slot":"8","text":{"la":[{"k":"h4","lines":[["Præfatio"]]}],"pt-BR":[{"k":"h4","lines":[["Prefácio"]]}],"en-US":[{"k":"h4","lines":[["Preface"]]}],"es":[{"k":"h4","lines":[["Prefacio"]]}],"it":[{"k":"h4","lines":[["Prefazio"]]}],"fr":[{"k":"h4","lines":[["Préface"]]}],"de":[{"k":"h4","lines":[["Präfation"]]}]},"part":"preface"}],"precedence":12,"prefaces":["preface.57"],"commons":["common.holy-men-and-women.11","common.pastors.10","common.pastors.11","common.pastors.12"],"title":{"*":"Hl. Fridolin von Säckingen, Mönch, Glaubensbote"}}
+{
+ "id": "sanctorale.03-06.german-speaking",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[In den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "6. März"
+       ],
+       [
+        "Hl. Fridolin von Säckingen, Mönch, Glaubensbote"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fridolin, der schon in einer Litanei des 9. Jh. angerufen wird, soll aus einer vornehmen irischen Familie gestammt haben. Er wirkte in Poitiers, baute dort die Hilariuskirche wieder auf und ging als Glaubensbote zu den Alemannen. In Säckingen wirkte er um das Jahr 500 oder 600. In der dortigen Stiftskirche wird noch heute sein Reliquienschrein verehrt. Er starb am 6. März eines unbekannten Jahres."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Commune-Texte für Ordensleute:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "upstream:comunes_votivas/comunes_mart#sanct10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.holy-men-and-women.11"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": ", oder für Glaubensboten:"
+        },
+        " ",
+        {
+         "m": "link",
+         "t": "1",
+         "to": "common.pastors.10"
+        },
+        {
+         "m": "link",
+         "t": "2",
+         "to": "common.pastors.11"
+        },
+        {
+         "m": "link",
+         "t": "3",
+         "to": "common.pastors.12"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, du hast den heiligen Fridolin als Glaubensboten in das Gebiet der Alemannen gesandt. Wir bitten dich: Erhalte das Werk, das er begonnen hat, und vollende es am Tag unseres Herrn Jesus Christus, der in der Einheit des Heiligen Geistes mit dir lebt und herrscht in alle Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  }
+ ],
+ "precedence": 12,
+ "prefaces": [
+  "preface.57"
+ ],
+ "commons": [
+  "common.holy-men-and-women.11",
+  "common.pastors.10",
+  "common.pastors.11",
+  "common.pastors.12"
+ ],
+ "title": {
+  "*": "Hl. Fridolin von Säckingen, Mönch, Glaubensbote"
+ }
+}

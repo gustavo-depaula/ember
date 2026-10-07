@@ -1,1 +1,1108 @@
-{"id":"tempore.advent.dec-21","source":"tiempos/tiempos_advnav#A121","kind":"tempore","items":[{"slot":"315","text":{"la":[{"k":"h2","lines":[["IN FERIIS ADVENTUS"],["a Die 17 ad diem 24 decembris"],["Die 21 decembris"]]}],"pt-BR":[{"k":"h2","lines":[["PARA OS DIAS DE SEMANA DO ADVENTO"],["de 17 a 24 de dezembro"],["21 de dezembro"]]}],"en-US":[{"k":"h2","lines":[["Weekdays of Advent"],["December 17 to December 24"],["21 December"]]}],"es":[{"k":"h2","lines":[["FERIAS DE ADVIENTO"],["desde el 17 al 24 de diciembre"],["21 de diciembre"]]}],"it":[{"k":"h2","lines":[["FERIE DI AVVENTO"],["dal 17 al 24 dicembre"],["21 dicembre"]]}],"fr":[{"k":"h2","lines":[["IN FERIIS ADVENTUS"],["Du 17 au 24 décembre"],["21 décembre"]]}],"de":[{"k":"h2","lines":[["DIE WOCHENTAGE"],["VOM 17. BIS 24. DEZEMBER"],["21. Dezember"]]}]},"part":"title"},{"slot":"316","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Cf. Is 7, 14; 8, 10"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cf. Is 7, 14; 8, 10"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Cf. Is 7: 14; 8: 10"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Cf. Is 7, 14; 8, 10"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Cfr. Is 7, 14; 8, 10"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Cf. Is 7, 14; 8, 10"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Vgl. Jes 7, 14; 8, 10"}]},"part":"entranceAntiphon"},{"slot":"317","text":{"la":[{"k":"p","lines":[["Modo véniet Dominátor Dóminus, et vocábitur nomen eius Emmánuel, quia Nobíscum-Deus."]]}],"pt-BR":[{"k":"p","lines":[["Eis que chega o Senhor dos senhores;"],["e ele será chamado Emanuel, Deus conosco."]]}],"en-US":[{"k":"p","lines":[["The Lord and Ruler will be coming soon, and his name will be called Emmanuel, because he will be God-with-us."]]}],"es":[{"k":"p","lines":[["Muy pronto vendrá el Señor que domina los pueblos y se llamará Enmanuel, porque Dios está con nosotros."]]}],"it":[{"k":"p","lines":[["Ecco, viene il Signore potente: sarà chiamato Emmanuele, Dio con noi."]]}],"fr":[{"k":"p","lines":[["Voici venir le Seigneur Souverain :"],["il aura pour nom Emmanuel"],["car il sera : Dieu avec nous."]]}],"de":[{"k":"p","lines":[["Bald wird kommen der Herrscher, der Herr. Sein Name ist Immanuel, Gott mit uns."]]}]},"part":"entranceAntiphon"},{"slot":"318","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"319","text":{"la":[{"k":"p","lines":[["Preces pópuli tui, quǽsumus, Dómine, cleménter exáudi, ut, qui de Unigéniti tui in nostra carne advéntu lætántur, cum vénerit in sua maiestáte, ætérnæ vitæ prǽmium consequántur. Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ouvi com bondade, ó Senhor,"],["as preces do vosso povo,"],["para que, alegrando-nos hoje"],["com a vinda do vosso Filho Unigênito em nossa carne,"],["alcancemos o prêmio da vida eterna,"],["quando ele vier em sua glória."],["Ele, que é Deus, e convosco vive e reina,"],["na unidade do Espírito Santo,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Hear in kindness, O Lord,"],["the prayers of your people,"],["that those who rejoice"],["at the coming of your Only Begotten Son in our flesh may, when at last he comes in glory,"],["gain the reward of eternal life."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Escucha con bondad, Señor,"],["las oraciones de tu pueblo,"],["para que, alegres por la venida"],["de tu Unigénito en nuestra carne,"],["consigamos la recompensa de la vida eterna"],["cuando vuelva en la majestad de su gloria."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Esaudisci con bontà le preghiere del tuo popolo, o Padre, perché coloro che si rallegrano per la venuta del tuo Figlio unigenito nella nostra carne possano giungere al premio della vita eterna quando verrà nella gloria. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Écoute avec bonté, Seigneur, la prière de ton peuple"],["qui se réjouit de la venue de ton Fils unique en notre chair ;"],["puissions-nous, quand il viendra en majesté,"],["obtenir la récompense de la vie éternelle."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gnädiger Gott, du erfüllst uns mit Freude über das Kommen deines Sohnes in unserem Fleisch. Schenke uns bei seinem Kommen in Herrlichkeit das ewige Leben, das du uns verheißen hast. Darum bitten wir durch ihn, Jesus Christus."]]}]},"part":"collect"},{"slot":"320","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"321","text":{"la":[{"k":"p","lines":[["Ecclésiæ tuæ, Dómine, múnera placátus assúme, quæ et miséricors offerénda tribuísti, et in nostræ salútis poténter éfficis transíre mystérium. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Acolhei com bondade, Senhor misericordioso,"],["estes dons que destes à vossa Igreja"],["para que vos fossem oferecidos;"],["o vosso poder os transforme"],["em sacramento da nossa salvação."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Be pleased, O Lord, to accept the offerings of your Church, for in your mercy you have given them to be offered"],["and by your power you transform them"],["into the mystery of our salvation."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Acepta complacido, Señor,"],["los dones que en tu misericordia"],["has dado a tu Iglesia"],["para que pueda ofrecértelos"],["y que ahora transformas con tu poder"],["en sacramento de nuestra salvación."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accetta con bontà, o Signore, i doni della tua Chiesa: nella tua misericordia li hai posti nelle nostre mani, con la tua potenza trasformali per noi in sacramento di salvezza. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Accueille favorablement, Seigneur, ces présents"],["que, dans ta miséricorde, tu as donnés à ton Église"],["pour qu'elle puisse te les offrir ;"],["fais qu'ils deviennent, par ta puissance,"],["le sacrement de notre salut."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Herr, unser Gott, wir bringen die Gaben zum Altar, die du selber uns geschenkt hast. Nimm sie von deiner Kirche entgegen und mache sie für uns zum Sakrament des Heiles. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"323","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Lc 1, 45"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Lc 1, 45"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Lk 1: 45"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Lc 1, 45"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cfr. Lc 1, 45"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Lc 1, 45"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Lk 1, 45"}]},"part":"communionAntiphon"},{"slot":"324","text":{"la":[{"k":"p","lines":[["Beáta quæ credidísti, quóniam perficiéntur ea quæ dicta sunt tibi a Dómino."]]}],"pt-BR":[{"k":"p","lines":[["Feliz és tu que acreditaste,"],["porque se cumprirá o que te foi dito da parte do Senhor."]]}],"en-US":[{"k":"p","lines":[["Blessed are you who have believed,"],["that what was spoken to you by the Lord would be fulfilled."]]}],"es":[{"k":"p","lines":[["Bienaventurada tú, que has creído, porque lo que te ha dicho el Señor se cumplirá."]]}],"it":[{"k":"p","lines":[["Beata sei tu, Vergine Maria, perché hai creduto: in te si è compiuta la parola del Signore."]]}],"fr":[{"k":"p","lines":[["Heureuse, toi qui as cru,"],["car s'accompliront les paroles"],["qui te furent dites de la part du Seigneur."]]}],"de":[{"k":"p","lines":[["Selig bist du, Maria. Du hast geglaubt, dass in Erfüllung geht, was dir vom Herrn gesagt wurde."]]}]},"part":"communionAntiphon"},{"slot":"325","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"326","text":{"la":[{"k":"p","lines":[["Sit plebi tuæ, Dómine, continuáta defénsio divíni participátio mystérii, ut, maiestáti tuæ plena devotióne subiécta, salvatiónem mentis et córporis affluénter accípiat. Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Senhor, que a participação nestes divinos mistérios"],["fortaleça sempre o vosso povo"],["para que, dedicando-se ao vosso serviço,"],["receba a plenitude da salvação."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Lord, may participation in this divine mystery"],["provide enduring protection for your people,"],["so that, being subject to your glorious majesty in dedicated service, they may know abundant health in mind and body."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Señor,"],["que la participación en los divinos misterios"],["sirva de continua protección a tu pueblo,"],["para que, con plena entrega a tu servicio,"],["obtenga con abundancia la salvación de alma y cuerpo."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["La partecipazione ai divini misteri, o Signore, sia per il tuo popolo continua difesa, perché nella piena obbedienza alla tua volontà ottenga in abbondanza la salvezza dell'anima e del corpo. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Que la participation aux divins mystères, Seigneur,"],["garde à jamais ton peuple :"],["qu'en s'attachant pleinement au service de ta gloire,"],["il reçoive en abondance le salut de l'âme et du corps."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Barmherziger Gott, beschütze alle, die an dieser Opferfeier teilgenommen haben. Gib uns die Kraft, dir allzeit treu zu dienen, damit wir gesunden an Leib und Seele. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":9,"prefaces":["preface.2","preface.4"],"title":{"la":"IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 21 decembris","pt-BR":"PARA OS DIAS DE SEMANA DO ADVENTO — de 17 a 24 de dezembro — 21 de dezembro","en-US":"Weekdays of Advent — December 17 to December 24 — 21 December","es":"FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 21 de diciembre","it":"FERIE DI AVVENTO — dal 17 al 24 dicembre — 21 dicembre","fr":"IN FERIIS ADVENTUS — Du 17 au 24 décembre — 21 décembre","de":"DIE WOCHENTAGE — VOM 17. BIS 24. DEZEMBER — 21. Dezember"}}
+{
+ "id": "tempore.advent.dec-21",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN FERIIS ADVENTUS"
+       ],
+       [
+        "a Die 17 ad diem 24 decembris"
+       ],
+       [
+        "Die 21 decembris"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "PARA OS DIAS DE SEMANA DO ADVENTO"
+       ],
+       [
+        "de 17 a 24 de dezembro"
+       ],
+       [
+        "21 de dezembro"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Weekdays of Advent"
+       ],
+       [
+        "December 17 to December 24"
+       ],
+       [
+        "21 December"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "FERIAS DE ADVIENTO"
+       ],
+       [
+        "desde el 17 al 24 de diciembre"
+       ],
+       [
+        "21 de diciembre"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "FERIE DI AVVENTO"
+       ],
+       [
+        "dal 17 al 24 dicembre"
+       ],
+       [
+        "21 dicembre"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "IN FERIIS ADVENTUS"
+       ],
+       [
+        "Du 17 au 24 décembre"
+       ],
+       [
+        "21 décembre"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "DIE WOCHENTAGE"
+       ],
+       [
+        "VOM 17. BIS 24. DEZEMBER"
+       ],
+       [
+        "21. Dezember"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14; 8, 10"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14; 8, 10"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Cf. Is 7: 14; 8: 10"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14; 8, 10"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Cfr. Is 7, 14; 8, 10"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Cf. Is 7, 14; 8, 10"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Vgl. Jes 7, 14; 8, 10"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Modo véniet Dominátor Dóminus, et vocábitur nomen eius Emmánuel, quia Nobíscum-Deus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eis que chega o Senhor dos senhores;"
+       ],
+       [
+        "e ele será chamado Emanuel, Deus conosco."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord and Ruler will be coming soon, and his name will be called Emmanuel, because he will be God-with-us."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Muy pronto vendrá el Señor que domina los pueblos y se llamará Enmanuel, porque Dios está con nosotros."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecco, viene il Signore potente: sarà chiamato Emmanuele, Dio con noi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voici venir le Seigneur Souverain :"
+       ],
+       [
+        "il aura pour nom Emmanuel"
+       ],
+       [
+        "car il sera : Dieu avec nous."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bald wird kommen der Herrscher, der Herr. Sein Name ist Immanuel, Gott mit uns."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preces pópuli tui, quǽsumus, Dómine, cleménter exáudi, ut, qui de Unigéniti tui in nostra carne advéntu lætántur, cum vénerit in sua maiestáte, ætérnæ vitæ prǽmium consequántur. Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ouvi com bondade, ó Senhor,"
+       ],
+       [
+        "as preces do vosso povo,"
+       ],
+       [
+        "para que, alegrando-nos hoje"
+       ],
+       [
+        "com a vinda do vosso Filho Unigênito em nossa carne,"
+       ],
+       [
+        "alcancemos o prêmio da vida eterna,"
+       ],
+       [
+        "quando ele vier em sua glória."
+       ],
+       [
+        "Ele, que é Deus, e convosco vive e reina,"
+       ],
+       [
+        "na unidade do Espírito Santo,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hear in kindness, O Lord,"
+       ],
+       [
+        "the prayers of your people,"
+       ],
+       [
+        "that those who rejoice"
+       ],
+       [
+        "at the coming of your Only Begotten Son in our flesh may, when at last he comes in glory,"
+       ],
+       [
+        "gain the reward of eternal life."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Escucha con bondad, Señor,"
+       ],
+       [
+        "las oraciones de tu pueblo,"
+       ],
+       [
+        "para que, alegres por la venida"
+       ],
+       [
+        "de tu Unigénito en nuestra carne,"
+       ],
+       [
+        "consigamos la recompensa de la vida eterna"
+       ],
+       [
+        "cuando vuelva en la majestad de su gloria."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esaudisci con bontà le preghiere del tuo popolo, o Padre, perché coloro che si rallegrano per la venuta del tuo Figlio unigenito nella nostra carne possano giungere al premio della vita eterna quando verrà nella gloria. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Écoute avec bonté, Seigneur, la prière de ton peuple"
+       ],
+       [
+        "qui se réjouit de la venue de ton Fils unique en notre chair ;"
+       ],
+       [
+        "puissions-nous, quand il viendra en majesté,"
+       ],
+       [
+        "obtenir la récompense de la vie éternelle."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gnädiger Gott, du erfüllst uns mit Freude über das Kommen deines Sohnes in unserem Fleisch. Schenke uns bei seinem Kommen in Herrlichkeit das ewige Leben, das du uns verheißen hast. Darum bitten wir durch ihn, Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecclésiæ tuæ, Dómine, múnera placátus assúme, quæ et miséricors offerénda tribuísti, et in nostræ salútis poténter éfficis transíre mystérium. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acolhei com bondade, Senhor misericordioso,"
+       ],
+       [
+        "estes dons que destes à vossa Igreja"
+       ],
+       [
+        "para que vos fossem oferecidos;"
+       ],
+       [
+        "o vosso poder os transforme"
+       ],
+       [
+        "em sacramento da nossa salvação."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Be pleased, O Lord, to accept the offerings of your Church, for in your mercy you have given them to be offered"
+       ],
+       [
+        "and by your power you transform them"
+       ],
+       [
+        "into the mystery of our salvation."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acepta complacido, Señor,"
+       ],
+       [
+        "los dones que en tu misericordia"
+       ],
+       [
+        "has dado a tu Iglesia"
+       ],
+       [
+        "para que pueda ofrecértelos"
+       ],
+       [
+        "y que ahora transformas con tu poder"
+       ],
+       [
+        "en sacramento de nuestra salvación."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accetta con bontà, o Signore, i doni della tua Chiesa: nella tua misericordia li hai posti nelle nostre mani, con la tua potenza trasformali per noi in sacramento di salvezza. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accueille favorablement, Seigneur, ces présents"
+       ],
+       [
+        "que, dans ta miséricorde, tu as donnés à ton Église"
+       ],
+       [
+        "pour qu'elle puisse te les offrir ;"
+       ],
+       [
+        "fais qu'ils deviennent, par ta puissance,"
+       ],
+       [
+        "le sacrement de notre salut."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herr, unser Gott, wir bringen die Gaben zum Altar, die du selber uns geschenkt hast. Nimm sie von deiner Kirche entgegen und mache sie für uns zum Sakrament des Heiles. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Lc 1, 45"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 45"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Lk 1: 45"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Lc 1, 45"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cfr. Lc 1, 45"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Lc 1, 45"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Lk 1, 45"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beáta quæ credidísti, quóniam perficiéntur ea quæ dicta sunt tibi a Dómino."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Feliz és tu que acreditaste,"
+       ],
+       [
+        "porque se cumprirá o que te foi dito da parte do Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Blessed are you who have believed,"
+       ],
+       [
+        "that what was spoken to you by the Lord would be fulfilled."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bienaventurada tú, que has creído, porque lo que te ha dicho el Señor se cumplirá."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beata sei tu, Vergine Maria, perché hai creduto: in te si è compiuta la parola del Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureuse, toi qui as cru,"
+       ],
+       [
+        "car s'accompliront les paroles"
+       ],
+       [
+        "qui te furent dites de la part du Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Selig bist du, Maria. Du hast geglaubt, dass in Erfüllung geht, was dir vom Herrn gesagt wurde."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sit plebi tuæ, Dómine, continuáta defénsio divíni participátio mystérii, ut, maiestáti tuæ plena devotióne subiécta, salvatiónem mentis et córporis affluénter accípiat. Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Senhor, que a participação nestes divinos mistérios"
+       ],
+       [
+        "fortaleça sempre o vosso povo"
+       ],
+       [
+        "para que, dedicando-se ao vosso serviço,"
+       ],
+       [
+        "receba a plenitude da salvação."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lord, may participation in this divine mystery"
+       ],
+       [
+        "provide enduring protection for your people,"
+       ],
+       [
+        "so that, being subject to your glorious majesty in dedicated service, they may know abundant health in mind and body."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor,"
+       ],
+       [
+        "que la participación en los divinos misterios"
+       ],
+       [
+        "sirva de continua protección a tu pueblo,"
+       ],
+       [
+        "para que, con plena entrega a tu servicio,"
+       ],
+       [
+        "obtenga con abundancia la salvación de alma y cuerpo."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La partecipazione ai divini misteri, o Signore, sia per il tuo popolo continua difesa, perché nella piena obbedienza alla tua volontà ottenga in abbondanza la salvezza dell'anima e del corpo. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Que la participation aux divins mystères, Seigneur,"
+       ],
+       [
+        "garde à jamais ton peuple :"
+       ],
+       [
+        "qu'en s'attachant pleinement au service de ta gloire,"
+       ],
+       [
+        "il reçoive en abondance le salut de l'âme et du corps."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Barmherziger Gott, beschütze alle, die an dieser Opferfeier teilgenommen haben. Gib uns die Kraft, dir allzeit treu zu dienen, damit wir gesunden an Leib und Seele. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 9,
+ "prefaces": [
+  "preface.2",
+  "preface.4"
+ ],
+ "title": {
+  "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 21 decembris",
+  "pt-BR": "PARA OS DIAS DE SEMANA DO ADVENTO — de 17 a 24 de dezembro — 21 de dezembro",
+  "en-US": "Weekdays of Advent — December 17 to December 24 — 21 December",
+  "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 21 de diciembre",
+  "it": "FERIE DI AVVENTO — dal 17 al 24 dicembre — 21 dicembre",
+  "fr": "IN FERIIS ADVENTUS — Du 17 au 24 décembre — 21 décembre",
+  "de": "DIE WOCHENTAGE — VOM 17. BIS 24. DEZEMBER — 21. Dezember"
+ }
+}

@@ -1,1 +1,1202 @@
-{"id":"tempore.easter.week-5.saturday","source":"tiempos/tiempos_pascua#P056","kind":"tempore","items":[{"slot":"441","text":{"la":[{"k":"h2","lines":[["Tempus Paschale"],["Hebdomada V"],["Sabbato"]]}],"pt-BR":[{"k":"h2","lines":[["Tempo Pascal"],["Quinta semana"],["Sábado"]]}],"en-US":[{"k":"h2","lines":[["Easter Season"],["Fifth Week"],["Saturday"]]}],"es":[{"k":"h2","lines":[["Tiempo Pascual"],["V Semana"],["Sábado"]]}],"it":[{"k":"h2","lines":[["Tempo Pasquale"],["V Settimana"],["Sabato"]]}],"fr":[{"k":"h2","lines":[["Temps pascal"],["SAMEDI DE LA 5e SEMAINE"]]}],"de":[{"k":"h2","lines":[["Osterzeit"],["SAMSTAG"],["der fünften Osterwoche"]]}]},"part":"title"},{"slot":"442","text":{"la":[{"k":"h4","lines":[["Antiphona ad introitum"]],"cite":"Col 2, 12"}],"pt-BR":[{"k":"h4","lines":[["Antífona da entrada"]],"cite":"Cl 2, 12"}],"en-US":[{"k":"h4","lines":[["Entrance antiphon"]],"cite":"Col 2: 12"}],"es":[{"k":"h4","lines":[["Antífona de entrada"]],"cite":"Col 2, 12"}],"it":[{"k":"h4","lines":[["Ant. d'ingresso"]],"cite":"Col 2, 12"}],"fr":[{"k":"h4","lines":[["Antienne d'ouverture"]],"cite":"Col 2, 12"}],"de":[{"k":"h4","lines":[["Eröffnungsvers"]],"cite":"Kol 2, 12"}]},"part":"entranceAntiphon"},{"slot":"443","text":{"la":[{"k":"p","lines":[["Consepúlti estis Christo in baptísmo,"],["in quo et resurrexístis per fidem operatiónis Dei,"],["qui suscitávit illum a mórtuis, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Com Cristo fostes sepultados no Batismo;"],["com ele também fostes ressuscitados,"],["por meio da fé no poder de Deus,"],["que ressuscitou a Cristo dentre os mortos, aleluia."]]}],"en-US":[{"k":"p","lines":[["You have been buried with Christ in Baptism, through which you also rose again"],["by faith in the working of God,"],["who raised him from the dead, alleluia."]]}],"es":[{"k":"p","lines":[["Por el bautismo fuisteis sepultados con Cristo, y habéis resucitado con él por la fe en la fuerza de Dios, que lo resucitó de entre los muertos. Aleluya."]]}],"it":[{"k":"p","lines":[["Sepolti con Cristo nel Battesimo, con lui siete anche risorti mediante la fede nella potenza di Dio, che lo ha risuscitato dai morti. Alleluia."]]}],"fr":[{"k":"p","lines":[["Dans le baptême, vous avez été mis au tombeau avec le Christ"],["et vous êtes ressuscités avec lui"],["par la foi en la force de Dieu"],["qui l'a ressuscité d'entre les morts, alléluia."]]}],"de":[{"k":"p","lines":[["Mit Christus wurdet ihr in der Taufe begraben, mit ihm auch auferweckt, weil ihr den Glauben an die Kraft Gottes angenommen habt, der ihn von den Toten auferweckte. Halleluja."]]}]},"part":"entranceAntiphon"},{"slot":"444","text":{"la":[{"k":"h4","lines":[["Collecta"]]}],"pt-BR":[{"k":"h4","lines":[["Coleta"]]}],"en-US":[{"k":"h4","lines":[["Collect"]]}],"es":[{"k":"h4","lines":[["Oración colecta"]]}],"it":[{"k":"h4","lines":[["Colletta"]]}],"fr":[{"k":"h4","lines":[["Prière d'ouverture (Collecte)"]]}],"de":[{"k":"h4","lines":[["Tagesgebet"]]}]},"part":"collect"},{"slot":"445","text":{"la":[{"k":"p","lines":[["Omnípotens ætérne Deus,"],["qui nobis regeneratióne baptísmatis"],["cæléstem vitam conférre dignátus es,"],["præsta, quǽsumus,"],["ut, quos immortalitátis éfficis iustificándo capáces,"],["usque ad plenitúdinem glóriæ, te moderánte, pervéniant."],["Per Dóminum."]]}],"pt-BR":[{"k":"p","lines":[["Ó Deus, que renovastes na fonte do Batismo os que creem em vós,"],["protegei os que renasceram em Cristo"],["para que, vencidos os ataques do erro,"],["permaneçam fiéis à graça da vossa bênção."],["Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"],["e convosco vive e reina, na unidade do Espírito $anto,"],["por todos os séculos dos séculos."]]}],"en-US":[{"k":"p","lines":[["Almighty and eternal God,"],["who through the regenerating power of Baptism"],["have been pleased to confer on us heavenly life,"],["grant, we pray,"],["that those you render capable of immortality"],["by justifying them"],["may by your guidance"],["attain the fullness of glory."],["Through our Lord Jesus Christ, your Son,"],["who lives and reigns with you in the unity of the Holy Spirit,"],["one God, for ever and ever."]]}],"es":[{"k":"p","lines":[["Dios todopoderoso y eterno,"],["que, por la regeneración bautismal,"],["te has dignado comunicarnos la vida del cielo,"],["ayuda a llegar, conducidos por ti, a la plenitud de la gloria"],["a quienes has santificado y hecho capaces de la inmortalidad."],["Por nuestro Señor Jesucristo."]]}],"it":[{"k":"p","lines":[["Dio onnipotente ed eterno, che nella rigenerazione battesimale ci hai comunicato la tua stessa vita, concedi a coloro che hai reso giusti con la tua grazia, disponendoli alla vita immortale, di giungere da te guidati alla pienezza della gloria. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Dieu éternel et tout-puissant,"],["tu as voulu nous donner la vie du ciel"],["en nous faisant renaître par le baptême ;"],["nous t'en prions : toi qui nous ouvres à l'immortalité"],["en faisant de nous des justes,"],["donne-nous de parvenir, sous ta conduite,"],["jusqu'à la plénitude de la gloire."],["Par Jésus Christ, ton Fils, notre Seigneur,"],["qui vit et règne avec toi dans l'unité du Saint-Esprit,"],["Dieu, pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gott, du Ursprung unseres Heils, durch die Wiedergeburt in der Taufe hast du uns gerecht gemacht und uns befähigt, ewiges Leben zu empfangen. Schenke uns die Fülle dieses Lebens in deiner Herrlichkeit. Darum bitten wir durch Jesus Christus."]]}]},"part":"collect"},{"slot":"446","text":{"la":[{"k":"h4","lines":[["Super Oblata"]]}],"pt-BR":[{"k":"h4","lines":[["Sobre as oferendas"]]}],"en-US":[{"k":"h4","lines":[["Prayer over the Offerings"]]}],"es":[{"k":"h4","lines":[["Oración sobre las ofrendas"]]}],"it":[{"k":"h4","lines":[["Sulle offerte"]]}],"fr":[{"k":"h4","lines":[["Prière sur les offrandes"]]}],"de":[{"k":"h4","lines":[["Gabengebet"]]}]},"part":"prayerOverOfferings"},{"slot":"447","text":{"la":[{"k":"p","lines":[["Oblatiónes famíliæ tuæ, quǽsumus, Dómine,"],["súscipe miserátus,"],["ut, sub tuæ protectiónis auxílio,"],["et colláta non perdant,"],["et ad ætérna dona pervéniant."],["Per Christum."]]}],"pt-BR":[{"k":"p","lines":[["Senhor,"],["aceitai compassivo as oferendas da vossa família"],["e concedei que, sob o auxílio de vossa proteção,"],["não percamos os dons que nos destes"],["e alcancemos os bens eternos."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Accept in compassion, Lord, we pray,"],["the offerings of your family,"],["that under your protective care"],["they may never lose what they have received, but attain the gifts that are eternal."],["Through Christ our Lord."]]}],"es":[{"k":"p","lines":[["Acoge, Señor,"],["con bondad las ofrendas de tu familia,"],["para que, bajo tu protección,"],["no pierda los dones ya recibidos"],["y alcance los eternos."],["Por Jesucristo, nuestro Señor."]]}],"it":[{"k":"p","lines":[["Accogli, Padre misericordioso, le offerte di questa famiglia, perché con l'aiuto della tua protezione custodisca i doni ricevuti e raggiunga quelli eterni. Per Cristo nostro Signore."]]}],"fr":[{"k":"p","lines":[["Reçois avec bonté les offrandes de ta famille,"],["nous t'en prions, Seigneur,"],["garde-la sous ta protection :"],["qu'elle ne perde aucun des bienfaits déjà reçus,"],["et parvienne aux dons éternels."],["Par le Christ, notre Seigneur."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, nimm unsere Gaben an und gewähre uns deinen Schutz, damit wir die Taufgnade, die wir empfangen haben, nicht verlieren und zur ewigen Freude gelangen, die du für uns bereitet hast. Darum bitten wir durch Christus, unseren Herrn."]]}]},"part":"prayerOverOfferings"},{"slot":"449","text":{"la":[{"k":"h4","lines":[["Antiphona ad communionem"]],"cite":"Io 17, 20-21"}],"pt-BR":[{"k":"h4","lines":[["Antífona da comunhão"]],"cite":"Cf. Jo 17, 20-21"}],"en-US":[{"k":"h4","lines":[["Communion antiphon"]],"cite":"Jn 17: 20-21"}],"es":[{"k":"h4","lines":[["Antífona de la comunión"]],"cite":"Io 17, 20-21"}],"it":[{"k":"h4","lines":[["Ant. alla comunione"]],"cite":"Cf. Gv 17, 20-21"}],"fr":[{"k":"h4","lines":[["Antienne de la communion"]],"cite":"Jn 17, 20-21"}],"de":[{"k":"h4","lines":[["Kommunionvers"]],"cite":"Joh 17, 20-21"}]},"part":"communionAntiphon"},{"slot":"450","text":{"la":[{"k":"p","lines":[["Pater, pro eis rogo, ut ipsi in nobis unum sint,"],["ut credat mundus quia tu me misísti,"],["dicit Dóminus, allelúia."]]}],"pt-BR":[{"k":"p","lines":[["Pai, rogo por eles, para que sejam um em nós,"],["a fim de que o mundo creia que tu me enviaste,"],["diz o Senhor, aleluia."]]}],"en-US":[{"k":"p","lines":[["Father, I pray for them, that they may be one in us,"],["so that the world may believe it was you who sent me, says the Lord, alleluia."]]}],"es":[{"k":"p","lines":[["Padre, por ellos ruego, para que todos sean uno en nosotros, para que el mundo crea que tú me has enviado, dice el Señor. Aleluya."]]}],"it":[{"k":"p","lines":[["«Padre, prego per quelli che crederanno in me, perché tutti siano una cosa sola, e il mondo creda che tu mi hai mandato», dice il Signore. Alleluia."],[{"m":"rubric","t":"Oppure:"}],["«Se hanno osservato la mia parola, osserveranno anche la vostra», dice il Signore. Alleluia."]],"cite":"Gv 15, 20"}],"fr":[{"k":"p","lines":[["Père, je te prie pour eux :"],["qu'ils soient un en nous, eux aussi,"],["pour que le monde croie que tu m'as envoyé,"],["dit le Seigneur, alléluia."]]}],"de":[{"k":"p","lines":[["So spricht der Herr: Ich bitte dich, Vater, für sie: Lass sie eins sein in uns, damit die Welt glaubt, dass du mich gesandt hast. Halleluja."]]}]},"part":"communionAntiphon"},{"slot":"451","text":{"la":[{"k":"h4","lines":[["Post communionem"]]}],"pt-BR":[{"k":"h4","lines":[["Depois da comunhão"]]}],"en-US":[{"k":"h4","lines":[["Prayer after communion"]]}],"es":[{"k":"h4","lines":[["Oración después de la comunión"]]}],"it":[{"k":"h4","lines":[["Dopo la comunione"]]}],"fr":[{"k":"h4","lines":[["Prière après la communion"]]}],"de":[{"k":"h4","lines":[["Schlussgebet"]]}]},"part":"postcommunion"},{"slot":"452","text":{"la":[{"k":"p","lines":[["Contínua, quǽsumus, Dómine,"],["quos salvásti pietáte custódi,"],["ut, qui Fílii tui passióne sunt redémpti,"],["eius resurrectióne læténtur."],["Qui vivit et regnat in sǽcula sæculórum."]]}],"pt-BR":[{"k":"p","lines":[["Nós vos pedimos, Senhor:"],["guardai em vosso constante amor os que salvastes,"],["para que, redimidos pela paixão do vosso Filho,"],["se alegrem com a sua ressurreição."],["Por Cristo, nosso Senhor."]]}],"en-US":[{"k":"p","lines":[["Keep safe, O Lord, we pray,"],["those whom you have saved by your kindness, that, redeemed by the Passion of your Son, they may rejoice in his Resurrection."],["Who lives and reigns for ever and ever."]]}],"es":[{"k":"p","lines":[["Guarda, Señor, con tu amor constante"],["a los que has salvado,"],["para que los redimidos por la pasión de tu Hijo"],["se alegren con su resurrección."],["Él, que vive y reina por los siglos de los siglos."]]}],"it":[{"k":"p","lines":[["Custodisci con instancabile amore, o Padre, il popolo che hai salvato, perché coloro che sono stati redenti dalla passione del tuo Figlio partecipino alla gioia della sua risurrezione. Egli vive e regna nei secoli dei secoli."]]}],"fr":[{"k":"p","lines":[["Nous t'en prions, Seigneur,"],["ne cesse pas de protéger avec tendresse"],["ceux que tu as sauvés :"],["la passion de ton Fils les a rachetés,"],["qu'ils trouvent leur joie dans sa résurrection."],["Lui qui vit et règne pour les siècles des siècles."]]}],"de":[{"k":"p","lines":[["Gütiger Gott, bewahre dem Volk der Erlösten deine Liebe und Treue. Das Leiden deines Sohnes hat uns gerettet, seine Auferstehung erhalte uns in der Freude. Darum bitten wir durch ihn, Christus, unseren Herrn."]]}]},"part":"postcommunion"}],"precedence":13,"prefaces":["preface.16","preface.17","preface.18","preface.19","preface.20"],"title":{"la":"Tempus Paschale — Hebdomada V — Sabbato","pt-BR":"Tempo Pascal — Quinta semana — Sábado","en-US":"Easter Season — Fifth Week — Saturday","es":"Tiempo Pascual — V Semana — Sábado","it":"Tempo Pasquale — V Settimana — Sabato","fr":"Temps pascal — SAMEDI DE LA 5e SEMAINE","de":"Osterzeit — SAMSTAG — der fünften Osterwoche"}}
+{
+ "id": "tempore.easter.week-5.saturday",
+ "kind": "tempore",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempus Paschale"
+       ],
+       [
+        "Hebdomada V"
+       ],
+       [
+        "Sabbato"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pascal"
+       ],
+       [
+        "Quinta semana"
+       ],
+       [
+        "Sábado"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Easter Season"
+       ],
+       [
+        "Fifth Week"
+       ],
+       [
+        "Saturday"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tiempo Pascual"
+       ],
+       [
+        "V Semana"
+       ],
+       [
+        "Sábado"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Tempo Pasquale"
+       ],
+       [
+        "V Settimana"
+       ],
+       [
+        "Sabato"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Temps pascal"
+       ],
+       [
+        "SAMEDI DE LA 5e SEMAINE"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Osterzeit"
+       ],
+       [
+        "SAMSTAG"
+       ],
+       [
+        "der fünften Osterwoche"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad introitum"
+       ]
+      ],
+      "cite": "Col 2, 12"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cl 2, 12"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Entrance antiphon"
+       ]
+      ],
+      "cite": "Col 2: 12"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Col 2, 12"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. d'ingresso"
+       ]
+      ],
+      "cite": "Col 2, 12"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ],
+      "cite": "Col 2, 12"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Eröffnungsvers"
+       ]
+      ],
+      "cite": "Kol 2, 12"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Consepúlti estis Christo in baptísmo,"
+       ],
+       [
+        "in quo et resurrexístis per fidem operatiónis Dei,"
+       ],
+       [
+        "qui suscitávit illum a mórtuis, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Com Cristo fostes sepultados no Batismo;"
+       ],
+       [
+        "com ele também fostes ressuscitados,"
+       ],
+       [
+        "por meio da fé no poder de Deus,"
+       ],
+       [
+        "que ressuscitou a Cristo dentre os mortos, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You have been buried with Christ in Baptism, through which you also rose again"
+       ],
+       [
+        "by faith in the working of God,"
+       ],
+       [
+        "who raised him from the dead, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por el bautismo fuisteis sepultados con Cristo, y habéis resucitado con él por la fe en la fuerza de Dios, que lo resucitó de entre los muertos. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sepolti con Cristo nel Battesimo, con lui siete anche risorti mediante la fede nella potenza di Dio, che lo ha risuscitato dai morti. Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dans le baptême, vous avez été mis au tombeau avec le Christ"
+       ],
+       [
+        "et vous êtes ressuscités avec lui"
+       ],
+       [
+        "par la foi en la force de Dieu"
+       ],
+       [
+        "qui l'a ressuscité d'entre les morts, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mit Christus wurdet ihr in der Taufe begraben, mit ihm auch auferweckt, weil ihr den Glauben an die Kraft Gottes angenommen habt, der ihn von den Toten auferweckte. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collecta"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Collect"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Colletta"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Tagesgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnípotens ætérne Deus,"
+       ],
+       [
+        "qui nobis regeneratióne baptísmatis"
+       ],
+       [
+        "cæléstem vitam conférre dignátus es,"
+       ],
+       [
+        "præsta, quǽsumus,"
+       ],
+       [
+        "ut, quos immortalitátis éfficis iustificándo capáces,"
+       ],
+       [
+        "usque ad plenitúdinem glóriæ, te moderánte, pervéniant."
+       ],
+       [
+        "Per Dóminum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, que renovastes na fonte do Batismo os que creem em vós,"
+       ],
+       [
+        "protegei os que renasceram em Cristo"
+       ],
+       [
+        "para que, vencidos os ataques do erro,"
+       ],
+       [
+        "permaneçam fiéis à graça da vossa bênção."
+       ],
+       [
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+       ],
+       [
+        "e convosco vive e reina, na unidade do Espírito $anto,"
+       ],
+       [
+        "por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Almighty and eternal God,"
+       ],
+       [
+        "who through the regenerating power of Baptism"
+       ],
+       [
+        "have been pleased to confer on us heavenly life,"
+       ],
+       [
+        "grant, we pray,"
+       ],
+       [
+        "that those you render capable of immortality"
+       ],
+       [
+        "by justifying them"
+       ],
+       [
+        "may by your guidance"
+       ],
+       [
+        "attain the fullness of glory."
+       ],
+       [
+        "Through our Lord Jesus Christ, your Son,"
+       ],
+       [
+        "who lives and reigns with you in the unity of the Holy Spirit,"
+       ],
+       [
+        "one God, for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios todopoderoso y eterno,"
+       ],
+       [
+        "que, por la regeneración bautismal,"
+       ],
+       [
+        "te has dignado comunicarnos la vida del cielo,"
+       ],
+       [
+        "ayuda a llegar, conducidos por ti, a la plenitud de la gloria"
+       ],
+       [
+        "a quienes has santificado y hecho capaces de la inmortalidad."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente ed eterno, che nella rigenerazione battesimale ci hai comunicato la tua stessa vita, concedi a coloro che hai reso giusti con la tua grazia, disponendoli alla vita immortale, di giungere da te guidati alla pienezza della gloria. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dieu éternel et tout-puissant,"
+       ],
+       [
+        "tu as voulu nous donner la vie du ciel"
+       ],
+       [
+        "en nous faisant renaître par le baptême ;"
+       ],
+       [
+        "nous t'en prions : toi qui nous ouvres à l'immortalité"
+       ],
+       [
+        "en faisant de nous des justes,"
+       ],
+       [
+        "donne-nous de parvenir, sous ta conduite,"
+       ],
+       [
+        "jusqu'à la plénitude de la gloire."
+       ],
+       [
+        "Par Jésus Christ, ton Fils, notre Seigneur,"
+       ],
+       [
+        "qui vit et règne avec toi dans l'unité du Saint-Esprit,"
+       ],
+       [
+        "Dieu, pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gott, du Ursprung unseres Heils, durch die Wiedergeburt in der Taufe hast du uns gerecht gemacht und uns befähigt, ewiges Leben zu empfangen. Schenke uns die Fülle dieses Lebens in deiner Herrlichkeit. Darum bitten wir durch Jesus Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Super Oblata"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer over the Offerings"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sulle offerte"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Gabengebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oblatiónes famíliæ tuæ, quǽsumus, Dómine,"
+       ],
+       [
+        "súscipe miserátus,"
+       ],
+       [
+        "ut, sub tuæ protectiónis auxílio,"
+       ],
+       [
+        "et colláta non perdant,"
+       ],
+       [
+        "et ad ætérna dona pervéniant."
+       ],
+       [
+        "Per Christum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor,"
+       ],
+       [
+        "aceitai compassivo as oferendas da vossa família"
+       ],
+       [
+        "e concedei que, sob o auxílio de vossa proteção,"
+       ],
+       [
+        "não percamos os dons que nos destes"
+       ],
+       [
+        "e alcancemos os bens eternos."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accept in compassion, Lord, we pray,"
+       ],
+       [
+        "the offerings of your family,"
+       ],
+       [
+        "that under your protective care"
+       ],
+       [
+        "they may never lose what they have received, but attain the gifts that are eternal."
+       ],
+       [
+        "Through Christ our Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acoge, Señor,"
+       ],
+       [
+        "con bondad las ofrendas de tu familia,"
+       ],
+       [
+        "para que, bajo tu protección,"
+       ],
+       [
+        "no pierda los dones ya recibidos"
+       ],
+       [
+        "y alcance los eternos."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, Padre misericordioso, le offerte di questa famiglia, perché con l'aiuto della tua protezione custodisca i doni ricevuti e raggiunga quelli eterni. Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reçois avec bonté les offrandes de ta famille,"
+       ],
+       [
+        "nous t'en prions, Seigneur,"
+       ],
+       [
+        "garde-la sous ta protection :"
+       ],
+       [
+        "qu'elle ne perde aucun des bienfaits déjà reçus,"
+       ],
+       [
+        "et parvienne aux dons éternels."
+       ],
+       [
+        "Par le Christ, notre Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, nimm unsere Gaben an und gewähre uns deinen Schutz, damit wir die Taufgnade, die wir empfangen haben, nicht verlieren und zur ewigen Freude gelangen, die du für uns bereitet hast. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antiphona ad communionem"
+       ]
+      ],
+      "cite": "Io 17, 20-21"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Jo 17, 20-21"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Communion antiphon"
+       ]
+      ],
+      "cite": "Jn 17: 20-21"
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Io 17, 20-21"
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Ant. alla comunione"
+       ]
+      ],
+      "cite": "Cf. Gv 17, 20-21"
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ],
+      "cite": "Jn 17, 20-21"
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Kommunionvers"
+       ]
+      ],
+      "cite": "Joh 17, 20-21"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pater, pro eis rogo, ut ipsi in nobis unum sint,"
+       ],
+       [
+        "ut credat mundus quia tu me misísti,"
+       ],
+       [
+        "dicit Dóminus, allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pai, rogo por eles, para que sejam um em nós,"
+       ],
+       [
+        "a fim de que o mundo creia que tu me enviaste,"
+       ],
+       [
+        "diz o Senhor, aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Father, I pray for them, that they may be one in us,"
+       ],
+       [
+        "so that the world may believe it was you who sent me, says the Lord, alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre, por ellos ruego, para que todos sean uno en nosotros, para que el mundo crea que tú me has enviado, dice el Señor. Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Padre, prego per quelli che crederanno in me, perché tutti siano una cosa sola, e il mondo creda che tu mi hai mandato», dice il Signore. Alleluia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "«Se hanno osservato la mia parola, osserveranno anche la vostra», dice il Signore. Alleluia."
+       ]
+      ],
+      "cite": "Gv 15, 20"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Père, je te prie pour eux :"
+       ],
+       [
+        "qu'ils soient un en nous, eux aussi,"
+       ],
+       [
+        "pour que le monde croie que tu m'as envoyé,"
+       ],
+       [
+        "dit le Seigneur, alléluia."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Ich bitte dich, Vater, für sie: Lass sie eins sein in uns, damit die Welt glaubt, dass du mich gesandt hast. Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Post communionem"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prayer after communion"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Dopo la comunione"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Schlussgebet"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Contínua, quǽsumus, Dómine,"
+       ],
+       [
+        "quos salvásti pietáte custódi,"
+       ],
+       [
+        "ut, qui Fílii tui passióne sunt redémpti,"
+       ],
+       [
+        "eius resurrectióne læténtur."
+       ],
+       [
+        "Qui vivit et regnat in sǽcula sæculórum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nós vos pedimos, Senhor:"
+       ],
+       [
+        "guardai em vosso constante amor os que salvastes,"
+       ],
+       [
+        "para que, redimidos pela paixão do vosso Filho,"
+       ],
+       [
+        "se alegrem com a sua ressurreição."
+       ],
+       [
+        "Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Keep safe, O Lord, we pray,"
+       ],
+       [
+        "those whom you have saved by your kindness, that, redeemed by the Passion of your Son, they may rejoice in his Resurrection."
+       ],
+       [
+        "Who lives and reigns for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda, Señor, con tu amor constante"
+       ],
+       [
+        "a los que has salvado,"
+       ],
+       [
+        "para que los redimidos por la pasión de tu Hijo"
+       ],
+       [
+        "se alegren con su resurrección."
+       ],
+       [
+        "Él, que vive y reina por los siglos de los siglos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Custodisci con instancabile amore, o Padre, il popolo che hai salvato, perché coloro che sono stati redenti dalla passione del tuo Figlio partecipino alla gioia della sua risurrezione. Egli vive e regna nei secoli dei secoli."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nous t'en prions, Seigneur,"
+       ],
+       [
+        "ne cesse pas de protéger avec tendresse"
+       ],
+       [
+        "ceux que tu as sauvés :"
+       ],
+       [
+        "la passion de ton Fils les a rachetés,"
+       ],
+       [
+        "qu'ils trouvent leur joie dans sa résurrection."
+       ],
+       [
+        "Lui qui vit et règne pour les siècles des siècles."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gütiger Gott, bewahre dem Volk der Erlösten deine Liebe und Treue. Das Leiden deines Sohnes hat uns gerettet, seine Auferstehung erhalte uns in der Freude. Darum bitten wir durch ihn, Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "precedence": 13,
+ "prefaces": [
+  "preface.16",
+  "preface.17",
+  "preface.18",
+  "preface.19",
+  "preface.20"
+ ],
+ "title": {
+  "la": "Tempus Paschale — Hebdomada V — Sabbato",
+  "pt-BR": "Tempo Pascal — Quinta semana — Sábado",
+  "en-US": "Easter Season — Fifth Week — Saturday",
+  "es": "Tiempo Pascual — V Semana — Sábado",
+  "it": "Tempo Pasquale — V Settimana — Sabato",
+  "fr": "Temps pascal — SAMEDI DE LA 5e SEMAINE",
+  "de": "Osterzeit — SAMSTAG — der fünften Osterwoche"
+ }
+}
