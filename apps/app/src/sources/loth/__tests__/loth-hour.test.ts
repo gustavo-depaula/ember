@@ -230,6 +230,18 @@ describe('the Liturgy of the Hours in Brazilian Portuguese', () => {
     ])
   })
 
+  it('offers both hymns of a little hour, opened on the one the breviary prints that day', async () => {
+    const hymns = async (iso: string) =>
+      find(await hourOn(iso, 'terce'), 'options').find((o) => o.label.primary === 'Hino')
+    const monday = await hymns('2026-10-05')
+    expect(monday?.options.map((o) => o.label.primary)).toEqual([
+      'Vinde, Espírito de Deus',
+      'Mantendo a ordem certa',
+    ])
+    const tuesday = await hymns('2026-10-06')
+    expect([monday?.initialId, tuesday?.initialId].sort()).toEqual(['1', '2'])
+  })
+
   it('unfolds the Latin texts the hour links to', async () => {
     const titles = find(await hourOn('2026-10-08', 'lauds'), 'collapsible').map(
       (c) => c.title.primary,

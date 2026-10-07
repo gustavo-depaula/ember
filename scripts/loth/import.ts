@@ -8,7 +8,10 @@ import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { type LothCalendar, lothDay } from '../../packages/loth/src/day'
 import {
+  type Choice,
+  type Field,
   type HourIndex,
+  type Layer,
   invitatoryPsalms,
   applies,
   celebrationCoverage,
@@ -20,6 +23,7 @@ import {
 } from '../../packages/loth/src/index-types'
 import { isCommemoration } from '../../packages/loth/src/hour'
 import { type Hour, hours, type Office, officeOf } from '../../packages/loth/src/office'
+import { hasOneAntiphon, keyOfPart, partOf as partBy } from '../../packages/loth/src/rules'
 import { type Block, wordsOf, wordsOfBlocks } from '../../packages/loth/src/text'
 import { withoutSlips } from './corrections'
 import { allSaintsOnSaturday, departs, withTheOpeningOfItsSeason } from './departures'
@@ -315,18 +319,30 @@ function cutOf(hour: Hour, key: OfficeKey, text: string): [string, string][] {
 // ---- observations ----------------------------------------------------------
 
 // hour -> key (serialised) -> text id
-const observed = new Map<Hour, Map<string, { key: OfficeKey; text: string; date: string }>>()
+// Which of a day's two texts in the archive an hour was: its own, or the
+// other office the day may be prayed in.
+type Which = 'own' | 'other'
+interface Seen {
+  key: OfficeKey
+  text: string
+  date: string
+  // Every day that had this hour, the first of them `date`.
+  days: { date: string; which: Which }[]
+}
+const observed = new Map<Hour, Map<string, Seen>>()
 const conflicts: string[] = []
-function observe(hour: Hour, key: OfficeKey, text: string | undefined, date: string) {
+function observe(hour: Hour, key: OfficeKey, text: string | undefined, date: string, which: Which = 'own') {
   if (!text) return
-  const byKey = observed.get(hour) ?? new Map()
+  const byKey = observed.get(hour) ?? new Map<string, Seen>()
   observed.set(hour, byKey)
   const at = JSON.stringify(key)
   const seen = byKey.get(at)
   if (seen && seen.text !== text) conflicts.push(`${hour} ${date} vs ${seen.date} ${at}`)
-  if (!seen) byKey.set(at, { key, text, date })
+  if (seen) seen.days.push({ date, which })
+  else byKey.set(at, { key, text, date, days: [{ date, which }] })
 }
 
+const yielded: { key: OfficeKey; text: string; date: string }[] = []
 const dateOf = (day: { data: string }) => {
   const [y, m, d] = day.data.split('-').map(Number)
   return new Date(y, m - 1, d, 12)
@@ -372,6 +388,13 @@ for (const [i, day] of days.entries()) {
     const theirs = day[`chave_${theirHour[hour]}`]
     const textOf = (key: string) => ofTheDay(textOfKey.get(key), office)
     const base = textOf(theirs)
+    // The night of a solemnity's Saturday is the Sunday's (`officeOf`), and
+    // the archive's is not asked what a Saturday night is: it is held to what
+    // the other Saturdays give.
+    if (hour === 'compline' && !office.celebration && lothDay(date, calendar).celebration?.rank === 'solemnity') {
+      if (base) yielded.push({ key: officeKey(office, 'season'), text: base, date: day.data })
+      continue
+    }
     const psalms = hour === 'invitatory' ? invitatoryPsalms : (['94c'] as const)
     for (const psalm of psalms) {
       const suffix = psalm === '94c' ? '' : `|SALMO${psalm}`
@@ -388,7 +411,7 @@ for (const [i, day] of days.entries()) {
       if (c.obligatory) {
         observe(hour, officeKey(office, 'celebration', psalm), text, day.data)
         if (!suffix)
-          observe(hour, officeKey(office, 'season', psalm), textOf(`${theirs}|TEMPO`), day.data)
+          observe(hour, officeKey(office, 'season', psalm), textOf(`${theirs}|TEMPO`), day.data, 'other')
         continue
       }
       // The Invitatory of an optional memorial is given with the saint's
@@ -406,6 +429,7 @@ for (const [i, day] of days.entries()) {
           officeKey(office, 'celebration', psalm),
           textOf(`${theirs}|MEMORIA`) ?? text,
           day.data,
+          textOf(`${theirs}|MEMORIA`) ? 'other' : 'own',
         )
     }
   }
@@ -465,6 +489,55 @@ const holdout = process.argv.includes('--holdout')
   ? process.argv[process.argv.indexOf('--holdout') + 1]
   : undefined
 
+// What tells one weekday from another, whatever is celebrated on it.
+const weekday: Field[] = ['s', 'w', 'd', 'p', 'y', 'k', 'g', 'a', 'v']
+// The Ordinary gives each little hour and Night Prayer two hymns, and either
+// may be said. The archive prints now one, now the other, and at Night Prayer
+// in Ordinary Time both, with "Ou:" between: they are the two an ordinary
+// weekday is seen with.
+const classical = /^(Vinde, Espírito de Deus|Ó Deus, verdade e força|Vós que sois o Imutável|Agora que o clarão)/
+function hymnsToChooseAmong(hour: Hour, list: Seen[]): Choice | undefined {
+  if (hour !== 'terce' && hour !== 'sext' && hour !== 'none' && hour !== 'compline') return undefined
+  const seen = new Set(
+    list
+      .filter((o) => !o.key.C && o.key.s === 'ordinary-time')
+      .map((o) => (textParts.get(o.text) as [string, string][]).find(([slot]) => slot === 'hymn')?.[1])
+      .filter((id): id is string => Boolean(id)),
+  )
+  const among = new Set<string>()
+  let together: string | undefined
+  for (const id of seen) {
+    const blocks = parts.get(id) as Block[]
+    const at = blocks.findIndex((block) => block.lines.some((line) => /^Ou:?$/.test(lineOf(line).trim())))
+    if (at < 0) {
+      among.add(id)
+      continue
+    }
+    const line = blocks[at].lines.findIndex((l) => /^Ou:?$/.test(lineOf(l).trim()))
+    const stanza = (lines: Block['lines']): Block[] => (lines.length > 0 ? [{ k: 'p', lines }] : [])
+    const halves = [
+      [...blocks.slice(0, at), ...stanza(blocks[at].lines.slice(0, line))],
+      [blocks[0], ...stanza(blocks[at].lines.slice(line + 1)), ...blocks.slice(at + 1)],
+    ]
+    together = id
+    for (const half of halves) {
+      const one = sha(wordsOfBlocks(half))
+      if (!parts.has(one)) parts.set(one, half)
+      among.add(one)
+    }
+  }
+  if (among.size !== 2) throw new Error(`${hour}: ${among.size} hymns on the weekdays of Ordinary Time, not the Ordinary's two`)
+  const first = (id: string) => lineOf((parts.get(id) as Block[])[1].lines[0])
+  const ordered = [...among].sort((a, b) => Number(classical.test(first(b))) - Number(classical.test(first(a))))
+  if (!classical.test(first(ordered[0])) || classical.test(first(ordered[1])))
+    throw new Error(`${hour}: cannot tell the first hymn of ${ordered.map(first).join(' / ')}`)
+  return { among: ordered, ...(together ? { together } : {}) }
+}
+
+// The hours of the archive the rule gives other words: date|hour|which.
+const departed = new Set<string>()
+// The hours whose part the archive has otherwise than the rule gives it.
+const against: { hour: Hour; slot: string; of: Seen; value: string; weekdays: string }[] = []
 const indexes = new Map<Hour, HourIndex>()
 for (const hour of hours) {
   const all = [...(observed.get(hour)?.values() ?? [])]
@@ -481,12 +554,21 @@ for (const hour of hours) {
     use.count++
   }
   const regular: string[][] = []
+  const disordered = new Set<string>()
   let order: string[] = []
   for (const use of [...uses.values()].sort((a, b) => b.count - a.count)) {
     try {
       order = orderOf([...regular, use.sequence])
       regular.push(use.sequence)
     } catch {
+      // A memorial's hour with its parts out of their order (Saint Raymond's
+      // first reading before the verse that leads to it) is a slip of the
+      // archive's: the hour is put together like any other, from what the
+      // saint's other years and the weekday give.
+      if (all.filter((o) => use.texts.has(o.text)).every((o) => o.key.r === 'memorial' && o.key.C.startsWith('sanctorale.'))) {
+        for (const text of use.texts) disordered.add(text)
+        continue
+      }
       for (const text of use.texts) {
         const blocks = (textParts.get(text) as [string, string][]).flatMap(([, part]) => parts.get(part) as Block[])
         const id = sha(blocks)
@@ -498,14 +580,17 @@ for (const hour of hours) {
   }
   if (order.length < regular.flat().length && [...uses.values()].some((u) => !regular.includes(u.sequence))) order.push('whole')
   const slots: HourIndex['slots'] = {}
+  const againstHere = (key: OfficeKey) =>
+    new Set(against.filter((a) => a.hour === hour && a.of.key === key).map((a) => a.slot))
   const untold = new Map<string, number>()
   // The slots the engine reads for a day: the hour kept whole, or its opening
   // as that day arranges it and then the rest in order.
   const slotsFor = (key: OfficeKey) =>
     lookup(slots.whole, key) ? ['whole'] : [...(lookup(slots['@head'], key)?.split(' ') ?? []), ...order]
+  const partOf = (slot: string, key: OfficeKey) => partBy(hour, slot, key, (s, k) => lookup(slots[s], k))
   const assembled = (key: OfficeKey) =>
     slotsFor(key)
-      .map((slot) => lookup(slots[slot], key))
+      .map((slot) => partOf(slot, key))
       .filter((p): p is string => Boolean(p))
   const arrangement = (text: string) =>
     (textParts.get(text) as [string, string][]).map(([slot]) => slot).filter(isHead).join(' ')
@@ -513,16 +598,50 @@ for (const hour of hours) {
   for (const slot of ['@head', ...heads, ...order]) {
     // An hour kept whole says nothing about the parts of the others.
     const isWhole = (text: string) => (textParts.get(text) as [string, string][])[0][0] === 'whole'
-    const observations: Observation[] = list
-      .filter(({ text }) => slot === 'whole' || !isWhole(text))
-      .map(({ key, text }) => ({
-        key,
-        value:
-          slot === '@head'
-            ? arrangement(text)
-            : (cutOf(hour, key, text).find(([s]) => s === slot)?.[1] ?? ''),
+    const isAntiphon = /^ant-\d/.test(slot)
+    const seen = all
+      .filter(({ text }) => !disordered.has(text) && (slot === 'whole' || !isWhole(text)))
+      // A feast's one antiphon at a little hour is filed as its first, and
+      // found from there wherever the weekday's psalms end (`rules.ts`).
+      .filter((o) => !(isAntiphon && hasOneAntiphon(hour, o.key) && slot !== 'ant-1' && slot !== 'ant-1-end'))
+      .map((o) => ({
+        of: o,
+        // A part the weekday gives is the weekday's observation, whatever
+        // saint the day kept.
+        key: keyOfPart(hour, slot, o.key),
+        value: (() => {
+          if (slot === '@head') return arrangement(o.text)
+          const cut = cutOf(hour, o.key, o.text)
+          if (slot === 'ant-1-end' && hasOneAntiphon(hour, o.key))
+            return cut.findLast(([s]) => /^ant-\d-end$/.test(s))?.[1] ?? ''
+          return cut.find(([s]) => s === slot)?.[1] ?? ''
+        })(),
       }))
+    // Where a saint's day has another text in the weekday's place than the
+    // weekdays themselves give, the weekdays' stands, and the day is set down
+    // as one the archive has against the rule. A weekday no year had without
+    // a saint (2 January, the days after Christmas) is known from the saints'
+    // days alone, and is filed as they have it.
+    const met = (o: (typeof seen)[number]) => !holdout || o.of.date < holdout
+    const plain = seen.filter((o) => o.key === o.of.key && !o.key.C && met(o))
+    const ofTheWeekdays = buildLayers(plain.map(({ key, value }) => ({ key, value })), { hour, slot }).layers
+    const known = new Set(plain.map((o) => project(o.key, weekday)))
+    const fromSaintsDays: Layer = { fields: weekday, entries: {} }
+    for (const o of seen) {
+      if (o.key === o.of.key) continue
+      const at = project(o.key, weekday)
+      const weekdays = known.has(at) ? lookup(ofTheWeekdays, o.key) : (fromSaintsDays.entries[at] ?? (met(o) ? o.value : lookup(ofTheWeekdays, o.key)))
+      if (weekdays !== undefined && weekdays !== o.value) against.push({ hour, slot, of: o.of, value: o.value, weekdays })
+      else if (!known.has(at) && met(o) && lookup(ofTheWeekdays, o.key) !== o.value) fromSaintsDays.entries[at] = o.value
+    }
+    const observations: Observation[] = seen
+      .filter((o) => o.key === o.of.key && met(o))
+      .map(({ key, value }) => ({ key, value }))
     const built = buildLayers(observations, { hour, slot })
+    if (Object.keys(fromSaintsDays.entries).length > 0) {
+      const ofCelebrations = built.layers.findIndex((layer) => layer.fields.some((f) => 'rKC'.includes(f)))
+      built.layers.splice(ofCelebrations < 0 ? built.layers.length : ofCelebrations, 0, fromSaintsDays)
+    }
     // The Sundays of the table that these years never had, a late Easter's
     // before Lent among them.
     if ((hour === 'lauds' || hour === 'vespers') && (slot === 'canticle-ant' || slot === 'canticle-ant-end')) {
@@ -561,21 +680,55 @@ for (const hour of hours) {
     slots[slot] = built.layers
     if (built.untold > 0) untold.set(slot, built.untold)
   }
-  indexes.set(hour, { order, slots })
+  if (disordered.size > 0) console.log(`  ${disordered.size} hours of memorials out of their order, put together as any other`)
+  const choices = hymnsToChooseAmong(hour, list)
+  indexes.set(hour, { order, slots, ...(choices ? { choices: { hymn: [choices] } } : {}) })
 
   // Every observed hour must come back part for part.
   let wrong = 0
-  for (const { key, text, date } of list) {
-    const cut = cutOf(hour, key, text)
-    const got = assembled(key).join(' ')
+  for (const { key, text, date, days } of list) {
+    if (disordered.has(text)) {
+      for (const day of days) departed.add(`${day.date}|${hour}|${day.which}`)
+      continue
+    }
+    const ruled = againstHere(key)
+    const cut = cutOf(hour, key, text).filter(([slot]) => !ruled.has(slot))
+    const got = slotsFor(key)
+      .filter((slot) => !ruled.has(slot))
+      .map((slot) => partOf(slot, key))
+      .filter(Boolean)
+      .join(' ')
     if (got !== cut.map(([, part]) => part).join(' ') && wrong++ < 3)
-      console.log('  WRONG', hour, date, cut.map(([slot]) => slot).join(' '), '|', slotsFor(key).filter((slot) => lookup(slots[slot], key)).join(' '))
+      console.log('  WRONG', hour, date, cut.map(([slot]) => slot).join(' '), '|', slotsFor(key).filter((slot) => partOf(slot, key)).join(' '))
   }
+  // Where the rule's part has other words than the archive's, the hour is
+  // one the reference cannot hold the corpus to.
+  const letters = (ids: string[]) => wordsOfBlocks(ids.flatMap((id) => parts.get(id) as Block[]))
+  const sameWords = (key: OfficeKey, text: string) =>
+    letters(assembled(key)) === letters(cutOf(hour, key, text).map(([, part]) => part))
+  for (const of of new Set(against.filter((a) => a.hour === hour).map((a) => a.of)))
+    if (!sameWords(of.key, of.text)) {
+      for (const day of of.days) departed.add(`${day.date}|${hour}|${day.which}`)
+      if (process.argv.includes('--against')) {
+        const [x, y] = [letters(assembled(of.key)), letters(cutOf(hour, of.key, of.text).map(([, part]) => part))]
+        let i = 0
+        while (i < x.length && x[i] === y[i]) i++
+        console.log(`  other words: ${hour} ${of.key.C} ${of.days.map((d) => d.date).join(' ')}\n      rule:    ${x.slice(Math.max(0, i - 40), i + 80)}\n      archive: ${y.slice(Math.max(0, i - 40), i + 80)}`)
+      }
+    }
+  if (hour === 'compline')
+    for (const night of yielded)
+      if (!sameWords(night.key, night.text)) {
+        departed.add(`${night.date}|${hour}|own`)
+        const mine = assembled(night.key)
+        const theirs = cutOf(hour, night.key, night.text)
+        const slot = slotsFor(night.key).find((slot) => partOf(slot, night.key) !== theirs.find(([s]) => s === slot)?.[1])
+        console.log(`  a Saturday night the archive has otherwise: ${night.date} (${slot}; ${mine.length} parts for ${theirs.length})`)
+      }
   if (holdout) {
     const unseen = all.filter((o) => o.date >= holdout)
     let same = 0
     let sameWords = 0
-    const letters = (ids: string[]) => wordsOfBlocks(ids.flatMap((id) => parts.get(id) as Block[]))
     const misses: string[] = []
     // Which layer answered, for telling a rule that misled from one that was missing.
     const answeredBy = (slot: string, key: OfficeKey) => {
@@ -610,23 +763,30 @@ for (const hour of hours) {
     let flagged = 0
     let silent = 0
     for (const { key, text, date } of unseen) {
+      if (disordered.has(text)) continue
       if (!covered(key)) flagged++
-      const cut = cutOf(hour, key, text)
+      const ruled = againstHere(key)
+      const cut = cutOf(hour, key, text).filter(([slot]) => !ruled.has(slot))
       const want = cut.map(([, part]) => part)
-      const got = assembled(key)
-      if (got.join(' ') === want.join(' ')) same++
+      const got = slotsFor(key)
+        .filter((slot) => !ruled.has(slot))
+        .map((slot) => partOf(slot, key))
+        .filter((p): p is string => Boolean(p))
+      // One hymn for the other where either may be said is no miss.
+      const free = (id: string) => (choices && (choices.among.includes(id) || id === choices.together) ? 'either' : id)
+      if (got.map(free).join(' ') === want.map(free).join(' ')) same++
       else if (letters(got) === letters(want)) sameWords++
       else {
         misses.push(`${date} ${key.C}`)
         if (covered(key)) silent++
-        const mine = slotsFor(key)
+        const mine = slotsFor(key).filter((slot) => !ruled.has(slot))
         const differing = [...new Set([...mine, ...cut.map(([s]) => s)])].filter(
           (slot) =>
-            ((mine.includes(slot) && lookup(slots[slot], key)) || undefined) !==
+            ((mine.includes(slot) && partOf(slot, key)) || undefined) !==
             cut.find(([s]) => s === slot)?.[1],
         )
         for (const slot of differing) {
-          const cause = `${slot.replace(/\d/g, 'N')} via ${answeredBy(slot, key)}`
+          const cause = `${slot.replace(/\d/g, 'N')} via ${answeredBy(slot, keyOfPart(hour, slot, key))}`
           causes.set(cause, (causes.get(cause) ?? 0) + 1)
         }
         if (process.argv.includes('--misses')) {
@@ -634,10 +794,10 @@ for (const hour of hours) {
           for (const slot of differing.slice(0, 5))
           {
             const [mine, theirs] = apart(
-              (lookup(slots.whole, key) ? slot === 'whole' : true) ? lookup(slots[slot], key) || undefined : undefined,
+              (lookup(slots.whole, key) ? slot === 'whole' : true) ? partOf(slot, key) || undefined : undefined,
               cut.find(([s]) => s === slot)?.[1],
             )
-            console.log(`   [${slot} via ${answeredBy(slot, key)}]\n      engine: ${mine}\n      book:   ${theirs}`)
+            console.log(`   [${slot} via ${answeredBy(slot, keyOfPart(hour, slot, key))}]\n      engine: ${mine}\n      book:   ${theirs}`)
           }
         }
       }
@@ -667,6 +827,29 @@ for (const hour of hours) {
   )
 }
 
+{
+  const flat = (id: string) =>
+    id ? wordsOfBlocks(parts.get(id) as Block[]) : ''
+  const show = (id: string) =>
+    id ? (parts.get(id) as Block[]).map((b) => b.lines.map(lineOf).join(' / ')).join(' // ') : '(nothing)'
+  console.log(`  ${departed.size} hours with other words than the archive's`)
+  console.log(`against the rule: ${against.length} parts of ${new Set(against.map((a) => `${a.hour} ${JSON.stringify(a.of.key)}`)).size} hours, ${new Set(against.flatMap((a) => a.of.days.map((d) => `${a.hour} ${d.date}`))).size} hour-days`)
+  if (process.argv.includes('--against')) {
+    const kinds = new Map<string, typeof against>()
+    for (const a of against) {
+      const kind = `${a.hour} ${a.slot.replace(/\d/, 'N')} ${a.of.key.C}${flat(a.value) === flat(a.weekdays) ? ' (same words)' : ''}`
+      kinds.set(kind, [...(kinds.get(kind) ?? []), a])
+    }
+    for (const [kind, list] of [...kinds].sort()) {
+      const a = list[0]
+      const [x, y] = [show(a.value), show(a.weekdays)]
+      let i = 0
+      while (i < x.length && x[i] === y[i]) i++
+      const from = Math.max(0, i - 30)
+      console.log(`  ${list.length} ${kind}  e.g. ${a.of.date}\n      archive: ${x.slice(from, i + 110)}\n      weekday: ${y.slice(from, i + 110)}`)
+    }
+  }
+}
 console.log(`supplied: ${supplied.size} antiphons of Sundays; the table and the archive differ on ${disagreements.size}`)
 for (const d of disagreements) console.log(`  ${d}`)
 for (const c of corrected) console.log(`  corrected ${c}`)
@@ -686,7 +869,7 @@ const bundles = new Map<string, Block[][]>()
     for (const { key } of observed.get(hour)?.values() ?? []) {
       for (const slot of Object.keys(index.slots)) {
         if (slot === '@head') continue
-        const part = lookup(index.slots[slot], key)
+        const part = partBy(hour, slot, key, (s, k) => lookup(index.slots[s], k))
         if (!part || seen.has(part)) continue
         seen.add(part)
         const group = supplied.has(part)
@@ -694,6 +877,11 @@ const bundles = new Map<string, Block[][]>()
           : slot.replace(/~\d+$/, '').replace(/-\d+/, '').replace(/^(ant|collect)-end$/, '$1')
         groups.set(group, [...(groups.get(group) ?? []), part])
       }
+    }
+    for (const part of Object.values(index.choices ?? {}).flatMap((sets) => sets.flatMap((set) => set.among))) {
+      if (seen.has(part)) continue
+      seen.add(part)
+      groups.set('hymn', [...(groups.get('hymn') ?? []), part])
     }
     // And what no day of these years reaches.
     for (const [slot, layers] of Object.entries(index.slots)) {
@@ -736,6 +924,19 @@ for (const [hour, index] of indexes) {
   write(`index/${hour}.json`, {
     id: hour,
     order: index.order,
+    ...(index.choices
+      ? {
+          choices: Object.fromEntries(
+            Object.entries(index.choices).map(([slot, sets]) => [
+              slot,
+              sets.map((set) => ({
+                among: set.among.map((part) => bundleOf.get(part) as string),
+                ...(set.together ? { together: bundleOf.get(set.together) as string } : {}),
+              })),
+            ]),
+          ),
+        }
+      : {}),
     slots: Object.fromEntries(
       Object.entries(index.slots).map(([slot, layers]) => [
         slot,
@@ -796,10 +997,15 @@ for (const day of days) {
     // No hash where the corpus departs from the archive, nor for the second
     // office of a day the book only lets be commemorated.
     const weekdayOnly = isCommemoration(office) && (hour === 'invitatory' || office.celebration?.obligatory)
-    own.push(departs(date, hour) || weekdayOnly ? none : sign(theirs))
+    const isDeparted = (which: Which) => departed.has(`${day.data}|${hour}|${which}`)
+    own.push(departs(date, hour) || weekdayOnly || isDeparted('own') ? none : sign(theirs))
     const memorial = sign(`${theirs}|MEMORIA`)
     other.push(
-      departs(date, hour) || isCommemoration(office) ? none : memorial.equals(none) ? sign(`${theirs}|TEMPO`) : memorial,
+      departs(date, hour) || isCommemoration(office) || isDeparted('other')
+        ? none
+        : memorial.equals(none)
+          ? sign(`${theirs}|TEMPO`)
+          : memorial,
     )
   }
   // The day itself is the archive's but where Saint Joseph is moved.

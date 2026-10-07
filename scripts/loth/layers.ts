@@ -100,14 +100,29 @@ function tiers({ hour, slot }: Slot): Tier[] {
     // with something of their own say so in the tier above.
     { candidates: withPsalm(ofRank), rule: 'most' },
     { candidates: withPsalm(ofCommon), rule: 'most' },
-    { candidates: withPsalm(ofCelebration), rule: 'all' },
+    { candidates: withPsalm(ofCelebration), rule: 'all', allows: aSaintsOwn },
   ]
+}
+
+/**
+ * What a saint's own part may go by. A day of the temporal cycle is a day of
+ * its week, with the Sunday's Gospel and the year's readings; a saint has one
+ * office wherever his date falls, altered only by the season (Easter's
+ * "Aleluia") and by falling on a Sunday. Saint Mary on Saturday alone takes
+ * her texts in turn, by the week.
+ */
+function aSaintsOwn(fields: Field[], key: OfficeKey): boolean {
+  if (!key.C.startsWith('sanctorale.')) return true
+  const inTurn = key.C === 'sanctorale.saint-mary-on-saturday'
+  return fields.every((f) => 'CgsDv'.includes(f) || (inTurn && (f === 'p' || f === 'w')))
 }
 
 interface Tier {
   candidates: Field[][]
   // Whether a group must be of one mind, or most of its celebrations enough.
   rule: 'all' | 'most'
+  // The layers of the tier a day's part may be filed under at all.
+  allows?: (fields: Field[], key: OfficeKey) => boolean
 }
 
 // Every coordinate: where no layer above tells a day's part, it is filed here
@@ -154,7 +169,7 @@ function agreed(observations: Observation[], fields: Field[], rule: Tier['rule']
  */
 function file(
   observations: Observation[],
-  { candidates, rule }: Tier,
+  { candidates, rule, allows = () => true }: Tier,
   below: Layer[],
 ): { layers: Layer[]; untold: Observation[] } {
   const layers = candidates.map((fields) => ({ fields, entries: {} as Record<string, string> }))
@@ -168,7 +183,7 @@ function file(
     if (lookup(below, o.key) === o.value) continue
     const enough = candidates
       .map((fields, i) => ({ fields, i }))
-      .filter(({ fields }) => applies({ fields, entries: {} }, o.key))
+      .filter(({ fields }) => applies({ fields, entries: {} }, o.key) && allows(fields, o.key))
       .filter(({ fields, i }) => groups[i].get(project(o.key, fields)) === o.value)
     if (enough.length === 0) {
       untold.push(o)

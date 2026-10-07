@@ -154,3 +154,110 @@ describe('a memorial in Lent, on 17-24 December and in the octave of Christmas (
     expect(formsOf(office)).toEqual(['celebration', 'season'])
   })
 })
+
+// Whose each part of an hour is (`rules.ts`). The years after the reference
+// are swept, where nothing but the rule can have put the weekday's part
+// under the saint's name.
+describe('the weekday’s parts on a saint’s day (225-236)', () => {
+  const body = (parts: HourPart[], slot: (name: string) => boolean) =>
+    parts
+      .filter((part) => !part.slot.startsWith('head') && slot(part.slot))
+      .map((part) => `${part.slot}: ${part.blocks.map(blockText).join('\n')}`)
+  const isPsalmody = (slot: string) => /^(psalmody|ant-\d|psalm-\d|collect-\d)/.test(slot)
+  const ownPsalmody = new Set(['01-21', '08-29', '09-15', '10-02', '10-07', '11-11'])
+  const ownLittleHours = new Set(['06-11', '10-02'])
+
+  it('gives a memorial the weekday’s psalms, first reading, little hours and Night Prayer', async () => {
+    const differences: string[] = []
+    for (let date = on('2041-01-01'); date.getFullYear() <= 2050; date = addDays(date, 1)) {
+      for (const of of hours) {
+        const office = officeOf(date, of, calendar)
+        const kept = office.celebration
+        if (kept?.rank !== 'memorial' || isCommemoration(office) || of === 'invitatory') continue
+        const saint = kept.id.replace('sanctorale.', '')
+        const little = of === 'terce' || of === 'sext' || of === 'none'
+        const weekdays = (() => {
+          if (of === 'compline') return () => true
+          if (little) return ownLittleHours.has(saint) ? isPsalmody : () => true
+          if (of === 'readings')
+            return (slot: string) =>
+              isPsalmody(slot) || ['verse', 'reading-1', 'responsory-1'].includes(slot)
+          return ownPsalmody.has(saint) ? () => false : isPsalmody
+        })()
+        const [own, weekday] = await Promise.all([
+          assembleHour(office, 'celebration', corpus),
+          assembleHour(office, 'season', corpus),
+        ])
+        if (body(own, weekdays).join('\n') !== body(weekday, weekdays).join('\n'))
+          differences.push(`${date.toDateString()} ${of} ${kept.id}`)
+      }
+    }
+    expect(differences).toEqual([])
+  })
+
+  it('says a feast’s little hour under its one antiphon, with the weekday’s psalms', async () => {
+    // The Exaltation of the Cross on a Friday, whose psalm at Terce is one
+    // psalm in three sections.
+    const feast = await hour('2046-09-14', 'terce')
+    const weekday = await hour('2046-08-17', 'terce')
+    expect(psalms(feast.parts)).toEqual(psalms(weekday.parts))
+    expect(feast.slots.filter((slot) => slot.startsWith('ant-'))).toEqual(['ant-1', 'ant-3-end'])
+    expect(text(feast.parts, 'ant-1')).toMatch(/^Ant\. Salvai-nos por vossa santa Cruz/)
+    expect(text(feast.parts, 'ant-3-end')).toBe(text(feast.parts, 'ant-1'))
+    expect(text(feast.parts, 'reading')).not.toBe(text(weekday.parts, 'reading'))
+  })
+
+  it('gives a feast the weekday’s Night Prayer', async () => {
+    const feast = await hour('2044-08-24', 'compline')
+    const weekday = await hour('2044-08-31', 'compline')
+    expect(body(feast.parts, () => true)).toEqual(body(weekday.parts, () => true))
+  })
+
+  it('gives the night of a solemnity’s Saturday to the Sunday, as its Vespers are', async () => {
+    // The Immaculate Conception on a Saturday of Advent.
+    expect((await hour('2029-12-08', 'vespers')).office.sundayEve).toBe(true)
+    const night = await hour('2029-12-08', 'compline')
+    expect(night.office.celebration).toBeUndefined()
+    expect(psalms(night.parts)).toEqual(['Salmo 4', 'Salmo 133(134)'])
+    expect(psalms((await hour('2031-12-08', 'compline')).parts)).toEqual(['Salmo 90(91)'])
+  })
+})
+
+describe('the two hymns of a little hour and of Night Prayer', () => {
+  const firstLines = (part: HourPart | undefined) =>
+    part?.choices?.map((blocks) => blockText(blocks[1]).split('\n')[0])
+
+  it('offers both, the one the breviary prints that day first shown', async () => {
+    const hymnOf = async (iso: string, of: Hour) =>
+      (await hour(iso, of)).parts.find((part) => part.slot === 'hymn')
+    expect(firstLines(await hymnOf('2026-10-08', 'terce'))).toEqual([
+      'Vinde, Espírito de Deus,',
+      'Mantendo a ordem certa,',
+    ])
+    expect(firstLines(await hymnOf('2026-10-08', 'sext'))).toEqual([
+      'Ó Deus, verdade e força',
+      'O louvor de Deus cantemos',
+    ])
+    expect(firstLines(await hymnOf('2026-10-08', 'none'))).toEqual([
+      'Vós que sois o Imutável,',
+      'Cumprindo o ciclo tríplice das horas,',
+    ])
+    // Night Prayer in Ordinary Time is printed with both; in Lent with one.
+    const ordinary = await hymnOf('2026-10-08', 'compline')
+    expect(firstLines(ordinary)).toEqual([
+      'Agora que o clarão da luz se apaga,',
+      'Ó Cristo, dia e esplendor,',
+    ])
+    expect(ordinary?.chosen).toBe(0)
+    const lent = await hymnOf('2026-03-03', 'compline')
+    expect(firstLines(lent)).toEqual(firstLines(ordinary))
+    expect(blockText((lent?.blocks ?? [])[1]).split('\n')[0]).toBe(
+      firstLines(lent)?.[lent?.chosen ?? 0],
+    )
+  })
+
+  it('offers none where the season has a hymn of its own', async () => {
+    const easter = (await hour('2026-04-21', 'terce')).parts.find((part) => part.slot === 'hymn')
+    expect(easter?.choices).toBeUndefined()
+  })
+})

@@ -548,6 +548,25 @@ function alternatives(primitives: Primitive[]): Primitive[] {
   return out
 }
 
+/**
+ * A part the book leaves to choice (the two hymns of a little hour): the
+ * texts in the book's order with "Ou:" between, which `alternatives` makes a
+ * choice of, opened on the one the breviary this corpus was drawn from prints
+ * that day.
+ */
+function chosenAmong(choices: Block[][], chosen: number, ctx: RenderContext): Primitive[] {
+  const or: Block = { k: 'p', lines: [[{ m: 'rubric', t: 'Ou:' }]] }
+  const [first, ...others] = choices
+  // Each comes under the part's title ("Hino"); it is said once.
+  const untitled = (blocks: Block[]) => (blocks[0]?.k === 'title' ? blocks.slice(1) : blocks)
+  return renderBlocks([...first, ...others.flatMap((other) => [or, ...untitled(other)])], ctx).map(
+    (p): Primitive =>
+      p.type === 'container' && p.behavior.kind === 'options'
+        ? { ...p, behavior: { ...p.behavior, initialId: String(chosen + 1) } }
+        : p,
+  )
+}
+
 /** An hour's parts as primitives. */
 export function renderParts(parts: HourPart[], ctx: RenderContext): Primitive[] {
   // What opens the hour comes as a part to each kind of line (the name, the
@@ -560,6 +579,10 @@ export function renderParts(parts: HourPart[], ctx: RenderContext): Primitive[] 
       ctx,
       { depth: 0, head: true },
     ),
-    ...rest.flatMap((part) => renderBlocks(part.blocks, ctx)),
+    ...rest.flatMap((part) =>
+      part.choices
+        ? chosenAmong(part.choices, part.chosen ?? 0, ctx)
+        : renderBlocks(part.blocks, ctx),
+    ),
   ]
 }

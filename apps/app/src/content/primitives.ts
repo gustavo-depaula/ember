@@ -196,7 +196,14 @@ export type ContainerBehavior =
       pickerStyle?: PickerStyle
       options: ContainerOption[]
     }
-  | { kind: 'options'; label: BilingualText; pickerStyle?: PickerStyle; options: ContainerOption[] }
+  | {
+      kind: 'options'
+      label: BilingualText
+      pickerStyle?: PickerStyle
+      // The option shown first where it is not the first of the list.
+      initialId?: string
+      options: ContainerOption[]
+    }
   | { kind: 'color-scope'; color: LiturgicalColor }
   | {
       kind: 'prayer'

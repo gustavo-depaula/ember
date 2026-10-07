@@ -142,6 +142,11 @@ export function officeOf(date: Date, hour: Hour, calendar: LothCalendar): Office
         ...(byDate(tomorrow) ? { dateKey: mmdd(tomorrowDate) } : {}),
       }
     }
+    // A Saturday evening is the Sunday's, and no memorial's.
+    if (saturday && own.celebration?.rank === 'memorial') {
+      const { celebration: _, ...rest } = own
+      return rest
+    }
     return own
   }
 
@@ -153,6 +158,19 @@ export function officeOf(date: Date, hour: Hour, calendar: LothCalendar): Office
       (!sunday || overSundayNight.has(next))
     )
       return ofTomorrow
+    // Night Prayer follows the evening's Vespers: where a solemnity's
+    // Saturday evening is the Sunday's first Vespers, its night is the
+    // Sunday's too. (A memorial's or a feast's night is the weekday's as it
+    // is, `rules.ts`; Holy Saturday's is its own.)
+    if (
+      saturday &&
+      here?.startsWith('sanctorale.') &&
+      today.celebration?.rank === 'solemnity' &&
+      !keepsSaturdayEvening.has(here)
+    ) {
+      const { celebration: _, ...rest } = own
+      return rest
+    }
     // The night of 16 December, when the 17th is a Sunday, is already that
     // Sunday's.
     if (saturday && !byDate(today) && byDate(tomorrow))

@@ -206,6 +206,7 @@ function renderContainer(
         <OptionsBlock
           label={behavior.label.primary}
           pickerStyle={behavior.pickerStyle}
+          initialId={behavior.initialId}
           options={behavior.options.map((o) => ({
             id: o.id,
             label: o.label.primary,

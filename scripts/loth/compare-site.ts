@@ -7,12 +7,25 @@
 import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import type { LothCalendar } from '../../packages/loth/src/day'
-import { assembleHour, formsOf, isCommemoration, type LothSource } from '../../packages/loth/src/hour'
-import { type Hour, officeOf } from '../../packages/loth/src/office'
+import { assembleHour, formsOf, type LothSource } from '../../packages/loth/src/hour'
+import { type Hour, hours as theHours, officeOf } from '../../packages/loth/src/office'
 import { wordsOf, wordsOfBlocks } from '../../packages/loth/src/text'
 import { amended, asInTheReference } from '../../packages/loth/src/__tests__/corpus'
 import { withoutSlips } from './corrections'
-import { departs, withTheOpeningOfItsSeason } from './departures'
+import { withTheOpeningOfItsSeason } from './departures'
+
+// The reference has no hash for an hour the corpus has otherwise than the
+// archive (`import.ts`): a day the rule gives another office, a part the
+// rule gives the weekday.
+const reference: { from: string; own: string; other: string } = JSON.parse(
+  readFileSync(join(__dirname, '../../packages/loth/src/__tests__/reference.json'), 'utf8'),
+)
+const hashes = { own: Buffer.from(reference.own, 'base64'), other: Buffer.from(reference.other, 'base64') }
+const departed = (which: 'own' | 'other', iso: string, hour: Hour) => {
+  const day = Math.round((Date.parse(`${iso}T12:00:00Z`) - Date.parse(`${reference.from}T12:00:00Z`)) / 86_400_000)
+  const at = (day * theHours.length + theHours.indexOf(hour)) * 3
+  return hashes[which].subarray(at, at + 3).equals(Buffer.from([0, 0, 0]))
+}
 
 const site = process.argv[2]
 const corpus = join(__dirname, '../../content/loth')
@@ -72,12 +85,11 @@ async function main() {
           wordsOfBlocks((await assembleHour(office, form, source)).flatMap(asInTheReference))
         // The site is the archive, faults and all: the hours the corpus has
         // otherwise are left out, and the opening verse is set to its season.
-        if (amended(office) || departs(date, hour)) continue
-        if (hour === 'invitatory' && isCommemoration(office)) continue
+        if (amended(office) || departed('own', day.data, hour)) continue
         const ofTheirs = (html: string) => ofHtml(withTheOpeningOfItsSeason(withoutSlips(html), office))
         hours++
         if ((await mine(first)) !== ofTheirs(theirs.html)) differences.push(`${day.data} ${hour}`)
-        if (theirs.alternativa?.html && second && !isCommemoration(office)) {
+        if (theirs.alternativa?.html && second && !departed('other', day.data, hour)) {
           alternatives++
           if ((await mine(second)) !== ofTheirs(theirs.alternativa.html))
             differences.push(`${day.data} ${hour} (${theirs.alternativa.rotulo})`)

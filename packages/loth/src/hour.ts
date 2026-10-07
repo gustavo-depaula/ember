@@ -11,6 +11,7 @@ import {
   type PartBundle,
 } from './index-types'
 import type { Hour, Office } from './office'
+import { partOf } from './rules'
 import type { Block } from './text'
 
 export interface LothSource {
@@ -41,6 +42,13 @@ export interface HourPart {
   // that came from elsewhere (`supplied-*` bundles): outside what the
   // reference checks.
   supplied?: true
+  // Where the book leaves the part to choice (the two hymns of a little
+  // hour): the texts to choose among, in the book's order. `blocks` is the
+  // part as the archive prints it, one of them or all in a row.
+  choices?: Block[][]
+  // The one of `choices` the archive prints that day; the first where it
+  // prints them all.
+  chosen?: number
 }
 
 // The hours a memorial changes: the others are the weekday's either way.
@@ -88,18 +96,32 @@ async function parts(
   const whole = lookup(index.slots.whole, key)
   // What opens the hour is arranged day by day; the rest keeps one order.
   const opening = lookup(index.slots['@head'], key)?.split(' ') ?? []
+  // Whose each part is, the saint's or the weekday's, is the rule's to say.
   const refs = (whole ? ['whole'] : [...opening, ...index.order])
-    .map((slot) => ({ slot, ref: lookup(index.slots[slot], key) }))
+    .map((slot) => ({
+      slot,
+      ref: partOf(office.hour, slot, key, (name, at) => lookup(index.slots[name], at)),
+    }))
     .filter((part): part is { slot: string; ref: string } => Boolean(part.ref))
+  const blocksOf = async (ref: string) => {
+    const dot = ref.lastIndexOf('.')
+    const bundle = await source.parts(ref.slice(0, dot))
+    const blocks = bundle?.parts[Number(ref.slice(dot + 1))]
+    if (!blocks) throw new Error(`Liturgy of the Hours: part ${ref} is missing from the corpus`)
+    return blocks
+  }
   return Promise.all(
-    refs.map(async ({ slot, ref }) => {
-      const dot = ref.lastIndexOf('.')
-      const bundle = await source.parts(ref.slice(0, dot))
-      const blocks = bundle?.parts[Number(ref.slice(dot + 1))]
-      if (!blocks) throw new Error(`Liturgy of the Hours: part ${ref} is missing from the corpus`)
-      return ref.startsWith('supplied-')
-        ? { slot, blocks, supplied: true as const }
-        : { slot, blocks }
+    refs.map(async ({ slot, ref }): Promise<HourPart> => {
+      const blocks = await blocksOf(ref)
+      if (ref.startsWith('supplied-')) return { slot, blocks, supplied: true }
+      const choice = index.choices?.[slot]?.find((c) => c.among.includes(ref) || c.together === ref)
+      if (!choice) return { slot, blocks }
+      return {
+        slot,
+        blocks,
+        choices: await Promise.all(choice.among.map(blocksOf)),
+        chosen: Math.max(0, choice.among.indexOf(ref)),
+      }
     }),
   )
 }

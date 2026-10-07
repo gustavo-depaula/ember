@@ -77,7 +77,7 @@ function unglued(block: Block): Block {
       if (isHeading(last)) return [line.slice(0, -1), [(last as { t: string }).t.trim()]]
       if (isHeading(first)) return [[(first as { t: string }).t.trim()], line.slice(1)]
       const match = typeof last === 'string' ? /^(.*\S)?\s*\bHino$/.exec(last) : undefined
-      if (!match || !/^\(?Esta introdução/i.test(lineText(line))) return [line]
+      if (!match || !/^\(?Es[st]a introdução/i.test(lineText(line))) return [line]
       return [[...line.slice(0, -1), ...(match[1] ? [match[1]] : [])], ['Hino']]
     }),
   }
@@ -217,12 +217,24 @@ export function slotsOf(blocks: Block[], hour: string): Part[] {
         return place('head-text')
       }
       // The rubric under the opening versicle names the hour, and is not it.
-      if (slot === 'intro' && /^\(?Esta introdução/i.test(text)) return place('intro-note')
-      if (slot === 'intro-note' && text && !/^\(?Esta introdução/i.test(text) && !isRed(line)) return place('opening')
+      if (slot === 'intro' && /^\(?Es[st]a introdução/i.test(text)) return place('intro-note')
+      if (slot === 'intro-note' && text && !/^\(?Es[st]a introdução/i.test(text) && !isRed(line)) return place('opening')
+      // On a saint's day the archive leaves that rubric out, and what follows
+      // it would pass for the versicle's: the last week's leave to say the
+      // Dies irae, which is the week's, and a note on a saint's own texts.
+      if (slot === 'intro' && /^Pode-se dizer, à escolha, o hino/i.test(text)) return place('opening')
+      if (slot === 'intro' && /^Até o presente momento/i.test(text)) return place('intro-note')
       if (region === 'psalmody') {
         // The versicle that leads from the psalms to the readings.
         if (hour === 'leituras' && unitClosed && /^[℣V]\s*\.?\s*\S/.test(text) && text.length > 6) return place('verse')
         if (slot === 'verse') return place('verse')
+        // The numeral over a section of a long psalm heads the section, not
+        // the antiphon before it: a feast that says the three sections under
+        // one antiphon keeps the numerals.
+        if (unit > 0 && /^ant-\d+$/.test(slot) && /^(I|II|III|IV|V|VI)$/.test(text)) {
+          unitHasPsalm = true
+          return place(`psalm-${unit}`)
+        }
         if (unit > 0 && /^ant-\d+$/.test(slot) && /^[–—=]|^\p{Lu}.*\*\s*$/u.test(text)) {
           // The psalm begins under its antiphon without a title of its own.
           unitHasPsalm = true

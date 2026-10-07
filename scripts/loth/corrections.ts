@@ -16,8 +16,19 @@ const slips: [RegExp, string][] = [
   // A letter typed for the figure one in a citation.
   [/\b[lI](Cor|Pd|Sm)\b/g, '1$1'],
   [/\bPG 6l,/g, 'PG 61,'],
+  [/\b(dê a sua graça) a (sua bênção)/g, '$1 e $2'],
+  // The name of a source file, left in the middle of the hour.
+  [/(strict\.dtd">\s*)3 janeiro(\s*<)/g, '$1$2'],
+  [/\bagor a e sempre\b/g, 'agora e sempre'],
+  // The versicle that opens an hour, a comma short and its signs typed as
+  // letters.
+  [/\bVinde,?(\s+)ó(\s+)Deus,?(\s+)em(\s+)meu(\s+)auxílio/g, 'Vinde,$1ó$2Deus,$3em$4meu$5auxílio'],
+  [/\bV\.((?:\s|<[^>]*>)*Vinde,?\s+ó\s+Deus,?\s+em\s+meu\s+aux)/g, '℣.$1'],
+  [/\bR\.((?:\s|<[^>]*>)*Socorrei-me\s+sem\s+demora)/g, '℟.$1'],
   // The doxology that opens an hour, its Amen left out.
   [/(agora e sempre\.)(\s*Aleluia)/g, '$1 Amém.$2'],
+  // And its "Aleluia" left without the full stop.
+  [/(agora\s+e\s+sempre\.\s*Amém\.(?:\s|&nbsp;)*Aleluia)(?!\.)/g, '$1.'],
 ]
 
 export const withoutSlips = (html: string): string => slips.reduce((text, [slip, right]) => text.replace(slip, right), html)

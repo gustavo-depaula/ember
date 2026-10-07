@@ -89,6 +89,16 @@ export interface HourIndex {
   // part, the slots that open the hour that day, in their order; `whole`, the
   // few hours laid out unlike any other, as one part.
   slots: Record<string, Layer[]>
+  // Where the book leaves a part to choice (the two hymns of a little hour),
+  // slot -> the sets of parts one of which is said.
+  choices?: Record<string, Choice[]>
+}
+
+export interface Choice {
+  // The parts to choose among, in the book's order.
+  among: string[]
+  // A part that prints them all, one after another with "Ou:" between.
+  together?: string
 }
 
 // A part is referred to as `<bundle>.<n>`: the n-th part of that bundle.
