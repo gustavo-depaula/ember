@@ -5,6 +5,7 @@ import { ScrollView, Text, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
 import { PracticeCard } from '@/features/covers'
+import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { type BlockTone, jewelTones } from '@/features/explore/bgColor'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useBiblePlaces, useBooks } from '../hooks'
@@ -20,7 +21,7 @@ function useStampSize(): number {
   return Math.min(160, Math.floor((content - gutter) / 2))
 }
 
-/** One carousel: the Bible itself first, then a stamp for each place last read. */
+/** One carousel: the Bible itself first, then each place last read as Home's book tile. */
 export function ReadingStamps() {
   const { t } = useTranslation()
   const router = useRouter()
@@ -44,20 +45,16 @@ export function ReadingStamps() {
           onPress={() => router.push({ pathname: '/bible/reader', params: { drawer: 'open' } })}
         />
         {places.map((place) => (
-          <Stamp
+          <ArtCoverCard
             key={place.bookId}
-            title={place.bookName}
-            note={
-              place.chapters
-                ? t('bible.discovery.chapterOf', { n: place.chapter, total: place.chapters })
-                : t('bible.chapterAbbr', { n: place.chapter })
-            }
-            caption={t('bible.discovery.continueReading')}
-            accessibilityLabel={t('a11y.resumeReading', {
-              place: `${place.bookName} ${place.chapter}`,
-            })}
+            title={`${place.bookName} ${place.chapter}`}
+            subtitle={t('bible.discovery.continueReading')}
+            cover={{ kind: 'book', format: 'missal' }}
             tone={ribbonTones[place.ribbon % ribbonTones.length]}
-            size={size}
+            // Home's book tile: 1.5× as tall as wide, so this width stands it level with the stamp.
+            size={Math.round(size / 1.5)}
+            aspectRatio={1.5}
+            radius={4}
             onPress={() => openPlace(place.bookId, place.chapter)}
           />
         ))}
