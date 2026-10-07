@@ -1252,7 +1252,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XV «PER ANNUM»",
   "pt-BR": "15º DOMINGO DO TEMPO COMUM",
@@ -1261,6 +1260,5 @@
   "it": "XV DOMENICA",
   "fr": "Temps ordinaire — 15ème DIMANCHE",
   "de": "15. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

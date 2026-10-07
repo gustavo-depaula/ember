@@ -1273,7 +1273,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA VIII «PER ANNUM»",
   "pt-BR": "8º DOMINGO DO TEMPO COMUM",
@@ -1282,6 +1281,5 @@
   "it": "VIII DOMENICA",
   "fr": "Temps ordinaire — 8ème DIMANCHE",
   "de": "8. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

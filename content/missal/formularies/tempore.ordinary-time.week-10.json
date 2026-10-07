@@ -1202,7 +1202,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA X «PER ANNUM»",
   "pt-BR": "10º DOMINGO DO TEMPO COMUM",
@@ -1211,6 +1210,5 @@
   "it": "X DOMENICA",
   "fr": "Temps ordinaire — 10ème DIMANCHE",
   "de": "10. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

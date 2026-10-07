@@ -1239,7 +1239,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA III «PER ANNUM»",
   "pt-BR": "3º DOMINGO DO TEMPO COMUM",
@@ -1248,6 +1247,5 @@
   "it": "III DOMENICA",
   "fr": "Temps ordinaire — 3ème DIMANCHE",
   "de": "3. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

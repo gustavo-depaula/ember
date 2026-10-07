@@ -1256,7 +1256,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXVIII «PER ANNUM»",
   "pt-BR": "28º DOMINGO DO TEMPO COMUM",
@@ -1265,6 +1264,5 @@
   "it": "XXVIII DOMENICA",
   "fr": "Temps ordinaire — 28ème DIMANCHE",
   "de": "28. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

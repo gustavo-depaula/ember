@@ -1304,7 +1304,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXI «PER ANNUM»",
   "pt-BR": "21º DOMINGO DO TEMPO COMUM",
@@ -1313,6 +1312,5 @@
   "it": "XXI DOMENICA",
   "fr": "Temps ordinaire — 21ème DIMANCHE",
   "de": "21. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

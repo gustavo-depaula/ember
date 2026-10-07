@@ -1258,7 +1258,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XII «PER ANNUM»",
   "pt-BR": "12º DOMINGO DO TEMPO COMUM",
@@ -1267,6 +1266,5 @@
   "it": "XII DOMENICA",
   "fr": "Temps ordinaire — 12ème DIMANCHE",
   "de": "12. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

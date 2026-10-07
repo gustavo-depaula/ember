@@ -1235,7 +1235,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXX «PER ANNUM»",
   "pt-BR": "30º DOMINGO DO TEMPO COMUM",
@@ -1244,6 +1243,5 @@
   "it": "XXX DOMENICA",
   "fr": "Temps ordinaire — 30ème DIMANCHE",
   "de": "30. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

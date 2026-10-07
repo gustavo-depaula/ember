@@ -1276,7 +1276,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXIV «PER ANNUM»",
   "pt-BR": "24º DOMINGO DO TEMPO COMUM",
@@ -1285,6 +1284,5 @@
   "it": "XXIV DOMENICA",
   "fr": "Temps ordinaire — 24ème DIMANCHE",
   "de": "24. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

@@ -253,8 +253,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 8,
- "lectionary": "sanctorale.dedication-of-churches.france",
  "title": {
   "*": "San Fulano"
  }

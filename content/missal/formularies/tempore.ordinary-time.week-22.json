@@ -1298,7 +1298,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXII «PER ANNUM»",
   "pt-BR": "22º DOMINGO DO TEMPO COMUM",
@@ -1307,6 +1306,5 @@
   "it": "XXII DOMENICA",
   "fr": "Temps ordinaire — 22ème DIMANCHE",
   "de": "22. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

@@ -1265,7 +1265,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XIX «PER ANNUM»",
   "pt-BR": "19º DOMINGO DO TEMPO COMUM",
@@ -1274,6 +1273,5 @@
   "it": "XIX DOMENICA",
   "fr": "Temps ordinaire — 19ème DIMANCHE",
   "de": "19. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

@@ -319,8 +319,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 10,
- "lectionary": "sanctorale.05-30.france",
  "prefaces": [
   "preface.52",
   "preface.53"

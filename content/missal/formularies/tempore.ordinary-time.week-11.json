@@ -1294,7 +1294,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XI «PER ANNUM»",
   "pt-BR": "11º DOMINGO DO TEMPO COMUM",
@@ -1303,6 +1302,5 @@
   "it": "XI DOMENICA",
   "fr": "Temps ordinaire — 11ème DIMANCHE",
   "de": "11. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

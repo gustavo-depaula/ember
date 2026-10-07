@@ -1250,9 +1250,7 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 10,
  "properReadings": true,
- "lectionary": "sanctorale.01-26",
  "prefaces": [
   "preface.56"
  ],

@@ -1261,7 +1261,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXIX «PER ANNUM»",
   "pt-BR": "29º DOMINGO DO TEMPO COMUM",
@@ -1270,6 +1269,5 @@
   "it": "XXIX DOMENICA",
   "fr": "Temps ordinaire — 29ème DIMANCHE",
   "de": "29. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

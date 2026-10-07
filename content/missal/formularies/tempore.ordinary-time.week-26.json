@@ -1279,7 +1279,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXVI «PER ANNUM»",
   "pt-BR": "26º DOMINGO DO TEMPO COMUM",
@@ -1288,6 +1287,5 @@
   "it": "XXVI DOMENICA",
   "fr": "Temps ordinaire — 26ème DIMANCHE",
   "de": "26. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

@@ -1310,7 +1310,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XVII «PER ANNUM»",
   "pt-BR": "17º DOMINGO DO TEMPO COMUM",
@@ -1319,6 +1318,5 @@
   "it": "XVII DOMENICA",
   "fr": "Temps ordinaire — 17ème DIMANCHE",
   "de": "17. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

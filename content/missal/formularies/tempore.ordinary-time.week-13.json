@@ -1261,7 +1261,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XIII «PER ANNUM»",
   "pt-BR": "13º DOMINGO DO TEMPO COMUM",
@@ -1270,6 +1269,5 @@
   "it": "XIII DOMENICA",
   "fr": "Temps ordinaire — 13ème DIMANCHE",
   "de": "13. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

@@ -127,16 +127,11 @@ export type FormularyKind =
 
 export interface Formulary extends Doc {
   kind: FormularyKind
-  // Number in the Table of Liturgical Days (Universal Norms 59); lower wins.
-  precedence?: number
-  // Set on a Sunday formulary that the weekdays after it also use: their number.
-  weekdayPrecedence?: number
   // Its readings must be taken with it, even at the rank of a memorial.
   properReadings?: boolean
   // The line under the title: a celebration's rank as the Missal words it, or
   // which Mass of a common this is.
   subtitle?: Localized
-  lectionary?: string
   prefaces?: string[]
   commons?: string[]
 }
@@ -168,13 +163,18 @@ export interface MovableEntry {
 export interface FormularyIndexEntry {
   kind: FormularyKind
   title: Localized
+  // Number in the Table of Liturgical Days (Universal Norms 59); lower wins.
   precedence?: number
+  // Set on a Sunday formulary that the weekdays after it also use: their number.
   weekdayPrecedence?: number
+  // The lectionary entry read with it, when that is not its own id.
   lectionary?: string
   color?: LiturgicalColor
 }
 
-// What the calendar needs, in one blob: no formulary is loaded to resolve a day.
+// What the calendar needs, in one blob: no formulary is loaded to resolve a
+// day. A celebration's precedence, colour and lectionary entry are stated here
+// and nowhere else; only its title is also in its formulary.
 export interface MissalCalendar {
   sanctoral: SanctoralEntry[]
   movable: MovableEntry[]

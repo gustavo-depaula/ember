@@ -1243,7 +1243,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XVIII «PER ANNUM»",
   "pt-BR": "18º DOMINGO DO TEMPO COMUM",
@@ -1252,6 +1251,5 @@
   "it": "XVIII DOMENICA",
   "fr": "Temps ordinaire — 18ème DIMANCHE",
   "de": "18. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

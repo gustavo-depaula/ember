@@ -1291,7 +1291,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA IX «PER ANNUM»",
   "pt-BR": "9º DOMINGO DO TEMPO COMUM",
@@ -1300,6 +1299,5 @@
   "it": "IX DOMENICA",
   "fr": "Temps ordinaire — 9ème DIMANCHE",
   "de": "9. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

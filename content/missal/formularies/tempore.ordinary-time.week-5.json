@@ -1297,7 +1297,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA V «PER ANNUM»",
   "pt-BR": "5º DOMINGO DO TEMPO COMUM",
@@ -1306,6 +1305,5 @@
   "it": "V DOMENICA",
   "fr": "Temps ordinaire — 5ème DIMANCHE",
   "de": "5. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

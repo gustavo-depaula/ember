@@ -1270,7 +1270,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA IV «PER ANNUM»",
   "pt-BR": "4º DOMINGO DO TEMPO COMUM",
@@ -1279,6 +1278,5 @@
   "it": "IV DOMENICA",
   "fr": "Temps ordinaire — 4ème DIMANCHE",
   "de": "4. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

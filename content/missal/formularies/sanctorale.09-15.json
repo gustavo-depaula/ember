@@ -1198,9 +1198,7 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 10,
  "properReadings": true,
- "lectionary": "sanctorale.09-15",
  "prefaces": [
   "preface.43"
  ],

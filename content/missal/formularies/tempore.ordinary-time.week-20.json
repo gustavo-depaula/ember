@@ -1267,7 +1267,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XX «PER ANNUM»",
   "pt-BR": "20º DOMINGO DO TEMPO COMUM",
@@ -1276,6 +1275,5 @@
   "it": "XX DOMENICA",
   "fr": "Temps ordinaire — 20ème DIMANCHE",
   "de": "20. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

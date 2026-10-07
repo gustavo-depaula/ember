@@ -1307,7 +1307,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XVI «PER ANNUM»",
   "pt-BR": "16º DOMINGO DO TEMPO COMUM",
@@ -1316,6 +1315,5 @@
   "it": "XVI DOMENICA",
   "fr": "Temps ordinaire — 16ème DIMANCHE",
   "de": "16. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

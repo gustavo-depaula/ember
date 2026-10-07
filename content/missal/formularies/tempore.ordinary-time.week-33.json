@@ -1283,7 +1283,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXXIII «PER ANNUM»",
   "pt-BR": "33º DOMINGO DO TEMPO COMUM",
@@ -1292,6 +1291,5 @@
   "it": "XXXIII DOMENICA",
   "fr": "Temps ordinaire — 33ème DIMANCHE",
   "de": "33. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

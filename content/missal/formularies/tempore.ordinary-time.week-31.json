@@ -1259,7 +1259,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXXI «PER ANNUM»",
   "pt-BR": "31º DOMINGO DO TEMPO COMUM",
@@ -1268,6 +1267,5 @@
   "it": "XXXI DOMENICA",
   "fr": "Temps ordinaire — 31ème DIMANCHE",
   "de": "31. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

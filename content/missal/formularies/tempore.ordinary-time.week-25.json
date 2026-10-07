@@ -1273,7 +1273,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXV «PER ANNUM»",
   "pt-BR": "25º DOMINGO DO TEMPO COMUM",
@@ -1282,6 +1281,5 @@
   "it": "XXV DOMENICA",
   "fr": "Temps ordinaire — 25ème DIMANCHE",
   "de": "25. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

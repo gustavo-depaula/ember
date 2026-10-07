@@ -1261,7 +1261,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XIV «PER ANNUM»",
   "pt-BR": "14º DOMINGO DO TEMPO COMUM",
@@ -1270,6 +1269,5 @@
   "it": "XIV DOMENICA",
   "fr": "Temps ordinaire — 14ème DIMANCHE",
   "de": "14. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

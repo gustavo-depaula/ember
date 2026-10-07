@@ -1259,7 +1259,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA XXXII «PER ANNUM»",
   "pt-BR": "32º DOMINGO DO TEMPO COMUM",
@@ -1268,6 +1267,5 @@
   "it": "XXXII DOMENICA",
   "fr": "Temps ordinaire — 32ème DIMANCHE",
   "de": "32. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }

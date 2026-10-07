@@ -1258,7 +1258,6 @@
    "part": "postcommunion"
   }
  ],
- "precedence": 6,
  "title": {
   "la": "DOMINICA II «PER ANNUM»",
   "pt-BR": "2º DOMINGO DO TEMPO COMUM",
@@ -1267,6 +1266,5 @@
   "it": "II DOMENICA",
   "fr": "Temps ordinaire — 2ème DIMANCHE",
   "de": "2. SONNTAG IM JAHRESKREIS"
- },
- "weekdayPrecedence": 13
+ }
 }
