@@ -91,7 +91,7 @@ export function usePendingHolyCards(): Grant[] | undefined {
   const today = format(day, 'yyyy-MM-dd')
   const holyCards = useHolyCardCatalog()
   const { data: statics } = useQuery({
-    queryKey: ['of-calendar'],
+    queryKey: ['missal-calendar'],
     queryFn: async () => (await loadMissalCalendar()) ?? null,
     staleTime: Number.POSITIVE_INFINITY,
   })

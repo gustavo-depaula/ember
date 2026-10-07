@@ -2,7 +2,7 @@
 // same authority the EF Mass/Office uses — resolveDay over the Divinum
 // Officium data — so the celebration card and month grid show exactly what the
 // EF Mass celebrates (transfers, octaves, vigils, commemorations). Mirrors
-// @ember/mass's buildOfYearCalendar.
+// @ember/missal's buildOfYearCalendar.
 //
 // Pure DO: returns a neutral row shape (Latin name + DO numeric rank); the app
 // maps it onto the display calendar's RankEF / DayCalendar types. Names are the

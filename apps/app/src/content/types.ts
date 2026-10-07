@@ -1,5 +1,4 @@
 export type {
-  BilingualRichText,
   BilingualText,
   CycleData,
   FlowDefinition,
@@ -12,9 +11,6 @@ export type {
   RenderedSection,
   RepeatEntry,
   ResolveStep,
-  RichTextLine,
-  RichTextSegment,
-  RichTextSegmentType,
 } from '@ember/content-engine'
 export type {
   ChapterManifest,

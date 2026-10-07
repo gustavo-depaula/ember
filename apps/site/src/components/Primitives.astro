@@ -9,7 +9,6 @@ import { siteStrings } from '~/lib/strings'
 import { appOnlyMarker } from '~/platform/sourceRegistry'
 import { href } from '~/routes'
 import Bilingual from './Bilingual.astro'
-import RichText from './RichText.astro'
 
 interface Props {
   items: Primitive[]
@@ -274,40 +273,6 @@ function wrap(node: { type: string; text: string }): string {
           {b.options.map((o) => (
             <div class="branch" role="tabpanel" data-option={o.id} hidden={o.id !== selected}>
               <Astro.self items={o.children} locale={locale} />
-            </div>
-          ))}
-        </div>
-      )
-    }
-    if (b.kind === 'choice-rich-text') {
-      if (b.options.length === 0) return undefined
-      const selected = b.selectedId ?? b.options[0].id
-      return (
-        <div class="flow-group choice">
-          {!b.hideLabel && b.label.primary && <h3 class="heading">{b.label.primary}</h3>}
-          {b.options.length > 1 && (
-            <div class="picker" role="tablist">
-              {b.options.map((o) => (
-                <button type="button" role="tab" data-option={o.id} aria-selected={o.id === selected ? 'true' : 'false'}>
-                  {o.label.primary}
-                </button>
-              ))}
-            </div>
-          )}
-          {b.options.map((o) => (
-            <div class="branch" role="tabpanel" data-option={o.id} hidden={o.id !== selected}>
-              {o.citation && <p class="t-kicker">{o.citation.primary}</p>}
-              {o.summary && <p class="rubric">{o.summary.primary}</p>}
-              {o.introduction && <p class="rubric">{o.introduction.primary}</p>}
-              {b.precedingResponse && (
-                <div class="vr-row r">
-                  <span class="mark" aria-hidden="true">℟</span>
-                  <div class="lines"><p>{b.precedingResponse.primary}</p></div>
-                </div>
-              )}
-              <RichText lines={o.body.primary} lang={locale} />
-              {o.conclusion && <p class="rubric">{o.conclusion.primary}</p>}
-              {o.response && <RichText lines={o.response.primary} lang={locale} />}
             </div>
           ))}
         </div>

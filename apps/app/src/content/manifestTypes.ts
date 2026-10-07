@@ -16,11 +16,13 @@ export type CatalogItemKind =
   | 'practice'
   | 'chapter'
   | 'book'
-  | 'mass'
-  | 'of-ordinary'
-  | 'of-preface'
-  | 'of-eucharistic-prayer'
-  | 'of-data'
+  | 'mass-formulary'
+  | 'mass-lectionary'
+  | 'mass-eucharistic-prayer'
+  | 'mass-order'
+  | 'mass-extra'
+  | 'mass-prefaces'
+  | 'mass-calendar'
   | 'do-data'
   | 'collection'
   | 'plan-of-life-template'
@@ -224,12 +226,6 @@ export type BookEntry = {
   // Stemmed inverted index per language, fetched on first in-book search.
   // See scripts/build-corpus.py:build_search_index_for_book for the shape.
   searchIndex?: Record<string, BlobRef>
-}
-
-export type LangSplitItemManifest = {
-  id: string
-  shape: BlobRef
-  langs: Record<string, BlobRef>
 }
 
 export type DataItemManifest = {

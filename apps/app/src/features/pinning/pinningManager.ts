@@ -17,7 +17,6 @@ import type {
   ChapterManifest,
   CollectionItemManifest,
   DoDataItemManifest,
-  LangSplitItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
 import { getJson, type PrefetchEntry, prefetch } from '@/content/store'
@@ -98,10 +97,6 @@ const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
     b.images?.forEach(add)
     return []
   },
-  mass: (body, add) => addLangSplit(body as LangSplitItemManifest, add),
-  'of-ordinary': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
-  'of-preface': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
-  'of-eucharistic-prayer': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
   'do-data': (body, add) => {
     const m = body as DoDataItemManifest
     if (m.localized === true) {
@@ -111,15 +106,6 @@ const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
     }
     return []
   },
-}
-
-function addLangSplit(
-  m: LangSplitItemManifest,
-  add: (ref: { hash: string; size: number }) => void,
-): string[] {
-  if (m.shape) add(m.shape)
-  if (m.langs) Object.values(m.langs).forEach(add)
-  return []
 }
 
 /** Lets a feature teach pinning how to walk a catalog kind it owns. */

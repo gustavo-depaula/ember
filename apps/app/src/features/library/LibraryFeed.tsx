@@ -61,7 +61,7 @@ export function LibraryFeed() {
       const row: Shelf[number] = [s.itemId, entry, s.savedAt]
       if (entry.kind === 'book') books.push(row)
       else if (entry.kind === 'collection') collections.push(row)
-      else if (entry.kind === 'practice' || entry.kind === 'mass') prayers.push(row)
+      else if (entry.kind === 'practice') prayers.push(row)
     }
     const byRecent = (a: Shelf[number], b: Shelf[number]) => b[2] - a[2]
     books.sort(byRecent)

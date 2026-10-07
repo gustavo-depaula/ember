@@ -150,7 +150,6 @@ const KNOWN_SECTION_TYPES = new Set([
   'fragment',
   'call',
   'include',
-  'choice-rich-text',
   'liturgical-color',
   'liturgical-color-scope',
   'celebration-banner',
@@ -217,22 +216,6 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
     }
     if (obj.type === 'prose' && typeof obj.book === 'string') {
       for (const issue of validateProseChapter(obj, ctx.file, path)) issues.push(issue)
-    }
-    if (obj.type === 'choice-rich-text') {
-      if (typeof obj.slot !== 'string') {
-        issues.push({
-          file: ctx.file,
-          path,
-          message: `choice-rich-text missing string \`slot\` field`,
-        })
-      }
-      if (!obj.label || typeof obj.label !== 'object') {
-        issues.push({
-          file: ctx.file,
-          path,
-          message: `choice-rich-text missing \`label\` localized text`,
-        })
-      }
     }
     if (obj.type === 'gallery') {
       validateGallery(obj, ctx.file, path)

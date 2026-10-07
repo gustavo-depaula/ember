@@ -50,13 +50,3 @@ export type CelebrationLike = {
   primary?: SourceFormulary
   alternates?: SourceFormulary[]
 }
-
-/** Map ContentLanguage to ember-extra's language tags (en-US → en, others identical). */
-export function emberExtraLang(lang: ContentLanguage): string {
-  return lang === 'en-US' ? 'en' : lang
-}
-
-/** Pick a language fallback for the secondary text (Latin if available, else English). */
-export function emberExtraSecondaryLang(primary: string): string {
-  return primary === 'la' ? 'en' : 'la'
-}

@@ -286,21 +286,6 @@ async function preprocessSection(
       }
     }
 
-    case 'choice-rich-text':
-      return {
-        type: 'container',
-        behavior: {
-          kind: 'choice-rich-text',
-          label: section.label,
-          overrideKey: section.overrideKey,
-          selectedId: section.selectedId,
-          pickerStyle: section.pickerStyle,
-          hideLabel: section.hideLabel,
-          precedingResponse: section.precedingResponse,
-          options: section.options,
-        },
-      }
-
     default: {
       // Exhaustiveness: a new RenderedSection variant must add a primitive
       // mapping here or the engine will silently dead-end.

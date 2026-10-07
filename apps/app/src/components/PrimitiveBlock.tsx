@@ -7,7 +7,6 @@ import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
 import { PrayerLines } from './PrayerText'
 import { BilingualBlock } from './prayer/BilingualBlock'
 import { CelebrationBanner } from './prayer/CelebrationBanner'
-import { ChoiceRichTextBlock } from './prayer/ChoiceRichTextBlock'
 import { CollapsibleBlock } from './prayer/CollapsibleBlock'
 import { CollapsiblePrayer } from './prayer/CollapsiblePrayer'
 import { GalleryBlock } from './prayer/GalleryBlock'
@@ -227,19 +226,6 @@ function renderContainer(
           practiceId={practiceId}
           onSelect={(nextId) => onSelectOverride(behavior.overrideKey, nextId)}
           renderSection={renderChild}
-        />
-      )
-
-    case 'choice-rich-text':
-      return (
-        <ChoiceRichTextBlock
-          label={behavior.label}
-          selectedId={behavior.selectedId}
-          pickerStyle={behavior.pickerStyle}
-          hideLabel={behavior.hideLabel}
-          precedingResponse={behavior.precedingResponse}
-          options={behavior.options}
-          onSelect={(id) => onSelectOverride(behavior.overrideKey, id)}
         />
       )
   }

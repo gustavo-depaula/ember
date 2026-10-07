@@ -1,6 +1,6 @@
 /**
  * Copy the auxiliary content served alongside the content-addressed corpus
- * (Bible, sacred art, the liturgical calendar + Mass fragments, …) into
+ * (Bible, sacred art, the saints' images) into
  * `_site/hearth/v2/`. The deploy workflow does this with a shell loop; this
  * script does the same locally so `pnpm build:corpus` produces a corpus that
  * the app (and the renderApp test harness) can fetch from in full.
@@ -15,7 +15,7 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const outDir = resolve(root, process.argv[2] ?? '_site/hearth/v2')
 
 // Keep in sync with the aux-dir loop in .github/workflows/deploy.yml.
-const auxDirs = ['art', 'bible', 'lectionary', 'liturgical', 'saints']
+const auxDirs = ['art', 'bible', 'saints']
 
 for (const dir of auxDirs) {
   const src = resolve(root, 'content', dir)

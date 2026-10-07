@@ -12,7 +12,6 @@ import { unhyphenated } from '@/test/text'
 import { ProducerHtmlBlock } from '../../include/ProducerHtmlBlock'
 import { PrayerLines } from '../../PrayerText'
 import { BilingualBlock } from '../../prayer/BilingualBlock'
-import { ChoiceRichTextBlock } from '../../prayer/ChoiceRichTextBlock'
 import { VersesBlock } from '../../VersesBlock'
 import { ReadingParagraph } from '..'
 
@@ -211,37 +210,6 @@ describe('ReadingParagraph draws the segments itself wherever the breaker does n
       fontFamily: italicFace,
       fontStyle: 'normal',
       color: 'rgb(1, 2, 3)',
-    })
-  })
-
-  // `fontStyle: italic` over the roman would draw with the roman's advances,
-  // which is not what the justifier measured.
-  it('draws a missal rubric in the italic face the justifier measures', () => {
-    usePreferencesStore.setState({ textAlign: 'left' })
-    wrap(
-      <ChoiceRichTextBlock
-        label={{ primary: 'Collect' }}
-        selectedId="a"
-        onSelect={() => {}}
-        options={[
-          {
-            id: 'a',
-            label: { primary: 'A' },
-            body: {
-              primary: [
-                [
-                  { type: 'rubric', text: 'Kneel' },
-                  { type: 'text', text: ' and pray.' },
-                ],
-              ],
-            },
-          },
-        ]}
-      />,
-    )
-    expect(screen.getByText('Kneel', unhyphenated)).toHaveStyle({
-      fontFamily: italicFace,
-      fontStyle: 'normal',
     })
   })
 

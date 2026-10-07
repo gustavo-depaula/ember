@@ -72,7 +72,7 @@ export function coverFor(entry: CatalogEntry): TileCover | undefined {
       format: bookCoverFormat(entry.cover),
       author: entry.author ? localizeContent(entry.author) : undefined,
     }
-  if (entry.kind !== 'practice' && entry.kind !== 'mass') return undefined
+  if (entry.kind !== 'practice') return undefined
   if (entry.form !== 'prayer')
     return { kind: 'practice', icon: entry.icon, minutes: entry.estimatedMinutes }
   if (entry.liturgical) return { kind: 'breviary' }
