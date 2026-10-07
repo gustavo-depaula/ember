@@ -559,7 +559,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 117, 2-4. 13-15. 22-24"
      }
     ],
     "es": [
@@ -2669,7 +2670,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 118, 2-4.16ab-18.22-24"
      }
     ],
     "es": [
@@ -4811,7 +4813,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 117, 2-4. 22-24. 25-27a (R.: 1)"
      }
     ],
     "es": [
@@ -7495,7 +7498,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Proclamação do Evangelho de Jesus Cristo João"
+        " Proclamação do Evangelho de Jesus Cristo segundo João"
        ]
       ],
       "cite": "20, 19-31",

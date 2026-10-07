@@ -586,7 +586,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 117, 1-2. 16ab-17. 22-23 (R.: 24)"
      }
     ],
     "es": [
@@ -4253,7 +4254,8 @@
         {
          "m": "cross",
          "t": "✠"
-        }
+        },
+        " A reading from the holy Gospel according to Matthew"
        ]
       ],
       "cite": "Mt 28:1–10",
@@ -4781,7 +4783,8 @@
         {
          "m": "cross",
          "t": "✠"
-        }
+        },
+        " A reading from the holy Gospel according to Mark"
        ]
       ],
       "cite": "Mk 16:1–7",
@@ -5293,7 +5296,8 @@
         {
          "m": "cross",
          "t": "✠"
-        }
+        },
+        " A reading from the holy Gospel according to Luke"
        ]
       ],
       "cite": "Lk 24:1–12",

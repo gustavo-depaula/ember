@@ -253,10 +253,19 @@
       "k": "p",
       "lines": [
        [
-        "Some Jews arrived from Antioch and Iconium, and turned the people against the apostles. They stoned Paul and dragged him outside the town, thinking he was dead. The disciples came crowding round him but, as they did so, he stood up and went back to the town. The next day he and Barnabas went off to Derbe. Having preached the Good News in that town and made a considerable number of disciples, they went back through Lystra and Iconium to Antioch. They put fresh heart into the disciples, encouraging them to persevere in the faith. 'We all have to experience many hardships' they said 'before we enter the kingdom of God.' In each of these churches they appointed elders, and with prayer and fasting they commended them to the Lord in whom they had come to believe. They passed through Pisidia and reached Pamphylia. Then after proclaiming the word at Perga they went down to Attalia and from there sailed for Antioch, where they had originally been commended to the grace of God for the work they had now completed. On their arrival they assembled the church and gave an account of all that God had done with them, and how he had opened the door of faith to the pagans. They stayed there with the disciples for some time."
+        "A reading from the Acts of the Apostles"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "14, 19-28"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Some Jews arrived from Antioch and Iconium, and turned the people against the apostles. They stoned Paul and dragged him outside the town, thinking he was dead. The disciples came crowding round him but, as they did so, he stood up and went back to the town. The next day he and Barnabas went off to Derbe. Having preached the Good News in that town and made a considerable number of disciples, they went back through Lystra and Iconium to Antioch. They put fresh heart into the disciples, encouraging them to persevere in the faith. 'We all have to experience many hardships' they said 'before we enter the kingdom of God.' In each of these churches they appointed elders, and with prayer and fasting they commended them to the Lord in whom they had come to believe. They passed through Pisidia and reached Pamphylia. Then after proclaiming the word at Perga they went down to Attalia and from there sailed for Antioch, where they had originally been commended to the grace of God for the work they had now completed. On their arrival they assembled the church and gave an account of all that God had done with them, and how he had opened the door of faith to the pagans. They stayed there with the disciples for some time."
+       ]
+      ]
      },
      {
       "k": "p",
@@ -617,7 +626,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 144, 10-11. 12-13ab. 21 (R.: cf. 11)"
      }
     ],
     "es": [
@@ -1747,7 +1757,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Lk 24, 26"
      },
      {
       "k": "p",

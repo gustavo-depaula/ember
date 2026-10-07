@@ -119,6 +119,477 @@
       "k": "p",
       "lines": [
        [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sponsabo te mihi in sempiternum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Osée prophétæ"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc dicit Dóminus:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Ecce ego ducam eam in solitúdinem et loquar ad cor eius; et respondébit ibi iuxta dies iuventútis suæ et iuxta dies ascensiónis suæ de terra Ægýpti."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et sponsábo te mihi in sempitérnum; et sponsábo te mihi in iustítia et iudício et in misericórdia et miseratiónibus. Et sponsábo te mihi in fide, et cognósces Dóminum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu te desposarei para sempre."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Profecia de Oseias"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Assim fala o Senhor: \"Eis que eu a levarei à solidão, onde lhe falarei ao coração; e ela aí responderá ao compromisso, como nos dias de sua juventude, nos dias da sua vinda da terra do Egito. Eu te desposarei para sempre; eu te desposarei conforme as sanções da justiça e conforme as práticas da misericórdia. Eu te desposarei para manter fidelidade e tu conhecerás o Senhor\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of the Prophet Hosea"
+       ]
+      ],
+      "cite": "2:16.17.21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Thus says the Lord: I am going to lure her and lead her out into the wilderness and speak to her heart. There she will respond to me as she did when she was young, as she did when she came out of the land of Egypt. I will betroth you to myself for ever, betroth you with integrity and justice, with tenderness and love; I will betroth you to myself with faithfulness, and you will come to know the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me desposaré contigo para siempre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la profecía de Oseas"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esto dice el Señor:"
+       ],
+       [
+        "«Yo la llevo al desierto, le hablo al corazón."
+       ],
+       [
+        "Allí responderá como en los días de su juventud,"
+       ],
+       [
+        "como el día de su salida de Egipto."
+       ],
+       [
+        "Me desposaré contigo para siempre,"
+       ],
+       [
+        "me desposaré contigo"
+       ],
+       [
+        "en justicia y en derecho,"
+       ],
+       [
+        "en misericordia y en ternura,"
+       ],
+       [
+        "me desposaré contigo en fidelidad"
+       ],
+       [
+        "y conocerás al Señor»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti farò mia sposa per sempre."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Osea"
+       ]
+      ],
+      "cite": "2,16b.l7b.21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cosi dice il Signore:"
+       ],
+       [
+        "«Ecco, la condurrò nel deserto e parlerò al suo cuore."
+       ],
+       [
+        "Là mi risponderà come nei giorni della sua giovinezza, come quando uscì dal paese d'Egitto."
+       ],
+       [
+        "Ti farò mia sposa per sempre, ti farò mia sposa nella giustizia e nel diritto, nell'amore e nella benevolenza, ti farò mia sposa nella fedeltà e tu conoscerai il Signore»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Osée"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi parle le Seigneur : Mon épouse infidèle, je vais l'entraîner jusqu'au désert, et je lui parlerai cœur à cœur. Là, elle me répondra comme au temps de sa jeunesse, au jour où elle est sortie du pays d'Égypte. Je ferai de toi mon épouse pour toujours, je ferai de toi mon épouse dans la justice et le droit, dans la fidélité et la tendresse ; je ferai de toi mon épouse dans la loyauté, et tu connaîtras le Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Hoséa"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr:"
+       ],
+       [
+        "Ich will Israel, meine treulose Braut, in die Wüste hinausführen und sie umwerben. Sie wird mir dorthin bereitwillig folgen wie in den Tagen ihrer Jugend, wie damals, als sie aus Ägypten heraufzog."
+       ],
+       [
+        "Ich traue dich mir an auf ewig; ich traue dich mir an um den Brautpreis von Gerechtigkeit und Recht, von Liebe und Erbarmen, ich traue dich mir an um den Brautpreis meiner Treue: Dann wirst du den Herrn erkennen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.virgins.first-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.virgins.first-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
         "Psalmus Responsorius"
        ]
       ],

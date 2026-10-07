@@ -614,7 +614,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 65 (66) l-3a. 4-5. 6-7a (R.: l)",
+      "cite": "Sl 65 (66) 1-3a. 4-5. 6-7a (R.: 1)",
       "role": "title"
      }
     ],
@@ -626,7 +626,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 65, 1-3a. 4-5. 6-7a (R.: 1)"
      }
     ],
     "es": [

@@ -36,6 +36,510 @@
       "k": "p",
       "lines": [
        [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quasi holocausti hostiam accepit illos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Sapiéntiæ"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iustórum ánimæ in manu Dei sunt, et non tanget illos torméntum mortis. Visi sunt óculis insipiéntium mori, et æstimáta est afflíctio éxitus illórum, et, quod a nobis est iter, extermínium; illi autem sunt in pace. Etenim, si coram homínibus torménta passi sunt, spes illórum immortalitáte plena est; et in paucis corrépti, in multis bene disponéntur, quóniam Deus tentávit eos et invénit illos dignos se. Tamquam aurum in fornáce probávit illos et quasi holocáusti hóstiam accépit illos, et in témpore visitatiónis illórum fulgébunt et tamquam scintíllæ in arundinéto discúrrent; iudicábunt natiónes et dominabúntur pópulis, et regnábit Dóminus illórum in perpétuum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui confídunt in illo, intéllegent veritátem, et fidéles in dilectióne acquiéscent illi, quóniam grátia et misericórdia est sanctis eius, et visitátio eléctis eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Foram aceitos como ofertas de holocausto."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro da Sabedoria"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A vida dos justos está nas mãos de Deus, e nenhum tormento os atingirá. Aos olhos dos insensatos parecem ter morrido; sua saída do mundo foi considerada uma desgraça, e sua partida do meio de nós, uma destruição; mas eles estão em paz. Aos olhos dos homens parecem ter sido castigados, mas sua esperança é cheia de imortalidade; tendo sofrido leves correções, serão cumulados de grandes bens, porque Deus os pôs à prova e os achou dignos de si. Provou-os como se prova o ouro no fogo e aceitou-os como ofertas de holocausto; no dia do seu julgamento hão de brilhar, correndo como centelhas no meio da palha; vão julgar as nações e dominar os povos, e o Senhor reinará sobre eles para sempre. Os que nele confiam compreenderão a verdade, e os que perseveram no amor ficarão junto dele, porque a graça e a misericórdia são para seus eleitos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Wisdom"
+       ]
+      ],
+      "cite": "3:1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The souls of the virtuous are in the hands of God, no torment shall ever touch them. In the eyes of the unwise, they did appear to die, their going looked like a disaster, their leaving us, like annihilation; but they are in peace. If they experienced punishment as men see it, their hope was rich with immortality; slight was their affliction, great will their blessings be. God has put them to the test and proved them worthy to be with him; he has tested them like gold in a furnace, and accepted them as a holocaust. When the time comes for his visitation they will shine out; as sparks run through the stubble, so will they. They shall judge nations, rule over peoples, and the Lord will be their king for ever. They who trust in him will understand the truth, those who are faithful will live with him in love; for grace and mercy await those he has chosen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los aceptó como sacrificio de holocausto"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de la Sabiduría"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La vida de los justos está en manos de Dios,"
+       ],
+       [
+        "y ningún tormento los alcanzará."
+       ],
+       [
+        "Los insensatos pensaban que habían muerto,"
+       ],
+       [
+        "y consideraban su tránsito como una desgracia,"
+       ],
+       [
+        "y su salida de entre nosotros, una ruina,"
+       ],
+       [
+        "pero ellos están en paz."
+       ],
+       [
+        "Aunque la gente pensaba que cumplían una pena,"
+       ],
+       [
+        "su esperanza estaba llena de inmortalidad."
+       ],
+       [
+        "Sufrieron pequeños castigos, recibirán grandes bienes,"
+       ],
+       [
+        "porque Dios los puso a prueba y los halló dignos de él."
+       ],
+       [
+        "Los probó como oro en el crisol"
+       ],
+       [
+        "y los aceptó como sacrificio de holocausto."
+       ],
+       [
+        "En el día del juicio resplandecerán"
+       ],
+       [
+        "y se propagarán como chispas en un rastrojo."
+       ],
+       [
+        "Gobernarán naciones, someterán pueblos"
+       ],
+       [
+        "y el Señor reinará sobre ellos eternamente."
+       ],
+       [
+        "Los que confían en él comprenderán la verdad"
+       ],
+       [
+        "y los que son fieles a su amor permanecerán a su lado,"
+       ],
+       [
+        "porque la gracia y la misericordia son para sus devotos"
+       ],
+       [
+        "y la protección para sus elegidos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Li ha graditi come l'offerta di un olocausto."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro della Sapienza"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le anime dei giusti sono nelle mani di Dio nessun tormento li toccherà."
+       ],
+       [
+        "Agli occhi degli stolti parve che morissero, la loro fine fu ritenuta una sciagura, la loro partenza da noi una rovina, ma essi sono nella pace."
+       ],
+       [
+        "Anche se agli occhi degli uomini subiscono castighi, la loro speranza resta piena d'immortalità."
+       ],
+       [
+        "In cambio di una breve pena riceveranno grandi benefici, perché Dio li ha provati e li ha trovati degni di sé; li ha saggiati come oro nel crogiuolo e li ha graditi come l'offerta di un olocausto."
+       ],
+       [
+        "Nel giorno del loro giudizio risplenderanno, come scintille nella stoppia correranno qua e là. Governeranno le nazioni, avranno potere sui popoli e il Signore regnerà per sempre su di loro."
+       ],
+       [
+        "Coloro che confidano in lui comprenderanno la verità, i fedeli nell'amore rimarranno presso di lui, perché grazia e misericordia sono per i suoi eletti."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de la Sagesse"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "De nature, ils sont inconsistants, tous ces gens qui restent dans l'ignorance de Dieu : à partir de ce qu'ils voient de bon, ils n'ont pas été capables de connaître Celui qui est ; en examinant ses œuvres, ils n'ont pas reconnu l'Artisan. Mais c'est le feu, le vent, la brise légère, la ronde des étoiles, la violence des flots, les luminaires du ciel gouvernant le cours du monde, qu'ils ont regardés comme des dieux. S'ils les ont pris pour des dieux, sous le charme de leur beauté, ils doivent savoir combien le Maître de ces choses leur est supérieur, car l'Auteur même de la beauté est leur créateur. Et si c'est leur puissance et leur efficacité qui les ont frappés, ils doivent comprendre, à partir de ces choses, combien est plus puissant Celui qui les a faites. Car à travers la grandeur et la beauté des créatures, on peut contempler, par analogie, leur Auteur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et pourtant, ces hommes ne méritent qu'un blâme léger ; car c'est peut-être en cherchant Dieu et voulant le trouver, qu'ils se sont égarés : plongés au milieu de ses œuvres, ils poursuivent leur recherche et se laissent prendre aux apparences : ce qui s'offre à leurs yeux est si beau ! Encore une fois, ils n'ont pas d'excuse. S'ils ont poussé la science à un degré tel qu'ils sont capables d'avoir une idée sur le cours éternel des choses, comment n'ont-ils pas découvert plus vite Celui qui en est le Maître ?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch der Weisheit"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Seelen der Gerechten sind in Gottes Hand, und keine Qual kann sie berühren. In den Augen der Toren sind sie gestorben, ihr Heimgang gilt als Unglück, ihr Scheiden von uns als Vernichtung; sie aber sind in Frieden. In den Augen der Menschen wurden sie gestraft; doch ihre Hoffnung ist voll Unsterblichkeit. Ein wenig nur werden sie gezüchtigt; doch sie empfangen große Wohltat. Denn Gott hat sie geprüft und fand sie seiner würdig. Wie Gold im Schmelzofen hat er sie erprobt und sie angenommen als ein vollgültiges Opfer. Beim Endgericht werden sie aufleuchten wie Funken, die durch ein Stoppelfeld sprühen. Sie werden Völker richten und über Nationen herrschen, und der Herr wird ihr König sein in Ewigkeit."
+       ],
+       [
+        "Alle, die auf ihn vertrauen, werden die Wahrheit erkennen, und die Treuen werden bei ihm bleiben in Liebe. Denn Gnade und Erbarmen wird seinen Erwählten zuteil."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.martyrs.first-reading.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.martyrs.first-reading.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
         "Psalmus Responsorius"
        ]
       ],

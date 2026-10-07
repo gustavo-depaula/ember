@@ -666,7 +666,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 67, 2-3. 4-5ac. 6-7ab (.: 33a)"
      }
     ],
     "es": [
@@ -1841,7 +1842,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Col 3, 1"
      },
      {
       "k": "p",

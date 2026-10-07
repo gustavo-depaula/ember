@@ -623,7 +623,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 88, 2-3. 21-22. 25 and 27 (R.: cf. 2a)"
      }
     ],
     "es": [
@@ -1767,7 +1768,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Cf. Ap 1, 5"
      },
      {
       "k": "p",

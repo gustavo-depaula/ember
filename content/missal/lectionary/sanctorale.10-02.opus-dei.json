@@ -288,7 +288,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the book of Exodus"
+        "A reading from the Book of Exodus"
        ]
       ],
       "cite": "23:20-23",
@@ -2358,7 +2358,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 102, 21"
      },
      {
       "k": "p",

@@ -593,7 +593,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 10, 4. 5 and 7 (.: cf. 7b)"
      }
     ],
     "es": [
@@ -1446,7 +1447,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 16, 7. 13"
      },
      {
       "k": "p",
@@ -1986,7 +1988,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra del Señor."
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"

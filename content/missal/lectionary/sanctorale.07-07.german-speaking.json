@@ -390,10 +390,11 @@
          "m": "cross",
          "t": "✠"
         },
-        " A reading from the holy Gospel according to Matthew 19:27-29"
+        " A reading from the holy Gospel according to Matthew"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "19, 27-29"
      }
     ],
     "es": [

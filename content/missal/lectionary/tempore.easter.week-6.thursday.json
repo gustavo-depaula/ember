@@ -607,7 +607,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 97, 1-2ab. 2cd-3ab. 3cd-4 (.: cf. 2d)"
      }
     ],
     "es": [
@@ -1752,7 +1753,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 18"
      },
      {
       "k": "p",

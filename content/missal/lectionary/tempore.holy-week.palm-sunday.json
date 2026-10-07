@@ -205,7 +205,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -669,7 +669,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 22"
      }
     ],
     "es": [
@@ -5426,7 +5427,8 @@
         "Paixão de Nosso Senhor Jesus Cristo segundo São Mateus"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "27, 11-54"
      }
     ],
     "en-US": [

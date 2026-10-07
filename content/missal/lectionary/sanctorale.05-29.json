@@ -103,6 +103,471 @@
       "k": "p",
       "lines": [
        [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Væ mihi est, si non evangelizavero."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "9, 16-19. 22-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si evangelizávero, non est mihi glória; necéssitas enim mihi incúmbit. Væ enim mihi est, si non evangelizávero! Si enim volens hoc ago, mercédem hábeo; si autem invítus, dispensátio mihi crédita est. Quæ est ergo merces mea? Ut Evangélium prædicans sine sumptu ponam Evangélium, ut non abútar potestáte mea in Evangélio."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nam cum liber essem ex ómnibus, ómnium me servum feci, ut plures lucri fácerem. Factus sum infírmis infírmus, ut infírmos lucri fácerem; ómnibus ómnia factus sum, ut áliquos útique fácerem salvos. Omnia autem fácio propter Evangélium, ut compárticeps eius effíciar."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ai de mim se eu não pregar o evangelho!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "9, 16-19. 22-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Pregar o Evangelho não é para mim motivo de glória. É antes uma necessidade para mim, uma imposição. Ai de mim se eu não pregar o Evangelho! Se eu exercesse minha função de pregador por iniciativa própria, eu teria direito a salário. Mas, como a iniciativa não é minha, trata-se de um encargo que me foi confiado. Em que consiste, então, o meu salário? Em pregar o Evangelho, oferecendo-o de graça, sem usar os direitos que o Evangelho me dá. Assim, livre em relação a todos, eu me tornei escravo de todos, a fim de ganhar o maior número possível. Com os fracos, eu me fiz fraco, para ganhar os fracos. Com todos, eu me fiz tudo, para certamente salvar alguns. Por causa do Evangelho eu faço tudo, para ter parte nele."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to the Corinthians"
+       ]
+      ],
+      "cite": "9:16-19.22-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I do not boast of preaching the gospel, since it is a duty which has been laid on me; I should be punished if I did not preach it! If I had chosen this work myself, I might have been paid for it, but as I have not, it is a responsibility which has been put into my hands. Do you know what my reward is? It is this in my preaching, to be able to offer the Good News free, and not insist on the rights which the gospel gives me. So though I am not a slave of any man I have made myself the slave of everyone so as to win as many as I could. I made myself all things to all men in order to save some at any cost; and I still do this, for the sake of the gospel, to have a share in its blessings."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "¡Ay de mí si no anuncio el Evangelio!"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "9, 16-19. 22-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "El hecho de predicar no es para mí motivo de orgullo."
+       ],
+       [
+        "No tengo más remedio y, ¡ay de mí si no anuncio el Evangelio!"
+       ],
+       [
+        "Si yo lo hiciera por mi propio gusto, eso mismo sería mi paga."
+       ],
+       [
+        "Pero, si lo hago a pesar mío, es que me han encargado este oficio."
+       ],
+       [
+        "Entonces, ¿cuál es la paga? Precisamente dar a conocer el Evangelio, anunciándolo de balde, sin usar el derecho que me da la predicación del Evangelio."
+       ],
+       [
+        "Porque, siendo libre como soy, me he hecho esclavo de todos para ganar a los más posibles."
+       ],
+       [
+        "Me he hecho débil con los débiles, para ganar a los débiles; me he hecho todo para todos, para ganar, sea como sea, a algunos."
+       ],
+       [
+        "Y todo lo hago por causa del Evangelio, para participar yo también de sus bienes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guai a me se non annuncio il Vangelo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "9, 16-19.22-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, annunciare il Vangelo non è per me un vanto, perché è una necessità che mi si impone: guai a me se non annuncio il Vangelo!"
+       ],
+       [
+        "Se lo faccio di mia iniziativa, ho diritto alla ricompensa; ma se non lo faccio di mia iniziativa, è un incarico che mi è stato affidato. Qual è dunque la mia ricompensa? Quella di annunciare gratuitamente il Vangelo senza usare il diritto conferitomi dal Vangelo."
+       ],
+       [
+        "Infatti, pur essendo libero da tutti, mi sono fatto servo di tutti per guadagnarne il maggior numero. Mi sono fatto debole per i deboli, per guadagnare i deboli; mi sono fatto tutto per tutti, per salvare a ogni costo qualcuno. Ma tutto io faccio per il Vangelo, per diventarne partecipe anch'io."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "9, 16-19. 22-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, annoncer l'Évangile, ce n'est pas là pour moi un motif de fierté, c'est une nécessité qui s'impose à moi. Malheur à moi si je n'annonçais pas l'Évangile ! Certes, si je le fais de moi-même, je mérite une récompense. Mais je ne le fais pas de moi-même, c'est une mission qui m'est confiée. Alors quel est mon mérite ? C'est d'annoncer l'Évangile sans rechercher aucun avantage matériel, et sans faire valoir mes droits de prédicateur de l'Évangile. Oui, libre à l'égard de tous, je me suis fait l'esclave de tous afin d'en gagner le plus grand nombre possible. Avec les faibles, j'ai été faible, pour gagner les faibles. Je me suis fait tout à tous pour en sauver à tout prix quelques-uns. Et tout cela, je le fais à cause de l'Évangile, pour y avoir part, moi aussi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "9, 16-19. 22-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Wenn ich das Evangelium verkünde, kann ich mich deswegen nicht rühmen; denn ein Zwang liegt auf mir. Weh mir, wenn ich das Evangelium nicht verkünde! Wäre es mein freier Entschluss, so erhielte ich Lohn. Wenn es mir aber nicht freisteht, so ist es ein Auftrag, der mir anvertraut wurde. Was ist nun mein Lohn? Dass ich das Evangelium unentgeltlich verkünde und so auf mein Recht verzichte."
+       ],
+       [
+        "Da ich also von niemand abhängig war, habe ich mich für alle zum Sklaven gemacht, um möglichst viele zu gewinnen. Den Schwachen wurde ich ein Schwacher, um die Schwachen zu gewinnen. Allen bin ich alles geworden, um auf jeden Fall einige zu retten. Alles aber tue ich um des Evangeliums willen, um an seiner Verheißung teilzuhaben."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
         "Psalmus Responsorius"
        ]
       ],

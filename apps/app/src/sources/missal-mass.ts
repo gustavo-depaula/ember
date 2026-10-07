@@ -63,7 +63,7 @@ export const missalMassSource: ContentSource<Primitive[]> = {
   // The cached flow embeds corpus text whose blobs change with every corpus
   // build; the catalog's `generated` stamp invalidates it.
   get version() {
-    return `9:${getCatalog().generated}`
+    return `10:${getCatalog().generated}`
   },
   prefsDeps: ['lang', 'jurisdiction'],
   dateScoped: true,

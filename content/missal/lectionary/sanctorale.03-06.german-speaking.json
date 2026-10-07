@@ -36,6 +36,514 @@
       "k": "p",
       "lines": [
        [
+        "Para los misioneros: [Pro missionariis]"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Placuit Deo per stultitiam prædicationis salvos facere credentes."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum crucis pereúntibus quidem stultítia est; his autem, qui salvi fiunt, id est nobis, virtus Dei est."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scriptum est enim: «Perdam sapiéntiam sapiéntium et prudéntiam prudéntium reprobábo». Ubi sápiens? Ubi scriba? Ubi conquisítor huius sǽculi? Nonne stultam fecit Deus sapiéntiam huius mundi?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nam quia in Dei sapiéntia non cognóvit mundus per sapiéntiam Deum, plácuit Deo per stultítiam prædicatiónis salvos fácere credéntes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quóniam et Iudæi signa petunt, et Græci sapiéntiam quærunt, nos autem prædicámus Christum crucifíxum, Iudæis quidem scándalum, géntibus autem stultítiam; ipsis autem vocátis, Iudæis atque Græcis, Christum Dei virtútem et Dei sapiéntiam; quia quod stultum est Dei, sapiéntius est homínibus, et, quod infírmum est Dei, fórtius est homínibus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus houve por bem salvar os que crêem por meio da insensatez da pregação."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: “Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes”. Onde está o sábio? Onde o mestre da Lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria; por isso, Deus houve por bem salvar os que crêem por meio da insensatez da pregação. Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first letter of St. Paul to the Corinthians"
+       ]
+      ],
+      "cite": "1:18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The language of the cross may be illogical to those who are not on the way to salvation, but those of us who are on the way see it as God's power to save. As scripture says: I shall destroy the wisdom of the wise and bring to nothing all the learning of the learned. Where are the philosophers now? Where are the scribes? Where are any of our thinkers today? Do you see now how God has shown up the foolishness of human wisdom? If it was God's wisdom that human wisdom should not know God, it was because God wanted to save those who have faith through the foolishness of the message that we preach. And so, while the Jews demand miracles and the Greeks look for wisdom, here are we preaching a crucified Christ; to the Jews an obstacle that they cannot get over, to the pagans madness, but to those who have been called, whether they are Jews or Greeks, a Christ who is the power and the wisdom of God. For God's foolishness is wiser than human wisdom, and God's weakness is stronger than human strength."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quiso Dios valerse de la necedad de la predicación, para salvar a los creyentes"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "El mensaje de la cruz es necedad para los que se pierden; pero para los que se salvan, para nosotros, es fuerza de Dios. Pues está escrito:"
+       ],
+       [
+        "«Destruiré la sabiduría de los sabios, frustraré la sagacidad de los sagaces»."
+       ],
+       [
+        "¿Dónde está el sabio? ¿Dónde está el docto? ¿Dónde está el sofista de este tiempo? ¿No ha convertido Dios en necedad la sabiduría del mundo?"
+       ],
+       [
+        "Y puesto que, en la sabiduría de Dios, el mundo no conoció a Dios por el camino de la sabiduría, quiso Dios valerse de la necedad de la predicación para salvar a los que creen."
+       ],
+       [
+        "Pues los judíos exigen signos, los griegos buscan sabiduría; pero nosotros predicamos a Cristo crucificado: escándalo para los judíos, necedad para los gentiles; pero para los llamados — judíos o griegos—, un Cristo que es fuerza de Dios y sabiduría de Dios."
+       ],
+       [
+        "Pues lo necio de Dios es más sabio que los hombres; y lo débil de Dios es más fuerte que los hombres."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È piaciuto a Dio salvare i credenti con la stoltezza della predicazione."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, la parola della croce è stoltezza per quelli che si perdono, ma per quelli che sì salvano, ossia per noi, è potenza di Dio. Sta scritto infatti:"
+       ],
+       [
+        "«Distruggerò la sapienza dei sapienti e annullerò l'intelligenza degli intelligenti»."
+       ],
+       [
+        "Dov'è il sapiente? Dov'è il dotto? Dov'è il sottile ragionatore di questo mondo? Dio non ha forse dimostrato stolta la sapienza del mondo? Poiché infatti, nel disegno sapiente di Dio, il mondo, con tutta la sua sapienza, non ha conosciuto Dio, è piaciuto a Dio salvare i credenti con la stoltezza della predicazione."
+       ],
+       [
+        "Mentre i Giudei chiedono segni e i Greci cercano sapienza, noi invece annunciamo Cristo crocifisso: scandalo per i Giudei e stoltezza per i pagani; ma per coloro che sono chiamati, sia Giudei che Greci, Cristo è potenza di Dio e sapienza di Dio. Infatti ciò che è stoltezza di Dio è più sapiente degli uomini, e ciò che è debolezza di Dio è più forte degli uomini."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, le langage de la croix est folie pour ceux qui vont à leur perte, mais pour ceux qui vont vers leur salut, pour nous, il est puissance de Dieu. L'Écriture dit en effet : Je mènerai à sa perte la sagesse des sages, et l'intelligence des intelligents, je la rejetterai. Où est-il, le sage ? Où est-il, le scribe ? Où est-il, le raisonneur d'ici-bas ? La sagesse du monde, Dieu ne l'a-t-il pas rendue folle ? Puisque, en effet, par une disposition de la sagesse de Dieu, le monde, avec toute sa sagesse, n'a pas su reconnaître Dieu, il a plu à Dieu de sauver les croyants par cette folie qu'est la proclamation de l'Évangile."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors que les Juifs réclament des signes miraculeux, et que les Grecs recherchent une sagesse, nous, nous proclamons un Messie crucifié, scandale pour les Juifs, folie pour les nations païennes. Mais pour ceux que Dieu appelle, qu'ils soient Juifs ou Grecs, ce Messie, ce Christ, est puissance de Dieu et sagesse de Dieu. Car ce qui est folie de Dieu est plus sage que les hommes, et ce qui est faiblesse de Dieu est plus fort que les hommes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Das Wort vom Kreuz ist denen, die verlorengehen, Torheit; uns aber, die gerettet werden, ist es Gottes Kraft."
+       ],
+       [
+        "Es heißt nämlich in der Schrift: Ich lasse die Weisheit der Weisen vergehen und die Klugheit der Klugen verschwinden. Wo ist ein Weiser? Wo ein Schriftgelehrter? Wo ein Wortführer in dieser Welt? Hat Gott nicht die Weisheit der Welt als Torheit entlarvt?"
+       ],
+       [
+        "Denn da die Welt angesichts der Weisheit Gottes auf dem Weg ihrer Weisheit Gott nicht erkannte, beschloss Gott, alle, die glauben, durch die Torheit der Verkündigung zu retten."
+       ],
+       [
+        "Die Juden fordern Zeichen, die Griechen suchen Weisheit. Wir dagegen verkündigen Christus als den Gekreuzigten: für Juden ein empörendes Ärgernis, für Heiden eine Torheit, für die Berufenen aber, Juden wie Griechen, Christus, Gottes Kraft und Gottes Weisheit. Denn das Törichte an Gott ist weiser als die Menschen, und das Schwache an Gott ist stärker als die Menschen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.2"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
         "Antwortpsalm"
        ]
       ],

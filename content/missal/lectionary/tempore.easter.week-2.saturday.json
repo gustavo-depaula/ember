@@ -225,7 +225,7 @@
       "k": "p",
       "lines": [
        [
-        "Palabra do Senhor."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -613,7 +613,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 33, 1-2. 4-5. 18-19"
      }
     ],
     "es": [

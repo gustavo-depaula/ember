@@ -1790,7 +1790,7 @@
       "k": "p",
       "lines": [
        [
-        "Plavra do Senhor."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -1810,10 +1810,11 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Ezekiel 1:2-5.24-28"
+        "A reading from the Book of the Prophet Ezekiel"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "1, 2-5.6a.24-28 abc"
      },
      {
       "k": "p",

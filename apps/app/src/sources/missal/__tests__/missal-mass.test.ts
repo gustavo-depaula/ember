@@ -159,9 +159,9 @@ describe('an ordinary weekday', () => {
     const options = selectOf(mass, 'missal.mass')?.options.map((o) => o.id)
     expect(options).toContain('sanctorale.10-06#day')
     expect(options).toContain('tempore.ordinary-time.week-27.tuesday#day')
-    // The weekday is named as itself, not as the Sunday whose prayers it uses.
+    // The weekday comes first, named as itself and not as the Sunday whose prayers it uses.
     const labels = selectOf(mass, 'missal.mass')?.options.map((o) => o.label.primary)
-    expect(labels?.at(-1)).toBe('Terça-feira da 27ª Semana do Tempo Comum')
+    expect(labels?.[0]).toBe('Terça-feira da 27ª Semana do Tempo Comum')
   })
 })
 

@@ -624,7 +624,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 67, 10-11. 20-21 (.: 33a)"
      }
     ],
     "es": [
@@ -1486,7 +1487,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 16"
      },
      {
       "k": "p",

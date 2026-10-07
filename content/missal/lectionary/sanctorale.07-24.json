@@ -176,7 +176,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura do livro do Eclesiástico"
+        "Leitura do Livro do Eclesiástico"
        ]
       ],
       "cite": "3, 17-24",
@@ -214,7 +214,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the the Book of Sirach"
+        "A reading from the Book of Sirach"
        ]
       ],
       "cite": "3:17-24",
@@ -1844,10 +1844,11 @@
          "m": "cross",
          "t": "✠"
         },
-        " A reading from the holy Gospel according to Matthew 19:27-29"
+        " A reading from the holy Gospel according to Matthew"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "19, 27-29"
      }
     ],
     "es": [

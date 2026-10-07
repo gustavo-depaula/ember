@@ -621,7 +621,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 99, 1-2. 3. 5 (R.: 1)"
      }
     ],
     "es": [
@@ -1709,7 +1710,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Col 3,1"
      },
      {
       "k": "p",

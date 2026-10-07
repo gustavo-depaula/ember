@@ -593,7 +593,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 46, 2-3. 6-7. 8-9 (R.: 6)"
      }
     ],
     "es": [
@@ -2861,7 +2862,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the letter to the Hebrews"
+        "A reading from the Letter to the Hebrews"
        ]
       ],
       "cite": "9:24-28; 10:19-23",
@@ -3262,7 +3263,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Mt 28, 19. 20"
      },
      {
       "k": "p",

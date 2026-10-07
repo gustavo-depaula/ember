@@ -159,6 +159,458 @@
       "k": "p",
       "lines": [
        [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Unxit me Dóminus et evangelizare pauperibus misit me (cf. Lc 4, 18)."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Isaíæ prophétæ"
+       ]
+      ],
+      "cite": "61, 1-3a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Spíritus Dómini Dei super me, eo quod únxerit Dóminus me; ad annuntiándum læta mansuétis misit me, ut medérer contrítis corde et prædicárem captívis liberatiónem et clausis apertiónem; ut prædicárem annum placábilem Dómino et diem ultiónis Deo nostro; ut consolárer omnes lugéntes, ut pónerem lugéntibus Sion et darem eis corónam pro cínere, óleum gáudii pro luctu, pállium laudis pro spíritu mæróris."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor me ungiu e enviou-me para dar a boa nova aos humildes."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Profeta Isaías"
+       ]
+      ],
+      "cite": "61, 1-3a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O espírito do Senhor está sobre mim, porque o Senhor me ungiu; enviou-se para dar a boa-nova aos humildes, curar as feridas da alma, pregar a redenção para os cativos e a liberdade para os que estão presos; para proclamar o tempo da graça do Senhor e o dia da vingança do nosso Deus; para consolar todos os que choram, para reservar e dar aos que sofrem por Sião uma coroa, em vez de cinza, o óleo da alegria, em vez da aflição."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of the Prophet Isaiah"
+       ]
+      ],
+      "cite": "61:1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The spirit of the Lord has been given to me, for the Lord has anointed me. He has sent me to bring good news to the poor, to bind up hearts that are broken; to proclaim liberty to captives, freedom to those in prison; to proclaim a year of favour from the Lord, a day of vengeance for our God, to comfort all those who mourn and to give them for ashes a garland; for mourning robe the oil of gladness, for despondency, praise."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor me ha ungido y me ha enviado para dar la buena noticia a los pobres"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de Isaías"
+       ]
+      ],
+      "cite": "61, 1-3a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Espíritu del Señor está sobre mí,"
+       ],
+       [
+        "porque el Señor me ha ungido."
+       ],
+       [
+        "Me ha enviado para dar la buena noticia a los pobres,"
+       ],
+       [
+        "para curar los corazones desgarrados,"
+       ],
+       [
+        "proclamar la amnistía a los cautivos,"
+       ],
+       [
+        "y a los prisioneros la libertad;"
+       ],
+       [
+        "para proclamar un año de gracia del Señor,"
+       ],
+       [
+        "un día de venganza de nuestro Dios,"
+       ],
+       [
+        "para consolar a los afligidos,"
+       ],
+       [
+        "para dar a los afligidos de Sion"
+       ],
+       [
+        "una diadema en lugar de cenizas,"
+       ],
+       [
+        "perfume de fiesta en lugar de duelo,"
+       ],
+       [
+        "un vestido de alabanza"
+       ],
+       [
+        "en lugar de un espíritu abatido."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore mi ha consacrato con l'unzione; mi ha mandato a portare il lieto annuncio ai miseri."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Isaia"
+       ]
+      ],
+      "cite": "61, 1-3a.",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lo spirito del Signore Dio è su di me, perché il Signore mi ha consacrato con l'unzione; mi ha mandato a portare il lieto annuncio ai miseri, a fasciare le piaghe dei cuori spezzati, a proclamare la libertà degli schiavi, la scarcerazione dei prigionieri, a promulgare l'anno di grazia del Signore, il giorno di vendetta del nostro Dio, per consolare tutti gli afflitti, per dare agli afflitti di Sion una corona invece della cenere, olio di letizia invece dell'abito da lutto, veste di lode invece di uno spirito mesto."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Isaïe"
+       ]
+      ],
+      "cite": "61, 1-3a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'esprit du Seigneur Dieu est sur moi parce que le Seigneur m'a consacré par l'onction. Il m'a envoyé annoncer la bonne nouvelle aux humbles, guérir ceux qui ont le cœur brisé, proclamer aux captifs leur délivrance, aux prisonniers leur libération, proclamer une année de bienfaits accordée par le Seigneur, et un jour de vengeance pour notre Dieu, consoler tous ceux qui sont en deuil, ceux qui sont en deuil dans Sion, mettre le diadème sur leur tête au lieu de la cendre, l'huile de joie au lieu du deuil, un habit de fête au lieu d'un esprit abattu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesája"
+       ]
+      ],
+      "cite": "61, 1-3a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Geist Gottes, des Herrn, ruht auf mir; denn der Herr hat mich gesalbt. Er hat mich gesandt, damit ich den Armen eine frohe Botschaft bringe und alle heile, deren Herz zerbrochen ist, damit ich den Gefangenen die Entlassung verkünde und den Gefesselten die Befreiung, damit ich ein Gnadenjahr des Herrn ausrufe, einen Tag der Vergeltung unseres Gottes, damit ich alle Trauernden tröste, die Trauernden Zions erfreue, ihnen Schmuck bringe anstelle von Schmutz, Freudenöl statt Trauergewand, Jubel statt der Verzweiflung."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.pastors.first-reading.6"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.pastors.first-reading.6"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
         "Psalmus Responsorius"
        ]
       ],

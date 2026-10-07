@@ -570,7 +570,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 65, 1-3a. 4-5. 6-7a. 16 and 20"
      }
     ],
     "es": [
@@ -2476,7 +2477,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 23"
      },
      {
       "k": "p",
@@ -3711,7 +3713,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4 (R.: cf. 2b)"
      }
     ],
     "es": [
@@ -5305,7 +5308,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 23"
      },
      {
       "k": "p",
@@ -6595,7 +6599,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 66, 2-3. 5. 6 and 8 (R.: 4)"
      }
     ],
     "es": [
@@ -8196,7 +8201,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 23"
      },
      {
       "k": "p",
@@ -8706,7 +8712,7 @@
       "k": "p",
       "lines": [
        [
-        "Palabra del Señor."
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"

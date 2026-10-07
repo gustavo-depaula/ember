@@ -2831,7 +2831,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -4450,10 +4450,11 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Letter of Saint Paul to the Ephesians 5:15-20"
+        "A reading from the Letter of Saint Paul to the Ephesians"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "5, 15-20"
      },
      {
       "k": "p",

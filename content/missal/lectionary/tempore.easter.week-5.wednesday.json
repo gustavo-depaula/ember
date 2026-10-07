@@ -245,10 +245,19 @@
       "k": "p",
       "lines": [
        [
-        "Some men came down from Judaea and taught the brothers, 'Unless you have yourselves circumcised in the tradition of Moses you cannot be saved'. This led to disagreement, and after Paul and Barnabas had had a long argument with these men it was arranged that Paul and Barnabas and others of the church should go up to Jerusalem and discuss the problem with the apostles and elders. All the members of the church saw them off, and as they passed through Phoenicia and Samaria they told how the pagans had been converted, and this news was received with the greatest satisfaction by the brothers. When they arrived in Jerusalem they were welcomed by the church and by the apostles and elders, and gave an account of all that God had done with them. But certain members of the Pharisees' party who had become believers objected, insisting that the pagans should be circumcised and instructed to keep the Law of Moses. The apostles and elders met to look into the matter."
+        "A reading from the Acts of the Apostles"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "15, 1-6"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Some men came down from Judaea and taught the brothers, 'Unless you have yourselves circumcised in the tradition of Moses you cannot be saved'. This led to disagreement, and after Paul and Barnabas had had a long argument with these men it was arranged that Paul and Barnabas and others of the church should go up to Jerusalem and discuss the problem with the apostles and elders. All the members of the church saw them off, and as they passed through Phoenicia and Samaria they told how the pagans had been converted, and this news was received with the greatest satisfaction by the brothers. When they arrived in Jerusalem they were welcomed by the church and by the apostles and elders, and gave an account of all that God had done with them. But certain members of the Pharisees' party who had become believers objected, insisting that the pagans should be circumcised and instructed to keep the Law of Moses. The apostles and elders met to look into the matter."
+       ]
+      ]
      },
      {
       "k": "p",
@@ -598,7 +607,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 121, 1-2. 4-5 (R.: cf. 1)"
      }
     ],
     "es": [
@@ -1719,7 +1729,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 15, 4a. 5b"
      },
      {
       "k": "p",

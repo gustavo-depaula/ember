@@ -1076,6 +1076,15 @@
   {
    "id": "sanctorale.06-29",
    "month": 6,
+   "day": 28,
+   "regions": [
+    "brazil"
+   ],
+   "sunday": true
+  },
+  {
+   "id": "sanctorale.06-29",
+   "month": 6,
    "day": 29
   },
   {
@@ -1249,6 +1258,15 @@
    "id": "sanctorale.07-16",
    "month": 7,
    "day": 16
+  },
+  {
+   "id": "sanctorale.07-16",
+   "month": 7,
+   "day": 16,
+   "regions": [
+    "brazil"
+   ],
+   "precedence": 8
   },
   {
    "id": "sanctorale.07-16.chile",
@@ -1475,6 +1493,15 @@
    "id": "sanctorale.08-15",
    "month": 8,
    "day": 15
+  },
+  {
+   "id": "sanctorale.08-15",
+   "month": 8,
+   "day": 15,
+   "regions": [
+    "brazil"
+   ],
+   "sunday": true
   },
   {
    "id": "sanctorale.08-15.vigil",
@@ -2075,6 +2102,15 @@
    "id": "sanctorale.11-01",
    "month": 11,
    "day": 1
+  },
+  {
+   "id": "sanctorale.11-01",
+   "month": 11,
+   "day": 1,
+   "regions": [
+    "brazil"
+   ],
+   "sunday": true
   },
   {
    "id": "sanctorale.11-02",
@@ -2804,7 +2840,7 @@
    },
    "precedence": 7,
    "lectionary": "sanctorale.01-25",
-   "color": "red"
+   "color": "white"
   },
   "sanctorale.01-26": {
    "kind": "sanctoral",
@@ -2819,7 +2855,7 @@
    },
    "precedence": 10,
    "lectionary": "sanctorale.01-26",
-   "color": "red"
+   "color": "white"
   },
   "sanctorale.01-27": {
    "kind": "sanctoral",
@@ -3091,7 +3127,7 @@
    },
    "precedence": 7,
    "lectionary": "sanctorale.02-22",
-   "color": "red"
+   "color": "white"
   },
   "sanctorale.02-23": {
    "kind": "sanctoral",
@@ -3549,7 +3585,7 @@
    "title": {
     "la": "S. MARCI, EVANGELISTÆ",
     "pt-BR": "São Marcos, Evangelista",
-    "en-US": "Saint MARK, EVANGELIST",
+    "en-US": "Saint Mark, Evangelist",
     "es": "SAN MARCOS, EVANGELISTA",
     "it": "SAN MARCO EVANGELISTA",
     "fr": "SAINT MARC, ÉVANGÉLISTE",
@@ -3557,7 +3593,7 @@
    },
    "precedence": 7,
    "lectionary": "sanctorale.04-25",
-   "color": "white"
+   "color": "red"
   },
   "sanctorale.04-26.spain": {
    "kind": "sanctoral",
@@ -3737,7 +3773,7 @@
    "title": {
     "la": "S. Ioannis de Avila, presbyteri et Ecclesiæ doctoris",
     "pt-BR": "São João de Ávila, presbítero e doutor da Igreja",
-    "en-US": "St. John De Avila, Priest and Doctor of the Church",
+    "en-US": "Saint John of Avila, Priest and Doctor of the Church",
     "es": "San Juan de Ávila, presbítero y Doctor de la Iglesia",
     "it": "S. Giovanni De Avila, presbitero e dottore della Chiesa",
     "fr": "Saint Jean d'Avila, prêtre et Docteur de l'Église",
@@ -4426,7 +4462,7 @@
    "title": {
     "la": "S. Cyrilli Alexandrini, — episcopi et Ecclesiæ doctoris",
     "pt-BR": "São Cirilo de Alexandria, bispo e doutor da Igreja",
-    "en-US": "Saint Cyril of Alexandria, — bishop and doctor of the Church",
+    "en-US": "Saint Cyril of Alexandria, bishop and doctor of the Church",
     "es": "San Cirilo de Alejandría, — obispo y doctor de la Iglesia",
     "it": "SAN CIRILLO D'ALESSANDRIA, vescovo e dottore della Chiesa",
     "fr": "Saint Cyrille d'Alexandrie, évêque et docteur de l'Église",
@@ -4487,7 +4523,7 @@
    },
    "precedence": 3,
    "lectionary": "sanctorale.06-29.vigil",
-   "color": "white"
+   "color": "red"
   },
   "sanctorale.06-30": {
    "kind": "sanctoral",
@@ -4525,7 +4561,7 @@
    "title": {
     "la": "S. THOMÆ, APOSTOLI",
     "pt-BR": "São Tomé, Apóstolo",
-    "en-US": "Saint THOMAS, APOSTLE",
+    "en-US": "Saint Thomas, Apostle",
     "es": "SANTO TOMÁS, APÓSTOL",
     "it": "SAN TOMMASO APOSTOLO",
     "fr": "SAINT THOMAS, APÔTRE",
@@ -4867,7 +4903,7 @@
    "title": {
     "la": "S. IACOBI, APOSTOLI",
     "pt-BR": "São Tiago, Apóstolo",
-    "en-US": "Saint JAMES, APOSTLE",
+    "en-US": "Saint James, Apostle",
     "es": "SANTIAGO, APÓSTOL",
     "it": "SAN GIACOMO, APOSTOLO",
     "fr": "SAINT JACQUES, APÔTRE",
@@ -5125,7 +5161,7 @@
    "title": {
     "la": "S. LAURENTII, DIACONI ET MARTYRIS",
     "pt-BR": "São Lourenço, Diácono e Mártir",
-    "en-US": "Saint LAWRENCE, DEACON AND MARTYR",
+    "en-US": "Saint Lawrence, Deacon and Martyr",
     "es": "SAN LORENZO, DIÁCONO Y MÁRTIR",
     "it": "SAN LORENZO, diacono e martire",
     "fr": "SAINT LAURENT, DIACRE ET MARTYR",
@@ -5650,7 +5686,7 @@
     "fr": "Sainte Hildegarde de Bingen, vierge et docteur de l'Église",
     "de": "Hl. Hildegard von Bingen, Äbtissin, Mystikerin, Kirchenlehrerin"
    },
-   "precedence": 10,
+   "precedence": 12,
    "lectionary": "sanctorale.04-29",
    "color": "white"
   },
@@ -5714,7 +5750,7 @@
    "title": {
     "la": "S. MATTHÆI, APOSTOLI ET EVANGELISTÆ",
     "pt-BR": "São Mateus, Apóstolo e Evangelista",
-    "en-US": "Saint MATTHEW, APOSTLE AND EVANGELIST",
+    "en-US": "Saint Matthew, Apostle and Evangelist",
     "es": "SAN MATEO, APÓSTOL",
     "it": "SAN MATTEO APOSTOLO ED EVANGELISTA",
     "fr": "SAINT MATTHIEU, APÔTRE ET ÉVANGÉLISTE",
@@ -5981,7 +6017,7 @@
     "fr": "S. Faustinæ Kowalska, virginis",
     "de": "Hl. Faustina Kowalska, Jungfrau"
    },
-   "precedence": 10,
+   "precedence": 12,
    "lectionary": "sanctorale.10-05.faustina-kowalska",
    "color": "white"
   },
@@ -6274,7 +6310,7 @@
    },
    "precedence": 7,
    "lectionary": "sanctorale.10-18",
-   "color": "white"
+   "color": "red"
   },
   "sanctorale.10-19": {
    "kind": "sanctoral",
@@ -6746,7 +6782,7 @@
    },
    "precedence": 12,
    "lectionary": "sanctorale.11-18",
-   "color": "red"
+   "color": "white"
   },
   "sanctorale.11-18.united-states": {
    "kind": "sanctoral",
@@ -6884,7 +6920,7 @@
    "title": {
     "la": "S. ANDREÆ, APOSTOLI",
     "pt-BR": "Santo André, Apóstolo",
-    "en-US": "Saint ANDREW, APOSTLE",
+    "en-US": "Saint Andrew, Apostle",
     "es": "SAN ANDRÉS, APÓSTOL",
     "it": "SANT'ANDREA, APOSTOLO",
     "fr": "SAINT ANDRÉ, APÔTRE",
@@ -7158,7 +7194,7 @@
    "title": {
     "la": "S. IOANNIS, APOSTOLI ET EVANGELISTÆ",
     "pt-BR": "São João, Apóstolo e Evangelista",
-    "en-US": "Saint JOHN, APOSTLE AND EVANGELIST",
+    "en-US": "Saint John, Apostle and Evangelist",
     "es": "SAN JUAN, APÓSTOL Y EVANGELISTA",
     "it": "SAN GIOVANNI APOSTOLO ED EVANGELISTA",
     "fr": "SAINT JEAN, APÔTRE ET ÉVANGÉLISTE",
@@ -7166,7 +7202,7 @@
    },
    "precedence": 7,
    "lectionary": "sanctorale.12-27",
-   "color": "red"
+   "color": "white"
   },
   "sanctorale.12-28": {
    "kind": "sanctoral",
@@ -7236,7 +7272,7 @@
    "title": {
     "la": "Sabbato post Dominicam secundam post Pentecosten — Immaculati Cordis beatæ Maríæ Virginis",
     "pt-BR": "Imaculado Coração da Bem-aventurada Virgem Maria",
-    "en-US": "Saturday after the Second Sunday after Pentecost — The Immaculate Heart of the Blessed Virgin Mary",
+    "en-US": "The Immaculate Heart of the Blessed Virgin Mary",
     "es": "El Inmaculado Corazón de la Virgen María",
     "it": "Sabato dopo la solennità del Sacratissimo Cuore di Gesù — CUORE IMMACOLATO DELLA BEATA VERGINE MARIA",
     "fr": "Samedi après le deuxième dimanche après la Pentecôte — Cœur Immaculé de la bienheureuse Vierge Marie",
@@ -10407,7 +10443,7 @@
    "title": {
     "la": "S. MARCI, EVANGELISTÆ",
     "pt-BR": "São Marcos, Evangelista",
-    "en-US": "Saint MARK, EVANGELIST",
+    "en-US": "Saint Mark, Evangelist",
     "es": "SAN MARCOS, EVANGELISTA",
     "it": "SAN MARCO EVANGELISTA",
     "fr": "SAINT MARC, ÉVANGÉLISTE",
@@ -10547,7 +10583,7 @@
    "title": {
     "*": "San Juan de Ávila, presbítero y Doctor de la Iglesia",
     "pt-BR": "São João de Ávila, presbítero e doutor da Igreja",
-    "en-US": "St. John De Avila, Priest and Doctor of the Church"
+    "en-US": "Saint John of Avila, Priest and Doctor of the Church"
    }
   },
   "sanctorale.05-12": {
@@ -10997,7 +11033,7 @@
    "title": {
     "la": "S. Cyrilli Alexandrini, episcopi et Ecclesiæ doctoris",
     "pt-BR": "São Cirilo de Alexandria, bispo e doutor da Igreja",
-    "en-US": "Saint Cyril of Alexandria, — bishop and doctor of the Church",
+    "en-US": "Saint Cyril of Alexandria, bishop and doctor of the Church",
     "es": "San Cirilo de Alejandría, obispo y doctor de la Iglesia",
     "it": "San Cirillo D'Alessandria, vescovo e dottore della Chiesa",
     "fr": "Saint Cyrille d'Alexandrie, évêque et docteur de l'Église",
@@ -11062,7 +11098,7 @@
    "title": {
     "la": "S. THOMÆ, APOSTOLI",
     "pt-BR": "São Tomé, Apóstolo",
-    "en-US": "Saint THOMAS, APOSTLE",
+    "en-US": "Saint Thomas, Apostle",
     "es": "SANTO TOMÁS, APÓSTOL",
     "it": "SAN TOMMASO APOSTOLO",
     "fr": "SAINT THOMAS, APÔTRE",
@@ -11272,7 +11308,7 @@
    "title": {
     "la": "S. IACOBI, APOSTOLI",
     "pt-BR": "São Tiago, Apóstolo",
-    "en-US": "Saint JAMES, APOSTLE",
+    "en-US": "Saint James, Apostle",
     "es": "SANTIAGO, APÓSTOL",
     "it": "SAN GIACOMO APOSTOLO",
     "fr": "SAINT JACQUES, APÔTRE",
@@ -11447,7 +11483,7 @@
    "title": {
     "la": "S. LAURENTII, DIACONI ET MARTYRIS",
     "pt-BR": "São Lourenço, Diácono e Mártir",
-    "en-US": "Saint LAWRENCE, DEACON AND MARTYR",
+    "en-US": "Saint Lawrence, Deacon and Martyr",
     "es": "SAN LORENZO, DIÁCONO Y MÁRTIR",
     "it": "SAN LORENZO, diacono e martire",
     "fr": "SAINT LAURENT, DIACRE ET MARTYR",
@@ -11835,7 +11871,7 @@
    "title": {
     "la": "S. MATTHÆI, APOSTOLI ET EVANGELISTÆ",
     "pt-BR": "São Mateus, Apóstolo e Evangelista",
-    "en-US": "Saint MATTHEW, APOSTLE AND EVANGELIST",
+    "en-US": "Saint Matthew, Apostle and Evangelist",
     "es": "SAN MATEO, APÓSTOL",
     "it": "SAN MATTEO APOSTOLO ED EVANGELISTA",
     "fr": "SAINT MATTHIEU, APÔTRE ET ÉVANGÉLISTE",
@@ -12541,7 +12577,7 @@
    "title": {
     "la": "S. ANDREÆ, APOSTOLI",
     "pt-BR": "Santo André, Apóstolo",
-    "en-US": "Saint ANDREW, APOSTLE",
+    "en-US": "Saint Andrew, Apostle",
     "es": "SAN ANDRÉS, APÓSTOL",
     "it": "SANT'ANDREA, APOSTOLO",
     "fr": "SAINT ANDRÉ, APÔTRE",
@@ -12730,7 +12766,7 @@
    "title": {
     "la": "S. IOANNIS, APOSTOLI ET EVANGELISTÆ",
     "pt-BR": "São João, Apóstolo e Evangelista",
-    "en-US": "Saint JOHN, APOSTLE AND EVANGELIST",
+    "en-US": "Saint John, Apostle and Evangelist",
     "es": "SAN JUAN, APÓSTOL Y EVANGELISTA",
     "it": "SAN GIOVANNI, APOSTOLO ED EVANGELISTA",
     "fr": "SAINT JEAN, APÔTRE ET ÉVANGÉLISTE",
@@ -12806,7 +12842,7 @@
    "title": {
     "la": "Sabbato post Dominicam secundam post Pentecosten — Immaculati Cordis beatæ Maríæ Virginis",
     "pt-BR": "Imaculado Coração da Bem-aventurada Virgem Maria",
-    "en-US": "Saturday after the Second Sunday after Pentecost — The Immaculate Heart of the Blessed Virgin Mary",
+    "en-US": "The Immaculate Heart of the Blessed Virgin Mary",
     "es": "Sábado posterior al II domingo después de Pentecostés: — El Inmaculado Corazón de la Virgen María",
     "it": "Sabato dopo la solennità del S. Cuore di Gesù — Cuore Immacolato Della Beata Vergine Maria",
     "fr": "Cœur Immaculé de la bienheureuse Vierge Marie",
@@ -13180,67 +13216,67 @@
   "tempore.christmas.after-epiphany.friday": {
    "title": {
     "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 11 ianuarii — vel — feria sexta post Epiphaniam",
-    "en-US": "Friday after Epiphany",
+    "en-US": "January 11, or Friday after Epiphany",
     "es": "FERIAS DEL TIEMPO DE NAVIDAD — 11 de enero — o bien — viernes después del domingo de Epifanía",
     "it": "11 gennaio",
     "fr": "Temps de Noël",
     "de": "Wochentage der Weihnachtszeit — 11. Januar",
-    "pt-BR": "Sexta-feira depois da Epifania"
+    "pt-BR": "11 de janeiro ou sexta-feira depois da Epifania"
    }
   },
   "tempore.christmas.after-epiphany.monday": {
    "title": {
     "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 7 ianuarii — vel — feria secunda post Epiphaniam",
-    "en-US": "Monday after Epiphany",
+    "en-US": "January 7, or Monday after Epiphany",
     "es": "FERIAS DEL TIEMPO DE NAVIDAD — 7 de enero — o bien — lunes después del domingo de Epifanía",
     "it": "7 gennaio",
     "fr": "Temps de Noël",
     "de": "Wochentage der Weihnachtszeit — 7. Januar",
-    "pt-BR": "Segunda-feira depois da Epifania"
+    "pt-BR": "7 de janeiro ou segunda-feira depois da Epifania"
    }
   },
   "tempore.christmas.after-epiphany.saturday": {
    "title": {
     "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 12 ianuarii — vel — sabbato post Epiphania",
-    "en-US": "Saturday after Epiphany",
+    "en-US": "January 12, or Saturday after Epiphany",
     "es": "FERIAS DEL TIEMPO DE NAVIDAD — 12 de enero — o bien — sábado después del domingo de Epifanía",
     "it": "12 gennaio",
     "fr": "Temps de Noël",
     "de": "Wochentage der Weihnachtszeit — 12. Januar",
-    "pt-BR": "Sábado depois da Epifania"
+    "pt-BR": "12 de janeiro ou sábado depois da Epifania"
    }
   },
   "tempore.christmas.after-epiphany.thursday": {
    "title": {
     "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 10 ianuarii — vel — feria quinta post Epiphaniam",
-    "en-US": "Thursday after Epiphany",
+    "en-US": "January 10, or Thursday after Epiphany",
     "es": "FERIAS DEL TIEMPO DE NAVIDAD — 10 de enero — o bien — jueves después del domingo de Epifanía",
     "it": "10 gennaio",
     "fr": "Temps de Noël",
     "de": "Wochentage der Weihnachtszeit — 10. Januar",
-    "pt-BR": "Quinta-feira depois da Epifania"
+    "pt-BR": "10 de janeiro ou quinta-feira depois da Epifania"
    }
   },
   "tempore.christmas.after-epiphany.tuesday": {
    "title": {
     "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 8 ianuarii — vel — feria tertia post Epiphaniam",
-    "en-US": "Tuesday after Epiphany",
+    "en-US": "January 8, or Tuesday after Epiphany",
     "es": "FERIAS DEL TIEMPO DE NAVIDAD — 8 de enero — o bien — martes después del domingo de Epifanía",
     "it": "8 gennaio",
     "fr": "Temps de Noël",
     "de": "Wochentage der Weihnachtszeit — 8. Januar",
-    "pt-BR": "Terça-feira depois da Epifania"
+    "pt-BR": "8 de janeiro ou terça-feira depois da Epifania"
    }
   },
   "tempore.christmas.after-epiphany.wednesday": {
    "title": {
     "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 9 ianuarii — vel — feria quarta post Epiphaniam",
-    "en-US": "Wednesday after Epiphany",
+    "en-US": "January 9, or Wednesday after Epiphany",
     "es": "FERIAS DEL TIEMPO DE NAVIDAD — 9 de enero — o bien — miércoles después del domingo de Epifanía",
     "it": "9 gennaio",
     "fr": "Temps de Noël",
     "de": "Wochentage der Weihnachtszeit — 9. Januar",
-    "pt-BR": "Quarta-feira depois da Epifania"
+    "pt-BR": "9 de janeiro ou quarta-feira depois da Epifania"
    }
   },
   "tempore.christmas.baptism-of-the-lord": {

@@ -207,10 +207,11 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Deuteronomy 8:2-3.14-16"
+        "A reading from the Book of Deuteronomy"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "8, 2-3.14b-16a"
      },
      {
       "k": "p",
@@ -5907,7 +5908,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the second Book of Exodus"
+        "A reading from the Book of Exodus"
        ]
       ],
       "cite": "24:3-8",

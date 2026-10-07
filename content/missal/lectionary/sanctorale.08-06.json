@@ -270,7 +270,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Daniel"
+        "A reading from the Book of the Prophet Daniel"
        ]
       ],
       "cite": "7:9-10.13-14",
@@ -1702,7 +1702,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the second letter of St. Peter"
+        "A reading from the second Letter of Saint Peter"
        ]
       ],
       "cite": "1:16-19",
@@ -2104,7 +2104,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Mt 17, 5c"
      },
      {
       "k": "p",

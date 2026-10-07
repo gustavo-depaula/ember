@@ -626,7 +626,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 102, 1-2. 11-12. 19-20ab (.: 19a)"
      }
     ],
     "es": [
@@ -1771,7 +1772,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 26"
      },
      {
       "k": "p",

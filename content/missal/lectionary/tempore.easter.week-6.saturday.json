@@ -198,7 +198,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura dos Atos Apóstolos"
+        "Leitura dos Atos dos Apóstolos"
        ]
       ],
       "cite": "18, 23-28",
@@ -591,7 +591,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 46, 2-3. 8-9. 10 (.: 8a)"
      }
     ],
     "es": [
@@ -1736,7 +1737,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 16, 28"
      },
      {
       "k": "p",

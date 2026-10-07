@@ -618,7 +618,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 66, 2-3. 5. 6 and 8 (R.: 4)"
      }
     ],
     "es": [
@@ -1754,7 +1755,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 8, 12b"
      },
      {
       "k": "p",

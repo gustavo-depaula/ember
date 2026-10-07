@@ -649,7 +649,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 41, 2-3; 42, 3. 4 (R.: cf. 41, 3a)"
      }
     ],
     "es": [
@@ -1985,7 +1986,8 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jo 10, 14"
      },
      {
       "k": "p",
@@ -2010,7 +2012,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 10, 14"
      },
      {
       "k": "p",
@@ -2503,7 +2506,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor."
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"

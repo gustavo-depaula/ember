@@ -135,10 +135,11 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first Letter of Saint Peter 2:4-9"
+        "A reading from the first Letter of Saint Peter"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "2, 4-9"
      },
      {
       "k": "p",

@@ -233,7 +233,7 @@
       "k": "p",
       "lines": [
        [
-        "Palabra do Senhor."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -634,7 +634,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 27, 1. 4. 13-14"
      }
     ],
     "es": [

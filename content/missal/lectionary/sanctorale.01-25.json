@@ -662,10 +662,11 @@
       "k": "p",
       "lines": [
        [
-        "Leitura dos Atos dos Apóstolos9, 1-22"
+        "Leitura dos Atos dos Apóstolos"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "9, 1-22"
      },
      {
       "k": "p",

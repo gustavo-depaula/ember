@@ -258,7 +258,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -2539,11 +2539,11 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 11 ianuarii — vel — feria sexta post Epiphaniam",
-  "en-US": "Friday after Epiphany",
+  "en-US": "January 11, or Friday after Epiphany",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 11 de enero — o bien — viernes después del domingo de Epifanía",
   "it": "11 gennaio",
   "fr": "Temps de Noël",
   "de": "Wochentage der Weihnachtszeit — 11. Januar",
-  "pt-BR": "Sexta-feira depois da Epifania"
+  "pt-BR": "11 de janeiro ou sexta-feira depois da Epifania"
  }
 }

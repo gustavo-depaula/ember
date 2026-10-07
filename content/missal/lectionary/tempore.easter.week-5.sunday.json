@@ -563,7 +563,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 32, 1-2. 4-5. 18-19"
      }
     ],
     "es": [
@@ -2177,7 +2178,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 5"
      },
      {
       "k": "p",
@@ -3472,7 +3474,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 21, 26b-27. 28 and 30. 31-32 (R.: 26a)"
      }
     ],
     "es": [
@@ -5365,7 +5368,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 15, 4. 5b"
      },
      {
       "k": "p",
@@ -6214,7 +6218,7 @@
         "Leitura dos Atos dos Apóstolos"
        ]
       ],
-      "cite": "14, 14, 21b-27",
+      "cite": "14, 21b-27",
       "role": "announcement"
      },
      {
@@ -6604,7 +6608,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 144, 8-9. 10-11. 12-13ab (R.: cf. 1)"
      }
     ],
     "es": [
@@ -8243,7 +8248,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 13, 34"
      },
      {
       "k": "p",

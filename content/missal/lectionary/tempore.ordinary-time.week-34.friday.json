@@ -307,10 +307,11 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Daniel 7:2-14"
+        "A reading from the Book of the Prophet Daniel"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "7, 2-14"
      },
      {
       "k": "p",
@@ -4225,7 +4226,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação"
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"

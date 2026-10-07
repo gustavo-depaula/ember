@@ -103,6 +103,564 @@
       "k": "p",
       "lines": [
        [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sicut sol oriens, sic mulieris bonæ species in ornamentum domus eius."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Ecclesiástici"
+       ]
+      ],
+      "cite": "26, 1-4. 16-21",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mulíeris bonæ beátus vir: númerus enim diérum illíus duplex. Múlier fortis obléctat virum suum et annos vitæ illíus in pace implébit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pars bona múlier bona; in parte timéntium Deum dábitur viro pro factis bonis. Dívitis autem vel páuperis cor bonum; in omni témpore vultus illórum hílaris."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grátia mulíeris sédulæ delectábit virum suum, et ossa illíus impinguábit disciplína illíus. Datum Dei est múlier sensáta et tácita; non est commutátio erudítæ ánimæ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Grátia super grátiam múlier sancta et pudoráta; omnis autem ponderátio non est digna continéntis ánimæ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sicut sol óriens mundo in altíssimis Dei, sic mulíeris bonæ spécies in ornaméntum domus eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Como o sol que se levanta nas alturas do Senhor, assim o encanto da boa esposa na casa bem ordenada."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Eclesiástico"
+       ]
+      ],
+      "cite": "26, 1-4. 13-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Feliz o marido que tem uma boa esposa: o número de seus dias será duplicado.A mulher virtuosa é a alegria do marido, que passará em paz os anos de sua vida. Uma boa esposa é uma herança excelente, reservada aos que temem o Senhor. Rico ou pobre, seu marido tem alegria no coração, e em qualquer circunstância mostra um rosto prazenteiro. A graça da mulher é a delícia do marido e seu senso prático lhe revigora os ossos. Mulher amiga do silêncio é dom do Senhor e nada é comparável à alma bem educada. Mulher pudica é graça primorosa, e não há medida que determine o valor da alma casta. Como o sol que se levanta nas alturas do Senhor, assim o encanto da boa esposa na casa bem ordenada."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Sirach"
+       ]
+      ],
+      "cite": "26, 1-4. 16-21",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Happy the husband of a good wife; the number of his days will be doubled."
+       ],
+       [
+        "A loyal wife brings joy to her husband,"
+       ],
+       [
+        "and he will finish his years in peace."
+       ],
+       [
+        "A good wife is a generous gift"
+       ],
+       [
+        "bestowed upon him who fears the Lord."
+       ],
+       [
+        "Whether rich or poor, his heart is content,"
+       ],
+       [
+        "a smile ever on his face."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The sun rising in the Lord's heavens—"
+       ],
+       [
+        "the beauty of a good wife in her well-ordered home."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sol que sale, es la belleza de la mujer buena en su casa bien ordenada"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Eclesiástico"
+       ]
+      ],
+      "cite": "26, 1-4. 13-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dichoso el marido de una mujer buena,"
+       ],
+       [
+        "el numero de sus dias se duplicara."
+       ],
+       [
+        "Mujer valerosa es la alegría de su marido,"
+       ],
+       [
+        "él vivirá en paz todos los años de su vida."
+       ],
+       [
+        "Una mujer buena es una herencia valiosa"
+       ],
+       [
+        "que toca en suerte a los que temen al Señor:"
+       ],
+       [
+        "sean ricos o pobres, su corazón estará contento"
+       ],
+       [
+        "y llevarán siempre la alegría en el rostro."
+       ],
+       [
+        "El encanto de la mujer complace a su marido,"
+       ],
+       [
+        "y su ciencia lo reconforta."
+       ],
+       [
+        "La mujer silenciosa es un don del Señor,"
+       ],
+       [
+        "la mujer bien educada no tiene precio."
+       ],
+       [
+        "La mujer honesta duplica su encanto,"
+       ],
+       [
+        "es incalculable el valor de la que sabe controlarse."
+       ],
+       [
+        "Sol que sale por las alturas del Señor"
+       ],
+       [
+        "es la belleza de la mujer buena en su casa bien ordenada."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il sole risplende nel più alto dei cieli, la bellezza di una brava moglie nell'ornamento della casa."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del Siracide"
+       ]
+      ],
+      "cite": "26, 1-4.16-21 (NV)[gr. 26, 1-4.13-16]",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fortunato il marito di una brava moglie, il numero dei suoi giorni sarà doppio."
+       ],
+       [
+        "Una donna valorosa è la gioia del manto, egli passerà in pace i suoi anni."
+       ],
+       [
+        "Una brava moglie è davvero una fortuna, viene assegnata a chi teme il Signore."
+       ],
+       [
+        "Ricco o povero, il suo cuore è contento, in ogni circostanza il suo volto è gioioso."
+       ],
+       [
+        "La grazia di una donna allieta il manto, il suo senno gli rinvigorisce le ossa."
+       ],
+       [
+        "È un dono del Signore una donna silenziosa, non c'è prezzo per una donna educata."
+       ],
+       [
+        "Grazia su grazia è una donna pudica,"
+       ],
+       [
+        "non si può valutare il pregio di una donna riservata."
+       ],
+       [
+        "Il sole risplende nel più alto dei cieli,"
+       ],
+       [
+        "la bellezza di una brava moglie nell'ornamento della casa."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de Ben Sirac le Sage"
+       ]
+      ],
+      "cite": "26, 1-4. 16-21",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Heureux l'homme qui a une bonne épouse : le nombre de ses jours sera doublé. La femme courageuse fait la joie de son mari : il possédera le bonheur tout au long de sa vie. Une femme de valeur, voilà le bon parti, la part que le Seigneur donne à ceux qui le craignent ; riches ou pauvres, ils ont le cœur joyeux, en toute circonstance leur visage est souriant. La grâce de la femme enchante son mari, et ses talents lui donnent le bien-être. Une femme qui sait se taire est un don du Seigneur. Rien ne vaut une femme préparée à sa tâche. C'est la grâce des grâces qu'une femme discrète. Une âme qui se maîtrise est un trésor sans prix. Un lever de soleil sur les montagnes du Seigneur : ainsi, la beauté d'une épouse parfaite est la lumière de sa maison."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesus Sirach"
+       ]
+      ],
+      "cite": "26, 1-4. 13-16 (1-4. 16-21)",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eine gute Frau - wohl ihrem Mann! Die Zahl seiner Jahre verdoppelt sich. Eine tüchtige Frau pflegt ihren Mann; so vollendet er seine Jahre in Frieden."
+       ],
+       [
+        "Eine gute Frau ist ein guter Besitz; er wird dem zuteil, der Gott fürchtet; ob reich, ob arm, sein Herz ist guter Dinge, sein Gesicht jederzeit heiter."
+       ],
+       [
+        "Die Anmut der Frau entzückt ihren Mann, ihre Klugheit erfrischt seine Glieder. Eine Gottesgabe ist eine schweigsame Frau, unbezahlbar ist eine Frau mit guter Erziehung."
+       ],
+       [
+        "Anmut über Anmut ist eine schamhafte Frau; kein Preis wiegt eine auf, die sich selbst beherrscht."
+       ],
+       [
+        "Wie die Sonne aufstrahlt in den höchsten Höhen, so die Schönheit einer guten Frau als Schmuck ihres Hauses."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.first-reading.14"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.first-reading.14"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
         "Psalmus Responsorius"
        ]
       ],

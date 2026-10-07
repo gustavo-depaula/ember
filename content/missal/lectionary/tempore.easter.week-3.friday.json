@@ -297,7 +297,7 @@
       "k": "p",
       "lines": [
        [
-        "Palvra do Senhor."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -317,10 +317,19 @@
       "k": "p",
       "lines": [
        [
-        "Saul was still breathing threats to slaughter the Lord's disciples. He had gone to the high priest and asked for letters addressed to the synagogues in Damascus, that would authorise him to arrest and take to Jerusalem any followers of the Way, men or women, that he could find. Suddenly, while he was travelling to Damascus and just before he reached the city, there came a light from heaven all round him. He fell to the ground, and then he heard a voice saying, 'Saul, Saul, why are you persecuting me?' 'Who are you, Lord?' he asked, and the voice answered, 'I am Jesus, and you are persecuting me. Get up now and go into the city, and you will be told what you have to do.' The men travelling with Saul stood there speechless, for though they heard the voice they could see no one. Saul got up from the ground, but even with his eyes wide open he could see nothing at all, and they had to lead him into Damascus by the hand. For three days he was without his sight, and took neither food nor drink. A disciple called Ananias who lived in Damascus had a vision in which he heard the Lord say to him, 'Ananias!' When he replied, 'Here I am, Lord', the Lord said, 'You must go to Straight Street and ask at the house of Judas for someone called Saul, who comes from Tarsus. At this moment he is praying, having had a vision of a man called Ananias coming in and laying hands on him to give him back his sight.' When he heard that, Ananias said, 'Lord, several people have told me about this man and all the harm he has been doing to your saints in Jerusalem. He has only come here because he holds a warrant from the chief priests to arrest everybody who invokes your name.' The Lord replied, 'You must go all the same, because this man is my chosen instrument to bring my name before pagans and pagan kings and before the people of Israel; I myself will show him how much he himself must suffer for my name'. Then Ananias went. He entered the house, and at once laid his hands on Saul and said, 'Brother Saul, I have been sent by the Lord Jesus who appeared to you on your way here so that you may recover your sight and be filled with the Holy Spirit'. Immediately it was as though scales fell away from Saul's eyes and he could see again. So he was baptised there and then, and after taking some food he regained his strength. After he had spent only a few days with the disciples in Damascus, he began preaching in the synagogues, 'Jesus is the Son of God'."
+        "A reading from the Acts of the Apostles"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "9, 1-20"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Saul was still breathing threats to slaughter the Lord's disciples. He had gone to the high priest and asked for letters addressed to the synagogues in Damascus, that would authorise him to arrest and take to Jerusalem any followers of the Way, men or women, that he could find. Suddenly, while he was travelling to Damascus and just before he reached the city, there came a light from heaven all round him. He fell to the ground, and then he heard a voice saying, 'Saul, Saul, why are you persecuting me?' 'Who are you, Lord?' he asked, and the voice answered, 'I am Jesus, and you are persecuting me. Get up now and go into the city, and you will be told what you have to do.' The men travelling with Saul stood there speechless, for though they heard the voice they could see no one. Saul got up from the ground, but even with his eyes wide open he could see nothing at all, and they had to lead him into Damascus by the hand. For three days he was without his sight, and took neither food nor drink. A disciple called Ananias who lived in Damascus had a vision in which he heard the Lord say to him, 'Ananias!' When he replied, 'Here I am, Lord', the Lord said, 'You must go to Straight Street and ask at the house of Judas for someone called Saul, who comes from Tarsus. At this moment he is praying, having had a vision of a man called Ananias coming in and laying hands on him to give him back his sight.' When he heard that, Ananias said, 'Lord, several people have told me about this man and all the harm he has been doing to your saints in Jerusalem. He has only come here because he holds a warrant from the chief priests to arrest everybody who invokes your name.' The Lord replied, 'You must go all the same, because this man is my chosen instrument to bring my name before pagans and pagan kings and before the people of Israel; I myself will show him how much he himself must suffer for my name'. Then Ananias went. He entered the house, and at once laid his hands on Saul and said, 'Brother Saul, I have been sent by the Lord Jesus who appeared to you on your way here so that you may recover your sight and be filled with the Holy Spirit'. Immediately it was as though scales fell away from Saul's eyes and he could see again. So he was baptised there and then, and after taking some food he regained his strength. After he had spent only a few days with the disciples in Damascus, he began preaching in the synagogues, 'Jesus is the Son of God'."
+       ]
+      ]
      }
     ],
     "es": [
@@ -730,7 +739,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 117, 1-2"
      }
     ],
     "es": [
@@ -1499,7 +1509,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 6, 56"
      },
      {
       "k": "p",

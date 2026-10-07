@@ -1085,7 +1085,8 @@
         "A reading from the Book of the Prophet Ezequiel37:1–14"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "37, 1-14"
      },
      {
       "k": "p",
@@ -1482,7 +1483,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Profecia de Joel."
+        "Leitura da Profecia de Joel"
        ]
       ],
       "cite": "3, 1-5",
@@ -1960,7 +1961,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 103, 1-2a. 24. 27-28. 29bc-30"
      }
     ],
     "es": [
@@ -3394,7 +3396,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Carta de são Paulo aos Romanos."
+        "Leitura da Carta de São Paulo aos Romanos"
        ]
       ],
       "cite": "8, 22-27",

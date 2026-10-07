@@ -118,10 +118,11 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Revelation 21:1-5"
+        "A reading from the Book of Revelation"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "21, 1-5a"
      },
      {
       "k": "p",

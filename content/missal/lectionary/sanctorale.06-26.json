@@ -184,7 +184,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura do Livro de Gênesis"
+        "Leitura do Livro do Gênesis"
        ]
       ],
       "cite": "2, 4b-9. 15",
@@ -1703,7 +1703,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Epístola de São Paulo aos Romanos"
+        "Leitura da Carta de São Paulo aos Romanos"
        ]
       ],
       "cite": "8, 14-17",
@@ -2080,7 +2080,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Mk 1, 17"
      },
      {
       "k": "p",

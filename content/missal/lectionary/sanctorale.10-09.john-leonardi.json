@@ -103,6 +103,476 @@
       "k": "p",
       "lines": [
        [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prædicamus Iesum Christum; nos autem servos vestros per Iesum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habéntes hanc ministratiónem, iuxta quod misericórdiam consecúti sumus, non defícimus, sed abdicávimus occúlta dedécoris non ambulántes in astútia neque adulterántes verbum Dei, sed in manifestatióne veritátis commendántes nosmetípsos ad omnem consciéntiam hóminum coram Deo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non enim nosmetípsos prædicámus sed Iesum Christum Dóminum; nos autem servos vestros per Iesum. Quóniam Deus, qui dixit: «De ténebris lux splendéscat», ipse illúxit in córdibus nostris ad illuminatiónem sciéntiæ claritátis Dei in fácie Iesu Christi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habémus autem thesáurum istum in vasis fictílibus, ut sublímitas sit virtútis Dei et non ex nobis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pregamos a Jesus Cristo, o Senhor. Quanto a nós, apresentamo-nos como servos vossos por causa de Jesus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Segunda Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Não desanimamos no exercício deste ministério que recebemos da misericórdia divina. Rejeitamos todo procedimento dissimulado e indigno, feito de astúcias, e não falsificamos a palavra de Deus. Mas, pelo contrário, manifestamos a verdade e, assim, nos recomendamos a toda consciência humana, diante de Deus. De fato, não nos pregamos a nós mesmos, pregamos a Jesus Cristo, o Senhor. Quanto a nós, apresentamo-nos como servos vossos, por causa de Jesus. Com efeito, Deus que disse: \"Do meio das trevas brilhe a luz\", é o mesmo que fez brilhar a sua luz em nossos corações, para tornar claro o conhecimento da sua glória na face de Cristo. Ora, trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second letter of St. Paul to the Corinthians"
+       ]
+      ],
+      "cite": "4:1-2.5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Since we have by an act of mercy been entrusted with this work of administration, there is no weakening on our part. On the contrary, we will have none of the reticence of those who are ashamed, no deceitfulness or watering down the word of God; but the way we commend ourselves to every human being with a conscience is by stating the truth openly in the sight of God. For it is not ourselves that we are preaching, but Christ Jesus as the Lord, and ourselves as your servants for Jesus' sake. It is the same God that said, 'Let there be light shining out of darkness', who has shone in our minds to radiate the light of the knowledge of God's glory, the glory on the face of Christ. We are only the earthenware jars that hold this treasure, to make it clear that such an overwhelming power comes from God and not from us."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Predicamos a Jesucristo, y a nosotros como siervos vuestros por Jesús"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la segunda carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Encargados de este ministerio por la misericordia obtenida, no nos acobardamos; al contrario, hemos renunciado a la clandestinidad vergonzante, no actuando con intrigas ni falseando la palabra de Dios; sino que, manifestando la verdad, nos recomendamos a la conciencia de todo el mundo delante de Dios. Porque no nos predicamos a nosotros mismos, sino a Jesucristo como Señor, y a nosotros como siervos vuestros por Jesús."
+       ],
+       [
+        "Pues el Dios que dijo: «Brille la luz del seno de las tinieblas» ha brillado en nuestros corazones, para que resplandezca el conocimiento de la gloria de Dios reflejada en el rostro de Cristo."
+       ],
+       [
+        "Pero llevamos este tesoro en vasijas de barro, para que se vea que una fuerza tan extraordinaria es de Dios y no proviene de nosotros."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annunciamo Cristo Gesù Signore: quanto a noi, siamo i vostri servitori a causa di Gesù."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla seconda lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "4, 1-2.5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, avendo questo ministero, secondo la misericordia che ci è stata accordata, non ci perdiamo d'animo. Al contrario, abbiamo rifiutato le dissimulazioni vergognose, senza comportarci con astuzia né falsificando la parola di Dio, ma annunciando apertamente la verità e presentandoci davanti a ogni coscienza umana, al cospetto di Dio."
+       ],
+       [
+        "Noi infatti non annunciamo noi stessi, ma Cristo Gesù Signore: quanto a noi, siamo i vostri servitori a causa di Gesù. E Dio, che disse: «Rifulga la luce dalle tenebre», rifulse nei nostri cuori, per far risplendere la conoscenza della gloria di Dio sul volto di Cristo."
+       ],
+       [
+        "Noi però abbiamo questo tesoro in vasi di creta, affinché appaia che questa straordinaria potenza appartiene a Dio, e non viene da noi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prædicamus Iesum Christum; nos autem servos vestros per Iesum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est pourquoi, ayant reçu ce ministère par la miséricorde de Dieu, nous ne perdons pas courage : nous avons rejeté toute dissimulation honteuse, nous n'agissons pas avec ruse, et nous ne falsifions pas la parole de Dieu. Au contraire, nous manifestons la vérité, et ainsi nous nous recommandons nous-mêmes à toute conscience humaine devant Dieu. En effet, ce que nous proclamons, ce n'est pas nous-mêmes ; c'est ceci : Jésus Christ est le Seigneur ; et nous sommes vos serviteurs, à cause de Jésus. Car Dieu qui a dit : Du milieu des ténèbres brillera la lumière, a lui-même brillé dans nos cœurs pour faire resplendir la connaissance de sa gloire qui rayonne sur le visage du Christ. Mais ce trésor, nous le portons comme dans des vases d'argile ; ainsi, on voit bien que cette puissance extraordinaire appartient à Dieu et ne vient pas de nous."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Unser Eifer erlahmt nicht in dem Dienst, der uns durch Gottes Erbarmen übertragen wurde. Wir haben uns von aller schimpflichen Arglist losgesagt; wir handeln nicht hinterhältig und verfälschen das Wort Gottes nicht, sondern lehren offen die Wahrheit. So empfehlen wir uns vor dem Angesicht Gottes jedem menschlichen Gewissen."
+       ],
+       [
+        "Wir verkündigen nämlich nicht uns selbst, sondern Jesus Christus als den Herrn, uns aber als eure Knechte um Jesu willen. Denn Gott, der sprach: Aus Finsternis soll Licht aufleuchten!, er ist in unseren Herzen aufgeleuchtet, damit wir erleuchtet werden zur Erkenntnis des göttlichen Glanzes auf dem Antlitz Christi."
+       ],
+       [
+        "Diesen Schatz tragen wir in zerbrechlichen Gefäßen; so wird deutlich, dass das Übermaß der Kraft von Gott und nicht von uns kommt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.6"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.6"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
         "Psalmus Responsorius"
        ]
       ],

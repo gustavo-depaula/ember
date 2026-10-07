@@ -599,7 +599,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a and 9b (.: 4a)"
      }
     ],
     "es": [
@@ -1744,7 +1745,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 15, 26b. 27a"
      },
      {
       "k": "p",

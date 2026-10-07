@@ -134,6 +134,12 @@ function conditionsOf(day: OfDay, mass: MassRef, kind?: string): string[] {
   if (day.key === 'epiphany' || of('tempore.christmas.epiphany')) conditions.push('epiphany')
   if (day.key === 'ascension' || of('tempore.easter.ascension')) conditions.push('ascension')
   if (of('tempore.holy-week.lords-supper')) conditions.push('lords-supper')
+  // The weekdays of Christmas Time have one collect before Epiphany and another after.
+  if (
+    day.temporal.masses.some((m) => m.lectionary.startsWith('tempore.christmas.after-epiphany'))
+  ) {
+    conditions.push('after-epiphany')
+  }
   // The dismissal carries a double alleluia through the octave and at Pentecost.
   if (conditions.includes('easter-octave') || conditions.includes('pentecost')) {
     conditions.push('double-alleluia')
@@ -180,10 +186,17 @@ export async function assembleMass(
     await Promise.all((formulary?.commons ?? []).map((id) => source.formulary(id)))
   ).filter((doc): doc is Formulary => doc !== undefined)
 
+  const conditions = conditionsOf(day, mass, formulary?.kind)
+  // What is said only on certain days is left out on the others.
+  const saidToday = (item: Item) =>
+    (!item.when || item.when.some((c) => conditions.includes(c))) &&
+    !item.unless?.some((c) => conditions.includes(c))
+
   const parts: MassPlan['parts'] = {}
   const add = (part: Part, option: PartOption) => {
-    if (option.items.length === 0) return
-    parts[part] = [...(parts[part] ?? []), option]
+    const items = option.items.filter(saidToday)
+    if (items.length === 0) return
+    parts[part] = [...(parts[part] ?? []), { ...option, items }]
   }
 
   // A memorial may take what it lacks from the weekday; a feast or solemnity
@@ -268,7 +281,7 @@ export async function assembleMass(
   for (const item of formulary?.items ?? []) {
     if (item.cycle && !cycles.has(item.cycle)) continue
     if (!item.part) {
-      if (item.text) open.push(item)
+      if (item.text && saidToday(item)) open.push(item)
       continue
     }
     if (item.part === 'title') continue
@@ -291,6 +304,6 @@ export async function assembleMass(
     prefaces: prefaceOptions,
     rites,
     ...(lectionary?.sequence && parts.sequence ? { sequence: lectionary.sequence } : {}),
-    conditions: conditionsOf(day, mass, formulary?.kind),
+    conditions,
   }
 }

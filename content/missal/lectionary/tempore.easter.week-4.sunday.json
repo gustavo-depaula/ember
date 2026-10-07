@@ -612,7 +612,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6"
      }
     ],
     "es": [
@@ -2577,7 +2578,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 10, 14"
      },
      {
       "k": "p",
@@ -3821,7 +3823,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 117, 1 and 8-9. 21-23. 26 and 28-29 (R.: 22)"
      }
     ],
     "es": [
@@ -5527,7 +5530,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 10, 14"
      },
      {
       "k": "p",
@@ -6828,7 +6832,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 99, 2. 3. 5 (R.: 3c)"
      }
     ],
     "es": [
@@ -8369,7 +8374,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 10, 14"
      },
      {
       "k": "p",

@@ -629,7 +629,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 56, 8-9. 10-12 (R.: 10a)"
      }
     ],
     "es": [
@@ -1554,7 +1555,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 15, 15b"
      },
      {
       "k": "p",

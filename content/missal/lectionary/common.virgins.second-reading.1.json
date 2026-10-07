@@ -115,7 +115,7 @@
       "k": "p",
       "lines": [
        [
-        "Plavra do Senhor."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -135,10 +135,11 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first letter of St. Paul to the Corinthians 7:25-35"
+        "A reading from the first Letter of Saint Paul to the Corinthians"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "7, 25-35"
      },
      {
       "k": "p",

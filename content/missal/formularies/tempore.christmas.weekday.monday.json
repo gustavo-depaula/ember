@@ -385,7 +385,7 @@
        [
         {
          "m": "rubric",
-         "t": "Before the Solemnity of the Ephiphany"
+         "t": "Before the Solemnity of the Epiphany"
         }
        ]
       ]
@@ -445,7 +445,10 @@
     ]
    },
    "part": "collect",
-   "role": "rubric"
+   "role": "rubric",
+   "unless": [
+    "after-epiphany"
+   ]
   },
   {
    "text": {
@@ -622,7 +625,10 @@
      }
     ]
    },
-   "part": "collect"
+   "part": "collect",
+   "unless": [
+    "after-epiphany"
+   ]
   },
   {
    "text": {
@@ -659,7 +665,7 @@
        [
         {
          "m": "rubric",
-         "t": "After the Solemnity of the Ephiphany"
+         "t": "After the Solemnity of the Epiphany"
         }
        ]
       ]
@@ -719,7 +725,10 @@
     ]
    },
    "part": "collect",
-   "role": "rubric"
+   "role": "rubric",
+   "when": [
+    "after-epiphany"
+   ]
   },
   {
    "text": {
@@ -887,7 +896,10 @@
      }
     ]
    },
-   "part": "collect"
+   "part": "collect",
+   "when": [
+    "after-epiphany"
+   ]
   },
   {
    "text": {

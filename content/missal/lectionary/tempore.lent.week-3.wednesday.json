@@ -626,7 +626,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)"
      }
     ],
     "es": [
@@ -1539,7 +1540,7 @@
         "Gospel Acclamation"
        ]
       ],
-      "cite": "Jn 62:63.68",
+      "cite": "Jn 6:63.68",
       "role": "title"
      },
      {
