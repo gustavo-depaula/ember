@@ -140,6 +140,9 @@ function conditionsOf(day: OfDay, mass: MassRef, kind?: string): string[] {
   ) {
     conditions.push('after-epiphany')
   }
+  // The last weekdays of the sixth week have a collect of their own where the
+  // Ascension waits for Sunday.
+  if (day.transfers.ascension === 'sunday') conditions.push('ascension-on-sunday')
   // The dismissal carries a double alleluia through the octave and at Pentecost.
   if (conditions.includes('easter-octave') || conditions.includes('pentecost')) {
     conditions.push('double-alleluia')

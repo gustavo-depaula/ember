@@ -4948,7 +4948,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5058,7 +5058,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5158,7 +5158,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, Jesus atravessou de novo, numa barca, para a outra margem. Uma numerosa multidão se reuniu junto dele, e Jesus ficou na praia. Aproximou-se, então, um dos chefes da sinagoga, chamado Jairo. Quando viu Jesus, caiu a seus pés, e pediu com insistência: \"Minha filhinha está nas últimas. Vem e pðe as mãos sobre ela, para que ela sare e viva!\" Jesus então o acompanhou. Uma numerosa multidão o seguia e o comprimia. Ora, achava-se ali uma mulher que, há doze anos, estava com uma hemorragia; tinha sofrido nas mãos de muitos médicos, gastou tudo o que possuía, e, em vez de melhorar, piorava cada vez mais. Tendo ouvido falar de Jesus, aproximou-se dele por detrás, no meio da multidão, e tocou na sua roupa. Ela pensava: \"Se eu ao menos tocar na roupa dele, ficarei curada\". A hemorragia parou imediatamente, e a mulher sentiu dentro de si que estava curada da doença. Jesus logo percebeu que uma força tinha saído dele. E, voltando-se no meio da multidão, perguntou: \"Quem tocou na minha roupa?\" Os discípulos disseram: \"Estás vendo a multidão que te comprime e ainda perguntas: \"Quem me tocou\"?\" Ele, porém, olhava ao redor para ver quem havia feito aquilo. A mulher, cheia de medo e tremendo, percebendo o que lhe havia acontecido, veio e caiu aos pés de Jesus, e contou-lhe toda a verdade. Ele lhe disse: \"Filha, a tua fé te curou. Vai em paz e fica curada dessa doença\". Ele estava ainda falando, quando chegaram alguns da casa do chefe da sinagoga, e disseram a Jairo: \"Tua filha morreu. Por que ainda incomodar o mestre?\" Jesus ouviu a notícia e disse ao chefe da sinagoga: \"Não tenhas medo. Basta ter fé!\" E não deixou que ninguém o acompanhasse, a não ser Pedro, Tiago e seu irmão João. Quando chegaram à casa do chefe da sinagoga, Jesus viu a confusão e como estavam chorando e gritando. Então, ele entrou e disse: \"Por que essa confusão e esse choro? A criança não morreu, mas está dormindo\". Começaram então a caçoar dele. Mas, ele mandou que todos saíssem, menos o pai e a mãe da menina, e os três discípulos que o acompanhavam. Depois entraram no quarto onde estava a criança. Jesus pegou na mão da menina e disse: \"Talitá cum\" - que quer dizer: \"Menina, levanta-te!\" Ela levantou-se imediatamente e começou a andar, pois tinha doze anos. E todos ficaram admirados. Ele recomendou com insistência que ninguém ficasse sabendo daquilo. E mandou dar de comer à menina."
+        "Naquele tempo, Jesus atravessou de novo, numa barca, para a outra margem. Uma numerosa multidão se reuniu junto dele, e Jesus ficou na praia. Aproximou-se, então, um dos chefes da sinagoga, chamado Jairo. Quando viu Jesus, caiu a seus pés, e pediu com insistência: \"Minha filhinha está nas últimas. Vem e põe as mãos sobre ela, para que ela sare e viva!\" Jesus então o acompanhou. Uma numerosa multidão o seguia e o comprimia. Ora, achava-se ali uma mulher que, há doze anos, estava com uma hemorragia; tinha sofrido nas mãos de muitos médicos, gastou tudo o que possuía, e, em vez de melhorar, piorava cada vez mais. Tendo ouvido falar de Jesus, aproximou-se dele por detrás, no meio da multidão, e tocou na sua roupa. Ela pensava: \"Se eu ao menos tocar na roupa dele, ficarei curada\". A hemorragia parou imediatamente, e a mulher sentiu dentro de si que estava curada da doença. Jesus logo percebeu que uma força tinha saído dele. E, voltando-se no meio da multidão, perguntou: \"Quem tocou na minha roupa?\" Os discípulos disseram: \"Estás vendo a multidão que te comprime e ainda perguntas: \"Quem me tocou\"?\" Ele, porém, olhava ao redor para ver quem havia feito aquilo. A mulher, cheia de medo e tremendo, percebendo o que lhe havia acontecido, veio e caiu aos pés de Jesus, e contou-lhe toda a verdade. Ele lhe disse: \"Filha, a tua fé te curou. Vai em paz e fica curada dessa doença\". Ele estava ainda falando, quando chegaram alguns da casa do chefe da sinagoga, e disseram a Jairo: \"Tua filha morreu. Por que ainda incomodar o mestre?\" Jesus ouviu a notícia e disse ao chefe da sinagoga: \"Não tenhas medo. Basta ter fé!\" E não deixou que ninguém o acompanhasse, a não ser Pedro, Tiago e seu irmão João. Quando chegaram à casa do chefe da sinagoga, Jesus viu a confusão e como estavam chorando e gritando. Então, ele entrou e disse: \"Por que essa confusão e esse choro? A criança não morreu, mas está dormindo\". Começaram então a caçoar dele. Mas, ele mandou que todos saíssem, menos o pai e a mãe da menina, e os três discípulos que o acompanhavam. Depois entraram no quarto onde estava a criança. Jesus pegou na mão da menina e disse: \"Talitá cum\" - que quer dizer: \"Menina, levanta-te!\" Ela levantou-se imediatamente e começou a andar, pois tinha doze anos. E todos ficaram admirados. Ele recomendou com insistência que ninguém ficasse sabendo daquilo. E mandou dar de comer à menina."
        ]
       ]
      },
@@ -5387,7 +5387,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5609,7 +5609,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -5719,7 +5719,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -5787,7 +5787,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, Jesus atravessou de novo, numa barca, para a outra margem. Uma numerosa multidão se reuniu junto dele, e Jesus ficou na praia. Aproximou-se, então, um dos chefes da sinagoga, chamado Jairo. Quando viu Jesus, caiu a seus pés, e pediu com insistência: \"Minha filhinha está nas últimas. Vem e pðe as mãos sobre ela, para que ela sare e viva!\" Jesus então o acompanhou. Uma numerosa multidão o seguia e o comprimia. Chegaram alguns da casa do chefe da sinagoga, e disseram a Jairo: \"Tua filha morreu. Por que ainda incomodar o mestre?\" Jesus ouviu a notícia e disse ao chefe da sinagoga: \"Não tenhas medo. Basta ter fé!\" E não deixou que ninguém o acompanhasse, a não ser Pedro, Tiago e seu irmão João. Quando chegaram à casa do chefe da sinagoga, Jesus viu a confusão e como estavam chorando e gritando. Então, ele entrou e disse: \"Por que essa confusão e esse choro? A criança não morreu, mas está dormindo\". Começaram então a caçoar dele. Mas, ele mandou que todos saíssem, menos o pai e a mãe da menina, e os três discípulos que o acompanhavam. Depois entraram no quarto onde estava a criança. Jesus pegou na mão da menina e disse: \"Talitá cum\" - que quer dizer: \"Menina, levanta-te!\" Ela levantou-se imediatamente e começou a andar, pois tinha doze anos. E todos ficaram admirados. Ele recomendou com insistência que ninguém ficasse sabendo daquilo. E mandou dar de comer à menina."
+        "Naquele tempo, Jesus atravessou de novo, numa barca, para a outra margem. Uma numerosa multidão se reuniu junto dele, e Jesus ficou na praia. Aproximou-se, então, um dos chefes da sinagoga, chamado Jairo. Quando viu Jesus, caiu a seus pés, e pediu com insistência: \"Minha filhinha está nas últimas. Vem e põe as mãos sobre ela, para que ela sare e viva!\" Jesus então o acompanhou. Uma numerosa multidão o seguia e o comprimia. Chegaram alguns da casa do chefe da sinagoga, e disseram a Jairo: \"Tua filha morreu. Por que ainda incomodar o mestre?\" Jesus ouviu a notícia e disse ao chefe da sinagoga: \"Não tenhas medo. Basta ter fé!\" E não deixou que ninguém o acompanhasse, a não ser Pedro, Tiago e seu irmão João. Quando chegaram à casa do chefe da sinagoga, Jesus viu a confusão e como estavam chorando e gritando. Então, ele entrou e disse: \"Por que essa confusão e esse choro? A criança não morreu, mas está dormindo\". Começaram então a caçoar dele. Mas, ele mandou que todos saíssem, menos o pai e a mãe da menina, e os três discípulos que o acompanhavam. Depois entraram no quarto onde estava a criança. Jesus pegou na mão da menina e disse: \"Talitá cum\" - que quer dizer: \"Menina, levanta-te!\" Ela levantou-se imediatamente e começou a andar, pois tinha doze anos. E todos ficaram admirados. Ele recomendou com insistência que ninguém ficasse sabendo daquilo. E mandou dar de comer à menina."
        ]
       ]
      },
@@ -5969,7 +5969,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6079,7 +6079,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {

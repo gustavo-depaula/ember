@@ -287,7 +287,7 @@
       "k": "p",
       "lines": [
        [
-        "Sarai, a mulher de Abrão, não lhe dera filhos. Mas, tendo uma escrava egípcia, chamada Agar, Sarai disse a Abrão: \"Eïs que o Senhor me fez estéril. Une-te, pois, à minha escrava, para ver se, por ela, posso ter filhos\". Abrão atendeu ao pedido de Sarai. Depois de Abrão ter morado dez anos em Canaã, Sarai, sua esposa, tomou sua escrava egípcia, Agar, e deu-a como mulher ao seu marido Abrão. Abrão uniu-se a Agar e ela concebeu, Percebendo-se grávida, começou a olhar com desprezo a sua senhora. Sarai disse a Abrão: \"Tu és responsável pela injúria que estou sofrendo. Fui eu mesma que pus minha escrava em teus braços: e ela, apenas ficou grávida, pôs-se a desprezar-me. O Senhor será juiz entre mim e ti\". Abrão respondeu a Sarai: \"Olha, a escrava é tua; faze dela o que bem entenderes\". E Sarai maltratou-a tanto que ela fugiu. Um anjo do Senhor, encontrando-a junto à fonte do deserto, no caminho de Sur, disse-lhe: \"Agar, escrava de Sarai, de onde vens e para onde vais?\" Ela respondeu: \"Estou fugindo de Sarai, minha senhora\". E o anjo do Senhor lhe disse: \"Volta para a tua senhora e sê submissa a ela\". E acrescentou: \"Multiplicarei a tua descendência de tal forma, que não se poderá contar\". Disse, ainda, o anjo do Senhor: \"Olha, estas grávida e darás à luz um filho e o chamarás Ismael, porque o Senhor te ouviu na tua aflição. Ele será indomável como um jumento selvagem, sua mão se levantará contra todos, e a mão de todos contra ele. E ele viverá separado de todos os seus irmãos\". Agar deu à luz o filho de Abrão; e ele pôs o nome de Ismael ao filho que Agar lhe deu. Abrão tinha oitenta e seis anos, quando Agar deu à luz Ismael."
+        "Sarai, a mulher de Abrão, não lhe dera filhos. Mas, tendo uma escrava egípcia, chamada Agar, Sarai disse a Abrão: \"Eis que o Senhor me fez estéril. Une-te, pois, à minha escrava, para ver se, por ela, posso ter filhos\". Abrão atendeu ao pedido de Sarai. Depois de Abrão ter morado dez anos em Canaã, Sarai, sua esposa, tomou sua escrava egípcia, Agar, e deu-a como mulher ao seu marido Abrão. Abrão uniu-se a Agar e ela concebeu, Percebendo-se grávida, começou a olhar com desprezo a sua senhora. Sarai disse a Abrão: \"Tu és responsável pela injúria que estou sofrendo. Fui eu mesma que pus minha escrava em teus braços: e ela, apenas ficou grávida, pôs-se a desprezar-me. O Senhor será juiz entre mim e ti\". Abrão respondeu a Sarai: \"Olha, a escrava é tua; faze dela o que bem entenderes\". E Sarai maltratou-a tanto que ela fugiu. Um anjo do Senhor, encontrando-a junto à fonte do deserto, no caminho de Sur, disse-lhe: \"Agar, escrava de Sarai, de onde vens e para onde vais?\" Ela respondeu: \"Estou fugindo de Sarai, minha senhora\". E o anjo do Senhor lhe disse: \"Volta para a tua senhora e sê submissa a ela\". E acrescentou: \"Multiplicarei a tua descendência de tal forma, que não se poderá contar\". Disse, ainda, o anjo do Senhor: \"Olha, estas grávida e darás à luz um filho e o chamarás Ismael, porque o Senhor te ouviu na tua aflição. Ele será indomável como um jumento selvagem, sua mão se levantará contra todos, e a mão de todos contra ele. E ele viverá separado de todos os seus irmãos\". Agar deu à luz o filho de Abrão; e ele pôs o nome de Ismael ao filho que Agar lhe deu. Abrão tinha oitenta e seis anos, quando Agar deu à luz Ismael."
        ]
       ]
      },
@@ -631,7 +631,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -1045,7 +1045,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -1155,7 +1155,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {

@@ -132,6 +132,22 @@ describe('precedence', () => {
     expect(day.celebrations.map((c) => [c.id, c.rank])).toEqual([['sanctorale.07-16', 'feast']])
   })
 
+  it("keeps Brazil's own memorials as the Mass of the day", () => {
+    const brazil = (iso: string) =>
+      resolveOfDay(on(iso), calendar, { regions: ['brazil'] }).celebrations.map((c) => c.id)
+    expect(brazil('2026-06-09')).toEqual(['sanctorale.06-09.brazil'])
+    expect(brazil('2026-07-09')).toEqual(['sanctorale.07-09.brazil'])
+    expect(brazil('2026-08-13')).toEqual(['sanctorale.08-13.brazil'])
+    expect(brazil('2026-11-19')).toEqual(['sanctorale.11-19.brazil'])
+    // St Rose of Lima and Our Lady of Guadalupe are feasts there.
+    expect(brazil('2027-08-23')).toEqual(['sanctorale.08-23'])
+    expect(brazil('2025-12-12')).toEqual(['sanctorale.12-12'])
+  })
+
+  it('lets the Dedication of the Lateran Basilica replace a Sunday of Ordinary Time', () => {
+    expect(ids('2025-11-09')).toEqual(['sanctorale.11-09'])
+  })
+
   it('keeps Mary, Mother of the Church on the Monday after Pentecost', () => {
     expect(ids('2026-05-25')).toEqual(['sanctorale.mary-mother-of-the-church'])
   })
@@ -140,9 +156,9 @@ describe('precedence', () => {
     // 28 June 2025 is also St Irenaeus, an obligatory memorial.
     const day = resolveOfDay(on('2025-06-28'), calendar)
     expect(day.celebrations.map((c) => [c.id, c.rank])).toEqual([
-      ['tempore.ordinary-time.week-12.saturday', 'weekday'],
       ['sanctorale.immaculate-heart-of-mary', 'optional-memorial'],
       ['sanctorale.06-28', 'optional-memorial'],
+      ['tempore.ordinary-time.week-12.saturday', 'weekday'],
     ])
     // Alone on its Saturday it is the Mass of the day.
     expect(ids('2024-06-08')).toEqual(['sanctorale.immaculate-heart-of-mary'])

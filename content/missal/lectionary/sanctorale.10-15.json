@@ -521,7 +521,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -540,7 +545,12 @@
     ]
    },
    "part": "firstReading",
-   "role": "rubric"
+   "role": "rubric",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -556,7 +566,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -572,7 +587,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -598,7 +618,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -631,7 +656,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -647,7 +677,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -751,7 +786,12 @@
     ]
    },
    "part": "firstReading",
-   "role": "people"
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -2596,7 +2636,12 @@
     ]
    },
    "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.24"
+   "from": "common.holy-men-and-women.gospel.24",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -2701,7 +2746,12 @@
    },
    "role": "people",
    "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.24"
+   "from": "common.holy-men-and-women.gospel.24",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -2894,7 +2944,12 @@
     ]
    },
    "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.24"
+   "from": "common.holy-men-and-women.gospel.24",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -2999,7 +3054,12 @@
    },
    "role": "people",
    "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.24"
+   "from": "common.holy-men-and-women.gospel.24",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -3049,7 +3109,12 @@
      }
     ]
    },
-   "part": "gospel"
+   "part": "gospel",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -3153,7 +3218,12 @@
     ]
    },
    "part": "gospel",
-   "role": "people"
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -3183,7 +3253,12 @@
      }
     ]
    },
-   "part": "gospel"
+   "part": "gospel",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "or"
+   }
   }
  ],
  "title": {

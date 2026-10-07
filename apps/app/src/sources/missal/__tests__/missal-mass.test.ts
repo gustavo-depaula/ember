@@ -102,13 +102,22 @@ describe('an ordinary weekday', () => {
   })
 
   it('reads the weekday by default on a memorial and offers the proper readings', async () => {
-    const mass = await massOn('2026-10-07')
+    // St John Vianney.
+    const mass = await massOn('2026-08-04')
     const gospel = selectOf(mass, 'missal.gospel')
     expect(gospel?.options.map((o) => o.id)).toEqual([
-      'tempore.ordinary-time.week-27.wednesday',
-      'sanctorale.10-07',
+      'tempore.ordinary-time.week-18.tuesday',
+      'sanctorale.08-04',
     ])
     expect(gospel?.options.map((o) => o.label.primary)).toEqual(['Do dia', 'Próprio'])
+  })
+
+  it("reads a Marian memorial's own readings first, as the daily missals do", async () => {
+    const gospel = selectOf(await massOn('2026-10-07'), 'missal.gospel')
+    expect(gospel?.options.map((o) => o.id)).toEqual([
+      'sanctorale.10-07',
+      'tempore.ordinary-time.week-27.wednesday',
+    ])
   })
 
   it('shows nothing that exists only in a third language', async () => {

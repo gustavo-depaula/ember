@@ -6671,7 +6671,7 @@
         "O mar ele mudou em terra firme,"
        ],
        [
-        "e passarem pelo rio a pé enxuto. Exultemos de alegria no Senhor!"
+        "e passaram pelo rio a pé enxuto. Exultemos de alegria no Senhor!"
        ],
        [
         "Ele domina para sempre com poder!"
@@ -7964,7 +7964,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -8074,7 +8074,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -8340,7 +8340,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -8562,7 +8562,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -8672,7 +8672,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -8873,7 +8873,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -8983,7 +8983,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   }
  ],

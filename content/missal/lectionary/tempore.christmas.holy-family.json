@@ -260,7 +260,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Ecclesiastes"
+        "A reading from the Book of Sirach"
        ]
       ],
       "cite": "3:3-6.12-14",
@@ -2628,7 +2628,7 @@
       "k": "p",
       "lines": [
        [
-        "Depois que os magos partiram, o Anjo do Senhor apareceu em sonho a José e lhe disse:\"Levanta-te, pega o menino e sua mãe e foge para o Egito! Fica lá até que eu te avise! Porque Herodes vai procurar o menino para matá-lo\". José levantou-se de noite, pegou o menino e sua mãe, e partiu para o Egito. Ali ficou até à morte de Herodes, para se cumprir o que o Senhor havia dito pelo profeta:\"Do Egito chamei o meu Filho\". Quando Herodes morreu, o anjo do Senhor apareceu em sonho a José, no Egito, e lhe disse: \"Levanta-te, pega o menino e sua mãe, e volta para a terra de Israel; pois aqueles que procuravam matar o menino já estão mortos\".José levantou-se, pegou o menino e sua mãe, e entrou na terra de Israel. Mas, quando soube que Arquelau reinava na Judéia, no lugar de seu pai Herodes, teve medo de ir para lá. Por isso, depois de receber um aviso em sonho, José retirou-se para a região da Galiléia, e foi morar numa cidade chamada Nazaré. Isso aconteceupara se cumprir o que foi dito pêlos profetas: \"Ele será chamado Nazareno\"."
+        "Depois que os magos partiram, o Anjo do Senhor apareceu em sonho a José e lhe disse:\"Levanta-te, pega o menino e sua mãe e foge para o Egito! Fica lá até que eu te avise! Porque Herodes vai procurar o menino para matá-lo\". José levantou-se de noite, pegou o menino e sua mãe, e partiu para o Egito. Ali ficou até à morte de Herodes, para se cumprir o que o Senhor havia dito pelo profeta:\"Do Egito chamei o meu Filho\". Quando Herodes morreu, o anjo do Senhor apareceu em sonho a José, no Egito, e lhe disse: \"Levanta-te, pega o menino e sua mãe, e volta para a terra de Israel; pois aqueles que procuravam matar o menino já estão mortos\".José levantou-se, pegou o menino e sua mãe, e entrou na terra de Israel. Mas, quando soube que Arquelau reinava na Judeia, no lugar de seu pai Herodes, teve medo de ir para lá. Por isso, depois de receber um aviso em sonho, José retirou-se para a região da Galileia, e foi morar numa cidade chamada Nazaré. Isso aconteceupara se cumprir o que foi dito pêlos profetas: \"Ele será chamado Nazareno\"."
        ]
       ]
      },
@@ -3014,7 +3014,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Ecclesiastes"
+        "A reading from the Book of Sirach"
        ]
       ],
       "cite": "3:3-6.12-14",
@@ -3284,7 +3284,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -3699,7 +3704,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -6278,7 +6288,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 3,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -6658,7 +6673,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 3,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -7193,533 +7213,6 @@
       "k": "p",
       "lines": [
        [
-        "Accipe puerum et matrem eius et fuge in Ægyptum."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Léctio sancti Evangélii secúndum Matthǽum"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelho"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Levanta-te, pega o menino e sua mãe e foge para o Egito."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Gospel"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " A reading from the holy Gospel according to Matthew"
-       ]
-      ],
-      "cite": "2:13-15.19-23",
-      "role": "announcement"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelio"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Toma al niño ya su madre y huye a Egipto"
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Lectura del santo Evangelio según san Mateo"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Vangelo"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Prendi con te il bambino e sua madre e fuggi in Egitto."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Dal vangelo secondo Matteo"
-       ]
-      ],
-      "cite": "2,13-15.19-23",
-      "role": "announcement"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Proclamation de l'Évangile"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Évangile de Jésus-Christ selon saint Matthieu"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelium"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Aus dem heiligen Evangelium nach Matthäus"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ]
-   },
-   "part": "gospel",
-   "cycle": "B"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria tibi, Domine."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glória a vós, Senhor."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glory to you, O Lord."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria a ti, Señor."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria a te, o Signore."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloire à toi, Seigneur !"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Ehre sei dir, o Herr."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "cycle": "B",
-   "role": "people"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Cum recessíssent Magi, ecce ángelus Dómini appáret in somnis Ioseph dicens: «Surge et áccipe púerum et matrem eius et fuge in Ægýptum et esto ibi, usque dum dicam tibi; futúrum est enim ut Heródes quærat púerum ad perdéndum eum». Qui consúrgens accépit púerum et matrem eius nocte et recéssit in Ægýptum et erat ibi usque ad óbitum Heródis, ut adimplerétur, quod dictum est a Dómino per prophétam dicéntem: «Ex Ægýpto vocávi fílium meum»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Defúncto autem Heróde, ecce appáret ángelus Dómini in somnis Ioseph in Ægýpto dicens: «Surge et áccipe púerum et matrem eius et vade in terram Israel; defúncti sunt enim, qui quærébant ánimam púeri». Qui surgens accépit púerum et matrem eius et venit in terram Israel."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Audiens autem quia Archeláus regnáret in Iudæa pro Heróde patre suo, tímuit illuc ire; et admónitus in somnis, secéssit in partes Galilææ et véniens habitávit in civitáte, quæ vocátur Názareth, ut adimplerétur, quod dictum est per Prophétas: «Nazaræus vocábitur»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Depois que os magos partiram, o Anjo do Senhor apareceu em sonho a José e lhe disse:\"Levanta-te, pega o menino e sua mãe e foge para o Egito! Fica lá até que eu te avise! Porque Herodes vai procurar o menino para matá-lo\". José levantou-se de noite, pegou o menino e sua mãe, e partiu para o Egito. Ali ficou até à morte de Herodes, para se cumprir o que o Senhor havia dito pelo profeta:\"Do Egito chamei o meu Filho\". Quando Herodes morreu, o anjo do Senhor apareceu em sonho a José, no Egito, e lhe disse: \"Levanta-te, pega o menino e sua mãe, e volta para a terra de Israel; pois aqueles que procuravam matar o menino já estão mortos\".José levantou-se, pegou o menino e sua mãe, e entrou na terra de Israel. Mas, quando soube que Arquelau reinava na Judéia, no lugar de seu pai Herodes, teve medo de ir para lá. Por isso, depois de receber um aviso em sonho, José retirou-se para a região da Galiléia, e foi morar numa cidade chamada Nazaré. Isso aconteceupara se cumprir o que foi dito pêlos profetas: \"Ele será chamado Nazareno\"."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palavra da Salvação."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "After the wise men had left, the angel of the Lord appeared to Joseph in a dream and said, 'Get up, take the child and his mother with you, and escape into Egypt, and stay there until I tell you, because Herod intends to search for the child and do away with him'. So Joseph got up and, taking the child and his mother with him, left that night for Egypt, where he stayed until Herod was dead. This was to fulfill what the Lord had spoken through the prophet: I called my son out of Egypt. After Herod's death, the angel of the Lord appeared in a dream to Joseph in Egypt and said, 'Get up, take the child and his mother with you and go back to the land of Israel, for those who wanted to kill the child are dead'. So Joseph got up and, taking the child and his mother with him, went back to the land of Israel. But when he learnt that Archelaus had succeeded his father Herod as ruler of Judaea he was afraid to go there, and being warned in a dream he left for the region of Galilee. There he settled in a town called Nazareth. In this way the words spoken through the prophets were to be fulfilled: 'He will be called a Nazarene.'"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The Gospel of the Lord."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Cuando se retiraron los magos, el ángel del Señor se apareció en sueños a José y le dijo: «Levántate, toma al niño y a su madre y huye a Egipto; quédate allí hasta que yo te avise, porque Herodes va a buscar al niño para matarlo»."
-       ],
-       [
-        "José se levantó, tomó al niño y a su madre, de noche, se fue a Egipto y se quedó hasta la muerte de Herodes para que se cumpliese lo que dijo el Señor por medio del profeta: «De Egipto llamé a mi hijo»."
-       ],
-       [
-        "Cuando murió Herodes, el ángel del Señor se apareció de nuevo en sueños a José en Egipto y le dijo: «Levántate, coge al niño y a su madre y vuelve a la tierra de Israel, porque han muerto los que atentaban contra la vida del niño»."
-       ],
-       [
-        "Se levantó, tomó al niño y a su madre y volvió a la tierra de Israel."
-       ],
-       [
-        "Pero al enterarse de que Arquelao reinaba en Judea como sucesor de su padre Herodes tuvo miedo de ir allá. Y avisado en sueños se retiró a Galilea y se estableció en una ciudad llamada Nazaret. Así se cumplió lo dicho por medio de los profetas, que se llamaría nazareno."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palabra del Señor."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "I Magi erano appena partiti, quando un angelo del Signore apparve in sogno a Giuseppe e gli disse: «Àlzati, prendi con te il bambino e sua madre, fuggì in Egitto e resta là finché non ti avvertirò: Erode infatti vuole cercare il bambino per ucciderlo»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Egli si alzò, nella notte, prese il bambino e sua madre e si rifugiò in Egitto, dove rimase fino alla morte di Erode, perché si compisse ciò che era stato detto dal Signore per mezzo del profeta: «Dall'Egitto ho chiamato mio figlio»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Morto Erode, ecco, un angelo del Signore apparve in sogno a Giuseppe in Egitto e gli disse: «Àlzati, prendi con te il bambino e sua madre e va' nella terra d'Israele; sono morti infatti quelli che cercavano di uccidere il bambino»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Egli si alzò, prese il bambino e sua madre ed entrò nella terra d'Israele. Ma, quando venne a sapere che nella Giudea regnava Archelao al posto di suo padre Erode, ebbe paura di andarvi. Avvertito poi in sogno, si ritirò nella regione della Galilea e andò ad abitare in una città chiamata Nàzaret, perché si compisse ciò che era stato detto per mezzo dei profeti: «Sarà chiamato Nazareno»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parola del Signore."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Après le départ des mages, voici que l'ange du Seigneur apparaît en songe à Joseph et lui dit : \" Lève-toi ; prends l'enfant et sa mère, et fuis en Égypte. Reste là-bas jusqu'à ce que je t'avertisse, car Hérode va rechercher l'enfant pour le faire périr. \" Joseph se leva ; dans la nuit, il prit l'enfant et sa mère, et se retira en Égypte, où il resta jusqu'à la mort d'Hérode, pour que soit accomplie la parole du Seigneur prononcée par le prophète : D'Égypte, j'ai appelé mon fils."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Après la mort d'Hérode, voici que l'ange du Seigneur apparaît en songe à Joseph en Égypte et lui dit : \" Lève-toi ; prends l'enfant et sa mère, et pars pour le pays d'Israël, car ils sont morts, ceux qui en voulaient à la vie de l'enfant. \" Joseph se leva, prit l'enfant et sa mère, et il entra dans le pays d'Israël. Mais, apprenant qu'Arkélaüs régnait sur la Judée à la place de son père Hérode, il eut peur de s'y rendre. Averti en songe, il se retira dans la région de Galilée et vint habiter dans une ville appelée Nazareth, pour que soit accomplie la parole dite par les prophètes : Il sera appelé Nazaréen."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Acclamons la Parole de Dieu !"
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Als die Sterndeuter wieder gegangen waren, erschien dem Josef im Traum ein Engel des Herrn und sagte: Steh auf, nimm das Kind und seine Mutter, und flieh nach Ägypten; dort bleibe, bis ich dir etwas anderes auftrage; denn Herodes wird das Kind suchen, um es zu töten. Da stand Josef in der Nacht auf und floh mit dem Kind und dessen Mutter nach Ägypten. Dort blieb er bis zum Tod des Herodes. Denn es sollte sich erfüllen, was der Herr durch den Propheten gesagt hat: Aus Ägypten habe ich meinen Sohn gerufen."
-       ],
-       [
-        "Als Herodes gestorben war, erschien dem Josef in Ägypten ein Engel des Herrn im Traum und sagte: Steh auf, nimm das Kind und seine Mutter, und zieh in das Land Israel; denn die Leute, die dem Kind nach dem Leben getrachtet haben, sind tot. Da stand er auf und zog mit dem Kind und dessen Mutter in das Land Israel."
-       ],
-       [
-        "Als er aber hörte, dass in Judäa Archeláus an Stelle seines Vaters Herodes regierte, fürchtete er sich, dorthin zu gehen. Und weil er im Traum einen Befehl erhalten hatte, zog er in das Gebiet von Galiläa und ließ sich in einer Stadt namens Nazaret nieder. Denn es sollte sich erfüllen, was durch die Propheten gesagt worden ist: Er wird Nazoräer genannt werden."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelium unseres Herrn Jesus Christus."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ]
-   },
-   "part": "gospel",
-   "cycle": "B"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelium"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
         "Puer crescebat, plenus sapientia."
        ]
       ],
@@ -7923,7 +7416,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -8033,7 +7526,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -8377,7 +7870,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -8599,7 +8092,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -8709,7 +8202,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -8910,7 +8403,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -9020,7 +8513,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -9141,7 +8634,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Ecclesiastes"
+        "A reading from the Book of Sirach"
        ]
       ],
       "cite": "3:3-6.12-14",
@@ -9408,7 +8901,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 4,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -9794,7 +9292,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 4,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -12149,7 +11652,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 5,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -12543,7 +12051,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 5,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -13066,533 +12579,6 @@
       "k": "p",
       "lines": [
        [
-        "Accipe puerum et matrem eius et fuge in Ægyptum."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Léctio sancti Evangélii secúndum Matthǽum"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelho"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Levanta-te, pega o menino e sua mãe e foge para o Egito."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Gospel"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " A reading from the holy Gospel according to Matthew"
-       ]
-      ],
-      "cite": "2:13-15.19-23",
-      "role": "announcement"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelio"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Toma al niño ya su madre y huye a Egipto"
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Lectura del santo Evangelio según san Mateo"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Vangelo"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Prendi con te il bambino e sua madre e fuggi in Egitto."
-       ]
-      ],
-      "role": "summary"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Dal vangelo secondo Matteo"
-       ]
-      ],
-      "cite": "2,13-15.19-23",
-      "role": "announcement"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Proclamation de l'Évangile"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Évangile de Jésus-Christ selon saint Matthieu"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelium"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Aus dem heiligen Evangelium nach Matthäus"
-       ]
-      ],
-      "cite": "2, 13-15. 19-23",
-      "role": "announcement"
-     }
-    ]
-   },
-   "part": "gospel",
-   "cycle": "C"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria tibi, Domine."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glória a vós, Senhor."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glory to you, O Lord."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria a ti, Señor."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria a te, o Signore."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloire à toi, Seigneur !"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Ehre sei dir, o Herr."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "cycle": "C",
-   "role": "people"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Cum recessíssent Magi, ecce ángelus Dómini appáret in somnis Ioseph dicens: «Surge et áccipe púerum et matrem eius et fuge in Ægýptum et esto ibi, usque dum dicam tibi; futúrum est enim ut Heródes quærat púerum ad perdéndum eum». Qui consúrgens accépit púerum et matrem eius nocte et recéssit in Ægýptum et erat ibi usque ad óbitum Heródis, ut adimplerétur, quod dictum est a Dómino per prophétam dicéntem: «Ex Ægýpto vocávi fílium meum»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Defúncto autem Heróde, ecce appáret ángelus Dómini in somnis Ioseph in Ægýpto dicens: «Surge et áccipe púerum et matrem eius et vade in terram Israel; defúncti sunt enim, qui quærébant ánimam púeri». Qui surgens accépit púerum et matrem eius et venit in terram Israel."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Audiens autem quia Archeláus regnáret in Iudæa pro Heróde patre suo, tímuit illuc ire; et admónitus in somnis, secéssit in partes Galilææ et véniens habitávit in civitáte, quæ vocátur Názareth, ut adimplerétur, quod dictum est per Prophétas: «Nazaræus vocábitur»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Depois que os magos partiram, o Anjo do Senhor apareceu em sonho a José e lhe disse:\"Levanta-te, pega o menino e sua mãe e foge para o Egito! Fica lá até que eu te avise! Porque Herodes vai procurar o menino para matá-lo\". José levantou-se de noite, pegou o menino e sua mãe, e partiu para o Egito. Ali ficou até à morte de Herodes, para se cumprir o que o Senhor havia dito pelo profeta:\"Do Egito chamei o meu Filho\". Quando Herodes morreu, o anjo do Senhor apareceu em sonho a José, no Egito, e lhe disse: \"Levanta-te, pega o menino e sua mãe, e volta para a terra de Israel; pois aqueles que procuravam matar o menino já estão mortos\".José levantou-se, pegou o menino e sua mãe, e entrou na terra de Israel. Mas, quando soube que Arquelau reinava na Judéia, no lugar de seu pai Herodes, teve medo de ir para lá. Por isso, depois de receber um aviso em sonho, José retirou-se para a região da Galiléia, e foi morar numa cidade chamada Nazaré. Isso aconteceupara se cumprir o que foi dito pêlos profetas: \"Ele será chamado Nazareno\"."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palavra da Salvação."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "After the wise men had left, the angel of the Lord appeared to Joseph in a dream and said, 'Get up, take the child and his mother with you, and escape into Egypt, and stay there until I tell you, because Herod intends to search for the child and do away with him'. So Joseph got up and, taking the child and his mother with him, left that night for Egypt, where he stayed until Herod was dead. This was to fulfill what the Lord had spoken through the prophet: I called my son out of Egypt. After Herod's death, the angel of the Lord appeared in a dream to Joseph in Egypt and said, 'Get up, take the child and his mother with you and go back to the land of Israel, for those who wanted to kill the child are dead'. So Joseph got up and, taking the child and his mother with him, went back to the land of Israel. But when he learnt that Archelaus had succeeded his father Herod as ruler of Judaea he was afraid to go there, and being warned in a dream he left for the region of Galilee. There he settled in a town called Nazareth. In this way the words spoken through the prophets were to be fulfilled: 'He will be called a Nazarene.'"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "The Gospel of the Lord."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Cuando se retiraron los magos, el ángel del Señor se apareció en sueños a José y le dijo: «Levántate, toma al niño y a su madre y huye a Egipto; quédate allí hasta que yo te avise, porque Herodes va a buscar al niño para matarlo»."
-       ],
-       [
-        "José se levantó, tomó al niño y a su madre, de noche, se fue a Egipto y se quedó hasta la muerte de Herodes para que se cumpliese lo que dijo el Señor por medio del profeta: «De Egipto llamé a mi hijo»."
-       ],
-       [
-        "Cuando murió Herodes, el ángel del Señor se apareció de nuevo en sueños a José en Egipto y le dijo: «Levántate, coge al niño y a su madre y vuelve a la tierra de Israel, porque han muerto los que atentaban contra la vida del niño»."
-       ],
-       [
-        "Se levantó, tomó al niño y a su madre y volvió a la tierra de Israel."
-       ],
-       [
-        "Pero al enterarse de que Arquelao reinaba en Judea como sucesor de su padre Herodes tuvo miedo de ir allá. Y avisado en sueños se retiró a Galilea y se estableció en una ciudad llamada Nazaret. Así se cumplió lo dicho por medio de los profetas, que se llamaría nazareno."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Palabra del Señor."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "I Magi erano appena partiti, quando un angelo del Signore apparve in sogno a Giuseppe e gli disse: «Àlzati, prendi con te il bambino e sua madre, fuggì in Egitto e resta là finché non ti avvertirò: Erode infatti vuole cercare il bambino per ucciderlo»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Egli si alzò, nella notte, prese il bambino e sua madre e si rifugiò in Egitto, dove rimase fino alla morte di Erode, perché si compisse ciò che era stato detto dal Signore per mezzo del profeta: «Dall'Egitto ho chiamato mio figlio»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Morto Erode, ecco, un angelo del Signore apparve in sogno a Giuseppe in Egitto e gli disse: «Àlzati, prendi con te il bambino e sua madre e va' nella terra d'Israele; sono morti infatti quelli che cercavano di uccidere il bambino»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Egli si alzò, prese il bambino e sua madre ed entrò nella terra d'Israele. Ma, quando venne a sapere che nella Giudea regnava Archelao al posto di suo padre Erode, ebbe paura di andarvi. Avvertito poi in sogno, si ritirò nella regione della Galilea e andò ad abitare in una città chiamata Nàzaret, perché si compisse ciò che era stato detto per mezzo dei profeti: «Sarà chiamato Nazareno»."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parola del Signore."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Après le départ des mages, voici que l'ange du Seigneur apparaît en songe à Joseph et lui dit : \" Lève-toi ; prends l'enfant et sa mère, et fuis en Égypte. Reste là-bas jusqu'à ce que je t'avertisse, car Hérode va rechercher l'enfant pour le faire périr. \" Joseph se leva ; dans la nuit, il prit l'enfant et sa mère, et se retira en Égypte, où il resta jusqu'à la mort d'Hérode, pour que soit accomplie la parole du Seigneur prononcée par le prophète : D'Égypte, j'ai appelé mon fils."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Après la mort d'Hérode, voici que l'ange du Seigneur apparaît en songe à Joseph en Égypte et lui dit : \" Lève-toi ; prends l'enfant et sa mère, et pars pour le pays d'Israël, car ils sont morts, ceux qui en voulaient à la vie de l'enfant. \" Joseph se leva, prit l'enfant et sa mère, et il entra dans le pays d'Israël. Mais, apprenant qu'Arkélaüs régnait sur la Judée à la place de son père Hérode, il eut peur de s'y rendre. Averti en songe, il se retira dans la région de Galilée et vint habiter dans une ville appelée Nazareth, pour que soit accomplie la parole dite par les prophètes : Il sera appelé Nazaréen."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Acclamons la Parole de Dieu !"
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Als die Sterndeuter wieder gegangen waren, erschien dem Josef im Traum ein Engel des Herrn und sagte: Steh auf, nimm das Kind und seine Mutter, und flieh nach Ägypten; dort bleibe, bis ich dir etwas anderes auftrage; denn Herodes wird das Kind suchen, um es zu töten. Da stand Josef in der Nacht auf und floh mit dem Kind und dessen Mutter nach Ägypten. Dort blieb er bis zum Tod des Herodes. Denn es sollte sich erfüllen, was der Herr durch den Propheten gesagt hat: Aus Ägypten habe ich meinen Sohn gerufen."
-       ],
-       [
-        "Als Herodes gestorben war, erschien dem Josef in Ägypten ein Engel des Herrn im Traum und sagte: Steh auf, nimm das Kind und seine Mutter, und zieh in das Land Israel; denn die Leute, die dem Kind nach dem Leben getrachtet haben, sind tot. Da stand er auf und zog mit dem Kind und dessen Mutter in das Land Israel."
-       ],
-       [
-        "Als er aber hörte, dass in Judäa Archeláus an Stelle seines Vaters Herodes regierte, fürchtete er sich, dorthin zu gehen. Und weil er im Traum einen Befehl erhalten hatte, zog er in das Gebiet von Galiläa und ließ sich in einer Stadt namens Nazaret nieder. Denn es sollte sich erfüllen, was durch die Propheten gesagt worden ist: Er wird Nazoräer genannt werden."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelium unseres Herrn Jesus Christus."
-       ]
-      ],
-      "role": "conclusion"
-     }
-    ]
-   },
-   "part": "gospel",
-   "cycle": "C"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Evangelium"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
         "Iesus in medio doctorum a parentibus invenitur."
        ]
       ],
@@ -13973,7 +12959,7 @@
       "k": "p",
       "lines": [
        [
-        "Os pais de Jesus iam todos os anos a Jerusalém, para a festa da Páscoa. Quando ele completou doze anos, subiram para a festa, como de costume. Passados os dias da Páscoa, começaram a viagem de volta, mas o menino Jesus ficou em Jerusalém, sem que seus pais o notassem. Pensando que ele estivesse na caravana, caminharam um dia inteiro. Depois começaram a procurá-lo entre os parentes e conhecidos. Não o tendo encontrado, voltaram para Jerusalém à sua procura. Três dias depois, o encontraram no Templo. Estava sentado no meio dos mestres, escutando e fazendo perguntas. Todos os que ouviam o menino estavam maravilhados com sua inteligência e suas respostas. Ao vê-lo, seus pais ficaram muito admiradose sua mãe lhe disse: \"Meu filho, por que agiste assim conosco? Olha que teu pai e eu estávamos, angustiados, à tua procura\". Jesus respondeu:\"Por que me procuráveis? Não sabeis que devo estar na casa de meu Pai?\" Eles, porem, não compreenderam as palavras que lhes dissera. Jesus desceu então com seus país para Nazaré, e era-lhes obediente. Sua mãe, porém, conservava no coração todas estas coisas. E Jesus crescia em sabedoria, estatura e graça, diante de Deus e diante dos homens."
+        "Os pais de Jesus iam todos os anos a Jerusalém, para a festa da Páscoa. Quando ele completou doze anos, subiram para a festa, como de costume. Passados os dias da Páscoa, começaram a viagem de volta, mas o menino Jesus ficou em Jerusalém, sem que seus pais o notassem. Pensando que ele estivesse na caravana, caminharam um dia inteiro. Depois começaram a procurá-lo entre os parentes e conhecidos. Não o tendo encontrado, voltaram para Jerusalém à sua procura. Três dias depois, o encontraram no Templo. Estava sentado no meio dos mestres, escutando e fazendo perguntas. Todos os que ouviam o menino estavam maravilhados com sua inteligência e suas respostas. Ao vê-lo, seus pais ficaram muito admiradose sua mãe lhe disse: \"Meu filho, por que agiste assim conosco? Olha que teu pai e eu estávamos, angustiados, à tua procura\". Jesus respondeu:\"Por que me procuráveis? Não sabeis que devo estar na casa de meu Pai?\" Eles, porém, não compreenderam as palavras que lhes dissera. Jesus desceu então com seus país para Nazaré, e era-lhes obediente. Sua mãe, porém, conservava no coração todas estas coisas. E Jesus crescia em sabedoria, estatura e graça, diante de Deus e diante dos homens."
        ]
       ]
      },

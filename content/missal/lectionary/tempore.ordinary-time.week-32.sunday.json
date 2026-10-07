@@ -2085,7 +2085,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2403,7 +2403,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -2513,7 +2513,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -5654,7 +5654,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5764,7 +5764,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5983,7 +5983,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -6205,7 +6205,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6315,7 +6315,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6503,7 +6503,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6613,7 +6613,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -8897,7 +8897,7 @@
    "alt": {
     "group": 3,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -9007,7 +9007,7 @@
    "alt": {
     "group": 3,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -9226,7 +9226,7 @@
    "alt": {
     "group": 3,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -9448,7 +9448,7 @@
    "alt": {
     "group": 3,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -9558,7 +9558,7 @@
    "alt": {
     "group": 3,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -9755,7 +9755,7 @@
    "alt": {
     "group": 3,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -9865,7 +9865,7 @@
    "alt": {
     "group": 3,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   }
  ],

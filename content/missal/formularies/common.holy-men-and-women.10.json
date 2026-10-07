@@ -212,6 +212,17 @@
       ],
       "cite": "Ps 16 (15), 5-6"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Sl 15, 5"
+     }
     ]
    },
    "part": "entranceAntiphon"
@@ -324,6 +335,25 @@
       "lines": [
        [
         "Du, Herr, gibst mir das Erbe und reichst mir den Becher; du hältst mein Los in deinen Händen. Auf schönem Land fiel mir mein Anteil zu. Ja, mein Erbe gefällt mir gut."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Senhor, sois minha herança e minha taça, meu destino está seguro em vossas mãos ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " aleluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
        ]
       ]
      }
@@ -787,6 +817,16 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
     ]
    },
    "part": "prayerOverOfferings"
@@ -931,6 +971,21 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus de clemência, desfeito em São ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " o velho homem, vos dignastes formar nele uma nova criatura à vossa imagem; concedei benigno que nós, igualmente renovados, vos ofereçamos este agradável sacrifício de reconciliação. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
     ]
    },
    "part": "prayerOverOfferings"
@@ -1067,6 +1122,17 @@
       ],
       "cite": "Mt 19, 27-29"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Mt 19, 27-29"
+     }
     ]
    },
    "part": "communionAntiphon"
@@ -1185,6 +1251,25 @@
       "lines": [
        [
         "So spricht der Herr: Ihr, die ihr alles verlassen habt und mir nachgefolgt seid, werdet ein Vielfaches dafür bekommen und das ewige Leben gewinnen."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Em verdade vos digo: vós que deixastes tudo e me seguistes recebereis cem vezes mais e tereis como herança a vida eterna ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " aleluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
        ]
       ]
      }
@@ -1435,6 +1520,16 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
     ]
    },
    "part": "postcommunion"
@@ -1563,6 +1658,21 @@
          "t": "N."
         },
         " dich vor allem zu suchen und als neue Menschen in dieser Welt zu leben. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, pela força deste sacramento, conduzi-nos constantemente no vosso amor e, como fizestes a São ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", completai a boa obra que em nós começastes, até o dia de Cristo Jesus. Que vive e reina pelos séculos dos séculos."
        ]
       ]
      }

@@ -170,7 +170,9 @@
     "group": 1,
     "option": 1,
     "label": "or"
-   }
+   },
+   "part": "firstReading",
+   "role": "rubric"
   },
   {
    "text": {
@@ -529,77 +531,8 @@
     "group": 1,
     "option": 1,
     "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Ad libitum, quando anno A Isaíæ 2,1-5 in dominica prima Adventus legitur."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alternative READING, for use in Year A when Isaiah 2:1-5 has been read on the First Sunday of Advent."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "En el año A, en que Isaías 2,1-5 se lee el primer domingo de Adviento, puede leerse:"
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Ou bien si Année A"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Oder zur Wahl, wenn im Lesejahr A die Perikope Jes 2, 1-5 am 1. Adventsonntag schon gelesen wurde:"
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "No ano A,em que Isaías 2,1-5 se lê no primeiro domingo de Advento pode ler-se Is 4, 2-6:"
-       ]
-      ]
-     }
-    ]
    },
-   "cycle": "A",
-   "alt": {
-    "group": 1,
-    "option": 2,
-    "label": "or"
-   }
+   "part": "firstReading"
   },
   {
    "text": {
@@ -1272,7 +1205,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -1381,7 +1314,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -1513,7 +1446,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -1622,7 +1555,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -1745,7 +1678,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -1854,7 +1787,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -1983,7 +1916,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2092,7 +2025,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2227,7 +2160,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2336,7 +2269,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2471,7 +2404,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2580,7 +2513,7 @@
    "alt": {
     "group": 2,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2674,7 +2607,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -2783,7 +2716,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -2915,7 +2848,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3024,7 +2957,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3147,7 +3080,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3256,7 +3189,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3391,7 +3324,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3500,7 +3433,7 @@
    "alt": {
     "group": 2,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {

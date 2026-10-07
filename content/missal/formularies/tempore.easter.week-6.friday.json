@@ -571,7 +571,10 @@
      }
     ]
    },
-   "part": "collect"
+   "part": "collect",
+   "unless": [
+    "ascension-on-sunday"
+   ]
   },
   {
    "text": {
@@ -668,7 +671,10 @@
     ]
    },
    "part": "collect",
-   "role": "rubric"
+   "role": "rubric",
+   "when": [
+    "ascension-on-sunday"
+   ]
   },
   {
    "text": {
@@ -857,7 +863,10 @@
      }
     ]
    },
-   "part": "collect"
+   "part": "collect",
+   "when": [
+    "ascension-on-sunday"
+   ]
   },
   {
    "text": {

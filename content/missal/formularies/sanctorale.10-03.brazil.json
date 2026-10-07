@@ -28,10 +28,10 @@
       "k": "h2",
       "lines": [
        [
-        "3 de otubro"
+        "3 de outubro"
        ],
        [
-        "Beatos mártires André de Soveral e companheiros mártires"
+        "Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires"
        ]
       ]
      }
@@ -43,35 +43,32 @@
    "text": {
     "*": [
      {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Ap 7,14"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "Comum dos mártires:"
-        },
-        " ",
-        {
-         "m": "link",
-         "t": "1",
-         "to": "common.pastors.6"
-        },
-        {
-         "m": "link",
-         "t": "2",
-         "to": "common.pastors.7"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": "."
-        }
+        "Esses são os que vieram da grande tribulação. Lavaram e alvejaram as suas roupas no sangue do Cordeiro."
        ]
       ]
      }
     ]
    },
-   "part": "title"
+   "part": "entranceAntiphon"
   },
   {
    "text": {
@@ -95,13 +92,104 @@
       "k": "p",
       "lines": [
        [
-        "Deus de misericórdia, aumentai em nós a fé que, conservada à custa do próprio sangue, glorificou vossos mártires bem-aventurados André, Ambrósio e companheiros. Dai-nos também ser santificados pela vivência da mesma fé. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo."
+        "Ó Deus, concedestes admirável constância no martírio aos Santos André e Ambrósio, presbíteros, Mateus Moreira e seus companheiros leigos; fazei que o seu testemunho de fé fortaleça as nossas comunidades e estimule a ação missionária de vossa Igreja. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
        ]
       ]
      }
     ]
    },
    "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pai santo, aceitai as oferendas que vos apresentamos na comemoração dos Protomártires do Brasil, e a nós, vossos servos e servas, concedei a graça de permanecer firmes na confissão do vosso nome. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Jo 12,24"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se o grão de trigo que cai na terra não morre, ele continua só um grão de trigo; mas se morre, então produz muito fruto."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recebemos, ó Deus, os dons celestes, alegrando-nos pela festa de hoje. Assim como anunciamos nesta Eucaristia a morte do vosso Filho, possamos participar, com os santos mártires, de sua ressurreição e de sua glória. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
   }
  ],
  "commons": [
@@ -109,6 +197,6 @@
   "common.pastors.7"
  ],
  "title": {
-  "*": "Beatos mártires André de Soveral e companheiros mártires"
+  "*": "Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires"
  }
 }

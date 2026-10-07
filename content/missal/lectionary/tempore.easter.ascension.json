@@ -184,7 +184,7 @@
       "k": "p",
       "lines": [
        [
-        "No meu primeiro livro, ó Teófilo, já tratei de tudo o que Jesus fez e ensinou, desde o começo, até ao dia em que foi levado para o céu, depois de ter dado instruções pelo Espírito Santo, aos apóstolos que tinha escolhido. Foi a eles que Jesus se mostrou vivo depois da sua paixão, com numerosas provas. Durante quarenta dias, apareceu-lhes falando do Reino de Deus. Durante uma refeição, deu-lhes esta ordem: \"Não vos afasteis de Jerusalém, mas esperai a realização da promessa do Pai, da qual vós me ouvistes falar: 'João batizou com água; vós, porém, sereis batizados com o Espírito Santo, dentro de poucos dias'\". Então os que estavam reunidos perguntaram a Jesus: \"Senhor, é agora que vais restaurar o Reino em Israel?\" Jesus respondeu: \"Não vos cabe saber os tempos e os momentos que o Pai determinou com a sua própria autoridade. Mas recebereis o poder do Espírito Santo que descerá sobre vós, para serdes minhas testemunhas em Jerusalém, em toda a Judeia e na Samaria, e até os confins da terra\". Depois de dizer isto, Jesus foi levado ao céu, à vista deles. Uma nuvem o encobriu, de forma que seus olhos não mais podiam vê-lo. Os apóstolos continuavam olhando para o céu, enquanto Jesus subia. Apareceram então dois homens vestidos de branco, que lhes disseram: \"Homens da Galiléia, por que ficais aqui, parados, olhando para o céu? Esse Jesus que vos foi levado para o céu, virá do mesmo modo como o vistes partir para o céu\"."
+        "No meu primeiro livro, ó Teófilo, já tratei de tudo o que Jesus fez e ensinou, desde o começo, até ao dia em que foi levado para o céu, depois de ter dado instruções pelo Espírito Santo, aos apóstolos que tinha escolhido. Foi a eles que Jesus se mostrou vivo depois da sua paixão, com numerosas provas. Durante quarenta dias, apareceu-lhes falando do Reino de Deus. Durante uma refeição, deu-lhes esta ordem: \"Não vos afasteis de Jerusalém, mas esperai a realização da promessa do Pai, da qual vós me ouvistes falar: 'João batizou com água; vós, porém, sereis batizados com o Espírito Santo, dentro de poucos dias'\". Então os que estavam reunidos perguntaram a Jesus: \"Senhor, é agora que vais restaurar o Reino em Israel?\" Jesus respondeu: \"Não vos cabe saber os tempos e os momentos que o Pai determinou com a sua própria autoridade. Mas recebereis o poder do Espírito Santo que descerá sobre vós, para serdes minhas testemunhas em Jerusalém, em toda a Judeia e na Samaria, e até os confins da terra\". Depois de dizer isto, Jesus foi levado ao céu, à vista deles. Uma nuvem o encobriu, de forma que seus olhos não mais podiam vê-lo. Os apóstolos continuavam olhando para o céu, enquanto Jesus subia. Apareceram então dois homens vestidos de branco, que lhes disseram: \"Homens da Galileia, por que ficais aqui, parados, olhando para o céu? Esse Jesus que vos foi levado para o céu, virá do mesmo modo como o vistes partir para o céu\"."
        ]
       ]
      },
@@ -2000,7 +2000,11 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "A"
+   "alt": {
+    "group": 1,
+    "option": 0,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -2374,7 +2378,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -2734,7 +2743,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -3096,7 +3110,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {

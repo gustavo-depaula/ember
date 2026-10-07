@@ -43,45 +43,6 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Común de vírgenes:"
-        },
-        " ",
-        {
-         "m": "link",
-         "t": "1",
-         "to": "common.virgins.1"
-        },
-        {
-         "m": "link",
-         "t": "2",
-         "to": "common.virgins.2"
-        },
-        {
-         "m": "link",
-         "t": "3",
-         "to": "common.virgins.3"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": "."
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "title"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [

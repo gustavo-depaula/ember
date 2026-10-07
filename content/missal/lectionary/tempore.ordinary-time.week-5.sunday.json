@@ -6134,7 +6134,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Vou cantar-vos, ante os anjos, ó Senhor, e ante o vosso templo vou portrar-me."
+        "Vou cantar-vos, ante os anjos, ó Senhor, e ante o vosso templo vou prostrar-me."
        ]
       ]
      }
@@ -7573,7 +7573,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -7945,7 +7945,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -8055,7 +8055,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {

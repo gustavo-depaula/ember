@@ -199,7 +199,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias: Pedro tomou a palavra e disse: Vós sabeis o que aconteceu em toda a Judeia, a começar pela Galiléia, depois do batismo pregado por João: como Jesus de Nazaré foi ungido por Deus com o Espírito Santo e com poder. Ele andou por toda a parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele. E nós somos testemunhas de tudo o que Jesus fez na terra dos judeus e em Jerusalém. Eles o mataram, pregando-o numa cruz. Mas Deus o ressuscitou no terceiro dia, concedendo-lhe manifestar-senão a todo o povo, mas às testemunhas que Deus havia escolhido: a nós, que comemos e bebemos com Jesus, depois que ressuscitou dos mortos. E Jesus nos mandou pregar ao povo e testemunhar que Deus o constituiu Juiz dos vivos e dos mortos. Todos os profetas dão testemunho dele: 'Todo aquele que crê em Jesus recebe, em seu nome, o perdão dos pecados'."
+        "Naqueles dias: Pedro tomou a palavra e disse: Vós sabeis o que aconteceu em toda a Judeia, a começar pela Galileia, depois do batismo pregado por João: como Jesus de Nazaré foi ungido por Deus com o Espírito Santo e com poder. Ele andou por toda a parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele. E nós somos testemunhas de tudo o que Jesus fez na terra dos judeus e em Jerusalém. Eles o mataram, pregando-o numa cruz. Mas Deus o ressuscitou no terceiro dia, concedendo-lhe manifestar-senão a todo o povo, mas às testemunhas que Deus havia escolhido: a nós, que comemos e bebemos com Jesus, depois que ressuscitou dos mortos. E Jesus nos mandou pregar ao povo e testemunhar que Deus o constituiu Juiz dos vivos e dos mortos. Todos os profetas dão testemunho dele: 'Todo aquele que crê em Jesus recebe, em seu nome, o perdão dos pecados'."
        ]
       ]
      },
@@ -1984,7 +1984,12 @@
      }
     ]
    },
-   "part": "secondReading"
+   "part": "secondReading",
+   "alt": {
+    "group": 1,
+    "option": 0,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -3390,88 +3395,6 @@
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "Loco huius Evangelii legi potest Evangelium ut supra in"
-        }
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Ubi habetur Missa vespertina, legi etiam potest in ea"
-        }
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "En lugar del Evangelio propuesto a continuación puede leerse el de la"
-        }
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "En las Misas vespertinas puede leerse el Evangelio del pasaje de"
-        }
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Loco huius Evangelii legi potest Evangelium ut supra in"
-        }
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Ubi habetur Missa vespertina, legi etiam potest in ea"
-        }
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Anstelle dieses Evangeliums kann auch gelesen werden das Evangelium der"
-        }
-       ],
-       [
-        {
-         "m": "rubric",
-         "t": "Wo eine Abendmesse gefeiert wird, kann in dieser gelesen werden"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
         "Evangelium"
        ]
       ],
@@ -3679,7 +3602,12 @@
      }
     ]
    },
-   "part": "gospel"
+   "part": "gospel",
+   "alt": {
+    "group": 2,
+    "option": 0,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -3783,7 +3711,12 @@
     ]
    },
    "part": "gospel",
-   "role": "people"
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 0,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -3984,7 +3917,12 @@
      }
     ]
    },
-   "part": "gospel"
+   "part": "gospel",
+   "alt": {
+    "group": 2,
+    "option": 0,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -4099,7 +4037,7 @@
       "k": "p",
       "lines": [
        [
-        "Ele ressuscitou e vai à vossa frente para a Galiléia"
+        "Ele ressuscitou e vai à vossa frente para a Galileia"
        ]
       ],
       "role": "summary"
@@ -4431,7 +4369,7 @@
       "k": "p",
       "lines": [
        [
-        "Depois do Sábado, ao amanhecer do primeiro dia da semana Maria Madalena e a outra Maria foram ver o sepulcro. De repente, houve um grande tremor de terra: o anjo do Senhor desceu do céu e, aproximando-se, retirou a pedra e sentou-se nela. Sua aparência era como um relâmpago, e suas vestes eram brancas como a neve. Os guardas ficaram com tanto medo do anjo, que tremeram, e ficaram como mortos. Então o anjo disse às mulheres: \"Não tenhais medo! Sei que procurais Jesus, que foi crucificado. Ele não está aqui! Ressuscitou, como havia dito! Vinde ver o lugar em que ele estava. Ide depressa contar aos discípulos que ele ressuscitou dos mortos e que vai à vossa frente para a Galiléia. Lá vós o vereis. É o que tenho a dizer-vos\". As mulheres partiram depressa do sepulcro. Estavam com medo, mas correram com grande alegria, para dar a notícia aos discípulos. De repente, Jesus foi ao encontro delas, e disse: \"Alegrai-vos!\" As mulheres aproximaram-se, e prostraram-se diante de Jesus, abraçando seus pés. Então Jesus disse a elas: \"Não tenhais medo. Ide anunciar aos meus irmãos que se dirijam para a Galiléia. Lá eles me verão\"."
+        "Depois do Sábado, ao amanhecer do primeiro dia da semana Maria Madalena e a outra Maria foram ver o sepulcro. De repente, houve um grande tremor de terra: o anjo do Senhor desceu do céu e, aproximando-se, retirou a pedra e sentou-se nela. Sua aparência era como um relâmpago, e suas vestes eram brancas como a neve. Os guardas ficaram com tanto medo do anjo, que tremeram, e ficaram como mortos. Então o anjo disse às mulheres: \"Não tenhais medo! Sei que procurais Jesus, que foi crucificado. Ele não está aqui! Ressuscitou, como havia dito! Vinde ver o lugar em que ele estava. Ide depressa contar aos discípulos que ele ressuscitou dos mortos e que vai à vossa frente para a Galileia. Lá vós o vereis. É o que tenho a dizer-vos\". As mulheres partiram depressa do sepulcro. Estavam com medo, mas correram com grande alegria, para dar a notícia aos discípulos. De repente, Jesus foi ao encontro delas, e disse: \"Alegrai-vos!\" As mulheres aproximaram-se, e prostraram-se diante de Jesus, abraçando seus pés. Então Jesus disse a elas: \"Não tenhais medo. Ide anunciar aos meus irmãos que se dirijam para a Galileia. Lá eles me verão\"."
        ]
       ]
      },
@@ -4955,7 +4893,7 @@
       "k": "p",
       "lines": [
        [
-        "Quando passou o sábado, Maria Madalena e Maria, a mãe de Tiago, e Salome, compraram perfumes para ungir o corpo de Jesus. E bem cedo, no primeiro dia da semana, ao nascer do sol, elas foram ao túmulo. E diziam entre si: \"Quem rolará para nós a pedra da entrada do túmulo?” Era uma pedra muito grande. Mas, quando olharam, viram que a pedra já tinha sido retirada. Entraram, então, no túmulo e viram um jovem, sentado do lado direito, vestido de branco. E ficaram muito assustadas. Mas o jovem lhes disse: \"Não vos assusteis! Vós procurais Jesus de Nazaré, que foi crucificado? Ele ressuscitou. Não está aqui. Vede o lugar onde o puseram. Ide, dizei a seus discípulos e a Pedro que ele irá à vossa frente, na Galiléia. Lá vós o vereis, como ele mesmo tinha dito\"."
+        "Quando passou o sábado, Maria Madalena e Maria, a mãe de Tiago, e Salome, compraram perfumes para ungir o corpo de Jesus. E bem cedo, no primeiro dia da semana, ao nascer do sol, elas foram ao túmulo. E diziam entre si: \"Quem rolará para nós a pedra da entrada do túmulo?” Era uma pedra muito grande. Mas, quando olharam, viram que a pedra já tinha sido retirada. Entraram, então, no túmulo e viram um jovem, sentado do lado direito, vestido de branco. E ficaram muito assustadas. Mas o jovem lhes disse: \"Não vos assusteis! Vós procurais Jesus de Nazaré, que foi crucificado? Ele ressuscitou. Não está aqui. Vede o lugar onde o puseram. Ide, dizei a seus discípulos e a Pedro que ele irá à vossa frente, na Galileia. Lá vós o vereis, como ele mesmo tinha dito\"."
        ]
       ]
      },
@@ -5473,7 +5411,7 @@
       "k": "p",
       "lines": [
        [
-        "No primeiro dia da semana, bem de madrugada, as mulheres foram ao túmulo de Jesus, levando os perfumes que haviam preparado. Elas encontraram a pedra do túmulo removida. Mas ao entrar, não encontraram o corpo do Senhor Jesus e ficaram sem saber o que estava acontecendo. Nisso, dois homens com roupas brilhantes pararam perto delas. Tomadas de medo, elas olhavam para o chão, mas os dois homens disseram: \"Por que estais procurando entre os mortos aquele que está vivo? Ele não está aqui. Ressuscitou! Lembrai-vos do que ele vos falou, quando ainda estava na Galiléia:'O Filho do Homem deve ser entregue nas mãos dos pecadores, ser crucificado e ressuscitar ao terceiro dia'\". Então as mulheres se lembraram das palavras de Jesus. Voltaram do túmulo e anunciaram tudo isso aos Onze e a todos os outros. Eram Maria Madalena, Joana e Maria, mãe de Tiago. Também as outras mulheres que estavam com elas contaram essas coisas aos apóstolos. Mas eles acharam que tudo isso era desvairio, e não acreditaram. Pedro, no entanto, levantou-se e correu ao túmulo. Olhou para dentro e viu apenas os lençóis. Então voltou para casa, admirado com o que havia acontecido."
+        "No primeiro dia da semana, bem de madrugada, as mulheres foram ao túmulo de Jesus, levando os perfumes que haviam preparado. Elas encontraram a pedra do túmulo removida. Mas ao entrar, não encontraram o corpo do Senhor Jesus e ficaram sem saber o que estava acontecendo. Nisso, dois homens com roupas brilhantes pararam perto delas. Tomadas de medo, elas olhavam para o chão, mas os dois homens disseram: \"Por que estais procurando entre os mortos aquele que está vivo? Ele não está aqui. Ressuscitou! Lembrai-vos do que ele vos falou, quando ainda estava na Galileia:'O Filho do Homem deve ser entregue nas mãos dos pecadores, ser crucificado e ressuscitar ao terceiro dia'\". Então as mulheres se lembraram das palavras de Jesus. Voltaram do túmulo e anunciaram tudo isso aos Onze e a todos os outros. Eram Maria Madalena, Joana e Maria, mãe de Tiago. Também as outras mulheres que estavam com elas contaram essas coisas aos apóstolos. Mas eles acharam que tudo isso era desvairio, e não acreditaram. Pedro, no entanto, levantou-se e correu ao túmulo. Olhou para dentro e viu apenas os lençóis. Então voltou para casa, admirado com o que havia acontecido."
        ]
       ]
      },
@@ -5631,89 +5569,6 @@
     "option": 1,
     "label": "or"
    }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Loco huius Evangelii legi potest Evangelium ut supra in"
-        }
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Puede leerse el Evangelio de la"
-        }
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Vangelo"
-       ]
-      ],
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "cross",
-         "t": "✠"
-        },
-        " Dal vangelo secondo Luca"
-       ]
-      ],
-      "cite": "24, 13-35",
-      "role": "announcement"
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Loco huius Evangelii legi potest Evangelium ut supra in"
-        }
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Oder (bei einer Abendmesse):"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "role": "rubric"
   },
   {
    "text": {
@@ -5904,7 +5759,12 @@
      }
     ]
    },
-   "part": "gospel"
+   "part": "gospel",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -6008,7 +5868,12 @@
     ]
    },
    "part": "gospel",
-   "role": "people"
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -6297,7 +6162,12 @@
      }
     ]
    },
-   "part": "gospel"
+   "part": "gospel",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {

@@ -3380,7 +3380,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -4009,7 +4014,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -6266,7 +6276,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -6631,7 +6646,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -8212,7 +8232,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 3,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -8750,7 +8775,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 3,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -11608,7 +11638,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 4,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -12007,7 +12042,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 4,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {

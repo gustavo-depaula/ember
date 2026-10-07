@@ -58,55 +58,6 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Commune-Texte für Märtyrer:"
-        },
-        " ",
-        {
-         "m": "link",
-         "t": "1",
-         "to": "common.martyrs.1"
-        },
-        {
-         "m": "link",
-         "t": "2",
-         "to": "common.martyrs.2"
-        },
-        {
-         "m": "link",
-         "t": "3",
-         "to": "common.martyrs.3"
-        },
-        {
-         "m": "link",
-         "t": "4",
-         "to": "common.martyrs.4"
-        },
-        {
-         "m": "link",
-         "t": "5",
-         "to": "common.martyrs.5"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": "."
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "title"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [

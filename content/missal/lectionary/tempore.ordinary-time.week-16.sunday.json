@@ -2286,7 +2286,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2396,7 +2396,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2738,7 +2738,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2960,7 +2960,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3070,7 +3070,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3279,7 +3279,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3389,7 +3389,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3498,7 +3498,7 @@
       "k": "p",
       "lines": [
        [
-        "\"Ai dos pastores que deixam perder-se e dispersar-se o rebanho de minha pastagem, diz o Senhor! Deste modo, isto diz o Senhor, Deus de Israel, aos pastores que apascentam o meu povo: Vós dispersastes o meu rebanho, e o afugentastes e não cuidastes dele; eis que irei verificar isso entre vós e castigar a malícia de vossas ações, diz o Senhor. E eu reunirei o resto de minhas ovelhas de todos os países para onde forem expulsas, e as farei voltar a seus campos, e elas se reproduzirão e multiplicarão. Suscitarei para elas novos pastores que as apascentem; não sofrerão mais o medo e a angústia, nenhuma delas se perderá, diz o Senhor. Eis que virão dias, diz o Senhor, em que farei nascer um descendente de Davi; reinará como rei e será sábio, fará valer a justiça e a retidão na terra. Naqueles dias, Judá será salvo e Israel viverá tranqüilo; este é o nome com que o chamarão: 'Senhor, nossa Justiça'."
+        "\"Ai dos pastores que deixam perder-se e dispersar-se o rebanho de minha pastagem, diz o Senhor! Deste modo, isto diz o Senhor, Deus de Israel, aos pastores que apascentam o meu povo: Vós dispersastes o meu rebanho, e o afugentastes e não cuidastes dele; eis que irei verificar isso entre vós e castigar a malícia de vossas ações, diz o Senhor. E eu reunirei o resto de minhas ovelhas de todos os países para onde forem expulsas, e as farei voltar a seus campos, e elas se reproduzirão e multiplicarão. Suscitarei para elas novos pastores que as apascentem; não sofrerão mais o medo e a angústia, nenhuma delas se perderá, diz o Senhor. Eis que virão dias, diz o Senhor, em que farei nascer um descendente de Davi; reinará como rei e será sábio, fará valer a justiça e a retidão na terra. Naqueles dias, Judá será salvo e Israel viverá tranquilo; este é o nome com que o chamarão: 'Senhor, nossa Justiça'."
        ]
       ]
      },
@@ -7080,7 +7080,7 @@
         "e pratica a justiça fielmente;"
        ],
        [
-        "aque pensa a verdade no seu íntimo"
+        "que pensa a verdade no seu íntimo"
        ],
        [
         "e não solta em calúnias sua língua."

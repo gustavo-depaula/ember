@@ -1187,6 +1187,14 @@
    ]
   },
   {
+   "id": "sanctorale.07-09.brazil",
+   "month": 7,
+   "day": 9,
+   "regions": [
+    "brazil"
+   ]
+  },
+  {
    "id": "sanctorale.07-09",
    "month": 7,
    "day": 10,
@@ -1485,6 +1493,14 @@
    "day": 13
   },
   {
+   "id": "sanctorale.08-13.brazil",
+   "month": 8,
+   "day": 13,
+   "regions": [
+    "brazil"
+   ]
+  },
+  {
    "id": "sanctorale.08-14",
    "month": 8,
    "day": 14
@@ -1561,6 +1577,15 @@
    "id": "sanctorale.08-23",
    "month": 8,
    "day": 23
+  },
+  {
+   "id": "sanctorale.08-23",
+   "month": 8,
+   "day": 23,
+   "regions": [
+    "brazil"
+   ],
+   "precedence": 8
   },
   {
    "id": "sanctorale.08-24",
@@ -2296,6 +2321,14 @@
    ]
   },
   {
+   "id": "sanctorale.11-19.brazil",
+   "month": 11,
+   "day": 19,
+   "regions": [
+    "brazil"
+   ]
+  },
+  {
    "id": "sanctorale.11-19.paraguay",
    "month": 11,
    "day": 19,
@@ -2438,6 +2471,15 @@
    "id": "sanctorale.12-12",
    "month": 12,
    "day": 12
+  },
+  {
+   "id": "sanctorale.12-12",
+   "month": 12,
+   "day": 12,
+   "regions": [
+    "brazil"
+   ],
+   "precedence": 8
   },
   {
    "id": "sanctorale.12-13",
@@ -4252,7 +4294,7 @@
    "title": {
     "*": "São José de Anchieta, presbítero"
    },
-   "precedence": 12,
+   "precedence": 10,
    "lectionary": "sanctorale.06-09.brazil",
    "color": "white"
   },
@@ -4794,7 +4836,7 @@
    "title": {
     "*": "Bem-aventurado Inácio de Azevedo, presbítero, e seus companheiros, mártires"
    },
-   "precedence": 12,
+   "precedence": 10,
    "lectionary": "sanctorale.07-17.brazil",
    "color": "red"
   },
@@ -5969,9 +6011,9 @@
   "sanctorale.10-03.brazil": {
    "kind": "sanctoral",
    "title": {
-    "*": "Beatos mártires André de Soveral e companheiros mártires"
+    "*": "Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires"
    },
-   "precedence": 12,
+   "precedence": 10,
    "color": "red"
   },
   "sanctorale.10-03.spain": {
@@ -6423,9 +6465,9 @@
   "sanctorale.10-25.brazil": {
    "kind": "sanctoral",
    "title": {
-    "*": "Santo Antônio de Santana Galvão"
+    "*": "Santo Antônio de Sant'Ana Galvão, religioso"
    },
-   "precedence": 12,
+   "precedence": 10,
    "color": "white"
   },
   "sanctorale.10-28": {
@@ -6620,7 +6662,7 @@
     "fr": "DÉDICACE DE LA BASILIQUE DU LATRAN",
     "de": "WEIHETAG DER LATERANBASILIKA"
    },
-   "precedence": 7,
+   "precedence": 5,
    "lectionary": "sanctorale.11-09",
    "color": "white"
   },
@@ -9784,6 +9826,30 @@
     "de": "HERRENFESTE IM JAHRESKREIS — Freitag der 3. Woche nach Pfingsten — HEILIGSTES HERZ JESU"
    },
    "precedence": 3
+  },
+  "sanctorale.07-09.brazil": {
+   "kind": "sanctoral",
+   "title": {
+    "*": "Santa Paulina do Coração Agonizante de Jesus, virgem"
+   },
+   "precedence": 10,
+   "color": "white"
+  },
+  "sanctorale.08-13.brazil": {
+   "kind": "sanctoral",
+   "title": {
+    "*": "Santa Dulce Lopes Pontes, virgem"
+   },
+   "precedence": 10,
+   "color": "white"
+  },
+  "sanctorale.11-19.brazil": {
+   "kind": "sanctoral",
+   "title": {
+    "*": "Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires"
+   },
+   "precedence": 10,
+   "color": "red"
   }
  },
  "lectionary": {

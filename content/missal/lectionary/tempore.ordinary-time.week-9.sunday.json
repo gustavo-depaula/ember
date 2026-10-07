@@ -153,7 +153,7 @@
       "k": "p",
       "lines": [
        [
-        "Eis que ponho diante de vós a benção e a maldição."
+        "Eis que ponho diante de vós a bênção e a maldição."
        ]
       ],
       "role": "summary"
@@ -172,7 +172,7 @@
       "k": "p",
       "lines": [
        [
-        "Moisés falou ao povo dizendo: Incuti estas minhas palavras em vosso coração e em vossa alma; amarrai-as, como sinal, em vossas mãos e colocai-as como faixas sobre a testa. Eis que ponho diante de vós benção e maldição; a benção, se obedecerdes aos mandamentos do Senhor vosso Deus, que hoje vos prescrevo; a maldição, se desobedecerdes aos mandamentos do Senhor vosso Deus e vos afastardes do caminho que hoje vos prescrevo, para seguirdes outros deuses que não conhecíeis. Tende, pois, grande cuidado em cumprir todos os preceitos e decretos que hoje vos proponho."
+        "Moisés falou ao povo dizendo: Incuti estas minhas palavras em vosso coração e em vossa alma; amarrai-as, como sinal, em vossas mãos e colocai-as como faixas sobre a testa. Eis que ponho diante de vós bênção e maldição; a bênção, se obedecerdes aos mandamentos do Senhor vosso Deus, que hoje vos prescrevo; a maldição, se desobedecerdes aos mandamentos do Senhor vosso Deus e vos afastardes do caminho que hoje vos prescrevo, para seguirdes outros deuses que não conhecíeis. Tende, pois, grande cuidado em cumprir todos os preceitos e decretos que hoje vos proponho."
        ]
       ]
      },
@@ -5070,7 +5070,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5180,7 +5180,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5501,7 +5501,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5714,7 +5714,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -5824,7 +5824,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6029,7 +6029,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6139,7 +6139,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {

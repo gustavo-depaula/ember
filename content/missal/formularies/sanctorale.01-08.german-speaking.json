@@ -58,45 +58,6 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Commune-Texte für Glaubensboten:"
-        },
-        " ",
-        {
-         "m": "link",
-         "t": "1",
-         "to": "common.pastors.10"
-        },
-        {
-         "m": "link",
-         "t": "2",
-         "to": "common.pastors.11"
-        },
-        {
-         "m": "link",
-         "t": "3",
-         "to": "common.pastors.12"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": "."
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "title"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [

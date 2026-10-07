@@ -54,6 +54,9 @@ export interface OfDay {
   celebrations: Celebration[]
   // A vigil Mass of tomorrow that may be said this evening.
   anticipated?: MassRef
+  // Where the calendar it was placed by keeps Epiphany, the Ascension and
+  // Corpus Christi.
+  transfers: Transfers
 }
 
 // Every region's calendar at once, for surfaces that show any saint anywhere.
@@ -368,7 +371,8 @@ export function resolveOfDay(
   calendar: MissalCalendar,
   options: ResolveOptions = {},
 ): OfDay {
-  const day = temporalDay(date, transfersFor(options))
+  const transfers = transfersFor(options)
+  const day = temporalDay(date, transfers)
   const all = celebrationsOn(date, calendar, options)
   const temporal = all.find((c) => c.kind === 'tempore') as Celebration
   const principal = all[0]
@@ -395,7 +399,8 @@ export function resolveOfDay(
         return [principal]
       }
       const optional = new Set(obligatory)
-      return [temporal, ...all.filter((c) => c !== temporal)].map((c) =>
+      // The Immaculate Heart stays first: it is the day's Mass in practice.
+      return all.map((c) =>
         optional.has(c) ? { ...c, precedence: 12, rank: 'optional-memorial' as const } : c,
       )
     }
@@ -416,6 +421,7 @@ export function resolveOfDay(
     // 26-28 December: the temporal cycle has no Mass to offer.
     celebrations: celebrations.filter((c) => c.masses.length > 0),
     ...(day.anticipated ? { anticipated: day.anticipated } : {}),
+    transfers,
   }
 }
 

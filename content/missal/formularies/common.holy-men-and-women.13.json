@@ -386,6 +386,25 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deixai as crianças virem a mim, e não as impeçais; porque o reino de Deus pertence aos que se parecem com elas, diz o Senhor ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " aleluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
     ]
    },
    "part": "entranceAntiphon"
@@ -795,6 +814,16 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
     ]
    },
    "part": "prayerOverOfferings"
@@ -920,6 +949,21 @@
          "t": "N."
         },
         " dir weihen. Die Opferfeier, an der wir teilnehmen, schenke uns die Gnade, durch gute Taten deine Liebe zu bezeugen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Na comemoração de São ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", aceitai, Senhor, a oblação do vosso povo eleito e concedei que, pela participação neste mistério, nos tornemos testemunhas da vossa caridade. Por Cristo, nosso Senhor."
        ]
       ]
      }
@@ -1059,6 +1103,17 @@
       ],
       "cite": "Mt 18, 3"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Mt 18, 3"
+     }
     ]
    },
    "part": "communionAntiphon"
@@ -1174,6 +1229,25 @@
       "lines": [
        [
         "Wenn ihr nicht umkehrt und wie Kinder werdet, könnt ihr nicht in das Himmelreich kommen."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se não vos converterdes, e não vos tornardes como crianças, não entrareis no reino dos céus, diz o Senhor ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " aleluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
        ]
       ]
      }
@@ -1447,6 +1521,16 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
     ]
    },
    "part": "postcommunion"
@@ -1571,6 +1655,21 @@
          "t": "N."
         },
         " die Werke der Barmherzigkeit tun: die Unwissenden lehren, die Trauernden trösten, den Suchenden raten und so allen Menschen auf dem Weg zu dir helfen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus todo-poderoso, esta santa refeição nos ajude para que, a exemplo de São ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", manifestemos no coração e nas obras a caridade fraterna e a luz da verdade. Por Cristo, nosso Senhor."
        ]
       ]
      }

@@ -2331,7 +2331,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -2441,7 +2441,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -2726,7 +2726,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -2948,7 +2948,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -3058,7 +3058,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -3304,7 +3304,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"

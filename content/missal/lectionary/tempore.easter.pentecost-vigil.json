@@ -488,7 +488,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -906,7 +911,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -1385,7 +1395,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 3,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -1821,7 +1836,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 4,
+    "label": "or"
+   }
   },
   {
    "text": {

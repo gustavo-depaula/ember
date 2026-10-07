@@ -2159,7 +2159,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2546,7 +2546,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -2656,7 +2656,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -5892,7 +5892,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, o Espírito levou Jesus para o deserto. E ele ficou no deserto durante quarenta dias, e ali foi tentado por Satanás. Vivia entre os animais selvagens, e os anjos o serviam. Depois que João Batista foi preso, Jesus foi para a Galiléia, pregando o Evangelho de Deus e dizendo: \"O tempo já se completou e o Reino de Deus está próximo. Convertei-vos e crede no Evangelho!\""
+        "Naquele tempo, o Espírito levou Jesus para o deserto. E ele ficou no deserto durante quarenta dias, e ali foi tentado por Satanás. Vivia entre os animais selvagens, e os anjos o serviam. Depois que João Batista foi preso, Jesus foi para a Galileia, pregando o Evangelho de Deus e dizendo: \"O tempo já se completou e o Reino de Deus está próximo. Convertei-vos e crede no Evangelho!\""
        ]
       ]
      },
@@ -7876,7 +7876,7 @@
       "k": "p",
       "lines": [
        [
-        "Profissão de fé dos que crêem em Cristo."
+        "Profissão de fé dos que creem em Cristo."
        ]
       ],
       "role": "summary"

@@ -58,40 +58,6 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Commune-Texte für Ordensleute:"
-        },
-        " ",
-        {
-         "m": "link",
-         "t": "1",
-         "to": "common.holy-men-and-women.10"
-        },
-        {
-         "m": "link",
-         "t": "2",
-         "to": "common.holy-men-and-women.11"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": "."
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "title"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [
