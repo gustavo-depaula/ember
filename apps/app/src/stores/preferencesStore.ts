@@ -8,6 +8,7 @@ import { type ReadingFontId, readingFonts } from '@/config/readingFonts'
 import { getAllPreferences, removePreference, setPreference } from '@/db/repositories/preferences'
 import { defaultTranslationForLanguage, findTranslation } from '@/lib/bibleTranslations'
 import i18n from '@/lib/i18n'
+import { detectLanguage } from '@/lib/i18n/detectLanguage'
 
 type PsalterCycle = '30-day'
 type ThemePreference = 'light' | 'dark' | 'system'
@@ -81,15 +82,19 @@ type PreferencesState = {
   hydrate: () => Promise<void>
 }
 
+// Until a language is saved, i18n runs in the device's language; the store starts
+// from the same detection so the settings never show one language over another.
+const initialLanguage = detectLanguage()
+
 export const usePreferencesStore = create<PreferencesState>()(
   immer((set) => ({
-    translation: 'DRB',
+    translation: defaultTranslationForLanguage[initialLanguage] ?? 'DRB',
     psalterCycle: '30-day',
-    language: 'en-US',
+    language: initialLanguage,
     jurisdiction: undefined,
     timeTravelDate: undefined,
     persistedTimeTravelDate: undefined,
-    contentLanguage: 'en-US',
+    contentLanguage: initialLanguage,
     secondaryLanguage: undefined,
     displayMode: 'side-by-side',
     theme: 'system',
