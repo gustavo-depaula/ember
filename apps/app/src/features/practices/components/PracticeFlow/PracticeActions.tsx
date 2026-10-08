@@ -5,7 +5,7 @@ import {
   CalendarCheck,
   CalendarPlus,
   ChevronDown,
-  Ellipsis,
+  CirclePlus,
   FolderPlus,
   Loader,
   Star,
@@ -36,9 +36,10 @@ const sheetHandoffMs = 350
 
 /**
  * Everything the old practice frontispiece did, folded into the prayer page:
- * plan and save act straight from the header; the ⋯ sheet holds the variant
- * list and every action by name, collection and offline included. State lives
- * here so the header row and the sheets (outside the scroll view) share it.
+ * the header keeps how the page is set and a ⊕; the sheet it opens holds the
+ * variant list and every action by name — plan, save, collection, offline.
+ * State lives here so the header row and the sheets (outside the scroll view)
+ * share it.
  */
 export function usePracticeActions(manifest: PracticeManifest) {
   const router = useRouter()
@@ -135,47 +136,23 @@ export function PracticeVariant({ actions }: { actions: Actions }) {
 }
 
 /**
- * The two actions everyone reads — add to plan, save — then how the page is
- * set (reading & language) and ⋯ for the rest. The plan icon is a calendar: a
- * bare ✓ read as "mark this prayer as prayed".
+ * How the page is set (reading & language), then ⊕ for everything that adds
+ * the practice somewhere: the plan, the saved list, a collection, the device.
  */
 export function PracticeActionIcons({ actions }: { actions: Actions }) {
   const { t } = useTranslation()
-  const { plan, save } = actions
 
   return (
     <XStack gap={26} alignItems="center">
       <Glyph
-        icon={plan.isInPlan ? CalendarCheck : CalendarPlus}
-        active={plan.isInPlan}
-        onPress={actions.onPlan}
-        accessibilityRole={plan.isInPlan ? 'link' : 'button'}
-        accessibilityLabel={plan.isInPlan ? t('catalog.alreadyInPlan') : t('catalog.addToPlan')}
-        testID="add-to-plan-button"
-      />
-      <Glyph
-        icon={Star}
-        filled={save.saved}
-        active={save.saved}
-        disabled={save.isWorking}
-        onPress={actions.onSave}
-        accessibilityRole="switch"
-        accessibilityState={{ checked: save.saved, busy: save.isWorking }}
-        accessibilityLabel={save.saved ? t('library.saved') : t('library.save')}
-      />
-      <Glyph
         icon={Type}
-        active={false}
         onPress={actions.openSettings}
-        accessibilityRole="button"
         accessibilityLabel={t('a11y.readingSettings')}
         testID="reading-settings"
       />
       <Glyph
-        icon={Ellipsis}
-        active={false}
+        icon={CirclePlus}
         onPress={actions.openSheet}
-        accessibilityRole="button"
         accessibilityLabel={t('a11y.practiceMore')}
         testID="practice-more"
       />
@@ -185,46 +162,30 @@ export function PracticeActionIcons({ actions }: { actions: Actions }) {
 
 function Glyph({
   icon: Icon,
-  active,
-  filled = false,
-  disabled,
   onPress,
-  accessibilityRole,
-  accessibilityState,
   accessibilityLabel,
   testID,
 }: {
-  icon: ComponentType<{ size?: number; color?: string; fill?: string; strokeWidth?: number }>
-  active: boolean
-  filled?: boolean
-  disabled?: boolean
+  icon: ComponentType<{ size?: number; color?: string; strokeWidth?: number }>
   onPress: () => void
-  accessibilityRole: 'button' | 'switch' | 'link'
-  accessibilityState?: { checked?: boolean; busy?: boolean }
   accessibilityLabel: string
-  testID?: string
+  testID: string
 }) {
   const theme = useTheme()
-  const ink = active ? theme.color.val : theme.colorSecondary.val
   return (
     <Pressable
       onPress={onPress}
-      disabled={disabled}
       hitSlop={12}
-      accessibilityRole={accessibilityRole}
-      accessibilityState={accessibilityState}
-      aria-checked={accessibilityState?.checked}
-      aria-busy={accessibilityState?.busy}
+      accessibilityRole="button"
       accessibilityLabel={accessibilityLabel}
       testID={testID}
-      style={{ opacity: disabled ? 0.5 : 1 }}
     >
-      <Icon size={22} strokeWidth={1.5} color={ink} fill={filled ? ink : 'transparent'} />
+      <Icon size={22} strokeWidth={1.5} color={theme.colorSecondary.val} />
     </Pressable>
   )
 }
 
-/** The ⋯ sheet, plus the settings, collection and plan editors the header opens. */
+/** The ⊕ sheet, plus the settings, collection and plan editors the header opens. */
 export function PracticeActionSheets({ actions }: { actions: Actions }) {
   const { manifest, plan } = actions
   return (
@@ -314,6 +275,7 @@ function PracticeSheet({ actions }: { actions: Actions }) {
             active={plan.isInPlan}
             onPress={actions.onPlan}
             accessibilityRole={plan.isInPlan ? 'link' : 'button'}
+            testID="add-to-plan-button"
           />
           <LabeledGlyph
             icon={Star}
@@ -410,6 +372,7 @@ function LabeledGlyph({
   onPress,
   accessibilityRole,
   accessibilityState,
+  testID,
 }: {
   icon: ComponentType<{ size?: number; color?: string; fill?: string; strokeWidth?: number }>
   label: string
@@ -419,6 +382,7 @@ function LabeledGlyph({
   onPress: () => void
   accessibilityRole: 'button' | 'switch' | 'link'
   accessibilityState?: { checked?: boolean; busy?: boolean }
+  testID?: string
 }) {
   const theme = useTheme()
   const ink = active ? theme.color.val : theme.colorSecondary.val
@@ -427,6 +391,7 @@ function LabeledGlyph({
       onPress={onPress}
       disabled={disabled}
       hitSlop={8}
+      testID={testID}
       accessibilityRole={accessibilityRole}
       accessibilityState={accessibilityState}
       aria-checked={accessibilityState?.checked}
