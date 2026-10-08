@@ -227,22 +227,6 @@
          "t": "met 2",
          "to": "common.martyrs.9"
         },
-        " ",
-        {
-         "m": "rubric",
-         "t": "ou Tempo pascal:"
-        },
-        " ",
-        {
-         "m": "link",
-         "t": "mtp 1",
-         "to": "common.martyrs.8"
-        },
-        {
-         "m": "link",
-         "t": "mtp 2",
-         "to": "common.martyrs.9"
-        },
         {
          "m": "rubric",
          "t": "."
