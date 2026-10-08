@@ -158,7 +158,7 @@ if (root) {
         element: mapElement,
         api,
         kind,
-        churchHref: (id) => `${churchBase}?id=${encodeURIComponent(id)}`,
+        cardHtml: (church) => churchRowHtml(church, ctx()),
         onChurches: (churches) => {
           if (!input?.value.trim()) show(churches, t('massTimes.emptyHint'))
         },

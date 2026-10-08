@@ -33,7 +33,8 @@ export function mountChurchMap(options: {
   element: HTMLElement
   api: string
   kind: string
-  churchHref: (id: string) => string
+  /** What a pin shows when clicked: the church's row, linking on to its page. */
+  cardHtml: (church: ListedChurch) => string
   onChurches: (churches: ListedChurch[]) => void
 }): ChurchMap {
   const dark =
@@ -51,6 +52,22 @@ export function mountChurchMap(options: {
   let kind = options.kind
   let markers: maplibregl.Marker[] = []
   let request = 0
+  // The card belongs to the map, not to its pin: pins are redrawn on every move.
+  let card: maplibregl.Popup | undefined
+
+  function open(church: ListedChurch) {
+    card?.remove()
+    card = new maplibregl.Popup({
+      offset: 18,
+      closeButton: false,
+      maxWidth: '320px',
+      // MapLibre would focus the card's link, ringing a card opened by mouse.
+      focusAfterOpen: false,
+    })
+      .setLngLat([church.lng, church.lat])
+      .setHTML(options.cardHtml(church))
+      .addTo(map)
+  }
 
   async function refresh() {
     const mine = ++request
@@ -64,9 +81,14 @@ export function mountChurchMap(options: {
     for (const marker of markers) marker.remove()
     markers = []
     for (const church of view.churches) {
-      const pin = document.createElement('a')
+      const pin = document.createElement('button')
+      pin.type = 'button'
       pin.className = 'map-pin'
-      pin.href = options.churchHref(church.id)
+      pin.addEventListener('click', (event) => {
+        // The map would take the same click for one on itself, and close the card it just opened.
+        event.stopPropagation()
+        open(church)
+      })
       pin.title = church.longName ?? church.name
       pin.style.background = pinColor(church.name)
       pin.textContent = '✝'
@@ -98,6 +120,7 @@ export function mountChurchMap(options: {
     centre: () => ({ lat: map.getCenter().lat, lng: map.getCenter().lng }),
     setKind: (next) => {
       kind = next
+      card?.remove()
       void refresh()
     },
   }
