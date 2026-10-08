@@ -268,9 +268,9 @@ describe('Holy Week and the Triduum', () => {
     // The readings stand inside the Liturgy of the Word, not before the rite.
     const text = shown(mass)
     expect(text.indexOf('Liturgia da Palavra')).toBeLessThan(
-      text.indexOf('Leitura do Livro de Isaías'),
+      text.indexOf('Leitura do Livro do Profeta Isaías'),
     )
-    expect(text.indexOf('Leitura do Livro de Isaías')).toBeLessThan(
+    expect(text.indexOf('Leitura do Livro do Profeta Isaías')).toBeLessThan(
       text.indexOf('Adoração da Cruz'),
     )
     // Not a Mass: no Eucharistic Prayer.
