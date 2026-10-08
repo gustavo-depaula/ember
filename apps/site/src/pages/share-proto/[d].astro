@@ -11,7 +11,7 @@ import { bootCorpus } from '~/lib/corpus'
 import { withLocale } from '~/lib/locale'
 
 export function getStaticPaths() {
-  return ['a', 'b', 'c', 'a1', 'a2'].map((d) => ({ params: { d } }))
+  return ['a', 'b', 'c', 'a1', 'a2', 'l1', 'l2', 'l3'].map((d) => ({ params: { d } }))
 }
 const locale = 'pt-BR'
 await bootCorpus()
@@ -76,6 +76,19 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
           <div class="mark">✠ &nbsp;Ember</div>
         </div>}
 
+        {(d === "l1" || d === "l2" || d === "l3") && <div class={`og a x ${d}`} style={`--from:${c.tone.from};--to:${c.tone.to}`}>
+          <div class="main">
+            <div class="stamp"><Cover cover={c.cover} id={c.id} title={c.name} locale={locale} /></div>
+            <div class="txt">
+              <div class="lab">{c.label}</div>
+              <div class="ttl" style={`font-size:${size(c.name, d === "l1" ? 132 : 122, d === "l1" ? 108 : 100, d === "l1" ? 88 : 80)}px`}>{c.name}</div>
+            </div>
+          </div>
+          {d === "l1" && <div class="brand"><img src="/proto/icon.png" alt="" /><div><b>Ember</b><i>Um companheiro para a vida católica de oração</i></div></div>}
+          {d === "l2" && <div class="band"><img src="/proto/icon.png" alt="" /><b>Ember</b><i>Um companheiro para a vida católica de oração</i><span>ember.dpgu.me</span></div>}
+          {d === "l3" && <div class="seal"><img src="/proto/icon.png" alt="" /><b>Ember</b></div>}
+        </div>}
+
         {(!d || d === "b") && <div class="og b" id={`b-${c.slug}`}>
           <img class="fl" src="/proto/header_flourish_light.png" alt="" />
           <div class="hr"><i /><span>✠</span><i /></div>
@@ -125,6 +138,27 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
   .a.x .lab { font-size: 24px; }
   .a2 .ico.solo { width: 44em; height: 44em; stroke-width: 1.25; }
   .a2 .page .v.solo { left: 0; right: 0; width: 100%; top: 20%; font-size: 62em; }
+
+  .l1, .l2, .l3 { display: block !important; padding: 0 !important; }
+  .l1 .main, .l2 .main, .l3 .main { position: absolute; left: 72px; right: 72px; top: 0; display: flex; align-items: center; gap: 64px; }
+  .l1 .main { bottom: 110px; }
+  .l1 .brand { position: absolute; left: 72px; right: 72px; bottom: 44px; display: flex; align-items: center; gap: 22px; padding-top: 26px; border-top: 1px solid rgba(232,201,122,.35); z-index: 2; }
+  .l1 .brand img { width: 84px; height: 84px; border-radius: 19px; box-shadow: 0 4px 14px rgba(0,0,0,.35); }
+  .l1 .brand b { display: block; font-family: var(--font-title); font-weight: 500; font-size: 46px; line-height: 1; }
+  .l1 .brand i { display: block; font-family: var(--font-body); font-size: 25px; opacity: .72; margin-top: 6px; }
+
+  .l2 .main { bottom: 124px; }
+  .l2 .band { position: absolute; left: 0; right: 0; bottom: 0; height: 124px; background: #F4E7CD; color: #2c2418; display: flex; align-items: center; gap: 20px; padding: 0 72px; box-sizing: border-box; border-top: 4px solid #e8c97a; z-index: 2; }
+  .l2 .band img { height: 124px; width: 124px; margin-left: -18px; }
+  .l2 .band b { font-family: var(--font-title); font-weight: 500; font-size: 52px; }
+  .l2 .band i { font-family: var(--font-body); font-size: 27px; color: #6b5d4f; margin-left: 8px; flex: 1; }
+  .l2 .band span { font-family: var(--font-heading); letter-spacing: .2em; text-transform: uppercase; font-size: 18px; color: #6b1d2a; }
+
+  .l3 .main { bottom: 0; right: 290px; }
+  .l3 .seal { position: absolute; right: 72px; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; align-items: center; gap: 18px; z-index: 2; }
+  .l3 .seal img { width: 190px; height: 190px; border-radius: 50%; border: 3px solid #e8c97a; outline: 1px solid rgba(232,201,122,.5); outline-offset: 7px; box-shadow: 0 8px 24px rgba(0,0,0,.4); object-fit: cover; }
+  .l3 .seal b { font-family: var(--font-heading); font-weight: 400; letter-spacing: .3em; text-transform: uppercase; font-size: 26px; color: #e8c97a; margin-top: 8px; }
+  .l3 .stamp { width: 290px !important; }
 
   /* B — the devocionário title page, as the prayer opens in the app */
   .b { background: #faf6f0; color: #2c2418; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 90px; box-sizing: border-box; text-align: center; }
