@@ -643,6 +643,39 @@ function readingsInOrder(plan: MassPlan, ctx: RenderContext): Primitive[] {
   return readingOrder.flatMap((part) => partBlock(part, plan, ctx))
 }
 
+/**
+ * The day's proper as a daily missal sets it out, without the Order of Mass
+ * around it: the entrance antiphon, the collect, the readings and the
+ * communion antiphon.
+ */
+export function buildProper(plan: MassPlan, lang: LangPrefs): Primitive[] {
+  const ctx: RenderContext = { lang, conditions: new Set(plan.conditions) }
+  const readings = readingsInOrder(plan, ctx)
+  return [
+    {
+      type: 'container',
+      behavior: { kind: 'color-scope', color: plan.celebration.color },
+      children: [
+        ...banner(plan, lang),
+        ...description(plan, ctx),
+        ...partBlock('entranceAntiphon', plan, ctx),
+        ...partBlock('collect', plan, ctx),
+        // The Easter Vigil's readings are not parts: its rite places each one.
+        ...(readings.length > 0
+          ? readings
+          : withAlternatives((plan.lectionary?.items ?? []).filter(ofCycle(plan)), ctx)),
+        ...partBlock('communionAntiphon', plan, ctx),
+      ],
+    },
+  ]
+}
+
+// Whether an item is read this year: one filed under a cycle is read in that cycle only.
+function ofCycle(plan: MassPlan): (item: Item) => boolean {
+  const cycles = new Set<string>([plan.day.cycle, plan.day.weekdayCycle])
+  return (item) => !item.cycle || cycles.has(item.cycle)
+}
+
 /** Items in order, with each run of alternatives ("or", short and long forms) behind one selector. */
 function withAlternatives(items: Item[], ctx: RenderContext): Primitive[] {
   const out: Primitive[] = []
@@ -679,8 +712,7 @@ function withAlternatives(items: Item[], ctx: RenderContext): Primitive[] {
  * Eucharist. The readings stand where the rite marks them.
  */
 function straightThrough(plan: MassPlan, ctx: RenderContext): Primitive[] {
-  const cycles = new Set<string>([plan.day.cycle, plan.day.weekdayCycle])
-  const today = (item: Item) => !item.cycle || cycles.has(item.cycle)
+  const today = ofCycle(plan)
   const out: Primitive[] = []
   let pending: Item[] = []
   let readingsPlaced = false

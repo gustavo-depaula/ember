@@ -1,0 +1,9 @@
+{
+  "sections": [
+    {
+      "type": "include",
+      "ref": "producer/mass-proper-of",
+      "params": {}
+    }
+  ]
+}

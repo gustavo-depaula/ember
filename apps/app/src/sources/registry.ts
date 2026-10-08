@@ -5,7 +5,7 @@ import { doHourSource } from './divinum-officium/do-hour'
 import { doMassSource } from './divinum-officium/do-mass'
 import { breviarySource, officeOfReadingsReadingSource } from './ibreviary'
 import { lothHourSource } from './loth/source'
-import { missalMassSource } from './missal-mass'
+import { missalMassSource, missalProperSource } from './missal-mass'
 import { opusDeiGospelCommentarySource, opusDeiMeditationSource } from './opus-dei'
 import { psalmodySource } from './psalmody'
 import type { ContentSource } from './types'
@@ -32,6 +32,7 @@ registerSource(psalmodySource)
 registerSource(gospelOfTheDaySource as ContentSource)
 registerSource(wordOfThePopeSource as ContentSource)
 registerSource(missalMassSource as ContentSource)
+registerSource(missalProperSource as ContentSource)
 registerSource(doMassSource as ContentSource)
 registerSource(doHourSource as ContentSource)
 registerSource(breviarySource as ContentSource)

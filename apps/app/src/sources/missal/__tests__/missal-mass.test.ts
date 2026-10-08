@@ -25,7 +25,7 @@ vi.mock('@/lib/missal/loaders', () => ({
   },
 }))
 
-const { missalMassSource } = await import('../../missal-mass')
+const { missalMassSource, missalProperSource } = await import('../../missal-mass')
 
 // A Brazilian reader by default; `lang` alone changes the language, not the
 // calendar. `null` is a reader with no calendar region set.
@@ -41,6 +41,16 @@ async function massOn(
     params: {},
   }
   return missalMassSource.fetch(ctx as unknown as SourceFetchContext)
+}
+
+async function properOn(iso: string, lang = 'pt-BR'): Promise<Primitive[]> {
+  const [y, m, d] = iso.split('-').map(Number)
+  const ctx = {
+    date: new Date(y, m - 1, d, 12),
+    prefs: { lang, translation: '', jurisdiction: 'BR' },
+    params: {},
+  }
+  return missalProperSource.fetch(ctx as unknown as SourceFetchContext)
 }
 
 type Select = Extract<Extract<Primitive, { type: 'container' }>['behavior'], { kind: 'select' }>
@@ -329,5 +339,52 @@ describe('what the corpus must not show', () => {
     for (const select of selects(await massOn('2026-01-22'))) {
       for (const option of select.options) expect(option.children.length).toBeGreaterThan(0)
     }
+  })
+})
+
+describe("the day's proper alone", () => {
+  it('is the antiphons, the collect and the readings, without the Order of Mass', async () => {
+    const text = shown(await properOn('2026-10-08'))
+    const at = [
+      'Antífona da entrada',
+      'Deus eterno e todo-poderoso',
+      'Carta de São Paulo aos Gálatas',
+      'Salmo Responsorial',
+      'segundo Lucas',
+      'Antífona da comunhão',
+    ].map((part) => text.indexOf(part))
+    expect(at.every((n) => n >= 0)).toBe(true)
+    expect(at).toEqual([...at].sort((a, b) => a - b))
+    expect(text).not.toContain('Santo, Santo, Santo')
+    expect(text).not.toContain('Sobre as oferendas')
+  })
+
+  it('offers the same Masses as the Mass, under the same choice', async () => {
+    for (const iso of ['2026-12-25', '2026-04-02', '2026-08-04']) {
+      const ids = (list: Primitive[]) => selectOf(list, 'missal.mass')?.options.map((o) => o.id)
+      expect(ids(await properOn(iso))).toEqual(ids(await massOn(iso)))
+    }
+  })
+
+  it('reads the Easter Vigil through all its readings', async () => {
+    const text = shown(await properOn('2026-04-04'))
+    expect(text.indexOf('Livro do Gênesis')).toBeGreaterThan(0)
+    expect(text.indexOf('Livro do Gênesis')).toBeLessThan(text.indexOf('Livro do Êxodo'))
+    expect(text.indexOf('Livro do Êxodo')).toBeLessThan(text.indexOf('Epístola'))
+    expect(text).toContain('segundo São Mateus')
+  })
+
+  it('has a Gospel every day of a year', async () => {
+    const without: string[] = []
+    for (
+      let date = new Date(2026, 0, 1, 12);
+      date.getFullYear() === 2026;
+      date.setDate(date.getDate() + 1)
+    ) {
+      const iso = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`
+      const text = shown(await properOn(iso))
+      if (!/segundo (São )?(Mateus|Marcos|Lucas|João)/.test(text)) without.push(iso)
+    }
+    expect(without).toEqual([])
   })
 })

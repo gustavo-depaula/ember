@@ -71,6 +71,10 @@
 				},
 				{
 					"kind": "item",
+					"ref": "practice/daily-liturgy"
+				},
+				{
+					"kind": "item",
 					"ref": "practice/grace-meals"
 				},
 				{
