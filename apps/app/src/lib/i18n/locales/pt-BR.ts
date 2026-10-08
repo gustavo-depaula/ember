@@ -1424,6 +1424,7 @@ export default {
     noContent: 'Esta prática ainda não tem conteúdo de oração disponível.',
     loadingContent: 'Carregando…',
     contentLoadFailed: 'Não foi possível carregar a oração de hoje. Tente novamente.',
+    shareFailed: 'Não foi possível abrir o compartilhamento.',
     completionSyncFailed: 'Não foi possível atualizar seu progresso',
     completionSyncFailedDesc:
       'Sua oração foi registrada, mas não conseguimos avançar para o próximo dia. Tente novamente mais tarde.',
@@ -1506,6 +1507,7 @@ export default {
     ruleEditReminder: 'Mudar o lembrete',
     ruleEditForm: 'Mudar a forma',
     practiceMore: 'Mais opções',
+    sharePractice: 'Compartilhar o link desta oração',
     makeStanding: 'Levar sempre “{{text}}” nesta oração',
     unmakeStanding: 'Não levar mais sempre “{{text}}” nesta oração',
     dropFromToday: 'Não levar “{{text}}” hoje',

@@ -8,12 +8,13 @@ import {
   CirclePlus,
   FolderPlus,
   Loader,
+  Share as ShareIcon,
   Star,
   Type,
 } from 'lucide-react-native'
 import { type ComponentType, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, useWindowDimensions } from 'react-native'
+import { Alert, Platform, Pressable, Share, useWindowDimensions } from 'react-native'
 import { ScrollView, useTheme, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
@@ -28,6 +29,7 @@ import { usePinToggle } from '@/features/pinning/hooks'
 import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSettingsSheet'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
+import { practiceWebUrl } from '@/lib/webLinks'
 import { PracticePlanEditor, usePracticePlan } from '../PracticePlan'
 
 // Two native sheets (or a sheet and a Modal) can't present at once on iOS; the
@@ -42,6 +44,7 @@ const sheetHandoffMs = 350
  * share it.
  */
 export function usePracticeActions(manifest: PracticeManifest) {
+  const { t, i18n } = useTranslation()
   const router = useRouter()
   const plan = usePracticePlan(manifest)
   const save = useSaveToggle(manifest.id, 'practice')
@@ -77,6 +80,17 @@ export function usePracticeActions(manifest: PracticeManifest) {
       setSettingsOpen(true)
     },
     closeSettings: () => setSettingsOpen(false),
+    onShare: () => {
+      lightTap()
+      const url = practiceWebUrl(manifest.id, i18n.language)
+      // iOS previews a `url` in the share sheet; Android's intent carries text.
+      const content =
+        Platform.OS === 'ios' ? { url } : { message: url, title: localizeContent(manifest.name) }
+      Share.share(content).catch((error: Error) => {
+        // The web's share dialog rejects when it is dismissed.
+        if (error.name !== 'AbortError') Alert.alert(t('practice.shareFailed'))
+      })
+    },
     onPlan: () =>
       afterSheet(() => {
         if (!plan.isInPlan) return plan.addToPlan()
@@ -136,8 +150,9 @@ export function PracticeVariant({ actions }: { actions: Actions }) {
 }
 
 /**
- * How the page is set (reading & language), then ⊕ for everything that adds
- * the practice somewhere: the plan, the saved list, a collection, the device.
+ * How the page is set (reading & language), the link to send a friend, then ⊕
+ * for everything that adds the practice somewhere: the plan, the saved list, a
+ * collection, the device.
  */
 export function PracticeActionIcons({ actions }: { actions: Actions }) {
   const { t } = useTranslation()
@@ -149,6 +164,12 @@ export function PracticeActionIcons({ actions }: { actions: Actions }) {
         onPress={actions.openSettings}
         accessibilityLabel={t('a11y.readingSettings')}
         testID="reading-settings"
+      />
+      <Glyph
+        icon={ShareIcon}
+        onPress={actions.onShare}
+        accessibilityLabel={t('a11y.sharePractice')}
+        testID="share-practice"
       />
       <Glyph
         icon={CirclePlus}
