@@ -16,6 +16,7 @@
         "tinted": "./assets/icon-tinted.png"
       },
       "bundleIdentifier": "me.dpgu.ember",
+      "appleTeamId": "F3D9WF9H7X",
       "associatedDomains": ["applinks:ember.dpgu.me"],
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
