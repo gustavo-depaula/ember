@@ -3180,9 +3180,10 @@
     "pt-BR": [
      {
       "k": "p",
+      "role": "summary",
       "lines": [
        [
-        "Naquele tempo, um dos doze discípulos, chamado Judas Iscariotes, foi ter com os sumos sacerdotes e disse: “O que me dareis se vos entregar Jesus?” Combinaram, então, trinta moedas de prata. E daí em diante, Judas procurava uma oportunidade para entregar Jesus. No primeiro dia da festa dos ázimos, os discípulos aproximaram-se de Jesus e perguntaram: “Onde queres que façamos os preparativos para comer a Páscoa?” Jesus respondeu: “Ide à cidade, procurai certo homem e dizei-lhe: 'O Mestre manda dizer: o meu tempo está próximo, vou celebrar a Páscoa em tua casa, junto com meus discípulos'”."
+        "O que me dareis se vos entregar Jesus?"
        ]
       ]
      },
@@ -3190,7 +3191,34 @@
       "k": "p",
       "lines": [
        [
-        "Os discípulos fizeram como Jesus mandou e prepararam a Páscoa. Ao cair da tarde, Jesus pôs-se à mesa com os doze discípulos. Enquanto comiam, Jesus disse: “Em verdade eu vos digo, um de vós vai me trair”. Eles ficaram muito tristes e, um por um, começaram a lhe perguntar: “Senhor, será que sou eu?” Jesus respondeu: “Quem vai me trair é aquele que comigo põe a mão no prato. O Filho do Homem vai morrer, conforme diz a Escritura a respeito dele. Contudo, ai daquele que trair o Filho do Homem! Seria melhor que nunca tivesse nascido!” Então Judas, o traidor, perguntou: “Mestre, serei eu?”"
+        "Naquele tempo,"
+       ],
+       [
+        "Um dos doze discípulos, chamado Judas Iscariotes,"
+       ],
+       [
+        "foi ter com os sumos sacerdotes"
+       ],
+       [
+        "e disse: \"O que me dareis se vos entregar Jesus?\""
+       ],
+       [
+        "Combinaram, então, trinta moedas de prata."
+       ],
+       [
+        "E daí em diante, Judas procurava uma oportunidade"
+       ],
+       [
+        "para entregar Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Onde queres que façamos os preparativos para comer a Páscoa?"
        ]
       ]
      },
@@ -3198,7 +3226,49 @@
       "k": "p",
       "lines": [
        [
-        "Jesus lhe respondeu: “Tu o dizes”. Enquanto comiam, Jesus tomou um pão e, tendo pronunciado a bênção, partiu-o, distribuiu-o aos discípulos, e disse: “Tomai e comei, isto é o meu corpo”. Em seguida, tomou um cálice, deu graças e entregou-lhes, dizendo: “Bebei dele todos. Pois isto é o meu sangue, o sangue da aliança, que é derramado em favor de muitos, para remissão dos pecados. Eu vos digo: de hoje em diante não beberei deste fruto da videira, até ao dia em que, convosco, beberei o vinho novo no Reino do meu Pai”. Depois de terem cantado salmos, foram para o monte das Oliveiras."
+        "No primeiro dia da festa dos ázimos,"
+       ],
+       [
+        "os discípulos aproximaram-se de Jesus"
+       ],
+       [
+        "e perguntaram:"
+       ],
+       [
+        "\"Onde queres que façamos os preparativos"
+       ],
+       [
+        "para comer a Páscoa?\""
+       ],
+       [
+        "Jesus respondeu: \"Ide à cidade,"
+       ],
+       [
+        "procurai certo homem e dizei-lhe:"
+       ],
+       [
+        "'O Mestre manda dizer: o meu tempo está próximo,"
+       ],
+       [
+        "vou celebrar a Páscoa em tua casa,"
+       ],
+       [
+        "junto com meus discípulos'\"."
+       ],
+       [
+        "Os discípulos fizeram como Jesus mandou"
+       ],
+       [
+        "e prepararam a Páscoa."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Um de vós vai me trair."
        ]
       ]
      },
@@ -3206,7 +3276,64 @@
       "k": "p",
       "lines": [
        [
-        "Então Jesus disse aos discípulos: “Esta noite, vós ficareis decepcionados por minha causa. Pois assim diz a Escritura: 'Ferirei o pastor e as ovelhas do rebanho se dispersarão'. Mas, depois de ressuscitar, eu irei à vossa frente para a Galileia”. Disse Pedro a Jesus: “Ainda que todos fiquem decepcionados por tua causa, eu jamais ficarei”. Jesus lhe declarou: “Em verdade eu te digo, que, esta noite, antes que o galo cante, tu me negarás três vezes”. Pedro respondeu: “Ainda que eu tenha de morrer contigo, mesmo assim não te negarei”. E todos os discípulos disseram a mesma coisa."
+        "Ao cair da tarde, Jesus pôs-se à mesa"
+       ],
+       [
+        "com os doze discípulos."
+       ],
+       [
+        "Enquanto comiam, Jesus disse:"
+       ],
+       [
+        "\"Em verdade eu vos digo, um de vós vai me trair\"."
+       ],
+       [
+        "Eles ficaram muito tristes"
+       ],
+       [
+        "e, um por um, começaram a lhe perguntar:"
+       ],
+       [
+        "\"Senhor, será que sou eu?\""
+       ],
+       [
+        "Jesus respondeu:"
+       ],
+       [
+        "\"Quem vai me trair é aquele"
+       ],
+       [
+        "que comigo põe a mão no prato."
+       ],
+       [
+        "O Filho do Homem vai morrer,"
+       ],
+       [
+        "conforme diz a Escritura a respeito dele."
+       ],
+       [
+        "Contudo, ai daquele que trair o Filho do Homem!"
+       ],
+       [
+        "Seria melhor que nunca tivesse nascido!\""
+       ],
+       [
+        "Então Judas, o traidor, perguntou:"
+       ],
+       [
+        "\"Mestre, serei eu?\""
+       ],
+       [
+        "Jesus lhe respondeu: \"Tu o dizes\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Isto é o meu corpo. Isto é o meu sangue."
        ]
       ]
      },
@@ -3214,7 +3341,61 @@
       "k": "p",
       "lines": [
        [
-        "Então Jesus foi com eles a um lugar chamado Getsêmani, e disse: “Sentai-vos aqui, enquanto eu vou até ali para rezar!” Jesus levou consigo Pedro e os dois filhos de Zebedeu, e começou a ficar triste e angustiado. Então Jesus lhes disse: “Minha alma está triste até à morte. Ficai aqui e vigiai comigo!” Jesus foi um pouco mais adiante, prostrou-se com o rosto por terra e rezou: “Meu Pai, se é possível, afaste-se de mim este cálice. Contudo, não seja feito como eu quero, mas sim como tu queres”."
+        "Enquanto comiam, Jesus tomou um pão"
+       ],
+       [
+        "e, tendo pronunciado a bênção,"
+       ],
+       [
+        "partiu-o, distribuiu-o aos discípulos,"
+       ],
+       [
+        "e disse: \"Tomai e comei, isto é o meu corpo\"."
+       ],
+       [
+        "Em seguida, tomou um cálice,"
+       ],
+       [
+        "deu graças e entregou-lhes, dizendo:"
+       ],
+       [
+        "\"Bebei dele todos."
+       ],
+       [
+        "Pois isto é o meu sangue, o sangue da aliança,"
+       ],
+       [
+        "que é derramado em favor de muitos,"
+       ],
+       [
+        "para remissão dos pecados."
+       ],
+       [
+        "Eu vos digo: de hoje em diante"
+       ],
+       [
+        "não beberei deste fruto da videira,"
+       ],
+       [
+        "até ao dia em que, convosco, beberei o vinho novo"
+       ],
+       [
+        "no Reino do meu Pai\"."
+       ],
+       [
+        "Depois de terem cantado salmos,"
+       ],
+       [
+        "foram para o monte das Oliveiras."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Ferirei o pastor e as ovelhas do rebanho se dispersarão."
        ]
       ]
      },
@@ -3222,7 +3403,64 @@
       "k": "p",
       "lines": [
        [
-        "Voltando para junto dos discípulos, Jesus encontrou-os dormindo, e disse a Pedro: “Vós não fostes capazes de fazer uma hora de vigília comigo? Vigiai e rezai, para não cairdes em tentação; pois o espírito está pronto, mas a carne é fraca”. Jesus se afastou pela segunda vez e rezou: “Meu Pai, se este cálice não pode passar sem que eu o beba, seja feita a tua vontade!” Ele voltou de novo e encontrou os discípulos dormindo, porque seus olhos estavam pesados de sono. Deixando-os, Jesus afastou-se e rezou pela terceira vez, repetindo as mesmas palavras."
+        "Então Jesus disse aos discípulos:"
+       ],
+       [
+        "\"Esta noite,"
+       ],
+       [
+        "vós ficareis decepcionados por minha causa."
+       ],
+       [
+        "Pois assim diz a Escritura: 'Ferirei o pastor"
+       ],
+       [
+        "e as ovelhas do rebanho se dispersarão'."
+       ],
+       [
+        "Mas, depois de ressuscitar,"
+       ],
+       [
+        "eu irei à vossa frente para a Galileia\"."
+       ],
+       [
+        "Disse Pedro a Jesus:"
+       ],
+       [
+        "\"Ainda que todos fiquem decepcionados por tua causa,"
+       ],
+       [
+        "eu jamais ficarei\"."
+       ],
+       [
+        "Jesus lhe declarou:"
+       ],
+       [
+        "\"Em verdade eu te digo, que, esta noite,"
+       ],
+       [
+        "antes que o galo cante, tu me negarás três vezes\"."
+       ],
+       [
+        "Pedro respondeu:"
+       ],
+       [
+        "\"Ainda que eu tenha de morrer contigo,"
+       ],
+       [
+        "mesmo assim não te negarei\"."
+       ],
+       [
+        "E todos os discípulos disseram a mesma coisa."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Começou a ficar triste e angustiado."
        ]
       ]
      },
@@ -3230,7 +3468,109 @@
       "k": "p",
       "lines": [
        [
-        "Então voltou para junto dos discípulos e disse: “Agora podeis dormir e descansar. Eis que chegou a hora e o Filho do Homem é entregue nas mãos dos pecadores. Levantai-vos! Vamos! Aquele que me vai trair, já está chegando”. Jesus ainda falava, quando veio Judas, um dos Doze, com uma grande multidão armada de espadas e paus. Vinham a mandado dos sumos sacerdotes e dos anciãos do povo. O traidor tinha combinado com eles um sinal, dizendo: “Jesus é aquele que eu beijar; prendei-o!” Judas, logo se aproximou de Jesus, dizendo: “Salve, Mestre!” E beijou-o. Jesus lhe disse: “Amigo, a que vieste?”"
+        "Então Jesus foi com eles a um lugar chamado Getsêmani,"
+       ],
+       [
+        "e disse: \"Sentai-vos aqui,"
+       ],
+       [
+        "enquanto eu vou até ali para rezar!\""
+       ],
+       [
+        "Jesus levou consigo Pedro e os dois filhos de Zebedeu,"
+       ],
+       [
+        "e começou a ficar triste e angustiado."
+       ],
+       [
+        "Então Jesus lhes disse:"
+       ],
+       [
+        "\"Minha alma está triste até á morte."
+       ],
+       [
+        "Ficai aqui e vigiai comigo!\""
+       ],
+       [
+        "Jesus foi um pouco mais adiante,"
+       ],
+       [
+        "prostrou-se com o rosto por terra e rezou:"
+       ],
+       [
+        "\"Meu Pai, se é possível, afaste-se de mim este cálice."
+       ],
+       [
+        "Contudo, não seja feito como eu quero,"
+       ],
+       [
+        "mas sim como tu queres\"."
+       ],
+       [
+        "Voltando para junto dos discípulos,"
+       ],
+       [
+        "Jesus encontrou-os dormindo, e disse a Pedro:"
+       ],
+       [
+        "\"Vós não fostes capazes de fazer"
+       ],
+       [
+        "uma hora de vigília comigo?"
+       ],
+       [
+        "Vigiai e rezai, para não cairdes em tentação;"
+       ],
+       [
+        "pois o espírito está pronto, mas a carne é fraca\"."
+       ],
+       [
+        "Jesus se afastou pela segunda vez e rezou:"
+       ],
+       [
+        "\"Meu Pai, se este cálice não pode passar"
+       ],
+       [
+        "sem que eu o beba, seja feita a tua vontade!\""
+       ],
+       [
+        "Ele voltou de novo e encontrou os discípulos dormindo,"
+       ],
+       [
+        "porque seus olhos estavam pesados de sono."
+       ],
+       [
+        "Deixando-os, Jesus afastou-se e rezou pela terceira vez,"
+       ],
+       [
+        "repetindo as mesmas palavras."
+       ],
+       [
+        "Então voltou para junto dos discípulos e disse:"
+       ],
+       [
+        "\"Agora podeis dormir e descansar."
+       ],
+       [
+        "Eis que chegou a hora"
+       ],
+       [
+        "e o Filho do Homem é entregue nas mãos dos pecadores."
+       ],
+       [
+        "Levantai-vos! Vamos!"
+       ],
+       [
+        "Aquele que me vai trair, já está chegando\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Lançaram as mãos sobre Jesus e o prenderam."
        ]
       ]
      },
@@ -3238,7 +3578,106 @@
       "k": "p",
       "lines": [
        [
-        "Então os outros avançaram lançaram as mãos sobre Jesus e o prenderam. Nesse momento, um dos que estavam com Jesus estendeu a mão, puxou a espada, e feriu o servo do Sumo Sacerdote, cortando-lhe a orelha. Jesus, porém, lhe disse: “Guarda a espada na bainha! pois todos os que usam a espada pela espada morrerão. Ou pensas que eu não poderia recorrer ao meu Pai e ele me mandaria logo mais de doze legiões de anjos? Então, como se cumpririam as Escrituras, que dizem que isso deve acontecer?”"
+        "Jesus ainda falava, quando veio Judas, um dos Doze,"
+       ],
+       [
+        "com uma grande multidão armada de espadas e paus."
+       ],
+       [
+        "Vinham a mandado dos sumos sacerdotes"
+       ],
+       [
+        "e dos anciãos do povo."
+       ],
+       [
+        "O traidor tinha combinado com eles um sinal, dizendo:"
+       ],
+       [
+        "\"Jesus é aquele que eu beijar; prendei-o!\""
+       ],
+       [
+        "Judas, logo se aproximou de Jesus, dizendo:"
+       ],
+       [
+        "\"Salve, Mestre!\" E beijou-o."
+       ],
+       [
+        "Jesus lhe disse:"
+       ],
+       [
+        "\"Amigo, a que vieste?\""
+       ],
+       [
+        "Então os outros avançaram"
+       ],
+       [
+        "lançaram as mãos sobre Jesus e o prenderam."
+       ],
+       [
+        "Nesse momento, um dos que estavam com Jesus"
+       ],
+       [
+        "estendeu a mão, puxou a espada,"
+       ],
+       [
+        "e feriu o servo do Sumo Sacerdote,"
+       ],
+       [
+        "cortando-lhe a orelha."
+       ],
+       [
+        "Jesus, porém, lhe disse:"
+       ],
+       [
+        "\"Guarda a espada na bainha!"
+       ],
+       [
+        "pois todos os que usam a espada pela espada morrerão."
+       ],
+       [
+        "Ou pensas que eu não poderia recorrer ao meu Pai"
+       ],
+       [
+        "e ele me mandaria logo mais de doze legiões de anjos?"
+       ],
+       [
+        "Então, como se cumpririam as Escrituras,"
+       ],
+       [
+        "que dizem que isso deve acontecer?\""
+       ],
+       [
+        "E, naquela hora, Jesus disse à multidão:"
+       ],
+       [
+        "\"Vós viestes com espadas e paus para me prender,"
+       ],
+       [
+        "como se eu fosse um assaltante."
+       ],
+       [
+        "Todos os dias, no Templo, eu me sentava para ensinar,"
+       ],
+       [
+        "e vós não me prendestes\"."
+       ],
+       [
+        "Porém, tudo isto aconteceu"
+       ],
+       [
+        "para se cumprir o que os profetas escreveram."
+       ],
+       [
+        "Então todos os discípulos, abandonando Jesus, fugiram."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Vereis o Filho do Homem sentado à direita do Todo-poderoso."
        ]
       ]
      },
@@ -3246,7 +3685,127 @@
       "k": "p",
       "lines": [
        [
-        "E, naquela hora, Jesus disse à multidão: “Vós viestes com espadas e paus para me prender, como se eu fosse um assaltante. Todos os dias, no Templo, eu me sentava para ensinar, e vós não me prendestes”. Porém, tudo isto aconteceu para se cumprir o que os profetas escreveram. Então todos os discípulos, abandonando Jesus, fugiram. Aqueles que prenderam Jesus levaram-no à casa do Sumo Sacerdote Caifás, onde estavam reunidos os mestres da Lei e os anciãos. Pedro seguiu Jesus de longe até o pátio interno da casa do Sumo Sacerdote."
+        "Aqueles que prenderam Jesus"
+       ],
+       [
+        "levaram-no à casa do Sumo Sacerdote Caifás,"
+       ],
+       [
+        "onde estavam reunidos os mestres da Lei e os anciãos."
+       ],
+       [
+        "Pedro seguiu Jesus de longe"
+       ],
+       [
+        "até o pátio interno da casa do Sumo Sacerdote."
+       ],
+       [
+        "Entrou e sentou-se com os guardas"
+       ],
+       [
+        "para ver como terminaria tudo aquilo."
+       ],
+       [
+        "Ora, os sumos sacerdotes e todo o Sinédrio"
+       ],
+       [
+        "procuravam um falso testemunho contra Jesus,"
+       ],
+       [
+        "a fim de condená-lo à morte."
+       ],
+       [
+        "E nada encontraram,"
+       ],
+       [
+        "embora se apresentassem muitas falsas testemunhas."
+       ],
+       [
+        "Por fim, vieram duas testemunhas,"
+       ],
+       [
+        "que afirmaram: \"Este homem declarou:"
+       ],
+       [
+        "'posso destruir o Templo de Deus"
+       ],
+       [
+        "e construí-lo de novo em três dias'\"."
+       ],
+       [
+        "Então o Sumo Sacerdote levantou-se"
+       ],
+       [
+        "e perguntou a Jesus: \"Nada tens a responder"
+       ],
+       [
+        "ao que estes testemunham contra ti?\""
+       ],
+       [
+        "Jesus, porém, continuava calado."
+       ],
+       [
+        "E o Sumo Sacerdote lhe disse:"
+       ],
+       [
+        "\"Eu te conjuro pelo Deus vivo"
+       ],
+       [
+        "que nos digas se tu és o Messias, o Filho de Deus\"."
+       ],
+       [
+        "Jesus respondeu: \"Tu o dizes."
+       ],
+       [
+        "Além disso, eu vos digo que de agora em diante"
+       ],
+       [
+        "vereis o Filho do Homem"
+       ],
+       [
+        "sentado à direita do Todo-poderoso,"
+       ],
+       [
+        "vindo sobre as nuvens do céu\"."
+       ],
+       [
+        "Então o sumo sacerdote rasgou suas vestes"
+       ],
+       [
+        "e disse: \"Blasfemou!"
+       ],
+       [
+        "Que necessidade temos ainda de testemunhas?"
+       ],
+       [
+        "Pois agora mesmo vós ouvistes a blasfêmia."
+       ],
+       [
+        "Que vos parece?\""
+       ],
+       [
+        "Responderam: \"É réu de morte!\""
+       ],
+       [
+        "Então cuspiram no rosto de Jesus e o esbofetearam."
+       ],
+       [
+        "Outros lhe deram bordoadas,"
+       ],
+       [
+        "dizendo: \"Faze-nos uma profecia, Cristo,"
+       ],
+       [
+        "quem foi que te bateu?\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Antes que o galo cante, tu me negarás três vezes."
        ]
       ]
      },
@@ -3254,7 +3813,76 @@
       "k": "p",
       "lines": [
        [
-        "Entrou e sentou-se com os guardas para ver como terminaria tudo aquilo. Ora, os sumos sacerdotes e todo o Sinédrio procuravam um falso testemunho contra Jesus, a fim de condená-lo à morte. E nada encontraram, embora se apresentassem muitas falsas testemunhas. Por fim, vieram duas testemunhas, que afirmaram: “Este homem declarou: 'posso destruir o Templo de Deus e construí-lo de novo em três dias'”. Então o Sumo Sacerdote levantou-se e perguntou a Jesus: “Nada tens a responder ao que estes testemunham contra ti?” Jesus, porém, continuava calado."
+        "Pedro estava sentado fora, no pátio."
+       ],
+       [
+        "Uma criada chegou perto dele e disse:"
+       ],
+       [
+        "\"Tu também estavas com Jesus, o Galileu!\""
+       ],
+       [
+        "Mas ele negou diante de todos:"
+       ],
+       [
+        "\"Não sei o que tu estás dizendo\"."
+       ],
+       [
+        "E saiu para a entrada do pátio."
+       ],
+       [
+        "Então uma outra criada viu Pedro"
+       ],
+       [
+        "e disse aos que estavam ali:"
+       ],
+       [
+        "\"Este também estava com Jesus, o Nazareno\"."
+       ],
+       [
+        "Pedro negou outra vez, jurando:"
+       ],
+       [
+        "\"Nem conheço esse homem!\""
+       ],
+       [
+        "Pouco depois, os que estavam ali"
+       ],
+       [
+        "aproximaram-se de Pedro e disseram:"
+       ],
+       [
+        "\"É claro que tu também és um deles,"
+       ],
+       [
+        "pois o teu modo de falar te denuncia\"."
+       ],
+       [
+        "Pedro começou a maldizer e a jurar, dizendo"
+       ],
+       [
+        "que não conhecia esse homem!\""
+       ],
+       [
+        "E nesse instante o galo cantou."
+       ],
+       [
+        "Pedro se lembrou do que Jesus tinha dito:"
+       ],
+       [
+        "\"Antes que o galo cante, tu me negarás três vezes\"."
+       ],
+       [
+        "E saindo dali, chorou amargamente."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Entregaram Jesus a Pilatos, o governador."
        ]
       ]
      },
@@ -3262,7 +3890,31 @@
       "k": "p",
       "lines": [
        [
-        "E o Sumo Sacerdote lhe disse: “Eu te conjuro pelo Deus vivo que nos digas se tu és o Messias, o Filho de Deus”. Jesus respondeu: “Tu o dizes. Além disso, eu vos digo que de agora em diante vereis o Filho do Homem sentado à direita do Todo-poderoso, vindo sobre as nuvens do céu”. Então o sumo sacerdote rasgou suas vestes e disse: “Blasfemou! Que necessidade temos ainda de testemunhas? Pois agora mesmo vós ouvistes a blasfêmia. Que vos parece?” Responderam: “É réu de morte!” Então cuspiram no rosto de Jesus e o esbofetearam."
+        "De manhã cedo,"
+       ],
+       [
+        "todos os sumos sacerdotes e os anciãos do povo"
+       ],
+       [
+        "convocaram um conselho contra Jesus,"
+       ],
+       [
+        "para condená-lo à morte."
+       ],
+       [
+        "Eles o amarraram, levaram-no"
+       ],
+       [
+        "e o entregaram a Pilatos, o governador."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Não é lícito colocá-las no tesouro porque é preço de sangue."
        ]
       ]
      },
@@ -3270,7 +3922,85 @@
       "k": "p",
       "lines": [
        [
-        "Outros lhe deram bordoadas, dizendo: “Faze-nos uma profecia, Cristo, quem foi que te bateu?” Pedro estava sentado fora, no pátio. Uma criada chegou perto dele e disse: “Tu também estavas com Jesus, o Galileu!” Mas ele negou diante de todos: “Não sei o que tu estás dizendo”. E saiu para a entrada do pátio. Então uma outra criada viu Pedro e disse aos que estavam ali: “Este também estava com Jesus, o Nazareno”. Pedro negou outra vez, jurando: “Nem conheço esse homem!”"
+        "Então Judas, o traidor,"
+       ],
+       [
+        "ao ver que Jesus fora condenado, ficou arrependido"
+       ],
+       [
+        "e foi devolver as trinta moedas de prata"
+       ],
+       [
+        "aos sumos sacerdotes e aos anciãos,"
+       ],
+       [
+        "dizendo:"
+       ],
+       [
+        "\"Pequei, entregando à morte um homem inocente\"."
+       ],
+       [
+        "Eles responderam: \"O que temos nós com isso?"
+       ],
+       [
+        "O problema é teu\"."
+       ],
+       [
+        "Judas jogou as moedas no santuário,"
+       ],
+       [
+        "saiu e foi se enforcar."
+       ],
+       [
+        "Recolhendo as moedas, os sumos sacerdotes disseram:"
+       ],
+       [
+        "\"É contra a Lei colocá-las no tesouro do Templo,"
+       ],
+       [
+        "porque é preço de sangue\"."
+       ],
+       [
+        "Então discutiram em conselho"
+       ],
+       [
+        "e compraram com elas o Campo do Oleiro,"
+       ],
+       [
+        "para aí fazer o cemitério dos estrangeiros."
+       ],
+       [
+        "É por isso que aquele campo até hoje"
+       ],
+       [
+        "é chamado de \"Campo de Sangue\"."
+       ],
+       [
+        "Assim se cumpriu o que tinha dito o profeta Jeremias:"
+       ],
+       [
+        "\"Eles pegaram as trinta moedas de prata"
+       ],
+       [
+        "- preço do Precioso,"
+       ],
+       [
+        "preço com que os filhos de Israel o avaliaram -"
+       ],
+       [
+        "e as deram em troca do Campo do Oleiro,"
+       ],
+       [
+        "conforme o Senhor me ordenou!\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Tu és o rei dos judeus?"
        ]
       ]
      },
@@ -3278,7 +4008,157 @@
       "k": "p",
       "lines": [
        [
-        "Pouco depois, os que estavam ali aproximaram-se de Pedro e disseram: “É claro que tu também és um deles, pois o teu modo de falar te denuncia”. Pedro começou a maldizer e a jurar, dizendo que não conhecia esse homem! E nesse instante o galo cantou. Pedro se lembrou do que Jesus tinha dito: “Antes que o galo cante, tu me negarás três vezes”. E saindo dali, chorou amargamente. De manhã cedo, todos os sumos sacerdotes e os anciãos do povo convocaram um conselho contra Jesus, para condená-lo à morte. Eles o amarraram, levaram-no e o entregaram a Pilatos, o governador."
+        "Jesus foi posto diante do governador,"
+       ],
+       [
+        "e este o interrogou:"
+       ],
+       [
+        "\"Tu és o rei dos judeus?\""
+       ],
+       [
+        "Jesus declarou: \"É como dizes\","
+       ],
+       [
+        "e nada respondeu, quando foi acusado"
+       ],
+       [
+        "pelos sumos sacerdotes e anciãos."
+       ],
+       [
+        "Então Pilatos perguntou:"
+       ],
+       [
+        "\"Não estás ouvindo de quanta coisa eles te acusam?\""
+       ],
+       [
+        "Mas Jesus não respondeu uma só palavra,"
+       ],
+       [
+        "e o governador ficou muito impressionado."
+       ],
+       [
+        "Na festa da Páscoa,"
+       ],
+       [
+        "o governador costumava soltar o prisioneiro"
+       ],
+       [
+        "que a multidão quisesse."
+       ],
+       [
+        "Naquela ocasião, tinham um prisioneiro famoso,"
+       ],
+       [
+        "chamado Barrabás."
+       ],
+       [
+        "Então Pilatos perguntou à multidão reunida:"
+       ],
+       [
+        "\"Quem vós quereis que eu solte:"
+       ],
+       [
+        "Barrabás, ou Jesus, a quem chamam de Cristo?\""
+       ],
+       [
+        "Pilatos bem sabia"
+       ],
+       [
+        "que eles haviam entregado Jesus por inveja."
+       ],
+       [
+        "Enquanto Pilatos estava sentado no tribunal,"
+       ],
+       [
+        "sua mulher mandou dizer a ele:"
+       ],
+       [
+        "\"Não te envolvas com esse justo! Porque esta noite,"
+       ],
+       [
+        "em sonho, sofri muito por causa dele\"."
+       ],
+       [
+        "Porém, os sumos sacerdotes e os anciãos"
+       ],
+       [
+        "convenceram as multidões para que pedissem Barrabás"
+       ],
+       [
+        "e que fizessem Jesus morrer."
+       ],
+       [
+        "O governador tornou a perguntar:"
+       ],
+       [
+        "\"Qual dos dois quereis que eu solte?\""
+       ],
+       [
+        "Eles gritaram: \"Barrabás\"."
+       ],
+       [
+        "Pilatos perguntou: \"Que farei com Jesus,"
+       ],
+       [
+        "que chamam de Cristo?\""
+       ],
+       [
+        "Todos gritaram: \"Seja crucificado!\""
+       ],
+       [
+        "Pilatos falou: \"Mas, que mal ele fez?\""
+       ],
+       [
+        "Eles, porém, gritaram com mais força:"
+       ],
+       [
+        "\"Seja crucificado!\""
+       ],
+       [
+        "Pilatos viu que nada conseguia"
+       ],
+       [
+        "e que poderia haver uma revolta."
+       ],
+       [
+        "Então mandou trazer água,"
+       ],
+       [
+        "lavou as mãos diante da multidão, e disse:"
+       ],
+       [
+        "\"Eu não sou responsável pelo sangue deste homem."
+       ],
+       [
+        "Este é um problema vosso!\""
+       ],
+       [
+        "O povo todo respondeu:"
+       ],
+       [
+        "\"Que o sangue dele caia sobre nós"
+       ],
+       [
+        "e sobre os nossos filhos\"."
+       ],
+       [
+        "Então Pilatos soltou Barrabás,"
+       ],
+       [
+        "mandou flagelar Jesus,"
+       ],
+       [
+        "e entregou-o para ser crucificado."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Salve, rei dos judeus!"
        ]
       ]
      },
@@ -3286,7 +4166,58 @@
       "k": "p",
       "lines": [
        [
-        "Então Judas, o traidor, ao ver que Jesus fora condenado, ficou arrependido e foi devolver as trinta moedas de prata aos sumos sacerdotes e aos anciãos, dizendo: “Pequei, entregando à morte um homem inocente”. Eles responderam: “O que temos nós com isso? O problema é teu”. Judas jogou as moedas no santuário, saiu e foi se enforcar. Recolhendo as moedas, os sumos sacerdotes disseram: “É contra a Lei colocá-las no tesouro do Templo, porque é preço de sangue”. Então discutiram em conselho e compraram com elas o Campo do Oleiro, para aí fazer o cemitério dos estrangeiros."
+        "Em seguida, os soldados de Pilatos"
+       ],
+       [
+        "levaram Jesus ao palácio do governador,"
+       ],
+       [
+        "e reuniram toda a tropa em volta dele."
+       ],
+       [
+        "Tiraram sua roupa e o vestiram com um manto vermelho;"
+       ],
+       [
+        "depois teceram uma coroa de espinhos,"
+       ],
+       [
+        "puseram a coroa em sua cabeça,"
+       ],
+       [
+        "e uma vara em sua mão direita."
+       ],
+       [
+        "Então se ajoelharam diante de Jesus e zombaram,"
+       ],
+       [
+        "dizendo: \"Salve, rei dos judeus!\""
+       ],
+       [
+        "Cuspiram nele"
+       ],
+       [
+        "e, pegando uma vara, bateram na sua cabeça."
+       ],
+       [
+        "Depois de zombar dele,"
+       ],
+       [
+        "tiraram-lhe o manto vermelho"
+       ],
+       [
+        "e, de novo, o vestiram com suas próprias roupas."
+       ],
+       [
+        "Daí o levaram para crucificar."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Com ele também crucificaram dois ladrões."
        ]
       ]
      },
@@ -3294,7 +4225,58 @@
       "k": "p",
       "lines": [
        [
-        "É por isso que aquele campo até hoje é chamado de “Campo de Sangue”. Assim se cumpriu o que tinha dito o profeta Jeremias: “Eles pegaram as trinta moedas de prata - preço do Precioso, preço com que os filhos de Israel o avaliaram - e as deram em troca do Campo do Oleiro, conforme o Senhor me ordenou!” Jesus foi posto diante do governador, e este o interrogou: “Tu és o rei dos judeus?” Jesus declarou: “É como dizes”, e nada respondeu, quando foi acusado pelos sumos sacerdotes e anciãos. Então Pilatos perguntou: “Não estás ouvindo de quanta coisa eles te acusam?”"
+        "Quando saíam, encontraram um homem chamado Simão,"
+       ],
+       [
+        "da cidade de Cirene,"
+       ],
+       [
+        "e o obrigaram a carregar a cruz de Jesus."
+       ],
+       [
+        "E chegaram a um lugar chamado Gólgota,"
+       ],
+       [
+        "que quer dizer \"lugar da caveira\"."
+       ],
+       [
+        "Ali deram vinho misturado com fel para Jesus beber."
+       ],
+       [
+        "Ele provou, mas não quis beber."
+       ],
+       [
+        "Depois de o crucificarem,"
+       ],
+       [
+        "fizeram um sorteio, repartindo entre si as suas vestes."
+       ],
+       [
+        "E ficaram ali sentados, montando guarda."
+       ],
+       [
+        "Acima da cabeça de Jesus"
+       ],
+       [
+        "puseram o motivo da sua condenação:"
+       ],
+       [
+        "\"Este é Jesus, o Rei dos Judeus\"."
+       ],
+       [
+        "Com ele também crucificaram dois ladrões,"
+       ],
+       [
+        "um à direita e outro à esquerda de Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Se és o Filho de Deus, desce da cruz!"
        ]
       ]
      },
@@ -3302,7 +4284,64 @@
       "k": "p",
       "lines": [
        [
-        "Mas Jesus não respondeu uma só palavra, e o governador ficou muito impressionado. Na festa da Páscoa, o governador costumava soltar o prisioneiro que a multidão quisesse. Naquela ocasião, tinham um prisioneiro famoso, chamado Barrabás. Então Pilatos perguntou à multidão reunida: “Quem vós quereis que eu solte: Barrabás, ou Jesus, a quem chamam de Cristo?” Pilatos bem sabia que eles haviam entregado Jesus por inveja. Enquanto Pilatos estava sentado no tribunal, sua mulher mandou dizer a ele: “Não te envolvas com esse justo! Porque esta noite, em sonho, sofri muito por causa dele”."
+        "As pessoas que passavam por ali o insultavam,"
+       ],
+       [
+        "balançando a cabeça e dizendo:"
+       ],
+       [
+        "\"Tu que ias destruir o Templo"
+       ],
+       [
+        "e construí-lo de novo em três dias,"
+       ],
+       [
+        "salva-te a ti mesmo!"
+       ],
+       [
+        "Se és o Filho de Deus, desce da cruz!\""
+       ],
+       [
+        "Do mesmo modo, os sumos sacerdotes,"
+       ],
+       [
+        "junto com os mestres da Lei e os anciãos,"
+       ],
+       [
+        "também zombaram de Jesus:"
+       ],
+       [
+        "\"A outros salvou... a si mesmo não pode salvar!"
+       ],
+       [
+        "É Rei de Israel... Desça agora da cruz!"
+       ],
+       [
+        "e acreditaremos nele."
+       ],
+       [
+        "Confiou em Deus; que o livre agora,"
+       ],
+       [
+        "se é que Deus o ama!"
+       ],
+       [
+        "Já que ele disse: Eu sou o Filho de Deus\"."
+       ],
+       [
+        "Do mesmo modo, também os dois ladrões"
+       ],
+       [
+        "que foram crucificados com Jesus, o insultavam."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Eli, Eli, lamá sabactâni?"
        ]
       ]
      },
@@ -3310,7 +4349,49 @@
       "k": "p",
       "lines": [
        [
-        "Porém, os sumos sacerdotes e os anciãos convenceram as multidões para que pedissem Barrabás e que fizessem Jesus morrer. O governador tornou a perguntar: “Qual dos dois quereis que eu solte?” Eles gritaram: “Barrabás”. Pilatos perguntou: “Que farei com Jesus, que chamam de Cristo?” Todos gritaram: “Seja crucificado!” Pilatos falou: “Mas, que mal ele fez?” Eles, porém, gritaram com mais força: “Seja crucificado!” Pilatos viu que nada conseguia e que poderia haver uma revolta. Então mandou trazer água, lavou as mãos diante da multidão, e disse: “Eu não sou responsável pelo sangue deste homem."
+        "Desde o meio-dia até às três horas da tarde,"
+       ],
+       [
+        "houve escuridão sobre toda a terra."
+       ],
+       [
+        "Pelas três horas da tarde, Jesus deu um forte grito:"
+       ],
+       [
+        "\"Eli, Eli, lamá sabactâni?\","
+       ],
+       [
+        "que quer dizer: \"Meu Deus, meu Deus,"
+       ],
+       [
+        "por que me abandonaste?\""
+       ],
+       [
+        "Alguns dos que ali estavam, ouvindo-o, disseram:"
+       ],
+       [
+        "\"Ele está chamando Elias!\""
+       ],
+       [
+        "E logo um deles, correndo, pegou uma esponja,"
+       ],
+       [
+        "ensopou-a em vinagre, colocou-a na ponta de uma vara,"
+       ],
+       [
+        "e lhe deu para beber."
+       ],
+       [
+        "Outros, porém, disseram:"
+       ],
+       [
+        "\"Deixa, vamos ver se Elias vem salvá-lo!\""
+       ],
+       [
+        "Então Jesus deu outra vez um forte grito"
+       ],
+       [
+        "e entregou o espírito."
        ]
       ]
      },
@@ -3318,7 +4399,10 @@
       "k": "p",
       "lines": [
        [
-        "Este é um problema vosso!” O povo todo respondeu: “Que o sangue dele caia sobre nós e sobre os nossos filhos”. Então Pilatos soltou Barrabás, mandou flagelar Jesus, e entregou-o para ser crucificado. Em seguida, os soldados de Pilatos levaram Jesus ao palácio do governador, e reuniram toda a tropa em volta dele. Tiraram sua roupa e o vestiram com um manto vermelho; depois teceram uma coroa de espinhos, puseram a coroa em sua cabeça, e uma vara em sua mão direita. Então se ajoelharam diante de Jesus e zombaram, dizendo: “Salve, rei dos judeus!”"
+        {
+         "m": "rubric",
+         "t": "Aqui todos se ajoelham e faz-se uma pausa."
+        }
        ]
       ]
      },
@@ -3326,7 +4410,70 @@
       "k": "p",
       "lines": [
        [
-        "Cuspiram nele e, pegando uma vara, bateram na sua cabeça. Depois de zombar dele, tiraram-lhe o manto vermelho e, de novo, o vestiram com suas próprias roupas. Daí o levaram para crucificar. Quando saíam, encontraram um homem chamado Simão, da cidade de Cirene, e o obrigaram a carregar a cruz de Jesus. E chegaram a um lugar chamado Gólgota, que quer dizer “lugar da caveira”. Ali deram vinho misturado com fel para Jesus beber. Ele provou, mas não quis beber. Depois de o crucificarem, fizeram um sorteio, repartindo entre si as suas vestes. E ficaram ali sentados, montando guarda."
+        "E eis que a cortina do santuário"
+       ],
+       [
+        "rasgou-se de alto a baixo, em duas partes,"
+       ],
+       [
+        "a terra tremeu e as pedras se partiram."
+       ],
+       [
+        "Os túmulos se abriram"
+       ],
+       [
+        "e muito corpos dos santos falecidos ressuscitaram!"
+       ],
+       [
+        "Saindo dos túmulos, depois da ressurreição de Jesus,"
+       ],
+       [
+        "apareceram na Cidade Santa"
+       ],
+       [
+        "e foram vistos por muitas pessoas."
+       ],
+       [
+        "O oficial e os soldados"
+       ],
+       [
+        "que estavam com ele guardando Jesus,"
+       ],
+       [
+        "ao notarem o terremoto e tudo que havia acontecido,"
+       ],
+       [
+        "ficaram com muito medo e disseram:"
+       ],
+       [
+        "\"Ele era mesmo Filho de Deus!\""
+       ],
+       [
+        "Grande número de mulheres estava ali, olhando de longe."
+       ],
+       [
+        "Elas haviam acompanhado Jesus desde a Galileia,"
+       ],
+       [
+        "prestando-lhe serviços."
+       ],
+       [
+        "Entre elas estavam Maria Madalena,"
+       ],
+       [
+        "Maria, mãe de Tiago e de José,"
+       ],
+       [
+        "e a mãe dos filhos de Zebedeu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "José colocou o corpo de Jesus em um túmulo novo."
        ]
       ]
      },
@@ -3334,7 +4481,52 @@
       "k": "p",
       "lines": [
        [
-        "Acima da cabeça de Jesus puseram o motivo da sua condenação: “Este é Jesus, o Rei dos Judeus”. Com ele também crucificaram dois ladrões, um à direita e outro à esquerda de Jesus. As pessoas que passavam por ali o insultavam, balançando a cabeça e dizendo: “Tu que ias destruir o Templo e construí-lo de novo em três dias, salva-te a ti mesmo! Se és o Filho de Deus, desce da cruz!” Do mesmo modo, os sumos sacerdotes, junto com os mestres da Lei e os anciãos, também zombaram de Jesus: “A outros salvou... a si mesmo não pode salvar! É Rei de Israel... Desça agora da cruz! e acreditaremos nele."
+        "Ao entardecer,"
+       ],
+       [
+        "veio um homem rico de Arimateia, chamado José,"
+       ],
+       [
+        "que também se tornara discípulo de Jesus."
+       ],
+       [
+        "Ele foi procurar Pilatos e pediu o corpo de Jesus."
+       ],
+       [
+        "Então Pilatos mandou que lhe entregassem o corpo."
+       ],
+       [
+        "José, tomando o corpo,"
+       ],
+       [
+        "envolveu-o num lençol limpo,"
+       ],
+       [
+        "e o colocou em um túmulo novo,"
+       ],
+       [
+        "que havia mandado escavar na rocha."
+       ],
+       [
+        "Em seguida, rolou uma grande pedra"
+       ],
+       [
+        "para fechar a entrada do túmulo, e retirou-se."
+       ],
+       [
+        "Maria Madalena e a outra Maria"
+       ],
+       [
+        "estavam ali sentadas, diante do sepulcro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Tendes uma guarda. Ide, guardai o sepulcro como melhor vos parecer."
        ]
       ]
      },
@@ -3342,47 +4534,49 @@
       "k": "p",
       "lines": [
        [
-        "Confiou em Deus; que o livre agora, se é que Deus o ama! Já que ele disse: Eu sou o Filho de Deus”. Do mesmo modo, também os dois ladrões que foram crucificados com Jesus, o insultavam. Desde o meio-dia até às três horas da tarde, houve escuridão sobre toda a terra. Pelas três horas da tarde, Jesus deu um forte grito: “Eli, Eli, lamá sabactâni?”, que quer dizer: “Meu Deus, meu Deus, por que me abandonaste?” Alguns dos que ali estavam, ouvindo-o, disseram: “Ele está chamando Elias!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "No dia seguinte,"
+       ],
        [
-        "E logo um deles, correndo, pegou uma esponja, ensopou-a em vinagre, colocou-a na ponta de uma vara, e lhe deu para beber. Outros, porém, disseram: “Deixa, vamos ver se Elias vem salvá-lo!” Então Jesus deu outra vez um forte grito e entregou o espírito. (Aqui todos se ajoelham e faz-se uma pausa.) E eis que a cortina do santuário rasgou-se de alto a baixo, em duas partes, a terra tremeu e as pedras se partiram. Os túmulos se abriram e muito corpos dos santos falecidos ressuscitaram! Saindo dos túmulos, depois da ressurreição de Jesus, apareceram na Cidade Santa e foram vistos por muitas pessoas."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "como era o dia depois da preparação para o sábado,"
+       ],
        [
-        "O oficial e os soldados que estavam com ele guardando Jesus, ao notarem o terremoto e tudo que havia acontecido, ficaram com muito medo e disseram: “Ele era mesmo Filho de Deus!” Grande número de mulheres estava ali, olhando de longe. Elas haviam acompanhado Jesus desde a Galileia, prestando-lhe serviços. Entre elas estavam Maria Madalena, Maria, mãe de Tiago e de José, e a mãe dos filhos de Zebedeu. Ao entardecer, veio um homem rico de Arimateia, chamado José, que também se tornara discípulo de Jesus. Ele foi procurar Pilatos e pediu o corpo de Jesus."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "os sumos sacerdotes e os fariseus foram ter com Pilatos,"
+       ],
        [
-        "Então Pilatos mandou que lhe entregassem o corpo. José, tomando o corpo, envolveu-o num lençol limpo, e o colocou em um túmulo novo, que havia mandado escavar na rocha. Em seguida, rolou uma grande pedra para fechar a entrada do túmulo, e retirou-se. Maria Madalena e a outra Maria estavam ali sentadas, diante do sepulcro."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "e disseram: \"Senhor, nós nos lembramos"
+       ],
        [
-        "No dia seguinte, como era o dia depois da preparação para o sábado, os sumos sacerdotes e os fariseus foram ter com Pilatos, e disseram: “Senhor, nós nos lembramos de que quando este impostor ainda estava vivo, disse: 'Depois de três dias eu ressuscitarei!' Portanto, manda guardar o sepulcro até ao terceiro dia, para não acontecer que os discípulos venham roubar o corpo e digam ao povo: 'Ele ressuscitou dos mortos!' pois essa última impostura seria pior do que a primeira”. Pilatos respondeu: “Tendes uma guarda. Ide e guardai o sepulcro como melhor vos parecer”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "de que quando este impostor ainda estava vivo, disse:"
+       ],
        [
-        "Então eles foram reforçar a segurança do sepulcro: lacraram a pedra e montaram guarda."
+        "'Depois de três dias eu ressuscitarei!'"
+       ],
+       [
+        "Portanto, manda guardar o sepulcro até ao terceiro dia,"
+       ],
+       [
+        "para não acontecer que os discípulos venham roubar o"
+       ],
+       [
+        "corpo e digam ao povo: 'Ele ressuscitou dos mortos!'"
+       ],
+       [
+        "pois essa última impostura"
+       ],
+       [
+        "seria pior do que a primeira\"."
+       ],
+       [
+        "Pilatos respondeu: \"Tendes uma guarda."
+       ],
+       [
+        "Ide e guardai o sepulcro como melhor vos parecer\"."
+       ],
+       [
+        "Então eles foram reforçar a segurança do sepulcro:"
+       ],
+       [
+        "lacraram a pedra e montaram guarda."
        ]
       ]
      },
@@ -6007,9 +7201,10 @@
     "pt-BR": [
      {
       "k": "p",
+      "role": "summary",
       "lines": [
        [
-        "Naquele tempo, Jesus foi posto diante de Pôncio Pilatos, e este o interrogou: “Tu és o rei dos judeus?”"
+        "Tu és o rei dos judeus?"
        ]
       ]
      },
@@ -6017,7 +7212,208 @@
       "k": "p",
       "lines": [
        [
-        "Jesus declarou: “É como dizes”."
+        "11"
+       ],
+       [
+        "Naquele tempo,"
+       ],
+       [
+        "Jesus foi posto diante do Pôncio Pilatos,"
+       ],
+       [
+        "e este o interrogou:"
+       ],
+       [
+        "\"Tu és o rei dos judeus?\""
+       ],
+       [
+        "Jesus declarou: \"É como dizes\","
+       ],
+       [
+        "12"
+       ],
+       [
+        "e nada respondeu, quando foi acusado"
+       ],
+       [
+        "pelos sumos sacerdotes e anciãos."
+       ],
+       [
+        "13"
+       ],
+       [
+        "Então Pilatos perguntou:"
+       ],
+       [
+        "\"Não estás ouvindo de quanta coisa eles te acusam?\""
+       ],
+       [
+        "14"
+       ],
+       [
+        "Mas Jesus não respondeu uma só palavra,"
+       ],
+       [
+        "e o governador ficou muito impressionado."
+       ],
+       [
+        "15"
+       ],
+       [
+        "Na festa da Páscoa,"
+       ],
+       [
+        "o governador costumava soltar o prisioneiro"
+       ],
+       [
+        "que a multidão quisesse."
+       ],
+       [
+        "16"
+       ],
+       [
+        "Naquela ocasião, tinham um prisioneiro famoso,"
+       ],
+       [
+        "chamado Barrabás."
+       ],
+       [
+        "17"
+       ],
+       [
+        "Então Pilatos perguntou à multidão reunida:"
+       ],
+       [
+        "\"Quem vós quereis que eu solte:"
+       ],
+       [
+        "Barrabás, ou Jesus, a quem chamam de Cristo?\""
+       ],
+       [
+        "18"
+       ],
+       [
+        "Pilatos bem sabia"
+       ],
+       [
+        "que eles haviam entregado Jesus por inveja."
+       ],
+       [
+        "19"
+       ],
+       [
+        "Enquanto Pilatos estava sentado no tribunal,"
+       ],
+       [
+        "sua mulher mandou dizer a ele:"
+       ],
+       [
+        "\"Não te envolvas com esse justo! Porque esta noite,"
+       ],
+       [
+        "em sonho, sofri muito por causa dele\"."
+       ],
+       [
+        "20"
+       ],
+       [
+        "Porém, os sumos sacerdotes e os anciãos"
+       ],
+       [
+        "convenceram as multidões para que pedissem Barrabás"
+       ],
+       [
+        "e que fizessem Jesus morrer."
+       ],
+       [
+        "21"
+       ],
+       [
+        "O governador tornou a perguntar:"
+       ],
+       [
+        "\"Qual dos dois quereis que eu solte?\""
+       ],
+       [
+        "Eles gritaram: \"Barrabás\"."
+       ],
+       [
+        "22"
+       ],
+       [
+        "Pilatos perguntou: \"Que farei com Jesus,"
+       ],
+       [
+        "que chamam de Cristo?\""
+       ],
+       [
+        "Todos gritaram: \"Seja crucificado!\""
+       ],
+       [
+        "23"
+       ],
+       [
+        "Pilatos falou: \"Mas, que mal ele fez?\""
+       ],
+       [
+        "Eles, porém, gritaram com mais força:"
+       ],
+       [
+        "\"Seja crucificado!\""
+       ],
+       [
+        "24"
+       ],
+       [
+        "Pilatos viu que nada conseguia"
+       ],
+       [
+        "e que poderia haver uma revolta."
+       ],
+       [
+        "Então mandou trazer água,"
+       ],
+       [
+        "lavou as mãos diante da multidão, e disse:"
+       ],
+       [
+        "\"Eu não sou responsável pelo sangue deste homem."
+       ],
+       [
+        "Este é um problema vosso!\""
+       ],
+       [
+        "25"
+       ],
+       [
+        "O povo todo respondeu:"
+       ],
+       [
+        "\"Que o sangue dele caia sobre nós"
+       ],
+       [
+        "e sobre os nossos filhos\"."
+       ],
+       [
+        "26"
+       ],
+       [
+        "Então Pilatos soltou Barrabás,"
+       ],
+       [
+        "mandou flagelar Jesus,"
+       ],
+       [
+        "e entregou-o para ser crucificado."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Salve, rei dos judeus!"
        ]
       ]
      },
@@ -6025,7 +7421,73 @@
       "k": "p",
       "lines": [
        [
-        "E nada respondeu, quando foi acusado pelos sumos sacerdotes e anciãos. Então Pilatos perguntou: “Não estás ouvindo de quanta coisa eles te acusam?”"
+        "27"
+       ],
+       [
+        "Em seguida, os soldados de Pilatos"
+       ],
+       [
+        "levaram Jesus ao palácio do governador,"
+       ],
+       [
+        "e reuniram toda a tropa em volta dele."
+       ],
+       [
+        "28"
+       ],
+       [
+        "Tiraram sua roupa e o vestiram com um manto vermelho;"
+       ],
+       [
+        "29"
+       ],
+       [
+        "depois teceram uma coroa de espinhos,"
+       ],
+       [
+        "puseram a coroa em sua cabeça,"
+       ],
+       [
+        "e uma vara em sua mão direita."
+       ],
+       [
+        "Então se ajoelharam diante de Jesus e zombaram,"
+       ],
+       [
+        "dizendo: \"Salve, rei dos judeus!\""
+       ],
+       [
+        "30"
+       ],
+       [
+        "Cuspiram nele"
+       ],
+       [
+        "e, pegando uma vara, bateram na sua cabeça."
+       ],
+       [
+        "31"
+       ],
+       [
+        "Depois de zombar dele,"
+       ],
+       [
+        "tiraram-lhe o manto vermelho"
+       ],
+       [
+        "e, de novo, o vestiram com suas próprias roupas."
+       ],
+       [
+        "Daí o levaram para crucificar."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Com ele também crucificaram dois ladrões."
        ]
       ]
      },
@@ -6033,7 +7495,79 @@
       "k": "p",
       "lines": [
        [
-        "Mas Jesus não respondeu uma só palavra, e o governador ficou muito impressionado. Na festa da Páscoa, o governador costumava soltar o prisioneiro que a multidão quisesse. Naquela ocasião, tinham um prisioneiro famoso, chamado Barrabás. Então Pilatos perguntou à multidão reunida: “Quem vós quereis que eu solte: Barrabás, ou Jesus, a quem chamam de Cristo?”"
+        "32"
+       ],
+       [
+        "Quando saíam, encontraram um homem chamado Simão,"
+       ],
+       [
+        "da cidade de Cirene,"
+       ],
+       [
+        "e o obrigaram a carregar a cruz de Jesus."
+       ],
+       [
+        "33"
+       ],
+       [
+        "E chegaram a um lugar chamado Gólgota,"
+       ],
+       [
+        "que quer dizer \"lugar da caveira\"."
+       ],
+       [
+        "34"
+       ],
+       [
+        "Ali deram vinho misturado com fel para Jesus beber."
+       ],
+       [
+        "Ele provou, mas não quis beber."
+       ],
+       [
+        "35"
+       ],
+       [
+        "Depois de o crucificarem,"
+       ],
+       [
+        "fizeram um sorteio, repartindo entre si as suas vestes."
+       ],
+       [
+        "36"
+       ],
+       [
+        "E ficaram ali sentados, montando guarda."
+       ],
+       [
+        "37"
+       ],
+       [
+        "Acima da cabeça de Jesus"
+       ],
+       [
+        "puseram o motivo da sua condenação:"
+       ],
+       [
+        "\"Este é Jesus, o Rei dos Judeus\"."
+       ],
+       [
+        "38"
+       ],
+       [
+        "Com ele também crucificaram dois ladrões,"
+       ],
+       [
+        "um à direita e outro à esquerda de Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Se és o Filho de Deus, desce da cruz!"
        ]
       ]
      },
@@ -6041,7 +7575,82 @@
       "k": "p",
       "lines": [
        [
-        "Pilatos bem sabia que eles haviam entregado Jesus por inveja. Enquanto Pilatos estava sentado no tribunal, sua mulher mandou dizer a ele: “Não te envolvas com esse justo, porque esta noite, em sonho, sofri muito por causa dele”."
+        "39"
+       ],
+       [
+        "As pessoas que passavam por ali o insultavam,"
+       ],
+       [
+        "balançando a cabeça e dizendo:"
+       ],
+       [
+        "40"
+       ],
+       [
+        "\"Tu que ias destruir o Templo"
+       ],
+       [
+        "e construí-lo de novo em três dias,"
+       ],
+       [
+        "salva-te a ti mesmo!"
+       ],
+       [
+        "Se és o Filho de Deus, desce da cruz!\""
+       ],
+       [
+        "41"
+       ],
+       [
+        "Do mesmo modo, os sumos sacerdotes,"
+       ],
+       [
+        "junto com os mestres da Lei e os anciãos,"
+       ],
+       [
+        "também zombaram de Jesus:"
+       ],
+       [
+        "42"
+       ],
+       [
+        "\"A outros salvou... a si mesmo não pode salvar!"
+       ],
+       [
+        "É Rei de Israel... Desça agora da cruz!"
+       ],
+       [
+        "e acreditaremos nele."
+       ],
+       [
+        "43"
+       ],
+       [
+        "Confiou em Deus; que o livre agora,"
+       ],
+       [
+        "se é que Deus o ama!"
+       ],
+       [
+        "Já que ele disse: Eu sou o Filho de Deus\"."
+       ],
+       [
+        "44"
+       ],
+       [
+        "Do mesmo modo, também os dois ladrões"
+       ],
+       [
+        "que foram crucificados com Jesus, o insultavam."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Eli, Eli, lamá sabactâni?"
        ]
       ]
      },
@@ -6049,7 +7658,67 @@
       "k": "p",
       "lines": [
        [
-        "Porém, os sumos sacerdotes e os anciãos convenceram as multidões para que pedissem Barrabás e que fizessem Jesus morrer. O governador tornou a perguntar: “Qual dos dois quereis que eu solte?”"
+        "45"
+       ],
+       [
+        "Desde o meio-dia até às três horas da tarde,"
+       ],
+       [
+        "houve escuridão sobre toda a terra."
+       ],
+       [
+        "46"
+       ],
+       [
+        "Pelas três horas da tarde, Jesus deu um forte grito:"
+       ],
+       [
+        "\"Eli, Eli, lamá sabactâni?\","
+       ],
+       [
+        "que quer dizer: \"Meu Deus, meu Deus,"
+       ],
+       [
+        "por que me abandonaste?\""
+       ],
+       [
+        "47"
+       ],
+       [
+        "Alguns dos que ali estavam, ouvindo-o, disseram:"
+       ],
+       [
+        "\"Ele está chamando Elias!\""
+       ],
+       [
+        "48"
+       ],
+       [
+        "E logo um deles, correndo, pegou uma esponja,"
+       ],
+       [
+        "ensopou-a em vinagre, colocou-a na ponta de uma vara,"
+       ],
+       [
+        "e lhe deu para beber."
+       ],
+       [
+        "49"
+       ],
+       [
+        "Outros, porém, disseram:"
+       ],
+       [
+        "\"Deixa, vamos ver se Elias vem salvá-lo!\""
+       ],
+       [
+        "50"
+       ],
+       [
+        "Então Jesus deu outra vez um forte grito"
+       ],
+       [
+        "e entregou o espírito."
        ]
       ]
      },
@@ -6057,7 +7726,10 @@
       "k": "p",
       "lines": [
        [
-        "Eles gritaram: “Barrabás”."
+        {
+         "m": "rubric",
+         "t": "Aqui todos se ajoelham e faz-se uma pausa."
+        }
        ]
       ]
      },
@@ -6065,143 +7737,55 @@
       "k": "p",
       "lines": [
        [
-        "Pilatos perguntou: “Que farei com Jesus, que chamam de Cristo?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "51"
+       ],
        [
-        "Todos gritaram: “Seja crucificado!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "E eis que a cortina do santuário"
+       ],
        [
-        "Pilatos falou: “Mas, que mal ele fez?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "rasgou-se de alto a baixo, em duas partes,"
+       ],
        [
-        "Eles, porém, gritaram com mais força: “Seja crucificado!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "a terra tremeu e as pedras se partiram."
+       ],
        [
-        "Pilatos viu que nada conseguia e que poderia haver uma revolta. Então mandou trazer água, lavou as mãos diante da multidão, e disse: “Eu não sou responsável pelo sangue deste homem. Este é um problema vosso!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "52"
+       ],
        [
-        "O povo todo respondeu: “Que o sangue dele caia sobre nós e sobre os nossos filhos”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "Os túmulos se abriram"
+       ],
        [
-        "Então Pilatos soltou Barrabás, mandou flagelar Jesus, e entregou-o para ser crucificado. Em seguida, os soldados de Pilatos levaram Jesus ao palácio do governador, e reuniram toda a tropa em volta dele. Tiraram sua roupa e o vestiram com um manto vermelho;"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "e muito corpos dos santos falecidos ressuscitaram!"
+       ],
        [
-        "depois teceram uma coroa de espinhos, puseram a coroa em sua cabeça, e uma vara em sua mão direita. Então se ajoelharam diante de Jesus e zombaram, dizendo: “Salve, rei dos judeus!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "53"
+       ],
        [
-        "Cuspiram nele e, pegando uma vara, bateram na sua cabeça. Depois de zombar dele, tiraram-lhe o manto vermelho e, de novo, o vestiram com suas próprias roupas. Daí o levaram para crucificar. Quando saíam, encontraram um homem chamado Simão, da cidade de Cirene, e o obrigaram a carregar a cruz de Jesus. E chegaram a um lugar chamado Gólgota, que quer dizer “lugar da caveira”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "Saindo dos túmulos, depois da ressurreição de Jesus,"
+       ],
        [
-        "Ali deram vinho misturado com fel para Jesus beber. Ele provou, mas não quis beber. Depois de o crucificarem, fizeram um sorteio, repartindo entre si as suas vestes. E ficaram ali sentados, montando guarda. Acima da cabeça de Jesus puseram o motivo da sua condenação: “Este é Jesus, o Rei dos Judeus”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "apareceram na Cidade Santa"
+       ],
        [
-        "Com ele também crucificaram dois ladrões, um à direita e outro à esquerda de Jesus. As pessoas que passavam por ali o insultavam, balançando a cabeça e dizendo: “Tu, que ias destruir o Templo e construí-lo de novo em três dias, salva-te a ti mesmo! Se és o Filho de Deus, desce da cruz!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "e foram vistos por muitas pessoas."
+       ],
        [
-        "Do mesmo modo, os sumos sacerdotes, junto com os mestres da Lei e os anciãos, também zombavam de Jesus: “A outros salvou... a si mesmo não pode salvar! É Rei de Israel... Desça agora da cruz! e acreditaremos nele. Confiou em Deus; que o livre agora, se é que Deus o ama! Já que ele disse: Eu sou o Filho de Deus”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "54"
+       ],
        [
-        "Do mesmo modo, também os dois ladrões que foram crucificados com Jesus o insultavam. Desde o meio-dia até as três horas da tarde, houve escuridão sobre toda a terra. Pelas três horas da tarde, Jesus deu um forte grito: “Eli, Eli, lamá sabactâni?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "O oficial e os soldados"
+       ],
        [
-        "Que quer dizer: “Meu Deus, meu Deus, por que me abandonaste?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "que estavam com ele guardando Jesus,"
+       ],
        [
-        "Alguns dos que ali estavam, ouvindo-o, disseram: “Ele está chamando Elias!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "ao notarem o terremoto e tudo que havia acontecido,"
+       ],
        [
-        "E logo um deles, correndo, pegou uma esponja, ensopou-a em vinagre, colocou-a na ponta de uma vara, e lhe deu para beber. Outros, porém, disseram: “Deixa, vamos ver se Elias vem salvá-lo!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "ficaram com muito medo e disseram:"
+       ],
        [
-        "Então Jesus deu outra vez um forte grito e entregou o espírito. (Todos se ajoelham.)"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "E eis que a cortina do santuário rasgou-se de alto a baixo, em duas partes, a terra tremeu e as pedras se partiram. Os túmulos se abriram e muitos corpos dos santos falecidos ressuscitaram! Saindo dos túmulos, depois da ressurreição de Jesus, apareceram na Cidade Santa e foram vistos por muitas pessoas. O oficial e os soldados que estavam com ele guardando Jesus, ao notarem o terremoto e tudo que havia acontecido, ficaram com muito medo e disseram: “Ele era mesmo Filho de Deus!”"
+        "\"Ele era mesmo Filho de Deus!\""
        ]
       ]
      },
@@ -7700,9 +9284,10 @@
     "pt-BR": [
      {
       "k": "p",
+      "role": "summary",
       "lines": [
        [
-        "Faltavam dois dias para a Páscoa e para a festa dos ázimos. Os sumos sacerdotes e os mestres da Lei procuravam um meio de prender Jesus à traição, para matá-lo. Eles diziam: “Não durante a festa, para que não haja tumulto no meio do povo”."
+        "Procuravam um meio de prender Jesus à traição, para matá-lo."
        ]
       ]
      },
@@ -7710,7 +9295,37 @@
       "k": "p",
       "lines": [
        [
-        "Jesus estava em Betânia, na casa de Simão, o leproso. Quando estava à mesa, chegou uma mulher com um vaso de alabastro cheio de perfume de nardo puro, muito caro. Ela quebrou o vaso e derramou o perfume na cabeça de Jesus. Alguns que estavam ali ficaram indignados e comentavam: “Por que esse desperdício de perfume? Ele poderia ser vendido por mais de trezentas moedas de prata, que seriam dadas aos pobres”."
+        "Faltavam dois dias para a Páscoa"
+       ],
+       [
+        "e para a festa dos Ázimos."
+       ],
+       [
+        "Os sumos sacerdotes e os mestres da Lei"
+       ],
+       [
+        "procuravam um meio de prender Jesus à traição,"
+       ],
+       [
+        "para matá-lo."
+       ],
+       [
+        "Eles diziam:"
+       ],
+       [
+        "\"Não durante a festa,"
+       ],
+       [
+        "para que não haja um tumulto no meio do povo\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Derramou perfume em meu corpo, preparando-o para a sepultura."
        ]
       ]
      },
@@ -7718,7 +9333,91 @@
       "k": "p",
       "lines": [
        [
-        "E criticavam fortemente a mulher. Mas Jesus lhes disse: “Deixai-a em paz! Por que aborrecê-la? Ela praticou uma boa ação para comigo. Pobres sempre tereis convosco, e quando quiserdes podeis fazer-lhes o bem. Quanto a mim, não me tereis para sempre. Ela fez o que podia: derramou perfume em meu corpo, preparando-o para a sepultura. Em verdade vos digo: em qualquer parte que o Evangelho for pregado, em todo o mundo, será contado o que ela fez, como lembrança do seu gesto”."
+        "Jesus estava em Betânia, na casa de Simão, o leproso."
+       ],
+       [
+        "Quando estava à mesa,"
+       ],
+       [
+        "veio uma mulher com um vaso de alabastro"
+       ],
+       [
+        "cheio de perfume de nardo puro, muito caro."
+       ],
+       [
+        "Ela quebrou o vaso"
+       ],
+       [
+        "e derramou o perfume na cabeça de Jesus."
+       ],
+       [
+        "Alguns que estavam ali ficaram indignados e comentavam:"
+       ],
+       [
+        "\"Por que este desperdício de perfume?"
+       ],
+       [
+        "Ele poderia ser vendido"
+       ],
+       [
+        "por mais de trezentas moedas de prata,"
+       ],
+       [
+        "que seriam dadas aos pobres\"."
+       ],
+       [
+        "E criticavam fortemente a mulher."
+       ],
+       [
+        "Mas Jesus lhes disse:"
+       ],
+       [
+        "\"Deixai-a em paz! Por que aborrecê-la?"
+       ],
+       [
+        "Ela praticou uma boa ação para comigo."
+       ],
+       [
+        "Pobres sempre tereis convosco,"
+       ],
+       [
+        "e quando quiserdes podeis fazer-lhes o bem."
+       ],
+       [
+        "Quanto a mim, não me tereis para sempre."
+       ],
+       [
+        "Ela fez o que podia:"
+       ],
+       [
+        "derramou perfume em meu corpo,"
+       ],
+       [
+        "preparando-o para a sepultura."
+       ],
+       [
+        "Em verdade vos digo:"
+       ],
+       [
+        "em qualquer parte que o Evangelho for pregado,"
+       ],
+       [
+        "em todo o mundo,"
+       ],
+       [
+        "será contado o que ela fez,"
+       ],
+       [
+        "como lembrança do seu gesto\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Prometeram a Judas Iscariotes dar-lhe dinheiro."
        ]
       ]
      },
@@ -7726,7 +9425,34 @@
       "k": "p",
       "lines": [
        [
-        "Judas Iscariotes, um dos doze, foi ter com os sumos sacerdotes para entregar-lhes Jesus. Eles ficaram muito contentes quando ouviram isso, e prometeram dar-lhe dinheiro. Então, Judas começou a procurar uma boa oportunidade para entregar Jesus. No primeiro dia dos ázimos, quando se imolava o cordeiro pascal, os discípulos disseram a Jesus: “Onde queres que façamos os preparativos para comeres a Páscoa?”"
+        "Judas Iscariotes, um dos doze,"
+       ],
+       [
+        "foi ter com os sumos sacerdotes"
+       ],
+       [
+        "para entregar-lhes Jesus."
+       ],
+       [
+        "Eles ficaram muito contentes quando ouviram isso,"
+       ],
+       [
+        "e prometeram dar-lhe dinheiro."
+       ],
+       [
+        "Então, Judas começou a procurar"
+       ],
+       [
+        "uma boa oportunidade para entregar Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Onde está a sala em que vou comer a Páscoa com os meus discípulos?"
        ]
       ]
      },
@@ -7734,7 +9460,67 @@
       "k": "p",
       "lines": [
        [
-        "Jesus enviou então dois dos seus discípulos e lhes disse: “Ide à cidade. Um homem carregando um jarro de água virá ao vosso encontro. Segui-o e dizei ao dono da casa em que ele entrar: ‘O Mestre manda dizer: onde está a sala em que vou comer a Páscoa com os meus discípulos?’ Então ele vos mostrará, no andar de cima, uma grande sala, arrumada com almofadas. Ali fareis os preparativos para nós!”"
+        "No primeiro dia dos ázimos,"
+       ],
+       [
+        "quando se imolava o cordeiro pascal,"
+       ],
+       [
+        "os discípulos disseram a Jesus:"
+       ],
+       [
+        "\"Onde queres que façamos os preparativos"
+       ],
+       [
+        "para comeres a Páscoa?\""
+       ],
+       [
+        "Jesus enviou então dois dos seus discípulos"
+       ],
+       [
+        "e lhes disse: \"Ide à cidade."
+       ],
+       [
+        "Um homem carregando um jarro de água"
+       ],
+       [
+        "virá ao vosso encontro. Segui-o"
+       ],
+       [
+        "e dizei ao dono da casa em que ele entrar:"
+       ],
+       [
+        "'O Mestre manda dizer: onde está a sala"
+       ],
+       [
+        "em que vou comer a Páscoa com os meus discípulos?'"
+       ],
+       [
+        "Então ele vos mostrará, no andar de cima,"
+       ],
+       [
+        "uma grande sala, arrumada com almofadas."
+       ],
+       [
+        "Ali fareis os preparativos para nós!\""
+       ],
+       [
+        "Os discípulos saíram e foram à cidade."
+       ],
+       [
+        "Encontraram tudo como Jesus havia dito,"
+       ],
+       [
+        "e prepararam a Páscoa."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Um de vós, que come comigo, vai me trair."
        ]
       ]
      },
@@ -7742,7 +9528,61 @@
       "k": "p",
       "lines": [
        [
-        "Os discípulos saíram e foram à cidade. Encontraram tudo como Jesus havia dito, e preparam a Páscoa. Ao cair da tarde, Jesus foi com os doze. Enquanto estavam à mesa comendo, Jesus disse: “Em verdade vos digo: um de vós, que come comigo, vai me trair”."
+        "Ao cair da tarde, Jesus foi com os doze."
+       ],
+       [
+        "Enquanto estavam à mesa comendo,"
+       ],
+       [
+        "Jesus disse: \"Em verdade vos digo:"
+       ],
+       [
+        "um de vós, que come comigo, vai me trair\"."
+       ],
+       [
+        "Os discípulos começaram a ficar tristes"
+       ],
+       [
+        "e perguntaram a Jesus, um após outro:"
+       ],
+       [
+        "\"Acaso serei eu?\""
+       ],
+       [
+        "Jesus lhes disse:"
+       ],
+       [
+        "\"É um dos doze, que se serve comigo do mesmo prato."
+       ],
+       [
+        "O Filho do Homem segue seu caminho,"
+       ],
+       [
+        "conforme está escrito sobre ele."
+       ],
+       [
+        "Ai, porém, daquele que trair o Filho do Homem!"
+       ],
+       [
+        "Melhor seria que nunca tivesse nascido!\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Isto é o meu corpo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Isto é o meu sangue, o sangue da aliança."
        ]
       ]
      },
@@ -7750,7 +9590,52 @@
       "k": "p",
       "lines": [
        [
-        "Os discípulos começaram a ficar tristes e perguntaram a Jesus, um após o outro: “Acaso serei eu?”"
+        "Enquanto comiam, Jesus tomou o pão"
+       ],
+       [
+        "e, tendo pronunciado a bênção,"
+       ],
+       [
+        "partiu-o e entregou-lhes, dizendo:"
+       ],
+       [
+        "\"Tomai, isto é o meu corpo\"."
+       ],
+       [
+        "Em seguida, tomou o cálice, deu graças,"
+       ],
+       [
+        "entregou-lhes e todos beberam dele."
+       ],
+       [
+        "Jesus lhes disse:"
+       ],
+       [
+        "\"Isto é o meu sangue, o sangue da aliança,"
+       ],
+       [
+        "que é derramado em favor de muitos."
+       ],
+       [
+        "Em verdade vos digo:"
+       ],
+       [
+        "não beberei mais do fruto da videira,"
+       ],
+       [
+        "até o dia em que beberei o vinho novo"
+       ],
+       [
+        "no Reino de Deus\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Antes que o galo cante duas vezes, três vezes tu me negarás."
        ]
       ]
      },
@@ -7758,7 +9643,70 @@
       "k": "p",
       "lines": [
        [
-        "Jesus lhes disse: “É um dos doze, que se serve comigo do mesmo prato. O Filho do Homem segue seu caminho, conforme está escrito sobre ele. Ai, porém, daquele que trair o Filho do Homem! Melhor seria que nunca tivesse nascido!"
+        "Depois de terem cantado o hino,"
+       ],
+       [
+        "foram para o monte das Oliveiras."
+       ],
+       [
+        "Então Jesus disse aos discípulos:"
+       ],
+       [
+        "\"Todos vós ficareis desorientados,"
+       ],
+       [
+        "pois está escrito:"
+       ],
+       [
+        "'Ferirei o pastor e as ovelhas se dispersarão'."
+       ],
+       [
+        "Mas, depois de ressuscitar,"
+       ],
+       [
+        "eu vos precederei na Galileia\"."
+       ],
+       [
+        "Pedro, porém, lhe disse:"
+       ],
+       [
+        "\"Mesmo que todos fiquem desorientados,"
+       ],
+       [
+        "eu não ficarei\"."
+       ],
+       [
+        "Respondeu-lhe Jesus:"
+       ],
+       [
+        "\"Em verdade te digo:"
+       ],
+       [
+        "ainda hoje, esta noite,"
+       ],
+       [
+        "antes que o galo cante duas vezes,"
+       ],
+       [
+        "três vezes tu me negarás\"."
+       ],
+       [
+        "Mas Pedro repetiu com veemência:"
+       ],
+       [
+        "\"Ainda que tenha de morrer contigo, eu não te negarei\"."
+       ],
+       [
+        "E todos diziam o mesmo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Começou a sentir pavor e angústia."
        ]
       ]
      },
@@ -7766,7 +9714,112 @@
       "k": "p",
       "lines": [
        [
-        "”"
+        "Chegados a um lugar chamado Getsêmani,"
+       ],
+       [
+        "disse Jesus aos discípulos:"
+       ],
+       [
+        "\"Sentai-vos aqui, enquanto eu vou rezar!\""
+       ],
+       [
+        "Levou consigo Pedro, Tiago e João,"
+       ],
+       [
+        "e começou a sentir pavor e angústia."
+       ],
+       [
+        "Então Jesus lhes disse:"
+       ],
+       [
+        "\"Minha alma está triste até a morte."
+       ],
+       [
+        "Ficai aqui e vigiai\"."
+       ],
+       [
+        "Jesus foi um pouco mais adiante"
+       ],
+       [
+        "e, prostrando-se por terra, rezava"
+       ],
+       [
+        "que, se fosse possível, aquela hora se afastasse dele."
+       ],
+       [
+        "Dizia: \"Abbá! Pai! Tudo te é possível:"
+       ],
+       [
+        "Afasta de mim este cálice!"
+       ],
+       [
+        "Contudo, não seja feito o que eu quero,"
+       ],
+       [
+        "mas sim o que tu queres!\""
+       ],
+       [
+        "Voltando, encontrou os discípulos dormindo."
+       ],
+       [
+        "Então disse a Pedro:"
+       ],
+       [
+        "\"Simão, tu estás dormindo?"
+       ],
+       [
+        "Não pudeste vigiar nem uma hora?"
+       ],
+       [
+        "Vigiai e orai, para não cairdes em tentação!"
+       ],
+       [
+        "Pois o espírito está pronto, mas a carne é fraca\"."
+       ],
+       [
+        "Jesus afastou-se de novo"
+       ],
+       [
+        "e rezou, repetindo as mesmas palavras."
+       ],
+       [
+        "Voltou outra vez e os encontrou dormindo,"
+       ],
+       [
+        "porque seus olhos estavam pesados de sono"
+       ],
+       [
+        "e eles não sabiam o que responder."
+       ],
+       [
+        "Ao voltar pela terceira vez, Jesus lhes disse:"
+       ],
+       [
+        "\"Agora podeis dormir e descansar."
+       ],
+       [
+        "Basta! Chegou a hora!"
+       ],
+       [
+        "Eis que o Filho do Homem é entregue"
+       ],
+       [
+        "nas mãos dos pecadores."
+       ],
+       [
+        "Levantai-vos! Vamos!"
+       ],
+       [
+        "Aquele que vai me trair já está chegando\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Prendei-o e levai-o com segurança!"
        ]
       ]
      },
@@ -7774,7 +9827,85 @@
       "k": "p",
       "lines": [
        [
-        "Enquanto comiam, Jesus tomou o pão e, tendo pronunciado a bênção, partiu-o e entregou-lhes, dizendo: “Tomai, isto é o meu corpo”."
+        "E logo, enquanto Jesus ainda falava,"
+       ],
+       [
+        "chegou Judas, um dos doze,"
+       ],
+       [
+        "com uma multidão armada de espadas e paus."
+       ],
+       [
+        "Vinham da parte dos sumos sacerdotes,"
+       ],
+       [
+        "dos mestres da Lei e dos anciãos do povo."
+       ],
+       [
+        "O traidor tinha combinado com eles um sinal,"
+       ],
+       [
+        "dizendo: \"É aquele a quem eu beijar."
+       ],
+       [
+        "Prendei-o e levai-o com segurança!\""
+       ],
+       [
+        "Judas logo se aproximou de Jesus, dizendo:"
+       ],
+       [
+        "\"Mestre!\", e o beijou."
+       ],
+       [
+        "Então lançaram as mãos sobre ele e o prenderam."
+       ],
+       [
+        "Mas um dos presentes puxou a espada"
+       ],
+       [
+        "e feriu o empregado do sumo sacerdote,"
+       ],
+       [
+        "cortando-lhe a orelha."
+       ],
+       [
+        "Jesus tomou a palavra e disse:"
+       ],
+       [
+        "\"Vós saístes com espadas e paus para me prender,"
+       ],
+       [
+        "como se eu fosse um assaltante."
+       ],
+       [
+        "Todos os dias eu estava convosco, no Templo, ensinando,"
+       ],
+       [
+        "e não me prendestes."
+       ],
+       [
+        "Mas isso acontece para que se cumpram as Escrituras\"."
+       ],
+       [
+        "Então todos o abandonaram e fugiram."
+       ],
+       [
+        "Um jovem, vestido apenas com um lençol,"
+       ],
+       [
+        "estava seguindo a Jesus, e eles o prenderam."
+       ],
+       [
+        "Mas o jovem largou o lençol e fugiu nu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Tu és o Messias, o Filho de Deus Bendito?"
        ]
       ]
      },
@@ -7782,7 +9913,127 @@
       "k": "p",
       "lines": [
        [
-        "Em seguida, tomou o cálice, deu graças, entregou-lhes e todos beberam dele. Jesus lhes disse: “Isto é o meu sangue, o sangue da aliança, que é derramado em favor de muitos. Em verdade vos digo: não beberei mais do fruto da videira, até o dia em que beberei o vinho novo no Reino de Deus”."
+        "Então levaram Jesus ao Sumo Sacerdote,"
+       ],
+       [
+        "e todos os sumos sacerdotes, os anciãos"
+       ],
+       [
+        "e os mestres da Lei se reuniram."
+       ],
+       [
+        "Pedro seguiu Jesus de longe,"
+       ],
+       [
+        "até o interior do pátio do Sumo Sacerdote."
+       ],
+       [
+        "Sentado com os guardas, aquecia-se junto ao fogo."
+       ],
+       [
+        "Ora, os sumos sacerdotes e todo o Sinédrio"
+       ],
+       [
+        "procuravam um testemunho contra Jesus,"
+       ],
+       [
+        "para condená-lo à morte, mas não encontravam."
+       ],
+       [
+        "Muitos testemunhavam falsamente contra ele,"
+       ],
+       [
+        "mas seus testemunhos não concordavam."
+       ],
+       [
+        "Alguns se levantaram"
+       ],
+       [
+        "e testemunharam falsamente contra ele, dizendo:"
+       ],
+       [
+        "\"Nós o ouvimos dizer:"
+       ],
+       [
+        "'Vou destruir este templo feito pelas mãos dos homens,"
+       ],
+       [
+        "e em três dias construirei um outro,"
+       ],
+       [
+        "que não será feito por mãos humanas!'\""
+       ],
+       [
+        "Mas nem assim o testemunho deles concordava."
+       ],
+       [
+        "Então, o Sumo Sacerdote levantou-se no meio deles"
+       ],
+       [
+        "e interrogou a Jesus:"
+       ],
+       [
+        "\"Nada tens a responder"
+       ],
+       [
+        "ao que estes testemunham contra ti?\""
+       ],
+       [
+        "Jesus continuou calado, e nada respondeu."
+       ],
+       [
+        "O Sumo Sacerdote interrogou-o de novo:"
+       ],
+       [
+        "\"Tu és o Messias, o Filho de Deus Bendito?\""
+       ],
+       [
+        "Jesus respondeu: \"Eu sou."
+       ],
+       [
+        "E vereis o Filho do Homem"
+       ],
+       [
+        "sentado à direita do Todo-Poderoso,"
+       ],
+       [
+        "vindo com as nuvens do céu\"."
+       ],
+       [
+        "O Sumo Sacerdote rasgou suas vestes e disse:"
+       ],
+       [
+        "\"Que necessidade temos ainda de testemunhas?"
+       ],
+       [
+        "Vós ouvistes a blasfêmia! O que vos parece?\""
+       ],
+       [
+        "Então todos o julgaram réu de morte."
+       ],
+       [
+        "Alguns começaram a cuspir em Jesus."
+       ],
+       [
+        "Cobrindo-lhe o rosto,"
+       ],
+       [
+        "o esbofeteavam e diziam:"
+       ],
+       [
+        "\"Profetiza!\""
+       ],
+       [
+        "Os guardas também davam-lhe bofetadas."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Nem conheço esse homem de quem estais falando."
        ]
       ]
      },
@@ -7790,7 +10041,82 @@
       "k": "p",
       "lines": [
        [
-        "Depois de terem cantado o hino, foram para o monte das Oliveiras. Então Jesus disse aos discípulos: “Todos vós ficareis desorientados, pois está escrito: ‘Ferirei o pastor e as ovelhas se dispersarão’. Mas, depois de ressuscitar, eu vos precederei na Galileia”."
+        "Pedro estava em baixo, no pátio."
+       ],
+       [
+        "Chegou uma criada do Sumo Sacerdote,"
+       ],
+       [
+        "e, quando viu Pedro que se aquecia,"
+       ],
+       [
+        "olhou bem para ele e disse:"
+       ],
+       [
+        "\"Tu também estavas com Jesus, o Nazareno!\""
+       ],
+       [
+        "Mas Pedro negou, dizendo:"
+       ],
+       [
+        "\"Não sei e nem compreendo o que estás dizendo!\""
+       ],
+       [
+        "E foi para fora, para a entrada do pátio."
+       ],
+       [
+        "E o galo cantou."
+       ],
+       [
+        "A criada viu Pedro,"
+       ],
+       [
+        "e de novo começou a dizer aos que estavam perto:"
+       ],
+       [
+        "\"Este é um deles\"."
+       ],
+       [
+        "Mas Pedro negou outra vez."
+       ],
+       [
+        "Pouco depois,"
+       ],
+       [
+        "os que estavam junto diziam novamente a Pedro:"
+       ],
+       [
+        "\"É claro que tu és um deles, pois és da Galileia\"."
+       ],
+       [
+        "Aí Pedro começou a maldizer e a jurar, dizendo:"
+       ],
+       [
+        "\"Nem conheço esse homem de quem estais falando\"."
+       ],
+       [
+        "E nesse instante um galo cantou pela segunda vez."
+       ],
+       [
+        "Lembrou-se Pedro da palavra que Jesus lhe havia dito:"
+       ],
+       [
+        "\"Antes que um galo cante duas vezes,"
+       ],
+       [
+        "três vezes tu me negarás\"."
+       ],
+       [
+        "Caindo em si, ele começou a chorar."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Vós quereis que eu solte o rei dos judeus?"
        ]
       ]
      },
@@ -7798,7 +10124,118 @@
       "k": "p",
       "lines": [
        [
-        "Pedro, porém, lhe disse: “Mesmo que todos fiquem desorientados, eu não ficarei”."
+        "Logo pela manhã, os sumos sacerdotes,"
+       ],
+       [
+        "com os anciãos, os mestres da Lei e todo o Sinédrio,"
+       ],
+       [
+        "reuniram-se e tomaram uma decisão."
+       ],
+       [
+        "Levaram Jesus amarrado e o entregaram a Pilatos."
+       ],
+       [
+        "E Pilatos o interrogou:"
+       ],
+       [
+        "\"Tu és o rei dos judeus?\""
+       ],
+       [
+        "Jesus respondeu: \"Tu o dizes\"."
+       ],
+       [
+        "E os sumos sacerdotes"
+       ],
+       [
+        "faziam muitas acusações contra Jesus."
+       ],
+       [
+        "Pilatos o interrogou novamente:"
+       ],
+       [
+        "\"Nada tens a responder?"
+       ],
+       [
+        "Vê de quanta coisa te acusam!\""
+       ],
+       [
+        "Mas Jesus não respondeu mais nada,"
+       ],
+       [
+        "de modo que Pilatos ficou admirado."
+       ],
+       [
+        "Por ocasião da Páscoa,"
+       ],
+       [
+        "Pilatos soltava o prisioneiro que eles pedissem."
+       ],
+       [
+        "Havia então um preso, chamado Barrabás,"
+       ],
+       [
+        "entre os bandidos, que, numa revolta,"
+       ],
+       [
+        "tinha cometido um assassinato."
+       ],
+       [
+        "A multidão subiu a Pilatos e começou a pedir"
+       ],
+       [
+        "que ele fizesse como era costume."
+       ],
+       [
+        "Pilatos perguntou:"
+       ],
+       [
+        "\"Vós quereis que eu solte o rei dos judeus?\""
+       ],
+       [
+        "Ele bem sabia que os sumos sacerdotes"
+       ],
+       [
+        "haviam entregado Jesus por inveja."
+       ],
+       [
+        "Porém, os sumos sacerdotes instigaram a multidão"
+       ],
+       [
+        "para que Pilatos lhes soltasse Barrabás."
+       ],
+       [
+        "Pilatos perguntou de novo:"
+       ],
+       [
+        "\"Que quereis então que eu faça com o rei dos Judeus?\""
+       ],
+       [
+        "Mas eles tornaram a gritar: \"Crucifica-o!\""
+       ],
+       [
+        "Pilatos perguntou: \"Mas, que mal ele fez?\""
+       ],
+       [
+        "Eles, porém, gritaram com mais força: \"Crucifica-o!\""
+       ],
+       [
+        "Pilatos, querendo satisfazer a multidão,"
+       ],
+       [
+        "soltou Barrabás, mandou flagelar Jesus"
+       ],
+       [
+        "e o entregou para ser crucificado."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Teceram uma coroa de espinhos e a puseram em sua cabeça."
        ]
       ]
      },
@@ -7806,7 +10243,55 @@
       "k": "p",
       "lines": [
        [
-        "Respondeu-lhe Jesus: “Em verdade te digo: ainda hoje, esta noite, antes que o galo cante duas vezes, três vezes tu me negarás”."
+        "Então os soldados o levaram para dentro do palácio,"
+       ],
+       [
+        "isto é, o pretório,"
+       ],
+       [
+        "e convocaram toda a tropa."
+       ],
+       [
+        "Vestiram Jesus com um manto vermelho,"
+       ],
+       [
+        "teceram uma coroa de espinhos"
+       ],
+       [
+        "e a puseram em sua cabeça."
+       ],
+       [
+        "E começaram a saudá-lo: \"Salve, rei dos judeus!\""
+       ],
+       [
+        "Batiam-lhe na cabeça com uma vara."
+       ],
+       [
+        "Cuspiam nele e, dobrando os joelhos,"
+       ],
+       [
+        "prostravam-se diante dele."
+       ],
+       [
+        "Depois de zombarem de Jesus,"
+       ],
+       [
+        "tiraram-lhe o manto vermelho,"
+       ],
+       [
+        "vestiram-no de novo com suas próprias roupas"
+       ],
+       [
+        "e o levaram para fora, a fim de crucificá-lo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Levaram Jesus para o lugar chamado Gólgota."
        ]
       ]
      },
@@ -7814,7 +10299,28 @@
       "k": "p",
       "lines": [
        [
-        "Mas Pedro repetiu com veemência: “Ainda que tenha de morrer contigo, eu não te negarei”."
+        "Os soldados obrigaram um certo Simão de Cirene,"
+       ],
+       [
+        "pai de Alexandre e de Rufo, que voltava do campo,"
+       ],
+       [
+        "a carregar a cruz."
+       ],
+       [
+        "Levaram Jesus para o lugar chamado Gólgota,"
+       ],
+       [
+        "que quer dizer \"Calvário\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Ele foi contado entre os malfeitores."
        ]
       ]
      },
@@ -7822,7 +10328,49 @@
       "k": "p",
       "lines": [
        [
-        "E todos diziam o mesmo. Chegados a um lugar chamado Getsêmani, disse Jesus aos discípulos: “Sentai-vos aqui, enquanto eu vou rezar!”"
+        "Deram-lhe vinho misturado com mirra,"
+       ],
+       [
+        "mas ele não o tomou."
+       ],
+       [
+        "Então o crucificaram"
+       ],
+       [
+        "e repartiram as suas roupas, tirando a sorte,"
+       ],
+       [
+        "para ver que parte caberia a cada um."
+       ],
+       [
+        "Eram nove horas da manhã"
+       ],
+       [
+        "quando o crucificaram."
+       ],
+       [
+        "E ali estava uma inscrição"
+       ],
+       [
+        "com o motivo de sua condenação:"
+       ],
+       [
+        "\"O Rei dos Judeus\"."
+       ],
+       [
+        "Com Jesus foram crucificados dois ladrões,"
+       ],
+       [
+        "um à direita e outro à esquerda."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "A outros salvou, a si mesmo não pode salvar!"
        ]
       ]
      },
@@ -7830,7 +10378,58 @@
       "k": "p",
       "lines": [
        [
-        "Levou consigo Pedro, Tiago e João, e começou a sentir pavor e angústia. Então Jesus lhes disse: “Minha alma está triste até à morte. Ficai aqui e vigiai”."
+        "Os que por ali passavam o insultavam,"
+       ],
+       [
+        "balançando a cabeça e dizendo:"
+       ],
+       [
+        "\"Ah! Tu que destróis o Templo"
+       ],
+       [
+        "e o reconstróis em três dias,"
+       ],
+       [
+        "salva-te a ti mesmo, descendo da cruz!\""
+       ],
+       [
+        "Do mesmo modo, os sumos sacerdotes,"
+       ],
+       [
+        "com os mestres da Lei,"
+       ],
+       [
+        "zombavam entre si, dizendo:"
+       ],
+       [
+        "\"A outros salvou,"
+       ],
+       [
+        "a si mesmo não pode salvar!"
+       ],
+       [
+        "O Messias, o rei de Israel..."
+       ],
+       [
+        "que desça agora da cruz,"
+       ],
+       [
+        "para que vejamos e acreditemos!\""
+       ],
+       [
+        "Os que foram crucificados com ele"
+       ],
+       [
+        "também o insultavam."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Jesus deu um forte grito e expirou."
        ]
       ]
      },
@@ -7838,277 +10437,47 @@
       "k": "p",
       "lines": [
        [
-        "Jesus foi um pouco mais adiante e, prostrando-se por terra, rezava que, se fosse possível, aquela hora se afastasse dele. Dizia: “Abá! Pai! Tudo te é possível: Afasta de mim este cálice! Contudo, não seja feito o que eu quero, mas sim o que tu queres!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "Quando chegou o meio-dia,"
+       ],
        [
-        "Voltando, encontrou os discípulos dormindo. Então disse a Pedro: “Simão, tu estás dormindo? Não pudeste vigiar nem mesmo uma hora? Vigiai e orai, para não cairdes em tentação! Pois o espírito está pronto, mas a carne é fraca”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "houve escuridão sobre toda a terra,"
+       ],
        [
-        "Jesus afastou-se de novo e rezou, repetindo as mesmas palavras. Voltou outra vez e os encontrou dormindo, porque seus olhos estavam pesados de sono e eles não sabiam o que responder. Ao voltar pela terceira vez, Jesus lhes disse: “Agora podeis dormir e descansar. Basta! Chegou a hora! Eis que o Filho do Homem é entregue nas mãos dos pecadores. Levantai-vos! Vamos! Aquele que vai me trair já está chegando”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "até as três horas da tarde."
+       ],
        [
-        "E logo, enquanto Jesus ainda falava, chegou Judas, um dos doze, com uma multidão armada de espadas e paus. Vinham da parte dos sumos sacerdotes, dos mestres da Lei e dos anciãos do povo. O traidor tinha combinado com eles um sinal, dizendo: “É aquele a quem eu beijar. Prendei-o e levai-o com segurança!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "Pelas três da tarde, Jesus gritou com voz forte:"
+       ],
        [
-        "Judas logo se aproximou de Jesus dizendo: “Mestre!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "\"Eloi, Eloi, lamá sabactâni?\","
+       ],
        [
-        "E o beijou. Então lançaram as mãos sobre ele e o prenderam. Mas um dos presentes puxou a espada e feriu o empregado do sumo sacerdote, cortando-lhe a orelha. Jesus tomou a palavra e disse: “Vós saístes com espadas e paus para me prender, como se eu fosse um assaltante. Todos os dias eu estava convosco, no Templo, ensinando, e não me prendestes. Mas, isso acontece para que se cumpram as Escrituras”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "que quer dizer: \"Meu Deus, meu Deus,"
+       ],
        [
-        "Então todos o abandonaram e fugiram. Um jovem, vestido apenas com um lençol, estava seguindo a Jesus, e eles o prenderam. Mas o jovem largou o lençol e fugiu nu. Então levaram Jesus ao Sumo Sacerdote, e todos os sumos sacerdotes, os anciãos e os mestres da Lei se reuniram. Pedro seguiu Jesus de longe, até o interior do pátio do Sumo Sacerdote. Sentado com os guardas, aquecia-se junto ao fogo. Ora, os sumos sacerdotes e todo o Sinédrio procuravam um testemunho contra Jesus, para condená-lo à morte, mas não encontravam. Muitos testemunhavam falsamente contra ele, mas seus testemunhos não concordavam. Alguns se levantaram e testemunharam falsamente contra ele, dizendo: “Nós o ouvimos dizer: ‘Vou destruir este templo feito pelas mãos dos homens, e em três dias construirei um outro, que não será feito por mãos humanas!’”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "por que me abandonaste?\""
+       ],
        [
-        "Mas nem assim o testemunho deles concordava. Então, o Sumo Sacerdote levantou-se no meio deles e interrogou Jesus: “Nada tens a responder ao que estes testemunharam contra ti¹”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "Alguns dos que estavam ali perto,"
+       ],
        [
-        "Jesus continuou calado, e nada respondeu. O Sumo Sacerdote interrogou-o de novo: “Tu és o Messias, o Filho de Deus Bendito?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "ouvindo-o, disseram:"
+       ],
        [
-        "Jesus respondeu: “Eu sou. E vereis o Filho do Homem sentado à direita do Todo-Poderoso, vindo com as nuvens do céu”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "\"Vejam, ele está chamando Elias!\""
+       ],
        [
-        "O Sumo Sacerdote rasgou suas vestes e disse: “Que necessidade temos ainda de testemunhas? Vós ouvistes a blasfêmia! O que vos parece?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "Alguém correu e embebeu uma esponja em vinagre,"
+       ],
        [
-        "Então todos o julgaram réu de morte. Alguns começaram a cuspir em Jesus. Cobrindo-lhe o rosto, o esbofeteavam e diziam: “Profetiza!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "colocou-a na ponta de uma vara"
+       ],
        [
-        "Os guardas também davam-lhe bofetadas. Pedro estava em baixo, no pátio. Chegou uma criada do Sumo Sacerdote, e, quando viu Pedro que se aquecia, olhou bem para ele e disse: “Tu também estavas com Jesus, o Nazareno!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "e lhe deu de beber, dizendo:"
+       ],
        [
-        "Mas Pedro negou, dizendo: “Não sei e nem compreendo o que estás dizendo!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "E foi para fora, para a entrada do pátio. E o galo cantou. A criada viu Pedro, e de novo começou a dizer aos que estavam perto: “Este é um deles”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Mas Pedro negou outra vez. Pouco depois, os que estavam junto diziam novamente a Pedro: “É claro que tu és um deles, pois és da Galileia”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aí Pedro começou a maldizer e a jurar, dizendo: “Nem conheço esse homem de quem estais falando”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "E nesse instante um galo cantou pela segunda vez. Lembrou-se Pedro da palavra que Jesus lhe havia dito: “Antes que um galo cante duas vezes, três vezes tu me negarás”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Caindo em si, ele começou a chorar. Logo pela manhã, os sumos sacerdotes, com os anciãos, os mestres da Lei e todo o Sinédrio, reuniram-se e tomaram uma decisão. Levaram Jesus amarrado e o entregaram a Pilatos. E Pilatos o interrogou: “Tu és o rei dos judeus?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Jesus respondeu: “Tu o dizes”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "E os sumos sacerdotes faziam muitas acusações contra Jesus. Pilatos o interrogou novamente: “Nada tens a responder? Vê de quanta coisa te acusam!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Mas Jesus não respondeu mais nada, de modo que Pilatos ficou admirado. Por ocasião da Páscoa, Pilatos soltava o prisioneiro que eles pedissem. Havia então um preso, chamado Barrabás, entre os bandidos, que, numa revolta, tinha cometido um assassinato. A multidão subiu a Pilatos e começou a pedir que ele fizesse como era costume. Pilatos perguntou: “Vós quereis que eu solte o rei dos judeus?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Ele bem sabia que os sumos sacerdotes haviam entregado Jesus por inveja. Porém, os sumos sacerdotes instigavam a multidão para que Pilatos lhes soltasse Barrabás. Pilatos perguntou de novo: “Que quereis então que eu faça com o rei dos Judeus?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Mas eles tornaram a gritar: Crucifica-o!"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Pilatos perguntou: “Mas, que mal que ele fez?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Eles, porém, gritaram com mais força: Crucifica-o!"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Pilatos, querendo satisfazer a multidão, soltou Barrabás, mandou flagelar Jesus e o entregou para ser crucificado. Então os soldados o levaram para dentro do palácio, isto é, o pretório, e convocaram toda a tropa. Vestiram Jesus com um manto vermelho, teceram uma coroa de espinhos e a puseram em sua cabeça. E começaram a saudá-lo dizendo: “Salve, rei dos judeus!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Batiam-lhe na cabeça com uma vara. Cuspiam nele e, dobrando os joelhos, prostravam-se diante dele. Depois de zombarem de Jesus, tiraram-lhe o mando vermelho, vestiram-no de novo com suas próprias roupas e o levaram para fora, a fim de crucificá-lo. Os soldados obrigaram um certo Simão de Cirene, pai de Alexandre e de Rufo, que voltava do campo, a carregar a cruz. Levaram Jesus para o lugar chamado Gólgota, que quer dizer “Calvário”. Deram-lhe vinho misturado com mirra, mas ele não o tomou. Então o crucificaram e repartiram as suas roupas, tirando a sorte, para ver que parte caberia a cada um."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Eram nove horas de manhã quando o crucificaram. E ali estava uma inscrição com o motivo de sua condenação: “O Rei dos Judeus”. Com Jesus foram crucificados dois ladrões, um à direita e outro à esquerda. Os que por ali passavam o insultavam, balançando a cabeça e dizendo: “Ah! Tu que destróis o Templo e o reconstróis em três dias, salva-te a ti mesmo, descendo da cruz!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Do mesmo modo, os sumos sacerdotes, com os mestres da Lei, zombavam entre dizendo: “A outros salvou, a si mesmo não pode salvar! O messias, o rei de Israel... que desça agora da cruz, para que vejamos e acreditemos!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Os que foram crucificados com ele também o insultavam. Quando chegou o meio-dia, houve escuridão sobre toda a terra, até às três horas da tarde. Pelas três da tarde, Jesus gritou com voz forte: “Eloi, Eloi, lamá sabactâni?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Que quer dizer: “Meu Deus, meu Deus, por que me abandonastes?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alguns dos que estavam ali perto, ouvindo-o, disseram: “Vejam, ele está chamando Elias!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alguém correu e embebeu uma esponja em vinagre, colocou-a na ponta de uma vara e lhe deu de beber, dizendo: “Deixai! Vamos ver se Elias vem tirá-lo da cruz”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "\"Deixai! Vamos ver se Elias vem tirá-lo da cruz\"."
+       ],
        [
         "Então Jesus deu um forte grito e expirou."
        ]
@@ -8118,7 +10487,10 @@
       "k": "p",
       "lines": [
        [
-        "Aqui todos se ajoelham e faz-se uma pausa silenciosa e orante."
+        {
+         "m": "rubric",
+         "t": "Aqui todos se ajoelham e faz-se uma pausa."
+        }
        ]
       ]
      },
@@ -8126,7 +10498,55 @@
       "k": "p",
       "lines": [
        [
-        "Nesse momento a cortina do santuário rasgou-se de alto a baixo, em duas partes. Quando o oficial do exército, que estava bem em frente dele, viu como Jesus havia expirado, disse: “Na verdade, este homem era Filho de Deus!”"
+        "Nesse momento a cortina do santuário"
+       ],
+       [
+        "rasgou-se de alto a baixo, em duas partes."
+       ],
+       [
+        "Quando o oficial do exército,"
+       ],
+       [
+        "que estava bem em frente dele,"
+       ],
+       [
+        "viu como Jesus havia expirado, disse:"
+       ],
+       [
+        "\"Na verdade, este homem era Filho de Deus!\""
+       ],
+       [
+        "Estavam ali também algumas mulheres,"
+       ],
+       [
+        "que olhavam de longe;"
+       ],
+       [
+        "entre elas, Maria Madalena,"
+       ],
+       [
+        "Maria, mãe de Tiago Menor e de Joset, e Salomé."
+       ],
+       [
+        "Elas haviam acompanhado e servido a Jesus"
+       ],
+       [
+        "quando ele estava na Galileia."
+       ],
+       [
+        "Também muitas outras"
+       ],
+       [
+        "que tinham ido com Jesus a Jerusalém, estavam ali."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "José rolou uma pedra à entrada do sepulcro."
        ]
       ]
      },
@@ -8134,15 +10554,61 @@
       "k": "p",
       "lines": [
        [
-        "Estavam ali também algumas mulheres, que olhavam de longe; entre elas, Maria Madalena, Maria, mãe de Tiago Menor e de Joset, e Salomé. Elas haviam acompanhado e servido a Jesus quando ele estava na Galileia. Também muitas outras que tinham ido com Jesus a Jerusalém, estavam ali. Era o dia da preparação, isto é, a véspera do sábado, e já caíra a tarde. Então, José de Arimateia, membro respeitável do Conselho, que também esperava o Reino de Deus, cheio de coragem, foi a Pilatos e pediu o corpo de Jesus. Pilatos ficou admirado, quando soube que Jesus estava morto."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "Era o dia da preparação, isto é, a véspera do sábado,"
+       ],
        [
-        "Chamou o oficial do exército e perguntou se Jesus tinha morrido havia muito tempo. Informado pelo oficial, Pilatos entregou o corpo a José. José comprou um lençol de linho, desceu o corpo da cruz e o envolveu no lençol. Depois colocou-o num túmulo escavado na rocha, e rolou uma pedra à entrada do sepulcro. Maria Madalena e Maria, mãe de Joset, observavam onde Jesus foi colocado."
+        "e já caíra a tarde."
+       ],
+       [
+        "Então, José de Arimateia,"
+       ],
+       [
+        "membro respeitável do Conselho,"
+       ],
+       [
+        "que também esperava o Reino de Deus,"
+       ],
+       [
+        "cheio de coragem, foi a Pilatos"
+       ],
+       [
+        "e pediu o corpo de Jesus."
+       ],
+       [
+        "Pilatos ficou admirado,"
+       ],
+       [
+        "quando soube que Jesus estava morto."
+       ],
+       [
+        "Chamou o oficial do exército"
+       ],
+       [
+        "e perguntou se Jesus tinha morrido há muito tempo."
+       ],
+       [
+        "Informado pelo oficial,"
+       ],
+       [
+        "Pilatos entregou o corpo a José."
+       ],
+       [
+        "José comprou um lençol de linho,"
+       ],
+       [
+        "desceu o corpo da cruz e o envolveu no lençol."
+       ],
+       [
+        "Depois colocou-o num túmulo escavado na rocha,"
+       ],
+       [
+        "e rolou uma pedra à entrada do sepulcro."
+       ],
+       [
+        "Maria Madalena, e Maria, mãe de Joset,"
+       ],
+       [
+        "observavam onde Jesus foi colocado."
        ]
       ]
      },
@@ -12178,9 +14644,1347 @@
     "pt-BR": [
      {
       "k": "p",
+      "role": "summary",
       "lines": [
        [
-        "Chegada que foi a hora, Jesus pôs-se à mesa, e com ele os apóstolos. Disse-lhes: Tenho desejado ardentemente comer convosco esta Páscoa, antes de sofrer. Pois vos digo: não tornarei a comê-la, até que ela se cumpra no Reino de Deus. Pegando o cálice, deu graças e disse: Tomai este cálice e distribuí-o entre vós. Pois vos digo: já não tornarei a beber do fruto da videira, até que venha o Reino de Deus. Tomou em seguida o pão e depois de ter dado graças, partiu-o e deu-lho, dizendo: Isto é o meu corpo, que é dado por vós; fazei isto em memória de mim. Do mesmo modo tomou também o cálice, depois de cear, dizendo: Este cálice é a Nova Aliança em meu sangue, que é derramado por vós. Entretanto, eis que a mão de quem me trai está à mesa comigo. O Filho do Homem vai, segundo o que está determinado, mas ai daquele homem por quem ele é traído! Perguntavam então os discípulos entre si quem deles seria o que tal haveria de fazer. Surgiu também entre eles uma discussão: qual deles seria o maior. E Jesus disse-lhes: Os reis dos pagãos dominam como senhores, e os que exercem sobre eles autoridade chamam-se benfeitores. Que não seja assim entre vós; mas o que entre vós é o maior, torne-se como o último; e o que governa seja como o servo. Pois qual é o maior: o que está sentado à mesa ou o que serve? Não é aquele que está sentado à mesa? Todavia, eu estou no meio de vós, como aquele que serve. E vós tendes permanecido comigo nas minhas provações; eu, pois, disponho do Reino a vosso favor, assim como meu Pai o dispôs a meu favor, para que comais e bebais à minha mesa no meu Reino e vos senteis em tronos, para julgar as doze tribos de Israel. Simão, Simão, eis que Satanás vos reclamou para vos peneirar como o trigo; mas eu roguei por ti, para que a tua confiança não desfaleça; e tu, por tua vez, confirma os teus irmãos. Pedro disse-lhe: Senhor, estou pronto a ir contigo tanto para a prisão como para a morte. Jesus respondeu-lhe: Digo-te, Pedro, não cantará hoje o galo, até que três vezes hajas negado que me conheces. Depois ajuntou: Quando vos mandei sem bolsa, sem mochila e sem calçado, faltou-vos porventura alguma coisa? Eles responderam: Nada. Mas agora, disse-lhes ele, aquele que tem uma bolsa, tome-a; aquele que tem uma mochila, tome-a igualmente; e aquele que não tiver uma espada, venda sua capa para comprar uma. Pois vos digo: é necessário que se cumpra em mim ainda este oráculo: E foi contado entre os malfeitores (Is 21,19). Com efeito, aquilo que me diz respeito está próximo de se cumprir. Eles replicaram: Senhor, eis aqui duas espadas. Basta, respondeu ele. Conforme o seu costume, Jesus saiu dali e dirigiu-se para o monte das Oliveiras, seguido dos seus discípulos. Ao chegar àquele lugar, disse-lhes: Orai para que não caiais em tentação. Depois se afastou deles à distância de um tiro de pedra e, ajoelhando-se, orava: Pai, se é de teu agrado, afasta de mim este cálice! Não se faça, todavia, a minha vontade, mas sim a tua. Apareceu-lhe então um anjo do céu para confortá-lo. Ele entrou em agonia e orava ainda com mais instância, e seu suor tornou-se como gotas de sangue a escorrer pela terra. Depois de ter rezado, levantou-se, foi ter com os discípulos e achou-os adormecidos de tristeza. Disse-lhes: Por que dormis? Levantai-vos, orai, para não cairdes em tentação. Ele ainda falava, quando apareceu uma multidão de gente; e à testa deles vinha um dos Doze, que se chamava Judas. Achegou-se de Jesus para o beijar. Jesus perguntou-lhe: Judas, com um beijo trais o Filho do Homem! Os que estavam ao redor dele, vendo o que ia acontecer, perguntaram: Senhor, devemos atacá-los à espada? E um deles feriu o servo do príncipe dos sacerdotes, decepando-lhe a orelha direita. Mas Jesus interveio: Deixai, basta. E, tocando na orelha daquele homem, curou-o. Voltando-se para os príncipes dos sacerdotes, para os oficiais do templo e para os anciãos que tinham vindo contra ele, disse-lhes: Saístes armados de espadas e cacetes, como se viésseis contra um ladrão. Entretanto, eu estava todos os dias convosco no templo, e não estendestes as mãos contra mim; mas esta é a vossa hora e do poder das trevas. Prenderam-no então e conduziram-no à casa do príncipe dos sacerdotes. Pedro seguia-o de longe. Acenderam um fogo no meio do pátio, e sentaram-se em redor. Pedro veio sentar-se com eles. Uma criada percebeu-o sentado junto ao fogo, encarou-o de perto e disse: Também este homem estava com ele. Mas ele negou-o: Mulher, não o conheço. Pouco depois, viu-o outro e disse-lhe: Também tu és um deles. Pedro respondeu: Não, eu não o sou. Passada quase uma hora, afirmava um outro: Certamente também este homem estava com ele, pois também é galileu. Mas Pedro disse: Meu amigo, não sei o que queres dizer. E no mesmo instante, quando ainda falava, cantou o galo. Voltando-se o Senhor, olhou para Pedro. Então Pedro se lembrou da palavra do Senhor: Hoje, antes que o galo cante, negar-me-ás três vezes. Saiu dali e chorou amargamente. Entretanto, os homens que guardavam Jesus escarneciam dele e davam-lhe bofetadas. Cobriam-lhe o rosto e diziam: Adivinha quem te bateu! E injuriavam-no ainda de outros modos. Ao amanhecer, reuniram-se os anciãos do povo, os príncipes dos sacerdotes e os escribas, e mandaram trazer Jesus ao seu conselho. Perguntaram-lhe: Dize-nos se és o Cristo! Respondeu-lhes ele: Se eu vo-lo disser, não me acreditareis; e se vos fizer qualquer pergunta, não me respondereis. Mas, doravante, o Filho do Homem estará sentado à direita do poder de Deus. Então perguntaram todos: Logo, tu és o Filho de Deus? Respondeu: Sim, eu sou. Eles então exclamaram: Temos nós ainda necessidade de testemunho? Nós mesmos o ouvimos da sua boca. Levantou-se a sessão e conduziram Jesus diante de Pilatos, e puseram-se a acusá-lo: Temos encontrado este homem excitando o povo à revolta, proibindo pagar imposto ao imperador e dizendo-se Messias e rei. Pilatos perguntou-lhe: És tu o rei dos judeus? Jesus respondeu: Sim. Declarou Pilatos aos príncipes dos sacerdotes e ao povo: Eu não acho neste homem culpa alguma. Mas eles insistiam fortemente: Ele revoluciona o povo ensinando por toda a Judeia, a começar da Galileia até aqui. A estas palavras, Pilatos perguntou se ele era galileu. E, quando soube que era da jurisdição de Herodes, enviou-o a Herodes, pois justamente naqueles dias se achava em Jerusalém. Herodes alegrou-se muito em ver Jesus, pois de longo tempo desejava vê-lo, por ter ouvido falar dele muitas coisas, e esperava presenciar algum milagre operado por ele. Dirigiu-lhe muitas perguntas, mas Jesus nada respondeu. Ali estavam os príncipes dos sacerdotes e os escribas, acusando-o com violência. Herodes, com a sua guarda, tratou-o com desprezo, escarneceu dele, mandou revesti-lo de uma túnica branca e reenviou-o a Pilatos. Naquele mesmo dia, Pilatos e Herodes fizeram as pazes, pois antes eram inimigos um do outro. Pilatos convocou então os príncipes dos sacerdotes, os magistrados e o povo, e disse-lhes: Apresentastes-me este homem como agitador do povo, mas, interrogando-o eu diante de vós, não o achei culpado de nenhum dos crimes de que o acusais. Nem tampouco Herodes, pois no-lo devolveu. Portanto, ele nada fez que mereça a morte. Por isso, soltá-lo-ei depois de o castigar. [Acontecia que em cada festa ele era obrigado a soltar-lhes um preso. Todo o povo gritou a uma voz: À morte com este, e solta-nos Barrabás. (Este homem fora lançado ao cárcere devido a uma revolta levantada na cidade, por causa de um homicídio.) Pilatos, porém, querendo soltar Jesus, falou-lhes de novo, mas eles vociferavam: Crucifica-o! Crucifica-o! Pela terceira vez, Pilatos ainda interveio: Mas que mal fez ele, então? Não achei nele nada que mereça a morte; irei, portanto, castigá-lo e, depois, o soltarei. Mas eles instavam, reclamando em altas vozes que fosse crucificado, e os seus clamores recrudesciam. Pilatos pronunciou então a sentença que lhes satisfazia o desejo. Soltou-lhes aquele que eles reclamavam e que havia sido lançado ao cárcere por causa do homicídio e da revolta, e entregou Jesus à vontade deles. Enquanto o conduziam, detiveram um certo Simão de Cirene, que voltava do campo, e impuseram-lhe a cruz para que a carregasse atrás de Jesus. Seguia-o uma grande multidão de povo e de mulheres, que batiam no peito e o lamentavam. Voltando-se para elas, Jesus disse: Filhas de Jerusalém, não choreis sobre mim, mas chorai sobre vós mesmas e sobre vossos filhos. Porque virão dias em que se dirá: Felizes as estéreis, os ventres que não geraram e os peitos que não amamentaram! Então dirão aos montes: Caí sobre nós! E aos outeiros: Cobri-nos! Porque, se eles fazem isto ao lenho verde, que acontecerá ao seco? Eram conduzidos ao mesmo tempo dois malfeitores para serem mortos com Jesus. Chegados que foram ao lugar chamado Calvário, ali o crucificaram, como também os ladrões, um à direita e outro à esquerda. E Jesus dizia: Pai, perdoa-lhes; porque não sabem o que fazem. Eles dividiram as suas vestes e as sortearam. A multidão conservava-se lá e observava. Os príncipes dos sacerdotes escarneciam de Jesus, dizendo: Salvou a outros, que se salve a si próprio, se é o Cristo, o escolhido de Deus! Do mesmo modo zombavam dele os soldados. Aproximavam-se dele, ofereciam-lhe vinagre e diziam: Se és o rei dos judeus, salva-te a ti mesmo. Por cima de sua cabeça pendia esta inscrição: Este é o rei dos judeus. Um dos malfeitores, ali crucificados, blasfemava contra ele: Se és o Cristo, salva-te a ti mesmo e salva-nos a nós! Mas o outro o repreendeu: Nem sequer temes a Deus, tu que sofres no mesmo suplício? Para nós isto é justo: recebemos o que mereceram os nossos crimes, mas este não fez mal algum. E acrescentou: Jesus, lembra-te de mim, quando tiveres entrado no teu Reino! Jesus respondeu-lhe: Em verdade te digo: hoje estarás comigo no paraíso. Era quase à hora sexta e em toda a terra houve trevas até a hora nona. Escureceu-se o sol e o véu do templo rasgou-se pelo meio. Jesus deu então um grande brado e disse: Pai, nas tuas mãos entrego o meu espírito. E, dizendo isso, expirou. Vendo o centurião o que acontecia, deu glória a Deus e disse: Na verdade, este homem era um justo. E toda a multidão dos que assistiam a este espetáculo e viam o que se passava, voltou batendo no peito. Os amigos de Jesus, como também as mulheres que o tinham seguido desde a Galileia, conservavam-se a certa distância, e observavam estas coisas. Havia um homem, por nome José, membro do conselho, homem reto e justo. Ele não havia concordado com a decisão dos outros nem com os atos deles. Originário de Arimateia, cidade da Judeia, esperava ele o Reino de Deus. Foi ter com Pilatos e lhe pediu o corpo de Jesus. Ele o desceu da cruz, envolveu-o num pano de linho e colocou-o num sepulcro, escavado na rocha, onde ainda ninguém havia sido depositado. Era o dia da Preparação e já ia principiar o sábado. As mulheres, que tinham vindo com Jesus da Galileia, acompanharam José. Elas viram o túmulo e o modo como o corpo de Jesus ali fora depositado. Elas voltaram e prepararam aromas e bálsamos. No dia de sábado, observaram o preceito do repouso."
+        "Desejei ardentemente comer convosco esta ceia pascal, antes de sofrer."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando chegou a hora,"
+       ],
+       [
+        "Jesus pôs-se à mesa com os apóstolos e disse:"
+       ],
+       [
+        "\"Desejei ardentemente comer convosco esta ceia pascal,"
+       ],
+       [
+        "antes de sofrer."
+       ],
+       [
+        "Pois eu vos digo que nunca mais a comerei,"
+       ],
+       [
+        "até que ela se realize no Reino de Deus\"."
+       ],
+       [
+        "Então Jesus tomou um cálice, deu graças e disse:"
+       ],
+       [
+        "\"Tomai este cálice e reparti entre vós;"
+       ],
+       [
+        "pois eu vos digo que, de agora em diante,"
+       ],
+       [
+        "não mais bebereis do fruto da videira,"
+       ],
+       [
+        "até que venha o Reino de Deus\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Fazei isto em memória de mim."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A seguir, Jesus tomou um pão, deu graças,"
+       ],
+       [
+        "partiu-o e deu-o aos discípulos, dizendo:"
+       ],
+       [
+        "\"Isto é o meu corpo, que é dado por vós."
+       ],
+       [
+        "Fazei isto em memória de mim\"."
+       ],
+       [
+        "Depois da ceia,"
+       ],
+       [
+        "Jesus fez o mesmo com o cálice, dizendo:"
+       ],
+       [
+        "\"Este cálice é a nova aliança no meu sangue,"
+       ],
+       [
+        "que é derramado por vós\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Mas ai daquele por meio de quem o Filho do Homem é entregue."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\"Todavia, a mão de quem me vai entregar"
+       ],
+       [
+        "está comigo, nesta mesa."
+       ],
+       [
+        "Sim, o Filho do Homem vai morrer, como está determinado."
+       ],
+       [
+        "Mas ai daquele homem por meio de quem ele é entregue\"."
+       ],
+       [
+        "Então os apóstolos começaram a perguntar uns aos outros"
+       ],
+       [
+        "qual deles haveria de fazer tal coisa."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Eu, porém, estou no meio de vós como aquele que serve."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Houve também uma discussão entre eles"
+       ],
+       [
+        "sobre qual deles deveria ser considerado o maior."
+       ],
+       [
+        "Jesus, porém, lhes disse:"
+       ],
+       [
+        "\"Os reis das nações dominam sobre elas,"
+       ],
+       [
+        "e os que têm poder se fazem chamar benfeitores."
+       ],
+       [
+        "Entre vós, não deve ser assim."
+       ],
+       [
+        "Pelo contrário, o maior entre vós seja como o mais novo,"
+       ],
+       [
+        "e o que manda, como quem está servindo."
+       ],
+       [
+        "Afinal, quem é o maior:"
+       ],
+       [
+        "quem está sentado à mesa, ou quem está servindo?"
+       ],
+       [
+        "Não é quem está sentado à mesa?"
+       ],
+       [
+        "Eu, porém, estou no meio de vós como aquele que serve."
+       ],
+       [
+        "Vós ficastes comigo em minhas provações."
+       ],
+       [
+        "Por isso, assim como o meu Pai me confiou o Reino,"
+       ],
+       [
+        "eu também vos confio o Reino."
+       ],
+       [
+        "Vós havereis de comer e beber à minha mesa no meu Reino,"
+       ],
+       [
+        "e sentar-vos em tronos"
+       ],
+       [
+        "para julgar as doze tribos de Israel."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Tu, uma vez convertido, fortalece os teus irmãos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Simão, Simão! Olha que Satanás pediu permissão"
+       ],
+       [
+        "para vos peneirar como trigo."
+       ],
+       [
+        "Eu, porém, rezei por ti, para que tua fé não se apague."
+       ],
+       [
+        "E tu, uma vez convertido, fortalece os teus irmãos\"."
+       ],
+       [
+        "Mas Simão disse: \"Senhor, eu estou pronto para ir contigo"
+       ],
+       [
+        "até mesmo à prisão e à morte!'"
+       ],
+       [
+        "Jesus, porém, respondeu:"
+       ],
+       [
+        "\"Pedro, eu te digo que hoje, antes que o galo cante,"
+       ],
+       [
+        "três vezes tu negarás que me conheces\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "É preciso que se cumpra em mim a palavra da Escritura."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E Jesus lhes perguntou: \"Quando vos enviei sem bolsa,"
+       ],
+       [
+        "sem sacola, sem sandálias, faltou-vos alguma coisa?\""
+       ],
+       [
+        "Eles responderam: \"Nada\"."
+       ],
+       [
+        "Jesus continuou:"
+       ],
+       [
+        "\"Agora, porém, quem tiver bolsa, deve pegá-la;"
+       ],
+       [
+        "do mesmo modo, quem tiver uma sacola;"
+       ],
+       [
+        "e quem não tiver espada,"
+       ],
+       [
+        "venda o manto para comprar uma."
+       ],
+       [
+        "Porque eu vos digo:"
+       ],
+       [
+        "É preciso que se cumpra em mim a palavra da Escritura:"
+       ],
+       [
+        "'Ele foi contado entre os malfeitores'."
+       ],
+       [
+        "Pois o que foi dito a meu respeito tem de se realizar\"."
+       ],
+       [
+        "Mas eles disseram: \"Senhor, aqui estão duas espadas\"."
+       ],
+       [
+        "Jesus respondeu: \"Basta\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Tomado de angústia, Jesus rezava com mais insistência."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus saiu e, como de costume,"
+       ],
+       [
+        "foi para o monte das Oliveiras."
+       ],
+       [
+        "Os discípulos o acompanharam."
+       ],
+       [
+        "Chegando ao lugar, Jesus lhes disse:"
+       ],
+       [
+        "\"Orai para não entrardes em tentação\"."
+       ],
+       [
+        "Então afastou-se a uma certa distância"
+       ],
+       [
+        "e, de joelhos, começou a rezar:"
+       ],
+       [
+        "\"Pai, se queres, afasta de mim este cálice;"
+       ],
+       [
+        "contudo, não seja feita a minha vontade, mas a tua!\""
+       ],
+       [
+        "Apareceu-lhe um anjo do céu, que o confortava."
+       ],
+       [
+        "Tomado de angústia, Jesus rezava com mais insistência."
+       ],
+       [
+        "Seu suor tornou-se como gotas de sangue"
+       ],
+       [
+        "que caíam no chão."
+       ],
+       [
+        "Levantando-se da oração,"
+       ],
+       [
+        "Jesus foi para junto dos discípulos"
+       ],
+       [
+        "e encontrou-os dormindo, de tanta tristeza."
+       ],
+       [
+        "E perguntou-lhes: \"Por que estais dormindo?"
+       ],
+       [
+        "Levantai-vos e orai para não entrardes em tentação\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Judas, com um beijo tu entregas o Filho do Homem?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus ainda falava, quando chegou uma multidão."
+       ],
+       [
+        "Na frente, vinha um dos Doze, chamado Judas,"
+       ],
+       [
+        "que se aproximou de Jesus para beijá-lo."
+       ],
+       [
+        "Jesus lhe disse:"
+       ],
+       [
+        "\"Judas, com um beijo tu entregas o Filho do Homem?\""
+       ],
+       [
+        "Vendo o que ia acontecer,"
+       ],
+       [
+        "os que estavam com Jesus disseram:"
+       ],
+       [
+        "\"Senhor, vamos atacá-los com a espada?\""
+       ],
+       [
+        "E um deles feriu o empregado do Sumo Sacerdote,"
+       ],
+       [
+        "cortando-lhe a orelha direita."
+       ],
+       [
+        "Jesus, porém, ordenou: \"Deixai, basta!\""
+       ],
+       [
+        "E tocando a orelha do homem, o curou."
+       ],
+       [
+        "Depois Jesus disse aos sumos sacerdotes,"
+       ],
+       [
+        "aos chefes dos guardas do templo e aos anciãos,"
+       ],
+       [
+        "que tinham vindo prendê-lo:"
+       ],
+       [
+        "\"Vós saístes com espadas e paus,"
+       ],
+       [
+        "como se eu fosse um ladrão?"
+       ],
+       [
+        "Todos os dias eu estava convosco no templo,"
+       ],
+       [
+        "e nunca levantastes a mão contra mim."
+       ],
+       [
+        "Mas esta é a vossa hora, a hora do poder das trevas\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Pedro saiu para fora e chorou amargamente."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eles prenderam Jesus e o levaram,"
+       ],
+       [
+        "conduzindo-o à casa do Sumo Sacerdote."
+       ],
+       [
+        "Pedro acompanhava de longe."
+       ],
+       [
+        "Eles acenderam uma fogueira no meio do pátio"
+       ],
+       [
+        "e sentaram-se ao redor."
+       ],
+       [
+        "Pedro sentou-se no meio deles."
+       ],
+       [
+        "Ora, uma criada viu Pedro sentado perto do fogo;"
+       ],
+       [
+        "encarou-o bem e disse:"
+       ],
+       [
+        "\"Este aqui também estava com ele!\""
+       ],
+       [
+        "Mas Pedro negou: \"Mulher, eu nem o conheço!\""
+       ],
+       [
+        "Pouco depois, um outro viu Pedro e disse:"
+       ],
+       [
+        "\"Tu também és um deles\"."
+       ],
+       [
+        "Mas Pedro respondeu: \"Homem, não sou\"."
+       ],
+       [
+        "Passou mais ou menos uma hora, e um outro insistia:"
+       ],
+       [
+        "\"Certamente, este aqui também estava com ele,"
+       ],
+       [
+        "porque é galileu!\""
+       ],
+       [
+        "Mas Pedro respondeu:"
+       ],
+       [
+        "\"Homem, não sei o que estás dizendo!\""
+       ],
+       [
+        "Nesse momento,"
+       ],
+       [
+        "enquanto Pedro ainda falava, um galo cantou."
+       ],
+       [
+        "Então o Senhor se voltou e olhou para Pedro."
+       ],
+       [
+        "E Pedro lembrou-se da palavra"
+       ],
+       [
+        "que o Senhor lhe tinha dito:"
+       ],
+       [
+        "\"Hoje, antes que o galo cante, três vezes me negarás\"."
+       ],
+       [
+        "Então Pedro saiu para fora e chorou amargamente."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Profetiza quem foi que te bateu?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os guardas caçoavam de Jesus e espancavam-no;"
+       ],
+       [
+        "cobriam o seu rosto e lhe diziam:"
+       ],
+       [
+        "\"Profetiza quem foi que te bateu?\""
+       ],
+       [
+        "E o insultavam de muitos outros modos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Levaram Jesus ao tribunal deles."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ao amanhecer, os anciãos do povo,"
+       ],
+       [
+        "os sumos sacerdotes e os mestres da Lei"
+       ],
+       [
+        "reuniram-se em conselho"
+       ],
+       [
+        "e levaram Jesus ao tribunal deles."
+       ],
+       [
+        "E diziam: \"Se és o Cristo, dize-nos!\""
+       ],
+       [
+        "Jesus respondeu: \"Se eu vos disser, não me acreditareis,"
+       ],
+       [
+        "e, se eu vos fizer perguntas, não me respondereis."
+       ],
+       [
+        "Mas, de agora em diante, o Filho do Homem"
+       ],
+       [
+        "estará sentado à direita do Deus Poderoso\"."
+       ],
+       [
+        "Então todos perguntaram:"
+       ],
+       [
+        "\"Tu és, portanto, o Filho de Deus?\""
+       ],
+       [
+        "Jesus respondeu:"
+       ],
+       [
+        "\"Vós mesmos estais dizendo que eu sou!\""
+       ],
+       [
+        "Eles disseram:"
+       ],
+       [
+        "\"Será que ainda precisamos de testemunhas?"
+       ],
+       [
+        "Nós mesmos o ouvimos de sua própria boca!\""
+       ],
+       [
+        "Em seguida, toda a multidão se levantou"
+       ],
+       [
+        "e levou Jesus a Pilatos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Não encontro neste homem nenhum crime."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Começaram então a acusá-lo, dizendo:"
+       ],
+       [
+        "\"Achamos este homem"
+       ],
+       [
+        "fazendo subversão entre o nosso povo,"
+       ],
+       [
+        "proibindo pagar impostos a César"
+       ],
+       [
+        "e afirmando ser ele mesmo Cristo, o Rei\"."
+       ],
+       [
+        "Pilatos o interrogou: \"Tu és o rei dos judeus?\""
+       ],
+       [
+        "Jesus respondeu, declarando: \"Tu o dizes!\""
+       ],
+       [
+        "Então Pilatos disse aos sumos sacerdotes e à multidão:"
+       ],
+       [
+        "\"Não encontro neste homem nenhum crime\"."
+       ],
+       [
+        "Eles, porém, insistiam: \"Ele agita o povo,"
+       ],
+       [
+        "ensinando por toda a Judeia,"
+       ],
+       [
+        "desde a Galileia, onde começou, até aqui\"."
+       ],
+       [
+        "Quando ouviu isto, Pilatos perguntou:"
+       ],
+       [
+        "\"Este homem é galileu?\""
+       ],
+       [
+        "Ao saber que Jesus estava sob a autoridade de Herodes,"
+       ],
+       [
+        "Pilatos enviou-o a este,"
+       ],
+       [
+        "pois também Herodes estava em Jerusalém naqueles dias."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Herodes, com seus soldados, tratou Jesus com desprezo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Herodes ficou muito contente ao ver Jesus,"
+       ],
+       [
+        "pois havia muito tempo desejava vê-lo."
+       ],
+       [
+        "Já ouvira falar a seu respeito"
+       ],
+       [
+        "e esperava vê-lo fazer algum milagre."
+       ],
+       [
+        "Ele interrogou-o com muitas perguntas."
+       ],
+       [
+        "Jesus, porém, nada lhe respondeu."
+       ],
+       [
+        "Os sumos sacerdotes e os mestres da Lei"
+       ],
+       [
+        "estavam presentes e o acusavam com insistência."
+       ],
+       [
+        "Herodes, com seus soldados, tratou Jesus com desprezo,"
+       ],
+       [
+        "zombou dele, vestiu-o com uma roupa vistosa"
+       ],
+       [
+        "e mandou-o de volta a Pilatos."
+       ],
+       [
+        "Naquele dia Herodes e Pilatos"
+       ],
+       [
+        "ficaram amigos um do outro, pois antes eram inimigos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Pilatos entregou Jesus à vontade deles."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Então Pilatos convocou os sumos sacerdotes,"
+       ],
+       [
+        "os chefes e o povo, e lhes disse:"
+       ],
+       [
+        "\"Vós me trouxestes este homem"
+       ],
+       [
+        "como se fosse um agitador do povo."
+       ],
+       [
+        "Pois bem! Já o interroguei diante de vós"
+       ],
+       [
+        "e não encontrei nele"
+       ],
+       [
+        "nenhum dos crimes de que o acusais;"
+       ],
+       [
+        "nem Herodes, pois o mandou de volta para nós."
+       ],
+       [
+        "Como podeis ver, ele nada fez para merecer a morte."
+       ],
+       [
+        "Portanto, vou castigá-lo e o soltarei."
+       ],
+       [
+        "Toda a multidão começou a gritar:"
+       ],
+       [
+        "\"Fora com ele! Solta-nos Barrabás!\""
+       ],
+       [
+        "Barrabás tinha sido preso"
+       ],
+       [
+        "por causa de uma revolta na cidade e por homicídio."
+       ],
+       [
+        "Pilatos falou outra vez à multidão,"
+       ],
+       [
+        "pois queria libertar Jesus."
+       ],
+       [
+        "Mas eles gritavam: \"Crucifica-o! Crucifica-o!\""
+       ],
+       [
+        "E Pilatos falou pela terceira vez:"
+       ],
+       [
+        "\"Que mal fez este homem?"
+       ],
+       [
+        "Não encontrei nele nenhum crime que mereça a morte."
+       ],
+       [
+        "Portanto, vou castigá-lo e o soltarei\"."
+       ],
+       [
+        "Eles, porém, continuaram a gritar com toda a força,"
+       ],
+       [
+        "pedindo que fosse crucificado."
+       ],
+       [
+        "E a gritaria deles aumentava sempre mais."
+       ],
+       [
+        "Então Pilatos decidiu"
+       ],
+       [
+        "que fosse feito o que eles pediam."
+       ],
+       [
+        "Soltou o homem que eles queriam"
+       ],
+       [
+        "- aquele que fora preso por revolta e homicídio -"
+       ],
+       [
+        "e entregou Jesus à vontade deles."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Filhas de Jerusalém, não choreis por mim!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Enquanto levavam Jesus,"
+       ],
+       [
+        "pegaram um certo Simão, de Cirene,"
+       ],
+       [
+        "que voltava do campo,"
+       ],
+       [
+        "e impuseram-lhe a cruz para carregá-la atrás de Jesus."
+       ],
+       [
+        "Seguia-o uma grande multidão do povo"
+       ],
+       [
+        "e de mulheres que batiam no peito e choravam por ele."
+       ],
+       [
+        "Jesus, porém, voltou-se e disse:"
+       ],
+       [
+        "\"Filhas de Jerusalém, não choreis por mim!"
+       ],
+       [
+        "Chorai por vós mesmas e por vossos filhos!"
+       ],
+       [
+        "Porque dias virão em que se dirá:"
+       ],
+       [
+        "'Felizes as mulheres que nunca tiveram filhos,"
+       ],
+       [
+        "os ventres que nunca deram à luz"
+       ],
+       [
+        "e os seios que nunca amamentaram'."
+       ],
+       [
+        "Então começarão a pedir às montanhas:"
+       ],
+       [
+        "'Caí sobre nós! e às colinas: 'Escondei-nos!'"
+       ],
+       [
+        "Porque, se fazem assim com a árvore verde,"
+       ],
+       [
+        "o que não farão com a árvore seca?\""
+       ],
+       [
+        "Levavam também outros dois malfeitores"
+       ],
+       [
+        "para serem mortos junto com Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Pai, perdoa-lhes! Eles não sabem o que fazem!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando chegaram ao lugar chamado \"Calvário\","
+       ],
+       [
+        "ali crucificaram Jesus e os malfeitores:"
+       ],
+       [
+        "um à sua direita e outro à sua esquerda."
+       ],
+       [
+        "Jesus dizia: \"Pai, perdoa-lhes! Eles não sabem o que fazem!\""
+       ],
+       [
+        "Depois fizeram um sorteio,"
+       ],
+       [
+        "repartindo entre si as roupas de Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Este é o Rei dos Judeus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O povo permanecia lá, olhando."
+       ],
+       [
+        "E até os chefes zombavam, dizendo:"
+       ],
+       [
+        "\"A outros ele salvou. Salve-se a si mesmo,"
+       ],
+       [
+        "se, de fato, é o Cristo de Deus, o Escolhido!\""
+       ],
+       [
+        "Os soldados também caçoavam dele;"
+       ],
+       [
+        "aproximavam-se, ofereciam-lhe vinagre,"
+       ],
+       [
+        "e diziam: \"Se és o rei dos judeus, salva-te a ti mesmo!\""
+       ],
+       [
+        "Acima dele havia um letreiro:"
+       ],
+       [
+        "\"Este é o Rei dos Judeus\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Hoje estarás comigo no Paraíso."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Um dos malfeitores crucificados o insultava, dizendo:"
+       ],
+       [
+        "\"Tu não és o Cristo? Salva-te a ti mesmo e a nós!\""
+       ],
+       [
+        "Mas o outro o repreendeu, dizendo:"
+       ],
+       [
+        "\"Nem sequer temes a Deus,"
+       ],
+       [
+        "tu que sofres a mesma condenação?"
+       ],
+       [
+        "Para nós, é justo,"
+       ],
+       [
+        "porque estamos recebendo o que merecemos;"
+       ],
+       [
+        "mas ele não fez nada de mal\"."
+       ],
+       [
+        "E acrescentou: \"Jesus, lembra-te de mim,"
+       ],
+       [
+        "quando entrares no teu reinado\"."
+       ],
+       [
+        "Jesus lhe respondeu: \"Em verdade eu te digo:"
+       ],
+       [
+        "ainda hoje estarás comigo no Paraíso\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Pai, em tuas mãos entrego o meu espírito."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Já era mais ou menos meio-dia"
+       ],
+       [
+        "e uma escuridão cobriu toda a terra"
+       ],
+       [
+        "até às três horas da tarde,"
+       ],
+       [
+        "pois o sol parou de brilhar."
+       ],
+       [
+        "A cortina do santuário rasgou-se pelo meio,"
+       ],
+       [
+        "e Jesus deu um forte grito:"
+       ],
+       [
+        "\"Pai, em tuas mãos entrego o meu espírito\"."
+       ],
+       [
+        "Dizendo isso, expirou."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Aqui todos se ajoelham e faz-se uma pausa."
+        }
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "⟧"
+       ],
+       [
+        "O oficial do exército romano viu o que acontecera"
+       ],
+       [
+        "e glorificou a Deus dizendo:"
+       ],
+       [
+        "\"De fato! Este homem era justo!\""
+       ],
+       [
+        "E as multidões, que tinham acorrido para assistir,"
+       ],
+       [
+        "viram o que havia acontecido,"
+       ],
+       [
+        "e voltaram para casa, batendo no peito."
+       ],
+       [
+        "Todos os conhecidos de Jesus, bem como as mulheres"
+       ],
+       [
+        "que o acompanhavam desde a Galileia,"
+       ],
+       [
+        "ficaram à distância, olhando essas coisas."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "José colocou o corpo de Jesus num túmulo escavado na rocha."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Havia um homem bom e justo, chamado José,"
+       ],
+       [
+        "membro do Conselho,"
+       ],
+       [
+        "o qual não tinha aprovado a decisão"
+       ],
+       [
+        "nem a ação dos outros membros."
+       ],
+       [
+        "Ele era de Arimateia, uma cidade da Judeia,"
+       ],
+       [
+        "e esperava a vinda do Reino de Deus."
+       ],
+       [
+        "José foi ter com Pilatos e pediu o corpo de Jesus."
+       ],
+       [
+        "Desceu o corpo da cruz, enrolou-o num lençol"
+       ],
+       [
+        "e colocou-o num túmulo escavado na rocha,"
+       ],
+       [
+        "onde ninguém ainda tinha sido sepultado."
+       ],
+       [
+        "Era o dia da preparação da Páscoa,"
+       ],
+       [
+        "e o sábado já estava começando."
+       ],
+       [
+        "As mulheres, que tinham vindo da Galileia com Jesus,"
+       ],
+       [
+        "foram com José, para ver o túmulo"
+       ],
+       [
+        "e como o corpo de Jesus ali fora colocado."
+       ],
+       [
+        "Depois voltaram para casa"
+       ],
+       [
+        "e prepararam perfumes e bálsamos."
+       ],
+       [
+        "E, no sábado, elas descansaram,"
+       ],
+       [
+        "conforme ordenava a Lei."
        ]
       ]
      },
@@ -13910,7 +17714,7 @@
       "k": "p",
       "lines": [
        [
-        "Quando venne l'ora, [Gesù̀] prese posto a tavola e gli apostoli con lui, e disse loro: «Ho tanto desiderato mangiare questa Pasqua con voi, prima della mia passione, perché́ io vi dico: non la mangerò̀ più̀, finché essa non si compia nel regno di Dio». E, ricevuto un calice, rese grazie e disse: «Prendetelo e fatelo passare tra voi, perché́ io vi dico: da questo momento non berrò̀ più̀ del frutto della vite, finché non verrà̀ il regno di Dio»."
+        "Quando venne l'ora, [Gesù̀] prese posto a tavola e gli apostoli con lui, e disse loro: «Ho tanto desiderato mangiare questa Pasqua con voi, prima della mia passione, perché́ io vi dico: non la mangerò̀ più̀, finché essa non si compia nel regno di Dio». E, ricevuto un calice, rese grazie e disse: «Prendetelo e fatelo passare tra voi, perché́ io vi dico: da questo momento non berrò̀ più̀ del frutto della vite, finché non verrà̀ il regno di Dio»."
        ]
       ]
      },
@@ -13929,7 +17733,7 @@
       "k": "p",
       "lines": [
        [
-        "Poi prese il pane, rese grazie, lo spezzò e lo diede loro dicendo: «Questo è il mio corpo, che è dato per voi; fate questo in memoria di me». E, dopo aver cenato, fece lo stesso con il calice dicendo: «Questo calice è la nuova alleanza nel mio sangue, che è versato per voi»."
+        "Poi prese il pane, rese grazie, lo spezzò e lo diede loro dicendo: «Questo è il mio corpo, che è dato per voi; fate questo in memoria di me». E, dopo aver cenato, fece lo stesso con il calice dicendo: «Questo calice è la nuova alleanza nel mio sangue, che è versato per voi»."
        ]
       ]
      },
@@ -13948,7 +17752,7 @@
       "k": "p",
       "lines": [
        [
-        "«Ma ecco, la mano di colui che mi tradisce è con me, sulla tavola. Il Figlio dell'uomo se ne va, secondo quanto è stabilito, ma guai a quell'uomo dal quale egli viene tradito!». Allora essi cominciarono a domandarsi l'un l'altro chi di loro avrebbe fatto questo."
+        "«Ma ecco, la mano di colui che mi tradisce è con me, sulla tavola. Il Figlio dell'uomo se ne va, secondo quanto è stabilito, ma guai a quell'uomo dal quale egli viene tradito!». Allora essi cominciarono a domandarsi l'un l'altro chi di loro avrebbe fatto questo."
        ]
       ]
      },
@@ -15251,7 +19055,31 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, toda a multidão se levantou e levou Jesus a Pilatos. Começaram então a acusá-lo, dizendo: “Achamos este homem fazendo subversão entre o nosso povo, proibindo pagar impostos a César e afirmando ser ele mesmo Cristo, o Rei”."
+        "Naquele tempo,"
+       ],
+       [
+        "toda a multidão se levantou"
+       ],
+       [
+        "e levou Jesus a Pilatos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Não encontro neste homem nenhum crime."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        ""
        ]
       ]
      },
@@ -15259,7 +19087,82 @@
       "k": "p",
       "lines": [
        [
-        "Pilatos o interrogou: “Tu és o rei dos judeus?”"
+        "2"
+       ],
+       [
+        "Começaram então a acusá-lo, dizendo:"
+       ],
+       [
+        "\"Achamos este homem"
+       ],
+       [
+        "fazendo subversão entre o nosso povo,"
+       ],
+       [
+        "proibindo pagar impostos a César"
+       ],
+       [
+        "e afirmando ser ele mesmo Cristo, o Rei\"."
+       ],
+       [
+        "3"
+       ],
+       [
+        "Pilatos o interrogou: \"Tu és o rei dos judeus?\""
+       ],
+       [
+        "Jesus respondeu, declarando: \"Tu o dizes!\""
+       ],
+       [
+        "4"
+       ],
+       [
+        "Então Pilatos disse aos sumos sacerdotes e à multidão:"
+       ],
+       [
+        "\"Não encontro neste homem nenhum crime\"."
+       ],
+       [
+        "5"
+       ],
+       [
+        "Eles, porém, insistiam: \"Ele agita o povo,"
+       ],
+       [
+        "ensinando por toda a Judeia,"
+       ],
+       [
+        "desde a Galileia, onde começou, até aqui\"."
+       ],
+       [
+        "6"
+       ],
+       [
+        "Quando ouviu isto, Pilatos perguntou:"
+       ],
+       [
+        "\"Este homem é galileu?\""
+       ],
+       [
+        "7"
+       ],
+       [
+        "Ao saber que Jesus estava sob a autoridade de Herodes,"
+       ],
+       [
+        "Pilatos enviou-o a este,"
+       ],
+       [
+        "pois também Herodes estava em Jerusalém naqueles dias."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Herodes, com seus soldados, tratou Jesus com desprezo."
        ]
       ]
      },
@@ -15267,7 +19170,67 @@
       "k": "p",
       "lines": [
        [
-        "Jesus respondeu, declarando: “Tu o dizes!”"
+        "8"
+       ],
+       [
+        "Herodes ficou muito contente ao ver Jesus,"
+       ],
+       [
+        "pois havia muito tempo desejava vê-lo."
+       ],
+       [
+        "Já ouvira falar a seu respeito"
+       ],
+       [
+        "e esperava vê-lo fazer algum milagre."
+       ],
+       [
+        "9"
+       ],
+       [
+        "Ele interrogou-o com muitas perguntas."
+       ],
+       [
+        "Jesus, porém, nada lhe respondeu."
+       ],
+       [
+        "10"
+       ],
+       [
+        "Os sumos sacerdotes e os mestres da Lei"
+       ],
+       [
+        "estavam presentes e o acusavam com insistência."
+       ],
+       [
+        "11"
+       ],
+       [
+        "Herodes, com seus soldados, tratou Jesus com desprezo,"
+       ],
+       [
+        "zombou dele, vestiu-o com uma roupa vistosa"
+       ],
+       [
+        "e mandou-o de volta a Pilatos."
+       ],
+       [
+        "12"
+       ],
+       [
+        "Naquele dia Herodes e Pilatos"
+       ],
+       [
+        "ficaram amigos um do outro, pois antes eram inimigos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Pilatos entregou Jesus à vontade deles."
        ]
       ]
      },
@@ -15275,7 +19238,136 @@
       "k": "p",
       "lines": [
        [
-        "Então Pilatos disse aos sumos sacerdotes e à multidão: “Não encontro neste homem nenhum crime”."
+        "13"
+       ],
+       [
+        "Então Pilatos convocou os sumos sacerdotes,"
+       ],
+       [
+        "os chefes e o povo, e lhes disse:"
+       ],
+       [
+        "14"
+       ],
+       [
+        "\"Vós me trouxestes este homem"
+       ],
+       [
+        "como se fosse um agitador do povo."
+       ],
+       [
+        "Pois bem! Já o interroguei diante de vós"
+       ],
+       [
+        "e não encontrei nele"
+       ],
+       [
+        "nenhum dos crimes de que o acusais;"
+       ],
+       [
+        "15"
+       ],
+       [
+        "nem Herodes, pois o mandou de volta para nós."
+       ],
+       [
+        "Como podeis ver, ele nada fez para merecer a morte."
+       ],
+       [
+        "16"
+       ],
+       [
+        "Portanto, vou castigá-lo e o soltarei."
+       ],
+       [
+        "18"
+       ],
+       [
+        "Toda a multidão começou a gritar:"
+       ],
+       [
+        "\"Fora com ele! Solta-nos Barrabás!\""
+       ],
+       [
+        "19"
+       ],
+       [
+        "Barrabás tinha sido preso"
+       ],
+       [
+        "por causa de uma revolta na cidade e por homicídio."
+       ],
+       [
+        "20"
+       ],
+       [
+        "Pilatos falou outra vez à multidão,"
+       ],
+       [
+        "pois queria libertar Jesus."
+       ],
+       [
+        "21"
+       ],
+       [
+        "Mas eles gritavam: \"Crucifica-o! Crucifica-o!\""
+       ],
+       [
+        "22"
+       ],
+       [
+        "E Pilatos falou pela terceira vez:"
+       ],
+       [
+        "\"Que mal fez este homem?"
+       ],
+       [
+        "Não encontrei nele nenhum crime que mereça a morte."
+       ],
+       [
+        "Portanto, vou castigá-lo e o soltarei\"."
+       ],
+       [
+        "23"
+       ],
+       [
+        "Eles, porém, continuaram a gritar com toda a força,"
+       ],
+       [
+        "pedindo que fosse crucificado."
+       ],
+       [
+        "E a gritaria deles aumentava sempre mais."
+       ],
+       [
+        "24"
+       ],
+       [
+        "Então Pilatos decidiu"
+       ],
+       [
+        "que fosse feito o que eles pediam."
+       ],
+       [
+        "25"
+       ],
+       [
+        "Soltou o homem que eles queriam"
+       ],
+       [
+        "- aquele que fora preso por revolta e homicídio -"
+       ],
+       [
+        "e entregou Jesus à vontade deles."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Filhas de Jerusalém, não choreis por mim!"
        ]
       ]
      },
@@ -15283,7 +19375,91 @@
       "k": "p",
       "lines": [
        [
-        "Eles, porém, insistiam: “Ele agita o povo, ensinando por toda a Judeia, desde a Galileia, onde começou, até aqui”."
+        "26"
+       ],
+       [
+        "Enquanto levavam Jesus,"
+       ],
+       [
+        "pegaram um certo Simão, de Cirene,"
+       ],
+       [
+        "que voltava do campo,"
+       ],
+       [
+        "e impuseram-lhe a cruz para carregá-la atrás de Jesus."
+       ],
+       [
+        "27"
+       ],
+       [
+        "Seguia-o uma grande multidão do povo"
+       ],
+       [
+        "e de mulheres que batiam no peito e choravam por ele."
+       ],
+       [
+        "28"
+       ],
+       [
+        "Jesus, porém, voltou-se e disse:"
+       ],
+       [
+        "\"Filhas de Jerusalém, não choreis por mim!"
+       ],
+       [
+        "Chorai por vós mesmas e por vossos filhos!"
+       ],
+       [
+        "29"
+       ],
+       [
+        "Porque dias virão em que se dirá:"
+       ],
+       [
+        "'Felizes as mulheres que nunca tiveram filhos,"
+       ],
+       [
+        "os ventres que nunca deram à luz"
+       ],
+       [
+        "e os seios que nunca amamentaram'."
+       ],
+       [
+        "30"
+       ],
+       [
+        "Então começarão a pedir às montanhas:"
+       ],
+       [
+        "'Caí sobre nós! e às colinas: 'Escondei-nos!'"
+       ],
+       [
+        "31"
+       ],
+       [
+        "Porque, se fazem assim com a árvore verde,"
+       ],
+       [
+        "o que não farão com a árvore seca?\""
+       ],
+       [
+        "32"
+       ],
+       [
+        "Levavam também outros dois malfeitores"
+       ],
+       [
+        "para serem mortos junto com Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Pai, perdoa-lhes! Eles não sabem o que fazem!"
        ]
       ]
      },
@@ -15291,7 +19467,37 @@
       "k": "p",
       "lines": [
        [
-        "Quando ouviu isto, Pilatos perguntou: “Este homem é galileu?”"
+        "33"
+       ],
+       [
+        "Quando chegaram ao lugar chamado \"Calvário\","
+       ],
+       [
+        "ali crucificaram Jesus e os malfeitores:"
+       ],
+       [
+        "um à sua direita e outro à sua esquerda."
+       ],
+       [
+        "34"
+       ],
+       [
+        "Jesus dizia: \"Pai, perdoa-lhes! Eles não sabem o que fazem!\""
+       ],
+       [
+        "Depois fizeram um sorteio,"
+       ],
+       [
+        "repartindo entre si as roupas de Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Este é o Rei dos Judeus."
        ]
       ]
      },
@@ -15299,7 +19505,52 @@
       "k": "p",
       "lines": [
        [
-        "Ao saber que Jesus estava sob a autoridade de Herodes, Pilatos enviou-o a este, pois também Herodes estava em Jerusalém naqueles dias. Herodes ficou muito contente ao ver Jesus, pois havia muito tempo desejava vê-lo. Já ouvira falar a seu respeito e esperava vê-lo fazer algum milagre. Ele interrogou-o com muitas perguntas. Jesus, porém, nada lhe respondeu."
+        "35"
+       ],
+       [
+        "O povo permanecia lá, olhando."
+       ],
+       [
+        "E até os chefes zombavam, dizendo:"
+       ],
+       [
+        "\"A outros ele salvou. Salve-se a si mesmo,"
+       ],
+       [
+        "se, de fato, é o Cristo de Deus, o Escolhido!\""
+       ],
+       [
+        "36"
+       ],
+       [
+        "Os soldados também caçoavam dele;"
+       ],
+       [
+        "aproximavam-se, ofereciam-lhe vinagre,"
+       ],
+       [
+        "37"
+       ],
+       [
+        "e diziam: \"Se és o rei dos judeus, salva-te a ti mesmo!\""
+       ],
+       [
+        "38"
+       ],
+       [
+        "Acima dele havia um letreiro:"
+       ],
+       [
+        "\"Este é o Rei dos Judeus\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Hoje estarás comigo no Paraíso."
        ]
       ]
      },
@@ -15307,7 +19558,64 @@
       "k": "p",
       "lines": [
        [
-        "Os sumos sacerdotes e os mestres da Lei estavam presentes e o acusavam com insistência. Herodes, com seus soldados, tratou Jesus com desprezo, zombou dele, vestiu-o com uma roupa vistosa e mandou-o de volta a Pilatos. Naquele dia Herodes e Pilatos ficaram amigos um do outro, pois antes eram inimigos."
+        "39"
+       ],
+       [
+        "Um dos malfeitores crucificados o insultava, dizendo:"
+       ],
+       [
+        "\"Tu não és o Cristo? Salva-te a ti mesmo e a nós!\""
+       ],
+       [
+        "40"
+       ],
+       [
+        "Mas o outro o repreendeu, dizendo:"
+       ],
+       [
+        "\"Nem sequer temes a Deus,"
+       ],
+       [
+        "tu que sofres a mesma condenação?"
+       ],
+       [
+        "41"
+       ],
+       [
+        "Para nós, é justo,"
+       ],
+       [
+        "porque estamos recebendo o que merecemos;"
+       ],
+       [
+        "mas ele não fez nada de mal\"."
+       ],
+       [
+        "42"
+       ],
+       [
+        "E acrescentou: \"Jesus, lembra-te de mim,"
+       ],
+       [
+        "quando entrares no teu reinado\"."
+       ],
+       [
+        "43"
+       ],
+       [
+        "Jesus lhe respondeu: \"Em verdade eu te digo:"
+       ],
+       [
+        "ainda hoje estarás comigo no Paraíso\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "summary",
+      "lines": [
+       [
+        "Pai, em tuas mãos entrego o meu espírito."
        ]
       ]
      },
@@ -15315,125 +19623,35 @@
       "k": "p",
       "lines": [
        [
-        "Então Pilatos convocou os sumos sacerdotes, os chefes e o povo, e lhes disse: “Vós me trouxestes este homem como se fosse um agitador do povo. Pois bem! Já o interroguei diante de vós e não encontrei nele nenhum dos crimes de que o acusais; nem Herodes, pois o mandou de volta para nós. Como podeis ver, ele nada fez para merecer a morte. Portanto, vou castigá-lo e o soltarei”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "44"
+       ],
        [
-        "Toda a multidão começou a gritar: “Fora com ele! Solta-nos Barrabás!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "Já era mais ou menos meio-dia"
+       ],
        [
-        "Barrabás tinha sido preso por causa de uma revolta na cidade e por homicídio. Pilatos falou outra vez à multidão, pois queria libertar Jesus. Mas eles gritaram: “Crucifica-o! Crucifica-o!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "e uma escuridão cobriu toda a terra"
+       ],
        [
-        "E Pilatos falou pela terceira vez: “Que mal fez este homem? Não encontrei nele nenhum crime que mereça a morte. Portanto, vou castigá-lo e o soltarei”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "até às três horas da tarde,"
+       ],
        [
-        "Eles, porém, continuaram a gritar com toda a força, pedindo que fosse crucificado. E a gritaria deles aumentava sempre mais. Então Pilatos decidiu que fosse feito o que eles pediam. Soltou o homem que eles queriam — aquele que fora preso por revolta e homicídio — e entregou Jesus à vontade deles."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "45"
+       ],
        [
-        "Enquanto levavam Jesus, pegaram um certo Simão, de Cirene, que voltava do campo, e impuseram-lhe a cruz para carregá-la atrás de Jesus. Seguia-o uma grande multidão do povo e de mulheres que batiam no peito e choravam por ele. Jesus, porém, voltou-se e disse: “Filhas de Jerusalém, não choreis por mim! Chorai por vós mesmas e por vossos filhos! Porque dias virão em que se dirá: ‘Felizes as mulheres que nunca tiveram filhos, os ventres que nunca deram à luz e os seios que nunca amamentaram’. Então começarão a pedir às montanhas: ‘Cai sobre nós! e às colinas: ‘Escondei-nos!’ Porque, se fazem assim com a árvore verde, o que não farão com a árvore seca?”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "pois o sol parou de brilhar."
+       ],
        [
-        "Levavam também outros dois malfeitores para serem mortos junto com Jesus. Quando chegaram ao lugar chamado “Calvário”, ali crucificaram Jesus e os malfeitores: um à sua direita e outro à sua esquerda. Jesus dizia: “Pai, perdoa-lhes! Eles não sabem o que fazem!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "A cortina do santuário rasgou-se pelo meio,"
+       ],
        [
-        "Depois fizeram um sorteio, repartindo entre si as roupas de Jesus. O povo permanecia lá, olhando. E até os chefes zombavam, dizendo: “A outros ele salvou. Salve-se a si mesmo, se, de fato, é o Cristo de Deus, o Escolhido!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "46"
+       ],
        [
-        "Os soldados também caçoavam dele; aproximavam-se, ofereciam-lhe vinagre, e diziam: “Se és o rei dos judeus, salva-te a ti mesmo!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "e Jesus deu um forte grito:"
+       ],
        [
-        "Acima dele havia um letreiro: “Este é o Rei dos Judeus”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Um dos malfeitores crucificados o insultava, dizendo: “Tu não és o Cristo? Salva-te a ti mesmo e a nós!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Mas o outro o repreendeu, dizendo: “Nem sequer temes a Deus, tu que sofres a mesma condenação? Para nós, é justo, porque estamos recebendo o que merecemos; mas ele não fez nada de mal”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "E acrescentou: “Jesus, lembra-te de mim, quando entrares no teu reinado”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Jesus lhe respondeu: “Em verdade eu te digo: ainda hoje estarás comigo no Paraíso”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Já era mais ou menos meio-dia e uma escuridão cobriu toda a terra até as três horas da tarde, pois o sol parou de brilhar. A cortina do santuário rasgou-se pelo meio, e Jesus deu um forte grito: “Pai, em tuas mãos entrego o meu espírito”."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "\"Pai, em tuas mãos entrego o meu espírito\"."
+       ],
        [
         "Dizendo isso, expirou."
        ]
@@ -15445,7 +19663,7 @@
        [
         {
          "m": "rubric",
-         "t": "(Aqui todos se ajoelham e faz-se uma pausa.)"
+         "t": "Aqui todos se ajoelham e faz-se uma pausa."
         }
        ]
       ]
@@ -15454,15 +19672,43 @@
       "k": "p",
       "lines": [
        [
-        "O oficial do exército romano viu o que acontecera e glorificou a Deus, dizendo: “De fato! Este homem era justo!”"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
+        "⟧"
+       ],
        [
-        "E as multidões, que tinham acorrido para assistir, viram o que havia acontecido e voltaram para casa, batendo no peito. Todos os conhecidos de Jesus, bem como as mulheres que o acompanhavam desde a Galileia, ficaram a distância, olhando essas coisas."
+        "47"
+       ],
+       [
+        "O oficial do exército romano viu o que acontecera"
+       ],
+       [
+        "e glorificou a Deus dizendo:"
+       ],
+       [
+        "\"De fato! Este homem era justo!\""
+       ],
+       [
+        "48"
+       ],
+       [
+        "E as multidões, que tinham acorrido para assistir,"
+       ],
+       [
+        "viram o que havia acontecido,"
+       ],
+       [
+        "e voltaram para casa, batendo no peito."
+       ],
+       [
+        "49"
+       ],
+       [
+        "Todos os conhecidos de Jesus, bem como as mulheres"
+       ],
+       [
+        "que o acompanhavam desde a Galileia,"
+       ],
+       [
+        "ficaram à distância, olhando essas coisas."
        ]
       ]
      },
