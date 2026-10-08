@@ -143,7 +143,7 @@ export function PracticeActionIcons({ actions }: { actions: Actions }) {
   const { t } = useTranslation()
 
   return (
-    <XStack gap={26} alignItems="center">
+    <XStack gap={20} alignItems="center">
       <Glyph
         icon={Type}
         onPress={actions.openSettings}
