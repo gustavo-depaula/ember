@@ -24,6 +24,9 @@ export interface RenderContext {
   lang: LangPrefs
   // Conditions that hold today, for words said only on certain days.
   conditions: ReadonlySet<string>
+  // A part's label ("Collect") is set as a heading, its citation beneath:
+  // for a page the Order of Mass does not divide.
+  titled?: boolean
 }
 
 const responseMark = /^\s*R\s*\/?\.?\s*$/i
@@ -220,6 +223,18 @@ export function renderItem(item: Item, ctx: RenderContext, out: Primitive[] = []
         ? whole
         : undefined
     if (other && !paired) wholePlaced = true
+    if (kind === 'label' && ctx.titled) {
+      const title = bodyOf({ ...block, cite: undefined }, kind)
+      if (title) {
+        out.push({
+          type: 'heading',
+          text: { primary: title },
+          size: 'h2',
+          ...(block.cite ? { note: { primary: block.cite } } : {}),
+        })
+      }
+      return
+    }
     emit(kind, bilingual(bodyOf(block, kind), other), out)
   })
   return out

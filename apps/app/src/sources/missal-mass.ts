@@ -149,7 +149,7 @@ export const missalMassSource: ContentSource<Primitive[]> = {
 export const missalProperSource: ContentSource<Primitive[]> = {
   id: 'producer/mass-proper-of',
   get version() {
-    return corpusVersion(1)
+    return corpusVersion(2)
   },
   prefsDeps: ['lang', 'jurisdiction'],
   dateScoped: true,

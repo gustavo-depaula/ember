@@ -277,7 +277,11 @@ function partBlock(part: Part, plan: MassPlan, ctx: RenderContext): Primitive[] 
   // A lone optional sequence has no selector to carry its label.
   const lead: Primitive[] =
     part === 'sequence' && built.length === 1 && !plan.sequence?.required
-      ? [{ type: 'rubric', text: label }]
+      ? [
+          ctx.titled
+            ? { type: 'heading', text: label, size: 'h2' }
+            : { type: 'rubric', text: label },
+        ]
       : []
   return [...lead, ...select(label, `missal.${part}`, built)]
 }
@@ -649,7 +653,7 @@ function readingsInOrder(plan: MassPlan, ctx: RenderContext): Primitive[] {
  * communion antiphon.
  */
 export function buildProper(plan: MassPlan, lang: LangPrefs): Primitive[] {
-  const ctx: RenderContext = { lang, conditions: new Set(plan.conditions) }
+  const ctx: RenderContext = { lang, conditions: new Set(plan.conditions), titled: true }
   const readings = readingsInOrder(plan, ctx)
   return [
     {
