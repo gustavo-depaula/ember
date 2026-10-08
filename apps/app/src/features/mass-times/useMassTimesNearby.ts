@@ -11,6 +11,8 @@ import { useDeviceLocation } from './useDeviceLocation'
 // opening zoom, ~28 km tall around the user.
 const defaultLatSpanDeg = 0.25
 const defaultLngSpanDeg = 0.125
+// The native map's markers are larger than the website's: a pin about 40 pt across, a count wider.
+const markerReach = { pin: 38, count: 64 }
 const earthRadiusKm = 6371
 
 // The viewed map region. Structurally satisfied by the map's `CameraIdle` payload.
@@ -93,7 +95,7 @@ export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): Mass
     isFetching,
     isError,
     refetch,
-  } = useMapView(bboxFromRegion(view), width / view.longitudeDelta, filter.kind)
+  } = useMapView(bboxFromRegion(view), width / view.longitudeDelta, filter.kind, markerReach)
   // Nothing to show yet, as against nothing there: a detail view still waiting on its tiles.
   const isLoading = drawn.mode === 'detail' && !drawn.complete && drawn.churches.length === 0
 

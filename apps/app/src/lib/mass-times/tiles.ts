@@ -123,10 +123,11 @@ export type DrawnView = {
   complete: boolean
 }
 
-// How near two markers' centres may come before they are drawn as one: a pin is 26 px across and
-// may overlap its neighbour a little; a count is wider and should not touch another.
-const pinReach = 22
-const countReach = 46
+// How near two markers' centres may come, in pixels, before they are drawn as one. It follows the
+// size the map draws them at: a pin may overlap its neighbour a little, a count should not touch
+// another. These suit the website's 26 px pins; the app's native markers are larger.
+export type Reach = { pin: number; count: number }
+const webReach: Reach = { pin: 22, count: 46 }
 
 type Marker = { id: string; lat: number; lng: number; count: number; church?: Cluster['church'] }
 
@@ -186,8 +187,9 @@ export function drawView(view: {
   /** Map scale: pixels per degree of longitude. */
   pxPerDeg: number
   kind?: ServiceKind
+  reach?: Reach
 }): DrawnView {
-  const { plan, tiles, bbox, pxPerDeg, kind } = view
+  const { plan, tiles, bbox, pxPerDeg, kind, reach = webReach } = view
   const midLat = (bbox.minLat + bbox.maxLat) / 2
   const midLng = (bbox.minLng + bbox.maxLng) / 2
   const complete = tiles.every((tile) => tile !== undefined)
@@ -203,7 +205,7 @@ export function drawView(view: {
     return {
       mode: 'counts',
       churches: [],
-      clusters: merge(cells, countReach, pxPerDeg, midLat),
+      clusters: merge(cells, reach.count, pxPerDeg, midLat),
       complete,
     }
   }
@@ -226,7 +228,7 @@ export function drawView(view: {
         count: 1,
         church: { id: c.id, name: c.name },
       })),
-    pinReach,
+    reach.pin,
     pxPerDeg,
     midLat,
   )

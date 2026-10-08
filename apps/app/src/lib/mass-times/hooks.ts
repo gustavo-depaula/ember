@@ -12,7 +12,7 @@ import {
   verifyChurch,
 } from './client'
 import { getClientId } from './clientId'
-import { drawView, planView, ringAround, type Tile, tilePath } from './tiles'
+import { drawView, planView, type Reach, ringAround, type Tile, tilePath } from './tiles'
 
 // Directory data is slow-changing; cache generously and let pinned favorites / details share it.
 const staleTime = 5 * 60 * 1000
@@ -50,7 +50,7 @@ const tileQuery = (path: string) => ({
 // A map view drawn from church tiles: the churches to list and the markers to draw, from whichever
 // of the view's tiles have arrived. Tiles already in hand draw at once, so a pan waits only for the
 // cells it uncovers — and those around the view are fetched ahead of it.
-export function useMapView(bbox: Bbox, pxPerDeg: number, kind?: ServiceKind) {
+export function useMapView(bbox: Bbox, pxPerDeg: number, kind?: ServiceKind, reach?: Reach) {
   const queryClient = useQueryClient()
   const { minLng, minLat, maxLng, maxLat } = bbox
   // biome-ignore lint/correctness/useExhaustiveDependencies: the box by its edges, not its identity
@@ -79,8 +79,8 @@ export function useMapView(bbox: Bbox, pxPerDeg: number, kind?: ServiceKind) {
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: the box by its edges, not its identity
   const view = useMemo(
-    () => drawView({ plan, tiles, bbox, pxPerDeg, kind }),
-    [plan, tiles, minLng, minLat, maxLng, maxLat, pxPerDeg, kind],
+    () => drawView({ plan, tiles, bbox, pxPerDeg, kind, reach }),
+    [plan, tiles, minLng, minLat, maxLng, maxLat, pxPerDeg, kind, reach],
   )
   return { view, isError, isFetching, refetch }
 }
