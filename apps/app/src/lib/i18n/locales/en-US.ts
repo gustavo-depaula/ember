@@ -1886,6 +1886,7 @@ export default {
     notListed: 'Times not yet listed',
     empty: 'No churches found nearby.',
     emptyHint: 'Try moving the map or zooming out.',
+    zoomIn: 'Zoom in or search to see churches.',
     error: 'Couldn’t load churches.',
     distanceAway: '{{distance}} away',
     lastVerified: 'Verified {{date}}',

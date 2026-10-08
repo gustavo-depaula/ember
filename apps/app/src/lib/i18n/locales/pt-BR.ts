@@ -1894,6 +1894,7 @@ export default {
     notListed: 'Horários ainda não cadastrados',
     empty: 'Nenhuma igreja encontrada por perto.',
     emptyHint: 'Tente mover o mapa ou afastar o zoom.',
+    zoomIn: 'Aproxime o mapa ou busque para ver as igrejas.',
     error: 'Não foi possível carregar as igrejas.',
     distanceAway: 'a {{distance}}',
     lastVerified: 'Verificado em {{date}}',

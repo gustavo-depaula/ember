@@ -9,9 +9,9 @@ import type { Church, ServiceKind } from '@ember/api'
 import type { Bbox, Cluster } from './client'
 
 export const detailPrecision = 5
-// Past this many detail tiles a view is too wide to pin church by church (a phone at city zoom
-// asks for a dozen or two, a desktop for three dozen).
-const maxDetailTiles = 48
+// Past this many detail tiles a view is too wide to pin church by church: a city shown whole is
+// a thicket of pins. A phone at city zoom asks for a dozen or two, a desktop for two dozen.
+const maxDetailTiles = 32
 // A count tile answers for up to 32 cells, so a handful cover any view.
 const maxCountTiles = 16
 
@@ -86,11 +86,11 @@ export function planView(bbox: Bbox): ViewPlan {
   return { mode: 'counts', tiles: ['root'] }
 }
 
-/** The detail tiles one ring around a view's own: where the next pan will land. */
+/** The detail tiles a quarter-view around a view's own: where the next pan will land. */
 export function ringAround(bbox: Bbox, plan: ViewPlan): string[] {
   if (plan.mode !== 'detail') return []
-  const lat = (bbox.maxLat - bbox.minLat) / 2
-  const lng = (bbox.maxLng - bbox.minLng) / 2
+  const lat = (bbox.maxLat - bbox.minLat) / 4
+  const lng = (bbox.maxLng - bbox.minLng) / 4
   const wider = {
     minLat: Math.max(-90, bbox.minLat - lat),
     maxLat: Math.min(90, bbox.maxLat + lat),

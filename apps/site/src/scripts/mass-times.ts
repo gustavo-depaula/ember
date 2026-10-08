@@ -113,7 +113,7 @@ if (root) {
     const query = input.value.trim()
     timer = window.setTimeout(() => {
       if (query.length >= 2) search(query)
-      else if (map) map.setKind(kind)
+      else if (map) map.setKind(kind as ServiceKind)
       else if (here) nearby()
       else show([], t('massTimes.searchHint'))
     }, 250)
@@ -146,7 +146,7 @@ if (root) {
         other.setAttribute('aria-pressed', String(other === chip))
       }
       if (input?.value.trim()) return
-      if (map) map.setKind(kind)
+      if (map) map.setKind(kind as ServiceKind)
       else if (here) nearby()
     })
   }
@@ -157,12 +157,17 @@ if (root) {
       map = mountChurchMap({
         element: mapElement,
         api,
-        kind,
+        kind: kind as ServiceKind,
         churchHref: (id) => ctx().churchHref(id),
         cardHtml: (church) => churchRowHtml(church, ctx()),
-        onChurches: (churches) => {
-          if (!input?.value.trim()) show(churches, t('massTimes.emptyHint'))
+        // The map's view is the search: its churches fill the list, unless a name is being
+        // searched; too wide a view to list says so instead.
+        onView: (view) => {
+          if (input?.value.trim()) return
+          const waiting = view.complete ? t('massTimes.emptyHint') : ''
+          show(view.churches, view.mode === 'counts' ? t('massTimes.zoomIn') : waiting)
         },
+        onError: () => say(t('massTimes.error')),
       })
     })
   }
