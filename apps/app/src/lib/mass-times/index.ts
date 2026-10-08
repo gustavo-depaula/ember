@@ -7,10 +7,10 @@ export type {
 export {
   useChurch,
   useChurchSearch,
+  useMapView,
   useSubmitCorrection,
   useUploadAttachment,
   useVerifyChurch,
-  useViewport,
 } from './hooks'
 export {
   expandUpcoming,

@@ -14,12 +14,12 @@ const NativeChurchesMap = lazy(() => import('./NativeChurchesMap'))
 const overviewZoom = 12
 const userZoom = 14
 
-// How long to wait after the camera settles before refetching the viewed area, how far it must pan (as a
-// fraction of the visible latitude span), and how much it must zoom (span grow/shrink ratio) to count —
-// so tiny nudges don't churn, but both panning AND zooming refetch.
-const regionSettleMs = 500
-const regionMoveFraction = 0.25
-const regionZoomRatio = 1.3
+// How long to wait after the camera settles before redrawing for the viewed area, how far it must pan
+// (as a fraction of the visible latitude span), and how much it must zoom (span grow/shrink ratio) to
+// count. The view is drawn from tiles already in hand, so these only spare a redraw for a nudge.
+const regionSettleMs = 150
+const regionMoveFraction = 0.05
+const regionZoomRatio = 1.05
 
 // Fraction of the visible latitude span to shift the focus camera south by, so the pin lands in the
 // upper area clear of the half-height sheet (pin ends up ~22% from the top, not dead center under it).

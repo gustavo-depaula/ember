@@ -396,6 +396,10 @@ function BrowseSearch({
                 <Skeleton key={i} height={56} borderRadius={8} />
               ))}
             </YStack>
+          ) : nearby.mode === 'counts' ? (
+            <YStack paddingTop="$md" alignItems="center">
+              <Typography variant="annotation">{t('massTimes.zoomIn')}</Typography>
+            </YStack>
           ) : (
             <YStack gap="$xs" paddingTop="$md" alignItems="center">
               <Typography variant="interface">{t('massTimes.empty')}</Typography>

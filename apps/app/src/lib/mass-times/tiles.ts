@@ -10,8 +10,8 @@ import type { Bbox, Cluster } from './client'
 
 export const detailPrecision = 5
 // Past this many detail tiles a view is too wide to pin church by church: a city shown whole is
-// a thicket of pins. A phone at city zoom asks for a dozen or two, a desktop for two dozen.
-const maxDetailTiles = 32
+// a thicket of pins. A phone at city zoom asks for up to three dozen, a desktop for two.
+const maxDetailTiles = 40
 // A count tile answers for up to 32 cells, so a handful cover any view.
 const maxCountTiles = 16
 

@@ -1,15 +1,16 @@
 import type { ServiceKind } from '@ember/api'
 import { useMemo } from 'react'
+import { useWindowDimensions } from 'react-native'
 import type { Bbox, Cluster, NearbyChurch } from '@/lib/mass-times'
-import { useViewport } from '@/lib/mass-times'
+import { useMapView } from '@/lib/mass-times'
 import { useFavoritesStore } from './favorites'
 import type { DeviceLocation } from './useDeviceLocation'
 import { useDeviceLocation } from './useDeviceLocation'
 
-// Churches listed per viewport (the backend's cap); past this many in view it clusters the map.
-const fetchLimit = 100
-// Initial viewport span (degrees) before the map reports its real region — ~28 km around the user.
-const defaultSpanDeg = 0.25
+// The viewport before the map reports its real region: about what a phone shows at the map's
+// opening zoom, ~28 km tall around the user.
+const defaultLatSpanDeg = 0.25
+const defaultLngSpanDeg = 0.125
 const earthRadiusKm = 6371
 
 // The viewed map region. Structurally satisfied by the map's `CameraIdle` payload.
@@ -41,8 +42,8 @@ function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): nu
   return earthRadiusKm * 2 * Math.asin(Math.min(1, Math.sqrt(a)))
 }
 
-// The nearby filters. `kind` narrows server-side; `favoritesOnly` refines on-device against the saved-id
-// lookup, so no extra round-trip.
+// The nearby filters, both applied on-device: `kind` to the tiles' schedules, `favoritesOnly` against
+// the saved-id lookup.
 export type MassFilter = {
   kind?: ServiceKind
   favoritesOnly: boolean
@@ -63,7 +64,8 @@ export type MassTimesNearby = {
   location: DeviceLocation
   churches: NearbyChurch[] | undefined // nearest the map center first
   center: { lat: number; lng: number } // the map center — where name search ranks from
-  clusters: Cluster[] // non-empty only when the viewport holds more churches than the list
+  clusters: Cluster[] // non-empty only when churches in view are counted together
+  mode: 'detail' | 'counts' // `counts`: too wide a view to list church by church
   kind?: ServiceKind // the active service-kind filter, surfaced so views can label the next time
   isLoading: boolean
   isFetching: boolean
@@ -71,10 +73,10 @@ export type MassTimesNearby = {
   refetch: () => void
 }
 
-// Churches for the current map viewport, shared by the list and the map. The viewport is queried as a
-// bounding box, so any zoom works: the backend returns every church in view nearest the center first,
-// or — zoomed out — the nearest few plus counted clusters for the map. `today`/`favoritesOnly` refine
-// the list on-device. Distance is from the user, never the map center, and only once located.
+// Churches for the current map viewport, shared by the list and the map, drawn from church tiles
+// (see `lib/mass-times/tiles`): close in, every church in view with its schedule, counted together
+// only where pins would overlap; zoomed out, counts and no list. The service kind filters on-device,
+// as do `favoritesOnly`. Distance is from the user, never the map center, and only once located.
 export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): MassTimesNearby {
   const location = useDeviceLocation()
   const favorites = useFavoritesStore((s) => s.favorites)
@@ -82,38 +84,43 @@ export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): Mass
   const view: MapRegion = region ?? {
     latitude: location.coords.lat,
     longitude: location.coords.lng,
-    latitudeDelta: defaultSpanDeg,
-    longitudeDelta: defaultSpanDeg,
+    latitudeDelta: defaultLatSpanDeg,
+    longitudeDelta: defaultLngSpanDeg,
   }
-  const { data, isLoading, isFetching, isError, refetch } = useViewport(
-    bboxFromRegion(view),
-    filter.kind,
-    fetchLimit,
-  )
+  const { width } = useWindowDimensions()
+  const {
+    view: drawn,
+    isFetching,
+    isError,
+    refetch,
+  } = useMapView(bboxFromRegion(view), width / view.longitudeDelta, filter.kind)
+  // Nothing to show yet, as against nothing there: a detail view still waiting on its tiles.
+  const isLoading = drawn.mode === 'detail' && !drawn.complete && drawn.churches.length === 0
 
   const located = location.status === 'granted'
   const { lat, lng } = location.coords
   const churches = useMemo<NearbyChurch[] | undefined>(() => {
-    if (!data) return undefined
+    if (isLoading) return undefined
     return (
-      data.churches
+      drawn.churches
         .map((c) => ({
           ...c,
           services: c.services ?? [],
           distanceKm: located ? haversineKm(lat, lng, c.lat, c.lng) : undefined,
         }))
         .filter((c) => passesFilter(c, filter, favorites))
-        // The backend orders by the map center; once the user is located, the distances shown are
+        // The tiles are read nearest the map center first; once the user is located, the distances shown are
         // theirs, so the list must read nearest-to-them first.
         .sort((a, b) => (a.distanceKm ?? 0) - (b.distanceKm ?? 0))
     )
-  }, [data, filter, favorites, located, lat, lng])
+  }, [drawn.churches, isLoading, filter, favorites, located, lat, lng])
 
   return {
     location,
     churches,
     center: { lat: view.latitude, lng: view.longitude },
-    clusters: data?.clusters ?? [],
+    clusters: drawn.clusters,
+    mode: drawn.mode,
     kind: filter.kind,
     isLoading,
     isFetching,

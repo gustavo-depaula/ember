@@ -1,4 +1,10 @@
-export { clearCache, getCached, setCache } from './cache'
+export {
+  clearCache,
+  clearCacheOlderThan,
+  getCached,
+  getCachedWithAge,
+  setCache,
+} from './cache'
 export {
   advanceIndex,
   createProgramCursor,

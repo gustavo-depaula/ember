@@ -27,3 +27,22 @@ export async function setCache(key: string, data: unknown): Promise<void> {
 export async function clearCache(prefix: string): Promise<void> {
   await getDb().runAsync('DELETE FROM cache WHERE key LIKE ?', [`${prefix}%`])
 }
+
+/** A cached value with when it was stored, for a caller that decides how old is too old. */
+export async function getCachedWithAge<T>(
+  key: string,
+): Promise<{ data: T; cachedAt: number } | undefined> {
+  const row = await getDb().getFirstAsync<{ data: string; cached_at: number }>(
+    'SELECT data, cached_at FROM cache WHERE key = ?',
+    [key],
+  )
+  if (!row) return undefined
+  return { data: JSON.parse(row.data) as T, cachedAt: row.cached_at }
+}
+
+export async function clearCacheOlderThan(prefix: string, cachedBefore: number): Promise<void> {
+  await getDb().runAsync('DELETE FROM cache WHERE key LIKE ? AND cached_at < ?', [
+    `${prefix}%`,
+    cachedBefore,
+  ])
+}
