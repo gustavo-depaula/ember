@@ -235,6 +235,50 @@ describe('GET /churches viewport at any zoom', () => {
     expect(left?.n).toBe(0)
   })
 
+  type Tile = {
+    churches?: { id: string; services: unknown[]; texts?: unknown }[]
+    cells?: Viewport['clusters']
+  }
+  const tile = async (cell: string) => {
+    const res = await app.request(`/churches/tiles/${cell}`, {}, env)
+    expect(res.status).toBe(200)
+    expect(res.headers.get('Cache-Control')).toContain('max-age=3600')
+    return (await res.json()) as Tile
+  }
+
+  it('serves a detail tile: the churches of one cell, with their schedules', async () => {
+    const body = await tile(encodeGeohash(center.lat, center.lng, 5))
+    expect(body.churches?.map((c) => c.id)).toEqual(['g0_0'])
+    expect(body.churches?.[0].services).toHaveLength(1)
+    expect(body.churches?.[0]).not.toHaveProperty('texts')
+  })
+
+  it('serves a count tile: the cells one length finer, down from the whole world', async () => {
+    const world = await tile('root')
+    expect(world.cells?.map((c) => [c.id, c.count])).toEqual([['d', 81]])
+    // Each tile's cells are the next tile down, until the churches themselves.
+    let cell = 'd'
+    for (let length = 2; length <= 5; length++) {
+      const { cells = [] } = await tile(cell)
+      expect(cells.every((c) => c.id.length === length && c.id.startsWith(cell))).toBe(true)
+      const centre = cells.find((c) => c.id === encodeGeohash(center.lat, center.lng, length))
+      expect(centre).toBeDefined()
+      cell = centre?.id as string
+    }
+    expect((await tile(cell)).churches?.map((c) => c.id)).toEqual(['g0_0'])
+  })
+
+  it("counts a tile per service kind, and names a cell's only church", async () => {
+    const res = await app.request('/churches/tiles/root?kind=confession', {}, env)
+    const { cells } = (await res.json()) as Tile
+    expect(cells).toMatchObject([{ id: 'd', count: 1, church: { id: 'g0_0', name: 'Grid 0 0' } }])
+  })
+
+  it('rejects an address that is no geohash cell', async () => {
+    expect((await app.request('/churches/tiles/sao-paulo', {}, env)).status).toBe(400)
+    expect((await app.request('/churches/tiles/dr5ru7', {}, env)).status).toBe(400)
+  })
+
   it('answers a continent-sized box', async () => {
     const body = await viewport('bbox=-130,20,-60,55&limit=9')
     expect(body.clusters.reduce((sum, c) => sum + c.count, 0)).toBe(81)

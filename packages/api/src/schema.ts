@@ -76,7 +76,7 @@ export const church = sqliteTable(
   (t) => [index('church_geohash_idx').on(t.geohash)],
 )
 
-// How many churches each geohash cell of length 1-4 holds, kept by triggers on `church` (see the
+// How many churches each geohash cell of length 1-5 holds, kept by triggers on `church` (see the
 // hand-written half of its migration), so a zoomed-out map reads a few dozen rows here instead of
 // counting churches. `kind` is a service kind, or '' for every church; the sums give the cell's
 // centre of mass as lat_sum / count.

@@ -67,6 +67,10 @@ export const churchIndexQuerySchema = z.object({
   limit: z.coerce.number().int().min(1).max(1000).default(500),
 })
 
+// A map tile is a geohash cell (its alphabet has no a, i, l or o), or `root` for the whole world.
+export const tileParamSchema = z.object({ cell: z.string().regex(/^(root|[0-9b-hjkmnp-z]{1,5})$/) })
+export const tileQuerySchema = z.object({ kind: z.string().optional() })
+
 export const verificationsQuerySchema = z.object({ limit, offset })
 
 const comment = z.string().trim().min(1).max(2000)

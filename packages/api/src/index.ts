@@ -35,6 +35,8 @@ export {
   correctionBodySchema,
   type NearQuery,
   nearQuerySchema,
+  tileParamSchema,
+  tileQuerySchema,
   type VerifyBody,
   verificationsQuerySchema,
   verifyBodySchema,

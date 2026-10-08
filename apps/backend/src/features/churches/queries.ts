@@ -1,8 +1,8 @@
 import type { Church } from '@ember/api'
 import { church, churchCell, verificationEvent } from '@ember/api'
-import { and, asc, count, desc, eq, gt, inArray, type SQL, sql } from 'drizzle-orm'
+import { and, asc, count, desc, eq, getTableColumns, gt, inArray, type SQL, sql } from 'drizzle-orm'
 import type { Db } from '../../db'
-import type { Bbox } from '../../lib/geo'
+import { type Bbox, prefixRanges } from '../../lib/geo'
 
 // Geo prefilter: OR of half-open geohash prefix ranges. Built with the query builder (so rows map
 // to camelCase typed Church) plus a raw `sql` fragment for the ranges — which stays sargable on the
@@ -132,6 +132,18 @@ export function churchesInCells(
     .select({ id: church.id, name: church.name, geohash: church.geohash })
     .from(church)
     .where(and(inRanges(church.geohash, q.ranges), offers(q.kind)))
+}
+
+// A tile's churches as a list reads them: the schedule, without the longer texts and links that
+// only a church's own page shows.
+export type TileChurch = Omit<Church, 'texts' | 'links'>
+
+export function churchesInTile(db: Db, cell: string): Promise<TileChurch[]> {
+  const { texts: _texts, links: _links, ...columns } = getTableColumns(church)
+  return db
+    .select(columns)
+    .from(church)
+    .where(inRanges(church.geohash, prefixRanges([cell])))
 }
 
 export type ChurchIndexRow = Pick<

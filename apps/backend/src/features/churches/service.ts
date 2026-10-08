@@ -17,9 +17,11 @@ import {
   churchesByIds,
   churchesInCells,
   churchesInGeohashRanges,
+  churchesInTile,
   churchesInViewport,
   churchIdsMatchingText,
   storedCellCounts,
+  type TileChurch,
   type ViewportFilter,
 } from './queries'
 
@@ -78,7 +80,7 @@ const byDistanceFrom = (lat: number, lng: number) => (a: Church, b: Church) =>
   haversineKm(lat, lng, a.lat, a.lng) - haversineKm(lat, lng, b.lat, b.lng)
 
 // `church_cell` holds cells of these lengths, counted for every church or per service kind.
-const storedPrecision = 4
+const storedPrecision = 5
 
 // The box's churches counted by cell. A wide view, filtered by nothing the stored counts don't
 // know, reads them; a closer or narrower one counts the churches themselves.
@@ -98,14 +100,21 @@ async function cellsInView(
     inBox.has(c.cell),
   )
 
+  return namingLoneChurches(db, cells, precision, q.kind)
+}
+
+// `church_cell` counts a one-church cell without saying whose it is; the map pins that church.
+async function namingLoneChurches(
+  db: Db,
+  cells: CellCount[],
+  precision: number,
+  kind?: string,
+): Promise<CellCount[]> {
   const alone = cells.filter((c) => c.count === 1).map((c) => c.cell)
   const named = new Map<string, { id: string; name: string }>()
   // Two parameters a range, and D1 allows a statement a hundred.
   for (let i = 0; i < alone.length; i += 40) {
-    const found = await churchesInCells(db, {
-      ranges: prefixRanges(alone.slice(i, i + 40)),
-      kind: q.kind,
-    })
+    const found = await churchesInCells(db, { ranges: prefixRanges(alone.slice(i, i + 40)), kind })
     for (const c of found) named.set(c.geohash.slice(0, precision), c)
   }
   return cells.map((c) => ({
@@ -113,6 +122,33 @@ async function cellsInView(
     churchId: named.get(c.cell)?.id,
     churchName: named.get(c.cell)?.name,
   }))
+}
+
+const toCluster = (c: CellCount): Cluster => ({
+  id: c.cell,
+  lat: c.lat,
+  lng: c.lng,
+  count: c.count,
+  church:
+    c.count === 1 && c.churchId && c.churchName
+      ? { id: c.churchId, name: c.churchName }
+      : undefined,
+})
+
+// A map tile: one geohash cell, the same address for everyone who looks at it, so a browser, the
+// app and the edge can all keep it. A cell of `tilePrecision` carries its churches with their
+// schedules — the map's pins and the list beside it. A coarser one, or `root` for the whole world,
+// carries the counts of the cells one length finer, read from `church_cell`.
+export const tilePrecision = 5
+export type Tile = { churches: TileChurch[] } | { cells: Cluster[] }
+
+export async function tile(db: Db, cell: string, kind?: string): Promise<Tile> {
+  const prefix = cell === 'root' ? '' : cell
+  if (prefix.length === tilePrecision) return { churches: await churchesInTile(db, prefix) }
+  const precision = prefix.length + 1
+  const ranges: Array<[string, string]> = prefix ? prefixRanges([prefix]) : [['0', '{']]
+  const cells = await storedCellCounts(db, { precision, ranges, kind })
+  return { cells: (await namingLoneChurches(db, cells, precision, kind)).map(toCluster) }
 }
 
 // Viewport browse at any zoom. When the box holds no more than `limit` churches, all of them come
@@ -141,16 +177,7 @@ export async function viewport(
   }
 
   const cells = await cellsInView(db, q, filter)
-  const clusters = cells.map((c) => ({
-    id: c.cell,
-    lat: c.lat,
-    lng: c.lng,
-    count: c.count,
-    church:
-      c.count === 1 && c.churchId && c.churchName
-        ? { id: c.churchId, name: c.churchName }
-        : undefined,
-  }))
+  const clusters = cells.map(toCluster)
 
   const nearest: string[] = []
   let covered = 0
