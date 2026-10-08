@@ -16,6 +16,7 @@
         "tinted": "./assets/icon-tinted.png"
       },
       "bundleIdentifier": "me.dpgu.ember",
+      "associatedDomains": ["applinks:ember.dpgu.me"],
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -28,6 +29,17 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "package": "me.dpgu.ember",
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "autoVerify": true,
+          "data": [
+            { "scheme": "https", "host": "ember.dpgu.me", "pathPattern": "/prayers/..*" },
+            { "scheme": "https", "host": "ember.dpgu.me", "pathPattern": "/pt/oracoes/..*" }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ],
       "softwareKeyboardLayoutMode": "resize"
     },
     "web": {

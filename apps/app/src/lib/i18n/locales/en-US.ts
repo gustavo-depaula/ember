@@ -1410,6 +1410,7 @@ export default {
     noContent: 'No prayer content available for this practice yet.',
     loadingContent: 'Loading…',
     contentLoadFailed: 'Couldn’t load today’s prayer. Please try again.',
+    shareFailed: 'Couldn’t open the share sheet.',
     completionSyncFailed: 'Couldn’t update your progress',
     completionSyncFailedDesc:
       'Your prayer was recorded, but we couldn’t advance to the next day. Please try again later.',
@@ -1491,6 +1492,7 @@ export default {
     ruleEditReminder: 'Change the reminder',
     ruleEditForm: 'Change the form',
     practiceMore: 'More options',
+    sharePractice: 'Share a link to this prayer',
     makeStanding: 'Always carry “{{text}}” in this prayer',
     unmakeStanding: 'Stop always carrying “{{text}}” in this prayer',
     dropFromToday: 'Do not carry “{{text}}” today',
