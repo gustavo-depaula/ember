@@ -2491,6 +2491,15 @@
         "Proptérea me Pater díligit, quia ego pono ánimam meam, ut íterum sumam eam. Nemo tollit eam a me, sed ego pono eam a meípso. Potestátem hábeo ponéndi eam et potestátem hábeo íterum suméndi eam. Hoc mandátum accépi a Patre meo»."
        ]
       ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ]
      }
     ],
     "pt-BR": [
@@ -2647,6 +2656,111 @@
    },
    "part": "gospel",
    "cycle": "A"
+  },
+  {
+   "role": "people",
+   "part": "gospel",
+   "cycle": "A",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   }
   },
   {
    "text": {
@@ -3004,6 +3118,15 @@
         "Dixit ergo íterum Iesus: «Amen, amen dico vobis: Ego sum óstium óvium. Omnes, quotquot venérunt ante me, fures sunt et latrónes, sed non audiérunt eos oves. Ego sum óstium; per me, si quis introíerit, salvábitur et ingrediétur et egrediétur et páscua invéniet. Fur non venit, nisi ut furétur et mactet et perdat; ego veni, ut vitam hábeant et abundántius hábeant»."
        ]
       ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ]
      }
     ],
     "pt-BR": [
@@ -3163,6 +3286,9 @@
    "cycle": "C"
   },
   {
+   "role": "people",
+   "part": "gospel",
+   "cycle": "C",
    "text": {
     "la": [
      {
@@ -3262,8 +3388,7 @@
       ]
      }
     ]
-   },
-   "role": "people"
+   }
   }
  ],
  "title": {

@@ -629,6 +629,116 @@
    "from": "for-the-dead.first-reading.3"
   },
   {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.3",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
    "text": {
     "la": [
      {
@@ -960,6 +1070,14 @@
    "from": "for-the-dead.first-reading.3"
   },
   {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "short"
+   },
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.3",
    "text": {
     "la": [
      {
@@ -1017,20 +1135,6 @@
       ]
      }
     ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Rendiamo grazie a Dio."
-       ]
-      ]
-     }
-    ],
     "fr": [
      {
       "k": "p",
@@ -1059,10 +1163,7 @@
       ]
      }
     ]
-   },
-   "role": "people",
-   "part": "firstReading",
-   "from": "for-the-dead.first-reading.3"
+   }
   },
   {
    "text": {
@@ -2934,20 +3035,6 @@
          "t": "R/. "
         },
         "Te alabamos, Señor."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Rendiamo grazie a Dio."
        ]
       ]
      }

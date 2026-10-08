@@ -2089,6 +2089,116 @@
    }
   },
   {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "secondReading",
+   "cycle": "A",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
    "text": {
     "la": [
      {
@@ -5808,14 +5918,6 @@
        [
         "Verbum Dómini."
        ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
       ],
       "role": "conclusion"
      }
@@ -5935,14 +6037,6 @@
       "k": "p",
       "lines": [
        [
-        "Acclamons la Parole de Dieu !"
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
         "Parole du Seigneur."
        ]
       ],
@@ -5984,6 +6078,116 @@
     "group": 2,
     "option": 1,
     "label": "long"
+   }
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "gospel",
+   "cycle": "B",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
    }
   },
   {
@@ -6351,14 +6555,6 @@
        [
         "Verbum Dómini."
        ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
       ],
       "role": "conclusion"
      }
@@ -6451,14 +6647,6 @@
       "lines": [
        [
         "En ce temps-là, Jésus s'était assis dans le Temple en face de la salle du trésor, et regardait comment la foule y mettait de l'argent. Beaucoup de riches y mettaient de grosses sommes. Une pauvre veuve s'avança et mit deux petites pièces de monnaie. Jésus appela ses disciples et leur déclara : \" Amen, je vous le dis : cette pauvre veuve a mis dans le Trésor plus que tous les autres. Car tous, ils ont pris sur leur superflu, mais elle, elle a pris sur son indigence : elle a mis tout ce qu'elle possédait, tout ce qu'elle avait pour vivre. \""
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Acclamons la Parole de Dieu !"
        ]
       ]
      },
@@ -9227,6 +9415,116 @@
     "group": 3,
     "option": 1,
     "label": "long"
+   }
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 3,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "gospel",
+   "cycle": "C",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
    }
   },
   {

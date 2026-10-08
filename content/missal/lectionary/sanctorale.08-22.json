@@ -2717,34 +2717,6 @@
       ]
      }
     ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria a ti, Señor Jesús."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Louange à toi, Seigneur Jésus !"
-       ]
-      ]
-     }
-    ],
     "pt-BR": [
      {
       "k": "p",
@@ -2769,6 +2741,62 @@
          "t": "R/. "
         },
         "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
        ]
       ]
      }

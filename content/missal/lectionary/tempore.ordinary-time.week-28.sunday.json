@@ -2838,7 +2838,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -2970,7 +2971,8 @@
        [
         "Acclamons la Parole de Dieu !"
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [
@@ -3020,6 +3022,116 @@
     "group": 1,
     "option": 1,
     "label": "long"
+   }
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "gospel",
+   "cycle": "A",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
    }
   },
   {
@@ -3411,7 +3523,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -3523,7 +3636,8 @@
        [
         "Acclamons la Parole de Dieu !"
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [
@@ -6389,6 +6503,116 @@
     "group": 2,
     "option": 1,
     "label": "long"
+   }
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "gospel",
+   "cycle": "B",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
    }
   },
   {

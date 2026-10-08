@@ -226,7 +226,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -474,7 +475,8 @@
        [
         "Parole du Seigneur."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [
@@ -3561,7 +3563,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -3678,7 +3681,8 @@
        [
         "Acclamons la Parole de Dieu !"
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [

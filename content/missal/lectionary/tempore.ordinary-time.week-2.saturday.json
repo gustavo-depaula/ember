@@ -234,7 +234,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -471,7 +472,8 @@
        [
         "Parole du Seigneur."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [
@@ -3577,7 +3579,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -3649,9 +3652,15 @@
        ],
        [
         "Allora i suoi, sentito questo, uscirono per andare a prenderlo; dicevano infatti: «È fuori di sé»."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
        [
-        "Parola del Signore"
+        "Parola del Signore."
        ]
       ]
      }
@@ -3671,7 +3680,8 @@
        [
         "Acclamons la Parole de Dieu !"
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [

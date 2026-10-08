@@ -2238,6 +2238,116 @@
    "from": "for-the-dead.second-reading.7"
   },
   {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "secondReading",
+   "from": "for-the-dead.second-reading.7",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
    "text": {
     "la": [
      {
@@ -2548,6 +2658,14 @@
    "from": "for-the-dead.second-reading.7"
   },
   {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "short"
+   },
+   "part": "secondReading",
+   "from": "for-the-dead.second-reading.7",
    "text": {
     "la": [
      {
@@ -2605,20 +2723,6 @@
       ]
      }
     ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Rendiamo grazie a Dio."
-       ]
-      ]
-     }
-    ],
     "fr": [
      {
       "k": "p",
@@ -2647,10 +2751,7 @@
       ]
      }
     ]
-   },
-   "role": "people",
-   "part": "secondReading",
-   "from": "for-the-dead.second-reading.7"
+   }
   },
   {
    "text": {

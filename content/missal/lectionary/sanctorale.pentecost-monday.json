@@ -224,6 +224,60 @@
    }
   },
   {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   },
+   "part": "firstReading",
+   "cycle": "A",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
    "text": {
     "la": [
      {
@@ -424,34 +478,6 @@
          "t": "A: "
         },
         "Dank sei Gott."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Thanks be to God."
        ]
       ]
      }
@@ -943,34 +969,6 @@
        ]
       ]
      }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Thanks be to God."
-       ]
-      ]
-     }
     ]
    },
    "cycle": "A",
@@ -1436,34 +1434,6 @@
        ]
       ]
      }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glória a vós, Senhor."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Praise to you, Lord Jesus Christ."
-       ]
-      ]
-     }
     ]
    },
    "part": "gospel",
@@ -1611,6 +1581,60 @@
     "group": 2,
     "option": 1,
     "label": "or"
+   }
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "or"
+   },
+   "part": "firstReading",
+   "cycle": "B",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
    }
   },
   {
@@ -1841,34 +1865,6 @@
          "t": "A: "
         },
         "Dank sei Gott."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Thanks be to God."
        ]
       ]
      }
@@ -2702,34 +2698,6 @@
        ]
       ]
      }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Thanks be to God."
-       ]
-      ]
-     }
     ]
    },
    "cycle": "B",
@@ -3188,34 +3156,6 @@
       ]
      }
     ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Louange à toi, Seigneur Jésus !"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Lob sei dir, Christus."
-       ]
-      ]
-     }
-    ],
     "pt-BR": [
      {
       "k": "p",
@@ -3240,6 +3180,34 @@
          "t": "R/. "
         },
         "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
        ]
       ]
      }
@@ -3399,6 +3367,60 @@
     "group": 3,
     "option": 1,
     "label": "or"
+   }
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 3,
+    "option": 1,
+    "label": "or"
+   },
+   "part": "firstReading",
+   "cycle": "C",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
    }
   },
   {
@@ -3593,34 +3615,6 @@
          "t": "A: "
         },
         "Dank sei Gott."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Thanks be to God."
        ]
       ]
      }
@@ -4726,34 +4720,6 @@
        ]
       ]
      }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Thanks be to God."
-       ]
-      ]
-     }
     ]
    },
    "cycle": "C",
@@ -5203,34 +5169,6 @@
       ]
      }
     ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Louange à toi, Seigneur Jésus !"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Lob sei dir, Christus."
-       ]
-      ]
-     }
-    ],
     "pt-BR": [
      {
       "k": "p",
@@ -5255,6 +5193,34 @@
          "t": "R/. "
         },
         "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
        ]
       ]
      }

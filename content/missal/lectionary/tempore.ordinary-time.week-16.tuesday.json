@@ -243,6 +243,15 @@
         "Tunc cécinit Móyses et fílii Israel carmen hoc Dómino, et dixérunt:"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ]
      }
     ],
     "pt-BR": [
@@ -390,6 +399,15 @@
         "Entonces Moisés y los hijos de Israel entonaron este canto al Señor:"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ]
      }
     ],
     "it": [
@@ -491,6 +509,15 @@
         "Ce jour-là, le Seigneur sauva Israël de la main de l'Égypte, et Israël vit les Égyptiens morts sur le bord de la mer. Israël vit avec quelle main puissante le Seigneur avait agi contre l'Égypte. Le peuple craignit le Seigneur, il mit sa foi dans le Seigneur et dans son serviteur Moïse. Alors Moïse et les fils d'Israël chantèrent ce cantique au Seigneur :"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ]
      }
     ],
     "de": [
@@ -549,6 +576,111 @@
    },
    "part": "firstReading",
    "cycle": "I"
+  },
+  {
+   "role": "people",
+   "part": "firstReading",
+   "cycle": "I",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   }
   },
   {
    "text": {

@@ -334,6 +334,19 @@ describe('what the corpus must not show', () => {
     expect(text).not.toMatch(/MatthewMateus|JohnJoão/)
   })
 
+  it('answers every form of a Gospel, the short as well as the long', async () => {
+    // The Fourth Sunday of Lent, Year A: the man born blind, in two forms.
+    const gospel = selectOf(await massOn('2026-03-15', 'en-US', 'US'), 'missal.gospel')
+    expect(gospel?.options.length).toBeGreaterThan(1)
+    for (const option of gospel?.options ?? []) {
+      const lines = shown(option.children).split('\n')
+      expect(lines.slice(-2)).toEqual([
+        'The Gospel of the Lord.',
+        'Praise to you, Lord Jesus Christ.',
+      ])
+    }
+  })
+
   it('offers no choice that is empty for the reader', async () => {
     // St Vincent: Spain has antiphons of its own, which no one else reads.
     for (const select of selects(await massOn('2026-01-22'))) {

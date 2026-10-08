@@ -2011,7 +2011,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -2221,7 +2222,8 @@
        [
         "Parole du Seigneur."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [
@@ -9094,6 +9096,15 @@
         "Hoc autem dixit signíficans qua morte clarificatúrus esset Deum. Et hoc cum dixísset, dicit ei: «Séquere me»."
        ]
       ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ]
      }
     ],
     "pt-BR": [
@@ -9434,6 +9445,116 @@
     "group": 1,
     "option": 1,
     "label": "long"
+   }
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "gospel",
+   "cycle": "C",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
    }
   },
   {
@@ -9840,6 +9961,15 @@
       "lines": [
        [
         "Hoc iam tértio manifestátus est Iesus discípulis, cum resurrexísset a mórtuis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
+       [
+        "Verbum Dómini."
        ]
       ]
      }

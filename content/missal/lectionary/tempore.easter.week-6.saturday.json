@@ -172,7 +172,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -403,7 +404,8 @@
        [
         "Parole du Seigneur."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [

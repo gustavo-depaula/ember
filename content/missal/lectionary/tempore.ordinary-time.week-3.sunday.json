@@ -1584,14 +1584,6 @@
        [
         "Verbum Dómini."
        ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
       ],
       "role": "conclusion"
      }
@@ -1818,14 +1810,6 @@
       "lines": [
        [
         "Frères, je vous exhorte au nom de notre Seigneur Jésus Christ : ayez tous un même langage ; qu'il n'y ait pas de division entre vous, soyez en parfaite harmonie de pensées et d'opinions. Il m'a été rapporté à votre sujet, mes frères, par les gens de chez Chloé, qu'il y a entre vous des rivalités. Je m'explique. Chacun de vous prend parti en disant : \" Moi, j'appartiens à Paul \", ou bien : \" Moi, j'appartiens à Apollos \", ou bien : \" Moi, j'appartiens à Pierre \", ou bien : \" Moi, j'appartiens au Christ \". Le Christ est-il donc divisé ? Est-ce Paul qui a été crucifié pour vous ? Est-ce au nom de Paul que vous avez été baptisés ? Le Christ, en effet, ne m'a pas envoyé pour baptiser, mais pour annoncer l'Évangile, et cela sans avoir recours au langage de la sagesse humaine, ce qui rendrait vaine la croix du Christ."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Parole du Seigneur."
        ]
       ]
      },
@@ -2825,6 +2809,116 @@
     "group": 1,
     "option": 1,
     "label": "long"
+   }
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "gospel",
+   "cycle": "A",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
    }
   },
   {
@@ -8159,6 +8253,116 @@
     "group": 2,
     "option": 1,
     "label": "long"
+   }
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "secondReading",
+   "cycle": "C",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
    }
   },
   {

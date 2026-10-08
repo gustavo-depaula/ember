@@ -2451,6 +2451,20 @@
       ]
      }
     ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
     "en-US": [
      {
       "k": "p",
@@ -2517,20 +2531,6 @@
          "t": "A: "
         },
         "Lob sei dir, Christus."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glória a vós, Senhor."
        ]
       ]
      }

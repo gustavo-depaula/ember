@@ -329,20 +329,6 @@
       ]
      }
     ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
-       ]
-      ]
-     }
-    ],
     "en-US": [
      {
       "k": "p",
@@ -395,20 +381,6 @@
          "t": "R/. "
         },
         "Nous rendons grâce à Dieu."
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "A: "
-        },
-        "Dank sei Gott."
        ]
       ]
      }

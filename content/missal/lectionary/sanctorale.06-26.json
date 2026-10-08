@@ -1677,7 +1677,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -1861,7 +1862,8 @@
        [
         "Parole du Seigneur."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [
@@ -1965,20 +1967,6 @@
          "t": "R/. "
         },
         "Te alabamos, Señor."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Rendiamo grazie a Dio."
        ]
       ]
      }

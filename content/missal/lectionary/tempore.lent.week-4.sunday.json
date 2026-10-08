@@ -3311,6 +3311,116 @@
    }
   },
   {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "gospel",
+   "cycle": "A",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
    "text": {
     "la": [
      {
@@ -4155,15 +4265,6 @@
         "Anno autem primo Cyri regis Persárum ad expléndum sermónem Dómini, quem locútus fúerat per os Ieremíæ, suscitávit Dóminus spíritum Cyri regis Persárum, qui iussit prædicári in univérso regno suo étiam per scriptúram dicens: «Hæc dicit Cyrus rex Persárum: Omnia regna terræ dedit mihi Dóminus, Deus cæli, et ipse præcépit mihi, ut ædificárem ei domum in Ierúsalem, quæ est in Iudǽa. Quis ex vobis est de omni pópulo eius? Sit Dóminus Deus suus cum eo, et ascéndat»."
        ]
       ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Verbum Dómini."
-       ]
-      ],
-      "role": "conclusion"
      },
      {
       "k": "p",

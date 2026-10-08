@@ -672,6 +672,20 @@
       ]
      }
     ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
     "en-US": [
      {
       "k": "p",
@@ -738,20 +752,6 @@
          "t": "A: "
         },
         "Dank sei Gott."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Graças a Deus."
        ]
       ]
      }
@@ -1944,7 +1944,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -2202,7 +2203,8 @@
        [
         "Parole du Seigneur."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [

@@ -346,6 +346,7 @@
    "part": "acclamation"
   },
   {
+   "part": "gospel",
    "text": {
     "*": [
      {
@@ -379,7 +380,33 @@
       ],
       "cite": "5, 13-16",
       "role": "announcement"
-     },
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
      {
       "k": "p",
       "lines": [
@@ -412,26 +439,6 @@
     ]
    },
    "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Gloria a ti, Señor."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "role": "people"
   },
   {
    "text": {

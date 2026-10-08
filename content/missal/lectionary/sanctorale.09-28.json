@@ -2023,6 +2023,15 @@
         "Jesus said to his disciples: 'Do not suppose that I have come to bring peace to the earth: it is not peace I have come to bring, but a sword. For I have come to set a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law. A man's enemies will be those of his own household. 'Anyone who prefers father or mother to me is not worthy of me. Anyone who prefers son or daughter to me is not worthy of me. Anyone who does not take his cross and follow in my footsteps is not worthy of me. Anyone who finds his life will lose it; anyone who loses his life for my sake will find it."
        ]
       ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ]
      }
     ],
     "es": [
@@ -2151,6 +2160,20 @@
       ]
      }
     ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
     "en-US": [
      {
       "k": "p",
@@ -2217,20 +2240,6 @@
          "t": "A: "
         },
         "Lob sei dir, Christus."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "R/. "
-        },
-        "Glória a vós, Senhor."
        ]
       ]
      }

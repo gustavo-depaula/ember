@@ -1797,7 +1797,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -2036,7 +2037,8 @@
        [
         "Parole du Seigneur."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [
@@ -4517,7 +4519,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -4736,6 +4739,15 @@
       "lines": [
        [
         "Frères, soyez toujours dans la joie, priez sans relâche, rendez grâce en toute circonstance : c'est la volonté de Dieu à votre égard dans le Christ Jésus. N'éteignez pas l'Esprit, ne méprisez pas les prophéties, mais discernez la valeur de toute chose : ce qui est bien, gardez-le ; éloignez-vous de toute espèce de mal. Que le Dieu de la paix lui-même vous sanctifie tout entiers ; que votre esprit, votre âme et votre corps, soient tout entiers gardés sans reproche pour la venue de notre Seigneur Jésus Christ. Il est fidèle, Celui qui vous appelle : tout cela, il le fera."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "role": "conclusion",
+      "lines": [
+       [
+        "Parole du Seigneur."
        ]
       ]
      }
@@ -7379,7 +7391,8 @@
        [
         "Verbum Dómini."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -7610,7 +7623,8 @@
        [
         "Parole du Seigneur."
        ]
-      ]
+      ],
+      "role": "conclusion"
      }
     ],
     "de": [
