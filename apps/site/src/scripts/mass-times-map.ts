@@ -33,6 +33,7 @@ export function mountChurchMap(options: {
   element: HTMLElement
   api: string
   kind: string
+  churchHref: (id: string) => string
   /** What a pin shows when clicked: the church's row, linking on to its page. */
   cardHtml: (church: ListedChurch) => string
   onChurches: (churches: ListedChurch[]) => void
@@ -55,18 +56,53 @@ export function mountChurchMap(options: {
   // The card belongs to the map, not to its pin: pins are redrawn on every move.
   let card: maplibregl.Popup | undefined
 
-  function open(church: ListedChurch) {
+  function show(at: { lat: number; lng: number }, fill: (popup: maplibregl.Popup) => void) {
     card?.remove()
     card = new maplibregl.Popup({
       offset: 18,
       closeButton: false,
-      maxWidth: '320px',
+      maxWidth: '300px',
       // MapLibre would focus the card's link, ringing a card opened by mouse.
       focusAfterOpen: false,
+    }).setLngLat([at.lng, at.lat])
+    fill(card)
+    card.addTo(map)
+  }
+
+  function pin(at: { name: string; lat: number; lng: number }, onClick: () => void) {
+    const element = document.createElement('button')
+    element.type = 'button'
+    element.className = 'map-pin'
+    element.title = at.name
+    element.style.background = pinColor(at.name)
+    element.textContent = '✝'
+    element.addEventListener('click', (event) => {
+      // The map would take the same click for one on itself, and close the card it just opened.
+      event.stopPropagation()
+      onClick()
     })
-      .setLngLat([church.lng, church.lat])
-      .setHTML(options.cardHtml(church))
-      .addTo(map)
+    markers.push(new maplibregl.Marker({ element }).setLngLat([at.lng, at.lat]).addTo(map))
+  }
+
+  // A church the viewport only counted comes without its schedule: the card asks for it,
+  // and failing that still names the church and leads to its page.
+  async function showCounted(church: { id: string; name: string }, at: Cluster) {
+    const res = await fetch(`${options.api}/churches/${encodeURIComponent(church.id)}`).catch(
+      () => undefined,
+    )
+    if (res?.ok) {
+      const full = (await res.json()) as ListedChurch
+      show(at, (popup) => popup.setHTML(options.cardHtml(full)))
+      return
+    }
+    const link = document.createElement('a')
+    link.className = 'mt-row'
+    link.href = options.churchHref(church.id)
+    const name = document.createElement('span')
+    name.className = 'mt-name'
+    name.textContent = church.name
+    link.append(name)
+    show(at, (popup) => popup.setDOMContent(link))
   }
 
   async function refresh() {
@@ -80,23 +116,28 @@ export function mountChurchMap(options: {
     const view = (await res.json()) as Viewport
     for (const marker of markers) marker.remove()
     markers = []
-    for (const church of view.churches) {
-      const pin = document.createElement('button')
-      pin.type = 'button'
-      pin.className = 'map-pin'
-      pin.addEventListener('click', (event) => {
-        // The map would take the same click for one on itself, and close the card it just opened.
-        event.stopPropagation()
-        open(church)
-      })
-      pin.title = church.longName ?? church.name
-      pin.style.background = pinColor(church.name)
-      pin.textContent = '✝'
-      markers.push(
-        new maplibregl.Marker({ element: pin }).setLngLat([church.lng, church.lat]).addTo(map),
-      )
+    // Zoomed out, the clusters account for every church in view (a cluster of one stands in
+    // for its church) and `churches` is only the list's nearest few: pinning both would draw
+    // those churches twice, once alone and once inside a count.
+    if (view.clusters.length === 0) {
+      for (const church of view.churches) {
+        pin({ ...church, name: church.longName ?? church.name }, () =>
+          show(church, (popup) => popup.setHTML(options.cardHtml(church))),
+        )
+      }
     }
+    const listed = new Map(view.churches.map((church) => [church.id, church]))
     for (const cluster of view.clusters) {
+      const { church } = cluster
+      if (church) {
+        const known = listed.get(church.id)
+        pin({ ...cluster, name: church.name }, () =>
+          known
+            ? show(cluster, (popup) => popup.setHTML(options.cardHtml(known)))
+            : void showCounted(church, cluster),
+        )
+        continue
+      }
       const bubble = document.createElement('button')
       bubble.type = 'button'
       bubble.className = 'map-cluster'
