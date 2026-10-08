@@ -1,5 +1,5 @@
 import type { Church } from '@ember/api'
-import { church, verificationEvent } from '@ember/api'
+import { church, churchCell, verificationEvent } from '@ember/api'
 import { and, asc, count, desc, eq, gt, inArray, type SQL, sql } from 'drizzle-orm'
 import type { Db } from '../../db'
 import type { Bbox } from '../../lib/geo'
@@ -34,35 +34,41 @@ export type ViewportFilter = {
   institute?: string
 }
 
-// Geohash ranges (the indexed prune) + the exact box + service filters, in SQL — so counts, clusters
-// and the capped list all see the same set, and a kind filter applies before any cap.
+const inRanges = (
+  column: typeof church.geohash | typeof churchCell.cell,
+  ranges: Array<[string, string]>,
+) =>
+  sql`(${sql.join(
+    ranges.map(([lo, hi]) => sql`(${column} >= ${lo} AND ${column} < ${hi})`),
+    sql` OR `,
+  )})`
+
+// Services are embedded JSON; a church qualifies when any of its services matches.
+function offers(kind?: string, rite?: string): SQL | undefined {
+  if (!kind && !rite) return undefined
+  const k = kind ? sql`json_extract(value, '$.kind') = ${kind}` : sql`1`
+  const r = rite ? sql`json_extract(value, '$.rite') = ${rite}` : sql`1`
+  return sql`EXISTS (SELECT 1 FROM json_each(${church.services}) WHERE ${k} AND ${r})`
+}
+
+// Geohash ranges (the indexed prune) + the exact box + service filters, in SQL — so clusters and the
+// capped list all see the same set, and a kind filter applies before any cap.
 function viewportWhere(f: ViewportFilter): SQL {
-  const conds: SQL[] = [
-    sql`(${sql.join(
-      f.ranges.map(([lo, hi]) => sql`(${church.geohash} >= ${lo} AND ${church.geohash} < ${hi})`),
-      sql` OR `,
-    )})`,
+  return and(
+    inRanges(church.geohash, f.ranges),
     sql`${church.lat} BETWEEN ${f.bbox.minLat} AND ${f.bbox.maxLat}`,
     sql`${church.lng} BETWEEN ${f.bbox.minLng} AND ${f.bbox.maxLng}`,
-  ]
-  if (f.status) conds.push(eq(church.status, f.status))
-  if (f.institute) conds.push(eq(church.institute, f.institute))
-  // Services are embedded JSON; a church qualifies when any of its services matches.
-  if (f.kind || f.rite) {
-    const kind = f.kind ? sql`json_extract(value, '$.kind') = ${f.kind}` : sql`1`
-    const rite = f.rite ? sql`json_extract(value, '$.rite') = ${f.rite}` : sql`1`
-    conds.push(sql`EXISTS (SELECT 1 FROM json_each(${church.services}) WHERE ${kind} AND ${rite})`)
-  }
-  return and(...conds) as SQL
+    f.status ? eq(church.status, f.status) : undefined,
+    f.institute ? eq(church.institute, f.institute) : undefined,
+    offers(f.kind, f.rite),
+  ) as SQL
 }
 
-export async function countInViewport(db: Db, f: ViewportFilter): Promise<number> {
-  const rows = await db.select({ n: count() }).from(church).where(viewportWhere(f))
-  return rows[0]?.n ?? 0
-}
-
-export function churchesInViewport(db: Db, f: ViewportFilter): Promise<Church[]> {
-  return db.select().from(church).where(viewportWhere(f))
+// With `limit`, the scan stops at that many churches: asking for one more than fits tells a caller
+// the box overflows without counting it.
+export function churchesInViewport(db: Db, f: ViewportFilter, limit?: number): Promise<Church[]> {
+  const rows = db.select().from(church).where(viewportWhere(f))
+  return limit === undefined ? rows : rows.limit(limit)
 }
 
 export type CellCount = {
@@ -70,11 +76,12 @@ export type CellCount = {
   count: number
   lat: number
   lng: number
-  churchId: string
-  churchName: string
+  // Only for a one-church cell.
+  churchId?: string
+  churchName?: string
 }
 
-// Churches grouped by geohash cell of length `precision`: count + centroid per cell. `churchId` is
+// Churches grouped by geohash cell of length `precision`: count + centroid per cell. `churchId`
 // and `churchName` are only meaningful for a one-church cell (MIN over a single row is that row).
 export function cellCounts(db: Db, f: ViewportFilter, precision: number): Promise<CellCount[]> {
   const cell = sql<string>`substr(${church.geohash}, 1, ${precision})`
@@ -90,6 +97,41 @@ export function cellCounts(db: Db, f: ViewportFilter, precision: number): Promis
     .from(church)
     .where(viewportWhere(f))
     .groupBy(cell)
+}
+
+// The same counts read from `church_cell`, which the triggers on `church` keep: a row per cell
+// instead of a scan of its churches. A cell is counted whole, so one straddling the box's edge
+// includes its churches just outside.
+export function storedCellCounts(
+  db: Db,
+  q: { precision: number; ranges: Array<[string, string]>; kind?: string },
+): Promise<CellCount[]> {
+  return db
+    .select({
+      cell: churchCell.cell,
+      count: churchCell.count,
+      lat: sql<number>`${churchCell.latSum} / ${churchCell.count}`,
+      lng: sql<number>`${churchCell.lngSum} / ${churchCell.count}`,
+    })
+    .from(churchCell)
+    .where(
+      and(
+        eq(churchCell.precision, q.precision),
+        eq(churchCell.kind, q.kind ?? ''),
+        inRanges(churchCell.cell, q.ranges),
+      ),
+    )
+}
+
+// Who the churches in these cells are: `church_cell` counts a one-church cell without naming it.
+export function churchesInCells(
+  db: Db,
+  q: { ranges: Array<[string, string]>; kind?: string },
+): Promise<Pick<Church, 'id' | 'name' | 'geohash'>[]> {
+  return db
+    .select({ id: church.id, name: church.name, geohash: church.geohash })
+    .from(church)
+    .where(and(inRanges(church.geohash, q.ranges), offers(q.kind)))
 }
 
 export type ChurchIndexRow = Pick<

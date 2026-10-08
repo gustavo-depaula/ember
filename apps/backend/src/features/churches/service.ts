@@ -11,13 +11,15 @@ import {
   viewportPrefixes,
 } from '../../lib/geo'
 import {
+  type CellCount,
   cellCounts,
   churchById,
   churchesByIds,
+  churchesInCells,
   churchesInGeohashRanges,
   churchesInViewport,
   churchIdsMatchingText,
-  countInViewport,
+  storedCellCounts,
   type ViewportFilter,
 } from './queries'
 
@@ -75,6 +77,44 @@ export type Viewport = { churches: Church[]; clusters: Cluster[] }
 const byDistanceFrom = (lat: number, lng: number) => (a: Church, b: Church) =>
   haversineKm(lat, lng, a.lat, a.lng) - haversineKm(lat, lng, b.lat, b.lng)
 
+// `church_cell` holds cells of these lengths, counted for every church or per service kind.
+const storedPrecision = 4
+
+// The box's churches counted by cell. A wide view, filtered by nothing the stored counts don't
+// know, reads them; a closer or narrower one counts the churches themselves.
+async function cellsInView(
+  db: Db,
+  q: { bbox: Bbox; kind?: string; rite?: string; status?: string; institute?: string },
+  filter: ViewportFilter,
+): Promise<CellCount[]> {
+  const precision = clusterPrecision(q.bbox)
+  if (precision > storedPrecision || q.rite || q.status || q.institute)
+    return cellCounts(db, filter, precision)
+
+  // Coarser ranges keep the statement under D1's parameter cap; they then reach past the box.
+  const inBox = new Set(coveringPrefixes(q.bbox, precision))
+  const ranges = prefixRanges(viewportPrefixes(q.bbox).map((p) => p.slice(0, precision)))
+  const cells = (await storedCellCounts(db, { precision, ranges, kind: q.kind })).filter((c) =>
+    inBox.has(c.cell),
+  )
+
+  const alone = cells.filter((c) => c.count === 1).map((c) => c.cell)
+  const named = new Map<string, { id: string; name: string }>()
+  // Two parameters a range, and D1 allows a statement a hundred.
+  for (let i = 0; i < alone.length; i += 40) {
+    const found = await churchesInCells(db, {
+      ranges: prefixRanges(alone.slice(i, i + 40)),
+      kind: q.kind,
+    })
+    for (const c of found) named.set(c.geohash.slice(0, precision), c)
+  }
+  return cells.map((c) => ({
+    ...c,
+    churchId: named.get(c.cell)?.id,
+    churchName: named.get(c.cell)?.name,
+  }))
+}
+
 // Viewport browse at any zoom. When the box holds no more than `limit` churches, all of them come
 // back, nearest the view center first. Past that, the map gets counted clusters covering the whole
 // box and the list gets the `limit` churches nearest the center — read from the clusters closest to
@@ -95,18 +135,21 @@ export async function viewport(
   const lng = (bbox.minLng + bbox.maxLng) / 2
   const filter: ViewportFilter = { ...q, ranges: prefixRanges(viewportPrefixes(bbox)) }
 
-  if ((await countInViewport(db, filter)) <= limit) {
-    const churches = await churchesInViewport(db, filter)
-    return { churches: churches.sort(byDistanceFrom(lat, lng)), clusters: [] }
+  const fitting = await churchesInViewport(db, filter, limit + 1)
+  if (fitting.length <= limit) {
+    return { churches: fitting.sort(byDistanceFrom(lat, lng)), clusters: [] }
   }
 
-  const cells = await cellCounts(db, filter, clusterPrecision(bbox))
+  const cells = await cellsInView(db, q, filter)
   const clusters = cells.map((c) => ({
     id: c.cell,
     lat: c.lat,
     lng: c.lng,
     count: c.count,
-    church: c.count === 1 ? { id: c.churchId, name: c.churchName } : undefined,
+    church:
+      c.count === 1 && c.churchId && c.churchName
+        ? { id: c.churchId, name: c.churchName }
+        : undefined,
   }))
 
   const nearest: string[] = []

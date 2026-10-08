@@ -20,6 +20,7 @@ export {
   type ChurchText,
   type Correction,
   church,
+  churchCell,
   correction,
   type Service,
   type VerificationEvent,

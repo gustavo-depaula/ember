@@ -1,5 +1,5 @@
 import { type InferSelectModel, sql } from 'drizzle-orm'
-import { index, integer, real, sqliteTable, text } from 'drizzle-orm/sqlite-core'
+import { index, integer, primaryKey, real, sqliteTable, text } from 'drizzle-orm/sqlite-core'
 
 // Source of truth for the Mass-Times directory. Domain types are inferred from these tables
 // (no hand-written `type`s) and migrations are generated from them via drizzle-kit.
@@ -74,6 +74,23 @@ export const church = sqliteTable(
     links: text('links', { mode: 'json' }).$type<ChurchLink[]>(),
   },
   (t) => [index('church_geohash_idx').on(t.geohash)],
+)
+
+// How many churches each geohash cell of length 1-4 holds, kept by triggers on `church` (see the
+// hand-written half of its migration), so a zoomed-out map reads a few dozen rows here instead of
+// counting churches. `kind` is a service kind, or '' for every church; the sums give the cell's
+// centre of mass as lat_sum / count.
+export const churchCell = sqliteTable(
+  'church_cell',
+  {
+    precision: integer('precision').notNull(),
+    cell: text('cell').notNull(),
+    kind: text('kind').notNull(),
+    count: integer('count').notNull(),
+    latSum: real('lat_sum').notNull(),
+    lngSum: real('lng_sum').notNull(),
+  },
+  (t) => [primaryKey({ columns: [t.precision, t.cell, t.kind] })],
 )
 
 export const correction = sqliteTable(

@@ -191,6 +191,50 @@ describe('GET /churches viewport at any zoom', () => {
     expect(body.churches.map((c) => c.id)).toEqual(['g0_0'])
   })
 
+  // `church_cell` against a recount of `church`: cells whose stored total or per-kind total is off.
+  async function staleCells() {
+    const row = await env.DB.prepare(
+      `SELECT count(*) AS n FROM church_cell cc WHERE cc.count != (
+         SELECT count(*) FROM church c
+         WHERE substr(c.geohash, 1, cc.precision) = cc.cell
+           AND (cc.kind = '' OR EXISTS (
+             SELECT 1 FROM json_each(c.services) WHERE json_extract(value, '$.kind') = cc.kind))
+       )`,
+    ).first<{ n: number }>()
+    return row?.n
+  }
+  const total = (body: Viewport) => body.clusters.reduce((sum, c) => sum + c.count, 0)
+
+  it('counts a wide view per service kind', async () => {
+    expect(total(await viewport(`bbox=${gridBox}&limit=9&kind=mass`))).toBe(80)
+  })
+
+  it('keeps its counts true as a church moves, changes what it offers, or goes', async () => {
+    const far = { lat: 45, lng: -74 }
+    await env.DB.prepare('UPDATE church SET lat = ?, lng = ?, geohash = ? WHERE id = ?')
+      .bind(far.lat, far.lng, encodeGeohash(far.lat, far.lng), 'g4_4')
+      .run()
+    expect(total(await viewport(`bbox=${gridBox}&limit=9`))).toBe(80)
+
+    const confession = JSON.stringify([
+      { id: 'c', kind: 'confession', rrule: 'FREQ=WEEKLY;BYDAY=SA', startTime: '16:00' },
+    ])
+    await env.DB.prepare('UPDATE church SET services = ? WHERE id = ?')
+      .bind(confession, 'g1_1')
+      .run()
+    expect(total(await viewport(`bbox=${gridBox}&limit=9&kind=mass`))).toBe(78)
+
+    await env.DB.prepare('DELETE FROM church WHERE id = ?').bind('g2_2').run()
+    expect(total(await viewport(`bbox=${gridBox}&limit=9`))).toBe(79)
+    expect(await staleCells()).toBe(0)
+
+    await env.DB.prepare('DELETE FROM church').run()
+    const left = await env.DB.prepare('SELECT count(*) AS n FROM church_cell').first<{
+      n: number
+    }>()
+    expect(left?.n).toBe(0)
+  })
+
   it('answers a continent-sized box', async () => {
     const body = await viewport('bbox=-130,20,-60,55&limit=9')
     expect(body.clusters.reduce((sum, c) => sum + c.count, 0)).toBe(81)
