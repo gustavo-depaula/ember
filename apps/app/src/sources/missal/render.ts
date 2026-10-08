@@ -97,17 +97,18 @@ function kindOf(block: Block, item: Item): Kind {
   return 'text'
 }
 
-// A V/. or R/. marker is drawn by the renderer; drop it from the text.
-function withoutMark(line: Line): Line {
+function ledByMark(line: Line): boolean {
   const first = line[0]
-  if (
-    first &&
+  return (
+    first !== undefined &&
     typeof first !== 'string' &&
     (responseMark.test(first.t) || versicleMark.test(first.t))
-  ) {
-    return line.slice(1)
-  }
-  return line
+  )
+}
+
+// A V/. or R/. marker is drawn by the renderer; drop it from the text.
+function withoutMark(line: Line): Line {
+  return ledByMark(line) ? line.slice(1) : line
 }
 
 function bodyOf(block: Block, kind: Kind): string {
@@ -154,8 +155,10 @@ function voiceOf(line: Line): Voice {
   return 'text'
 }
 
-// A line that runs the people's words into a rubric is two lines.
+// A line that runs the people's words into a rubric is two lines. A response
+// led by its R/. is one: the mark is the renderer's to draw, not a rubric.
 function splitVoices(line: Line): Line[] {
+  if (ledByMark(line)) return [line]
   if (!line.some((seg) => isMarked(seg, 'people')) || voiceOf(line) === 'people') return [line]
   const lines: Line[] = []
   for (const seg of line) {
