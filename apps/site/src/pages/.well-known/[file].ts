@@ -2,7 +2,7 @@ import type { APIRoute } from 'astro'
 import { appLinkFiles } from '~/lib/appLinks'
 
 // The files iOS and Android fetch to learn that the app may open this site's
-// prayer pages. One is written only when its signing identity is configured.
+// prayer pages.
 export function getStaticPaths() {
   return Object.entries(appLinkFiles()).map(([file, body]) => ({
     params: { file },
