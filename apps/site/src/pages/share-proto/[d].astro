@@ -1,0 +1,122 @@
+---
+import '~/styles/global.css'
+import { getEntry } from '@/content/contentIndex'
+import { getManifest } from '@/content/resolver'
+import { coverFor } from '@/features/covers/coverFor'
+import { toneForKey } from '@/features/explore/bgColor'
+import { localizeContent } from '@/lib/i18n'
+import Cover from '~/components/Cover.astro'
+import Icon from '~/components/Icon.astro'
+import { bootCorpus } from '~/lib/corpus'
+import { withLocale } from '~/lib/locale'
+
+export function getStaticPaths() {
+  return ['a', 'b', 'c'].map((d) => ({ params: { d } }))
+}
+const locale = 'pt-BR'
+await bootCorpus()
+const ids = ['rosary', 'angelus', 'divine-mercy-novena', 'te-deum']
+const cards = withLocale(locale, () =>
+  ids.map((slug) => {
+    const id = `practice/${slug}`
+    const m = getManifest(slug)!
+    const entry = getEntry(id)!
+    const opt = (v: any) => (v ? localizeContent(v) || undefined : undefined)
+    const minutes = m.estimatedMinutes
+    const days = m.program?.totalDays
+    return {
+      slug,
+      id,
+      name: localizeContent(m.name),
+      description: opt(m.description),
+      subtitle: opt(m.subtitle),
+      icon: m.icon,
+      cover: coverFor(entry)!,
+      tone: toneForKey(id),
+      label: [days && days > 1 ? `${days} dias` : 'Oração', minutes && `${minutes} min`].filter(Boolean).join(' · '),
+      caption: opt(m.subtitle) ?? (minutes ? `${minutes} minutos` : 'oração'),
+    }
+  }),
+)
+const { d } = Astro.params
+const size = (n: string, big: number, mid: number, small: number) => (n.length > 24 ? small : n.length > 14 ? mid : big)
+---
+<html lang="pt-BR">
+  <head><meta charset="utf-8" /></head>
+  <body>
+    {cards.map((c) => (
+      <>
+        {(!d || d === "a") && <div class="og a" id={`a-${c.slug}`} style={`--from:${c.tone.from};--to:${c.tone.to}`}>
+          <div class="stamp"><Cover cover={c.cover} id={c.id} title={c.name} locale={locale} /></div>
+          <div class="txt">
+            <div class="lab">{c.label}</div>
+            <div class="ttl" style={`font-size:${size(c.name, 92, 78, 64)}px`}>{c.name}</div>
+            <div class="rule" />
+            {c.description && <div class="desc">{c.description}</div>}
+          </div>
+          <div class="mark">✠ &nbsp;Ember</div>
+        </div>}
+
+        {(!d || d === "b") && <div class="og b" id={`b-${c.slug}`}>
+          <img class="fl" src="/proto/header_flourish_light.png" alt="" />
+          <div class="hr"><i /><span>✠</span><i /></div>
+          <div class="ttl" style={`font-size:${size(c.name, 150, 118, 92)}px`}>{c.name}</div>
+          <div class="cap">{c.caption.toLocaleLowerCase('pt-BR')}</div>
+          <div class="hr low"><i /><Icon name={c.icon} class="ico" /><i /></div>
+          <div class="mark">Ember · Orações</div>
+        </div>}
+
+        {(!d || d === "c") && <div class="og c" id={`c-${c.slug}`} style={`--from:${c.tone.from};--to:${c.tone.to}`}>
+          <div class="lace" />
+          <div class="body">
+            <Icon name={c.icon} class="ghost" />
+            <div class="frame" />
+            <div class="mark">✠ &nbsp;Ember</div>
+            <div class="foot">
+              <div class="lab">{c.label}</div>
+              <div class="ttl" style={`font-size:${size(c.name, 118, 96, 78)}px`}>{c.name}</div>
+            </div>
+          </div>
+        </div>}
+      </>
+    ))}
+  </body>
+</html>
+
+<style is:global>
+  body { margin: 0; background: #777; display: grid; grid-template-columns: 1200px 1200px; gap: 20px; padding: 20px; }
+  .og { width: 1200px; height: 630px; position: relative; overflow: hidden; flex: none; }
+  .og .ttl { font-family: var(--font-title); font-weight: 400; line-height: 1.08; text-wrap: balance; }
+  .og .lab, .og .mark { font-family: var(--font-heading); text-transform: uppercase; letter-spacing: 0.22em; }
+
+  /* A — the feature block: the practice's own stamp on its jewel tone */
+  .a { background: linear-gradient(155deg, var(--from), var(--to)); color: #f5efe2; display: flex; align-items: center; gap: 70px; padding: 0 80px; box-sizing: border-box; }
+  .a::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(255,255,255,.07), transparent 35%, transparent 70%, rgba(0,0,0,.18)); pointer-events: none; }
+  .a .stamp { width: 400px; flex: none; transform: rotate(-3deg); }
+  .a .txt { display: flex; flex-direction: column; gap: 22px; min-width: 0; }
+  .a .lab { font-size: 22px; color: #e8c97a; }
+  .a .rule { width: 90px; height: 2px; background: #e8c97a; opacity: .8; }
+  .a .desc { font-family: var(--font-body); font-size: 31px; line-height: 1.32; opacity: .82; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .a .mark { position: absolute; right: 56px; bottom: 40px; font-size: 20px; color: rgba(245,239,226,.6); }
+
+  /* B — the devocionário title page, as the prayer opens in the app */
+  .b { background: #faf6f0; color: #2c2418; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 90px; box-sizing: border-box; text-align: center; }
+  .b .fl { position: absolute; top: -14px; left: 50%; transform: translateX(-50%); width: 760px; }
+  .b .hr { align-self: stretch; display: flex; align-items: center; gap: 22px; color: #6b1d2a; font-size: 30px; }
+  .b .hr i { flex: 1; height: 1px; background: #cfc4b4; }
+  .b .hr:not(.low) { margin-top: 110px; }
+  .b .ttl { padding: 34px 0 6px; }
+  .b .cap { font-family: var(--font-body); font-style: italic; font-size: 36px; color: #6b5d4f; padding-bottom: 34px; }
+  .b .ico { width: 40px; height: 40px; color: #a8872e; }
+  .b .mark { position: absolute; bottom: 38px; left: 0; right: 0; font-size: 19px; color: #6b1d2a; opacity: .8; }
+
+  /* C — a postage stamp: perforated edge, the icon as a ghost, the name set large */
+  .c { background: #faf6f0; }
+  .c .lace { position: absolute; inset: 0; background: radial-gradient(circle, var(--from) 52%, transparent 56%) 0 0 / 40px 42px; }
+  .c .body { position: absolute; inset: 21px; border-radius: 6px; background: linear-gradient(155deg, var(--from), var(--to)); color: #f5efe2; overflow: hidden; }
+  .c .frame { position: absolute; inset: 26px; border: 1.5px solid rgba(245,239,226,.6); border-radius: 12px; outline: 1px solid rgba(245,239,226,.25); outline-offset: -12px; }
+  .c .ghost { position: absolute; right: -60px; top: 20px; width: 560px; height: 560px; color: #f5efe2; opacity: .09; stroke-width: 1; }
+  .c .mark { position: absolute; left: 76px; top: 70px; font-size: 21px; color: #e8c97a; }
+  .c .foot { position: absolute; left: 76px; right: 76px; bottom: 66px; display: flex; flex-direction: column; gap: 14px; }
+  .c .lab { font-size: 22px; color: #e8c97a; }
+</style>
