@@ -184,7 +184,7 @@ function PracticeReady({
                       alignItems="center"
                       opacity={completion.isCompleting ? 0.6 : 1}
                     >
-                      <Typography fontSize="$3" fontWeight="500" color="$background">
+                      <Typography variant="section-title" color="$background">
                         {completion.isCompleting ? t('office.completing') : t('office.amen')}
                       </Typography>
                     </YStack>
