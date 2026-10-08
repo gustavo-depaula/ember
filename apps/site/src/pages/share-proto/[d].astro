@@ -11,7 +11,7 @@ import { bootCorpus } from '~/lib/corpus'
 import { withLocale } from '~/lib/locale'
 
 export function getStaticPaths() {
-  return ['a', 'b', 'c'].map((d) => ({ params: { d } }))
+  return ['a', 'b', 'c', 'a1', 'a2'].map((d) => ({ params: { d } }))
 }
 const locale = 'pt-BR'
 await bootCorpus()
@@ -57,6 +57,25 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
           <div class="mark">✠ &nbsp;Ember</div>
         </div>}
 
+        {(d === "a1" || d === "a2") && <div class={`og a x ${d}`} id={`${d}-${c.slug}`} style={`--from:${c.tone.from};--to:${c.tone.to}`}>
+          <div class="stamp">
+            {d === "a1" ? <Cover cover={c.cover} id={c.id} title={c.name} locale={locale} /> : c.cover.kind === 'breviary' ? (
+              <div class="cover card page" style={`--from:${c.tone.from};--to:${c.tone.to}`}><div class="scale">
+                <div class="crule" /><div class="v solo">{c.name.trim().charAt(0)}</div><div class="x">✠</div>
+              </div></div>
+            ) : (
+              <div class="cover card practice" style={`--from:${c.tone.from};--to:${c.tone.to}`}><div class="scale">
+                <div class="lace" /><div class="cbody"><div class="inner"><Icon name={c.icon} class="ico solo" /></div></div>
+              </div></div>
+            )}
+          </div>
+          <div class="txt">
+            <div class="lab">{c.label}</div>
+            <div class="ttl" style={`font-size:${size(c.name, 132, 108, 88)}px`}>{c.name}</div>
+          </div>
+          <div class="mark">✠ &nbsp;Ember</div>
+        </div>}
+
         {(!d || d === "b") && <div class="og b" id={`b-${c.slug}`}>
           <img class="fl" src="/proto/header_flourish_light.png" alt="" />
           <div class="hr"><i /><span>✠</span><i /></div>
@@ -98,6 +117,14 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
   .a .rule { width: 90px; height: 2px; background: #e8c97a; opacity: .8; }
   .a .desc { font-family: var(--font-body); font-size: 31px; line-height: 1.32; opacity: .82; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
   .a .mark { position: absolute; right: 56px; bottom: 40px; font-size: 20px; color: rgba(245,239,226,.6); }
+
+  .a.x { gap: 64px; padding: 0 72px; }
+  .a.x .stamp { width: 340px; }
+  .a.x .txt { gap: 18px; }
+  .a.x .ttl { line-height: 1.02; }
+  .a.x .lab { font-size: 24px; }
+  .a2 .ico.solo { width: 44em; height: 44em; stroke-width: 1.25; }
+  .a2 .page .v.solo { left: 0; right: 0; width: 100%; top: 20%; font-size: 62em; }
 
   /* B — the devocionário title page, as the prayer opens in the app */
   .b { background: #faf6f0; color: #2c2418; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 90px; box-sizing: border-box; text-align: center; }
