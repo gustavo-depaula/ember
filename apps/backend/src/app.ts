@@ -22,7 +22,8 @@ const app = new Hono<{ Bindings: Env }>()
   // The reads are public data and the writes are guarded by rate limit and fingerprint, not by
   // origin, so any site may call the API from a browser (the Ember website does).
   .use(cors({ origin: '*', allowHeaders: ['Content-Type', 'X-Client-Id'], maxAge: 86400 }))
-  // Church data changes by the day, not the second: let browsers and the edge hold a read briefly.
+  // Church data changes by the day, not the second: let a browser hold a read briefly. (A map
+  // tile sets its own, longer life.)
   .use(async (c, next) => {
     await next()
     if (c.req.method === 'GET' && c.res.ok && !c.res.headers.has('Cache-Control')) {
