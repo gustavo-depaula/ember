@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -72,6 +63,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Exulto de alegria no Senhor."
        ]
       ],
@@ -91,7 +91,7 @@
       "k": "p",
       "lines": [
        [
-        "A descendência do meu povo será conhecida entre as naçðes, e seus filhos se fixarão no meio dos povos; quem os vir há de reconhecê-los como descendentes abençoados por Deus. Exulto de alegria no Senhor e minh'alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como um noivo com sua coroa, ou uma noiva com suas joias. Assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Senhor Deus fará germinar a justiça e a sua glória diante de todas as naçðes."
+        "A descendência do meu povo será conhecida entre as nações, e seus filhos se fixarão no meio dos povos; quem os vir há de reconhecê-los como descendentes abençoados por Deus. Exulto de alegria no Senhor e minh'alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como um noivo com sua coroa, ou uma noiva com suas joias. Assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Senhor Deus fará germinar a justiça e a sua glória diante de todas as nações."
        ]
       ]
      },
@@ -106,6 +106,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -135,6 +144,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -216,6 +234,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Gioisco pienamente nel Signore."
        ]
       ],
@@ -275,6 +302,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre d'Isaïe"
        ]
       ],
@@ -300,6 +336,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

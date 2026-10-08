@@ -641,62 +641,62 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.4"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 125 (126)",
       "role": "title"
      }
@@ -704,16 +704,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 5)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ]
@@ -1733,30 +1741,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.martyrs.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Iac 1, 12",
       "role": "title"
      },
@@ -1797,7 +1789,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Tg 1, 12",
       "role": "title"
      },
@@ -1835,7 +1831,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "James 1:12",
       "role": "title"
      },
@@ -1857,7 +1857,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "St 1, 12",
       "role": "title"
      },
@@ -1898,7 +1902,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gc 1, 12",
       "role": "title"
      },
@@ -1920,7 +1928,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Iac 1, 12",
       "role": "title"
      },
@@ -1958,7 +1970,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Jak 1, 12",
       "role": "title"
      },
@@ -1999,27 +2015,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.martyrs.gospel.2"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2049,6 +2054,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Não tenhais medo daqueles que matam o corpo."
        ]
       ],
@@ -2074,6 +2088,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2086,6 +2109,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2115,6 +2147,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Non abbiate aura di quelli che uccidono il corpo."
        ]
       ],
@@ -2140,6 +2181,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2152,6 +2202,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2537,6 +2596,20 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -2546,8 +2619,8 @@
  ],
  "title": {
   "la": "Ss. Xysti II, papæ, et sociorum, martyrum",
-  "pt-BR": "São Sisto II, papa, e Companheiros, mártires",
-  "en-US": "Ss. Sixtus II, pope and martyr, and companions martyrs",
+  "pt-BR": "São Sisto II, papa, e companheiros, mártires",
+  "en-US": "Ss. Sixtus II, pope and martyr, and Companions martyrs",
   "es": "San Sixto II, papa, y compañeros, mártires",
   "it": "San Sisto II, papa, e Compagni, martiri",
   "fr": "Saint Sixte II, pape, et ses compagnons, martyrs",

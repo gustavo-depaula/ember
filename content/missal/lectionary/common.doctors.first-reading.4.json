@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -72,6 +63,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "O sábio será repleto do espírito de inteligência."
        ]
       ],
@@ -91,7 +91,7 @@
       "k": "p",
       "lines": [
        [
-        "E se o Senhor, em sua grandeza, quiser ele será repleto do espírito de inteligência. Fará chover as palavras da sua sabedoria, e em sua oração dará graças ao Senhor. Conservará retos o seu conselho e a sua ciência, e aprofundará os segredos divinos. Ensinará publicamente a instrução recebida e se gloriará na Lei da Aliança do Senhor. Muitos louvarão a sus sabedoria, a qual jamais será esquecida. Sua lembrança nunca se apagará, o seu nome vai ser recordado de geração em geração. As nações hão de proclamar a sua sabedoria e a assembléia celebrará o seu louvor."
+        "E se o Senhor, em sua grandeza, quiser ele será repleto do espírito de inteligência. Fará chover as palavras da sua sabedoria, e em sua oração dará graças ao Senhor. Conservará retos o seu conselho e a sua ciência, e aprofundará os segredos divinos. Ensinará publicamente a instrução recebida e se gloriará na Lei da Aliança do Senhor. Muitos louvarão a sus sabedoria, a qual jamais será esquecida. Sua lembrança nunca se apagará, o seu nome vai ser recordado de geração em geração. As nações hão de proclamar a sua sabedoria e a assembleia celebrará o seu louvor."
        ]
       ]
      },
@@ -106,6 +106,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -143,6 +152,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -224,6 +242,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sarà ricolmato di spirito d'intelligenza."
        ]
       ],
@@ -280,6 +307,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de Ben Sirac le Sage"
        ]
       ],
@@ -305,6 +341,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

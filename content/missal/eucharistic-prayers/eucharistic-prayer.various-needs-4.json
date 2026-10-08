@@ -272,7 +272,7 @@
         " quæ est ",
         {
          "m": "rubric",
-         "t": "N. ; vel "
+         "t": "N.; vel "
         },
         "Admensam ergo tuam",
         {
@@ -365,7 +365,7 @@
          "m": "rubric",
          "t": "até "
         },
-        " e parte o Pão para nós ",
+        "e parte o Pão para nós ",
         {
          "m": "rubric",
          "t": "são ditos somente pelo celebrante principal, de braços abertos."
@@ -455,7 +455,7 @@
          "m": "rubric",
          "t": "e "
         },
-        " Olhai com bondade ",
+        "Olhai com bondade ",
         {
          "m": "rubric",
          "t": ", de braços abertos."
@@ -476,7 +476,7 @@
          "m": "rubric",
          "t": "; ou "
         },
-        " Ó Pai, confirmai na unidade",
+        "Ó Pai, confirmai na unidade",
         {
          "m": "rubric",
          "t": "; ou "
@@ -491,7 +491,7 @@
          "m": "rubric",
          "t": "; e "
         },
-        " Concedei também a nós, no fim da nossa peregrinação terrestre ",
+        "Concedei também a nós, no fim da nossa peregrinação terrestre ",
         {
          "m": "rubric",
          "t": "convêm ser confiadas a um dos concelebrantes, que as profere sozinho, de braços abertos."
@@ -547,7 +547,8 @@
       ]
      }
     ]
-   }
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -1715,7 +1716,7 @@
        [
         {
          "m": "rubric",
-         "t": "Sacerdos, manibus extensis, dicit: "
+         "t": "Sacerdos, manibus extensis, dicit:"
         }
        ]
       ]
@@ -1728,7 +1729,7 @@
        [
         {
          "m": "rubric",
-         "t": "O sacerdote, de braços abertos, diz: "
+         "t": "O sacerdote, de braços abertos, diz:"
         }
        ]
       ]
@@ -1780,7 +1781,7 @@
        [
         {
          "m": "rubric",
-         "t": "Le prêtre dit, les mains étendues : "
+         "t": "Le prêtre dit, les mains étendues :"
         }
        ]
       ]
@@ -3055,7 +3056,7 @@
        [
         {
          "m": "rubric",
-         "t": "Postea prosequitur: "
+         "t": "Postea prosequitur:"
         }
        ]
       ]
@@ -3068,7 +3069,7 @@
        [
         {
          "m": "rubric",
-         "t": "Então prossegue: "
+         "t": "Então prossegue:"
         }
        ]
       ]
@@ -3120,7 +3121,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ensuite il continue : "
+         "t": "Ensuite il continue :"
         }
        ]
       ]
@@ -3351,6 +3352,22 @@
       "lines": [
        [
         "il prit la coupe ; de nouveau il rendit grâce, et la donna à ses disciples, en disant :"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "when supper was ended,"
+       ],
+       [
+        "he took the chalice, gave you thanks"
+       ],
+       [
+        "and gave the chalice to his disciples, saying:"
        ]
       ]
      }
@@ -3680,7 +3697,7 @@
        [
         {
          "m": "rubric",
-         "t": "Deinde dicit:  Vel:  Vel: "
+         "t": "Deinde dicit:"
         }
        ]
       ]
@@ -3693,7 +3710,7 @@
        [
         {
          "m": "rubric",
-         "t": "Em seguida, diz:  Ou:  Ou: "
+         "t": "Em seguida, diz:"
         }
        ]
       ]
@@ -3719,7 +3736,7 @@
        [
         {
          "m": "rubric",
-         "t": "Luego dice una de las siguientes fórmulas: "
+         "t": "Luego dice una de las siguientes fórmulas:"
         }
        ]
       ]
@@ -3732,7 +3749,7 @@
        [
         {
          "m": "rubric",
-         "t": "Quindi, il sacerdote canta o dice: Oppure:  Oppure: "
+         "t": "Quindi, il sacerdote canta o dice:"
         }
        ]
       ]
@@ -3745,7 +3762,7 @@
        [
         {
          "m": "rubric",
-         "t": "Puis il introduit une des acclamations suivantes :  Ou bien :  Ou bien : "
+         "t": "Puis il introduit une des acclamations suivantes : Ou bien : Ou bien :"
         }
        ]
       ]
@@ -3908,19 +3925,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -4031,6 +4035,102 @@
     ]
    },
    "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -4173,19 +4273,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -4311,6 +4398,102 @@
     ]
    },
    "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -4453,19 +4636,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -4580,7 +4750,7 @@
        [
         {
          "m": "rubric",
-         "t": "Deinde sacerdos, extensis manibus, dicit: "
+         "t": "Deinde sacerdos, extensis manibus, dicit:"
         }
        ]
       ]
@@ -4593,7 +4763,7 @@
        [
         {
          "m": "rubric",
-         "t": "A seguir o sacerdote, de braços abertos, diz: "
+         "t": "A seguir o sacerdote, de braços abertos, diz:"
         }
        ]
       ]
@@ -5046,7 +5216,7 @@
         " e o nosso Bispo ",
         {
          "m": "rubric",
-         "t": "N.*"
+         "t": "N."
         },
         ","
        ],
@@ -5556,7 +5726,7 @@
          "m": "rubric",
          "t": "[N."
         },
-        "e ",
+        " e ",
         {
          "m": "rubric",
          "t": "N.]"
@@ -5989,7 +6159,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ergue a patena com a hóstia e o cálice, dizendo: "
+         "t": "Ergue a patena com a hóstia e o cálice, dizendo:"
         }
        ]
       ]
@@ -6450,8 +6620,8 @@
  ],
  "title": {
   "la": "PREX EUCHARISTICA QUAE IN MISSIS PRO VARIIS NECESSITATIBUS ADHIBERI POTEST — IV",
-  "pt-BR": "ORAÇÃO EUCARÍSTICA PARA DIVERSAS CIRCUNSTÂNCIAS — IV",
-  "en-US": "Eucharistic Prayer for Masses for Various Needs — IV",
+  "pt-BR": "Oração Eucarística para Diversas Circunstâncias IV",
+  "en-US": "Eucharistic Prayer for Use in Masses for Various Needs IV",
   "es": "Plegaria Eucarística — para Misas por varias necesidades — IV",
   "it": "Preghiera EucarisTica per varie necessità IV",
   "fr": "PRIÈRE EUCHARISTIQUE POUR DES CIRCONSTANCES PARTICULIÈRES — IV"

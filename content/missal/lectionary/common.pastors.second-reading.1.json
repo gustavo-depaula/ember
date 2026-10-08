@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -96,6 +87,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Temos dons diferentes, de acordo com a graça que nos foi dada."
        ]
       ],
@@ -115,7 +115,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: Pela graça que nos foi dada, recomendo a cada um de vós: Ninguém faça de si uma idéia muito elevada, mas tenha de si uma justa estima ditada pela sabedoria, conforme a medida da fé que Deus repartiu a cada um. Como um só corpo temos muitos membros, cada qual com uma função diferente, asim nós, embora muitos, somos em Cristo um só corpo e todos membros uns dos outros. Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé; se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino; se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside presida com solicitude; quem se dedica a obras de misericordia, faça-o com alegria. O amor seja sincero. Detestai o mal, apegai-vos ao bem. Que o amor fraterno vos una aos outros com terna afeição, prevenindo-vos com atenções reciprocas. Sede zelosos ediligentes, fervorosos de espirito, servido sempre ao Senhor, alegres por causa da esperança, fortes nas tribulações, perseverates na oração. Socorrei os santos em suas necessidades, persisti na prática da hospitalidade."
+        "Irmãos: Pela graça que nos foi dada, recomendo a cada um de vós: Ninguém faça de si uma ideia muito elevada, mas tenha de si uma justa estima ditada pela sabedoria, conforme a medida da fé que Deus repartiu a cada um. Como um só corpo temos muitos membros, cada qual com uma função diferente, asim nós, embora muitos, somos em Cristo um só corpo e todos membros uns dos outros. Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé; se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino; se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside presida com solicitude; quem se dedica a obras de misericórdia, faça-o com alegria. O amor seja sincero. Detestai o mal, apegai-vos ao bem. Que o amor fraterno vos una aos outros com terna afeição, prevenindo-vos com atenções reciprocas. Sede zelosos ediligentes, fervorosos de espirito, servido sempre ao Senhor, alegres por causa da esperança, fortes nas tribulações, perseverates na oração. Socorrei os santos em suas necessidades, persisti na prática da hospitalidade."
        ]
       ]
      },
@@ -130,6 +130,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -159,6 +168,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -216,6 +234,15 @@
       "k": "p",
       "lines": [
        [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Abbiamo doni diversi secondo la grazia data a ciascuno di noi."
        ]
       ],
@@ -260,6 +287,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Lettre de saint Paul Apôtre aux Romains"
        ]
       ],
@@ -285,6 +321,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

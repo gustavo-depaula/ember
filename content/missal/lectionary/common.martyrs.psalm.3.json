@@ -3,36 +3,26 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (: 7a)",
+      ],
+      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (R.: 7a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 123(124), 2-3. 4-5. 7b-8 (R.: 7a)",
       "role": "title"
      }
@@ -40,15 +30,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (: 7a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (R.: 7a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 123, 2-3. 4-5. 7b-8 (R.: 7a)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 123 (124)",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (: 7a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (R.: 7a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 124 (123), 2-3. 4-5. 7-8 (R: 7a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 124 (123), 2-3. 4-5. 7-8 (R.: 7a)",
       "role": "title"
      }
     ]
@@ -151,7 +161,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -380,7 +390,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -609,7 +619,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -838,7 +848,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [

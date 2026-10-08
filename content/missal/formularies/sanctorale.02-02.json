@@ -225,7 +225,7 @@
         " cum virtúte véniet, ut illúminetóculos servórum suórum, allelúia. ",
         {
          "m": "rubric",
-         "t": "vel alius cantus aptus. "
+         "t": "vel alius cantus aptus."
         }
        ]
       ]
@@ -306,7 +306,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -374,7 +374,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -393,7 +393,7 @@
        [
         {
          "m": "rubric",
-         "t": "Quo in casu omnes respondent: "
+         "t": "Quo in casu omnes respondent:"
         }
        ]
       ]
@@ -428,7 +428,7 @@
         "Adórna",
         {
          "m": "rubric",
-         "t": " vel alius cantus aptus: "
+         "t": " vel alius cantus aptus:"
         }
        ]
       ]
@@ -671,7 +671,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -680,7 +680,7 @@
       "k": "p",
       "lines": [
        [
-        "Ó Deus, luz verdadeira1"
+        "Ó Deus, luz verdadeira,"
        ],
        [
         "autor e doador da luz eterna,"
@@ -754,7 +754,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -773,7 +773,7 @@
        [
         {
          "m": "rubric",
-         "t": "Neste caso todos respondem: "
+         "t": "Neste caso todos respondem:"
         }
        ]
       ]
@@ -793,7 +793,7 @@
         "7. ",
         {
          "m": "rubric",
-         "t": " Todos levam velas acesas. Durante a procissão, canta-se urna das seguintes antífonas:"
+         "t": "Todos levam velas acesas. Durante a procissão, canta-se uma das seguintes antífonas:"
         },
         " Uma luz que brilhará",
         {
@@ -1110,7 +1110,7 @@
         "in answer to your people's prayers,"
        ],
        [
-        "you may be pleased to sanctify with your blessin ",
+        "you may be pleased to sanctify with your blessing ",
         {
          "m": "cross",
          "t": "✠"
@@ -1146,7 +1146,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1216,7 +1216,7 @@
       "k": "p",
       "lines": [
        [
-        "Procedámus in pace ad occurréndum Dómino."
+        "Let us go in peace to meet the Lord."
        ]
       ]
      },
@@ -1226,7 +1226,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1235,7 +1235,7 @@
       "k": "p",
       "lines": [
        [
-        "Procedámus in pace."
+        "Let us go forth in peace."
        ]
       ]
      },
@@ -1245,7 +1245,7 @@
        [
         {
          "m": "rubric",
-         "t": "In this case, all respond: "
+         "t": "In this case, all respond:"
         }
        ]
       ]
@@ -1254,7 +1254,7 @@
       "k": "p",
       "lines": [
        [
-        "In nómine Christi. Amen."
+        "In the name of Christ. Amen."
        ]
       ]
      },
@@ -1496,14 +1496,24 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amén."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1533,14 +1543,24 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amén."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1731,10 +1751,10 @@
          "m": "rubric",
          "t": "Mentre si accendono le candele si canta l'antifona: "
         },
-        " Ecco, il Signore nostro verrà con potenza, e illuminerà gli occhi dei suoi servi. Alleluia. ",
+        "Ecco, il Signore nostro verrà con potenza, e illuminerà gli occhi dei suoi servi. Alleluia. ",
         {
          "m": "rubric",
-         "t": "o un altro canto adatto. "
+         "t": "o un altro canto adatto."
         }
        ]
       ]
@@ -2251,7 +2271,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -2340,7 +2360,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien : "
+         "t": "Ou bien :"
         }
        ]
       ]
@@ -2379,7 +2399,7 @@
         "7. ",
         {
          "m": "rubric",
-         "t": "ous portent des cierges allumés. Au cours de la procession, on chante l'une ou l'autre des antiennes suivantes, à savoir l'antienne Lumière qui se révèle avec le cantique (Lc 2, 29-32), ou l'antienne Adorna (Orne ta demeure, Sion), ou un autre chant qui convienne: "
+         "t": "ous portent des cierges allumés. Au cours de la procession, on chante l'une ou l'autre des antiennes suivantes, à savoir l'antienne Lumière qui se révèle avec le cantique (Lc 2, 29-32), ou l'antienne Adorna (Orne ta demeure, Sion), ou un autre chant qui convienne:"
         }
        ]
       ]
@@ -2399,52 +2419,110 @@
       "k": "p",
       "lines": [
        [
-        "R/. Lumière qui se révèle aux nations"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lumière qui se révèle aux nations"
        ],
        [
         "et donne gloire à ton peuple Israël."
        ],
        [
         "Cantique de Syméon"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
-        "V/. Maintenant, ô Maître souverain,"
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Maintenant, ô Maître souverain,"
        ],
        [
         "tu peux laisser ton serviteur s'en aller"
        ],
        [
         "en paix, selon ta parole."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
-        "R/. Lumière qui se révèle aux nations"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lumière qui se révèle aux nations"
        ],
        [
         "et donne gloire à ton peuple Israël."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
-        "R/. Car mes yeux ont vu le salut"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Car mes yeux ont vu le salut"
        ],
        [
         "que tu préparais à la face des peuples."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
-        "R/. Lumière qui se révèle aux nations"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lumière qui se révèle aux nations"
        ],
        [
         "et donne gloire à ton peuple Israël."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
-        "R/. Gloire au Père, et au Fils, et au Saint-Esprit,"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire au Père, et au Fils, et au Saint-Esprit,"
        ],
        [
         "au Dieu qui est, qui était et qui vient,"
        ],
        [
         "pour les siècles des siècles. Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
-        "R/. Lumière qui se révèle aux nations"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lumière qui se révèle aux nations"
        ],
        [
         "et donne gloire à ton peuple Israël."
@@ -2936,7 +3014,7 @@
         "8",
         {
          "m": "rubric",
-         "t": " indicantur. "
+         "t": " indicantur."
         }
        ]
       ]
@@ -3494,7 +3572,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -3512,7 +3590,7 @@
         "Glória",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -3596,7 +3674,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -3617,7 +3695,7 @@
         },
         {
          "m": "rubric",
-         "t": "wird gebetet. "
+         "t": "wird gebetet."
         }
        ]
       ]
@@ -3910,7 +3988,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -3928,7 +4006,7 @@
         " Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -3986,7 +4064,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -4234,7 +4312,7 @@
        [
         {
          "m": "rubric",
-         "t": "Præfatio: De mysterio Præsentationis Domini. "
+         "t": "Præfatio: De mysterio Præsentationis Domini."
         }
        ]
       ]
@@ -4309,7 +4387,7 @@
        [
         {
          "m": "rubric",
-         "t": "Prefácio: O mistério da Apresentação do Senhor. "
+         "t": "Prefácio: O mistério da Apresentação do Senhor."
         }
        ]
       ]
@@ -4656,7 +4734,7 @@
        [
         {
          "m": "rubric",
-         "t": "Christus kommt in seinen Tempel "
+         "t": "Christus kommt in seinen Tempel"
         }
        ]
       ]
@@ -5103,8 +5181,8 @@
  ],
  "title": {
   "la": "IN PRÆSENTATIONE DOMINI",
-  "pt-BR": "APRESENTAÇÃO DO SENHOR",
-  "en-US": "THE PRESENTATION OF THE LORD",
+  "pt-BR": "Apresentação do Senhor",
+  "en-US": "The Presentation of the Lord",
   "es": "LA PRESENTACIÓN DEL SEÑOR",
   "it": "PRESENTAZIONE DEL SIGNORE",
   "fr": "PRÉSENTATION DU SEIGNEUR AU TEMPLE",

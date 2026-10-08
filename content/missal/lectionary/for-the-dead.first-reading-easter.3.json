@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -96,6 +87,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Os mortos foram julgados de acordo com sua conduta."
        ]
       ],
@@ -123,13 +123,22 @@
       "k": "p",
       "lines": [
        [
-        "Palavra de Deus."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -146,7 +155,7 @@
         "A reading from the book of the Apocalypse"
        ]
       ],
-      "cite": "20:11- 21:1",
+      "cite": "20:11-21:1",
       "role": "announcement"
      },
      {
@@ -168,6 +177,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -225,6 +243,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de l'Apocalypse de saint Jean"
        ]
       ],
@@ -250,6 +277,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

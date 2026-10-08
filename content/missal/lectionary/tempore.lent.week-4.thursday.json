@@ -259,7 +259,7 @@
       "k": "p",
       "lines": [
        [
-        "The Lord spoke to Moses, 'Go down now, because your people whom you brought out of Egypt have apostasised. They have been quick to leave the way I marked out for them; they have made themselves a calf of molten metal and have worshipped it and offered it sacrifice. \"Here is your God, Israel,\" they have cried \"who brought you up from the land of Egypt!\"' The Lord said to Moses, 'I can see how headstrong these people are! Leave me, now, my wrath shall blaze out against them and devour them; of you, however, I will make a great nation.' But Moses pleaded with the Lord his God. 'Lord,' he said 'why should your wrath blaze out against this people of yours whom you brought out of the land of Egypt with arm outstretched and mighty hand? Why let the Egyptians say, \"Ah, it was in treachery that he brought them out, to do them to death in the mountains and wipe them off the face of the earth\"? Leave your burning wrath; relent and do not bring this disaster on your people. Remember Abraham, Isaac and Jacob, your servants to whom by your own self you swore and made this promise: I will make your offspring as many as the stars of heaven, and all this land which I promised I will give to your descendants, and it shall be their heritage for ever.' So the Lord relented and did not bring on his people the disaster he had threatened."
+        "The Lord spoke to Moses, 'Go down now, because your people whom you brought out of Egypt have apostasised. They have been quick to leave the way I marked out for them; they have made themselves a calf of molten metal and have worshipped it and offered it sacrifice. \"Here is your God, Israel, \" they have cried \"who brought you up from the land of Egypt!\"' The Lord said to Moses, 'I can see how headstrong these people are! Leave me, now, my wrath shall blaze out against them and devour them; of you, however, I will make a great nation.' But Moses pleaded with the Lord his God. 'Lord,' he said 'why should your wrath blaze out against this people of yours whom you brought out of the land of Egypt with arm outstretched and mighty hand? Why let the Egyptians say, \"Ah, it was in treachery that he brought them out, to do them to death in the mountains and wipe them off the face of the earth\"? Leave your burning wrath; relent and do not bring this disaster on your people. Remember Abraham, Isaac and Jacob, your servants to whom by your own self you swore and made this promise: I will make your offspring as many as the stars of heaven, and all this land which I promised I will give to your descendants, and it shall be their heritage for ever.' So the Lord relented and did not bring on his people the disaster he had threatened."
        ]
       ]
      },
@@ -628,7 +628,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 105, 19-20. 21-22. 23 (: 4a)",
+      "cite": "Ps 105, 19-20. 21-22. 23 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -640,7 +640,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 105 (106), 19-20.21-22.23 (: 4a)",
+      "cite": "Sl 105 (106), 19-20.21-22.23 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 105, 19-20. 21-22. 23 (: 4a)",
+      "cite": "Ps 105, 19-20. 21-22. 23 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -664,7 +664,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 105, 19-20. 21-22. 23 (: 4a)",
+      "cite": "Sal 105, 19-20. 21-22. 23 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -688,7 +688,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 105, 19-20. 21-22. 23 (: 4a)",
+      "cite": "Ps 105, 19-20. 21-22. 23 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -700,7 +700,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 106 (105), 19-20. 21-22. 23-24 (R: vgl. 4a)",
+      "cite": "Ps 106 (105), 19-20. 21-22. 23-24 (R.: vgl. 4a)",
       "role": "title"
      }
     ]
@@ -1449,7 +1449,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Lembrai-vos de nós, ó Senhor, segundo o amor para com vosso povo!."
+        "Lembrai-vos de nós, ó Senhor, segundo o amor para com vosso povo!"
        ]
       ]
      }
@@ -2375,8 +2375,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada IV — Feria quinta",
-  "pt-BR": "Tempo da Quaresma — Quinta-feira da 4ª Semana da Quaresma",
-  "en-US": "Season of Lent — 4th Week: Thursday",
+  "pt-BR": "Quinta-feira da 4ª Semana da Quaresma",
+  "en-US": "Thursday of the Fourth Week of Lent",
   "es": "Tiempo de Cuaresma — Jueves de la IV Semana",
   "it": "GIOVEDI DELLA IV SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 4e semaine — Jeudi",

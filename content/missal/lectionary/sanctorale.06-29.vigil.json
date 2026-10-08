@@ -719,7 +719,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -743,7 +743,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -779,7 +779,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -791,7 +791,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18), 2-3. 4-5b (R: 5a)",
+      "cite": "Ps 19 (18), 2-3. 4-5b (R.: 5a)",
       "role": "title"
      }
     ]
@@ -1054,7 +1054,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Seu som ressoa e se espalha em toda terra.."
+        "Seu som ressoa e se espalha em toda terra."
        ]
       ]
      }
@@ -1288,7 +1288,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Seu som ressoa e se espalha em toda terra.."
+        "Seu som ressoa e se espalha em toda terra."
        ]
       ]
      }
@@ -1454,7 +1454,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Carta São Paulo aos Gálatas"
+        "Leitura da Carta de São Paulo aos Gálatas"
        ]
       ],
       "cite": "1, 11-20",
@@ -1492,7 +1492,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the letter of St. Paul to the Galatians"
+        "A reading from the Letter of Saint Paul to the Galatians"
        ]
       ],
       "cite": "1:11-20",
@@ -2775,8 +2775,8 @@
  ],
  "title": {
   "la": "SS. PETRI ET PAULI, APOSTOLORUM",
-  "pt-BR": "SÃO PEDRO E SÃO PAULO, APÓSTOLOS",
-  "en-US": "SS. PETER AND PAUL, APOSTLES",
+  "pt-BR": "Santos Pedro e Paulo, Apóstolos",
+  "en-US": "Saints Peter and Paul, Apostles",
   "es": "SAN PEDRO Y SAN PABLO, APÓSTOLES",
   "it": "SANTI PIETRO E PAOLO",
   "fr": "SAINTS PIERRE ET PAUL, APÔTRES",

@@ -17,25 +17,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "12"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -65,6 +56,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Apascenta os meus cordeiros, apascenta as minhas ovelhas."
        ]
       ],
@@ -90,6 +90,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -102,6 +111,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -131,6 +149,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Pasci i miei agnelli, pasci le mie pecore."
        ]
       ],
@@ -156,6 +183,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -168,6 +204,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

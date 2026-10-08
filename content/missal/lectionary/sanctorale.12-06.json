@@ -210,7 +210,7 @@
       "k": "p",
       "lines": [
        [
-        "No ano da morte do rei Ozias, vi o Senhor sentado num trono de grande altura; o seu manto estendia-se pelo templo. Havia serafins de pé a seu lado; cada um tinha seis asas, duas cobriam-lhes o rosto,duas, os pés e, com duas, eles podiam voar. Eles exclamavam uns para os outros: \"Santo, santo, santo é o Senhor dos exércitos; toda a terra está repleta de sua glória\". Ao clamor dessas vozes, começaram a tremer as portas em seus gonzos e o templo encheu-se de fumaça. Disse eu então: \"Ai de mim, estou perdido! Sou apenas um homem de lábios impuros, mas eu vi com meus olhos o rei, o Senhor dos exércitos\". Nisto, um dos serafins voou para mim, tendo na mão uma brasa, que retirara do altar com uma tenaz, e tocou minha boca, dizendo: \"Assim que isto tocou teus lábios, desapareceu tua culpa, e teu pecado está perdoado\". Ouvi a voz do Senhor que dizia: \"Quem enviarei? Quem irá por nós?\" Eu respondi: \"Aqui estou! Envia-me\"."
+        "No ano da morte do rei Ozias, vi o Senhor sentado num trono de grande altura; o seu manto estendia-se pelo templo. Havia serafins de pé a seu lado; cada um tinha seis asas, duas cobriam-lhes o rosto, duas, os pés e, com duas, eles podiam voar. Eles exclamavam uns para os outros: \"Santo, santo, santo é o Senhor dos exércitos; toda a terra está repleta de sua glória\". Ao clamor dessas vozes, começaram a tremer as portas em seus gonzos e o templo encheu-se de fumaça. Disse eu então: \"Ai de mim, estou perdido! Sou apenas um homem de lábios impuros, mas eu vi com meus olhos o rei, o Senhor dos exércitos\". Nisto, um dos serafins voou para mim, tendo na mão uma brasa, que retirara do altar com uma tenaz, e tocou minha boca, dizendo: \"Assim que isto tocou teus lábios, desapareceu tua culpa, e teu pecado está perdoado\". Ouvi a voz do Senhor que dizia: \"Quem enviarei? Quem irá por nós?\" Eu respondi: \"Aqui estou! Envia-me\"."
        ]
       ]
      },
@@ -619,54 +619,50 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.3"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 39(40), 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 39(40), 2 e 4ab. 7. 8-9. 10 (R.: 8a e 9a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 39, 2 and 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a and 9a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
       "role": "title"
      }
@@ -674,7 +670,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 39 (40)",
       "role": "title"
      }
@@ -682,16 +682,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: vgl. 8a. 9a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R.: vgl. 8a. 9a)",
       "role": "title"
      }
     ]
@@ -1499,7 +1507,7 @@
       "k": "p",
       "lines": [
        [
-        "Boas-novas de vossa justiça anunciei numa grande assembléia; vós sabeis: não fechei os meus lábios!"
+        "Boas-novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!"
        ]
       ]
      }
@@ -1693,30 +1701,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.pastors.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1757,7 +1749,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1795,7 +1791,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Lk 4:18",
       "role": "title"
      },
@@ -1817,7 +1817,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1858,7 +1862,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Lc 4, 18cd",
       "role": "title"
      },
@@ -1880,7 +1888,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1918,7 +1930,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Lk 4, 18",
       "role": "title"
      },
@@ -2574,7 +2590,7 @@
  "title": {
   "la": "S. Nicolai, episcopi",
   "pt-BR": "São Nicolau, bispo",
-  "en-US": "St. Nicholas, bishop",
+  "en-US": "Saint Nicholas, bishop",
   "es": "San Nicolás, obispo",
   "it": "San Nicola, vescovo.",
   "fr": "Saint Nicolas, évêque",

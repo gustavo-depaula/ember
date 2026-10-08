@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -272,7 +272,7 @@
         "Leitura do Livro do Eclesiástico"
        ]
       ],
-      "cite": "17, 20- 28",
+      "cite": "17, 20-28",
       "role": "announcement"
      },
      {
@@ -704,7 +704,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 31, 1-2. 5. 6. 7 (: 11a)",
+      "cite": "Ps 31, 1-2. 5. 6. 7 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -716,7 +716,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 31 (32), 1-2.5.6.7 (: 11a)",
+      "cite": "Sl 31 (32), 1-2.5.6.7 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -728,7 +728,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 31, 1-2. 5. 6. 7 (: 11a)",
+      "cite": "Ps 31, 1-2. 5. 6. 7 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -740,7 +740,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 31, 1-2. 5. 6. 7 (: 11a)",
+      "cite": "Sal 31, 1-2. 5. 6. 7 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -764,7 +764,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 31, 1-2. 5. 6. 7 (: 11a)",
+      "cite": "Ps 31, 1-2. 5. 6. 7 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -776,7 +776,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 32 (31), 1-2. 5. 6-7 (R: vgl. 11a)",
+      "cite": "Ps 32 (31), 1-2. 5. 6-7 (R.: vgl. 11a)",
       "role": "title"
      }
     ]
@@ -2322,7 +2322,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 110, 1-2. 5-6. 9 et 10c (: 5b)",
+      "cite": "Ps 110, 1-2. 5-6. 9 et 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2334,7 +2334,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 110 (111), 1-2.5-6.9 e 10c (: 5b)",
+      "cite": "Sl 110 (111), 1-2.5-6.9 e 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2346,7 +2346,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 110, 1-2. 5-6. 9 et 10c (: 5b)",
+      "cite": "Ps 110, 1-2. 5-6. 9 and 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2358,7 +2358,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 110, 1-2. 5-6. 9 et 10c (: 5b)",
+      "cite": "Sal 110, 1-2. 5-6. 9 et 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2382,7 +2382,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 110, 1-2. 5-6. 9 et 10c (: 5b)",
+      "cite": "Ps 110, 1-2. 5-6. 9 et 10c (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2394,7 +2394,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 111 (110), 1-2. 5-6. 9 u. 10c (R: Ps 105 [104], 7a. 8a)",
+      "cite": "Ps 111 (110), 1-2. 5-6. 9 u. 10c (R.: Ps 105 [104], 7a. 8a)",
       "role": "title"
      }
     ]
@@ -4113,7 +4113,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. VIII",
   "pt-BR": "Segunda-feira da 8ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 8th Week: Monday",
+  "en-US": "Monday of the Eighth Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 8ª semana",
   "it": "LUNEDI della VIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 8e semaine",

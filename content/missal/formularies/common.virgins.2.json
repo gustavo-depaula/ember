@@ -238,7 +238,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -307,7 +307,7 @@
         "Alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -335,7 +335,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -386,7 +386,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -451,7 +451,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -536,7 +536,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -783,7 +783,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel, pro virgine fundatrice: "
+         "t": "Vel, pro virgine fundatrice:"
         }
        ]
       ]
@@ -835,7 +835,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure, per una vergine fondatrice: "
+         "t": "Oppure, per una vergine fondatrice:"
         }
        ]
       ]
@@ -848,7 +848,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou pour une fondatrice : "
+         "t": "Ou pour une fondatrice :"
         }
        ]
       ]
@@ -1126,7 +1126,7 @@
       "k": "p",
       "lines": [
        [
-        "Fazei-nos, ó Pai, alcançar os frutos dos dons que vos consagramos, e, a exemplo de santa",
+        "Fazei-nos, ó Pai, alcançar os frutos dos dons que vos consagramos, e, a exemplo de santa ",
         {
          "m": "rubric",
          "t": "N."
@@ -1189,7 +1189,7 @@
       "k": "p",
       "lines": [
        [
-        "L'offerta di questo sacrificio, o Signore, ci liberi dall'antica schiavitù del peccato, perché, sull'esempio di santa",
+        "L'offerta di questo sacrificio, o Signore, ci liberi dall'antica schiavitù del peccato, perché, sull'esempio di santa ",
         {
          "m": "rubric",
          "t": "N. "
@@ -1421,7 +1421,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1512,7 +1512,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1638,7 +1638,7 @@
       "k": "p",
       "lines": [
        [
-        "Ó Pai, que a comunhão do Corpo e Sangue do vosso Filho nos desprenda das coisas perecíveis para que, a exemplo de santa",
+        "Ó Pai, que a comunhão do Corpo e Sangue do vosso Filho nos desprenda das coisas perecíveis para que, a exemplo de santa ",
         {
          "m": "rubric",
          "t": "N."
@@ -1774,8 +1774,8 @@
  ],
  "title": {
   "la": "COMMUNE VIRGINUM",
-  "pt-BR": "COMUM DAS VIRGENS",
-  "en-US": "COMMON OF VIRGINS",
+  "pt-BR": "Comum das Virgens",
+  "en-US": "Common of Virgins",
   "es": "COMÚN DE VÍRGENES",
   "it": "COMUNE DELLE VERGINI",
   "fr": "COMMUN DES VIERGES",

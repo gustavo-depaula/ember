@@ -758,7 +758,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 1 et 9. 10-11. 12-13ab (: 8)",
+      "cite": "Ps 144, 1 et 9. 10-11. 12-13ab (R.: 8)",
       "role": "title"
      }
     ],
@@ -770,7 +770,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 1 e 9.10-11.12-13ab (: 8)",
+      "cite": "Sl 144 (145), 1 e 9.10-11.12-13ab (R.: 8)",
       "role": "title"
      }
     ],
@@ -782,7 +782,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 144, 1 et 9. 10-11. 12-13ab (: 8)",
+      "cite": "Ps 144, 1 and 9. 10-11. 12-13ab (R.: 8)",
       "role": "title"
      }
     ],
@@ -794,7 +794,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 1 et 9. 10-11. 12-13ab (: 8)",
+      "cite": "Sal 144, 1 et 9. 10-11. 12-13ab (R.: 8)",
       "role": "title"
      }
     ],
@@ -818,7 +818,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 1 et 9. 10-11. 12-13ab (: 8)",
+      "cite": "Ps 144, 1 et 9. 10-11. 12-13ab (R.: 8)",
       "role": "title"
      }
     ],
@@ -830,7 +830,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 1 u. 9. 10-11. 12-13b (R: vgl. 8)",
+      "cite": "Ps 145 (144), 1 u. 9. 10-11. 12-13b (R.: vgl. 8)",
       "role": "title"
      }
     ]
@@ -2509,8 +2509,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada II — Feria quinta",
-  "pt-BR": "Quinta-feira",
-  "en-US": "Advent Season — 2nd Week: Thursday",
+  "pt-BR": "Quinta-feira da 2ª Semana do Advento",
+  "en-US": "Thursday of the Second Week of Advent",
   "es": "Tiempo de Adviento — Jueves de la II Semana",
   "it": "GIOVEDI della II settimana di Avvento",
   "fr": "Temps de l'Avent — 2e semaine — Jeudi",

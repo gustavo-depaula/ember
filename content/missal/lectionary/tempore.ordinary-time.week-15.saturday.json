@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -628,7 +628,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 135, 1. 23. 24. 10. 11. 12. 13. 14. 15 (: 1b)",
+      "cite": "Ps 135, 1. 23. 24. 10. 11. 12. 13. 14. 15 (R.: 1b)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 135, 1. 23. 24. 10. 11. 12. 13. 14. 15 (: 1b)",
+      "cite": "Ps 135, 1. 23. 24. 10. 11. 12. 13. 14. 15 (R.: 1b)",
       "role": "title"
      }
     ],
@@ -664,7 +664,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 135, 1. 23. 24. 10. 11. 12. 13. 14. 15 (: 1b)",
+      "cite": "Sal 135, 1. 23. 24. 10. 11. 12. 13. 14. 15 (R.: 1b)",
       "role": "title"
      }
     ],
@@ -688,7 +688,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 135, 1. 23. 24. 10. 11. 12. 13. 14. 15 (: 1b)",
+      "cite": "Ps 135, 1. 23. 24. 10. 11. 12. 13. 14. 15 (R.: 1b)",
       "role": "title"
      }
     ],
@@ -700,7 +700,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 136 (135), 1 u. 23-24. 10-12. 13-15 (R: 1b)",
+      "cite": "Ps 136 (135), 1 u. 23-24. 10-12. 13-15 (R.: 1b)",
       "role": "title"
      }
     ]
@@ -1391,7 +1391,7 @@
       "k": "p",
       "lines": [
        [
-        "Ele feriu os primogênitos do Egito.Porque eterno é seu amor!"
+        "Ele feriu os primogênitos do Egito. Porque eterno é seu amor!"
        ]
       ]
      }
@@ -2131,7 +2131,7 @@
       "k": "p",
       "lines": [
        [
-        "Fez passar no meio dele Israel. Porque terno é o seu amor!"
+        "Fez passar no meio dele Israel. Porque eterno é o seu amor!"
        ]
       ]
      }
@@ -2657,7 +2657,7 @@
       "k": "p",
       "lines": [
        [
-        "Ai dos que tramam a iniqüidade e se ocupam de maldades ainda em seus leitos! Ao amanhecer do dia, executam tudo o que está em poder de suas mãos. Cobiçam campos, e tomam-nos com violência, cobiçam casas, e roubam-nas. Oprimem o dono e sua casa, o proprietário e seus bens. Isto diz o Senhor: \"Eis que tenciono enviar sobre esta geração perversa uma desgraça de onde não livrareis vossos pescoços; não podereis andar de cabeça erguida, porque serão tempos desastrosos. Naquele dia, sereis assunto de uma alegoria, de uma canção triste que diz: \"Fomos inteiramente devastados; a parte de meu povo que passou a outro por ninguém lhe será restituída; os nossos campos são repartidos entre infiéis'. Por isso, não terás na assembléia do Senhor quem meça com cordel as porções consignadas por sorte\"."
+        "Ai dos que tramam a iniquidade e se ocupam de maldades ainda em seus leitos! Ao amanhecer do dia, executam tudo o que está em poder de suas mãos. Cobiçam campos, e tomam-nos com violência, cobiçam casas, e roubam-nas. Oprimem o dono e sua casa, o proprietário e seus bens. Isto diz o Senhor: \"Eis que tenciono enviar sobre esta geração perversa uma desgraça de onde não livrareis vossos pescoços; não podereis andar de cabeça erguida, porque serão tempos desastrosos. Naquele dia, sereis assunto de uma alegoria, de uma canção triste que diz: \"Fomos inteiramente devastados; a parte de meu povo que passou a outro por ninguém lhe será restituída; os nossos campos são repartidos entre infiéis'. Por isso, não terás na assembleia do Senhor quem meça com cordel as porções consignadas por sorte\"."
        ]
       ]
      },
@@ -3166,7 +3166,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 9, 22-23. 24-25. 28-29. 35 (: 33b)",
+      "cite": "Ps 9, 22-23. 24-25. 28-29. 35 (R.: 33b)",
       "role": "title"
      }
     ],
@@ -3214,7 +3214,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 10 (9), 1-2. 3-4. 7-8. 14 (R: 12b)",
+      "cite": "Ps 10 (9), 1-2. 3-4. 7-8. 14 (R.: 12b)",
       "role": "title"
      }
     ]
@@ -3362,7 +3362,7 @@
         "enquanto o pecador se ensoberbece,"
        ],
        [
-        "o pobre sofre e cai no laço do malvado?."
+        "o pobre sofre e cai no laço do malvado?"
        ]
       ]
      }
@@ -5138,7 +5138,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XV",
   "pt-BR": "Sábado da 15ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 15th Week: Saturday",
+  "en-US": "Saturday of the Fifteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 15ª semana",
   "it": "Sabato della XV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 15e semaine",

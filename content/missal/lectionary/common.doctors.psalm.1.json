@@ -3,36 +3,26 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 18(19B), 8. 9. 10. 11 (R.: Jo 6, 63c)",
       "role": "title"
      }
@@ -40,15 +30,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b or Jn 6, 63c)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 18, 8. 9. 10. 11 (R.: Jn 6, 63c)",
       "role": "title"
      }
@@ -56,16 +54,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R: 10b oder vgl. Joh 6, 63b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R.: 10b oder vgl. Joh 6, 63b)",
       "role": "title"
      }
     ]
@@ -131,7 +137,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -171,7 +177,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -393,7 +399,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -433,7 +439,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -655,7 +661,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -695,7 +701,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -917,7 +923,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -957,7 +963,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1182,7 +1188,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -1222,7 +1228,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [

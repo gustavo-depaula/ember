@@ -356,7 +356,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -370,7 +370,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -384,7 +384,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -426,7 +426,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -953,12 +953,12 @@
       "k": "p",
       "lines": [
        [
-        "Padre clementissimo, effondi su queste offerte la tua benedizione, e confermaci nella fede che san",
+        "Padre clementissimo, effondi su queste offerte la tua benedizione, e confermaci nella fede che san ",
         {
          "m": "rubric",
          "t": "N. "
         },
-        " testimoniò versando il suo sangue. Per Cristo nostro Signore."
+        "testimoniò versando il suo sangue. Per Cristo nostro Signore."
        ]
       ]
      }
@@ -1046,7 +1046,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1098,7 +1098,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1498,7 +1498,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1512,7 +1512,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1526,7 +1526,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1567,7 +1567,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1871,8 +1871,8 @@
  ],
  "title": {
   "la": "COMMUNE MARTYRUM",
-  "pt-BR": "COMUM DOS MÁRTIRES",
-  "en-US": "COMMON OF MARTYRS",
+  "pt-BR": "Comum dos Mártires",
+  "en-US": "Common of Martyrs",
   "es": "COMÚN DE MÁRTIRES",
   "it": "COMUNE DEI MARTIRI",
   "fr": "COMMUN DES MARTYRS",

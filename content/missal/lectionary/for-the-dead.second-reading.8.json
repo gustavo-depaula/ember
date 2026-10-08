@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -88,6 +79,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A morte foi absorvida na vitória"
        ]
       ],
@@ -126,6 +126,15 @@
       "k": "p",
       "lines": [
        [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Death is swallowed up in victory"
        ]
       ],
@@ -135,7 +144,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first letter of St Paul to the Corinthians"
+        "A reading from the first Letter of Saint Paul to the Corinthians"
        ]
       ],
       "cite": "15:51-57",
@@ -160,6 +169,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -223,6 +241,15 @@
       "k": "p",
       "lines": [
        [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "La morte è stata ingoiata per la vittoria."
        ]
       ],
@@ -261,6 +288,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Première lettre de saint Paul Apôtre aux Corinthiens"
        ]
       ],
@@ -286,6 +322,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

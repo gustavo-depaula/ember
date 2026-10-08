@@ -699,7 +699,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 2, 7-8. 10-11 (: 8a)",
+      "cite": "Ps 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 2, 7-8.10-11 (: 8a)",
+      "cite": "Sl 2, 7-8.10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 2, 7-8. 10-11 (: 8a)",
+      "cite": "Ps 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 2, 7-8. 10-11 (: 8a)",
+      "cite": "Sal 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -759,7 +759,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 2, 7-8. 10-11 (: 8a)",
+      "cite": "Ps 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -771,7 +771,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 2, 7-8. 10-11 (R: 8a)",
+      "cite": "Ps 2, 7-8. 10-11 (R.: 8a)",
       "role": "title"
      }
     ]
@@ -1925,7 +1925,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo: Ao saber que João tinha sido preso, Jesus voltou para a Galileia. Deixou Nazaré e foi morar em Cafarnaum, que fica às margens do mar da Galileia, no território de Zabulon e Neftali, para se cumprir o que foi dito pelo profeta Isaías: \"Terra de Zabulon, terra de Neftali, caminho do mar, região do outro lado do rio Jordão, Galileia dos pagãos! O povo que vivia nas trevas viu uma grande luz; e para os que viviam na região escura da morte brilhou uma luz\". Daí em diante, Jesus começou a pregar, dizendo: \"Convertei-vos, porque o Reino dos Céus está próximo\". Jesus andava por toda a Galiléia, ensinando em suas sinagogas, pregando o Evangelho do Reino e curando todo tipo de doença e enfermidade do povo. E sua fama espalhou-se por toda a Síria. Levavam-lhe todos os doentes, que sofriam diversas enfermidades e tormentos: endemoninhados, epiléticos e paralíticos. E Jesus os curava. Numerosas multidões o seguiam, vindas da Galileia, da Decápole, de Jerusalém, da Judeia, e da região além do Jordão."
+        "Naquele tempo: Ao saber que João tinha sido preso, Jesus voltou para a Galileia. Deixou Nazaré e foi morar em Cafarnaum, que fica às margens do mar da Galileia, no território de Zabulon e Neftali, para se cumprir o que foi dito pelo profeta Isaías: \"Terra de Zabulon, terra de Neftali, caminho do mar, região do outro lado do rio Jordão, Galileia dos pagãos! O povo que vivia nas trevas viu uma grande luz; e para os que viviam na região escura da morte brilhou uma luz\". Daí em diante, Jesus começou a pregar, dizendo: \"Convertei-vos, porque o Reino dos Céus está próximo\". Jesus andava por toda a Galileia, ensinando em suas sinagogas, pregando o Evangelho do Reino e curando todo tipo de doença e enfermidade do povo. E sua fama espalhou-se por toda a Síria. Levavam-lhe todos os doentes, que sofriam diversas enfermidades e tormentos: endemoninhados, epiléticos e paralíticos. E Jesus os curava. Numerosas multidões o seguiam, vindas da Galileia, da Decápole, de Jerusalém, da Judeia, e da região além do Jordão."
        ]
       ]
      },
@@ -2253,10 +2253,11 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 7 ianuarii — vel — feria secunda post Epiphaniam",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 7 — (or Monday after Epiphany)",
+  "en-US": "January 7, or Monday after Epiphany",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 7 de enero — o bien — lunes después del domingo de Epifanía",
   "it": "7 gennaio",
   "fr": "Temps de Noël",
-  "de": "Wochentage der Weihnachtszeit — 7. Januar"
+  "de": "Wochentage der Weihnachtszeit — 7. Januar",
+  "pt-BR": "7 de janeiro ou segunda-feira depois da Epifania"
  }
 }

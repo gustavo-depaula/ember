@@ -605,7 +605,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 56, 8-9. 10-12 (R/.: 10a)",
+      "cite": "Ps 56, 8-9. 10-12 (R.: 10a)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 56 (57), 8-9.10-12 (R/.: 10a)",
+      "cite": "Sl 56 (57), 8-9.10-12 (R.: 10a)",
       "role": "title"
      }
     ],
@@ -629,7 +629,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 56, 8-9. 10-12 (R.: 10a)"
      }
     ],
     "es": [
@@ -640,7 +641,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 56, 8-9. 10-12 (R/.: 10a)",
+      "cite": "Sal 56, 8-9. 10-12 (R.: 10a)",
       "role": "title"
      }
     ],
@@ -664,7 +665,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 56, 8-9. 10-12 (R/.: 10a)",
+      "cite": "Ps 56, 8-9. 10-12 (R.: 10a)",
       "role": "title"
      }
     ],
@@ -676,7 +677,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 57 (56), 8-9. 10-11 (R: vgl. 10a)",
+      "cite": "Ps 57 (56), 8-9. 10-11 (R.: vgl. 10a)",
       "role": "title"
      }
     ]
@@ -1211,7 +1212,7 @@
         "Elevai-vos, ó Deus sobre os céus,"
        ],
        [
-        "vossa glória refulja na terra!."
+        "vossa glória refulja na terra!"
        ]
       ]
      }
@@ -1554,7 +1555,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 15, 15b"
      },
      {
       "k": "p",
@@ -1568,7 +1570,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2320,8 +2322,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada V — Feria VI",
-  "pt-BR": "Tempo da Páscoa — 5ª Semana — Sexta-feira",
-  "en-US": "Easter Season — Fifth Week — Friday",
+  "pt-BR": "Sexta-feira da 5ª Semana da Páscoa",
+  "en-US": "Friday of the Fifth Week of Easter",
   "es": "Tiempo de Pascua — Semana V — Viernes",
   "it": "VENERDI della V settimana di Pasqua",
   "fr": "Temps pascal — 5e semaine — Vendredi",

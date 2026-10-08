@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -88,6 +79,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "O Altíssimono mora em casa feita por mâos humanas."
        ]
       ],
@@ -97,7 +97,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura dos Actos dos Apóstolos"
+        "Leitura dos Atos dos Apóstolos"
        ]
       ],
       "cite": "7, 44-50",
@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, Estêvão disse ao povo, aos anciãos e aos mestres da lei: \"Nossos antepassados no deserto tinham a Tenda do testemunho. Deus falando com Moises, mandou que a construisse conforme o modelo que tinha visto. Nossos pais receberam a Tenda e sob a direção de Josué, e levaram para a terra daquelas nações que Deus expulsou diante de nosos pais. E a Tenda ficou ali até o templo de Davi. Mas Davi encontro graça diante de Deus e lhe pediu permissão para construir uma casa para o Deus de Jacó. No entanto, foi Salomão quem construiu a casa. Mas o Altissimo não mora em casa feita por mãos humanas, conforme diz o profeta: 'O céu é o meu trono e a terra é o estrado de meus pés. Que casa construireis para mim? diz o Senhor. E qual será o lugar do meu descanso? Não foi minha mão que fez todas assas coisas?'\""
+        "Naqueles dias, Estêvão disse ao povo, aos anciãos e aos mestres da lei: \"Nossos antepassados no deserto tinham a Tenda do testemunho. Deus falando com Moises, mandou que a construisse conforme o modelo que tinha visto. Nossos pais receberam a Tenda e sob a direção de Josué, e levaram para a terra daquelas nações que Deus expulsou diante de nossos pais. E a Tenda ficou ali até o templo de Davi. Mas Davi encontro graça diante de Deus e lhe pediu permissão para construir uma casa para o Deus de Jacó. No entanto, foi Salomão quem construiu a casa. Mas o Altíssimo não mora em casa feita por mãos humanas, conforme diz o profeta: 'O céu é o meu trono e a terra é o estrado de meus pés. Que casa construireis para mim? diz o Senhor. E qual será o lugar do meu descanso? Não foi minha mão que fez todas essas coisas?'\""
        ]
       ]
      },
@@ -122,6 +122,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -151,6 +160,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -198,6 +216,15 @@
      }
     ],
     "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -258,6 +285,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre des Actes des Apôtres"
        ]
       ],
@@ -283,6 +319,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

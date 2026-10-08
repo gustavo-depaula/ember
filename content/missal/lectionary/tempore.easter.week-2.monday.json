@@ -640,7 +640,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 2, 1-3. 4-6. 7-9"
      }
     ],
     "es": [
@@ -687,7 +688,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 2, 1-3. 4-6. 7-9 (R: vgl. 12d)",
+      "cite": "Ps 2, 1-3. 4-6. 7-9 (R.: vgl. 12d)",
       "role": "title"
      }
     ]
@@ -733,7 +734,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1082,7 +1083,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1416,7 +1417,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1774,7 +1775,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -2459,7 +2460,7 @@
       "k": "p",
       "lines": [
        [
-        "Havia um chefe judaico, membro do grupo dos fariseus, chamado Nicodemos,que foi ter com Jesus, de noite, e lhe disse: \"Rabi, sabemos que vieste como mestre da parte de Deus. De fato, ninguém pode realizar os sinais que tu fazes, a não ser que Deus esteja com ele\". Jesus respondeu: \"Em verdade, em verdade te digo, se alguém não nasce do alto, não pode ver o Reino de Deus\". Nicodemos disse: \"Como é que alguém pode nascer, se já é velho? Poderá entrar outra vez no ventre de sua mãe?\" Jesus respondeu: \"Em verdade, em verdade te digo, se alguém não nasce da água e do Espírito, não pode entrar no Reino de Deus\". Quem nasce da carne é carne; quem nasce do Espírito é Espírito. Não te admires por eu haver dito: Vós deveis nascer do alto. O vento sopra onde quer e tu podes ouvir o seu ruído, mas não sabes de onde vem, nem para onde vai. Assim acontece a todo aquele que nasceu do Espírito\"."
+        "Havia um chefe judaico, membro do grupo dos fariseus, chamado Nicodemos, que foi ter com Jesus, de noite, e lhe disse: \"Rabi, sabemos que vieste como mestre da parte de Deus. De fato, ninguém pode realizar os sinais que tu fazes, a não ser que Deus esteja com ele\". Jesus respondeu: \"Em verdade, em verdade te digo, se alguém não nasce do alto, não pode ver o Reino de Deus\". Nicodemos disse: \"Como é que alguém pode nascer, se já é velho? Poderá entrar outra vez no ventre de sua mãe?\" Jesus respondeu: \"Em verdade, em verdade te digo, se alguém não nasce da água e do Espírito, não pode entrar no Reino de Deus\". Quem nasce da carne é carne; quem nasce do Espírito é Espírito. Não te admires por eu haver dito: Vós deveis nascer do alto. O vento sopra onde quer e tu podes ouvir o seu ruído, mas não sabes de onde vem, nem para onde vai. Assim acontece a todo aquele que nasceu do Espírito\"."
        ]
       ]
      },
@@ -2711,8 +2712,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada II — Feria II",
-  "pt-BR": "Tempo da Páscoa — 2ªSemana — Segunda-feira",
-  "en-US": "Easter Season — Second Week — Monday",
+  "pt-BR": "Segunda-feira da 2ª Semana da Páscoa",
+  "en-US": "Monday of the Second Week of Easter",
   "es": "Tiempo de Pascua — Semana II — Lunes",
   "it": "LUNEDI della II settimana di Pasqua",
   "fr": "Temps pascal — 2e semaine — Lundi",

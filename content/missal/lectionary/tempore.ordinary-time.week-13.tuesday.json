@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -224,7 +224,7 @@
       "k": "p",
       "lines": [
        [
-        "Dixítque Lot ad eos: «Non, quæso, Dómine. Ecce invénit servus tuus grátiam coram te, et magnificásti misericórdiam tuam, quam fecísti mecum, ut salváres ánimam meam; nec possum in monte salvári, ne forte apprehéndat me malum et móriar. Ecce, cívitas hæc iuxta, ad quam possum fúgere, parva, et salvábor in ea — ​numquid non módica est? — ​et vivet ánima mea»."
+        "Dixítque Lot ad eos: «Non, quæso, Dómine. Ecce invénit servus tuus grátiam coram te, et magnificásti misericórdiam tuam, quam fecísti mecum, ut salváres ánimam meam; nec possum in monte salvári, ne forte apprehéndat me malum et móriar. Ecce, cívitas hæc iuxta, ad quam possum fúgere, parva, et salvábor in ea — numquid non módica est? — et vivet ánima mea»."
        ]
       ]
      },
@@ -303,7 +303,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -729,7 +729,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 25, 2-3. 9-10. 11-12 (: 3a)",
+      "cite": "Ps 25, 2-3. 9-10. 11-12 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -741,7 +741,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 25 (26), 2-3.9-10.11-12 (: 3a)",
+      "cite": "Sl 25 (26), 2-3.9-10.11-12 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -753,7 +753,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 25, 2-3. 9-10. 11-12 (: 3a)",
+      "cite": "Ps 25, 2-3. 9-10. 11-12 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -765,7 +765,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 25, 2-3. 9-10. 11-12 (: 3a)",
+      "cite": "Sal 25, 2-3. 9-10. 11-12 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -789,7 +789,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 25, 2-3. 9-10. 11-12 (: 3a)",
+      "cite": "Ps 25, 2-3. 9-10. 11-12 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -801,7 +801,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 26 (25), 2-3. 9-10. 11-12 (R: vgl. 3a)",
+      "cite": "Ps 26 (25), 2-3. 9-10. 11-12 (R.: vgl. 3a)",
       "role": "title"
      }
     ]
@@ -2359,7 +2359,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 5, 5-6.7.8 (: 9a)",
+      "cite": "Ps 5, 5-6.7.8 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -2371,7 +2371,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 5, 5-6.7.8 (: 9a)",
+      "cite": "Sl 5, 5-6.7.8 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -2383,7 +2383,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 5, 5-6. 7. 8 (: 9a)",
+      "cite": "Ps 5, 5-6. 7. 8 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -2395,7 +2395,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 5, 5-6.7.8 (: 9a)",
+      "cite": "Sal 5, 5-6.7.8 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -2419,7 +2419,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 5, 5-6.7.8 (: 9a)",
+      "cite": "Ps 5, 5-6.7.8 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -2431,7 +2431,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 5, 5-6. 7-8a. 8b u. 9ac (R: 9a)",
+      "cite": "Ps 5, 5-6. 7-8a. 8b u. 9ac (R.: 9a)",
       "role": "title"
      }
     ]
@@ -3264,7 +3264,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Ps 129, 5",
+      "cite": "Sl 129, 5",
       "role": "title"
      },
      {
@@ -4052,7 +4052,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XIII",
   "pt-BR": "Terça-feira da 13ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 13th Week: Tuesday",
+  "en-US": "Tuesday of the Thirteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 13ª semana",
   "it": "MARTEDI della XIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 13e semaine",

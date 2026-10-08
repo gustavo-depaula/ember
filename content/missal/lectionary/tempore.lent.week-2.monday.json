@@ -225,7 +225,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Daniel"
+        "A reading from the Book of the Prophet Daniel"
        ]
       ],
       "cite": "9:4-10",
@@ -545,7 +545,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 78, 8. 9. 11. 13 (: 102, 10a)",
+      "cite": "Ps 78, 8. 9. 11. 13 (R.: 102, 10a)",
       "role": "title"
      }
     ],
@@ -557,7 +557,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 78 (79), 8.9.11.13 (: 102, 10a",
+      "cite": "Sl 78 (79), 8.9.11.13 (R.: 102, 10a",
       "role": "title"
      }
     ],
@@ -569,7 +569,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 78, 8. 9. 11. 13 (: 102, 10a)",
+      "cite": "Ps 78, 8. 9. 11. 13 (R.: 102, 10a)",
       "role": "title"
      }
     ],
@@ -581,7 +581,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 78, 8. 9. 11. 13 (: 102, 10a)",
+      "cite": "Sal 78, 8. 9. 11. 13 (R.: 102, 10a)",
       "role": "title"
      }
     ],
@@ -605,7 +605,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 78, 8. 9. 11. 13 (: 102, 10a)",
+      "cite": "Ps 78, 8. 9. 11. 13 (R.: 102, 10a)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 79 (78), 5 u. 8. 9. 11 u. 13 (R: vgl. Ps 103 [102], 10a)",
+      "cite": "Ps 79 (78), 5 u. 8. 9. 11 u. 13 (R.: vgl. Ps 103 [102], 10a)",
       "role": "title"
      }
     ]
@@ -2340,8 +2340,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada II — Feria secunda",
-  "pt-BR": "Tempo da Quaresma — Segunda-feira da 2ª Semana da Quaresma",
-  "en-US": "Season of Lent — 2nd Week: Monday",
+  "pt-BR": "Segunda-feira da 2ª Semana da Quaresma",
+  "en-US": "Monday of the Second Week of Lent",
   "es": "Tiempo de Cuaresma — Lunes de la II Semana",
   "it": "LUNEDI DELLA II SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 2e semaine — Lundi",

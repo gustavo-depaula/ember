@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -72,6 +63,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Foi-nos dado um filho."
        ]
       ],
@@ -91,7 +91,7 @@
       "k": "p",
       "lines": [
        [
-        "O povo que andava na escuridão, viu uma grande luz; para os que habitavam nas sombras da morte, uma luz resplandeceu. Fizeste crescer a alegria, e aumentaste a felicidade; todos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos. Pois o jugo que oprimia o povo, - a carga sobre os ombros, o orgulho dos fiscais -, tu os abateste como n jornada de Madiã. Botas de tropa de assalto, trajes manchados de sangue tudo será queimado e devorado pelas chamas. Porque nasceu para nós um menino, foi nos dado um filho; ele traz aos ombros a marca da realeza; e o nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Principe da Paz. Grande será o seu reino e a paz não há de ter fim sobre o trono de David e sobre o seu reinado, que ele irá consolidar e cnfirmar em justiça e santidade, a partir de agora e para todo o sempre. O amor zeloso do Senhor dos exércitos há de realizar estas coisas."
+        "O povo que andava na escuridão, viu uma grande luz; para os que habitavam nas sombras da morte, uma luz resplandeceu. Fizeste crescer a alegria, e aumentaste a felicidade; todos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos. Pois o jugo que oprimia o povo, - a carga sobre os ombros, o orgulho dos fiscais -, tu os abateste como n jornada de Madiã. Botas de tropa de assalto, trajes manchados de sangue tudo será queimado e devorado pelas chamas. Porque nasceu para nós um menino, foi nos dado um filho; ele traz aos ombros a marca da realeza; e o nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz. Grande será o seu reino e a paz não há de ter fim sobre o trono de David e sobre o seu reinado, que ele irá consolidar e cnfirmar em justiça e santidade, a partir de agora e para todo o sempre. O amor zeloso do Senhor dos exércitos há de realizar estas coisas."
        ]
       ]
      },
@@ -99,13 +99,22 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -135,6 +144,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -243,6 +261,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Ci è stato dato un figlio."
        ]
       ],
@@ -329,6 +356,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre d'Isaïe"
        ]
       ],
@@ -362,6 +398,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

@@ -609,7 +609,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 71, 1-2. 3-4ab. 7-8. 17 (: cf. 7)",
+      "cite": "Ps 71, 1-2. 3-4ab. 7-8. 17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -621,7 +621,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 71 (72),1 e 2.3-4ab.7-8.17 (: cf. 7)",
+      "cite": "Sl 71 (72),1 e 2.3-4ab.7-8.17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -633,7 +633,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 71, 1-2. 3-4ab. 7-8. 17 (: cf. 7)",
+      "cite": "Ps 71, 1-2. 3-4ab. 7-8. 17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -645,7 +645,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 71, 1-2. 3-4ab. 7-8. 17 (: cf. 7)",
+      "cite": "Sal 71, 1-2. 3-4ab. 7-8. 17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 71, 1-2. 3-4ab. 7-8. 17 (: cf. 7)",
+      "cite": "Ps 71, 1-2. 3-4ab. 7-8. 17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 72 (71), 1-2. 3-4b. 7-8. 17 (R: vgl. 7)",
+      "cite": "Ps 72 (71), 1-2. 3-4b. 7-8. 17 (R.: vgl. 7)",
       "role": "title"
      }
     ]
@@ -2313,7 +2313,7 @@
       "k": "p",
       "lines": [
        [
-        "Livro da origem de Jesus Cristo, filho de Davi, filho de Abraão. Abraão gerou Isaac; Isaac gerou Jacó; Jacó gerou Judá e seus irmãos. Judá gerou Farés e Zara, cuja mãe era Tamar. Farés gerou Esrom; Esrom gerou Aram; Aram gerou Aminadab; Aminadab gerou Naasson; Naasson Gerou Salmon; Salmon gerou Booz, cuja mãe era Raab. Booz gerou Obed, cuja mãe era Rute. Obed gerou Jessé. Jessé gerou o rei Davi. Davi gerou Salomão, daquela que tinha sido a mulher de Urias. Salomão gerou Roboão; Roboão gerou Abias; Abias gerou Asa;Asa gerou Josafá; Josafá gerou Jorão; Jorão gerou Ozias; Ozias gerou Joatão; Joatão gerou Acaz; Acaz gerou Ezequias; Ezequias gerou Manassés; Manassés gerou Amon; Amon gerou Josias. Josias gerou Jeconias e seus irmãos, no tempo do exílio na Babilônia. Depois do exílio na Babilônia, Jeconias gerou Salatiel; Salatiel gerou Zorobabel; Zorobabel gerou Abiud; Abiud gerou Eliaquim; Eliaquim gerou Azor; Azor gerou Sadoc; Sadoc gerou Aquim; Aquim gerou Eliud; Eliud gerou Eleazar; Eleazar gerou Matã; Matã gerou Jacó. Jacó gerou José, o esposo de Maria, da qual nasceu Jesus, que é chamado o Cristo. Assim, as gerações desde Abraão até Davi são quatorze; de Davi até o exílio na Babilônia, quatorze; e do exílio na Babilônia até Cristo, quatorze."
+        "Livro da origem de Jesus Cristo, filho de Davi, filho de Abraão. Abraão gerou Isaac; Isaac gerou Jacó; Jacó gerou Judá e seus irmãos. Judá gerou Farés e Zara, cuja mãe era Tamar. Farés gerou Esrom; Esrom gerou Aram; Aram gerou Aminadab; Aminadab gerou Naasson; Naasson Gerou Salmon; Salmon gerou Booz, cuja mãe era Raab. Booz gerou Obed, cuja mãe era Rute. Obed gerou Jessé. Jessé gerou o rei Davi. Davi gerou Salomão, daquela que tinha sido a mulher de Urias. Salomão gerou Roboão; Roboão gerou Abias; Abias gerou Asa; Asa gerou Josafá; Josafá gerou Jorão; Jorão gerou Ozias; Ozias gerou Joatão; Joatão gerou Acaz; Acaz gerou Ezequias; Ezequias gerou Manassés; Manassés gerou Amon; Amon gerou Josias. Josias gerou Jeconias e seus irmãos, no tempo do exílio na Babilônia. Depois do exílio na Babilônia, Jeconias gerou Salatiel; Salatiel gerou Zorobabel; Zorobabel gerou Abiud; Abiud gerou Eliaquim; Eliaquim gerou Azor; Azor gerou Sadoc; Sadoc gerou Aquim; Aquim gerou Eliud; Eliud gerou Eleazar; Eleazar gerou Matã; Matã gerou Jacó. Jacó gerou José, o esposo de Maria, da qual nasceu Jesus, que é chamado o Cristo. Assim, as gerações desde Abraão até Davi são quatorze; de Davi até o exílio na Babilônia, quatorze; e do exílio na Babilônia até Cristo, quatorze."
        ]
       ]
      },
@@ -2592,8 +2592,8 @@
  ],
  "title": {
   "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 17 decembris",
-  "pt-BR": "DIAS DE SEMANA DO ADVENTO — DE 17 a 24 DE DEZEMBRO — 17 de dezembro",
-  "en-US": "Weekdays of Advent — December 17 to December 24 — 17 December",
+  "pt-BR": "17 de dezembro",
+  "en-US": "December 17",
   "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 17 de diciembre",
   "it": "17 Dicembre",
   "fr": "17 décembre",

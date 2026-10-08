@@ -168,54 +168,50 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.3"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 39(40), 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 39(40), 2 e 4ab. 7. 8-9. 10 (R.: 8a e 9a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 39, 2 and 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a and 9a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
       "role": "title"
      }
@@ -223,7 +219,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 39 (40)",
       "role": "title"
      }
@@ -231,16 +231,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: vgl. 8a. 9a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R.: vgl. 8a. 9a)",
       "role": "title"
      }
     ]
@@ -1048,7 +1056,7 @@
       "k": "p",
       "lines": [
        [
-        "Boas-novas de vossa justiça anunciei numa grande assembléia; vós sabeis: não fechei os meus lábios!"
+        "Boas-novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!"
        ]
       ]
      }
@@ -1242,38 +1250,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.doctors.psalm.2"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 36(37), 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
@@ -1281,15 +1277,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
@@ -1297,7 +1301,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 36 (37)",
       "role": "title"
      }
@@ -1305,16 +1313,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R: vgl. 30a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R.: vgl. 30a)",
       "role": "title"
      }
     ]
@@ -2149,46 +2165,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cdaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.doctors.gospel.1"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2218,6 +2204,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós sois a luz do mundo."
        ]
       ],
@@ -2243,6 +2238,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2255,6 +2259,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2284,6 +2297,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Voi siete la luce del mondo"
        ]
       ],
@@ -2309,6 +2331,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2321,6 +2352,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

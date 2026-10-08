@@ -11,7 +11,7 @@
        [
         {
          "m": "rubric",
-         "t": "(nas dioceses de Brasil)"
+         "t": "(nas dioceses do Brasil)"
         }
        ]
       ]
@@ -61,6 +61,37 @@
       "k": "h4",
       "lines": [
        [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Fl 2, 10-11"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua proclame: Jesus Cristo é o Senhor, para a glória de Deus Pai."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
         "Oração do dia"
        ]
       ]
@@ -76,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ó Deus, que escolhestes Inácio de Azevedo e seus trinta e nove companheiros para regarem com seu sangue as primeiras sementes do Evangelho lançadas na Terra de Santa Cruz, concedei-nos professar constantemente, para vossa maior gloria, a fé que recebemos de nossos antepassados. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo."
+        "Ó Deus, que escolhestes Inácio de Azevedo e seus companheiros para regarem com seu sangue as primeiras sementes do Evangelho lançadas na Terra de Santa Cruz, concedei-nos, para vossa maior glória, professar constantemente a fé que recebemos de nossos antepassados. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
        ]
       ]
      }
@@ -86,6 +117,36 @@
   },
   {
    "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aceitai, ó Deus, as nossas oferendas e fazei que sejamos fortalecidos pelo mesmo sacrifício que sustentou no martírio o Bem-aventurado Inácio de Azevedo e seus companheiros. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
   },
   {
    "text": {
@@ -161,6 +222,67 @@
     ]
    },
    "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Jo 12, 24"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se o grão de trigo que cai na terra não morre, fica só; mas, se morre, produz muito fruto."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, tendo participado, do mistério pascal à mesa da Eucaristia, fazei-nos fiéis ao vosso serviço, a exemplo dos quarenta mártires que deram a sua vida por vós. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
   }
  ],
  "prefaces": [

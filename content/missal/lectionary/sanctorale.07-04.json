@@ -98,81 +98,547 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css2l16"
-        }
+        "Para los que se han consagrado a una actividad caritativa: [Pro iis qui opera\nmisericordiæ exercuerunt]"
        ]
       ]
      }
     ]
    },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.7"
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.16"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et nos debemus pro fratribus animas ponere."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Ioánnis apóstoli"
+       ]
+      ],
+      "cite": "3, 14-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimi:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nos scimus quóniam transívimus de morte in vitam, quóniam dilígimus fratres; qui non díligit, manet in morte. Omnis, qui odit fratrem suum, homicída est, et scitis quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In hoc nóvimus caritátem, quóniam ille pro nobis ánimam suam pósuit; et nos debémus pro frátribus ánimas pónere. Qui habúerit substántiam mundi et víderit fratrem suum necésse habére et cláuserit víscera sua ab eo, quómodo cáritas Dei manet in eo?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Filíoli, non diligámus verbo nec lingua sed in ópere et veritáte."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Também nós devemos dar a vida pelos nossos irmãos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São João"
+       ]
+      ],
+      "cite": "3, 14-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimos: Nós sabemos que passamos da morte para a vida, porque amamos os irmãos. Quem não ama, permanece na morte. Todo aquele que odeia o seu irmão é um homicida. E vós sabeis que nenhum homicida conserva a vida eterna dentro de si. Nisto conhecemos o amor: Jesus deu a sua vida por nós. Portanto, também nós devemos dar a vida pelos irmãos. Se alguém possui riquezas neste mundo e vê o seu irmão passar necessidade, mas, diante dele, fecha o seu coração, como pode o amor de Deus permanece nele? Filhinhos, não amemos só com palavras e de boca, mas com ações e de verdade!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint John"
+       ]
+      ],
+      "cite": "3:14-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We know that we have passed from death to life because we love our brothers. Whoever does not love remains in death. Everyone who hates his brother is a murderer, and you know that no murderer has eternal life remaining in him. The way we came to know love was that he laid down his life for us; so we ought to lay down our lives for our brothers. If someone who has worldly means sees a brother in need and refuses him compassion, how can the love of God remain in him? Children, let us love not in word or speech but in deed and truth."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nosotros debemos dar nuestra vida por los hermanos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Juan"
+       ]
+      ],
+      "cite": "3, 14-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Queridos hermanos:"
+       ],
+       [
+        "Nosotros sabemos que hemos pasado de la muerte a la vida porque amamos a los hermanos. El que no ama permanece en la muerte."
+       ],
+       [
+        "El que odia a su hermano es un homicida. Y sabéis que ningún homicida lleva permanentemente en sí vida eterna. En esto hemos conocido el amor: en que él dio su vida por nosotros. También nosotros debemos dar nuestra vida por los hermanos. Pero si uno tiene bienes del mundo y, viendo a su hermano en necesidad, le cierra sus entrañas, ¿cómo va a estar en él el amor de Dios?"
+       ],
+       [
+        "Hijos míos, no amemos de palabra y de boca, sino de verdad y con obras."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dobbiamo dare la vita per i fratelli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera dì san Giovanni apostolo"
+       ]
+      ],
+      "cite": "3, 14-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Figlioli, noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli. Chi non ama rimane nella morte. Chiunque odia il proprio fratello è omicida, e voi sapete che nessun omicida ha più la vita eterna che dimora in lui."
+       ],
+       [
+        "In questo abbiamo conosciuto l'amore, nel fatto che egli ha dato la sua vita per noi; quindi anche noi dobbiamo dare La vita per i fratelli. Ma se uno ha ricchezze di questo mondo e, vedendo il suo fratello in necessità, gli chiude il proprio cuore, come rimane in lui l'amore di Dio?"
+       ],
+       [
+        "Figlioli, non amiamo a parole né con la lingua, ma con i fatti e nella verità."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Jean"
+       ]
+      ],
+      "cite": "3, 14-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimés, nous savons que nous sommes passés de la mort à la vie, parce que nous aimons nos frères. Celui qui n'aime pas demeure dans la mort. Quiconque a de la haine contre son frère est un meurtrier, et vous savez que pas un meurtrier n'a la vie éternelle demeurant en lui. Voici comment nous avons reconnu l'amour : lui, Jésus, a donné sa vie pour nous. Nous aussi, nous devons donner notre vie pour nos frères."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Celui qui a de quoi vivre en ce monde, s'il voit son frère dans le besoin sans faire preuve de compassion, comment l'amour de Dieu pourrait-il demeurer en lui ? Petits enfants, n'aimons pas en paroles ni par des discours, mais par des actes et en vérité."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Johannesbrief"
+       ]
+      ],
+      "cite": "3, 14-18",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Liebe Brüder!"
+       ],
+       [
+        "Wir wissen, dass wir aus dem Tod in das Leben hinübergegangen sind, weil wir die Brüder lieben. Wer nicht liebt, bleibt im Tod. Jeder, der seinen Bruder hasst, ist ein Mörder, und ihr wisst: Kein Mörder hat ewiges Leben, das in ihm bleibt."
+       ],
+       [
+        "Daran haben wir die Liebe erkannt, dass Er sein Leben für uns hingegeben hat. So müssen auch wir für die Brüder das Leben hingeben. Wenn jemand Vermögen hat und sein Herz vor dem Bruder verschließt, den er in Not sieht, wie kann die Gottesliebe in ihm bleiben?"
+       ],
+       [
+        "Meine Kinder, wir wollen nicht mit Wort und Zunge lieben, sondern in Tat und Wahrheit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.16"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.16"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 111(112), 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 111(112), 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111:1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 111:1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 111 (112)",
       "role": "title"
      }
@@ -180,16 +646,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R: vgl. 1a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -236,7 +710,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -370,7 +844,7 @@
       "k": "p",
       "lines": [
        [
-        "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos! ."
+        "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos!."
        ]
       ]
      }
@@ -514,7 +988,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -789,7 +1263,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1076,7 +1550,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1207,7 +1681,7 @@
       "k": "p",
       "lines": [
        [
-        "Confiando em Deus, seu coração está seguro. Seu coração está tranqüilo e nada teme, e confusos há de ver seus inimigos"
+        "Confiando em Deus, seu coração está seguro. Seu coração está tranquilo e nada teme, e confusos há de ver seus inimigos"
        ]
       ]
      }
@@ -1320,7 +1794,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1559,7 +2033,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1669,30 +2143,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 13, 34",
       "role": "title"
      },
@@ -1733,7 +2191,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 13, 34",
       "role": "title"
      },
@@ -1771,7 +2233,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 13:34",
       "role": "title"
      },
@@ -1793,7 +2259,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 13, 34",
       "role": "title"
      },
@@ -1834,7 +2304,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. Gv 13, 34",
       "role": "title"
      },
@@ -1856,7 +2330,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 13, 34",
       "role": "title"
      },
@@ -1897,7 +2375,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 13, 34ac",
       "role": "title"
      },
@@ -2354,7 +2836,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação"
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -2680,7 +3162,7 @@
  "title": {
   "la": "S. Elisabeth Lusitaniæ",
   "pt-BR": "Santa Isabel de Portugal",
-  "en-US": "St. Elizabeth of Portugal",
+  "en-US": "Saint Elizabeth of Portugal",
   "es": "Santa Isabel de Portugal",
   "it": "Santa Elisabetta di Portogallo",
   "fr": "Sainte Élisabeth de Portugal",

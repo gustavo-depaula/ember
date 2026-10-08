@@ -293,7 +293,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -314,7 +314,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -398,7 +398,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1268,8 +1268,8 @@
  ],
  "title": {
   "la": "Die 31 decembris — De VII Die infra octavam Nativitatis Domini",
-  "pt-BR": "31 de dezembro — Sétimo dia na oitava do Natal",
-  "en-US": "December 31 — Seventh Day within the Octave of the Nativity of the Lord [Christmas]",
+  "pt-BR": "31 de dezembro — Sétimo dia na Oitava do Natal",
+  "en-US": "December 31 — Seventh Day within the Octave of the Nativity of the Lord",
   "es": "31 de diciembre — Día VII dentro de la octava de Navidad",
   "it": "31 dicembre — Settimo giorno fra l'ottava di Natale",
   "fr": "31 décembre — Octave de Noël – 7e jour",

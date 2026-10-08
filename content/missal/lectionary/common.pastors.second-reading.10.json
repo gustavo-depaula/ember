@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -80,6 +71,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Desejávamos dar-vos não somente o evangelho de Deus, mas até a própria vida."
        ]
       ],
@@ -99,7 +99,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: Encontramos em Deus a coragem de vos anunciar o evangelho, em meio a grandes lutas. A nossa exortação não se baseia no erro, na ambigüidade ou no desejo de enganar. Ao contrário, uma vez que Deus nos achou dignos para que nos confiasse o evangelho, falamos não para agradar aos homens, mas a Deus, que examina os nossos corações. Bem sabeis que nunca usamos palavras de adulação, nem procedemos movidos por disfarçada ganância. Deus é testemunha disso. E também não procuramos elogios humanos, nem da parte de vós, nem de outros, embora pudéssemos fazer valer a nossa autoridade de apóstolos de Cristo. Foi com muita ternura que nos apresentamos a vós, como uma mãe que acalenta os seus filhinhos. Tanto bem vos queríamos, que desejávamos dar-vos não somente o evangelho de Deus, mas até, a própria vida; a tal ponto chegou a nossa afeição por vós."
+        "Irmãos: Encontramos em Deus a coragem de vos anunciar o evangelho, em meio a grandes lutas. A nossa exortação não se baseia no erro, na ambiguidade ou no desejo de enganar. Ao contrário, uma vez que Deus nos achou dignos para que nos confiasse o evangelho, falamos não para agradar aos homens, mas a Deus, que examina os nossos corações. Bem sabeis que nunca usamos palavras de adulação, nem procedemos movidos por disfarçada ganância. Deus é testemunha disso. E também não procuramos elogios humanos, nem da parte de vós, nem de outros, embora pudéssemos fazer valer a nossa autoridade de apóstolos de Cristo. Foi com muita ternura que nos apresentamos a vós, como uma mãe que acalenta os seus filhinhos. Tanto bem vos queríamos, que desejávamos dar-vos não somente o evangelho de Deus, mas até, a própria vida; a tal ponto chegou a nossa afeição por vós."
        ]
       ]
      },
@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -118,7 +118,16 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first letter of St. Paul to the Thessalonians"
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to the Thessalonians"
        ]
       ],
       "cite": "2:2-8",
@@ -143,6 +152,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -197,6 +215,15 @@
       "k": "p",
       "lines": [
        [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Avremmo desiderato trasmettervi non solo il Vangelo di Dio, ma la nostra stessa vita."
        ]
       ],
@@ -241,6 +268,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Première lettre de saint Paul Apôtre aux Thessaloniciens"
        ]
       ],
@@ -266,6 +302,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

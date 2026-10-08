@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -96,6 +87,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A promessa que Deus fez, ele a cumpriu quando ressuscitou Jesus."
        ]
       ],
@@ -115,7 +115,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, tendo chegado a Antioquia da Pisídia, Paulo disse na sinagoga:\"Irmãos, descendentes de Abraão, e todos vós que temeis a Deus, a nós foi enviada esta mensagem de salvação. Os habitantes de Jerusalém e seus chefes não reconheceram a Jesus e, ao condená-lo, cumpriram as profecias que se lêem todos os sábados. Embora não encontrassem nenhum motivo para a sua condenação, pediram a Pilatos que fosse morto. Depois de realizarem tudo o que a Escritura diz a respeito de Jesus, eles o tiraram da cruz e o colocaram num túmulo. Mas Deus o ressuscitou dos mortos e, durante muitos dias, ele foi visto por aqueles que o acompanharam desde a Galileia até Jerusalém. Agora eles são testemunhas de Jesus diante do povo. Por isso, nós vos anunciamos este Evangelho: a promessa que Deus fez aos antepassados, ele a cumpriu para nós, seus filhos, quando ressuscitou Jesus, como está escrito no salmo segundo: 'Tu és o meu filho, eu hoje te gerei'\"."
+        "Naqueles dias, tendo chegado a Antioquia da Pisídia, Paulo disse na sinagoga:\"Irmãos, descendentes de Abraão, e todos vós que temeis a Deus, a nós foi enviada esta mensagem de salvação. Os habitantes de Jerusalém e seus chefes não reconheceram a Jesus e, ao condená-lo, cumpriram as profecias que se leem todos os sábados. Embora não encontrassem nenhum motivo para a sua condenação, pediram a Pilatos que fosse morto. Depois de realizarem tudo o que a Escritura diz a respeito de Jesus, eles o tiraram da cruz e o colocaram num túmulo. Mas Deus o ressuscitou dos mortos e, durante muitos dias, ele foi visto por aqueles que o acompanharam desde a Galileia até Jerusalém. Agora eles são testemunhas de Jesus diante do povo. Por isso, nós vos anunciamos este Evangelho: a promessa que Deus fez aos antepassados, ele a cumpriu para nós, seus filhos, quando ressuscitou Jesus, como está escrito no salmo segundo: 'Tu és o meu filho, eu hoje te gerei'\"."
        ]
       ]
      },
@@ -134,7 +134,16 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the book of the Acts of the Apostles"
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Acts of the Apostles"
        ]
       ],
       "cite": "13:26-33",
@@ -159,6 +168,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -203,6 +221,15 @@
      }
     ],
     "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -254,6 +281,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre des Actes des Apôtres"
        ]
       ],
@@ -285,6 +321,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

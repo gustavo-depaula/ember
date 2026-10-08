@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "17"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -80,6 +71,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Foi-te revelado, ó homem, o que é o bem, e o que o Senhor exige de ti."
        ]
       ],
@@ -89,7 +89,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Profecia de Miquéias"
+        "Leitura da Profecia de Miqueias"
        ]
       ],
       "cite": "6, 6-8",
@@ -99,7 +99,7 @@
       "k": "p",
       "lines": [
        [
-        "Que oferta farei ao Senhor, digna dele, ao ajoelhar-me diante do Deus altíssimo? Acaso oferecerei holocaustos e novilhos de um ano? Acaso agradam ao Senhor carneiros aos milhares, e torrentes de óleo? Porventura ofertaria eu o meu primogénito, por um crime meu, o fruto do meu sangue pelos pecados da minha vida?\" Foi-te revelado, ó homem,o que é o bem, e o que o Senhor exige de ti: principalmente praticar a justiça e amar a misericordia e caminhar solícito com teu Deus."
+        "Que oferta farei ao Senhor, digna dele, ao ajoelhar-me diante do Deus altíssimo? Acaso oferecerei holocaustos e novilhos de um ano? Acaso agradam ao Senhor carneiros aos milhares, e torrentes de óleo? Porventura ofertaria eu o meu primogénito, por um crime meu, o fruto do meu sangue pelos pecados da minha vida?\" Foi-te revelado, ó homem, o que é o bem, e o que o Senhor exige de ti: principalmente praticar a justiça e amar a misericórdia e caminhar solícito com teu Deus."
        ]
       ]
      },
@@ -114,6 +114,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -143,6 +152,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -200,6 +218,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Uomo, ti è stato insegnato ciò che richiede il Signore da te."
        ]
       ],
@@ -250,6 +277,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de Michée"
        ]
       ],
@@ -283,6 +319,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

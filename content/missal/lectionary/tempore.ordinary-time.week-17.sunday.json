@@ -561,7 +561,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 57 y 72. 76-77.127-128.129-130 (: 97a)",
+      "cite": "Ps 118, 57 y 72. 76-77.127-128.129-130 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -573,7 +573,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 57.72.76-77.127-128.129-130 (: 97a )",
+      "cite": "Sl 118 (119), 57.72.76-77.127-128.129-130 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -585,7 +585,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 57 et 72. 76-77. 127-128. 129-130 (: 97a)",
+      "cite": "Ps 118, 57 and 72. 76-77. 127-128. 129-130 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -597,7 +597,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 57 y 72. 76-77.127-128.129-130 (: 97a)",
+      "cite": "Sal 118, 57 y 72. 76-77.127-128.129-130 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -621,7 +621,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 57 y 72. 76-77.127-128.129-130 (: 97a)",
+      "cite": "Ps 118, 57 y 72. 76-77.127-128.129-130 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -633,7 +633,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 57 u. 72. 76-77. 127-128. 129-130 (R: 97a)",
+      "cite": "Ps 119 (118), 57 u. 72. 76-77. 127-128. 129-130 (R.: 97a)",
       "role": "title"
      }
     ]
@@ -1017,7 +1017,7 @@
         "Venha a mim o vosso amor e viverei,"
        ],
        [
-        "porque tenho em vossa lei o meu prazer!."
+        "porque tenho em vossa lei o meu prazer!"
        ]
       ]
      }
@@ -2164,7 +2164,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Cf. Mt 11, 25",
@@ -2388,7 +2388,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Proclamaçaõ do Evangelho de Jesus Cristo segundo Mateus"
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
        ]
       ],
       "cite": "13, 44-52",
@@ -2544,7 +2544,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2654,7 +2654,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2915,7 +2915,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -3137,7 +3137,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3247,7 +3247,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3430,7 +3430,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3540,7 +3540,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -4012,7 +4012,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 10-11. 15-16. 17-18 (: cf. 16)",
+      "cite": "Ps 144, 10-11. 15-16. 17-18 (R.: cf. 16)",
       "role": "title"
      }
     ],
@@ -4024,7 +4024,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 10-11.15-16.17-18 (: cf. 16)",
+      "cite": "Sl 144 (145), 10-11.15-16.17-18 (R.: cf. 16)",
       "role": "title"
      }
     ],
@@ -4036,7 +4036,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 144, 10-11. 15-16. 17-18 (: cf. 16)",
+      "cite": "Ps 144, 10-11. 15-16. 17-18 (R.: cf. 16)",
       "role": "title"
      }
     ],
@@ -4048,7 +4048,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 10-11. 15-16. 17-18 (: cf. 16)",
+      "cite": "Sal 144, 10-11. 15-16. 17-18 (R.: cf. 16)",
       "role": "title"
      }
     ],
@@ -4072,7 +4072,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 10-11. 15-16. 17-18 (: cf. 16)",
+      "cite": "Ps 144, 10-11. 15-16. 17-18 (R.: cf. 16)",
       "role": "title"
      }
     ],
@@ -4084,7 +4084,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 8-9. 15-16. 17-18 (R: 16)",
+      "cite": "Ps 145 (144), 8-9. 15-16. 17-18 (R.: 16)",
       "role": "title"
      }
     ]
@@ -4117,7 +4117,7 @@
          "m": "rubric",
          "t": "R/."
         },
-        "Saciai os vossosfilhos,ó Senhor!"
+        "Saciai os vossosfilhos, ó Senhor!"
        ]
       ]
      }
@@ -4232,7 +4232,7 @@
         "Narrem a glória e o esplendor do vosso reino"
        ],
        [
-        "e saibam proclamar vosso poder!."
+        "e saibam proclamar vosso poder!"
        ]
       ]
      }
@@ -4353,7 +4353,7 @@
          "m": "rubric",
          "t": "R/."
         },
-        "Saciai os vossosfilhos,ó Senhor!"
+        "Saciai os vossosfilhos, ó Senhor!"
        ]
       ]
      }
@@ -4589,7 +4589,7 @@
          "m": "rubric",
          "t": "R/."
         },
-        "Saciai os vossosfilhos,ó Senhor!"
+        "Saciai os vossosfilhos, ó Senhor!"
        ]
       ]
      }
@@ -4825,7 +4825,7 @@
          "m": "rubric",
          "t": "R/."
         },
-        "Saciai os vossosfilhos,ó Senhor!"
+        "Saciai os vossosfilhos, ó Senhor!"
        ]
       ]
      }
@@ -6432,7 +6432,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, o Senhor disse a Abraão: \"O clamor contra Sodoma e Gomorra cresceu, e agravou-se muito o seu pecado. Vou descer para verificar se as suas obras correspondem ou não ao clamor que chegou até mim\". Partindo dali, os homens dirigiram-se a Sodoma, enquanto Abraão ficou na presença do Senhor. Então, aproximando-se, disse Abraão: \"Vais realmente exterminar o justo com o ímpio? Se houvesse cinquenta justos na cidade, acaso iríeis exterminá-los? Não pouparias o lugar por causa dos cinquenta justos que ali vivem? Longe de ti agir assim, fazendo morrer o justo com o ímpio, como se o justo fosse igual ao ímpio. Longe de ti! O juiz de toda a terra não faria justiça?\" O Senhor respondeu: \"Se eu encontrasse em Sodoma cinquenta justos, pouparia por causa deles a cidade inteira\". Abraão prosseguiu dizendo: \"Estou sendo atrevido em falar a meu Senhor, eu que sou pó e cinza. Se dos cinquenta justos faltassem cinco, destruirias por causa dos cinco a cidade inteira?\" O Senhor respondeu: \"Não destruiria, se achasse ali quarenta e cinco justos\". Insistiu ainda Abraão e disse: \"E se houvesse quarenta?\" Ele respondeu: \"Por causa dos quarenta, não o faria\". Abraão tornou a insistir: \"Não se irrite o meu Senhor, se ainda falo. E se houvesse apenas trinta justos?\". Ele respondeu: \"Também não o faria, se encontrasse trinta\". Tornou Abraão a insistir: \"Já que me atrevi a falar a meu Senhor, e se houver vinte justos?\" Ele respondeu: \"Não a iria destruir por causa dos vinte\". Abraão disse: \"Que o meu Senhor não se irrite, se eu falar só mais uma vez: e se houvesse apenas dez?\" Ele respondeu: \"Por causa dos dez, não a destruiria\". ."
+        "Naqueles dias, o Senhor disse a Abraão: \"O clamor contra Sodoma e Gomorra cresceu, e agravou-se muito o seu pecado. Vou descer para verificar se as suas obras correspondem ou não ao clamor que chegou até mim\". Partindo dali, os homens dirigiram-se a Sodoma, enquanto Abraão ficou na presença do Senhor. Então, aproximando-se, disse Abraão: \"Vais realmente exterminar o justo com o ímpio? Se houvesse cinquenta justos na cidade, acaso iríeis exterminá-los? Não pouparias o lugar por causa dos cinquenta justos que ali vivem? Longe de ti agir assim, fazendo morrer o justo com o ímpio, como se o justo fosse igual ao ímpio. Longe de ti! O juiz de toda a terra não faria justiça?\" O Senhor respondeu: \"Se eu encontrasse em Sodoma cinquenta justos, pouparia por causa deles a cidade inteira\". Abraão prosseguiu dizendo: \"Estou sendo atrevido em falar a meu Senhor, eu que sou pó e cinza. Se dos cinquenta justos faltassem cinco, destruirias por causa dos cinco a cidade inteira?\" O Senhor respondeu: \"Não destruiria, se achasse ali quarenta e cinco justos\". Insistiu ainda Abraão e disse: \"E se houvesse quarenta?\" Ele respondeu: \"Por causa dos quarenta, não o faria\". Abraão tornou a insistir: \"Não se irrite o meu Senhor, se ainda falo. E se houvesse apenas trinta justos?\". Ele respondeu: \"Também não o faria, se encontrasse trinta\". Tornou Abraão a insistir: \"Já que me atrevi a falar a meu Senhor, e se houver vinte justos?\" Ele respondeu: \"Não a iria destruir por causa dos vinte\". Abraão disse: \"Que o meu Senhor não se irrite, se eu falar só mais uma vez: e se houvesse apenas dez?\" Ele respondeu: \"Por causa dos dez, não a destruiria\"."
        ]
       ]
      },
@@ -6902,7 +6902,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 137, 1-2a. 2bcd-3. 6-7ab. 7c-8 (: 3a)",
+      "cite": "Ps 137, 1-2a. 2bcd-3. 6-7ab. 7c-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -6914,7 +6914,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 137 (138), 1-3.6-8 (: 3a)",
+      "cite": "Sl 137 (138), 1-3.6-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -6926,7 +6926,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 137, 1-2a. 2bcd-3. 6-7ab. 7c-8 (: 3a)",
+      "cite": "Ps 137, 1-2a. 2bcd-3. 6-7ab. 7c-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -6938,7 +6938,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 137, 1-2a. 2bcd-3. 6-7ab. 7c-8 (: 3a)",
+      "cite": "Sal 137, 1-2a. 2bcd-3. 6-7ab. 7c-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -6962,7 +6962,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 137, 1-2a. 2bcd-3. 6-7ab. 7c-8 (: 3a)",
+      "cite": "Ps 137, 1-2a. 2bcd-3. 6-7ab. 7c-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -6974,7 +6974,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 138 (137), 1-2b. 2c-3. 6-7b. 7c-8 (R: 3a)",
+      "cite": "Ps 138 (137), 1-2b. 2c-3. 6-7b. 7c-8 (R.: 3a)",
       "role": "title"
      }
     ]
@@ -7007,7 +7007,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Naquele dia em que gritei, vós me escutastes, ó Senhor!."
+        "Naquele dia em que gritei, vós me escutastes, ó Senhor!"
        ]
       ]
      }
@@ -7243,7 +7243,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Naquele dia em que gritei, vós me escutastes, ó Senhor!."
+        "Naquele dia em que gritei, vós me escutastes, ó Senhor!"
        ]
       ]
      }
@@ -7485,7 +7485,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Naquele dia em que gritei, vós me escutastes, ó Senhor!."
+        "Naquele dia em que gritei, vós me escutastes, ó Senhor!"
        ]
       ]
      }
@@ -7730,7 +7730,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Naquele dia em que gritei, vós me escutastes, ó Senhor!."
+        "Naquele dia em que gritei, vós me escutastes, ó Senhor!"
        ]
       ]
      }
@@ -7848,7 +7848,7 @@
         "Eu vos peço: não deixeis inacabada"
        ],
        [
-        "esta obra que fizeram vossas mãos!."
+        "esta obra que fizeram vossas mãos!"
        ]
       ]
      }
@@ -7972,7 +7972,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Naquele dia em que gritei, vós me escutastes, ó Senhor!."
+        "Naquele dia em que gritei, vós me escutastes, ó Senhor!"
        ]
       ]
      }
@@ -8135,7 +8135,7 @@
         "Leitura da Carta de São Paulo aos Colossenses"
        ]
       ],
-      "cite": "Col 2, 12-14",
+      "cite": "Cl 2, 12-14",
       "role": "announcement"
      },
      {
@@ -8527,7 +8527,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Rom 8, 15bc",
+      "cite": "Rm 8, 15bc",
       "role": "title"
      },
      {
@@ -8537,7 +8537,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Recebestes o espírito de adopção; é por ele que clamamos: Abbá, Pai!."
+        "Recebestes o espírito de adopção; é por ele que clamamos: Abbá, Pai!"
        ],
        [
         "Aleluia."
@@ -9377,8 +9377,8 @@
  ],
  "title": {
   "la": "Tempus «per annum» — Domenica XVII",
-  "pt-BR": "Tempo Comum — 17º Domingo do Tempo Comum",
-  "en-US": "Ordinary Time — 17th Week: Sunday",
+  "pt-BR": "17º Domingo do Tempo Comum",
+  "en-US": "Seventeenth Sunday in Ordinary Time",
   "es": "Tiempo ordinario — 17º Domingo",
   "it": "XVII DOMENICA DEL TEMPO ORDINARIO",
   "fr": "Temps ordinaire — 17ème Dimanche",

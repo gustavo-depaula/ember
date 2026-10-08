@@ -1133,7 +1133,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1189,7 +1189,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1558,8 +1558,8 @@
  ],
  "title": {
   "la": "COMMUNE PASTORUM",
-  "pt-BR": "COMUM DOS PASTORES",
-  "en-US": "COMMON OF PASTORS",
+  "pt-BR": "Comum dos Pastores",
+  "en-US": "Common of Pastors",
   "es": "COMÚN DE PASTORES",
   "it": "COMUNE DEI PASTORI",
   "fr": "COMMUN DES PASTEURS",

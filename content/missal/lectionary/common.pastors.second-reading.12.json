@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "12"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -72,6 +63,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Desempenha o teu serviço de pregador do evangelho cumpre com perfeição o teu ministerio."
        ]
       ],
@@ -91,7 +91,7 @@
       "k": "p",
       "lines": [
        [
-        "Caríssimo: Diante de Deus e de Jesus Cristo, que há-de julgar os vivos e os mortos, e em virtude da sua manifestação gloriosa e do seu Reino, eu te peço com inistencia: proclama a palavra, insiste oportuna ou importunamente, argumenta, repreende, acoselha, com toda a paciência e doutrina. Pois vai chegar o tempo em que não suportarão mais a sã doutrina, mas, com o prurido da curiosidade nos ouvidos, se rodearão de mestres, ao sabor de seus proprios caprichos. E assim, deixando de ouvir a verdade, se desviarão para as fábulas. Tu, porém, mostra vigilancia em tudo, suporta o sofrimento, desempenha o teu serviço de pregador do evangelho, cumpre com perfeição o teu ministério. Sê sóbrio."
+        "Caríssimo: Diante de Deus e de Jesus Cristo, que há-de julgar os vivos e os mortos, e em virtude da sua manifestação gloriosa e do seu Reino, eu te peço com inistencia: proclama a palavra, insiste oportuna ou importunamente, argumenta, repreende, acoselha, com toda a paciência e doutrina. Pois vai chegar o tempo em que não suportarão mais a sã doutrina, mas, com o prurido da curiosidade nos ouvidos, se rodearão de mestres, ao sabor de seus próprios caprichos. E assim, deixando de ouvir a verdade, se desviarão para as fábulas. Tu, porém, mostra vigilancia em tudo, suporta o sofrimento, desempenha o teu serviço de pregador do evangelho, cumpre com perfeição o teu ministério. Sê sóbrio."
        ]
       ]
      },
@@ -99,13 +99,22 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -120,7 +129,7 @@
       "k": "p",
       "lines": [
        [
-        "Before God and before Christ Jesus who is to be judge of the living and the dead, I put this duty to you, in the name of his Appearing and of his kingdom: proclaim the message and, welcome or unwelcome, insist on it. Refute falsehood, correct error, call to obedience - but do all with patience and with the intention of teaching. The time is sure to come when, far from being content with sound teaching, people will be avid for the latest novelty and collect themselves a whole series of teachers according to their own tastes; 4:4and then, instead of listening to the truth, they will turn to myths. Be careful always to choose the right course; be brave under trials; make the preaching of the Good News your life's work, in thoroughgoing service."
+        "Before God and before Christ Jesus who is to be judge of the living and the dead, I put this duty to you, in the name of his Appearing and of his kingdom: proclaim the message and, welcome or unwelcome, insist on it. Refute falsehood, correct error, call to obedience - but do all with patience and with the intention of teaching. The time is sure to come when, far from being content with sound teaching, people will be avid for the latest novelty and collect themselves a whole series of teachers according to their own tastes; and then, instead of listening to the truth, they will turn to myths. Be careful always to choose the right course; be brave under trials; make the preaching of the Good News your life's work, in thoroughgoing service."
        ]
       ]
      },
@@ -135,6 +144,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -183,6 +201,15 @@
       "k": "p",
       "lines": [
        [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Compi la tua opera di annunciatore del Vangelo, adempì il tuo ministero."
        ]
       ],
@@ -224,6 +251,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Deuxième lettre de saint Paul Apôtre à Timothée"
        ]
       ],
@@ -249,6 +285,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

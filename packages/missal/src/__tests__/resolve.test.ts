@@ -38,9 +38,11 @@ describe('sanctoral cycle against the reference calendar', () => {
       const monthDay = iso.slice(5)
       const theirs = saints.filter(
         (id) =>
-          // The reference shows Opus Dei's propers to everyone and lists a vigil
-          // as a saint of its own; three of its entries point at nothing.
+          // The reference shows Opus Dei's propers to everyone, and one German
+          // proper (St Bruno of Querfurt); it lists a vigil as a saint of its
+          // own; three of its entries point at nothing.
           !id.startsWith('?') &&
+          id !== 'sanctorale.03-09.german-speaking' &&
           !id.endsWith('.vigil') &&
           !id.includes('opus-dei') &&
           !referenceWrongDate[monthDay]?.includes(id),
@@ -103,21 +105,63 @@ describe('precedence', () => {
     expect(ids('2026-01-28')).toEqual(['sanctorale.01-28'])
   })
 
-  it('offers optional memorials and the weekday as free choices', () => {
+  it('offers the weekday and the optional memorials as free choices, the weekday first', () => {
     expect(ids('2026-01-20')).toEqual([
+      'tempore.ordinary-time.week-2.tuesday',
       'sanctorale.01-20',
       'sanctorale.01-20.sebastian',
-      'tempore.ordinary-time.week-2.tuesday',
     ])
+  })
+
+  it('keeps Saints Peter and Paul, the Assumption and All Saints on a Sunday in Brazil', () => {
+    const brazil = (iso: string) =>
+      resolveOfDay(on(iso), calendar, { regions: ['brazil'] }).celebrations.map((c) => c.id)
+    // 29 June 2026 is a Monday: the solemnity is the day before.
+    expect(brazil('2026-06-28')).toEqual(['sanctorale.06-29'])
+    expect(brazil('2026-06-29')).not.toContain('sanctorale.06-29')
+    expect(brazil('2026-08-16')).toEqual(['sanctorale.08-15'])
+    // All Saints stays on Saturday 1 November when the Sunday is All Souls.
+    expect(brazil('2025-11-01')).toEqual(['sanctorale.11-01'])
+    expect(brazil('2027-11-07')).toEqual(['sanctorale.11-01'])
+    // Elsewhere they keep their dates.
+    expect(ids('2026-06-29')).toEqual(['sanctorale.06-29'])
+  })
+
+  it('keeps Our Lady of Mount Carmel as a feast in Brazil', () => {
+    const day = resolveOfDay(on('2026-07-16'), calendar, { regions: ['brazil'] })
+    expect(day.celebrations.map((c) => [c.id, c.rank])).toEqual([['sanctorale.07-16', 'feast']])
+  })
+
+  it("keeps Brazil's own memorials as the Mass of the day", () => {
+    const brazil = (iso: string) =>
+      resolveOfDay(on(iso), calendar, { regions: ['brazil'] }).celebrations.map((c) => c.id)
+    expect(brazil('2026-06-09')).toEqual(['sanctorale.06-09.brazil'])
+    expect(brazil('2026-07-09')).toEqual(['sanctorale.07-09.brazil'])
+    expect(brazil('2026-08-13')).toEqual(['sanctorale.08-13.brazil'])
+    expect(brazil('2026-11-19')).toEqual(['sanctorale.11-19.brazil'])
+    // St Rose of Lima and Our Lady of Guadalupe are feasts there.
+    expect(brazil('2027-08-23')).toEqual(['sanctorale.08-23'])
+    expect(brazil('2025-12-12')).toEqual(['sanctorale.12-12'])
+  })
+
+  it('lets the Dedication of the Lateran Basilica replace a Sunday of Ordinary Time', () => {
+    expect(ids('2025-11-09')).toEqual(['sanctorale.11-09'])
   })
 
   it('keeps Mary, Mother of the Church on the Monday after Pentecost', () => {
     expect(ids('2026-05-25')).toEqual(['sanctorale.mary-mother-of-the-church'])
   })
 
-  it("lets the Immaculate Heart prevail over a saint's memorial on the same Saturday", () => {
+  it('makes the Immaculate Heart and the memorial it falls on both optional', () => {
     // 28 June 2025 is also St Irenaeus, an obligatory memorial.
-    expect(ids('2025-06-28')).toEqual(['sanctorale.immaculate-heart-of-mary'])
+    const day = resolveOfDay(on('2025-06-28'), calendar)
+    expect(day.celebrations.map((c) => [c.id, c.rank])).toEqual([
+      ['sanctorale.immaculate-heart-of-mary', 'optional-memorial'],
+      ['sanctorale.06-28', 'optional-memorial'],
+      ['tempore.ordinary-time.week-12.saturday', 'weekday'],
+    ])
+    // Alone on its Saturday it is the Mass of the day.
+    expect(ids('2024-06-08')).toEqual(['sanctorale.immaculate-heart-of-mary'])
   })
 
   it('gives St Stephen his day in the Christmas octave, which has no Mass of its own', () => {

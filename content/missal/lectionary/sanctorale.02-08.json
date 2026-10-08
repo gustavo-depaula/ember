@@ -202,7 +202,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, o anjo falou a Tobit e seu filho: \"Bendizei a Deus e dai-lhe graças, diante de todos os viventes pelos bneficios que vós concedeu. Bendizei e cantai o seu nome. Manifestai a todos os homens as obras de Deus, como é justo, e não hesisteis em expressar-lhe o vosso reconhecimento. Se é bom guardar o segredo do rei, é justo revelar e publicar as obras de Deus. Fazei o bem, e o mal não vos atingirá. É valiosa a oração com o jejum, e a esmola com a justiça. Melhor é pouco com justiça do que muito com iniquidade. Melhor é dar esmolas do que acumular tesouros. A esmola livra da morte e purifica de todo pecado. Os que dão esmola serão saciados de vida. Aqueles, porem, que cometem o pecado e a injustiça são inimigos de si mesmos. E agora vos manifestarei toda a verdade, sem vos ocultar coisa alguma. Já vos declarei e disse: 'É bom guardar o segredo do rei, mas as obras de Deus devem ser reveladas, com a glória devida'. Pois bem, quando tu e Sara fazíeis oração, eu apresntava o memorial da vossa prece diante da glória do Senhor. E fazia o mesmo quando tu, Tobit, enterravas os mortos. Quando não hesitaste em levantar-te da mesa, deixando a refeição e saindo para sepultar um morto, fui enviado a ti para ter pôr à prova\"."
+        "Naqueles dias, o anjo falou a Tobit e seu filho: \"Bendizei a Deus e dai-lhe graças, diante de todos os viventes pelos bneficios que vós concedeu. Bendizei e cantai o seu nome. Manifestai a todos os homens as obras de Deus, como é justo, e não hesisteis em expressar-lhe o vosso reconhecimento. Se é bom guardar o segredo do rei, é justo revelar e publicar as obras de Deus. Fazei o bem, e o mal não vos atingirá. É valiosa a oração com o jejum, e a esmola com a justiça. Melhor é pouco com justiça do que muito com iniquidade. Melhor é dar esmolas do que acumular tesouros. A esmola livra da morte e purifica de todo pecado. Os que dão esmola serão saciados de vida. Aqueles, porém, que cometem o pecado e a injustiça são inimigos de si mesmos. E agora vos manifestarei toda a verdade, sem vos ocultar coisa alguma. Já vos declarei e disse: 'É bom guardar o segredo do rei, mas as obras de Deus devem ser reveladas, com a glória devida'. Pois bem, quando tu e Sara fazíeis oração, eu apresntava o memorial da vossa prece diante da glória do Senhor. E fazia o mesmo quando tu, Tobit, enterravas os mortos. Quando não hesitaste em levantar-te da mesa, deixando a refeição e saindo para sepultar um morto, fui enviado a ti para ter pôr à prova\"."
        ]
       ]
      },
@@ -568,7 +568,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
@@ -587,8 +587,12 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a or 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a or 9a)",
       "role": "title"
      }
     ],
@@ -624,7 +628,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
@@ -636,7 +640,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R: vgl. 2a oder 9a)",
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R.: vgl. 2a oder 9a)",
       "role": "title"
      }
     ]
@@ -2509,7 +2513,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2618,7 +2622,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2956,7 +2960,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -3177,7 +3181,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3286,7 +3290,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3571,7 +3575,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3680,14 +3684,14 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   }
  ],
  "title": {
   "la": "S. Hieronymi Emiliani",
-  "pt-BR": "São Jerónimo Emiliani",
-  "en-US": "St. Jerome Emiliani",
+  "pt-BR": "São Jerônimo Emiliani",
+  "en-US": "Saint Jerome Emiliani",
   "es": "San Jerónimo Emiliani",
   "it": "San Girolamo Emiliani",
   "fr": "Saint Jérôme Émilien",

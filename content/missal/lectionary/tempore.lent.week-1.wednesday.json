@@ -613,7 +613,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 50, 3-4. 12-13. 18-19 (: 19b)",
+      "cite": "Ps 50, 3-4. 12-13. 18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -625,7 +625,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 50 (51), 3-4.12-13.18-19 (: 19b)",
+      "cite": "Sl 50 (51), 3-4.12-13.18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -637,7 +637,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 50, 3-4. 12-13. 18-19 (: 19b)",
+      "cite": "Ps 50, 3-4. 12-13. 18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -649,7 +649,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 50, 3-4. 12-13. 18-19 (: 19b)",
+      "cite": "Sal 50, 3-4. 12-13. 18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -673,7 +673,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 50, 3-4. 12-13. 18-19 (: 19b)",
+      "cite": "Ps 50, 3-4. 12-13. 18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -685,7 +685,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 51 (50), 3-4. 12-13. 18-19 (R: 19b)",
+      "cite": "Ps 51 (50), 3-4. 12-13. 18-19 (R.: 19b)",
       "role": "title"
      }
     ]
@@ -837,7 +837,7 @@
         "Lavai-me todo inteiro do pecado,"
        ],
        [
-        "e apagai completamente a minha culpa!."
+        "e apagai completamente a minha culpa!"
        ]
       ]
      }
@@ -2316,7 +2316,7 @@
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada I — Feria quarta",
   "pt-BR": "Quarta-feira da 1ª Semana da Quaresma",
-  "en-US": "Season of Lent — 1st Week: Wednesday",
+  "en-US": "Wednesday of the First Week of Lent",
   "es": "Tiempo de Cuaresma — Miércoles de la I Semana",
   "it": "MERCOLEDI DELLA I SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 1e semaine — Mercredi",

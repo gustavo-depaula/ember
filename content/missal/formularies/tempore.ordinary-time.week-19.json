@@ -880,7 +880,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -894,7 +894,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -908,7 +908,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -922,7 +922,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -936,7 +936,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -949,7 +949,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -963,7 +963,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1026,7 +1026,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1036,13 +1036,13 @@
         "★ B Gv 6, 51 Dice il Signore: «Il pane che io darò è la mia carne per la vita del mondo». ",
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1267,8 +1267,8 @@
  ],
  "title": {
   "la": "DOMINICA XIX «PER ANNUM»",
-  "pt-BR": "19º DOMINGO DO TEMPO COMUM",
-  "en-US": "19th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "19º Domingo do Tempo Comum",
+  "en-US": "Nineteenth Sunday in Ordinary Time",
   "es": "XIX DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XIX DOMENICA",
   "fr": "Temps ordinaire — 19ème DIMANCHE",

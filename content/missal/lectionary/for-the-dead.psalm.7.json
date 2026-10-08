@@ -3,44 +3,38 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 114, 5. 6; 115, 10-11. 15-16ac (: 114, 9)",
+      ],
+      "cite": "Ps 114, 5. 6; 115, 10-11. 15-16ac (R.: 114, 9)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 114, 5-6; 115, 10-11. 15-16ac (R.: 114, 9)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 114, 5-6; 115, 10-11. 15-16ac (R.: 114, 9)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
       "cite": "Pss 114:5-6; 115:10-11.15-16. 1: Ps 114:9",
       "role": "title"
      }
@@ -48,7 +42,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 114, 5-6; 115, 10-11. 15-16ac (R.: 114, 9)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dai Salmi 114 e 115",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 114, 5. 6; 115, 10-11. 15-16ac (: 114, 9)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 114, 5. 6; 115, 10-11. 15-16ac (R.: 114, 9)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 116 (114/115), 5-6. 10-11. 15-16 (R: vgl. 9)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 116 (114/115), 5-6. 10-11. 15-16 (R.: vgl. 9)",
       "role": "title"
      }
     ]

@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ao impar"
+        "Ao ímpar"
        ]
       ]
      }
@@ -303,7 +303,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -742,7 +742,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 80, 3-4. 5-6ab. 10-11ab (: 2a)",
+      "cite": "Ps 80, 3-4. 5-6ab. 10-11ab (R.: 2a)",
       "role": "title"
      }
     ],
@@ -754,7 +754,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 80 (81), 3-4, 5-6ab, 10-11ab (: 2a)",
+      "cite": "Sl 80 (81), 3-4, 5-6ab, 10-11ab (R.: 2a)",
       "role": "title"
      }
     ],
@@ -766,7 +766,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 80, 3-4. 5-6ab. 10-11ab (: 2a)",
+      "cite": "Ps 80, 3-4. 5-6ab. 10-11ab (R.: 2a)",
       "role": "title"
      }
     ],
@@ -778,7 +778,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 80, 3-4. 5-6ab. 10-11ab (: 2a)",
+      "cite": "Sal 80, 3-4. 5-6ab. 10-11ab (R.: 2a)",
       "role": "title"
      }
     ],
@@ -802,7 +802,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 80, 3-4. 5-6ab. 10-11ab (: 2a)",
+      "cite": "Ps 80, 3-4. 5-6ab. 10-11ab (R.: 2a)",
       "role": "title"
      }
     ],
@@ -814,7 +814,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 81 (80), 3-4. 5-6b. 6c-8b. 10-11 (R: vgl. 2a)",
+      "cite": "Ps 81 (80), 3-4. 5-6b. 6c-8b. 10-11 (R.: vgl. 2a)",
       "role": "title"
      }
     ]
@@ -1838,7 +1838,7 @@
       "k": "p",
       "lines": [
        [
-        "Primeira Leciura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -1874,7 +1874,7 @@
       "k": "p",
       "lines": [
        [
-        "Parola di Dio."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -2251,7 +2251,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 68, 5. 8-10. 14 (: 14c)",
+      "cite": "Ps 68, 5. 8-10. 14 (R.: 14c)",
       "role": "title"
      }
     ],
@@ -2263,7 +2263,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 68 (69), 5.8-10.14 (: 14c)",
+      "cite": "Sl 68 (69), 5.8-10.14 (R.: 14c)",
       "role": "title"
      }
     ],
@@ -2275,7 +2275,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 68, 5. 8-10. 14 (: 14c)",
+      "cite": "Ps 68, 5. 8-10. 14 (R.: 14c)",
       "role": "title"
      }
     ],
@@ -2287,7 +2287,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 68, 5. 8-10. 14 (: 14c)",
+      "cite": "Sal 68, 5. 8-10. 14 (R.: 14c)",
       "role": "title"
      }
     ],
@@ -2311,7 +2311,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 68, 5. 8-10. 14 (: 14c)",
+      "cite": "Ps 68, 5. 8-10. 14 (R.: 14c)",
       "role": "title"
      }
     ],
@@ -2323,7 +2323,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 69 (68), 5. 8-9. 10 u. 13. 14 (R: vgl. 14bc)",
+      "cite": "Ps 69 (68), 5. 8-9. 10 u. 13. 14 (R.: vgl. 14bc)",
       "role": "title"
      }
     ]
@@ -3237,7 +3237,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "1 Ped 1, 25",
@@ -4014,7 +4014,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XVII",
   "pt-BR": "Sexta-feira da 17ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 17th Week: Friday",
+  "en-US": "Friday of the Seventeenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 17ª semana",
   "it": "VENERDI della XVII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 17e semaine",

@@ -593,7 +593,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 33, 4-5. 6-7. 16-17. 18-19 (: 18b)",
+      "cite": "Ps 33, 4-5. 6-7. 16-17. 18-19 (R.: 18b)",
       "role": "title"
      }
     ],
@@ -605,7 +605,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 33 (34), 4-5.6-7.16-17.18-19 (: 18b)",
+      "cite": "Sl 33 (34), 4-5.6-7.16-17.18-19 (R.: 18b)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 33, 4-5. 6-7. 16-17. 18-19 (: 18b)",
+      "cite": "Ps 33, 4-5. 6-7. 16-17. 18-19 (R.: 18b)",
       "role": "title"
      }
     ],
@@ -629,7 +629,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 33, 4-5. 6-7. 16-17. 18-19 (: 18b)",
+      "cite": "Sal 33, 4-5. 6-7. 16-17. 18-19 (R.: 18b)",
       "role": "title"
      }
     ],
@@ -653,7 +653,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 33, 4-5. 6-7. 16-17. 18-19 (: 18b)",
+      "cite": "Ps 33, 4-5. 6-7. 16-17. 18-19 (R.: 18b)",
       "role": "title"
      }
     ],
@@ -665,7 +665,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 4-5. 6-7. 16-17. 18-19 (R: vgl. 18)",
+      "cite": "Ps 34 (33), 4-5. 6-7. 16-17. 18-19 (R.: vgl. 18)",
       "role": "title"
      }
     ]
@@ -2608,7 +2608,7 @@
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada I — Feria tertia",
   "pt-BR": "Terça-feira da 1ª Semana da Quaresma",
-  "en-US": "Season of Lent — 1st Week: Tuesday",
+  "en-US": "Tuesday of the First Week of Lent",
   "es": "Tiempo de Cuaresma — Martes de la I Semana",
   "it": "MARTEDI DELLA I SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carêmebr — >1e semaine — Mardi",

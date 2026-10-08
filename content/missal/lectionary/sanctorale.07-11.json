@@ -29,7 +29,7 @@
       "k": "h2",
       "lines": [
        [
-        "11 de julio"
+        "11 de julho"
        ],
        [
         "São Bento, abade"
@@ -689,38 +689,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.5"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 33(34), 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a o 9a)",
       "role": "title"
      }
@@ -728,15 +716,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a or 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a or 9a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a o 9a)",
       "role": "title"
      }
@@ -744,7 +740,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 33 (34)",
       "role": "title"
      }
@@ -752,16 +752,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R: vgl. 2a oder 9a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R.: vgl. 2a oder 9a)",
       "role": "title"
      }
     ]
@@ -2215,30 +2223,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -2279,7 +2271,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -2317,7 +2313,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 5:3",
       "role": "title"
      },
@@ -2339,7 +2339,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -2380,7 +2384,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -2402,7 +2410,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -2443,7 +2455,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -2484,27 +2500,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.9"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2534,6 +2539,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós, que me seguistes, recebereis cem vezes mais."
        ]
       ],
@@ -2559,17 +2573,36 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
         },
-        " A reading from the holy Gospel according to Matthew 19:27-29"
+        " A reading from the holy Gospel according to Matthew"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "19, 27-29"
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2599,6 +2632,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Voi che mi avete seguito, riceverete cento volte tanta."
        ]
       ],
@@ -2624,6 +2666,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2636,6 +2687,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -3045,7 +3105,7 @@
  "title": {
   "la": "S. Benedicti, abbatis",
   "pt-BR": "São Bento, abade",
-  "en-US": "St. Benedict, abbot",
+  "en-US": "Saint Benedict, abbot",
   "es": "San Benito, abad, patrono de Europa",
   "it": "San Benedetto, abate patrono d'Europa",
   "fr": "Saint Benoît, abbé",

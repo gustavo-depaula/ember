@@ -151,22 +151,487 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gaudens gaudebo in Domino."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Isaíæ prophétæ"
+       ]
+      ],
+      "cite": "61, 9-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sciétur in géntibus semen eórum, et germen eórum in médio populórum; omnes, qui víderint eos, cognóscent illos, quia isti sunt semen, cui benedíxit Dóminus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo, quia índuit me vestiméntis salútis et induménto iustítiæ circúmdedit me, quasi sponsum decorátum coróna et quasi sponsam ornátam monílibus suis. Sicut enim terra profert germen suum, et sicut hortus semen suum gérminat, sic Dóminus Deus germinábit iustítiam et laudem coram univérsis géntibus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exulto de alegria no Senhor."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Profeta Isaías"
+       ]
+      ],
+      "cite": "61, 9-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A descendência do meu povo será conhecida entre as nações, e seus filhos se fixarão no meio dos povos; quem os vir há de reconhecê-los como descendentes abençoados por Deus. Exulto de alegria no Senhor e minh'alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como um noivo com sua coroa, ou uma noiva com suas joias. Assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Senhor Deus fará germinar a justiça e a sua glória diante de todas as nações."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of the Prophet Isaiah"
+       ]
+      ],
+      "cite": "61:9-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Their race will be famous throughout the nations, their descendants throughout the peoples. All who see them will admit that they are a race whom the Lord has blessed. 'I exult for joy in the Lord, my soul rejoices in my God, for he has clothed me in the garments of salvation, he has wrapped me in the cloak of integrity, like a bridegroom wearing his wreath, like a bride adorned in her jewels. 'For as the earth makes fresh things grow, as a garden makes seeds spring up, so will the Lord make both integrity and praise spring up in the sight of the nations.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Desbordo de gozo con el Señor"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de Isaías"
+       ]
+      ],
+      "cite": "61, 9-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La estirpe de mi pueblo será célebre entre las naciones,"
+       ],
+       [
+        "y sus vástagos entre los pueblos."
+       ],
+       [
+        "Los que los vean reconocerán"
+       ],
+       [
+        "que son la estirpe que bendijo el Señor."
+       ],
+       [
+        "Desbordo de gozo en el Señor,"
+       ],
+       [
+        "y me alegro con mi Dios:"
+       ],
+       [
+        "porque me ha puesto un traje de salvación,"
+       ],
+       [
+        "y me ha envuelto con un manto de justicia,"
+       ],
+       [
+        "como novio que se pone la corona,"
+       ],
+       [
+        "o novia que se adorna con sus joyas."
+       ],
+       [
+        "Como el suelo echa sus brotes,"
+       ],
+       [
+        "como un jardín hace brotar sus semillas,"
+       ],
+       [
+        "así el Señor hará brotar la justicia"
+       ],
+       [
+        "y los himnos ante todos los pueblos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gioisco pienamente nel Signore."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Isaia"
+       ]
+      ],
+      "cite": "61, 9-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sarà famosa tra Le genti la loro stirpe, la loro discendenza in mezzo ai popoli. Coloro che li vedranno riconosceranno che essi sono la stirpe benedetta dal Signore."
+       ],
+       [
+        "Io gioisco pienamente nel Signore,"
+       ],
+       [
+        "la mia anima esulta nel mio Dio,"
+       ],
+       [
+        "perché mi ha rivestito delle vesti della salvezza,"
+       ],
+       [
+        "mi ha avvolto con il mantello della giustizia,"
+       ],
+       [
+        "come uno sposo si mette il diadema"
+       ],
+       [
+        "e come una sposa si adorna di gioielli."
+       ],
+       [
+        "Poiché, come la terra produce i suoi germogli e come un giardino fa germogliare i suoi semi, così il Signore Dio farà germogliare la giustizia e la lode davanti a tutte le genti."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Isaïe"
+       ]
+      ],
+      "cite": "61, 9-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les descendants de mon peuple seront connus parmi les nations, et leur postérité, au milieu des peuples. Qui les verra pourra reconnaître la descendance bénie du Seigneur. Je tressaille de joie dans le Seigneur, mon âme exulte en mon Dieu. Car il m'a vêtue des vêtements du salut, il m'a couverte du manteau de la justice, comme le jeune marié orné du diadème, la jeune mariée que parent ses joyaux. Comme la terre fait éclore son germe, et le jardin, germer ses semences, le Seigneur Dieu fera germer la justice et la louange devant toutes les nations."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesája"
+       ]
+      ],
+      "cite": "61, 9-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr: Die Nachkommen meines Volkes werden bei allen Nationen bekannt sein und ihre Kinder in allen Völkern. Jeder, der sie sieht, wird erkennen: Das sind die Nachkommen, die der Herr gesegnet hat."
+       ],
+       [
+        "Von Herzen will ich mich freuen über den Herrn. Meine Seele soll jubeln über meinen Gott. Denn er kleidet mich in Gewänder des Heils, er hüllt mich in den Mantel der Gerechtigkeit, wie ein Bräutigam sich festlich schmückt und wie eine Braut ihr Geschmeide anlegt. Denn wie die Erde die Saat wachsen lässt und der Garten die Pflanzen hervorbringt, so bringt Gott, der Herr, Gerechtigkeit hervor und Ruhm vor allen Völkern."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.blessed-virgin-mary.first-reading.9"
+  },
+  {
+   "text": {
+    "la": [
      {
       "k": "p",
       "lines": [
        [
         {
-         "m": "link",
-         "t": "→",
-         "to": "readings.csmv1f9"
-        }
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
        ]
       ]
      }
     ]
    },
-   "part": "firstReading"
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.blessed-virgin-mary.first-reading.9"
   },
   {
    "text": {
@@ -178,7 +643,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -190,7 +655,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sm 2, 1.4-5.6-7.8abcd (: 1a)",
+      "cite": "1 Sm 2, 1.4-5.6-7.8abcd (R.: 1a)",
       "role": "title"
      }
     ],
@@ -202,7 +667,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -214,7 +679,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -238,7 +703,7 @@
         "Psaume"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -250,7 +715,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R: vgl. 1b)",
+      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R.: vgl. 1b)",
       "role": "title"
      }
     ]
@@ -1867,7 +2332,7 @@
       "k": "p",
       "lines": [
        [
-        "Os pais de Jesus iam todos os anos a Jerusalém, para a festa da Páscoa. Quando ele completou doze anos, subiram para a festa, como de costume. Passados os dias da Páscoa, começaram a viagem de volta, mas o menino Jesus ficou em Jerusalém, sem que seus pais o notassem. Pensando que ele estivesse na caravana, caminharam um dia inteiro. Depois começaram a procurá-lo entre os parentes e conhecidos. Não o tendo encontrado, voltaram para Jerusalém à sua procura. Três dias depois, o encontraram no Templo. Estava sentado no meio dos mestres, escutando e fazendo perguntas. Todos os que ouviam o menino estavam maravilhados com sua inteligência e suas respostas. Ao vê-lo, seus pais ficaram muito admirados e sua mãe lhe disse: \"Meu filho, por que agiste assim conosco? Olha que teu pai e eu estávamos, angustiados, à tua procura\". Jesus respondeu: \"Por que me procuráveis? Não sabeis que devo estar na casa de meu Pai?\" Eles, porem, não compreenderam as palavras que lhes dissera. Jesus desceu então com seus país para Nazaré, e era-lhes obediente. Sua mãe, porém, conservava no coração todas estas coisas."
+        "Os pais de Jesus iam todos os anos a Jerusalém, para a festa da Páscoa. Quando ele completou doze anos, subiram para a festa, como de costume. Passados os dias da Páscoa, começaram a viagem de volta, mas o menino Jesus ficou em Jerusalém, sem que seus pais o notassem. Pensando que ele estivesse na caravana, caminharam um dia inteiro. Depois começaram a procurá-lo entre os parentes e conhecidos. Não o tendo encontrado, voltaram para Jerusalém à sua procura. Três dias depois, o encontraram no Templo. Estava sentado no meio dos mestres, escutando e fazendo perguntas. Todos os que ouviam o menino estavam maravilhados com sua inteligência e suas respostas. Ao vê-lo, seus pais ficaram muito admirados e sua mãe lhe disse: \"Meu filho, por que agiste assim conosco? Olha que teu pai e eu estávamos, angustiados, à tua procura\". Jesus respondeu: \"Por que me procuráveis? Não sabeis que devo estar na casa de meu Pai?\" Eles, porém, não compreenderam as palavras que lhes dissera. Jesus desceu então com seus país para Nazaré, e era-lhes obediente. Sua mãe, porém, conservava no coração todas estas coisas."
        ]
       ]
      },
@@ -2160,8 +2625,8 @@
  ],
  "title": {
   "la": "Sabbato post Dominicam secundam post Pentecosten — Immaculati Cordis beatæ Maríæ Virginis",
-  "pt-BR": "Sábado após o segundo domingo depois de Pentecostes — Imaculado Coração De Maria",
-  "en-US": "Saturday following the second sunday after Pentecost — The Immaculate Heart of Mary",
+  "pt-BR": "Imaculado Coração da Bem-aventurada Virgem Maria",
+  "en-US": "The Immaculate Heart of the Blessed Virgin Mary",
   "es": "Sábado posterior al II domingo después de Pentecostés: — El Inmaculado Corazón de la Virgen María",
   "it": "Sabato dopo la solennità del S. Cuore di Gesù — Cuore Immacolato Della Beata Vergine Maria",
   "fr": "Cœur Immaculé de la bienheureuse Vierge Marie",

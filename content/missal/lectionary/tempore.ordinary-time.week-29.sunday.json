@@ -636,7 +636,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 1 et 3. 4-5. 7-8a. 9-10ac (: 7b)",
+      "cite": "Ps 95, 1 et 3. 4-5. 7-8a. 9-10ac (R.: 7b)",
       "role": "title"
      }
     ],
@@ -648,7 +648,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), 1.2ª.3.4-5.7-8.9-10a.c (: 7b))",
+      "cite": "Sl 95 (96), 1.2ª.3.4-5.7-8.9-10a.c (R.: 7b)",
       "role": "title"
      }
     ],
@@ -660,7 +660,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 95, 1 et 3. 4-5. 7-8a. 9-10ac (: 7b)",
+      "cite": "Ps 95, 1 and 3. 4-5. 7-8a. 9-10ac (R.: 7b)",
       "role": "title"
      }
     ],
@@ -672,7 +672,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 1 et 3. 4-5. 7-8a. 9-10ac (: 7b)",
+      "cite": "Sal 95, 1 et 3. 4-5. 7-8a. 9-10ac (R.: 7b)",
       "role": "title"
      }
     ],
@@ -696,7 +696,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 1 et 3. 4-5. 7-8a. 9-10ac (: 7b)",
+      "cite": "Ps 95, 1 et 3. 4-5. 7-8a. 9-10ac (R.: 7b)",
       "role": "title"
      }
     ],
@@ -708,7 +708,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 1 u. 3. 4-5. 7-8. 9 u. 10abd (R: 7b)",
+      "cite": "Ps 96 (95), 1 u. 3. 4-5. 7-8. 9 u. 10abd (R.: 7b)",
       "role": "title"
      }
     ]
@@ -859,7 +859,7 @@
         "Manifestai a sua glória entre as nações"
        ],
        [
-        "e enre os povos do universo seus prodigios!"
+        "e entre os povos do universo seus prodígios!"
        ]
       ]
      }
@@ -3530,7 +3530,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (: 22)",
+      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -3542,7 +3542,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 32 (33), 4-5.18-19.20 e 22 (: 22)",
+      "cite": "Sl 32 (33), 4-5.18-19.20 e 22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -3554,7 +3554,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (: 22)",
+      "cite": "Ps 32, 4-5. 18-19. 20 and 22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -3566,7 +3566,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 32, 4-5. 18-19. 20 et 22 (: 22)",
+      "cite": "Sal 32, 4-5. 18-19. 20 et 22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -3590,7 +3590,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (: 22)",
+      "cite": "Ps 32, 4-5. 18-19. 20 et 22 (R.: 22)",
       "role": "title"
      }
     ],
@@ -3602,7 +3602,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 33 (32), 4-5. 18-19. 20 u. 22 (R: 22)",
+      "cite": "Ps 33 (32), 4-5. 18-19. 20 u. 22 (R.: 22)",
       "role": "title"
      }
     ]
@@ -3635,7 +3635,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Sobre nós venha, Senhor, a vossa graça, pois, em vós, nós esperamos1"
+        "Sobre nós venha, Senhor, a vossa graça, pois, em vós, nós esperamos,"
        ]
       ]
      }
@@ -5275,7 +5275,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5385,7 +5385,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5659,7 +5659,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -5890,7 +5890,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6000,7 +6000,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6164,7 +6164,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6274,7 +6274,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -6754,7 +6754,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (: cf. 2)",
+      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -6766,7 +6766,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 120 (121), 1-2.3-4.5-6.7-8 (: cf. 2))",
+      "cite": "Sl 120 (121), 1-2.3-4.5-6.7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -6778,7 +6778,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (: cf. 2)",
+      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -6790,7 +6790,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 120, 1-2. 3-4. 5-6. 7-8 (: cf. 2)",
+      "cite": "Sal 120, 1-2. 3-4. 5-6. 7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -6814,7 +6814,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (: cf. 2)",
+      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -6826,7 +6826,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 121 (120), 1-2. 3-4. 5-6. 7-8 (R: vgl. 2)",
+      "cite": "Ps 121 (120), 1-2. 3-4. 5-6. 7-8 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -8404,7 +8404,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Hebr 4, 12",
+      "cite": "Hb 4, 12",
       "role": "title"
      },
      {
@@ -9194,8 +9194,8 @@
  ],
  "title": {
   "la": "Tempus «per annum» — Domenica XXIX",
-  "pt-BR": "Tempo Comum — 29º Domingo do Tempo Comum",
-  "en-US": "Ordinary Time — 29th Week: Sunday",
+  "pt-BR": "29º Domingo do Tempo Comum",
+  "en-US": "Twenty-Ninth Sunday in Ordinary Time",
   "es": "Tiempo ordinario — 29º Domingo",
   "it": "XXIX DOMENICA DEL TEMPO ORDINARIO",
   "fr": "Temps ordinaire — 29ème Dimanche",

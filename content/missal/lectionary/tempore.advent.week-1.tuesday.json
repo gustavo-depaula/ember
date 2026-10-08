@@ -670,7 +670,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 71, 1-2. 7-8. 12-13. 17 (: cf. 7)",
+      "cite": "Ps 71, 1-2. 7-8. 12-13. 17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -682,7 +682,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 71 (72), 2.7-8.12-13.17 (: cf. 7))",
+      "cite": "Sl 71 (72), 2.7-8.12-13.17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -694,7 +694,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 71, 1-2. 7-8. 12-13. 17 (: cf. 7)",
+      "cite": "Ps 71, 1-2. 7-8. 12-13. 17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -706,7 +706,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 71, 1-2. 7-8. 12-13. 17 (: cf. 7)",
+      "cite": "Sal 71, 1-2. 7-8. 12-13. 17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -730,7 +730,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 71, 1-2. 7-8. 12-13. 17 (: cf. 7)",
+      "cite": "Ps 71, 1-2. 7-8. 12-13. 17 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -742,7 +742,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 72 (71), 1-2. 7-8. 12-13. 17 (R: vgl. 7)",
+      "cite": "Ps 72 (71), 1-2. 7-8. 12-13. 17 (R.: vgl. 7)",
       "role": "title"
      }
     ]
@@ -2062,7 +2062,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Prolamação do Evangelho de Jesus Cristo segundo Lucas"
+        " Proclamação do Evangelho de Jesus Cristo segundo Lucas"
        ]
       ],
       "cite": "10, 21-24",
@@ -2595,8 +2595,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada I — Feria tertia",
-  "pt-BR": "Terça-feira",
-  "en-US": "Advent Season — 1st Week: Tuesday",
+  "pt-BR": "Terça-feira da 1ª Semana do Advento",
+  "en-US": "Tuesday of the First Week of Advent",
   "es": "Tiempo de Adviento — Martes de la I Semana",
   "it": "MARTEDI della I settimana di Avvento",
   "fr": "Temps de l'Avent — 1e semaine — Mardi",

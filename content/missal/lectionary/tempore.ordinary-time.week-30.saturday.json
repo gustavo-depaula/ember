@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -687,7 +687,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 93, 12-13a. 14-15. 17-18 (: 14a)",
+      "cite": "Ps 93, 12-13a. 14-15. 17-18 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 93 (94), 12-13a.14-15.17-18 (: 14a)",
+      "cite": "Sl 93 (94), 12-13a.14-15.17-18 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 93, 12-13a. 14-15. 17-18 (: 14a)",
+      "cite": "Ps 93, 12-13a. 14-15. 17-18 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 93, 12-13a. 14-15. 17-18 (: 14a)",
+      "cite": "Sal 93, 12-13a. 14-15. 17-18 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -747,7 +747,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 93, 12-13a. 14-15. 17-18 (: 14a)",
+      "cite": "Ps 93, 12-13a. 14-15. 17-18 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -759,7 +759,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 94 (93), 12-13. 14-15. 17-18 (R: vgl. 14a)",
+      "cite": "Ps 94 (93), 12-13. 14-15. 17-18 (R.: vgl. 14a)",
       "role": "title"
      }
     ]
@@ -2122,7 +2122,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 41, 2. 3. 5bcde (: 3a)",
+      "cite": "Ps 41, 2. 3. 5bcde (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2134,7 +2134,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 41 (42), 2.3.5 (: 3a)",
+      "cite": "Sl 41 (42), 2.3.5 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2146,7 +2146,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 41, 2. 3. 5bcde (: 3a)",
+      "cite": "Ps 41, 2. 3. 5bcde (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2158,7 +2158,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 41, 2. 3. 5bcde (: 3a)",
+      "cite": "Sal 41, 2. 3. 5bcde (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2182,7 +2182,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 41, 2. 3. 5bcde (: 3a)",
+      "cite": "Ps 41, 2. 3. 5bcde (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2194,7 +2194,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 42 (41), 2-3a. 3b u. 5 (R: 3a)",
+      "cite": "Ps 42 (41), 2-3a. 3b u. 5 (R.: 3a)",
       "role": "title"
      }
     ]
@@ -3787,7 +3787,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XXX",
   "pt-BR": "Sábado da 30ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 30th Week: Saturday",
+  "en-US": "Saturday of the Thirtieth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 30ª semana",
   "it": "Sabato della XXX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 30e semaine",

@@ -252,7 +252,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, um anjo do Senhor falou a Filipe, dizendo: “Prepara-te e vai para o sul, no caminho que desce de Jerusalém a Gaza. O caminho é deserto”. Filipe levantou-se e foi. Nisso apareceu um eunuco etíope, ministro de Candace, rainha da Etiópia, e administrador geral do seu tesouro, que tinha ido em peregrinação a Jerusalém. Ele estava voltando para casa e vinha sentado no seu carro, lendo o profeta Isaías. Então o Espírito disse a Filipe: “Aproxima-te desse carro e acompanha-o”. Filipe correu, ouviu o eunuco ler o profeta Isaías e perguntou: “Tu compreendes o que estás lendo?” O eunuco respondeu: “Como posso, se ninguém mo explica?” Então convidou Filipe a subir e a sentar-se junto a ele. A passagem da Escritura que o eunuco estava lendo era esta: “Ele foi levado como ovelha ao matadouro; e qual um cordeiro diante do seu tosquiador, ele emudeceu e não abriu a boca. Eles o humilharam e lhe negaram justiça; e seus descendentes, quem os poderá enumerar? Pois sua vida foi arrancada da terra”. E o eunuco disse a Filipe: “Peço que me expliques de quem o profeta está dizendo isso. Ele fala de si mesmo ou se refere a algum outro?” Então Filipe começou a falar e, partindo dessa passagem da Escritura, anunciou Jesus ao eunuco. Eles prosseguiram o caminho e chegaram a um lugar onde havia água. Então o eunuco disse a Filipe: “Aqui temos água. O que impede que eu seja batizado?” O eunuco mandou parar o carro. Os dois desceram para a água e Filipe batizou o eunuco. Quando saíram da água, o Espírito do Senhor arrebatou a Filipe. O eunuco não o viu mais e prosseguiu sua viagem, cheio de alegria. Filipe foi parar em Azoto. E, passando adiante, evangelizava todas as cidades até chegar a Cesaréia."
+        "Naqueles dias, um anjo do Senhor falou a Filipe, dizendo: “Prepara-te e vai para o sul, no caminho que desce de Jerusalém a Gaza. O caminho é deserto”. Filipe levantou-se e foi. Nisso apareceu um eunuco etíope, ministro de Candace, rainha da Etiópia, e administrador geral do seu tesouro, que tinha ido em peregrinação a Jerusalém. Ele estava voltando para casa e vinha sentado no seu carro, lendo o profeta Isaías. Então o Espírito disse a Filipe: “Aproxima-te desse carro e acompanha-o”. Filipe correu, ouviu o eunuco ler o profeta Isaías e perguntou: “Tu compreendes o que estás lendo?” O eunuco respondeu: “Como posso, se ninguém mo explica?” Então convidou Filipe a subir e a sentar-se junto a ele. A passagem da Escritura que o eunuco estava lendo era esta: “Ele foi levado como ovelha ao matadouro; e qual um cordeiro diante do seu tosquiador, ele emudeceu e não abriu a boca. Eles o humilharam e lhe negaram justiça; e seus descendentes, quem os poderá enumerar? Pois sua vida foi arrancada da terra”. E o eunuco disse a Filipe: “Peço que me expliques de quem o profeta está dizendo isso. Ele fala de si mesmo ou se refere a algum outro?” Então Filipe começou a falar e, partindo dessa passagem da Escritura, anunciou Jesus ao eunuco. Eles prosseguiram o caminho e chegaram a um lugar onde havia água. Então o eunuco disse a Filipe: “Aqui temos água. O que impede que eu seja batizado?” O eunuco mandou parar o carro. Os dois desceram para a água e Filipe batizou o eunuco. Quando saíram da água, o Espírito do Senhor arrebatou a Filipe. O eunuco não o viu mais e prosseguiu sua viagem, cheio de alegria. Filipe foi parar em Azoto. E, passando adiante, evangelizava todas as cidades até chegar a Cesareia."
        ]
       ]
      },
@@ -693,7 +693,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 65, 8-9. 16-17. 20 (R/.: 1)",
+      "cite": "Ps 65, 8-9. 16-17. 20 (R.: 1)",
       "role": "title"
      }
     ],
@@ -705,7 +705,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 65 (66), 8-9.16-17.20 (R. 1)",
+      "cite": "Sl 65 (66), 8-9.16-17.20 (R.: 1)",
       "role": "title"
      }
     ],
@@ -717,7 +717,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 65, 8-9. 16-17. 20 (R.: 1)"
      }
     ],
     "es": [
@@ -728,7 +729,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 65, 8-9. 16-17. 20 (R/.: 1)",
+      "cite": "Sal 65, 8-9. 16-17. 20 (R.: 1)",
       "role": "title"
      }
     ],
@@ -752,7 +753,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 65, 8-9. 16-17. 20 (R/.: 1)",
+      "cite": "Ps 65, 8-9. 16-17. 20 (R.: 1)",
       "role": "title"
      }
     ],
@@ -764,7 +765,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 66 (65), 8-9. 16-17. 19-20 (R: 1)",
+      "cite": "Ps 66 (65), 8-9. 16-17. 19-20 (R.: 1)",
       "role": "title"
      }
     ]
@@ -2588,8 +2589,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada III — Feria V",
-  "pt-BR": "Tempo da Páscoa — 3ª Semana — Quinta-feira",
-  "en-US": "Easter Season — Third Week — Thursday",
+  "pt-BR": "Quinta-feira da 3ª Semana da Páscoa",
+  "en-US": "Thursday of the Third Week of Easter",
   "es": "Tiempo de Pascua — Semana III — Jueves",
   "it": "GIOVEDI della III settimana di Pasqua",
   "fr": "Temps pascal — 3e semaine — Jeudi",

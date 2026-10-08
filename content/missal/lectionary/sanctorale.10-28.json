@@ -598,7 +598,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -622,7 +622,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -658,7 +658,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -670,7 +670,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18), 2-3. 4-5b (R: 5a)",
+      "cite": "Ps 19 (18), 2-3. 4-5b (R.: 5a)",
       "role": "title"
      }
     ]
@@ -2056,8 +2056,8 @@
  ],
  "title": {
   "la": "SS. SIMONIS ET IUDÆ, APOSTOLORUM",
-  "pt-BR": "SÃO SIMÃO E SÃO JUDAS, APÓSTOLOS",
-  "en-US": "SS SIMON AND JUDE, APOSTLES",
+  "pt-BR": "Santos Simão e Judas, Apóstolos",
+  "en-US": "Ss Simon and Jude, Apostles",
   "es": "SAN SIMÓN Y SAN JUDAS, APÓSTOLES",
   "it": "SANTI SIMONE E GIUDA, APOSTOLI",
   "fr": "SAINTS SIMON ET JUDE, APÔTRES",

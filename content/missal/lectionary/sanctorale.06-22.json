@@ -24,7 +24,7 @@
         "22 de Junho"
        ],
        [
-        "San Paulino de Nola, obispo"
+        "São Paulino de Nola, bispo"
        ]
       ]
      }
@@ -202,7 +202,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -548,54 +548,50 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.3"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 39(40), 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 39(40), 2 e 4ab. 7. 8-9. 10 (R.: 8a e 9a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 39, 2 and 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a and 9a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
       "role": "title"
      }
@@ -603,7 +599,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 39 (40)",
       "role": "title"
      }
@@ -611,16 +611,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: vgl. 8a. 9a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R.: vgl. 8a. 9a)",
       "role": "title"
      }
     ]
@@ -1428,7 +1436,7 @@
       "k": "p",
       "lines": [
        [
-        "Boas-novas de vossa justiça anunciei numa grande assembléia; vós sabeis: não fechei os meus lábios!"
+        "Boas-novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!"
        ]
       ]
      }
@@ -1622,30 +1630,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -1686,7 +1678,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -1724,7 +1720,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 5:3",
       "role": "title"
      },
@@ -1746,7 +1746,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -1787,7 +1791,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -1809,7 +1817,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -1850,7 +1862,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Mt 5, 3",
       "role": "title"
      },
@@ -1891,43 +1907,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "[Pro religiosis]"
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.21"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "21"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.21"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1957,6 +1946,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Foi do agrado do Pai dar a vós o Reino"
        ]
       ],
@@ -1970,7 +1968,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Poclamação do Evangelho de Jesus Cristo segundo Lucas"
+        " Proclamação do Evangelho de Jesus Cristo segundo Lucas"
        ]
       ],
       "cite": "12, 32-34",
@@ -2007,6 +2005,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vuestro Padre ha tenido a bien daros el reino"
        ]
       ],
@@ -2028,6 +2035,15 @@
      }
     ],
     "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2057,6 +2073,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2069,6 +2094,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2243,7 +2277,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação"
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -2474,8 +2508,8 @@
  ],
  "title": {
   "la": "S. Paulini Nolani, episcopi",
-  "pt-BR": "San Paulino de Nola, obispo",
-  "en-US": "St. Paulino de Nola, bishop",
+  "pt-BR": "São Paulino de Nola, bispo",
+  "en-US": "Saint Paulinus of Nola, bishop",
   "es": "San Paulino de Nola, obispo",
   "it": "San Paolino da Nola, vescovo",
   "fr": "Saint Paulin de Nole, évêque",

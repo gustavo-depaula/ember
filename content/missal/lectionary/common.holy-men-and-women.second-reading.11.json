@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "11"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -80,6 +71,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Acima de tud tende caridade; pois o amor é o vínculo da perfeição."
        ]
       ],
@@ -118,6 +118,15 @@
       "k": "p",
       "lines": [
        [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A reading from the Letter of Saint Paul to the Colossians"
        ]
       ],
@@ -143,6 +152,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -203,6 +221,15 @@
       "k": "p",
       "lines": [
        [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sopra tutte queste cose rivestitevi della carità, che le unisce in modo perfetto."
        ]
       ],
@@ -247,6 +274,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Lettre de saint Paul Apôtre aux Colossiens"
        ]
       ],
@@ -280,6 +316,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

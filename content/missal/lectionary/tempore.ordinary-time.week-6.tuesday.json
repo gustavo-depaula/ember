@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -653,7 +653,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -665,7 +665,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 28 (29), 1 e 2.3ac-4.3b e 9b-10 (: 11b)",
+      "cite": "Sl 28 (29), 1 e 2.3ac-4.3b e 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -677,7 +677,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a and 2. 3ac-4. 3b and 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -689,7 +689,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Sal 28, 1a et 2. 3ac-4. 3b et 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -713,7 +713,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -725,7 +725,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 29 (28), 1-2. 3ac-4. 3b u. 9b-10 (R: vgl. 11b)",
+      "cite": "Ps 29 (28), 1-2. 3ac-4. 3b u. 9b-10 (R.: vgl. 11b)",
       "role": "title"
      }
     ]
@@ -2078,7 +2078,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 93, 12-13a. 14-15. 18-19 (: 12a)",
+      "cite": "Ps 93, 12-13a. 14-15. 18-19 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -2090,7 +2090,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 93 (94), 12-13a.14-15.18-19 (: 12a)",
+      "cite": "Sl 93 (94), 12-13a.14-15.18-19 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -2102,7 +2102,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 93, 12-13a. 14-15. 18-19 (: 12a)",
+      "cite": "Ps 93, 12-13a. 14-15. 18-19 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -2114,7 +2114,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 93, 12-13a. 14-15. 18-19 (: 12a)",
+      "cite": "Sal 93, 12-13a. 14-15. 18-19 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -2138,7 +2138,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 93, 12-13a. 14-15. 18-19 (: 12a)",
+      "cite": "Ps 93, 12-13a. 14-15. 18-19 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -2150,7 +2150,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 94 (93), 12-13. 14-15. 18-19 (R: vgl. 12a)",
+      "cite": "Ps 94 (93), 12-13. 14-15. 18-19 (R.: vgl. 12a)",
       "role": "title"
      }
     ]
@@ -2225,7 +2225,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Beato l'uomo a cui insegni la tua legge, Signore."
+        "Beato l'uomo a cui insegni la tua legge, Signore."
        ]
       ]
      }
@@ -2449,7 +2449,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Beato l'uomo a cui insegni la tua legge, Signore."
+        "Beato l'uomo a cui insegni la tua legge, Signore."
        ]
       ]
      }
@@ -2685,7 +2685,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Beato l'uomo a cui insegni la tua legge, Signore."
+        "Beato l'uomo a cui insegni la tua legge, Signore."
        ]
       ]
      }
@@ -2918,7 +2918,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Beato l'uomo a cui insegni la tua legge, Signore."
+        "Beato l'uomo a cui insegni la tua legge, Signore."
        ]
       ]
      }
@@ -3822,7 +3822,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. VI",
   "pt-BR": "Terça-feira da 6ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 6th Week: Tuesday",
+  "en-US": "Tuesday of the Sixth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 6ª semana",
   "it": "MARTEDI della VI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 6e semaine",

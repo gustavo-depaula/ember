@@ -17,39 +17,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "[Pro missionariis]"
-       ]
-      ]
-     }
-    ]
-   }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -79,6 +56,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Em atenção à tua palavra, vou lançar as redes."
        ]
       ],
@@ -104,6 +90,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -116,6 +111,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -145,6 +149,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sulla tua parola getterò le reti"
        ]
       ],
@@ -170,6 +183,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -182,6 +204,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -384,7 +415,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueletempo, Jesus estava na margem do lago de Genesaré. A multidão apertava-se ao redor de Jesus para ouvir a palavra de Deus. Jesus viu duas barcas paradas na margem do lago. Os pescadores haviam desembarcado e lavavam as redes. Subindo numa das barcas, que era de Simão, pediu que se afastasse um pouco da margem. Depois sentou-Se e, da barca, ensinava as multidões. Quando acabou de falar, disse a Simão: \"Avança para águas mais profundas e lança as redes para a pesca\". Simão respondeu: \"Mestre, nós trabalhamos a noite inteira e nada pescamos. Mas, em atenção à tua palavra, vou lançar as redes\". Assim fizeram, e apanharam tamanha quantidade de peixes que as redes se rompiam. Então fizeram sinal aos companheiros da outra barca, para que os viessem ajudá-los. Eles vieram e encheram as duas barcas, a ponto de quase se afundarem. Ao ver aquilo, Simão Pedro atirou-se aos pés de Jesus, dizendo: \"Senhor, afasta-te de mim, porque sou um pecador!\" É que o espanto se apoderara de Simão e de todos os seus companheiros, por causa da pesca que acabavam de fazer. Tiago e João, filhos de Zebedeu, que eram sócios de Simão, também ficaram espantados. Jesus, porem, disse a Simão: \"Não tenhas medo! De hoje em diante serás pescador de homens\". Então levaram as barcas para a margem, deixaram tudo e seguiram Jesus."
+        "Naqueletempo, Jesus estava na margem do lago de Genesaré. A multidão apertava-se ao redor de Jesus para ouvir a palavra de Deus. Jesus viu duas barcas paradas na margem do lago. Os pescadores haviam desembarcado e lavavam as redes. Subindo numa das barcas, que era de Simão, pediu que se afastasse um pouco da margem. Depois sentou-Se e, da barca, ensinava as multidões. Quando acabou de falar, disse a Simão: \"Avança para águas mais profundas e lança as redes para a pesca\". Simão respondeu: \"Mestre, nós trabalhamos a noite inteira e nada pescamos. Mas, em atenção à tua palavra, vou lançar as redes\". Assim fizeram, e apanharam tamanha quantidade de peixes que as redes se rompiam. Então fizeram sinal aos companheiros da outra barca, para que os viessem ajudá-los. Eles vieram e encheram as duas barcas, a ponto de quase se afundarem. Ao ver aquilo, Simão Pedro atirou-se aos pés de Jesus, dizendo: \"Senhor, afasta-te de mim, porque sou um pecador!\" É que o espanto se apoderara de Simão e de todos os seus companheiros, por causa da pesca que acabavam de fazer. Tiago e João, filhos de Zebedeu, que eram sócios de Simão, também ficaram espantados. Jesus, porém, disse a Simão: \"Não tenhas medo! De hoje em diante serás pescador de homens\". Então levaram as barcas para a margem, deixaram tudo e seguiram Jesus."
        ]
       ]
      },

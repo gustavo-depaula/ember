@@ -649,7 +649,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 15 (: Io 6, 63)",
+      "cite": "Ps 18, 8. 9. 10. 15 (R.: Io 6, 63)",
       "role": "title"
      }
     ],
@@ -661,7 +661,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18 B (19), 8.9.10.15 (: Jo 6, 63c)",
+      "cite": "Sl 18 B (19), 8.9.10.15 (R.: Jo 6, 63c)",
       "role": "title"
      }
     ],
@@ -673,7 +673,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 15 (: Io 6, 63)",
+      "cite": "Ps 18, 8. 9. 10. 15 (R.: Jn 6, 63)",
       "role": "title"
      }
     ],
@@ -685,7 +685,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 18, 8. 9. 10. 15 (: Io 6, 63)",
+      "cite": "Sal 18, 8. 9. 10. 15 (R.: Io 6, 63)",
       "role": "title"
      }
     ],
@@ -709,7 +709,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 15 (: Io 6, 63)",
+      "cite": "Ps 18, 8. 9. 10. 15 (R.: Io 6, 63)",
       "role": "title"
      }
     ],
@@ -721,7 +721,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18), 8. 9. 10. 11 u. 15 (R: vgl. Joh 6, 63b)",
+      "cite": "Ps 19 (18), 8. 9. 10. 11 u. 15 (R.: vgl. Joh 6, 63b)",
       "role": "title"
      }
     ]
@@ -1957,7 +1957,7 @@
       "k": "p",
       "lines": [
        [
-        "Todas as vezes que fizestes isso a um dos menores de meus irmãos foi a mim que o fisestes."
+        "Todas as vezes que fizestes isso a um dos menores de meus irmãos foi a mim que o fizestes."
        ]
       ],
       "role": "summary"
@@ -2659,7 +2659,7 @@
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada I — Feria secunda",
   "pt-BR": "Segunda-feira da 1ª Semana da Quaresma",
-  "en-US": "Season of Lent — 1st Week: Monday",
+  "en-US": "Monday of the First Week of Lent",
   "es": "Tiempo de Cuaresma — Lunes de la I Semana",
   "it": "LUNEDI DELLA I SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carêmebr — Lundi de la 1e semaine1e semaine",

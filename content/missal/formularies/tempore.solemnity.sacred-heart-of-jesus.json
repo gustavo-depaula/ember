@@ -353,7 +353,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -374,7 +374,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -458,7 +458,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -734,7 +734,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -747,7 +747,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -760,7 +760,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -773,7 +773,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -786,7 +786,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -799,7 +799,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -812,7 +812,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1979,7 +1979,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1988,7 +1988,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1997,7 +1997,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -2006,7 +2006,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -2057,7 +2057,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -2071,7 +2071,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -2085,7 +2085,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -2099,7 +2099,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -2113,7 +2113,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -2127,7 +2127,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -2141,7 +2141,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -2428,8 +2428,8 @@
  ],
  "title": {
   "la": "IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS — Feria VI post Dominicam II post Pentecosten — SACRATISSIMI CORDIS IESU",
-  "pt-BR": "SOLENIDADES DO SENHOR NO TEMPO COMUM — Sexta-feira após o 2º domingo depois de Pentecostes — SAGRADO CORAÇÃO DE JESUS",
-  "en-US": "THE MOST SACRED HEART OF JESUS",
+  "pt-BR": "Sagrado Coração de Jesus",
+  "en-US": "The Most Sacred Heart of Jesus",
   "es": "SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO — Viernes posterior al segundo domingo de Pentecostés — SAGRADO CORAZÓN DE JESÚS",
   "it": "SOLENNITÀ DEL SIGNORE NEL TEMPO ORDINARIO — Venerdì dopo la II domenica dopo Pentecoste — SACRATISSIMO CUORE DI GESÙ",
   "fr": "Temps ordinaire — SOLENNITÉ DU SACRÉ CŒUR",

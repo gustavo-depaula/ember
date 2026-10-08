@@ -561,7 +561,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 97, 1. 7-8. 9 (: 3cd)",
+      "cite": "Ps 97, 1. 7-8. 9 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -573,7 +573,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 97 (98), 1.7-8.9 (: 3cd)",
+      "cite": "Sl 97 (98), 1.7-8.9 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -585,7 +585,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 97, 1. 7-8. 9 (: 3cd)",
+      "cite": "Ps 97, 1. 7-8. 9 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -597,7 +597,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 97, 1. 7-8. 9 (: 3cd)",
+      "cite": "Sal 97, 1. 7-8. 9 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -621,7 +621,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 97, 1. 7-8. 9 (: 3cd)",
+      "cite": "Ps 97, 1. 7-8. 9 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -633,7 +633,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 98 (97), 1. 7-8. 9 (R: vgl. 3cd)",
+      "cite": "Ps 98 (97), 1. 7-8. 9 (R.: vgl. 3cd)",
       "role": "title"
      }
     ]
@@ -1470,7 +1470,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Hebr 1, 1-2",
+      "cite": "Hb 1, 1-2",
       "role": "title"
      },
      {
@@ -2026,7 +2026,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, João estava de novo com dois de seus discípulos e, vendo Jesus passar, disse: “Eis o Cordeiro de Deus!\" Ouvindo essas palavras, os dois discípulos seguiram Jesus. Voltando-se para eles e vendo que o estavam seguindo, Jesus perguntou: “Que estais procurando?” Eles disseram: “Rabi (que quer dizer: Mestre), onde moras?” Jesus respondeu: “Vide ver”. Foram pois ver onde ele morava e, nesse dia, permaneceram com ele. Era por volta das quatro da tarde. André, irmão de Simão Pedro, era um dos dois que ouviram as palavras de João e seguiram Jesus. Ele foi logo encontrar seu irmão Simão e lhe disse: “Encontramos o Messias (que quer dizer: Cristo)”. Então André conduziu Simão a Jesus. Jesus olhou bem para ele e disse: “Tu és Simão, filho de João; tu será chamado Cefas”(que quer dizer: Pedra)."
+        "Naquele tempo, João estava de novo com dois de seus discípulos e, vendo Jesus passar, disse: “Eis o Cordeiro de Deus!\" Ouvindo essas palavras, os dois discípulos seguiram Jesus. Voltando-se para eles e vendo que o estavam seguindo, Jesus perguntou: “Que estais procurando?” Eles disseram: “Rabi (que quer dizer: Mestre), onde moras?” Jesus respondeu: “Vinde ver”. Foram pois ver onde ele morava e, nesse dia, permaneceram com ele. Era por volta das quatro da tarde. André, irmão de Simão Pedro, era um dos dois que ouviram as palavras de João e seguiram Jesus. Ele foi logo encontrar seu irmão Simão e lhe disse: “Encontramos o Messias (que quer dizer: Cristo)”. Então André conduziu Simão a Jesus. Jesus olhou bem para ele e disse: “Tu és Simão, filho de João; tu será chamado Cefas”(que quer dizer: Pedra)."
        ]
       ]
      },
@@ -2323,8 +2323,8 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 4 ianuarii",
-  "pt-BR": "DIAS DE SEMANA DO TEMPO DO NATAL — 4 de janeiro",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 4",
+  "pt-BR": "4 de janeiro",
+  "en-US": "January 4",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 4 de enero",
   "it": "4 gennaio",
   "fr": "Temps de Noël",

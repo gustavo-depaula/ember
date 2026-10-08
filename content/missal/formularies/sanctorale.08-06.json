@@ -365,7 +365,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -386,7 +386,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -470,7 +470,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -787,7 +787,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -805,7 +805,7 @@
         " Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -870,7 +870,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1107,7 +1107,7 @@
        [
         {
          "m": "rubric",
-         "t": "De mysterio Transfigurationis. "
+         "t": "De mysterio Transfigurationis."
         }
        ]
       ]
@@ -1278,7 +1278,7 @@
       "k": "h4",
       "lines": [
        [
-        "Præface"
+        "Preface"
        ]
       ]
      },
@@ -1997,8 +1997,8 @@
  ],
  "title": {
   "la": "IN TRANSFIGURATIONE DOMINI",
-  "pt-BR": "TRANSFIGURAÇÃO DO SENHOR",
-  "en-US": "THE TRANSFIGURATION OF THE LORD",
+  "pt-BR": "Transfiguração do Senhor",
+  "en-US": "The Transfiguration of the Lord",
   "es": "LA TRANSFIGURACIÓN DEL SEÑOR",
   "it": "TRASFIGURAZIONE DEL SIGNORE",
   "fr": "TRANSFIGURATION DU SEIGNEUR",

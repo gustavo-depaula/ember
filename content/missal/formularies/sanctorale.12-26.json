@@ -360,7 +360,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -381,7 +381,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -465,7 +465,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1278,8 +1278,8 @@
  ],
  "title": {
   "la": "S. STEPHANI, PROTOMARTYRIS",
-  "pt-BR": "SANTO ESTÊVÃO, PROTOMÁRTIR",
-  "en-US": "SAINT STEPHEN, THE FIRST MARTYR",
+  "pt-BR": "Santo Estêvão, Protomártir",
+  "en-US": "Saint Stephen, the First Martyr",
   "es": "SAN ESTEBAN, PROTOMÁRTIR",
   "it": "SANTO STEFANO, primo martire",
   "fr": "SAINT ÉTIENNE, PREMIER MARTYR",

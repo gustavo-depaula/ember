@@ -3,36 +3,26 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      ],
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 109(110), 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
@@ -40,15 +30,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 109, 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 109 (110)",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 110 (109), 1-2. 3. 4-5 (R: 4b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 110 (109), 1-2. 3. 4-5 (R.: 4b)",
       "role": "title"
      }
     ]

@@ -3,60 +3,62 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 26, 1. 4. 7 et 8b et 9a. 13-14 (: 1a vel 13)",
+      ],
+      "cite": "Ps 26, 1. 4. 7 et 8b et 9a. 13-14 (R.: 1a vel 13)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 26, 1. 4. 7 et 8b et 9a. 13-14 (: 1a vel 13)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 26, 1. 4. 7 e 8b e 9a. 13-14 (R.: 1a ou 13)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 26, 1. 4. 7 et 8b et 9a. 13-14 (: 1a vel 13)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 26, 1. 4. 7 and 8b and 9a. 13-14 (R.: 1a or 13)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sal 26, 1. 4. 7 et 8b et 9a. 13-14 (: 1a vel 13)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 26, 1. 4. 7 et 8b et 9a. 13-14 (R.: 1a vel 13)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 26",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 26, 1. 4. 7 et 8b et 9a. 13-14 (: 1a vel 13)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 26, 1. 4. 7 et 8b et 9a. 13-14 (R.: 1a vel 13)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 27 (26), 1. 7-8. 9. 13-14 (R: 1a oder 13)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 27 (26), 1. 7-8. 9. 13-14 (R.: 1a oder 13)",
       "role": "title"
      }
     ]
@@ -181,7 +191,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
+        "J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
        ]
       ]
      }
@@ -233,7 +243,7 @@
         "O Senhor é minha luz e salvação;"
        ],
        [
-        "de quem eu terei medo? O Senhor é a proteção da minha vida; perante quem eu tremerei?."
+        "de quem eu terei medo? O Senhor é a proteção da minha vida; perante quem eu tremerei?"
        ]
       ]
      }
@@ -429,7 +439,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
+        "J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
        ]
       ]
      }
@@ -490,7 +500,7 @@
         "Ao Senhor eu peço apenas uma coisa,"
        ],
        [
-        "e é só isto que eu desejo:habitar no santuário do Senhor"
+        "e é só isto que eu desejo: habitar no santuário do Senhor"
        ],
        [
         "por toda a minha vida; saborear a suavidade do Senhor"
@@ -710,7 +720,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
+        "J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
        ]
       ]
      }
@@ -979,7 +989,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
+        "J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
        ]
       ]
      }
@@ -1037,7 +1047,7 @@
         "na terra dos viventes. Espera no Senhor e tem coragem,"
        ],
        [
-        "espera no Senhor!."
+        "espera no Senhor!"
        ]
       ]
      }
@@ -1233,7 +1243,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
+        "J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants."
        ]
       ]
      }

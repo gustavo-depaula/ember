@@ -454,7 +454,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -472,7 +472,7 @@
         "Glória",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -556,7 +556,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1425,7 +1425,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1438,7 +1438,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1451,7 +1451,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1494,7 +1494,7 @@
  ],
  "title": {
   "la": "S. MATTHIÆ, APOSTOLI",
-  "pt-BR": "SÃO MATIAS, APÓSTOLO",
+  "pt-BR": "São Matias, Apóstolo",
   "en-US": "Saint Matthias, Apostle",
   "es": "SAN MATÍAS, APÓSTOL",
   "it": "SAN MATTIA APOSTOLO",

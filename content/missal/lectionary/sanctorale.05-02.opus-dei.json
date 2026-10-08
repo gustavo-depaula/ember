@@ -707,7 +707,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 122 (121), 1-3. 4-5. 6-7. 8-9 (R: 1b)",
+      "cite": "Ps 122 (121), 1-3. 4-5. 6-7. 8-9 (R.: 1b)",
       "role": "title"
      }
     ]
@@ -1683,6 +1683,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós, como pedras vivas, formai um edifício espiritual."
        ]
       ],
@@ -1692,7 +1701,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura de Primeira Carta de São Pedro"
+        "Leitura da Primeira Carta de São Pedro"
        ]
       ],
       "cite": "2, 4-9",
@@ -1702,7 +1711,7 @@
       "k": "p",
       "lines": [
        [
-        "Carissimos: Aproximai-vos do Senhor, pedra viva, rejeitada pelos homens, mas escolhida e honrosa aos olhos de Deus. Do mesmo modo, também vós, como pedras vivas, formai um edificio espiriual, um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradaveis a Deus, por Jesus Cristo. Com efeito, nas Escrituras se lê: \"Eis que ponho em Sião uma pedra angular, escolhida e magnífica; quem nela confiar não será confundido\". A vós, portanto, que tendes fé, cabe a honra. Mas, para os que não crêem, \"a pedra que os construtores rejeitaram tornou-se a pedra angular, pedra de tropeço e rocha que faz cair\". Nela tropeçam os que não acolhem a Palavra; esse é o destino deles. Mas vós sois a raça escolhida, o sacerdocio do Reino, a nação santa, o povo que ele conquistou para proclamar as obras admiraveis daquele que vos chamou das trevas para a sua luz maravilhosa."
+        "Caríssimos: Aproximai-vos do Senhor, pedra viva, rejeitada pelos homens, mas escolhida e honrosa aos olhos de Deus. Do mesmo modo, também vós, como pedras vivas, formai um edifício espiritual, um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradaveis a Deus, por Jesus Cristo. Com efeito, nas Escrituras se lê: \"Eis que ponho em Sião uma pedra angular, escolhida e magnífica; quem nela confiar não será confundido\". A vós, portanto, que tendes fé, cabe a honra. Mas, para os que não creem, \"a pedra que os construtores rejeitaram tornou-se a pedra angular, pedra de tropeço e rocha que faz cair\". Nela tropeçam os que não acolhem a Palavra; esse é o destino deles. Mas vós sois a raça escolhida, o sacerdocio do Reino, a nação santa, o povo que ele conquistou para proclamar as obras admiraveis daquele que vos chamou das trevas para a sua luz maravilhosa."
        ]
       ]
      },
@@ -1755,6 +1764,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2069,25 +2087,6 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cdialy1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
@@ -2123,6 +2122,15 @@
      }
     ],
     "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

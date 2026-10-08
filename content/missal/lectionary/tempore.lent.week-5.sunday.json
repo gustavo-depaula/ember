@@ -199,7 +199,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Ezekiel"
+        "A reading from the Book of the Prophet Ezekiel"
        ]
       ],
       "cite": "37:12-14",
@@ -552,7 +552,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (: 7bc)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -564,7 +564,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 129 (130),1-2.3-4.5-6.7-8 (:7bc)",
+      "cite": "Sl 129 (130),1-2.3-4.5-6.7-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -576,7 +576,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (: 7bc)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -588,7 +588,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 129, 1-2. 3-4. 5-7a. 7bc-8 (: 7bc)",
+      "cite": "Sal 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -612,7 +612,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (: 7bc)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 7bc)",
       "role": "title"
      }
     ],
@@ -624,7 +624,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b. 6c-7a u. 8 (R: 7bc)",
+      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b. 6c-7a u. 8 (R.: 7bc)",
       "role": "title"
      }
     ]
@@ -893,7 +893,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "No Senhor, toda graça e redenção!."
+        "No Senhor, toda graça e redenção!"
        ]
       ]
      }
@@ -2171,7 +2171,7 @@
       "k": "p",
       "lines": [
        [
-        "Eu sou a resurreição, eu sou a vida."
+        "Eu sou a ressurreição, eu sou a vida."
        ],
        [
         "Quem crê em mim não morrerá eternamente."
@@ -2522,7 +2522,12 @@
     ]
    },
    "part": "gospel",
-   "cycle": "A"
+   "cycle": "A",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   }
   },
   {
    "text": {
@@ -2627,7 +2632,12 @@
    },
    "part": "gospel",
    "cycle": "A",
-   "role": "people"
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   }
   },
   {
    "text": {
@@ -3235,7 +3245,12 @@
     ]
    },
    "part": "gospel",
-   "cycle": "A"
+   "cycle": "A",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   }
   },
   {
    "text": {
@@ -3443,7 +3458,12 @@
     ]
    },
    "part": "gospel",
-   "cycle": "A"
+   "cycle": "A",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "long"
+   }
   },
   {
    "text": {
@@ -3548,7 +3568,12 @@
    },
    "part": "gospel",
    "cycle": "A",
-   "role": "people"
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "long"
+   }
   },
   {
    "text": {
@@ -3712,7 +3737,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação"
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -4024,7 +4049,12 @@
     ]
    },
    "part": "gospel",
-   "cycle": "A"
+   "cycle": "A",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "long"
+   }
   },
   {
    "text": {
@@ -4129,7 +4159,12 @@
    },
    "cycle": "A",
    "role": "people",
-   "part": "gospel"
+   "part": "gospel",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "long"
+   }
   },
   {
    "text": {
@@ -4249,7 +4284,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Jeremiah"
+        "A reading from the Book of the Prophet Jeremiah"
        ]
       ],
       "cite": "31:31-34",
@@ -4582,7 +4617,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 50, 3-4. 12-13. 14-15 (: 12a)",
+      "cite": "Ps 50, 3-4. 12-13. 14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4594,7 +4629,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 50 (51), 3-4.12-13.14-15 (: 12a)",
+      "cite": "Sl 50 (51), 3-4.12-13.14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4606,7 +4641,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 50, 3-4. 12-13. 14-15 (: 12a)",
+      "cite": "Ps 50, 3-4. 12-13. 14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4618,7 +4653,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 50, 3-4. 12-13. 14-15 (: 12a)",
+      "cite": "Sal 50, 3-4. 12-13. 14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4642,7 +4677,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 50, 3-4. 12-13. 14-15 (: 12a)",
+      "cite": "Ps 50, 3-4. 12-13. 14-15 (R.: 12a)",
       "role": "title"
      }
     ],
@@ -4654,7 +4689,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 51 (50), 3-4. 12-13. 14-15 (R: vgl. 12a)",
+      "cite": "Ps 51 (50), 3-4. 12-13. 14-15 (R.: vgl. 12a)",
       "role": "title"
      }
     ]
@@ -6453,7 +6488,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, havia alguns gregos entre os que tinham subido a Jerusalém, para adorar durante a festa. Aproximaram-se de Filipe, que era de Betsaida da Galileia, e disseram: \"Senhor, gostaríamos de ver Jesus\". Filipe combinou com André, e os dois foram falar com Jesus. Jesus respondeu-lhes: \"Chegou a hora em que o Filho do Homem vai ser glorificado. Em verdade, em verdade vos digo: Se o grão de trigo que cai na terra não morre, ele continua só um grão de trigo; mas se morre, então produz muito fruto. Quem se apega à sua vida perde-a; mas quem faz pouca conta de sua vida neste mundo conservá-la-á para a vida eterna. Se alguém me quer servir, siga-me, e onde estou estará também o meu servo. Se alguem me serve, meu Pai o honrará. Agora sinto-me angustiado. E que direi? 'Pai, livra-me desta hora!'? Mas foi precisamente para esta hora que eu vim. Pai, glorifica o teu nome!\" Então, veio um voz do céu: \"Eu o glorifiquei e o glorificarei de novo!\" A multidão que lá estava e ouviu, dizia que tinha sido um trovão. Outros afirmavam: \"Foi um anjo que falou com ele\". Jesus respondeu e disse: \"Esta voz que ouvistes não foi por causa de mim, mas por causa de vós. É agora o julgamento deste mundo. Agora o chefe deste mundo vai ser expulso, e eu, quando for elevado da terra, atrairei todos a mim\". Jesus falava assim para indicar de que morte iria morrer."
+        "Naquele tempo, havia alguns gregos entre os que tinham subido a Jerusalém, para adorar durante a festa. Aproximaram-se de Filipe, que era de Betsaida da Galileia, e disseram: \"Senhor, gostaríamos de ver Jesus\". Filipe combinou com André, e os dois foram falar com Jesus. Jesus respondeu-lhes: \"Chegou a hora em que o Filho do Homem vai ser glorificado. Em verdade, em verdade vos digo: Se o grão de trigo que cai na terra não morre, ele continua só um grão de trigo; mas se morre, então produz muito fruto. Quem se apega à sua vida perde-a; mas quem faz pouca conta de sua vida neste mundo conservá-la-á para a vida eterna. Se alguém me quer servir, siga-me, e onde estou estará também o meu servo. Se alguém me serve, meu Pai o honrará. Agora sinto-me angustiado. E que direi? 'Pai, livra-me desta hora!'? Mas foi precisamente para esta hora que eu vim. Pai, glorifica o teu nome!\" Então, veio um voz do céu: \"Eu o glorifiquei e o glorificarei de novo!\" A multidão que lá estava e ouviu, dizia que tinha sido um trovão. Outros afirmavam: \"Foi um anjo que falou com ele\". Jesus respondeu e disse: \"Esta voz que ouvistes não foi por causa de mim, mas por causa de vós. É agora o julgamento deste mundo. Agora o chefe deste mundo vai ser expulso, e eu, quando for elevado da terra, atrairei todos a mim\". Jesus falava assim para indicar de que morte iria morrer."
        ]
       ]
      },
@@ -6841,7 +6876,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -7297,7 +7332,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7309,7 +7344,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (: 3)",
+      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7321,7 +7356,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7333,7 +7368,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 125, 1-2ab. 2cd-3. 4-5. 6 (: 3)",
+      "cite": "Sal 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7357,7 +7392,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -7369,7 +7404,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 3)",
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ]
@@ -7635,7 +7670,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor, exultemos de alegria!."
+        "Maravilhas fez conosco o Senhor, exultemos de alegria!"
        ]
       ]
      }
@@ -7871,7 +7906,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor, exultemos de alegria!."
+        "Maravilhas fez conosco o Senhor, exultemos de alegria!"
        ]
       ]
      }
@@ -8107,7 +8142,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor, exultemos de alegria!."
+        "Maravilhas fez conosco o Senhor, exultemos de alegria!"
        ]
       ]
      }
@@ -8343,7 +8378,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor, exultemos de alegria!."
+        "Maravilhas fez conosco o Senhor, exultemos de alegria!"
        ]
       ]
      }
@@ -8911,7 +8946,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Joel 2, 12-13",
@@ -9755,8 +9790,8 @@
  ],
  "title": {
   "la": "DOMINICA V IN QUADRAGESIMA",
-  "pt-BR": "5º DOMINGO DA QUARESMA",
-  "en-US": "Season of Lent — 5th Week: Sunday",
+  "pt-BR": "5º Domingo da Quaresma",
+  "en-US": "Fifth Sunday of Lent",
   "es": "V DOMINGO DE CUARESMA",
   "it": "V DOMENICA DI QUARESIMA",
   "fr": "Temps de Carême — 5ème Dimanche",

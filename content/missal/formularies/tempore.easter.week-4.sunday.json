@@ -272,7 +272,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -293,7 +293,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -377,7 +377,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -639,7 +639,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -657,7 +657,7 @@
         "Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -722,7 +722,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1348,7 +1348,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1361,7 +1361,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1374,7 +1374,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1433,8 +1433,8 @@
  ],
  "title": {
   "la": "DOMINICA IV PASCHÆ",
-  "pt-BR": "QUARTO DOMINGO DA PÁSCOA",
-  "en-US": "Easter Season — FOURTH SUNDAY OF EASTER",
+  "pt-BR": "4º Domingo da Páscoa",
+  "en-US": "Fourth Sunday of Easter",
   "es": "IV DOMINGO DE PASCUA",
   "it": "IV DOMENICA DI PASQUA",
   "fr": "4e DIMANCHE DE PÂQUES",

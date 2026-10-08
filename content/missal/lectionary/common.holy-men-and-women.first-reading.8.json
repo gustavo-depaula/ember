@@ -3,25 +3,7 @@
  "items": [
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
@@ -36,6 +18,15 @@
   {
    "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -102,6 +93,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "É valiosa a oração com o jejum, e a esmola com justiça."
        ]
       ],
@@ -111,7 +111,7 @@
       "k": "p",
       "lines": [
        [
-        "Lectura do Livro de Tobias"
+        "Leitura do Livro de Tobias"
        ]
       ],
       "cite": "12, 6-13",
@@ -121,7 +121,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, o anjo falou a Tobit e seu filho: \"Bendizei a Deus e dai-lhe graças, diante de todos os viventes, pelos benefícios que vos concedeu. Bendizei e cantai o seu nome. Manifestai a todos os homens as obras de Deus, como é justo, e não hesiteis em expressar-lhe o vosso reconhecimento. Se é bom guardar o segredo do rei, é justo revelar e publicar as obras de Deus. Fazei o bem, e o mal não vos atingirá. É valiosa a oração com o jejum, e a esmola com a justiça. Melhor é pouco com justiça, do que muito com iniquidade. Melhor é dar esmolas do que acumular tesouros. A esmola livra da morte e purifica de todo o pecado. Os que dão esmola serão saciados de vida. Aqueles, porém,que cometem o pecado e a injustiça são inimigos de si mesmos. E agora vos manifestarei toda a verdade, sem vos ocultar coisa alguma. Já vos declarei e disse: \"É bom guardar o segredo do rei, mas as obras de Deus devem ser reveladas, com a gloria devida. Pois bem, quando tu e Sara fazíeis oração, eu apresentava o memorial da vossa prece diante da glória do Senhor. E fazia o mesmo quando tu, Tobit, enterravas os mortos. Quando não hesitaste em levantar-te da mesa, deixando a refeição e saindo para sepultar um morto, fui enviado a ti para te pôr à prova\"."
+        "Naqueles dias, o anjo falou a Tobit e seu filho: \"Bendizei a Deus e dai-lhe graças, diante de todos os viventes, pelos benefícios que vos concedeu. Bendizei e cantai o seu nome. Manifestai a todos os homens as obras de Deus, como é justo, e não hesiteis em expressar-lhe o vosso reconhecimento. Se é bom guardar o segredo do rei, é justo revelar e publicar as obras de Deus. Fazei o bem, e o mal não vos atingirá. É valiosa a oração com o jejum, e a esmola com a justiça. Melhor é pouco com justiça, do que muito com iniquidade. Melhor é dar esmolas do que acumular tesouros. A esmola livra da morte e purifica de todo o pecado. Os que dão esmola serão saciados de vida. Aqueles, porém, que cometem o pecado e a injustiça são inimigos de si mesmos. E agora vos manifestarei toda a verdade, sem vos ocultar coisa alguma. Já vos declarei e disse: \"É bom guardar o segredo do rei, mas as obras de Deus devem ser reveladas, com a gloria devida. Pois bem, quando tu e Sara fazíeis oração, eu apresentava o memorial da vossa prece diante da glória do Senhor. E fazia o mesmo quando tu, Tobit, enterravas os mortos. Quando não hesitaste em levantar-te da mesa, deixando a refeição e saindo para sepultar um morto, fui enviado a ti para te pôr à prova\"."
        ]
       ]
      },
@@ -136,6 +136,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -165,6 +174,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -216,6 +234,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "È meglio la preghiera con il digiuno e l'elemosina con la giustizia."
        ]
       ],
@@ -263,6 +290,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de Tobie"
        ]
       ],
@@ -288,6 +324,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

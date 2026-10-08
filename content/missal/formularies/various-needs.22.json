@@ -570,7 +570,7 @@
          "m": "rubric",
          "t": "] "
         },
-        " aiutaci benevolo ad accogliere con gioia la tua parola di pace e a essere docili alla tua volontà di ricondurre a Cristo tutte le cose. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+        "aiutaci benevolo ad accogliere con gioia la tua parola di pace e a essere docili alla tua volontà di ricondurre a Cristo tutte le cose. Egli è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
        ]
       ]
      }
@@ -680,7 +680,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien, sobre todo en tiempo pascual: "
+         "t": "O bien, sobre todo en tiempo pascual:"
         }
        ]
       ]
@@ -871,7 +871,7 @@
         "Dio, autore della vera libertà, che vuoi fare di tutta l'umanità un popolo solo, libero da ogni schiavitù ",
         {
          "m": "rubric",
-         "t": " ["
+         "t": "["
         },
         " e offri a noi un tempo di grazia e di benedizione ",
         {
@@ -1359,7 +1359,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1373,7 +1373,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1401,7 +1401,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -1429,7 +1429,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1443,7 +1443,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1764,8 +1764,8 @@
  ],
  "title": {
   "la": "I. PRO SANCTA ECCLESIA",
-  "pt-BR": "I. PELA SANTA IGREJA",
-  "en-US": "I. FOR HOLY CHURCH",
+  "pt-BR": "I. Pela Santa Igreja",
+  "en-US": "I. For Holy Church",
   "es": "I. POR LA SANTA IGLESIA",
   "it": "I. PER LA SANTA CHIESA",
   "fr": "I. POUR LA SAINTE ÉGLISE",

@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -645,7 +645,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3a)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -657,7 +657,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (: 3a)",
+      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3a)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 125, 1-2ab. 2cd-3. 4-5. 6 (: 3a)",
+      "cite": "Sal 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -705,7 +705,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 3a)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -717,7 +717,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 3)",
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 3)",
       "role": "title"
      }
     ]
@@ -986,7 +986,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor!."
+        "Maravilhas fez conosco o Senhor!"
        ]
       ]
      }
@@ -1691,7 +1691,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Maravilhas fez conosco o Senhor!."
+        "Maravilhas fez conosco o Senhor!"
        ]
       ]
      }
@@ -2330,7 +2330,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2342,7 +2342,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 127 (128), 1-2.3.4-5 (: cf. 1a)",
+      "cite": "Sl 127 (128), 1-2.3.4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2354,7 +2354,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2366,7 +2366,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Sal 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2390,7 +2390,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2402,7 +2402,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R: vgl. 1)",
+      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -3278,7 +3278,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Graças te dou, ó Pai, Senhor do céu e da terra, pois, revelaste: os mistérios do teu Reino aos pequeninos, escondendo-o aos doutres!"
+        "Graças te dou, ó Pai, Senhor do céu e da terra, pois, revelaste: os mistérios do teu Reino aos pequeninos, escondendo-o aos doutores!"
        ],
        [
         "Aleluia."
@@ -4028,7 +4028,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXX",
   "pt-BR": "Terça-feira da 30ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 30th Week: Tuesday",
+  "en-US": "Tuesday of the Thirtieth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 30ª semana",
   "it": "MARTEDI della XXX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 30e semaine",

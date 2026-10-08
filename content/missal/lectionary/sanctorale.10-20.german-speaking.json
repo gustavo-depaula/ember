@@ -31,73 +31,489 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css2l2"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Infirma mundi elegit Deus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vidéte vocatiónem vestram, fratres; quia non multi sapiéntes secúndum carnem, non multi poténtes, non multi nóbiles; sed, quæ stulta sunt mundi, elégit Deus, ut confúndat sapiéntes, et infírma mundi elégit Deus, ut confúndat fórtia, et ignobília mundi et contemptibília elégit Deus, quæ non sunt, ut ea, quæ sunt, destrúeret, ut non gloriétur omnis caro in conspéctu Dei."
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ex ipso autem vos estis in Christo Iesu, qui factus est sapiéntia nobis a Deo et iustítia et sanctificátio et redémptio, ut quemádmodum scriptum est: «Qui gloriátur, in Dómino gloriétur»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus escolheu o que o mundo considera como fraco."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos, considerai vós mesmos, como fostes chamados por Deus. Pois entre vós não há muitos sábios de sabedoria humana nem muitos poderosos nem muitos nobres. Na verdade, Deus escolheu o que o mundo considera como estúpido, para assim confundir os sábios; Deus escolheu o que o mundo considera como fraco, para assim confundir o que é forte; Deus escolheu o que para o mundo é sem importância e desprezado, o que não tem nenhuma serventia, para assim mostrar a inutilidade do que é considerado importante, para que ninguém possa gloriar-se diante dele. É graças a ele que vós estais em Cristo Jesus, o qual se tornou para nós, da parte de Deus: sabedoria, justiça, santificação e libertação, para que, como está escrito, \"quem se gloria, glorie-se no Senhor\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to the Corinthians"
+       ]
+      ],
+      "cite": "1:26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Take yourselves for instance, brothers, at the time when you were called: how many of you were wise in the ordinary sense of the word, how many were influential people, or came from noble families? No, it was to shame the wise that God chose what is foolish by human reckoning, and to shame what is strong that he chose what is weak by human reckoning; those whom the world thinks common and contemptible are the ones that God has chosen - those who are nothing at all to show up those who are everything. The human race has nothing to boast about to God, but you, God has made members of Christ Jesus and by God's doing he has become our wisdom, and our virtue, and our holiness, and our freedom. As scripture says: if anyone wants to boast, let him boast about the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios ha escogido lo débil del mundo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fijaos en vuestra asamblea, hermanos: no hay en ella muchos sabios en lo humano, ni muchos poderosos, ni muchos aristócratas; sino que, lo necio del mundo lo ha escogido Dios para humillar a los sabios, y lo débil del mundo lo ha escogido Dios para humillar lo poderoso."
+       ],
+       [
+        "Aún más, ha escogido la gente baja del mundo, lo despreciable, lo que no cuenta, para anular a lo que cuenta, de modo que nadie pueda gloriarse en presencia del Señor."
+       ],
+       [
+        "A él se debe que vosotros estéis en Cristo Jesús, el cual se ha hecho para nosotros sabiduría de parte de Dios, justicia, santificación y redención."
+       ],
+       [
+        "Y así —como está escrito—: «el que se gloríe, que se gloríe en el Señor»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio ha scelto quello che è debole per il mondo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Considerate la vostra chiamata, fratelli: non ci sono fra voi molti sapienti dal punto di vista umano, né molti potenti, né molti nobili."
+       ],
+       [
+        "Ma quello che è stolto per il mondo, Dio lo ha scelto per confondere i sapienti; quello che è debole per il mondo, Dio lo ha scelto per confondere i forti; quello che è ignobile e disprezzato per il mondo, quello che è nulla, Dio lo ha scelto per ridurre al nulla le cose che sono, perché nessuno possa vantarsi di fronte a Dio."
+       ],
+       [
+        "Grazie a lui voi siete in Cristo Gesù, il quale per noi è diventato sapienza per opera di Dio, giustizia, santificazione e redenzione, perché, come sta scritto, chi si vanta, si vanti nel Signore."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, vous qui avez été appelés par Dieu, regardez bien : parmi vous, il n'y a pas beaucoup de sages aux yeux des hommes, ni de gens puissants ou de haute naissance. Au contraire, ce qu'il y a de fou dans le monde, voilà ce que Dieu a choisi, pour couvrir de confusion les sages ; ce qu'il y a de faible dans le monde, voilà ce que Dieu a choisi, pour couvrir de confusion ce qui est fort ; ce qui est d'origine modeste, méprisé dans le monde, ce qui n'est pas, voilà ce que Dieu a choisi, pour réduire à rien ce qui est ; ainsi aucun être de chair ne pourra s'enorgueillir devant Dieu. C'est grâce à Dieu, en effet, que vous êtes dans le Christ Jésus, lui qui est devenu pour nous sagesse venant de Dieu, justice, sanctification, rédemption. Ainsi, comme il est écrit : Celui qui veut être fier, qu'il mette sa fierté dans le Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seht auf eure Berufung, Brüder! Da sind nicht viele Weise im irdischen Sinn, nicht viele Mächtige, nicht viele Vornehme, sondern das Törichte in der Welt hat Gott erwählt, um die Weisen zuschanden zu machen, und das Schwache in der Welt hat Gott erwählt, um das Starke zuschanden zu machen. Und das Niedrige in der Welt und das Verachtete hat Gott erwählt: das, was nichts ist, um das, was etwas ist, zu vernichten, damit kein Mensch sich rühmen kann vor Gott."
+       ],
+       [
+        "Von ihm her seid ihr in Christus Jesus, den Gott für uns zur Weisheit gemacht hat, zur Gerechtigkeit, Heiligung und Erlösung. Wer sich also rühmen will, der rühme sich des Herrn; so heißt es schon in der Schrift."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.3"
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.2"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 15(16), 1-2a y 5. 7-8. 11 (R.: cf. 5a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 15(16), 1-2a e 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "15, 1-2a and 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 15, 1-2a y 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
@@ -105,7 +521,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 15 (16)",
       "role": "title"
      }
@@ -113,16 +533,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R: vgl. 5a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -915,46 +1343,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.9"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -984,6 +1382,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós, que me seguistes, recebereis cem vezes mais."
        ]
       ],
@@ -1009,17 +1416,36 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
         },
-        " A reading from the holy Gospel according to Matthew 19:27-29"
+        " A reading from the holy Gospel according to Matthew"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "19, 27-29"
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1049,6 +1475,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Voi che mi avete seguito, riceverete cento volte tanta."
        ]
       ],
@@ -1074,6 +1509,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1086,6 +1530,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

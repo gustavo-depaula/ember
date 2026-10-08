@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -639,7 +639,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 2-3. 10-11. 12-13ab (: 9a)",
+      "cite": "Ps 144, 2-3. 10-11. 12-13ab (R.: 9a)",
       "role": "title"
      }
     ],
@@ -651,7 +651,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 2-3.10-11.12-13ab (: 9a)",
+      "cite": "Sl 144 (145), 2-3.10-11.12-13ab (R.: 9a)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 144, 2-3. 10-11. 12-13ab (: 9a)",
+      "cite": "Ps 144, 2-3. 10-11. 12-13ab (R.: 9a)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 2-3. 10-11. 12-13ab (: 9a)",
+      "cite": "Sal 144, 2-3. 10-11. 12-13ab (R.: 9a)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 2-3. 10-11. 12-13ab (: 9a)",
+      "cite": "Ps 144, 2-3. 10-11. 12-13ab (R.: 9a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 2-3. 10-11. 12-13b (R: 9a)",
+      "cite": "Ps 145 (144), 2-3. 10-11. 12-13b (R.: 9a)",
       "role": "title"
      }
     ]
@@ -1719,7 +1719,7 @@
       "k": "p",
       "lines": [
        [
-        "Parlavra do Senhor."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -2078,7 +2078,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a)",
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -2090,7 +2090,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 44 (45), 11-12.14-15.16-17 (: 11a)",
+      "cite": "Sl 44 (45), 11-12.14-15.16-17 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -2102,7 +2102,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a)",
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -2114,7 +2114,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 44, 11-12. 14-15. 16-17 (: 11a)",
+      "cite": "Sal 44, 11-12. 14-15. 16-17 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -2138,7 +2138,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a)",
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -2150,7 +2150,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 45 (44), 11-12. 14-15. 16-17 (R: 11a)",
+      "cite": "Ps 45 (44), 11-12. 14-15. 16-17 (R.: 11a)",
       "role": "title"
      }
     ]
@@ -2897,7 +2897,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Escutai, minha filha, olhai, ouvi isto!."
+        "Escutai, minha filha, olhai, ouvi isto!"
        ]
       ]
      }
@@ -3903,7 +3903,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXIII",
   "pt-BR": "Quarta-feira da 23ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 23rd Week: Wednesday",
+  "en-US": "Wednesday of the Twenty-Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 23ª semana",
   "it": "MERCOLEDI della XXIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 23e semaine",

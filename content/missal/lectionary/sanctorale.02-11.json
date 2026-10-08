@@ -634,38 +634,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.blessed-virgin-mary.psalm.2"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Iudt 13, 18bcde. 19 (: 15, 9d)",
+      ],
+      "cite": "Iudt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Jt 13,18bcde.19 (R.: 15,9d)",
       "role": "title"
      }
@@ -673,15 +661,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jdt 13, 18bcde. 19 (: 15, 9d)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Jdt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Jdt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
@@ -689,7 +685,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Gdt 13, 18-19",
       "role": "title"
      }
@@ -697,16 +697,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Iudt 13, 18bcde. 19 (: 15, 9d)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Iudt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jdt 13, 18bc. 19 u. 20bc (R: vgl. 15, 9b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Jdt 13, 18bc. 19 u. 20bc (R.: vgl. 15, 9b)",
       "role": "title"
      }
     ]
@@ -1275,30 +1283,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.blessed-virgin-mary.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Cf. Lc 1, 45",
       "role": "title"
      },
@@ -1339,7 +1331,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Cf. Lc 1, 45",
       "role": "title"
      },
@@ -1377,7 +1373,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Cf. Lk 1, 45",
       "role": "title"
      },
@@ -1399,7 +1399,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Cf. Lc 1, 45",
       "role": "title"
      },
@@ -1440,7 +1444,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. Lc 1, 45.",
       "role": "title"
      },
@@ -1478,7 +1486,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Cf. Lc 1, 45",
       "role": "title"
      },
@@ -1516,7 +1528,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Lk 1, 45",
       "role": "title"
      },
@@ -2290,7 +2306,7 @@
  ],
  "title": {
   "la": "Beatæ Maríæ Virginis de Lourdes",
-  "pt-BR": "Nossa Senhora de Lourdes",
+  "pt-BR": "Bem-aventurada Virgem Maria de Lourdes",
   "en-US": "Our Lady of Lourdes",
   "es": "Nuestra Señora de Lourdes",
   "it": "Beata Vergine Maria di Lourdes",

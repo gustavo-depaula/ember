@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -645,7 +645,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 150, 1-2. 3-4. 5-6 (: 6)",
+      "cite": "Ps 150, 1-2. 3-4. 5-6 (R.: 6)",
       "role": "title"
      }
     ],
@@ -657,7 +657,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 150, 1-2.3-4.5-6 (: 6)",
+      "cite": "Sl 150, 1-2.3-4.5-6 (R.: 6)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 150, 1-2. 3-4. 5-6 (: 6)",
+      "cite": "Ps 150, 1-2. 3-4. 5-6 (R.: 6)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 150, 1-2. 3-4. 5-6 (: 6)",
+      "cite": "Sal 150, 1-2. 3-4. 5-6 (R.: 6)",
       "role": "title"
      }
     ],
@@ -705,7 +705,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 150, 1-2. 3-4. 5-6 (: 6)",
+      "cite": "Ps 150, 1-2. 3-4. 5-6 (R.: 6)",
       "role": "title"
      }
     ],
@@ -717,7 +717,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 150, 1-2. 3-4. 5-6 (R: 6)",
+      "cite": "Ps 150, 1-2. 3-4. 5-6 (R.: 6)",
       "role": "title"
      }
     ]
@@ -2082,7 +2082,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 138, 1-3. 13-14ab. 23-24 (: 24b)",
+      "cite": "Ps 138, 1-3. 13-14ab. 23-24 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2094,7 +2094,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 138 (139), 1-2 e 3b.13-14ab.23-24 (: 24b)",
+      "cite": "Sl 138 (139), 1-2 e 3b.13-14ab.23-24 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2106,7 +2106,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 138, 1-3. 13-14ab. 23-24 (: 24b)",
+      "cite": "Ps 138, 1-3. 13-14ab. 23-24 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2118,7 +2118,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 138, 1-3. 13-14ab. 23-24 (: 24b)",
+      "cite": "Sal 138, 1-3. 13-14ab. 23-24 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2142,7 +2142,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 138, 1-3. 13-14ab. 23-24 (: 24b)",
+      "cite": "Ps 138, 1-3. 13-14ab. 23-24 (R.: 24b)",
       "role": "title"
      }
     ],
@@ -2154,7 +2154,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 139 (138), 1-3. 13-14. 23-24 (R: vgl. 24b)",
+      "cite": "Ps 139 (138), 1-3. 13-14. 23-24 (R.: vgl. 24b)",
       "role": "title"
      }
     ]
@@ -2919,7 +2919,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Conduzi-me no caminho para a vida, ó Senhor!."
+        "Conduzi-me no caminho para a vida, ó Senhor!"
        ]
       ]
      }
@@ -3835,7 +3835,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXIII",
   "pt-BR": "Quinta-feira da 23ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 23rd Week: Thursday",
+  "en-US": "Thursday of the Twenty-Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 23ª semana",
   "it": "GIOVEDI della XXIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 23e semaine",

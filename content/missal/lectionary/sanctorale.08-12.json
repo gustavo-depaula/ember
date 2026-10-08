@@ -98,49 +98,526 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css1f11"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
+        "Mulier timens Dominum ipsa laudabitur."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Proverbiórum"
+       ]
+      ],
+      "cite": "31, 10-13. 19-20. 30-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mulíerem fortem quis invéniet? Longe super gemmas prétium eius. Confídit in ea cor viri sui et spóliis non indigébit. Reddet ei bonum et non malum ómnibus diébus vitæ suæ. Quæsívit lanam et linum et operáta est delectatióne mánuum suárum."
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Manum suam misit ad colos, et dígiti eius apprehendérunt fusum. Palmas suas apéruit ínopi et manum suam exténdit ad páuperem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fallax grátia et vana est pulchritúdo; múlier timens Dóminum ipsa laudábitur. Date ei de fructu mánuum suárum, et laudent eam in portis ópera eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A mulher que teme ao Senhor, essa sim, merece louvor."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro dos Provérbios"
+       ]
+      ],
+      "cite": "31, 10-13.19-20.30-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uma mulher forte, quem a encontrará? Ela vale muito mais do que as joias. Seu marido confia nela plenamente, e não terá falta de recursos. Ela lhe dá só alegria e nenhum desgosto, todos os dias de sua vida. Procura lã e linho, e com habilidade trabalham as suas mãos. Estende a mão para a roca e seus dedos seguram o fuso. Abre suas mãos ao necessitado e estende suas mãos ao pobre. O encanto é enganador e a beleza é passageira; a mulher que teme ao Senhor, essa sim, merece louvor. Proclamem o êxito de suas mãos, e na praça louvem-na as suas obras!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Proverbs"
+       ]
+      ],
+      "cite": "31:10-13.19-20.30-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A perfect wife-who can find her? She is far beyond the price of pearls. Her husband's heart has confidence in her, from her he will derive no little profit. Advantage and not hurt she brings him all the days of her life. She is always busy with wool and with flax, she does her work with eager hands. She sets her hands to the distaff, her fingers grasp the spindle. She holds out her hand to the poor, she opens her arms to the needy. Charm is deceitful, and beauty empty; the woman who is wise is the one to praise Give her a share in what her hands have worked for, and let her works tell her praises at the city gates."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La mujer que teme al Señor merece alabanza"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de los Proverbios"
+       ]
+      ],
+      "cite": "31, 10-13.19-20.30-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Una mujer fuerte, ¿quién la hallará?"
+       ],
+       [
+        "Supera en valor a las perlas."
+       ],
+       [
+        "Su marido se fía de ella,"
+       ],
+       [
+        "pues no le faltan riquezas."
+       ],
+       [
+        "Le trae ganancias, no pérdidas,"
+       ],
+       [
+        "todos los días de su vida."
+       ],
+       [
+        "Busca la lana y el lino"
+       ],
+       [
+        "y los trabaja con la destreza de sus manos."
+       ],
+       [
+        "Aplica sus manos al huso,"
+       ],
+       [
+        "con sus dedos sostiene la rueca."
+       ],
+       [
+        "Abre sus manos al necesitado"
+       ],
+       [
+        "y tiende sus brazos al pobre."
+       ],
+       [
+        "Engañosa es la gracia, fugaz la hermosura;"
+       ],
+       [
+        "la que teme al Señor merece alabanza."
+       ],
+       [
+        "Cantadle por el éxito de su trabajo,"
+       ],
+       [
+        "que sus obras la alaben en público."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La donna perfetta lavora volentieri con le sue mani."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro dei Proverbi"
+       ]
+      ],
+      "cite": "31, 10-13.19-20.30-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Una donna forte chi potrà trovarla?"
+       ],
+       [
+        "Ben superiore alle perle è il suo valore."
+       ],
+       [
+        "In lei confida il cuore del marito e non verrà a mancargli il profitto."
+       ],
+       [
+        "Gli dà felicità e non dispiacere per tutti i giorni della sua vita."
+       ],
+       [
+        "Si procura lana e lino e Li lavora volentieri con le mani."
+       ],
+       [
+        "Stende la sua mano alla conocchia e le sue dita tengono il fuso."
+       ],
+       [
+        "Apre le sue palme al misero, stende la mano al povero."
+       ],
+       [
+        "Illusorio è il fascino e fugace la bellezza, ma la donna che teme Dio è da lodare."
+       ],
+       [
+        "Siatele riconoscenti per il frutto delle sue mani e le sue opere la lodino alle porte della città."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre des Proverbes"
+       ]
+      ],
+      "cite": "31, 10-13. 19-20. 30-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Une femme parfaite, qui la trouvera ? Elle est précieuse plus que les perles ! Son mari peut lui faire confiance : il ne manquera pas de ressources. Elle fait son bonheur, et non pas sa ruine, tous les jours de sa vie. Elle sait choisir la laine et le lin, et ses mains travaillent volontiers. Elle tend la main vers la quenouille, ses doigts dirigent le fuseau. Ses doigts s'ouvrent en faveur du pauvre, elle tend la main au malheureux."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le charme est trompeur et la beauté s'évanouit ; seule, la femme qui craint le Seigneur mérite la louange. Célébrez-la pour les fruits de son travail : et qu'aux portes de la ville, ses œuvres disent sa louange !"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch der Sprichwörter"
+       ]
+      ],
+      "cite": "31, 10-13. 19-20. 30-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eine tüchtige Frau, wer findet sie? Sie übertrifft alle Perlen an Wert. Das Herz ihres Mannes vertraut auf sie, und es fehlt ihm nicht an Gewinn. Sie tut ihm Gutes und nichts Böses alle Tage ihres Lebens. Sie sorgt für Wolle und Flachs und schafft mit emsigen Händen."
+       ],
+       [
+        "Nach dem Spinnrocken greift ihre Hand, ihre Finger fassen die Spindel. Sie öffnet ihre Hand für den Bedürftigen und reicht ihre Hände dem Armen."
+       ],
+       [
+        "Trügerisch ist Anmut, vergänglich die Schönheit; nur eine gottesfürchtige Frau verdient Lob. Preist sie für den Ertrag ihrer Hände, ihre Werke soll man am Stadttor loben."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.9"
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.first-reading.11"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.first-reading.11"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
       "cite": "Ps 130, 1. 2. 3",
       "role": "title"
      }
@@ -148,7 +625,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 130(131), 1. 2. 3",
       "role": "title"
      }
@@ -156,7 +637,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
       "cite": "Ps 130, 1.2",
       "role": "title"
      }
@@ -164,7 +649,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 130, 1. 2. 3",
       "role": "title"
      }
@@ -172,7 +661,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 130 (131)",
       "role": "title"
      }
@@ -180,7 +673,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
       "cite": "Ps 130, 1. 2. 3",
       "role": "title"
      }
@@ -188,7 +685,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
       "cite": "Ps 131 (130), 1. 2-3",
       "role": "title"
      }
@@ -509,6 +1010,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -699,6 +1214,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -882,6 +1411,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -890,30 +1433,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 8, 31b-32",
       "role": "title"
      },
@@ -954,7 +1481,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 8, 31b-32",
       "role": "title"
      },
@@ -992,7 +1523,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 8:31-32",
       "role": "title"
      },
@@ -1014,7 +1549,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 8, 31b-32",
       "role": "title"
      },
@@ -1058,7 +1597,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. Gv 8, 31b-32",
       "role": "title"
      },
@@ -1080,7 +1623,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 8, 31b-32",
       "role": "title"
      },
@@ -1121,7 +1668,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 8, 31b-32",
       "role": "title"
      },
@@ -1162,27 +1713,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "14"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.14"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1212,6 +1752,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe"
        ]
       ],
@@ -1237,6 +1786,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1249,6 +1807,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1278,6 +1845,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Chi fa la volontà di Dio, costui per me è fratello, sorella e madre."
        ]
       ],
@@ -1303,6 +1879,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1315,6 +1900,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1730,7 +2324,7 @@
  "title": {
   "la": "S. Ioannæ Franciscæ de Chantal, religiosæ",
   "pt-BR": "Santa Joana Francisca de Chantal, religiosa",
-  "en-US": "St. Jane Frances de Chantal, religious",
+  "en-US": "Saint Jane Frances de Chantal, religious",
   "es": "Santa Juana Francisca de Chantal, religiosa",
   "it": "Santa Giovanna Francesca de Chantal, religiosa",
   "fr": "Sainte Jeanne-Françoise de Chantal, religieuse",

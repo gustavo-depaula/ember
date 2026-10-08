@@ -895,7 +895,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -909,7 +909,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -923,7 +923,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -937,7 +937,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -951,7 +951,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -965,7 +965,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -979,7 +979,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1296,8 +1296,8 @@
  ],
  "title": {
   "la": "DOMINICA XI «PER ANNUM»",
-  "pt-BR": "11º DOMINGO DO TEMPO COMUM",
-  "en-US": "11th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "11º Domingo do Tempo Comum",
+  "en-US": "Eleventh Sunday in Ordinary Time",
   "es": "XI DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XI DOMENICA",
   "fr": "Temps ordinaire — 11ème DIMANCHE",

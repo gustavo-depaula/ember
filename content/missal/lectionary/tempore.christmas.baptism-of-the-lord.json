@@ -749,7 +749,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -761,7 +761,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 28 (29), 1a.2.3ac-4.3b.9b-10 (: 11b)",
+      "cite": "Sl 28 (29), 1a.2.3ac-4.3b.9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -773,7 +773,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a and 2. 3ac-4. 3b and 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -785,7 +785,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 28, 1a y 2. 3ac-4. 3b y 9b-10 (: 11b)",
+      "cite": "Sal 28, 1a y 2. 3ac-4. 3b y 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -809,7 +809,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -821,7 +821,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 29 (28), 1-2. 3ac-4. 3b u. 9b-10 (R: vgl. 11b)",
+      "cite": "Ps 29 (28), 1-2. 3ac-4. 3b u. 9b-10 (R.: vgl. 11b)",
       "role": "title"
      }
     ]
@@ -1320,7 +1320,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Que o Senhor abençoe, com a paz, o seu povo!."
+        "Que o Senhor abençoe, com a paz, o seu povo!"
        ]
       ]
      }
@@ -1553,7 +1553,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Que o Senhor abençoe, com a paz, o seu povo!."
+        "Que o Senhor abençoe, com a paz, o seu povo!"
        ]
       ]
      }
@@ -2123,7 +2123,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Cf. Mc 9, 7",
@@ -2667,7 +2667,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação"
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -3380,7 +3380,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -4009,7 +4014,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -4126,7 +4136,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -4138,7 +4148,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 28 (29), 1a.2.3ac-4.3b.9b-10 (: 11b)",
+      "cite": "Sl 28 (29), 1a.2.3ac-4.3b.9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -4150,7 +4160,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a and 2. 3ac-4. 3b and 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -4162,7 +4172,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 28, 1a y 2. 3ac-4. 3b y 9b-10 (: 11b)",
+      "cite": "Sal 28, 1a y 2. 3ac-4. 3b y 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -4186,7 +4196,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -4198,7 +4208,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 29 (28), 1-2. 3ac-4. 3b u. 9b-10 (R: vgl. 11b)",
+      "cite": "Ps 29 (28), 1-2. 3ac-4. 3b u. 9b-10 (R.: vgl. 11b)",
       "role": "title"
      }
     ]
@@ -4930,7 +4940,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Que o Senhor abençoe, com a paz, o seu povo!."
+        "Que o Senhor abençoe, com a paz, o seu povo!"
        ]
       ]
      }
@@ -5020,7 +5030,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Is 12, 2-3. 4bcd. 5-6 (: 3)",
+      "cite": "Is 12, 2-3. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -5032,7 +5042,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Is 12, 2-3.4bcd.5-6 (: 3)",
+      "cite": "Is 12, 2-3.4bcd.5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -5044,7 +5054,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Is 12, 2-3. 4bcd. 5-6 (: 3)",
+      "cite": "Is 12, 2-3. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -5056,7 +5066,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Is 12, 2-3. 4bcd. 5-6 (: 3)",
+      "cite": "Is 12, 2-3. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -5080,7 +5090,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Is 12, 2-3. 4bcd. 5-6 (: 3)",
+      "cite": "Is 12, 2-3. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ],
@@ -5092,7 +5102,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Jes 12, 2. 3 u. 4bcd. 5-6 (R: 3)",
+      "cite": "Jes 12, 2. 3 u. 4bcd. 5-6 (R.: 3)",
       "role": "title"
      }
     ]
@@ -5718,7 +5728,7 @@
         "Exultai cantando alegres, habitantes de Sião,"
        ],
        [
-        "porque é grande em vosso meio o Deus Santo de Israel\"!."
+        "porque é grande em vosso meio o Deus Santo de Israel\"!"
        ]
       ]
      }
@@ -6266,7 +6276,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 2,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -6631,7 +6646,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 2,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -6774,7 +6794,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Cf. Mc 9, 7",
@@ -6974,7 +6994,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Jo 1,29",
@@ -7006,7 +7026,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Cf. Jn 1, 29"
      },
      {
       "k": "p",
@@ -8211,7 +8232,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 3,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -8311,7 +8337,7 @@
       "k": "p",
       "lines": [
        [
-        "Consolai o meu povo, consolai-o! - diz o vosso Deus -. Falai ao coração de Jerusalém e dizei em alta voz que sua servidão acabou e a expiação de suas culpas foi cumprida; ela recebeu das mãos do Senhor o dobro por todos os seus pecados.Grita uma voz: \"Preparai no deserto o caminho do Senhor, aplainai na solidão a estrada de nosso Deus. Nivelem-se todos os vales, rebaixem-se todos os montes e colinas; endireite-se o que é torto e alisem-se as asperezas: a glória do Senhor então se manifestará, e todos os homens verão juntamente o que a boca do Senhor falou\". Sobe a um alto monte, tu, que trazes a boa nova a Sião; levanta com força a tua voz, tu, que trazes a boa nova a Jerusalém, ergue a voz, não temas; dize às cidades de Judá: \"Eis o vosso Deus, eis que o Senhor Deus vem com poder, seu braço tudo domina: eis, com ele, sua conquista, eis à sua frente a vitória. Como um pastor, ele apascenta o rebanho, reúne, com a força dos braços, os cordeiros e carrega-os ao colo; ele mesmo tange as ovelhas-mães\"."
+        "Consolai o meu povo, consolai-o! - diz o vosso Deus -. Falai ao coração de Jerusalém e dizei em alta voz que sua servidão acabou e a expiação de suas culpas foi cumprida; ela recebeu das mãos do Senhor o dobro por todos os seus pecados. Grita uma voz: \"Preparai no deserto o caminho do Senhor, aplainai na solidão a estrada de nosso Deus. Nivelem-se todos os vales, rebaixem-se todos os montes e colinas; endireite-se o que é torto e alisem-se as asperezas: a glória do Senhor então se manifestará, e todos os homens verão juntamente o que a boca do Senhor falou\". Sobe a um alto monte, tu, que trazes a boa nova a Sião; levanta com força a tua voz, tu, que trazes a boa nova a Jerusalém, ergue a voz, não temas; dize às cidades de Judá: \"Eis o vosso Deus, eis que o Senhor Deus vem com poder, seu braço tudo domina: eis, com ele, sua conquista, eis à sua frente a vitória. Como um pastor, ele apascenta o rebanho, reúne, com a força dos braços, os cordeiros e carrega-os ao colo; ele mesmo tange as ovelhas-mães\"."
        ]
       ]
      },
@@ -8749,7 +8775,12 @@
     ]
    },
    "part": "firstReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 3,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -8866,7 +8897,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -8878,7 +8909,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 28 (29), 1a.2.3ac-4.3b.9b-10 (: 11b)",
+      "cite": "Sl 28 (29), 1a.2.3ac-4.3b.9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -8890,7 +8921,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a and 2. 3ac-4. 3b and 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -8902,7 +8933,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 28, 1a y 2. 3ac-4. 3b y 9b-10 (: 11b)",
+      "cite": "Sal 28, 1a y 2. 3ac-4. 3b y 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -8926,7 +8957,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (: 11b)",
+      "cite": "Ps 28, 1a et 2. 3ac-4. 3b et 9b-10 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -8938,7 +8969,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 29 (28), 1-2. 3ac-4. 3b u. 9b-10 (R: vgl. 11b)",
+      "cite": "Ps 29 (28), 1-2. 3ac-4. 3b u. 9b-10 (R.: vgl. 11b)",
       "role": "title"
      }
     ]
@@ -9434,7 +9465,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Que o Senhor abençoe, com a paz, o seu povo!."
+        "Que o Senhor abençoe, com a paz, o seu povo!"
        ]
       ]
      }
@@ -9760,7 +9791,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 103, 1bc-2. 3-4. 24-25. 27-28. 29-30 (: cf. 1ab)",
+      "cite": "Ps 103, 1bc-2. 3-4. 24-25. 27-28. 29-30 (R.: cf. 1ab)",
       "role": "title"
      }
     ],
@@ -9772,7 +9803,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 103 (104), 1b-4.24-25.27-30 (: 1)",
+      "cite": "Sl 103 (104), 1b-4.24-25.27-30 (R.: 1)",
       "role": "title"
      }
     ],
@@ -9784,7 +9815,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 103, 1bc-2. 3-4. 24-25. 27-28. 29-30 (: cf. 1ab)",
+      "cite": "Ps 103, 1bc-2. 3-4. 24-25. 27-28. 29-30 (R.: cf. 1ab)",
       "role": "title"
      }
     ],
@@ -9820,7 +9851,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 103, 1bc-2. 3-4. 24-25. 27-28. 29-30 (: cf. 1ab)",
+      "cite": "Ps 103, 1bc-2. 3-4. 24-25. 27-28. 29-30 (R.: cf. 1ab)",
       "role": "title"
      }
     ],
@@ -9832,7 +9863,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 104 (103), 1-2. 3-4. 24-25. 27-28. 29-30 (R: 1ab)",
+      "cite": "Ps 104 (103), 1-2. 3-4. 24-25. 27-28. 29-30 (R.: 1ab)",
       "role": "title"
      }
     ]
@@ -11607,7 +11638,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 4,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -11706,7 +11742,7 @@
       "k": "p",
       "lines": [
        [
-        "Caríssimo:A graça de Deus se manifestou trazendo a salvação para todos os homens. Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo. Ele se entregou por nós, para nos resgatar de toda maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem."
+        "Caríssimo: A graça de Deus se manifestou trazendo a salvação para todos os homens. Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo. Ele se entregou por nós, para nos resgatar de toda maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem."
        ]
       ]
      },
@@ -11734,7 +11770,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the letter of St. Paul to Titus"
+        "A reading from the Letter of Saint Paul to Titus"
        ]
       ],
       "cite": "2:11-14; 3:4-7",
@@ -12006,7 +12042,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 4,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -12149,7 +12190,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Cf. Mc 9, 7",
@@ -13126,8 +13167,8 @@
  ],
  "title": {
   "la": "IN BAPTISMATE DOMINI",
-  "pt-BR": "FESTA DO BATISMO DO SENHOR",
-  "en-US": "Sunday after the Epiphany of the Lord — THE BAPTISM OF THE LORD",
+  "pt-BR": "Batismo do Senhor",
+  "en-US": "The Baptism of the Lord",
   "es": "EL BAUTISMO DEL SEÑOR",
   "it": "BATTESIMO DEL SIGNORE",
   "fr": "Baptême du Seigneur — Temps de Noël",

@@ -876,7 +876,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -890,7 +890,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -904,7 +904,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -918,7 +918,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -931,7 +931,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -945,7 +945,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -959,7 +959,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1258,8 +1258,8 @@
  ],
  "title": {
   "la": "HEBDOMADA I «PER ANNUM»",
-  "pt-BR": "1ª SEMANA DO TEMPO COMUM",
-  "en-US": "1st WEEK IN ORDINARY TIME",
+  "pt-BR": "1ª Semana do Tempo Comum",
+  "en-US": "First Week in Ordinary Time",
   "es": "I SEMANA DEL TIEMPO ORDINARIO",
   "it": "I SETTIMANA",
   "fr": "Temps ordinaire — 1ère SEMAINE",

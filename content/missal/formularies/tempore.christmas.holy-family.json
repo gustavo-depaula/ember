@@ -357,7 +357,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -378,7 +378,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -462,7 +462,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1176,7 +1176,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1185,7 +1185,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1194,7 +1194,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1448,8 +1448,8 @@
  ],
  "title": {
   "la": "DOMINICA infra octavam Nativitatis Domini, vel, ea deficiente, die 30 decembris — S. FAMILIÆ IESU, MARIÆ ET IOSEPH",
-  "pt-BR": "Domingo na oitava do Natal ou, se não houver domingo nesta oitava, dia 30 de dezembro — SAGRADA FAMÍLIA DE JESUS, MARIA E JOSÉ",
-  "en-US": "THE HOLY FAMILY OF JESUS, MARY AND JOSEPH",
+  "pt-BR": "Sagrada Família de Jesus, Maria e José",
+  "en-US": "The Holy Family of Jesus, Mary and Joseph",
   "es": "Domingo dentro de la octava de Navidad — (o, en su defecto, el 30 de diciembre) — LA SAGRADA FAMILIA: JESÚS, MARÍA Y JOSÉ",
   "it": "Domenica fra l'ottava di Natale, oppure, se non ricorre la domenica fra l'ottava di Natale, 30 dicembre — SANTA FAMIGLIA DI GESÙ MARIA E GIUSEPPE",
   "fr": "Dimanche dans l'Octave de la Nativité ou 30 décembre en l'absence de ce dimanche — LA SAINTE FAMILLE DE JÉSUS, MARIE ET JOSEPH",

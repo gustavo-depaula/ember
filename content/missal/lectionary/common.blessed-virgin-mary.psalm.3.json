@@ -3,60 +3,62 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      ],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a vel Mt 25, 6b)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 44(45), 11-12.14-15.16-17 (: 11a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 44(45), 11-12.14-15.16-17 (R.: 11a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a vel Mt 25, 6b)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 44 (45)",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a vel Mt 25, 6b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 45 (44), 11-12. 14-15. 16-17 (R: 11a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 45 (44), 11-12. 14-15. 16-17 (R.: 11a)",
       "role": "title"
      }
     ]
@@ -160,7 +170,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -401,7 +411,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -648,7 +658,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -889,7 +899,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [

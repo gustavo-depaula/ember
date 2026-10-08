@@ -570,7 +570,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (: 1a)",
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ],
@@ -582,7 +582,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 1-2.3-4.8-9.13-14.17-18a (: 1a)",
+      "cite": "Sl 102 (103), 1-2.3-4.8-9.13-14.17-18a (R.: 1a)",
       "role": "title"
      }
     ],
@@ -594,7 +594,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (: 1a)",
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ],
@@ -630,7 +630,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (: 1a)",
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ],
@@ -642,7 +642,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 13-14. 17-18a (R: 1a)",
+      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 13-14. 17-18a (R.: 1a)",
       "role": "title"
      }
     ]
@@ -1956,7 +1956,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Lk 21:36",
       "role": "title"
      },
@@ -2135,7 +2139,7 @@
       "k": "p",
       "lines": [
        [
-        "Vós també, ficai preparados!"
+        "Vós também, ficai preparados!"
        ]
       ],
       "role": "summary"
@@ -2690,8 +2694,8 @@
  ],
  "title": {
   "la": "S. Raimundi de Penyafort, presbyteri",
-  "pt-BR": "São Raimundo de Peñafort, presbítero",
-  "en-US": "St. Raymund of Penyafort, Priest",
+  "pt-BR": "São Raimundo de Penhaforte, presbítero",
+  "en-US": "Saint Raymund of Penyafort, Priest",
   "es": "San Raimundo de Peñafort, presbítero",
   "it": "San Raimondo di Penafort, sacerdote",
   "fr": "Saint Raymond de Penyafort, prêtre",

@@ -399,7 +399,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -420,7 +420,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -504,7 +504,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1905,7 +1905,7 @@
  ],
  "title": {
   "la": "S. Maríæ Magdalenæ",
-  "pt-BR": "SANTA MARIA MADALENA",
+  "pt-BR": "Santa Maria Madalena",
   "en-US": "Saint Mary Magdalene",
   "es": "Santa María Magdalena",
   "it": "SANTA MARIA MADDALENA",

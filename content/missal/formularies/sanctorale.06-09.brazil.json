@@ -11,7 +11,7 @@
        [
         {
          "m": "rubric",
-         "t": "(nas dioceses de Brasil)"
+         "t": "(nas dioceses do Brasil)"
         }
        ]
       ]
@@ -104,6 +104,37 @@
       "k": "h4",
       "lines": [
        [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf Is 52,7"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Como são belos sobre os montes os pés do mensageiro que anuncia a paz, que anuncia a felicidade e prega a salvação."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
         "Oração do dia"
        ]
       ]
@@ -119,7 +150,7 @@
       "k": "p",
       "lines": [
        [
-        "Derramai, Senhor, sobre nós a vossa graça, a fim de que, a exemplo do Bem-aventurado José de Anchieta, apóstolo do Brasil, sirvamos fielmente o Evangelho, tornando-nos tudo para todos, a nos esforcemos em ganhar para vós nossos irmãos no amor de Cristo. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus convosco na unidade do Espírito Santo."
+        "Derramai, Senhor, sobre nós a vossa graça, a fim de que, a exemplo do presbítero São José de Anchieta, Apóstolo do Brasil, sirvamos fielmente ao Evangelho, tornando-nos tudo para todos, e nos esforcemos em ganhar para vós novos irmãos no amor de Cristo. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
        ]
       ]
      }
@@ -129,6 +160,36 @@
   },
   {
    "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, atendei benigno as nossas súplicas, e livrai-nos de toda a culpa, para que, por vossa graça purificadora, sejamos perdoados pelos mistérios que celebramos. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
   },
   {
    "text": {
@@ -204,6 +265,67 @@
     ]
    },
    "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Mc 16,15"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ide pelo mundo inteiro e anunciai o Evangelho!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor nosso Deus, os sacramentos que recebemos alimentem em nós a mesma fé transmitida pela pregação apostólica e que São José de Anchieta guardou com solicitude. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
   }
  ],
  "prefaces": [

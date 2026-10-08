@@ -55,62 +55,62 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.7"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 111(112), 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 111(112), 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111:1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 111:1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 111 (112)",
       "role": "title"
      }
@@ -118,16 +118,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R: vgl. 1a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -174,7 +182,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -308,7 +316,7 @@
       "k": "p",
       "lines": [
        [
-        "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos! ."
+        "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos!."
        ]
       ]
      }
@@ -452,7 +460,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -727,7 +735,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1014,7 +1022,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1145,7 +1153,7 @@
       "k": "p",
       "lines": [
        [
-        "Confiando em Deus, seu coração está seguro. Seu coração está tranqüilo e nada teme, e confusos há de ver seus inimigos"
+        "Confiando em Deus, seu coração está seguro. Seu coração está tranquilo e nada teme, e confusos há de ver seus inimigos"
        ]
       ]
      }
@@ -1258,7 +1266,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1497,7 +1505,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1607,43 +1615,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "[Pro educatoribus]"
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.15"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "15"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.15"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1673,6 +1654,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Quem acolher em meu nome uma destas crianças é a mim que estará acolhendo."
        ]
       ],
@@ -1698,6 +1688,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1710,6 +1709,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1739,6 +1747,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Chi accoglie uno solo di questi bambini nel mio nome, accoglie me."
        ]
       ],
@@ -1764,6 +1781,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1776,6 +1802,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1958,7 +1993,7 @@
       "k": "p",
       "lines": [
        [
-        "Plavra da Salvação."
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"

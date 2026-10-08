@@ -231,7 +231,7 @@
       "k": "p",
       "lines": [
        [
-        "Desejávamos dar-vos não somente o evangelho de Deus, mas até a propria vida."
+        "Desejávamos dar-vos não somente o evangelho de Deus, mas até a própria vida."
        ]
       ],
       "role": "summary"
@@ -250,7 +250,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos, encontramos em Deus a coragem de vos anunciar o evangelho, em meio a grandes lutas. A nossa exortação não se baseia no erro, na ambigüidade ou no desejo de enganar. Ao contrário, uma vez que Deus nos achou dignos para que nos confiasse o evangelho, falamos não para agradar aos homens, mas a Deus, que examina os nossos corações. Bem sabeis que nunca usamos palavras de adulação, nem procedemos movidos por disfarçada ganância. Deus é testemunha disso. E também não procuramos elogios humanos, nem da parte de vós, nem de outros, embora pudéssemos fazer valer a nossa autoridade de apóstolos de Cristo. Foi com muita ternura que nos apresentamos a vós, como uma mãe que acalenta os seus filhinhos. Tanto bem vos queríamos, que desejávamos dar-vos não somente o evangelho de Deus, mas até, a própria vida; a tal ponto chegou a nossa afeição por vós."
+        "Irmãos, encontramos em Deus a coragem de vos anunciar o evangelho, em meio a grandes lutas. A nossa exortação não se baseia no erro, na ambiguidade ou no desejo de enganar. Ao contrário, uma vez que Deus nos achou dignos para que nos confiasse o evangelho, falamos não para agradar aos homens, mas a Deus, que examina os nossos corações. Bem sabeis que nunca usamos palavras de adulação, nem procedemos movidos por disfarçada ganância. Deus é testemunha disso. E também não procuramos elogios humanos, nem da parte de vós, nem de outros, embora pudéssemos fazer valer a nossa autoridade de apóstolos de Cristo. Foi com muita ternura que nos apresentamos a vós, como uma mãe que acalenta os seus filhinhos. Tanto bem vos queríamos, que desejávamos dar-vos não somente o evangelho de Deus, mas até, a própria vida; a tal ponto chegou a nossa afeição por vós."
        ]
       ]
      },
@@ -278,7 +278,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first letter of St. Paul to the Thessalonians"
+        "A reading from the first Letter of Saint Paul to the Thessalonians"
        ]
       ],
       "cite": "2:2-8",
@@ -615,54 +615,50 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.4"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      ],
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 88(89), 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 88(89), 2-3. 4-5. 21-22. 25 e 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 88:2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 88:2-3. 4-5. 21-22. 25 and 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 88, 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)",
       "role": "title"
      }
@@ -670,7 +666,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 88 (89)",
       "role": "title"
      }
@@ -678,16 +678,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R: 2a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -1719,30 +1727,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.pastors.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 10, 14",
       "role": "title"
      },
@@ -1783,7 +1775,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 10, 14",
       "role": "title"
      },
@@ -1821,7 +1817,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 10:14",
       "role": "title"
      },
@@ -1843,7 +1843,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 10, 14",
       "role": "title"
      },
@@ -1887,7 +1891,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 10, 14",
       "role": "title"
      },
@@ -1909,7 +1917,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 10, 14",
       "role": "title"
      },
@@ -1947,7 +1959,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 10, 14",
       "role": "title"
      },
@@ -2710,7 +2726,7 @@
  "title": {
   "la": "S. Pii X, papæ",
   "pt-BR": "São Pio X, papa",
-  "en-US": "St. Pius X, pope",
+  "en-US": "Saint Pius X, pope",
   "es": "San Pío X, papa",
   "it": "San Pio X, papa",
   "fr": "Saint Pie X, pape",

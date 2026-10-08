@@ -2,6 +2,7 @@ import { BottomSheet, Group, Host, RNHostView } from '@expo/ui/swift-ui'
 import {
   type PresentationDetent,
   presentationBackground,
+  presentationBackgroundInteraction,
   presentationDetents,
   presentationDragIndicator,
 } from '@expo/ui/swift-ui/modifiers'
@@ -31,10 +32,13 @@ function sheetDetents(fraction: number): PresentationDetent[] {
 export function NativeSheet({
   sheet,
   fraction = 0.6,
+  letsThrough = false,
   children,
 }: {
   sheet: SheetController
   fraction?: number
+  /** Part-way up, the screen behind stays in use: it scrolls and takes taps, undimmed. */
+  letsThrough?: boolean
   children: (state: {
     scroll: { scrollEnabled: boolean } & ReturnType<typeof pullDown>
     height: number
@@ -84,6 +88,14 @@ export function NativeSheet({
             }),
             presentationDragIndicator('visible'),
             presentationBackground(theme.background.val),
+            ...(letsThrough
+              ? [
+                  presentationBackgroundInteraction({
+                    type: 'enabledUpThrough',
+                    detent: detents[0],
+                  }),
+                ]
+              : []),
           ]}
         >
           <RNHostView>{children({ scroll, height: contentHeight, bodyShown })}</RNHostView>

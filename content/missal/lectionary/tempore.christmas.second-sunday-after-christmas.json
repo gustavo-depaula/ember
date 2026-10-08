@@ -201,7 +201,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Ecclesiastes"
+        "A reading from the Book of Sirach"
        ]
       ],
       "cite": "24:1-4.8-12",
@@ -655,7 +655,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: Io 1, 14)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: Io 1, 14)",
       "role": "title"
      }
     ],
@@ -667,7 +667,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 147, 12-13.14-15.19-20 (: Jo 1, 14))",
+      "cite": "Sl 147, 12-13.14-15.19-20 (R.: Jo 1, 14)",
       "role": "title"
      }
     ],
@@ -679,7 +679,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: Io 1, 14)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: Jn 1, 14)",
       "role": "title"
      }
     ],
@@ -691,7 +691,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 147, 12-13. 14-15. 19-20 (: Io 1, 14)",
+      "cite": "Sal 147, 12-13. 14-15. 19-20 (R.: Io 1, 14)",
       "role": "title"
      }
     ],
@@ -715,7 +715,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: Io 1, 14)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: Io 1, 14)",
       "role": "title"
      }
     ],
@@ -727,7 +727,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (R: Joh 1, 14)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: Joh 1, 14)",
       "role": "title"
      }
     ]
@@ -843,7 +843,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " Alléluia"
+        "Alléluia"
        ]
       ]
      }
@@ -1112,7 +1112,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " Alléluia"
+        "Alléluia"
        ]
       ]
      }
@@ -1381,7 +1381,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " Alléluia"
+        "Alléluia"
        ]
       ]
      }
@@ -1650,7 +1650,7 @@
          "m": "rubric",
          "t": "ou: "
         },
-        " Alléluia"
+        "Alléluia"
        ]
       ]
      }
@@ -1770,7 +1770,7 @@
       "k": "p",
       "lines": [
        [
-        "Bendito seja Deus, Pai de nosso Senhor Jesus Cristo. Ele nos abençoou com toda a bênção do seu Espírito em virtude de nossa união com Cristo, no céu. Em Cristo, ele nos escolheu, antes da fundação do mundo, para que sejamos santos e irrepreensíveissob o seu olhar, no amor. Ele nos predestinou a ser seus filhos adotivos por intermédio de Jesus Cristo, conforme a decisão da sua vontade, para o louvor da sua glóriae da graça com que ele nos cumulou no seu Bem-amado. Eis por que eu também, desde que soube da vossa fé no Senhor Jesus e do vosso amor para com todos os santos, não cesso de dar graças a vosso respeito, quando me lembro de vós em minhas orações. Que o Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer. Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos."
+        "Bendito seja Deus, Pai de nosso Senhor Jesus Cristo. Ele nos abençoou com toda a bênção do seu Espírito em virtude de nossa união com Cristo, no céu. Em Cristo, ele nos escolheu, antes da fundação do mundo, para que sejamos santos e irrepreensíveissob o seu olhar, no amor. Ele nos predestinou a ser seus filhos adotivos por intermédio de Jesus Cristo, conforme a decisão da sua vontade, para o louvor da sua glória e da graça com que ele nos cumulou no seu Bem-amado. Eis por que eu também, desde que soube da vossa fé no Senhor Jesus e do vosso amor para com todos os santos, não cesso de dar graças a vosso respeito, quando me lembro de vós em minhas orações. Que o Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer. Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos."
        ]
       ]
      },
@@ -2183,7 +2183,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Cf. 1 Tim 3, 16",
+      "cite": "Cf. 1 Tm 3, 16",
       "role": "title"
      },
      {
@@ -2558,7 +2558,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2667,7 +2667,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2760,7 +2760,7 @@
       "k": "p",
       "lines": [
        [
-        "No princípio, era a Palavra,e a Palavra estava com Deus; e a Palavra era Deus. No princípio, estava ela com Deus. Tudo foi feito por ela e sem ela nada se fez de tudo que foi feito. Nela estava a vida, e a vida era a luz dos homens. E a luz brilha nas trevas, e as trevas não conseguiram dominá-la. Surgiu um homem enviado por Deus; seu nome era João. Ele veio como testemunha, para dar testemunho da luz, para que todos chegassem à fé por meio dele. Ele não era a luz, mas veio para dar testemunho da luz: daquele que era a luz de verdade, que, vindo ao mundo, ilumina todo ser humano. A Palavra estava no mundo, - e o mundo foi feito por meio dela -, mas o mundo não quis conhecê-la. Veio para o que era seu, e os seus não a acolheram. Mas a todos que a receberam, deu-lhes capacidade de se tornar filhos de Deus, isto é, aos que acreditam em seu nome, pois estes não nasceram do sangue nem da vontade da carne nem da vontade do varão, mas de Deus mesmo. E a Palavra se fez carne e habitou entre nós. E nós contemplamos a sua glória, glória que recebe do Pai como filho unigênito, cheio de graça e de verdade. Dele, João dá testemunho, clamando: \"Este é aquele de quem eu disse: O que vem depois de mim passou à minha frente, porque ele existia antes de mim\". De sua plenitude todos nós recebemos graça por graça. Pois por meio de Moisés foi dada a Lei, mas a graça e a verdade nos chegaram através de Jesus Cristo. A Deus, ninguém jamais viu. Mas o Unigênito de Deus, que está na intimidade do Pai, ele no-lo deu a conhecer."
+        "No princípio, era a Palavra, e a Palavra estava com Deus; e a Palavra era Deus. No princípio, estava ela com Deus. Tudo foi feito por ela e sem ela nada se fez de tudo que foi feito. Nela estava a vida, e a vida era a luz dos homens. E a luz brilha nas trevas, e as trevas não conseguiram dominá-la. Surgiu um homem enviado por Deus; seu nome era João. Ele veio como testemunha, para dar testemunho da luz, para que todos chegassem à fé por meio dele. Ele não era a luz, mas veio para dar testemunho da luz: daquele que era a luz de verdade, que, vindo ao mundo, ilumina todo ser humano. A Palavra estava no mundo, - e o mundo foi feito por meio dela -, mas o mundo não quis conhecê-la. Veio para o que era seu, e os seus não a acolheram. Mas a todos que a receberam, deu-lhes capacidade de se tornar filhos de Deus, isto é, aos que acreditam em seu nome, pois estes não nasceram do sangue nem da vontade da carne nem da vontade do varão, mas de Deus mesmo. E a Palavra se fez carne e habitou entre nós. E nós contemplamos a sua glória, glória que recebe do Pai como filho unigênito, cheio de graça e de verdade. Dele, João dá testemunho, clamando: \"Este é aquele de quem eu disse: O que vem depois de mim passou à minha frente, porque ele existia antes de mim\". De sua plenitude todos nós recebemos graça por graça. Pois por meio de Moisés foi dada a Lei, mas a graça e a verdade nos chegaram através de Jesus Cristo. A Deus, ninguém jamais viu. Mas o Unigênito de Deus, que está na intimidade do Pai, ele no-lo deu a conhecer."
        ]
       ]
      },
@@ -3176,7 +3176,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -3397,7 +3397,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3506,7 +3506,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3861,7 +3861,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3970,14 +3970,14 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   }
  ],
  "title": {
   "la": "DOMINICA II POST NATIVITATEM",
-  "pt-BR": "2º DOMINGO DEPOIS DO NATAL",
-  "en-US": "SECOND SUNDAY AFTER CHRISTMAS",
+  "pt-BR": "2º Domingo depois do Natal",
+  "en-US": "Second Sunday after the Nativity",
   "es": "DOMINGO SEGUNDO DESPUÉS DE NAVIDAD",
   "it": "II DOMENICA DOPO NATALE",
   "fr": "2ème Dimanche après Noël",

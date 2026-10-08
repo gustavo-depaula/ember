@@ -235,7 +235,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -304,7 +304,7 @@
         "Alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -326,7 +326,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -377,7 +377,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -441,7 +441,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -521,7 +521,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -795,7 +795,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -847,7 +847,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1402,7 +1402,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1493,7 +1493,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1531,7 +1531,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1545,7 +1545,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1587,7 +1587,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1613,7 +1613,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1672,7 +1672,7 @@
         "Alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1694,7 +1694,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1933,8 +1933,8 @@
  ],
  "title": {
   "la": "COMMUNE VIRGINUM",
-  "pt-BR": "COMUM DAS VIRGENS",
-  "en-US": "COMMON OF VIRGINS",
+  "pt-BR": "Comum das Virgens",
+  "en-US": "Common of Virgins",
   "es": "COMÚN DE VÍRGENES",
   "it": "COMUNE DELLE VERGINI",
   "fr": "COMMUN DES VIERGES",

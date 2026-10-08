@@ -353,7 +353,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -367,7 +367,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -381,7 +381,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -395,7 +395,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -409,7 +409,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -423,7 +423,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -437,7 +437,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -579,7 +579,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -600,7 +600,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -2136,8 +2136,8 @@
  ],
  "title": {
   "la": "DOMINICA III IN QUADRAGESIMA",
-  "pt-BR": "TERCEIRO DOMINGO DA QUARESMA",
-  "en-US": "Season of Lent — 3rd Week: Sunday",
+  "pt-BR": "3º Domingo da Quaresma",
+  "en-US": "Third Sunday of Lent",
   "es": "III DOMINGO DE CUARESMA",
   "it": "III DOMENICA DI QUARESIMA",
   "fr": "3e DIMANCHE DE CARÊME",

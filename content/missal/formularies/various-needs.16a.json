@@ -80,7 +80,7 @@
        [
         {
          "m": "rubric",
-         "t": "Nos aniversários do casamento, principalmente, no 25º , 50º ou 60º , quando são permitidas Missas para diversas necessidades, pode ser celebrada a Missa em ação de graças, com as orações seguintes. Também nas Missas dos dias de semana do Tempo Comum podem-se usar, se for oportuno, as mesmas orações. Nessas celebrações, pode-se comemorar de modo especial o sacramento do Matrimônio, conforme indicado no Ritual do Matrimônio, n. 272-286."
+         "t": "Nos aniversários do casamento, principalmente, no 25º, 50º ou 60º, quando são permitidas Missas para diversas necessidades, pode ser celebrada a Missa em ação de graças, com as orações seguintes. Também nas Missas dos dias de semana do Tempo Comum podem-se usar, se for oportuno, as mesmas orações. Nessas celebrações, pode-se comemorar de modo especial o sacramento do Matrimônio, conforme indicado no Ritual do Matrimônio, n. 272-286."
         }
        ]
       ]
@@ -940,7 +940,7 @@
          "m": "rubric",
          "t": "N."
         },
-        "e colma la loro unione di tutti i tuoi doni. Per Cristo nostro Signore."
+        " e colma la loro unione di tutti i tuoi doni. Per Cristo nostro Signore."
        ]
       ]
      }
@@ -1157,7 +1157,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1171,7 +1171,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1199,7 +1199,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -1226,7 +1226,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1240,7 +1240,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1556,8 +1556,8 @@
  ],
  "title": {
   "la": "I. PRO SANCTA ECCLESIA",
-  "pt-BR": "I. PELA SANTA IGREJA",
-  "en-US": "I. FOR HOLY CHURCH",
+  "pt-BR": "I. Pela Santa Igreja",
+  "en-US": "I. For Holy Church",
   "es": "I. POR LA SANTA IGLESIA",
   "it": "I. PER LA SANTA CHIESA",
   "fr": "I. POUR LA SAINTE ÉGLISE",

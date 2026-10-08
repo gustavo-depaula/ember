@@ -374,7 +374,7 @@
         "e realizá-lo com vossa ajuda."
        ],
        [
-        "Por nosso Senhor Jesus Cristo, vosso Filho, que􀁈 Deus,"
+        "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
        ],
        [
         "e convosco vive e reina, na unidade do Espírito Santo,"
@@ -853,7 +853,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -867,7 +867,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -881,7 +881,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -895,7 +895,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -909,7 +909,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -923,7 +923,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ],
        [
@@ -946,7 +946,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1204,8 +1204,8 @@
  ],
  "title": {
   "la": "DOMINICA X «PER ANNUM»",
-  "pt-BR": "10º DOMINGO DO TEMPO COMUM",
-  "en-US": "10th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "10º Domingo do Tempo Comum",
+  "en-US": "Tenth Sunday in Ordinary Time",
   "es": "X DOMINGO DEL TIEMPO ORDINARIO",
   "it": "X DOMENICA",
   "fr": "Temps ordinaire — 10ème DIMANCHE",

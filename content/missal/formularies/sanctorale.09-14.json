@@ -383,7 +383,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -467,7 +467,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -579,7 +579,7 @@
       "k": "p",
       "lines": [
        [
-        "Deus, qui Unigénitum tuum crucem subíre voluísti, ut salvum fáceret genus humánum, præsta, quǽsumus, ut, cuius mystérium in terra cognóvimus, eius redemptiónis prǽmia in cælo cónsequi mereámur.Per Dóminum."
+        "Deus, qui Unigénitum tuum crucem subíre voluísti, ut salvum fáceret genus humánum, præsta, quǽsumus, ut, cuius mystérium in terra cognóvimus, eius redemptiónis prǽmia in cælo cónsequi mereámur. Per Dóminum."
        ]
       ]
      }
@@ -733,7 +733,7 @@
         " Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -751,7 +751,7 @@
         " Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -795,7 +795,7 @@
         " Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1028,7 +1028,7 @@
        [
         {
          "m": "rubric",
-         "t": "De victoria crucis gloriosæ. "
+         "t": "De victoria crucis gloriosæ."
         }
        ]
       ]
@@ -1123,7 +1123,7 @@
        [
         {
          "m": "rubric",
-         "t": "A vitória da Cruz gloriosa. "
+         "t": "A vitória da Cruz gloriosa."
         }
        ]
       ]
@@ -1464,7 +1464,7 @@
        [
         {
          "m": "rubric",
-         "t": "De victoria crucis gloriosæ. "
+         "t": "De victoria crucis gloriosæ."
         }
        ]
       ]
@@ -1964,8 +1964,8 @@
  ],
  "title": {
   "la": "IN EXALTATIONE SANCTÆ CRUCIS",
-  "pt-BR": "EXALTAÇÃO DA SANTA CRUZ",
-  "en-US": "THE EXALTATION OF THE HOLY CROSS",
+  "pt-BR": "Exaltação da Santa Cruz",
+  "en-US": "The Exaltation of the Holy Cross",
   "es": "LA EXALTACIÓN DE LA SANTA CRUZ",
   "it": "ESALTAZIONE DELLA SANTA CROCE",
   "fr": "LA CROIX GLORIEUSE",

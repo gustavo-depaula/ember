@@ -573,38 +573,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.blessed-virgin-mary.psalm.2"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Iudt 13, 18bcde. 19 (: 15, 9d)",
+      ],
+      "cite": "Iudt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Jt 13,18bcde.19 (R.: 15,9d)",
       "role": "title"
      }
@@ -612,15 +600,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jdt 13, 18bcde. 19 (: 15, 9d)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Jdt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Jdt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
@@ -628,7 +624,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Gdt 13, 18-19",
       "role": "title"
      }
@@ -636,16 +636,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Iudt 13, 18bcde. 19 (: 15, 9d)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Iudt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jdt 13, 18bc. 19 u. 20bc (R: vgl. 15, 9b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Jdt 13, 18bc. 19 u. 20bc (R.: vgl. 15, 9b)",
       "role": "title"
      }
     ]
@@ -1214,30 +1222,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.blessed-virgin-mary.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1278,7 +1270,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1316,7 +1312,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Lk 11:28",
       "role": "title"
      },
@@ -1338,7 +1338,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1376,7 +1380,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1414,7 +1422,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Lc 11, 28",
       "role": "title"
      },
@@ -1452,7 +1464,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Lk 11, 28",
       "role": "title"
      },
@@ -1493,27 +1509,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.blessed-virgin-mary.gospel.10"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1543,6 +1548,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Feliz o ventre que te trouxe."
        ]
       ],
@@ -1568,6 +1582,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1580,6 +1603,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1609,6 +1641,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Beato il grembo che ti ha portato! Parola del Signore."
        ]
       ],
@@ -1634,6 +1675,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1646,6 +1696,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

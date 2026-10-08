@@ -242,7 +242,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: Eu, que sou o último de todos os santos, recebi esta graça de anunciar aos pagãos a insondável riqueza de Cristo, e mostrar a todos como Deus realiza o mistério desde sempre escondido nele, o criador do universo. Assim, doravante, as autoridades e poderes os céus conhecem, graças à Igreja, a multiforme sabedoria de Deus, de acordo com o designio eterno que ele executou em Jesus Cristo, nosso Senhor. Em Cristo nós temos, pela fé nele, a liberdade de nos aproximar de Deus com toda a confiança.."
+        "Irmãos: Eu, que sou o último de todos os santos, recebi esta graça de anunciar aos pagãos a insondável riqueza de Cristo, e mostrar a todos como Deus realiza o mistério desde sempre escondido nele, o criador do universo. Assim, doravante, as autoridades e poderes os céus conhecem, graças à Igreja, a multiforme sabedoria de Deus, de acordo com o desígnio eterno que ele executou em Jesus Cristo, nosso Senhor. Em Cristo nós temos, pela fé nele, a liberdade de nos aproximar de Deus com toda a confiança."
        ]
       ]
      },
@@ -581,7 +581,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
@@ -593,7 +593,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 36, 3-4. 5-6. 30-31 (: 30a)",
+      "cite": "Sl 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
@@ -605,7 +605,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
@@ -641,7 +641,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
@@ -653,7 +653,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R: vgl. 30a)",
+      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R.: vgl. 30a)",
       "role": "title"
      }
     ]
@@ -1478,7 +1478,8 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jo 13, 34"
      },
      {
       "k": "p",
@@ -1632,27 +1633,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "11"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.11"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1682,6 +1672,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Já não vos chamo servos; mas vos chamo amigos."
        ]
       ],
@@ -1707,6 +1706,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1719,6 +1727,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1748,6 +1765,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Non vi chiamo più servi, ma vi ho chiamato amici."
        ]
       ],
@@ -1773,6 +1799,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1785,6 +1820,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2248,7 +2292,7 @@
  "title": {
   "la": "S. Francisci de Sales, episcopi et Ecclesiæ doctoris",
   "pt-BR": "São Francisco de Sales, bispo e doutor da Igreja",
-  "en-US": "St. Francis de Sales, bishop and doctor of the Church",
+  "en-US": "Saint Francis de Sales, bishop and doctor of the Church",
   "es": "San Francisco de Sales, obispo y doctor de la Iglesia",
   "it": "San Francesco di Salas, vescovo e dottore della Chiesa",
   "fr": "Saint François de Sales, évêque et docteur de l'Église",

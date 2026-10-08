@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -741,7 +741,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 33, 2-3. 16-17. 18-19 (: 2a)",
+      "cite": "Ps 33, 2-3. 16-17. 18-19 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -753,7 +753,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 33 (34), 2-3.16-17.18-19 (: 2a)",
+      "cite": "Sl 33 (34), 2-3.16-17.18-19 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -765,7 +765,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 33, 2-3. 16-17. 18-19 (: 2a)",
+      "cite": "Ps 33, 2-3. 16-17. 18-19 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -777,7 +777,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 33, 2-3. 16-17. 18-19 (: 2a)",
+      "cite": "Sal 33, 2-3. 16-17. 18-19 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -801,7 +801,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 33, 2-3. 16-17. 18-19 (: 2a)",
+      "cite": "Ps 33, 2-3. 16-17. 18-19 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -813,7 +813,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 2-3. 16-17. 18-19 (R: vgl. 2a)",
+      "cite": "Ps 34 (33), 2-3. 16-17. 18-19 (R.: vgl. 2a)",
       "role": "title"
      }
     ]
@@ -2197,7 +2197,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 36, 3-4. 18 et 23. 27 et 29 (: 39a)",
+      "cite": "Ps 36, 3-4. 18 et 23. 27 et 29 (R.: 39a)",
       "role": "title"
      }
     ],
@@ -2209,7 +2209,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 36 (37), 3-4.18 e 23.27 e 29 (: 39a)",
+      "cite": "Sl 36 (37), 3-4.18 e 23.27 e 29 (R.: 39a)",
       "role": "title"
      }
     ],
@@ -2221,7 +2221,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 36, 3-4. 18 et 23. 27 et 29 (: 39a)",
+      "cite": "Ps 36, 3-4. 18 and 23. 27 and 29 (R.: 39a)",
       "role": "title"
      }
     ],
@@ -2233,7 +2233,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 36, 3-4. 18 et 23. 27 et 29 (: 39a)",
+      "cite": "Sal 36, 3-4. 18 et 23. 27 et 29 (R.: 39a)",
       "role": "title"
      }
     ],
@@ -2257,7 +2257,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 36, 3-4. 18 et 23. 27 et 29 (: 39a)",
+      "cite": "Ps 36, 3-4. 18 et 23. 27 et 29 (R.: 39a)",
       "role": "title"
      }
     ],
@@ -2269,7 +2269,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 37 (36), 3-4. 18 u. 23. 27 u. 29 (R: 39a)",
+      "cite": "Ps 37 (36), 3-4. 18 u. 23. 27 u. 29 (R.: 39a)",
       "role": "title"
      }
     ]
@@ -3875,7 +3875,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXXII",
   "pt-BR": "Terça-feira da 32ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 32nd Week: Tuesday",
+  "en-US": "Tuesday of the Thirty-Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 32ª semana",
   "it": "MARTEDI della XXXII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 32e semaine",

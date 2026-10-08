@@ -225,7 +225,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Jeremiah"
+        "A reading from the Book of the Prophet Jeremiah"
        ]
       ],
       "cite": "11:18-20",
@@ -612,7 +612,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps Ps 7, 2-3. 9bc-10. 11-12 (: 2a)",
+      "cite": "Ps Ps 7, 2-3. 9bc-10. 11-12 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -624,7 +624,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 7, 2-3.9bc-10.11-12 (: 2a)",
+      "cite": "Sl 7, 2-3.9bc-10.11-12 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -636,7 +636,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps Ps 7, 2-3. 9bc-10. 11-12 (: 2a)",
+      "cite": "Ps Ps 7, 2-3. 9bc-10. 11-12 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -648,7 +648,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal Ps 7, 2-3. 9bc-10. 11-12 (: 2a)",
+      "cite": "Sal Ps 7, 2-3. 9bc-10. 11-12 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -672,7 +672,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps Ps 7, 2-3. 9bc-10. 11-12 (: 2a)",
+      "cite": "Ps Ps 7, 2-3. 9bc-10. 11-12 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -684,7 +684,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 7, 2-3. 9-10. 11-12 (R: vgl. 2a)",
+      "cite": "Ps 7, 2-3. 9-10. 11-12 (R.: vgl. 2a)",
       "role": "title"
      }
     ]
@@ -2400,8 +2400,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada IV — Sabbato",
-  "pt-BR": "Tempo da Quaresma — Sábado da 4ª Semana da Quaresma",
-  "en-US": "Season of Lent — 4th Week: saturday",
+  "pt-BR": "Sábado da 4ª Semana da Quaresma",
+  "en-US": "Saturday of the Fourth Week of Lent",
   "es": "Tiempo de Cuaresma — Sábado de la IV Semana",
   "it": "Sabato DELLA IV SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 4e semaine — Samedi",

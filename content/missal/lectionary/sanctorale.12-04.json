@@ -98,57 +98,476 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cd2l6"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Bonum depositum custodi per Spiritum Sanctum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Timótheum"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssime:"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Formam habe sanórum verbórum, quæ a me audísti, in fide et dilectióne, quæ sunt in Christo Iesu; bonum depósitum custódi per Spíritum Sanctum, qui hábitat in nobis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu ergo, fili mi, confortáre in grátia, quæ est in Christo Iesu; et quæ audísti a me per multos testes, hæc comménda fidélibus homínibus, qui idónei erunt et álios docére. Collabóra sicut bonus miles Christi Iesu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda o precioso depósito, com a ajuda do Espírito Santo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Segunda Carta de São Paulo a Timóteo"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimo: Usa um compêndio das palavras sadias que de mim ouviste em matéria de fé e de amor em Cristo Jesus. Guarda o precioso depósito, com a ajuda do Espírito Santo que habita em nós. Meu filho, fortifica-te na graça de Jesus Cristo. O que de mim aprendeste na presença de tantas testemunhas, confia isso a homens fiéis, que sejam capazes de ensiná-lo também a outros. Assume a tua parte do sofrimento, como bom soldado de Cristo Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second letter of St. Paul to Timothy"
+       ]
+      ],
+      "cite": "1:13-14; 2:1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Keep as your pattern the sound teaching you have heard from me, in the faith and love that are in Christ Jesus. You have been trusted to look after something precious; guard it with the help of the Holy Spirit who lives in us. Accept the strength, my dear son, that comes from the grace of Christ Jesus. You have heard everything that I teach in public; hand it on to reliable people so that they in turn will be able to teach others. Put up with your share of difficulties, like a good soldier of Christ Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vela por el precioso depósito con la ayuda del Espíritu Santo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la segunda carta del apóstol san Pablo a Timoteo"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Querido hermano:"
+       ],
+       [
+        "Brille así vuestra luz ante los hombres, Ten por modelo las palabras sanas que has oído de mí en la fe y el amor que tienen su fundamento en Cristo Jesús. para que vean vuestras buenas obras y den gloria a vuestro Padre."
+       ],
+       [
+        "Vela por el precioso depósito con la ayuda del Espíritu Santo que habita en nosotros."
+       ],
+       [
+        "Así pues, tú, hijo mío, hazte fuerte en la gracia de Cristo Jesús, y lo que has oído de mí, a través de muchos testigos, esto mismo confíalo a hombres fieles, capaces, a su vez, de enseñar a otros."
+       ],
+       [
+        "Toma parte en los padecimientos como buen soldado de Cristo y uno solo es vuestro maestro, el Mesías, Jesús."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Custodisci, mediante lo Spirito Santo che abita in noi, il bene prezioso che ti è stato affidato."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla seconda lettera di san Paolo apostolo a Timoteo"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Figlio mio, prendi come modello i sani insegnamenti che hai udito da me con la fede e l'amore, che sono in Cristo Gesù. Custodisca, mediante lo Spirito Santo che abita in noi, il bene prezioso che ti è stato affidato."
+       ],
+       [
+        "E tu, figlio mio, attingi forza dalla grazia che è in Cristo Gesù: le cose che hai udito da me davanti a molti testimoni, trasmettile a persone fidate, le quali a loro volta siano in grado di insegnare agli altri. Come un buon soldato di Gesù Cristo, soffri insieme con me."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lettre de saint Paul Apôtre à Timothée"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimé, tiens-toi au modèle donné par les paroles solides que tu m'as entendu prononcer dans la foi et dans l'amour qui est dans le Christ Jésus. Garde le dépôt de la foi dans toute sa beauté, avec l'aide de l'Esprit Saint qui habite en nous. Toi donc, mon enfant, trouve ta force dans la grâce qui est en Jésus Christ. Ce que tu m'as entendu dire en présence de nombreux témoins, confie-le à des hommes dignes de foi qui seront capables de l'enseigner aux autres, à leur tour. Prends ta part de souffrance comme un bon soldat du Christ Jésus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Brief des Apostels Paulus an Timótheus"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mein Sohn!"
+       ],
+       [
+        "Halte dich an die gesunde Lehre, die du von mir gehört hast; nimm sie dir zum Vorbild, und bleibe beim Glauben und bei der Liebe, die uns in Christus Jesus geschenkt ist. Bewahre das dir anvertraute kostbare Gut durch die Kraft des Heiligen Geistes, der in uns wohnt."
+       ],
+       [
+        "Du, mein Sohn, sei stark in der Gnade, die dir in Christus Jesus geschenkt ist. Was du vor vielen Zeugen von mir gehört hast, das vertrau zuverlässigen Menschen an, die fähig sind, auch andere zu lehren. Leide mit mir als guter Soldat Christi Jesu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.doctors.psalm.1"
+   "part": "firstReading",
+   "from": "common.doctors.second-reading.6"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.doctors.second-reading.6"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 18(19B), 8. 9. 10. 11 (R.: Jo 6, 63c)",
       "role": "title"
      }
@@ -156,15 +575,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b or Jn 6, 63c)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 18, 8. 9. 10. 11 (R.: Jn 6, 63c)",
       "role": "title"
      }
@@ -172,16 +599,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R: 10b oder vgl. Joh 6, 63b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R.: 10b oder vgl. Joh 6, 63b)",
       "role": "title"
      }
     ]
@@ -249,7 +684,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -289,7 +724,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -515,7 +950,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -555,7 +990,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -781,7 +1216,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -821,7 +1256,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1047,7 +1482,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -1087,7 +1522,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1316,7 +1751,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -1356,7 +1791,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1414,30 +1849,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "11"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 14, 23",
       "role": "title"
      },
@@ -1478,7 +1897,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 14, 23",
       "role": "title"
      },
@@ -1532,7 +1955,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 14, 23",
       "role": "title"
      },
@@ -1573,7 +2000,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 14, 23",
       "role": "title"
      },
@@ -1595,7 +2026,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 14, 23",
       "role": "title"
      },
@@ -1636,7 +2071,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Joh 14, 23",
       "role": "title"
      },
@@ -1677,27 +2116,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "12"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.12"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1727,6 +2155,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Como foste fiel na administração de tão pouco, vem participar de minha alegria!"
        ]
       ],
@@ -1752,6 +2189,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1764,6 +2210,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1793,6 +2248,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sei stato fedele nel poco, prendi parte alla gioia del tuo padrone."
        ]
       ],
@@ -1818,6 +2282,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1830,6 +2303,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1849,7 +2331,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -1959,7 +2441,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -2057,7 +2539,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus spoke this parable to his disciples: A man on his way abroad summoned his servants and entrusted his property to them. To one he gave five talents, to another two, to a third one; each in proportion to his ability. Then he set out. The man who had received the five talents promptly went and traded with them and made five more. The man who had received two made two more in the same way. But the man who had received one went off and dug a hole in the ground and hid his master's money. Now a long time after, the master of those servants came back and went through his accounts with them. The man who had received the five talents came forward bringing five more. \"Sir,\" he said \"you entrusted me with five talents; here are five more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Next the man with the two talents came forward. \"Sir,\" he said \"you entrusted me with two talents; here are two more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Last came forward the man who had the one talent. \"Sir,\" said he \"I had heard you were a hard man, reaping where you have not sown and gathering where you have not scattered; so I was afraid, and I went off and hid your talent in the ground. Here it is; it was yours, you have it back.\" But his master answered him, \"You wicked and lazy servant! So you knew that I reap where I have not sown and gather where I have not scattered? Well then, you should have deposited my money with the bankers, and on my return I would have recovered my capital with interest. So now, take the talent from him and give it to the man who has the five talents. For to everyone who has will be given more, and he will have more than enough; but from the man who has not, even what he has will be taken away. As for this good-for-nothing servant, throw him out into the dark, where there will be weeping and grinding of teeth.\""
+        "Jesus spoke this parable to his disciples: A man on his way abroad summoned his servants and entrusted his property to them. To one he gave five talents, to another two, to a third one; each in proportion to his ability. Then he set out. The man who had received the five talents promptly went and traded with them and made five more. The man who had received two made two more in the same way. But the man who had received one went off and dug a hole in the ground and hid his master's money. Now a long time after, the master of those servants came back and went through his accounts with them. The man who had received the five talents came forward bringing five more. \"Sir, \" he said \"you entrusted me with five talents; here are five more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Next the man with the two talents came forward. \"Sir, \" he said \"you entrusted me with two talents; here are two more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Last came forward the man who had the one talent. \"Sir, \" said he \"I had heard you were a hard man, reaping where you have not sown and gathering where you have not scattered; so I was afraid, and I went off and hid your talent in the ground. Here it is; it was yours, you have it back.\" But his master answered him, \"You wicked and lazy servant! So you knew that I reap where I have not sown and gather where I have not scattered? Well then, you should have deposited my money with the bankers, and on my return I would have recovered my capital with interest. So now, take the talent from him and give it to the man who has the five talents. For to everyone who has will be given more, and he will have more than enough; but from the man who has not, even what he has will be taken away. As for this good-for-nothing servant, throw him out into the dark, where there will be weeping and grinding of teeth.\""
        ]
       ]
      },
@@ -2244,7 +2726,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -2252,6 +2734,15 @@
   {
    "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2281,6 +2772,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Como foste fiel na administração de tão pouco, vem participar de minha alegria!"
        ]
       ],
@@ -2306,6 +2806,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2318,6 +2827,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2347,6 +2865,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sei stato fedele nel poco, prendi parte alla gioia del tuo padrone."
        ]
       ],
@@ -2372,6 +2899,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2384,6 +2920,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2403,7 +2948,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -2513,7 +3058,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"
@@ -2595,7 +3140,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus spoke this parable to his disciples: A man on his way abroad summoned his servants and entrusted his property to them. To one he gave five talents, to another two, to a third one; each in proportion to his ability. Then he set out. The man who had received the five talents promptly went and traded with them and made five more. The man who had received two made two more in the same way. But the man who had received one went off and dug a hole in the ground and hid his master's money. Now a long time after, the master of those servants came back and went through his accounts with them. The man who had received the five talents came forward bringing five more. \"Sir,\" he said \"you entrusted me with five talents; here are five more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Next the man with the two talents came forward. \"Sir,\" he said \"you entrusted me with two talents; here are two more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\"."
+        "Jesus spoke this parable to his disciples: A man on his way abroad summoned his servants and entrusted his property to them. To one he gave five talents, to another two, to a third one; each in proportion to his ability. Then he set out. The man who had received the five talents promptly went and traded with them and made five more. The man who had received two made two more in the same way. But the man who had received one went off and dug a hole in the ground and hid his master's money. Now a long time after, the master of those servants came back and went through his accounts with them. The man who had received the five talents came forward bringing five more. \"Sir, \" he said \"you entrusted me with five talents; here are five more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\". Next the man with the two talents came forward. \"Sir, \" he said \"you entrusted me with two talents; here are two more that I have made.\" His master said to him, \"Well done, good and faithful servant; you have shown you can be faithful in small things, I will trust you with greater; come and join in your master's happiness\"."
        ]
       ]
      },
@@ -2759,7 +3304,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    },
    "part": "gospel",
    "from": "common.holy-men-and-women.gospel.12"

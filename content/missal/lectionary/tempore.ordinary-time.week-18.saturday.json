@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -645,7 +645,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 17, 2-3a. 3bc-4. 47 et 51ab (: 2)",
+      "cite": "Ps 17, 2-3a. 3bc-4. 47 et 51ab (R.: 2)",
       "role": "title"
      }
     ],
@@ -657,7 +657,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 17 (18), 2-3.7.47 e 51ab (: 2)",
+      "cite": "Sl 17 (18), 2-3.7.47 e 51ab (R.: 2)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 17, 2-3a. 3bc-4. 47 et 51ab (: 2)",
+      "cite": "Ps 17, 2-3a. 3bc-4. 47 and 51ab (R.: 2)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 17, 2-3a. 3bc-4. 47 et 51ab (: 2)",
+      "cite": "Sal 17, 2-3a. 3bc-4. 47 et 51ab (R.: 2)",
       "role": "title"
      }
     ],
@@ -705,7 +705,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 17, 2-3a. 3bc-4. 47 et 51ab (: 2)",
+      "cite": "Ps 17, 2-3a. 3bc-4. 47 et 51ab (R.: 2)",
       "role": "title"
      }
     ],
@@ -717,7 +717,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 18 (17), 2-3. 4 u. 50. 47 u. 51ab (R: 2)",
+      "cite": "Ps 18 (17), 2-3. 4 u. 50. 47 u. 51ab (R.: 2)",
       "role": "title"
      }
     ]
@@ -2271,7 +2271,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 9, 8-9. 10-11. 12-13 (: 11b)",
+      "cite": "Ps 9, 8-9. 10-11. 12-13 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -2283,7 +2283,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 9, 8-9.10-11.12-13 (: 11b)",
+      "cite": "Sl 9, 8-9.10-11.12-13 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -2295,7 +2295,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 9, 8-9. 10-11. 12-13 (: 11b)",
+      "cite": "Ps 9, 8-9. 10-11. 12-13 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -2307,7 +2307,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 9, 8-9. 10-11. 12-13 (: 11b)",
+      "cite": "Sal 9, 8-9. 10-11. 12-13 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -2331,7 +2331,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 9, 8-9. 10-11. 12-13 (: 11b)",
+      "cite": "Ps 9, 8-9. 10-11. 12-13 (R.: 11b)",
       "role": "title"
      }
     ],
@@ -2343,7 +2343,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 9, 8-9. 10-11. 12-13 (R: vgl. 11b)",
+      "cite": "Ps 9, 8-9. 10-11. 12-13 (R.: vgl. 11b)",
       "role": "title"
      }
     ]
@@ -3203,7 +3203,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Cf. 2 Tim 1, 10",
+      "cite": "Cf. 2 Tm 1, 10",
       "role": "title"
      },
      {
@@ -4000,7 +4000,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XVIII",
   "pt-BR": "Sábado da 18ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 18th Week: Saturday",
+  "en-US": "Saturday of the Eighteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 18ª semana",
   "it": "Sabato della XVIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 18e semaine",

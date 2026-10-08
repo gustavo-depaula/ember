@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -642,7 +642,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 48, 6-7. 8-10. 17-18. 19-20 (: Mt 5, 3)",
+      "cite": "Ps 48, 6-7. 8-10. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -654,7 +654,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 48 (49), 6-7.8-10.17-18.19-20 (: Mt 5, 3)",
+      "cite": "Sl 48 (49), 6-7.8-10.17-18.19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -666,7 +666,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 48, 6-7. 8-10. 17-18. 19-20 (: Mt 5, 3)",
+      "cite": "Ps 48, 6-7. 8-10. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -678,7 +678,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 48, 6-7. 8-10. 17-18. 19-20 (: Mt 5, 3)",
+      "cite": "Sal 48, 6-7. 8-10. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -702,7 +702,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 48, 6-7. 8-10. 17-18. 19-20 (: Mt 5, 3)",
+      "cite": "Ps 48, 6-7. 8-10. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ],
@@ -714,7 +714,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 49 (48), 6-7. 8-9. 17-18. 19-20 (R: Mt 5, 3)",
+      "cite": "Ps 49 (48), 6-7. 8-9. 17-18. 19-20 (R.: Mt 5, 3)",
       "role": "title"
      }
     ]
@@ -1591,7 +1591,7 @@
         "Mas vai-se ele para junto de seus pais,"
        ],
        [
-        "que nunca mais e nunca mais verão a luz!."
+        "que nunca mais e nunca mais verão a luz!"
        ]
       ]
      }
@@ -1712,7 +1712,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Felizes os humildes de espírito porque deles é o Reino dos Céus!."
+        "Felizes os humildes de espírito porque deles é o Reino dos Céus!"
        ]
       ]
      }
@@ -1937,7 +1937,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Lectura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -2327,7 +2327,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 16, 1. 6-7. 8 et 15 (: 15b)",
+      "cite": "Ps 16, 1. 6-7. 8 et 15 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -2339,7 +2339,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 16 (17), 1.6-7.8b e 15 (: 15b)",
+      "cite": "Sl 16 (17), 1.6-7.8b e 15 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -2351,7 +2351,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 16, 1. 6-7. 8 et 15 (: 15b)",
+      "cite": "Ps 16, 1. 6-7. 8 and 15 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -2363,7 +2363,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 16, 1. 6-7. 8 et 15 (: 15b)",
+      "cite": "Sal 16, 1. 6-7. 8 et 15 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -2387,7 +2387,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 16, 1. 6-7. 8 et 15 (: 15b)",
+      "cite": "Ps 16, 1. 6-7. 8 et 15 (R.: 15b)",
       "role": "title"
      }
     ],
@@ -2399,7 +2399,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 17 (16), 1-2. 6-7. 8 u. 15 (R: vgl. 15)",
+      "cite": "Ps 17 (16), 1-2. 6-7. 8 u. 15 (R.: vgl. 15)",
       "role": "title"
      }
     ]
@@ -4002,7 +4002,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XXIV",
   "pt-BR": "Sexta-feira da 24ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 24th Week: Friday",
+  "en-US": "Friday of the Twenty-Fourth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 24ª semana",
   "it": "VENERDI della XXIV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 24e semaine",

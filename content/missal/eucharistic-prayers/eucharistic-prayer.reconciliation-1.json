@@ -313,7 +313,7 @@
          "m": "rubric",
          "t": "até "
         },
-        " como vós sois Santo ",
+        "como vós sois Santo ",
         {
          "m": "rubric",
          "t": "são ditos somente pelo celebrante principal, de braços abertos."
@@ -334,7 +334,7 @@
          "m": "rubric",
          "t": " até "
         },
-        " somos vossos filhos ",
+        "somos vossos filhos ",
         {
          "m": "rubric",
          "t": ", os concelebrantes proferem tudo conjuntamente, em voz baixa (IGMR n. 218), de mãos estendidas para as oferendas."
@@ -403,7 +403,7 @@
          "m": "rubric",
          "t": "e "
         },
-        " Olhai, com amor",
+        "Olhai, com amor",
         {
          "m": "rubric",
          "t": ", de braços abertos."
@@ -435,7 +435,7 @@
          "m": "rubric",
          "t": "Podem ser cantadas sobretudo as seguintes partes da Oração Eucarística: "
         },
-        " Antes, porém",
+        "Antes, porém",
         {
          "m": "rubric",
          "t": ", "
@@ -445,7 +445,7 @@
          "m": "rubric",
          "t": ", "
         },
-        " Do mesmo modo",
+        "Do mesmo modo",
         {
          "m": "rubric",
          "t": ", "
@@ -455,7 +455,7 @@
          "m": "rubric",
          "t": ", "
         },
-        " Olhai, com amor",
+        "Olhai, com amor",
         {
          "m": "rubric",
          "t": ", assim como a doxologia final."
@@ -1794,7 +1794,7 @@
        [
         {
          "m": "rubric",
-         "t": "Sacerdos, manibus extensis, dicit: "
+         "t": "Sacerdos, manibus extensis, dicit:"
         }
        ]
       ]
@@ -1807,7 +1807,7 @@
        [
         {
          "m": "rubric",
-         "t": "O sacerdote, de braços abertos, diz: "
+         "t": "O sacerdote, de braços abertos, diz:"
         }
        ]
       ]
@@ -1859,7 +1859,7 @@
        [
         {
          "m": "rubric",
-         "t": "Le prêtre dit, les mains étendues : "
+         "t": "Le prêtre dit, les mains étendues :"
         }
        ]
       ]
@@ -3326,7 +3326,7 @@
        [
         {
          "m": "rubric",
-         "t": "Postea prosequitur: "
+         "t": "Postea prosequitur:"
         }
        ]
       ]
@@ -3339,7 +3339,7 @@
        [
         {
          "m": "rubric",
-         "t": "Em seguida diz: "
+         "t": "Em seguida diz:"
         }
        ]
       ]
@@ -3391,7 +3391,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ensuite il continue : "
+         "t": "Ensuite il continue :"
         }
        ]
       ]
@@ -4003,7 +4003,7 @@
        [
         {
          "m": "rubric",
-         "t": "Deinde dicit:  Vel:  Vel: "
+         "t": "Deinde dicit:"
         }
        ]
       ]
@@ -4016,7 +4016,7 @@
        [
         {
          "m": "rubric",
-         "t": "Em seguida diz:  Ou:  Ou: "
+         "t": "Em seguida diz:"
         }
        ]
       ]
@@ -4042,7 +4042,7 @@
        [
         {
          "m": "rubric",
-         "t": "Luego dice una de las siguientes fórmulas: "
+         "t": "Luego dice una de las siguientes fórmulas:"
         }
        ]
       ]
@@ -4055,7 +4055,7 @@
        [
         {
          "m": "rubric",
-         "t": "Quindi, il sacerdote canta o dice: Oppure:  Oppure: "
+         "t": "Quindi, il sacerdote canta o dice:"
         }
        ]
       ]
@@ -4068,7 +4068,7 @@
        [
         {
          "m": "rubric",
-         "t": "Puis il introduit une des acclamations suivantes :  Ou bien :  Ou bien : "
+         "t": "Puis il introduit une des acclamations suivantes : Ou bien : Ou bien :"
         }
        ]
       ]
@@ -4231,19 +4231,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -4354,6 +4341,102 @@
     ]
    },
    "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -4496,19 +4579,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -4634,6 +4704,102 @@
     ]
    },
    "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vel:"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Or:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien :"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oder:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
   },
   {
    "text": {
@@ -4776,19 +4942,6 @@
        ]
       ]
      }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
-       ]
-      ]
-     }
     ]
    }
   },
@@ -4903,7 +5056,7 @@
        [
         {
          "m": "rubric",
-         "t": "Deinde sacerdos, extensis manibus, dicit: "
+         "t": "Deinde sacerdos, extensis manibus, dicit:"
         }
        ]
       ]
@@ -5371,7 +5524,7 @@
         "e ao nosso Bispo ",
         {
          "m": "rubric",
-         "t": "N.*"
+         "t": "N."
         },
         "."
        ],
@@ -5796,7 +5949,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ergue a patena com a hóstia e o cálice, dizendo: "
+         "t": "Ergue a patena com a hóstia e o cálice, dizendo:"
         }
        ]
       ]
@@ -6257,8 +6410,8 @@
  ],
  "title": {
   "la": "PREX EUCHARISTICA « DE RECONCILIATIONE » — I",
-  "pt-BR": "ORAÇÃO EUCARÍSTICA SOBRE A RECONCILIAÇÃO I",
-  "en-US": "Eucharistic Prayers for Masses of Reconciliation — I",
+  "pt-BR": "Oração Eucarística sobre a Reconciliação I",
+  "en-US": "Eucharistic Prayer for Reconciliation I",
   "es": "PLEGARIA EUCARÍSTICA — SOBRE LA RECONCILIACIÓN I",
   "it": "PREGHIERA EUCARISTICA — DELLA RICONCILIAZIONE I",
   "fr": "PRIÈRE EUCHARISTIQUE POUR LA RÉCONCILIATION — N° 1"

@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -51,6 +42,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "O Bom Pastor dá a vida por suas ovelhas."
        ]
       ],
@@ -76,6 +76,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -88,6 +97,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -117,6 +135,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "II buon pastore dà la propria vita per le pecore."
        ]
       ],
@@ -142,6 +169,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -154,6 +190,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -289,7 +334,7 @@
       "k": "p",
       "lines": [
        [
-        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — ​et lupus rapit eas et dispérgit — ​quia mercennárius est et non pértinet ad eum de óvibus."
+        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — et lupus rapit eas et dispérgit — quia mercennárius est et non pértinet ad eum de óvibus."
        ]
       ]
      },

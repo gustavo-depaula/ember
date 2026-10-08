@@ -683,7 +683,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 2-3. 6-7. 16-17 (: cf. 2a)",
+      "cite": "Ps 88, 2-3. 6-7. 16-17 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -695,7 +695,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 88 (89), 2-3.6-7.16-17 (R: cf. 2a",
+      "cite": "Sl 88 (89), 2-3.6-7.16-17 (R.: cf. 2a",
       "role": "title"
      }
     ],
@@ -707,7 +707,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 88, 2-3. 6-7. 16-17 (: cf. 2a)",
+      "cite": "Ps 88, 2-3. 6-7. 16-17 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -719,7 +719,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 88, 2-3. 6-7. 16-17 (R: cf. 2a)",
+      "cite": "Sal 88, 2-3. 6-7. 16-17 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -743,7 +743,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 2-3. 6-7. 16-17 (: cf. 2a)",
+      "cite": "Ps 88, 2-3. 6-7. 16-17 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -755,7 +755,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 2-3. 6-7. 16-17 (R: 2a)",
+      "cite": "Ps 89 (88), 2-3. 6-7. 16-17 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -2543,8 +2543,8 @@
  ],
  "title": {
   "la": "S. MARCI, EVANGELISTÆ",
-  "pt-BR": "SÃO MARCOS, EVANGELISTA",
-  "en-US": "ST. MARK, EVANGELIST",
+  "pt-BR": "São Marcos, Evangelista",
+  "en-US": "Saint Mark, Evangelist",
   "es": "SAN MARCOS, EVANGELISTA",
   "it": "SAN MARCO EVANGELISTA",
   "fr": "SAINT MARC, ÉVANGÉLISTE",

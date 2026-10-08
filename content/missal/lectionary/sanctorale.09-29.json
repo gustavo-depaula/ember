@@ -270,7 +270,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the book of Daniel"
+        "A reading from the Book of the Prophet Daniel"
        ]
       ],
       "cite": "7:9-10.13-14",
@@ -593,7 +593,7 @@
       "k": "p",
       "lines": [
        [
-        "Primeira leitura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -678,7 +678,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera lectura"
+        "Primera Lectura"
        ]
       ],
       "role": "title"
@@ -987,7 +987,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 137, 1-2a. 2bcd-3. 4-5 (: 1c)",
+      "cite": "Ps 137, 1-2a. 2bcd-3. 4-5 (R.: 1c)",
       "role": "title"
      }
     ],
@@ -1011,7 +1011,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 137, 1-2a. 2bcd-3. 4-5 (: 1c)",
+      "cite": "Ps 137, 1-2a. 2bcd-3. 4-5 (R.: 1c)",
       "role": "title"
      }
     ],
@@ -1047,7 +1047,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 137, 1-2a. 2bcd-3. 4-5 (: 1c)",
+      "cite": "Ps 137, 1-2a. 2bcd-3. 4-5 (R.: 1c)",
       "role": "title"
      }
     ],
@@ -1059,7 +1059,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 138 (137), 1-2b. 2c-3. 4-5 (R: vgl. 1b)",
+      "cite": "Ps 138 (137), 1-2b. 2c-3. 4-5 (R.: vgl. 1b)",
       "role": "title"
      }
     ]
@@ -1917,7 +1917,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Sal 102, 21",
+      "cite": "Sl 102, 21",
       "role": "title"
      },
      {
@@ -2757,7 +2757,7 @@
  ],
  "title": {
   "la": "SS. MICHAELIS, GABRIELIS ET RAPHAELIS, ARCHANGELORUM",
-  "pt-BR": "SÃO MIGUEL, SÃO GABIEL e SÃO RAFAEL, ARCANJOS",
+  "pt-BR": "Santos Miguel, Gabriel e Rafael, Arcanjos",
   "en-US": "Ss Michael, Gabriel and Raphael, Archangels",
   "es": "SANTOS ARCÁNGELES MIGUEL, GABRIEL Y RAFAEL",
   "it": "SANTI ARCANGELI MICHELE, GABRIELE E RAffAELE",

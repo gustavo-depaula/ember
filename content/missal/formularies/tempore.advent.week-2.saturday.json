@@ -863,7 +863,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1110,8 +1110,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada II — Sabbato",
-  "pt-BR": "Tempo do Advento — Segunda semana — Sábado",
-  "en-US": "Advent Season — 2nd Week: Saturday",
+  "pt-BR": "Sábado da 2ª Semana do Advento",
+  "en-US": "Saturday of the Second Week of Advent",
   "es": "Tiempo de Adviento — Sábado de la II Semana",
   "it": "Tempo di Avvento — II SETTIMANA — Sabato",
   "fr": "Temps de l'Avent — 2e semaine — Samedi",

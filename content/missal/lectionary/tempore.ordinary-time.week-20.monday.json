@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -655,7 +655,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 105, 34-35. 36-37. 39-40. 43ab et 44 (: 4a)",
+      "cite": "Ps 105, 34-35. 36-37. 39-40. 43ab et 44 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -667,7 +667,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 105 (106), 34-35.36-37.39-40 (: 4a)",
+      "cite": "Sl 105 (106), 34-35.36-37.39-40 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -679,7 +679,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 105, 34-35. 36-37. 39-40. 43ab et 44 (: 4a)",
+      "cite": "Ps 105, 34-35. 36-37. 39-40. 43ab and 44 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -691,7 +691,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 105, 34-35. 36-37. 39-40. 43ab et 44 (: 4a)",
+      "cite": "Sal 105, 34-35. 36-37. 39-40. 43ab et 44 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -715,7 +715,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 105, 34-35. 36-37. 39-40. 43ab et 44 (: 4a)",
+      "cite": "Ps 105, 34-35. 36-37. 39-40. 43ab et 44 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -727,7 +727,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 106 (105), 34-35. 36-37. 39-40. 43-44 (R: vgl. 4a)",
+      "cite": "Ps 106 (105), 34-35. 36-37. 39-40. 43-44 (R.: vgl. 4a)",
       "role": "title"
      }
     ]
@@ -1940,7 +1940,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Lectura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -1996,7 +1996,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Ezekiel"
+        "A reading from the Book of the Prophet Ezekiel"
        ]
       ],
       "cite": "24:15-24",
@@ -2336,7 +2336,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Dt 32, 18-19. 20. 21 (: cf. 18a)",
+      "cite": "Dt 32, 18-19. 20. 21 (R.: cf. 18a)",
       "role": "title"
      }
     ],
@@ -2348,7 +2348,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dt 32, 18-19.20.21 (R. cf. 18a)",
+      "cite": "Dt 32, 18-19.20.21 (R.: cf. 18a)",
       "role": "title"
      }
     ],
@@ -2360,7 +2360,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Deut 32, 18-19. 20. 21 (: cf. 18a)",
+      "cite": "Deut 32, 18-19. 20. 21 (R.: cf. 18a)",
       "role": "title"
      }
     ],
@@ -2372,7 +2372,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dt 32, 18-19. 20. 21 (: cf. 18a)",
+      "cite": "Dt 32, 18-19. 20. 21 (R.: cf. 18a)",
       "role": "title"
      }
     ],
@@ -2396,7 +2396,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Dt 32, 18-19. 20. 21 (: cf. 18a)",
+      "cite": "Dt 32, 18-19. 20. 21 (R.: cf. 18a)",
       "role": "title"
      }
     ],
@@ -2408,7 +2408,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Dtn 32, 18-19. 20. 21 (R: vgl. 18a)",
+      "cite": "Dtn 32, 18-19. 20. 21 (R.: vgl. 18a)",
       "role": "title"
      }
     ]
@@ -4112,7 +4112,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. XX",
   "pt-BR": "Segunda-feira da 20ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 20th Week: Monday",
+  "en-US": "Monday of the Twentieth Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 20ª semana",
   "it": "LUNEDI della XX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 20e semaine",

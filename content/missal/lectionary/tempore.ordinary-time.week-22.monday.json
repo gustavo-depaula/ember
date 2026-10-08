@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -633,7 +633,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 1 et 3. 4-5. 11-12a. 12b-13 (: 13b)",
+      "cite": "Ps 95, 1 et 3. 4-5. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -645,7 +645,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), l e 3.4-5.11-12.13 (: 13b)",
+      "cite": "Sl 95 (96), 1 e 3.4-5.11-12.13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -657,7 +657,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "95, 1 et 3. 4-5. 11-12a. 12b-13 (: 13b)",
+      "cite": "95, 1 and 3. 4-5. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 1 et 3. 4-5. 11-12a. 12b-13 (: 13b)",
+      "cite": "Sal 95, 1 et 3. 4-5. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -693,7 +693,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 1 et 3. 4-5. 11-12a. 12b-13 (: 13b)",
+      "cite": "Ps 95, 1 et 3. 4-5. 11-12a. 12b-13 (R.: 13b)",
       "role": "title"
      }
     ],
@@ -705,7 +705,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 1 u. 3. 4-5. 11-12. 13 (R: vgl. 13ab)",
+      "cite": "Ps 96 (95), 1 u. 3. 4-5. 11-12. 13 (R.: vgl. 13ab)",
       "role": "title"
      }
     ]
@@ -2274,7 +2274,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 97. 98. 99. 100. 101. 102 (: 97a)",
+      "cite": "Ps 118, 97. 98. 99. 100. 101. 102 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -2286,7 +2286,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 97.98.99.100.101.102 (: 97a))",
+      "cite": "Sl 118 (119), 97.98.99.100.101.102 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -2298,7 +2298,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "118, 97. 98. 99. 100. 101. 102 (: 97a)",
+      "cite": "118, 97. 98. 99. 100. 101. 102 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -2310,7 +2310,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 97. 98. 99. 100. 101. 102 (: 97a)",
+      "cite": "Sal 118, 97. 98. 99. 100. 101. 102 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -2334,7 +2334,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 97. 98. 99. 100. 101. 102 (: 97a)",
+      "cite": "Ps 118, 97. 98. 99. 100. 101. 102 (R.: 97a)",
       "role": "title"
      }
     ],
@@ -2346,7 +2346,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 97-98. 99-100. 101-102 (R: 97a)",
+      "cite": "Ps 119 (118), 97-98. 99-100. 101-102 (R.: 97a)",
       "role": "title"
      }
     ]
@@ -4596,7 +4596,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. XXII",
   "pt-BR": "Segunda-feira da 22ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 22nd Week: Monday",
+  "en-US": "Monday of the Twenty-Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 22ª semana",
   "it": "LUNEDI della XXII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 22e semaine",

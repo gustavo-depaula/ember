@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -291,7 +291,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Daniel"
+        "A reading from the Book of the Prophet Daniel"
        ]
       ],
       "cite": "7:15-27",
@@ -660,7 +660,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (: 59b)",
+      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -672,7 +672,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dn 3, 82.83.84.85.86.87 (: 59b)",
+      "cite": "Dn 3, 82.83.84.85.86.87 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -684,7 +684,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (: 59b)",
+      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -696,7 +696,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (: 59b)",
+      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -720,7 +720,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (: 59b)",
+      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -732,7 +732,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (R: 82b)",
+      "cite": "Dan 3, 82. 83. 84. 85. 86. 87 (R.: 82b)",
       "role": "title"
      }
     ]
@@ -1787,7 +1787,7 @@
       "k": "p",
       "lines": [
        [
-        "Santos e humildes, bendizei o Senhor!."
+        "Santos e humildes, bendizei o Senhor!"
        ]
       ]
      }
@@ -1875,7 +1875,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Louvai-o e exaltai-o, pelos séculos sem fim!."
+        "Louvai-o e exaltai-o, pelos séculos sem fim!"
        ]
       ]
      }
@@ -2500,7 +2500,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 94, 1-2. 3-5. 6-7 (: 1 Cor 16, 22b et Ap 22, 20c)",
+      "cite": "Ps 94, 1-2. 3-5. 6-7 (R.: 1 Cor 16, 22b et Ap 22, 20c)",
       "role": "title"
      }
     ],
@@ -2512,7 +2512,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 94 (95), 1-2.3-5.6-7 (: 1 Cor 16, 22b e Ap 22, 20c)",
+      "cite": "Sl 94 (95), 1-2.3-5.6-7 (R.: 1 Cor 16, 22b e Ap 22, 20c)",
       "role": "title"
      }
     ],
@@ -2524,7 +2524,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 94, 1-2. 3-5. 6-7 (: 1 Cor 16, 22b et Ap 22, 20c)",
+      "cite": "Ps 94, 1-2. 3-5. 6-7 (R.: 1 Cor 16, 22b and Ap 22, 20c)",
       "role": "title"
      }
     ],
@@ -2536,7 +2536,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 94, 1-2. 3-5. 6-7 (: 1 Cor 16, 22b et Ap 22, 20c)",
+      "cite": "Sal 94, 1-2. 3-5. 6-7 (R.: 1 Cor 16, 22b et Ap 22, 20c)",
       "role": "title"
      }
     ],
@@ -2560,7 +2560,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 94, 1-2. 3-5. 6-7 (: 1 Cor 16, 22b et Ap 22, 20c)",
+      "cite": "Ps 94, 1-2. 3-5. 6-7 (R.: 1 Cor 16, 22b et Ap 22, 20c)",
       "role": "title"
      }
     ],
@@ -2572,7 +2572,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 95 (94), 1-2. 4-5. 6-7 (R: 1 Kor 16, 22b u. Offb 22, 20c)",
+      "cite": "Ps 95 (94), 1-2. 4-5. 6-7 (R.: 1 Kor 16, 22b u. Offb 22, 20c)",
       "role": "title"
      }
     ]
@@ -4220,7 +4220,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. XXXIV",
   "pt-BR": "Sábado da 34ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 34th Week: Saturday",
+  "en-US": "Saturday of the Thirty-Fourth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 34ª semana",
   "it": "Sabato della XXXIV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 34e semaine",

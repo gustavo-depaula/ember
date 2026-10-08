@@ -191,7 +191,7 @@
       "k": "p",
       "lines": [
        [
-        "Deus houve por bem salvar os que crêem por meio da insensatez da pregação."
+        "Deus houve por bem salvar os que creem por meio da insensatez da pregação."
        ]
       ],
       "role": "summary"
@@ -200,7 +200,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da primeira Carta de São Paulo aos Coríntios"
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
        ]
       ],
       "cite": "1, 18-25",
@@ -210,7 +210,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: \"Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes\". Onde está o sábio? Onde o mestre da Lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria: por isso, Deus houve por bem salvar os que crêem por meio da insensatez da pregação. Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens."
+        "Irmãos: A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: \"Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes\". Onde está o sábio? Onde o mestre da Lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria: por isso, Deus houve por bem salvar os que creem por meio da insensatez da pregação. Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens."
        ]
       ]
      },
@@ -585,38 +585,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.8"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 116(117), 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
@@ -624,15 +612,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mk 16, 15)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
@@ -640,7 +636,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 116(117)",
       "role": "title"
      }
@@ -648,16 +648,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 117 (116), 1. 2 (R: vgl. Mk 16, 15)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 117 (116), 1. 2 (R.: vgl. Mk 16, 15)",
       "role": "title"
      }
     ]
@@ -1250,46 +1258,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cpaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.5"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1319,6 +1297,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Eu farei de vós pescadores de homens."
        ]
       ],
@@ -1344,6 +1331,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1356,6 +1352,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1385,6 +1390,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vi farò diventare pescatori di uomini."
        ]
       ],
@@ -1410,6 +1424,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1422,6 +1445,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1588,7 +1620,7 @@
       "k": "p",
       "lines": [
        [
-        "Depois que João Batista foi preso, Jesus foi para a Galiléia, pregando o Evangelho de Deus e dizendo: \"O tempo já se completou e o Reino de Deus está próximo. Convertei-vos e crede no Evangelho!\" E, passando à beira do mar da Galiléia, Jesus viu Simão e André, seu irmão, que lançavam a rede ao mar, pois eram pescadores. Jesus lhes disse: \"Segui-me e eu farei de vós pescadores de homens\". E eles, deixando imediatamente as redes, seguiram Jesus. Caminhando mais um pouco, viu também Tiago e João, filhos de Zebedeu. Estavam na barca, consertando as redes; e logo os chamou. Eles deixaram seu pai Zebedeu na barca com os empregados, e partiram, seguindo Jesus."
+        "Depois que João Batista foi preso, Jesus foi para a Galileia, pregando o Evangelho de Deus e dizendo: \"O tempo já se completou e o Reino de Deus está próximo. Convertei-vos e crede no Evangelho!\" E, passando à beira do mar da Galileia, Jesus viu Simão e André, seu irmão, que lançavam a rede ao mar, pois eram pescadores. Jesus lhes disse: \"Segui-me e eu farei de vós pescadores de homens\". E eles, deixando imediatamente as redes, seguiram Jesus. Caminhando mais um pouco, viu também Tiago e João, filhos de Zebedeu. Estavam na barca, consertando as redes; e logo os chamou. Eles deixaram seu pai Zebedeu na barca com os empregados, e partiram, seguindo Jesus."
        ]
       ]
      },
@@ -1872,7 +1904,7 @@
  "title": {
   "la": "S. Petri Chanel, presbyteri et martyris",
   "pt-BR": "São Pedro Chanel, presbítero e mártir",
-  "en-US": "St. Peter Chanel, priest and martyr",
+  "en-US": "Saint Peter Chanel, priest and martyr",
   "es": "San Pedro Chanel, presbítero y mártir",
   "it": "San Pietro Chanel, sacerdote e martire",
   "fr": "Saint Pierre Chanel, prêtre et martyr",

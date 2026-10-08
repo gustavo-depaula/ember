@@ -275,7 +275,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -296,7 +296,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -380,7 +380,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -651,10 +651,10 @@
          "m": "rubric",
          "t": "Dicitur "
         },
-        " Credo",
+        "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -669,10 +669,10 @@
          "m": "rubric",
          "t": "Diz-se o "
         },
-        " Creio",
+        "Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -734,10 +734,10 @@
          "m": "rubric",
          "t": "On récite le "
         },
-        " Credo",
+        "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1117,7 +1117,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1126,7 +1126,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1135,7 +1135,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1405,7 +1405,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1418,7 +1418,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1431,7 +1431,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1490,8 +1490,8 @@
  ],
  "title": {
   "la": "DOMINICA VI PASCHÆ",
-  "pt-BR": "SEXTO DOMINGO DA PÁSCOA",
-  "en-US": "Easter Season — SIXTH SUNDAY OF EASTER",
+  "pt-BR": "6º Domingo da Páscoa",
+  "en-US": "Sixth Sunday of Easter",
   "es": "VI DOMINGO DE PASCUA",
   "it": "VI DOMENICA DI PASQUA",
   "fr": "6e DIMANCHE DE PÂQUES",

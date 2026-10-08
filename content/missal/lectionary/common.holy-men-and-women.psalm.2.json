@@ -3,50 +3,48 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: 1b)",
+      ],
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: 1b)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: cf. 1b)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: cf. 1b)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 14(15), 2-3ab. 3cd-4ab. 5 (R.: 1b)",
       "role": "title"
      },
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 14, 2-3ab. 3cd-4ab. 5 (R.: 1b)",
       "role": "title"
      }
@@ -54,7 +52,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 14 (15)",
       "role": "title"
      }
@@ -62,16 +64,36 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: 1b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: 1b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 15 (14), 2-3. 4. 5 (R: vgl. 1b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 15 (14), 2-3. 4. 5 (R.: vgl. 1b)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 14, 2-3ab. 3cd-4ab. 5 (R.: 1b)",
       "role": "title"
      }
     ]
@@ -426,7 +448,7 @@
       "k": "p",
       "lines": [
        [
-        "Que em nada prejudica o seu irmão, nem cobre de insultos seu vizinho; aque não dá valor algum ao homem ímpio, mas honra os que respeitam o Senhor."
+        "Que em nada prejudica o seu irmão, nem cobre de insultos seu vizinho; que não dá valor algum ao homem ímpio, mas honra os que respeitam o Senhor."
        ]
       ]
      }

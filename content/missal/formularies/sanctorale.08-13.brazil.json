@@ -1,0 +1,222 @@
+{
+ "id": "sanctorale.08-13.brazil",
+ "kind": "sanctoral",
+ "commons": [
+  "common.virgins.1"
+ ],
+ "title": {
+  "*": "Santa Dulce Lopes Pontes, virgem"
+ },
+ "subtitle": {
+  "*": "Memória"
+ },
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(nas dioceses do Brasil)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "13 de agosto"
+       ],
+       [
+        "Santa Dulce Lopes Pontes, virgem"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Mt 25, 34. 36. 40"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vinde, benditos do meu Pai, diz o Senhor. Eu estava doente e cuidastes de mim. Em verdade vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus de misericórdia, que concedestes a Santa Dulce o dom de socorrer os necessitados nas suas enfermidades, dai-nos, por seu exemplo, o espírito de pobreza e a graça de vos servir com solicitude nos irmãos sofredores. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, proclamando-vos admirável, na virgem Santa Dulce, humildemente vos pedimos: como vos foram agradáveis os méritos da sua vida, assim vos agrade o serviço do nosso culto. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Jo 14, 23"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se alguém me ama, guardará a minha palavra, diz o Senhor; meu Pai o amará, e nós viremos e faremos nele a nossa morada."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Revigorados por estes sagrados mistérios, concedei-nos, Senhor, seguir o exemplo de Santa Dulce, que vos serviu com filial constância e se dedicou ao vosso povo com imensa caridade. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ]
+}

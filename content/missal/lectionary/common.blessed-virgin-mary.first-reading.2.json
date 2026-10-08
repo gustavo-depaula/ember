@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -96,6 +87,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Assim como prometera a nossos pais, a Abraão e a seus filhos para sempre (Lc 1, 55)."
        ]
       ],
@@ -115,7 +115,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias: O Senhor disse a Abrão: \"Sai da tua terra, da tua família e da casa do teu pai, e vai para a terra que eu te vou mostrar. Farei de ti um grande povo e te abençoarei: engrandecerei o teu nome, de modo que ele se torne uma benção. Abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; em ti serão abençoadas todas as famílias da terra!\". E Abrão partiu, como o Senhor lhe havia dito, e Ló foi com ele. Tinha Abrão setenta e cinco anos, quando partiu de Harã. Ele levou consigo sua mulher Sarai, seu sobrinho Ló e todos os bens que possuíam, bem como todos os escravos que haviam adquirido em Harã. Partiram rumo à terra de Canaã e ali chegaram. Abrão atravessou o país até o santuário de Siquém, até o carvalho de Moré. Os cananeus estavam então naquela terra. O Senhor apareceu a Abrão e lhe disse: \"Darei esta terra à tua descendência\". Abrão ergueu ali um altar ao Senhor, que lhe tinha aparecido."
+        "Naqueles dias: O Senhor disse a Abrão: \"Sai da tua terra, da tua família e da casa do teu pai, e vai para a terra que eu te vou mostrar. Farei de ti um grande povo e te abençoarei: engrandecerei o teu nome, de modo que ele se torne uma bênção. Abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; em ti serão abençoadas todas as famílias da terra!\". E Abrão partiu, como o Senhor lhe havia dito, e Ló foi com ele. Tinha Abrão setenta e cinco anos, quando partiu de Harã. Ele levou consigo sua mulher Sarai, seu sobrinho Ló e todos os bens que possuíam, bem como todos os escravos que haviam adquirido em Harã. Partiram rumo à terra de Canaã e ali chegaram. Abrão atravessou o país até o santuário de Siquém, até o carvalho de Moré. Os cananeus estavam então naquela terra. O Senhor apareceu a Abrão e lhe disse: \"Darei esta terra à tua descendência\". Abrão ergueu ali um altar ao Senhor, que lhe tinha aparecido."
        ]
       ]
      },
@@ -130,6 +130,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -159,6 +168,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -228,6 +246,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Come aveva detto ai nostri padri, per Abramo e la sua discendenza, per sempre."
        ]
       ],
@@ -284,6 +311,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de la Genèse"
        ]
       ],
@@ -309,6 +345,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

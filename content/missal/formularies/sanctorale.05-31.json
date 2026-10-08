@@ -348,7 +348,7 @@
          "m": "rubric",
          "t": "(T. P. "
         },
-        " Alleluia",
+        "Alleluia",
         {
          "m": "rubric",
          "t": ")"
@@ -406,7 +406,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -424,7 +424,7 @@
         "Glória",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -508,7 +508,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1146,7 +1146,7 @@
          "m": "rubric",
          "t": "(T. P. "
         },
-        " Alleluia",
+        "Alleluia",
         {
          "m": "rubric",
          "t": ")."
@@ -1409,7 +1409,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1422,7 +1422,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1435,7 +1435,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1477,8 +1477,8 @@
  ],
  "title": {
   "la": "IN VISITATIONE BEATÆ MARIÆ VIRGINIS",
-  "pt-BR": "VISITAÇÃO DA BEM-AVENTURADA VIRGEM MARIA",
-  "en-US": "THE VISITATION OF THE BLESSED VIRGIN MARY",
+  "pt-BR": "Visitação da Bem-Aventurada Virgem Maria",
+  "en-US": "The Visitation of the Blessed Virgin Mary",
   "es": "LA VISITACIÓN DE LA VIRGEN MARÍA",
   "it": "VISITAZIONE DELLA BEATA VERGINE MARIA",
   "fr": "VISITATION DE LA BIENHEUREUSE VIERGE MARIE",

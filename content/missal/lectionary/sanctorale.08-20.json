@@ -232,7 +232,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura do livro do Eclesiástico"
+        "Leitura do Livro do Eclesiástico"
        ]
       ],
       "cite": "15, 1-6",
@@ -242,7 +242,7 @@
       "k": "p",
       "lines": [
        [
-        "Quem teme a Deus faz o bem; e quem observa a lei consegue a sabedoria. Ela vem ao seu encontro como mãe venerada, e como jovem esposa o abraça. Ela o alimenta com o pão da vida e do entendimento e lhe dá de beber a água da salutar sabedoria. Nela ele se apoia e não cai; confia nela e não será enganado. Ela o eleva entre seus companheiros e faz com que ele tome a palvra no meio da assembléia. Ela o encherá do espírito de sabedoria e inteligencia, e o cobrirá com o manto da glória. Ele encontra a felicidade e uma coroa de alegria e ainda terá, como herança, um nome imortal."
+        "Quem teme a Deus faz o bem; e quem observa a lei consegue a sabedoria. Ela vem ao seu encontro como mãe venerada, e como jovem esposa o abraça. Ela o alimenta com o pão da vida e do entendimento e lhe dá de beber a água da salutar sabedoria. Nela ele se apoia e não cai; confia nela e não será enganado. Ela o eleva entre seus companheiros e faz com que ele tome a palvra no meio da assembleia. Ela o encherá do espírito de sabedoria e inteligencia, e o cobrirá com o manto da glória. Ele encontra a felicidade e uma coroa de alegria e ainda terá, como herança, um nome imortal."
        ]
       ]
      },
@@ -623,38 +623,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.doctors.psalm.3"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)",
+      ],
+      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 118(119), 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
@@ -662,15 +650,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 118, 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
@@ -678,7 +674,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 118 (119)",
       "role": "title"
      }
@@ -686,16 +686,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (: 12b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 118, 9. 10. 11. 12. 13. 14 (R.: 12b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 119 (118), 9-10. 11-12. 13-14 (R: 12b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 119 (118), 9-10. 11-12. 13-14 (R.: 12b)",
       "role": "title"
      }
     ]
@@ -1950,30 +1958,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "13"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -2014,7 +2006,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 15, 9b. 5b",
       "role": "title"
      },
@@ -2052,7 +2048,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 15:9.5",
       "role": "title"
      },
@@ -2074,7 +2074,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 15, 9b. 5b",
       "role": "title"
      },
@@ -2115,7 +2119,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 15, 9b.5b",
       "role": "title"
      },
@@ -2137,7 +2145,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -2178,7 +2190,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 15, 9b. 5b",
       "role": "title"
      },
@@ -2219,27 +2235,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "26"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.26"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2269,6 +2274,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Quero que estejam comigo onde eu estiver."
        ]
       ],
@@ -2294,6 +2308,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2306,6 +2329,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2335,6 +2367,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Padre, voglio che quelli che mi hai dato siano anch'essi con me dove sono io."
        ]
       ],
@@ -2360,6 +2401,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2372,6 +2422,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2812,7 +2871,7 @@
  "title": {
   "la": "S. Bernardi, abbatis et Ecclesiæ doctoris",
   "pt-BR": "São Bernardo, abade e doutor da Igreja",
-  "en-US": "St. Bernard, abbot and doctor of the Church",
+  "en-US": "Saint Bernard, abbot and doctor of the Church",
   "es": "San Bernardo, abad y doctor de la Iglesia",
   "it": "San Bernardo, abate e dottore della Chiesa",
   "fr": "Saint Bernard, abbé et docteur de l'Église",

@@ -861,7 +861,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1241,7 +1241,7 @@
        [
         {
          "m": "rubric",
-         "t": "The mystery of the Temple of God, which is the Church. "
+         "t": "The mystery of the Temple of God, which is the Church."
         }
        ]
       ]
@@ -1386,7 +1386,7 @@
        [
         {
          "m": "rubric",
-         "t": " Il mistero del tempio di Dio che è la Chiesa"
+         "t": "Il mistero del tempio di Dio che è la Chiesa"
         }
        ]
       ]
@@ -2763,8 +2763,8 @@
  ],
  "title": {
   "la": "COMMUNE DEDICATIONIS ECCLESIÆ",
-  "pt-BR": "COMUM DA DEDICAÇÃO DE UMA IGREJA",
-  "en-US": "COMMON OF THE DEDICATION OF A CHURCH",
+  "pt-BR": "Comum da Dedicação de Uma Igreja",
+  "en-US": "Common of the Dedication of a Church",
   "es": "COMÚN DE LA DEDICACIÓN DE UNA IGLESIA",
   "it": "COMUNE DELLA DEDICAZIONE DELLA CHIESA",
   "fr": "COMMUN DE LA DÉDICACE",

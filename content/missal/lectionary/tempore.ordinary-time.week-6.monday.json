@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -773,7 +773,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 49, 1 et 8. 16bc-17. 20-21 (: 14a)",
+      "cite": "Ps 49, 1 et 8. 16bc-17. 20-21 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -785,7 +785,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 49 (50), 1 e 8.16bc-17.20-21 (: 14a)",
+      "cite": "Sl 49 (50), 1 e 8.16bc-17.20-21 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -797,7 +797,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 49, 1 et 8. 16bc-17. 20-21 (: 14a)",
+      "cite": "Ps 49, 1 and 8. 16bc-17. 20-21 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -809,7 +809,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 49, 1 et 8. 16bc-17. 20-21 (: 14a)",
+      "cite": "Sal 49, 1 et 8. 16bc-17. 20-21 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -833,7 +833,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 49, 1 et 8. 16bc-17. 20-21 (: 14a)",
+      "cite": "Ps 49, 1 et 8. 16bc-17. 20-21 (R.: 14a)",
       "role": "title"
      }
     ],
@@ -845,7 +845,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 50 (49), 1 u. 8. 16b-17. 20-21 (R: vgl. 14a)",
+      "cite": "Ps 50 (49), 1 u. 8. 16b-17. 20-21 (R.: vgl. 14a)",
       "role": "title"
      }
     ]
@@ -2229,7 +2229,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 67. 68. 71. 72. 75. 76 (: 77a)",
+      "cite": "Ps 118, 67. 68. 71. 72. 75. 76 (R.: 77a)",
       "role": "title"
      }
     ],
@@ -2241,7 +2241,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 67-68.71-72.75-76 (: 77a)",
+      "cite": "Sl 118 (119), 67-68.71-72.75-76 (R.: 77a)",
       "role": "title"
      }
     ],
@@ -2253,7 +2253,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 67. 68. 71. 72. 75. 76 (: 77a)",
+      "cite": "Ps 118, 67. 68. 71. 72. 75. 76 (R.: 77a)",
       "role": "title"
      }
     ],
@@ -2265,7 +2265,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 67. 68. 71. 72. 75. 76 (: 77a)",
+      "cite": "Sal 118, 67. 68. 71. 72. 75. 76 (R.: 77a)",
       "role": "title"
      }
     ],
@@ -2289,7 +2289,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 67. 68. 71. 72. 75. 76 (: 77a)",
+      "cite": "Ps 118, 67. 68. 71. 72. 75. 76 (R.: 77a)",
       "role": "title"
      }
     ],
@@ -2301,7 +2301,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 67-68. 71-72. 75-76 (R: 77a)",
+      "cite": "Ps 119 (118), 67-68. 71-72. 75-76 (R.: 77a)",
       "role": "title"
      }
     ]
@@ -2376,7 +2376,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Venga a me la tua misericordia e avrò vita."
+        "Venga a me la tua misericordia e avrò vita."
        ],
        [
         {
@@ -2591,7 +2591,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Venga a me la tua misericordia e avrò vita."
+        "Venga a me la tua misericordia e avrò vita."
        ],
        [
         {
@@ -2792,7 +2792,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Venga a me la tua misericordia e avrò vita."
+        "Venga a me la tua misericordia e avrò vita."
        ],
        [
         {
@@ -3007,7 +3007,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Venga a me la tua misericordia e avrò vita."
+        "Venga a me la tua misericordia e avrò vita."
        ],
        [
         {
@@ -3584,7 +3584,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Jn 14, 6",
+      "cite": "Jo 14, 6",
       "role": "title"
      },
      {
@@ -4350,7 +4350,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. VI",
   "pt-BR": "Segunda-feira da 6ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 6th Week: Monday",
+  "en-US": "Monday of the Sixth Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 6ª semana",
   "it": "LUNEDI della VI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 6e semaine",

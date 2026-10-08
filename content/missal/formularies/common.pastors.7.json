@@ -441,7 +441,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -508,7 +508,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -613,7 +613,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -838,12 +838,12 @@
          "m": "rubric",
          "t": "N. ["
         },
-        "il santo vescovo",
+        "il santo vescovo ",
         {
          "m": "rubric",
          "t": "N.] "
         },
-        " a pascere con la parola il tuo gregge e a formarlo con l'esempio, donaci per sua intercessione di custodire la fede che ha insegnato e di seguire la via da lui indicata. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+        "a pascere con la parola il tuo gregge e a formarlo con l'esempio, donaci per sua intercessione di custodire la fede che ha insegnato e di seguire la via da lui indicata. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
        ]
       ]
      }
@@ -866,7 +866,7 @@
          "m": "rubric",
          "t": ") "
         },
-        " saint ",
+        "saint ",
         {
          "m": "rubric",
          "t": "N."
@@ -1314,7 +1314,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1418,7 +1418,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1599,7 +1599,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " ha meritato come fedele dispensatore dei tuoi misteri. Per Cristo nostro Signore."
+        "ha meritato come fedele dispensatore dei tuoi misteri. Per Cristo nostro Signore."
        ]
       ]
      }
@@ -1681,7 +1681,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1733,7 +1733,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1903,8 +1903,8 @@
  ],
  "title": {
   "la": "COMMUNE PASTORUM",
-  "pt-BR": "COMUM DOS PASTORES",
-  "en-US": "COMMON OF PASTORS",
+  "pt-BR": "Comum dos Pastores",
+  "en-US": "Common of Pastors",
   "es": "COMÚN DE PASTORES",
   "it": "COMUNE DEI PASTORI",
   "fr": "COMMUN DES PASTEURS",

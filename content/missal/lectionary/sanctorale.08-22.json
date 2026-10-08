@@ -738,38 +738,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.blessed-virgin-mary.psalm.4"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 112, 1-2. 3-4. 5-6. 7-8 (: 2)",
+      ],
+      "cite": "Ps 112, 1-2. 3-4. 5-6. 7-8 (R.: 2)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 112(113), 1-2.3-4.5-6.7-8 (R.: 2)",
       "role": "title"
      }
@@ -777,15 +765,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 112, 1-2. 3-4. 5a et 6-7 (: cf. 2)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 112, 1-2. 3-4. 5a and 6-7 (R.: cf. 2)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 112, 1-2. 3-4. 5-6. 7-8 (R.: 2)",
       "role": "title"
      }
@@ -793,7 +789,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dai Salmo 112(113)",
       "role": "title"
      }
@@ -801,16 +801,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 112, 1-2. 3-4. 5-6. 7-8 (: 2)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 112, 1-2. 3-4. 5-6. 7-8 (R.: 2)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 113 (112), 1-2. 3-4. 5a u. 6-7 (R: 2)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 113 (112), 1-2. 3-4. 5a u. 6-7 (R.: 2)",
       "role": "title"
      }
     ]
@@ -1833,30 +1841,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.blessed-virgin-mary.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Cf. Lc 1, 28",
       "role": "title"
      },
@@ -1897,7 +1889,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Cf. Lc 1, 28",
       "role": "title"
      },
@@ -1935,7 +1931,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Cf. Lk 1, 28",
       "role": "title"
      },
@@ -1957,7 +1957,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Cf. Lc 1, 28",
       "role": "title"
      },
@@ -2001,7 +2005,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf Lc 1, 28.42",
       "role": "title"
      },
@@ -2039,7 +2047,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Cf. Lc 1, 28",
       "role": "title"
      },
@@ -2077,7 +2089,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Lk 1, 28",
       "role": "title"
      },
@@ -2118,27 +2134,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.blessed-virgin-mary.gospel.4"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2164,6 +2169,15 @@
      }
     ],
     "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2218,6 +2232,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Concebirás en tu vientre y darás a luz un hijo"
        ]
       ],
@@ -2239,6 +2262,15 @@
      }
     ],
     "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2268,6 +2300,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2280,6 +2321,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2694,6 +2744,34 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -2703,11 +2781,12 @@
  ],
  "title": {
   "la": "Beatæ Maríæ Virginis Reginæ",
-  "pt-BR": "Nossa Senhora Rainha",
-  "en-US": "The Queenship of Mary",
+  "pt-BR": "Bem-aventurada Virgem Maria Rainha",
+  "en-US": "The Queenship of the Blessed Virgin Mary",
   "es": "Santa María Virgen, Reina",
   "it": "Beata Vergine Maria Regina",
   "fr": "Bienheureuse Vierge Marie Reine",
   "de": "Maria Königin"
- }
+ },
+ "properReadings": true
 }

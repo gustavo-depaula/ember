@@ -54,6 +54,9 @@ export interface OfDay {
   celebrations: Celebration[]
   // A vigil Mass of tomorrow that may be said this evening.
   anticipated?: MassRef
+  // Where the calendar it was placed by keeps Epiphany, the Ascension and
+  // Corpus Christi.
+  transfers: Transfers
 }
 
 // Every region's calendar at once, for surfaces that show any saint anywhere.
@@ -181,13 +184,13 @@ function temporalCelebration(day: TemporalDay, calendar: MissalCalendar): Celebr
 }
 
 function sanctoralCelebration(
-  entry: { id: string },
+  entry: { id: string; precedence?: number },
   calendar: MissalCalendar,
   weekday: number,
 ): Celebration | undefined {
   const formulary = calendar.formularies[entry.id]
   if (!formulary) return undefined
-  const precedence = precedenceOn(formulary, weekday)
+  const precedence = entry.precedence ?? precedenceOn(formulary, weekday)
   const masses: MassRef[] = [
     { key: 'day', formulary: entry.id, lectionary: formulary.lectionary ?? entry.id },
   ]
@@ -217,7 +220,10 @@ const isVigil = (id: string) => id.endsWith('.vigil')
 
 interface YearIndex {
   // Month·100+day -> the entries kept that day, solemnities already moved.
-  byDay: Map<number, { entry: { id: string }; transferred: boolean; movable: boolean }[]>
+  byDay: Map<
+    number,
+    { entry: { id: string; precedence?: number }; transferred: boolean; movable: boolean }[]
+  >
 }
 
 const yearIndexes = new WeakMap<MissalCalendar, Map<string, YearIndex>>()
@@ -250,7 +256,12 @@ function buildYearIndex(
 ): YearIndex {
   const transfers = transfersFor(options)
   const byDay: YearIndex['byDay'] = new Map()
-  const add = (date: Date, entry: { id: string }, transferred: boolean, movable = false) => {
+  const add = (
+    date: Date,
+    entry: { id: string; precedence?: number },
+    transferred: boolean,
+    movable = false,
+  ) => {
     if (date.getFullYear() !== year) return
     const key = dayKey(date)
     const list = byDay.get(key) ?? []
@@ -265,12 +276,27 @@ function buildYearIndex(
   // the Lord in the temporal cycle, and to another solemnity already there.
   const isImpeded = (date: Date) => temporalPrecedence(date) <= 3 || taken.has(date.getTime())
 
-  const fixed = calendar.sanctoral.filter(
+  const inCalendar = calendar.sanctoral.filter(
     (e: SanctoralEntry) => inRegions(e, options.regions) && !isVigil(e.id),
   )
-  const solemnities = fixed.filter((e) => (calendar.formularies[e.id]?.precedence ?? 13) <= 4)
+  // A region's own entry for a celebration replaces the General Calendar's.
+  const regional = new Set(inCalendar.filter((e) => e.regions).map((e) => e.id))
+  const fixed =
+    options.regions === everyRegion
+      ? inCalendar
+      : inCalendar.filter((e) => e.regions || !regional.has(e.id))
+  const numberOf = (e: SanctoralEntry) => e.precedence ?? calendar.formularies[e.id]?.precedence
+  // Where a region keeps a solemnity on a Sunday: the one on its date or after
+  // it, unless that is All Souls.
+  const dateOf = (e: SanctoralEntry) => {
+    const date = new Date(year, e.month - 1, e.day, 12)
+    if (!e.sunday || date.getDay() === 0) return date
+    const sunday = addDays(date, 7 - date.getDay())
+    return sunday.getMonth() === 10 && sunday.getDate() === 2 ? date : sunday
+  }
+  const solemnities = fixed.filter((e) => (numberOf(e) ?? 13) <= 4)
   for (const entry of solemnities) {
-    const natural = new Date(year, entry.month - 1, entry.day, 12)
+    const natural = dateOf(entry)
     // All Souls is numbered with the solemnities but is never moved: on a
     // Sunday it simply takes the Sunday's place.
     const observed =
@@ -280,7 +306,7 @@ function buildYearIndex(
   }
   for (const entry of fixed) {
     if (solemnities.includes(entry)) continue
-    add(new Date(year, entry.month - 1, entry.day, 12), entry, false)
+    add(dateOf(entry), entry, false)
   }
 
   const easter = easterSunday(year)
@@ -345,7 +371,8 @@ export function resolveOfDay(
   calendar: MissalCalendar,
   options: ResolveOptions = {},
 ): OfDay {
-  const day = temporalDay(date, transfersFor(options))
+  const transfers = transfersFor(options)
+  const day = temporalDay(date, transfers)
   const all = celebrationsOn(date, calendar, options)
   const temporal = all.find((c) => c.kind === 'tempore') as Celebration
   const principal = all[0]
@@ -362,11 +389,24 @@ export function resolveOfDay(
         ...all.filter((c) => c !== principal).map((c) => ({ ...c, commemoration: true })),
       ]
     }
-    // An obligatory memorial is the Mass of the day; where two coincide, the
-    // one that prevails.
-    if (principal.precedence < 12) return [principal]
-    // Optional memorials and the weekday are all free choices.
-    return all
+    // An obligatory memorial is the Mass of the day. Where the Immaculate Heart
+    // falls on another obligatory memorial, both are optional that year
+    // (Congregation for Divine Worship, 8 December 1998); Mary, Mother of the
+    // Church prevails over the saint she meets.
+    if (principal.precedence < 12) {
+      const obligatory = all.filter((c) => c.kind === 'sanctoral' && c.precedence < 12)
+      if (principal.id !== 'sanctorale.immaculate-heart-of-mary' || obligatory.length < 2) {
+        return [principal]
+      }
+      const optional = new Set(obligatory)
+      // The Immaculate Heart stays first: it is the day's Mass in practice.
+      return all.map((c) =>
+        optional.has(c) ? { ...c, precedence: 12, rank: 'optional-memorial' as const } : c,
+      )
+    }
+    // Optional memorials and the weekday are all free choices; the weekday is
+    // offered first, as every daily missal does.
+    return [temporal, ...all.filter((c) => c !== temporal)]
   })()
 
   return {
@@ -381,6 +421,7 @@ export function resolveOfDay(
     // 26-28 December: the temporal cycle has no Mass to offer.
     celebrations: celebrations.filter((c) => c.masses.length > 0),
     ...(day.anticipated ? { anticipated: day.anticipated } : {}),
+    transfers,
   }
 }
 

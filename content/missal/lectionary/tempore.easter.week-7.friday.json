@@ -614,7 +614,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 1-2.11-12.19-20ab(R/.: 19a)",
+      "cite": "Sl 102 (103), 1-2.11-12.19-20ab (R.: 19a)",
       "role": "title"
      }
     ],
@@ -626,7 +626,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 102, 1-2. 11-12. 19-20ab (.: 19a)"
      }
     ],
     "es": [
@@ -637,7 +638,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 102, 1-2. 11-12. 19-20ab (R/.: 19a)",
+      "cite": "Sal 102, 1-2. 11-12. 19-20ab (R.: 19a)",
       "role": "title"
      }
     ],
@@ -673,7 +674,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 1-2. 11-12. 19-20b (R: 19a)",
+      "cite": "Ps 103 (102), 1-2. 11-12. 19-20b (R.: 19a)",
       "role": "title"
      }
     ]
@@ -1771,7 +1772,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 26"
      },
      {
       "k": "p",
@@ -2641,8 +2643,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VII — Feria VI",
-  "pt-BR": "Tempo da Páscoa — 7ª Semana — Sexta-feira",
-  "en-US": "Easter Season — Seventh Week — Friday",
+  "pt-BR": "Sexta-feira da 7ª Semana da Páscoa",
+  "en-US": "Friday of the Seventh Week of Easter",
   "es": "Tiempo de Pascua — Semana VII — Viernes",
   "it": "VENERDI della VII settimana di Pasqua",
   "fr": "Temps pascal — 7e semaine — Vendredi",

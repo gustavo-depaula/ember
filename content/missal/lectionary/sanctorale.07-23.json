@@ -106,57 +106,465 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css2l5"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Vivo autem iam non ego, vivit vero in me Christus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ béati Pauli apóstoli ad Gálatas"
+       ]
+      ],
+      "cite": "2, 19-20",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego per legem legi mórtuus sum, ut Deo vivam. Christo confíxus sum cruci; vivo autem iam non ego, vivit vero in me Christus; quod autem nunc vivo in carne, in fide vivo Fílii Dei, qui diléxit me et trádidit seípsum pro me."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu vivo, mas não eu, é Cristo que vive em mim."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Carta de São Paulo aos Gálatas"
+       ]
+      ],
+      "cite": "2, 19-20",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Foi em virtude da Lei que eu morri para a Lei, a fim de viver para Deus. Com Cristo, eu fui pregado na cruz. Eu vivo, mas não eu, é Cristo que vive em mim. Esta minha vida presente, na carne, eu a vivo na fé, crendo no Filho de Deus, que me amou e por mim se entregou."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Letter of Saint Paul to the Galatians"
+       ]
+      ],
+      "cite": "2:19-20",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "For through the law I died to the law,* that I might live for God. I have been crucified with Christ; yet I live, no longer I, but Christ lives in me; insofar as I now live in the flesh, I live by faith in the Son of God who has loved me and given himself up for me."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vivo, pero no soy yo el que vive, es Cristo quien vive en mí"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la carta del apóstol san Pablo a los Gálatas"
+       ]
+      ],
+      "cite": "2, 19-20",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Yo he muerto a la ley por medio de la ley, con el fin de vivir para Dios."
+       ],
+       [
+        "Estoy crucificado con Cristo; vivo, pero no soy yo el que vive, es Cristo quien vive en mí."
+       ],
+       [
+        "Y mi vida de ahora en la carne, la vivo en la fe del Hijo de Dios, que me amó y se entregó por mí."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non vivo più io, ma Cristo vive in me."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla lettera di san Paolo apostolo ai Galati"
+       ]
+      ],
+      "cite": "2, 19-20",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, mediante la Legge io sono morto alla Legge, affinché io viva per Dio."
+       ],
+       [
+        "Sono stato crocifisso con Cristo, e non vivo più io, ma Cristo vive in me."
+       ],
+       [
+        "E questa vita, che io vivo nel corpo, La vivo nella fede del Figlio di Dio, che mi ha amato e ha consegnato se stesso per me."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lettre de saint Paul Apôtre aux Galates"
+       ]
+      ],
+      "cite": "2, 19-20",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, par la Loi, je suis mort à la Loi afin de vivre pour Dieu ; avec le Christ, je suis crucifié. Je vis, mais ce n'est plus moi, c'est le Christ qui vit en moi. Ce que je vis aujourd'hui dans la chair, je le vis dans la foi au Fils de Dieu qui m'a aimé et s'est livré lui-même pour moi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Brief des Apostels Paulus an die Gálater"
+       ]
+      ],
+      "cite": "2, 19-20",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Ich bin durch das Gesetz dem Gesetz gestorben, damit ich für Gott lebe. Ich bin mit Christus gekreuzigt worden; nicht mehr ich lebe, sondern Christus lebt in mir. Soweit ich aber jetzt noch in dieser Welt lebe, lebe ich im Glauben an den Sohn Gottes, der mich geliebt und sich für mich hingegeben hat."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.5"
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.5"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 33(34), 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a o 9a)",
       "role": "title"
      }
@@ -164,15 +572,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a or 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a or 9a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a o 9a)",
       "role": "title"
      }
@@ -180,7 +596,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 33 (34)",
       "role": "title"
      }
@@ -188,16 +608,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R: vgl. 2a oder 9a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R.: vgl. 2a oder 9a)",
       "role": "title"
      }
     ]
@@ -1651,30 +2079,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "13"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -1715,7 +2127,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 15, 9b. 5b",
       "role": "title"
      },
@@ -1753,7 +2169,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 15:9.5",
       "role": "title"
      },
@@ -1775,7 +2195,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 15, 9b. 5b",
       "role": "title"
      },
@@ -1816,7 +2240,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 15, 9b.5b",
       "role": "title"
      },
@@ -1838,7 +2266,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -1879,7 +2311,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 15, 9b. 5b",
       "role": "title"
      },
@@ -1920,27 +2356,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "24"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.24"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1970,6 +2395,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Aquele que permanece em mim e eu nele, esse produz muito fruto."
        ]
       ],
@@ -1995,6 +2429,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2007,6 +2450,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2036,6 +2488,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Chi rimane in me e io in lui porta molto frutto."
        ]
       ],
@@ -2061,6 +2522,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2073,6 +2543,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2499,7 +2978,7 @@
  "title": {
   "la": "S. Birgittæ, religiosæ",
   "pt-BR": "Santa Brígida, religiosa",
-  "en-US": "St. Bridget, religious",
+  "en-US": "Saint Bridget, religious",
   "es": "Santa Brígida, religiosa",
   "it": "Santa Brigida, religiosa, patrona d'Europa",
   "fr": "Sainte Brigitte, religieuse",

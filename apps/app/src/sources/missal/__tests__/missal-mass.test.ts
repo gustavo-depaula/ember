@@ -102,13 +102,22 @@ describe('an ordinary weekday', () => {
   })
 
   it('reads the weekday by default on a memorial and offers the proper readings', async () => {
-    const mass = await massOn('2026-10-07')
+    // St John Vianney.
+    const mass = await massOn('2026-08-04')
     const gospel = selectOf(mass, 'missal.gospel')
     expect(gospel?.options.map((o) => o.id)).toEqual([
-      'tempore.ordinary-time.week-27.wednesday',
-      'sanctorale.10-07',
+      'tempore.ordinary-time.week-18.tuesday',
+      'sanctorale.08-04',
     ])
     expect(gospel?.options.map((o) => o.label.primary)).toEqual(['Do dia', 'Próprio'])
+  })
+
+  it("reads a Marian memorial's own readings first, as the daily missals do", async () => {
+    const gospel = selectOf(await massOn('2026-10-07'), 'missal.gospel')
+    expect(gospel?.options.map((o) => o.id)).toEqual([
+      'sanctorale.10-07',
+      'tempore.ordinary-time.week-27.wednesday',
+    ])
   })
 
   it('shows nothing that exists only in a third language', async () => {
@@ -159,9 +168,9 @@ describe('an ordinary weekday', () => {
     const options = selectOf(mass, 'missal.mass')?.options.map((o) => o.id)
     expect(options).toContain('sanctorale.10-06#day')
     expect(options).toContain('tempore.ordinary-time.week-27.tuesday#day')
-    // The weekday is named as itself, not as the Sunday whose prayers it uses.
+    // The weekday comes first, named as itself and not as the Sunday whose prayers it uses.
     const labels = selectOf(mass, 'missal.mass')?.options.map((o) => o.label.primary)
-    expect(labels?.at(-1)).toBe('Terça-feira da 27ª Semana do Tempo Comum')
+    expect(labels?.[0]).toBe('Terça-feira da 27ª Semana do Tempo Comum')
   })
 })
 
@@ -289,4 +298,36 @@ describe('every day of a year', () => {
       expect(thin).toEqual([])
     })
   }
+})
+
+describe('what the corpus must not show', () => {
+  const canon = async (iso: string) => {
+    const prayers = selectOf(await massOn(iso), 'missal.eucharistic-prayer')
+    const roman = prayers?.options.find((o) => o.id === 'eucharistic-prayer.1')
+    return shown(roman?.children ?? [])
+  }
+
+  it("says one Communicantes in the Roman Canon: the day's own, or the ordinary one", async () => {
+    const ordinary = await canon('2026-10-07')
+    expect(ordinary.match(/Em comunhão com toda a Igreja/g)).toHaveLength(1)
+    expect(ordinary).toContain('celebramos em primeiro lugar')
+    const christmas = await canon('2026-12-25')
+    expect(christmas.match(/Em comunhão com toda a Igreja/g)).toHaveLength(1)
+    expect(christmas).toContain('deu à luz o Salvador do mundo')
+    // Another language's insertions are not a Portuguese reader's.
+    expect(ordinary).not.toContain('In Gemeinschaft')
+  })
+
+  it('reads the Gospel on All Souls', async () => {
+    const text = shown(await massOn('2026-11-02'))
+    expect(text).toContain('Eu o ressuscitarei no último dia')
+    expect(text).not.toMatch(/MatthewMateus|JohnJoão/)
+  })
+
+  it('offers no choice that is empty for the reader', async () => {
+    // St Vincent: Spain has antiphons of its own, which no one else reads.
+    for (const select of selects(await massOn('2026-01-22'))) {
+      for (const option of select.options) expect(option.children.length).toBeGreaterThan(0)
+    }
+  })
 })

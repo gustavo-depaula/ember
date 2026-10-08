@@ -837,7 +837,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -851,7 +851,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -865,7 +865,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -879,7 +879,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -893,7 +893,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -907,7 +907,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -921,7 +921,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1241,8 +1241,8 @@
  ],
  "title": {
   "la": "DOMINICA III «PER ANNUM»",
-  "pt-BR": "3º DOMINGO DO TEMPO COMUM",
-  "en-US": "3rd SUNDAY IN ORDINARY TIME",
+  "pt-BR": "3º Domingo do Tempo Comum",
+  "en-US": "Third Sunday in Ordinary Time",
   "es": "III DOMINGO DEL TIEMPO ORDINARIO",
   "it": "III DOMENICA",
   "fr": "Temps ordinaire — 3ème DIMANCHE",

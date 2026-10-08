@@ -17,25 +17,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -110,7 +101,16 @@
       "k": "p",
       "lines": [
        [
-        "Deus houve por bem salvar os que crêem por meio da insensatez da pregação."
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus houve por bem salvar os que creem por meio da insensatez da pregação."
        ]
       ],
       "role": "summary"
@@ -129,7 +129,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: “Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes”. Onde está o sábio? Onde o mestre da Lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria; por isso, Deus houve por bem salvar os que crêem por meio da insensatez da pregação. Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens."
+        "Irmãos: A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: “Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes”. Onde está o sábio? Onde o mestre da Lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria; por isso, Deus houve por bem salvar os que creem por meio da insensatez da pregação. Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens."
        ]
       ]
      },
@@ -137,13 +137,22 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -173,6 +182,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -233,6 +251,15 @@
       "k": "p",
       "lines": [
        [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "È piaciuto a Dio salvare i credenti con la stoltezza della predicazione."
        ]
       ],
@@ -280,6 +307,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Première lettre de saint Paul Apôtre aux Corinthiens"
        ]
       ],
@@ -313,6 +349,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

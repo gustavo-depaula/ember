@@ -436,7 +436,7 @@
          "m": "rubric",
          "t": "] N."
         },
-        "e",
+        " e",
         {
          "m": "rubric",
          "t": " N."
@@ -646,7 +646,7 @@
          "m": "rubric",
          "t": "] [N."
         },
-        "e",
+        " e",
         {
          "m": "rubric",
          "t": " N.]"
@@ -1011,7 +1011,7 @@
          "m": "rubric",
          "t": "] [N."
         },
-        "e",
+        " e",
         {
          "m": "rubric",
          "t": " N.]"
@@ -1054,8 +1054,8 @@
  ],
  "title": {
   "la": "III. IN VARIIS COMMEMORATIONIBUS",
-  "pt-BR": "III. PARA DIVERSAS COMEMORAÇÕES",
-  "en-US": "III. VARIOUS COMMEMORATIONS",
+  "pt-BR": "III. Para Diversas Comemorações",
+  "en-US": "III. Various Commemorations",
   "es": "III. EN DIVERSAS CONMEMORACIONES",
   "it": "III. PER DIVERSE COMMEMORAZIONI",
   "fr": "III. POUR DIVERSES COMMÉMORATIONS"

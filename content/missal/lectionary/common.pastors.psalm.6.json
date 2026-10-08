@@ -3,36 +3,26 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 105, 19-20. 21-22. 23 (: 4a)",
+      ],
+      "cite": "Ps 105, 19-20. 21-22. 23 (R.: 4a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 105(106), 19-20. 21-22. 23 (R.: 4a)",
       "role": "title"
      }
@@ -40,15 +30,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 105, 19-20. 21-22. 23 (: 4a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 105, 19-20. 21-22. 23 (R.: 4a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 105, 19-20. 21-22. 23 (R.: 4a)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 105 (106)",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 105, 19-20. 21-22. 23 (: 4a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 105, 19-20. 21-22. 23 (R.: 4a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 106 (105), 19-20. 21-22. 23-24 (R: vgl. 4a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 106 (105), 19-20. 21-22. 23-24 (R.: vgl. 4a)",
       "role": "title"
      }
     ]

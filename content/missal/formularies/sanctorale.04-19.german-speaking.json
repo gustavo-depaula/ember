@@ -58,40 +58,6 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Commune-Texte für Päpste:"
-        },
-        " ",
-        {
-         "m": "link",
-         "t": "1",
-         "to": "common.pastors.1"
-        },
-        {
-         "m": "link",
-         "t": "2",
-         "to": "common.pastors.2"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": "."
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "title"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [

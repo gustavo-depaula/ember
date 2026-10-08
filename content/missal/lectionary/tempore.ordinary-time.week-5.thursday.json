@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -268,7 +268,7 @@
       "k": "p",
       "lines": [
        [
-        "O Senhor Deus formou a mulher e conduziu-a a Adão; e eles ='alindcha' só carne."
+        "O Senhor Deus formou a mulher e conduziu-a a Adão; e eles serão uma só carne."
        ]
       ],
       "role": "summary"
@@ -699,7 +699,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 127 (128), 1-2.3.4-5 (: cf. 1a)",
+      "cite": "Sl 127 (128), 1-2.3.4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Sal 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -759,7 +759,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -771,7 +771,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R: vgl. 1)",
+      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -1755,7 +1755,7 @@
       "k": "p",
       "lines": [
        [
-        "Já que não guardaste a minha aliança, tirar-te-ei o reino,='alindcha'arei a teu filho uma tribo, por consideração para com meu servo Davi."
+        "Já que não guardaste a minha aliança, tirar-te-ei o reino, mas deixarei a teu filho uma tribo, por consideração para com meu servo Davi."
        ]
       ],
       "role": "summary"
@@ -2142,7 +2142,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 105, 3-4. 35-36. 37 et 40 (: 4a)",
+      "cite": "Ps 105, 3-4. 35-36. 37 et 40 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2154,7 +2154,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 105 (106), 3-4.35-36.37 e 40 (: 4a)",
+      "cite": "Sl 105 (106), 3-4.35-36.37 e 40 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2166,7 +2166,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 105, 3-4. 35-36. 37 et 40 (: 4a)",
+      "cite": "Ps 105, 3-4. 35-36. 37 and 40 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2178,7 +2178,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 105, 3-4. 35-36. 37 et 40 (: 4a)",
+      "cite": "Sal 105, 3-4. 35-36. 37 et 40 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2202,7 +2202,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 105, 3-4. 35-36. 37 et 40 (: 4a)",
+      "cite": "Ps 105, 3-4. 35-36. 37 et 40 (R.: 4a)",
       "role": "title"
      }
     ],
@@ -2214,7 +2214,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 106 (105), 3-4. 35-36. 37 u. 40 (R: vgl. 4a)",
+      "cite": "Ps 106 (105), 3-4. 35-36. 37 u. 40 (R.: vgl. 4a)",
       "role": "title"
      }
     ]
@@ -2902,7 +2902,12 @@
        ],
        [
         "en sacrifice aux démons."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3898,7 +3903,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. V",
   "pt-BR": "Quinta-feira da 5ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 5th Week: Thursday",
+  "en-US": "Thursday of the Fifth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 5ª semana",
   "it": "GIOVEDI della V settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 5e semaine",

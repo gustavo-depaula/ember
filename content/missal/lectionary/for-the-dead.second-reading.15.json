@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "15"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -83,6 +74,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Nós sabemos que passamos da morte para a vida, porque amamos os irmãos"
        ]
       ],
@@ -92,7 +92,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Primeira Epístola de São João"
+        "Leitura da Primeira Carta de São João"
        ]
       ],
       "cite": "3, 14-16",
@@ -121,6 +121,15 @@
       "k": "p",
       "lines": [
        [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "We have passed out of death and into life because we love our brothers."
        ]
       ],
@@ -130,7 +139,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first letter of St John"
+        "A reading from the first Letter of Saint John"
        ]
       ],
       "cite": "3:14-16",
@@ -155,6 +164,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -203,6 +221,15 @@
       "k": "p",
       "lines": [
        [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Siamo passati dalla morte alla vita perché amiamo i fratelli."
        ]
       ],
@@ -241,6 +268,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Première lettre de saint Jean"
        ]
       ],
@@ -266,6 +302,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

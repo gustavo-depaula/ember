@@ -119,17 +119,36 @@ function prefaceNumbers(day: OfDay): number[] {
   }
 }
 
-function conditionsOf(day: OfDay, mass: MassRef): string[] {
+function conditionsOf(day: OfDay, mass: MassRef, kind?: string): string[] {
   const conditions: string[] = []
-  if (day.season === 'easter' && day.week === 1) conditions.push('easter-octave')
+  const of = (prefix: string) => mass.formulary?.startsWith(prefix) ?? false
+  // The octave runs to the Second Sunday of Easter, and begins at the Vigil.
+  const easterOctave =
+    day.season === 'easter' && (day.week === 1 || (day.week === 2 && day.weekday === 0))
+  if (easterOctave || of('tempore.holy-week.easter-vigil')) conditions.push('easter-octave')
   if (day.season === 'christmas' && day.date.getMonth() === 11) conditions.push('christmas-octave')
-  if (day.key === 'mary-mother-of-god') conditions.push('christmas-octave')
-  if (day.key === 'holy-saturday') conditions.push('easter-octave')
-  if (day.key === 'pentecost') conditions.push('pentecost')
-  if (day.key === 'epiphany') conditions.push('epiphany')
-  if (day.key === 'ascension') conditions.push('ascension')
-  if (mass.formulary === 'tempore.holy-week.lords-supper') conditions.push('lords-supper')
-  return conditions
+  if (day.key === 'mary-mother-of-god' || of('tempore.christmas.nativity')) {
+    conditions.push('christmas-octave')
+  }
+  if (day.key === 'pentecost' || of('tempore.easter.pentecost')) conditions.push('pentecost')
+  if (day.key === 'epiphany' || of('tempore.christmas.epiphany')) conditions.push('epiphany')
+  if (day.key === 'ascension' || of('tempore.easter.ascension')) conditions.push('ascension')
+  if (of('tempore.holy-week.lords-supper')) conditions.push('lords-supper')
+  // The weekdays of Christmas Time have one collect before Epiphany and another after.
+  if (
+    day.temporal.masses.some((m) => m.lectionary.startsWith('tempore.christmas.after-epiphany'))
+  ) {
+    conditions.push('after-epiphany')
+  }
+  // The last weekdays of the sixth week have a collect of their own where the
+  // Ascension waits for Sunday.
+  if (day.transfers.ascension === 'sunday') conditions.push('ascension-on-sunday')
+  // The dismissal carries a double alleluia through the octave and at Pentecost.
+  if (conditions.includes('easter-octave') || conditions.includes('pentecost')) {
+    conditions.push('double-alleluia')
+  }
+  if (kind === 'for-the-dead' || of('sanctorale.11-02')) conditions.push('for-the-dead')
+  return [...new Set(conditions)]
 }
 
 /** The Gloria is said on Sundays outside Advent and Lent, on solemnities and feasts (GIRM 53). */
@@ -170,10 +189,17 @@ export async function assembleMass(
     await Promise.all((formulary?.commons ?? []).map((id) => source.formulary(id)))
   ).filter((doc): doc is Formulary => doc !== undefined)
 
+  const conditions = conditionsOf(day, mass, formulary?.kind)
+  // What is said only on certain days is left out on the others.
+  const saidToday = (item: Item) =>
+    (!item.when || item.when.some((c) => conditions.includes(c))) &&
+    !item.unless?.some((c) => conditions.includes(c))
+
   const parts: MassPlan['parts'] = {}
   const add = (part: Part, option: PartOption) => {
-    if (option.items.length === 0) return
-    parts[part] = [...(parts[part] ?? []), option]
+    const items = option.items.filter(saidToday)
+    if (items.length === 0) return
+    parts[part] = [...(parts[part] ?? []), { ...option, items }]
   }
 
   // A memorial may take what it lacks from the weekday; a feast or solemnity
@@ -258,7 +284,7 @@ export async function assembleMass(
   for (const item of formulary?.items ?? []) {
     if (item.cycle && !cycles.has(item.cycle)) continue
     if (!item.part) {
-      if (item.text) open.push(item)
+      if (item.text && saidToday(item)) open.push(item)
       continue
     }
     if (item.part === 'title') continue
@@ -281,6 +307,6 @@ export async function assembleMass(
     prefaces: prefaceOptions,
     rites,
     ...(lectionary?.sequence && parts.sequence ? { sequence: lectionary.sequence } : {}),
-    conditions: conditionsOf(day, mass),
+    conditions,
   }
 }

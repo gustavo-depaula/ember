@@ -393,7 +393,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ],
        [
@@ -427,7 +427,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ],
        [
@@ -461,7 +461,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -504,7 +504,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ],
        [
@@ -581,7 +581,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ],
        [
@@ -1257,8 +1257,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada II — Sabbato",
-  "pt-BR": "Tempo Pascal — Segunda semana — Sábado",
-  "en-US": "Easter Season — Second Week — Saturday",
+  "pt-BR": "Sábado da 2ª Semana da Páscoa",
+  "en-US": "Saturday of the Second Week of Easter",
   "es": "Tiempo Pascual — II Semana — Sábado",
   "it": "Tempo Pasquale — II Settimana — Sabato",
   "fr": "Temps pascal — SAMEDI DE LA 2e SEMAINE",

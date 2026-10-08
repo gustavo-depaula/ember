@@ -846,7 +846,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -860,7 +860,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -874,7 +874,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -886,7 +886,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -900,7 +900,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -914,7 +914,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -928,7 +928,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -942,7 +942,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1011,7 +1011,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1020,7 +1020,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1029,7 +1029,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1275,8 +1275,8 @@
  ],
  "title": {
   "la": "DOMINICA XXV «PER ANNUM»",
-  "pt-BR": "25º DOMINGO DO TEMPO COMUM",
-  "en-US": "25th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "25º Domingo do Tempo Comum",
+  "en-US": "Twenty-Fifth Sunday in Ordinary Time",
   "es": "XXV DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XXV DOMENICA",
   "fr": "Temps ordinaire — 25ème DIMANCHE",

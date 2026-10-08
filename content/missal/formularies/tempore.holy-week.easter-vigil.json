@@ -565,25 +565,25 @@
        [
         {
          "m": "rubric",
-         "t": "Que la veillée de cette nuit, qui est la plus grande et la plus noble de toutes les solennités, soit unique pour chaque église. Qu'elle soit ainsi ordonnée : "
+         "t": "Que la veillée de cette nuit, qui est la plus grande et la plus noble de toutes les solennités, soit unique pour chaque église. Qu'elle soit ainsi ordonnée :"
         }
        ],
        [
         {
          "m": "rubric",
-         "t": "après le lucernaire (office de la lumière) et la proclamation de la Pâque (1re partie de cette Vigile), "
+         "t": "après le lucernaire (office de la lumière) et la proclamation de la Pâque (1re partie de cette Vigile),"
         }
        ],
        [
         {
          "m": "rubric",
-         "t": "la sainte Église, confiante en la parole et la promesse du Seigneur, médite les merveilles que, depuis les origines, celui-ci a réalisées pour son peuple (2e partie ou liturgie de la Parole). "
+         "t": "la sainte Église, confiante en la parole et la promesse du Seigneur, médite les merveilles que, depuis les origines, celui-ci a réalisées pour son peuple (2e partie ou liturgie de la Parole)."
         }
        ],
        [
         {
          "m": "rubric",
-         "t": "Aux approches du matin de la Résurrection, avec les nouveaux membres qui lui sont nés par le baptême (3e partie ou liturgie baptismale), "
+         "t": "Aux approches du matin de la Résurrection, avec les nouveaux membres qui lui sont nés par le baptême (3e partie ou liturgie baptismale),"
         }
        ],
        [
@@ -1031,7 +1031,7 @@
        [
         {
          "m": "rubric",
-         "t": " Le diacre assiste le prêtre comme de coutume. Toutefois, s'il n'y a pas de diacre, les fonctions qui lui reviennent sont assumées par le prêtre célébrant ou un concélébrant. Le prêtre et le diacre revêtent, comme à la messe, des vêtements liturgiques de couleur blanche."
+         "t": "Le diacre assiste le prêtre comme de coutume. Toutefois, s'il n'y a pas de diacre, les fonctions qui lui reviennent sont assumées par le prêtre célébrant ou un concélébrant. Le prêtre et le diacre revêtent, comme à la messe, des vêtements liturgiques de couleur blanche."
         }
        ]
       ]
@@ -1825,7 +1825,12 @@
        ],
        [
         "Deus, qui per Fílium tuum claritátis tuæ ignem fidélibus contulísti, novum hunc ignem sanctífica, et concéde nobis, ita per hæc festa paschália cæléstibus desidériis inflammári, ut ad perpétuæ claritátis puris méntibus valeámus festa pertíngere. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1850,7 +1855,12 @@
          "t": "✠"
         },
         " este fogo novo. Concedei que a festa da Páscoa acenda em nós tal desejo do céu, que possamos chegar purificados à festa da luz eterna."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1893,7 +1903,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1921,7 +1936,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1943,7 +1963,12 @@
          "t": "✠"
         },
         " questo fuoco nuovo e, mediante le feste pasquali, accendi in noi il desiderio del cielo, perché, rinnovati nello spirito, possiamo giungere alla festa dello splendore eterno. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1987,7 +2012,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2156,7 +2186,7 @@
         "Christus heri et hódie ",
         {
          "m": "rubric",
-         "t": "( incidit hastam erectam ) ;"
+         "t": "( incidit hastam erectam );"
         }
        ]
       ]
@@ -2284,7 +2314,7 @@
         "Princípium et Finis ",
         {
          "m": "rubric",
-         "t": "( incidit hastam transversam ) ;"
+         "t": "( incidit hastam transversam );"
         }
        ]
       ]
@@ -2412,7 +2442,7 @@
         "Alpha ",
         {
          "m": "rubric",
-         "t": "( incidit supra hastam erectam litteram Alpha ) ;"
+         "t": "( incidit supra hastam erectam litteram Alpha );"
         }
        ]
       ]
@@ -2921,7 +2951,7 @@
         "Ipsi glória et impérium ",
         {
          "m": "rubric",
-         "t": "( incidit tertium numerum anni currentis in angulo inferiore sinistro crucis ) ;"
+         "t": "( incidit tertium numerum anni currentis in angulo inferiore sinistro crucis );"
         }
        ]
       ]
@@ -3356,7 +3386,7 @@
          "m": "rubric",
          "t": "1. "
         },
-        " Per mezzo delle sue sante piaghe"
+        "Per mezzo delle sue sante piaghe"
        ]
       ]
      }
@@ -4567,7 +4597,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ],
        [
@@ -5905,7 +5935,7 @@
        [
         {
          "m": "rubric",
-         "t": " El diácono responde: "
+         "t": "El diácono responde: "
         },
         "Amén."
        ]
@@ -6936,12 +6966,9 @@
        [
         {
          "m": "rubric",
-         "t": "R/."
+         "t": "R/. "
         },
-        {
-         "m": "people",
-         "t": " And with your spirit."
-        },
+        " And with your spirit.",
         {
          "m": "rubric",
          "t": "]"
@@ -7604,7 +7631,7 @@
         "ó culpa tão feliz que há merecido"
        ],
        [
-        "a g􀀶aça de um tão grande Redentor!"
+        "a graça de um tão grande Redentor!"
        ]
       ]
      },
@@ -9233,12 +9260,9 @@
        [
         {
          "m": "rubric",
-         "t": "R/."
+         "t": "R/. "
         },
-        {
-         "m": "people",
-         "t": " And with your spirit."
-        },
+        " And with your spirit.",
         {
          "m": "rubric",
          "t": "]"
@@ -11610,7 +11634,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, qui es in ómnium óperum tuórum dispensatióne mirábilis, intéllegant redémpti tui, non fuísse excelléntius, quod inítio factus est mundus, quam quod in fine sæculórum Pascha nostrum immolátus est Christus. Qui vivit et regnat in sǽcula sæculórum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -11630,7 +11659,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, que dispondes de modo admirável todas as vossas obras, dai aos que foram resgatados pelo vosso Filho a graça de compreender que o sacrifício do Cristo, nossa Páscoa, na plenitude dos tempos, ultrapassa em grandeza a criação do mundo, realizada no princípio. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -11668,7 +11702,12 @@
        ],
        [
         "Who lives and reigns for ever and ever."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -11709,7 +11748,12 @@
        ],
        [
         "Por Jesucristo nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -11729,7 +11773,12 @@
        ],
        [
         "Dio onnipotente ed eterno, ammirabile in tutte le opere del tuo amore, illumina i figli da te redenti perché comprendano che, se fu grande all'inizio la creazione del mondo, ben più grande, nella pienezza dei tempi, fu l'opera della nostra redenzione, nel sacrificio pasquale di Cristo Signore. Egli vive e regna nei secoli dei secoli."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -11770,13 +11819,18 @@
        ],
        [
         "Lui qui vit et règne pour les siècles des siècles."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -11856,7 +11910,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien (La creación del hombre): "
+         "t": "O bien (La creación del hombre):"
         }
        ]
       ]
@@ -11912,7 +11966,12 @@
       "lines": [
        [
         "Deus, qui mirabíliter creásti hóminem et mirabílius redemísti, da nobis, quǽsumus, contra oblectaménta peccáti mentis ratióne persístere, ut mereámur ad ætérna gáudia perveníre. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -11932,7 +11991,12 @@
        ],
        [
         "Ó Deus, admirável na criação do ser humano, e mais ainda na sua redenção, dai-nos a sabedoria de resistir às atrações do pecado e chegar à eterna alegria. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -11983,7 +12047,12 @@
        ],
        [
         "Por Jesucristo nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12003,7 +12072,12 @@
        ],
        [
         "O Dio, che in modo mirabile ci hai creati a tua immagine e in modo più mirabile ci hai rinnovati e redenti, fa' che resistiamo con la forza dello Spirito alle seduzioni del peccato, per giungere alla gioia eterna. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12044,13 +12118,18 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -12197,7 +12276,12 @@
        ],
        [
         "Deus, Pater summe fidélium, qui promissiónis tuæ fílios diffúsa adoptiónis grátia in toto terrárum orbe multíplicas, et per paschále sacraméntum Abraham púerum tuum universárum, sicut iurásti, géntium éfficis patrem, da pópulis tuis digne ad grátiam tuæ vocatiónis intráre. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12217,7 +12301,12 @@
        ],
        [
         "Ó Deus, Pai de todos os fiéis, vós multiplicais por toda a terra os filhos da vossa promessa derramando sobre eles a graça da adoção e, pelo sacramento pascal, tornais o vosso servo Abraão pai de todas as nações, como lhe tínheis prometido. Concedei, portanto, a todos os povos a graça de responder ao vosso chamado. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12261,7 +12350,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12305,7 +12399,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12325,7 +12424,12 @@
        ],
        [
         "O Dio, Padre dei credenti, che estendendo a tutti gli uomini il dono dell'adozione filiale moltiplichi in tutta la terra i tuoi figli, e nel sacramento pasquale del Battesimo adempi la promessa fatta ad Abramo di renderlo padre di tutte le nazioni, concedi al tuo popolo di rispondere degnamente alla grazia della tua chiamata. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12369,13 +12473,18 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -12531,7 +12640,12 @@
        ],
        [
         "Deus, cuius antíqua mirácula étiam nostris tempóribus coruscáre sentímus, dum, quod uni pópulo a persecutióne Pharaónis liberándo déxteræ tuæ poténtia contulísti, id in salútem géntium per aquam regeneratiónis operáris, præsta, ut in Abrahæ fílios et in Israelíticam dignitátem totíus mundi tránseat plenitúdo. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12551,7 +12665,12 @@
        ],
        [
         "Ó Deus, vemos brilhar ainda em nossos dias as vossas antigas maravilhas. Como manifestastes outrora o vosso poder, libertando um só povo da perseguição do Faraó, realizais agora a salvação de todas as nações nas águas do Batismo. Concedei a todos os povos da terra tornarem-se filhos de Abraão e participantes da dignidade do povo eleito. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12592,7 +12711,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12642,7 +12766,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12662,7 +12791,12 @@
        ],
        [
         "O Dio, anche ai nostri giorni vediamo risplendere i tuoi antichi prodigi: ciò che hai fatto con la tua mano potente per liberare un solo popolo dall'oppressione del faraone, ora lo compi attraverso l'acqua del Battesimo per la salvezza di tutti i popoli; concedi che l'umanità intera sia accolta tra i figli di Abramo e partecipi alla dignità del popolo eletto. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12709,13 +12843,18 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -12804,7 +12943,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -12843,7 +12982,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -12860,7 +12999,12 @@
       "lines": [
        [
         "Deus, qui primis tempóribus impléta mirácula novi testaménti luce reserásti, ut et Mare Rubrum forma sacri fontis exsísteret, et plebs a servitúte liberáta christiáni pópuli sacraménta præférret, da, ut omnes gentes, Israélis privilégium mérito fídei consecútæ, Spíritus tui participatióne regeneréntur. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12879,8 +13023,13 @@
         "Oremos."
        ],
        [
-        "Ó Deus, à luz do Novo Testamento nos fizestes compreender os prodígios de outrora prefigurando no Mar Vermelho a fonte batismal e, naqueles que libertastes da escravidão, o povo que renasce do Batismo. Concedei a todos os povos que, participando pela fé do privilégio de Israel, renasçam pelo dom do vosso Espírito. Por Cristo, nosso Senhor ."
-       ],
+        "Ó Deus, à luz do Novo Testamento nos fizestes compreender os prodígios de outrora prefigurando no Mar Vermelho a fonte batismal e, naqueles que libertastes da escravidão, o povo que renasce do Batismo. Concedei a todos os povos que, participando pela fé do privilégio de Israel, renasçam pelo dom do vosso Espírito. Por Cristo, nosso Senhor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12912,7 +13061,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12959,7 +13113,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -12979,7 +13138,12 @@
        ],
        [
         "O Dio, che hai rivelato nella luce della nuova alleanza il significato degli antichi prodigi così che il Mar Rosso fosse l'immagine del fonte battesimale e il popolo liberato dalla schiavitù prefigurasse il popolo cristiano, concedi che tutti gli uomini, mediante la fede, siano resi partecipi del privilegio dei figli d'Israele e siano rigenerati dal dono del tuo Spirito. Per Cristo nostro Signore"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13029,13 +13193,18 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -13188,14 +13357,24 @@
        ],
        [
         "Omnípotens sempitérne Deus, multíplica in honórem nóminis tui quod patrum fídei spopondísti, et promissiónis fílios sacra adoptióne diláta, ut, quod prióres sancti non dubitavérunt futúrum, Ecclésia tam magna ex parte iam cognóscat implétum. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13213,15 +13392,25 @@
         "Oremos."
        ],
        [
-        "Deus eterno e todo-poderoso, para a glória do vosso nome, multiplicai o que prometestes aos nossos pais por causa da sua fé e aumentai pela adoção divina os filhos da promessa. Possa a Igreja reconhecer que já se realizou em grande parte a promessa da qual os santos Patriarcas jamais duvidaram. Por Cristo, nosso Senhor ."
-       ],
+        "Deus eterno e todo-poderoso, para a glória do vosso nome, multiplicai o que prometestes aos nossos pais por causa da sua fé e aumentai pela adoção divina os filhos da promessa. Possa a Igreja reconhecer que já se realizou em grande parte a promessa da qual os santos Patriarcas jamais duvidaram. Por Cristo, nosso Senhor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amém."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13252,14 +13441,24 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13296,7 +13495,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13316,14 +13520,24 @@
        ],
        [
         "Dio onnipotente ed eterno, moltiplica a gloria del tuo nome la discendenza promessa alla fede dei patriarchi e aumenta il numero dei tuoi figli, perché la Chiesa veda realizzato il disegno universale di salvezza, nel quale i nostri padri avevano fermamente sperato. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13366,14 +13580,24 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13528,7 +13752,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, spes única mundi, qui prophetárum tuórum præcónio præséntium témporum declarásti mystéria, auge pópuli tui vota placátus, quia in nullo fidélium nisi ex tua inspiratióne provéniunt quarúmlibet increménta virtútum. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13548,7 +13777,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, única esperança do mundo, pela voz dos profetas anunciastes os mistérios que hoje se realizam. Aumentai benigno o fervor do vosso povo, pois nenhum dos vossos filhos poderá progredir na virtude sem o auxílio da vossa graça. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13577,7 +13811,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13618,7 +13857,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13638,7 +13882,12 @@
        ],
        [
         "Dio onnipotente ed eterno, unica speranza del mondo, che mediante l'annuncio dei profeti hai rivelato i misteri che oggi celebriamo, ravviva la nostra sete di te, perché soltanto con l'azione del tuo Spirito possiamo progredire nelle vie del bene. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13679,7 +13928,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13835,7 +14089,12 @@
        ],
        [
         "Deus, qui Ecclésiam tuam semper géntium vocatióne multíplicas, concéde propítius, ut, quos aqua baptísmatis ábluis, contínua protectióne tueáris. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13855,7 +14114,12 @@
        ],
        [
         "Ó Deus, que fazeis a vossa Igreja crescer sempre mais chamando para ela todos os povos, guardai sob a vossa contínua proteção os que purificais na água do Batismo. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13887,7 +14151,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13919,7 +14188,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13939,7 +14213,12 @@
        ],
        [
         "O Dio, che accresci sempre la tua Chiesa chiamando nuovi figli da tutte le genti, custodisci nella tua protezione coloro che fai rinascere dall'acqua del Battesimo. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13977,13 +14256,18 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -14133,23 +14417,38 @@
        ],
        [
         "Deus, incommutábilis virtus et lumen ætérnum, réspice propítius ad totíus Ecclésiæ sacraméntum, et opus salútis humánæ perpétuæ dispositiónis efféctu tranquíllius operáre; totúsque mundus experiátur et vídeatd eiécta érigi, inveteráta renovári et per ipsum Christum redíre ómnia in íntegrum, a quo sumpsére princípium. Qui vivit et regnat in sǽcula sæculórum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ],
        [
         "Deus, qui nos ad celebrándum paschále sacraméntum utriúsque Testaménti páginis ínstruis, da nobis intellégere misericórdiam tuam, ut ex perceptióne præséntium múnerum firma sit exspectátio futurórum. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14168,19 +14467,29 @@
         "Oremos."
        ],
        [
-        "Ó Deus, força imutável e luz que não se apaga, olhai com bondade o mistério de toda a vossa Igreja e conduzi pelos caminhos da paz a obra da salvação, que concebestes desde toda a eternida1e. O mundo todo veja e experimente que se levanta o que estava caído, que o velho se torna novo e que tudo volta à integridade primitiva, por Cristo, princípio de todas as coisas. Ele, que vive e reina pelos séculos dos séculos."
-       ],
+        "Ó Deus, força imutável e luz que não se apaga, olhai com bondade o mistério de toda a vossa Igreja e conduzi pelos caminhos da paz a obra da salvação, que concebestes desde toda a eternidade. O mundo todo veja e experimente que se levanta o que estava caído, que o velho se torna novo e que tudo volta à integridade primitiva, por Cristo, princípio de todas as coisas. Ele, que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amém."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ],
        [
@@ -14188,7 +14497,12 @@
        ],
        [
         "Ó Deus, que nos escritos dos dois Testamentos nos ensinais a celebrar o mistério da Páscoa, fazei-nos compreender a vossa misericórdia, para que, recebendo os dons presentes, esperemos firmemente os que hão de vir. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14232,18 +14546,28 @@
        ],
        [
         "Who lives and reigns for ever and ever."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -14260,7 +14584,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14310,18 +14639,28 @@
        ],
        [
         "Él, que vive y reina por los siglos de los siglos."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ],
        [
@@ -14329,18 +14668,28 @@
        ],
        [
         "Oh Dios, que para celebrar el misterio pascual nos instruyes con las enseñanzas de los dos Testamentos, concédenos penetrar en los designios de tu amor, para que en los dones que hemos recibido, percibamos la esperanza de los bienes futuros. Por Jesucristo nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amén."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ],
        [
@@ -14354,7 +14703,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14374,18 +14728,28 @@
        ],
        [
         "O Dio, potenza immutabile e luce che non tramonta, guarda con amore al mirabile sacramento di tutta la Chiesa e compi nella pace l'opera dell'umana salvezza secondo il tuo disegno eterno; tutto il mondo riconosca e veda che quanto è distrutto si ricostruisce, quanto è invecchiato si rinnova, e tutto ritorna alla sua integrità, per mezzo di Cristo, che è principio di ogni cosa. Egli vive e regna nei secoli dei secoli."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -14393,7 +14757,12 @@
        ],
        [
         "O Dio, che nelle pagine dell'Antico e Nuovo Testamento ci insegni a celebrare il mistero pasquale, fa' che comprendiamo l'opera della tua misericordia, perché i doni che oggi riceviamo confermino in noi la speranza dei beni futuri. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14446,18 +14815,28 @@
        ],
        [
         "Lui qui vit et règne pour les siècles des siècles."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
-       ],
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ],
        [
@@ -14480,13 +14859,18 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -14522,7 +14906,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ],
        [
@@ -16102,60 +16486,6 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
     "la": [
      {
       "k": "p",
@@ -17718,7 +18048,7 @@
         }
        ],
        [
-        "Santo Estevão, ",
+        "Santo Estêvão, ",
         {
          "m": "litany",
          "t": "rogai por nós."
@@ -19770,7 +20100,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, adésto magnæ pietátis tuæ sacraméntis, et ad recreándos novos pópulos, quos tibi fons baptísmatis párturit, spíritum adoptiónis emítte, ut, quod nostræ humilitátis gérendum est mystério, virtútis tuæ impleátur efféctu. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -19793,7 +20128,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, manifestai vossa presença nos sacramentos do vosso grande amor. Enviai o Espírito de adoção para criar um novo povo nascido para vós na fonte do Batismo. E assim, pelo vosso poder, se realize plenamente o mistério confiado ao nosso humilde serviço. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -19834,7 +20174,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -19884,7 +20229,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -19925,7 +20275,12 @@
        ],
        [
         "Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -19972,13 +20327,18 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -20002,7 +20362,7 @@
       "k": "h5",
       "lines": [
        [
-        "Benção da água batismal"
+        "Bênção da água batismal"
        ]
       ]
      }
@@ -20937,13 +21297,18 @@
        ],
        [
         "Dieu, pour les siècles des siècles."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -21047,7 +21412,7 @@
        [
         {
          "m": "rubric",
-         "t": "47. Then the candle is lifted out of the water, as the people acclaim: "
+         "t": "47. Then the candle is lifted out of the water, as the people acclaim:"
         }
        ],
        [
@@ -21746,7 +22111,7 @@
       "k": "h5",
       "lines": [
        [
-        "Benção da Água"
+        "Bênção da Água"
        ]
       ]
      }
@@ -21975,7 +22340,12 @@
        ],
        [
         "Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -21998,7 +22368,12 @@
        ],
        [
         "Senhor nosso Deus, velai benigno sobre o vosso povo e, nesta noite santa em que celebramos a maravilha da nossa criação e a maravilha ainda maior da nossa redenção, dignai-vos abençoar esta água. Fostes vós que a criastes para fecundar a terra, para lavar nossos corpos e refazer nossas forças. Também a fizestes instrumento da vossa misericórdia: por ela libertastes o vosso povo do cativeiro e aplacastes no deserto a sua sede; por ela os profetas anunciaram a vossa aliança que era vosso desejo concluir com a humanidade; por ela finalmente, consagrada pelo Cristo no Jordão, renovastes, pelo banho do novo nascimento, a nossa humanidade ferida pelo pecado. Que esta água seja para nós uma recordação do nosso Batismo, e nos faça participar da alegria dos que foram batizados na Páscoa. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -22080,7 +22455,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -22177,7 +22557,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -22300,13 +22685,18 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -22696,24 +23086,6 @@
      }
     ]
    }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
   },
   {
    "text": {
@@ -23326,24 +23698,6 @@
      }
     ]
    }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
   },
   {
    "text": {
@@ -24051,7 +24405,7 @@
        [
         {
          "m": "rubric",
-         "t": "Prosigue el sacerdote: "
+         "t": "Prosigue el sacerdote:"
         }
        ]
       ]
@@ -24819,7 +25173,7 @@
        [
         {
          "m": "rubric",
-         "t": "Y concluye el sacerdote: "
+         "t": "Y concluye el sacerdote:"
         }
        ],
        [
@@ -24879,7 +25233,7 @@
        [
         {
          "m": "rubric",
-         "t": "Der Priester schließt: "
+         "t": "Der Priester schließt:"
         }
        ],
        [
@@ -25189,7 +25543,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ensuite, le prêtre asperge le peuple d'eau bénite (en circulant dans l'église si c'est utile pour la signification du geste). Pendant ce temps, on chante : "
+         "t": "Ensuite, le prêtre asperge le peuple d'eau bénite (en circulant dans l'église si c'est utile pour la signification du geste). Pendant ce temps, on chante :"
         }
        ],
        [
@@ -25477,7 +25831,7 @@
         "Creio",
         {
          "m": "rubric",
-         "t": ", preside à oração dos fiéis, da qual os recém-batizados participam pela primeira vez. "
+         "t": ", preside à oração dos fiéis, da qual os recém-batizados participam pela primeira vez."
         }
        ]
       ]
@@ -25530,7 +25884,7 @@
        [
         {
          "m": "rubric",
-         "t": "Après l'aspersion, le prêtre revient au siège. On omet le Credo. "
+         "t": "Après l'aspersion, le prêtre revient au siège. On omet le Credo."
         }
        ]
       ]
@@ -26863,34 +27217,64 @@
        ],
        [
         "Benedícat vos omnípotens Deus, hodiérna interveniénte sollemnitáte pascháli, et ab omni miserátus deféndat incursióne peccáti."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Et qui ad ætérnam vitam in Unigéniti sui resurrectióne vos réparat, vos prǽmiis immortalitátis adímpleat."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Et qui, explétis passiónis domínicæ diébus, paschális festi gáudia celebrátis, ad ea festa, quæ lætítiis peragúntur ætérnis, ipso opitulánte, exsultántibus ánimis veniátis."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Benedícat vos omnípotens Deus, Pater, et Fílius, ",
         {
@@ -26898,7 +27282,12 @@
          "t": "✠"
         },
         " et Spíritus Sanctus."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -26921,34 +27310,64 @@
        ],
        [
         "Deus todo-poderoso vos abençoe nesta solenidade pascal e vos proteja contra todo pecado."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amém."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Aquele que vos renova para a vida eterna, pela ressurreição do seu Filho, vos enriqueça com o dom da imortalidade."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amém."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "E vós que, transcorridos os dias da paixão do Senhor, celebrais com júbilo a festa da Páscoa, possais chegar, pela graça de Deus, com o coração exultante, à festa das alegrias eternas."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amém."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "E a bênção de Deus todo-poderoso, Pai e Filho ",
         {
@@ -26956,7 +27375,12 @@
          "t": "✠"
         },
         " e Espírito Santo, desça sobre vós e permaneça para sempre."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -26982,24 +27406,44 @@
        ],
        [
         "defend you from every assault of sin."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "And may he, who restores you to eternal life in the Resurrection of his Only Begotten, endow you with the prize of immortality."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Now that the days of the Lord's Passion have drawn to a close, may you who celebrate the gladness of the Paschal Feast"
        ],
@@ -27008,14 +27452,24 @@
        ],
        [
         "to those feasts that are celebrated in eternal joy."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "And may the blessing of almighty God,"
        ],
@@ -27026,7 +27480,12 @@
          "t": "✠"
         },
         " and the Holy Spirit, come down on you and remain with you for ever."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -27055,14 +27514,24 @@
        ],
        [
         "y, compasivo, os defienda de toda asechanza del pecado."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "El que os ha renovado para la vida eterna,"
        ],
@@ -27071,14 +27540,24 @@
        ],
        [
         "os colme con el premio de la inmortalidad."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Y quienes, terminados los días de la pasión del Señor,"
        ],
@@ -27090,14 +27569,24 @@
        ],
        [
         "a aquellas fiestas que se celebran con alegría eterna."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Y la bendición de Dios todopoderoso,"
        ],
@@ -27111,7 +27600,12 @@
        ],
        [
         "descienda sobre vosotros."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -27134,34 +27628,64 @@
        ],
        [
         "In questa santa notte di Pasqua, Dio onnipotente vi benedica e, nella sua misericordia, vi difenda da ogni insidia del peccato."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Dio che vi rinnova per la vita eterna, nella risurrezione del suo Figlio unigenito, vi conceda il premio dell'immortalità futura."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Voi, che dopo i giorni della passione del Signore celebrate nella gioia la festa di Pasqua, possiate giungere con animo esultante alla festa senza fine."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Amen."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "E la benedizione di Dio onnipotente, Padre e Figlio",
         {
@@ -27169,7 +27693,12 @@
          "t": "✠"
         },
         " e Spirito Santo, discenda su di voi e con voi rimanga sempre."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -27198,14 +27727,24 @@
        ],
        [
         "et, dans sa bonté, qu'il vous protège des assauts du péché."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
-       ],
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Il vous régénère pour la vie éternelle"
        ],
@@ -27214,14 +27753,24 @@
        ],
        [
         "qu'il vous comble de la vie sans fin."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
-       ],
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Ils sont finis, les jours de la passion du Seigneur :"
        ],
@@ -27233,14 +27782,24 @@
        ],
        [
         "aux fêtes qui s'accomplissent dans la joie de l'éternité."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
-       ],
+        "Amen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         "Et que la bénédiction de Dieu tout-puissant,"
        ],
@@ -27254,13 +27813,18 @@
        ],
        [
         "descende sur vous et y demeure toujours."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Amen."
+        "Amen."
        ]
       ]
      }
@@ -27371,14 +27935,24 @@
        ],
        [
         "Ide em paz e o Senhor vos acompanhe, aleluia, aleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Graças a Deus, aleluia, aleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -27407,14 +27981,24 @@
          "t": "or:"
         },
         " Go in peace, alleluia, alleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Thanks be to God, alleluia, alleluia."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -27436,7 +28020,12 @@
        ],
        [
         "Podéis ir en paz, aleluya, aleluya."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -27646,8 +28235,8 @@
  ],
  "title": {
   "la": "SACRUM TRIDUUM PASCHALE — SABBATO SANCTO",
-  "pt-BR": "SAGRADO TRÍDUO PASCAL — SÁBADO SANTO",
-  "en-US": "HOLY SATURDAY",
+  "pt-BR": "Vigília Pascal na Noite Santa",
+  "en-US": "The Easter Vigil in the Holy Night",
   "es": "Santo Triduo Pascual — SÁBADO SANTO",
   "it": "SABATO SANTO",
   "fr": "Triduum pascal — SAMEDI SAINT",

@@ -629,38 +629,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.8"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 116(117), 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
@@ -668,15 +656,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mk 16, 15)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
@@ -684,7 +680,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 116(117)",
       "role": "title"
      }
@@ -692,16 +692,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 117 (116), 1. 2 (R: vgl. Mk 16, 15)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 117 (116), 1. 2 (R.: vgl. Mk 16, 15)",
       "role": "title"
      }
     ]
@@ -1294,30 +1302,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.pastors.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1358,7 +1350,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1396,7 +1392,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Lk 4:18",
       "role": "title"
      },
@@ -1418,7 +1418,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1459,7 +1463,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Lc 4, 18cd",
       "role": "title"
      },
@@ -1481,7 +1489,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1519,7 +1531,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Lk 4, 18",
       "role": "title"
      },
@@ -2193,7 +2209,7 @@
  "title": {
   "la": "S. Ioannis Maríæ Vianney, presbyteri",
   "pt-BR": "São João Maria Vianney, presbítero",
-  "en-US": "St. John Vianney, priest",
+  "en-US": "Saint John Vianney, priest",
   "es": "San Juan María Vianney, presbítero",
   "it": "San Giovanni Maria Vianney, sacerdote",
   "fr": "Saint Jean-Marie Vianney, prêtre",

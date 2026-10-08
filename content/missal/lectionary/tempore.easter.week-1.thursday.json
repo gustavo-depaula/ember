@@ -655,7 +655,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 8, 2a. 5. 6-7. 8-9"
      }
     ],
     "es": [
@@ -702,7 +703,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 8, 2a. 5. 6-7. 8-9 (R: 2ab)",
+      "cite": "Ps 8, 2a. 5. 6-7. 8-9 (R.: 2ab)",
       "role": "title"
      }
     ]
@@ -727,7 +728,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -748,7 +749,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -769,7 +770,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -790,7 +791,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -811,7 +812,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -825,12 +826,12 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ô Seigneur notre Dieu, qu'il est grand, ton nom, par toute la terre ! ",
+        "Ô Seigneur notre Dieu, qu'il est grand, ton nom, par toute la terre ! ",
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1002,7 +1003,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1023,7 +1024,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1044,7 +1045,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1065,7 +1066,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1086,7 +1087,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1100,12 +1101,12 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ô Seigneur notre Dieu, qu'il est grand, ton nom, par toute la terre ! ",
+        "Ô Seigneur notre Dieu, qu'il est grand, ton nom, par toute la terre ! ",
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1292,7 +1293,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1313,7 +1314,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1334,7 +1335,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1355,7 +1356,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1376,7 +1377,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1390,12 +1391,12 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ô Seigneur notre Dieu, qu'il est grand, ton nom, par toute la terre ! ",
+        "Ô Seigneur notre Dieu, qu'il est grand, ton nom, par toute la terre ! ",
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1579,7 +1580,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1600,7 +1601,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1621,7 +1622,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1642,7 +1643,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1663,7 +1664,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1677,14 +1678,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ô Seigneur notre Dieu, qu'il est grand, ton nom, par toute la terre ! ou"
+        "Ô Seigneur notre Dieu, qu'il est grand, ton nom, par toute la terre ! ou"
        ],
        [
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1879,7 +1880,7 @@
         "é a vida que enfrenta a morte."
        ],
        [
-        "O Rei da vida, cativo, foi morto, mas reina vivo!."
+        "O Rei da vida, cativo, foi morto, mas reina vivo!"
        ]
       ]
      },
@@ -3330,8 +3331,8 @@
  ],
  "title": {
   "la": "Feria V — infra octavam Paschae",
-  "pt-BR": "Quinta-feira — Oitava da Páscoa",
-  "en-US": "Easter Thursday",
+  "pt-BR": "Quinta-feira na Oitava da Páscoa",
+  "en-US": "Thursday within the Octave of Easter",
   "es": "Jueves — de la octava de Pascua",
   "it": "GIOVEDI FRA L`OTTAVA DI PASQUA",
   "fr": "Temps pascal — Jeudi de la 1e semaine",

@@ -58,21 +58,6 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        "..."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "title"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [
@@ -88,40 +73,10 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        "..."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "entranceAntiphon"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [
         "Prière d'ouverture (Collecte)"
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "collect"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "..."
        ]
       ]
      }
@@ -151,40 +106,10 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        "..."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "prayerOverOfferings"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [
         "Préface"
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "preface"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "..."
        ]
       ]
      }
@@ -211,40 +136,10 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        "..."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "communionAntiphon"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [
         "Prière après la communion"
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "postcommunion"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "..."
        ]
       ]
      }

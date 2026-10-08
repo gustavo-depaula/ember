@@ -4,7 +4,7 @@
 
 ### Meditation
 
-**1** — Must one be holy before giving oneself to the apostolate? Theoretically that would be ideal, but in practice it is impossible. One cannot think that the years of formation alone—of seminary or novitiate, for example—are enough to make saints; nor, when duty or charity requires it, can one exempt oneself from apostolic works on the pretext that one has not yet reached holiness.
+**1** — The most fruitful apostle is the saint. Must one then be holy before giving oneself to the apostolate? Theoretically that would be ideal, but in practice it is impossible. One cannot think that the years of formation alone—of seminary or novitiate, for example—are enough to make saints; nor, when duty or charity requires it, can one exempt oneself from apostolic works on the pretext that one has not yet reached holiness.
 
 We must therefore conclude that, once the period dedicated exclusively to preparation is presupposed, it is necessary to unite one’s personal ascent toward holiness with the exercise of apostolic activity. In other words, apostles must sanctify themselves in the apostolate and by means of it.
 

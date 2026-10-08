@@ -162,7 +162,7 @@
       "k": "p",
       "lines": [
        [
-        "Ioseph autem, qui cognominátus est Bárnabas ab apóstolis — ​quod est interpretátum fílius Consolatiónis — ​Levítes, Cýprius génere, cum habéret agrum, véndidit et áttulit pecúniam et pósuit ante pedes apostólorum."
+        "Ioseph autem, qui cognominátus est Bárnabas ab apóstolis — quod est interpretátum fílius Consolatiónis — Levítes, Cýprius génere, cum habéret agrum, véndidit et áttulit pecúniam et pósuit ante pedes apostólorum."
        ]
       ]
      },
@@ -574,7 +574,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 92, 1ab. 1c-2. 5 (R/.: 1a)",
+      "cite": "Ps 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -586,7 +586,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 92 (93), 1ab.1c-2.5 (R/.: 1a)",
+      "cite": "Sl 92 (93), 1ab.1c-2.5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -598,7 +598,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 92, 1ab. 1c-2. 5 (R.: 1a)"
      }
     ],
     "es": [
@@ -609,7 +610,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 92, 1ab. 1c-2. 5 (R/.: 1a)",
+      "cite": "Sal 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -633,7 +634,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 92, 1ab. 1c-2. 5 (R/.: 1a)",
+      "cite": "Ps 92, 1ab. 1c-2. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -645,7 +646,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 93 (92), 1. 2-3. 4-5 (R: 1a)",
+      "cite": "Ps 93 (92), 1. 2-3. 4-5 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -2417,8 +2418,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada II — Feria III",
-  "pt-BR": "Tempo da Páscoa — 2ª Semana — Terça-feira",
-  "en-US": "Easter Season — Second Week — Tuesday",
+  "pt-BR": "Terça-feira da 2ª Semana da Páscoa",
+  "en-US": "Tuesday of the Second Week of Easter",
   "es": "Tiempo de Pascua — Semana II — Martes",
   "it": "MARTEDI della II settimana di Pasqua",
   "fr": "Temps pascal — 2e semaine — Mardi",

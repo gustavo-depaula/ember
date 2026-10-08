@@ -106,57 +106,479 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cp2l10"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Volebamus tradere non solum Evangelium, sed etiam animas nostras."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Thessalonicénses"
+       ]
+      ],
+      "cite": "2, 2b-8",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fidúciam habúimus in Deo nostro loqui ad vos Evangélium Dei in multa sollicitúdine. Exhortátio enim nostra non ex erróre neque ex immundítia neque in dolo, sed sicut probáti sumus a Deo, ut crederétur nobis Evangélium, ita lóquimur non quasi homínibus placéntes, sed Deo, qui probat corda nostra."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Neque enim aliquándo fúimus in sermóne adulatiónis, sicut scitis, neque sub prætéxtu avarítiæ, Deus testis, nec quæréntes ab homínibus glóriam, neque a vobis neque ab áliis; cum possémus óneri esse ut Christi apóstoli, sed facti sumus párvuli in médio vestrum, tamquam si nutrix fóveat fílios suos; ita desiderántes vos, cúpide volebámus trádere vobis non solum Evangélium Dei sed étiam ánimas nostras, quóniam caríssimi nobis facti estis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Desejávamos dar-vos não somente o evangelho de Deus, mas até a própria vida."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo aos Tessalonicenses"
+       ]
+      ],
+      "cite": "2, 2b-8",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Encontramos em Deus a coragem de vos anunciar o evangelho, em meio a grandes lutas. A nossa exortação não se baseia no erro, na ambiguidade ou no desejo de enganar. Ao contrário, uma vez que Deus nos achou dignos para que nos confiasse o evangelho, falamos não para agradar aos homens, mas a Deus, que examina os nossos corações. Bem sabeis que nunca usamos palavras de adulação, nem procedemos movidos por disfarçada ganância. Deus é testemunha disso. E também não procuramos elogios humanos, nem da parte de vós, nem de outros, embora pudéssemos fazer valer a nossa autoridade de apóstolos de Cristo. Foi com muita ternura que nos apresentamos a vós, como uma mãe que acalenta os seus filhinhos. Tanto bem vos queríamos, que desejávamos dar-vos não somente o evangelho de Deus, mas até, a própria vida; a tal ponto chegou a nossa afeição por vós."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to the Thessalonians"
+       ]
+      ],
+      "cite": "2:2-8",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "It was our God who gave us the courage to proclaim his Good News to you in the face of great opposition. We have not taken to preaching because we are deluded, or immoral, or trying to deceive anyone; it was God who decided that we were fit to be entrusted with the Good News, and when we are speaking, we are not trying to please men but God, who can read our inmost thoughts. You know very well, and we can swear it before God, that never at any time have our speeches been simply flattery, or a cover for trying to get money; nor have we ever looked for any special honour from men, either from you or anybody else, when we could have imposed ourselves on you with full weight, as apostles of Christ. Instead, we were unassuming. Like a mother feeding and looking after her own children, we felt so devoted and protective towards you, and had come to love you so much, that we were eager to hand over to you not only the Good News but our whole lives as well."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Queríamos entregaros no solo el Evangelio, sino hasta nuestras propias personas"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Tesalonicenses"
+       ]
+      ],
+      "cite": "2, 2b-8",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Apoyados en nuestro Dios, tuvimos valor para predicaros el Evangelio de Dios en medio de fuerte oposición."
+       ],
+       [
+        "Nuestra exhortación no procedía de error o de motivos turbios, ni usaba engaños, sino que, en la medida en que Dios nos juzgó aptos para confiarnos el Evangelio, así lo predicamos: no para contentar a los hombres, sino a Dios, que juzga nuestras intenciones."
+       ],
+       [
+        "Bien sabéis vosotros que nunca hemos actuado ni con palabras de adulación ni por codicia disimulada, Dios es testigo, ni pretendiendo honor de los hombres, ni de vosotros, ni de los demás, aunque, como apóstoles de Cristo, podíamos haberos hablado con autoridad; por el contrario, nos portamos con delicadeza entre vosotros, como una madre que cuida con cariño de sus hijos."
+       ],
+       [
+        "Os queríamos tanto que deseábamos entregaros no solo el Evangelio de Dios, sino hasta nuestras propias personas, porque os habíais ganado nuestro amor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Avremmo desiderato trasmettervi non solo il Vangelo di Dio, ma la nostra stessa vita."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Tessalonicesi"
+       ]
+      ],
+      "cite": "2, 2b-8",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, abbiamo trovato nel nostro Dio il coraggio di annunciarvi il Vangelo dì Dio in mezzo a molte lotte. E il nostro invito alla fede non nasce da menzogna né da disoneste intenzioni e neppure da inganno; ma, come Dio ci ha trovato degni di affidarci il Vangelo cosi noi lo annunciamo, non cercando di piacere agli uomini, ma a Dio, che prova i nostri cuori."
+       ],
+       [
+        "Mai infatti abbiamo usato parole di adulazione, come sapete, né abbiamo avuto intenzioni di cupidigia: Dio ne è testimone. E neppure abbiamo cercato la gloria umana, né da voi né da altri, pur potendo far valere la nostra autorità di apostoli di Cristo."
+       ],
+       [
+        "Invece siamo stati amorevoli in mezzo a voi, come una madre che ha cura dei propri figli. Cosi, affezionati a voi, avremmo desiderato trasmettervi non solo il Vangelo di Dio, ma la nostra stessa vita, perché ci siete diventati cari."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Thessaloniciens"
+       ]
+      ],
+      "cite": "2, 2b-8",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, nous avons trouvé en notre Dieu pleine assurance pour vous annoncer, au prix de grandes luttes, l'Évangile de Dieu. Et quand nous vous exhortions, ce n'était pas avec des doctrines fausses, ni des motifs impurs, ni par ruse. En effet, pour nous confier l'Évangile, Dieu a éprouvé notre valeur, de sorte que nous parlons, non pas pour plaire aux hommes, mais à Dieu, lui qui met nos cœurs à l'épreuve. Jamais, nous n'avons eu un mot de flatterie, vous le savez, jamais de motifs intéressés, Dieu en est témoin ; jamais nous n'avons recherché la gloire qui vient des hommes, ni auprès de vous ni auprès d'autres personnes. Alors que nous aurions pu nous imposer en qualité d'apôtres du Christ, au contraire, nous avons été pleins de douceur avec vous, comme une mère qui entoure de soins ses nourrissons. Ayant pour vous une telle affection, nous aurions voulu vous donner non seulement l'Évangile de Dieu, mais jusqu'à nos propres vies, car vous nous étiez devenus très chers."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Thessalónicher"
+       ]
+      ],
+      "cite": "2, 2b-8",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Wir haben im Vertrauen auf unseren Gott das Evangelium Gottes trotz harter Kämpfe freimütig und furchtlos bei euch verkündet. Denn wir predigen nicht, um euch irrezuführen, in schmutziger Weise auszunutzen oder zu betrügen, sondern wir tun es, weil Gott uns geprüft und uns das Evangelium anvertraut hat, nicht also um den Menschen, sondern um Gott zu gefallen, der unsere Herzen prüft."
+       ],
+       [
+        "Nie haben wir mit unseren Worten zu schmeicheln versucht, das wisst ihr, und nie haben wir aus versteckter Habgier gehandelt, dafür ist Gott Zeuge. Wir haben auch keine Ehre bei den Menschen gesucht, weder bei euch noch bei anderen, obwohl wir als Apostel Christi unser Ansehen hätten geltend machen können. Im Gegenteil, wir sind euch freundlich begegnet: Wie eine Mutter für ihre Kinder sorgt, so waren wir euch zugetan und wollten euch nicht nur am Evangelium Gottes teilhaben lassen, sondern auch an unserem eigenen Leben; denn ihr wart uns sehr lieb geworden."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.5"
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.10"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.10"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 95(96), 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
@@ -164,15 +586,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 95:1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 95:1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
@@ -180,7 +610,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 95 (96)",
       "role": "title"
      }
@@ -188,16 +622,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 96 (95), 1-2. 3 u. 7. 8 u. 10 (R: vgl. 3a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 96 (95), 1-2. 3 u. 7. 8 u. 10 (R.: vgl. 3a)",
       "role": "title"
      }
     ]
@@ -1163,30 +1605,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.pastors.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 10, 14",
       "role": "title"
      },
@@ -1227,7 +1653,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 10, 14",
       "role": "title"
      },
@@ -1265,7 +1695,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 10:14",
       "role": "title"
      },
@@ -1287,7 +1721,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 10, 14",
       "role": "title"
      },
@@ -1331,7 +1769,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 10, 14",
       "role": "title"
      },
@@ -1353,7 +1795,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 10, 14",
       "role": "title"
      },
@@ -1391,7 +1837,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 10, 14",
       "role": "title"
      },
@@ -1432,27 +1882,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.1"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1482,6 +1921,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A Messe é grande, mas os trabalhadores são poucos."
        ]
       ],
@@ -1507,6 +1955,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1519,6 +1976,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1548,6 +2014,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "La messe è abbondante, ma sono pochi gli operai."
        ]
       ],
@@ -1573,6 +2048,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1585,6 +2069,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1980,7 +2473,7 @@
  "title": {
   "la": "S. Augustini Cantuariensis, episcopi",
   "pt-BR": "Santo Agostinho de Cantuária, bispo",
-  "en-US": "St. Augustine of Canterbury, Bishop",
+  "en-US": "Saint Augustine of Canterbury, Bishop",
   "es": "San Agustín de Cantorbery, obispo",
   "it": "Sant'Agostino di Canterbury, vescovo",
   "fr": "Saint Augustin de Cantorbéry, évêque",

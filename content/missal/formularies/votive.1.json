@@ -19,7 +19,7 @@
        [
         {
          "m": "rubric",
-         "t": "In hac Missa adhibetur color albus. "
+         "t": "In hac Missa adhibetur color albus."
         }
        ]
       ]
@@ -113,7 +113,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pour cette messe, on emploie la couleur blanche. "
+         "t": "Pour cette messe, on emploie la couleur blanche."
         }
        ]
       ]
@@ -1462,7 +1462,7 @@
       "k": "p",
       "lines": [
        [
-        "Porque sois filhos, Gl4,6 Deus enviou aos vossos corações o Espírito do seu Filho, que clama: Abá - ó Pai!"
+        "Porque sois filhos, Deus enviou aos vossos corações o Espírito do seu Filho, que clama: Abá - ó Pai!"
        ]
       ]
      }
@@ -1721,8 +1721,8 @@
  ],
  "title": {
   "la": "1. DE SANCTISSIMA TRINITATE",
-  "pt-BR": "1. SANTÍSSIMA TRINDADE",
-  "en-US": "1. THE MOST HOLY TRINITY",
+  "pt-BR": "1. Santíssima Trindade",
+  "en-US": "1. The Most Holy Trinity",
   "es": "1. DE LA SANTÍSIMA TRINIDAD",
   "it": "1. SANTISSIMA TRINITÀ",
   "fr": "1. SAINTE TRINITÉ",

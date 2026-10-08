@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -88,6 +79,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "«Agi assim para não colocar a glória de um homem acima da glória de Deus."
        ]
       ],
@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, Mardoqueu disse: \"Deus de Abraão, Deus de Isaac e Deus de Jacó, tu és bendito. Senhor, Senhor, Rei Todo-poderoso, tudo está sujeito ao teu poder e ninguém se pode opor à tu vontade, quando queres salvar Israel. Fizestes o céu e a terra e todas as maravilhas que estão debaixo do firmamento. És o Senhor de tudo e não há quem possa resistir a tua majestade. Tu sabes, Senhor, que para a salvação de Israel, estaria pronto a beijar a planta dos pés de Amã. Se me neguei a fazê-lo, foi para não colocar a glória de um homem acima da glória de Deus. Jamais me inclinarei diante de ninguém, senão diante de ti, Senhor meu Deus. Escuta a minha suplica, sê favoravel àqueles que te pertencem e muda o nosso luto em alegria. Então nós viveremos e poderemos celebrar o teu nome, Senhor. Mas não deixes emudecer a boca dos que te louvam\" ."
+        "Naqueles dias, Mardoqueu disse: \"Deus de Abraão, Deus de Isaac e Deus de Jacó, tu és bendito. Senhor, Senhor, Rei Todo-poderoso, tudo está sujeito ao teu poder e ninguém se pode opor à tu vontade, quando queres salvar Israel. Fizestes o céu e a terra e todas as maravilhas que estão debaixo do firmamento. És o Senhor de tudo e não há quem possa resistir a tua majestade. Tu sabes, Senhor, que para a salvação de Israel, estaria pronto a beijar a planta dos pés de Amã. Se me neguei a fazê-lo, foi para não colocar a glória de um homem acima da glória de Deus. Jamais me inclinarei diante de ninguém, senão diante de ti, Senhor meu Deus. Escuta a minha súplica, sê favorável àqueles que te pertencem e muda o nosso luto em alegria. Então nós viveremos e poderemos celebrar o teu nome, Senhor. Mas não deixes emudecer a boca dos que te louvam\"."
        ]
       ]
      },
@@ -122,6 +122,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -151,6 +160,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -208,6 +226,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Non porre la gloria dell'uomo al di sopra della gloria di Dio."
        ]
       ],
@@ -251,6 +278,15 @@
      }
     ],
     "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -312,6 +348,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

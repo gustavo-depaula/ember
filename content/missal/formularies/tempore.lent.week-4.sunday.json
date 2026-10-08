@@ -377,7 +377,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -398,7 +398,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1392,7 +1392,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ]
       ],
@@ -2128,8 +2128,8 @@
  ],
  "title": {
   "la": "DOMINICA IV IN QUADRAGESIMA",
-  "pt-BR": "QUARTO DOMINGO DA QUARESMA",
-  "en-US": "Season of Lent — 4th Week: Sunday",
+  "pt-BR": "4º Domingo da Quaresma",
+  "en-US": "Fourth Sunday of Lent",
   "es": "IV DOMINGO DE CUARESMA",
   "it": "IV DOMENICA DI QUARESIMA",
   "fr": "4e DIMANCHE DE CARÊME",

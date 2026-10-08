@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -96,6 +87,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Eu contruí para ti uma casa que será tua morada para sempre,"
        ]
       ],
@@ -134,6 +134,15 @@
       "k": "p",
       "lines": [
        [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A reading from the second Book of Chronicles"
        ]
       ],
@@ -152,7 +161,7 @@
       "k": "p",
       "lines": [
        [
-        "When the trumpeters and singers were heard as a single voice praising and giving thanks to the Lord, and when they raised the sound of the trumpets, cymbals, and other musical instruments to “Praise the Lord, who is so good, whose love endures forever,” the cloud filled the house of the Lord. The priests could no longer minister because of the cloud, since the glory of the Lord had filled the house of God.Then Solomon said: “The Lord intends to dwell in the dark cloud; I have built you a princely house, the base for your enthronement forever."
+        "When the trumpeters and singers were heard as a single voice praising and giving thanks to the Lord, and when they raised the sound of the trumpets, cymbals, and other musical instruments to “Praise the Lord, who is so good, whose love endures forever,” the cloud filled the house of the Lord. The priests could no longer minister because of the cloud, since the glory of the Lord had filled the house of God. Then Solomon said: “The Lord intends to dwell in the dark cloud; I have built you a princely house, the base for your enthronement forever."
        ]
       ]
      },
@@ -167,6 +176,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -221,6 +239,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Ti ho costruito una casa eccelsa, un luogo per la tua dimora in eterno."
        ]
       ],
@@ -267,6 +294,15 @@
      }
     ],
     "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -353,6 +389,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

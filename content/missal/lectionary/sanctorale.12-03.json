@@ -269,6 +269,15 @@
       "k": "p",
       "lines": [
        [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A reading from the first Letter of Saint Paul to the Corinthians"
        ]
       ],
@@ -626,38 +635,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.8"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 116(117), 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
@@ -665,15 +662,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mk 16, 15)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
@@ -681,7 +686,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 116(117)",
       "role": "title"
      }
@@ -689,16 +698,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 117 (116), 1. 2 (R: vgl. Mk 16, 15)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 117 (116), 1. 2 (R.: vgl. Mk 16, 15)",
       "role": "title"
      }
     ]
@@ -1291,30 +1308,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.pastors.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -1358,7 +1359,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -1396,7 +1401,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -1434,7 +1443,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -1478,7 +1491,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 28, 19a.20b",
       "role": "title"
      },
@@ -1500,7 +1517,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -1538,7 +1559,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Mt 28, 19a. 20b",
       "role": "title"
      },
@@ -1579,43 +1604,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "[Pro missionariis]"
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "from": "common.pastors.gospel.6"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.6"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1645,6 +1643,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Ide pelo mundo inteiro e anunciai o Evangelho."
        ]
       ],
@@ -1670,6 +1677,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1682,6 +1698,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1711,6 +1736,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Andate in tutto il mondo e proclamate il Vangelo."
        ]
       ],
@@ -1736,6 +1770,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1748,6 +1791,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2166,7 +2218,7 @@
  "title": {
   "la": "S. Francisci Xavier, presbyteri",
   "pt-BR": "São Francisco Xavier, presbítero",
-  "en-US": "St. Francis Xavier",
+  "en-US": "Saint Francis Xavier",
   "es": "San Francisco Javier, presbítero",
   "it": "San Francesco Saverio, sacerdote",
   "fr": "Saint François Xavier, prêtre",

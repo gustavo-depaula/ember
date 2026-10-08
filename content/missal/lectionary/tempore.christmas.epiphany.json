@@ -720,7 +720,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 71, 1-2. 7-8. 10-11. 12-13 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 7-8. 10-11. 12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -732,7 +732,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 71 (72), 2.7-8.10-11.12-13(: cf. 11)",
+      "cite": "Sl 71 (72), 2.7-8.10-11.12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -744,7 +744,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 71, 1-2. 7-8. 10-11. 12-13 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 7-8. 10-11. 12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -756,7 +756,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 71, 1-2. 7-8. 10-11. 12-13 (: cf. 11)",
+      "cite": "Sal 71, 1-2. 7-8. 10-11. 12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -780,7 +780,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 71, 1-2. 7-8. 10-11. 12-13 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 7-8. 10-11. 12-13 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -792,7 +792,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 72 (71), 1-2. 7-8. 10-11. 12-13 (R: 11)",
+      "cite": "Ps 72 (71), 1-2. 7-8. 10-11. 12-13 (R.: 11)",
       "role": "title"
      }
     ]
@@ -1403,7 +1403,7 @@
         "Os reis de Társis e das ilhas hão de vir"
        ],
        [
-        "e oferecer-lhes seus presentes e seus dons;"
+        "e oferecer-lhe seus presentes e seus dons;"
        ],
        [
         "e também os reis de Seba e de Sabá"
@@ -1781,7 +1781,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "As nações de toda a terra, hão de adorar-vos ó Senhor!."
+        "As nações de toda a terra, hão de adorar-vos ó Senhor!"
        ]
       ]
      }
@@ -3186,8 +3186,8 @@
  ],
  "title": {
   "la": "IN EPIPHANIA DOMINI",
-  "pt-BR": "EPIFANIA DO SENHOR",
-  "en-US": "THE EPIPHANY OF THE LORD",
+  "pt-BR": "Epifania do Senhor",
+  "en-US": "The Epiphany of the Lord",
   "es": "LA EPIFANÍA DEL SEÑOR",
   "it": "EPIFANIA DEL SIGNORE",
   "fr": "Solennité de l'Épiphanie — Temps de Noël",

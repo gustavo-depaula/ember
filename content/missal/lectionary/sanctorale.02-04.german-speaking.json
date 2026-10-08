@@ -184,38 +184,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.doctors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 18(19B), 8. 9. 10. 11 (R.: Jo 6, 63c)",
       "role": "title"
      }
@@ -223,15 +211,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b or Jn 6, 63c)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 18, 8. 9. 10. 11 (R.: Jn 6, 63c)",
       "role": "title"
      }
@@ -239,16 +235,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R: 10b oder vgl. Joh 6, 63b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R.: 10b oder vgl. Joh 6, 63b)",
       "role": "title"
      }
     ]
@@ -316,7 +320,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -356,7 +360,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -582,7 +586,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -622,7 +626,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -848,7 +852,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -888,7 +892,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1114,7 +1118,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -1154,7 +1158,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1383,7 +1387,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -1423,7 +1427,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1481,30 +1485,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 8, 12",
       "role": "title"
      },
@@ -1545,7 +1533,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 8, 12",
       "role": "title"
      },
@@ -1583,7 +1575,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 8:12",
       "role": "title"
      },
@@ -1605,7 +1601,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 8, 12",
       "role": "title"
      },
@@ -1646,7 +1646,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. Gv 8, 12",
       "role": "title"
      },
@@ -1668,7 +1672,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 8, 12",
       "role": "title"
      },
@@ -1709,7 +1717,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Joh 8, 12",
       "role": "title"
      },
@@ -1750,27 +1762,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.2"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1800,6 +1801,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós sois a luz do mundo"
        ]
       ],
@@ -1825,6 +1835,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1837,6 +1856,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1866,6 +1894,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Voi siete la luce del mondo."
        ]
       ],
@@ -1891,6 +1928,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1903,6 +1949,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2085,7 +2140,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor."
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"

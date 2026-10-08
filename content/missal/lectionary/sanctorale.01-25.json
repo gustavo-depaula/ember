@@ -662,10 +662,11 @@
       "k": "p",
       "lines": [
        [
-        "Leitura dos Atos dos Apóstolos9, 1-22"
+        "Leitura dos Atos dos Apóstolos"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "9, 1-22"
      },
      {
       "k": "p",
@@ -1136,7 +1137,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -1148,7 +1149,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 116 (117), 1.2 (: Mc 16, 15)",
+      "cite": "Sl 116 (117), 1.2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -1160,7 +1161,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mk 16, 15)",
       "role": "title"
      }
     ],
@@ -1172,7 +1173,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -1196,7 +1197,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 116, 1. 2 (: Mc 16, 15)",
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
       "role": "title"
      }
     ],
@@ -1208,7 +1209,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 117 (116), 1. 2 (R: vgl. Mk 16, 15)",
+      "cite": "Ps 117 (116), 1. 2 (R.: vgl. Mk 16, 15)",
       "role": "title"
      }
     ]
@@ -2499,8 +2500,8 @@
  ],
  "title": {
   "la": "IN CONVERSIONE S. PAULI, APOSTOLI",
-  "pt-BR": "CONVERSÃO DE SÃO PAULO, Apóstolo",
-  "en-US": "THE CONVERSION OF ST. PAUL, APOSTLE",
+  "pt-BR": "Conversão de São Paulo, Apóstolo",
+  "en-US": "The Conversion of St. Paul, Apostle",
   "es": "LA CONVERSIÓN DEL APÓSTOL SAN PABLO",
   "it": "CONVERSIONE DI SAN PAOLO APOSTOLO",
   "fr": "CONVERSION DE SAINT PAUL, APÔTRE",

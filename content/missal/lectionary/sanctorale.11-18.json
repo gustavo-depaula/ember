@@ -589,7 +589,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (: 2b)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -613,7 +613,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (: 2b)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -649,7 +649,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (: 2b)",
+      "cite": "Ps 97, 1. 2-3ab. 3cd-4. 5-6 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -661,7 +661,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 98 (97), 1. 2-3b. 3c-4. 5-6 (R: vgl. 2)",
+      "cite": "Ps 98 (97), 1. 2-3b. 3c-4. 5-6 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -2619,8 +2619,8 @@
  ],
  "title": {
   "la": "In Dedicatione basilicarum Ss. Petri et Pauli, apostolorum",
-  "pt-BR": "Dedicação das Basílicas de São Pedro e de São Paulo, apóstolos",
-  "en-US": "The Dedication of the Basilicas of Ss Peter and Paul, Apostles",
+  "pt-BR": "Dedicação das basílicas dos Santos Pedro e Paulo, apóstolos",
+  "en-US": "The Dedication of the Basilicas of Saints Peter and Paul, Apostles",
   "es": "La Dedicación de la basílica de los apóstoles San Pedro y San Pablo",
   "it": "Dedicazione Delle Basiliche Dei Santi Pietro E Paolo Apostoli",
   "fr": "Dédicace des basiliques Saint-Pierre et Saint-Paul, apôtres",

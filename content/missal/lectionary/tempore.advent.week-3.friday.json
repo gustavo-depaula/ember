@@ -714,7 +714,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 66, 2-3. 5. 7-8 (: 4)",
+      "cite": "Ps 66, 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ],
@@ -726,7 +726,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 66 (67), 2-3.5.7-8 (: 4)",
+      "cite": "Sl 66 (67), 2-3.5.7-8 (R.: 4)",
       "role": "title"
      }
     ],
@@ -738,7 +738,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 66, 2-3. 5. 7-8 (: 4)",
+      "cite": "Ps 66, 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ],
@@ -750,7 +750,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 66, 2-3. 5. 7-8 (: 4)",
+      "cite": "Sal 66, 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ],
@@ -774,7 +774,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 66, 2-3. 5. 7-8 (: 4)",
+      "cite": "Ps 66, 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ],
@@ -786,7 +786,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 67 (66), 2-3. 5. 7-8 (R: 4)",
+      "cite": "Ps 67 (66), 2-3. 5. 7-8 (R.: 4)",
       "role": "title"
      }
     ]
@@ -1747,7 +1747,7 @@
         "Alléluia. Alléluia."
        ],
        [
-        "Viens, Seigneur : que ta visite soit notre paix ! Que notre cœur trouve la joie parfaite en ta présence !."
+        "Viens, Seigneur : que ta visite soit notre paix ! Que notre cœur trouve la joie parfaite en ta présence !"
        ],
        [
         "Alléluia."
@@ -2395,8 +2395,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada III — Feria sexta",
-  "pt-BR": "Sexta-feira",
-  "en-US": "Advent Season — 3rd Week: Friday",
+  "pt-BR": "Sexta-feira da 3ª Semana do Advento",
+  "en-US": "Friday of the Third Week of Advent",
   "es": "Tiempo de Adviento — Viernes de la III Semana",
   "it": "VENERDÌ della III SETTIMANA DI AVVENTO",
   "fr": "Temps de l'Avent — 3e semaine — Vendredi",

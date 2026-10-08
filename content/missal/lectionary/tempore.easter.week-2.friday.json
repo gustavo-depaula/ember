@@ -233,7 +233,7 @@
       "k": "p",
       "lines": [
        [
-        "Palabra do Senhor."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -634,7 +634,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 27, 1. 4. 13-14"
      }
     ],
     "es": [
@@ -681,7 +682,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 27 (26), 1. 4. 13-14 (R: vgl. 4ab)",
+      "cite": "Ps 27 (26), 1. 4. 13-14 (R.: vgl. 4ab)",
       "role": "title"
      }
     ]
@@ -706,7 +707,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -727,7 +728,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -748,7 +749,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -790,7 +791,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -804,14 +805,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " J'ai demandé une chose au Seigneur : habiter sa maison."
+        "J'ai demandé une chose au Seigneur : habiter sa maison."
        ],
        [
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -992,7 +993,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1006,14 +1007,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Ao Senhor eu peço apenas uma coisa, habitar no santuário do Senhor.."
+        "Ao Senhor eu peço apenas uma coisa, habitar no santuário do Senhor."
        ],
        [
         {
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1034,7 +1035,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1076,7 +1077,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1090,14 +1091,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " J'ai demandé une chose au Seigneur : habiter sa maison."
+        "J'ai demandé une chose au Seigneur : habiter sa maison."
        ],
        [
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1314,7 +1315,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1328,14 +1329,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Ao Senhor eu peço apenas uma coisa, habitar no santuário do Senhor.."
+        "Ao Senhor eu peço apenas uma coisa, habitar no santuário do Senhor."
        ],
        [
         {
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1356,7 +1357,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1398,7 +1399,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1412,14 +1413,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " J'ai demandé une chose au Seigneur : habiter sa maison."
+        "J'ai demandé une chose au Seigneur : habiter sa maison."
        ],
        [
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1603,7 +1604,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1617,14 +1618,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Ao Senhor eu peço apenas uma coisa, habitar no santuário do Senhor.."
+        "Ao Senhor eu peço apenas uma coisa, habitar no santuário do Senhor."
        ],
        [
         {
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1645,7 +1646,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1687,7 +1688,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1701,14 +1702,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " J'ai demandé une chose au Seigneur : habiter sa maison."
+        "J'ai demandé une chose au Seigneur : habiter sa maison."
        ],
        [
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -2335,7 +2336,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, Jesus foi para o outro lado do mar da Galiléia, também chamado de Tiberíades. Uma grande multidão o seguia, porque via os sinais que ele operava a favor dos doentes. Jesus subiu ao monte e sentou-se aí, com os seus discípulos. Estava próxima a Páscoa, a festa dos judeus. Levantando os olhos, e vendo que uma grande multidão estava vindo ao seu encontro, Jesus disse a Filipe: “Onde vamos comprar pão para que eles possam comer?” Disse isso para pô-lo à prova, pois ele mesmo sabia muito bem o que ia fazer. Filipe respondeu: “Nem duzentas moedas de prata bastariam para dar um pedaço de pão a cada um”. Um dos discípulos, André, o irmão de Simão Pedro, disse: “Está aqui um menino com cinco pães de cevada e dois peixes. Mas o que é isso para tanta gente?” Jesus disse: “Fazei sentar as pessoas”. Havia muita relva naquele lugar, e lá se sentaram, aproximadamente, cinco mil homens. Jesus tomou os pães, deu graças e distribuiu-os aos que estavam sentados, tanto quanto queriam. E fez o mesmo com os peixes. Quando todos ficaram satisfeitos, Jesus disse aos discípulos: “Recolhei os pedaços que sobraram, para que nada se perca!\" Recolheram os pedaços e encheram doze cestos com as sobras dos cinco pães, deixadas pelos que haviam comido. Vendo o sinal que Jesus tinha realizado, aqueles homens exclamavam: “Este é verdadeiramente o Profeta, aquele que deve vir ao mundo”. Mas, quando notou que estavam querendo levá-lo para proclamá-lo rei, Jesus retirou-se de novo, sozinho, para o monte."
+        "Naquele tempo, Jesus foi para o outro lado do mar da Galileia, também chamado de Tiberíades. Uma grande multidão o seguia, porque via os sinais que ele operava a favor dos doentes. Jesus subiu ao monte e sentou-se aí, com os seus discípulos. Estava próxima a Páscoa, a festa dos judeus. Levantando os olhos, e vendo que uma grande multidão estava vindo ao seu encontro, Jesus disse a Filipe: “Onde vamos comprar pão para que eles possam comer?” Disse isso para pô-lo à prova, pois ele mesmo sabia muito bem o que ia fazer. Filipe respondeu: “Nem duzentas moedas de prata bastariam para dar um pedaço de pão a cada um”. Um dos discípulos, André, o irmão de Simão Pedro, disse: “Está aqui um menino com cinco pães de cevada e dois peixes. Mas o que é isso para tanta gente?” Jesus disse: “Fazei sentar as pessoas”. Havia muita relva naquele lugar, e lá se sentaram, aproximadamente, cinco mil homens. Jesus tomou os pães, deu graças e distribuiu-os aos que estavam sentados, tanto quanto queriam. E fez o mesmo com os peixes. Quando todos ficaram satisfeitos, Jesus disse aos discípulos: “Recolhei os pedaços que sobraram, para que nada se perca!\" Recolheram os pedaços e encheram doze cestos com as sobras dos cinco pães, deixadas pelos que haviam comido. Vendo o sinal que Jesus tinha realizado, aqueles homens exclamavam: “Este é verdadeiramente o Profeta, aquele que deve vir ao mundo”. Mas, quando notou que estavam querendo levá-lo para proclamá-lo rei, Jesus retirou-se de novo, sozinho, para o monte."
        ]
       ]
      },
@@ -2651,8 +2652,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada II — Feria VI",
-  "pt-BR": "Tempo da Páscoa — 2ª Semana — Sexta-feira",
-  "en-US": "Easter Season — Second Week — Friday",
+  "pt-BR": "Sexta-feira da 2ª Semana da Páscoa",
+  "en-US": "Friday of the Second Week of Easter",
   "es": "Tiempo de Pascua — Semana II — Viernes",
   "it": "VENERDI della II settimana di Pasqua",
   "fr": "Temps pascal — 2e semaine — Vendredi",

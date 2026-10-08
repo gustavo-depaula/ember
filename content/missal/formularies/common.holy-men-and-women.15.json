@@ -553,7 +553,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -605,7 +605,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1339,7 +1339,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " ci hai saziati con i tuoi doni: fa' che ci purifichino con la loro efficacia e ci rafforzino con il loro aiuto. Per Cristo nostro Signore."
+        "ci hai saziati con i tuoi doni: fa' che ci purifichino con la loro efficacia e ci rafforzino con il loro aiuto. Per Cristo nostro Signore."
        ]
       ]
      }
@@ -1402,7 +1402,7 @@
  ],
  "title": {
   "la": "COMMUNE SANCTORUM ET SANCTARUM",
-  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "en-US": "Common of Holy Men and Women",
   "es": "COMÚN DE SANTOS Y SANTAS",
   "it": "COMUNE DEI SANTI E DELLE SANTE",
   "fr": "COMMUN DES SAINTS ET DES SAINTES",

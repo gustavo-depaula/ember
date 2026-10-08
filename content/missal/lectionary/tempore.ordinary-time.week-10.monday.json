@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -636,7 +636,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (: 9a)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -648,7 +648,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 33 (34), 2-3.4-5.6-7.8-9 (: 9a)",
+      "cite": "Sl 33 (34), 2-3.4-5.6-7.8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -660,7 +660,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (: 9a)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -672,7 +672,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 33, 2-3. 4-5. 6-7. 8-9 (: 9a)",
+      "cite": "Sal 33, 2-3. 4-5. 6-7. 8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -696,7 +696,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (: 9a)",
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -708,7 +708,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9 (R: 9a)",
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9 (R.: 9a)",
       "role": "title"
      }
     ]
@@ -1449,7 +1449,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Provai e vede quão suave é o Senhor!."
+        "Provai e vede quão suave é o Senhor!"
        ]
       ]
      }
@@ -2300,7 +2300,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (: cf. 2)",
+      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -2312,7 +2312,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 120 (121), 1-2.3-4.5-6.7-8 (: cf. 2)",
+      "cite": "Sl 120 (121), 1-2.3-4.5-6.7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -2324,7 +2324,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (: cf. 2)",
+      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -2336,7 +2336,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 120, 1-2. 3-4. 5-6. 7-8 (: cf. 2)",
+      "cite": "Sal 120, 1-2. 3-4. 5-6. 7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -2360,7 +2360,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (: cf. 2)",
+      "cite": "Ps 120, 1-2. 3-4. 5-6. 7-8 (R.: cf. 2)",
       "role": "title"
      }
     ],
@@ -2372,7 +2372,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 121 (120), 1-2. 3-4. 5-6. 7-8 (R: vgl. 2)",
+      "cite": "Ps 121 (120), 1-2. 3-4. 5-6. 7-8 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -4418,7 +4418,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. X",
   "pt-BR": "Segunda-feira da 10ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 10th Week: Monday",
+  "en-US": "Monday of the Tenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 10ª semana",
   "it": "LUNEDI della X settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 10e semaine",

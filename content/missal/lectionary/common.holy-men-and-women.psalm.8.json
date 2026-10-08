@@ -3,36 +3,26 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      ],
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 127(128), 1-2. 3. 4-5 (R.: 1a)",
       "role": "title"
      }
@@ -40,15 +30,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. la)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. la)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 127, 1-2. 3. 4-5 (R.: 1a)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 127 (128)",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R: vgl. 1a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 128 (127), 1-2. 3. 4-5 (R.: vgl. 1a)",
       "role": "title"
      }
     ]

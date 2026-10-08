@@ -305,7 +305,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -326,7 +326,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -410,7 +410,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -558,7 +558,7 @@
         "Por nosso Senhor Jesus Cristo, vosso Filho, que -é Deus,"
        ],
        [
-        "e convosco vive e reina, na unidade do Espírito $anta,"
+        "e convosco vive e reina, na unidade do Espírito Santo,"
        ],
        [
         "por todos os séculos dos séculos."
@@ -1305,8 +1305,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — FERIA III — INFRA OCTAVAM PASCHÆ",
-  "pt-BR": "Tempo Pascal — TERÇA-FEIRA — NA OITAVA DA PÁSCOA",
-  "en-US": "Easter Season — TUESDAY WITHIN THE OCTAVE OF EASTER",
+  "pt-BR": "Terça-feira na Oitava da Páscoa",
+  "en-US": "Tuesday within the Octave of Easter",
   "es": "Tiempo Pascual — MARTES — DE LA OCTAVA DE PASCUA",
   "it": "OTTAVA DI PASQUA — Martedì — fra l'ottava di Pasqua",
   "fr": "Temps pascal — MARDI DE LA 1e SEMAINE",

@@ -154,32 +154,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "firstReading",
-   "from": "common.martyrs.first-reading.5",
-   "alt": {
-    "group": 1,
-    "option": 1,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -230,6 +214,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Foram aceitos como ofertas de holocausto."
        ]
       ],
@@ -257,13 +250,22 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -293,6 +295,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -392,6 +403,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Li ha graditi come l'offerta di un olocausto."
        ]
       ],
@@ -445,6 +465,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de la Sagesse"
        ]
       ],
@@ -478,6 +507,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -630,32 +668,7 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "16"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "firstReading",
-   "from": "common.holy-men-and-women.second-reading.16",
-   "alt": {
-    "group": 1,
-    "option": 2,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
@@ -677,6 +690,15 @@
   {
    "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -743,6 +765,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Também nós devemos dar a vida pelos nossos irmãos."
        ]
       ],
@@ -781,7 +812,16 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the First Letter of St. John"
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint John"
        ]
       ],
       "cite": "3:14-18",
@@ -806,6 +846,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -857,6 +906,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Dobbiamo dare la vita per i fratelli."
        ]
       ],
@@ -901,6 +959,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Première lettre de saint Jean"
        ]
       ],
@@ -934,6 +1001,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1092,59 +1168,50 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.1",
-   "alt": {
-    "group": 2,
-    "option": 1,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 30(31), 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 30(31), 3cd-4. 6 e 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 and 8ab. 16bc and 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 30, 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
@@ -1152,7 +1219,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 30 (31)",
       "role": "title"
      }
@@ -1160,16 +1231,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R: vgl. 6a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R.: vgl. 6a)",
       "role": "title"
      }
     ]
@@ -1999,67 +2078,62 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.4",
-   "alt": {
-    "group": 2,
-    "option": 2,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 125 (126)",
       "role": "title"
      }
@@ -2067,16 +2141,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 5)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ]
@@ -3146,35 +3228,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.martyrs.acclamation.1",
-   "alt": {
-    "group": 3,
-    "option": 1,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "2 Cor 1, 3b-4a",
       "role": "title"
      },
@@ -3215,7 +3276,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "2 Cor 1, 3b-4a",
       "role": "title"
      },
@@ -3253,7 +3318,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "2 Cor 1:3b-4a",
       "role": "title"
      },
@@ -3275,7 +3344,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "2 Cor 1, 3b-4a",
       "role": "title"
      },
@@ -3319,7 +3392,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "2 Cor 1, 3b-4a",
       "role": "title"
      },
@@ -3341,7 +3418,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "2 Cor 1, 3b-4a",
       "role": "title"
      },
@@ -3379,7 +3460,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "2 Kor 1, 3b-4a",
       "role": "title"
      },
@@ -3425,35 +3510,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.pastors.acclamation.1",
-   "alt": {
-    "group": 3,
-    "option": 2,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 15, 15b",
       "role": "title"
      },
@@ -3494,7 +3558,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 15, 15b",
       "role": "title"
      },
@@ -3548,7 +3616,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 15, 15b",
       "role": "title"
      },
@@ -3592,7 +3664,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 15, 15b",
       "role": "title"
      },
@@ -3614,7 +3690,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 15, 15b",
       "role": "title"
      },
@@ -3652,7 +3732,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 15, 15b",
       "role": "title"
      },
@@ -3698,32 +3782,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "11"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.11",
-   "alt": {
-    "group": 4,
-    "option": 1,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -3753,6 +3821,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Já não vos chamo servos; mas vos chamo amigos."
        ]
       ],
@@ -3778,6 +3855,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -3790,6 +3876,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -3819,6 +3914,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Non vi chiamo più servi, ma vi ho chiamato amici."
        ]
       ],
@@ -3844,6 +3948,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -3856,6 +3969,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -4337,32 +4459,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.martyrs.gospel.6",
-   "alt": {
-    "group": 4,
-    "option": 2,
-    "label": "or"
-   }
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -4392,6 +4498,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se me perseguiram, também perseguirão a vós."
        ]
       ],
@@ -4417,6 +4532,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -4429,6 +4553,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -4458,6 +4591,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se hanno perseguitato me, perseguiteranno anche voi."
        ]
       ],
@@ -4483,6 +4625,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -4495,6 +4646,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -4909,6 +5069,20 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -4924,7 +5098,7 @@
  "title": {
   "la": "S. Maximiliani Maríæ Kolbe, presbyteri et martyris",
   "pt-BR": "São Maximiliano Maria Kolbe, presbítero e mártir",
-  "en-US": "St. Maximilian Mary Kolbe, Priest and Martyr",
+  "en-US": "Saint Maximilian Mary Kolbe, Priest and Martyr",
   "es": "San Maximiliano María Kolbe, presbítero y mártir",
   "it": "San Massimiliano Maria Kolbe, sacerdote e martire",
   "fr": "Saint Maximilien-Marie Kolbe, prêtre et martyr",

@@ -115,7 +115,7 @@
        [
         {
          "m": "rubric",
-         "t": "In this Mass the color violet or rose is used. "
+         "t": "In this Mass the color violet or rose is used."
         }
        ]
       ]
@@ -343,7 +343,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -364,7 +364,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1169,7 +1169,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1178,7 +1178,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1187,7 +1187,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1433,7 +1433,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -1446,7 +1446,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -1459,7 +1459,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -1549,8 +1549,8 @@
  ],
  "title": {
   "la": "DOMINICA III ADVENTUS",
-  "pt-BR": "TERCEIRO DOMINGO DO ADVENTO",
-  "en-US": "Advent Season — 3rd Week: Sunday",
+  "pt-BR": "3º Domingo do Advento",
+  "en-US": "Third Sunday of Advent",
   "es": "III DOMINGO DE ADVIENTO",
   "it": "III DOMENICA DI AVVENTO",
   "fr": "3ème DIMANCHE (GAUDETE) DE L'AVENT",

@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -654,7 +654,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -666,7 +666,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 102 (103), 1-2.3-4.8-9.11-12 (: 8a)",
+      "cite": "Sl 102 (103), 1-2.3-4.8-9.11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -678,7 +678,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -690,7 +690,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 102, 1-2. 3-4. 8-9. 11-12 (: 8a)",
+      "cite": "Sal 102, 1-2. 3-4. 8-9. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -714,7 +714,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (: 8a)",
+      "cite": "Ps 102, 1-2. 3-4. 8-9. 11-12 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -726,7 +726,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 11-12 (R: vgl. 8)",
+      "cite": "Ps 103 (102), 1-2. 3-4. 8-9. 11-12 (R.: vgl. 8)",
       "role": "title"
      }
     ]
@@ -1625,7 +1625,7 @@
       "k": "p",
       "lines": [
        [
-        "For as the heavens are high above the earth so strong is his love for those who fear him.As far as the east is from the west so far does he remove our sins."
+        "For as the heavens are high above the earth so strong is his love for those who fear him. As far as the east is from the west so far does he remove our sins."
        ]
       ]
      }
@@ -2355,7 +2355,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 15, 1-2a et 5. 7-8. 9-10 (: cf. 5a)",
+      "cite": "Ps 15, 1-2a et 5. 7-8. 9-10 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -2367,7 +2367,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 15 (16), 1-2a e 5.7-8.9-10 (: cf. 5a))",
+      "cite": "Sl 15 (16), 1-2a e 5.7-8.9-10 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -2379,7 +2379,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 15, 1-2a et 5. 7-8. 9-10 (: cf. 5a)",
+      "cite": "Ps 15, 1-2a and 5. 7-8. 9-10 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -2391,7 +2391,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 15, 1-2a et 5. 7-8. 9-10 (: cf. 5a)",
+      "cite": "Sal 15, 1-2a et 5. 7-8. 9-10 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -2415,7 +2415,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 15, 1-2a et 5. 7-8. 9-10 (: cf. 5a)",
+      "cite": "Ps 15, 1-2a et 5. 7-8. 9-10 (R.: cf. 5a)",
       "role": "title"
      }
     ],
@@ -2427,7 +2427,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9-10 (R: vgl. 5a)",
+      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9-10 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -2584,7 +2584,7 @@
         "Ó Senhor, sois minha herança e minha taça,"
        ],
        [
-        "meu destino está seguro em vossas mãos!."
+        "meu destino está seguro em vossas mãos!"
        ]
       ]
      }
@@ -3335,7 +3335,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Sal 118, 36a. 29b",
+      "cite": "Sl 118, 36a. 29b",
       "role": "title"
      },
      {
@@ -4087,7 +4087,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. X",
   "pt-BR": "Sábado da 10ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 10th Week: Saturday",
+  "en-US": "Saturday of the Tenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 10ª semana",
   "it": "Sabato della X settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 10e semaine",

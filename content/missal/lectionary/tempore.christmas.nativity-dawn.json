@@ -659,7 +659,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 96, 1 et 6. 11-12",
+      "cite": "Ps 96, 1 and 6. 11-12",
       "role": "title"
      }
     ],
@@ -1404,7 +1404,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the letter of St. Paul to Titus"
+        "A reading from the Letter of Saint Paul to Titus"
        ]
       ],
       "cite": "3:4-7",
@@ -1811,7 +1811,7 @@
         "Gospel Acclamation"
        ]
       ],
-      "cite": "Lc 2, 14",
+      "cite": "Lk 2, 14",
       "role": "title"
      },
      {
@@ -2312,7 +2312,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação"
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -2421,7 +2421,7 @@
       "k": "p",
       "lines": [
        [
-        "Acclamons la Parole de Dieu !."
+        "Acclamons la Parole de Dieu !"
        ]
       ],
       "role": "conclusion"
@@ -2562,8 +2562,8 @@
  ],
  "title": {
   "la": "IN NATIVITATE DOMINI",
-  "pt-BR": "NATAL DO SENHOR",
-  "en-US": "The Nativity of the Lord — (Christmas)",
+  "pt-BR": "Natal do Senhor",
+  "en-US": "The Nativity of the Lord",
   "es": "NATIVIDAD DEL SEÑOR",
   "it": "NATALE del SIGNORE",
   "fr": "Solennité de la Nativité",

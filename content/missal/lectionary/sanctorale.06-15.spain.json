@@ -31,49 +31,467 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css2l9"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
+        "Ad destinatum persequor, ad bravium supernæ vocationis Dei in Christo Iesu."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ béati Pauli apóstoli ad Philippénses"
+       ]
+      ],
+      "cite": "3, 8-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exístimo ómnia detriméntum esse propter eminéntiam sciéntiæ Christi Iesu Dómini mei, propter quem ómnia detriméntum feci et árbitror ut stércora, ut Christum lucrifáciam et invéniar in illo non habens meam iustítiam, quæ ex lege est, sed illam, quæ per fidem est Christi, quæ ex Deo est iustítia in fide; ad cognoscéndum illum et virtútem resurrectiónis eius et communiónem passiónum illíus, confórmans me morti eius, si quo modo occúrram ad resurrectiónem, quæ est ex mórtuis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non quod iam accéperim aut iam perféctus sim; pérsequor autem si umquam comprehéndam, sicut et comprehénsus sum a Christo Iesu. Fratres, ego me non árbitror comprehendísse; unum autem: quæ quidem retro sunt, oblivíscens, ad ea vero, quæ ante sunt, exténdens me ad destinátum pérsequor, ad bravíum supérnæ vocatiónis Dei in Christo Iesu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Corro direto para a meta, rumo ao prêmio que, do alto, Deus me chama a receber em Cristo Jesus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Carta de São Paulo aos Filipenses"
+       ]
+      ],
+      "cite": "3, 8-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor. Por causa dele eu perdi tudo. Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele, não com minha justiça provindo da Lei, mas com a justiça por meio da fé em Cristo, a justiça que vem de Deus, na base da fé. Esta consiste em conhecer a Cristo, experimentar a força da sua ressurreição, ficar em comunhão com os seus sofrimentos, tornando-me semelhante a ele na sua morte, para ver se alcanço a ressurreição dentre os mortos. Não que já tenha recebido tudo isso, ou que já seja perfeito. Mas corro para alcançá-lo, visto que já fui alcançado por Cristo Jesus. Irmãos, eu não julgo já tê-lo alcançado. Uma coisa, porém, eu faço: esquecendo o que fica para trás, eu me lanço para o que está na frente. Corro direto para a meta, rumo ao prêmio, que, do alto, Deus me chama a receber em Cristo Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Letter of Saint Paul to the Philippians"
+       ]
+      ],
+      "cite": "3:8-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I believe nothing can happen that will outweigh the supreme advantage of knowing Christ Jesus my Lord. For him I have accepted the loss of everything, and I look on everything as so much rubbish if only I can have Christ and be given a place in him. I am no longer trying for perfection by my own efforts, the perfection that comes from the Law, but I want only the perfection that comes through faith in Christ, and is from God and based on faith. All I want is to know Christ and the power of his resurrection and to share his sufferings by reproducing the pattern of his death. That is the way I can hope to take my place in the resurrection of the dead. Not that I have become perfect yet: I have not yet won, but I am still running, trying to capture the prize for which Christ Jesus captured me. I can assure you my brothers, I am far from thinking that I have already won. All I can say is that I forget the past and I strain ahead for what is still to come; I am racing for the finish, for the prize to which God calls us upwards to receive in Christ Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Corro hacia la meta, hacia el premio, al cual me llama Dios desde arriba en Cristo Jesús"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la carta del apóstol san Pablo a los Filipenses"
+       ]
+      ],
+      "cite": "3, 8-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Todo lo considero pérdida comparado con la excelencia del conocimiento de Cristo Jesús, mi Señor."
+       ],
+       [
+        "Por él lo perdí todo, y todo lo considero basura con tal de ganar a Cristo y ser hallado en él, no con una justicia mía, la de la ley, sino con la que viene de la fe de Cristo, la justicia que viene de Dios y se apoya en la fe."
+       ],
+       [
+        "Todo para conocerlo a él, y la fuerza de su resurrección, y la comunión con sus padecimientos, muriendo su misma muerte, con la esperanza de llegar a la resurrección de entre los muertos."
+       ],
+       [
+        "No es que ya lo haya conseguido o que ya sea perfecto: yo lo persigo, a ver si lo alcanzo como yo he sido alcanzado por Cristo."
+       ],
+       [
+        "Hermanos, yo no pienso haber conseguido el premio. Solo busco una cosa: olvidándome de lo que queda atrás y lanzándome hacia lo que está por delante, corro hacia la meta, hacia el premio, al cual me llama Dios desde arriba en Cristo Jesús."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Corro verso la meta, al premio che Dio ci chiama a ricevere lassù, in Cristo Gesù."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla lettera di san Paolo apostolo ai Filippesi"
+       ]
+      ],
+      "cite": "3, 8-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, ritengo che tutto sia una perdita a motivo della sublimità della conoscenza di Cristo Gesù, mio Signore. Per lui ho lasciato perdere tutte queste cose e le considero spazzatura, per guadagnare Cristo ed essere trovato in lui, avendo come mia giustizia non quella derivante dalla Legge, ma quella che viene dalla fede in Cristo, la giustizia che viene da Dio, basata sulla fede: perché io possa conoscere lui, la potenza della sua risurrezione, la comunione alle sue sofferenze, facendomi conforme alla sua morte, nella speranza di giungere alla risurrezione dai morti."
+       ],
+       [
+        "Non ho certo raggiunto la meta, non sono arrivato alla perfezione; ma mi sforzo di correre per conquistarla, perché anch'io sono stato conquistato da Cristo Gesù. Fratelli, io non ritengo ancora di averla conquistata. So soltanto questo: dimenticando ciò che mi sta alle spalle e proteso verso ciò che mi sta di fronte, corro verso la mèta, al premio che Dio ci chiama a ricevere lassù, in Cristo Gesù."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lettre de saint Paul Apôtre aux Philippiens"
+       ]
+      ],
+      "cite": "3, 8-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, tous les avantages que j'avais autrefois, je les considère comme une perte à cause de ce bien qui dépasse tout : la connaissance du Christ Jésus, mon Seigneur. À cause de lui, j'ai tout perdu ; je considère tout comme des ordures, afin de gagner un seul avantage, le Christ, et, en lui, d'être reconnu juste, non pas de la justice venant de la loi de Moïse mais de celle qui vient de la foi au Christ, la justice venant de Dieu, qui est fondée sur la foi. Il s'agit pour moi de connaître le Christ, d'éprouver la puissance de sa résurrection et de communier aux souffrances de sa passion, en devenant semblable à lui dans sa mort, avec l'espoir de parvenir à la résurrection d'entre les morts. Certes, je n'ai pas encore obtenu cela, je n'ai pas encore atteint la perfection, mais je poursuis ma course pour tâcher de saisir, puisque j'ai moi-même été saisi par le Christ Jésus. Frères, quant à moi, je ne pense pas avoir déjà saisi cela. Une seule chose compte : oubliant ce qui est en arrière, et lancé vers l'avant, je cours vers le but en vue du prix auquel Dieu nous appelle là-haut dans le Christ Jésus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Brief des Apostels Paulus an die Philipper"
+       ]
+      ],
+      "cite": "3, 8-14",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Ich sehe alles als Verlust an, weil die Erkenntnis Christi Jesu, meines Herrn, alles übertrifft. Seinetwegen habe ich alles aufgegeben und halte es für Unrat, um Christus zu gewinnen und in ihm zu sein. Nicht meine eigene Gerechtigkeit suche ich, die aus dem Gesetz hervorgeht, sondern jene, die durch den Glauben an Christus kommt, die Gerechtigkeit, die Gott aufgrund des Glaubens schenkt. Christus will ich erkennen und die Macht seiner Auferstehung und die Gemeinschaft mit seinen Leiden; sein Tod soll mich prägen. So hoffe ich, auch zur Auferstehung von den Toten zu gelangen."
+       ],
+       [
+        "Nicht dass ich es schon erreicht hätte oder dass ich schon vollendet wäre. Aber ich strebe danach, es zu ergreifen, weil auch ich von Christus Jesus ergriffen worden bin. Brüder, ich bilde mir nicht ein, dass ich es schon ergriffen hätte. Eines aber tue ich: Ich vergesse, was hinter mir liegt, und strecke mich nach dem aus, was vor mir ist. Das Ziel vor Augen, jage ich nach dem Siegespreis: der himmlischen Berufung, die Gott uns in Christus Jesus schenkt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.9"
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.9"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.9"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
       "cite": "Ps 130, 1. 2. 3",
       "role": "title"
      }
@@ -81,7 +499,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 130(131), 1. 2. 3",
       "role": "title"
      }
@@ -89,7 +511,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
       "cite": "Ps 130, 1.2",
       "role": "title"
      }
@@ -97,7 +523,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 130, 1. 2. 3",
       "role": "title"
      }
@@ -105,7 +535,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 130 (131)",
       "role": "title"
      }
@@ -113,7 +547,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
       "cite": "Ps 130, 1. 2. 3",
       "role": "title"
      }
@@ -121,7 +559,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
       "cite": "Ps 131 (130), 1. 2-3",
       "role": "title"
      }
@@ -442,6 +884,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -632,6 +1088,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -815,6 +1285,20 @@
        ]
       ]
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "In you, Lord, I have found my peace."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -823,43 +1307,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "[Pro religiosis]"
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.23"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "23"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.23"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -889,6 +1346,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Qualquer um devós, se não renunciar a tudo o que tem, não pode ser meu discípulo."
        ]
       ],
@@ -914,6 +1380,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -926,6 +1401,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -955,6 +1439,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Chi non rinuncia a tutti i suoi averi, non può essere mio discepolo."
        ]
       ],
@@ -980,6 +1473,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -992,6 +1494,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

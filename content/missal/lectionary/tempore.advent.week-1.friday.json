@@ -663,7 +663,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 26, 1. 4. 13-14 (: 1a)",
+      "cite": "Ps 26, 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 26 (27), 1.4.13-14 (: 1a)",
+      "cite": "Sl 26 (27), 1.4.13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 26, 1. 4. 13-14 (: 1a)",
+      "cite": "Ps 26, 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 26, 1. 4. 13-14 (: 1a)",
+      "cite": "Sal 26, 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 26, 1. 4. 13-14 (: 1a)",
+      "cite": "Ps 26, 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 27 (26), 1. 4. 13-14 (R: 1a)",
+      "cite": "Ps 27 (26), 1. 4. 13-14 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -2143,7 +2143,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação"
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -2408,8 +2408,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada I — Feria sexta",
-  "pt-BR": "Sexta-feira",
-  "en-US": "Advent Season — 1st Week: Friday",
+  "pt-BR": "Sexta-feira da 1ª Semana do Advento",
+  "en-US": "Friday of the First Week of Advent",
   "es": "Tiempo de Adviento — Viernes de la I Semana",
   "it": "VENERDI della I settimana di Avvento",
   "fr": "Temps de l'Avent — 1e semaine — Vendredi",

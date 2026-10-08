@@ -587,7 +587,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 149, 1-2.3-4.5-6a.9b (R/.: 4a)",
+      "cite": "Sl 149, 1-2.3-4.5-6a.9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -599,7 +599,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a and 9b (.: 4a)"
      }
     ],
     "es": [
@@ -610,7 +611,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 149, 1-2. 3-4. 5-6a y 9b (R/.: 4a)",
+      "cite": "Sal 149, 1-2. 3-4. 5-6a y 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -646,7 +647,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R.: 4a)",
       "role": "title"
      }
     ]
@@ -1744,7 +1745,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 15, 26b. 27a"
      },
      {
       "k": "p",
@@ -1758,7 +1760,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2481,8 +2483,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VI — Feria II",
-  "pt-BR": "Tempo da Páscoa — 6ª Semana — Segunda-feira",
-  "en-US": "Easter Season — Sixth Week — Monday",
+  "pt-BR": "Segunda-feira da 6ª Semana da Páscoa",
+  "en-US": "Monday of the Sixth Week of Easter",
   "es": "Tiempo de Pascua — Semana VI — Lunes",
   "it": "LUNEDI della VI settimana di Pasqua",
   "fr": "Temps pascal — 6e semaine — Lundi",

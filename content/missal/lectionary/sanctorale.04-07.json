@@ -154,22 +154,453 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bonum depositum custodi per Spiritum Sanctum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Timótheum"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssime:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Formam habe sanórum verbórum, quæ a me audísti, in fide et dilectióne, quæ sunt in Christo Iesu; bonum depósitum custódi per Spíritum Sanctum, qui hábitat in nobis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu ergo, fili mi, confortáre in grátia, quæ est in Christo Iesu; et quæ audísti a me per multos testes, hæc comménda fidélibus homínibus, qui idónei erunt et álios docére. Collabóra sicut bonus miles Christi Iesu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda o precioso depósito, com a ajuda do Espírito Santo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Segunda Carta de São Paulo a Timóteo"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimo: Usa um compêndio das palavras sadias que de mim ouviste em matéria de fé e de amor em Cristo Jesus. Guarda o precioso depósito, com a ajuda do Espírito Santo que habita em nós. Meu filho, fortifica-te na graça de Jesus Cristo. O que de mim aprendeste na presença de tantas testemunhas, confia isso a homens fiéis, que sejam capazes de ensiná-lo também a outros. Assume a tua parte do sofrimento, como bom soldado de Cristo Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second letter of St. Paul to Timothy"
+       ]
+      ],
+      "cite": "1:13-14; 2:1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Keep as your pattern the sound teaching you have heard from me, in the faith and love that are in Christ Jesus. You have been trusted to look after something precious; guard it with the help of the Holy Spirit who lives in us. Accept the strength, my dear son, that comes from the grace of Christ Jesus. You have heard everything that I teach in public; hand it on to reliable people so that they in turn will be able to teach others. Put up with your share of difficulties, like a good soldier of Christ Jesus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vela por el precioso depósito con la ayuda del Espíritu Santo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la segunda carta del apóstol san Pablo a Timoteo"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Querido hermano:"
+       ],
+       [
+        "Ten por modelo las palabras sanas que has oído de mí en la fe y el amor que tienen su fundamento en Cristo Jesús. Vela por el precioso depósito con la ayuda del Espíritu Santo que habita en nosotros."
+       ],
+       [
+        "Así pues, tú, hijo mío, hazte fuerte en la gracia de Cristo Jesús, y lo que has oído de mí, a través de muchos testigos, esto mismo confíalo a hombres fieles, capaces, a su vez, de enseñar a otros."
+       ],
+       [
+        "Toma parte en los padecimientos como buen soldado de Cristo Jesús."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Custodisci, mediante lo Spirito Santo che abita in noi, il bene prezioso che ti è stato affidato."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla seconda lettera di san Paolo apostolo a Timoteo"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Figlio mio, prendi come modello i sani insegnamenti che hai udito da me con La fede e l'amore, che sono in Cristo Gesù. Custodisci, mediante lo Spirito Santo che abita in noi, il bene prezioso che ti è stato affidato."
+       ],
+       [
+        "E tu, figlio mio, attingi forza dalla grazia che è in Cristo Gesù: le cose che hai udito da me davanti a molti testimoni, trasmettile a persone fidate, le quali a loro volta siano in grado di insegnare agli altri."
+       ],
+       [
+        "Come un buon soldato di Gesù Cristo, soffri insieme con me."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lettre de saint Paul Apôtre à Timothée"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimé, tiens-toi au modèle donné par les paroles solides que tu m'as entendu prononcer dans la foi et dans l'amour qui est dans le Christ Jésus. Garde le dépôt de la foi dans toute sa beauté, avec l'aide de l'Esprit Saint qui habite en nous. Toi donc, mon enfant, trouve ta force dans la grâce qui est en Jésus Christ. Ce que tu m'as entendu dire en présence de nombreux témoins, confie-le à des hommes dignes de foi qui seront capables de l'enseigner aux autres, à leur tour. Prends ta part de souffrance comme un bon soldat du Christ Jésus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Brief des Apostels Paulus an Timótheus"
+       ]
+      ],
+      "cite": "1, 13-14; 2, 1-3",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mein Sohn!"
+       ],
+       [
+        "Halte dich an die gesunde Lehre, die du von mir gehört hast; nimm sie dir zum Vorbild, und bleibe beim Glauben und bei der Liebe, die uns in Christus Jesus geschenkt ist. Bewahre das dir anvertraute kostbare Gut durch die Kraft des Heiligen Geistes, der in uns wohnt."
+       ],
+       [
+        "Du, mein Sohn, sei stark in der Gnade, die dir in Christus Jesus geschenkt ist. Was du vor vielen Zeugen von mir gehört hast, das vertrau zuverlässigen Menschen an, die fähig sind, auch andere zu lehren. Leide mit mir als guter Soldat Christi Jesu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.11"
+  },
+  {
+   "text": {
+    "la": [
      {
       "k": "p",
       "lines": [
        [
         {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cp2l11"
-        }
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
        ]
       ]
      }
     ]
    },
-   "part": "firstReading"
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.11"
   },
   {
    "text": {
@@ -181,7 +612,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
@@ -193,7 +624,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "cite": "Sl 1, 1-2. 3. 4 e 6 (R.: 2a ou 39, 5a ou 91, 13-14)",
       "role": "title"
      }
     ],
@@ -205,7 +636,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "cite": "Ps 1, 1-2. 3. 4 and 6 (R.: 2a or 39, 5a or 91, 13-14)",
       "role": "title"
      }
     ],
@@ -217,7 +648,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
@@ -232,7 +663,11 @@
      },
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 1",
       "role": "title"
      }
@@ -245,7 +680,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
@@ -257,7 +692,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: 2a oder vgl. Jer 17, 7 oder Ps 92 [91], 13. 14)",
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R.: 2a oder vgl. Jer 17, 7 oder Ps 92 [91], 13. 14)",
       "role": "title"
      }
     ]
@@ -1215,46 +1650,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.7"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1284,6 +1689,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se não vos tornardes como crianças, não entrareis no Reino dos Céus."
        ]
       ],
@@ -1309,6 +1723,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1321,6 +1744,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1350,6 +1782,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se non diventerete come i bambini, non entrerete nel regno dei cieli."
        ]
       ],
@@ -1375,6 +1816,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1387,6 +1837,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1782,7 +2241,7 @@
  "title": {
   "la": "S. Ioannis Baptistæ de la Salle, presbyteri",
   "pt-BR": "São João Batista de la Salle, presbítero",
-  "en-US": "St. John Baptist de la Salle, priest",
+  "en-US": "Saint John Baptist de la Salle, priest",
   "es": "San Juan Bautista de la Salle, presbítero",
   "it": "San Giovanni Battista de la Salle, sacerdote",
   "fr": "Saint Jean-Baptiste de La Salle, prêtre",

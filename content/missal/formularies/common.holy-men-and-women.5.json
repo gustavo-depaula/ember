@@ -184,7 +184,7 @@
         "aleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1132,7 +1132,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel, pro iis qui res publicas moderati sunt: "
+         "t": "Vel, pro iis qui res publicas moderati sunt:"
         }
        ]
       ],
@@ -1152,7 +1152,7 @@
         "aleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1165,7 +1165,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or, for those who served in public office: "
+         "t": "Or, for those who served in public office:"
         }
        ]
       ],
@@ -1207,7 +1207,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien, pour les dirigeants politiques : "
+         "t": "Ou bien, pour les dirigeants politiques :"
         }
        ]
       ],
@@ -1245,7 +1245,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1362,7 +1362,7 @@
         "aleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1566,7 +1566,7 @@
  ],
  "title": {
   "la": "COMMUNE SANCTORUM ET SANCTARUM",
-  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "en-US": "Common of Holy Men and Women",
   "es": "COMÚN DE SANTOS Y SANTAS",
   "it": "COMUNE DEI SANTI E DELLE SANTE",
   "fr": "COMMUN DES SAINTS ET DES SAINTES",

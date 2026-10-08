@@ -874,7 +874,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1259,7 +1259,7 @@
        [
         {
          "m": "rubric",
-         "t": " Rinnovo delle promesse sacerdoTali"
+         "t": "Rinnovo delle promesse sacerdoTali"
         }
        ]
       ]
@@ -1734,7 +1734,7 @@
        [
         {
          "m": "rubric",
-         "t": "I presbiteri: "
+         "t": "I presbiteri:"
         }
        ],
        [
@@ -1743,7 +1743,7 @@
        [
         {
          "m": "rubric",
-         "t": "Quindi, il vescovo prosegue, rivolgendosi al popolo: "
+         "t": "Quindi, il vescovo prosegue, rivolgendosi al popolo:"
         }
        ],
        [
@@ -1771,7 +1771,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ Il diacono: "
+         "t": "★ Il diacono:"
         }
        ],
        [
@@ -1780,12 +1780,12 @@
          "m": "rubric",
          "t": "N., "
         },
-        " preghiamo."
+        "preghiamo."
        ],
        [
         {
          "m": "rubric",
-         "t": "Tutti: "
+         "t": "Tutti:"
         }
        ],
        [
@@ -3528,8 +3528,8 @@
  ],
  "title": {
   "la": "Hebdomada Sancta — FERIA V HEBDOMADÆ SANCTÆ",
-  "pt-BR": "Semana Santa — QUINTA-FEIRA DA SEMANA SANTA",
-  "en-US": "THURSDAY OF HOLY WEEK — [HOLY THURSDAY]",
+  "pt-BR": "Quinta-feira da Semana Santa — Missa do Crisma",
+  "en-US": "Thursday of Holy Week — The Chrism Mass",
   "es": "JUEVES SANTO",
   "it": "Giovedì — della Settimana Santa",
   "fr": "Semaine Sainte — JEUDI SAINT",

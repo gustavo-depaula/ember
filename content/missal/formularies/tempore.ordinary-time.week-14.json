@@ -380,7 +380,7 @@
         "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
        ],
        [
-        "e convosco vive e reina, na unidade do Espírito 􀁄anto,"
+        "e convosco vive e reina, na unidade do Espírito Santo,"
        ],
        [
         "por todos os séculos dos séculos."
@@ -865,7 +865,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -879,7 +879,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -893,7 +893,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -907,7 +907,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -921,7 +921,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -935,7 +935,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -949,7 +949,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1263,8 +1263,8 @@
  ],
  "title": {
   "la": "DOMINICA XIV «PER ANNUM»",
-  "pt-BR": "14º DOMINGO DO TEMPO COMUM",
-  "en-US": "14th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "14º Domingo do Tempo Comum",
+  "en-US": "Fourteenth Sunday in Ordinary Time",
   "es": "XIV DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XIV DOMENICA",
   "fr": "Temps ordinaire — 14ème DIMANCHE",

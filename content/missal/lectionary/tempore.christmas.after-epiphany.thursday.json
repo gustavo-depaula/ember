@@ -629,7 +629,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 71, 1-2. 14 et 15bc. 17 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 14 et 15bc. 17 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -641,7 +641,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 71 (72), 2.14.15bc.17 (: cf. 11)",
+      "cite": "Sl 71 (72), 2.14.15bc.17 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -653,7 +653,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 71, 1-2. 14 et 15bc. 17 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 14 and 15bc. 17 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -665,7 +665,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 71, 1-2. 14 et 15bc. 17 (: cf. 11)",
+      "cite": "Sal 71, 1-2. 14 et 15bc. 17 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -689,7 +689,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 71, 1-2. 14 et 15bc. 17 (: cf. 11)",
+      "cite": "Ps 71, 1-2. 14 et 15bc. 17 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -701,7 +701,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 72 (71), 1-2. 14 u. 15bc. 17 (R: 11)",
+      "cite": "Ps 72 (71), 1-2. 14 u. 15bc. 17 (R.: 11)",
       "role": "title"
      }
     ]
@@ -2413,10 +2413,11 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 10 ianuarii — vel — feria quinta post Epiphaniam",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 10 — (or Thursday after Epiphany)",
+  "en-US": "January 10, or Thursday after Epiphany",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 10 de enero — o bien — jueves después del domingo de Epifanía",
   "it": "10 gennaio",
   "fr": "Temps de Noël",
-  "de": "Wochentage der Weihnachtszeit — 10. Januar"
+  "de": "Wochentage der Weihnachtszeit — 10. Januar",
+  "pt-BR": "10 de janeiro ou quinta-feira depois da Epifania"
  }
 }

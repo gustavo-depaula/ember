@@ -253,10 +253,19 @@
       "k": "p",
       "lines": [
        [
-        "Some Jews arrived from Antioch and Iconium, and turned the people against the apostles. They stoned Paul and dragged him outside the town, thinking he was dead. The disciples came crowding round him but, as they did so, he stood up and went back to the town. The next day he and Barnabas went off to Derbe. Having preached the Good News in that town and made a considerable number of disciples, they went back through Lystra and Iconium to Antioch. They put fresh heart into the disciples, encouraging them to persevere in the faith. 'We all have to experience many hardships' they said 'before we enter the kingdom of God.' In each of these churches they appointed elders, and with prayer and fasting they commended them to the Lord in whom they had come to believe. They passed through Pisidia and reached Pamphylia. Then after proclaiming the word at Perga they went down to Attalia and from there sailed for Antioch, where they had originally been commended to the grace of God for the work they had now completed. On their arrival they assembled the church and gave an account of all that God had done with them, and how he had opened the door of faith to the pagans. They stayed there with the disciples for some time."
+        "A reading from the Acts of the Apostles"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "14, 19-28"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Some Jews arrived from Antioch and Iconium, and turned the people against the apostles. They stoned Paul and dragged him outside the town, thinking he was dead. The disciples came crowding round him but, as they did so, he stood up and went back to the town. The next day he and Barnabas went off to Derbe. Having preached the Good News in that town and made a considerable number of disciples, they went back through Lystra and Iconium to Antioch. They put fresh heart into the disciples, encouraging them to persevere in the faith. 'We all have to experience many hardships' they said 'before we enter the kingdom of God.' In each of these churches they appointed elders, and with prayer and fasting they commended them to the Lord in whom they had come to believe. They passed through Pisidia and reached Pamphylia. Then after proclaiming the word at Perga they went down to Attalia and from there sailed for Antioch, where they had originally been commended to the grace of God for the work they had now completed. On their arrival they assembled the church and gave an account of all that God had done with them, and how he had opened the door of faith to the pagans. They stayed there with the disciples for some time."
+       ]
+      ]
      },
      {
       "k": "p",
@@ -593,7 +602,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 10-11. 12-13ab. 21 (R/.: cf. 11)",
+      "cite": "Ps 144, 10-11. 12-13ab. 21 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -605,7 +614,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 10-11.12-13ab.21 (R. cf. 12a)",
+      "cite": "Sl 144 (145), 10-11.12-13ab.21 (R.: cf. 12a)",
       "role": "title"
      }
     ],
@@ -617,7 +626,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 144, 10-11. 12-13ab. 21 (R.: cf. 11)"
      }
     ],
     "es": [
@@ -628,7 +638,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 10-11. 12-13ab. 21 (R/.: cf. 11)",
+      "cite": "Sal 144, 10-11. 12-13ab. 21 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -652,7 +662,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 10-11. 12-13ab. 21 (R/.: cf. 11)",
+      "cite": "Ps 144, 10-11. 12-13ab. 21 (R.: cf. 11)",
       "role": "title"
      }
     ],
@@ -664,7 +674,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 10-11. 12-13b. 20-21 (R: vgl. 12a)",
+      "cite": "Ps 145 (144), 10-11. 12-13b. 20-21 (R.: vgl. 12a)",
       "role": "title"
      }
     ]
@@ -689,7 +699,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -710,7 +720,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -731,7 +741,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -752,7 +762,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -773,7 +783,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -794,7 +804,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -859,7 +869,7 @@
         "Narrem a glória e o esplendor do vosso reino"
        ],
        [
-        "e saibam proclamar vosso poder!."
+        "e saibam proclamar vosso poder!"
        ]
       ]
      }
@@ -981,7 +991,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1002,7 +1012,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1023,7 +1033,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1044,7 +1054,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1065,7 +1075,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1086,7 +1096,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1273,7 +1283,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1294,7 +1304,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1315,7 +1325,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1336,7 +1346,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1357,7 +1367,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1378,7 +1388,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1550,7 +1560,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1571,7 +1581,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1592,7 +1602,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1613,7 +1623,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1634,7 +1644,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1655,7 +1665,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1747,7 +1757,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Lk 24, 26"
      },
      {
       "k": "p",
@@ -2478,8 +2489,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada V — Feria III",
-  "pt-BR": "Tempo da Páscoa — 5ª Semana — Terça-feira",
-  "en-US": "Easter Season — Fifth Week — Tuesday",
+  "pt-BR": "Terça-feira da 5ª Semana da Páscoa",
+  "en-US": "Tuesday of the Fifth Week of Easter",
   "es": "Tiempo de Pascua — Semana V — Martes",
   "it": "MARTEDI della V settimana di Pasqua",
   "fr": "Temps pascal — 5e semaine — Mardi",

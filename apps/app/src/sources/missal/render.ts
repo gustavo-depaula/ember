@@ -54,7 +54,21 @@ function segMarkdown(seg: Seg): string {
   }
 }
 
-const lineMarkdown = (line: Line): string => line.map(segMarkdown).join('').trim()
+const emphasis = (seg: Seg) =>
+  typeof seg !== 'string' && (seg.m === 'rubric' || seg.m === 'italic') ? 'italic' : undefined
+
+// Neighbouring runs of one emphasis are one run: `*Diz-se o* *Glória*` would
+// otherwise close and reopen the italics in the middle of a rubric.
+function lineMarkdown(line: Line): string {
+  const runs: Seg[] = []
+  for (const seg of line) {
+    const last = runs[runs.length - 1]
+    if (typeof seg !== 'string' && typeof last === 'object' && emphasis(seg) && emphasis(last)) {
+      runs[runs.length - 1] = { m: 'italic', t: last.t + seg.t }
+    } else runs.push(seg)
+  }
+  return runs.map(segMarkdown).join('').replace(/ {2,}/g, ' ').trim()
+}
 
 function isRubricBlock(block: Block): boolean {
   const segs = block.lines.flat()
@@ -77,8 +91,8 @@ function kindOf(block: Block, item: Item): Kind {
     if (responseMark.test(first.t)) return 'response'
     if (versicleMark.test(first.t)) return 'versicle'
   }
-  if (item.role === 'people') return 'response'
   if (item.role === 'rubric' || isRubricBlock(block)) return 'rubric'
+  if (item.role === 'people') return 'response'
   if (block.role === 'summary') return 'italic'
   return 'text'
 }
@@ -152,13 +166,13 @@ function splitVoices(line: Line): Line[] {
   return lines
 }
 
-// An acclamation of the people that closes a prayer, and the rubric that
-// introduces it, are set inside the prayer's own paragraph in the corpus. Each is
-// given a paragraph of its own, so the acclamation reads as the people's.
+// An acclamation of the people that closes a prayer, and a rubric that stands
+// on a line of its own, are set inside the prayer's paragraph in the corpus.
+// Each is given a paragraph of its own, so it reads as what it is.
 function splitAcclamations(blocks: Block[]): Block[] {
   return blocks.flatMap((block) => {
     const lines = block.lines.flatMap(splitVoices)
-    if (block.k !== 'p' || !lines.some((line) => voiceOf(line) === 'people')) return [block]
+    if (block.k !== 'p' || new Set(lines.map(voiceOf)).size < 2) return [block]
     const runs: Block[] = []
     for (const line of lines) {
       const last = runs[runs.length - 1]
@@ -171,6 +185,8 @@ function splitAcclamations(blocks: Block[]): Block[] {
 
 /** One corpus item as primitives, the secondary language paired block by block where it lines up. */
 export function renderItem(item: Item, ctx: RenderContext, out: Primitive[] = []): Primitive[] {
+  if (item.when && !item.when.some((c) => ctx.conditions.has(c))) return out
+  if (item.unless?.some((c) => ctx.conditions.has(c))) return out
   const primary = splitAcclamations(
     forDay(blocksIn(item, ctx.lang.primary) ?? fallbackBlocks(item), ctx.conditions),
   )
@@ -210,7 +226,9 @@ export function renderItem(item: Item, ctx: RenderContext, out: Primitive[] = []
 // than dropped. One it has in neither is another language's own insertion (the
 // German Sunday Communicantes, Spain's extra prefaces) and is not shown.
 function fallbackBlocks(item: Item): Block[] {
-  return item.text?.la ?? []
+  // A rubric is no use in a language the reader did not ask for, and a missal
+  // that lacks one has usually folded it into its neighbour.
+  return item.role === 'rubric' ? [] : (item.text?.la ?? [])
 }
 
 export function renderItems(items: Item[], ctx: RenderContext): Primitive[] {

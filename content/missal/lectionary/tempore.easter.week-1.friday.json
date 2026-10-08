@@ -201,7 +201,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, depois que o paralítico fôra curado, Pedro e João ainda estavam falando ao povo, quando chegaram os sacerdotes, o chefe da guarda do Templo e os saduceus. Estavam irritados porque os apóstolos ensinavam o povo e anunciavam a ressurreição dos mortos na pessoa de Jesus. Eles prenderam Pedro e João e os colocaram na prisão até ao dia seguinte, porque já estava anoitecendo. Todavia, muitos daqueles que tinham ouvido a pregação acreditaram. E o número dos homens chegou a uns cinco mil. No dia seguinte, reuniram-se em Jerusalém os chefes, os anciãos e os mestres da Lei. Estavam presentes o Sumo Sacerdote Anás, e também Caifás, João, Alexandre, e todos os que pertenciam às famílias dos sumos sacerdotes. Fizeram Pedro e João comparecer diante deles e os interrogavam: \"Com que poder ou em nome de quem vós fizestes isso?\" Então, Pedro, cheio do Espírito Santo, disse-lhes: \"Chefes do povo e anciãos: hoje estamos sendo interrogados por termos feito o bem a um enfermo e pelo modo como foi curado. Ficai, pois, sabendo todos vós e todo o povo de Israel: é pelo nome de Jesus Cristo, de Nazaré, - aquele que vós crucificastes e que Deus ressuscitou dos mortos - que este homem está curado, diante de vós. Jesus é a pedra, que vós, os construtores, desprezastes, e que se tornou a pedra angular. Em nenhum outro há salvação, pois não existe debaixo do céu outro nome dado aos homens pelo qual possamos ser salvos\"."
+        "Naqueles dias, depois que o paralítico fora curado, Pedro e João ainda estavam falando ao povo, quando chegaram os sacerdotes, o chefe da guarda do Templo e os saduceus. Estavam irritados porque os apóstolos ensinavam o povo e anunciavam a ressurreição dos mortos na pessoa de Jesus. Eles prenderam Pedro e João e os colocaram na prisão até ao dia seguinte, porque já estava anoitecendo. Todavia, muitos daqueles que tinham ouvido a pregação acreditaram. E o número dos homens chegou a uns cinco mil. No dia seguinte, reuniram-se em Jerusalém os chefes, os anciãos e os mestres da Lei. Estavam presentes o Sumo Sacerdote Anás, e também Caifás, João, Alexandre, e todos os que pertenciam às famílias dos sumos sacerdotes. Fizeram Pedro e João comparecer diante deles e os interrogavam: \"Com que poder ou em nome de quem vós fizestes isso?\" Então, Pedro, cheio do Espírito Santo, disse-lhes: \"Chefes do povo e anciãos: hoje estamos sendo interrogados por termos feito o bem a um enfermo e pelo modo como foi curado. Ficai, pois, sabendo todos vós e todo o povo de Israel: é pelo nome de Jesus Cristo, de Nazaré, - aquele que vós crucificastes e que Deus ressuscitou dos mortos - que este homem está curado, diante de vós. Jesus é a pedra, que vós, os construtores, desprezastes, e que se tornou a pedra angular. Em nenhum outro há salvação, pois não existe debaixo do céu outro nome dado aos homens pelo qual possamos ser salvos\"."
        ]
       ]
      },
@@ -602,7 +602,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 118, 1-2. 4. 22-24. 25-27a"
      }
     ],
     "es": [
@@ -649,7 +650,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 118 (117), 1 u. 4. 22-23. 24 u. 26-27a (R: 22)",
+      "cite": "Ps 118 (117), 1 u. 4. 22-23. 24 u. 26-27a (R.: 22)",
       "role": "title"
      }
     ]
@@ -674,7 +675,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -695,7 +696,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -716,7 +717,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -737,7 +738,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -758,7 +759,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -772,14 +773,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle."
+        "La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle."
        ],
        [
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -993,7 +994,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1014,7 +1015,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1035,7 +1036,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1056,7 +1057,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1077,7 +1078,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1091,14 +1092,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle."
+        "La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle."
        ],
        [
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1321,7 +1322,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1342,7 +1343,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1363,7 +1364,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1384,7 +1385,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1405,7 +1406,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1419,14 +1420,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle."
+        "La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle."
        ],
        [
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1500,7 +1501,7 @@
         "Desta casa do Senhor vos bendizemos."
        ],
        [
-        "Que o Senhor e nosso Deus nos ilumine!."
+        "Que o Senhor e nosso Deus nos ilumine!"
        ]
       ]
      }
@@ -1631,7 +1632,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1652,7 +1653,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1673,7 +1674,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1694,7 +1695,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1715,7 +1716,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1729,14 +1730,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle."
+        "La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle."
        ],
        [
         {
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1931,7 +1932,7 @@
         "é a vida que enfrenta a morte."
        ],
        [
-        "O Rei da vida, cativo, foi morto, mas reina vivo!."
+        "O Rei da vida, cativo, foi morto, mas reina vivo!"
        ]
       ]
      },
@@ -3134,7 +3135,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo: Jesus apareceu de novo aos discípulos, à beira do mar de Tiberíades. A aparição foi assim: Estavam juntos Simão Pedro, Tomé, chamado Dídimo, Natanael de Caná da Galiléia, os filhos de Zebedeu e outros dois discípulos de Jesus. Simão Pedro disse a eles: \"Eu vou pescar\". Eles disseram: \"Também vamos contigo\". Saíram e entraram na barca, mas não pescaram nada naquela noite. Já tinha amanhecido, e Jesus estava de pé na margem. Mas os discípulos não sabiam que era Jesus. Então Jesus disse: \"Moços, tendes alguma coisa para comer?\" Responderam: \"Não\". Jesus disse-lhes: \"Lançai a rede à direita da barca, e achareis\". Lançaram pois a rede e não conseguiam puxá-la para fora, por causa da quantidade de peixes. Então, o discípulo a quem Jesus amava disse a Pedro: \"É o Senhor\"! Simão Pedro, ouvindo dizer que era o Senhor, vestiu sua roupa, pois estava nu, e atirou-se ao mar. Os outros discípulos vieram com a barca, arrastando a rede com os peixes. Na verdade, não estavam longe da terra, mas somente a cerca de cem metros. Logo que pisaram a terra, viram brasas acesas, com peixe em cima, e pão. Jesus disse-lhes: \"Trazei alguns dos peixes que apanhastes\".Então Simão Pedro subiu ao barco e arrastou a rede para a terra. Estava cheia de cento e cinquenta e três grandes peixes; e apesar de tantos peixes, a rede não se rompeu. Jesus disse-lhes: \"Vinde comer\". Nenhum dos discípulos se atrevia a perguntar quem era ele, pois sabiam que era o Senhor. Jesus aproximou-se, tomou o pão e distribuiu-o por eles. E fez a mesma coisa com o peixe. Esta foi a terceira vez que Jesus, ressuscitado dos mortos, apareceu aos discípulos."
+        "Naquele tempo: Jesus apareceu de novo aos discípulos, à beira do mar de Tiberíades. A aparição foi assim: Estavam juntos Simão Pedro, Tomé, chamado Dídimo, Natanael de Caná da Galileia, os filhos de Zebedeu e outros dois discípulos de Jesus. Simão Pedro disse a eles: \"Eu vou pescar\". Eles disseram: \"Também vamos contigo\". Saíram e entraram na barca, mas não pescaram nada naquela noite. Já tinha amanhecido, e Jesus estava de pé na margem. Mas os discípulos não sabiam que era Jesus. Então Jesus disse: \"Moços, tendes alguma coisa para comer?\" Responderam: \"Não\". Jesus disse-lhes: \"Lançai a rede à direita da barca, e achareis\". Lançaram pois a rede e não conseguiam puxá-la para fora, por causa da quantidade de peixes. Então, o discípulo a quem Jesus amava disse a Pedro: \"É o Senhor\"! Simão Pedro, ouvindo dizer que era o Senhor, vestiu sua roupa, pois estava nu, e atirou-se ao mar. Os outros discípulos vieram com a barca, arrastando a rede com os peixes. Na verdade, não estavam longe da terra, mas somente a cerca de cem metros. Logo que pisaram a terra, viram brasas acesas, com peixe em cima, e pão. Jesus disse-lhes: \"Trazei alguns dos peixes que apanhastes\".Então Simão Pedro subiu ao barco e arrastou a rede para a terra. Estava cheia de cento e cinquenta e três grandes peixes; e apesar de tantos peixes, a rede não se rompeu. Jesus disse-lhes: \"Vinde comer\". Nenhum dos discípulos se atrevia a perguntar quem era ele, pois sabiam que era o Senhor. Jesus aproximou-se, tomou o pão e distribuiu-o por eles. E fez a mesma coisa com o peixe. Esta foi a terceira vez que Jesus, ressuscitado dos mortos, apareceu aos discípulos."
        ]
       ]
      },
@@ -3473,8 +3474,8 @@
  ],
  "title": {
   "la": "Feria VI — infra octavam Paschae",
-  "pt-BR": "Sexta-feira — Oitava da Páscoa",
-  "en-US": "Easter Friday",
+  "pt-BR": "Sexta-feira na Oitava da Páscoa",
+  "en-US": "Friday within the Octave of Easter",
   "es": "Viernes — de la octava de Pascua",
   "it": "VENERDI FRA L`OTTAVA DI PASQUA",
   "fr": "Temps pascal — Vendredi de la 1e semaine",

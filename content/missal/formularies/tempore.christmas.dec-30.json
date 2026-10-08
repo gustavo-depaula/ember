@@ -359,7 +359,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -380,7 +380,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -464,7 +464,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1304,8 +1304,8 @@
  ],
  "title": {
   "la": "Die 30 decembris — De VI Die infra octavam Nativitatis Domini",
-  "pt-BR": "30 de dezembro — Sexto dia na oitava do Natal",
-  "en-US": "December 30 — Sixth Day within the Octave of the Nativity of the Lord [Christmas]",
+  "pt-BR": "30 de dezembro — Sexto dia na Oitava do Natal",
+  "en-US": "December 30 — Sixth Day within the Octave of the Nativity of the Lord",
   "es": "30 de diciembre — Día VI dentro de la octava de Navidad",
   "it": "30 dicembre — Sesto giorno fra l'ottava di Natale",
   "fr": "30 décembre — Octave de Noël – 6e jour",

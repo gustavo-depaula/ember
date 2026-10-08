@@ -564,7 +564,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 103 (104), 1ab e 24ac.29bc-30.31e34 (R. 30)",
+      "cite": "Sl 103 (104), 1ab e 24ac.29bc-30.31e34 (R.: 30)",
       "role": "title"
      }
     ],
@@ -576,7 +576,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 103, 1ab and 24ac. 29bc-30. 31 and 34 (.: cf. 30)"
      }
     ],
     "es": [
@@ -587,7 +588,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 103, 1ab y 24ac. 29bc-30. 31 y 34 (R/.: cf. 30)",
+      "cite": "Sal 103, 1ab y 24ac. 29bc-30. 31 y 34 (R.: cf. 30)",
       "role": "title"
      }
     ],
@@ -623,7 +624,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 104 (103), 1-2. 24-25. 29-30. 31 u. 34 (R: vgl. 30)",
+      "cite": "Ps 104 (103), 1-2. 24-25. 29-30. 31 u. 34 (R.: vgl. 30)",
       "role": "title"
      }
     ]
@@ -648,7 +649,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -669,7 +670,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -690,7 +691,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -711,7 +712,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -732,7 +733,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -753,7 +754,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -774,7 +775,7 @@
          "m": "rubric",
          "t": "Oder: "
         },
-        " Halleluja."
+        "Halleluja."
        ]
       ]
      }
@@ -955,7 +956,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -976,7 +977,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -997,7 +998,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1018,7 +1019,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1039,7 +1040,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1060,7 +1061,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1081,7 +1082,7 @@
          "m": "rubric",
          "t": "Oder: "
         },
-        " Halleluja."
+        "Halleluja."
        ]
       ]
      }
@@ -1256,7 +1257,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1270,14 +1271,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai!."
+        "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai!"
        ],
        [
         {
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1298,7 +1299,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1319,7 +1320,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1340,7 +1341,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1361,7 +1362,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1382,7 +1383,7 @@
          "m": "rubric",
          "t": "Oder: "
         },
-        " Halleluja."
+        "Halleluja."
        ]
       ]
      }
@@ -1548,7 +1549,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1562,14 +1563,14 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai!."
+        "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai!"
        ],
        [
         {
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1590,7 +1591,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1611,7 +1612,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1632,7 +1633,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1653,7 +1654,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1674,7 +1675,7 @@
          "m": "rubric",
          "t": "Oder: "
         },
-        " Halleluja."
+        "Halleluja."
        ]
       ]
      }
@@ -1779,7 +1780,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Primeira Carta de Paulo aos Coríntios"
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
        ]
       ],
       "cite": "12, 3b-7. 12-13",
@@ -1789,7 +1790,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: Ninguém pode dizer: Jesus é o Senhor, a não ser no Espírito Santo.Há diversidade de dons, mas um mesmo é o Espírito. Há diversidade de ministérios, mas um mesmo é o Senhor. Há diferentes atividades, mas um mesmo Deus realiza todas as coisas em todos. A cada um é dada a manifestação do Espírito em vista do bem comum. Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formar um único corpo, e todos nós bebemos de um único Espírito."
+        "Irmãos: Ninguém pode dizer: Jesus é o Senhor, a não ser no Espírito Santo. Há diversidade de dons, mas um mesmo é o Espírito. Há diversidade de ministérios, mas um mesmo é o Senhor. Há diferentes atividades, mas um mesmo Deus realiza todas as coisas em todos. A cada um é dada a manifestação do Espírito em vista do bem comum. Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formar um único corpo, e todos nós bebemos de um único Espírito."
        ]
       ]
      },
@@ -2166,7 +2167,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: Procedei segundo o Espírito. Assim, não satisfareis aos desejos da carne. Pois a carne tem desejos contra o espírito, e o espírito tem desejos contra a carne. Há uma oposição entre carne e espírito, de modo que nem sempre fazeis o que gostaríeis de fazer. Se, porém, sois conduzidos pelo Espírito,então não estais sob o jugo da Lei. São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão, idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções, invejas, bebedeiras, orgias, e coisas semelhantes a estas. Eu vos previno, como aliás já o fiz: os que praticam essas coisas não herdarão o reino de Deus. Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, mansidão, continência. Contra estas coisas não existe lei. Os que pertencem a Jesus Cristo crucificaram a carne cm suas paixões e seus maus desejos. Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente."
+        "Irmãos: Procedei segundo o Espírito. Assim, não satisfareis aos desejos da carne. Pois a carne tem desejos contra o espírito, e o espírito tem desejos contra a carne. Há uma oposição entre carne e espírito, de modo que nem sempre fazeis o que gostaríeis de fazer. Se, porém, sois conduzidos pelo Espírito, então não estais sob o jugo da Lei. São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão, idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções, invejas, bebedeiras, orgias, e coisas semelhantes a estas. Eu vos previno, como aliás já o fiz: os que praticam essas coisas não herdarão o reino de Deus. Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, mansidão, continência. Contra estas coisas não existe lei. Os que pertencem a Jesus Cristo crucificaram a carne cm suas paixões e seus maus desejos. Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente."
        ]
       ]
      },
@@ -2520,7 +2521,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Primeira Carta de Paulo aos Coríntios"
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
        ]
       ],
       "cite": "12, 3b-7. 12-13",
@@ -2530,7 +2531,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: Ninguém pode dizer: Jesus é o Senhor, a não ser no Espírito Santo.Há diversidade de dons, mas um mesmo é o Espírito. Há diversidade de ministérios, mas um mesmo é o Senhor. Há diferentes atividades, mas um mesmo Deus realiza todas as coisas em todos. A cada um é dada a manifestação do Espírito em vista do bem comum. Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formar um único corpo, e todos nós bebemos de um único Espírito."
+        "Irmãos: Ninguém pode dizer: Jesus é o Senhor, a não ser no Espírito Santo. Há diversidade de dons, mas um mesmo é o Espírito. Há diversidade de ministérios, mas um mesmo é o Senhor. Há diferentes atividades, mas um mesmo Deus realiza todas as coisas em todos. A cada um é dada a manifestação do Espírito em vista do bem comum. Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formar um único corpo, e todos nós bebemos de um único Espírito."
        ]
       ]
      },
@@ -2884,7 +2885,7 @@
       "k": "p",
       "lines": [
        [
-        "Segunda Lectura"
+        "Segunda Leitura"
        ]
       ],
       "role": "title"
@@ -2912,7 +2913,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: Os que vivem segundo a carne não podem agradar a Deus. Vós não viveis segundo a carne, mas segundo o espírito, se realmente o Espírito de Deus mora em vós. Se alguém não tem o Espírito de Cristo, não pertence a Cristo. Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça. E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós. Portanto, irmãos, temos uma dívida, mas não para com a carne, para viver segundo a carne. Pois, se viverdes segundo a carne, morrereis, mas se, pelo espírito, matardes o procedimento carnal, então vivereis. Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus. De fato, vós não recebestes um espírito de escravos, para recairdes no medo,mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá — ó Pai! O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus. E, se somos filhos, somos também herdeiros, herdeiros de Deus e co-herdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele."
+        "Irmãos: Os que vivem segundo a carne não podem agradar a Deus. Vós não viveis segundo a carne, mas segundo o espírito, se realmente o Espírito de Deus mora em vós. Se alguém não tem o Espírito de Cristo, não pertence a Cristo. Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça. E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós. Portanto, irmãos, temos uma dívida, mas não para com a carne, para viver segundo a carne. Pois, se viverdes segundo a carne, morrereis, mas se, pelo espírito, matardes o procedimento carnal, então vivereis. Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus. De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá — ó Pai! O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus. E, se somos filhos, somos também herdeiros, herdeiros de Deus e coerdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele."
        ]
       ]
      },
@@ -3277,7 +3278,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Primeira Carta de Paulo aos Coríntios"
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
        ]
       ],
       "cite": "12, 3b-7. 12-13",
@@ -3287,7 +3288,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: Ninguém pode dizer: Jesus é o Senhor, a não ser no Espírito Santo.Há diversidade de dons, mas um mesmo é o Espírito. Há diversidade de ministérios, mas um mesmo é o Senhor. Há diferentes atividades, mas um mesmo Deus realiza todas as coisas em todos. A cada um é dada a manifestação do Espírito em vista do bem comum. Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formar um único corpo, e todos nós bebemos de um único Espírito."
+        "Irmãos: Ninguém pode dizer: Jesus é o Senhor, a não ser no Espírito Santo. Há diversidade de dons, mas um mesmo é o Espírito. Há diversidade de ministérios, mas um mesmo é o Senhor. Há diferentes atividades, mas um mesmo Deus realiza todas as coisas em todos. A cada um é dada a manifestação do Espírito em vista do bem comum. Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formar um único corpo, e todos nós bebemos de um único Espírito."
        ]
       ]
      },
@@ -4411,7 +4412,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Vinde, Espírito Divino, enchei com vossos dons os corações dos fiéis; e acendei neles o amor com um fogo abrasador!."
+        "Vinde, Espírito Divino, enchei com vossos dons os corações dos fiéis; e acendei neles o amor com um fogo abrasador!"
        ],
        [
         "Aleluia."
@@ -6139,7 +6140,7 @@
       "k": "p",
       "lines": [
        [
-        "Evangelio"
+        "Evangelho"
        ]
       ],
       "role": "title"
@@ -7261,7 +7262,7 @@
  "title": {
   "la": "Dominica Pentecostes",
   "pt-BR": "Domingo de Pentecostes",
-  "en-US": "Pentecost — At the Mass during the Day",
+  "en-US": "Pentecost Sunday",
   "es": "Domingo de Pentecostés",
   "it": "DOMENICA DI PENTECOSTE — MESSA DEL GIORNO",
   "fr": "Solennité de la Pentecôte",

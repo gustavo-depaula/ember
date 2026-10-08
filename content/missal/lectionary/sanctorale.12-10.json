@@ -82,30 +82,11 @@
      }
     ]
    }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "upstream:lecturas/lecturas_comunes_smv#"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
   }
  ],
  "title": {
   "la": "Beatæ Maríæ Virginis de Loreto",
-  "pt-BR": "Nossa Senhora de Loreto",
+  "pt-BR": "Bem-aventurada Virgem Maria de Loreto",
   "en-US": "Our Lady of Loreto",
   "es": "Nuestra Señora de Loreto",
   "fr": "Bienheureuse Vierge Marie de Lorette",

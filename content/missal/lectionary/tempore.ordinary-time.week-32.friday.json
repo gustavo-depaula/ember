@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -761,7 +761,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 2a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -773,7 +773,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18 A (19 A), 2-3.4-5 (: 2a)",
+      "cite": "Sl 18 A (19 A), 2-3.4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -785,7 +785,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 2a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -797,7 +797,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 18, 2-3. 4-5 (: 2a)",
+      "cite": "Sal 18, 2-3. 4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -821,7 +821,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 2a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -833,7 +833,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18 A), 2-3. 4-5b (R: 2a)",
+      "cite": "Ps 19 (18 A), 2-3. 4-5b (R.: 2a)",
       "role": "title"
      }
     ]
@@ -1959,7 +1959,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 1. 2. 10. 11. 17. 18 (: 1b)",
+      "cite": "Ps 118, 1. 2. 10. 11. 17. 18 (R.: 1b)",
       "role": "title"
      }
     ],
@@ -1971,7 +1971,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 1-2. 10-11.17-18 (: 1b)",
+      "cite": "Sl 118 (119), 1-2. 10-11.17-18 (R.: 1b)",
       "role": "title"
      }
     ],
@@ -1983,7 +1983,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 1. 2. 10. 11. 17. 18 (: 1b)",
+      "cite": "Ps 118, 1. 2. 10. 11. 17. 18 (R.: 1b)",
       "role": "title"
      }
     ],
@@ -1995,7 +1995,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 1. 2. 10. 11. 17. 18 (: 1b)",
+      "cite": "Sal 118, 1. 2. 10. 11. 17. 18 (R.: 1b)",
       "role": "title"
      }
     ],
@@ -2019,7 +2019,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 1. 2. 10. 11. 17. 18 (: 1b)",
+      "cite": "Ps 118, 1. 2. 10. 11. 17. 18 (R.: 1b)",
       "role": "title"
      }
     ],
@@ -2031,7 +2031,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 1-2. 10-11. 17-18 (R: vgl. 1)",
+      "cite": "Ps 119 (118), 1-2. 10-11. 17-18 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -4223,7 +4223,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XXXII",
   "pt-BR": "Sexta-feira da 32ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 32nd Week: Friday",
+  "en-US": "Friday of the Thirty-Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 32ª semana",
   "it": "VENERDI della XXXII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 32e semaine",

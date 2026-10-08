@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -639,7 +639,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -651,7 +651,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 1, 1-2.3.4 e 6 (: 39, 5a)",
+      "cite": "Sl 1, 1-2.3.4 e 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 and 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Sal 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 39, 5a)",
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 39, 5a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: vgl. Jer 17, 7)",
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R.: vgl. Jer 17, 7)",
       "role": "title"
      }
     ]
@@ -2122,7 +2122,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 32, 1-2. 4-5. 11-12. 18-19 (: 5b)",
+      "cite": "Ps 32, 1-2. 4-5. 11-12. 18-19 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2134,7 +2134,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 32 (33), 1 e 3.4-5.11-12.18-19 (: 5b)",
+      "cite": "Sl 32 (33), 1 e 3.4-5.11-12.18-19 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2146,7 +2146,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 32, 1-2. 4-5. 11-12. 18-19 (: 5b)",
+      "cite": "Ps 32, 1-2. 4-5. 11-12. 18-19 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2158,7 +2158,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 32, 1-2. 4-5. 11-12. 18-19 (: 5b)",
+      "cite": "Sal 32, 1-2. 4-5. 11-12. 18-19 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2182,7 +2182,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 32, 1-2. 4-5. 11-12. 18-19 (: 5b)",
+      "cite": "Ps 32, 1-2. 4-5. 11-12. 18-19 (R.: 5b)",
       "role": "title"
      }
     ],
@@ -2194,7 +2194,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 33 (32), 1-2. 4-5. 11-12. 18-19 (R: vgl. 5b)",
+      "cite": "Ps 33 (32), 1-2. 4-5. 11-12. 18-19 (R.: vgl. 5b)",
       "role": "title"
      }
     ]
@@ -3817,7 +3817,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor."
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -4057,7 +4057,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXIX",
   "pt-BR": "Quinta-feira da 29ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 29th Week: Thursday",
+  "en-US": "Thursday of the Twenty-Ninth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 29ª semana",
   "it": "GIOVEDI della XXIX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 29e semaine",

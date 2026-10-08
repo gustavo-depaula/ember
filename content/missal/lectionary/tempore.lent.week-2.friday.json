@@ -665,7 +665,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 104, 16-17. 18-19. 20-21 (: 5a)",
+      "cite": "Ps 104, 16-17. 18-19. 20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -677,7 +677,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 104 (105), 16-17.18-19.20-21 (: 5a)",
+      "cite": "Sl 104 (105), 16-17.18-19.20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -689,7 +689,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 104, 16-17. 18-19. 20-21 (: 5a)",
+      "cite": "Ps 104, 16-17. 18-19. 20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -701,7 +701,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 104, 16-17. 18-19. 20-21 (: 5a)",
+      "cite": "Sal 104, 16-17. 18-19. 20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -725,7 +725,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 104, 16-17. 18-19. 20-21 (: 5a)",
+      "cite": "Ps 104, 16-17. 18-19. 20-21 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -737,7 +737,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 105 (104), 16-17. 18-19. 20-21 (R: vgl. 5a)",
+      "cite": "Ps 105 (104), 16-17. 18-19. 20-21 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -1793,7 +1793,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Proclamação do Evangelho Jesus Cristo segundo Mateus"
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
        ]
       ],
       "cite": "21, 33-43.45-46",
@@ -2475,8 +2475,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada II — Feria sexta",
-  "pt-BR": "Tempo da Quaresma — Sexta-feira da 2ª Semana da Quaresma",
-  "en-US": "Season of Lent — 2nd Week: Friday",
+  "pt-BR": "Sexta-feira da 2ª Semana da Quaresma",
+  "en-US": "Friday of the Second Week of Lent",
   "es": "Tiempo de Cuaresma — Viernes de la II Semana",
   "it": "VENERDI DELLA II SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 2e semaine — Vendredi",

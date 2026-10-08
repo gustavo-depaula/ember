@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -88,6 +79,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Todos os que quiserem levar uma vida fervorosa em Cristo Jesus serão perseguidos."
        ]
       ],
@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Caríssimo: Lembra-te de Jesus Cristo, da descendencia de David, ressuscitado dentre os mortos, segundo o meu evangelho. Por ele eu estou sofrendo até às algemas como se eu fosse um malfeitor; mas a palavra de Deus não está algemada. Por isso, suporto qualquer coisa pelos eleitos, para que eles também alcancem a salvação que está em Cristo Jesus, com a glória eterna. Merece fé esta palavra: se com ele morremos, com ele viveremos. Se com ele ficarmos firmes, com ele reinaremos. Se nós o negarmos, também ele nos negará. Se lhe somos infiéis, ele permanece fiel, pois não pode negar-se a si mesmo. Tu, porém, me tens seguido fielmente, no ensino, no procedimento, nos projetos, na fé, na paciencia, no amor, na perseverança, nas perseguições e nos sofrimentos que suportei em Antioquia, Icônio e Listra. E que perseguições sofri! Mas de todas elas o Senhor me livrou. Alias, todos os que quiserem levar uma vida fervorosa em Cristo Jesus serão perseguidos."
+        "Caríssimo: Lembra-te de Jesus Cristo, da descendência de David, ressuscitado dentre os mortos, segundo o meu evangelho. Por ele eu estou sofrendo até às algemas como se eu fosse um malfeitor; mas a palavra de Deus não está algemada. Por isso, suporto qualquer coisa pelos eleitos, para que eles também alcancem a salvação que está em Cristo Jesus, com a glória eterna. Merece fé esta palavra: se com ele morremos, com ele viveremos. Se com ele ficarmos firmes, com ele reinaremos. Se nós o negarmos, também ele nos negará. Se lhe somos infiéis, ele permanece fiel, pois não pode negar-se a si mesmo. Tu, porém, me tens seguido fielmente, no ensino, no procedimento, nos projetos, na fé, na paciencia, no amor, na perseverança, nas perseguições e nos sofrimentos que suportei em Antioquia, Icônio e Listra. E que perseguições sofri! Mas de todas elas o Senhor me livrou. Alias, todos os que quiserem levar uma vida fervorosa em Cristo Jesus serão perseguidos."
        ]
       ]
      },
@@ -122,6 +122,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -159,6 +168,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -209,6 +227,15 @@
      }
     ],
     "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -266,6 +293,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Deuxième lettre de saint Paul Apôtre à Timothée"
        ]
       ],
@@ -299,6 +335,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

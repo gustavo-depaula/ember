@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -286,7 +286,7 @@
       "k": "p",
       "lines": [
        [
-        "Parola di Dio."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -711,7 +711,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 78, 8. 9. 11. 13 (: Eccli 36, 1b)",
+      "cite": "Ps 78, 8. 9. 11. 13 (R.: Eccli 36, 1b)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 78 (79), 8.9.11.13 (: Eccli 36, 1b)",
+      "cite": "Sl 78 (79), 8.9.11.13 (R.: Eccli 36, 1b)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 78, 8. 9. 11. 13 (: Eccli 36, 1b)",
+      "cite": "Ps 78, 8. 9. 11. 13 (R.: Eccli 36, 1b)",
       "role": "title"
      }
     ],
@@ -771,7 +771,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 78, 8. 9. 11. 13 (: Eccli 36, 1b)",
+      "cite": "Ps 78, 8. 9. 11. 13 (R.: Eccli 36, 1b)",
       "role": "title"
      }
     ],
@@ -783,7 +783,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 79 (78), 5 u. 8. 9. 11 u. 13 (R: vgl. Sir 36, 17)",
+      "cite": "Ps 79 (78), 5 u. 8. 9. 11 u. 13 (R.: vgl. Sir 36, 17)",
       "role": "title"
      }
     ]
@@ -1791,7 +1791,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -2178,7 +2178,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 1a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2190,7 +2190,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 147, 12-13.14-15.19-20 (: 1a)",
+      "cite": "Sl 147, 12-13.14-15.19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2202,7 +2202,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 1a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2214,7 +2214,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 147, 12-13. 14-15. 19-20 (: 1a)",
+      "cite": "Sal 147, 12-13. 14-15. 19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2238,7 +2238,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (: 1a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2250,7 +2250,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 147, 12-13. 14-15. 19-20 (R: 12a)",
+      "cite": "Ps 147, 12-13. 14-15. 19-20 (R.: 12a)",
       "role": "title"
      }
     ]
@@ -4003,7 +4003,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. VIII",
   "pt-BR": "Quarta-feira da 8ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 8th Week: Wednesday",
+  "en-US": "Wednesday of the Eighth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 8ª semana",
   "it": "MERCOLEDI della VIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 8e semaine",

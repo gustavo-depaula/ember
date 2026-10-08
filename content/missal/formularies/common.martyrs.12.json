@@ -488,7 +488,7 @@
       "k": "p",
       "lines": [
        [
-        "Donaci, o Dio onnipotente, di imitare con vivo ardore l'esempio di san",
+        "Donaci, o Dio onnipotente, di imitare con vivo ardore l'esempio di san ",
         {
          "m": "rubric",
          "t": "N."
@@ -687,7 +687,7 @@
       "k": "p",
       "lines": [
        [
-        "Nella memoria del martirio di san",
+        "Nella memoria del martirio di san ",
         {
          "m": "rubric",
          "t": "N. "
@@ -1213,8 +1213,8 @@
  ],
  "title": {
   "la": "COMMUNE MARTYRUM",
-  "pt-BR": "COMUM DOS MÁRTIRES",
-  "en-US": "COMMON OF MARTYRS",
+  "pt-BR": "Comum dos Mártires",
+  "en-US": "Common of Martyrs",
   "es": "COMÚN DE MÁRTIRES",
   "it": "COMÚN DE MÁRTIRES",
   "fr": "COMMUN DES MARTYRS"

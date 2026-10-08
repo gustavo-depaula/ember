@@ -3,52 +3,50 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 142, 1-2. 5-6. 7ab et 8ab. 10 (: 1a)",
+      ],
+      "cite": "Ps 142, 1-2. 5-6. 7ab et 8ab. 10 (R.: 1a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 142, 1-2. 5-6. 7ab y 8ab. 10 (R.: 1a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 142, 1-2. 5-6. 7ab e 8ab. 10 (R.: 1a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 142:1-2. 5-6. 7ab et 8ab. 10 (: 1a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 142:1-2. 5-6. 7ab and 8ab. 10 (R.: 1a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 142, 1-2. 5-6. 7ab y 8ab. 10 (R.: 1a)",
       "role": "title"
      }
@@ -56,24 +54,36 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 142:1-2. 5-6. 7ab et 8ab. 10 (: 1a)",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 142:1-2. 5-6. 7ab et 8ab. 10 (R.: 1a)",
       "role": "title"
      }
     ],
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 142, 1-2. 5-6. 7ab et 8ab. 10 (: 1a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 142, 1-2. 5-6. 7ab et 8ab. 10 (R.: 1a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 143 (142), 1-2. 5-6. 7ab u. 8ab. 10-11 (R: vgl. 8 oder 1a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 143 (142), 1-2. 5-6. 7ab u. 8ab. 10-11 (R.: vgl. 8 oder 1a)",
       "role": "title"
      }
     ]
@@ -104,7 +114,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Tende piedade mim, atendei à minha prece!."
+        "Tende piedade de mim, atendei à minha prece!"
        ]
       ]
      }
@@ -349,7 +359,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Tende piedade mim, atendei à minha prece!."
+        "Tende piedade de mim, atendei à minha prece!"
        ]
       ]
      }
@@ -594,7 +604,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Tende piedade mim, atendei à minha prece!."
+        "Tende piedade de mim, atendei à minha prece!"
        ]
       ]
      }
@@ -827,7 +837,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Tende piedade mim, atendei à minha prece!."
+        "Tende piedade de mim, atendei à minha prece!"
        ]
       ]
      }
@@ -1054,7 +1064,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Tende piedade mim, atendei à minha prece!."
+        "Tende piedade de mim, atendei à minha prece!"
        ]
       ]
      }

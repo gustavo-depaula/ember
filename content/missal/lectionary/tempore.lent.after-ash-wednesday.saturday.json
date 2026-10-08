@@ -204,7 +204,7 @@
       "k": "p",
       "lines": [
        [
-        "Assim fala o Senhor, e destruíres teus instrumentos de opressão, e deixares os hábitos autoritários e a línguagem maldosa; se acolheres de coração aberto o indigente e prestares todo socorro ao necessitado, nascerá nas trevas a tua luz e tua vida obscura será como o meio-dia. O Senhor te conduzirá sempre e saciará tua sede na aridez da vida, e renovará o vigor do teu corpo; serás como um jardim bem regado, como uma fonte de águas que jamais secarão. Teu povo reconstruirá as ruínas antigas; tu levantarás os fundamentos das gerações passadas: serás chamado reconstrutor de ruínas, restaurador de caminhos, nas terras a povoar. Se não puseres o pé fora de casa no sábado, nem tratares de negócios em meu dia santo, se considerares o sábado teu dia favorito, o dia glorioso, consagrado ao Senhor, se o honrares, pondo de lado atividades, negócios e conversações, então te deleitarás no Senhor; eu te farei transportar sobre as alturas da terra e desfrutar a herança de Jacó, teu pai. Falou a boca do Senhor."
+        "Assim fala o Senhor, e destruíres teus instrumentos de opressão, e deixares os hábitos autoritários e a linguagem maldosa; se acolheres de coração aberto o indigente e prestares todo socorro ao necessitado, nascerá nas trevas a tua luz e tua vida obscura será como o meio-dia. O Senhor te conduzirá sempre e saciará tua sede na aridez da vida, e renovará o vigor do teu corpo; serás como um jardim bem regado, como uma fonte de águas que jamais secarão. Teu povo reconstruirá as ruínas antigas; tu levantarás os fundamentos das gerações passadas: serás chamado reconstrutor de ruínas, restaurador de caminhos, nas terras a povoar. Se não puseres o pé fora de casa no sábado, nem tratares de negócios em meu dia santo, se considerares o sábado teu dia favorito, o dia glorioso, consagrado ao Senhor, se o honrares, pondo de lado atividades, negócios e conversações, então te deleitarás no Senhor; eu te farei transportar sobre as alturas da terra e desfrutar a herança de Jacó, teu pai. Falou a boca do Senhor."
        ]
       ]
      },
@@ -212,7 +212,7 @@
       "k": "p",
       "lines": [
        [
-        "Palvra do Senhor."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -727,7 +727,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 85, 1-2. 3-4. 5-6 (: 11a)",
+      "cite": "Ps 85, 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -739,7 +739,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 85 (86), 1-2.3-4.5-6 (: 11a)",
+      "cite": "Sl 85 (86), 1-2.3-4.5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -751,7 +751,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 85, 1-2. 3-4. 5-6 (: 11a)",
+      "cite": "Ps 85, 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -763,7 +763,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 85, 1-2. 3-4. 5-6 (: 11a)",
+      "cite": "Sal 85, 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -787,7 +787,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 85, 1-2. 3-4. 5-6 (: 11a)",
+      "cite": "Ps 85, 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ],
@@ -799,7 +799,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 86 (85), 1-2. 3-4. 5-6 (R: 11a)",
+      "cite": "Ps 86 (85), 1-2. 3-4. 5-6 (R.: 11a)",
       "role": "title"
      }
     ]
@@ -2400,8 +2400,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Sabbato post Cineres",
-  "pt-BR": "Tempo da Quaresma — Sábado depois das Cinzas",
-  "en-US": "Season of Lent — Saturday after Ash Wednesday",
+  "pt-BR": "Sábado depois das Cinzas",
+  "en-US": "Saturday after Ash Wednesday",
   "es": "Tiempo de Cuaresma — Sábado después de Ceniza",
   "it": "Sabato DOPO LE CENERI",
   "fr": "Samedi après les Cendres",

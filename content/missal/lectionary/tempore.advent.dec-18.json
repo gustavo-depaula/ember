@@ -226,7 +226,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Jeremiah"
+        "A reading from the Book of the Prophet Jeremiah"
        ]
       ],
       "cite": "23:5-8",
@@ -578,7 +578,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 71, 1-2. 12-13. 18-19 (: cf. 7)",
+      "cite": "Ps 71, 1-2. 12-13. 18-19 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -590,7 +590,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 71 (72),1 e 2.12-13.18-19 (: cf. 7)",
+      "cite": "Sl 71 (72),1 e 2.12-13.18-19 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -602,7 +602,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 71, 1-2. 12-13. 18-19 (: cf. 7)",
+      "cite": "Ps 71, 1-2. 12-13. 18-19 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -614,7 +614,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 71, 1-2. 12-13. 18-19 (: cf. 7)",
+      "cite": "Sal 71, 1-2. 12-13. 18-19 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -638,7 +638,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 71, 1-2. 12-13. 18-19 (: cf. 7)",
+      "cite": "Ps 71, 1-2. 12-13. 18-19 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -650,7 +650,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 72 (71), 1-2. 12-13. 18-19 (R: vgl. 7)",
+      "cite": "Ps 72 (71), 1-2. 12-13. 18-19 (R.: vgl. 7)",
       "role": "title"
      }
     ]
@@ -2319,8 +2319,8 @@
  ],
  "title": {
   "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 18 decembris",
-  "pt-BR": "DIAS DE SEMANA DO ADVENTO — DE 17 a 24 DE DEZEMBRO — 18 de dezembro.",
-  "en-US": "Weekdays of Advent — December 17 to December 24 — 18 December",
+  "pt-BR": "18 de dezembro",
+  "en-US": "December 18",
   "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 18 de diciembre",
   "it": "18 Dicembre",
   "fr": "Temps de l'Avent — 17 décembre - 24 décembre — Die 18 decembris",

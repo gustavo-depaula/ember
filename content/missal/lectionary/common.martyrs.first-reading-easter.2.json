@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -104,6 +95,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Esses são os que vieram da grande tribulação."
        ]
       ],
@@ -123,7 +123,7 @@
       "k": "p",
       "lines": [
        [
-        "Eu, João, vi uma multidão imensa de gente de todas as nações, tribos, povos e línguas, e que ninguém podia contar. Estavam de pé diante do trono e do Cordeiro; trajavam vestes brancas e traziam palmas na mão. Todos proclamavam com voz forte: \"A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro\". Todos os anjos estavam de pé, em volta do trono dos Anciãos e dos quatro Seres vivos e prostravam-se, com o rosto por terra, diante do trono. E adoravam a Deus, dizendo: \"Amém. O louvor, a gloria e a sabedoria, a ação de graças, a honra o poder e a força pertencem ao nosso Deus para sempre. Amém\". E um dos Anciãos falou comigo e perguntou: \"Quem são esses vestidos com roupas brancas? De onde vieram?\" Eu respondi:\"Tu é que sabes, meu senhor\". E então ele me disse: \"Esses são os que vieram da grande tribulação. Lavaram e alvejaram as suas roupas no sangue do Cordeiro. Por isso, estão diante do trono de Deus e lhe prestam culto, dia e noite, no seu tmeplo. E aquele que está sentado no trono os abrigará na sua tenda. Nunca mais terão fome, nem sede. Nem os molestará o sol, nem algum calor ardente. Porque o Coreiro, que está no meio do trono, será o seu pastor e os conduzirá às fontes da água da vida. E Deus enxugará as lágrimas de seus olhos\"."
+        "Eu, João, vi uma multidão imensa de gente de todas as nações, tribos, povos e línguas, e que ninguém podia contar. Estavam de pé diante do trono e do Cordeiro; trajavam vestes brancas e traziam palmas na mão. Todos proclamavam com voz forte: \"A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro\". Todos os anjos estavam de pé, em volta do trono dos Anciãos e dos quatro Seres vivos e prostravam-se, com o rosto por terra, diante do trono. E adoravam a Deus, dizendo: \"Amém. O louvor, a gloria e a sabedoria, a ação de graças, a honra o poder e a força pertencem ao nosso Deus para sempre. Amém\". E um dos Anciãos falou comigo e perguntou: \"Quem são esses vestidos com roupas brancas? De onde vieram?\" Eu respondi:\"Tu é que sabes, meu senhor\". E então ele me disse: \"Esses são os que vieram da grande tribulação. Lavaram e alvejaram as suas roupas no sangue do Cordeiro. Por isso, estão diante do trono de Deus e lhe prestam culto, dia e noite, no seu templo. E aquele que está sentado no trono os abrigará na sua tenda. Nunca mais terão fome, nem sede. Nem os molestará o sol, nem algum calor ardente. Porque o Cordeiro, que está no meio do trono, será o seu pastor e os conduzirá às fontes da água da vida. E Deus enxugará as lágrimas de seus olhos\"."
        ]
       ]
      },
@@ -188,6 +188,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -266,6 +275,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sono quelli che vengono dalla grande tribolazione."
        ]
       ],
@@ -309,6 +327,15 @@
      }
     ],
     "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -382,6 +409,15 @@
       "k": "p",
       "lines": [
        [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Lesung aus der Offenbarung des Johannes"
        ]
       ],
@@ -419,16 +455,6 @@
        ]
       ],
       "role": "conclusion"
-     }
-    ],
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "='alindcha'"
-       ]
-      ]
      }
     ]
    }

@@ -100,38 +100,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.5"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      ],
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 95(96), 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
@@ -139,15 +127,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 95:1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 95:1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
@@ -155,7 +151,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 95 (96)",
       "role": "title"
      }
@@ -163,16 +163,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (: 3)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 95, 1-2a. 2b-3. 7-8a. 10 (R.: 3)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 96 (95), 1-2. 3 u. 7. 8 u. 10 (R: vgl. 3a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 96 (95), 1-2. 3 u. 7. 8 u. 10 (R.: vgl. 3a)",
       "role": "title"
      }
     ]

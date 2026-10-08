@@ -194,7 +194,7 @@
       "k": "p",
       "lines": [
        [
-        "Carissimos, não estranheis o fogo da provação que alastra em vós como se alguma coisa de estranho vos estivesse acontecendo. Alegravai-vos por participar dos sofrimentos de Cristo, para que possais também exultar de alegria na revelação da sua glória. Se sofreis injurias por causa do nome de Cristo, sois felizes, pois o Espírito da glória, o Espírito de Deus repousa sobre vós. Mas nenhum de vós queria sofrer como assassino, ladrão o malfeitor, ou por intrometer-se na vida dos outros. Se, porém, alguém sofrer como cristão, não se envergonhe. Antes, glorifique a Deus por este nome. Porque chegou o tempo do julgamento, que deve começar pela familia de Deus, Ora, se ele começa por nós, qual será o fim dos que se recusam a obedecer ao evangelho de Deus? Se mal consegue salvar-se o justo, o que será do ímpio e do pecador? Assim, pois, os que sofrem segundo a vontade de Deus entreguem suas vidas ao Criador, que é fiel, e dediquem-se à prática do bem."
+        "Caríssimos, não estranheis o fogo da provação que alastra em vós como se alguma coisa de estranho vos estivesse acontecendo. Alegravai-vos por participar dos sofrimentos de Cristo, para que possais também exultar de alegria na revelação da sua glória. Se sofreis injurias por causa do nome de Cristo, sois felizes, pois o Espírito da glória, o Espírito de Deus repousa sobre vós. Mas nenhum de vós queria sofrer como assassino, ladrão o malfeitor, ou por intrometer-se na vida dos outros. Se, porém, alguém sofrer como cristão, não se envergonhe. Antes, glorifique a Deus por este nome. Porque chegou o tempo do julgamento, que deve começar pela familia de Deus, Ora, se ele começa por nós, qual será o fim dos que se recusam a obedecer ao evangelho de Deus? Se mal consegue salvar-se o justo, o que será do ímpio e do pecador? Assim, pois, os que sofrem segundo a vontade de Deus entreguem suas vidas ao Criador, que é fiel, e dediquem-se à prática do bem."
        ]
       ]
      },
@@ -563,7 +563,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
@@ -575,7 +575,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (:5)",
+      "cite": "Sl 125 (126), 1-2ab.2cd-3.4-5.6 (R.: 5)",
       "role": "title"
      }
     ],
@@ -587,7 +587,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
@@ -622,7 +622,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
@@ -634,7 +634,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 5)",
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ]
@@ -1644,30 +1644,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.martyrs.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1708,7 +1692,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1746,7 +1734,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Mt 5:10",
       "role": "title"
      },
@@ -1768,7 +1760,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1809,7 +1805,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Mt 5, IO",
       "role": "title"
      },
@@ -1831,7 +1831,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Mt 5, 10",
       "role": "title"
      },
@@ -1869,7 +1873,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Mt 5, 10",
       "role": "title"
      },
@@ -2515,8 +2523,8 @@
  ],
  "title": {
   "la": "Ss. Ioannis Fisher, episcopi, et Thomæ More, martyrum",
-  "pt-BR": "São João Fisher, bispo, e São Tomás More, mártires",
-  "en-US": "John Fisher, bishop, and Thomas More, martyrs",
+  "pt-BR": "Santos João Fisher, bispo, e Tomás More, mártires",
+  "en-US": "Saints John Fisher, bishop, and Thomas More, martyrs",
   "es": "San Juan Fisher, obispo, y santo Tomás Moro, mártires",
   "it": "Santi Giovanni Fisher, vescovo e Tommaso More, martiri",
   "fr": "Saint John Fisher, évêque, et saint Thomas More, martyrs",

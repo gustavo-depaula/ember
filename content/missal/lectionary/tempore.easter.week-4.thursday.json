@@ -233,7 +233,7 @@
       "k": "p",
       "lines": [
        [
-        "Paulo e seus companheiros embarcaram em Pafos e chegaram a Perge da Panfília. João deixou-os e voltou para Jerusalém. Eles, porém, partindo de Perge, chegaram a Antioquia da Pisídia. E, entrando na sinagoga em dia de sábado, sentaram-se. Depois da leitura da Lei e dos Profetas, os chefes da sinagoga mandaram dizer-lhes: “Irmãos, se vós tendes alguma palavra para encorajar o povo, podeis falar”. Paulo levantou-se, fez um sinal com a mão e disse: “Israelitas e vós que temeis a Deus, escutai! O Deus deste povo de Israel escolheu os nossos antepassados e fez deles um grande povo quando moravam como estrangeiros no Egito; e de lá os tirou com braço poderoso. E, durante mais ou menos quarenta anos, cercou-o de cuidados no deserto. Destruiu sete nações na terra de Canaã e passou para eles a posse do seu território, por quatrocentos e cinquenta anos aproximadamente. Depois disso, concedeu-lhes juizes, até o profeta Samuel. Em seguida, eles pediram um rei e Deus concedeu-lhes Saul, filho de Cis, da tribo de Benjamim, que reinou durante quarenta anos. Em seguida, Deus fez surgir Davi como rei e assim testemunhou a seu respeito: \"Encontrei Davi, filho de Jessé, homem segundo o meu coração, que vai fazer em tudo a minha vontade\". Conforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus. Antes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel. Estando para terminar sua missão, João declarou: 'Eu não sou aquele que pensais que eu seja! Mas vede: depois de mim vem aquele do qual nem mereço desamarrar as sandálias\" '”."
+        "Paulo e seus companheiros embarcaram em Pafos e chegaram a Perge da Panfília. João deixou-os e voltou para Jerusalém. Eles, porém, partindo de Perge, chegaram a Antioquia da Pisídia. E, entrando na sinagoga em dia de sábado, sentaram-se. Depois da leitura da Lei e dos Profetas, os chefes da sinagoga mandaram dizer-lhes: “Irmãos, se vós tendes alguma palavra para encorajar o povo, podeis falar”. Paulo levantou-se, fez um sinal com a mão e disse: “Israelitas e vós que temeis a Deus, escutai! O Deus deste povo de Israel escolheu os nossos antepassados e fez deles um grande povo quando moravam como estrangeiros no Egito; e de lá os tirou com braço poderoso. E, durante mais ou menos quarenta anos, cercou-o de cuidados no deserto. Destruiu sete nações na terra de Canaã e passou para eles a posse do seu território, por quatrocentos e cinquenta anos aproximadamente. Depois disso, concedeu-lhes juízes, até o profeta Samuel. Em seguida, eles pediram um rei e Deus concedeu-lhes Saul, filho de Cis, da tribo de Benjamim, que reinou durante quarenta anos. Em seguida, Deus fez surgir Davi como rei e assim testemunhou a seu respeito: \"Encontrei Davi, filho de Jessé, homem segundo o meu coração, que vai fazer em tudo a minha vontade\". Conforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus. Antes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel. Estando para terminar sua missão, João declarou: 'Eu não sou aquele que pensais que eu seja! Mas vede: depois de mim vem aquele do qual nem mereço desamarrar as sandálias\" '”."
        ]
       ]
      },
@@ -599,7 +599,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 2-3. 21-22. 25 et 27 (R/.: cf. 2a)",
+      "cite": "Ps 88, 2-3. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -611,7 +611,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 88 (89), 2-3.21-22.25.27 (R/.: cf. 2a)",
+      "cite": "Sl 88 (89), 2-3.21-22.25.27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -623,7 +623,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 88, 2-3. 21-22. 25 and 27 (R.: cf. 2a)"
      }
     ],
     "es": [
@@ -634,7 +635,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 88, 2-3. 21-22. 25 y 27 (R/.: cf. 2a)",
+      "cite": "Sal 88, 2-3. 21-22. 25 y 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -658,7 +659,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 2-3. 21-22. 25 et 27 (R/.: cf. 2a)",
+      "cite": "Ps 88, 2-3. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -670,7 +671,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 27 u. 29 (R: 2a)",
+      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 27 u. 29 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -695,7 +696,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -716,7 +717,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -793,7 +794,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -986,7 +987,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1007,7 +1008,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1091,7 +1092,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1278,7 +1279,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1299,7 +1300,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1383,7 +1384,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1570,7 +1571,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1591,7 +1592,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1675,7 +1676,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1767,7 +1768,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Cf. Ap 1, 5"
      },
      {
       "k": "p",
@@ -2501,8 +2503,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada IV — Feria V",
-  "pt-BR": "Tempo da Páscoa — 4ª Semana — Quinta-feira",
-  "en-US": "Easter Season — Fourth Week — Thursday",
+  "pt-BR": "Quinta-feira da 4ª Semana da Páscoa",
+  "en-US": "Thursday of the Fourth Week of Easter",
   "es": "Tiempo de Pascua — Semana IV — Jueves",
   "it": "GIOVEDI della IV settimana di Pasqua",
   "fr": "Temps pascal — 4e semaine — Jeudi",

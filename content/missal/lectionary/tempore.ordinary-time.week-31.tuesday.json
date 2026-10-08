@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -2158,7 +2158,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 21, 26b-27. 28. 29-30a. 30c-32 (: 26a)",
+      "cite": "Ps 21, 26b-27. 28. 29-30a. 30c-32 (R.: 26a)",
       "role": "title"
      }
     ],
@@ -2170,7 +2170,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 21 (22), 26b-27.28-30a.31-32 (: 26a)",
+      "cite": "Sl 21 (22), 26b-27.28-30a.31-32 (R.: 26a)",
       "role": "title"
      }
     ],
@@ -2182,7 +2182,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 21, 26b-27. 28. 29-30a. 30c-32 (: 26a)",
+      "cite": "Ps 21, 26b-27. 28. 29-30a. 30c-32 (R.: 26a)",
       "role": "title"
      }
     ],
@@ -2194,7 +2194,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 21, 26b-27. 28. 29-30a. 30c-32 (: 26a)",
+      "cite": "Sal 21, 26b-27. 28. 29-30a. 30c-32 (R.: 26a)",
       "role": "title"
      }
     ],
@@ -2218,7 +2218,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 21, 26b-27. 28. 29-30a. 30c-32 (: 26a)",
+      "cite": "Ps 21, 26b-27. 28. 29-30a. 30c-32 (R.: 26a)",
       "role": "title"
      }
     ],
@@ -2230,7 +2230,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 22 (21), 26-27. 28-29. 30c-32 (R: 26a)",
+      "cite": "Ps 22 (21), 26-27. 28-29. 30c-32 (R.: 26a)",
       "role": "title"
      }
     ]
@@ -3285,7 +3285,7 @@
       "k": "p",
       "lines": [
        [
-        "Aleluia, aleluyi."
+        "Aleluia, aleluia."
        ],
        [
         "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o Senhor."
@@ -4097,7 +4097,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXXI",
   "pt-BR": "Terça-feira da 31ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 31st Week: Tuesday",
+  "en-US": "Tuesday of the Thirty-First Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 31ª semana",
   "it": "MARTEDI della XXXI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 31e semaine",

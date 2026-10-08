@@ -30,7 +30,7 @@
        [
         {
          "m": "rubric",
-         "t": "Hæc Missa celebrari potest post acceptum mortis nuntium, vel in ultima sepultura defuncti, etiam diebus infra octavam Nativitatis et diebus quibus occurrit memoria obligatoria aut feria quæ non sit IV Cinerum aut Hebdomadæ sanctæ.Missæ «cotidianæ» defunctorum celebrari possunt in feriis «per annum», etiamsi occurrit memoria ad libitum, dummodo pro defunctis revera applicentur."
+         "t": "Hæc Missa celebrari potest post acceptum mortis nuntium, vel in ultima sepultura defuncti, etiam diebus infra octavam Nativitatis et diebus quibus occurrit memoria obligatoria aut feria quæ non sit IV Cinerum aut Hebdomadæ sanctæ. Missæ «cotidianæ» defunctorum celebrari possunt in feriis «per annum», etiamsi occurrit memoria ad libitum, dummodo pro defunctis revera applicentur."
         }
        ]
       ]
@@ -710,7 +710,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -723,7 +723,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -736,7 +736,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -749,7 +749,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -775,7 +775,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -788,7 +788,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1701,8 +1701,8 @@
  ],
  "title": {
   "la": "III. IN VARIIS COMMEMORATIONIBUS",
-  "pt-BR": "III. PARA DIVERSAS COMEMORAÇÕES",
-  "en-US": "III. VARIOUS COMMEMORATIONS",
+  "pt-BR": "III. Para Diversas Comemorações",
+  "en-US": "III. Various Commemorations",
   "es": "III. EN DIVERSAS CONMEMORACIONES",
   "it": "III. PER DIVERSE COMMEMORAZIONI",
   "fr": "III. POUR DIVERSES COMMÉMORATIONS",

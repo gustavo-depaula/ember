@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -843,7 +843,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 32, 2-3. 4-5. 6-7. 8-9 (: 6a)",
+      "cite": "Ps 32, 2-3. 4-5. 6-7. 8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -855,7 +855,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 32 (33), 2-3.4-5.6-7.8-9 (: 6a)",
+      "cite": "Sl 32 (33), 2-3.4-5.6-7.8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -867,7 +867,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 32, 2-3. 4-5. 6-7. 8-9 (: 6a)",
+      "cite": "Ps 32, 2-3. 4-5. 6-7. 8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -879,7 +879,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 32, 2-3. 4-5. 6-7. 8-9 (: 6a)",
+      "cite": "Sal 32, 2-3. 4-5. 6-7. 8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -903,7 +903,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 32, 2-3. 4-5. 6-7. 8-9 (: 6a)",
+      "cite": "Ps 32, 2-3. 4-5. 6-7. 8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -915,7 +915,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 33 (32), 2-3. 4-5. 6-7. 8-9. (R: vgl. 6a)",
+      "cite": "Ps 33 (32), 2-3. 4-5. 6-7. 8-9. (R.: vgl. 6a)",
       "role": "title"
      }
     ]
@@ -2528,7 +2528,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2c)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -2540,7 +2540,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 99 (100), 2.3.4.5 (: 2c)",
+      "cite": "Sl 99 (100), 2.3.4.5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -2552,7 +2552,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 999, 2. 3. 4. 5 (: 2c)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -2564,7 +2564,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 99, 2. 3. 4. 5 (: 2c)",
+      "cite": "Sal 99, 2. 3. 4. 5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -2588,7 +2588,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2c)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2c)",
       "role": "title"
      }
     ],
@@ -2600,7 +2600,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 100 (99), 2-3. 4-5 (R: 2b)",
+      "cite": "Ps 100 (99), 2-3. 4-5 (R.: 2b)",
       "role": "title"
      }
     ]
@@ -2633,7 +2633,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Com canto apresentai-vos diante do Senhor!."
+        "Com canto apresentai-vos diante do Senhor!"
        ]
       ]
      }
@@ -2857,7 +2857,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Com canto apresentai-vos diante do Senhor!."
+        "Com canto apresentai-vos diante do Senhor!"
        ]
       ]
      }
@@ -3070,7 +3070,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Com canto apresentai-vos diante do Senhor!."
+        "Com canto apresentai-vos diante do Senhor!"
        ]
       ]
      }
@@ -3297,7 +3297,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Com canto apresentai-vos diante do Senhor!."
+        "Com canto apresentai-vos diante do Senhor!"
        ]
       ]
      }
@@ -3510,7 +3510,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Com canto apresentai-vos diante do Senhor!."
+        "Com canto apresentai-vos diante do Senhor!"
        ]
       ]
      }
@@ -3638,7 +3638,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Jn 8, 12",
+      "cite": "Jo 8, 12",
       "role": "title"
      },
      {
@@ -4459,7 +4459,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. VIII",
   "pt-BR": "Quinta-feira da 8ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 8th Week: Thursday",
+  "en-US": "Thursday of the Eighth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 8ª semana",
   "it": "GIOVEDI della VIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 8e semaine",

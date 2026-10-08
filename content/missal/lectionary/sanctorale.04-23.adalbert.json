@@ -186,7 +186,7 @@
       "k": "p",
       "lines": [
        [
-        "Iemãos: Em tudo nos recomendamos como ministros de Deus, com muita paciência, em tribulações, em necessidades, em angústias, em açoites, em prisões, em tumultos, em fadigas, em insônias, em jejuns, em castidade, em compreensão, em longanimidade, em bondade, no Espírito Santo, em amor sincero, em palavras verdadeiras, no poder de Deus, em armas de justiça, ofensivas e defensivas, em honra e desonra, em má ou boa fama; considerados sedutores, sendo, porém, verazes; como desconhecidos, sendo porém, bem conhecidos; como moribundos, embora vivamos; como castigados mas não mortos; como aflitos mas sempre alegres; como pobres mas enriquecendo muitos; como quem nada possui, mas tendo tudo."
+        "Irmãos: Em tudo nos recomendamos como ministros de Deus, com muita paciência, em tribulações, em necessidades, em angústias, em açoites, em prisões, em tumultos, em fadigas, em insônias, em jejuns, em castidade, em compreensão, em longanimidade, em bondade, no Espírito Santo, em amor sincero, em palavras verdadeiras, no poder de Deus, em armas de justiça, ofensivas e defensivas, em honra e desonra, em má ou boa fama; considerados sedutores, sendo, porém, verazes; como desconhecidos, sendo porém, bem conhecidos; como moribundos, embora vivamos; como castigados mas não mortos; como aflitos mas sempre alegres; como pobres mas enriquecendo muitos; como quem nada possui, mas tendo tudo."
        ]
       ]
      },
@@ -523,54 +523,50 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 30(31), 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 30(31), 3cd-4. 6 e 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 and 8ab. 16bc and 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 30, 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
@@ -578,7 +574,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 30 (31)",
       "role": "title"
      }
@@ -586,16 +586,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R: vgl. 6a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R.: vgl. 6a)",
       "role": "title"
      }
     ]
@@ -1443,7 +1451,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 17:19",
       "role": "title"
      },
@@ -1907,7 +1919,7 @@
       "k": "p",
       "lines": [
        [
-        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — ​et lupus rapit eas et dispérgit — ​quia mercennárius est et non pértinet ad eum de óvibus."
+        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — et lupus rapit eas et dispérgit — quia mercennárius est et non pértinet ad eum de óvibus."
        ]
       ]
      },
@@ -2189,7 +2201,7 @@
  "title": {
   "la": "S. Adalberti, episcopi et martyris",
   "pt-BR": "Santo Adalberto, bispo e mártir",
-  "en-US": "St. Adalbert, bishop and martyr",
+  "en-US": "Saint Adalbert, bishop and martyr",
   "es": "San Adalberto, obispo y mártir",
   "it": "Sant'Adalberto, vescovo e martire",
   "fr": "Saint Adalbert, évêque et martyr",

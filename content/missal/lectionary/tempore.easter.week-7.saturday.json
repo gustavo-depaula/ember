@@ -581,7 +581,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 10 (11), 4. 5 e 7 (R/.: cf. 7b)",
+      "cite": "Sl 10 (11), 4. 5 e 7 (R.: cf. 7b)",
       "role": "title"
      }
     ],
@@ -593,7 +593,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 10, 4. 5 and 7 (.: cf. 7b)"
      }
     ],
     "es": [
@@ -604,7 +605,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 10, 4. 5 y 7 (R/.: cf. 7b)",
+      "cite": "Sal 10, 4. 5 y 7 (R.: cf. 7b)",
       "role": "title"
      }
     ],
@@ -640,7 +641,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 11 (10), 4. 5 u. 7 (R: vgl. 7b)",
+      "cite": "Ps 11 (10), 4. 5 u. 7 (R.: vgl. 7b)",
       "role": "title"
      }
     ]
@@ -686,7 +687,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -749,7 +750,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -978,7 +979,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1041,7 +1042,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1270,7 +1271,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1333,7 +1334,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1446,7 +1447,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 16, 7. 13"
      },
      {
       "k": "p",
@@ -1460,7 +1462,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -1986,7 +1988,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra del Señor."
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -2247,8 +2249,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VII — Sabbato",
-  "pt-BR": "Tempo da Páscoa — 7ª Semana — Sábado",
-  "en-US": "Easter Season — Seventh Week — Saturday",
+  "pt-BR": "Sábado da 7ª Semana da Páscoa",
+  "en-US": "Saturday of the Seventh Week of Easter",
   "es": "Tiempo de Pascua — Semana VII — Sábado. Misa matutina",
   "it": "Sabato della VII settimana di Pasqua",
   "fr": "Temps pascal — 7e semaine — Samedi",

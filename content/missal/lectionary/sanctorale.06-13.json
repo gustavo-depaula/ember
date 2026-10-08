@@ -612,7 +612,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -624,7 +624,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 88 (89), 2-3.4-5.21-22.25 e 27 (R.:cf. 2a)",
+      "cite": "Sl 88 (89), 2-3.4-5.21-22.25 e 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -636,7 +636,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 and 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -672,7 +672,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
@@ -684,7 +684,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R: 2a)",
+      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -1706,30 +1706,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.pastors.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1770,7 +1754,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1808,7 +1796,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Lk 4:18",
       "role": "title"
      },
@@ -1830,7 +1822,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1871,7 +1867,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Lc 4, 18cd",
       "role": "title"
      },
@@ -1893,7 +1893,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Lc 4, 18",
       "role": "title"
      },
@@ -1931,7 +1935,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "vgl. Lk 4, 18",
       "role": "title"
      },
@@ -1972,27 +1980,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "8"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.8"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2022,6 +2019,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A messe é grande, mas os trabalhadores são poucos."
        ]
       ],
@@ -2047,6 +2053,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2059,6 +2074,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2088,6 +2112,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "La messe è abbondante, ma sono pochi gli operai."
        ]
       ],
@@ -2113,6 +2146,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2125,6 +2167,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2557,7 +2608,7 @@
  "title": {
   "la": "S. Antonii de Padova, presbyteri et Ecclesiæ doctoris",
   "pt-BR": "Santo Antônio de Pádua, presbítero e doutor da Igreja",
-  "en-US": "St. Anthony of Padua, priest and doctor of the Church",
+  "en-US": "Saint Anthony of Padua, priest and doctor of the Church",
   "es": "San Antonio de Padua, presbítero y doctor de la Iglesia",
   "it": "Sant'Antonio di Padova, sacerdote e dottore della Chiesa",
   "fr": "Saint Antoine de Padoue, prêtre et docteur de l'Église",

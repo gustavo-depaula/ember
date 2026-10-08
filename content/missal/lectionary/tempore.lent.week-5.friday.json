@@ -195,7 +195,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura do Livro do profeta Jeremias"
+        "Leitura do Livro do Profeta Jeremias"
        ]
       ],
       "cite": "20, 10-13",
@@ -213,7 +213,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -669,7 +669,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 17, 2-3a. 3bc-4. 5-6. 7 (: cf. 7)",
+      "cite": "Ps 17, 2-3a. 3bc-4. 5-6. 7 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 17 (18), 2-3a.3bc-4.5-6.7 (: cf. 7)",
+      "cite": "Sl 17 (18), 2-3a.3bc-4.5-6.7 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -693,7 +693,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 17, 2-3a. 3bc-4. 5-6. 7 (: cf. 7)",
+      "cite": "Ps 17, 2-3a. 3bc-4. 5-6. 7 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -705,7 +705,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 17, 2-3a. 3bc-4. 5-6. 7 (: cf. 7)",
+      "cite": "Sal 17, 2-3a. 3bc-4. 5-6. 7 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -729,7 +729,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 17, 2-3a. 3bc-4. 5-6. 7 (: cf. 7)",
+      "cite": "Ps 17, 2-3a. 3bc-4. 5-6. 7 (R.: cf. 7)",
       "role": "title"
      }
     ],
@@ -741,7 +741,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 18 (17), 2-3. 4-5. 6-7b. 7cd u. 20 (R: vgl. 7)",
+      "cite": "Ps 18 (17), 2-3. 4-5. 6-7b. 7cd u. 20 (R.: vgl. 7)",
       "role": "title"
      }
     ]
@@ -878,7 +878,7 @@
         "Eu vos amo, ó Senhor! Sois minha força,"
        ],
        [
-        "a minha rocha, meu refúgio e Salvador!."
+        "a minha rocha, meu refúgio e Salvador!"
        ]
       ]
      }
@@ -1914,7 +1914,7 @@
         "Tes paroles, Seigneur, sont esprit et elles sont vie. Tu as les paroles de la vie éternelle."
        ],
        [
-        "Gloire à toi, Seigneur, Fils du Dieu vivant !."
+        "Gloire à toi, Seigneur, Fils du Dieu vivant !"
        ]
       ]
      }
@@ -2620,8 +2620,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada V — Feria sexta",
-  "pt-BR": "Tempo da Quaresma — Sexta-feira da 5ª Semana da Quaresma",
-  "en-US": "Season of Lent — 5th Week: Friday",
+  "pt-BR": "Sexta-feira da 5ª Semana da Quaresma",
+  "en-US": "Friday of the Fifth Week of Lent",
   "es": "Tiempo de Cuaresma — Viernes de la V Semana",
   "it": "VENERDI DELLA V SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 5e semaine — Vendredi",

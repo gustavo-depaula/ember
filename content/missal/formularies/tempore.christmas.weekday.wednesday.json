@@ -389,7 +389,7 @@
        [
         {
          "m": "rubric",
-         "t": "Before the Solemnity of the Ephiphany"
+         "t": "Before the Solemnity of the Epiphany"
         }
        ]
       ]
@@ -449,7 +449,10 @@
     ]
    },
    "part": "collect",
-   "role": "rubric"
+   "role": "rubric",
+   "unless": [
+    "after-epiphany"
+   ]
   },
   {
    "text": {
@@ -590,7 +593,10 @@
      }
     ]
    },
-   "part": "collect"
+   "part": "collect",
+   "unless": [
+    "after-epiphany"
+   ]
   },
   {
    "text": {
@@ -627,7 +633,7 @@
        [
         {
          "m": "rubric",
-         "t": "After the Solemnity of the Ephiphany"
+         "t": "After the Solemnity of the Epiphany"
         }
        ]
       ]
@@ -687,7 +693,10 @@
     ]
    },
    "part": "collect",
-   "role": "rubric"
+   "role": "rubric",
+   "when": [
+    "after-epiphany"
+   ]
   },
   {
    "text": {
@@ -834,7 +843,10 @@
      }
     ]
    },
-   "part": "collect"
+   "part": "collect",
+   "when": [
+    "after-epiphany"
+   ]
   },
   {
    "text": {
@@ -1447,8 +1459,8 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Feria quarta",
-  "pt-BR": "Dias de Semana do Tempo do Natal — Quarta-feira",
-  "en-US": "Weekdays of Christmas Time — from January 2 — Wednesday",
+  "pt-BR": "Quarta-feira do Tempo do Natal",
+  "en-US": "Wednesday of Christmas Time",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — Miércoles",
   "it": "FERIE DEL TEMPO DI NATALE — Mercoledì",
   "fr": "Temps de Noël - Féries — Mercredi",

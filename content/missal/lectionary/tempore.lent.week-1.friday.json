@@ -241,7 +241,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Ezekielek"
+        "A reading from the Book of the Prophet Ezekiel"
        ]
       ],
       "cite": "18:21-28",
@@ -584,7 +584,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (: 3)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -596,7 +596,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 129 (130),1-2.3-4.5-6.7-8 (: 3)",
+      "cite": "Sl 129 (130),1-2.3-4.5-6.7-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -608,7 +608,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (: 3)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -620,7 +620,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 129, 1-2. 3-4. 5-7a. 7bc-8 (: 3)",
+      "cite": "Sal 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -644,7 +644,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (: 3)",
+      "cite": "Ps 129, 1-2. 3-4. 5-7a. 7bc-8 (R.: 3)",
       "role": "title"
      }
     ],
@@ -656,7 +656,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b. 6c-7a u. 8 (R: 3)",
+      "cite": "Ps 130 (129), 1-2. 3-4. 5-6b. 6c-7a u. 8 (R.: 3)",
       "role": "title"
      }
     ]
@@ -735,7 +735,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -978,7 +978,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1221,7 +1221,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1476,7 +1476,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1794,7 +1794,7 @@
       "k": "p",
       "lines": [
        [
-        "Lançai para bem longe toda a vossa iniqüidade!"
+        "Lançai para bem longe toda a vossa iniquidade!"
        ],
        [
         "Criai em vós um novo espírito e um novo coração!"
@@ -2567,7 +2567,7 @@
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada I — Feria sexta",
   "pt-BR": "Sexta-feira da 1ª Semana da Quaresma",
-  "en-US": "Season of Lent — 1st Week: Friday",
+  "en-US": "Friday of the First Week of Lent",
   "es": "Tiempo de Cuaresma — Viernes de la I Semana",
   "it": "VENERDI DELLA I SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 1e semaine — Vendredi",

@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -611,7 +611,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 138, 7-8. 9-10. 11-12ab (: 1)",
+      "cite": "Ps 138, 7-8. 9-10. 11-12ab (R.: 1)",
       "role": "title"
      }
     ],
@@ -623,7 +623,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 138 (139), 7-8.9-10.11-12 (: 1)",
+      "cite": "Sl 138 (139), 7-8.9-10.11-12 (R.: 1)",
       "role": "title"
      }
     ],
@@ -635,7 +635,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "138, 7-8. 9-10. 11-12ab (: 1)",
+      "cite": "138, 7-8. 9-10. 11-12ab (R.: 1)",
       "role": "title"
      }
     ],
@@ -647,7 +647,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 138, 7-8. 9-10. 11-12ab (: 1)",
+      "cite": "Sal 138, 7-8. 9-10. 11-12ab (R.: 1)",
       "role": "title"
      }
     ],
@@ -671,7 +671,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 138, 7-8. 9-10. 11-12ab (: 1)",
+      "cite": "Ps 138, 7-8. 9-10. 11-12ab (R.: 1)",
       "role": "title"
      }
     ],
@@ -683,7 +683,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 139 (138), 7-8. 9-10. 11-12 (R: 1a)",
+      "cite": "Ps 139 (138), 7-8. 9-10. 11-12 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -1696,7 +1696,7 @@
       "k": "p",
       "lines": [
        [
-        "Parola di Dio."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -2062,7 +2062,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2074,7 +2074,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 127 (128), 1-2.4-5 (: cf. 1a)",
+      "cite": "Sl 127 (128), 1-2.4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2086,7 +2086,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2098,7 +2098,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Sal 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2122,7 +2122,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 127, 1-2. 3. 4-5 (: cf. 1a)",
+      "cite": "Ps 127, 1-2. 3. 4-5 (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -2134,7 +2134,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 128 (127), 1-2. 4-5 (R: vgl. 1)",
+      "cite": "Ps 128 (127), 1-2. 4-5 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -3771,7 +3771,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXI",
   "pt-BR": "Quarta-feira da 21ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 21st Week: Wednesday",
+  "en-US": "Wednesday of the Twenty-First Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 21ª semana",
   "it": "MERCOLEDI della XXI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 21e semaine",

@@ -230,7 +230,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the First Letter of St. John"
+        "A reading from the first Letter of Saint John"
        ]
       ],
       "cite": "3:14-18",
@@ -573,7 +573,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -585,7 +585,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "cite": "Sl 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -597,7 +597,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 111: 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "cite": "Ps 111: 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -609,7 +609,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -633,7 +633,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -645,7 +645,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R: vgl. 1a)",
+      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -2101,30 +2101,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 13, 34",
       "role": "title"
      },
@@ -2165,7 +2149,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 13, 34",
       "role": "title"
      },
@@ -2203,7 +2191,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 13:34",
       "role": "title"
      },
@@ -2225,7 +2217,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 13, 34",
       "role": "title"
      },
@@ -2266,7 +2262,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. Gv 13, 34",
       "role": "title"
      },
@@ -2288,7 +2288,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 13, 34",
       "role": "title"
      },
@@ -2329,7 +2333,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 13, 34ac",
       "role": "title"
      },
@@ -3001,7 +3009,7 @@
  "title": {
   "la": "S. Ioannis a Deo, religiosi",
   "pt-BR": "São João de Deus, religioso",
-  "en-US": "St. John of God, religious",
+  "en-US": "Saint John of God, religious",
   "es": "San Juan de Dios, religioso",
   "it": "San Giovanni di Dio, religioso",
   "fr": "Saint Jean de Dieu, religieux",

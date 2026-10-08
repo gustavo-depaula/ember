@@ -58,40 +58,6 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Común de mártires:"
-        },
-        " ",
-        {
-         "m": "link",
-         "t": "1",
-         "to": "common.martyrs.6"
-        },
-        {
-         "m": "link",
-         "t": "2",
-         "to": "common.martyrs.7"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": "."
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "title"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [

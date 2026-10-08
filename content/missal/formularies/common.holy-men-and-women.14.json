@@ -197,6 +197,17 @@
       ],
       "cite": "Spr 31, 30. 28"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Pr 31, 30. 28"
+     }
     ]
    },
    "part": "entranceAntiphon"
@@ -318,6 +329,25 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A mulher que teme o Senhor será louvada, seus filhos a proclamaram feliz, seu marido lhe fez elogios ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " aleluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
     ]
    },
    "part": "entranceAntiphon"
@@ -331,7 +361,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -345,7 +375,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -373,7 +403,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -387,7 +417,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -724,7 +754,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel, pro pluribus: "
+         "t": "Vel, pro pluribus:"
         }
        ]
       ]
@@ -763,7 +793,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure, per più sante: "
+         "t": "Oppure, per più sante:"
         }
        ]
       ]
@@ -776,7 +806,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien, pour plusieurs saintes : "
+         "t": "Ou bien, pour plusieurs saintes :"
         }
        ]
       ]
@@ -1029,6 +1059,16 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
     ]
    },
    "part": "prayerOverOfferings"
@@ -1156,6 +1196,21 @@
          "t": "N.)"
         },
         " bringen wir unsere Gaben dar. Nimm sie an, vergib uns durch dieses heilige Opfer, was wir gefehlt haben, und schenke uns dein Heil. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, nós vos pedimos humildemente que os dons apresentados na comemoração de Santa ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " nos alcancem indulgência e salvação. Por Cristo, nosso Senhor."
        ]
       ]
      }
@@ -1295,6 +1350,17 @@
       ],
       "cite": "Mt 13, 45-46"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Mt 13, 45-46"
+     }
     ]
    },
    "part": "communionAntiphon"
@@ -1419,6 +1485,25 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O reino dos céus é como um negociante que procura pérolas preciosas; tendo encontrado uma de grande valor, vendeu todos os seus bens e a comprou ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " aleluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
+       ]
+      ]
+     }
     ]
    },
    "part": "communionAntiphon"
@@ -1481,6 +1566,16 @@
       "lines": [
        [
         "Schlussgebet"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
        ]
       ]
      }
@@ -1566,7 +1661,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " ci illumini e ci infiammi, perché, ardenti di santi desideri, portiamo frutti abbondanti di opere buone. Per Cristo nostro Signore.."
+        "ci illumini e ci infiammi, perché, ardenti di santi desideri, portiamo frutti abbondanti di opere buone. Per Cristo nostro Signore.."
        ]
       ]
      }
@@ -1623,6 +1718,21 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus onipotente, a atuação deste divino sacramento, na festa de Santa ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", nos ilumine e nos inflame para que, sempre ardendo de santos desejos, demos copiosos frutos de boas obras. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
     ]
    },
    "part": "postcommunion"
@@ -1634,7 +1744,7 @@
  ],
  "title": {
   "la": "COMMUNE SANCTORUM ET SANCTARUM",
-  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "en-US": "Common of Holy Men and Women",
   "es": "COMÚN DE SANTOS Y SANTAS",
   "it": "COMUNE DEI SANTI E DELLE SANTE",
   "fr": "COMMUN DES SAINTS ET DES SAINTES",

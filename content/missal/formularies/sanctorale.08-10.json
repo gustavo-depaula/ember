@@ -395,7 +395,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -416,7 +416,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -500,7 +500,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1411,8 +1411,8 @@
  ],
  "title": {
   "la": "S. LAURENTII, DIACONI ET MARTYRIS",
-  "pt-BR": "SÃO LOURENÇO, DIÁCONO E MÁRTIR",
-  "en-US": "Saint LAWRENCE, DEACON AND MARTYR",
+  "pt-BR": "São Lourenço, Diácono e Mártir",
+  "en-US": "Saint Lawrence, Deacon and Martyr",
   "es": "SAN LORENZO, DIÁCONO Y MÁRTIR",
   "it": "SAN LORENZO, diacono e martire",
   "fr": "SAINT LAURENT, DIACRE ET MARTYR",

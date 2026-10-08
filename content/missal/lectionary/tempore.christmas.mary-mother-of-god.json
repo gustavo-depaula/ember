@@ -237,7 +237,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first Book of Numbers"
+        "A reading from the Book of Numbers"
        ]
       ],
       "cite": "6:22-27",
@@ -597,7 +597,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 66, 2-3. 5. 6 et 8 (: 2a)",
+      "cite": "Ps 66, 2-3. 5. 6 et 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -609,7 +609,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 66 (67), 2-3.5.6 e 8 (: 2a)",
+      "cite": "Sl 66 (67), 2-3.5.6 e 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -621,7 +621,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 66, 2-3. 5. 6 et 8 (: 2a)",
+      "cite": "Ps 66, 2-3. 5. 6 and 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -633,7 +633,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 66, 2-3. 5. 6 et 8 (: 2a)",
+      "cite": "Sal 66, 2-3. 5. 6 et 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -657,7 +657,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 66, 2-3. 5. 6 et 8 (: 2a)",
+      "cite": "Ps 66, 2-3. 5. 6 et 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps Ps 67 (66), 2-3. 5. 6 u. 8 (R: 2a)",
+      "cite": "Ps Ps 67 (66), 2-3. 5. 6 u. 8 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -1930,7 +1930,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Hebr 1, 1-2",
+      "cite": "Hb 1, 1-2",
       "role": "title"
      },
      {
@@ -2162,7 +2162,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Proclamação do Evangelio de Jesus Cristo segundo Lucas"
+        " Proclamação do Evangelho de Jesus Cristo segundo Lucas"
        ]
       ],
       "cite": "2, 16-21",
@@ -2740,8 +2740,8 @@
  ],
  "title": {
   "la": "In octava Nativitatis Domini — SOLLEMNITAS SANCTÆ DEI GENETRICIS MARIÆ",
-  "pt-BR": "Oitava do Natal do Senhor — SOLENIDADE DA SANTA MÃE DE DEUS, MARIA",
-  "en-US": "The Octave Day of the Nativity of the Lord [Christmas] — SOLEMNITY OF MARY, MOTHER OF GOD",
+  "pt-BR": "Santa Maria, Mãe de Deus",
+  "en-US": "Mary, the Holy Mother of God",
   "es": "Octava de Navidad — SOLEMNIDAD DE SANTA MARÍA, MADRE DE DIOS",
   "it": "SOLENNITÀ DI MARIA SANTISSIMA — MADRE DI DIO",
   "fr": "SOLENNITÉ DE SAINTE MARIE MÈRE DE DIEU",

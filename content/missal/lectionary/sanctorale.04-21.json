@@ -194,7 +194,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra de Deus."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -534,38 +534,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.5"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 33(34), 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a o 9a)",
       "role": "title"
      }
@@ -573,15 +561,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a or 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a or 9a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a o 9a)",
       "role": "title"
      }
@@ -589,7 +585,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 33 (34)",
       "role": "title"
      }
@@ -597,16 +597,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R: vgl. 2a oder 9a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R.: vgl. 2a oder 9a)",
       "role": "title"
      }
     ]
@@ -2301,7 +2309,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesús ensinava as multidões como quem tem autoridade."
+        "Jesus ensinava as multidões como quem tem autoridade."
        ]
       ],
       "role": "summary"
@@ -2909,8 +2917,8 @@
  ],
  "title": {
   "la": "S. Anselmi, episcopi et Ecclesiæ doctoris",
-  "pt-BR": "São Anselmo, bispo e doutor da Igreja",
-  "en-US": "St. Anselm, bishop and doctor of the Church",
+  "pt-BR": "Santo Anselmo, bispo e doutor da Igreja",
+  "en-US": "Saint Anselm, bishop and doctor of the Church",
   "es": "San Anselmo, obispo y Doctor de la Iglesia",
   "it": "Sant'Anselmo, vescovo e dottore della Chiesa",
   "fr": "Saint Anselme, évêque et docteur de l'Église",

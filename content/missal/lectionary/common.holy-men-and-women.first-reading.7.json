@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -88,6 +79,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Concede-nos que cheguemos, juntos, a uma idade avançada."
        ]
       ],
@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Na noite das núpcias, Tobias levantou-se do leito e disse a Sara:\"Levanta-te, irmã! Oremos e imploremos a nosso Senhor que nos conceda misericórdia e salvação\". Ela levantou-se e ambos se puseram a orar e a suplicar que lhes fosse concedida a salvação. Ele começou dizendo: \"Tu es bendito, ó Deus de nossos pais e bendito é o teu nome, por todos os séculos e gerações! Que os céus de todas as tuas criaturas, te bendigam por todos os séculos! Foste tu quem criou Adão, para ele criaste Eva, sua mulher, para que lhe servisse de ajuda e apoio. De ambos teve início ageração dos homens. Tu mesmo disseste: \"Não é bom que o homem esteja só. Vamos fazer-lhe uma auxiliar semelhante a ele\". Agora, Senhor, não é por desejo impuro que eu recebo, como esposa, esta minha irmã, mas faço-o de coração sincero. Sê misericordioso comigo e com ela e concede-nos que cheguemos, juntos, a uma idade avançada\". Disseram, depois, a uma só voz: \"Amém! Amém!"
+        "Na noite das núpcias, Tobias levantou-se do leito e disse a Sara:\"Levanta-te, irmã! Oremos e imploremos a nosso Senhor que nos conceda misericórdia e salvação\". Ela levantou-se e ambos se puseram a orar e a suplicar que lhes fosse concedida a salvação. Ele começou dizendo: \"Tu es bendito, ó Deus de nossos pais e bendito é o teu nome, por todos os séculos e gerações! Que os céus de todas as tuas criaturas, te bendigam por todos os séculos! Foste tu quem criou Adão, para ele criaste Eva, sua mulher, para que lhe servisse de ajuda e apoio. De ambos teve início a geração dos homens. Tu mesmo disseste: \"Não é bom que o homem esteja só. Vamos fazer-lhe uma auxiliar semelhante a ele\". Agora, Senhor, não é por desejo impuro que eu recebo, como esposa, esta minha irmã, mas faço-o de coração sincero. Sê misericordioso comigo e com ela e concede-nos que cheguemos, juntos, a uma idade avançada\". Disseram, depois, a uma só voz: \"Amém! Amém!"
        ]
       ]
      },
@@ -115,7 +115,7 @@
       "k": "p",
       "lines": [
        [
-        "Plavra do Senhor."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -135,7 +135,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the book of Tobit"
+        "A reading from the Book of Tobit"
        ]
       ],
       "cite": "8:4-8",
@@ -160,6 +160,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -259,6 +268,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Degnati di farci giungere insieme alla vecchiaia."
        ]
       ],
@@ -302,6 +320,15 @@
      }
     ],
     "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -363,6 +390,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

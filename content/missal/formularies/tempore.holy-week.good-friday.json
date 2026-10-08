@@ -824,7 +824,12 @@
        ],
        [
         "Qui vivit et regnat in sǽcula sæculórum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -847,7 +852,12 @@
        ],
        [
         "Lembrai-vos de vossas misericórdias, Senhor, e santificai com vossa eterna proteção vossos fiéis, pelos quais o Cristo, vosso Filho, instituiu, por seu sangue, o mistério pascal. Ele, que vive e reina pelos séculos dos séculos."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -888,7 +898,12 @@
        ],
        [
         "Who lives and reigns for ever and ever."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -914,7 +929,12 @@
        ],
        [
         "Él, que vive y reina contigo."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -937,7 +957,12 @@
        ],
        [
         "Ricordati, o Padre, della tua misericordia e santifica con eterna protezione i tuoi fedeli, per i quali Cristo, tuo Figlio, ha istituito nel suo sangue il mistero pasquale. Egli vive e regna nei secoli dei secoli."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -975,7 +1000,12 @@
        ],
        [
         "Lui qui vit et règne pour les siècles des siècles."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1039,7 +1069,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -1052,7 +1082,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -1065,7 +1095,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1078,7 +1108,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -1091,7 +1121,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -1104,7 +1134,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -1117,7 +1147,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1155,7 +1185,12 @@
        ],
        [
         "Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1172,7 +1207,12 @@
       "lines": [
        [
         "Ó Deus, pela paixão de nosso Senhor Jesus Cristo destruístes a morte que o primeiro pecado transmitiu a todo o gênero humano. Concedei que nos tornemos semelhantes ao vosso Filho e, assim como trouxemos pela natureza a imagem do homem terrestre, possamos manter pela graça a imagem do homem celeste. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1210,7 +1250,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1230,7 +1275,12 @@
        ],
        [
         "Por nuestro Señor Jesucristo."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1247,7 +1297,12 @@
       "lines": [
        [
         "O Dio, che nella passione di Cristo nostro Signore ci hai liberati dalla morte, eredità dell'antico peccato trasmessa a tutto il genere umano, rinnovaci a somiglianza del tuo Figlio; e come abbiamo portato in noi, per la nostra nascita, l'immagine dell'uomo terreno, così per l'azione del tuo Spirito fa' che portiamo l'immagine dell'uomo celeste. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -1291,7 +1346,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2128,7 +2188,7 @@
          "m": "rubric",
          "t": "vant la prière du prêtre, on peut aussi employer, conformément à la tradition, la monition du diacre : "
         },
-        " Prions à genoux.",
+        "Prions à genoux.",
         {
          "m": "rubric",
          "t": " , suivie de l'agenouillement de tous pour une prière en silence dont le terme est marqué par l'invitation : "
@@ -2297,7 +2357,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, qui glóriam tuam ómnibus in Christo géntibus revelásti: custódi ópera misericórdiæ tuæ, ut Ecclésia tua, toto orbe diffúsa, stábili fide in confessióne tui nóminis persevéret. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2330,7 +2395,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, que em Cristo revelastes a vossa glória a todos os povos, velai sobre a obra do vosso amor, para que vossa Igreja, presente no mundo inteiro, persevere inabalável na fé e proclame sempre o vosso nome. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2381,7 +2451,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2414,7 +2489,12 @@
        ],
        [
         "Dios todopoderoso y eterno, que en Cristo manifiestas tu gloria a todas las naciones, vela solícito por la obra de tu amor, para que la Iglesia, extendida por todo el mundo, persevere con fe inquebrantable en la confesión de tu nombre. Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2447,7 +2527,12 @@
        ],
        [
         "Dio onnipotente ed eterno, che hai rivelato in Cristo la tua gloria a tutte le genti, custodisci l'opera della tua misericordia, perché la tua Chiesa, diffusa su tutta la terra, perseveri con fede salda nella confessione del tuo nome. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2513,7 +2598,12 @@
        ],
        [
         "pour proclamer ton nom."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2599,7 +2689,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, cuius iudício univérsa fundántur, réspice propítius ad preces nostras, et eléctum nobis Antístitem tua pietáte consérva, ut christiána plebs, quæ te gubernátur auctóre, sub ipso Pontífice, fídei suæ méritis augeátur. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2637,7 +2732,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, em cuja sabedoria tudo tem seu fundamento, dignai-vos escutar nossos pedidos e protegei com amor o Pontífice que escolhestes, para que o povo cristão, que governais por meio dele, possa crescer em sua fé. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2697,7 +2797,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2738,7 +2843,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2766,7 +2876,7 @@
          "m": "rubric",
          "t": "N."
         },
-        "Il Signore Dio nostro, che lo ha scelto nell'ordine episcopale, gli conceda vita e salute e lo conservi alla sua santa Chiesa come guida e pastore del popolo santo di Dio"
+        " Il Signore Dio nostro, che lo ha scelto nell'ordine episcopale, gli conceda vita e salute e lo conservi alla sua santa Chiesa come guida e pastore del popolo santo di Dio"
        ],
        [
         {
@@ -2776,7 +2886,12 @@
        ],
        [
         "Dio onnipotente ed eterno, sapienza che regge l'universo, ascolta la tua famiglia in preghiera, e custodisci con la tua bontà il papa che tu hai scelto per noi, perché il popolo cristiano, da te affidato alla sua guida pastorale, progredisca sempre nella fede. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2844,7 +2959,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2942,7 +3062,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, cuius Spíritu totum corpus Ecclésiæ sanctificátur et régitur, exáudi nos pro minístris tuis supplicántes, ut, grátiæ tuæ múnere, ab ómnibus tibi fidéliter serviátur. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -2980,7 +3105,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, que santificais e governais pelo vosso Espírito todo o corpo da Igreja, escutai as súplicas que vos dirigimos pelos vossos ministros, e fazei que todos, pelo dom da vossa graça, vos sirvam com fidelidade. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3033,7 +3163,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3074,7 +3209,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3110,7 +3250,12 @@
          "t": "Preghiera in silenzio; poi il sacerdote dice:"
         },
         "Dio onnipotente ed eterno, che con il tuo Spirito guidi e santifichi tutto il corpo della Chiesa, accogli le preghiere che ti rivolgiamo, perché secondo il dono della tua grazia tutti i membri della comunità nel loro ordine e grado ti possano fedelmente servire. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3175,7 +3320,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3261,7 +3411,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, qui Ecclésiam tuam nova semper prole fecúndas, auge fidem et intelléctum catechúmenis ( nostris ) ut, renáti fonte baptísmatis, adoptiónis tuæ fíliis aggregéntur. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3314,7 +3469,12 @@
          "t": ")"
         },
         " catecúmenos, para que, renascidos na fonte do batismo, sejam contados entre os vossos filhos adotivos. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3368,7 +3528,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3414,7 +3579,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3460,7 +3630,12 @@
        ],
        [
         "Dio onnipotente ed eterno, che rendi la tua Chiesa sempre feconda di nuovi figli, aumenta nei [nostri] catecumeni l'intelligenza della fede, perché, nati a vita nuova nel fonte battesimale, siano accolti tra i tuoi figli di adozione. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3532,7 +3707,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3629,7 +3809,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, qui dispérsa cóngregas et congregáta consérvas, ad gregem Fílii tui placátus inténde, ut, quos unum baptísma sacrávit, eos et fídei iungat intégritas et vínculum sóciet caritátis. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3662,7 +3847,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, que reunis o que está disperso e conservais o que está unido, velai sobre o rebanho do vosso Filho. Que a integridade da fé e os laços da caridade unam os que foram consagrados por um só Batismo. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3713,7 +3903,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3749,7 +3944,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3782,7 +3982,12 @@
        ],
        [
         "Dio onnipotente ed eterno, che raduni i tuoi figli ovunque dispersi e li custodisci nell'unità, volgi lo sguardo al gregge del tuo Figlio, perché coloro che sono stati consacrati da un solo Battesimo siano una cosa sola nell'integrità della fede e nel vincolo dell'amore. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3848,7 +4053,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3937,8 +4147,13 @@
         }
        ],
        [
-        "Omnípotens sempitérne Deus, qui promissiónes tuas Abrahæ eiúsque sémini contulísti, Ecclésiæ tuæ preces cleménter exáudi, ut pópulus acquisitiónis prióris ad redemptiónis mereátur plenitúdinem perveníre.Per Christum Dóminum nostrum."
-       ],
+        "Omnípotens sempitérne Deus, qui promissiónes tuas Abrahæ eiúsque sémini contulísti, Ecclésiæ tuæ preces cleménter exáudi, ut pópulus acquisitiónis prióris ad redemptiónis mereátur plenitúdinem perveníre. Per Christum Dóminum nostrum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -3971,7 +4186,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, que fizestes vossas promessas a Abraão e seus descendentes, escutai benigno as preces da vossa Igreja. Que o povo da primeira aliança chegue à plenitude da redenção. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4022,7 +4242,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4058,7 +4283,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4091,7 +4321,12 @@
        ],
        [
         "Dio onnipotente ed eterno, che hai affidato le tue promesse ad Abramo e alla sua discendenza, esaudisci con bontà le preghiere della tua Chiesa, perché il popolo primogenito della tua alleanza possa giungere alla pienezza della redenzione. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4151,7 +4386,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4235,7 +4475,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, fac ut qui Christum non confiténtur, coram te sincéro corde ambulántes, invéniant veritátem, nosque, mútuo proficiéntes semper amóre et ad tuæ vitæ mystérium plénius percipiéndum sollícitos, perfectióres éffice tuæ testes caritátis in mundo. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4268,7 +4513,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, dai aos que não creem em Cristo, que, caminhando sob o vosso olhar com sinceridade de coração, encontrem a verdade. E nós, amando-nos melhor uns aos outros, participando com maior solicitude do mistério da vossa vida, sejamos no mundo testemunhas mais fiéis da vossa bondade, Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4322,7 +4572,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4358,7 +4613,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4391,7 +4651,12 @@
        ],
        [
         "Dio onnipotente ed eterno, dona a coloro che non credono in Cristo di trovare la verità camminando alla tua presenza con cuore sincero, e concedi a noi di essere nel mondo testimoni più autentici della tua carità, progredendo nell'amore vicendevole e nella piena conoscenza del mistero della tua vita. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4451,7 +4716,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4538,7 +4808,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, qui cunctos hómines condidísti, ut te semper desiderándo quǽrerent et inveniéndo quiéscerent, præsta, quǽsumus, ut inter nóxia quæque obstácula omnes, tuæ signa pietátis et in te credéntium testimónium bonórum óperum percipiéntes, te solum verum Deum nostríque géneris Patrem gáudeant confitéri. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4571,7 +4846,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, vós criastes todos os seres humanos e pusestes em seu coração o desejo de procurar-vos para que, tendo-vos encontrado, só em vós achassem repouso. Concedei que, entre as dificuldades deste mundo, discernindo os sinais da vossa bondade e vendo o testemunho das boas obras daqueles que creem em vós, tenham a alegria de proclamar que sois o único Deus verdadeiro e Pai de todos os seres humanos. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4637,7 +4917,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4673,7 +4958,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4704,7 +4994,12 @@
        ],
        [
         "Dio onnipotente ed eterno, tu hai messo nel cuore degli uomini una così profonda nostalgia di te che solo quando ti trovano hanno pace: fa' che, tra le difficoltà della vita, tutti riconoscano i segni della tua bontà e, stimolati dalla nostra testimonianza, abbiano la gioia di credere in te, unico vero Dio e Padre di tutti gli uomini. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4776,7 +5071,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4866,7 +5166,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, in cuius manu sunt hóminum corda et iura populórum, réspice benígnus ad eos, qui nos in potestáte moderántur, ut ubíque terrárum populórum prospéritas, pacis secúritas et religiónis libértas, te largiénte, consístant. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4899,7 +5204,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, que tendes na mão os corações dos seres humanos e os direitos dos povos, olhai com bondade aqueles que nos governam. Que por vossa graça se consolidem por toda a terra a prosperidade das nações, a segurança da paz, e a liberdade religiosa. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -4965,7 +5275,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5001,7 +5316,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5020,7 +5340,7 @@
         "IX. ",
         {
          "m": "rubric",
-         "t": " Per i governanti"
+         "t": "Per i governanti"
         }
        ],
        [
@@ -5034,7 +5354,12 @@
        ],
        [
         "Dio onnipotente ed eterno, nelle tue mani sono le speranze degli uomini e i diritti di ogni popolo: assisti con la tua sapienza coloro che ci governano, perché, con il tuo aiuto, promuovano su tutta la terra una pace duratura, la prosperità dei popoli e la libertà religiosa. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5100,7 +5425,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5184,7 +5514,12 @@
        ],
        [
         "Omnípotens sempitérne Deus, mæstórum consolátio, laborántium fortitúdo, pervéniant ad te preces de quacúmque tribulatióne clamántium, ut omnes sibi in necessitátibus suis misericórdiam tuam gáudeant affuísse. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5217,7 +5552,12 @@
        ],
        [
         "Deus eterno e todo-poderoso, sois a consolação dos aflitos e a força dos que labutam. Cheguem até vós as preces dos que clamam em sua aflição, sejam quais forem os seus sofrimentos, para que em suas provações se alegrem com o socorro da vossa misericórdia. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5280,7 +5620,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5316,7 +5661,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5349,7 +5699,12 @@
        ],
        [
         "Dio onnipotente ed eterno, consolazione degli afflitti, sostegno dei sofferenti, ascolta il grido di coloro che sono nella prova, perché tutti nelle loro necessità sperimentino la gioia di aver trovato il soccorso della tua misericordia. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5368,7 +5723,7 @@
         "X. ",
         {
          "m": "rubric",
-         "t": " Pour ceux qui sont dans l'épreuve"
+         "t": "Pour ceux qui sont dans l'épreuve"
         }
        ],
        [
@@ -5427,7 +5782,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5793,14 +6153,24 @@
        ],
        [
         "Ecce lignum Crucis, in quo salus mundi pepéndit."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/."
         },
         " Vénite, adorémus."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5851,21 +6221,36 @@
          "m": "rubric",
          "t": ". Terminado o canto, todos se ajoelham e adoram durante um momento em silêncio, enquanto o sacerdote continua de pé com a Cruz erguida."
         }
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
         "Eis o lenho da Cruz, do qual pendeu a salvação do mundo."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Vinde, adoremos."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5918,14 +6303,24 @@
        ],
        [
         "on which hung the salvation of the world."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
         "Come, let us adore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -5986,7 +6381,12 @@
        ],
        [
         "Mirad al árbol de la Cruz, donde estuvo clavada la salvación del mundo."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -6037,12 +6437,17 @@
         "Venite adoriamo",
         {
          "m": "rubric",
-         "t": ". Finito il canto, tutti si inginocchiano e in silenzio si fermano in adorazione per alcuni istanti, mentre il sacerdote, in piedi, tiene elevata la Croce. "
+         "t": ". Finito il canto, tutti si inginocchiano e in silenzio si fermano in adorazione per alcuni istanti, mentre il sacerdote, in piedi, tiene elevata la Croce."
         }
        ],
        [
         "Ecco il legno della Croce, al quale fu appeso il Cristo, Salvatore del mondo"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -6098,7 +6503,7 @@
         "Venez, adorons.",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ],
        [
@@ -6109,13 +6514,18 @@
        ],
        [
         "Tous répondent :"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Venez, adorons !"
+        "Venez, adorons !"
        ],
        [
         {
@@ -6140,13 +6550,18 @@
          "m": "rubric",
          "t": "Tous répondent :"
         }
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Venez, adorons !"
+        "Venez, adorons !"
        ],
        [
         {
@@ -6165,13 +6580,18 @@
          "m": "rubric",
          "t": "Tous répondent :"
         }
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "R/. "
         },
-        " Venez, adorons !"
+        "Venez, adorons !"
        ]
       ]
      }
@@ -6443,7 +6863,12 @@
        ],
        [
         "qui a porté le salut du monde."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -7268,7 +7693,7 @@
        [
         {
          "m": "rubric",
-         "t": "Antwortgesang "
+         "t": "Antwortgesang"
         }
        ],
        [
@@ -7319,7 +7744,7 @@
        [
         {
          "m": "rubric",
-         "t": "Improperia Partes quæ ad singulos choros spectant, indicantur numeris 1 ( chorus primus et 2 ( chorus secundus ) ; quæ autem ab utroque choro simul cantanda sunt, indicantur hoc modo: 1 et 2. Quidam versus etiam a duobus cantoribus cantari possunt."
+         "t": "Improperia Partes quæ ad singulos choros spectant, indicantur numeris 1 ( chorus primus et 2 ( chorus secundus ); quæ autem ab utroque choro simul cantanda sunt, indicantur hoc modo: 1 et 2. Quidam versus etiam a duobus cantoribus cantari possunt."
         }
        ],
        [
@@ -8204,13 +8629,18 @@
        ],
        [
         "I"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 1. T'ai-je fait sortir du pays d'Égypte"
+        "1. T'ai-je fait sortir du pays d'Égypte"
        ],
        [
         "pour qu'à ton Sauveur tu fasses une croix ?"
@@ -8223,13 +8653,18 @@
        ],
        [
         "Ô Dieu saint, Ô Dieu fort, Ô Dieu immortel, prends pitié de nous."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 2. T'ai-je quarante ans guidé dans le désert"
+        "2. T'ai-je quarante ans guidé dans le désert"
        ],
        [
         "et nourri de la manne,"
@@ -8248,13 +8683,18 @@
        ],
        [
         "Ô Dieu saint, Ô Dieu fort, Ô Dieu immortel, prends pitié de nous."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 3. Qu'aurais-je dû faire encore pour toi que je n'ai pas fait ?"
+        "3. Qu'aurais-je dû faire encore pour toi que je n'ai pas fait ?"
        ],
        [
         "Moi, je t'ai planté comme une vigne de choix, la plus belle :"
@@ -9258,7 +9698,7 @@
          "m": "rubric",
          "t": "V/. "
         },
-        " 4. Moi, j'ai pour toi frappé l'Égypte,"
+        "4. Moi, j'ai pour toi frappé l'Égypte,"
        ],
        [
         "ainsi que tous ses premiers-nés :"
@@ -9277,13 +9717,18 @@
        ],
        [
         "En quoi t'ai-je contristé ? Réponds-moi !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 5. Moi, je t'ai fait sortir d'Égypte,"
+        "5. Moi, je t'ai fait sortir d'Égypte,"
        ],
        [
         "j'ai englouti le Pharaon,"
@@ -9305,13 +9750,18 @@
        ],
        [
         "En quoi t'ai-je contristé ? Réponds-moi !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 6. Moi, devant toi j'ouvris la mer :"
+        "6. Moi, devant toi j'ouvris la mer :"
        ],
        [
         "toi, tu m'as ouvert de ta lance !"
@@ -9327,13 +9777,18 @@
        ],
        [
         "En quoi t'ai-je contristé ? Réponds-moi !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 7. Moi, devant toi je m'avançai"
+        "7. Moi, devant toi je m'avançai"
        ],
        [
         "dans la colonne de nuée :"
@@ -9352,13 +9807,18 @@
        ],
        [
         "En quoi t'ai-je contristé ? Réponds-moi !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 8. Moi, j'ai veillé dans le désert"
+        "8. Moi, j'ai veillé dans le désert"
        ],
        [
         "et de la manne t'ai nourri :"
@@ -9377,13 +9837,18 @@
        ],
        [
         "En quoi t'ai-je contristé ? Réponds-moi !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 9. Moi, aux eau vives du rocher"
+        "9. Moi, aux eau vives du rocher"
        ],
        [
         "je t'ai fait boire le salut :"
@@ -9405,13 +9870,18 @@
        ],
        [
         "En quoi t'ai-je contristé ? Réponds-moi !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 10. Moi, j'ai pour toi frappé les rois,"
+        "10. Moi, j'ai pour toi frappé les rois,"
        ],
        [
         "les puissants rois de Canaan :"
@@ -9430,13 +9900,18 @@
        ],
        [
         "En quoi t'ai-je contristé ? Réponds-moi !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 11. Moi, dans ta main j'ai mis le sceptre,"
+        "11. Moi, dans ta main j'ai mis le sceptre,"
        ],
        [
         "je t'ai promu peuple royal :"
@@ -9455,13 +9930,18 @@
        ],
        [
         "En quoi t'ai-je contristé ? Réponds-moi !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 12. Moi, je t'ai par ma toute-puissance exalté :"
+        "12. Moi, je t'ai par ma toute-puissance exalté :"
        ],
        [
         "toi, tu m'as pendu au gibet de la croix."
@@ -10713,7 +11193,7 @@
          "m": "rubric",
          "t": "Todos: "
         },
-        " Al Dios de los designios de la historia,"
+        "Al Dios de los designios de la historia,"
        ],
        [
         "que es Padre, Hijo y Espíritu, alabanza;"
@@ -10908,13 +11388,18 @@
        ],
        [
         "qui porte un si doux fardeau !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 1. Chante, ma langue, le combat, la glorieuse lutte ;"
+        "1. Chante, ma langue, le combat, la glorieuse lutte ;"
        ],
        [
         "sur le trophée de la croix, proclame le noble triomphe :"
@@ -10936,13 +11421,18 @@
        ],
        [
         "avec ces feuilles, ces fleurs et ces fruits !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 2. Attristé de l'égarement de notre premier père,"
+        "2. Attristé de l'égarement de notre premier père,"
        ],
        [
         "qui tomba dans la mort en mordant le fruit néfaste,"
@@ -10961,13 +11451,18 @@
        ],
        [
         "qui porte un si doux fardeau !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 3. Cette œuvre de salut, l'ordre divin l'exigeait,"
+        "3. Cette œuvre de salut, l'ordre divin l'exigeait,"
        ],
        [
         "pour vaincre par la ruse la ruse multiforme du malin,"
@@ -10989,13 +11484,18 @@
        ],
        [
         "avec ces feuilles, ces fleurs et ces fruits !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 4. Quand vint donc la plénitude du temps,"
+        "4. Quand vint donc la plénitude du temps,"
        ],
        [
         "le Fils, créateur du monde, fut envoyé d'auprès du Père."
@@ -11014,13 +11514,18 @@
        ],
        [
         "qui porte un si doux fardeau !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 5. L'enfant pleure, caché dans une étroite mangeoire,"
+        "5. L'enfant pleure, caché dans une étroite mangeoire,"
        ],
        [
         "la Vierge sa Mère entoure de langes ses membres,"
@@ -11042,13 +11547,18 @@
        ],
        [
         "avec ces feuilles, ces fleurs et ces fruits !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 6. Trente années achevées, au terme de sa vie corporelle,"
+        "6. Trente années achevées, au terme de sa vie corporelle,"
        ],
        [
         "il se livre volontairement à la passion pour laquelle il était né."
@@ -11067,13 +11577,18 @@
        ],
        [
         "qui porte un si doux fardeau !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 7. Voici vinaigre, fiel, roseau, crachats, clous et lances !"
+        "7. Voici vinaigre, fiel, roseau, crachats, clous et lances !"
        ],
        [
         "Le doux corps est transpercé, le sang et l'eau ruissellent ;"
@@ -11095,13 +11610,18 @@
        ],
        [
         "avec ces feuilles, ces fleurs et ces fruits !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 8. Fléchis tes branches, grand arbre, relâche le corps tendu ;"
+        "8. Fléchis tes branches, grand arbre, relâche le corps tendu ;"
        ],
        [
         "assouplis la dureté reçue de la nature ;"
@@ -11120,13 +11640,18 @@
        ],
        [
         "qui porte un si doux fardeau !"
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 9. Toi seul as mérité de porter la rançon du monde"
+        "9. Toi seul as mérité de porter la rançon du monde"
        ],
        [
         "et de lui préparer un havre après son naufrage,"
@@ -11154,13 +11679,18 @@
          "m": "rubric",
          "t": "La conclusion est toujours utilisée :"
         }
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
          "t": "V/. "
         },
-        " 10. Au Père et à son Fils, à l'illustre Consolateur,"
+        "10. Au Père et à son Fils, à l'illustre Consolateur,"
        ],
        [
         "à l'heureuse Trinité, gloire égale et éternelle,"
@@ -11268,7 +11798,7 @@
        [
         {
          "m": "rubric",
-         "t": "Teniendo en cuenta las condiciones del lugar y las tradiciones del pueblo,según la oportunidad pastoral, se puede cantar el Stabat Mater, según el Gradual Romano, u otro canto apropiado en memoria de la compasión de santa María Virgen."
+         "t": "Teniendo en cuenta las condiciones del lugar y las tradiciones del pueblo, según la oportunidad pastoral, se puede cantar el Stabat Mater, según el Gradual Romano, u otro canto apropiado en memoria de la compasión de santa María Virgen."
         }
        ],
        [
@@ -12129,7 +12659,7 @@
        [
         {
          "m": "rubric",
-         "t": "Les mains étendues, le prêtre, seul, continue "
+         "t": "Les mains étendues, le prêtre, seul, continue"
         }
        ]
       ]
@@ -12850,7 +13380,7 @@
        [
         {
          "m": "rubric",
-         "t": "Seguidamente hace genuflexión, toma una partícula, la mantiene un poco elevada sobre el píxide y,dirigiéndose al pueblo, dice con voz clara:"
+         "t": "Seguidamente hace genuflexión, toma una partícula, la mantiene un poco elevada sobre el píxide y, dirigiéndose al pueblo, dice con voz clara:"
         }
        ]
       ]
@@ -13658,7 +14188,12 @@
       "lines": [
        [
         "Omnípotens sempitérne Deus, qui nos Christi tui beáta morte et resurrectióne reparásti, consérva in nobis opus misericórdiæ tuæ, ut huius mystérii participatióne perpétua devotióne vivámus. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13675,7 +14210,12 @@
       "lines": [
        [
         "Ó Deus eterno e todo-poderoso, que nos renovastes pela santa morte e ressurreição do vosso Cristo, conservai em nós a obra da vossa misericórdia, para que, pela participação neste mistério, vos consagremos sempre a nossa vida. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13707,7 +14247,12 @@
        ],
        [
         "Through Christ our Lord."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13727,7 +14272,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13750,7 +14300,12 @@
        ],
        [
         "Dio onnipotente ed eterno, che ci hai rinnovati con la gloriosa morte e risurrezione del tuo Cristo, custodisci in noi l'opera della tua misericordia, perché la partecipazione a questo grande mistero ci consacri sempre al tuo servizio. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13785,7 +14340,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -13987,7 +14547,12 @@
       "lines": [
        [
         "Super pópulum tuum, quǽsumus, Dómine, qui mortem Fílii tui in spe suæ resurrectiónis recóluit, benedíctio copiósa descéndat, indulgéntia véniat, consolátio tribuátur, fides sancta succréscat, redémptio sempitérna firmétur. Per Christum Dóminum nostrum."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14004,7 +14569,12 @@
       "lines": [
        [
         "Que a vossa bênção, Senhor, desça copiosa sobre o vosso povo, que acaba de celebrar a morte do vosso Filho na esperança da sua ressurreição. Venha o vosso perdão, seja dado o vosso consolo, cresça a fé verdadeira e a redenção eterna se confirme. Por Cristo, nosso Senhor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14052,7 +14622,12 @@
        ],
        [
         "Por Jesucristo, nuestro Señor."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14075,7 +14650,12 @@
        ],
        [
         "Scenda, o Padre, la tua benedizione su questo popolo che ha celebrato la morte del tuo Figlio nella speranza di risorgere con lui; venga il perdono e la consolazione, si accresca la fede, si rafforzi la certezza nella redenzione eterna. Per Cristo nostro Signore."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14113,7 +14693,12 @@
        ],
        [
         "Par le Christ, notre Seigneur."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -14446,8 +15031,8 @@
  ],
  "title": {
   "la": "Hebdomada Sancta — SACRUM TRIDUUM PASCHALE — FERIA VI IN PASSIONE DOMINI",
-  "pt-BR": "Semana Santa — SAGRADO TRÍDUO PASCAL — SEXTA-FEIRA DA PAIXÃO DO SENHOR",
-  "en-US": "FRIDAY OF THE PASSION OF THE LORD — [GOOD FRIDAY]",
+  "pt-BR": "Sexta-feira da Paixão do Senhor",
+  "en-US": "Friday of the Passion of the Lord",
   "es": "Santo Triduo Pascual — VIERNES SANTO",
   "it": "SETTIMANA SANTA — TRIDUO PASQUALE — VENERDÍ SANTO PASSIONE DEL SIGNORE",
   "fr": "Triduum pascal — Vendredi Saint — JEUDI SAINT – CÈNE DU SEIGNEUR — CÉLÉBRATION DE LA PASSION DU SEIGNEUR",

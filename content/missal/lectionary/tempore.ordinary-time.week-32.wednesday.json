@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -757,7 +757,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 81, 3-4. 6-7 (: 8a)",
+      "cite": "Ps 81, 3-4. 6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -769,7 +769,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 81(82), 3-4.6-7 (: 8a)",
+      "cite": "Sl 81(82), 3-4.6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -781,7 +781,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 81, 3-4. 6-7 (: 8a)",
+      "cite": "Ps 81, 3-4. 6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -793,7 +793,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 81, 3-4. 6-7 (: 8a)",
+      "cite": "Sal 81, 3-4. 6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -817,7 +817,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 81, 3-4. 6-7 (: 8a)",
+      "cite": "Ps 81, 3-4. 6-7 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -829,7 +829,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 82 (81), 3-4. 6-7 (R: 8a)",
+      "cite": "Ps 82 (81), 3-4. 6-7 (R.: 8a)",
       "role": "title"
      }
     ]
@@ -1973,7 +1973,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -1985,7 +1985,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 22 (23), 1-3a.3b-4.5.6 (: 1)",
+      "cite": "Sl 22 (23), 1-3a.3b-4.5.6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -1997,7 +1997,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2009,7 +2009,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Sal 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2033,7 +2033,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -2045,7 +2045,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R: 1)",
+      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ]
@@ -4013,7 +4013,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXXII",
   "pt-BR": "Quarta-feira da 32ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 32nd Week: Wednesday",
+  "en-US": "Wednesday of the Thirty-Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 32ª semana",
   "it": "MERCOLEDI della XXXII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 32e semaine",

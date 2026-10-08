@@ -552,7 +552,7 @@
       "k": "p",
       "lines": [
        [
-        "Dio onnipotente e misericordioso, che hai infuso nel cuore dei popoli la conoscenza di Cristo tuo Figlio con la predicazione dei santi martiri",
+        "Dio onnipotente e misericordioso, che hai infuso nel cuore dei popoli la conoscenza di Cristo tuo Figlio con la predicazione dei santi martiri ",
         {
          "m": "rubric",
          "t": "N. "
@@ -1130,7 +1130,7 @@
         "Alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1170,7 +1170,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1184,7 +1184,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1198,7 +1198,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1226,7 +1226,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -1240,7 +1240,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1345,7 +1345,7 @@
         "Allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1651,8 +1651,8 @@
  ],
  "title": {
   "la": "COMMUNE MARTYRUM",
-  "pt-BR": "COMUM DOS MÁRTIRES",
-  "en-US": "COMMON OF MARTYRS",
+  "pt-BR": "Comum dos Mártires",
+  "en-US": "Common of Martyrs",
   "es": "COMÚN DE MÁRTIRES",
   "it": "COMUNE DEI MARTIRI",
   "fr": "COMMUN DES MARTYRS",

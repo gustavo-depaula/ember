@@ -385,7 +385,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -403,7 +403,7 @@
         "Glória",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -487,7 +487,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1352,8 +1352,8 @@
  ],
  "title": {
   "la": "S. MARCI, EVANGELISTÆ",
-  "pt-BR": "SÃO MARCOS, EVANGELISTA",
-  "en-US": "Saint MARK, EVANGELIST",
+  "pt-BR": "São Marcos, Evangelista",
+  "en-US": "Saint Mark, Evangelist",
   "es": "SAN MARCOS, EVANGELISTA",
   "it": "SAN MARCO EVANGELISTA",
   "fr": "SAINT MARC, ÉVANGÉLISTE",

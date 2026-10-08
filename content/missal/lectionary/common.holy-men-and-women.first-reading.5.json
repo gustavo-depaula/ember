@@ -17,25 +17,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -134,6 +125,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Permanece sobre o monte diante do Senhor."
        ]
       ],
@@ -153,7 +153,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, Elias entrou deserto adentro e caminhou o dia todo. Sentou-se finalmente debaixo de um junípero e, e pediu para si a morte, dizendo: \"Agora basta, Senhor! Tira a minha vida, pois não sou melhor que meus pais\". E, deitando-se no chão adormeceu à sombra do junípero. De repente, um anjo tocou-o e disse: \"Levanta-te e come\". Ele abriu os olhos e viu junto à sua cabeça um pão assado debaixo da cinza e um jarro de água. Comeu, bebeu e tornou a dormir. Mas o anjo do Senhor veio pela segunda vez, tocou-o e disse: \"Levanta-te e come! Ainda tens um caminho longo a percorrer\". Elias levantou-se, comeu e bebeu, e com a força desse alimento, andou quarenta dias e quarenta noites até chegar ao Horeb, o monte de Deus. Chegando ali, entrou num gruta onde passou a noite. O Senhor disse-lhe: \"Sai e permance sobre o monte diante do Senhor, porque o Senhor vai passar\". Antes do Senhor, porém, veio um vento impetuoso e forte, que desfazia as montanhas e quebrava os rochedos. Mas o Senhor não estava no vento. Depois do vento, houve um terremoto. Mas o Senhor não estava no terremoto. Passado o terremoto, veio um fogo. Mas o Senhor não estava no fogo. E depois do fogo, ouviu-se um murmúrio de uma leve brisa. Ouvindo isto, Elias cobriu o rosto com o manto, saiu e pôs-se à entrada da gruta. Ouviu, então, uma voz que dizia: \"Que fazes aqui, Elias?\". Ele respondeu: \"Estou ardendo de zelo pelo Senhor, Deus Todo-poderoso, porque os filhos de Israel abandonaram tua aliança, demoliram teus altares e mataram à espada teus profetas. Só eu escapei. Mas, agora. também querem matar-me\". O Senhor disse-lhe: \"Vai e toma o teu caminho de volta, na direção do deserto de Damasco»."
+        "Naqueles dias, Elias entrou deserto adentro e caminhou o dia todo. Sentou-se finalmente debaixo de um junípero e, e pediu para si a morte, dizendo: \"Agora basta, Senhor! Tira a minha vida, pois não sou melhor que meus pais\". E, deitando-se no chão adormeceu à sombra do junípero. De repente, um anjo tocou-o e disse: \"Levanta-te e come\". Ele abriu os olhos e viu junto à sua cabeça um pão assado debaixo da cinza e um jarro de água. Comeu, bebeu e tornou a dormir. Mas o anjo do Senhor veio pela segunda vez, tocou-o e disse: \"Levanta-te e come! Ainda tens um caminho longo a percorrer\". Elias levantou-se, comeu e bebeu, e com a força desse alimento, andou quarenta dias e quarenta noites até chegar ao Horeb, o monte de Deus. Chegando ali, entrou num gruta onde passou a noite. O Senhor disse-lhe: \"Sai e permanece sobre o monte diante do Senhor, porque o Senhor vai passar\". Antes do Senhor, porém, veio um vento impetuoso e forte, que desfazia as montanhas e quebrava os rochedos. Mas o Senhor não estava no vento. Depois do vento, houve um terremoto. Mas o Senhor não estava no terremoto. Passado o terremoto, veio um fogo. Mas o Senhor não estava no fogo. E depois do fogo, ouviu-se um murmúrio de uma leve brisa. Ouvindo isto, Elias cobriu o rosto com o manto, saiu e pôs-se à entrada da gruta. Ouviu, então, uma voz que dizia: \"Que fazes aqui, Elias?\". Ele respondeu: \"Estou ardendo de zelo pelo Senhor, Deus Todo-poderoso, porque os filhos de Israel abandonaram tua aliança, demoliram teus altares e mataram à espada teus profetas. Só eu escapei. Mas, agora. também querem matar-me\". O Senhor disse-lhe: \"Vai e toma o teu caminho de volta, na direção do deserto de Damasco»."
        ]
       ]
      },
@@ -214,6 +214,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -313,6 +322,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Fermati sul monte alla presenza del Signore!"
        ]
       ],
@@ -369,6 +387,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Premier livre des Rois"
        ]
       ],
@@ -394,6 +421,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

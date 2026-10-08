@@ -360,7 +360,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -381,7 +381,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -465,7 +465,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1335,8 +1335,8 @@
  ],
  "title": {
   "la": "SS. INNOCENTIUM, MARTYRUM",
-  "pt-BR": "OS SANTOS INOCENTES, MÁRTIRES",
-  "en-US": "THE HOLY INNOCENTS, MARTYRS",
+  "pt-BR": "Os Santos Inocentes, Mártires",
+  "en-US": "The Holy Innocents, Martyrs",
   "es": "LOS SANTOS INOCENTES, MÁRTIRES",
   "it": "SANTI INNOCENTI MARTIRI",
   "fr": "LES SAINTS INNOCENTS, MARTYRS",

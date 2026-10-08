@@ -182,6 +182,17 @@
       ],
       "cite": "Mt 25, 34. 36. 40"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Mt 25,34.36.40"
+     }
     ]
    },
    "part": "entranceAntiphon"
@@ -201,7 +212,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -295,7 +306,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -307,6 +318,25 @@
       "lines": [
        [
         "So spricht der Herr: Kommt her, ihr, die ihr von meinem Vater gesegnet seid; ich war krank, und ihr habt mich besucht. Amen, ich sage euch: Was ihr für einen meiner geringsten Brüder getan habt, das habt ihr für mich getan."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vinde, benditos do meu Pai, diz o Senhor. Estava doente e me visitastes. Em verdade vos digo: todas as vezes que fizestes isso a um destes pequeninos que são meus irmãos, foi a mim que o fizestes ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " aleluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
        ]
       ]
      }
@@ -323,7 +353,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -337,7 +367,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -365,7 +395,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -379,7 +409,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -783,6 +813,16 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
     ]
    },
    "part": "prayerOverOfferings"
@@ -900,6 +940,21 @@
       "lines": [
        [
         "Barmherziger Gott, wir feiern an diesem Altar das Werk, das Christus in seiner großen Liebe für uns getan hat. Nimm die Gaben deines Volkes an und gib, dass wir nach dem Beispiel deiner Heiligen feststehen in der Liebe zu dir und zu den Menschen. Darum bitten wir durch Christus, unseren Herrn."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recebei, Senhor, os dons do vosso povo e concedei a nós, que recordamos a obra da imensa caridade do vosso Filho, ser confirmados, a exemplo de São ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", no amor a vós e ao próximo. Por Cristo, nosso Senhor."
        ]
       ]
      }
@@ -1039,6 +1094,17 @@
       ],
       "cite": "Joh 15, 13"
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf Jo 15,13"
+     }
     ]
    },
    "part": "communionAntiphon"
@@ -1058,7 +1124,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1139,7 +1205,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1151,6 +1217,25 @@
       "lines": [
        [
         "Es gibt keine größere Liebe als die, wenn einer sein Leben gibt für seine Freunde."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ninguém tem maior amor do que aquele que dá a vida por seus amigos ",
+        {
+         "m": "rubric",
+         "t": "(T. P."
+        },
+        " aleluia",
+        {
+         "m": "rubric",
+         "t": ")."
+        }
        ]
       ]
      }
@@ -1167,7 +1252,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1181,7 +1266,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1195,7 +1280,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -1209,7 +1294,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1223,7 +1308,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1394,6 +1479,16 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
     ]
    },
    "part": "postcommunion"
@@ -1522,6 +1617,21 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Revigorados por estes sagrados mistérios, concedei-nos, Senhor, seguir o exemplo de São ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", que vos serviu com filial constância e se dedicou ao vosso povo com imensa caridade. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
     ]
    },
    "part": "postcommunion"
@@ -1548,7 +1658,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1561,7 +1671,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -1600,7 +1710,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1752,7 +1862,7 @@
  ],
  "title": {
   "la": "COMMUNE SANCTORUM ET SANCTARUM",
-  "en-US": "COMMON OF HOLY MEN AND WOMEN",
+  "en-US": "Common of Holy Men and Women",
   "es": "COMÚN DE SANTOS Y SANTAS",
   "it": "COMUNE DEI SANTI E DELLE SANTE",
   "fr": "COMMUN DES SAINTS ET DES SAINTES",

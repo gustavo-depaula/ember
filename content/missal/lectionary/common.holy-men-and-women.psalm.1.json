@@ -3,60 +3,62 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 1, 1-2. 3. 4 e 6 (R.: 2a ou 39, 5a ou 91, 13-14)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 and 6 (R.: 2a or 39, 5a or 91, 13-14)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 1",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 et 6 (: 2a vel 39, 5a vel 91, 13-14)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 et 6 (R.: 2a vel 39, 5a vel 91, 13-14)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R: 2a oder vgl. Jer 17, 7 oder Ps 92 [91], 13-14)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 1, 1-2. 3. 4 u. 6 (R.: 2a oder vgl. Jer 17, 7 oder Ps 92 [91], 13-14)",
       "role": "title"
      }
     ]

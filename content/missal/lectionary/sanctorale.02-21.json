@@ -224,7 +224,7 @@
       "k": "p",
       "lines": [
        [
-        "Before God and before Christ Jesus who is to be judge of the living and the dead, I put this duty to you, in the name of his Appearing and of his kingdom: proclaim the message and, welcome or unwelcome, insist on it. Refute falsehood, correct error, call to obedience - but do all with patience and with the intention of teaching. The time is sure to come when, far from being content with sound teaching, people will be avid for the latest novelty and collect themselves a whole series of teachers according to their own tastes; 4:4and then, instead of listening to the truth, they will turn to myths. Be careful always to choose the right course; be brave under trials; make the preaching of the Good News your life's work, in thoroughgoing service."
+        "Before God and before Christ Jesus who is to be judge of the living and the dead, I put this duty to you, in the name of his Appearing and of his kingdom: proclaim the message and, welcome or unwelcome, insist on it. Refute falsehood, correct error, call to obedience - but do all with patience and with the intention of teaching. The time is sure to come when, far from being content with sound teaching, people will be avid for the latest novelty and collect themselves a whole series of teachers according to their own tastes; and then, instead of listening to the truth, they will turn to myths. Be careful always to choose the right course; be brave under trials; make the preaching of the Good News your life's work, in thoroughgoing service."
        ]
       ]
      },
@@ -526,54 +526,50 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 15(16), 1-2a y 5. 7-8. 11 (R.: cf. 5a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 15(16), 1-2a e 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 15:1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 15:1-2a and 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 15, 1-2a y 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
@@ -581,7 +577,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 15 (16)",
       "role": "title"
      }
@@ -589,16 +589,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "15, 1-2a et 5. 7-8. 11 (: cf. 5a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R: vgl. 5a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R.: vgl. 5a)",
       "role": "title"
      }
     ]
@@ -1391,30 +1399,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "13"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -1455,7 +1447,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 15, 9b. 5b",
       "role": "title"
      },
@@ -1493,7 +1489,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 15:9.5",
       "role": "title"
      },
@@ -1515,7 +1515,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 15, 9b. 5b",
       "role": "title"
      },
@@ -1556,7 +1560,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 15, 9b.5b",
       "role": "title"
      },
@@ -1578,7 +1586,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -1619,7 +1631,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 15, 9b. 5b",
       "role": "title"
      },
@@ -2278,7 +2294,7 @@
  "title": {
   "la": "S. Petri Damiani, episcopi et Ecclesiæ doctoris",
   "pt-BR": "São Pedro Damião, bispo e doutor da Igreja",
-  "en-US": "St. Peter Damian, bishop and doctor of the Church",
+  "en-US": "Saint Peter Damian, bishop and doctor of the Church",
   "es": "San Pedro Damiani, obispo y doctor de la Iglesia",
   "it": "San Pier Damiani, vescovo e dottore della Chiesa",
   "fr": "Saint Pierre Damien, évêque et docteur de l'Église",

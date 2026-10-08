@@ -107,6 +107,11 @@ export interface Item {
   // For a `readings` mark: the tag of the one reading that stands here (the
   // Easter Vigil places each of its nine). Absent, the mark stands for all.
   at?: Tag
+  // Said only on these days, or on every day but these: the Roman Canon's
+  // proper Communicantes, and the ordinary one they replace. The names are the
+  // conditions `assembleMass` reports for a day.
+  when?: string[]
+  unless?: string[]
   text?: Partial<Record<TextKey, Block[]>>
 }
 
@@ -147,8 +152,16 @@ export interface SanctoralEntry {
   id: string
   month: number
   day: number
-  // Absent: the General Roman Calendar.
+  // Absent: the General Roman Calendar. An entry for a region stands in place
+  // of the General Calendar's entry of the same id there.
   regions?: string[]
+  // Its number in the Table of Liturgical Days in these regions, where that
+  // differs from the formulary's own (Our Lady of Mount Carmel is a feast in
+  // Brazil).
+  precedence?: number
+  // Kept on the Sunday that falls on this date or after it (Brazil keeps Saints
+  // Peter and Paul, the Assumption and All Saints on a Sunday).
+  sunday?: boolean
 }
 
 export interface MovableEntry {

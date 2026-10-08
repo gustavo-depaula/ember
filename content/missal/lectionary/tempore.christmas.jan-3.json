@@ -192,7 +192,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Primeira Epístola de São João"
+        "Leitura da Primeira Carta de São João"
        ]
       ],
       "cite": "2, 29; 3, 1-6",
@@ -595,7 +595,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 97, 1. 3cd-4. 5-6 (: 3cd)",
+      "cite": "Ps 97, 1. 3cd-4. 5-6 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -607,7 +607,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 97 (98), 1.3cd-4.5-6 (: 3cd)",
+      "cite": "Sl 97 (98), 1.3cd-4.5-6 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -619,7 +619,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 97, 1. 3cd-4. 5-6 (: 3cd)",
+      "cite": "Ps 97, 1. 3cd-4. 5-6 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -631,7 +631,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 97, 1. 3cd-4. 5-6 (: 3cd)",
+      "cite": "Sal 97, 1. 3cd-4. 5-6 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -655,7 +655,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 97, 1. 3cd-4. 5-6 (: 3cd)",
+      "cite": "Ps 97, 1. 3cd-4. 5-6 (R.: 3cd)",
       "role": "title"
      }
     ],
@@ -667,7 +667,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 98 (97), 1. 3c-4. 5-6 (R: vgl. 3cd)",
+      "cite": "Ps 98 (97), 1. 3c-4. 5-6 (R.: vgl. 3cd)",
       "role": "title"
      }
     ]
@@ -2041,7 +2041,7 @@
       "k": "p",
       "lines": [
        [
-        "No dia seguinte, João viu Jesus aproximar-se dele e disse:\"Eis o Cordeiro de Deus, que tira o pecado do mundo. Dele é que eu disse: Depois de mim vem um homem que passou à minha frente, porque existia antes de mim. Também eu não o conhecia, mas se eu vim batizar com água, foi para que ele fosse manifestado a Israel\". E João deu testemunho, dizendo:\"Eu vi o Espírito descer, como uma pomba do céu, e permanecer sobre ele. Também eu não o conhecia, mas aquele que me enviou a batizar com água me disse: 'Aquele sobre quem vires o Espírito descer epermanecer, este é quem batiza com o Espírito Santo'.Eu vi e dou testemunho: Este é o Filho de Deus!\""
+        "No dia seguinte, João viu Jesus aproximar-se dele e disse:\"Eis o Cordeiro de Deus, que tira o pecado do mundo. Dele é que eu disse: Depois de mim vem um homem que passou à minha frente, porque existia antes de mim. Também eu não o conhecia, mas se eu vim batizar com água, foi para que ele fosse manifestado a Israel\". E João deu testemunho, dizendo:\"Eu vi o Espírito descer, como uma pomba do céu, e permanecer sobre ele. Também eu não o conhecia, mas aquele que me enviou a batizar com água me disse: 'Aquele sobre quem vires o Espírito descer e permanecer, este é quem batiza com o Espírito Santo'.Eu vi e dou testemunho: Este é o Filho de Deus!\""
        ]
       ]
      },
@@ -2283,8 +2283,8 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 3 ianuarii",
-  "pt-BR": "DIAS DE SEMANA DO TEMPO DO NATAL — 3 de janeiro",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 3",
+  "pt-BR": "3 de janeiro",
+  "en-US": "January 3",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 3 de enero",
   "it": "3 gennaio",
   "fr": "Temps de Noël",

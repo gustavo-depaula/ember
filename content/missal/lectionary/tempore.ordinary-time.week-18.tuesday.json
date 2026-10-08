@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -299,7 +299,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first Book of Numbers"
+        "A reading from the Book of Numbers"
        ]
       ],
       "cite": "12:1-13",
@@ -708,7 +708,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 50, 3-4. 5-6a. 6bc-7. 12-13 (: cf. 3a)",
+      "cite": "Ps 50, 3-4. 5-6a. 6bc-7. 12-13 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -720,7 +720,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 50 (51), 3-4.5-6a.6bc-7.12-13 (:cf. 3a)",
+      "cite": "Sl 50 (51), 3-4.5-6a.6bc-7.12-13 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -732,7 +732,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 50, 3-4. 5-6a. 6bc-7. 12-13 (: cf. 3a)",
+      "cite": "Ps 50, 3-4. 5-6a. 6bc-7. 12-13 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -744,7 +744,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 50, 3-4. 5-6a. 6bc-7. 12-13 (: cf. 3a)",
+      "cite": "Sal 50, 3-4. 5-6a. 6bc-7. 12-13 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -768,7 +768,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 50, 3-4. 5-6a. 6bc-7. 12-13 (: cf. 3a)",
+      "cite": "Ps 50, 3-4. 5-6a. 6bc-7. 12-13 (R.: cf. 3a)",
       "role": "title"
      }
     ],
@@ -780,7 +780,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 51 (50), 3-4. 5-6b. 6c-7. 12-13 (R: vgl. 3)",
+      "cite": "Ps 51 (50), 3-4. 5-6b. 6c-7. 12-13 (R.: vgl. 3)",
       "role": "title"
      }
     ]
@@ -931,7 +931,7 @@
         "Lavai-me todo inteiro do pecado,"
        ],
        [
-        "e apagai completamente a minha culpa!."
+        "e apagai completamente a minha culpa!"
        ]
       ]
      }
@@ -1167,7 +1167,7 @@
         "Foi contra vós, só contra vós, que eu pequei,"
        ],
        [
-        "e pratiquei o que é mau aos vossos olhos!."
+        "e pratiquei o que é mau aos vossos olhos!"
        ]
       ]
      }
@@ -1630,7 +1630,7 @@
         "Ó Senhor, não me afasteis de vossa face,"
        ],
        [
-        "nem retireis de mim o vosso Santo Espírito!."
+        "nem retireis de mim o vosso Santo Espírito!"
        ]
       ]
      }
@@ -2592,7 +2592,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (: 17)",
+      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -2604,7 +2604,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 101 (102), 16-18.19-21.29 e 22-23 (: 17)",
+      "cite": "Sl 101 (102), 16-18.19-21.29 e 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -2616,7 +2616,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (: 17)",
+      "cite": "Ps 101, 16-18. 19-21. 29 and 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -2628,7 +2628,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 101, 16-18. 19-21. 29 et 22-23 (: 17)",
+      "cite": "Sal 101, 16-18. 19-21. 29 et 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -2652,7 +2652,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (: 17)",
+      "cite": "Ps 101, 16-18. 19-21. 29 et 22-23 (R.: 17)",
       "role": "title"
      }
     ],
@@ -2664,7 +2664,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 102 (101), 16-17. 18-19. 20-21. 29 u. 22 (R: 17)",
+      "cite": "Ps 102 (101), 16-17. 18-19. 20-21. 29 u. 22 (R.: 17)",
       "role": "title"
      }
     ]
@@ -5009,7 +5009,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XVIII",
   "pt-BR": "Terça-feira da 18ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 18th Week: Tuesday",
+  "en-US": "Tuesday of the Eighteenth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 18ª semana",
   "it": "MARTEDI della XVIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 18e semaine",

@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "15"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -72,7 +63,16 @@
       "k": "p",
       "lines": [
        [
-        "Cada um coloque à disposição dos outros o dom que rcebeu."
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cada um coloque à disposição dos outros o dom que recebeu."
        ]
       ],
       "role": "summary"
@@ -81,7 +81,7 @@
       "k": "p",
       "lines": [
        [
-        "Lectura da Primeira Carta de São Pedro"
+        "Leitura da Primeira Carta de São Pedro"
        ]
       ],
       "cite": "4, 7b-11",
@@ -91,7 +91,7 @@
       "k": "p",
       "lines": [
        [
-        "Caríssimos: Vivei com inteligência e vigiai, dados a oração. Sobretudo, cultivai o amor mutuo. com todo o ardor, porque o amor cobre a multidão de pecados. Sede hospitaleiros uns com os outros, sem reclamações. Como bons administradores da multiforme graça de Deus, cada um coloque à disposição dos outros o dom que recebeu. Se alguém tem o dom de falar, proceda como com palavras de Deus. Se alguem tem o dom de serviço, exerça-o como capacidade proporcionada por Deus, a fim de que em todas as coisas, Deus seja glorificado, em virtude de Jesus Cristo, a quem pertence a glória e o poder, pelos séculos dos séculos. Amém."
+        "Caríssimos: Vivei com inteligência e vigiai, dados a oração. Sobretudo, cultivai o amor mutuo. com todo o ardor, porque o amor cobre a multidão de pecados. Sede hospitaleiros uns com os outros, sem reclamações. Como bons administradores da multiforme graça de Deus, cada um coloque à disposição dos outros o dom que recebeu. Se alguém tem o dom de falar, proceda como com palavras de Deus. Se alguém tem o dom de serviço, exerça-o como capacidade proporcionada por Deus, a fim de que em todas as coisas, Deus seja glorificado, em virtude de Jesus Cristo, a quem pertence a glória e o poder, pelos séculos dos séculos. Amém."
        ]
       ]
      },
@@ -106,6 +106,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -135,6 +144,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -176,6 +194,15 @@
      }
     ],
     "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -260,6 +287,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Première lettre de saint Pierre Apôtre"
        ]
       ],
@@ -285,6 +321,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

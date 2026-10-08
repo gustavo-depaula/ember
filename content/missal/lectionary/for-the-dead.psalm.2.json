@@ -3,44 +3,38 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 24, 6 et 7bc. 17-18. 20-21 (: 1 vel 3)",
+      ],
+      "cite": "Ps 24, 6 et 7bc. 17-18. 20-21 (R.: 1 vel 3)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 24, 6-7bc. 17-18. 20-21 (R.: 1; o bien: 3)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 24, 6-7bc. 17-18. 20-21 (R.: 1; ou: 3)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
       "cite": "Ps 24:6-7. 17-18. 20-21",
       "role": "title"
      }
@@ -48,7 +42,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 24, 6-7bc. 17-18. 20-21 (R.: 1; o bien: 3)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 24",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 24, 6 et 7bc. 17-18. 20-21 (: 1 vel 3)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 24, 6 et 7bc. 17-18. 20-21 (R.: 1 vel 3)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 25 (24), 6-7. 17-18. 20-21 (R: 1 oder vgl. 3a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 25 (24), 6-7. 17-18. 20-21 (R.: 1 oder vgl. 3a)",
       "role": "title"
      }
     ]

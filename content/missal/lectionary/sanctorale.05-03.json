@@ -32,7 +32,7 @@
         "3 de Maio"
        ],
        [
-        "SÃO FILIPE E SÃO TIAGO, APOSTOLOS"
+        "SÃO FILIPE E SÃO TIAGO, APÓSTOLOS"
        ]
       ]
      },
@@ -627,7 +627,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -639,7 +639,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18 (19), 2-3.4-5 (: 5a))",
+      "cite": "Sl 18 (19), 2-3.4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -651,7 +651,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 2-3. 4-5 (: 5a)",
+      "cite": "Ps 18, 2-3. 4-5 (R.: 5a)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18A), 2-3. 4-5b (R: 5a)",
+      "cite": "Ps 19 (18A), 2-3. 4-5b (R.: 5a)",
       "role": "title"
      }
     ]
@@ -1401,7 +1401,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Jo 14, 6b y 9c",
+      "cite": "Jo 14, 6b e 9c",
       "role": "title"
      },
      {
@@ -2247,8 +2247,8 @@
  ],
  "title": {
   "la": "SS. PHILIPPI ET IACOBI, APOSTOLORUM",
-  "pt-BR": "SÃO FILIPE E SÃO TIAGO, APOSTOLOS",
-  "en-US": "SS. PHILIP AND JAMES, APOSTLES",
+  "pt-BR": "Santos Filipe e Tiago, Apóstolos",
+  "en-US": "Ss. Philip and James, Apostles",
   "es": "SAN FELIPE Y SANTIAGO, APÓSTOLES",
   "it": "SANTI FILIPPO E GIACOMO APOSTOLI",
   "fr": "SAINTS PHILIPPE ET JACQUES, APÔTRES",

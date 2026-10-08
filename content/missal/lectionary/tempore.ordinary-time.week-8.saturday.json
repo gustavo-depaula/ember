@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -711,7 +711,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 9a)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18 (19 B), 8.9.10.11 (: 9a)",
+      "cite": "Sl 18 (19 B), 8.9.10.11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -735,7 +735,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 9a)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -747,7 +747,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 18, 8. 9. 10. 11 (: 9a)",
+      "cite": "Sal 18, 8. 9. 10. 11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -771,7 +771,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 9a)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -783,7 +783,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18B), 8. 9. 10 (R: 9a)",
+      "cite": "Ps 19 (18B), 8. 9. 10 (R.: 9a)",
       "role": "title"
      }
     ]
@@ -1886,7 +1886,7 @@
         "Léctio Epístolæ beáti Iudæ apóstoli"
        ]
       ],
-      "cite": "Judas 7,20b-25",
+      "cite": "17, 20b-25",
       "role": "announcement"
      },
      {
@@ -2329,7 +2329,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -2341,7 +2341,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 62 (63), 2.3-4.5-6 (: 2b)",
+      "cite": "Sl 62 (63), 2.3-4.5-6 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -2353,7 +2353,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -2365,7 +2365,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      "cite": "Sal 62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -2389,7 +2389,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (: 2b)",
+      "cite": "Ps 62, 2abc. 2d-4. 5-6. 8-9 (R.: 2b)",
       "role": "title"
      }
     ],
@@ -2401,7 +2401,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 63 (62), 2. 3-4. 5-6 (R: vgl. 2)",
+      "cite": "Ps 63 (62), 2. 3-4. 5-6 (R.: vgl. 2)",
       "role": "title"
      }
     ]
@@ -2546,7 +2546,7 @@
         "A minha alma tem sede de vós, minha carne também vos deseja,"
        ],
        [
-        "como terra sedenta e sem água!."
+        "como terra sedenta e sem água!"
        ]
       ]
      }
@@ -3450,7 +3450,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "cf. Col 3, 16a.17c",
+      "cite": "cf. Cl 3, 16a.17c",
       "role": "title"
      },
      {
@@ -4256,7 +4256,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. VIII",
   "pt-BR": "Sábado da 8ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 8th Week: Saturday",
+  "en-US": "Saturday of the Eighth Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 8ª semana",
   "it": "Sabato della VIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 8e semaine",

@@ -245,10 +245,19 @@
       "k": "p",
       "lines": [
        [
-        "When the officials had brought the apostles in to face the Sanhedrin, the high priest demanded an explanation. 'We gave you a formal warning' he said 'not to preach in this name, and what have you done? You have filled Jerusalem with your teaching, and seem determined to fix the guilt of this man's death on us.' In reply Peter and the apostles said, 'Obedience to God comes before obedience to men; it was the God of our ancestors who raised up Jesus, but it was you who had him executed by hanging on a tree. By his own right hand God has now raised him up to be leader and saviour, to give repentance and forgiveness of sins through him to Israel. We are witnesses to all this, we and the Holy Spirit whom God has given to those who obey him.' This so infuriated them that they wanted to put them to death."
+        "A reading from the Acts of the Apostles"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "5, 27-33"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When the officials had brought the apostles in to face the Sanhedrin, the high priest demanded an explanation. 'We gave you a formal warning' he said 'not to preach in this name, and what have you done? You have filled Jerusalem with your teaching, and seem determined to fix the guilt of this man's death on us.' In reply Peter and the apostles said, 'Obedience to God comes before obedience to men; it was the God of our ancestors who raised up Jesus, but it was you who had him executed by hanging on a tree. By his own right hand God has now raised him up to be leader and saviour, to give repentance and forgiveness of sins through him to Israel. We are witnesses to all this, we and the Holy Spirit whom God has given to those who obey him.' This so infuriated them that they wanted to put them to death."
+       ]
+      ]
      },
      {
       "k": "p",
@@ -606,7 +615,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 34, 2. 9. 17-18. 19-20"
      }
     ],
     "es": [
@@ -653,7 +663,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 34 (33), 2 u. 9. 17-18. 19-20 (R: vgl. 7)",
+      "cite": "Ps 34 (33), 2 u. 9. 17-18. 19-20 (R.: vgl. 7)",
       "role": "title"
      }
     ]
@@ -755,7 +765,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ascolta, Signore, il grido del povero."
+        "Ascolta, Signore, il grido del povero."
        ],
        [
         {
@@ -1047,7 +1057,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ascolta, Signore, il grido del povero."
+        "Ascolta, Signore, il grido del povero."
        ],
        [
         {
@@ -1339,7 +1349,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ascolta, Signore, il grido del povero."
+        "Ascolta, Signore, il grido del povero."
        ],
        [
         {
@@ -1631,7 +1641,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Ascolta, Signore, il grido del povero."
+        "Ascolta, Signore, il grido del povero."
        ],
        [
         {
@@ -1733,7 +1743,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Acreditaste, Tomé, porque me viste. Felizes os que crêem, sem ter visto."
+        "Acreditaste, Tomé, porque me viste. Felizes os que creem, sem ter visto."
        ],
        [
         "Aleluia."
@@ -2454,8 +2464,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada II — Feria V",
-  "pt-BR": "Tempo da Páscoa — 2ª Semana — Quinta-feira",
-  "en-US": "Easter Season — Second Week — Thursday",
+  "pt-BR": "Quinta-feira da 2ª Semana da Páscoa",
+  "en-US": "Thursday of the Second Week of Easter",
   "es": "Tiempo de Pascua — Semana II — Jueves",
   "it": "GIOVEDI della II settimana di Pasqua",
   "fr": "Temps pascal — 2e semaine — Jeudi",

@@ -832,7 +832,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 1-2. 3 et 10ac. 11-12a. 12b-13 (: cf. Is 40, 9-10)",
+      "cite": "Ps 95, 1-2. 3 et 10ac. 11-12a. 12b-13 (R.: cf. Is 40, 9-10)",
       "role": "title"
      }
     ],
@@ -844,7 +844,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), 1-2.3.10ac.11-12.13 (: cf. Is 40, 9-10)",
+      "cite": "Sl 95 (96), 1-2.3.10ac.11-12.13 (R.: cf. Is 40, 9-10)",
       "role": "title"
      }
     ],
@@ -856,7 +856,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "95, 1-2. 3 et 10ac. 11-12a. 12b-13 (: cf. Is 40, 9-10)",
+      "cite": "95, 1-2. 3 and 10ac. 11-12a. 12b-13 (R.: cf. Is 40, 9-10)",
       "role": "title"
      }
     ],
@@ -868,7 +868,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 1-2. 3 y 10ac. 11-12. 13-14 (R/.: Is 40, 9-10)",
+      "cite": "Sal 95, 1-2. 3 y 10ac. 11-12. 13-14 (R.: Is 40, 9-10)",
       "role": "title"
      }
     ],
@@ -892,7 +892,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 1-2. 3 et 10ac. 11-12a. 12b-13 (: cf. Is 40, 9-10)",
+      "cite": "Ps 95, 1-2. 3 et 10ac. 11-12a. 12b-13 (R.: cf. Is 40, 9-10)",
       "role": "title"
      }
     ],
@@ -904,7 +904,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 1-2. 3 u. 10ac. 11-12. 13 (R: vgl. Jes 40, 10)",
+      "cite": "Ps 96 (95), 1-2. 3 u. 10ac. 11-12. 13 (R.: vgl. Jes 40, 10)",
       "role": "title"
      }
     ]
@@ -1860,7 +1860,7 @@
          "m": "rubric",
          "t": "R/."
         },
-        "Olhai e vede: o nosso Deus vem com poder!."
+        "Olhai e vede: o nosso Deus vem com poder!"
        ]
       ]
      }
@@ -1974,7 +1974,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "role": "title"
@@ -2498,7 +2498,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação"
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -2738,8 +2738,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada II — Feria tertia",
-  "pt-BR": "Terça-feira",
-  "en-US": "Advent Season — 2nd Week: Tuesday",
+  "pt-BR": "Terça-feira da 2ª Semana do Advento",
+  "en-US": "Tuesday of the Second Week of Advent",
   "es": "Tiempo de Adviento — Martes de la II Semana",
   "it": "MARTEDI della II settimana di Avvento",
   "fr": "Temps de l'Avent — 2e semaine — Mardi",

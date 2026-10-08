@@ -557,7 +557,7 @@
       "k": "p",
       "lines": [
        [
-        "Concedei-nos1 Senhor, nós vos pedimos,"
+        "Concedei-nos, Senhor, nós vos pedimos,"
        ],
        [
         "que possamos, com liberdade de coração,"
@@ -865,7 +865,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -879,7 +879,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -893,7 +893,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -907,7 +907,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -921,7 +921,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -934,7 +934,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -948,7 +948,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1014,7 +1014,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1023,7 +1023,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1032,7 +1032,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1263,8 +1263,8 @@
  ],
  "title": {
   "la": "DOMINICA XXIX «PER ANNUM»",
-  "pt-BR": "29º DOMINGO DO TEMPO COMUM",
-  "en-US": "29th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "29º Domingo do Tempo Comum",
+  "en-US": "Twenty-Ninth Sunday in Ordinary Time",
   "es": "XXIX DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XXIX DOMENICA",
   "fr": "Temps ordinaire — 29ème DIMANCHE",

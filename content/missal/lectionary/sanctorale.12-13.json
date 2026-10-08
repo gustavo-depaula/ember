@@ -154,73 +154,505 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css2l4"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Despondi vos uni viro virginem castam exhibere Christo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "10, 17 — 11, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui gloriátur, in Dómino gloriétur; non enim qui seípsum comméndat, ille probátus est, sed quem Dóminus comméndat."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Utinam sustinerétis módicum quid insipiéntiæ meæ; sed et supportáte me! Æmulor enim vos Dei æmulatióne; despóndi enim vos uni viro vírginem castam exhibére Christo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu Vos desposei a um único esposo, apresentando-vos a Cristo como virgem pura."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Segunda Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "10, 17 - 11, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Quem se gloria, glorie-se no Senhor. Pois é aprovado só aquele que o Senhor recomenda e não aquele que se recomenda a si mesmo. Oxalá pudésseis suportar um pouco de insensatez, da minha parte. Na verdade, vós me suportais. Sinto por vós um amor ciumento semelhante ao amor que Deus vos tem. Fui eu que vos desposei a um único esposo, apresentando-vos a Cristo como virgem pura."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second Letter of Saint Paul to the Corinthians"
+       ]
+      ],
+      "cite": "10:17 - 11, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "“Whoever boasts, should boast in the Lord.” For it is not the one who recommends himself who is approved,* but the one whom the Lord recommends."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "If only you would put up with a little foolishness from me!* Please put up with me. For I am jealous of you with the jealousy of God, since I betrothed you to one husband to present you as a chaste virgin to Christ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os he desposado con un solo marido, para presen toros a Cristo como una virgen casta"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la segunda carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "10, 17 - 11, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "El que se gloría, que se gloríe en el Señor, porque no está aprobado el que se recomienda a sí mismo, sino aquel a quien el Señor recomienda."
+       ],
+       [
+        "¡Ojalá me toleraseis algo de locura!; aunque ya sé que me la toleráis."
+       ],
+       [
+        "Tengo celos de vosotros, los celos de Dios, pues os he desposado con un solo marido, para presentaros a Cristo como una virgen casta."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vi ho promessi a un unico sposo, per presentarvi a Cristo come vergine casta."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla seconda lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "10, 17-11, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, chi si vanta, sì vanti nel Signore; infatti non colui che sì raccomanda da sé viene approvato, ma colui che il Signore raccomanda."
+       ],
+       [
+        "Se soltanto poteste sopportare un po' di follia da parte mia! Ma, certo, voi mi sopportate. Io provo infatti per voi una specie di gelosia divina: vi ho promessi infatti a un unico sposo, per presentarvi a Cristo come vergine casta."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "10, 17 — 11, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, celui qui veut être fier qu'il mette sa fierté dans le Seigneur. Celui dont on reconnaît la valeur n'est pas celui qui se recommande lui-même, c'est celui que le Seigneur recommande. Pourriez-vous supporter de ma part un peu de folie ? Oui, de ma part, vous allez le supporter, à cause de mon amour jaloux qui est l'amour même de Dieu pour vous. Car je vous ai unis au seul Époux : vous êtes la vierge pure que j'ai présentée au Christ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "10, 17 – 11, 2",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Wer sich rühmen will, der rühme sich des Herrn. Denn nicht, wer sich selbst empfiehlt, ist anerkannt, sondern der, den der Herr empfiehlt."
+       ],
+       [
+        "Lasst euch doch ein wenig Unverstand von mir gefallen! Aber das tut ihr ja. Denn ich liebe euch mit der Eifersucht Gottes; ich habe euch einem einzigen Mann verlobt, um euch als reine Jungfrau zu Christus zu führen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.1"
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.4"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 30(31), 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 30(31), 3cd-4. 6 e 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 and 8ab. 16bc and 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 30, 3cd-4. 6 y 8ab. 16bc-17 (R.: 6a)",
       "role": "title"
      }
@@ -228,7 +660,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 30 (31)",
       "role": "title"
      }
@@ -236,16 +672,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (: 6a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 30, 3cd-4. 6 et 8ab. 16bc et 17 (R.: 6a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R: vgl. 6a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 31 (30), 3b-4. 6 u. 8. 16-17 (R.: vgl. 6a)",
       "role": "title"
      }
     ]
@@ -1218,27 +1662,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.virgins.gospel.2"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1268,6 +1701,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "O noivo está chegando: ide ao seu encontro!"
        ]
       ],
@@ -1293,6 +1735,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1305,6 +1756,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1334,6 +1794,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Ecco lo sposo! Andategli incontro!"
        ]
       ],
@@ -1359,6 +1828,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1371,6 +1849,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1572,7 +2059,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus told this parable to his disciples: 'The kingdom of heaven will be like this: Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish and five were sensible: the foolish ones did take their lamps, but they brought no oil, whereas the sensible ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, \"The bridegroom is here! Go out and meet him.\" At this, all those bridesmaids woke up and trimmed their lamps, and the foolish ones said to the sensible ones, \"Give us some of your oil: our lamps are going out\". But they replied, \"There may not be enough for us and for you; you had better go to those who sell it and buy some for yourselves\". They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall and the door was closed. The other bridesmaids arrived later. \"Lord, Lord,\" they said \"open the door for us.\" But he replied, \"I tell you solemnly, I do not know you\". So stay awake, because you do not know either the day or the hour."
+        "Jesus told this parable to his disciples: 'The kingdom of heaven will be like this: Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish and five were sensible: the foolish ones did take their lamps, but they brought no oil, whereas the sensible ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, \"The bridegroom is here! Go out and meet him.\" At this, all those bridesmaids woke up and trimmed their lamps, and the foolish ones said to the sensible ones, \"Give us some of your oil: our lamps are going out\". But they replied, \"There may not be enough for us and for you; you had better go to those who sell it and buy some for yourselves\". They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall and the door was closed. The other bridesmaids arrived later. \"Lord, Lord, \" they said \"open the door for us.\" But he replied, \"I tell you solemnly, I do not know you\". So stay awake, because you do not know either the day or the hour."
        ]
       ]
      },
@@ -1880,7 +2367,7 @@
  "title": {
   "la": "S. Luciæ, virginis et martyris",
   "pt-BR": "Santa Luzia, virgem e mártir",
-  "en-US": "St. Lucy, virgin and martyr",
+  "en-US": "Saint Lucy, virgin and martyr",
   "es": "Santa Lucía, virgen y mártir",
   "it": "Santa Lucia, vergine e martire",
   "fr": "Sainte Lucie, vierge et martyre",

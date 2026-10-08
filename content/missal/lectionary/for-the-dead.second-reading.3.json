@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Lectio secunda"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -91,6 +82,15 @@
       "k": "p",
       "lines": [
        [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Levemos uma vida nova"
        ]
       ],
@@ -129,6 +129,15 @@
       "k": "p",
       "lines": [
        [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Let us live a new life."
        ]
       ],
@@ -163,6 +172,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -217,6 +235,15 @@
       "k": "p",
       "lines": [
        [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Camminiamo in una vita nuova."
        ]
       ],
@@ -236,7 +263,7 @@
       "k": "p",
       "lines": [
        [
-        "Fratelli, non sapete che quanti siamo stati battezzati in Cristo Gesù, siamo stati battezzati nella sua morte? Per mezzo del battesimo siamo dunque stati sepolti insieme a lui nella morte, perché come Cristo fu risuscitato dai morti per mezzo della gloria del Padre, così anche noi possiamo camminare in una vita nuova. Se infatti siamo stati completamente uniti a lui con una morte simile alla sua, lo saremo anche con la sua risurre­zione. Sappiamo bene che il nostro uomo vecchio è stato crocifisso con lui, perché fosse distrutto il corpo del peccato, e noi non fossimo più schiavi del peccato. Infatti chi è morto, è ormai libero dal peccato. Ma se siamo morti con Cristo, crediamo che anche vivremo con lui, sapendo che Cristo risuscitato dai morti non muore più; la morte non ha più potere su di lui."
+        "Fratelli, non sapete che quanti siamo stati battezzati in Cristo Gesù, siamo stati battezzati nella sua morte? Per mezzo del battesimo siamo dunque stati sepolti insieme a lui nella morte, perché come Cristo fu risuscitato dai morti per mezzo della gloria del Padre, così anche noi possiamo camminare in una vita nuova. Se infatti siamo stati completamente uniti a lui con una morte simile alla sua, lo saremo anche con la sua risurrezione. Sappiamo bene che il nostro uomo vecchio è stato crocifisso con lui, perché fosse distrutto il corpo del peccato, e noi non fossimo più schiavi del peccato. Infatti chi è morto, è ormai libero dal peccato. Ma se siamo morti con Cristo, crediamo che anche vivremo con lui, sapendo che Cristo risuscitato dai morti non muore più; la morte non ha più potere su di lui."
        ]
       ]
      },
@@ -251,6 +278,15 @@
      }
     ],
     "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -288,6 +324,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -471,12 +516,41 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Forma breve:"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Shorter form:"
+       ]
+      ]
+     }
     ]
    }
   },
   {
    "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio secunda"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -538,6 +612,15 @@
       "k": "p",
       "lines": [
        [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Let us live a new life."
        ]
       ],
@@ -572,6 +655,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -623,6 +715,15 @@
       "k": "p",
       "lines": [
        [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Lettre de saint Paul Apôtre aux Romains"
        ]
       ],
@@ -656,6 +757,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

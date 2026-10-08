@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -720,7 +720,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 3, 2-3. 4-5. 6-7 (: 6b)",
+      "cite": "Ps 3, 2-3. 4-5. 6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -732,7 +732,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 3, 2-3.4-5.6-7 (: 6b)",
+      "cite": "Sl 3, 2-3.4-5.6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -744,7 +744,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 3, 2-3. 4-5. 6-7 (: 6b)",
+      "cite": "Ps 3, 2-3. 4-5. 6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -756,7 +756,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 3, 2-3. 4-5. 6-7 (: 6b)",
+      "cite": "Sal 3, 2-3. 4-5. 6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -780,7 +780,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 3, 2-3. 4-5. 6-7 (: 6b)",
+      "cite": "Ps 3, 2-3. 4-5. 6-7 (R.: 6b)",
       "role": "title"
      }
     ],
@@ -792,7 +792,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 3, 2-3. 4-5. 6-7 (R: vgl. 6b)",
+      "cite": "Ps 3, 2-3. 4-5. 6-7 (R.: vgl. 6b)",
       "role": "title"
      }
     ]
@@ -2257,7 +2257,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: Ap 3, 21)",
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: Ap 3, 21)",
       "role": "title"
      }
     ],
@@ -2269,7 +2269,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 14 (15), 2-3ab.3cd-4ab.5 (: Ap 3, 21)",
+      "cite": "Sl 14 (15), 2-3ab.3cd-4ab.5 (R.: Ap 3, 21)",
       "role": "title"
      }
     ],
@@ -2281,7 +2281,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: Ap 3, 21)",
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: Ap 3, 21)",
       "role": "title"
      }
     ],
@@ -2293,7 +2293,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 14, 2-3ab. 3cd-4ab. 5 (: Ap 3, 21)",
+      "cite": "Sal 14, 2-3ab. 3cd-4ab. 5 (R.: Ap 3, 21)",
       "role": "title"
      }
     ],
@@ -2317,7 +2317,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: Ap 3, 21)",
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: Ap 3, 21)",
       "role": "title"
      }
     ],
@@ -2329,7 +2329,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 15 (14), 2-3. 4. 5 (R: Offb 3, 21)",
+      "cite": "Ps 15 (14), 2-3. 4. 5 (R.: Offb 3, 21)",
       "role": "title"
      }
     ]
@@ -3983,7 +3983,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXXIII",
   "pt-BR": "Terça-feira da 33ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 33rd Week: Tuesday",
+  "en-US": "Tuesday of the Thirty-Third Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 33ª semana",
   "it": "MARTEDI della XXXIII settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 33e semaine",

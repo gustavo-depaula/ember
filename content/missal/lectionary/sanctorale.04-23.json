@@ -186,7 +186,7 @@
       "k": "p",
       "lines": [
        [
-        "Aquele que estava sentado no trono disse: \"Eis que faço novas todas as coisas\" Depois, ele me disse: \"Escreve, porque estas palvras são dignas de fé e verdadeiras\". E disse-me ainda: \"Está feito! Eu sou o Alfa e o Ômega, o Principio e o Fim. A quem tiver sede, eu darei, de graça, da fonte da água viva. O vencedor receberá esta herança, e eu serei seu Deus e ele será meu filho\"."
+        "Aquele que estava sentado no trono disse: \"Eis que faço novas todas as coisas\" Depois, ele me disse: \"Escreve, porque estas palavras são dignas de fé e verdadeiras\". E disse-me ainda: \"Está feito! Eu sou o Alfa e o Ômega, o Princípio e o Fim. A quem tiver sede, eu darei, de graça, da fonte da água viva. O vencedor receberá esta herança, e eu serei seu Deus e ele será meu filho\"."
        ]
       ]
      },
@@ -556,62 +556,62 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.4"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 125 (126)",
       "role": "title"
      }
@@ -619,16 +619,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 5)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ]
@@ -1648,46 +1656,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cmaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.martyrs.gospel.4"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1717,6 +1695,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Quem perder a sua vida por causa de mim, esse a salvará."
        ]
       ],
@@ -1742,6 +1729,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1754,6 +1750,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1783,6 +1788,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Chi perderà la propria vita per causa mia, la salverà"
        ]
       ],
@@ -1808,6 +1822,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1820,6 +1843,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2200,6 +2232,20 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -2210,7 +2256,7 @@
  "title": {
   "la": "S. Georgii, martyris",
   "pt-BR": "São Jorge, mártir",
-  "en-US": "St. George, martyr",
+  "en-US": "Saint George, martyr",
   "es": "San Jorge, mártir",
   "it": "San Giorgio, martire",
   "fr": "Saint Georges, martyr",

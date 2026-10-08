@@ -7,6 +7,7 @@ Long-running investigations whose output is a method plus a text or dataset, not
 | [`psalterium/`](psalterium/README.md) | Can frontier LLMs plus human philological sign-off produce a publication-quality pt-BR Gallican Psalter for the 1961/62 Breviary? |
 | [`liturgia-das-horas/`](liturgia-das-horas/README.md) | Can the Brazilian Liturgy of the Hours be prayed from the corpus by an engine of our own that gives, hour for hour, what the app its text came from gives? |
 | [`missale-romanum/`](missale-romanum/README.md) | Can the Ordinary Form Mass be rebuilt from the original app its texts came from, with the selection logic re-expressed as data? |
+| [`clerus-index/`](clerus-index/README.md) | For any passage of Scripture, where has the Church spoken of it, and can a reader reach that from a verse? |
 
 A project is a folder with a `README.md` (what is being asked, where things stand) and a design doc. Everything else is up to the project — add structure when the work asks for it, not before.
 

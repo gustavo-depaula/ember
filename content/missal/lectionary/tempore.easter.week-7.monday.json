@@ -654,7 +654,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 67 (68), 2-3.4-5ac.6-7ab (R/.: 33a)",
+      "cite": "Sl 67 (68), 2-3.4-5ac.6-7ab (R.: 33a)",
       "role": "title"
      }
     ],
@@ -666,7 +666,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 67, 2-3. 4-5ac. 6-7ab (.: 33a)"
      }
     ],
     "es": [
@@ -677,7 +678,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 67, 2-3. 4-5ac. 6-7ab (R/.: 33a)",
+      "cite": "Sal 67, 2-3. 4-5ac. 6-7ab (R.: 33a)",
       "role": "title"
      }
     ],
@@ -713,7 +714,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 68 (67), 2-3. 4 u. 5ad. 6-7b (R: 33a.b)",
+      "cite": "Ps 68 (67), 2-3. 4 u. 5ad. 6-7b (R.: 33a.b)",
       "role": "title"
      }
     ]
@@ -1221,7 +1222,7 @@
         "cantai a Deus, a Deus louvai, cantai um salmo a seu nome!"
        ],
        [
-        "o seu nome é Senhor: exultai diante dele!."
+        "o seu nome é Senhor: exultai diante dele!"
        ]
       ]
      }
@@ -1815,7 +1816,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Col 3, 1",
+      "cite": "Cl 3, 1",
       "role": "title"
      },
      {
@@ -1841,7 +1842,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Col 3, 1"
      },
      {
       "k": "p",
@@ -1855,7 +1857,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2595,8 +2597,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VII — Feria II",
-  "pt-BR": "Tempo da Páscoa — 7ª Semana — Segunda-feira",
-  "en-US": "Easter Season — Seventh Week — Monday",
+  "pt-BR": "Segunda-feira da 7ª Semana da Páscoa",
+  "en-US": "Monday of the Seventh Week of Easter",
   "es": "Tiempo de Pascua — Semana VII — Lunes",
   "it": "LUNEDI della VII settimana di Pasqua",
   "fr": "Temps pascal — 7e semaine — Lundi",

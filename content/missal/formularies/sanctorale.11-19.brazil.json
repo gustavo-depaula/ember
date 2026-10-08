@@ -1,0 +1,221 @@
+{
+ "id": "sanctorale.11-19.brazil",
+ "kind": "sanctoral",
+ "commons": [
+  "common.martyrs.1"
+ ],
+ "title": {
+  "*": "Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires"
+ },
+ "subtitle": {
+  "*": "Memória"
+ },
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(nas dioceses do Brasil)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de novembro"
+       ],
+       [
+        "Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por amor de Cristo, o sangue dos mártires foi derramado na terra; por isso, eles alcançaram a recompensa eterna."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, que a vossa palavra cresça nas terras onde os vossos mártires a semearam e seja multiplicada em frutos de justiça e de paz. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, com alegria, vos trazemos os frutos da terra, a fim de que, pelo sacrifício que vosso Filho ofereceu por todos, nos concedais a bênção e a santidade. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Lc 22, 28-30"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vós ficastes comigo em minhas provações. Por isso vos confio o reino. Vós havereis de comer e beber à minha mesa no meu reino, diz o Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, que os vossos fiéis vivam na fé e na caridade, repartindo com os irmãos o pão da vida e bebendo o cálice da salvação até a vossa vinda. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ]
+}

@@ -362,7 +362,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1118,7 +1118,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1197,7 +1197,7 @@
         "Alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1219,7 +1219,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1462,8 +1462,8 @@
  ],
  "title": {
   "la": "COMMUNE MARTYRUM",
-  "pt-BR": "COMUM DOS MÁRTIRES",
-  "en-US": "COMMON OF MARTYRS",
+  "pt-BR": "Comum dos Mártires",
+  "en-US": "Common of Martyrs",
   "es": "COMÚN DE MÁRTIRES",
   "it": "COMUNE DEI MARTIRI",
   "fr": "COMMUN DES MARTYRS",

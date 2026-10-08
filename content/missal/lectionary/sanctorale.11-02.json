@@ -142,7 +142,7 @@
        [
         {
          "m": "rubric",
-         "t": "From Masses for the Dead: "
+         "t": "From Masses for the Dead:"
         }
        ]
       ]
@@ -205,34 +205,161 @@
   },
   {
    "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scio quod Redemptor meus vivit."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Iob"
+       ]
+      ],
+      "cite": "19, 1. 23-27a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Respóndens Iob dixit:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Quis mihi tríbuat, ut scribántur sermónes mei? Quis mihi det, ut exaréntur in libro stilo férreo et plúmbeo, in ætérnum sculpántur in sílice?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scio enim quod redémptor meus vivit et in novíssimo super púlvere stabit; et post pellem meam hanc, quam abstraxérunt, et de carne mea vidébo Deum. Quem visúrus sum ego ipse, et óculi mei conspectúri sunt, et non aliénum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu sei que o meu Redentor está vivo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro de Job"
+       ]
+      ],
+      "cite": "19, 1. 23-27a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jó tomou a palavra e disse: “Gostaria que minhas palavras fossem escritas e gravadas numa inscrição com ponteiro de ferro e com chumbo, cravadas na rocha para sempre! Eu sei que o meu redentor está vivo e que, por último, se levantará sobre o pó; e depois que tiverem destruído esta minha pele, na minha carne, verei a Deus. Eu mesmo o verei, meus olhos o contemplarão, e não os olhos de outros”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
     "en-US": [
      {
       "k": "p",
       "lines": [
        [
-        "Reading I from the Old Testament"
+        "First Reading"
        ]
-      ]
-     }
-    ],
-    "de": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        "Erste Lesungen aus dem Alten Testament"
+        "This l know: that my Avenger lives."
        ]
-      ]
-     }
-    ],
-    "fr": [
+      ],
+      "role": "summary"
+     },
      {
       "k": "p",
       "lines": [
        [
-        "Première lecture hors du temps pascal"
+        "A reading from the Book of Job"
+       ]
+      ],
+      "cite": "19:1.23-27",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Job said: Ah, would that these words of mine were written down, inscribed on some monument with iron chisel and engraving tool, cut into the rock for ever. This I know: that my Avenger lives, and he, the Last, will take his stand on earth. After my awaking, he will set me close to him, and from my flesh I shall look on God.19:27 He whom I shall see will take my part: these eyes will gaze on him and find him not aloof."
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
      }
     ],
     "es": [
@@ -240,17 +367,220 @@
       "k": "p",
       "lines": [
        [
-        "Primera Lectura Fuera del tiempo pascual"
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo sé que mi redentor vive"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de Job"
+       ]
+      ],
+      "cite": "19, 1. 23-27a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Job respondió diciendo:"
+       ],
+       [
+        "«¡Ojala se escribieran mis palabras!"
+       ],
+       [
+        "¡Ojalá se grabaran en cobre,"
+       ],
+       [
+        "con cincel de hierro y con plomo se escribieran"
+       ],
+       [
+        "para siempre en la roca!"
+       ],
+       [
+        "Yo sé que mi redentor vive"
+       ],
+       [
+        "y que al fin se alzará sobre el polvo:"
+       ],
+       [
+        "después que me arranquen la piel, ya sin carne, veré a Dios."
+       ],
+       [
+        "Yo mismo lo veré, y no otro;"
+       ],
+       [
+        "mis propios ojos lo verán»."
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
      }
     ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io so che il mio Redentore è vivo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro di Giobbe"
+       ]
+      ],
+      "cite": "19, 1.23-27",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rispondendo Giobbe disse: «Oh, se le mie parole si scrivessero, se si fissassero in un libro, fossero impresse con stilo di ferro sul piombo, s'incidessero per sempre sulla roccia! Io lo so che il mio Redentore è vivo e che, ultimo, si ergerà sulla polvere! Dopo che questa mia pelle sarà distrutta, senza la mia carne, vedrò Dio. Io lo vedrò, io stesso, e i miei occhi lo contèmpleranno non da straniero»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de Job"
+       ]
+      ],
+      "cite": "19, 1. 23-27a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Job prit la parole et dit : Ah, si seulement on écrivait mes paroles, si on les gravait sur une stèle avec un ciseau de fer et du plomb, si on les sculptait dans le roc pour toujours ! Mais je sais, moi, que mon rédempteur est vivant, que, le dernier, il se lèvera sur la poussière ; et quand bien même on m'arracherait la peau, de ma chair je verrai Dieu. Je le verrai, moi en personne, et si mes yeux le regardent, il ne sera plus un étranger. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Ijob"
+       ]
+      ],
+      "cite": "19, 1. 23-27",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ijob nahm das Wort und sprach:"
+       ],
+       [
+        "Dass doch meine Worte geschrieben würden, in einer Inschrift eingegraben mit eisernem Griffel und mit Blei, für immer gehauen in den Fels."
+       ],
+       [
+        "Doch ich, ich weiß: mein Erlöser lebt, als Letzter erhebt er sich über dem Staub. Ohne meine Haut, die so zerfetzte, und ohne mein Fleisch werde ich Gott schauen. Ihn selber werde ich dann für mich schauen; meine Augen werden ihn sehen, nicht mehr fremd. Danach sehnt sich mein Herz in meiner Brust."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.2"
+  },
+  {
+   "text": {
     "la": [
      {
       "k": "p",
       "lines": [
        [
-        "Lectiones I e Vetere Testamento"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
        ]
       ]
      }
@@ -260,474 +590,25 @@
       "k": "p",
       "lines": [
        [
-        "Primeira Leitura fora do tempo pascal"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
        ]
       ]
      }
     ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Prima Lettura fuori dal tempo pasquale"
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "1. Book of MaccabeesLivro dos MacabeusLibro de los MacabeosLibro dei MaccabeiLivre des MaccabéesBuch der MakkabäerLibri secúndi Maccabæórum",
-         "to": "readings.dif1l1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "2. Book of JobLivro de JobLibro de JobLibro di GiobbeLivre de JobBuch IjobLibri Iob",
-         "to": "readings.dif1l2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "3. Book of WisdomLivro da SabedoriaLibro de la SabiduríaLibro della SapienzaLivre de la SagesseBuch der WeisheitLibri Sapiéntiæ 3",
-         "to": "readings.dif1l3"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "4. Book of WisdomLivro da SabedoriaLibro de la SabiduríaLibro della SapienzaLivre de la SagesseBuch der WeisheitLibri Sapiéntiæ 4",
-         "to": "readings.dif1l4"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "5. Prophet IsaiahLivro do Profeta IsaíasLibro de IsaíasLibro del profeta IsaiaLivre du prophète IsaïeBuch JesájaLibri Isaíæ prophétæ",
-         "to": "readings.dif1l5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "6. Book of LamentationsLivro das LamentaçõesLibro de las LamentacionesLibro delle LamentazioniLivre des LamentationsBuch der KlageliederLibri Lamentatiónum",
-         "to": "readings.dif1l6"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "7. Prophet DanielProfecia de DanielProfecía de DanielProfezia di DanieleProphétie de DanielBuch DanielLibri Daniélis prophétæ",
-         "to": "readings.dif1l7"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "1. Le Seigneur est mon berger : rien ne saurait me manquer.O Senhor é o pastor que me conduz, não me falta coisa alguma.Il Signore è il mio pastore: non manco di nulla.The Lord is my shepherd; there is nothing I shall want.El Señor es mi pastor, nada me falta.Der Herr ist mein Hirte, nichts wird mir fehlen. Oder: Muss ich auch wandern in finsterer Schlucht, ich fürchte kein Unheil, denn du bist bei mir.Dóminus pascit me, et nihil mihi déerit.",
-         "to": "readings.difs1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "2. Vers toi, Seigneur, j'élève mon âme. ou: Pour qui espère en toi, pas de honte, Seigneur.A vós, Senhor, eu elevo a minha alma.A te, Signore, innalzo l'anima mia.To you, O Lord, I lift up my soul. or Those who hope in you, 0 Lord, shall not be disappointed.A ti, Señor, levanto mi alma. O bien: Los que esperan en ti, Señor, no quedan defraudados.Zu dir, o Herr, erhebe ich meine Seele. Oder: Wer auf dich hofft, wird nicht zuschanden.Ad te, Dómine, levávi ánimam meam. Vel: Qui sústinent te, Dómine, non confundéntur.",
-         "to": "readings.difs2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "3. Le Seigneur est ma lumière et mon salut ; de qui aurais-je crainte ? ou:  J'en suis sûr, je verrai les bontés du Seigneur sur la terre des vivants.O Senhor é a minha luz e a minha salvação.Il Signore è mia luce e mia salvezza.The Lord is my light and my salvation.El Señor es mi luz y mi salvación. O bien: Espero gozar de la dicha del Señor en el país de la vida.Der Herr ist mein Licht und mein Heil. Oder: Ich bin gewiss, zu schauen die Güte des Herrn im Land der Lebenden.Dóminus illuminátio mea et salus mea. Vel: Credo vidére bona Dómini in terra vivéntium.",
-         "to": "readings.difs3"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "4. Mon âme a soif du Dieu vivant ; quand le verrai-je face à face ?Minha alma tem sede de Deus, e deseja o Deus vivo!.L'anima mia ha sete del Dio vivente.My soul is thirsting for God, the God of my life.Mi alma tiene sed del Dios vivo.Meine Seele dürstet nach Gott, nach dem lebendigen Gott.Sitívit ánima mea ad Deum vivum.",
-         "to": "readings.difs4"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "5. Mon âme a soif de toi, Seigneur, mon Dieu !A minha alma tem sede de vós, e vos deseja, ó Senhor.Ha sete di te, Signore, l'anima mia.For you my soul is thirsting, O Lord, my God.Mi alma está sedienta de ti, mi Dios.Meine Seele dürstet nach dir, mein Gott.Sitívit in te ánima mea, Deus meus.",
-         "to": "readings.difs5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "6. Le Seigneur est tendresse et pitié. ou: Le salut des justes vient du Seigneur.Bendize ó minha alma, ao Senhor, pois ele é bondoso e compassivo!.È grande, Signore, la tua misericordia.The Lord is compassion and love. or: The salvation of the just comes from the Lord.El Señor es compasivo y misericordioso. O bien: El Señor es quien salva a los justos.Der Herr ist barmherzig und gnädig. Oder: Die Rettung der Gerechten kommt vom Herrn.Miserátor et miséricors Dóminus. Vel: Salus iustórum a Dómino.",
-         "to": "readings.difs6"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "7. Je marcherai en présence de Dieu sur la terre des vivants. ou: Alléluia !Andarei na presença de Deus, junto a ele, na terra dos vivos.Starò alla presenza del Signore nella terra dei viventi.I will walk in the presence of the Lord in the land of the living. or Alleluia!Caminare en presencia del Señor en el país de la vida. O bien: Aleluya.Ich gehe meinen Weg vor Gott im Land der Lebenden.Ambulábo coram Dómino in regióne vivórum. Vel: Allelúia.",
-         "to": "readings.difs7"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "8. Quelle joie quand on m'a dit : \" Nous irons à la maison du Seigneur ! \" Ou bien: Dans la joie, nous irons à la maison du Seigneur.Que alegria, quando me disseram: Vamos à casa Senhor!.Quale gioia, quando mi dissero: « Andremo alla casa del Signore».¡Que alegría cuando me dijeron: «Vamos a la casa del Señor»! O bien: Vamos alegres a la casa del Señor.I rejoiced when I heard them say: `Let us go to God's house.' or 0 Let us go to God's house, rejoicing.¡Que alegría cuando me dijeron: «Vamos a la casa del Señor»! O bien: Vamos alegres a la casa del Señor.Zum Haus des Herrn wollen wir pilgern.Lætátus sum in eo, quod dixérunt mihi: «In domum Dómini íbimus». Vel: In domum Dómini lætántes íbimus.",
-         "to": "readings.difs8"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "9. Des profondeurs, je crie vers toi, Seigneur.Das profundezas eu clamo a vós, Senhor,Dal profondo a te grido, o Signore.Out of the depths, I cry to you, Lord.Desde lo hondo a ti grito, Señor. O bien: Espero en el Señor, espero en su palabra.Aus der Tiefe rufe ich, Herr, zu dir. Oder: Ich hoffe auf den Herrn, ich warte voll Vertrauen auf sein Wort.De profúndis clamo ad te, Dómine. Vel: Spero in Dóminum, spero in verbum eius.",
-         "to": "readings.difs9"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "hr",
-      "lines": []
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "10. Seigneur, entends ma prière.Tende piedade mim, atendei à minha prece!.Ascoltami, Signore, Dio dei viventi.Lord, listen to my prayer.Señor, escucha mi oración.Herr, lass mich deine Huld erfahren; denn ich vertraue auf dich. Oder: Herr, erhöre mein Gebet!Dómine, exáudi oratiónem meam.",
-         "to": "readings.difs10"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "psalm"
-  },
-  {
-   "text": {
     "en-US": [
      {
       "k": "p",
       "lines": [
        [
-        "Reading II from the New Testament"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Zweite Lesungen aus dem Neuen Testament"
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Deuxième lecture"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
        ]
       ]
      }
@@ -737,19 +618,1323 @@
       "k": "p",
       "lines": [
        [
-        "Segunda Lectura"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
        ]
       ]
      }
     ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.2"
+  },
+  {
+   "text": {
     "la": [
      {
       "k": "p",
       "lines": [
        [
-        "Lectiones II e Novo Testamento"
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1 vel 4)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 22, 1-3. 4. 5. 6 (R.: 1; ou: 4ab)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 22.R v.1",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 22, 1-3. 4. 5. 6 (R.: 1; o bien: 4ab)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 22",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1 vel 4)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R.: 1 oder 4abc)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
        ]
       ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Muss ich auch wandern in finsterer Schlucht, ich fürchte kein Unheil, denn du bist bei mir."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dóminus pascit me, et nihil mihi déerit:"
+       ],
+       [
+        "in páscuis viréntibus me collocávit,"
+       ],
+       [
+        "super aquas quiétis edúxit me,"
+       ],
+       [
+        "ánimam meam refécit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor é o pastor que me conduz;"
+       ],
+       [
+        "não me falta coisa alguma. Pelos prados e campinas verdejantes"
+       ],
+       [
+        "ele me leva a descansar. Para as águas repousantes me encaminha,"
+       ],
+       [
+        "e restaura as minhas forças."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord is my shepherd; there is nothing I shall want. Fresh and green are the pastures where he gives me repose. Near restful waters he leads me, to revive my drooping spirit."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor es mi pastor, nada me falta:"
+       ],
+       [
+        "En verdes praderas me hace recostar;"
+       ],
+       [
+        "me conduce hacia fuentes tranquilas"
+       ],
+       [
+        "y repara mis fuerzas;"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore è il mio pastore: non manco di nulla;"
+       ],
+       [
+        "su pascoli erbosi mi fa riposare,"
+       ],
+       [
+        "ad acque tranquille mi conduce."
+       ],
+       [
+        "Mi rinfranca, mi guida per il giusto cammino,"
+       ],
+       [
+        "per amore del suo nome"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le Seigneur est mon berger :"
+       ],
+       [
+        "je ne manque de rien. *"
+       ],
+       [
+        "Sur des prés d'herbe fraîche,"
+       ],
+       [
+        "il me fait reposer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ],
+       [
+        "Er lässt mich lagern auf grünen Auen"
+       ],
+       [
+        "und führt mich zum Ruheplatz am Wasser."
+       ],
+       [
+        "Er stillt mein Verlangen;"
+       ],
+       [
+        "er leitet mich auf rechten Pfaden, treu seinem Namen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Muss ich auch wandern in finsterer Schlucht, ich fürchte kein Unheil, denn du bist bei mir."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dedúxit me super sémitas iustítiæ propter nomen suum."
+       ],
+       [
+        "Nam et si ambulávero in valle umbræ mortis,"
+       ],
+       [
+        "non timébo mala, quóniam tu mecum es."
+       ],
+       [
+        "Virga tua et báculus tuus"
+       ],
+       [
+        "ipsa me consoláta sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ele me guia no caminho mais seguro,"
+       ],
+       [
+        "pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso,"
+       ],
+       [
+        "nenhum mal eu temerei. Estais comigo com bastão e com cajado,"
+       ],
+       [
+        "eles me dão a segurança!."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He guides me along the right path; he is true to his name. If I should walk in the valley of darkness no evil would I fear. You are there with your crook and your staff with these you give me comfort."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "me guía por el sendero justo,"
+       ],
+       [
+        "por el honor de su nombre."
+       ],
+       [
+        "Aunque camine por cañadas oscuras,"
+       ],
+       [
+        "nada temo, porque tú vas conmigo:"
+       ],
+       [
+        "tu vara y tu cayado me sosiegan."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se dovessi camminare in una valle oscura,"
+       ],
+       [
+        "non temerei alcun male, perché tu sei con me."
+       ],
+       [
+        "Il tuo bastone e il tuo vincàstro"
+       ],
+       [
+        "mi dànno sicurezza"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il me mène vers les eaux tranquilles"
+       ],
+       [
+        "et me fait revivre ; *"
+       ],
+       [
+        "il me conduit par le juste chemin"
+       ],
+       [
+        "pour l'honneur de son nom."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Muss ich auch wandern in finsterer Schlucht,"
+       ],
+       [
+        "ich fürchte kein Unheil;"
+       ],
+       [
+        "denn du bist bei mir,"
+       ],
+       [
+        "dein Stock und dein Stab geben mir Zuversicht."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Muss ich auch wandern in finsterer Schlucht, ich fürchte kein Unheil, denn du bist bei mir."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parásti in conspéctu meo mensam"
+       ],
+       [
+        "advérsus eos qui tríbulant me;"
+       ],
+       [
+        "impinguásti in óleo caput meum,"
+       ],
+       [
+        "et calix meus redúndat."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preparais à minha frente uma mesa,"
+       ],
+       [
+        "bem à vista do inimigo; com óleo vós ungis minha cabeça,"
+       ],
+       [
+        "e o meu cálice transborda."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You have prepared a banquet for me in the sight of my foes. My head you have anointed with oil; my cup is overflowing."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preparas una mesa ante mí,"
+       ],
+       [
+        "enfrente de mis enemigos;"
+       ],
+       [
+        "me unges la cabeza con perfume,"
+       ],
+       [
+        "y mi copa rebosa."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Davanti a me tu prepari una mensa"
+       ],
+       [
+        "sotto gli occhi dei miei nemici;"
+       ],
+       [
+        "cospargi di olio il mio capo."
+       ],
+       [
+        "Il mio calice trabocca"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si je traverse les ravins de la mort,"
+       ],
+       [
+        "je ne crains aucun mal, *"
+       ],
+       [
+        "car tu es avec moi :"
+       ],
+       [
+        "ton bâton me guide et me rassure."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Du deckst mir den Tisch"
+       ],
+       [
+        "vor den Augen meiner Feinde."
+       ],
+       [
+        "Du salbst mein Haupt mit Öl,"
+       ],
+       [
+        "du füllst mir reichlich den Becher."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Muss ich auch wandern in finsterer Schlucht, ich fürchte kein Unheil, denn du bist bei mir."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Etenim benígnitas et misericórdia subsequéntur me"
+       ],
+       [
+        "ómnibus diébus vitæ meæ,"
+       ],
+       [
+        "et inhabitábo in domo Dómini"
+       ],
+       [
+        "in longitúdinem diérum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Felicidade e todo bem hão de seguir-me,"
+       ],
+       [
+        "por toda a minha vida; e, na casa do Senhor, habitarei"
+       ],
+       [
+        "pelos tempos infinitos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Surely goodness and kindness shall follow me all the days of my life."
+       ],
+       [
+        "In the Lord's own house shall I dwell for ever and ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu bondad y tu misericordia me acompañan"
+       ],
+       [
+        "todos los días de mi vida,"
+       ],
+       [
+        "y habitaré en la casa del Señor"
+       ],
+       [
+        "por años sin término."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Felicità e grazia mi saranno compagne"
+       ],
+       [
+        "tutti i giorni della mia vita,"
+       ],
+       [
+        "e abiterò nella casa del Signore"
+       ],
+       [
+        "per lunghissimi anni"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu prépares la table pour moi"
+       ],
+       [
+        "devant mes ennemis ; *"
+       ],
+       [
+        "tu répands le parfum sur ma tête,"
+       ],
+       [
+        "ma coupe est débordante."
+       ],
+       [
+        "Grâce et bonheur m'accompagnent"
+       ],
+       [
+        "tous les jours de ma vie ; *"
+       ],
+       [
+        "j'habiterai la maison du Seigneur"
+       ],
+       [
+        "pour la durée de mes jours."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lauter Güte und Huld"
+       ],
+       [
+        "werden mir folgen mein Leben lang,"
+       ],
+       [
+        "und im Haus des Herrn"
+       ],
+       [
+        "darf ich wohnen für lange Zeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Dóminus pascit me, et nihil mihi déerit."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        "The Lord is my shepherd; there is nothing I shall want."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor es mi pastor, nada me falta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Seigneur est mon berger : rien ne saurait me manquer."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Herr ist mein Hirte, nichts wird mir fehlen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Muss ich auch wandern in finsterer Schlucht, ich fürchte kein Unheil, denn du bist bei mir."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio secunda"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In Christo omnes vivificabuntur."
+        }
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "15, 20-24a. 25-28",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nunc Christus resurréxit a mórtuis, primítiæ dormiéntium. Quóniam enim per hóminem mors, et per hóminem resurréctio mortuórum: sicut enim in Adam omnes moriúntur, ita et in Christo omnes vivificabúntur. Unusquísque autem in suo órdine: primítiæ Christus; deínde hi, qui sunt Christi, in advéntu eius; deínde finis, cum tradíderit regnum Deo et Patri."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Opórtet autem illum regnáre, donec ponat omnes inimícos sub pédibus eius. Novíssima autem inimíca destruétur mors. Cum autem subiécta fúerint illi ómnia, tunc ipse Fílius subiéctus erit illi, qui sibi subiécit ómnia, ut sit Deus ómnia in ómnibus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
      }
     ],
     "pt-BR": [
@@ -759,7 +1944,159 @@
        [
         "Segunda Leitura"
        ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Em Cristo todos reviverão"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Epístola do apóstolo São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "15, 20-24a. 25-28",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Na realidade, Cristo ressuscitou dos mortos como primícias dos que morreram. Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos. Como em Adão todos morrem, assim também em Cristo todos reviverão. Porém, cada qual segundo uma ordem determinada: Em primeiro lugar, Cristo, como primícias; depois, os que pertencem a Cristo, por ocasião da sua vinda. A seguir, será o fim, quando ele entregar a realeza a Deus-Pai, depois de destruir todo principado e todo poder e força. Pois é preciso que ele reine até que todos os seus inimigos estejam debaixo de seus pés. O último inimigo a ser destruído é a morte. E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos."
+       ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "All men will be brought to life in Christ"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to the Corinthians"
+       ]
+      ],
+      "cite": "15: 20-24a. 25-28",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Christ has been raised from the dead, the first-fruits of all who have fallen asleep. Death came through one man and in the same way the resurrection of the dead has come through one man. Just as all men die in Adam, so all men will be brought to life in Christ; but all of them in their proper order; Christ as the first-fruits and then, after the coming of Christ, those who belong to him. After that will come the end, when he hands over the kingdom to God the Father. For he must be king until he has put all his enemies under his feet and the last of the enemies to be destroyed is death, for everything is to be put under his feet. - Though when it is said that everything is subjected, this clearly cannot include the One who subjected everything to him. And when everything is subjected to him, then the Son himself will be subject in his turn to the One who subjected all things to him, so that God may be all in all."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En Cristo todos serán vivificados"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "15, 20-24a. 25-28",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Cristo ha resucitado de entre los muertos y es primicia de los que han muerto."
+       ],
+       [
+        "Si por un hombre vino la muerte, por un hombre vino la resurrección. Pues lo mismo que en Adán mueren todos, así en Cristo todos serán vivificados."
+       ],
+       [
+        "Pero cada uno en su puesto: primero Cristo, como primicia; después todos los que son de Cristo, en su venida; después el final, cuando Cristo entregue el reino a Dios Padre."
+       ],
+       [
+        "Pues Cristo tiene que reinar hasta que ponga a todos sus enemigos bajo sus pies. El último enemigo en ser destruido será la muerte, porque lo ha sometido todo bajo sus pies."
+       ],
+       [
+        "Pero, cuando dice que ha sometido todo, es evidente que queda excluido el que le ha sometido todo."
+       ],
+       [
+        "Y, cuando le haya sometido todo, entonces también el mismo Hijo se someterá al que se lo había sometido todo."
+       ],
+       [
+        "Así Dios será todo en todos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
      }
     ],
     "it": [
@@ -767,341 +2104,461 @@
       "k": "p",
       "lines": [
        [
-        "Seconda Lettura"
+        "Seconda lettura"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "1. letter of St Paul to the RomansEpístola do apóstolo São Paulo aos Romanoscarta del apóstol san Pablo a los Romanoslettera di san Paolo apostolo ai RomaniBrief des Apostels Paulus an die Römerlettre de saint Paul aux RomainsEpístolæ béati Pauli apóstoli ad Romános 5,5",
-         "to": "readings.dif2l1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "2. letter of St Paul to the RomansEpístola do apóstolo São Paulo aos Romanoscarta del apóstol san Pablo a los Romanoslettera di san Paolo apostolo ai RomaniBrief des Apostels Paulus an die Römerlettre de saint Paul aux RomainsEpístolæ béati Pauli apóstoli ad Romános 5,15",
-         "to": "readings.dif2l2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "3. letter of St Paul to the RomansEpístola do apóstolo São Paulo aos Romanoscarta del apóstol san Pablo a los Romanoslettera di san Paolo apostolo ai RomaniBrief des Apostels Paulus an die Römerlettre de saint Paul aux RomainsEpístolæ béati Pauli apóstoli ad Romános 6",
-         "to": "readings.dif2l3"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "4. letter of St Paul to the RomansEpístola do apóstolo São Paulo aos Romanoscarta del apóstol san Pablo a los Romanoslettera di san Paolo apostolo ai RomaniBrief des Apostels Paulus an die Römerlettre de saint Paul aux RomainsEpístolæ béati Pauli apóstoli ad Romános 8,14",
-         "to": "readings.dif2l4"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "5. letter of St Paul to the RomansEpístola do apóstolo São Paulo aos Romanoscarta del apóstol san Pablo a los Romanoslettera di san Paolo apostolo ai RomaniBrief des Apostels Paulus an die Römerlettre de saint Paul aux RomainsEpístolæ béati Pauli apóstoli ad Romános 8,31",
-         "to": "readings.dif2l5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "6. letter of St Paul to the RomansEpístola do apóstolo São Paulo aos Romanoscarta del apóstol san Pablo a los Romanoslettera di san Paolo apostolo ai RomaniBrief des Apostels Paulus an die Römerlettre de saint Paul aux RomainsEpístolæ béati Pauli apóstoli ad Romános 14",
-         "to": "readings.dif2l6"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "7. first letter of St Paul to the CorinthiansPrimeira Epístola do apóstolo São Paulo aos Coríntiosprimera carta del apóstol san Pablo a los Corintiosprima lettera di san Paolo apostolo ai Corinziersten Brief des Apostels Paulus an die Korintherpremière lettre de saint Paul aux CorinthiensEpístolæ primæ beáti Pauli apóstoli ad Corínthios 15,20...",
-         "to": "readings.dif2l7"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "8. first letter of St Paul to the CorinthiansPrimeira Epístola do apóstolo São Paulo aos Coríntiosprimera carta del apóstol san Pablo a los Corintiosprima lettera di san Paolo apostolo ai Corinziersten Brief des Apostels Paulus an die Korintherpremière lettre de saint Paul aux CorinthiensEpístolæ primæ beáti Pauli apóstoli ad Corínthios 15,51...",
-         "to": "readings.dif2l8"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "9. second letter of St Paul to the CorinthiansSegunda Epístola do apóstolo São Paulo aos Coríntiossegunda carta del apóstol san Pablo a los Corintiosseconda lettera di san Paolo apostolo ai Corinzizweiten Brief des Apostels Paulus an die Korintherdeuxième lettre de saint Paul aux CorinthiensEpístolæ secúndæ beáti Pauli apóstoli ad Corínthios 4",
-         "to": "readings.dif2l9"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "10. second letter of St Paul to the CorinthiansSegunda Epístola do apóstolo São Paulo aos Coríntiossegunda carta del apóstol san Pablo a los Corintiosseconda lettera di san Paolo apostolo ai Corinzizweiten Brief des Apostels Paulus an die Korintherdeuxième lettre de saint Paul aux CorinthiensEpístolæ secúndæ beáti Pauli apóstoli ad Corínthios 5",
-         "to": "readings.dif2l10"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "11. letter of St Paul to the PhilippiansEpístola do apóstolo São Paulo aos Filipensescarta del apóstol san Pablo a los Filipenseslettera di san Paolo apostolo ai FilippésiBrief des Apostels Paulus an die Philipperlettre de saint Paul aux PhilippiensEpístolæ béati Pauli apóstoli ad Philippénses",
-         "to": "readings.dif2l11"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "12. first letter of St Paul to the ThessaloniansPrimeira Epístola do apóstolo São Paulo aos Tessalonicensesprimera carta del apóstol san Pablo a los Tesalonicensesprima lettera di san Paolo apostolo ai Tessalonicésiersten Brief des Apostels Paulus an die Thessalónicherpremière lettre de saint Paul aux ThessaloniciensEpístolæ primæ beáti Pauli apóstoli ad Thessalonicénses",
-         "to": "readings.dif2l12"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "13. second letter of St Paul to TimothySegunda Epístola do apóstolo São Paulo a Timóteosegunda carta del apóstol san Pablo a Timoteoseconda lettera di san Paolo apostolo a Timòteozweiten Brief des Apostels Paulus an Timótheusdeuxième lettre de saint Paul à TimothéeEpístolæ secúndæ beáti Pauli apóstoli ad Timótheum",
-         "to": "readings.dif2l13"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "14. first letter of St JohnPrimeira Epístola de São Joãoprimera carta del apóstol san Juanprima lettera di san Giovanni apostoloersten Johannesbriefpremière lettre de saint JeanEpístolæ primæ beáti Ioánnis apóstoli 3,1...",
-         "to": "readings.dif2l14"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "15. first letter of St JohnPrimeira Epístola de São Joãoprimera carta del apóstol san Juanprima lettera di san Giovanni apostoloersten Johannesbriefpremière lettre de saint JeanEpístolæ primæ beáti Ioánnis apóstoli 3,14...",
-         "to": "readings.dif2l15"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "secondReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation",
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Cf. Mt 11, 25",
+      ],
       "role": "title"
      },
      {
       "k": "p",
       "lines": [
        [
-        "Allelúia."
+        "In Cristo tutti riceveranno la vita."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "15, 20-28",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, Cristo è risuscitato dai morti, primizia di coloro che sono morti. Poiché se a causa di un uomo venne la morte, a causa di un uomo verrà anche la risurrezione dei morti; e come tutti muoiono in Adamo, così tutti riceveranno la vita in Cristo. Ciascuno però nel suo ordine: prima Cristo, che è la primizia; poi, alla sua venuta, quelli che sono di Cristo; poi sarà la fine, quando egli consegnerà il regno a Dio Padre. Bisogna infatti che egli regni finché non abbia posto tutti i nemici sotto i suoi piedi. L'ultimo nemico ad essere annientato sarà la morte, perché ogni cosa ha posto sotto i suoi piedi. Però quando dice che ogni cosa è.stata sottoposta, è chiaro che si deve eccettuare Colui che gli ha sottomesso ogni cosa. E quando tutto gli sarà stato sottomesso, anche lui, il Figlio, sarà sottomesso a Colui che gli ha sottomesso ogni cosa, perché Dio sia tutto in tutti."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "15, 20-24a. 25-28",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, le Christ est ressuscité d'entre les morts, lui, premier ressuscité parmi ceux qui se sont endormis. Car, la mort étant venue par un homme, c'est par un homme aussi que vient la résurrection des morts. En effet, de même que tous les hommes meurent en Adam, de même c'est dans le Christ que tous recevront la vie, mais chacun à son rang : en premier, le Christ, et ensuite, lors du retour du Christ, ceux qui lui appartiennent. Alors, tout sera achevé, quand le Christ remettra le pouvoir royal à Dieu son Père. Car c'est lui qui doit régner jusqu'au jour où Dieu aura mis sous ses pieds tous ses ennemis. Et le dernier ennemi qui sera anéanti, c'est la mort. Et, quand tout sera mis sous le pouvoir du Fils, lui-même se mettra alors sous le pouvoir du Père qui lui aura tout soumis, et ainsi, Dieu sera tout en tous."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "15, 20-24a. 24c-28",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
        ],
        [
-        "Benedíctus es, Pater, Dómine cæli et terræ,"
+        "Christus ist von den Toten auferweckt worden als der Erste der Entschlafenen. Da nämlich durch e i n e n Menschen der Tod gekommen ist, kommt durch e i n e n Menschen auch die Auferstehung der Toten. Denn wie in Adam alle sterben, so werden in Christus alle lebendig gemacht werden. Es gibt aber eine bestimmte Reihenfolge: Erster ist Christus; dann folgen, wenn Christus kommt, alle, die zu ihm gehören. Danach kommt das Ende, wenn er jede Macht, Gewalt und Kraft vernichtet hat und seine Herrschaft Gott, dem Vater, übergibt."
        ],
        [
-        "quia mystéria regni párvulis revelásti."
+        "Denn er muss herrschen, bis Gott ihm alle Feinde unter die Füße gelegt hat. Der letzte Feind, der entmachtet wird, ist der Tod. Sonst hätte er ihm nicht alles zu Füßen gelegt. Wenn es aber heißt, alles sei unterworfen, ist offenbar der ausgenommen, der ihm alles unterwirft. Wenn ihm dann alles unterworfen ist, wird auch er, der Sohn, sich dem unterwerfen, der ihm alles unterworfen hat, damit Gott herrscht über alles und in allem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "secondReading",
+   "from": "for-the-dead.second-reading.7"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio secunda"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In Christo omnes vivificabuntur."
+        }
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "15, 20-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nunc Christus resurréxit a mórtuis, primítiæ dormiéntium. Quóniam enim per hóminem mors, et per hóminem resurréctio mortuórum: sicut enim in Adam omnes moriúntur, ita et in Christo omnes vivificabúntur. Unusquísque autem in suo órdine: primítiæ Christus; deínde hi, qui sunt Christi, in advéntu eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Em Cristo serão todos restituídos à vida»"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Epístola do apóstolo São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "15, 20-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Na realidade, Cristo ressuscitou dos mortos como primícias dos que morreram. Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos. Como em Adão todos morrem, assim também em Cristo todos reviverão."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "All men will be brought to life in Christ."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to the Corinthians"
+       ]
+      ],
+      "cite": "15:20-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Christ has been raised from the dead, the first-fruits of all who have fallen asleep. Death, came through one man and in the same way the resurrection of the dead has come through one man. Just as all men die in Adam, so all men will be brought to life in Christ; but all of them in their proper order: Christ as the first-fruits and then, after the coming of Christ, those who belong to him."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En Cristo todos serán vivificados"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "15, 20-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
        ],
        [
-        "Allelúia."
+        "Cristo ha resucitado de entre los muertos y es primicia de los que han muerto."
+       ],
+       [
+        "Si por un hombre vino la muerte, por un hombre vino la resurrección. Pues lo mismo que en Adán mueren todos, así en Cristo todos serán vivificados."
+       ],
+       [
+        "Pero cada uno en su puesto: primero Cristo, como primicia; después todos los que son de Cristo, en su venida."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In Christo omnes vivificabuntur."
+        }
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "15, 20-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, le Christ est ressuscité d'entre les morts, lui, premier ressuscité parmi ceux qui se sont endormis. Car, la mort étant venue par un homme, c'est par un homme aussi que vient la résurrection des morts. En effet, de même que tous les hommes meurent en Adam, de même c'est dans le Christ que tous recevront la vie, mais chacun à son rang : en premier, le Christ, et ensuite, lors du retour du Christ, ceux qui lui appartiennent."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "15, 20-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Christus ist von den Toten auferweckt worden als der Erste der Entschlafenen. Da nämlich durch e i n e n Menschen der Tod gekommen ist, kommt durch e i n e n Menschen auch die Auferstehung der Toten. Denn wie in Adam alle sterben, so werden in Christus alle lebendig gemacht werden. Es gibt aber eine bestimmte Reihenfolge: Erster ist Christus; dann folgen, wenn Christus kommt, alle, die zu ihm gehören."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "short"
+   },
+   "part": "secondReading",
+   "from": "for-the-dead.second-reading.7"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
        ]
       ]
      }
@@ -1109,21 +2566,13 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Cf. Mt 11, 25",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Bendito sejais, ó Pai, Senhor do céu e da terra, porque revelastes aos humildes os mistérios do reino."
-       ],
-       [
-        "Aleluia."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
        ]
       ]
      }
@@ -1131,21 +2580,13 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "cf. Mt 11:25",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Alleluia, alleluia."
-       ],
-       [
-        "Blessed are you, Father, Lord of heaven and earth; for revealing the mysteries of the kingdom to mere children."
-       ],
-       [
-        "Alleluia."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
        ]
       ]
      }
@@ -1153,21 +2594,13 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Cf. Mt 11, 25",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Aleluya."
-       ],
-       [
-        "Bendito seas, Padre, Señor de cielo y tierra, porque has revelado los secretos del reino a la gente sencilla."
-       ],
-       [
-        "Aleluya."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
        ]
       ]
      }
@@ -1175,21 +2608,13 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Cf. Mt 11, 25",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Alleluia, alleluia."
-       ],
-       [
-        "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
-       ],
-       [
-        "Alleluia."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
        ]
       ]
      }
@@ -1197,24 +2622,13 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Cf. Mt 11, 25",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Alléluia"
-       ],
-       [
-        "Benedíctus es, Pater, Dómine cæli et terræ,"
-       ],
-       [
-        "quia mystéria regni párvulis revelásti."
-       ],
-       [
-        "Alléluia"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
        ]
       ]
      }
@@ -1222,620 +2636,32 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Vgl. Mt 11, 25",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "Sei gepriesen, Vater, Herr des Himmels und der Erde; du hast die Geheimnisse des Reiches den Unmündigen offenbart."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
       "lines": [
        [
         {
          "m": "rubric",
-         "t": "2"
-        }
+         "t": "A: "
+        },
+        "Dank sei Gott."
        ]
       ]
      }
     ]
    },
-   "part": "acclamation",
-   "role": "rubric"
+   "role": "people",
+   "part": "secondReading",
+   "from": "for-the-dead.second-reading.7"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Mt 25, 34",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Allelúia."
-       ],
-       [
-        "Veníte, benedícti Patris mei, dicit Dóminus;"
-       ],
-       [
-        "possidéte parátum vobis regnum a constitutióne mundi."
-       ],
-       [
-        "Allelúia."
+        "Alleluia"
        ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Mt 25, 34",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Vinde, benditos de meu Pai, tomai posse do Reino preparado para vós desde o princípio do mundo."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Mt 25:34",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "Come, you whom my Father has blessed, says the Lord; take for your heritage the kingdom prepared for you since the foundation of the world."
-       ],
-       [
-        "Alleluia."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Mt 25, 34",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluya."
-       ],
-       [
-        "Venid vosotros, benditos de mi Padre —dice el Señor—; heredad el reino preparado para vosotros desde la creación del mundo."
-       ],
-       [
-        "Aleluya."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Mt 25, 34",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "Venite, benedetti del Padre mio, ricevete in eredità il regno preparato per voi fin dalla creazione del mondo."
-       ],
-       [
-        "Alleluia."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Mt 25, 34",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alléluia"
-       ],
-       [
-        "Veníte, benedícti Patris mei, dicit Dóminus;"
-       ],
-       [
-        "possidéte parátum vobis regnum a constitutióne mundi."
-       ],
-       [
-        "Alléluia"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Vgl. Mt 25, 34",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "(So spricht der Herr:) Kommt her, die ihr von meinem Vater gesegnet seid, nehmt das Reich in Besitz, das seit Erschaffung der Welt für Euch bestimmt ist."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation",
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Io 3, 16",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Allelúia."
-       ],
-       [
-        "Sic diléxit Deus mundum,"
-       ],
-       [
-        "ut Fílium suum unigénitum daret;"
-       ],
-       [
-        "omnis qui credit in eum habet vitam ætérnam."
-       ],
-       [
-        "Allelúia."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Jo 3, 16",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Deus amou tanto o mundo, que lhe deu o seu próprio Filho: quem nele crê não perece, mas possui a vida eterna.."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Jn 3:16",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "God loved the world so much that he gave his only Son; everyone who believes in him has eternal life."
-       ],
-       [
-        "Alleluia."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Jn 3, 16",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluya."
-       ],
-       [
-        "Tanto amó Dios al mundo que entregó a su Hijo único. Todo el que cree en el tiene vida eterna."
-       ],
-       [
-        "Aleluya."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Gv 3,16",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "Dio ha tanto amato il mondo da dare il suo Figlio unigenito;"
-       ],
-       [
-        "chi crede in lui ha la vita eterna."
-       ],
-       [
-        "Alleluia."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Io 3, 16",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alléluia"
-       ],
-       [
-        "Sic diléxit Deus mundum,"
-       ],
-       [
-        "ut Fílium suum unigénitum daret;"
-       ],
-       [
-        "omnis qui credit in eum habet vitam ætérnam."
-       ],
-       [
-        "Alléluia"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Vgl. Joh 3, 16a. 15",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "So sehr hat Gott die Welt geliebt, dass er seinen einzigen Sohn hingab, damit jeder, der glaubt, in ihm das ewige Leben hat."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation",
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Io 6, 39",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Allelúia."
-       ],
-       [
-        "Hæc est volúntas Patris mei,"
-       ],
-       [
-        "ut omne quod dedit mihi non perdam ex eo,"
-       ],
-       [
-        "sed resúscitem illud in novíssimo die, dicit Dóminus."
-       ],
-       [
-        "Allelúia."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Jo 6, 39",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Esta é a vontade do meu Pai: que não perca nada do qu me deu e Eu o ressuscitarei no último dia, diz o Senhor."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Jn 6:39",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "It is my Father's will, says the Lord, that I should lose nothing of all that he has given to me, and that I should raise it up on the last day."
-       ],
-       [
-        "Alleluia."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Jn 6, 39",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluya."
-       ],
-       [
-        "Ésta es la voluntad de mi Padre: que no pierda nada de lo que me dio, sino que lo resucite en el ultimo día —dice el Señor—."
-       ],
-       [
-        "Aleluya."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Gv 6, 39",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Io 6, 39",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alléluia"
-       ],
-       [
-        "Hæc est volúntas Patris mei,"
-       ],
-       [
-        "ut omne quod dedit mihi non perdam ex eo,"
-       ],
-       [
-        "sed resúscitem illud in novíssimo die, dicit Dóminus."
-       ],
-       [
-        "Alléluia"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Vgl. Joh 6, 39",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "(So spricht der Herr:) Es ist der Wille meines Vaters, dass keiner verlorengeht von denen, die er mir gegeben hat, sondern dass ich sie auferwecke am Jüngsten Tag."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation",
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 6, 40",
       "role": "title"
      },
@@ -1843,7 +2669,15 @@
       "k": "p",
       "lines": [
        [
-        "Allelúia."
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
        ],
        [
         "Hæc est volúntas Patris mei,"
@@ -1858,7 +2692,15 @@
         "dicit Dóminus."
        ],
        [
-        "Allelúia."
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
        ]
       ]
      }
@@ -1866,7 +2708,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 6, 40",
       "role": "title"
      },
@@ -1874,13 +2720,29 @@
       "k": "p",
       "lines": [
        [
-        "Aleluia, aleluia."
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
        ],
        [
         "Quem acredita no Filho de Deus tem a vida eterna: Eu o ressuscitarei no último dia, diz o Senhor"
        ],
        [
-        "Aleluia."
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
        ]
       ]
      }
@@ -1888,7 +2750,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 6:40",
       "role": "title"
      },
@@ -1899,7 +2765,7 @@
         "Alleluia, alleluia."
        ],
        [
-        "It is my Father's will, says the Lord, that whoever believes in the Son shall have eternal life,and that I shall raise him up on the last day."
+        "It is my Father's will, says the Lord, that whoever believes in the Son shall have eternal life, and that I shall raise him up on the last day."
        ],
        [
         "Alleluia."
@@ -1910,7 +2776,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 6, 40",
       "role": "title"
      },
@@ -1918,35 +2788,35 @@
       "k": "p",
       "lines": [
        [
-        "Aleluya."
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
        ],
        [
-        "Ésta es la voluntad de mi Padre: que todo el que cree en mi tenga vida eterna, y yo lo resucitaré en el ultimo día —dice el Señor—."
+        "Esta es la voluntad de mi Padre —dice el Señor—:"
        ],
        [
-        "Aleluya."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Gv 6, 40",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
+        "que todo el que cree en el Hijo tenga vida eterna,"
        ],
        [
-        "Questa è la volontà del Padre mio: che chiunque vede il Figlio e crede in lui abbia la vita eterna; e io lo risusciterò nell'ultimo giorno, dice il Signore."
+        "y yo lo resucitaré en el último día."
        ],
        [
-        "Aleluia."
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
        ]
       ]
      }
@@ -1954,7 +2824,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 6, 40",
       "role": "title"
      },
@@ -1962,22 +2836,29 @@
       "k": "p",
       "lines": [
        [
-        "Alléluia"
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
        ],
        [
-        "Hæc est volúntas Patris mei,"
+        "Telle est la volonté de mon Père : que celui qui voit le Fils et croit en lui ait la vie éternelle ; et moi, je le ressusciterai au dernier jour."
        ],
        [
-        "ut omnis qui credit in Fílium hábeat vitam ætérnam;"
-       ],
-       [
-        "et ego resuscitábo ego eum in novíssimo die,"
-       ],
-       [
-        "dicit Dóminus."
-       ],
-       [
-        "Alléluia"
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
        ]
       ]
      }
@@ -1985,7 +2866,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Vgl. Joh 6, 40",
       "role": "title"
      },
@@ -1993,30 +2878,28 @@
       "k": "p",
       "lines": [
        [
-        "Halleluja. Halleluja."
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
        ],
        [
         "(So spricht der Herr:) Jeder, der an den Sohn glaubt, hat das ewige Leben, und ich werde ihn auferwecken am Jüngsten Tag."
        ],
        [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
         {
          "m": "rubric",
-         "t": "6"
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
         }
        ]
       ]
@@ -2024,218 +2907,246 @@
     ]
    },
    "part": "acclamation",
-   "role": "rubric"
+   "from": "for-the-dead.acclamation.1"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Io 6, 51",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
       "role": "title"
      },
      {
       "k": "p",
       "lines": [
        [
-        "Allelúia."
-       ],
-       [
-        "Ego sum panis vivus, qui de cælo descéndi,"
-       ],
-       [
-        "dicit Dóminus;"
-       ],
-       [
-        "si quis manducáverit ex hoc pane, vivet in ætérnum."
-       ],
-       [
-        "Allelúia."
+        "Et vos estote parati."
        ]
-      ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Lucam"
+       ]
+      ],
+      "cite": "12, 35-40",
+      "role": "announcement"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jo 6, 51",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
       "role": "title"
      },
      {
       "k": "p",
       "lines": [
        [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Eu sou o pão vivo descido do Céu, diz o Senhor. Quem comer deste pão viverá eternamente."
-       ],
-       [
-        "Aleluia."
+        "Estai vós também preparados"
        ]
-      ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas"
+       ]
+      ],
+      "cite": "12, 35-40",
+      "role": "announcement"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jn 6:51-52",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
       "role": "title"
      },
      {
       "k": "p",
       "lines": [
        [
-        "Alleluia, alleluia."
-       ],
-       [
-        "I am the living bread which has come down from heaven, says the Lord. Anyone who eats this bread will live for ever."
-       ],
-       [
-        "Alleluia."
+        "Stand ready."
        ]
-      ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Luke"
+       ]
+      ],
+      "cite": "12:35-40",
+      "role": "announcement"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jn 6, 51",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
       "role": "title"
      },
      {
       "k": "p",
       "lines": [
        [
-        "Aleluya."
-       ],
-       [
-        "Yo soy el pan vivo que ha bajado del cielo —dice el Señor—; el que coma de este pan vivirá para siempre."
-       ],
-       [
-        "Aleluya."
+        "Lo mismo vosotros, estad preparados"
        ]
-      ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Lucas"
+       ]
+      ],
+      "cite": "12, 35-40",
+      "role": "announcement"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Gv 6, 51",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
       "role": "title"
      },
      {
       "k": "p",
       "lines": [
        [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Aleluia."
+        "Tenetevi pronti."
        ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Io 6, 51",
-      "role": "title"
+      ],
+      "role": "summary"
      },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alléluia"
-       ],
-       [
-        "Ego sum panis vivus, qui de cælo descéndi,"
-       ],
-       [
-        "dicit Dóminus;"
-       ],
-       [
-        "si quis manducáverit ex hoc pane, vivet in ætérnum."
-       ],
-       [
-        "Alléluia"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Vgl. Joh 6, 51",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "(So spricht der Herr:) Ich bin das lebendige Brot, das vom Himmel gekommen ist. Wer dieses Brot isst, wird in Ewigkeit leben."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
      {
       "k": "p",
       "lines": [
        [
         {
-         "m": "rubric",
-         "t": "7"
-        }
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Luca"
        ]
-      ]
+      ],
+      "cite": "12, 35-40",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Luc"
+       ]
+      ],
+      "cite": "12, 35-40",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Lukas"
+       ]
+      ],
+      "cite": "12, 35-40",
+      "role": "announcement"
      }
     ]
    },
-   "part": "acclamation",
-   "role": "rubric"
+   "part": "gospel",
+   "from": "for-the-dead.gospel.7"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Io 11, 25a. 26",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Allelúia."
-       ],
-       [
-        "Ego sum resurréctio et vita, dicit Dóminus;"
-       ],
-       [
-        "qui credit in me non moriétur in ætérnum."
-       ],
-       [
-        "Allelúia."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
        ]
       ]
      }
@@ -2243,227 +3154,27 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jo 11, 25a. 26",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que tenha morrido, viverá; e todo aquele que vive e crê em mim não morrerá para sempre."
-       ],
-       [
-        "Aleluia."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
        ]
       ]
      }
     ],
     "en-US": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Jn 11:25. 26",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "I am the resurrection and the life, says the Lord, whoever believes in me will never die."
-       ],
-       [
-        "Alleluia."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Jn 11, 25a. 26",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluya."
-       ],
-       [
-        "Yo soy la resurrección y la vida —dice el Señor—; el que cree en mí no morirá para siempre."
-       ],
-       [
-        "Aleluya."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Gv 11, 25a. 26",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Io 11, 25a. 26",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alléluia"
-       ],
-       [
-        "Ego sum resurréctio et vita, dicit Dóminus;"
-       ],
-       [
-        "qui credit in me non moriétur in ætérnum."
-       ],
-       [
-        "Alléluia"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Joh 11, 25a. 26b",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "(So spricht der Herr:) Ich bin die Auferstehung und das Leben. Jeder, der an mich glaubt, wird auf ewig nicht sterben."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
      {
       "k": "p",
       "lines": [
        [
         {
          "m": "rubric",
-         "t": "8"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation",
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Cf. Phil 3, 20",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Allelúia."
-       ],
-       [
-        "Conversátio nostra in cælis est,"
-       ],
-       [
-        "unde étiam Salvatórem exspectámus"
-       ],
-       [
-        "Dóminum nostrum Iesum Christum."
-       ],
-       [
-        "Allelúia."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Flp 3, 20",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Nosotros somos ciudadanos del cielo, de donde aguardamos un Salvador: el Señor Jesucristo."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "cf. Phil 3:20",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "Our homeland is in heaven, and from heaven comes the Saviour we are waiting for, the Lord Jesus Christ."
-       ],
-       [
-        "Alleluia."
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
        ]
       ]
      }
@@ -2471,21 +3182,13 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Flp 3, 20",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Aleluya."
-       ],
-       [
-        "Nosotros somos ciudadanos del cielo, de donde aguardamos un Salvador: el Señor Jesucristo."
-       ],
-       [
-        "Aleluya."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
        ]
       ]
      }
@@ -2495,10 +3198,11 @@
       "k": "p",
       "lines": [
        [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Aleluia."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
        ]
       ]
      }
@@ -2506,27 +3210,13 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Cf. Phil 3, 20",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Alléluia"
-       ],
-       [
-        "Conversátio nostra in cælis est,"
-       ],
-       [
-        "unde étiam Salvatórem exspectámus"
-       ],
-       [
-        "Dóminum nostrum Iesum Christum."
-       ],
-       [
-        "Alléluia"
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
        ]
       ]
      }
@@ -2534,70 +3224,213 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Phil 3, 20",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "Unsere Heimat ist im Himmel. Von dorther erwarten wir auch Jesus Christus, den Herrn, als Retter."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
       "lines": [
        [
         {
          "m": "rubric",
-         "t": "9"
-        }
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
        ]
       ]
      }
     ]
    },
-   "part": "acclamation",
-   "role": "rubric"
+   "role": "people",
+   "part": "gospel",
+   "from": "for-the-dead.gospel.7"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "2 Tim 2, 11-12a",
-      "role": "title"
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus discípulis suis:"
+       ]
+      ]
      },
      {
       "k": "p",
       "lines": [
        [
-        "Allelúia."
+        "«Sint lumbi vestri præcíncti et lucérnæ ardéntes, et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis, ut, cum vénerit et pulsáverit, conféstim apériant ei. Beáti, servi illi, quos, cum vénerit dóminus, invénerit vigilántes. Amen dico vobis, quod præcínget se et fáciet illos discúmbere et tránsiens ministrábit illis. Et si vénerit in secúnda vigília, et si in tértia vigília vénerit, et ita invénerit, beáti sunt illi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hoc autem scitóte, quia, si sciret pater famílias, qua hora fur veníret, non síneret pérfodi domum suam. Et vos estóte paráti, quia, qua hora non putátis, Fílius hóminis venit»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus a seus discípulos: Que vossos rins estejam cingidos e as lâmpadas acesas. Sede como homens que estão esperando seu senhor voltar de uma festa de casamento, para lhe abrirem, imediatamente, a porta, logo que ele chegar e bater. Felizes os empregados que o senhor encontrar acordados quando chegar. Em verdade eu vos digo: Ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá. E caso ele chegue à meia-noite ou às três da madrugada, felizes serão, se assim os encontrar! Mas ficai certos: se o dono da casa soubesse a hora em que o ladrão iria chegar, não deixaria que arrombasse a sua casa. Vós também ficai preparados! Porque o Filho do Homem vai chegar na hora em que menos o esperardes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his disciples: `See that you are dressed for action and have your lamps lit. Be like men waiting for their master to return from the wedding feast, ready to open the door as soon as he comes and knocks. Happy those servants whom the master finds awake when he comes. I tell you solemnly, he will put on an apron, sit them down at table and wait on them. It may be in the second watch he comes, or in the third, but happy those servants if he finds them ready. You may be quite sure of this, that if the householder had known at what hour the burglar would come, he would not have let anyone break through the wall of his house. You too must stand ready, because the Son of Man is coming at an hour you do not expect.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus discípulos:"
        ],
        [
-        "Si commórtui sumus cum Christo, et convivémus;"
+        "«Tened ceñida vuestra cintura y encendidas las lámparas. Vosotros estad como los hombres que aguardan a que su señor vuelva de la boda, para abrirle apenas venga y llame."
        ],
        [
-        "si sustinébimus, et conregnábimus."
+        "Bienaventurados aquellos criados a quienes el señor, al llegar, los encuentre en vela; en verdad os digo que se ceñirá, los hará sentar a la mesa y, acercándose, les irá sirviendo."
        ],
        [
-        "Allelúia."
+        "Y, si llega a la segunda vigilia o a la tercera y los encuentra así, bienaventurados ellos."
+       ],
+       [
+        "Comprended que si supiera el dueño de casa a qué hora viene el ladrón, velaría y no le dejaría abrir un boquete en casa."
+       ],
+       [
+        "Lo mismo vosotros, estad preparados, porque a la hora que menos penséis viene el Hijo del hombre»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi discepoli: «Siate pronti, con la cintura ai fianchi e le lucerne accese; siate simili a coloro che aspettano il padrone quando torna dalle nozze, per aprirgli subito, appena arriva e bussa. Beati quei servi che il padrone al suo ritorno troverà ancora svegli; in verità vi dico, si cingerà le sue vesti, li farà mettere a tavola e passerà a servirli. E se, giungendo nel mezzo della notte o prima dell'alba, li troverà così, beati loro! Sappiate bene questo: se il padrone di casa sapesse a che ora viene il ladro, non si lascerebbe scassinare la casa. Anche voi tenetevi pronti, perché il Figlio dell'uomo verrà nell'ora che non pensate»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses disciples :"
+       ],
+       [
+        "\" Restez en tenue de service, votre ceinture autour des reins, et vos lampes allumées. Soyez comme des gens qui attendent leur maître à son retour des noces, pour lui ouvrir dès qu'il arrivera et frappera à la porte. Heureux ces serviteurs-là que le maître, à son arrivée, trouvera en train de veiller. Amen, je vous le dis : c'est lui qui, la ceinture autour des reins, les fera prendre place à table et passera pour les servir. S'il revient vers minuit ou vers trois heures du matin et qu'il les trouve ainsi, heureux sont-ils ! Vous le savez bien : si le maître de maison avait su à quelle heure le voleur viendrait, il n'aurait pas laissé percer le mur de sa maison. Vous aussi, tenez-vous prêts : c'est à l'heure où vous n'y penserez pas que le Fils de l'homme viendra. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Legt euren Gürtel nicht ab, und lasst eure Lampen brennen! Seid wie Menschen, die auf die Rückkehr ihres Herrn warten, der auf einer Hochzeit ist, und die ihm öffnen, sobald er kommt und anklopft. Selig die Knechte, die der Herr wach findet, wenn er kommt! Amen, ich sage euch: Er wird sich gürten, sie am Tisch Platz nehmen lassen und sie der Reihe nach bedienen. Und kommt er erst in der zweiten oder dritten Nachtwache und findet sie wach - selig sind sie."
+       ],
+       [
+        "Bedenkt: Wenn der Herr des Hauses wüsste, in welcher Stunde der Dieb kommt, so würde er verhindern, dass man in sein Haus einbricht. Haltet auch ihr euch bereit! Denn der Menschensohn kommt zu einer Stunde, in der ihr es nicht erwartet."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "for-the-dead.gospel.7"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
        ]
       ]
      }
@@ -2605,21 +3438,13 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "2 Tim 2, 11-12a",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Se morrermos com o Cristo, viveremos com ele; se perseverarmos, com ele reinaremos."
-       ],
-       [
-        "Aleluia."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
        ]
       ]
      }
@@ -2627,21 +3452,13 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "2 Tim 2:11-12",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Alleluia, alleluia."
-       ],
-       [
-        "If we have died with Christ, then we shall live with him; if we hold firm, then we shall reign with him."
-       ],
-       [
-        "Alleluia."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
        ]
       ]
      }
@@ -2649,21 +3466,13 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "2 Tm 2, 11-12a",
-      "role": "title"
-     },
-     {
-      "k": "p",
       "lines": [
        [
-        "Aleluya."
-       ],
-       [
-        "Si morimos con Cristo, viviremos con él. Si perseveramos, reinaremos con él."
-       ],
-       [
-        "Aleluya."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
        ]
       ]
      }
@@ -2673,786 +3482,53 @@
       "k": "p",
       "lines": [
        [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Aleluia."
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
        ]
       ]
      }
     ],
     "fr": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "2 Tim 2, 11-12a",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alléluia"
-       ],
-       [
-        "Si commórtui sumus cum Christo, et convivémus;"
-       ],
-       [
-        "si sustinébimus, et conregnábimus."
-       ],
-       [
-        "Alléluia"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "2 Tim 2, 11-12a",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "Wenn wir mit Christus gestorben sind, werden wir auch mit ihm leben; wenn wir standhaft bleiben, werden wir auch mit ihm herrschen."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
      {
       "k": "p",
       "lines": [
        [
         {
          "m": "rubric",
-         "t": "10"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation",
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ap 1, 5a. 6b",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Allelúia."
-       ],
-       [
-        "Iesus Christus est primogénitus mortuórum;"
-       ],
-       [
-        "ipsi glória et impérium in sǽcula sæculórum. Amen."
-       ],
-       [
-        "Allelúia."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ap 1, 5a. 6b",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Jesus Cristo é o Primogénito dos mortos. A Ele a glória e o domínio para sempre!."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Apoc 1:5-6",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "Jesus Christ is the First-born from the dead; to him be glory and power for ever and ever. Amen."
-       ],
-       [
-        "Alleluia."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ap 1, 5a. 6b",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluya."
-       ],
-       [
-        "Jesucristo es el primogénito de entre los muertos; a el la gloria y el poder por los siglos de los siglos."
-       ],
-       [
-        "Aleluya."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ap 1, 5a. 6b",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alléluia"
-       ],
-       [
-        "Iesus Christus est primogénitus mortuórum;"
-       ],
-       [
-        "ipsi glória et impérium in sǽcula sæculórum. Amen."
-       ],
-       [
-        "Alléluia"
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
        ]
       ]
      }
     ],
     "de": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Offb 1, 5a. 6b",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "Jesus Christus ist der Erstgeborene der Toten. Ihm sei die Herrlichkeit und die Macht in alle Ewigkeit."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
      {
       "k": "p",
       "lines": [
        [
         {
          "m": "rubric",
-         "t": "11"
-        }
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
        ]
       ]
      }
     ]
    },
-   "part": "acclamation",
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ap 14, 13",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Allelúia."
-       ],
-       [
-        "Beáti mórtui qui in Dómino moriúntur;"
-       ],
-       [
-        "requiéscant a labóribus suis;"
-       ],
-       [
-        "ópera enim illórum sequúntur illos."
-       ],
-       [
-        "Allelúia."
-       ]
-      ]
-     }
-    ],
-    "pt-BR": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ap 14, 13",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "«Felizes os que morreram no Senhor. Sim desde agora, descansem dos seus trabalhos, porque as suas obras os acompanham»."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "en-US": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Apoc.14:13",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alleluia, alleluia."
-       ],
-       [
-        "Happy are those who die in the Lord! Now they can rest for ever after their work, since their good deeds go with them."
-       ],
-       [
-        "Alleluia."
-       ]
-      ]
-     }
-    ],
-    "es": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ap 14, 13",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluya."
-       ],
-       [
-        "Dichosos los muertos que mueren en el Señor. Que descansen de sus fatigas, porque sus obras los acompañan."
-       ],
-       [
-        "Aleluya."
-       ]
-      ]
-     }
-    ],
-    "it": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aleluia, aleluia."
-       ],
-       [
-        "Aleluia."
-       ]
-      ]
-     }
-    ],
-    "fr": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ap 14, 13",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Alléluia"
-       ],
-       [
-        "Beáti mórtui qui in Dómino moriúntur;"
-       ],
-       [
-        "requiéscant a labóribus suis;"
-       ],
-       [
-        "ópera enim illórum sequúntur illos."
-       ],
-       [
-        "Alléluia"
-       ]
-      ]
-     }
-    ],
-    "de": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Offb 14, 13",
-      "role": "title"
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Halleluja. Halleluja."
-       ],
-       [
-        "Selig die Toten, die im Herrn sterben, sie sollen ausruhen von ihren Mühen; denn ihre Werke begleiten sie."
-       ],
-       [
-        "Halleluja."
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "1. MatthewMateusMateoMatteoMatthieuMatthäusMatthǽum 5",
-         "to": "readings.difev1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "2. MatthewMateusMateoMatteoMatthieuMatthäusMatthǽum 11",
-         "to": "readings.difev2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "3. MatthewMateusMateoMatteoMatthieuMatthäusMatthǽum 25 1...",
-         "to": "readings.difev3"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "4. MatthewMateusMateoMatteoMatthieuMatthäusMatthǽum 25, 31...",
-         "to": "readings.difev4"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "5. MarkMarcosMarcosMarcoMarcMarkusMarcum 15",
-         "to": "readings.difev5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "6. LukeLucasLucasLucaLucLukasLucam 7",
-         "to": "readings.difev6"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "7. LukeLucasLucasLucaLucLukasLucam 12",
-         "to": "readings.difev7"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "8. LukeLucasLucasLucaLucLukasLucam 23, 33...",
-         "to": "readings.difev8"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "9. LukeLucasLucasLucaLucLukasLucam 23, 44...",
-         "to": "readings.difev9"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "10. LukeLucasLucasLucaLucLukasLucam 24",
-         "to": "readings.difev10"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "11. JohnJoãoJuanGiovanniJeanJohannesIoánnem 5",
-         "to": "readings.difev11"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "12. JohnJoãoJuanGiovanniJeanJohannesIoánnem 6,37...",
-         "to": "readings.difev12"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "13. JohnJoãoJuanGiovanniJeanJohannesIoánnem 6,51...",
-         "to": "readings.difev13"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "14. JohnJoãoJuanGiovanniJeanJohannesIoánnem 11,17...",
-         "to": "readings.difev14"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "15. JohnJoãoJuanGiovanniJeanJohannesIoánnem 11,32...",
-         "to": "readings.difev15"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "16. JohnJoãoJuanGiovanniJeanJohannesIoánnem 12",
-         "to": "readings.difev16"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "17. JohnJoãoJuanGiovanniJeanJohannesIoánnem 14",
-         "to": "readings.difev17"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "18. JohnJoãoJuanGiovanniJeanJohannesIoánnem 17",
-         "to": "readings.difev18"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "19. JohnJoãoJuanGiovanniJeanJohannesIoánnem 19",
-         "to": "readings.difev19"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel"
+   "role": "people",
+   "part": "gospel",
+   "from": "for-the-dead.gospel.7"
   }
  ],
  "title": {
   "la": "IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM",
   "pt-BR": "Comemoração de Todos os Fiéis Defuntos",
-  "en-US": "The Commemoration of All the Faithful Departed",
+  "en-US": "The Commemoration — Of All the Faithful Departed — (All Souls' Day)",
   "es": "CONMEMORACIÓN DE TODOS LOS FIELES DIFUNTOS",
   "it": "COMMEMORAZIONE DI TUTTI I FEDELI DEFUNTI",
   "fr": "COMMÉMORATION DE TOUS LES FIDÈLES DÉFUNTS",

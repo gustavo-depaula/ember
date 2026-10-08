@@ -161,7 +161,7 @@
        [
         {
          "m": "rubric",
-         "t": "On ne peut pas employer cette messe le 1er janvier, solennité de sainte Marie, Mère de Dieu. "
+         "t": "On ne peut pas employer cette messe le 1er janvier, solennité de sainte Marie, Mère de Dieu."
         }
        ]
       ]
@@ -197,7 +197,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest etiam  pro concordia fovenda"
+         "t": "Adhiberi potest etiam Missa pro concordia fovenda"
         }
        ]
       ]
@@ -210,7 +210,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode celebrar-se também a  para promover a concórdia"
+         "t": "Pode celebrar-se também a Missa para promover a concórdia"
         }
        ]
       ]
@@ -223,7 +223,7 @@
        [
         {
          "m": "rubric",
-         "t": "The  for promoting harmony may also be used."
+         "t": "The for promoting harmony may also be used."
         }
        ]
       ]
@@ -236,7 +236,7 @@
        [
         {
          "m": "rubric",
-         "t": "Cf. también  núm. 42: Para fomentar la concordia."
+         "t": "Cf. también núm. 42: Para fomentar la concordia."
         }
        ]
       ]
@@ -667,7 +667,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -680,7 +680,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -706,7 +706,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -732,7 +732,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -745,7 +745,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1178,7 +1178,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -1191,7 +1191,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -1217,7 +1217,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -1243,7 +1243,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -1256,7 +1256,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -1819,7 +1819,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1833,7 +1833,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1847,7 +1847,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1861,7 +1861,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -1875,7 +1875,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -1889,7 +1889,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -1903,7 +1903,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -2199,8 +2199,8 @@
  ],
  "title": {
   "la": "II. PRO CIRCUMSTANTIIS PUBLICIS",
-  "pt-BR": "II. PELAS CIRCUNSTÂNCIAS DA VIDA PÚBLICA",
-  "en-US": "II. FOR CIVIL NEEDS",
+  "pt-BR": "II. Pelas Circunstâncias da Vida Pública",
+  "en-US": "II. For Civil Needs",
   "es": "II. POR LAS NECESIDADES PÚBLICAS",
   "it": "PER LA SOCIETÀ CIVILE",
   "fr": "II. POUR DES CIRCONSTANCES PUBLIQUES",

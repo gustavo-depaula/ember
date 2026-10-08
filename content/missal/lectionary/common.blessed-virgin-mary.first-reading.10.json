@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -72,6 +63,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Deus deixará seu povo ao abandono, até o tempo em que uma mãe der à luz."
        ]
       ],
@@ -81,7 +81,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura da Profecia de Miquéias"
+        "Leitura da Profecia de Miqueias"
        ]
       ],
       "cite": "5, 1-4a",
@@ -110,6 +110,15 @@
       "k": "p",
       "lines": [
        [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "A reading from the Prophecy of Micah"
        ]
       ],
@@ -120,7 +129,7 @@
       "k": "p",
       "lines": [
        [
-        "The Lord says this: You, Bethlehem Ephrathah, the least of the clans of Judah, out of you will be born for me the one who is to rule over Israel; his origin goes back to the distant past, to the days of old. The Lord is therefore goipg to abandon them till the time when she who is to give birth gives birth. Then the remnant of his brothers will come back to the sons of Israel. He will stand and feed his flock with the power of the Lord, with the majesty of the name of his God. They will live secure, for from then on he will extend his power to the ends of the land.a He himself will be peace."
+        "The Lord says this: You, Bethlehem Ephrathah, the least of the clans of Judah, out of you will be born for me the one who is to rule over Israel; his origin goes back to the distant past, to the days of old. The Lord is therefore going to abandon them till the time when she who is to give birth gives birth. Then the remnant of his brothers will come back to the sons of Israel. He will stand and feed his flock with the power of the Lord, with the majesty of the name of his God. They will live secure, for from then on he will extend his power to the ends of the land.a He himself will be peace."
        ]
       ]
      },
@@ -135,6 +144,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -222,6 +240,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Partorirà colei che deve partorire"
        ]
       ],
@@ -266,6 +293,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de Michée"
        ]
       ],
@@ -291,6 +327,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

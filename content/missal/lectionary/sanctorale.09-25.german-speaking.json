@@ -113,7 +113,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 90 (89), 12-13. 14-15. 16-17 (R: vgl. 14)",
+      "cite": "Ps 90 (89), 12-13. 14-15. 16-17 (R.: vgl. 14)",
       "role": "title"
      }
     ]
@@ -311,27 +311,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.9"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -361,6 +350,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós, que me seguistes, recebereis cem vezes mais."
        ]
       ],
@@ -386,17 +384,36 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
         },
-        " A reading from the holy Gospel according to Matthew 19:27-29"
+        " A reading from the holy Gospel according to Matthew"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "19, 27-29"
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -426,6 +443,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Voi che mi avete seguito, riceverete cento volte tanta."
        ]
       ],
@@ -451,6 +477,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -463,6 +498,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

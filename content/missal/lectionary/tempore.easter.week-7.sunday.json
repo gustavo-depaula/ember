@@ -569,7 +569,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 26, 1. 4. 7-8a"
      }
     ],
     "es": [
@@ -616,7 +617,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 27 (26), 1. 4. 7-8 (R: vgl. 13)",
+      "cite": "Ps 27 (26), 1. 4. 7-8 (R.: vgl. 13)",
       "role": "title"
      }
     ]
@@ -663,7 +664,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -684,7 +685,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -705,7 +706,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -951,7 +952,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -972,7 +973,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -993,7 +994,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1272,7 +1273,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1293,7 +1294,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1314,7 +1315,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1563,7 +1564,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1584,7 +1585,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1605,7 +1606,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -2181,7 +2182,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 18"
      },
      {
       "k": "p",
@@ -2997,7 +2999,7 @@
       "k": "p",
       "lines": [
        [
-        "In diébus illis exsúrgens Petrus in médio fratrum dixit — ​erat autem turba hóminum simul fere centum vigínti —:"
+        "In diébus illis exsúrgens Petrus in médio fratrum dixit — erat autem turba hóminum simul fere centum vigínti —:"
        ]
       ]
      },
@@ -3032,7 +3034,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Leitura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -3458,7 +3460,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 102, 1-2. 11-12. 19-20ab"
      }
     ],
     "es": [
@@ -3505,7 +3508,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 103 (102), 1-2. 11-12. 19-20b (R: 19a)",
+      "cite": "Ps 103 (102), 1-2. 11-12. 19-20b (R.: 19a)",
       "role": "title"
      }
     ]
@@ -3702,7 +3705,7 @@
         "Bendize, ó minha alma, ao Senhor,"
        ],
        [
-        "não te esqueças de nenhum de seus favores!."
+        "não te esqueças de nenhum de seus favores!"
        ]
       ]
      }
@@ -5075,7 +5078,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 18"
      },
      {
       "k": "p",
@@ -5269,7 +5273,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Proclamação do Evangelio de Jesus Cristo segundo João"
+        " Proclamação do Evangelho de Jesus Cristo segundo João"
        ]
       ],
       "cite": "17, 11-19",
@@ -5951,10 +5955,19 @@
       "k": "p",
       "lines": [
        [
-        "Stephen, filled with the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at God's right hand. 'I can see heaven thrown open' he said 'and the Son of Man standing at the right hand of God.' At this all the members of the council shouted out and stopped their ears with their hands; then they all rushed at him, sent him out of the city and stoned him. The witnesses put down their clothes at the feet of a young man called Saul. As they were stoning him, Stephen said in invocation, 'Lord Jesus, receive my spirit'. Then he knelt down and said aloud, 'Lord, do not hold this sin against them'; and with these words he fell asleep."
+        "A reading from the Acts of the Apostles"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "7, 55-60"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Stephen, filled with the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at God's right hand. 'I can see heaven thrown open' he said 'and the Son of Man standing at the right hand of God.' At this all the members of the council shouted out and stopped their ears with their hands; then they all rushed at him, sent him out of the city and stoned him. The witnesses put down their clothes at the feet of a young man called Saul. As they were stoning him, Stephen said in invocation, 'Lord Jesus, receive my spirit'. Then he knelt down and said aloud, 'Lord, do not hold this sin against them'; and with these words he fell asleep."
+       ]
+      ]
      },
      {
       "k": "p",
@@ -6308,7 +6321,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 96, 1 and 2b. 6 and 7c. 9"
      }
     ],
     "es": [
@@ -6355,7 +6369,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 97 (96), 1-2. 6-7. 9 u. 12 (R: vgl. 1a u. 9a)",
+      "cite": "Ps 97 (96), 1-2. 6-7. 9 u. 12 (R.: vgl. 1a u. 9a)",
       "role": "title"
      }
     ]
@@ -6381,7 +6395,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -6402,7 +6416,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -6423,7 +6437,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -6486,7 +6500,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -6657,7 +6671,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -6678,7 +6692,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -6699,7 +6713,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -6762,7 +6776,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -6819,10 +6833,10 @@
         "E assim proclama o céu sua justiça,"
        ],
        [
-        "todos os povos poderm ver a sua glória."
+        "todos os povos podem ver a sua glória."
        ],
        [
-        "Aos pés de Deus vêm se prostrar todos os deuses!."
+        "Aos pés de Deus vêm se prostrar todos os deuses!"
        ]
       ]
      }
@@ -6933,7 +6947,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -6954,7 +6968,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -6975,7 +6989,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -7038,7 +7052,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -7200,7 +7214,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -7221,7 +7235,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -7242,7 +7256,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -7305,7 +7319,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -7458,7 +7472,7 @@
       "k": "p",
       "lines": [
        [
-        "Eu, João, ouvi uma voz que me dizia: \"Eis que venho em breve e trazendo comigo a minha recompensa, para retribuir a cada um segundo as suas obras. Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Princípio e o Fim. Felizes os que lavam as suas vestes, assim poderão dispor da árvore da vida e entrar na cidade pelas portas. Eu, Jesus, enviei o meu anjo para vos dar este testemunho sobre as Igrejas. Eu sou o rebento e a linhagem de David. Eu sou a brilhante estrela da manhã\". O Espírito e a Esposa dizem: \"Vem\"!. Aquele que ouve esta profecia também diga: \"Vem\"!. Quem tem sede venha; e quem quiser receba de graça a água da vida. Aquele que dá testemunho destas coisas diz: \"Sim, eu venho em breve\". Amen! Vem, Senhor Jesus!."
+        "Eu, João, ouvi uma voz que me dizia: \"Eis que venho em breve e trazendo comigo a minha recompensa, para retribuir a cada um segundo as suas obras. Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Princípio e o Fim. Felizes os que lavam as suas vestes, assim poderão dispor da árvore da vida e entrar na cidade pelas portas. Eu, Jesus, enviei o meu anjo para vos dar este testemunho sobre as Igrejas. Eu sou o rebento e a linhagem de David. Eu sou a brilhante estrela da manhã\". O Espírito e a Esposa dizem: \"Vem\"! Aquele que ouve esta profecia também diga: \"Vem\"! Quem tem sede venha; e quem quiser receba de graça a água da vida. Aquele que dá testemunho destas coisas diz: \"Sim, eu venho em breve\". Amen! Vem, Senhor Jesus!"
        ]
       ]
      },
@@ -7927,7 +7941,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 14, 18"
      },
      {
       "k": "p",
@@ -8696,7 +8711,7 @@
  "title": {
   "la": "Dominica VII Paschae",
   "pt-BR": "7º Domingo da Páscoa",
-  "en-US": "Easter Season — Seventh Week — Sunday",
+  "en-US": "Seventh Sunday of Easter",
   "es": "VII Domingo de Pascua",
   "it": "VII DOMENICA DI PASQUA",
   "fr": "Temps pascal",

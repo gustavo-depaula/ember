@@ -85,7 +85,7 @@
       "k": "p",
       "lines": [
        [
-        "Lectio Prima"
+        "Lectio prior"
        ]
       ],
       "role": "title"
@@ -184,7 +184,7 @@
       "k": "p",
       "lines": [
        [
-        "No meu primeiro livro, ó Teófilo, já tratei de tudo o que Jesus fez e ensinou, desde o começo, até ao dia em que foi levado para o céu, depois de ter dado instruções pelo Espírito Santo, aos apóstolos que tinha escolhido. Foi a eles que Jesus se mostrou vivo depois da sua paixão, com numerosas provas. Durante quarenta dias, apareceu-lhes falando do Reino de Deus. Durante uma refeição, deu-lhes esta ordem: \"Não vos afasteis de Jerusalém, mas esperai a realização da promessa do Pai, da qual vós me ouvistes falar: 'João batizou com água; vós, porém, sereis batizados com o Espírito Santo, dentro de poucos dias'\". Então os que estavam reunidos perguntaram a Jesus: \"Senhor, é agora que vais restaurar o Reino em Israel?\" Jesus respondeu: \"Não vos cabe saber os tempos e os momentos que o Pai determinou com a sua própria autoridade. Mas recebereis o poder do Espírito Santo que descerá sobre vós, para serdes minhas testemunhas em Jerusalém, em toda a Judeia e na Samaria, e até os confins da terra\". Depois de dizer isto, Jesus foi levado ao céu, à vista deles. Uma nuvem o encobriu, de forma que seus olhos não mais podiam vê-lo. Os apóstolos continuavam olhando para o céu, enquanto Jesus subia. Apareceram então dois homens vestidos de branco, que lhes disseram: \"Homens da Galiléia, por que ficais aqui, parados, olhando para o céu? Esse Jesus que vos foi levado para o céu, virá do mesmo modo como o vistes partir para o céu\"."
+        "No meu primeiro livro, ó Teófilo, já tratei de tudo o que Jesus fez e ensinou, desde o começo, até ao dia em que foi levado para o céu, depois de ter dado instruções pelo Espírito Santo, aos apóstolos que tinha escolhido. Foi a eles que Jesus se mostrou vivo depois da sua paixão, com numerosas provas. Durante quarenta dias, apareceu-lhes falando do Reino de Deus. Durante uma refeição, deu-lhes esta ordem: \"Não vos afasteis de Jerusalém, mas esperai a realização da promessa do Pai, da qual vós me ouvistes falar: 'João batizou com água; vós, porém, sereis batizados com o Espírito Santo, dentro de poucos dias'\". Então os que estavam reunidos perguntaram a Jesus: \"Senhor, é agora que vais restaurar o Reino em Israel?\" Jesus respondeu: \"Não vos cabe saber os tempos e os momentos que o Pai determinou com a sua própria autoridade. Mas recebereis o poder do Espírito Santo que descerá sobre vós, para serdes minhas testemunhas em Jerusalém, em toda a Judeia e na Samaria, e até os confins da terra\". Depois de dizer isto, Jesus foi levado ao céu, à vista deles. Uma nuvem o encobriu, de forma que seus olhos não mais podiam vê-lo. Os apóstolos continuavam olhando para o céu, enquanto Jesus subia. Apareceram então dois homens vestidos de branco, que lhes disseram: \"Homens da Galileia, por que ficais aqui, parados, olhando para o céu? Esse Jesus que vos foi levado para o céu, virá do mesmo modo como o vistes partir para o céu\"."
        ]
       ]
      },
@@ -569,7 +569,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 46, 2-3. 6-7. 8-9 (R/.: 6)",
+      "cite": "Ps 46, 2-3. 6-7. 8-9 (R.: 6)",
       "role": "title"
      }
     ],
@@ -581,7 +581,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 46 (47), 2-3.6-7.8-9 (R. 6)",
+      "cite": "Sl 46 (47), 2-3.6-7.8-9 (R.: 6)",
       "role": "title"
      }
     ],
@@ -593,7 +593,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 46, 2-3. 6-7. 8-9 (R.: 6)"
      }
     ],
     "es": [
@@ -604,7 +605,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 46, 2-3. 6-7. 8-9 (R/.: 6)",
+      "cite": "Sal 46, 2-3. 6-7. 8-9 (R.: 6)",
       "role": "title"
      }
     ],
@@ -628,7 +629,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 46, 2-3. 6-7. 8-9 (R/.: 6)",
+      "cite": "Ps 46, 2-3. 6-7. 8-9 (R.: 6)",
       "role": "title"
      }
     ],
@@ -640,7 +641,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 47 (46), 2-3. 6-7. 8-9 (R: vgl. 6)",
+      "cite": "Ps 47 (46), 2-3. 6-7. 8-9 (R.: vgl. 6)",
       "role": "title"
      }
     ]
@@ -665,7 +666,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -686,7 +687,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -707,7 +708,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -728,7 +729,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -770,7 +771,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -957,7 +958,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -978,7 +979,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -999,7 +1000,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1020,7 +1021,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1062,7 +1063,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1249,7 +1250,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1270,7 +1271,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1291,7 +1292,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1312,7 +1313,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1354,7 +1355,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1541,7 +1542,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1562,7 +1563,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1583,7 +1584,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1604,7 +1605,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1646,7 +1647,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1683,7 +1684,7 @@
       "k": "p",
       "lines": [
        [
-        "Lectio Secunda"
+        "Lectio secunda"
        ]
       ],
       "role": "title"
@@ -1999,7 +2000,11 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "A"
+   "alt": {
+    "group": 1,
+    "option": 0,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -2008,7 +2013,7 @@
       "k": "p",
       "lines": [
        [
-        "Lectio Secunda"
+        "Lectio secunda"
        ]
       ],
       "role": "title"
@@ -2373,7 +2378,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -2382,7 +2392,7 @@
       "k": "p",
       "lines": [
        [
-        "Lectio Secunda"
+        "Lectio secunda"
        ]
       ],
       "role": "title"
@@ -2733,7 +2743,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "B"
+   "cycle": "B",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -2742,7 +2757,7 @@
       "k": "p",
       "lines": [
        [
-        "Lectio Secunda"
+        "Lectio secunda"
        ]
       ],
       "role": "title"
@@ -2861,7 +2876,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the letter to the Hebrews"
+        "A reading from the Letter to the Hebrews"
        ]
       ],
       "cite": "9:24-28; 10:19-23",
@@ -3095,7 +3110,12 @@
     ]
    },
    "part": "secondReading",
-   "cycle": "C"
+   "cycle": "C",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -3262,7 +3282,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Mt 28, 19. 20"
      },
      {
       "k": "p",
@@ -5011,7 +5032,7 @@
  "title": {
   "la": "In Ascensione Domini",
   "pt-BR": "Ascensão do Senhor",
-  "en-US": "Solemnity of our Lord's Ascension",
+  "en-US": "The Ascension of the Lord",
   "es": "Ascensión del Señor",
   "it": "ASCENSIONE DEL SIGNORE",
   "fr": "Solennité de l'Ascension",

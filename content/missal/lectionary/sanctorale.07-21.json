@@ -98,73 +98,520 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cp2l6"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Prædicamus Iesum Christum; nos autem servos vestros per Iesum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habéntes hanc ministratiónem, iuxta quod misericórdiam consecúti sumus, non defícimus, sed abdicávimus occúlta dedécoris non ambulántes in astútia neque adulterántes verbum Dei, sed in manifestatióne veritátis commendántes nosmetípsos ad omnem consciéntiam hóminum coram Deo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non enim nosmetípsos prædicámus sed Iesum Christum Dóminum; nos autem servos vestros per Iesum. Quóniam Deus, qui dixit: «De ténebris lux splendéscat», ipse illúxit in córdibus nostris ad illuminatiónem sciéntiæ claritátis Dei in fácie Iesu Christi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habémus autem thesáurum istum in vasis fictílibus, ut sublímitas sit virtútis Dei et non ex nobis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pregamos a Jesus Cristo, o Senhor. Quanto a nós, apresentamo-nos como servos vossos por causa de Jesus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Segunda Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Não desanimamos no exercício deste ministério que recebemos da misericórdia divina. Rejeitamos todo procedimento dissimulado e indigno, feito de astúcias, e não falsificamos a palavra de Deus. Mas, pelo contrário, manifestamos a verdade e, assim, nos recomendamos a toda consciência humana, diante de Deus. De fato, não nos pregamos a nós mesmos, pregamos a Jesus Cristo, o Senhor. Quanto a nós, apresentamo-nos como servos vossos, por causa de Jesus. Com efeito, Deus que disse: \"Do meio das trevas brilhe a luz\", é o mesmo que fez brilhar a sua luz em nossos corações, para tornar claro o conhecimento da sua glória na face de Cristo. Ora, trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second letter of St. Paul to the Corinthians"
+       ]
+      ],
+      "cite": "4:1-2.5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Since we have by an act of mercy been entrusted with this work of administration, there is no weakening on our part. On the contrary, we will have none of the reticence of those who are ashamed, no deceitfulness or watering down the word of God; but the way we commend ourselves to every human being with a conscience is by stating the truth openly in the sight of God. For it is not ourselves that we are preaching, but Christ Jesus as the Lord, and ourselves as your servants for Jesus' sake. It is the same God that said, 'Let there be light shining out of darkness', who has shone in our minds to radiate the light of the knowledge of God's glory, the glory on the face of Christ. We are only the earthenware jars that hold this treasure, to make it clear that such an overwhelming power comes from God and not from us."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Predicamos a Jesucristo, y a nosotros como siervos vuestros por Jesús"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la segunda carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Encargados de este ministerio por la misericordia obtenida, no nos acobardamos; al contrario, hemos renunciado a la clandestinidad vergonzante, no actuando con intrigas ni falseando la palabra de Dios; sino que, manifestando la verdad, nos recomendamos a la conciencia de todo el mundo delante de Dios. Porque no nos predicamos a nosotros mismos, sino a Jesucristo como Señor, y a nosotros como siervos vuestros por Jesús."
+       ],
+       [
+        "Pues el Dios que dijo: «Brille la luz del seno de las tinieblas» ha brillado en nuestros corazones, para que resplandezca el conocimiento de la gloria de Dios reflejada en el rostro de Cristo."
+       ],
+       [
+        "Pero llevamos este tesoro en vasijas de barro, para que se vea que una fuerza tan extraordinaria es de Dios y no proviene de nosotros."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annunciamo Cristo Gesù Signore: quanto a noi, siamo i vostri servitori a causa di Gesù."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla seconda lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "4, 1-2.5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, avendo questo ministero, secondo la misericordia che ci è stata accordata, non ci perdiamo d'animo. Al contrario, abbiamo rifiutato le dissimulazioni vergognose, senza comportarci con astuzia né falsificando la parola di Dio, ma annunciando apertamente la verità e presentandoci davanti a ogni coscienza umana, al cospetto di Dio."
+       ],
+       [
+        "Noi infatti non annunciamo noi stessi, ma Cristo Gesù Signore: quanto a noi, siamo i vostri servitori a causa di Gesù. E Dio, che disse: «Rifulga la luce dalle tenebre», rifulse nei nostri cuori, per far risplendere la conoscenza della gloria di Dio sul volto di Cristo."
+       ],
+       [
+        "Noi però abbiamo questo tesoro in vasi di creta, affinché appaia che questa straordinaria potenza appartiene a Dio, e non viene da noi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prædicamus Iesum Christum; nos autem servos vestros per Iesum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "C'est pourquoi, ayant reçu ce ministère par la miséricorde de Dieu, nous ne perdons pas courage : nous avons rejeté toute dissimulation honteuse, nous n'agissons pas avec ruse, et nous ne falsifions pas la parole de Dieu. Au contraire, nous manifestons la vérité, et ainsi nous nous recommandons nous-mêmes à toute conscience humaine devant Dieu. En effet, ce que nous proclamons, ce n'est pas nous-mêmes ; c'est ceci : Jésus Christ est le Seigneur ; et nous sommes vos serviteurs, à cause de Jésus. Car Dieu qui a dit : Du milieu des ténèbres brillera la lumière, a lui-même brillé dans nos cœurs pour faire resplendir la connaissance de sa gloire qui rayonne sur le visage du Christ. Mais ce trésor, nous le portons comme dans des vases d'argile ; ainsi, on voit bien que cette puissance extraordinaire appartient à Dieu et ne vient pas de nous."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "4, 1-2. 5-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Unser Eifer erlahmt nicht in dem Dienst, der uns durch Gottes Erbarmen übertragen wurde. Wir haben uns von aller schimpflichen Arglist losgesagt; wir handeln nicht hinterhältig und verfälschen das Wort Gottes nicht, sondern lehren offen die Wahrheit. So empfehlen wir uns vor dem Angesicht Gottes jedem menschlichen Gewissen."
+       ],
+       [
+        "Wir verkündigen nämlich nicht uns selbst, sondern Jesus Christus als den Herrn, uns aber als eure Knechte um Jesu willen. Denn Gott, der sprach: Aus Finsternis soll Licht aufleuchten!, er ist in unseren Herzen aufgeleuchtet, damit wir erleuchtet werden zur Erkenntnis des göttlichen Glanzes auf dem Antlitz Christi."
+       ],
+       [
+        "Diesen Schatz tragen wir in zerbrechlichen Gefäßen; so wird deutlich, dass das Übermaß der Kraft von Gott und nicht von uns kommt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.3"
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.6"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.6"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 39(40), 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 39(40), 2 e 4ab. 7. 8-9. 10 (R.: 8a e 9a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 39, 2 and 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a and 9a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
       "role": "title"
      }
@@ -172,7 +619,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 39 (40)",
       "role": "title"
      }
@@ -180,16 +631,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (: cf. 8a et 9a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R: vgl. 8a. 9a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R.: vgl. 8a. 9a)",
       "role": "title"
      }
     ]
@@ -997,7 +1456,7 @@
       "k": "p",
       "lines": [
        [
-        "Boas-novas de vossa justiça anunciei numa grande assembléia; vós sabeis: não fechei os meus lábios!"
+        "Boas-novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!"
        ]
       ]
      }
@@ -1752,7 +2211,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo: Jesus começou a ensinar de novo às margens do mar da Galileia. Uma multidão muito grande se reuniu em volta dele, de modo que Jesus entrou numa barca e se sentou, enquanto a multidão permanecia junto às margens, na praia. Jesus ensinava-lhes muitas coisas em parábolas. E, em seu ensinamento, dizia-lhes: \"Escutai! O semeador saiu a semear. Enquanto semeava, uma parte da semente caiu à beira do caminho; vieram os pássaros e a comeram. Outra parte caiu em terreno pedregoso,onde não havia muita terra; brotou logo, porque a terra não era profunda, mas, quando saiu o sol, ela foi queimada; e, como não tinha raiz, secou. Outra parte caiu no meio dos espinhos; os espinhos cresceram, a sufocaram, e ela não deu fruto. Outra parte caiu em terra boa e deu fruto, que foi crescendo e aumentando, chegando a render trinta, sessenta e até cem por um\". Quando ficou sozinho, os que estavam com ele, junto com os Doze, perguntaram sobre as parábolas. E lhes disse: \"Vós não compreendeis esta parábola? Então, como compreendereis todas as outras parábolas? O semeador semeia a Palavra. Os que estão à beira do caminho são aqueles nos quais a Palavra foi semeada; logo que a escutam, chega Satanás e tira a Palavra que neles foi semeada. Do mesmo modo, os que receberam a semente em terreno pedregoso, são aqueles que ouvem a Palavra e logo a recebem com alegria, mas não têm raiz em si mesmos, são inconstantes; quando chega uma tribulação ou perseguição, por causa da Palavra, logo desistem. Outros recebem a semente entre os espinhos: são aqueles que ouvem a Palavra; mas quando surgem as preocupações do mundo, a ilusão da riqueza e todos os outros desejos, sufocam a Palavra, e ela não produz fruto. Por fim, aqueles que recebem a semente em terreno bom, são os que ouvem a Palavra, a recebem e dão fruto; um dá trinta, outro sessenta e outro cem por um\"."
+        "Naquele tempo: Jesus começou a ensinar de novo às margens do mar da Galileia. Uma multidão muito grande se reuniu em volta dele, de modo que Jesus entrou numa barca e se sentou, enquanto a multidão permanecia junto às margens, na praia. Jesus ensinava-lhes muitas coisas em parábolas. E, em seu ensinamento, dizia-lhes: \"Escutai! O semeador saiu a semear. Enquanto semeava, uma parte da semente caiu à beira do caminho; vieram os pássaros e a comeram. Outra parte caiu em terreno pedregoso, onde não havia muita terra; brotou logo, porque a terra não era profunda, mas, quando saiu o sol, ela foi queimada; e, como não tinha raiz, secou. Outra parte caiu no meio dos espinhos; os espinhos cresceram, a sufocaram, e ela não deu fruto. Outra parte caiu em terra boa e deu fruto, que foi crescendo e aumentando, chegando a render trinta, sessenta e até cem por um\". Quando ficou sozinho, os que estavam com ele, junto com os Doze, perguntaram sobre as parábolas. E lhes disse: \"Vós não compreendeis esta parábola? Então, como compreendereis todas as outras parábolas? O semeador semeia a Palavra. Os que estão à beira do caminho são aqueles nos quais a Palavra foi semeada; logo que a escutam, chega Satanás e tira a Palavra que neles foi semeada. Do mesmo modo, os que receberam a semente em terreno pedregoso, são aqueles que ouvem a Palavra e logo a recebem com alegria, mas não têm raiz em si mesmos, são inconstantes; quando chega uma tribulação ou perseguição, por causa da Palavra, logo desistem. Outros recebem a semente entre os espinhos: são aqueles que ouvem a Palavra; mas quando surgem as preocupações do mundo, a ilusão da riqueza e todos os outros desejos, sufocam a Palavra, e ela não produz fruto. Por fim, aqueles que recebem a semente em terreno bom, são os que ouvem a Palavra, a recebem e dão fruto; um dá trinta, outro sessenta e outro cem por um\"."
        ]
       ]
      },
@@ -2030,7 +2489,7 @@
  "title": {
   "la": "S. Laurentii de Brindisi, presbyteri et Ecclesiæ doctoris",
   "pt-BR": "São Lourenço de Bríndisi, presbítero e doutor da Igreja",
-  "en-US": "St. Lawrence of Brindisi, priest and doctor of the Church",
+  "en-US": "Saint Lawrence of Brindisi, priest and doctor of the Church",
   "es": "San Lorenzo de Brindis, presbítero y doctor de la Iglesia",
   "it": "San Lorenzo da Brindisi, sacerdote e dottore della Chiesa",
   "fr": "Saint Laurent de Brindisi, prêtre et docteur de l'Église",

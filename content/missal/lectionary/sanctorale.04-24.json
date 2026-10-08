@@ -206,7 +206,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the letter of St. Paul to the Colossians"
+        "A reading from the Letter of Saint Paul to the Colossians"
        ]
       ],
       "cite": "1:24-29",
@@ -532,38 +532,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.2"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (: 5b)",
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 33(34), 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
       "role": "title"
      }
@@ -571,15 +559,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (: 5b)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 33, 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
       "role": "title"
      }
@@ -587,7 +583,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 33 (34)",
       "role": "title"
      }
@@ -595,16 +595,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (: 5b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9 (R: vgl. 5b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9 (R.: vgl. 5b)",
       "role": "title"
      }
     ]
@@ -684,7 +692,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -920,7 +928,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1156,7 +1164,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1392,7 +1400,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1625,7 +1633,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1666,25 +1674,6 @@
    "role": "people",
    "part": "psalm",
    "from": "common.martyrs.psalm.2"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
   },
   {
    "text": {
@@ -2064,7 +2053,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, Jesus ergueu os olhos ao céu e rezou, dizendo: \"Pai santo, eu não te rogo somente por eles, mas também por aqueles que vão crer em mim pela sua palavra, para que todos sejam um como tu, Pai, estás em mim e eu em ti, e para que eles sejam em nós, a fim de que o mundo creia que tu me enviaste. Eu dei-lhes a glória que tu me deste, para que eles sejam um, como nos somos um: eu neles e tu em mim, para que assim eles cheguem à unidade perfeita e o mundo reconheça que tu me enviaste e os amaste, como me amaste a mim. Pai, aqueles que me destes, quero que estajam comigo onde eu estiver, para que eles contemplem a minha glória, glória que tu me deste porque me amaste antes da fundação do universo. Pai justo, o mundo não te conheceu, mas eu te conheci, e estes também conheceram que tu me enviaste. Eu lhes fiz conhecer o teu nome, e o tornarei conhecido ainda mais, para que o amor com que me amaste esteja neles, e eu mesmo esteja neles\"."
+        "Naquele tempo, Jesus ergueu os olhos ao céu e rezou, dizendo: \"Pai santo, eu não te rogo somente por eles, mas também por aqueles que vão crer em mim pela sua palavra, para que todos sejam um como tu, Pai, estás em mim e eu em ti, e para que eles sejam em nós, a fim de que o mundo creia que tu me enviaste. Eu dei-lhes a glória que tu me deste, para que eles sejam um, como nos somos um: eu neles e tu em mim, para que assim eles cheguem à unidade perfeita e o mundo reconheça que tu me enviaste e os amaste, como me amaste a mim. Pai, aqueles que me destes, quero que estejam comigo onde eu estiver, para que eles contemplem a minha glória, glória que tu me deste porque me amaste antes da fundação do universo. Pai justo, o mundo não te conheceu, mas eu te conheci, e estes também conheceram que tu me enviaste. Eu lhes fiz conhecer o teu nome, e o tornarei conhecido ainda mais, para que o amor com que me amaste esteja neles, e eu mesmo esteja neles\"."
        ]
       ]
      },
@@ -2072,7 +2061,7 @@
       "k": "p",
       "lines": [
        [
-        "Palalavra da Salvação."
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -2189,6 +2178,25 @@
       ],
       "role": "conclusion"
      }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus raised his eyes to heaven and said: Holy Father, I pray not only for these, but for those also who through their words will believe in me. May they all be one. Father, may they be one in us, as you are in me and I am in you, so that the world may believe it was you who sent me. I have given them the glory you gave to me, that they may be one as we are one. With me in them and you in me, may they be so completely one that the world will realise that it was you who sent me and that I have loved them as much as you loved me. Father, I want those you have given me to be with me where I am, so that they may always see the glory you have given me because you loved me before the foundation of the world. Father, Righteous One, the world has not known you, but I have known you, and these have known that you have sent me. I have made your name known to them and will continue to make it known, so that the love with which you loved me may be in them, and so that I may be in them.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
     ]
    },
    "part": "gospel"
@@ -2301,7 +2309,7 @@
  "title": {
   "la": "S. Fidelis de Sigmaringen, presbyteri et martyris",
   "pt-BR": "São Fidélis de Sigmaringa, presbítero e mártir",
-  "en-US": "St. Fidelis of Sigmaringen, priest and martyr",
+  "en-US": "Saint Fidelis of Sigmaringen, priest and martyr",
   "es": "San Fidel de Sigmaringa, presbítero y mártir",
   "it": "San Fedele da Sigmaringen, sacerdote e martire",
   "fr": "Saint Fidèle de Sigmaringen, prêtre et martyr",

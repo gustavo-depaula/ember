@@ -31,22 +31,461 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Egredere de terra tua et de cognatione tua."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Génesis"
+       ]
+      ],
+      "cite": "12, 1-4a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In diébus illis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dixit Dóminus ad Abram: «Egrédere de terra tua et de cognatióne tua et de domo patris tui in terram, quam monstrábo tibi. Faciámque te in gentem magnam et benedícam tibi et magnificábo nomen tuum, erísque in benedictiónem. Benedícam benedicéntibus tibi et maledicéntibus tibi maledícam, atque in te benedicéntur univérsæ cognatiónes terræ!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Egréssus est ítaque Abram, sicut præcéperat ei Dóminus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sida tua terra, da tua família e da casa do teu pai."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Gênesis"
+       ]
+      ],
+      "cite": "12, 1-4a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naqueles dias, o Senhor disse a Abrão: \"Sai da tua terra, da tua família e da casa do teu pai, e vai para a terra que eu te vou mostrar. Farei de ti um grande povo e te abençoarei: engrandecerei o teu nome, de modo que ele se torne uma bênção. Abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; em ti serão abençoadas todas as famílias da terra!\" E Abraão partiu, como o Senhor lhe havia dito."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Genesis"
+       ]
+      ],
+      "cite": "12:1-4",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord said to Abram, 'Leave your country, your family and your father's house, for the land I will show you. I will make you a great nation; I will bless you and make your name so famous that it will be used as a blessing. 'I will bless those who bless you: I will curse those who slight you. All the tribes of the earth shall bless themselves by you.' So Abram went as the Lord told him."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sal de tu tierra, de tu patria"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Génesis"
+       ]
+      ],
+      "cite": "12, 1-4a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquellos días, el Señor dijo a Abrán:"
+       ],
+       [
+        "«Sal de tu tierra, de tu patria, y de la casa de tu padre, hacia la tierra que te mostraré."
+       ],
+       [
+        "Haré de ti una gran nación, te bendeciré, haré famoso tu nombre y serás una bendición."
+       ],
+       [
+        "Bendeciré a los que te bendigan, maldeciré a los que te maldigan, y en ti serán benditas todas las familias de la tierra»."
+       ],
+       [
+        "Abrán marchó, como le había dicho el Señor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vattene dalia tua terra, dalla tua parentela."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro della Genesi"
+       ]
+      ],
+      "cite": "12, l-4a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quei giorni, il Signore disse ad Abram:"
+       ],
+       [
+        "«Vattene dalla tua terra, dalla tua parentela e dalla casa di tuo padre, verso la terra che io ti indicherò. Farò di te una grande nazione e ti benedirò, renderò grande il tuo nome e possa tu essere una benedizione. Benedirò coloro che ti benediranno e coloro che ti malediranno maledirò, e in te si diranno benedette tutte le famiglie della terra». Allora Abram parti, come gli aveva ordinato il Signore."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de la Genèse"
+       ]
+      ],
+      "cite": "12, 1-4a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ces jours-là, le Seigneur dit à Abram : \" Quitte ton pays, ta parenté et la maison de ton père, et va vers le pays que je te montrerai. Je ferai de toi une grande nation, je te bénirai, je rendrai grand ton nom, et tu deviendras une bénédiction. Je bénirai ceux qui te béniront ; celui qui te maudira, je le réprouverai. En toi seront bénies toutes les familles de la terre. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Abram s'en alla, comme le Seigneur le lui avait dit, et Loth s'en alla avec lui."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Génesis"
+       ]
+      ],
+      "cite": "12, 1-4a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jenen Tagen"
+       ],
+       [
+        "sprach der Herr zu Abram: Zieh weg aus deinem Land, von deiner Verwandtschaft und aus deinem Vaterhaus in das Land, das ich dir zeigen werde. Ich werde dich zu einem großen Volk machen, dich segnen und deinen Namen groß machen. Ein Segen sollst du sein. Ich will segnen, die dich segnen; wer dich verwünscht, den will ich verfluchen. Durch dich sollen alle Geschlechter der Erde Segen erlangen."
+       ],
+       [
+        "Da zog Abram weg, wie der Herr ihm gesagt hatte."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.first-reading.1"
+  },
+  {
+   "text": {
+    "la": [
      {
       "k": "p",
       "lines": [
        [
         {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css1f1"
-        }
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
        ]
       ]
      }
     ]
    },
-   "part": "firstReading"
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.first-reading.1"
   },
   {
    "text": {
@@ -58,7 +497,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 132 (131), 6-7. 9-10. 13-14 (R: vgl. 14a)",
+      "cite": "Ps 132 (131), 6-7. 9-10. 13-14 (R.: vgl. 14a)",
       "role": "title"
      }
     ]
@@ -222,46 +661,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "9"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.9"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -291,6 +700,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós, que me seguistes, recebereis cem vezes mais."
        ]
       ],
@@ -316,17 +734,36 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
         },
-        " A reading from the holy Gospel according to Matthew 19:27-29"
+        " A reading from the holy Gospel according to Matthew"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "19, 27-29"
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -356,6 +793,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Voi che mi avete seguito, riceverete cento volte tanta."
        ]
       ],
@@ -381,6 +827,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -393,6 +848,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

@@ -98,81 +98,640 @@
   },
   {
    "text": {
-    "*": [
+    "es": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.css1f15"
-        }
+        "Para los que se han consagrado a una actividad caritativa: [Pro iis qui opera\nmisericordiæ exercuerunt]"
        ]
       ]
      }
     ]
    },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.7"
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.first-reading.15"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frange esurienti panem tuum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Isaíæ prophétæ"
+       ]
+      ],
+      "cite": "58, 6-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc dicit Dóminus:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nonne hoc est ieiúnium, quod elégi: dissólvere víncula iníqua, sólvere funes iugi, dimíttere eos, qui confrácti sunt, líberos, et omne iugum dirúmpere? Nonne frángere esuriénti panem tuum, et egénos, vagos indúcere in domum? Cum víderis nudum, óperi eum et carnem tuam ne despéxeris."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc erúmpet quasi auróra lumen tuum, et sanátio tua cítius oriétur; et anteíbit fáciem tuam iustítia tua, et glória Dómini cólliget te. Tunc invocábis, et Dóminus exáudiet; clamábis, et dicet: «Ecce adsum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si abstúleris de médio tui iugum et desíeris exténdere dígitum et loqui iniquitátem; si effúderis esuriénti ánimam tuam et ánimam afflíctam satiáveris, oriétur in ténebris lux tua, et calígo tua erit sicut merídies."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et te ducet Dóminus semper, et satiábit in locis áridis ánimam tuam et ossa tua firmábit; et eris quasi hortus irríguus et sicut fons aquárum, cuius non defícient aquæ."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reparte o teu pão com o faminto."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Profeta Isaías"
+       ]
+      ],
+      "cite": "58, 6-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Assim fala o Senhor: O jejum que prefiro, acaso, não é outro:- quebrar as cadeias injustas, desligar as amarras do jugo, tornar livres os que estão detidos, enfim, romper todo tipo de sujeição? Não é repartir o pão com o faminto, acolher em casa os pobres e peregrinos? Quando encontrares um nu, cobre-o, e não desprezes a tua carne. Então, brilhará tua luz como a aurora e a tua saude há de recuperar-se mais depressa; à frente caminhará tua justiça e a glória do Senhor te seguirá. Então invocarás o Senhor e ele te atenderá, pedirás socorro, e ele dirá: \"Eis-me aqui\". Se destruires teus instrumentos de opressão, e deixares os habitos autoritarios e a linguagem maldosa; se acolheres de coração aberto o indigente e prestares todo socorro ao necesitado, nascerá nas trevas a tua luz e tua vida obscura será como o meio-dia. O Senhor te conduzirá sempre e saciará tua sede na aridez da vida, e renovará o vigor do teu corpo; serás como um jardim bem regado, como uma fonte de águas que jamais secarão\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of the Prophet Isaiah"
+       ]
+      ],
+      "cite": "58:6-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "This is the sort of fast that pleases me - it is the Lord who speaks - to break unjust fetters and undo the thongs of the yoke, to let the oppressed go free, and break every yoke, to share your bread with the hungry, and shelter the homeless poor, to clothe the man you see to be naked and not turn from your own kin? Then will your light shine like the dawn and your wound be quickly healed over. Your integrity will go before you and the glory of the Lord behind you. Cry, and the Lord will answer; call, and he will say, 'I am here'. If you do away with the yoke, the clenched fist, the wicked word, if you give your bread to the hungry, and relief to the oppressed, your light will rise in the darkness, and your shadows become like noon. The Lord will always guide you, giving you relief in desert places. He will give strength to your bones and you shall be like a watered garden, like a spring of water whose waters never run dry."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parte tu pan con el hambriento"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de Isaías"
+       ]
+      ],
+      "cite": "58, 6-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esto dice el Señor:"
+       ],
+       [
+        "«Este es el ayuno que yo quiero:"
+       ],
+       [
+        "soltar las cadenas injustas, desatar las correas del yugo, liberar a los oprimidos, quebrar todos los yugos, partir tu pan con el hambriento, hospedar a los pobres sin techo, cubrir a quien ves desnudo y no desentenderte de los tuyos."
+       ],
+       [
+        "Entonces surgirá tu luz como la aurora, enseguida se curarán tus heridas, ante ti marchará la justicia, detrás de ti la gloria del Señor."
+       ],
+       [
+        "Entonces clamarás al Señor y te responderá; pedirás ayuda y te dirá: “Aquí estoy”."
+       ],
+       [
+        "Cuando alejes de ti la opresión,"
+       ],
+       [
+        "el dedo acusador y la calumnia,"
+       ],
+       [
+        "cuando ofrezcas al hambriento de lo tuyo y sacies al alma afligida,"
+       ],
+       [
+        "brillará tu luz en las tinieblas,"
+       ],
+       [
+        "tu oscuridad como el mediodía."
+       ],
+       [
+        "El Señor te guiará siempre,"
+       ],
+       [
+        "hartará tu alma en tierra abrasada, dará vigor a tus huesos."
+       ],
+       [
+        "Serás un huerto bien regado,"
+       ],
+       [
+        "un manantial de aguas que no engañan»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dividi il pane con l'affamato"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Isaia"
+       ]
+      ],
+      "cite": "58, 6-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cosi dice il Signore:"
+       ],
+       [
+        "«Non è piuttosto questo il digiuno che voglio:"
+       ],
+       [
+        "sciogliere le catene inique, togliere i legami del giogo,"
+       ],
+       [
+        "rimandare Liberi gli oppressi e spezzare ogni giogo?"
+       ],
+       [
+        "Non consiste forse"
+       ],
+       [
+        "nel dividere il pane con l'affamato,"
+       ],
+       [
+        "nell'introdurre in casa i miseri, senza tetto,"
+       ],
+       [
+        "nel vestire uno che vedi nudo,"
+       ],
+       [
+        "senza trascurare i tuoi parenti?"
+       ],
+       [
+        "Allora la tua luce sorgerà come l'aurora, la tua ferita si rimarginerà presto."
+       ],
+       [
+        "Davanti a te camminerà la tua giustizia, la gloria del Signore ti seguirà."
+       ],
+       [
+        "Allora invocherai e il Signore ti risponderà, implorerai aiuto ed egli dirà: \"Eccomi!\"."
+       ],
+       [
+        "Se toglierai di mezzo a te l'oppressione,"
+       ],
+       [
+        "il puntare il dito e il parlare empio,"
+       ],
+       [
+        "se aprirai il tuo cuore all'affamato,"
+       ],
+       [
+        "Dividi il pane con l'affamato."
+       ],
+       [
+        "Se sazierai l'afflitto di cuore,"
+       ],
+       [
+        "allora brillerà fra le tenebre la tua luce,"
+       ],
+       [
+        "la tua tenebra sarà come il meriggio."
+       ],
+       [
+        "Ti guiderà sempre il Signore,"
+       ],
+       [
+        "ti sazierà in terreni aridi, rinvigorirà le tue ossa;"
+       ],
+       [
+        "sarai come un giardino irrigato"
+       ],
+       [
+        "e come una sorgente le cui acque non inaridiscono»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Isaïe"
+       ]
+      ],
+      "cite": "58, 6-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi parle le Seigneur : Le jeûne qui me plaît, n'est-ce pas ceci : faire tomber les chaînes injustes, délier les attaches du joug, rendre la liberté aux opprimés, briser tous les jougs ? N'est-ce pas partager ton pain avec celui qui a faim, accueillir chez toi les pauvres sans abri, couvrir celui que tu verras sans vêtement, ne pas te dérober à ton semblable ? Alors ta lumière jaillira comme l'aurore, et tes forces reviendront vite. Devant toi marchera ta justice, et la gloire du Seigneur fermera la marche. Alors, si tu appelles, le Seigneur répondra ; si tu cries, il dira : \" Me voici. \" Si tu fais disparaître de chez toi le joug, le geste accusateur, la parole malfaisante, si tu donnes à celui qui a faim ce que toi, tu désires, et si tu combles les désirs du malheureux, ta lumière se lèvera dans les ténèbres et ton obscurité sera lumière de midi. Le Seigneur sera toujours ton guide. En plein désert, il comblera tes désirs et te rendra vigueur. Tu seras comme un jardin bien irrigué, comme une source où les eaux ne manquent jamais."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesája"
+       ]
+      ],
+      "cite": "58, 6-11",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht Gott, der Herr:"
+       ],
+       [
+        "Das ist ein Fasten, wie ich es liebe: die Fesseln des Unrechts zu lösen, die Stricke des Jochs zu entfernen, die Versklavten freizulassen, jedes Joch zu zerbrechen, an die Hungrigen dein Brot auszuteilen, die obdachlosen Armen ins Haus aufzunehmen, wenn du einen Nackten siehst, ihn zu bekleiden und dich deinen Verwandten nicht zu entziehen."
+       ],
+       [
+        "Dann wird dein Licht hervorbrechen wie die Morgenröte, und deine Wunden werden schnell vernarben. Deine Gerechtigkeit geht dir voran, die Herrlichkeit des Herrn folgt dir nach. Wenn du dann rufst, wird der Herr dir Antwort geben, und wenn du um Hilfe schreist, wird er sagen: Hier bin ich."
+       ],
+       [
+        "Wenn du der Unterdrückung bei dir ein Ende machst, auf keinen mit dem Finger zeigst und niemand verleumdest, dem Hungrigen dein Brot reichst und den Darbenden satt machst, dann geht im Dunkel dein Licht auf, und deine Finsternis wird hell wie der Mittag."
+       ],
+       [
+        "Der Herr wird dich immer führen, auch im dürren Land macht er dich satt und stärkt deine Glieder. Du gleichst einem bewässerten Garten, einer Quelle, deren Wasser niemals versiegt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.first-reading.15"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.first-reading.15"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 111(112), 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 111(112), 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111:1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 111:1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 111 (112)",
       "role": "title"
      }
@@ -180,16 +739,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R: vgl. 1a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -236,7 +803,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -370,7 +937,7 @@
       "k": "p",
       "lines": [
        [
-        "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos! ."
+        "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos!."
        ]
       ]
      }
@@ -514,7 +1081,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -789,7 +1356,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1076,7 +1643,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1207,7 +1774,7 @@
       "k": "p",
       "lines": [
        [
-        "Confiando em Deus, seu coração está seguro. Seu coração está tranqüilo e nada teme, e confusos há de ver seus inimigos"
+        "Confiando em Deus, seu coração está seguro. Seu coração está tranquilo e nada teme, e confusos há de ver seus inimigos"
        ]
       ]
      }
@@ -1320,7 +1887,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1559,7 +2126,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1669,46 +2236,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cssaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "25"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.25"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1738,6 +2275,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Vós sois meus amigos, se fizerdes o que eu vos mando."
        ]
       ],
@@ -1763,6 +2309,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1775,6 +2330,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1804,6 +2368,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Voi siete miei amici, se fate ciò che io vi comando."
        ]
       ],
@@ -1829,6 +2402,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1841,6 +2423,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2298,7 +2889,7 @@
  "title": {
   "la": "S. Margaritæ Scotiæ",
   "pt-BR": "Santa Margarida da Escócia",
-  "en-US": "St. Margaret of Scotland",
+  "en-US": "Saint Margaret of Scotland",
   "es": "Santa Margarita de Escocia",
   "it": "Santa Margherita Di Scozia",
   "fr": "Sainte Marguerite d'Écosse",

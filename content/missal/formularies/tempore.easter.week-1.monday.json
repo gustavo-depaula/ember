@@ -291,7 +291,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ]
@@ -304,7 +304,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ]
@@ -317,7 +317,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -330,7 +330,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ]
@@ -343,7 +343,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ]
@@ -356,7 +356,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ]
@@ -369,7 +369,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ]
@@ -498,7 +498,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -519,7 +519,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -603,7 +603,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1480,8 +1480,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — FERIA II — INFRA OCTAVAM PASCHÆ",
-  "pt-BR": "Tempo Pascal — SEGUNDA-FEIRA — NA OITAVA DA PÁSCOA",
-  "en-US": "Easter Season — MONDAY WITHIN THE OCTAVE OF EASTER",
+  "pt-BR": "Segunda-feira na Oitava da Páscoa",
+  "en-US": "Monday within the Octave of Easter",
   "es": "Tiempo Pascual — LUNES — DE LA OCTAVA DE PASCUA",
   "it": "OTTAVA DI PASQUA — Lunedì — fra l'ottava di Pasqua",
   "fr": "Temps pascal — LUNDI DE LA 1e SEMAINE",

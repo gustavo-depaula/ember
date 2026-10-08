@@ -35,7 +35,7 @@
         },
         {
          "m": "rubric",
-         "t": " martii ; vel de S. Ioseph opifice, ut die"
+         "t": " martii; vel de S. Ioseph opifice, ut die"
         },
         " ",
         {
@@ -45,7 +45,7 @@
         },
         {
          "m": "rubric",
-         "t": " maii ."
+         "t": " maii."
         }
        ]
       ]
@@ -92,7 +92,7 @@
         },
         {
          "m": "rubric",
-         "t": " de maio ."
+         "t": " de maio."
         }
        ]
       ]
@@ -1927,8 +1927,8 @@
  ],
  "title": {
   "la": "13. DE S. IOSEPH",
-  "pt-BR": "13. SAO JOSÉ",
-  "en-US": "13. SAINT JOSEPH",
+  "pt-BR": "13. Sao José",
+  "en-US": "13. Saint Joseph",
   "es": "13. DE SAN JOSÉ",
   "it": "13. DI SAN GIUSEPPE",
   "fr": "13. SAINT JOSEPH",

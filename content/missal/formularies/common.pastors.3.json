@@ -376,7 +376,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -390,7 +390,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -404,7 +404,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -432,7 +432,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -446,7 +446,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -756,7 +756,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " a presiedere il tuo popolo, per la sua intercessione dona a noi la grazia della tua misericordia. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+        "a presiedere il tuo popolo, per la sua intercessione dona a noi la grazia della tua misericordia. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
        ]
       ]
      }
@@ -849,7 +849,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ]
@@ -1445,7 +1445,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1552,7 +1552,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -1580,7 +1580,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -1594,7 +1594,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -1608,7 +1608,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -1650,7 +1650,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -2014,8 +2014,8 @@
  ],
  "title": {
   "la": "COMMUNE PASTORUM",
-  "pt-BR": "COMUM DOS PASTORES",
-  "en-US": "COMMON OF PASTORS",
+  "pt-BR": "Comum dos Pastores",
+  "en-US": "Common of Pastors",
   "es": "COMÚN DE PASTORES",
   "it": "COMUNE DEI PASTORI",
   "fr": "COMMUN DES PASTEURS",

@@ -62,45 +62,6 @@
    "text": {
     "*": [
      {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "Común de santa María Virgen:"
-        },
-        " ",
-        {
-         "m": "link",
-         "t": "1",
-         "to": "common.blessed-virgin-mary.1"
-        },
-        {
-         "m": "link",
-         "t": "2",
-         "to": "common.blessed-virgin-mary.2"
-        },
-        {
-         "m": "link",
-         "t": "3",
-         "to": "common.blessed-virgin-mary.3"
-        },
-        " ",
-        {
-         "m": "rubric",
-         "t": "."
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "title"
-  },
-  {
-   "text": {
-    "*": [
-     {
       "k": "h4",
       "lines": [
        [

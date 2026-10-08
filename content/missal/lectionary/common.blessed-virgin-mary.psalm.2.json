@@ -3,36 +3,26 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Iudt 13, 18bcde. 19 (: 15, 9d)",
+      ],
+      "cite": "Iudt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Jt 13,18bcde.19 (R.: 15,9d)",
       "role": "title"
      }
@@ -40,15 +30,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jdt 13, 18bcde. 19 (: 15, 9d)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Jdt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Jdt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
@@ -56,7 +54,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Gdt 13, 18-19",
       "role": "title"
      }
@@ -64,16 +66,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Iudt 13, 18bcde. 19 (: 15, 9d)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Iudt 13, 18bcde. 19 (R.: 15, 9d)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Jdt 13, 18bc. 19 u. 20bc (R: vgl. 15, 9b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Jdt 13, 18bc. 19 u. 20bc (R.: vgl. 15, 9b)",
       "role": "title"
      }
     ]

@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -645,7 +645,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 66. 68. 76. 77. 93. 94 (: 68b)",
+      "cite": "Ps 118, 66. 68. 76. 77. 93. 94 (R.: 68b)",
       "role": "title"
      }
     ],
@@ -657,7 +657,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 66 e 68.76 e 77.93 e 94 (: 68b)",
+      "cite": "Sl 118 (119), 66 e 68.76 e 77.93 e 94 (R.: 68b)",
       "role": "title"
      }
     ],
@@ -669,7 +669,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 66. 68. 76. 77. 93. 94 (: 68b)",
+      "cite": "Ps 118, 66. 68. 76. 77. 93. 94 (R.: 68b)",
       "role": "title"
      }
     ],
@@ -681,7 +681,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 66. 68. 76. 77. 93. 94 (: 68b)",
+      "cite": "Sal 118, 66. 68. 76. 77. 93. 94 (R.: 68b)",
       "role": "title"
      }
     ],
@@ -705,7 +705,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 66. 68. 76. 77. 93. 94 (: 68b)",
+      "cite": "Ps 118, 66. 68. 76. 77. 93. 94 (R.: 68b)",
       "role": "title"
      }
     ],
@@ -717,7 +717,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 66 u. 68. 76-77. 93-94 (R: 68b)",
+      "cite": "Ps 119 (118), 66 u. 68. 76-77. 93-94 (R.: 68b)",
       "role": "title"
      }
     ]
@@ -2545,7 +2545,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -2557,7 +2557,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 23 (24), 1-2.3-4.5-6 (: cf. 6)",
+      "cite": "Sl 23 (24), 1-2.3-4.5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -2569,7 +2569,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -2581,7 +2581,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Sal 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -2605,7 +2605,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (: cf. 6)",
+      "cite": "Ps 23, 1-2. 3-4ab. 5-6 (R.: cf. 6)",
       "role": "title"
      }
     ],
@@ -2617,7 +2617,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R: vgl. 6)",
+      "cite": "Ps 24 (23), 1-2. 3-4. 5-6 (R.: vgl. 6)",
       "role": "title"
      }
     ]
@@ -3225,7 +3225,7 @@
       "k": "p",
       "lines": [
        [
-        "Sobre este desce a benção do Senhor"
+        "Sobre este desce a bênção do Senhor"
        ],
        [
         "e a recompensa de seu Deus e Salvador\"."
@@ -4246,7 +4246,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XXIX",
   "pt-BR": "Sexta-feira da 29ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 29th Week: Friday",
+  "en-US": "Friday of the Twenty-Ninth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 29ª semana",
   "it": "VENERDI della XXIX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 29e semaine",

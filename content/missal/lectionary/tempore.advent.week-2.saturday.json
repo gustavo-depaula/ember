@@ -673,7 +673,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 79, 2ac et 3bc. 15-16. 18-19 (: 4)",
+      "cite": "Ps 79, 2ac et 3bc. 15-16. 18-19 (R.: 4)",
       "role": "title"
      }
     ],
@@ -685,7 +685,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 79 (80), 2ac e 3b. 15-16.18-19 (: 4)",
+      "cite": "Sl 79 (80), 2ac e 3b. 15-16.18-19 (R.: 4)",
       "role": "title"
      }
     ],
@@ -697,7 +697,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 79, 2ac et 3bc. 15-16. 18-19 (: 4)",
+      "cite": "Ps 79, 2ac and 3bc. 15-16. 18-19 (R.: 4)",
       "role": "title"
      }
     ],
@@ -709,7 +709,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 79, 2ac et 3bc. 15-16. 18-19 (: 4)",
+      "cite": "Sal 79, 2ac et 3bc. 15-16. 18-19 (R.: 4)",
       "role": "title"
      }
     ],
@@ -733,7 +733,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 79, 2ac et 3bc. 15-16. 18-19 (: 4)",
+      "cite": "Ps 79, 2ac et 3bc. 15-16. 18-19 (R.: 4)",
       "role": "title"
      }
     ],
@@ -745,7 +745,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 80 (79), 2ac u. 3bc. 15-16. 18-19 (R: vgl. 4)",
+      "cite": "Ps 80 (79), 2ac u. 3bc. 15-16. 18-19 (R.: vgl. 4)",
       "role": "title"
      }
     ]
@@ -2346,8 +2346,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada II — Sabbato",
-  "pt-BR": "Sábado",
-  "en-US": "Advent Season — 2nd Week: Saturday",
+  "pt-BR": "Sábado da 2ª Semana do Advento",
+  "en-US": "Saturday of the Second Week of Advent",
   "es": "Tiempo de Adviento — Sábado de la II Semana",
   "it": "Sabato della II settimana di Avvento",
   "fr": "Temps de l'Avent — 2e semaine — Sabbato",

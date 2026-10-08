@@ -862,7 +862,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -876,7 +876,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -890,7 +890,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -904,7 +904,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -918,7 +918,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -932,7 +932,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -946,7 +946,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1015,7 +1015,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1024,7 +1024,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1033,7 +1033,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1285,8 +1285,8 @@
  ],
  "title": {
   "la": "DOMINICA XXIII «PER ANNUM»",
-  "pt-BR": "23º DOMINGO DO TEMPO COMUM",
-  "en-US": "23rd SUNDAY IN ORDINARY TIME",
+  "pt-BR": "23º Domingo do Tempo Comum",
+  "en-US": "Twenty-Third Sunday in Ordinary Time",
   "es": "XXIII DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XXIII DOMENICA",
   "fr": "Temps ordinaire — 23ème DIMANCHE",

@@ -241,7 +241,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, depois de longa discussão, Pedro levantou-se e falou aos apóstolos e anciãos: “Irmãos, vós sabeis que, desde os primeiros dias, Deus me escolheu, do vosso meio, para que os pagãos ouvissem de minha boca a palavra do Evangelho e acreditassem. Ora, Deus, que conhece os corações, testemunhou a favor deles, dando-lhes o Espírito Santo como o deu a nós. E não fez nenhuma distinção entre nós e eles, purificando o coração deles mediante a fé. Então, por que vós agora pondes Deus à prova, querendo impor aos discípulos um jugo que nem nossos pais nem nós mesmos tivemos força para suportar? Ao contrário, é pela graça do Senhor Jesus que acreditamos ser salvos, exatamente como eles”. Houve então um grande silêncio em toda a assembleia. Depois disso, ouviram Barnabé e Paulo contar todos os sinais e prodígios que Deus havia realizado, por meio deles, entre os pagãos. Quando Barnabé e Paulo terminaram de falar, Tiago tomou a palavra e disse: “Irmãos, ouvi-me: Simão acaba de nos lembrar como, desde o começo, Deus se dignou tomar homens das nações pagãs para formar um povo dedicado ao seu Nome. Isso concorda com as palavras dos profetas, pois está escrito: 'Depois disso, eu voltarei e reconstruirei a tenda de Davi que havia caído; reconstruirei as ruínas que ficaram e a reerguerei, a fim de que o resto dos homens procure o Senhor com todas as nações que foram consagradas ao meu Nome. É o que diz o Senhor, que fez estas coisas, conhecidas há muito tempo'. Por isso, sou do parecer que devemos parar de importunar os pagãos que se convertem a Deus. Vamos somente prescrever que eles evitem o que está contaminado pelos ídolos, as uniões ilegítimas, comer carne de animal sufocado e o uso do sangue. Com efeito, desde os tempos antigos, em cada cidade, Moisés tem os seus pregadores, que lêem todos os sábados nas sinagogas."
+        "Naqueles dias, depois de longa discussão, Pedro levantou-se e falou aos apóstolos e anciãos: “Irmãos, vós sabeis que, desde os primeiros dias, Deus me escolheu, do vosso meio, para que os pagãos ouvissem de minha boca a palavra do Evangelho e acreditassem. Ora, Deus, que conhece os corações, testemunhou a favor deles, dando-lhes o Espírito Santo como o deu a nós. E não fez nenhuma distinção entre nós e eles, purificando o coração deles mediante a fé. Então, por que vós agora pondes Deus à prova, querendo impor aos discípulos um jugo que nem nossos pais nem nós mesmos tivemos força para suportar? Ao contrário, é pela graça do Senhor Jesus que acreditamos ser salvos, exatamente como eles”. Houve então um grande silêncio em toda a assembleia. Depois disso, ouviram Barnabé e Paulo contar todos os sinais e prodígios que Deus havia realizado, por meio deles, entre os pagãos. Quando Barnabé e Paulo terminaram de falar, Tiago tomou a palavra e disse: “Irmãos, ouvi-me: Simão acaba de nos lembrar como, desde o começo, Deus se dignou tomar homens das nações pagãs para formar um povo dedicado ao seu Nome. Isso concorda com as palavras dos profetas, pois está escrito: 'Depois disso, eu voltarei e reconstruirei a tenda de Davi que havia caído; reconstruirei as ruínas que ficaram e a reerguerei, a fim de que o resto dos homens procure o Senhor com todas as nações que foram consagradas ao meu Nome. É o que diz o Senhor, que fez estas coisas, conhecidas há muito tempo'. Por isso, sou do parecer que devemos parar de importunar os pagãos que se convertem a Deus. Vamos somente prescrever que eles evitem o que está contaminado pelos ídolos, as uniões ilegítimas, comer carne de animal sufocado e o uso do sangue. Com efeito, desde os tempos antigos, em cada cidade, Moisés tem os seus pregadores, que leem todos os sábados nas sinagogas."
        ]
       ]
      },
@@ -619,7 +619,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 10 (R/.: cf. 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 10 (R.: cf. 3)",
       "role": "title"
      }
     ],
@@ -631,7 +631,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), 1-2a.2b-3.10 (R/.: cf. 3)",
+      "cite": "Sl 95 (96), 1-2a.2b-3.10 (R.: cf. 3)",
       "role": "title"
      }
     ],
@@ -643,7 +643,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 95, 1-2a. 2b-3. 10 (R.: cf. 3)"
      }
     ],
     "es": [
@@ -654,7 +655,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 1-2a. 2b-3. 10 (R/.: cf. 3)",
+      "cite": "Sal 95, 1-2a. 2b-3. 10 (R.: cf. 3)",
       "role": "title"
      }
     ],
@@ -678,7 +679,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 10 (R/.: cf. 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 10 (R.: cf. 3)",
       "role": "title"
      }
     ],
@@ -690,7 +691,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 1-2. 3 u. 10 (R: vgl. 3a)",
+      "cite": "Ps 96 (95), 1-2. 3 u. 10 (R.: vgl. 3a)",
       "role": "title"
      }
     ]
@@ -715,7 +716,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -736,7 +737,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -757,7 +758,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -778,7 +779,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -799,7 +800,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -820,7 +821,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -986,7 +987,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1007,7 +1008,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1028,7 +1029,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1049,7 +1050,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1070,7 +1071,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1091,7 +1092,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1254,7 +1255,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1275,7 +1276,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1296,7 +1297,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1317,7 +1318,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1338,7 +1339,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1359,7 +1360,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1525,7 +1526,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1546,7 +1547,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1567,7 +1568,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1588,7 +1589,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1609,7 +1610,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1630,7 +1631,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1722,7 +1723,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 10, 27"
      },
      {
       "k": "p",
@@ -1736,7 +1738,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2465,8 +2467,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada V — Feria V",
-  "pt-BR": "Tempo da Páscoa — 5ª Semana — Quinta-feira",
-  "en-US": "Easter Season — Fifth Week — Thursday",
+  "pt-BR": "Quinta-feira da 5ª Semana da Páscoa",
+  "en-US": "Thursday of the Fifth Week of Easter",
   "es": "Tiempo de Pascua — Semana V — Jueves",
   "it": "GIOVEDI della V settimana di Pasqua",
   "fr": "Temps pascal — 5e semaine — Jeudi",

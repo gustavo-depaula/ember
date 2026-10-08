@@ -221,10 +221,19 @@
       "k": "p",
       "lines": [
        [
-        "The rulers, elders and scribes were astonished at the assurance shown by Peter and John, considering they were uneducated laymen; and they recognised them as associates of Jesus; but when they saw the man who had been cured standing by their side, they could find no answer. So they ordered them to stand outside while the Sanhedrin had a private discussion. 'What are we going to do with these men?' they asked. 'It is obvious to everybody in Jerusalem that a miracle has been worked through them in public, and we cannot deny it. But to stop the whole thing spreading any further among the people, let us caution them never to speak to anyone in this name again.' So they called them in and gave them a warning on no account to make statements or to teach in the name of Jesus. But Peter and John retorted, 'You must judge whether in God's eyes it is right to listen to you and not to God. We cannot promise to stop proclaiming what we have seen and heard.' The court repeated the warnings and then released them; they could not think of any way to punish them, since all the people were giving glory to God for what had happened."
+        "A reading from the Acts of the Apostles"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "4, 13-21"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The rulers, elders and scribes were astonished at the assurance shown by Peter and John, considering they were uneducated laymen; and they recognised them as associates of Jesus; but when they saw the man who had been cured standing by their side, they could find no answer. So they ordered them to stand outside while the Sanhedrin had a private discussion. 'What are we going to do with these men?' they asked. 'It is obvious to everybody in Jerusalem that a miracle has been worked through them in public, and we cannot deny it. But to stop the whole thing spreading any further among the people, let us caution them never to speak to anyone in this name again.' So they called them in and gave them a warning on no account to make statements or to teach in the name of Jesus. But Peter and John retorted, 'You must judge whether in God's eyes it is right to listen to you and not to God. We cannot promise to stop proclaiming what we have seen and heard.' The court repeated the warnings and then released them; they could not think of any way to punish them, since all the people were giving glory to God for what had happened."
+       ]
+      ]
      },
      {
       "k": "p",
@@ -593,7 +602,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 118, 1. 14-15. 16ab-18. 19-21"
      }
     ],
     "es": [
@@ -640,7 +650,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 118 (117), 1-2. 14-15. 16-17. 18-19. 20-21 (R: 21a)",
+      "cite": "Ps 118 (117), 1-2. 14-15. 16-17. 18-19. 20-21 (R.: 21a)",
       "role": "title"
      }
     ]
@@ -707,7 +717,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -749,7 +759,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1038,7 +1048,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1080,7 +1090,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1366,7 +1376,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1408,7 +1418,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1694,7 +1704,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1736,7 +1746,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1952,7 +1962,7 @@
         "é a vida que enfrenta a morte."
        ],
        [
-        "O Rei da vida, cativo, foi morto, mas reina vivo!."
+        "O Rei da vida, cativo, foi morto, mas reina vivo!"
        ]
       ]
      },
@@ -3364,8 +3374,8 @@
  ],
  "title": {
   "la": "Sabbato — infra octavam Paschae",
-  "pt-BR": "Sábado — Oitava da Páscoa",
-  "en-US": "Easter Saturday",
+  "pt-BR": "Sábado na Oitava da Páscoa",
+  "en-US": "Saturday within the Octave of Easter",
   "es": "Sábado — de la octava de Pascua",
   "it": "Sabato FRA L`OTTAVA DI PASQUA",
   "fr": "Temps pascal — Samedi de la 1e semaine",

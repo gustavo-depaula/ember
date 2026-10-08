@@ -141,7 +141,7 @@
       "k": "p",
       "lines": [
        [
-        "“Quare ieiunávimus, et non aspexísti, humiliávimus ánimam nostram, et nescísti?“."
+        "“Quare ieiunávimus, et non aspexísti, humiliávimus ánimam nostram, et nescísti? “."
        ]
       ]
      },
@@ -220,7 +220,7 @@
       "k": "p",
       "lines": [
        [
-        "Assim fala o Senhor Deus: Grita forte, sem cessar, levanta a voz como trombeta e denuncia os crimes do meu povoe os pecados da casa de Jacó. Buscam-me cada dia e desejam conhecer meus propósitos, como gente que pratica a justiçae não abandonou a lei de Deus. Exigem de mim julgamentos justos e querem estar na proximidade de Deus: \"Por que não te regozijaste, quando jejuávamos,e o ignoraste, quando nos humilhávamos?\"- É porque no dia do vosso jejum tratais de negócios e oprimis os vossos empregados.É porque ao mesmo tempo que jejuais, fazeis litígios e brigas e agressões impiedosas. Não façais jejum com esse espírito, se quereis que vosso pedido seja ouvido no céu. Acaso é esse jejum que aprecio, o dia em que uma pessoa se mortifica? Trata-se talvez de curvar a cabeça como junco, e de deitar-se em saco e sobre cinza? Acaso chamas a isso jejum, dia grato ao Senhor? Acaso o jejum que prefiro não é outro: quebrar as cadeias injustas, desligar as amarras do jugo, tornar livres os que estão detidos, enfim, romper todo tipo de sujeição? Não é repartir o pão com o faminto, acolher em casa os pobres e peregrinos? Quando encontrares um nu, cobre-o, e não desprezes a tua carne. Então, brilhará tua luz como a aurora e tua saúde há de recuperar-se mais depressa; à frente caminhará tua justiça e a glória do Senhor te seguirá. Então invocarás o Senhor e ele te atenderá, pedirás socorro, e ele dirá: \"Eis-me aqui\"."
+        "Assim fala o Senhor Deus: Grita forte, sem cessar, levanta a voz como trombeta e denuncia os crimes do meu povo e os pecados da casa de Jacó. Buscam-me cada dia e desejam conhecer meus propósitos, como gente que pratica a justiça e não abandonou a lei de Deus. Exigem de mim julgamentos justos e querem estar na proximidade de Deus: \"Por que não te regozijaste, quando jejuávamos, e o ignoraste, quando nos humilhávamos?\"- É porque no dia do vosso jejum tratais de negócios e oprimis os vossos empregados.É porque ao mesmo tempo que jejuais, fazeis litígios e brigas e agressões impiedosas. Não façais jejum com esse espírito, se quereis que vosso pedido seja ouvido no céu. Acaso é esse jejum que aprecio, o dia em que uma pessoa se mortifica? Trata-se talvez de curvar a cabeça como junco, e de deitar-se em saco e sobre cinza? Acaso chamas a isso jejum, dia grato ao Senhor? Acaso o jejum que prefiro não é outro: quebrar as cadeias injustas, desligar as amarras do jugo, tornar livres os que estão detidos, enfim, romper todo tipo de sujeição? Não é repartir o pão com o faminto, acolher em casa os pobres e peregrinos? Quando encontrares um nu, cobre-o, e não desprezes a tua carne. Então, brilhará tua luz como a aurora e tua saúde há de recuperar-se mais depressa; à frente caminhará tua justiça e a glória do Senhor te seguirá. Então invocarás o Senhor e ele te atenderá, pedirás socorro, e ele dirá: \"Eis-me aqui\"."
        ]
       ]
      },
@@ -707,7 +707,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 50, 3-4. 5-6a. 18-19 (: 19b)",
+      "cite": "Ps 50, 3-4. 5-6a. 18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -719,7 +719,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 50 (51), 3-4.5-6a.18-19 (: 19b)",
+      "cite": "Sl 50 (51), 3-4.5-6a.18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -731,7 +731,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 50, 3-4. 5-6a. 18-19 (: 19b)",
+      "cite": "Ps 50, 3-4. 5-6a. 18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -743,7 +743,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 50, 3-4. 5-6a. 18-19 (: 19b)",
+      "cite": "Sal 50, 3-4. 5-6a. 18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -767,7 +767,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 50, 3-4. 5-6a. 18-19 (: 19b)",
+      "cite": "Ps 50, 3-4. 5-6a. 18-19 (R.: 19b)",
       "role": "title"
      }
     ],
@@ -779,7 +779,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 51 (50), 3-4. 5-6b. 18-19 (R: 19b)",
+      "cite": "Ps 51 (50), 3-4. 5-6b. 18-19 (R.: 19b)",
       "role": "title"
      }
     ]
@@ -2375,8 +2375,8 @@
  ],
  "title": {
   "la": "Tempus Quadragesimæ — Feria sexta post Cineres",
-  "pt-BR": "Tempo da Quaresma — Sexta-feira depois das Cinzas",
-  "en-US": "Season of Lent — Friday after Ash Wednesday",
+  "pt-BR": "Sexta-feira depois das Cinzas",
+  "en-US": "Friday after Ash Wednesday",
   "es": "Tiempo de Cuaresma — Viernes después de Ceniza",
   "it": "VENERDI DOPO LE CENERI",
   "fr": "TVendredi après les Cendres",

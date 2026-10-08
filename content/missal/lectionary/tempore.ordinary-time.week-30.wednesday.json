@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -638,7 +638,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 12, 4-5. 6 (: 6a)",
+      "cite": "Ps 12, 4-5. 6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -650,7 +650,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 12 (13), 4-5.6 (: 6a)",
+      "cite": "Sl 12 (13), 4-5.6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -662,7 +662,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 12, 4-5. 6 (: 6a)",
+      "cite": "Ps 12, 4-5. 6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -674,7 +674,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 12, 4-5. 6 (: 6a)",
+      "cite": "Sal 12, 4-5. 6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -698,7 +698,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 12, 4-5. 6 (: 6a)",
+      "cite": "Ps 12, 4-5. 6 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -710,7 +710,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 13 (12), 4-5. 6 (R: vgl. 6a)",
+      "cite": "Ps 13 (12), 4-5. 6 (R.: vgl. 6a)",
       "role": "title"
      }
     ]
@@ -743,7 +743,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Senhor, eu confiei na vossa graça!."
+        "Senhor, eu confiei na vossa graça!"
        ]
       ]
      }
@@ -1209,7 +1209,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Senhor, eu confiei na vossa graça!."
+        "Senhor, eu confiei na vossa graça!"
        ]
       ]
      }
@@ -1824,7 +1824,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 144, 10-11. 12-13ab. 13cd-14 (: 13c)",
+      "cite": "Ps 144, 10-11. 12-13ab. 13cd-14 (R.: 13c)",
       "role": "title"
      }
     ],
@@ -1836,7 +1836,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 144 (145), 10-11.12-13ab.13cd-14 (: 13c)",
+      "cite": "Sl 144 (145), 10-11.12-13ab.13cd-14 (R.: 13c)",
       "role": "title"
      }
     ],
@@ -1848,7 +1848,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 144, 10-11. 12-13ab. 13cd-14 (: 13c)",
+      "cite": "Ps 144, 10-11. 12-13ab. 13cd-14 (R.: 13c)",
       "role": "title"
      }
     ],
@@ -1860,7 +1860,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 144, 10-11. 12-13ab. 13cd-14 (: 13c)",
+      "cite": "Sal 144, 10-11. 12-13ab. 13cd-14 (R.: 13c)",
       "role": "title"
      }
     ],
@@ -1884,7 +1884,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 144, 10-11. 12-13ab. 13cd-14 (: 13c)",
+      "cite": "Ps 144, 10-11. 12-13ab. 13cd-14 (R.: 13c)",
       "role": "title"
      }
     ],
@@ -1896,7 +1896,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 145 (144), 10-11. 12-13b. 13c-14 (R: 13c)",
+      "cite": "Ps 145 (144), 10-11. 12-13b. 13c-14 (R.: 13c)",
       "role": "title"
      }
     ]
@@ -3559,7 +3559,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXX",
   "pt-BR": "Quarta-feira da 30ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 30th Week: Wednesday",
+  "en-US": "Wednesday of the Thirtieth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 30ª semana",
   "it": "MERCOLEDI della XXX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 30e semaine",

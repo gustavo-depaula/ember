@@ -629,7 +629,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -641,7 +641,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 149, 1-2.3-4.5-6a.9b (: 4a)",
+      "cite": "Sl 149, 1-2.3-4.5-6a.9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -653,7 +653,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a and 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -665,7 +665,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 149, 1-2. 3-4. 5-6a y 9b (R/.: 4a)",
+      "cite": "Sal 149, 1-2. 3-4. 5-6a y 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -689,7 +689,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -701,7 +701,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R.: 4a)",
       "role": "title"
      }
     ]
@@ -1912,7 +1912,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Proclamação do Evangelio de Jesus Cristo según Juan"
+        " Proclamação do Evangelho de Jesus Cristo segundo João"
        ]
       ],
       "cite": "2, 1-11",
@@ -2570,8 +2570,8 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 7 ianuarii",
-  "pt-BR": "Tempo do Natal depois da Epifania — 7 de Janeiro",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 7 — (before Epiphany)",
+  "pt-BR": "7 de janeiro",
+  "en-US": "January 7",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 7 de enero — antes de Epifanía",
   "it": "7 gennaio",
   "fr": "Temps de Noël",

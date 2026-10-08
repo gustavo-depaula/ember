@@ -114,58 +114,498 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cv1f2"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "1"
-        }
+        "Sponsabo te mihi in sempiternum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Osée prophétæ"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc dicit Dóminus:"
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Ecce ego ducam eam in solitúdinem et loquar ad cor eius; et respondébit ibi iuxta dies iuventútis suæ et iuxta dies ascensiónis suæ de terra Ægýpti."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et sponsábo te mihi in sempitérnum; et sponsábo te mihi in iustítia et iudício et in misericórdia et miseratiónibus. Et sponsábo te mihi in fide, et cognósces Dóminum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu te desposarei para sempre."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Profecia de Oseias"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Assim fala o Senhor: \"Eis que eu a levarei à solidão, onde lhe falarei ao coração; e ela aí responderá ao compromisso, como nos dias de sua juventude, nos dias da sua vinda da terra do Egito. Eu te desposarei para sempre; eu te desposarei conforme as sanções da justiça e conforme as práticas da misericórdia. Eu te desposarei para manter fidelidade e tu conhecerás o Senhor\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of the Prophet Hosea"
+       ]
+      ],
+      "cite": "2:16.17.21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Thus says the Lord: I am going to lure her and lead her out into the wilderness and speak to her heart. There she will respond to me as she did when she was young, as she did when she came out of the land of Egypt. I will betroth you to myself for ever, betroth you with integrity and justice, with tenderness and love; I will betroth you to myself with faithfulness, and you will come to know the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me desposaré contigo para siempre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la profecía de Oseas"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esto dice el Señor:"
+       ],
+       [
+        "«Yo la llevo al desierto, le hablo al corazón."
+       ],
+       [
+        "Allí responderá como en los días de su juventud,"
+       ],
+       [
+        "como el día de su salida de Egipto."
+       ],
+       [
+        "Me desposaré contigo para siempre,"
+       ],
+       [
+        "me desposaré contigo"
+       ],
+       [
+        "en justicia y en derecho,"
+       ],
+       [
+        "en misericordia y en ternura,"
+       ],
+       [
+        "me desposaré contigo en fidelidad"
+       ],
+       [
+        "y conocerás al Señor»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti farò mia sposa per sempre."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Osea"
+       ]
+      ],
+      "cite": "2,16b.l7b.21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cosi dice il Signore:"
+       ],
+       [
+        "«Ecco, la condurrò nel deserto e parlerò al suo cuore."
+       ],
+       [
+        "Là mi risponderà come nei giorni della sua giovinezza, come quando uscì dal paese d'Egitto."
+       ],
+       [
+        "Ti farò mia sposa per sempre, ti farò mia sposa nella giustizia e nel diritto, nell'amore e nella benevolenza, ti farò mia sposa nella fedeltà e tu conoscerai il Signore»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Osée"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi parle le Seigneur : Mon épouse infidèle, je vais l'entraîner jusqu'au désert, et je lui parlerai cœur à cœur. Là, elle me répondra comme au temps de sa jeunesse, au jour où elle est sortie du pays d'Égypte. Je ferai de toi mon épouse pour toujours, je ferai de toi mon épouse dans la justice et le droit, dans la fidélité et la tendresse ; je ferai de toi mon épouse dans la loyauté, et tu connaîtras le Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Hoséa"
+       ]
+      ],
+      "cite": "2, 16b. 17b. 21-22",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So spricht der Herr:"
+       ],
+       [
+        "Ich will Israel, meine treulose Braut, in die Wüste hinausführen und sie umwerben. Sie wird mir dorthin bereitwillig folgen wie in den Tagen ihrer Jugend, wie damals, als sie aus Ägypten heraufzog."
+       ],
+       [
+        "Ich traue dich mir an auf ewig; ich traue dich mir an um den Brautpreis von Gerechtigkeit und Recht, von Liebe und Erbarmen, ich traue dich mir an um den Brautpreis meiner Treue: Dann wirst du den Herrn erkennen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.virgins.psalm.1"
+   "part": "firstReading",
+   "from": "common.virgins.first-reading.2"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.virgins.first-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a vel Mt 25, 6b)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 44, 11-12. 14-15. 16-17 (R.: 11a ou Mt 25, 6b)",
       "role": "title"
      }
     ],
@@ -177,22 +617,30 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a)",
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a vel Mt 25, 6b)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 44 (45)",
       "role": "title"
      }
@@ -200,16 +648,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 44, 11-12. 14-15. 16-17 (: 11a vel Mt 25, 6b)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 44, 11-12. 14-15. 16-17 (R.: 11a vel Mt 25, 6b)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 45 (44), 11-12. 14-15. 16-17 (R: 11a oder Mt 25, 6b)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 45 (44), 11-12. 14-15. 16-17 (R.: 11a oder Mt 25, 6b)",
       "role": "title"
      }
     ]
@@ -305,7 +761,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -555,7 +1011,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -814,7 +1270,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1076,7 +1532,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1124,26 +1580,6 @@
    "role": "people",
    "part": "psalm",
    "from": "common.virgins.psalm.1"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.virgins.acclamation.1"
   },
   {
    "text": {
@@ -1364,27 +1800,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.virgins.gospel.2"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1414,6 +1839,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "O noivo está chegando: ide ao seu encontro!"
        ]
       ],
@@ -1439,6 +1873,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1451,6 +1894,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1480,6 +1932,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Ecco lo sposo! Andategli incontro!"
        ]
       ],
@@ -1505,6 +1966,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1517,6 +1987,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1718,7 +2197,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus told this parable to his disciples: 'The kingdom of heaven will be like this: Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish and five were sensible: the foolish ones did take their lamps, but they brought no oil, whereas the sensible ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, \"The bridegroom is here! Go out and meet him.\" At this, all those bridesmaids woke up and trimmed their lamps, and the foolish ones said to the sensible ones, \"Give us some of your oil: our lamps are going out\". But they replied, \"There may not be enough for us and for you; you had better go to those who sell it and buy some for yourselves\". They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall and the door was closed. The other bridesmaids arrived later. \"Lord, Lord,\" they said \"open the door for us.\" But he replied, \"I tell you solemnly, I do not know you\". So stay awake, because you do not know either the day or the hour."
+        "Jesus told this parable to his disciples: 'The kingdom of heaven will be like this: Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish and five were sensible: the foolish ones did take their lamps, but they brought no oil, whereas the sensible ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, \"The bridegroom is here! Go out and meet him.\" At this, all those bridesmaids woke up and trimmed their lamps, and the foolish ones said to the sensible ones, \"Give us some of your oil: our lamps are going out\". But they replied, \"There may not be enough for us and for you; you had better go to those who sell it and buy some for yourselves\". They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall and the door was closed. The other bridesmaids arrived later. \"Lord, Lord, \" they said \"open the door for us.\" But he replied, \"I tell you solemnly, I do not know you\". So stay awake, because you do not know either the day or the hour."
        ]
       ]
      },
@@ -2026,7 +2505,7 @@
  "title": {
   "la": "S. Teresiæ Benedictæ a Cruce, virginis et martyris",
   "pt-BR": "Santa Teresa Benedita da Cruz, virgem e mártir",
-  "en-US": "St. Teresa Benedicta of the Cross (Edith Stein), Virgin and Martyr",
+  "en-US": "Saint Teresa Benedicta of the Cross (Edith Stein), Virgin and Martyr",
   "es": "Santa Teresa Benedicta de la Cruz (Edith Stein), mártir y religiosa",
   "it": "Santa Teresa Benedetta della Croce, vergine e martire, patrona d'Europa",
   "fr": "Sainte Thérèse-Bénédicte de la Croix, vierge et martyre",

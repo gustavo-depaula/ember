@@ -218,7 +218,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: Aspirai aos dons mais elevados. Eu vou ainda mostrar-vos um caminho incomparavelmente superior. Se eu falasse todas as linguas, as dos homesn e as dos anjos, mas não tivesse caridade, eu seria como um bronze que soa ou um címbalo que retine. Se eu tivesse o dom de profecia, se conhecesse todos os mistérios e toda a ciência, se tivesse toda a fé, a ponto de transportar montanhas, mas se não tivesse caridade, eu não seria nada. Se eu gastasse todos os meus bens para sustento dos pobres, se entregasse o meu corpo às chamas, mas não tivesse caridade, isso de nada serviria. A caridade é paciente, é benigna; não é invejosa, não é vaidosa, não se ensoberbece; não faz nada de inconveniente, não é interesseira, não se encoleriza, não guarda rancor; não se alegra com a iniquidade, mas regocija-se com a verdade. Suporta tudo, crê tudo, espera tudo, desculpa tudo. A caridade não acabará nunca. As profecias desaparecerão, as linguas cessarão, a ciência desaparecerá. Com efeito, o nosso conhecimento é limitado e a nossa profecia é imperfeita. Mas, quando vier o que é perfeito, desaparecerá o que é imperfeito. Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Quando me tornei adulto, rejeitei o que era proprio de criança. Agora nos vemos num espelho, confusamente, mas, então, veremos face a face. Agora, conheço apenas de modo imperfeito, mas, então, conhecerei como sou conhecido. Atualmente permanecem estas três coisas: fé, esperança, caridade. Mas a maior delas é a caridade."
+        "Irmãos: Aspirai aos dons mais elevados. Eu vou ainda mostrar-vos um caminho incomparavelmente superior. Se eu falasse todas as línguas, as dos homens e as dos anjos, mas não tivesse caridade, eu seria como um bronze que soa ou um címbalo que retine. Se eu tivesse o dom de profecia, se conhecesse todos os mistérios e toda a ciência, se tivesse toda a fé, a ponto de transportar montanhas, mas se não tivesse caridade, eu não seria nada. Se eu gastasse todos os meus bens para sustento dos pobres, se entregasse o meu corpo às chamas, mas não tivesse caridade, isso de nada serviria. A caridade é paciente, é benigna; não é invejosa, não é vaidosa, não se ensoberbece; não faz nada de inconveniente, não é interesseira, não se encoleriza, não guarda rancor; não se alegra com a iniquidade, mas regocija-se com a verdade. Suporta tudo, crê tudo, espera tudo, desculpa tudo. A caridade não acabará nunca. As profecias desaparecerão, as línguas cessarão, a ciência desaparecerá. Com efeito, o nosso conhecimento é limitado e a nossa profecia é imperfeita. Mas, quando vier o que é perfeito, desaparecerá o que é imperfeito. Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Quando me tornei adulto, rejeitei o que era proprio de criança. Agora nos vemos num espelho, confusamente, mas, então, veremos face a face. Agora, conheço apenas de modo imperfeito, mas, então, conhecerei como sou conhecido. Atualmente permanecem estas três coisas: fé, esperança, caridade. Mas a maior delas é a caridade."
        ]
       ]
      },
@@ -494,7 +494,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -602,7 +602,7 @@
       "k": "p",
       "lines": [
        [
-        "Irmãos: A caridade é paciente, é benigna; não é invejosa, não é vaidosa, não se ensoberbece; não faz nada de inconveniente, não é interesseira, não se encoleriza, não guarda rancor; não se alegra com a iniquidade, mas regocija-se com a verdade. Suporta tudo, crê tudo, espera tudo, desculpa tudo. A caridade não acabará nunca. As profecias desaparecerão, as linguas cessarão, a ciência desaparecerá. Com efeito, o nosso conhecimento é limitado e a nossa profecia é imperfeita. Mas, quando vier o que é perfeito, desaparecerá o que é imperfeito. Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Quando me tornei adulto, rejeitei o que era proprio de criança. Agora nos vemos num espelho, confusamente, mas, então, veremos face a face. Agora, conheço apenas de modo imperfeito, mas, então, conhecerei como sou conhecido. Atualmente permanecem estas três coisas: fé, esperança, caridade. Mas a maior delas é a caridade."
+        "Irmãos: A caridade é paciente, é benigna; não é invejosa, não é vaidosa, não se ensoberbece; não faz nada de inconveniente, não é interesseira, não se encoleriza, não guarda rancor; não se alegra com a iniquidade, mas regocija-se com a verdade. Suporta tudo, crê tudo, espera tudo, desculpa tudo. A caridade não acabará nunca. As profecias desaparecerão, as línguas cessarão, a ciência desaparecerá. Com efeito, o nosso conhecimento é limitado e a nossa profecia é imperfeita. Mas, quando vier o que é perfeito, desaparecerá o que é imperfeito. Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Quando me tornei adulto, rejeitei o que era proprio de criança. Agora nos vemos num espelho, confusamente, mas, então, veremos face a face. Agora, conheço apenas de modo imperfeito, mas, então, conhecerei como sou conhecido. Atualmente permanecem estas três coisas: fé, esperança, caridade. Mas a maior delas é a caridade."
        ]
       ]
      },
@@ -617,6 +617,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -810,7 +819,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -919,43 +928,31 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "5"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.5"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 33(34), 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a o 9a)",
       "role": "title"
      }
@@ -963,15 +960,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a or 9a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a or 9a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a o 9a)",
       "role": "title"
      }
@@ -979,7 +984,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 33 (34)",
       "role": "title"
      }
@@ -987,16 +996,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (: 2a vel 9a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11 (R.: 2a vel 9a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R: vgl. 2a oder 9a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9. 10-11 (R.: vgl. 2a oder 9a)",
       "role": "title"
      }
     ]
@@ -2450,30 +2467,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "13"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -2514,7 +2515,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 15, 9b. 5b",
       "role": "title"
      },
@@ -2552,7 +2557,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 15:9.5",
       "role": "title"
      },
@@ -2574,7 +2583,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 15, 9b. 5b",
       "role": "title"
      },
@@ -2615,7 +2628,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 15, 9b.5b",
       "role": "title"
      },
@@ -2637,7 +2654,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -2678,7 +2699,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 15, 9b. 5b",
       "role": "title"
      },
@@ -2719,27 +2744,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.7"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2769,6 +2783,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se não vos tornardes como crianças, não entrareis no Reino dos Céus."
        ]
       ],
@@ -2794,6 +2817,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2806,6 +2838,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2835,6 +2876,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se non diventerete come i bambini, non entrerete nel regno dei cieli."
        ]
       ],
@@ -2860,6 +2910,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2872,6 +2931,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -3266,8 +3334,8 @@
  ],
  "title": {
   "la": "S. Iosephi de Calasanz, presbyteri",
-  "pt-BR": "São José de Calasanz, presbítero",
-  "en-US": "St. Joseph Calasanz, priest",
+  "pt-BR": "São José de Calazans, presbítero",
+  "en-US": "Saint Joseph Calasanz, priest",
   "es": "San José Calasanz, presbítero",
   "it": "San Giuseppe Calasanzio, sacerdote",
   "fr": "Saint Joseph de Calasanz, prêtre",

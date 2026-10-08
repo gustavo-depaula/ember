@@ -710,7 +710,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the letter of St. Paul to the Colossians"
+        "A reading from the Letter of Saint Paul to the Colossians"
        ]
       ],
       "cite": "3:14-15.17.23-24",
@@ -1078,7 +1078,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 89, 2. 3-4. 12-13. 14 et 16 (: 17c)",
+      "cite": "Ps 89, 2. 3-4. 12-13. 14 et 16 (R.: 17c)",
       "role": "title"
      }
     ],
@@ -1090,7 +1090,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 89 (90), 2.3-4.12-13.14 e 16 (: 17c)",
+      "cite": "Sl 89 (90), 2.3-4.12-13.14 e 16 (R.: 17c)",
       "role": "title"
      }
     ],
@@ -1102,7 +1102,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 89, 2. 3-4. 12-13. 14 et 16 (: 17c)",
+      "cite": "Ps 89, 2. 3-4. 12-13. 14 and 16 (R.: 17c)",
       "role": "title"
      }
     ],
@@ -1114,7 +1114,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 89, 2. 3-4. 12-13. 14 et 16 (: 17c)",
+      "cite": "Ps 89, 2. 3-4. 12-13. 14 et 16 (R.: 17c)",
       "role": "title"
      }
     ],
@@ -1138,7 +1138,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 89, 2. 3-4. 12-13. 14 et 16 (: 17c)",
+      "cite": "Ps 89, 2. 3-4. 12-13. 14 et 16 (R.: 17c)",
       "role": "title"
      }
     ],
@@ -1150,7 +1150,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 90 (89), 3-4. 5-6. 12-13. 14 u. 17 (R: 17c)",
+      "cite": "Ps 90 (89), 3-4. 5-6. 12-13. 14 u. 17 (R.: 17c)",
       "role": "title"
      }
     ]
@@ -2402,7 +2402,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Sal 67, 20",
+      "cite": "Sl 67, 20",
       "role": "title"
      },
      {
@@ -2425,7 +2425,7 @@
       "k": "p",
       "lines": [
        [
-        "Alleluia"
+        "Gospel Acclamation"
        ]
       ],
       "cite": "Ps 67:20",
@@ -3189,7 +3189,7 @@
  "title": {
   "la": "S. Ioseph opificis",
   "pt-BR": "São José Operário",
-  "en-US": "St. Joseph the worker",
+  "en-US": "Saint Joseph the worker",
   "es": "San José, obrero",
   "it": "San Giuseppe Lavoratore",
   "fr": "Saint Joseph, travailleur",

@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -640,7 +640,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 46, 2-3. 6-7. 8-9 (: 6)",
+      "cite": "Ps 46, 2-3. 6-7. 8-9 (R.: 6)",
       "role": "title"
      }
     ],
@@ -652,7 +652,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 46 (47), 2-3.6-7.8-9 (: 6)",
+      "cite": "Sl 46 (47), 2-3.6-7.8-9 (R.: 6)",
       "role": "title"
      }
     ],
@@ -664,7 +664,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 46, 2-3. 6-7. 8-9 (: 6)",
+      "cite": "Ps 46, 2-3. 6-7. 8-9 (R.: 6)",
       "role": "title"
      }
     ],
@@ -676,7 +676,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 46, 2-3. 6-7. 8-9 (: 6)",
+      "cite": "Sal 46, 2-3. 6-7. 8-9 (R.: 6)",
       "role": "title"
      }
     ],
@@ -700,7 +700,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 46, 2-3. 6-7. 8-9 (: 6)",
+      "cite": "Ps 46, 2-3. 6-7. 8-9 (R.: 6)",
       "role": "title"
      }
     ],
@@ -712,7 +712,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 47 (46), 2-3. 6-7. 8-9 (R: 6)",
+      "cite": "Ps 47 (46), 2-3. 6-7. 8-9 (R.: 6)",
       "role": "title"
      }
     ]
@@ -2301,7 +2301,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 79, 2-3. 5-7 (: 4b)",
+      "cite": "Ps 79, 2-3. 5-7 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2313,7 +2313,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 79 (80), 2-3.5-7 (: 4b)",
+      "cite": "Sl 79 (80), 2-3.5-7 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2325,7 +2325,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 79, 2-3. 5-7 (: 4b)",
+      "cite": "Ps 79, 2-3. 5-7 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2337,7 +2337,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 79, 2-3. 5-7 (: 4b)",
+      "cite": "Sal 79, 2-3. 5-7 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2361,7 +2361,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 79, 2-3. 5-7 (: 4b)",
+      "cite": "Ps 79, 2-3. 5-7 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2373,7 +2373,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 80 (79), 2 u. 3bc. 4-5. 6-7 (R: vgl. 4b)",
+      "cite": "Ps 80 (79), 2 u. 3bc. 4-5. 6-7 (R.: vgl. 4b)",
       "role": "title"
      }
     ]
@@ -3807,7 +3807,7 @@
  "title": {
   "la": "Tempus «per annum» — Sabbato hebd. II",
   "pt-BR": "Sábado da 2ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 2nd Week: Saturday",
+  "en-US": "Saturday of the Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Sábado 2ª semana",
   "it": "Sabato della II settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Samedi de la 2e semaine",

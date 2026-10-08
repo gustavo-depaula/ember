@@ -583,54 +583,50 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.pastors.psalm.4"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      ],
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 88(89), 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 88(89), 2-3. 4-5. 21-22. 25 e 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 88:2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 88:2-3. 4-5. 21-22. 25 and 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 88, 2-3. 4-5. 21-22. 25 y 27 (R.: cf. 2a)",
       "role": "title"
      }
@@ -638,7 +634,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 88 (89)",
       "role": "title"
      }
@@ -646,16 +646,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (: cf. 2a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 88, 2-3. 4-5. 21-22. 25 et 27 (R.: cf. 2a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R: 2a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 89 (88), 2-3. 20a u. 4-5. 21-22. 25 u. 27 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -1687,46 +1695,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cpaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.10"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1756,6 +1734,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "O Bom Pastor dá a vida por suas ovelhas."
        ]
       ],
@@ -1781,6 +1768,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1793,6 +1789,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1822,6 +1827,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "II buon pastore dà la propria vita per le pecore."
        ]
       ],
@@ -1847,6 +1861,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1859,6 +1882,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1998,7 +2030,7 @@
       "k": "p",
       "lines": [
        [
-        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — ​et lupus rapit eas et dispérgit — ​quia mercennárius est et non pértinet ad eum de óvibus."
+        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — et lupus rapit eas et dispérgit — quia mercennárius est et non pértinet ad eum de óvibus."
        ]
       ]
      },
@@ -2285,7 +2317,7 @@
  "title": {
   "la": "S. Caroli Borromeo, episcopi",
   "pt-BR": "São Carlos Borromeu, bispo",
-  "en-US": "St. Charles Borromeo, bishop",
+  "en-US": "Saint Charles Borromeo, bishop",
   "es": "San Carlos Borromeo, obispo",
   "it": "San Carlo Borromeo, vescovo",
   "fr": "Saint Charles Borromée, évêque",

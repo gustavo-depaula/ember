@@ -198,7 +198,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura dos Atos Apóstolos"
+        "Leitura dos Atos dos Apóstolos"
        ]
       ],
       "cite": "18, 23-28",
@@ -591,7 +591,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 46, 2-3. 8-9. 10 (.: 8a)"
      }
     ],
     "es": [
@@ -602,7 +603,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 46, 2-3. 8-9. 10 (R/.: 8a)",
+      "cite": "Sal 46, 2-3. 8-9. 10 (R.: 8a)",
       "role": "title"
      }
     ],
@@ -638,7 +639,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 47 (46), 2-3. 8-9. 10 (R: vgl. 8a)",
+      "cite": "Ps 47 (46), 2-3. 8-9. 10 (R.: vgl. 8a)",
       "role": "title"
      }
     ]
@@ -1417,7 +1418,7 @@
         "pois só Deus é realmente o Altíssimo,"
        ],
        [
-        "e os poderosos desta terra lhe pertencem!."
+        "e os poderosos desta terra lhe pertencem!"
        ]
       ]
      }
@@ -1736,7 +1737,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Jn 16, 28"
      },
      {
       "k": "p",
@@ -1750,7 +1752,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ],
        [
@@ -2251,7 +2253,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, disse Jesus aos seus discípulos: \"Em verdade, em verdade vos digo: se pedirdes ao Pai alguma coisa em meu nome, ele vo-la dará. Até agora nada pedistes em meu nome; pedi, e recebereis; para que a vossa alegria seja completa. Disse-vos estas coisas em línguagem figurativa. Vem a hora em que não vos falarei mais em figuras, mas claramente vos falarei do Pai. Naquele dia pedireis em meu nome, e não vos digo que vou pedir ao Pai por vós, pois o próprio Pai vos ama, porque vós me amastes e acreditastes que eu vim da parte de Deus. Eu saí do Pai e vim ao mundo; e novamente parto do mundo e vou para o Pai\"."
+        "Naquele tempo, disse Jesus aos seus discípulos: \"Em verdade, em verdade vos digo: se pedirdes ao Pai alguma coisa em meu nome, ele vo-la dará. Até agora nada pedistes em meu nome; pedi, e recebereis; para que a vossa alegria seja completa. Disse-vos estas coisas em linguagem figurativa. Vem a hora em que não vos falarei mais em figuras, mas claramente vos falarei do Pai. Naquele dia pedireis em meu nome, e não vos digo que vou pedir ao Pai por vós, pois o próprio Pai vos ama, porque vós me amastes e acreditastes que eu vim da parte de Deus. Eu saí do Pai e vim ao mundo; e novamente parto do mundo e vou para o Pai\"."
        ]
       ]
      },
@@ -2511,8 +2513,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada VI — Sabbato",
-  "pt-BR": "Tempo da Páscoa — 6ª Semana — Sábado",
-  "en-US": "Easter Season — Sixth Week — Saturday",
+  "pt-BR": "Sábado da 6ª Semana da Páscoa",
+  "en-US": "Saturday of the Sixth Week of Easter",
   "es": "Tiempo de Pascua — Semana VI — Sábado",
   "it": "Sabato della VI settimana di Pasqua",
   "fr": "Temps pascal — 6e semaine — Samedi",

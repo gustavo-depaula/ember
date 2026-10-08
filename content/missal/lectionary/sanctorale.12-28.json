@@ -626,7 +626,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (: 7a)",
+      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -638,7 +638,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 123 (124), 2-3.4-5.(:7b-8)",
+      "cite": "Sl 123 (124), 2-3.4-5. (R.: 7b-8)",
       "role": "title"
      }
     ],
@@ -650,7 +650,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (: 7a)",
+      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -686,7 +686,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (: 7a)",
+      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (R.: 7a)",
       "role": "title"
      }
     ],
@@ -698,7 +698,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 124 (123), 2-3. 4-5. 7-8 (R: 7a)",
+      "cite": "Ps 124 (123), 2-3. 4-5. 7-8 (R.: 7a)",
       "role": "title"
      }
     ]
@@ -2352,8 +2352,8 @@
  ],
  "title": {
   "la": "SS. INNOCENTIUM, MARTYRUM",
-  "pt-BR": "Os Santos Inocentes, mártires",
-  "en-US": "HOLY INNOCENTS, MARTYRS",
+  "pt-BR": "Os Santos Inocentes, Mártires",
+  "en-US": "The Holy Innocents, Martyrs",
   "es": "LOS SANTOS INOCENTES, MÁRTIRES",
   "it": "SANTI INNOCENTI, Martiri",
   "fr": "LES SAINTS INNOCENTS, MARTYRS",

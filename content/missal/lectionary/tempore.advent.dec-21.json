@@ -735,15 +735,7 @@
       "k": "p",
       "lines": [
        [
-        "Regocíjate, hija de Sión; grita de júbilo, Israel; alégrate y gózate de todo corazón, Jerusalén. El Señor ha cancelado tu condena, ha expulsado a tus enemigos. El Señor será el rey de Israel, en medio de ti, y ya no temerás."
-       ]
-      ]
-     },
-     {
-      "k": "p",
-      "lines": [
-       [
-        "Aquel día dirán a Jerusalén: «No temas, Sión, no desfallezcan tus manos. El Señor, tu Dios, en medio de ti, es un guerrero que salva. Él se goza y se complace en ti, te ama y se alegra con júbilo como en día de fiesta»."
+        "Shout for joy, daughter of Zion, Israel, shout aloud! Rejoice, exult with all your heart, daughter of Jerusalem! The Lord has repealed your sentence; he has driven your enemies away. The Lord, the king of Israel, is in your midst; you have no more evil to fear. When that day comes, word will come to Jerusalem: Zion, have no fear, do not let your hands fall limp. The Lord your God is in your midst, a victorious warrior. He will exult with joy over you, he will renew you by his love; he will dance with shouts of joy for you as on a day of festival."
        ]
       ]
      },
@@ -1114,7 +1106,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 32, 2-3. 11-12. 20-21 (: 1a et 3a)",
+      "cite": "Ps 32, 2-3. 11-12. 20-21 (R.: 1a et 3a)",
       "role": "title"
      }
     ],
@@ -1126,7 +1118,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 32 (33), 2-3.11-12.20-21 (R. 1a.3a)",
+      "cite": "Sl 32 (33), 2-3.11-12.20-21 (R.: 1a.3a)",
       "role": "title"
      }
     ],
@@ -1138,7 +1130,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 32, 2-3. 11-12. 20-21 (: 1a et 3a)",
+      "cite": "Ps 32, 2-3. 11-12. 20-21 (R.: 1a and 3a)",
       "role": "title"
      }
     ],
@@ -1150,7 +1142,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 32, 2-3. 11-12. 20-21 (R/.: la y 3a)",
+      "cite": "Sal 32, 2-3. 11-12. 20-21 (R.: la y 3a)",
       "role": "title"
      }
     ],
@@ -1174,7 +1166,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 32, 2-3. 11-12. 20-21 (: 1a et 3a)",
+      "cite": "Ps 32, 2-3. 11-12. 20-21 (R.: 1a et 3a)",
       "role": "title"
      }
     ],
@@ -1186,7 +1178,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 33 (32), 2-3. 11-12. 20-21 (R: 1a. 3a)",
+      "cite": "Ps 33 (32), 2-3. 11-12. 20-21 (R.: 1a. 3a)",
       "role": "title"
      }
     ]
@@ -2835,8 +2827,8 @@
  ],
  "title": {
   "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 21 decembris",
-  "pt-BR": "DIAS DE SEMANA DO ADVENTO — DE 17 a 24 DE DEZEMBRO — 21 de dezembro",
-  "en-US": "Weekdays of Advent — December 17 to December 24 — 21 December",
+  "pt-BR": "21 de dezembro",
+  "en-US": "December 21",
   "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 21 de diciembre",
   "it": "21 Dicembre",
   "fr": "Temps de l'Avent — 17 décembre - 24 décembre — 21 décembre",

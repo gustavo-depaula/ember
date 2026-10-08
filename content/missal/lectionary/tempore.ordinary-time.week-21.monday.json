@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -639,7 +639,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -651,7 +651,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (: 4a)",
+      "cite": "Sl 149, 1-2.3-4.5-6a e 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "149, 1-2. 3-4. 5-6a and 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Sal 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -699,7 +699,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a et 9b (R.: 4a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R: 4a)",
+      "cite": "Ps 149, 1-2. 3-4. 5-6a u. 9b (R.: 4a)",
       "role": "title"
      }
     ]
@@ -2081,7 +2081,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 4-5 (: 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 4-5 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2093,7 +2093,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 95 (96), 1-2a.2b-3.4a e 5 (: 3)",
+      "cite": "Sl 95 (96), 1-2a.2b-3.4a e 5 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2105,7 +2105,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "95, 1-2a. 2b-3. 4-5 (: 3)",
+      "cite": "95, 1-2a. 2b-3. 4-5 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2117,7 +2117,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 95, 1-2a. 2b-3. 4-5 (: 3)",
+      "cite": "Sal 95, 1-2a. 2b-3. 4-5 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2141,7 +2141,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 95, 1-2a. 2b-3. 4-5 (: 3)",
+      "cite": "Ps 95, 1-2a. 2b-3. 4-5 (R.: 3)",
       "role": "title"
      }
     ],
@@ -2153,7 +2153,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 96 (95), 1-2. 3-4. 5-6 (R: 3a)",
+      "cite": "Ps 96 (95), 1-2. 3-4. 5-6 (R.: 3a)",
       "role": "title"
      }
     ]
@@ -3782,7 +3782,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria II hebd. XXI",
   "pt-BR": "Segunda-feira da 21ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 21st Week: Monday",
+  "en-US": "Monday of the Twenty-First Week in Ordinary Time",
   "es": "Tiempo ordinario — Lunes 21ª semana",
   "it": "LUNEDI della XXI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Lundi de la 21e semaine",

@@ -166,7 +166,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Lectura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -175,7 +175,7 @@
       "k": "p",
       "lines": [
        [
-        "Esta é a vitoria que venceu o mundo: a nossa fé."
+        "Esta é a vitória que venceu o mundo: a nossa fé."
        ]
       ],
       "role": "summary"
@@ -557,7 +557,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
       "role": "title"
      }
     ],
@@ -569,7 +569,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18B (19B) 8.9.10.11 (R. cf. Jo 6,63c))",
+      "cite": "Sl 18B (19B) 8.9.10.11 (R.: cf. Jo 6,63c)",
       "role": "title"
      }
     ],
@@ -581,7 +581,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b or Jn 6, 63c)",
       "role": "title"
      }
     ],
@@ -593,7 +593,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
       "role": "title"
      }
     ],
@@ -617,7 +617,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 10b vel Io 6, 63c)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
       "role": "title"
      }
     ],
@@ -629,7 +629,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R: 10b oder vgl. Joh 6, 63b)",
+      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R.: 10b oder vgl. Joh 6, 63b)",
       "role": "title"
      }
     ]
@@ -696,7 +696,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -736,7 +736,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -960,7 +960,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -1000,7 +1000,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1224,7 +1224,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -1264,7 +1264,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1488,7 +1488,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -1528,7 +1528,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1755,7 +1755,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Your words, Lord, are spirit and life."
+        "Your words, Lord, are spirit and life."
        ]
       ]
      }
@@ -1795,7 +1795,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1852,30 +1852,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "13"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -1916,7 +1900,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 15, 9b. 5b",
       "role": "title"
      },
@@ -1954,7 +1942,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 15:9.5",
       "role": "title"
      },
@@ -1976,7 +1968,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 15, 9b. 5b",
       "role": "title"
      },
@@ -2017,7 +2013,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Gv 15, 9b.5b",
       "role": "title"
      },
@@ -2039,7 +2039,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 15, 9b. 5b",
       "role": "title"
      },
@@ -2080,7 +2084,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 15, 9b. 5b",
       "role": "title"
      },
@@ -2121,27 +2129,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "24"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.24"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2171,6 +2168,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Aquele que permanece em mim e eu nele, esse produz muito fruto."
        ]
       ],
@@ -2196,6 +2202,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2208,6 +2223,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2237,6 +2261,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Chi rimane in me e io in lui porta molto frutto."
        ]
       ],
@@ -2262,6 +2295,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2274,6 +2316,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2700,7 +2751,7 @@
  "title": {
   "la": "S. Cyrilli Hierosolymitani, episcopi et Ecclesiæ doctoris",
   "pt-BR": "São Cirilo de Jerusalém, bispo e doutor da Igreja",
-  "en-US": "St. Cyril of Jerusalem, bishop and doctor of the Church",
+  "en-US": "Saint Cyril of Jerusalem, bishop and doctor of the Church",
   "es": "San Cirilo de Jerusalén, obispo y doctor de la Iglesia",
   "it": "San Cirillo di Gerusalemme, vescovo e dottore della Chiesa",
   "fr": "Saint Cyrille de Jérusalem, évêque et docteur de l'Église",

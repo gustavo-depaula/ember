@@ -216,7 +216,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Ezekiel"
+        "A reading from the Book of the Prophet Ezekiel"
        ]
       ],
       "cite": "18:25-28",
@@ -541,7 +541,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 24, 4-5. 6-7. 8-9 (: 6a)",
+      "cite": "Ps 24, 4-5. 6-7. 8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -553,7 +553,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 24 (25), 4bc-5.6-7.8-9 (: 6a)",
+      "cite": "Sl 24 (25), 4bc-5.6-7.8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -565,7 +565,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 24, 4-5. 6-7. 8-9 (: 6a)",
+      "cite": "Ps 24, 4-5. 6-7. 8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -577,7 +577,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 24, 4-5. 6-7. 8-9 (: 6a)",
+      "cite": "Sal 24, 4-5. 6-7. 8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -601,7 +601,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 24, 4-5. 6-7. 8-9 (: 6a)",
+      "cite": "Ps 24, 4-5. 6-7. 8-9 (R.: 6a)",
       "role": "title"
      }
     ],
@@ -613,7 +613,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 25 (24), 4-5. 6-7. 8-9 (R: 6ab)",
+      "cite": "Ps 25 (24), 4-5. 6-7. 8-9 (R.: 6ab)",
       "role": "title"
      }
     ]
@@ -1846,7 +1846,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2187,7 +2187,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -2297,7 +2297,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3254,7 +3254,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first Book of Numbers"
+        "A reading from the Book of Numbers"
        ]
       ],
       "cite": "11:25-29",
@@ -3605,7 +3605,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 8. 10. 12-13. 14 (: 9a)",
+      "cite": "Ps 18, 8. 10. 12-13. 14 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -3617,7 +3617,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18 (19), 8.10.12-13.14 (: 9a)",
+      "cite": "Sl 18 (19), 8.10.12-13.14 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -3629,7 +3629,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 8. 10. 12-13. 14 (: 9a)",
+      "cite": "Ps 18, 8. 10. 12-13. 14 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -3641,7 +3641,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 18, 8. 10. 12-13. 14 (: 9a)",
+      "cite": "Sal 18, 8. 10. 12-13. 14 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -3665,7 +3665,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 8. 10. 12-13. 14 (: 9a)",
+      "cite": "Ps 18, 8. 10. 12-13. 14 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -3677,7 +3677,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18), 8. 10. 12-13. 14 (R: 9ab)",
+      "cite": "Ps 19 (18), 8. 10. 12-13. 14 (R.: 9ab)",
       "role": "title"
      }
     ]
@@ -4285,7 +4285,7 @@
         "Mas quem pode perceber suas faltas?"
        ],
        [
-        "Perdoai as que não vejo!."
+        "Perdoai as que não vejo!"
        ]
       ]
      }
@@ -5213,7 +5213,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Vossa palavra é verdade, orienta e da vigor; na verdade santifica vosso povo, ó Senhor!"
+        "Vossa palavra é verdade, orienta e dá vigor; na verdade santifica vosso povo, ó Senhor!"
        ],
        [
         "Aleluia."
@@ -5749,7 +5749,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, João disse a Jesus: “Mestre, vimos um homem expulsar demônios em teu nome. Mas nós o proibimos, porque ele não nos segue”. Jesus disse: “Não o proíbais, pois ninguém faz milagres em meu nome para depois falar mal de mim. Quem não é contra nós é a nosso favor. Em verdade eu vos digo: quem vos der a beber um copo de água, porque sois de Cristo, não ficará sem receber a sua recompensa. E, se alguém escandalizar um destes pequeninos que creem, melhor seria que fosse jogado no mar com uma pedra de moinho amarrada ao pescoço. Se tua mão te leva a pecar, corta-a! É melhor entrar na Vida sem uma das mãos, do que, tendo as duas, ir para o inferno, para o fogo que nunca se apaga. Se teu pé te leva a pecar, corta-o! É melhor entrar na Vida sem um dos pés, do que, tendo os dois, ser jogado no inferno. Se teu olho te leva a pecar, arranca-o! É melhor entrar no Reino de Deus com um olho só, do que, tendo os dois, ser jogado no inferno, 'onde o verme deles não morre, e o fogo não se apaga'\"."
+        "Naquele tempo, João disse a Jesus: “Mestre, vimos um homem expulsar demônios em teu nome. Mas nós o proibimos, porque ele não nos segue”. Jesus disse: “Não o proibais, pois ninguém faz milagres em meu nome para depois falar mal de mim. Quem não é contra nós é a nosso favor. Em verdade eu vos digo: quem vos der a beber um copo de água, porque sois de Cristo, não ficará sem receber a sua recompensa. E, se alguém escandalizar um destes pequeninos que creem, melhor seria que fosse jogado no mar com uma pedra de moinho amarrada ao pescoço. Se tua mão te leva a pecar, corta-a! É melhor entrar na Vida sem uma das mãos, do que, tendo as duas, ir para o inferno, para o fogo que nunca se apaga. Se teu pé te leva a pecar, corta-o! É melhor entrar na Vida sem um dos pés, do que, tendo os dois, ser jogado no inferno. Se teu olho te leva a pecar, arranca-o! É melhor entrar no Reino de Deus com um olho só, do que, tendo os dois, ser jogado no inferno, 'onde o verme deles não morre, e o fogo não se apaga'\"."
        ]
       ]
      },
@@ -6509,7 +6509,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (: 1)",
+      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (R.: 1)",
       "role": "title"
      }
     ],
@@ -6521,7 +6521,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 145 (146), 7.8-9a.9bc-10 (: 1)",
+      "cite": "Sl 145 (146), 7.8-9a.9bc-10 (R.: 1)",
       "role": "title"
      }
     ],
@@ -6533,7 +6533,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (: 1)",
+      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (R.: 1)",
       "role": "title"
      }
     ],
@@ -6545,7 +6545,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 145, 6c-7. 8-9a. 9bc-10 (: 1)",
+      "cite": "Sal 145, 6c-7. 8-9a. 9bc-10 (R.: 1)",
       "role": "title"
      }
     ],
@@ -6569,7 +6569,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (: 1)",
+      "cite": "Ps 145, 6c-7. 8-9a. 9bc-10 (R.: 1)",
       "role": "title"
      }
     ],
@@ -6581,7 +6581,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 146 (145), 6-7. 8-9b. 9c-10 (R: 1)",
+      "cite": "Ps 146 (145), 6-7. 8-9b. 9c-10 (R.: 1)",
       "role": "title"
      }
     ]
@@ -8439,7 +8439,7 @@
       "k": "p",
       "lines": [
        [
-        "Et ait: «Rogo ergo te, Pater, ut mittas eum in domum patris mei — ​hábeo enim quinque fratres — ​ut testétur illis, ne et ipsi véniant in locum hunc tormentórum»."
+        "Et ait: «Rogo ergo te, Pater, ut mittas eum in domum patris mei — hábeo enim quinque fratres — ut testétur illis, ne et ipsi véniant in locum hunc tormentórum»."
        ]
       ]
      },
@@ -8501,7 +8501,7 @@
       "k": "p",
       "lines": [
        [
-        "Jesus said to the Pharisees: 'There was a rich man who used to dress in purple and fine linen and feast magnificently every day. And at his gate there lay a poor man called Lazarus, covered with sores, who longed to fill himself with the scraps that fell from the rich man's table. Dogs even came and licked his sores. Now the poor man died and was carried away by the angels to the bosom of Abraham. The rich man also died and was buried. 'In his torment in Hades he looked up and saw Abraham a long way off with Lazarus in his bosom. So he cried out, \"Father Abraham, pity me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames\". \"My son,\" Abraham replied \"remember that during your life good things came your way, just as bad things came the way of Lazarus. Now he is being comforted here while you are in agony. But that is not all: between us and you a great gulf has been fixed, to stop anyone, if he wanted to, crossing from our side to yours, and to stop any crossing from your side to ours.\" 'The rich man replied, \"Father, I beg you then to send Lazarus to my father's house, since I have five brothers, to give them warning so that they do not come to this place of torment too\". \"They have Moses and the prophets,\" said Abraham \"let them listen to them.\". \"Ah no, father Abraham,\" said the rich man \"but if someone comes to them from the dead, they will repent.\" Then Abraham said to him, \"If they will not listen either to Moses or to the prophets, they will not be convinced even if someone should rise from the dead\".'"
+        "Jesus said to the Pharisees: 'There was a rich man who used to dress in purple and fine linen and feast magnificently every day. And at his gate there lay a poor man called Lazarus, covered with sores, who longed to fill himself with the scraps that fell from the rich man's table. Dogs even came and licked his sores. Now the poor man died and was carried away by the angels to the bosom of Abraham. The rich man also died and was buried. 'In his torment in Hades he looked up and saw Abraham a long way off with Lazarus in his bosom. So he cried out, \"Father Abraham, pity me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames\". \"My son, \" Abraham replied \"remember that during your life good things came your way, just as bad things came the way of Lazarus. Now he is being comforted here while you are in agony. But that is not all: between us and you a great gulf has been fixed, to stop anyone, if he wanted to, crossing from our side to yours, and to stop any crossing from your side to ours.\" 'The rich man replied, \"Father, I beg you then to send Lazarus to my father's house, since I have five brothers, to give them warning so that they do not come to this place of torment too\". \"They have Moses and the prophets, \" said Abraham \"let them listen to them.\". \"Ah no, father Abraham, \" said the rich man \"but if someone comes to them from the dead, they will repent.\" Then Abraham said to him, \"If they will not listen either to Moses or to the prophets, they will not be convinced even if someone should rise from the dead\".'"
        ]
       ]
      },
@@ -8790,8 +8790,8 @@
  ],
  "title": {
   "la": "Tempus «per annum» — Domenica XXVI",
-  "pt-BR": "Tempo Comum — 26º Domingo do Tempo Comum",
-  "en-US": "Ordinary Time — 26th Week: Sunday",
+  "pt-BR": "26º Domingo do Tempo Comum",
+  "en-US": "Twenty-Sixth Sunday in Ordinary Time",
   "es": "Tiempo ordinario — 26º Domingo",
   "it": "XXVI DOMENICA DEL TEMPO ORDINARIO",
   "fr": "Temps ordinaire — 26ème Dimanche",

@@ -242,7 +242,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the first book of Samuel"
+        "A reading from the first Book of Samuel"
        ]
       ],
       "cite": "1:24-28",
@@ -577,7 +577,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -589,7 +589,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sm 2, 1.4-5.6-7.8abcd (R. 1a)",
+      "cite": "1 Sm 2, 1.4-5.6-7.8abcd (R.: 1a)",
       "role": "title"
      }
     ],
@@ -601,7 +601,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -613,7 +613,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -637,7 +637,7 @@
         "Psaume"
        ]
       ],
-      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (: cf. 1a)",
+      "cite": "1 Sam 2, 1. 4-5. 6-7. 8abcd (R.: cf. 1a)",
       "role": "title"
      }
     ],
@@ -649,7 +649,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R: vgl. 1b)",
+      "cite": "1 Sam 2, 1bcde. 4-5b. 6-7. 8abcd (R.: vgl. 1b)",
       "role": "title"
      }
     ]
@@ -1035,10 +1035,10 @@
         "mas os pobres e os famintos se fartaram."
        ],
        [
-        "Muitas vezes deu à luz a que era esteril,"
+        "Muitas vezes deu à luz a que era estéril,"
        ],
        [
-        "mas a mãe de muitos fihos definhou."
+        "mas a mãe de muitos filhos definhou."
        ]
       ]
      }
@@ -2648,8 +2648,8 @@
  ],
  "title": {
   "la": "IN FERIIS ADVENTUS — a Die 17 ad diem 24 decembris — Die 22 decembris",
-  "pt-BR": "DIAS DE SEMANA DO ADVENTO — DE 17 a 24 DE DEZEMBRO — 22 de dezembro",
-  "en-US": "Weekdays of Advent — December 17 to December 24 — 22 December",
+  "pt-BR": "22 de dezembro",
+  "en-US": "December 22",
   "es": "FERIAS DE ADVIENTO — desde el 17 al 24 de diciembre — 22 de diciembre",
   "it": "22 Dicembre",
   "fr": "Temps de l'Avent — 17 décembre - 24 décembre — 22 décembre",

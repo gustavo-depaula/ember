@@ -838,7 +838,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -852,7 +852,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -866,7 +866,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -880,7 +880,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -894,7 +894,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -908,7 +908,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -922,7 +922,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -988,7 +988,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -997,7 +997,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1006,7 +1006,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1140,7 +1140,7 @@
         "nós vos damos graças, Senhor,"
        ],
        [
-        "e imploramos vo5sa clemência"
+        "e imploramos vossa clemência"
        ],
        [
         "para que, pelo dom do Espírito Santo,"
@@ -1261,8 +1261,8 @@
  ],
  "title": {
   "la": "DOMINICA XXXII «PER ANNUM»",
-  "pt-BR": "32º DOMINGO DO TEMPO COMUM",
-  "en-US": "32nd SUNDAY IN ORDINARY TIME",
+  "pt-BR": "32º Domingo do Tempo Comum",
+  "en-US": "Thirty-Second Sunday in Ordinary Time",
   "es": "XXXII DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XXXII DOMENICA",
   "fr": "Temps ordinaire — 32ème DIMANCHE",

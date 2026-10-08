@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -291,7 +291,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Ezra"
+        "A reading from the Book of the Prophet Ezra"
        ]
       ],
       "cite": "9:5-9",
@@ -625,7 +625,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Tob 13, 2. 3-4a. 4bcd. 5. 8 (: 2a)",
+      "cite": "Tob 13, 2. 3-4a. 4bcd. 5. 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -637,7 +637,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Tb 13, 2.3-4.5.8 (: 2a)",
+      "cite": "Tb 13, 2.3-4.5.8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -649,7 +649,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Tob 13, 2. 3-4a. 4bcd. 5. 8 (: 2a)",
+      "cite": "Tob 13, 2. 3-4a. 4bcd. 5. 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -661,7 +661,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Tob 13, 2. 3-4a. 4bcd. 5. 8 (: 2a)",
+      "cite": "Tob 13, 2. 3-4a. 4bcd. 5. 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -685,7 +685,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Tob 13, 2. 3-4a. 4bcd. 5. 8 (: 2a)",
+      "cite": "Tob 13, 2. 3-4a. 4bcd. 5. 8 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -697,7 +697,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Tob 13, 2. 3-4. 5. 8 (R: 2a)",
+      "cite": "Tob 13, 2. 3-4. 5. 8 (R.: 2a)",
       "role": "title"
      }
     ]
@@ -1547,7 +1547,7 @@
         "Bendizei o Senhor, seus eleitos,"
        ],
        [
-        "fazei festa e alegres louvai-o!."
+        "fazei festa e alegres louvai-o!"
        ]
       ]
      }
@@ -2573,7 +2573,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 29. 72. 89. 101. 104. 163 (: 105a)",
+      "cite": "Ps 118, 29. 72. 89. 101. 104. 163 (R.: 105a)",
       "role": "title"
      }
     ],
@@ -2585,7 +2585,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 29. 72. 89. 101. 104. 163 (: 105a)",
+      "cite": "Sl 118 (119), 29. 72. 89. 101. 104. 163 (R.: 105a)",
       "role": "title"
      }
     ],
@@ -2597,7 +2597,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 29. 72. 89. 101. 104. 163 (: 105a)",
+      "cite": "Ps 118, 29. 72. 89. 101. 104. 163 (R.: 105a)",
       "role": "title"
      }
     ],
@@ -2609,7 +2609,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 29. 72. 89. 101. 104. 163 (: 105a)",
+      "cite": "Sal 118, 29. 72. 89. 101. 104. 163 (R.: 105a)",
       "role": "title"
      }
     ],
@@ -2633,7 +2633,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 29. 72. 89. 101. 104. 163 (: 105a)",
+      "cite": "Ps 118, 29. 72. 89. 101. 104. 163 (R.: 105a)",
       "role": "title"
      }
     ],
@@ -2645,7 +2645,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 29 u. 72. 89 u. 101. 104 u. 163 (R: 105a)",
+      "cite": "Ps 119 (118), 29 u. 72. 89 u. 101. 104 u. 163 (R.: 105a)",
       "role": "title"
      }
     ]
@@ -4771,7 +4771,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. XXV",
   "pt-BR": "Quarta-feira da 25ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 25th Week: Wednesday",
+  "en-US": "Wednesday of the Twenty-Fifth Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 25ª semana",
   "it": "MERCOLEDI della XXV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 25e semaine",

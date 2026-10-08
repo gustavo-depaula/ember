@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -216,7 +216,7 @@
       "k": "p",
       "lines": [
        [
-        "Stetit autem Esdras scriba super gradum lígneum, quem ad hoc fécerant. Et apéruit Esdras librum coram omni pópulo — ​super univérsum quippe pópulum eminébat — ​et, cum aperuísset eum, stetit omnis pópulus. Et benedíxit Esdras Dómino, Deo magno; et respóndit omnis pópulus: «Amen, amen», élevans manus suas. Et incurváti sunt et adoravérunt Deum proni in terram. Levítæ erudiébant pópulum in lege; pópulus autem stabat in gradu suo. Et legérunt in libro legis Dei distíncte et aperiérunt sensum et explicavérunt lectiónem."
+        "Stetit autem Esdras scriba super gradum lígneum, quem ad hoc fécerant. Et apéruit Esdras librum coram omni pópulo — super univérsum quippe pópulum eminébat — et, cum aperuísset eum, stetit omnis pópulus. Et benedíxit Esdras Dómino, Deo magno; et respóndit omnis pópulus: «Amen, amen», élevans manus suas. Et incurváti sunt et adoravérunt Deum proni in terram. Levítæ erudiébant pópulum in lege; pópulus autem stabat in gradu suo. Et legérunt in libro legis Dei distíncte et aperiérunt sensum et explicavérunt lectiónem."
        ]
       ]
      },
@@ -705,7 +705,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 9a)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -717,7 +717,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 18 B (19 B), 8.9.10.11 (: 9a)",
+      "cite": "Sl 18 B (19 B), 8.9.10.11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -729,7 +729,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 9a)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -741,7 +741,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 18, 8. 9. 10. 11 (: 9a)",
+      "cite": "Sal 18, 8. 9. 10. 11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -765,7 +765,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 18, 8. 9. 10. 11 (: 9a)",
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 9a)",
       "role": "title"
      }
     ],
@@ -777,7 +777,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 19 (18), 8. 9. 10 (R: 9a)",
+      "cite": "Ps 19 (18), 8. 9. 10 (R.: 9a)",
       "role": "title"
      }
     ]
@@ -2384,7 +2384,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (: 13)",
+      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -2396,7 +2396,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 26 (27), 7-8a.8b-9abc.13-14 (: 13)",
+      "cite": "Sl 26 (27), 7-8a.8b-9abc.13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -2408,7 +2408,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (: 13)",
+      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -2420,7 +2420,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 26, 7-8a. 8b-9abc. 13-14 (: 13)",
+      "cite": "Sal 26, 7-8a. 8b-9abc. 13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -2444,7 +2444,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (: 13)",
+      "cite": "Ps 26, 7-8a. 8b-9abc. 13-14 (R.: 13)",
       "role": "title"
      }
     ],
@@ -2456,7 +2456,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 27 (26), 7-8. 9. 13-14 (R: 13)",
+      "cite": "Ps 27 (26), 7-8. 9. 13-14 (R.: 13)",
       "role": "title"
      }
     ]
@@ -4119,7 +4119,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXVI",
   "pt-BR": "Quinta-feira da 26ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 26th Week: Thursday",
+  "en-US": "Thursday of the Twenty-Sixth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 26ª semana",
   "it": "GIOVEDI della XXVI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 26e semaine",

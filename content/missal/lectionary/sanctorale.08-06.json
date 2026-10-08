@@ -223,7 +223,7 @@
       "k": "p",
       "lines": [
        [
-        "Sua vese era branca como neve."
+        "Sua veste era branca como neve."
        ]
       ],
       "role": "summary"
@@ -270,7 +270,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Daniel"
+        "A reading from the Book of the Prophet Daniel"
        ]
       ],
       "cite": "7:9-10.13-14",
@@ -699,7 +699,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 96, 1-2. 5-6. 9 (: 1a et 9a)",
+      "cite": "Ps 96, 1-2. 5-6. 9 (R.: 1a et 9a)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 96, 1-2. 5-6. 9 (R.: 1a y 9a)",
+      "cite": "Sl 96, 1-2. 5-6. 9 (R.: 1a e 9a)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 96, 1-2. 5-6. 9 (: 1a et 9a)",
+      "cite": "Ps 96, 1-2. 5-6. 9 (R.: 1a and 9a)",
       "role": "title"
      }
     ],
@@ -759,7 +759,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 96, 1-2. 5-6. 9 (: 1a et 9a)",
+      "cite": "Ps 96, 1-2. 5-6. 9 (R.: 1a et 9a)",
       "role": "title"
      }
     ],
@@ -771,7 +771,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 97 (96), 1-2. 5-6. 8-9 (R: 1a. 9a)",
+      "cite": "Ps 97 (96), 1-2. 5-6. 8-9 (R.: 1a. 9a)",
       "role": "title"
      }
     ]
@@ -1702,7 +1702,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the second letter of St. Peter"
+        "A reading from the second Letter of Saint Peter"
        ]
       ],
       "cite": "1:16-19",
@@ -2075,7 +2075,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamação ao Evamglho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Mt 17, 5c",
@@ -2104,7 +2104,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Mt 17, 5c"
      },
      {
       "k": "p",
@@ -4042,8 +4043,8 @@
  ],
  "title": {
   "la": "IN TRANSFIGURATIONE DOMINI",
-  "pt-BR": "TRANSFIGURAÇÃO DO SENHOR",
-  "en-US": "THE TRANSFIGURATION OF THE LORD",
+  "pt-BR": "Transfiguração do Senhor",
+  "en-US": "The Transfiguration of the Lord",
   "es": "LA TRANSFIGURACIÓN DEL SEÑOR",
   "it": "TRASFIGURAZIONE DEL SIGNORE",
   "fr": "TRANSFIGURATION DU SEIGNEUR",

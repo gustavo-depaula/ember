@@ -222,7 +222,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the letter of St. James"
+        "A reading from the Letter of Saint James"
        ]
       ],
       "cite": "2:14-17",
@@ -543,62 +543,62 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "7"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.holy-men-and-women.psalm.7"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 111(112), 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 111(112), 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111:1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 111:1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 111 (112)",
       "role": "title"
      }
@@ -606,16 +606,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (: 1a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 111, 1-2. 3-4. 5-7a. 7b-8. 9 (R.: 1a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R: vgl. 1a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 112 (111), 1-2. 3-4. 5-6. 7 u. 9 (R.: vgl. 1a)",
       "role": "title"
      }
     ]
@@ -662,7 +670,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -796,7 +804,7 @@
       "k": "p",
       "lines": [
        [
-        "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos! ."
+        "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos!."
        ]
       ]
      }
@@ -940,7 +948,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1215,7 +1223,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1502,7 +1510,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1633,7 +1641,7 @@
       "k": "p",
       "lines": [
        [
-        "Confiando em Deus, seu coração está seguro. Seu coração está tranqüilo e nada teme, e confusos há de ver seus inimigos"
+        "Confiando em Deus, seu coração está seguro. Seu coração está tranquilo e nada teme, e confusos há de ver seus inimigos"
        ]
       ]
      }
@@ -1746,7 +1754,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1985,7 +1993,7 @@
          "m": "rubric",
          "t": "Ou: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -2095,30 +2103,14 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "10"
-        }
+        "Alleluia"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.holy-men-and-women.acclamation.1"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
+      ],
       "cite": "Io 13, 34",
       "role": "title"
      },
@@ -2159,7 +2151,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 13, 34",
       "role": "title"
      },
@@ -2197,7 +2193,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 13:34",
       "role": "title"
      },
@@ -2219,7 +2219,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 13, 34",
       "role": "title"
      },
@@ -2260,7 +2264,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Cf. Gv 13, 34",
       "role": "title"
      },
@@ -2282,7 +2290,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 13, 34",
       "role": "title"
      },
@@ -2323,7 +2335,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 13, 34ac",
       "role": "title"
      },
@@ -2364,27 +2380,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "18"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.holy-men-and-women.gospel.18"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2414,6 +2419,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Sede misericordiosos, como o vosso Pai é misericordioso."
        ]
       ],
@@ -2427,7 +2441,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Proclamação do Evangelho de Jesus Cristo São Lucas"
+        " Proclamação do Evangelho de Jesus Cristo segundo Lucas"
        ]
       ],
       "cite": "6, 27-38",
@@ -2435,6 +2449,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2451,6 +2474,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2480,6 +2512,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Siate misericordiosi, come il Padre vostro è misericordioso."
        ]
       ],
@@ -2505,6 +2546,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2517,6 +2567,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2971,7 +3030,7 @@
  "title": {
   "la": "S. Ioannis de Ke˛ty, presbyteri",
   "pt-BR": "São João Câncio, presbítero",
-  "en-US": "St. John of Kanty, priest",
+  "en-US": "Saint John of Kanty, priest",
   "es": "San Juan de Kety, presbítero",
   "it": "San Giovanni da Keti, sacerdote",
   "fr": "Saint Jean de Kenty, prêtre",

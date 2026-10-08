@@ -233,7 +233,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, a Igreja vivia em paz em toda a Judeia, Galiléia e Samaria. Ela consolidava-se e progredia no temor do Senhor e crescia em número com a ajuda do Espírito Santo. Pedro percorria todos os lugares; e visitou também os fiéis que moravam em Lida. Encontrou aí um homem chamado Eneias, que estava paralítico e, há oito anos, jazia numa cama. Pedro disse-lhe: “Eneias, Jesus Cristo te cura! Levanta-te e arruma a tua cama!\" Imediatamente Eneias se levantou. Todos os habitantes de Lida e da região do Saron viram isso e se converteram ao Senhor. Em Jope, havia uma discípula chamada Tabita, nome que quer dizer Gazela. Eram muitas as obras boas que fazia e as esmolas que dava. Naqueles dias, ela ficou doente e morreu. Então lavaram seu corpo e o colocaram no andar superior da casa. Como Lida ficava perto de Jope, e ouvindo dizer que Pedro estava lá, os discípulos mandaram dois homens com um recado: “Vem depressa até nós\"! Pedro partiu imediatamente com eles. Assim que chegou, levaram-no ao andar superior, onde todas as viúvas foram ao seu encontro. Chorando, elas mostravam a Pedro as túnicas e mantos que Tabita havia feito, quando vivia com elas. Pedro mandou que todos saíssem. Em seguida, pôs-se de joelhos e rezou. Depois, voltou-se para o corpo e disse: “Tabita, levanta-te!\" Ela então abriu os olhos, viu Pedro e sentou-se. Pedro deu-lhe a mão e ajudou-a a levantar-se. Depois chamou os fiéis e as viúvas e apresentou-lhes Tabita viva. O fato ficou conhecido em toda a cidade de Jope e muitos acreditaram no Senhor."
+        "Naqueles dias, a Igreja vivia em paz em toda a Judeia, Galileia e Samaria. Ela consolidava-se e progredia no temor do Senhor e crescia em número com a ajuda do Espírito Santo. Pedro percorria todos os lugares; e visitou também os fiéis que moravam em Lida. Encontrou aí um homem chamado Eneias, que estava paralítico e, há oito anos, jazia numa cama. Pedro disse-lhe: “Eneias, Jesus Cristo te cura! Levanta-te e arruma a tua cama!\" Imediatamente Eneias se levantou. Todos os habitantes de Lida e da região do Saron viram isso e se converteram ao Senhor. Em Jope, havia uma discípula chamada Tabita, nome que quer dizer Gazela. Eram muitas as obras boas que fazia e as esmolas que dava. Naqueles dias, ela ficou doente e morreu. Então lavaram seu corpo e o colocaram no andar superior da casa. Como Lida ficava perto de Jope, e ouvindo dizer que Pedro estava lá, os discípulos mandaram dois homens com um recado: “Vem depressa até nós\"! Pedro partiu imediatamente com eles. Assim que chegou, levaram-no ao andar superior, onde todas as viúvas foram ao seu encontro. Chorando, elas mostravam a Pedro as túnicas e mantos que Tabita havia feito, quando vivia com elas. Pedro mandou que todos saíssem. Em seguida, pôs-se de joelhos e rezou. Depois, voltou-se para o corpo e disse: “Tabita, levanta-te!\" Ela então abriu os olhos, viu Pedro e sentou-se. Pedro deu-lhe a mão e ajudou-a a levantar-se. Depois chamou os fiéis e as viúvas e apresentou-lhes Tabita viva. O fato ficou conhecido em toda a cidade de Jope e muitos acreditaram no Senhor."
        ]
       ]
      },
@@ -634,7 +634,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 115, 12-13. 14-15. 16-17 (R/.: 12)",
+      "cite": "Ps 115, 12-13. 14-15. 16-17 (R.: 12)",
       "role": "title"
      }
     ],
@@ -646,7 +646,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 115 (116), 12-13.14-15.16-17 (R. cf. 12 )",
+      "cite": "Sl 115 (116), 12-13.14-15.16-17 (R.: cf. 12)",
       "role": "title"
      }
     ],
@@ -658,7 +658,8 @@
         "Responsorial Psalm"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 115, 12-13. 14-15. 16-17 (R.: 12)"
      }
     ],
     "es": [
@@ -669,7 +670,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 115, 12-13. 14-15. 16-17 (R/.: 12)",
+      "cite": "Sal 115, 12-13. 14-15. 16-17 (R.: 12)",
       "role": "title"
      }
     ],
@@ -693,7 +694,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 115, 12-13. 14-15. 16-17 (R/.: 12)",
+      "cite": "Ps 115, 12-13. 14-15. 16-17 (R.: 12)",
       "role": "title"
      }
     ],
@@ -705,7 +706,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 116 (115), 12-13. 14-15. 16-17 (R: 12)",
+      "cite": "Ps 116 (115), 12-13. 14-15. 16-17 (R.: 12)",
       "role": "title"
      }
     ]
@@ -730,7 +731,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -751,7 +752,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -772,7 +773,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -793,7 +794,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -814,7 +815,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -835,7 +836,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1019,7 +1020,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1040,7 +1041,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1061,7 +1062,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1082,7 +1083,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1103,7 +1104,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1124,7 +1125,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1308,7 +1309,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1329,7 +1330,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1350,7 +1351,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1371,7 +1372,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1392,7 +1393,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1413,7 +1414,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1478,7 +1479,7 @@
         "vosso servo, que nasceu de vossa serva:"
        ],
        [
-        "mas me quebrastes os grilhões da escravidão!."
+        "mas me quebrastes os grilhões da escravidão!"
        ],
        [
         "Por isso oferto um sacrifício de louvor,"
@@ -1614,7 +1615,7 @@
          "m": "rubric",
          "t": "vel "
         },
-        " Allelúia."
+        "Allelúia."
        ]
       ]
      }
@@ -1635,7 +1636,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluia."
+        "Aleluia."
        ]
       ]
      }
@@ -1656,7 +1657,7 @@
          "m": "rubric",
          "t": "Or: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1677,7 +1678,7 @@
          "m": "rubric",
          "t": "o bien: "
         },
-        " Aleluya."
+        "Aleluya."
        ]
       ]
      }
@@ -1698,7 +1699,7 @@
          "m": "rubric",
          "t": "Oppure: "
         },
-        " Alleluia."
+        "Alleluia."
        ]
       ]
      }
@@ -1719,7 +1720,7 @@
          "m": "rubric",
          "t": "ou "
         },
-        " Alléluia !"
+        "Alléluia !"
        ]
       ]
      }
@@ -1794,7 +1795,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Senhor, tuas palavras são espírito, são vida; só tu tens palavras de vida eterna!."
+        "Senhor, tuas palavras são espírito, são vida; só tu tens palavras de vida eterna!"
        ],
        [
         "Aleluia."
@@ -1810,7 +1811,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "cf. Jn 6, 63b. 68b"
      },
      {
       "k": "p",
@@ -2333,7 +2335,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, muitos dos discípulos de Jesus, que o escutaram, disseram: “Esta palavra é dura. Quem consegue escutá-la?” Sabendo que seus discípulos estavam murmurando por causa disso mesmo, Jesus perguntou: “Isto vos escandaliza? E quando virdes o Filho do Homem subindo para onde estava antes? O Espírito é que dá vida, a carne não adianta nada. As palavras que vos falei são espírito e vida. Mas entre vós há alguns que não crêem”. Jesus sabia, desde o início, quem eram os que não tinham fé e quem havia de entregá-lo. E acrescentou: “É por isso que vos disse: ninguém pode vir a mim a não ser que lhe seja concedido pelo Pai”. A partir daquele momento, muitos discípulos voltaram atrás e não andavam mais com ele. Então, Jesus disse aos doze: “Vós também vos quereis ir embora?” Simão Pedro respondeu: “A quem iremos, Senhor? Tu tens palavras de vida eterna. Nós cremos firmemente e reconhecemos que tu és o Santo de Deus”."
+        "Naquele tempo, muitos dos discípulos de Jesus, que o escutaram, disseram: “Esta palavra é dura. Quem consegue escutá-la?” Sabendo que seus discípulos estavam murmurando por causa disso mesmo, Jesus perguntou: “Isto vos escandaliza? E quando virdes o Filho do Homem subindo para onde estava antes? O Espírito é que dá vida, a carne não adianta nada. As palavras que vos falei são espírito e vida. Mas entre vós há alguns que não creem”. Jesus sabia, desde o início, quem eram os que não tinham fé e quem havia de entregá-lo. E acrescentou: “É por isso que vos disse: ninguém pode vir a mim a não ser que lhe seja concedido pelo Pai”. A partir daquele momento, muitos discípulos voltaram atrás e não andavam mais com ele. Então, Jesus disse aos doze: “Vós também vos quereis ir embora?” Simão Pedro respondeu: “A quem iremos, Senhor? Tu tens palavras de vida eterna. Nós cremos firmemente e reconhecemos que tu és o Santo de Deus”."
        ]
       ]
      },
@@ -2614,8 +2616,8 @@
  ],
  "title": {
   "la": "Tempus Paschale — Hebdomada III — Sabbato",
-  "pt-BR": "Tempo da Páscoa — 3ª Semana — Sábado",
-  "en-US": "Easter Season — Third Week — Saturday",
+  "pt-BR": "Sábado da 3ª Semana da Páscoa",
+  "en-US": "Saturday of the Third Week of Easter",
   "es": "Tiempo de Pascua — Semana III — Sábado",
   "it": "Sabato della III settimana di Pasqua",
   "fr": "Temps pascal — 3e semaine — Samedi",

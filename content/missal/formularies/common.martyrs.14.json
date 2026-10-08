@@ -216,7 +216,7 @@
         "allelúia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -295,7 +295,7 @@
         "Alleluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -323,7 +323,7 @@
         "alléluia",
         {
          "m": "rubric",
-         "t": "). "
+         "t": ")."
         }
        ]
       ]
@@ -503,7 +503,7 @@
          "m": "rubric",
          "t": "N. "
         },
-        " la stessa forza che la rese vittoriosa nel martirio. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
+        "la stessa forza che la rese vittoriosa nel martirio. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli."
        ]
       ]
      }
@@ -1288,8 +1288,8 @@
  ],
  "title": {
   "la": "COMMUNE MARTYRUM",
-  "pt-BR": "COMUM DOS MÁRTIRES",
-  "en-US": "COMMON OF MARTYRS",
+  "pt-BR": "Comum dos Mártires",
+  "en-US": "Common of Martyrs",
   "es": "COMÚN DE MÁRTIRES",
   "it": "COMUNE DEI MARTIRI",
   "fr": "COMMUN DES MARTYRS",

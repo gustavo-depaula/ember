@@ -221,7 +221,7 @@
       "k": "p",
       "lines": [
        [
-        "Ó Deus, vede a face do eleito, vosso Ungido! Na verdade, um só dia em vosso templo vale mais do que milhares fora dele!."
+        "Ó Deus, vede a face do eleito, vosso Ungido! Na verdade, um só dia em vosso templo vale mais do que milhares fora dele!"
        ]
       ]
      }
@@ -563,11 +563,7 @@
          "m": "rubric",
          "t": "N.)"
         },
-        " free from every failing of the human conditio",
-        {
-         "m": "rubric",
-         "t": "N."
-        },
+        " free from every failing of the human condition.",
         " Through Christ our Lord."
        ]
       ]
@@ -625,7 +621,7 @@
          "m": "rubric",
          "t": "][N."
         },
-        "e",
+        " e",
         {
          "m": "rubric",
          "t": " N.]"
@@ -943,7 +939,7 @@
          "m": "rubric",
          "t": "] N."
         },
-        "e",
+        " e",
         {
          "m": "rubric",
          "t": " N."
@@ -976,8 +972,8 @@
  ],
  "title": {
   "la": "III. IN VARIIS COMMEMORATIONIBUS",
-  "pt-BR": "III. PARA DIVERSAS COMEMORAÇÕES",
-  "en-US": "III. VARIOUS COMMEMORATIONS",
+  "pt-BR": "III. Para Diversas Comemorações",
+  "en-US": "III. Various Commemorations",
   "es": "III. EN DIVERSAS CONMEMORACIONES",
   "it": "III. PER DIVERSE COMMEMORAZIONI",
   "fr": "III. POUR DIVERSES COMMÉMORATIONS"

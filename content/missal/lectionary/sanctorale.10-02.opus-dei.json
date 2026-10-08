@@ -288,7 +288,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the book of Exodus"
+        "A reading from the Book of Exodus"
        ]
       ],
       "cite": "23:20-23",
@@ -624,7 +624,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 90, 1-2. 3-4. 5-6. 10-11 (: 11)",
+      "cite": "Ps 90, 1-2. 3-4. 5-6. 10-11 (R.: 11)",
       "role": "title"
      }
     ],
@@ -648,7 +648,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 90, 1-2. 3-4. 5-6. 10-11 (: 11)",
+      "cite": "Ps 90, 1-2. 3-4. 5-6. 10-11 (R.: 11)",
       "role": "title"
      }
     ],
@@ -684,7 +684,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 90, 1-2. 3-4. 5-6. 10-11 (: 11)",
+      "cite": "Ps 90, 1-2. 3-4. 5-6. 10-11 (R.: 11)",
       "role": "title"
      }
     ],
@@ -696,7 +696,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 91 (90), 1-2. 3-4. 5-6. 10-11 (R: 11)",
+      "cite": "Ps 91 (90), 1-2. 3-4. 5-6. 10-11 (R.: 11)",
       "role": "title"
      }
     ]
@@ -1762,7 +1762,7 @@
       "k": "p",
       "lines": [
        [
-        "Lectio seconda"
+        "Lectio secunda"
        ]
       ],
       "role": "title"
@@ -2332,7 +2332,7 @@
         "Aclamação ao Evangelho"
        ]
       ],
-      "cite": "Sal 102, 21",
+      "cite": "Sl 102, 21",
       "role": "title"
      },
      {
@@ -2358,7 +2358,8 @@
         "Gospel Acclamation"
        ]
       ],
-      "role": "title"
+      "role": "title",
+      "cite": "Ps 102, 21"
      },
      {
       "k": "p",
@@ -2543,7 +2544,7 @@
       "k": "p",
       "lines": [
        [
-        "Os seus anjos nos céus vêem sem cessar a face do meu Pai que está nos céus."
+        "Os seus anjos nos céus veem sem cessar a face do meu Pai que está nos céus."
        ]
       ],
       "role": "summary"
@@ -2846,7 +2847,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquela hora, os discípulos aproximaram-se de Jesus e perguntaram: \"Quem é o maior no Reino dos Céus?\" Jesus chamou uma criança, colocou-a no meio deles e disse: \"Em verdade vos digo, se não vos converterdes, e não vos tornardes como crianças, não entrareis no Reino dos Céus. Quem se faz pequeno como esta criança, esse é o maior no Reino dos Céus. E quem recebe em meu nome uma criança como esta, é a mim que recebe. Não desprezeis nenhum desses pequeninos, pois eu vos digo que os seus anjos nos céus vêem sem cessar a face do meu Pai que está nos céus."
+        "Naquela hora, os discípulos aproximaram-se de Jesus e perguntaram: \"Quem é o maior no Reino dos Céus?\" Jesus chamou uma criança, colocou-a no meio deles e disse: \"Em verdade vos digo, se não vos converterdes, e não vos tornardes como crianças, não entrareis no Reino dos Céus. Quem se faz pequeno como esta criança, esse é o maior no Reino dos Céus. E quem recebe em meu nome uma criança como esta, é a mim que recebe. Não desprezeis nenhum desses pequeninos, pois eu vos digo que os seus anjos nos céus veem sem cessar a face do meu Pai que está nos céus."
        ]
       ]
      },

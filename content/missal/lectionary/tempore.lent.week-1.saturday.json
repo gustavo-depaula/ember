@@ -579,7 +579,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 118, 1-2. 4-5. 7-8 (: cf. 1)",
+      "cite": "Ps 118, 1-2. 4-5. 7-8 (R.: cf. 1)",
       "role": "title"
      }
     ],
@@ -591,7 +591,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 118 (119), 1-2.4-5.7-8 (: cf 1b)",
+      "cite": "Sl 118 (119), 1-2.4-5.7-8 (R.: cf 1b)",
       "role": "title"
      }
     ],
@@ -603,7 +603,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 118, 1-2. 4-5. 7-8 (: cf. 1)",
+      "cite": "Ps 118, 1-2. 4-5. 7-8 (R.: cf. 1)",
       "role": "title"
      }
     ],
@@ -615,7 +615,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 118, 1-2. 4-5. 7-8 (: cf. 1)",
+      "cite": "Sal 118, 1-2. 4-5. 7-8 (R.: cf. 1)",
       "role": "title"
      }
     ],
@@ -639,7 +639,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 118, 1-2. 4-5. 7-8 (: cf. 1)",
+      "cite": "Ps 118, 1-2. 4-5. 7-8 (R.: cf. 1)",
       "role": "title"
      }
     ],
@@ -651,7 +651,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 119 (118), 1-2. 4-5. 7-8 (R: vgl. 1)",
+      "cite": "Ps 119 (118), 1-2. 4-5. 7-8 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -973,7 +973,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Heureux ceux qui marchent suivant la loi du Seigneur !"
+        "Heureux ceux qui marchent suivant la loi du Seigneur !"
        ]
       ]
      }
@@ -2258,7 +2258,7 @@
  "title": {
   "la": "Tempus Quadragesimæ — Hebdomada I — Sabbato",
   "pt-BR": "Sábado da 1ª Semana da Quaresma",
-  "en-US": "Season of Lent — 1st Week: Saturday",
+  "en-US": "Saturday of the First Week of Lent",
   "es": "Tiempo de Cuaresma — Sábado de la I Semana",
   "it": "Sabato DELLA I SETTIMANA DI QUARESIMA",
   "fr": "Temps de Carême — 1e semaine — Samedi",

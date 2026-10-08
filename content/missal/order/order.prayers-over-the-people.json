@@ -345,7 +345,7 @@
        [
         {
          "m": "rubric",
-         "t": "Post orationem, sacerdos semper subdit: "
+         "t": "Post orationem, sacerdos semper subdit:"
         }
        ],
        [
@@ -355,7 +355,12 @@
          "t": "✠"
         },
         " et Spíritus Sancti, descéndat super vos et máneat semper."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -373,7 +378,7 @@
        [
         {
          "m": "rubric",
-         "t": "Depois da oração, o sacerdote acrescenta sempre: "
+         "t": "Depois da oração, o sacerdote acrescenta sempre:"
         }
        ],
        [
@@ -383,7 +388,12 @@
          "t": "✠"
         },
         " e Espírito Santo, desça sobre vós e permaneça para sempre."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -401,7 +411,7 @@
        [
         {
          "m": "rubric",
-         "t": "After the prayer, the priest always adds: "
+         "t": "After the prayer, the priest always adds:"
         }
        ],
        [
@@ -411,7 +421,12 @@
          "t": "✠"
         },
         " and the Holy Spirit, come down on you and remain with you for ever."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -445,7 +460,12 @@
        ],
        [
         "descienda sobre vosotros."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -463,7 +483,7 @@
        [
         {
          "m": "rubric",
-         "t": "Dopo la preghiera, il sacerdote conclude sempre: "
+         "t": "Dopo la preghiera, il sacerdote conclude sempre:"
         }
        ],
        [
@@ -479,7 +499,12 @@
        ],
        [
         "discenda su di voi e con voi rimanga sempre."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -510,7 +535,12 @@
          "t": "✠"
         },
         " et le Saint-Esprit."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -538,7 +568,12 @@
          "t": "✠"
         },
         " und des Heiligen Geistes, komme auf euch herab und bleibe bei euch allezeit."
-       ],
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
        [
         {
          "m": "rubric",
@@ -646,7 +681,7 @@
          "m": "rubric",
          "t": "1. "
         },
-        " Assisti con bontà il tuo popolo, o Signore,"
+        "Assisti con bontà il tuo popolo, o Signore,"
        ],
        [
         "e non privare mai della tua consolazione sulla terra coloro che chiami ai beni eterni."
@@ -1114,7 +1149,7 @@
          "m": "rubric",
          "t": "4. "
         },
-        " Converti a te, o Signore, il tuo popolo, tu che difendi anche i peccatori"
+        "Converti a te, o Signore, il tuo popolo, tu che difendi anche i peccatori"
        ],
        [
         "e proteggi con grande amore"
@@ -1397,7 +1432,7 @@
         "se vuelva hacia ti de todo corazón;"
        ],
        [
-        "pues tú,que le sigues defendiendo aun cuando peca,"
+        "pues tú, que le sigues defendiendo aun cuando peca,"
        ],
        [
         "le proteges con más amor cuando te sirve fielmente."
@@ -1522,7 +1557,7 @@
          "m": "rubric",
          "t": "7. "
         },
-        "Ó Deus de bondade, concedei ao povo que vos serve sem cessar crescer por vossa graça e guardar sempre os vossos mandamentos. Por Cristo, nosso Senhor.."
+        "Ó Deus de bondade, concedei ao povo que vos serve sem cessar crescer por vossa graça e guardar sempre os vossos mandamentos. Por Cristo, nosso Senhor."
        ]
       ]
      }
@@ -2710,7 +2745,7 @@
          "m": "rubric",
          "t": "14. "
         },
-        " I cuori dei fedeli,"
+        "I cuori dei fedeli,"
        ],
        [
         "pronti a servire il tuo nome,"
@@ -2893,7 +2928,7 @@
          "m": "rubric",
          "t": "15. "
         },
-        " Esaudisci, o Signore, le invocazioni del popolo a te fedele: tu, che sei benevolo verso l'umana fragilità,"
+        "Esaudisci, o Signore, le invocazioni del popolo a te fedele: tu, che sei benevolo verso l'umana fragilità,"
        ],
        [
         "concedi il tuo aiuto, perché la tua famiglia,"

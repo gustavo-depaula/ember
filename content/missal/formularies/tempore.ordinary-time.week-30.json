@@ -557,7 +557,7 @@
       "k": "p",
       "lines": [
        [
-        "Olhai benigno, nó5 vos pedimos, Senhor,"
+        "Olhai benigno, nós vos pedimos, Senhor,"
        ],
        [
         "os dons que vos apresentamos,"
@@ -829,7 +829,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -843,7 +843,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -857,7 +857,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -871,7 +871,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -885,7 +885,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -899,7 +899,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -913,7 +913,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -982,7 +982,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -991,7 +991,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1000,7 +1000,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -1237,8 +1237,8 @@
  ],
  "title": {
   "la": "DOMINICA XXX «PER ANNUM»",
-  "pt-BR": "30º DOMINGO DO TEMPO COMUM",
-  "en-US": "30th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "30º Domingo do Tempo Comum",
+  "en-US": "Thirtieth Sunday in Ordinary Time",
   "es": "XXX DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XXX DOMENICA",
   "fr": "Temps ordinaire — 30ème DIMANCHE",

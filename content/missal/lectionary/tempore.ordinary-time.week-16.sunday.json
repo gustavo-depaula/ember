@@ -582,7 +582,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 85, 5-6. 9-10.15-16a (: 5a)",
+      "cite": "Ps 85, 5-6. 9-10.15-16a (R.: 5a)",
       "role": "title"
      }
     ],
@@ -594,7 +594,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 85 (86), 5-6.9-10.15-16a (: 5a)",
+      "cite": "Sl 85 (86), 5-6.9-10.15-16a (R.: 5a)",
       "role": "title"
      }
     ],
@@ -606,7 +606,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 85, 5-6. 9-10. 15-16a (: 5a)",
+      "cite": "Ps 85, 5-6. 9-10. 15-16a (R.: 5a)",
       "role": "title"
      }
     ],
@@ -618,7 +618,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 85, 5-6. 9-10.15-16a (: 5a)",
+      "cite": "Sal 85, 5-6. 9-10.15-16a (R.: 5a)",
       "role": "title"
      }
     ],
@@ -642,7 +642,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 85, 5-6. 9-10.15-16a (: 5a)",
+      "cite": "Ps 85, 5-6. 9-10.15-16a (R.: 5a)",
       "role": "title"
      }
     ],
@@ -654,7 +654,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 86 (85), 5-6. 9-10. 15-16 (R: 5a)",
+      "cite": "Ps 86 (85), 5-6. 9-10. 15-16 (R.: 5a)",
       "role": "title"
      }
     ]
@@ -911,7 +911,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Ao Senhor, vós sois bom, sois clemente e fiel!."
+        "Ao Senhor, vós sois bom, sois clemente e fiel!"
        ]
       ]
      }
@@ -1017,7 +1017,7 @@
         "Sois tão grande e fazeis maravilhas:"
        ],
        [
-        "vós somente sois Deus e Senhor!."
+        "vós somente sois Deus e Senhor!"
        ]
       ]
      }
@@ -1144,7 +1144,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Ao Senhor, vós sois bom, sois clemente e fiel!."
+        "Ao Senhor, vós sois bom, sois clemente e fiel!"
        ]
       ]
      }
@@ -1371,7 +1371,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Ao Senhor, vós sois bom, sois clemente e fiel!."
+        "Ao Senhor, vós sois bom, sois clemente e fiel!"
        ]
       ]
      }
@@ -1541,7 +1541,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
@@ -1916,7 +1916,7 @@
         "Aleluia, aleluia."
        ],
        [
-        "Eu te louvo, ó Pai, Santo, Deus do céu, Senhor da terra: os mistérios do teu Reino aos pequenos, Pai, revelas!."
+        "Eu te louvo, ó Pai, Santo, Deus do céu, Senhor da terra: os mistérios do teu Reino aos pequenos, Pai, revelas!"
        ],
        [
         "Aleluia."
@@ -2286,7 +2286,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2396,7 +2396,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2606,7 +2606,7 @@
         "In quel tempo, Gesù espose alla folla un'altra parabola, dicendo: «Il regno dei cieli è simile a un uomo che ha seminato del buon seme nel suo campo. Ma, mentre tutti dormivano, venne il suo nemico, seminò della zizzania in mezzo al grano e se ne andò. Quando poi lo stelo crebbe e fece frutto, spuntò anche la zizzania."
        ],
        [
-        "Allora i servi andarono dal padrone di casa e gli dissero: Signore, non hai seminato del buon seme nel tuo campo? Da dove viene la zizzania?. Ed egli rispose loro: Un nemico ha fatto questo!. E i servi gli dissero: Vuoi che andiamo a raccoglierla?. No, rispose, perché non succeda che, raccogliendo la zizzania, con essa sradichiate anche il grano."
+        "Allora i servi andarono dal padrone di casa e gli dissero: Signore, non hai seminato del buon seme nel tuo campo? Da dove viene la zizzania? Ed egli rispose loro: Un nemico ha fatto questo! E i servi gli dissero: Vuoi che andiamo a raccoglierla? No, rispose, perché non succeda che, raccogliendo la zizzania, con essa sradichiate anche il grano."
        ],
        [
         "Lasciate che l'una e l'altro crescano insieme fino alla mietitura e al momento della mietitura dirò ai mietitori: Raccogliete prima la zizzania e legatela in fasci per bruciarla; il grano invece riponetelo nel mio granaio»."
@@ -2738,7 +2738,7 @@
    "alt": {
     "group": 1,
     "option": 1,
-    "label": "short"
+    "label": "long"
    }
   },
   {
@@ -2960,7 +2960,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3070,7 +3070,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3204,7 +3204,7 @@
       "k": "p",
       "lines": [
        [
-        "In quel tempo, Gesù espose alla folla un'altra parabola, dicendo: «Il regno dei cieli è simile a un uomo che ha seminato del buon seme nel suo campo. Ma, mentre tutti dormivano, venne il suo nemico, seminò della zizzania in mezzo al grano e se ne andò. Quando poi lo stelo crebbe e fece frutto, spuntò anche la zizzania. Allora i servi andarono dal padrone di casa e gli dissero: Signore, non hai seminato del buon seme nel tuo campo? Da dove viene la zizzania?. Ed egli rispose loro: Un nemico ha fatto questo!. E i servi gli dissero: Vuoi che andiamo a raccoglierla?. No, rispose, perché non succeda che, raccogliendo la zizzania, con essa sradichiate anche il grano. Lasciate che l'una e l'altro crescano insieme fino alla mietitura e al momento della mietitura dirò ai mietitori: Raccogliete prima la zizzania e legatela in fasci per bruciarla; il grano invece riponetelo nel mio granaio»."
+        "In quel tempo, Gesù espose alla folla un'altra parabola, dicendo: «Il regno dei cieli è simile a un uomo che ha seminato del buon seme nel suo campo. Ma, mentre tutti dormivano, venne il suo nemico, seminò della zizzania in mezzo al grano e se ne andò. Quando poi lo stelo crebbe e fece frutto, spuntò anche la zizzania. Allora i servi andarono dal padrone di casa e gli dissero: Signore, non hai seminato del buon seme nel tuo campo? Da dove viene la zizzania? Ed egli rispose loro: Un nemico ha fatto questo! E i servi gli dissero: Vuoi che andiamo a raccoglierla? No, rispose, perché non succeda che, raccogliendo la zizzania, con essa sradichiate anche il grano. Lasciate che l'una e l'altro crescano insieme fino alla mietitura e al momento della mietitura dirò ai mietitori: Raccogliete prima la zizzania e legatela in fasci per bruciarla; il grano invece riponetelo nel mio granaio»."
        ]
       ]
      },
@@ -3279,7 +3279,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3389,7 +3389,7 @@
    "alt": {
     "group": 1,
     "option": 2,
-    "label": "long"
+    "label": "short"
    }
   },
   {
@@ -3498,7 +3498,7 @@
       "k": "p",
       "lines": [
        [
-        "\"Ai dos pastores que deixam perder-se e dispersar-se o rebanho de minha pastagem, diz o Senhor! Deste modo, isto diz o Senhor, Deus de Israel, aos pastores que apascentam o meu povo: Vós dispersastes o meu rebanho, e o afugentastes e não cuidastes dele; eis que irei verificar isso entre vós e castigar a malícia de vossas ações, diz o Senhor. E eu reunirei o resto de minhas ovelhas de todos os países para onde forem expulsas, e as farei voltar a seus campos, e elas se reproduzirão e multiplicarão. Suscitarei para elas novos pastores que as apascentem; não sofrerão mais o medo e a angústia, nenhuma delas se perderá, diz o Senhor. Eis que virão dias, diz o Senhor, em que farei nascer um descendente de Davi; reinará como rei e será sábio, fará valer a justiça e a retidão na terra. Naqueles dias, Judá será salvo e Israel viverá tranqüilo; este é o nome com que o chamarão: 'Senhor, nossa Justiça'."
+        "\"Ai dos pastores que deixam perder-se e dispersar-se o rebanho de minha pastagem, diz o Senhor! Deste modo, isto diz o Senhor, Deus de Israel, aos pastores que apascentam o meu povo: Vós dispersastes o meu rebanho, e o afugentastes e não cuidastes dele; eis que irei verificar isso entre vós e castigar a malícia de vossas ações, diz o Senhor. E eu reunirei o resto de minhas ovelhas de todos os países para onde forem expulsas, e as farei voltar a seus campos, e elas se reproduzirão e multiplicarão. Suscitarei para elas novos pastores que as apascentem; não sofrerão mais o medo e a angústia, nenhuma delas se perderá, diz o Senhor. Eis que virão dias, diz o Senhor, em que farei nascer um descendente de Davi; reinará como rei e será sábio, fará valer a justiça e a retidão na terra. Naqueles dias, Judá será salvo e Israel viverá tranquilo; este é o nome com que o chamarão: 'Senhor, nossa Justiça'."
        ]
       ]
      },
@@ -3526,7 +3526,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Jeremiah"
+        "A reading from the Book of the Prophet Jeremiah"
        ]
       ],
       "cite": "23:1-6",
@@ -3919,7 +3919,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -3931,7 +3931,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 22 (23), 1-3a.3b-4.5.6 (: 1))",
+      "cite": "Sl 22 (23), 1-3a.3b-4.5.6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -3943,7 +3943,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -3955,7 +3955,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Sal 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -3979,7 +3979,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -3991,7 +3991,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R: 1)",
+      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ]
@@ -4393,7 +4393,7 @@
         "estais comigo com bastão e com cajado;"
        ],
        [
-        "eles me dão a segurança!."
+        "eles me dão a segurança!"
        ]
       ]
      }
@@ -4526,7 +4526,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "O Senhor é o pastor que me conduz: felicidade e todo bem hão de seguir-me!."
+        "O Senhor é o pastor que me conduz: felicidade e todo bem hão de seguir-me!"
        ]
       ]
      }
@@ -5010,7 +5010,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "O Senhor é o pastor que me conduz: felicidade e todo bem hão de seguir-me!."
+        "O Senhor é o pastor que me conduz: felicidade e todo bem hão de seguir-me!"
        ]
       ]
      }
@@ -6458,7 +6458,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Leitura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -6872,7 +6872,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 14, 2-3ab.3cd-4ab.5 (: 1a)",
+      "cite": "Ps 14, 2-3ab.3cd-4ab.5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -6884,7 +6884,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 14 (15), 2-3a.3cd-4ab.5 (: 1a))",
+      "cite": "Sl 14 (15), 2-3a.3cd-4ab.5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -6896,7 +6896,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (: 1a)",
+      "cite": "Ps 14, 2-3ab. 3cd-4ab. 5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -6908,7 +6908,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 14, 2-3ab.3cd-4ab.5 (: 1a)",
+      "cite": "Sal 14, 2-3ab.3cd-4ab.5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -6932,7 +6932,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 14, 2-3ab.3cd-4ab.5 (: 1a)",
+      "cite": "Ps 14, 2-3ab.3cd-4ab.5 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -6944,7 +6944,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 15 (14), 2-3. 4. 5 (R: 1)",
+      "cite": "Ps 15 (14), 2-3. 4. 5 (R.: 1)",
       "role": "title"
      }
     ]
@@ -7080,7 +7080,7 @@
         "e pratica a justiça fielmente;"
        ],
        [
-        "aque pensa a verdade no seu íntimo"
+        "que pensa a verdade no seu íntimo"
        ],
        [
         "e não solta em calúnias sua língua."
@@ -8952,8 +8952,8 @@
  ],
  "title": {
   "la": "Tempus «per annum» — Domenica XVI",
-  "pt-BR": "Tempo Comum — 16º Domingo do Tempo Comum",
-  "en-US": "Ordinary Time — 16th Week: Sunday",
+  "pt-BR": "16º Domingo do Tempo Comum",
+  "en-US": "Sixteenth Sunday in Ordinary Time",
   "es": "Tiempo ordinario — 16º Domingo",
   "it": "XVI DOMENICA DEL TEMPO ORDINARIO",
   "fr": "Temps ordinaire — 16ème Dimanche XVI",

@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -691,7 +691,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 39, 7-8a. 8b-9. 10. 17 (: cf. 8a et 9a)",
+      "cite": "Ps 39, 7-8a. 8b-9. 10. 17 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
@@ -703,7 +703,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 39 (40), 7-8a.8b-9.10 e 17 (: cf. 8a e 9a)",
+      "cite": "Sl 39 (40), 7-8a.8b-9.10 e 17 (R.: cf. 8a e 9a)",
       "role": "title"
      }
     ],
@@ -715,7 +715,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 39, 7-8a. 8b-9. 10. 17 (: cf. 8a et 9a)",
+      "cite": "Ps 39, 7-8a. 8b-9. 10. 17 (R.: cf. 8a and 9a)",
       "role": "title"
      }
     ],
@@ -727,7 +727,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 39, 7-8a. 8b-9. 10. 17 (: cf. 8a et 9a)",
+      "cite": "Sal 39, 7-8a. 8b-9. 10. 17 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
@@ -751,7 +751,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 39, 7-8a. 8b-9. 10. 17 (: cf. 8a et 9a)",
+      "cite": "Ps 39, 7-8a. 8b-9. 10. 17 (R.: cf. 8a et 9a)",
       "role": "title"
      }
     ],
@@ -763,7 +763,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 40 (39), 7-8. 9-10. 17 (R: vgl. 8a. 9a)",
+      "cite": "Ps 40 (39), 7-8. 9-10. 17 (R.: vgl. 8a. 9a)",
       "role": "title"
      }
     ]
@@ -2375,7 +2375,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -2387,7 +2387,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 84 (85), 9ab-10.11-12.13-14 (: cf. 9))",
+      "cite": "Sl 84 (85), 9ab-10.11-12.13-14 (R.: cf. 9)",
       "role": "title"
      }
     ],
@@ -2399,7 +2399,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Ps 84, 9ab and 10. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -2411,7 +2411,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 84, 9ab et 10. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Sal 84, 9ab et 10. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -2435,7 +2435,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (: cf. 9b)",
+      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (R.: cf. 9b)",
       "role": "title"
      }
     ],
@@ -2447,7 +2447,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 85 (84), 9-10. 11-12. 13-14 (R: 9b)",
+      "cite": "Ps 85 (84), 9-10. 11-12. 13-14 (R.: 9b)",
       "role": "title"
      }
     ]
@@ -3310,7 +3310,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamamaçãoao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "cite": "Lc 21, 36",
@@ -4065,7 +4065,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXIX",
   "pt-BR": "Terça-feira da 29ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 29th Week: Tuesday",
+  "en-US": "Tuesday of the Twenty-Ninth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 29ª semana",
   "it": "MARTEDI della XXIX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 29e semaine",

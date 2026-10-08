@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -642,7 +642,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 108, 21-22. 26-27. 30-31 (: 26b)",
+      "cite": "Ps 108, 21-22. 26-27. 30-31 (R.: 26b)",
       "role": "title"
      }
     ],
@@ -654,7 +654,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 108 (109), 21-22.26-27.30-31(: 26b)",
+      "cite": "Sl 108 (109), 21-22.26-27.30-31 (R.: 26b)",
       "role": "title"
      }
     ],
@@ -666,7 +666,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 108, 21-22. 26-27. 30-31 (: 26b)",
+      "cite": "Ps 108, 21-22. 26-27. 30-31 (R.: 26b)",
       "role": "title"
      }
     ],
@@ -678,7 +678,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 108, 21-22. 26-27. 30-31 (: 26b)",
+      "cite": "Sal 108, 21-22. 26-27. 30-31 (R.: 26b)",
       "role": "title"
      }
     ],
@@ -702,7 +702,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 108, 21-22. 26-27. 30-31 (: 26b)",
+      "cite": "Ps 108, 21-22. 26-27. 30-31 (R.: 26b)",
       "role": "title"
      }
     ],
@@ -714,7 +714,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 109 (108), 21-22. 26-27. 30-31 (R: 26)",
+      "cite": "Ps 109 (108), 21-22. 26-27. 30-31 (R.: 26)",
       "role": "title"
      }
     ]
@@ -2090,7 +2090,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 143, 1. 2. 9-10 (: 1a)",
+      "cite": "Ps 143, 1. 2. 9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2102,7 +2102,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 143 (144), 1.2.9-10 (: 1a))",
+      "cite": "Sl 143 (144), 1.2.9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2114,7 +2114,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 143, 1. 2. 9-10 (: 1a)",
+      "cite": "Ps 143, 1. 2. 9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2126,7 +2126,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 143, 1. 2. 9-10 (: 1a)",
+      "cite": "Sal 143, 1. 2. 9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2150,7 +2150,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 143, 1. 2. 9-10 (: 1a)",
+      "cite": "Ps 143, 1. 2. 9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2162,7 +2162,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 144 (143), 1-2c. 9-10 (R: 1a)",
+      "cite": "Ps 144 (143), 1-2c. 9-10 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -3766,7 +3766,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria V hebd. XXX",
   "pt-BR": "Quinta-feira da 30ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 30th Week: Thursday",
+  "en-US": "Thursday of the Thirtieth Week in Ordinary Time",
   "es": "Tiempo ordinario — Jueves 30ª semana",
   "it": "GIOVEDI della XXX settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Jeudi de la 30e semaine",

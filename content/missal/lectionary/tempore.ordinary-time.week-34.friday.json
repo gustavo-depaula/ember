@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -279,7 +279,7 @@
       "k": "p",
       "lines": [
        [
-        "“Eu, Daniel, tive uma visão durante a noite: eis que os quatro ventos do céu revolviam o vasto mar, e quatro grandes animais, diferentes uns dos outros, emergiam do mar. O primeiro era semelhante a um leão, e tinha asas de águia; ainda estava olhando, quando lhe foram arrancadas as asas; ele foi erguido da terra e posto de pé como um homem, e foi-lhe dado um coração de homem. Eis que surgiu outro animal, o segundo, semelhante a um urso, que estava erguido pela metade e tinha três costelas nas fauces entre os dentes; ouvia-se dizer: 'Vamos, come mais carne'. Continuei a olhar, e eis que assomou outro animal, semelhante a um leopardo; tinha no dorso quatro asas de ave e havia no animal quatro cabeças. E foi-lhe dado poder. Depois, eu insistia em minha visão notuma, e eis que apareceu o quarto animal, terrível, estranho e extremamente forte; com suas dentuças de ferro, tudo devorava e triturava, calcando aos pés o que sobrava; era bem diferente dos outros animais que eu vi antes, e tinha dez chifres. Eu observava estes chifres, e eis que apontou entre eles outro chifre pequeno, e, em compensação, foram arrancados três dos primeiros chifres; e eis que neste chifre pequeno havia uns olhos como olhos de homem e uma boca que fazia ouvir uma fala muito forte. Eu continuava olhando até que foram postos uns tronos, e um Ancião de muitos dias aí tomou lugar. Sua veste era branca como neve e os cabelos da cabeça, como lã pura; seu trono eram chamas de fogo, e as rodas do trono, como fogo em brasa. Derramava-se aí um rio de fogo que nascia diante dele; serviam-no milhares de milhares, e milhões de milhões assistiam-no ao trono; foi instalado o tribunal, e os livros foram abertos. Eu estava olhando para o lado das palavras fortes que o mencionado chifre fazia ouvir, quando percebi que o animal tinha sido morto, e vi que seu corpo fora feito em pedaços e tinha sido entregue ao fogo para queimar; percebi também que aos restantes animais foi-lhes tirado o poder, sendo-lhes prolongada a vida por certo tempo. Continuei insistindo na visão notuma, e eis que, entre as nuvens do céu, vinha um como filho de homem, aproximando-se do Ancião de muitos dias, e foi conduzido à sua presença. Foram-lhe dados poder, glória e realeza, e todos os povos, nações e línguas o serviam: seu poder é um poder eterno que não lhe será tirado, e seu reino, um reino que não se dissolverá”."
+        "“Eu, Daniel, tive uma visão durante a noite: eis que os quatro ventos do céu revolviam o vasto mar, e quatro grandes animais, diferentes uns dos outros, emergiam do mar. O primeiro era semelhante a um leão, e tinha asas de águia; ainda estava olhando, quando lhe foram arrancadas as asas; ele foi erguido da terra e posto de pé como um homem, e foi-lhe dado um coração de homem. Eis que surgiu outro animal, o segundo, semelhante a um urso, que estava erguido pela metade e tinha três costelas nas fauces entre os dentes; ouvia-se dizer: 'Vamos, come mais carne'. Continuei a olhar, e eis que assomou outro animal, semelhante a um leopardo; tinha no dorso quatro asas de ave e havia no animal quatro cabeças. E foi-lhe dado poder. Depois, eu insistia em minha visão noturna, e eis que apareceu o quarto animal, terrível, estranho e extremamente forte; com suas dentuças de ferro, tudo devorava e triturava, calcando aos pés o que sobrava; era bem diferente dos outros animais que eu vi antes, e tinha dez chifres. Eu observava estes chifres, e eis que apontou entre eles outro chifre pequeno, e, em compensação, foram arrancados três dos primeiros chifres; e eis que neste chifre pequeno havia uns olhos como olhos de homem e uma boca que fazia ouvir uma fala muito forte. Eu continuava olhando até que foram postos uns tronos, e um Ancião de muitos dias aí tomou lugar. Sua veste era branca como neve e os cabelos da cabeça, como lã pura; seu trono eram chamas de fogo, e as rodas do trono, como fogo em brasa. Derramava-se aí um rio de fogo que nascia diante dele; serviam-no milhares de milhares, e milhões de milhões assistiam-no ao trono; foi instalado o tribunal, e os livros foram abertos. Eu estava olhando para o lado das palavras fortes que o mencionado chifre fazia ouvir, quando percebi que o animal tinha sido morto, e vi que seu corpo fora feito em pedaços e tinha sido entregue ao fogo para queimar; percebi também que aos restantes animais foi-lhes tirado o poder, sendo-lhes prolongada a vida por certo tempo. Continuei insistindo na visão noturna, e eis que, entre as nuvens do céu, vinha um como filho de homem, aproximando-se do Ancião de muitos dias, e foi conduzido à sua presença. Foram-lhe dados poder, glória e realeza, e todos os povos, nações e línguas o serviam: seu poder é um poder eterno que não lhe será tirado, e seu reino, um reino que não se dissolverá”."
        ]
       ]
      },
@@ -307,10 +307,11 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Daniel 7:2-14"
+        "A reading from the Book of the Prophet Daniel"
        ]
       ],
-      "role": "announcement"
+      "role": "announcement",
+      "cite": "7, 2-14"
      },
      {
       "k": "p",
@@ -705,7 +706,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (: 59b)",
+      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -717,7 +718,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dn 3, 75.76.77.78.79.80.81 (: 59b)",
+      "cite": "Dn 3, 75.76.77.78.79.80.81 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -729,7 +730,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (: 59b)",
+      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -741,7 +742,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (: 59b)",
+      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -765,7 +766,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (: 59b)",
+      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (R.: 59b)",
       "role": "title"
      }
     ],
@@ -777,7 +778,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (R: 75b)",
+      "cite": "Dan 3, 75. 76. 77. 78. 79. 80. 81 (R.: 75b)",
       "role": "title"
      }
     ]
@@ -1838,7 +1839,7 @@
       "k": "p",
       "lines": [
        [
-        "Pássaros do céu, bendizei o Senhor!."
+        "Pássaros do céu, bendizei o Senhor!"
        ]
       ]
      }
@@ -2023,7 +2024,7 @@
       "k": "p",
       "lines": [
        [
-        "Feras e rebanhos, bendizei o Senhor!."
+        "Feras e rebanhos, bendizei o Senhor!"
        ]
       ]
      }
@@ -2772,7 +2773,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 83, 3. 4. 5-6a et 8a (: Ap 21, 3b)",
+      "cite": "Ps 83, 3. 4. 5-6a et 8a (R.: Ap 21, 3b)",
       "role": "title"
      }
     ],
@@ -2784,7 +2785,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 83 (84), 3.4.5-6a e 8 (: Ap 21, 3b))",
+      "cite": "Sl 83 (84), 3.4.5-6a e 8 (R.: Ap 21, 3b)",
       "role": "title"
      }
     ],
@@ -2796,7 +2797,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 83, 3. 4. 5-6a et 8a (: Ap 21, 3b)",
+      "cite": "Ps 83, 3. 4. 5-6a and 8a (R.: Ap 21, 3b)",
       "role": "title"
      }
     ],
@@ -2808,7 +2809,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 83, 3. 4. 5-6a et 8a (: Ap 21, 3b)",
+      "cite": "Sal 83, 3. 4. 5-6a et 8a (R.: Ap 21, 3b)",
       "role": "title"
      }
     ],
@@ -2832,7 +2833,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 83, 3. 4. 5-6a et 8a (: Ap 21, 3b)",
+      "cite": "Ps 83, 3. 4. 5-6a et 8a (R.: Ap 21, 3b)",
       "role": "title"
      }
     ],
@@ -2844,7 +2845,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 84 (83), 3. 4. 5-6a u. 8a (R: Offb 21, 3b)",
+      "cite": "Ps 84 (83), 3. 4. 5-6a u. 8a (R.: Offb 21, 3b)",
       "role": "title"
      }
     ]
@@ -3107,7 +3108,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Eis a tenda de Deus, no meio do povo!."
+        "Eis a tenda de Deus, no meio do povo!"
        ]
       ]
      }
@@ -3343,7 +3344,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Eis a tenda de Deus, no meio do povo!."
+        "Eis a tenda de Deus, no meio do povo!"
        ]
       ]
      }
@@ -3579,7 +3580,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        "Eis a tenda de Deus, no meio do povo!."
+        "Eis a tenda de Deus, no meio do povo!"
        ]
       ]
      }
@@ -4225,7 +4226,7 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Salvação"
+        "Palavra da Salvação."
        ]
       ],
       "role": "conclusion"
@@ -4470,7 +4471,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria VI hebd. XXXIV",
   "pt-BR": "Sexta-feira da 34ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 34th Week: Friday",
+  "en-US": "Friday of the Thirty-Fourth Week in Ordinary Time",
   "es": "Tiempo ordinario — Viernes 34ª semana",
   "it": "VENERDI della XXXIV settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Vendredi de la 34e semaine",

@@ -622,7 +622,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2a)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -634,7 +634,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 99 (100), 2.3.4.5 (: 2a)",
+      "cite": "Sl 99 (100), 2.3.4.5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -646,7 +646,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2a)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -658,7 +658,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 99, 2. 3. 4. 5 (: 2a)",
+      "cite": "Sal 99, 2. 3. 4. 5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -682,7 +682,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 99, 2. 3. 4. 5 (: 2a)",
+      "cite": "Ps 99, 2. 3. 4. 5 (R.: 2a)",
       "role": "title"
      }
     ],
@@ -694,7 +694,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 100 (99), 2-3. 4-5 (R: vgl. 1)",
+      "cite": "Ps 100 (99), 2-3. 4-5 (R.: vgl. 1)",
       "role": "title"
      }
     ]
@@ -2278,7 +2278,7 @@
       "k": "p",
       "lines": [
        [
-        "Naquele tempo, Jesus decidiu partir para a Galileia. Encontrou Filipe e diz-lhe: \"Segue-me\". Filipe era natural de Betsaida, cidade de André e Pedro. Filipe encontrou-se com Natanael e lhe disse: \"Emcontramos aquele de quem Moisés escreveu na lei e também os profetas: Jesus de Nazaré, filho de José\". Natanael disse: \"De Nazaré pode sair coisa boa?\" Filipe respondeu: \"Vem ver!\". Jesus viu Natanael, que vinha para ele e comentou: \"Ai vem um israelita de verdade, um homem sem falsidade\". Natanael perguntou: \"Donde me conheces?\" Jesus respondeu: \"Antes que Filipe te chamasse, enquanto estavas bebaixo da figueira, eu te vi\". Natanael respondeu: Rabi, tu és o Filho de Deus, tu és o Rei de Israel\". Jesus disse: \"Tu creês porque te disse: Eu te vi debaixo da figueira? Coisas maiores verás!\" E Jesus continuou : \"Em verdade, em verdade eu vos digo: Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem\"."
+        "Naquele tempo, Jesus decidiu partir para a Galileia. Encontrou Filipe e diz-lhe: \"Segue-me\". Filipe era natural de Betsaida, cidade de André e Pedro. Filipe encontrou-se com Natanael e lhe disse: \"Emcontramos aquele de quem Moisés escreveu na lei e também os profetas: Jesus de Nazaré, filho de José\". Natanael disse: \"De Nazaré pode sair coisa boa?\" Filipe respondeu: \"Vem ver!\". Jesus viu Natanael, que vinha para ele e comentou: \"Ai vem um israelita de verdade, um homem sem falsidade\". Natanael perguntou: \"Donde me conheces?\" Jesus respondeu: \"Antes que Filipe te chamasse, enquanto estavas debaixo da figueira, eu te vi\". Natanael respondeu: Rabi, tu és o Filho de Deus, tu és o Rei de Israel\". Jesus disse: \"Tu creês porque te disse: Eu te vi debaixo da figueira? Coisas maiores verás!\" E Jesus continuou : \"Em verdade, em verdade eu vos digo: Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem\"."
        ]
       ]
      },
@@ -2616,8 +2616,8 @@
  ],
  "title": {
   "la": "IN FERIIS TEMPORIS NATIVITATIS — Die 5 ianuarii",
-  "pt-BR": "DIAS DE SEMANA DO TEMPO DO NATAL — 5 de janeiro",
-  "en-US": "Weekdays of the Christmas Season — From January 2 to the Baptism of the Lord — January 5",
+  "pt-BR": "5 de janeiro",
+  "en-US": "January 5",
   "es": "FERIAS DEL TIEMPO DE NAVIDAD — 5 de enero",
   "it": "5 gennaio",
   "fr": "Temps de Noël",

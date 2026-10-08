@@ -362,7 +362,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -383,7 +383,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -467,7 +467,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -1457,7 +1457,7 @@
        [
         {
          "m": "rubric",
-         "t": "Prefazio Cristo Re dell'universo "
+         "t": "Prefazio Cristo Re dell'universo"
         }
        ]
       ]
@@ -1845,7 +1845,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ A "
+         "t": "★ A"
         }
        ],
        [
@@ -1854,7 +1854,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ B "
+         "t": "★ B"
         }
        ],
        [
@@ -1863,7 +1863,7 @@
        [
         {
          "m": "rubric",
-         "t": "★ C "
+         "t": "★ C"
         }
        ],
        [
@@ -2106,8 +2106,8 @@
  ],
  "title": {
   "la": "IN SOLLEMNITATIBUS DOMINI «PER ANNUM» OCCURRENTIBUS — Dominica ultima «per annum» — DOMINI NOSTRI IESU CHRISTI UNIVERSORUM REGIS",
-  "pt-BR": "SOLENIDADES DO SENHOR NO TEMPO COMUM — Último domingo do Tempo Comum — NOSSO SENHOR JESUS CRISTO, REI DO UNIVERSO",
-  "en-US": "OUR LORD JESUS CHRIST, KING OF THE UNIVERSE",
+  "pt-BR": "Nosso Senhor Jesus Cristo, Rei do Universo",
+  "en-US": "Our Lord Jesus Christ, King of the Universe",
   "es": "SOLEMNIDADES DEL SEÑOR DURANTE EL TIEMPO ORDINARIO — Último domingo del tiempo ordinario — JESUCRISTO, REY DEL UNIVERSO",
   "it": "NOSTRO SIGNORE GESÙ CRISTO RE DELL'UNIVERSO",
   "fr": "Temps ordinaire — SOLENNITÉ DU CHRIST, ROI DE L'UNIVERS",

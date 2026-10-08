@@ -886,7 +886,7 @@
        [
         {
          "m": "rubric",
-         "t": "Vel: "
+         "t": "Vel:"
         }
        ]
       ],
@@ -900,7 +900,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou: "
+         "t": "Ou:"
         }
        ]
       ],
@@ -914,7 +914,7 @@
        [
         {
          "m": "rubric",
-         "t": "Or: "
+         "t": "Or:"
         }
        ]
       ],
@@ -928,7 +928,7 @@
        [
         {
          "m": "rubric",
-         "t": "O bien: "
+         "t": "O bien:"
         }
        ]
       ],
@@ -942,7 +942,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ]
       ],
@@ -956,7 +956,7 @@
        [
         {
          "m": "rubric",
-         "t": "Ou bien: "
+         "t": "Ou bien:"
         }
        ]
       ],
@@ -970,7 +970,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oder: "
+         "t": "Oder:"
         }
        ]
       ],
@@ -1254,8 +1254,8 @@
  ],
  "title": {
   "la": "DOMINICA XV «PER ANNUM»",
-  "pt-BR": "15º DOMINGO DO TEMPO COMUM",
-  "en-US": "15th SUNDAY IN ORDINARY TIME",
+  "pt-BR": "15º Domingo do Tempo Comum",
+  "en-US": "Fifteenth Sunday in Ordinary Time",
   "es": "XV DOMINGO DEL TIEMPO ORDINARIO",
   "it": "XV DOMENICA",
   "fr": "Temps ordinaire — 15ème DIMANCHE",

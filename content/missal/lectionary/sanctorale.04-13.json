@@ -210,13 +210,22 @@
       "k": "p",
       "lines": [
        [
-        "Palavra da Deus."
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -230,7 +239,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the second letter of St Paul to Timothy"
+        "A reading from the second Letter of Saint Paul to Timothy"
        ]
       ],
       "cite": "2:8-13 3:10-12",
@@ -585,62 +594,62 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "4"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.4"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Salmo 125 (126)",
       "role": "title"
      }
@@ -648,16 +657,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (: 5)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R: 5)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 5)",
       "role": "title"
      }
     ]
@@ -1933,27 +1950,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.martyrs.gospel.6"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1983,6 +1989,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se me perseguiram, também perseguirão a vós."
        ]
       ],
@@ -2008,6 +2023,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2020,6 +2044,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2049,6 +2082,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se hanno perseguitato me, perseguiteranno anche voi."
        ]
       ],
@@ -2074,6 +2116,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2086,6 +2137,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2485,6 +2545,20 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -2495,7 +2569,7 @@
  "title": {
   "la": "S. Martini I, papæ et martyris",
   "pt-BR": "São Martinho I, papa e mártir",
-  "en-US": "St. Martin I, pope and martyr",
+  "en-US": "Saint Martin I, pope and martyr",
   "es": "San Martín I, Papa y mártir",
   "it": "San Martino I, papa e martire",
   "fr": "Saint Martin Ier, pape et martyr",

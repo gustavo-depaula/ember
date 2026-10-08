@@ -242,7 +242,7 @@
       "k": "p",
       "lines": [
        [
-        "Grava-me como um selo no teu coração, como um selo no teu braço! Porque o amor é forte como a morte e a paixão é cruel como a morada dos mortos; suas faíscas são de fogo, uma labareda divina. Aguas torrenciais jamais apagarão o amor, nem rios poderão afogá-lo. Se alguém oferecesse todas as riquezas de sua casa para comprar o amor, seria tratado com desprezo."
+        "Grava-me como um selo no teu coração, como um selo no teu braço! Porque o amor é forte como a morte e a paixão é cruel como a morada dos mortos; suas faíscas são de fogo, uma labareda divina. Águas torrenciais jamais apagarão o amor, nem rios poderão afogá-lo. Se alguém oferecesse todas as riquezas de sua casa para comprar o amor, seria tratado com desprezo."
        ]
       ]
      },
@@ -632,38 +632,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.virgins.psalm.2"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      ],
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 148, 1-2. 11-13b. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
@@ -671,15 +659,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 148, 1-2. 11-13b. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
@@ -687,24 +683,36 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Salmo 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (: cf. 12a. 13a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-13a. 13c-14 (R.: cf. 12a. 13a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 148, 1-2. 11-12. 13-14 (R: vgl. 12a. 13a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 148, 1-2. 11-12. 13-14 (R.: vgl. 12a. 13a)",
       "role": "title"
      }
     ]
@@ -805,7 +813,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1069,7 +1077,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1342,7 +1350,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1612,7 +1620,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1888,27 +1896,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.virgins.gospel.3"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1938,6 +1935,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Marta recebeu-o em sua casa. Maria escolheu a melhor parte."
        ]
       ],
@@ -1963,6 +1969,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1975,6 +1990,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2038,6 +2062,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -2050,6 +2083,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2497,7 +2539,7 @@
  "title": {
   "la": "S. Scholasticæ, virginis",
   "pt-BR": "Santa Escolástica, virgem",
-  "en-US": "St. Scholastica, virgin",
+  "en-US": "Saint Scholastica, virgin",
   "es": "Santa Escolástica, virgen",
   "it": "Santa Scolastica, vergine",
   "fr": "Sainte Scholastique, vierge",

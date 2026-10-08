@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -651,7 +651,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4bc)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -663,7 +663,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 109 (110), 1.2.3.4 (: 4bc)",
+      "cite": "Sl 109 (110), 1.2.3.4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -675,7 +675,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4bc)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -687,7 +687,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 109, 1. 2. 3. 4 (: 4bc)",
+      "cite": "Sal 109, 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -711,7 +711,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4bc)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -723,7 +723,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 110 (109), 1-2. 3. 4-5 (R: 4b)",
+      "cite": "Ps 110 (109), 1-2. 3. 4-5 (R.: 4b)",
       "role": "title"
      }
     ]
@@ -801,7 +801,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu sei sacerdote per sempre, Cristo Signore."
+        "Tu sei sacerdote per sempre, Cristo Signore."
        ]
       ]
      }
@@ -1031,7 +1031,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu sei sacerdote per sempre, Cristo Signore."
+        "Tu sei sacerdote per sempre, Cristo Signore."
        ]
       ]
      }
@@ -1243,7 +1243,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu sei sacerdote per sempre, Cristo Signore."
+        "Tu sei sacerdote per sempre, Cristo Signore."
        ]
       ]
      }
@@ -1479,7 +1479,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu sei sacerdote per sempre, Cristo Signore."
+        "Tu sei sacerdote per sempre, Cristo Signore."
        ]
       ]
      }
@@ -1543,7 +1543,7 @@
         "\"Tu és sacerdote eternamente,"
        ],
        [
-        "segundo a ordem do rei Melquisedec!."
+        "segundo a ordem do rei Melquisedec!"
        ]
       ]
      }
@@ -1703,7 +1703,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu sei sacerdote per sempre, Cristo Signore."
+        "Tu sei sacerdote per sempre, Cristo Signore."
        ]
       ]
      }
@@ -2385,7 +2385,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 143, 1. 2. 9-10 (: 1a)",
+      "cite": "Ps 143, 1. 2. 9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2397,7 +2397,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 143 (144), 1.2.9-10 (: 1a)",
+      "cite": "Sl 143 (144), 1.2.9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2409,7 +2409,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 143, 1. 2. 9-10 (: 1a)",
+      "cite": "Ps 143, 1. 2. 9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2421,7 +2421,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 143, 1. 2. 9-10 (: 1a)",
+      "cite": "Sal 143, 1. 2. 9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2445,7 +2445,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 143, 1. 2. 9-10 (: 1a)",
+      "cite": "Ps 143, 1. 2. 9-10 (R.: 1a)",
       "role": "title"
      }
     ],
@@ -2457,7 +2457,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 144 (143), 1-2c. 9-10 (R: 1a)",
+      "cite": "Ps 144 (143), 1-2c. 9-10 (R.: 1a)",
       "role": "title"
      }
     ]
@@ -4064,7 +4064,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria IV hebd. II",
   "pt-BR": "Quarta-feira da 2ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 2nd Week: Wednesday",
+  "en-US": "Wednesday of the Second Week in Ordinary Time",
   "es": "Tiempo ordinario — Miércoles 2ª semana",
   "it": "MERCOLEDI della II settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mercredi de la 2e semaine",

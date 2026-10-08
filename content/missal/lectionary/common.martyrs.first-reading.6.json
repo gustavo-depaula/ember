@@ -3,25 +3,16 @@
  "items": [
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -64,7 +55,16 @@
       "k": "p",
       "lines": [
        [
-        "Tu me libertaste, segundo a grandeza da tua misericordia e do teu nome."
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu me libertaste, segundo a grandeza da tua misericórdia e do teu nome."
        ]
       ],
       "role": "summary"
@@ -83,7 +83,7 @@
       "k": "p",
       "lines": [
        [
-        "\"Vou glorificar-te, ó Senhor, meu rei, e louvar-te, ó Deus, meu Salvador. Vou dar gloria ao teu nome, pois foste para mim protetor e socorro. Livraste meu corpo da ruína, da cilada da lingua perversa e dos lábios que forjam a mentira; na presença dos inimigos foste o meu amparo e me libraste, segundo a grandeza da tua misericordia e do teu nome, das mordeduras daqueles que estavam prontos para me devorar, da mão dos que procuravam tirar-me a vida, das muitas tribulações que sofri; livraste-me da fogueira sufocante que me cercava e do meio do fogo que não acendi, do seio profundo do inferno, da lingua impura e da palavra mntirosa, e dos ataques de uma lingua injusta. Corri risco de vida e cheguei bem perto do abismo. Cercavam-me por toda parte, e não havia quem me socorresse; eu olhava, procurando o amparo dos homens, e não existia. Librei-me então da tua misericordia, Senhor,e de teus beneficios desde toda a eternidade, pois tu libertas aqueles que confiam em ti, Senhor, e os salvas das mãos dos malvados.\""
+        "\"Vou glorificar-te, ó Senhor, meu rei, e louvar-te, ó Deus, meu Salvador. Vou dar gloria ao teu nome, pois foste para mim protetor e socorro. Livraste meu corpo da ruína, da cilada da lingua perversa e dos lábios que forjam a mentira; na presença dos inimigos foste o meu amparo e me libraste, segundo a grandeza da tua misericórdia e do teu nome, das mordeduras daqueles que estavam prontos para me devorar, da mão dos que procuravam tirar-me a vida, das muitas tribulações que sofri; livraste-me da fogueira sufocante que me cercava e do meio do fogo que não acendi, do seio profundo do inferno, da lingua impura e da palavra mntirosa, e dos ataques de uma língua injusta. Corri risco de vida e cheguei bem perto do abismo. Cercavam-me por toda parte, e não havia quem me socorresse; eu olhava, procurando o amparo dos homens, e não existia. Librei-me então da tua misericórdia, Senhor, e de teus beneficios desde toda a eternidade, pois tu libertas aqueles que confiam em ti, Senhor, e os salvas das mãos dos malvados.\""
        ]
       ]
      },
@@ -98,6 +98,15 @@
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -245,6 +254,15 @@
       "k": "p",
       "lines": [
        [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Me liberaste, por tu inmensa misericordia y por tu nombre"
        ]
       ],
@@ -358,6 +376,15 @@
       "k": "p",
       "lines": [
        [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Mi hai liberato, secondo la grandezza della tua misericordia."
        ]
       ],
@@ -453,6 +480,15 @@
       "k": "p",
       "lines": [
        [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Livre de Ben Sirac le Sage"
        ]
       ],
@@ -478,6 +514,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [

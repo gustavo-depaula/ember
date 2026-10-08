@@ -107,7 +107,7 @@
       "k": "p",
       "lines": [
        [
-        "Ano impar"
+        "Ano ímpar"
        ]
       ]
      }
@@ -283,7 +283,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Zechariah"
+        "A reading from the Book of the Prophet Zechariah"
        ]
       ],
       "cite": "8:20-23",
@@ -635,7 +635,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 86, 1-3. 4-5. 6-7 (: Zac 8, 23)",
+      "cite": "Ps 86, 1-3. 4-5. 6-7 (R.: Zac 8, 23)",
       "role": "title"
      }
     ],
@@ -647,7 +647,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 86 (87), 1-3.4-5.6-7 (: Zac 8, 23)",
+      "cite": "Sl 86 (87), 1-3.4-5.6-7 (R.: Zac 8, 23)",
       "role": "title"
      }
     ],
@@ -659,7 +659,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 86, 1-3. 4-5. 6-7 (: Zac 8, 23)",
+      "cite": "Ps 86, 1-3. 4-5. 6-7 (R.: Zac 8, 23)",
       "role": "title"
      }
     ],
@@ -671,7 +671,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 86, 1-3. 4-5. 6-7 (: Zac 8, 23)",
+      "cite": "Sal 86, 1-3. 4-5. 6-7 (R.: Zac 8, 23)",
       "role": "title"
      }
     ],
@@ -695,7 +695,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 86, 1-3. 4-5. 6-7 (: Zac 8, 23)",
+      "cite": "Ps 86, 1-3. 4-5. 6-7 (R.: Zac 8, 23)",
       "role": "title"
      }
     ],
@@ -707,7 +707,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 87 (86), 2-3. 4. 5 u. 7 (R: vgl. Sach 8, 23)",
+      "cite": "Ps 87 (86), 2-3. 4. 5 u. 7 (R.: vgl. Sach 8, 23)",
       "role": "title"
      }
     ]
@@ -1103,7 +1103,7 @@
         "\"Lembro o Egito e Babilônia entre os meus veneradores."
        ],
        [
-        "Na Filistéia ou em Tiro ou no país da Etiópia,"
+        "Na Filisteia ou em Tiro ou no país da Etiópia,"
        ],
        [
         "este ou aquele ali nasceu."
@@ -2443,7 +2443,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 87, 2-3. 4-5. 6. 7-8 (: 3a)",
+      "cite": "Ps 87, 2-3. 4-5. 6. 7-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2455,7 +2455,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 87 (88), 2-3.4-5.6.7-8 (: 3a)",
+      "cite": "Sl 87 (88), 2-3.4-5.6.7-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2467,7 +2467,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 87, 2-3. 4-5. 6. 7-8 (: 3a)",
+      "cite": "Ps 87, 2-3. 4-5. 6. 7-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2479,7 +2479,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 87, 2-3. 4-5. 6. 7-8 (: 3a)",
+      "cite": "Sal 87, 2-3. 4-5. 6. 7-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2503,7 +2503,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 87, 2-3. 4-5. 6. 7-8 (: 3a)",
+      "cite": "Ps 87, 2-3. 4-5. 6. 7-8 (R.: 3a)",
       "role": "title"
      }
     ],
@@ -2515,7 +2515,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 88 (87), 2-3. 4-5. 6. 7-8 (R: 3a)",
+      "cite": "Ps 88 (87), 2-3. 4-5. 6. 7-8 (R.: 3a)",
       "role": "title"
      }
     ]
@@ -4360,7 +4360,7 @@
  "title": {
   "la": "Tempus «per annum» — Feria III hebd. XXVI",
   "pt-BR": "Terça-feira da 26ª Semana do Tempo Comum",
-  "en-US": "Ordinary Time — 26th Week: Tuesday",
+  "en-US": "Tuesday of the Twenty-Sixth Week in Ordinary Time",
   "es": "Tiempo ordinario — Martes 26ª semana",
   "it": "MARTEDI della XXVI settimana del Tempo Ordinario",
   "fr": "Temps ordinaire — Mardi de la 26e semaine",

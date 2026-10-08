@@ -238,6 +238,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Como o pastor toma conta do rebanho, asim vou cuidar de minhas ovelhas."
        ]
       ],
@@ -276,7 +285,16 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the Book of Prophet Ezekiel"
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of the Prophet Ezekiel"
        ]
       ],
       "cite": "34:11-16",
@@ -301,6 +319,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -490,7 +517,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -565,7 +597,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -653,6 +690,15 @@
       "k": "p",
       "lines": [
        [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Cuidai de vós mesmos e de todo o rebanho, sobre o qual o Espírito Santo vos colocou como guardas, para pastorear a Igreja de Deus."
        ]
       ],
@@ -662,7 +708,7 @@
       "k": "p",
       "lines": [
        [
-        "Leitura dos Actos dos Apóstolos"
+        "Leitura dos Atos dos Apóstolos"
        ]
       ],
       "cite": "20, 17-18.28-32.36",
@@ -672,7 +718,7 @@
       "k": "p",
       "lines": [
        [
-        "Naqueles dias, de Mileto Paulo, mandou um recado a Éfeso, convocando os anciãos da Igreja. Quando os anciãos chegaram, Paulo disse-lhes: \"Cuidai de vós mesmos e de todo o rebanho, sobre o qual o Espírito Santo vos colocou como guardas, para pastorear a Igreja de Deus, que Ele adquiriu com o sangue do seu próprio Filho. Eu sei, depois que eu for embora, aparecerão entre vós lobos ferozes que não pouparão o rebanho. Além disso, do vosso proprio meio aparcerão homens com doutrinas perversasque arrastarão discipulos atrás de si. Por isso, estai sempre atentos: lembrai-vos que durante três anos, dia e noite, com lágrimas não parei de exortar a cada um em particular. Agora entrego-vos a Deus e à mensagem da sua graça, que tem o poder para edificar e dar a herança a todos os que foram santificados\". Tendo dito isto, Paulo ajoelhou-se e rezou com todos eles."
+        "Naqueles dias, de Mileto Paulo, mandou um recado a Éfeso, convocando os anciãos da Igreja. Quando os anciãos chegaram, Paulo disse-lhes: \"Cuidai de vós mesmos e de todo o rebanho, sobre o qual o Espírito Santo vos colocou como guardas, para pastorear a Igreja de Deus, que Ele adquiriu com o sangue do seu próprio Filho. Eu sei, depois que eu for embora, aparecerão entre vós lobos ferozes que não pouparão o rebanho. Além disso, do vosso proprio meio aparcerão homens com doutrinas perversasque arrastarão discípulos atrás de si. Por isso, estai sempre atentos: lembrai-vos que durante três anos, dia e noite, com lágrimas não parei de exortar a cada um em particular. Agora entrego-vos a Deus e à mensagem da sua graça, que tem o poder para edificar e dar a herança a todos os que foram santificados\". Tendo dito isto, Paulo ajoelhou-se e rezou com todos eles."
        ]
       ]
      },
@@ -680,13 +726,22 @@
       "k": "p",
       "lines": [
        [
-        "Palavra do Senhor"
+        "Palavra do Senhor."
        ]
       ],
       "role": "conclusion"
      }
     ],
     "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -732,6 +787,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -932,7 +996,12 @@
      }
     ]
    },
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -1036,7 +1105,12 @@
     ]
    },
    "role": "people",
-   "part": "firstReading"
+   "part": "firstReading",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "or"
+   }
   },
   {
    "text": {
@@ -1048,14 +1122,18 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 22(23), 1-3. 4. 5. 6 (R.: 1)",
       "role": "title"
      }
@@ -1068,7 +1146,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -1080,7 +1158,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -1104,7 +1182,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (: 1)",
+      "cite": "Ps 22, 1-3a. 3b-4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ],
@@ -1116,7 +1194,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R: 1)",
+      "cite": "Ps 23 (22), 1-3. 4. 5. 6 (R.: 1)",
       "role": "title"
      }
     ]
@@ -1514,7 +1592,7 @@
         "Estais comigo com bastão e com cajado,"
        ],
        [
-        "eles me dão a segurança!."
+        "eles me dão a segurança!"
        ]
       ]
      }
@@ -2197,7 +2275,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2209,7 +2287,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Salmo 109 (110), 1.2.3.4 (: 4bc)",
+      "cite": "Sl 109 (110), 1.2.3.4 (R.: 4bc)",
       "role": "title"
      }
     ],
@@ -2221,7 +2299,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2233,7 +2311,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2257,7 +2335,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 109, 1. 2. 3. 4 (: 4b)",
+      "cite": "Ps 109, 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ],
@@ -2269,7 +2347,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 110 (109), 1. 2. 3. 4 (R: 4b)",
+      "cite": "Ps 110 (109), 1. 2. 3. 4 (R.: 4b)",
       "role": "title"
      }
     ]
@@ -2357,7 +2435,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu es prêtre à jamais selon l'ordre de Melkisédek."
+        "Tu es prêtre à jamais selon l'ordre de Melkisédek."
        ]
       ]
      }
@@ -2582,7 +2660,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu es prêtre à jamais selon l'ordre de Melkisédek."
+        "Tu es prêtre à jamais selon l'ordre de Melkisédek."
        ]
       ]
      }
@@ -2792,7 +2870,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu es prêtre à jamais selon l'ordre de Melkisédek."
+        "Tu es prêtre à jamais selon l'ordre de Melkisédek."
        ]
       ]
      }
@@ -3023,7 +3101,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu es prêtre à jamais selon l'ordre de Melkisédek."
+        "Tu es prêtre à jamais selon l'ordre de Melkisédek."
        ]
       ]
      }
@@ -3233,7 +3311,7 @@
          "m": "rubric",
          "t": "R/. "
         },
-        " Tu es prêtre à jamais selon l'ordre de Melkisédek."
+        "Tu es prêtre à jamais selon l'ordre de Melkisédek."
        ]
       ]
      }
@@ -3261,7 +3339,11 @@
     "la": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
       "cite": "Io 10, 14",
       "role": "title"
      },
@@ -3302,7 +3384,11 @@
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
       "cite": "Jo 10, 14",
       "role": "title"
      },
@@ -3340,7 +3426,11 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
       "cite": "Jn 10:14",
       "role": "title"
      },
@@ -3362,7 +3452,11 @@
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
       "cite": "Jn 10, 14",
       "role": "title"
      },
@@ -3406,7 +3500,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
       "cite": "Io 10, 14",
       "role": "title"
      },
@@ -3453,7 +3551,11 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
       "cite": "Io 10, 14",
       "role": "title"
      },
@@ -3491,7 +3593,11 @@
     "de": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
       "cite": "Joh 10, 14",
       "role": "title"
      },
@@ -3592,7 +3698,7 @@
          "m": "cross",
          "t": "✠"
         },
-        " Peoclamação do Evangelho de Jesus Cristo segundo João"
+        " Proclamação do Evangelho de Jesus Cristo segundo João"
        ]
       ],
       "cite": "10, 11-16",
@@ -3855,7 +3961,7 @@
       "k": "p",
       "lines": [
        [
-        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — ​et lupus rapit eas et dispérgit — ​quia mercennárius est et non pértinet ad eum de óvibus."
+        "Dixit Iesus: «Ego sum pastor bonus; bonus pastor ánimam suam ponit pro óvibus; mercennárius et, qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem et dimíttit oves et fugit — et lupus rapit eas et dispérgit — quia mercennárius est et non pértinet ad eum de óvibus."
        ]
       ]
      },

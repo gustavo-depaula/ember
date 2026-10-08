@@ -67,6 +67,8 @@ The fallback is soft-hyphenated by `apps/app/src/lib/hyphenate.ts`, and `android
 | kerning | `AVATAR` in EB Garamond is 45 % of an em narrower than its advances; a line missed by up to 0.19 em | resolve every pair at build time; a tracked run is measured unkerned, because iOS drops the pair table once `letterSpacing` is set |
 | kerning across a break | the fragment after a hyphenation carries a kern with a glyph the screen never draws beside it | `creditBreakEdges` moves the pair onto Justif's line-start credit `lp` and the hyphen's pair onto the penalty's `rp` |
 | the container's edge | a line that fits at measure but not at draw (pixel-grid rounding) is re-broken at draw; the last line falls outside the view's height and goes blank | `breakWidth` in `apps/app/src/lib/typography/measureFit.ts` reserves one device pixel plus one CSS pixel on every line |
+| the size drawn (Android) | Android sets type in whole device pixels, rounded up (22 at density 2.625 is 57.75 px, drawn at 58), so every glyph is wider than at the size asked for and a full line's last word wraps | `drawnFontSize` in `measureFit.ts`: the breaker prices every advance at the drawn size |
+| ink at a line's edge (Android 15) | the platform measures a line to the edge of its last glyph's outline; the hook of EB Garamond's `f` reaches a tenth of an em past its advance, so every line ending in "of" wrapped | the tables carry each glyph's overhang (`overhang` in `fontMetrics.generated.ts`, from `glyf` bounds), and `reserveEdgeInk` takes it from the line as a negative protrusion credit, only where `measuresInk()` |
 
 The rules behind them: **any flex the breaker is allowed must actually be rendered, or lines silently re-wrap**, and **the breaker's arithmetic must err short of the measure, never past it.**
 
@@ -93,6 +95,10 @@ Justif has no Latin. `apps/app/src/lib/typography/hyphenLaLiturgic.generated.ts`
 ## Known bug: `lang="la"` rewrites Latin orthography
 
 EB Garamond's `locl` substitution for Latin swaps in epigraphic forms (`meum → mevm`, `quoque → qvoqve`) at identical advance widths, so no width check catches it. It is live wherever Latin is language-tagged, including the book reader, which sets `<html lang>` in `blobUrl()`. Fix by suppressing the feature (`font-feature-settings`) or by not tagging Latin with `lang`; the second route needs the hyphenator passed explicitly, since the reader's Justif setup picks it from `lang`.
+
+## Checked on Android
+
+On an API 35 emulator at density 2.625, John 3 in the Bible reader, with the platform's own line report (`onTextLayout`) compared to the model for every paragraph: EB Garamond at three sizes, Cormorant Garamond, Lora, Crimson Pro and Merriweather. Every paragraph came out on the model's lines and inside its container, bar one in Merriweather that the `onTextLayout` loop re-fitted. Before the two Android rows above, about one verse in three wrapped its last word.
 
 ## Unverified
 

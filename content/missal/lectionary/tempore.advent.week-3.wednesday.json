@@ -786,7 +786,7 @@
         "Psalmus Responsorius"
        ]
       ],
-      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (: cf. Is 45, 8)",
+      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (R.: cf. Is 45, 8)",
       "role": "title"
      }
     ],
@@ -798,7 +798,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sl 84 (85), 9ab-10.11-12.13-14 (: cf. Is 45, 8)",
+      "cite": "Sl 84 (85), 9ab-10.11-12.13-14 (R.: cf. Is 45, 8)",
       "role": "title"
      }
     ],
@@ -810,7 +810,7 @@
         "Responsorial Psalm"
        ]
       ],
-      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (: cf. Is 45, 8)",
+      "cite": "Ps 84, 9ab and 10. 11-12. 13-14 (R.: cf. Is 45, 8)",
       "role": "title"
      }
     ],
@@ -822,7 +822,7 @@
         "Salmo Responsorial"
        ]
       ],
-      "cite": "Sal 84, 9ab et 10. 11-12. 13-14 (: cf. Is 45, 8)",
+      "cite": "Sal 84, 9ab et 10. 11-12. 13-14 (R.: cf. Is 45, 8)",
       "role": "title"
      }
     ],
@@ -846,7 +846,7 @@
         "Psaume"
        ]
       ],
-      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (: cf. Is 45, 8)",
+      "cite": "Ps 84, 9ab et 10. 11-12. 13-14 (R.: cf. Is 45, 8)",
       "role": "title"
      }
     ],
@@ -858,7 +858,7 @@
         "Antwortpsalm"
        ]
       ],
-      "cite": "Ps 85 (84), 9-10. 11-12. 13-14 (R: vgl. Jes 45, 8)",
+      "cite": "Ps 85 (84), 9-10. 11-12. 13-14 (R.: vgl. Jes 45, 8)",
       "role": "title"
      }
     ]
@@ -1715,7 +1715,7 @@
       "k": "p",
       "lines": [
        [
-        "Aclamção ao Evangelho"
+        "Aclamação ao Evangelho"
        ]
       ],
       "role": "title"
@@ -2503,8 +2503,8 @@
  ],
  "title": {
   "la": "Tempus Adventus — Hebdomada III — Feria quarta",
-  "pt-BR": "Quarta-feira",
-  "en-US": "Advent Season — 3rd Week: Wednesday",
+  "pt-BR": "Quarta-feira da 3ª Semana do Advento",
+  "en-US": "Wednesday of the Third Week of Advent",
   "es": "Tiempo de Adviento — Miércoles de la III Semana",
   "it": "MERCOLEDI della III settimana di Avvento",
   "fr": "Temps de l'Avent — 3e semaine — Mercredi",

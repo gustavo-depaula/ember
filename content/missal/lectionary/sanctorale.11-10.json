@@ -214,7 +214,7 @@
       "k": "p",
       "lines": [
        [
-        "Primera Lectura"
+        "Primeira Leitura"
        ]
       ],
       "role": "title"
@@ -270,7 +270,7 @@
       "k": "p",
       "lines": [
        [
-        "A reading from the the Book of Sirach"
+        "A reading from the Book of Sirach"
        ]
       ],
       "cite": "39, 6-11",
@@ -674,38 +674,26 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
+        "Psalmus Responsorius"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.doctors.psalm.2"
-  },
-  {
-   "text": {
-    "la": [
-     {
-      "k": "p",
-      "lines": [],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 36(37), 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
@@ -713,15 +701,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
@@ -729,7 +725,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 36 (37)",
       "role": "title"
      }
@@ -737,16 +737,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 36, 3-4. 5-6. 30-31 (: 30a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R: vgl. 30a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R.: vgl. 30a)",
       "role": "title"
      }
     ]
@@ -1581,62 +1589,16 @@
   },
   {
    "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cpaly1"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "acclamation"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        "[Pro papa]"
-       ]
-      ]
-     }
-    ]
-   },
-   "part": "gospel",
-   "from": "common.pastors.gospel.2"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "2"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.pastors.gospel.2"
-  },
-  {
-   "text": {
     "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1666,6 +1628,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Tu és Pedro, e sobre esta pedra construirei a minha Igreja."
        ]
       ],
@@ -1691,6 +1662,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1703,6 +1683,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1732,6 +1721,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Tu sei Pietro, e a te darò le chiavi del regno dei cieli."
        ]
       ],
@@ -1757,6 +1755,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1769,6 +1776,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -2259,7 +2275,7 @@
  "title": {
   "la": "S. Leonis Magni, papæ et Ecclesiæ doctoris",
   "pt-BR": "São Leão Magno, papa e doutor da Igreja",
-  "en-US": "St. Leo the Great, pope and doctor of the Church",
+  "en-US": "Saint Leo the Great, pope and doctor of the Church",
   "es": "San León Magno, papa y doctor de la Iglesia",
   "it": "San Leone Magno, papa e dottore della Chiesa",
   "fr": "Saint Léon le Grand, pape et docteur de l'Église",

@@ -98,57 +98,485 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "link",
-         "t": "→",
-         "to": "readings.cm2l9"
-        }
+        "Lectio prior"
        ]
-      ]
-     }
-    ]
-   },
-   "part": "firstReading"
-  },
-  {
-   "text": {
-    "*": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "3"
-        }
+        "Communicatis Christi passionibus, gaudete."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Petri apóstoli"
+       ]
+      ],
+      "cite": "4, 12-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimi, nolíte mirári in fervóre, qui ad tentatiónem vobis fit, quasi novi áliquid vobis contíngat, sed, quemádmodum communicátis Christi passiónibus, gaudéte, ut et in revelatióne glóriæ eius gaudeátis exsultántes."
        ]
       ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si exprobrámini in nómine Christi, beáti, quóniam Spíritus glóriæ et Dei super vos requiéscit. Nemo enim vestrum patiátur quasi homicída aut fur aut maléficus aut alienórum speculátor; si autem ut christiánus, non erubéscat, gloríficet autem Deum in isto nómine."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quóniam tempus est, ut incípiat iudícium a domo Dei; si autem primum a nobis, qui finis eórum, qui non credunt Dei Evangélio? «Et si iustus vix salvátur, ímpius et peccátor ubi parébit?». Itaque et hi, qui patiúntur secúndum voluntátem Dei, fidéli Creatóri comméndent ánimas suas in benefácto."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegrai-vos por participar dos sofrimentos de Cristo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Pedro"
+       ]
+      ],
+      "cite": "4, 12-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimos, não estraneis o fogo da provação que alastra em vós, como se alguma coisa de estranho vos estivesse acontecendo. Alegrai-vos por participar dos sofrimentos de Cristo, para que possais também exultar de alegria na revelação da sua glória. Se sofreis injurias por causa do nome de Cristo, sois felizes, pois o Espírito da glória, o Espírito de Deus repousa sobre vós. Mas nenhum de vós queira sofrer como assassino, ladrão ou malfeitor, ou por intrometer-se na vida dos outros. Se, porém, alguém sofre como cristão, não se envergonhe. Antes, glorifque a Deus por este nome. Porque chegou o tempo do julgamento que deve começar pela família de Deus. Ora, se ele começa por nós, qual será o fim dos que se recusam a obedecer o evangelho de Deus? Se mal consegue salvar-se o justo, o que será do ímpio e do pecador? Assim, pois, os que sofrem segundo a vontade de Deus entreguem suas vidas ao Criador, que é fiel, e dediquem-se à prática do bem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first letter of St. Peter"
+       ]
+      ],
+      "cite": "4:12-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beloved, do not be surprised that a trial by fire is occurring among you, as if something strange were happening to you. But rejoice to the extent that you share in the sufferings of Christ, so that when his glory is revealed you may also rejoice exultantly. If you are insulted for the name of Christ, blessed are you, for the Spirit of glory and of God rests upon you. But let no one among you be made to suffer as a murderer, a thief, an evildoer, or as an intriguer. But whoever is made to suffer as a Christian should not be ashamed but glorify God because of the name. For it is time for the judgment to begin with the household of God; if it begins with us, how will it end for those who fail to obey the gospel of God? “And if the righteous one is barely saved, where will the godless and the sinner appear?” As a result, those who suffer in accord with God's will hand their souls over to a faithful creator as they do good."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Estad alegres cuando compartís los sufrimientos de Cristo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pedro"
+       ]
+      ],
+      "cite": "4, 12-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Queridos hermanos:"
+       ],
+       [
+        "No os extrañéis del fuego que ha prendido en vosotros y sirve para probaros, como si ocurriera algo extraño."
+       ],
+       [
+        "Al contrario, estad alegres en la medida que compartís los sufrimientos de Cristo, de modo que, cuando se revele su gloria, gocéis de alegría desbordante."
+       ],
+       [
+        "Si os ultrajan por el nombre de Cristo, bienaventurados vosotros, porque el Espíritu de la gloria, que es el Espíritu de Dios, reposa sobre vosotros."
+       ],
+       [
+        "Así pues, que ninguno de vosotros tenga que sufrir por ser asesino, ladrón, malhechor o entrometido, pero si es por ser cristiano, que no se avergüence, sino que dé gloria a Dios por este nombre."
+       ],
+       [
+        "Porque ha llegado el momento de que el juicio empiece por la casa de Dios; pero, si nosotros somos los primeros, ¿cuál será el final de los que desprecian el Evangelio de Dios? Y “si el justo a duras penas se salva, ¿qué será del impío y pecador?”"
+       ],
+       [
+        "Así pues, que los que sufren conforme a la voluntad de Dios, haciendo el bien, pongan también sus vidas en manos del Creador, que es fiel."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nella misura in cui partecipate alle sofferenze di Cristo, rallegratevi."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Pietro apostolo"
+       ]
+      ],
+      "cite": "4, 12-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Carissimi, non meravigliatevi della persecuzione che, come un incendio, è scoppiata in mezzo a voi per mettervi alla prova, come se vi accadesse qualcosa di strano. Ma, nella misura in cui partecipate alle sofferenze di Cristo, rallegratevi perché anche nella rivelazione della sua gloria possiate rallegrarvi ed esultare. Beati voi, se venite insultati per il nome di Cristo, perché lo Spirito della gloria, che è Spirito di Dio, riposa su di voi."
+       ],
+       [
+        "Nessuno di voi abbia a soffrire come omicida o ladro o malfattore o delatore. Ma se uno soffre come cristiano, non ne arrossisca; per questo nome, anzi, dia gloria a Dio."
+       ],
+       [
+        "È questo il momento in cui ha inizio il giudizio a partire dalla casa di Dio; e se incomincia da noi, quale sarà la fine di quelli che non obbediscono al Vangelo di Dio? E se il giusto a stento si salverà, che ne sarà dell'empio e del peccatore? Perciò anche quelli che soffrono secondo il volere di Dio, consegnino la loro vita al Creatore fedele, compiendo il bene."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Pierre Apôtre"
+       ]
+      ],
+      "cite": "4, 12-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimés, ne trouvez pas étrange le brasier allumé parmi vous pour vous mettre à l'épreuve ; ce qui vous arrive n'a rien d'étrange. Dans la mesure où vous communiez aux souffrances du Christ, réjouissez-vous, afin d'être dans la joie et l'allégresse quand sa gloire se révélera. Si l'on vous insulte pour le nom du Christ, heureux êtes-vous, parce que l'Esprit de gloire, l'Esprit de Dieu, repose sur vous. Que personne d'entre vous, en effet, n'ait à souffrir comme meurtrier, voleur, malfaiteur, ou comme agitateur. Mais si c'est comme chrétien, qu'il n'ait pas de honte, et qu'il rende gloire à Dieu pour ce nom-là. Car voici le temps du jugement : il commence par la famille de Dieu. Or, s'il vient d'abord sur nous, quelle sera la fin de ceux qui refusent d'obéir à l'Évangile de Dieu ? Et, si le juste est sauvé à grand-peine, l'impie, le pécheur, où va-t-il se montrer ? Ainsi, ceux qui souffrent en faisant la volonté de Dieu, qu'ils confient leurs âmes au Créateur fidèle, en faisant le bien."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Petrus"
+       ]
+      ],
+      "cite": "4, 12-19",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Liebe Brüder, lasst euch durch die Feuersglut, die zu eurer Prüfung über euch gekommen ist, nicht verwirren, als ob euch etwas Ungewöhnliches zustoße. Statt dessen freut euch, dass ihr Anteil an den Leiden Christi habt; denn so könnt ihr auch bei der Offenbarung seiner Herrlichkeit voll Freude jubeln."
+       ],
+       [
+        "Wenn ihr wegen des Namens Christi beschimpft werdet, seid ihr selig zu preisen; denn der Geist der Herrlichkeit, der Geist Gottes, ruht auf euch. Wenn einer von euch leiden muss, soll es nicht deswegen sein, weil er ein Mörder oder ein Dieb ist, weil er Böses tut oder sich in fremde Angelegenheiten einmischt. Wenn er aber leidet, weil er Christ ist, dann soll er sich nicht schämen, sondern Gott verherrlichen, indem er sich zu diesem Namen bekennt."
+       ],
+       [
+        "Denn jetzt ist die Zeit, in der das Gericht beim Haus Gottes beginnt; wenn es aber bei uns anfängt, wie wird dann das Ende derer sein, die dem Evangelium Gottes nicht gehorchen? Und wenn der Gerechte kaum gerettet wird, wo wird man dann die Frevler und Sünder finden? Darum sollen alle, die nach dem Willen Gottes leiden müssen, Gutes tun und dadurch ihr Leben dem treuen Schöpfer anbefehlen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
      }
     ]
    },
-   "role": "rubric",
-   "part": "psalm",
-   "from": "common.martyrs.psalm.3"
+   "part": "firstReading",
+   "from": "common.martyrs.second-reading.9"
   },
   {
    "text": {
     "la": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (: 7a)",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.martyrs.second-reading.9"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (R.: 7a)",
       "role": "title"
      }
     ],
     "pt-BR": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sl 123(124), 2-3. 4-5. 7b-8 (R.: 7a)",
       "role": "title"
      }
@@ -156,15 +584,23 @@
     "en-US": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (: 7a)",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (R.: 7a)",
       "role": "title"
      }
     ],
     "es": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
       "cite": "Sal 123, 2-3. 4-5. 7b-8 (R.: 7a)",
       "role": "title"
      }
@@ -172,7 +608,11 @@
     "it": [
      {
       "k": "p",
-      "lines": [],
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
       "cite": "Dal Salmo 123 (124)",
       "role": "title"
      }
@@ -180,16 +620,24 @@
     "fr": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (: 7a)",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 123, 2-3. 4-5. 7cd-8 (R.: 7a)",
       "role": "title"
      }
     ],
     "de": [
      {
       "k": "p",
-      "lines": [],
-      "cite": "Ps 124 (123), 2-3. 4-5. 7-8 (R: 7a)",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 124 (123), 2-3. 4-5. 7-8 (R.: 7a)",
       "role": "title"
      }
     ]
@@ -269,7 +717,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -502,7 +950,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -735,7 +1183,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -968,7 +1416,7 @@
        [
         {
          "m": "rubric",
-         "t": "Oppure: "
+         "t": "Oppure:"
         }
        ],
        [
@@ -1009,26 +1457,6 @@
    "role": "people",
    "part": "psalm",
    "from": "common.martyrs.psalm.3"
-  },
-  {
-   "text": {
-    "*": [
-     {
-      "k": "p",
-      "lines": [
-       [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
-       ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "acclamation",
-   "from": "common.martyrs.acclamation.1"
   },
   {
    "text": {
@@ -1242,27 +1670,16 @@
   },
   {
    "text": {
-    "*": [
+    "la": [
      {
       "k": "p",
       "lines": [
        [
-        {
-         "m": "rubric",
-         "t": "6"
-        }
+        "Evangelium"
        ]
-      ]
-     }
-    ]
-   },
-   "role": "rubric",
-   "part": "gospel",
-   "from": "common.martyrs.gospel.6"
-  },
-  {
-   "text": {
-    "la": [
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1292,6 +1709,15 @@
       "k": "p",
       "lines": [
        [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se me perseguiram, também perseguirão a vós."
        ]
       ],
@@ -1317,6 +1743,15 @@
       "k": "p",
       "lines": [
        [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1329,6 +1764,15 @@
      }
     ],
     "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1358,6 +1802,15 @@
       "k": "p",
       "lines": [
        [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         "Se hanno perseguitato me, perseguiteranno anche voi."
        ]
       ],
@@ -1383,6 +1836,15 @@
       "k": "p",
       "lines": [
        [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
         {
          "m": "cross",
          "t": "✠"
@@ -1395,6 +1857,15 @@
      }
     ],
     "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
      {
       "k": "p",
       "lines": [
@@ -1794,6 +2265,20 @@
        ]
       ]
      }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
     ]
    },
    "role": "people",
@@ -1803,7 +2288,7 @@
  ],
  "title": {
   "la": "Ss. Pontiani, papæ, et Hippolyti, presbyteri, martyrum",
-  "pt-BR": "São Ponciano, papa, e Santo Hipólito, presbítero, mártires",
+  "pt-BR": "Santos Ponciano, papa, e Hipólito, presbítero, mártires",
   "en-US": "Ss. Pontian, pope, and Hippolytus, priest, martyrs",
   "es": "San Ponciano, papa, y san Hipólito, presbítero, mártires",
   "it": "Santi Ponziano, papa e Ippolito, sacerdote, martiri",

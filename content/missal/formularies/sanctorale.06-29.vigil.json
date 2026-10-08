@@ -82,7 +82,7 @@
       "k": "p",
       "lines": [
        [
-        "Pedro, escolhido por Cristo como fundamento da sua Igreja, dele recebeu as chaves do Reino dos céus (Mt 1 6,1 3- 1 9); pastor do rebanho santo (Jo 21,15-17), confirma na fé os irmãos (Lc 22,32). Ele e seus sucessores são o sinal visível da unidade e da comunhão na fé e na caridade. Paulo, incorporado ao Colégio Apostólico pelo próprio Cristo no caminho de Damasco (At 9, 1 -16), foi escolhido para anunciar seu Nome aos povos (At 9, 15). É o maior missionário de todos os tempo5, o Apóstolo dos gentios. Com Pedro, fez ressoar a mensagem evangélica no mundo mediterrâneo. Ambos selaram com o martírio em Roma, pelo ano de 67, seu testemunho ao Senhor. A \"Depositio martyrum\" (354) relata sua solenidade no dia 29 de junho."
+        "Pedro, escolhido por Cristo como fundamento da sua Igreja, dele recebeu as chaves do Reino dos céus (Mt 1 6,1 3- 1 9); pastor do rebanho santo (Jo 21,15-17), confirma na fé os irmãos (Lc 22,32). Ele e seus sucessores são o sinal visível da unidade e da comunhão na fé e na caridade. Paulo, incorporado ao Colégio Apostólico pelo próprio Cristo no caminho de Damasco (At 9, 1 -16), foi escolhido para anunciar seu Nome aos povos (At 9, 15). É o maior missionário de todos os tempos, o Apóstolo dos gentios. Com Pedro, fez ressoar a mensagem evangélica no mundo mediterrâneo. Ambos selaram com o martírio em Roma, pelo ano de 67, seu testemunho ao Senhor. A \"Depositio martyrum\" (354) relata sua solenidade no dia 29 de junho."
        ]
       ]
      },
@@ -503,7 +503,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -524,7 +524,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -608,7 +608,7 @@
         },
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -892,7 +892,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -910,7 +910,7 @@
         "Creio",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -975,7 +975,7 @@
         "Credo",
         {
          "m": "rubric",
-         "t": ". "
+         "t": "."
         }
        ]
       ]
@@ -2149,7 +2149,7 @@
        [
         {
          "m": "rubric",
-         "t": "Adhiberi potest formula sollemnis."
+         "t": "Adhiberi potest formula benedictionis sollemnis."
         }
        ]
       ]
@@ -2162,7 +2162,7 @@
        [
         {
          "m": "rubric",
-         "t": "Pode-se usar a fórmula da Solene."
+         "t": "Pode-se usar a fórmula da Bênção Solene."
         }
        ]
       ]
@@ -2175,7 +2175,7 @@
        [
         {
          "m": "rubric",
-         "t": "The Solemn formula may be used."
+         "t": "The formula of Solemn Blessing may be used."
         }
        ]
       ]
@@ -2214,8 +2214,8 @@
  ],
  "title": {
   "la": "SS. PETRI ET PAULI, APOSTOLORUM",
-  "pt-BR": "SANTOS PEDRO E PAULO, APÓSTOLOS",
-  "en-US": "SAINTS PETER AND PAUL, APOSTLES",
+  "pt-BR": "Santos Pedro e Paulo, Apóstolos",
+  "en-US": "Saints Peter and Paul, Apostles",
   "es": "SAN PEDRO Y SAN PABLO, APÓSTOLES",
   "it": "SANTI PIETO E PAOLO, APOSTOLI",
   "fr": "SAINTS PIERRE ET PAUL, APÔTRES",
