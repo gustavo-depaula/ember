@@ -11,7 +11,7 @@ import { bootCorpus } from '~/lib/corpus'
 import { withLocale } from '~/lib/locale'
 
 export function getStaticPaths() {
-  return ['a', 'b', 'c', 'a1', 'a2', 'l1', 'l2', 'l3'].map((d) => ({ params: { d } }))
+  return ['a', 'b', 'c', 'a1', 'a2', 'l1', 'l2', 'l3', 'o1', 'o2', 'o3', 'o4', 'o5'].map((d) => ({ params: { d } }))
 }
 const locale = 'pt-BR'
 await bootCorpus()
@@ -89,6 +89,38 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
           {d === "l3" && <div class="seal"><img src="/proto/icon.png" alt="" /><b>Ember</b></div>}
         </div>}
 
+        {d === "o1" && <div class="og o1" style={`--from:${c.tone.from};--to:${c.tone.to}`}>
+          <div class="panel"><img src="/proto/icon.png" alt="" /></div>
+          <div class="txt">
+            <div class="lab">{c.label}</div>
+            <div class="ttl" style={`font-size:${size(c.name, 136, 110, 90)}px`}>{c.name}</div>
+            <div class="sig">Ember</div>
+          </div>
+        </div>}
+
+        {d === "o3" && <div class="og o3" style={`--from:${c.tone.from};--to:${c.tone.to}`}>
+          <img class="e" src="/proto/icon.png" alt="" />
+          <div class="txt">
+            <div class="lab">Ember · {c.label}</div>
+            <div class="ttl" style={`font-size:${size(c.name, 136, 110, 90)}px`}>{c.name}</div>
+          </div>
+          <div class="stripe" />
+        </div>}
+
+        {(d === "o2" || d === "o4" || d === "o5") && <div class={`og a x ${d}`} style={`--from:${c.tone.from};--to:${c.tone.to}`}>
+          <div class="stamp"><Cover cover={c.cover} id={c.id} title={c.name} locale={locale} /></div>
+          <div class="txt">
+            <div class="lab">{c.label}</div>
+            <div class="ttl" style={`font-size:${size(c.name, 132, 108, 88)}px`}>{c.name}</div>
+          </div>
+          <div class="sig">
+            {d === "o4" && <span class="mono" />}
+            {d === "o5" && <img src="/proto/icon-clear.png" alt="" />}
+            {d === "o2" && <span class="x">✠</span>}
+            <b>Ember</b>
+          </div>
+        </div>}
+
         {(!d || d === "b") && <div class="og b" id={`b-${c.slug}`}>
           <img class="fl" src="/proto/header_flourish_light.png" alt="" />
           <div class="hr"><i /><span>✠</span><i /></div>
@@ -159,6 +191,28 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
   .l3 .seal img { width: 190px; height: 190px; border-radius: 50%; border: 3px solid #e8c97a; outline: 1px solid rgba(232,201,122,.5); outline-offset: 7px; box-shadow: 0 8px 24px rgba(0,0,0,.4); object-fit: cover; }
   .l3 .seal b { font-family: var(--font-heading); font-weight: 400; letter-spacing: .3em; text-transform: uppercase; font-size: 26px; color: #e8c97a; margin-top: 8px; }
   .l3 .stamp { width: 290px !important; }
+
+  .o1 { display: flex; background: linear-gradient(155deg, var(--from), var(--to)); color: #f5efe2; }
+  .o1 .panel { width: 430px; flex: none; background: #f4e7cd; display: flex; align-items: center; justify-content: center; border-right: 5px solid #e8c97a; }
+  .o1 .panel img { width: 430px; height: 430px; }
+  .o1 .txt { flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 18px; padding: 0 64px; position: relative; }
+  .o1 .lab { font-size: 24px; color: #e8c97a; }
+  .o1 .ttl { line-height: 1.02; }
+  .o1 .sig { position: absolute; right: 56px; bottom: 40px; font-family: var(--font-title); font-size: 40px; color: rgba(245,239,226,.8); }
+
+  .o3 { background: #f4e7cd; color: #2c2418; display: flex; align-items: center; }
+  .o3 .e { width: 460px; height: 460px; flex: none; margin-left: 10px; }
+  .o3 .txt { display: flex; flex-direction: column; gap: 18px; padding-right: 64px; }
+  .o3 .lab { font-size: 24px; color: #6b1d2a; }
+  .o3 .ttl { line-height: 1.02; }
+  .o3 .stripe { position: absolute; left: 0; right: 0; bottom: 0; height: 18px; background: linear-gradient(90deg, var(--from), var(--to)); }
+
+  .o2 .sig, .o4 .sig, .o5 .sig { position: absolute; right: 60px; bottom: 40px; display: flex; align-items: center; gap: 14px; z-index: 2; }
+  .o2 .sig b, .o4 .sig b, .o5 .sig b { font-family: var(--font-title); font-weight: 400; font-size: 50px; line-height: 1; color: #f5efe2; }
+  .o2 .sig .x { color: #e8c97a; font-size: 34px; }
+  .o4 .mono { width: 92px; height: 92px; background: #e8c97a; -webkit-mask: url(/proto/icon-mono.png) center / contain no-repeat; mask: url(/proto/icon-mono.png) center / contain no-repeat; mask-mode: luminance; -webkit-mask-mode: luminance; }
+  .o4 .sig, .o5 .sig { gap: 6px; bottom: 30px; }
+  .o5 .sig img { width: 96px; height: 96px; }
 
   /* B — the devocionário title page, as the prayer opens in the app */
   .b { background: #faf6f0; color: #2c2418; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 90px; box-sizing: border-box; text-align: center; }
