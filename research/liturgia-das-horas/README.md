@@ -93,6 +93,8 @@ More slips of the archive's met on the way and put right in `corrections.ts`: th
 
 ## What is still open
 
+What could still be wrong is gathered for the reader in `content/practices/liturgy-of-the-hours/DOUBTS.md`; the detail is here.
+
 - `variants.tsv` (`scripts/loth/variants.py`): 473 places where the archive has one text in two wordings, each with how often it is used and whether the second source has it. 177 have one wording there and not the other; that is a witness, not yet a verdict (it reads "A minha alma engrandece ao Senhor" where the archive has "A minh'alma engrandece o Senhor", which is the printing, not a slip). None of these is corrected yet.
 - On 6 October (Saint Bruno, Ordinary Time) the archive ends the antiphon of the Benedictus "…que em vós há de falar. Aleluia."; the second source has "Aleluia" only in Easter time. Kept as the archive has it.
 
