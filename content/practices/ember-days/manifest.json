@@ -10,8 +10,8 @@
 		"pt-BR": "Quarta, sexta e sábado, quatro vezes ao ano"
 	},
 	"source": {
-		"en-US": "Catechism of St. Pius X, part III, ch. IV, q. 23 (the ends of the Ember fast). The day's collect and Gospel are read from the 1962 Roman Missal as Divinum Officium gives it.",
-		"pt-BR": "Catecismo de São Pio X, parte III, cap. IV, q. 23 (os fins do jejum das Têmporas). A oração e o Evangelho do dia são lidos do Missal Romano de 1962, tal como o Divinum Officium o traz."
+		"en-US": "Catechism of St. Pius X, part III, ch. IV, q. 23 (the ends of the Ember fast). The day's collect, lessons and Gospel are read from the 1962 Roman Missal as Divinum Officium gives it.",
+		"pt-BR": "Catecismo de São Pio X, parte III, cap. IV, q. 23 (os fins do jejum das Têmporas). A oração, as leituras e o Evangelho do dia são lidos do Missal Romano de 1962, tal como o Divinum Officium o traz."
 	},
 	"categories": [
 		"seasonal",
@@ -31,8 +31,8 @@
 		"pt-BR": "*O jejum das Quatro Têmporas foi instituído para consagrar cada estação do ano com a penitência de alguns dias; para pedir a Deus a conservação dos frutos da terra; para agradecer-Lhe os frutos já dados; e para pedir-Lhe que dê à sua Igreja bons ministros, dos quais se faz a ordenação nos sábados das Quatro Têmporas.* (Catecismo de São Pio X, parte III, cap. IV, q. 23.) O Missal Romano de 1962 dá a cada um dos doze dias uma Missa própria. O calendário de 1969 deixou as Têmporas às conferências episcopais, de modo que não têm datas universais na forma mais nova; esta prática guarda, para todos, as datas do missal de 1962."
 	},
 	"howToPray": {
-		"en-US": "On each of the three days, fast as you are able, pray the collect and Gospel of the day's Mass, and pray for the Church's ministers. Keeping all three days of a week, each on its own date, gives that season's holy card; a day missed cannot be made up later.",
-		"pt-BR": "Em cada um dos três dias, jejue como puder, reze a oração e o Evangelho da Missa do dia e reze pelos ministros da Igreja. Guardar os três dias de uma semana, cada um na sua data, dá o santinho daquela estação; um dia perdido não se recupera depois."
+		"en-US": "On each of the three days, fast as you are able, pray the collect and Gospel of the day's Mass (its lessons are there to open), and pray for the Church's ministers. Keeping all three days of a week, each on its own date, gives that season's holy card; a day missed cannot be made up later.",
+		"pt-BR": "Em cada um dos três dias, jejue como puder, reze a oração e o Evangelho da Missa do dia (as suas leituras estão ali para abrir) e reze pelos ministros da Igreja. Guardar os três dias de uma semana, cada um na sua data, dá o santinho daquela estação; um dia perdido não se recupera depois."
 	},
 	"tags": [
 		"ember-days",

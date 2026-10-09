@@ -1,7 +1,7 @@
 // producer/ember-days — what the Ember Days practice can't write down ahead of
 // time: the three dates of the Ember week under way or next to come, and, on
-// an Ember day, the collect and Gospel of that day's Mass, read out of the
-// Divinum Officium missal rather than copied into the practice.
+// an Ember day, the collects, lessons and Gospel of that day's Mass, read out
+// of the Divinum Officium missal rather than copied into the practice.
 
 import { emberWeekOn, nextEmberWeek } from '@ember/liturgical'
 import { format, parseISO } from 'date-fns'
@@ -21,6 +21,7 @@ const wording = {
       september: 'September Ember Days',
     },
     days: ['Ember Wednesday', 'Ember Friday', 'Ember Saturday'],
+    lessons: 'The lessons of the Mass',
   },
   'pt-BR': {
     locale: ptBR,
@@ -32,23 +33,60 @@ const wording = {
       september: 'Têmporas de Setembro',
     },
     days: ['Quarta-feira das Têmporas', 'Sexta-feira das Têmporas', 'Sábado das Têmporas'],
+    lessons: 'As leituras da Missa',
   },
 }
 
-// An Ember Mass reads its extra lessons (five on a Saturday), a second collect
-// and the day's commemorations under the collect's head. The practice prays
-// the first prayer alone: the missal rules off each of those that follow.
-function firstCollectAndGospel(mass: Primitive[]): Primitive[] {
-  const gospel = mass.findIndex((p, i) => i > 0 && p.type === 'heading' && p.size === 'h1')
-  if (gospel === -1) return mass
-  const rule = mass.findIndex((p) => p.type === 'divider')
-  const collect = mass.slice(0, rule === -1 || rule > gospel ? gospel : rule)
-  return [...collect, { type: 'divider' }, ...mass.slice(gospel)]
+const isHead = (p: Primitive) => p.type === 'heading' && p.size === 'h1'
+const isRule = (p: Primitive) => p.type === 'divider'
+
+// The saint of the date is commemorated after the day's own collects: an
+// "Orémus", a rubric naming the saint, the prayer. Those belong to the date,
+// not to the Ember day, so the collects end where the first one begins.
+function withoutCommemorations(collects: Primitive[]): Primitive[] {
+  const named = collects.findIndex(
+    (p) =>
+      p.type === 'rubric' && /^Comm?emora/.test(`${p.text.secondary ?? ''}\n${p.text.primary}`),
+  )
+  if (named === -1) return collects
+  const lastRule = collects.slice(0, named).findLastIndex(isRule)
+  return collects.slice(0, lastRule === -1 ? named : lastRule)
+}
+
+/**
+ * The day's Mass as the practice prays it: the first collect and the Gospel
+ * open, and between them, folded, what the missal reads there — the Ember
+ * lessons with their graduals (five on a Saturday), the second collect, the
+ * Epistle.
+ */
+function prayedFromMass(mass: Primitive[], lessons: string): Primitive[] {
+  const gospel = mass.findLastIndex(isHead)
+  const afterCollects = mass.findIndex((p, i) => i > 0 && isHead(p))
+  if (gospel <= 0) return mass
+  const collects = withoutCommemorations(mass.slice(0, afterCollects))
+  const rule = collects.findIndex(isRule)
+  const first = rule === -1 ? collects : collects.slice(0, rule)
+  const between = [...collects.slice(first.length), ...mass.slice(afterCollects, gospel)]
+  const folded = between.slice(
+    between.findIndex((p) => !isRule(p)),
+    between.findLastIndex((p) => !isRule(p)) + 1,
+  )
+  return [
+    ...first,
+    { type: 'divider' },
+    {
+      type: 'container',
+      behavior: { kind: 'collapsible', title: { primary: lessons }, defaultOpen: false },
+      children: folded,
+    },
+    { type: 'divider' },
+    ...mass.slice(gospel),
+  ]
 }
 
 export const emberDaysSource: ContentSource<Primitive[]> = {
   id: 'producer/ember-days',
-  version: '1',
+  version: '2',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -61,12 +99,14 @@ export const emberDaysSource: ContentSource<Primitive[]> = {
     }
     const today = emberWeekOn(ctx.date)
     if (!today) return [when]
-    const mass = await ctx.sources.fetch(doMassSource, { parts: ['Oratio', 'Evangelium'] })
+    const mass = await ctx.sources.fetch(doMassSource, {
+      parts: ['Oratio', 'Lectio', 'Graduale', 'Evangelium'],
+    })
     return [
       when,
       { type: 'divider' },
       { type: 'heading', size: 'h2', text: { primary: words.days[today.day] } },
-      ...firstCollectAndGospel(mass),
+      ...prayedFromMass(mass, words.lessons),
     ]
   },
 }
