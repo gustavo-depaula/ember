@@ -895,7 +895,7 @@ export default {
       triduum: 'Participar da liturgia de cada dia do Tríduo',
       gaudete: 'Ir à Missa no Domingo Gaudete',
       laetare: 'Ir à Missa no Domingo Laetare',
-      emberDays: 'Guarde os três dias das Têmporas, cada um no seu dia',
+      round: '{{name}}: guarde cada dia na sua data',
       today: '{{date}} · hoje',
       tomorrow: '{{date}} · amanhã',
       inDays_one: '{{date}} · daqui a {{count}} dia',

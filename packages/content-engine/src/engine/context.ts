@@ -4,7 +4,7 @@ import type {
   ReadingReference,
   Transfers,
 } from '@ember/liturgical'
-import { getLiturgicalSeason, nextEmberWeek } from '@ember/liturgical'
+import { getLiturgicalSeason } from '@ember/liturgical'
 import { getDate, getDay } from 'date-fns'
 import type {
   BilingualText,
@@ -85,6 +85,9 @@ export type FlowContext = {
   trackState?: Record<string, { current_index: number }>
   cycleData?: Record<string, CycleData>
   programDay?: number
+  // The round a program the calendar brings round is on, or the next to come
+  // (an Ember season): the host names it, the flow selects on it.
+  round?: string
   templateVars?: Record<string, string | LocalizedText>
   resolvedProse?: ResolvedProse
   // Holds both repeat-iteration arrays (RepeatEntry[]) and DataSource load results (arbitrary objects).
@@ -121,9 +124,8 @@ export function getContextValue(context: FlowContext, key: string): string | und
     }
     case 'liturgicalSeason':
       return getLiturgicalSeason(context.date, context.liturgicalCalendar, context.ofTransfers)
-    // The Ember week under way or next to come, so the days can be read ahead.
-    case 'emberSeason':
-      return nextEmberWeek(context.date).season
+    case 'round':
+      return context.round
     default:
       return undefined
   }

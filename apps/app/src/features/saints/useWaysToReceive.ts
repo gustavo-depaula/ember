@@ -21,7 +21,10 @@ import { holyCardCatalog } from './usePendingHolyCards'
  * calendar loads. The novenas are read from the card's own prayers, which list
  * every practice naming the card as its own.
  */
-export function useWaysToReceive(saint: SaintEntry): Way[] | undefined {
+/** A way to receive a card; a round's names the program whose round it is. */
+export type ReceiveWay = Way & { practice?: string }
+
+export function useWaysToReceive(saint: SaintEntry): ReceiveWay[] | undefined {
   const day = useToday()
   const today = format(day, 'yyyy-MM-dd')
   const holyCards = useHolyCardCatalog()
@@ -40,6 +43,7 @@ export function useWaysToReceive(saint: SaintEntry): Way[] | undefined {
     if (!statics || !holyCards) return undefined
     const novenas: Record<string, string[]> = {}
     const rounds: Record<string, string> = {}
+    const roundPractice: Record<string, string> = {}
     for (const ref of saint.pray.flatMap((s) => s.refs)) {
       const id = bareId(ref)
       const manifest = getManifest(id)
@@ -47,7 +51,9 @@ export function useWaysToReceive(saint: SaintEntry): Way[] | undefined {
       if (manifest?.program && cards.includes(saint.id)) novenas[id] = cards
       // A program dated by a rule names the card each of its rounds gives.
       for (const [round, card] of Object.entries(manifest?.program?.holyCard ?? {})) {
-        if (card === saint.id) rounds[round] = card
+        if (card !== saint.id) continue
+        rounds[round] = card
+        roundPractice[round] = id
       }
     }
     const catalog = holyCardCatalog(holyCards.cards, holyCards.starters, novenas, rounds)
@@ -56,6 +62,8 @@ export function useWaysToReceive(saint: SaintEntry): Way[] | undefined {
       calendar: { statics, regions, transfers },
       acts,
       today,
-    })
+    }).map((way) =>
+      way.door === 'emberDays' ? { ...way, practice: roundPractice[way.ember] } : way,
+    )
   }, [statics, regions, transfers, holyCards, saint, acts, today])
 }

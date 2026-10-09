@@ -889,7 +889,7 @@ export default {
       triduum: 'Go to the liturgy of each day of the Triduum',
       gaudete: 'Go to Mass on Gaudete Sunday',
       laetare: 'Go to Mass on Laetare Sunday',
-      emberDays: 'Keep the three Ember Days, each on its own day',
+      round: '{{name}}: keep each day on its own date',
       today: '{{date}} · today',
       tomorrow: '{{date}} · tomorrow',
       inDays_one: '{{date}} · in {{count}} day',

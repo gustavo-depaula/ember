@@ -11,6 +11,7 @@ import {
   loadPracticeData,
   loadPracticeTracks,
 } from '@/content/resolver'
+import { currentRound } from '@/features/plan-of-life/program'
 import { transfersForJurisdiction } from '@/lib/missal/loaders'
 import { bootCorpus } from './corpus'
 import { jurisdiction, type Locale, withLocale } from './locale'
@@ -111,6 +112,7 @@ export async function renderPractice(
       trackState,
       cycleData,
       programDay: options.programDay,
+      round: manifest.program && currentRound(manifest.program, options.date)?.key,
       selectOverrides: options.pins ?? {},
       templateVars: manifest.vars,
     }

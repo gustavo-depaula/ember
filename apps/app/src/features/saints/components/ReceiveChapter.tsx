@@ -1,5 +1,4 @@
-import type { Copy, EmberSeason, Season, Way } from '@ember/holy-cards'
-import { nextEmberWeek } from '@ember/liturgical'
+import type { Copy, Season, Way } from '@ember/holy-cards'
 import { addDays, differenceInCalendarDays, format, parseISO } from 'date-fns'
 import { useRouter } from 'expo-router'
 import type { TFunction } from 'i18next'
@@ -12,13 +11,14 @@ import { Typography } from '@/components/typography'
 import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
 import { useProgramProgress } from '@/features/plan-of-life/hooks'
-import { traditionalStart } from '@/features/plan-of-life/program'
+import { programRounds, traditionalStart } from '@/features/plan-of-life/program'
 import { practiceHref } from '@/features/practices/practiceHref'
 import { useToday } from '@/hooks/useToday'
 import i18n, { localizeContent } from '@/lib/i18n'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 import { roundDaysKept } from '../acts'
 import { howWon } from '../redeem/envelopeText'
+import type { ReceiveWay } from '../useWaysToReceive'
 
 type Glyph = 'chalice' | 'beads' | 'candles' | 'book'
 
@@ -27,7 +27,7 @@ type Glyph = 'chalice' | 'beads' | 'candles' | 'book'
  * how far along it is. For a held card, how it came first, then the same ways
  * to receive it again.
  */
-export function ReceiveChapter({ ways, copy }: { ways: Way[]; copy: Copy | undefined }) {
+export function ReceiveChapter({ ways, copy }: { ways: ReceiveWay[]; copy: Copy | undefined }) {
   const { t } = useTranslation()
   return (
     <YStack>
@@ -55,7 +55,11 @@ export function ReceiveChapter({ ways, copy }: { ways: Way[]; copy: Copy | undef
       <YStack borderTopWidth={1} borderTopColor="$borderColor">
         {ways.map((way) => {
           if (way.door === 'novena') return <NovenaRow key={way.novena} novena={way.novena} />
-          if (way.door === 'emberDays') return <EmberRow key={way.door} ember={way.ember} />
+          if (way.door === 'emberDays') {
+            return way.practice ? (
+              <RoundRow key={way.door} practice={way.practice} round={way.ember} />
+            ) : null
+          }
           return <WayRow key={way.door} way={way} />
         })}
       </YStack>
@@ -125,14 +129,12 @@ function NovenaRow({ novena }: { novena: string }) {
   )
 }
 
-// The practice that keeps the Ember days.
-const emberPractice = 'ember-days'
-
-/** The season's three Ember days: when they next fall, or how many are kept; a tap opens them. */
-function EmberRow({ ember }: { ember: EmberSeason }) {
+/** A program's round: when its days next fall, or how many are kept; a tap opens it. */
+function RoundRow({ practice, round: key }: { practice: string; round: string }) {
   const { t } = useTranslation()
   const router = useRouter()
   const today = useToday()
+  const todayStr = format(today, 'yyyy-MM-dd')
   const plan = useEventStore(
     useShallow((s) => ({
       slots: s.slots,
@@ -141,13 +143,20 @@ function EmberRow({ ember }: { ember: EmberSeason }) {
       completionsByPractice: s.completionsByPractice,
     })),
   )
-  const week = nextEmberWeek(today, ember)
-  const underWay = week.days[0] <= format(today, 'yyyy-MM-dd')
-  const done = roundDaysKept(plan, emberPractice, week.days)
-  const title = t('saints.receive.emberDays')
+  const manifest = getManifest(practice)
+  const round =
+    manifest?.program &&
+    programRounds(manifest.program, today).find(
+      (r) => r.key === key && (r.days.at(-1) as string) >= todayStr,
+    )
+  if (!manifest || !round) return null
+  const total = round.days.length
+  const underWay = round.days[0] <= todayStr
+  const done = roundDaysKept(plan, manifest.id, round.days)
+  const title = t('saints.receive.round', { name: localizeContent(manifest.name) })
   return (
     <AnimatedPressable
-      onPress={() => router.push(practiceHref(emberPractice))}
+      onPress={() => router.push(practiceHref(practice))}
       accessibilityRole="link"
       accessibilityLabel={title}
     >
@@ -158,13 +167,13 @@ function EmberRow({ ember }: { ember: EmberSeason }) {
           underWay
             ? t('saints.receive.seasonSoFar', {
                 done,
-                total: 3,
-                date: dayAndDistance(week.days[2], today, t),
+                total,
+                date: dayAndDistance(round.days.at(-1) as string, today, t),
               })
-            : t('saints.receive.seasonFrom', { date: dayAndDistance(week.days[0], today, t) })
+            : t('saints.receive.seasonFrom', { date: dayAndDistance(round.days[0], today, t) })
         }
         soon={underWay}
-        progress={underWay ? { total: 3, done } : undefined}
+        progress={underWay ? { total, done } : undefined}
         action={t('saints.page.pray')}
       />
     </AnimatedPressable>
