@@ -2,13 +2,16 @@
   "id": "gregory-nyssa-virginity",
   "cover": "quarter",
   "name": {
-    "en-US": "On Virginity"
+    "en-US": "On Virginity",
+    "pt-BR": "Sobre a Virgindade"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Virginity"
+        "en-US": "On Virginity",
+        "pt-BR": "Sobre a Virgindade"
       }
     }
   ]
