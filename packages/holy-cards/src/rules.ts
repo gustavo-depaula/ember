@@ -1,7 +1,7 @@
 import { celebrationsOn, everyRegion, sanctoralIds } from '@ember/missal'
 import { addDays, ascending, eachDay, isSunday, toDate, yearOf } from './dates'
 import { feastDays, seasonsStartingIn } from './seasons'
-import type { Act, CardId, Catalog, EngineInput, Grant, IsoDate } from './types'
+import type { Act, Calendar, CardId, Catalog, EngineInput, Grant, IsoDate } from './types'
 
 /**
  * A rule reads the input and returns the cards its door gave. Rules are
@@ -46,13 +46,31 @@ export function celebrates(celebration: string | undefined, ref: string): boolea
 }
 
 /**
+ * The celebrations Mass on `date` gives the cards of: the day on the reader's
+ * own calendar, then the saints only another region keeps. A saint the reader's
+ * calendar has is given on the reader's date alone: Spain keeps Faustina on
+ * 8 October, which is not her day anywhere else.
+ */
+export function celebrationsFor(date: IsoDate, calendar: Calendar) {
+  const day = toDate(date)
+  const { statics, regions, transfers } = calendar
+  const own = sanctoralIds(statics, regions)
+  return [
+    ...celebrationsOn(day, statics, { regions, transfers }),
+    ...celebrationsOn(day, statics, { regions: everyRegion }).filter(
+      (c) => c.kind === 'sanctoral' && !own.has(c.id),
+    ),
+  ]
+}
+
+/**
  * Mass gives one of the date's saints — every saint the calendar puts on the
  * date, outranked or not, in order of precedence — or, when none has a card,
  * a liturgical card drawn at redeem.
  */
 export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
   datesOf(acts, 'mass', since).flatMap((date): Grant[] => {
-    const celebrations = celebrationsOn(toDate(date), calendar.statics, { regions: everyRegion })
+    const celebrations = celebrationsFor(date, calendar)
     const saints = celebrations.flatMap((c) =>
       catalog.saints.filter((s) => celebrates(s.celebration, c.id)).map((s) => s.id),
     )

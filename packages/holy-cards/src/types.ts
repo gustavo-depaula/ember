@@ -28,13 +28,16 @@ export type Act = { date: IsoDate } & (
 export type Occurrence = { practice: string; date: IsoDate; kept: boolean }
 
 /**
- * The OF calendar the cards follow: every region's at once, so Mass on a
- * Brazilian saint's day gives that card in the United States too.
+ * The OF calendar the cards follow: the reader's own, and every other region's
+ * for the saints only it keeps, so Mass on a Brazilian saint's day gives that
+ * card in the United States too.
  */
 export type Calendar = {
   statics: MissalCalendar
-  // Where the reader's calendar keeps the Baptism of the Lord, which ends
-  // Christmas Time; absent, the General Calendar's date.
+  // The reader's national calendar; absent, the General Calendar.
+  regions?: string[]
+  // Where the reader's calendar keeps the solemnities that may move to a
+  // Sunday; absent, the General Calendar's dates.
   transfers?: Transfers
 }
 

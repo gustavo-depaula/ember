@@ -93,6 +93,20 @@ describe('Mass', () => {
     expect(g).toMatchObject({ door: 'mass', drawn: true, choice: catalog.liturgical })
   })
 
+  it("keeps a saint to the reader's date where another region moves the day", () => {
+    // Spain keeps Faustina on 8 October; everywhere else she is on the 5th.
+    expect(grants(input(mass('2026-10-05')))[0].choice).toContain('faustina')
+    expect(grants(input(mass('2026-10-08')))[0]).toMatchObject({ drawn: true })
+  })
+
+  it("follows the reader's calendar for a solemnity it moves to the Sunday", () => {
+    // Brazil keeps the Assumption on the Sunday after 15 August.
+    const brazil = { calendar: { statics, regions: ['brazil'] } }
+    const choices = (date: string) => grants(input(mass(date), brazil)).flatMap((g) => g.choice)
+    expect(choices('2026-08-16')).toContain('assumption')
+    expect(choices('2026-08-15')).not.toContain('assumption')
+  })
+
   it('gives one card however many times Mass is marked that day', () => {
     expect(grants(input([...mass('2026-10-04'), ...mass('2026-10-04')]))).toHaveLength(1)
   })

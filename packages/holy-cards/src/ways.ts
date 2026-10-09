@@ -1,6 +1,6 @@
-import { celebrationsOn, everyRegion, sanctoralIds, type Transfers } from '@ember/missal'
-import { addDays, eachDay, isSunday, toDate, yearOf } from './dates'
-import { celebrates } from './rules'
+import { everyRegion, sanctoralIds, type Transfers } from '@ember/missal'
+import { addDays, eachDay, isSunday, yearOf } from './dates'
+import { celebrates, celebrationsFor } from './rules'
 import { feastDays, seasonsStartingIn } from './seasons'
 import type { Act, Calendar, CardId, Catalog, EmberSeason, IsoDate, Season } from './types'
 
@@ -42,9 +42,7 @@ function nextCelebration(
   today: IsoDate,
 ): IsoDate | undefined {
   const on = (date: IsoDate) =>
-    celebrationsOn(toDate(date), calendar.statics, { regions: everyRegion }).some((c) =>
-      celebrates(celebration, c.id),
-    )
+    celebrationsFor(date, calendar).some((c) => celebrates(celebration, c.id))
   // A fixed feast is almost always on its own day; try those before walking the year.
   if (day) {
     const mmdd = `${String(day.month).padStart(2, '0')}-${String(day.day).padStart(2, '0')}`
