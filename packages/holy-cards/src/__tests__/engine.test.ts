@@ -130,6 +130,25 @@ describe('The Divine Office', () => {
     expect(grants(input([office('2026-06-10')]))).toEqual([])
   })
 
+  it('gives the same saint for a day kept with the offering, the rosary and the examen', () => {
+    const [g] = grants(input([{ kind: 'prayedDay', date: '2026-08-11' }]))
+    expect(g.door).toBe('prayedDay')
+    expect(g.choice).toContain('philomena')
+    expect(grants(input([{ kind: 'prayedDay', date: '2026-06-10' }]))).toEqual([])
+  })
+
+  it('gives two saints for a day kept both ways, where the day has two', () => {
+    // 16 October: Gall and Gerard Majella, neither with a Mass.
+    const both = (date: string): Act[] => [office(date), { kind: 'prayedDay', date }]
+    const waiting = pending(both('2026-10-16'), '2026-10-16')
+    expect(waiting.map((g) => g.door).sort()).toEqual(['office', 'prayedDay'])
+    const first = redeem(waiting[0], '2026-10-16', [], 'gall')
+    const [second] = pending(both('2026-10-16'), '2026-10-16', [first])
+    expect(second.choice).toEqual(['gerard_majella'])
+    // 9 October has Louis Bertrand alone: kept both ways, it still gives him once.
+    expect(pending(both('2026-10-09'), '2026-10-09').map((g) => g.door)).toEqual(['office'])
+  })
+
   it("gives a saint of one region's calendar at Mass, not the Office", () => {
     // Frei Galvão has a Mass on Brazil's calendar only, wherever the user is.
     const choices = (act: Act) => grants(input([act])).flatMap((g) => g.choice)

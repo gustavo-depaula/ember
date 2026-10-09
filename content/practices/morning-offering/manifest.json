@@ -1,5 +1,6 @@
 {
 	"id": "morning-offering",
+	"dayPrayer": "offering",
 	"form": "prayer",
 	"icon": "sunrise",
 	"alternativeTo": {

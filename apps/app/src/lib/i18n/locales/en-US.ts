@@ -873,6 +873,12 @@ export default {
       mass: 'Go to Mass on the feast',
       office: 'Pray the Office on the feast',
       officeWhy: 'The feast has no Mass on your calendar, so the Office keeps it.',
+      prayedDay: 'or pray the day: morning, day and night',
+      prayedDayWhen: 'all three on the same day, on the feast',
+      prayedDaySoFar: '{{done}} of {{total}} today · all three on the same day',
+      prayedDayDone: 'all three prayed today',
+      dayPrayer: { offering: 'Offering', rosary: 'Rosary', examen: 'Examen' },
+      dayPrayerWhen: { offering: 'in the morning', rosary: 'during the day', examen: 'at night' },
       drawn: 'Go to Mass on a day whose saints have no card',
       drawnWhen: 'That Mass draws one of the Mass and altar cards',
       novena: 'Pray the {{name}}',
@@ -908,6 +914,7 @@ export default {
       door: {
         mass: 'Received at Mass · {{date}}',
         office: 'Received at the Divine Office · {{date}}',
+        prayedDay: 'Received for a day of prayer · {{date}}',
         starter: 'A first holy card · {{date}}',
         novena: 'A novena prayed · {{date}}',
         other: 'Received · {{date}}',
@@ -916,6 +923,7 @@ export default {
       from: {
         mass: 'Received at Mass',
         office: 'Received at the Divine Office',
+        prayedDay: 'Received for a day of prayer',
         starter: 'A first holy card',
         novena: 'Received in a novena',
         other: 'Received',

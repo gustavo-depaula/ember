@@ -19,7 +19,7 @@ import { getToday, useToday } from '@/hooks/useToday'
 import { loadMissalCalendar } from '@/lib/missal/loaders'
 import { useOfRegions, useOfTransfers } from '@/lib/missal/useOfTransfers'
 
-import { liturgicalActs, novenaActs } from './acts'
+import { liturgicalActs, novenaActs, prayedDayActs } from './acts'
 import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
 
 const sinceKey = 'holy-cards.since'
@@ -119,7 +119,7 @@ export function usePendingHolyCards(): Grant[] | undefined {
   // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
   const novenas = useMemo(() => novenaActs(plan, day), [plan, today])
   const acts = useMemo(
-    () => [...liturgicalActs(completions), ...novenas.acts],
+    () => [...liturgicalActs(completions), ...prayedDayActs(completions), ...novenas.acts],
     [completions, novenas],
   )
   const catalog = useMemo(
