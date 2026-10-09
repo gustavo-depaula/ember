@@ -268,13 +268,15 @@ def build_practices(b: Builder) -> None:
     src = CONTENT / "practices"
     if not src.is_dir():
         return
-    # A form group's primary declares whether praying it is Mass or the Office;
-    # every form inherits it, so the app reads it off any form's catalog entry.
-    group_acts = {}
+    # A form group's primary declares whether praying it is Mass or the Office,
+    # or one of the three prayers of a prayed day; every form inherits it, so
+    # the app reads it off any form's catalog entry.
+    group_acts = {"liturgicalAct": {}, "dayPrayer": {}}
     for m in src.glob("*/manifest.json"):
         data = json.loads(m.read_text(encoding="utf-8"))
-        if "liturgicalAct" in data:
-            group_acts[data["id"]] = data["liturgicalAct"]
+        for key, acts in group_acts.items():
+            if key in data:
+                acts[data["id"]] = data[key]
     for d in sorted(p for p in src.iterdir() if p.is_dir()):
         pid = d.name
         manifest_path = d / "manifest.json"
@@ -432,9 +434,10 @@ def build_practices(b: Builder) -> None:
             if key in manifest_data:
                 catalog_entry[key] = manifest_data[key]
         group = (manifest_data.get("alternativeTo") or {}).get("id")
-        act = manifest_data.get("liturgicalAct") or group_acts.get(group)
-        if act:
-            catalog_entry["liturgicalAct"] = act
+        for key, acts in group_acts.items():
+            act = manifest_data.get(key) or acts.get(group)
+            if act:
+                catalog_entry[key] = act
         b.add_catalog(f"practice/{pid}", catalog_entry)
 
 

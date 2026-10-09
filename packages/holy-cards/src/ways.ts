@@ -10,8 +10,8 @@ import type { Act, Calendar, CardId, Catalog, EmberSeason, IsoDate, Season } fro
  * so a card's page never promises what the rules don't give.
  */
 export type Way =
-  /** Mass (or the Office) on `date`, the next day the card's feast falls. */
-  | { door: 'mass' | 'office'; date: IsoDate }
+  /** Mass (or the Office, or a prayed day) on `date`, the next day the card's feast falls. */
+  | { door: 'mass' | 'office' | 'prayedDay'; date: IsoDate }
   /** Mass on a date whose saints have no card draws one of the liturgical cards. */
   | { door: 'drawn' }
   | { door: 'novena'; novena: string }
@@ -126,7 +126,7 @@ export function waysToReceive(
   const saint = catalog.saints.find((s) => s.id === card)
   if (saint) {
     // As massRule and officeRule: Mass on whatever day the calendar puts the
-    // celebration; the Office on the assigned day when the celebration isn't
+    // celebration; the Office or a prayed day on the assigned day when the celebration isn't
     // in any region's sanctoral (which also never puts it on a date for Mass).
     const sanctoral = sanctoralIds(calendar.statics, everyRegion)
     const inSanctoral = !!saint.celebration && sanctoral.has(saint.celebration)
@@ -137,7 +137,10 @@ export function waysToReceive(
         ? nextCelebration(saint.celebration, saint.day, calendar, today)
         : undefined
     if (massDate) ways.push({ door: 'mass', date: massDate })
-    if (saint.day && !inSanctoral) ways.push({ door: 'office', date: nextDay(saint.day, today) })
+    if (saint.day && !inSanctoral) {
+      const date = nextDay(saint.day, today)
+      ways.push({ door: 'office', date }, { door: 'prayedDay', date })
+    }
   }
   if (catalog.liturgical.includes(card)) ways.push({ door: 'drawn' })
 

@@ -879,6 +879,12 @@ export default {
       mass: 'Ir à Missa na festa',
       office: 'Rezar o Ofício na festa',
       officeWhy: 'Sem Missa no seu calendário, a festa é guardada pelo Ofício.',
+      prayedDay: 'ou rezar o dia: manhã, dia e noite',
+      prayedDayWhen: 'os três no mesmo dia, na festa',
+      prayedDaySoFar: '{{done}} de {{total}} hoje · os três no mesmo dia',
+      prayedDayDone: 'os três rezados hoje',
+      dayPrayer: { offering: 'Oferecimento', rosary: 'Rosário', examen: 'Exame' },
+      dayPrayerWhen: { offering: 'de manhã', rosary: 'ao longo do dia', examen: 'à noite' },
       drawn: 'Ir à Missa num dia cujos santos não têm santinho',
       drawnWhen: 'Essa Missa sorteia um dos santinhos da Missa e do altar',
       novena: 'Rezar a {{name}}',
@@ -914,6 +920,7 @@ export default {
       door: {
         mass: 'Recebido na Missa · {{date}}',
         office: 'Recebido no Ofício Divino · {{date}}',
+        prayedDay: 'Recebido por um dia de oração · {{date}}',
         starter: 'Um primeiro santinho · {{date}}',
         novena: 'Uma novena rezada · {{date}}',
         other: 'Recebido · {{date}}',
@@ -922,6 +929,7 @@ export default {
       from: {
         mass: 'Recebido na Missa',
         office: 'Recebido no Ofício Divino',
+        prayedDay: 'Recebido por um dia de oração',
         starter: 'Um primeiro santinho',
         novena: 'Recebido numa novena',
         other: 'Recebido',

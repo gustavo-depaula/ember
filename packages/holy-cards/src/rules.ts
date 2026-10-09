@@ -82,11 +82,15 @@ export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
 
 /**
  * The Office gives the saints who have no Mass on any region's calendar, each
- * on its assigned day.
+ * on its assigned day; so does a prayed day, the Office of those who don't
+ * pray it. A day kept both ways gives two of the day's saints, where it has two.
  */
 export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
-  const dates = datesOf(acts, 'office', since)
-  if (dates.length === 0) return []
+  const doors = (['office', 'prayedDay'] as const).map(
+    (door) => [door, new Set(datesOf(acts, door, since))] as const,
+  )
+  const dates = new Set(doors.flatMap(([, kept]) => [...kept]))
+  if (dates.size === 0) return []
   const onCalendar = sanctoralIds(calendar.statics, everyRegion)
   const byDay = new Map<string, CardId[]>()
   for (const s of catalog.saints) {
@@ -94,10 +98,20 @@ export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
     const key = `${String(s.day.month).padStart(2, '0')}-${String(s.day.day).padStart(2, '0')}`
     byDay.set(key, [...(byDay.get(key) ?? []), s.id])
   }
-  return dates.flatMap((date): Grant[] => {
+  return [...dates].flatMap((date): Grant[] => {
     const choice = byDay.get(date.slice(5))
     if (!choice) return []
-    return [{ id: `office:${date}`, door: 'office', date, choice, deadline: nextDay(date) }]
+    return doors
+      .filter(([, kept]) => kept.has(date))
+      .slice(0, choice.length)
+      .map(([door]) => ({
+        id: `${door}:${date}`,
+        door,
+        date,
+        choice,
+        group: `office:${date}`,
+        deadline: nextDay(date),
+      }))
   })
 }
 

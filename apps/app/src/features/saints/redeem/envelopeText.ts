@@ -20,7 +20,7 @@ export function envelopeDate(grant: Grant) {
   return localDate(grant.date, 'long')
 }
 
-const namedDoors: readonly string[] = ['mass', 'office', 'starter', 'novena']
+const namedDoors: readonly string[] = ['mass', 'office', 'prayedDay', 'starter', 'novena']
 
 /** How a card was won, for its envelope or a copy's back: "Received at Mass · 4 Oct 2026". */
 export function howWon({ door, date }: { door: Door; date: string }, t: TFunction) {

@@ -82,9 +82,15 @@ export type CatalogEntry = {
   // Praying this practice is Mass or the Office (holy cards); forms carry their
   // group primary's, resolved at build.
   liturgicalAct?: LiturgicalAct
+  // Praying this practice is one of the three prayers of a prayed day (holy
+  // cards); carried to forms as `liturgicalAct` is.
+  dayPrayer?: DayPrayer
 }
 
 export type LiturgicalAct = 'mass' | 'office'
+
+/** The morning offering, the rosary and the examination of conscience: all three prayed on one day give what the Office gives. */
+export type DayPrayer = 'offering' | 'rosary' | 'examen'
 
 export type Catalog = {
   version: 2
@@ -154,6 +160,9 @@ export type PracticeManifest = {
   // Praying this counts as attending Mass or praying the Divine Office (holy
   // cards). Set on a form group's primary; the build gives it to every form.
   liturgicalAct?: LiturgicalAct
+  // Praying this is one of the three prayers of a prayed day (holy cards). Set
+  // on a form group's primary; the build gives it to every form.
+  dayPrayer?: DayPrayer
   // Saint of the Day: the holy cards a new user picks two starters from.
   holyCardStarters?: string[]
   // A novena: the holy card it gives once finished (its saint or feast), or the

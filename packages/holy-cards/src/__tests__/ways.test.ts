@@ -50,8 +50,11 @@ describe('A feast', () => {
     expect(ways('francis_assisi', '2026-10-05')).toEqual([{ door: 'mass', date: '2027-10-04' }])
   })
 
-  it('names the Office on the assigned day for a saint with no Mass on the calendar', () => {
-    expect(ways('philip_benizi', '2026-10-02')).toEqual([{ door: 'office', date: '2027-08-23' }])
+  it('names the Office and a prayed day on the assigned day for a saint with no Mass on the calendar', () => {
+    expect(ways('philip_benizi', '2026-10-02')).toEqual([
+      { door: 'office', date: '2027-08-23' },
+      { door: 'prayedDay', date: '2027-08-23' },
+    ])
   })
 
   it('finds the date of a moveable feast', () => {
@@ -63,10 +66,10 @@ describe('A feast', () => {
     // The page promises these days; each must be one the engine honours.
     const today = '2026-10-02'
     for (const saint of catalog.saints) {
-      const found = ways(saint.id, today).filter((w) => w.door === 'mass' || w.door === 'office')
+      const found = ways(saint.id, today).filter((w) => 'date' in w)
       expect(found.length, saint.id).toBeGreaterThan(0)
       for (const way of found) {
-        if (way.door !== 'mass' && way.door !== 'office') continue
+        if (!('date' in way)) continue
         const given = grants(input([{ kind: way.door, date: way.date }]))
         expect(
           given.some((g) => g.choice.includes(saint.id)),

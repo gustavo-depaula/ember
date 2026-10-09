@@ -2,21 +2,25 @@ import type { Copy, Season, Way } from '@ember/holy-cards'
 import { addDays, differenceInCalendarDays, format, parseISO } from 'date-fns'
 import { useRouter } from 'expo-router'
 import type { TFunction } from 'i18next'
+import { type ReactNode, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import Svg, { Circle, Path } from 'react-native-svg'
 import { useTheme, View, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { Typography } from '@/components/typography'
+import type { DayPrayer } from '@/content/manifestTypes'
 import { getManifest } from '@/content/resolver'
+import { useCompletionRange } from '@/features/plan-of-life/completion'
 import { useProgramProgress } from '@/features/plan-of-life/hooks'
 import { traditionalStart } from '@/features/plan-of-life/program'
 import { practiceHref } from '@/features/practices/practiceHref'
 import { useToday } from '@/hooks/useToday'
 import i18n, { localizeContent } from '@/lib/i18n'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
+import { dayPrayers, dayPrayersByDate } from '../acts'
 import { howWon } from '../redeem/envelopeText'
 
-type Glyph = 'chalice' | 'beads' | 'candles' | 'book'
+type Glyph = 'chalice' | 'beads' | 'candles' | 'book' | 'day'
 
 /**
  * What wins the card, door by door: what to do, when it next comes round, and
@@ -49,13 +53,11 @@ export function ReceiveChapter({ ways, copy }: { ways: Way[]; copy: Copy | undef
         </Typography>
       )}
       <YStack borderTopWidth={1} borderTopColor="$borderColor">
-        {ways.map((way) =>
-          way.door === 'novena' ? (
-            <NovenaRow key={way.novena} novena={way.novena} />
-          ) : (
-            <WayRow key={way.door} way={way} />
-          ),
-        )}
+        {ways.map((way) => {
+          if (way.door === 'novena') return <NovenaRow key={way.novena} novena={way.novena} />
+          if (way.door === 'prayedDay') return <PrayedDayRow key={way.door} date={way.date} />
+          return <WayRow key={way.door} way={way} />
+        })}
       </YStack>
     </YStack>
   )
@@ -123,6 +125,101 @@ function NovenaRow({ novena }: { novena: string }) {
   )
 }
 
+/**
+ * A prayed day, the Office of those who don't pray it: the morning offering,
+ * the rosary and the examination of conscience along the arc of the day, lit
+ * as far as today's are prayed. It only says what is asked and what is done;
+ * the prayers are reached from where they are always prayed.
+ */
+function PrayedDayRow({ date }: { date: string }) {
+  const { t } = useTranslation()
+  const today = format(useToday(), 'yyyy-MM-dd')
+  const completions = useCompletionRange(today, today)
+  const prayed = useMemo(
+    () =>
+      (date === today ? dayPrayersByDate(completions).get(today) : undefined) ??
+      new Set<DayPrayer>(),
+    [completions, date, today],
+  )
+  const when = (() => {
+    if (date !== today) return t('saints.receive.prayedDayWhen')
+    if (prayed.size === dayPrayers.length) return t('saints.receive.prayedDayDone')
+    return t('saints.receive.prayedDaySoFar', { done: prayed.size, total: dayPrayers.length })
+  })()
+  return (
+    <Row glyph="day" title={t('saints.receive.prayedDay')} when={when} soon={date === today}>
+      <DayArc prayed={prayed} />
+    </Row>
+  )
+}
+
+// The day's arc, sunrise to sunset over the horizon, in the drawing's own
+// units; each prayer's place on it, and the stretch of sky lit once it and
+// those before it are prayed.
+const arc = 'M20 70Q140 -20 260 70'
+const stations: Record<DayPrayer, { x: number; y: number; lit: string }> = {
+  offering: { x: 48.8, y: 51, lit: 'M20 70Q34.4 59.2 48.8 51' },
+  rosary: { x: 140, y: 25, lit: 'M20 70Q80 25 140 25' },
+  examen: { x: 231.2, y: 51, lit: arc },
+}
+const stationAlign = { offering: 'flex-start', rosary: 'center', examen: 'flex-end' } as const
+
+function DayArc({ prayed }: { prayed: Set<DayPrayer> }) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const ink = theme.accentHover.val
+  const reached = dayPrayers.filter((_, i) =>
+    dayPrayers.slice(0, i + 1).every((p) => prayed.has(p)),
+  )
+  const lit = reached.at(-1)
+  return (
+    <YStack paddingTop={8}>
+      <Svg
+        viewBox="0 0 280 78"
+        style={{ width: '100%', aspectRatio: 280 / 78 }}
+        accessibilityElementsHidden
+        importantForAccessibility="no-hide-descendants"
+      >
+        <Path
+          d="M8 70h264"
+          stroke={theme.borderColor.val}
+          strokeWidth={1.2}
+          strokeDasharray="2 4"
+        />
+        <Path d={arc} stroke={theme.borderColor.val} strokeWidth={1.2} fill="none" />
+        {lit && <Path d={stations[lit].lit} stroke={ink} strokeWidth={1.6} fill="none" />}
+        {dayPrayers.map((prayer) => (
+          <Circle
+            key={prayer}
+            cx={stations[prayer].x}
+            cy={stations[prayer].y}
+            r={7}
+            stroke={ink}
+            strokeWidth={1.5}
+            fill={prayed.has(prayer) ? ink : theme.background.val}
+          />
+        ))}
+      </Svg>
+      <XStack>
+        {dayPrayers.map((prayer) => (
+          <YStack key={prayer} flex={1} alignItems={stationAlign[prayer]}>
+            <Typography
+              variant="interface"
+              fontSize="$2"
+              color={prayed.has(prayer) ? '$colorSecondary' : undefined}
+            >
+              {t(`saints.receive.dayPrayer.${prayer}`)}
+            </Typography>
+            <Typography variant="annotation">
+              {t(`saints.receive.dayPrayerWhen.${prayer}`)}
+            </Typography>
+          </YStack>
+        ))}
+      </XStack>
+    </YStack>
+  )
+}
+
 function Row({
   glyph,
   title,
@@ -131,6 +228,7 @@ function Row({
   progress,
   soon,
   action,
+  children,
 }: {
   glyph: Glyph
   title: string
@@ -139,6 +237,7 @@ function Row({
   progress?: { total: number; done: number }
   soon?: boolean
   action?: string
+  children?: ReactNode
 }) {
   return (
     <XStack gap="$md" paddingVertical="$md" borderBottomWidth={1} borderBottomColor="$borderColor">
@@ -153,6 +252,7 @@ function Row({
           {when}
         </Typography>
         {progress && <Beads {...progress} />}
+        {children}
         {detail && (
           <Typography variant="annotation" fontStyle="italic" paddingTop={4}>
             {detail}
@@ -243,6 +343,12 @@ function GlyphIcon({ glyph }: { glyph: Glyph }) {
       )}
       {glyph === 'book' && (
         <Path d="M4 6c4-1 7 0 10 2 3-2 6-3 10-2v16c-4-1-7 0-10 2-3-2-6-3-10-2zM14 8v16" {...line} />
+      )}
+      {glyph === 'day' && (
+        <Path
+          d="M3 21h22M8 21a6 6 0 0 1 12 0M14 8v3.5M5.5 12.5l2.4 2.4M22.5 12.5l-2.4 2.4"
+          {...line}
+        />
       )}
       {glyph === 'candles' && (
         <Path

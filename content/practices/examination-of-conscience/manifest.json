@@ -1,5 +1,6 @@
 {
 	"id": "examination-of-conscience",
+	"dayPrayer": "examen",
 	"alternativeTo": {
 		"id": "examination-of-conscience",
 		"label": {

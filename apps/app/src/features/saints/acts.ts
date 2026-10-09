@@ -1,7 +1,7 @@
 import type { Act } from '@ember/holy-cards'
 
 import { canonicalize, getEntry } from '@/content/contentIndex'
-import type { LiturgicalAct, PracticeManifest } from '@/content/manifestTypes'
+import type { DayPrayer, LiturgicalAct, PracticeManifest } from '@/content/manifestTypes'
 import { getManifest } from '@/content/resolver'
 import { type EventStoreState, resolveCompletions } from '@/db/events'
 import type { Completion } from '@/db/schema'
@@ -31,6 +31,38 @@ export function liturgicalActs(
     if (kind) acts.push({ kind, date: c.date })
   }
   return acts
+}
+
+function catalogDayPrayerOf(practiceId: string): DayPrayer | undefined {
+  const id = canonicalize(practiceId, 'practice')
+  return id ? getEntry(id)?.dayPrayer : undefined
+}
+
+export const dayPrayers: readonly DayPrayer[] = ['offering', 'rosary', 'examen']
+
+/**
+ * Which of the day's three prayers — the morning offering, the rosary, the
+ * examination of conscience, in any of their forms — were prayed on each date.
+ * Backfilled days aren't prayers the user marked, so they never count.
+ */
+export function dayPrayersByDate(
+  completions: Iterable<Completion>,
+  prayerOf: (practiceId: string) => DayPrayer | undefined = catalogDayPrayerOf,
+): Map<string, Set<DayPrayer>> {
+  const byDate = new Map<string, Set<DayPrayer>>()
+  for (const c of completions) {
+    if (isBackfill(c)) continue
+    const prayer = prayerOf(prayedIdOf(c))
+    if (prayer) byDate.set(c.date, (byDate.get(c.date) ?? new Set()).add(prayer))
+  }
+  return byDate
+}
+
+/** The days kept with all three: each counts as the Office does. */
+export function prayedDayActs(completions: Iterable<Completion>): Act[] {
+  return [...dayPrayersByDate(completions)]
+    .filter(([, prayed]) => prayed.size === dayPrayers.length)
+    .map(([date]) => ({ kind: 'prayedDay', date }))
 }
 
 type Plan = Pick<EventStoreState, 'slots' | 'cursors' | 'completions' | 'completionsByPractice'>
