@@ -198,6 +198,7 @@ function PracticeReady({
             {completion.showCompleteModal && manifest.program && (
               <ProgramCompleteModal
                 practiceName={practiceName}
+                round={!!manifest.program.days}
                 showRestart={manifest.program.completionBehavior === 'offer-restart'}
                 onRestart={completion.onRestart}
                 onDone={completion.dismissCompleteModal}

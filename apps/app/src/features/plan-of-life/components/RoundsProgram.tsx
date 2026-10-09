@@ -118,8 +118,10 @@ export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
     }
   })
   const begun = days[0] <= todayStr
-  const over = focus === undefined
   const prayed = states.filter((s) => s.isCompleted).length
+  // Done with: every day gone by, or every day kept, the last one today.
+  const whole = prayed === days.length
+  const over = focus === undefined || whole
   const longDate = (date: string) => formatLocalized(parseISO(date), t('program.dayDateFormat'))
   const away = formatDistanceStrict(parseISO(days[0]), today, {
     addSuffix: true,
@@ -162,7 +164,7 @@ export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
         {/* Titles span the page: Android measures a centred italic line a hair
             too narrow when shrink-wrapped and drops its last word. */}
         <YStack alignItems="center" paddingTop="$xl">
-          {over ? (
+          {focus === undefined || whole ? (
             // Every day gone by: kept whole, its card; otherwise only what comes next.
             <>
               <Typography
@@ -174,7 +176,7 @@ export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
               >
                 {roundName(round)}
               </Typography>
-              {prayed === days.length ? (
+              {whole ? (
                 <>
                   <Typography
                     variant="sacred-title"
