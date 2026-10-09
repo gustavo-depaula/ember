@@ -19,7 +19,7 @@ import { getToday, useToday } from '@/hooks/useToday'
 import { loadMissalCalendar } from '@/lib/missal/loaders'
 import { useOfRegions, useOfTransfers } from '@/lib/missal/useOfTransfers'
 
-import { emberActs, liturgicalActs, novenaActs } from './acts'
+import { liturgicalActs, novenaActs, standingActs } from './acts'
 import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
 
 const sinceKey = 'holy-cards.since'
@@ -51,6 +51,8 @@ export function holyCardCatalog(
   cards: HolyCard[],
   starters: string[],
   novenas: Record<string, string[]>,
+  // A standing program's cards by round: the Ember days' four, by season.
+  rounds: Record<string, string> = {},
 ): Catalog {
   const drawn = new Set(cards.map((c) => c.id))
   const ifDrawn = (id: string) => (drawn.has(id) ? id : undefined)
@@ -70,12 +72,7 @@ export function holyCardCatalog(
     triduum: ifDrawn('triduum'),
     gaudete: ifDrawn('gaudete'),
     laetare: ifDrawn('laetare'),
-    emberDays: {
-      advent: ifDrawn('advent_ember_days'),
-      lent: ifDrawn('lent_ember_days'),
-      pentecost: ifDrawn('pentecost_ember_days'),
-      september: ifDrawn('september_ember_days'),
-    },
+    emberDays: Object.fromEntries(Object.entries(rounds).filter(([, card]) => drawn.has(card))),
     // Only the cards drawn so far; a novena naming none of them gives nothing.
     novenas: Object.fromEntries(
       Object.entries(novenas).map(([novena, cards]) => [novena, cards.filter((c) => drawn.has(c))]),
@@ -124,14 +121,16 @@ export function usePendingHolyCards(): Grant[] | undefined {
   // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
   const novenas = useMemo(() => novenaActs(plan, day), [plan, today])
   // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
-  const embers = useMemo(() => emberActs(plan, day), [plan, today])
+  const standing = useMemo(() => standingActs(plan, day), [plan, today])
   const acts = useMemo(
-    () => [...liturgicalActs(completions), ...novenas.acts, ...embers],
-    [completions, novenas, embers],
+    () => [...liturgicalActs(completions), ...novenas.acts, ...standing.acts],
+    [completions, novenas, standing],
   )
   const catalog = useMemo(
-    () => holyCards && holyCardCatalog(holyCards.cards, holyCards.starters, novenas.cards),
-    [holyCards, novenas],
+    () =>
+      holyCards &&
+      holyCardCatalog(holyCards.cards, holyCards.starters, novenas.cards, standing.cards),
+    [holyCards, novenas, standing],
   )
 
   return useMemo(() => {

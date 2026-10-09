@@ -28,7 +28,7 @@ import { getToday, useStableToday, useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
-import { isUnderWay, programDayDates, projectProgramAtDate } from './program'
+import { isUnderWay, programCursor, programDayDates, projectProgramAtDate } from './program'
 import { parseSchedule } from './schedule'
 
 function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
@@ -159,7 +159,7 @@ export function useProgramProgress(
   return useMemo(() => {
     if (!program) return undefined
 
-    const cursor = cursors.get(`program/${practiceId}`) ?? null
+    const cursor = programCursor(program, cursors.get(`program/${practiceId}`), target)
     const slot = [...slots.values()].find((s) => s.practice_id === practiceId)
     if (!slot) return undefined
 
@@ -214,7 +214,8 @@ export function useProgramDayDates(
     return programDayDates({
       program,
       schedule,
-      startedAt: cursors.get(`program/${practiceId}`)?.started_at,
+      // Between a standing program's rounds the days are the next round's.
+      startedAt: programCursor(program, cursors.get(`program/${practiceId}`), today)?.started_at,
       completionDatesAsc: sortedCompletionDates(completionsByPractice.get(practiceId), completions),
       today,
     })
@@ -242,10 +243,13 @@ export function useProgramsUnderWay(slots: SlotState[]): SlotState[] {
       slots.filter((slot) => {
         const program = getManifest(slot.practice_id)?.program
         if (!program) return false
+        const cursor = programCursor(program, cursors.get(`program/${slot.practice_id}`), today)
+        // A standing program rests between its rounds.
+        if (program.standing && !cursor) return false
         return isUnderWay({
           program,
           schedule: parseSchedule(slot.schedule),
-          cursor: cursors.get(`program/${slot.practice_id}`) ?? null,
+          cursor,
           completionDatesAsc: sortedCompletionDates(
             completionsByPractice.get(slot.practice_id),
             completions,
@@ -285,7 +289,7 @@ export function useProgramHidesForDate(dateStr: string): ReadonlySet<string> {
       const program = manifest?.program
       if (!program) continue
 
-      const cursor = cursors.get(`program/${slot.practice_id}`) ?? null
+      const cursor = programCursor(program, cursors.get(`program/${slot.practice_id}`), targetDate)
       const projection = projectProgramAtDate({
         program,
         schedule: parseSchedule(slot.schedule),

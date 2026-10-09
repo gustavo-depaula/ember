@@ -17,7 +17,7 @@ import { practiceHref } from '@/features/practices/practiceHref'
 import { useToday } from '@/hooks/useToday'
 import i18n, { localizeContent } from '@/lib/i18n'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
-import { emberDaysKept } from '../acts'
+import { roundDaysKept } from '../acts'
 import { howWon } from '../redeem/envelopeText'
 
 type Glyph = 'chalice' | 'beads' | 'candles' | 'book'
@@ -143,7 +143,7 @@ function EmberRow({ ember }: { ember: EmberSeason }) {
   )
   const week = nextEmberWeek(today, ember)
   const underWay = week.days[0] <= format(today, 'yyyy-MM-dd')
-  const done = emberDaysKept(plan, week)
+  const done = roundDaysKept(plan, emberPractice, week.days)
   const title = t('saints.receive.emberDays')
   return (
     <AnimatedPressable

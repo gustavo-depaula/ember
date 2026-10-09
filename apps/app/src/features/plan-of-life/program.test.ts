@@ -5,7 +5,9 @@ import {
   computeMissedDays,
   computeProgramProgress,
   computeShouldRestart,
+  currentRound,
   isUnderWay,
+  programCursor,
   programDayDates,
   programFinishedOn,
   projectProgramAtDate,
@@ -797,5 +799,46 @@ describe('traditionalStart', () => {
 
   it('is undefined for a program tied to no date', () => {
     expect(traditionalStart(novena(undefined), date(2027, 1, 1))).toBeUndefined()
+  })
+})
+
+describe('a standing program (the Ember days)', () => {
+  // Advent 2026: Wednesday 16, Friday 18 and Saturday 19 December.
+  const ember: ProgramConfig = {
+    totalDays: 3,
+    days: { type: 'ember-days' },
+    standing: true,
+    progressPolicy: 'continue',
+    completionBehavior: 'keep',
+  }
+  const schedule: Schedule = { type: 'ember-days' }
+  const on = (target: Date, completionDatesAsc: string[]) =>
+    projectProgramAtDate({
+      program: ember,
+      schedule,
+      cursor: programCursor(ember, null, target),
+      completionDatesAsc,
+      realToday: target,
+      targetDate: target,
+    })
+
+  it('rests between rounds and begins each on its own first day', () => {
+    expect(programCursor(ember, null, date(2026, 10, 9))).toBeNull()
+    expect(currentRound(ember, date(2026, 10, 9))).toEqual({
+      key: 'advent',
+      days: ['2026-12-16', '2026-12-18', '2026-12-19'],
+    })
+    expect(programCursor(ember, null, date(2026, 12, 18))).toEqual({ started_at: '2026-12-16' })
+    // A week past its Saturday it still stands, so its end is seen; then Lent's is next.
+    expect(currentRound(ember, date(2026, 12, 26))?.key).toBe('advent')
+    expect(currentRound(ember, date(2026, 12, 27))?.key).toBe('lent')
+  })
+
+  it('offers each day on its date, a missed one staying missed', () => {
+    const friday = on(date(2026, 12, 18), ['2026-12-16'])
+    expect(friday).toMatchObject({ visible: true, programDay: 1, completionCount: 1 })
+    const saturday = on(date(2026, 12, 19), ['2026-12-16'])
+    expect(saturday).toMatchObject({ visible: true, programDay: 2, shouldPromptRestart: false })
+    expect(computeAllDayStates(saturday).map((d) => d.isMissed)).toEqual([false, true, false])
   })
 })

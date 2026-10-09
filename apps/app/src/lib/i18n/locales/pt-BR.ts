@@ -463,7 +463,7 @@ export default {
       ideal: 'o que se busca num dia comum',
       extra: 'quando há tempo e disposição',
     },
-    kind: { week: 'Semana', month: 'Mês', holy: 'Dias santos', ember: 'Têmporas' },
+    kind: { week: 'Semana', month: 'Mês', holy: 'Dias santos' },
     ordinal: { 1: '1', 2: '2', 3: '3', 4: '4', last: 'últ.' },
     tapToChange: 'toque para mudar a hora',
     newTime: 'Outro horário',
@@ -1250,6 +1250,8 @@ export default {
   },
 
   program: {
+    keptWhole: 'Guardadas por inteiro',
+    nextRound: 'A seguir: {{name}} · {{date}}',
     dayOf: 'Dia {{day}} de {{total}}',
     begin: 'Iniciar Programa',
     beginWith: 'Iniciar em {{date}}',

@@ -86,7 +86,7 @@ function prayedFromMass(mass: Primitive[], lessons: string): Primitive[] {
 
 export const emberDaysSource: ContentSource<Primitive[]> = {
   id: 'producer/ember-days',
-  version: '2',
+  version: '3',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -98,6 +98,13 @@ export const emberDaysSource: ContentSource<Primitive[]> = {
       text: { primary: `${words.weeks[week.season]}: ${dates.join('; ')}.` },
     }
     const today = emberWeekOn(ctx.date)
+    // The collect's own words alone, for the line the program's page shows:
+    // after the "Orémus", before the conclusion.
+    if (ctx.params.only === 'collect') {
+      if (!today) return []
+      const collect = await ctx.sources.fetch(doMassSource, { parts: ['Oratio'] })
+      return collect.filter((p) => p.type === 'text').slice(1, 2)
+    }
     if (!today) return [when]
     const mass = await ctx.sources.fetch(doMassSource, {
       parts: ['Oratio', 'Lectio', 'Graduale', 'Evangelium'],

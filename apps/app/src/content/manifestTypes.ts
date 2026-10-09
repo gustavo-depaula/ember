@@ -132,6 +132,21 @@ export type ProgramConfig = {
    * day counts back from it.
    */
   ends?: string | { anchor: LiturgicalAnchor; offset: number }
+  /**
+   * The calendar rule that dates the days of a program the calendar brings
+   * round (the Ember days): each round is `totalDays` long and has a key.
+   */
+  days?: { type: 'ember-days' }
+  /**
+   * Joined once and never begun, restarted or ended: each round begins on its
+   * own first day. A day missed stays missed, and the days after it are still
+   * offered.
+   */
+  standing?: boolean
+  /** A standing program's cards, by round: given for a round kept whole. */
+  holyCard?: Record<string, string>
+  /** The line a day shows on the program's page, read from a source on its date. */
+  excerpt?: { ref: string; params?: Record<string, unknown> }
 }
 
 export type PracticeManifest = {

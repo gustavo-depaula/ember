@@ -39,13 +39,18 @@ export function useWaysToReceive(saint: SaintEntry): Way[] | undefined {
   return useMemo(() => {
     if (!statics || !holyCards) return undefined
     const novenas: Record<string, string[]> = {}
+    const rounds: Record<string, string> = {}
     for (const ref of saint.pray.flatMap((s) => s.refs)) {
       const id = bareId(ref)
       const manifest = getManifest(id)
       const cards = [manifest?.holyCard ?? []].flat()
       if (manifest?.program && cards.includes(saint.id)) novenas[id] = cards
+      // A standing program names the card each of its rounds gives.
+      for (const [round, card] of Object.entries(manifest?.program?.holyCard ?? {})) {
+        if (card === saint.id) rounds[round] = card
+      }
     }
-    const catalog = holyCardCatalog(holyCards.cards, holyCards.starters, novenas)
+    const catalog = holyCardCatalog(holyCards.cards, holyCards.starters, novenas, rounds)
     return waysToReceive(saint.id, {
       catalog,
       calendar: { statics, regions, transfers },

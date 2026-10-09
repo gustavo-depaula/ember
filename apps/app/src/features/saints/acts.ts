@@ -1,5 +1,5 @@
-import type { Act } from '@ember/holy-cards'
-import { type EmberWeek, emberWeeks, logicalDay } from '@ember/liturgical'
+import type { Act, EmberSeason } from '@ember/holy-cards'
+import { logicalDay } from '@ember/liturgical'
 import { format } from 'date-fns'
 
 import { canonicalize, getEntry } from '@/content/contentIndex'
@@ -8,7 +8,7 @@ import { getManifest } from '@/content/resolver'
 import { type EventStoreState, resolveCompletions } from '@/db/events'
 import type { Completion } from '@/db/schema'
 import { isBackfill, prayedIdOf } from '@/features/plan-of-life/completion'
-import { programFinishedOn } from '@/features/plan-of-life/program'
+import { programFinishedOn, programRounds } from '@/features/plan-of-life/program'
 import { parseSchedule } from '@/features/plan-of-life/schedule'
 
 /** Whether praying `practiceId` is attending Mass or praying the Office. */
@@ -35,7 +35,10 @@ export function liturgicalActs(
   return acts
 }
 
-type Plan = Pick<EventStoreState, 'slots' | 'cursors' | 'completions' | 'completionsByPractice'>
+export type Plan = Pick<
+  EventStoreState,
+  'slots' | 'cursors' | 'completions' | 'completionsByPractice'
+>
 
 /**
  * The novenas in the plan finished well enough to give the card each names,
@@ -56,7 +59,7 @@ export function novenaActs(
     if (seen.has(practiceId)) continue
     seen.add(practiceId)
     const manifest = manifestOf(practiceId)
-    if (!manifest?.program || !manifest.holyCard) continue
+    if (!manifest?.program || manifest.program.standing || !manifest.holyCard) continue
     const prayed = resolveCompletions(plan.completionsByPractice.get(practiceId), plan.completions)
       .filter((c) => !isBackfill(c))
       .map((c) => c.date)
@@ -74,40 +77,52 @@ export function novenaActs(
   return { acts, cards }
 }
 
-/** The practices the plan keeps on the Ember days. */
-function emberPractices(plan: Plan): string[] {
-  const ids = new Set<string>()
-  for (const slot of plan.slots.values()) {
-    if (parseSchedule(slot.schedule).type === 'ember-days') ids.add(slot.practice_id)
-  }
-  return [...ids]
+/**
+ * The dates a practice was marked on the day itself. A standing program's day
+ * is kept only so: a fast can't be made up, and a day ticked afterwards doesn't
+ * count.
+ */
+export function markedOnTheDay(plan: Plan, practiceId: string): Set<string> {
+  return new Set(
+    resolveCompletions(plan.completionsByPractice.get(practiceId), plan.completions)
+      .filter((c) => format(logicalDay(new Date(c.completed_at)), 'yyyy-MM-dd') === c.date)
+      .map((c) => c.date),
+  )
+}
+
+/** How many of a round's days were kept. */
+export function roundDaysKept(plan: Plan, practiceId: string, days: string[]): number {
+  const kept = markedOnTheDay(plan, practiceId)
+  return days.filter((d) => kept.has(d)).length
 }
 
 /**
- * How many of an Ember week's three days were kept, each marked on the day
- * itself: a fast can't be made up, so a day ticked afterwards doesn't count.
+ * The rounds of the plan's standing programs kept whole (the Ember days), each
+ * dated its last day, with the card each round gives. A card unredeemed lapses
+ * within days, so the rounds a standing program lists around today are enough.
  */
-export function emberDaysKept(plan: Plan, week: EmberWeek): number {
-  const counts = emberPractices(plan).map((practiceId) => {
-    const prayed = new Set(
-      resolveCompletions(plan.completionsByPractice.get(practiceId), plan.completions)
-        .filter((c) => format(logicalDay(new Date(c.completed_at)), 'yyyy-MM-dd') === c.date)
-        .map((c) => c.date),
-    )
-    return week.days.filter((d) => prayed.has(d)).length
-  })
-  return Math.max(0, ...counts)
-}
-
-/**
- * The Ember weeks kept whole, dated their Saturday, each giving its season's
- * card. This year's and last year's are enough: a card unredeemed lapses
- * within days.
- */
-export function emberActs(plan: Plan, today: Date): Act[] {
+export function standingActs(
+  plan: Plan,
+  today: Date,
+  manifestOf: (practiceId: string) => PracticeManifest | undefined = getManifest,
+): { acts: Act[]; cards: Record<string, string> } {
   const todayStr = format(today, 'yyyy-MM-dd')
-  const year = today.getFullYear()
-  return [...emberWeeks(year - 1), ...emberWeeks(year)]
-    .filter((week) => week.days[2] <= todayStr && emberDaysKept(plan, week) === 3)
-    .map((week) => ({ kind: 'emberDaysFinished', ember: week.season, date: week.days[2] }))
+  const acts: Act[] = []
+  const cards: Record<string, string> = {}
+  const seen = new Set<string>()
+  for (const slot of plan.slots.values()) {
+    const practiceId = slot.practice_id
+    if (seen.has(practiceId)) continue
+    seen.add(practiceId)
+    const program = manifestOf(practiceId)?.program
+    if (!program?.standing) continue
+    Object.assign(cards, program.holyCard)
+    for (const round of programRounds(program, today)) {
+      const last = round.days.at(-1) as string
+      if (last > todayStr || roundDaysKept(plan, practiceId, round.days) < round.days.length)
+        continue
+      acts.push({ kind: 'emberDaysFinished', ember: round.key as EmberSeason, date: last })
+    }
+  }
+  return { acts, cards }
 }

@@ -43,7 +43,8 @@ export function DayStars({ days }: { days: { state: DayState; date?: string }[] 
       accessibilityElementsHidden
       importantForAccessibility="no-hide-descendants"
     >
-      <XStack justifyContent="space-between">
+      {/* A handful of days (a triduum, the Ember days) gather at the middle. */}
+      <XStack justifyContent={days.length < 5 ? 'space-evenly' : 'space-between'}>
         {days.map(({ state }, k) => {
           const date = parsed[k]
           const glyph = (() => {

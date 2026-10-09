@@ -4,7 +4,7 @@ import type {
   ReadingReference,
   Transfers,
 } from '@ember/liturgical'
-import { emberWeekOn, getLiturgicalSeason, nextEmberWeek } from '@ember/liturgical'
+import { getLiturgicalSeason, nextEmberWeek } from '@ember/liturgical'
 import { getDate, getDay } from 'date-fns'
 import type {
   BilingualText,
@@ -121,11 +121,6 @@ export function getContextValue(context: FlowContext, key: string): string | und
     }
     case 'liturgicalSeason':
       return getLiturgicalSeason(context.date, context.liturgicalCalendar, context.ofTransfers)
-    // Which of the three Ember days this is; nothing on any other day.
-    case 'emberDay': {
-      const week = emberWeekOn(context.date)
-      return week ? (['wednesday', 'friday', 'saturday'] as const)[week.day] : undefined
-    }
     // The Ember week under way or next to come, so the days can be read ahead.
     case 'emberSeason':
       return nextEmberWeek(context.date).season

@@ -159,6 +159,8 @@ function SheetAction({
 /** The other time that holds a weekday. */
 export type TakenBy = { id: string; time?: string }
 
+// 'ember' is a standing program's own days: kept through an edit of its hour,
+// never offered as a kind to choose.
 type Kind = 'week' | 'month' | 'holy' | 'ember'
 type Draft = { kind: Kind; days: number[]; n: number[]; day: number; time: string }
 
@@ -241,10 +243,6 @@ export function WhenSheet({
     draft.kind === 'holy' ||
     draft.kind === 'ember' ||
     (draft.kind === 'week' ? draft.days.length > 0 : draft.n.length > 0)
-  // The Ember days are a practice's own days, not a cadence to give any other:
-  // only a time that already keeps them is offered them back.
-  const kinds: Kind[] =
-    schedule.type === 'ember-days' ? ['week', 'month', 'holy', 'ember'] : ['week', 'month', 'holy']
   const claimed = draft.kind === 'week' ? draft.days.filter((d) => taken?.has(d)) : []
   // An office's hour is kept by weekday; the other kinds don't apply to it.
   const byWeekday = !!taken?.size
@@ -273,8 +271,8 @@ export function WhenSheet({
         <>
           <Hairline />
           {byWeekday ? null : (
-            <XStack justifyContent="center" flexWrap="wrap" gap={6} paddingBottom="$md">
-              {kinds.map((kind) => (
+            <XStack justifyContent="center" gap={6} paddingBottom="$md">
+              {(['week', 'month', 'holy'] as const).map((kind) => (
                 <Stamp
                   key={kind}
                   role="radio"

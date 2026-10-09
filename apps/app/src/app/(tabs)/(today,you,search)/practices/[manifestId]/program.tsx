@@ -21,6 +21,8 @@ import {
   useRestartProgram,
 } from '@/features/plan-of-life'
 import { DayStars, dayWindow, windowSize } from '@/features/plan-of-life/components/DayStars'
+import { DatePill, DayLine, Fleuron, roman } from '@/features/plan-of-life/components/ProgramParts'
+import { StandingProgram } from '@/features/plan-of-life/components/StandingProgram'
 import {
   computeAllDayStates,
   type DayState,
@@ -128,29 +130,6 @@ function openingParagraph(source: string): string | undefined {
   return blocks.map(plain).find((b) => b.length >= 80 && !/^\(.*\)$/.test(b))
 }
 
-function roman(n: number): string {
-  const numerals = [
-    [100, 'C'],
-    [90, 'XC'],
-    [50, 'L'],
-    [40, 'XL'],
-    [10, 'X'],
-    [9, 'IX'],
-    [5, 'V'],
-    [4, 'IV'],
-    [1, 'I'],
-  ] as const
-  let out = ''
-  let rest = n
-  for (const [value, glyph] of numerals) {
-    while (rest >= value) {
-      out += glyph
-      rest -= value
-    }
-  }
-  return out
-}
-
 /**
  * A novena or other program, set like a devocionário page: the name, its days
  * as stars under the date they fall on, today's day opened as a chapter, and
@@ -158,7 +137,14 @@ function roman(n: number): string {
  * it would begin and the bar that joins it, over the contents, each day open
  * to read.
  */
-export default function ProgramDetailScreen() {
+export default function ProgramScreen() {
+  const { manifestId } = useLocalSearchParams<{ manifestId: string }>()
+  const manifest = manifestId ? getManifest(manifestId) : undefined
+  // A program the calendar brings round has no beginning to choose and no end.
+  return manifest?.program?.standing ? <StandingProgram manifest={manifest} /> : <ProgramDetail />
+}
+
+function ProgramDetail() {
   const { t, i18n } = useTranslation()
   const transfers = useOfTransfers()
   const { manifestId, from } = useLocalSearchParams<{ manifestId: string; from?: string }>()
@@ -574,121 +560,5 @@ function StartChoice({
         />
       )}
     </YStack>
-  )
-}
-
-// The day's date where the Rezar bar will be: what the day waits for, not a
-// control.
-function DatePill({ label }: { label: string }) {
-  return (
-    <YStack alignSelf="stretch" paddingHorizontal={30} paddingTop={24}>
-      <YStack
-        height={50}
-        borderRadius={25}
-        borderWidth={1}
-        borderColor="$accentSubtle"
-        alignItems="center"
-        justifyContent="center"
-      >
-        <Typography variant="label" letterSpacing={1.5} color="$accent">
-          {label}
-        </Typography>
-      </YStack>
-    </YStack>
-  )
-}
-
-function Fleuron() {
-  return (
-    <XStack
-      alignItems="center"
-      gap="$md"
-      paddingTop="$xl"
-      paddingBottom="$md"
-      accessibilityElementsHidden
-      importantForAccessibility="no-hide-descendants"
-    >
-      <YStack flex={1} height={0.5} backgroundColor="$accentSubtle" />
-      <Typography color="$accent" fontSize="$3">
-        ❦
-      </Typography>
-      <YStack flex={1} height={0.5} backgroundColor="$accentSubtle" />
-    </XStack>
-  )
-}
-
-// A line of the contents: numeral, the day's name, a dotted leader, and the
-// date it falls on — or the star once it's prayed.
-function DayLine({
-  numeral,
-  name,
-  state,
-  date,
-  a11yState,
-  onPress,
-}: {
-  numeral: string
-  name: string
-  state: DayState
-  date?: string
-  a11yState: string
-  onPress?: () => void
-}) {
-  const { t } = useTranslation()
-  const faded = state.isCompleted || state.isMissed
-  const missedLabel = t('program.missed').toLowerCase()
-  return (
-    <AnimatedPressable
-      onPress={onPress}
-      disabled={!onPress}
-      accessibilityRole="button"
-      accessibilityLabel={`${numeral}, ${name}, ${a11yState}`}
-      accessibilityState={{ disabled: !onPress }}
-      aria-disabled={!onPress}
-    >
-      <XStack alignItems="baseline" gap="$sm" minHeight={36} paddingVertical={4}>
-        <Typography
-          variant="sacred-title"
-          textAlign="left"
-          fontSize="$2"
-          minWidth={40}
-          tone="muted"
-        >
-          {numeral}
-        </Typography>
-        <Typography
-          fontSize="$3"
-          numberOfLines={1}
-          flexShrink={1}
-          tone={faded ? 'muted' : 'default'}
-        >
-          {name}
-        </Typography>
-        <YStack flex={1} overflow="hidden" minWidth={12}>
-          <Typography
-            fontSize="$1"
-            tone="muted"
-            numberOfLines={1}
-            ellipsizeMode="clip"
-            opacity={0.6}
-          >
-            {' ·'.repeat(80)}
-          </Typography>
-        </YStack>
-        {state.isCompleted ? (
-          <Typography color="$accent" fontSize="$2">
-            ✦
-          </Typography>
-        ) : state.isMissed ? (
-          <Typography fontSize="$1" tone="muted" fontStyle="italic">
-            {missedLabel}
-          </Typography>
-        ) : (
-          <Typography fontSize="$1" tone="muted">
-            {date ? formatLocalized(parseISO(date), 'd MMM').replace('.', '') : ''}
-          </Typography>
-        )}
-      </XStack>
-    </AnimatedPressable>
   )
 }

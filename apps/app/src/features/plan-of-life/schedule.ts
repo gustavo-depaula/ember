@@ -1,5 +1,5 @@
 import { emberWeekOn } from '@ember/liturgical'
-import { differenceInCalendarDays, parseISO } from 'date-fns'
+import { addDays, differenceInCalendarDays, parseISO } from 'date-fns'
 
 import type { DayCalendar, LiturgicalSeason } from '@/lib/liturgical'
 
@@ -137,6 +137,15 @@ function getNthWeekdayDateOfMonth(year: number, month: number, n: number, weekda
 }
 
 function generateOccurrences(schedule: Schedule, start: Date, count: number): Date[] {
+  if (schedule.type === 'ember-days') {
+    const days: Date[] = []
+    // A round's days fall within one week of its first.
+    for (let i = 0; days.length < count && i < 7; i++) {
+      const d = addDays(start, i)
+      if (emberWeekOn(d)) days.push(d)
+    }
+    return days
+  }
   if (schedule.type !== 'nth-weekday') return []
 
   const occurrences: Date[] = []

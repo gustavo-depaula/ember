@@ -5,7 +5,7 @@ import { beforeAll, describe, expect, it } from 'vitest'
 import { setCatalog } from '@/content/contentIndex'
 import type { Completion } from '@/db/schema'
 
-import { emberActs, liturgicalActs } from '../acts'
+import { liturgicalActs, standingActs } from '../acts'
 
 // The built corpus catalog (`pnpm build:corpus`): forms get their group's
 // liturgicalAct at build, and that's what the app reads.
@@ -50,7 +50,15 @@ describe('liturgicalActs', () => {
   })
 })
 
-describe('emberActs', () => {
+describe('standingActs', () => {
+  const manifest = JSON.parse(
+    readFileSync(
+      resolve(__dirname, '../../../../../../content/practices/ember-days/manifest.json'),
+      'utf-8',
+    ),
+  )
+  const acts = (p: ReturnType<typeof plan>) => standingActs(p, today, () => manifest).acts
+
   // Advent 2026: Wednesday 16, Friday 18 and Saturday 19 December.
   const plan = (marked: Record<string, string>) => {
     const completions = new Map(
@@ -95,20 +103,16 @@ describe('emberActs', () => {
       '2026-12-18': '2026-12-18',
       '2026-12-19': '2026-12-19',
     })
-    expect(emberActs(kept, today)).toEqual([
-      { kind: 'emberDaysFinished', ember: 'advent', date: '2026-12-19' },
-    ])
+    expect(acts(kept)).toEqual([{ kind: 'emberDaysFinished', ember: 'advent', date: '2026-12-19' }])
   })
 
   it('gives nothing for a week with a day missed, or one ticked the day after', () => {
-    expect(
-      emberActs(plan({ '2026-12-16': '2026-12-16', '2026-12-19': '2026-12-19' }), today),
-    ).toEqual([])
+    expect(acts(plan({ '2026-12-16': '2026-12-16', '2026-12-19': '2026-12-19' }))).toEqual([])
     const late = plan({
       '2026-12-16': '2026-12-16',
       '2026-12-18': '2026-12-19',
       '2026-12-19': '2026-12-19',
     })
-    expect(emberActs(late, today)).toEqual([])
+    expect(acts(late)).toEqual([])
   })
 })

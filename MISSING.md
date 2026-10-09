@@ -13,7 +13,7 @@ app feeding it the acts, and the cards' art.
 | Finishing a saint's book | Rule ready | The app never reports a finished book, and no book names its saint yet. The art already exists (*Story of a Soul* → Thérèse). Open question: what "finished" means for a book — the last chapter read, or every chapter |
 | Mass with no carded saint → a liturgical card | Rule ready, art drawn | The app passes the rules an empty pool (`liturgical: []` in `usePendingHolyCards`): it must list the 53 Mass-part and object cards (`kind` `mass` and `object`) |
 | Season Sunday / weekday cards, Triduum, Gaudete, Laetare | Rules ready, art drawn | The app passes `seasons: {}`: it must say which card is each season's Sunday, weekday, Triduum, Gaudete and Laetare card. Divine Mercy Sunday is also the Easter Sundays card's day, so that day needs a choice |
-| Ember Days kept | Done | — (`practice/ember-days`, on the rule's Ember days; all three days of a week, each marked on its own date) |
+| Ember Days kept | Done | — (`practice/ember-days`, a standing program: a round's three days, each marked on its own date) |
 | Practice lineages (the Rosary → Dominic → …) | Rule ready | The app passes no practice history (`occurrences: []` in `usePendingHolyCards`), and no practice has a lineage. The pairings must be researched from sources, not recalled |
 
 ## Outside the doors

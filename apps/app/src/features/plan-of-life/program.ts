@@ -1,4 +1,4 @@
-import { computeAnchors, type Transfers } from '@ember/liturgical'
+import { computeAnchors, emberWeeks, type Transfers } from '@ember/liturgical'
 import { addDays, differenceInCalendarDays, format, parseISO, startOfDay } from 'date-fns'
 
 import type { ProgramConfig } from '@/content/manifestTypes'
@@ -275,7 +275,11 @@ export function selectEnrollmentSchedule(
   startDate: string,
 ): Schedule {
   if (policy === 'wait') return defaultSchedule
-  if (defaultSchedule.type === 'nth-weekday' || defaultSchedule.type === 'day-of-month')
+  if (
+    defaultSchedule.type === 'nth-weekday' ||
+    defaultSchedule.type === 'day-of-month' ||
+    defaultSchedule.type === 'ember-days'
+  )
     return defaultSchedule
   return { type: 'fixed-program', totalDays, startDate }
 }
@@ -351,6 +355,53 @@ export function programDayDates(args: {
 // A program finished or ended stays under way this long past its last day; a
 // missed day can be prayed late until then.
 export const settledAfterDays = 7
+
+/** One coming-round of a standing program: its key (an Ember season) and its dates. */
+export type Round = { key: string; days: string[] }
+
+function roundsOf(program: ProgramConfig, year: number): Round[] {
+  if (program.days?.type !== 'ember-days') return []
+  return emberWeeks(year).map((week) => ({ key: week.season, days: week.days }))
+}
+
+/** A standing program's rounds from last year to next, in order. */
+export function programRounds(program: ProgramConfig, date: Date): Round[] {
+  const year = date.getFullYear()
+  return [year - 1, year, year + 1].flatMap((y) => roundsOf(program, y))
+}
+
+/**
+ * The round a standing program is on at `date`: begun, and its last day no
+ * more than a week gone, so its end is seen before the next takes its place.
+ */
+export function roundUnderWay(program: ProgramConfig, date: Date): Round | undefined {
+  const day = format(date, 'yyyy-MM-dd')
+  const settled = format(addDays(date, -settledAfterDays), 'yyyy-MM-dd')
+  return programRounds(program, date).find(
+    (r) => r.days[0] <= day && (r.days.at(-1) as string) >= settled,
+  )
+}
+
+/** The round under way at `date`, or else the next to come. */
+export function currentRound(program: ProgramConfig, date: Date): Round | undefined {
+  const day = format(date, 'yyyy-MM-dd')
+  return roundUnderWay(program, date) ?? programRounds(program, date).find((r) => r.days[0] > day)
+}
+
+/**
+ * Where a program's days are counted from. A standing program is never begun,
+ * so it keeps no cursor: the round under way at `date` stands in for one, and
+ * between rounds there is none.
+ */
+export function programCursor(
+  program: ProgramConfig,
+  stored: { started_at: string } | null | undefined,
+  date: Date,
+): { started_at: string } | null {
+  if (!program.standing) return stored ?? null
+  const round = roundUnderWay(program, date)
+  return round ? { started_at: round.days[0] } : null
+}
 
 /**
  * Whether a program still belongs among those under way: running, or finished

@@ -458,7 +458,7 @@ export default {
       ideal: 'what an ordinary day aims for',
       extra: 'when there is time and heart for it',
     },
-    kind: { week: 'Week', month: 'Month', holy: 'Holy days', ember: 'Ember days' },
+    kind: { week: 'Week', month: 'Month', holy: 'Holy days' },
     ordinal: { 1: '1st', 2: '2nd', 3: '3rd', 4: '4th', last: 'last' },
     tapToChange: 'tap to change the time',
     newTime: 'Another time',
@@ -1244,6 +1244,8 @@ export default {
   },
 
   program: {
+    keptWhole: 'Kept whole',
+    nextRound: 'Next: {{name}} · {{date}}',
     dayOf: 'Day {{day}} of {{total}}',
     begin: 'Begin Program',
     beginWith: 'Begin on {{date}}',
