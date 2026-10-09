@@ -1,3 +1,4 @@
+import { emberWeekOn } from '@ember/liturgical'
 import { differenceInCalendarDays, parseISO } from 'date-fns'
 
 import type { DayCalendar, LiturgicalSeason } from '@/lib/liturgical'
@@ -15,6 +16,8 @@ type ScheduleRule =
   | { type: 'fixed-program'; totalDays: number; startDate: string }
   | { type: 'periodic-series'; rule: ScheduleRule; totalOccurrences: number; startDate: string }
   | { type: 'holy-days-of-obligation' }
+  // Wednesday, Friday and Saturday of the four Ember weeks.
+  | { type: 'ember-days' }
 
 export type ScheduleContext = {
   season?: LiturgicalSeason
@@ -86,6 +89,9 @@ export function isApplicableOn(schedule: Schedule, date: Date, ctx?: ScheduleCon
 
     case 'holy-days-of-obligation':
       return ctx?.dayCalendar?.principal?.entry.holyDayOfObligation === true
+
+    case 'ember-days':
+      return emberWeekOn(date) !== undefined
 
     default:
       return false

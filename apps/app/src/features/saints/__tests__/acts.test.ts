@@ -5,7 +5,7 @@ import { beforeAll, describe, expect, it } from 'vitest'
 import { setCatalog } from '@/content/contentIndex'
 import type { Completion } from '@/db/schema'
 
-import { liturgicalActs } from '../acts'
+import { emberActs, liturgicalActs } from '../acts'
 
 // The built corpus catalog (`pnpm build:corpus`): forms get their group's
 // liturgicalAct at build, and that's what the app reads.
@@ -47,5 +47,68 @@ describe('liturgicalActs', () => {
 
   it('ignores backfilled days', () => {
     expect(liturgicalActs([prayed('mass', 'backfill')])).toEqual([])
+  })
+})
+
+describe('emberActs', () => {
+  // Advent 2026: Wednesday 16, Friday 18 and Saturday 19 December.
+  const plan = (marked: Record<string, string>) => {
+    const completions = new Map(
+      Object.entries(marked).map(([date, on], i): [number, Completion] => [
+        i,
+        {
+          id: i,
+          practice_id: 'ember-days',
+          sub_id: 'default',
+          date,
+          completed_at: new Date(`${on}T12:00:00`).getTime(),
+        },
+      ]),
+    )
+    return {
+      slots: new Map([
+        [
+          'slot',
+          {
+            id: 'slot',
+            practice_id: 'ember-days',
+            enabled: 1,
+            sort_order: 0,
+            tier: 'extra' as const,
+            time: null,
+            time_block: 'flexible' as const,
+            notify: null,
+            schedule: '{"type":"ember-days"}',
+          },
+        ],
+      ]),
+      cursors: new Map(),
+      completions,
+      completionsByPractice: new Map([['ember-days', new Set(completions.keys())]]),
+    }
+  }
+  const today = new Date(2026, 11, 20)
+
+  it("gives the season's act once all three days are kept, dated the Saturday", () => {
+    const kept = plan({
+      '2026-12-16': '2026-12-16',
+      '2026-12-18': '2026-12-18',
+      '2026-12-19': '2026-12-19',
+    })
+    expect(emberActs(kept, today)).toEqual([
+      { kind: 'emberDaysFinished', ember: 'advent', date: '2026-12-19' },
+    ])
+  })
+
+  it('gives nothing for a week with a day missed, or one ticked the day after', () => {
+    expect(
+      emberActs(plan({ '2026-12-16': '2026-12-16', '2026-12-19': '2026-12-19' }), today),
+    ).toEqual([])
+    const late = plan({
+      '2026-12-16': '2026-12-16',
+      '2026-12-18': '2026-12-19',
+      '2026-12-19': '2026-12-19',
+    })
+    expect(emberActs(late, today)).toEqual([])
   })
 })

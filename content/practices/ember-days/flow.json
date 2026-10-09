@@ -1,0 +1,143 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "include",
+			"ref": "producer/ember-days"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "select",
+			"on": "emberSeason",
+			"default": "advent",
+			"options": [
+				{
+					"id": "lent",
+					"label": {
+						"en-US": "Lent",
+						"pt-BR": "Quaresma"
+					},
+					"sections": [
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "The Ember Days of Lent fall in its first week, within the season's own fast, and ask God to preserve the fruits of the earth.\n\n*Remember that Your compassion, O Lord, and Your kindness are from of old.* (Introit of Ember Wednesday)",
+								"pt-BR": "As Têmporas da Quaresma caem na sua primeira semana, dentro do jejum próprio do tempo, e pedem a Deus a conservação dos frutos da terra.\n\n*Lembrai-Vos, Senhor, de que a vossa bondade e misericórdia são eternas!* (Intróito da Quarta-feira das Têmporas)"
+							}
+						}
+					]
+				},
+				{
+					"id": "pentecost",
+					"label": {
+						"en-US": "Pentecost",
+						"pt-BR": "Pentecostes"
+					},
+					"sections": [
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "The Ember Days of Pentecost fall within the octave of the feast and are kept in red: a fast in the days of the Holy Spirit.\n\n*The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.* (Introit of Ember Saturday)",
+								"pt-BR": "As Têmporas de Pentecostes caem dentro da oitava da festa e guardam-se de vermelho: um jejum nos dias do Espírito Santo.\n\n*O amor de Deus espalhou-se nos nossos corações, aleluia: pelo seu Espírito que habita em nós, aleluia, aleluia.* (Intróito do Sábado das Têmporas)"
+							}
+						}
+					]
+				},
+				{
+					"id": "september",
+					"label": {
+						"en-US": "September",
+						"pt-BR": "Setembro"
+					},
+					"sections": [
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "The Ember Days of September thank God for the fruits already given.\n\n*Be not sad, for the joy of the Lord is our strength.* (Communion of Ember Wednesday)",
+								"pt-BR": "As Têmporas de Setembro agradecem a Deus os frutos já dados.\n\n*Não vos contristeis; porque a alegria do Senhor é a nossa fortaleza.* (Comunhão da Quarta-feira das Têmporas)"
+							}
+						}
+					]
+				},
+				{
+					"id": "advent",
+					"label": {
+						"en-US": "Advent",
+						"pt-BR": "Advento"
+					},
+					"sections": [
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "The Ember Days of Advent fall in its third week, as the Church waits for the coming of the Lord.\n\n*Drop down dew, you heavens, from above, and let the clouds rain the just.* (Introit of Ember Wednesday)",
+								"pt-BR": "As Têmporas do Advento caem na sua terceira semana, enquanto a Igreja espera a vinda do Senhor.\n\n*Ó céus, derramai dessas alturas o vosso orvalho: e que as nuvens chovam o Justo!* (Intróito da Quarta-feira das Têmporas)"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "The fast",
+				"pt-BR": "O jejum"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "By the discipline of the 1962 missal these are days of fast: one full meal, with meat at that meal only on Wednesday and Saturday, and none on Friday. The Church's present law binds no one to this fast; it is kept freely, and never against health or duty.",
+				"pt-BR": "Pela disciplina do missal de 1962 estes são dias de jejum: uma só refeição completa, com carne apenas nessa refeição na quarta e no sábado, e sem carne na sexta. A lei atual da Igreja não obriga ninguém a este jejum; guarda-se livremente, e nunca contra a saúde ou o dever."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "For good ministers",
+				"pt-BR": "Por bons ministros"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "*The fast of the Ember Days was instituted to consecrate every season of the year by penance on some days; to ask God for the preservation of the fruits of the earth; to thank Him for the fruits already given; and to pray Him to give His Church good ministers, whose ordination is performed on the Saturdays of the Ember Days.*\n\n(Catechism of St. Pius X)",
+				"pt-BR": "*O jejum das Quatro Têmporas foi instituído para consagrar cada estação do ano com a penitência de alguns dias; para pedir a Deus a conservação dos frutos da terra; para agradecer-Lhe os frutos já dados; e para pedir-Lhe que dê à sua Igreja bons ministros, dos quais se faz a ordenação nos sábados das Quatro Têmporas.*\n\n(Catecismo de São Pio X)"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Pray for those God is calling to Holy Orders, and for the pastors of His Church.",
+				"pt-BR": "Reze pelos que Deus chama às Ordens sagradas e pelos pastores da sua Igreja."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

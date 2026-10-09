@@ -154,6 +154,8 @@ function ptDays(schedule: Schedule): string {
     }
     case 'holy-days-of-obligation':
       return 'nos dias santos de guarda'
+    case 'ember-days':
+      return 'nas Têmporas'
     case 'periodic-series':
       return ptDays({ ...schedule.rule, seasons: schedule.seasons } as Schedule)
   }
@@ -264,6 +266,8 @@ function enDays(schedule: Schedule): string {
     }
     case 'holy-days-of-obligation':
       return 'on holy days of obligation'
+    case 'ember-days':
+      return 'on the Ember days'
     case 'periodic-series':
       return enDays({ ...schedule.rule, seasons: schedule.seasons } as Schedule)
   }

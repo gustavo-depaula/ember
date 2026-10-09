@@ -35,6 +35,9 @@ export function cadenceLabel(schedule: Schedule, t: TFunction): string {
     case 'holy-days-of-obligation':
       return t('frequency.holyDays')
 
+    case 'ember-days':
+      return t('frequency.emberDays')
+
     default:
       return t('frequency.daily')
   }

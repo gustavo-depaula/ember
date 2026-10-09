@@ -1,19 +1,23 @@
-import type { Copy, Season, Way } from '@ember/holy-cards'
+import type { Copy, EmberSeason, Season, Way } from '@ember/holy-cards'
+import { nextEmberWeek } from '@ember/liturgical'
 import { addDays, differenceInCalendarDays, format, parseISO } from 'date-fns'
 import { useRouter } from 'expo-router'
 import type { TFunction } from 'i18next'
 import { useTranslation } from 'react-i18next'
 import Svg, { Circle, Path } from 'react-native-svg'
 import { useTheme, View, XStack, YStack } from 'tamagui'
+import { useShallow } from 'zustand/react/shallow'
 import { AnimatedPressable } from '@/components'
 import { Typography } from '@/components/typography'
 import { getManifest } from '@/content/resolver'
+import { useEventStore } from '@/db/events'
 import { useProgramProgress } from '@/features/plan-of-life/hooks'
 import { traditionalStart } from '@/features/plan-of-life/program'
 import { practiceHref } from '@/features/practices/practiceHref'
 import { useToday } from '@/hooks/useToday'
 import i18n, { localizeContent } from '@/lib/i18n'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
+import { emberDaysKept } from '../acts'
 import { howWon } from '../redeem/envelopeText'
 
 type Glyph = 'chalice' | 'beads' | 'candles' | 'book'
@@ -49,19 +53,17 @@ export function ReceiveChapter({ ways, copy }: { ways: Way[]; copy: Copy | undef
         </Typography>
       )}
       <YStack borderTopWidth={1} borderTopColor="$borderColor">
-        {ways.map((way) =>
-          way.door === 'novena' ? (
-            <NovenaRow key={way.novena} novena={way.novena} />
-          ) : (
-            <WayRow key={way.door} way={way} />
-          ),
-        )}
+        {ways.map((way) => {
+          if (way.door === 'novena') return <NovenaRow key={way.novena} novena={way.novena} />
+          if (way.door === 'emberDays') return <EmberRow key={way.door} ember={way.ember} />
+          return <WayRow key={way.door} way={way} />
+        })}
       </YStack>
     </YStack>
   )
 }
 
-function WayRow({ way }: { way: Exclude<Way, { door: 'novena' }> }) {
+function WayRow({ way }: { way: Exclude<Way, { door: 'novena' | 'emberDays' }> }) {
   const { t } = useTranslation()
   const today = useToday()
   const text = describe(way, today, t)
@@ -118,6 +120,52 @@ function NovenaRow({ novena }: { novena: string }) {
             ? t('saints.receive.prayDay', { day: progress.completionCount + 1 })
             : t('saints.page.pray')
         }
+      />
+    </AnimatedPressable>
+  )
+}
+
+// The practice that keeps the Ember days.
+const emberPractice = 'ember-days'
+
+/** The season's three Ember days: when they next fall, or how many are kept; a tap opens them. */
+function EmberRow({ ember }: { ember: EmberSeason }) {
+  const { t } = useTranslation()
+  const router = useRouter()
+  const today = useToday()
+  const plan = useEventStore(
+    useShallow((s) => ({
+      slots: s.slots,
+      cursors: s.cursors,
+      completions: s.completions,
+      completionsByPractice: s.completionsByPractice,
+    })),
+  )
+  const week = nextEmberWeek(today, ember)
+  const underWay = week.days[0] <= format(today, 'yyyy-MM-dd')
+  const done = emberDaysKept(plan, week)
+  const title = t('saints.receive.emberDays')
+  return (
+    <AnimatedPressable
+      onPress={() => router.push(practiceHref(emberPractice))}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+    >
+      <Row
+        glyph="candles"
+        title={title}
+        when={
+          underWay
+            ? t('saints.receive.seasonSoFar', {
+                done,
+                total: 3,
+                date: dayAndDistance(week.days[2], today, t),
+              })
+            : t('saints.receive.seasonFrom', { date: dayAndDistance(week.days[0], today, t) })
+        }
+        soon={underWay}
+        progress={underWay ? { total: 3, done } : undefined}
+        action={t('saints.page.pray')}
       />
     </AnimatedPressable>
   )
@@ -286,7 +334,7 @@ function dayAndDistance(iso: string, today: Date, t: TFunction): string {
 }
 
 function describe(
-  way: Exclude<Way, { door: 'novena' }>,
+  way: Exclude<Way, { door: 'novena' | 'emberDays' }>,
   today: Date,
   t: TFunction,
 ):
@@ -354,7 +402,7 @@ function describe(
         when: dayAndDistance(way.days[0], today, t),
       }
     default:
-      // Ember Days, books and lineages give nothing the app records yet.
+      // Books and lineages give nothing the app records yet.
       return undefined
   }
 }

@@ -18,6 +18,11 @@
     "pray": [
       {
         "refs": [
+          "practice/ember-days"
+        ]
+      },
+      {
+        "refs": [
           "practice/rorate-caeli"
         ]
       }

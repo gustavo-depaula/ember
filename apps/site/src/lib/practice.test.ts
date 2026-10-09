@@ -67,3 +67,21 @@ test('the 1962 Mass and the Breviary assemble from the corpus', async () => {
   expect(text).toContain('Introíbo ad altáre Dei')
   expect(text).toContain('I will go in to the altar of God')
 })
+
+test("the Ember Days read the day's first collect and Gospel from the 1962 missal", async () => {
+  // Ember Saturday of Advent, whose Mass has five lessons before the Gospel.
+  const saturday = await renderPractice('ember-days', 'en-US', {
+    date: new Date(2026, 11, 19),
+    parallelLatin: true,
+  })
+  const text = JSON.stringify(saturday?.primitives)
+  expect(text).toContain('Advent Ember Days: Wednesday, December 16')
+  expect(text).toContain('Deus, qui cónspicis, quia ex nostra pravitáte afflígimur')
+  expect(text).toContain('Sequéntia ++ sancti Evangélii secundum Lucam')
+  expect(text).not.toContain('Léctio Isaíæ Prophétæ')
+
+  const otherDay = await renderPractice('ember-days', 'en-US', { date })
+  const plain = JSON.stringify(otherDay?.primitives)
+  expect(plain).toContain('Advent Ember Days: Wednesday, December 16')
+  expect(plain).not.toContain('Gospel')
+})

@@ -19,7 +19,7 @@ import { getToday, useToday } from '@/hooks/useToday'
 import { loadMissalCalendar } from '@/lib/missal/loaders'
 import { useOfRegions, useOfTransfers } from '@/lib/missal/useOfTransfers'
 
-import { liturgicalActs, novenaActs } from './acts'
+import { emberActs, liturgicalActs, novenaActs } from './acts'
 import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
 
 const sinceKey = 'holy-cards.since'
@@ -70,13 +70,18 @@ export function holyCardCatalog(
     triduum: ifDrawn('triduum'),
     gaudete: ifDrawn('gaudete'),
     laetare: ifDrawn('laetare'),
-    // Nothing in the app yet records keeping the Ember Days, finishing a book or
-    // a practice's lineage, so those doors stay shut.
-    emberDays: {},
+    emberDays: {
+      advent: ifDrawn('advent_ember_days'),
+      lent: ifDrawn('lent_ember_days'),
+      pentecost: ifDrawn('pentecost_ember_days'),
+      september: ifDrawn('september_ember_days'),
+    },
     // Only the cards drawn so far; a novena naming none of them gives nothing.
     novenas: Object.fromEntries(
       Object.entries(novenas).map(([novena, cards]) => [novena, cards.filter((c) => drawn.has(c))]),
     ),
+    // Nothing in the app yet records finishing a book or a practice's lineage,
+    // so those doors stay shut.
     books: {},
     lineages: {},
     starters: starters.filter((id) => drawn.has(id)),
@@ -118,9 +123,11 @@ export function usePendingHolyCards(): Grant[] | undefined {
   // Memoized apart so a completion or a redeem re-runs only the step it changes.
   // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
   const novenas = useMemo(() => novenaActs(plan, day), [plan, today])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
+  const embers = useMemo(() => emberActs(plan, day), [plan, today])
   const acts = useMemo(
-    () => [...liturgicalActs(completions), ...novenas.acts],
-    [completions, novenas],
+    () => [...liturgicalActs(completions), ...novenas.acts, ...embers],
+    [completions, novenas, embers],
   )
   const catalog = useMemo(
     () => holyCards && holyCardCatalog(holyCards.cards, holyCards.starters, novenas.cards),
