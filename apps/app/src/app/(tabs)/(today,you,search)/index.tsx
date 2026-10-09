@@ -26,9 +26,13 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const fidelityWeeks = 10
 
+import { useRollStandingPrograms } from '@/features/plan-of-life'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
+
 export default function HomeScreen() {
   const { t } = useTranslation()
   const plan = useTodayPlan()
+  useRollStandingPrograms(useOfTransfers())
   const { now, anchorDate, season, todaySlots, completedIds, onPressItem } = plan
   const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
   const prayNow = usePrayNow({ slots: todaySlots, completedIds, onPray: onPressItem })

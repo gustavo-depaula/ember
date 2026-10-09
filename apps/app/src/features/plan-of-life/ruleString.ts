@@ -67,6 +67,8 @@ export function slotDaysLabel(slot: SlotState, t: TFunction): string | undefined
       return t('frequency.monthly').toLowerCase()
     case 'holy-days-of-obligation':
       return t('frequency.holyDays').toLowerCase()
+    case 'ember-days':
+      return t('frequency.emberDays').toLowerCase()
     default:
       return t('timeBlock.flexible').toLowerCase()
   }

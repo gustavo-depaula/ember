@@ -7,6 +7,7 @@ import type { Primitive } from '@/content/primitives'
 import { bibleChapterSource } from '@/sources/bible-chapter'
 import { doHourSource } from '@/sources/divinum-officium/do-hour'
 import { doMassSource } from '@/sources/divinum-officium/do-mass'
+import { emberDaysSource } from '@/sources/ember-days'
 import { lothHourSource } from '@/sources/loth/source'
 import { missalMassSource, missalProperSource } from '@/sources/missal-mass'
 import { psalmodySource } from '@/sources/psalmody'
@@ -45,6 +46,7 @@ registerSource(bibleChapterSource)
 registerSource(psalmodySource)
 registerSource(doMassSource as ContentSource)
 registerSource(doHourSource as ContentSource)
+registerSource(emberDaysSource as ContentSource)
 registerSource(missalMassSource as ContentSource)
 registerSource(missalProperSource as ContentSource)
 

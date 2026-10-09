@@ -4,6 +4,7 @@ import { createEngineContext } from '@/content/engineContext'
 import { preprocessFlow } from '@/content/preprocessFlow'
 import type { Primitive } from '@/content/primitives'
 import type { RenderedSection } from '@/content/types'
+import { currentRound } from '@/features/plan-of-life/program'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bibleTranslations'
 import { transfersForJurisdiction } from '@/lib/missal/loaders'
@@ -76,6 +77,7 @@ export function usePracticeContent(
         trackState,
         cycleData,
         programDay,
+        round: manifest?.program && currentRound(manifest.program, now)?.key,
         selectOverrides: pins ?? {},
         templateVars: manifest?.vars,
       }

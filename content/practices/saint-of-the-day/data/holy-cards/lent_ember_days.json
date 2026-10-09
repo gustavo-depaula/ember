@@ -15,6 +15,13 @@
     "pt-BR": "Lembrai-Vos, Senhor, de que a vossa bondade e misericórdia são eternas!"
   },
   "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/ember-days"
+        ]
+      }
+    ],
     "read": [
       {
         "refs": [

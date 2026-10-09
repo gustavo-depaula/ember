@@ -39,11 +39,14 @@ function ModalFadeIn({ index = 0, children }: { index?: number; children: React.
 
 export function ProgramCompleteModal({
   practiceName,
+  round = false,
   showRestart,
   onRestart,
   onDone,
 }: {
   practiceName: string
+  /** A round of a program the calendar brings round: kept, not completed for good. */
+  round?: boolean
   showRestart: boolean
   onRestart: () => void
   onDone: () => void
@@ -75,7 +78,7 @@ export function ProgramCompleteModal({
 
                 <ModalFadeIn index={2}>
                   <Typography variant="sacred-title" fontSize="$4" color="$accent">
-                    {t('program.complete')}
+                    {round ? t('program.keptWhole') : t('program.complete')}
                   </Typography>
                 </ModalFadeIn>
 
@@ -85,7 +88,7 @@ export function ProgramCompleteModal({
 
                 <ModalFadeIn index={4}>
                   <Text fontFamily="$body" fontSize="$3" color="$color" textAlign="center">
-                    {t('program.completeMessage', { name: practiceName })}
+                    {round ? practiceName : t('program.completeMessage', { name: practiceName })}
                   </Text>
                 </ModalFadeIn>
 

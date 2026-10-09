@@ -24,6 +24,13 @@ export type {
   RankOF,
   ResolvedCelebration,
 } from './calendar-types'
+export {
+  type EmberSeason,
+  type EmberWeek,
+  emberWeekOn,
+  emberWeeks,
+  nextEmberWeek,
+} from './ember'
 export { type AbstinenceLevel, type DayObligations, getDayObligations } from './obligations'
 export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from './psalter'
 export { rankColors } from './rank-colors'

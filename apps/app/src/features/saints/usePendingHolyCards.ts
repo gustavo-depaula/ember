@@ -19,7 +19,7 @@ import { getToday, useToday } from '@/hooks/useToday'
 import { loadMissalCalendar } from '@/lib/missal/loaders'
 import { useOfRegions, useOfTransfers } from '@/lib/missal/useOfTransfers'
 
-import { liturgicalActs, novenaActs, prayedDayActs } from './acts'
+import { liturgicalActs, novenaActs, prayedDayActs, roundActs } from './acts'
 import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
 
 const sinceKey = 'holy-cards.since'
@@ -51,6 +51,8 @@ export function holyCardCatalog(
   cards: HolyCard[],
   starters: string[],
   novenas: Record<string, string[]>,
+  // The cards a program dated by a rule gives, by round: the Ember days' four, by season.
+  rounds: Record<string, string> = {},
 ): Catalog {
   const drawn = new Set(cards.map((c) => c.id))
   const ifDrawn = (id: string) => (drawn.has(id) ? id : undefined)
@@ -70,13 +72,13 @@ export function holyCardCatalog(
     triduum: ifDrawn('triduum'),
     gaudete: ifDrawn('gaudete'),
     laetare: ifDrawn('laetare'),
-    // Nothing in the app yet records keeping the Ember Days, finishing a book or
-    // a practice's lineage, so those doors stay shut.
-    emberDays: {},
+    emberDays: Object.fromEntries(Object.entries(rounds).filter(([, card]) => drawn.has(card))),
     // Only the cards drawn so far; a novena naming none of them gives nothing.
     novenas: Object.fromEntries(
       Object.entries(novenas).map(([novena, cards]) => [novena, cards.filter((c) => drawn.has(c))]),
     ),
+    // Nothing in the app yet records finishing a book or a practice's lineage,
+    // so those doors stay shut.
     books: {},
     lineages: {},
     starters: starters.filter((id) => drawn.has(id)),
@@ -118,13 +120,22 @@ export function usePendingHolyCards(): Grant[] | undefined {
   // Memoized apart so a completion or a redeem re-runs only the step it changes.
   // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
   const novenas = useMemo(() => novenaActs(plan, day), [plan, today])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
+  const rounds = useMemo(() => roundActs(plan, day), [plan, today])
   const acts = useMemo(
-    () => [...liturgicalActs(completions), ...prayedDayActs(completions), ...novenas.acts],
-    [completions, novenas],
+    () => [
+      ...liturgicalActs(completions),
+      ...prayedDayActs(completions),
+      ...novenas.acts,
+      ...rounds.acts,
+    ],
+    [completions, novenas, rounds],
   )
   const catalog = useMemo(
-    () => holyCards && holyCardCatalog(holyCards.cards, holyCards.starters, novenas.cards),
-    [holyCards, novenas],
+    () =>
+      holyCards &&
+      holyCardCatalog(holyCards.cards, holyCards.starters, novenas.cards, rounds.cards),
+    [holyCards, novenas, rounds],
   )
 
   return useMemo(() => {

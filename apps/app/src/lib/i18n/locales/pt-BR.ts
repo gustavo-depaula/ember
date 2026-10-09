@@ -431,6 +431,7 @@ export default {
     custom: 'Dias Específicos',
     monthly: 'Mensal',
     holyDays: 'Dias Santos',
+    emberDays: 'Têmporas',
     nthWeekday: 'Dia da Semana',
     nthOf: '{{n}}{{ordinal}} {{day}} do mês',
     ordinal1: 'ª',
@@ -900,6 +901,7 @@ export default {
       triduum: 'Participar da liturgia de cada dia do Tríduo',
       gaudete: 'Ir à Missa no Domingo Gaudete',
       laetare: 'Ir à Missa no Domingo Laetare',
+      round: '{{name}}: guarde cada dia na sua data',
       today: '{{date}} · hoje',
       tomorrow: '{{date}} · amanhã',
       inDays_one: '{{date}} · daqui a {{count}} dia',
@@ -1256,6 +1258,10 @@ export default {
   },
 
   program: {
+    once: { year: 'este ano', round: 'as próximas' },
+    standing: { year: 'todos os anos', round: 'todas as vezes' },
+    keptWhole: 'Guardadas por inteiro',
+    nextRound: 'A seguir: {{name}} · {{date}}',
     dayOf: 'Dia {{day}} de {{total}}',
     begin: 'Iniciar Programa',
     beginWith: 'Iniciar em {{date}}',

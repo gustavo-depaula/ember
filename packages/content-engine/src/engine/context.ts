@@ -85,6 +85,9 @@ export type FlowContext = {
   trackState?: Record<string, { current_index: number }>
   cycleData?: Record<string, CycleData>
   programDay?: number
+  // The round a program the calendar brings round is on, or the next to come
+  // (an Ember season): the host names it, the flow selects on it.
+  round?: string
   templateVars?: Record<string, string | LocalizedText>
   resolvedProse?: ResolvedProse
   // Holds both repeat-iteration arrays (RepeatEntry[]) and DataSource load results (arbitrary objects).
@@ -121,6 +124,8 @@ export function getContextValue(context: FlowContext, key: string): string | und
     }
     case 'liturgicalSeason':
       return getLiturgicalSeason(context.date, context.liturgicalCalendar, context.ofTransfers)
+    case 'round':
+      return context.round
     default:
       return undefined
   }

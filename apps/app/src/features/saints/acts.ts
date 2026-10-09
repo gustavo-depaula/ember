@@ -1,4 +1,6 @@
-import type { Act } from '@ember/holy-cards'
+import type { Act, EmberSeason } from '@ember/holy-cards'
+import { logicalDay } from '@ember/liturgical'
+import { format } from 'date-fns'
 
 import { canonicalize, getEntry } from '@/content/contentIndex'
 import type { DayPrayer, LiturgicalAct, PracticeManifest } from '@/content/manifestTypes'
@@ -6,7 +8,7 @@ import { getManifest } from '@/content/resolver'
 import { type EventStoreState, resolveCompletions } from '@/db/events'
 import type { Completion } from '@/db/schema'
 import { isBackfill, prayedIdOf } from '@/features/plan-of-life/completion'
-import { programFinishedOn } from '@/features/plan-of-life/program'
+import { programFinishedOn, programRounds } from '@/features/plan-of-life/program'
 import { parseSchedule } from '@/features/plan-of-life/schedule'
 
 /** Whether praying `practiceId` is attending Mass or praying the Office. */
@@ -65,7 +67,10 @@ export function prayedDayActs(completions: Iterable<Completion>): Act[] {
     .map(([date]) => ({ kind: 'prayedDay', date }))
 }
 
-type Plan = Pick<EventStoreState, 'slots' | 'cursors' | 'completions' | 'completionsByPractice'>
+export type Plan = Pick<
+  EventStoreState,
+  'slots' | 'cursors' | 'completions' | 'completionsByPractice'
+>
 
 /**
  * The novenas in the plan finished well enough to give the card each names,
@@ -86,7 +91,7 @@ export function novenaActs(
     if (seen.has(practiceId)) continue
     seen.add(practiceId)
     const manifest = manifestOf(practiceId)
-    if (!manifest?.program || !manifest.holyCard) continue
+    if (!manifest?.program || manifest.program.days || !manifest.holyCard) continue
     const prayed = resolveCompletions(plan.completionsByPractice.get(practiceId), plan.completions)
       .filter((c) => !isBackfill(c))
       .map((c) => c.date)
@@ -100,6 +105,56 @@ export function novenaActs(
     if (!date) continue
     acts.push({ kind: 'novenaFinished', novena: practiceId, date })
     cards[practiceId] = [manifest.holyCard].flat()
+  }
+  return { acts, cards }
+}
+
+/**
+ * The dates a practice was marked on the day itself. A round's day is kept
+ * only so: a fast can't be made up, and a day ticked afterwards doesn't
+ * count.
+ */
+export function markedOnTheDay(plan: Plan, practiceId: string): Set<string> {
+  return new Set(
+    resolveCompletions(plan.completionsByPractice.get(practiceId), plan.completions)
+      .filter((c) => format(logicalDay(new Date(c.completed_at)), 'yyyy-MM-dd') === c.date)
+      .map((c) => c.date),
+  )
+}
+
+/** How many of a round's days were kept. */
+export function roundDaysKept(plan: Plan, practiceId: string, days: string[]): number {
+  const kept = markedOnTheDay(plan, practiceId)
+  return days.filter((d) => kept.has(d)).length
+}
+
+/**
+ * The rounds kept whole of the plan's programs dated by a rule (the Ember
+ * days), each dated its last day, with the card each round gives. A card
+ * unredeemed lapses within days, so the rounds listed around today are enough.
+ */
+export function roundActs(
+  plan: Plan,
+  today: Date,
+  manifestOf: (practiceId: string) => PracticeManifest | undefined = getManifest,
+): { acts: Act[]; cards: Record<string, string> } {
+  const todayStr = format(today, 'yyyy-MM-dd')
+  const acts: Act[] = []
+  const cards: Record<string, string> = {}
+  const seen = new Set<string>()
+  for (const slot of plan.slots.values()) {
+    const practiceId = slot.practice_id
+    if (seen.has(practiceId)) continue
+    seen.add(practiceId)
+    const program = manifestOf(practiceId)?.program
+    if (!program?.days) continue
+    Object.assign(cards, program.holyCard)
+    for (const round of programRounds(program, today)) {
+      const last = round.days.at(-1) as string
+      if (last > todayStr || roundDaysKept(plan, practiceId, round.days) < round.days.length)
+        continue
+      acts.push({ kind: 'emberDaysFinished', ember: round.key as EmberSeason, date: last })
+    }
   }
   return { acts, cards }
 }

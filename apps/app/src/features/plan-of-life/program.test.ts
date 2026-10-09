@@ -1,11 +1,15 @@
 import { describe, expect, it } from 'vitest'
 import type { ProgramConfig } from '@/content/manifestTypes'
 import {
+  calendarStart,
   computeAllDayStates,
   computeMissedDays,
   computeProgramProgress,
   computeShouldRestart,
+  currentRound,
   isUnderWay,
+  nextStandingStart,
+  programCursor,
   programDayDates,
   programFinishedOn,
   projectProgramAtDate,
@@ -14,7 +18,7 @@ import {
   traditionalStart,
 } from './program'
 import type { Schedule } from './schedule'
-import { getOccurrenceBasedProgramDay } from './schedule'
+import { getOccurrenceBasedProgramDay, isApplicableOn } from './schedule'
 
 function date(y: number, m: number, d: number): Date {
   return new Date(y, m - 1, d)
@@ -797,5 +801,109 @@ describe('traditionalStart', () => {
 
   it('is undefined for a program tied to no date', () => {
     expect(traditionalStart(novena(undefined), date(2027, 1, 1))).toBeUndefined()
+  })
+})
+
+describe('a program dated by a rule (the Ember days)', () => {
+  // Advent 2026: Wednesday 16, Friday 18 and Saturday 19 December.
+  const ember: ProgramConfig = {
+    totalDays: 3,
+    days: { type: 'ember-days' },
+    progressPolicy: 'continue',
+    completionBehavior: 'keep',
+  }
+  const standing: Schedule = { type: 'ember-days', standing: true }
+  const on = (target: Date, completionDatesAsc: string[], schedule = standing) =>
+    projectProgramAtDate({
+      program: ember,
+      schedule,
+      cursor: programCursor(ember, schedule, null, target),
+      completionDatesAsc,
+      realToday: target,
+      targetDate: target,
+    })
+
+  it('rests between rounds and begins each on its own first day', () => {
+    expect(programCursor(ember, standing, null, date(2026, 10, 9))).toBeNull()
+    expect(currentRound(ember, date(2026, 10, 9))).toEqual({
+      key: 'advent',
+      days: ['2026-12-16', '2026-12-18', '2026-12-19'],
+    })
+    expect(programCursor(ember, standing, null, date(2026, 12, 18))).toEqual({
+      started_at: '2026-12-16',
+    })
+    // A week past its Saturday it still stands, so its end is seen; then Lent's is next.
+    expect(currentRound(ember, date(2026, 12, 26))?.key).toBe('advent')
+    expect(currentRound(ember, date(2026, 12, 27))?.key).toBe('lent')
+  })
+
+  it('offers each day on its date, a missed one staying missed', () => {
+    const friday = on(date(2026, 12, 18), ['2026-12-16'])
+    expect(friday).toMatchObject({ visible: true, programDay: 1, completionCount: 1 })
+    const saturday = on(date(2026, 12, 19), ['2026-12-16'])
+    expect(saturday).toMatchObject({ visible: true, programDay: 2, shouldPromptRestart: false })
+    expect(computeAllDayStates(saturday).map((d) => d.isMissed)).toEqual([false, true, false])
+  })
+
+  it('joined for one round, keeps that round alone', () => {
+    const advent: Schedule = { type: 'ember-days', only: '2026-12-16' }
+    expect(on(date(2026, 12, 18), [], advent).visible).toBe(true)
+    // Lent 2027: 17, 19 and 20 February.
+    expect(isApplicableOn(advent, date(2027, 2, 17))).toBe(false)
+    expect(isApplicableOn(standing, date(2027, 2, 17))).toBe(true)
+    expect(programCursor(ember, advent, null, date(2027, 2, 17))).toBeNull()
+  })
+})
+
+describe('calendarStart', () => {
+  const christmas: ProgramConfig = {
+    totalDays: 9,
+    progressPolicy: 'continue',
+    completionBehavior: 'offer-restart',
+    ends: '12-24',
+    fixedDates: true,
+  }
+
+  it("is the round's first day, even once the round is under way", () => {
+    expect(calendarStart(christmas, date(2026, 10, 9))).toBe('2026-12-16')
+    expect(calendarStart(christmas, date(2026, 12, 20))).toBe('2026-12-16')
+    expect(calendarStart(christmas, date(2026, 12, 25))).toBe('2027-12-16')
+  })
+})
+
+describe('nextStandingStart', () => {
+  const christmas: ProgramConfig = {
+    totalDays: 9,
+    progressPolicy: 'continue',
+    completionBehavior: 'offer-restart',
+    ends: '12-24',
+    fixedDates: true,
+  }
+  const run = (startDate: string, standing: boolean): Schedule => ({
+    type: 'fixed-program',
+    totalDays: 9,
+    startDate,
+    ...(standing ? { standing: true } : {}),
+  })
+  const next = (today: Date, schedule: Schedule) =>
+    nextStandingStart({
+      program: christmas,
+      schedule,
+      cursor: { started_at: '2026-12-16' },
+      completionDatesAsc: [],
+      today,
+    })
+
+  it("begins a standing novena again on next year's date, a week after its last day", () => {
+    const standing = run('2026-12-16', true)
+    expect(next(date(2026, 12, 20), standing)).toBeUndefined()
+    expect(next(date(2026, 12, 30), standing)).toBeUndefined()
+    expect(next(date(2027, 1, 2), standing)).toBe('2027-12-16')
+    // Already set for it: nothing more to do until that run is done too.
+    expect(next(date(2027, 1, 3), run('2027-12-16', true))).toBeUndefined()
+  })
+
+  it('leaves a novena joined for one year alone', () => {
+    expect(next(date(2027, 1, 2), run('2026-12-16', false))).toBeUndefined()
   })
 })

@@ -20,7 +20,7 @@ import { getCelebrationsForDate, getLiturgicalSeason } from '@/lib/liturgical'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 import { type ChronicleDay, type ChronicleProgram, chronicleDay } from './chronicle'
-import { programDayDates } from './program'
+import { joinsRound, programDayDates, programRounds } from './program'
 import { planFidelity, practiceRecord, recordWall, ruleTimeline, type TimedEvent } from './record'
 import { parseSchedule } from './schedule'
 
@@ -201,7 +201,16 @@ export function useChronicle():
             today,
           })
         : []
-      list.push({ practiceId, time: slot?.time ?? null, dates })
+      // Rounds since it was joined: one before that was never hers to miss.
+      const joinedOn = cursors.get(`program/${practiceId}`)?.started_at ?? ''
+      const rounds =
+        slot && program.days
+          ? programRounds(program, today)
+              .filter((r) => joinsRound(parseSchedule(slot.schedule), r))
+              .filter((r) => (r.days.at(-1) as string) >= joinedOn)
+              .map((r) => r.days)
+          : undefined
+      list.push({ practiceId, time: slot?.time ?? null, dates, rounds })
     }
     return list
   }, [slots, practices, cursors, completions, completionsByPractice, today])

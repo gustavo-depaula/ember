@@ -339,6 +339,15 @@ function makeSourceAccessor(ctx: PreprocessContext): SourceAccessor {
   return accessor
 }
 
+/** One source's output outside a flow, for a page that shows a line of a practice's text. */
+export function fetchSource(
+  ref: string,
+  params: Record<string, unknown>,
+  ctx: PreprocessContext,
+): Promise<Primitive | Primitive[]> {
+  return fetchFromSource(ref, params, ctx, makeSourceAccessor(ctx))
+}
+
 async function fetchFromSource(
   ref: string,
   rawParams: Record<string, unknown>,

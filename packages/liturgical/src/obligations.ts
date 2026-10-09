@@ -1,7 +1,7 @@
-import { efVersion, emberDays } from '@ember/divinum-officium'
 import { addDays, format } from 'date-fns'
 
 import type { DayCalendar, LocalizedText } from './calendar-types'
+import { emberWeeks } from './ember'
 import { type Transfers, universalTransfers } from './of-temporal'
 import {
   computeEaster,
@@ -39,7 +39,7 @@ function getRules(jurisdiction: string | undefined): JurisdictionRules {
 // that picks the Extraordinary Form's Mass, so the fast falls on the day the
 // Mass is the Ember Mass.
 function isEmberDay(key: string, year: number): boolean {
-  return emberDays(year, efVersion).some((week) => week.days.includes(key))
+  return emberWeeks(year).some((week) => week.days.includes(key))
 }
 
 function getEfVigilDates(year: number): Date[] {

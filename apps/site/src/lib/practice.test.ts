@@ -67,3 +67,30 @@ test('the 1962 Mass and the Breviary assemble from the corpus', async () => {
   expect(text).toContain('Introíbo ad altáre Dei')
   expect(text).toContain('I will go in to the altar of God')
 })
+
+test("the Ember Days read the day's Mass from the 1962 missal, its lessons folded", async () => {
+  // Ember Saturday of September 2026: five lessons before the Epistle, and a
+  // commemoration of Sts. Cyprian and Justina that is the date's, not the day's.
+  const saturday = await renderPractice('ember-days', 'en-US', {
+    date: new Date(2026, 8, 26),
+    parallelLatin: true,
+  })
+  const primitives = saturday?.primitives ?? []
+  const folded = primitives.find(
+    (p): p is Container => p.type === 'container' && p.behavior.kind === 'collapsible',
+  )
+  const open = JSON.stringify(primitives.filter((p) => p !== folded))
+  expect(open).toContain('September Ember Days: Wednesday, September 23')
+  expect(open).toContain('Orémus.')
+  expect(open).toContain('Sequéntia ++ sancti Evangélii')
+  expect(open).not.toContain('Léctio')
+  const lessons = JSON.stringify(folded?.children)
+  expect(lessons.match(/Léctio/g)?.length).toBeGreaterThanOrEqual(6)
+  expect(lessons).toContain('Deus, qui tribus púeris mitigásti flammas ígnium')
+  expect(JSON.stringify(primitives)).not.toContain('Cypriáni')
+
+  const otherDay = await renderPractice('ember-days', 'en-US', { date })
+  const plain = JSON.stringify(otherDay?.primitives)
+  expect(plain).toContain('Advent Ember Days: Wednesday, December 16')
+  expect(plain).not.toContain('Gospel')
+})

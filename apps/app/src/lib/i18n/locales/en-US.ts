@@ -426,6 +426,7 @@ export default {
     custom: 'Specific Days',
     monthly: 'Monthly',
     holyDays: 'Holy Days',
+    emberDays: 'Ember Days',
     nthWeekday: 'Nth Weekday',
     nthOf: '{{n}}{{ordinal}} {{day}} of the month',
     ordinal1: 'st',
@@ -894,6 +895,7 @@ export default {
       triduum: 'Go to the liturgy of each day of the Triduum',
       gaudete: 'Go to Mass on Gaudete Sunday',
       laetare: 'Go to Mass on Laetare Sunday',
+      round: '{{name}}: keep each day on its own date',
       today: '{{date}} · today',
       tomorrow: '{{date}} · tomorrow',
       inDays_one: '{{date}} · in {{count}} day',
@@ -1250,6 +1252,10 @@ export default {
   },
 
   program: {
+    once: { year: 'this year', round: 'the next ones' },
+    standing: { year: 'every year', round: 'every time' },
+    keptWhole: 'Kept whole',
+    nextRound: 'Next: {{name}} · {{date}}',
     dayOf: 'Day {{day}} of {{total}}',
     begin: 'Begin Program',
     beginWith: 'Begin on {{date}}',

@@ -1,0 +1,79 @@
+{
+	"id": "ember-days",
+	"icon": "flame",
+	"name": {
+		"en-US": "Ember Days",
+		"pt-BR": "Quatro Têmporas"
+	},
+	"subtitle": {
+		"en-US": "Wednesday, Friday and Saturday, four times a year",
+		"pt-BR": "Quarta, sexta e sábado, quatro vezes ao ano"
+	},
+	"source": {
+		"en-US": "Catechism of St. Pius X, part III, ch. IV, q. 23 (the ends of the Ember fast). The day's collect, lessons and Gospel are read from the 1962 Roman Missal as Divinum Officium gives it.",
+		"pt-BR": "Catecismo de São Pio X, parte III, cap. IV, q. 23 (os fins do jejum das Têmporas). A oração, as leituras e o Evangelho do dia são lidos do Missal Romano de 1962, tal como o Divinum Officium o traz."
+	},
+	"categories": [
+		"program",
+		"seasonal",
+		"penance",
+		"liturgical"
+	],
+	"estimatedMinutes": 5,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"program": {
+		"totalDays": 3,
+		"days": {
+			"type": "ember-days"
+		},
+		"progressPolicy": "continue",
+		"completionBehavior": "keep",
+		"holyCard": {
+			"advent": "advent_ember_days",
+			"lent": "lent_ember_days",
+			"pentecost": "pentecost_ember_days",
+			"september": "september_ember_days"
+		},
+		"excerpt": {
+			"ref": "producer/ember-days",
+			"params": {
+				"only": "collect"
+			}
+		}
+	},
+	"data": {
+		"ember-days": "data/days.json"
+	},
+	"flow": "flow.json",
+	"description": {
+		"en-US": "Three days of fast and prayer — Wednesday, Friday and Saturday — kept four times a year: in the first week of Lent, the week of Pentecost, September and the third week of Advent. Joined once, they come round on their own days.",
+		"pt-BR": "Três dias de jejum e oração — quarta, sexta e sábado — guardados quatro vezes ao ano: na primeira semana da Quaresma, na semana de Pentecostes, em setembro e na terceira semana do Advento. Uma vez acolhidos, voltam por si nos seus próprios dias."
+	},
+	"history": {
+		"en-US": "*The fast of the Ember Days was instituted to consecrate every season of the year by penance on some days; to ask God for the preservation of the fruits of the earth; to thank Him for the fruits already given; and to pray Him to give His Church good ministers, whose ordination is performed on the Saturdays of the Ember Days.* (Catechism of St. Pius X, part III, ch. IV, q. 23.) The 1962 Roman Missal gives each of the twelve days a Mass of its own. The calendar of 1969 left the Ember Days to the bishops' conferences to arrange, so they have no universal dates in the newer form; this practice keeps the dates of the 1962 missal for everyone.",
+		"pt-BR": "*O jejum das Quatro Têmporas foi instituído para consagrar cada estação do ano com a penitência de alguns dias; para pedir a Deus a conservação dos frutos da terra; para agradecer-Lhe os frutos já dados; e para pedir-Lhe que dê à sua Igreja bons ministros, dos quais se faz a ordenação nos sábados das Quatro Têmporas.* (Catecismo de São Pio X, parte III, cap. IV, q. 23.) O Missal Romano de 1962 dá a cada um dos doze dias uma Missa própria. O calendário de 1969 deixou as Têmporas às conferências episcopais, de modo que não têm datas universais na forma mais nova; esta prática guarda, para todos, as datas do missal de 1962."
+	},
+	"howToPray": {
+		"en-US": "On each of the three days, fast as you are able, pray the collect and Gospel of the day's Mass (its lessons are there to open), and pray for the Church's ministers. A week kept whole, each day on its own date, gives that season's holy card.",
+		"pt-BR": "Em cada um dos três dias, jejue como puder, reze a oração e o Evangelho da Missa do dia (as suas leituras estão ali para abrir) e reze pelos ministros da Igreja. Uma semana guardada inteira, cada dia na sua data, dá o santinho daquela estação."
+	},
+	"tags": [
+		"ember-days",
+		"fast",
+		"penance",
+		"seasonal",
+		"vocations"
+	],
+	"defaults": {
+		"sortOrder": 13,
+		"slots": [
+			{
+				"schedule": {
+					"type": "ember-days"
+				},
+				"tier": "extra"
+			}
+		]
+	}
+}
