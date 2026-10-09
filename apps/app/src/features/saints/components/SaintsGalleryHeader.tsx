@@ -1,6 +1,6 @@
 import { SegmentedControl } from '@expo/ui/community/segmented-control'
 import { Link } from 'expo-router'
-import { useMemo } from 'react'
+import { useCallback, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform, Pressable, ScrollView, StyleSheet } from 'react-native'
 import { YStack } from 'tamagui'
@@ -11,6 +11,7 @@ import { useToday } from '@/hooks/useToday'
 import { selectionTick } from '@/lib/haptics'
 import type { SaintEntry } from '../data/catalog'
 import { useHeldCards } from '../data/collection'
+import { useSaintsViewStore } from '../store'
 import { SaintCardTile } from './SaintCardTile'
 import type { SaintGrouping } from './SaintWall'
 
@@ -41,6 +42,15 @@ export function SaintsGalleryHeader({
     const day = today.getDate()
     return saints.filter((s) => s.feast?.month === month && s.feast?.day === day).slice(0, 4)
   }, [saints, today])
+
+  // A card opened from the strip is swiped among the day's cards, not among
+  // its neighbours on the wall below; the wall publishes its own order again
+  // when the album regains focus.
+  const setOrderedIds = useSaintsViewStore((s) => s.setOrderedIds)
+  const openFromToday = useCallback(
+    () => setOrderedIds(todays.map((s) => s.id)),
+    [todays, setOrderedIds],
+  )
 
   const segmentValues = useMemo(() => groupings.map((g) => t(`saints.group.${g}`)), [t])
 
@@ -79,6 +89,7 @@ export function SaintsGalleryHeader({
                 key={saint.id}
                 saint={saint}
                 label={t('saints.cardLink', { name: saint.name })}
+                onOpen={openFromToday}
               />
             ))}
           </ScrollView>
@@ -114,9 +125,22 @@ export function SaintsGalleryHeader({
 
 const liveWidth = 104
 
-function LiveCard({ saint, label }: { saint: SaintEntry; label: string }) {
+function LiveCard({
+  saint,
+  label,
+  onOpen,
+}: {
+  saint: SaintEntry
+  label: string
+  onOpen: () => void
+}) {
   return (
-    <Link href={{ pathname: '/saints/[index]', params: { index: saint.id } }} push asChild>
+    <Link
+      href={{ pathname: '/saints/[index]', params: { index: saint.id } }}
+      push
+      asChild
+      onPress={onOpen}
+    >
       <Pressable accessibilityRole="link" accessibilityLabel={label} style={styles.liveCard}>
         <SaintCardTile saint={saint} width={liveWidth} />
       </Pressable>
