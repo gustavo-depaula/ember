@@ -1,3 +1,4 @@
+import { efVersion, emberDays } from '@ember/divinum-officium'
 import { addDays, format } from 'date-fns'
 
 import type { DayCalendar, LocalizedText } from './calendar-types'
@@ -34,61 +35,11 @@ function getRules(jurisdiction: string | undefined): JurisdictionRules {
   return (jurisdiction && jurisdictionRules[jurisdiction]) || defaultRules
 }
 
-function getEmberDays(year: number): Date[] {
-  const easter = computeEaster(year)
-  const pentecost = addDays(easter, 49)
-
-  // 1. After 1st Sunday of Lent (Lent starts Ash Wednesday = easter - 46, 1st Sunday = easter - 42)
-  const lent1Sunday = addDays(easter, -42)
-  const lentEmberWed = addDays(lent1Sunday, 3)
-  const lentEmberFri = addDays(lent1Sunday, 5)
-  const lentEmberSat = addDays(lent1Sunday, 6)
-
-  // 2. After Pentecost (week after Pentecost Sunday)
-  const pentEmberWed = addDays(pentecost, 3)
-  const pentEmberFri = addDays(pentecost, 5)
-  const pentEmberSat = addDays(pentecost, 6)
-
-  // 3. After Sept 14 (Exaltation of the Holy Cross) — Wed/Fri/Sat of the week following
-  const sept14 = new Date(year, 8, 14)
-  const septEmberWed = nextWeekday(sept14, 3)
-  const septEmberFri = nextWeekday(sept14, 5)
-  const septEmberSat = nextWeekday(sept14, 6)
-
-  // 4. After Dec 13 (St. Lucy) — Wed/Fri/Sat after the 3rd Sunday of Advent
-  const dec13 = new Date(year, 11, 13)
-  const adventEmberWed = nextWeekday(dec13, 3)
-  const adventEmberFri = nextWeekday(dec13, 5)
-  const adventEmberSat = nextWeekday(dec13, 6)
-
-  return [
-    lentEmberWed,
-    lentEmberFri,
-    lentEmberSat,
-    pentEmberWed,
-    pentEmberFri,
-    pentEmberSat,
-    septEmberWed,
-    septEmberFri,
-    septEmberSat,
-    adventEmberWed,
-    adventEmberFri,
-    adventEmberSat,
-  ]
-}
-
-function nextWeekday(after: Date, weekday: number): Date {
-  const d = new Date(after)
-  d.setDate(d.getDate() + 1)
-  while (d.getDay() !== weekday) {
-    d.setDate(d.getDate() + 1)
-  }
-  return normalizeDate(d)
-}
-
-function isEmberDay(date: Date, year: number): boolean {
-  const key = format(date, 'yyyy-MM-dd')
-  return getEmberDays(year).some((d) => format(d, 'yyyy-MM-dd') === key)
+// The Ember days come from the Divinum Officium engine's own reckoning, the one
+// that picks the Extraordinary Form's Mass, so the fast falls on the day the
+// Mass is the Ember Mass.
+function isEmberDay(key: string, year: number): boolean {
+  return emberDays(year, efVersion).some((week) => week.days.includes(key))
 }
 
 function getEfVigilDates(year: number): Date[] {
@@ -129,6 +80,9 @@ function isHolyDay(date: Date, calendar: Map<string, DayCalendar>): boolean {
   return day?.principal?.entry.holyDayOfObligation === true
 }
 
+// The app and the website both ask for 'of', so the Extraordinary Form's own
+// discipline below (Lenten weekdays, Ember days, vigils) is reached only by the
+// tests until a caller passes 'ef'.
 export function getDayObligations(
   date: Date,
   form: LiturgicalCalendarForm,
@@ -211,7 +165,7 @@ export function getDayObligations(
   }
 
   // EF-specific: Ember days
-  if (form === 'ef' && isEmberDay(d, year)) {
+  if (form === 'ef' && isEmberDay(key, year)) {
     if (!fast) {
       fast = true
       details.push({ 'en-US': 'Ember day fast', 'pt-BR': 'Jejum das Têmporas' })

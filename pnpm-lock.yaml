@@ -498,7 +498,11 @@ importers:
         specifier: '*'
         version: 4.1.0
 
-  packages/liturgical: {}
+  packages/liturgical:
+    dependencies:
+      '@ember/divinum-officium':
+        specifier: workspace:*
+        version: link:../divinum-officium
 
   packages/loth:
     dependencies:
