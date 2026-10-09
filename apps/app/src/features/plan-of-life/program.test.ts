@@ -8,6 +8,7 @@ import {
   computeShouldRestart,
   currentRound,
   isUnderWay,
+  nextStandingStart,
   programCursor,
   programDayDates,
   programFinishedOn,
@@ -867,5 +868,42 @@ describe('calendarStart', () => {
     expect(calendarStart(christmas, date(2026, 10, 9))).toBe('2026-12-16')
     expect(calendarStart(christmas, date(2026, 12, 20))).toBe('2026-12-16')
     expect(calendarStart(christmas, date(2026, 12, 25))).toBe('2027-12-16')
+  })
+})
+
+describe('nextStandingStart', () => {
+  const christmas: ProgramConfig = {
+    totalDays: 9,
+    progressPolicy: 'continue',
+    completionBehavior: 'offer-restart',
+    ends: '12-24',
+    fixedDates: true,
+  }
+  const run = (startDate: string, standing: boolean): Schedule => ({
+    type: 'fixed-program',
+    totalDays: 9,
+    startDate,
+    ...(standing ? { standing: true } : {}),
+  })
+  const next = (today: Date, schedule: Schedule) =>
+    nextStandingStart({
+      program: christmas,
+      schedule,
+      cursor: { started_at: '2026-12-16' },
+      completionDatesAsc: [],
+      today,
+    })
+
+  it("begins a standing novena again on next year's date, a week after its last day", () => {
+    const standing = run('2026-12-16', true)
+    expect(next(date(2026, 12, 20), standing)).toBeUndefined()
+    expect(next(date(2026, 12, 30), standing)).toBeUndefined()
+    expect(next(date(2027, 1, 2), standing)).toBe('2027-12-16')
+    // Already set for it: nothing more to do until that run is done too.
+    expect(next(date(2027, 1, 3), run('2027-12-16', true))).toBeUndefined()
+  })
+
+  it('leaves a novena joined for one year alone', () => {
+    expect(next(date(2027, 1, 2), run('2026-12-16', false))).toBeUndefined()
   })
 })

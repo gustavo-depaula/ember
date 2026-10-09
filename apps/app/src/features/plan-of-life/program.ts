@@ -435,6 +435,27 @@ export function calendarStart(
   return undefined
 }
 
+/**
+ * The date a standing novena is to begin again: the one its feast next sets,
+ * once this run's days are done and a week has gone by. Undefined while the
+ * run is under way or already set for that date, and for a program not joined
+ * as standing.
+ */
+export function nextStandingStart(args: {
+  program: ProgramConfig
+  schedule: Schedule
+  cursor: { started_at: string } | null
+  completionDatesAsc: string[]
+  today: Date
+  transfers?: Transfers
+}): string | undefined {
+  const { program, schedule, today, transfers } = args
+  if (!schedule.standing || schedule.type !== 'fixed-program') return undefined
+  if (isUnderWay(args)) return undefined
+  const next = traditionalStart(program, today, transfers)
+  return next && next !== schedule.startDate ? next : undefined
+}
+
 // A standing novena is out of sight until its days are this near.
 export const standingAheadDays = 30
 

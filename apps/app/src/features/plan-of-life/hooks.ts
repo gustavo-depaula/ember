@@ -31,11 +31,11 @@ import { rescheduleAllReminders } from '@/lib/notifications'
 
 import {
   isUnderWay,
+  nextStandingStart,
   programCursor,
   programDayDates,
   projectProgramAtDate,
   standingAheadDays,
-  traditionalStart,
 } from './program'
 import { parseSchedule } from './schedule'
 
@@ -548,8 +548,8 @@ export function useRollStandingPrograms(transfers?: Transfers) {
         if (!slot.enabled) continue
         const schedule = parseSchedule(slot.schedule)
         const program = getManifest(slot.practice_id)?.program
-        if (!program || !schedule.standing || schedule.type !== 'fixed-program') continue
-        const underWay = isUnderWay({
+        if (!program) continue
+        const next = nextStandingStart({
           program,
           schedule,
           cursor: cursors.get(`program/${slot.practice_id}`) ?? null,
@@ -558,9 +558,9 @@ export function useRollStandingPrograms(transfers?: Transfers) {
             completions,
           ),
           today,
+          transfers,
         })
-        const next = traditionalStart(program, today, transfers)
-        if (underWay || !next || next === schedule.startDate) continue
+        if (!next) continue
         await restartProgram(slot.practice_id, next)
         await updateSlot(slot.id, { schedule: JSON.stringify({ ...schedule, startDate: next }) })
       }
