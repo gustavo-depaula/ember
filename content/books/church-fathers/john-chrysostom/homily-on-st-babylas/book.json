@@ -2,13 +2,16 @@
   "id": "john-chrysostom-homily-on-st-babylas",
   "cover": "quarter",
   "name": {
-    "en-US": "Homily on St. Babylas"
+    "en-US": "Homily on St. Babylas",
+    "pt-BR": "Homilia sobre São Bábilas"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily on St. Babylas"
+        "en-US": "Homily on St. Babylas",
+        "pt-BR": "Homilia sobre São Bábilas"
       }
     }
   ]
