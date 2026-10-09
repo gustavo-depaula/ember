@@ -2,13 +2,16 @@
   "id": "tertullian-soul-s-testimony",
   "cover": "quarter",
   "name": {
-    "en-US": "The Soul's Testimony"
+    "en-US": "The Soul's Testimony",
+    "pt-BR": "O Testemunho da Alma"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Soul's Testimony"
+        "en-US": "The Soul's Testimony",
+        "pt-BR": "O Testemunho da Alma"
       }
     }
   ]
