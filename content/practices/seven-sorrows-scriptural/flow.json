@@ -145,10 +145,35 @@
       ]
     },
     {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Pray for us, Virgin most sorrowful.",
+            "pt-BR": "Rogai por nós, ó Virgem dolorosíssima.",
+            "la": "Ora pro nobis, Virgo dolorosíssima."
+          },
+          "r": {
+            "en-US": "That we may be made worthy of the promises of Christ.",
+            "pt-BR": "Para que sejamos dignos das promessas de Cristo.",
+            "la": "Ut digni efficiámur promissiónibus Christi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Let us pray.",
+        "pt-BR": "Oremos."
+      }
+    },
+    {
       "type": "prayer",
       "inline": {
-        "en-US": "Queen of Martyrs, whose heart suffered so incomprehensible a sorrow, assist me in the trials of my life and at the hour of my death. Give me a tender compassion for the sufferings of others, and the grace of final perseverance. Amen.",
-        "pt-BR": "Rainha dos Mártires, cujo coração sofreu uma dor tão incompreensível, assisti-me nas tribulações desta vida e na hora da minha morte. Dai-me uma terna compaixão pelos sofrimentos alheios e a graça da perseverança final. Amém."
+        "en-US": "Grant, we beseech Thee, O Lord Jesus Christ, that the most blessed Virgin Mary, Thy Mother, may intercede for us before the throne of Thy mercy, now and at the hour of our death, whose most holy soul was transfixed with the sword of sorrow in the hour of Thine own Passion. Through Thee, Jesus Christ, Saviour of the world, who livest and reignest with the Father and the Holy Ghost for ever and ever. Amen.",
+        "pt-BR": "Interceda por nós, vo-lo pedimos, Senhor Jesus Cristo, agora e na hora da nossa morte, junto à vossa clemência a Bem-aventurada Virgem Maria, vossa Mãe, cuja alma sacratíssima, na hora de vossa Paixão, foi transpassada por uma espada de dor. Vós, Salvador do mundo, que com o Pai e o Espírito Santo viveis e reinais pelos séculos dos séculos. Amém.",
+        "la": "Intervéniat pro nobis, quǽsumus, Dómine Jesu Christe, nunc et in hora mortis nostræ, apud tuam cleméntiam beáta Virgo María Mater tua, cujus sacratíssimam ánimam in hora tuæ Passiónis dolóris gládius pertransívit. Per te, Jesu Christe, Salvátor mundi, qui cum Patre et Spíritu Sancto vivis et regnas in sǽcula sæculórum. Amen."
       }
     }
   ]
