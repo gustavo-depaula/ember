@@ -65,8 +65,7 @@ export type FlowDefinition = {
 }
 
 // Adding a section type? Also register it in scripts/validate-flows.ts
-// (KNOWN_SECTION_TYPES) and the workshop flow editor (FlowNodeForm, FlowTree,
-// FlowPreview) — each keeps its own list and otherwise errors or renders `[type]`.
+// (KNOWN_SECTION_TYPES) — it keeps its own list and otherwise errors.
 export type FlowSection = { lang?: string } & (
   | { type: 'rubric'; text: LocalizedText }
   | { type: 'divider' }
