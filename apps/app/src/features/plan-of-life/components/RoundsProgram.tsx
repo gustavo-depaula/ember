@@ -159,11 +159,19 @@ export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
 
         <DayStars days={states.map((state, i) => ({ state, date: days[i] }))} />
 
+        {/* Titles span the page: Android measures a centred italic line a hair
+            too narrow when shrink-wrapped and drops its last word. */}
         <YStack alignItems="center" paddingTop="$xl">
           {over ? (
             // Every day gone by: kept whole, its card; otherwise only what comes next.
             <>
-              <Typography variant="sacred-title" fontSize={30} lineHeight={38} fontStyle="italic">
+              <Typography
+                variant="sacred-title"
+                fontSize={30}
+                lineHeight={38}
+                fontStyle="italic"
+                alignSelf="stretch"
+              >
                 {roundName(round)}
               </Typography>
               {prayed === days.length ? (
@@ -174,6 +182,7 @@ export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
                     tone="muted"
                     fontSize={18}
                     lineHeight={24}
+                    alignSelf="stretch"
                   >
                     {t('program.keptWhole')}
                   </Typography>
@@ -190,7 +199,13 @@ export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
               <Typography variant="sacred-title" fontSize={26} lineHeight={34} color="$accent">
                 {roman(focus + 1)}
               </Typography>
-              <Typography variant="sacred-title" fontSize={30} lineHeight={38} fontStyle="italic">
+              <Typography
+                variant="sacred-title"
+                fontSize={30}
+                lineHeight={38}
+                fontStyle="italic"
+                alignSelf="stretch"
+              >
                 {dayName(focus)}
               </Typography>
               <Typography
@@ -199,6 +214,7 @@ export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
                 tone="muted"
                 fontSize={18}
                 lineHeight={24}
+                alignSelf="stretch"
               >
                 {roundName(round)}
               </Typography>
@@ -222,7 +238,13 @@ export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
           ) : (
             // Not begun, or not joined: the round to come and what it prays.
             <>
-              <Typography variant="sacred-title" fontSize={30} lineHeight={38} fontStyle="italic">
+              <Typography
+                variant="sacred-title"
+                fontSize={30}
+                lineHeight={38}
+                fontStyle="italic"
+                alignSelf="stretch"
+              >
                 {roundName(round)}
               </Typography>
               {cardOf(round)?.prayerExcerpt ? (
