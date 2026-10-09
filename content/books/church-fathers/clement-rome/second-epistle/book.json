@@ -2,13 +2,16 @@
   "id": "clement-rome-second-epistle",
   "cover": "quarter",
   "name": {
-    "en-US": "Second Epistle"
+    "en-US": "Second Epistle",
+    "pt-BR": "Segunda Carta"
   },
   "author": {
-    "en-US": "Clement of Rome"
+    "en-US": "Clement of Rome",
+    "pt-BR": "Clemente de Roma"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Second Epistle"
+        "en-US": "Second Epistle",
+        "pt-BR": "Segunda Carta"
       }
     }
   ]
