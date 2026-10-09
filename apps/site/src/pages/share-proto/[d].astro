@@ -11,7 +11,7 @@ import { bootCorpus } from '~/lib/corpus'
 import { withLocale } from '~/lib/locale'
 
 export function getStaticPaths() {
-  return ['a', 'b', 'c', 'a1', 'a2', 'l1', 'l2', 'l3', 'o1', 'o2', 'o3', 'o4', 'o5', 'p1', 'p2', 'q1', 'q2', 'm1', 'm2', 'n1', 'n2'].map((d) => ({ params: { d } }))
+  return ['a', 'b', 'c', 'a1', 'a2', 'l1', 'l2', 'l3', 'o1', 'o2', 'o3', 'o4', 'o5', 'p1', 'p2', 'q1', 'q2', 'm1', 'm2', 'n1', 'n2', 'r1', 'r2'].map((d) => ({ params: { d } }))
 }
 const locale = 'pt-BR'
 await bootCorpus()
@@ -128,7 +128,7 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
           <div class="brand"><img src={d === "m1" ? "/proto/icon.png" : "/proto/icon-clear.png"} alt="" /><div><b>Ember</b><i>O companheiro para a vida católica de oração</i></div></div>
         </div>}
 
-        {(d === "n1" || d === "n2") && <div class={`og a x l1 m n ${d}`} style={`--from:${c.tone.from};--to:${c.tone.to}`}>
+        {(d === "n1" || d === "n2" || d === "r1" || d === "r2") && <div class={`og a x l1 m n ${d}`} style={`--from:${c.tone.from};--to:${c.tone.to}`}>
           <div class="main">
             <div class="stamp"><Cover cover={c.cover} id={c.id} title={c.name} locale={locale} /></div>
             <div class="txt">
@@ -265,6 +265,10 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
   .l1.n1 .brand em { font-style: italic; }
   .l1.n2 .brand p { font-family: var(--font-body); font-size: 34px; color: rgba(245,239,226,.75); }
   .l1.n2 .brand em { font-family: var(--font-title); font-style: italic; font-size: 52px; color: #f5efe2; margin-left: 4px; }
+
+  .l1.r1 .brand p, .l1.r2 .brand p { font-family: var(--font-body); font-weight: 400; font-size: 48px; }
+  .l1.r1 .brand em { font-style: normal; font-weight: 700; }
+  .l1.r2 .brand em { font-style: italic; font-weight: 700; }
 
   .o3 { background: #f4e7cd; color: #2c2418; display: flex; align-items: center; }
   .o3 .e { width: 460px; height: 460px; flex: none; margin-left: 10px; }
